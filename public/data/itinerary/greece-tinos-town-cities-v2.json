@@ -21,7 +21,8 @@
             "de": "Pallada-Platz",
             "hu": "Pallada tér",
             "ro": "Piața Pallada",
-            "en": "Pallada Square"
+            "en": "Pallada Square",
+            "el": "Πλατεία Παλλάδα"
           },
           "coords": [
             25.1633,
@@ -37,7 +38,8 @@
             "de": "Starten Sie hier mit einem Freddo Cappuccino in einem der Kafenions.",
             "hu": "Indítsa a napot egy freddo cappuccinóval az egyik helyi kafenionban.",
             "ro": "Începeți ziua aici cu un freddo cappuccino la una dintre cafenele.",
-            "en": "Start your day here with a freddo cappuccino at one of the kafenions."
+            "en": "Start your day here with a freddo cappuccino at one of the kafenions.",
+            "el": "Ξεκινήστε τη μέρα σας εδώ με έναν φρέντο καπουτσίνο σε κάποιο από τα καφενεία."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Odos Evangelistrias",
             "hu": "Evangelistrias út",
             "ro": "Odos Evangelistrias",
-            "en": "Evangelistrias Street"
+            "en": "Evangelistrias Street",
+            "el": "Οδός Ευαγγελίστριας"
           },
           "coords": [
             25.1625,
@@ -61,7 +64,8 @@
             "de": "Dies ist der Pilgerweg zur Kirche. Achten Sie auf die Gläubigen, die auf Knien kriechen.",
             "hu": "Ez a zarándokút a templomhoz. Figyelje meg a térden csúszó hívőket.",
             "ro": "Acesta este drumul de pelerinaj spre biserică. Fiți atenți la credincioșii care urcă în genunchi.",
-            "en": "This is the pilgrim's path to the church. Notice the faithful crawling on their knees."
+            "en": "This is the pilgrim's path to the church. Notice the faithful crawling on their knees.",
+            "el": "Αυτή είναι η προσκυνηματική διαδρομή προς την εκκλησία. Προσέξτε τους πιστούς που σέρνονται στα γόνατα."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Panagia Evangelistria",
             "hu": "Panagia Evangelistria-székesegyház",
             "ro": "Panagia Evangelistria",
-            "en": "Panagia Evangelistria"
+            "en": "Panagia Evangelistria",
+            "el": "Παναγία Ευαγγελίστρια"
           },
           "coords": [
             25.1617,
@@ -85,7 +90,8 @@
             "de": "Besuchen Sie das Mausoleum im Inneren, wo das Elli-Kreuzer-Wrack aufbewahrt wird.",
             "hu": "Látogassa meg a bent található mauzóleumot, ahol az Elli-cirkáló roncsait őrzik.",
             "ro": "Vizitați mausoleul din interior, unde se află epava crucișătorului Elli.",
-            "en": "Visit the mausoleum inside, where wreckage from the cruiser Elli is kept."
+            "en": "Visit the mausoleum inside, where wreckage from the cruiser Elli is kept.",
+            "el": "Επισκεφθείτε το μαυσωλείο στο εσωτερικό, όπου φυλάσσονται συντρίμμια από το καταδρομικό ‘Έλλη’."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Museum der Tiner Künstler",
             "hu": "Tínoszi Művészek Múzeuma",
             "ro": "Muzeul Artiștilor din Tinos",
-            "en": "Museum of Tinian Artists"
+            "en": "Museum of Tinian Artists",
+            "el": "Μουσείο Τηνιακών Καλλιτεχνών"
           },
           "coords": [
             25.1619,
@@ -109,7 +116,8 @@
             "de": "Konzentrieren Sie sich auf die Werke des berühmten Bildhauers Giannoulis Chalepas.",
             "hu": "Fókuszáljon a híres szobrász, Giannoulis Chalepas műveire.",
             "ro": "Concentrați-vă pe lucrările faimosului sculptor Giannoulis Chalepas.",
-            "en": "Focus on the works of the famous sculptor Giannoulis Chalepas."
+            "en": "Focus on the works of the famous sculptor Giannoulis Chalepas.",
+            "el": "Επικεντρωθείτε στα έργα του διάσημου γλύπτη Γιαννούλη Χαλεπά."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Archäologisches Museum Tinos",
             "hu": "Tínoszi Régészeti Múzeum",
             "ro": "Muzeul de Arheologie din Tinos",
-            "en": "Archaeological Museum of Tinos"
+            "en": "Archaeological Museum of Tinos",
+            "el": "Αρχαιολογικό Μουσείο Τήνου"
           },
           "coords": [
             25.1622,
@@ -133,7 +142,8 @@
             "de": "Suchen Sie nach den Funden aus dem Heiligtum von Poseidon und Amphitrite.",
             "hu": "Keresse a Poszeidón és Amphitrité szentélyéből származó leleteket.",
             "ro": "Căutați artefactele din sanctuarul lui Poseidon și Amfitrita.",
-            "en": "Look for the findings from the sanctuary of Poseidon and Amphitrite."
+            "en": "Look for the findings from the sanctuary of Poseidon and Amphitrite.",
+            "el": "Αναζητήστε τα ευρήματα από το ιερό του Ποσειδώνα και της Αμφιτρίτης."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Elli-Denkmal",
             "hu": "Elli-emlékmű",
             "ro": "Monumentul Elli",
-            "en": "Elli Monument"
+            "en": "Elli Monument",
+            "el": "Μνημείο Έλλης"
           },
           "coords": [
             25.1648,
@@ -157,7 +168,8 @@
             "de": "Ein ergreifender Ort, der an den Untergang des Kreuzers im Hafen im Jahr 1940 erinnert.",
             "hu": "Megrendítő hely, amely az 1940-ben a kikötőben elsüllyesztett cirkálóra emlékeztet.",
             "ro": "Un loc emoționant care comemorează scufundarea crucișătorului în port în 1940.",
-            "en": "A poignant spot commemorating the sinking of the cruiser in the harbor in 1940."
+            "en": "A poignant spot commemorating the sinking of the cruiser in the harbor in 1940.",
+            "el": "Ένα συγκινητικό σημείο που τιμά την βύθιση του καταδρομικού στο λιμάνι το 1940."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Uferpromenade Tinos",
             "hu": "Tínoszi parti sétány",
             "ro": "Promenada de pe faleza din Tinos",
-            "en": "Tinos Waterfront Promenade"
+            "en": "Tinos Waterfront Promenade",
+            "el": "Παραλιακός Πεζόδρομος Τήνου"
           },
           "coords": [
             25.1667,
@@ -181,7 +194,8 @@
             "de": "Beenden Sie den Tag mit einem Ouzo und Meze in einer der vielen Tavernen am Wasser.",
             "hu": "Zárja a napot egy ouzóval és meze-vel a parti tavernák egyikében.",
             "ro": "Încheiați ziua cu un ouzo și meze la una dintre numeroasele taverne de pe malul apei.",
-            "en": "End the day with an ouzo and meze at one of the many waterfront tavernas."
+            "en": "End the day with an ouzo and meze at one of the many waterfront tavernas.",
+            "el": "Κλείστε τη μέρα με ούζο και μεζέ σε μία από τις πολλές παραλιακές ταβέρνες."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Ihr Tag in Tinos-Stadt beginnt am belebten Pallada-Platz, bevor Sie den heiligen Weg der Odos Evangelistrias hinauf zur prächtigen Panagia Evangelistria gehen. Am Vormittag tauchen Sie in die lokale Kunst und antike Geschichte in den nahegelegenen Museen ein. Der Nachmittag führt Sie zurück zum Hafen, wo Sie am Elli-Denkmal innehalten und einen langen Spaziergang entlang der lebhaften Uferpromenade genießen, die von Tavernen und dem Rauschen der Wellen gesäumt ist. Der Abend ist perfekt, um die berühmte Gastronomie der Insel mit Blick auf den Sonnenuntergang über der Ägäis zu genießen.",
         "hu": "A tínoszi nap a nyüzsgő Pallada téren kezdődik, mielőtt végigsétálna a szent Odos Evangelistrias úton a csodálatos Panagia Evangelistria templomig. A délelőtt a helyi művészet és az ókori történelem felfedezésével telik a közeli múzeumokban. Délután visszatér a kikötőbe, ahol megáll az Elli-emlékműnél, majd egy hosszú sétát tesz a tavernák és a hullámok hangja által szegélyezett élénk parti sétányon. Az este tökéletes alkalom a sziget híres gasztronómiájának élvezetére, miközben az égei-tengeri naplementében gyönyörködik.",
         "ro": "Ziua dvs. în orașul Tinos începe în Piața plină de viață Pallada, înainte de a urca pe calea sacră a Odos Evangelistrias către magnificul Panagia Evangelistria. Dimineața este dedicată artei locale și istoriei antice la muzeele din apropiere. După-amiaza vă aduce înapoi în port pentru a reflecta la Monumentul Elli, urmată de o plimbare lungă de-a lungul promenadei vibrante de la malul apei, plină de taverne și de sunetul valurilor. Seara este perfectă pentru a savura gastronomia renumită a insulei cu vedere la apusul soarelui peste Marea Egee.",
-        "en": "Your day in Tinos Town begins in the bustling Pallada Square before walking the sacred path of Odos Evangelistrias up to the magnificent Panagia Evangelistria. The morning is for immersing yourself in local art and ancient history at the nearby museums. The afternoon brings you back down to the port to reflect at the Elli Monument, followed by a long stroll along the vibrant waterfront promenade, lined with tavernas and the sound of the waves. Evening is perfect for enjoying the island's famed gastronomy overlooking the Aegean sunset."
+        "en": "Your day in Tinos Town begins in the bustling Pallada Square before walking the sacred path of Odos Evangelistrias up to the magnificent Panagia Evangelistria. The morning is for immersing yourself in local art and ancient history at the nearby museums. The afternoon brings you back down to the port to reflect at the Elli Monument, followed by a long stroll along the vibrant waterfront promenade, lined with tavernas and the sound of the waves. Evening is perfect for enjoying the island's famed gastronomy overlooking the Aegean sunset.",
+        "el": "Η μέρα σας στην Τήνο ξεκινά στην πολυσύχναστη Πλατεία Παλλάδα πριν περπατήσετε το ιερό μονοπάτι της Οδού Ευαγγελίστριας προς την επιβλητική Παναγία Ευαγγελίστρια. Το πρωί αφιερώνεται στην τοπική τέχνη και την αρχαία ιστορία στα κοντινά μουσεία. Το απόγευμα επιστρέφετε στο λιμάνι για να συλλογιστείτε στο Μνημείο της Έλλης και ακολουθεί ένας μεγάλος περίπατος κατά μήκος του ζωηρού παραλιακού πεζόδρομου με ταβέρνες και τον ήχο των κυμάτων. Το βράδυ είναι ιδανικό για να απολαύσετε την περίφημη γαστρονομία του νησιού με θέα το αιγαιοπελαγίτικο ηλιοβασίλεμα."
       },
       "gastro_picks": {
         "de": [
@@ -385,6 +400,12 @@
           "Modest dress (covered shoulders and knees) is required to enter Panagia Evangelistria.",
           "Most shops observe a siesta from around 2:00 PM to 5:00 PM.",
           "Be sure to try the local cheeses and cured meats, which are a specialty of Tinos."
+        ],
+        "el": [
+          "Φορέστε άνετα παπούτσια καθώς οι μαρμάρινοι δρόμοι μπορεί να είναι ολισθηροί.",
+          "Απαιτείται σεμνή ενδυμασία (σκεπτομένοι ώμοι και γόνατα) για την είσοδο στην Παναγία Ευαγγελίστρια.",
+          "Οι περισσότερες επιχειρήσεις τηρούν σιέστα περίπου από τις 14:00 έως τις 17:00.",
+          "Μην παραλείψετε να δοκιμάσετε τα τοπικά τυριά και τα αλλαντικά, που είναι σπεσιαλιτέ της Τήνου."
         ]
       },
       "variants": {
@@ -393,7 +414,8 @@
             "de": "Der Tag beginnt am Pallada-Platz, wo Cafés Schutz vor dem Regen bieten. Über die gepflasterte Evangelistrias-Straße erreichen wir die große Basilika, deren Innenraum trocken und friedlich ist. Den Mittag verbringen wir ausgiebig in den Kunst- und Archäologiemuseen. Am späten Nachmittag werfen wir einen kurzen Blick auf das Elli-Denkmal und beenden den Tag in einer gemütlichen Taverne am Hafen.",
             "hu": "A nap a Pallada téren indul, ahol a kávézók menedéket nyújtanak az eső elől. Az Evangelistrias utcán ernyővel sétálunk fel a székesegyházhoz, amelynek belső tere száraz és csendes. A délutánt a Tínoszi Művészek Múzeumában és a Régészeti Múzeumban töltjük, távol a víztől. Rövid megálló az Elli emlékműnél, majd az estét egy kikötői taverna melegében zárjuk.",
             "ro": "Ziua începe în Piața Pallada, unde cafenelele oferă adăpost de ploaie. Pe strada Evangelistrias urcăm cu umbrela spre marea basilică, al cărei interior este uscat și liniștit. Prânzul este dedicat muzeelor de artă și arheologie. După-amiaza târziu aruncăm o privire rapidă la Monumentul Elli și încheiem ziua într-o tavernă primitoare din port.",
-            "en": "The day starts at Pallada Square, where cafes provide shelter from the rain. We walk up Evangelistrias Street with umbrellas to the great basilica, finding its interior dry and peaceful. Midday is spent exploring the Art and Archaeological museums. In the late afternoon, we take a quick look at the Elli Monument and end the day in a cozy harbor tavern."
+            "en": "The day starts at Pallada Square, where cafes provide shelter from the rain. We walk up Evangelistrias Street with umbrellas to the great basilica, finding its interior dry and peaceful. Midday is spent exploring the Art and Archaeological museums. In the late afternoon, we take a quick look at the Elli Monument and end the day in a cozy harbor tavern.",
+            "el": "Η μέρα ξεκινά στην Πλατεία Παλλάδα, όπου τα καφέ προσφέρουν καταφύγιο από τη βροχή. Ανεβαίνουμε στην Οδό Ευαγγελίστριας με ομπρέλες προς τη μεγάλη βασιλική, βρίσκοντας το εσωτερικό στεγνό και ήρεμο. Το μεσημέρι αφιερώνεται στην εξερεύνηση των Μουσείων Τέχνης και Αρχαιολογίας. Αργά το απόγευμα κάνουμε μια σύντομη στάση στο Μνημείο της Έλλης και τελειώνουμε τη μέρα σε μια ζεστή λιμενική ταβέρνα."
           },
           "stops": [
             {
@@ -402,7 +424,8 @@
                 "de": "Suchen Sie Schutz unter den Markisen der Cafés am Platz.",
                 "hu": "Keressen menedéket a tér kávézóinak árkádjai alatt.",
                 "ro": "Căutați adăpost sub copertinele cafenelelor din piață.",
-                "en": "Find shelter under the awnings of the square's cafes."
+                "en": "Find shelter under the awnings of the square's cafes.",
+                "el": "Βρείτε καταφύγιο κάτω από τα τέντα των καφέ της πλατείας."
               }
             },
             {
@@ -411,7 +434,8 @@
                 "de": "Vorsicht, das Marmorpflaster ist bei Nässe sehr rutschig.",
                 "hu": "Vigyázat, a márványburkolat esőben rendkívül csúszós.",
                 "ro": "Atenție, pavajul de marmură este foarte alunecos pe ploaie.",
-                "en": "Caution, the marble pavement is very slippery when wet."
+                "en": "Caution, the marble pavement is very slippery when wet.",
+                "el": "Προσοχή, το μαρμάρινο δάπεδο γίνεται πολύ ολισθηρό όταν είναι βρεγμένο."
               }
             },
             {
@@ -420,7 +444,8 @@
                 "de": "Der weitläufige Innenraum bietet perfekten Schutz vor Regen.",
                 "hu": "A tágas belső tér tökéletes menedék az eső elől.",
                 "ro": "Interiorul spațios oferă un adăpost perfect împotriva ploii.",
-                "en": "The spacious interior offers perfect shelter from the rain."
+                "en": "The spacious interior offers perfect shelter from the rain.",
+                "el": "Ο ευρύχωρος εσωτερικός χώρος προσφέρει τέλειο καταφύγιο από τη βροχή."
               }
             },
             {
@@ -429,7 +454,8 @@
                 "de": "Nutzen Sie die Regenpause für den Weg zwischen den Museen.",
                 "hu": "Használja ki az esőszünetet a múzeumok közötti átjutáshoz.",
                 "ro": "Profită de pauzele de ploaie pentru drumul între muzee.",
-                "en": "Take advantage of rain breaks for the walk between museums."
+                "en": "Take advantage of rain breaks for the walk between museums.",
+                "el": "Επωφεληθείτε από τα διαλείμματα της βροχής για τη διαδρομή ανάμεσα στα μουσεία."
               }
             },
             {
@@ -438,7 +464,8 @@
                 "de": "Die Innenhöfe sind überdacht, ideal für Besichtigungen bei Regen.",
                 "hu": "A belső udvarok fedettek, ideálisak esős látogatáshoz.",
                 "ro": "Curțile interioare sunt acoperite, ideale pentru vizitare pe ploaie.",
-                "en": "The inner courtyards are covered, ideal for rainy visits."
+                "en": "The inner courtyards are covered, ideal for rainy visits.",
+                "el": "Τα εσωτερικά αίθρια είναι στεγασμένα, ιδανικά για επισκέψεις σε βροχή."
               }
             },
             {
@@ -447,7 +474,8 @@
                 "de": "Kurzer Stopp am Denkmal, bevor der Wind vom Meer zu stark wird.",
                 "hu": "Gyors megálló, mielőtt a tengeri szél túl erőssé válna.",
                 "ro": "Oprire scurtă înainte ca vântul de pe mare să devină prea puternic.",
-                "en": "Short stop at the monument before the sea wind gets too strong."
+                "en": "Short stop at the monument before the sea wind gets too strong.",
+                "el": "Σύντομη στάση στο μνημείο πριν δυναμώσει ο θαλασσινός άνεμος."
               }
             },
             {
@@ -456,7 +484,8 @@
                 "de": "Genießen Sie den Blick auf die Wellen aus einem Hafenrestaurant.",
                 "hu": "Élvezze a hullámok látványát egy kikötői étterem ablakából.",
                 "ro": "Bucurați-vă de vederea valurilor dintr-un restaurant din port.",
-                "en": "Enjoy the view of the waves from a harbor restaurant."
+                "en": "Enjoy the view of the waves from a harbor restaurant.",
+                "el": "Απολαύστε τη θέα των κυμάτων από ένα εστιατόριο στο λιμάνι."
               }
             }
           ],
@@ -488,6 +517,13 @@
               "Many harbor taverns have heated outdoor areas with plastic sheeting in winter.",
               "Time your museum visits during the heaviest rainfall at midday.",
               "A sturdy umbrella is essential due to the often strong winds in Tinos."
+            ],
+            "el": [
+              "Φορέστε παπούτσια με καλό κράτημα καθώς ο μαρμαρυγικός της πόλης γίνεται καθρεπτιστικά ολισθηρός όταν βραχεί.",
+              "Η εκκλησία της Παναγίας Ευαγγελίστριας είναι ιδανικό μέρος για να περιμένετε να σταματήσει η μπόρα.",
+              "Πολλές λιμενικές ταβέρνες διαθέτουν θερμαινόμενους εξωτερικούς χώρους με πλαστικό κάλυμμα το χειμώνα.",
+              "Προγραμματίστε τις επισκέψεις σας στα μουσεία κατά τη διάρκεια της πιο έντονης βροχόπτωσης το μεσημέρι.",
+              "Μια γερή ομπρέλα είναι απαραίτητη λόγω των συχνά δυνατών ανέμων στην Τήνο."
             ]
           }
         },
@@ -496,7 +532,8 @@
             "de": "Die Wintersonne beleuchtet den Pallada-Platz, während wir die frische Meeresluft genießen. Der Aufstieg zur Kirche ist bei kühleren Temperaturen angenehmer. Nach dem Besuch der Kunstgalerien wärmen wir uns im Archäologischen Museum auf. Da die Sonne gegen 17:00 Uhr untergeht, besuchen wir das Elli-Denkmal früher und beenden den Spaziergang bei Dämmerung an der Uferpromenade.",
             "hu": "A téli napsütés megvilágítja a Pallada teret, miközben élvezzük a friss tengeri levegőt. A templomhoz vezető emelkedő hűvösebb időben sokkal kellemesebb. A képtárak után a Régészeti Múzeumban melegszünk fel. Mivel a nap 17:00 körül nyugszik, az Elli emlékművet korábban érintjük, és a sötétedő parton fejezzük be a sétát.",
             "ro": "Soarele de iarnă luminează Piața Pallada în timp ce ne bucurăm de aerul proaspăt marin. Urcarea spre biserică este mai plăcută la temperaturi scăzute. După galeriile de artă, ne încălzim în Muzeul de Arheologie. Deoarece soarele apune în jur de ora 17:00, vizităm Monumentul Elli mai devreme și încheiem plimbarea pe faleză la amurg.",
-            "en": "Winter sun illuminates Pallada Square as we enjoy the crisp sea air. The climb to the church is more pleasant in cooler temperatures. After visiting the art galleries, we warm up in the Archaeological Museum. Since the sun sets around 5:00 PM, we visit the Elli Monument earlier and finish our walk along the waterfront at dusk."
+            "en": "Winter sun illuminates Pallada Square as we enjoy the crisp sea air. The climb to the church is more pleasant in cooler temperatures. After visiting the art galleries, we warm up in the Archaeological Museum. Since the sun sets around 5:00 PM, we visit the Elli Monument earlier and finish our walk along the waterfront at dusk.",
+            "el": "Ο χειμωνιάτικος ήλιος φωτίζει την Πλατεία Παλλάδα καθώς απολαμβάνουμε τον δροσερό θαλασσινό αέρα. Η ανάβαση στην εκκλησία είναι πιο ευχάριστη σε ψυχρότερες θερμοκρασίες. Μετά την επίσκεψη στις αίθουσες τέχνης, ζεσταινόμαστε στο Αρχαιολογικό Μουσείο. Εφόσον ο ήλιος δύει γύρω στις 17:00, επισκεπτόμαστε νωρίτερα το Μνημείο της Έλλης και ολοκληρώνουμε τον περίπατο κατά μήκος της παραλίας στο λυκόφως."
           },
           "stops": [
             {
@@ -505,7 +542,8 @@
                 "de": "Genießen Sie die Sonne, bevor sie hinter den Gebäuden verschwindet.",
                 "hu": "Élvezze a napsütést, mielőtt az eltűnik az épületek mögött.",
                 "ro": "Bucurați-vă de soare înainte ca acesta să dispară după clădiri.",
-                "en": "Enjoy the sun before it disappears behind the buildings."
+                "en": "Enjoy the sun before it disappears behind the buildings.",
+                "el": "Απολαύστε τον ήλιο πριν χαθεί πίσω από τα κτίρια."
               }
             },
             {
@@ -514,7 +552,8 @@
                 "de": "Die kühle Brise macht den steilen Aufstieg heute mühelos.",
                 "hu": "A hűvös szellő ma könnyűvé teszi a meredek emelkedőt.",
                 "ro": "Briza răcoroasă face urcarea abruptă mult mai ușoară astăzi.",
-                "en": "The cool breeze makes the steep climb effortless today."
+                "en": "The cool breeze makes the steep climb effortless today.",
+                "el": "Το δροσερό αεράκι κάνει την απότομη ανάβαση άνετη σήμερα."
               }
             },
             {
@@ -523,7 +562,8 @@
                 "de": "Besuchen Sie die Kirche am Vormittag für das beste Licht.",
                 "hu": "Látogasson el délelőtt, ekkor a legszebbek a fények a templomban.",
                 "ro": "Vizitați biserica dimineața pentru cea mai bună lumină.",
-                "en": "Visit the church in the morning for the best light."
+                "en": "Visit the church in the morning for the best light.",
+                "el": "Επισκεφθείτε την εκκλησία το πρωί για το καλύτερο φως."
               }
             },
             {
@@ -532,7 +572,8 @@
                 "de": "Prüfen Sie die Winteröffnungszeiten, da diese oft verkürzt sind.",
                 "hu": "Ellenőrizze a téli nyitvatartást, mert gyakran rövidített.",
                 "ro": "Verificați programul de iarnă, deoarece este adesea scurtat.",
-                "en": "Check winter opening hours, as they are often shortened."
+                "en": "Check winter opening hours, as they are often shortened.",
+                "el": "Ελέγξτε τις χειμερινές ώρες λειτουργίας, καθώς συχνά είναι μειωμένες."
               }
             },
             {
@@ -541,7 +582,8 @@
                 "de": "Die Innenräume bieten Schutz vor dem kalten Nordwind.",
                 "hu": "A belső terek védelmet nyújtanak a hideg északi szél ellen.",
                 "ro": "Spațiile interioare oferă protecție împotriva vântului rece de nord.",
-                "en": "The interior spaces provide protection from the cold north wind."
+                "en": "The interior spaces provide protection from the cold north wind.",
+                "el": "Οι εσωτερικοί χώροι παρέχουν προστασία από το ψυχρό βόρειο άνεμο."
               }
             },
             {
@@ -550,7 +592,8 @@
                 "de": "Das Licht der tiefstehenden Sonne ist ideal für Fotos vom Denkmal.",
                 "hu": "Az alacsony napállás fénye tökéletes fotózáshoz az emlékműnél.",
                 "ro": "Lumina soarelui la apus este ideală pentru fotografii la monument.",
-                "en": "The low sun light is ideal for photos at the monument."
+                "en": "The low sun light is ideal for photos at the monument.",
+                "el": "Το χαμηλό φως του ήλιου είναι ιδανικό για φωτογραφίες στο μνημείο."
               }
             },
             {
@@ -559,7 +602,8 @@
                 "de": "Beenden Sie den Spaziergang vor 17:30 Uhr, wenn es kühl wird.",
                 "hu": "Fejezze be a sétát 17:30 előtt, utána hirtelen lehűl az idő.",
                 "ro": "Încheiați plimbarea înainte de 17:30, când se face răcoare.",
-                "en": "Finish your walk before 5:30 PM when it gets chilly."
+                "en": "Finish your walk before 5:30 PM when it gets chilly.",
+                "el": "Τελειώστε τον περίπατό σας πριν τις 17:30 όταν κάνει κρύο."
               }
             }
           ],
@@ -591,6 +635,13 @@
               "Tinos is very quiet in winter, perfect for an authentic experience without crowds.",
               "The sun disappears early behind the mountains, plan outdoor activities for the morning.",
               "Wear layers as it is warm in the sun but chilly in the shade."
+            ],
+            "el": [
+              "Ο βόρειος άνεμος (Βοριάς) μπορεί να είναι ιδιαίτερα κρύος το χειμώνα· η θωράκιση από τον άνεμο είναι σημαντική.",
+              "Τα μουσεία συχνά κλείνουν νωρίτερα το χειμώνα, συνήθως γύρω στις 15:00 ή 16:00.",
+              "Η Τήνος είναι πολύ ήσυχη το χειμώνα, ιδανική για αυθεντική εμπειρία χωρίς πλήθος.",
+              "Ο ήλιος χάνεται νωρίς πίσω από τα βουνά, σχεδιάστε υπαίθριες δραστηριότητες για το πρωί.",
+              "Φορέστε στρώσεις ρούχων καθώς είναι ζεστά στον ήλιο αλλά δροσερά στη σκιά."
             ]
           }
         }
@@ -609,7 +660,8 @@
             "de": "Uferpromenade Tinos",
             "hu": "Tínoszi parti sétány",
             "ro": "Promenada de pe faleza din Tinos",
-            "en": "Tinos Waterfront Promenade"
+            "en": "Tinos Waterfront Promenade",
+            "el": "Παραλιακός Πεζόδρομος Τήνου"
           },
           "coords": [
             25.1667,
@@ -625,7 +677,8 @@
             "de": "Beginnen Sie mit einer leichten Radtour entlang der Küste, um die Morgenbrise zu genießen.",
             "hu": "Kezdje egy könnyű biciklizéssel a part mentén, hogy élvezze a reggeli szellőt.",
             "ro": "Începeți cu o plimbare ușoară cu bicicleta de-a lungul coastei pentru a vă bucura de briza dimineții.",
-            "en": "Start with a light cycle along the coast to enjoy the morning breeze."
+            "en": "Start with a light cycle along the coast to enjoy the morning breeze.",
+            "el": "Ξεκινήστε με μια ελαφριά ποδηλασία κατά μήκος της ακτής για να απολαύσετε το πρωινό αεράκι."
           }
         },
         {
@@ -633,7 +686,8 @@
             "de": "Elli-Denkmal",
             "hu": "Elli-emlékmű",
             "ro": "Monumentul Elli",
-            "en": "Elli Monument"
+            "en": "Elli Monument",
+            "el": "Μνημείο Έλλης"
           },
           "coords": [
             25.1648,
@@ -649,7 +703,8 @@
             "de": "Ein kurzer Halt, um am Hafen Tribut zu zollen, bevor Sie in die Stadt hinauffahren.",
             "hu": "Egy rövid megálló a kikötőben, hogy tisztelegjen, mielőtt felteker a városba.",
             "ro": "O scurtă oprire pentru un omagiu în port înainte de a urca în oraș.",
-            "en": "A quick stop to pay respects at the harbour before heading up into town."
+            "en": "A quick stop to pay respects at the harbour before heading up into town.",
+            "el": "Μια σύντομη στάση για να αποδώσετε τιμές στο λιμάνι πριν ανεβείτε στην πόλη."
           }
         },
         {
@@ -657,7 +712,8 @@
             "de": "Panagia Evangelistria",
             "hu": "Panagia Evangelistria-székesegyház",
             "ro": "Panagia Evangelistria",
-            "en": "Panagia Evangelistria"
+            "en": "Panagia Evangelistria",
+            "el": "Παναγία Ευαγγελίστρια"
           },
           "coords": [
             25.1617,
@@ -673,7 +729,8 @@
             "de": "Der Aufstieg ist steil, aber die spirituelle Atmosphäre ist die Mühe wert. Fahrrad abstellen und zu Fuß erkunden.",
             "hu": "Az emelkedő meredek, de a spirituális légkör megéri a fáradságot. Zárja le a biciklit és fedezze fel gyalog.",
             "ro": "Urcușul este abrupt, dar atmosfera spirituală merită efortul. Parcați bicicleta și explorați pe jos.",
-            "en": "The climb is steep, but the spiritual atmosphere is worth the effort. Lock your bike and explore on foot."
+            "en": "The climb is steep, but the spiritual atmosphere is worth the effort. Lock your bike and explore on foot.",
+            "el": "Η ανάβαση είναι απότομη, αλλά η πνευματική ατμόσφαιρα αξίζει την προσπάθεια. Κλειδώστε το ποδήλατό σας και εξερευνήστε με τα πόδια."
           }
         },
         {
@@ -681,7 +738,8 @@
             "de": "Archäologisches Museum Tinos",
             "hu": "Tínoszi Régészeti Múzeum",
             "ro": "Muzeul de Arheologie din Tinos",
-            "en": "Archaeological Museum of Tinos"
+            "en": "Archaeological Museum of Tinos",
+            "el": "Αρχαιολογικό Μουσείο Τήνου"
           },
           "coords": [
             25.1622,
@@ -697,7 +755,8 @@
             "de": "Kühlen Sie sich nach der Radtour ab und entdecken Sie die antike Vergangenheit der Insel.",
             "hu": "Hűsöljön le a biciklizés után, és fedezze fel a sziget ókori múltját.",
             "ro": "Răcoriți-vă după plimbarea cu bicicleta și descoperiți trecutul antic al insulei.",
-            "en": "Cool down after the ride and discover the island's ancient past."
+            "en": "Cool down after the ride and discover the island's ancient past.",
+            "el": "Δροσιστείτε μετά τη διαδρομή και ανακαλύψτε το αρχαίο παρελθόν του νησιού."
           }
         },
         {
@@ -705,7 +764,8 @@
             "de": "Pallada-Platz",
             "hu": "Pallada tér",
             "ro": "Piața Pallada",
-            "en": "Pallada Square"
+            "en": "Pallada Square",
+            "el": "Πλατεία Παλλάδα"
           },
           "coords": [
             25.1633,
@@ -721,7 +781,8 @@
             "de": "Der perfekte Ort für ein Mittagessen. Viele Tavernen zur Auswahl.",
             "hu": "Tökéletes hely egy ebédhez. Számos taverna közül választhat.",
             "ro": "Locul perfect pentru prânz. Multe taverne din care să alegeți.",
-            "en": "The perfect spot for lunch. Plenty of tavernas to choose from."
+            "en": "The perfect spot for lunch. Plenty of tavernas to choose from.",
+            "el": "Το ιδανικό σημείο για μεσημεριανό. Πολλές ταβέρνες για να διαλέξετε."
           }
         },
         {
@@ -729,7 +790,8 @@
             "de": "Kirche der Taxiarchen",
             "hu": "Taxiarches templom",
             "ro": "Biserica Taxiarchen",
-            "en": "Church of the Taxiarches"
+            "en": "Church of the Taxiarches",
+            "el": "Εκκλησία των Ταξιαρχών"
           },
           "coords": [
             25.168,
@@ -745,7 +807,8 @@
             "de": "Machen Sie eine gemütliche Radtour zu dieser ruhigeren Kirche, um dem Trubel zu entkommen.",
             "hu": "Tegyen egy kellemes biciklitúrát ehhez a csendesebb templomhoz, hogy elkerülje a nyüzsgést.",
             "ro": "Faceți o plimbare relaxantă cu bicicleta până la această biserică mai liniștită pentru a scăpa de aglomerație.",
-            "en": "Take a leisurely ride to this quieter church to escape the hustle."
+            "en": "Take a leisurely ride to this quieter church to escape the hustle.",
+            "el": "Κάντε μια χαλαρή βόλτα με ποδήλατο μέχρι αυτή τη πιο ήσυχη εκκλησία για να ξεφύγετε από τη φασαρία."
           }
         }
       ],
@@ -753,7 +816,8 @@
         "de": "Starten Sie den Tag mit einer erfrischenden Radtour entlang der Uferpromenade von Tinos-Stadt. Nach einem kurzen Halt am Elli-Denkmal nehmen Sie den anspruchsvollen Anstieg zur Panagia Evangelistria in Angriff. Oben angekommen, stellen Sie Ihr Fahrrad ab und erkunden den heiligen Komplex und das nahegelegene Archäologische Museum zu Fuß. Mittags radeln Sie bergab zum Pallada-Platz für ein wohlverdientes Mittagessen. Der Nachmittag ist für eine entspannte Fahrt zur ruhigeren Kirche der Taxiarchen reserviert, die einen friedlichen Abschluss Ihrer Erkundungstour bietet.",
         "hu": "Kezdje a napot egy frissítő biciklizéssel Tínosz város parti sétányán. Az Elli-emlékműnél tett rövid megálló után vágjon neki a kihívást jelentő emelkedőnek a Panagia Evangelistria-templomhoz. Miután felért, zárja le a biciklit, és fedezze fel gyalog a szent komplexumot és a közeli Régészeti Múzeumot. Délben guruljon le a Pallada térre egy jól megérdemelt ebédért. A délutánt egy nyugodt tekerésnek szentelje a csendesebb Taxiarches templomhoz, amely békés lezárása a felfedezőútnak.",
         "ro": "Începeți ziua cu o plimbare revigorantă cu bicicleta de-a lungul promenadei din orașul Tinos. După o scurtă oprire la Monumentul Elli, abordați urcarea provocatoare către Panagia Evangelistria. Odată ajuns în vârf, parcați bicicleta și explorați complexul sacru și Muzeul de Arheologie din apropiere pe jos. La prânz, coborâți pe bicicletă spre Piața Pallada pentru un prânz binemeritat. După-amiaza este rezervată unei plimbări relaxante către biserica mai liniștită Taxiarchen, oferind o încheiere pașnică a explorării.",
-        "en": "Kick off the day with a refreshing cycle along the Tinos Town waterfront. After a brief stop at the Elli Monument, tackle the challenging climb up to Panagia Evangelistria. Once at the top, park your bike and explore the sacred complex and nearby Archaeological Museum on foot. For lunch, coast downhill to Pallada Square for a well-deserved meal. The afternoon is reserved for a relaxed ride to the quieter Church of the Taxiarches, providing a peaceful end to your exploration."
+        "en": "Kick off the day with a refreshing cycle along the Tinos Town waterfront. After a brief stop at the Elli Monument, tackle the challenging climb up to Panagia Evangelistria. Once at the top, park your bike and explore the sacred complex and nearby Archaeological Museum on foot. For lunch, coast downhill to Pallada Square for a well-deserved meal. The afternoon is reserved for a relaxed ride to the quieter Church of the Taxiarches, providing a peaceful end to your exploration.",
+        "el": "Ξεκινήστε τη μέρα με μια αναζωογονητική ποδηλατική διαδρομή κατά μήκος της παραλίας της Τήνου. Μετά από μια σύντομη στάση στο Μνημείο της Έλλης, αντιμετωπίστε την απαιτητική ανηφόρα προς την Παναγία Ευαγγελίστρια. Μόλις φτάσετε, παρκάρετε το ποδήλατο και εξερευνήστε τον ιερό χώρο και το κοντινό Αρχαιολογικό Μουσείο με τα πόδια. Για μεσημεριανό, κατηφορίστε προς την Πλατεία Παλλάδα για ένα καλά κερδισμένο γεύμα. Το απόγευμα αφιερώνεται σε μια χαλαρή διαδρομή προς την πιο ήσυχη Εκκλησία των Ταξιαρχών, προσφέροντας έναν ήρεμο επίλογο στην εξερεύνησή σας."
       },
       "gastro_picks": {
         "de": [
@@ -949,6 +1013,12 @@
           "Always lock your bike, especially in the busy areas.",
           "Carry plenty of water, especially during the summer months.",
           "Be mindful of pedestrians on the shared pathways along the promenade."
+        ],
+        "el": [
+          "Συνιστάται έντονα ηλεκτρικό ποδήλατο για την ανάβαση στην Παναγία Ευαγγελίστρια.",
+          "Κλειδώστε πάντα το ποδήλατό σας, ειδικά στις πολυσύχναστες περιοχές.",
+          "Φορέστε αρκετό νερό, ειδικά τους καλοκαιρινούς μήνες.",
+          "Να προσέχετε τους πεζούς στα κοινόχρηστα μονοπάτια κατά μήκος του πεζόδρομου."
         ]
       },
       "variants": {
@@ -957,7 +1027,8 @@
             "de": "Vom Hafen aus radeln wir vorsichtig entlang der Promenade. Ein kurzer Stopp am Elli-Denkmal ist möglich, bevor wir den Anstieg zur Panagia wagen. Bei Regen ist auf dem Marmor besondere Vorsicht geboten. Den Nachmittag verbringen wir in den Museen, während die Fahrräder im Trockenen stehen. Wir beenden die Tour am Pallada-Platz und suchen Wärme in einer der Kirchen.",
             "hu": "A kikötőből óvatosan tekerünk végig a parton. Rövid megálló az Elli emlékműnél, majd nekivágunk a Panagia emelkedőjének. Esőben a márványfelületek rendkívül veszélyesek. A délutánt a múzeumokban töltjük, amíg a biciklik fedett helyen pihennek. A túrát a Pallada téren zárjuk, és egy templom csendjében melegszünk fel.",
             "ro": "Din port pedalăm cu atenție de-a lungul falezei. O scurtă oprire la Monumentul Elli este posibilă înainte de a urca spre Panagia. Pe ploaie, suprafețele de marmură sunt extrem de periculoase. Prânzul îl petrecem în muzee, în timp ce bicicletele stau la uscat. Încheiem turul în Piața Pallada și căutăm căldură într-una dintre biserici.",
-            "en": "From the port, we cycle carefully along the promenade. A short stop at the Elli Monument is possible before tackling the climb to Panagia. In the rain, the marble surfaces are extremely dangerous. Midday is spent in the museums while the bikes stay dry. We finish the tour at Pallada Square and seek warmth in one of the churches."
+            "en": "From the port, we cycle carefully along the promenade. A short stop at the Elli Monument is possible before tackling the climb to Panagia. In the rain, the marble surfaces are extremely dangerous. Midday is spent in the museums while the bikes stay dry. We finish the tour at Pallada Square and seek warmth in one of the churches.",
+            "el": "Από το λιμάνι ποδηλατούμε προσεκτικά κατά μήκος του πεζόδρομου. Είναι δυνατή μια σύντομη στάση στο Μνημείο της Έλλης πριν την ανάβαση προς την Παναγία. Στη βροχή, οι μαρμάρινες επιφάνειες είναι εξαιρετικά επικίνδυνες. Το μεσημέρι περνάμε στα μουσεία ενώ τα ποδήλατα παραμένουν στεγνά. Τελειώνουμε τη διαδρομή στην Πλατεία Παλλάδα και αναζητούμε ζεστασιά σε μια από τις εκκλησίες."
           },
           "stops": [
             {
@@ -966,7 +1037,8 @@
                 "de": "Achten Sie auf Pfützen und Gischt vom stürmischen Meer.",
                 "hu": "Ügyeljen a tócsákra és a viharos tenger felcsapó vizére.",
                 "ro": "Atenție la bălți și la stropii mării învolburate.",
-                "en": "Watch out for puddles and spray from the stormy sea."
+                "en": "Watch out for puddles and spray from the stormy sea.",
+                "el": "Προσέξτε για λακκούβες και θαλασσινό σπρέι από τη θυελλώδη θάλασσα."
               }
             },
             {
@@ -975,7 +1047,8 @@
                 "de": "Schnelles Foto, da der Boden hier sehr rutschig sein kann.",
                 "hu": "Gyors fotó, mert a talaj itt nagyon csúszós lehet.",
                 "ro": "Fotografie rapidă, solul poate fi foarte alunecos aici.",
-                "en": "Quick photo, as the ground here can be very slippery."
+                "en": "Quick photo, as the ground here can be very slippery.",
+                "el": "Σύντομη φωτογραφία, καθώς το έδαφος εδώ μπορεί να είναι πολύ ολισθηρό."
               }
             },
             {
@@ -984,7 +1057,8 @@
                 "de": "Parken Sie das Rad unter einem Vordach, bevor Sie eintreten.",
                 "hu": "Parkolja a kerékpárt egy előtető alá, mielőtt belépne.",
                 "ro": "Parcați bicicleta sub un copertină înainte de a intra.",
-                "en": "Park your bike under an overhang before entering."
+                "en": "Park your bike under an overhang before entering.",
+                "el": "Σταθμεύστε το ποδήλατό σας κάτω από στέγαστρο πριν εισέλθετε."
               }
             },
             {
@@ -993,7 +1067,8 @@
                 "de": "Nutzen Sie den Museumsbesuch, um die Kleidung zu trocknen.",
                 "hu": "Használja ki a múzeumlátogatást a ruházat megszárítására.",
                 "ro": "Folosiți vizita la muzeu pentru a vă usca hainele.",
-                "en": "Use the museum visit to dry your clothes."
+                "en": "Use the museum visit to dry your clothes.",
+                "el": "Χρησιμοποιήστε την επίσκεψη στο μουσείο για να στεγνώσετε τα ρούχα σας."
               }
             },
             {
@@ -1002,7 +1077,8 @@
                 "de": "Vorsicht beim Bremsen auf den nassen Pflastersteinen.",
                 "hu": "Óvatosan fékezzen a vizes utcaköveken.",
                 "ro": "Frânați cu grijă pe pietrele umede de pavaj.",
-                "en": "Brake gently on the wet cobblestones."
+                "en": "Brake gently on the wet cobblestones.",
+                "el": "Φρενάρετε ήπια πάνω στους βρεγμένους κυβόλιθους."
               }
             },
             {
@@ -1011,7 +1087,8 @@
                 "de": "Suchen Sie hier einen Moment der Ruhe im Trockenen.",
                 "hu": "Keressen itt egy pillanatnyi nyugalmat a szárazban.",
                 "ro": "Căutați aici un moment de liniște la uscat.",
-                "en": "Find a moment of peace in the dry here."
+                "en": "Find a moment of peace in the dry here.",
+                "el": "Βρείτε μια στιγμή ηρεμίας στο στεγνό εδώ."
               }
             }
           ],
@@ -1043,6 +1120,13 @@
               "Use rain gear with reflectors as visibility is often limited.",
               "Ensure your brakes are functioning optimally in wet conditions.",
               "Wipe the saddle dry after each stop to maintain comfort."
+            ],
+            "el": [
+              "Μειώστε ελαφρά την πίεση ελαστικών για καλύτερο κράτημα πάνω σε βρεγμένες πέτρες.",
+              "Αποφύγετε απότομες στροφές στο γλιστερό μαρμάρινο δάπεδο της κεντρικής οδού.",
+              "Χρησιμοποιήστε αδιάβροχα με ανακλαστήρες καθώς η ορατότητα συχνά είναι περιορισμένη.",
+              "Ελέγξτε ότι τα φρένα λειτουργούν άριστα σε βρεγμένες συνθήκες.",
+              "Στεγνώστε τη σέλα μετά από κάθε στάση για να διατηρήσετε την άνεση."
             ]
           }
         },
@@ -1051,7 +1135,8 @@
             "de": "An einem klaren Wintermorgen radeln wir entlang der belebenden Hafenpromenade. Der Weg zum Elli-Denkmal ist erfrischend. Der Anstieg zur Panagia-Kirche bringt uns bei den kühlen Temperaturen kaum ins Schwitzen. Nach der Kultur im Archäologischen Museum genießen wir ein spätes Mittagessen am Pallada-Platz. Wir beenden die Tour an der Taxiarches-Kirche, bevor die Abendkälte einsetzt.",
             "hu": "Egy tiszta téli reggelen a frissítő kikötői sétányon tekerünk. Az út az Elli emlékműhöz felpezsdítő. A Panagia templomhoz vezető emelkedőn a hűvös időben meg sem izzadunk. A Régészeti Múzeum után egy késői ebédet fogyasztunk a Pallada téren. A túrát a Taxiarches templomnál zárjuk, még mielőtt beállna az esti lehűlés.",
             "ro": "Într-o dimineață senină de iarnă, pedalăm pe faleza revigorantă din port. Drumul spre Monumentul Elli este înviorător. Urcarea spre biserica Panagia nu ne face să transpirăm deloc la temperaturile scăzute. După cultură la Muzeul de Arheologie, savurăm un prânz târziu în Piața Pallada. Încheiem turul la biserica Taxiarches înainte de lăsarea frigului de seară.",
-            "en": "On a clear winter morning, we cycle along the invigorating harbor promenade. The path to the Elli Monument is refreshing. The climb to Panagia Church hardly makes us sweat in the cool temperatures. After some culture at the Archaeological Museum, we enjoy a late lunch at Pallada Square. We finish the tour at Taxiarches Church before the evening chill sets in."
+            "en": "On a clear winter morning, we cycle along the invigorating harbor promenade. The path to the Elli Monument is refreshing. The climb to Panagia Church hardly makes us sweat in the cool temperatures. After some culture at the Archaeological Museum, we enjoy a late lunch at Pallada Square. We finish the tour at Taxiarches Church before the evening chill sets in.",
+            "el": "Μια καθαρή χειμωνιάτικη πρωινή, ποδηλατούμε κατά μήκος του αναζωογονητικού λιμενικού πεζόδρομου. Η διαδρομή προς το Μνημείο της Έλλης είναι δροσερή. Η ανάβαση προς την Παναγία σχεδόν δεν μας ιδρώνει στις χαμηλές θερμοκρασίες. Μετά από λίγη κουλτούρα στο Αρχαιολογικό Μουσείο, απολαμβάνουμε ένα αργοπορημένο γεύμα στην Πλατεία Παλλάδα. Κλείνουμε τη διαδρομή στην Εκκλησία των Ταξιαρχών πριν κάνει κρύο το βράδυ."
           },
           "stops": [
             {
@@ -1060,7 +1145,8 @@
                 "de": "Tragen Sie Handschuhe gegen den kalten Fahrtwind am Meer.",
                 "hu": "Viseljen kesztyűt a tengerparti hideg menetszél ellen.",
                 "ro": "Purtați mănuși împotriva vântului rece de pe faleză.",
-                "en": "Wear gloves against the cold wind while cycling by the sea."
+                "en": "Wear gloves against the cold wind while cycling by the sea.",
+                "el": "Φορέστε γάντια για τον κρύο άνεμο κατά την ποδηλασία δίπλα στη θάλασσα."
               }
             },
             {
@@ -1069,7 +1155,8 @@
                 "de": "Ein kurzer Halt reicht, um nicht auszukühlen.",
                 "hu": "Egy rövid megálló elég, nehogy túlságosan lehűljön.",
                 "ro": "O scurtă oprire este suficientă pentru a nu vă răci.",
-                "en": "A short stop is enough to avoid getting too cold."
+                "en": "A short stop is enough to avoid getting too cold.",
+                "el": "Μια σύντομη στάση αρκεί για να αποφύγετε το πολύ κρύο."
               }
             },
             {
@@ -1078,7 +1165,8 @@
                 "de": "Der Anstieg ist ideal, um die Körpertemperatur zu halten.",
                 "hu": "Az emelkedő ideális a testhőmérséklet fenntartásához.",
                 "ro": "Urcarea este ideală pentru a menține temperatura corpului.",
-                "en": "The climb is ideal for maintaining body temperature."
+                "en": "The climb is ideal for maintaining body temperature.",
+                "el": "Η ανάβαση είναι ιδανική για να διατηρήσετε τη θερμοκρασία του σώματος."
               }
             },
             {
@@ -1087,7 +1175,8 @@
                 "de": "Stellen Sie das Rad sicher ab; im Winter ist weniger los.",
                 "hu": "Lakatolja le biztonságosan a gépet; télen kisebb a forgalom.",
                 "ro": "Parcați bicicleta în siguranță; iarna este mai puțină aglomerație.",
-                "en": "Park your bike securely; it's less crowded in winter."
+                "en": "Park your bike securely; it's less crowded in winter.",
+                "el": "Πάρκαρετε το ποδήλατό σας με ασφάλεια· είναι λιγότερο πολυσύχναστο το χειμώνα."
               }
             },
             {
@@ -1096,7 +1185,8 @@
                 "de": "Wählen Sie einen Platz in der Sonne für die Mittagspause.",
                 "hu": "Válasszon egy napsütötte helyet az ebédszünethez.",
                 "ro": "Alegeți un loc la soare pentru pauza de prânz.",
-                "en": "Choose a spot in the sun for your lunch break."
+                "en": "Choose a spot in the sun for your lunch break.",
+                "el": "Επιλέξτε ένα σημείο στον ήλιο για το διάλειμμα του μεσημεριανού σας."
               }
             },
             {
@@ -1105,7 +1195,8 @@
                 "de": "Beenden Sie die Fahrt, bevor die Sonne untergeht.",
                 "hu": "Fejezze be a tekerést, mielőtt lemegy a nap.",
                 "ro": "Încheiați plimbarea înainte de apusul soarelui.",
-                "en": "Finish your ride before the sun goes down."
+                "en": "Finish your ride before the sun goes down.",
+                "el": "Τελειώστε τη βόλτα σας πριν σκοτεινιάσει."
               }
             }
           ],
@@ -1137,6 +1228,13 @@
               "Take warm drinks with you in a thermos.",
               "Check your bike lights if you plan to return at dusk.",
               "There is less car traffic in winter, making cycling safer."
+            ],
+            "el": [
+              "Προστατέψτε τα αυτιά και τα χέρια σας από τον κρύο χειμωνιάτικο άνεμο.",
+              "Ο χειμωνιάτικος ήλιος είναι δυνατός· μην υποτιμάτε την υπεριώδη ακτινοβολία.",
+              "Πάρτε ζεστά ροφήματα σε θερμός.",
+              "Ελέγξτε τα φώτα του ποδηλάτου αν σκοπεύετε να επιστρέψετε στο λυκόφως.",
+              "Η κυκλοφορία αυτοκινήτων είναι μικρότερη τον χειμώνα, κάνοντας το ποδήλατο πιο ασφαλές."
             ]
           }
         }
@@ -1155,7 +1253,8 @@
             "de": "Parkplatz am Hafen",
             "hu": "Parkoló a kikötőnél",
             "ro": "Parcare în port",
-            "en": "Port Parking Area"
+            "en": "Port Parking Area",
+            "el": "Χώρος Στάθμευσης Λιμανιού"
           },
           "coords": [
             25.1675,
@@ -1171,7 +1270,8 @@
             "de": "Parken Sie hier, um den unteren Teil der Stadt zu erkunden. Cluster A beginnt.",
             "hu": "Parkoljon itt a város alsó részének felfedezéséhez. Az A-klaszter itt kezdődik.",
             "ro": "Parcați aici pentru a explora partea de jos a orașului. Clusterul A începe.",
-            "en": "Park here to explore the lower part of town. Cluster A begins."
+            "en": "Park here to explore the lower part of town. Cluster A begins.",
+            "el": "Σταθμεύστε εδώ για να εξερευνήσετε το χαμηλότερο τμήμα της πόλης. Ξεκινά το Σύμπλεγμα Α."
           }
         },
         {
@@ -1179,7 +1279,8 @@
             "de": "Uferpromenade & Elli-Denkmal",
             "hu": "Parti sétány és Elli-emlékmű",
             "ro": "Promenada și Monumentul Elli",
-            "en": "Waterfront & Elli Monument"
+            "en": "Waterfront & Elli Monument",
+            "el": "Παραλιακή & Μνημείο Έλλη"
           },
           "coords": [
             25.1667,
@@ -1195,7 +1296,8 @@
             "de": "Ein gemütlicher Spaziergang, um den Morgen am Meer zu beginnen.",
             "hu": "Egy kellemes séta a reggel tengerparti indításához.",
             "ro": "O plimbare relaxantă pentru a începe dimineața lângă mare.",
-            "en": "A leisurely walk to start the morning by the sea."
+            "en": "A leisurely walk to start the morning by the sea.",
+            "el": "Μια χαλαρή βόλτα για να ξεκινήσει το πρωί δίπλα στη θάλασσα."
           }
         },
         {
@@ -1203,7 +1305,8 @@
             "de": "Pallada-Platz",
             "hu": "Pallada tér",
             "ro": "Piața Pallada",
-            "en": "Pallada Square"
+            "en": "Pallada Square",
+            "el": "Πλατεία Παλλάδα"
           },
           "coords": [
             25.1633,
@@ -1219,7 +1322,8 @@
             "de": "Schlendern Sie durch die Gassen zum Hauptplatz für einen Kaffee.",
             "hu": "Sétáljon át a sikátorokon a főtérre egy kávéra.",
             "ro": "Plimbați-vă pe alei până în piața principală pentru o cafea.",
-            "en": "Stroll through the alleyways to the main square for a coffee."
+            "en": "Stroll through the alleyways to the main square for a coffee.",
+            "el": "Περπατήστε στα στενά μέχρι την κεντρική πλατεία για έναν καφέ."
           }
         },
         {
@@ -1227,7 +1331,8 @@
             "de": "Fahrt zum Hügel der Panagia",
             "hu": "Utazás a Panagia-dombhoz",
             "ro": "Drumul spre Dealul Panagia",
-            "en": "Drive to Panagia Hill"
+            "en": "Drive to Panagia Hill",
+            "el": "Οδηγήστε μέχρι τον Λόφο της Παναγίας"
           },
           "coords": [
             25.1615,
@@ -1243,7 +1348,8 @@
             "de": "Fahren Sie zum oberen Parkplatz. Beginnen Sie die Erkundung von Cluster B.",
             "hu": "Vezessen fel a felső parkolóba. Kezdje meg a B-klaszter felfedezését.",
             "ro": "Conduceți până la parcarea de sus. Începeți explorarea clusterului B.",
-            "en": "Drive up to the upper parking area. Begin Cluster B exploration."
+            "en": "Drive up to the upper parking area. Begin Cluster B exploration.",
+            "el": "Ανεβείτε με αυτοκίνητο στην ανώτερη περιοχή στάθμευσης. Ξεκινά το Σύμπλεγμα Β."
           }
         },
         {
@@ -1251,7 +1357,8 @@
             "de": "Panagia Evangelistria",
             "hu": "Panagia Evangelistria-székesegyház",
             "ro": "Panagia Evangelistria",
-            "en": "Panagia Evangelistria"
+            "en": "Panagia Evangelistria",
+            "el": "Παναγία Ευαγγελίστρια"
           },
           "coords": [
             25.1617,
@@ -1267,7 +1374,8 @@
             "de": "Nehmen Sie sich Zeit, die Wunder und die spirituelle Energie dieses Ortes aufzunehmen.",
             "hu": "Szánjon időt arra, hogy befogadja e hely csodáit és spirituális energiáját.",
             "ro": "Luați-vă timp pentru a absorbi minunile și energia spirituală a acestui loc.",
-            "en": "Take your time to absorb the wonders and spiritual energy of this place."
+            "en": "Take your time to absorb the wonders and spiritual energy of this place.",
+            "el": "Αφιερώστε χρόνο για να απορροφήσετε τα θαύματα και την πνευματική ενέργεια αυτού του μέρους."
           }
         },
         {
@@ -1275,7 +1383,8 @@
             "de": "Museum der Tiner Künstler & Archäologisches Museum",
             "hu": "Tínoszi Művészek Múzeuma és Régészeti Múzeum",
             "ro": "Muzeul Artiștilor din Tinos și Muzeul de Arheologie",
-            "en": "Tinian Artists & Archaeological Museums"
+            "en": "Tinian Artists & Archaeological Museums",
+            "el": "Μουσεία Τηνίων — Τεχνών & Αρχαιολογικό"
           },
           "coords": [
             25.1619,
@@ -1291,7 +1400,8 @@
             "de": "Besuchen Sie beide Museen im selben Komplex, um Kunst und Geschichte zu verbinden.",
             "hu": "Látogassa meg mindkét múzeumot ugyanabban a komplexumban a művészet és a történelem ötvözéséhez.",
             "ro": "Vizitați ambele muzee din același complex pentru o combinație de artă și istorie.",
-            "en": "Visit both museums located within the same complex for a mix of art and history."
+            "en": "Visit both museums located within the same complex for a mix of art and history.",
+            "el": "Επισκεφθείτε και τα δύο μουσεία που βρίσκονται στο ίδιο συγκρότημα για ένα μείγμα τέχνης και ιστορίας."
           }
         },
         {
@@ -1299,7 +1409,8 @@
             "de": "Fahrt zum Strand von Agios Fokas",
             "hu": "Utazás az Agios Fokas strandra",
             "ro": "Drumul spre plaja Agios Fokas",
-            "en": "Drive to Agios Fokas Beach"
+            "en": "Drive to Agios Fokas Beach",
+            "el": "Οδηγήστε προς την Παραλία Αγίου Φωκά"
           },
           "coords": [
             25.1883,
@@ -1315,7 +1426,8 @@
             "de": "Entfliehen Sie am Nachmittag an einen nahegelegenen Strand zum Entspannen.",
             "hu": "Meneküljön el délután egy közeli strandra pihenni.",
             "ro": "Evadați la o plajă din apropiere pentru relaxare după-amiaza.",
-            "en": "Escape to a nearby beach for some afternoon relaxation."
+            "en": "Escape to a nearby beach for some afternoon relaxation.",
+            "el": "Δραπετεύστε σε κοντινή παραλία για λίγη απογευματινή χαλάρωση."
           }
         }
       ],
@@ -1323,7 +1435,8 @@
         "de": "Beginnen Sie Ihren Tag, indem Sie am Hafen parken und den unteren Teil von Tinos-Stadt zu Fuß erkunden, einschließlich der belebten Uferpromenade. Am Vormittag fahren Sie zum Hügel der Panagia Evangelistria. Parken Sie dort und widmen Sie sich dem spirituellen Herzen der Insel, indem Sie die Kirche und die benachbarten Museen zu Fuß erkunden. Der Nachmittag ist für eine kurze Autofahrt zum entspannenden Strand von Agios Fokas reserviert, wo Sie die Sonne und das Meer genießen können, bevor Sie zum Abendessen in die Stadt zurückkehren.",
         "hu": "Kezdje a napot a kikötőben való parkolással, és fedezze fel gyalog Tínosz város alsó részét, beleértve a nyüzsgő parti sétányt. Délelőtt vezessen fel a Panagia Evangelistria dombjára. Parkoljon le, és szentelje magát a sziget spirituális szívének, gyalogosan felfedezve a templomot és a szomszédos múzeumokat. A délután egy rövid autózásra van fenntartva a pihentető Agios Fokas strandra, ahol élvezheti a napot és a tengert, mielőtt visszatérne a városba vacsorázni.",
         "ro": "Începeți ziua parcând în port și explorând pe jos partea de jos a orașului Tinos, inclusiv promenada plină de viață. La jumătatea dimineții, conduceți până la dealul Panagia Evangelistria. Parcați acolo și dedicați-vă inimii spirituale a insulei, explorând biserica și muzeele adiacente pe jos. După-amiaza este rezervată unei scurte călătorii cu mașina spre plaja relaxantă Agios Fokas pentru a vă bucura de soare și mare înainte de a vă întoarce în oraș pentru cină.",
-        "en": "Start your day by parking at the port and exploring the lower part of Tinos town on foot, including the bustling waterfront. Mid-morning, drive up to the hill of Panagia Evangelistria. Park there and devote yourself to the spiritual heart of the island, exploring the church and its adjacent museums on foot. The afternoon is for a short drive to the relaxing Agios Fokas beach to enjoy the sun and sea before returning to town for the evening."
+        "en": "Start your day by parking at the port and exploring the lower part of Tinos town on foot, including the bustling waterfront. Mid-morning, drive up to the hill of Panagia Evangelistria. Park there and devote yourself to the spiritual heart of the island, exploring the church and its adjacent museums on foot. The afternoon is for a short drive to the relaxing Agios Fokas beach to enjoy the sun and sea before returning to town for the evening.",
+        "el": "Ξεκινήστε τη μέρα σας σταθμεύοντας στο λιμάνι και εξερευνώντας με τα πόδια το χαμηλότερο μέρος της πόλης της Τήνου, συμπεριλαμβανομένης της ζωντανής παραλίας. Τες πρωινές ώρες, οδηγήστε μέχρι τον λόφο της Παναγίας Ευαγγελίστριας. Σταθμεύστε εκεί και αφιερώστε τον εαυτό σας στην πνευματική καρδιά του νησιού, εξερευνώντας την εκκλησία και τα παρακείμενα μουσεία με τα πόδια. Το απόγευμα είναι για μια σύντομη οδήγηση στην χαλαρωτική παραλία του Αγίου Φωκά για να απολαύσετε ήλιο και θάλασσα πριν επιστρέψετε στην πόλη για το βράδυ."
       },
       "gastro_picks": {
         "de": [
@@ -1519,6 +1632,12 @@
           "A small car is ideal for the narrow streets.",
           "The roads leading to villages are often narrow and winding.",
           "Combine your visit to Tinos Town with a drive to picturesque inland villages like Pyrgos or Volax."
+        ],
+        "el": [
+          "Η στάθμευση μπορεί να είναι δύσκολη το καλοκαίρι. Να έχετε υπομονή ή χρησιμοποιήστε πληρωμένα πάρκινγκ.",
+          "Ένα μικρό αυτοκίνητο είναι ιδανικό για τα στενά στενά.",
+          "Οι δρόμοι που οδηγούν στα χωριά είναι συχνά στενοί και φιδωτοί.",
+          "Συνδυάστε την επίσκεψή σας στην πόλη της Τήνου με μια οδήγηση σε γραφικά ηπειρωτικά χωριά όπως ο Πύργος ή ο Βόλαξ."
         ]
       },
       "variants": {
@@ -1527,7 +1646,8 @@
             "de": "Wir parken direkt am Hafen und genießen den Blick auf das stürmische Meer aus dem Auto. Ein kurzer Sprint bringt uns zum Elli-Denkmal und zum Pallada-Platz. Die Fahrt zum Panagia-Hügel ist bei Regen komfortabel. Wir verbringen viel Zeit in den Museen und fahren später zum Agios Fokas Strand, um die beeindruckenden Wellen aus sicherer Entfernung zu beobachten.",
             "hu": "Közvetlenül a kikötőben parkolunk, és az autóból csodáljuk a viharos tengert. Egy gyors futás az Elli emlékműhöz és a Pallada térre még belefér. A Panagia-dombra való feljutás esőben így a legkényelmesebb. Sok időt töltünk a múzeumokban, majd az Agios Fokas strandra autózunk, hogy biztonságos távolságból nézzük a hatalmas hullámokat.",
             "ro": "Parcăm direct în port și admirăm marea învolburată din mașină. O scurtă fugă ne duce la Monumentul Elli și în Piața Pallada. Drumul spre dealul Panagia este confortabil pe ploaie. Petrecem mult timp în muzee și apoi conducem spre plaja Agios Fokas pentru a vedea valurile impresionante de la distanță.",
-            "en": "We park right at the harbor and enjoy the view of the stormy sea from the car. A quick sprint takes us to the Elli Monument and Pallada Square. The drive to Panagia Hill is comfortable in the rain. We spend plenty of time in the museums and later drive to Agios Fokas Beach to watch the impressive waves from a safe distance."
+            "en": "We park right at the harbor and enjoy the view of the stormy sea from the car. A quick sprint takes us to the Elli Monument and Pallada Square. The drive to Panagia Hill is comfortable in the rain. We spend plenty of time in the museums and later drive to Agios Fokas Beach to watch the impressive waves from a safe distance.",
+            "el": "Σταθμεύουμε ακριβώς στο λιμάνι και απολαμβάνουμε τη θέα της σκληρής θάλασσας από το αυτοκίνητο. Ένα γρήγορο σπριντ μας οδηγεί στο Μνημείο Έλλη και την Πλατεία Παλλάδα. Η διαδρομή προς τον Λόφο της Παναγίας είναι άνετη στη βροχή. Περνάμε πολύ χρόνο στα μουσεία και αργότερα οδηγούμε στην παραλία του Αγίου Φωκά για να παρακολουθήσουμε τα εντυπωσιακά κύματα από ασφαλή απόσταση."
           },
           "stops": [
             {
@@ -1536,7 +1656,8 @@
                 "de": "Parken Sie so nah wie möglich am Ausgang, um trocken zu bleiben.",
                 "hu": "Parkoljon minél közelebb a kijárathoz, hogy száraz maradjon.",
                 "ro": "Parcați cât mai aproape de ieșire pentru a rămâne uscați.",
-                "en": "Park as close to the exit as possible to stay dry."
+                "en": "Park as close to the exit as possible to stay dry.",
+                "el": "Σταθμεύστε όσο το δυνατόν πιο κοντά στην έξοδο για να παραμείνετε στεγνοί."
               }
             },
             {
@@ -1545,7 +1666,8 @@
                 "de": "Vorsicht beim Aussteigen vor starkem Wind und Gischt.",
                 "hu": "Kiszálláskor ügyeljen az erős szélre és a felcsapó vízre.",
                 "ro": "Atenție la vântul puternic și stropi la coborârea din mașină.",
-                "en": "Watch out for strong wind and spray when getting out of the car."
+                "en": "Watch out for strong wind and spray when getting out of the car.",
+                "el": "Προσέξτε τον δυνατό άνεμο και το σπρέι όταν βγαίνετε από το αυτοκίνητο."
               }
             },
             {
@@ -1554,7 +1676,8 @@
                 "de": "Kurzer Aufenthalt, die Cafés sind drinnen gemütlich.",
                 "hu": "Rövid megálló, a kávézók belül nagyon barátságosak.",
                 "ro": "Scurtă oprire, cafenelele sunt primitoare la interior.",
-                "en": "Short stay, the cafes are cozy inside."
+                "en": "Short stay, the cafes are cozy inside.",
+                "el": "Σύντομη παραμονή, τα καφέ είναι ζεστά στο εσωτερικό."
               }
             },
             {
@@ -1563,7 +1686,8 @@
                 "de": "Die Scheibenwischer auf höchste Stufe bei starkem Regen.",
                 "hu": "Erős esőben állítsa az ablaktörlőt a legmagasabb fokozatra.",
                 "ro": "Setați ștergătoarele la maximum în caz de ploaie torențială.",
-                "en": "Set wipers to high during heavy rain on the climb."
+                "en": "Set wipers to high during heavy rain on the climb.",
+                "el": "Ρυθμίστε τους υαλοκαθαριστήρες σε υψηλή ταχύτητα κατά τη διάρκεια της έντονης βροχής στην ανάβαση."
               }
             },
             {
@@ -1572,7 +1696,8 @@
                 "de": "Es gibt Parkplätze nahe am Kircheneingang.",
                 "hu": "A templom bejáratához közel is találhatók parkolóhelyek.",
                 "ro": "Există locuri de parcare aproape de intrarea în biserică.",
-                "en": "There are parking spots close to the church entrance."
+                "en": "There are parking spots close to the church entrance.",
+                "el": "Υπάρχουν θέσεις στάθμευσης κοντά στην είσοδο της εκκλησίας."
               }
             },
             {
@@ -1581,7 +1706,8 @@
                 "de": "Ideale Stationen, um dem Regen für zwei Stunden zu entkommen.",
                 "hu": "Ideális helyszínek, hogy két órára elmeneküljünk az eső elől.",
                 "ro": "Stații ideale pentru a scăpa de ploaie timp de două ore.",
-                "en": "Ideal stops to escape the rain for a couple of hours."
+                "en": "Ideal stops to escape the rain for a couple of hours.",
+                "el": "Ιδανικές στάσεις για να αποφύγετε τη βροχή για μερικές ώρες."
               }
             },
             {
@@ -1590,7 +1716,8 @@
                 "de": "Bleiben Sie im Auto und beobachten Sie die Brandung.",
                 "hu": "Maradjon az autóban, és onnan figyelje a hullámtörést.",
                 "ro": "Rămâneți în mașină și observați spectacolul valurilor.",
-                "en": "Stay in the car and watch the surf from there."
+                "en": "Stay in the car and watch the surf from there.",
+                "el": "Μείνετε μέσα στο αυτοκίνητο και παρακολουθήστε τα κύματα από εκεί."
               }
             }
           ],
@@ -1622,6 +1749,13 @@
               "Visibility can be significantly reduced by heavy rain and sea spray.",
               "Keep the air conditioning on to prevent the windows from fogging up.",
               "Visit Agios Fokas beach only for 'storm watching' from the car."
+            ],
+            "el": [
+              "Χρησιμοποιήστε τα πάρκινγκ ακριβώς πάνω από την εκκλησία για να μειώσετε το περπάτημα.",
+              "Προσέξτε βαθιές λακκούβες στους χαμηλότερους δρόμους κοντά στο λιμάνι.",
+              "Η ορατότητα μπορεί να μειωθεί σημαντικά από την έντονη βροχή και το θαλάσσιο σπρέι.",
+              "Κρατήστε το κλιματιστικό αναμμένο για να αποτρέψετε το θάμπωμα των παραθύρων.",
+              "Επισκεφθείτε την παραλία του Αγίου Φωκά μόνο για «παρατήρηση κακοκαιρίας» από το αυτοκίνητο."
             ]
           }
         },
@@ -1630,7 +1764,8 @@
             "de": "An einem sonnigen Wintertag genießen wir die Freiheit auf den leeren Straßen von Tinos Stadt. Nach dem Parken am Hafen spazieren wir zum Elli-Denkmal. Die kurze Fahrt zum Panagia-Hügel bietet tolle Ausblicke auf das tiefblaue Meer. Nach den Museen fahren wir zum Agios Fokas Strand, wo wir einen einsamen Winterspaziergang am Ufer machen, bevor es kühl wird.",
             "hu": "Egy napsütéses téli napon élvezzük a szabadságot Tínosz város üres utcáin. A kikötői parkolás után átsétálunk az Elli emlékműhöz. A rövid autóút a Panagia-dombra pazar kilátást nyújt a mélykék tengerre. A múzeumok után az Agios Fokas strandra hajtunk, ahol teszünk egy magányos téli sétát a parton, mielőtt lehűlne az idő.",
             "ro": "Într-o zi însorită de iarnă, ne bucurăm de libertate pe străzile pustii din orașul Tinos. După parcarea în port, mergem la Monumentul Elli. Scurtul drum spre dealul Panagia oferă vederi superbe spre marea albastru închis. După muzee, conducem spre plaja Agios Fokas pentru o plimbare solitară pe țărm înainte de lăsarea frigului.",
-            "en": "On a sunny winter day, we enjoy the freedom of the empty streets in Tinos Town. After parking at the harbor, we walk to the Elli Monument. The short drive to Panagia Hill offers great views of the deep blue sea. After the museums, we drive to Agios Fokas Beach for a solitary winter walk along the shore before it gets chilly."
+            "en": "On a sunny winter day, we enjoy the freedom of the empty streets in Tinos Town. After parking at the harbor, we walk to the Elli Monument. The short drive to Panagia Hill offers great views of the deep blue sea. After the museums, we drive to Agios Fokas Beach for a solitary winter walk along the shore before it gets chilly.",
+            "el": "Σε μια ηλιόλουστη χειμωνιάτικη μέρα απολαμβάνουμε την ελευθερία των άδειων δρόμων στην πόλη της Τήνου. Μετά τη στάθμευση στο λιμάνι, περπατάμε μέχρι το Μνημείο Έλλη. Η σύντομη οδήγηση προς τον Λόφο της Παναγίας προσφέρει υπέροχη θέα στο βαθύ γαλάζιο της θάλασσας. Μετά τα μουσεία, οδηγούμε στην παραλία του Αγίου Φωκά για έναν μοναχικό χειμωνιάτικο περίπατο κατά μήκος της ακτής πριν κρυώσει."
           },
           "stops": [
             {
@@ -1639,7 +1774,8 @@
                 "de": "Im Winter finden Sie hier problemlos einen Parkplatz.",
                 "hu": "Télen gond nélkül talál itt szabad parkolóhelyet.",
                 "ro": "Iarna veți găsi cu ușurință un loc de parcare aici.",
-                "en": "You will easily find a parking spot here in winter."
+                "en": "You will easily find a parking spot here in winter.",
+                "el": "Θα βρείτε εύκολα θέση στάθμευσης εδώ τον χειμώνα."
               }
             },
             {
@@ -1648,7 +1784,8 @@
                 "de": "Genießen Sie die klare Sicht bis zu den Nachbarinseln.",
                 "hu": "Élvezze a tiszta kilátást a szomszédos szigetekig.",
                 "ro": "Bucurați-vă de vizibilitatea clară spre insulele vecine.",
-                "en": "Enjoy the clear views as far as the neighboring islands."
+                "en": "Enjoy the clear views as far as the neighboring islands.",
+                "el": "Απολαύστε τις καθαρές θέες έως τα γειτονικά νησιά."
               }
             },
             {
@@ -1657,7 +1794,8 @@
                 "de": "Die Sonne wärmt den Platz am Vormittag wunderbar auf.",
                 "hu": "A délelőtti nap kellemesen felmelegíti a teret.",
                 "ro": "Soarele încălzește minunat piața în cursul dimineții.",
-                "en": "The morning sun warms up the square beautifully."
+                "en": "The morning sun warms up the square beautifully.",
+                "el": "Ο πρωινός ήλιος ζεσταίνει όμορφα την πλατεία."
               }
             },
             {
@@ -1666,7 +1804,8 @@
                 "de": "Kein Verkehr, die kurze Fahrt ist sehr entspannt.",
                 "hu": "Nincs forgalom, a rövid út nagyon pihentető.",
                 "ro": "Fără trafic, scurtul drum este foarte relaxant.",
-                "en": "No traffic, the short drive is very relaxed."
+                "en": "No traffic, the short drive is very relaxed.",
+                "el": "Χωρίς κίνηση, η σύντομη διαδρομή είναι πολύ χαλαρή."
               }
             },
             {
@@ -1675,7 +1814,8 @@
                 "de": "Die Anlage ist im Winter ruhig und ohne Warteschlangen.",
                 "hu": "A komplexum télen csendes, nincsenek sorok.",
                 "ro": "Complexul este liniștit iarna, fără cozi.",
-                "en": "The complex is quiet in winter with no queues."
+                "en": "The complex is quiet in winter with no queues.",
+                "el": "Το συγκρότημα είναι ήσυχο τον χειμώνα χωρίς ουρές."
               }
             },
             {
@@ -1684,7 +1824,8 @@
                 "de": "Nutzen Sie das Tageslicht für die Besichtigung der Museen.",
                 "hu": "Használja ki a nappali fényt a múzeumlátogatáshoz.",
                 "ro": "Profită de lumina zilei pentru a vizita muzeele.",
-                "en": "Make the most of the daylight for your museum visit."
+                "en": "Make the most of the daylight for your museum visit.",
+                "el": "Εκμεταλλευτείτε το φως της ημέρας για την επίσκεψή σας στο μουσείο."
               }
             },
             {
@@ -1693,7 +1834,8 @@
                 "de": "Der Strand ist im Winter fast menschenleer und friedlich.",
                 "hu": "A strand télen szinte néptelen és békés.",
                 "ro": "Plaja este aproape pustie și liniștită iarna.",
-                "en": "The beach is almost deserted and peaceful in winter."
+                "en": "The beach is almost deserted and peaceful in winter.",
+                "el": "Η παραλία είναι σχεδόν έρημη και γαλήνια τον χειμώνα."
               }
             }
           ],
@@ -1725,6 +1867,13 @@
               "Refuel in time, as some gas stations have shorter winter hours.",
               "Enjoy the panoramic views from the car during the drive to the hill.",
               "The car heater provides comfort between cultural stops."
+            ],
+            "el": [
+              "Οι θέσεις στάθμευσης στο κέντρο της πόλης είναι άφθονες κατά τη διάρκεια του χειμώνα.",
+              "Οι δρόμοι μπορεί να είναι υγροί σε σκιερές περιοχές νωρίς το πρωί.",
+              "Γεμίστε εγκαίρως, καθώς κάποια πρατήρια έχουν πιο σύντομο ωράριο τον χειμώνα.",
+              "Απολαύστε τις πανοραμικές θέες από το αυτοκίνητο κατά την οδήγηση προς τον λόφο.",
+              "Το θερμαντικό του αυτοκινήτου προσφέρει άνεση ανάμεσα στις πολιτιστικές στάσεις."
             ]
           }
         }
@@ -1743,7 +1892,8 @@
             "de": "Zentraler Busbahnhof (KTEL)",
             "hu": "Központi buszpályaudvar (KTEL)",
             "ro": "Autogara Centrală (KTEL)",
-            "en": "Central Bus Station (KTEL)"
+            "en": "Central Bus Station (KTEL)",
+            "el": "Κεντρικός Σταθμός Λεωφορείων (ΚΤΕΛ)"
           },
           "coords": [
             25.1655,
@@ -1759,7 +1909,8 @@
             "de": "Kaufen Sie Ihr Tagesticket und beginnen Sie hier. Cluster A (Hafen) ist zu Fuß erreichbar.",
             "hu": "Vásárolja meg a napijegyét, és kezdje itt. Az A-klaszter (kikötő) gyalogosan elérhető.",
             "ro": "Cumpărați-vă biletul de o zi și începeți de aici. Clusterul A (portul) este la distanță de mers pe jos.",
-            "en": "Buy your day ticket and start here. Cluster A (port) is within walking distance."
+            "en": "Buy your day ticket and start here. Cluster A (port) is within walking distance.",
+            "el": "Αγοράστε το ημερήσιο εισιτήριο σας και ξεκινήστε εδώ. Το Σύμπλεγμα Α (λιμάνι) είναι σε κοντινή απόσταση με τα πόδια."
           }
         },
         {
@@ -1767,7 +1918,8 @@
             "de": "Pallada-Platz & Uferpromenade",
             "hu": "Pallada tér és parti sétány",
             "ro": "Piața Pallada și Promenada",
-            "en": "Pallada Square & Waterfront"
+            "en": "Pallada Square & Waterfront",
+            "el": "Πλατεία Παλλάδα & Παραλία"
           },
           "coords": [
             25.1648,
@@ -1783,7 +1935,8 @@
             "de": "Genießen Sie die Atmosphäre des Hafens, bevor Sie den Bus bergauf nehmen.",
             "hu": "Élvezze a kikötő hangulatát, mielőtt felszáll a hegyre menő buszra.",
             "ro": "Bucurați-vă de atmosfera portului înainte de a lua autobuzul la deal.",
-            "en": "Soak in the port atmosphere before catching the bus uphill."
+            "en": "Soak in the port atmosphere before catching the bus uphill.",
+            "el": "Απορροφηθείτε στην ατμόσφαιρα του λιμανιού πριν πάρετε το λεωφορείο προς τα πάνω."
           }
         },
         {
@@ -1791,7 +1944,8 @@
             "de": "Busfahrt zur Panagia Evangelistria",
             "hu": "Buszozás a Panagia Evangelistria-templomhoz",
             "ro": "Călătorie cu autobuzul la Panagia Evangelistria",
-            "en": "Bus Ride to Panagia Evangelistria"
+            "en": "Bus Ride to Panagia Evangelistria",
+            "el": "Διαδρομή με λεωφορείο προς την Παναγία Ευαγγελίστρια"
           },
           "coords": [
             25.1616,
@@ -1807,7 +1961,8 @@
             "de": "Nehmen Sie den lokalen Bus nach oben. Cluster B (Hügel) beginnt hier.",
             "hu": "Menjen fel a helyi busszal. A B-klaszter (domb) itt kezdődik.",
             "ro": "Luați autobuzul local până sus. Clusterul B (dealul) începe aici.",
-            "en": "Take the local bus to the top. Cluster B (hill) begins here."
+            "en": "Take the local bus to the top. Cluster B (hill) begins here.",
+            "el": "Πάρτε το τοπικό λεωφορείο μέχρι την κορυφή. Εδώ ξεκινά το Σύμπλεγμα Β (λόφος)."
           }
         },
         {
@@ -1815,7 +1970,8 @@
             "de": "Panagia Evangelistria",
             "hu": "Panagia Evangelistria-székesegyház",
             "ro": "Panagia Evangelistria",
-            "en": "Panagia Evangelistria"
+            "en": "Panagia Evangelistria",
+            "el": "Παναγία Ευαγγελίστρια"
           },
           "coords": [
             25.1617,
@@ -1831,7 +1987,8 @@
             "de": "Der wichtigste Wallfahrtsort Griechenlands. Kleiden Sie sich respektvoll.",
             "hu": "Görögország legfontosabb zarándokhelye. Öltözzön tisztelettudóan.",
             "ro": "Cel mai important loc de pelerinaj din Grecia. Îmbrăcați-vă respectuos.",
-            "en": "The most important pilgrimage site in Greece. Dress respectfully."
+            "en": "The most important pilgrimage site in Greece. Dress respectfully.",
+            "el": "Το πιο σημαντικό προσκυνηματικό μέρος στην Ελλάδα. Ντυθείτε με σεβασμό."
           }
         },
         {
@@ -1839,7 +1996,8 @@
             "de": "Archäologisches Museum Tinos",
             "hu": "Tínoszi Régészeti Múzeum",
             "ro": "Muzeul de Arheologie din Tinos",
-            "en": "Archaeological Museum of Tinos"
+            "en": "Archaeological Museum of Tinos",
+            "el": "Αρχαιολογικό Μουσείο Τήνου"
           },
           "coords": [
             25.1622,
@@ -1855,7 +2013,8 @@
             "de": "Ein kurzer Spaziergang bergab von der Kirche. Perfekt, um der Mittagssonne zu entkommen.",
             "hu": "Egy rövid séta lefelé a templomtól. Tökéletes menedék a déli nap elől.",
             "ro": "O scurtă plimbare la vale de la biserică. Perfect pentru a scăpa de soarele de la amiază.",
-            "en": "A short walk downhill from the church. Perfect for escaping the midday sun."
+            "en": "A short walk downhill from the church. Perfect for escaping the midday sun.",
+            "el": "Λίγο περπάτημα κατηφορικά από την εκκλησία. Ιδανικό για να αποφύγετε τον μεσημεριανό ήλιο."
           }
         },
         {
@@ -1863,7 +2022,8 @@
             "de": "Spaziergang bergab zum Hafen",
             "hu": "Séta le a kikötőbe",
             "ro": "Plimbare la vale spre port",
-            "en": "Walk Downhill to Port"
+            "en": "Walk Downhill to Port",
+            "el": "Περπατήστε κατηφορικά προς το λιμάνι"
           },
           "coords": [
             25.1667,
@@ -1879,7 +2039,8 @@
             "de": "Genießen Sie den Spaziergang auf der Pilgerstraße, um den Tag ausklingen zu lassen.",
             "hu": "Élvezze a sétát lefelé a zarándokúton a nap lezárásaként.",
             "ro": "Bucurați-vă de plimbarea la vale pe drumul pelerinilor pentru a încheia ziua.",
-            "en": "Enjoy the walk down the pilgrim's road to wind down the day."
+            "en": "Enjoy the walk down the pilgrim's road to wind down the day.",
+            "el": "Απολαύστε τη βόλτα στην οδό των προσκυνητών για να χαλαρώσετε το τέλος της ημέρας."
           }
         }
       ],
@@ -1887,7 +2048,8 @@
         "de": "Beginnen Sie am zentralen Busbahnhof, wo Sie das Hafengebiet zu Fuß erkunden. Saugen Sie die maritime Atmosphäre auf, bevor Sie einen lokalen Bus nehmen, der Sie mühelos den Hügel hinauf zur Panagia Evangelistria bringt. Verbringen Sie den Vormittag damit, diesen heiligen Ort und das nahe gelegene Archäologische Museum zu erkunden. Am Nachmittag spazieren Sie gemütlich die Odos Evangelistrias hinunter, folgen dem Weg der Pilger zurück zum Hafen, wo Sie in einer der vielen Tavernen am Wasser entspannen können.",
         "hu": "Kezdje a központi buszpályaudvaron, ahonnan gyalogosan felfedezheti a kikötő területét. Szívja magába a tengeri hangulatot, mielőtt felszállna egy helyi buszra, amely könnyedén felviszi a dombra a Panagia Evangelistria-templomhoz. Töltse a délelőttöt e szent hely és a közeli Régészeti Múzeum felfedezésével. Délután sétáljon le kényelmesen az Odos Evangelistrias úton, követve a zarándokok útját vissza a kikötőbe, ahol pihenhet az egyik parti tavernában.",
         "ro": "Începeți de la autogara centrală, unde veți explora zona portuară pe jos. Bucurați-vă de atmosfera maritimă înainte de a lua un autobuz local care vă va duce fără efort pe deal până la Panagia Evangelistria. Petreceți dimineața explorând acest loc sacru și Muzeul de Arheologie din apropiere. După-amiaza, faceți o plimbare relaxantă pe Odos Evangelistrias, urmând calea pelerinilor înapoi în port pentru a vă relaxa la una dintre multele taverne de la malul apei.",
-        "en": "Start at the central bus station, where you'll explore the port area on foot. Soak in the maritime atmosphere before catching a local bus to effortlessly take you up the hill to Panagia Evangelistria. Spend the morning exploring this sacred site and the nearby Archaeological Museum. In the afternoon, take a leisurely stroll down Odos Evangelistrias, following the path of pilgrims back to the port, where you can relax at one of the many waterfront tavernas."
+        "en": "Start at the central bus station, where you'll explore the port area on foot. Soak in the maritime atmosphere before catching a local bus to effortlessly take you up the hill to Panagia Evangelistria. Spend the morning exploring this sacred site and the nearby Archaeological Museum. In the afternoon, take a leisurely stroll down Odos Evangelistrias, following the path of pilgrims back to the port, where you can relax at one of the many waterfront tavernas.",
+        "el": "Ξεκινήστε από τον κεντρικό σταθμό λεωφορείων, όπου θα εξερευνήσετε με τα πόδια την περιοχή του λιμανιού. Απολαύστε τη θαλασσινή ατμόσφαιρα πριν πάρετε ένα τοπικό λεωφορείο που θα σας ανεβάσει άνετα μέχρι την Παναγία Ευαγγελίστρια. Περάστε το πρωί εξερευνώντας αυτόν τον ιερό χώρο και το κοντινό Αρχαιολογικό Μουσείο. Το απόγευμα, κάντε έναν ήρεμο περίπατο κατά μήκος της Οδού Ευαγγελίστριας, ακολουθώντας το μονοπάτι των προσκυνητών πίσω στο λιμάνι, όπου μπορείτε να χαλαρώσετε σε μία από τις πολλές παραθαλάσσιες ταβέρνες."
       },
       "gastro_picks": {
         "de": [
@@ -2083,6 +2245,12 @@
           "Have small change ready for bus tickets.",
           "Buses can be crowded during peak season.",
           "The walk downhill from Panagia Evangelistria is pleasant and offers great photo opportunities."
+        ],
+        "el": [
+          "Ελέγξτε το πρόγραμμα των λεωφορείων εκ των προτέρων, καθώς μπορεί να αλλάζει εποχιακά.",
+          "Έχετε έτοιμα ψιλά για τα εισιτήρια του λεωφορείου.",
+          "Τα λεωφορεία μπορεί να είναι γεμάτα στην περίοδο αιχμής.",
+          "Η κατηφορική πορεία από την Παναγία Ευαγγελίστρια είναι ευχάριστη και προσφέρει εξαιρετικές φωτογραφικές ευκαιρίες."
         ]
       },
       "variants": {
@@ -2091,7 +2259,8 @@
             "de": "Vom Busbahnhof aus ist es nur ein kurzer Weg zum Pallada-Platz, wo wir auf den Anschluss warten. Die Busfahrt zum Panagia-Hügel erspart uns den nassen Aufstieg. Nach dem Besuch der Basilika und des Archäologischen Museums nutzen wir die Regenpausen für den Abstieg zum Hafen. Wir beenden den Tag in der Nähe der Bushaltestelle bei einer warmen Mahlzeit.",
             "hu": "A buszpályaudvartól csak egy rövid séta a Pallada tér, ahol a csatlakozásra várunk. A buszút a Panagia-dombra megkímél minket a vizes emelkedőtől. A bazilika és a Régészeti Múzeum után az esőszüneteket használjuk ki a kikötőhöz való lejutáshoz. A napot a buszmegálló közelében zárjuk egy meleg étellel.",
             "ro": "De la autogară este doar un drum scurt până în Piața Pallada, unde așteptăm legătura. Drumul cu autobuzul spre dealul Panagia ne scutește de urcarea prin ploaie. După vizitarea basilicii și a Muzeului de Arheologie, profităm de pauzele de ploaie pentru a coborî spre port. Încheiem ziua lângă stația de autobuz cu o masă caldă.",
-            "en": "From the bus station, it's just a short walk to Pallada Square where we wait for the connection. The bus ride to Panagia Hill saves us from the wet climb. After visiting the basilica and the Archaeological Museum, we take advantage of rain breaks for the descent to the port. We end the day near the bus stop with a warm meal."
+            "en": "From the bus station, it's just a short walk to Pallada Square where we wait for the connection. The bus ride to Panagia Hill saves us from the wet climb. After visiting the basilica and the Archaeological Museum, we take advantage of rain breaks for the descent to the port. We end the day near the bus stop with a warm meal.",
+            "el": "Από το σταθμό των λεωφορείων είναι μόλις ένα σύντομο περπάτημα μέχρι την Πλατεία Παλλάδα όπου περιμένουμε τη σύνδεση. Η διαδρομή με το λεωφορείο προς τον Λόφο της Παναγίας μας γλιτώνει από την βρεγμένη ανάβαση. Μετά την επίσκεψη στη βασιλική και το Αρχαιολογικό Μουσείο, εκμεταλλευόμαστε τα διαλείμματα της βροχής για την κατάβαση προς το λιμάνι. Τελειώνουμε την ημέρα κοντά στη στάση του λεωφορείου με ένα ζεστό γεύμα."
           },
           "stops": [
             {
@@ -2100,7 +2269,8 @@
                 "de": "Die Wartehalle bietet guten Schutz vor Wind und Regen.",
                 "hu": "A váróterem jó védelmet nyújt a szél és az eső ellen.",
                 "ro": "Sala de așteptare oferă o bună protecție contra vântului și ploii.",
-                "en": "The waiting hall offers good protection from wind and rain."
+                "en": "The waiting hall offers good protection from wind and rain.",
+                "el": "Η αίθουσα αναμονής προσφέρει καλή προστασία από άνεμο και βροχή."
               }
             },
             {
@@ -2109,7 +2279,8 @@
                 "de": "Warten Sie in einem Café, bis der Bus abfährt.",
                 "hu": "Várjon egy kávézóban a busz indulásáig.",
                 "ro": "Așteptați într-o cafenea până pleacă autobuzul.",
-                "en": "Wait in a cafe until the bus departs."
+                "en": "Wait in a cafe until the bus departs.",
+                "el": "Περιμένετε σε ένα καφέ μέχρι να αναχωρήσει το λεωφορείο."
               }
             },
             {
@@ -2118,7 +2289,8 @@
                 "de": "Der Bus hält sehr nah am Eingang der Kirche.",
                 "hu": "A busz nagyon közel áll meg a templom bejáratához.",
                 "ro": "Autobuzul oprește foarte aproape de intrarea în biserică.",
-                "en": "The bus stops very close to the church entrance."
+                "en": "The bus stops very close to the church entrance.",
+                "el": "Το λεωφορείο σταματά πολύ κοντά στην είσοδο της εκκλησίας."
               }
             },
             {
@@ -2127,7 +2299,8 @@
                 "de": "Nutzen Sie den überdachten Bogengang der Anlage.",
                 "hu": "Használja a komplexum fedett árkádsorát.",
                 "ro": "Folosiți galeria acoperită a complexului.",
-                "en": "Use the covered arcade of the complex."
+                "en": "Use the covered arcade of the complex.",
+                "el": "Χρησιμοποιήστε την καλυμμένη στοά του συγκροτήματος."
               }
             },
             {
@@ -2136,7 +2309,8 @@
                 "de": "Das Museum ist nur 3 Minuten Fußweg von der Kirche entfernt.",
                 "hu": "A múzeum mindössze 3 perc sétára van a templomtól.",
                 "ro": "Muzeul este la doar 3 minute de mers pe jos de biserică.",
-                "en": "The museum is only a 3-minute walk from the church."
+                "en": "The museum is only a 3-minute walk from the church.",
+                "el": "Το μουσείο είναι μόλις 3 λεπτά με τα πόδια από την εκκλησία."
               }
             },
             {
@@ -2145,7 +2319,8 @@
                 "de": "Bei starkem Regen nehmen Sie lieber den Bus zurück.",
                 "hu": "Erős esőben érdemesebb busszal visszamenni.",
                 "ro": "În caz de ploaie torențială, mai bine luați autobuzul înapoi.",
-                "en": "In heavy rain, it's better to take the bus back."
+                "en": "In heavy rain, it's better to take the bus back.",
+                "el": "Σε έντονη βροχή, είναι καλύτερα να επιστρέψετε με λεωφορείο."
               }
             }
           ],
@@ -2177,6 +2352,13 @@
               "Public transport is less frequent in winter, plan with fixed times.",
               "Buses to Panagia Hill depart directly from the waterfront road.",
               "Have small change ready for ticket purchases."
+            ],
+            "el": [
+              "Ελέγξτε το πρόγραμμα του ΚΤΕΛ καθώς η βροχή μπορεί να προκαλέσει καθυστερήσεις.",
+              "Αγοράστε τα εισιτήρια εκ των προτέρων στο περίπτερο για να αποφύγετε την αναμονή έξω.",
+              "Τα δημόσια μέσα είναι λιγότερο συχνά τον χειμώνα, σχεδιάστε με σταθερά ωράρια.",
+              "Τα λεωφορεία προς τον Λόφο της Παναγίας αναχωρούν απευθείας από την παραλιακή οδό.",
+              "Έχετε έτοιμα ψιλά για τις αγορές εισιτηρίων."
             ]
           }
         },
@@ -2185,7 +2367,8 @@
             "de": "Am Busbahnhof starten wir in den klaren Wintertag. Ein kurzer Aufenthalt am Pallada-Platz zeigt das authentische Leben der Einheimischen. Die kurze Busfahrt zum Panagia-Hügel bietet eine schöne Aussicht. Nach dem Besuch der Kirche und des Museums spazieren wir gemütlich bergab zum Hafen und genießen die winterliche Stille von Tinos Stadt.",
             "hu": "A buszpályaudvarról indulunk a tiszta téli napon. Egy rövid megálló a Pallada téren bepillantást enged a helyiek életébe. A rövid buszút a Panagia-dombra szép kilátással ajándékoz meg. A templom és a múzeum után kényelmesen lesétálunk a kikötőbe, élvezve Tínosz városának téli nyugalmát.",
             "ro": "Pornim în ziua senină de iarnă de la autogară. O scurtă oprire în Piața Pallada ne arată viața autentică a localnicilor. Scurta călătorie cu autobuzul spre dealul Panagia oferă o priveliște frumoasă. După biserică și muzeu, coborâm agale spre port, bucurându-ne de liniștea hibernală a orașului Tinos.",
-            "en": "We start the clear winter day at the bus station. A short stay at Pallada Square offers a glimpse into local life. The brief bus ride to Panagia Hill provides a nice view. After visiting the church and the museum, we enjoy a leisurely walk downhill to the harbor, taking in the winter stillness of Tinos Town."
+            "en": "We start the clear winter day at the bus station. A short stay at Pallada Square offers a glimpse into local life. The brief bus ride to Panagia Hill provides a nice view. After visiting the church and the museum, we enjoy a leisurely walk downhill to the harbor, taking in the winter stillness of Tinos Town.",
+            "el": "Ξεκινάμε τη φωτεινή χειμωνιάτικη μέρα στον σταθμό λεωφορείων. Μια σύντομη παραμονή στην Πλατεία Παλλάδα προσφέρει μια ματιά στην τοπική ζωή. Η σύντομη διαδρομή με το λεωφορείο προς τον Λόφο της Παναγίας προσφέρει ωραία θέα. Μετά την επίσκεψη στην εκκλησία και το μουσείο, απολαμβάνουμε έναν χαλαρό περίπατο κατηφορικά προς το λιμάνι, εισπνέοντας την χειμωνιάτικη σιγή της πόλης της Τήνου."
           },
           "stops": [
             {
@@ -2194,7 +2377,8 @@
                 "de": "Prüfen Sie den Winterfahrplan, die Frequenz ist geringer.",
                 "hu": "Ellenőrizze a téli menetrendet, a járatok ritkábban indulnak.",
                 "ro": "Verificați orarul de iarnă, frecvența este mai redusă.",
-                "en": "Check the winter schedule as frequency is reduced."
+                "en": "Check the winter schedule as frequency is reduced.",
+                "el": "Ελέγξτε το χειμερινό πρόγραμμα καθώς η συχνότητα μειώνεται."
               }
             },
             {
@@ -2203,7 +2387,8 @@
                 "de": "Die Cafés hier sind im Winter Treffpunkte der Einheimischen.",
                 "hu": "A kávézók télen a helyiek találkozóhelyei.",
                 "ro": "Cafenelele de aici sunt puncte de întâlnire pentru localnici iarna.",
-                "en": "The cafes here are local meeting points in winter."
+                "en": "The cafes here are local meeting points in winter.",
+                "el": "Τα καφέ εδώ είναι τοπικά σημεία συνάντησης τον χειμώνα."
               }
             },
             {
@@ -2212,7 +2397,8 @@
                 "de": "Genießen Sie die Aussicht aus dem Fenster auf das Meer.",
                 "hu": "Élvezze a tengerre nyíló kilátást az ablakból.",
                 "ro": "Bucurați-vă de vederea spre mare de la fereastra autobuzului.",
-                "en": "Enjoy the sea views from the bus window."
+                "en": "Enjoy the sea views from the bus window.",
+                "el": "Απολαύστε τη θέα της θάλασσας από το παράθυρο του λεωφορείου."
               }
             },
             {
@@ -2221,7 +2407,8 @@
                 "de": "Die Wintersonne beleuchtet die Fassade wunderschön.",
                 "hu": "A téli napfény gyönyörűen megvilágítja a homlokzatot.",
                 "ro": "Soarele de iarnă luminează superb fațada bisericii.",
-                "en": "The winter sun illuminates the facade beautifully."
+                "en": "The winter sun illuminates the facade beautifully.",
+                "el": "Ο χειμωνιάτικος ήλιος φωτίζει υπέροχα την πρόσοψη."
               }
             },
             {
@@ -2230,7 +2417,8 @@
                 "de": "Im Winter ist es hier sehr ruhig, ideal für Kunstgenuss.",
                 "hu": "Télen itt nagy a nyugalom, ideális a műalkotások befogadásához.",
                 "ro": "Este foarte liniște aici iarna, ideal pentru a savura arta.",
-                "en": "It's very quiet here in winter, ideal for enjoying art."
+                "en": "It's very quiet here in winter, ideal for enjoying art.",
+                "el": "Είναι πολύ ήσυχα εδώ τον χειμώνα, ιδανικό για να απολαύσετε την τέχνη."
               }
             },
             {
@@ -2239,7 +2427,8 @@
                 "de": "Der Spaziergang bergab ist in der Wintersonne sehr angenehm.",
                 "hu": "A lejtős séta a téli napsütésben kifejezetten kellemes.",
                 "ro": "Plimbarea la vale este foarte plăcută în soarele de iarnă.",
-                "en": "The downhill walk is very pleasant in the winter sun."
+                "en": "The downhill walk is very pleasant in the winter sun.",
+                "el": "Η κατάβαση είναι πολύ ευχάριστη στον χειμερινό ήλιο."
               }
             }
           ],
@@ -2271,6 +2460,13 @@
               "Use the midday hours for trips when it is warmest.",
               "Combine bus rides with short walks through the empty alleys.",
               "Ask the driver about the last return trip to the harbor."
+            ],
+            "el": [
+              "Τους χειμερινούς μήνες τα λεωφορεία λειτουργούν με περιορισμένο πρόγραμμα.",
+              "Ο κεντρικός σταθμός ΚΤΕΛ είναι το καλύτερο μέρος για ενημέρωση.",
+              "Χρησιμοποιήστε τις μεσημεριανές ώρες για εκδρομές όταν είναι πιο ζεστά.",
+              "Συνδυάστε διαδρομές με λεωφορείο με σύντομους περιπάτους στα έρημα σοκάκια.",
+              "Ρωτήστε τον οδηγό για το τελευταίο δρομολόγιο επιστροφής στο λιμάνι."
             ]
           }
         }

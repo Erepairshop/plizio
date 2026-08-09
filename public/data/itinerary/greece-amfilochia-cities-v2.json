@@ -32,7 +32,8 @@
             "de": "Perfekt für einen Morgenkaffee am Wasser.",
             "hu": "Tökéletes egy reggeli kávéhoz a vízparton.",
             "ro": "Perfect pentru o cafea de dimineață pe malul apei.",
-            "en": "Perfect for a morning coffee by the water."
+            "en": "Perfect for a morning coffee by the water.",
+            "el": "Ιδανικό για πρωινό καφέ δίπλα στο νερό."
           }
         },
         {
@@ -51,7 +52,8 @@
             "de": "Spazieren Sie entlang der Küste des Ambrakischen Golfs.",
             "hu": "Sétáljon végig az Amvrakiai-öböl partján.",
             "ro": "Plimbați-vă de-a lungul coastei Golfului Ambracian.",
-            "en": "Stroll along the coast of the Ambracian Gulf."
+            "en": "Stroll along the coast of the Ambracian Gulf.",
+            "el": "Κάντε μια βόλτα κατά μήκος της ακτής του Αμβρακικού Κόλπου."
           }
         },
         {
@@ -70,7 +72,8 @@
             "de": "Sehen Sie sich lokale Kunstausstellungen an.",
             "hu": "Tekintse meg a helyi művészeti kiállításokat.",
             "ro": "Vedeți expozițiile de artă locală.",
-            "en": "Check out local art exhibitions."
+            "en": "Check out local art exhibitions.",
+            "el": "Δείτε τοπικές εκθέσεις τέχνης."
           }
         },
         {
@@ -89,7 +92,8 @@
             "de": "Beachten Sie die traditionelle orthodoxe Architektur.",
             "hu": "Figyelje meg a hagyományos ortodox építészetet.",
             "ro": "Observați arhitectura ortodoxă tradițională.",
-            "en": "Notice the traditional Orthodox architecture."
+            "en": "Notice the traditional Orthodox architecture.",
+            "el": "Παρατηρήστε την παραδοσιακή ορθόδοξη αρχιτεκτονική."
           }
         },
         {
@@ -108,7 +112,8 @@
             "de": "Bringen Sie Wasser für den Aufstieg zu den Ruinen mit.",
             "hu": "Hozzon vizet a romokhoz vezető emelkedőhöz.",
             "ro": "Aduceți apă pentru urcarea către ruine.",
-            "en": "Bring water for the climb to the ruins."
+            "en": "Bring water for the climb to the ruins.",
+            "el": "Πάρτε νερό για την ανάβαση στα ερείπια."
           }
         },
         {
@@ -127,7 +132,8 @@
             "de": "Ideal zum Entspannen nach dem Wandern.",
             "hu": "Ideális pihenésre a túrázás után.",
             "ro": "Ideal pentru relaxare după drumeție.",
-            "en": "Ideal for relaxing after hiking."
+            "en": "Ideal for relaxing after hiking.",
+            "el": "Ιδανικό για χαλάρωση μετά από πεζοπορία."
           }
         }
       ],
@@ -135,7 +141,8 @@
         "de": "Der Morgen beginnt entspannt am Hafen von Amfilochia und auf der angrenzenden Promenade mit Blick auf das Wasser. Am Mittag erkunden Sie das Kulturzentrum und die Architektur der Kirche Agios Athanasios im Zentrum. Der Nachmittag ist für den historischen Aufstieg zum Antiken Limnaia reserviert, wo Sie Ruinen besichtigen können. Den Tag lassen Sie am ruhigen Bouka Strand ausklingen.",
         "hu": "A reggel nyugodtan indul Amfilochia kikötőjében és a szomszédos sétányon, ahonnan kilátás nyílik a vízre. Délben a kulturális központot és az Agios Athanasios templom építészetét fedezheti fel a központban. A délután az ókori Limnaia romjaihoz vezető történelmi sétáé. A napot a csendes Bouka strandon pihenheti ki.",
         "ro": "Dimineața începe relaxant la portul Amfilochia și pe promenada adiacentă, cu vedere la apă. La prânz, explorați centrul cultural și arhitectura Bisericii Agios Athanasios din centru. După-amiaza este rezervată urcării istorice către Limnaia Antică, unde puteți vizita ruinele. Veți încheia ziua relaxându-vă pe plaja liniștită Bouka.",
-        "en": "The morning starts calmly at the Port of Amfilochia and the adjacent promenade overlooking the water. At midday, you explore the cultural center and the architecture of Agios Athanasios Church in the center. The afternoon is reserved for the historical climb to Ancient Limnaia, where you can visit the ruins. You end the day relaxing at the quiet Bouka Beach."
+        "en": "The morning starts calmly at the Port of Amfilochia and the adjacent promenade overlooking the water. At midday, you explore the cultural center and the architecture of Agios Athanasios Church in the center. The afternoon is reserved for the historical climb to Ancient Limnaia, where you can visit the ruins. You end the day relaxing at the quiet Bouka Beach.",
+        "el": "Το πρωί ξεκινάει ήσυχα στο Λιμάνι της Αμφιλοχίας και στην παρακείμενη προκυμαία με θέα το νερό. Το μεσημέρι εξερευνάτε το πολιτιστικό κέντρο και την αρχιτεκτονική της εκκλησίας του Αγίου Αθανασίου στο κέντρο. Το απόγευμα είναι αφιερωμένο στην ιστορική ανάβαση στην Αρχαία Λιμναία, όπου μπορείτε να επισκεφτείτε τα ερείπια. Τελειώνετε τη μέρα χαλαρώνοντας στην ήσυχη παραλία Μπούκα."
       },
       "gastro_picks": {
         "de": [
@@ -279,6 +286,12 @@
           "The midday sun can be strong, plan breaks in the shade.",
           "There are many benches to rest at the port.",
           "Take your swimsuit for Bouka Beach."
+        ],
+        "el": [
+          "Φορέστε άνετα παπούτσια για τα ανώμαλα μονοπάτια προς την Αρχαία Λιμναία.",
+          "Ο μεσημεριανός ήλιος μπορεί να είναι δυνατός, σχεδιάστε διαλείμματα στη σκιά.",
+          "Υπάρχουν πολλά παγκάκια για να ξεκουραστείτε στο λιμάνι.",
+          "Πάρτε το μαγιό σας για την παραλία Μπούκα."
         ]
       }
     },
@@ -306,7 +319,8 @@
             "de": "Flacher Start entlang der Küstenlinie.",
             "hu": "Lapos szakasz a partvonal mentén.",
             "ro": "Început plat de-a lungul coastei.",
-            "en": "Flat start along the coastline."
+            "en": "Flat start along the coastline.",
+            "el": "Επίπεδη εκκίνηση κατά μήκος της ακτογραμμής."
           }
         },
         {
@@ -325,7 +339,8 @@
             "de": "Beobachten Sie die Fischerboote.",
             "hu": "Figyelje meg a halászhajókat.",
             "ro": "Priviți bărcile de pescari.",
-            "en": "Watch the fishing boats."
+            "en": "Watch the fishing boats.",
+            "el": "Παρατηρήστε τα αλιευτικά σκάφη."
           }
         },
         {
@@ -344,7 +359,8 @@
             "de": "Kurzer historischer Stopp in der Stadt.",
             "hu": "Rövid történelmi megálló a városban.",
             "ro": "Scurtă oprire istorică în oraș.",
-            "en": "Short historical stop in the city."
+            "en": "Short historical stop in the city.",
+            "el": "Σύντομη ιστορική στάση στην πόλη."
           }
         },
         {
@@ -363,7 +379,8 @@
             "de": "Fahrrad draußen abschließen.",
             "hu": "Zárja le a kerékpárt kint.",
             "ro": "Lăsați bicicleta încuiată afară.",
-            "en": "Lock your bike outside."
+            "en": "Lock your bike outside.",
+            "el": "Κλειδώστε το ποδήλατό σας έξω."
           }
         },
         {
@@ -382,7 +399,8 @@
             "de": "Der Weg hierhin steigt leicht an.",
             "hu": "Az út ide kissé emelkedik.",
             "ro": "Drumul până aici urcă ușor.",
-            "en": "The path up here is slightly uphill."
+            "en": "The path up here is slightly uphill.",
+            "el": "Το μονοπάτι έως εδώ είναι ελαφρώς ανηφορικό."
           }
         },
         {
@@ -401,7 +419,8 @@
             "de": "Tolle Aussicht als Belohnung für den Anstieg.",
             "hu": "Nagyszerű kilátás az emelkedő jutalmaként.",
             "ro": "Priveliște grozavă ca recompensă pentru urcare.",
-            "en": "Great view as a reward for the climb."
+            "en": "Great view as a reward for the climb.",
+            "el": "Υπέροχη θέα ως αμοιβή για την ανάβαση."
           }
         }
       ],
@@ -409,7 +428,8 @@
         "de": "Auf zwei Rädern starten Sie entlang der flachen Promenade und des Hafens, wo eine leichte Brise weht. Danach geht es weiter in die Stadt zur Bibliothek und zur Kirche Agios Athanasios. Der anspruchsvollere Teil folgt am Nachmittag mit dem leichten Anstieg zu den Ruinen des Antiken Limnaia. Zum Abschluss genießen Sie die weite Aussicht vom Hügel von Agios Georgios.",
         "hu": "Két keréken a lapos sétány és a kikötő mentén indul, ahol könnyű szellő fúj. Ezután a városba megy tovább a könyvtárhoz és az Agios Athanasios templomhoz. A kihívást jelentő rész délután következik az ókori Limnaia romjaihoz vezető enyhe emelkedővel. Végül élvezze a széles kilátást az Agios Georgios-hegyről.",
         "ro": "Pe două roți, începeți de-a lungul promenadei plate și a portului, unde bate o briză ușoară. Apoi continuați în oraș spre bibliotecă și Biserica Agios Athanasios. Partea mai solicitantă urmează după-amiaza cu o ușoară urcare către ruinele Limnaiei Antice. La final, bucurați-vă de vederea largă de pe Dealul Agios Georgios.",
-        "en": "On two wheels, you start along the flat promenade and the port, where a light breeze blows. Then you continue into the city to the library and Agios Athanasios Church. The more challenging part follows in the afternoon with the slight climb to the ruins of Ancient Limnaia. Finally, enjoy the sweeping view from the Hill of Agios Georgios."
+        "en": "On two wheels, you start along the flat promenade and the port, where a light breeze blows. Then you continue into the city to the library and Agios Athanasios Church. The more challenging part follows in the afternoon with the slight climb to the ruins of Ancient Limnaia. Finally, enjoy the sweeping view from the Hill of Agios Georgios.",
+        "el": "Με δύο ρόδες ξεκινάτε κατά μήκος της επίπεδης προκυμαίας και του λιμανιού, όπου φυσάει ελαφριά αύρα. Στη συνέχεια συνεχίζετε στην πόλη προς τη βιβλιοθήκη και την εκκλησία του Αγίου Αθανασίου. Το πιο απαιτητικό κομμάτι ακολουθεί το απόγευμα με την ελαφριά ανάβαση προς τα ερείπια της Αρχαίας Λιμναίας. Τέλος, απολαύστε την πλατιά θέα από τον Λόφο του Αγίου Γεωργίου."
       },
       "gastro_picks": {
         "de": [
@@ -533,6 +553,12 @@
           "The roads to the hill are partly unpaved.",
           "Always wear a helmet.",
           "Better to take a break in the shade at noon."
+        ],
+        "el": [
+          "Ελέγξτε την πίεση των ελαστικών πριν ξεκινήσετε.",
+          "Οι δρόμοι προς τον λόφο είναι εν μέρει χωματόδρομοι.",
+          "Να φοράτε πάντα κράνος.",
+          "Καλύτερα να κάνετε διάλειμμα στη σκιά το μεσημέρι."
         ]
       }
     },
@@ -560,7 +586,8 @@
             "de": "Parken Sie hier zentral für Cluster 1.",
             "hu": "Parkoljon itt központilag az 1. klaszterhez.",
             "ro": "Parcați aici central pentru clusterul 1.",
-            "en": "Park here centrally for cluster 1."
+            "en": "Park here centrally for cluster 1.",
+            "el": "Παρκάρετε εδώ κεντρικά για την ομάδα 1."
           }
         },
         {
@@ -579,7 +606,8 @@
             "de": "Nur ein kurzer Spaziergang vom Hafen entfernt.",
             "hu": "Csak egy rövid sétára a kikötőtől.",
             "ro": "La doar o scurtă plimbare de port.",
-            "en": "Just a short walk from the port."
+            "en": "Just a short walk from the port.",
+            "el": "Μόνο κοντινή απόσταση με τα πόδια από το λιμάνι."
           }
         },
         {
@@ -598,7 +626,8 @@
             "de": "Letzter Stopp in diesem Fußgänger-Cluster.",
             "hu": "Utolsó megálló ebben a gyalogos klaszterben.",
             "ro": "Ultima oprire din acest cluster pietonal.",
-            "en": "Last stop in this pedestrian cluster."
+            "en": "Last stop in this pedestrian cluster.",
+            "el": "Τελευταία στάση σε αυτή τη ζώνη πεζών."
           }
         },
         {
@@ -617,7 +646,8 @@
             "de": "Fahrt zum zweiten Cluster am Hang.",
             "hu": "Utazás a második klaszterhez a domboldalon.",
             "ro": "Conduceți spre al doilea cluster de pe deal.",
-            "en": "Drive to the second cluster on the hillside."
+            "en": "Drive to the second cluster on the hillside.",
+            "el": "Οδηγήστε προς τη δεύτερη ομάδα στο πλαγιά του λόφου."
           }
         },
         {
@@ -636,7 +666,8 @@
             "de": "Kurzer Spaziergang von den Ruinen hinab.",
             "hu": "Rövid séta lefelé a romoktól.",
             "ro": "Scurtă coborâre de la ruine.",
-            "en": "Short walk down from the ruins."
+            "en": "Short walk down from the ruins.",
+            "el": "Σύντομος περίπατος κατεβαίνοντας από τα ερείπια."
           }
         },
         {
@@ -655,7 +686,8 @@
             "de": "Cluster 3: Zeit zum Entspannen am Wasser.",
             "hu": "3. klaszter: Idő a pihenésre a vízparton.",
             "ro": "Cluster 3: Timp pentru relaxare pe apă.",
-            "en": "Cluster 3: Time to relax by the water."
+            "en": "Cluster 3: Time to relax by the water.",
+            "el": "Ομάδα 3: Ώρα να χαλαρώσετε δίπλα στο νερό."
           }
         },
         {
@@ -674,7 +706,8 @@
             "de": "Fahrt zum letzten Aussichtspunkt des Tages.",
             "hu": "Utazás a nap utolsó kilátópontjához.",
             "ro": "Conduceți până la ultimul punct de belvedere al zilei.",
-            "en": "Drive to the last viewpoint of the day."
+            "en": "Drive to the last viewpoint of the day.",
+            "el": "Οδηγήστε στο τελευταίο σημείο παρατήρησης της ημέρας."
           }
         }
       ],
@@ -682,7 +715,8 @@
         "de": "Ihr Auto ermöglicht es Ihnen, Amfilochia in drei Clustern zu erkunden. Zuerst parken Sie am Hafen und erkunden die Uferpromenade sowie die Bibliothek zu Fuß. Später fahren Sie den Hang hinauf, um das Antike Limnaia und die Kirche Agios Athanasios zu besuchen. Den Nachmittag verbringen Sie entspannt am Bouka Strand, bevor Sie für den Sonnenuntergang auf den Hügel von Agios Georgios fahren.",
         "hu": "Autója lehetővé teszi, hogy három klaszterben fedezze fel Amfilochiát. Először parkoljon le a kikötőben, és gyalog fedezze fel a tengerparti sétányt, valamint a könyvtárat. Később vezessen fel a domboldalon, hogy meglátogassa az ókori Limnaiát és az Agios Athanasios templomot. A délutánt pihentetően a Bouka strandon töltheti, majd naplementekor az Agios Georgios-hegyre hajt.",
         "ro": "Mașina vă permite să explorați Amfilochia în trei grupuri. Mai întâi, parcați la port și explorați promenada de pe faleză, precum și biblioteca, pe jos. Mai târziu, urcați dealul pentru a vizita Limnaia Antică și Biserica Agios Athanasios. Vă petreceți după-amiaza relaxându-vă la plaja Bouka înainte de a merge pe Dealul Agios Georgios pentru apus.",
-        "en": "Your car allows you to explore Amfilochia in three clusters. First, park at the port and explore the waterfront promenade and the library on foot. Later, drive up the hillside to visit Ancient Limnaia and Agios Athanasios Church. You spend the afternoon relaxing at Bouka Beach before driving up the Hill of Agios Georgios for sunset."
+        "en": "Your car allows you to explore Amfilochia in three clusters. First, park at the port and explore the waterfront promenade and the library on foot. Later, drive up the hillside to visit Ancient Limnaia and Agios Athanasios Church. You spend the afternoon relaxing at Bouka Beach before driving up the Hill of Agios Georgios for sunset.",
+        "el": "Το αυτοκίνητό σας σας επιτρέπει να εξερευνήσετε την Αμφιλοχία σε τρεις ομάδες. Πρώτα, παρκάρετε στο λιμάνι και εξερευνήστε πεζοί την προκυμαία και τη βιβλιοθήκη. Αργότερα, οδηγήστε στην πλαγιά για να επισκεφτείτε την Αρχαία Λιμναία και την εκκλησία του Αγίου Αθανασίου. Περάστε το απόγευμα χαλαρώνοντας στην παραλία Μπούκα πριν ανεβείτε στον Λόφο του Αγίου Γεωργίου για το ηλιοβασίλεμα."
       },
       "gastro_picks": {
         "de": [
@@ -806,6 +840,12 @@
           "The roads to the ruins can be narrow.",
           "Pay attention to local parking bans.",
           "Take snacks for the drive."
+        ],
+        "el": [
+          "Αφήστε το αυτοκίνητο στο λιμάνι ενώ εξερευνάτε το κέντρο.",
+          "Οι δρόμοι προς τα ερείπια μπορεί να είναι στενοί.",
+          "Προσέξτε τους τοπικούς απαγορεύσεις στάθμευσης.",
+          "Πάρτε σνακ για την οδήγηση."
         ]
       }
     },
@@ -833,7 +873,8 @@
             "de": "Beginnen Sie Ihren Tag im Wasser-Cluster.",
             "hu": "Kezdje a napot a vízparti klaszterben.",
             "ro": "Începeți-vă ziua în clusterul apei.",
-            "en": "Start your day in the water cluster."
+            "en": "Start your day in the water cluster.",
+            "el": "Ξεκινήστε την ημέρα σας στην ομάδα του νερού."
           }
         },
         {
@@ -852,7 +893,8 @@
             "de": "Spazieren Sie gemütlich hierher.",
             "hu": "Sétáljon kényelmesen ide.",
             "ro": "Plimbați-vă pe îndelete până aici.",
-            "en": "Take a leisurely walk here."
+            "en": "Take a leisurely walk here.",
+            "el": "Κάντε έναν χαλαρό περίπατο εδώ."
           }
         },
         {
@@ -871,7 +913,8 @@
             "de": "Kurze Busfahrt ins kulturelle Zentrum.",
             "hu": "Rövid buszút a kulturális központba.",
             "ro": "Scurtă călătorie cu autobuzul până la centrul cultural.",
-            "en": "Short bus ride to the cultural center."
+            "en": "Short bus ride to the cultural center.",
+            "el": "Σύντομη διαδρομή με λεωφορείο προς το πολιτιστικό κέντρο."
           }
         },
         {
@@ -890,7 +933,8 @@
             "de": "Nur wenige Schritte vom Kulturzentrum entfernt.",
             "hu": "Csak néhány lépésre a kulturális központtól.",
             "ro": "La doar câțiva pași de centrul cultural.",
-            "en": "Just a few steps from the cultural center."
+            "en": "Just a few steps from the cultural center.",
+            "el": "Μόλις λίγα βήματα από το πολιτιστικό κέντρο."
           }
         },
         {
@@ -909,7 +953,8 @@
             "de": "Ein kleiner Fußmarsch bergauf.",
             "hu": "Egy kis séta hegynek fel.",
             "ro": "O mică plimbare pe jos la deal.",
-            "en": "A small walk uphill."
+            "en": "A small walk uphill.",
+            "el": "Μικρός ανηφορικός περίπατος."
           }
         },
         {
@@ -928,7 +973,8 @@
             "de": "Nehmen Sie den Bus zum Strand für den Nachmittag.",
             "hu": "Délután menjen busszal a strandra.",
             "ro": "Luați autobuzul spre plajă pentru după-amiază.",
-            "en": "Take the bus to the beach for the afternoon."
+            "en": "Take the bus to the beach for the afternoon.",
+            "el": "Πάρτε το λεωφορείο για την παραλία το απόγευμα."
           }
         }
       ],
@@ -936,7 +982,8 @@
         "de": "Nutzen Sie lokale Verkehrsmittel, um zwischen den Hauptbereichen von Amfilochia zu wechseln. Beginnen Sie an der Küste mit Promenade und Hafen. Fahren Sie dann ins Stadtzentrum für Kultur und Geschichte, bevor Sie einen letzten Bustransfer zum Bouka Strand nehmen, um den Tag gemütlich am Wasser ausklingen zu lassen.",
         "hu": "Használja a helyi közlekedést Amfilochia fő területei közötti utazáshoz. Kezdje a tengerparton a sétánnyal és a kikötővel. Ezután menjen be a városközpontba kultúráért és történelemért, mielőtt egy utolsó buszjárattal eljutna a Bouka strandhoz, hogy kényelmesen fejezze be a napot a víz mellett.",
         "ro": "Utilizați transportul local pentru a vă deplasa între zonele principale din Amfilochia. Începeți pe coastă cu promenada și portul. Apoi mergeți în centrul orașului pentru cultură și istorie înainte de a lua un ultim autobuz către plaja Bouka pentru a vă încheia ziua confortabil lângă apă.",
-        "en": "Use local transport to switch between the main areas of Amfilochia. Start on the coast with the promenade and port. Then head to the city center for culture and history before taking a final bus transfer to Bouka Beach to end the day comfortably by the water."
+        "en": "Use local transport to switch between the main areas of Amfilochia. Start on the coast with the promenade and port. Then head to the city center for culture and history before taking a final bus transfer to Bouka Beach to end the day comfortably by the water.",
+        "el": "Χρησιμοποιήστε τα τοπικά μέσα μεταφοράς για να μετακινηθείτε ανάμεσα στις κύριες περιοχές της Αμφιλοχίας. Ξεκινήστε στην ακτή με την προκυμαία και το λιμάνι. Έπειτα κατευθυνθείτε στο κέντρο της πόλης για πολιτισμό και ιστορία πριν πάρετε το τελικό λεωφορείο προς την παραλία Μπούκα για να τελειώσετε άνετα τη μέρα δίπλα στο νερό."
       },
       "gastro_picks": {
         "de": [
@@ -1044,6 +1091,12 @@
           "Find out about the current timetables.",
           "The stops are usually well marked.",
           "Have small change with you for quick purchases."
+        ],
+        "el": [
+          "Αγοράστε εισιτήρια λεωφορείου εκ των προτέρων στα ψιλικατζίδικα.",
+          "Μάθετε τα τρέχοντα ωράρια.",
+          "Οι στάσεις συνήθως σημειώνονται καλά.",
+          "Έχετε μικρό αλλαγή μαζί σας για γρήγορες αγορές."
         ]
       }
     }

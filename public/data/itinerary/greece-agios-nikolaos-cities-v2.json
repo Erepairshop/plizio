@@ -21,7 +21,8 @@
             "de": "Hafen von Agios Nikolaos",
             "hu": "Ágiosz Nikólaosz kikötője",
             "ro": "Portul din Agios Nikolaos",
-            "en": "Port of Agios Nikolaos"
+            "en": "Port of Agios Nikolaos",
+            "el": "Λιμάνι Αγίου Νικολάου"
           },
           "coords": [
             25.7175,
@@ -36,7 +37,8 @@
             "de": "Beobachten Sie die Fischerboote, die am Morgen ein- und auslaufen.",
             "hu": "Figyeld a reggel ki- és befutó halászhajókat.",
             "ro": "Priviți bărcile pescărești care intră și ies dimineața.",
-            "en": "Watch the fishing boats coming in and out in the morning."
+            "en": "Watch the fishing boats coming in and out in the morning.",
+            "el": "Παρακολουθήστε τα αλιευτικά να μπαίνουν και να βγαίνουν το πρωί."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Horn von Amaltheia",
             "hu": "Amaltheia szarva",
             "ro": "Cornul Amaltheei",
-            "en": "Horn of Amalthea"
+            "en": "Horn of Amalthea",
+            "el": "Κέρας της Αμάλθειας"
           },
           "coords": [
             25.7182,
@@ -59,7 +62,8 @@
             "de": "Ein modernes Kunstwerk mit toller Aussicht auf die Mirabello-Bucht.",
             "hu": "Egy modern szobor, remek kilátással a Mirabello-öbölre.",
             "ro": "O sculptură modernă cu o priveliște excelentă spre Golful Mirabello.",
-            "en": "A modern sculpture offering great views of the Mirabello Bay."
+            "en": "A modern sculpture offering great views of the Mirabello Bay.",
+            "el": "Ένα σύγχρονο γλυπτό που προσφέρει υπέροχη θέα στον κόλπο του Μιραμπέλλου."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Voulismeni-See",
             "hu": "Voulismeni-tó",
             "ro": "Lacul Voulismeni",
-            "en": "Lake Voulismeni"
+            "en": "Lake Voulismeni",
+            "el": "Λίμνη Βουλισμένη"
           },
           "coords": [
             25.7155,
@@ -82,7 +87,8 @@
             "de": "Umrunden Sie den „bodenlosen“ See und genießen Sie einen Kaffee in einem der Cafés.",
             "hu": "Sétáld körbe a „feneketlen” tavat és igyál egy kávét az egyik kávézóban.",
             "ro": "Înconjurați lacul „fără fund” și savurați o cafea la una dintre cafenele.",
-            "en": "Walk around the 'bottomless' lake and enjoy a coffee at one of the cafes."
+            "en": "Walk around the 'bottomless' lake and enjoy a coffee at one of the cafes.",
+            "el": "Περπατήστε γύρω από τη «βυθισμένη» λίμνη και απολαύστε έναν καφέ σε ένα από τα καφέ."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Volkskundemuseum",
             "hu": "Néprajzi Múzeum",
             "ro": "Muzeul de Folclor",
-            "en": "Folklore Museum"
+            "en": "Folklore Museum",
+            "el": "Λαογραφικό Μουσείο"
           },
           "coords": [
             25.716,
@@ -105,7 +112,8 @@
             "de": "Ein kleiner Einblick in das kretische Leben vergangener Zeiten.",
             "hu": "Egy kis betekintés a régi idők krétai életébe.",
             "ro": "O mică incursiune în viața cretană de altădată.",
-            "en": "A small glimpse into Cretan life of bygone eras."
+            "en": "A small glimpse into Cretan life of bygone eras.",
+            "el": "Μια μικρή γεύση της κρητικής ζωής περασμένων εποχών."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Archäologisches Museum",
             "hu": "Régészeti Múzeum",
             "ro": "Muzeul de Arheologie",
-            "en": "Archaeological Museum"
+            "en": "Archaeological Museum",
+            "el": "Αρχαιολογικό Μουσείο"
           },
           "coords": [
             25.712,
@@ -128,7 +137,8 @@
             "de": "Bewundern Sie Artefakte aus der minoischen Zeit, die in Ostkreta gefunden wurden.",
             "hu": "Csodáld meg a Kelet-Krétán talált minószi korból származó leleteket.",
             "ro": "Admirați artefacte din perioada minoică găsite în estul Cretei.",
-            "en": "Admire artifacts from the Minoan era found in eastern Crete."
+            "en": "Admire artifacts from the Minoan era found in eastern Crete.",
+            "el": "Θαυμάστε αντικείμενα από τη Μινωική εποχή που βρέθηκαν στην ανατολική Κρήτη."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Kitroplatia-Strand",
             "hu": "Kitroplatia strand",
             "ro": "Plaja Kitroplatia",
-            "en": "Kitroplatia Beach"
+            "en": "Kitroplatia Beach",
+            "el": "Παραλία Κουτροπλατεία"
           },
           "coords": [
             25.72,
@@ -151,7 +162,8 @@
             "de": "Ein Stadtstrand, perfekt für ein Mittagessen und ein erfrischendes Bad.",
             "hu": "Városi strand, tökéletes egy ebédhez és egy frissítő fürdőzéshez.",
             "ro": "O plajă urbană perfectă pentru prânz și o baie răcoritoare.",
-            "en": "A city beach, perfect for having lunch and a refreshing swim."
+            "en": "A city beach, perfect for having lunch and a refreshing swim.",
+            "el": "Μια αστική παραλία, ιδανική για μεσημεριανό και δροσιστικό μπάνιο."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Abendessen am See",
             "hu": "Vacsora a tónál",
             "ro": "Cină la lac",
-            "en": "Dinner by the Lake"
+            "en": "Dinner by the Lake",
+            "el": "Δείπνο δίπλα στη Λίμνη"
           },
           "coords": [
             25.715,
@@ -174,7 +187,8 @@
             "de": "Wählen Sie eine Taverne mit Blick auf den See für ein stimmungsvolles Abendessen.",
             "hu": "Válassz egy tóra néző tavernát egy hangulatos vacsorához.",
             "ro": "Alegeți o tavernă cu vedere la lac pentru o cină atmosferică.",
-            "en": "Choose a taverna overlooking the lake for an atmospheric dinner."
+            "en": "Choose a taverna overlooking the lake for an atmospheric dinner.",
+            "el": "Επιλέξτε μια ταβέρνα με θέα στη λίμνη για ατμοσφαιρικό δείπνο."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Beginnen Sie Ihren Tag am lebhaften Hafen, bevor Sie zum ruhigen Voulismeni-See schlendern, dem Herzen der Stadt. Der Morgen ist perfekt, um die Mythen und die lokale Atmosphäre aufzusaugen. Erkunden Sie die kleinen Gassen und genießen Sie die maritime Brise.\nAm Mittag tauchen Sie in die reiche Geschichte Kretas ein. Das Archäologische Museum zeigt minoische Schätze, die Sie in eine andere Zeit versetzen. Danach ist es Zeit für Entspannung am Stadtstrand Kitroplatia. Gönnen Sie sich ein Mittagessen in einer Taverne direkt am Meer.\nDer Nachmittag steht ganz im Zeichen von Sonne und Meer. Verbringen Sie entspannte Stunden am Strand, schwimmen Sie im klaren Wasser oder lesen Sie einfach ein Buch im Schatten. Dies ist der perfekte Moment, um die Seele baumeln zu lassen und das kretische Leben zu genießen.\nSchließen Sie den Tag mit einem unvergesslichen Abendessen ab. Die Tavernen rund um den Voulismeni-See bieten eine magische Kulisse. Genießen Sie lokale Spezialitäten, während die Lichter der Stadt sich im Wasser spiegeln und eine romantische Atmosphäre schaffen.",
         "hu": "Kezdje a napot a nyüzsgő kikötőben, majd sétáljon át a nyugodt Voulismeni-tóhoz, a város szívéhez. A reggel tökéletes a mítoszok és a helyi hangulat befogadására. Fedezze fel a kis utcákat, és élvezze a tengeri szellőt.\nDélben merüljön el Kréta gazdag történelmében. A Régészeti Múzeum minószi kincseket tár elénk, amelyek egy másik korba repítenek. Ezután ideje pihenni a városi Kitroplatia strandon. Ebédeljen egy tengerparti tavernában.\nA délután a napról és a tengerről szól. Töltsön el pihentető órákat a strandon, ússzon a tiszta vízben, vagy egyszerűen csak olvasson egy könyvet az árnyékban. Ez a tökéletes pillanat a kikapcsolódásra és a krétai élet élvezetére.\nZárja a napot egy felejthetetlen vacsorával. A Voulismeni-tó körüli tavernák varázslatos hátteret biztosítanak. Élvezze a helyi specialitásokat, miközben a város fényei visszatükröződnek a vízen, romantikus hangulatot teremtve.",
         "ro": "Începeți ziua în portul plin de viață, apoi plimbați-vă spre liniștitul Lac Voulismeni, inima orașului. Dimineața este perfectă pentru a absorbi miturile și atmosfera locală. Explorați străduțele și bucurați-vă de briza mării.\nLa prânz, scufundați-vă în istoria bogată a Cretei. Muzeul de Arheologie expune comori minoice care vă transportă într-o altă epocă. După aceea, este timpul pentru relaxare pe plaja urbană Kitroplatia. Savurați prânzul la o tavernă direct pe malul mării.\nDupă-amiaza este dedicată soarelui și mării. Petreceți ore relaxante pe plajă, înotați în apa limpede sau pur și simplu citiți o carte la umbră. Acesta este momentul perfect pentru a vă relaxa și a vă bucura de viața cretană.\nÎncheiați ziua cu o cină de neuitat. Tavernele din jurul Lacului Voulismeni oferă un cadru magic. Bucurați-vă de specialități locale în timp ce luminile orașului se reflectă în apă, creând o atmosferă romantică.",
-        "en": "Start your day at the lively port before strolling to the tranquil Lake Voulismeni, the heart of the city. The morning is perfect for soaking up the myths and local atmosphere. Explore the small streets and enjoy the maritime breeze.\nAt midday, delve into Crete's rich history. The Archaeological Museum showcases Minoan treasures that transport you to another era. Afterwards, it's time for relaxation at the city beach, Kitroplatia. Enjoy lunch at a taverna right by the sea.\nThe afternoon is all about sun and sea. Spend relaxing hours on the beach, swim in the clear water, or simply read a book in the shade. This is the perfect moment to unwind and enjoy the Cretan way of life.\nEnd the day with an unforgettable dinner. The tavernas around Lake Voulismeni offer a magical setting. Enjoy local specialities as the city lights reflect on the water, creating a romantic atmosphere."
+        "en": "Start your day at the lively port before strolling to the tranquil Lake Voulismeni, the heart of the city. The morning is perfect for soaking up the myths and local atmosphere. Explore the small streets and enjoy the maritime breeze.\nAt midday, delve into Crete's rich history. The Archaeological Museum showcases Minoan treasures that transport you to another era. Afterwards, it's time for relaxation at the city beach, Kitroplatia. Enjoy lunch at a taverna right by the sea.\nThe afternoon is all about sun and sea. Spend relaxing hours on the beach, swim in the clear water, or simply read a book in the shade. This is the perfect moment to unwind and enjoy the Cretan way of life.\nEnd the day with an unforgettable dinner. The tavernas around Lake Voulismeni offer a magical setting. Enjoy local specialities as the city lights reflect on the water, creating a romantic atmosphere.",
+        "el": "Ξεκινήστε τη μέρα σας στο ζωντανό λιμάνι πριν περπατήσετε προς την ήσυχη Λίμνη Βουλισμένη, την καρδιά της πόλης. Το πρωί είναι ιδανικό για να απορροφήσετε τους μύθους και την τοπική ατμόσφαιρα. Εξερευνήστε τα στενά δρομάκια και απολαύστε τη θαλασσινή αύρα.\nΤο μεσημέρι, βυθιστείτε στην πλούσια ιστορία της Κρήτης. Το Αρχαιολογικό Μουσείο παρουσιάζει μινωικούς θησαυρούς που σας μεταφέρουν σε άλλη εποχή. Έπειτα είναι ώρα για χαλάρωση στην αστική παραλία Κουτροπλατεία. Απολαύστε το μεσημεριανό σας σε μια ταβέρνα δίπλα στη θάλασσα.\nΤο απόγευμα είναι αφιερωμένο σε ήλιο και θάλασσα. Περνάτε χαλαρές ώρες στην παραλία, κολυμπήστε στα καθαρά νερά ή απλώς διαβάστε ένα βιβλίο στη σκιά. Αυτή είναι η τέλεια στιγμή για να χαλαρώσετε και να απολαύσετε τον κρητικό τρόπο ζωής.\nΤελειώστε τη μέρα με ένα αξέχαστο δείπνο. Οι ταβέρνες γύρω από τη Λίμνη Βουλισμένη προσφέρουν μαγικό περιβάλλον. Απολαύστε τοπικές σπεσιαλιτέ καθώς τα φώτα της πόλης αντικατοπτρίζονται στο νερό, δημιουργώντας ρομαντική ατμόσφαιρα."
       },
       "gastro_picks": {
         "de": [
@@ -398,6 +413,13 @@
           "Most shops close in the afternoon for a siesta.",
           "Be prepared for many stairs, especially around the lake.",
           "A sun hat and sunscreen are a must, even for short walks."
+        ],
+        "el": [
+          "Φορέστε άνετα παπούτσια καθώς οι δρόμοι μπορεί να είναι ανηφορικοί.",
+          "Ένα επαναχρησιμοποιήσιμο παγούρι είναι απαραίτητο στη ελληνική ζέστη.",
+          "Τα περισσότερα καταστήματα κλείνουν το απόγευμα για σιέστα.",
+          "Να είστε έτοιμοι για πολλές σκάλες, ειδικά γύρω από τη λίμνη.",
+          "Ένα καπέλο και αντηλιακό είναι απαραίτητα, ακόμη και για σύντομους περιπάτους."
         ]
       },
       "variants": {
@@ -406,7 +428,8 @@
             "de": "Beginnen Sie Ihren Tag am Hafen mit einem stabilen Regenschirm; die stürmische See bietet eine dramatische Kulisse. Mittags finden Sie in der Nähe des Sees gemütliche Cafés, um dem Schauer zu entfliehen. Der Nachmittag gehört den Museen, die perfekten Schutz und tiefe kulturelle Einblicke bieten. Den Abend lassen Sie bei einem Abendessen am See ausklingen, während der Regen sanft auf das Wasser prasselt.",
             "hu": "Kezdje a napot a kikötőben egy erős esernyővel; a hullámzó tenger drámai látványt nyújt. Délben keressen egy vízparti kávézót a tó mellett, ahol megvárhatja az eső csendesedését. A délután tökéletes a múzeumlátogatásra, ahol szárazon merülhet el a kultúrában. Az estét zárja egy hangulatos vacsorával a tó partján, figyelve a vízen táncoló esőcseppeket.",
             "ro": "Începeți ziua în port cu o umbrelă rezistentă; marea agitată oferă un decor dramatic. La prânz, găsiți cafenele primitoare lângă lac pentru a scăpa de aversă. După-amiaza este ideală pentru vizitarea muzeelor, oferind adăpost perfect și incursiuni culturale. Încheiați seara cu o cină lângă lac, în timp ce ploaia cade ușor pe suprafața apei.",
-            "en": "Start your day at the port with a sturdy umbrella; the choppy sea provides a dramatic backdrop. At noon, find a cozy cafe by the lake to escape the showers. The afternoon is perfect for museum visits, offering excellent shelter and deep cultural insights. End the evening with dinner by the lake, watching the rain dance on the water's surface."
+            "en": "Start your day at the port with a sturdy umbrella; the choppy sea provides a dramatic backdrop. At noon, find a cozy cafe by the lake to escape the showers. The afternoon is perfect for museum visits, offering excellent shelter and deep cultural insights. End the evening with dinner by the lake, watching the rain dance on the water's surface.",
+            "el": "Ξεκινήστε την ημέρα σας στο λιμάνι με μια γερή ομπρέλα· η ταραγμένη θάλασσα προσφέρει δραματικό φόντο. Το μεσημέρι βρείτε ένα ζεστό καφέ δίπλα στη λίμνη για να ξεφύγετε από τις μπόρες. Το απόγευμα είναι ιδανικό για επισκέψεις σε μουσεία, που προσφέρουν εξαιρετικό καταφύγιο και βαθιές πολιτιστικές εμπειρίες. Τελειώστε το βράδυ με δείπνο δίπλα στη λίμνη, παρακολουθώντας τη βροχή να χορεύει στην επιφάνεια του νερού."
           },
           "stops": [
             {
@@ -415,7 +438,8 @@
                 "de": "Windfeste Kleidung ist hier wichtig, da die Böen vom Meer Regen herantragen können.",
                 "hu": "Szélálló öltözet ajánlott, mert a tenger felőli széllökések behordhatják az esőt.",
                 "ro": "Hainele rezistente la vânt sunt importante, deoarece rafalele pot aduce ploaia dinspre mare.",
-                "en": "Windproof clothing is key here as sea gusts can blow the rain sideways."
+                "en": "Windproof clothing is key here as sea gusts can blow the rain sideways.",
+                "el": "Αδιάβροχα ρούχα είναι απαραίτητα εδώ καθώς οι θάλασσες ρίχνουν πλευρικούς ανέμους που μπορούν να φυσήξουν τη βροχή πλαγίως."
               }
             },
             {
@@ -424,7 +448,8 @@
                 "de": "Ein schneller Fotostopp; die Statue glänzt besonders schön im Regen.",
                 "hu": "Gyors fotómegálló; a szobor különlegesen csillog az esőben.",
                 "ro": "O oprire rapidă pentru fotografii; statuia strălucește frumos în ploaie.",
-                "en": "A quick photo stop; the statue has a unique glisten in the rain."
+                "en": "A quick photo stop; the statue has a unique glisten in the rain.",
+                "el": "Γρήγορη στάση για φωτογραφία· το άγαλμα έχει μοναδική λάμψη στη βροχή."
               }
             },
             {
@@ -433,7 +458,8 @@
                 "de": "Nutzen Sie die überdachten Terrassen der Cafés für einen trockenen Blick auf den See.",
                 "hu": "Használja a kávézók fedett teraszait a tóra nyíló száraz kilátáshoz.",
                 "ro": "Folosiți terasele acoperite ale cafenelelor pentru o vedere uscată asupra lacului.",
-                "en": "Utilize the covered cafe terraces for a dry view of the lake."
+                "en": "Utilize the covered cafe terraces for a dry view of the lake.",
+                "el": "Χρησιμοποιήστε τις καλυμμένες βεράντες των καφέ για στεγνή θέα της λίμνης."
               }
             },
             {
@@ -442,7 +468,8 @@
                 "de": "Ein idealer Rückzugsort, um die lokale Geschichte im Trockenen zu erkunden.",
                 "hu": "Ideális menedék, hogy szárazon fedezze fel a helyi történelmet.",
                 "ro": "Un refugiu ideal pentru a explora istoria locală la adăpost.",
-                "en": "An ideal retreat to explore local history while staying dry."
+                "en": "An ideal retreat to explore local history while staying dry.",
+                "el": "Ιδανικό καταφύγιο για να εξερευνήσετε την τοπική ιστορία μένοντας στεγνοί."
               }
             },
             {
@@ -451,7 +478,8 @@
                 "de": "Viel Zeit im Inneren einplanen; die Exponate sind ein Highlight bei schlechtem Wetter.",
                 "hu": "Töltsön itt több időt; a kiállítások kiválóak rossz idő esetén is.",
                 "ro": "Alocați mai mult timp interiorului; exponatele sunt superbe pe vreme rea.",
-                "en": "Plan to spend extra time inside; the exhibits are a highlight in bad weather."
+                "en": "Plan to spend extra time inside; the exhibits are a highlight in bad weather.",
+                "el": "Σχεδιάστε να περάσετε περισσότερο χρόνο μέσα· τα εκθέματα ξεχωρίζουν σε κακό καιρό."
               }
             },
             {
@@ -460,7 +488,8 @@
                 "de": "Die Cafés direkt am Strand bieten eine tolle Atmosphäre, um den Regen auf dem Meer zu beobachten.",
                 "hu": "A tengerparti kávézók remek helyszínt biztosítanak az eső tengeri látványához.",
                 "ro": "Cafenelele de pe plajă oferă o atmosferă excelentă pentru a privi ploaia pe mare.",
-                "en": "Beachside cafes offer a great atmosphere to watch the rain over the sea."
+                "en": "Beachside cafes offer a great atmosphere to watch the rain over the sea.",
+                "el": "Τα παραλιακά καφέ προσφέρουν εξαιρετική ατμόσφαιρα για να δείτε τη βροχή πάνω στη θάλασσα."
               }
             },
             {
@@ -469,7 +498,8 @@
                 "de": "Reservieren Sie einen Tisch im Innenbereich mit Blick durch die großen Fenster.",
                 "hu": "Foglaljon asztalt beltéren, kilátással a nagy ablakokon keresztül.",
                 "ro": "Rezervați o masă în interior, cu vedere prin ferestrele mari.",
-                "en": "Book an indoor table with a view through the large windows."
+                "en": "Book an indoor table with a view through the large windows.",
+                "el": "Κλείστε τραπέζι εσωτερικά με θέα μέσα από τα μεγάλα παράθυρα."
               }
             }
           ],
@@ -497,6 +527,12 @@
               "Wear waterproof shoes for the coastal promenade.",
               "Museums are your best refuge during long downpours.",
               "Watch out for puddles in the narrow old town streets."
+            ],
+            "el": [
+              "Τα πεζοδρόμια γύρω από τη λίμνη μπορούν να γίνουν ολισθηρά όταν βραχούν.",
+              "Φορέστε αδιάβροχα παπούτσια για την παραλιακή περαντζάδα.",
+              "Τα μουσεία είναι το καλύτερο καταφύγιο σας σε μακρές καταιγίδες.",
+              "Προσοχή στις λακκούβες στα στενά σοκάκια της παλιάς πόλης."
             ]
           }
         },
@@ -505,7 +541,8 @@
             "de": "Genießen Sie die kühle Morgenbrise am Hafen, wenn die Stadt sanft erwacht. Mittags wärmen Sie sich in einer Taverne am See bei traditionellen kretischen Gerichten auf. Nutzen Sie das milde Licht des Nachmittags für Museumsbesuche, bevor die Sonne früh untergeht. Der Abend in Agios Nikolaos ist ruhig und authentisch, perfekt für ein entspanntes Abendessen unter Einheimischen.",
             "hu": "Élvezze a friss reggeli szellőt a kikötőben, miközben a város lassan ébredezik. Délben melegedjen fel egy tóparti tavernában tradicionális krétai ételekkel. Használja ki a délutáni lágy fényeket a múzeumokhoz, mielőtt korán lenyugszik a nap. Az este Agios Nikolaosban csendes és autentikus, ideális egy nyugodt vacsorához a helyiek körében.",
             "ro": "Bucurați-vă de briza răcoroasă a dimineții în port, în timp ce orașul se trezește lent. La prânz, încălziți-vă într-o tavernă de lângă lac cu mâncăruri tradiționale cretane. Profitați de lumina blândă a după-amiezii pentru muzee înainte de apusul devreme. Seara în Agios Nikolaos este liniștită și autentică, perfectă pentru o cină relaxată printre localnici.",
-            "en": "Enjoy the crisp morning breeze at the port as the town slowly wakes up. At noon, warm up in a lakeside tavern with traditional Cretan dishes. Make the most of the soft afternoon light for museums before the early sunset. The evening in Agios Nikolaos is quiet and authentic, perfect for a relaxed dinner among locals."
+            "en": "Enjoy the crisp morning breeze at the port as the town slowly wakes up. At noon, warm up in a lakeside tavern with traditional Cretan dishes. Make the most of the soft afternoon light for museums before the early sunset. The evening in Agios Nikolaos is quiet and authentic, perfect for a relaxed dinner among locals.",
+            "el": "Απολαύστε τον δροσερό πρωινό αέρα στο λιμάνι καθώς η πόλη ξυπνάει αργά. Το μεσημέρι ζεσταθείτε σε μια ταβέρνα δίπλα στη λίμνη με παραδοσιακά κρητικά πιάτα. Αξιοποιήστε το απαλό απογευματινό φως για τα μουσεία πριν το νωρίς ηλιοβασίλεμα. Το βράδυ στο Αγιος Νικόλαος είναι ήσυχο και αυθεντικό, τέλειο για ένα χαλαρό δείπνο ανάμεσα στους ντόπιους."
           },
           "stops": [
             {
@@ -514,7 +551,8 @@
                 "de": "Zwiebelprinzip bei der Kleidung hilft gegen die kühle Meeresbrise.",
                 "hu": "A réteges öltözködés segít a hűvös tengeri szél ellen.",
                 "ro": "Îmbrăcămintea în straturi ajută împotriva brizei răcoroase a mării.",
-                "en": "Layered clothing helps against the cool sea breeze."
+                "en": "Layered clothing helps against the cool sea breeze.",
+                "el": "Φορέματα με στρώσεις βοηθούν ενάντια στον δροσερό θαλασσινό αέρα."
               }
             },
             {
@@ -523,7 +561,8 @@
                 "de": "Die Wintersonne steht tief und bietet hervorragendes Licht für Fotos.",
                 "hu": "A téli nap alacsonyan jár, kiváló fényeket biztosítva a fotózáshoz.",
                 "ro": "Soarele de iarnă este jos, oferind o lumină excelentă pentru fotografii.",
-                "en": "The winter sun is low, providing excellent light for photography."
+                "en": "The winter sun is low, providing excellent light for photography.",
+                "el": "Ο χειμερινός ήλιος είναι χαμηλός, προσφέροντας εξαιρετικό φως για φωτογραφία."
               }
             },
             {
@@ -532,7 +571,8 @@
                 "de": "Perfekt für einen heißen griechischen Kaffee in der Wintersonne.",
                 "hu": "Tökéletes helyszín egy forró görög kávéhoz a téli napsütésben.",
                 "ro": "Perfect pentru o cafea grecească fierbinte sub soarele de iarnă.",
-                "en": "Perfect for a hot Greek coffee in the winter sun."
+                "en": "Perfect for a hot Greek coffee in the winter sun.",
+                "el": "Ιδανικό για ένα ζεστό ελληνικό καφέ στον χειμερινό ήλιο."
               }
             },
             {
@@ -541,7 +581,8 @@
                 "de": "Ein gemütlicher Ort, um mehr über kretische Traditionen zu erfahren.",
                 "hu": "Hangulatos hely, hogy többet tudjon meg a krétai hagyományokról.",
                 "ro": "Un loc primitor pentru a învăța mai multe despre tradițiile cretane.",
-                "en": "A cozy spot to learn more about Cretan traditions."
+                "en": "A cozy spot to learn more about Cretan traditions.",
+                "el": "Ένα ζεστό σημείο για να μάθετε περισσότερα για τις κρητικές παραδόσεις."
               }
             },
             {
@@ -550,7 +591,8 @@
                 "de": "Die Klimatisierung sorgt auch im Winter für angenehme Temperaturen.",
                 "hu": "A légkondicionálás télen is kellemes hőmérsékletet biztosít.",
                 "ro": "Climatizarea asigură temperaturi plăcute chiar și iarna.",
-                "en": "Climate control ensures pleasant temperatures even in winter."
+                "en": "Climate control ensures pleasant temperatures even in winter.",
+                "el": "Κλιματισμός/θέρμανση εξασφαλίζει ευχάριστες θερμοκρασίες ακόμα και τον χειμώνα."
               }
             },
             {
@@ -559,7 +601,8 @@
                 "de": "Ideal für einen belebenden Winterspaziergang am Wasser.",
                 "hu": "Ideális egy élénkítő téli sétához a vízparton.",
                 "ro": "Ideal pentru o plimbare revigorantă de iarnă pe malul apei.",
-                "en": "Ideal for an invigorating winter walk by the water."
+                "en": "Ideal for an invigorating winter walk by the water.",
+                "el": "Ιδανικό για αναζωογονητικό χειμερινό περίπατο δίπλα στο νερό."
               }
             },
             {
@@ -568,7 +611,8 @@
                 "de": "Genießen Sie die ruhige, festliche Atmosphäre der Winterabende.",
                 "hu": "Élvezze a téli esték nyugodt, ünnepi hangulatát.",
                 "ro": "Bucurați-vă de atmosfera liniștită și festivă a serilor de iarnă.",
-                "en": "Enjoy the quiet, festive atmosphere of winter evenings."
+                "en": "Enjoy the quiet, festive atmosphere of winter evenings.",
+                "el": "Απολαύστε την ήσυχη, γιορτινή ατμόσφαιρα των χειμερινών βραδιών."
               }
             }
           ],
@@ -596,6 +640,12 @@
               "Many cafes have outdoor heaters on their terraces.",
               "The town is much less crowded during winter months.",
               "Bring a warm jacket for the evening hours."
+            ],
+            "el": [
+              "Το ηλιοβασίλεμα είναι αρκετά νωρίς, γύρω στις 17:15.",
+              "Πολλά καφέ έχουν εξωτερικούς θερμαντήρες στις βεράντες τους.",
+              "Η πόλη είναι πολύ λιγότερο γεμάτη κατά τη διάρκεια των χειμερινών μηνών.",
+              "Φέρτε ένα ζεστό μπουφάν για τις βραδινές ώρες."
             ]
           }
         }
@@ -614,7 +664,8 @@
             "de": "Voulismeni-See",
             "hu": "Voulismeni-tó",
             "ro": "Lacul Voulismeni",
-            "en": "Lake Voulismeni"
+            "en": "Lake Voulismeni",
+            "el": "Λίμνη Βουλισμένη"
           },
           "coords": [
             25.7155,
@@ -629,7 +680,8 @@
             "de": "Beginnen Sie Ihre Tour im Herzen der Stadt.",
             "hu": "Kezdje a túrát a város szívében.",
             "ro": "Începeți turul în inima orașului.",
-            "en": "Start your tour in the heart of the city."
+            "en": "Start your tour in the heart of the city.",
+            "el": "Ξεκινήστε την περιήγησή σας στην καρδιά της πόλης."
           }
         },
         {
@@ -637,7 +689,8 @@
             "de": "Hafen von Agios Nikolaos",
             "hu": "Ágiosz Nikólaosz kikötője",
             "ro": "Portul din Agios Nikolaos",
-            "en": "Port of Agios Nikolaos"
+            "en": "Port of Agios Nikolaos",
+            "el": "Λιμάνι Αγίου Νικολάου"
           },
           "coords": [
             25.7175,
@@ -652,7 +705,8 @@
             "de": "Radeln Sie entlang der Marina und bewundern Sie die Boote.",
             "hu": "Biciklizz végig a marina mentén, és csodáld meg a hajókat.",
             "ro": "Pedalați de-a lungul marinei și admirați bărcile.",
-            "en": "Cycle along the marina and admire the boats."
+            "en": "Cycle along the marina and admire the boats.",
+            "el": "Κάντε ποδήλατο κατά μήκος της μαρίνας και θαυμάστε τα σκάφη."
           }
         },
         {
@@ -660,7 +714,8 @@
             "de": "Kitroplatia-Strand",
             "hu": "Kitroplatia strand",
             "ro": "Plaja Kitroplatia",
-            "en": "Kitroplatia Beach"
+            "en": "Kitroplatia Beach",
+            "el": "Παραλία Κιτροπλατεία"
           },
           "coords": [
             25.72,
@@ -675,7 +730,8 @@
             "de": "Ein guter Ort für eine kurze Pause und ein erfrischendes Getränk.",
             "hu": "Jó hely egy rövid szünetre és egy frissítő italra.",
             "ro": "Un loc bun pentru o scurtă pauză și o băutură răcoritoare.",
-            "en": "A good spot for a short break and a refreshing drink."
+            "en": "A good spot for a short break and a refreshing drink.",
+            "el": "Καλή στάση για ένα μικρό διάλειμμα και ένα αναζωογονητικό ποτό."
           }
         },
         {
@@ -683,7 +739,8 @@
             "de": "Archäologisches Museum",
             "hu": "Régészeti Múzeum",
             "ro": "Muzeul de Arheologie",
-            "en": "Archaeological Museum"
+            "en": "Archaeological Museum",
+            "el": "Αρχαιολογικό Μουσείο"
           },
           "coords": [
             25.712,
@@ -698,7 +755,8 @@
             "de": "Stellen Sie Ihr Fahrrad sicher ab und tauchen Sie in die minoische Geschichte ein.",
             "hu": "Zárd le biztonságosan a kerékpárod, és merülj el a minószi történelemben.",
             "ro": "Parcați-vă bicicleta în siguranță și scufundați-vă în istoria minoică.",
-            "en": "Park your bike securely and dive into Minoan history."
+            "en": "Park your bike securely and dive into Minoan history.",
+            "el": "Παρκάρετε το ποδήλατό σας με ασφάλεια και βυθιστείτε στην μινωική ιστορία."
           }
         },
         {
@@ -706,7 +764,8 @@
             "de": "Mittagessen in Ammoudi",
             "hu": "Ebéd Ammoudiban",
             "ro": "Prânz în Ammoudi",
-            "en": "Lunch at Ammoudi"
+            "en": "Lunch at Ammoudi",
+            "el": "Γεύμα στην Αμμούδι"
           },
           "coords": [
             25.724,
@@ -721,7 +780,8 @@
             "de": "Radeln Sie zum Strand von Ammoudi für ein entspanntes Mittagessen am Meer.",
             "hu": "Tekerj el az Ammoudi strandra egy laza tengerparti ebédért.",
             "ro": "Pedalați până la plaja Ammoudi pentru un prânz relaxat la malul mării.",
-            "en": "Cycle to Ammoudi beach for a relaxed seaside lunch."
+            "en": "Cycle to Ammoudi beach for a relaxed seaside lunch.",
+            "el": "Ποδηλατήστε μέχρι την παραλία Αμμούδι για ένα χαλαρό γεύμα δίπλα στη θάλασσα."
           }
         },
         {
@@ -729,7 +789,8 @@
             "de": "Gargadoros Strand",
             "hu": "Gargadoros strand",
             "ro": "Plaja Gargadoros",
-            "en": "Gargadoros Beach"
+            "en": "Gargadoros Beach",
+            "el": "Παραλία Γαργαδωρός"
           },
           "coords": [
             25.705,
@@ -744,7 +805,8 @@
             "de": "Eine längere Fahrt zu einem ruhigeren Strand, perfekt für den Nachmittag.",
             "hu": "Egy hosszabb tekerés egy csendesebb strandra, tökéletes a délutánra.",
             "ro": "O plimbare mai lungă cu bicicleta până la o plajă mai liniștită, perfectă pentru după-amiază.",
-            "en": "A longer ride to a quieter beach, perfect for the afternoon."
+            "en": "A longer ride to a quieter beach, perfect for the afternoon.",
+            "el": "Μια μακρύτερη βόλτα προς μια πιο ήσυχη παραλία, ιδανική για το απόγευμα."
           }
         },
         {
@@ -752,7 +814,8 @@
             "de": "Aperitif am See",
             "hu": "Aperitif a tónál",
             "ro": "Aperitiv la lac",
-            "en": "Aperitif by the lake"
+            "en": "Aperitif by the lake",
+            "el": "Απεριτίφ δίπλα στη λίμνη"
           },
           "coords": [
             25.715,
@@ -767,7 +830,8 @@
             "de": "Beenden Sie Ihre Radtour mit einem Drink und Blick auf den Voulismeni-See.",
             "hu": "Fejezd be a kerékpártúrát egy itallal a Voulismeni-tóra nézve.",
             "ro": "Încheiați turul cu bicicleta cu o băutură cu vedere la Lacul Voulismeni.",
-            "en": "End your bike tour with a drink overlooking Lake Voulismeni."
+            "en": "End your bike tour with a drink overlooking Lake Voulismeni.",
+            "el": "Τελειώστε την ποδηλατική σας περιήγηση με ένα ποτό με θέα τη Λίμνη Βουλισμένη."
           }
         }
       ],
@@ -775,7 +839,8 @@
         "de": "Starten Sie Ihre Radtour am Voulismeni-See und fahren Sie entlang des Hafens, um die Meeresluft zu genießen. Die Route führt Sie zum Kitroplatia-Strand, einem perfekten Ort für eine erste Pause. Der Morgen ist ideal, um die Küste der Stadt zu erkunden.\nAm Mittag führt Sie Ihre Tour landeinwärts zum Archäologischen Museum. Nachdem Sie die reiche Geschichte Kretas aufgesogen haben, radeln Sie weiter zum Ammoudi-Strand für ein wohlverdientes Mittagessen in einer Taverne mit Blick auf das klare Wasser.\nDer Nachmittag ist für eine längere, aber lohnende Fahrt zum ruhigeren Gargadoros-Strand reserviert. Hier können Sie sich entspannen, schwimmen und die Sonne genießen, abseits der belebteren Gegenden. Die Fahrt selbst bietet schöne Ausblicke auf die Küste.\nBeenden Sie Ihren Tag dort, wo er begonnen hat: am Voulismeni-See. Stellen Sie Ihr Fahrrad ab und belohnen Sie sich mit einem erfrischenden Aperitif in einer der vielen Bars. Es ist der perfekte Abschluss eines aktiven Tages, während Sie den Sonnenuntergang beobachten.",
         "hu": "Kezdje a kerékpártúrát a Voulismeni-tónál, és tekerjen végig a kikötő mentén, hogy élvezze a tengeri levegőt. Az útvonal a Kitroplatia strandhoz vezet, amely tökéletes hely az első pihenőre. A reggel ideális a város partvidékének felfedezésére.\nDélben a túra a szárazföld belseje felé, a Régészeti Múzeumhoz vezet. Miután magába szívta Kréta gazdag történelmét, tekerjen tovább az Ammoudi strandra egy jól megérdemelt ebédre egy tiszta vizű tavernában.\nA délutánt egy hosszabb, de megérő út várja a csendesebb Gargadoros strandra. Itt pihenhet, úszhat és élvezheti a napot, távol a forgalmasabb területektől. Maga az út is gyönyörű kilátást nyújt a partra.\nFejezze be a napot ott, ahol kezdte: a Voulismeni-tónál. Tegye le a kerékpárt, és jutalmazza meg magát egy frissítő aperitiffel a sok bár egyikében. Ez a tökéletes lezárása egy aktív napnak, miközben a naplementét nézi.",
         "ro": "Începeți turul cu bicicleta de la Lacul Voulismeni și pedalați de-a lungul portului pentru a vă bucura de aerul mării. Traseul vă duce la plaja Kitroplatia, un loc perfect pentru o primă pauză. Dimineața este ideală pentru a explora coasta orașului.\nLa prânz, turul vă duce spre interior, la Muzeul de Arheologie. După ce ați absorbit istoria bogată a Cretei, pedalați mai departe spre plaja Ammoudi pentru un prânz binemeritat la o tavernă cu vedere la apa limpede.\nDupă-amiaza este rezervată unei plimbări mai lungi, dar pline de satisfacții, până la plaja mai liniștită Gargadoros. Aici vă puteți relaxa, înota și vă puteți bucura de soare, departe de zonele mai aglomerate. Plimbarea în sine oferă priveliști frumoase ale coastei.\nÎncheiați ziua unde a început: la Lacul Voulismeni. Lăsați bicicleta și recompensați-vă cu un aperitiv răcoritor la unul dintre numeroasele baruri. Este finalul perfect pentru o zi activă, în timp ce priviți apusul.",
-        "en": "Start your bike tour at Lake Voulismeni and cycle along the port to enjoy the sea air. The route takes you to Kitroplatia Beach, a perfect spot for a first break. The morning is ideal for exploring the city's coastline.\nAt midday, your tour leads you inland to the Archaeological Museum. After soaking up Crete's rich history, cycle on to Ammoudi Beach for a well-deserved lunch at a taverna overlooking the clear water.\nThe afternoon is reserved for a longer but rewarding ride to the quieter Gargadoros Beach. Here you can relax, swim, and enjoy the sun, away from the busier areas. The ride itself offers beautiful coastal views.\nEnd your day where it began: at Lake Voulismeni. Park your bike and reward yourself with a refreshing aperitif at one of the many bars. It's the perfect end to an active day while watching the sunset."
+        "en": "Start your bike tour at Lake Voulismeni and cycle along the port to enjoy the sea air. The route takes you to Kitroplatia Beach, a perfect spot for a first break. The morning is ideal for exploring the city's coastline.\nAt midday, your tour leads you inland to the Archaeological Museum. After soaking up Crete's rich history, cycle on to Ammoudi Beach for a well-deserved lunch at a taverna overlooking the clear water.\nThe afternoon is reserved for a longer but rewarding ride to the quieter Gargadoros Beach. Here you can relax, swim, and enjoy the sun, away from the busier areas. The ride itself offers beautiful coastal views.\nEnd your day where it began: at Lake Voulismeni. Park your bike and reward yourself with a refreshing aperitif at one of the many bars. It's the perfect end to an active day while watching the sunset.",
+        "el": "Ξεκινήστε την ποδηλατική σας διαδρομή στη Λίμνη Βουλισμένη και ποδηλατήστε κατά μήκος του λιμανιού για να απολαύσετε τον θαλασσινό αέρα. Η διαδρομή σας οδηγεί στην παραλία Κιτροπλατεία, ένα τέλειο σημείο για το πρώτο διάλειμμα. Το πρωί είναι ιδανικό για την εξερεύνηση της ακτογραμμής της πόλης.\nΤο μεσημέρι, η διαδρομή σας κατευθύνει προς το Αρχαιολογικό Μουσείο. Μετά από τη βύθιση στην πλούσια ιστορία της Κρήτης, συνεχίστε προς την παραλία Αμμούδι για ένα заслужτημένο γεύμα σε ταβέρνα με θέα τα καθαρά νερά.\nΤο απόγευμα είναι αφιερωμένο σε μια πιο μακρινή αλλά ανταμείβουσα βόλτα προς την πιο ήσυχη παραλία Γαργαδωρός. Εδώ μπορείτε να χαλαρώσετε, να κολυμπήσετε και να απολαύσετε τον ήλιο, μακριά από τις πιο πολυσύχναστες περιοχές. Η ίδια η διαδρομή προσφέρει όμορφες παραθαλάσσιες εικόνες.\nΤελειώστε την ημέρα εκεί όπου ξεκίνησε: στη Λίμνη Βουλισμένη. Παρκάρετε το ποδήλατό σας και ανταμείψτε τον εαυτό σας με ένα δροσιστικό απεριτίφ σε ένα από τα πολλά μπαρ. Είναι το τέλειο τέλος για μια ενεργή μέρα παρακολουθώντας το ηλιοβασίλεμα."
       },
       "gastro_picks": {
         "de": [
@@ -933,6 +998,13 @@
           "Bring plenty of water, especially for longer rides.",
           "A helmet is highly recommended.",
           "Always lock your bike securely when you park it."
+        ],
+        "el": [
+          "Ναιμώστε ένα ηλεκτρικό ποδήλατο για να ξεπεράσετε πιο εύκολα τους λόφους.",
+          "Οι παραθαλάσσιοι δρόμοι είναι όμορφοι, αλλά προσέξτε την κίνηση.",
+          "Φέρτε άφθονο νερό, ειδικά για τις μακρύτερες βόλτες.",
+          "Ένα κράνος είναι εξαιρετικά συνιστώμενο.",
+          "Κλειδώνετε πάντα το ποδήλατό σας με ασφάλεια όταν το παρκάρετε."
         ]
       },
       "variants": {
@@ -941,7 +1013,8 @@
             "de": "Eine Radtour im Regen erfordert Vorsicht, bietet aber eine erfrischende Perspektive auf den See. Mittags suchen Sie Schutz am Hafen und trocknen sich bei einem Snack ab. Der Nachmittag führt Sie ins Archäologische Museum, wo Ihr Fahrrad sicher untergestellt werden kann. Beenden Sie den Tag mit einem Aperitif am See, während Sie den Wellen lauschen.",
             "hu": "Az esős kerékpározás óvatosságot igényel, de frissítő perspektívát ad a tóra. Délben keressen menedéket a kikötőben, és száradjon meg egy snack mellett. A délután az Régészeti Múzeumba vezet, ahol biztonságban hagyhatja a biciklit. Zárja a napot egy aperitiffel a tónál, hallgatva a hullámok zaját.",
             "ro": "O tură cu bicicleta în ploaie necesită prudență, dar oferă o perspectivă revigorantă asupra lacului. La prânz, căutați adăpost în port și uscați-vă în timp ce luați o gustare. După-amiaza vă duce la Muzeul Arheologic, unde bicicleta poate fi parcată la adăpost. Încheiați ziua cu un aperitiv lângă lac, ascultând valurile.",
-            "en": "Cycling in the rain requires caution but offers a refreshing perspective on the lake. At noon, seek shelter at the port and dry off over a snack. The afternoon leads you to the Archaeological Museum, where your bike can be safely parked under cover. End the day with an aperitif by the lake, listening to the waves."
+            "en": "Cycling in the rain requires caution but offers a refreshing perspective on the lake. At noon, seek shelter at the port and dry off over a snack. The afternoon leads you to the Archaeological Museum, where your bike can be safely parked under cover. End the day with an aperitif by the lake, listening to the waves.",
+            "el": "Το ποδήλατο στη βροχή απαιτεί προσοχή αλλά προσφέρει μια δροσιστική προοπτική της λίμνης. Το μεσημέρι, βρείτε καταφύγιο στο λιμάνι και στεγνώστε με ένα σνακ. Το απόγευμα σας οδηγεί στο Αρχαιολογικό Μουσείο, όπου το ποδήλατο μπορεί να παρκάρει με ασφάλεια υπό κάλυψη. Τελειώστε την ημέρα με ένα απεριτίφ δίπλα στη λίμνη, ακούγοντας τα κύματα."
           },
           "stops": [
             {
@@ -950,7 +1023,8 @@
                 "de": "Vorsicht beim Bremsen auf dem Kopfsteinpflaster rund um den See.",
                 "hu": "Vigyázzon a fékezéssel a tó körüli macskaköves utakon.",
                 "ro": "Atenție la frânare pe pavajul din jurul lacului.",
-                "en": "Be careful when braking on the cobblestones around the lake."
+                "en": "Be careful when braking on the cobblestones around the lake.",
+                "el": "Προσοχή στο φρενάρισμα πάνω στις κυβόλιθες γύρω από τη λίμνη."
               }
             },
             {
@@ -959,7 +1033,8 @@
                 "de": "Nutzen Sie überdachte Bereiche zum Parken des Fahrrads während der Pausen.",
                 "hu": "Használja a fedett részeket a bicikli leállításához a szünetekben.",
                 "ro": "Folosiți zonele acoperite pentru a parca bicicleta în timpul pauzelor.",
-                "en": "Use covered areas to park your bike during breaks."
+                "en": "Use covered areas to park your bike during breaks.",
+                "el": "Χρησιμοποιήστε καλυμμένους χώρους για να παρκάρετε το ποδήλατό σας στα διαλείμματα."
               }
             },
             {
@@ -968,7 +1043,8 @@
                 "de": "Die Küstenstraße kann bei Regen durch Gischt rutschig sein.",
                 "hu": "A tengerparti út csúszós lehet az eső és a sós permet miatt.",
                 "ro": "Drumul de coastă poate fi alunecos din cauza ploii și a ceții saline.",
-                "en": "The coastal road can be slippery due to rain and sea spray."
+                "en": "The coastal road can be slippery due to rain and sea spray.",
+                "el": "Ο παραλιακός δρόμος μπορεί να είναι ολισθηρός λόγω βροχής και θαλασσινού σπρέι."
               }
             },
             {
@@ -977,7 +1053,8 @@
                 "de": "Sicherer Abstellplatz vorhanden; idealer Stopp für einen trockenen Nachmittag.",
                 "hu": "Biztonságos tároló elérhető; ideális megálló egy száraz délutánhoz.",
                 "ro": "Loc de parcare sigur disponibil; oprire ideală pentru o după-amiază uscată.",
-                "en": "Secure bike parking available; ideal stop for a dry afternoon."
+                "en": "Secure bike parking available; ideal stop for a dry afternoon.",
+                "el": "Διαθέσιμος ασφαλής χώρος στάθμευσης ποδηλάτων· ιδανική στάση για ένα στεγνό απόγευμα."
               }
             },
             {
@@ -986,7 +1063,8 @@
                 "de": "Wählen Sie ein Restaurant mit direktem Blick auf Ihr Fahrrad.",
                 "hu": "Válasszon olyan éttermet, ahonnan rálát a kerékpárjára.",
                 "ro": "Alegeți un restaurant cu vedere directă la bicicletă.",
-                "en": "Choose a restaurant with a direct view of your bike."
+                "en": "Choose a restaurant with a direct view of your bike.",
+                "el": "Επιλέξτε εστιατόριο με άμεση θέα στο ποδήλατό σας."
               }
             },
             {
@@ -995,7 +1073,8 @@
                 "de": "Kurzer Halt für den Ausblick; bei Regen ist der Weg steinig.",
                 "hu": "Rövid megálló a kilátásért; esőben az út köves és sáros lehet.",
                 "ro": "Oprire scurtă pentru vedere; drumul este pietros când plouă.",
-                "en": "Short stop for the view; the path is stony and can be muddy in rain."
+                "en": "Short stop for the view; the path is stony and can be muddy in rain.",
+                "el": "Σύντομη στάση για τη θέα· το μονοπάτι είναι βοτσαλωτό και μπορεί να γίνει λασπωμένο στη βροχή."
               }
             },
             {
@@ -1004,7 +1083,8 @@
                 "de": "Entspannen Sie unter den Schirmen und genießen Sie den Moment.",
                 "hu": "Lazítson az ernyők alatt, és élvezze a pillanatot.",
                 "ro": "Relaxați-vă sub umbrele și bucurați-vă de moment.",
-                "en": "Relax under the umbrellas and enjoy the moment."
+                "en": "Relax under the umbrellas and enjoy the moment.",
+                "el": "Χαλαρώστε κάτω από τις ομπρέλες και απολαύστε τη στιγμή."
               }
             }
           ],
@@ -1032,6 +1112,12 @@
               "A rain poncho is more practical than an umbrella while cycling.",
               "Check your brakes before setting off.",
               "Visibility can be limited during heavy rain."
+            ],
+            "el": [
+              "Αποφύγετε απότομες στροφές σε υγρούς δρόμους.",
+              "Ένα αδιάβροχο κάλυμμα (poncho) είναι πιο πρακτικό από ομπρέλα ενώ ποδηλατείτε.",
+              "Ελέγξτε τα φρένα πριν ξεκινήσετε.",
+              "Η ορατότητα μπορεί να είναι περιορισμένη κατά τη διάρκεια σφοδρής βροχής."
             ]
           }
         },
@@ -1040,7 +1126,8 @@
             "de": "Starten Sie Ihre Wintertour am See, wo die Luft klar und belebend ist. Radeln Sie am Hafen entlang und genießen Sie die freie Fahrt ohne Touristenmassen. Mittags lädt das Archäologische Museum zu einer Bildungspause ein. Nach einem Mittagessen in Ammoudi führt der Weg zur ruhigen Gargadoros-Bucht, bevor Sie den Tag gemütlich am See beenden.",
             "hu": "Kezdje téli túráját a tónál, ahol a levegő tiszta és élénkítő. Tekerjen végig a kikötőben, élvezve a szabad utat turistatömeg nélkül. Délben a Régészeti Múzeum hívogat egy kis kulturális szünetre. Egy ammoudi ebéd után az út a csendes Gargadoros-öbölbe vezet, majd a napot a tónál zárhatja.",
             "ro": "Începeți tura de iarnă la lac, unde aerul este curat și revigorant. Pedalați de-a lungul portului, bucurându-vă de drumul liber fără mase de turiști. La prânz, Muzeul Arheologic vă invită la o pauză educativă. După un prânz în Ammoudi, drumul duce spre golful liniștit Gargadoros, înainte de a încheia ziua la lac.",
-            "en": "Start your winter ride at the lake, where the air is clear and invigorating. Cycle along the port, enjoying the open road without tourist crowds. At noon, the Archaeological Museum invites you for an educational break. After lunch in Ammoudi, the path leads to the quiet Gargadoros bay, before ending the day cozy by the lake."
+            "en": "Start your winter ride at the lake, where the air is clear and invigorating. Cycle along the port, enjoying the open road without tourist crowds. At noon, the Archaeological Museum invites you for an educational break. After lunch in Ammoudi, the path leads to the quiet Gargadoros bay, before ending the day cozy by the lake.",
+            "el": "Ξεκινήστε τη χειμερινή σας βόλτα στη λίμνη, όπου ο αέρας είναι καθαρός και αναζωογονητικός. Ποδηλατήστε κατά μήκος του λιμανιού, απολαμβάνοντας τον ανοικτό δρόμο χωρίς τουριστικά πλήθη. Το μεσημέρι, το Αρχαιολογικό Μουσείο σας προσφέρει ένα εκπαιδευτικό διάλειμμα. Μετά το γεύμα στην Αμμούδι, το μονοπάτι οδηγεί στον ήσυχο κόλπο Γαργαδωρός, πριν τελειώσει η μέρα ζεστά δίπλα στη λίμνη."
           },
           "stops": [
             {
@@ -1049,7 +1136,8 @@
                 "de": "Handschuhe sind bei der morgendlichen Kälte am Wasser ratsam.",
                 "hu": "Kesztyű ajánlott a reggeli hidegben a vízparton.",
                 "ro": "Mănușile sunt recomandate pentru frigul dimineții lângă apă.",
-                "en": "Gloves are recommended for the morning chill by the water."
+                "en": "Gloves are recommended for the morning chill by the water.",
+                "el": "Γάντια συνιστώνται για το πρωινό ψύχος δίπλα στο νερό."
               }
             },
             {
@@ -1058,7 +1146,8 @@
                 "de": "Freie Wege ermöglichen eine entspannte Fahrt am Kai.",
                 "hu": "A szabad utak lehetővé teszik a nyugodt tekerést a rakparton.",
                 "ro": "Drumurile libere permit o plimbare relaxată pe chei.",
-                "en": "Clear paths allow for a relaxed ride along the quay."
+                "en": "Clear paths allow for a relaxed ride along the quay.",
+                "el": "Καθαρά μονοπάτια επιτρέπουν χαλαρή βόλτα κατά μήκος της προκυμαίας."
               }
             },
             {
@@ -1067,7 +1156,8 @@
                 "de": "Ein schöner Ort für eine kurze Pause in der Wintersonne.",
                 "hu": "Szép hely egy rövid pihenőre a téli napsütésben.",
                 "ro": "Un loc frumos pentru o scurtă pauză sub soarele de iarnă.",
-                "en": "A lovely spot for a short break in the winter sun."
+                "en": "A lovely spot for a short break in the winter sun.",
+                "el": "Ένα όμορφο σημείο για ένα σύντομο διάλειμμα στον χειμερινό ήλιο."
               }
             },
             {
@@ -1076,7 +1166,8 @@
                 "de": "Nutzen Sie den Stopp, um sich aufzuwärmen und Kultur zu genießen.",
                 "hu": "Használja ki a megállót a felmelegedésre és a kultúrára.",
                 "ro": "Profitați de oprire pentru a vă încălzi și a savura cultura.",
-                "en": "Use this stop to warm up and enjoy the culture."
+                "en": "Use this stop to warm up and enjoy the culture.",
+                "el": "Χρησιμοποιήστε αυτή τη στάση για να ζεσταθείτε και να απολαύσετε τον πολιτισμό."
               }
             },
             {
@@ -1085,7 +1176,8 @@
                 "de": "Probieren Sie herzhafte kretische Wintersuppen.",
                 "hu": "Kóstolja meg a kiadós krétai téli leveseket.",
                 "ro": "Gustați supele cretane de iarnă consistente.",
-                "en": "Try some hearty Cretan winter soups."
+                "en": "Try some hearty Cretan winter soups.",
+                "el": "Δοκιμάστε μερικές χορταστικές χειμερινές κρητικές σούπες."
               }
             },
             {
@@ -1094,7 +1186,8 @@
                 "de": "Sehr ruhig im Winter; genießen Sie die Einsamkeit am Meer.",
                 "hu": "Nagyon csendes télen; élvezze a tengerparti magányt.",
                 "ro": "Foarte liniștit iarna; bucurați-vă de singurătatea mării.",
-                "en": "Very quiet in winter; enjoy the solitude by the sea."
+                "en": "Very quiet in winter; enjoy the solitude by the sea.",
+                "el": "Πολύ ήσυχο τον χειμώνα· απολαύστε τη μοναξιά δίπλα στη θάλασσα."
               }
             },
             {
@@ -1103,7 +1196,8 @@
                 "de": "Heißer Tee oder Raki wärmt nach der Tour von innen.",
                 "hu": "A forró tea vagy a raki belülről melegít a túra után.",
                 "ro": "Ceaiul fierbinte sau raki vă vor încălzi după tură.",
-                "en": "Hot tea or raki will warm you from the inside after the ride."
+                "en": "Hot tea or raki will warm you from the inside after the ride.",
+                "el": "Ένα ζεστό τσάι ή ρακί θα σας ζεστάνει από μέσα μετά τη βόλτα."
               }
             }
           ],
@@ -1131,6 +1225,12 @@
               "Windproof clothing prevents chilling while riding.",
               "Roads are often cleaner in winter (less sand/dust).",
               "Stay hydrated even when it's cooler outside."
+            ],
+            "el": [
+              "Ο φωτισμός ποδηλάτου είναι κρίσιμος λόγω του νωπού λούκουρου (ομιχλώδης/σύντομο) και του νωρινού σκότους.",
+              "Αδιάβροχα ρούχα αποτρέπουν το κρυολόγημα ενώ ποδηλατείτε.",
+              "Οι δρόμοι είναι συχνά καθαρότεροι τον χειμώνα (λιγότερη άμμος/σκόνη).",
+              "Μείνετε ενυδατωμένοι ακόμα κι όταν κάνει πιο δροσερά έξω."
             ]
           }
         }
@@ -1149,7 +1249,8 @@
             "de": "Kirche Panagia Kera",
             "hu": "Panagia Kera templom",
             "ro": "Biserica Panagia Kera",
-            "en": "Church of Panagia Kera"
+            "en": "Church of Panagia Kera",
+            "el": "Εκκλησία Παναγία Κερά"
           },
           "coords": [
             25.6667,
@@ -1165,7 +1266,8 @@
             "de": "Bewundern Sie die berühmten byzantinischen Fresken in dieser historischen Kirche.",
             "hu": "Csodálja meg a híres bizánci freskókat ebben a történelmi templomban.",
             "ro": "Admirați faimoasele fresce bizantine din această biserică istorică.",
-            "en": "Admire the famous Byzantine frescoes in this historic church."
+            "en": "Admire the famous Byzantine frescoes in this historic church.",
+            "el": "Θαυμάστε τα διάσημα βυζαντινά τοιχογραφικά σε αυτή την ιστορική εκκλησία."
           }
         },
         {
@@ -1173,7 +1275,8 @@
             "de": "Archäologisches Museum",
             "hu": "Régészeti Múzeum",
             "ro": "Muzeul de Arheologie",
-            "en": "Archaeological Museum"
+            "en": "Archaeological Museum",
+            "el": "Αρχαιολογικό Μουσείο"
           },
           "coords": [
             25.712,
@@ -1189,7 +1292,8 @@
             "de": "Parken Sie in der Nähe und entdecken Sie die minoischen Schätze der Region.",
             "hu": "Parkolj a közelben, és fedezd fel a régió minószi kincseit.",
             "ro": "Parcați în apropiere și descoperiți comorile minoice ale regiunii.",
-            "en": "Park nearby and discover the Minoan treasures of the region."
+            "en": "Park nearby and discover the Minoan treasures of the region.",
+            "el": "Παρκάρετε κοντά και ανακαλύψτε τους μινωικούς θησαυρούς της περιοχής."
           }
         },
         {
@@ -1197,7 +1301,8 @@
             "de": "Voulismeni-See",
             "hu": "Voulismeni-tó",
             "ro": "Lacul Voulismeni",
-            "en": "Lake Voulismeni"
+            "en": "Lake Voulismeni",
+            "el": "Λίμνη Βουλισμένη"
           },
           "coords": [
             25.7155,
@@ -1213,7 +1318,8 @@
             "de": "Ein kurzer Spaziergang vom Museum zum legendären See der Stadt.",
             "hu": "Egy rövid séta a múzeumtól a város legendás taváig.",
             "ro": "O scurtă plimbare de la muzeu la lacul legendar al orașului.",
-            "en": "A short walk from the museum to the city's legendary lake."
+            "en": "A short walk from the museum to the city's legendary lake.",
+            "el": "Μικρή βόλτα από το μουσείο μέχρι τη θρυλική λίμνη της πόλης."
           }
         },
         {
@@ -1221,7 +1327,8 @@
             "de": "Mittagessen am See",
             "hu": "Ebéd a tónál",
             "ro": "Prânz la lac",
-            "en": "Lunch by the lake"
+            "en": "Lunch by the lake",
+            "el": "Γεύμα δίπλα στη λίμνη"
           },
           "coords": [
             25.715,
@@ -1237,7 +1344,8 @@
             "de": "Genießen Sie kretische Spezialitäten in einer Taverne mit Seeblick.",
             "hu": "Élvezze a krétai specialitásokat egy tóra néző tavernában.",
             "ro": "Bucurați-vă de specialități cretane la o tavernă cu vedere la lac.",
-            "en": "Enjoy Cretan specialties at a taverna with a lake view."
+            "en": "Enjoy Cretan specialties at a taverna with a lake view.",
+            "el": "Απολαύστε κρητικές σπεσιαλιτέ σε ταβέρνα με θέα στη λίμνη."
           }
         },
         {
@@ -1245,7 +1353,8 @@
             "de": "Hafen & Kitroplatia-Strand",
             "hu": "Kikötő és Kitroplatia strand",
             "ro": "Portul și Plaja Kitroplatia",
-            "en": "Harbour & Kitroplatia Beach"
+            "en": "Harbour & Kitroplatia Beach",
+            "el": "Λιμάνι & Παραλία Κιτροπλατεία"
           },
           "coords": [
             25.72,
@@ -1261,7 +1370,8 @@
             "de": "Fahren Sie zum Hafenbereich, parken Sie und genießen Sie den Strand und die Promenade.",
             "hu": "Vezessen a kikötőhöz, parkoljon, és élvezze a strandot és a sétányt.",
             "ro": "Conduceți spre zona portuară, parcați și bucurați-vă de plajă și promenadă.",
-            "en": "Drive to the harbour area, park, and enjoy the beach and promenade."
+            "en": "Drive to the harbour area, park, and enjoy the beach and promenade.",
+            "el": "Οδηγήστε στην περιοχή του λιμανιού, παρκάρετε και απολαύστε την παραλία και την προκυμαία."
           }
         },
         {
@@ -1269,7 +1379,8 @@
             "de": "Horn von Amaltheia",
             "hu": "Amaltheia szarva",
             "ro": "Cornul Amaltheei",
-            "en": "Horn of Amalthea"
+            "en": "Horn of Amalthea",
+            "el": "Κέρας της Αμάλθειας"
           },
           "coords": [
             25.7182,
@@ -1285,7 +1396,8 @@
             "de": "Ein kurzer Spaziergang vom Strand zu dieser markanten Skulptur.",
             "hu": "Rövid séta a strandtól ehhez a jellegzetes szoborhoz.",
             "ro": "O scurtă plimbare de la plajă la această sculptură impresionantă.",
-            "en": "A short walk from the beach to this striking sculpture."
+            "en": "A short walk from the beach to this striking sculpture.",
+            "el": "Σύντομος περίπατος από την παραλία σε αυτό το εντυπωσιακό γλυπτό."
           }
         },
         {
@@ -1293,7 +1405,8 @@
             "de": "Aussichtspunkt bei Kritsa",
             "hu": "Kilátópont Kritsa közelében",
             "ro": "Punct de belvedere lângă Kritsa",
-            "en": "Viewpoint near Kritsa"
+            "en": "Viewpoint near Kritsa",
+            "el": "Σημείο θέασης κοντά στην Κριτσά"
           },
           "coords": [
             25.645,
@@ -1309,7 +1422,8 @@
             "de": "Fahren Sie für einen spektakulären Sonnenuntergangsblick über die Bucht.",
             "hu": "Vezessen fel egy látványos naplementés kilátásért az öböl felett.",
             "ro": "Conduceți pentru o priveliște spectaculoasă la apus peste golf.",
-            "en": "Drive up for a spectacular sunset view over the bay."
+            "en": "Drive up for a spectacular sunset view over the bay.",
+            "el": "Ανεβείτε με το αυτοκίνητο για μια θεαματική θέα ηλιοβασιλέματος πάνω στον κόλπο."
           }
         }
       ],
@@ -1317,7 +1431,8 @@
         "de": "Ihr Tag mit dem Auto beginnt mit einer kurzen Fahrt zur historischen Kirche Panagia Kera, die für ihre atemberaubenden byzantinischen Fresken bekannt ist. Dieser erste Halt bietet einen tiefen Einblick in die religiöse Kunst Kretas, bevor Sie sich dem Trubel der Stadt zuwenden.\nAls Nächstes fahren Sie ins Zentrum von Agios Nikolaos. Parken Sie Ihr Auto und erkunden Sie zu Fuß das Cluster aus Archäologischem Museum und dem berühmten Voulismeni-See. Nach der Kultur genießen Sie ein entspanntes Mittagessen in einer der vielen Tavernen am Seeufer.\nAm Nachmittag fahren Sie zum Hafen. Hier können Sie Ihr Auto wieder abstellen und das maritime Flair genießen. Schlendern Sie entlang der Promenade, entspannen Sie am Kitroplatia-Strand oder besuchen Sie die Skulptur „Horn von Amaltheia“. Dies ist ein perfekter Ort, um die Nachmittagssonne zu genießen.\nZum Abschluss des Tages fahren Sie in die Hügel nahe dem Dorf Kritsa. Von hier aus haben Sie einen unvergesslichen Panoramablick auf die Mirabello-Bucht bei Sonnenuntergang – ein perfekter fotografischer Abschluss für Ihren erlebnisreichen Tag.",
         "hu": "Autós napja egy rövid vezetéssel kezdődik a történelmi Panagia Kera templomhoz, amely lenyűgöző bizánci freskóiról híres. Ez az első megálló mély betekintést nyújt Kréta vallási művészetébe, mielőtt a város nyüzsgése felé veszi az irányt.\nEzután Ágiosz Nikólaosz központjába hajt. Parkolja le az autóját, és fedezze fel gyalog a Régészeti Múzeum és a híres Voulismeni-tó alkotta klasztert. A kultúra után élvezzen egy laza ebédet az egyik tóparti tavernában.\nDélután a kikötőbe vezet az út. Itt ismét leparkolhat, és élvezheti a tengeri hangulatot. Sétáljon végig a sétányon, pihenjen a Kitroplatia strandon, vagy látogasson el az „Amaltheia szarva” szoborhoz. Ez a tökéletes hely a délutáni nap élvezetére.\nA nap zárásaként hajtson fel a Kritsa falu melletti dombokra. Innen felejthetetlen panoráma nyílik a Mirabello-öbölre naplementekor – tökéletes fotós befejezése az eseménydús napnak.",
         "ro": "Ziua cu mașina începe cu o scurtă călătorie spre biserica istorică Panagia Kera, renumită pentru frescele sale bizantine uimitoare. Această primă oprire oferă o perspectivă profundă asupra artei religioase cretane înainte de a vă îndrepta spre agitația orașului.\nApoi, conduceți spre centrul orașului Agios Nikolaos. Parcați mașina și explorați pe jos clusterul format din Muzeul de Arheologie și faimosul Lac Voulismeni. După cultură, bucurați-vă de un prânz relaxat la una dintre numeroasele taverne de pe malul lacului.\nDupă-amiaza, conduceți spre port. Aici puteți parca din nou și vă puteți bucura de atmosfera maritimă. Plimbați-vă de-a lungul promenadei, relaxați-vă pe plaja Kitroplatia sau vizitați sculptura „Cornul Amaltheei”. Acesta este un loc perfect pentru a vă bucura de soarele de după-amiază.\nPentru a încheia ziua, conduceți spre dealurile de lângă satul Kritsa. De aici, veți avea o priveliște panoramică de neuitat asupra Golfului Mirabello la apus – un final fotografic perfect pentru ziua dumneavoastră plină de evenimente.",
-        "en": "Your day by car begins with a short drive to the historic Church of Panagia Kera, famous for its stunning Byzantine frescoes. This first stop offers a deep dive into Cretan religious art before you head into the bustle of the city.\nNext, drive to the center of Agios Nikolaos. Park your car and explore the cluster of the Archaeological Museum and the famous Lake Voulismeni on foot. After the culture, enjoy a relaxed lunch at one of the many lakeside tavernas.\nIn the afternoon, drive to the port. Here you can park again and enjoy the maritime atmosphere. Stroll along the promenade, relax on Kitroplatia Beach, or visit the 'Horn of Amalthea' sculpture. This is a perfect place to enjoy the afternoon sun.\nTo end the day, drive up into the hills near the village of Kritsa. From here you'll have an unforgettable panoramic view of Mirabello Bay at sunset – a perfect photographic conclusion to your eventful day."
+        "en": "Your day by car begins with a short drive to the historic Church of Panagia Kera, famous for its stunning Byzantine frescoes. This first stop offers a deep dive into Cretan religious art before you head into the bustle of the city.\nNext, drive to the center of Agios Nikolaos. Park your car and explore the cluster of the Archaeological Museum and the famous Lake Voulismeni on foot. After the culture, enjoy a relaxed lunch at one of the many lakeside tavernas.\nIn the afternoon, drive to the port. Here you can park again and enjoy the maritime atmosphere. Stroll along the promenade, relax on Kitroplatia Beach, or visit the 'Horn of Amalthea' sculpture. This is a perfect place to enjoy the afternoon sun.\nTo end the day, drive up into the hills near the village of Kritsa. From here you'll have an unforgettable panoramic view of Mirabello Bay at sunset – a perfect photographic conclusion to your eventful day.",
+        "el": "Η μέρα σας με αυτοκίνητο ξεκινά με μια σύντομη διαδρομή προς την ιστορική Εκκλησία της Παναγίας Κεράς, διάσημη για τις εντυπωσιακές βυζαντινές τοιχογραφίες της. Αυτή η πρώτη στάση προσφέρει βαθιά βουτιά στην κρητική θρησκευτική τέχνη πριν κατευθυνθείτε στο κέντρο της πόλης.\nΣτη συνέχεια, οδηγήστε στο κέντρο του Αγίου Νικολάου. Παρκάρετε το αυτοκίνητο και εξερευνήστε με τα πόδια το σύμπλεγμα του Αρχαιολογικού Μουσείου και τη διάσημη Λίμνη Βουλισμένη. Μετά τον πολιτισμό, απολαύστε ένα χαλαρό γεύμα σε μία από τις πολλές ταβέρνες δίπλα στη λίμνη.\nΤο απόγευμα, οδηγήστε προς το λιμάνι. Εδώ μπορείτε να ξαναπαρκάρετε και να απολαύσετε τη θαλασσινή ατμόσφαιρα. Περάστε στην προκυμαία, χαλαρώστε στην παραλία Κιτροπλατεία ή επισκεφθείτε το γλυπτό «Κέρας της Αμάλθειας». Είναι ένα τέλειο μέρος για να απολαύσετε τον απογευματινό ήλιο.\nΓια να τελειώσετε την ημέρα, ανεβείτε στους λόφους κοντά στο χωριό Κριτσά. Από εδώ θα έχετε μια αξέχαστη πανοραμική θέα του Κόλπου του Μιραμπέλλου στο ηλιοβασίλεμα – μια ιδανική φωτογραφική κατάληξη στην γεμάτη μέρα σας."
       },
       "gastro_picks": {
         "de": [
@@ -1475,6 +1590,13 @@
           "Mountain roads can be winding. Drive carefully.",
           "A GPS is very helpful for finding remote spots.",
           "Watch out for goats on the road, especially in rural areas."
+        ],
+        "el": [
+          "Νοικιάστε ένα μικρό αυτοκίνητο, καθώς οι δρόμοι στην πόλη και τα χωριά μπορεί να είναι στενοί.",
+          "Το παρκάρισμα είναι πρόκληση στο κέντρο. Χρησιμοποιήστε τις καθορισμένες περιοχές στάθμευσης.",
+          "Οι ορεινοί δρόμοι μπορεί να είναι στενοί και καμπυλωτοί. Οδηγήστε με προσοχή.",
+          "Το GPS είναι πολύ χρήσιμο για να βρείτε απομακρυσμένα σημεία.",
+          "Προσέξτε τα κατσίκια στον δρόμο, ιδιαίτερα στις αγροτικές περιοχές."
         ]
       },
       "variants": {
@@ -1483,7 +1605,8 @@
             "de": "Die Fahrt zur Kirche Panagia Kera bietet bei Regen mystische Ausblicke auf die Berge. Mittags kehren Sie in die Stadt zurück und parken bequem für einen Museumsbesuch. Der See im Regen hat eine ganz eigene, ruhige Ästhetik, die Sie beim Mittagessen genießen können. Der Nachmittag endet mit einer Fahrt zum nebligen Aussichtspunkt bei Kritsa, bevor es zurück ins Hotel geht.",
             "hu": "Az út a Panagia Kera templomhoz esőben misztikus kilátást nyújt a hegyekre. Délben térjen vissza a városba, és parkoljon kényelmesen a múzeumlátogatáshoz. A tó esőben különleges, nyugodt esztétikával bír, amit ebéd közben csodálhat. A délután egy ködös kritsai kilátópontnál ér véget, mielőtt visszatérne a szállásra.",
             "ro": "Drumul spre biserica Panagia Kera oferă vederi mistice asupra munților pe ploaie. La prânz, reveniți în oraș și parcați comod pentru vizitarea muzeului. Lacul în ploaie are o estetică aparte, liniștită, pe care o puteți admira la prânz. După-amiaza se încheie cu o plimbare spre punctul de belvedere cețos de lângă Kritsa.",
-            "en": "The drive to Panagia Kera church offers mystical mountain views in the rain. At noon, return to town and park conveniently for a museum visit. The lake in the rain has a unique, calm aesthetic to enjoy during lunch. The afternoon ends with a drive to the misty viewpoint near Kritsa before heading back."
+            "en": "The drive to Panagia Kera church offers mystical mountain views in the rain. At noon, return to town and park conveniently for a museum visit. The lake in the rain has a unique, calm aesthetic to enjoy during lunch. The afternoon ends with a drive to the misty viewpoint near Kritsa before heading back.",
+            "el": "Η διαδρομή προς την εκκλησία της Παναγίας Κερά προσφέρει μυστικιστικές ορεινές θεάσεις στη βροχή. Το μεσημέρι επιστρέψτε στην πόλη και παρκάρετε βολικά για μια επίσκεψη στο μουσείο. Η λίμνη στη βροχή έχει μια μοναδική, ήρεμη αισθητική για να τη χαρείτε κατά το μεσημεριανό. Το απόγευμα τελειώνει με μια διαδρομή στο ομιχλώδες σημείο θέας κοντά στην Κρήτσα πριν την επιστροφή."
           },
           "stops": [
             {
@@ -1492,7 +1615,8 @@
                 "de": "Vorsicht auf den kurvigen Bergstraßen bei Nässe.",
                 "hu": "Vigyázzon a kanyargós hegyi utakon vizes időben.",
                 "ro": "Atenție pe drumurile montane virajate când sunt umede.",
-                "en": "Be careful on the winding mountain roads when wet."
+                "en": "Be careful on the winding mountain roads when wet.",
+                "el": "Να είστε προσεκτικοί στους καμπυλωτούς ορεινούς δρόμους όταν είναι βρεγμένοι."
               }
             },
             {
@@ -1501,7 +1625,8 @@
                 "de": "Parkhäuser in der Nähe nutzen, um trocken ins Museum zu gelangen.",
                 "hu": "Használja a közeli parkolóházakat, hogy szárazon jusson a múzeumba.",
                 "ro": "Folosiți parcările din apropiere pentru a ajunge uscat la muzeu.",
-                "en": "Use nearby parking garages to reach the museum dry."
+                "en": "Use nearby parking garages to reach the museum dry.",
+                "el": "Χρησιμοποιήστε τα κοντινά υπόγεια ή γκαράζ στάθμευσης για να φτάσετε στο μουσείο στεγνοί."
               }
             },
             {
@@ -1510,7 +1635,8 @@
                 "de": "Parken Sie am Hafen; von dort sind es nur wenige Schritte zu den Cafés.",
                 "hu": "Parkoljon a kikötőben; onnan csak pár lépés a kávézók sora.",
                 "ro": "Parcați în port; de acolo sunt doar câțiva pași până la cafenele.",
-                "en": "Park at the harbour; it's just a few steps to the cafes from there."
+                "en": "Park at the harbour; it's just a few steps to the cafes from there.",
+                "el": "Παρκάρετε στο λιμάνι· είναι μόλις μερικά βήματα έως τα καφέ από εκεί."
               }
             },
             {
@@ -1519,7 +1645,8 @@
                 "de": "Ein gemütlicher Stopp, während der Regen draußen alles abkühlt.",
                 "hu": "Hangulatos megálló, miközben kint az eső mindent lehűt.",
                 "ro": "O oprire primitoare, în timp ce ploaia de afară răcorește totul.",
-                "en": "A cozy stop while the rain cools everything down outside."
+                "en": "A cozy stop while the rain cools everything down outside.",
+                "el": "Ένα ζεστό διάλειμμα ενώ η βροχή δροσίζει τα πάντα έξω."
               }
             },
             {
@@ -1528,7 +1655,8 @@
                 "de": "Kurzer Ausstieg für Fotos; das Meer wirkt bei Regen sehr kraftvoll.",
                 "hu": "Rövid kiszállás fotókhoz; a tenger esőben nagyon erőteljesnek hat.",
                 "ro": "Coborâre scurtă pentru poze; marea pare foarte puternică în ploaie.",
-                "en": "Short hop out for photos; the sea looks very powerful in the rain."
+                "en": "Short hop out for photos; the sea looks very powerful in the rain.",
+                "el": "Σύντομη έξοδος για φωτογραφίες· η θάλασσα δείχνει πολύ δυνατή στη βροχή."
               }
             },
             {
@@ -1537,7 +1665,8 @@
                 "de": "Direkt am Kai parken für einen schnellen Blick auf die Statue.",
                 "hu": "Parkoljon közvetlenül a rakparton egy gyors pillantáshoz a szoborra.",
                 "ro": "Parcați direct pe chei pentru o privire rapidă la statuie.",
-                "en": "Park right on the quay for a quick look at the statue."
+                "en": "Park right on the quay for a quick look at the statue.",
+                "el": "Παρκάρετε ακριβώς στην προκυμαία για μια γρήγορη ματιά στο άγαλμα."
               }
             },
             {
@@ -1546,7 +1675,8 @@
                 "de": "Wolken können die Sicht einschränken, bieten aber tolle Motive.",
                 "hu": "A felhők korlátozhatják a kilátást, de remek fotótémát adnak.",
                 "ro": "Norii pot limita vizibilitatea, dar oferă cadre superbe.",
-                "en": "Clouds might limit the view but offer great photographic moods."
+                "en": "Clouds might limit the view but offer great photographic moods.",
+                "el": "Τα σύννεφα μπορεί να περιορίσουν τη θέα αλλά προσφέρουν υπέροχη ατμόσφαιρα για φωτογραφίες."
               }
             }
           ],
@@ -1574,6 +1704,12 @@
               "Watch out for rockfall on the roads towards Kritsa.",
               "Central parking spots are in high demand during rain.",
               "Drive with extra caution in foggy mountain conditions."
+            ],
+            "el": [
+              "Ελέγξτε την κατάσταση των υαλοκαθαριστήρων σας.",
+              "Προσοχή σε κατολισθήσεις βράχων στους δρόμους προς την Κρήτσα.",
+              "Τα κεντρικά σημεία στάθμευσης είναι περιζήτητα κατά τη βροχή.",
+              "Οδηγήστε με επιπλέον προσοχή σε ομιχλώδεις ορεινές συνθήκες."
             ]
           }
         },
@@ -1582,7 +1718,8 @@
             "de": "Ein sonniger Wintertag ist ideal für die Fahrt zur Panagia Kera Kirche. Mittags genießen Sie die entspannte Parksituation in der Stadt und besuchen das Museum. Die milde Wintersonne am See lädt zu einem ausgiebigen Mittagessen im Freien ein. Der Nachmittag bietet klare Fernsichten vom Kritsa-Aussichtspunkt, bevor Sie den Tag am Hafen ausklingen lassen.",
             "hu": "Egy napos téli nap ideális a Panagia Kera templomhoz tett kiránduláshoz. Délben élvezze a könnyű parkolást a városban és látogassa meg a múzeumot. A tóparti lágy téli napsütés hívogató egy szabadtéri ebédhez. A délután tiszta távlatokat kínál a kritsai kilátópontról, mielőtt a kikötőben zárná a napot.",
             "ro": "O zi însorită de iarnă este ideală pentru drumul spre biserica Panagia Kera. La prânz, bucurați-vă de parcarea ușoară în oraș și vizitați muzeul. Soarele blând de iarnă de lângă lac invită la un prânz prelungit în aer liber. După-amiaza oferă vederi clare de la punctul de belvedere Kritsa.",
-            "en": "A sunny winter day is ideal for the drive to Panagia Kera church. At noon, enjoy the relaxed parking situation in town and visit the museum. The mild winter sun by the lake is inviting for a long outdoor lunch. The afternoon offers clear distant views from the Kritsa viewpoint before ending the day at the harbour."
+            "en": "A sunny winter day is ideal for the drive to Panagia Kera church. At noon, enjoy the relaxed parking situation in town and visit the museum. The mild winter sun by the lake is inviting for a long outdoor lunch. The afternoon offers clear distant views from the Kritsa viewpoint before ending the day at the harbour.",
+            "el": "Μια ηλιόλουστη χειμωνιάτικη μέρα είναι ιδανική για τη διαδρομή προς την εκκλησία της Παναγίας Κερά. Το μεσημέρι απολαύστε την πιο χαλαρή κατάσταση στάθμευσης στην πόλη και επισκεφτείτε το μουσείο. Ο ήπιος χειμωνιάτικος ήλιος στη λίμνη προσκαλεί για ένα μακρύ γεύμα έξω. Το απόγευμα προσφέρει καθαρές μακρινές θέες από το σημείο θέας της Κρήτσας πριν τη λήξη της μέρας στο λιμάνι."
           },
           "stops": [
             {
@@ -1591,7 +1728,8 @@
                 "de": "Die klare Winterluft lässt die Farben der Fresken besonders erstrahlen.",
                 "hu": "A tiszta téli levegőben a freskók színei különösen ragyognak.",
                 "ro": "Aerul curat de iarnă face culorile frescelor să strălucească.",
-                "en": "The clear winter air makes the colors of the frescoes pop."
+                "en": "The clear winter air makes the colors of the frescoes pop.",
+                "el": "Ο καθαρός χειμωνιάτικος αέρας κάνει τα χρώματα των τοιχογραφιών να ξεχωρίζουν."
               }
             },
             {
@@ -1600,7 +1738,8 @@
                 "de": "Wenig Andrang; genießen Sie die Exponate in aller Ruhe.",
                 "hu": "Kevés látogató; élvezze a kiállítást teljes nyugalomban.",
                 "ro": "Puțină aglomerație; bucurați-vă de exponate în liniște.",
-                "en": "Fewer crowds; enjoy the exhibits in total peace."
+                "en": "Fewer crowds; enjoy the exhibits in total peace.",
+                "el": "Λιγότερος κόσμος· απολαύστε τα εκθέματα στην απόλυτη ησυχία."
               }
             },
             {
@@ -1609,7 +1748,8 @@
                 "de": "Nutzen Sie die Parkmöglichkeiten direkt am Seeufer.",
                 "hu": "Használja ki a közvetlenül a tóparton lévő parkolóhelyeket.",
                 "ro": "Profitați de locurile de parcare direct pe malul lacului.",
-                "en": "Take advantage of parking spots right by the lakeshore."
+                "en": "Take advantage of parking spots right by the lakeshore.",
+                "el": "Επωφεληθείτε από τις ευκολίες στάθμευσης δίπλα στην όχθη της λίμνης."
               }
             },
             {
@@ -1618,7 +1758,8 @@
                 "de": "Draußen sitzen ist bei Sonnenschein auch im Winter oft möglich.",
                 "hu": "A napsütésben gyakran télen is lehet kint ülni.",
                 "ro": "Statul afară este adesea posibil și iarna, dacă e soare.",
-                "en": "Sitting outside is often possible even in winter when sunny."
+                "en": "Sitting outside is often possible even in winter when sunny.",
+                "el": "Η έξοδος έξω είναι συχνά εφικτή ακόμη και το χειμώνα όταν έχει ήλιο."
               }
             },
             {
@@ -1627,7 +1768,8 @@
                 "de": "Die Küstenstraße ist im Winter fast leer und sehr idyllisch.",
                 "hu": "A tengerparti út télen szinte üres és nagyon idilli.",
                 "ro": "Drumul de coastă este aproape gol iarna și foarte idilic.",
-                "en": "The coastal road is nearly empty and very idyllic in winter."
+                "en": "The coastal road is nearly empty and very idyllic in winter.",
+                "el": "Ο παραλιακός δρόμος είναι σχεδόν άδειος και πολύ ιδανικός το χειμώνα."
               }
             },
             {
@@ -1636,7 +1778,8 @@
                 "de": "Perfektes Licht für Porträtaufnahmen mit der Statue.",
                 "hu": "Tökéletes fények portréfotókhoz a szoborral.",
                 "ro": "Lumină perfectă pentru portrete alături de statuie.",
-                "en": "Perfect lighting for portrait shots with the statue."
+                "en": "Perfect lighting for portrait shots with the statue.",
+                "el": "Τέλειο φως για πορτραίτα με το άγαλμα."
               }
             },
             {
@@ -1645,7 +1788,8 @@
                 "de": "Die Fernsicht bis zum Meer ist im Winter oft am besten.",
                 "hu": "A távoli kilátás a tengerig gyakran télen a legjobb.",
                 "ro": "Vizibilitatea până la mare este adesea cea mai bună iarna.",
-                "en": "Distant views to the sea are often best during winter."
+                "en": "Distant views to the sea are often best during winter.",
+                "el": "Οι μακρινές θέες προς τη θάλασσα είναι συχνά καλύτερες το χειμώνα."
               }
             }
           ],
@@ -1673,6 +1817,12 @@
               "Benefit from easy parking close to all attractions.",
               "The sun sets early behind the mountains.",
               "Some mountain villages are very quiet in winter; plan ahead."
+            ],
+            "el": [
+              "Οι ορεινοί δρόμοι μπορεί να παραμένουν υγροί σε σκιερές περιοχές το χειμώνα.",
+              "Επωφεληθείτε από την εύκολη στάθμευση κοντά σε όλα τα αξιοθέατα.",
+              "Ο ήλιος δύει νωρίς πίσω από τα βουνά.",
+              "Κάποια ορεινά χωριά είναι πολύ ήσυχα το χειμώνα· προγραμματίστε εκ των προτέρων."
             ]
           }
         }
@@ -1691,7 +1841,8 @@
             "de": "Zentraler Busbahnhof",
             "hu": "Központi buszpályaudvar",
             "ro": "Autogara Centrală",
-            "en": "Central Bus Station"
+            "en": "Central Bus Station",
+            "el": "Κεντρικός Σταθμός Λεωφορείων"
           },
           "coords": [
             25.71,
@@ -1706,7 +1857,8 @@
             "de": "Starten Sie hier, um sich mit dem lokalen Bussystem vertraut zu machen.",
             "hu": "Kezdje itt, hogy megismerkedjen a helyi buszrendszerrel.",
             "ro": "Începeți de aici pentru a vă familiariza cu sistemul local de autobuze.",
-            "en": "Start here to get familiar with the local bus system."
+            "en": "Start here to get familiar with the local bus system.",
+            "el": "Ξεκινήστε από εδώ για να εξοικειωθείτε με το τοπικό δίκτυο λεωφορείων."
           }
         },
         {
@@ -1714,7 +1866,8 @@
             "de": "Archäologisches Museum",
             "hu": "Régészeti Múzeum",
             "ro": "Muzeul de Arheologie",
-            "en": "Archaeological Museum"
+            "en": "Archaeological Museum",
+            "el": "Αρχαιολογικό Μουσείο"
           },
           "coords": [
             25.712,
@@ -1730,7 +1883,8 @@
             "de": "Ein kurzer Spaziergang vom Busbahnhof, um in die Geschichte einzutauchen.",
             "hu": "Egy rövid séta a buszpályaudvartól, hogy elmerülj a történelemben.",
             "ro": "O scurtă plimbare de la autogară pentru a vă cufunda în istorie.",
-            "en": "A short walk from the bus station to immerse yourself in history."
+            "en": "A short walk from the bus station to immerse yourself in history.",
+            "el": "Μικρή απόσταση με τα πόδια από τον σταθμό λεωφορείων για να βυθιστείτε στην ιστορία."
           }
         },
         {
@@ -1738,7 +1892,8 @@
             "de": "Voulismeni-See",
             "hu": "Voulismeni-tó",
             "ro": "Lacul Voulismeni",
-            "en": "Lake Voulismeni"
+            "en": "Lake Voulismeni",
+            "el": "Λίμνη Βουλισμένη"
           },
           "coords": [
             25.7155,
@@ -1754,7 +1909,8 @@
             "de": "Schlendern Sie zum See und nehmen Sie sich Zeit für ein Mittagessen.",
             "hu": "Sétáljon le a tóhoz, és szánjon időt egy ebédre.",
             "ro": "Plimbați-vă până la lac și luați-vă timp pentru prânz.",
-            "en": "Stroll down to the lake and take your time for lunch."
+            "en": "Stroll down to the lake and take your time for lunch.",
+            "el": "Κατηφορίστε στη λίμνη και πάρτε τον χρόνο σας για το μεσημεριανό."
           }
         },
         {
@@ -1762,7 +1918,8 @@
             "de": "Ammos Strand",
             "hu": "Ammos strand",
             "ro": "Plaja Ammos",
-            "en": "Ammos Beach"
+            "en": "Ammos Beach",
+            "el": "Παραλία Άμμος"
           },
           "coords": [
             25.725,
@@ -1778,7 +1935,8 @@
             "de": "Nehmen Sie einen lokalen Bus zu diesem beliebten Strand für den Nachmittag.",
             "hu": "Menjen helyi busszal erre a népszerű strandra délután.",
             "ro": "Luați un autobuz local spre această plajă populară pentru după-amiază.",
-            "en": "Take a local bus to this popular beach for the afternoon."
+            "en": "Take a local bus to this popular beach for the afternoon.",
+            "el": "Πάρτε ένα τοπικό λεωφορείο προς αυτή τη δημοφιλή παραλία για το απόγευμα."
           }
         },
         {
@@ -1786,7 +1944,8 @@
             "de": "Hafen von Agios Nikolaos",
             "hu": "Ágiosz Nikólaosz kikötője",
             "ro": "Portul din Agios Nikolaos",
-            "en": "Port of Agios Nikolaos"
+            "en": "Port of Agios Nikolaos",
+            "el": "Λιμάνι Αγίου Νικολάου"
           },
           "coords": [
             25.7175,
@@ -1802,7 +1961,8 @@
             "de": "Fahren Sie mit dem Bus zurück ins Zentrum und erkunden Sie den Hafenbereich.",
             "hu": "Buszozzon vissza a központba, és fedezze fel a kikötő környékét.",
             "ro": "Luați autobuzul înapoi în centru și explorați zona portuară.",
-            "en": "Take the bus back to the center and explore the port area."
+            "en": "Take the bus back to the center and explore the port area.",
+            "el": "Πάρτε το λεωφορείο πίσω στο κέντρο και εξερευνήστε την περιοχή του λιμανιού."
           }
         },
         {
@@ -1810,7 +1970,8 @@
             "de": "Abendessen in der Stadt",
             "hu": "Vacsora a városban",
             "ro": "Cină în oraș",
-            "en": "Dinner in town"
+            "en": "Dinner in town",
+            "el": "Δείπνο στην πόλη"
           },
           "coords": [
             25.719,
@@ -1826,7 +1987,8 @@
             "de": "Beenden Sie Ihren Tag mit einem Abendessen in einer der vielen Gassen der Altstadt.",
             "hu": "Fejezze be a napot egy vacsorával az óváros egyik sikátorában.",
             "ro": "Încheiați ziua cu o cină pe una dintre numeroasele alei din orașul vechi.",
-            "en": "End your day with dinner in one of the old town's many alleyways."
+            "en": "End your day with dinner in one of the old town's many alleyways.",
+            "el": "Τελειώστε τη μέρα σας με δείπνο σε ένα από τα πολλά σοκάκια της παλιάς πόλης."
           }
         }
       ],
@@ -1834,7 +1996,8 @@
         "de": "Ihr Tag beginnt am zentralen Busbahnhof, dem Knotenpunkt für Ihre Erkundungen. Von hier aus ist es nur ein kurzer Spaziergang zum Archäologischen Museum. Tauchen Sie in die minoische Welt ein, bevor der Tag richtig beginnt. Dies ist der erste, kulturelle Cluster Ihres Tages.\nNach dem Museum schlendern Sie zum Voulismeni-See. Dies ist das Herz der Stadt und der perfekte Ort für ein gemütliches Mittagessen. Genießen Sie die Aussicht und die Atmosphäre, bevor Sie mit dem Bus Ihr nächstes Abenteuer beginnen.\nAm Nachmittag nehmen Sie den Bus zum Ammos-Strand. Hier können Sie sich entspannen, schwimmen und die kretische Sonne genießen. Der Bus bringt Sie bequem zu diesem beliebten Ort und wieder zurück ins Zentrum, was Ihnen einen entspannten Strandaufenthalt ermöglicht.\nZurück im Stadtzentrum erkunden Sie den Hafenbereich zu Fuß. Die maritime Atmosphäre ist besonders am späten Nachmittag reizvoll. Schließen Sie Ihren Tag mit einem Abendessen in einer der charmanten Tavernen ab, die in den Gassen versteckt sind, und lassen Sie die Eindrücke des Tages auf sich wirken.",
         "hu": "A nap a központi buszpályaudvaron kezdődik, a felfedezőút csomópontján. Innen csak egy rövid séta a Régészeti Múzeum. Merüljön el a minószi világban, mielőtt a nap igazán elkezdődik. Ez a nap első, kulturális klasztere.\nA múzeum után sétáljon el a Voulismeni-tóhoz. Ez a város szíve és tökéletes hely egy kellemes ebédhez. Élvezze a kilátást és a hangulatot, mielőtt busszal elkezdi a következő kalandot.\nDélután busszal menjen az Ammos strandra. Itt pihenhet, úszhat és élvezheti a krétai napot. A busz kényelmesen elviszi Önt erre a népszerű helyre, és vissza a központba, lehetővé téve a pihentető strandolást.\nVisszatérve a városközpontba, fedezze fel gyalog a kikötő környékét. A tengeri hangulat különösen késő délután vonzó. Zárja a napot egy vacsorával az egyik bájos, sikátorokban megbúvó tavernában, és hagyja, hogy a nap benyomásai hassanak Önre.",
         "ro": "Ziua începe la autogara centrală, nodul principal pentru explorările dumneavoastră. De aici, este doar o scurtă plimbare până la Muzeul de Arheologie. Scufundați-vă în lumea minoică înainte ca ziua să înceapă cu adevărat. Acesta este primul cluster cultural al zilei.\nDupă muzeu, plimbați-vă până la Lacul Voulismeni. Aceasta este inima orașului și locul perfect pentru un prânz liniștit. Bucurați-vă de priveliște și atmosferă înainte de a începe următoarea aventură cu autobuzul.\nDupă-amiaza, luați autobuzul spre plaja Ammos. Aici vă puteți relaxa, înota și vă puteți bucura de soarele cretan. Autobuzul vă duce confortabil la acest loc popular și înapoi în centru, permițându-vă o ședere relaxantă la plajă.\nÎnapoi în centrul orașului, explorați zona portuară pe jos. Atmosfera maritimă este deosebit de fermecătoare la sfârșitul după-amiezii. Încheiați ziua cu o cină la una dintre tavernele fermecătoare ascunse pe alei și lăsați impresiile zilei să se așeze.",
-        "en": "Your day starts at the central bus station, the hub for your explorations. From here, it's just a short walk to the Archaeological Museum. Immerse yourself in the Minoan world before the day truly begins. This is the first cultural cluster of your day.\nAfter the museum, stroll to Lake Voulismeni. This is the heart of the city and the perfect place for a leisurely lunch. Enjoy the view and the atmosphere before starting your next adventure by bus.\nIn the afternoon, take the bus to Ammos Beach. Here you can relax, swim, and enjoy the Cretan sun. The bus conveniently takes you to this popular spot and back to the center, allowing for a relaxing beach stay.\nBack in the city center, explore the port area on foot. The maritime atmosphere is particularly charming in the late afternoon. End your day with dinner at one of the charming tavernas hidden in the alleys and let the day's impressions sink in."
+        "en": "Your day starts at the central bus station, the hub for your explorations. From here, it's just a short walk to the Archaeological Museum. Immerse yourself in the Minoan world before the day truly begins. This is the first cultural cluster of your day.\nAfter the museum, stroll to Lake Voulismeni. This is the heart of the city and the perfect place for a leisurely lunch. Enjoy the view and the atmosphere before starting your next adventure by bus.\nIn the afternoon, take the bus to Ammos Beach. Here you can relax, swim, and enjoy the Cretan sun. The bus conveniently takes you to this popular spot and back to the center, allowing for a relaxing beach stay.\nBack in the city center, explore the port area on foot. The maritime atmosphere is particularly charming in the late afternoon. End your day with dinner at one of the charming tavernas hidden in the alleys and let the day's impressions sink in.",
+        "el": "Η μέρα σας ξεκινά στον κεντρικό σταθμό λεωφορείων, τον κόμβο για τις εξορμήσεις σας. Από εδώ είναι μόλις μικρή απόσταση με τα πόδια έως το Αρχαιολογικό Μουσείο. Βυθιστείτε στον μινωικό κόσμο πριν αρχίσει πραγματικά η μέρα. Αυτό είναι το πρώτο πολιτιστικό σύμπλεγμα της ημέρας σας.\nΜετά το μουσείο, περπατήστε προς τη λίμνη Βουλισμένη. Αυτό είναι η καρδιά της πόλης και το τέλειο μέρος για ένα χαλαρό μεσημεριανό. Απολαύστε τη θέα και την ατμόσφαιρα πριν ξεκινήσετε την επόμενη περιπέτεια με λεωφορείο.\nΤο απόγευμα πάρτε το λεωφορείο για την παραλία Άμμος. Εδώ μπορείτε να χαλαρώσετε, να κολυμπήσετε και να απολαύσετε τον κρητικό ήλιο. Το λεωφορείο σας μεταφέρει βολικά σε αυτό το δημοφιλές σημείο και πίσω στο κέντρο, επιτρέποντας μια χαλαρωτική παραμονή στην παραλία.\nΠίσω στο κέντρο της πόλης, εξερευνήστε την περιοχή του λιμανιού με τα πόδια. Η ναυτική ατμόσφαιρα είναι ιδιαίτερα γοητευτική αργά το απόγευμα. Τελειώστε τη μέρα με δείπνο σε μια από τις γραφικές ταβέρνες που κρύβονται στα σοκάκια και αφήστε τις εντυπώσεις της μέρας να «κάτσουν»."
       },
       "gastro_picks": {
         "de": [
@@ -1992,6 +2155,13 @@
           "Buses can get crowded, especially in the summer.",
           "Have small change ready for tickets.",
           "Most central attractions are easily walkable from the bus station."
+        ],
+        "el": [
+          "Αγοράστε εισιτήριο ημέρας για το λεωφορείο αν σχεδιάζετε πολλαπλά δρομολόγια.",
+          "Τα δρομολόγια λεωφορείων μπορεί να διαφέρουν· καλό είναι να ελέγχετε στο σταθμό.",
+          "Τα λεωφορεία μπορεί να γεμίσουν, ειδικά το καλοκαίρι.",
+          "Έχετε έτοιμο ρέστα για τα εισιτήρια.",
+          "Τα περισσότερα κεντρικά αξιοθέατα είναι εύκολα επισκέψιμα με τα πόδια από τον σταθμό λεωφορείων."
         ]
       },
       "variants": {
@@ -2000,7 +2170,8 @@
             "de": "Starten Sie am zentralen Busbahnhof, der guten Schutz vor dem Regen bietet. Das Archäologische Museum ist nur eine kurze Fahrt entfernt und der ideale Ort für einen nassen Vormittag. Mittags erreichen Sie den See, wo die Cafés unter ihren Markisen zum Verweilen einladen. Den Nachmittag verbringen Sie am Hafen, bevor Sie den Abend bei einem gemütlichen Abendessen in der Stadt ausklingen lassen.",
             "hu": "Kezdje a központi buszpályaudvaron, amely jó védelmet nyújt az eső ellen. A Régészeti Múzeum csak egy rövid útra van, ideális helyszín egy esős délelőtthöz. Délben érkezzen a tóhoz, ahol a kávézók ponyvái alatt pihenhet. A délutánt töltse a kikötőben, majd zárja az estét egy hangulatos városi vacsorával.",
             "ro": "Începeți la autogara centrală, care oferă protecție bună împotriva ploii. Muzeul Arheologic este la mică distanță, fiind locul ideal pentru o dimineață ploioasă. La prânz ajungeți la lac, unde cafenelele vă invită sub copertine. Petreceți după-amiaza în port înainte de a încheia seara cu o cină în oraș.",
-            "en": "Start at the central bus station, which offers good protection from the rain. The Archaeological Museum is just a short ride away, an ideal spot for a rainy morning. At noon, reach the lake where cafe awnings invite you to linger. Spend the afternoon by the harbour before ending the evening with a cozy dinner in town."
+            "en": "Start at the central bus station, which offers good protection from the rain. The Archaeological Museum is just a short ride away, an ideal spot for a rainy morning. At noon, reach the lake where cafe awnings invite you to linger. Spend the afternoon by the harbour before ending the evening with a cozy dinner in town.",
+            "el": "Ξεκινήστε από τον κεντρικό σταθμό λεωφορείων, που παρέχει καλή προστασία από τη βροχή. Το Αρχαιολογικό Μουσείο είναι μόλις μια σύντομη διαδρομή, ιδανικό για μια βροχερή πρωινή επίσκεψη. Το μεσημέρι φτάστε στη λίμνη όπου οι τέντες των καφέ σας προσκαλούν να καθίσετε. Περάστε το απόγευμα στο λιμάνι πριν τελειώσετε το βράδυ με ένα ζεστό δείπνο στην πόλη."
           },
           "stops": [
             {
@@ -2009,7 +2180,8 @@
                 "de": "Warten Sie im überdachten Bereich auf Ihren Bus.",
                 "hu": "Várja a buszt a fedett várakozóhelyen.",
                 "ro": "Așteptați autobuzul în zona acoperită.",
-                "en": "Wait for your bus in the covered waiting area."
+                "en": "Wait for your bus in the covered waiting area.",
+                "el": "Περιμένετε το λεωφορείο στον καλυμμένο χώρο αναμονής."
               }
             },
             {
@@ -2018,7 +2190,8 @@
                 "de": "Kurzer Fußweg von der Bushaltestelle; halten Sie den Schirm bereit.",
                 "hu": "Rövid séta a buszmegállótól; tartsa készenlétben az esernyőt.",
                 "ro": "Drum scurt de la stația de autobuz; țineți umbrela la îndemână.",
-                "en": "Short walk from the bus stop; keep your umbrella ready."
+                "en": "Short walk from the bus stop; keep your umbrella ready.",
+                "el": "Σύντομος περίπατος από τη στάση· κρατήστε την ομπρέλα σας έτοιμη."
               }
             },
             {
@@ -2027,7 +2200,8 @@
                 "de": "Die Haltestellen in der Nähe bieten oft Unterstände.",
                 "hu": "A közeli megállók gyakran rendelkeznek esőbeállóval.",
                 "ro": "Stațiile din apropiere au adesea adăposturi.",
-                "en": "Nearby stops often have rain shelters."
+                "en": "Nearby stops often have rain shelters.",
+                "el": "Οι κοντινές στάσεις συχνά έχουν υπόστεγα κατά της βροχής."
               }
             },
             {
@@ -2036,7 +2210,8 @@
                 "de": "Ein schöner Stopp, um das graue Meer von einem Café aus zu sehen.",
                 "hu": "Szép megálló, hogy egy kávézóból nézze a szürke tengert.",
                 "ro": "O oprire frumoasă pentru a vedea marea cenușie dintr-o cafenea.",
-                "en": "A nice stop to watch the grey sea from a cafe."
+                "en": "A nice stop to watch the grey sea from a cafe.",
+                "el": "Ωραίο σημείο για να χαζέψετε τη γκρίζα θάλασσα από ένα καφέ."
               }
             },
             {
@@ -2045,7 +2220,8 @@
                 "de": "Achten Sie auf die Busfahrpläne, da es bei Regen zu Verzögerungen kommen kann.",
                 "hu": "Figyelje a menetrendet, mert esőben előfordulhatnak késések.",
                 "ro": "Urmăriți orarul, deoarece ploile pot cauza întârzieri.",
-                "en": "Check the schedule as rain can sometimes cause minor delays."
+                "en": "Check the schedule as rain can sometimes cause minor delays.",
+                "el": "Ελέγξτε το πρόγραμμα καθώς η βροχή μπορεί να προκαλέσει μικρές καθυστερήσεις."
               }
             },
             {
@@ -2054,7 +2230,8 @@
                 "de": "Wählen Sie ein Restaurant in der Nähe einer Bushaltestelle für den Rückweg.",
                 "hu": "Válasszon éttermet a buszmegálló közelében a hazautazáshoz.",
                 "ro": "Alegeți un restaurant aproape de o stație pentru drumul de întoarcere.",
-                "en": "Choose a restaurant near a bus stop for an easy return journey."
+                "en": "Choose a restaurant near a bus stop for an easy return journey.",
+                "el": "Επιλέξτε εστιατόριο κοντά σε στάση λεωφορείου για εύκολη επιστροφή."
               }
             }
           ],
@@ -2082,6 +2259,12 @@
               "Keep small change ready for ticket purchases.",
               "Bus entrances provide a brief shelter while boarding.",
               "Main lines run regularly even during rain."
+            ],
+            "el": [
+              "Χρησιμοποιήστε την εφαρμογή KTEL για πληροφορίες λεωφορείων σε πραγματικό χρόνο.",
+              "Κρατήστε έτοιμο ρέστα για αγορές εισιτηρίων.",
+              "Οι είσοδοι των λεωφορείων προσφέρουν σύντομη προστασία κατά την επιβίβαση.",
+              "Οι βασικές γραμμές λειτουργούν τακτικά ακόμη και στη βροχή."
             ]
           }
         },
@@ -2090,7 +2273,8 @@
             "de": "Beginnen Sie Ihren Wintertag entspannt am Busbahnhof. Der Vormittag im Archäologischen Museum ist lehrreich und angenehm temperiert. Mittags führt die Route zum See, wo Sie die ruhige Atmosphäre genießen können. Nach einem Spaziergang am Ammos-Strand kehren Sie zum Hafen zurück, bevor der Tag mit einem Abendessen in der Stadt endet.",
             "hu": "Kezdje a téli napot kényelmesen a buszpályaudvaron. A délelőtt a Régészeti Múzeumban tanulságos és kellemes hőmérsékletű. Délben az út a tóhoz vezet, ahol élvezheti a csendes hangulatot. Egy Ammos-parti séta után térjen vissza a kikötőbe, majd zárja a napot egy városi vacsorával.",
             "ro": "Începeți ziua de iarnă relaxat la autogară. Dimineața la Muzeul Arheologic este educativă și plăcut temperată. La prânz, traseul duce la lac, unde puteți savura atmosfera liniștită. După o plimbare pe plaja Ammos, reveniți în port înainte de cina în oraș.",
-            "en": "Start your winter day relaxed at the bus station. The morning at the Archaeological Museum is educational and comfortably warm. At noon, the route leads to the lake where you can enjoy the quiet atmosphere. After a walk at Ammos Beach, return to the harbour before ending with dinner in town."
+            "en": "Start your winter day relaxed at the bus station. The morning at the Archaeological Museum is educational and comfortably warm. At noon, the route leads to the lake where you can enjoy the quiet atmosphere. After a walk at Ammos Beach, return to the harbour before ending with dinner in town.",
+            "el": "Ξεκινήστε την χειμωνιάτικη μέρα σας χαλαρά στον σταθμό λεωφορείων. Το πρωί στο Αρχαιολογικό Μουσείο είναι εκπαιδευτικό και άνετα ζεστό. Το μεσημέρι η διαδρομή οδηγεί στη λίμνη όπου μπορείτε να απολαύσετε την ήσυχη ατμόσφαιρα. Μετά από έναν περίπατο στην παραλία Άμμος, επιστρέψτε στο λιμάνι πριν τελειώσετε με δείπνο στην πόλη."
           },
           "stops": [
             {
@@ -2099,7 +2283,8 @@
                 "de": "Im Winter sind die Busse oft weniger voll.",
                 "hu": "Télen a buszok gyakran kevésbé zsúfoltak.",
                 "ro": "Iarna, autobuzele sunt adesea mai puțin aglomerate.",
-                "en": "Buses are often less crowded during the winter season."
+                "en": "Buses are often less crowded during the winter season.",
+                "el": "Τα λεωφορεία είναι συχνά πιο άδεια κατά τη χειμερινή περίοδο."
               }
             },
             {
@@ -2108,7 +2293,8 @@
                 "de": "Perfekt für die kühleren Morgenstunden.",
                 "hu": "Tökéletes a hűvösebb reggeli órákban.",
                 "ro": "Perfect pentru orele mai răcoroase ale dimineții.",
-                "en": "Perfect for the cooler morning hours."
+                "en": "Perfect for the cooler morning hours.",
+                "el": "Ιδανικό για τις πιο δροσερές πρωινές ώρες."
               }
             },
             {
@@ -2117,7 +2303,8 @@
                 "de": "Die Busse halten zentral, ideal für kurze Wege zum See.",
                 "hu": "A buszok központilag állnak meg, ideális a tóhoz.",
                 "ro": "Autobuzele opresc central, ideal pentru distanțe scurte până la lac.",
-                "en": "Buses stop centrally, ideal for short walks to the lake."
+                "en": "Buses stop centrally, ideal for short walks to the lake.",
+                "el": "Τα λεωφορεία σταματούν κεντρικά, ιδανικά για μικρούς περιπάτους προς τη λίμνη."
               }
             },
             {
@@ -2126,7 +2313,8 @@
                 "de": "Ein ruhiger Ort für einen Winterspaziergang am Meer.",
                 "hu": "Csendes hely egy téli tengerparti sétához.",
                 "ro": "Un loc liniștit pentru o plimbare de iarnă pe malul mării.",
-                "en": "A quiet spot for a winter walk by the sea."
+                "en": "A quiet spot for a winter walk by the sea.",
+                "el": "Ένα ήσυχο σημείο για χειμερινό περίπατο δίπλα στη θάλασσα."
               }
             },
             {
@@ -2135,7 +2323,8 @@
                 "de": "Achten Sie auf den Winterfahrplan, einige Linien fahren seltener.",
                 "hu": "Ügyeljen a téli menetrendre, néhány járat ritkábban közlekedik.",
                 "ro": "Atenție la orarul de iarnă; unele linii circulă mai rar.",
-                "en": "Check the winter schedule as some lines may run less frequently."
+                "en": "Check the winter schedule as some lines may run less frequently.",
+                "el": "Ελέγξτε το χειμερινό πρόγραμμα καθώς ορισμένες γραμμές μπορεί να λειτουργούν με μειωμένη συχνότητα."
               }
             },
             {
@@ -2144,7 +2333,8 @@
                 "de": "Genießen Sie den kurzen Rückweg zum Busbahnhof am Abend.",
                 "hu": "Élvezze a rövid visszautat a buszpályaudvarra este.",
                 "ro": "Bucurați-vă de drumul scurt înapoi spre autogară seara.",
-                "en": "Enjoy the short walk back to the bus station in the evening."
+                "en": "Enjoy the short walk back to the bus station in the evening.",
+                "el": "Απολαύστε τον σύντομο περίπατο πίσω στον σταθμό λεωφορείων το βράδυ."
               }
             }
           ],
@@ -2172,6 +2362,12 @@
               "Buses are well-heated during the winter months.",
               "Plan your last trip before sunset.",
               "Central bus stops are well-lit at night."
+            ],
+            "el": [
+              "Τα εισιτήρια λεωφορείου συχνά αγοράζονται απευθείας από τον οδηγό.",
+              "Τα λεωφορεία είναι καλά θερμαινόμενα κατά τους χειμερινούς μήνες.",
+              "Σχεδιάστε το τελευταίο σας ταξίδι πριν τη δύση του ήλιου.",
+              "Οι κεντρικές στάσεις λεωφορείων είναι καλά φωτισμένες τη νύχτα."
             ]
           }
         }

@@ -21,7 +21,8 @@
             "de": "Vourvourou",
             "hu": "Vourvourou",
             "ro": "Vourvourou",
-            "en": "Vourvourou"
+            "en": "Vourvourou",
+            "el": "Βουρβουρού"
           },
           "coords": [
             23.800676,
@@ -36,7 +37,8 @@
             "de": "Erkunden Sie die entspannte Atmosphäre dieses Küstendorfes und holen Sie sich einen Snack in einer lokalen Bäckerei für den Weg.",
             "hu": "Fedezze fel a tengerparti falu nyugodt hangulatát, és szerezzen be egy friss péksüteményt a közeli öblök felfedezése előtt.",
             "ro": "Explorați atmosfera relaxată a acestui sat de coastă, luând o gustare de la o brutărie locală înainte de a merge la plajă.",
-            "en": "Explore the relaxed vibe of this coastal village, grabbing a quick snack at a local bakery before heading to the nearby sandy coves."
+            "en": "Explore the relaxed vibe of this coastal village, grabbing a quick snack at a local bakery before heading to the nearby sandy coves.",
+            "el": "Ανακαλύψτε τον χαλαρό ρυθμό αυτού του παραθαλάσσιου χωριού, παίρνοντας ένα γρήγορο σνακ από το τοπικό φούρνο πριν κατευθυνθείτε προς τους κοντινούς αμμώδεις κολπίσκους."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Karidi Strand",
             "hu": "Karidi strand",
             "ro": "Plaja Karidi",
-            "en": "Karidi Beach"
+            "en": "Karidi Beach",
+            "el": "Παραλία Καρίδι"
           },
           "coords": [
             23.808193,
@@ -59,7 +62,8 @@
             "de": "Genießen Sie das flache, türkisfarbene Wasser dieser von Kiefern gesäumten Bucht, aber kommen Sie früh, um einen Schattenplatz zu finden.",
             "hu": "Élvezze a fenyőkkel övezett öböl sekély, kristálytiszta türkizkék vizét, de érkezzen korán, hogy biztosítson egy jó árnyékos helyet.",
             "ro": "Bucurați-vă de apele turcoaz și puțin adânci ale acestui golf mărginit de pini, dar ajungeți devreme pentru a prinde un loc la umbră.",
-            "en": "Enjoy the shallow, crystal-clear turquoise waters of this iconic pine-fringed bay, but arrive early in the morning to secure a good spot in the shade."
+            "en": "Enjoy the shallow, crystal-clear turquoise waters of this iconic pine-fringed bay, but arrive early in the morning to secure a good spot in the shade.",
+            "el": "Απολαύστε τα ρηχά, κρυστάλλινα τυρκουάζ νερά αυτού του εμβληματικού κόλπου με πεύκα στην άκρη· φτάστε νωρίς το πρωί για να εξασφαλίσετε καλή θέση στη σκιά."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Kleiner Karydi Strand",
             "hu": "Kis Karydi strand",
             "ro": "Plaja Mică Karydi",
-            "en": "Small Karydi Beach"
+            "en": "Small Karydi Beach",
+            "el": "Μικρό Καρίδι"
           },
           "coords": [
             23.810305,
@@ -82,7 +87,8 @@
             "de": "Entdecken Sie diese ruhigere, felsigere Alternative zum Hauptstrand, ideal zum Schnorcheln, also vergessen Sie Ihre Ausrüstung nicht.",
             "hu": "Fedezze fel a fő strand csendesebb, sziklásabb alternatíváját, amely tökéletes sznorkelezéshez, így ne hagyja otthon a búvárszemüveget.",
             "ro": "Descoperiți această alternativă mai liniștită și stâncoasă a plajei principale, perfectă pentru snorkeling, așa că aduceți-vă echipamentul.",
-            "en": "Discover this quieter, rockier alternative to the main beach, perfect for snorkeling, so don't forget to pack your underwater gear."
+            "en": "Discover this quieter, rockier alternative to the main beach, perfect for snorkeling, so don't forget to pack your underwater gear.",
+            "el": "Ανακαλύψτε αυτή την πιο ήσυχη, πιο βραχώδη εναλλακτική της κεντρικής παραλίας, ιδανική για καταδύσεις με αναπνευστήρα — μη ξεχάσετε τον εξοπλισμό υποβρύχιας φωτογράφησης ή snorkeling."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Brounou Strand",
             "hu": "Brounou strand",
             "ro": "Plaja Brounou",
-            "en": "Brounou Beach"
+            "en": "Brounou Beach",
+            "el": "Παραλία Μπρούνου"
           },
           "coords": [
             23.818174,
@@ -105,7 +112,8 @@
             "de": "Entspannen Sie an diesem abgelegenen Sandstrand, wo das Wasser schnell tiefer wird, ideal für sichere Schwimmer abseits der Massen.",
             "hu": "Pihenjen ezen a gyönyörű, eldugott homokos partszakaszon, ahol a víz gyorsan mélyül, így ideális a tömeget kerülő úszók számára.",
             "ro": "Relaxați-vă pe această plajă frumoasă și retrasă, unde apa se adâncește rapid, fiind ideală pentru înotătorii încrezători și evitând aglomerația.",
-            "en": "Relax on this beautiful, secluded stretch of sand where the water deepens quickly, making it ideal for confident swimmers avoiding crowds."
+            "en": "Relax on this beautiful, secluded stretch of sand where the water deepens quickly, making it ideal for confident swimmers avoiding crowds.",
+            "el": "Χαλαρώστε σε αυτή την όμορφη, απομονωμένη λωρίδα άμμου όπου το νερό βαθαίνει γρήγορα, ιδανική για τολμηρούς κολυμβητές που θέλουν να αποφύγουν τα πλήθη."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Fava Strand",
             "hu": "Fava strand",
             "ro": "Plaja Fava",
-            "en": "Fava beach"
+            "en": "Fava beach",
+            "el": "Παραλία Φάβα"
           },
           "coords": [
             23.819527,
@@ -128,7 +137,8 @@
             "de": "Bestaunen Sie die dramatischen Felsformationen dieser Bucht und bringen Sie Wasser und Snacks mit, da es hier keine Einrichtungen gibt.",
             "hu": "Csodálja meg az érintetlen öblöt keretező drámai sziklaalakzatokat, és hozzon magával vizet és nasit, mert itt nincsenek szolgáltatások.",
             "ro": "Admirați formațiunile stâncoase dramatice care încadrează acest golf pitoresc și aduceți-vă apă și gustări, deoarece nu există facilități.",
-            "en": "Marvel at the dramatic rock formations framing this pristine cove, and bring your own water and snacks as there are no facilities here."
+            "en": "Marvel at the dramatic rock formations framing this pristine cove, and bring your own water and snacks as there are no facilities here.",
+            "el": "Θαυμάστε τις δραματικές βραχώδεις μορφές που πλαισιώνουν αυτόν τον παρθένο κόλπο και πάρτε νερό και σνακ μαζί σας καθώς δεν υπάρχουν υπηρεσίες εδώ."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Morgen, indem Sie den charmanten Küstenflair des Dorfes Vourvourou aufsaugen. Die ruhige Atmosphäre ist perfekt für einen gemütlichen Spaziergang.\n\nGegen Mittag erreichen Sie den berühmten Karidi Strand. Das helltürkisfarbene, flache Wasser und die glatten weißen Felsen bieten eine idyllische Kulisse.\n\nAm Nachmittag entdecken Sie den ruhigeren Charme von Small Karydi und Brounou Beach. Diese Orte bieten hervorragende Möglichkeiten zum Schwimmen und Schnorcheln.\n\nBeenden Sie Ihren Tag am Fava Strand, umrahmt von dramatischen Felsformationen. Das Licht der goldenen Stunde ist hier magisch und ideal für den Sonnenuntergang.",
         "hu": "Kezdje a reggelt Vourvourou falu hangulatos tengerparti légkörének felfedezésével. A nyugodt környezet tökéletes egy kényelmes sétához, ahogy a nap felkel.\n\nDél körül eléri a híres Karidi strandot. A világos türkizkék, sekély víz és a sima fehér sziklák idilli környezetet biztosítanak a pihenéshez.\n\nDélután fedezze fel a Kis Karydi és a Brounou strand csendesebb varázsát. Ezek a helyek kiváló lehetőséget kínálnak úszásra és sznorkelezésre a tömegtől távol.\n\nZárja a napot a drámai sziklaalakzatokkal övezett Fava strandon. Az aranyóra fénye itt varázslatos, tökéletes helyszín a naplemente megtekintéséhez.",
         "ro": "Începeți dimineața absorbind vibrația fermecătoare de coastă a satului Vourvourou. Atmosfera senină este perfectă pentru o plimbare pe îndelete.\n\nLa amiază, veți ajunge la faimoasa plajă Karidi. Apele turcoaz strălucitoare, puțin adânci și stâncile albe netede oferă un cadru idilic pentru relaxare.\n\nDupă-amiaza, descoperiți farmecul mai liniștit de la Small Karydi și plaja Brounou. Aceste locuri oferă oportunități excelente pentru înot și snorkeling.\n\nÎncheiați-vă ziua la plaja Fava, încadrată de formațiuni stâncoase dramatice. Lumina orei de aur aici este magică, perfectă pentru un apus de soare de neuitat.",
-        "en": "Start your morning absorbing the charming coastal vibe of Vourvourou village. The serene atmosphere is perfect for a leisurely walk as the sun rises.\n\nBy midday, you will reach the famous Karidi Beach. The bright turquoise, shallow waters and smooth white rocks offer an idyllic setting for relaxation.\n\nIn the afternoon, discover the quieter charm of Small Karydi and Brounou Beach. These spots provide excellent opportunities for swimming and snorkeling away from the main crowd.\n\nEnd your day at Fava beach, framed by dramatic rock formations. The golden hour light here is magical, making it a perfect spot to watch the sun set over the Aegean."
+        "en": "Start your morning absorbing the charming coastal vibe of Vourvourou village. The serene atmosphere is perfect for a leisurely walk as the sun rises.\n\nBy midday, you will reach the famous Karidi Beach. The bright turquoise, shallow waters and smooth white rocks offer an idyllic setting for relaxation.\n\nIn the afternoon, discover the quieter charm of Small Karydi and Brounou Beach. These spots provide excellent opportunities for swimming and snorkeling away from the main crowd.\n\nEnd your day at Fava beach, framed by dramatic rock formations. The golden hour light here is magical, making it a perfect spot to watch the sun set over the Aegean.",
+        "el": "Ξεκινήστε το πρωί απορροφώντας τη γοητευτική παραθαλάσσια ατμόσφαιρα του χωριού Βουρβουρού. Η ήρεμη ατμόσφαιρα είναι ιδανική για έναν χαλαρό περίπατο καθώς ανατέλλει ο ήλιος.\n\nΜέχρι το μεσημέρι θα φτάσετε στην περίφημη παραλία Καρίδι. Τα λαμπερά τυρκουάζ, ρηχά νερά και οι λείοι λευκοί βράχοι προσφέρουν ειδυλλιακό περιβάλλον για ξεκούραση.\n\nΤο απόγευμα ανακαλύψτε τη σιωπηλή γοητεία του Μικρού Καριδιού και της παραλίας Μπρούνου. Αυτά τα σημεία προσφέρουν εξαιρετικές ευκαιρίες για κολύμπι και snorkeling μακριά από το κύριο πλήθος.\n\nΤελειώστε τη μέρα σας στην παραλία Φάβα, πλαισιωμένη από δραματικές βραχώδεις μορφές. Το χρυσό φως της ώρας είναι μαγικό, καθιστώντας την ιδανική θέση για να παρακολουθήσετε τον ήλιο να δύει πάνω στο Αιγαίο."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Morgens hüllt Nebel die Küste ein, was Vourvourou eine mystische Aura verleiht. Mittags duften die Pinienwälder nach dem Regen besonders intensiv. Am Nachmittag bieten die Felsen bei Karidi Schutz vor leichtem Nieselregen. Abends kehrt in den kleinen Gassen des Dorfes eine gemütliche, ruhige Stimmung ein, während der Regen sanft auf die Dächer prasselt.",
             "hu": "Reggel köd ül a parton, misztikus hangulatot adva Vourvourounak. Délben a fenyvesek illata az eső után felerősödik, frissítve a levegőt. Délután a sziklák és a fák adnak némi menedéket a Karidi-parton a szemerkélő esőben. Este a falu csendes utcáin a lámpafények tükröződnek a nedves aszfalton, meghitt lezárást nyújtva a napnak.",
             "ro": "Dimineața, ceața învăluie coasta, oferind stațiunii Vourvourou o aură mistică. La prânz, mirosul pădurilor de pini după ploaie este extrem de intens și revigorant. După-amiaza, stâncile de la Karidi oferă adăpost împotriva burniței ușoare. Seara, pe străzile liniștite, luminile se oglindesc în asfaltul umed, creând o atmosferă intimă de final de zi.",
-            "en": "In the morning, mist blankets the coast, giving Vourvourou a mystical aura. At noon, the scent of pine forests becomes intensely refreshing after the rain. In the afternoon, the rocks and trees at Karidi provide some shelter from the light drizzle. In the evening, the quiet village streets reflect the lights on the wet pavement, offering a cozy end to the walk."
+            "en": "In the morning, mist blankets the coast, giving Vourvourou a mystical aura. At noon, the scent of pine forests becomes intensely refreshing after the rain. In the afternoon, the rocks and trees at Karidi provide some shelter from the light drizzle. In the evening, the quiet village streets reflect the lights on the wet pavement, offering a cozy end to the walk.",
+            "el": "Το πρωί η ομίχλη σκεπάζει την ακτή, δίνοντας στη Βουρβουρού μια μυστικιστική αύρα. Το μεσημέρι, η μυρωδιά των πευκοδασών γίνεται έντονα αναζωογονητική μετά τη βροχή. Το απόγευμα, οι βράχοι και τα δέντρα στο Καρίδι προσφέρουν κάποια προστασία από τη μικρή ψιχάλα. Το βράδυ, οι ήσυχοι δρόμοι του χωριού αντανακλούν τα φώτα πάνω στο βρεγμένο οδόστρωμα, προσφέροντας ένα ζεστό τέλος στον περίπατο."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Vourvourou",
                 "hu": "Vourvourou",
                 "ro": "Vourvourou",
-                "en": "Vourvourou"
+                "en": "Vourvourou",
+                "el": "Βουρβουρού"
               },
               "tip_5lang": {
                 "de": "Die Pinienwege im Dorf duften bei Regen herrlich, aber der Boden kann an unbefestigten Stellen matschig werden; tragen Sie unbedingt wasserfeste Wanderschuhe.",
                 "hu": "A falu fenyvesekkel övezett útjai esőben fantasztikus illatúak, de a nem aszfaltozott részek sárosodhatnak; viseljen vízálló túracipőt a kényelmes haladásért.",
                 "ro": "Potecile de pini din sat miros superb pe ploaie, dar solul poate deveni noroios în zonele neasfaltate; purtați neapărat încălțăminte de drumeție impermeabilă.",
-                "en": "The pine-lined paths in the village smell wonderful in the rain, but unpaved sections can get muddy; be sure to wear waterproof hiking shoes for comfort."
+                "en": "The pine-lined paths in the village smell wonderful in the rain, but unpaved sections can get muddy; be sure to wear waterproof hiking shoes for comfort.",
+                "el": "Τα μονοπάτια με πεύκα στο χωριό μυρίζουν υπέροχα στη βροχή, αλλά τα μη ασφαλτοστρωμένα τμήματα μπορεί να γίνουν λασπωμένα· φορέστε αδιάβροχα πεζοπορικά παπούτσια για άνεση."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Karidi Strand",
                 "hu": "Karidi strand",
                 "ro": "Plaja Karidi",
-                "en": "Karidi Beach"
+                "en": "Karidi Beach",
+                "el": "Παραλία Καρίδι"
               },
               "tip_5lang": {
                 "de": "Der weiße Sand ist nass viel fester und lässt sich leichter begehen, während die grauen Wellen dramatisch wirken; ein großer Sturmschirm ist hier ideal.",
                 "hu": "A fehér homok vizesen sokkal tömörebb, így könnyebb rajta járni, a szürke hullámok pedig drámai látványt nyújtanak; egy nagy viharálló esernyő itt nagyon hasznos.",
                 "ro": "Nisipul alb este mult mai compact când e ud și se merge mai ușor pe el, iar valurile gri oferă un spectacol dramatic; o umbrelă mare de furtună este ideală aici.",
-                "en": "The white sand is much firmer when wet and easier to walk on, while the grey waves offer a dramatic view; a large storm umbrella is ideal for this open area."
+                "en": "The white sand is much firmer when wet and easier to walk on, while the grey waves offer a dramatic view; a large storm umbrella is ideal for this open area.",
+                "el": "Η λευκή άμμος είναι πιο σταθερή όταν είναι βρεγμένη και πιο εύκολη στο περπάτημα, ενώ τα γκρίζα κύματα προσφέρουν δραματική θέα· μια μεγάλη ομπρέλα καταιγίδας είναι ιδανική για αυτήν την ανοιχτή περιοχή."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Kleiner Karydi Strand",
                 "hu": "Kis Karydi strand",
                 "ro": "Plaja Mică Karydi",
-                "en": "Small Karydi Beach"
+                "en": "Small Karydi Beach",
+                "el": "Μικρό Καρίδι"
               },
               "tip_5lang": {
                 "de": "Die dichten Baumkronen am Rand bieten einen natürlichen Unterstand bei kurzen Schauern; nutzen Sie die Zeit, um die raue Meeresstimmung geschützt zu beobachten.",
                 "hu": "A part menti sűrű lombok természetes menedéket nyújtanak a rövid záporok idején; használja ki az időt a tenger vadabb arcának biztonságos megfigyelésére.",
                 "ro": "Coroanele dese de la marginea plajei oferă un adăpost natural în timpul ploilor scurte; profitați de moment pentru a observa marea agitată dintr-un loc protejat.",
-                "en": "The dense treetops at the edge provide natural shelter during short showers; use this time to observe the raw sea atmosphere while staying relatively dry."
+                "en": "The dense treetops at the edge provide natural shelter during short showers; use this time to observe the raw sea atmosphere while staying relatively dry.",
+                "el": "Οι πυκνοί κορμοί των δέντρων στο όριο προσφέρουν φυσική κάλυψη κατά τις σύντομες μπόρες· χρησιμοποιήστε αυτόν τον χρόνο για να παρατηρήσετε την αδρή θαλασσινή ατμόσφαιρα ενώ παραμένετε σχετικά στεγνοί."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Brounou Strand",
                 "hu": "Brounou strand",
                 "ro": "Plaja Brounou",
-                "en": "Brounou Beach"
+                "en": "Brounou Beach",
+                "el": "Παραλία Μπρούνου"
               },
               "tip_5lang": {
                 "de": "Die felsigen Abschnitte können bei Nässe extrem rutschig sein, also bleiben Sie lieber auf den sandigen Pfaden; eine Regenjacke mit Kapuze schützt vor dem Seewind.",
                 "hu": "A sziklás részek nedvesen rendkívül csúszósak lehetnek, ezért maradjon inkább a homokos ösvényeken; egy kapucnis esőkabát megvédi a hűvös tengeri széltől is.",
                 "ro": "Secțiunile stâncoase pot fi extrem de alunecoase când sunt ude, așa că rămâneți pe potecile de nisip; o jachetă de ploaie cu glugă vă va proteja de vântul mării.",
-                "en": "The rocky sections can be extremely slippery when wet, so stay on the sandy paths instead; a hooded raincoat will also protect you from the chilly sea wind."
+                "en": "The rocky sections can be extremely slippery when wet, so stay on the sandy paths instead; a hooded raincoat will also protect you from the chilly sea wind.",
+                "el": "Τα βραχώδη τμήματα μπορεί να γίνουν εξαιρετικά ολισθηρά όταν βραχούν, οπότε μείνετε στα αμμώδη μονοπάτια· ένα αδιάβροχο με κουκούλα θα σας προστατεύσει και από τον ψυχρό θαλασσινό άνεμο."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Fava Strand",
                 "hu": "Fava strand",
                 "ro": "Plaja Fava",
-                "en": "Fava beach"
+                "en": "Fava beach",
+                "el": "Παραλία Φάβα"
               },
               "tip_5lang": {
                 "de": "Die hohen Klippen bieten Schutz vor Wind, und das prasselnde Geräusch des Regens auf den Felsen ist sehr entspannend; packen Sie eine Thermoskanne mit Tee ein.",
                 "hu": "A magas sziklafalak védelmet nyújtanak a szél ellen, az eső kopogása a köveken pedig nagyon nyugtató; csomagoljon egy termosz forró teát a pihenőhöz.",
                 "ro": "Stâncile înalte oferă protecție împotriva vântului, iar sunetul ploii lovind pietrele este foarte relaxant; luați un termos cu ceai cald pentru acest ultim popas.",
-                "en": "The high cliffs provide shelter from the wind, and the sound of rain tapping on the rocks is very relaxing; pack a thermos of hot tea for this final stop."
+                "en": "The high cliffs provide shelter from the wind, and the sound of rain tapping on the rocks is very relaxing; pack a thermos of hot tea for this final stop.",
+                "el": "Τα ψηλά βράχια προσφέρουν καταφύγιο από τον άνεμο και ο ήχος της βροχής που χτυπάει πάνω τους είναι πολύ χαλαρωτικός· πάρτε ένα θερμός με ζεστό τσάι για αυτήν την τελευταία στάση."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Der Wintermorgen in Vourvourou ist kristallklar und angenehm frisch. Mittags wärmt die tiefstehende Sonne die menschenleeren Strände. Am Nachmittag färbt das Licht die Berge Sithonias in warme Goldtöne, bevor es gegen 17:00 Uhr schnell dunkel wird. Der Abend gehört der Stille der Natur und der Wärme eines Kaminfeuers in einer der wenigen offenen Unterkünfte.",
             "hu": "A téli reggel Vourvourouban kristálytiszta és kellemesen friss. Délben az alacsonyan járó nap melegíti az üres strandokat, tökéletes nyugalmat árasztva. Délután a fények aranybarna tónusba öltöztetik a Sithonia-hegyeket, mielőtt 17:00 körül hirtelen besötétedik. Az este a természet csendjéé és a helyi kandallók melegéé a faluban.",
             "ro": "Dimineața de iarnă în Vourvourou este extrem de clară și revigorantă. La prânz, soarele blând încălzește plajele pustii, oferind o liniște absolută. După-amiaza, lumina pictează munții Sithoniei în nuanțe aurii, înainte ca întunericul să se lase brusc în jurul orei 17:00. Seara aparține liniștii naturii și căldurii șemineelor locale.",
-            "en": "Winter mornings in Vourvourou are crystal clear and pleasantly crisp. At noon, the low-hanging sun warms the deserted beaches, offering absolute peace. In the afternoon, the light paints the Sithonia mountains in golden hues before darkness falls quickly around 5 PM. The evening belongs to the silence of nature and the warmth of local fireplaces."
+            "en": "Winter mornings in Vourvourou are crystal clear and pleasantly crisp. At noon, the low-hanging sun warms the deserted beaches, offering absolute peace. In the afternoon, the light paints the Sithonia mountains in golden hues before darkness falls quickly around 5 PM. The evening belongs to the silence of nature and the warmth of local fireplaces.",
+            "el": "Τα χειμωνιάτικα πρωινά στη Βουρβουρού είναι κρυστάλλινα καθαρά και ευχάριστα δροσερά. Το μεσημέρι, ο χαμηλός ήλιος ζεσταίνει τις έρημες παραλίες, προσφέροντας απόλυτη ηρεμία. Το απόγευμα, το φως χρωματίζει τα βουνά της Σιθωνίας με χρυσούς τόνους πριν σκοτεινιάσει γρήγορα γύρω στις 17:00. Το βράδυ ανήκει στη σιωπή της φύσης και στη ζεστασιά των τοπικών τζακιών."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Vourvourou",
                 "hu": "Vourvourou",
                 "ro": "Vourvourou",
-                "en": "Vourvourou"
+                "en": "Vourvourou",
+                "el": "Βουρβουρού"
               },
               "tip_5lang": {
                 "de": "Das Dorf wirkt im Winter wie verwandelt und bietet absolute Ruhe für einen meditativen Spaziergang; tragen Sie winddichte Kleidung wegen der Meeresbrise.",
                 "hu": "A falu télen teljesen átalakul, tökéletes nyugalmat kínálva egy meditatív sétához; viseljen szélálló ruházatot a tenger felől érkező hűvös fuvallatok miatt.",
                 "ro": "Satul pare transformat iarna, oferind o liniște deplină pentru o plimbare meditativă; purtați haine rezistente la vânt din cauza brizelor marine reci.",
-                "en": "The village feels transformed in winter, offering absolute peace for a meditative walk; wear windproof clothing because of the chilly sea breezes."
+                "en": "The village feels transformed in winter, offering absolute peace for a meditative walk; wear windproof clothing because of the chilly sea breezes.",
+                "el": "Το χωριό μοιάζει μεταμορφωμένο το χειμώνα, προσφέροντας απόλυτη ηρεμία για έναν διαλογιστικό περίπατο· φορέστε αδιάβροχα-αντιανεμικά ρούχα λόγω των ψυχρών θαλασσίων αεράδων."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Karidi Strand",
                 "hu": "Karidi strand",
                 "ro": "Plaja Karidi",
-                "en": "Karidi Beach"
+                "en": "Karidi Beach",
+                "el": "Παραλία Καρίδι"
               },
               "tip_5lang": {
                 "de": "Ohne die Sommermassen wirken die skulpturalen Felsen noch beeindruckender, perfekt für Fotografie; denken Sie an Handschuhe, da der Wind hier am stärksten weht.",
                 "hu": "A nyári tömeg nélkül a szoborszerű sziklák még lenyűgözőbbek, tökéletesek a fotózáshoz; ne felejtsen el kesztyűt húzni, mert itt fúj a legerősebben a szél.",
                 "ro": "Fără mulțimile de vară, stâncile sculptate par și mai impresionante, fiind perfecte pentru fotografii; nu uitați mănușile, deoarece vântul bate cel mai tare aici.",
-                "en": "Without the summer crowds, the sculptural rocks look even more impressive, perfect for photography; remember gloves as the wind blows strongest here."
+                "en": "Without the summer crowds, the sculptural rocks look even more impressive, perfect for photography; remember gloves as the wind blows strongest here.",
+                "el": "Χωρίς το καλοκαιρινό πλήθος, οι γλυπτικές πέτρες δείχνουν ακόμα πιο εντυπωσιακές, ιδανικές για φωτογράφιση· θυμηθείτε γάντια καθώς ο άνεμος φυσά πιο δυνατά εδώ."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Kleiner Karydi Strand",
                 "hu": "Kis Karydi strand",
                 "ro": "Plaja Mică Karydi",
-                "en": "Small Karydi Beach"
+                "en": "Small Karydi Beach",
+                "el": "Μικρό Καρίδι"
               },
               "tip_5lang": {
                 "de": "Ein geschützter Ort, um die Wintersonne zu genießen, während man den Blick auf die Insel Diaporos schweifen lässt; eine Sitzunterlage macht die Steine bequemer.",
                 "hu": "Védett hely a téli napsütés élvezetéhez, miközben a tekintetünk Diaporos szigete felé kalandozik; egy hőszigetelő ülőpárna kényelmesebbé teszi a hideg köveket.",
                 "ro": "Un loc protejat pentru a vă bucura de soarele de iarnă în timp ce priviți spre insula Diaporos; o pernă izolantă pentru șezut face pietrele reci mai confortabile.",
-                "en": "A sheltered spot to enjoy the winter sun while letting your gaze wander toward Diaporos island; a seating pad makes the cold stones much more comfortable."
+                "en": "A sheltered spot to enjoy the winter sun while letting your gaze wander toward Diaporos island; a seating pad makes the cold stones much more comfortable.",
+                "el": "Ένα προστατευμένο σημείο για να απολαύσετε τον χειμερινό ήλιο ενώ κοιτάζετε προς το νησί Διάπορος· ένα μαξιλαράκι για καθισματάκι κάνει τους κρύους βράχους πολύ πιο άνετους."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Brounou Strand",
                 "hu": "Brounou strand",
                 "ro": "Plaja Brounou",
-                "en": "Brounou Beach"
+                "en": "Brounou Beach",
+                "el": "Παραλία Μπρούνου"
               },
               "tip_5lang": {
                 "de": "Der Strand ist im Winter oft mit Treibholz übersät, was ihm ein wildes, unberührtes Aussehen verleiht; wasserfeste Schuhe sind wegen der feuchten Luft ratsam.",
                 "hu": "A strand télen gyakran tele van uszadékfával, ami vad és érintetlen külsőt kölcsönöz neki; a nyirkos tengeri levegő miatt a vízálló cipő használata tanácsos.",
                 "ro": "Plaja este adesea plină de resturi lemnoase iarna, având un aspect sălbatic și neatins; încălțămintea impermeabilă este recomandată din cauza umidității mari.",
-                "en": "The beach is often strewn with driftwood in winter, giving it a wild and untouched look; waterproof shoes are advisable due to the damp sea air."
+                "en": "The beach is often strewn with driftwood in winter, giving it a wild and untouched look; waterproof shoes are advisable due to the damp sea air.",
+                "el": "Η παραλία συχνά είναι σκορπισμένη με θαλασσόξυλα το χειμώνα, δίνοντάς της άγρια και ανέγγιχτη όψη· συνιστώνται αδιάβροχα παπούτσια λόγω της υγρασίας από τη θάλασσα."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Fava Strand",
                 "hu": "Fava strand",
                 "ro": "Plaja Fava",
-                "en": "Fava beach"
+                "en": "Fava beach",
+                "el": "Παραλία Φάβα"
               },
               "tip_5lang": {
                 "de": "Da die Sonne hier früh hinter den Hügeln verschwindet, sollten Sie diesen Stopp vor 15:30 Uhr planen; warme Schichten sind für den kühlen Rückweg essenziell.",
                 "hu": "Mivel a nap itt korán eltűnik a dombok mögött, ezt a megállót érdemes 15:30 előttre tervezni; a hűvös visszavezető úthoz a réteges öltözködés elengedhetetlen.",
                 "ro": "Deoarece soarele apune devreme după dealuri, ar trebui să planificați acest popas înainte de 15:30; hainele groase sunt esențiale pentru drumul răcoros înapoi.",
-                "en": "Since the sun disappears early behind the hills here, plan this stop before 3:30 PM; warm layers are essential for the chilly walk back to the village."
+                "en": "Since the sun disappears early behind the hills here, plan this stop before 3:30 PM; warm layers are essential for the chilly walk back to the village.",
+                "el": "Δεδομένου ότι ο ήλιος χάνεται νωρίς πίσω από τους λόφους εδώ, προγραμματίστε αυτή τη στάση πριν τις 15:30· ζεστά στρώματα είναι απαραίτητα για τον δροσερό δρόμο πίσω στο χωριό."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Vourvourou Strand",
             "hu": "Vourvourou strand",
             "ro": "Plaja Vourvourou",
-            "en": "Vourvourou Beach"
+            "en": "Vourvourou Beach",
+            "el": "Παραλία Βουρβουρού"
           },
           "coords": [
             23.77406,
@@ -329,7 +363,8 @@
             "de": "Spazieren Sie den ausgedehnten, von kleinen Booten gesäumten Sandstrand entlang, ideal für einen morgendlichen Spaziergang vor der Hitze.",
             "hu": "Sétáljon végig a kis csónakokkal szegélyezett kiterjedt homokos parton, amely tökéletes egy békés reggeli sétához a déli hőség előtt.",
             "ro": "Plimbați-vă de-a lungul coastei de nisip pline de bărci mici, perfectă pentru o plimbare liniștită dimineața înainte de căldura amiezii.",
-            "en": "Walk along the extensive sandy shoreline lined with small boats, perfect for a peaceful morning stroll before the midday heat arrives."
+            "en": "Walk along the extensive sandy shoreline lined with small boats, perfect for a peaceful morning stroll before the midday heat arrives.",
+            "el": "Περπατήστε κατά μήκος της εκτεταμένης αμμώδους ακτής με μικρά σκάφη πλάι-πλάι, ιδανική για ήρεμο πρωινό περίπατο πριν φτάσει η μεσημεριανή ζέστη."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Vourvourou",
             "hu": "Vourvourou",
             "ro": "Vourvourou",
-            "en": "Vourvourou"
+            "en": "Vourvourou",
+            "el": "Βουρβουρού"
           },
           "coords": [
             23.800676,
@@ -352,7 +388,8 @@
             "de": "Erkunden Sie die entspannte Atmosphäre dieses Küstendorfes und holen Sie sich einen Snack in einer lokalen Bäckerei für den Weg.",
             "hu": "Fedezze fel a tengerparti falu nyugodt hangulatát, és szerezzen be egy friss péksüteményt a közeli öblök felfedezése előtt.",
             "ro": "Explorați atmosfera relaxată a acestui sat de coastă, luând o gustare de la o brutărie locală înainte de a merge la plajă.",
-            "en": "Explore the relaxed vibe of this coastal village, grabbing a quick snack at a local bakery before heading to the nearby sandy coves."
+            "en": "Explore the relaxed vibe of this coastal village, grabbing a quick snack at a local bakery before heading to the nearby sandy coves.",
+            "el": "Ανακαλύψτε τον χαλαρό ρυθμό αυτού του παραθαλάσσιου χωριού, παίρνοντας ένα γρήγορο σνακ από το τοπικό φούρνο πριν κατευθυνθείτε προς τους κοντινούς αμμώδεις κολπίσκους."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Karidi Strand",
             "hu": "Karidi strand",
             "ro": "Plaja Karidi",
-            "en": "Karidi Beach"
+            "en": "Karidi Beach",
+            "el": "Παραλία Καρίδι"
           },
           "coords": [
             23.808193,
@@ -375,7 +413,8 @@
             "de": "Genießen Sie das flache, türkisfarbene Wasser dieser von Kiefern gesäumten Bucht, aber kommen Sie früh, um einen Schattenplatz zu finden.",
             "hu": "Élvezze a fenyőkkel övezett öböl sekély, kristálytiszta türkizkék vizét, de érkezzen korán, hogy biztosítson egy jó árnyékos helyet.",
             "ro": "Bucurați-vă de apele turcoaz și puțin adânci ale acestui golf mărginit de pini, dar ajungeți devreme pentru a prinde un loc la umbră.",
-            "en": "Enjoy the shallow, crystal-clear turquoise waters of this iconic pine-fringed bay, but arrive early in the morning to secure a good spot in the shade."
+            "en": "Enjoy the shallow, crystal-clear turquoise waters of this iconic pine-fringed bay, but arrive early in the morning to secure a good spot in the shade.",
+            "el": "Απολαύστε τα ρηχά, κρυστάλλινα τυρκουάζ νερά αυτού του εμβληματικού κόλπου με πεύκα στην άκρη· φτάστε νωρίς το πρωί για να εξασφαλίσετε καλή θέση στη σκιά."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Brounou Strand",
             "hu": "Brounou strand",
             "ro": "Plaja Brounou",
-            "en": "Brounou Beach"
+            "en": "Brounou Beach",
+            "el": "Παραλία Μπρούνου"
           },
           "coords": [
             23.818174,
@@ -398,7 +438,8 @@
             "de": "Entspannen Sie an diesem abgelegenen Sandstrand, wo das Wasser schnell tiefer wird, ideal für sichere Schwimmer abseits der Massen.",
             "hu": "Pihenjen ezen a gyönyörű, eldugott homokos partszakaszon, ahol a víz gyorsan mélyül, így ideális a tömeget kerülő úszók számára.",
             "ro": "Relaxați-vă pe această plajă frumoasă și retrasă, unde apa se adâncește rapid, fiind ideală pentru înotătorii încrezători și evitând aglomerația.",
-            "en": "Relax on this beautiful, secluded stretch of sand where the water deepens quickly, making it ideal for confident swimmers avoiding crowds."
+            "en": "Relax on this beautiful, secluded stretch of sand where the water deepens quickly, making it ideal for confident swimmers avoiding crowds.",
+            "el": "Χαλαρώστε σε αυτή την όμορφη, απομονωμένη λωρίδα άμμου όπου το νερό βαθαίνει γρήγορα, ιδανική για τολμηρούς κολυμβητές που θέλουν να αποφύγουν τα πλήθη."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Manos Strand",
             "hu": "Manos strand",
             "ro": "Plaja Manos",
-            "en": "Manos Beach"
+            "en": "Manos Beach",
+            "el": "Παραλία Μάνος"
           },
           "coords": [
             23.819407,
@@ -421,7 +463,8 @@
             "de": "Entfliehen Sie zu diesem versteckten Juwel, wo Sie in völliger Ruhe den Wellen lauschen können, aber gehen Sie vorsichtig den Pfad hinab.",
             "hu": "Meneküljön erre az apró, rejtett gyöngyszemre, ahol teljes nyugalomban hallgathatja a hullámokat, de óvatosan ereszkedjen le az ösvényen.",
             "ro": "Evadați în această mică bijuterie ascunsă unde puteți asculta valurile în liniște totală, dar coborâți cu atenție pe cărarea neasfaltată.",
-            "en": "Escape to this tiny, hidden gem where you can listen to the waves in total tranquility, so walk carefully down the unpaved access path."
+            "en": "Escape to this tiny, hidden gem where you can listen to the waves in total tranquility, so walk carefully down the unpaved access path.",
+            "el": "Αποδράστε σε αυτό το μικρό, κρυμμένο στολίδι όπου μπορείτε να ακούσετε τα κύματα στην απόλυτη ησυχία· περπατήστε προσεκτικά κάτω από το χωματόδρομο πρόσβασης."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Fava Strand",
             "hu": "Fava strand",
             "ro": "Plaja Fava",
-            "en": "Fava beach"
+            "en": "Fava beach",
+            "el": "Παραλία Φάβα"
           },
           "coords": [
             23.819527,
@@ -444,7 +488,8 @@
             "de": "Bestaunen Sie die dramatischen Felsformationen dieser Bucht und bringen Sie Wasser und Snacks mit, da es hier keine Einrichtungen gibt.",
             "hu": "Csodálja meg az érintetlen öblöt keretező drámai sziklaalakzatokat, és hozzon magával vizet és nasit, mert itt nincsenek szolgáltatások.",
             "ro": "Admirați formațiunile stâncoase dramatice care încadrează acest golf pitoresc și aduceți-vă apă și gustări, deoarece nu există facilități.",
-            "en": "Marvel at the dramatic rock formations framing this pristine cove, and bring your own water and snacks as there are no facilities here."
+            "en": "Marvel at the dramatic rock formations framing this pristine cove, and bring your own water and snacks as there are no facilities here.",
+            "el": "Θαυμάστε τις δραματικές βραχώδεις μορφές που πλαισιώνουν αυτόν τον παρθένο κόλπο και πάρτε νερό και σνακ μαζί σας καθώς δεν υπάρχουν υπηρεσίες εδώ."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Starten Sie Ihre Radtour entlang des langen Strandes von Vourvourou, spüren Sie die Meeresbrise, bevor Sie ins entspannte Dorfzentrum fahren.\n\nIhr Mittagsstopp ist der legendäre Karidi Strand, wo Sie Ihr Rad parken und ins faszinierende, von Kiefern beschattete türkisfarbene Wasser eintauchen können.\n\nSetzen Sie Ihre Nachmittagsfahrt nach Süden zum Brounou und Manos Strand fort. Die malerischen Küstenwege bieten wunderschöne Aussichtspunkte.\n\nBeenden Sie Ihr Abenteuer am Fava Strand. Nach einem lohnenden Radtag können Sie sich auf dem Kieselstrand entspannen und die Felsen bewundern.",
         "hu": "Kezdje a kerékpártúrát a hosszú Vourvourou strand mentén, érezve a friss tengeri szellőt, mielőtt a falu nyugodt központjába indulna.\n\nA déli megálló az ikonikus Karidi strand, ahol leparkolhatja kerékpárját, és megmártózhat a fenyőfákkal árnyékolt türkizkék vízben.\n\nFolytassa a délutáni utat dél felé a Brounou és az eldugott Manos strandokhoz. A festői tengerparti ösvények gyönyörű kilátást nyújtanak a tengerre.\n\nFejezze be a kalandot a Fava strandon. Egy fárasztó kerékpáros nap után pihenjen a kavicsos homokon, és csodálja meg a lenyűgöző sziklás tájat.",
         "ro": "Începeți turul cu bicicleta de-a lungul plajei Vourvourou, simțind briza proaspătă a mării înainte de a vă îndrepta spre centrul satului.\n\nOprirea de la amiază este plaja Karidi, unde vă puteți parca bicicleta și vă puteți scufunda în apele turcoaz fascinante, umbrite de pini.\n\nContinuați plimbarea de după-amiază spre sud către plajele Brounou și Manos. Cărările de coastă pitorești oferă puncte de belvedere superbe.\n\nÎncheiați aventura la plaja Fava. După o zi plină de ciclism, relaxați-vă pe nisipul cu pietriș și admirați peisajul stâncos impresionant.",
-        "en": "Kick off your cycling tour along the lengthy Vourvourou Beach, feeling the fresh sea breeze before heading into the relaxed village center.\n\nYour midday stop is the iconic Karidi Beach, where you can park your bike and dip into the mesmerizing, pine-shaded turquoise waters.\n\nContinue your afternoon ride south to Brounou Beach and the hidden Manos Beach. The scenic coastal paths offer beautiful vantage points of the sea.\n\nConclude your adventure at Fava beach. After a rewarding day of cycling, relax on the pebbly sand and admire the impressive rocky landscape."
+        "en": "Kick off your cycling tour along the lengthy Vourvourou Beach, feeling the fresh sea breeze before heading into the relaxed village center.\n\nYour midday stop is the iconic Karidi Beach, where you can park your bike and dip into the mesmerizing, pine-shaded turquoise waters.\n\nContinue your afternoon ride south to Brounou Beach and the hidden Manos Beach. The scenic coastal paths offer beautiful vantage points of the sea.\n\nConclude your adventure at Fava beach. After a rewarding day of cycling, relax on the pebbly sand and admire the impressive rocky landscape.",
+        "el": "Ξεκινήστε την ποδηλατική σας διαδρομή κατά μήκος της εκτεταμένης παραλίας της Βουρβουρού, νιώθοντας τη φρέσκια θαλασσινή αύρα πριν κατευθυνθείτε στο χαλαρό κέντρο του χωριού.\n\nΗ μεσημεριανή σας στάση είναι η εμβληματική παραλία Καρίδι, όπου μπορείτε να παρκάρετε το ποδήλατο και να βουτήξετε στα μαγευτικά, σκιασμένα από πεύκα τυρκουάζ νερά.\n\nΣυνεχίστε την απογευματινή σας βόλτα προς νότο προς την παραλία Μπρούνου και την κρυμμένη παραλία Μάνος. Τα γραφικά παράκτια μονοπάτια προσφέρουν όμορφες οπτικές γωνίες προς τη θάλασσα.\n\nΟλοκληρώστε την περιπέτειά σας στην παραλία Φάβα. Μετά από μια ανταποδοτική μέρα ποδηλασίας, χαλαρώστε στην βοτσαλωτή αμμουδιά και θαυμάστε το εντυπωσιακό βραχώδες τοπίο."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Eine Radtour im Regen erfordert Vorsicht, bietet aber eine erfrischende Perspektive auf die Küstenstraße. Vormittags sind kaum Autos unterwegs, was die Fahrt sicher macht. Mittags glänzt der nasse Asphalt wie ein Spiegel unter den Pinien. Am Nachmittag laden überdachte Plätze zur kurzen Rast ein. Der Tag endet mit dem beruhigenden Geräusch des Regens beim Erreichen der Unterkunft.",
             "hu": "Egy esős bringázás óvatosságot igényel, de frissítő perspektívát kínál a part menti úton. Délelőtt alig van forgalom, így biztonságos a tekerés. Délben a vizes aszfalt tükörként csillog a fenyőfák alatt. Délután a fedett helyek kínálnak rövid pihenőt a part közelében. A nap a célba érés után az eső megnyugtató kopogásával zárul.",
             "ro": "O plimbare cu bicicleta în ploaie necesită prudență, dar oferă o perspectivă revigorantă asupra drumului de coastă. Dimineața traficul este minim, făcând deplasarea sigură. La prânz, asfaltul umed strălucește ca o oglindă sub pini. După-amiaza, locurile acoperite oferă popasuri scurte. Ziua se încheie cu sunetul relaxant al ploii odată ce ajungeți la destinație.",
-            "en": "A rainy bike ride requires caution but offers a refreshing perspective on the coastal road. In the morning, there is very little traffic, making the ride safe. At noon, the wet asphalt glistens like a mirror under the pines. In the afternoon, covered spots provide quick breaks near the shore. The day ends with the soothing sound of rain as you reach your destination."
+            "en": "A rainy bike ride requires caution but offers a refreshing perspective on the coastal road. In the morning, there is very little traffic, making the ride safe. At noon, the wet asphalt glistens like a mirror under the pines. In the afternoon, covered spots provide quick breaks near the shore. The day ends with the soothing sound of rain as you reach your destination.",
+            "el": "Μια βροχερή ποδηλασία απαιτεί προσοχή αλλά προσφέρει αναζωογονητική οπτική της παράκτιας διαδρομής. Το πρωί υπάρχει πολύ λίγη κίνηση, κάνοντάς την ασφαλή. Το μεσημέρι, η βρεγμένη άσφαλτος γυαλίζει σαν καθρέφτης κάτω από τα πεύκα. Το απόγευμα, οι καλυμμένοι χώροι προσφέρουν σύντομες στάσεις κοντά στην ακτή. Η μέρα τελειώνει με τον χαλαρωτικό ήχο της βροχής καθώς φτάνετε στον προορισμό σας."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Vourvourou Strand",
                 "hu": "Vourvourou strand",
                 "ro": "Plaja Vourvourou",
-                "en": "Vourvourou Beach"
+                "en": "Vourvourou Beach",
+                "el": "Παραλία Βουρβουρού"
               },
               "tip_5lang": {
                 "de": "Die Küstenstraße kann bei Nässe rutschig sein, fahren Sie daher besonders vorsichtig in den Kurven; Schutzbleche am Rad halten Ihre Kleidung deutlich sauberer.",
                 "hu": "A part menti út vizesen csúszós lehet, ezért a kanyarokban legyen különösen óvatos; a sárvédő használata sokat segít a ruházat tisztán tartásában.",
                 "ro": "Drumul de coastă poate fi alunecos când este ud, așa că circulați cu prudență sporită în curbe; aripile la bicicletă vă vor menține hainele mult mai curate.",
-                "en": "The coastal road can be slippery when wet, so exercise extra caution in the curves; mudguards on your bike will keep your clothes significantly cleaner."
+                "en": "The coastal road can be slippery when wet, so exercise extra caution in the curves; mudguards on your bike will keep your clothes significantly cleaner.",
+                "el": "Ο παράκτιος δρόμος μπορεί να γλιστρά όταν βραχεί, οπότε δείξτε επιπλέον προσοχή στις στροφές· ο προβλεπόμενος λασπωτήρας στο ποδήλατο θα κρατήσει τα ρούχα πολύ πιο καθαρά."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Vourvourou",
                 "hu": "Vourvourou",
                 "ro": "Vourvourou",
-                "en": "Vourvourou"
+                "en": "Vourvourou",
+                "el": "Βουρβουρού"
               },
               "tip_5lang": {
                 "de": "Im Dorfzentrum gibt es Vordächer, unter denen man das Fahrrad kurz trocken abstellen kann; prüfen Sie Ihre Bremsbeläge vor der Fahrt, da sie nass langsamer greifen.",
                 "hu": "A falu központjában számos előtető alá behúzódhatunk a bringával egy rövid pihenőre; ellenőrizze a fékeket, mert vizesen hosszabb a fékút.",
                 "ro": "În centrul satului există copertine unde puteți lăsa bicicleta la uscat pentru scurt timp; verificați frânele, deoarece acestea prind mai greu pe ploaie.",
-                "en": "In the village center, there are overhangs where you can park your bike in the dry for a short break; check your brakes, as they respond slower in the wet."
+                "en": "In the village center, there are overhangs where you can park your bike in the dry for a short break; check your brakes, as they respond slower in the wet.",
+                "el": "Στο κέντρο του χωριού υπάρχουν πρόβολοι όπου μπορείτε να παρκάρετε το ποδήλατό σας στεγνό για μια σύντομη ανάπαυση· ελέγξτε τα φρένα σας, καθώς αποκρίνονται πιο αργά στη βροχή."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Karidi Strand",
                 "hu": "Karidi strand",
                 "ro": "Plaja Karidi",
-                "en": "Karidi Beach"
+                "en": "Karidi Beach",
+                "el": "Παραλία Καρίδι"
               },
               "tip_5lang": {
                 "de": "Meiden Sie mit dem Rad die tiefen Sandstellen, da diese nass sehr schwergängig sind; eine wasserdichte Packtasche schützt Ihre Verpflegung vor Feuchtigkeit.",
                 "hu": "Kerülje el a mély homokos részeket a biciklivel, mert vizesen nagyon nehéz rajtuk haladni; egy vízálló táska megvédi az uzsonnáját a nedvességtől.",
                 "ro": "Evitați zonele cu nisip adânc cu bicicleta, deoarece acestea devin foarte greu de parcurs pe ploaie; o geantă impermeabilă vă va proteja alimentele.",
-                "en": "Avoid deep sandy areas with your bike, as they become very difficult to navigate when wet; a waterproof pannier will protect your snacks from the moisture."
+                "en": "Avoid deep sandy areas with your bike, as they become very difficult to navigate when wet; a waterproof pannier will protect your snacks from the moisture.",
+                "el": "Αποφύγετε βαθιά αμμώδη σημεία με το ποδήλατο, καθώς γίνονται πολύ δύσκολα στη διέλευση όταν βραχούν· μια αδιάβροχη σακούλα για τις πλαϊνές τσάντες προστατεύει τα σνακ σας από την υγρασία."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Brounou Strand",
                 "hu": "Brounou strand",
                 "ro": "Plaja Brounou",
-                "en": "Brounou Beach"
+                "en": "Brounou Beach",
+                "el": "Παραλία Μπρούνου"
               },
               "tip_5lang": {
                 "de": "Die Zufahrt zum Strand hat einige Pfützen, die tiefer sein können als sie aussehen; tragen Sie eine helle Regenjacke, um für Autofahrer besser sichtbar zu sein.",
                 "hu": "A strandhoz vezető úton sok tócsa lehet, amik mélyebbek a látszatnál; viseljen élénk esőkabátot, hogy a ritka autósforgalom számára jobban látható maradjon.",
                 "ro": "Accesul la plajă are câteva bălți care pot fi mai adânci decât par; purtați o jachetă de ploaie luminoasă pentru a fi mai vizibil pentru eventualele mașini.",
-                "en": "The access road to the beach has several puddles that might be deeper than they look; wear a bright raincoat to be more visible to the occasional car traffic."
+                "en": "The access road to the beach has several puddles that might be deeper than they look; wear a bright raincoat to be more visible to the occasional car traffic.",
+                "el": "Ο δρόμος πρόσβασης στην παραλία έχει αρκετές λακκούβες που μπορεί να είναι πιο βαθιές απ' ό,τι φαίνονται· φορέστε φωτεινό αδιάβροχο για να είστε πιο ορατοί στα περιστασιακά αυτοκίνητα."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Manos Strand",
                 "hu": "Manos strand",
                 "ro": "Plaja Manos",
-                "en": "Manos Beach"
+                "en": "Manos Beach",
+                "el": "Παραλία Μάνος"
               },
               "tip_5lang": {
                 "de": "Die Meeresgischt kann das Rad mit Salz bedecken, was Korrosion fördert; wischen Sie das Fahrrad nach der Tour unbedingt mit einem trockenen Tuch ab.",
                 "hu": "A tengeri permet sóval boríthatja be a bringát, ami korróziót okozhat; a túra után mindenképpen törölje át a vázat és a láncot egy száraz ronggyal.",
                 "ro": "Vaporii de apă sărată pot acoperi bicicleta, favorizând coroziunea; ștergeți neapărat bicicleta cu o cârpă uscată după încheierea traseului.",
-                "en": "Sea spray can cover your bike with salt, which promotes corrosion; be sure to wipe down your bike frame and chain with a dry cloth after the tour."
+                "en": "Sea spray can cover your bike with salt, which promotes corrosion; be sure to wipe down your bike frame and chain with a dry cloth after the tour.",
+                "el": "Η θαλασσινή αύρα μπορεί να καλύψει το ποδήλατό σας με αλάτι, που προάγει τη διάβρωση· φροντίστε να σκουπίσετε το πλαίσιο και την αλυσίδα με ένα στεγνό πανί μετά την εκδρομή."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Fava Strand",
                 "hu": "Fava strand",
                 "ro": "Plaja Fava",
-                "en": "Fava beach"
+                "en": "Fava beach",
+                "el": "Παραλία Φάβα"
               },
               "tip_5lang": {
                 "de": "Die steile Abfahrt zum Fava Strand erfordert bei Regen volle Konzentration und gute Bremsen; belohnen Sie sich nach dem Rückweg mit einer heißen Dusche.",
                 "hu": "A Fava strandhoz vezető meredek lejtő esőben teljes koncentrációt és jó fékeket igényel; a visszautat követően jutalmazza meg magát egy forró zuhanyozással.",
                 "ro": "Coborârea abruptă spre plaja Fava necesită concentrare maximă și frâne bune pe timp de ploaie; răsplătiți-vă cu un duș fierbinte după drumul de întoarcere.",
-                "en": "The steep descent to Fava Beach requires full concentration and good brakes in the rain; reward yourself with a hot shower after the return journey."
+                "en": "The steep descent to Fava Beach requires full concentration and good brakes in the rain; reward yourself with a hot shower after the return journey.",
+                "el": "Η απότομη κατάβαση προς την παραλία Φάβα απαιτεί απόλυτη συγκέντρωση και καλά φρένα στη βροχή· επιβραβεύστε τον εαυτό σας με ένα ζεστό ντους μετά την επιστροφή."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Eine Wintertour mit dem Fahrrad ist bei kühler, klarer Luft besonders belebend. Vormittags wärmt die Sonne bereits die Küstenstraße. Mittags bietet die windgeschützte Bucht von Karidi einen idealen Pausenplatz. Nachmittags sinken die Temperaturen spürbar, und das goldene Licht kündigt den frühen Abend an. Gegen 17:00 Uhr verschwindet die Sonne, was eine rechtzeitige Rückkehr nötig macht.",
             "hu": "A téli kerékpártúra a hűvös, tiszta levegőben rendkívül élénkítő hatású. Délelőtt a nap már kellemesen melegíti a part menti aszfaltot. Délben a szélvédett Karidi-öböl tökéletes helyszín egy rövid pihenőhöz. Délután a hőmérséklet érezhetően csökkenni kezd, a fények pedig jelzik az este közeledtét. 17:00-kor beáll a sötét, így időben el kell indulni vissza.",
             "ro": "O tură de iarnă cu bicicleta este extrem de revigorantă în aerul rece și curat. Dimineața, soarele începe deja să încălzească drumul de coastă. La prânz, golful Karidi, protejat de vânt, este locul ideal pentru un popas. După-amiaza temperaturile scad simțitor, iar lumina aurie anunță venirea serii. La ora 17:00 soarele apune, necesitând o întoarcere din timp.",
-            "en": "A winter bike tour is exceptionally invigorating in the cool, clear air. In the morning, the sun already warms the coastal asphalt. At noon, the wind-sheltered Karidi Bay is an ideal spot for a short break. In the afternoon, temperatures drop noticeably, and the light signals the approach of evening. At 5 PM, it gets dark, so make sure to head back in time."
+            "en": "A winter bike tour is exceptionally invigorating in the cool, clear air. In the morning, the sun already warms the coastal asphalt. At noon, the wind-sheltered Karidi Bay is an ideal spot for a short break. In the afternoon, temperatures drop noticeably, and the light signals the approach of evening. At 5 PM, it gets dark, so make sure to head back in time.",
+            "el": "Μία χειμωνιάτικη ποδηλατική διαδρομή είναι εξαιρετικά αναζωογονητική στον δροσερό, καθαρό αέρα. Το πρωί ο ήλιος ήδη ζεσταίνει το παραθαλάσσιο άσφαλτο. Το μεσημέρι ο προστατευμένος από τον άνεμο κόλπος Καρίδι είναι ιδανικός για σύντομο διάλειμμα. Το απόγευμα οι θερμοκρασίες πέφτουν αισθητά και το φως προμηνύει το βράδυ. Στις 17:00 σκοτεινιάζει, οπότε φροντίστε να επιστρέψετε εγκαίρως."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Vourvourou Strand",
                 "hu": "Vourvourou strand",
                 "ro": "Plaja Vourvourou",
-                "en": "Vourvourou Beach"
+                "en": "Vourvourou Beach",
+                "el": "Παραλία Βουρβουρού"
               },
               "tip_5lang": {
                 "de": "Tragen Sie beim Radfahren im Winter dünne Thermo-Unterwäsche, da der Fahrtwind den Körper schnell auskühlen lässt; ein Schlauchtuch schützt den Hals.",
                 "hu": "Téli bringázásnál viseljen vékony aláöltözőt, mert a menetszél hamar lehűtheti a testet; egy csősál használata kötelező a nyak és az arc védelmére.",
                 "ro": "Purtați haine termice subțiri când pedalați iarna, deoarece curentul de aer răcește rapid corpul; un fular de tip tub este esențial pentru protecția gâtului.",
-                "en": "Wear thin thermal base layers when cycling in winter, as the wind chill can cool your body quickly; a neck buff is essential for protecting your throat."
+                "en": "Wear thin thermal base layers when cycling in winter, as the wind chill can cool your body quickly; a neck buff is essential for protecting your throat.",
+                "el": "Φορέστε λεπτά θερμικά στρώματα βάσης όταν ποδηλατείτε το χειμώνα, καθώς το ψύχος του ανέμου μπορεί να σας κρυώσει γρήγορα· ένα μαντίλι ή buff για το λαιμό είναι απαραίτητο για την προστασία του λαιμού."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Vourvourou",
                 "hu": "Vourvourou",
                 "ro": "Vourvourou",
-                "en": "Vourvourou"
+                "en": "Vourvourou",
+                "el": "Βουρβουρού"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie das Dorf für eine kurze Aufwärmpause in der Sonne, bevor es in schattigere Abschnitte geht; achten Sie auf den Reifendruck für besseren Grip.",
                 "hu": "Használja ki a falut egy rövid napos melegedőre, mielőtt az árnyékosabb szakaszokra érne; ügyeljen a guminyomásra a jobb tapadás érdekében a hűvös úton.",
                 "ro": "Folosiți oprirea în sat pentru a vă încălzi puțin la soare înainte de porțiunile mai umbrite; verificați presiunea din pneuri pentru o aderență mai bună.",
-                "en": "Use the village stop for a quick warm-up in the sun before heading into shadier sections; pay attention to tire pressure for better grip on cool roads."
+                "en": "Use the village stop for a quick warm-up in the sun before heading into shadier sections; pay attention to tire pressure for better grip on cool roads.",
+                "el": "Χρησιμοποιήστε την στάση στο χωριό για ένα γρήγορο ζέσταμα στον ήλιο πριν μπείτε σε πιο σκιερά τμήματα· προσέξτε την πίεση των ελαστικών για καλύτερη πρόσφυση σε δροσερούς δρόμους."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Karidi Strand",
                 "hu": "Karidi strand",
                 "ro": "Plaja Karidi",
-                "en": "Karidi Beach"
+                "en": "Karidi Beach",
+                "el": "Παραλία Καρίδι"
               },
               "tip_5lang": {
                 "de": "Die Sonne steht im Winter perfekt für Fotos der Bucht, da sie nicht so steil von oben kommt; ziehen Sie für die Standpause eine extra Jackenschicht an.",
                 "hu": "A nap télen tökéletes szögből világítja meg az öblöt a fotózáshoz; a pihenő idejére vegyen fel egy extra réteg kabátot, hogy ne fázzon meg a parton.",
                 "ro": "Soarele este la un unghi perfect iarna pentru fotografii, deoarece nu bate perpendicular; puneți-vă o jachetă suplimentară pe durata popasului pe plajă.",
-                "en": "The winter sun is at a perfect angle for photos of the bay; put on an extra layer of clothing during the break to prevent getting cold while stationary."
+                "en": "The winter sun is at a perfect angle for photos of the bay; put on an extra layer of clothing during the break to prevent getting cold while stationary.",
+                "el": "Ο χειμωνιάτικος ήλιος έχει τέλεια γωνία για φωτογραφίες του κόλπου· βάλτε ένα επιπλέον στρώμα ρούχων στο διάλειμμα για να μην κρυώσετε όταν μένετε ακίνητοι."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Brounou Strand",
                 "hu": "Brounou strand",
                 "ro": "Plaja Brounou",
-                "en": "Brounou Beach"
+                "en": "Brounou Beach",
+                "el": "Παραλία Μπρούνου"
               },
               "tip_5lang": {
                 "de": "Der Boden kann durch die Winterfeuchtigkeit weich sein, bleiben Sie daher mit dem Rad auf den festen Wegen; trinken Sie regelmäßig Wasser trotz der Kälte.",
                 "hu": "A talaj a téli nyirkosság miatt puha lehet, ezért maradjon a biciklivel a szilárd ösvényeken; a hideg ellenére ne feledkezzen meg a hidratálásról.",
                 "ro": "Solul poate fi moale din cauza umidității de iarnă, așa că rămâneți cu bicicleta pe potecile ferme; hidratați-vă constant în ciuda temperaturilor scăzute.",
-                "en": "The ground can be soft due to winter moisture, so stay on the firm paths with your bike; remember to drink water regularly despite the cold temperatures."
+                "en": "The ground can be soft due to winter moisture, so stay on the firm paths with your bike; remember to drink water regularly despite the cold temperatures.",
+                "el": "Το έδαφος μπορεί να είναι μαλακό λόγω της χειμωνιάτικης υγρασίας, οπότε μείνετε στις στέρεες διαδρομές με το ποδήλατο· θυμηθείτε να πίνετε νερό τακτικά παρά το κρύο."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Manos Strand",
                 "hu": "Manos strand",
                 "ro": "Plaja Manos",
-                "en": "Manos Beach"
+                "en": "Manos Beach",
+                "el": "Παραλία Μάνος"
               },
               "tip_5lang": {
                 "de": "Ein sehr ruhiger Ort im Winter, an dem man den Blick auf die schneebedeckten Gipfel in der Ferne genießen kann; tragen Sie Handschuhe mit gutem Windschutz.",
                 "hu": "Nagyon csendes hely télen, ahonnan tiszta időben láthatóak a távoli havas csúcsok is; viseljen szélálló kesztyűt a kezei védelmében.",
                 "ro": "Un loc foarte liniștit iarna, de unde puteți admira vârfurile înzăpezite din depărtare; purtați mănuși cu protecție bună împotriva vântului rece.",
-                "en": "A very quiet spot in winter where you can enjoy views of distant snow-capped peaks; wear gloves with good wind protection to keep your hands warm."
+                "en": "A very quiet spot in winter where you can enjoy views of distant snow-capped peaks; wear gloves with good wind protection to keep your hands warm.",
+                "el": "Ένας πολύ ήσυχος τόπος το χειμώνα όπου μπορείτε να απολαύσετε θέα σε μακρινές χιονισμένες κορυφές· φορέστε γάντια με καλή προστασία από τον άνεμο για να κρατήσετε τα χέρια ζεστά."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Fava Strand",
                 "hu": "Fava strand",
                 "ro": "Plaja Fava",
-                "en": "Fava beach"
+                "en": "Fava beach",
+                "el": "Παραλία Φάβα"
               },
               "tip_5lang": {
                 "de": "Da der Rückweg zum Dorf leicht bergauf führt, werden Sie wieder warm; schalten Sie für die Fahrt in der Dämmerung unbedingt Ihre Fahrradbeleuchtung ein.",
                 "hu": "Mivel a faluba visszavezető út enyhén emelkedik, hamar újra kimelegszik; a szürkületi tekeréshez mindenképpen kapcsolja be a kerékpáros lámpákat.",
                 "ro": "Deoarece drumul de întoarcere în sat este ușor în urcare, vă veți încălzi rapid; activați neapărat luminile bicicletei pentru drumul în amurg.",
-                "en": "Since the ride back to the village is slightly uphill, you'll warm up quickly; be sure to turn on your bike lights for the ride during twilight."
+                "en": "Since the ride back to the village is slightly uphill, you'll warm up quickly; be sure to turn on your bike lights for the ride during twilight.",
+                "el": "Καθώς η διαδρομή επιστροφής προς το χωριό είναι ελαφρώς ανηφορική, θα ζεσταθείτε γρήγορα· φροντίστε να ανάψετε τα φώτα του ποδηλάτου για την πορεία στο λυκόφως."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Livari Strand",
             "hu": "Livari strand",
             "ro": "Plaja Livari",
-            "en": "Livari Beach"
+            "en": "Livari Beach",
+            "el": "Παραλία Λιβάρι"
           },
           "coords": [
             23.769193,
@@ -673,7 +746,8 @@
             "de": "Fotografieren Sie die einzigartige Sandlagune, die ein natürliches Becken bildet, am besten bei Ebbe für die atemberaubendsten Aussichten.",
             "hu": "Fotózza le az egyedülálló homoklagúnát, amely egy természetes medencét alkot, és látogasson el apály idején a legszebb kilátásért.",
             "ro": "Fotografiați laguna unică de nisip care creează o piscină naturală, cel mai bine vizitată în timpul refluxului pentru cele mai uimitoare priveliști.",
-            "en": "Photograph the unique sand lagoon formation that creates a striking natural pool, best visited during low tide for the most stunning views."
+            "en": "Photograph the unique sand lagoon formation that creates a striking natural pool, best visited during low tide for the most stunning views.",
+            "el": "Φωτογραφίστε τη μοναδική σχηματοποίηση της αμμουδερής λιμνοθάλασσας που δημιουργεί μια εντυπωσιακή φυσική λεκάνη· επισκεφτείτε την καλύτερα στην παλίρροια χαμηλή για την πιο εντυπωσιακή θέα."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Vourvourou Strand",
             "hu": "Vourvourou strand",
             "ro": "Plaja Vourvourou",
-            "en": "Vourvourou Beach"
+            "en": "Vourvourou Beach",
+            "el": "Παραλία Βουρβουρού"
           },
           "coords": [
             23.77406,
@@ -696,7 +771,8 @@
             "de": "Spazieren Sie den ausgedehnten, von kleinen Booten gesäumten Sandstrand entlang, ideal für einen morgendlichen Spaziergang vor der Hitze.",
             "hu": "Sétáljon végig a kis csónakokkal szegélyezett kiterjedt homokos parton, amely tökéletes egy békés reggeli sétához a déli hőség előtt.",
             "ro": "Plimbați-vă de-a lungul coastei de nisip pline de bărci mici, perfectă pentru o plimbare liniștită dimineața înainte de căldura amiezii.",
-            "en": "Walk along the extensive sandy shoreline lined with small boats, perfect for a peaceful morning stroll before the midday heat arrives."
+            "en": "Walk along the extensive sandy shoreline lined with small boats, perfect for a peaceful morning stroll before the midday heat arrives.",
+            "el": "Περπατήστε κατά μήκος της εκτεταμένης αμμώδους ακτής με τις μικρές βάρκες, ιδανική για ήσυχο πρωινό περίπατο πριν την άφιξη της μεσημβρινής ζέστης."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Vourvourou",
             "hu": "Vourvourou",
             "ro": "Vourvourou",
-            "en": "Vourvourou"
+            "en": "Vourvourou",
+            "el": "Βουρβουρού"
           },
           "coords": [
             23.800676,
@@ -719,7 +796,8 @@
             "de": "Erkunden Sie die entspannte Atmosphäre dieses Küstendorfes und holen Sie sich einen Snack in einer lokalen Bäckerei für den Weg.",
             "hu": "Fedezze fel a tengerparti falu nyugodt hangulatát, és szerezzen be egy friss péksüteményt a közeli öblök felfedezése előtt.",
             "ro": "Explorați atmosfera relaxată a acestui sat de coastă, luând o gustare de la o brutărie locală înainte de a merge la plajă.",
-            "en": "Explore the relaxed vibe of this coastal village, grabbing a quick snack at a local bakery before heading to the nearby sandy coves."
+            "en": "Explore the relaxed vibe of this coastal village, grabbing a quick snack at a local bakery before heading to the nearby sandy coves.",
+            "el": "Εξερευνήστε την χαλαρή ατμόσφαιρα αυτού του παραθαλάσσιου χωριού, παίρνοντας ένα γρήγορο σνακ σε ένα τοπικό φούρνο πριν κατευθυνθείτε προς τους κοντινούς αμμώδεις κολπίσκους."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Karidi Strand",
             "hu": "Karidi strand",
             "ro": "Plaja Karidi",
-            "en": "Karidi Beach"
+            "en": "Karidi Beach",
+            "el": "Παραλία Καρίδι"
           },
           "coords": [
             23.808193,
@@ -742,7 +821,8 @@
             "de": "Genießen Sie das flache, türkisfarbene Wasser dieser von Kiefern gesäumten Bucht, aber kommen Sie früh, um einen Schattenplatz zu finden.",
             "hu": "Élvezze a fenyőkkel övezett öböl sekély, kristálytiszta türkizkék vizét, de érkezzen korán, hogy biztosítson egy jó árnyékos helyet.",
             "ro": "Bucurați-vă de apele turcoaz și puțin adânci ale acestui golf mărginit de pini, dar ajungeți devreme pentru a prinde un loc la umbră.",
-            "en": "Enjoy the shallow, crystal-clear turquoise waters of this iconic pine-fringed bay, but arrive early in the morning to secure a good spot in the shade."
+            "en": "Enjoy the shallow, crystal-clear turquoise waters of this iconic pine-fringed bay, but arrive early in the morning to secure a good spot in the shade.",
+            "el": "Απολαύστε τα ρηχά, κρυστάλλινα τυρκουάζ νερά αυτού του εμβληματικού κόλπου με πεύκα, αλλά φτάστε νωρίς το πρωί για να εξασφαλίσετε καλή θέση στην σκιά."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Kleiner Karydi Strand",
             "hu": "Kis Karydi strand",
             "ro": "Plaja Mică Karydi",
-            "en": "Small Karydi Beach"
+            "en": "Small Karydi Beach",
+            "el": "Μικρή Παραλία Καρίδι"
           },
           "coords": [
             23.810305,
@@ -765,7 +846,8 @@
             "de": "Entdecken Sie diese ruhigere, felsigere Alternative zum Hauptstrand, ideal zum Schnorcheln, also vergessen Sie Ihre Ausrüstung nicht.",
             "hu": "Fedezze fel a fő strand csendesebb, sziklásabb alternatíváját, amely tökéletes sznorkelezéshez, így ne hagyja otthon a búvárszemüveget.",
             "ro": "Descoperiți această alternativă mai liniștită și stâncoasă a plajei principale, perfectă pentru snorkeling, așa că aduceți-vă echipamentul.",
-            "en": "Discover this quieter, rockier alternative to the main beach, perfect for snorkeling, so don't forget to pack your underwater gear."
+            "en": "Discover this quieter, rockier alternative to the main beach, perfect for snorkeling, so don't forget to pack your underwater gear.",
+            "el": "Ανακαλύψτε αυτή τη πιο ήσυχη, βραχώδη εναλλακτική της κύριας παραλίας, ιδανική για καταδύσεις με αναπνευστήρα· μην ξεχάσετε τον εξοπλισμό υποβρύχιας εξερεύνησης."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Fava Strand",
             "hu": "Fava strand",
             "ro": "Plaja Fava",
-            "en": "Fava beach"
+            "en": "Fava beach",
+            "el": "Παραλία Φάβα"
           },
           "coords": [
             23.819527,
@@ -788,7 +871,8 @@
             "de": "Bestaunen Sie die dramatischen Felsformationen dieser Bucht und bringen Sie Wasser und Snacks mit, da es hier keine Einrichtungen gibt.",
             "hu": "Csodálja meg az érintetlen öblöt keretező drámai sziklaalakzatokat, és hozzon magával vizet és nasit, mert itt nincsenek szolgáltatások.",
             "ro": "Admirați formațiunile stâncoase dramatice care încadrează acest golf pitoresc și aduceți-vă apă și gustări, deoarece nu există facilități.",
-            "en": "Marvel at the dramatic rock formations framing this pristine cove, and bring your own water and snacks as there are no facilities here."
+            "en": "Marvel at the dramatic rock formations framing this pristine cove, and bring your own water and snacks as there are no facilities here.",
+            "el": "Θαυμάστε τις δραματικές σπηλαιώδεις/βραχώδεις διαμορφώσεις που πλαισιώνουν αυτόν τον παρθένο όρμο και φέρτε δικό σας νερό και σνακ καθώς δεν υπάρχουν εγκαταστάσεις."
           }
         }
       ],
@@ -796,7 +880,8 @@
         "de": "Beginnen Sie Ihre Fahrt am Livari Strand, bewundern Sie die Sandlagune, bevor Sie zum Hauptstrand von Vourvourou weiterfahren.\n\nFahren Sie zum Dorf und mittags zum Karidi Strand. Mit dem Auto maximieren Sie Ihre Entspannungszeit auf dem weißen Sand.\n\nAm Nachmittag wechseln Sie einfach zum Kleinen Karydi, um den Massen zu entfliehen, und holen Ihre Schnorchelausrüstung aus dem Kofferraum.\n\nBeenden Sie den Ausflug mit einer Fahrt zum abgelegenen Fava Strand. Genießen Sie die raue Naturschönheit und das Rauschen der Wellen am Abend.",
         "hu": "Kezdje az utat a lenyűgöző Livari strandon, megcsodálva a különleges homoklagúnát, mielőtt a fő Vourvourou strandhoz hajtana.\n\nKocsikázzon le a faluba, majd délben a Karidi strandhoz. Az autó nyújtotta kényelem lehetővé teszi, hogy maximalizálja a pihenőidőt a homokon.\n\nDélután ugorjon át a Kis Karydi strandhoz, elkerülve a tömeget, és vegye elő a búvárfelszerelést a csomagtartóból egy gyors víz alatti felfedezéshez.\n\nZárja az egynapos kirándulást az eldugott Fava strandon. Élvezze a zord természeti szépséget és a hullámok morajlását az este közeledtével.",
         "ro": "Începeți traseul cu mașina la impresionanta plajă Livari, admirând laguna unică înainte de o scurtă deplasare spre plaja principală Vourvourou.\n\nConduceți spre sat și apoi la plaja Karidi la amiază. Confortul mașinii vă permite să vă maximizați timpul de relaxare pe nisipul alb.\n\nDupă-amiaza, treceți ușor la Small Karydi pentru a scăpa de aglomerație, luând echipamentul de snorkeling din portbagaj pentru o explorare.\n\nTerminați excursia conducând spre plaja izolată Fava. Bucurați-vă de frumusețea naturală aspră și de sunetul valurilor pe măsură ce se apropie seara.",
-        "en": "Start your driving route at the stunning Livari Beach, admiring the unique sand lagoon before a quick drive to the main Vourvourou Beach.\n\nDrive down to the village and then on to Karidi Beach for midday. The convenience of the car lets you maximize your relaxation time on the white sand.\n\nIn the afternoon, easily hop over to Small Karydi to escape the crowds, grabbing your snorkel gear from the trunk for a quick underwater exploration.\n\nFinish the day trip driving to the secluded Fava beach. Enjoy the rugged natural beauty and the sound of crashing waves as evening approaches."
+        "en": "Start your driving route at the stunning Livari Beach, admiring the unique sand lagoon before a quick drive to the main Vourvourou Beach.\n\nDrive down to the village and then on to Karidi Beach for midday. The convenience of the car lets you maximize your relaxation time on the white sand.\n\nIn the afternoon, easily hop over to Small Karydi to escape the crowds, grabbing your snorkel gear from the trunk for a quick underwater exploration.\n\nFinish the day trip driving to the secluded Fava beach. Enjoy the rugged natural beauty and the sound of crashing waves as evening approaches.",
+        "el": "Ξεκινήστε τη διαδρομή οδήγησης από την εκπληκτική παραλία Λιβάρι, απολαμβάνοντας τη μοναδική αμμουδερή λιμνοθάλασσα πριν από μια γρήγορη οδήγηση προς την κύρια παραλία Βουρβουρού.\n\nΚατεβείτε στο χωριό και συνεχίστε προς την παραλία Καρίδι για το μεσημέρι. Η άνεση του αυτοκινήτου σας επιτρέπει να αξιοποιήσετε στο έπακρο τον χρόνο χαλάρωσης στην άσπρη άμμο.\n\nΤο απόγευμα, πεταχτείτε εύκολα στη Μικρή Καρίδι για να αποφύγετε τα πλήθη, παίρνοντας τον αναπνευστήρα από το πορτ-μπαγκάζ για γρήγορη υποβρύχια εξερεύνηση.\n\nΟλοκληρώστε την ημερήσια εκδρομή οδηγώντας προς την απομονωμένη παραλία Φάβα. Απολαύστε την άγρια φυσική ομορφιά και τον ήχο των σπασμένων κυμάτων καθώς πλησιάζει το βράδυ."
       },
       "variants": {
         "rainy": {
@@ -804,7 +889,8 @@
             "de": "Eine Autofahrt durch das verregnete Vourvourou bietet Komfort und atemberaubende Ausblicke aus dem Trockenen. Morgens wirkt die Lagune von Livari wie ein Aquarellbild. Mittags bietet das Auto Schutz vor stärkeren Güssen zwischen den Stränden. Am Nachmittag laden Aussichtspunkte zum Verweilen ein. Der Abend endet gemütlich in einer Taverne, während das Wasser an die Fensterscheiben klopft.",
             "hu": "Egy autós kirándulás az esős Vourvourouban kényelmet és lélegzetelállító kilátást kínál a száraz utastérből. Reggel a Livari-lagúna akvarell festménynek tűnik a ködben. Délben az autó védelmet nyújt a záporok között az egyes strandok felé. Délután a kilátópontokról figyelhető a tenger vad szépsége. Az este egy helyi tavernában zárul a pattogó tűz mellett.",
             "ro": "O excursie cu mașina prin Vourvourou pe ploaie oferă confort și vederi spectaculoase dintr-un mediu uscat. Dimineața, laguna Livari pare o pictură în acuarelă. La prânz, mașina oferă protecție între opriri în timpul averselor mai puternice. După-amiaza, punctele de belvedere permit admirarea mării. Seara se încheie la o tavernă, ascultând ploaia de afară.",
-            "en": "A car trip through rainy Vourvourou offers comfort and breathtaking views from a dry interior. In the morning, the Livari lagoon looks like a watercolor painting. At noon, the car provides shelter between stops during heavier showers. In the afternoon, viewpoints allow for admiring the sea's raw beauty. The evening ends cozily in a tavern while listening to the rain outside."
+            "en": "A car trip through rainy Vourvourou offers comfort and breathtaking views from a dry interior. In the morning, the Livari lagoon looks like a watercolor painting. At noon, the car provides shelter between stops during heavier showers. In the afternoon, viewpoints allow for admiring the sea's raw beauty. The evening ends cozily in a tavern while listening to the rain outside.",
+            "el": "Ένα οδικό ταξίδι μέσα στη βροχερή Βουρβουρού προσφέρει άνεση και εκθαμβωτική θέα από ένα στεγνό εσωτερικό. Το πρωί η λιμνοθάλασσα Λιβάρι μοιάζει με υδατογραφία. Το μεσημέρι το αυτοκίνητο παρέχει καταφύγιο μεταξύ στάσεων κατά τη διάρκεια πιο έντονων μπόρων. Το απόγευμα τα σημεία θέας επιτρέπουν να θαυμάσετε την αδρή ομορφιά της θάλασσας. Το βράδυ τελειώνει ζεστά σε μια ταβέρνα ακούγοντας τη βροχή έξω."
           },
           "stops": [
             {
@@ -812,13 +898,15 @@
                 "de": "Livari Strand",
                 "hu": "Livari strand",
                 "ro": "Plaja Livari",
-                "en": "Livari Beach"
+                "en": "Livari Beach",
+                "el": "Παραλία Λιβάρι"
               },
               "tip_5lang": {
                 "de": "Parken Sie nur auf befestigten Flächen, um nicht im nassen Boden stecken zu bleiben; genießen Sie den Blick auf die Lagune bequem durch die Frontscheibe.",
                 "hu": "Csak szilárd burkolatú felületen parkoljon, hogy ne akadjon el a felázott talajon; a lagúna látványát az autó szélvédője mögül is kényelmesen élvezheti.",
                 "ro": "Parcați doar pe suprafețe consolidate pentru a nu rămâne blocat în solul moale; bucurați-vă de vederea lagunei confortabil prin parbrizul mașinii.",
-                "en": "Park only on paved or solid surfaces to avoid getting stuck in wet soil; you can comfortably enjoy the view of the lagoon through the car windshield."
+                "en": "Park only on paved or solid surfaces to avoid getting stuck in wet soil; you can comfortably enjoy the view of the lagoon through the car windshield.",
+                "el": "Σταθμεύετε μόνο σε πλακόστρωτες ή στέρεες επιφάνειες για να αποφύγετε να βουλιάξετε στον υγρό χωματόδρομο· μπορείτε να απολαύσετε άνετα τη θέα της λιμνοθάλασσας μέσα από το παρμπρίζ του αυτοκινήτου."
               }
             },
             {
@@ -826,13 +914,15 @@
                 "de": "Vourvourou Strand",
                 "hu": "Vourvourou strand",
                 "ro": "Plaja Vourvourou",
-                "en": "Vourvourou Beach"
+                "en": "Vourvourou Beach",
+                "el": "Παραλία Βουρβουρού"
               },
               "tip_5lang": {
                 "de": "Lassen Sie das Gebläse auf die Scheiben gerichtet, um ein Beschlagen bei feuchter Kleidung zu vermeiden; ein kleiner Taschenschirm ist für den Weg zum Wasser ratsam.",
                 "hu": "Irányítsa a szellőzőket a szélvédőre, hogy elkerülje a párásodást; egy kis összecsukható esernyő hasznos lehet a parkolótól a partig tartó rövid úton.",
                 "ro": "Direcționați ventilația spre parbriz pentru a preveni aburirea din cauza hainelor umede; o umbrelă mică este utilă pentru drumul scurt până la apă.",
-                "en": "Keep the ventilation directed at the windshield to prevent fogging from damp clothes; a small folding umbrella is handy for the short walk to the water."
+                "en": "Keep the ventilation directed at the windshield to prevent fogging from damp clothes; a small folding umbrella is handy for the short walk to the water.",
+                "el": "Κρατήστε τον αερισμό στραμμένο στο παρμπρίζ για να αποτρέψετε την ομίχλη από βρεγμένα ρούχα· μια μικρή πτυσσόμενη ομπρέλα είναι βολική για τον σύντομο περίπατο ως το νερό."
               }
             },
             {
@@ -840,13 +930,15 @@
                 "de": "Vourvourou",
                 "hu": "Vourvourou",
                 "ro": "Vourvourou",
-                "en": "Vourvourou"
+                "en": "Vourvourou",
+                "el": "Βουρβουρού"
               },
               "tip_5lang": {
                 "de": "Fahren Sie im Ort langsam, da sich in den Senken tiefe Pfützen bilden können; nutzen Sie die Zeit für einen kurzen Stopp in einem der wenigen offenen Cafés.",
                 "hu": "A faluban vezessen lassan, mert az úthibákban mély tócsák alakulhatnak ki; használja ki az időt egy rövid kávészünetre az egyik nyitva tartó helyen.",
                 "ro": "Conduceți încet în sat, deoarece în gropi se pot forma bălți adânci; profitați de timp pentru o scurtă pauză de cafea într-unul dintre puținele locuri deschise.",
-                "en": "Drive slowly in the village, as deep puddles can form in road depressions; use the time for a quick coffee break in one of the few open establishments."
+                "en": "Drive slowly in the village, as deep puddles can form in road depressions; use the time for a quick coffee break in one of the few open establishments.",
+                "el": "Οδηγήστε αργά στο χωριό, καθώς μπορούν να σχηματιστούν βαθιές λακκούβες· χρησιμοποιήστε τον χρόνο για ένα γρήγορο διάλειμμα με καφέ σε ένα από τα λίγα ανοιχτά καταστήματα."
               }
             },
             {
@@ -854,13 +946,15 @@
                 "de": "Karidi Strand",
                 "hu": "Karidi strand",
                 "ro": "Plaja Karidi",
-                "en": "Karidi Beach"
+                "en": "Karidi Beach",
+                "el": "Παραλία Καρίδι"
               },
               "tip_5lang": {
                 "de": "Der sandige Parkplatz kann bei starkem Regen tückisch sein; bleiben Sie am Rand des befestigten Weges und genießen Sie das Rauschen der Brandung im Auto.",
                 "hu": "A homokos parkoló heves esőben csalóka lehet; maradjon a szilárd út szélén, és élvezze a hullámtörés morajlását az autó biztonságából.",
                 "ro": "Parcarea cu nisip poate fi înșelătoare în caz de ploaie torențială; rămâneți la marginea drumului consolidat și ascultați valurile din mașină.",
-                "en": "The sandy parking area can be treacherous in heavy rain; stay at the edge of the firm road and listen to the crashing waves from the safety of the car."
+                "en": "The sandy parking area can be treacherous in heavy rain; stay at the edge of the firm road and listen to the crashing waves from the safety of the car.",
+                "el": "Η αμμώδης περιοχή στάθμευσης μπορεί να γίνει επικίνδυνη σε έντονη βροχή· μείνετε στο χείλος του στερεού δρόμου και ακούστε τα σπασμένα κύματα από την ασφάλεια του αυτοκινήτου."
               }
             },
             {
@@ -868,13 +962,15 @@
                 "de": "Kleiner Karydi Strand",
                 "hu": "Kis Karydi strand",
                 "ro": "Plaja Mică Karydi",
-                "en": "Small Karydi Beach"
+                "en": "Small Karydi Beach",
+                "el": "Μικρή Παραλία Καρίδι"
               },
               "tip_5lang": {
                 "de": "Halten Sie eine Packung Taschentücher bereit, um die Fenster von innen trocken zu wischen; die Sicht auf die Inseln ist bei Regen besonders atmosphärisch.",
                 "hu": "Tartson kéznél törlőkendőt a szélvédő belső tisztításához a párásodás ellen; a szigetek látványa esőben különlegesen hangulatos a kilátópontokról.",
                 "ro": "Țineți la îndemână șervețele pentru a curăța parbrizul pe interior împotriva aburirii; vederea insulelor pe ploaie este extrem de atmosferică.",
-                "en": "Keep a pack of tissues handy to wipe the inside of the windows; the view of the islands in the rain is particularly atmospheric from the car windows."
+                "en": "Keep a pack of tissues handy to wipe the inside of the windows; the view of the islands in the rain is particularly atmospheric from the car windows.",
+                "el": "Έχετε ένα πακέτο χαρτομάντιλα πρόχειρο για να σκουπίζετε το εσωτερικό των παραθύρων· η θέα προς τα νησιά στη βροχή είναι ιδιαίτερα ατμοσφαιρική από τα παράθυρα του αυτοκινήτου."
               }
             },
             {
@@ -882,13 +978,15 @@
                 "de": "Fava Strand",
                 "hu": "Fava strand",
                 "ro": "Plaja Fava",
-                "en": "Fava beach"
+                "en": "Fava beach",
+                "el": "Παραλία Φάβα"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie Ihre Scheibenwischer vor der Abfahrt nach Fava, da gute Sicht bei den engen Straßen essenziell ist; packen Sie Decken für ein Picknick im Auto ein.",
                 "hu": "Indulás előtt ellenőrizze az ablaktörlőket, mert a szűk utakon a jó látási viszony elengedhetetlen; vigyen pokrócot egy kényelmes autós uzsonnához.",
                 "ro": "Verificați ștergătoarele înainte de plecare, deoarece vizibilitatea bună pe străzile înguste este esențială; luați pături pentru o gustare în mașină.",
-                "en": "Check your wipers before heading to Fava, as good visibility is essential on the narrow roads; pack blankets for a cozy picnic inside the car."
+                "en": "Check your wipers before heading to Fava, as good visibility is essential on the narrow roads; pack blankets for a cozy picnic inside the car.",
+                "el": "Ελέγξτε τα υαλοκαθαριστήρια πριν κατευθυνθείτε προς τη Φάβα, καθώς η καλή ορατότητα είναι απαραίτητη στους στενούς δρόμους· πακετάρετε κουβέρτες για ένα ζεστό πικνίκ μέσα στο αυτοκίνητο."
               }
             }
           ]
@@ -898,7 +996,8 @@
             "de": "Eine Wintertour mit dem Auto offenbart die stille Schönheit der Küste in absoluter Einsamkeit. Morgens leuchtet der frostige Strand von Livari im ersten Licht. Mittags bietet das beheizte Fahrzeug eine warme Basis für Ausflüge an die menschenleeren Buchten. Nachmittags sinkt die Sonne früh und taucht alles in sanftes Orange. Ab 17:00 Uhr hüllt die Dunkelheit das schlafende Dorf ein.",
             "hu": "A téli autós túra a part menti táj csendes szépségét tárja fel teljes magányban. Reggel a Livari-strand zúzmarás homokja csillog az első fényekben. Délben a fűtött utastér meleg bázist nyújt a kihalt öblök látogatásához. Délután a nap korán nyugszik, lágy narancssárga fénybe vonva a tájat. 17:00 után a sötétség rátelepszik az alvó falura.",
             "ro": "O tură de iarnă cu mașina dezvăluie frumusețea tăcută a coastei în singurătate deplină. Dimineața, plaja înghețată de la Livari strălucește în prima lumină. La prânz, mașina încălzită oferă o bază confortabilă pentru vizitarea golfurilor pustii. După-amiaza soarele apune devreme, colorând totul în portocaliu. După ora 17:00, întunericul cuprinde satul.",
-            "en": "A winter car tour reveals the quiet beauty of the coastline in absolute solitude. In the morning, the frosty beach of Livari glistens in the first light. At noon, the heated car provides a warm base for visiting the deserted bays. In the afternoon, the sun sets early, bathing everything in soft orange. After 5 PM, darkness envelops the sleeping village."
+            "en": "A winter car tour reveals the quiet beauty of the coastline in absolute solitude. In the morning, the frosty beach of Livari glistens in the first light. At noon, the heated car provides a warm base for visiting the deserted bays. In the afternoon, the sun sets early, bathing everything in soft orange. After 5 PM, darkness envelops the sleeping village.",
+            "el": "Μια χειμωνιάτικη εκδρομή με αυτοκίνητο αποκαλύπτει την ήσυχη ομορφιά της ακτής σε απόλυτη απομόνωση. Το πρωί η παγωμένη παραλία Λιβάρι αστράφτει στο πρώτο φως. Το μεσημέρι το ζεστό αυτοκίνητο παρέχει μια ζεστή βάση για επισκέψεις στους έρημους κόλπους. Το απόγευμα ο ήλιος δύει νωρίς, λούζοντας τα πάντα σε μαλακό πορτοκαλί. Μετά τις 17:00 το σκοτάδι σκεπάζει το κοιμώμενο χωριό."
           },
           "stops": [
             {
@@ -906,13 +1005,15 @@
                 "de": "Livari Strand",
                 "hu": "Livari strand",
                 "ro": "Plaja Livari",
-                "en": "Livari Beach"
+                "en": "Livari Beach",
+                "el": "Παραλία Λιβάρι"
               },
               "tip_5lang": {
                 "de": "Die Luftfeuchtigkeit kann morgens zu gefrorenen Scheiben führen, halten Sie einen Eiskratzer bereit; die Ruhe an der Lagune ist im Winter unvergleichlich.",
                 "hu": "A reggeli pára miatt lefagyhatnak az ablakok, legyen kéznél jégkaparó; a lagúna melletti csend télen semmihez sem fogható, érdemes megállni egy pillanatra.",
                 "ro": "Umiditatea de dimineață poate duce la înghețarea geamurilor, pregătiți o racletă; liniștea de la lagună este inegalabilă iarna, merită o oprire scurtă.",
-                "en": "Morning humidity can lead to frozen windows, so keep an ice scraper handy; the silence at the lagoon is incomparable in winter, worth a quiet stop."
+                "en": "Morning humidity can lead to frozen windows, so keep an ice scraper handy; the silence at the lagoon is incomparable in winter, worth a quiet stop.",
+                "el": "Η πρωινή υγρασία μπορεί να προκαλέσει παγωμένα παράθυρα, οπότε κρατήστε ένα ξυστήρι πάγου πρόχειρο· η σιωπή στη λιμνοθάλασσα είναι ανεπανάληπτη το χειμώνα, άξια μιας ήσυχης στάσης."
               }
             },
             {
@@ -920,13 +1021,15 @@
                 "de": "Vourvourou Strand",
                 "hu": "Vourvourou strand",
                 "ro": "Plaja Vourvourou",
-                "en": "Vourvourou Beach"
+                "en": "Vourvourou Beach",
+                "el": "Παραλία Βουρβουρού"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Sitzheizung, um sich nach einem kurzen Fotostopp am Wasser schnell wieder aufzuwärmen; der Kontrast zwischen blauem Meer und kühler Luft ist toll.",
                 "hu": "Használja az ülésfűtést a parti fotózás utáni gyors felmelegedéshez; a kék tenger és a hűvös, tiszta levegő kontrasztja csodás látványt nyújt télen.",
                 "ro": "Folosiți încălzirea în scaune pentru a vă încălzi rapid după un scurt popas foto la apă; contrastul dintre marea albastră și aerul rece este superb iarna.",
-                "en": "Use the seat heating to warm up quickly after a short photo stop by the water; the contrast between the blue sea and the crisp air is wonderful in winter."
+                "en": "Use the seat heating to warm up quickly after a short photo stop by the water; the contrast between the blue sea and the crisp air is wonderful in winter.",
+                "el": "Χρησιμοποιήστε τη θέρμανση καθισμάτων για να ζεσταθείτε γρήγορα μετά από μια σύντομη στάση για φωτογραφία δίπλα στη θάλασσα· η αντίθεση μεταξύ της μπλε θάλασσας και του καθαρού αέρα είναι υπέροχη το χειμώνα."
               }
             },
             {
@@ -934,13 +1037,15 @@
                 "de": "Vourvourou",
                 "hu": "Vourvourou",
                 "ro": "Vourvourou",
-                "en": "Vourvourou"
+                "en": "Vourvourou",
+                "el": "Βουρβουρού"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf eventuelle Winterreifen-Vorschriften, falls Sie aus den Bergen anreisen; füllen Sie Frostschutzmittel in die Scheibenwaschanlage Ihres Autos.",
                 "hu": "Ügyeljen a téli gumi használatára, ha a hegyek felől érkezik; töltse fel az ablakmosót fagyálló folyadékkal a tiszta kilátás érdekében a falu környékén.",
                 "ro": "Verificați dacă aveți anvelope de iarnă corespunzătoare dacă veniți din zone montane; umpleți rezervorul de spălare a parbrizului cu lichid antigrizant.",
-                "en": "Pay attention to winter tire regulations if you are arriving from the mountains; fill your windshield washer reservoir with antifreeze fluid for clear visibility."
+                "en": "Pay attention to winter tire regulations if you are arriving from the mountains; fill your windshield washer reservoir with antifreeze fluid for clear visibility.",
+                "el": "Δώστε προσοχή στους κανονισμούς χειμερινών ελαστικών αν έρχεστε από τα βουνά· γεμίστε το δοχείο υαλοκαθαριστήρων με αντιψυκτικό υγρό για σαφή ορατότητα."
               }
             },
             {
@@ -948,13 +1053,15 @@
                 "de": "Karidi Strand",
                 "hu": "Karidi strand",
                 "ro": "Plaja Karidi",
-                "en": "Karidi Beach"
+                "en": "Karidi Beach",
+                "el": "Παραλία Καρίδι"
               },
               "tip_5lang": {
                 "de": "Sie können direkt am Strand parken, was im Sommer unmöglich ist; genießen Sie ein warmes Getränk im Auto mit direktem Blick auf die berühmten Felsen.",
                 "hu": "Télen közvetlenül a strandnál is parkolhat, ami nyáron lehetetlen; fogyasszon el egy meleg italt az autóban, közvetlen kilátással a híres sziklákra.",
                 "ro": "Iarna puteți parca direct lângă plajă, ceea ce este imposibil vara; savurați o băutură caldă în mașină cu vedere directă spre stâncile celebre.",
-                "en": "In winter you can park right by the beach, which is impossible in summer; enjoy a warm drink in the car with a direct view of the famous rock formations."
+                "en": "In winter you can park right by the beach, which is impossible in summer; enjoy a warm drink in the car with a direct view of the famous rock formations.",
+                "el": "Το χειμώνα μπορείτε να σταθμεύσετε ακριβώς δίπλα στην παραλία, κάτι αδύνατο το καλοκαίρι· απολαύστε ένα ζεστό ρόφημα μέσα στο αυτοκίνητο με άμεση θέα στις διάσημες βραχώδεις διαμορφώσεις."
               }
             },
             {
@@ -962,13 +1069,15 @@
                 "de": "Kleiner Karydi Strand",
                 "hu": "Kis Karydi strand",
                 "ro": "Plaja Mică Karydi",
-                "en": "Small Karydi Beach"
+                "en": "Small Karydi Beach",
+                "el": "Μικρή Παραλία Καρίδι"
               },
               "tip_5lang": {
                 "de": "Da es hier kaum Windschutz für Autos gibt, kühlt der Innenraum bei Motorstopp schnell aus; lassen Sie die Jacken griffbereit für kurze Erkundungen im Freien.",
                 "hu": "Mivel itt kevés a szélvédett parkolóhely, az autó hamar lehűlhet álló motorral; tartsa a kabátokat kéznél a rövid, de frissítő parti sétákhoz.",
                 "ro": "Deoarece sunt puține locuri de parcare protejate, mașina se poate răci rapid cu motorul oprit; țineți jachetele la îndemână pentru scurte plimbări pe plajă.",
-                "en": "As there are few sheltered parking spots here, the car can cool down quickly with the engine off; keep your jackets handy for short, refreshing beach walks."
+                "en": "As there are few sheltered parking spots here, the car can cool down quickly with the engine off; keep your jackets handy for short, refreshing beach walks.",
+                "el": "Εφόσον υπάρχουν λίγες προστατευμένες θέσεις στάθμευσης εδώ, το αυτοκίνητο μπορεί να κρυώσει γρήγορα με τον κινητήρα σβηστό· κρατήστε τα μπουφάν πρόχειρα για σύντομους, δροσιστικούς περιπάτους στην παραλία."
               }
             },
             {
@@ -976,13 +1085,15 @@
                 "de": "Fava Strand",
                 "hu": "Fava strand",
                 "ro": "Plaja Fava",
-                "en": "Fava beach"
+                "en": "Fava beach",
+                "el": "Παραλία Φάβα"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihren Besuch vor 16:30 Uhr, um die kurvige Rückfahrt noch bei Restlicht zu bewältigen; prüfen Sie Ihre Autobatterie wegen der niedrigen Temperaturen.",
                 "hu": "Fejezze be a látogatást 16:30 előtt, hogy a kanyargós visszautat még világosban tegye meg; ellenőrizze az autó akkumulátorát az alacsony hőmérséklet miatt.",
                 "ro": "Încheiați vizita înainte de 16:30 pentru a parcurge drumul sinuos de întoarcere pe lumină; verificați bateria mașinii din cauza temperaturilor scăzute.",
-                "en": "End your visit before 4:30 PM to manage the winding return drive while there's still light; check your car battery due to the low winter temperatures."
+                "en": "End your visit before 4:30 PM to manage the winding return drive while there's still light; check your car battery due to the low winter temperatures.",
+                "el": "Τελειώστε την επίσκεψη πριν τις 16:30 για να διαχειριστείτε την επαρχιακή επιστροφή σε δρόμους με στροφές ενώ υπάρχει ακόμα φως· ελέγξτε την μπαταρία του αυτοκινήτου λόγω των χαμηλών χειμωνιάτικων θερμοκρασιών."
               }
             }
           ]

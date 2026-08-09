@@ -32,7 +32,8 @@
             "de": "Genießen Sie hier einen traditionellen griechischen Kaffee.",
             "hu": "Igyon meg egy hagyományos görög kávét a téren.",
             "ro": "Savurați o cafea tradițională grecească aici.",
-            "en": "Enjoy a traditional Greek coffee in the square."
+            "en": "Enjoy a traditional Greek coffee in the square.",
+            "el": "Απόλαυσε έναν παραδοσιακό ελληνικό καφέ στην πλατεία."
           }
         },
         {
@@ -51,7 +52,8 @@
             "de": "Der mythische Held soll hier in der Nähe geboren sein.",
             "hu": "A mitikus hős állítólag itt a közelben született.",
             "ro": "Eroul mitic se spune că s-a născut în apropiere.",
-            "en": "The mythical hero is said to have been born nearby."
+            "en": "The mythical hero is said to have been born nearby.",
+            "el": "Ο μυθικός ήρωας λέγεται ότι γεννήθηκε κοντά."
           }
         },
         {
@@ -70,7 +72,8 @@
             "de": "Lernen Sie alles über die berühmte Schlacht von Pharsalos.",
             "hu": "Tudjon meg mindent a híres pharsalosi csatáról.",
             "ro": "Aflați totul despre faimoasa bătălie de la Pharsalus.",
-            "en": "Learn everything about the famous Battle of Pharsalus."
+            "en": "Learn everything about the famous Battle of Pharsalus.",
+            "el": "Μάθε τα πάντα για τη διάσημη Μάχη των Φαρσάλων."
           }
         },
         {
@@ -89,7 +92,8 @@
             "de": "Achten Sie auf die byzantinischen architektonischen Details.",
             "hu": "Figyelje meg a bizánci építészeti részleteket.",
             "ro": "Observați detaliile arhitecturale bizantine.",
-            "en": "Notice the Byzantine architectural details."
+            "en": "Notice the Byzantine architectural details.",
+            "el": "Παρατήρησε τα βυζαντινά αρχιτεκτονικά στοιχεία."
           }
         },
         {
@@ -108,7 +112,8 @@
             "de": "Ein kühler Rückzugsort an heißen Sommertagen.",
             "hu": "Hűvös menedék a forró nyári napokon.",
             "ro": "Un refugiu răcoros în zilele toride de vară.",
-            "en": "A cool retreat on hot summer days."
+            "en": "A cool retreat on hot summer days.",
+            "el": "Μια δροσερή ανάπαυλα τις ζεστές καλοκαιρινές ημέρες."
           }
         },
         {
@@ -127,7 +132,8 @@
             "de": "Der Aufstieg lohnt sich für den Panoramablick.",
             "hu": "A mászás megéri a lenyűgöző panorámáért.",
             "ro": "Urcușul merită pentru vederea panoramică.",
-            "en": "The climb is worth it for the panoramic view."
+            "en": "The climb is worth it for the panoramic view.",
+            "el": "Η ανάβαση αξίζει για την πανοραμική θέα."
           }
         }
       ],
@@ -135,7 +141,8 @@
         "de": "Wir beginnen den Tag im traditionellen Stadtzentrum, wo das Herz von Farsala schlägt. Ein kurzer Spaziergang führt zur Achilles-Statue, gefolgt von historischen Entdeckungen im Museum. Vor dem Mittagessen besuchen wir die ruhige Kirche Agios Antonios. Danach spazieren wir zu den kühlen Enipeas-Quellen am Stadtrand. Den krönenden Abschluss bildet der Aufstieg zur antiken Akropolis, wo uns ein weitreichender Ausblick über die thessalische Ebene erwartet.",
         "hu": "A napot a hagyományos városközpontban kezdjük, ahol Farsala szíve dobog. Egy rövid séta elvezet az Akhilleusz-szoborhoz, majd történelmi felfedezések várnak a múzeumban. Ebéd előtt meglátogatjuk a csendes Agios Antonios templomot. Ezután a hűsítő Enipeas-forrásokhoz sétálunk a város szélén. A nap fénypontja az ókori Akropolisz megmászása, ahonnan csodálatos kilátás nyílik a thesszáliai síkságra.",
         "ro": "Începem ziua în centrul tradițional al orașului, unde bate inima Farsalei. O scurtă plimbare duce la Statuia lui Ahile, urmată de descoperiri istorice la muzeu. Înainte de prânz, vizităm liniștita Biserică Agios Antonios. Apoi, ne plimbăm către izvoarele răcoroase Enipeas de la marginea orașului. Punctul culminant este urcarea la Acropola antică, de unde avem o priveliște panoramică asupra câmpiei tesaliene.",
-        "en": "We start the day in the traditional town center, where the heart of Farsala beats. A short walk leads to the Achilles Statue, followed by historical discoveries at the museum. Before lunch, we visit the quiet Agios Antonios Church. We then stroll to the refreshing Enipeas Springs on the outskirts. The highlight is the climb to the ancient Acropolis, rewarding us with sweeping views across the Thessalian plain."
+        "en": "We start the day in the traditional town center, where the heart of Farsala beats. A short walk leads to the Achilles Statue, followed by historical discoveries at the museum. Before lunch, we visit the quiet Agios Antonios Church. We then stroll to the refreshing Enipeas Springs on the outskirts. The highlight is the climb to the ancient Acropolis, rewarding us with sweeping views across the Thessalian plain.",
+        "el": "Ξεκινάμε τη μέρα στο παραδοσιακό κέντρο της πόλης, όπου χτυπά η καρδιά των Φαρσάλων. Μια σύντομη βόλτα οδηγεί στο Άγαλμα του Αχιλλέα, ακολουθούν ιστορικές ανακαλύψεις στο μουσείο. Πριν το μεσημέρι επισκεπτόμαστε την ήσυχη εκκλησία του Αγίου Αντωνίου. Έπειτα περπατάμε προς τις δροσιστικές πηγές του Ενιπέα στα περίχωρα. Το αποκορύφωμα είναι η ανάβαση στην αρχαία ακρόπολη, που μας ανταμείβει με απλωμένες θέες πάνω στη θεσσαλική πεδιάδα."
       },
       "gastro_picks": {
         "de": [
@@ -279,6 +286,12 @@
           "In summer, it is best to visit the ruins early in the morning.",
           "Ask in cafes about the story of Achilles.",
           "Locals are very proud of their halva – it makes a perfect gift."
+        ],
+        "el": [
+          "Φόρα άνετα παπούτσια για την ανάβαση στην ακρόπολη.",
+          "Το καλοκαίρι είναι καλύτερο να επισκεφθείς τα ερείπια νωρίς το πρωί.",
+          "Ρώτα στα καφέ για την ιστορία του Αχιλλέα.",
+          "Οι ντόπιοι είναι πολύ περήφανοι για το χαλβά τους – είναι το τέλειο δώρο."
         ]
       },
       "variants": {
@@ -287,7 +300,8 @@
             "de": "Morgens im Zentrum bieten Cafés Schutz vor dem Regen. Der Achilles-Platz glänzt nass, aber Vorsicht vor Pfützen. Mittags ist die Archäologische Sammlung der perfekte trockene Rückzugsort. Nachmittags bei der Kirche und den Quellen ist festes Schuhwerk Pflicht, da die Wege aufweichen. Abends endet die Tour im Stadtkern, wo man bei regionalen Speisen den Regen draußen vergisst.",
             "hu": "Reggel a központ kávézói nyújtanak menedéket a zivatar elől. Akhilleusz szobra vizesen csillog, de vigyázzon a tócsákra. Délben a Régészeti Gyűjtemény tökéletes fedett helyszín. Délután a templom és a források környékén sárra kell készülni, a túrabakancs elengedhetetlen. Estére a városmagba érünk vissza, ahol a helyi fogások mellett a kopogó eső már csak hangulatos háttérzaj.",
             "ro": "Dimineața, cafenelele din centru oferă adăpost împotriva aversei. Statuia lui Ahile strălucește în ploaie, dar atenție la bălți. La prânz, Colecția Arheologică este refugiul interior perfect. După-amiaza, la biserică și izvoare, noroiul este inevitabil, deci încălțămintea impermeabilă este obligatorie. Seara se încheie în nucleul urban, unde mâncarea caldă vă face să uitați de vremea de afară.",
-            "en": "Morning rain finds you seeking shelter in the town center's cafes. Achilles' statue glimmers when wet, but watch out for puddles. By noon, the Archaeological Collection provides a dry sanctuary. Afternoon visits to the church and springs require waterproof boots as paths get muddy. The evening ends back in the core, where local dishes warm you up while the rain patters on the windows."
+            "en": "Morning rain finds you seeking shelter in the town center's cafes. Achilles' statue glimmers when wet, but watch out for puddles. By noon, the Archaeological Collection provides a dry sanctuary. Afternoon visits to the church and springs require waterproof boots as paths get muddy. The evening ends back in the core, where local dishes warm you up while the rain patters on the windows.",
+            "el": "Η πρωινή βροχή σε βρίσκει να αναζητάς καταφύγιο στα καφέ του κέντρου. Το άγαλμα του Αχιλλέα λαμπυρίζει όταν βραχεί, αλλά πρόσεχε τις λακκούβες. Μέχρι το μεσημέρι, η Αρχαιολογική Συλλογή παρέχει ξηρό καταφύγιο. Οι απογευματινές επισκέψεις στην εκκλησία και τις πηγές απαιτούν αδιάβροχες μπότες καθώς τα μονοπάτια γίνονται λασπωμένα. Το βράδυ τελειώνει ξανά στο κέντρο, όπου τα τοπικά πιάτα σε ζεσταίνουν ενώ η βροχή χτυπά τα παράθυρα."
           },
           "stops": [
             {
@@ -296,7 +310,8 @@
                 "de": "Unter den Markisen der Cafés bleiben Sie trocken.",
                 "hu": "A kávézók előtetői alatt szárazon maradhat.",
                 "ro": "Rămâneți uscat sub copertinele cafenelelor.",
-                "en": "Stay dry under the cafe awnings."
+                "en": "Stay dry under the cafe awnings.",
+                "el": "Μείνε στεγνός κάτω από τις τέντες των καφέ."
               }
             },
             {
@@ -305,7 +320,8 @@
                 "de": "Vorsicht, das Pflaster um die Statue ist rutschig.",
                 "hu": "Vigyázat, a szobor körüli kövezet csúszik.",
                 "ro": "Atenție, pavajul din jurul statuii este alunecos.",
-                "en": "Caution, the pavement around the statue is slippery."
+                "en": "Caution, the pavement around the statue is slippery.",
+                "el": "Προσοχή, το πλακόστρωτο γύρω από το άγαλμα είναι ολισθηρό."
               }
             },
             {
@@ -314,7 +330,8 @@
                 "de": "Ideale Zeit für eine ausführliche Indoor-Besichtigung.",
                 "hu": "Ideális időpont egy alapos benti nézelődéshez.",
                 "ro": "Moment ideal pentru o vizită detaliată în interior.",
-                "en": "Ideal time for a detailed indoor visit."
+                "en": "Ideal time for a detailed indoor visit.",
+                "el": "Ιδανική ώρα για λεπτομερή εσωτερική επίσκεψη."
               }
             },
             {
@@ -323,7 +340,8 @@
                 "de": "Der Innenraum bietet Stille und Schutz vor dem Guss.",
                 "hu": "A belső tér csendet és védelmet nyújt a zápor elől.",
                 "ro": "Interiorul oferă liniște și protecție împotriva ploii.",
-                "en": "The interior offers silence and shelter from the downpour."
+                "en": "The interior offers silence and shelter from the downpour.",
+                "el": "Το εσωτερικό προσφέρει σιωπή και καταφύγιο από τη μπόρα."
               }
             },
             {
@@ -332,7 +350,8 @@
                 "de": "Die Wege zu den Quellen können bei Regen sehr matschig sein.",
                 "hu": "Az utak a forrásokhoz esőben nagyon sárosak lehetnek.",
                 "ro": "Potecile spre izvoare pot fi foarte noroioase pe ploaie.",
-                "en": "The paths to the springs can be very muddy in the rain."
+                "en": "The paths to the springs can be very muddy in the rain.",
+                "el": "Τα μονοπάτια προς τις πηγές μπορούν να γίνουν πολύ λασπώδη στη βροχή."
               }
             },
             {
@@ -341,7 +360,8 @@
                 "de": "Steile Pfade sind rutschig; nutzen Sie Wanderstöcke.",
                 "hu": "A meredek ösvények csúsznak; használjon túrabotot.",
                 "ro": "Potecile abrupte sunt alunecoase; folosiți bețe de trekking.",
-                "en": "Steep paths are slippery; use trekking poles."
+                "en": "Steep paths are slippery; use trekking poles.",
+                "el": "Τα απότομα μονοπάτια είναι ολισθηρά· χρησιμοποίησε μπαστούνια ορειβασίας."
               }
             }
           ],
@@ -369,6 +389,12 @@
               "Wear waterproof hiking boots for the climb to the ancient acropolis.",
               "The Archaeological Collection is often closed on Mondays; check the hours.",
               "During heavy rain, the water level at the Enipeas springs can rise quickly."
+            ],
+            "el": [
+              "Μια στιβαρή ομπρέλα είναι συχνά καλύτερη από ένα λεπτό πανωφόρι λόγω των ριπών στον λόφο της ακρόπολης.",
+              "Φόρα αδιάβροχες ορειβατικές μπότες για την ανάβαση στην αρχαία ακρόπολη.",
+              "Η Αρχαιολογική Συλλογή συχνά κλείνει τις Δευτέρες· έλεγξε τις ώρες λειτουργίας.",
+              "Κατά τη διάρκεια ισχυρής βροχής, το επίπεδο νερού στις πηγές του Ενιπέα μπορεί να ανέβει γρήγορα."
             ]
           }
         },
@@ -377,7 +403,8 @@
             "de": "Der Wintermorgen beginnt frisch im Zentrum mit einem starken griechischen Kaffee. Achilles steht einsam im kühlen Wind. Mittags wärmen die Exponate im Museum Geist und Körper. Nachmittags ist das Licht bei den Quellen und der Akropolis tiefstehend und klar, ideal für Fotos vor dem frühen Sonnenuntergang um 17:15 Uhr. Der Tag endet gemütlich in einer Taverne am Kamin.",
             "hu": "A téli reggel frissen indul a központban egy erős görög kávéval. Akhilleusz magányosan áll a hűvös szélben. Délben a múzeum tárlatai melengetik a testet és a lelket. Délután a fények a forrásoknál és az akropolisznál mélyek és tiszták, tökéletesek a fotózáshoz a korai, 17:15-ös naplemente előtt. A nap egy kandallós tavernában ér véget.",
             "ro": "Dimineața de iarnă începe proaspăt în centru cu o cafea grecească tare. Ahile stă singur în vântul rece. La prânz, exponatele din muzeu încălzesc spiritul și corpul. După-amiaza, lumina la izvoare și acropolă este joasă și clară, ideală pentru fotografii înainte de apusul devreme de la 17:15. Ziua se încheie confortabil într-o tavernă lângă șemineu.",
-            "en": "The winter morning starts crisp in the center with a strong Greek coffee. Achilles stands lonely in the cool wind. By noon, the museum exhibits warm both mind and body. In the afternoon, the light at the springs and acropolis is low and sharp, perfect for photos before the early sunset at 17:15. The day concludes cozily in a tavern by the fireplace."
+            "en": "The winter morning starts crisp in the center with a strong Greek coffee. Achilles stands lonely in the cool wind. By noon, the museum exhibits warm both mind and body. In the afternoon, the light at the springs and acropolis is low and sharp, perfect for photos before the early sunset at 17:15. The day concludes cozily in a tavern by the fireplace.",
+            "el": "Το χειμωνιάτικο πρωί ξεκινά δροσερό στο κέντρο με ένα δυνατό ελληνικό καφέ. Ο Αχιλλέας στέκεται μόνος στον δροσερό άνεμο. Μέχρι το μεσημέρι, τα εκθέματα του μουσείου ζεσταίνουν νου και σώμα. Το απόγευμα, το φως στις πηγές και στην ακρόπολη είναι χαμηλό και κοφτερό, ιδανικό για φωτογραφίες πριν το νωρίς ηλιοβασίλεμα στις 17:15. Η μέρα ολοκληρώνεται ζεστά σε μια ταβέρνα δίπλα στο τζάκι."
           },
           "stops": [
             {
@@ -386,7 +413,8 @@
                 "de": "Probieren Sie heiße 'Halvas Farsalon' in den Konditoreien.",
                 "hu": "Kóstolja meg a forró farsalai halvát a cukrászdákban.",
                 "ro": "Gustați halvița fierbinte de Farsala în cofetării.",
-                "en": "Try the hot 'Halvas Farsalon' in the local pastry shops."
+                "en": "Try the hot 'Halvas Farsalon' in the local pastry shops.",
+                "el": "Δοκιμάστε τον ζεστό «Χαλβά Φαρσάλων» στα τοπικά ζαχαροπλαστεία."
               }
             },
             {
@@ -395,7 +423,8 @@
                 "de": "Der Platz ist oft windig, halten Sie Schal und Mütze bereit.",
                 "hu": "A tér gyakran szeles, legyen kéznél sál és sapka.",
                 "ro": "Piața este adesea bântuită de vânt, pregătiți fularul.",
-                "en": "The square is often windy; have a scarf and hat ready."
+                "en": "The square is often windy; have a scarf and hat ready.",
+                "el": "Η πλατεία συχνά έχει άνεμο· να έχετε έτοιμο κασκόλ και καπέλο."
               }
             },
             {
@@ -404,7 +433,8 @@
                 "de": "Nutzen Sie die Mittagszeit, um sich im Gebäude aufzuwärmen.",
                 "hu": "Használja ki a délidőt a benti bemelegedésre.",
                 "ro": "Folosiți timpul prânzului pentru a vă încălzi în interior.",
-                "en": "Use the midday to warm up inside the building."
+                "en": "Use the midday to warm up inside the building.",
+                "el": "Χρησιμοποιήστε το μεσημέρι για να ζεσταθείτε μέσα στο κτίριο."
               }
             },
             {
@@ -413,7 +443,8 @@
                 "de": "Im Inneren ist es deutlich milder als auf den Straßen.",
                 "hu": "Odabent jóval enyhébb az idő, mint az utcákon.",
                 "ro": "În interior este mult mai blând decât pe străzi.",
-                "en": "Inside it is significantly milder than on the streets."
+                "en": "Inside it is significantly milder than on the streets.",
+                "el": "Μέσα είναι αισθητά πιο ήπια απ’ ό,τι στους δρόμους."
               }
             },
             {
@@ -422,7 +453,8 @@
                 "de": "Das Wasser wirkt im Winter dampfend, ein mystischer Anblick.",
                 "hu": "A víz télen gőzölgőnek tűnhet, misztikus látvány.",
                 "ro": "Apa poate părea aburindă iarna, o vedere mistică.",
-                "en": "The water may appear steaming in winter, a mystical sight."
+                "en": "The water may appear steaming in winter, a mystical sight.",
+                "el": "Το νερό μπορεί να φαίνεται να βγάζει ατμούς το χειμώνα, ένα μυστηριακό θέαμα."
               }
             },
             {
@@ -431,7 +463,8 @@
                 "de": "Früher Aufbruch nötig, um vor der Dunkelheit abzusteigen.",
                 "hu": "Korán induljon, hogy sötétedés előtt leérjen.",
                 "ro": "Porniți devreme pentru a coborî înainte de întuneric.",
-                "en": "Start early to descend before darkness falls."
+                "en": "Start early to descend before darkness falls.",
+                "el": "Ξεκινήστε νωρίς για να κατεβείτε πριν σκοτεινιάσει."
               }
             }
           ],
@@ -459,6 +492,12 @@
               "Sunset is around 17:15 in December; plan to descend by 16:45.",
               "Farsala's pastry shops are famous for their halva, which tastes best in winter.",
               "Watch out for frost on the ancient stones of the Acropolis."
+            ],
+            "el": [
+              "Τα στρώματα ρούχων είναι το κλειδί: η ανάβαση σας ζεσταίνει, αλλά στην κορυφή συχνά έχει άνεμο.",
+              "Το ηλιοβασίλεμα είναι γύρω στις 17:15 τον Δεκέμβριο· σχεδιάστε να κατεβείτε μέχρι τις 16:45.",
+              "Τα ζαχαροπλαστεία των Φαρσάλων είναι διάσημα για τον χαλβά τους, που έχει καλύτερη γεύση το χειμώνα.",
+              "Προσέξτε για πάγο πάνω στις αρχαίες πέτρες της Ακρόπολης."
             ]
           }
         }
@@ -488,7 +527,8 @@
             "de": "Starten Sie den Tag beim berühmtesten Sohn der Stadt.",
             "hu": "Kezdje a napot a város leghíresebb szülötténél.",
             "ro": "Începeți ziua la cel mai faimos fiu al orașului.",
-            "en": "Start the day at the city's most famous son."
+            "en": "Start the day at the city's most famous son.",
+            "el": "Ξεκινήστε την ημέρα από τον πιο διάσημο γιο της πόλης."
           }
         },
         {
@@ -507,7 +547,8 @@
             "de": "Parken Sie das Rad kurz für einen Kaffee.",
             "hu": "Tegye le a biciklit egy rövid kávéra.",
             "ro": "Parcați bicicleta scurt pentru o cafea.",
-            "en": "Park the bike briefly for a coffee."
+            "en": "Park the bike briefly for a coffee.",
+            "el": "Παρκάρετε το ποδήλατο για λίγο για έναν καφέ."
           }
         },
         {
@@ -526,7 +567,8 @@
             "de": "Ein schöner Fotostopp auf dem Weg zu den Quellen.",
             "hu": "Szép fotómegálló a források felé vezető úton.",
             "ro": "O oprire frumoasă pentru fotografii în drum spre izvoare.",
-            "en": "A nice photo stop on the way to the springs."
+            "en": "A nice photo stop on the way to the springs.",
+            "el": "Ένα ωραίο σημείο για φωτογραφία στο δρόμο προς τις πηγές."
           }
         },
         {
@@ -545,7 +587,8 @@
             "de": "Füllen Sie hier Ihre Wasserflaschen auf.",
             "hu": "Töltse meg itt a kulacsát.",
             "ro": "Umpleți sticlele de apă aici.",
-            "en": "Refill your water bottles here."
+            "en": "Refill your water bottles here.",
+            "el": "Γεμίστε εδώ τα παγούρια σας."
           }
         },
         {
@@ -564,7 +607,8 @@
             "de": "Der Anstieg mit dem Rad erfordert etwas Ausdauer.",
             "hu": "A kerékpáros emelkedő némi kitartást igényel.",
             "ro": "Urcușul cu bicicleta necesită puțină rezistență.",
-            "en": "The climb by bike requires some stamina."
+            "en": "The climb by bike requires some stamina.",
+            "el": "Η ανάβαση με ποδήλατο απαιτεί κάποια αντοχή."
           }
         },
         {
@@ -583,7 +627,8 @@
             "de": "Eine gemütliche Fahrt aus der Stadt hinaus in die Ebenen.",
             "hu": "Kellemes túra a városból kifelé a síkságra.",
             "ro": "O plimbare plăcută în afara orașului, spre câmpii.",
-            "en": "A pleasant ride out of town onto the plains."
+            "en": "A pleasant ride out of town onto the plains.",
+            "el": "Μια ευχάριστη βόλτα έξω από την πόλη προς τις πεδιάδες."
           }
         }
       ],
@@ -591,7 +636,8 @@
         "de": "Die Radtour durch Farsala verbindet Stadtgeschichte mit ländlichen Ausflügen. Nach dem Besuch der Achilles-Statue und einem Kaffee im Zentrum radeln wir zur Kirche und den frischen Enipeas-Quellen. Danach folgt der anspruchsvollere Aufstieg zur Akropolis. Den Abschluss bildet eine entspannte Fahrt über Land zum Denkmal der historischen Schlacht zwischen Caesar und Pompeius.",
         "hu": "A kerékpártúra Farsalában ötvözi a várostörténetet a vidéki kirándulással. Az Akhilleusz-szobor és egy központi kávé után eltekerünk a templomhoz és a friss Enipeas-forrásokhoz. Ezt követi a kihívást jelentő emelkedő az Akropoliszhoz. A napot egy nyugodt vidékies tekerés zárja a Caesar és Pompeius közötti történelmi csata emlékművéhez.",
         "ro": "Turul cu bicicleta prin Farsala combină istoria orașului cu excursii rurale. După vizitarea statuii lui Ahile și o cafea în centru, pedalăm spre biserică și izvoarele proaspete Enipeas. Urmează urcușul provocator spre Acropole. Turul se încheie cu o plimbare relaxantă la țară către monumentul bătăliei istorice dintre Cezar și Pompei.",
-        "en": "The bike tour through Farsala combines city history with rural excursions. After visiting the Achilles Statue and having coffee in the center, we cycle to the church and the fresh Enipeas Springs. This is followed by the challenging climb to the Acropolis. We finish with a relaxing ride across the plains to the monument of the historic battle between Caesar and Pompey."
+        "en": "The bike tour through Farsala combines city history with rural excursions. After visiting the Achilles Statue and having coffee in the center, we cycle to the church and the fresh Enipeas Springs. This is followed by the challenging climb to the Acropolis. We finish with a relaxing ride across the plains to the monument of the historic battle between Caesar and Pompey.",
+        "el": "Η ποδηλατική διαδρομή μέσα από τα Φάρσαλα συνδυάζει την ιστορία της πόλης με εξοχικές εξορμήσεις. Αφού επισκεφθούμε το Άγαλμα του Αχιλλέα και πιούμε καφέ στο κέντρο, ποδηλατούμε προς την εκκλησία και τις δροσερές Πηγές του Ενιπέα. Ακολουθεί η απαιτητική ανάβαση στην Ακρόπολη. Τελειώνουμε με μια χαλαρή βόλτα μέσα από τις πεδιάδες προς το μνημείο της ιστορικής μάχης μεταξύ Καίσαρα και Πομπήιου."
       },
       "gastro_picks": {
         "de": [
@@ -691,6 +737,10 @@
         "en": [
           "Pay attention to adequate sun protection while cycling in summer.",
           "The road to the battlefield has very little shade."
+        ],
+        "el": [
+          "Προσέξτε την επαρκή ηλιοπροστασία ενώ ποδηλατείτε το καλοκαίρι.",
+          "Ο δρόμος προς τον τόπο της μάχης έχει πολύ λίγη σκιά."
         ]
       },
       "variants": {
@@ -699,7 +749,8 @@
             "de": "Die Radtour beginnt bei Nieselregen an der Achilles-Statue. Das Visier schützt die Augen vor Spritzwasser. Mittags führt der Weg durch das Zentrum zu den Quellen, wobei die Reifen auf nassem Asphalt weniger Grip haben. Nachmittags ist die Auffahrt zur Akropolis anstrengend und rutschig. Der Tag endet mit der Fahrt zum Schlachtdenkmal, wo der Wind den Regen peitscht.",
             "hu": "A kerékpártúra szemerkélő esőben indul Akhilleusz szobránál. A sisakrostély védi a szemet a felverődő víztől. Délben az út a központon át a forrásokhoz vezet, a gumik tapadása vizes aszfalton kisebb. Délután az akropoliszhoz vezető emelkedő izzasztó és csúszós. A nap a csata emlékművénél ér véget, ahol a szél korbácsolja az esőt.",
             "ro": "Turul cu bicicleta începe sub o ploaie fină la statuia lui Ahile. Viziera protejează ochii de stropi. La prânz, traseul trece prin centru spre izvoare, anvelopele având aderență scăzută pe asfalt ud. După-amiaza, urcarea spre acropolă este solicitantă și alunecoasă. Ziua se încheie cu drumul spre monumentul bătăliei, unde vântul biciuiește ploaia.",
-            "en": "The bike tour starts under drizzle at the Achilles statue. A visor protects your eyes from spray. By noon, the route leads through the center to the springs; tires have less grip on wet asphalt. The afternoon climb to the acropolis is strenuous and slippery. The day ends with a ride to the battle monument, where the wind whips the rain."
+            "en": "The bike tour starts under drizzle at the Achilles statue. A visor protects your eyes from spray. By noon, the route leads through the center to the springs; tires have less grip on wet asphalt. The afternoon climb to the acropolis is strenuous and slippery. The day ends with a ride to the battle monument, where the wind whips the rain.",
+            "el": "Η ποδηλατική διαδρομή ξεκινά υπό ψιχάλα στο άγαλμα του Αχιλλέα. Ένα γείσο προστατεύει τα μάτια σας από τα σπρέι. Μέχρι το μεσημέρι, η διαδρομή περνά από το κέντρο προς τις πηγές· τα ελαστικά έχουν λιγότερη πρόσφυση σε νωπό άσφαλτο. Η απογευματινή ανάβαση στην ακρόπολη είναι απαιτητική και ολισθηρή. Η μέρα τελειώνει με διαδρομή προς το μνημείο της μάχης, όπου ο άνεμος χτυπά τη βροχή."
           },
           "stops": [
             {
@@ -708,7 +759,8 @@
                 "de": "Vermeiden Sie beim Bremsen die nassen Markierungen auf der Straße.",
                 "hu": "Fékezéskor kerülje a vizes útburkolati jeleket.",
                 "ro": "Evitați marcajele rutiere umede când frânați.",
-                "en": "Avoid wet road markings when braking."
+                "en": "Avoid wet road markings when braking.",
+                "el": "Αποφύγετε τα βρεγμένα διαγράμματα οδοστρώματος όταν φρενάρετε."
               }
             },
             {
@@ -717,7 +769,8 @@
                 "de": "Kopfsteinpflaster ist bei Nässe extrem rutschig für schmale Reifen.",
                 "hu": "A macskakő nedvesen rendkívül csúszós a vékony gumiknak.",
                 "ro": "Pavajul este extrem de alunecos pentru anvelope înguste când e ud.",
-                "en": "Cobblestones are extremely slippery for narrow tires when wet."
+                "en": "Cobblestones are extremely slippery for narrow tires when wet.",
+                "el": "Οι λιθόστρωτοι είναι εξαιρετικά ολισθηροί για στενά ελαστικά όταν είναι βρεγμένοι."
               }
             },
             {
@@ -726,7 +779,8 @@
                 "de": "Stellen Sie das Rad unter das Vordach, falls möglich.",
                 "hu": "Ha lehet, állítsa a biciklit az előtető alá.",
                 "ro": "Parcați bicicleta sub copertină, dacă este posibil.",
-                "en": "Park your bike under the awning if possible."
+                "en": "Park your bike under the awning if possible.",
+                "el": "Παρκάρετε το ποδήλατό σας κάτω από τη στέγαση αν είναι δυνατόν."
               }
             },
             {
@@ -735,7 +789,8 @@
                 "de": "Schutzbleche verhindern, dass Schlamm auf Ihre Kleidung spritzt.",
                 "hu": "A sárvédő megakadályozza, hogy a sár a ruhájára fröccsenjen.",
                 "ro": "Apărătorile previn stropirea hainelor cu noroi.",
-                "en": "Mudguards will prevent mud from splashing onto your clothes."
+                "en": "Mudguards will prevent mud from splashing onto your clothes.",
+                "el": "Οι λασπωτήρες θα αποτρέψουν το πιτσίλισμα λάσπης στα ρούχα σας."
               }
             },
             {
@@ -744,7 +799,8 @@
                 "de": "Bei starkem Regen ist die Auffahrt nur für Mountainbikes ratsam.",
                 "hu": "Heves esőben a feljutás csak hegyi kerékpárral javasolt.",
                 "ro": "Pe ploaie torențială, urcarea e recomandată doar pentru MTB.",
-                "en": "In heavy rain, the climb is only advisable for mountain bikes."
+                "en": "In heavy rain, the climb is only advisable for mountain bikes.",
+                "el": "Σε δυνατή βροχή, η ανάβαση προτείνεται μόνο για mountain bikes."
               }
             },
             {
@@ -753,7 +809,8 @@
                 "de": "Freie Fläche, der Wind kann hier seitlich stark angreifen.",
                 "hu": "Nyílt terep, a szél itt oldalról erősen befújhat.",
                 "ro": "Zonă deschisă, vântul poate sufla puternic din lateral aici.",
-                "en": "Open area; the wind can be strong from the side here."
+                "en": "Open area; the wind can be strong from the side here.",
+                "el": "Ανοικτός χώρος· εδώ ο άνεμος μπορεί να είναι δυνατός πλαγίως."
               }
             }
           ],
@@ -781,6 +838,12 @@
               "Use waterproof panniers for your gear.",
               "Avoid deep puddles as they might hide potholes.",
               "Wear high-visibility rain gear to be seen in grey weather."
+            ],
+            "el": [
+              "Ελέγξτε τα τακάκια των φρένων πριν ξεκινήσετε· η απόσταση φρεναρίσματος είναι σημαντικά μεγαλύτερη όταν είναι βρεγμένα.",
+              "Χρησιμοποιήστε στεγανές σακούλες (πάνιερ) για τον εξοπλισμό σας.",
+              "Αποφύγετε βαθιές λακκούβες καθώς μπορεί να κρύβουν λακκούβες στο οδόστρωμα.",
+              "Φορέστε ένδυση βροχής υψηλής ορατότητας για να γίνεστε ορατοί σε γκρίζο καιρό."
             ]
           }
         },
@@ -789,7 +852,8 @@
             "de": "Kühle Morgenluft weht beim Start an der Achilles-Statue. Mit Handschuhen und Thermohose geht es durch das Zentrum zur Kirche. Mittags bietet die Auffahrt zu den Enipeas-Quellen natürliche Wärme durch Bewegung. Der Höhepunkt ist die antike Akropolis, wo der Winterwind pfeift. Die Tour endet am Schlachtdenkmal, kurz bevor das Licht in der Dämmerung schwindet.",
             "hu": "Hűvös reggeli levegő fogad Akhilleusz szobránál. Kesztyűben és nadrágban tekerünk a központon át a templomig. Délben az Enipeasz-forrásokhoz vezető emelkedő természetes meleget ad a mozgás által. A csúcspont az ókori akropolisz, ahol fütyül a téli szél. A túra a csata emlékművénél ér véget, épp mielőtt a fények elhalványulnak a szürkületben.",
             "ro": "Aerul rece de dimineață suflă la startul de la statuia lui Ahile. Cu mănuși și pantaloni termici trecem prin centru spre biserică. La prânz, urcarea spre izvoarele Enipeas oferă căldură naturală prin mișcare. Punctul culminant este acropola antică, unde șuieră vântul de iarnă. Turul se încheie la monumentul bătăliei, chiar înainte ca lumina să dispară în amurg.",
-            "en": "Crisp morning air greets you at the Achilles statue. Wearing gloves and thermal pants, you ride through the center to the church. At noon, the climb to the Enipeas springs provides natural warmth through movement. The highlight is the ancient acropolis, where the winter wind whistles. The tour ends at the battle monument just before the light fades at dusk."
+            "en": "Crisp morning air greets you at the Achilles statue. Wearing gloves and thermal pants, you ride through the center to the church. At noon, the climb to the Enipeas springs provides natural warmth through movement. The highlight is the ancient acropolis, where the winter wind whistles. The tour ends at the battle monument just before the light fades at dusk.",
+            "el": "Δροσερός πρωινός αέρας σας χαιρετά στο άγαλμα του Αχιλλέα. Φορώντας γάντια και θερμικό παντελόνι, περνάτε μέσα από το κέντρο προς την εκκλησία. Το μεσημέρι, η ανάβαση προς τις πηγές του Ενιπέα παρέχει φυσική ζεστασιά μέσω της κίνησης. Το κύριο αξιοθέατο είναι η αρχαία ακρόπολη, όπου ο χειμωνιάτικος άνεμος σφυρίζει. Η ξενάγηση τελειώνει στο μνημείο της μάχης λίγο πριν το φως σβήσει στο λυκαυγές."
           },
           "stops": [
             {
@@ -798,7 +862,8 @@
                 "de": "Kaltstart: Wärmen Sie Ihre Gelenke vor dem Aufsteigen auf.",
                 "hu": "Hidegindítás: melegítse be az ízületeit felszállás előtt.",
                 "ro": "Start la rece: încălziți-vă articulațiile înainte de a urca.",
-                "en": "Cold start: warm up your joints before getting on the bike."
+                "en": "Cold start: warm up your joints before getting on the bike.",
+                "el": "Κρύα εκκίνηση: ζεστάνετε τις αρθρώσεις πριν ανέβετε στο ποδήλατο."
               }
             },
             {
@@ -807,7 +872,8 @@
                 "de": "Holen Sie sich einen Tee zum Mitnehmen für die nächste Etappe.",
                 "hu": "Vegyünk egy teát elvitelre a következő szakaszhoz.",
                 "ro": "Luați un ceai la pachet pentru următoarea etapă.",
-                "en": "Grab a tea to go for the next leg of the trip."
+                "en": "Grab a tea to go for the next leg of the trip.",
+                "el": "Πάρτε ένα τσάι για το επόμενο σκέλος του ταξιδιού."
               }
             },
             {
@@ -816,7 +882,8 @@
                 "de": "Kurze Pause im Inneren, um die Finger aufzuwärmen.",
                 "hu": "Rövid pihenő odabent, hogy felmelegítse az ujjait.",
                 "ro": "Scurtă pauză în interior pentru a vă încălzi degetele.",
-                "en": "Short break inside to warm up your fingers."
+                "en": "Short break inside to warm up your fingers.",
+                "el": "Μικρή στάση μέσα για να ζεστάνετε τα δάχτυλά σας."
               }
             },
             {
@@ -825,7 +892,8 @@
                 "de": "Das Gelände kann gefroren und rutschig sein.",
                 "hu": "A terep fagyos és csúszós lehet.",
                 "ro": "Terenul poate fi înghețat și alunecos.",
-                "en": "The terrain can be frozen and slippery."
+                "en": "The terrain can be frozen and slippery.",
+                "el": "Το έδαφος μπορεί να είναι παγωμένο και ολισθηρό."
               }
             },
             {
@@ -834,7 +902,8 @@
                 "de": "Extremer Windchill-Effekt bei der Abfahrt, Windstopper tragen.",
                 "hu": "Erős szélhűtés-hatás lejövetkor, viseljen szélfogót.",
                 "ro": "Efect puternic de răcire la coborâre, purtați protecție contra vântului.",
-                "en": "Extreme wind chill effect on the descent; wear a windbreaker."
+                "en": "Extreme wind chill effect on the descent; wear a windbreaker.",
+                "el": "Έντονη αίσθηση ψύχρας στην κατάβαση· φορέστε αδιάβροχο-αντιανεμικό."
               }
             },
             {
@@ -843,7 +912,8 @@
                 "de": "Schnelles Foto vor dem Sonnenuntergang um 17:15 Uhr.",
                 "hu": "Gyors fotó a 17:15-ös naplemente előtt.",
                 "ro": "Fotografie rapidă înainte de apusul de la 17:15.",
-                "en": "Quick photo before the sunset at 17:15."
+                "en": "Quick photo before the sunset at 17:15.",
+                "el": "Γρήγορη φωτογραφία πριν το ηλιοβασίλεμα στις 17:15."
               }
             }
           ],
@@ -871,6 +941,12 @@
               "Watch out for black ice in shaded turns on the acropolis climb.",
               "Keep the chain well-oiled to protect it from road salt.",
               "Carry a thermos with a warm drink."
+            ],
+            "el": [
+              "Φορέστε χειμερινά παπούτσια ή καλύμματα παπουτσιών για να προστατέψετε τα δάχτυλα από το κρύο.",
+              "Προσέξτε για μαύρο πάγο σε σκιερές στροφές στην ανάβαση της ακρόπολης.",
+              "Κρατήστε την αλυσίδα καλά λαδωμένη για να την προστατεύσετε από το αλάτι του δρόμου.",
+              "Φορέστε θερμός με ζεστό ρόφημα."
             ]
           }
         }
@@ -900,7 +976,8 @@
             "de": "Parken Sie zentral für diesen Cluster.",
             "hu": "Parkoljon központban ehhez a klaszterhez.",
             "ro": "Parcați central pentru acest cluster.",
-            "en": "Park centrally for this cluster."
+            "en": "Park centrally for this cluster.",
+            "el": "Παρκάρετε στο κέντρο για αυτό το σύμπλεγμα."
           }
         },
         {
@@ -919,7 +996,8 @@
             "de": "Nur wenige Schritte von der Statue entfernt.",
             "hu": "Csak néhány lépésre a szobortól.",
             "ro": "La doar câțiva pași de statuie.",
-            "en": "Just a few steps from the statue."
+            "en": "Just a few steps from the statue.",
+            "el": "Μόλις μερικά βήματα από το άγαλμα."
           }
         },
         {
@@ -938,7 +1016,8 @@
             "de": "Faszinierende Einblicke in die regionale Geschichte.",
             "hu": "Lenyűgöző bepillantás a regionális történelembe.",
             "ro": "Perspective fascinante asupra istoriei regionale.",
-            "en": "Fascinating insights into regional history."
+            "en": "Fascinating insights into regional history.",
+            "el": "Σαγηνευτικές πληροφορίες για την περιφερειακή ιστορία."
           }
         },
         {
@@ -957,7 +1036,8 @@
             "de": "Fahren Sie zum Natur-Cluster und parken Sie am Rand.",
             "hu": "Vezessen a természet-klaszterhez, és parkoljon le.",
             "ro": "Conduceți spre clusterul natural și parcați la margine.",
-            "en": "Drive to the nature cluster and park at the edge."
+            "en": "Drive to the nature cluster and park at the edge.",
+            "el": "Οδηγήστε προς το φυσικό σύμπλεγμα και παρκάρετε στην άκρη."
           }
         },
         {
@@ -976,7 +1056,8 @@
             "de": "Ein kleiner Fußweg zu dieser mythologischen Höhle.",
             "hu": "Egy kis séta ehhez a mitológiai barlanghoz.",
             "ro": "O scurtă plimbare până la această peșteră mitologică.",
-            "en": "A short walk to this mythological cave."
+            "en": "A short walk to this mythological cave.",
+            "el": "Μικρή πεζοπορία προς αυτό το μυθολογικό σπήλαιο."
           }
         },
         {
@@ -995,7 +1076,8 @@
             "de": "Aufstieg im gleichen Wander-Cluster.",
             "hu": "Mászás ugyanebben a séta-klaszterben.",
             "ro": "Urcare în același cluster de drumeții.",
-            "en": "Climb within the same walking cluster."
+            "en": "Climb within the same walking cluster.",
+            "el": "Ανάβαση εντός του ίδιου πεζοπορικού συμπλέγματος."
           }
         },
         {
@@ -1014,7 +1096,8 @@
             "de": "Der letzte Fahr-Hop aus der Stadt hinaus.",
             "hu": "Az utolsó autós ugrás a városból kifelé.",
             "ro": "Ultima călătorie cu mașina în afara orașului.",
-            "en": "The final car hop out of town."
+            "en": "The final car hop out of town.",
+            "el": "Η τελευταία μετακίνηση με αυτοκίνητο εκτός πόλης."
           }
         }
       ],
@@ -1022,7 +1105,8 @@
         "de": "Mit dem Auto erschließen wir Farsala in Clustern. Zuerst parken wir im Zentrum, spazieren zur Achilles-Statue, durch die Altstadt und ins Museum. Danach fahren wir in Richtung der Enipeas-Quellen und lassen das Auto stehen, um die Höhle der Nymphen und die Akropolis zu erwandern. Den Abschluss bildet eine kurze Fahrt in die Ebenen zum Denkmal der großen Schlacht von Pharsalos.",
         "hu": "Autóval klaszterekben fedezzük fel Farsalát. Először a központban parkolunk, elsétálunk az Akhilleusz-szoborhoz, az óvároson át a múzeumba. Ezután az Enipeas-források felé hajtunk, és hátrahagyjuk az autót, hogy gyalog fedezzük fel a Nimfák barlangját és az Akropoliszt. Végül egy rövid úttal a síkságra érünk, a nagy pharsalosi csata emlékművéhez.",
         "ro": "Cu mașina explorăm Farsala în clustere. Mai întâi parcăm în centru, ne plimbăm la Statuia lui Ahile, prin orașul vechi și la muzeu. Apoi conducem spre izvoarele Enipeas și lăsăm mașina pentru a merge pe jos la Peștera Nimfelor și la Acropole. Încheiem cu o scurtă călătorie spre câmpii, la monumentul marii bătălii de la Pharsalus.",
-        "en": "By car, we explore Farsala in clusters. First, we park in the center, walking to the Achilles Statue, through the old town, and to the museum. We then drive towards the Enipeas Springs and leave the car to hike to the Cave of the Nymphs and the Acropolis. We conclude with a short drive into the plains to the monument of the great Battle of Pharsalus."
+        "en": "By car, we explore Farsala in clusters. First, we park in the center, walking to the Achilles Statue, through the old town, and to the museum. We then drive towards the Enipeas Springs and leave the car to hike to the Cave of the Nymphs and the Acropolis. We conclude with a short drive into the plains to the monument of the great Battle of Pharsalus.",
+        "el": "Με αυτοκίνητο, εξερευνούμε τα Φάρσαλα σε συμπλέγματα. Πρώτα παρκάρουμε στο κέντρο, περπατάμε στο Άγαλμα του Αχιλλέα, μέσα στην παλιά πόλη και στο μουσείο. Έπειτα οδηγούμε προς τις Πηγές του Ενιπέα και αφήνουμε το αυτοκίνητο για να περπατήσουμε προς το Σπήλαιο των Νυμφών και την Ακρόπολη. Ολοκληρώνουμε με μια σύντομη οδήγηση στις πεδιάδες προς το μνημείο της μεγάλης Μάχης των Φαρσάλων."
       },
       "gastro_picks": {
         "de": [
@@ -1122,6 +1206,10 @@
         "en": [
           "Driving between the different clusters saves a lot of time.",
           "The roads to the battlefield monument are well maintained."
+        ],
+        "el": [
+          "Η οδήγηση ανάμεσα στα διαφορετικά συμπλέγματα εξοικονομεί πολύ χρόνο.",
+          "Οι δρόμοι προς το μνημείο της μάχης είναι καλά συντηρημένοι."
         ]
       },
       "variants": {
@@ -1130,7 +1218,8 @@
             "de": "Die Fahrt beginnt trocken im Wagen an der Achilles-Statue. Durch das Zentrum geht es zur Archäologischen Sammlung, wo das Auto nah am Eingang parken kann. Mittags zu den Quellen und der Nymphenhöhle sind die Straßen schmierig. Nachmittags bietet die Auffahrt zur Akropolis tolle Ausblicke auf die verregnete Ebene, bevor man am Schlachtdenkmal die Tour sicher im Fahrzeug sitzend beendet.",
             "hu": "Az út szárazon indul az autóban Akhilleusz szobránál. A központon át a Régészeti Gyűjteményhez hajtunk, ahol a bejárathoz közel lehet parkolni. Délben a források és a Nimfák barlangja felé az utak csúszósak. Délután az akropoliszhoz vezető út nagyszerű kilátást nyújt az eső áztatta síkságra, mielőtt a csata emlékművénél, az autó biztonságában fejeznénk be a túrát.",
             "ro": "Călătoria începe la uscat în mașină la statuia lui Ahile. Trecem prin centru spre Colecția Arheologică, unde se poate parca aproape de intrare. La prânz, spre izvoare și peștera nimfelor, drumurile sunt alunecoase. După-amiaza, urcarea spre acropolă oferă vederi superbe asupra câmpiei ploioase, înainte de a încheia turul la monumentul bătăliei, în siguranța vehiculului.",
-            "en": "The drive starts dry inside the car at the Achilles statue. Through the center, you head to the Archaeological Collection, with parking near the entrance. At noon, roads toward the springs and nymphs' cave are greasy. The afternoon climb to the acropolis offers great views of the rainy plain before concluding the tour safely inside the vehicle at the battle monument."
+            "en": "The drive starts dry inside the car at the Achilles statue. Through the center, you head to the Archaeological Collection, with parking near the entrance. At noon, roads toward the springs and nymphs' cave are greasy. The afternoon climb to the acropolis offers great views of the rainy plain before concluding the tour safely inside the vehicle at the battle monument.",
+            "el": "Η διαδρομή ξεκινά στεγνή μέσα στο αυτοκίνητο στο άγαλμα του Αχιλλέα. Μέσα από το κέντρο, κατευθύνεστε προς τη Συλλογή Αρχαιοτήτων, με χώρο στάθμευσης κοντά στην είσοδο. Το μεσημέρι, οι δρόμοι προς τις πηγές και το σπήλαιο των νυμφών είναι γλοιώδεις. Η απογευματινή ανάβαση στην ακρόπολη προσφέρει υπέροχη θέα στην βροχερή πεδιάδα πριν ολοκληρωθεί η ξενάγηση με ασφάλεια μέσα στο όχημα στο μνημείο της μάχης."
           },
           "stops": [
             {
@@ -1139,7 +1228,8 @@
                 "de": "Parkplätze sind am Platz begrenzt, nutzen Sie Seitenstraßen.",
                 "hu": "A parkolóhelyek korlátozottak a téren, használja az oldalsó utcákat.",
                 "ro": "Locurile de parcare sunt limitate în piață, folosiți străzile laterale.",
-                "en": "Parking is limited in the square; use side streets."
+                "en": "Parking is limited in the square; use side streets.",
+                "el": "Ο χώρος στάθμευσης στην πλατεία είναι περιορισμένος· χρησιμοποιήστε τους παράπλευρους δρόμους."
               }
             },
             {
@@ -1148,7 +1238,8 @@
                 "de": "Enge Gassen im Zentrum erfordern bei Regen volle Konzentration.",
                 "hu": "A szűk központi utcák esőben teljes koncentrációt igényelnek.",
                 "ro": "Străzile înguste din centru necesită concentrare maximă pe ploaie.",
-                "en": "Narrow center streets require full concentration in the rain."
+                "en": "Narrow center streets require full concentration in the rain.",
+                "el": "Οι στενοί κεντρικοί δρόμοι απαιτούν πλήρη συγκέντρωση στη βροχή."
               }
             },
             {
@@ -1157,7 +1248,8 @@
                 "de": "Perfekter Stopp, um die Kleidung wieder zu trocknen.",
                 "hu": "Tökéletes megálló a ruházat megszárításához.",
                 "ro": "Oprire perfectă pentru a vă usca hainele.",
-                "en": "Perfect stop to dry your clothes."
+                "en": "Perfect stop to dry your clothes.",
+                "el": "Ιδανική στάση για να στεγνώσετε τα ρούχα σας."
               }
             },
             {
@@ -1166,7 +1258,8 @@
                 "de": "Der Boden am Parkplatz der Quellen kann weich sein.",
                 "hu": "A források parkolójában a talaj puha lehet.",
                 "ro": "Solul din parcarea izvoarelor poate fi moale.",
-                "en": "The ground at the springs' parking area can be soft."
+                "en": "The ground at the springs' parking area can be soft.",
+                "el": "Το έδαφος στην περιοχή στάθμευσης των πηγών μπορεί να είναι μαλακό."
               }
             },
             {
@@ -1175,7 +1268,8 @@
                 "de": "Die Zufahrt ist schmal; bei Nässe vorsichtig am Rand fahren.",
                 "hu": "A bekötőút szűk; nedves időben óvatosan hajtson a széleken.",
                 "ro": "Drumul de acces este îngust; circulați cu prudență pe margini.",
-                "en": "The access road is narrow; drive carefully on the edges when wet."
+                "en": "The access road is narrow; drive carefully on the edges when wet.",
+                "el": "Ο δρόμος πρόσβασης είναι στενός· οδηγείτε προσεκτικά στα άκρα όταν είναι βρεγμένος."
               }
             },
             {
@@ -1184,7 +1278,8 @@
                 "de": "Nutzen Sie den Wagen als geschützten Aussichtspunkt.",
                 "hu": "Használja az autót védett kilátóhelyként.",
                 "ro": "Folosiți mașina ca punct de observație protejat.",
-                "en": "Use the car as a sheltered viewpoint."
+                "en": "Use the car as a sheltered viewpoint.",
+                "el": "Χρησιμοποιήστε το αυτοκίνητο ως προστατευμένο σημείο παρατήρησης."
               }
             },
             {
@@ -1193,7 +1288,8 @@
                 "de": "Kurzer Ausstieg für Fotos, dann schnell zurück ins Trockene.",
                 "hu": "Rövid kiszállás fotózni, majd gyorsan vissza a szárazba.",
                 "ro": "Coborâre scurtă pentru poze, apoi rapid înapoi la uscat.",
-                "en": "Short exit for photos, then quickly back to the dry car."
+                "en": "Short exit for photos, then quickly back to the dry car.",
+                "el": "Σύντομη έξοδος για φωτογραφίες και γρήγορα πάλι πίσω στο στεγνό αυτοκίνητο."
               }
             }
           ],
@@ -1221,6 +1317,12 @@
               "Check the condition of wiper blades before starting.",
               "Some field roads to outer locations might be unpaved.",
               "Point ventilation at the windshield to avoid fogging from wet clothes."
+            ],
+            "el": [
+              "Ανάψτε τα φώτα δρόμου χαμηλής δέσμης καθώς η ορατότητα στην θεσσαλική πεδιάδα συχνά πέφτει.",
+              "Ελέγξτε την κατάσταση των υαλοκαθαριστήρων πριν ξεκινήσετε.",
+              "Ορισμένοι χωματόδρομοι προς εξωτερικές τοποθεσίες μπορεί να μην είναι ασφαλτοστρωμένοι.",
+              "Στοχεύστε αερισμό προς το παρμπρίζ για να αποφύγετε το θόλωμα από βρεγμένα ρούχα."
             ]
           }
         },
@@ -1229,7 +1331,8 @@
             "de": "Ein frostiger Morgen beginnt mit dem Auto an der Achilles-Statue. Die Heizung läuft, während es durch das Zentrum zur Sammlung geht. Mittags ist die Fahrt zu den Quellen und der Höhle landschaftlich reizvoll, wenn Reif die Natur überzieht. Nachmittags bietet die Akropolis einen klaren Fernblick über Thessalien. Die Tour endet am Schlachtdenkmal bei einsetzender Dunkelheit gegen 17:30 Uhr.",
             "hu": "Deres reggel indul az autóval Akhilleusz szobránál. A fűtés már megy, miközben a központon át a gyűjteményhez érünk. Délben a források és a barlang felé vezető út festői, ahogy a zúzmara befedi a tájat. Délután az akropoliszról tiszta kilátás nyílik Thesszáliára. A túra a csata emlékművénél ér véget a 17:30 körül beálló sötétségben.",
             "ro": "O dimineață gerosă începe cu mașina la statuia lui Ahile. Încălzirea funcționează în timp ce mergem prin centru spre colecție. La prânz, drumul spre izvoare și peșteră este pitoresc, cu promoroaca acoperind natura. După-amiaza, acropola oferă o vedere clară asupra Tesaliei. Turul se încheie la monumentul bătăliei odată cu lăsarea întunericului, în jur de 17:30.",
-            "en": "A frosty morning begins with the car at the Achilles statue. The heater is on as you drive through the center to the collection. At noon, the drive to the springs and cave is scenic with frost covering nature. In the afternoon, the acropolis offers a clear vista over Thessaly. The tour concludes at the battle monument as darkness falls around 17:30."
+            "en": "A frosty morning begins with the car at the Achilles statue. The heater is on as you drive through the center to the collection. At noon, the drive to the springs and cave is scenic with frost covering nature. In the afternoon, the acropolis offers a clear vista over Thessaly. The tour concludes at the battle monument as darkness falls around 17:30.",
+            "el": "Ένα παγωμένο πρωινό ξεκινά με το αυτοκίνητο στο άγαλμα του Αχιλλέα. Το θερμόμετρο είναι αναμμένο καθώς οδηγείτε μέσα από το κέντρο προς τη συλλογή. Το μεσημέρι, η διαδρομή προς τις πηγές και το σπήλαιο είναι γραφική με πάγκο να καλύπτει τη φύση. Το απόγευμα, η ακρόπολη προσφέρει καθαρή θέα πάνω από τη Θεσσαλία. Η ξενάγηση ολοκληρώνεται στο μνημείο της μάχης καθώς πέφτει το σκοτάδι γύρω στις 17:30."
           },
           "stops": [
             {
@@ -1238,7 +1341,8 @@
                 "de": "Scheiben kratzen nicht vergessen, falls der Wagen draußen stand.",
                 "hu": "Ne felejtsen el jégmentesíteni, ha az autó kint állt.",
                 "ro": "Nu uitați să răzuiți geamurile dacă mașina a stat afară.",
-                "en": "Don't forget to scrape the windows if the car was parked outside."
+                "en": "Don't forget to scrape the windows if the car was parked outside.",
+                "el": "Μην ξεχάσετε να ξύσετε τα τζάμια αν το αυτοκίνητο ήταν παρκαρισμένο έξω."
               }
             },
             {
@@ -1247,7 +1351,8 @@
                 "de": "Kurzer Stopp für heißen Kaffee, Parken in der Nähe der Cafés.",
                 "hu": "Rövid megálló forró kávéért, parkolás a kávézók közelében.",
                 "ro": "Oprire scurtă pentru cafea caldă, parcare lângă cafenele.",
-                "en": "Short stop for hot coffee; park near the cafes."
+                "en": "Short stop for hot coffee; park near the cafes.",
+                "el": "Σύντομη στάση για ζεστό καφέ· παρκάρετε κοντά στα καφέ."
               }
             },
             {
@@ -1256,7 +1361,8 @@
                 "de": "Nutzen Sie die Garderobe für schwere Wintermäntel.",
                 "hu": "Használja a ruhatárat a nehéz télikabátokhoz.",
                 "ro": "Folosiți garderoba pentru paltoanele grele de iarnă.",
-                "en": "Use the cloakroom for heavy winter coats."
+                "en": "Use the cloakroom for heavy winter coats.",
+                "el": "Χρησιμοποιήστε το cloakroom για βαριά χειμωνιάτικα παλτό."
               }
             },
             {
@@ -1265,7 +1371,8 @@
                 "de": "Achten Sie auf vereiste Stellen auf dem Parkplatz.",
                 "hu": "Ügyeljen a jeges foltokra a parkolóban.",
                 "ro": "Atenție la porțiunile înghețate din parcare.",
-                "en": "Watch out for icy patches in the parking area."
+                "en": "Watch out for icy patches in the parking area.",
+                "el": "Προσέξτε για παγωμένα σημεία στην περιοχή στάθμευσης."
               }
             },
             {
@@ -1274,7 +1381,8 @@
                 "de": "Im Inneren der Höhle ist die Temperatur stabil und milder.",
                 "hu": "A barlang belsejében a hőmérséklet stabil és enyhébb.",
                 "ro": "În interiorul peșterii temperatura este stabilă și mai blândă.",
-                "en": "Inside the cave, the temperature is stable and milder."
+                "en": "Inside the cave, the temperature is stable and milder.",
+                "el": "Μέσα στο σπήλαιο, η θερμοκρασία είναι σταθερή και πιο ήπια."
               }
             },
             {
@@ -1283,7 +1391,8 @@
                 "de": "Fantastische Fernsicht bei klarer, kalter Winterluft.",
                 "hu": "Fantasztikus kilátás a tiszta, hideg téli levegőben.",
                 "ro": "Vedere fantastică în aerul curat și rece de iarnă.",
-                "en": "Fantastic distant view in the clear, cold winter air."
+                "en": "Fantastic distant view in the clear, cold winter air.",
+                "el": "Φανταστική μακρινή θέα στον καθαρό, κρύο χειμωνιάτικο αέρα."
               }
             },
             {
@@ -1292,7 +1401,8 @@
                 "de": "Vorsicht vor Wildtieren, die in der Dämmerung die Straße kreuzen.",
                 "hu": "Vigyázzon a vadállatokra, amik szürkületben átszaladhatnak az úton.",
                 "ro": "Atenție la animalele sălbatice care pot traversa drumul la amurg.",
-                "en": "Watch out for wildlife crossing the road at dusk."
+                "en": "Watch out for wildlife crossing the road at dusk.",
+                "el": "Προσέξτε για άγρια ζώα που διασχίζουν το δρόμο στο λυκόφως."
               }
             }
           ],
@@ -1320,6 +1430,12 @@
               "In higher elevations around Farsala, frost or ice can appear unexpectedly.",
               "Have a flashlight ready if you visit the nymphs' cave late.",
               "The winter sun is low; use the sun visor or sunglasses."
+            ],
+            "el": [
+              "Ελέγξτε το αντιψυκτικό στο υγρό των υαλοκαθαριστήρων.",
+              "Σε υψηλότερα υψόμετρα γύρω από τα Φάρσαλα, ο πάγος ή ο παγετός μπορεί να εμφανιστούν απροσδόκητα.",
+              "Έχετε φακό έτοιμο αν επισκεφθείτε αργά το σπήλαιο των νυμφών.",
+              "Ο χειμερινός ήλιος είναι χαμηλός· χρησιμοποιήστε το ηλιακό σκιάδιο ή γυαλιά ηλίου."
             ]
           }
         }
@@ -1349,7 +1465,8 @@
             "de": "Zentraler Ankunftspunkt mit dem Bus.",
             "hu": "Központi érkezési pont busszal.",
             "ro": "Punct central de sosire cu autobuzul.",
-            "en": "Central arrival point by bus."
+            "en": "Central arrival point by bus.",
+            "el": "Κεντρικό σημείο άφιξης με λεωφορείο."
           }
         },
         {
@@ -1368,7 +1485,8 @@
             "de": "Nur einen kurzen Fußweg vom Platz entfernt.",
             "hu": "Csak egy rövid sétára a tértől.",
             "ro": "La o scurtă plimbare de piață.",
-            "en": "Just a short walk from the square."
+            "en": "Just a short walk from the square.",
+            "el": "Μόλις λίγα λεπτά με τα πόδια από την πλατεία."
           }
         },
         {
@@ -1387,7 +1505,8 @@
             "de": "Wir bleiben im Innenstadt-Cluster.",
             "hu": "A belvárosi klaszterben maradunk.",
             "ro": "Rămânem în clusterul din centrul orașului.",
-            "en": "We stay within the downtown cluster."
+            "en": "We stay within the downtown cluster.",
+            "el": "Μένουμε εντός του κεντρικού συμπλέγματος."
           }
         },
         {
@@ -1406,7 +1525,8 @@
             "de": "Nutzen Sie den lokalen Bus zur Umgehung längerer Wege.",
             "hu": "Használja a helyi buszt a hosszabb séták elkerülésére.",
             "ro": "Folosiți autobuzul local pentru a evita plimbările lungi.",
-            "en": "Use the local bus to bypass longer walks."
+            "en": "Use the local bus to bypass longer walks.",
+            "el": "Χρησιμοποιήστε το τοπικό λεωφορείο για να αποφύγετε μεγαλύτερες πεζοπορίες."
           }
         },
         {
@@ -1425,7 +1545,8 @@
             "de": "Ein weiterer kurzer Transit-Hop in Richtung Natur.",
             "hu": "Egy újabb rövid buszos ugrás a természet felé.",
             "ro": "Încă un scurt salt cu tranzitul spre natură.",
-            "en": "Another short transit hop towards nature."
+            "en": "Another short transit hop towards nature.",
+            "el": "Άλλο ένα σύντομο μεταφορικό άλμα προς τη φύση."
           }
         },
         {
@@ -1444,7 +1565,8 @@
             "de": "Der Rest des Weges muss erwandert werden.",
             "hu": "Az út hátralévő részét gyalog kell megtenni.",
             "ro": "Restul drumului trebuie parcurs pe jos.",
-            "en": "The rest of the way must be hiked."
+            "en": "The rest of the way must be hiked.",
+            "el": "Το υπόλοιπο της διαδρομής πρέπει να γίνει πεζή."
           }
         }
       ],
@@ -1452,7 +1574,8 @@
         "de": "Das lokale Verkehrsnetz ermöglicht ein zügiges Springen zwischen den Highlights. Nach Ankunft im Zentrum erkunden wir die Achilles-Statue und die Kirche zu Fuß. Ein Bus bringt uns entspannt zur archäologischen Sammlung. Im Anschluss fahren wir weiter in Richtung der Enipeas-Quellen am Stadtrand. Das große Finale ist der steile, aber lohnende Fußweg hinauf zur Akropolis.",
         "hu": "A helyi közlekedési hálózat lehetővé teszi a gyors ugrálást a látnivalók között. A központba érkezés után gyalog fedezzük fel az Akhilleusz-szobrot és a templomot. Egy busz pihentetően elvisz minket a régészeti gyűjteményhez. Ezt követően tovább utazunk a város szélén található Enipeas-források felé. A nagy finálé a meredek, de hálás séta fel az Akropoliszhoz.",
         "ro": "Rețeaua de transport local permite deplasarea rapidă între punctele de atracție. După sosirea în centru, explorăm pe jos Statuia lui Ahile și biserica. Un autobuz ne duce relaxați la colecția arheologică. Ulterior, continuăm spre izvoarele Enipeas de la marginea orașului. Marea finală este urcușul abrupt, dar satisfăcător pe jos până la Acropole.",
-        "en": "The local transit network allows for a quick hop between highlights. After arriving in the center, we explore the Achilles Statue and church on foot. A bus takes us relaxed to the archaeological collection. Afterwards, we continue towards the Enipeas Springs on the outskirts. The grand finale is the steep but rewarding walk up to the Acropolis."
+        "en": "The local transit network allows for a quick hop between highlights. After arriving in the center, we explore the Achilles Statue and church on foot. A bus takes us relaxed to the archaeological collection. Afterwards, we continue towards the Enipeas Springs on the outskirts. The grand finale is the steep but rewarding walk up to the Acropolis.",
+        "el": "Το τοπικό δίκτυο μεταφορών επιτρέπει ένα γρήγορο άλμα ανάμεσα στα σημεία. Αφού φτάσετε στο κέντρο, εξερευνούμε το Άγαλμα του Αχιλλέα και την εκκλησία με τα πόδια. Ένα λεωφορείο μας μεταφέρει χαλαρά στη Συλλογή Αρχαιοτήτων. Έπειτα συνεχίζουμε προς τις Πηγές του Ενιπέα στα περίχωρα. Το μεγάλο φινάλε είναι η απότομη αλλά ανταμοιβή πεζοπορία προς την Ακρόπολη."
       },
       "gastro_picks": {
         "de": [
@@ -1552,6 +1675,10 @@
         "en": [
           "Buy day tickets for the bus if available.",
           "The Acropolis cannot be reached by bus, expect a walk."
+        ],
+        "el": [
+          "Αγοράστε ημερήσια εισιτήρια για το λεωφορείο αν διατίθενται.",
+          "Η Ακρόπολη δεν προσεγγίζεται με λεωφορείο· να περιμένετε πεζοπορία."
         ]
       },
       "variants": {
@@ -1560,7 +1687,8 @@
             "de": "Regnerischer Start im Zentrum, die Wartezeiten an den Haltestellen verbringt man am besten unter Vordächern. Achilles empfängt Sie nass am Morgen. Mittags ist die Kirche Agios Antonios ein warmer, trockener Halt. Zur Archäologischen Sammlung kommt man bequem per Bus. Nachmittags bei den Quellen ist mit Regenkleidung alles machbar, bevor die Akropolis im Dunst verschwindet.",
             "hu": "Esős kezdés a központban, a megállókban a várakozást legjobb az előtetők alatt tölteni. Akhilleusz vizesen fogadja reggel. Délben az Agios Antonios templom meleg, száraz megálló. A Régészeti Gyűjteményhez kényelmesen juthatunk el busszal. Délután a forrásoknál esőruhában minden megoldható, mielőtt az akropolisz eltűnne a ködben.",
             "ro": "Start ploios în centru, timpii de așteptare în stații sunt mai buni sub copertine. Ahile vă primește ud dimineața. La prânz, biserica Agios Antonios este o oprire caldă și uscată. La Colecția Arheologică se ajunge comod cu autobuzul. După-amiaza la izvoare, totul este realizabil cu haine de ploaie, înainte ca acropola să dispară în ceață.",
-            "en": "A rainy start in the center; wait for the bus under station shelters. Achilles greets you wet in the morning. At noon, Agios Antonios church is a warm, dry stop. You can reach the Archaeological Collection easily by bus. In the afternoon at the springs, everything is doable with rain gear before the acropolis disappears in the mist."
+            "en": "A rainy start in the center; wait for the bus under station shelters. Achilles greets you wet in the morning. At noon, Agios Antonios church is a warm, dry stop. You can reach the Archaeological Collection easily by bus. In the afternoon at the springs, everything is doable with rain gear before the acropolis disappears in the mist.",
+            "el": "Βροχερό ξεκίνημα στο κέντρο· περιμένετε το λεωφορείο κάτω από τα υπόστεγα του σταθμού. Ο Αχιλλέας σας χαιρετά βρεγμένος το πρωί. Το μεσημέρι, η εκκλησία του Αγίου Αντωνίου είναι μια ζεστή, στεγνή στάση. Μπορείτε να φτάσετε εύκολα στην Αρχαιολογική Συλλογή με λεωφορείο. Το απόγευμα στις πηγές, όλα γίνονται με αδιάβροχα πριν η ακρόπολη εξαφανιστεί στην ομίχλη."
           },
           "stops": [
             {
@@ -1569,7 +1697,8 @@
                 "de": "Nutzen Sie lokale Apps für Echtzeit-Busabfahrten.",
                 "hu": "Használjon helyi appokat a buszok valós idejű követéséhez.",
                 "ro": "Folosiți aplicații locale pentru plecările autobuzelor în timp real.",
-                "en": "Use local apps for real-time bus departures."
+                "en": "Use local apps for real-time bus departures.",
+                "el": "Χρησιμοποιήστε τοπικές εφαρμογές για πραγματικούς χρόνους αναχωρήσεων λεωφορείων."
               }
             },
             {
@@ -1578,7 +1707,8 @@
                 "de": "Die Haltestellen in der Nähe haben oft nur wenig Unterstand.",
                 "hu": "A közeli megállóknak gyakran kevés a fedett része.",
                 "ro": "Stațiile din apropiere au adesea adăpost limitat.",
-                "en": "Nearby stops often have limited shelter."
+                "en": "Nearby stops often have limited shelter.",
+                "el": "Οι κοντινές στάσεις συχνά έχουν περιορισμένη κάλυψη."
               }
             },
             {
@@ -1587,7 +1717,8 @@
                 "de": "Ein kurzer Fußweg von der Haltestelle, Schirm aufspannen.",
                 "hu": "Rövid séta a megállótól, nyissa ki az esernyőt.",
                 "ro": "Scurtă plimbare de la stație, deschideți umbrela.",
-                "en": "Short walk from the stop; open your umbrella."
+                "en": "Short walk from the stop; open your umbrella.",
+                "el": "Λίγο περπάτημα από τη στάση· ανοίξτε τη ομπρέλα σας."
               }
             },
             {
@@ -1596,7 +1727,8 @@
                 "de": "Der Bus hält fast vor der Tür, kaum Regenbelastung.",
                 "hu": "A busz szinte az ajtó előtt áll meg, alig lesz vizes.",
                 "ro": "Autobuzul oprește aproape în față, expunere minimă la ploaie.",
-                "en": "The bus stops almost at the door; minimal rain exposure."
+                "en": "The bus stops almost at the door; minimal rain exposure.",
+                "el": "Το λεωφορείο σταματά σχεδόν στην πόρτα· ελάχιστη έκθεση στη βροχή."
               }
             },
             {
@@ -1605,7 +1737,8 @@
                 "de": "Planen Sie Pufferzeiten ein, Busse können bei Regen langsamer sein.",
                 "hu": "Tervezzen pufferidőt, a buszok esőben lassabbak lehetnek.",
                 "ro": "Planificați timp suplimentar, autobuzele pot fi mai lente pe ploaie.",
-                "en": "Plan buffer time; buses may be slower in the rain."
+                "en": "Plan buffer time; buses may be slower in the rain.",
+                "el": "Σχεδιάστε χρόνο ασφαλείας· τα λεωφορεία μπορεί να καθυστερήσουν λόγω βροχής."
               }
             },
             {
@@ -1614,7 +1747,8 @@
                 "de": "Nach dem Ausstieg erwartet Sie ein nasser Aufstieg zu Fuß.",
                 "hu": "A leszállás után vizes gyalogos feljutás várja.",
                 "ro": "După coborâre vă așteaptă o urcare pe jos prin ploaie.",
-                "en": "After getting off, a wet climb on foot awaits you."
+                "en": "After getting off, a wet climb on foot awaits you.",
+                "el": "Μετά την αποβίβαση σας περιμένει βρεγμένη ανάβαση με τα πόδια."
               }
             }
           ],
@@ -1642,6 +1776,12 @@
               "Buses run less frequently in rural areas; check the schedule carefully.",
               "Wear waterproof shoes for the walks between stops and destinations.",
               "It can get humid on the bus due to many passengers with wet clothes."
+            ],
+            "el": [
+              "Έχετε έτοιμο μικρό ρέστο για εισιτήρια· τα μηχανήματα είναι συχνά σε εξωτερικούς χώρους.",
+              "Τα λεωφορεία κυκλοφορούν λιγότερο συχνά σε αγροτικές περιοχές· ελέγξτε προσεκτικά το πρόγραμμα.",
+              "Φορέστε αδιάβροχα παπούτσια για τις διαδρομές μεταξύ στάσεων και προορισμών.",
+              "Μπορεί να γίνει υγρό στο λεωφορείο λόγω πολλών επιβατών με βρεγμένα ρούχα."
             ]
           }
         },
@@ -1650,7 +1790,8 @@
             "de": "Frischer Wintermorgen im Zentrum, der Kaffee wärmt vor der ersten Busfahrt. Achilles wirkt im Morgenfrost imposant. Mittags sind die Museumsbesuche perfekt, um die Kälte draußen zu lassen. Nachmittags zu den Quellen und der Akropolis ist gute Planung wichtig, um den letzten Bus im Tageslicht zu erwischen. Abends kehrt man erschöpft aber zufrieden ins beleuchtete Farsala zurück.",
             "hu": "Friss téli reggel a központban, a kávé felmelegít az első buszút előtt. Akhilleusz tekintélyt parancsoló a reggeli dérben. Délben a múzeumlátogatás tökéletes, hogy kint hagyjuk a hideget. Délután a forrásoknál és az akropolisznál fontos a jó tervezés, hogy elkapjuk az utolsó buszt még világosban. Este fáradtan, de elégedetten térünk vissza a kivilágított Farsalába.",
             "ro": "Dimineață proaspătă de iarnă în centru, cafeaua vă încălzește înainte de prima cursă. Ahile pare impunător în bruma dimineții. La prânz, vizita la muzeu este perfectă pentru a lăsa frigul afară. După-amiaza, la izvoare și acropolă, planificarea e cheia pentru a prinde ultimul autobuz pe lumină. Seara ne întoarcem obosiți, dar mulțumiți în Farsala luminată.",
-            "en": "Crisp winter morning in the center; coffee warms you up before the first bus ride. Achilles looks imposing in the morning frost. At noon, museum visits are perfect for leaving the cold outside. In the afternoon at the springs and acropolis, careful planning is needed to catch the last bus in daylight. In the evening, return tired but satisfied to lit-up Farsala."
+            "en": "Crisp winter morning in the center; coffee warms you up before the first bus ride. Achilles looks imposing in the morning frost. At noon, museum visits are perfect for leaving the cold outside. In the afternoon at the springs and acropolis, careful planning is needed to catch the last bus in daylight. In the evening, return tired but satisfied to lit-up Farsala.",
+            "el": "Δροσερό χειμωνιάτικο πρωινό στο κέντρο· ο καφές σας ζεσταίνει πριν την πρώτη διαδρομή με λεωφορείο. Ο Αχιλλέας φαίνεται επιβλητικός στην παγωμένη πρωινή όψη. Το μεσημέρι, οι επισκέψεις σε μουσεία είναι ιδανικές για να αφήσετε το κρύο έξω. Το απόγευμα στις πηγές και στην ακρόπολη, απαιτείται προσεκτικός προγραμματισμός για να προλάβετε το τελευταίο λεωφορείο στο φως της ημέρας. Το βράδυ, επιστρέφετε κουρασμένοι αλλά ικανοποιημένοι στη φωταγωγημένη Φάρσαλα."
           },
           "stops": [
             {
@@ -1659,7 +1800,8 @@
                 "de": "Warten Sie in einem Café nahe der Haltestelle auf den Bus.",
                 "hu": "Várja a buszt egy megállóhoz közeli kávézóban.",
                 "ro": "Așteptați autobuzul într-o cafenea din apropierea stației.",
-                "en": "Wait for the bus in a cafe near the stop."
+                "en": "Wait for the bus in a cafe near the stop.",
+                "el": "Περιμένετε το λεωφορείο σε καφέ κοντά στη στάση."
               }
             },
             {
@@ -1668,7 +1810,8 @@
                 "de": "Morgens kann es an der exponierten Haltestelle sehr kalt sein.",
                 "hu": "Reggel a nyitott megállóban nagyon hideg lehet.",
                 "ro": "Dimineața poate fi foarte frig în stația expusă.",
-                "en": "It can be very cold at the exposed stop in the morning."
+                "en": "It can be very cold at the exposed stop in the morning.",
+                "el": "Μπορεί να είναι πολύ κρύα στη εκτεθειμένη στάση το πρωί."
               }
             },
             {
@@ -1677,7 +1820,8 @@
                 "de": "Besichtigung als Aufwärmpause nutzen.",
                 "hu": "Használja a látogatást bemelegítő pihenőnek.",
                 "ro": "Folosiți vizita ca o pauză de încălzire.",
-                "en": "Use the visit as a warm-up break."
+                "en": "Use the visit as a warm-up break.",
+                "el": "Χρησιμοποιήστε την επίσκεψη ως διάλειμμα για να ζεσταθείτε."
               }
             },
             {
@@ -1686,7 +1830,8 @@
                 "de": "Prüfen Sie Winteröffnungszeiten, diese können kürzer sein.",
                 "hu": "Ellenőrizze a téli nyitvatartást, rövidebb lehet.",
                 "ro": "Verificați programul de iarnă, poate fi mai scurt.",
-                "en": "Check winter opening hours; they might be shorter."
+                "en": "Check winter opening hours; they might be shorter.",
+                "el": "Ελέγξτε τις χειμερινές ώρες λειτουργίας· μπορεί να είναι συντομότερες."
               }
             },
             {
@@ -1695,7 +1840,8 @@
                 "de": "Fester Tritt nötig auf gefrorenen Wegen zur Haltestelle.",
                 "hu": "Biztos léptek kellenek a megállóhoz vezető fagyos úton.",
                 "ro": "Pași siguri necesari pe drumul înghețat spre stație.",
-                "en": "Steady footing is needed on frozen paths to the stop."
+                "en": "Steady footing is needed on frozen paths to the stop.",
+                "el": "Χρειάζεται σταθερό πάτημα σε παγωμένα μονοπάτια προς τη στάση."
               }
             },
             {
@@ -1704,7 +1850,8 @@
                 "de": "Letzter Bus oft gegen 17:00 Uhr, planen Sie genau.",
                 "hu": "Az utolsó busz gyakran 17:00 körül megy, tervezzen pontosan.",
                 "ro": "Ultimul autobuz pleacă deseori în jur de 17:00, planificați bine.",
-                "en": "The last bus often leaves around 17:00; plan carefully."
+                "en": "The last bus often leaves around 17:00; plan carefully.",
+                "el": "Το τελευταίο λεωφορείο συχνά φεύγει γύρω στις 17:00· σχεδιάστε προσεκτικά."
               }
             }
           ],
@@ -1732,6 +1879,12 @@
               "Wait in sheltered spots; the Thessalian wind can be biting in winter.",
               "The sun sets early; avoid remote stops after 17:30.",
               "Keep a local taxi number handy for emergencies."
+            ],
+            "el": [
+              "Τα χειμερινά δρομολόγια μπορεί να διαφέρουν από τα θερινά.",
+              "Περιμένετε σε προστατευμένα σημεία· ο θεσσαλικός άνεμος τον χειμώνα μπορεί να δαγκώνει.",
+              "Ο ήλιος δύει νωρίς· αποφύγετε απομακρυσμένες στάσεις μετά τις 17:30.",
+              "Κρατήστε διαθέσιμο το τοπικό τηλεφωνικό νούμερο ταξί για έκτακτες ανάγκες."
             ]
           }
         }

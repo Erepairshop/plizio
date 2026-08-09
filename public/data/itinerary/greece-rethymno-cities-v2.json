@@ -32,7 +32,8 @@
             "de": "Morgens sind die Gassen noch wunderbar ruhig für Fotos.",
             "hu": "Reggel a legnyugodtabbak a szűk sikátorok a fotózáshoz.",
             "ro": "Dimineața străduțele sunt încă liniștite pentru fotografii.",
-            "en": "The alleys are wonderfully quiet in the morning for photos."
+            "en": "The alleys are wonderfully quiet in the morning for photos.",
+            "el": "Τα σοκάκια είναι θαυμάσια ήσυχα το πρωί για φωτογραφίες."
           }
         },
         {
@@ -51,7 +52,8 @@
             "de": "Achten Sie auf die venezianischen Wappen am Stein.",
             "hu": "Figyelje meg a kőbe vésett velencei címereket.",
             "ro": "Observați blazoanele venețiene sculptate în piatră.",
-            "en": "Notice the Venetian coat of arms carved into the stone."
+            "en": "Notice the Venetian coat of arms carved into the stone.",
+            "el": "Παρατηρήστε το ενετικό οικόσημο χαραγμένο στην πέτρα."
           }
         },
         {
@@ -70,7 +72,8 @@
             "de": "Das Gebäude dient heute oft als Musikschule und Konzertsaal.",
             "hu": "Az épület ma gyakran zeneiskolaként és koncertteremként működik.",
             "ro": "Clădirea servește astăzi adesea drept școală de muzică.",
-            "en": "The building now often serves as a music school and concert hall."
+            "en": "The building now often serves as a music school and concert hall.",
+            "el": "Το κτίριο πλέον συχνά λειτουργεί ως ωδείο και αίθουσα συναυλιών."
           }
         },
         {
@@ -89,7 +92,8 @@
             "de": "Bringen Sie Wasser mit, das Gelände ist sehr weitläufig.",
             "hu": "Vigyen magával vizet, a terület hatalmas és napos.",
             "ro": "Aduceți apă, terenul este vast și expus la soare.",
-            "en": "Bring water as the grounds are extensive and sunny."
+            "en": "Bring water as the grounds are extensive and sunny.",
+            "el": "Πάρτε νερό μαζί σας καθώς οι χώροι είναι εκτεταμένοι και ηλιόλουστοι."
           }
         },
         {
@@ -108,7 +112,8 @@
             "de": "Perfekter Ort für eine Kaffeepause mit Blick auf die Boote.",
             "hu": "Tökéletes hely egy kávészünetre, kilátással a hajókra.",
             "ro": "Locul perfect pentru o pauză de cafea cu vedere la bărci.",
-            "en": "Perfect spot for a coffee break with a view of the boats."
+            "en": "Perfect spot for a coffee break with a view of the boats.",
+            "el": "Ιδανικό μέρος για μια στάση για καφέ με θέα τα σκάφη."
           }
         },
         {
@@ -127,7 +132,8 @@
             "de": "Einer der ältesten erhaltenen Leuchttürme Griechenlands.",
             "hu": "Görögország egyik legrégebbi fennmaradt világítótornya.",
             "ro": "Unul dintre cele mai vechi faruri păstrate din Grecia.",
-            "en": "One of the oldest surviving lighthouses in Greece."
+            "en": "One of the oldest surviving lighthouses in Greece.",
+            "el": "Ένας από τους παλαιότερους διασωθέντες φάρους στην Ελλάδα."
           }
         },
         {
@@ -146,7 +152,8 @@
             "de": "Die minoischen Sarkophage sind das Highlight der Ausstellung.",
             "hu": "A minószi szarkofágok a kiállítás fénypontjai.",
             "ro": "Sarcofagele minoice sunt atracția principală a expoziției.",
-            "en": "The Minoan sarcophagi are the highlight of the exhibition."
+            "en": "The Minoan sarcophagi are the highlight of the exhibition.",
+            "el": "Οι μινωικοί σαρκοφάγοι είναι το κύριο αξιοθέατο της έκθεσης."
           }
         }
       ],
@@ -154,7 +161,8 @@
         "de": "Beginnen Sie den Tag in den historischen Gassen der Altstadt und am Rimondi-Brunnen. Mittags erkunden Sie die imposante Festung Fortezza, bevor Sie sich am malerischen venezianischen Hafen entspannen. Der Nachmittag endet mit einem gemütlichen Spaziergang zum Leuchtturm und einem tiefen Einblick in die Geschichte im Archäologischen Museum.",
         "hu": "Kezdje a napot az óváros hangulatos sikátoraiban és a Rimondi-kútnál. Délben fedezze fel az impozáns Fortezza erődöt, majd pihenjen meg a festői velencei kikötőben. A délután egy kellemes sétával zárul a világítótoronyhoz és az ókori krétai történelmet bemutató régészeti múzeumhoz.",
         "ro": "Începeți ziua pe străduțele istorice ale orașului vechi și la fântâna Rimondi. La prânz, explorați impunătoarea cetate Fortezza, înainte de a vă relaxa în pitorescul port venețian. După-amiaza se încheie cu o plimbare spre far și o vizită la Muzeul Arheologic.",
-        "en": "Start your day in the historic alleys of the Old Town and at the Rimondi Fountain. Midday, explore the imposing Fortezza fortress before relaxing at the picturesque Venetian Harbor. The afternoon concludes with a walk to the lighthouse and a deep dive into history at the Archaeological Museum."
+        "en": "Start your day in the historic alleys of the Old Town and at the Rimondi Fountain. Midday, explore the imposing Fortezza fortress before relaxing at the picturesque Venetian Harbor. The afternoon concludes with a walk to the lighthouse and a deep dive into history at the Archaeological Museum.",
+        "el": "Ξεκινήστε τη μέρα σας στα ιστορικά σοκάκια της Παλιάς Πόλης και στη Βρύση Ριμόντι. Το μεσημέρι εξερευνήστε το επιβλητικό φρούριο Φορτέτζα πριν χαλαρώσετε στο γραφικό Ενετικό Λιμάνι. Το απόγευμα ολοκληρώνεται με μια βόλτα προς το φάρο και μια βαθιά βουτιά στην ιστορία στο Αρχαιολογικό Μουσείο."
       },
       "gastro_picks": {
         "de": [
@@ -342,6 +350,10 @@
         "en": [
           "The cobblestone streets in the Old Town require comfortable shoes.",
           "Start early to avoid the midday heat while visiting the fortress."
+        ],
+        "el": [
+          "Οι λιθόστρωτοι δρόμοι στην Παλιά Πόλη απαιτούν άνετα παπούτσια.",
+          "Ξεκινήστε νωρίς για να αποφύγετε τη μεσημεριανή ζέστη κατά την επίσκεψη στο φρούριο."
         ]
       },
       "variants": {
@@ -350,7 +362,8 @@
             "de": "Der Morgen in Rethymno beginnt unter den schützenden venezianischen Arkaden der Altstadt, wo das Prasseln des Regens auf das Kopfsteinpflaster eine besondere Atmosphäre schafft. Mittags bietet der Rimondi-Brunnen einen kurzen Halt, bevor man in der Neratze-Moschee trockene Zuflucht findet. Am Nachmittag erkunden wir die Fortezza, deren dicke Mauern Schutz bieten, auch wenn die Außenwege nass sind. Der Tag endet im Archäologischen Museum, dem perfekten Ort, um dem Wetter zu entfliehen.",
             "hu": "A reggel Rethymno óvárosának velencei árkádjai alatt indul, ahol az eső kopogása a macskaköveken különleges hangulatot áraszt. Délben a Rimondi-kútnál teszünk egy rövid megállót, mielőtt a Neratze-mecset falai között keresnénk száraz menedéket. Délután a Fortezza várát fedezzük fel, melynek vastag falai védelmet nyújtanak a szél ellen. A napot a Régészeti Múzeumban zárjuk, amely tökéletes helyszín az időjárás elöli meneküléshez.",
             "ro": "Dimineața în Rethymno începe sub arcadele venețiene ale orașului vechi, unde sunetul ploii pe piatra cubică creează o atmosferă aparte. La prânz, Fântâna Rimondi oferă un scurt popas înainte de a găsi refugiu în Moscheea Neratze. După-amiaza explorăm Fortezza, ale cărei ziduri groase oferă adăpost chiar dacă potecile exterioare sunt ude. Ziua se încheie la Muzeul Arheologic, locul perfect pentru a scăpa de capriciile vremii.",
-            "en": "The morning in Rethymno begins under the protective Venetian arcades of the old town, where the rain tapping on the cobblestones creates a unique mood. At noon, the Rimondi Fountain provides a brief stop before finding dry refuge inside the Neratze Mosque. In the afternoon, we explore the Fortezza, whose thick walls offer shelter even if the outer paths are wet. The day ends at the Archaeological Museum, the perfect place to escape the weather."
+            "en": "The morning in Rethymno begins under the protective Venetian arcades of the old town, where the rain tapping on the cobblestones creates a unique mood. At noon, the Rimondi Fountain provides a brief stop before finding dry refuge inside the Neratze Mosque. In the afternoon, we explore the Fortezza, whose thick walls offer shelter even if the outer paths are wet. The day ends at the Archaeological Museum, the perfect place to escape the weather.",
+            "el": "Το πρωί στο Ρέθυμνο ξεκινά κάτω από τα προστατευτικά ενετικά στοάκια της παλιάς πόλης, όπου η βροχή που χτυπά στα λιθόστρωτα δημιουργεί μια μοναδική ατμόσφαιρα. Το μεσημέρι, η Βρύση Ριμόντι προσφέρει μια σύντομη στάση πριν βρείτε στεγανή καταφυγή μέσα στο Τζαμί Νερατζέ. Το απόγευμα εξερευνούμε τη Φορτέτζα, του τείχη της οποίας προσφέρουν καταφύγιο ακόμη και αν τα εξωτερικά μονοπάτια είναι βρεγμένα. Η μέρα τελειώνει στο Αρχαιολογικό Μουσείο, το τέλειο μέρος για να γλιτώσετε από τον καιρό."
           },
           "stops": [
             {
@@ -359,7 +372,8 @@
                 "de": "Nutzen Sie die engen Gassen und Arkaden als natürlichen Regenschutz.",
                 "hu": "Használja a szűk utcákat és árkádokat természetes esővédőként.",
                 "ro": "Folosiți străzile înguste și arcadele ca protecție naturală împotriva ploii.",
-                "en": "Use the narrow alleys and arcades as natural rain cover."
+                "en": "Use the narrow alleys and arcades as natural rain cover.",
+                "el": "Χρησιμοποιήστε τα στενά σοκάκια και τα στοάκια ως φυσική κάλυψη από τη βροχή."
               }
             },
             {
@@ -368,7 +382,8 @@
                 "de": "Ein schneller Fotostopp; der Boden um den Brunnen kann rutschig sein.",
                 "hu": "Gyors fotómegálló; a kút körüli kövezet csúszós lehet.",
                 "ro": "O oprire rapidă pentru poze; pavajul din jurul fântânii poate fi alunecos.",
-                "en": "A quick photo stop; the pavement around the fountain can be slippery."
+                "en": "A quick photo stop; the pavement around the fountain can be slippery.",
+                "el": "Σύντομη στάση για φωτογραφία· το έδαφος γύρω από τη βρύση μπορεί να είναι ολισθηρό."
               }
             },
             {
@@ -377,7 +392,8 @@
                 "de": "Ein idealer Ort, um sich kurz aufzuwärmen und trocken zu bleiben.",
                 "hu": "Ideális hely egy rövid melegedésre és a szárazon maradáshoz.",
                 "ro": "Un loc ideal pentru a vă încălzi puțin și a rămâne uscați.",
-                "en": "An ideal place to warm up briefly and stay dry."
+                "en": "An ideal place to warm up briefly and stay dry.",
+                "el": "Ιδανικό μέρος για να ζεσταθείτε σύντομα και να μείνετε στεγνοί."
               }
             },
             {
@@ -386,7 +402,8 @@
                 "de": "Besuchen Sie die Innenräume und das Magazin, um dem Regen zu entgehen.",
                 "hu": "Látogassa meg a belső tereket és a raktárat, hogy elkerülje az esőt.",
                 "ro": "Vizitați spațiile interioare și magazia pentru a evita ploaia.",
-                "en": "Visit the indoor spaces and the magazine to avoid the rain."
+                "en": "Visit the indoor spaces and the magazine to avoid the rain.",
+                "el": "Επισκεφτείτε τους εσωτερικούς χώρους και το περιοδικό για να αποφύγετε τη βροχή."
               }
             },
             {
@@ -395,7 +412,8 @@
                 "de": "Die Cafés am Hafen bieten überdachte Sitzplätze mit Meerblick.",
                 "hu": "A kikötői kávézók fedett ülőhelyeket kínálnak kilátással a tengerre.",
                 "ro": "Cafenelele din port oferă locuri acoperite cu vedere la mare.",
-                "en": "Harborside cafes offer covered seating with sea views."
+                "en": "Harborside cafes offer covered seating with sea views.",
+                "el": "Τα καφέ στο λιμάνι προσφέρουν καλυμμένο καθιστικό με θέα στη θάλασσα."
               }
             },
             {
@@ -404,7 +422,8 @@
                 "de": "Vorsicht vor Windböen und Gischt am Ende der Hafenmauer.",
                 "hu": "Vigyázzon a széllökésekkel és a felcsapó hullámokkal a gáton.",
                 "ro": "Atenție la rafalele de vânt și la stropii de mare de pe dig.",
-                "en": "Watch out for wind gusts and sea spray at the end of the pier."
+                "en": "Watch out for wind gusts and sea spray at the end of the pier.",
+                "el": "Προσοχή στις ριπές ανέμου και στη θαλασσινή αλμύρα στο τέλος της προβλήτας."
               }
             },
             {
@@ -413,7 +432,8 @@
                 "de": "Planen Sie hier mehr Zeit ein, wenn der Regen stärker wird.",
                 "hu": "Tervezzen ide több időt, ha eleredne az eső.",
                 "ro": "Planificați mai mult timp aici dacă ploaia se întețește.",
-                "en": "Plan more time here if the rain intensifies."
+                "en": "Plan more time here if the rain intensifies.",
+                "el": "Σχεδιάστε περισσότερο χρόνο εδώ αν εντείνεται η βροχή."
               }
             }
           ],
@@ -441,6 +461,12 @@
               "Wear non-slip shoes for the wet cobblestones.",
               "Use the museums as dry staging points.",
               "The old town alleys offer better cover than the open promenade."
+            ],
+            "el": [
+              "Πάρτε μια στιβαρή ομπρέλα, καθώς μπορεί να φυσάει στο λιμάνι.",
+              "Φορέστε αντιολισθητικά παπούτσια για τα βρεγμένα λιθόστρωτα.",
+              "Χρησιμοποιήστε τα μουσεία ως ξηρά σημεία συγκέντρωσης.",
+              "Τα σοκάκια της παλιάς πόλης προσφέρουν καλύτερη κάλυψη από την ανοιχτή προκυμαία."
             ]
           }
         },
@@ -449,7 +475,8 @@
             "de": "Im Winter zeigt sich Rethymno von seiner ruhigsten Seite. Am Morgen genießen wir die kühle, klare Luft in den menschenleeren Gassen der Altstadt. Mittags wärmt uns die milde kretische Wintersonne am Rimondi-Brunnen. Der Nachmittag gehört der Fortezza, wo der Rundgang auf den Mauern bei moderaten Temperaturen besonders angenehm ist. Da die Sonne gegen 17:15 Uhr untergeht, nutzen wir die goldene Stunde am Hafen, bevor wir den Tag im Museum ausklingen lassen.",
             "hu": "Télen Rethymno a legnyugodtabb arcát mutatja. Reggel a hűvös, tiszta levegőt élvezzük az óváros néptelen utcáin. Délben a gyenge krétai téli napsütés melenget minket a Rimondi-kútnál. A délutánt a Fortezzának szenteljük, ahol a várfalon való séta a mérsékelt hőmérsékletben kifejezetten kellemes. Mivel a nap 17:15 körül nyugszik, a kikötőben töltjük az aranyórát, mielőtt a múzeumban fejeznénk be a napot.",
             "ro": "Iarna, Rethymno își arată latura cea mai liniștită. Dimineața ne bucurăm de aerul răcoros și curat pe străzile pustii ale orașului vechi. La prânz, soarele blând de iarnă cretană ne încălzește la Fântâna Rimondi. După-amiaza aparține Fortezzei, unde plimbarea pe ziduri este deosebit de plăcută la temperaturi moderate. Deoarece soarele apune în jurul orei 17:15, profităm de ora de aur în port înainte de a încheia ziua la muzeu.",
-            "en": "In winter, Rethymno shows its calmest side. In the morning, we enjoy the cool, clear air in the deserted alleys of the old town. At noon, the mild Cretan winter sun warms us at the Rimondi Fountain. The afternoon belongs to the Fortezza, where walking the walls is particularly pleasant in moderate temperatures. As the sun sets around 17:15, we take advantage of the golden hour at the harbor before ending the day at the museum."
+            "en": "In winter, Rethymno shows its calmest side. In the morning, we enjoy the cool, clear air in the deserted alleys of the old town. At noon, the mild Cretan winter sun warms us at the Rimondi Fountain. The afternoon belongs to the Fortezza, where walking the walls is particularly pleasant in moderate temperatures. As the sun sets around 17:15, we take advantage of the golden hour at the harbor before ending the day at the museum.",
+            "el": "Το χειμώνα, το Ρέθυμνο δείχνει την πιο ήρεμη πλευρά του. Το πρωί απολαμβάνουμε τον δροσερό, καθαρό αέρα στα έρημα σοκάκια της παλιάς πόλης. Το μεσημέρι ο ήπιος κρητικός χειμωνιάτικος ήλιος μας ζεσταίνει στη Βρύση Ριμόντι. Το απόγευμα ανήκει στη Φορτέτζα, όπου το περπάτημα στους τοίχους είναι ιδιαίτερα ευχάριστο σε μέτριες θερμοκρασίες. Καθώς ο ήλιος δύει γύρω στις 17:15, εκμεταλλευόμαστε την «χρυσή ώρα» στο λιμάνι πριν κλείσει η μέρα στο μουσείο."
           },
           "stops": [
             {
@@ -458,7 +485,8 @@
                 "de": "Genießen Sie die Ruhe ohne die sommerlichen Touristenströme.",
                 "hu": "Élvezze a nyugalmat a nyári turistatömeg nélkül.",
                 "ro": "Bucurați-vă de liniște fără fluxurile de turiști din timpul verii.",
-                "en": "Enjoy the tranquility without the summer tourist crowds."
+                "en": "Enjoy the tranquility without the summer tourist crowds.",
+                "el": "Απολαύστε την ηρεμία χωρίς τα καλοκαιρινά πλήθη τουριστών."
               }
             },
             {
@@ -467,7 +495,8 @@
                 "de": "Das Licht fällt im Winter flacher und schöner auf die Korinthischen Säulen.",
                 "hu": "Télen a fény laposabban és szebben esik a korinthoszi oszlopokra.",
                 "ro": "Lumina cade mai razant și mai frumos pe coloanele corintice iarna.",
-                "en": "The winter light falls flatter and more beautifully on the Corinthian columns."
+                "en": "The winter light falls flatter and more beautifully on the Corinthian columns.",
+                "el": "Το χειμερινό φως πέφτει πιο πλατιά και όμορφα στις κορινθιακές κολόνες."
               }
             },
             {
@@ -476,7 +505,8 @@
                 "de": "Prüfen Sie die Winteröffnungszeiten vorab online.",
                 "hu": "Előzetesen ellenőrizze a téli nyitvatartási időt online.",
                 "ro": "Verificați programul de iarnă online în prealabil.",
-                "en": "Check winter opening hours online in advance."
+                "en": "Check winter opening hours online in advance.",
+                "el": "Ελέγξτε τις χειμερινές ώρες λειτουργίας online εκ των προτέρων."
               }
             },
             {
@@ -485,7 +515,8 @@
                 "de": "Perfekt für den Rundgang auf den Mauern ohne die Hitze des Sommers.",
                 "hu": "Tökéletes a várfalon való sétához a nyári hőség nélkül.",
                 "ro": "Perfect pentru plimbarea pe ziduri fără căldura verii.",
-                "en": "Perfect for walking the walls without the summer heat."
+                "en": "Perfect for walking the walls without the summer heat.",
+                "el": "Ιδανικό για να περπατήσετε τα τείχη χωρίς τη ζέστη του καλοκαιριού."
               }
             },
             {
@@ -494,7 +525,8 @@
                 "de": "Erleben Sie die authentische Atmosphäre, wenn die Einheimischen hier Kaffee trinken.",
                 "hu": "Élje át az autentikus hangulatot, amikor a helyiek kávéznak itt.",
                 "ro": "Experimentați atmosfera autentică când localnicii beau cafeaua aici.",
-                "en": "Experience the authentic atmosphere when locals drink coffee here."
+                "en": "Experience the authentic atmosphere when locals drink coffee here.",
+                "el": "Ζήστε την αυθεντική ατμόσφαιρα όταν οι ντόπιοι πίνουν καφέ εδώ."
               }
             },
             {
@@ -503,7 +535,8 @@
                 "de": "Der Sonnenuntergang ist im Winter besonders farbenfroh.",
                 "hu": "A naplemente télen különösen színpompás.",
                 "ro": "Apusul de soare este deosebit de colorat în timpul iernii.",
-                "en": "The sunset is particularly colorful in winter."
+                "en": "The sunset is particularly colorful in winter.",
+                "el": "Το ηλιοβασίλεμα είναι ιδιαίτερα χρωματιστό το χειμώνα."
               }
             },
             {
@@ -512,7 +545,8 @@
                 "de": "Ein warmer Rückzugsort für den späten Nachmittag.",
                 "hu": "Meleg menedék a késő délutáni órákra.",
                 "ro": "Un refugiu călduros pentru după-amiaza târzie.",
-                "en": "A warm retreat for the late afternoon."
+                "en": "A warm retreat for the late afternoon.",
+                "el": "Μια ζεστή απόδραση για το αργά απόγευμα."
               }
             }
           ],
@@ -540,6 +574,12 @@
               "The sun sets early (approx. 17:15), plan your photo stops in time.",
               "Many shops have limited winter opening hours.",
               "Enjoy the clear view of the snow-capped White Mountains in the distance."
+            ],
+            "el": [
+              "Ντυθείτε σε στρώσεις, καθώς μπορεί να είναι δροσερά στη σκιά.",
+              "Ο ήλιος δύει νωρίς (περ. 17:15), σχεδιάστε τις φωτογραφικές σας στάσεις εγκαίρως.",
+              "Πολλά καταστήματα έχουν περιορισμένο χειμερινό ωράριο.",
+              "Απολαύστε την καθαρή θέα των χιονισμένων Λευκών Ορέων στο βάθος."
             ]
           }
         }
@@ -569,7 +609,8 @@
             "de": "Morgens ist es hier angenehm leer für Radfahrer.",
             "hu": "Reggel még kellemesen szellős a terep a kerékpárosoknak.",
             "ro": "Dimineața este plăcut de liber pentru bicicliști.",
-            "en": "The area is pleasantly uncrowded for cyclists in the morning."
+            "en": "The area is pleasantly uncrowded for cyclists in the morning.",
+            "el": "Η περιοχή είναι ευχάριστα χωρίς πλήθος για τους ποδηλάτες το πρωί."
           }
         },
         {
@@ -588,7 +629,8 @@
             "de": "Schieben Sie das Rad für die letzten Meter auf der Mole.",
             "hu": "Tolja a biciklit az utolsó métereken a mólón.",
             "ro": "Împingeți bicicleta pe ultimii metri pe dig.",
-            "en": "Walk your bike for the last few meters on the pier."
+            "en": "Walk your bike for the last few meters on the pier.",
+            "el": "Σπρώξτε το ποδήλατό σας για τα τελευταία μέτρα στην προβλήτα."
           }
         },
         {
@@ -607,7 +649,8 @@
             "de": "Räder am Eingangstor sicher anschließen.",
             "hu": "A kerékpárokat a bejárati kapunál biztonságosan zárja le.",
             "ro": "Legați-vă bicicleta în siguranță la poarta de la intrare.",
-            "en": "Secure your bikes safely at the entrance gate."
+            "en": "Secure your bikes safely at the entrance gate.",
+            "el": "Στερεώστε τα ποδήλατα με ασφάλεια στην πύλη εισόδου."
           }
         },
         {
@@ -626,7 +669,8 @@
             "de": "In den sehr engen Gassen empfiehlt es sich, abzusteigen.",
             "hu": "A legszűkebb utcákban érdemes leszállni a bicikliről.",
             "ro": "În străduțele foarte înguste este recomandat să coborâți.",
-            "en": "It is advisable to dismount in the very narrow alleys."
+            "en": "It is advisable to dismount in the very narrow alleys.",
+            "el": "Συνιστάται να κατέβετε από το ποδήλατο στα πολύ στενά σοκάκια."
           }
         },
         {
@@ -645,7 +689,8 @@
             "de": "Erfrischen Sie sich kurz am historischen Brunnen.",
             "hu": "Frissítse fel magát röviden a történelmi kútnál.",
             "ro": "Răcoriți-vă scurt la fântâna istorică.",
-            "en": "Refresh yourself briefly at the historic fountain."
+            "en": "Refresh yourself briefly at the historic fountain.",
+            "el": "Ανανεωθείτε σύντομα στη ιστορική βρύση."
           }
         },
         {
@@ -664,7 +709,8 @@
             "de": "Früher ein Treffpunkt der venezianischen Elite.",
             "hu": "Egykor a velencei elit találkozóhelye volt.",
             "ro": "Odinioară un loc de întâlnire pentru elita venețiană.",
-            "en": "Formerly a meeting place for the Venetian elite."
+            "en": "Formerly a meeting place for the Venetian elite.",
+            "el": "Παλαιότερα σημείο συνάντησης της ενετικής ελίτ."
           }
         },
         {
@@ -683,7 +729,8 @@
             "de": "Spannende Einblicke in die traditionelle kretische Lebensweise.",
             "hu": "Izgalmas bepillantás a hagyományos krétai életmódba.",
             "ro": "O privire fascinantă asupra stilului de viață tradițional cretan.",
-            "en": "Fascinating insights into the traditional Cretan way of life."
+            "en": "Fascinating insights into the traditional Cretan way of life.",
+            "el": "Συναρπαστικές πληροφορίες για τον παραδοσιακό κρητικό τρόπο ζωής."
           }
         }
       ],
@@ -691,7 +738,8 @@
         "de": "Radeln Sie morgens entspannt am venezianischen Hafen entlang zum Leuchtturm. Anschließend fahren Sie hinauf zur Fortezza für einen beeindruckenden Ausblick. Der Nachmittag gehört der Altstadt, wo Sie das Rad abstellen, um die Loggia und den Rimondi-Brunnen zu Fuß zu erkunden, gefolgt von einem Besuch im Historischen Museum.",
         "hu": "Kerékpározzon reggel a velencei kikötő mentén a világítótoronyhoz. Ezután tekerjen fel a Fortezza erődhöz a lenyűgöző kilátásért. A délután az óvárosé, ahol letéve a biciklit gyalog fedezheti fel a Loggiát és a Rimondi-kutat, mielőtt a Történeti Múzeumba látogatna.",
         "ro": "Plimbați-vă dimineața cu bicicleta pe lângă portul venețian până la far. Apoi urcați la cetatea Fortezza pentru o priveliște impresionantă. După-amiaza aparține orașului vechi, unde lăsați bicicleta pentru a explora Loggia și fântâna pe jos, urmate de Muzeul Istoric.",
-        "en": "Cycle relaxed along the Venetian Harbor to the lighthouse in the morning. Then head up to the Fortezza for an impressive view. The afternoon belongs to the Old Town, where you park the bike to explore the Loggia and Rimondi Fountain on foot, followed by the Historical Museum."
+        "en": "Cycle relaxed along the Venetian Harbor to the lighthouse in the morning. Then head up to the Fortezza for an impressive view. The afternoon belongs to the Old Town, where you park the bike to explore the Loggia and Rimondi Fountain on foot, followed by the Historical Museum.",
+        "el": "Ποδηλατήστε χαλαρά κατά μήκος του Ενετικού Λιμανιού προς το φάρο το πρωί. Έπειτα ανεβείτε στη Φορτέτζα για εντυπωσιακή θέα. Το απόγευμα ανήκει στην Παλιά Πόλη, όπου παρκάρετε το ποδήλατο για να εξερευνήσετε τη Λόγια και τη Βρύση Ριμόντι με τα πόδια, και στη συνέχεια το Ιστορικό Μουσείο."
       },
       "gastro_picks": {
         "de": [
@@ -827,6 +875,10 @@
         "en": [
           "Respect pedestrians in the narrow alleys of the Old Town.",
           "The coastal road offers the best continuous bike paths."
+        ],
+        "el": [
+          "Σεβαστείτε τους πεζούς στα στενά σοκάκια της Παλιάς Πόλης.",
+          "Ο παραλιακός δρόμος προσφέρει τις καλύτερες συνεχόμενες ποδηλατικές διαδρομές."
         ]
       },
       "variants": {
@@ -835,7 +887,8 @@
             "de": "Regen in Rethymno bedeutet für Radfahrer besondere Vorsicht auf dem glatten Hafendamm. Wir starten am venezianischen Hafen, wo die Sicht auf den Leuchtturm durch den Nebel mystisch wirkt. Mittags suchen wir Schutz in der Fortezza, deren befestigte Wege auch bei Nässe befahrbar sind. Am Nachmittag gleiten wir durch die Altstadt, wobei wir die Hauptstraßen mit weniger Kopfsteinpflaster bevorzugen. Den Tag beenden wir sicher beim Historischen Museum.",
             "hu": "Az eső Rethymnóban óvatosságra inti a bicikliseket a csúszós kikötői gáton. A velencei kikötőben kezdünk, ahol a ködös kilátás a világítótoronyra misztikus hatást kelt. Délben a Fortezzában keresünk menedéket, melynek szilárd útjai esőben is járhatók. Délután az óvároson haladunk át, a kevésbé macskaköves főutcákat előnyben részesítve. A napot biztonságban a Történeti Múzeumnál zárjuk.",
             "ro": "Ploaia în Rethymno înseamnă prudență sporită pentru bicicliști pe digul alunecos al portului. Începem în portul venețian, unde vederea spre far prin ceață pare mistică. La prânz căutăm adăpost în Fortezza, ale cărei drumuri fortificate sunt practicabile și pe ploaie. După-amiaza pedalăm prin orașul vechi, preferând străzile principale cu mai puțină piatră cubică. Încheiem ziua în siguranță la Muzeul de Istorie.",
-            "en": "Rain in Rethymno means extra caution for cyclists on the slippery harbor pier. We start at the Venetian harbor, where the misty view of the lighthouse looks mystical. At noon, we seek shelter in the Fortezza, whose fortified paths are navigable even when wet. In the afternoon, we glide through the old town, preferring main streets with less ancient cobblestone. We safely end the day at the Historical Museum."
+            "en": "Rain in Rethymno means extra caution for cyclists on the slippery harbor pier. We start at the Venetian harbor, where the misty view of the lighthouse looks mystical. At noon, we seek shelter in the Fortezza, whose fortified paths are navigable even when wet. In the afternoon, we glide through the old town, preferring main streets with less ancient cobblestone. We safely end the day at the Historical Museum.",
+            "el": "Η βροχή στο Ρέθυμνο σημαίνει επιπλέον προσοχή για τους ποδηλάτες στην ολισθηρή προβλήτα του λιμανιού. Ξεκινάμε από το Ενετικό λιμάνι, όπου η ομιχλώδης θέα του φάρου μοιάζει μυστικιστική. Το μεσημέρι αναζητούμε καταφύγιο στη Φορτέτζα, cuyos οχυρωμένοι διάδρομοι είναι προσβάσιμοι ακόμη και βρεγμένοι. Το απόγευμα γλιστράμε μέσα από την παλιά πόλη, προτιμώντας κύριους δρόμους με λιγότερη αρχαία λιθόστρωση. Τελειώνουμε με ασφάλεια στο Ιστορικό Μουσείο."
           },
           "stops": [
             {
@@ -844,7 +897,8 @@
                 "de": "Vorsicht beim Fahren auf den nassen Steinplatten am Wasser.",
                 "hu": "Vigyázzon a vízközeli nedves kőlapokon való tekeréskor.",
                 "ro": "Atenție la pedalarea pe plăcile de piatră umede de lângă apă.",
-                "en": "Be careful when riding on the wet stone slabs near the water."
+                "en": "Be careful when riding on the wet stone slabs near the water.",
+                "el": "Να είστε προσεκτικοί όταν οδηγείτε πάνω σε βρεγμένες λιθόπλακες κοντά στο νερό."
               }
             },
             {
@@ -853,7 +907,8 @@
                 "de": "Stellen Sie Ihr Rad sicher ab; der Weg zum Turm ist oft windgepeitscht.",
                 "hu": "Támassza le biztosan a biciklit; a toronyhoz vezető út gyakran szeles.",
                 "ro": "Parcați bicicleta în siguranță; drumul spre far este adesea bătut de vânt.",
-                "en": "Park your bike securely; the path to the lighthouse is often wind-swept."
+                "en": "Park your bike securely; the path to the lighthouse is often wind-swept.",
+                "el": "Σταθμεύστε με ασφάλεια το ποδήλατό σας· το μονοπάτι προς το φάρο συχνά σαρώται από τον άνεμο."
               }
             },
             {
@@ -862,7 +917,8 @@
                 "de": "Nutzen Sie den breiten Weg zum Eingang; innen besser schieben.",
                 "hu": "Használja a széles utat a bejáratig; bent inkább tolja a gépet.",
                 "ro": "Folosiți drumul lat până la intrare; în interior e mai bine să o împingeți.",
-                "en": "Use the wide path to the entrance; better to push the bike inside."
+                "en": "Use the wide path to the entrance; better to push the bike inside.",
+                "el": "Χρησιμοποιήστε το φαρδύ μονοπάτι προς την είσοδο· είναι καλύτερα να σπρώξετε το ποδήλατο μέσα."
               }
             },
             {
@@ -871,7 +927,8 @@
                 "de": "Vermeiden Sie sehr enge Gassen mit glattem Kopfsteinpflaster.",
                 "hu": "Kerülje a nagyon szűk, csúszós macskaköves utcákat.",
                 "ro": "Evitați străzile foarte înguste cu piatră cubică alunecoasă.",
-                "en": "Avoid very narrow alleys with slippery cobblestones."
+                "en": "Avoid very narrow alleys with slippery cobblestones.",
+                "el": "Αποφύγετε πολύ στενά σοκάκια με ολισθηρή λιθόστρωση."
               }
             },
             {
@@ -880,7 +937,8 @@
                 "de": "Ein kurzer Stopp unter den umliegenden Markisen ist möglich.",
                 "hu": "Egy rövid megálló a környező napellenzők alatt lehetséges.",
                 "ro": "O scurtă oprire sub copertinele din jur este posibilă.",
-                "en": "A short stop under the surrounding awnings is possible."
+                "en": "A short stop under the surrounding awnings is possible.",
+                "el": "Μια σύντομη στάση κάτω από τις περιβάλλουσες τέντες είναι δυνατή."
               }
             },
             {
@@ -889,7 +947,8 @@
                 "de": "Die Loggia bietet einen guten Unterstand für Sie und Ihr Rad.",
                 "hu": "A Loggia jó alvóhelyet kínál Önnek és a biciklijének is.",
                 "ro": "Loggia oferă un adăpost bun pentru dumneavoastră și bicicletă.",
-                "en": "The Loggia offers good shelter for you and your bike."
+                "en": "The Loggia offers good shelter for you and your bike.",
+                "el": "Η Λόγια προσφέρει καλή κάλυψη για εσάς και το ποδήλατό σας."
               }
             },
             {
@@ -898,7 +957,8 @@
                 "de": "Überdachte Fahrradständer befinden sich oft in der Nähe.",
                 "hu": "Fedett biciklitárolók gyakran találhatók a közelben.",
                 "ro": "Suporturile de biciclete acoperite se află adesea în apropiere.",
-                "en": "Covered bike racks can often be found nearby."
+                "en": "Covered bike racks can often be found nearby.",
+                "el": "Καλυμμένα παρκαρίσματα ποδηλάτων βρίσκονται συχνά κοντά."
               }
             }
           ],
@@ -926,6 +986,12 @@
               "Use bright clothing or reflectors in poor visibility.",
               "The bike paths along the coast are often less slippery than the old town.",
               "A saddle cover keeps your seat dry during stops."
+            ],
+            "el": [
+              "Ελέγξτε τα φρένα σας, καθώς οι βρεγμένες ζάντες επιμηκύνουν την απόσταση πέδησης.",
+              "Χρησιμοποιήστε φωτεινά ρούχα ή ανακλαστήρες σε κακή ορατότητα.",
+              "Οι ποδηλατικές διαδρομές κατά μήκος της ακτής είναι συχνά λιγότερο ολισθηρές από την παλιά πόλη.",
+              "Ένα κάλυμμα σέλας κρατά τη σέλα στεγνή κατά τις στάσεις."
             ]
           }
         },
@@ -934,7 +1000,8 @@
             "de": "Radfahren im kretischen Winter ist bei milden 15 Grad ein Vergnügen. Wir starten am Hafen und genießen die kühle Brise beim Leuchtturm. Mittags erklimmen wir mit dem Rad den Hügel zur Fortezza, was ohne die Sommerhitze kaum anstrengend ist. Der Nachmittag führt uns durch die entspannte Altstadt, wo wir am Rimondi-Brunnen haltmachen. Vor Sonnenuntergang erreichen wir die Loggia und beenden unsere Tour am Historischen Museum, bevor es abends kühl wird.",
             "hu": "A krétai télben a kerékpározás a kellemes 15 fokban igazi élvezet. A kikötőben kezdünk, és élvezzük a hűvös szellőt a világítótoronynál. Délben feltekerünk a Fortezza dombjára, ami a nyári hőség nélkül alig fárasztó. Délután a nyugodt óvároson át haladunk, megállva a Rimondi-kútnál. Naplemente előtt érjük el a Loggiát, és a Történeti Múzeumnál zárjuk a túrát, mielőtt este lehűlne az idő.",
             "ro": "Mersul pe bicicletă în iarna cretană la 15 grade este o plăcere. Începem în port și ne bucurăm de briza răcoroasă de la far. La prânz urcăm dealul spre Fortezza, ceea ce nu este deloc obositor fără căldura verii. După-amiaza ne poartă prin orașul vechi relaxat, unde ne oprim la Fântâna Rimondi. Înainte de apus ajungem la Loggia și încheiem turul la Muzeul de Istorie înainte să se răcorească seara.",
-            "en": "Cycling in the Cretan winter is a pleasure at a mild 15 degrees. We start at the harbor and enjoy the cool breeze by the lighthouse. At noon, we cycle up the hill to the Fortezza, which is hardly tiring without the summer heat. The afternoon takes us through the relaxed old town, stopping at the Rimondi Fountain. Before sunset, we reach the Loggia and end our tour at the Historical Museum before it gets chilly in the evening."
+            "en": "Cycling in the Cretan winter is a pleasure at a mild 15 degrees. We start at the harbor and enjoy the cool breeze by the lighthouse. At noon, we cycle up the hill to the Fortezza, which is hardly tiring without the summer heat. The afternoon takes us through the relaxed old town, stopping at the Rimondi Fountain. Before sunset, we reach the Loggia and end our tour at the Historical Museum before it gets chilly in the evening.",
+            "el": "Το ποδήλατο τον κρητικό χειμώνα είναι απόλαυση σε ένα ευχάριστο 15°C. Ξεκινάμε από το λιμάνι και απολαμβάνουμε το δροσερό αεράκι στον φάρο. Το μεσημέρι ανεβαίνουμε τον λόφο προς τη Φορτέτζα, που δεν κουράζει χωρίς τη θερινή ζέστη. Το απόγευμα διασχίζουμε την ήρεμη παλιά πόλη, σταματώντας στη Βρύση Ριμόντι. Πριν το ηλιοβασίλεμα φτάνουμε στη Λόγια και κλείνουμε την περιήγηση στο Ιστορικό Μουσείο πριν κρυώσει το βράδυ."
           },
           "stops": [
             {
@@ -943,7 +1010,8 @@
                 "de": "Perfekt für eine entspannte Fahrt ohne Fußgängermassen.",
                 "hu": "Tökéletes egy pihentető tekeréshez gyalogos tömeg nélkül.",
                 "ro": "Perfect pentru o plimbare relaxată fără mase de pietoni.",
-                "en": "Perfect for a relaxed ride without pedestrian crowds."
+                "en": "Perfect for a relaxed ride without pedestrian crowds.",
+                "el": "Ιδανικό για χαλαρή βόλτα χωρίς πλήθος πεζών."
               }
             },
             {
@@ -952,7 +1020,8 @@
                 "de": "Die klare Winterluft bietet eine weite Sicht über das Meer.",
                 "hu": "A tiszta téli levegő messzi kilátást nyújt a tengerre.",
                 "ro": "Aerul curat de iarnă oferă o vedere largă peste mare.",
-                "en": "The clear winter air offers a wide view over the sea."
+                "en": "The clear winter air offers a wide view over the sea.",
+                "el": "Ο καθαρός χειμωνιάτικος αέρας προσφέρει πλατιά θέα στη θάλασσα."
               }
             },
             {
@@ -961,7 +1030,8 @@
                 "de": "Parken Sie Ihr Rad am Eingang; der Hügel ist im Winter ein gutes Workout.",
                 "hu": "Parkoljon a bejáratnál; a domb télen jó edzés.",
                 "ro": "Parcați bicicleta la intrare; dealul este un antrenament bun iarna.",
-                "en": "Park your bike at the entrance; the hill is a good workout in winter."
+                "en": "Park your bike at the entrance; the hill is a good workout in winter.",
+                "el": "Παρκάρετε το ποδήλατο στην είσοδο· ο λόφος είναι καλός γυμναστικός κόπος τον χειμώνα."
               }
             },
             {
@@ -970,7 +1040,8 @@
                 "de": "Nutzen Sie die leeren Gassen für Fotos mit Ihrem Rad.",
                 "hu": "Használja ki az üres utcákat biciklis fotókhoz.",
                 "ro": "Folosiți străzile goale pentru fotografii cu bicicleta.",
-                "en": "Take advantage of the empty alleys for photos with your bike."
+                "en": "Take advantage of the empty alleys for photos with your bike.",
+                "el": "Εκμεταλλευτείτε τα άδεια σοκάκια για φωτογραφίες με το ποδήλατό σας."
               }
             },
             {
@@ -979,7 +1050,8 @@
                 "de": "Ein schattiger Platz, der im Winter angenehm frisch bleibt.",
                 "hu": "Árnyékos hely, amely télen kellemesen friss marad.",
                 "ro": "Un loc umbros care rămâne plăcut de proaspăt iarna.",
-                "en": "A shady spot that remains pleasantly fresh in winter."
+                "en": "A shady spot that remains pleasantly fresh in winter.",
+                "el": "Μια σκιασμένη θέση που παραμένει ευχάριστα δροσερή το χειμώνα."
               }
             },
             {
@@ -988,7 +1060,8 @@
                 "de": "Besuchen Sie den kleinen Markt oder Shop darin.",
                 "hu": "Látogassa meg a benne lévő kis piacot vagy boltot.",
                 "ro": "Vizitați mica piață sau magazinul din interior.",
-                "en": "Visit the small market or shop inside."
+                "en": "Visit the small market or shop inside.",
+                "el": "Επισκεφτείτε το μικρό παζάρι ή κάντε ψώνια μέσα."
               }
             },
             {
@@ -997,7 +1070,8 @@
                 "de": "Beenden Sie die Tour hier rechtzeitig vor der Abendkühle.",
                 "hu": "Fejezze be a túrát itt még az esti lehűlés előtt.",
                 "ro": "Încheiați turul aici la timp, înainte de răcoarea serii.",
-                "en": "End the tour here in time before the evening chill."
+                "en": "End the tour here in time before the evening chill.",
+                "el": "Τερματίστε την περιήγηση εδώ πριν πέσει το βραδινό ψύχος."
               }
             }
           ],
@@ -1025,6 +1099,12 @@
               "Check your bike lights for the early sunset.",
               "The north wind can be strong in winter, plan your route accordingly.",
               "In the off-season, many one-way streets are more relaxed to navigate."
+            ],
+            "el": [
+              "Συνιστώνται γάντια για τις πρωινές βόλτες με ποδήλατο.",
+              "Ελέγξτε τα φώτα του ποδηλάτου λόγω του νωπού ηλιοβασιλέματος.",
+              "Ο βόρειος άνεμος μπορεί να είναι δυνατός το χειμώνα· σχεδιάστε ανάλογα τη διαδρομή.",
+              "Τη χαμηλή σεζόν πολλοί μονόδρομοι είναι πιο άνετοι στην οδήγηση."
             ]
           }
         }
@@ -1054,7 +1134,8 @@
             "de": "Nutzen Sie den großen Parkplatz direkt vor der Festung.",
             "hu": "Használja a közvetlenül az erőd előtti nagy parkolót.",
             "ro": "Folosiți parcarea mare direct în fața cetății.",
-            "en": "Use the large parking lot right in front of the fortress."
+            "en": "Use the large parking lot right in front of the fortress.",
+            "el": "Χρησιμοποιήστε το μεγάλο πάρκινγκ ακριβώς μπροστά από το φρούριο."
           }
         },
         {
@@ -1073,7 +1154,8 @@
             "de": "Von der Festung aus bequem zu Fuß erreichbar.",
             "hu": "Az erődtől kényelmes sétatávolságra található.",
             "ro": "Ușor accesibil pe jos de la cetate.",
-            "en": "Easily reachable on foot from the fortress."
+            "en": "Easily reachable on foot from the fortress.",
+            "el": "Εύκολα προσβάσιμο με τα πόδια από το φρούριο."
           }
         },
         {
@@ -1092,7 +1174,8 @@
             "de": "Kurzer Spaziergang auf der Hafenmauer.",
             "hu": "Rövid séta a kikötő védőgátján.",
             "ro": "Scurtă plimbare pe digul portului.",
-            "en": "Short walk along the harbor breakwater."
+            "en": "Short walk along the harbor breakwater.",
+            "el": "Σύντομος περίπατος κατά μήκος του κυματοθραύστη του λιμανιού."
           }
         },
         {
@@ -1111,7 +1194,8 @@
             "de": "Parken Sie südlich der Altstadt für diesen zweiten Abschnitt.",
             "hu": "Parkoljon az óvárostól délre ehhez a második szakaszhoz.",
             "ro": "Parcați la sud de centrul vechi pentru această a doua etapă.",
-            "en": "Park south of the Old Town for this second segment."
+            "en": "Park south of the Old Town for this second segment.",
+            "el": "Σταθμεύστε νότια της Παλιάς Πόλης για αυτό το δεύτερο τμήμα."
           }
         },
         {
@@ -1130,7 +1214,8 @@
             "de": "Die Gassen sind autofrei, perfekt zum Schlendern.",
             "hu": "Az utcák autómentesek, tökéletesek egy sétához.",
             "ro": "Străduțele sunt pietonale, perfecte pentru plimbare.",
-            "en": "The alleys are car-free, perfect for strolling."
+            "en": "The alleys are car-free, perfect for strolling.",
+            "el": "Τα σοκάκια είναι χωρίς αυτοκίνητα, ιδανικά για περπάτημα."
           }
         },
         {
@@ -1149,7 +1234,8 @@
             "de": "Ein schönes Fotomotiv inmitten der alten Häuser.",
             "hu": "Szép fotótéma a régi házak ölelésében.",
             "ro": "Un motiv fotografic frumos printre casele vechi.",
-            "en": "A beautiful photo spot amidst the old houses."
+            "en": "A beautiful photo spot amidst the old houses.",
+            "el": "Όμορφο σημείο για φωτογραφία ανάμεσα στα παλιά σπίτια."
           }
         },
         {
@@ -1168,7 +1254,8 @@
             "de": "Die Minarette sind schon von weitem sichtbar.",
             "hu": "A minaretek már messziről jól láthatók.",
             "ro": "Minaretele sunt vizibile de departe.",
-            "en": "The minarets are visible from afar."
+            "en": "The minarets are visible from afar.",
+            "el": "Οι μιναρέδες είναι ορατοί από μακριά."
           }
         }
       ],
@@ -1176,7 +1263,8 @@
         "de": "Dieser Autotag teilt Rethymno in zwei Cluster. Parken Sie morgens an der Fortezza, um die Festung und den venezianischen Hafen zu Fuß zu erkunden. Mittags fahren Sie zum südlichen Rand der Altstadt, parken erneut und tauchen in die Gassen ein: Das Historische Museum, der Rimondi-Brunnen und die Neratze-Moschee bilden den kulturellen Abschluss.",
         "hu": "Ez az autós nap két részre osztja Rethymnót. Reggel parkoljon a Fortezza mellett, és gyalog fedezze fel az erődöt, valamint a kikötőt. Délben hajtson az óváros déli szélére, parkoljon le újra, és merüljön el az utcákban: a Történeti Múzeum, a Rimondi-kút és a Neratze-mecset adja a nap kulturális befejezését.",
         "ro": "Această zi cu mașina împarte Rethymno în două zone. Parcați dimineața la Fortezza pentru a explora cetatea și portul venețian pe jos. La prânz, conduceți spre marginea de sud a centrului vechi, parcați din nou și explorați străduțele: Muzeul Istoric, Fântâna Rimondi și Moscheea Neratze oferă o concluzie culturală.",
-        "en": "This car day divides Rethymno into two clusters. Park in the morning at the Fortezza to explore the fortress and the Venetian Harbor on foot. At midday, drive to the southern edge of the Old Town, park again, and dive into the alleys: the Historical Museum, the Rimondi Fountain, and the Neratze Mosque form the cultural conclusion."
+        "en": "This car day divides Rethymno into two clusters. Park in the morning at the Fortezza to explore the fortress and the Venetian Harbor on foot. At midday, drive to the southern edge of the Old Town, park again, and dive into the alleys: the Historical Museum, the Rimondi Fountain, and the Neratze Mosque form the cultural conclusion.",
+        "el": "Αυτή η ημέρα με αυτοκίνητο χωρίζει το Ρέθυμνο σε δύο ομάδες. Σταθμεύστε το πρωί στη Φορτέτζα για να εξερευνήσετε το φρούριο και το Ενετικό Λιμάνι με τα πόδια. Το μεσημέρι οδηγήστε στο νότιο άκρο της Παλιάς Πόλης, παρκάρετε ξανά και βυθιστείτε στα σοκάκια: το Ιστορικό Μουσείο, το συντριβάνι Ριμόντι και το τέμενος Νεράτζε συνθέτουν τον πολιτιστικό επίλογο."
       },
       "gastro_picks": {
         "de": [
@@ -1312,6 +1400,10 @@
         "en": [
           "Avoid driving deep into the Old Town; the alleys are extremely narrow.",
           "Parking at the harbor is often paid and fills up quickly."
+        ],
+        "el": [
+          "Αποφύγετε την οδήγηση βαθιά μέσα στην Παλιά Πόλη· τα σοκάκια είναι εξαιρετικά στενά.",
+          "Το πάρκινγκ στο λιμάνι συχνά είναι επί πληρωμή και γεμίζει γρήγορα."
         ]
       },
       "variants": {
@@ -1320,7 +1412,8 @@
             "de": "Mit dem Auto ist Rethymno auch bei Regen komfortabel zu erkunden. Wir starten trocken bei der Fortezza, wo nahegelegene Parkplätze den Weg verkürzen. Mittags fahren wir zum venezianischen Hafen, wobei das Auto als Basis dient. Der Nachmittag führt uns zum Historischen Museum und weiter in die Altstadt, wo wir kurze Wege zwischen den Parkmöglichkeiten und Sehenswürdigkeiten wie dem Rimondi-Brunnen nutzen. Den Tag beenden wir sicher im Schutz der Neratze-Moschee.",
             "hu": "Autóval Rethymno esőben is kényelmesen felfedezhető. Szárazon kezdünk a Fortezzánál, ahol a közeli parkolók lerövidítik a gyaloglást. Délben a velencei kikötőhöz hajtunk, az autót bázisként használva. Délután a Történeti Múzeum, majd az óváros következik, ahol kihasználjuk a rövid távolságokat a parkolók és a látnivalók, például a Rimondi-kút között. A napot a Neratze-mecset védelmében zárjuk.",
             "ro": "Cu mașina, Rethymno poate fi explorat confortabil chiar și pe ploaie. Începem uscați la Fortezza, unde parcările din apropiere scurtează drumul. La prânz conducem spre portul venețian, folosind mașina ca bază. După-amiaza ne îndreptăm spre Muzeul de Istorie și mai departe în orașul vechi, profitând de distanțele scurte între locurile de parcare și atracții precum Fântâna Rimondi. Încheiem ziua la adăpostul Moscheii Neratze.",
-            "en": "By car, Rethymno is comfortable to explore even in the rain. We start dry at the Fortezza, where nearby parking shortens the walk. At noon, we drive to the Venetian harbor, using the car as a base. The afternoon takes us to the Historical Museum and further into the old town, utilizing short walks between parking spots and sights like the Rimondi Fountain. We end the day safely under the shelter of the Neratze Mosque."
+            "en": "By car, Rethymno is comfortable to explore even in the rain. We start dry at the Fortezza, where nearby parking shortens the walk. At noon, we drive to the Venetian harbor, using the car as a base. The afternoon takes us to the Historical Museum and further into the old town, utilizing short walks between parking spots and sights like the Rimondi Fountain. We end the day safely under the shelter of the Neratze Mosque.",
+            "el": "Με αυτοκίνητο το Ρέθυμνο είναι άνετο ακόμα και στη βροχή. Ξεκινάμε στεγνοί στη Φορτέτζα, όπου τα κοντινά πάρκινγκ μειώνουν τον περίπατο. Το μεσημέρι οδηγούμε στο Ενετικό λιμάνι, χρησιμοποιώντας το αυτοκίνητο ως βάση. Το απόγευμα μας οδηγεί στο Ιστορικό Μουσείο και βαθύτερα στην παλιά πόλη, αξιοποιώντας σύντομους περιπάτους ανάμεσα σε σημεία στάθμευσης και αξιοθέατα όπως το συντριβάνι Ριμόντι. Τελειώνουμε τη μέρα με ασφάλεια υπό τη στέγη του τεμένους Νεράτζε."
           },
           "stops": [
             {
@@ -1329,7 +1422,8 @@
                 "de": "Parken Sie auf dem großen Platz direkt westlich der Festung.",
                 "hu": "Parkoljon a nagy téren közvetlenül a vártól nyugatra.",
                 "ro": "Parcați în piața mare direct la vest de cetate.",
-                "en": "Park in the large square directly west of the fortress."
+                "en": "Park in the large square directly west of the fortress.",
+                "el": "Σταθμεύστε στην μεγάλη πλατεία αμέσως δυτικά του φρουρίου."
               }
             },
             {
@@ -1338,7 +1432,8 @@
                 "de": "Nutzen Sie das Parkhaus am Hafen, um trocken auszusteigen.",
                 "hu": "Használja a kikötői parkolóházat, hogy szárazon szállhasson ki.",
                 "ro": "Folosiți parcarea etajată din port pentru a coborî uscați.",
-                "en": "Use the harbor parking garage to get out dry."
+                "en": "Use the harbor parking garage to get out dry.",
+                "el": "Χρησιμοποιήστε το γκαράζ στάθμευσης του λιμανιού για να βγείτε στεγνοί."
               }
             },
             {
@@ -1347,7 +1442,8 @@
                 "de": "Vom küstennahen Parkplatz ist es nur ein kurzer Sprint zum Leuchtturm.",
                 "hu": "A parti parkolóból csak egy rövid sprint a világítótorony.",
                 "ro": "De la parcarea de pe coastă este doar un scurt sprint până la far.",
-                "en": "It is only a short sprint to the lighthouse from the coastal parking."
+                "en": "It is only a short sprint to the lighthouse from the coastal parking.",
+                "el": "Είναι μόνο ένα μικρό σπριντ μέχρι τον φάρο από το παράκτιο πάρκινγκ."
               }
             },
             {
@@ -1356,7 +1452,8 @@
                 "de": "Idealer Stopp, wenn der Regen am heftigsten ist.",
                 "hu": "Ideális megálló, amikor a leghevesebben esik.",
                 "ro": "Oprire ideală când ploaia este cea mai intensă.",
-                "en": "Ideal stop when the rain is heaviest."
+                "en": "Ideal stop when the rain is heaviest.",
+                "el": "Ιδανική στάση όταν η βροχή είναι πιο δυνατή."
               }
             },
             {
@@ -1365,7 +1462,8 @@
                 "de": "Fahren Sie so nah wie möglich an die Fußgängerzone heran.",
                 "hu": "Hajtson a lehető legközelebb a sétálóövezethez.",
                 "ro": "Conduceți cât mai aproape de zona pietonală.",
-                "en": "Drive as close to the pedestrian zone as possible."
+                "en": "Drive as close to the pedestrian zone as possible.",
+                "el": "Οδηγήστε όσο πιο κοντά γίνεται στη ζώνη πεζών."
               }
             },
             {
@@ -1374,7 +1472,8 @@
                 "de": "Schneller Ausstieg für Fotos möglich, aber Parkverbot beachten.",
                 "hu": "Gyors kiszállás fotókhoz lehetséges, de figyeljen a parkolási tilalomra.",
                 "ro": "Coborâre rapidă pentru poze posibilă, dar atenție la interdicția de parcare.",
-                "en": "Quick drop-off for photos possible, but mind the parking restrictions."
+                "en": "Quick drop-off for photos possible, but mind the parking restrictions.",
+                "el": "Γρήγορη αποβίβαση για φωτογραφίες είναι δυνατή, αλλά προσέξτε τους περιορισμούς στάθμευσης."
               }
             },
             {
@@ -1383,7 +1482,8 @@
                 "de": "Suchen Sie einen Parkplatz am Stadtrand und nutzen Sie den Schirm.",
                 "hu": "Keressen parkolót a város szélén és használjon esernyőt.",
                 "ro": "Căutați o parcare la marginea orașului și folosiți umbrela.",
-                "en": "Search for a parking spot on the edge of town and use an umbrella."
+                "en": "Search for a parking spot on the edge of town and use an umbrella.",
+                "el": "Ψάξτε για θέση στα όρια της πόλης και χρησιμοποιήστε ομπρέλα."
               }
             }
           ],
@@ -1411,6 +1511,12 @@
               "The 'Marina' parking garage offers good protection for the vehicle.",
               "Roads can be very greasy during the first rain after a long dry spell.",
               "Keep small change ready for the parking meters."
+            ],
+            "el": [
+              "Αποφύγετε τους στενούς μονόδρομους της παλιάς πόλης κατά τη δυνατή βροχή.",
+              "Το γκαράζ «Marina» προσφέρει καλή προστασία για το όχημα.",
+              "Οι δρόμοι μπορεί να γίνουν πολύ γλοιώδεις στην πρώτη βροχή μετά από μεγάλο διάστημα ξηρασίας.",
+              "Να έχετε ψιλά έτοιμα για τους κλείστρες στάθμευσης."
             ]
           }
         },
@@ -1419,7 +1525,8 @@
             "de": "Im Winter ist die Parkplatzsuche in Rethymno deutlich entspannter. Wir starten morgens an der Fortezza, wo wir die Aussicht fast allein genießen. Mittags fahren wir zum Hafen und finden problemlos einen Platz direkt an der Uferpromenade. Der Nachmittag führt uns zum Historischen Museum und in die ruhige Altstadt. Am Rimondi-Brunnen und der Neratze-Moschee erleben wir das lokale Leben ohne Touristenrummel, bevor wir bequem mit dem Auto zurückkehren.",
             "hu": "Télen a parkolóhely-keresés Rethymnóban sokkal nyugodtabb. Reggel a Fortezzánál kezdünk, ahol szinte egyedül élvezzük a kilátást. Délben a kikötőhöz hajtunk, és gond nélkül találunk helyet közvetlenül a parton. Délután a Történeti Múzeum és a csendes óváros következik. A Rimondi-kútnál és a Neratze-mecsetnél a helyi életet tapasztaljuk meg turistatömeg nélkül, mielőtt kényelmesen hazahajtanánk.",
             "ro": "Iarna, căutarea unui loc de parcare în Rethymno este mult mai relaxată. Începem dimineața la Fortezza, unde ne bucurăm de priveliște aproape singuri. La prânz conducem spre port și găsim fără probleme un loc direct pe faleză. După-amiaza ne poartă la Muzeul de Istorie și în orașul vechi liniștit. La Fântâna Rimondi și la Moscheea Neratze experimentăm viața locală fără agitația turistică, înainte de a ne întoarce confortabil cu mașina.",
-            "en": "In winter, finding a parking spot in Rethymno is much more relaxed. We start the morning at the Fortezza, where we enjoy the view almost alone. At noon, we drive to the harbor and find a spot directly on the waterfront promenade without any trouble. The afternoon takes us to the Historical Museum and the quiet old town. At the Rimondi Fountain and the Neratze Mosque, we experience local life without the tourist bustle before returning comfortably by car."
+            "en": "In winter, finding a parking spot in Rethymno is much more relaxed. We start the morning at the Fortezza, where we enjoy the view almost alone. At noon, we drive to the harbor and find a spot directly on the waterfront promenade without any trouble. The afternoon takes us to the Historical Museum and the quiet old town. At the Rimondi Fountain and the Neratze Mosque, we experience local life without the tourist bustle before returning comfortably by car.",
+            "el": "Το χειμώνα το παρκάρισμα στο Ρέθυμνο είναι πολύ πιο χαλαρό. Ξεκινάμε το πρωί στη Φορτέτζα, όπου απολαμβάνουμε τη θέα σχεδόν μόνοι μας. Το μεσημέρι οδηγούμε στο λιμάνι και βρίσκουμε θέση ακριβώς στην παραλιακή χωρίς κανένα πρόβλημα. Το απόγευμα μας οδηγεί στο Ιστορικό Μουσείο και την ήσυχη παλιά πόλη. Στο συντριβάνι Ριμόντι και το τέμενος Νεράτζε βιώνουμε την τοπική ζωή χωρίς τον τουριστικό θόρυβο πριν επιστρέψουμε άνετα με το αυτοκίνητο."
           },
           "stops": [
             {
@@ -1428,7 +1535,8 @@
                 "de": "Parkplätze direkt am Eingang sind im Winter meist frei.",
                 "hu": "A közvetlen bejáratnál lévő parkolók télen többnyire szabadok.",
                 "ro": "Locurile de parcare direct la intrare sunt de obicei libere iarna.",
-                "en": "Parking spots right at the entrance are usually available in winter."
+                "en": "Parking spots right at the entrance are usually available in winter.",
+                "el": "Οι θέσεις στάθμευσης ακριβώς στην είσοδο είναι συνήθως διαθέσιμες το χειμώνα."
               }
             },
             {
@@ -1437,7 +1545,8 @@
                 "de": "Nutzen Sie die Parkplätze entlang der Uferstraße (El. Venizelou).",
                 "hu": "Használja a parti út (El. Venizelou) menti parkolókat.",
                 "ro": "Folosiți locurile de parcare de-a lungul străzii de pe faleză.",
-                "en": "Use the parking spaces along the waterfront road (El. Venizelou)."
+                "en": "Use the parking spaces along the waterfront road (El. Venizelou).",
+                "el": "Χρησιμοποιήστε τις θέσεις στάθμευσης κατά μήκος της παραλιακής οδού (Ελ. Βενιζέλου)."
               }
             },
             {
@@ -1446,7 +1555,8 @@
                 "de": "Die Zufahrt zum Hafenbecken ist im Winter oft einfacher.",
                 "hu": "A kikötőmedence megközelítése télen gyakran egyszerűbb.",
                 "ro": "Accesul către bazinul portului este adesea mai ușor iarna.",
-                "en": "Access to the harbor basin is often easier in winter."
+                "en": "Access to the harbor basin is often easier in winter.",
+                "el": "Η πρόσβαση στη λεκάνη του λιμανιού είναι συχνά ευκολότερη το χειμώνα."
               }
             },
             {
@@ -1455,7 +1565,8 @@
                 "de": "Kostenlose Parkplätze in den Nebenstraßen sind nun leichter zu finden.",
                 "hu": "A mellékutcákban most könnyebb ingyenes parkolót találni.",
                 "ro": "Locurile de parcare gratuite de pe străzile lăturalnice sunt acum mai ușor de găsit.",
-                "en": "Free parking in the side streets is easier to find now."
+                "en": "Free parking in the side streets is easier to find now.",
+                "el": "Το δωρεάν παρκάρισμα στα πλάγια στενά είναι πιο εύκολο να βρεθεί τώρα."
               }
             },
             {
@@ -1464,7 +1575,8 @@
                 "de": "Kurze Wege vom Auto in die Gassen sind im Winter garantiert.",
                 "hu": "Télen garantált a rövid séta az autótól az utcákig.",
                 "ro": "Distanțele scurte de la mașină la străduțe sunt garantate iarna.",
-                "en": "Short walks from the car to the alleys are guaranteed in winter."
+                "en": "Short walks from the car to the alleys are guaranteed in winter.",
+                "el": "Εγγυημένα σύντομοι περίπατοι από το αυτοκίνητο στα σοκάκια το χειμώνα."
               }
             },
             {
@@ -1473,7 +1585,8 @@
                 "de": "Ideal für einen schnellen Stopp im Vorbeifahren.",
                 "hu": "Ideális egy gyors megállóra áthaladás közben.",
                 "ro": "Ideal pentru o scurtă oprire în trecere.",
-                "en": "Ideal for a quick stop while driving through."
+                "en": "Ideal for a quick stop while driving through.",
+                "el": "Ιδανικό για γρήγορη στάση κατά τη διέλευση με αυτοκίνητο."
               }
             },
             {
@@ -1482,7 +1595,8 @@
                 "de": "Das Viertel ist im Winter sehr ruhig und gut befahrbar.",
                 "hu": "A negyed télen nagyon csendes és jól járható.",
                 "ro": "Cartierul este foarte liniștit și ușor de parcurs iarna.",
-                "en": "The neighborhood is very quiet and easy to navigate in winter."
+                "en": "The neighborhood is very quiet and easy to navigate in winter.",
+                "el": "Η γειτονιά είναι πολύ ήσυχη και εύκολη στην περιήγηση το χειμώνα."
               }
             }
           ],
@@ -1510,6 +1624,12 @@
               "The street lighting in the old town is very atmospheric in winter.",
               "Use the car for trips to the surrounding mountain villages.",
               "Winter tires are not needed on Crete's coast, but watch out for slippery roads."
+            ],
+            "el": [
+              "Πολλές ζώνες στάθμευσης είναι δωρεάν το χειμώνα, προσέξτε τις πινακίδες.",
+              "Ο φωτισμός των δρόμων στην παλιά πόλη είναι πολύ ατμοσφαιρικός το χειμώνα.",
+              "Χρησιμοποιήστε το αυτοκίνητο για εκδρομές στα γύρω ορεινά χωριά.",
+              "Χειμερινά ελαστικά δεν χρειάζονται στην ακτή της Κρήτης, αλλά προσέξτε τους ολισθηρούς δρόμους."
             ]
           }
         }
@@ -1539,7 +1659,8 @@
             "de": "Zentrale Bushaltestellen liegen direkt an den Altstadttoren.",
             "hu": "A központi buszmegállók közvetlenül az óváros kapuinál találhatók.",
             "ro": "Stațiile centrale de autobuz sunt chiar la porțile orașului vechi.",
-            "en": "Central bus stops are located right at the Old Town gates."
+            "en": "Central bus stops are located right at the Old Town gates.",
+            "el": "Τα κεντρικά λεωροστάσια βρίσκονται ακριβώς στις πύλες της Παλιάς Πόλης."
           }
         },
         {
@@ -1558,7 +1679,8 @@
             "de": "Ein schönes Beispiel für die venezianische Architektur.",
             "hu": "A velencei építészet egyik szép példája.",
             "ro": "Un frumos exemplu de arhitectură venețiană.",
-            "en": "A beautiful example of Venetian architecture."
+            "en": "A beautiful example of Venetian architecture.",
+            "el": "Ένα όμορφο παράδειγμα ενετικής αρχιτεκτονικής."
           }
         },
         {
@@ -1577,7 +1699,8 @@
             "de": "Befindet sich ganz in der Nähe der Kirche.",
             "hu": "Egészen közel található a templomhoz.",
             "ro": "Se află foarte aproape de biserică.",
-            "en": "Located very close to the church."
+            "en": "Located very close to the church.",
+            "el": "Βρίσκεται πολύ κοντά στην εκκλησία."
           }
         },
         {
@@ -1596,7 +1719,8 @@
             "de": "Der lokale Bus bringt Sie schnell zur Hafenpromenade.",
             "hu": "A helyi busz gyorsan elviszi a kikötői sétányhoz.",
             "ro": "Autobuzul local vă duce rapid la promenada portului.",
-            "en": "The local bus takes you quickly to the harbor promenade."
+            "en": "The local bus takes you quickly to the harbor promenade.",
+            "el": "Το τοπικό λεωφορείο σας πηγαίνει γρήγορα στην παραλιακή προβλήτα του λιμανιού."
           }
         },
         {
@@ -1615,7 +1739,8 @@
             "de": "Ein quadratisches Gebäude mit eleganten Bögen.",
             "hu": "Elegáns boltívekkel díszített négyzetes épület.",
             "ro": "O clădire pătrată cu arcade elegante.",
-            "en": "A square building with elegant arches."
+            "en": "A square building with elegant arches.",
+            "el": "Ένα τετράγωνο κτήριο με κομψούς θόλους."
           }
         },
         {
@@ -1634,7 +1759,8 @@
             "de": "Das Rauschen des Wassers ist sehr beruhigend.",
             "hu": "A víz csobogása nagyon nyugtató.",
             "ro": "Susurul apei este foarte liniștitor.",
-            "en": "The sound of the water is very soothing."
+            "en": "The sound of the water is very soothing.",
+            "el": "Ο ήχος του νερού είναι πολύ χαλαρωτικός."
           }
         },
         {
@@ -1653,7 +1779,8 @@
             "de": "Der Anstieg ist moderat, belohnt aber mit toller Sicht.",
             "hu": "Az emelkedő mérsékelt, de pazar kilátással jutalmaz.",
             "ro": "Urcușul este moderat, dar răsplătit cu o vedere minunată.",
-            "en": "The climb is moderate but rewarded with great views."
+            "en": "The climb is moderate but rewarded with great views.",
+            "el": "Η ανάβαση είναι μέτρια αλλά ανταμείβεται με υπέροχη θέα."
           }
         }
       ],
@@ -1661,7 +1788,8 @@
         "de": "Das Bussystem ermöglicht Ihnen bequeme Sprünge zwischen den Zonen. Beginnen Sie in der zentralen Altstadt für die Kirchen und Museen. Am frühen Nachmittag nehmen Sie einen Bus Richtung Norden zum venezianischen Hafen. Von dort aus flanieren Sie entspannt zur Loggia, zum Brunnen und beenden den Tag oben auf der mächtigen Fortezza.",
         "hu": "A buszhálózat kényelmes ugrásokat tesz lehetővé a zónák között. Kezdjen a központi óvárosban, a templomoknál és múzeumoknál. Kora délután buszozzon északra a velencei kikötőhöz. Innen kényelmesen elsétálhat a Loggiához és a kúthoz, majd a napot a hatalmas Fortezza erődben zárhatja.",
         "ro": "Rețeaua de autobuze vă permite salturi comode între zone. Începeți în centrul vechi central pentru biserici și muzee. După-amiaza devreme, luați un autobuz spre nord către portul venețian. De acolo, plimbați-vă relaxat până la Loggia, la fântână și încheiați ziua sus pe puternica Fortezza.",
-        "en": "The bus system allows convenient jumps between zones. Start in the central Old Town for the churches and museums. In the early afternoon, take a bus north to the Venetian Harbor. From there, stroll relaxed to the Loggia, the fountain, and end the day atop the mighty Fortezza."
+        "en": "The bus system allows convenient jumps between zones. Start in the central Old Town for the churches and museums. In the early afternoon, take a bus north to the Venetian Harbor. From there, stroll relaxed to the Loggia, the fountain, and end the day atop the mighty Fortezza.",
+        "el": "Το δίκτυο λεωφορείων επιτρέπει βολικά άλματα ανάμεσα στις ζώνες. Ξεκινήστε στο κεντρικό τμήμα της Παλιάς Πόλης για τις εκκλησίες και τα μουσεία. Νωρίς το απόγευμα πάρτε λεωφορείο βόρεια προς το Ενετικό Λιμάνι. Από εκεί περπατήστε άνετα προς τη Λότζια, το συντριβάνι και τελειώστε την ημέρα πάνω στη μεγαλή Φορτέτζα."
       },
       "gastro_picks": {
         "de": [
@@ -1797,6 +1925,10 @@
         "en": [
           "It is best to buy tickets for the city bus in advance at the kiosks (Periptero).",
           "Pay attention to the bus schedules, as there are often breaks in the afternoon."
+        ],
+        "el": [
+          "Καλό είναι να αγοράζετε εισιτήρια για το αστικό λεωφορείο εκ των προτέρων στα περίπτερα (Περίπτερο).",
+          "Προσέξτε τα δρομολόγια των λεωφορείων, καθώς υπάρχουν συχνά διακοπές το απόγευμα."
         ]
       },
       "variants": {
@@ -1805,7 +1937,8 @@
             "de": "Öffentliche Busse sind bei Regen die beste Wahl, um Rethymno trocken zu durchqueren. Wir starten in der Altstadt und nutzen die kurzen Wege zwischen den Haltestellen. Mittags besuchen wir die Kirche Agios Frangiskos und das Archäologische Museum, beide gut erreichbar. Am Nachmittag bringt uns der Bus zum Hafen und zur Loggia. Wir beenden den Tag bei der Fortezza, wobei wir den Aufstieg durch eine kurze Busfahrt oder ein Taxi bei starkem Regen abkürzen.",
             "hu": "A helyi buszok a legjobb választást jelentik esőben Rethymno száraz felfedezéséhez. Az óvárosban kezdünk, kihasználva a megállók közötti rövid távolságokat. Délben az Agios Frangiskos templomot és a Régészeti Múzeumot látogatjuk meg. Délután a busz a kikötőhöz és a Loggiához visz minket. A napot a Fortezzánál zárjuk, a feljutást heves esőben busszal vagy taxival rövidítve le.",
             "ro": "Autobuzele publice sunt cea mai bună alegere pe ploaie pentru a traversa Rethymno uscați. Începem în orașul vechi și profităm de distanțele scurte între stații. La prânz vizităm Biserica Agios Frangiskos și Muzeul Arheologic, ambele ușor accesibile. După-amiaza, autobuzul ne duce în port și la Loggia. Încheiem ziua la Fortezza, scurtând urcarea cu o scurtă călătorie cu autobuzul sau un taxi în caz de ploaie torențială.",
-            "en": "Public buses are the best choice in the rain to cross Rethymno dryly. We start in the old town, utilizing the short distances between stops. At noon, we visit the Church of Agios Frangiskos and the Archaeological Museum, both easily accessible. In the afternoon, the bus takes us to the harbor and the Loggia. We end the day at the Fortezza, shortening the climb with a quick bus ride or a taxi during heavy rain."
+            "en": "Public buses are the best choice in the rain to cross Rethymno dryly. We start in the old town, utilizing the short distances between stops. At noon, we visit the Church of Agios Frangiskos and the Archaeological Museum, both easily accessible. In the afternoon, the bus takes us to the harbor and the Loggia. We end the day at the Fortezza, shortening the climb with a quick bus ride or a taxi during heavy rain.",
+            "el": "Τα λεωφορεία είναι η καλύτερη επιλογή στη βροχή για να διασχίσετε το Ρέθυμνο στεγνοί. Ξεκινάμε στην παλιά πόλη, αξιοποιώντας τις μικρές αποστάσεις ανάμεσα στις στάσεις. Το μεσημέρι επισκεπτόμαστε την εκκλησία του Αγίου Φραγκίσκου και το Αρχαιολογικό Μουσείο, και τα δύο εύκολα προσβάσιμα. Το απόγευμα το λεωφορείο μας πάει στο λιμάνι και τη Λότζια. Τελειώνουμε τη μέρα στη Φορτέτζα, μειώνοντας την ανάβαση με μια γρήγορη διαδρομή λεωφορείου ή ταξί σε περίπτωση δυνατής βροχής."
           },
           "stops": [
             {
@@ -1814,7 +1947,8 @@
                 "de": "Die zentrale Bushaltestelle liegt direkt am Rand der Altstadt.",
                 "hu": "A központi buszmegálló közvetlenül az óváros szélén található.",
                 "ro": "Stația centrală de autobuz se află chiar la marginea orașului vechi.",
-                "en": "The central bus station is right at the edge of the old town."
+                "en": "The central bus station is right at the edge of the old town.",
+                "el": "Το κεντρικό λεωφορείοσταθμό βρίσκεται στην άκρη της παλιάς πόλης."
               }
             },
             {
@@ -1823,7 +1957,8 @@
                 "de": "Nahegelegene Haltestellen minimieren die Zeit im Regen.",
                 "hu": "A közeli megállók minimalizálják az esőben töltött időt.",
                 "ro": "Stațiile din apropiere minimizează timpul petrecut în ploaie.",
-                "en": "Nearby stops minimize time spent in the rain."
+                "en": "Nearby stops minimize time spent in the rain.",
+                "el": "Οι κοντινές στάσεις μειώνουν τον χρόνο στη βροχή."
               }
             },
             {
@@ -1832,7 +1967,8 @@
                 "de": "Ein perfekter Ort zum Verweilen, bis der nächste Bus kommt.",
                 "hu": "Tökéletes hely a várakozásra a következő buszig.",
                 "ro": "Un loc perfect pentru a aștepta până vine următorul autobuz.",
-                "en": "A perfect place to wait until the next bus comes."
+                "en": "A perfect place to wait until the next bus comes.",
+                "el": "Ένας τέλειος χώρος για να περιμένετε μέχρι να έρθει το επόμενο λεωφορείο."
               }
             },
             {
@@ -1841,7 +1977,8 @@
                 "de": "Die Haltestellen an der Küstenstraße bieten oft Unterstände.",
                 "hu": "A parti úton lévő megállók gyakran fedettek.",
                 "ro": "Stațiile de pe drumul de coastă oferă adesea adăposturi.",
-                "en": "Stops along the coastal road often provide shelters."
+                "en": "Stops along the coastal road often provide shelters.",
+                "el": "Οι στάσεις κατά μήκος της παραλιακής συχνά παρέχουν στέγαστρα."
               }
             },
             {
@@ -1850,7 +1987,8 @@
                 "de": "Nur ein kurzer Fußweg von den Buslinien im Zentrum entfernt.",
                 "hu": "Csak rövid séta a központi buszvonalaktól.",
                 "ro": "La doar o scurtă plimbare de liniile de autobuz din centru.",
-                "en": "Only a short walk from the central bus lines."
+                "en": "Only a short walk from the central bus lines.",
+                "el": "Μόνο λίγα βήματα από τις κεντρικές γραμμές λεωφορείων."
               }
             },
             {
@@ -1859,7 +1997,8 @@
                 "de": "Zentraler Punkt, von dem aus viele Busse leicht erreichbar sind.",
                 "hu": "Központi pont, ahonnan sok busz könnyen elérhető.",
                 "ro": "Punct central de unde multe autobuze sunt ușor accesibile.",
-                "en": "Central point from which many buses are easily accessible."
+                "en": "Central point from which many buses are easily accessible.",
+                "el": "Κεντρικό σημείο από όπου πολλά λεωφορεία είναι εύκολα προσβάσιμα."
               }
             },
             {
@@ -1868,7 +2007,8 @@
                 "de": "Nehmen Sie bei Regen ein Taxi für das letzte Stück bergauf.",
                 "hu": "Esőben hívjon taxit az utolsó emelkedő szakaszra.",
                 "ro": "Luați un taxi pentru ultima porțiune în urcare dacă plouă.",
-                "en": "Take a taxi for the last uphill stretch if it rains."
+                "en": "Take a taxi for the last uphill stretch if it rains.",
+                "el": "Πάρτε ταξί για την τελευταία ανηφορική διαδρομή αν βρέχει."
               }
             }
           ],
@@ -1896,6 +2036,12 @@
               "Keep small change ready for tickets bought from the driver.",
               "Buses usually run on schedule in the rain, but allow extra time.",
               "Use the K-TEL bus station as a dry hub."
+            ],
+            "el": [
+              "Κατεβάστε την τοπική εφαρμογή λεωφορείων για πληροφορίες σε πραγματικό χρόνο.",
+              "Να έχετε ψιλά έτοιμα για εισιτήρια που αγοράζονται από τον οδηγό.",
+              "Τα λεωφορεία συνήθως λειτουργούν σύμφωνα με τα δρομολόγια στη βροχή, αλλά προϋπολογίστε παραπάνω χρόνο.",
+              "Χρησιμοποιήστε το σταθμό λεωφορείων K-TEL ως στεγνό κόμβο."
             ]
           }
         },
@@ -1904,7 +2050,8 @@
             "de": "Im Winter ist der öffentliche Nahverkehr in Rethymno ideal für eine entspannte Stadttour. Wir starten morgens in der Altstadt, wenn die Busse noch leer sind. Mittags besuchen wir die Kirche Agios Frangiskos und das Museum. Der Nachmittag führt uns mit dem Bus zum venezianischen Hafen. Vor Sonnenuntergang erreichen wir die Loggia und den Rimondi-Brunnen. Den Tag beenden wir an der Fortezza, wo wir die klare Abendluft genießen, bevor uns der letzte Bus zurückbringt.",
             "hu": "Télen a helyi tömegközlekedés ideális egy pihentető városnézéshez Rethymnóban. Reggel az óvárosban kezdünk, amikor a buszok még üresek. Délben az Agios Frangiskos templomot és a múzeumot látogatjuk meg. Délután busszal megyünk a velencei kikötőhöz. Naplemente előtt érjük el a Loggiát és a Rimondi-kutat. A napot a Fortezzánál zárjuk, élvezve a tiszta esti levegőt, mielőtt az utolsó busz visszavinne minket.",
             "ro": "Iarna, transportul public local este ideal pentru un tur relaxat al orașului Rethymno. Începem dimineața în orașul vechi, când autobuzele sunt încă goale. La prânz vizităm Biserica Agios Frangiskos și muzeul. După-amiaza mergem cu autobuzul în portul venețian. Înainte de apus ajungem la Loggia și la Fântâna Rimondi. Încheiem ziua la Fortezza, unde ne bucurăm de aerul curat de seară înainte ca ultimul autobuz să ne ducă înapoi.",
-            "en": "In winter, local public transport is ideal for a relaxed city tour of Rethymno. We start the morning in the old town when the buses are still empty. At noon, we visit the Church of Agios Frangiskos and the museum. The afternoon takes us by bus to the Venetian harbor. Before sunset, we reach the Loggia and the Rimondi Fountain. We end the day at the Fortezza, enjoying the clear evening air before the last bus takes us back."
+            "en": "In winter, local public transport is ideal for a relaxed city tour of Rethymno. We start the morning in the old town when the buses are still empty. At noon, we visit the Church of Agios Frangiskos and the museum. The afternoon takes us by bus to the Venetian harbor. Before sunset, we reach the Loggia and the Rimondi Fountain. We end the day at the Fortezza, enjoying the clear evening air before the last bus takes us back.",
+            "el": "Το χειμώνα τα τοπικά μέσα μεταφοράς είναι ιδανικά για μια χαλαρή περιήγηση στο Ρέθυμνο. Ξεκινάμε το πρωί στην παλιά πόλη όταν τα λεωφορεία είναι ακόμη άδεια. Το μεσημέρι επισκεπτόμαστε την εκκλησία του Αγίου Φραγκίσκου και το μουσείο. Το απόγευμα μας πάει με λεωφορείο στο Ενετικό λιμάνι. Πριν το ηλιοβασίλεμα φτάνουμε στη Λότζια και το συντριβάνι Ριμόντι. Τελειώνουμε τη μέρα στη Φορτέτζα, απολαμβάνοντας τον καθαρό βραδινό αέρα πριν το τελευταίο λεωφορείο μας γυρίσει πίσω."
           },
           "stops": [
             {
@@ -1913,7 +2060,8 @@
                 "de": "Die Busse fahren im Winter seltener, prüfen Sie den Fahrplan.",
                 "hu": "Télen ritkábban járnak a buszok, ellenőrizze a menetrendet.",
                 "ro": "Autobuzele circulă mai rar iarna, verificați programul.",
-                "en": "Buses run less frequently in winter, check the timetable."
+                "en": "Buses run less frequently in winter, check the timetable.",
+                "el": "Τα λεωφορεία περνούν λιγότερο συχνά το χειμώνα, ελέγξτε το πρόγραμμα."
               }
             },
             {
@@ -1922,7 +2070,8 @@
                 "de": "Ein ruhiger Ort für Besinnung in der Winterzeit.",
                 "hu": "Csendes hely az elmélyüléshez a téli időszakban.",
                 "ro": "Un loc liniștit pentru reflecție în timpul iernii.",
-                "en": "A quiet place for reflection during the winter season."
+                "en": "A quiet place for reflection during the winter season.",
+                "el": "Ένας ήσυχος χώρος για περισυλλογή κατά τη χειμερινή περίοδο."
               }
             },
             {
@@ -1931,7 +2080,8 @@
                 "de": "Nutzen Sie die beheizten Räume für eine Pause.",
                 "hu": "Használja a fűtött tereket egy pihenőre.",
                 "ro": "Folosiți spațiile încălzite pentru o pauză.",
-                "en": "Use the heated spaces for a break."
+                "en": "Use the heated spaces for a break.",
+                "el": "Χρησιμοποιήστε τους θερμαινόμενους χώρους για ξεκούραση."
               }
             },
             {
@@ -1940,7 +2090,8 @@
                 "de": "Die Bushaltestelle am Hafen bietet eine tolle Aussicht beim Warten.",
                 "hu": "A kikötői buszmegálló remek kilátást nyújt várakozás közben.",
                 "ro": "Stația de autobuz din port oferă o priveliște minunată în timp ce așteptați.",
-                "en": "The harbor bus stop offers a great view while waiting."
+                "en": "The harbor bus stop offers a great view while waiting.",
+                "el": "Η στάση στο λιμάνι προσφέρει ωραία θέα όσο περιμένετε."
               }
             },
             {
@@ -1949,7 +2100,8 @@
                 "de": "Im Winter finden hier oft lokale Kulturveranstaltungen statt.",
                 "hu": "Télen gyakran tartanak itt helyi kulturális eseményeket.",
                 "ro": "Iarna au loc adesea evenimente culturale locale aici.",
-                "en": "Local cultural events often take place here in winter."
+                "en": "Local cultural events often take place here in winter.",
+                "el": "Τοπικές πολιτιστικές εκδηλώσεις συχνά πραγματοποιούνται εδώ το χειμώνα."
               }
             },
             {
@@ -1958,7 +2110,8 @@
                 "de": "Zentraler Treffpunkt für Einheimische auch im Winter.",
                 "hu": "Központi találkozóhely a helyieknek télen is.",
                 "ro": "Punct central de întâlnire pentru localnici și iarna.",
-                "en": "Central meeting point for locals even in winter."
+                "en": "Central meeting point for locals even in winter.",
+                "el": "Κεντρικό σημείο συνάντησης για τους ντόπιους ακόμα και το χειμώνα."
               }
             },
             {
@@ -1967,7 +2120,8 @@
                 "de": "Achten Sie auf die Abfahrtzeiten des letzten Busses am Abend.",
                 "hu": "Figyeljen az utolsó esti busz indulási idejére.",
                 "ro": "Atenție la orele de plecare ale ultimului autobuz de seară.",
-                "en": "Check the departure times of the last bus in the evening."
+                "en": "Check the departure times of the last bus in the evening.",
+                "el": "Ελέγξτε τις ώρες αναχώρησης του τελευταίου λεωφορείου το βράδυ."
               }
             }
           ],
@@ -1995,6 +2149,12 @@
               "Buses are reliable and less crowded in winter.",
               "Combine city buses with regional buses for further destinations.",
               "Tickets are often cheaper at kiosks than from the driver."
+            ],
+            "el": [
+              "Το χειμερινό πρόγραμμα συχνά αρχίζει τον Νοέμβριο, ενημερωθείτε εκ των προτέρων.",
+              "Τα λεωφορεία είναι αξιόπιστα και λιγότερο γεμάτα το χειμώνα.",
+              "Συνδυάστε τα αστικά λεωφορεία με τα υπεραστικά για περαιτέρω προορισμούς.",
+              "Τα εισιτήρια είναι συχνά φθηνότερα στα περίπτερα παρά από τον οδηγό."
             ]
           }
         }

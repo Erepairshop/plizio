@@ -21,7 +21,8 @@
             "de": "Platz der Demokratie",
             "hu": "Demokrácia tér",
             "ro": "Piața Democrației",
-            "en": "Democracy Square"
+            "en": "Democracy Square",
+            "el": "Πλατεία Δημοκρατίας"
           },
           "coords": [
             22.75,
@@ -37,7 +38,8 @@
             "de": "Trinken Sie hier Ihren Morgenkaffee mit den Einheimischen.",
             "hu": "Igyon meg itt egy reggeli kávét a helyiekkel.",
             "ro": "Beti o cafea de dimineață aici împreună cu localnicii.",
-            "en": "Have your morning coffee here with the locals."
+            "en": "Have your morning coffee here with the locals.",
+            "el": "Πιείτε εδώ τον πρωινό σας καφέ με τους ντόπιους."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Rathaus von Kiato",
             "hu": "Kiato Városháza",
             "ro": "Primăria din Kiato",
-            "en": "Kiato City Hall"
+            "en": "Kiato City Hall",
+            "el": "Δημαρχείο Κιάτου"
           },
           "coords": [
             22.748,
@@ -61,7 +64,8 @@
             "de": "Klassische Architektur im Zentrum der Stadt.",
             "hu": "Klasszikus építészet a város központjában.",
             "ro": "Arhitectură clasică în centrul orașului.",
-            "en": "Classic architecture in the center of the town."
+            "en": "Classic architecture in the center of the town.",
+            "el": "Κλασική αρχιτεκτονική στο κέντρο της πόλης."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Kirche der Verklärung",
             "hu": "Színeváltozás templom",
             "ro": "Biserica Schimbării la Față",
-            "en": "Church of the Transfiguration"
+            "en": "Church of the Transfiguration",
+            "el": "Εκκλησία της Μεταμορφώσεως"
           },
           "coords": [
             22.752,
@@ -85,7 +90,8 @@
             "de": "Beachten Sie die wunderschönen Ikonen im Inneren.",
             "hu": "Figyelje meg a gyönyörű ikonokat a belső térben.",
             "ro": "Admirați icoanele frumoase din interior.",
-            "en": "Notice the beautiful icons inside."
+            "en": "Notice the beautiful icons inside.",
+            "el": "Παρατηρήστε τα όμορφα εικόνες στο εσωτερικό."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Kulturzentrum",
             "hu": "Kulturális Központ",
             "ro": "Centrul Cultural",
-            "en": "Cultural Center"
+            "en": "Cultural Center",
+            "el": "Πολιτιστικό Κέντρο"
           },
           "coords": [
             22.755,
@@ -109,7 +116,8 @@
             "de": "Schauen Sie sich das lokale Veranstaltungsprogramm an.",
             "hu": "Nézze meg a helyi eseménynaptárt az előtérben.",
             "ro": "Verificați programul evenimentelor locale din hol.",
-            "en": "Check the local events schedule in the lobby."
+            "en": "Check the local events schedule in the lobby.",
+            "el": "Ελέγξτε το τοπικό πρόγραμμα εκδηλώσεων στη ρεσεψιόν."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Hafen von Kiato",
             "hu": "Kiato kikötője",
             "ro": "Portul Kiato",
-            "en": "Port of Kiato"
+            "en": "Port of Kiato",
+            "el": "Λιμάνι Κιάτου"
           },
           "coords": [
             22.758,
@@ -133,7 +142,8 @@
             "de": "Beobachten Sie die Fischerboote, die ihren Fang einbringen.",
             "hu": "Figyelje meg a zsákmánnyal visszatérő halászhajókat.",
             "ro": "Priviți bărcile de pescari aducând captura zilei.",
-            "en": "Watch the fishing boats bringing in their catch."
+            "en": "Watch the fishing boats bringing in their catch.",
+            "el": "Παρακολουθήστε τα αλιευτικά να φέρνουν την ψαριά τους."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Strand von Kiato",
             "hu": "Kiato tengerpartja",
             "ro": "Plaja Kiato",
-            "en": "Kiato Beach"
+            "en": "Kiato Beach",
+            "el": "Παραλία Κιάτου"
           },
           "coords": [
             22.74,
@@ -157,7 +168,8 @@
             "de": "Ideal für ein Mittagessen mit Meeresfrüchten.",
             "hu": "Ideális hely egy friss tengeri ebédhez a strandolás mellett.",
             "ro": "Locul ideal pentru un prânz cu fructe de mare pe plajă.",
-            "en": "Ideal spot for a seafood lunch next to the beach."
+            "en": "Ideal spot for a seafood lunch next to the beach.",
+            "el": "Ιδανικό σημείο για μεσημεριανό με θαλασσινά δίπλα στη θάλασσα."
           }
         }
       ],
@@ -165,7 +177,8 @@
         "de": "Erkunden Sie das Zentrum von Kiato bequem zu Fuß. Starten Sie am Platz der Demokratie und bewundern Sie das Rathaus sowie die Kirche der Verklärung. Das Kulturzentrum bietet Einblicke in das lokale Leben. Am Hafen spüren Sie die Meeresbrise, bevor Sie den Nachmittag entspannt am Strand verbringen.",
         "hu": "Kiato központja könnyedén bejárható gyalogosan. Kezdje a Demokrácia téren, majd nézze meg a Városházát és a Színeváltozás templomát. A Kulturális Központ a helyi életbe nyújt bepillantást. A kikötőben már érezni a tengeri sós levegőt, a délutánt pedig a tengerparton töltheti.",
         "ro": "Centrul orașului Kiato este perfect pentru o explorare la pas. Începeți în Piața Democrației, apoi vizitați Primăria și Biserica Schimbării la Față. Centrul Cultural oferă o privire în viața locală. Simțiți briza mării în port, înainte de a vă relaxa toată după-amiaza pe plajă.",
-        "en": "The center of Kiato is perfectly sized for a walking tour. Start at Democracy Square, see the City Hall, and visit the Church of the Transfiguration. The Cultural Center provides a glimpse into local life. Smell the sea breeze at the port before spending a relaxing afternoon at the beach."
+        "en": "The center of Kiato is perfectly sized for a walking tour. Start at Democracy Square, see the City Hall, and visit the Church of the Transfiguration. The Cultural Center provides a glimpse into local life. Smell the sea breeze at the port before spending a relaxing afternoon at the beach.",
+        "el": "Το κέντρο του Κιάτου έχει ιδανικό μέγεθος για περιπάτους. Ξεκινήστε από την Πλατεία Δημοκρατίας, δείτε το Δημαρχείο και επισκεφθείτε την Εκκλησία της Μεταμορφώσεως. Το Πολιτιστικό Κέντρο δίνει μια γεύση τοπικής ζωής. Μυρίστε την αλμύρα στο λιμάνι πριν περάσετε ένα χαλαρωτικό απόγευμα στην παραλία."
       },
       "gastro_picks": {
         "de": [
@@ -341,6 +354,12 @@
           "Summers can be hot, make sure to bring sunscreen.",
           "The tavernas by the port often open late in the morning.",
           "A comfortable pair of walking shoes is all you need for this route."
+        ],
+        "el": [
+          "Το Κιάτο είναι πολύ επίπεδο και εύκολο για περπάτημα.",
+          "Τα καλοκαίρια μπορεί να είναι ζεστά, φροντίστε να έχετε αντηλιακό.",
+          "Οι ταβέρνες στο λιμάνι συχνά ανοίγουν αργά το πρωί.",
+          "Ένα άνετο ζευγάρι περπατήσιμων παπουτσιών είναι ό,τι χρειάζεστε για αυτή τη διαδρομή."
         ]
       },
       "variants": {
@@ -349,7 +368,8 @@
             "de": "Beginnen Sie unter den Arkaden am Platz der Demokratie. Mittags bieten das Rathaus und die Kirche trockene Innenräume für Besichtigungen. Verbringen Sie den regnerischen Nachmittag im Kulturzentrum bei lokalen Ausstellungen. Beenden Sie den Tag im Hafen, wo Sie das Meer von einem geschützten Café aus beobachten können.",
             "hu": "Kezdje a sétát a főtér fedett részei alatt. Délben a Városháza és a templom belső terei nyújtanak száraz menedéket a városnézéshez. A csapadékos délutánt töltse a Kulturális Központ kiállításai között. Az estét a kikötőben zárja, egy védett kávézó teraszáról figyelve a hullámzó tengert.",
             "ro": "Începeți sub arcadele din Piața Democrației. La prânz, Primăria și Biserica oferă interioare uscate pentru vizitare. Petreceți după-amiaza ploioasă la Centrul Cultural, explorând expozițiile locale. Încheiați ziua în port, observând marea de la adăpostul unei cafenele acoperite.",
-            "en": "Start your walk under the sheltered areas of Democracy Square. At noon, the City Hall and the Church offer dry interiors for sightseeing. Spend the rainy afternoon exploring local exhibits at the Cultural Center. End your day at the port, watching the sea from the comfort of a covered cafe."
+            "en": "Start your walk under the sheltered areas of Democracy Square. At noon, the City Hall and the Church offer dry interiors for sightseeing. Spend the rainy afternoon exploring local exhibits at the Cultural Center. End your day at the port, watching the sea from the comfort of a covered cafe.",
+            "el": "Ξεκινήστε τον περίπατο κάτω από τα στεγασμένα σημεία της Πλατείας Δημοκρατίας. Το μεσημέρι το Δημαρχείο και η Εκκλησία προσφέρουν στεγνά εσωτερικά για περιήγηση. Περάστε το βροχερό απόγευμα εξερευνώντας τα τοπικά εκθέματα στο Πολιτιστικό Κέντρο. Τελειώστε τη μέρα σας στο λιμάνι, παρακολουθώντας τη θάλασσα από την άνεση ενός καλυμμένου καφέ."
           },
           "stops": [
             {
@@ -358,7 +378,8 @@
                 "de": "Nutzen Sie die Arkaden der umliegenden Gebäude als Regenschutz.",
                 "hu": "Használja a környező épületek árkádjait eső elleni védelemként.",
                 "ro": "Folosiți arcadele clădirilor din jur ca protecție împotriva ploii.",
-                "en": "Use the arcades of the surrounding buildings as shelter from the rain."
+                "en": "Use the arcades of the surrounding buildings as shelter from the rain.",
+                "el": "Χρησιμοποιήστε τις στοές των γύρω κτιρίων ως καταφύγιο από τη βροχή."
               }
             },
             {
@@ -367,7 +388,8 @@
                 "de": "Ein kurzer, trockener Stopp zur Bewunderung der Architektur.",
                 "hu": "Rövid, száraz megálló az építészet megcsodálására.",
                 "ro": "O oprire scurtă și uscată pentru a admira arhitectura.",
-                "en": "A short, dry stop to admire the architecture."
+                "en": "A short, dry stop to admire the architecture.",
+                "el": "Σύντομη, στεγνή στάση για να θαυμάσετε την αρχιτεκτονική."
               }
             },
             {
@@ -376,7 +398,8 @@
                 "de": "Ideal, um den heftigsten Regenschauern im Inneren zu entgehen.",
                 "hu": "Ideális hely a hevesebb záporok átvészelésére a belső térben.",
                 "ro": "Loc ideal pentru a evita ploile torențiale în interior.",
-                "en": "Ideal place to avoid heavy showers while inside."
+                "en": "Ideal place to avoid heavy showers while inside.",
+                "el": "Ιδανικό μέρος για να αποφύγετε δυνατές καταιγίδες ενώ είστε μέσα."
               }
             },
             {
@@ -385,7 +408,8 @@
                 "de": "Das beste Ziel für einen längeren Aufenthalt bei Regen.",
                 "hu": "A legjobb célpont hosszabb tartózkodásra esős időben.",
                 "ro": "Cea mai bună destinație pentru o ședere prelungită pe timp de ploaie.",
-                "en": "The best destination for a longer stay during rainy weather."
+                "en": "The best destination for a longer stay during rainy weather.",
+                "el": "Ο καλύτερος προορισμός για μακρύτερη παραμονή σε βροχερό καιρό."
               }
             },
             {
@@ -394,7 +418,8 @@
                 "de": "Vorsicht vor rutschigen Steinen an der Hafenmauer.",
                 "hu": "Vigyázat, a kikötői kövek vizesen csúszósak lehetnek.",
                 "ro": "Atenție, pietrele din port pot fi alunecoase când sunt ude.",
-                "en": "Caution, the port stones can be slippery when wet."
+                "en": "Caution, the port stones can be slippery when wet.",
+                "el": "Προσοχή, οι λιθόστρωτοι του λιμανιού μπορούν να γλιστρήσουν όταν βραχούν."
               }
             },
             {
@@ -403,7 +428,8 @@
                 "de": "Meiden Sie die sandigen Abschnitte, da diese schlammig werden.",
                 "hu": "Kerülje a homokos részeket, mert sárossá válhatnak.",
                 "ro": "Evitați secțiunile cu nisip, deoarece pot deveni noroioase.",
-                "en": "Avoid sandy sections as they can become muddy."
+                "en": "Avoid sandy sections as they can become muddy.",
+                "el": "Αποφύγετε τις αμμώδεις περιοχές καθώς μπορούν να γίνουν λασπώδεις."
               }
             }
           ],
@@ -431,6 +457,12 @@
               "Sidewalks in Kiato can be very slippery when wet.",
               "Use the port cafes as strategic dry stopping points.",
               "A sturdy umbrella is more practical than a poncho due to the wind."
+            ],
+            "el": [
+              "Φορέστε αδιάβροχα παπούτσια καθώς μπορεί να σχηματιστούν λακκούβες στο δρόμο.",
+              "Τα πεζοδρόμια στο Κιάτο μπορεί να γλιστρήσουν πολύ όταν είναι βρεγμένα.",
+              "Χρησιμοποιήστε τα καφέ του λιμανιού ως στρατηγικά σημεία στεγνής στάσης.",
+              "Μια στιβαρή ομπρέλα είναι πιο πρακτική από ένα αδιάβροχο λόγω του ανέμου."
             ]
           }
         },
@@ -439,7 +471,8 @@
             "de": "Atmen Sie am Morgen die frische, kühle Meeresluft am Platz ein. Mittags wärmt die Wintersonne die Straßen, ideal für den Besuch der hellen Kirche. Nachmittags bietet das Kulturzentrum einen windgeschützten Rückzugsort. Genießen Sie den frühen Sonnenuntergang am Strand, bevor die Abendkälte einsetzt.",
             "hu": "Szívja be a reggeli friss, hűvös tengeri levegőt a főtéren. Délben a téli napsütés melengeti az utcákat, ideális idő a templom meglátogatásához. Délután a Kulturális Központ nyújt szélvédett menedéket. Élvezze a korai naplementét a parton, mielőtt beáll az esti lehűlés.",
             "ro": "Inspirarea aerului marin proaspăt și răcoros în piață dimineața. La prânz, soarele de iarnă încălzește străzile, ideal pentru a vizita biserica luminoasă. După-amiaza, Centrul Cultural oferă un refugiu ferit de vânt. Bucurați-vă de apusul timpuriu pe plajă înainte de lăsarea frigului serii.",
-            "en": "Inhale the fresh, cool sea air at the square in the morning. At noon, the winter sun warms the streets, ideal for visiting the bright church. In the afternoon, the Cultural Center provides a wind-sheltered retreat. Enjoy the early sunset at the beach before the evening chill sets in."
+            "en": "Inhale the fresh, cool sea air at the square in the morning. At noon, the winter sun warms the streets, ideal for visiting the bright church. In the afternoon, the Cultural Center provides a wind-sheltered retreat. Enjoy the early sunset at the beach before the evening chill sets in.",
+            "el": "Αναπνεύστε τον φρέσκο, δροσερό θαλασσινό αέρα στην πλατεία το πρωί. Το μεσημέρι ο χειμωνιάτικος ήλιος ζεσταίνει τους δρόμους, ιδανικός για επίσκεψη στην φωτεινή εκκλησία. Το απόγευμα το Πολιτιστικό Κέντρο προσφέρει καταφύγιο από τον άνεμο. Απολαύστε το πρώιμο ηλιοβασίλεμα στην παραλία πριν πέσει το βραδινό κρύο."
           },
           "stops": [
             {
@@ -448,7 +481,8 @@
                 "de": "Genießen Sie einen heißen griechischen Kaffee in der Morgensonne.",
                 "hu": "Élvezzen egy forró görög kávét a reggeli napsütésben.",
                 "ro": "Savurați o cafea grecească fierbinte în soarele dimineții.",
-                "en": "Enjoy a hot Greek coffee in the morning sun."
+                "en": "Enjoy a hot Greek coffee in the morning sun.",
+                "el": "Απολαύστε έναν ζεστό ελληνικό καφέ στο πρωινό φως."
               }
             },
             {
@@ -457,7 +491,8 @@
                 "de": "Bewundern Sie die Architektur im klaren Winterlicht.",
                 "hu": "Csodálja meg az építészetet a tiszta téli fényben.",
                 "ro": "Admirați arhitectura în lumina clară a iernii.",
-                "en": "Admire the architecture in the clear winter light."
+                "en": "Admire the architecture in the clear winter light.",
+                "el": "Θαυμάστε την αρχιτεκτονική στο καθαρό χειμωνιάτικο φως."
               }
             },
             {
@@ -466,7 +501,8 @@
                 "de": "Ein ruhiger Ort zur inneren Einkehr, abseits des Küstenwindes.",
                 "hu": "Csendes hely az elmélyüléshez, távol a tengeri széltől.",
                 "ro": "Un loc liniștit pentru reflecție, departe de vântul de coastă.",
-                "en": "A quiet place for reflection, away from the coastal wind."
+                "en": "A quiet place for reflection, away from the coastal wind.",
+                "el": "Ένας ήσυχος χώρος για περισυλλογή, μακριά από το παραθαλάσσιο αεράκι."
               }
             },
             {
@@ -475,7 +511,8 @@
                 "de": "Beheizte Innenräume machen diesen Stopp im Winter angenehm.",
                 "hu": "A fűtött belső tér kellemessé teszi ezt a megállót télen.",
                 "ro": "Interioarele încălzite fac această oprire plăcută iarna.",
-                "en": "Heated interiors make this stop pleasant in winter."
+                "en": "Heated interiors make this stop pleasant in winter.",
+                "el": "Τα θερμαινόμενα εσωτερικά κάνουν αυτή τη στάση ευχάριστη το χειμώνα."
               }
             },
             {
@@ -484,7 +521,8 @@
                 "de": "Kleiden Sie sich warm gegen die kalte Brise vom Golf von Korinth.",
                 "hu": "Öltözzön melegen a Korinthoszi-öböl felől fújó hűvös szél ellen.",
                 "ro": "Îmbrăcați-vă gros împotriva brizei reci din Golful Corint.",
-                "en": "Dress warmly against the cool breeze from the Gulf of Corinth."
+                "en": "Dress warmly against the cool breeze from the Gulf of Corinth.",
+                "el": "Ντυθείτε ζεστά ενάντια στο δροσερό αεράκι από τον Κόλπο της Κορίνθου."
               }
             },
             {
@@ -493,7 +531,8 @@
                 "de": "Perfekt für einen einsamen Spaziergang bei Sonnenuntergang gegen 17:15 Uhr.",
                 "hu": "Tökéletes hely egy magányos sétához a 17:15 körüli naplementében.",
                 "ro": "Perfect pentru o plimbare solitară la apus, în jurul orei 17:15.",
-                "en": "Perfect for a solitary walk at sunset around 17:15."
+                "en": "Perfect for a solitary walk at sunset around 17:15.",
+                "el": "Ιδανικό για μοναχικό περίπατο στο ηλιοβασίλεμα γύρω στις 17:15."
               }
             }
           ],
@@ -521,6 +560,12 @@
               "Layered clothing helps against the variable coastal wind.",
               "Many beach bars are closed, but central cafes remain open.",
               "High humidity can make the cold feel more intense."
+            ],
+            "el": [
+              "Το ηλιοβασίλεμα είναι ήδη γύρω στις 17:15, προγραμματίστε ανάλογα.",
+              "Τα στρωματοποιημένα ρούχα βοηθούν ενάντια στον μεταβλητό παραθαλάσσιο άνεμο.",
+              "Πολλά beach bars είναι κλειστά, αλλά τα κεντρικά καφέ παραμένουν ανοιχτά.",
+              "Η υψηλή υγρασία μπορεί να κάνει το κρύο να φαίνεται πιο έντονο."
             ]
           }
         }
@@ -539,7 +584,8 @@
             "de": "Platz der Demokratie",
             "hu": "Demokrácia tér",
             "ro": "Piața Democrației",
-            "en": "Democracy Square"
+            "en": "Democracy Square",
+            "el": "Πλατεία Δημοκρατίας"
           },
           "coords": [
             22.75,
@@ -555,7 +601,8 @@
             "de": "Starten Sie hier mit einem frischen Saft.",
             "hu": "Indítsa innen a napot egy friss gyümölcslével.",
             "ro": "Începeți ziua aici cu un suc proaspăt.",
-            "en": "Start your day here with a fresh juice."
+            "en": "Start your day here with a fresh juice.",
+            "el": "Ξεκινήστε τη μέρα σας εδώ με ένα φρέσκο χυμό."
           }
         },
         {
@@ -563,7 +610,8 @@
             "de": "Hafen von Kiato",
             "hu": "Kiato kikötője",
             "ro": "Portul Kiato",
-            "en": "Port of Kiato"
+            "en": "Port of Kiato",
+            "el": "Λιμάνι Κιάτου"
           },
           "coords": [
             22.758,
@@ -579,7 +627,8 @@
             "de": "Ein schöner Ort, um kurz vom Fahrrad abzusteigen.",
             "hu": "Remek hely egy rövid megállóra a biciklivel.",
             "ro": "Un loc grozav pentru o scurtă pauză de la pedalat.",
-            "en": "A great spot to briefly get off the bike."
+            "en": "A great spot to briefly get off the bike.",
+            "el": "Ένας εξαιρετικός τόπος για να κατέβετε σύντομα από το ποδήλατο."
           }
         },
         {
@@ -587,7 +636,8 @@
             "de": "Kirche der Verklärung",
             "hu": "Színeváltozás templom",
             "ro": "Biserica Schimbării la Față",
-            "en": "Church of the Transfiguration"
+            "en": "Church of the Transfiguration",
+            "el": "Εκκλησία της Μεταμορφώσεως"
           },
           "coords": [
             22.752,
@@ -603,7 +653,8 @@
             "de": "Parken Sie Ihr Fahrrad draußen und besichtigen Sie das Innere.",
             "hu": "Parkolja le a biciklit kint, és nézze meg a belső teret.",
             "ro": "Lăsați bicicleta afară și vizitați interiorul.",
-            "en": "Park your bike outside and view the interior."
+            "en": "Park your bike outside and view the interior.",
+            "el": "Σταθμεύστε το ποδήλατό σας έξω και δείτε το εσωτερικό."
           }
         },
         {
@@ -611,7 +662,8 @@
             "de": "Strand von Kiato",
             "hu": "Kiato tengerpartja",
             "ro": "Plaja Kiato",
-            "en": "Kiato Beach"
+            "en": "Kiato Beach",
+            "el": "Παραλία Κιάτου"
           },
           "coords": [
             22.74,
@@ -627,7 +679,8 @@
             "de": "Fahren Sie entlang der Strandpromenade.",
             "hu": "Tekerjen végig a tengerparti sétányon.",
             "ro": "Plimbați-vă cu bicicleta de-a lungul promenadei de pe plajă.",
-            "en": "Ride along the beach promenade."
+            "en": "Ride along the beach promenade.",
+            "el": "Κάντε βόλτα κατά μήκος του παραλιακού πεζόδρομου."
           }
         },
         {
@@ -635,7 +688,8 @@
             "de": "Antikes Sikyon",
             "hu": "Ókori Sziküón",
             "ro": "Anticul Sicyon",
-            "en": "Ancient Sicyon"
+            "en": "Ancient Sicyon",
+            "el": "Αρχαία Σύκιον"
           },
           "coords": [
             22.723,
@@ -651,7 +705,8 @@
             "de": "Die Fahrt bergauf lohnt sich für die historischen Ruinen.",
             "hu": "A felfelé vezető út megéri a történelmi romokért.",
             "ro": "Urcușul merită efortul pentru ruinele istorice.",
-            "en": "The uphill ride is worth it for the historical ruins."
+            "en": "The uphill ride is worth it for the historical ruins.",
+            "el": "Η ανάβαση αξίζει για τα ιστορικά ερείπια."
           }
         }
       ],
@@ -659,7 +714,8 @@
         "de": "Mit dem Fahrrad erleben Sie den Kontrast der Region. Morgens erkunden Sie die Küste und das Zentrum von Kiato. Der Höhepunkt ist die Nachmittagsfahrt hinauf zum antiken Sikyon, wo Sie griechische Geschichte fernab der Massen erleben.",
         "hu": "Biciklivel tökéletesen megtapasztalható a régió kettőssége. Délelőtt a partot és Kiato központját járja be, majd délután egy hosszabb tekeréssel feljut az ókori Sziküónba, ahol a görög történelem egy darabkája várja a tömegektől távol.",
         "ro": "Cu bicicleta veți experimenta perfect contrastul regiunii. Dimineața explorați coasta și centrul orașului Kiato. Punctul culminant este plimbarea de după-amiază spre Anticul Sicyon, unde veți vedea istoria greacă departe de aglomerație.",
-        "en": "By bike, you can perfectly experience the region's contrast. In the morning, explore the coast and Kiato's center. The highlight is the afternoon ride up to Ancient Sicyon, where you can see Greek history away from the crowds."
+        "en": "By bike, you can perfectly experience the region's contrast. In the morning, explore the coast and Kiato's center. The highlight is the afternoon ride up to Ancient Sicyon, where you can see Greek history away from the crowds.",
+        "el": "Με το ποδήλατο μπορείτε να νιώσετε πλήρως την αντίθεση της περιοχής. Το πρωί εξερευνήστε την ακτή και το κέντρο του Κιάτου. Το απόγευμα κορυφαίο σημείο είναι η ανάβαση στην Αρχαία Σύκιον, όπου μπορείτε να δείτε την ελληνική ιστορία μακριά από τα πλήθη."
       },
       "gastro_picks": {
         "de": [
@@ -835,6 +891,12 @@
           "Start early to avoid the midday heat on the climb.",
           "Always lock your bike, even if the area feels safe.",
           "Bring enough water for the ride up to Sicyon."
+        ],
+        "el": [
+          "Ο δρόμος προς τη Σύκιο είναι ανηφορικός, καλό είναι να έχετε καλά φρένα.",
+          "Ξεκινήστε νωρίς για να αποφύγετε τη μεσημεριανή ζέστη στην ανάβαση.",
+          "Κλειδώστε πάντα το ποδήλατό σας, ακόμη κι αν η περιοχή φαίνεται ασφαλής.",
+          "Φέρτε αρκετό νερό για την ανάβαση προς τη Σύκιο."
         ]
       },
       "variants": {
@@ -843,7 +905,8 @@
             "de": "Radfahren im Regen erfordert Vorsicht auf den Küstenstraßen. Starten Sie am Platz und fahren Sie zügig zum Hafen. Die Kirche bietet eine Pause vom Niederschlag. Der Weg zum Strand kann windig sein; Schutzbleche sind hier ein Muss. Die Fahrt zum antiken Sikyon ist bei Regen wegen Schlamm anspruchsvoll.",
             "hu": "Az esőben való kerékpározás óvatosságot igényel a parti utakon. Kezdjen a téren, majd tekerjen a kikötőbe. A templom rövid pihenőt kínál a csapadék elől. A strand felé vezető út szeles lehet, a sárvédő elengedhetetlen. Az ókori Sziküón felé vezető emelkedő sár esetén nehézkes.",
             "ro": "Mersul pe bicicletă în ploaie necesită prudență pe drumurile de coastă. Începeți în piață și mergeți spre port. Biserica oferă o pauză de la precipitații. Drumul spre plajă poate fi vântos; aripile sunt obligatorii. Drumul spre Sicyonul Antic este dificil pe ploaie din cauza noroiului.",
-            "en": "Cycling in the rain requires caution on coastal roads. Start at the square and head to the port. The church offers a brief respite from the downpour. The path to the beach can be windy; fenders are essential. The ride to Ancient Sicyon is challenging in the rain due to mud."
+            "en": "Cycling in the rain requires caution on coastal roads. Start at the square and head to the port. The church offers a brief respite from the downpour. The path to the beach can be windy; fenders are essential. The ride to Ancient Sicyon is challenging in the rain due to mud.",
+            "el": "Το ποδήλατο στη βροχή απαιτεί προσοχή στους παραθαλάσσιους δρόμους. Ξεκινήστε από την πλατεία και κατευθυνθείτε στο λιμάνι. Η εκκλησία προσφέρει σύντομη ανάπαυλα από τη μπόρα. Η διαδρομή προς την παραλία μπορεί να είναι ανεμώδης· οι φτερούγες λάσπης είναι απαραίτητες. Η ανάβαση στην Αρχαία Σύκιο είναι δύσκολη στη βροχή λόγω της λάσπης."
           },
           "stops": [
             {
@@ -852,7 +915,8 @@
                 "de": "Prüfen Sie Ihre Bremsen, bevor Sie auf nasser Fahrbahn starten.",
                 "hu": "Ellenőrizze a fékeket, mielőtt elindul a vizes úton.",
                 "ro": "Verificați frânele înainte de a porni pe carosabilul umed.",
-                "en": "Check your brakes before starting on wet pavement."
+                "en": "Check your brakes before starting on wet pavement.",
+                "el": "Ελέγξτε τα φρένα σας πριν ξεκινήσετε σε βρεγμένο οδόστρωμα."
               }
             },
             {
@@ -861,7 +925,8 @@
                 "de": "Vermeiden Sie scharfe Kurven auf den glatten Hafenplatten.",
                 "hu": "Kerülje az éles kanyarokat a csúszós kikötői köveken.",
                 "ro": "Evitați virajele strânse pe plăcile alunecoase din port.",
-                "en": "Avoid sharp turns on the slippery port tiles."
+                "en": "Avoid sharp turns on the slippery port tiles.",
+                "el": "Αποφύγετε απότομες στροφές στις γλιστερές πλακώστρωτες του λιμανιού."
               }
             },
             {
@@ -870,7 +935,8 @@
                 "de": "Stellen Sie Ihr Fahrrad unter, wenn möglich.",
                 "hu": "Lehetőség szerint fedett helyen parkolja le a kerékpárt.",
                 "ro": "Parcați bicicleta sub un adăpost, dacă este posibil.",
-                "en": "Park your bike under cover if possible."
+                "en": "Park your bike under cover if possible.",
+                "el": "Σταθμεύστε το ποδήλατο κάτω από κάλυμμα αν είναι δυνατόν."
               }
             },
             {
@@ -879,7 +945,8 @@
                 "de": "Vorsicht vor Sand auf dem nassen Asphalt, Sturzgefahr.",
                 "hu": "Vigyázat, a vizes aszfalton lévő homok csúszásveszélyes.",
                 "ro": "Atenție la nisipul de pe asfaltul umed, risc de cădere.",
-                "en": "Watch out for sand on wet asphalt, risk of slipping."
+                "en": "Watch out for sand on wet asphalt, risk of slipping.",
+                "el": "Προσέξτε την άμμο σε βρεγμένο άσφαλτο, υπάρχει κίνδυνος ολίσθησης."
               }
             },
             {
@@ -888,7 +955,8 @@
                 "de": "Der Anstieg kann bei Regen sehr rutschig und schlammig sein.",
                 "hu": "Az emelkedő esőben nagyon csúszós és sáros lehet.",
                 "ro": "Urcarea poate fi foarte alunecoasă și noroioasă pe ploaie.",
-                "en": "The climb can be very slippery and muddy in the rain."
+                "en": "The climb can be very slippery and muddy in the rain.",
+                "el": "Η ανάβαση μπορεί να γίνει πολύ γλιστερή και λασπώδης στη βροχή."
               }
             }
           ],
@@ -916,6 +984,12 @@
               "Avoid puddles as they might hide deep potholes.",
               "Wear a high-visibility raincoat for better safety.",
               "Lock your bike in well-lit, rain-protected areas."
+            ],
+            "el": [
+              "Αυξήστε σημαντικά την απόσταση φρεναρίσματος σε βρεγμένη άσφαλτο.",
+              "Αποφύγετε τις λακκούβες καθώς μπορεί να κρύβουν βαθιές ανωμαλίες.",
+              "Φορέστε αδιάβροχο με υψηλή ορατότητα για μεγαλύτερη ασφάλεια.",
+              "Κλειδώστε το ποδήλατό σας σε καλά φωτισμένα, προστατευμένα από τη βροχή σημεία."
             ]
           }
         },
@@ -924,7 +998,8 @@
             "de": "Winterliches Radfahren bietet klare Sicht auf den Golf. Am Morgen ist es auf dem Platz noch frisch. Die Fahrt zum Hafen ist belebend, aber windig. Besuchen Sie die Kirche zum Aufwärmen. Die Strandroute ist ruhig und leer. Der Anstieg zum antiken Sikyon erfordert Ausdauer gegen den kalten Gegenwind aus den Bergen.",
             "hu": "A téli kerékpározás tiszta kilátást nyújt az öbölre. Reggel még friss az idő a téren. A kikötői gurulás élénkítő, de szeles. Látogassa meg a templomot egy kis melegedésért. A tengerparti szakasz ilyenkor csendes. A Sziküón felé vezető út kitartást igényel a hegyek felől fújó hideg szél miatt.",
             "ro": "Mersul pe bicicletă iarna oferă vederi clare asupra golfului. Dimineața este încă răcoare în piață. Drumul spre port este revigorant, dar vântos. Vizitați biserica pentru a vă încălzi. Ruta de pe plajă este liniștită. Urcarea spre Sicyon necesită rezistență împotriva vântului rece dinspre munți.",
-            "en": "Winter cycling offers clear views of the gulf. It's crisp at the square in the morning. The ride to the port is bracing but windy. Visit the church to warm up. The beach route is quiet and empty. The climb to Sicyon requires endurance against the cold headwind from the mountains."
+            "en": "Winter cycling offers clear views of the gulf. It's crisp at the square in the morning. The ride to the port is bracing but windy. Visit the church to warm up. The beach route is quiet and empty. The climb to Sicyon requires endurance against the cold headwind from the mountains.",
+            "el": "Το χειμερινό ποδήλατο προσφέρει καθαρές θέες του κόλπου. Είναι δροσερά στην πλατεία το πρωί. Η διαδρομή προς το λιμάνι είναι αναζωογονητική αλλά ανεμώδης. Επισκεφθείτε την εκκλησία για να ζεσταθείτε. Η διαδρομή στην παραλία είναι ήσυχη και άδεια. Η ανάβαση προς τη Σύκιο απαιτεί αντοχή απέναντι στο κρύο αντίθετο αεράκι από τα βουνά."
           },
           "stops": [
             {
@@ -933,7 +1008,8 @@
                 "de": "Handschuhe sind für die erste Etappe am Morgen unerlässlich.",
                 "hu": "A reggeli első szakaszhoz a kesztyű elengedhetetlen.",
                 "ro": "Mănușile sunt esențiale pentru prima etapă a dimineții.",
-                "en": "Gloves are essential for the first leg of the morning."
+                "en": "Gloves are essential for the first leg of the morning.",
+                "el": "Τα γάντια είναι απαραίτητα για το πρώτο τμήμα του πρωινού."
               }
             },
             {
@@ -942,7 +1018,8 @@
                 "de": "Starker Seitenwind am Hafenbecken möglich.",
                 "hu": "A kikötői medencénél erős oldalszélre kell számítani.",
                 "ro": "Vânt lateral puternic posibil lângă bazinele portului.",
-                "en": "Strong crosswinds possible near the harbor basin."
+                "en": "Strong crosswinds possible near the harbor basin.",
+                "el": "Δυνατοί πλαγιονεμισμοί πιθανώς κοντά στη λεκάνη του λιμανιού."
               }
             },
             {
@@ -951,7 +1028,8 @@
                 "de": "Guter Ort, um die Finger wieder aufzuwärmen.",
                 "hu": "Jó hely az átfagyott ujjak felmelegítésére.",
                 "ro": "Un loc bun pentru a vă încălzi degetele amorțite.",
-                "en": "Good place to warm up your cold fingers."
+                "en": "Good place to warm up your cold fingers.",
+                "el": "Καλό σημείο για να ζεστάνετε τα κρύα σας δάχτυλα."
               }
             },
             {
@@ -960,7 +1038,8 @@
                 "de": "Genießen Sie die weite Sicht ohne die sommerliche Hitze.",
                 "hu": "Élvezze a tágas kilátást a nyári hőség nélkül.",
                 "ro": "Bucurați-vă de priveliștea largă fără căldura verii.",
-                "en": "Enjoy the wide view without the summer heat."
+                "en": "Enjoy the wide view without the summer heat.",
+                "el": "Απολαύστε την ευρεία θέα χωρίς τη ζέστη του καλοκαιριού."
               }
             },
             {
@@ -969,7 +1048,8 @@
                 "de": "Warme Kleidung für die schnelle Abfahrt zurück nach Kiato.",
                 "hu": "Készítsen meleg ruhát a Kiato felé tartó gyors lejtmenethez.",
                 "ro": "Pregătiți haine groase pentru coborârea rapidă spre Kiato.",
-                "en": "Have warm clothes ready for the fast descent back to Kiato."
+                "en": "Have warm clothes ready for the fast descent back to Kiato.",
+                "el": "Έχετε ζεστά ρούχα έτοιμα για την γρήγορη κατάβαση πίσω στο Κιάτο."
               }
             }
           ],
@@ -997,6 +1077,12 @@
               "Days are short; ensure your bike lights are working.",
               "The descent from Sicyon can cool your body down very quickly.",
               "It can be significantly colder in the hills than at the coast."
+            ],
+            "el": [
+              "Χρησιμοποιήστε θερμικά βασικά στρώματα ενάντια στο ψυχρό αεράκι.",
+              "Οι μέρες είναι σύντομες· βεβαιωθείτε ότι τα φώτα του ποδηλάτου λειτουργούν.",
+              "Η κατάβαση από την Σικυώνα μπορεί να σας ψύξει πολύ γρήγορα.",
+              "Μπορεί να είναι σημαντικά πιο κρύα στα λόφια απ’ ό,τι στην ακτή."
             ]
           }
         }
@@ -1015,7 +1101,8 @@
             "de": "Platz der Demokratie",
             "hu": "Demokrácia tér",
             "ro": "Piața Democrației",
-            "en": "Democracy Square"
+            "en": "Democracy Square",
+            "el": "Πλατεία της Δημοκρατίας"
           },
           "coords": [
             22.75,
@@ -1031,7 +1118,8 @@
             "de": "Parken Sie hier in der Nähe für den ersten Rundgang.",
             "hu": "Parkoljon le a közelben az első sétához.",
             "ro": "Parcați în apropiere pentru prima plimbare.",
-            "en": "Park nearby for your first cluster walk."
+            "en": "Park nearby for your first cluster walk.",
+            "el": "Πάρκο κοντά για τον πρώτο σας περίπατο στο σύμπλεγμα."
           }
         },
         {
@@ -1039,7 +1127,8 @@
             "de": "Kirche der Verklärung",
             "hu": "Színeváltozás templom",
             "ro": "Biserica Schimbării la Față",
-            "en": "Church of the Transfiguration"
+            "en": "Church of the Transfiguration",
+            "el": "Εκκλησία Μεταμορφώσεως"
           },
           "coords": [
             22.752,
@@ -1055,7 +1144,8 @@
             "de": "Nur wenige Gehminuten vom Platz entfernt.",
             "hu": "Csak pár perc sétára a tértől.",
             "ro": "La doar câteva minute de mers pe jos de piață.",
-            "en": "Just a short walk from the square."
+            "en": "Just a short walk from the square.",
+            "el": "Μόνο λίγα βήματα από την πλατεία."
           }
         },
         {
@@ -1063,7 +1153,8 @@
             "de": "Antikes Sikyon",
             "hu": "Ókori Sziküón",
             "ro": "Anticul Sicyon",
-            "en": "Ancient Sicyon"
+            "en": "Ancient Sicyon",
+            "el": "Αρχαία Σικυώνα"
           },
           "coords": [
             22.723,
@@ -1079,7 +1170,8 @@
             "de": "Fahren Sie hinauf zu diesem beeindruckenden archäologischen Gelände.",
             "hu": "Vezessen fel ehhez a lenyűgöző régészeti területhez.",
             "ro": "Conduceți până la acest impresionant sit arheologic.",
-            "en": "Drive up to this impressive archaeological site."
+            "en": "Drive up to this impressive archaeological site.",
+            "el": "Οδηγήστε ως αυτό το εντυπωσιακό αρχαιολογικό χώρο."
           }
         },
         {
@@ -1087,7 +1179,8 @@
             "de": "Pefkias-Kiefernwald",
             "hu": "Pefkiász fenyőerdő",
             "ro": "Pădurea de pini Pefkias",
-            "en": "Pefkias Pine Forest"
+            "en": "Pefkias Pine Forest",
+            "el": "Δάσος Πευκιάς"
           },
           "coords": [
             22.64,
@@ -1103,7 +1196,8 @@
             "de": "Parken Sie am Waldrand für einen erholsamen Spaziergang.",
             "hu": "Parkoljon az erdő szélén egy pihentető sétához.",
             "ro": "Parcați la marginea pădurii pentru o plimbare relaxantă.",
-            "en": "Park at the forest edge for a relaxing stroll."
+            "en": "Park at the forest edge for a relaxing stroll.",
+            "el": "Παρκάρετε στην άκρη του δάσους για έναν χαλαρό περίπατο."
           }
         },
         {
@@ -1111,7 +1205,8 @@
             "de": "Strand von Kiato",
             "hu": "Kiato tengerpartja",
             "ro": "Plaja Kiato",
-            "en": "Kiato Beach"
+            "en": "Kiato Beach",
+            "el": "Παραλία Κιάτου"
           },
           "coords": [
             22.74,
@@ -1127,7 +1222,8 @@
             "de": "Zurück in der Stadt für einen späten Mittagssnack am Meer.",
             "hu": "Vissza a városba egy kései tengerparti ebédhez.",
             "ro": "Înapoi în oraș pentru un prânz târziu la malul mării.",
-            "en": "Back in town for a late seaside lunch."
+            "en": "Back in town for a late seaside lunch.",
+            "el": "Επιστροφή στην πόλη για ένα αργοπορημένο γεύμα δίπλα στη θάλασσα."
           }
         }
       ],
@@ -1135,7 +1231,8 @@
         "de": "Diese Route nutzt das Auto ideal für größere Distanzen. Sie beginnen mit einem Spaziergang im Zentrum von Kiato. Danach fahren Sie zum antiken Sikyon, um das Theater aus dem 4. Jahrhundert v. Chr. zu bewundern. Am Nachmittag bietet der Pefkias-Kiefernwald kühlenden Schatten, bevor Sie am Strand von Kiato zu Abend essen.",
         "hu": "Ez az útvonal ideálisan használja az autót a távolságok leküzdésére. A nap egy kiatói sétával indul, majd felvezet az ókori Sziküónba, ahol a Kr. e. 4. századi színház romjait láthatja. Délután a Pefkiász fenyőerdő ad hűsítő árnyékot, mielőtt a tengerparton megvacsorázna.",
         "ro": "Acest traseu folosește mașina ideal pentru distanțele mai lungi. Începeți cu o plimbare în centrul orașului Kiato. Apoi conduceți spre Anticul Sicyon pentru a admira teatrul din secolul IV î.Hr. După-amiaza, pădurea de pini Pefkias vă oferă umbră răcoroasă, înainte de cina pe plaja din Kiato.",
-        "en": "This route uses the car perfectly for bridging distances. You start with a walk in the center of Kiato. Then, drive up to Ancient Sicyon to admire the 4th-century BC theater. In the afternoon, the Pefkias Pine Forest offers cooling shade before you enjoy dinner by the beach."
+        "en": "This route uses the car perfectly for bridging distances. You start with a walk in the center of Kiato. Then, drive up to Ancient Sicyon to admire the 4th-century BC theater. In the afternoon, the Pefkias Pine Forest offers cooling shade before you enjoy dinner by the beach.",
+        "el": "Αυτή η διαδρομή αξιοποιεί τέλεια το αυτοκίνητο για να καλύψει αποστάσεις. Ξεκινάτε με έναν περίπατο στο κέντρο του Κιάτου. Έπειτα, οδηγείτε προς την Αρχαία Σικυώνα για να θαυμάσετε το θέατρο του 4ου αι. π.Χ. Το απόγευμα, το δάσος Πευκιάς προσφέρει δροσερή σκιά πριν απολαύσετε το δείπνο στην παραλία."
       },
       "gastro_picks": {
         "de": [
@@ -1311,6 +1408,12 @@
           "The road to Ancient Sicyon is paved but winding.",
           "Do not leave valuables visible in your car during summer.",
           "There is free parking near the entrance of the Pefkias Forest."
+        ],
+        "el": [
+          "Το παρκάρισμα στο Κιάτο μπορεί να είναι περιορισμένο το καλοκαίρι, φτάστε νωρίς.",
+          "Ο δρόμος προς την Αρχαία Σικυώνα είναι ασφαλτοστρωμένος αλλά στροφιλός.",
+          "Μην αφήνετε αντικείμενα αξίας ορατά στο αυτοκίνητο το καλοκαίρι.",
+          "Υπάρχει δωρεάν πάρκινγκ κοντά στην είσοδο του Δάσους Πευκιάς."
         ]
       },
       "variants": {
@@ -1319,7 +1422,8 @@
             "de": "Das Auto bietet heute den besten Komfort. Starten Sie am Platz und fahren Sie zur Kirche. Die Fahrt zum antiken Sikyon führt durch grüne, regnerische Hügel. Der Pefkias-Wald duftet bei Regen intensiv, aber die Wege sind weich. Beenden Sie die Tour am Strand und genießen Sie den Blick auf den grauen Golf aus dem warmen Wagen.",
             "hu": "Az autó kínálja ma a legnagyobb kényelmet. Kezdjen a téren, majd hajtson a templomhoz. Az út az ókori Sziküón felé zöldellő, esős dombokon át vezet. A Pefkias erdő illata esőben intenzív, de az utak felázhatnak. Zárja a túrát a parton, élvezve a szürke öböl látványát a meleg kocsiból.",
             "ro": "Mașina oferă cel mai bun confort astăzi. Începeți în piață și conduceți spre biserică. Drumul spre Sicyon trece prin dealuri verzi și ploioase. Pădurea Pefkias miroase intens pe ploaie, dar potecile sunt moi. Încheiați turul la plajă, admirând golful cenușiu din interiorul cald.",
-            "en": "The car offers the best comfort today. Start at the square and drive to the church. The drive to Ancient Sicyon leads through lush, rainy hills. The Pefkias forest smells intense in the rain, but paths are soft. End the tour at the beach, enjoying the grey gulf view from your warm car."
+            "en": "The car offers the best comfort today. Start at the square and drive to the church. The drive to Ancient Sicyon leads through lush, rainy hills. The Pefkias forest smells intense in the rain, but paths are soft. End the tour at the beach, enjoying the grey gulf view from your warm car.",
+            "el": "Το αυτοκίνητο προσφέρει την καλύτερη άνεση σήμερα. Ξεκινήστε από την πλατεία και οδηγήστε μέχρι την εκκλησία. Η διαδρομή για την Αρχαία Σικυώνα διασχίζει καταπράσινους, βροχερούς λόφους. Το δάσος Πευκιάς μυρίζει έντονα στη βροχή, αλλά τα μονοπάτια είναι μαλακά. Τελειώστε την περιήγηση στην παραλία, απολαμβάνοντας τη θέα του γκρίζου κόλπου από το ζεστό σας αυτοκίνητο."
           },
           "stops": [
             {
@@ -1328,7 +1432,8 @@
                 "de": "Parken Sie nah an den Arkaden, um trocken auszusteigen.",
                 "hu": "Parkoljon az árkádok közelében, hogy szárazon szállhasson ki.",
                 "ro": "Parcați aproape de arcade pentru a coborî la adăpost.",
-                "en": "Park close to the arcades to stay dry when getting out."
+                "en": "Park close to the arcades to stay dry when getting out.",
+                "el": "Σταθμεύστε κοντά στις στοές για να παραμείνετε στεγνοί όταν κατεβαίνετε."
               }
             },
             {
@@ -1337,7 +1442,8 @@
                 "de": "Parkplätze direkt vor dem Eingang erleichtern den Zugang.",
                 "hu": "A közvetlenül a bejárat előtti parkolók megkönnyítik a bejutást.",
                 "ro": "Parcările direct în fața intrării facilitează accesul.",
-                "en": "Parking spaces right in front of the entrance make access easy."
+                "en": "Parking spaces right in front of the entrance make access easy.",
+                "el": "Θέσεις πάρκινγκ ακριβώς μπροστά από την είσοδο κάνουν την πρόσβαση εύκολη."
               }
             },
             {
@@ -1346,7 +1452,8 @@
                 "de": "Die schmale Straße nach oben kann bei Starkregen rutschig sein.",
                 "hu": "A felfelé vezető keskeny út heves esőben csúszós lehet.",
                 "ro": "Drumul îngust spre vârf poate fi alunecos în caz de ploaie grea.",
-                "en": "The narrow road up can be slippery during heavy rain."
+                "en": "The narrow road up can be slippery during heavy rain.",
+                "el": "Ο στενός δρόμος ανηφοριάς μπορεί να γλιστρήσει σε έντονη βροχή."
               }
             },
             {
@@ -1355,7 +1462,8 @@
                 "de": "Parken Sie auf festem Untergrund, meiden Sie aufgeweichte Waldränder.",
                 "hu": "Parkoljon szilárd talajon, kerülje a felázott erdőszéleket.",
                 "ro": "Parcați pe teren solid, evitați marginile noroioase de pădure.",
-                "en": "Park on solid ground, avoid soft forest edges."
+                "en": "Park on solid ground, avoid soft forest edges.",
+                "el": "Παρκάρετε σε στέρεο έδαφος, αποφύγετε τις μαλακές άκρες του δάσους."
               }
             },
             {
@@ -1364,7 +1472,8 @@
                 "de": "Genießen Sie den Panoramablick direkt vom Parkplatz aus.",
                 "hu": "Élvezze a panorámát közvetlenül a parkolóból.",
                 "ro": "Bucurați-vă de panoramă direct din parcare.",
-                "en": "Enjoy the panorama directly from the parking lot."
+                "en": "Enjoy the panorama directly from the parking lot.",
+                "el": "Απολαύστε το πανόραμα απευθείας από το χώρο στάθμευσης."
               }
             }
           ],
@@ -1392,6 +1501,12 @@
               "Visibility may be reduced by fog in higher elevations.",
               "Use the A/C to prevent windshield fogging.",
               "Avoid parking under large pines due to falling branch risk."
+            ],
+            "el": [
+              "Ελέγξτε τα υαλοκαθαριστήριά σας πριν οδηγήσετε στους λόφους.",
+              "Η ορατότητα μπορεί να μειωθεί από ομίχλη σε μεγαλύτερα υψόμετρα.",
+              "Χρησιμοποιήστε το κλιματιστικό για να αποφύγετε τη θόλωση του παρμπρίζ.",
+              "Αποφύγετε το παρκάρισμα κάτω από μεγάλα πεύκα λόγω κινδύνου πτώσης κλαδιών."
             ]
           }
         },
@@ -1400,7 +1515,8 @@
             "de": "Winterliche Autofahrten rund um Kiato sind entspannt. Der Platz ist am Morgen ruhig. Nach dem Besuch der Kirche führt die Straße hinauf zum antiken Sikyon, wo oft ein kühler Bergwind weht. Der Pefkias-Wald bietet eine windgeschützte Fahrt unter grünen Nadelbäumen. Der Tag endet am Strand mit einem weiten Blick über den ruhigen Golf.",
             "hu": "A téli autózás Kiato környékén nyugodt élmény. A főtér reggel csendes. A templomlátogatás után az út felvezet az ókori Sziküónba, ahol gyakran fúj a hűvös hegyi szél. A Pefkias erdő szélvédett autózást kínál a zöld fenyők alatt. A nap a tengerparton zárul, tágas kilátással a nyugodt öbölre.",
             "ro": "Condusul iarna în jurul orașului Kiato este o experiență relaxată. Piața este liniștită dimineața. După biserică, drumul urcă spre Sicyon, unde adesea bate vântul rece de munte. Pădurea Pefkias oferă un drum ferit de vânt sub pinii verzi. Ziua se încheie la plajă cu o vedere largă asupra golfului.",
-            "en": "Winter driving around Kiato is a relaxed experience. The square is quiet in the morning. After the church, the road leads up to Ancient Sicyon, where cool mountain winds often blow. The Pefkias forest offers a wind-sheltered drive under green pines. The day ends at the beach with wide views over the calm gulf."
+            "en": "Winter driving around Kiato is a relaxed experience. The square is quiet in the morning. After the church, the road leads up to Ancient Sicyon, where cool mountain winds often blow. The Pefkias forest offers a wind-sheltered drive under green pines. The day ends at the beach with wide views over the calm gulf.",
+            "el": "Η χειμερινή οδήγηση γύρω από το Κιάτο είναι χαλαρή εμπειρία. Η πλατεία είναι ήσυχη το πρωί. Μετά την εκκλησία, ο δρόμος οδηγεί στην Αρχαία Σικυώνα, όπου συχνά φυσούν δροσεροί ορεινοί άνεμοι. Το δάσος Πευκιάς προσφέρει προστατευμένη οδήγηση κάτω από πράσινα πεύκα. Η μέρα τελειώνει στην παραλία με ευρείες απόψεις πάνω από τον ήρεμο κόλπο."
           },
           "stops": [
             {
@@ -1409,7 +1525,8 @@
                 "de": "Ausreichend Parkplätze im Winter direkt im Zentrum verfügbar.",
                 "hu": "Télen bőséges parkolóhely áll rendelkezésre a központban.",
                 "ro": "Locuri de parcare suficiente în centru pe timp de iarnă.",
-                "en": "Plenty of parking spaces available in the center during winter."
+                "en": "Plenty of parking spaces available in the center during winter.",
+                "el": "Πολλές θέσεις στάθμευσης διαθέσιμες στο κέντρο κατά τη διάρκεια του χειμώνα."
               }
             },
             {
@@ -1418,7 +1535,8 @@
                 "de": "Ein kurzer Fußweg vom Parkplatz zur wärmenden Kirche.",
                 "hu": "Rövid séta a parkolótól a melengető templomig.",
                 "ro": "O scurtă plimbare de la parcare până la biserica primitoare.",
-                "en": "A short walk from the parking lot to the warming church."
+                "en": "A short walk from the parking lot to the warming church.",
+                "el": "Σύντομος περίπατος από τον χώρο στάθμευσης μέχρι την ζεστή εκκλησία."
               }
             },
             {
@@ -1427,7 +1545,8 @@
                 "de": "Genießen Sie die klare Bergluft, aber bleiben Sie warm gekleidet.",
                 "hu": "Élvezze a tiszta hegyi levegőt, de öltözzön melegen.",
                 "ro": "Bucurați-vă de aerul curat de munte, dar rămâneți bine îmbrăcați.",
-                "en": "Enjoy the clear mountain air, but stay warmly dressed."
+                "en": "Enjoy the clear mountain air, but stay warmly dressed.",
+                "el": "Απολαύστε τον καθαρό ορεινό αέρα, αλλά ντυθείτε ζεστά."
               }
             },
             {
@@ -1436,7 +1555,8 @@
                 "de": "Schöner Ort für ein kurzes Picknick im Auto mit Meerblick.",
                 "hu": "Szép hely egy rövid autós piknikhez tengeri kilátással.",
                 "ro": "Loc frumos pentru un scurt picnic în mașină cu vedere la mare.",
-                "en": "Nice spot for a short picnic in the car with sea views."
+                "en": "Nice spot for a short picnic in the car with sea views.",
+                "el": "Καλή τοποθεσία για μικρό πικνίκ μέσα στο αυτοκίνητο με θέα στη θάλασσα."
               }
             },
             {
@@ -1445,7 +1565,8 @@
                 "de": "Der Strand ist im Winter fast menschenleer und sehr friedlich.",
                 "hu": "A tengerpart télen szinte néptelen és nagyon békés.",
                 "ro": "Plaja este aproape pustie și foarte liniștită iarna.",
-                "en": "The beach is almost deserted and very peaceful in winter."
+                "en": "The beach is almost deserted and very peaceful in winter.",
+                "el": "Η παραλία είναι σχεδόν έρημη και πολύ ήσυχη τον χειμώνα."
               }
             }
           ],
@@ -1473,6 +1594,12 @@
               "Temperatures can drop quickly in the hills around Sicyon.",
               "Roads are significantly emptier in winter than in summer.",
               "Always keep a blanket in the car for breaks by the coast."
+            ],
+            "el": [
+              "Ελέγξτε την πίεση των ελαστικών καθώς μπορεί να πέσει σε κρύο καιρό.",
+              "Οι θερμοκρασίες μπορούν να πέσουν γρήγορα στους λόφους γύρω από τη Σικυώνα.",
+              "Οι δρόμοι είναι σημαντικά πιο άδειοι το χειμώνα απ’ ό,τι το καλοκαίρι.",
+              "Κρατάτε πάντα μια κουβέρτα στο αυτοκίνητο για τις στάσεις στην ακτή."
             ]
           }
         }
@@ -1491,7 +1618,8 @@
             "de": "Platz der Demokratie",
             "hu": "Demokrácia tér",
             "ro": "Piața Democrației",
-            "en": "Democracy Square"
+            "en": "Democracy Square",
+            "el": "Πλατεία της Δημοκρατίας"
           },
           "coords": [
             22.75,
@@ -1507,7 +1635,8 @@
             "de": "Der zentrale Knotenpunkt, idealer Startpunkt.",
             "hu": "A központi csomópont, ideális kiindulópont.",
             "ro": "Nodul central, punctul ideal de plecare.",
-            "en": "The central hub, an ideal starting point."
+            "en": "The central hub, an ideal starting point.",
+            "el": "Το κεντρικό σημείο, ιδανικό ως αφετηρία."
           }
         },
         {
@@ -1515,7 +1644,8 @@
             "de": "Rathaus von Kiato",
             "hu": "Kiato Városháza",
             "ro": "Primăria din Kiato",
-            "en": "Kiato City Hall"
+            "en": "Kiato City Hall",
+            "el": "Δημαρχείο Κιάτου"
           },
           "coords": [
             22.748,
@@ -1531,7 +1661,8 @@
             "de": "Zu Fuß vom Platz der Demokratie erreichbar.",
             "hu": "A Demokrácia térről könnyen besétálható.",
             "ro": "Se poate ajunge pe jos de la Piața Democrației.",
-            "en": "Easily walkable from Democracy Square."
+            "en": "Easily walkable from Democracy Square.",
+            "el": "Εύκολα περπατήσιμο από την Πλατεία της Δημοκρατίας."
           }
         },
         {
@@ -1539,7 +1670,8 @@
             "de": "Hafen von Kiato",
             "hu": "Kiato kikötője",
             "ro": "Portul Kiato",
-            "en": "Port of Kiato"
+            "en": "Port of Kiato",
+            "el": "Λιμάνι Κιάτου"
           },
           "coords": [
             22.758,
@@ -1555,7 +1687,8 @@
             "de": "Ein lokaler Bus bringt Sie zur Küste.",
             "hu": "Egy helyi busz leviszi a partra.",
             "ro": "Un autobuz local vă duce spre coastă.",
-            "en": "A local bus takes you to the coast."
+            "en": "A local bus takes you to the coast.",
+            "el": "Ένα τοπικό λεωφορείο σας πηγαίνει στην ακτή."
           }
         },
         {
@@ -1563,7 +1696,8 @@
             "de": "Kirche der Verklärung",
             "hu": "Színeváltozás templom",
             "ro": "Biserica Schimbării la Față",
-            "en": "Church of the Transfiguration"
+            "en": "Church of the Transfiguration",
+            "el": "Εκκλησία Μεταμορφώσεως"
           },
           "coords": [
             22.752,
@@ -1579,7 +1713,8 @@
             "de": "Nur einen kurzen Spaziergang vom Hafen entfernt.",
             "hu": "Csak egy rövid sétára a kikötőtől.",
             "ro": "La doar o scurtă plimbare de port.",
-            "en": "Just a short walk from the port."
+            "en": "Just a short walk from the port.",
+            "el": "Μόνο λίγα βήματα από το λιμάνι."
           }
         },
         {
@@ -1587,7 +1722,8 @@
             "de": "Antikes Sikyon",
             "hu": "Ókori Sziküón",
             "ro": "Anticul Sicyon",
-            "en": "Ancient Sicyon"
+            "en": "Ancient Sicyon",
+            "el": "Αρχαία Σικυώνα"
           },
           "coords": [
             22.723,
@@ -1603,7 +1739,8 @@
             "de": "Nutzen Sie den Überlandbus (KTEL) zu den Ruinen.",
             "hu": "Használja a helyközi (KTEL) buszt a romokhoz.",
             "ro": "Folosiți autobuzul interurban (KTEL) spre ruine.",
-            "en": "Use the intercity bus (KTEL) to reach the ruins."
+            "en": "Use the intercity bus (KTEL) to reach the ruins.",
+            "el": "Χρησιμοποιήστε το υπεραστικό λεωφορείο (ΚΤΕΛ) για να φτάσετε στα ερείπια."
           }
         },
         {
@@ -1611,7 +1748,8 @@
             "de": "Strand von Kiato",
             "hu": "Kiato tengerpartja",
             "ro": "Plaja Kiato",
-            "en": "Kiato Beach"
+            "en": "Kiato Beach",
+            "el": "Παραλία Κιάτου"
           },
           "coords": [
             22.74,
@@ -1627,7 +1765,8 @@
             "de": "Fahren Sie mit dem Bus zurück an die Küste zum Entspannen.",
             "hu": "Busszal utazzon vissza a tengerpartra egy kis pihenésre.",
             "ro": "Luați autobuzul înapoi spre coastă pentru relaxare.",
-            "en": "Take the bus back to the coast for some relaxation."
+            "en": "Take the bus back to the coast for some relaxation.",
+            "el": "Πάρτε το λεωφορείο πίσω στην ακτή για λίγη χαλάρωση."
           }
         }
       ],
@@ -1635,7 +1774,8 @@
         "de": "Durch geschickte Nutzung der lokalen KTEL-Busse verbinden Sie die verschiedenen Zonen. Der Tag beginnt mit einem Spaziergang im Stadtkern um den Platz der Demokratie. Danach geht es per Bus zum Hafen und weiter hinauf zum antiken Sikyon. Den Nachmittag verbringen Sie nach einer Rückfahrt entspannt am Strand von Kiato.",
         "hu": "A helyi KTEL buszok okos használatával könnyen összekötheti az egyes zónákat. A nap egy sétával indul a városközpontban a Demokrácia tér körül. Ezután busszal eljut a kikötőbe, majd fel az ókori Sziküónba. A délutánt, miután visszautazott, Kiato tengerpartján töltheti el.",
         "ro": "Prin utilizarea inteligentă a autobuzelor locale KTEL veți conecta diferitele zone. Ziua începe cu o plimbare în centrul orașului în jurul Pieței Democrației. Apoi luați autobuzul spre port și mai departe spre Anticul Sicyon. După o călătorie de întoarcere, vă veți petrece după-amiaza relaxându-vă pe plaja din Kiato.",
-        "en": "By smartly using the local KTEL buses, you can easily connect the different zones. The day begins with a walk in the town center around Democracy Square. Then you take a bus to the port and further up to Ancient Sicyon. After heading back, spend a relaxing afternoon at Kiato Beach."
+        "en": "By smartly using the local KTEL buses, you can easily connect the different zones. The day begins with a walk in the town center around Democracy Square. Then you take a bus to the port and further up to Ancient Sicyon. After heading back, spend a relaxing afternoon at Kiato Beach.",
+        "el": "Χρησιμοποιώντας έξυπνα τα τοπικά λεωφορεία ΚΤΕΛ, μπορείτε να συνδέσετε εύκολα τις διαφορετικές ζώνες. Η μέρα ξεκινά με έναν περίπατο στο κέντρο της πόλης γύρω από την Πλατεία της Δημοκρατίας. Έπειτα παίρνετε λεωφορείο προς το λιμάνι και μετά ανηφορίζετε προς την Αρχαία Σικυώνα. Μετά την επιστροφή, περάστε ένα χαλαρό απόγευμα στην Παραλία Κιάτου."
       },
       "gastro_picks": {
         "de": [
@@ -1811,6 +1951,12 @@
           "Buy bus tickets in advance at kiosks (Periptero).",
           "Always have some small change with you for the bus rides.",
           "The bus stops in the center are well marked."
+        ],
+        "el": [
+          "Ελέγξτε τα δρομολόγια ΚΤΕΛ εκ των προτέρων, καθώς κυκλοφορούν σπανιότερα τις Κυριακές.",
+          "Αγοράστε εισιτήρια λεωφορείου εκ των προτέρων στα περίπτερα.",
+          "Να έχετε πάντα μικρά ρέστα μαζί σας για τις διαδρομές με το λεωφορείο.",
+          "Οι στάσεις λεωφορείου στο κέντρο είναι καλά σηματοδοτημένες."
         ]
       },
       "variants": {
@@ -1819,7 +1965,8 @@
             "de": "Nutzen Sie den Bus, um trocken zwischen den Sehenswürdigkeiten zu pendeln. Starten Sie am Platz und fahren Sie zum Rathaus. Die Kirche bietet Schutz vor dem Regen. Der Weg zum antiken Sikyon ist mit dem Bus am sichersten. Beenden Sie den Tag am Strand, wo Sie vom Wartehäuschen aus den Regen über dem Meer beobachten können.",
             "hu": "Használja a buszt, hogy szárazon közlekedjen a látnivalók között. Kezdjen a téren, majd utazzon a Városházához. A templom menedéket nyújt az eső elől. Az ókori Sziküón elérése busszal a legbiztonságosabb. Zárja a napot a tengerparton, a váróteremből figyelve az esőt.",
             "ro": "Folosiți autobuzul pentru a naviga uscat între obiective. Începeți în piață și mergeți spre Primărie. Biserica oferă protecție împotriva ploii. Accesul la Sicyon este cel mai sigur cu autobuzul. Încheiați ziua la plajă, observând ploaia de la adăpostul stației.",
-            "en": "Use the bus to commute dryly between sights. Start at the square and travel to the City Hall. The church provides shelter from the rain. Reaching Ancient Sicyon is safest by bus. End the day at the beach, watching the rain over the sea from the shelter of the bus stop."
+            "en": "Use the bus to commute dryly between sights. Start at the square and travel to the City Hall. The church provides shelter from the rain. Reaching Ancient Sicyon is safest by bus. End the day at the beach, watching the rain over the sea from the shelter of the bus stop.",
+            "el": "Χρησιμοποιήστε το λεωφορείο για να μετακινηθείτε στεγνά ανάμεσα στα αξιοθέατα. Ξεκινήστε από την πλατεία και ταξιδέψτε προς το Δημαρχείο. Η εκκλησία προσφέρει καταφύγιο από τη βροχή. Η πρόσβαση στην Αρχαία Σικυώνα είναι πιο ασφαλής με λεωφορείο. Τελειώστε τη μέρα στην παραλία, παρακολουθώντας τη βροχή πάνω από τη θάλασσα από την προστασία της στάσης λεωφορείου."
           },
           "stops": [
             {
@@ -1828,7 +1975,8 @@
                 "de": "Die zentrale Haltestelle bietet guten Schutz vor Wind.",
                 "hu": "A központi megálló jó védelmet nyújt a szél ellen.",
                 "ro": "Stația centrală oferă o bună protecție împotriva vântului.",
-                "en": "The central stop offers good protection against the wind."
+                "en": "The central stop offers good protection against the wind.",
+                "el": "Η κεντρική στάση προσφέρει καλή προστασία από τον άνεμο."
               }
             },
             {
@@ -1837,7 +1985,8 @@
                 "de": "Kurze Wege von der Haltestelle zum Gebäude minimieren Nässe.",
                 "hu": "A megállótól az épületig tartó rövid séta minimalizálja az elázást.",
                 "ro": "Distanța scurtă de la stație la clădire minimizează expunerea.",
-                "en": "Short distance from the stop to the building minimizes getting wet."
+                "en": "Short distance from the stop to the building minimizes getting wet.",
+                "el": "Σύντομη απόσταση από τη στάση μέχρι το κτίριο ελαχιστοποιεί το βραχημό."
               }
             },
             {
@@ -1846,7 +1995,8 @@
                 "de": "Warten Sie in einem nahegelegenen Café, bis der Bus kommt.",
                 "hu": "Várjon egy közeli kávézóban a busz érkezéséig.",
                 "ro": "Așteptați într-o cafenea din apropiere până vine autobuzul.",
-                "en": "Wait in a nearby cafe until the bus arrives."
+                "en": "Wait in a nearby cafe until the bus arrives.",
+                "el": "Περιμένετε σε ένα κοντινό καφέ μέχρι να φτάσει το λεωφορείο."
               }
             },
             {
@@ -1855,7 +2005,8 @@
                 "de": "Nutzen Sie die Kirchenvorhalle als trockenen Wartebereich.",
                 "hu": "Használja a templom előcsarnokát száraz várakozóhelyként.",
                 "ro": "Folosiți pridvorul bisericii ca zonă de așteptare uscată.",
-                "en": "Use the church porch as a dry waiting area."
+                "en": "Use the church porch as a dry waiting area.",
+                "el": "Χρησιμοποιήστε το υπέρθυρο της εκκλησίας ως στεγνό σημείο αναμονής."
               }
             },
             {
@@ -1864,7 +2015,8 @@
                 "de": "Beachten Sie mögliche wetterbedingte Verzögerungen im Busplan.",
                 "hu": "Számítson az időjárás miatti esetleges késésekre a menetrendben.",
                 "ro": "Țineți cont de posibilele întârzieri cauzate de vreme.",
-                "en": "Account for potential weather-related delays in the schedule."
+                "en": "Account for potential weather-related delays in the schedule.",
+                "el": "Λάβετε υπόψη πιθανές καθυστερήσεις λόγω καιρού στο πρόγραμμα."
               }
             },
             {
@@ -1873,7 +2025,8 @@
                 "de": "Haltestellen am Strand haben oft nur begrenzte Überdachung.",
                 "hu": "A tengerparti megállók gyakran csak korlátozottan fedettek.",
                 "ro": "Stațiile de pe plajă au adesea acoperișuri limitate.",
-                "en": "Beach stops often have limited overhead cover."
+                "en": "Beach stops often have limited overhead cover.",
+                "el": "Οι στάσεις στην παραλία συχνά έχουν περιορισμένη επικάλυψη."
               }
             }
           ],
@@ -1901,6 +2054,12 @@
               "Bus frequency may vary during extreme weather events.",
               "Use the KTEL app for real-time info if available.",
               "Stay away from puddles at stops to avoid being splashed."
+            ],
+            "el": [
+              "Έχετε έτοιμο ακριβές ρέστα για το εισιτήριο για να αποφύγετε καθυστερήσεις.",
+              "Η συχνότητα των λεωφορείων μπορεί να διαφοροποιείται σε ακραία καιρικά φαινόμενα.",
+              "Χρησιμοποιήστε την εφαρμογή ΚΤΕΛ για πληροφορίες σε πραγματικό χρόνο, εφόσον υπάρχει.",
+              "Μείνετε μακριά από λακκούβες στις στάσεις για να αποφύγετε τις πιτσιλιές."
             ]
           }
         },
@@ -1909,7 +2068,8 @@
             "de": "Die Busfahrt durch das winterliche Kiato ist gemütlich. Am Morgen ist es am Platz noch still. Nach der Besichtigung der hellen Kirche bringt Sie der Bus hinauf zum windigen antiken Sikyon. Genießen Sie die Fahrt durch die kühle Landschaft. Der Tag endet am Strand, wo Sie vor der Abendkälte bequem mit dem Bus zurückkehren können.",
             "hu": "A buszozás a téli Kiatóban kényelmes élmény. Reggel még csend honol a téren. A világos templom megtekintése után a busz felviszi a szeles ókori Sziküónba. Élvezze az utazást a hűvös tájon át. A nap a tengerparton zárul, ahonnan a busz gyorsan visszaviszi a központba.",
             "ro": "Călătoria cu autobuzul prin Kiato iarna este confortabilă. Dimineața este încă liniște în piață. După vizitarea bisericii, autobuzul vă duce sus la Sicyonul vântos. Bucurați-vă de drumul prin peisajul răcoros. Ziua se încheie la plajă, de unde autobuzul vă readuce rapid în centru.",
-            "en": "Bus travel through winter Kiato is a cozy experience. It's quiet at the square in the morning. After visiting the bright church, the bus takes you up to windy Ancient Sicyon. Enjoy the ride through the cool landscape. The day ends at the beach, with an easy bus ride back before the evening cold."
+            "en": "Bus travel through winter Kiato is a cozy experience. It's quiet at the square in the morning. After visiting the bright church, the bus takes you up to windy Ancient Sicyon. Enjoy the ride through the cool landscape. The day ends at the beach, with an easy bus ride back before the evening cold.",
+            "el": "Το λεωφορείο μέσα στον χειμερινό Κιάτο είναι μια ζεστή εμπειρία. Είναι ήσυχα στην πλατεία το πρωί. Μετά την επίσκεψη στην φωτεινή εκκλησία, το λεωφορείο σας ανεβάζει στην ανεμώδη Αρχαία Σικυώνα. Απολαύστε τη διαδρομή μέσα στο δροσερό τοπίο. Η μέρα τελειώνει στην παραλία, με ένα εύκολο δρομολόγιο επιστροφής πριν το βραδινό κρύο."
           },
           "stops": [
             {
@@ -1918,7 +2078,8 @@
                 "de": "Ein heißes Getränk verkürzt die Wartezeit am Morgen.",
                 "hu": "Egy forró ital lerövidíti a reggeli várakozási időt.",
                 "ro": "O băutură fierbinte scurtează timpul de așteptare dimineața.",
-                "en": "A hot drink shortens the waiting time in the morning."
+                "en": "A hot drink shortens the waiting time in the morning.",
+                "el": "Ένα ζεστό ρόφημα συντομεύει την ώρα αναμονής το πρωί."
               }
             },
             {
@@ -1927,7 +2088,8 @@
                 "de": "Im Winter sind die Busse oft angenehm beheizt.",
                 "hu": "Télen a buszok gyakran kellemesen fűtöttek.",
                 "ro": "Iarna, autobuzele sunt adesea încălzite plăcut.",
-                "en": "In winter, buses are often pleasantly heated."
+                "en": "In winter, buses are often pleasantly heated.",
+                "el": "Το χειμώνα τα λεωφορεία συχνά είναι ευχάριστα ζεσταμένα."
               }
             },
             {
@@ -1936,7 +2098,8 @@
                 "de": "Die Haltestelle ist dem Seewind direkt ausgesetzt, warm kleiden.",
                 "hu": "A megálló közvetlenül ki van téve a tengeri szélnek, öltözzön fel.",
                 "ro": "Stația este expusă direct vântului marin, îmbrăcați-vă bine.",
-                "en": "The stop is directly exposed to sea winds, dress warmly."
+                "en": "The stop is directly exposed to sea winds, dress warmly.",
+                "el": "Η στάση εκτίθεται άμεσα στους θαλάσσιους ανέμους, ντυθείτε ζεστά."
               }
             },
             {
@@ -1945,7 +2108,8 @@
                 "de": "Überprüfen Sie den Winterfahrplan an der Aushangtafel.",
                 "hu": "Ellenőrizze a téli menetrendet a hirdetőtáblán.",
                 "ro": "Verificați orarul de iarnă pe panoul de afișaj.",
-                "en": "Check the winter schedule on the notice board."
+                "en": "Check the winter schedule on the notice board.",
+                "el": "Ελέγξτε το χειμερινό πρόγραμμα στον πίνακα ανακοινώσεων."
               }
             },
             {
@@ -1954,7 +2118,8 @@
                 "de": "Letzte Rückfahrt vor Einbruch der Dunkelheit (ca. 17:00) wählen.",
                 "hu": "Válassza az utolsó visszautat sötétedés (kb. 17:00) előtt.",
                 "ro": "Alegeți ultima cursă de întoarcere înainte de lăsarea întunericului.",
-                "en": "Pick the last return trip before dark (approx. 17:00)."
+                "en": "Pick the last return trip before dark (approx. 17:00).",
+                "el": "Επιλέξτε το τελευταίο δρομολόγιο επιστροφής πριν σκοτεινιάσει (περ. 17:00)."
               }
             },
             {
@@ -1963,7 +2128,8 @@
                 "de": "In der Nebensaison fahren die Busse seltener zum Strand.",
                 "hu": "Szezonon kívül a buszok ritkábban járnak a tengerpartra.",
                 "ro": "În afara sezonului, autobuzele merg mai rar spre plajă.",
-                "en": "In the off-season, buses run less frequently to the beach."
+                "en": "In the off-season, buses run less frequently to the beach.",
+                "el": "Στην εκτός σεζόν περίοδο, τα δρομολόγια προς την παραλία είναι πιο αραιά."
               }
             }
           ],
@@ -1991,6 +2157,12 @@
               "Wait indoors if the stop has no wind protection.",
               "Buses are less crowded in winter than in summer.",
               "Check the route as it may vary during the winter season."
+            ],
+            "el": [
+              "Τα χειμερινά δρομολόγια μπορεί να έχουν μειωμένη συχνότητα.",
+              "Περιμένετε σε εσωτερικό χώρο αν η στάση δεν έχει προστασία από τον άνεμο.",
+              "Τα λεωφορεία είναι λιγότερο γεμάτα το χειμώνα απ’ ό,τι το καλοκαίρι.",
+              "Ελέγξτε τη διαδρομή καθώς μπορεί να αλλάζει κατά τη χειμερινή περίοδο."
             ]
           }
         }

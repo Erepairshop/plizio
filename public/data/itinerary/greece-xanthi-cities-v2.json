@@ -21,7 +21,8 @@
             "de": "Plateia Dimokratias",
             "hu": "Dimokratias tér",
             "ro": "Piața Dimokratias",
-            "en": "Dimokratias Square"
+            "en": "Dimokratias Square",
+            "el": "Πλατεία Δημοκρατίας"
           },
           "coords": [
             24.8885,
@@ -37,7 +38,8 @@
             "de": "Beginnen Sie den Tag mit einem Kaffee und beobachten Sie das Treiben.",
             "hu": "Kezdje a napot egy kávéval, és figyelje a város ébredését.",
             "ro": "Începeți ziua cu o cafea și priviți agitația orașului.",
-            "en": "Start your day with a coffee and watch the city come to life."
+            "en": "Start your day with a coffee and watch the city come to life.",
+            "el": "Ξεκινήστε τη μέρα σας με έναν καφέ και παρακολουθήστε την πόλη να ξυπνάει."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Uhrturm von Xanthi",
             "hu": "Xanthi óratornya",
             "ro": "Turnul cu ceas din Xanthi",
-            "en": "Xanthi Clock Tower"
+            "en": "Xanthi Clock Tower",
+            "el": "Ρολόι Ξάνθης"
           },
           "coords": [
             24.8892,
@@ -61,7 +64,8 @@
             "de": "Das Wahrzeichen der Stadt ist ein großartiger Fotospot.",
             "hu": "A város jelképe, remek fotóhelyszín.",
             "ro": "Emblema orașului este un loc excelent pentru fotografii.",
-            "en": "The city's landmark is a great photo spot."
+            "en": "The city's landmark is a great photo spot.",
+            "el": "Το ορόσημο της πόλης είναι ένα εξαιρετικό σημείο για φωτογραφίες."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Altstadt von Xanthi",
             "hu": "Xanthi óvárosa",
             "ro": "Orașul vechi din Xanthi",
-            "en": "Old Town of Xanthi"
+            "en": "Old Town of Xanthi",
+            "el": "Παλιά Πόλη της Ξάνθης"
           },
           "coords": [
             24.886,
@@ -85,7 +90,8 @@
             "de": "Verlieren Sie sich in den engen Gassen mit osmanischer Architektur.",
             "hu": "Vesszen el az oszmán építészetű szűk utcákban.",
             "ro": "Pierdeți-vă pe străduțele înguste cu arhitectură otomană.",
-            "en": "Get lost in the narrow streets with Ottoman architecture."
+            "en": "Get lost in the narrow streets with Ottoman architecture.",
+            "el": "Χαθείτε στα στενά δρομάκια με οθωμανική αρχιτεκτονική."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Volkskundemuseum",
             "hu": "Néprajzi Múzeum",
             "ro": "Muzeul de Folclor",
-            "en": "Folklore Museum"
+            "en": "Folklore Museum",
+            "el": "Λαογραφικό Μουσείο"
           },
           "coords": [
             24.8855,
@@ -109,7 +116,8 @@
             "de": "Entdecken Sie die reiche Geschichte und die Traditionen der Region.",
             "hu": "Fedezze fel a régió gazdag történelmét és hagyományait.",
             "ro": "Descoperiți istoria bogată și tradițiile regiunii.",
-            "en": "Discover the rich history and traditions of the region."
+            "en": "Discover the rich history and traditions of the region.",
+            "el": "Ανακαλύψτε την πλούσια ιστορία και τις παραδόσεις της περιοχής."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Kirche Agios Georgios",
             "hu": "Szent György-templom",
             "ro": "Biserica Agios Georgios",
-            "en": "Agios Georgios Church"
+            "en": "Agios Georgios Church",
+            "el": "Εκκλησία Αγίου Γεωργίου"
           },
           "coords": [
             24.8905,
@@ -133,7 +142,8 @@
             "de": "Ein ruhiger Ort, um die orthodoxe Kunst zu bewundern.",
             "hu": "Csendes hely az ortodox művészet csodálatára.",
             "ro": "Un loc liniștit pentru a admira arta ortodoxă.",
-            "en": "A peaceful place to admire Orthodox art."
+            "en": "A peaceful place to admire Orthodox art.",
+            "el": "Ένας ήσυχος τόπος για να θαυμάσετε την ορθόδοξη τέχνη."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Basar von Xanthi",
             "hu": "Xanthi bazárja",
             "ro": "Bazarul din Xanthi",
-            "en": "Xanthi Bazaar"
+            "en": "Xanthi Bazaar",
+            "el": "Παζάρι της Ξάνθης"
           },
           "coords": [
             24.888,
@@ -157,7 +168,8 @@
             "de": "Probieren Sie lokale Produkte und genießen Sie die lebhafte Atmosphäre.",
             "hu": "Kóstoljon helyi termékeket és élvezze az élénk hangulatot.",
             "ro": "Gustați produse locale și bucurați-vă de atmosfera plină de viață.",
-            "en": "Try local products and enjoy the lively atmosphere."
+            "en": "Try local products and enjoy the lively atmosphere.",
+            "el": "Δοκιμάστε τοπικά προϊόντα και απολαύστε τη ζωντανή ατμόσφαιρα."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Tabakmuseum",
             "hu": "Dohánymúzeum",
             "ro": "Muzeul Tutunului",
-            "en": "Tobacco Museum"
+            "en": "Tobacco Museum",
+            "el": "Μουσείο Καπνού"
           },
           "coords": [
             24.894,
@@ -181,7 +194,8 @@
             "de": "Erfahren Sie, warum Xanthi als die Stadt des Tabaks bekannt war.",
             "hu": "Tudja meg, miért volt Xanthi a dohány fellegvára.",
             "ro": "Aflați de ce Xanthi a fost cunoscut drept orașul tutunului.",
-            "en": "Learn why Xanthi was known as the city of tobacco."
+            "en": "Learn why Xanthi was known as the city of tobacco.",
+            "el": "Μάθετε γιατί η Ξάνθη ήταν γνωστή ως πόλη του καπνού."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Ihr Tag in Xanthi beginnt auf der belebten Plateia Dimokratias. Von dort aus schlendern Sie durch die bezaubernde Altstadt, bewundern den historischen Uhrturm und tauchen in das Labyrinth aus Kopfsteinpflastergassen ein, das von osmanischen Villen gesäumt ist. Der Vormittag ist der Erkundung des reichen kulturellen Erbes gewidmet, einschließlich eines Besuchs im aufschlussreichen Volkskundemuseum.\nAm Mittag führt Sie Ihr Weg zur spirituellen Ruhe der Agios Georgios Kirche, bevor Sie sich ins Getümmel des lebhaften Samstagsbasars stürzen. Hier können Sie die authentischen Aromen und das geschäftige Treiben der Stadt erleben, während Sie nach lokalen Köstlichkeiten und einzigartigen Souvenirs suchen. Ein spätes Mittagessen in einer der traditionellen Tavernen der Altstadt ist ein Muss.\nDer Nachmittag ist der faszinierenden Industriegeschichte von Xanthi gewidmet, mit einem Besuch im einzigartigen Tabakmuseum. Entdecken Sie, wie der Tabakhandel die Stadt geformt hat, während Sie durch die Exponate wandern. Dies bietet einen faszinierenden Kontrast zu den antiken Stätten, die Sie zuvor gesehen haben.\nWenn der Abend naht, kehren Sie in die Altstadt zurück, um ein entspanntes Abendessen zu genießen. Die wunderschön beleuchteten Gebäude schaffen eine magische Atmosphäre. Beenden Sie Ihren Tag mit einem Getränk in einer der gemütlichen Bars und lassen Sie die vielfältigen Eindrücke von Xanthi, einer Stadt, in der Ost und West aufeinandertreffen, auf sich wirken.",
         "hu": "Xanthi-i napja a nyüzsgő Plateia Dimokratias téren kezdődik. Innen sétáljon át a bájos óvároson, csodálja meg a történelmi óratornyot, és merüljön el a macskaköves sikátorok labirintusában, amelyet oszmán kúriák szegélyeznek. A délelőttöt a gazdag kulturális örökség felfedezésének szenteljük, beleértve a tanulságos Néprajzi Múzeum meglátogatását.\nDélben az útja az Agios Georgios templom spirituális nyugalmához vezet, mielőtt belevetné magát a nyüzsgő szombati bazár forgatagába. Itt megtapasztalhatja a város autentikus ízeit és nyüzsgését, miközben helyi finomságokat és egyedi szuveníreket keres. Egy késői ebéd az óváros egyik hagyományos tavernájában kötelező.\nA délutánt Xanthi lenyűgöző ipartörténetének szenteljük, egy látogatással az egyedülálló Dohánymúzeumban. Fedezze fel, hogyan formálta a dohánykereskedelem a várost a kiállítási tárgyak között bolyongva. Ez lenyűgöző kontrasztot kínál a korábban látott ókori helyszínekkel.\nAz este közeledtével térjen vissza az óvárosba egy kellemes vacsorára. A gyönyörűen megvilágított épületek varázslatos hangulatot teremtenek. Fejezze be a napot egy itallal az egyik hangulatos bárban, és szívja magába Xanthi, a Kelet és Nyugat találkozási pontjának sokszínű benyomásait.",
         "ro": "Ziua dvs. în Xanthi începe în animata Piață Dimokratias. De acolo, plimbați-vă prin fermecătorul Oraș Vechi, admirând istoricul Turn cu Ceas și cufundându-vă în labirintul de alei pietruite, flancate de conace otomane. Dimineața este dedicată explorării bogatei moșteniri culturale, inclusiv o vizită la revelatorul Muzeu de Folclor.\nLa prânz, drumul vă duce spre liniștea spirituală a Bisericii Agios Georgios, înainte de a vă arunca în agitația vibrantului bazar de sâmbătă. Aici, puteți experimenta aromele autentice și forfota orașului în timp ce căutați delicatese locale și suveniruri unice. Un prânz târziu la una dintre tavernele tradiționale din Orașul Vechi este obligatoriu.\nDupă-amiaza este dedicată istoriei industriale fascinante a orașului Xanthi, cu o vizită la unicul Muzeu al Tutunului. Descoperiți cum comerțul cu tutun a modelat orașul în timp ce vă plimbați printre exponate. Acesta oferă un contrast fascinant cu siturile antice pe care le-ați văzut mai devreme.\nPe măsură ce se apropie seara, reveniți în Orașul Vechi pentru o cină relaxantă. Clădirile frumos iluminate creează o atmosferă magică. Încheiați-vă ziua cu o băutură la unul dintre barurile primitoare, absorbind impresiile diverse ale Xanthi-ului, un oraș unde Estul întâlnește Vestul.",
-        "en": "Your day in Xanthi begins in the bustling Dimokratias Square. From there, stroll through the charming Old Town, admiring the historic Clock Tower and delving into the labyrinth of cobbled alleys flanked by Ottoman mansions. The morning is dedicated to exploring the rich cultural heritage, including a visit to the insightful Folklore Museum.\nAt midday, your path leads you to the spiritual tranquility of Agios Georgios Church before you plunge into the bustle of the vibrant Saturday bazaar. Here, you can experience the authentic flavors and hustle of the city while searching for local delicacies and unique souvenirs. A late lunch at one of the Old Town's traditional tavernas is a must.\nThe afternoon is devoted to Xanthi's fascinating industrial history with a visit to the unique Tobacco Museum. Discover how the tobacco trade shaped the city as you wander through the exhibits. This provides a fascinating contrast to the ancient sites you saw earlier.\nAs evening approaches, return to the Old Town for a relaxed dinner. The beautifully lit buildings create a magical atmosphere. End your day with a drink at one of the cozy bars, soaking in the diverse impressions of Xanthi, a city where East meets West."
+        "en": "Your day in Xanthi begins in the bustling Dimokratias Square. From there, stroll through the charming Old Town, admiring the historic Clock Tower and delving into the labyrinth of cobbled alleys flanked by Ottoman mansions. The morning is dedicated to exploring the rich cultural heritage, including a visit to the insightful Folklore Museum.\nAt midday, your path leads you to the spiritual tranquility of Agios Georgios Church before you plunge into the bustle of the vibrant Saturday bazaar. Here, you can experience the authentic flavors and hustle of the city while searching for local delicacies and unique souvenirs. A late lunch at one of the Old Town's traditional tavernas is a must.\nThe afternoon is devoted to Xanthi's fascinating industrial history with a visit to the unique Tobacco Museum. Discover how the tobacco trade shaped the city as you wander through the exhibits. This provides a fascinating contrast to the ancient sites you saw earlier.\nAs evening approaches, return to the Old Town for a relaxed dinner. The beautifully lit buildings create a magical atmosphere. End your day with a drink at one of the cozy bars, soaking in the diverse impressions of Xanthi, a city where East meets West.",
+        "el": "Η ημέρα σας στην Ξάνθη ξεκινά στην πολυσύχναστη Πλατεία Δημοκρατίας. Από εκεί περπατήστε στην γοητευτική Παλιά Πόλη, θαυμάζοντας τον ιστορικό Πύργο του Ρολογιού και βυθιστείτε στο λαβύρινθο των λιθόστρωτων σοκακιών περιτριγυρισμένων από οθωμανικές επαύλεις. Το πρωί αφιερώστε χρόνο στην εξερεύνηση της πλούσιας πολιτιστικής κληρονομιάς, συμπεριλαμβανομένης μιας επίσκεψης στο ενδιαφέρον Λαογραφικό Μουσείο.\nΤο μεσημέρι κατευθυνθείτε στην πνευματική γαλήνη της εκκλησίας του Αγίου Γεωργίου πριν βυθιστείτε στη φασαρία του ζωντανού σαββατιάτικου παζαριού. Εδώ μπορείτε να δοκιμάσετε αυθεντικές γεύσεις και να νιώσετε τον παλμό της πόλης αναζητώντας τοπικές λιχουδιές και μοναδικά σουβενίρ. Ένα αργοπορημένο γεύμα σε μία από τις παραδοσιακές ταβέρνες της Παλιάς Πόλης είναι απαραίτητο.\nΤο απόγευμα αφιερώστε το στη συναρπαστική βιομηχανική ιστορία της Ξάνθης με επίσκεψη στο μοναδικό Μουσείο Καπνού. Ανακαλύψτε πώς το εμπόριο του καπνού διαμόρφωσε την πόλη καθώς περιηγείστε στις εκθέσεις —μια ενδιαφέρουσα αντίθεση με τους αρχαίους χώρους που είδατε νωρίτερα.\nΚαθώς πλησιάζει το βράδυ, επιστρέψτε στην Παλιά Πόλη για ένα χαλαρό δείπνο. Τα όμορφα φωτισμένα κτίρια δημιουργούν μαγική ατμόσφαιρα. Κλείστε τη μέρα σας με ένα ποτό σε ένα από τα φιλόξενα μπαρ, απολαμβάνοντας τις ποικίλες εντυπώσεις της Ξάνθης, μιας πόλης όπου η Ανατολή συναντά τη Δύση."
       },
       "gastro_picks": {
         "de": [
@@ -401,6 +416,12 @@
           "The main bazaar happens every Saturday and is the most vibrant.",
           "Most museums are closed on Mondays, so plan accordingly.",
           "Keep cash on hand for small purchases at the bazaar."
+        ],
+        "el": [
+          "Φορέστε άνετα παπούτσια καθώς η Παλιά Πόλη είναι λιθόστρωτη.",
+          "Το κύριο παζάρι γίνεται κάθε Σάββατο και είναι το πιο ζωντανό.",
+          "Τα περισσότερα μουσεία κλείνουν τις Δευτέρες, οπότε προγραμματίστε ανάλογα.",
+          "Κρατήστε μετρητά για μικρές αγορές στο παζάρι."
         ]
       },
       "variants": {
@@ -409,7 +430,8 @@
             "de": "Regnerischer Morgen am Dimokratias-Platz, wo Cafés unter Markisen Schutz bieten. Mittags spazieren wir mit dem Schirm durch die kopfsteingepflasterten Gassen der Altstadt und genießen lokale Spezialitäten im Trockenen. Der Nachmittag gehört der Geschichte im Volkskundemuseum. Am Abend bietet das Tabakmuseum einen faszinierenden, wetterfesten Abschluss in Xanthi.",
             "hu": "Esős reggel a Dimokratias téren, ahol a kávézók ernyői nyújtanak menedéket. Délben esernyővel járjuk be az Óváros macskaköves utcáit, majd egy hangulatos tavernában ebédelünk. Délután a Néprajzi Múzeum gazdag tárlatait böngésszük fedett helyen. Az estét a Dohánymúzeum falai között zárjuk, megismerve a város ipari múltját a záporok elől rejtve.",
             "ro": "Dimineață ploioasă în Piața Dimokratias, unde cafenelele oferă adăpost sub copertine. La prânz explorăm Orașul Vechi cu umbrela, admirând arhitectura printre picăturile de ploaie. După-amiaza este dedicată Muzeului de Folclor, un refugiu cultural perfect. Seara se încheie la Muzeul Tutunului, oferind o experiență informativă și uscată în inima orașului Xanthi.",
-            "en": "A rainy morning at Dimokratias Square, where cafes provide shelter under awnings. At noon, we navigate the Old Town's cobblestones with an umbrella, stopping for a warm lunch. The afternoon is spent indoors at the Folklore Museum. Evening brings us to the Tobacco Museum, offering a fascinating and dry conclusion to our exploration of Xanthi."
+            "en": "A rainy morning at Dimokratias Square, where cafes provide shelter under awnings. At noon, we navigate the Old Town's cobblestones with an umbrella, stopping for a warm lunch. The afternoon is spent indoors at the Folklore Museum. Evening brings us to the Tobacco Museum, offering a fascinating and dry conclusion to our exploration of Xanthi.",
+            "el": "Μια βροχερή πρωινή επίσκεψη στην Πλατεία Δημοκρατίας, όπου τα καφέ προσφέρουν καταφύγιο κάτω από τέντες. Το μεσημέρι διασχίζουμε τα λιθόστρωτα της Παλιάς Πόλης με ομπρέλα, σταματώντας για ζεστό γεύμα. Το απόγευμα περνάμε στο εσωτερικό του Λαογραφικού Μουσείου. Το βράδυ μας φέρνει στο Μουσείο Καπνού, προσφέροντας ένα συναρπαστικό και στεγνό τέλος στην εξερεύνηση της Ξάνθης."
           },
           "stops": [
             {
@@ -418,7 +440,8 @@
                 "de": "Suchen Sie Schutz in den Cafés mit großen Markisen rund um den Platz.",
                 "hu": "Keressen menedéket a tér körüli nagyméretű napernyőkkel felszerelt kávézókban.",
                 "ro": "Căutați adăpost în cafenelele cu copertine mari din jurul pieței.",
-                "en": "Seek shelter in the cafes with large awnings around the square."
+                "en": "Seek shelter in the cafes with large awnings around the square.",
+                "el": "Βρείτε καταφύγιο στα καφέ με μεγάλες τέντες γύρω από την πλατεία."
               }
             },
             {
@@ -427,7 +450,8 @@
                 "de": "Ein schnelles Foto vom Uhrturm, dann weiter unter die Arkaden.",
                 "hu": "Gyors fotó az óratoronyról, majd irány az árkádok alatti rész.",
                 "ro": "O poză rapidă cu turnul cu ceas, apoi continuați sub arcade.",
-                "en": "A quick photo of the clock tower, then continue under the arcades."
+                "en": "A quick photo of the clock tower, then continue under the arcades.",
+                "el": "Μια γρήγορη φωτογραφία του πύργου του ρολογιού, μετά συνεχίστε κάτω από τα αψιδώματα."
               }
             },
             {
@@ -436,7 +460,8 @@
                 "de": "Vorsicht, das Kopfsteinpflaster ist bei Nässe sehr rutschig.",
                 "hu": "Vigyázat, a macskaköves burkolat nedvesen nagyon csúszós.",
                 "ro": "Atenție, pavajul de piatră este foarte alunecos când este umed.",
-                "en": "Be careful, the cobblestones are very slippery when wet."
+                "en": "Be careful, the cobblestones are very slippery when wet.",
+                "el": "Προσοχή, οι λιθόστρωτοι είναι πολύ ολισθηροί όταν είναι βρεγμένοι."
               }
             },
             {
@@ -445,7 +470,8 @@
                 "de": "Idealer Ort, um die stärksten Regenschauer im Inneren abzuwarten.",
                 "hu": "Ideális helyszín a hevesebb záporok benti átvészeléséhez.",
                 "ro": "Locul ideal pentru a aștepta trecerea ploilor torențiale în interior.",
-                "en": "Ideal location to wait out heavier rain showers indoors."
+                "en": "Ideal location to wait out heavier rain showers indoors.",
+                "el": "Ιδανική τοποθεσία για να περιμένετε να κοπάσει η δυνατή βροχή σε εσωτερικούς χώρους."
               }
             },
             {
@@ -454,7 +480,8 @@
                 "de": "Die Kirche bietet einen ruhigen und trockenen Ort zur Besinnung.",
                 "hu": "A templom csendes és száraz helyszínt kínál az elmélyüléshez.",
                 "ro": "Biserica oferă un loc liniștit și uscat pentru reculegere.",
-                "en": "The church offers a quiet and dry place for reflection."
+                "en": "The church offers a quiet and dry place for reflection.",
+                "el": "Η εκκλησία προσφέρει έναν ήσυχο και στεγνό χώρο για περισυλλογή."
               }
             },
             {
@@ -463,7 +490,8 @@
                 "de": "Einige Bereiche des Basars sind teilweise durch Vordächer geschützt.",
                 "hu": "A bazár egyes részei részben fedettek az üzletek előtetői miatt.",
                 "ro": "Unele zone ale bazarului sunt parțial protejate de copertine.",
-                "en": "Some areas of the bazaar are partially protected by shop awnings."
+                "en": "Some areas of the bazaar are partially protected by shop awnings.",
+                "el": "Μερικές περιοχές του παζαριού είναι μερικώς προστατευμένες από τις τέντες των καταστημάτων."
               }
             },
             {
@@ -472,7 +500,8 @@
                 "de": "Ein großartiges Indoor-Erlebnis zum Abschluss des Tages.",
                 "hu": "Nagyszerű beltéri élmény a nap esőmentes lezárásához.",
                 "ro": "O experiență interioară excelentă pentru a încheia ziua.",
-                "en": "A great indoor experience to conclude the day away from the rain."
+                "en": "A great indoor experience to conclude the day away from the rain.",
+                "el": "Μια εξαιρετική εσωτερική εμπειρία για να ολοκληρώσετε τη μέρα μακριά από τη βροχή."
               }
             }
           ],
@@ -504,6 +533,13 @@
               "Check museum hours as they are often closed on Mondays.",
               "A sturdy umbrella is recommended due to winds from the Rhodope mountains.",
               "The market area provides some covered spots for local shopping."
+            ],
+            "el": [
+              "Φορέστε αδιάβροχα παπούτσια καθώς σχηματίζονται συχνά λακκούβες στα σοκάκια της Παλιάς Πόλης.",
+              "Χρησιμοποιήστε τα πολλά καφέ ως στρατηγικές στάσεις για στεγνά διαλείμματα μεταξύ των αξιοθεάτων.",
+              "Ελέγξτε τις ώρες των μουσείων καθώς συχνά είναι κλειστά τις Δευτέρες.",
+              "Συνιστάται ισχυρή ομπρέλα λόγω των ανέμων από το όρος Ροδόπη.",
+              "Η περιοχή της αγοράς προσφέρει μερικά καλυμμένα σημεία για τοπικά ψώνια."
             ]
           }
         },
@@ -512,7 +548,8 @@
             "de": "Kühler Wintermorgen am Dimokratias-Platz, wo heißer griechischer Kaffee wärmt. Mittags erkunden wir die frostige Altstadt und genießen deftige Suppen in einer Taverne. Die Nachmittagssonne taucht die orthodoxen Kirchen in ein klares Licht, bevor wir uns im Volkskundemuseum aufwärmen. Der Tag endet früh bei Einbruch der Dunkelheit im beleuchteten Basarviertel.",
             "hu": "Hűvös téli reggel a Dimokratias téren, forró görög kávéval indítva a napot. Napközben a friss hegyi levegőn sétálunk az Óvárosban, majd egy tavernát választunk meleg ebédhez. Délután a Néprajzi Múzeumban melegszünk fel, miközben a város történelmét kutatjuk. Az este korán köszönt be, a bazár fényeiben búcsúzunk a naptól.",
             "ro": "Dimineață rece de iarnă în Piața Dimokratias, cu o cafea grecească fierbinte. La prânz explorăm Orașul Vechi sub soarele palid, savurând o supă caldă într-o tavernă locală. După-amiaza ne încălzim la Muzeul de Folclor, admirând costumele tradiționale. Seara vine repede, iar luminile bazarului creează o atmosferă primitoare la final de zi.",
-            "en": "A crisp winter morning at Dimokratias Square, starting with a hot Greek coffee. During the day, we explore the frosty Old Town streets and enjoy a hearty soup in a cozy tavern. The afternoon sun lights up the churches before we warm up inside the Folklore Museum. The day ends early as darkness falls over the festive lights of the bazaar area."
+            "en": "A crisp winter morning at Dimokratias Square, starting with a hot Greek coffee. During the day, we explore the frosty Old Town streets and enjoy a hearty soup in a cozy tavern. The afternoon sun lights up the churches before we warm up inside the Folklore Museum. The day ends early as darkness falls over the festive lights of the bazaar area.",
+            "el": "Ένα δροσερό χειμωνιάτικο πρωί στην Πλατεία Δημοκρατίας, ξεκινώντας με έναν καυτό ελληνικό καφέ. Κατά τη διάρκεια της ημέρας εξερευνούμε τους παγωμένους δρόμους της Παλιάς Πόλης και απολαμβάνουμε μια χορταστική σούπα σε μια ζεστή ταβέρνα. Το απογευματινό φως φωτίζει τις εκκλησίες πριν ζεσταθούμε μέσα στο Λαογραφικό Μουσείο. Η ημέρα τελειώνει νωρίς καθώς το σκοτάδι πέφτει πάνω στα φωτισμένα πανηγυρικά περίπτερα της αγοράς."
           },
           "stops": [
             {
@@ -521,7 +558,8 @@
                 "de": "Genießen Sie einen heißen Kaffee in einem der beheizten Außenbereiche.",
                 "hu": "Élvezzen egy forró kávét a fűtött kültéri teraszok egyikén.",
                 "ro": "Savurați o cafea fierbinte la una dintre terasele încălzite.",
-                "en": "Enjoy a hot coffee at one of the heated outdoor seating areas."
+                "en": "Enjoy a hot coffee at one of the heated outdoor seating areas.",
+                "el": "Απολαύστε έναν ζεστό καφέ σε μία από τις θερμαινόμενες εξωτερικές καθιστικές ζώνες."
               }
             },
             {
@@ -530,7 +568,8 @@
                 "de": "Kurzer Stopp für ein Foto, im Winter weht hier oft ein kalter Wind.",
                 "hu": "Rövid megálló egy fotóra, télen itt gyakran fúj hideg szél.",
                 "ro": "Oprire scurtă pentru poze, iarna vântul bate rece în această zonă.",
-                "en": "Quick stop for a photo; cold winds often blow here in winter."
+                "en": "Quick stop for a photo; cold winds often blow here in winter.",
+                "el": "Σύντομη στάση για φωτογραφία· συχνά φυσούν κρύοι άνεμοι εδώ το χειμώνα."
               }
             },
             {
@@ -539,7 +578,8 @@
                 "de": "Tragen Sie warme Schichten, die schattigen Gassen bleiben lange kalt.",
                 "hu": "Öltözzön rétegesen, az árnyékos szűk utcákban hűvös marad az idő.",
                 "ro": "Purtați haine groase, străzile înguste și umbrite rămân reci.",
-                "en": "Dress in warm layers; the narrow shaded streets stay cold all day."
+                "en": "Dress in warm layers; the narrow shaded streets stay cold all day.",
+                "el": "Ντυθείτε με ζεστά στρώματα· οι στενοί, σκιασμένοι δρόμοι παραμένουν κρύοι όλη μέρα."
               }
             },
             {
@@ -548,7 +588,8 @@
                 "de": "Ein gut beheiztes Museum, perfekt zum Aufwärmen am Nachmittag.",
                 "hu": "Jól fűtött múzeum, tökéletes a délutáni felmelegedéshez.",
                 "ro": "Un muzeu bine încălzit, perfect pentru a vă încălzi după-amiaza.",
-                "en": "A well-heated museum, perfect for warming up in the afternoon."
+                "en": "A well-heated museum, perfect for warming up in the afternoon.",
+                "el": "Ένα καλά θερμαινόμενο μουσείο, ιδανικό για να ζεσταθείτε το απόγευμα."
               }
             },
             {
@@ -557,7 +598,8 @@
                 "de": "Die Kerzen im Inneren sorgen für eine warme und besinnliche Atmosphäre.",
                 "hu": "A benti gyertyák meleg és meghitt hangulatot árasztanak.",
                 "ro": "Lumânările din interior creează o atmosferă caldă și primitoare.",
-                "en": "The candles inside provide a warm and contemplative atmosphere."
+                "en": "The candles inside provide a warm and contemplative atmosphere.",
+                "el": "Τα κεριά στο εσωτερικό δημιουργούν μια ζεστή και στοχαστική ατμόσφαιρα."
               }
             },
             {
@@ -566,7 +608,8 @@
                 "de": "Probieren Sie heißen Salep oder lokale Süßigkeiten wie Kourabiedes.",
                 "hu": "Kóstolja meg a forró szalepet vagy a helyi kourabiedes édességet.",
                 "ro": "Gustați un salep fierbinte sau dulciuri locale precum kourabiedes.",
-                "en": "Try some hot salep or local winter sweets like kourabiedes."
+                "en": "Try some hot salep or local winter sweets like kourabiedes.",
+                "el": "Δοκιμάστε ζεστό σαλέπ ή τοπικά χειμερινά γλυκά όπως κουραμπιέδες."
               }
             },
             {
@@ -575,7 +618,8 @@
                 "de": "Schließen Sie die Tour drinnen ab, bevor die Winterkälte anzieht.",
                 "hu": "Zárja a túrát bent, mielőtt az esti fagy megérkezik.",
                 "ro": "Încheiați turul la interior înainte ca gerul serii să se instaleze.",
-                "en": "Finish your tour indoors before the evening winter chill sets in."
+                "en": "Finish your tour indoors before the evening winter chill sets in.",
+                "el": "Τελειώστε την ξενάγησή σας σε εσωτερικούς χώρους πριν πέσει το βραδινό χειμωνιάτικο ψύχος."
               }
             }
           ],
@@ -607,6 +651,13 @@
               "Try 'Fasolada' (traditional bean soup) at a local tavern for lunch.",
               "Museums are pleasantly quiet and well-heated during the winter months.",
               "Watch for icy patches in the steep alleys of the Old Town."
+            ],
+            "el": [
+              "Ο ήλιος δύει γύρω στις 17:00 το χειμώνα· ολοκληρώστε νωρίς τις εξωτερικές στάσεις.",
+              "Ζεστά γάντια και σκουφί είναι απαραίτητα λόγω της γειτνίασης με το βουνό.",
+              "Δοκιμάστε «Φασολάδα» (παραδοσιακή σούπα με φασόλια) σε μια τοπική ταβέρνα για μεσημεριανό.",
+              "Τα μουσεία είναι ευχάριστα ήσυχα και καλά θερμαινόμενα κατά τη διάρκεια των χειμερινών μηνών.",
+              "Προσοχή σε παγωμένα σημεία στα απόκρημνα δρομάκια της Παλιάς Πόλης."
             ]
           }
         }
@@ -625,7 +676,8 @@
             "de": "Plateia Dimokratias",
             "hu": "Dimokratias tér",
             "ro": "Piața Dimokratias",
-            "en": "Dimokratias Square"
+            "en": "Dimokratias Square",
+            "el": "Πλατεία Δημοκρατίας"
           },
           "coords": [
             24.8885,
@@ -641,7 +693,8 @@
             "de": "Perfekter Ausgangspunkt, um das Fahrrad zu überprüfen, bevor es losgeht.",
             "hu": "Tökéletes kiindulópont a kerékpár ellenőrzéséhez indulás előtt.",
             "ro": "Punct de plecare perfect pentru a verifica bicicleta înainte de a porni.",
-            "en": "Perfect starting point to check your bike before setting off."
+            "en": "Perfect starting point to check your bike before setting off.",
+            "el": "Ιδανικό σημείο εκκίνησης για να ελέγξετε το ποδήλατό σας πριν ξεκινήσετε."
           }
         },
         {
@@ -649,7 +702,8 @@
             "de": "Tabakmuseum",
             "hu": "Dohánymúzeum",
             "ro": "Muzeul Tutunului",
-            "en": "Tobacco Museum"
+            "en": "Tobacco Museum",
+            "el": "Μουσείο Καπνού"
           },
           "coords": [
             24.894,
@@ -665,7 +719,8 @@
             "de": "Schließen Sie Ihr Fahrrad sicher ab, während Sie die Geschichte des Tabaks erkunden.",
             "hu": "Zárja le biztonságosan a kerékpárt, amíg felfedezi a dohány történetét.",
             "ro": "Legați-vă bicicleta în siguranță în timp ce explorați istoria tutunului.",
-            "en": "Lock your bike securely while you explore the history of tobacco."
+            "en": "Lock your bike securely while you explore the history of tobacco.",
+            "el": "Κλειδώστε καλά το ποδήλατό σας ενώ εξερευνάτε την ιστορία του καπνού."
           }
         },
         {
@@ -673,7 +728,8 @@
             "de": "Basar von Xanthi",
             "hu": "Xanthi bazárja",
             "ro": "Bazarul din Xanthi",
-            "en": "Xanthi Bazaar"
+            "en": "Xanthi Bazaar",
+            "el": "Αγορά Ξάνθης"
           },
           "coords": [
             24.888,
@@ -689,7 +745,8 @@
             "de": "Schieben Sie Ihr Fahrrad durch die belebten Gänge, um die Atmosphäre aufzusaugen.",
             "hu": "Tolja a kerékpárt a nyüzsgő folyosókon, hogy magába szívja a hangulatot.",
             "ro": "Împingeți bicicleta pe culoarele aglomerate pentru a absorbi atmosfera.",
-            "en": "Push your bike through the busy aisles to soak up the atmosphere."
+            "en": "Push your bike through the busy aisles to soak up the atmosphere.",
+            "el": "Σπρώξτε το ποδήλατό σας ανάμεσα στα πολυσύχναστα περάσματα για να απορροφήσετε την ατμόσφαιρα."
           }
         },
         {
@@ -697,7 +754,8 @@
             "de": "Altstadt von Xanthi",
             "hu": "Xanthi óvárosa",
             "ro": "Orașul vechi din Xanthi",
-            "en": "Old Town of Xanthi"
+            "en": "Old Town of Xanthi",
+            "el": "Παλιά Πόλη της Ξάνθης"
           },
           "coords": [
             24.886,
@@ -713,7 +771,8 @@
             "de": "Das Radfahren ist hier eine Herausforderung. Besser absteigen und zu Fuß erkunden.",
             "hu": "Itt a biciklizés kihívást jelent. Jobb leszállni és gyalog felfedezni.",
             "ro": "Ciclismul este o provocare aici. Mai bine descălecați și explorați pe jos.",
-            "en": "Cycling is challenging here. Better to dismount and explore on foot."
+            "en": "Cycling is challenging here. Better to dismount and explore on foot.",
+            "el": "Η ποδηλασία εδώ είναι απαιτητική. Καλύτερα να κατεβείτε και να εξερευνήσετε με τα πόδια."
           }
         },
         {
@@ -721,7 +780,8 @@
             "de": "Volkskundemuseum",
             "hu": "Néprajzi Múzeum",
             "ro": "Muzeul de Folclor",
-            "en": "Folklore Museum"
+            "en": "Folklore Museum",
+            "el": "Λαογραφικό Μουσείο"
           },
           "coords": [
             24.8855,
@@ -737,7 +797,8 @@
             "de": "Im Herzen der Altstadt, leicht zu Fuß vom Mittagessen zu erreichen.",
             "hu": "Az Óváros szívében, ebéd után könnyen elérhető gyalog.",
             "ro": "În inima Orașului Vechi, ușor de ajuns pe jos după prânz.",
-            "en": "In the heart of the Old Town, an easy walk after lunch."
+            "en": "In the heart of the Old Town, an easy walk after lunch.",
+            "el": "Στην καρδιά της Παλιάς Πόλης, ένας εύκολος περίπατος μετά το μεσημεριανό."
           }
         },
         {
@@ -745,7 +806,8 @@
             "de": "Fahrt in Richtung Nestos-Schlucht",
             "hu": "Kerékpárút a Nestos-szurdok felé",
             "ro": "Plimbare spre Cheile Nestos",
-            "en": "Ride towards Nestos Gorge"
+            "en": "Ride towards Nestos Gorge",
+            "el": "Κατεύθυνση προς το Φαράγγι του Νέστου"
           },
           "coords": [
             24.84,
@@ -761,7 +823,8 @@
             "de": "Genießen Sie die Landschaft auf dem Weg aus der Stadt.",
             "hu": "Élvezze a tájat a városból kifelé vezető úton.",
             "ro": "Bucurați-vă de peisaj la ieșirea din oraș.",
-            "en": "Enjoy the scenery on the way out of the city."
+            "en": "Enjoy the scenery on the way out of the city.",
+            "el": "Απολαύστε το τοπίο στο δρόμο έξω από την πόλη."
           }
         }
       ],
@@ -769,7 +832,8 @@
         "de": "Ihre Radtour durch Xanthi beginnt am zentralen Dimokratias-Platz. Von hier aus radeln Sie zum faszinierenden Tabakmuseum, um in die industrielle Vergangenheit der Stadt einzutauchen. Der Vormittag führt Sie weiter zum belebten Samstagsbasar. Stellen Sie Ihr Fahrrad ab und schlendern Sie durch die Stände, um die lokale Atmosphäre zu erleben.\nUm die Mittagszeit geht es in die Altstadt. Da die engen Gassen für Fahrräder ungeeignet sind, erkunden Sie diesen Bereich am besten zu Fuß. Genießen Sie ein Mittagessen in einer Taverne und besuchen Sie anschließend das Volkskundemuseum, das sich mitten in diesem historischen Viertel befindet. Dies bietet eine willkommene Pause und kulturelle Bereicherung.\nAm Nachmittag schwingen Sie sich wieder auf Ihr Fahrrad für eine längere Tour aus der Stadt heraus. Die Route führt Sie in Richtung der atemberaubenden Nestos-Schlucht. Obwohl Sie die Schlucht selbst nicht vollständig mit dem Fahrrad erkunden können, bietet die Fahrt dorthin herrliche Ausblicke auf die thrakische Landschaft und eine erfrischende Abwechslung zum städtischen Trubel.\nZum Abschluss des Tages radeln Sie zurück ins Stadtzentrum. Die untergehende Sonne taucht die Dächer von Xanthi in ein warmes Licht. Belohnen Sie sich mit einem herzhaften Abendessen und lassen Sie die Eindrücke des Tages, eine Mischung aus städtischer Kultur und natürlicher Schönheit, Revue passieren.",
         "hu": "Xanthi kerékpártúrája a központi Dimokratias téren kezdődik. Innen tekerjen el a lenyűgöző Dohánymúzeumhoz, hogy elmerüljön a város ipari múltjában. A délelőtt a nyüzsgő szombati bazárhoz vezet. Parkolja le a kerékpárt, és sétáljon végig a standokon, hogy megtapasztalja a helyi hangulatot.\nDél körül irány az Óváros. Mivel a szűk utcák nem alkalmasak kerékpározásra, ezt a területet a legjobb gyalog felfedezni. Ebédeljen meg egy tavernában, majd látogasson el a Néprajzi Múzeumba, amely a történelmi negyed szívében található. Ez kellemes pihenést és kulturális feltöltődést kínál.\nDélután ismét kerékpárra pattan egy hosszabb, városból kivezető túrára. Az útvonal a lélegzetelállító Nestos-szurdok felé vezet. Bár magát a szurdokot nem tudja teljesen bejárni kerékpárral, az odavezető út csodálatos kilátást nyújt a trák tájra, és felüdítő változatosságot kínál a városi forgatag után.\nA nap végén tekerjen vissza a városközpontba. A lemenő nap meleg fénybe borítja Xanthi háztetőit. Jutalmazza meg magát egy kiadós vacsorával, és idézze fel a nap benyomásait, a városi kultúra és a természeti szépség keverékét.",
         "ro": "Turul pe bicicletă al orașului Xanthi începe în Piața centrală Dimokratias. De aici, pedalați spre fascinantul Muzeu al Tutunului pentru a vă cufunda în trecutul industrial al orașului. Dimineața vă duce mai departe la vibrantul bazar de sâmbătă. Parcați-vă bicicleta și plimbați-vă printre tarabe pentru a experimenta atmosfera locală.\nÎn jurul prânzului, vă îndreptați spre Orașul Vechi. Deoarece străduțele înguste nu sunt potrivite pentru biciclete, cel mai bine este să explorați această zonă pe jos. Bucurați-vă de un prânz la o tavernă și apoi vizitați Muzeul de Folclor, situat chiar în inima acestui cartier istoric. Acest lucru oferă o pauză binevenită și o îmbogățire culturală.\nDupă-amiaza, urcați din nou pe bicicletă pentru un tur mai lung în afara orașului. Traseul vă duce spre uimitoarele Chei ale Nestosului. Deși nu puteți explora complet cheile cu bicicleta, drumul până acolo oferă priveliști magnifice asupra peisajului tracic și o schimbare revigorantă față de agitația urbană.\nLa finalul zilei, pedalați înapoi spre centrul orașului. Soarele la apus scaldă acoperișurile din Xanthi într-o lumină caldă. Răsplătiți-vă cu o cină consistentă și rememorați impresiile zilei, un amestec de cultură urbană și frumusețe naturală.",
-        "en": "Your cycling tour of Xanthi begins at the central Dimokratias Square. From here, pedal to the fascinating Tobacco Museum to immerse yourself in the city's industrial past. The morning takes you further to the vibrant Saturday bazaar. Park your bike and stroll through the stalls to experience the local atmosphere.\nAround noon, head to the Old Town. As the narrow streets are unsuitable for bicycles, it is best to explore this area on foot. Enjoy lunch at a taverna and then visit the Folklore Museum, located in the heart of this historic district. This provides a welcome break and cultural enrichment.\nIn the afternoon, get back on your bike for a longer tour out of the city. The route takes you towards the breathtaking Nestos Gorge. Although you cannot fully explore the gorge itself by bike, the ride there offers magnificent views of the Thracian landscape and a refreshing change from the urban hustle.\nAt the end of the day, pedal back to the city center. The setting sun bathes the roofs of Xanthi in a warm light. Reward yourself with a hearty dinner and reflect on the day's impressions, a mixture of urban culture and natural beauty."
+        "en": "Your cycling tour of Xanthi begins at the central Dimokratias Square. From here, pedal to the fascinating Tobacco Museum to immerse yourself in the city's industrial past. The morning takes you further to the vibrant Saturday bazaar. Park your bike and stroll through the stalls to experience the local atmosphere.\nAround noon, head to the Old Town. As the narrow streets are unsuitable for bicycles, it is best to explore this area on foot. Enjoy lunch at a taverna and then visit the Folklore Museum, located in the heart of this historic district. This provides a welcome break and cultural enrichment.\nIn the afternoon, get back on your bike for a longer tour out of the city. The route takes you towards the breathtaking Nestos Gorge. Although you cannot fully explore the gorge itself by bike, the ride there offers magnificent views of the Thracian landscape and a refreshing change from the urban hustle.\nAt the end of the day, pedal back to the city center. The setting sun bathes the roofs of Xanthi in a warm light. Reward yourself with a hearty dinner and reflect on the day's impressions, a mixture of urban culture and natural beauty.",
+        "el": "Η ποδηλατική σας διαδρομή στην Ξάνθη ξεκινά από την κεντρική Πλατεία Δημοκρατίας. Από εδώ, πατήστε πετάλι προς το ενδιαφέρον Μουσείο Καπνού για να βυθιστείτε στο βιομηχανικό παρελθόν της πόλης. Το πρωί συνεχίζετε προς την ζωντανή Σαββατιάτικη αγορά. Σταθμεύστε το ποδήλατο και περπατήστε ανάμεσα στα περίπτερα για να νιώσετε την τοπική ατμόσφαιρα.\nΓύρω στο μεσημέρι, κατευθυνθείτε προς την Παλιά Πόλη. Καθώς τα στενά δρομάκια δεν είναι κατάλληλα για ποδήλατα, είναι προτιμότερο να εξερευνήσετε την περιοχή με τα πόδια. Απολαύστε μεσημεριανό σε μια ταβέρνα και στη συνέχεια επισκεφθείτε το Λαογραφικό Μουσείο, που βρίσκεται στην καρδιά αυτής της ιστορικής συνοικίας. Αυτό προσφέρει ένα ευπρόσδεκτο διάλειμμα και πολιτιστική επιμόρφωση.\nΤο απόγευμα, επιστρέψτε στο ποδήλατο για μια μεγαλύτερη διαδρομή εκτός πόλης. Η διαδρομή σας οδηγεί προς το εκπληκτικό Φαράγγι του Νέστου. Αν και δεν μπορείτε να εξερευνήσετε πλήρως το φαράγγι με το ποδήλατο, η πορεία προς τα εκεί προσφέρει μεγαλειώδεις θέες του θρακιώτικου τοπίου και μια δροσερή αλλαγή από την αστική φασαρία.\nΣτο τέλος της ημέρας, πατήστε ξανά πετάλι για να επιστρέψετε στο κέντρο της πόλης. Ο δύων ήλιος λούζει τις στέγες της Ξάνθης με ζεστό φως. Επιβραβεύστε τον εαυτό σας με ένα χορταστικό δείπνο και συλλογιστείτε τις εντυπώσεις της ημέρας, ένα μείγμα αστικής κουλτούρας και φυσικής ομορφιάς."
       },
       "gastro_picks": {
         "de": [
@@ -929,6 +993,12 @@
           "Downtown streets can be busy, ride with caution.",
           "A helmet is strongly recommended.",
           "Bring plenty of water, especially for the ride out of town."
+        ],
+        "el": [
+          "Ελέγξτε την πίεση των ελαστικών πριν ξεκινήσετε.",
+          "Οι δρόμοι του κέντρου μπορεί να είναι πολυσύχναστοι· οδηγήστε με προσοχή.",
+          "Κράνος συνιστάται ανεπιφύλακτα.",
+          "Πάρτε αρκετό νερό, ειδικά για τη διαδρομή εκτός πόλης."
         ]
       },
       "variants": {
@@ -937,7 +1007,8 @@
             "de": "Ein nasser Start im Sattel am Dimokratias-Platz. Wir radeln vorsichtig zum Tabakmuseum für eine erste trockene Pause. Über den Basar geht es in die Altstadt, wo wir die Räder schieben, wenn es zu rutschig wird. Nach dem Volkskundemuseum führt eine kurze Fahrt Richtung Nestos-Schlucht, wobei wir die mystische, neblige Flusslandschaft genießen.",
             "hu": "Vizes indulás a Dimokratias téren. Óvatosan tekerünk a Dohánymúzeumig az első száraz pihenőért. A bazáron át az Óvárosba jutunk, ahol a csúszós köveken inkább toljuk a biciklit. A Néprajzi Múzeum után a Nesztosz-szurdok felé vesszük az irányt, élvezve a folyó ködös, misztikus látványát az esőben.",
             "ro": "Pornire umedă pe bicicletă din Piața Dimokratias. Pedalăm cu grijă spre Muzeul Tutunului pentru prima pauză uscată. Trecem prin bazar spre Orașul Vechi, unde împingem bicicletele pe zonele alunecoase. După Muzeul de Folclor, mergem spre Cheile Nestos, admirând peisajul cețos al râului.",
-            "en": "A wet start in the saddle at Dimokratias Square. We cycle carefully to the Tobacco Museum for our first dry break. Through the bazaar to the Old Town, where we walk the bikes if it's too slippery. After the Folklore Museum, a short ride towards Nestos Gorge reveals the mystical, misty riverside scenery in the rain."
+            "en": "A wet start in the saddle at Dimokratias Square. We cycle carefully to the Tobacco Museum for our first dry break. Through the bazaar to the Old Town, where we walk the bikes if it's too slippery. After the Folklore Museum, a short ride towards Nestos Gorge reveals the mystical, misty riverside scenery in the rain.",
+            "el": "Υγρή εκκίνηση στη σέλα στην Πλατεία Δημοκρατίας. Ποδηλατούμε προσεκτικά προς το Μουσείο Καπνού για το πρώτο μας στεγνό διάλειμμα. Μέσα από την αγορά προς την Παλιά Πόλη, όπου περπατάμε τα ποδήλατα αν είναι πολύ ολισθηρά. Μετά το Λαογραφικό Μουσείο, μια σύντομη διαδρομή προς το Φαράγγι του Νέστου αποκαλύπτει την μυστικιστική, ομιχλώδη παραποτάμια ατμόσφαιρα στη βροχή."
           },
           "stops": [
             {
@@ -946,7 +1017,8 @@
                 "de": "Prüfen Sie Ihre Bremsen, bevor Sie auf die nassen Straßen starten.",
                 "hu": "Ellenőrizze a fékeket, mielőtt elindul a vizes utakon.",
                 "ro": "Verificați frânele înainte de a porni pe străzile ude.",
-                "en": "Check your brakes thoroughly before starting on the wet roads."
+                "en": "Check your brakes thoroughly before starting on the wet roads.",
+                "el": "Ελέγξτε τα φρένα σας σχολαστικά πριν ξεκινήσετε στους υγρούς δρόμους."
               }
             },
             {
@@ -955,7 +1027,8 @@
                 "de": "Parken Sie das Rad sicher im Eingangsbereich, um trocken zu bleiben.",
                 "hu": "Parkolja le a bringát biztonságos, fedett helyen a bejáratnál.",
                 "ro": "Parcați bicicleta într-un loc sigur și acoperit la intrare.",
-                "en": "Park your bike in a secure, covered area near the entrance to stay dry."
+                "en": "Park your bike in a secure, covered area near the entrance to stay dry.",
+                "el": "Σταθμεύστε το ποδήλατο σε ένα ασφαλές, καλυμμένο σημείο κοντά στην είσοδο για να παραμείνει στεγνό."
               }
             },
             {
@@ -964,7 +1037,8 @@
                 "de": "Fahren Sie langsam, da Markierungen und Gitter sehr glatt sind.",
                 "hu": "Hajtson lassan, az útburkolati jelek és rácsok rendkívül csúsznak.",
                 "ro": "Pedalați încet, marcajele și grătarele sunt foarte alunecoase.",
-                "en": "Ride slowly; road markings and metal grates are extremely slick."
+                "en": "Ride slowly; road markings and metal grates are extremely slick.",
+                "el": "Ποδηλατήστε αργά· οι διαγράμμισης και οι μεταλλικές σχάρες είναι εξαιρετικά ολισθηρές."
               }
             },
             {
@@ -973,7 +1047,8 @@
                 "de": "Wir empfehlen, das Rad in den steilen, nassen Gassen zu schieben.",
                 "hu": "Javasoljuk a kerékpár tolását a meredek, vizes utcákon.",
                 "ro": "Vă recomandăm să împingeți bicicleta pe străzile abrupte și ude.",
-                "en": "We recommend walking your bike in the steep, wet alleys."
+                "en": "We recommend walking your bike in the steep, wet alleys.",
+                "el": "Συνιστούμε να περπατάτε το ποδήλατο στα απόκρημνα, υγρά δρομάκια."
               }
             },
             {
@@ -982,7 +1057,8 @@
                 "de": "Lassen Sie nasse Ausrüstung nach Möglichkeit im Foyer abtropfen.",
                 "hu": "A vizes felszerelést hagyja az előtérben, amíg bent nézelődik.",
                 "ro": "Lăsați echipamentul ud să se scurgă în hol cât timp vizitați.",
-                "en": "Leave wet gear to drip in the foyer while you visit inside."
+                "en": "Leave wet gear to drip in the foyer while you visit inside.",
+                "el": "Αφήστε τα βρεγμένα ρούχα να στάξουν στο φουαγιέ ενώ επισκέπτεστε εσωτερικούς χώρους."
               }
             },
             {
@@ -991,7 +1067,8 @@
                 "de": "Achten Sie auf Schlamm und Pfützen auf dem Weg entlang des Flusses.",
                 "hu": "Ügyeljen a sárra és a tócsákra a folyó menti útvonalon.",
                 "ro": "Fiți atenți la noroi și bălți pe drumul de-a lungul râului.",
-                "en": "Watch out for mud and puddles on the path along the river."
+                "en": "Watch out for mud and puddles on the path along the river.",
+                "el": "Προσέξτε για λάσπη και λακκούβες στο μονοπάτι κατά μήκος του ποταμού."
               }
             }
           ],
@@ -1023,6 +1100,13 @@
               "Wear high-visibility rain gear for better safety in misty conditions.",
               "The route towards Nestos can be technically more difficult when muddy.",
               "Use a plastic cover to keep your saddle dry during stops."
+            ],
+            "el": [
+              "Φτερά λάσπης στο ποδήλατο είναι απαραίτητα σε αυτόν τον βρεγμένο καιρό.",
+              "Αποφύγετε το πετάλ ενώ στέκεστε όρθιοι σε βρεγμένους κυβόλιθους για να μην γλιστρήσετε.",
+              "Φορέστε αδιάβροχα υψηλής ορατότητας για καλύτερη ασφάλεια σε ομιχλώδεις συνθήκες.",
+              "Η διαδρομή προς τον Νέστο μπορεί να είναι τεχνικά πιο απαιτητική όταν είναι λασπώδης.",
+              "Χρησιμοποιήστε πλαστικό κάλυμμα για να κρατήσετε τη σέλα στεγνή κατά τις στάσεις."
             ]
           }
         },
@@ -1031,7 +1115,8 @@
             "de": "Ein frostiger Start in den Tag am zentralen Platz. Wir radeln zum Tabakmuseum, um die Glieder aufzuwärmen. Über den belebten Wintermarkt geht es in die Altstadt, wo die kühle Luft die Sicht auf die Berge schärft. Nach dem Besuch im Volkskundemuseum fahren wir zügig Richtung Nestos-Schlucht, um das Tageslicht für die beeindruckenden Felsformationen optimal zu nutzen.",
             "hu": "Deres indulás a központi téren. A Dohánymúzeumig tekerünk, hogy átmozgassuk magunkat. A téli bazáron át az Óvárosba jutunk, ahol a tiszta levegőben élesen látszanak a hegyek. A Néprajzi Múzeum után tempósan hajtunk a Nesztosz-szurdok felé, hogy még világosban lássuk a lenyűgöző sziklafalakat.",
             "ro": "Pornire geroasă în piața centrală. Pedalăm spre Muzeul Tutunului pentru a ne pune sângele în mișcare. Prin bazarul de iarnă ajungem în Orașul Vechi, unde aerul rece oferă o vedere clară spre munți. După Muzeul de Folclor, pedalăm rapid spre Cheile Nestos pentru a profita de lumina zilei.",
-            "en": "A frosty start to the day at the main square. We cycle to the Tobacco Museum to warm up our limbs. Through the winter bazaar to the Old Town, where the crisp air sharpens the mountain views. After the Folklore Museum, we ride briskly towards Nestos Gorge to make the most of the daylight at the rock formations."
+            "en": "A frosty start to the day at the main square. We cycle to the Tobacco Museum to warm up our limbs. Through the winter bazaar to the Old Town, where the crisp air sharpens the mountain views. After the Folklore Museum, we ride briskly towards Nestos Gorge to make the most of the daylight at the rock formations.",
+            "el": "Ένα παγωμένο ξεκίνημα της ημέρας στην κεντρική πλατεία. Ποδηλατούμε προς το Μουσείο Καπνού για να ζεστάνουμε τα άκρα μας. Μέσα από τη χειμερινή αγορά προς την Παλιά Πόλη, όπου ο δροσερός αέρας οξύνει την όραση προς τα βουνά. Μετά το Λαογραφικό Μουσείο, ποδηλατούμε ζωηρά προς το Φαράγγι του Νέστου για να αξιοποιήσουμε στο έπακρο το διαθέσιμο φως στα βραχώδη μορφώματα."
           },
           "stops": [
             {
@@ -1040,7 +1125,8 @@
                 "de": "Tragen Sie winddichte Handschuhe, um steife Finger zu vermeiden.",
                 "hu": "Viseljen szélálló kesztyűt a merev ujjak elkerülése érdekében.",
                 "ro": "Purtați mănuși rezistente la vânt pentru a evita degetele amorțite.",
-                "en": "Wear windproof gloves to prevent stiff fingers while cycling."
+                "en": "Wear windproof gloves to prevent stiff fingers while cycling.",
+                "el": "Φορέστε αδιάβροχα γάντια ανεμοπροστασίας για να αποφύγετε το μουδιάσμα των δακτύλων κατά την ποδηλασία."
               }
             },
             {
@@ -1049,7 +1135,8 @@
                 "de": "Nutzen Sie den Museumsbesuch als Aufwärmpause für den Körper.",
                 "hu": "Használja a múzeumlátogatást a teste átmelegítésére.",
                 "ro": "Folosiți vizita la muzeu ca o pauză de încălzire pentru corp.",
-                "en": "Use the museum visit as a strategic warm-up break for your body."
+                "en": "Use the museum visit as a strategic warm-up break for your body.",
+                "el": "Χρησιμοποιήστε την επίσκεψη στο μουσείο ως στρατηγικό διάλειμμα ζεστάματος για το σώμα σας."
               }
             },
             {
@@ -1058,7 +1145,8 @@
                 "de": "Ein warmer Kräutertee an einem Stand hilft gegen die Kälte.",
                 "hu": "Egy forró gyógytea az egyik árusnál segít a hideg ellen.",
                 "ro": "Un ceai de plante fierbinte de la un stand vă va ajuta contra frigului.",
-                "en": "A hot herbal tea from a market stall helps fight the chill."
+                "en": "A hot herbal tea from a market stall helps fight the chill.",
+                "el": "Ένα ζεστό βοτανικό τσάι από πάγκο της αγοράς βοηθάει να αντιμετωπίσετε το ψύχος."
               }
             },
             {
@@ -1067,7 +1155,8 @@
                 "de": "Vorsicht vor gefrorenen Pfützen in schattigen Kurven.",
                 "hu": "Vigyázzon a fagyott tócsákra az árnyékos kanyarokban.",
                 "ro": "Fiți atenți la bălțile înghețate în curbele umbrite.",
-                "en": "Watch out for icy patches or frozen puddles in shaded corners."
+                "en": "Watch out for icy patches or frozen puddles in shaded corners.",
+                "el": "Προσέξτε για παγωμένα σημεία ή παγωμένες λακκούβες σε σκιασμένες γωνίες."
               }
             },
             {
@@ -1076,7 +1165,8 @@
                 "de": "Die letzte große Innenbesichtigung vor der Fahrt in die Natur.",
                 "hu": "Az utolsó nagyobb beltéri megálló a természetbe indulás előtt.",
                 "ro": "Ultima vizită importantă la interior înainte de traseul în natură.",
-                "en": "The last major indoor stop before heading out into nature."
+                "en": "The last major indoor stop before heading out into nature.",
+                "el": "Ο τελευταίος σημαντικός εσωτερικός σταθμός πριν κατευθυνθείτε στη φύση."
               }
             },
             {
@@ -1085,7 +1175,8 @@
                 "de": "Rechnen Sie mit deutlich kühleren Temperaturen in der Schlucht.",
                 "hu": "Számítson lényegesen hűvösebb hőmérsékletre a szurdokban.",
                 "ro": "Așteptați-vă la temperaturi mult mai scăzute în interiorul cheilor.",
-                "en": "Expect significantly cooler temperatures inside the gorge."
+                "en": "Expect significantly cooler temperatures inside the gorge.",
+                "el": "Αναμένετε αισθητά χαμηλότερες θερμοκρασίες μέσα στο φαράγγι."
               }
             }
           ],
@@ -1117,6 +1208,13 @@
               "Plan your return journey to reach the city before sunset.",
               "Keep your water bottle close to your body to prevent it from getting too cold.",
               "Watch out for frost or rime on bridges and wooden paths."
+            ],
+            "el": [
+              "Ντυθείτε με πολλαπλά λεπτά στρώματα χρησιμοποιώντας τεχνικά θερμικά εσώρουχα.",
+              "Η αυτονομία της μπαταρίας ηλεκτρικού ποδηλάτου μειώνεται σημαντικά σε κρύες θερμοκρασίες.",
+              "Σχεδιάστε την επιστροφή σας ώστε να φτάσετε στην πόλη πριν το ηλιοβασίλεμα.",
+              "Κρατήστε το παγούρι σας κοντά στο σώμα για να αποφύγετε να κρυώσει πολύ.",
+              "Προσέξτε για πάγο ή τριχιά σε γέφυρες και ξύλινα μονοπάτια."
             ]
           }
         }
@@ -1135,7 +1233,8 @@
             "de": "Nestos-Schlucht (Parkplatz)",
             "hu": "Nestos-szurdok (parkoló)",
             "ro": "Cheile Nestos (Parcare)",
-            "en": "Nestos Gorge (Parking Area)"
+            "en": "Nestos Gorge (Parking Area)",
+            "el": "Φαράγγι του Νέστου (Χώρος Στάθμευσης)"
           },
           "coords": [
             24.715,
@@ -1151,7 +1250,8 @@
             "de": "Starten Sie den Tag mit einer Wanderung. Festes Schuhwerk ist ein Muss!",
             "hu": "Kezdje a napot egy túrával. A strapabíró cipő elengedhetetlen!",
             "ro": "Începeți ziua cu o drumeție. Încălțămintea rezistentă este obligatorie!",
-            "en": "Start the day with a hike. Sturdy footwear is a must!"
+            "en": "Start the day with a hike. Sturdy footwear is a must!",
+            "el": "Ξεκινήστε τη μέρα με μια πεζοπορία. Απαιτούνται στιβαρά παπούτσια!"
           }
         },
         {
@@ -1159,7 +1259,8 @@
             "de": "Aussichtspunkt Nestos",
             "hu": "Nestos-kilátó",
             "ro": "Punct de belvedere Nestos",
-            "en": "Nestos Viewpoint"
+            "en": "Nestos Viewpoint",
+            "el": "Σημείο θέασης Νέστου"
           },
           "coords": [
             24.718,
@@ -1175,7 +1276,8 @@
             "de": "Ein kurzer Spaziergang vom Parkplatz für eine atemberaubende Aussicht.",
             "hu": "Rövid séta a parkolótól a lélegzetelállító kilátásért.",
             "ro": "O scurtă plimbare de la parcare pentru o priveliște uluitoare.",
-            "en": "A short walk from the parking lot for a breathtaking view."
+            "en": "A short walk from the parking lot for a breathtaking view.",
+            "el": "Σύντομος περίπατος από τον χώρο στάθμευσης για μια συναρπαστική θέα."
           }
         },
         {
@@ -1183,7 +1285,8 @@
             "de": "Parken in der Nähe der Altstadt",
             "hu": "Parkolás az Óváros közelében",
             "ro": "Parcare lângă Orașul Vechi",
-            "en": "Parking near the Old Town"
+            "en": "Parking near the Old Town",
+            "el": "Στάθμευση κοντά στην Παλιά Πόλη"
           },
           "coords": [
             24.883,
@@ -1199,7 +1302,8 @@
             "de": "Lassen Sie das Auto hier stehen, um das historische Zentrum zu Fuß zu erkunden.",
             "hu": "Hagyja itt az autót, és fedezze fel a történelmi központot gyalog.",
             "ro": "Lăsați mașina aici pentru a explora centrul istoric pe jos.",
-            "en": "Leave the car here to explore the historic center on foot."
+            "en": "Leave the car here to explore the historic center on foot.",
+            "el": "Αφήστε το αυτοκίνητο εδώ για να εξερευνήσετε το ιστορικό κέντρο με τα πόδια."
           }
         },
         {
@@ -1207,7 +1311,8 @@
             "de": "Altstadt von Xanthi & Mittagessen",
             "hu": "Xanthi óvárosa és ebéd",
             "ro": "Orașul vechi din Xanthi și prânz",
-            "en": "Old Town of Xanthi & Lunch"
+            "en": "Old Town of Xanthi & Lunch",
+            "el": "Παλιά Πόλη της Ξάνθης & Μεσημεριανό"
           },
           "coords": [
             24.886,
@@ -1223,7 +1328,8 @@
             "de": "Genießen Sie ein Mittagessen in einer Taverne, bevor Sie die Gassen erkunden.",
             "hu": "Ebédeljen egy tavernában, mielőtt felfedezné a sikátorokat.",
             "ro": "Bucurați-vă de prânz la o tavernă înainte de a explora aleile.",
-            "en": "Enjoy lunch at a taverna before exploring the alleys."
+            "en": "Enjoy lunch at a taverna before exploring the alleys.",
+            "el": "Απολαύστε μεσημεριανό σε ταβέρνα πριν εξερευνήσετε τα σοκάκια."
           }
         },
         {
@@ -1231,7 +1337,8 @@
             "de": "Volkskundemuseum",
             "hu": "Néprajzi Múzeum",
             "ro": "Muzeul de Folclor",
-            "en": "Folklore Museum"
+            "en": "Folklore Museum",
+            "el": "Λαογραφικό Μουσείο"
           },
           "coords": [
             24.8855,
@@ -1247,7 +1354,8 @@
             "de": "Direkt in der Altstadt, perfekt für nach dem Mittagessen.",
             "hu": "Közvetlenül az Óvárosban, tökéletes ebéd utáni program.",
             "ro": "Chiar în Orașul Vechi, perfect pentru după prânz.",
-            "en": "Right in the Old Town, perfect for after lunch."
+            "en": "Right in the Old Town, perfect for after lunch.",
+            "el": "Ακριβώς στην Παλιά Πόλη, τέλειο για μετά το μεσημεριανό."
           }
         },
         {
@@ -1255,7 +1363,8 @@
             "de": "Uhrturm & Plateia Dimokratias",
             "hu": "Óratorony és Dimokratias tér",
             "ro": "Turnul cu Ceas și Piața Dimokratias",
-            "en": "Clock Tower & Dimokratias Square"
+            "en": "Clock Tower & Dimokratias Square",
+            "el": "Ρολόι & Πλατεία Δημοκρατίας"
           },
           "coords": [
             24.8885,
@@ -1271,7 +1380,8 @@
             "de": "Kehren Sie ins moderne Zentrum zurück, um den Kontrast zu erleben.",
             "hu": "Térjen vissza a modern központba, hogy megtapasztalja a kontrasztot.",
             "ro": "Întoarceți-vă în centrul modern pentru a experimenta contrastul.",
-            "en": "Return to the modern center to experience the contrast."
+            "en": "Return to the modern center to experience the contrast.",
+            "el": "Επιστρέψτε στο μοντέρνο κέντρο για να νιώσετε την αντίθεση."
           }
         },
         {
@@ -1279,7 +1389,8 @@
             "de": "Abendessen in der Nähe des Basars",
             "hu": "Vacsora a bazár közelében",
             "ro": "Cină lângă Bazar",
-            "en": "Dinner near the Bazaar"
+            "en": "Dinner near the Bazaar",
+            "el": "Δείπνο κοντά στην Αγορά"
           },
           "coords": [
             24.888,
@@ -1295,7 +1406,8 @@
             "de": "Beenden Sie den Tag mit einem Festmahl in der Nähe des geschäftigen Herzens der Stadt.",
             "hu": "Zárja a napot egy lakomával a város nyüzsgő szívének közelében.",
             "ro": "Încheiați ziua cu un festin lângă inima plină de viață a orașului.",
-            "en": "End the day with a feast near the city's bustling heart."
+            "en": "End the day with a feast near the city's bustling heart.",
+            "el": "Κλείστε τη μέρα με ένα γιορτινό γεύμα κοντά στην πολυσύχναστη καρδιά της πόλης."
           }
         }
       ],
@@ -1303,7 +1415,8 @@
         "de": "Ihr Tag beginnt mit einer Fahrt aus der Stadt zur beeindruckenden Nestos-Schlucht. Nach dem Parken widmen Sie den Vormittag einer Wanderung entlang der Pfade und genießen die spektakuläre Aussicht. Dies ist der perfekte Start, um in die Naturwunder der Region einzutauchen.\nNach dem Naturerlebnis fahren Sie zurück nach Xanthi und parken in der Nähe der Altstadt. Der Rest des Tages ist eine fußläufige Erkundung. Gönnen Sie sich ein Mittagessen in einer traditionellen Taverne und tauchen Sie dann in die osmanische Atmosphäre der Gassen ein. Anschließend besuchen Sie das Volkskundemuseum, um mehr über die lokale Kultur zu erfahren.\nAm späten Nachmittag schlendern Sie vom historischen Kern zum modernen Zentrum und besuchen den Uhrturm und die Plateia Dimokratias. Dieser Spaziergang zeigt den faszinierenden Kontrast zwischen dem alten und dem neuen Xanthi. Es ist eine gute Gelegenheit, das städtische Leben zu beobachten.\nDer Tag endet mit einem gemütlichen Spaziergang zu einem Restaurant in der Nähe des Basarviertels. Nachdem Sie zu Ihrem Auto zurückgekehrt sind, haben Sie einen Tag voller Kontraste erlebt: von der wilden Schönheit der Nestos-Schlucht bis zum reichen kulturellen Gefüge von Xanthi.",
         "hu": "A nap egy autóúttal kezdődik a városból a lenyűgöző Nestos-szurdokhoz. A parkolás után a délelőttöt túrázással tölti az ösvényeken, és élvezi a látványos kilátást. Ez a tökéletes kezdet a régió természeti csodáinak felfedezéséhez.\nA természeti élmény után visszautazik Xanthiba, és leparkol az Óváros közelében. A nap hátralévő része gyalogos felfedezés. Ebédeljen meg egy hagyományos tavernában, majd merüljön el a sikátorok oszmán hangulatában. Ezután látogasson el a Néprajzi Múzeumba, hogy többet tudjon meg a helyi kultúráról.\nKéső délután sétáljon át a történelmi magból a modern központba, meglátogatva az Óratornyot és a Plateia Dimokratias teret. Ez a séta bemutatja az ősi és az új Xanthi közötti lenyűgöző kontrasztot. Jó alkalom a városi élet megfigyelésére.\nA nap egy kellemes sétával zárul egy, a bazár negyedéhez közeli étteremig. Miután visszatért az autójához, egy kontrasztokkal teli napot élt át: a Nestos-szurdok vad szépségétől Xanthi gazdag kulturális szövetéig.",
         "ro": "Ziua dvs. începe cu o călătorie cu mașina în afara orașului, spre impresionantele Chei ale Nestosului. După parcare, dedicați dimineața unei drumeții pe poteci, bucurându-vă de priveliștile spectaculoase. Acesta este începutul perfect pentru a vă cufunda în minunile naturale ale regiunii.\nDupă experiența în natură, vă întoarceți cu mașina în Xanthi și parcați lângă Orașul Vechi. Restul zilei este o explorare pe jos. Bucurați-vă de un prânz la o tavernă tradițională, apoi cufundați-vă în atmosfera otomană a aleilor. Apoi, vizitați Muzeul de Folclor pentru a afla mai multe despre cultura locală.\nSpre sfârșitul după-amiezii, plimbați-vă de la nucleul istoric la centrul modern, vizitând Turnul cu Ceas și Piața Dimokratias. Această plimbare arată contrastul fascinant dintre vechiul și noul Xanthi. Este o ocazie bună de a observa viața urbană.\nZiua se încheie cu o plimbare relaxată la un restaurant de lângă zona bazarului. După ce vă întoarceți la mașină, veți fi experimentat o zi plină de contraste: de la frumusețea sălbatică a Cheilor Nestosului la bogata țesătură culturală a orașului Xanthi.",
-        "en": "Your day begins with a drive out of the city to the stunning Nestos Gorge. After parking, you'll dedicate the morning to hiking along the trails, enjoying the spectacular views. This is the perfect start to immerse yourself in the region's natural wonders.\nAfter the nature experience, you drive back to Xanthi and park near the Old Town. The rest of the day is a walking exploration. Enjoy lunch at a traditional taverna, then immerse yourself in the Ottoman atmosphere of the alleys. Afterwards, visit the Folklore Museum to learn more about the local culture.\nIn the late afternoon, stroll from the historic core to the modern center, visiting the Clock Tower and Dimokratias Square. This walk showcases the fascinating contrast between ancient and new Xanthi. It's a good opportunity to observe urban life.\nThe day concludes with a leisurely walk to a restaurant near the bazaar district. After returning to your car, you'll have experienced a day full of contrasts: from the wild beauty of the Nestos Gorge to the rich cultural fabric of Xanthi."
+        "en": "Your day begins with a drive out of the city to the stunning Nestos Gorge. After parking, you'll dedicate the morning to hiking along the trails, enjoying the spectacular views. This is the perfect start to immerse yourself in the region's natural wonders.\nAfter the nature experience, you drive back to Xanthi and park near the Old Town. The rest of the day is a walking exploration. Enjoy lunch at a traditional taverna, then immerse yourself in the Ottoman atmosphere of the alleys. Afterwards, visit the Folklore Museum to learn more about the local culture.\nIn the late afternoon, stroll from the historic core to the modern center, visiting the Clock Tower and Dimokratias Square. This walk showcases the fascinating contrast between ancient and new Xanthi. It's a good opportunity to observe urban life.\nThe day concludes with a leisurely walk to a restaurant near the bazaar district. After returning to your car, you'll have experienced a day full of contrasts: from the wild beauty of the Nestos Gorge to the rich cultural fabric of Xanthi.",
+        "el": "Η μέρα σας ξεκινά με μια οδήγηση εκτός πόλης προς το εκπληκτικό Φαράγγι του Νέστου. Μετά τη στάθμευση, θα αφιερώσετε το πρωί σε πεζοπορίες στα μονοπάτια, απολαμβάνοντας τις θεαματικές θέες. Αυτή είναι η τέλεια αρχή για να βυθιστείτε στα φυσικά θαύματα της περιοχής.\nΜετά την εμπειρία στη φύση, οδηγείτε πίσω στην Ξάνθη και σταθμεύετε κοντά στην Παλιά Πόλη. Το υπόλοιπο της ημέρας είναι πεζή εξερεύνηση. Απολαύστε μεσημεριανό σε μια παραδοσιακή ταβέρνα και στη συνέχεια βυθιστείτε στην οθωμανική ατμόσφαιρα των σοκακιών. Μετά, επισκεφθείτε το Λαογραφικό Μουσείο για να μάθετε περισσότερα για την τοπική κουλτούρα.\nΤο αργά απόγευμα, περπατήστε από τον ιστορικό πυρήνα προς το μοντέρνο κέντρο, επισκεπτόμενοι το Ρολόι και την Πλατεία Δημοκρατίας. Αυτή η βόλτα αναδεικνύει την συναρπαστική αντίθεση ανάμεσα στην παλιά και τη νέα Ξάνθη. Είναι μια καλή ευκαιρία να παρατηρήσετε την αστική ζωή.\nΗ μέρα τελειώνει με έναν χαλαρό περίπατο προς ένα εστιατόριο κοντά στην περιοχή της αγοράς. Αφού επιστρέψετε στο αυτοκίνητό σας, θα έχετε ζήσει μια μέρα γεμάτη αντιθέσεις: από την άγρια ομορφιά του Φαραγγιού του Νέστου έως τον πλούσιο πολιτιστικό ιστό της Ξάνθης."
       },
       "gastro_picks": {
         "de": [
@@ -1479,6 +1592,12 @@
           "Parking downtown can be difficult; use designated parking areas.",
           "Combine your visit with a nearby winery if time permits.",
           "Roads into the mountains can be narrow and winding."
+        ],
+        "el": [
+          "Ελέγξτε ώρες λειτουργίας για τα μονοπάτια του Φαραγγιού του Νέστου.",
+          "Η στάθμευση στο κέντρο μπορεί να είναι δύσκολη· χρησιμοποιήστε τις καθορισμένες θέσεις στάθμευσης.",
+          "Συνδυάστε την επίσκεψη με ένα κοντινό οινοποιείο αν το επιτρέπει ο χρόνος.",
+          "Οι δρόμοι προς τα βουνά μπορεί να είναι στενοί και στροφικοί."
         ]
       },
       "variants": {
@@ -1487,7 +1606,8 @@
             "de": "Die Fahrt beginnt regnerisch Richtung Nestos-Schlucht. Wir genießen den Blick auf den Fluss aus dem trockenen Auto und halten kurz am Aussichtspunkt. Zurück in Xanthi parken wir nahe der Altstadt und flüchten für ein langes Mittagessen in eine gemütliche Taverne. Den Nachmittag verbringen wir in den Museen, bevor wir den Tag bei einem Abendessen am Basar ausklingen lassen.",
             "hu": "Az utazás esőben indul a Nesztosz-szurdok felé. A száraz autóból csodáljuk a folyót, és röviden megállunk a kilátópontnál. Visszatérve Xanthiba az Óváros közelében parkolunk, és egy hangulatos tavernába menekülünk egy hosszú ebédre. A délutánt múzeumokban töltjük, majd a bazárnál vacsorázunk.",
             "ro": "Călătoria începe pe ploaie spre Cheile Nestos. Admirăm râul din confortul mașinii și oprim scurt la punctul de belvedere. Reveniți în Xanthi, parcăm lângă Orașul Vechi și ne refugiem într-o tavernă pentru un prânz prelungit. Petrecem după-amiaza în muzee, încheind ziua cu o cină lângă bazar.",
-            "en": "The drive starts rainy towards Nestos Gorge. We enjoy views of the river from the dry car, stopping briefly at the viewpoint. Back in Xanthi, we park near the Old Town and retreat to a cozy tavern for a long lunch. The afternoon is spent in museums, finishing the day with dinner near the bazaar."
+            "en": "The drive starts rainy towards Nestos Gorge. We enjoy views of the river from the dry car, stopping briefly at the viewpoint. Back in Xanthi, we park near the Old Town and retreat to a cozy tavern for a long lunch. The afternoon is spent in museums, finishing the day with dinner near the bazaar.",
+            "el": "Η οδήγηση ξεκινά βροχερή προς το Φαράγγι του Νέστου. Απολαμβάνουμε θέες του ποταμού από το στεγνό αυτοκίνητο, σταματώντας σύντομα στο σημείο θέας. Πίσω στην Ξάνθη, σταθμεύουμε κοντά στην Παλιά Πόλη και καταφεύγουμε σε μια ζεστή ταβέρνα για ένα μεγάλο γεύμα. Το απόγευμα περνάει σε μουσεία, κλείνοντας τη μέρα με δείπνο κοντά στην αγορά."
           },
           "stops": [
             {
@@ -1496,7 +1616,8 @@
                 "de": "Parken Sie auf festem Untergrund, um nicht im Schlamm steckenzubleiben.",
                 "hu": "Parkoljon szilárd talajon, hogy elkerülje a sárba ragadást.",
                 "ro": "Parcați pe teren solid pentru a evita împotmolirea în noroi.",
-                "en": "Park on solid ground to avoid getting stuck in the mud."
+                "en": "Park on solid ground to avoid getting stuck in the mud.",
+                "el": "Σταθμεύστε σε στέρεο έδαφος για να αποφύγετε να βουλιάξετε στη λάσπη."
               }
             },
             {
@@ -1505,7 +1626,8 @@
                 "de": "Ein kurzer Stopp reicht, die Sicht kann durch Nebel eingeschränkt sein.",
                 "hu": "Egy rövid megálló elég, a kilátást korlátozhatja a köd.",
                 "ro": "O oprire scurtă este suficientă, vizibilitatea poate fi redusă de ceață.",
-                "en": "A brief stop is enough; visibility might be limited by mist."
+                "en": "A brief stop is enough; visibility might be limited by mist.",
+                "el": "Μια σύντομη στάση αρκεί· η ορατότητα μπορεί να περιορίζεται από την ομίχλη."
               }
             },
             {
@@ -1514,7 +1636,8 @@
                 "de": "Nutzen Sie bewachte Parkplätze, um direkt den Schirm aufzuspannen.",
                 "hu": "Használjon őrzött parkolót, hogy azonnal esernyőt nyithasson.",
                 "ro": "Folosiți parcări păzite pentru a putea deschide umbrela imediat.",
-                "en": "Use guarded parking lots to quickly deploy your umbrella."
+                "en": "Use guarded parking lots to quickly deploy your umbrella.",
+                "el": "Χρησιμοποιήστε φυλασσόμενες θέσεις στάθμευσης για να ανοίξετε γρήγορα την ομπρέλα σας."
               }
             },
             {
@@ -1523,7 +1646,8 @@
                 "de": "Wählen Sie eine Taverne mit Kamin für maximale Gemütlichkeit.",
                 "hu": "Válasszon kandallós tavernát a maximális kényelemért.",
                 "ro": "Alegeți o tavernă cu șemineu pentru un confort maxim.",
-                "en": "Choose a tavern with a fireplace for maximum coziness."
+                "en": "Choose a tavern with a fireplace for maximum coziness.",
+                "el": "Επιλέξτε ταβέρνα με τζάκι για μέγιστη θαλπωρή."
               }
             },
             {
@@ -1532,7 +1656,8 @@
                 "de": "Perfekter Ort, um das Auto für eine Weile stehen zu lassen.",
                 "hu": "Tökéletes helyszín, hogy az autót egy időre ott hagyja.",
                 "ro": "Locul perfect pentru a lăsa mașina parcată o perioadă.",
-                "en": "Perfect spot to leave the car for a while while exploring indoors."
+                "en": "Perfect spot to leave the car for a while while exploring indoors.",
+                "el": "Τέλειο σημείο για να αφήσετε προσωρινά το αυτοκίνητο ενώ εξερευνάτε εσωτερικούς χώρους."
               }
             },
             {
@@ -1541,7 +1666,8 @@
                 "de": "Der Platz ist beleuchtet und sieht bei Regen besonders glänzend aus.",
                 "hu": "A tér kivilágítva esőben különlegesen csillogó látványt nyújt.",
                 "ro": "Piața luminată oferă o priveliște strălucitoare pe timp de ploaie.",
-                "en": "The illuminated square looks particularly shiny and beautiful in the rain."
+                "en": "The illuminated square looks particularly shiny and beautiful in the rain.",
+                "el": "Η φωτισμένη πλατεία δείχνει ιδιαίτερα λαμπερή και όμορφη στη βροχή."
               }
             },
             {
@@ -1550,7 +1676,8 @@
                 "de": "Parken Sie so nah wie möglich am Restaurant.",
                 "hu": "Parkoljon a lehető legközelebb az étteremhez.",
                 "ro": "Parcați cât mai aproape posibil de restaurant.",
-                "en": "Park as close as possible to the restaurant."
+                "en": "Park as close as possible to the restaurant.",
+                "el": "Σταθμεύστε όσο πιο κοντά γίνεται στο εστιατόριο."
               }
             }
           ],
@@ -1582,6 +1709,13 @@
               "Use central parking garages to stay dry when getting out of the car.",
               "Windows fog up quickly; ensure your AC/ventilation is working well.",
               "Avoid driving into the very narrowest Old Town streets during rain."
+            ],
+            "el": [
+              "Οδηγήστε προσεκτικά στους στροφικούς δρόμους προς τον Νέστο σε υγρές συνθήκες.",
+              "Προσέξτε για πιθανές κατακρημνίσεις βράχων σε ορεινές περιοχές κατά τη διάρκεια δυνατής βροχής.",
+              "Χρησιμοποιήστε κεντρικά γκαράζ για να μείνετε στεγνοί όταν βγαίνετε από το αυτοκίνητο.",
+              "Τα παράθυρα θολώνουν γρήγορα· βεβαιωθείτε ότι το κλιματιστικό/αερισμός λειτουργεί καλά.",
+              "Αποφύγετε να οδηγείτε στους στενότερους δρόμους της Παλιάς Πόλης κατά τη διάρκεια της βροχής."
             ]
           }
         },
@@ -1590,7 +1724,8 @@
             "de": "Ein klarer Wintertag beginnt mit der Fahrt zur Nestos-Schlucht. Die kalte Luft sorgt für eine fantastische Fernsicht am Aussichtspunkt. In Xanthi angekommen, parken wir zentral und spazieren durch die winterliche Altstadt zu einem wärmenden Mittagessen. Der Nachmittag gehört der Kultur in den beheizten Museen, bevor wir den Tag im festlich beleuchteten Zentrum abschließen.",
             "hu": "Tiszta téli nap indul a Nesztosz-szurdok felé. A hideg levegő fantasztikus kilátást biztosít a kilátópontnál. Xanthiba érve központi helyen parkolunk, és a téli Óvároson át egy melengető ebédre indulunk. A délutánt fűtött múzeumokban töltjük, majd a díszkivilágításban pompázó központban zárjuk a napot.",
             "ro": "O zi senină de iarnă începe cu drumul spre Cheile Nestos. Aerul rece oferă o vizibilitate excelentă la punctul de belvedere. În Xanthi, parcăm central și ne plimbăm prin Orașul Vechi spre un prânz cald. După-amiaza vizităm muzeele încălzite, încheind ziua în centrul luminat festiv.",
-            "en": "A clear winter day begins with a drive to Nestos Gorge. The cold air provides fantastic long-distance views at the viewpoint. Arriving in Xanthi, we park centrally and walk through the wintry Old Town for a warming lunch. The afternoon is dedicated to culture in heated museums before finishing the day in the festively lit center."
+            "en": "A clear winter day begins with a drive to Nestos Gorge. The cold air provides fantastic long-distance views at the viewpoint. Arriving in Xanthi, we park centrally and walk through the wintry Old Town for a warming lunch. The afternoon is dedicated to culture in heated museums before finishing the day in the festively lit center.",
+            "el": "Μια καθαρή χειμερινή μέρα ξεκινά με οδήγηση στο Φαράγγι του Νέστου. Ο κρύος αέρας προσφέρει φανταστικές μακρινές θέες από το σημείο παρατήρησης. Φτάνοντας στην Ξάνθη, παρκάρουμε κεντρικά και περπατάμε στην χειμερινή Παλιά Πόλη για ένα ζεστό γεύμα. Το απόγευμα αφιερώνεται στον πολιτισμό σε θερμαινόμενα μουσεία πριν ολοκληρώσουμε την ημέρα στο γιορτινά φωτισμένο κέντρο."
           },
           "stops": [
             {
@@ -1599,7 +1734,8 @@
                 "de": "Prüfen Sie den Reifendruck, er sinkt bei Kälte oft ab.",
                 "hu": "Ellenőrizze a guminyomást, a hidegben gyakran lecsökken.",
                 "ro": "Verificați presiunea în pneuri, aceasta scade adesea la frig.",
-                "en": "Check your tire pressure; it often drops in cold temperatures."
+                "en": "Check your tire pressure; it often drops in cold temperatures.",
+                "el": "Ελέγξτε την πίεση των ελαστικών· συχνά πέφτει στις χαμηλές θερμοκρασίες."
               }
             },
             {
@@ -1608,7 +1744,8 @@
                 "de": "Genießen Sie die klare Sicht, die nur der Winter bietet.",
                 "hu": "Élvezze a tiszta kilátást, amit csak a tél tud nyújtani.",
                 "ro": "Bucurați-vă de vizibilitatea clară pe care o oferă doar iarna.",
-                "en": "Enjoy the crystal-clear views that only winter air provides."
+                "en": "Enjoy the crystal-clear views that only winter air provides.",
+                "el": "Απολαύστε τις κρυστάλλινες θέες που προσφέρει μόνο ο χειμερινός αέρας."
               }
             },
             {
@@ -1617,7 +1754,8 @@
                 "de": "Achten Sie auf Schattenplätze, dort kann es glatt sein.",
                 "hu": "Ügyeljen az árnyékos helyekre, ott jeges lehet az aszfalt.",
                 "ro": "Atenție la locurile umbrite, asfaltul poate fi înghețat acolo.",
-                "en": "Watch out for shaded areas in parking lots; they can be icy."
+                "en": "Watch out for shaded areas in parking lots; they can be icy.",
+                "el": "Προσέξτε τις σκιερές περιοχές στα πάρκινγκ· μπορεί να είναι παγωμένες."
               }
             },
             {
@@ -1626,7 +1764,8 @@
                 "de": "Eine heiße Mahlzeit ist jetzt genau das Richtige.",
                 "hu": "Egy forró étel most pont az, amire szüksége van.",
                 "ro": "O masă fierbinte este exact ceea ce aveți nevoie acum.",
-                "en": "A hot, traditional meal is exactly what you need now."
+                "en": "A hot, traditional meal is exactly what you need now.",
+                "el": "Ένα ζεστό, παραδοσιακό γεύμα είναι ακριβώς αυτό που χρειάζεστε τώρα."
               }
             },
             {
@@ -1635,7 +1774,8 @@
                 "de": "Die Heizung im Museum ist im Winter sehr willkommen.",
                 "hu": "A múzeumi fűtés télen nagyon hálás dolog.",
                 "ro": "Încălzirea din muzeu este foarte binevenită iarna.",
-                "en": "The heating in the museum is very welcome during winter."
+                "en": "The heating in the museum is very welcome during winter.",
+                "el": "Η θέρμανση στο μουσείο είναι πολύ ευπρόσδεκτη κατά τη διάρκεια του χειμώνα."
               }
             },
             {
@@ -1644,7 +1784,8 @@
                 "de": "Im Winter gibt es hier oft schöne Weihnachtsdekorationen.",
                 "hu": "Télen itt gyakran láthatók szép karácsonyi díszítések.",
                 "ro": "Iarna puteți vedea aici decorațiuni frumoase de Crăciun.",
-                "en": "In winter, you can often find beautiful Christmas decorations here."
+                "en": "In winter, you can often find beautiful Christmas decorations here.",
+                "el": "Τον χειμώνα συχνά θα βρείτε εδώ όμορφες χριστουγεννιάτικες διακοσμήσεις."
               }
             },
             {
@@ -1653,7 +1794,8 @@
                 "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
                 "hu": "Ne járassa feleslegesen a motort várakozás közben.",
                 "ro": "Nu lăsați motorul pornit inutil în timp ce staționați.",
-                "en": "Avoid idling your engine unnecessarily while waiting."
+                "en": "Avoid idling your engine unnecessarily while waiting.",
+                "el": "Αποφύγετε να αφήνετε τον κινητήρα σε λειτουργία χωρίς λόγο ενώ περιμένετε."
               }
             }
           ],
@@ -1685,6 +1827,13 @@
               "Ensure your car battery is in good condition for low temperatures.",
               "Winter tires are absolutely necessary for driving into the Rhodopes.",
               "Utilize seat heaters for the short drives between city POIs."
+            ],
+            "el": [
+              "Να έχετε πάντα ξύστρα πάγου και υγρό καθαρισμού παρμπρίζ για τον χειμώνα.",
+              "Οι ορεινοί δρόμοι μπορεί να είναι παγωμένοι το πρωί· οδηγείτε με προσοχή.",
+              "Βεβαιωθείτε ότι η μπαταρία του αυτοκινήτου είναι σε καλή κατάσταση για τις χαμηλές θερμοκρασίες.",
+              "Τα χειμερινά ελαστικά είναι απολύτως απαραίτητα για οδήγηση στα Ροδόπια.",
+              "Χρησιμοποιήστε τη θέρμανση στα καθίσματα για τις μικρές διαδρομές μεταξύ των σημείων ενδιαφέροντος της πόλης."
             ]
           }
         }
@@ -1703,7 +1852,8 @@
             "de": "Zentraler Busbahnhof",
             "hu": "Központi buszpályaudvar",
             "ro": "Autogara Centrală",
-            "en": "Central Bus Station"
+            "en": "Central Bus Station",
+            "el": "Κεντρικός Σταθμός Λεωφορείων"
           },
           "coords": [
             24.896,
@@ -1719,7 +1869,8 @@
             "de": "Nehmen Sie den Bus zur Haltestelle 'Dimokratias'.",
             "hu": "Szálljon fel a 'Dimokratias' megállóig tartó buszra.",
             "ro": "Luați autobuzul până la stația 'Dimokratias'.",
-            "en": "Take the bus to the 'Dimokratias' stop."
+            "en": "Take the bus to the 'Dimokratias' stop.",
+            "el": "Πάρτε το λεωφορείο προς τη στάση «Δημοκρατίας»."
           }
         },
         {
@@ -1727,7 +1878,8 @@
             "de": "Plateia Dimokratias",
             "hu": "Dimokratias tér",
             "ro": "Piața Dimokratias",
-            "en": "Dimokratias Square"
+            "en": "Dimokratias Square",
+            "el": "Πλατεία Δημοκρατίας"
           },
           "coords": [
             24.8885,
@@ -1743,7 +1895,8 @@
             "de": "Der erste Cluster beginnt hier. Erkunden Sie die Umgebung zu Fuß.",
             "hu": "Az első klaszter itt kezdődik. Fedezze fel a környéket gyalog.",
             "ro": "Primul cluster începe aici. Explorați zona pe jos.",
-            "en": "The first cluster starts here. Explore the area on foot."
+            "en": "The first cluster starts here. Explore the area on foot.",
+            "el": "Η πρώτη ομάδα ξεκινά εδώ. Εξερευνήστε την περιοχή με τα πόδια."
           }
         },
         {
@@ -1751,7 +1904,8 @@
             "de": "Basar von Xanthi",
             "hu": "Xanthi bazárja",
             "ro": "Bazarul din Xanthi",
-            "en": "Xanthi Bazaar"
+            "en": "Xanthi Bazaar",
+            "el": "Παζάρι Ξάνθης"
           },
           "coords": [
             24.888,
@@ -1767,7 +1921,8 @@
             "de": "Ein kurzer Spaziergang vom Platz. Tauchen Sie ein in die Klänge und Gerüche.",
             "hu": "Rövid séta a tértől. Merüljön el a hangokban és illatokban.",
             "ro": "O scurtă plimbare din piață. Cufundați-vă în sunete și mirosuri.",
-            "en": "A short walk from the square. Immerse yourself in the sounds and smells."
+            "en": "A short walk from the square. Immerse yourself in the sounds and smells.",
+            "el": "Μικρή απόσταση με τα πόδια από την πλατεία. Βυθιστείτε στους ήχους και τις μυρωδιές."
           }
         },
         {
@@ -1775,7 +1930,8 @@
             "de": "Bus zur Altstadt",
             "hu": "Busz az Óvárosba",
             "ro": "Autobuz spre Orașul Vechi",
-            "en": "Bus to the Old Town"
+            "en": "Bus to the Old Town",
+            "el": "Λεωφορείο προς την Παλιά Πόλη"
           },
           "coords": [
             24.887,
@@ -1791,7 +1947,8 @@
             "de": "Nehmen Sie einen Bus, der Sie näher an den oberen Teil der Altstadt bringt.",
             "hu": "Szálljon fel egy buszra, amely közelebb visz az Óváros felső részéhez.",
             "ro": "Luați un autobuz care vă duce mai aproape de partea superioară a Orașului Vechi.",
-            "en": "Take a bus to get closer to the upper part of the Old Town."
+            "en": "Take a bus to get closer to the upper part of the Old Town.",
+            "el": "Πάρτε λεωφορείο για να πλησιάσετε το ανώτερο τμήμα της Παλιάς Πόλης."
           }
         },
         {
@@ -1799,7 +1956,8 @@
             "de": "Altstadt & Volkskundemuseum",
             "hu": "Óváros és Néprajzi Múzeum",
             "ro": "Orașul Vechi și Muzeul de Folclor",
-            "en": "Old Town & Folklore Museum"
+            "en": "Old Town & Folklore Museum",
+            "el": "Παλιά Πόλη & Λαογραφικό Μουσείο"
           },
           "coords": [
             24.8855,
@@ -1815,7 +1973,8 @@
             "de": "Erkunden Sie diesen Cluster zu Fuß, einschließlich Mittagessen und Museumsbesuch.",
             "hu": "Fedezze fel ezt a klasztert gyalog, beleértve az ebédet és a múzeumlátogatást.",
             "ro": "Explorați acest cluster pe jos, inclusiv prânzul și vizita la muzeu.",
-            "en": "Explore this cluster on foot, including lunch and the museum visit."
+            "en": "Explore this cluster on foot, including lunch and the museum visit.",
+            "el": "Εξερευνήστε αυτήν την ομάδα με τα πόδια, συμπεριλαμβανομένου του γεύματος και της επίσκεψης στο μουσείο."
           }
         },
         {
@@ -1823,7 +1982,8 @@
             "de": "Uhrturm von Xanthi",
             "hu": "Xanthi óratornya",
             "ro": "Turnul cu ceas din Xanthi",
-            "en": "Xanthi Clock Tower"
+            "en": "Xanthi Clock Tower",
+            "el": "Ρολοϊ της Ξάνθης"
           },
           "coords": [
             24.8892,
@@ -1839,7 +1999,8 @@
             "de": "Auf dem Weg zurück zur Bushaltestelle, ein kurzer Halt bei diesem Wahrzeichen.",
             "hu": "Visszafelé a buszmegállóhoz, egy rövid megálló ennél a jelképnél.",
             "ro": "În drum spre stația de autobuz, o scurtă oprire la acest punct de reper.",
-            "en": "On your way back to the bus stop, a quick stop at this landmark."
+            "en": "On your way back to the bus stop, a quick stop at this landmark.",
+            "el": "Καθώς επιστρέφετε στη στάση του λεωφορείου, κάντε μια γρήγορη στάση σε αυτό το σημείο-αναφορά."
           }
         }
       ],
@@ -1847,7 +2008,8 @@
         "de": "Ihr Tag beginnt am zentralen Busbahnhof, von wo aus Sie einen Bus zum Dimokratias-Platz nehmen. Dies ist Ihr erster Cluster. Am Vormittag erkunden Sie das geschäftige Zentrum rund um den Platz und den lebhaften Samstagsbasar zu Fuß. Hier können Sie das lokale Leben aufsaugen und vielleicht ein paar Souvenirs finden.\nUm die Mittagszeit nehmen Sie einen weiteren Bus, der Sie zum oberen Teil der Altstadt bringt, Ihrem zweiten Cluster. Die engen Gassen und die historische Architektur erkunden Sie am besten zu Fuß. Suchen Sie sich eine gemütliche Taverne zum Mittagessen und besuchen Sie anschließend das Volkskundemuseum, das sich in einem wunderschönen Herrenhaus befindet.\nAm Nachmittag schlendern Sie durch die restlichen Gassen der Altstadt und machen sich langsam auf den Rückweg. Unterwegs legen Sie einen Halt am berühmten Uhrturm ein, einem Symbol der Stadt. Der Spaziergang bergab zurück in Richtung des moderneren Stadtteils bietet neue Perspektiven.\nDer Tag endet mit der Rückfahrt mit dem Bus vom Stadtzentrum zum Ausgangspunkt. Diese Tour kombiniert die Effizienz des öffentlichen Nahverkehrs mit der Freude am Entdecken zu Fuß und ermöglicht es Ihnen, zwei unterschiedliche, aber gleichermaßen faszinierende Viertel von Xanthi an einem Tag zu erleben.",
         "hu": "A nap a központi buszpályaudvaron kezdődik, ahonnan busszal jut el a Dimokratias térre. Ez az első klaszter. Délelőtt gyalog fedezi fel a tér körüli nyüzsgő központot és az élénk szombati bazárt. Itt magába szívhatja a helyi életet, és talán talál néhány ajándéktárgyat.\nDél körül egy másik buszra száll, amely az Óváros felső részébe viszi, a második klaszterbe. A szűk utcákat és a történelmi építészetet a legjobb gyalog felfedezni. Keressen egy hangulatos tavernát ebédre, majd látogasson el a Néprajzi Múzeumba, amely egy gyönyörű kúriában található.\nDélután sétáljon végig az Óváros többi sikátorán, és lassan induljon vissza. Útközben álljon meg a híres Óratoronynál, a város jelképénél. A lejtőn lefelé vezető séta a modernebb városrész felé új perspektívákat kínál.\nA nap a városközpontból a kiindulási pontra való buszozással zárul. Ez a túra ötvözi a tömegközlekedés hatékonyságát a gyalogos felfedezés örömével, lehetővé téve, hogy egy nap alatt két különböző, de egyformán lenyűgöző negyedét ismerje meg Xanthinak.",
         "ro": "Ziua dvs. începe la autogara centrală, de unde luați un autobuz spre Piața Dimokratias. Acesta este primul dvs. cluster. Dimineața, explorați pe jos centrul plin de viață din jurul pieței și vibrantul bazar de sâmbătă. Aici puteți absorbi viața locală și poate găsi câteva suveniruri.\nÎn jurul prânzului, luați un alt autobuz care vă duce în partea superioară a Orașului Vechi, al doilea dvs. cluster. Cel mai bun mod de a explora străduțele înguste și arhitectura istorică este pe jos. Găsiți o tavernă primitoare pentru prânz și apoi vizitați Muzeul de Folclor, găzduit într-un conac frumos.\nDupă-amiaza, plimbați-vă prin restul aleilor din Orașul Vechi, pornind încet înapoi. Pe drum, faceți o oprire la faimosul Turn cu Ceas, un simbol al orașului. Plimbarea la vale, înapoi spre cartierul mai modern, oferă noi perspective.\nZiua se încheie cu călătoria cu autobuzul din centrul orașului înapoi la punctul de plecare. Acest tur combină eficiența transportului public cu bucuria de a explora pe jos, permițându-vă să experimentați două cartiere distincte, dar la fel de fascinante, ale orașului Xanthi într-o singură zi.",
-        "en": "Your day starts at the central bus station, where you take a bus to Dimokratias Square. This is your first cluster. In the morning, you explore the bustling center around the square and the vibrant Saturday bazaar on foot. Here you can soak up the local life and perhaps find some souvenirs.\nAround noon, you take another bus that takes you to the upper part of the Old Town, your second cluster. The narrow streets and historic architecture are best explored on foot. Find a cozy taverna for lunch and then visit the Folklore Museum, housed in a beautiful mansion.\nIn the afternoon, wander through the remaining alleys of the Old Town, slowly making your way back. On the way, you stop at the famous Clock Tower, a symbol of the city. The walk downhill back towards the more modern district offers new perspectives.\nThe day ends with the bus ride from the city center back to your starting point. This tour combines the efficiency of public transport with the joy of exploring on foot, allowing you to experience two distinct but equally fascinating neighborhoods of Xanthi in one day."
+        "en": "Your day starts at the central bus station, where you take a bus to Dimokratias Square. This is your first cluster. In the morning, you explore the bustling center around the square and the vibrant Saturday bazaar on foot. Here you can soak up the local life and perhaps find some souvenirs.\nAround noon, you take another bus that takes you to the upper part of the Old Town, your second cluster. The narrow streets and historic architecture are best explored on foot. Find a cozy taverna for lunch and then visit the Folklore Museum, housed in a beautiful mansion.\nIn the afternoon, wander through the remaining alleys of the Old Town, slowly making your way back. On the way, you stop at the famous Clock Tower, a symbol of the city. The walk downhill back towards the more modern district offers new perspectives.\nThe day ends with the bus ride from the city center back to your starting point. This tour combines the efficiency of public transport with the joy of exploring on foot, allowing you to experience two distinct but equally fascinating neighborhoods of Xanthi in one day.",
+        "el": "Η μέρα σας ξεκινά στον κεντρικό σταθμό λεωφορείων, όπου παίρνετε λεωφορείο για την Πλατεία Δημοκρατίας. Αυτή είναι η πρώτη σας ομάδα. Το πρωί εξερευνάτε με τα πόδια το πολυσύχναστο κέντρο γύρω από την πλατεία και το ζωντανό Σαββατιάτικο παζάρι. Εδώ μπορείτε να απορροφήσετε την τοπική ζωή και ίσως να βρείτε σουβενίρ.\nΓύρω στο μεσημέρι, παίρνετε άλλο λεωφορείο που σας ανεβάζει στο ανώτερο τμήμα της Παλιάς Πόλης, η δεύτερη σας ομάδα. Οι στενοί δρόμοι και η ιστορική αρχιτεκτονική εξερευνούνται καλύτερα πεζοί. Βρείτε μια ζεστή ταβέρνα για μεσημεριανό και στη συνέχεια επισκεφθείτε το Λαογραφικό Μουσείο, που στεγάζεται σε ένα όμορφο αρχοντικό.\nΤο απόγευμα, περιπλανηθείτε στα υπόλοιπα σοκάκια της Παλιάς Πόλης, κατεβαίνοντας αργά προς τα πίσω. Στη διαδρομή, σταματάτε στον διάσημο Ρολογιού, σύμβολο της πόλης. Η πεζοπορία προς την πιο σύγχρονη συνοικία προσφέρει νέες οπτικές.\nΗ μέρα ολοκληρώνεται με τη διαδρομή με λεωφορείο από το κέντρο της πόλης πίσω στο σημείο εκκίνησής σας. Αυτή η περιήγηση συνδυάζει την αποδοτικότητα των μέσων μεταφοράς με τη χαρά της πεζής εξερεύνησης, επιτρέποντάς σας να βιώσετε δύο διαφορετικές αλλά εξίσου συναρπαστικές γειτονιές της Ξάνθης σε μία μέρα."
       },
       "gastro_picks": {
         "de": [
@@ -1999,6 +2161,12 @@
           "Check the bus schedule in advance, especially on weekends.",
           "Be aware that buses may not always be on time.",
           "Have your destination clear for the bus driver if you are unsure."
+        ],
+        "el": [
+          "Αγοράστε ημερήσιο εισιτήριο λεωφορείου για να εξοικονομήσετε χρήματα.",
+          "Ελέγξτε το δρομολόγιο του λεωφορείου εκ των προτέρων, ειδικά τα Σαββατοκύριακα.",
+          "Να γνωρίζετε ότι τα λεωφορεία μπορεί να μην είναι πάντα στην ώρα τους.",
+          "Έχετε ξεκάθαρο προορισμό για τον οδηγό αν δεν είστε σίγουροι."
         ]
       },
       "variants": {
@@ -2007,7 +2175,8 @@
             "de": "Regnerische Ankunft am Busbahnhof. Wir nehmen den Bus zum zentralen Platz und suchen Schutz im Basarviertel. Mittags fahren wir mit dem Bus hinauf in die Altstadt und verbringen viel Zeit im Volkskundemuseum. Der Uhrturm ist unser letzter Stopp, bevor wir die kurze Fahrt zurück zum Bahnhof antreten, immer darauf bedacht, trocken zu bleiben.",
             "hu": "Esős érkezés a buszpályaudvarra. Busszal megyünk a központi térre, és a bazár fedettebb részein nézelődünk. Délben busszal megyünk fel az Óvárosba, és hosszabb időt töltünk a Néprajzi Múzeumban. Az óratorony az utolsó megállónk, mielőtt visszatérünk az állomásra, ügyelve arra, hogy ne ázzunk el.",
             "ro": "Sosire pe ploaie la autogară. Luăm autobuzul spre piața centrală și căutăm adăpost în zona bazarului. La prânz mergem cu autobuzul în Orașul Vechi și petrecem mai mult timp la Muzeul de Folclor. Turnul cu ceas este ultima oprire înainte de a ne întoarce la gară, încercând să rămânem uscați.",
-            "en": "A rainy arrival at the bus station. We take the bus to the main square and find shelter in the bazaar area. At noon, we take the bus up to the Old Town and spend plenty of time at the Folklore Museum. The Clock Tower is our final stop before the short ride back to the station, always aiming to stay dry."
+            "en": "A rainy arrival at the bus station. We take the bus to the main square and find shelter in the bazaar area. At noon, we take the bus up to the Old Town and spend plenty of time at the Folklore Museum. The Clock Tower is our final stop before the short ride back to the station, always aiming to stay dry.",
+            "el": "Βροχερή άφιξη στον σταθμό λεωφορείων. Παίρνουμε το λεωφορείο στην κεντρική πλατεία και βρίσκουμε καταφύγιο στην περιοχή του παζαριού. Το μεσημέρι, παίρνουμε λεωφορείο για την Παλιά Πόλη και περνάμε αρκετό χρόνο στο Λαογραφικό Μουσείο. Το Ρολόι είναι η τελευταία μας στάση πριν την σύντομη διαδρομή πίσω στον σταθμό, με στόχο να παραμείνουμε στεγνοί."
           },
           "stops": [
             {
@@ -2016,7 +2185,8 @@
                 "de": "Warten Sie im klimatisierten Innenbereich der Station.",
                 "hu": "Várjon az állomás klimatizált belső várótermében.",
                 "ro": "Așteptați în zona interioară a autogării.",
-                "en": "Wait inside the station's indoor waiting area to stay dry."
+                "en": "Wait inside the station's indoor waiting area to stay dry.",
+                "el": "Περιμένετε μέσα στην εσωτερική αίθουσα αναμονής του σταθμού για να μείνετε στεγνοί."
               }
             },
             {
@@ -2025,7 +2195,8 @@
                 "de": "Die Bushaltestelle hier bietet ein kleines Wartehäuschen.",
                 "hu": "Az itteni buszmegálló rendelkezik egy kis esőbeállóval.",
                 "ro": "Stația de autobuz de aici are un mic adăpost.",
-                "en": "The bus stop here has a small shelter to protect from rain."
+                "en": "The bus stop here has a small shelter to protect from rain.",
+                "el": "Η στάση λεωφορείου εδώ έχει μικρό υπόστεγο για προστασία από τη βροχή."
               }
             },
             {
@@ -2034,7 +2205,8 @@
                 "de": "Bleiben Sie unter den Vordächern der Geschäfte beim Gehen.",
                 "hu": "Haladjon az üzletek előtetői alatt sétálás közben.",
                 "ro": "Rămâneți sub copertinele magazinelor în timp ce mergeți.",
-                "en": "Stay under the shop awnings while walking through the market."
+                "en": "Stay under the shop awnings while walking through the market.",
+                "el": "Μείνετε κάτω από τα τέντες των μαγαζιών ενώ περπατάτε στην αγορά."
               }
             },
             {
@@ -2043,7 +2215,8 @@
                 "de": "Die beste Wahl, um den steilen Aufstieg im Regen zu vermeiden.",
                 "hu": "A legjobb választás, hogy elkerülje a meredek emelkedőt az esőben.",
                 "ro": "Cea mai bună alegere pentru a evita urcarea abruptă pe ploaie.",
-                "en": "The best choice to avoid the steep climb in the rain."
+                "en": "The best choice to avoid the steep climb in the rain.",
+                "el": "Η καλύτερη επιλογή για να αποφύγετε την έντονη ανηφόρα στη βροχή."
               }
             },
             {
@@ -2052,7 +2225,8 @@
                 "de": "Das Museum ist nur wenige Schritte von der Haltestelle entfernt.",
                 "hu": "A múzeum csak pár lépésre van a buszmegállótól.",
                 "ro": "Muzeul este la doar câțiva pași de stația de autobuz.",
-                "en": "The museum is just a few steps away from the bus stop."
+                "en": "The museum is just a few steps away from the bus stop.",
+                "el": "Το μουσείο είναι μόλις λίγα βήματα από τη στάση του λεωφορείου."
               }
             },
             {
@@ -2061,7 +2235,8 @@
                 "de": "Planen Sie den Rückweg zum Bahnhof rechtzeitig ein.",
                 "hu": "Tervezze meg időben a visszautat a buszpályaudvarra.",
                 "ro": "Planificați din timp întoarcerea la autogară.",
-                "en": "Plan your return trip to the bus station in advance."
+                "en": "Plan your return trip to the bus station in advance.",
+                "el": "Σχεδιάστε το ταξίδι επιστροφής σας στον σταθμό εκ των προτέρων."
               }
             }
           ],
@@ -2093,6 +2268,13 @@
               "Have small change ready for purchasing tickets on board.",
               "Use the local transit app for real-time bus tracking information.",
               "Buses tend to be more crowded during rain or cold weather."
+            ],
+            "el": [
+              "Πάρτε ημερήσιο εισιτήριο για ευέλικτες μετακινήσεις μεταξύ γραμμών λεωφορείων.",
+              "Τα δρομολόγια λεωφορείων μπορεί να διαφοροποιηθούν ελαφρώς κατά τις περιόδους δυνατής βροχής.",
+              "Να έχετε ρέστα έτοιμα για αγορά εισιτηρίων επί του λεωφορείου.",
+              "Χρησιμοποιήστε την τοπική εφαρμογή μετακινήσεων για πληροφορίες πραγματικού χρόνου για τα λεωφορεία.",
+              "Τα λεωφορεία τείνουν να είναι πιο γεμάτα στη βροχή ή στο κρύο."
             ]
           }
         },
@@ -2101,7 +2283,8 @@
             "de": "Ein kalter Start am Busbahnhof von Xanthi. Wir nehmen den nächsten Bus zum Dimokratias-Platz und wärmen uns in einem Café auf. Der Winterbasar bietet lokale Spezialitäten, bevor wir mit dem Bus in die frostige Altstadt fahren. Nach einem ausgiebigen Besuch im warmen Néprajzi Múzeum bewundern wir den beleuchteten Uhrturm und fahren zurück zum Bahnhof.",
             "hu": "Hideg reggel Xanthi buszpályaudvarán. A következő busszal a Dimokratias térre megyünk, és egy kávézóban melegszünk fel. A téli bazár helyi finomságokat kínál, mielőtt busszal a fagyos Óvárosba utazunk. A meleg Néprajzi Múzeumban tett látogatás után megcsodáljuk a kivilágított óratoronyt, majd visszatérünk az állomásra.",
             "ro": "O dimineață rece la autogara din Xanthi. Luăm următorul autobuz spre Piața Dimokratias și ne încălzim într-o cafenea. Bazarul de iarnă oferă delicii locale, apoi mergem cu autobuzul în Orașul Vechi. După o vizită prelungită la Muzeul de Folclor, admirăm turnul cu ceas luminat și revenim la autogară.",
-            "en": "A cold start at Xanthi's bus station. We take the next bus to Dimokratias Square and warm up in a local cafe. The winter bazaar offers local treats before we head by bus to the frosty Old Town. After an extensive visit to the warm Folklore Museum, we admire the lit-up Clock Tower and head back to the station."
+            "en": "A cold start at Xanthi's bus station. We take the next bus to Dimokratias Square and warm up in a local cafe. The winter bazaar offers local treats before we head by bus to the frosty Old Town. After an extensive visit to the warm Folklore Museum, we admire the lit-up Clock Tower and head back to the station.",
+            "el": "Κρύα έναρξη στον σταθμό λεωφορείων της Ξάνθης. Παίρνουμε το επόμενο λεωφορείο για την Πλατεία Δημοκρατίας και ζεσταίνουμε σε τοπικό καφέ. Το χειμερινό παζάρι προσφέρει τοπικές λιχουδιές πριν κατευθυνθούμε με λεωφορείο στην παγωμένη Παλιά Πόλη. Μετά από εκτενή επίσκεψη στο ζεστό Λαογραφικό Μουσείο, θαυμάζουμε το φωταγωγημένο Ρολόι και επιστρέφουμε στον σταθμό."
           },
           "stops": [
             {
@@ -2110,7 +2293,8 @@
                 "de": "Ein heißer Tee am Kiosk der Station vertreibt die Morgenkälte.",
                 "hu": "Egy forró tea az állomási büfében elűzi a reggeli hideget.",
                 "ro": "Un ceai fierbinte de la chioșcul autogării alungă frigul dimineții.",
-                "en": "A hot tea at the station's kiosk will help with the morning chill."
+                "en": "A hot tea at the station's kiosk will help with the morning chill.",
+                "el": "Ένα ζεστό τσάι στο γκισέ του σταθμού θα βοηθήσει με τη χθεσινή πρωινή ψύχρα."
               }
             },
             {
@@ -2119,7 +2303,8 @@
                 "de": "Warten Sie in den Geschäften nahe der Haltestelle auf den Bus.",
                 "hu": "Várja a buszt a megálló közeli üzletekben, ha fázik.",
                 "ro": "Așteptați autobuzul în magazinele de lângă stație dacă vă este frig.",
-                "en": "Wait for your bus inside shops near the stop if it's too cold."
+                "en": "Wait for your bus inside shops near the stop if it's too cold.",
+                "el": "Περιμένετε το λεωφορείο μέσα στα καταστήματα κοντά στη στάση αν είναι πολύ κρύα."
               }
             },
             {
@@ -2128,7 +2313,8 @@
                 "de": "Kaufen Sie geröstete Kastanien, sie wärmen auch die Hände.",
                 "hu": "Vásároljon sült gesztenyét, ez a kezét is felmelegíti.",
                 "ro": "Cumpărați castane coapte, vă vor încălzi și mâinile.",
-                "en": "Buy some roasted chestnuts; they will warm up your hands too."
+                "en": "Buy some roasted chestnuts; they will warm up your hands too.",
+                "el": "Αγοράστε ψημένα κάστανα· θα ζεστάνουν και τα χέρια σας."
               }
             },
             {
@@ -2137,7 +2323,8 @@
                 "de": "Die Busse sind im Winter gut beheizt und sehr komfortabel.",
                 "hu": "A buszok télen jól fűtöttek és nagyon kényelmesek.",
                 "ro": "Autobuzele sunt bine încălzite iarna și foarte confortabile.",
-                "en": "Buses are well-heated in winter and very comfortable for the climb."
+                "en": "Buses are well-heated in winter and very comfortable for the climb.",
+                "el": "Τα λεωφορεία είναι καλά θερμαινόμενα το χειμώνα και πολύ άνετα για την ανάβαση."
               }
             },
             {
@@ -2146,7 +2333,8 @@
                 "de": "Die Ausstellungen bieten Schutz vor der kühlen Winterbrise.",
                 "hu": "A kiállítások védelmet nyújtanak a hűvös téli szellő ellen.",
                 "ro": "Expozițiile oferă protecție împotriva vântului rece de iarnă.",
-                "en": "The exhibits provide a perfect escape from the cool winter breeze."
+                "en": "The exhibits provide a perfect escape from the cool winter breeze.",
+                "el": "Τα εκθέματα προσφέρουν τέλειο καταφύγιο από το δροσερό χειμερινό αεράκι."
               }
             },
             {
@@ -2155,7 +2343,8 @@
                 "de": "In der Dämmerung ist der Turm im Winter besonders schön beleuchtet.",
                 "hu": "Szürkületben az óratorony télen különösen szépen van kivilágítva.",
                 "ro": "La amurg, turnul este luminat foarte frumos pe timp de iarnă.",
-                "en": "At dusk, the clock tower is beautifully illuminated in winter."
+                "en": "At dusk, the clock tower is beautifully illuminated in winter.",
+                "el": "Το ηλιοβασίλεμα, ο πύργος του ρολογιού φωτίζεται όμορφα τον χειμώνα."
               }
             }
           ],
@@ -2187,6 +2376,13 @@
               "Use the bus rides as opportunities to warm up between sites.",
               "Check the schedule for the last evening bus back to the station.",
               "Main bus lines usually run every 20-30 minutes."
+            ],
+            "el": [
+              "Ντυθείτε ζεστά καθώς μπορεί να υπάρξουν χρόνοι αναμονής στις στάσεις λεωφορείων.",
+              "Η συχνότητα των λεωφορείων μπορεί να είναι περιορισμένη κατά τις χειμερινές αργίες.",
+              "Χρησιμοποιήστε τις διαδρομές με λεωφορείο ως ευκαιρία να ζεσταθείτε μεταξύ των σημείων.",
+              "Ελέγξτε το πρόγραμμα για το τελευταίο βραδινό λεωφορείο πίσω στον σταθμό.",
+              "Οι κύριες γραμμές λεωφορείων συνήθως περνούν κάθε 20–30 λεπτά."
             ]
           }
         }

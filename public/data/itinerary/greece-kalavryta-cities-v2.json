@@ -19,7 +19,8 @@
         "de": "Beginnen Sie Ihren Tag am Platz der Freiheit, dem Herzen von Kalavryta. Am Vormittag tauchen Sie im Holocaust-Museum und am Ort der Opfer tief in die bewegende Geschichte ein. Mittags erleben Sie eine malerische Fahrt mit der Zahnradbahn Odontotos nach Zachlorou. Erkunden Sie am Nachmittag das Dorf und genießen Sie ein traditionelles Mittagessen, bevor Sie die Bahn zurück nach Kalavryta nehmen, erfüllt von unvergesslichen Eindrücken der Natur und Geschichte.",
         "hu": "Kezdje a napot Kalavryta szívében, a Szabadság téren. A délelőtt folyamán merüljön el a város megrendítő történelmében a Holokauszt Múzeumban és az Áldozatok Emlékhelyénél. Délben egy festői utazás várja az Odontotos fogaskerekűvel Zachlorou falujába. Délután fedezze fel a falut és fogyasszon el egy hagyományos ebédet, mielőtt visszatérne Kalavrytába, telve a természet és a történelem felejthetetlen élményeivel.",
         "ro": "Începeți ziua în Piața Libertății, inima orașului Kalavryta. În cursul dimineșii, aprofundați istoria emoționantă la Muzeul Holocaustului și la Locul Sacrificiului. La prânz, bucurați-vă de o călătorie pitorească cu trenul cu cremalieră Odontotos spre Zachlorou. După-amiaza, explorați satul și savurați un prânz tradițional înainte de a lua trenul înapoi spre Kalavryta, plini de impresii de neuitat despre natură și istorie.",
-        "en": "Start your day in Freedom Square, the heart of Kalavryta. In the morning, delve into the moving history at the Holocaust Museum and the Place of Sacrifice. At noon, enjoy a scenic journey on the Odontotos rack railway to Zachlorou. In the afternoon, explore the village and have a traditional lunch before taking the train back to Kalavryta, filled with unforgettable impressions of nature and history."
+        "en": "Start your day in Freedom Square, the heart of Kalavryta. In the morning, delve into the moving history at the Holocaust Museum and the Place of Sacrifice. At noon, enjoy a scenic journey on the Odontotos rack railway to Zachlorou. In the afternoon, explore the village and have a traditional lunch before taking the train back to Kalavryta, filled with unforgettable impressions of nature and history.",
+        "el": "Ξεκινήστε τη μέρα σας στην Πλατεία Ελευθερίας, την καρδιά των Καλαβρύτων. Το πρωί εμβαθύνετε στην συγκινητική ιστορία στο Μουσείο Ολοκαυτώματος και στον Τόπο Θυσίας. Το μεσημέρι απολαύστε το γραφικό ταξίδι με τον οδοντωτό προς το Ζαχλωρού. Το απόγευμα εξερευνήστε το χωριό και γευματίστε παραδοσιακά πριν επιστρέψετε με το τρένο στα Καλάβρυτα, γεμάτοι αξέχαστες εντυπώσεις φύσης και ιστορίας."
       },
       "stops": [
         {
@@ -27,7 +28,8 @@
             "de": "Platz der Freiheit",
             "hu": "Szabadság tér",
             "ro": "Piața Libertății",
-            "en": "Freedom Square"
+            "en": "Freedom Square",
+            "el": "Πλατεία Ελευθερίας"
           },
           "coords": [
             22.1145,
@@ -43,7 +45,8 @@
             "de": "Perfekter Startpunkt. Genießen Sie einen griechischen Kaffee in einem der Cafés.",
             "hu": "Tökéletes kiindulópont. Igyon meg egy görög kávét az egyik kávézóban.",
             "ro": "Punctul de plecare perfect. Savurați o cafea grecească la una dintre cafenele.",
-            "en": "Perfect starting point. Enjoy a Greek coffee in one of the cafés."
+            "en": "Perfect starting point. Enjoy a Greek coffee in one of the cafés.",
+            "el": "Ιδανικό σημείο εκκίνησης. Απολαύστε έναν ελληνικό καφέ σε ένα από τα καφέ."
           }
         },
         {
@@ -51,7 +54,8 @@
             "de": "Holocaust-Museum Kalavryta",
             "hu": "Kalavrytai Holokauszt Múzeum",
             "ro": "Muzeul Holocaustului din Kalavryta",
-            "en": "Kalavryta Holocaust Museum"
+            "en": "Kalavryta Holocaust Museum",
+            "el": "Μουσείο Ολοκαυτώματος Καλαβρύτων"
           },
           "coords": [
             22.1129,
@@ -67,7 +71,8 @@
             "de": "Nehmen Sie sich Zeit für die Ausstellungen, sie sind sehr bewegend.",
             "hu": "Szánjon időt a kiállításokra, nagyon megindítóak.",
             "ro": "Acordați-vă timp pentru expoziții, sunt foarte emoționante.",
-            "en": "Take your time with the exhibits; they are very moving."
+            "en": "Take your time with the exhibits; they are very moving.",
+            "el": "Πάρτε τον χρόνο σας με τις εκθέσεις — είναι πολύ συγκινητικές."
           }
         },
         {
@@ -75,7 +80,8 @@
             "de": "Ort des Opfers",
             "hu": "Áldozatok Emlékhelye",
             "ro": "Locul Sacrificiului",
-            "en": "Place of Sacrifice"
+            "en": "Place of Sacrifice",
+            "el": "Τόπος Θυσίας"
           },
           "coords": [
             22.1108,
@@ -91,7 +97,8 @@
             "de": "Ein Ort der Stille und des Gedenkens oberhalb der Stadt.",
             "hu": "A csend és az emlékezés helye a város felett.",
             "ro": "Un loc de reculegere și comemorare deasupra orașului.",
-            "en": "A place of silence and remembrance overlooking the town."
+            "en": "A place of silence and remembrance overlooking the town.",
+            "el": "Χώρος σιωπής και μνήμης που βλέπει την πόλη."
           }
         },
         {
@@ -99,7 +106,8 @@
             "de": "Fahrt mit der Odontotos Zahnradbahn",
             "hu": "Utazás az Odontotos fogaskerekűvel",
             "ro": "Călătorie cu trenul cu cremalieră Odontotos",
-            "en": "Ride the Odontotos Rack Railway"
+            "en": "Ride the Odontotos Rack Railway",
+            "el": "Οδοντωτός Σιδηρόδρομος"
           },
           "coords": [
             22.1155,
@@ -115,7 +123,8 @@
             "de": "Setzen Sie sich auf die linke Seite für die beste Aussicht auf die Schlucht.",
             "hu": "Üljön a bal oldalra a szurdokra nyíló legjobb kilátásért.",
             "ro": "Așezați-vă pe partea stângă pentru cea mai bună vedere a cheilor.",
-            "en": "Sit on the left side for the best views of the gorge."
+            "en": "Sit on the left side for the best views of the gorge.",
+            "el": "Καθίστε στην αριστερή πλευρά για τις καλύτερες θέες του φαραγγιού."
           }
         },
         {
@@ -123,7 +132,8 @@
             "de": "Mittagessen in Zachlorou",
             "hu": "Ebéd Zachlorouban",
             "ro": "Prânz în Zachlorou",
-            "en": "Lunch in Zachlorou"
+            "en": "Lunch in Zachlorou",
+            "el": "Μεσημεριανό στο Ζαχλωρού"
           },
           "coords": [
             22.175,
@@ -139,7 +149,8 @@
             "de": "Probieren Sie Lammkoteletts in einer der Tavernen am Flussufer.",
             "hu": "Kóstolja meg a bárányszeleteket az egyik folyóparti tavernában.",
             "ro": "Încercați coastele de miel la una dintre tavernele de pe malul râului.",
-            "en": "Try the lamb chops at one of the riverside tavernas."
+            "en": "Try the lamb chops at one of the riverside tavernas.",
+            "el": "Δοκιμάστε τα αρνίσια παϊδάκια σε μία από τις ταβέρνες δίπλα στο ποτάμι."
           }
         },
         {
@@ -147,7 +158,8 @@
             "de": "Rückfahrt nach Kalavryta",
             "hu": "Visszaút Kalavrytába",
             "ro": "Întoarcere la Kalavryta",
-            "en": "Return journey to Kalavryta"
+            "en": "Return journey to Kalavryta",
+            "el": "Επιστροφή στα Καλάβρυτα"
           },
           "coords": [
             22.1155,
@@ -163,7 +175,8 @@
             "de": "Die Nachmittagssonne taucht die Schlucht in ein wunderschönes Licht.",
             "hu": "A délutáni nap gyönyörű fénybe vonja a szurdokot.",
             "ro": "Soarele de după-amiază scaldă cheile într-o lumină superbă.",
-            "en": "The afternoon sun casts a beautiful light over the gorge."
+            "en": "The afternoon sun casts a beautiful light over the gorge.",
+            "el": "Ο απογευματινός ήλιος ρίχνει όμορφο φως πάνω στο φαράγγι."
           }
         }
       ],
@@ -361,6 +374,12 @@
           "Check the Odontotos train schedule in advance, especially out of season.",
           "Bring water, especially for the hike around Zachlorou.",
           "Be respectful at the historical memorial sites."
+        ],
+        "el": [
+          "Φορέστε άνετα παπούτσια καθώς θα περπατήσετε πολύ σε ανώμαλο έδαφος.",
+          "Ελέγξτε το πρόγραμμα του Οδοντωτού εκ των προτέρων, ειδικά εκτός σεζόν.",
+          "Πάρτε νερό, ειδικά για την πεζοπορία γύρω από το Ζαχλωρού.",
+          "Να είστε σεβαστικοί στους ιστορικούς τόπους μνήμης."
         ]
       },
       "variants": {
@@ -369,7 +388,8 @@
             "de": "Morgens bietet der Freiheitsplatz trotz Regen Schutz unter Arkaden. Der Besuch im Holocaust-Museum ist ideal, um trocken zu bleiben und Geschichte zu vertiefen. Mittags führt der Weg zum Opferplatz durch neblige Gassen. Nachmittags genießen Sie eine gemütliche Fahrt mit der Zahnradbahn nach Zachlorou, wo der Regen den Vouraikos-Fluss wilder erscheinen lässt. Abends Rückkehr im warmen Zug.",
             "hu": "Reggel a Szabadság tér árkádjai alatt kezdünk, majd a Holokauszt Múzeumban találunk menedéket az eső elől. Délben a monumentális emlékhely a ködben még drámaibb látványt nyújt. Délután az Odontotos kisvasúton pihenünk, figyelve a megáradt Vouraikos-folyót Zachlorou felé. Az estét a városba visszatérve, egy meleg teázóban zárjuk, miközben odakint kopog az eső.",
             "ro": "Dimineața, Piața Libertății oferă adăpost sub arcade, iar Muzeul Holocaustului este locul perfect pentru a evita ploaia. La prânz, vizita la Locul Sacrificiului capătă o aură melancolică prin ceață. După-amiaza, călătoria cu trenul spre Zachlorou vă protejează de intemperii, oferind vederi dramatice asupra defileului. Seara se încheie cu o întoarcere relaxantă în vagonul încălzit.",
-            "en": "Morning starts under the covers of Freedom Square, followed by a long stay inside the Holocaust Museum to stay dry. At noon, the misty atmosphere adds solemnity to the Place of Sacrifice. In the afternoon, the rack railway provides a dry vantage point to admire the rain-swollen Vouraikos river on the way to Zachlorou. The evening concludes with a cozy train ride back to Kalavryta."
+            "en": "Morning starts under the covers of Freedom Square, followed by a long stay inside the Holocaust Museum to stay dry. At noon, the misty atmosphere adds solemnity to the Place of Sacrifice. In the afternoon, the rack railway provides a dry vantage point to admire the rain-swollen Vouraikos river on the way to Zachlorou. The evening concludes with a cozy train ride back to Kalavryta.",
+            "el": "Το πρωί ξεκινά κάτω από τα σκεπάσματα της Πλατείας Ελευθερίας, ακολουθεί μεγάλη παραμονή στο Μουσείο Ολοκαυτώματος για να μείνετε στεγνοί. Το μεσημέρι, η ομιχλώδης ατμόσφαιρα προσθέτει επισημότητα στον Τόπο Θυσίας. Το απόγευμα, ο οδοντωτός παρέχει ξηρό σημείο θέασης για να θαυμάσετε τον πλημμυρισμένο από τις βροχές Βουραϊκό στην πορεία προς το Ζαχλωρού. Το βράδυ ολοκληρώνεται με ένα ζεστό ταξίδι με το τρένο πίσω στα Καλάβρυτα."
           },
           "stops": [
             {
@@ -378,7 +398,8 @@
                 "de": "Suchen Sie Schutz unter den Vordächern der Cafés am Platz.",
                 "hu": "Használja a kávézók előtetőit az eső elleni védekezéshez.",
                 "ro": "Căutați adăpost sub copertinele cafenelelor din piață.",
-                "en": "Seek shelter under the café awnings around the square."
+                "en": "Seek shelter under the café awnings around the square.",
+                "el": "Καταφύγετε κάτω από τα τέντες των καφέ γύρω από την πλατεία."
               }
             },
             {
@@ -387,7 +408,8 @@
                 "de": "Ein idealer Ort, um die Regenzeit sinnvoll im Inneren zu verbringen.",
                 "hu": "Tökéletes beltéri program, amíg eláll az eső odakint.",
                 "ro": "Locul ideal pentru a petrece timpul la interior în mod util.",
-                "en": "Perfect indoor location to spend time while it rains outside."
+                "en": "Perfect indoor location to spend time while it rains outside.",
+                "el": "Ιδανικός εσωτερικός χώρος για να περάσετε τον χρόνο ενώ βρέχει έξω."
               }
             },
             {
@@ -396,7 +418,8 @@
                 "de": "Vorsicht, die gepflasterten Wege können bei Nässe rutschig sein.",
                 "hu": "Vigyázat, a köves utak vizesen csúszóssá válhatnak.",
                 "ro": "Atenție, aleile pavate pot deveni alunecoase când sunt ude.",
-                "en": "Caution, the paved paths can become slippery when wet."
+                "en": "Caution, the paved paths can become slippery when wet.",
+                "el": "Προσοχή, τα πλακόστρωτα μονοπάτια μπορεί να γίνουν ολισθηρά όταν βραχούν."
               }
             },
             {
@@ -405,7 +428,8 @@
                 "de": "Genießen Sie die Aussicht auf die Schlucht aus dem trockenen Waggon.",
                 "hu": "Élvezze a szurdok látványát a száraz és fűtött vagonból.",
                 "ro": "Bucurați-vă de priveliștea defileului din vagonul uscat.",
-                "en": "Enjoy the gorge views from the comfort of a dry carriage."
+                "en": "Enjoy the gorge views from the comfort of a dry carriage.",
+                "el": "Απολαύστε τη θέα του φαραγγιού από την άνεση ενός στεγνού βαγονιού."
               }
             },
             {
@@ -414,7 +438,8 @@
                 "de": "Wählen Sie eine Taverne mit Kamin für maximale Gemütlichkeit.",
                 "hu": "Válasszon kandallós tavernát a maximális kényelemért.",
                 "ro": "Alegeți o tavernă cu șemineu pentru un confort maxim.",
-                "en": "Choose a tavern with a fireplace for maximum coziness."
+                "en": "Choose a tavern with a fireplace for maximum coziness.",
+                "el": "Επιλέξτε ταβέρνα με τζάκι για μέγιστη θαλπωρή."
               }
             },
             {
@@ -423,7 +448,8 @@
                 "de": "Halten Sie die Kamera bereit für Wasserfälle entlang der Gleise.",
                 "hu": "Készítse a kamerát az eső miatt aktív vízesésekhez a sínek mentén.",
                 "ro": "Pregătiți camera pentru cascadele active de-a lungul șinelor.",
-                "en": "Keep your camera ready for waterfalls along the tracks."
+                "en": "Keep your camera ready for waterfalls along the tracks.",
+                "el": "Κρατήστε την κάμερα έτοιμη για καταρράκτες κατά μήκος της γραμμής."
               }
             }
           ],
@@ -455,6 +481,13 @@
               "The Holocaust Museum is an excellent dry alternative for the morning.",
               "Book train tickets in advance as more people opt for transit during rain.",
               "The misty gorge provides unique photo opportunities from the train."
+            ],
+            "el": [
+              "Μια στιβαρή ομπρέλα είναι απαραίτητη λόγω των ορεινών ανέμων στα Καλάβρυτα.",
+              "Αδιαβροχοποιημένα παπούτσια συνιστώνται έντονα για τη βόλτα προς το μνημείο.",
+              "Το Μουσείο Ολοκαυτώματος είναι εξαιρετική στεγνή εναλλακτική για το πρωί.",
+              "Κρατήστε εισιτήρια τρένου εκ των προτέρων καθώς περισσότεροι επιβάτες προτιμούν τη μετακίνηση στη βροχή.",
+              "Το ομιχλώδες φαράγγι παρέχει μοναδικές φωτογραφικές ευκαιρίες από το τρένο."
             ]
           }
         },
@@ -463,7 +496,8 @@
             "de": "Der Wintermorgen in Kalavryta beginnt oft mit Frost auf dem Freiheitsplatz. Im warmen Holocaust-Museum erfahren Sie mehr über die bewegte Geschichte. Mittags liegt oft Schnee am Opferplatz, was die Stille noch eindringlicher macht. Die Fahrt nach Zachlorou mit der Zahnradbahn führt durch eine glitzernde Winterlandschaft. Abends lockt die Stadt mit dem Duft von Kaminfeuer und lokalen Spezialitäten.",
             "hu": "A téli reggel gyakran dérrel borítja a Szabadság teret, a múzeum melegében pedig elmélyedhetünk a múltban. Délben az emlékhelyet borító hó némasága méltóságteljes hangulatot áraszt. Délután a fogaskerekű vonat ablakából csodáljuk a jeges Vouraikos-szurdokot Zachlorou felé. Az este már a kandalló melletti vacsoráról szól, mielőtt korán lemegy a nap a hegyek mögött.",
             "ro": "Dimineața de iarnă începe cu brumă în Piața Libertății, dar muzeul oferă un refugiu călduros. La prânz, zăpada depusă la Locul Sacrificiului sporește solemnitatea locului. După-amiaza, trenul Odontotos traversează peisajul înghețat al defileului spre Zachlorou. Seara, orașul miroase a lemn ars în șeminee, invitându-vă la o cină tradițională copioasă.",
-            "en": "Winter mornings in Kalavryta often start with frost on Freedom Square, making the warm museum a welcome stop. At noon, snow at the Place of Sacrifice enhances the site's quiet dignity. The afternoon rack railway journey to Zachlorou showcases a sparkling winter wonderland in the gorge. As the sun sets early, the town's wood-burning fireplaces create a cozy atmosphere for the evening."
+            "en": "Winter mornings in Kalavryta often start with frost on Freedom Square, making the warm museum a welcome stop. At noon, snow at the Place of Sacrifice enhances the site's quiet dignity. The afternoon rack railway journey to Zachlorou showcases a sparkling winter wonderland in the gorge. As the sun sets early, the town's wood-burning fireplaces create a cozy atmosphere for the evening.",
+            "el": "Τα χειμερινά πρωινά στα Καλάβρυτα συχνά ξεκινούν με πάγο στην Πλατεία Ελευθερίας, καθιστώντας το θερμό μουσείο ευπρόσδεκτη στάση. Το μεσημέρι, το χιόνι στον Τόπο Θυσίας ενισχύει την ήρεμη αξιοπρέπεια του χώρου. Το απογευματινό ταξίδι με τον οδοντωτό προς το Ζαχλωρού παρουσιάζει ένα λαμπερό χειμερινό τοπίο στο φαράγγι. Καθώς ο ήλιος δύει νωρίς, τα ξυλόσομπες της πόλης δημιουργούν ζεστή ατμόσφαιρα για το βράδυ."
           },
           "stops": [
             {
@@ -472,7 +506,8 @@
                 "de": "Genießen Sie einen heißen griechischen Kaffee in einer der geheizten Bars.",
                 "hu": "Igyon egy forró görög kávét a fűtött beltéri kávézók egyikében.",
                 "ro": "Savurați o cafea grecească fierbinte într-unul dintre barurile încălzite.",
-                "en": "Enjoy a hot Greek coffee in one of the heated indoor bars."
+                "en": "Enjoy a hot Greek coffee in one of the heated indoor bars.",
+                "el": "Απολαύστε έναν ζεστό ελληνικό καφέ σε ένα από τα θερμαινόμενα εσωτερικά μπαρ."
               }
             },
             {
@@ -481,7 +516,8 @@
                 "de": "Die Heizung im Museum sorgt für einen angenehmen Aufenthalt.",
                 "hu": "A múzeum fűtése kellemes környezetet biztosít a látogatáshoz.",
                 "ro": "Sistemul de încălzire din muzeu asigură o vizită confortabilă.",
-                "en": "The museum's heating system ensures a comfortable visit."
+                "en": "The museum's heating system ensures a comfortable visit.",
+                "el": "Το σύστημα θέρμανσης του μουσείου εξασφαλίζει άνετη επίσκεψη."
               }
             },
             {
@@ -490,7 +526,8 @@
                 "de": "Tragen Sie feste Stiefel, da der Weg vereist sein kann.",
                 "hu": "Viseljen bakancsot, mert az út jeges és csúszós lehet.",
                 "ro": "Purtați ghete aderente, deoarece drumul poate fi înghețat.",
-                "en": "Wear sturdy boots as the path can be icy and slippery."
+                "en": "Wear sturdy boots as the path can be icy and slippery.",
+                "el": "Φορέστε στιβαρές μπότες καθώς το μονοπάτι μπορεί να είναι παγωμένο και ολισθηρό."
               }
             },
             {
@@ -499,7 +536,8 @@
                 "de": "Die Waggons sind gut beheizt; genießen Sie die Winterpracht.",
                 "hu": "A vagonok jól fűtöttek, élvezze a téli táj látványát.",
                 "ro": "Vagoanele sunt bine încălzite; admirați splendoarea iernii.",
-                "en": "The carriages are well-heated; enjoy the winter scenery."
+                "en": "The carriages are well-heated; enjoy the winter scenery.",
+                "el": "Τα βαγόνια είναι καλά θερμαινόμενα· απολαύστε το χειμερινό τοπίο."
               }
             },
             {
@@ -508,7 +546,8 @@
                 "de": "Probieren Sie lokale Suppen und Fleischgerichte zum Aufwärmen.",
                 "hu": "Kóstolja meg a helyi leveseket és húsételeket a felmelegedéshez.",
                 "ro": "Gustați supele locale și preparatele din carne pentru a vă încălzi.",
-                "en": "Try local soups and meat dishes to warm up after the journey."
+                "en": "Try local soups and meat dishes to warm up after the journey.",
+                "el": "Δοκιμάστε ντόπιες σούπες και κρεατικά για να ζεσταθείτε μετά το ταξίδι."
               }
             },
             {
@@ -517,7 +556,8 @@
                 "de": "Der Sonnenuntergang in den Bergen beginnt im Winter sehr früh.",
                 "hu": "A naplemente a hegyekben télen már 17 óra körül bekövetkezik.",
                 "ro": "Apusul în munți începe foarte devreme în timpul iernii.",
-                "en": "Sunset in the mountains starts very early during winter."
+                "en": "Sunset in the mountains starts very early during winter.",
+                "el": "Το ηλιοβασίλεμα στα βουνά αρχίζει πολύ νωρίς τον χειμώνα."
               }
             }
           ],
@@ -549,6 +589,13 @@
               "Kalavryta is a popular ski destination, making the town very lively in winter.",
               "Woolen hats and gloves are essential for the walk to the memorial site.",
               "Try 'Rakomelo' (warm raki with honey) to warm up in the evening."
+            ],
+            "el": [
+              "Ντυθείτε με στρώσεις καθώς η θερμοκρασία μπορεί να πέσει σημαντικά στα βουνά.",
+              "Ο ήλιος δύει πίσω από τις κορυφές ήδη από τις 17:00 το χειμώνα.",
+              "Τα Καλάβρυτα είναι δημοφιλής προορισμός σκι, κάνοντας την πόλη πολύ ζωντανή τον χειμώνα.",
+              "Σκούφοι από μαλλί και γάντια είναι απαραίτητα για τη βόλτα προς το μνημείο.",
+              "Δοκιμάστε 'Ρακόμελο' (ζεστό ρακή με μέλι) για να ζεσταθείτε το βράδυ."
             ]
           }
         }
@@ -565,7 +612,8 @@
         "de": "Ihre Radtour startet am Freiheitsplatz und führt Sie zuerst zu den historischen Stätten der Stadt. Am Vormittag radeln Sie durch das Tal in Richtung des Klosters Mega Spilaion, genießen die frische Bergluft und die dramatische Landschaft. Zum Mittagessen kehren Sie in eine traditionelle Taverne in Kalavryta ein. Der Nachmittag ist einer entspannten Erkundung der Umgebung des Bahnhofs und einem letzten Blick auf die Vouraikos-Schlucht gewidmet, bevor der Tag ausklingt.",
         "hu": "A kerékpártúra a Szabadság térről indul, és először a város történelmi helyszíneihez vezet. Délelőtt a völgyön keresztül teker a Mega Spilaion kolostor felé, élvezve a friss hegyi levegőt és a drámai tájat. Ebédre térjen be egy hagyományos tavernába Kalavrytában. A délután a vasútállomás környékének laza felfedezésével és a Vouraikos-szurdokra vetett utolsó pillantással telik, mielőtt a nap véget ér.",
         "ro": "Turul cu bicicleta începe din Piața Libertății și vă duce mai întâi la siturile istorice ale orașului. Dimineața, pedalați prin vale spre Mănăstirea Mega Spilaion, bucurându-vă de aerul curat de munte și de peisajul dramatic. La prânz, reveniți la o tavernă tradițională în Kalavryta. După-amiaza este dedicată explorării relaxate a zonei gării și unei ultime priviri asupra Cheilor Vouraikos înainte de încheierea zilei.",
-        "en": "Your bike tour starts in Freedom Square, first taking you to the town's historical sites. In the morning, you'll cycle through the valley towards Mega Spilaion Monastery, enjoying the fresh mountain air and dramatic scenery. For lunch, return to a traditional taverna in Kalavryta. The afternoon is for a relaxed exploration around the train station area and a final look at the Vouraikos Gorge before the day ends."
+        "en": "Your bike tour starts in Freedom Square, first taking you to the town's historical sites. In the morning, you'll cycle through the valley towards Mega Spilaion Monastery, enjoying the fresh mountain air and dramatic scenery. For lunch, return to a traditional taverna in Kalavryta. The afternoon is for a relaxed exploration around the train station area and a final look at the Vouraikos Gorge before the day ends.",
+        "el": "Η ποδηλατική σας εκδρομή ξεκινά στην Πλατεία Ελευθερίας, πρώτα περνώντας από τα ιστορικά σημεία της πόλης. Το πρωί θα ποδηλατήσετε μέσα στην κοιλάδα προς τη Μονή Μεγάλου Σπηλαίου, απολαμβάνοντας τον φρέσκο ορεινό αέρα και την εντυπωσιακή θέα. Για μεσημεριανό, επιστρέφετε σε μια παραδοσιακή ταβέρνα στα Καλάβρυτα. Το απόγευμα είναι για χαλαρή εξερεύνηση γύρω από την περιοχή του σταθμού και μια τελευταία ματιά στο Φαράγγι του Βουραϊκού πριν τελειώσει η ημέρα."
       },
       "stops": [
         {
@@ -573,7 +621,8 @@
             "de": "Platz der Freiheit & Museum",
             "hu": "Szabadság tér és Múzeum",
             "ro": "Piața Libertății & Muzeu",
-            "en": "Freedom Square & Museum"
+            "en": "Freedom Square & Museum",
+            "el": "Πλατεία Ελευθερίας & Μουσείο"
           },
           "coords": [
             22.1145,
@@ -589,7 +638,8 @@
             "de": "Kombinieren Sie den Platzbesuch mit dem nahegelegenen Museum, bevor Sie losradeln.",
             "hu": "Kombinálja a tér látogatását a közeli múzeummal, mielőtt elindulna biciklizni.",
             "ro": "Combinați vizita în piață cu muzeul din apropiere înainte de a porni la drum.",
-            "en": "Combine the square visit with the nearby museum before you start cycling."
+            "en": "Combine the square visit with the nearby museum before you start cycling.",
+            "el": "Συνδυάστε την επίσκεψη στην πλατεία με το κοντινό μουσείο πριν ξεκινήσετε το ποδήλατο."
           }
         },
         {
@@ -597,7 +647,8 @@
             "de": "Radtour in Richtung Mega Spilaion",
             "hu": "Kerékpártúra a Mega Spilaion felé",
             "ro": "Tur cu bicicleta spre Mega Spilaion",
-            "en": "Bike ride towards Mega Spilaion"
+            "en": "Bike ride towards Mega Spilaion",
+            "el": "Ποδηλασία προς το Μέγα Σπήλαιο"
           },
           "coords": [
             22.155,
@@ -613,7 +664,8 @@
             "de": "Die Straße bietet atemberaubende Ausblicke. Fahren Sie nur so weit, wie es angenehm ist.",
             "hu": "Az út lélegzetelállító kilátást nyújt. Csak addig menjen, ameddig kényelmes.",
             "ro": "Drumul oferă priveliști uluitoare. Mergeți doar atât cât vă simțiți confortabil.",
-            "en": "The road offers breathtaking views. Just ride as far as you feel comfortable."
+            "en": "The road offers breathtaking views. Just ride as far as you feel comfortable.",
+            "el": "Ο δρόμος προσφέρει εκπληκτικές θέες. Ποδηλατήστε όσο άνετα αισθάνεστε."
           }
         },
         {
@@ -621,7 +673,8 @@
             "de": "Mittagessen in Kalavryta",
             "hu": "Ebéd Kalavrytában",
             "ro": "Prânz în Kalavryta",
-            "en": "Lunch in Kalavryta"
+            "en": "Lunch in Kalavryta",
+            "el": "Μεσημεριανό στα Καλάβρυτα"
           },
           "coords": [
             22.115,
@@ -637,7 +690,8 @@
             "de": "Nach der Radtour haben Sie sich eine herzhafte Mahlzeit verdient.",
             "hu": "A kerékpártúra után megérdemel egy kiadós ételt.",
             "ro": "După turul cu bicicleta, meritați o masă copioasă.",
-            "en": "After the bike ride, you've earned a hearty meal."
+            "en": "After the bike ride, you've earned a hearty meal.",
+            "el": "Μετά την ποδηλασία, έχετε κερδίσει ένα χορταστικό γεύμα."
           }
         },
         {
@@ -645,7 +699,8 @@
             "de": "Bahnhof der Odontotos-Bahn",
             "hu": "Az Odontotos-vasút állomása",
             "ro": "Gara trenului Odontotos",
-            "en": "Odontotos Railway Station"
+            "en": "Odontotos Railway Station",
+            "el": "Σταθμός Οδοντωτού"
           },
           "coords": [
             22.1155,
@@ -661,7 +716,8 @@
             "de": "Schauen Sie sich die alte Lokomotive an und genießen Sie die Atmosphäre.",
             "hu": "Nézze meg a régi mozdonyt, és élvezze a hangulatot.",
             "ro": "Admirați locomotiva veche și bucurați-vă de atmosferă.",
-            "en": "Check out the old locomotive and enjoy the atmosphere."
+            "en": "Check out the old locomotive and enjoy the atmosphere.",
+            "el": "Δείτε την παλιά ατμομηχανή και απολαύστε την ατμόσφαιρα."
           }
         },
         {
@@ -669,7 +725,8 @@
             "de": "Ort des Opfers",
             "hu": "Áldozatok Emlékhelye",
             "ro": "Locul Sacrificiului",
-            "en": "Place of Sacrifice"
+            "en": "Place of Sacrifice",
+            "el": "Τόπος Θυσίας"
           },
           "coords": [
             22.1108,
@@ -685,7 +742,8 @@
             "de": "Ein letzter Halt zum Nachdenken mit Panoramablick zum Abschluss des Tages.",
             "hu": "Egy utolsó megálló a nap végén, elgondolkodásra, panorámás kilátással.",
             "ro": "O ultimă oprire pentru reflecție cu o vedere panoramică la finalul zilei.",
-            "en": "A final reflective stop with a panoramic view to end the day."
+            "en": "A final reflective stop with a panoramic view to end the day.",
+            "el": "Μια τελική στοχαστική στάση με πανοραμική θέα για το τέλος της ημέρας."
           }
         }
       ],
@@ -863,6 +921,12 @@
           "Wear a helmet and be cautious on narrow roads.",
           "Check the weather before you go; it can change quickly in the mountains.",
           "A bike lock is useful for stops in the town."
+        ],
+        "el": [
+          "Οι δρόμοι προς τα βουνά μπορεί να είναι απότομοι· ένα ηλεκτρικό ποδήλατο ίσως είναι καλή επιλογή.",
+          "Φορέστε κράνος και να είστε προσεκτικοί σε στενούς δρόμους.",
+          "Ελέγξτε τον καιρό πριν φύγετε· μπορεί να αλλάξει γρήγορα στα βουνά.",
+          "Ένα λουκέτο ποδηλάτου είναι χρήσιμο για στάσεις στην πόλη."
         ]
       },
       "variants": {
@@ -871,7 +935,8 @@
             "de": "Ein regnerischer Radtag erfordert gute Ausrüstung auf dem Freiheitsplatz. Der Museumsbesuch bietet eine lange Pause vom Regen. Die Fahrt Richtung Mega Spilaion ist auf nassen Straßen anspruchsvoll, aber die nebligen Berge wirken mystisch. Mittags stärken Sie sich in Kalavryta, bevor Sie den Bahnhof besuchen. Der Opferplatz am Nachmittag ist im Regen ein Ort der stillen Einkehr.",
             "hu": "Az esős bringás naphoz elengedhetetlen a vízálló ruházat már a Szabadság téren. A múzeumi megálló hosszú pihenőt ad a záporok között. A Mega Spilaion felé vezető út vizes aszfalton nehezebb, de a párás hegyoldal látványa kárpótol. Ebéd után a vasútállomást érintjük, majd a délutáni esőben az emlékhely némasága még hatásosabb.",
             "ro": "O zi de ciclism pe ploaie necesită echipament adecvat încă din Piața Libertății. Vizita la muzeu oferă o pauză lungă și uscată. Drumul spre Mega Spilaion este solicitant pe carosabil umed, dar munții cețoși arată mistic. După prânzul în oraș, vizitați gara, iar după-amiaza vizitați monumentul într-o atmosferă de reculegere.",
-            "en": "A rainy cycling day starts with waterproof gear at Freedom Square. The museum provides a long refuge from the downpours. The ride towards Mega Spilaion is challenging on wet roads, but the misty mountains look mystical. After a local lunch, visit the station, and end at the memorial where the rain adds to the site's solemn atmosphere."
+            "en": "A rainy cycling day starts with waterproof gear at Freedom Square. The museum provides a long refuge from the downpours. The ride towards Mega Spilaion is challenging on wet roads, but the misty mountains look mystical. After a local lunch, visit the station, and end at the memorial where the rain adds to the site's solemn atmosphere.",
+            "el": "Μια βροχερή ημέρα ποδηλασίας ξεκινά με αδιάβροχο εξοπλισμό στην Πλατεία Ελευθερίας. Το μουσείο παρέχει μεγάλο καταφύγιο από τις μπόρες. Η διαδρομή προς το Μέγα Σπήλαιο είναι απαιτητική σε βρεγμένους δρόμους, αλλά τα ομιχλώδη βουνά φαίνονται μυστηριακά. Μετά το τοπικό γεύμα, επισκεφθείτε τον σταθμό και τελειώστε στο μνημείο όπου η βροχή προσθέτει στη σεμνή ατμόσφαιρα του χώρου."
           },
           "stops": [
             {
@@ -880,7 +945,8 @@
                 "de": "Stellen Sie Ihr Fahrrad unter dem Vordach des Museums trocken ab.",
                 "hu": "Parkolja le a kerékpárt a múzeum előtetője alatt, hogy száraz maradjon.",
                 "ro": "Parcați bicicleta sub copertina muzeului pentru a o menține uscată.",
-                "en": "Park your bike under the museum's overhang to keep it dry."
+                "en": "Park your bike under the museum's overhang to keep it dry.",
+                "el": "Στάθμευσε το ποδήλατό σου κάτω από το πρόστεγο του μουσείου για να το κρατήσεις στεγνό."
               }
             },
             {
@@ -889,7 +955,8 @@
                 "de": "Vorsicht in den Kurven; nasses Laub kann sehr rutschig sein.",
                 "hu": "Vigyázzon a kanyarokban; a vizes levelek csúszósak lehetnek.",
                 "ro": "Atenție în curbe; frunzele ude pot fi foarte alunecoase.",
-                "en": "Careful in the bends; wet leaves on the road can be very slippery."
+                "en": "Careful in the bends; wet leaves on the road can be very slippery.",
+                "el": "Προσοχή στις στροφές· βρεγμένα φύλλα στο δρόμο μπορεί να γίνουν πολύ ολισθηρά."
               }
             },
             {
@@ -898,7 +965,8 @@
                 "de": "Nutzen Sie die Mittagspause, um Ihre Kleidung zu trocknen.",
                 "hu": "Használja ki az ebédszünetet a vizes ruhák szárítására.",
                 "ro": "Folosiți pauza de prânz pentru a vă usca hainele.",
-                "en": "Use the lunch break as an opportunity to dry your gear."
+                "en": "Use the lunch break as an opportunity to dry your gear.",
+                "el": "Χρησιμοποίησε το διάλειμμα για μεσημεριανό ως ευκαιρία να στεγνώσεις τον εξοπλισμό σου."
               }
             },
             {
@@ -907,7 +975,8 @@
                 "de": "Der Bahnhof bietet überdachte Bereiche für Radfahrer.",
                 "hu": "Az állomás fedett területei jó pihenőt kínálnak bringásoknak.",
                 "ro": "Gara oferă zone acoperite potrivite pentru bicicliști.",
-                "en": "The railway station has covered areas perfect for a rest."
+                "en": "The railway station has covered areas perfect for a rest.",
+                "el": "Ο σιδηροδρομικός σταθμός έχει καλυμμένες περιοχές ιδανικές για ξεκούραση."
               }
             },
             {
@@ -916,7 +985,8 @@
                 "de": "Die letzte Steigung ist bei Regen besonders kräftezehrend.",
                 "hu": "Az utolsó emelkedő esőben különösen sokat kivesz az emberből.",
                 "ro": "Ultima urcare este deosebit de solicitantă pe timp de ploaie.",
-                "en": "The final climb is particularly draining in the rain."
+                "en": "The final climb is particularly draining in the rain.",
+                "el": "Η τελική ανάβαση είναι ιδιαίτερα κουραστική στη βροχή."
               }
             }
           ],
@@ -948,6 +1018,13 @@
               "Keep all your electronic devices in waterproof bags or cases.",
               "Slightly lower tire pressure provides better grip on wet asphalt.",
               "Be alert for small rockfalls on mountain roads during heavy rain."
+            ],
+            "el": [
+              "Δισκόφρενα προσφέρουν σαφώς καλύτερη ασφάλεια στις βρεγμένες κατηφόρες των βουνών.",
+              "Φόρα αδιάβροχο μπουφάν υψηλής ορατότητας για μεγαλύτερη ασφάλεια στο δρόμο.",
+              "Κράτα όλες τις ηλεκτρονικές συσκευές σε αδιάβροχες σακούλες ή θήκες.",
+              "Λίγο χαμηλότερη πίεση στα ελαστικά προσφέρει καλύτερη πρόσφυση σε βρεγμένο άσφαλτο.",
+              "Να είστε σε εγρήγορση για μικρές κατολισθήσεις βράχων στους ορεινούς δρόμους κατά τη διάρκεια δυνατής βροχής."
             ]
           }
         },
@@ -956,7 +1033,8 @@
             "de": "Winterliches Radfahren in Kalavryta startet bei klarem, kaltem Wetter. Das Museum bietet eine erste Aufwärmpause. Die Fahrt Richtung Mega Spilaion bietet atemberaubende Blicke auf schneebedeckte Gipfel, erfordert aber Vorsicht bei Eis. Mittags stärkt eine warme Mahlzeit für den Bahnhofsbesuch. Der Opferplatz wirkt im weißen Kleid besonders friedlich vor der frühen Dämmerung.",
             "hu": "A téli bringázás friss hegyi levegővel indul a Szabadság téren. A múzeumi megálló segít átmelegedni az út előtt. A Mega Spilaion felé vezető szakasz jeges foltokat tartogathat, de a havas csúcsok látványa felejthetetlen. Ebéd után a vasútállomás következik, majd a délutáni fényekben az emlékhelyet látogatjuk meg a korai sötétedés előtt.",
             "ro": "Ciclismul de iarnă începe cu aer rece și proaspăt în Piața Libertății. Muzeul este prima oprire pentru încălzire. Drumul spre Mega Spilaion oferă vederi superbe spre vârfurile înzăpezite, dar necesită atenție la gheață. După prânz, vizităm gara, iar monumentul arată impresionant sub zăpadă înainte de lăsarea serii.",
-            "en": "Winter cycling in Kalavryta starts with crisp air at Freedom Square. The museum stop is essential to warm up. The ride towards Mega Spilaion offers stunning snowy peak views but requires caution due to ice patches. After a hearty lunch, visit the station, then reach the memorial site which looks peaceful under its winter coat before the early dusk."
+            "en": "Winter cycling in Kalavryta starts with crisp air at Freedom Square. The museum stop is essential to warm up. The ride towards Mega Spilaion offers stunning snowy peak views but requires caution due to ice patches. After a hearty lunch, visit the station, then reach the memorial site which looks peaceful under its winter coat before the early dusk.",
+            "el": "Το χειμερινό ποδήλατο στα Καλάβρυτα ξεκινά με δροσερό αέρα στην Πλατεία Ελευθερίας. Η στάση στο μουσείο είναι απαραίτητη για να ζεσταθείτε. Η διαδρομή προς το Μέγα Σπήλαιο προσφέρει εκπληκτική θέα στα χιονισμένα βουνά αλλά απαιτεί προσοχή λόγω παγωμένων σημείων. Μετά ένα χορταστικό μεσημεριανό, επισκεφθείτε τον σταθμό και φτάστε στο μνημείο που φαίνεται ήρεμο υπό το χειμερινό του πέπλο πριν το πρώιμο λυκόφως."
           },
           "stops": [
             {
@@ -965,7 +1043,8 @@
                 "de": "Wärmen Sie Ihre Hände im Museum auf, bevor es weitergeht.",
                 "hu": "Melegítse fel a kezeit a múzeumban a hosszabb tekerés előtt.",
                 "ro": "Încălziți-vă mâinile în muzeu înainte de a pleca la drum lung.",
-                "en": "Warm your hands in the museum before heading out for the ride."
+                "en": "Warm your hands in the museum before heading out for the ride.",
+                "el": "Ζέστανε τα χέρια σου στο μουσείο πριν ξεκινήσεις το ποδήλατο."
               }
             },
             {
@@ -974,7 +1053,8 @@
                 "de": "Achten Sie auf Glatteis in schattigen Kurven der Bergstraße.",
                 "hu": "Figyeljen a jeges foltokra a hegyi út árnyékos kanyarjaiban.",
                 "ro": "Atenție la porțiunile înghețate în curbele umbrite ale drumului.",
-                "en": "Watch out for black ice in the shaded turns of the mountain road."
+                "en": "Watch out for black ice in the shaded turns of the mountain road.",
+                "el": "Πρόσεχε για μαύρο πάγο στις σκιερές στροφές του ορεινού δρόμου."
               }
             },
             {
@@ -983,7 +1063,8 @@
                 "de": "Essen Sie kalorienreich, um den Körper warm zu halten.",
                 "hu": "Fogyasszon kalóriadús ételeket, hogy bírja a hideget.",
                 "ro": "Consumați alimente bogate caloric pentru a menține căldura corpului.",
-                "en": "Eat calorie-rich food to help your body maintain its temperature."
+                "en": "Eat calorie-rich food to help your body maintain its temperature.",
+                "el": "Φάε θερμιδικά πλούσιο φαγητό για να βοηθήσεις το σώμα να διατηρήσει τη θερμοκρασία του."
               }
             },
             {
@@ -992,7 +1073,8 @@
                 "de": "Bewegen Sie sich, um während der Wartezeit nicht auszukühlen.",
                 "hu": "Mozogjon folyamatosan a várakozás alatt, hogy ne fázzon meg.",
                 "ro": "Mențineți-vă în mișcare în timp ce așteptați pentru a nu îngheța.",
-                "en": "Keep moving while waiting to prevent your body from cooling down."
+                "en": "Keep moving while waiting to prevent your body from cooling down.",
+                "el": "Συνέχισε να κινείσαι ενώ περιμένεις για να αποτρέψεις την ψύξη του σώματος."
               }
             },
             {
@@ -1001,7 +1083,8 @@
                 "de": "Besuchen Sie diesen Ort vor 16:30 Uhr, um Licht zu haben.",
                 "hu": "Látogasson el ide 16:30 előtt, hogy még legyen természetes fény.",
                 "ro": "Vizitați acest loc înainte de 16:30 pentru a beneficia de lumină.",
-                "en": "Visit this site before 16:30 to ensure you have daylight."
+                "en": "Visit this site before 16:30 to ensure you have daylight.",
+                "el": "Επισκεφθείτε τον χώρο πριν τις 16:30 για να εξασφαλίσετε ότι θα έχετε φυσικό φως."
               }
             }
           ],
@@ -1033,6 +1116,13 @@
               "Carry a thermos with warm tea to stay hydrated and warm.",
               "Bike lights are mandatory as darkness falls rapidly after 17:00.",
               "Check your brake pads; cold can sometimes affect braking performance."
+            ],
+            "el": [
+              "Θερμικά γάντια και καλύμματα παπουτσιών είναι ζωτικής σημασίας για χειμερινές ορεινές βόλτες.",
+              "Η θερμοκρασία μπορεί να πέσει δραστικά σε σκιερές περιοχές της ανάβασης.",
+              "Φορέστε θερμός με ζεστό τσάι για να παραμείνετε ενυδατωμένοι και ζεστοί.",
+              "Τα φώτα ποδηλάτου είναι υποχρεωτικά καθώς σκοτεινιάζει γρήγορα μετά τις 17:00.",
+              "Ελέγξτε τις τακάκια των φρένων· το κρύο μπορεί μερικές φορές να επηρεάσει την απόδοσή τους."
             ]
           }
         }
@@ -1049,7 +1139,8 @@
         "de": "Ihr Autotag beginnt im Zentrum von Kalavryta, wo Sie die historischen Gedenkstätten zu Fuß erkunden. Anschließend fahren Sie zum majestätischen Kloster Agia Lavra, einem Symbol der griechischen Unabhängigkeit. Mittags geht es weiter zum beeindruckenden Kloster Mega Spilaion, das in eine Felswand gebaut ist. Am Nachmittag entdecken Sie das Naturwunder der Höhle der Seen, bevor Sie den Tag mit einem entspannten Abendessen in Kalavryta ausklingen lassen.",
         "hu": "Autós napja Kalavryta központjában kezdődik, ahol gyalogosan fedezi fel a történelmi emlékhelyeket. Ezután a fenséges Agia Lavra kolostorhoz hajt, a görög függetlenség szimbólumához. Délben továbbutazik a lenyűgöző Mega Spilaion kolostorhoz, amely egy sziklafalba épült. Délután felfedezi a Tavak Barlangjának természeti csodáját, mielőtt egy pihentető vacsorával zárja a napot Kalavrytában.",
         "ro": "Ziua cu mașina începe în centrul orașului Kalavryta, unde explorați pe jos locurile comemorative istorice. Apoi, conduceți spre majestuoasa Mănăstire Agia Lavra, un simbol al independenței grecești. La prânz, continuați spre impresionanta Mănăstire Mega Spilaion, construită într-o stâncă. După-amiaza, descoperiți minunea naturală a Peșterii Lacurilor, înainte de a încheia ziua cu o cină relaxantă în Kalavryta.",
-        "en": "Your car day begins in the center of Kalavryta, where you'll explore the historical memorial sites on foot. You'll then drive to the majestic Agia Lavra Monastery, a symbol of Greek independence. At noon, continue to the impressive Mega Spilaion Monastery, built into a cliff face. In the afternoon, discover the natural wonder of the Cave of the Lakes before ending the day with a relaxing dinner in Kalavryta."
+        "en": "Your car day begins in the center of Kalavryta, where you'll explore the historical memorial sites on foot. You'll then drive to the majestic Agia Lavra Monastery, a symbol of Greek independence. At noon, continue to the impressive Mega Spilaion Monastery, built into a cliff face. In the afternoon, discover the natural wonder of the Cave of the Lakes before ending the day with a relaxing dinner in Kalavryta.",
+        "el": "Η μονοήμερη με αυτοκίνητο ξεκινά στο κέντρο των Καλαβρύτων, όπου θα εξερευνήσετε με τα πόδια τα ιστορικά μνημεία. Στη συνέχεια θα οδηγήσετε στη μεγαλόπρεπη Μονή Αγίας Λαύρας, σύμβολο της ελληνικής ανεξαρτησίας. Το μεσημέρι συνεχίζετε προς την εντυπωσιακή Μονή Μεγάλου Σπηλαίου, χτισμένη στην πρόσοψη ενός βράχου. Το απόγευμα ανακαλύψτε το φυσικό θαύμα του Σπηλαίου των Λιμνών πριν ολοκληρώσετε την ημέρα με ένα χαλαρωτικό δείπνο στα Καλάβρυτα."
       },
       "stops": [
         {
@@ -1057,7 +1148,8 @@
             "de": "Cluster Kalavryta Stadt: Museum & Opferort",
             "hu": "Kalavryta városi klaszter: Múzeum és Áldozatok Emlékhelye",
             "ro": "Cluster Oraș Kalavryta: Muzeu și Locul Sacrificiului",
-            "en": "Kalavryta Town Cluster: Museum & Place of Sacrifice"
+            "en": "Kalavryta Town Cluster: Museum & Place of Sacrifice",
+            "el": "Συστάδα πόλης Καλαβρύτων: Μουσείο & Τόπος Θυσίας"
           },
           "coords": [
             22.1129,
@@ -1073,7 +1165,8 @@
             "de": "Parken Sie in der Nähe des Museums und erkunden Sie die Gedenkstätten zu Fuß.",
             "hu": "Parkoljon a múzeum közelében, és fedezze fel gyalog az emlékhelyeket.",
             "ro": "Parcați lângă muzeu și explorați locurile comemorative pe jos.",
-            "en": "Park near the museum and explore the memorial sites on foot."
+            "en": "Park near the museum and explore the memorial sites on foot.",
+            "el": "Στάθμευσε κοντά στο μουσείο και εξερεύνησε τα μνημεία με τα πόδια."
           }
         },
         {
@@ -1081,7 +1174,8 @@
             "de": "Spaziergang zum Platz der Freiheit",
             "hu": "Séta a Szabadság térre",
             "ro": "Plimbare spre Piața Libertății",
-            "en": "Walk to Freedom Square"
+            "en": "Walk to Freedom Square",
+            "el": "Περπάτημα προς την Πλατεία Ελευθερίας"
           },
           "coords": [
             22.1145,
@@ -1097,7 +1191,8 @@
             "de": "Ein kurzer Spaziergang vom Museum zum belebten Zentrum.",
             "hu": "Rövid séta a múzeumtól a nyüzsgő központig.",
             "ro": "O scurtă plimbare de la muzeu la centrul plin de viață.",
-            "en": "A short walk from the museum to the bustling center."
+            "en": "A short walk from the museum to the bustling center.",
+            "el": "Μικρή απόσταση με τα πόδια από το μουσείο μέχρι το πολυσύχναστο κέντρο."
           }
         },
         {
@@ -1105,7 +1200,8 @@
             "de": "Kloster Agia Lavra",
             "hu": "Agia Lavra kolostor",
             "ro": "Mănăstirea Agia Lavra",
-            "en": "Monastery of Agia Lavra"
+            "en": "Monastery of Agia Lavra",
+            "el": "Μονή Αγίας Λαύρας"
           },
           "coords": [
             22.0833,
@@ -1121,7 +1217,8 @@
             "de": "Historisch bedeutsam. Hier wurde die griechische Revolution ausgerufen.",
             "hu": "Történelmi jelentőségű. Itt hirdették ki a görög forradalmat.",
             "ro": "Semnificație istorică. Aici a fost declarată revoluția greacă.",
-            "en": "Historically significant. The Greek Revolution was declared here."
+            "en": "Historically significant. The Greek Revolution was declared here.",
+            "el": "Ιστορικά σημαντική. Εδώ κηρύχθηκε η Ελληνική Επανάσταση."
           }
         },
         {
@@ -1129,7 +1226,8 @@
             "de": "Mega Spilaion Kloster",
             "hu": "Mega Spilaion kolostor",
             "ro": "Mănăstirea Mega Spilaion",
-            "en": "Mega Spilaion Monastery"
+            "en": "Mega Spilaion Monastery",
+            "el": "Μονή Μεγάλου Σπηλαίου"
           },
           "coords": [
             22.174,
@@ -1145,7 +1243,8 @@
             "de": "Die Architektur ist atemberaubend, direkt in den Fels gebaut.",
             "hu": "Az építészet lélegzetelállító, közvetlenül a sziklába épült.",
             "ro": "Arhitectura este uluitoare, construită direct în stâncă.",
-            "en": "The architecture is stunning, built right into the cliff face."
+            "en": "The architecture is stunning, built right into the cliff face.",
+            "el": "Η αρχιτεκτονική είναι εκπληκτική, χτισμένη μέσα στην πρόσοψη του βράχου."
           }
         },
         {
@@ -1153,7 +1252,8 @@
             "de": "Mittagessen in der Nähe von Mega Spilaion",
             "hu": "Ebéd a Mega Spilaion közelében",
             "ro": "Prânz lângă Mega Spilaion",
-            "en": "Lunch near Mega Spilaion"
+            "en": "Lunch near Mega Spilaion",
+            "el": "Μεσημεριανό κοντά στο Μέγα Σπήλαιο"
           },
           "coords": [
             22.176,
@@ -1169,7 +1269,8 @@
             "de": "Finden Sie eine Taverne mit Aussicht auf die Schlucht.",
             "hu": "Keressen egy tavernát, ahonnan kilátás nyílik a szurdokra.",
             "ro": "Găsiți o tavernă cu vedere la chei.",
-            "en": "Find a taverna with a view of the gorge."
+            "en": "Find a taverna with a view of the gorge.",
+            "el": "Βρείτε μια ταβέρνα με θέα στο φαράγγι."
           }
         },
         {
@@ -1177,7 +1278,8 @@
             "de": "Höhle der Seen",
             "hu": "Tavak Barlangja",
             "ro": "Peștera Lacurilor",
-            "en": "Cave of the Lakes"
+            "en": "Cave of the Lakes",
+            "el": "Σπήλαιο των Λιμνών"
           },
           "coords": [
             22.198,
@@ -1193,7 +1295,8 @@
             "de": "Tragen Sie eine Jacke, es ist kühl im Inneren. Die unterirdischen Seen sind einzigartig.",
             "hu": "Viseljen kabátot, bent hűvös van. A föld alatti tavak egyedülállóak.",
             "ro": "Purtați o jachetă, este răcoare înăuntru. Lacurile subterane sunt unice.",
-            "en": "Wear a jacket, it's cool inside. The underground lakes are unique."
+            "en": "Wear a jacket, it's cool inside. The underground lakes are unique.",
+            "el": "Φορέστε μπουφάν, είναι δροσερό μέσα. Οι υπόγειες λίμνες είναι μοναδικές."
           }
         },
         {
@@ -1201,7 +1304,8 @@
             "de": "Rückkehr nach Kalavryta",
             "hu": "Visszatérés Kalavrytába",
             "ro": "Întoarcere la Kalavryta",
-            "en": "Return to Kalavryta"
+            "en": "Return to Kalavryta",
+            "el": "Επιστροφή στα Καλάβρυτα"
           },
           "coords": [
             22.1167,
@@ -1217,7 +1321,8 @@
             "de": "Zeit für ein wohlverdientes Abendessen in der Stadt.",
             "hu": "Ideje egy jól megérdemelt vacsorának a városban.",
             "ro": "Timpul pentru o cină binemeritată în oraș.",
-            "en": "Time for a well-deserved dinner in town."
+            "en": "Time for a well-deserved dinner in town.",
+            "el": "Ώρα για ένα καλά αξιωμένο δείπνο στην πόλη."
           }
         }
       ],
@@ -1395,6 +1500,12 @@
           "Check the opening hours of the monasteries and the cave, as they can vary.",
           "Fill up your gas tank before heading into the mountains.",
           "Parking near the sights can be challenging during peak season."
+        ],
+        "el": [
+          "Οι ορεινοί δρόμοι είναι γεμάτοι στροφές, οδηγήστε προσεκτικά.",
+          "Ελέγξτε τις ώρες λειτουργίας των μοναστηριών και του σπηλαίου, καθώς μπορεί να διαφέρουν.",
+          "Γεμίστε το ρεζερβουάρ πριν κατευθυνθείτε στα βουνά.",
+          "Το παρκάρισμα κοντά στα αξιοθέατα μπορεί να είναι δύσκολο κατά την υψηλή περίοδο."
         ]
       },
       "variants": {
@@ -1403,7 +1514,8 @@
             "de": "Regen in Kalavryta macht das Auto zum idealen Begleiter. Der Museumsbesuch am Morgen bleibt trocken, gefolgt von einem kurzen Sprint zum Freiheitsplatz. Die Klöster Agia Lavra und Mega Spilaion bieten beeindruckende Innenräume, während es draußen stürmt. Mittags lockt eine warme Taverne. Das Highlight ist die Höhle der Seen, wo der Regen das unterirdische Wasserspiel noch verstärkt.",
             "hu": "Az esőben az autó a legkényelmesebb választás Kalavrytában. Reggel a múzeumban kezdünk, majd csak egy gyors sétát teszünk a Szabadság téren. Az Agia Lavra és Mega Spilaion kolostorok belső terei lenyűgözőek, miközben kint szakad. Ebéd után a Tavak barlangja következik, ahol az esőzés miatt a földalatti vízszint és a látvány még látványosabb.",
             "ro": "Ploaia face ca mașina să fie alegerea ideală în Kalavryta. Vizita la muzeu și Piața Libertății se face rapid între reprizele de ploaie. Mănăstirile Agia Lavra și Mega Spilaion oferă interioare superbe, ferite de furtună. După prânz, vizitați Peștera Lacurilor, unde ploaia de afară alimentează spectaculos cursul apei subterane.",
-            "en": "Rain in Kalavryta makes the car the perfect shelter. Start with the museum and a quick dash to Freedom Square. The monasteries of Agia Lavra and Mega Spilaion provide grand interiors while the storm rages outside. After a warm lunch, head to the Cave of the Lakes, where the rain enhances the underground water levels and creates a magical atmosphere."
+            "en": "Rain in Kalavryta makes the car the perfect shelter. Start with the museum and a quick dash to Freedom Square. The monasteries of Agia Lavra and Mega Spilaion provide grand interiors while the storm rages outside. After a warm lunch, head to the Cave of the Lakes, where the rain enhances the underground water levels and creates a magical atmosphere.",
+            "el": "Η βροχή στα Καλάβρυτα κάνει το αυτοκίνητο το τέλειο καταφύγιο. Ξεκινήστε με το μουσείο και μια γρήγορη βόλτα στην Πλατεία Ελευθερίας. Τα μοναστήρια της Αγίας Λαύρας και του Μέγα Σπηλαίου προσφέρουν επιβλητικούς εσωτερικούς χώρους όσο μαίνεται η καταιγίδα έξω. Μετά από ένα ζεστό γεύμα, κατευθυνθείτε στο Σπήλαιο των Λιμνών, όπου η βροχή ανεβάζει τα υπόγεια νερά και δημιουργεί μαγική ατμόσφαιρα."
           },
           "stops": [
             {
@@ -1412,7 +1524,8 @@
                 "de": "Parken Sie nah am Museumseingang, um nicht nass zu werden.",
                 "hu": "Parkoljon közvetlenül a múzeum bejáratánál, hogy elkerülje az esőt.",
                 "ro": "Parcați aproape de intrarea muzeului pentru a evita ploaia.",
-                "en": "Park close to the museum entrance to minimize time in the rain."
+                "en": "Park close to the museum entrance to minimize time in the rain.",
+                "el": "Σταθμεύστε κοντά στην είσοδο του μουσείου για να ελαχιστοποιήσετε τον χρόνο στη βροχή."
               }
             },
             {
@@ -1421,7 +1534,8 @@
                 "de": "Ein kurzer Fußweg, halten Sie den Schirm bereit.",
                 "hu": "Rövid séta, tartsa készenlétben az esernyőjét.",
                 "ro": "O plimbare scurtă, țineți umbrela la îndemână.",
-                "en": "Short walk, keep your umbrella ready for the dash to the square."
+                "en": "Short walk, keep your umbrella ready for the dash to the square.",
+                "el": "Σύντομος περίπατος, κρατήστε ομπρέλα έτοιμη για το τρέξιμο προς την πλατεία."
               }
             },
             {
@@ -1430,7 +1544,8 @@
                 "de": "Die Bergstraße kann bei starkem Regen neblig sein.",
                 "hu": "A hegyi út Agia Lavra felé erősen ködös lehet esőben.",
                 "ro": "Drumul montan spre Agia Lavra poate fi cețos pe ploaie.",
-                "en": "The mountain road to Agia Lavra can be foggy during heavy rain."
+                "en": "The mountain road to Agia Lavra can be foggy during heavy rain.",
+                "el": "Ο ορεινός δρόμος προς την Αγία Λαύρα μπορεί να καλύπτεται από ομίχλη κατά τη διάρκεια έντονης βροχής."
               }
             },
             {
@@ -1439,7 +1554,8 @@
                 "de": "Achten Sie auf mögliche kleine Erdrutsche an der Felswand.",
                 "hu": "Figyeljen az esetleges kőomlásokra a sziklafal mentén.",
                 "ro": "Atenție la posibilele căderi de pietre de-a lungul peretelui de stâncă.",
-                "en": "Watch for potential minor rockfalls along the cliffside road."
+                "en": "Watch for potential minor rockfalls along the cliffside road.",
+                "el": "Προσέχετε για πιθανές μικρές κατολισθήσεις βράχων κατά μήκος του παραθαλάσσιου δρόμου."
               }
             },
             {
@@ -1448,7 +1564,8 @@
                 "de": "Genießen Sie den Blick auf die regenverhangenen Berge.",
                 "hu": "Élvezze a kilátást az esőbe burkolózó hegyekre a taverna ablakából.",
                 "ro": "Admirați munții acoperiți de ploaie de la geamul tavernei.",
-                "en": "Enjoy the view of the rain-shrouded mountains from the tavern window."
+                "en": "Enjoy the view of the rain-shrouded mountains from the tavern window.",
+                "el": "Απολαύστε τη θέα των βουνών που σκεπάζονται από τη βροχή από το παράθυρο της ταβέρνας."
               }
             },
             {
@@ -1457,7 +1574,8 @@
                 "de": "Ein perfekter, trockener Ort für den späten Nachmittag.",
                 "hu": "Tökéletesen száraz program késő délutánra, az esőtől védve.",
                 "ro": "Un loc perfect uscat pentru după-amiaza târzie, ferit de ploaie.",
-                "en": "A perfectly dry activity for late afternoon, sheltered from the rain."
+                "en": "A perfectly dry activity for late afternoon, sheltered from the rain.",
+                "el": "Μια ιδανικά στεγνή δραστηριότητα για αργά το απόγευμα, προστατευμένη από τη βροχή."
               }
             },
             {
@@ -1466,7 +1584,8 @@
                 "de": "Fahren Sie vorsichtig auf der kurvigen, nassen Rückfahrt.",
                 "hu": "Vezessen óvatosan a kanyargós, vizes úton visszafelé.",
                 "ro": "Conduceți cu prudență pe drumul sinuos și umed la întoarcere.",
-                "en": "Drive carefully on the winding, wet road back to the town."
+                "en": "Drive carefully on the winding, wet road back to the town.",
+                "el": "Οδηγήστε προσεκτικά στο στριφτερό, βρεγμένο δρόμο πίσω προς την πόλη."
               }
             }
           ],
@@ -1498,6 +1617,13 @@
               "Cave of the Lakes is an ideal 'rain shelter' with constant temperature.",
               "Plan for extra travel time between the monasteries due to weather.",
               "Watch out for dense fog in the higher altitudes of the Peloponnese."
+            ],
+            "el": [
+              "Βεβαιωθείτε ότι οι υαλοκαθαριστήρες είναι σε καλή κατάσταση λειτουργίας.",
+              "Οι ορεινοί δρόμοι γύρω από τα Καλάβρυτα μπορούν να είναι εξαιρετικά ολισθηροί όταν είναι βρεγμένοι.",
+              "Το Σπήλαιο των Λιμνών είναι ιδανικό «καταφύγιο από τη βροχή» με σταθερή θερμοκρασία.",
+              "Προγραμματίστε επιπλέον χρόνο μετακίνησης μεταξύ των μοναστηριών λόγω καιρού.",
+              "Προσοχή σε πυκνή ομίχλη στα μεγαλύτερα υψόμετρα του Πελ/σου."
             ]
           }
         },
@@ -1506,7 +1632,8 @@
             "de": "Winterzauber in Kalavryta beginnt mit einer frostigen Fahrt zum Museum. Im Auto erreichen Sie Agia Lavra und Mega Spilaion sicher, während die Klöster im Schnee liegen. Mittags wärmen lokale Gerichte auf. Die Höhle der Seen bleibt auch im Winter angenehm mild. Die Rückfahrt nach Kalavryta bei Sonnenuntergang bietet spektakuläre Ausblicke auf die verschneite Bergwelt.",
             "hu": "A téli varázslat Kalavrytában fagyos reggellel indul, de az autóban meleg van. Biztonságban érhetjük el az Agia Lavra és Mega Spilaion kolostorokat a havas tájon át. Ebédre egy tartalmas helyi fogás ad erőt. A Tavak barlangja télen is kellemesen enyhe klímát kínál. A visszaút a naplementében a havas hegycsúcsok között felejthetetlen élmény.",
             "ro": "Magia iernii în Kalavryta începe cu o deplasare spre muzeu și Piața Libertății. Cu mașina ajungeți în siguranță la Agia Lavra și Mega Spilaion prin peisajul înzăpezit. Prânzul tradițional vă va încălzi cu siguranță. Peștera Lacurilor oferă o temperatură plăcută chiar și iarna. Întoarcerea la apus oferă priveliști spectaculoase asupra munților albi.",
-            "en": "Winter magic in Kalavryta starts with a frosty drive to the museum. By car, you can safely reach Agia Lavra and Mega Spilaion while the monasteries are draped in snow. A hearty local lunch warms you up for the afternoon. The Cave of the Lakes remains pleasantly mild even in winter. The return drive at sunset offers spectacular views of the snow-covered peaks."
+            "en": "Winter magic in Kalavryta starts with a frosty drive to the museum. By car, you can safely reach Agia Lavra and Mega Spilaion while the monasteries are draped in snow. A hearty local lunch warms you up for the afternoon. The Cave of the Lakes remains pleasantly mild even in winter. The return drive at sunset offers spectacular views of the snow-covered peaks.",
+            "el": "Η χειμωνιάτικη μαγεία στα Καλάβρυτα ξεκινά με μια παγωμένη οδήγηση προς το μουσείο. Με αυτοκίνητο, μπορείτε να φτάσετε με ασφάλεια στην Αγία Λαύρα και το Μέγα Σπήλαιο ενώ τα μοναστήρια είναι σκεπασμένα από χιόνι. Ένα χορταστικό τοπικό γεύμα θα σας ζεστάνει για το απόγευμα. Το Σπήλαιο των Λιμνών παραμένει ευχάριστα ήπιο ακόμα και τον χειμώνα. Η επιστροφή με το ηλιοβασίλεμα προσφέρει εντυπωσιακή θέα στις χιονισμένες κορφές."
           },
           "stops": [
             {
@@ -1515,7 +1642,8 @@
                 "de": "Heizen Sie das Auto vor, während Sie im Museum sind.",
                 "hu": "Fűtse fel az autót, amíg a múzeumban tartózkodik.",
                 "ro": "Preîncălziți mașina în timp ce vizitați muzeul.",
-                "en": "Warm up the car while you are inside the museum."
+                "en": "Warm up the car while you are inside the museum.",
+                "el": "Ζεστάνετε το αυτοκίνητο όσο είστε μέσα στο μουσείο."
               }
             },
             {
@@ -1524,7 +1652,8 @@
                 "de": "Vorsicht vor gefrorenen Pfützen auf dem Weg zum Platz.",
                 "hu": "Vigyázzon a fagyott tócsákra a tér felé vezető gyalogúton.",
                 "ro": "Atenție la bălțile înghețate pe drumul spre piață.",
-                "en": "Watch out for frozen puddles on the walkway to the square."
+                "en": "Watch out for frozen puddles on the walkway to the square.",
+                "el": "Προσέξτε παγωμένες λακκούβες στο διάδρομο προς την πλατεία."
               }
             },
             {
@@ -1533,7 +1662,8 @@
                 "de": "Winterreifen oder Schneeketten sind hier oft erforderlich.",
                 "hu": "Téli gumi vagy hólánc gyakran kötelező ezen a szakaszon.",
                 "ro": "Anvelopele de iarnă sau lanțurile sunt adesea obligatorii aici.",
-                "en": "Winter tires or snow chains are often required on this route."
+                "en": "Winter tires or snow chains are often required on this route.",
+                "el": "Τα χειμερινά ελαστικά ή οι αλυσίδες χιονιού συχνά απαιτούνται σε αυτή τη διαδρομή."
               }
             },
             {
@@ -1542,7 +1672,8 @@
                 "de": "Der Parkplatz kann bei Schneefall rutschig sein.",
                 "hu": "A parkoló havas időben csúszós lehet, parkoljon óvatosan.",
                 "ro": "Parcarea poate fi alunecoasă în caz de ninsoare.",
-                "en": "The parking lot can be slippery during snowfall; park carefully."
+                "en": "The parking lot can be slippery during snowfall; park carefully.",
+                "el": "Το πάρκινγκ μπορεί να γίνεται ολισθηρό κατά τη χιονόπτωση· σταθμεύστε προσεκτικά."
               }
             },
             {
@@ -1551,7 +1682,8 @@
                 "de": "Genießen Sie den Blick auf die schneebedeckten Felsen.",
                 "hu": "Élvezze a kilátást a hófödte sziklákra az asztaltól.",
                 "ro": "Admirați stâncile înzăpezite de la masa tavernei.",
-                "en": "Enjoy the view of the snow-covered cliffs from your table."
+                "en": "Enjoy the view of the snow-covered cliffs from your table.",
+                "el": "Απολαύστε τη θέα των χιονισμένων γκρεμών από το τραπέζι σας."
               }
             },
             {
@@ -1560,7 +1692,8 @@
                 "de": "Die Innentemperatur der Höhle liegt konstant bei etwa 13-16°C.",
                 "hu": "A barlang belső hőmérséklete télen is kellemes 13-16 fok.",
                 "ro": "Temperatura interioară a peșterii este constantă la 13-16°C.",
-                "en": "The cave's interior temperature stays constant at about 13-16°C."
+                "en": "The cave's interior temperature stays constant at about 13-16°C.",
+                "el": "Η εσωτερική θερμοκρασία του σπηλαίου παραμένει σταθερή περίπου στους 13-16°C."
               }
             },
             {
@@ -1569,7 +1702,8 @@
                 "de": "Fahren Sie vor Einbruch der Dunkelheit zurück in die Stadt.",
                 "hu": "Térjen vissza a városba, mielőtt teljesen besötétedik.",
                 "ro": "Întoarceți-vă în oraș înainte de lăsarea întunericului.",
-                "en": "Head back to town before total darkness falls for safety."
+                "en": "Head back to town before total darkness falls for safety.",
+                "el": "Επιστρέψτε στην πόλη πριν πέσει εντελώς το σκοτάδι για λόγους ασφαλείας."
               }
             }
           ],
@@ -1601,6 +1735,13 @@
               "The road to Mega Spilaion is usually well-maintained and cleared of snow.",
               "Keep your fuel tank full; heating and cold increase fuel consumption.",
               "Enjoy the crisp mountain air but stay alert for icy patches on asphalt."
+            ],
+            "el": [
+              "Η μεταφορά αλυσίδων στο πορτ-μπαγκάζ είναι υποχρεωτική στην περιοχή κατά τον χειμώνα.",
+              "Ελέγξτε τα επίπεδα αντιψυκτικού πριν ξεκινήσετε το ορεινό σας ταξίδι.",
+              "Ο δρόμος προς το Μέγα Σπήλαιο συνήθως συντηρείται καλά και καθαρίζεται από το χιόνι.",
+              "Κρατήστε το ρεζερβουάρ γεμάτο· η θέρμανση και το κρύο αυξάνουν την κατανάλωση καυσίμου.",
+              "Απολαύστε τον καθαρό ορεινό αέρα αλλά μείνετε σε εγρήγορση για παγωμένες επιφάνειες στην άσφαλτο."
             ]
           }
         }
@@ -1617,7 +1758,8 @@
         "de": "Ihr Tag mit öffentlichen Verkehrsmitteln dreht sich um die berühmte Odontotos-Zahnradbahn. Starten Sie in Kalavryta mit der Erkundung der Stadt zu Fuß. Am späten Vormittag nehmen Sie die Bahn durch die atemberaubende Vouraikos-Schlucht. Das Ziel ist das Kloster Mega Spilaion, das Sie nach einer kurzen Wanderung vom Bahnhof Zachlorou erreichen. Nach dem Mittagessen in einer Taverne dort fahren Sie am Nachmittag mit der Bahn zurück und lassen den Tag mit nachdenklichen Momenten am Ort der Opfer ausklingen.",
         "hu": "A tömegközlekedéssel töltött nap a híres Odontotos fogaskerekű köré épül. Kezdje Kalavrytában a város gyalogos felfedezésével. Késő délelőtt utazzon a vonattal a lélegzetelállító Vouraikos-szurdokon keresztül. A cél a Mega Spilaion kolostor, amelyet a Zachlorou állomásról egy rövid túrával érhet el. Egy ottani tavernában elköltött ebéd után délután visszautazik a vonattal, és a napot az Áldozatok Emlékhelyénél eltöltött elgondolkodtató pillanatokkal zárja.",
         "ro": "Ziua dumneavoastră cu transportul public se concentrează pe faimosul tren cu cremalieră Odontotos. Începeți în Kalavryta explorând orașul pe jos. Spre sfârșitul dimineții, luați trenul prin uimitoarele Chei Vouraikos. Destinația este Mănăstirea Mega Spilaion, la care ajungeți după o scurtă drumeție de la gara Zachlorou. După prânz la o tavernă locală, vă întoarceți cu trenul după-amiaza și încheiați ziua cu momente de reflecție la Locul Sacrificiului.",
-        "en": "Your day on public transport revolves around the famous Odontotos rack railway. Start in Kalavryta by exploring the town on foot. In the late morning, take the train through the stunning Vouraikos Gorge. The destination is Mega Spilaion Monastery, reached after a short hike from Zachlorou station. After lunch at a local taverna, you'll take the train back in the afternoon, ending the day with reflective moments at the Place of Sacrifice."
+        "en": "Your day on public transport revolves around the famous Odontotos rack railway. Start in Kalavryta by exploring the town on foot. In the late morning, take the train through the stunning Vouraikos Gorge. The destination is Mega Spilaion Monastery, reached after a short hike from Zachlorou station. After lunch at a local taverna, you'll take the train back in the afternoon, ending the day with reflective moments at the Place of Sacrifice.",
+        "el": "Η ημέρα σας με μέσα μαζικής μεταφοράς περιστρέφεται γύρω από τον φημισμένο Οδοντωτό. Ξεκινήστε στα Καλάβρυτα εξερευνώντας την πόλη με τα πόδια. Τις προμεσημβρινές ώρες, πάρτε το τρένο μέσα από το εντυπωσιακό Φαράγγι του Βουραϊκού. Προορισμός είναι το Μοναστήρι του Μέγα Σπηλαίου, που φτάνετε μετά από σύντομη πεζοπορία από σταθμό Ζαχλωρού. Μετά το γεύμα σε τοπική ταβέρνα, επιστρέφετε το απόγευμα με το τρένο, ολοκληρώνοντας τη μέρα με αναστοχαστικές στιγμές στον Τόπο Θυσίας."
       },
       "stops": [
         {
@@ -1625,7 +1767,8 @@
             "de": "Cluster Kalavryta: Museum & Platz der Freiheit",
             "hu": "Kalavryta klaszter: Múzeum és Szabadság tér",
             "ro": "Cluster Kalavryta: Muzeu și Piața Libertății",
-            "en": "Kalavryta Cluster: Museum & Freedom Square"
+            "en": "Kalavryta Cluster: Museum & Freedom Square",
+            "el": "Συγκρότημα Καλαβρύτων: Μουσείο & Πλατεία Ελευθερίας"
           },
           "coords": [
             22.1129,
@@ -1641,7 +1784,8 @@
             "de": "Beginnen Sie den Tag mit Kultur und Geschichte, alles ist zu Fuß erreichbar.",
             "hu": "Kezdje a napot kultúrával és történelemmel, minden gyalogosan elérhető.",
             "ro": "Începeți ziua cu cultură și istorie, totul este la distanță de mers pe jos.",
-            "en": "Start the day with culture and history, all within walking distance."
+            "en": "Start the day with culture and history, all within walking distance.",
+            "el": "Ξεκινήστε τη μέρα με πολιτισμό και ιστορία, όλα σε περπατήσιμη απόσταση."
           }
         },
         {
@@ -1649,7 +1793,8 @@
             "de": "Odontotos-Bahn nach Zachlorou",
             "hu": "Odontotos vasút Zachlorouba",
             "ro": "Trenul Odontotos spre Zachlorou",
-            "en": "Odontotos train to Zachlorou"
+            "en": "Odontotos train to Zachlorou",
+            "el": "Οδοντωτός προς Ζαχλωρού"
           },
           "coords": [
             22.1155,
@@ -1665,7 +1810,8 @@
             "de": "Kaufen Sie Fahrkarten im Voraus, besonders an Wochenenden.",
             "hu": "Vásároljon jegyet előre, különösen hétvégén.",
             "ro": "Cumpărați biletele în avans, mai ales în weekend.",
-            "en": "Buy your tickets in advance, especially on weekends."
+            "en": "Buy your tickets in advance, especially on weekends.",
+            "el": "Αγοράστε εισιτήρια εκ των προτέρων, ειδικά τα Σαββατοκύριακα."
           }
         },
         {
@@ -1673,7 +1819,8 @@
             "de": "Wanderung zum Kloster Mega Spilaion",
             "hu": "Túra a Mega Spilaion kolostorhoz",
             "ro": "Drumeție la Mănăstirea Mega Spilaion",
-            "en": "Hike to Mega Spilaion Monastery"
+            "en": "Hike to Mega Spilaion Monastery",
+            "el": "Πεζοπορία προς το Μοναστήρι του Μέγα Σπηλαίου"
           },
           "coords": [
             22.174,
@@ -1689,7 +1836,8 @@
             "de": "Der Weg ist steil, aber die Aussicht ist die Mühe wert. Gutes Schuhwerk ist ein Muss.",
             "hu": "Az ösvény meredek, de a kilátás megéri a fáradságot. A jó cipő elengedhetetlen.",
             "ro": "Poteca este abruptă, dar priveliștea merită efortul. Încălțămintea adecvată este obligatorie.",
-            "en": "The path is steep, but the view is worth the effort. Good footwear is a must."
+            "en": "The path is steep, but the view is worth the effort. Good footwear is a must.",
+            "el": "Το μονοπάτι είναι απότομο, αλλά η θέα αξίζει την προσπάθεια. Κατάλληλα παπούτσια είναι απαραίτητα."
           }
         },
         {
@@ -1697,7 +1845,8 @@
             "de": "Mittagessen in Zachlorou",
             "hu": "Ebéd Zachlorouban",
             "ro": "Prânz în Zachlorou",
-            "en": "Lunch in Zachlorou"
+            "en": "Lunch in Zachlorou",
+            "el": "Γεύμα στη Ζαχλωρού"
           },
           "coords": [
             22.175,
@@ -1713,7 +1862,8 @@
             "de": "Belohnen Sie sich in einer der Tavernen am Bahnhof.",
             "hu": "Jutalmazza meg magát az egyik állomási tavernában.",
             "ro": "Recompensați-vă la una dintre tavernele de lângă gară.",
-            "en": "Reward yourself at one of the tavernas by the station."
+            "en": "Reward yourself at one of the tavernas by the station.",
+            "el": "Ανταμείψτε τον εαυτό σας σε μία από τις ταβέρνες δίπλα στο σταθμό."
           }
         },
         {
@@ -1721,7 +1871,8 @@
             "de": "Rückfahrt mit der Odontotos-Bahn",
             "hu": "Visszaút az Odontotos vasúttal",
             "ro": "Întoarcere cu trenul Odontotos",
-            "en": "Return journey on the Odontotos train"
+            "en": "Return journey on the Odontotos train",
+            "el": "Επιστροφή με τον Οδοντωτό"
           },
           "coords": [
             22.1155,
@@ -1737,7 +1888,8 @@
             "de": "Genießen Sie die Fahrt zurück mit dem weicheren Licht des Nachmittags.",
             "hu": "Élvezze a visszaútat a délután lágyabb fényeiben.",
             "ro": "Bucurați-vă de călătoria de întoarcere în lumina mai blândă a după-amiezii.",
-            "en": "Enjoy the ride back with the softer afternoon light."
+            "en": "Enjoy the ride back with the softer afternoon light.",
+            "el": "Απολαύστε την επιστροφή με το απαλό απόγευμα φως."
           }
         },
         {
@@ -1745,7 +1897,8 @@
             "de": "Abschluss am Ort des Opfers",
             "hu": "Befejezés az Áldozatok Emlékhelyénél",
             "ro": "Încheiere la Locul Sacrificiului",
-            "en": "Conclusion at the Place of Sacrifice"
+            "en": "Conclusion at the Place of Sacrifice",
+            "el": "Επίλογος στον Τόπο Θυσίας"
           },
           "coords": [
             22.1108,
@@ -1761,7 +1914,8 @@
             "de": "Ein ruhiger Moment zum Nachdenken am Ende eines ereignisreichen Tages.",
             "hu": "Egy csendes pillanat az elmélkedésre egy eseménydús nap végén.",
             "ro": "Un moment de liniște pentru reflecție la sfârșitul unei zile pline.",
-            "en": "A quiet moment for reflection at the end of an eventful day."
+            "en": "A quiet moment for reflection at the end of an eventful day.",
+            "el": "Μια ήσυχη στιγμή για στοχασμό στο τέλος μιας γεμάτης μέρας."
           }
         }
       ],
@@ -1939,6 +2093,12 @@
           "The hike to the monastery is demanding. Be prepared.",
           "Services in Zachlorou are limited, so plan accordingly.",
           "Bring cash, as not all tavernas may accept cards."
+        ],
+        "el": [
+          "Ελέγξτε προσεκτικά το πρόγραμμα του Οδοντωτού ώστε να μην χάσετε τις συνδέσεις σας.",
+          "Η πεζοπορία προς το μοναστήρι είναι απαιτητική. Ετοιμαστείτε.",
+          "Οι υπηρεσίες στη Ζαχλωρού είναι περιορισμένες, οπότε προγραμματίστε ανάλογα.",
+          "Φέρτε μετρητά, καθώς δεν αποδέχονται όλες οι ταβέρνες κάρτες."
         ]
       },
       "variants": {
@@ -1947,7 +2107,8 @@
             "de": "Ein regnerischer Tag mit dem Odontotos-Zug ist ein Erlebnis. Morgens besuchen Sie das Museum, bevor die Fahrt nach Zachlorou beginnt. Die neblige Vouraikos-Schlucht wirkt aus dem warmen Waggon mystisch. Nach einer Wanderung zum Kloster Mega Spilaion stärkt Sie ein Mittagessen in Zachlorou. Die Rückfahrt im Zug bietet Schutz vor dem Wetter, bevor der Tag am Opferplatz endet.",
             "hu": "Az esős nap az Odontotos vonattal különleges élmény. Reggel a múzeumot látogatjuk, majd indul a vonat Zachlorouba. A párás Vouraikos-szurdok a fűtött vagonból nézve varázslatos. A kolostori túra után Zachlorouban ebédelünk, majd a vonaton pihenünk meg. A napot a monumentális emlékhelynél zárjuk, ahol az eső tovább mélyíti a csendet.",
             "ro": "O zi ploioasă cu trenul Odontotos este o experiență memorabilă. Dimineața vizitați muzeul, apoi porniți spre Zachlorou. Defileul Vouraikos, învăluit în ceață, arată mistic din vagonul cald. După drumeția la mănăstire, prânzul în Zachlorou este binemeritat. Întoarcerea cu trenul oferă adăpost, iar ziua se încheie sobru la monument.",
-            "en": "A rainy day on the Odontotos train is a unique experience. Visit the museum before starting the journey to Zachlorou. The misty Vouraikos gorge looks mystical from the comfort of the warm carriage. After the monastery hike, enjoy lunch in Zachlorou. The return train ride provides shelter before the day concludes at the solemn memorial site."
+            "en": "A rainy day on the Odontotos train is a unique experience. Visit the museum before starting the journey to Zachlorou. The misty Vouraikos gorge looks mystical from the comfort of the warm carriage. After the monastery hike, enjoy lunch in Zachlorou. The return train ride provides shelter before the day concludes at the solemn memorial site.",
+            "el": "Μια βροχερή μέρα στον Οδοντωτό είναι μοναδική εμπειρία. Επισκεφθείτε πρώτα το μουσείο πριν ξεκινήσετε για Ζαχλωρού. Το ομιχλώδες φαράγγι του Βουραϊκού φαίνεται μυστικιστικό από την άνεση του ζεστού βαγονιού. Μετά την πεζοπορία στο μοναστήρι, απολαύστε γεύμα στη Ζαχλωρού. Η επιστροφή με το τρένο προσφέρει καταφύγιο πριν η μέρα ολοκληρωθεί στον σεβαστό χώρο μνημείου."
           },
           "stops": [
             {
@@ -1956,7 +2117,8 @@
                 "de": "Nutzen Sie das Museum als trockenen Stützpunkt am Morgen.",
                 "hu": "Használja a múzeumot bázisként az esős délelőtt során.",
                 "ro": "Folosiți muzeul ca punct de refugiu uscat dimineața.",
-                "en": "Use the museum as a dry base for your morning activities."
+                "en": "Use the museum as a dry base for your morning activities.",
+                "el": "Χρησιμοποιήστε το μουσείο ως στεγνή βάση για τις πρωινές σας δραστηριότητες."
               }
             },
             {
@@ -1965,7 +2127,8 @@
                 "de": "Buchen Sie einen Fensterplatz für die beste Sicht im Regen.",
                 "hu": "Foglaljon ablak melletti helyet a legjobb kilátásért.",
                 "ro": "Rezervați un loc la fereastră pentru cea mai bună vedere.",
-                "en": "Book a window seat for the best views of the rainy gorge."
+                "en": "Book a window seat for the best views of the rainy gorge.",
+                "el": "Κλείστε θέση δίπλα στο παράθυρο για τις καλύτερες θέες του βροχερού φαραγγιού."
               }
             },
             {
@@ -1974,7 +2137,8 @@
                 "de": "Der Wanderweg kann bei Regen sehr rutschig und matschig sein.",
                 "hu": "A gyalogút esőben nagyon csúszós és sáros lehet, legyen óvatos.",
                 "ro": "Traseul de drumeție poate fi foarte alunecos și noroios.",
-                "en": "The hiking trail can be very slippery and muddy during rain."
+                "en": "The hiking trail can be very slippery and muddy during rain.",
+                "el": "Το μονοπάτι πεζοπορίας μπορεί να είναι πολύ ολισθηρό και λασπωμένο κατά τη βροχή."
               }
             },
             {
@@ -1983,7 +2147,8 @@
                 "de": "Wärmen Sie sich mit lokalen Kräutertees auf.",
                 "hu": "Melegedjen fel a helyi gyógyteákkal az ebéd mellé.",
                 "ro": "Încălziți-vă cu ceaiuri de plante locale la prânz.",
-                "en": "Warm up with some local herbal teas during your lunch."
+                "en": "Warm up with some local herbal teas during your lunch.",
+                "el": "Ζεσταθείτε με τοπικά βοτανικά ροφήματα κατά το γεύμα σας."
               }
             },
             {
@@ -1992,7 +2157,8 @@
                 "de": "Die Züge fahren im Regen oft mit reduzierter Geschwindigkeit.",
                 "hu": "A vonatok esőben gyakran lassabban közlekednek a biztonságért.",
                 "ro": "Trenurile circulă adesea cu viteză redusă pe timp de ploaie.",
-                "en": "Trains often run at reduced speed during heavy rain for safety."
+                "en": "Trains often run at reduced speed during heavy rain for safety.",
+                "el": "Τα τρένα συχνά κινούνται με μειωμένη ταχύτητα κατά τη δυνατή βροχή για λόγους ασφάλειας."
               }
             },
             {
@@ -2001,7 +2167,8 @@
                 "de": "Ein kurzer, aber nasser Fußweg vom Bahnhof.",
                 "hu": "Rövid, de vizes séta várható az állomástól az emlékhelyig.",
                 "ro": "O plimbare scurtă, dar umedă, de la gară la monument.",
-                "en": "A short but wet walk from the station to the memorial site."
+                "en": "A short but wet walk from the station to the memorial site.",
+                "el": "Σύντομος αλλά βρεγμένος περίπατος από το σταθμό ως το μνημείο."
               }
             }
           ],
@@ -2033,6 +2200,13 @@
               "There are limited covered waiting areas at Zachlorou station.",
               "Train windows may fog up; carry a small cloth to wipe them.",
               "Tickets are valid only for the specific train booked; don't miss it."
+            ],
+            "el": [
+              "Το τρένο είναι το πιο αξιόπιστο μέσο μεταφοράς σε κακό καιρό.",
+              "Αδιάβροχα ορειβατικά παπούτσια είναι απαραίτητα για το μονοπάτι προς το μοναστήρι.",
+              "Υπάρχουν περιορισμένοι στεγασμένοι χώροι αναμονής στο σταθμό Ζαχλωρού.",
+              "Τα παράθυρα του τρένου μπορεί να θαμπώσουν· πάρτε ένα μικρό πανί για σκούπισμα.",
+              "Τα εισιτήρια ισχύουν μόνο για το συγκεκριμένο τρένο που έχετε κλείσει· μην το χάσετε."
             ]
           }
         },
@@ -2041,7 +2215,8 @@
             "de": "Winterstimmung mit dem Odontotos-Zug ist unvergleichlich. Nach dem Museumsbesuch gleitet der Zug durch die verschneite Schlucht nach Zachlorou. Die Wanderung zum Kloster Mega Spilaion erfordert Trittsicherheit im Schnee. Nach einem herzhaften Mittagessen geht es zurück im fahlen Winterlicht. Der Tag endet am Opferplatz, der unter der Schneedecke eine besondere Stille ausstrahlt.",
             "hu": "A téli hangulat az Odontotos vonattal felülmúlhatatlan. A múzeum után a vonat a havas szurdokon át visz Zachlorouba. A kolostori túra a hóban igazi kaland és biztos fellépést igényel. Egy tápláló ebéd után a vonat ablakából nézzük a korai szürkületet, majd az emlékhelyen zárunk, ahol a hó némasága lenyűgöző.",
             "ro": "Atmosfera de iarnă cu trenul Odontotos este inegalabilă. După muzeu, trenul alunecă prin defileul înzăpezit spre Zachlorou. Drumeția la mănăstire prin zăpadă necesită atenție sporită. După un prânz copios, întoarcerea oferă lumini de iarnă superbe. Ziua se încheie la monumentul tăcut, acoperit de neaua albă.",
-            "en": "Winter atmosphere on the Odontotos train is second to none. After the museum visit, the train glides through the snowy gorge to Zachlorou. The hike to the monastery requires careful stepping in the snow. Following a hearty lunch, enjoy the winter light on the return journey. The day ends at the memorial site, radiating a special peace under the snow."
+            "en": "Winter atmosphere on the Odontotos train is second to none. After the museum visit, the train glides through the snowy gorge to Zachlorou. The hike to the monastery requires careful stepping in the snow. Following a hearty lunch, enjoy the winter light on the return journey. The day ends at the memorial site, radiating a special peace under the snow.",
+            "el": "Η χειμωνιάτικη ατμόσφαιρα στον Οδοντωτό δεν συγκρίνεται. Μετά την επίσκεψη στο μουσείο, το τρένο γλιστρά μέσα από το χιονισμένο φαράγγι προς τη Ζαχλωρού. Η πεζοπορία προς το μοναστήρι απαιτεί προσεκτικά βήματα στο χιόνι. Έπειτα από ένα χορταστικό γεύμα, απολαύστε το χειμωνιάτικο φως στην επιστροφή. Η μέρα τελειώνει στο μνημείο, εκπέμποντας ιδιαίτερη γαλήνη κάτω από το χιόνι."
           },
           "stops": [
             {
@@ -2050,7 +2225,8 @@
                 "de": "Die Stadt ist im Winter wegen des nahen Skigebiets sehr belebt.",
                 "hu": "A város télen a közeli síközpont miatt nagyon életteli.",
                 "ro": "Orașul este foarte animat iarna datorită stațiunii de schi.",
-                "en": "The town is very lively in winter due to the nearby ski resort."
+                "en": "The town is very lively in winter due to the nearby ski resort.",
+                "el": "Η πόλη είναι πολύ ζωντανή το χειμώνα λόγω του κοντινού χιονοδρομικού κέντρου."
               }
             },
             {
@@ -2059,7 +2235,8 @@
                 "de": "Die Heizung in den Zügen sorgt für eine gemütliche Fahrt.",
                 "hu": "A vonatok fűtése garantálja a kényelmes utazást a hidegben.",
                 "ro": "Încălzirea din trenuri asigură o călătorie confortabilă.",
-                "en": "The heating in the carriages ensures a cozy journey through the cold."
+                "en": "The heating in the carriages ensures a cozy journey through the cold.",
+                "el": "Η θέρμανση στα βαγόνια εξασφαλίζει μια ζεστή διαδρομή μέσα στο κρύο."
               }
             },
             {
@@ -2068,7 +2245,8 @@
                 "de": "Benutzen Sie Wanderstöcke für besseren Halt auf Schnee.",
                 "hu": "Használjon túrabotot a jobb stabilitásért a havas úton.",
                 "ro": "Folosiți bețe de trekking pentru stabilitate pe zăpadă.",
-                "en": "Use trekking poles for better stability on the snowy path."
+                "en": "Use trekking poles for better stability on the snowy path.",
+                "el": "Χρησιμοποιήστε μπατόν πεζοπορίας για μεγαλύτερη σταθερότητα στο χιονισμένο μονοπάτι."
               }
             },
             {
@@ -2077,7 +2255,8 @@
                 "de": "Genießen Sie den Duft von Holzfeuer in der Taverne.",
                 "hu": "Élvezze a fafűtéses kemence illatát az ebéd mellé.",
                 "ro": "Bucurați-vă de mirosul de lemne arse din tavernă.",
-                "en": "Enjoy the smell of wood-burning fires in the local tavern."
+                "en": "Enjoy the smell of wood-burning fires in the local tavern.",
+                "el": "Απολαύστε τη μυρωδιά από ξυλόσομπες στην τοπική ταβέρνα."
               }
             },
             {
@@ -2086,7 +2265,8 @@
                 "de": "Die letzte Fahrt bietet oft einen Blick auf das Alpenglühen.",
                 "hu": "Az utolsó járatról gyakran látni a havas csúcsok izzását.",
                 "ro": "Ultima cursă oferă adesea o vedere superbă asupra crestelor.",
-                "en": "The last train often offers views of the sunset glow on peaks."
+                "en": "The last train often offers views of the sunset glow on peaks.",
+                "el": "Το τελευταίο τρένο συχνά προσφέρει εικόνες του ηλιοβασιλέματος στις κορφές."
               }
             },
             {
@@ -2095,7 +2275,8 @@
                 "de": "Nehmen Sie eine Taschenlampe für den Rückweg in die Stadt mit.",
                 "hu": "Vigyen zseblámpát a visszaúthoz, mert korán sötétedik.",
                 "ro": "Luați o lanternă pentru drumul de întoarcere în oraș.",
-                "en": "Bring a flashlight for the walk back to town after dark."
+                "en": "Bring a flashlight for the walk back to town after dark.",
+                "el": "Φέρτε φακό για την επιστροφή στην πόλη μετά το σκοτάδι."
               }
             }
           ],
@@ -2127,6 +2308,13 @@
               "The hiking trail to the monastery may be closed if it's too icy.",
               "Use the lunch break as an opportunity to fully warm up your body.",
               "Sunset occurs as early as 17:00 during the winter months."
+            ],
+            "el": [
+              "Φορέστε ζεστές μάλλινες κάλτσες για τον χρόνο που θα περάσετε έξω.",
+              "Τα τρένα μπορεί να είναι πολύ γεμάτα το χειμώνα με επισκέπτες που πηγαίνουν στις πίστες.",
+              "Το μονοπάτι προς το μοναστήρι μπορεί να κλείσει αν είναι πολύ παγωμένο.",
+              "Χρησιμοποιήστε το διάλειμμα για το γεύμα ως ευκαιρία να ζεσταθείτε πλήρως.",
+              "Το ηλιοβασίλεμα συμβαίνει ήδη από τις 17:00 κατά τους χειμερινούς μήνες."
             ]
           }
         }

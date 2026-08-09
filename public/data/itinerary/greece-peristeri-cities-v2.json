@@ -21,7 +21,8 @@
             "de": "Rathausplatz",
             "hu": "Városháza tér",
             "ro": "Piața Primăriei",
-            "en": "Town Hall Square"
+            "en": "Town Hall Square",
+            "el": "Πλατεία Δημαρχείου"
           },
           "coords": [
             23.691,
@@ -37,7 +38,8 @@
             "de": "Starten Sie Ihren Tag hier mit einem Kaffee und beobachten Sie das lokale Leben.",
             "hu": "Kezdje a napot egy kávéval, és figyelje a helyi életet.",
             "ro": "Începeți ziua aici cu o cafea, observând viața locală.",
-            "en": "Start your day here with a coffee, watching the local life."
+            "en": "Start your day here with a coffee, watching the local life.",
+            "el": "Ξεκινήστε τη μέρα σας εδώ με έναν καφέ παρακολουθώντας τη ντόπια ζωή."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Fußgängerzone Ethnikis Antistasis",
             "hu": "Ethnikis Antistasis sétálóutca",
             "ro": "Zona Pietonală Ethnikis Antistasis",
-            "en": "Ethnikis Antistasis Pedestrian Zone"
+            "en": "Ethnikis Antistasis Pedestrian Zone",
+            "el": "Πεζόδρομος Εθνικής Αντίστασης"
           },
           "coords": [
             23.693,
@@ -61,7 +64,8 @@
             "de": "Perfekt für einen Vormittagsspaziergang und zum Stöbern in den Geschäften.",
             "hu": "Tökéletes egy délelőtti sétára és a boltok nézegetésére.",
             "ro": "Perfect pentru o plimbare de dimineață și pentru a te uita prin magazine.",
-            "en": "Perfect for a morning stroll and browsing the shops."
+            "en": "Perfect for a morning stroll and browsing the shops.",
+            "el": "Ιδανικός για πρωινή βόλτα και περίπτερο στα μαγαζιά."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Kirche Agios Antonios",
             "hu": "Agios Antonios-templom",
             "ro": "Biserica Sfântul Antonie",
-            "en": "Church of Agios Antonios"
+            "en": "Church of Agios Antonios",
+            "el": "Εκκλησία του Αγίου Αντωνίου"
           },
           "coords": [
             23.69,
@@ -85,7 +90,8 @@
             "de": "Bewundern Sie die Ikonen und die friedliche Atmosphäre dieser orthodoxen Kirche.",
             "hu": "Csodálja meg az ikonokat és az ortodox templom békés hangulatát.",
             "ro": "Admirați icoanele și atmosfera liniștită a acestei biserici ortodoxe.",
-            "en": "Admire the icons and the peaceful atmosphere of this Orthodox church."
+            "en": "Admire the icons and the peaceful atmosphere of this Orthodox church.",
+            "el": "Θαυμάστε τις εικόνες και την ήρεμη ατμόσφαιρα αυτής της Ορθόδοξης εκκλησίας."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Mittagessen in einer lokalen Taverne",
             "hu": "Ebéd egy helyi tavernában",
             "ro": "Prânz la o tavernă locală",
-            "en": "Lunch at a local Taverna"
+            "en": "Lunch at a local Taverna",
+            "el": "Γεύμα σε τοπική ταβέρνα"
           },
           "coords": [
             23.688,
@@ -109,7 +116,8 @@
             "de": "Probieren Sie unbedingt Souvlaki oder Moussaka für ein authentisches Erlebnis.",
             "hu": "Mindenképpen kóstolja meg a souvlakit vagy a moussakát egy autentikus élményért.",
             "ro": "Asigurați-vă că încercați souvlaki sau moussaka pentru o experiență autentică.",
-            "en": "Be sure to try souvlaki or moussaka for an authentic experience."
+            "en": "Be sure to try souvlaki or moussaka for an authentic experience.",
+            "el": "Μην παραλείψετε να δοκιμάσετε σουβλάκι ή μουσακά για μια αυθεντική εμπειρία."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Hain von Peristeri",
             "hu": "Periszteri-liget",
             "ro": "Dumbrava din Peristeri",
-            "en": "Peristeri Grove"
+            "en": "Peristeri Grove",
+            "el": "Άλσος Περιστερίου"
           },
           "coords": [
             23.698,
@@ -133,7 +142,8 @@
             "de": "Eine grüne Oase, ideal für eine Pause im Schatten.",
             "hu": "Zöld oázis, ideális egy kis árnyékos pihenőre.",
             "ro": "O oază de verdeață, ideală pentru o pauză la umbră.",
-            "en": "A green oasis, ideal for a break in the shade."
+            "en": "A green oasis, ideal for a break in the shade.",
+            "el": "Μια πράσινη όαση, ιδανική για ένα διάλειμμα στη σκιά."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Städtisches Stadion von Peristeri",
             "hu": "Periszteri Városi Stadion",
             "ro": "Stadionul Municipal din Peristeri",
-            "en": "Municipal Stadium of Peristeri"
+            "en": "Municipal Stadium of Peristeri",
+            "el": "Δημοτικό Στάδιο Περιστερίου"
           },
           "coords": [
             23.695,
@@ -157,7 +168,8 @@
             "de": "Werfen Sie einen Blick auf die Heimat des Atromitos FC, ein Herzstück des lokalen Sports.",
             "hu": "Vessen egy pillantást az Atromitos FC otthonára, a helyi sportélet szívére.",
             "ro": "Aruncați o privire la casa lui Atromitos FC, un centru al sportului local.",
-            "en": "Take a look at the home of Atromitos FC, a heart of local sports."
+            "en": "Take a look at the home of Atromitos FC, a heart of local sports.",
+            "el": "Ρίξτε μια ματιά στην έδρα του Ατρομήτου, η καρδιά του τοπικού αθλητισμού."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Park des Friedens und der Freundschaft",
             "hu": "Béke és Barátság Park",
             "ro": "Parcul Păcii și Prieteniei",
-            "en": "Park of Peace and Friendship"
+            "en": "Park of Peace and Friendship",
+            "el": "Πάρκο Ειρήνης και Φιλίας"
           },
           "coords": [
             23.687,
@@ -181,7 +194,8 @@
             "de": "Ein schöner Ort, um den Tag ausklingen zu lassen und die entspannte Atmosphäre zu genießen.",
             "hu": "Egy szép hely a nap lezárásához és a pihentető légkör élvezetéhez.",
             "ro": "Un loc frumos pentru a încheia ziua și a vă bucura de atmosfera relaxată.",
-            "en": "A beautiful place to end the day and enjoy the relaxed atmosphere."
+            "en": "A beautiful place to end the day and enjoy the relaxed atmosphere.",
+            "el": "Ένας όμορφος χώρος για να τελειώσετε την ημέρα και να απολαύσετε τη χαλαρή ατμόσφαιρα."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Beginnen Sie Ihren Spaziergang am belebten Rathausplatz, dem Herzen von Peristeri. Schlendern Sie vormittags durch die Fußgängerzone und spüren Sie den lokalen Puls. Nach dem Mittagessen in einer charmanten Taverne bietet der Hain von Peristeri eine willkommene grüne Zuflucht vor der städtischen Hektik. Beenden Sie Ihren Tag im ruhigen Park des Friedens und der Freundschaft, ein perfekter Ort, um die gesammelten Eindrücke Revue passieren zu lassen.",
         "hu": "Kezdje sétáját a nyüzsgő Városháza téren, Periszteri szívében. Délelőtt sétáljon végig a sétálóutcán, és érezze a helyi lüktetést. Egy bájos tavernában elköltött ebéd után a Periszteri-liget üdítő zöld menedéket nyújt a városi nyüzsgés elől. Zárja a napot a békés Béke és Barátság Parkban, amely tökéletes hely a nap benyomásainak felidézésére.",
         "ro": "Începeți plimbarea în Piața Primăriei, inima Peristeriului. În timpul dimineții, plimbați-vă pe zona pietonală și simțiți pulsul local. După prânzul la o tavernă fermecătoare, Dumbrava din Peristeri oferă un refugiu verde binevenit din agitația urbană. Încheiați ziua în liniștitul Parc al Păcii și Prieteniei, un loc perfect pentru a reflecta asupra impresiilor zilei.",
-        "en": "Start your walk at the bustling Town Hall Square, the heart of Peristeri. In the morning, stroll down the pedestrian zone and feel the local pulse. After lunch at a charming taverna, the Peristeri Grove offers a welcome green refuge from the urban hustle. End your day in the tranquil Park of Peace and Friendship, a perfect spot to reflect on the day's impressions."
+        "en": "Start your walk at the bustling Town Hall Square, the heart of Peristeri. In the morning, stroll down the pedestrian zone and feel the local pulse. After lunch at a charming taverna, the Peristeri Grove offers a welcome green refuge from the urban hustle. End your day in the tranquil Park of Peace and Friendship, a perfect spot to reflect on the day's impressions.",
+        "el": "Ξεκινήστε τη βόλτα σας από την πολυσύχναστη Πλατεία Δημαρχείου, την καρδιά του Περιστερίου. Το πρωί περπατήστε στην πεζοδρομημένη ζώνη και νιώστε τον τοπικό παλμό. Μετά το μεσημεριανό σε μια γραφική ταβέρνα, το Άλσος Περιστερίου προσφέρει μια ευπρόσδεκτη πράσινη όαση από τη φασαρία της πόλης. Τελειώστε τη μέρα σας στο ήρεμο Πάρκο Ειρήνης και Φιλίας, ένα τέλειο σημείο για να σκεφτείτε τις εντυπώσεις της ημέρας."
       },
       "gastro_picks": {
         "de": [
@@ -385,6 +400,12 @@
           "A reusable water bottle is essential, especially in the warmer months.",
           "Most shops close in the afternoon for a siesta, plan your shopping accordingly.",
           "Embrace the slow pace; Peristeri is a place to relax, not to rush."
+        ],
+        "el": [
+          "Φορέστε άνετα παπούτσια καθώς θα είστε πολλές ώρες όρθιοι.",
+          "Ένα επαναχρησιμοποιήσιμο παγούρι είναι απαραίτητο, ειδικά στους θερμότερους μήνες.",
+          "Τα περισσότερα καταστήματα κλείνουν το απόγευμα για σιέστα· προγραμματίστε τα ψώνια σας αναλόγως.",
+          "Απολαύστε τον χαλαρό ρυθμό· το Περιστέρι είναι για χαλάρωση, όχι βιασύνη."
         ]
       },
       "variants": {
@@ -393,7 +414,8 @@
             "de": "Morgens beginnt der Tag am Rathausplatz, wo der Regen auf die Pflastersteine trommelt. Ein starker griechischer Kaffee wärmt in einer der vielen Arkaden.\n\nMittags führt der Weg durch die Fußgängerzone Ethnikis Antistasis, geschützt unter den Markisen der Geschäfte. Der Duft von frischem Gebäck mischt sich mit der kühlen Luft.\n\nNachmittags bietet der Peristeri-Hain eine mystische Atmosphäre im Nebel. Die hohen Eukalyptusbäume bieten zwar Schutz, aber der Boden ist rutschig.\n\nAbends glänzen die Lichter des Stadions in den Pfützen. In einer gemütlichen Taverne lässt man den Tag bei kräftigem Rotwein und Ouzo ausklingen.",
             "hu": "Reggel a Városháza téren kezdünk, ahol az eső kopogása ritmust ad a kávézók zajának. Egy forró görög kávé segít elindulni az árkádok védelmében.\n\nDélben az Ethnikis Antistasis sétálóutcán haladunk, az üzletek napellenzői alatt bújva az égi áldás elől. A friss pékáru illata betölti a nedves utcákat.\n\nDélután a Peristeri-liget ködös, zöld oázissá válik. Az utak csúszósak lehetnek, de a fák lombjai között különlegesen friss a levevő.\n\nEste a stadion fényei tükröződnek a tócsákban. Egy közeli taverna melegében, a kandalló mellett zárjuk a napot egy tál meleg moussakával.",
             "ro": "Dimineața începe în Piața Primăriei, unde ploaia răpăie pe pavaj, creând o atmosferă melancolică. O cafea grecească fierbinte sub arcade este startul perfect.\n\nLa prânz, zona pietonală Ethnikis Antistasis oferă adăpost sub copertinele magazinelor. Mirosul de plăcinte calde te îmbie să te oprești în drumul spre biserică.\n\nDupă-amiaza, Dumbrava Peristeri este învăluită în ceață, oferind un peisaj aproape ireal. Aerul este incredibil de proaspăt printre arborii de eucalipt.\n\nSeara, luminile stadionului se reflectă în bălți, transformând asfaltul într-o oglindă. O tavernă locală cu muzică rebetiko este refugiul ideal pentru cină.",
-            "en": "Morning starts at Town Hall Square, where rain taps a rhythm on the pavement. A strong Greek coffee under the cafe's awning provides the perfect warm start.\n\nNoon takes us through the Ethnikis Antistasis pedestrian zone, utilizing shop canopies as natural umbrellas. The scent of fresh pastries fills the humid air.\n\nAfternoon finds the Peristeri Grove mist-covered and exceptionally green. While the paths might be slick, the air is crisp and refreshing under the tall trees.\n\nEvening arrives with stadium lights shimmering in puddles. We retreat to a cozy local taverna, ending the day with hearty dishes and warm hospitality."
+            "en": "Morning starts at Town Hall Square, where rain taps a rhythm on the pavement. A strong Greek coffee under the cafe's awning provides the perfect warm start.\n\nNoon takes us through the Ethnikis Antistasis pedestrian zone, utilizing shop canopies as natural umbrellas. The scent of fresh pastries fills the humid air.\n\nAfternoon finds the Peristeri Grove mist-covered and exceptionally green. While the paths might be slick, the air is crisp and refreshing under the tall trees.\n\nEvening arrives with stadium lights shimmering in puddles. We retreat to a cozy local taverna, ending the day with hearty dishes and warm hospitality.",
+            "el": "Το πρωί ξεκινά στην Πλατεία Δημαρχείου, όπου η βροχή χτυπά ρυθμικά στο πεζοδρόμιο. Ένας δυνατός ελληνικός καφές κάτω από τη τέντα του καφέ προσφέρει την τέλεια ζεστή εκκίνηση.\n\nΤο μεσημέρι μας βρίσκει στη πεζοδρομημένη ζώνη της Εθνικής Αντιστάσεως, χρησιμοποιώντας τις τέντες των καταστημάτων ως φυσικές ομπρέλες. Η μυρωδιά από φρέσκα γλυκίσματα γεμίζει τον υγρό αέρα.\n\nΤο απόγευμα το Άλσος Περιστερίου είναι καλυμμένο με ομίχλη και εξαιρετικά πράσινο. Παρ’ όλο που τα μονοπάτια μπορεί να είναι γλιστερά, ο αέρας είναι δροσερός και αναζωογονητικός κάτω από τα ψηλά δέντρα.\n\nΤο βράδυ φτάνει με τα φώτα του σταδίου να καθρεφτίζονται στις λιμνούλες. Καταφεύγουμε σε μια ζεστή τοπική ταβέρνα, ολοκληρώνοντας τη μέρα με χορταστικά πιάτα και θερμή φιλοξενία."
           },
           "stops": [
             {
@@ -402,7 +424,8 @@
                 "de": "Suchen Sie Schutz in den Cafés unter den Arkaden.",
                 "hu": "Használd ki a tér körüli árkádos kávézók védelmét.",
                 "ro": "Căutați adăpost în cafenelele de sub arcadele pieței.",
-                "en": "Take shelter in the cafes under the square's arcades."
+                "en": "Take shelter in the cafes under the square's arcades.",
+                "el": "Καταφύγετε στα καφέ κάτω από τις στοές της πλατείας."
               }
             },
             {
@@ -411,7 +434,8 @@
                 "de": "Die Markisen der Geschäfte bieten guten Schutz vor Regen.",
                 "hu": "Az üzletek napellenzői alatt szárazon maradhatsz.",
                 "ro": "Copertinele magazinelor oferă protecție bună împotriva ploii.",
-                "en": "Shop awnings provide excellent cover from the rain."
+                "en": "Shop awnings provide excellent cover from the rain.",
+                "el": "Οι τέντες των καταστημάτων παρέχουν εξαιρετική κάλυψη από τη βροχή."
               }
             },
             {
@@ -420,7 +444,8 @@
                 "de": "Ein ruhiger Ort, um einen starken Regenschauer abzuwarten.",
                 "hu": "Csendes menedék egy nagyobb zápor átvészeléséhez.",
                 "ro": "Un loc liniștit pentru a aștepta trecerea unei averse.",
-                "en": "A peaceful place to wait out a heavy downpour."
+                "en": "A peaceful place to wait out a heavy downpour.",
+                "el": "Ένας ήσυχος χώρος για να περιμένετε να περάσει δυνατή μπόρα."
               }
             },
             {
@@ -429,7 +454,8 @@
                 "de": "Genießen Sie warme Spezialitäten wie Moussaka im Trockenen.",
                 "hu": "Élvezd a forró moussakát a taverna barátságos belső terében.",
                 "ro": "Savurați specialități calde precum moussaka la interior.",
-                "en": "Enjoy warm specialties like moussaka in the cozy interior."
+                "en": "Enjoy warm specialties like moussaka in the cozy interior.",
+                "el": "Απολαύστε ζεστές σπεσιαλιτέ όπως ο μουσακάς στο ζεστό εσωτερικό."
               }
             },
             {
@@ -438,7 +464,8 @@
                 "de": "Achten Sie auf rutschiges Laub auf den Parkwegen.",
                 "hu": "Vigyázz a csúszós levelekre a park sétányain.",
                 "ro": "Atenție la frunzele alunecoase de pe aleile parcului.",
-                "en": "Watch out for slippery leaves on the park paths."
+                "en": "Watch out for slippery leaves on the park paths.",
+                "el": "Προσέξτε τα ολισθηρά φύλλα στα μονοπάτια του πάρκου."
               }
             },
             {
@@ -447,7 +474,8 @@
                 "de": "Der Betonboden um das Stadion kann sehr glatt sein.",
                 "hu": "A stadion körüli betonfelületek esőben csúszósak.",
                 "ro": "Suprafețele de beton din jurul stadionului sunt alunecoase.",
-                "en": "Concrete surfaces around the stadium can be slippery."
+                "en": "Concrete surfaces around the stadium can be slippery.",
+                "el": "Οι τσιμεντένες επιφάνειες γύρω από το στάδιο μπορεί να είναι ολισθηρές."
               }
             },
             {
@@ -456,7 +484,8 @@
                 "de": "Ein schneller Blick genügt; die U-Bahn ist nah zum Unterstellen.",
                 "hu": "Csak egy gyors séta, a közeli metró jó menedék.",
                 "ro": "O plimbare scurtă; metroul din apropiere este un adăpost bun.",
-                "en": "A quick visit; the nearby metro is a good refuge."
+                "en": "A quick visit; the nearby metro is a good refuge.",
+                "el": "Μια γρήγορη επίσκεψη· ο κοντινός σταθμός του μετρό είναι καλό καταφύγιο."
               }
             }
           ],
@@ -484,6 +513,12 @@
               "A sturdy umbrella is a must due to gusty Athenian winds.",
               "Greek Avgolemono soup is the perfect warm lunch on rainy days.",
               "Use metro underpasses as dry shortcuts between stops."
+            ],
+            "el": [
+              "Φορέστε αδιάβροχα παπούτσια, καθώς στις στενές οδούς σχηματίζονται γρήγορα λακκούβες.",
+              "Μια γερή ομπρέλα είναι απαραίτητη λόγω των ριπών του αθηναϊκού ανέμου.",
+              "Η ελληνική σούπα αυγολέμονο είναι το τέλειο ζεστό γεύμα για βροχερές μέρες.",
+              "Χρησιμοποιήστε περάσματα του μετρό ως στεγνά συντομότερα μεταξύ στάσεων."
             ]
           }
         },
@@ -492,7 +527,8 @@
             "de": "Morgens liegt eine kühle Brise über dem Rathausplatz. Die Sonne steht tief und taucht die modernen Gebäude in ein klares Winterlicht.\n\nMittags wärmen wir uns in der Fußgängerzone auf. Die Atmosphäre ist lebendig, und der Duft von gerösteten Kastanien liegt in der Luft.\n\nNachmittags sinken die Temperaturen im Peristeri-Hain spürbar. Der frühe Sonnenuntergang färbt den Himmel über Athen in tiefe Orangetöne.\n\nAbends funkeln die Lichter des Stadions in der kalten Luft. Eine Taverne mit Kamin bietet den perfekten Abschluss für den winterlichen Tag.",
             "hu": "Reggel hűvös szél fúj át a Városháza téren. A téli nap alacsonyan jár, éles fénybe vonva a modern épületeket a tiszta égbolt alatt.\n\nDélben a sétálóutca forgatagában melegszünk fel. A levegőben sült gesztenye illata száll, a kávézók teraszain pedig gőzölögnek a csészék.\n\nDélután a Peristeri-ligetben a hűvös levegő frissítő. Az ötkori naplemente drámai színekkel búcsúztatja a napot az attikai hegyek mögött.\n\nEste a stadion környékén a hideg levegőben messzire látszanak a város fényei. Egy belső fűtött taverna a legjobb hely egy forró vacsorához.",
             "ro": "Dimineața, o briză rece străbate Piața Primăriei. Soarele de iarnă, jos la orizont, scaldă clădirile moderne într-o lumină clară.\n\nLa prânz, ne încălzim în agitația zonei pietonale. Mirosul de castane coapte plutește în aer, iar cafenelele sunt pline de viață.\n\nDupă-amiaza, temperaturile scad simțitor în Dumbrava Peristeri. Apusul timpuriu pictează cerul Atenei în nuanțe de portocaliu intens.\n\nSeara, luminile stadionului sclipesc în aerul rece. O tavernă cu șemineu este locul perfect pentru a încheia această zi de iarnă.",
-            "en": "Morning brings a crisp breeze to Town Hall Square. The winter sun stays low, casting sharp light over the modern city architecture.\n\nNoon is spent in the lively pedestrian zone. The scent of roasted chestnuts fills the air, and cafes offer a warm respite from the chill.\n\nAfternoon temperatures drop quickly in the Peristeri Grove. The early sunset transforms the Athenian sky into a canvas of deep oranges.\n\nEvening finds the stadium lights sparkling in the cold air. A heated taverna provides the perfect cozy end to a winter exploration."
+            "en": "Morning brings a crisp breeze to Town Hall Square. The winter sun stays low, casting sharp light over the modern city architecture.\n\nNoon is spent in the lively pedestrian zone. The scent of roasted chestnuts fills the air, and cafes offer a warm respite from the chill.\n\nAfternoon temperatures drop quickly in the Peristeri Grove. The early sunset transforms the Athenian sky into a canvas of deep oranges.\n\nEvening finds the stadium lights sparkling in the cold air. A heated taverna provides the perfect cozy end to a winter exploration.",
+            "el": "Το πρωί φέρνει δροσερό αεράκι στην Πλατεία Δημαρχείου. Ο χειμερινός ήλιος παραμένει χαμηλά, ρίχνοντας έντονο φως στη σύγχρονη αστική αρχιτεκτονική.\n\nΤο μεσημέρι περνά στη ζωντανή πεζοδρομημένη ζώνη. Η μυρωδιά από ψημένα κάστανα γεμίζει την ατμόσφαιρα και τα καφέ προσφέρουν ζεστή ανάπαυλα από το ψύχος.\n\nΤο απόγευμα οι θερμοκρασίες πέφτουν γρήγορα στο Άλσος Περιστερίου. Το νωρίς ηλιοβασίλεμα μεταμορφώνει τον αθηναϊκό ουρανό σε καμβά βαθιών πορτοκαλί.\n\nΤο βράδυ τα φώτα του σταδίου αστράφτουν στον ψυχρό αέρα. Μια ζεστή ταβέρνα με θέρμανση προσφέρει το τέλειο ζεστό τέλος μιας χειμερινής εξερεύνησης."
           },
           "stops": [
             {
@@ -501,7 +537,8 @@
                 "de": "Genießen Sie einen Kaffee in der Morgensonne auf einer geschützten Terrasse.",
                 "hu": "Igyál egy kávét a reggeli napsütésben egy szélvédett teraszon.",
                 "ro": "Savurați o cafea în soarele dimineții pe o terasă ferită de vânt.",
-                "en": "Enjoy a coffee in the morning sun on a sheltered terrace."
+                "en": "Enjoy a coffee in the morning sun on a sheltered terrace.",
+                "el": "Απολαύστε έναν καφέ στο πρωινό φως σε μια προστατευμένη βεράντα."
               }
             },
             {
@@ -510,7 +547,8 @@
                 "de": "Kaufen Sie heiße Kastanien bei den Straßenverkäufern zum Aufwärmen.",
                 "hu": "Vegyél forró sült gesztenyét az utcai árusoktól a sétához.",
                 "ro": "Cumpărați castane coapte de la vânzătorii ambulanți pentru a vă încălzi.",
-                "en": "Buy roasted chestnuts from street vendors to keep your hands warm."
+                "en": "Buy roasted chestnuts from street vendors to keep your hands warm.",
+                "el": "Αγοράστε ψημένα κάστανα από πλανόδιους για να ζεστάνετε τα χέρια σας."
               }
             },
             {
@@ -519,7 +557,8 @@
                 "de": "Das Innere bietet eine angenehme, windstille Pause.",
                 "hu": "A templom belső tere szélvédett, nyugodt pihenőhely.",
                 "ro": "Interiorul bisericii oferă o pauză plăcută și ferită de vânt.",
-                "en": "The church interior provides a pleasant, wind-free break."
+                "en": "The church interior provides a pleasant, wind-free break.",
+                "el": "Το εσωτερικό της εκκλησίας προσφέρει ευχάριστο διάλειμμα χωρίς άνεμο."
               }
             },
             {
@@ -528,7 +567,8 @@
                 "de": "Fragen Sie nach Oinomelo, einem warmen Wein mit Honig.",
                 "hu": "Kóstold meg az oinomelót, a forró mézes bort ebéd után.",
                 "ro": "Cereți oinomelo, un vin cald cu miere, după prânz.",
-                "en": "Try oinomelo, a warm honeyed wine, after your lunch."
+                "en": "Try oinomelo, a warm honeyed wine, after your lunch.",
+                "el": "Δοκιμάστε οίνομέλο, ένα ζεστό μελωμένο κρασί, μετά το γεύμα σας."
               }
             },
             {
@@ -537,7 +577,8 @@
                 "de": "Der Sonnenuntergang hier ist im Winter besonders farbenfroh.",
                 "hu": "A téli naplemente innen a legszebb, 17:00 körül kezdődik.",
                 "ro": "Apusul de iarnă este spectaculos aici, începe în jur de ora 17.",
-                "en": "The winter sunset here is very colorful, starting around 5 PM."
+                "en": "The winter sunset here is very colorful, starting around 5 PM.",
+                "el": "Το χειμερινό ηλιοβασίλεμα εδώ είναι πολύ χρωματιστό, ξεκινώντας περίπου στις 17:00."
               }
             },
             {
@@ -546,7 +587,8 @@
                 "de": "Ziehen Sie sich warm an, der Wind weht hier oft kühl.",
                 "hu": "Öltözz fel jól, a stadion környéke télen szeles lehet.",
                 "ro": "Îmbrăcați-vă bine, zona stadionului este adesea vântoasă iarna.",
-                "en": "Dress warmly, as the area around the stadium is often windy."
+                "en": "Dress warmly, as the area around the stadium is often windy.",
+                "el": "Ντυθείτε ζεστά, καθώς η περιοχή γύρω από το στάδιο είναι συχνά ανεμώδης."
               }
             },
             {
@@ -555,7 +597,8 @@
                 "de": "Ein kurzer Aufenthalt reicht aus, bevor es zu kalt wird.",
                 "hu": "Egy rövid séta is elég, mielőtt túl hűvösre fordul az este.",
                 "ro": "O scurtă vizită este suficientă înainte să se facă prea frig.",
-                "en": "A short visit is enough before the evening chill sets in."
+                "en": "A short visit is enough before the evening chill sets in.",
+                "el": "Μια σύντομη επίσκεψη είναι αρκετή πριν το βραδινό κρύο εμφανιστεί."
               }
             }
           ],
@@ -583,6 +626,12 @@
               "The sun sets early in winter, around 5:15 PM.",
               "Try Greek mountain tea to warm up during your walk.",
               "Avoid windy corners at main intersections in the evening."
+            ],
+            "el": [
+              "Ντυθείτε σε στρώσεις, καθώς είναι ζεστά στον ήλιο αλλά κρύα στη σκιά.",
+              "Ο ήλιος δύει νωρίς τον χειμώνα, περίπου στις 17:15.",
+              "Δοκιμάστε ελληνικό τσάι του βουνού για να ζεσταθείτε κατά τη βόλτα σας.",
+              "Αποφύγετε τα ανεμώδη σημεία στις κύριες διασταυρώσεις το βραδάκι."
             ]
           }
         }
@@ -601,7 +650,8 @@
             "de": "Städtisches Stadion von Peristeri",
             "hu": "Periszteri Városi Stadion",
             "ro": "Stadionul Municipal din Peristeri",
-            "en": "Municipal Stadium of Peristeri"
+            "en": "Municipal Stadium of Peristeri",
+            "el": "Δημοτικό Στάδιο Περιστερίου"
           },
           "coords": [
             23.695,
@@ -617,7 +667,8 @@
             "de": "Ein guter Ausgangspunkt, um die sportliche Seite der Stadt zu sehen.",
             "hu": "Jó kiindulópont a város sportos oldalának megismeréséhez.",
             "ro": "Un bun punct de plecare pentru a vedea latura sportivă a orașului.",
-            "en": "A good starting point to see the sporty side of the city."
+            "en": "A good starting point to see the sporty side of the city.",
+            "el": "Ένα καλό σημείο εκκίνησης για να δείτε την αθλητική πλευρά της πόλης."
           }
         },
         {
@@ -625,7 +676,8 @@
             "de": "Hain von Peristeri",
             "hu": "Periszteri-liget",
             "ro": "Dumbrava din Peristeri",
-            "en": "Peristeri Grove"
+            "en": "Peristeri Grove",
+            "el": "Άλσος Περιστερίου"
           },
           "coords": [
             23.698,
@@ -641,7 +693,8 @@
             "de": "Radeln Sie durch die Wege und genießen Sie die grüne Lunge der Stadt.",
             "hu": "Kerékpározzon végig az ösvényeken, és élvezze a város zöld tüdejét.",
             "ro": "Pedalați pe alei și bucurați-vă de plămânul verde al orașului.",
-            "en": "Cycle through the paths and enjoy the city's green lung."
+            "en": "Cycle through the paths and enjoy the city's green lung.",
+            "el": "Ποδηλατήστε στα μονοπάτια και απολαύστε το πράσινο πνεύμονα της πόλης."
           }
         },
         {
@@ -649,7 +702,8 @@
             "de": "Kirche Agios Antonios",
             "hu": "Agios Antonios-templom",
             "ro": "Biserica Sfântul Antonie",
-            "en": "Church of Agios Antonios"
+            "en": "Church of Agios Antonios",
+            "el": "Εκκλησία Αγίου Αντωνίου"
           },
           "coords": [
             23.69,
@@ -665,7 +719,8 @@
             "de": "Stellen Sie Ihr Fahrrad ab und nehmen Sie sich einen Moment der Ruhe.",
             "hu": "Tegye le a kerékpárt, és szánjon egy percet a csendre.",
             "ro": "Parcați bicicleta și acordați-vă un moment de liniște.",
-            "en": "Park your bike and take a moment of tranquility."
+            "en": "Park your bike and take a moment of tranquility.",
+            "el": "Παρκάρετε το ποδήλατό σας και αφιερώστε μια στιγμή ηρεμίας."
           }
         },
         {
@@ -673,7 +728,8 @@
             "de": "Rathausplatz & Mittagessen",
             "hu": "Városháza tér és ebéd",
             "ro": "Piața Primăriei & Prânz",
-            "en": "Town Hall Square & Lunch"
+            "en": "Town Hall Square & Lunch",
+            "el": "Πλατεία Δημαρχείου & Γεύμα"
           },
           "coords": [
             23.691,
@@ -689,7 +745,8 @@
             "de": "Der Platz ist von vielen Tavernen umgeben. Ideal für eine ausgiebige Mittagspause.",
             "hu": "A teret számos taverna veszi körül. Ideális egy kiadós ebédszünethez.",
             "ro": "Piața este înconjurată de numeroase taverne. Ideal pentru o pauză de prânz lungă.",
-            "en": "The square is surrounded by many tavernas. Ideal for a long lunch break."
+            "en": "The square is surrounded by many tavernas. Ideal for a long lunch break.",
+            "el": "Η πλατεία περιβάλλεται από πολλές ταβέρνες. Ιδανική για ένα μεγάλο μεσημεριανό διάλειμμα."
           }
         },
         {
@@ -697,7 +754,8 @@
             "de": "Kulturzentrum Techne",
             "hu": "Techné Kulturális Központ",
             "ro": "Centrul Cultural Techne",
-            "en": "Techne Cultural Center"
+            "en": "Techne Cultural Center",
+            "el": "Κέντρο Τέχνης Techne"
           },
           "coords": [
             23.688,
@@ -713,7 +771,8 @@
             "de": "Informieren Sie sich über aktuelle Ausstellungen oder Veranstaltungen.",
             "hu": "Érdeklődjön az aktuális kiállításokról vagy eseményekről.",
             "ro": "Interesați-vă de expozițiile sau evenimentele curente.",
-            "en": "Check for current exhibitions or events."
+            "en": "Check for current exhibitions or events.",
+            "el": "Ελέγξτε για τρέχουσες εκθέσεις ή εκδηλώσεις."
           }
         },
         {
@@ -721,7 +780,8 @@
             "de": "Ausstellungszentrum von Peristeri",
             "hu": "Periszteri Kiállítási Központ",
             "ro": "Centrul Expozițional din Peristeri",
-            "en": "Exhibition Center of Peristeri"
+            "en": "Exhibition Center of Peristeri",
+            "el": "Κέντρο Εκθέσεων Περιστερίου"
           },
           "coords": [
             23.685,
@@ -737,7 +797,8 @@
             "de": "Ein interessanter Ort, der die industrielle Vergangenheit der Region zeigt.",
             "hu": "Érdekes hely, amely bemutatja a régió ipari múltját.",
             "ro": "Un loc interesant care arată trecutul industrial al regiunii.",
-            "en": "An interesting place showcasing the industrial past of the region."
+            "en": "An interesting place showcasing the industrial past of the region.",
+            "el": "Ένας ενδιαφέρον χώρος που παρουσιάζει το βιομηχανικό παρελθόν της περιοχής."
           }
         },
         {
@@ -745,7 +806,8 @@
             "de": "Park des Friedens und der Freundschaft",
             "hu": "Béke és Barátság Park",
             "ro": "Parcul Păcii și Prieteniei",
-            "en": "Park of Peace and Friendship"
+            "en": "Park of Peace and Friendship",
+            "el": "Πάρκο Ειρήνης και Φιλίας"
           },
           "coords": [
             23.687,
@@ -761,7 +823,8 @@
             "de": "Der perfekte Ort, um die Fahrradtour mit einem entspannten Ausklang zu beenden.",
             "hu": "Tökéletes hely a kerékpártúra befejezéséhez egy pihentető levezetéssel.",
             "ro": "Locul perfect pentru a încheia turul cu bicicleta cu o relaxare finală.",
-            "en": "The perfect place to end the bike tour with a relaxing finish."
+            "en": "The perfect place to end the bike tour with a relaxing finish.",
+            "el": "Το τέλειο μέρος για να τελειώσετε την ποδηλατική διαδρομή με ένα χαλαρωτικό τέλος."
           }
         }
       ],
@@ -769,7 +832,8 @@
         "de": "Starten Sie Ihre Radtour am Städtischen Stadion und fahren Sie durch den grünen Hain von Peristeri. Erkunden Sie das spirituelle Zentrum an der Agios Antonios Kirche, bevor Sie am Rathausplatz eine wohlverdiente Mittagspause einlegen. Am Nachmittag führt Sie Ihre Route zu kulturellen und historischen Orten wie dem Kulturzentrum und dem Ausstellungszentrum. Beenden Sie Ihre Tour im Park des Friedens und der Freundschaft, wo Sie die Beine ausstrecken und entspannen können.",
         "hu": "Kezdje kerékpártúráját a Városi Stadionnál, és tekerjen át a zöld Periszteri-ligeten. Fedezze fel a spirituális központot az Agios Antonios-templomnál, mielőtt egy jól megérdemelt ebédszünetet tartana a Városháza téren. Délután az útvonal kulturális és történelmi helyszínekre vezet, mint a Kulturális Központ és a Kiállítási Központ. Fejezze be a túrát a Béke és Barátság Parkban, ahol kinyújtóztathatja a lábait és pihenhet.",
         "ro": "Începeți turul cu bicicleta de la Stadionul Municipal și pedalați prin Dumbrava verde din Peristeri. Explorați centrul spiritual la Biserica Agios Antonios înainte de a lua o pauză de prânz binemeritată în Piața Primăriei. După-amiaza, traseul vă duce la situri culturale și istorice, cum ar fi Centrul Cultural și Centrul Expozițional. Încheiați turul în Parcul Păcii și Prieteniei, unde vă puteți întinde picioarele și vă puteți relaxa.",
-        "en": "Start your bike tour at the Municipal Stadium and cycle through the green Peristeri Grove. Explore the spiritual center at the Church of Agios Antonios before taking a well-deserved lunch break at the Town Hall Square. In the afternoon, your route takes you to cultural and historical sites like the Cultural Center and the Exhibition Center. Finish your tour in the Park of Peace and Friendship, where you can stretch your legs and relax."
+        "en": "Start your bike tour at the Municipal Stadium and cycle through the green Peristeri Grove. Explore the spiritual center at the Church of Agios Antonios before taking a well-deserved lunch break at the Town Hall Square. In the afternoon, your route takes you to cultural and historical sites like the Cultural Center and the Exhibition Center. Finish your tour in the Park of Peace and Friendship, where you can stretch your legs and relax.",
+        "el": "Ξεκινήστε την ποδηλατική σας διαδρομή από το Δημοτικό Στάδιο και διασχίστε το πράσινο Άλσος Περιστερίου. Εξερευνήστε το πνευματικό κέντρο στην Εκκλησία του Αγίου Αντωνίου πριν κάνετε ένα καλά αποδεδειγμένο μεσημεριανό διάλειμμα στην Πλατεία Δημαρχείου. Το απόγευμα, η διαδρομή σας περνά από πολιτιστικά και ιστορικά σημεία όπως το Κέντρο Τέχνης και το Κέντρο Εκθέσεων. Ολοκληρώστε την πορεία σας στο Πάρκο Ειρήνης και Φιλίας, όπου μπορείτε να τεντώσετε τα πόδια και να χαλαρώσετε."
       },
       "gastro_picks": {
         "de": [
@@ -965,6 +1029,12 @@
           "A helmet is strongly recommended for your safety.",
           "Check the bike-friendliness of the roads; some main streets can be busy.",
           "Plan your route in advance to avoid steep hills if you prefer a more leisurely pace."
+        ],
+        "el": [
+          "Κλειδώστε πάντα το ποδήλατό σας με ασφάλεια, ακόμη και για σύντομες στάσεις.",
+          "Η χρήση κράνους συνιστάται έντονα για την ασφάλειά σας.",
+          "Ελέγξτε πόσο φιλικοί είναι οι δρόμοι προς τα ποδήλατα· ορισμένοι κεντρικοί δρόμοι μπορεί να είναι πολυσύχναστοι.",
+          "Σχεδιάστε τη διαδρομή σας εκ των προτέρων για να αποφύγετε απότομες ανηφόρες αν προτιμάτε πιο χαλαρό ρυθμό."
         ]
       },
       "variants": {
@@ -973,7 +1043,8 @@
             "de": "Morgens fordert die nasse Straße am Stadion volle Konzentration. Der Asphalt glänzt silbern, und die kühle Brise erfrischt beim Treten.\n\nMittags bietet der Peristeri-Hain unter den dichten Baumkronen etwas Schutz vor dem Nieselregen. Der Duft von feuchter Erde begleitet die Fahrt.\n\nNachmittags radeln wir zur Kirche und zum Rathausplatz. Die Bremsen müssen auf den nassen Fliesen der Fußgängerzone vorsichtig betätigt werden.\n\nAbends spiegeln sich die bunten Lichter des Kulturzentrums auf dem nassen Weg. Ein kurzer Endspurt führt zum Park, bevor wir uns aufwärmen.",
             "hu": "Reggel a stadion melletti vizes aszfalt teljes koncentrációt igényel. Az út ezüstösen csillog, a hűvös szél pedig frissít tekerés közben.\n\nDélben a Peristeri-liget sűrű lombjai némi védelmet nyújtanak a szemerkélő esőben. A nedves föld illata kíséri utunkat.\n\nDélután a templom és a Városháza felé vesszük az irányt. A vizes díszburkolaton óvatosan kell bánni a fékekkel.\n\nEste a kulturális központ színes fényei tükröződnek a vizes úton. Egy utolsó sprint a parkig, mielőtt behúzódunk egy meleg helyre.",
             "ro": "Dimineața, asfaltul ud de lângă stadion necesită concentrare maximă. Drumul strălucește argintiu, iar briza rece te înviorează la pedalat.\n\nLa prânz, Dumbrava Peristeri oferă puțin adăpost sub coroanele dese în timpul burniței. Mirosul de pământ umed însoțește plimbarea.\n\nDupă-amiaza pedalăm spre biserică și Piața Primăriei. Frânele trebuie acționate cu grijă pe pavajul ud al zonei pietonale.\n\nSeara, luminile colorate ale centrului cultural se oglindesc pe drumul ud. Un ultim sprint spre parc înainte de a ne încălzi.",
-            "en": "Morning on the wet road near the stadium demands full focus. The asphalt shimmers silver, and the cool breeze refreshes as you pedal.\n\nNoon finds the Peristeri Grove offering some shelter under thick canopies during the drizzle. The scent of damp earth accompanies the ride.\n\nAfternoon takes us toward the church and Town Hall. Brakes must be used carefully on the wet tiles of the pedestrian zones.\n\nEvening sees the colorful lights of the cultural center reflecting on the soaked path. A final sprint to the park before warming up indoors."
+            "en": "Morning on the wet road near the stadium demands full focus. The asphalt shimmers silver, and the cool breeze refreshes as you pedal.\n\nNoon finds the Peristeri Grove offering some shelter under thick canopies during the drizzle. The scent of damp earth accompanies the ride.\n\nAfternoon takes us toward the church and Town Hall. Brakes must be used carefully on the wet tiles of the pedestrian zones.\n\nEvening sees the colorful lights of the cultural center reflecting on the soaked path. A final sprint to the park before warming up indoors.",
+            "el": "Το πρωί στον υγρό δρόμο κοντά στο στάδιο απαιτεί πλήρη συγκέντρωση. Ο άσφαλτος αστράφτει ασημένιος και το δροσερό αεράκι αναζωογονεί καθώς πεταλάρετε.\n\nΤο μεσημέρι το Άλσος Περιστερίου προσφέρει λίγη κάλυψη κάτω από πυκνά φυλλώματα κατά την ψιχάλα. Η μυρωδιά από υγρή γη συνοδεύει τη βόλτα.\n\nΤο απόγευμα κατευθυνόμαστε προς την εκκλησία και την Πλατεία Δημαρχείου. Τα φρένα πρέπει να χρησιμοποιούνται προσεκτικά στα βρεγμένα πλακάκια των πεζοδρόμων.\n\nΤο βράδυ τα χρώματα του πολιτιστικού κέντρου καθρεφτίζονται στο βρεγμένο μονοπάτι. Ένα τελικό σπριντ προς το πάρκο πριν ζεσταθούμε μέσα."
           },
           "stops": [
             {
@@ -982,7 +1053,8 @@
                 "de": "Vorsicht vor rutschigen Markierungen auf der Straße.",
                 "hu": "Vigyázz a csúszós útburkolati jelekkel az aszfalton.",
                 "ro": "Atenție la marcajele rutiere alunecoase de pe asfalt.",
-                "en": "Watch out for slippery road markings on the asphalt."
+                "en": "Watch out for slippery road markings on the asphalt.",
+                "el": "Προσέξτε τις ολισθηρές σημάνσεις δρόμου στην άσφαλτο."
               }
             },
             {
@@ -991,7 +1063,8 @@
                 "de": "Die Bäume bieten etwas Schutz, aber die Wege sind weich.",
                 "hu": "A fák védenek az esőtől, de a sétányok felázhatnak.",
                 "ro": "Copacii oferă protecție, dar aleile pot fi moi.",
-                "en": "Trees offer cover, but paths can be soft and muddy."
+                "en": "Trees offer cover, but paths can be soft and muddy.",
+                "el": "Τα δέντρα προσφέρουν κάλυψη, αλλά τα μονοπάτια μπορεί να είναι μαλακά και λασπώδη."
               }
             },
             {
@@ -1000,7 +1073,8 @@
                 "de": "Stellen Sie Ihr Rad unter dem Vordach eines nahen Cafés ab.",
                 "hu": "A bringát egy közeli kávézó előtetője alá érdemes tenni.",
                 "ro": "Parcați bicicleta sub copertina unei cafenele din apropiere.",
-                "en": "Park your bike under the awning of a nearby cafe."
+                "en": "Park your bike under the awning of a nearby cafe.",
+                "el": "Σταθμεύστε το ποδήλατό σας κάτω από την τέντα ενός κοντινού καφέ."
               }
             },
             {
@@ -1009,7 +1083,8 @@
                 "de": "Ein längerer Stopp hilft, die Ausrüstung zu trocknen.",
                 "hu": "Tarts hosszabb pihenőt, hogy megszáradjon a felszerelésed.",
                 "ro": "Faceți o pauză mai lungă pentru a vă usca echipamentul.",
-                "en": "Take a longer break to let your gear dry out."
+                "en": "Take a longer break to let your gear dry out.",
+                "el": "Κάντε ένα μεγαλύτερο διάλειμμα για να στεγνώσει ο εξοπλισμός σας."
               }
             },
             {
@@ -1018,7 +1093,8 @@
                 "de": "Nutzen Sie den überdachten Eingangsbereich zum Parken.",
                 "hu": "Használd a fedett bejárati részt a kerékpár tárolására.",
                 "ro": "Folosiți zona de intrare acoperită pentru parcare.",
-                "en": "Use the covered entrance area for parking."
+                "en": "Use the covered entrance area for parking.",
+                "el": "Χρησιμοποιήστε τον καλυμμένο χώρο εισόδου για στάθμευση."
               }
             },
             {
@@ -1027,7 +1103,8 @@
                 "de": "Meiden Sie Pfützen, die tiefer sein könnten als sie scheinen.",
                 "hu": "Kerüld a mélyebb tócsákat az ipari terület környékén.",
                 "ro": "Evitați bălțile care pot fi mai adânci decât par.",
-                "en": "Avoid puddles that might be deeper than they look."
+                "en": "Avoid puddles that might be deeper than they look.",
+                "el": "Αποφύγετε τις λακκούβες που μπορεί να είναι πιο βαθιές από ό,τι φαίνονται."
               }
             },
             {
@@ -1036,7 +1113,8 @@
                 "de": "Achten Sie auf Fußgänger mit Regenschirmen.",
                 "hu": "Figyelj az esernyős gyalogosokra a park bejáratánál.",
                 "ro": "Fiți atenți la pietonii cu umbrele la intrare.",
-                "en": "Watch out for pedestrians with umbrellas near the entrance."
+                "en": "Watch out for pedestrians with umbrellas near the entrance.",
+                "el": "Προσέξτε τους πεζούς με ομπρέλες κοντά στην είσοδο."
               }
             }
           ],
@@ -1064,6 +1142,12 @@
               "Fenders are essential to keep you dry from road spray.",
               "Wear reflective gear as visibility is significantly reduced.",
               "Avoid sudden turns on white painted road markings."
+            ],
+            "el": [
+              "Ελέγξτε τα φρένα σας πριν ξεκινήσετε· η απόσταση ακινητοποίησης είναι μεγαλύτερη σε βρεγμένο δρόμο.",
+              "Οι φτερωτές ποδιές (fenders) είναι απαραίτητες για να παραμείνετε στεγνοί από τα πιτσίλισματα.",
+              "Φορέστε ανακλαστικά ρούχα καθώς η ορατότητα μειώνεται σημαντικά.",
+              "Αποφύγετε απότομες στροφές σε λευκές βαμμένες γραμμές οδοστρώματος."
             ]
           }
         },
@@ -1072,7 +1156,8 @@
             "de": "Morgens weht ein eisiger Wind am Stadion. Die kühle Luft brennt in den Lungen, aber die klare Sicht auf die Berge entschädigt beim Radeln.\n\nMittags bietet die Sonne im Peristeri-Hain milde Wärme. Die kahlen Bäume lassen viel Licht auf die Radwege fallen.\n\nNachmittags geht es zügig zur Kirche und zum belebten Rathausplatz. Die tiefstehende Sonne kann beim Fahren blenden.\n\nAbends kühlt es schnell ab, während wir am Kulturzentrum vorbeifahren. Das Licht des Sonnenuntergangs begleitet uns bis zum letzten Stopp im Park.",
             "hu": "Reggel jeges szél fúj a stadionnál. A hideg levegő csípi a tüdőt, de a tiszta kilátás a hegyekre kárpótol tekerés közben.\n\nDélben a Peristeri-ligetben a napsütés enyhe meleget ad. A kopasz ágak között sok fény jut a kerékpárutakra.\n\nDélután tempósan haladunk a templom és a Városháza felé. Az alacsonyan járó nap elvakíthat menet közben.\n\nEste gyorsan hűl a levegő, ahogy elhaladunk a kulturális központ mellett. A naplemente fényei elkísérnek az utolsó megállóig a parkban.",
             "ro": "Dimineața, un vânt înghețat bate la stadion. Aerul rece îți taie respirația, dar vizibilitatea clară spre munți merită efortul.\n\nLa prânz, soarele oferă o căldură blândă în Dumbrava Peristeri. Ramurile golașe lasă multă lumină pe pistele de biciclete.\n\nDupă-amiaza înaintăm rapid spre biserică și Piața Primăriei. Soarele de iarnă, jos pe cer, poate fi orbitor la condus.\n\nSeara, temperatura scade brusc trecând pe lângă centrul cultural. Lumina apusului ne însoțește până la ultimul stop în parc.",
-            "en": "Morning brings an icy wind at the stadium. The cold air stings your lungs, but the clear view of the mountains is worth the pedal.\n\nNoon finds the sun offering mild warmth in the Peristeri Grove. Bare branches let plenty of light reach the bike paths.\n\nAfternoon is a brisk ride toward the church and Town Hall Square. The low winter sun can be blinding while cycling.\n\nEvening air chills rapidly as we pass the cultural center. The sunset glow accompanies us to the final stop in the park."
+            "en": "Morning brings an icy wind at the stadium. The cold air stings your lungs, but the clear view of the mountains is worth the pedal.\n\nNoon finds the sun offering mild warmth in the Peristeri Grove. Bare branches let plenty of light reach the bike paths.\n\nAfternoon is a brisk ride toward the church and Town Hall Square. The low winter sun can be blinding while cycling.\n\nEvening air chills rapidly as we pass the cultural center. The sunset glow accompanies us to the final stop in the park.",
+            "el": "Το πρωί φέρνει παγωμένο αέρα στο στάδιο. Ο κρύος αέρας τσιμπά τους πνεύμονές σας, αλλά η καθαρή θέα των βουνών αξίζει το πετάλι.\n\nΤο μεσημέρι ο ήλιος χαρίζει λίγη ζεστασιά στο Άλσος Περιστερίου. Τα γυμνά κλαδιά αφήνουν αρκετό φως να φτάσει στα ποδηλατοδρόμια.\n\nΤο απόγευμα είναι μια ζωηρή βόλτα προς την εκκλησία και την Πλατεία Δημαρχείου. Ο χαμηλός χειμερινός ήλιος μπορεί να είναι εκτυφλωτικός κατά την ποδηλασία.\n\nΤο βράδυ ο αέρας ψύχεται γρήγορα καθώς περνάμε το πολιτιστικό κέντρο. Η λάμψη του ηλιοβασιλέματος μας συνοδεύει μέχρι το τελικό σημείο στο πάρκο."
           },
           "stops": [
             {
@@ -1081,7 +1166,8 @@
                 "de": "Wärmen Sie Ihre Muskeln vor der Abfahrt gut auf.",
                 "hu": "Indulás előtt érdemes alaposan bemelegíteni az izmokat.",
                 "ro": "Încălziți-vă bine mușchii înainte de a porni la drum.",
-                "en": "Warm up your muscles properly before starting your ride."
+                "en": "Warm up your muscles properly before starting your ride.",
+                "el": "Ζεστάνετε σωστά τους μύες πριν ξεκινήσετε το πετάλι."
               }
             },
             {
@@ -1090,7 +1176,8 @@
                 "de": "Genießen Sie die weite Sicht durch die lichten Bäume.",
                 "hu": "Élvezd a tiszta kilátást a ritkásabb lombozat között.",
                 "ro": "Bucurați-vă de vizibilitatea mare printre copacii rari.",
-                "en": "Enjoy the long views through the thinner winter foliage."
+                "en": "Enjoy the long views through the thinner winter foliage.",
+                "el": "Απολαύστε τις μακρινές όψεις μέσα από την πιο αραιή χειμερινή φυλλωσιά."
               }
             },
             {
@@ -1099,7 +1186,8 @@
                 "de": "Vermeiden Sie langes Stehenbleiben im Wind.",
                 "hu": "Ne állj meg sokáig a szeles nyitott tereken.",
                 "ro": "Nu staționați prea mult în zonele expuse vântului.",
-                "en": "Avoid standing still for too long in windy areas."
+                "en": "Avoid standing still for too long in windy areas.",
+                "el": "Αποφύγετε να στέκεστε ακίνητοι για πολύ ώρα σε ανεμώδη σημεία."
               }
             },
             {
@@ -1108,7 +1196,8 @@
                 "de": "Parken Sie das Rad an einem sonnigen Platz.",
                 "hu": "Igyekezz napos helyen hagyni a kerékpárt a pihenő alatt.",
                 "ro": "Încercați să parcați bicicleta într-un loc însorit.",
-                "en": "Try to park your bike in a sunny spot during your break."
+                "en": "Try to park your bike in a sunny spot during your break.",
+                "el": "Προσπαθήστε να παρκάρετε το ποδήλατό σας σε ηλιόλουστο σημείο κατά το διάλειμμα."
               }
             },
             {
@@ -1117,7 +1206,8 @@
                 "de": "Im Inneren können Sie sich kurz aufwärmen.",
                 "hu": "Az épületbe belépve tarthatsz egy rövid melegedő szünetet.",
                 "ro": "Puteți intra scurt pentru a vă încălzi puțin.",
-                "en": "Step inside for a few minutes to warm up your hands."
+                "en": "Step inside for a few minutes to warm up your hands.",
+                "el": "Μπείτε μέσα για λίγα λεπτά να ζεστάνετε τα χέρια σας."
               }
             },
             {
@@ -1126,7 +1216,8 @@
                 "de": "Die offene Fläche kann im Winter sehr zugig sein.",
                 "hu": "A nyílt ipari terület télen nagyon huzatos lehet.",
                 "ro": "Zona industrială deschisă poate fi foarte expusă vântului.",
-                "en": "The open industrial area can be very drafty in winter."
+                "en": "The open industrial area can be very drafty in winter.",
+                "el": "Η ανοικτή βιομηχανική περιοχή μπορεί να είναι πολύ ψυχρή τον χειμώνα."
               }
             },
             {
@@ -1135,7 +1226,8 @@
                 "de": "Beeilen Sie sich, bevor das Licht ganz verschwindet.",
                 "hu": "Igyekezz, mielőtt a naplemente után teljesen lehűl az idő.",
                 "ro": "Grăbiți-vă înainte ca lumina să dispară complet.",
-                "en": "Be quick before the light fades and it gets too cold."
+                "en": "Be quick before the light fades and it gets too cold.",
+                "el": "Γίνετε γρήγοροι πριν σβήσει το φως και κάνει πολύ κρύο."
               }
             }
           ],
@@ -1163,6 +1255,12 @@
               "Sunglasses are essential against the low, blinding winter sun.",
               "Use bike paths, as they are often less crowded in winter.",
               "Insulate your water bottle to keep the liquid from getting ice cold."
+            ],
+            "el": [
+              "Φορέστε γάντια, καθώς τα δάχτυλα παγώνουν γρήγορα από το αίσθημα ανεμισμού.",
+              "Τα γυαλιά ηλίου είναι απαραίτητα απέναντι στον χαμηλό, εκτυφλωτικό χειμερινό ήλιο.",
+              "Χρησιμοποιήστε ποδηλατόδρομους, καθώς είναι συχνά λιγότερο γεμάτοι το χειμώνα.",
+              "Μονώστε το παγούρι σας για να μην παγώσει το υγρό."
             ]
           }
         }
@@ -1181,7 +1279,8 @@
             "de": "Cluster 1: Rathausplatz",
             "hu": "1. klaszter: Városháza tér",
             "ro": "Cluster 1: Piața Primăriei",
-            "en": "Cluster 1: Town Hall Square"
+            "en": "Cluster 1: Town Hall Square",
+            "el": "Συστάδα 1: Πλατεία Δημαρχείου"
           },
           "coords": [
             23.691,
@@ -1197,7 +1296,8 @@
             "de": "Parken Sie in der Nähe und beginnen Sie Ihren Rundgang im Herzen der Stadt.",
             "hu": "Parkoljon a közelben, és kezdje a sétát a város szívében.",
             "ro": "Parcați în apropiere și începeți turul pietonal în inima orașului.",
-            "en": "Park nearby and start your walking tour in the heart of the city."
+            "en": "Park nearby and start your walking tour in the heart of the city.",
+            "el": "Παρκάρετε κοντά και ξεκινήστε την περιπατητική σας ξενάγηση στην καρδιά της πόλης."
           }
         },
         {
@@ -1205,7 +1305,8 @@
             "de": "Fußgängerzone Ethnikis Antistasis",
             "hu": "Ethnikis Antistasis sétálóutca",
             "ro": "Zona Pietonală Ethnikis Antistasis",
-            "en": "Ethnikis Antistasis Pedestrian Zone"
+            "en": "Ethnikis Antistasis Pedestrian Zone",
+            "el": "Πεζόδρομος Εθνικής Αντιστάσεως"
           },
           "coords": [
             23.693,
@@ -1221,7 +1322,8 @@
             "de": "Ein kurzer Spaziergang vom Rathausplatz. Ideal zum Schaufensterbummel.",
             "hu": "Rövid séta a Városháza tértől. Ideális kirakatnézegetéshez.",
             "ro": "La o scurtă plimbare de Piața Primăriei. Ideal pentru a te uita la vitrine.",
-            "en": "A short walk from the Town Hall Square. Ideal for window shopping."
+            "en": "A short walk from the Town Hall Square. Ideal for window shopping.",
+            "el": "Λίγα βήματα από την Πλατεία Δημαρχείου. Ιδανικό για παράθυρο-ψώνια."
           }
         },
         {
@@ -1229,7 +1331,8 @@
             "de": "Kirche Agios Antonios",
             "hu": "Agios Antonios-templom",
             "ro": "Biserica Sfântul Antonie",
-            "en": "Church of Agios Antonios"
+            "en": "Church of Agios Antonios",
+            "el": "Εκκλησία Αγίου Αντωνίου"
           },
           "coords": [
             23.69,
@@ -1245,7 +1348,8 @@
             "de": "Erkunden Sie das spirituelle Zentrum des Viertels zu Fuß.",
             "hu": "Fedezze fel gyalog a negyed spirituális központját.",
             "ro": "Explorați pe jos centrul spiritual al cartierului.",
-            "en": "Explore the spiritual center of the neighborhood on foot."
+            "en": "Explore the spiritual center of the neighborhood on foot.",
+            "el": "Εξερευνήστε με τα πόδια το πνευματικό κέντρο της γειτονιάς."
           }
         },
         {
@@ -1253,7 +1357,8 @@
             "de": "Cluster 2: Ausstellungszentrum & Mittagessen",
             "hu": "2. klaszter: Kiállítási Központ és ebéd",
             "ro": "Cluster 2: Centrul Expozițional & Prânz",
-            "en": "Cluster 2: Exhibition Center & Lunch"
+            "en": "Cluster 2: Exhibition Center & Lunch",
+            "el": "Σμήνος 2: Κέντρο Εκθέσεων & Γεύμα"
           },
           "coords": [
             23.685,
@@ -1269,7 +1374,8 @@
             "de": "Fahren Sie zum nächsten Cluster. Parken, das Zentrum besichtigen und dann zu Mittag essen.",
             "hu": "Hajtson a következő klaszterhez. Parkoljon, nézze meg a központot, majd ebédeljen.",
             "ro": "Conduceți la următorul cluster. Parcați, vizitați centrul și apoi luați prânzul.",
-            "en": "Drive to the next cluster. Park, visit the center, and then have lunch."
+            "en": "Drive to the next cluster. Park, visit the center, and then have lunch.",
+            "el": "Οδηγήστε στο επόμενο σμήνος. Σταθμεύστε, επισκεφτείτε το κέντρο και μετά γευματίστε."
           }
         },
         {
@@ -1277,7 +1383,8 @@
             "de": "Cluster 3: Hain von Peristeri",
             "hu": "3. klaszter: Periszteri-liget",
             "ro": "Cluster 3: Dumbrava din Peristeri",
-            "en": "Cluster 3: Peristeri Grove"
+            "en": "Cluster 3: Peristeri Grove",
+            "el": "Σμήνος 3: Άλσος Περιστερίου"
           },
           "coords": [
             23.698,
@@ -1293,7 +1400,8 @@
             "de": "Nehmen Sie das Auto für eine entspannte Zeit im größten Park der Stadt.",
             "hu": "Vigye magával az autót egy pihentető időtöltéshez a város legnagyobb parkjában.",
             "ro": "Luați mașina pentru o perioadă de relaxare în cel mai mare parc al orașului.",
-            "en": "Take the car for some relaxing time in the city's largest park."
+            "en": "Take the car for some relaxing time in the city's largest park.",
+            "el": "Πάρτε το αυτοκίνητο για χαλαρές στιγμές στο μεγαλύτερο πάρκο της πόλης."
           }
         },
         {
@@ -1301,7 +1409,8 @@
             "de": "Städtisches Stadion von Peristeri",
             "hu": "Periszteri Városi Stadion",
             "ro": "Stadionul Municipal din Peristeri",
-            "en": "Municipal Stadium of Peristeri"
+            "en": "Municipal Stadium of Peristeri",
+            "el": "Δημοτικό Στάδιο Περιστερίου"
           },
           "coords": [
             23.695,
@@ -1317,7 +1426,8 @@
             "de": "Vom Park aus ist es ein kurzer Spaziergang, um das Stadion von außen zu sehen.",
             "hu": "A parkból rövid sétával megtekinthető a stadion kívülről.",
             "ro": "De la parc, este o scurtă plimbare pentru a vedea stadionul din exterior.",
-            "en": "From the park, it's a short walk to see the stadium from the outside."
+            "en": "From the park, it's a short walk to see the stadium from the outside.",
+            "el": "Από το πάρκο είναι ένα μικρό περπάτημα για να δείτε το στάδιο εξωτερικά."
           }
         }
       ],
@@ -1325,7 +1435,8 @@
         "de": "Nutzen Sie Ihr Auto, um zwischen den Clustern von Peristeri zu wechseln. Beginnen Sie im zentralen Cluster um den Rathausplatz und erkunden Sie die belebten Straßen zu Fuß. Fahren Sie dann zum südlicheren Cluster für einen Einblick in die Industriegeschichte und ein gemütliches Mittagessen. Der Nachmittag ist für die grünen Lungen der Stadt reserviert: Fahren Sie zum Hain von Peristeri und beenden Sie Ihren Tag mit einem Spaziergang zum Stadion.",
         "hu": "Használja autóját a periszteri klaszterek közötti váltáshoz. Kezdje a központi klaszterben a Városháza tér körül, és fedezze fel gyalog a nyüzsgő utcákat. Ezután vezessen a délebbi klaszterbe, hogy bepillantást nyerjen az ipari történelembe és egy kellemes ebédet fogyasszon el. A délután a város zöld tüdejének van fenntartva: vezessen a Periszteri-ligetbe, és fejezze be a napot egy sétával a stadionhoz.",
         "ro": "Folosiți-vă mașina pentru a vă deplasa între clusterele din Peristeri. Începeți în clusterul central din jurul Pieței Primăriei și explorați străzile aglomerate pe jos. Apoi, conduceți spre clusterul sudic pentru o incursiune în istoria industrială și un prânz pe îndelete. După-amiaza este rezervată pentru plămânii verzi ai orașului: conduceți spre Dumbrava din Peristeri și încheiați-vă ziua cu o plimbare până la stadion.",
-        "en": "Use your car to switch between Peristeri's clusters. Start in the central cluster around the Town Hall Square and explore the bustling streets on foot. Then, drive to the southern cluster for a glimpse into industrial history and a leisurely lunch. The afternoon is reserved for the city's green lungs: drive to the Peristeri Grove and end your day with a walk to the stadium."
+        "en": "Use your car to switch between Peristeri's clusters. Start in the central cluster around the Town Hall Square and explore the bustling streets on foot. Then, drive to the southern cluster for a glimpse into industrial history and a leisurely lunch. The afternoon is reserved for the city's green lungs: drive to the Peristeri Grove and end your day with a walk to the stadium.",
+        "el": "Χρησιμοποιήστε το αυτοκίνητο για να μετακινηθείτε μεταξύ των σμηνών του Περιστερίου. Ξεκινήστε στο κεντρικό σμήνος γύρω από την Πλατεία Δημαρχείου και εξερευνήστε τους ζωντανούς δρόμους πεζή. Έπειτα, οδηγήστε στο νότιο σμήνος για μια ματιά στην βιομηχανική ιστορία και ένα άνετο γεύμα. Το απόγευμα είναι αφιερωμένο στους «πνεύμονες» πρασίνου της πόλης: οδηγήστε στο Άλσος Περιστερίου και τελειώστε τη μέρα με έναν περίπατο προς το στάδιο."
       },
       "gastro_picks": {
         "de": [
@@ -1501,6 +1612,12 @@
           "Pay attention to one-way streets and the often heavy traffic.",
           "A GPS is essential for navigating the winding streets.",
           "The flexibility of a car allows you to discover lesser-known corners as well."
+        ],
+        "el": [
+          "Η στάθμευση μπορεί να είναι πρόκληση στο κέντρο. Αναζητήστε ιδιωτικά πληρωμένα πάρκινγκ.",
+          "Δώστε προσοχή στους μονόδρομους και στην συχνά έντονη κυκλοφορία.",
+          "Ένα GPS είναι απαραίτητο για την πλοήγηση στους στριφογυριστούς δρόμους.",
+          "Η ευελιξία του αυτοκινήτου σας επιτρέπει να ανακαλύψετε και λιγότερο γνωστές γωνιές."
         ]
       },
       "variants": {
@@ -1509,7 +1626,8 @@
             "de": "Morgens bahnen wir uns den Weg durch den dichten Verkehr am Rathausplatz. Die Scheibenwischer ziehen rhythmisch ihre Kreise durch den Regen.\n\nMittags bietet die Fahrt zum Ausstellungszentrum einen trockenen Rückzugsort. Der Blick aus dem Autofenster auf die nassen Straßen wirkt fast gemütlich.\n\nNachmittags parken wir am Peristeri-Hain. Der kurze Sprint vom Auto unter das dichte Blätterdach ist die einzige Zeit, in der man nass wird.\n\nAbends leuchten die Rücklichter der Autos im Stadionviertel wie rote Perlenketten. Die warme Heizung macht die Fahrt zur Taverne sehr angenehm.",
             "hu": "Reggel a Városháza környéki sűrű forgalomban haladunk. Az ablaktörlők ritmikus kattogása kíséri az esős utazást.\n\nDélben a kiállítási központ felé tartva az autó száraz menedéket nyújt. A vizes utcák látványa az ablakból nézve szinte megnyugtató.\n\nDélután a Peristeri-ligetnél parkolunk le. Csak az a pár lépés az autó és a fák védelme között jelent némi ázást.\n\nEste a stadion környékén piros gyöngysorként kígyóznak a féklámpák. A fűtött utastérben kényelmesen érkezünk meg a tavernához.",
             "ro": "Dimineața ne croim drum prin traficul dens de lângă Primărie. Ștergătoarele bat ritmic în timp ce ploaia curge pe parbriz.\n\nLa prânz, drumul spre centrul expozițional oferă un refugiu uscat. Privitul străzilor ude din interiorul mașinii este aproape relaxant.\n\nDupă-amiaza parcăm la Dumbrava Peristeri. Scurtul sprint de la mașină sub coronamentul des al copacilor este singurul moment de umezeală.\n\nSeara, stopurile mașinilor din zona stadionului strălucesc ca niște mărgele roșii. Căldura din mașină face drumul spre tavernă foarte plăcut.",
-            "en": "Morning finds us navigating the heavy traffic near Town Hall Square. Windshield wipers swing rhythmically through the persistent rain.\n\nNoon provides a dry sanctuary as we drive toward the exhibition center. Watching the wet streets through the glass is almost cozy.\n\nAfternoon takes us to the Peristeri Grove parking. The quick dash from the car to the tree canopy is the only time you'll get wet.\n\nEvening arrives with tail lights in the stadium district glowing like red pearls. The car's heater makes the trip to the taverna very comfortable."
+            "en": "Morning finds us navigating the heavy traffic near Town Hall Square. Windshield wipers swing rhythmically through the persistent rain.\n\nNoon provides a dry sanctuary as we drive toward the exhibition center. Watching the wet streets through the glass is almost cozy.\n\nAfternoon takes us to the Peristeri Grove parking. The quick dash from the car to the tree canopy is the only time you'll get wet.\n\nEvening arrives with tail lights in the stadium district glowing like red pearls. The car's heater makes the trip to the taverna very comfortable.",
+            "el": "Το πρωί βρισκόμαστε να κινούμαστε στην πυκνή κίνηση κοντά στην Πλατεία Δημαρχείου. Οι υαλοκαθαριστήρες κινούνται ρυθμικά μέσα στη διαρκή βροχή.\n\nΤο μεσημέρι προσφέρει μια ξηρή όαση καθώς οδηγούμε προς το κέντρο εκθέσεων. Το θέαμα των βρεγμένων δρόμων μέσα από το τζάμι είναι σχεδόν ζεστό και παρηγορητικό.\n\nΤο απόγευμα μας βρίσκει στο πάρκινγκ του Άλσους Περιστερίου. Ο σύντομος δρόμος από το αυτοκίνητο μέχρι την κόμη των δέντρων είναι η μόνη στιγμή που θα βραχείτε.\n\nΤο βράδυ φτάνει με τα φώτα των φαναριών στην περιοχή του σταδίου να λάμπουν σαν κόκκινες πέρλες. Το καλοριφέρ του αυτοκινήτου κάνει τη διαδρομή προς την ταβέρνα πολύ άνετη."
           },
           "stops": [
             {
@@ -1518,7 +1636,8 @@
                 "de": "Nutzen Sie die Tiefgaragen, um trocken ins Zentrum zu gelangen.",
                 "hu": "Használd a mélygarázsokat, hogy szárazon juss a központba.",
                 "ro": "Folosiți parcările subterane pentru a ajunge uscat în centru.",
-                "en": "Use underground parking to reach the center while staying dry."
+                "en": "Use underground parking to reach the center while staying dry.",
+                "el": "Χρησιμοποιήστε υπόγειο πάρκινγκ για να φτάσετε στο κέντρο μένοντας στεγνοί."
               }
             },
             {
@@ -1527,7 +1646,8 @@
                 "de": "Parken Sie in den Seitenstraßen mit direktem Zugang zu den Arkaden.",
                 "hu": "Parkolj a mellékutcákban, közel az üzletsorok fedett részeihez.",
                 "ro": "Parcați pe străzile secundare cu acces rapid la arcade.",
-                "en": "Park in side streets with quick access to the shop arcades."
+                "en": "Park in side streets with quick access to the shop arcades.",
+                "el": "Σταθμεύστε σε παράπλευρους δρόμους με γρήγορη πρόσβαση στις στοές των καταστημάτων."
               }
             },
             {
@@ -1536,7 +1656,8 @@
                 "de": "Es gibt begrenzte Parkmöglichkeiten direkt vor dem Eingang.",
                 "hu": "Közvetlenül a bejárat előtt korlátozott számú parkolóhely van.",
                 "ro": "Există locuri de parcare limitate chiar în fața intrării.",
-                "en": "There is limited parking directly in front of the entrance."
+                "en": "There is limited parking directly in front of the entrance.",
+                "el": "Υπάρχει περιορισμένος χώρος στάθμευσης ακριβώς μπροστά από την είσοδο."
               }
             },
             {
@@ -1545,7 +1666,8 @@
                 "de": "Der große Parkplatz ist bei Regen oft matschig; Vorsicht beim Aussteigen.",
                 "hu": "A nagy parkoló esőben sáros lehet; vigyázz kiszálláskor.",
                 "ro": "Parcarea mare poate fi noroioasă; atenție la coborâre.",
-                "en": "The large parking lot can be muddy in the rain; watch your step."
+                "en": "The large parking lot can be muddy in the rain; watch your step.",
+                "el": "Το μεγάλο πάρκινγκ μπορεί να γίνει λασπώδες στη βροχή· προσέξτε το βήμα σας."
               }
             },
             {
@@ -1554,7 +1676,8 @@
                 "de": "Suchen Sie einen Parkplatz unter den hohen Pinien.",
                 "hu": "Keress parkolóhelyet a magas fenyőfák védelmében.",
                 "ro": "Căutați un loc de parcare sub pinii înalți.",
-                "en": "Look for a parking spot under the tall pine trees for extra cover."
+                "en": "Look for a parking spot under the tall pine trees for extra cover.",
+                "el": "Ψάξτε θέση στάθμευσης κάτω από τα ψηλά πεύκα για επιπλέον κάλυψη."
               }
             },
             {
@@ -1563,7 +1686,8 @@
                 "de": "Bleiben Sie bei starkem Regen im Auto, bis der Schauer nachlässt.",
                 "hu": "Heves esőben várd meg az autóban, amíg alábbhagy a zápor.",
                 "ro": "Așteptați în mașină până când aversa se mai potolește.",
-                "en": "Wait in the car until the heavy downpour eases up."
+                "en": "Wait in the car until the heavy downpour eases up.",
+                "el": "Περιστρέψτε στο αυτοκίνητο μέχρι να κοπάσει η δυνατή μπόρα."
               }
             }
           ],
@@ -1591,6 +1715,12 @@
               "Check your wiper blades to ensure clear visibility.",
               "Be aware that fogged windows can reduce visibility inside the cabin.",
               "Parking spots near shopping areas fill up instantly when it rains."
+            ],
+            "el": [
+              "Περιμένετε σημαντικά μποτιλιαρίσματα μόλις αρχίσει να βρέχει στην Αθήνα.",
+              "Ελέγξτε τους υαλοκαθαριστήρες σας για να εξασφαλίσετε καθαρή ορατότητα.",
+              "Να γνωρίζετε ότι τα θολωμένα παράθυρα μπορούν να μειώσουν την ορατότητα μέσα στην καμπίνα.",
+              "Οι θέσεις στάθμευσης κοντά σε εμπορικές ζώνες γεμίζουν αμέσως όταν βρέχει."
             ]
           }
         },
@@ -1599,7 +1729,8 @@
             "de": "Morgens braucht der Motor am Rathausplatz einen Moment zum Aufwärmen. Die klare Winterluft macht die Sicht durch die Windschutzscheibe kristallklar.\n\nMittags genießen wir die Fahrt durch das belebte Viertel. Die Wintersonne wärmt das Auto angenehm auf, auch wenn es draußen kühl ist.\n\nNachmittags am Peristeri-Hain ist das Parken einfach. Die kahlen Äste der Bäume lassen das tiefe Sonnenlicht bis auf das Autodach fallen.\n\nAbends leuchten die Lichter des Stadions hell gegen den dunklen Winterhimmel. Die Fahrt zur Taverne ist kurz und dank der Heizung sehr behaglich.",
             "hu": "Reggel a Városházánál a motornak kell egy kis idő a bemelegedéshez. A hideg, tiszta téli levegőben a kilátás a szélvédőn át kristálytiszta.\n\nDélben a nyüzsgő negyeden át autózva élvezzük a napsütést. A téli nap kellemesen felmelegíti az utasteret, hiába van kint hűvös.\n\nDélután a Peristeri-ligetnél könnyű a parkolás. A kopasz ágak között az alacsonyan járó nap fénye egészen az autóig elér.\n\nEste a stadion fényei élesen ragyognak a sötét téli égen. A tavernához vezető út rövid és a fűtésnek köszönhetően nagyon kényelmes.",
             "ro": "Dimineața, motorul de lângă Primărie are nevoie de un moment pentru a se încălzi. Aerul rece de iarnă face vizibilitatea prin parbriz perfectă.\n\nLa prânz, conducem prin cartierul plin de viață bucurându-ne de soare. Razele de iarnă încălzesc plăcut interiorul mașinii.\n\nDupă-amiaza la Dumbrava Peristeri parcarea este facilă. Ramurile golașe lasă lumina soarelui să cadă direct pe plafonul mașinii.\n\nSeara, luminile stadionului strălucesc puternic pe cerul negru de iarnă. Drumul spre tavernă este scurt și foarte confortabil datorită căldurii.",
-            "en": "Morning near Town Hall requires a moment for the engine to warm up. The crisp winter air makes the view through the windshield crystal clear.\n\nNoon finds us cruising through the lively district. The winter sun warms the car interior nicely despite the outside chill.\n\nAfternoon parking at the Peristeri Grove is easy. The bare tree branches allow the low sun to reach right down to the car roof.\n\nEvening sees the stadium lights glowing brightly against the dark winter sky. The drive to the taverna is short and cozy with the heater on."
+            "en": "Morning near Town Hall requires a moment for the engine to warm up. The crisp winter air makes the view through the windshield crystal clear.\n\nNoon finds us cruising through the lively district. The winter sun warms the car interior nicely despite the outside chill.\n\nAfternoon parking at the Peristeri Grove is easy. The bare tree branches allow the low sun to reach right down to the car roof.\n\nEvening sees the stadium lights glowing brightly against the dark winter sky. The drive to the taverna is short and cozy with the heater on.",
+            "el": "Το πρωί κοντά στο Δημαρχείο απαιτεί λίγο χρόνο για να ζεσταθεί ο κινητήρας. Ο δροσερός χειμωνιάτικος αέρας κάνει την όψη μέσα από το παρμπρίζ πεντακάθαρη.\n\nΤο μεσημέρι διασχίζουμε τη ζωντανή συνοικία. Ο χειμωνιάτικος ήλιος ζεσταίνει ευχάριστα την καμπίνα παρά το κρύο έξω.\n\nΤο απόγευμα η στάθμευση στο Άλσος Περιστερίου είναι εύκολη. Τα γυμνά κλαδιά των δέντρων αφήνουν τον χαμηλό ήλιο να φτάνει μέχρι την οροφή του αυτοκινήτου.\n\nΤο βράδυ τα φώτα του σταδίου λάμπουν έντονα πάνω από τον σκοτεινό χειμωνιάτικο ουρανό. Η διαδρομή προς την ταβέρνα είναι σύντομη και ζεστή με το καλοριφέρ αναμμένο."
           },
           "stops": [
             {
@@ -1608,7 +1739,8 @@
                 "de": "Stellen Sie die Lüftung auf die Windschutzscheibe gegen Beschlagen.",
                 "hu": "Állítsd a szellőzést a szélvédőre a páramentesítéshez.",
                 "ro": "Direcționați ventilația spre parbriz pentru a preveni aburirea.",
-                "en": "Set the ventilation to the windshield to prevent fogging."
+                "en": "Set the ventilation to the windshield to prevent fogging.",
+                "el": "Ρυθμίστε τον αερισμό προς το παρμπρίζ για να αποφύγετε τη θόλωση."
               }
             },
             {
@@ -1617,7 +1749,8 @@
                 "de": "Parken Sie an sonnigen Stellen, um das Auto natürlich aufzuwärmen.",
                 "hu": "Parkolj napos helyen, hogy a nap ingyen felmelegítse az utasteret.",
                 "ro": "Parcați la soare pentru a încălzi natural interiorul mașinii.",
-                "en": "Park in sunny spots to let the sun warm up the cabin naturally."
+                "en": "Park in sunny spots to let the sun warm up the cabin naturally.",
+                "el": "Σταθμεύστε σε ηλιόλουστα σημεία για να ζεσταθεί φυσικά η καμπίνα."
               }
             },
             {
@@ -1626,7 +1759,8 @@
                 "de": "Lassen Sie keine Wertsachen sichtbar im Auto liegen.",
                 "hu": "Ne hagyj értéket látható helyen az autóban a látogatás alatt.",
                 "ro": "Nu lăsați obiecte de valoare la vedere în mașină.",
-                "en": "Do not leave any valuables visible in the car during your visit."
+                "en": "Do not leave any valuables visible in the car during your visit.",
+                "el": "Μην αφήνετε πολύτιμα αντικείμενα ορατά στο αυτοκίνητο κατά την επίσκεψή σας."
               }
             },
             {
@@ -1635,7 +1769,8 @@
                 "de": "Prüfen Sie den Reifendruck, der bei Kälte leicht sinken kann.",
                 "hu": "Ellenőrizd a guminyomást, mert a hidegben csökkenhet.",
                 "ro": "Verificați presiunea în pneuri, poate scădea din cauza frigului.",
-                "en": "Check your tire pressure, as it can drop in colder weather."
+                "en": "Check your tire pressure, as it can drop in colder weather.",
+                "el": "Ελέγξτε την πίεση των ελαστικών, καθώς μπορεί να πέσει σε πιο κρύες θερμοκρασίες."
               }
             },
             {
@@ -1644,7 +1779,8 @@
                 "de": "Nutzen Sie den Schatten der Bäume nur, wenn es sehr sonnig ist.",
                 "hu": "Csak akkor parkolj az árnyékba, ha zavar a közvetlen napsütés.",
                 "ro": "Parcați la umbră doar dacă soarele este prea puternic.",
-                "en": "Only park in the shade if the direct sun is too strong for you."
+                "en": "Only park in the shade if the direct sun is too strong for you.",
+                "el": "Σταθμεύστε στη σκιά μόνο αν ο ήλιος είναι υπερβολικά δυνατός για εσάς."
               }
             },
             {
@@ -1653,7 +1789,8 @@
                 "de": "Schalten Sie das Licht frühzeitig ein, wenn die Dämmerung beginnt.",
                 "hu": "Kapcsold fel időben a lámpákat, amint sötétedni kezd.",
                 "ro": "Aprindeți luminile din timp imediat ce începe să se însereze.",
-                "en": "Turn on your lights early as the winter twilight sets in."
+                "en": "Turn on your lights early as the winter twilight sets in.",
+                "el": "Ανάψτε τα φώτα νωρίς καθώς πέφτει ο χειμωνιάτικος λυκόφως."
               }
             }
           ],
@@ -1681,6 +1818,12 @@
               "Car batteries can struggle in the cold; check the charge level.",
               "Watch for increased pedestrian activity near shopping zones.",
               "Use parking garages to avoid the cold wind when getting in and out."
+            ],
+            "el": [
+              "Βεβαιωθείτε ότι το υγρό του πλυστικού παρμπρίζ έχει αντιψυκτική προστασία.",
+              "Οι μπαταρίες αυτοκινήτου δυσκολεύονται στο κρύο· ελέγξτε το επίπεδο φόρτισης.",
+              "Προσέξτε την αυξημένη δραστηριότητα πεζών κοντά στις εμπορικές ζώνες.",
+              "Χρησιμοποιήστε γκαράζ στάθμευσης για να αποφύγετε τον κρύο αέρα όταν ανεβαίνετε και κατεβαίνετε από το αυτοκίνητο."
             ]
           }
         }
@@ -1699,7 +1842,8 @@
             "de": "Cluster 1: Ankunft am Rathausplatz",
             "hu": "1. klaszter: Érkezés a Városháza térre",
             "ro": "Cluster 1: Sosire în Piața Primăriei",
-            "en": "Cluster 1: Arrival at Town Hall Square"
+            "en": "Cluster 1: Arrival at Town Hall Square",
+            "el": "Σμήνος 1: Άφιξη στην Πλατεία Δημαρχείου"
           },
           "coords": [
             23.691,
@@ -1715,7 +1859,8 @@
             "de": "Nehmen Sie die Metro oder einen Bus ins Zentrum und starten Sie hier.",
             "hu": "Menjen metróval vagy busszal a központba, és innen induljon.",
             "ro": "Luați metroul sau un autobuz spre centru și începeți de aici.",
-            "en": "Take the metro or a bus to the center and start from here."
+            "en": "Take the metro or a bus to the center and start from here.",
+            "el": "Πάρτε το μετρό ή ένα λεωφορείο προς το κέντρο και ξεκινήστε από εδώ."
           }
         },
         {
@@ -1723,7 +1868,8 @@
             "de": "Fußgängerzone Ethnikis Antistasis",
             "hu": "Ethnikis Antistasis sétálóutca",
             "ro": "Zona Pietonală Ethnikis Antistasis",
-            "en": "Ethnikis Antistasis Pedestrian Zone"
+            "en": "Ethnikis Antistasis Pedestrian Zone",
+            "el": "Πεζόδρομος Εθνικής Αντίστασης"
           },
           "coords": [
             23.693,
@@ -1739,7 +1885,8 @@
             "de": "Alles in diesem Cluster ist leicht zu Fuß erreichbar.",
             "hu": "Ebben a klaszterben minden könnyen megközelíthető gyalog.",
             "ro": "Totul în acest cluster este ușor accesibil pe jos.",
-            "en": "Everything in this cluster is easily accessible on foot."
+            "en": "Everything in this cluster is easily accessible on foot.",
+            "el": "Όλα σε αυτό το σμήνος είναι εύκολα προσβάσιμα με τα πόδια."
           }
         },
         {
@@ -1747,7 +1894,8 @@
             "de": "Kirche Agios Antonios",
             "hu": "Agios Antonios-templom",
             "ro": "Biserica Sfântul Antonie",
-            "en": "Church of Agios Antonios"
+            "en": "Church of Agios Antonios",
+            "el": "Εκκλησία Αγίου Αντωνίου"
           },
           "coords": [
             23.69,
@@ -1763,7 +1911,8 @@
             "de": "Ein Ort der Ruhe inmitten der Stadt, nur einen kurzen Spaziergang entfernt.",
             "hu": "A béke szigete a város közepén, csak egy rövid séta.",
             "ro": "Un loc de liniște în mijlocul orașului, la doar o scurtă plimbare.",
-            "en": "A place of tranquility in the middle of the city, just a short walk away."
+            "en": "A place of tranquility in the middle of the city, just a short walk away.",
+            "el": "Ένας τόπος γαλήνης στο κέντρο της πόλης, μόλις λίγα βήματα μακριά."
           }
         },
         {
@@ -1771,7 +1920,8 @@
             "de": "Mittagessen",
             "hu": "Ebéd",
             "ro": "Prânz",
-            "en": "Lunch"
+            "en": "Lunch",
+            "el": "Γεύμα"
           },
           "coords": [
             23.689,
@@ -1787,7 +1937,8 @@
             "de": "Zahlreiche Optionen rund um die zentrale Haltestelle.",
             "hu": "Számos lehetőség a központi megálló körül.",
             "ro": "Numeroase opțiuni în jurul stației centrale.",
-            "en": "Numerous options around the central stop."
+            "en": "Numerous options around the central stop.",
+            "el": "Πολλές επιλογές γύρω από την κεντρική στάση."
           }
         },
         {
@@ -1795,7 +1946,8 @@
             "de": "Cluster 2: Hain von Peristeri",
             "hu": "2. klaszter: Periszteri-liget",
             "ro": "Cluster 2: Dumbrava din Peristeri",
-            "en": "Cluster 2: Peristeri Grove"
+            "en": "Cluster 2: Peristeri Grove",
+            "el": "Σμήνος 2: Άλσος Περιστερίου"
           },
           "coords": [
             23.698,
@@ -1811,7 +1963,8 @@
             "de": "Nehmen Sie einen Bus für ein paar Stationen zum größten Park der Stadt.",
             "hu": "Menjen busszal néhány megállót a város legnagyobb parkjába.",
             "ro": "Luați un autobuz pentru câteva stații până la cel mai mare parc al orașului.",
-            "en": "Take a bus for a few stops to the city's largest park."
+            "en": "Take a bus for a few stops to the city's largest park.",
+            "el": "Πάρτε ένα λεωφορείο για λίγες στάσεις προς το μεγαλύτερο πάρκο της πόλης."
           }
         },
         {
@@ -1819,7 +1972,8 @@
             "de": "Städtisches Stadion von Peristeri",
             "hu": "Periszteri Városi Stadion",
             "ro": "Stadionul Municipal din Peristeri",
-            "en": "Municipal Stadium of Peristeri"
+            "en": "Municipal Stadium of Peristeri",
+            "el": "Δημοτικό Στάδιο Περιστερίου"
           },
           "coords": [
             23.695,
@@ -1835,7 +1989,8 @@
             "de": "Vom Park aus leicht zu Fuß zu erreichen.",
             "hu": "A parkból könnyen megközelíthető gyalog.",
             "ro": "Ușor de accesat pe jos din parc.",
-            "en": "Easily accessible on foot from the park."
+            "en": "Easily accessible on foot from the park.",
+            "el": "Εύκολα προσβάσιμο πεζή από το πάρκο."
           }
         },
         {
@@ -1843,7 +1998,8 @@
             "de": "Cluster 3: Park des Friedens & der Freundschaft",
             "hu": "3. klaszter: Béke és Barátság Park",
             "ro": "Cluster 3: Parcul Păcii și Prieteniei",
-            "en": "Cluster 3: Park of Peace and Friendship"
+            "en": "Cluster 3: Park of Peace and Friendship",
+            "el": "Σμήνος 3: Πάρκο Ειρήνης και Φιλίας"
           },
           "coords": [
             23.687,
@@ -1859,7 +2015,8 @@
             "de": "Eine letzte Busfahrt zu einem ruhigen Ort, um den Tag ausklingen zu lassen.",
             "hu": "Egy utolsó buszút egy csendes helyre, ahol lezárhatja a napot.",
             "ro": "O ultimă călătorie cu autobuzul spre un loc liniștit pentru a încheia ziua.",
-            "en": "A final bus ride to a quiet place to end the day."
+            "en": "A final bus ride to a quiet place to end the day.",
+            "el": "Μια τελική διαδρομή με το λεωφορείο προς έναν ήσυχο χώρο για να κλείσετε τη μέρα."
           }
         }
       ],
@@ -1867,7 +2024,8 @@
         "de": "Peristeri lässt sich hervorragend mit öffentlichen Verkehrsmitteln erkunden. Starten Sie im Zentrum und entdecken Sie den ersten Cluster aus Plätzen und Kirchen zu Fuß. Eine kurze Busfahrt bringt Sie am Nachmittag in den grünen Norden zum Hain und Stadion. Beenden Sie Ihren Tag mit einer weiteren kurzen Fahrt zum ruhigen Park des Friedens und der Freundschaft, ein Beweis für die gute Anbindung der Stadt.",
         "hu": "Periszteri kiválóan felfedezhető tömegközlekedéssel. Kezdje a központban, és fedezze fel gyalog az első, terekből és templomokból álló klasztert. Egy rövid buszút elviszi délután a zöld északi részbe, a ligethez és a stadionhoz. Fejezze be a napot egy másik rövid úttal a csendes Béke és Barátság Parkba, amely a város jó közlekedési kapcsolatait bizonyítja.",
         "ro": "Peristeri este excelent de explorat cu transportul public. Începeți în centru și descoperiți pe jos primul cluster de piețe și biserici. O scurtă călătorie cu autobuzul vă va duce după-amiaza în nordul verde, la dumbravă și stadion. Încheiați-vă ziua cu o altă călătorie scurtă spre liniștitul Parc al Păcii și Prieteniei, o dovadă a bunei conectivități a orașului.",
-        "en": "Peristeri is excellent to explore by public transport. Start in the center and discover the first cluster of squares and churches on foot. A short bus ride will take you to the green north in the afternoon, to the grove and stadium. End your day with another short trip to the quiet Park of Peace and Friendship, a testament to the city's good connectivity."
+        "en": "Peristeri is excellent to explore by public transport. Start in the center and discover the first cluster of squares and churches on foot. A short bus ride will take you to the green north in the afternoon, to the grove and stadium. End your day with another short trip to the quiet Park of Peace and Friendship, a testament to the city's good connectivity.",
+        "el": "Το Περιστέρι είναι ιδανικό για εξερεύνηση με ΜΜΜ. Ξεκινήστε στο κέντρο και ανακαλύψτε το πρώτο σμήνος πλατειών και εκκλησιών πεζή. Μια σύντομη διαδρομή με λεωφορείο θα σας πάει στο βόρειο πράσινο το απόγευμα, στο άλσος και το στάδιο. Κλείστε τη μέρα με ακόμα ένα σύντομο ταξίδι προς το ήσυχο Πάρκο Ειρήνης και Φιλίας, που αποδεικνύει την καλή συνδεσιμότητα της πόλης."
       },
       "gastro_picks": {
         "de": [
@@ -2027,6 +2185,12 @@
           "Always validate your ticket to avoid fines.",
           "The Athens Metro also serves Peristeri and is often the fastest way to get around.",
           "Bus schedules can vary, a route planning app is helpful."
+        ],
+        "el": [
+          "Αγοράστε ημερήσιο ή πολυήμερο εισιτήριο ΜΜΜ για να εξοικονομήσετε χρήματα.",
+          "Πάντα επικυρώστε το εισιτήριό σας για να αποφύγετε πρόστιμα.",
+          "Το Μετρό της Αθήνας εξυπηρετεί επίσης το Περιστέρι και είναι συχνά ο ταχύτερος τρόπος μετακίνησης.",
+          "Τα δρομολόγια των λεωφορείων μπορεί να διαφέρουν· μια εφαρμογή σχεδιασμού διαδρομών βοηθάει."
         ]
       },
       "variants": {
@@ -2035,7 +2199,8 @@
             "de": "Morgens ist die Metrostation am Rathausplatz ein belebter, trockener Knotenpunkt. Der kurze Weg nach draußen führt direkt unter die schützenden Vordächer.\n\nMittags erreichen wir die Kirche Agios Antonios bequem per Bahn. Das Umsteigen klappt reibungslos, und die Stationen bieten Schutz vor dem Nieselregen.\n\nNachmittags am Peristeri-Hain nutzen wir den Bus. Die Fahrt durch die verregneten Straßen von Peristeri bietet tolle Einblicke in das lokale Leben.\n\nAbends leuchten die Lichter der Metrostation am Stadion warm einladend. Eine letzte kurze Fahrt bringt uns zur Taverne, während draußen der Regen fällt.",
             "hu": "Reggel a Városháza metrómegálló nyüzsgő, száraz csomópont. A felszínre érve egyből a kávézók védelmező előtetői alá érkezünk.\n\nDélben az Agios Antonios templomhoz kényelmesen, vonattal jutunk el. Az átszállás zökkenőmentes, a megállók pedig védenek a szemerkélő esőtől.\n\nDélután a Peristeri-ligetnél buszra szállunk. Az esős utcákon átgurulva bepillantást nyerünk a helyiek hétköznapi életébe.\n\nEste a stadion melletti metróállomás fényei hívogatóan világítanak. Egy utolsó rövid utazás a tavernához, miközben odakint kitartóan esik.",
             "ro": "Dimineața, stația de metrou de la Primărie este un nod aglomerat și uscat. Ieșirea la suprafață te duce direct sub copertinele protectoare.\n\nLa prânz, ajungem la biserica Agios Antonios confortabil cu metroul. Schimbările sunt rapide, iar stațiile oferă adăpost împotriva burniței.\n\nDupă-amiaza la Dumbrava Peristeri folosim autobuzul. Drumul prin străzile ploioase oferă o privire interesantă asupra vieții locale.\n\nSeara, luminile stației de metrou de lângă stadion strălucesc primitor. O ultimă călătorie scurtă spre tavernă în timp ce afară plouă.",
-            "en": "Morning finds the metro station at Town Hall a busy, dry hub. Stepping outside leads directly under protective shop awnings.\n\nNoon takes us to the Church of Agios Antonios easily by train. Transfers are smooth, and stations provide excellent cover from the drizzle.\n\nAfternoon at Peristeri Grove involves a local bus. Riding through the rainy streets of Peristeri offers a glimpse into authentic local life.\n\nEvening sees the metro station lights near the stadium glowing warmly. A final short ride takes us toward the taverna while rain falls outside."
+            "en": "Morning finds the metro station at Town Hall a busy, dry hub. Stepping outside leads directly under protective shop awnings.\n\nNoon takes us to the Church of Agios Antonios easily by train. Transfers are smooth, and stations provide excellent cover from the drizzle.\n\nAfternoon at Peristeri Grove involves a local bus. Riding through the rainy streets of Peristeri offers a glimpse into authentic local life.\n\nEvening sees the metro station lights near the stadium glowing warmly. A final short ride takes us toward the taverna while rain falls outside.",
+            "el": "Το πρωί ο σταθμός του μετρό στο Δημαρχείο είναι πολυσύχναστος και στεγνός. Βγαίνοντας βρίσκεστε αμέσως κάτω από προστατευτικά τέντες καταστημάτων.\n\nΤο μεσημέρι φτάνουμε στην Εκκλησία του Αγίου Αντωνίου εύκολα με το τρένο. Οι αλλαγές είναι ομαλές και οι σταθμοί προσφέρουν εξαιρετική κάλυψη από τη βροχή.\n\nΤο απόγευμα στο Άλσος Περιστερίου περιλαμβάνει μια τοπική λεωφορειακή διαδρομή. Το ταξίδι μέσα στους βρεγμένους δρόμους του Περιστερίου δίνει μια γεύση από την αυθεντική τοπική ζωή.\n\nΤο βράδυ τα φώτα του μετρό κοντά στο στάδιο λάμπουν ζεστά. Μια τελευταία μικρή διαδρομή μας φέρνει κοντά στην ταβέρνα ενώ έξω βρέχει."
           },
           "stops": [
             {
@@ -2044,7 +2209,8 @@
                 "de": "Die Metrostation Peristeri hat mehrere Ausgänge; nutzen Sie den nächsten.",
                 "hu": "A Peristeri metróállomásnak több kijárata van, válaszd a legközelebbit.",
                 "ro": "Stația de metrou Peristeri are mai multe ieșiri; folosiți-o pe cea mai apropiată.",
-                "en": "Peristeri metro station has multiple exits; use the closest one to the square."
+                "en": "Peristeri metro station has multiple exits; use the closest one to the square.",
+                "el": "Ο σταθμός μετρό Περιστερίου έχει πολλαπλές εξόδους· χρησιμοποιήστε την πιο κοντινή προς την πλατεία."
               }
             },
             {
@@ -2053,7 +2219,8 @@
                 "de": "In den Metro-Unterführungen können Sie sich kurz unterstellen.",
                 "hu": "A metróaluljárók kiválóak egy rövid eső elleni védekezésre.",
                 "ro": "Pasajele de la metrou sunt excelente pentru a vă adăposti scurt.",
-                "en": "Metro underpasses are great for a quick shelter from the rain."
+                "en": "Metro underpasses are great for a quick shelter from the rain.",
+                "el": "Υπόγειοι διάδρομοι μετρό είναι ιδανικοί για γρήγορη προστασία από τη βροχή."
               }
             },
             {
@@ -2062,7 +2229,8 @@
                 "de": "Die Station Agios Antonios liegt direkt neben der Kirche.",
                 "hu": "Az Agios Antonios megálló közvetlenül a templom mellett található.",
                 "ro": "Stația Agios Antonios este chiar lângă biserică.",
-                "en": "The Agios Antonios station is located right next to the church."
+                "en": "The Agios Antonios station is located right next to the church.",
+                "el": "Ο σταθμός Άγιος Αντώνιος βρίσκεται ακριβώς δίπλα στην εκκλησία."
               }
             },
             {
@@ -2071,7 +2239,8 @@
                 "de": "Warten Sie an der Bushaltestelle unter dem Wetterschutzdach.",
                 "hu": "Várj a buszmegálló fedett része alatt a következő járatra.",
                 "ro": "Așteptați sub copertina stației de autobuz pentru următorul transport.",
-                "en": "Wait under the bus stop shelter for your next connection."
+                "en": "Wait under the bus stop shelter for your next connection.",
+                "el": "Περιμένετε κάτω από την υπόστεγο στάση λεωφορείου για την επόμενη σύνδεση."
               }
             },
             {
@@ -2080,7 +2249,8 @@
                 "de": "Mehrere Buslinien halten direkt am Eingang des Parks.",
                 "hu": "Számos buszjárat áll meg közvetlenül a park bejáratánál.",
                 "ro": "Mai multe linii de autobuz opresc chiar la intrarea în parc.",
-                "en": "Several bus lines stop directly at the park entrance."
+                "en": "Several bus lines stop directly at the park entrance.",
+                "el": "Πολλές λεωφορειακές γραμμές σταματούν απευθείας στην είσοδο του πάρκου."
               }
             },
             {
@@ -2089,7 +2259,8 @@
                 "de": "Die Metro-Station ist nur einen kurzen, nassen Fußmarsch entfernt.",
                 "hu": "A metróállomás csak egy rövid, de vizes sétára van innen.",
                 "ro": "Stația de metrou este la doar o scurtă plimbare prin ploaie.",
-                "en": "The metro station is only a short, wet walk from here."
+                "en": "The metro station is only a short, wet walk from here.",
+                "el": "Ο σταθμός του μετρό είναι μόνο λίγα, βρεγμένα βήματα από εδώ."
               }
             },
             {
@@ -2098,7 +2269,8 @@
                 "de": "Prüfen Sie die Abfahrtszeiten per App, um Wartezeiten im Regen zu vermeiden.",
                 "hu": "Ellenőrizd az indulást appon, hogy ne ázz a megállóban.",
                 "ro": "Verificați orele de plecare în aplicație pentru a nu aștepta în ploaie.",
-                "en": "Check departure times via app to avoid waiting in the rain."
+                "en": "Check departure times via app to avoid waiting in the rain.",
+                "el": "Ελέγξτε τις ώρες αναχώρησης μέσω εφαρμογής για να αποφύγετε την αναμονή στη βροχή."
               }
             }
           ],
@@ -2126,6 +2298,12 @@
               "Be careful of slippery floors on buses due to wet footwear.",
               "Keep your umbrella closed and pointed downward while on the train.",
               "Use the OASA app for real-time updates if there are weather delays."
+            ],
+            "el": [
+              "Η Γραμμή 2 του Μετρό είναι ο πιο αξιόπιστος τρόπος μετακίνησης όταν βρέχει.",
+              "Προσέξτε τους ολισθηρούς δαπέδους στα λεωφορεία λόγω υγράς υπόδησης.",
+              "Κρατήστε την ομπρέλα σας κλειστή και προς τα κάτω ενώ είστε στο τρένο.",
+              "Χρησιμοποιήστε την εφαρμογή OASA για ενημερώσεις σε πραγματικό χρόνο σε περίπτωση καιρικών καθυστερήσεων."
             ]
           }
         },
@@ -2134,7 +2312,8 @@
             "de": "Morgens ist die Metrostation am Rathausplatz hell und warm beleuchtet. Die Fahrt in der geheizten Bahn ist ein angenehmer Start in den kühlen Tag.\n\nMittags steigen wir an der Station Agios Antonios aus. Die klare Winterluft ist beim Verlassen des Untergrunds sehr erfrischend.\n\nNachmittags nehmen wir den Bus zum Peristeri-Hain. Die tiefstehende Sonne strahlt durch die Fenster und wärmt die Fahrgäste.\n\nAbends leuchten die Lichter der Stadt durch die Scheiben der Metro. Wir erreichen unser Ziel für das Abendessen schnell und ohne in der Kälte warten zu müssen.",
             "hu": "Reggel a Városháza metrómegálló világos és kellemesen meleg. A fűtött kocsiban való utazás remek kezdete a hűvös napnak.\n\nDélben az Agios Antonios állomásnál szállunk ki. A tiszta téli levegő felfrissít, ahogy elhagyjuk az aluljárót.\n\nDélután busszal megyünk a Peristeri-ligetig. Az alacsonyan járó nap besüt az ablakokon, melengetve az utasokat.\n\nEste a város fényei ragyognak át a metró szerelvényeinek ablakain. Gyorsan megérkezünk a vacsorahelyszínre, anélkül, hogy sokat állnánk a hidegben.",
             "ro": "Dimineața, stația de metrou de la Primărie este luminoasă și plăcut încălzită. Călătoria cu metroul este un start excelent pentru o zi rece.\n\nLa prânz, coborâm la stația Agios Antonios. Aerul clar de iarnă este foarte revigorant la ieșirea din subteran.\n\nDupă-amiaza luăm autobuzul spre Dumbrava Peristeri. Soarele de iarnă strălucește prin ferestre, încălzind pasagerii.\n\nSeara, luminile orașului strălucesc prin geamurile metroului. Ajungem rapid la destinația pentru cină fără a sta prea mult în frig.",
-            "en": "Morning finds the metro station at Town Hall bright and pleasantly warm. Riding in a heated carriage is a great start to the chilly day.\n\nNoon takes us to Agios Antonios station. The crisp winter air is very refreshing as we emerge from the underground.\n\nAfternoon involves a bus ride to Peristeri Grove. The low sun streams through the windows, warming the passengers as we go.\n\nEvening sees city lights sparkling through the metro windows. We reach our dinner destination quickly without spending much time in the cold."
+            "en": "Morning finds the metro station at Town Hall bright and pleasantly warm. Riding in a heated carriage is a great start to the chilly day.\n\nNoon takes us to Agios Antonios station. The crisp winter air is very refreshing as we emerge from the underground.\n\nAfternoon involves a bus ride to Peristeri Grove. The low sun streams through the windows, warming the passengers as we go.\n\nEvening sees city lights sparkling through the metro windows. We reach our dinner destination quickly without spending much time in the cold.",
+            "el": "Το πρωί ο σταθμός μετρό στο Δημαρχείο είναι φωτεινός και ευχάριστα ζεστός. Το ταξίδι σε ένα θερμαινόμενο βαγόνι είναι ιδανικό ξεκίνημα για την παγωμένη μέρα.\n\nΤο μεσημέρι φτάνουμε στον σταθμό Άγιος Αντώνιος. Ο δροσερός χειμωνιάτικος αέρας είναι πολύ αναζωογονητικός καθώς βγαίνουμε από το υπόγειο.\n\nΤο απόγευμα περιλαμβάνει λεωφορειακή διαδρομή προς το Άλσος Περιστερίου. Ο χαμηλός ήλιος διαχέεται μέσω των παραθύρων, ζεσταίνοντας τους επιβάτες καθ' οδόν.\n\nΤο βράδυ τα φώτα της πόλης αστράφτουν μέσα από τα παράθυρα του μετρό. Φτάνουμε γρήγορα στον προορισμό μας για δείπνο χωρίς να μένουμε πολύ ώρα στο κρύο."
           },
           "stops": [
             {
@@ -2143,7 +2322,8 @@
                 "de": "In der Metrostation ist es deutlich wärmer als draußen.",
                 "hu": "A metróállomáson jóval melegebb van, mint kint a felszínen.",
                 "ro": "În stația de metrou este mult mai cald decât afară.",
-                "en": "The metro station is significantly warmer than the surface level."
+                "en": "The metro station is significantly warmer than the surface level.",
+                "el": "Ο σταθμός του μετρό είναι αισθητά θερμότερος από την επιφάνεια."
               }
             },
             {
@@ -2152,7 +2332,8 @@
                 "de": "Nutzen Sie die Rolltreppen, um Energie für den Tag zu sparen.",
                 "hu": "Használd a mozgólépcsőket, hogy maradjon energiád a városnézéshez.",
                 "ro": "Folosiți scările rulante pentru a economisi energie pentru plimbare.",
-                "en": "Use the escalators to save your energy for the winter walk."
+                "en": "Use the escalators to save your energy for the winter walk.",
+                "el": "Χρησιμοποιήστε τις κυλιόμενες σκάλες για να εξοικονομήσετε ενέργεια για τον χειμερινό περίπατο."
               }
             },
             {
@@ -2161,7 +2342,8 @@
                 "de": "Die Züge verkehren im Winter oft in kürzeren Abständen.",
                 "hu": "A metrók télen gyakran sűrűbben járnak a nagyobb forgalom miatt.",
                 "ro": "Trenurile de metrou circulă adesea mai des în timpul iernii.",
-                "en": "Metro trains often run frequently during the busy winter season."
+                "en": "Metro trains often run frequently during the busy winter season.",
+                "el": "Τα τρένα του μετρό συχνά λειτουργούν πυκνά κατά τη διάρκεια της πολυσύχναστης χειμερινής περιόδου."
               }
             },
             {
@@ -2170,7 +2352,8 @@
                 "de": "Warten Sie in der Nähe der Kioske, die oft windgeschützt sind.",
                 "hu": "Várj a buszmegálló melletti kioszkoknál, ahol kevesebb a szél.",
                 "ro": "Așteptați lângă chioșcurile din stații, sunt mai ferite de vânt.",
-                "en": "Wait near the station kiosks which are often more wind-sheltered."
+                "en": "Wait near the station kiosks which are often more wind-sheltered.",
+                "el": "Περιμένετε κοντά στα περίπτερα του σταθμού που συχνά είναι πιο προστατευμένα από τον αέρα."
               }
             },
             {
@@ -2179,7 +2362,8 @@
                 "de": "Die Busse sind im Winter meist gut beheizt.",
                 "hu": "A buszok télen általában jól fűtöttek és kényelmesek.",
                 "ro": "Autobuzele sunt de obicei bine încălzite în timpul iernii.",
-                "en": "Buses are usually well-heated during the winter months."
+                "en": "Buses are usually well-heated during the winter months.",
+                "el": "Τα λεωφορεία είναι συνήθως καλά θερμαινόμενα τους χειμερινούς μήνες."
               }
             },
             {
@@ -2188,7 +2372,8 @@
                 "de": "Die Metrostation ist ein guter Ort, um sich kurz aufzuwärmen.",
                 "hu": "A metróállomás kiváló hely egy rövid melegedő szünetre.",
                 "ro": "Stația de metrou este un loc bun pentru a vă încălzi scurt.",
-                "en": "The metro station is a good place for a quick warm-up break."
+                "en": "The metro station is a good place for a quick warm-up break.",
+                "el": "Ο σταθμός μετρό είναι καλός χώρος για σύντομη ζέσταμα."
               }
             },
             {
@@ -2197,7 +2382,8 @@
                 "de": "Planen Sie Ihre Rückfahrt vor 18 Uhr ein, um der Rushhour zu entgehen.",
                 "hu": "Tervezd a visszautat 18 óra elé, hogy elkerüld a délutáni csúcsot.",
                 "ro": "Planificați întoarcerea înainte de ora 18 pentru a evita aglomerația.",
-                "en": "Plan your return before 6 PM to avoid the winter rush hour."
+                "en": "Plan your return before 6 PM to avoid the winter rush hour.",
+                "el": "Σχεδιάστε την επιστροφή σας πριν τις 18:00 για να αποφύγετε την χειμερινή ώρα αιχμής."
               }
             }
           ],
@@ -2225,6 +2411,12 @@
               "Stay inside the station buildings during windy weather until your train arrives.",
               "Purchase your tickets at the indoor machines where it's warmer.",
               "The OASA Telematics app shows exactly when the next heated bus will arrive."
+            ],
+            "el": [
+              "Λεωφορεία και τρένα μπορεί να είναι συνωστισμένα το χειμώνα· φυλάξτε τα αντικείμενά σας.",
+              "Μείνετε μέσα στα κτίρια των σταθμών κατά τους θυελλώδεις ανέμους μέχρι να φτάσει το τρένο σας.",
+              "Αγοράστε τα εισιτήριά σας από τα μηχανήματα μέσα όπου είναι πιο ζεστά.",
+              "Η εφαρμογή OASA Telematics δείχνει πότε θα φτάσει ακριβώς το επόμενο θερμαινόμενο λεωφορείο."
             ]
           }
         }

@@ -21,7 +21,8 @@
             "de": "Altstadt Chora",
             "hu": "Chora óvárosa",
             "ro": "Orașul vechi Chora",
-            "en": "Chora Old Town"
+            "en": "Chora Old Town",
+            "el": "Χώρα Παλιά Πόλη"
           },
           "coords": [
             26.5478,
@@ -37,7 +38,8 @@
             "de": "Verlieren Sie sich in den Gassen; jeder Winkel ist ein Foto wert.",
             "hu": "Tévedjen el a sikátorokban; minden sarok egy fotót ér.",
             "ro": "Pierdeți-vă pe alei; fiecare colț merită o fotografie.",
-            "en": "Get lost in the alleys; every corner is worth a photo."
+            "en": "Get lost in the alleys; every corner is worth a photo.",
+            "el": "Χαθείτε στα σοκάκια· κάθε γωνιά αξίζει φωτογραφία."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Windmühlen von Patmos",
             "hu": "Pátmoszi szélmalmok",
             "ro": "Morile de vânt din Patmos",
-            "en": "Windmills of Patmos"
+            "en": "Windmills of Patmos",
+            "el": "Ανεμόμυλοι της Πάτμου"
           },
           "coords": [
             26.5461,
@@ -61,7 +64,8 @@
             "de": "Der beste Ort für einen Panoramablick bei Sonnenuntergang.",
             "hu": "A legjobb hely a naplementés panorámához.",
             "ro": "Cel mai bun loc pentru o vedere panoramică la apus.",
-            "en": "The best spot for a panoramic view at sunset."
+            "en": "The best spot for a panoramic view at sunset.",
+            "el": "Το καλύτερο σημείο για πανοραμική θέα στο ηλιοβασίλεμα."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Johanneskloster",
             "hu": "Szent János-kolostor",
             "ro": "Mănăstirea Sfântul Ioan",
-            "en": "Monastery of Saint John"
+            "en": "Monastery of Saint John",
+            "el": "Μονή του Αγίου Ιωάννη"
           },
           "coords": [
             26.5447,
@@ -85,7 +90,8 @@
             "de": "Achten Sie auf die Kleiderordnung: Schultern und Knie bedecken.",
             "hu": "Ügyeljen a ruházati előírásokra: takarja el a vállát és a térdét.",
             "ro": "Respectați codul vestimentar: umerii și genunchii acoperiți.",
-            "en": "Pay attention to the dress code: cover shoulders and knees."
+            "en": "Pay attention to the dress code: cover shoulders and knees.",
+            "el": "Δώστε προσοχή στον κώδικα ένδυσης: καλύψτε ώμους και γόνατα."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Simantiri-Haus",
             "hu": "Simantiri-kúria",
             "ro": "Conacul Simantiri",
-            "en": "Simantiri Mansion"
+            "en": "Simantiri Mansion",
+            "el": "Μέγαρο Σημαντήρη"
           },
           "coords": [
             26.5475,
@@ -109,7 +116,8 @@
             "de": "Ein Einblick in das Leben einer wohlhabenden patmischen Familie im 19. Jahrhundert.",
             "hu": "Betekintés egy gazdag 19. századi pátmoszi család életébe.",
             "ro": "O privire în viața unei familii bogate din Patmos în secolul al XIX-lea.",
-            "en": "A glimpse into the life of a wealthy Patmian family in the 19th century."
+            "en": "A glimpse into the life of a wealthy Patmian family in the 19th century.",
+            "el": "Μια ματιά στη ζωή μιας εύπορης πατμιακής οικογένειας του 19ου αιώνα."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Grotte der Offenbarung",
             "hu": "Apokalipszis-barlangja",
             "ro": "Peștera Apocalipsei",
-            "en": "Cave of the Apocalypse"
+            "en": "Cave of the Apocalypse",
+            "el": "Σπήλαιο της Αποκάλυψης"
           },
           "coords": [
             26.5484,
@@ -133,7 +142,8 @@
             "de": "Ein Ort von immenser spiritueller Bedeutung, seien Sie respektvoll.",
             "hu": "Hatalmas spirituális jelentőségű hely, legyen tisztelettudó.",
             "ro": "Un loc de o imensă importanță spirituală, fiți respectuos.",
-            "en": "A place of immense spiritual importance, be respectful."
+            "en": "A place of immense spiritual importance, be respectful.",
+            "el": "Ένας χώρος μεγάλης πνευματικής σημασίας — να δείχνετε σεβασμό."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Platz von Agia Lesvia",
             "hu": "Agia Lesvia tér",
             "ro": "Piața Agia Lesvia",
-            "en": "Agia Lesvia Square"
+            "en": "Agia Lesvia Square",
+            "el": "Πλατεία Αγίας Λεσβίας"
           },
           "coords": [
             26.5492,
@@ -157,7 +168,8 @@
             "de": "Genießen Sie einen griechischen Kaffee in einem der örtlichen Kafenions.",
             "hu": "Fogyasszon el egy görög kávét a helyi kafenionok egyikében.",
             "ro": "Savurați o cafea grecească la una dintre cafenelele locale (kafenion).",
-            "en": "Enjoy a Greek coffee at one of the local kafenions."
+            "en": "Enjoy a Greek coffee at one of the local kafenions.",
+            "el": "Απολαύστε έναν ελληνικό καφέ σε ένα από τα τοπικά καφενεία."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Mittagessen in Chora",
             "hu": "Ebéd Chorában",
             "ro": "Prânz în Chora",
-            "en": "Lunch in Chora"
+            "en": "Lunch in Chora",
+            "el": "Γεύμα στη Χώρα"
           },
           "coords": [
             26.548,
@@ -181,7 +194,8 @@
             "de": "Probieren Sie 'Benetos' für eine gehobene mediterrane Küche.",
             "hu": "Próbálja ki a 'Benetos'-t egy emelkedett mediterrán konyháért.",
             "ro": "Încercați 'Benetos' pentru bucătărie mediteraneană rafinată.",
-            "en": "Try 'Benetos' for an upscale Mediterranean dining experience."
+            "en": "Try 'Benetos' for an upscale Mediterranean dining experience.",
+            "el": "Δοκιμάστε το «Βενέτος» για μια ανώτερη μεσογειακή γαστρονομική εμπειρία."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Beginnen Sie Ihren Tag mit der Erkundung der labyrinthartigen Gassen von Chora, einem UNESCO-Weltkulturerbe. Am Vormittag besuchen Sie die ikonischen Windmühlen und das imposante Johanneskloster, das einen atemberaubenden Blick bietet. Nach dem Mittagessen steigen Sie hinab zur heiligen Grotte der Offenbarung. Der Nachmittag ist für einen entspannten Kaffee auf dem Platz von Agia Lesvia reserviert, bevor Sie ein traditionelles griechisches Abendessen genießen.",
         "hu": "Kezdje a napot Chora labirintusszerű sikátorainak felfedezésével, amely az UNESCO Világörökség része. Délelőtt látogasson el az ikonikus szélmalmokhoz és a lenyűgöző Szent János-kolostorhoz, ahonnan lélegzetelállító a kilátás. Ebéd után ereszkedjen le a szent Apokalipszis-barlangjához. A délután egy pihentető kávézással telik az Agia Lesvia téren, mielőtt egy hagyományos görög vacsorát fogyasztana el.",
         "ro": "Începeți ziua explorând aleile labirintice din Chora, un sit al Patrimoniului Mondial UNESCO. La amiază, vizitați morile de vânt iconice și impunătoarea Mănăstire a Sfântului Ioan, care oferă priveliști uluitoare. După prânz, coborâți la sfânta Peșteră a Apocalipsei. După-amiaza este rezervată pentru o cafea relaxantă în Piața Agia Lesvia înainte de a vă bucura de o cină tradițională grecească.",
-        "en": "Start your day exploring the labyrinthine alleys of Chora, a UNESCO World Heritage site. Mid-morning, visit the iconic windmills and the imposing Monastery of Saint John, offering breathtaking views. After lunch, descend to the sacred Cave of the Apocalypse. The afternoon is reserved for a relaxing coffee in Agia Lesvia Square before enjoying a traditional Greek dinner."
+        "en": "Start your day exploring the labyrinthine alleys of Chora, a UNESCO World Heritage site. Mid-morning, visit the iconic windmills and the imposing Monastery of Saint John, offering breathtaking views. After lunch, descend to the sacred Cave of the Apocalypse. The afternoon is reserved for a relaxing coffee in Agia Lesvia Square before enjoying a traditional Greek dinner.",
+        "el": "Ξεκινήστε την ημέρα εξερευνώντας τα λαβυρινθώδη σοκάκια της Χώρας, μνημείο Παγκόσμιας Κληρονομιάς της UNESCO. Μεσοπρωινό, επισκεφτείτε τους εμβληματικούς ανεμόμυλους και τη μεγαλοπρεπή Μονή του Αγίου Ιωάννη, που προσφέρουν εκπληκτική θέα. Μετά το γεύμα, κατεβείτε στο ιερό Σπήλαιο της Αποκάλυψης. Το απόγευμα επιφυλάσσεται για έναν χαλαρό καφέ στην Πλατεία Αγίας Λεσβίας πριν απολαύσετε ένα παραδοσιακό ελληνικό δείπνο."
       },
       "gastro_picks": {
         "de": [
@@ -385,6 +400,12 @@
           "Bring plenty of water, especially during the summer.",
           "Respect the holy sites by dressing appropriately.",
           "Mornings are the best time to avoid the crowds."
+        ],
+        "el": [
+          "Φορέστε πολύ άνετα παπούτσια καθώς οι δρόμοι είναι απότομα και λιθόστρωτοι.",
+          "Φέρτε άφθονο νερό, ειδικά το καλοκαίρι.",
+          "Σεβαστείτε τους ιερους χώρους ντυθείτε κατάλληλα.",
+          "Τα πρωινά είναι η καλύτερη ώρα για να αποφύγετε τα πλήθη."
         ]
       },
       "variants": {
@@ -393,7 +414,8 @@
             "de": "Der Morgen in Chora beginnt grau, doch die engen Gassen bieten Schutz vor dem Wind. Mittags ziehen Sie sich in das Simantiri-Haus zurück, wo die dicken Mauern den Regen vergessen lassen. Am Nachmittag führt der Weg hinab zur Apokalypse-Höhle, die bei Regen eine besonders mystische, feuchte Atmosphäre verströmt. Den Abend lassen wir bei lokalem Wein in einer gemütlichen Taverne ausklingen.",
             "hu": "A reggeli Chora szürke fényeiben is méltóságteljes, a szűk sikátorok jól védenek a széltől. Délben a Simantiri-kastély vastag falai között keresünk menedéket az eső elől. Délután a Jelenések barlangja felé vesszük az irányt, amely ilyenkor még titokzatosabb hangulatot áraszt. Az estét egy barátságos tavernát választva, a helyi borok társaságában zárjuk, miközben kint kopog az eső.",
             "ro": "Dimineața în Chora începe sub un cer gri, dar străzile înguste oferă adăpost împotriva vântului. La prânz, ne retragem în Conacul Simantiri, unde zidurile groase ne fac să uităm de ploaie. După-amiaza coborâm spre Peștera Apocalipsei, care capătă o atmosferă mistică pe timp de ploaie. Seara se încheie într-o tavernă primitoare, savurând un vin local în timp ce ascultăm ploaia afară.",
-            "en": "The morning in Chora starts grey, but the narrow alleys provide good shelter from the wind. At noon, retreat to the Simantiri Mansion, where thick walls make you forget the rain. In the afternoon, head down to the Cave of the Apocalypse, which feels even more mystical in the damp weather. We end the evening in a cozy taverna with local wine, listening to the rain outside."
+            "en": "The morning in Chora starts grey, but the narrow alleys provide good shelter from the wind. At noon, retreat to the Simantiri Mansion, where thick walls make you forget the rain. In the afternoon, head down to the Cave of the Apocalypse, which feels even more mystical in the damp weather. We end the evening in a cozy taverna with local wine, listening to the rain outside.",
+            "el": "Το πρωί στη Χώρα ξεκινάει γκρίζο, αλλά τα στενά σοκάκια παρέχουν καλή προστασία από τον άνεμο. Το μεσημέρι, καταφύγετε στο Μέγαρο Σημαντήρη, όπου οι πυκνοί τοίχοι σας ξεγελούν τη βροχή. Το απόγευμα, κατευθυνθείτε στο Σπήλαιο της Αποκάλυψης, που γίνεται ακόμα πιο μυστηριακό με την υγρή ατμόσφαιρα. Τελειώνουμε το βράδυ σε μια ζεστή ταβέρνα με ντόπιο κρασί, ακούγοντας τη βροχή απ’ έξω."
           },
           "stops": [
             {
@@ -402,7 +424,8 @@
                 "de": "Nutzen Sie die Arkadengänge, um trocken zu bleiben.",
                 "hu": "Használja az árkádos átjárókat, hogy száraz maradjon.",
                 "ro": "Folosiți arcadele pentru a rămâne uscat.",
-                "en": "Use the arched passages to stay dry."
+                "en": "Use the arched passages to stay dry.",
+                "el": "Χρησιμοποιήστε τα τοξωτά περάσματα για να παραμείνετε στεγνοί."
               }
             },
             {
@@ -411,7 +434,8 @@
                 "de": "Vorsicht, der Pfad zu den Mühlen kann rutschig sein.",
                 "hu": "Vigyázat, a malmokhoz vezető ösvény csúszós lehet.",
                 "ro": "Atenție, poteca spre mori poate fi alunecoasă.",
-                "en": "Careful, the path to the mills can be slippery."
+                "en": "Careful, the path to the mills can be slippery.",
+                "el": "Προσοχή, το μονοπάτι προς τους μύλους μπορεί να είναι ολισθηρό."
               }
             },
             {
@@ -420,7 +444,8 @@
                 "de": "Perfekter Ort für Regen; das Museum ist überdacht.",
                 "hu": "Tökéletes hely esőben; a múzeum fedett.",
                 "ro": "Loc perfect pentru ploaie; muzeul este acoperit.",
-                "en": "Perfect spot for rain; the museum is indoors."
+                "en": "Perfect spot for rain; the museum is indoors.",
+                "el": "Ιδανικό σημείο για βροχή· το μουσείο είναι εσωτερικός χώρος."
               }
             },
             {
@@ -429,7 +454,8 @@
                 "de": "Ein idealer Indoor-Stopp mit reicher Geschichte.",
                 "hu": "Ideális fedett megálló gazdag történelemmel.",
                 "ro": "O oprire interioară ideală, cu o istorie bogată.",
-                "en": "An ideal indoor stop with rich history."
+                "en": "An ideal indoor stop with rich history.",
+                "el": "Ιδανική εσωτερική στάση με πλούσια ιστορία."
               }
             },
             {
@@ -438,7 +464,8 @@
                 "de": "Die Höhle ist absolut trocken und sehr friedlich.",
                 "hu": "A barlang teljesen száraz és nagyon békés.",
                 "ro": "Peștera este complet uscată și foarte liniștită.",
-                "en": "The cave is completely dry and very peaceful."
+                "en": "The cave is completely dry and very peaceful.",
+                "el": "Το σπήλαιο είναι εντελώς στεγνό και πολύ γαλήνιο."
               }
             },
             {
@@ -447,7 +474,8 @@
                 "de": "Kurzer Stopp; suchen Sie Schutz unter den Vordächern.",
                 "hu": "Rövid megálló; keressen menedéket az előtetők alatt.",
                 "ro": "Oprire scurtă; căutați adăpost sub streșini.",
-                "en": "Short stop; seek shelter under the eaves."
+                "en": "Short stop; seek shelter under the eaves.",
+                "el": "Σύντομη στάση· αναζητήστε καταφύγιο κάτω από τα αετώματα."
               }
             },
             {
@@ -456,7 +484,8 @@
                 "de": "Wählen Sie einen Platz am Kamin, falls verfügbar.",
                 "hu": "Válasszon helyet a kandalló mellett, ha van.",
                 "ro": "Alegeți un loc lângă șemineu, dacă este disponibil.",
-                "en": "Pick a spot by the fireplace if available."
+                "en": "Pick a spot by the fireplace if available.",
+                "el": "Κάθισε κοντά στο τζάκι αν υπάρχει διαθέσιμο."
               }
             }
           ],
@@ -484,6 +513,12 @@
               "A sturdy umbrella is better than a poncho due to the wind.",
               "Many cafes in Chora offer cozy indoor seating.",
               "Visit the monasteries first as they provide the best shelter."
+            ],
+            "el": [
+              "Φόρα παπούτσια με καλή πρόσφυση για τα ολισθηρά κυβόλιθρα.",
+              "Μια στιβαρή ομπρέλα είναι καλύτερη από ένα πανωφόρι λόγω του ανέμου.",
+              "Πολλά καφέ στην Χώρα προσφέρουν ζεστούς εσωτερικούς χώρους.",
+              "Επισκέψου πρώτα τα μοναστήρια καθώς προσφέρουν την καλύτερη προστασία."
             ]
           }
         },
@@ -492,7 +527,8 @@
             "de": "Die Wintermorgensonne glitzert auf dem Meer, während wir Chora fast allein erkunden. Mittags wärmt die milde griechische Sonne den Kirchplatz, ideal für eine kurze Rast. Der Nachmittag gehört der Stille des Klosters und der Höhle, fernab der Sommermassen. Da die Sonne gegen 17:00 Uhr untergeht, genießen wir das goldene Licht über dem Hafen von Skala bei einem warmen Getränk.",
             "hu": "A téli reggeli nap csillog a tengeren, miközben szinte egyedül fedezzük fel Chorát. Délben az enyhe görög napsütés felmelegíti a templomteret, ami ideális egy rövid pihenőre. A délután a kolostor és a barlang csendjéé, távol a nyári tömegtől. Mivel a nap 17:00 körül nyugszik, Skala kikötőjében egy meleg ital mellett élvezzük az utolsó aranyló sugarakat.",
             "ro": "Soarele de iarnă sclipește pe mare în timp ce explorăm Chora aproape singuri. La prânz, soarele blând încălzește piața bisericii, ideal pentru o scurtă odihnă. După-amiaza aparține liniștii mănăstirii și peșterii, departe de mulțimile de vară. Deoarece soarele apune în jurul orei 17:00, savurăm lumina aurie peste portul Skala cu o băutură caldă.",
-            "en": "The winter morning sun glitters on the sea as we explore Chora almost in solitude. At noon, the mild Greek sun warms the church square, perfect for a short rest. The afternoon is dedicated to the silence of the monastery and cave, far from the summer crowds. Since the sun sets around 17:00, we enjoy the golden light over Skala harbor with a warm drink."
+            "en": "The winter morning sun glitters on the sea as we explore Chora almost in solitude. At noon, the mild Greek sun warms the church square, perfect for a short rest. The afternoon is dedicated to the silence of the monastery and cave, far from the summer crowds. Since the sun sets around 17:00, we enjoy the golden light over Skala harbor with a warm drink.",
+            "el": "Το χειμερινό πρωινό φως γυαλίζει στη θάλασσα καθώς εξερευνούμε την Χώρα σχεδόν μόνοι μας. Το μεσημέρι, ο ήπιος ελληνικός ήλιος ζεσταίνει την πλατεία της εκκλησίας, ιδανική για ένα σύντομο διάλειμμα. Το απόγευμα αφιερώνεται στη σιωπή του μοναστηριού και του σπήλαιου, μακριά από τα καλοκαιρινά πλήθη. Επειδή ο ήλιος δύει περίπου στις 17:00, απολαμβάνουμε το χρυσαφένιο φως πάνω από το λιμάνι της Σκάλας με ένα ζεστό ποτό."
           },
           "stops": [
             {
@@ -501,7 +537,8 @@
                 "de": "Genießen Sie die Ruhe ohne die Touristenmassen.",
                 "hu": "Élvezze a nyugalmat a turistaáradat nélkül.",
                 "ro": "Bucurați-vă de liniște fără mulțimile de turiști.",
-                "en": "Enjoy the silence without the tourist crowds."
+                "en": "Enjoy the silence without the tourist crowds.",
+                "el": "Απόλαυσε τη σιωπή χωρίς τα τουριστικά πλήθη."
               }
             },
             {
@@ -510,7 +547,8 @@
                 "de": "Perfekt für Fotos im klaren Winterlicht.",
                 "hu": "Tökéletes fotózáshoz a tiszta téli fényekben.",
                 "ro": "Perfect pentru fotografii în lumina clară de iarnă.",
-                "en": "Perfect for photos in the clear winter light."
+                "en": "Perfect for photos in the clear winter light.",
+                "el": "Ιδανικό για φωτογραφίες στο καθαρό χειμερινό φως."
               }
             },
             {
@@ -519,7 +557,8 @@
                 "de": "Prüfen Sie die Winteröffnungszeiten vorab.",
                 "hu": "Ellenőrizze előre a téli nyitvatartást.",
                 "ro": "Verificați orele de deschidere de iarnă în avans.",
-                "en": "Check winter opening hours in advance."
+                "en": "Check winter opening hours in advance.",
+                "el": "Έλεγξε ώρες χειμερινής λειτουργίας εκ των προτέρων."
               }
             },
             {
@@ -528,7 +567,8 @@
                 "de": "Ein warmer Ort voller Familiengeschichten.",
                 "hu": "Meleg helyszín, tele családi történetekkel.",
                 "ro": "Un loc cald plin de povești de familie.",
-                "en": "A warm place full of family stories."
+                "en": "A warm place full of family stories.",
+                "el": "Ένας ζεστός χώρος γεμάτος οικογενειακές ιστορίες."
               }
             },
             {
@@ -537,7 +577,8 @@
                 "de": "Besinnliche Stille, die im Winter noch tiefer wirkt.",
                 "hu": "Mély csend, ami télen még inkább hatásos.",
                 "ro": "Liniște profundă care iarna pare și mai intensă.",
-                "en": "Contemplative silence that feels deeper in winter."
+                "en": "Contemplative silence that feels deeper in winter.",
+                "el": "Στοχαστική σιωπή που νιώθει πιο βαθιά το χειμώνα."
               }
             },
             {
@@ -546,7 +587,8 @@
                 "de": "Ein Platz zum Sonnenbaden in der Mittagssonne.",
                 "hu": "Ideális hely egy kis napfürdőzéshez délben.",
                 "ro": "Un loc pentru plajă în soarele de la amiază.",
-                "en": "A spot to catch some midday winter sun."
+                "en": "A spot to catch some midday winter sun.",
+                "el": "Ένα μέρος για να προλάβεις λίγο μεσημεριανό χειμερινό ήλιο."
               }
             },
             {
@@ -555,7 +597,8 @@
                 "de": "Probieren Sie lokale Winterspezialitäten wie Eintöpfe.",
                 "hu": "Kóstolja meg a téli ételeket, például a ragukat.",
                 "ro": "Gustați specialități locale de iarnă, cum ar fi tocanitile.",
-                "en": "Try local winter specialties like hearty stews."
+                "en": "Try local winter specialties like hearty stews.",
+                "el": "Δοκίμασε τοπικές χειμερινές σπεσιαλιτέ όπως καρπερά στιφάδα."
               }
             }
           ],
@@ -583,6 +626,12 @@
               "Be mindful of the early sunset around 17:00.",
               "Some small souvenir shops might be closed in the off-season.",
               "The air is exceptionally clear in winter, ideal for long-distance views."
+            ],
+            "el": [
+              "Ντύσου με στιβάδες για τις μεταβαλλόμενες θερμοκρασίες της ημέρας.",
+              "Λάβε υπόψη το νωπό ηλιοβασίλεμα γύρω στις 17:00.",
+              "Κάποια μικρά καταστήματα με σουβενίρ μπορεί να είναι κλειστά στην εκτός εποχής περίοδο.",
+              "Ο αέρας είναι εξαιρετικά καθαρός το χειμώνα, ιδανικός για μακρινούς ορίζοντες."
             ]
           }
         }
@@ -601,7 +650,8 @@
             "de": "Grotte der Offenbarung",
             "hu": "Apokalipszis-barlangja",
             "ro": "Peștera Apocalipsei",
-            "en": "Cave of the Apocalypse"
+            "en": "Cave of the Apocalypse",
+            "el": "Σπήλαιο της Αποκάλυψης"
           },
           "coords": [
             26.5484,
@@ -617,7 +667,8 @@
             "de": "Der Weg ist steil, aber die spirituelle Atmosphäre ist es wert.",
             "hu": "Az út meredek, de a spirituális légkör megéri.",
             "ro": "Drumul este abrupt, dar atmosfera spirituală merită.",
-            "en": "The ride is steep, but the spiritual atmosphere is worth it."
+            "en": "The ride is steep, but the spiritual atmosphere is worth it.",
+            "el": "Η ανάβαση είναι απότομη, αλλά η πνευματική ατμόσφαιρα αξίζει."
           }
         },
         {
@@ -625,7 +676,8 @@
             "de": "Altstadt Chora",
             "hu": "Chora óvárosa",
             "ro": "Orașul vechi Chora",
-            "en": "Chora Old Town"
+            "en": "Chora Old Town",
+            "el": "Παλιά Πόλη Χώρα"
           },
           "coords": [
             26.5478,
@@ -641,7 +693,8 @@
             "de": "Parken Sie Ihr Fahrrad am Eingang und erkunden Sie die engen Gassen zu Fuß.",
             "hu": "Parkolja le a kerékpárt a bejáratnál, és fedezze fel a szűk sikátorokat gyalog.",
             "ro": "Parcați bicicleta la intrare și explorați aleile înguste pe jos.",
-            "en": "Park your bike at the entrance and explore the narrow alleys on foot."
+            "en": "Park your bike at the entrance and explore the narrow alleys on foot.",
+            "el": "Στάθμευσε το ποδήλατό σου στην είσοδο και εξερεύνησε τα στενά πεζός."
           }
         },
         {
@@ -649,7 +702,8 @@
             "de": "Johanneskloster",
             "hu": "Szent János-kolostor",
             "ro": "Mănăstirea Sfântul Ioan",
-            "en": "Monastery of Saint John"
+            "en": "Monastery of Saint John",
+            "el": "Μοναστήρι του Αγίου Ιωάννη"
           },
           "coords": [
             26.5447,
@@ -665,7 +719,8 @@
             "de": "Die Aussicht von der Spitze der Festung ist die anstrengende Radtour wert.",
             "hu": "A kilátás az erőd tetejéről megéri a fárasztó biciklizést.",
             "ro": "Priveliștea din vârful cetății merită urcarea obositoare cu bicicleta.",
-            "en": "The view from the top of the fortress is worth the strenuous bike ride."
+            "en": "The view from the top of the fortress is worth the strenuous bike ride.",
+            "el": "Η θέα από την κορυφή του φρουρίου αξίζει την κοπιαστική ποδηλασία."
           }
         },
         {
@@ -673,7 +728,8 @@
             "de": "Windmühlen von Patmos",
             "hu": "Pátmoszi szélmalmok",
             "ro": "Morile de vânt din Patmos",
-            "en": "Windmills of Patmos"
+            "en": "Windmills of Patmos",
+            "el": "Ανεμόμυλοι της Πάτμου"
           },
           "coords": [
             26.5461,
@@ -689,7 +745,8 @@
             "de": "Ein großartiger Fotostopp mit Blick auf Chora und das Kloster.",
             "hu": "Nagyszerű fotómegálló, kilátással Chorára és a kolostorra.",
             "ro": "O oprire excelentă pentru fotografii, cu vedere la Chora și la mănăstire.",
-            "en": "A great photo stop overlooking Chora and the monastery."
+            "en": "A great photo stop overlooking Chora and the monastery.",
+            "el": "Ένα υπέροχο σημείο για φωτογραφίες με θέα την Χώρα και το μοναστήρι."
           }
         },
         {
@@ -697,7 +754,8 @@
             "de": "Mittagessen und Strand in Grikos",
             "hu": "Ebéd és strandolás Grikosban",
             "ro": "Prânz și plajă în Grikos",
-            "en": "Lunch and Beach at Grikos"
+            "en": "Lunch and Beach at Grikos",
+            "el": "Μεσημεριανό και παραλία στο Γρίκος"
           },
           "coords": [
             26.565,
@@ -713,7 +771,8 @@
             "de": "Eine entspannte Bucht, perfekt für ein Mittagessen am Meer und ein Bad.",
             "hu": "Egy nyugodt öböl, tökéletes egy tengerparti ebédhez és úszáshoz.",
             "ro": "Un golf relaxat, perfect pentru un prânz pe malul mării și o baie.",
-            "en": "A relaxed bay perfect for a seaside lunch and a swim."
+            "en": "A relaxed bay perfect for a seaside lunch and a swim.",
+            "el": "Μια χαλαρή όρμος ιδανική για μεσημεριανό δίπλα στη θάλασσα και μπάνιο."
           }
         },
         {
@@ -721,7 +780,8 @@
             "de": "Rückkehr nach Skala",
             "hu": "Visszatérés Skalába",
             "ro": "Întoarcere la Skala",
-            "en": "Return to Skala"
+            "en": "Return to Skala",
+            "el": "Επιστροφή στη Σκάλα"
           },
           "coords": [
             26.543,
@@ -737,7 +797,8 @@
             "de": "Beenden Sie den Tag mit einem Drink am Hafen und beobachten Sie die Boote.",
             "hu": "Zárja a napot egy itallal a kikötőben, nézve a hajókat.",
             "ro": "Încheiați ziua cu o băutură în port, privind bărcile.",
-            "en": "End the day with a drink at the port, watching the boats."
+            "en": "End the day with a drink at the port, watching the boats.",
+            "el": "Τελείωσε τη μέρα με ένα ποτό στο λιμάνι, παρακολουθώντας τα καΐκια."
           }
         }
       ],
@@ -745,7 +806,8 @@
         "de": "Starten Sie Ihre Radtour in Skala und fahren Sie bergauf zur Grotte der Offenbarung. Erkunden Sie am Vormittag die Gassen von Chora und besuchen Sie das monumentale Johanneskloster. Nach einem Fotostopp bei den Windmühlen fahren Sie zur malerischen Bucht von Grikos für ein entspanntes Mittagessen und eine Abkühlung im Meer. Der Tag endet mit einer gemütlichen Rückfahrt nach Skala, wo Sie die Atmosphäre des Hafens genießen können.",
         "hu": "Kezdje a kerékpártúrát Skalából, és tekerjen fel az Apokalipszis-barlangjához. Délelőtt fedezze fel Chora sikátorait, és látogasson el a monumentális Szent János-kolostorba. A szélmalmoknál tett fotómegálló után irány a festői Grikos-öböl egy laza ebédre és egy csobbanásra a tengerben. A nap egy kényelmes visszatekeréssel zárul Skalába, ahol élvezheti a kikötő hangulatát.",
         "ro": "Începeți turul cu bicicleta din Skala, urcând spre Peștera Apocalipsei. La amiază, explorați aleile din Chora și vizitați monumentala Mănăstire a Sfântului Ioan. După o oprire pentru fotografii la morile de vânt, mergeți spre golful pitoresc Grikos pentru un prânz relaxant și o baie în mare. Ziua se încheie cu o plimbare lejeră înapoi la Skala pentru a vă bucura de atmosfera portului.",
-        "en": "Start your bike tour from Skala, heading uphill to the Cave of the Apocalypse. Mid-morning, explore the alleys of Chora and visit the monumental Monastery of Saint John. After a photo stop at the windmills, cycle to the picturesque bay of Grikos for a relaxed lunch and a dip in the sea. The day concludes with a leisurely ride back to Skala to enjoy the port's atmosphere."
+        "en": "Start your bike tour from Skala, heading uphill to the Cave of the Apocalypse. Mid-morning, explore the alleys of Chora and visit the monumental Monastery of Saint John. After a photo stop at the windmills, cycle to the picturesque bay of Grikos for a relaxed lunch and a dip in the sea. The day concludes with a leisurely ride back to Skala to enjoy the port's atmosphere.",
+        "el": "Ξεκίνα την ποδηλατική σου διαδρομή από τη Σκάλα, κατευθυνόμενος ανηφορικά προς το Σπήλαιο της Αποκάλυψης. Τους μεσοπρωινούς ώρες, εξερεύνησε τα σοκάκια της Χώρας και επισκέψου το επιβλητικό Μοναστήρι του Αγίου Ιωάννη. Μετά από στάση για φωτογραφίες στους ανεμόμυλους, ποδηλάτησε προς την γραφική όρμο του Γρίκου για ένα χαλαρό μεσημεριανό και βουτιά στη θάλασσα. Η μέρα ολοκληρώνεται με ευχάριστη επιστροφή στη Σκάλα για να απολαύσεις την ατμόσφαιρα του λιμανιού."
       },
       "gastro_picks": {
         "de": [
@@ -941,6 +1003,12 @@
           "The roads can be narrow, ride with caution.",
           "Wear a helmet and bring a lock for your bike.",
           "Check the opening hours of the monasteries in advance."
+        ],
+        "el": [
+          "Νοίκιασε ένα ηλεκτρικό ποδήλατο για να αντιμετωπίσεις πιο εύκολα τις απότομες ανηφόρες.",
+          "Οι δρόμοι μπορεί να είναι στενοί, ποδηλάτησε με προσοχή.",
+          "Φόρα κράνος και πήγαινε κλειδαριά για το ποδήλατο.",
+          "Έλεγξε ώρες λειτουργίας των μοναστηριών εκ των προτέρων."
         ]
       },
       "variants": {
@@ -949,7 +1017,8 @@
             "de": "Die Radtour startet erfrischend im Regen zur Höhle. Die Fahrt bergauf nach Chora erfordert Kraft und Konzentration auf dem nassen Asphalt. Mittags wärmen wir uns im Kloster auf, bevor wir die Windmühlen passieren. Die Abfahrt nach Grikos ist windig; dort angekommen, genießen wir den Blick auf die graue Ägäis von einem überdachten Café aus, bevor wir sicher nach Skala zurückkehren.",
             "hu": "A kerékpártúra frissítő esőben indul a barlang felé. A Chora-ba vezető emelkedő erőt és koncentrációt igényel a vizes aszfalton. Délben a kolostorban melegszünk fel, majd elhaladunk a szélmalmok mellett. A Grikos-ba vezető lejtő szeles; megérkezve egy fedett kávézóból csodáljuk a szürke Égei-tengert, mielőtt biztonságosan visszatérnénk Skalába.",
             "ro": "Turul cu bicicleta începe revigorant prin ploaie spre peșteră. Urcarea spre Chora necesită forță și concentrare pe asfaltul ud. La prânz ne încălzim în mănăstire înainte de a trece pe lângă morile de vânt. Coborârea spre Grikos este vântoasă; odată ajunși, admirăm Egeea gri dintr-o cafenea acoperită, înainte de a ne întoarce în siguranță la Skala.",
-            "en": "The bike tour starts refreshingly in the rain towards the cave. The climb to Chora requires strength and focus on the wet asphalt. At noon, we warm up in the monastery before passing the windmills. The descent to Grikos is windy; once there, we enjoy the view of the grey Aegean from a covered cafe before safely returning to Skala."
+            "en": "The bike tour starts refreshingly in the rain towards the cave. The climb to Chora requires strength and focus on the wet asphalt. At noon, we warm up in the monastery before passing the windmills. The descent to Grikos is windy; once there, we enjoy the view of the grey Aegean from a covered cafe before safely returning to Skala.",
+            "el": "Η ποδηλατική διαδρομή ξεκινά δροσιστικά στη βροχή προς το σπήλαιο. Η ανάβαση προς την Χώρα απαιτεί δύναμη και συγκέντρωση στο βρεγμένο άσφαλτο. Το μεσημέρι, ζεσταινόμαστε στο μοναστήρι πριν περάσουμε από τους ανεμόμυλους. Η κατάβαση προς τον Γρίκο είναι ανεμώδης· μόλις φτάσουμε, απολαμβάνουμε τη θέα του γκρίζου Αιγαίου από καλυμμένο καφέ πριν επιστρέψουμε με ασφάλεια στη Σκάλα."
           },
           "stops": [
             {
@@ -958,7 +1027,8 @@
                 "de": "Stellen Sie Ihr Rad unter dem Vordach ab.",
                 "hu": "Parkolja le a kerékpárt az előtető alatt.",
                 "ro": "Parcați bicicleta sub streșină.",
-                "en": "Park your bike under the overhang."
+                "en": "Park your bike under the overhang.",
+                "el": "Στάθμευσε το ποδήλατό σου κάτω από το πρόσταγμα."
               }
             },
             {
@@ -967,7 +1037,8 @@
                 "de": "Vorsicht auf dem glatten Kopfsteinpflaster.",
                 "hu": "Vigyázzon a csúszós macskakövön.",
                 "ro": "Atenție pe pavajul de piatră alunecos.",
-                "en": "Be very careful on the slick cobblestones."
+                "en": "Be very careful on the slick cobblestones.",
+                "el": "Να είσαι πολύ προσεκτικός στα ολισθηρά κυβόλιθρα."
               }
             },
             {
@@ -976,7 +1047,8 @@
                 "de": "Nutzen Sie die Zeit zum Trocknen Ihrer Kleidung.",
                 "hu": "Használja ki az időt a ruhái szárítására.",
                 "ro": "Folosiți timpul pentru a vă usca hainele.",
-                "en": "Use the time to dry your gear indoors."
+                "en": "Use the time to dry your gear indoors.",
+                "el": "Χρησιμοποίησε τον χρόνο για να στεγνώσεις τον εξοπλισμό σου μέσα."
               }
             },
             {
@@ -985,7 +1057,8 @@
                 "de": "Kurzer Fotostopp; halten Sie den Lenker fest.",
                 "hu": "Rövid fotómegálló; fogja erősen a kormányt.",
                 "ro": "Oprire scurtă; țineți bine de ghidon.",
-                "en": "Short photo stop; keep a firm grip on the bike."
+                "en": "Short photo stop; keep a firm grip on the bike.",
+                "el": "Σύντομη στάση για φωτογραφίες· κράτα γερό το κράτημα του ποδηλάτου."
               }
             },
             {
@@ -994,7 +1067,8 @@
                 "de": "Suchen Sie ein Lokal mit Meerblick und Schutz.",
                 "hu": "Keressen egy védett helyet kilátással a tengerre.",
                 "ro": "Căutați un local cu vedere la mare și adăpost.",
-                "en": "Find a sheltered spot with a sea view."
+                "en": "Find a sheltered spot with a sea view.",
+                "el": "Βρες ένα προστατευμένο σημείο με θέα στη θάλασσα."
               }
             },
             {
@@ -1003,7 +1077,8 @@
                 "de": "Fahren Sie defensiv auf der nassen Küstenstraße.",
                 "hu": "Vezessen óvatosan a vizes parti úton.",
                 "ro": "Conduceți defensiv pe drumul de coastă umed.",
-                "en": "Ride defensively on the wet coastal road."
+                "en": "Ride defensively on the wet coastal road.",
+                "el": "Ποδηλάτησε αμυντικά στον βρεγμένο παραλιακό δρόμο."
               }
             }
           ],
@@ -1031,6 +1106,12 @@
               "Wear a full raincoat and waterproof gloves.",
               "Brake pads wear out faster in wet conditions.",
               "Mudguards are your best friend on a day like this."
+            ],
+            "el": [
+              "Απόφυγε απότομα φρεναρίσματα σε βρεγμένες επιφάνειες.",
+              "Φόρα ολόκληρο αδιάβροχο και αδιάβροχα γάντια.",
+              "Τα τακάκια φρένων φθείρονται πιο γρήγορα σε υγρές συνθήκες.",
+              "Οι φτερωτές λάσπης είναι ο καλύτερός σου σύμμαχος σε μια μέρα σαν κι αυτή."
             ]
           }
         },
@@ -1039,7 +1120,8 @@
             "de": "Ein kühler Wind begleitet uns auf der Fahrt zur Apokalypse-Höhle am Morgen. Der Anstieg nach Chora lässt den Puls steigen und hält uns warm. Mittags genießen wir die Stille im Klosterbezirk. Die Windmühlen bieten eine dramatische Kulisse gegen den Winterhimmel. Nachmittags radeln wir zur ruhigen Bucht von Grikos, wo die Stille des Winters fast greifbar ist, bevor wir pünktlich zum Sonnenuntergang Skala erreichen.",
             "hu": "Hűvös szél kísér minket a reggeli úton a barlang felé. A Chora-ba vezető emelkedő megemeli a pulzust és melegen tart. Délben élvezzük a kolostornegyed csendjét. A szélmalmok drámai hátteret nyújtanak a téli égbolton. Délután Grikos csendes öblébe tekerünk, ahol a tél nyugalma szinte tapintható, majd pontosan a naplementére érünk Skalába.",
             "ro": "Un vânt răcoros ne însoțește pe drumul spre peșteră dimineața. Urcarea spre Chora ne crește pulsul și ne ține de cald. La prânz ne bucurăm de liniștea din zona mănăstirii. Morile de vânt oferă un decor dramatic pe cerul de iarnă. După-amiaza pedalăm spre golful liniștit Grikos, unde liniștea iernii este aproape palpabilă, ajungând în Skala fix la apus.",
-            "en": "A cool breeze accompanies us on the ride to the cave in the morning. The climb to Chora gets the heart rate up and keeps us warm. At noon, we enjoy the silence of the monastery district. The windmills provide a dramatic backdrop against the winter sky. In the afternoon, we cycle to the quiet bay of Grikos, where the winter stillness is palpable, reaching Skala just in time for sunset."
+            "en": "A cool breeze accompanies us on the ride to the cave in the morning. The climb to Chora gets the heart rate up and keeps us warm. At noon, we enjoy the silence of the monastery district. The windmills provide a dramatic backdrop against the winter sky. In the afternoon, we cycle to the quiet bay of Grikos, where the winter stillness is palpable, reaching Skala just in time for sunset.",
+            "el": "Ένα δροσερό αεράκι μας συνοδεύει στην πορεία προς το σπήλαιο το πρωί. Η ανάβαση προς την Χώρα ανεβάζει τους παλμούς και μας κρατάει ζεστούς. Το μεσημέρι, απολαμβάνουμε τη σιωπή της μοναστηριακής συνοικίας. Οι ανεμόμυλοι προσφέρουν δραματικό φόντο στο χειμερινό ουρανό. Το απόγευμα, ποδηλατούμε προς την ήσυχη όρμο του Γρίκου, όπου η χειμωνιάτικη γαλήνη είναι αισθητή, φτάνοντας στη Σκάλα ακριβώς για το ηλιοβασίλεμα."
           },
           "stops": [
             {
@@ -1048,7 +1130,8 @@
                 "de": "Die kühle Höhlenluft ist im Winter erfrischend.",
                 "hu": "A hűvös barlangi levegő télen frissítő.",
                 "ro": "Aerul răcoros din peșteră este revigorant iarna.",
-                "en": "The cool cave air is refreshing in winter."
+                "en": "The cool cave air is refreshing in winter.",
+                "el": "Ο δροσερός αέρας του σπηλαίου αναζωογονεί το χειμώνα."
               }
             },
             {
@@ -1057,7 +1140,8 @@
                 "de": "Fahren Sie langsam durch die leeren Gassen.",
                 "hu": "Hajtson lassan az üres sikátorokban.",
                 "ro": "Conduceți încet prin străzile goale.",
-                "en": "Ride slowly through the empty alleys."
+                "en": "Ride slowly through the empty alleys.",
+                "el": "Ποδηλάτησε αργά μέσα από τα άδεια σοκάκια."
               }
             },
             {
@@ -1066,7 +1150,8 @@
                 "de": "Sonnige Plätze im Innenhof suchen.",
                 "hu": "Keressen napos helyeket a belső udvaron.",
                 "ro": "Căutați locuri însorite în curtea interioară.",
-                "en": "Look for sunny spots in the courtyard."
+                "en": "Look for sunny spots in the courtyard.",
+                "el": "Ψάξε για ηλιόλουστα σημεία στην αυλή."
               }
             },
             {
@@ -1075,7 +1160,8 @@
                 "de": "Vorsicht vor starken Windböen an den Mühlen.",
                 "hu": "Vigyázzon az erős széllökésekre a malmoknál.",
                 "ro": "Atenție la rafalele puternice de vânt la mori.",
-                "en": "Watch out for strong gusts at the mills."
+                "en": "Watch out for strong gusts at the mills.",
+                "el": "Πρόσεχε για ισχυρούς ριπές στους μύλους."
               }
             },
             {
@@ -1084,7 +1170,8 @@
                 "de": "Genießen Sie die absolute Einsamkeit der Bucht.",
                 "hu": "Élvezze az öböl teljes magányát.",
                 "ro": "Bucurați-vă de singurătatea absolută a golfului.",
-                "en": "Enjoy the absolute solitude of the bay."
+                "en": "Enjoy the absolute solitude of the bay.",
+                "el": "Απόλαυσε την απόλυτη μοναξιά της όρμου."
               }
             },
             {
@@ -1093,7 +1180,8 @@
                 "de": "Licht am Rad einschalten für die Dämmerung.",
                 "hu": "Kapcsolja be a világítást a szürkületben.",
                 "ro": "Aprindeți luminile la bicicletă pentru amurg.",
-                "en": "Turn on your bike lights for the twilight."
+                "en": "Turn on your bike lights for the twilight.",
+                "el": "Άναψε τα φώτα του ποδηλάτου για το λυκόφως."
               }
             }
           ],
@@ -1121,6 +1209,12 @@
               "The winter sun is low and can be blinding; bring sunglasses.",
               "Stay hydrated even if you don't feel thirsty in the cold.",
               "Check your tire pressure before you head out."
+            ],
+            "el": [
+              "Ζεστά γάντια είναι απαραίτητα για τις καταβάσεις.",
+              "Ο χειμερινός ήλιος είναι χαμηλός και μπορεί να τυφλώνει· φέρε γυαλιά ηλίου.",
+              "Μείνε ενυδατωμένος ακόμα κι αν δεν διψάς στο κρύο.",
+              "Έλεγξε την πίεση των ελαστικών πριν φύγεις."
             ]
           }
         }
@@ -1139,7 +1233,8 @@
             "de": "Johanneskloster & Chora (Cluster 1)",
             "hu": "Szent János-kolostor & Chora (1. csoport)",
             "ro": "Mănăstirea Sf. Ioan & Chora (Cluster 1)",
-            "en": "Monastery of St. John & Chora (Cluster 1)"
+            "en": "Monastery of St. John & Chora (Cluster 1)",
+            "el": "Μοναστήρι Αγίου Ιωάννη & Χώρα (Συστάδα 1)"
           },
           "coords": [
             26.5447,
@@ -1155,7 +1250,8 @@
             "de": "Parken Sie unterhalb von Chora und gehen Sie hinauf. Früh ankommen, um den Menschenmassen zu entgehen.",
             "hu": "Parkoljon Chora alatt, és sétáljon fel. Érkezzen korán, hogy elkerülje a tömeget.",
             "ro": "Parcați sub Chora și urcați pe jos. Ajungeți devreme pentru a evita aglomerația.",
-            "en": "Park below Chora and walk up. Arrive early to beat the crowds."
+            "en": "Park below Chora and walk up. Arrive early to beat the crowds.",
+            "el": "Στάθμευσε κάτω από την Χώρα και ανέβηκε περπατώντας. Έλα νωρίς για να προλάβεις τα πλήθη."
           }
         },
         {
@@ -1163,7 +1259,8 @@
             "de": "Windmühlen von Patmos",
             "hu": "Pátmoszi szélmalmok",
             "ro": "Morile de vânt din Patmos",
-            "en": "Windmills of Patmos"
+            "en": "Windmills of Patmos",
+            "el": "Ανεμόμυλοι της Πάτμου"
           },
           "coords": [
             26.5461,
@@ -1179,7 +1276,8 @@
             "de": "Ein kurzer Spaziergang vom Kloster mit fantastischer Aussicht.",
             "hu": "Rövid séta a kolostortól, fantasztikus kilátással.",
             "ro": "O scurtă plimbare de la mănăstire cu priveliști fantastice.",
-            "en": "A short walk from the monastery with fantastic views."
+            "en": "A short walk from the monastery with fantastic views.",
+            "el": "Σύντομος περίπατος από το μοναστήρι με φανταστική θέα."
           }
         },
         {
@@ -1187,7 +1285,8 @@
             "de": "Altstadt Chora Erkundung",
             "hu": "Chora óvárosának felfedezése",
             "ro": "Explorarea orașului vechi Chora",
-            "en": "Chora Old Town Exploration"
+            "en": "Chora Old Town Exploration",
+            "el": "Εξερεύνηση Παλιάς Πόλης Χώρας"
           },
           "coords": [
             26.5478,
@@ -1203,7 +1302,8 @@
             "de": "Lassen Sie das Auto stehen und verirren Sie sich in den weiß getünchten Gassen.",
             "hu": "Hagyja az autót, és tévedjen el a fehérre meszelt sikátorokban.",
             "ro": "Lăsați mașina și pierdeți-vă pe aleile văruite în alb.",
-            "en": "Leave the car and get lost in the whitewashed alleys."
+            "en": "Leave the car and get lost in the whitewashed alleys.",
+            "el": "Άφησε το αυτοκίνητο και χαθείτε στα ασπρισμένα σοκάκια."
           }
         },
         {
@@ -1211,7 +1311,8 @@
             "de": "Grotte der Offenbarung (Cluster 2)",
             "hu": "Apokalipszis-barlangja (2. csoport)",
             "ro": "Peștera Apocalipsei (Cluster 2)",
-            "en": "Cave of the Apocalypse (Cluster 2)"
+            "en": "Cave of the Apocalypse (Cluster 2)",
+            "el": "Σπήλαιο της Αποκάλυψης (Συστάδα 2)"
           },
           "coords": [
             26.5484,
@@ -1227,7 +1328,8 @@
             "de": "Ein spiritueller Halt auf dem Weg zwischen Chora und Skala.",
             "hu": "Spirituális megálló Chora és Skala között.",
             "ro": "O oprire spirituală pe drumul dintre Chora și Skala.",
-            "en": "A spiritual stop on the way between Chora and Skala."
+            "en": "A spiritual stop on the way between Chora and Skala.",
+            "el": "Μια πνευματική στάση στο δρόμο μεταξύ Χώρας και Σκάλας."
           }
         },
         {
@@ -1235,7 +1337,8 @@
             "de": "Lambi Strand (Cluster 3)",
             "hu": "Lambi strand (3. csoport)",
             "ro": "Plaja Lambi (Cluster 3)",
-            "en": "Lambi Beach (Cluster 3)"
+            "en": "Lambi Beach (Cluster 3)",
+            "el": "Παραλία Λάμπη (Συστάδα 3)"
           },
           "coords": [
             26.568,
@@ -1251,7 +1354,8 @@
             "de": "Berühmt für seine bunten Kieselsteine. Ideal für ein Mittagessen am Meer.",
             "hu": "Híres a színes kavicsairól. Ideális egy tengerparti ebédhez.",
             "ro": "Renumită pentru pietricelele sale colorate. Ideală pentru un prânz pe malul mării.",
-            "en": "Famous for its colorful pebbles. Ideal for a seaside lunch."
+            "en": "Famous for its colorful pebbles. Ideal for a seaside lunch.",
+            "el": "Διάσημη για τα πολύχρωμα βότσαλά της. Ιδανική για μεσημεριανό δίπλα στη θάλασσα."
           }
         },
         {
@@ -1259,7 +1363,8 @@
             "de": "Fahrt zum Sonnenuntergang am Psili Ammos",
             "hu": "Autózás a naplementéhez a Psili Ammos strandon",
             "ro": "Drum spre apus la Plaja Psili Ammos",
-            "en": "Drive to Psili Ammos for Sunset"
+            "en": "Drive to Psili Ammos for Sunset",
+            "el": "Οδήγησε στην Ψιλή Άμμο για το ηλιοβασίλεμα"
           },
           "coords": [
             26.518,
@@ -1275,7 +1380,8 @@
             "de": "Der Weg dorthin ist unbefestigt, aber der abgelegene Strand ist die Belohnung.",
             "hu": "Az út földút, de a félreeső strand a jutalom.",
             "ro": "Drumul este neasfaltat, dar plaja retrasă este recompensa.",
-            "en": "The road is unpaved, but the secluded beach is the reward."
+            "en": "The road is unpaved, but the secluded beach is the reward.",
+            "el": "Ο δρόμος είναι χωματόδρομος, αλλά η απομονωμένη παραλία είναι η ανταμοιβή."
           }
         },
         {
@@ -1283,7 +1389,8 @@
             "de": "Abendessen in Skala",
             "hu": "Vacsora Skalában",
             "ro": "Cină în Skala",
-            "en": "Dinner in Skala"
+            "en": "Dinner in Skala",
+            "el": "Δείπνο στη Σκάλα"
           },
           "coords": [
             26.543,
@@ -1299,7 +1406,8 @@
             "de": "Schließen Sie den Tag mit frischem Fisch im belebten Hafen ab.",
             "hu": "Zárja a napot friss hallal a nyüzsgő kikötőben.",
             "ro": "Încheiați ziua cu pește proaspăt în portul animat.",
-            "en": "End your day with fresh fish at the bustling port."
+            "en": "End your day with fresh fish at the bustling port.",
+            "el": "Τελείωσε τη μέρα με φρέσκο ψάρι στο πολυσύχναστο λιμάνι."
           }
         }
       ],
@@ -1307,7 +1415,8 @@
         "de": "Beginnen Sie Ihren Tag mit dem Auto zum Chora-Parkplatz. Der Vormittag ist dem heiligen Cluster gewidmet: dem Johanneskloster, den Windmühlen und den Gassen von Chora, alles zu Fuß. Nach dem spirituellen Halt an der Grotte der Offenbarung fahren Sie zum nördlichen Lambi-Strand für ein Mittagessen und Entspannung. Der Höhepunkt des Nachmittags ist die Fahrt zum abgelegenen Psili Ammos, um einen unvergesslichen Sonnenuntergang zu erleben, bevor Sie zum Abendessen nach Skala zurückkehren.",
         "hu": "Kezdje a napot azzal, hogy autóval a Chora parkolójába hajt. A délelőtt a szent klaszteré: a Szent János-kolostoré, a szélmalmoké és Chora sikátoraié, mindezt gyalogosan. Az Apokalipszis-barlangjánál tett spirituális megálló után irány az északi Lambi strand ebédelni és pihenni. A délután csúcspontja az autózás a félreeső Psili Ammoshoz egy felejthetetlen naplementéért, mielőtt visszatérne Skalába vacsorázni.",
         "ro": "Începeți ziua conducând spre parcarea din Chora. Dimineața este dedicată clusterului sacru: Mănăstirea Sf. Ioan, morile de vânt și aleile din Chora, toate explorate pe jos. După oprirea spirituală la Peștera Apocalipsei, conduceți spre nord, la plaja Lambi, pentru prânz și relaxare. Punctul culminant al după-amiezii este drumul spre îndepărtata Psili Ammos pentru un apus de neuitat, înainte de a reveni la Skala pentru cină.",
-        "en": "Start your day by driving to the Chora parking area. The morning is dedicated to the sacred cluster: the Monastery of St. John, the windmills, and the alleys of Chora, all explored on foot. After the spiritual stop at the Cave of the Apocalypse, drive north to Lambi beach for lunch and relaxation. The afternoon's highlight is the drive to the remote Psili Ammos for an unforgettable sunset before returning to Skala for dinner."
+        "en": "Start your day by driving to the Chora parking area. The morning is dedicated to the sacred cluster: the Monastery of St. John, the windmills, and the alleys of Chora, all explored on foot. After the spiritual stop at the Cave of the Apocalypse, drive north to Lambi beach for lunch and relaxation. The afternoon's highlight is the drive to the remote Psili Ammos for an unforgettable sunset before returning to Skala for dinner.",
+        "el": "Ξεκίνα τη μέρα οδηγώντας προς την περιοχή στάθμευσης της Χώρας. Το πρωί αφιερώνεται στον ιερό πυρήνα: το Μοναστήρι του Αγίου Ιωάννη, οι ανεμόμυλοι και τα σοκάκια της Χώρας, όλα εξερευνώμενα πεζοί. Μετά τη πνευματική στάση στο Σπήλαιο της Αποκάλυψης, οδήγησε βόρεια στην παραλία Λάμπη για μεσημεριανό και χαλάρωση. Το απόγευμα το κύριο σημείο είναι η οδήγηση προς την απομακρυσμένη Ψιλή Άμμο για ένα αξέχαστο ηλιοβασίλεμα πριν επιστρέψεις στη Σκάλα για δείπνο."
       },
       "gastro_picks": {
         "de": [
@@ -1503,6 +1612,12 @@
           "Some of the best beaches are reached via dirt roads; drive carefully.",
           "Check opening hours as they can vary seasonally.",
           "Always have some cash with you, especially in more remote areas."
+        ],
+        "el": [
+          "Νοίκιασε ένα μικρό αυτοκίνητο καθώς οι δρόμοι είναι στενοί και οι θέσεις στάθμευσης περιορισμένες.",
+          "Μερικές από τις καλύτερες παραλίες προσεγγίζονται μέσω χωματόδρομων· οδήγησε προσεκτικά.",
+          "Έλεγξε τις ώρες λειτουργίας καθώς μπορεί να διαφέρουν εποχικά.",
+          "Να έχεις πάντα λίγο μετρητό μαζί σου, ειδικά σε πιο απομακρυσμένες περιοχές."
         ]
       },
       "variants": {
@@ -1511,7 +1626,8 @@
             "de": "Im Auto erkunden wir Patmos heute ganz entspannt und trocken. Morgens besuchen wir das Kloster und Chora, während der Regen gegen die Scheiben trommelt. Mittags bieten die Windmühlen ein raues, schönes Bild. Nachmittags geht es zur Apokalypse-Höhle und weiter zum Lambi-Strand, wo die bunten Steine im Regen besonders intensiv leuchten. Den Tag beenden wir mit einem gemütlichen Abendessen in Skala.",
             "hu": "Autóval ma teljesen ellazultan és szárazon fedezzük fel Patmoszt. Reggel meglátogatjuk a kolostort és Chorát, miközben az eső kopog az ablakon. Délben a szélmalmok nyers, szép látványt nyújtanak. Délután a barlanghoz, majd a Lambi-strandra megyünk, ahol a színes kövek az esőben különösen élénken ragyognak. A napot egy kellemes vacsorával zárjuk Skalában.",
             "ro": "Cu mașina, explorăm Patmos astăzi relaxați și uscați. Dimineața vizităm mănăstirea și Chora, în timp ce ploaia bate în geamuri. La prânz, morile oferă o imagine aspră și frumoasă. După-amiaza mergem la peșteră și la plaja Lambi, unde pietrele colorate strălucesc intens în ploaie. Încheiem ziua cu o cină plăcută în Skala.",
-            "en": "By car, we explore Patmos today in a relaxed and dry manner. In the morning, we visit the monastery and Chora while rain drums on the windows. At noon, the windmills offer a raw, beautiful sight. In the afternoon, we head to the cave and then to Lambi Beach, where the colored stones glow intensely in the rain. We end the day with a pleasant dinner in Skala."
+            "en": "By car, we explore Patmos today in a relaxed and dry manner. In the morning, we visit the monastery and Chora while rain drums on the windows. At noon, the windmills offer a raw, beautiful sight. In the afternoon, we head to the cave and then to Lambi Beach, where the colored stones glow intensely in the rain. We end the day with a pleasant dinner in Skala.",
+            "el": "Με αυτοκίνητο, εξερευνούμε την Πάτμο σήμερα με χαλαρό και στεγνό τρόπο. Το πρωί επισκεπτόμαστε το μοναστήρι και την Χώρα ενώ η βροχή χτυπά τα παράθυρα. Το μεσημέρι, οι ανεμόμυλοι προσφέρουν ακατέργαστη, όμορφη εικόνα. Το απόγευμα κατευθυνόμαστε προς το σπήλαιο και μετά στην παραλία Λάμπη, όπου τα πολύχρωμα βότσαλα λάμπουν έντονα στη βροχή. Τελειώνουμε τη μέρα με ένα ευχάριστο δείπνο στη Σκάλα."
           },
           "stops": [
             {
@@ -1520,7 +1636,8 @@
                 "de": "Parken Sie so nah wie möglich am Eingang.",
                 "hu": "Parkoljon a lehető legközelebb a bejárathoz.",
                 "ro": "Parcați cât mai aproape de intrare.",
-                "en": "Park as close to the entrance as possible."
+                "en": "Park as close to the entrance as possible.",
+                "el": "Στάθμευσε όσο πιο κοντά στην είσοδο μπορείς."
               }
             },
             {
@@ -1529,7 +1646,8 @@
                 "de": "Bleiben Sie bei starkem Regen im Auto für Fotos.",
                 "hu": "Heves esőben maradjon az autóban fotózni.",
                 "ro": "Rămâneți în mașină pentru poze în caz de ploaie grea.",
-                "en": "Stay in the car for photos if the rain is heavy."
+                "en": "Stay in the car for photos if the rain is heavy.",
+                "el": "Μείνε μέσα στο αυτοκίνητο για φωτογραφίες αν η βροχή είναι δυνατή."
               }
             },
             {
@@ -1538,7 +1656,8 @@
                 "de": "Suchen Sie überdachte Parkmöglichkeiten in Chora.",
                 "hu": "Keressen fedett parkolási lehetőséget Chorában.",
                 "ro": "Căutați opțiuni de parcare acoperite în Chora.",
-                "en": "Look for sheltered parking options in Chora."
+                "en": "Look for sheltered parking options in Chora.",
+                "el": "Ψάξε για καλυμμένες επιλογές στάθμευσης στην Χώρα."
               }
             },
             {
@@ -1547,7 +1666,8 @@
                 "de": "Der kurze Weg vom Parkplatz ist gut befestigt.",
                 "hu": "A rövid út a parkolótól jól kiépített.",
                 "ro": "Drumul scurt de la parcare este bine amenajat.",
-                "en": "The short path from the parking is well-paved."
+                "en": "The short path from the parking is well-paved.",
+                "el": "Το σύντομο μονοπάτι από το πάρκινγκ είναι καλά πλακοστρωμένο."
               }
             },
             {
@@ -1556,7 +1676,8 @@
                 "de": "Die Steine leuchten nass am schönsten.",
                 "hu": "A kövek nedvesen a legszebbek.",
                 "ro": "Pietrele sunt cele mai frumoase când sunt ude.",
-                "en": "The stones look most vibrant when wet."
+                "en": "The stones look most vibrant when wet.",
+                "el": "Οι πέτρες δείχνουν πιο ζωντανές όταν είναι βρεγμένες."
               }
             },
             {
@@ -1565,7 +1686,8 @@
                 "de": "Vorsicht auf unbefestigten Abschnitten bei Nässe.",
                 "hu": "Vigyázat a nem aszfaltozott részeken esőben.",
                 "ro": "Atenție pe porțiunile neasfaltate când e ud.",
-                "en": "Caution on unpaved sections in wet weather."
+                "en": "Caution on unpaved sections in wet weather.",
+                "el": "Προσοχή σε μη ασφαλτοστρωμένα τμήματα σε βρεγμένο καιρό."
               }
             },
             {
@@ -1574,7 +1696,8 @@
                 "de": "Viele Restaurants in Skala haben Parkplätze vor der Tür.",
                 "hu": "Sok skalai étteremnek van parkolója az ajtó előtt.",
                 "ro": "Multe restaurante din Skala au parcare la ușă.",
-                "en": "Many restaurants in Skala have nearby parking."
+                "en": "Many restaurants in Skala have nearby parking.",
+                "el": "Πολλά εστιατόρια στη Σκάλα έχουν κοντινή στάθμευση."
               }
             }
           ],
@@ -1602,6 +1725,12 @@
               "Watch for rockfall on coastal roads after heavy rain.",
               "Do not leave valuables visible inside the car.",
               "Use the air conditioning to keep the windows clear."
+            ],
+            "el": [
+              "Έλεγξε την κατάσταση των υαλοκαθαριστήρων σου.",
+              "Πρόσεχε για κατολισθήσεις βράχων στους παραλιακούς δρόμους μετά από έντονη βροχή.",
+              "Μην αφήνετε πολύτιμα αντικείμενα ορατά μέσα στο αυτοκίνητο.",
+              "Χρησιμοποιήστε το κλιματιστικό για να διατηρείτε τα παράθυρα καθαρά."
             ]
           }
         },
@@ -1610,7 +1739,8 @@
             "de": "Patmos im Winter mit dem Auto ist ein Privileg der Ruhe. Wir fahren morgens zum Kloster, ohne Parkplatzsorgen in Chora. Die Luft ist frisch, und die Aussicht von den Windmühlen reicht bis zu den Nachbarinseln. Nachmittags besuchen wir die Apokalypse-Höhle und fahren zum einsamen Lambi-Strand. Der Sonnenuntergang bei Psili Ammos ist im Winterlicht besonders farbenfroh, bevor wir den Abend im lebendigen Skala verbringen.",
             "hu": "Patmosz télen autóval a nyugalom kiváltsága. Reggel a kolostorhoz hajtunk, parkolási gondok nélkül Chorában. A levegő friss, a szélmalmoktól a kilátás a szomszédos szigetekig ér. Délután meglátogatjuk a barlangot és az elhagyatott Lambi-strandot. A naplemente Psili Ammosnál a téli fényben különösen színes, mielőtt az estét az élő Skalában töltenénk.",
             "ro": "Patmos iarna cu mașina este un privilegiu al liniștii. Mergem dimineața la mănăstire, fără griji de parcare în Chora. Aerul este proaspăt, iar vederea de la mori ajunge până la insulele vecine. După-amiaza vizităm peștera și plaja pustie Lambi. Apusul la Psili Ammos este deosebit de colorat în lumina de iarnă, înainte de a petrece seara în Skala.",
-            "en": "Patmos in winter by car is a privilege of tranquility. We drive to the monastery in the morning, without parking worries in Chora. The air is fresh, and the view from the windmills reaches neighboring islands. In the afternoon, we visit the cave and the lonely Lambi beach. The sunset at Psili Ammos is especially colorful in the winter light before we spend the evening in Skala."
+            "en": "Patmos in winter by car is a privilege of tranquility. We drive to the monastery in the morning, without parking worries in Chora. The air is fresh, and the view from the windmills reaches neighboring islands. In the afternoon, we visit the cave and the lonely Lambi beach. The sunset at Psili Ammos is especially colorful in the winter light before we spend the evening in Skala.",
+            "el": "Η Πάτμος το χειμώνα με αυτοκίνητο είναι προνόμιο γαλήνης. Πηγαίνουμε στο μοναστήρι το πρωί, χωρίς προβλήματα στάθμευσης στην Χώρα. Ο αέρας είναι δροσερός και η θέα από τους ανεμόμυλους φτάνει τα γειτονικά νησιά. Το απόγευμα επισκεπτόμαστε τη σπηλιά και την ερημική παραλία Λάμπη. Το ηλιοβασίλεμα στην Ψιλή Άμμο είναι ιδιαίτερα χρωματιστό στο χειμερινό φως πριν περάσουμε το βράδυ στη Σκάλα."
           },
           "stops": [
             {
@@ -1619,7 +1749,8 @@
                 "de": "Parkplätze sind im Winter direkt am Eingang frei.",
                 "hu": "Télen közvetlenül a bejáratnál szabadok a parkolók.",
                 "ro": "Locurile de parcare sunt libere chiar la intrare iarna.",
-                "en": "Parking spots are easily found right at the entrance in winter."
+                "en": "Parking spots are easily found right at the entrance in winter.",
+                "el": "Θέσεις στάθμευσης βρίσκονται εύκολα ακριβώς στην είσοδο τον χειμώνα."
               }
             },
             {
@@ -1628,7 +1759,8 @@
                 "de": "Klarste Sicht des Jahres, ideal für Weitwinkel-Fotos.",
                 "hu": "Az év legtisztább kilátása, ideális nagylátószögű fotókhoz.",
                 "ro": "Cea mai clară vedere a anului, ideală pentru poze.",
-                "en": "Clearest views of the year, ideal for wide-angle photos."
+                "en": "Clearest views of the year, ideal for wide-angle photos.",
+                "el": "Οι πιο καθαρές οπτικές του χρόνου, ιδανικές για ευρυγώνιες φωτογραφίες."
               }
             },
             {
@@ -1637,7 +1769,8 @@
                 "de": "Erkunden Sie die Gassen ohne die Sommerhitze.",
                 "hu": "Fedezze fel a sikátorokat a nyári hőség nélkül.",
                 "ro": "Explorați străzile fără căldura verii.",
-                "en": "Explore the alleys without the summer heat."
+                "en": "Explore the alleys without the summer heat.",
+                "el": "Εξερευνήστε τα στενά χωρίς τη θερμότητα του καλοκαιριού."
               }
             },
             {
@@ -1646,7 +1779,8 @@
                 "de": "Ein sehr friedlicher Ort im Winter.",
                 "hu": "Nagyon békés hely télen.",
                 "ro": "Un loc foarte liniștit iarna.",
-                "en": "A very peaceful place in the winter."
+                "en": "A very peaceful place in the winter.",
+                "el": "Ένας πολύ ήρεμος τόπος το χειμώνα."
               }
             },
             {
@@ -1655,7 +1789,8 @@
                 "de": "Perfekt für einen einsamen Strandspaziergang.",
                 "hu": "Tökéletes egy magányos tengerparti sétához.",
                 "ro": "Perfect pentru o plimbare solitară pe plajă.",
-                "en": "Perfect for a solitary beach walk."
+                "en": "Perfect for a solitary beach walk.",
+                "el": "Ιδανικό για μοναχικό περίπατο στην παραλία."
               }
             },
             {
@@ -1664,7 +1799,8 @@
                 "de": "Die Farben des Winterhimmels sind spektakulär.",
                 "hu": "A téli égbolt színei látványosak.",
                 "ro": "Culorile cerului de iarnă sunt spectaculoase.",
-                "en": "The colors of the winter sky are spectacular."
+                "en": "The colors of the winter sky are spectacular.",
+                "el": "Τα χρώματα του χειμερινού ουρανού είναι θεαματικά."
               }
             },
             {
@@ -1673,7 +1809,8 @@
                 "de": "Skala ist das soziale Zentrum im Winter.",
                 "hu": "Skala a társadalmi központ télen.",
                 "ro": "Skala este centrul social iarna.",
-                "en": "Skala is the social hub during the winter."
+                "en": "Skala is the social hub during the winter.",
+                "el": "Η Σκάλα είναι το κοινωνικό κέντρο κατά τη διάρκεια του χειμώνα."
               }
             }
           ],
@@ -1701,6 +1838,12 @@
               "Roads are emptier in winter, but watch out for animals.",
               "Check the coolant level if a cold night is expected.",
               "Enjoy the hassle-free parking everywhere you go."
+            ],
+            "el": [
+              "Συμπληρώστε καύσιμα εγκαίρως καθώς κάποια βενζινάδικα μπορεί να κλείνουν νωρίς.",
+              "Οι δρόμοι είναι πιο άδειοι το χειμώνα, αλλά προσέξτε για ζώα.",
+              "Ελέγξτε το επίπεδο ψυκτικού αν προβλέπεται κρύα νύχτα.",
+              "Απολαύστε την ανέμελη στάθμευση όπου κι αν πάτε."
             ]
           }
         }
@@ -1719,7 +1862,8 @@
             "de": "Fahrt von Skala nach Chora (Cluster 1)",
             "hu": "Buszozás Skalából Chorába (1. csoport)",
             "ro": "Călătorie cu autobuzul din Skala în Chora (Cluster 1)",
-            "en": "Bus ride from Skala to Chora (Cluster 1)"
+            "en": "Bus ride from Skala to Chora (Cluster 1)",
+            "el": "Διαδρομή με λεωφορείο από Σκάλα προς Χώρα (Σύμπλεγμα 1)"
           },
           "coords": [
             26.548,
@@ -1735,7 +1879,8 @@
             "de": "Der Bus fährt regelmäßig vom Hafen in Skala ab.",
             "hu": "A busz rendszeresen indul Skala kikötőjéből.",
             "ro": "Autobuzul pleacă regulat din portul Skala.",
-            "en": "The bus leaves regularly from the port in Skala."
+            "en": "The bus leaves regularly from the port in Skala.",
+            "el": "Το λεωφορείο φεύγει τακτικά από το λιμάνι της Σκάλας."
           }
         },
         {
@@ -1743,7 +1888,8 @@
             "de": "Johanneskloster",
             "hu": "Szent János-kolostor",
             "ro": "Mănăstirea Sfântul Ioan",
-            "en": "Monastery of Saint John"
+            "en": "Monastery of Saint John",
+            "el": "Μονή Αγίου Ιωάννη"
           },
           "coords": [
             26.5447,
@@ -1759,7 +1905,8 @@
             "de": "Die Bushaltestelle ist direkt unterhalb des Klostereingangs.",
             "hu": "A buszmegálló közvetlenül a kolostor bejárata alatt található.",
             "ro": "Stația de autobuz este chiar sub intrarea în mănăstire.",
-            "en": "The bus stop is right below the monastery entrance."
+            "en": "The bus stop is right below the monastery entrance.",
+            "el": "Η στάση του λεωφορείου είναι ακριβώς κάτω από την είσοδο της μονής."
           }
         },
         {
@@ -1767,7 +1914,8 @@
             "de": "Altstadt Chora",
             "hu": "Chora óvárosa",
             "ro": "Orașul vechi Chora",
-            "en": "Chora Old Town"
+            "en": "Chora Old Town",
+            "el": "Χώρα Παλιά Πόλη"
           },
           "coords": [
             26.5478,
@@ -1783,7 +1931,8 @@
             "de": "Nehmen Sie sich Zeit, um die Geschäfte und Cafés nach dem Klosterbesuch zu erkunden.",
             "hu": "Szánjon időt a boltok és kávézók felfedezésére a kolostorlátogatás után.",
             "ro": "Luați-vă timp să explorați magazinele și cafenelele după vizita la mănăstire.",
-            "en": "Take your time to explore the shops and cafes after the monastery visit."
+            "en": "Take your time to explore the shops and cafes after the monastery visit.",
+            "el": "Πάρτε τον χρόνο σας να εξερευνήσετε τα καταστήματα και τα καφέ μετά την επίσκεψη στη μονή."
           }
         },
         {
@@ -1791,7 +1940,8 @@
             "de": "Grotte der Offenbarung",
             "hu": "Apokalipszis-barlangja",
             "ro": "Peștera Apocalipsei",
-            "en": "Cave of the Apocalypse"
+            "en": "Cave of the Apocalypse",
+            "el": "Σπήλαιο της Αποκάλυψης"
           },
           "coords": [
             26.5484,
@@ -1807,7 +1957,8 @@
             "de": "Ein kurzer Spaziergang bergab von der Bushaltestelle in Chora.",
             "hu": "Rövid séta lefelé a Chora-i buszmegállótól.",
             "ro": "O scurtă plimbare la vale de la stația de autobuz din Chora.",
-            "en": "A short walk downhill from the bus stop in Chora."
+            "en": "A short walk downhill from the bus stop in Chora.",
+            "el": "Λίγη βόλτα κατηφορικά από τη στάση του λεωφορείου στη Χώρα."
           }
         },
         {
@@ -1815,7 +1966,8 @@
             "de": "Rückfahrt nach Skala (Cluster 2)",
             "hu": "Vissza Skalába (2. csoport)",
             "ro": "Întoarcere la Skala (Cluster 2)",
-            "en": "Return to Skala (Cluster 2)"
+            "en": "Return to Skala (Cluster 2)",
+            "el": "Επιστροφή στη Σκάλα (Σύμπλεγμα 2)"
           },
           "coords": [
             26.543,
@@ -1831,7 +1983,8 @@
             "de": "Nehmen Sie den Bus von der Hauptstraße unterhalb der Grotte zurück.",
             "hu": "Szálljon fel a buszra a barlang alatti főúton.",
             "ro": "Luați autobuzul înapoi de pe drumul principal de sub peșteră.",
-            "en": "Catch the bus back from the main road below the cave."
+            "en": "Catch the bus back from the main road below the cave.",
+            "el": "Πιάστε το λεωφορείο επιστροφής από τον κεντρικό δρόμο κάτω από τη σπηλιά."
           }
         },
         {
@@ -1839,7 +1992,8 @@
             "de": "Spätes Mittagessen und Entspannung in Skala",
             "hu": "Késői ebéd és pihenés Skalában",
             "ro": "Prânz târziu și relaxare în Skala",
-            "en": "Late Lunch and Relaxation in Skala"
+            "en": "Late Lunch and Relaxation in Skala",
+            "el": "Αργό μεσημεριανό και χαλάρωση στη Σκάλα"
           },
           "coords": [
             26.544,
@@ -1855,7 +2009,8 @@
             "de": "Genießen Sie eine Mahlzeit am Hafen und entspannen Sie am nahe gelegenen Strand.",
             "hu": "Élvezze az ételt a kikötőben, és pihenjen a közeli strandon.",
             "ro": "Bucurați-vă de o masă în port și relaxați-vă pe plaja din apropiere.",
-            "en": "Enjoy a meal at the port and relax at the nearby beach."
+            "en": "Enjoy a meal at the port and relax at the nearby beach.",
+            "el": "Απολαύστε γεύμα στο λιμάνι και χαλαρώστε στην κοντινή παραλία."
           }
         }
       ],
@@ -1863,7 +2018,8 @@
         "de": "Nutzen Sie den lokalen Bus für eine stressfreie Erkundung. Fahren Sie morgens von Skala nach Chora. Der Vormittag gehört ganz dem heiligen Duo: dem Johanneskloster und den verwinkelten Gassen von Chora, die alle leicht zu Fuß erreichbar sind. Nach einem Besuch der Grotte der Offenbarung nehmen Sie den Bus zurück nach Skala für ein spätes Mittagessen und einen entspannten Nachmittag am Hafen oder am Strand von Meloi.",
         "hu": "Használja a helyi buszt a stresszmentes felfedezéshez. Utazzon reggel Skalából Chorába. A délelőtt a szent párosé: a Szent János-kolostoré és Chora kanyargós sikátoraié, mind könnyen megközelíthető gyalog. Az Apokalipszis-barlangjának meglátogatása után busszal térjen vissza Skalába egy késői ebédre és egy pihentető délutánra a kikötőben vagy a Meloi strandon.",
         "ro": "Folosiți autobuzul local pentru o explorare fără stres. Luați autobuzul de dimineață din Skala spre Chora. Dimineața este dedicată duo-ului sacru: Mănăstirea Sf. Ioan și aleile sinuoase din Chora, toate ușor accesibile pe jos. După vizitarea Peșterii Apocalipsei, luați autobuzul înapoi spre Skala pentru un prânz târziu și o după-amiază relaxantă în port sau la plaja Meloi.",
-        "en": "Use the local bus for a stress-free exploration. Take the morning bus from Skala to Chora. The morning is for the sacred duo: the Monastery of St. John and the winding alleys of Chora, all easily reachable on foot. After visiting the Cave of the Apocalypse, take the bus back to Skala for a late lunch and a relaxing afternoon at the port or Meloi beach."
+        "en": "Use the local bus for a stress-free exploration. Take the morning bus from Skala to Chora. The morning is for the sacred duo: the Monastery of St. John and the winding alleys of Chora, all easily reachable on foot. After visiting the Cave of the Apocalypse, take the bus back to Skala for a late lunch and a relaxing afternoon at the port or Meloi beach.",
+        "el": "Χρησιμοποιήστε το τοπικό λεωφορείο για ξεκούραστη εξερεύνηση. Πάρτε το πρωινό λεωφορείο από τη Σκάλα προς τη Χώρα. Το πρωί είναι για το ιερό ζευγάρι: τη Μονή του Αγίου Ιωάννη και τα λιθόστρωτα δρομάκια της Χώρας, όλα εύκολα προσβάσιμα με τα πόδια. Μετά την επίσκεψη στο Σπήλαιο της Αποκάλυψης, πάρτε το λεωφορείο πίσω στη Σκάλα για αργό μεσημεριανό και χαλαρό απόγευμα στο λιμάνι ή στην παραλία Μέλοι."
       },
       "gastro_picks": {
         "de": [
@@ -2059,6 +2215,12 @@
           "Buy your tickets before boarding the bus, often from a nearby kiosk.",
           "Buses can get crowded in high season, so be at the stop early.",
           "The bus is an excellent and cheap way to travel between Skala and Chora."
+        ],
+        "el": [
+          "Ελέγξτε το πρόγραμμα των λεωφορείων εκ των προτέρων καθώς μπορεί να αλλάξει ανάλογα με την εποχή.",
+          "Αγοράστε τα εισιτήριά σας πριν επιβιβαστείτε στο λεωφορείο, συχνά από κοντινό περίπτερο.",
+          "Τα λεωφορεία μπορεί να γεμίσουν στην υψηλή περίοδο, οπότε να είστε νωρίς στη στάση.",
+          "Το λεωφορείο είναι ένας εξαιρετικός και φθηνός τρόπος για να ταξιδέψετε μεταξύ Σκάλας και Χώρας."
         ]
       },
       "variants": {
@@ -2067,7 +2229,8 @@
             "de": "Mit dem Bus geht es heute sicher durch den Regen von Skala hinauf nach Chora. Vormittags besuchen wir das Kloster und genießen den Ausblick unter dem Schutz der dicken Mauern. Mittags schlendern wir durch die überdachten Gassen von Chora, bevor wir zur Höhle hinabsteigen. Nachmittags bringt uns der Bus zurück nach Skala, wo wir die Zeit in einem warmen Café am Hafen genießen, bis der Tag endet.",
             "hu": "Busszal ma biztonságban utazunk az esőben Skalából fel Chorába. Délelőtt meglátogatjuk a kolostort, és a vastag falak védelmében élvezzük a kilátást. Délben Chora fedett sikátoraiban sétálunk, mielőtt leereszkednénk a barlanghoz. Délután a busz visszavisz Skalába, ahol egy meleg kikötői kávézóban töltjük az időt a nap végéig.",
             "ro": "Cu autobuzul mergem astăzi în siguranță prin ploaie de la Skala la Chora. Dimineața vizităm mănăstirea și admirăm vederea sub protecția zidurilor groase. La prânz ne plimbăm prin străzile acoperite din Chora înainte de a coborî la peșteră. După-amiaza autobuzul ne duce înapoi la Skala, unde petrecem timpul într-o cafenea caldă din port.",
-            "en": "By bus, we travel safely through the rain today from Skala up to Chora. In the morning, we visit the monastery and enjoy the view under the protection of its thick walls. At noon, we stroll through Chora's sheltered alleys before descending to the cave. In the afternoon, the bus takes us back to Skala, where we enjoy time in a warm harbor cafe until the day ends."
+            "en": "By bus, we travel safely through the rain today from Skala up to Chora. In the morning, we visit the monastery and enjoy the view under the protection of its thick walls. At noon, we stroll through Chora's sheltered alleys before descending to the cave. In the afternoon, the bus takes us back to Skala, where we enjoy time in a warm harbor cafe until the day ends.",
+            "el": "Σήμερα ταξιδεύουμε με ασφάλεια με το λεωφορείο μέσα στη βροχή από τη Σκάλα προς τη Χώρα. Το πρωί επισκεπτόμαστε τη μονή και απολαμβάνουμε τη θέα κάτω από την προστασία των παχιών τοίχων της. Το μεσημέρι περπατάμε στα στεγασμένα δρομάκια της Χώρας πριν κατηφορίσουμε στη σπηλιά. Το απόγευμα το λεωφορείο μας επιστρέφει στη Σκάλα, όπου περνάμε χρόνο σε ένα ζεστό καφέ του λιμανιού μέχρι να τελειώσει η μέρα."
           },
           "stops": [
             {
@@ -2076,7 +2239,8 @@
                 "de": "Warten Sie im Wartehäuschen am Hafen.",
                 "hu": "Várjon a kikötői buszváróban.",
                 "ro": "Așteptați în stația acoperită din port.",
-                "en": "Wait in the sheltered bus stop at the harbor."
+                "en": "Wait in the sheltered bus stop at the harbor.",
+                "el": "Περιμένετε στη στεγασμένη στάση του λεωφορείου στο λιμάνι."
               }
             },
             {
@@ -2085,7 +2249,8 @@
                 "de": "Idealer Ort, um den Regen abzuwarten.",
                 "hu": "Ideális hely az eső kivárására.",
                 "ro": "Loc ideal pentru a aștepta să treacă ploaia.",
-                "en": "Ideal place to wait out a heavy downpour."
+                "en": "Ideal place to wait out a heavy downpour.",
+                "el": "Ιδανικό μέρος για να περιμένετε μέχρι να κοπάσει μια δυνατή μπόρα."
               }
             },
             {
@@ -2094,7 +2259,8 @@
                 "de": "Die Gassen bieten überraschend viel Schutz.",
                 "hu": "A sikátorok meglepően sok védelmet nyújtanak.",
                 "ro": "Străzile oferă surprinzător de mult adăpost.",
-                "en": "The narrow streets provide surprising shelter."
+                "en": "The narrow streets provide surprising shelter.",
+                "el": "Τα στενά δρομάκια παρέχουν εκπληκτική προστασία."
               }
             },
             {
@@ -2103,7 +2269,8 @@
                 "de": "Die Bushaltestelle liegt nahe am Eingang.",
                 "hu": "A buszmegálló közel van a bejárathoz.",
                 "ro": "Stația de autobuz este aproape de intrare.",
-                "en": "The bus stop is located very close to the entrance."
+                "en": "The bus stop is located very close to the entrance.",
+                "el": "Η στάση είναι τοποθετημένη πολύ κοντά στην είσοδο."
               }
             },
             {
@@ -2112,7 +2279,8 @@
                 "de": "Prüfen Sie die Rückfahrzeiten bei Regen genau.",
                 "hu": "Esőben pontosan ellenőrizze a visszaindulást.",
                 "ro": "Verificați exact orele de întoarcere pe ploaie.",
-                "en": "Check the return schedule carefully in wet weather."
+                "en": "Check the return schedule carefully in wet weather.",
+                "el": "Ελέγξτε προσεκτικά το πρόγραμμα επιστροφής σε υγρό καιρό."
               }
             },
             {
@@ -2121,7 +2289,8 @@
                 "de": "Suchen Sie ein Café mit gemütlichen Sesseln.",
                 "hu": "Keressen egy kávézót kényelmes fotelekkel.",
                 "ro": "Căutați o cafenea cu fotolii confortabile.",
-                "en": "Find a cafe with comfortable armchairs."
+                "en": "Find a cafe with comfortable armchairs.",
+                "el": "Βρείτε ένα καφέ με άνετες πολυθρόνες."
               }
             }
           ],
@@ -2149,6 +2318,12 @@
               "Buses might be slightly delayed during heavy rain.",
               "Wear waterproof shoes for the walk to the bus stop.",
               "Seats on the bus fill up quickly when it rains."
+            ],
+            "el": [
+              "Να έχετε ακριβές αντίτιμο έτοιμο για το εισιτήριο του λεωφορείου.",
+              "Τα λεωφορεία μπορεί να έχουν μικρές καθυστερήσεις σε δυνατή βροχή.",
+              "Φορέστε αδιάβροχα παπούτσια για το περπάτημα μέχρι τη στάση του λεωφορείου.",
+              "Οι θέσεις στο λεωφορείο γεμίζουν γρήγορα όταν βρέχει."
             ]
           }
         },
@@ -2157,7 +2332,8 @@
             "de": "Im Winter bietet der Bus eine verlässliche Verbindung zwischen Skala und Chora. Morgens fahren wir hinauf zum Kloster, während die Insel noch schläft. Die Ruhe in Chora am Mittag ist magisch. Nach dem Besuch der Apokalypse-Höhle nehmen wir den Nachmittagsbus zurück nach Skala. Da es früher dunkel wird, genießen wir ein spätes Mittagessen und die entspannte Atmosphäre im Hafenort, wo sich die Einheimischen treffen.",
             "hu": "Télen a busz megbízható kapcsolatot kínál Skala és Chora között. Reggel felmegyünk a kolostorhoz, miközben a sziget még alszik. Chora nyugalma délben varázslatos. A barlang meglátogatása után a délutáni busszal megyünk vissza Skalába. Mivel korábban sötétedik, egy késői ebédet és a kikötőváros nyugodt légkörét élvezzük, ahol a helyiek találkoznak.",
             "ro": "Iarna, autobuzul oferă o legătură de încredere între Skala și Chora. Dimineața urcăm la mănăstire în timp ce insula încă doarme. Liniștea din Chora la prânz este magică. După vizitarea peșterii, luăm autobuzul de după-amiază înapoi la Skala. Deoarece se întunecă mai devreme, ne bucurăm de un prânz târziu în port.",
-            "en": "In winter, the bus provides a reliable link between Skala and Chora. In the morning, we head up to the monastery while the island is still asleep. The silence in Chora at noon is magical. After visiting the cave, we take the afternoon bus back to Skala. As it gets dark earlier, we enjoy a late lunch and the relaxed atmosphere in the harbor town where locals gather."
+            "en": "In winter, the bus provides a reliable link between Skala and Chora. In the morning, we head up to the monastery while the island is still asleep. The silence in Chora at noon is magical. After visiting the cave, we take the afternoon bus back to Skala. As it gets dark earlier, we enjoy a late lunch and the relaxed atmosphere in the harbor town where locals gather.",
+            "el": "Το χειμώνα το λεωφορείο παρέχει αξιόπιστη σύνδεση μεταξύ Σκάλας και Χώρας. Το πρωί ανεβαίνουμε στη μονή ενώ το νησί κοιμάται ακόμα. Η σιγή στη Χώρα το μεσημέρι είναι μαγική. Μετά την επίσκεψη στη σπηλιά παίρνουμε το απογευματινό λεωφορείο πίσω στη Σκάλα. Καθώς σκοτεινιάζει νωρίτερα, απολαμβάνουμε αργό μεσημεριανό και την χαλαρή ατμόσφαιρα στην παραλιακή πόλη όπου συγκεντρώνονται οι ντόπιοι."
           },
           "stops": [
             {
@@ -2166,7 +2342,8 @@
                 "de": "Achten Sie auf den speziellen Winterfahrplan.",
                 "hu": "Ügyeljen a speciális téli menetrendre.",
                 "ro": "Atenție la orarul special de iarnă.",
-                "en": "Pay close attention to the special winter schedule."
+                "en": "Pay close attention to the special winter schedule.",
+                "el": "Δώστε προσοχή στο ειδικό χειμερινό πρόγραμμα."
               }
             },
             {
@@ -2175,7 +2352,8 @@
                 "de": "Keine Wartezeiten am Einlass im Winter.",
                 "hu": "Télen nincs várakozási idő a bejáratnál.",
                 "ro": "Fără timp de așteptare la intrare iarna.",
-                "en": "No waiting times at the entrance in winter."
+                "en": "No waiting times at the entrance in winter.",
+                "el": "Δεν υπάρχουν χρόνοι αναμονής στην είσοδο τον χειμώνα."
               }
             },
             {
@@ -2184,7 +2362,8 @@
                 "de": "Fast alle Gassen gehören Ihnen allein.",
                 "hu": "Szinte az összes sikátor csak az Öné.",
                 "ro": "Aproape toate străzile sunt doar ale tale.",
-                "en": "Almost all the alleys are yours alone."
+                "en": "Almost all the alleys are yours alone.",
+                "el": "Σχεδόν όλα τα δρομάκια είναι μόνο δικά σας."
               }
             },
             {
@@ -2193,7 +2372,8 @@
                 "de": "Warme Kleidung für die Wartezeit an der Haltestelle.",
                 "hu": "Meleg ruházat a megállóban való várakozáshoz.",
                 "ro": "Haine calde pentru așteptarea în stație.",
-                "en": "Wear warm clothes for the wait at the bus stop."
+                "en": "Wear warm clothes for the wait at the bus stop.",
+                "el": "Φορέστε ζεστά ρούχα για την αναμονή στη στάση του λεωφορείου."
               }
             },
             {
@@ -2202,7 +2382,8 @@
                 "de": "Der Bus ist oft der einzige Transport im Winter.",
                 "hu": "Télen gyakran a busz az egyetlen közlekedési eszköz.",
                 "ro": "Autobuzul este adesea singurul transport iarna.",
-                "en": "The bus is often the only reliable transport in winter."
+                "en": "The bus is often the only reliable transport in winter.",
+                "el": "Το λεωφορείο συχνά είναι το μόνο αξιόπιστο μέσο μεταφοράς το χειμώνα."
               }
             },
             {
@@ -2211,7 +2392,8 @@
                 "de": "Probieren Sie den lokalen Kräutertee.",
                 "hu": "Kóstolja meg a helyi gyógyteát.",
                 "ro": "Gustați ceaiul de plante local.",
-                "en": "Try the local herbal tea."
+                "en": "Try the local herbal tea.",
+                "el": "Δοκιμάστε το τοπικό βότανο τσάι."
               }
             }
           ],
@@ -2239,6 +2421,12 @@
               "Ask locals about any last-minute schedule changes.",
               "The bus is well-heated and provides a comfortable ride.",
               "Plan your entire day around the few available bus times."
+            ],
+            "el": [
+              "Η συχνότητα των λεωφορείων μειώνεται σημαντικά τον χειμώνα.",
+              "Ρωτήστε τους ντόπιους για τυχόν αλλαγές τελευταίας στιγμής στο πρόγραμμα.",
+              "Το λεωφορείο είναι καλοθερμασμένο και προσφέρει άνετη διαδρομή.",
+              "Σχεδιάστε την ολόκληρη μέρα σας γύρω από τις λίγες διαθέσιμες ώρες λεωφορείου."
             ]
           }
         }

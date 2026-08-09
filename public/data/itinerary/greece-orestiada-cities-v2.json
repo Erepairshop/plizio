@@ -21,7 +21,8 @@
             "de": "Zentralplatz von Orestiada",
             "hu": "Oresztiáda központi tere",
             "ro": "Piața Centrală din Orestiada",
-            "en": "Central Square of Orestiada"
+            "en": "Central Square of Orestiada",
+            "el": "Κεντρική Πλατεία Ορεστιάδας"
           },
           "coords": [
             26.5305,
@@ -37,7 +38,8 @@
             "de": "Beginnen Sie den Tag mit einem Kaffee in einem der vielen Cafés am Platz.",
             "hu": "Kezdje a napot egy kávéval a tér egyik hangulatos kávézójában.",
             "ro": "Începeți ziua cu o cafea la una dintre numeroasele cafenele din piață.",
-            "en": "Start your day with a coffee at one of the many cafés lining the square."
+            "en": "Start your day with a coffee at one of the many cafés lining the square.",
+            "el": "Ξεκινήστε τη μέρα σας με έναν καφέ σε ένα από τα πολλά καφέ που πλαισιώνουν την πλατεία."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Denkmal der Stadtgründer",
             "hu": "Városalapítók emlékműve",
             "ro": "Monumentul Fondatorilor Orașului",
-            "en": "Monument of the City Founders"
+            "en": "Monument of the City Founders",
+            "el": "Μνημείο των Ιδρυτών της Πόλης"
           },
           "coords": [
             26.53,
@@ -61,7 +64,8 @@
             "de": "Lesen Sie die Inschriften, um die Geschichte der Flüchtlingsgründer zu verstehen.",
             "hu": "Olvassa el a feliratokat, hogy megértse a menekült alapítók történetét.",
             "ro": "Citiți inscripțiile pentru a înțelege povestea fondatorilor refugiați.",
-            "en": "Read the inscriptions to understand the story of the refugee founders."
+            "en": "Read the inscriptions to understand the story of the refugee founders.",
+            "el": "Διαβάστε τις εγχαράξεις για να κατανοήσετε την ιστορία των προσφύγων ιδρυτών."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Kirche Agioi Theodoroi",
             "hu": "Agioi Theodoroi templom",
             "ro": "Biserica Agioi Theodoroi",
-            "en": "Church of Agioi Theodoroi"
+            "en": "Church of Agioi Theodoroi",
+            "el": "Ιερός Ναός Αγίων Θεοδώρων"
           },
           "coords": [
             26.531,
@@ -85,7 +90,8 @@
             "de": "Achten Sie auf die moderne Ikonographie im Inneren der Kathedrale.",
             "hu": "Figyelje meg a modern ikonográfiát a katedrális belsejében.",
             "ro": "Observați iconografia modernă din interiorul catedralei.",
-            "en": "Pay attention to the modern iconography inside the cathedral."
+            "en": "Pay attention to the modern iconography inside the cathedral.",
+            "el": "Δώστε προσοχή στη σύγχρονη εικονογραφία μέσα στον καθεδρικό."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Museum für Volkskunde und Kunstgeschichte",
             "hu": "Néprajzi és Művészettörténeti Múzeum",
             "ro": "Muzeul de Folclor și Istoria Artei",
-            "en": "Museum of Folklore and Art History"
+            "en": "Museum of Folklore and Art History",
+            "el": "Μουσείο Λαογραφίας και Ιστορίας της Τέχνης"
           },
           "coords": [
             26.529,
@@ -109,7 +116,8 @@
             "de": "Verpassen Sie nicht die Abteilung über das Leben der Flüchtlinge aus Adrianopel.",
             "hu": "Ne hagyja ki az Adrianápolyból érkezett menekültek életét bemutató részt.",
             "ro": "Nu ratați secțiunea despre viața refugiaților din Adrianopol.",
-            "en": "Don't miss the section on the life of refugees from Adrianople."
+            "en": "Don't miss the section on the life of refugees from Adrianople.",
+            "el": "Μην χάσετε το τμήμα για τη ζωή των προσφύγων από την Αδριανούπολη."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Historischer Bahnhof",
             "hu": "Történelmi vasútállomás",
             "ro": "Gara Istorică",
-            "en": "Historical Train Station"
+            "en": "Historical Train Station",
+            "el": "Ιστορικός Σιδηροδρομικός Σταθμός"
           },
           "coords": [
             26.535,
@@ -133,7 +142,8 @@
             "de": "Stellen Sie sich den Orient-Express vor, der einst hier hielt.",
             "hu": "Képzelje el az Orient Expresszt, amely egykor itt állt meg.",
             "ro": "Imaginați-vă Orient Expressul care oprea odată aici.",
-            "en": "Imagine the Orient Express that once stopped here."
+            "en": "Imagine the Orient Express that once stopped here.",
+            "el": "Φανταστείτε τον Οριεντ Εξπρές που κάποτε σταματούσε εδώ."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Stadtpark",
             "hu": "Városi park",
             "ro": "Parcul Municipal",
-            "en": "City Park"
+            "en": "City Park",
+            "el": "Πάρκο της Πόλης"
           },
           "coords": [
             26.525,
@@ -157,7 +168,8 @@
             "de": "Ein idealer Ort für eine Pause am Nachmittag im Schatten der Bäume.",
             "hu": "Ideális hely egy délutáni pihenőre a fák árnyékában.",
             "ro": "Un loc ideal pentru o pauză de după-amiază la umbra copacilor.",
-            "en": "An ideal spot for an afternoon break in the shade of the trees."
+            "en": "An ideal spot for an afternoon break in the shade of the trees.",
+            "el": "Ιδανικό σημείο για ένα απογευματινό διάλειμμα στη σκιά των δέντρων."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Ufer des Flusses Ardas",
             "hu": "Ardasz folyó partja",
             "ro": "Malul râului Ardas",
-            "en": "Banks of the Ardas River"
+            "en": "Banks of the Ardas River",
+            "el": "Όχθες του ποταμού Άρδα"
           },
           "coords": [
             26.545,
@@ -181,7 +194,8 @@
             "de": "Genießen Sie die Ruhe am Wasser, besonders bei Sonnenuntergang.",
             "hu": "Élvezze a vízparti csendet, különösen naplementekor.",
             "ro": "Bucurați-vă de liniștea de pe malul apei, mai ales la apus.",
-            "en": "Enjoy the tranquility by the water, especially at sunset."
+            "en": "Enjoy the tranquility by the water, especially at sunset.",
+            "el": "Απολαύστε την ηρεμία δίπλα στο νερό, ιδιαίτερα στο ηλιοβασίλεμα."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Ihr Tag in Orestiada beginnt auf dem lebhaften Zentralplatz, dem Herzen der Stadt. Nach der Erkundung der Gründungsgeschichte und der spirituellen Seite der Stadt im Agioi Theodoroi, tauchen Sie im Volkskundemuseum tief in die lokale Kultur ein. Am Nachmittag spazieren Sie zum historischen Bahnhof, der von einer vergangenen Ära erzählt, bevor Sie im Stadtpark entspannen und den Tag friedlich am Ufer des Ardas ausklingen lassen.",
         "hu": "Oresztiádai napja a város szívében, a nyüzsgő központi téren kezdődik. A város alapításának története és a spirituális feltöltődés után az Agioi Theodoroi templomban, a néprajzi múzeumban mélyedhet el a helyi kultúrában. Délután sétáljon el a letűnt kort idéző történelmi vasútállomáshoz, majd pihenjen a városi parkban, és zárja a napot békésen az Ardasz folyó partján.",
         "ro": "Ziua dvs. în Orestiada începe în Piața Centrală plină de viață, inima orașului. După ce explorați istoria fondării și latura spirituală la Biserica Agioi Theodoroi, vă veți cufunda în cultura locală la Muzeul de Folclor. După-amiaza, vă veți plimba la gara istorică, care povestește despre o epocă trecută, înainte de a vă relaxa în Parcul Municipal și a încheia ziua în liniște pe malul râului Ardas.",
-        "en": "Your day in Orestiada begins at the lively Central Square, the heart of the city. After exploring the founding history and spiritual side at Agioi Theodoroi Church, you'll delve deep into local culture at the Folklore Museum. In the afternoon, stroll to the historic train station, which tells of a bygone era, before relaxing in the City Park and peacefully ending the day on the banks of the Ardas River."
+        "en": "Your day in Orestiada begins at the lively Central Square, the heart of the city. After exploring the founding history and spiritual side at Agioi Theodoroi Church, you'll delve deep into local culture at the Folklore Museum. In the afternoon, stroll to the historic train station, which tells of a bygone era, before relaxing in the City Park and peacefully ending the day on the banks of the Ardas River.",
+        "el": "Η μέρα σας στην Ορεστιάδα ξεκινά στην ζωντανή Κεντρική Πλατεία, την καρδιά της πόλης. Αφού εξερευνήσετε την ιστορία των ιδρυτών και την πνευματική πλευρά στον ναό των Αγίων Θεοδώρων, θα βυθιστείτε στον τοπικό πολιτισμό στο Μουσείο Λαογραφίας. Το απόγευμα, περπατήστε μέχρι τον ιστορικό σταθμό, που αφηγείται μια εποχή που πέρασε, πριν χαλαρώσετε στο Πάρκο της Πόλης και ολοκληρώσετε ήρεμα τη μέρα στις όχθες του ποταμού Άρδα."
       },
       "gastro_picks": {
         "de": [
@@ -385,6 +400,12 @@
           "Bring water with you, especially during the warmer months.",
           "Most city center sights are easily within walking distance.",
           "Plan for lunch at a tavern near the museum."
+        ],
+        "el": [
+          "Φορέστε άνετα παπούτσια καθώς θα είστε όρθιοι όλη μέρα.",
+          "Φέρτε νερό μαζί σας, ιδιαίτερα τους θερμούς μήνες.",
+          "Τα περισσότερα αξιοθέατα στο κέντρο της πόλης είναι εύκολα με τα πόδια.",
+          "Σχεδιάστε το γεύμα σας σε μια ταβέρνα κοντά στο μουσείο."
         ]
       },
       "variants": {
@@ -393,7 +414,8 @@
             "de": "Beginnen Sie Ihren Tag am regnerischen Zentralplatz unter den Arkaden der Cafés. Das Denkmal der Stadtgründer lässt sich schnell besichtigen, bevor Sie in der Kirche Agioi Theodoroi Zuflucht suchen. Den verregneten Mittag verbringen Sie im beheizten Volkskundemuseum. Der Spaziergang zum historischen Bahnhof führt über nasse Straßen, während das Ardas-Ufer bei Regen eine melancholische, neblige Atmosphäre bietet.",
             "hu": "Kezdje a napot a központi téren, az árkádos kávézók védelmében. A városalapítók emlékművét gyorsan megtekintheti, mielőtt az Agioi Theodoroi templom csendjébe húzódna az eső elől. A déltöltse a néprajzi múzeum fedett kiállításai között. A történelmi vasútállomás felé vezető út vizes lehet, az Ardas-folyó partja pedig ilyenkor ködös, drámai arcát mutatja. Készüljön gumicsizmával és esernyővel.",
             "ro": "Începeți ziua în piața centrală, sub arcadele cafenelelor primitoare. Monumentul fondatorilor poate fi vizitat rapid înainte de a vă adăposti în biserica Agioi Theodoroi. Petreceți prânzul ploios în interiorul muzeului de etnografie. Drumul spre gara istorică necesită atenție la bălți, iar malurile râului Ardas oferă un peisaj melancolic și cețos, perfect pentru fotografii dramatice cu umbrela.",
-            "en": "Start your day at the central square, finding shelter under cafe awnings. Briefly visit the monument before seeking refuge in the Agioi Theodoroi Church. Spend the rainy midday exploring the indoor exhibits of the folklore museum. The walk to the historic station might be wet, and the Ardas river banks take on a misty, atmospheric quality. Carry a sturdy umbrella and enjoy the petrichor."
+            "en": "Start your day at the central square, finding shelter under cafe awnings. Briefly visit the monument before seeking refuge in the Agioi Theodoroi Church. Spend the rainy midday exploring the indoor exhibits of the folklore museum. The walk to the historic station might be wet, and the Ardas river banks take on a misty, atmospheric quality. Carry a sturdy umbrella and enjoy the petrichor.",
+            "el": "Ξεκινήστε τη μέρα σας στην κεντρική πλατεία, βρίσκοντας καταφύγιο κάτω από τις τέντες των καφέ. Επισκεφθείτε σύντομα το μνημείο πριν καταφύγετε στην εκκλησία των Αγίων Θεοδώρων. Περάστε το βροχερό μεσημέρι εξερευνώντας τα εσωτερικά εκθέματα του λαογραφικού μουσείου. Ο περίπατος προς τον ιστορικό σταθμό μπορεί να είναι βρεγμένος και οι όχθες του Άρδα αποκτούν μια δροσερή, ατμοσφαιρική ποιότητα. Φορέστε ένα ανθεκτικό ομπρέλα και απολαύστε το πέτριχο άρωμα της βροχής."
           },
           "stops": [
             {
@@ -402,7 +424,8 @@
                 "de": "Nutzen Sie die Arkaden der Cafés als Regenschutz.",
                 "hu": "Használja a kávézók árkádjait eső elleni védelemként.",
                 "ro": "Folosiți arcadele cafenelelor pentru a vă feri de ploaie.",
-                "en": "Use the cafe awnings as shelter from the rain."
+                "en": "Use the cafe awnings as shelter from the rain.",
+                "el": "Χρησιμοποιήστε τις τέντες των καφέ ως καταφύγιο από τη βροχή."
               }
             },
             {
@@ -411,7 +434,8 @@
                 "de": "Nur ein kurzer Stopp für ein Foto unter dem Schirm.",
                 "hu": "Csak egy gyors megálló egy fotóra az esernyő alatt.",
                 "ro": "Doar o scurtă oprire pentru o poză sub umbrelă.",
-                "en": "Just a quick stop for a photo under your umbrella."
+                "en": "Just a quick stop for a photo under your umbrella.",
+                "el": "Μια γρήγορη στάση για φωτογραφία κάτω από την ομπρέλα σας."
               }
             },
             {
@@ -420,7 +444,8 @@
                 "de": "Ein idealer Ort, um im Trockenen kurz innezuhalten.",
                 "hu": "Ideális hely egy rövid, száraz pihenőhöz.",
                 "ro": "Un loc ideal pentru un scurt moment de liniște la adăpost.",
-                "en": "An ideal spot for a short, dry moment of reflection."
+                "en": "An ideal spot for a short, dry moment of reflection.",
+                "el": "Ιδανικό σημείο για μια σύντομη, στεγνή στιγμή περισυλλογής."
               }
             },
             {
@@ -429,7 +454,8 @@
                 "de": "Perfekter Zufluchtsort für eine lange Regenpause.",
                 "hu": "Tökéletes menedék egy hosszú esőszünethez.",
                 "ro": "Refugiul perfect pentru o pauză lungă de ploaie.",
-                "en": "Perfect sanctuary for a long break from the rain."
+                "en": "Perfect sanctuary for a long break from the rain.",
+                "el": "Τέλειο καταφύγιο για ένα μεγάλο διάλειμμα από τη βροχή."
               }
             },
             {
@@ -438,7 +464,8 @@
                 "de": "Vorsicht vor rutschigen Bahnsteigen bei Nässe.",
                 "hu": "Vigyázat, a peronok vizesen csúszósak lehetnek.",
                 "ro": "Atenție la peroanele alunecoase când sunt ude.",
-                "en": "Watch out for slippery platforms when wet."
+                "en": "Watch out for slippery platforms when wet.",
+                "el": "Προσέξτε τις ολισθηρές αποβάθρες όταν είναι βρεγμένες."
               }
             },
             {
@@ -447,7 +474,8 @@
                 "de": "Die dichten Baumkronen bieten natürlichen Schutz.",
                 "hu": "A sűrű lombok természetes védelmet nyújtanak.",
                 "ro": "Coroanele dese ale copacilor oferă protecție naturală.",
-                "en": "Dense tree canopies provide some natural shelter."
+                "en": "Dense tree canopies provide some natural shelter.",
+                "el": "Οι πυκνές φυλλωσιές δέντρων προσφέρουν κάποιο φυσικό καταφύγιο."
               }
             },
             {
@@ -456,7 +484,8 @@
                 "de": "Achtung, die Uferwege können schlammig sein.",
                 "hu": "Vigyázat, a folyóparti utak sárgaulhatnak.",
                 "ro": "Atenție, potecile de pe malul râului pot fi noroioase.",
-                "en": "Caution, the riverbank paths can be muddy."
+                "en": "Caution, the riverbank paths can be muddy.",
+                "el": "Προσοχή, τα μονοπάτια στις όχθες του ποταμού μπορούν να είναι λασπώδη."
               }
             }
           ],
@@ -484,6 +513,12 @@
               "The museum is the best place to wait out a heavy downpour.",
               "Cafes at the square offer cozy spots to dry off and warm up.",
               "Keep a microfiber cloth handy to wipe your camera lens."
+            ],
+            "el": [
+              "Φορέστε αδιάβροχα παπούτσια καθώς τα νερά λίμνης είναι συνηθισμένα στα στενά δρομάκια.",
+              "Το μουσείο είναι το καλύτερο μέρος για να περιμένετε ένα δυνατό μπουρίνι.",
+              "Τα καφέ στην πλατεία προσφέρουν ζεστούς χώρους για να στεγνώσετε και να ζεσταθείτε.",
+              "Κρατήστε ένα μικροΐνα ύφασμα πρόχειρο για να σκουπίσετε τον φακό της κάμεράς σας."
             ]
           }
         },
@@ -492,7 +527,8 @@
             "de": "Erleben Sie das winterliche Orestiada bei klarer, kalter Luft. Starten Sie mit einem heißen Kaffee am Zentralplatz. Das Denkmal und die Kirche bieten besinnliche Momente, bevor Sie sich im gut beheizten Volkskundemuseum aufwärmen. Der historische Bahnhof wirkt im Winterlicht besonders nostalgisch. Beenden Sie den Tag früh am Ardas-Ufer, um den Sonnenuntergang gegen 17:00 Uhr zu genießen, bevor die Kälte anzieht.",
             "hu": "Fedezze fel a téli Oresztiádát a friss, hideg levegőn. Kezdjen egy forró kávéval a főtéren. Az emlékmű és a templom csendes pillanatokat kínál, mielőtt felmelegedne a jól fűtött néprajzi múzeumban. A történelmi vasútállomás különösen nosztalgikus a téli fényekben. A napot fejezze be korán az Ardas partján, hogy elkapja az 5 óra körüli naplementét, mielőtt beállna az esti fagy.",
             "ro": "Experimentați Orestiada iarna, cu aer rece și proaspăt. Începeți cu o cafea fierbinte în piața centrală. Monumentul și biserica oferă momente de liniște înainte de a vă încălzi în muzeul de etnografie bine încălzit. Gara istorică pare deosebit de nostalgică în lumina iernii. Încheiați ziua devreme pe malul râului Ardas pentru a vedea apusul în jurul orei 17:00, înainte ca frigul să se intensifice.",
-            "en": "Experience winter in Orestiada with crisp, cold air. Start with a hot coffee at the central square. The monument and church offer reflective moments before you warm up in the well-heated folklore museum. The historic station looks especially nostalgic in the winter light. Finish your day early at the Ardas banks to catch the 5 PM sunset before the evening chill sets in."
+            "en": "Experience winter in Orestiada with crisp, cold air. Start with a hot coffee at the central square. The monument and church offer reflective moments before you warm up in the well-heated folklore museum. The historic station looks especially nostalgic in the winter light. Finish your day early at the Ardas banks to catch the 5 PM sunset before the evening chill sets in.",
+            "el": "Ζήστε το χειμώνα στην Ορεστιάδα με καθαρό, παγωμένο αέρα. Ξεκινήστε με ένα ζεστό καφέ στην κεντρική πλατεία. Το μνημείο και η εκκλησία προσφέρουν στιγμές περισυλλογής πριν ζεσταθείτε στο καλοζεσταμένο λαογραφικό μουσείο. Ο ιστορικός σταθμός φαίνεται ιδιαίτερα νοσταλγικός στο χειμερινό φως. Ολοκληρώστε νωρίς τη μέρα σας στις όχθες του Άρδα για να προλάβετε το ηλιοβασίλεμα στις 17:00 πριν σας πιάσει το βραδινό ψύχος."
           },
           "stops": [
             {
@@ -501,7 +537,8 @@
                 "de": "Holen Sie sich einen heißen Kakao zum Mitnehmen.",
                 "hu": "Vegyél egy forró kakaót elvitelre.",
                 "ro": "Luați o ciocolată caldă la pachet.",
-                "en": "Grab a hot cocoa to go."
+                "en": "Grab a hot cocoa to go.",
+                "el": "Πάρτε ένα ζεστό κακάο για δρόμο."
               }
             },
             {
@@ -510,7 +547,8 @@
                 "de": "Kurzer Stopp; die Metallflächen können vereist sein.",
                 "hu": "Rövid megálló; a fémfelületek jegesek lehetnek.",
                 "ro": "Oprire scurtă; suprafețele metalice pot fi înghețate.",
-                "en": "Short stop; metal surfaces might be icy."
+                "en": "Short stop; metal surfaces might be icy.",
+                "el": "Σύντομη στάση· οι μεταλλικές επιφάνειες μπορεί να είναι παγωμένες."
               }
             },
             {
@@ -519,7 +557,8 @@
                 "de": "Genießen Sie die Ruhe und die milde Innentemperatur.",
                 "hu": "Élvezze a csendet és a mérsékelt belső hőmérsékletet.",
                 "ro": "Bucurați-vă de liniște și de temperatura interioară blândă.",
-                "en": "Enjoy the silence and the mild indoor temperature."
+                "en": "Enjoy the silence and the mild indoor temperature.",
+                "el": "Απολαύστε τη σιωπή και τη χαμηλή εσωτερική θερμοκρασία."
               }
             },
             {
@@ -528,7 +567,8 @@
                 "de": "Die beste Gelegenheit, um sich gründlich aufzuwärmen.",
                 "hu": "A legjobb alkalom egy alapos felmelegedésre.",
                 "ro": "Cea mai bună ocazie pentru o încălzire temeinică.",
-                "en": "The best opportunity for a thorough warm-up."
+                "en": "The best opportunity for a thorough warm-up.",
+                "el": "Η καλύτερη ευκαιρία για ένα πλήρες ζέσταμα."
               }
             },
             {
@@ -537,7 +577,8 @@
                 "de": "Kleiden Sie sich warm, der Wind zieht hier oft.",
                 "hu": "Öltözzön melegen, itt gyakran huzatos a szél.",
                 "ro": "Îmbrăcați-vă gros, vântul bate adesea aici.",
-                "en": "Dress warmly, the wind often cuts through here."
+                "en": "Dress warmly, the wind often cuts through here.",
+                "el": "Ντυθείτε ζεστά, ο άνεμος συχνά διαπερνά εδώ."
               }
             },
             {
@@ -546,7 +587,8 @@
                 "de": "Schöner Ort für einen zügigen Winterspaziergang.",
                 "hu": "Szép hely egy lendületes téli sétához.",
                 "ro": "Un loc frumos pentru o plimbare rapidă de iarnă.",
-                "en": "A beautiful spot for a brisk winter walk."
+                "en": "A beautiful spot for a brisk winter walk.",
+                "el": "Όμορφο σημείο για έναν ζωηρό χειμερινό περίπατο."
               }
             },
             {
@@ -555,7 +597,8 @@
                 "de": "Der Sonnenuntergang ist hier gegen 17:00 Uhr.",
                 "hu": "A naplemente itt 17:00 körül van.",
                 "ro": "Apusul de soare aici este în jurul orei 17:00.",
-                "en": "Sunset here is around 5:00 PM."
+                "en": "Sunset here is around 5:00 PM.",
+                "el": "Το ηλιοβασίλεμα εδώ είναι περίπου στις 17:00."
               }
             }
           ],
@@ -583,6 +626,12 @@
               "Sunset is early; plan outdoor stops before 4:30 PM.",
               "Check the museum's winter opening hours in advance.",
               "A hat and gloves are essential for the railway station area."
+            ],
+            "el": [
+              "Φορέστε ρούχα σε στρώσεις για τον κρύο άνεμο.",
+              "Το ηλιοβασίλεμα έρχεται νωρίς· προγραμματίστε τις εξωτερικές στάσεις πριν τις 16:30.",
+              "Ελέγξτε εκ των προτέρων τις χειμερινές ώρες λειτουργίας του μουσείου.",
+              "Ένα καπέλο και γάντια είναι απαραίτητα για την περιοχή του σιδηροδρομικού σταθμού."
             ]
           }
         }
@@ -601,7 +650,8 @@
             "de": "Historischer Bahnhof",
             "hu": "Történelmi vasútállomás",
             "ro": "Gara Istorică",
-            "en": "Historical Train Station"
+            "en": "Historical Train Station",
+            "el": "Ιστορικός Σιδηροδρομικός Σταθμός"
           },
           "coords": [
             26.535,
@@ -617,7 +667,8 @@
             "de": "Starten Sie Ihre Tour an diesem Symbol der Verkehrsgeschichte der Stadt.",
             "hu": "Kezdje a túrát a város közlekedéstörténeti szimbólumánál.",
             "ro": "Începeți turul de la acest simbol al istoriei transportului orașului.",
-            "en": "Start your tour at this symbol of the city's transport history."
+            "en": "Start your tour at this symbol of the city's transport history.",
+            "el": "Ξεκινήστε την ξενάγησή σας σε αυτό το σύμβολο της μεταφορικής ιστορίας της πόλης."
           }
         },
         {
@@ -625,7 +676,8 @@
             "de": "Zentralplatz & Denkmal",
             "hu": "Központi tér és emlékmű",
             "ro": "Piața Centrală și Monumentul",
-            "en": "Central Square & Monument"
+            "en": "Central Square & Monument",
+            "el": "Κεντρική Πλατεία & Μνημείο"
           },
           "coords": [
             26.5305,
@@ -641,7 +693,8 @@
             "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie den Platz und das Denkmal zu Fuß.",
             "hu": "Tegye le a biciklit, és fedezze fel a teret és az emlékművet gyalog.",
             "ro": "Parcați bicicleta și explorați piața și monumentul pe jos.",
-            "en": "Park your bike and explore the square and monument on foot."
+            "en": "Park your bike and explore the square and monument on foot.",
+            "el": "Σταθμεύστε το ποδήλατό σας και εξερευνήστε την πλατεία και το μνημείο με τα πόδια."
           }
         },
         {
@@ -649,7 +702,8 @@
             "de": "Museum für Volkskunde und Kunstgeschichte",
             "hu": "Néprajzi és Művészettörténeti Múzeum",
             "ro": "Muzeul de Folclor și Istoria Artei",
-            "en": "Museum of Folklore and Art History"
+            "en": "Museum of Folklore and Art History",
+            "el": "Μουσείο Λαογραφίας και Ιστορίας της Τέχνης"
           },
           "coords": [
             26.529,
@@ -665,7 +719,8 @@
             "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie das Museum betreten.",
             "hu": "Zárja le biztonságosan a kerékpárját, mielőtt belép a múzeumba.",
             "ro": "Asigurați-vă bicicleta înainte de a intra în muzeu.",
-            "en": "Lock your bike securely before entering the museum."
+            "en": "Lock your bike securely before entering the museum.",
+            "el": "Κλειδώστε καλά το ποδήλατό σας πριν μπείτε στο μουσείο."
           }
         },
         {
@@ -673,7 +728,8 @@
             "de": "Kulturzentrum von Orestiada",
             "hu": "Oresztiádai Kulturális Központ",
             "ro": "Centrul Cultural din Orestiada",
-            "en": "Cultural Centre of Orestiada"
+            "en": "Cultural Centre of Orestiada",
+            "el": "Πολιτιστικό Κέντρο Ορεστιάδας"
           },
           "coords": [
             26.533,
@@ -689,7 +745,8 @@
             "de": "Prüfen Sie das Programm auf eventuelle Tagesveranstaltungen oder Ausstellungen.",
             "hu": "Nézze meg a programot, hátha van napközbeni esemény vagy kiállítás.",
             "ro": "Verificați programul pentru evenimente sau expoziții de zi.",
-            "en": "Check the schedule for any daytime events or exhibitions."
+            "en": "Check the schedule for any daytime events or exhibitions.",
+            "el": "Ελέγξτε το πρόγραμμα για ενδεχόμενα ημερήσια δρώμενα ή εκθέσεις."
           }
         },
         {
@@ -697,7 +754,8 @@
             "de": "Stadtpark",
             "hu": "Városi park",
             "ro": "Parcul Municipal",
-            "en": "City Park"
+            "en": "City Park",
+            "el": "Πάρκο της Πόλης"
           },
           "coords": [
             26.525,
@@ -713,7 +771,8 @@
             "de": "Perfekt für ein Picknick-Mittagessen, das Sie auf dem lokalen Markt gekauft haben.",
             "hu": "Tökéletes egy piknikebédhez, amit a helyi piacon vásárolt.",
             "ro": "Perfect pentru un prânz la picnic cumpărat de la piața locală.",
-            "en": "Perfect for a picnic lunch bought from the local market."
+            "en": "Perfect for a picnic lunch bought from the local market.",
+            "el": "Ιδανικό για πικνίκ με φαγητό από την τοπική αγορά."
           }
         },
         {
@@ -721,7 +780,8 @@
             "de": "Ufer des Flusses Ardas",
             "hu": "Ardasz folyó partja",
             "ro": "Malul râului Ardas",
-            "en": "Banks of the Ardas River"
+            "en": "Banks of the Ardas River",
+            "el": "Όχθες του ποταμού Άρδα"
           },
           "coords": [
             26.545,
@@ -737,7 +797,8 @@
             "de": "Fahren Sie den Radweg entlang des Flusses für eine erfrischende Brise.",
             "hu": "Tekerjen végig a folyó menti kerékpárúton egy frissítő szellőért.",
             "ro": "Mergeți pe pista de biciclete de-a lungul râului pentru o briză răcoritoare.",
-            "en": "Ride the bike path along the river for a refreshing breeze."
+            "en": "Ride the bike path along the river for a refreshing breeze.",
+            "el": "Κάντε τη διαδρομή ποδηλασίας κατά μήκος του ποταμού για μια αναζωογονητική αύρα."
           }
         }
       ],
@@ -745,7 +806,8 @@
         "de": "Ihre Radtour durch Orestiada startet am historischen Bahnhof und führt Sie schnell ins Herz der Stadt zum Zentralplatz. Nach einer Vertiefung in die lokale Geschichte im Volkskundemuseum, werfen Sie einen Blick auf das kulturelle Leben im Kulturzentrum. Der Nachmittag ist der Natur gewidmet, mit einer entspannten Pause im Stadtpark und einer ausgedehnten Fahrt entlang des malerischen Ardas-Flusses, die den perfekten Abschluss eines aktiven Tages bildet.",
         "hu": "Oresztiádai kerékpártúrája a történelmi vasútállomástól indul, és gyorsan a város szívébe, a központi térre vezet. Miután elmélyedt a helyi történelemben a néprajzi múzeumban, vessen egy pillantást a kulturális központ életére. A délután a természeté, egy pihentető szünettel a városi parkban és egy hosszabb tekeréssel a festői Ardasz folyó mentén, ami tökéletes lezárása egy aktív napnak.",
         "ro": "Turul cu bicicleta prin Orestiada începe de la gara istorică și vă duce rapid în inima orașului, în Piața Centrală. După o incursiune în istoria locală la Muzeul de Folclor, aruncați o privire la viața culturală la Centrul Cultural. După-amiaza este dedicată naturii, cu o pauză relaxantă în Parcul Municipal și o plimbare extinsă de-a lungul pitorescului râu Ardas, încheind perfect o zi activă.",
-        "en": "Your bike tour of Orestiada starts at the historic train station and quickly takes you to the heart of the city at the Central Square. After delving into local history at the Folklore Museum, take a look at the cultural life at the Cultural Centre. The afternoon is dedicated to nature, with a relaxing break in the City Park and an extended ride along the scenic Ardas River, perfectly rounding off an active day."
+        "en": "Your bike tour of Orestiada starts at the historic train station and quickly takes you to the heart of the city at the Central Square. After delving into local history at the Folklore Museum, take a look at the cultural life at the Cultural Centre. The afternoon is dedicated to nature, with a relaxing break in the City Park and an extended ride along the scenic Ardas River, perfectly rounding off an active day.",
+        "el": "Η ποδηλατική σας διαδρομή στην Ορεστιάδα ξεκινά από τον ιστορικό σταθμό και γρήγορα σας οδηγεί στην καρδιά της πόλης στην Κεντρική Πλατεία. Αφού εμβαθύνετε στην τοπική ιστορία στο Μουσείο Λαογραφίας, ρίξτε μια ματιά στην πολιτιστική ζωή στο Πολιτιστικό Κέντρο. Το απόγευμα αφιερώνεται στη φύση, με ένα χαλαρωτικό διάλειμμα στο Πάρκο της Πόλης και μια εκτεταμένη βόλτα κατά μήκος του γραφικού ποταμού Άρδα, ολοκληρώνοντας τέλεια μια δραστήρια μέρα."
       },
       "gastro_picks": {
         "de": [
@@ -941,6 +1003,12 @@
           "A helmet is strongly recommended.",
           "Orestiada is relatively flat, making it good for cycling.",
           "Be mindful of traffic, especially near the city center."
+        ],
+        "el": [
+          "Ελέγξτε την πίεση των ελαστικών πριν ξεκινήσετε.",
+          "Προτείνεται έντονα κράνος.",
+          "Η Ορεστιάδα είναι σχετικά επίπεδη, καθιστώντας την κατάλληλη για ποδηλασία.",
+          "Δώστε προσοχή στην κυκλοφορία, ειδικά κοντά στο κέντρο της πόλης."
         ]
       },
       "variants": {
@@ -949,7 +1017,8 @@
             "de": "Eine nasse Radtour erfordert Vorsicht. Starten Sie am Bahnhof und radeln Sie zügig zum Zentralplatz. Die längere Pause im Volkskundemuseum ist ideal, um die Kleidung zu trocknen. Das Kulturzentrum bietet weiteren Schutz, bevor Sie durch den Stadtpark zum Ardas-Ufer fahren. Achten Sie auf rutschige Kurven und nutzen Sie die asphaltierten Wege, um Schlamm zu vermeiden.",
             "hu": "A vizes kerékpározás óvatosságot igényel. Kezdjen az állomáson, majd tekerjen a főtérre. A néprajzi múzeumban tartott hosszabb szünet ideális a ruhák szárítására. A kulturális központ további védelmet nyújt, mielőtt a parkon át az Ardas-partra hajtana. Ügyeljen a csúszós kanyarokra, és maradjon az aszfaltozott utakon a sár elkerülése érdekében.",
             "ro": "O tură cu bicicleta pe ploaie necesită prudență. Începeți la gară și pedalați rapid spre piața centrală. Pauza lungă la muzeul de etnografie este ideală pentru a vă usca hainele. Centrul cultural oferă adăpost suplimentar înainte de a merge prin parcul orașului spre malul râului. Atenție la curbele alunecoase și folosiți drumurile asfaltate pentru a evita noroiul.",
-            "en": "A rainy bike ride requires caution. Start at the station and cycle quickly to the central square. A longer break at the folklore museum is ideal for drying off. The Cultural Centre provides further shelter before you ride through the park to the Ardas banks. Watch out for slippery corners and stick to paved paths to avoid mud."
+            "en": "A rainy bike ride requires caution. Start at the station and cycle quickly to the central square. A longer break at the folklore museum is ideal for drying off. The Cultural Centre provides further shelter before you ride through the park to the Ardas banks. Watch out for slippery corners and stick to paved paths to avoid mud.",
+            "el": "Μια βροχερή ποδηλασία απαιτεί προσοχή. Ξεκινήστε από τον σταθμό και ποδηλατήστε γρήγορα προς την κεντρική πλατεία. Ένα μεγαλύτερο διάλειμμα στο λαογραφικό μουσείο είναι ιδανικό για να στεγνώσετε. Το Πολιτιστικό Κέντρο προσφέρει επιπλέον καταφύγιο πριν διασχίσετε το πάρκο προς τις όχθες του Άρδα. Προσέξτε τις ολισθηρές στροφές και μείνετε σε ασφαλτοστρωμένα μονοπάτια για να αποφύγετε τη λάσπη."
           },
           "stops": [
             {
@@ -958,7 +1027,8 @@
                 "de": "Vermeiden Sie das Bremsen auf nassen Metallschienen.",
                 "hu": "Kerülje a fékezést a vizes fémsíneken.",
                 "ro": "Evitați frânarea pe șinele de metal ude.",
-                "en": "Avoid braking on wet metal rails."
+                "en": "Avoid braking on wet metal rails.",
+                "el": "Αποφύγετε το φρενάρισμα πάνω σε βρεγμένες μεταλλικές ράγες."
               }
             },
             {
@@ -967,7 +1037,8 @@
                 "de": "Das Pflaster kann bei Nässe sehr rutschig sein.",
                 "hu": "A díszburkolat vizesen nagyon csúszós lehet.",
                 "ro": "Pavajul poate fi foarte alunecos pe ploaie.",
-                "en": "Pavement can be very slippery when wet."
+                "en": "Pavement can be very slippery when wet.",
+                "el": "Το οδόστρωμα μπορεί να είναι πολύ ολισθηρό όταν είναι βρεγμένο."
               }
             },
             {
@@ -976,7 +1047,8 @@
                 "de": "Stellen Sie Ihr Rad unter das Vordach am Eingang.",
                 "hu": "Állítsa a biciklit a bejáratnál lévő előtető alá.",
                 "ro": "Lăsați bicicleta sub streașina de la intrare.",
-                "en": "Park your bike under the overhang at the entrance."
+                "en": "Park your bike under the overhang at the entrance.",
+                "el": "Σταθμεύστε το ποδήλατό σας κάτω από το πρόβολο στην είσοδο."
               }
             },
             {
@@ -985,7 +1057,8 @@
                 "de": "Guter Ort, um die Regenjacke kurz auszuschütteln.",
                 "hu": "Jó hely az esőkabát rövid lerázásához.",
                 "ro": "Loc bun pentru a scutura rapid pelerina de ploaie.",
-                "en": "Good spot to briefly shake off your raincoat."
+                "en": "Good spot to briefly shake off your raincoat.",
+                "el": "Καλό σημείο για να τινάζετε σύντομα το αδιάβροχό σας."
               }
             },
             {
@@ -994,7 +1067,8 @@
                 "de": "Vorsicht vor nassem Laub auf den Radwegen.",
                 "hu": "Vigyázat, vizes falevelek lehetnek a bringautakon.",
                 "ro": "Atenție la frunzele ude de pe pistele de biciclete.",
-                "en": "Watch out for wet leaves on the bike paths."
+                "en": "Watch out for wet leaves on the bike paths.",
+                "el": "Προσέξτε τα βρεγμένα φύλλα στα ποδηλατικά μονοπάτια."
               }
             },
             {
@@ -1003,7 +1077,8 @@
                 "de": "Nutzen Sie nur die befestigten Wege am Ufer.",
                 "hu": "Csak a kiépített utakat használja a parton.",
                 "ro": "Folosiți doar potecile amenajate de pe mal.",
-                "en": "Only use the paved paths along the bank."
+                "en": "Only use the paved paths along the bank.",
+                "el": "Χρησιμοποιείτε μόνο τα ασφαλτοστρωμένα μονοπάτια κατά μήκος της όχθης."
               }
             }
           ],
@@ -1031,6 +1106,12 @@
               "Avoid puddles as they can hide deep potholes.",
               "Wear a high-visibility vest for better visibility in gloomy weather.",
               "Mudguards are a must-have for this weather."
+            ],
+            "el": [
+              "Ελέγξτε τα φρένα σας πριν ξεκινήσετε στη βροχή.",
+              "Αποφύγετε τις λακκούβες γιατί μπορεί να κρύβουν βαθιές λακκούβες.",
+              "Φορέστε αντηλαϊκή γιλέκο υψηλής ορατότητας για καλύτερη ορατότητα σε μουντή καιρό.",
+              "Οι φτερωτές λάσπης είναι απαραίτητες για αυτόν τον καιρό."
             ]
           }
         },
@@ -1039,7 +1120,8 @@
             "de": "Radfahren im Winter in Orestiada ist erfrischend, aber kalt. Beginnen Sie am Bahnhof und radeln Sie zum Zentralplatz für ein warmes Getränk. Das Volkskundemuseum und das Kulturzentrum bieten wichtige Aufwärmstopps. Genießen Sie die winterliche Stille im Stadtpark und den weiten Blick am Ardas-Ufer. Die tiefstehende Sonne kann blenden, daher ist eine Sonnenbrille trotz Kälte ratsam.",
             "hu": "A téli kerékpározás Oresztiádában frissítő, de hideg. Kezdjen az állomáson, majd tekerjen a főtérre egy meleg italért. A néprajzi múzeum és a kulturális központ fontos melegedőhelyek. Élvezze a téli csendet a városi parkban és a tágas kilátást az Ardas partján. Az alacsonyan járó nap elvakíthat, ezért a hideg ellenére is ajánlott a napszemüveg.",
             "ro": "Mersul cu bicicleta iarna în Orestiada este revigorant, dar rece. Începeți la gară și pedalați spre piața centrală pentru o băutură caldă. Muzeul de etnografie și centrul cultural oferă opriri esențiale pentru încălzire. Bucurați-vă de liniștea iernii în parcul orașului și de vederea panoramică de pe malul râului. Soarele jos poate fi orbitor, așa că ochelarii de soare sunt recomandați.",
-            "en": "Cycling in winter in Orestiada is refreshing but cold. Start at the station and cycle to the central square for a warm drink. The folklore museum and cultural centre provide vital warm-up stops. Enjoy the winter silence in the city park and the wide views at the Ardas banks. The low sun can be blinding, so sunglasses are recommended despite the cold."
+            "en": "Cycling in winter in Orestiada is refreshing but cold. Start at the station and cycle to the central square for a warm drink. The folklore museum and cultural centre provide vital warm-up stops. Enjoy the winter silence in the city park and the wide views at the Ardas banks. The low sun can be blinding, so sunglasses are recommended despite the cold.",
+            "el": "Η ποδηλασία τον χειμώνα στην Ορεστιάδα είναι αναζωογονητική αλλά κρύα. Ξεκινήστε από τον σταθμό και ποδηλατήστε προς την κεντρική πλατεία για ένα ζεστό ρόφημα. Το λαογραφικό μουσείο και το πολιτιστικό κέντρο παρέχουν ζωτικά σημεία για να ζεσταθείτε. Απολαύστε τη χειμωνιάτικη σιωπή στο πάρκο της πόλης και την ευρεία θέα στις όχθες του Άρδα. Ο χαμηλός ήλιος μπορεί να ενοχλεί, οπότε συνιστώνται γυαλιά ηλίου παρά το κρύο."
           },
           "stops": [
             {
@@ -1048,7 +1130,8 @@
                 "de": "Vorsicht bei Raureif auf den Brücken und Schienen.",
                 "hu": "Vigyázat, zúzmara lehet a hidakon és síneken.",
                 "ro": "Atenție la chiciura de pe poduri și șine.",
-                "en": "Watch out for hoarfrost on bridges and rails."
+                "en": "Watch out for hoarfrost on bridges and rails.",
+                "el": "Προσέξτε ξυράφι πάγο (αχνό πάχος) στις γέφυρες και τις ράγες."
               }
             },
             {
@@ -1057,7 +1140,8 @@
                 "de": "Die Cafés haben meist beheizte Außenbereiche.",
                 "hu": "A kávézók többsége fűtött terasszal vár.",
                 "ro": "Majoritatea cafenelelor au terase încălzite.",
-                "en": "Most cafes have heated outdoor seating areas."
+                "en": "Most cafes have heated outdoor seating areas.",
+                "el": "Τα περισσότερα καφέ έχουν θερμαινόμενους εξωτερικούς χώρους."
               }
             },
             {
@@ -1066,7 +1150,8 @@
                 "de": "Idealer Ort, um die Finger wieder aufzuwärmen.",
                 "hu": "Ideális hely az ujjak felmelegítésére.",
                 "ro": "Loc ideal pentru a vă reîncălzi degetele.",
-                "en": "Ideal spot to warm up your fingers again."
+                "en": "Ideal spot to warm up your fingers again.",
+                "el": "Ιδανικό σημείο για να ζεστάνετε ξανά τα δάχτυλά σας."
               }
             },
             {
@@ -1075,7 +1160,8 @@
                 "de": "Prüfen Sie das aktuelle Indoor-Kulturprogramm.",
                 "hu": "Ellenőrizze az aktuális beltéri kulturális programot.",
                 "ro": "Verificați programul cultural de interior.",
-                "en": "Check the current indoor cultural program."
+                "en": "Check the current indoor cultural program.",
+                "el": "Ελέγξτε το τρέχον εσωτερικό πολιτιστικό πρόγραμμα."
               }
             },
             {
@@ -1084,7 +1170,8 @@
                 "de": "Fahren Sie vorsichtig in schattigen Parkabschnitten.",
                 "hu": "Óvatosan tekerjen az árnyékos parkrészeken.",
                 "ro": "Pedalați cu grijă în zonele umbrite ale parcului.",
-                "en": "Ride carefully in shaded sections of the park."
+                "en": "Ride carefully in shaded sections of the park.",
+                "el": "Οδηγήστε προσεκτικά σε σκιερές περιοχές του πάρκου."
               }
             },
             {
@@ -1093,7 +1180,8 @@
                 "de": "Am Fluss ist es oft deutlich kälter als im Zentrum.",
                 "hu": "A folyónál gyakran jóval hidegebb van, mint a központban.",
                 "ro": "La râu este adesea mult mai frig decât în centru.",
-                "en": "It's often much colder by the river than in the center."
+                "en": "It's often much colder by the river than in the center.",
+                "el": "Συνήθως είναι πολύ πιο κρύα δίπλα στον ποταμό παρά στο κέντρο."
               }
             }
           ],
@@ -1121,6 +1209,12 @@
               "Watch out for black ice in shaded spots early in the morning.",
               "Bike light batteries drain faster in the cold.",
               "Stay hydrated, even if you don't feel as thirsty."
+            ],
+            "el": [
+              "Αντιανεμικά γάντια είναι υποχρεωτικά για ποδηλασία το χειμώνα.",
+              "Προσοχή σε μαύρο πάγο σε σκιερές θέσεις νωρίς το πρωί.",
+              "Οι μπαταρίες των φωτιστικών ποδηλάτου αδειάζουν γρηγορότερα στο κρύο.",
+              "Μείνετε ενυδατωμένοι, ακόμα κι αν δεν διψάτε τόσο."
             ]
           }
         }
@@ -1139,7 +1233,8 @@
             "de": "Ufer des Flusses Ardas",
             "hu": "Ardasz folyó partja",
             "ro": "Malul râului Ardas",
-            "en": "Banks of the Ardas River"
+            "en": "Banks of the Ardas River",
+            "el": "Όχθες του ποταμού Άρδα"
           },
           "coords": [
             26.545,
@@ -1155,7 +1250,8 @@
             "de": "Starten Sie den Tag mit einem ruhigen Moment in der Natur, bevor die Stadt erwacht.",
             "hu": "Kezdje a napot egy csendes pillanattal a természetben, mielőtt a város felébred.",
             "ro": "Începeți ziua cu un moment de liniște în natură înainte ca orașul să se trezească.",
-            "en": "Start the day with a quiet moment in nature before the city wakes up."
+            "en": "Start the day with a quiet moment in nature before the city wakes up.",
+            "el": "Ξεκινήστε τη μέρα με μια ήσυχη στιγμή στη φύση πριν ξυπνήσει η πόλη."
           }
         },
         {
@@ -1163,7 +1259,8 @@
             "de": "Historischer Bahnhof",
             "hu": "Történelmi vasútállomás",
             "ro": "Gara Istorică",
-            "en": "Historical Train Station"
+            "en": "Historical Train Station",
+            "el": "Ιστορικός Σιδηροδρομικός Σταθμός"
           },
           "coords": [
             26.535,
@@ -1179,7 +1276,8 @@
             "de": "Parken Sie in der Nähe und stellen Sie sich die Reisenden vergangener Zeiten vor.",
             "hu": "Parkoljon a közelben, és képzelje el a régmúlt idők utazóit.",
             "ro": "Parcați în apropiere și imaginați-vă călătorii de altădată.",
-            "en": "Park nearby and imagine the travelers of bygone eras."
+            "en": "Park nearby and imagine the travelers of bygone eras.",
+            "el": "Παρκάρετε κοντά και φανταστείτε τους ταξιδιώτες των παλαιών εποχών."
           }
         },
         {
@@ -1187,7 +1285,8 @@
             "de": "Zentralplatz von Orestiada (Cluster Start)",
             "hu": "Oresztiáda központi tere (Klaszter kezdete)",
             "ro": "Piața Centrală din Orestiada (Început cluster)",
-            "en": "Central Square of Orestiada (Cluster Start)"
+            "en": "Central Square of Orestiada (Cluster Start)",
+            "el": "Κεντρική Πλατεία Ορεστιάδας (Έναρξη Σμήνους)"
           },
           "coords": [
             26.5305,
@@ -1203,7 +1302,8 @@
             "de": "Parken Sie hier für den Rest des Vormittags und erkunden Sie das Zentrum zu Fuß.",
             "hu": "Parkoljon le a délelőtt hátralévő részére, és fedezze fel a központot gyalog.",
             "ro": "Parcați aici pentru restul dimineții și explorați centrul pe jos.",
-            "en": "Park here for the rest of the morning and explore the center on foot."
+            "en": "Park here for the rest of the morning and explore the center on foot.",
+            "el": "Παρκάρετε εδώ το υπόλοιπο του πρωινού και εξερευνήστε το κέντρο με τα πόδια."
           }
         },
         {
@@ -1211,7 +1311,8 @@
             "de": "Kirche Agioi Theodoroi",
             "hu": "Agioi Theodoroi templom",
             "ro": "Biserica Agioi Theodoroi",
-            "en": "Church of Agioi Theodoroi"
+            "en": "Church of Agioi Theodoroi",
+            "el": "Εκκλησία Αγίων Θεοδώρων"
           },
           "coords": [
             26.531,
@@ -1227,7 +1328,8 @@
             "de": "Ein kurzer Spaziergang vom Platz zur beeindruckenden Hauptkirche.",
             "hu": "Rövid séta a térről a lenyűgöző főtemplomhoz.",
             "ro": "O scurtă plimbare din piață până la impresionanta biserică principală.",
-            "en": "A short walk from the square to the impressive main church."
+            "en": "A short walk from the square to the impressive main church.",
+            "el": "Λίγο περπάτημα από την πλατεία προς την εντυπωσιακή μητρόπολη."
           }
         },
         {
@@ -1235,7 +1337,8 @@
             "de": "Museum für Volkskunde und Kunstgeschichte",
             "hu": "Néprajzi és Művészettörténeti Múzeum",
             "ro": "Muzeul de Folclor și Istoria Artei",
-            "en": "Museum of Folklore and Art History"
+            "en": "Museum of Folklore and Art History",
+            "el": "Μουσείο Λαογραφίας και Ιστορίας της Τέχνης"
           },
           "coords": [
             26.529,
@@ -1251,7 +1354,8 @@
             "de": "Planen Sie genügend Zeit ein, um die reiche Sammlung dieses Museums zu würdigen.",
             "hu": "Tervezzen elegendő időt a múzeum gazdag gyűjteményének megtekintésére.",
             "ro": "Planificați suficient timp pentru a aprecia colecția bogată a acestui muzeu.",
-            "en": "Plan enough time to appreciate the rich collection of this museum."
+            "en": "Plan enough time to appreciate the rich collection of this museum.",
+            "el": "Σχεδιάστε αρκετό χρόνο για να εκτιμήσετε τη πλούσια συλλογή του μουσείου."
           }
         },
         {
@@ -1259,7 +1363,8 @@
             "de": "Stadtpark",
             "hu": "Városi park",
             "ro": "Parcul Municipal",
-            "en": "City Park"
+            "en": "City Park",
+            "el": "Δημοτικό Πάρκο"
           },
           "coords": [
             26.525,
@@ -1275,7 +1380,8 @@
             "de": "Nach dem Mittagessen ein entspannter Spaziergang zum Park, um sich auszuruhen.",
             "hu": "Ebéd után egy pihentető séta a parkba.",
             "ro": "După prânz, o plimbare relaxantă în parc pentru a vă odihni.",
-            "en": "After lunch, a relaxing walk to the park to rest."
+            "en": "After lunch, a relaxing walk to the park to rest.",
+            "el": "Μετά το μεσημεριανό, ένας χαλαρωτικός περίπατος στο πάρκο για ξεκούραση."
           }
         }
       ],
@@ -1283,7 +1389,8 @@
         "de": "Ihr Autotag beginnt idyllisch am Ardas-Fluss, bevor Sie zum historischen Bahnhof fahren, einem Relikt des berühmten Orient-Express. Anschließend parken Sie im Stadtzentrum und bilden einen Fußgänger-Cluster: Sie erkunden den Hauptplatz, die Kathedrale und tauchen tief in das Volkskundemuseum ein. Nach einem Mittagessen im Zentrum spazieren Sie zum Stadtpark, um den Nachmittag entspannt ausklingen zu lassen, alles in Reichweite Ihres Parkplatzes.",
         "hu": "Autós napja idillikusan az Ardasz folyónál kezdődik, mielőtt a történelmi vasútállomáshoz hajtana, a híres Orient Expressz egykori megállójához. Ezután a városközpontban parkol le, és egy gyalogos klasztert alakít ki: felfedezi a főteret, a katedrálist, és elmélyül a néprajzi múzeumban. A belvárosi ebéd után átsétál a városi parkba, hogy pihentetően zárja a délutánt, mindezt a parkolójától kényelmes sétatávolságra.",
         "ro": "Ziua dvs. cu mașina începe idilic la râul Ardas, înainte de a conduce la gara istorică, o relicvă a faimosului Orient Express. Apoi parcați în centrul orașului și formați un cluster pietonal: explorați piața principală, catedrala și vă adânciți în Muzeul de Folclor. După prânz în centru, vă plimbați până la Parcul Municipal pentru a încheia după-amiaza într-un mod relaxant, totul la distanță de mers pe jos de locul de parcare.",
-        "en": "Your day by car begins idyllically at the Ardas River before you drive to the historic train station, a relic of the famous Orient Express. You then park in the city center and form a pedestrian cluster: exploring the main square, the cathedral, and delving deep into the Folklore Museum. After lunch in the center, you stroll to the City Park to end the afternoon in a relaxed manner, all within easy walking distance of your parking spot."
+        "en": "Your day by car begins idyllically at the Ardas River before you drive to the historic train station, a relic of the famous Orient Express. You then park in the city center and form a pedestrian cluster: exploring the main square, the cathedral, and delving deep into the Folklore Museum. After lunch in the center, you stroll to the City Park to end the afternoon in a relaxed manner, all within easy walking distance of your parking spot.",
+        "el": "Η μέρα σας με το αυτοκίνητο αρχίζει ιδανικά στις όχθες του Άρδα πριν οδηγήσετε στον ιστορικό σιδηροδρομικό σταθμό, ένα λείψανο του φημισμένου Orient Express. Στη συνέχεια παρκάρετε στο κέντρο της πόλης και σχηματίζετε ένα πεζοπορικό σμήνος: εξερευνάτε την κεντρική πλατεία, τον καθεδρικό και βυθίζεστε στη Λαογραφική Συλλογή. Μετά το μεσημέρι στο κέντρο, περπατάτε προς το Δημοτικό Πάρκο για να τελειώσετε το απόγευμα χαλαρά, όλα σε μικρή απόσταση με τα πόδια από το σημείο στάθμευσής σας."
       },
       "gastro_picks": {
         "de": [
@@ -1479,6 +1586,12 @@
           "Be aware of one-way streets in the city center.",
           "A GPS is helpful for finding the different locations.",
           "Don't leave valuables in the car."
+        ],
+        "el": [
+          "Αναζητήστε ένα κεντρικό σημείο στάθμευσης για να ελαχιστοποιήσετε τα τέλη και το άγχος.",
+          "Προσοχή σε μονόδρομους στο κέντρο της πόλης.",
+          "Ένα GPS βοηθά να βρείτε τις διάφορες τοποθεσίες.",
+          "Μην αφήνετε πολύτιμα αντικείμενα μέσα στο αυτοκίνητο."
         ]
       },
       "variants": {
@@ -1487,7 +1600,8 @@
             "de": "Mit dem Auto erkunden Sie Orestiada trotz Regen komfortabel. Starten Sie am Ardas-Ufer und genießen Sie den Blick aus dem trockenen Fahrzeug. Der historische Bahnhof und die Kirche Agioi Theodoroi sind schnell erreichbar. Parken Sie zentral, um das Volkskundemuseum ausgiebig zu besuchen. Den Abschluss bildet der Stadtpark, wobei Sie bei starkem Regen einfach eine Runde durch die Alleen drehen können.",
             "hu": "Autóval kényelmesen felfedezheti Oresztiádát az eső ellenére is. Kezdjen az Ardas partján, élvezze a kilátást a száraz autóból. A vasútállomás és a templom gyorsan elérhető. Parkoljon a központban a néprajzi múzeum alapos bejárásához. A napot a városi park zárja, ahol erős esőben akár csak egy autós kört is tehet a fasorok mentén.",
             "ro": "Cu mașina, explorați Orestiada confortabil în ciuda ploii. Începeți pe malul râului Ardas și bucurați-vă de priveliște din vehiculul uscat. Gara istorică și biserica sunt rapid accesibile. Parcați central pentru o vizită prelungită la muzeul de etnografie. Încheiați la parcul orașului, unde puteți face doar o tură cu mașina pe lângă alei dacă plouă torențial.",
-            "en": "Explore Orestiada comfortably by car despite the rain. Start at the Ardas banks and enjoy the view from your dry vehicle. The historic station and the church are easily reachable. Park centrally for an extensive visit to the folklore museum. Finish at the city park, where you can simply drive along the avenues if the rain gets too heavy."
+            "en": "Explore Orestiada comfortably by car despite the rain. Start at the Ardas banks and enjoy the view from your dry vehicle. The historic station and the church are easily reachable. Park centrally for an extensive visit to the folklore museum. Finish at the city park, where you can simply drive along the avenues if the rain gets too heavy.",
+            "el": "Εξερευνήστε την Ορεστιάδα άνετα με αυτοκίνητο παρά τη βροχή. Ξεκινήστε στις όχθες του Άρδα και απολαύστε τη θέα από το στεγνό σας όχημα. Ο ιστορικός σταθμός και η εκκλησία είναι εύκολα προσβάσιμα. Παρκάρετε κεντρικά για μια εκτεταμένη επίσκεψη στο λαογραφικό μουσείο. Τελειώστε στο δημοτικό πάρκο, όπου μπορείτε απλά να κυλήσετε κατά μήκος των λεωφόρων αν η βροχή γίνει πιο δυνατή."
           },
           "stops": [
             {
@@ -1496,7 +1610,8 @@
                 "de": "Parken Sie auf festem Grund, um nicht steckenzubleiben.",
                 "hu": "Szilárd talajon parkoljon, hogy ne akadjon el.",
                 "ro": "Parcați pe teren solid pentru a nu rămâne blocat.",
-                "en": "Park on solid ground to avoid getting stuck."
+                "en": "Park on solid ground to avoid getting stuck.",
+                "el": "Σταθμεύστε σε στερεό έδαφος για να αποφύγετε να κολλήσετε."
               }
             },
             {
@@ -1505,7 +1620,8 @@
                 "de": "Kurzer Fußweg vom Parkplatz zum Bahnhofsgebäude.",
                 "hu": "Rövid séta a parkolótól az állomás épületéig.",
                 "ro": "Scurtă plimbare de la parcare la clădirea gării.",
-                "en": "Short walk from the parking area to the station building."
+                "en": "Short walk from the parking area to the station building.",
+                "el": "Μικρή απόσταση με τα πόδια από την περιοχή στάθμευσης μέχρι το κτήριο του σταθμού."
               }
             },
             {
@@ -1514,7 +1630,8 @@
                 "de": "Suchen Sie ein Parkhaus oder einen überdachten Platz.",
                 "hu": "Keressen parkolóházat vagy fedett parkolóhelyet.",
                 "ro": "Căutați o parcare acoperită în apropiere.",
-                "en": "Look for a parking garage or covered spot nearby."
+                "en": "Look for a parking garage or covered spot nearby.",
+                "el": "Ψάξτε για πάρκινγκ ή καλυμμένο σημείο κοντά."
               }
             },
             {
@@ -1523,7 +1640,8 @@
                 "de": "Lassen Sie den Schirm im Auto, wenn es nur nieselt.",
                 "hu": "Hagyja az ernyőt az autóban, ha csak szitál az eső.",
                 "ro": "Lăsați umbrela în mașină dacă doar burnițează.",
-                "en": "Leave the umbrella in the car if it's only drizzling."
+                "en": "Leave the umbrella in the car if it's only drizzling.",
+                "el": "Αφήστε την ομπρέλα στο αυτοκίνητο αν ψιχάλει μόνο."
               }
             },
             {
@@ -1532,7 +1650,8 @@
                 "de": "Perfektes Ziel, um den Regen im Warmen zu vergessen.",
                 "hu": "Tökéletes célpont, hogy a melegben elfelejtse az esőt.",
                 "ro": "Destinația perfectă pentru a uita de ploaie la căldură.",
-                "en": "Perfect destination to forget the rain in the warmth."
+                "en": "Perfect destination to forget the rain in the warmth.",
+                "el": "Ιδανικός προορισμός για να ξεχάσετε τη βροχή στη ζεστασιά."
               }
             },
             {
@@ -1541,7 +1660,8 @@
                 "de": "Genießen Sie den Parkblick bei laufenden Scheibenwischern.",
                 "hu": "Élvezze a park látványát járó ablaktörlők mellett.",
                 "ro": "Bucurați-vă de parcul orașului cu ștergătoarele pornite.",
-                "en": "Enjoy the park view with your wipers on."
+                "en": "Enjoy the park view with your wipers on.",
+                "el": "Απολαύστε τη θέα του πάρκου με τα υαλοκαθαριστήρια σε λειτουργία."
               }
             }
           ],
@@ -1569,6 +1689,12 @@
               "Use the air conditioning to prevent the windows from fogging up.",
               "Avoid parking under large trees if there's a storm risk.",
               "Keep your distance as braking distance is longer on wet roads."
+            ],
+            "el": [
+              "Ελέγξτε την κατάσταση των υαλοκαθαριστήρων πριν οδηγήσετε.",
+              "Χρησιμοποιήστε το κλιματιστικό για να αποτρέψετε το θάμπωμα των παραθύρων.",
+              "Αποφύγετε να παρκάρετε κάτω από μεγάλα δέντρα αν υπάρχει κίνδυνος καταιγίδας.",
+              "Κρατήστε απόσταση καθώς η απόσταση ακινητοποίησης είναι μεγαλύτερη σε βρεγμένο οδόστρωμα."
             ]
           }
         },
@@ -1577,7 +1703,8 @@
             "de": "Winter-Sightseeing per Auto ist in Orestiada besonders effizient. Starten Sie am Ardas-Ufer, wo der Frost die Landschaft verzaubert. Besuchen Sie den Bahnhof und die Kirche, bevor Sie die wohlige Wärme des Volkskundemuseums genießen. Der Stadtpark wirkt im Winter karg, aber friedlich. Durch die kurzen Wege zwischen den Parkplätzen und Sehenswürdigkeiten bleiben Sie auch bei Minusgraden stets warm.",
             "hu": "A téli városnézés autóval különösen hatékony Oresztiádában. Kezdjen az Ardas partján, ahol a dér elvarázsolja a tájat. Látogassa meg az állomást és a templomot, mielőtt élvezné a néprajzi múzeum kellemes melegét. A városi park télen kopár, de békés. A parkolók és a látnivalók közötti rövid sétautaknak köszönhetően mínuszokban is melegen maradhat.",
             "ro": "Vizitarea orașului iarna cu mașina este deosebit de eficientă în Orestiada. Începeți pe malul râului Ardas, unde înghețul transformă peisajul. Vizitați gara și biserica înainte de a vă bucura de căldura muzeului. Parcul orașului pare auster iarna, dar liniștit. Datorită distanțelor scurte între parcări și obiective, veți rămâne la căldură chiar și pe ger.",
-            "en": "Winter sightseeing by car is particularly efficient in Orestiada. Start at the Ardas banks, where frost enchants the landscape. Visit the station and the church before enjoying the warmth of the folklore museum. The city park looks stark but peaceful in winter. Thanks to the short walks between parking and sights, you'll stay warm even in freezing temperatures."
+            "en": "Winter sightseeing by car is particularly efficient in Orestiada. Start at the Ardas banks, where frost enchants the landscape. Visit the station and the church before enjoying the warmth of the folklore museum. The city park looks stark but peaceful in winter. Thanks to the short walks between parking and sights, you'll stay warm even in freezing temperatures.",
+            "el": "Η χειμερινή ξενάγηση με αυτοκίνητο είναι ιδιαίτερα αποδοτική στην Ορεστιάδα. Ξεκινήστε στις όχθες του Άρδα, όπου ο πάγος μαγεύει το τοπίο. Επισκεφθείτε τον σταθμό και την εκκλησία πριν απολαύσετε τη ζεστασιά του λαογραφικού μουσείου. Το δημοτικό πάρκο φαίνεται λιτό αλλά ήρεμο το χειμώνα. Χάρη στις μικρές αποστάσεις με τα πόδια μεταξύ στάθμευσης και αξιοθέατων, θα παραμείνετε ζεστοί ακόμη και σε παγετούς."
           },
           "stops": [
             {
@@ -1586,7 +1713,8 @@
                 "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
                 "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
                 "ro": "Nu lăsați motorul pornit inutil în staționare.",
-                "en": "Don't leave the engine idling unnecessarily."
+                "en": "Don't leave the engine idling unnecessarily.",
+                "el": "Μην αφήνετε τον κινητήρα να τρέχει χωρίς λόγο."
               }
             },
             {
@@ -1595,7 +1723,8 @@
                 "de": "Prüfen Sie, ob der Parkplatz geräumt oder gestreut ist.",
                 "hu": "Ellenőrizze, hogy a parkoló le van-e takarítva vagy sózva.",
                 "ro": "Verificați dacă parcarea este curățată sau presărată cu sare.",
-                "en": "Check if the parking area is cleared or salted."
+                "en": "Check if the parking area is cleared or salted.",
+                "el": "Ελέγξτε αν ο χώρος στάθμευσης είναι καθαρισμένος ή πασπαλισμένος με αλάτι."
               }
             },
             {
@@ -1604,7 +1733,8 @@
                 "de": "Nutzen Sie die Sitzheizung für die kurzen Fahrten.",
                 "hu": "Használja az ülésfűtést a rövid utakra.",
                 "ro": "Folosiți încălzirea în scaune pentru drumurile scurte.",
-                "en": "Use the seat heating for short trips."
+                "en": "Use the seat heating for short trips.",
+                "el": "Χρησιμοποιήστε τη θέρμανση καθισμάτων για σύντομες διαδρομές."
               }
             },
             {
@@ -1613,7 +1743,8 @@
                 "de": "Vorsicht beim Aussteigen vor glatten Bordsteinen.",
                 "hu": "Kiszálláskor ügyeljen a csúszós padkákra.",
                 "ro": "Atenție la bordurile alunecoase când coborâți din mașină.",
-                "en": "Watch out for slippery curbs when getting out of the car."
+                "en": "Watch out for slippery curbs when getting out of the car.",
+                "el": "Προσέξτε γλιστερά κράσπεδα όταν βγαίνετε από το αυτοκίνητο."
               }
             },
             {
@@ -1622,7 +1753,8 @@
                 "de": "Ein idealer Ort, um die Winterjacke kurz abzulegen.",
                 "hu": "Ideális hely a télikabát rövid letételéhez.",
                 "ro": "Loc ideal pentru a vă lăsa haina de iarnă pentru o vreme.",
-                "en": "An ideal place to take off your winter coat for a while."
+                "en": "An ideal place to take off your winter coat for a while.",
+                "el": "Ιδανικό μέρος για να βγάλετε για λίγο το χειμερινό παλτό σας."
               }
             },
             {
@@ -1631,7 +1763,8 @@
                 "de": "Die Wege können bei Frost sehr tückisch sein.",
                 "hu": "A gyalogutak fagyban nagyon csalósak lehetnek.",
                 "ro": "Aleile pot fi foarte înșelătoare pe timp de îngheț.",
-                "en": "The paths can be very treacherous in freezing weather."
+                "en": "The paths can be very treacherous in freezing weather.",
+                "el": "Τα μονοπάτια μπορεί να είναι πολύ επικίνδυνα σε παγωρό καιρό."
               }
             }
           ],
@@ -1659,6 +1792,12 @@
               "Check tire pressure as it drops in the cold.",
               "An ice scraper should always be handy during winter.",
               "Watch out for wildlife on the edge of town during early dusk."
+            ],
+            "el": [
+              "Βεβαιωθείτε ότι έχετε αρκετό αντιψυκτικό στο υγρό καθαρισμού του παρμπρίζ.",
+              "Ελέγξτε την πίεση των ελαστικών καθώς πέφτει στο κρύο.",
+              "Ένας παγοξυράφης πρέπει να είναι πάντα σε ετοιμότητα το χειμώνα.",
+              "Προσοχή σε άγρια ζώα στα όρια της πόλης κατά τη δύση."
             ]
           }
         }
@@ -1677,7 +1816,8 @@
             "de": "Zentralplatz von Orestiada (Cluster Start)",
             "hu": "Oresztiáda központi tere (Klaszter kezdete)",
             "ro": "Piața Centrală din Orestiada (Început cluster)",
-            "en": "Central Square of Orestiada (Cluster Start)"
+            "en": "Central Square of Orestiada (Cluster Start)",
+            "el": "Κεντρική Πλατεία Ορεστιάδας (Έναρξη Σμήνους)"
           },
           "coords": [
             26.5305,
@@ -1693,7 +1833,8 @@
             "de": "Nehmen Sie den Bus zum zentralen Platz, dem Ausgangspunkt Ihres Stadtrundgangs.",
             "hu": "Menjen busszal a központi térre, a városnéző séta kiindulópontjához.",
             "ro": "Luați autobuzul până în piața centrală, punctul de plecare al turului dvs. pietonal.",
-            "en": "Take the bus to the central square, the starting point of your city walk."
+            "en": "Take the bus to the central square, the starting point of your city walk.",
+            "el": "Πάρτε το λεωφορείο προς την κεντρική πλατεία, το σημείο εκκίνησης της βόλτας σας στην πόλη."
           }
         },
         {
@@ -1701,7 +1842,8 @@
             "de": "Denkmal der Stadtgründer",
             "hu": "Városalapítók emlékműve",
             "ro": "Monumentul Fondatorilor Orașului",
-            "en": "Monument of the City Founders"
+            "en": "Monument of the City Founders",
+            "el": "Μνημείο Ιδρυτών της Πόλης"
           },
           "coords": [
             26.53,
@@ -1717,7 +1859,8 @@
             "de": "Das Denkmal befindet sich direkt am Platz und ist nicht zu übersehen.",
             "hu": "Az emlékmű közvetlenül a téren található, nem lehet eltéveszteni.",
             "ro": "Monumentul este situat chiar în piață și nu poate fi ratat.",
-            "en": "The monument is located right on the square and cannot be missed."
+            "en": "The monument is located right on the square and cannot be missed.",
+            "el": "Το μνημείο βρίσκεται ακριβώς στην πλατεία και δεν μπορεί να το χάσει κανείς."
           }
         },
         {
@@ -1725,7 +1868,8 @@
             "de": "Museum für Volkskunde und Kunstgeschichte",
             "hu": "Néprajzi és Művészettörténeti Múzeum",
             "ro": "Muzeul de Folclor și Istoria Artei",
-            "en": "Museum of Folklore and Art History"
+            "en": "Museum of Folklore and Art History",
+            "el": "Μουσείο Λαογραφίας και Ιστορίας της Τέχνης"
           },
           "coords": [
             26.529,
@@ -1741,7 +1885,8 @@
             "de": "Ein kurzer Spaziergang vom Denkmal quer über den Platz.",
             "hu": "Rövid séta az emlékműtől a téren keresztül.",
             "ro": "O scurtă plimbare de la monument peste piață.",
-            "en": "A short walk from the monument across the square."
+            "en": "A short walk from the monument across the square.",
+            "el": "Λίγο περπάτημα από το μνημείο κατά μήκος της πλατείας."
           }
         },
         {
@@ -1749,7 +1894,8 @@
             "de": "Historischer Bahnhof (Cluster Start)",
             "hu": "Történelmi vasútállomás (Klaszter kezdete)",
             "ro": "Gara Istorică (Început cluster)",
-            "en": "Historical Train Station (Cluster Start)"
+            "en": "Historical Train Station (Cluster Start)",
+            "el": "Ιστορικός Σιδηροδρομικός Σταθμός (Έναρξη Σμήνους)"
           },
           "coords": [
             26.535,
@@ -1765,7 +1911,8 @@
             "de": "Nehmen Sie einen Bus vom Zentrum zum Bahnhof, um den nördlichen Teil zu erkunden.",
             "hu": "Menjen busszal a központból az állomásra, hogy felfedezze az északi részt.",
             "ro": "Luați un autobuz din centru spre gară pentru a explora partea de nord.",
-            "en": "Take a bus from the center to the station to explore the northern part."
+            "en": "Take a bus from the center to the station to explore the northern part.",
+            "el": "Πάρτε ένα λεωφορείο από το κέντρο προς το σταθμό για να εξερευνήσετε το βόρειο τμήμα."
           }
         },
         {
@@ -1773,7 +1920,8 @@
             "de": "Kulturzentrum von Orestiada",
             "hu": "Oresztiádai Kulturális Központ",
             "ro": "Centrul Cultural din Orestiada",
-            "en": "Cultural Centre of Orestiada"
+            "en": "Cultural Centre of Orestiada",
+            "el": "Πολιτιστικό Κέντρο Ορεστιάδας"
           },
           "coords": [
             26.533,
@@ -1789,7 +1937,8 @@
             "de": "Ein kurzer Spaziergang vom Bahnhof zurück in Richtung Zentrum.",
             "hu": "Rövid séta az állomástól vissza a központ felé.",
             "ro": "O scurtă plimbare de la gară înapoi spre centru.",
-            "en": "A short walk from the station back towards the center."
+            "en": "A short walk from the station back towards the center.",
+            "el": "Λίγο περπάτημα από το σταθμό πίσω προς το κέντρο."
           }
         },
         {
@@ -1797,7 +1946,8 @@
             "de": "Stadtpark",
             "hu": "Városi park",
             "ro": "Parcul Municipal",
-            "en": "City Park"
+            "en": "City Park",
+            "el": "Δημοτικό Πάρκο"
           },
           "coords": [
             26.525,
@@ -1813,7 +1963,8 @@
             "de": "Eine letzte Busfahrt bringt Sie zum Park für einen entspannten Nachmittag.",
             "hu": "Egy utolsó buszozás elviszi a parkba egy pihentető délutánra.",
             "ro": "O ultimă călătorie cu autobuzul vă duce la parc pentru o după-amiază relaxantă.",
-            "en": "A final bus ride takes you to the park for a relaxing afternoon."
+            "en": "A final bus ride takes you to the park for a relaxing afternoon.",
+            "el": "Μια τελευταία διαδρομή με λεωφορείο σας πηγαίνει στο πάρκο για ένα χαλαρωτικό απόγευμα."
           }
         }
       ],
@@ -1821,7 +1972,8 @@
         "de": "Ihr Tag mit öffentlichen Verkehrsmitteln in Orestiada beginnt am Zentralplatz. Von hier aus erkunden Sie zu Fuß das Herz der Stadt: das Gründungsdenkmal und das aufschlussreiche Volkskundemuseum. Eine kurze Busfahrt bringt Sie dann zum historischen Bahnhof-Cluster. Nach einem Spaziergang zum Kulturzentrum nehmen Sie einen letzten Bus zum Stadtpark, wo Sie einen langen, entspannten Nachmittag verbringen und die Eindrücke des Tages verarbeiten können.",
         "hu": "Oresztiádai tömegközlekedési napja a központi téren kezdődik. Innen gyalog fedezi fel a város szívét: az alapítók emlékművét és a tanulságos néprajzi múzeumot. Egy rövid buszút viszi el a történelmi vasútállomás klaszteréhez. A kulturális központhoz tett séta után egy utolsó busszal a városi parkba utazik, ahol egy hosszú, pihentető délutánt tölthet, feldolgozva a nap benyomásait.",
         "ro": "Ziua dvs. cu transportul public în Orestiada începe în Piața Centrală. De aici, explorați pe jos inima orașului: monumentul fondatorilor și revelatorul Muzeu de Folclor. O scurtă călătorie cu autobuzul vă duce apoi la clusterul gării istorice. După o plimbare la Centrul Cultural, luați un ultim autobuz spre Parcul Municipal, unde puteți petrece o după-amiază lungă și relaxantă, procesând impresiile zilei.",
-        "en": "Your day using public transport in Orestiada begins at the Central Square. From here, you explore the heart of the city on foot: the founders' monument and the insightful Folklore Museum. A short bus ride then takes you to the historic train station cluster. After a walk to the Cultural Centre, you take a final bus to the City Park, where you can spend a long, relaxing afternoon processing the day's impressions."
+        "en": "Your day using public transport in Orestiada begins at the Central Square. From here, you explore the heart of the city on foot: the founders' monument and the insightful Folklore Museum. A short bus ride then takes you to the historic train station cluster. After a walk to the Cultural Centre, you take a final bus to the City Park, where you can spend a long, relaxing afternoon processing the day's impressions.",
+        "el": "Η μέρα σας με μέσα μαζικής μεταφοράς στην Ορεστιάδα αρχίζει στην Κεντρική Πλατεία. Από εκεί εξερευνάτε την καρδιά της πόλης με τα πόδια: το μνημείο των ιδρυτών και το ενδιαφέρον Μουσείο Λαογραφίας. Μια σύντομη διαδρομή με λεωφορείο σας μεταφέρει στο ιστορικό σιδηροδρομικό σταθμό. Μετά από έναν περίπατο προς το Πολιτιστικό Κέντρο, παίρνετε ένα τελευταίο λεωφορείο προς το Δημοτικό Πάρκο, όπου μπορείτε να περάσετε ένα μεγάλο, χαλαρωτικό απόγευμα επεξεργαζόμενοι τις εντυπώσεις της ημέρας."
       },
       "gastro_picks": {
         "de": [
@@ -2017,6 +2169,12 @@
           "Check the bus schedules in advance.",
           "Have small change ready for tickets.",
           "Pay attention to the next stop displays on the bus."
+        ],
+        "el": [
+          "Αγοράστε ημερήσιο εισιτήριο για το λεωφορείο εφόσον υπάρχει.",
+          "Ελέγξτε τα δρομολόγια των λεωφορείων εκ των προτέρων.",
+          "Να έχετε μικρό ρέστα έτοιμα για τα εισιτήρια.",
+          "Δώστε προσοχή στις ενδείξεις της επόμενης στάσης στο λεωφορείο."
         ]
       },
       "variants": {
@@ -2025,7 +2183,8 @@
             "de": "Nutzen Sie den Bus, um Orestiada im Regen zu erkunden. Starten Sie am Zentralplatz und dem Denkmal, die Bushaltestellen bieten meist Schutz. Das Volkskundemuseum ist ein ausgiebiger Indoor-Stopp. Fahren Sie zum historischen Bahnhof und zum Kulturzentrum, um trocken zu bleiben. Der Stadtpark lässt sich am besten von einer der Haltestellen am Rand aus betrachten, wenn der Regen zu stark wird.",
             "hu": "Használja a buszt Oresztiáda felfedezéséhez esőben. Kezdjen a főtéren és az emlékműnél, a buszmegállók többnyire fedettek. A néprajzi múzeum kiváló beltéri program. Utazzon a vasútállomáshoz és a kulturális központhoz, hogy szárazon maradjon. A városi parkot a szélső megállókból nézheti meg, ha az eső túl erőssé válik.",
             "ro": "Folosiți autobuzul pentru a explora Orestiada pe ploaie. Începeți în piața centrală și la monument, stațiile oferă de obicei adăpost. Muzeul de etnografie este o oprire excelentă la interior. Mergeți cu autobuzul la gară și la centrul cultural pentru a rămâne uscați. Parcul poate fi observat din stațiile de la margine dacă ploaia devine prea puternică.",
-            "en": "Use the bus to explore Orestiada in the rain. Start at the central square and the monument; the bus stops usually provide cover. The folklore museum is a great indoor stop. Take the bus to the historic station and the cultural centre to stay dry. The city park can be viewed from the stops at its edge if the rain gets too heavy."
+            "en": "Use the bus to explore Orestiada in the rain. Start at the central square and the monument; the bus stops usually provide cover. The folklore museum is a great indoor stop. Take the bus to the historic station and the cultural centre to stay dry. The city park can be viewed from the stops at its edge if the rain gets too heavy.",
+            "el": "Χρησιμοποιήστε το λεωφορείο για να εξερευνήσετε την Ορεστιάδα στη βροχή. Ξεκινήστε από την κεντρική πλατεία και το μνημείο· οι στάσεις λεωφορείων συχνά παρέχουν κάλυψη. Το λαογραφικό μουσείο είναι μια εξαιρετική εσωτερική στάση. Πάρτε το λεωφορείο προς τον ιστορικό σταθμό και το πολιτιστικό κέντρο για να παραμείνετε στεγνοί. Το δημοτικό πάρκο μπορεί να φανεί από τις στάσεις στην άκρη του αν η βροχή γίνει πιο δυνατή."
           },
           "stops": [
             {
@@ -2034,7 +2193,8 @@
                 "de": "Zentraler Knotenpunkt mit vielen überdachten Haltestellen.",
                 "hu": "Központi csomópont sok fedett megállóval.",
                 "ro": "Nod central cu multe stații acoperite.",
-                "en": "Central hub with many covered bus stops."
+                "en": "Central hub with many covered bus stops.",
+                "el": "Κεντρικός κόμβος με πολλές καλυμμένες στάσεις λεωφορείων."
               }
             },
             {
@@ -2043,7 +2203,8 @@
                 "de": "Nur ein kurzer Fußweg von der Bushaltestelle.",
                 "hu": "Csak egy rövid séta a buszmegállótól.",
                 "ro": "Doar o scurtă plimbare de la stația de autobuz.",
-                "en": "Just a short walk from the bus stop."
+                "en": "Just a short walk from the bus stop.",
+                "el": "Μόλις λίγα βήματα από τη στάση του λεωφορείου."
               }
             },
             {
@@ -2052,7 +2213,8 @@
                 "de": "Warten Sie im Museumsfoyer auf Ihren nächsten Bus.",
                 "hu": "Várjon a múzeum előterében a következő buszra.",
                 "ro": "Așteptați următorul autobuz în foierul muzeului.",
-                "en": "Wait for your next bus in the museum foyer."
+                "en": "Wait for your next bus in the museum foyer.",
+                "el": "Περιμένετε το επόμενο λεωφορείο στο φουαγιέ του μουσείου."
               }
             },
             {
@@ -2061,7 +2223,8 @@
                 "de": "Das Bahnhofsgebäude bietet guten Schutz vor Regen.",
                 "hu": "Az állomás épülete jó védelmet nyújt az eső ellen.",
                 "ro": "Clădirea gării oferă o protecție bună împotriva ploii.",
-                "en": "The station building provides good shelter from the rain."
+                "en": "The station building provides good shelter from the rain.",
+                "el": "Το κτήριο του σταθμού παρέχει καλή προστασία από τη βροχή."
               }
             },
             {
@@ -2070,7 +2233,8 @@
                 "de": "Direkt vor dem Eingang gibt es eine Haltestelle.",
                 "hu": "Közvetlenül a bejárat előtt van egy megálló.",
                 "ro": "Există o stație chiar în fața intrării.",
-                "en": "There's a bus stop right in front of the entrance."
+                "en": "There's a bus stop right in front of the entrance.",
+                "el": "Υπάρχει στάση λεωφορείου ακριβώς μπροστά από την είσοδο."
               }
             },
             {
@@ -2079,7 +2243,8 @@
                 "de": "Wählen Sie eine Haltestelle mit Wartehäuschen.",
                 "hu": "Válasszon váróteremmel rendelkező megállót.",
                 "ro": "Alegeți o stație care are adăpost.",
-                "en": "Choose a bus stop that has a shelter."
+                "en": "Choose a bus stop that has a shelter.",
+                "el": "Επιλέξτε μια στάση λεωφορείου που έχει υπόστεγο."
               }
             }
           ],
@@ -2107,6 +2272,12 @@
               "Have change or a ticket ready to avoid delays.",
               "Keep in mind that buses can be delayed during heavy rain.",
               "A small travel umbrella is ideal for the stretches between stops."
+            ],
+            "el": [
+              "Κατεβάστε μια εφαρμογή συγκοινωνιών για πληροφορίες σε πραγματικό χρόνο.",
+              "Έχετε ρέστα ή εισιτήριο έτοιμα για να αποφύγετε καθυστερήσεις.",
+              "Να έχετε υπόψη ότι τα λεωφορεία μπορεί να καθυστερήσουν σε ισχυρή βροχή.",
+              "Μια μικρή ταξιδιωτική ομπρέλα είναι ιδανική για τις διαδρομές μεταξύ των στάσεων."
             ]
           }
         },
@@ -2115,7 +2286,8 @@
             "de": "Der Bus ist die wärmste Art, Orestiada im Winter zu erkunden. Beginnen Sie am Zentralplatz und nutzen Sie die beheizten Busse für den Transfer. Das Volkskundemuseum ist der ideale Ort, um die Kälte für ein paar Stunden zu vergessen. Besuchen Sie den Bahnhof und das Kulturzentrum, ohne lange in der Kälte stehen zu müssen. Der Stadtpark bietet eine schöne Winterkulisse, die Sie bei der Vorbeifahrt genießen können.",
             "hu": "A busz a legmelegebb módja Oresztiáda felfedezésének télen. Kezdjen a főtéren, és használja a fűtött buszokat az átszálláshoz. A néprajzi múzeum ideális hely, hogy pár órára elfelejtse a hideget. Látogassa meg az állomást és a kulturális központot anélkül, hogy sokat kellene a fagyban állnia. A városi park szép téli látványt nyújt, amit a buszablakból is élvezhet.",
             "ro": "Autobuzul este cel mai călduros mod de a explora Orestiada iarna. Începeți în piața centrală și folosiți autobuzele încălzite pentru transfer. Muzeul de etnografie este locul ideal pentru a uita de frig timp de câteva ore. Vizitați gara și centrul cultural fără a sta mult în ger. Parcul orașului oferă un decor de iarnă frumos, pe care îl puteți admira din mers.",
-            "en": "The bus is the warmest way to explore Orestiada in winter. Start at the central square and use the heated buses for transit. The folklore museum is the ideal place to forget the cold for a few hours. Visit the station and the cultural centre without having to stand in the freeze for long. The city park offers a beautiful winter backdrop that you can enjoy as you pass by."
+            "en": "The bus is the warmest way to explore Orestiada in winter. Start at the central square and use the heated buses for transit. The folklore museum is the ideal place to forget the cold for a few hours. Visit the station and the cultural centre without having to stand in the freeze for long. The city park offers a beautiful winter backdrop that you can enjoy as you pass by.",
+            "el": "Το λεωφορείο είναι ο πιο ζεστός τρόπος να εξερευνήσετε την Ορεστιάδα το χειμώνα. Ξεκινήστε στην κεντρική πλατεία και χρησιμοποιήστε τα θερμαινόμενα λεωφορεία για τις μετακινήσεις. Το λαογραφικό μουσείο είναι το ιδανικό μέρος για να ξεχάσετε το κρύο για λίγες ώρες. Επισκεφτείτε τον σταθμό και το πολιτιστικό κέντρο χωρίς να χρειαστεί να στέκεστε πολύ στη παγωνιά. Το δημοτικό πάρκο προσφέρει ένα όμορφο χειμερινό φόντο που μπορείτε να απολαύσετε καθώς περνάτε."
           },
           "stops": [
             {
@@ -2124,7 +2296,8 @@
                 "de": "Warten Sie in einem der angrenzenden warmen Cafés.",
                 "hu": "Várjon az egyik szomszédos meleg kávézóban.",
                 "ro": "Așteptați într-una dintre cafenelele calde din apropiere.",
-                "en": "Wait in one of the adjacent warm cafes."
+                "en": "Wait in one of the adjacent warm cafes.",
+                "el": "Περιμένετε σε ένα από τα παρακείμενα ζεστά καφέ."
               }
             },
             {
@@ -2133,7 +2306,8 @@
                 "de": "Ziehen Sie sich warm an, an den Haltestellen zieht es oft.",
                 "hu": "Öltözzön melegen, a megállókban gyakran huzatos a szél.",
                 "ro": "Îmbrăcați-vă gros, stațiile sunt adesea expuse vântului.",
-                "en": "Dress warmly; the bus stops are often drafty."
+                "en": "Dress warmly; the bus stops are often drafty.",
+                "el": "Ντυθείτε ζεστά· οι στάσεις λεωφορείων είναι συχνά ψυχρές."
               }
             },
             {
@@ -2142,7 +2316,8 @@
                 "de": "Nutzen Sie den Museumsbesuch als Aufwärmpause.",
                 "hu": "Használja a múzeumlátogatást melegedő szünetként.",
                 "ro": "Folosiți vizita la muzeu ca o pauză de încălzire.",
-                "en": "Use the museum visit as a warm-up break."
+                "en": "Use the museum visit as a warm-up break.",
+                "el": "Χρησιμοποιήστε την επίσκεψη στο μουσείο ως διάλειμμα για να ζεσταθείτε."
               }
             },
             {
@@ -2151,7 +2326,8 @@
                 "de": "Die Wartehalle im Bahnhof ist im Winter beheizt.",
                 "hu": "Az állomás váróterme télen fűtött.",
                 "ro": "Sala de așteptare din gară este încălzită iarna.",
-                "en": "The waiting hall in the station is heated in winter."
+                "en": "The waiting hall in the station is heated in winter.",
+                "el": "Η αίθουσα αναμονής στο σταθμό θερμαίνεται το χειμώνα."
               }
             },
             {
@@ -2160,7 +2336,8 @@
                 "de": "Prüfen Sie den Fahrplan, um Wartezeiten zu minimieren.",
                 "hu": "Ellenőrizze a menetrendet a várakozási idő csökkentésére.",
                 "ro": "Verificați programul pentru a minimiza timpul de așteptare.",
-                "en": "Check the schedule to minimize waiting times."
+                "en": "Check the schedule to minimize waiting times.",
+                "el": "Ελέγξτε το πρόγραμμα για να ελαχιστοποιήσετε τους χρόνους αναμονής."
               }
             },
             {
@@ -2169,7 +2346,8 @@
                 "de": "Steigen Sie nur aus, wenn Sie einen Spaziergang planen.",
                 "hu": "Csak akkor szálljon le, ha sétát is tervez.",
                 "ro": "Coborâți doar dacă plănuiți să faceți o plimbare.",
-                "en": "Only get off if you are planning to take a walk."
+                "en": "Only get off if you are planning to take a walk.",
+                "el": "Κατεβείτε μόνο αν σκοπεύετε να κάνετε περίπατο."
               }
             }
           ],
@@ -2197,6 +2375,12 @@
               "Buses are often well-heated in winter – layering helps.",
               "Watch out for any schedule changes during the holidays.",
               "Warm shoes are important as bus floors can be cold."
+            ],
+            "el": [
+              "Σχεδιάστε τα ταξίδια σας έτσι ώστε να είστε στο κέντρο πριν νυχτώσει.",
+              "Τα λεωφορεία συχνά είναι καλά θερμαινόμενα το χειμώνα – η στρώση ρουχισμού βοηθά.",
+              "Προσέξτε τυχόν αλλαγές στα δρομολόγια κατά τις γιορτές.",
+              "Ζεστά παπούτσια είναι σημαντικά καθώς τα δάπεδα των λεωφορείων μπορεί να είναι κρύα."
             ]
           }
         }

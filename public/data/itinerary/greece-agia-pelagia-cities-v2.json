@@ -21,7 +21,8 @@
             "de": "Kirche Agia Pelagia",
             "hu": "Agia Pelagia templom",
             "ro": "Biserica Agia Pelagia",
-            "en": "Agia Pelagia Church"
+            "en": "Agia Pelagia Church",
+            "el": "Εκκλησία Αγίας Πελαγίας"
           },
           "coords": [
             25.007675,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die ruhige Architektur dieser charmanten lokalen Kirche, die dem Dorf seinen Namen gab, und denken Sie an angemessene Kleidung, wenn Sie das Innere besichtigen.",
             "hu": "Csodálja meg e bájos helyi templom nyugodt építészetét, amely a falu nevét is adta, és ne feledjen szerényen öltözködni, ha be szeretne menni a gyönyörű ikonok megtekintésére.",
             "ro": "Admirați arhitectura senină a acestei biserici locale fermecătoare care a dat numele satului și purtați o ținută decentă dacă intenționați să intrați pentru a vedea icoanele.",
-            "en": "Admire the serene architecture of this charming local church that gave the village its name, and remember to dress modestly if you plan to step inside to view the beautiful icons."
+            "en": "Admire the serene architecture of this charming local church that gave the village its name, and remember to dress modestly if you plan to step inside to view the beautiful icons.",
+            "el": "Θαυμάστε τη γαλήνια αρχιτεκτονική αυτής της γραφικής τοπικής εκκλησίας που έδωσε το όνομα στο χωριό και θυμηθείτε να ντυθείτε σεμνά αν σκοπεύετε να μπείτε για να δείτε τα όμορφα ιεροεικόνες."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Strand von Agia Pelagia",
             "hu": "Agia Pelagia strand",
             "ro": "Plaja Agia Pelagia",
-            "en": "Agia Pelagia Beach"
+            "en": "Agia Pelagia Beach",
+            "el": "Παραλία Αγίας Πελαγίας"
           },
           "coords": [
             25.018516,
@@ -59,7 +62,8 @@
             "de": "Entspannen Sie am goldenen Sand dieses lebhaften Hauptstrandes mit seinem ruhigen, kristallklaren Wasser und mieten Sie frühzeitig eine Sonnenliege für den besten Platz am Meer.",
             "hu": "Pihenjen ezen a nyüzsgő fő strandon, ahol a nyugodt, kristálytiszta víz úszásra csábít, és érdemes korán napágyat bérelni, hogy a legjobb, vízparti helyet biztosítsa magának.",
             "ro": "Relaxați-vă pe nisipul auriu al acestei plaje principale vibrante, unde apele calme vă invită la înot, și închiriați un șezlong devreme pentru a prinde cel mai bun loc la mal.",
-            "en": "Relax on the golden sands of this vibrant main beach where calm, crystal-clear waters invite you for a swim, and consider renting a sunbed early to secure the best waterfront spot."
+            "en": "Relax on the golden sands of this vibrant main beach where calm, crystal-clear waters invite you for a swim, and consider renting a sunbed early to secure the best waterfront spot.",
+            "el": "Χαλαρώστε στις χρυσαφένιες αμμουδιές αυτής της ζωντανής κύριας παραλίας όπου τα ήρεμα, κρystal-καθαρά νερά σας καλούν για μπάνιο· σκεφτείτε να νοικιάσετε ξαπλώστρα νωρίς για να εξασφαλίσετε την καλύτερη θέση στο μέτωπο της θάλασσας."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Psaromoura Strand",
             "hu": "Psaromoura strand",
             "ro": "Plaja Psaromoura",
-            "en": "Psaromoura Beach"
+            "en": "Psaromoura Beach",
+            "el": "Παραλία Ψαρομούρα"
           },
           "coords": [
             25.017825,
@@ -82,7 +87,8 @@
             "de": "Entfliehen Sie den Massen in dieser malerischen, von Klippen umgebenen Kieselbucht und bringen Sie Ihre Schnorchelausrüstung mit, um die lebhafte Unterwasserwelt zu erkunden.",
             "hu": "Meneküljön el a tömeg elől ebbe a festői, sziklákkal körülvett kavicsos öbölbe, és hozzon magával búvárfelszerelést, hogy felfedezze a sziklás peremek rejtett tengeri élővilágát.",
             "ro": "Scăpați de aglomerație în acest golf pitoresc cu pietriș înconjurat de stânci dramatice și aduceți echipamentul de snorkeling pentru a explora viața marină de-a lungul rocilor.",
-            "en": "Escape the crowds at this picturesque, pebbly cove surrounded by dramatic cliffs, and bring your snorkeling gear to explore the vibrant marine life hiding along the rocky edges."
+            "en": "Escape the crowds at this picturesque, pebbly cove surrounded by dramatic cliffs, and bring your snorkeling gear to explore the vibrant marine life hiding along the rocky edges.",
+            "el": "Δραπετεύστε από τα πλήθη σε αυτόν τον γραφικό βοτσαλωτό κόλπο περιτριγυρισμένο από δραματικούς βράχους και φέρτε τον εξοπλισμό κατάδυσης με αναπνευστήρα για να εξερευνήσετε τη ζωηρή θαλάσσια ζωή στα βραχώδη άκρα."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Peninsula Privatstrand",
             "hu": "Peninsula Magánstrand",
             "ro": "Plaja Privată Peninsula",
-            "en": "Peninsula Private Beach"
+            "en": "Peninsula Private Beach",
+            "el": "Ιδιωτική Παραλία Χερσονήσου"
           },
           "coords": [
             25.019871,
@@ -105,7 +112,8 @@
             "de": "Genießen Sie ein exklusives und ruhiges Erlebnis an diesem abgelegenen Privatstrand, aber bringen Sie unbedingt eigenes Wasser und Snacks mit, da die Ausstattung minimalistisch ist.",
             "hu": "Élvezze az exkluzív és nyugodt tengerparti élményt ezen a félreeső magánstrandon, de ne felejtsen el vizet és rágcsálnivalót hozni, mivel a szolgáltatások itt minimalisztikusak.",
             "ro": "Bucurați-vă de o experiență maritimă exclusivistă și liniștită la această plajă privată izolată, dar aduceți-vă propria apă și gustări, deoarece facilitățile sunt minimaliste.",
-            "en": "Enjoy an exclusive and tranquil seaside experience at this secluded private beach, but remember to bring your own water and snacks as amenities here are wonderfully minimalist."
+            "en": "Enjoy an exclusive and tranquil seaside experience at this secluded private beach, but remember to bring your own water and snacks as amenities here are wonderfully minimalist.",
+            "el": "Απολαύστε μια αποκλειστική και ήσυχη θαλασσία εμπειρία σε αυτή την απομονωμένη ιδιωτική παραλία, αλλά θυμηθείτε να φέρετε δικό σας νερό και σνακ καθώς οι ανέσεις εδώ είναι υπέροχα λιτές."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Mononaftis Strand",
             "hu": "Mononaftis strand",
             "ro": "Plaja Mononaftis",
-            "en": "Mononaftis Beach"
+            "en": "Mononaftis Beach",
+            "el": "Παραλία Μονοναύτης"
           },
           "coords": [
             25.018752,
@@ -128,7 +137,8 @@
             "de": "Tauchen Sie in das tiefe, erfrischende Wasser dieses atemberaubenden Kieselstrandes ein, der bei Tauchern beliebt ist, und essen Sie in den fantastischen Tavernen in der Nähe.",
             "hu": "Merüljön el ennek a lenyűgöző, búvárok körében kedvelt kavicsos strandnak a mély, frissítő vizében, és harapjon valamit a friss tenger gyümölcseit kínáló közeli tavernákban.",
             "ro": "Scufundați-vă în apele adânci și răcoroase ale acestei uimitoare plaje cu pietriș, preferată de scafandri, și savurați o gustare la tavernele fantastice care oferă fructe de mare.",
-            "en": "Dive into the deep, refreshing waters of this stunning pebble beach which is a favorite among local divers, and grab a bite at the fantastic nearby tavernas offering fresh seafood."
+            "en": "Dive into the deep, refreshing waters of this stunning pebble beach which is a favorite among local divers, and grab a bite at the fantastic nearby tavernas offering fresh seafood.",
+            "el": "Βουτήξτε στα βαθιά, δροσερά νερά αυτής της εκπληκτικής βοτσαλωτής παραλίας που είναι αγαπημένη των ντόπιων δύτων και δοκιμάστε κάτι από τις φανταστικές παρακείμενες ταβέρνες που προσφέρουν φρέσκα θαλασσινά."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Sea Cave Spa",
             "hu": "Sea Cave Spa",
             "ro": "Sea Cave Spa",
-            "en": "Sea Cave Spa"
+            "en": "Sea Cave Spa",
+            "el": "Σπα Σπηλιάς της Θάλασσας"
           },
           "coords": [
             25.019328,
@@ -151,7 +162,8 @@
             "de": "Gönnen Sie sich ein einzigartiges Wellness-Erlebnis in einer natürlichen Küstenhöhle und buchen Sie Ihre verjüngende Massage in den Hochsommermonaten unbedingt weit im Voraus.",
             "hu": "Kényeztesse magát egy igazán egyedülálló, természetes tengerparti barlangban rejlő wellness élménnyel, és a nyári csúcsidőszakban mindenképpen jó előre foglalja le a masszázsát.",
             "ro": "Răsfățați-vă cu o experiență de wellness unică ascunsă într-o peșteră de coastă naturală și asigurați-vă că vă rezervați masajul de întinerire cu mult timp înainte, vara.",
-            "en": "Treat yourself to a truly unique wellness experience hidden inside a natural coastal cave, and make sure to book your rejuvenating massage well in advance during peak summer months."
+            "en": "Treat yourself to a truly unique wellness experience hidden inside a natural coastal cave, and make sure to book your rejuvenating massage well in advance during peak summer months.",
+            "el": "Κάντε στον εαυτό σας μια πραγματικά μοναδική εμπειρία ευεξίας κρυμμένη μέσα σε φυσική παράκτια σπηλιά και φροντίστε να κλείσετε το αναζωογονητικό σας μασάζ καλά εκ των προτέρων κατά τους μήνες αιχμής το καλοκαίρι."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Morning: Beginnen Sie Ihren Rundgang, indem Sie die friedliche Schönheit der lokalen Kirche von Agia Pelagia bewundern. Schlendern Sie dann zum Hauptstrand, um die Morgensonne und das ruhige Wasser zu genießen.\nMidday: Wenn es wärmer wird, folgen Sie dem Küstenpfad zum Strand von Psaromoura. Diese malerische Felsbucht bietet eine perfekte Flucht vor den Massen und einen großartigen Ort für ein erfrischendes Bad.\nAfternoon: Setzen Sie Ihren Spaziergang zum abgeschiedenen Peninsula Private Beach fort, um exklusive Ruhe zu finden. Bald darauf erreichen Sie Mononaftis Beach, wo steile Klippen eine atemberaubende Kulisse bilden.\nEvening: Beenden Sie Ihre Reise im außergewöhnlichen Sea Cave Spa. Lassen Sie sich in der natürlichen Höhle bei beruhigendem Meeresrauschen verwöhnen, während die Sonne langsam am Horizont untergeht.",
         "hu": "Morning: Kezdje sétáját az Agia Pelagia templom békés szépségének megcsodálásával. Innen sétáljon le a nyüzsgő fő strandra, hogy magába szívja a korai napsugarakat és élvezze a Földközi-tenger kristálytiszta vizét.\nMidday: Ahogy az idő melegszik, kövesse a part menti ösvényt a Psaromoura strand felé. Ez a festői, sziklás öböl tökéletes menedéket nyújt a tömeg elől, és kiváló hely egy frissítő úszáshoz vagy sznorkelezéshez.\nAfternoon: Folytassa kényelmes sétáját a félreeső Peninsula Private Beach felé egy kis nyugalomért. Nem sokkal ezután induljon a Mononaftis strandhoz, ahol a drámai sziklák és a mély vizek lélegzetelállító hátteret biztosítanak.\nEvening: Fejezze be tengerparti utazását a rendkívüli Sea Cave Spa-ban. Kényeztesse magát egy pihentető kezeléssel a természetes barlangban, miközben a hullámok megnyugtató hangját hallgatja a naplementében.",
         "ro": "Morning: Începeți turul admirând frumusețea senină a bisericii locale Agia Pelagia. De acolo, plimbați-vă până la plaja principală vibrantă pentru a vă bucura de soarele de dimineață și de apele cristaline ale Mediteranei.\nMidday: Pe măsură ce ziua se încălzește, urmați poteca de coastă spre plaja Psaromoura. Acest golf stâncos și pitoresc oferă o evadare perfectă din aglomerație și un loc excelent pentru o baie răcoritoare sau snorkeling.\nAfternoon: Continuați plimbarea spre izolata Peninsula Private Beach pentru liniște exclusivistă. La scurt timp, îndreptați-vă spre plaja Mononaftis, unde stâncile dramatice și apele adânci oferă un fundal uimitor.\nEvening: Încheiați călătoria la extraordinarul Sea Cave Spa. Răsfățați-vă cu un tratament relaxant în interiorul cavernei naturale, ascultând sunetul liniștitor al valurilor în timp ce soarele apune blând pe orizont.",
-        "en": "Morning: Begin your walking tour by admiring the serene beauty of the local Agia Pelagia church. From there, stroll down to the vibrant main beach to soak in the early sun and enjoy the calm, crystal-clear Mediterranean waters.\nMidday: As the day warms up, follow the scenic coastal path towards Psaromoura beach. This picturesque, rocky cove offers a perfect escape from the crowds and an excellent spot for a refreshing swim or snorkeling adventure.\nAfternoon: Continue your leisurely walk to the secluded Peninsula Private Beach for some exclusive tranquility. Shortly after, make your way to Mononaftis Beach, where the dramatic cliffs and deep waters provide a breathtaking backdrop.\nEvening: Conclude your beautiful coastal journey at the extraordinary Sea Cave Spa. Pamper yourself with a relaxing treatment inside the natural cavern while listening to the soothing sounds of the waves as the sun gently sets."
+        "en": "Morning: Begin your walking tour by admiring the serene beauty of the local Agia Pelagia church. From there, stroll down to the vibrant main beach to soak in the early sun and enjoy the calm, crystal-clear Mediterranean waters.\nMidday: As the day warms up, follow the scenic coastal path towards Psaromoura beach. This picturesque, rocky cove offers a perfect escape from the crowds and an excellent spot for a refreshing swim or snorkeling adventure.\nAfternoon: Continue your leisurely walk to the secluded Peninsula Private Beach for some exclusive tranquility. Shortly after, make your way to Mononaftis Beach, where the dramatic cliffs and deep waters provide a breathtaking backdrop.\nEvening: Conclude your beautiful coastal journey at the extraordinary Sea Cave Spa. Pamper yourself with a relaxing treatment inside the natural cavern while listening to the soothing sounds of the waves as the sun gently sets.",
+        "el": "Πρωί: Ξεκινήστε το περπάτημά σας θαυμάζοντας την ήρεμη ομορφιά της τοπικής εκκλησίας της Αγίας Πελαγίας. Από εκεί, κατεβείτε προς την ζωντανή κύρια παραλία για να απολαύσετε τις πρώτες ακτίνες του ήλιου και τα ήρεμα, κρυστάλλινα μεσογειακά νερά.\nΜεσημέρι: Καθώς η μέρα θερμαίνεται, ακολουθήστε το γραφικό παραθαλάσσιο μονοπάτι προς την παραλία Ψαρομούρα. Αυτός ο γραφικός, βραχώδης κόλπος προσφέρει τέλεια απόδραση από τα πλήθη και ένα εξαιρετικό σημείο για δροσερό μπάνιο ή κατάδυση με αναπνευστήρα.\nΑπόγευμα: Συνεχίστε τον χαλαρό περίπατό σας προς την απομονωμένη Ιδιωτική Παραλία Χερσονήσου για λίγη αποκλειστική ηρεμία. Λίγο μετά, κατευθυνθείτε στην παραλία Μονοναύτης, όπου οι δραματικοί βράχοι και τα βαθιά νερά προσφέρουν φαντασμαγορικό φόντο.\nΒράδυ: Ολοκληρώστε το όμορφο παραθαλάσσιο ταξίδι σας στο εξαιρετικό Σπα Σπηλιάς της Θάλασσας. Περιποιηθείτε τον εαυτό σας με μια χαλαρωτική θεραπεία μέσα στη φυσική σπηλιά ακούγοντας τους καθησυχαστικούς ήχους των κυμάτων καθώς ο ήλιος δύει απαλά."
       },
       "variants": {
         "rainy": {
@@ -167,7 +180,8 @@
             "en": "Morning starts at the sheltered church to escape the rain. Midday coastal walking requires sturdy, waterproof shoes on slick paths. Afternoon brings dramatic, stormy sea views from the rocky coves. Evening concludes warmly indoors at the spa, offering perfect relaxation away from the wet weather.",
             "hu": "A reggel a védett templomban indul, menedéket nyújtva az eső elől. Délben a parti séta vízálló cipőt igényel a csúszós utakon. A délután drámai, viharos tengeri kilátást hoz a sziklás öblökből. Az este meleg, beltéri pihenéssel zárul a spában, tökéletes menedékként a nedves idő elől.",
             "de": "Der Morgen beginnt geschützt in der Kirche, um dem Regen zu entgehen. Mittags erfordert die Küste wasserfeste Schuhe auf rutschigen Wegen. Der Nachmittag bietet dramatische, stürmische Meerblicke von den Buchten. Der Abend endet warm und trocken im Spa, perfekt zur Entspannung bei nassem Wetter.",
-            "ro": "Dimineața începe la biserica ferită, pentru a scăpa de ploaie. La prânz, plimbarea pe coastă necesită încălțăminte impermeabilă pe poteci alunecoase. După-amiaza aduce priveliști dramatice ale mării furtunoase. Seara se încheie la căldură în spa, oferind o relaxare perfectă pe vreme umedă."
+            "ro": "Dimineața începe la biserica ferită, pentru a scăpa de ploaie. La prânz, plimbarea pe coastă necesită încălțăminte impermeabilă pe poteci alunecoase. După-amiaza aduce priveliști dramatice ale mării furtunoase. Seara se încheie la căldură în spa, oferind o relaxare perfectă pe vreme umedă.",
+            "el": "Το πρωί ξεκινά στην προστατευμένη εκκλησία για να αποφύγετε τη βροχή. Το μεσημέρι το παράκτιο περπάτημα απαιτεί στιβαρά, αδιάβροχα παπούτσια σε ολισθηρά μονοπάτια. Το απόγευμα φέρνει δραματικές, θυελλώδεις θαλάσσιες μποφόρ από τους βραχώδεις κόλπους. Το βράδυ τελειώνει ζεστά μέσα στο σπα, που προσφέρει τέλεια χαλάρωση μακριά από τον υγρό καιρό."
           },
           "stops": [
             {
@@ -175,13 +189,15 @@
                 "de": "Kirche Agia Pelagia",
                 "hu": "Agia Pelagia templom",
                 "ro": "Biserica Agia Pelagia",
-                "en": "Agia Pelagia Church"
+                "en": "Agia Pelagia Church",
+                "el": "Εκκλησία Αγίας Πελαγίας"
               },
               "tip_5lang": {
                 "en": "Admire the beautiful interior frescoes while staying dry; the stone floors can be slick, so step carefully in wet shoes.",
                 "hu": "Csodáld meg a belső freskókat szárazon; a kőpadló csúszós lehet, ezért óvatosan lépkedj a vizes cipődben.",
                 "de": "Bewundern Sie die Fresken im Trockenen; die Steinböden können rutschig sein, treten Sie mit nassen Schuhen vorsichtig auf.",
-                "ro": "Admiră frescele interioare rămânând uscat; podelele de piatră pot fi alunecoase, pășește cu grijă în încălțări ude."
+                "ro": "Admiră frescele interioare rămânând uscat; podelele de piatră pot fi alunecoase, pășește cu grijă în încălțări ude.",
+                "el": "Θαυμάστε τα όμορφα εσωτερικά τοιχογραφικά ενώ παραμένετε στεγνοί· τα λίθινα δάπεδα μπορεί να είναι ολισθηρά, οπότε πατήστε προσεκτικά με βρεγμένα παπούτσια."
               }
             },
             {
@@ -189,13 +205,15 @@
                 "de": "Strand von Agia Pelagia",
                 "hu": "Agia Pelagia strand",
                 "ro": "Plaja Agia Pelagia",
-                "en": "Agia Pelagia Beach"
+                "en": "Agia Pelagia Beach",
+                "el": "Παραλία Αγίας Πελαγίας"
               },
               "tip_5lang": {
                 "en": "Watch the dramatic, stormy waves from the safety of the paved promenade; bring a sturdy umbrella as the coastal wind picks up.",
                 "hu": "Nézd a drámai, viharos hullámokat a burkolt sétányról; hozz erős esernyőt, mivel a parti szél felerősödhet a tenger felől.",
                 "de": "Beobachten Sie die stürmischen Wellen von der befestigten Promenade; bringen Sie einen stabilen Regenschirm gegen den Wind mit.",
-                "ro": "Privește valurile dramatice de pe promenada pavată; adu o umbrelă rezistentă deoarece vântul de coastă se intensifică."
+                "ro": "Privește valurile dramatice de pe promenada pavată; adu o umbrelă rezistentă deoarece vântul de coastă se intensifică.",
+                "el": "Παρακολουθήστε τα δραματικά, θυελλώδη κύματα από την ασφάλεια της πλακόστρωτης παραλίας· φέρτε ένα στιβαρό ομπρέλα καθώς ο παράκτιος άνεμος ενισχύεται."
               }
             },
             {
@@ -203,13 +221,15 @@
                 "de": "Psaromoura Strand",
                 "hu": "Psaromoura strand",
                 "ro": "Plaja Psaromoura",
-                "en": "Psaromoura Beach"
+                "en": "Psaromoura Beach",
+                "el": "Παραλία Ψαρομούρα"
               },
               "tip_5lang": {
                 "en": "The rocky cove looks wonderfully atmospheric in the rain; stick to the upper paved paths as the steep descent gets very muddy.",
                 "hu": "A sziklás öböl csodásan fest az esőben; maradj a felső burkolt utakon, mert a meredek lejáró nagyon sarassá válhat.",
                 "de": "Die felsige Bucht wirkt im Regen sehr stimmungsvoll; bleiben Sie auf den oberen Wegen, da der Abstieg sehr schlammig wird.",
-                "ro": "Golful stâncos arată plin de atmosferă în ploaie; rămâi pe cărările superioare pavate, deoarece coborârea devine noroioasă."
+                "ro": "Golful stâncos arată plin de atmosferă în ploaie; rămâi pe cărările superioare pavate, deoarece coborârea devine noroioasă.",
+                "el": "Ο βραχώδης κόλπος φαίνεται υπέροχα ατμοσφαιρικός στη βροχή· μείνετε στα ανώτερα πλακόστρωτα μονοπάτια καθώς η απότομη κατηφόρα γίνεται πολύ λασπώδης."
               }
             },
             {
@@ -217,13 +237,15 @@
                 "de": "Peninsula Privatstrand",
                 "hu": "Peninsula Magánstrand",
                 "ro": "Plaja Privată Peninsula",
-                "en": "Peninsula Private Beach"
+                "en": "Peninsula Private Beach",
+                "el": "Ιδιωτική Παραλία Χερσονήσου"
               },
               "tip_5lang": {
                 "en": "Enjoy the moody, expansive sea views from the cliffside trail; a reliable waterproof windbreaker is absolutely essential here.",
                 "hu": "Élvezd a borongós, tágas tengeri kilátást a sziklaösvényről; egy megbízható vízálló széldzseki itt elengedhetetlen.",
                 "de": "Genießen Sie die weite Meeressicht vom Klippenpfad; eine zuverlässige wasserdichte Windjacke ist hier absolut unerlässlich.",
-                "ro": "Bucură-te de priveliștea melancolică a mării de pe poteca de pe stâncă; o jachetă de ploaie este absolut esențială aici."
+                "ro": "Bucură-te de priveliștea melancolică a mării de pe poteca de pe stâncă; o jachetă de ploaie este absolut esențială aici.",
+                "el": "Απολαύστε τις σκοτεινές, απέραντες θαλασσινές θέες από το μονοπάτι στην άκρη του γκρεμού· ένα αξιόπιστο αδιάβροχο αντιανεμικό είναι απολύτως απαραίτητο εδώ."
               }
             },
             {
@@ -231,13 +253,15 @@
                 "de": "Mononaftis Strand",
                 "hu": "Mononaftis strand",
                 "ro": "Plaja Mononaftis",
-                "en": "Mononaftis Beach"
+                "en": "Mononaftis Beach",
+                "el": "Παραλία Μονοναύτης"
               },
               "tip_5lang": {
                 "en": "See the spectacular surf crashing against the offshore rocks; seek shelter under the covered viewpoints if a heavy downpour starts.",
                 "hu": "Nézd a tengeri sziklákhoz csapódó látványos hullámokat; keress menedéket a fedett kilátóknál, ha heves zápor kezdődik.",
                 "de": "Sehen Sie die Brandung an den Felsen brechen; suchen Sie Schutz unter den überdachten Aussichtspunkten bei starkem Platzregen.",
-                "ro": "Vezi valurile spectaculoase izbindu-se de stânci; caută adăpost sub punctele de belvedere acoperite dacă începe o ploaie torențială."
+                "ro": "Vezi valurile spectaculoase izbindu-se de stânci; caută adăpost sub punctele de belvedere acoperite dacă începe o ploaie torențială.",
+                "el": "Δείτε τα θεαματικά κύματα να σπάνε στα βράχια ανοιχτά· αναζητήστε καταφύγιο κάτω από καλυμμένα σημεία θέας αν ξεκινήσει δυνατή καταιγίδα."
               }
             },
             {
@@ -245,13 +269,15 @@
                 "de": "Sea Cave Spa",
                 "hu": "Sea Cave Spa",
                 "ro": "Sea Cave Spa",
-                "en": "Sea Cave Spa"
+                "en": "Sea Cave Spa",
+                "el": "Σπα Σπηλιάς της Θάλασσας"
               },
               "tip_5lang": {
                 "en": "Unwind in the warm, dry indoor pools and sauna; it's the perfect, comforting refuge to relax your muscles after a rainy coastal walk.",
                 "hu": "Pihenj meg a meleg, száraz beltéri medencékben; tökéletes, megnyugtató menedék az izmok ellazítására az esős séta után.",
                 "de": "Entspannen Sie in den warmen Innenpools; es ist der perfekte, gemütliche Zufluchtsort nach einem regnerischen Küstenspaziergang.",
-                "ro": "Relaxează-te în piscinele interioare calde; este refugiul perfect și confortabil pentru a-ți odihni mușchii după o plimbare umedă."
+                "ro": "Relaxează-te în piscinele interioare calde; este refugiul perfect și confortabil pentru a-ți odihni mușchii după o plimbare umedă.",
+                "el": "Χαλαρώστε στις ζεστές, στεγνές εσωτερικές πισίνες και στη σάουνα· είναι το τέλειο, παρηγορητικό καταφύγιο για να χαλαρώσετε τους μύες μετά από ένα βροχερό παράκτιο περπάτημα."
               }
             }
           ]
@@ -261,7 +287,8 @@
             "en": "Crisp winter mornings are perfect for exploring the quiet church. Midday offers peaceful walks along empty beaches in mild temperatures. Afternoon shadows lengthen quickly along the rugged coastal coves. Evening arrives early with a 5 PM sunset, ending perfectly at the heated indoor spa.",
             "hu": "A csípős téli reggel tökéletes a csendes templom felfedezésére. A dél békés sétákat kínál az üres strandokon, enyhe időben. Délután az árnyékok gyorsan megnyúlnak a sziklás parti öblök mentén. Az este korán, délután 5 körül érkezik, melyet a fűtött beltéri spa tesz teljessé.",
             "de": "Klare Wintermorgen sind perfekt, um die ruhige Kirche zu erkunden. Mittags bieten sich friedliche Spaziergänge an leeren Stränden bei mildem Wetter an. Nachmittags werden die Schatten an den felsigen Buchten schnell länger. Der Abend bricht früh herein und endet perfekt im beheizten Spa.",
-            "ro": "Diminețile geroase de iarnă sunt perfecte pentru explorarea bisericii liniștite. Prânzul oferă plimbări pașnice pe plajele goale la temperaturi blânde. După-amiaza umbrele se lungesc rapid de-a lungul golfurilor stâncoase. Seara vine devreme, încheindu-se perfect la spa-ul interior încălzit."
+            "ro": "Diminețile geroase de iarnă sunt perfecte pentru explorarea bisericii liniștite. Prânzul oferă plimbări pașnice pe plajele goale la temperaturi blânde. După-amiaza umbrele se lungesc rapid de-a lungul golfurilor stâncoase. Seara vine devreme, încheindu-se perfect la spa-ul interior încălzit.",
+            "el": "Τα δροσερά χειμωνιάτικα πρωινά είναι ιδανικά για εξερεύνηση της ήσυχης εκκλησίας. Το μεσημέρι προσφέρονται ήρεμοι περίπατοι κατά μήκος άδειων παραλιών σε ήπιες θερμοκρασίες. Το απόγευμα οι σκιές επιμηκύνονται γρήγορα κατά μήκος των τραχών παραθαλάσσιων κόλπων. Το βράδυ έρχεται νωρίς με ηλιοβασίλεμα στις 17:00, ολοκληρώνοντας ιδανικά στο θερμαινόμενο εσωτερικό σπα."
           },
           "stops": [
             {
@@ -269,13 +296,15 @@
                 "de": "Kirche Agia Pelagia",
                 "hu": "Agia Pelagia templom",
                 "ro": "Biserica Agia Pelagia",
-                "en": "Agia Pelagia Church"
+                "en": "Agia Pelagia Church",
+                "el": "Εκκλησία Αγίας Πελαγίας"
               },
               "tip_5lang": {
                 "en": "Enjoy the peaceful winter atmosphere inside the chapel; wrap up warmly as stone buildings retain the chilly morning temperatures.",
                 "hu": "Élvezd a békés téli hangulatot a kápolnában; öltözz melegen, mivel a kőépületek megtartják a reggeli hideget.",
                 "de": "Genießen Sie die winterliche Atmosphäre in der Kapelle; ziehen Sie sich warm an, da die Steingebäude morgens recht kühl sind.",
-                "ro": "Bucură-te de atmosfera pașnică de iarnă în interior; îmbracă-te gros, deoarece clădirile din piatră rețin frigul dimineții."
+                "ro": "Bucură-te de atmosfera pașnică de iarnă în interior; îmbracă-te gros, deoarece clădirile din piatră rețin frigul dimineții.",
+                "el": "Απολαύστε την ήσυχη χειμωνιάτικη ατμόσφαιρα μέσα στο παρεκκλήσι· ντυθείτε ζεστά καθώς τα λίθινα κτίρια διατηρούν τις ψυχρές πρωινές θερμοκρασίες."
               }
             },
             {
@@ -283,13 +312,15 @@
                 "de": "Strand von Agia Pelagia",
                 "hu": "Agia Pelagia strand",
                 "ro": "Plaja Agia Pelagia",
-                "en": "Agia Pelagia Beach"
+                "en": "Agia Pelagia Beach",
+                "el": "Παραλία Αγίας Πελαγίας"
               },
               "tip_5lang": {
                 "en": "Walk along the empty winter shore to collect unique sea glass; a warm windbreaker is recommended against the crisp sea breeze.",
                 "hu": "Sétálj az üres téli parton tengeri üvegdarabokért; meleg széldzseki ajánlott a csípős tengeri szellő ellen.",
                 "de": "Spazieren Sie am leeren Winterstrand, um Meerglas zu sammeln; eine warme Windjacke gegen die frische Meeresbrise wird empfohlen.",
-                "ro": "Plimbă-te pe țărmul gol de iarnă pentru a aduna sticlă de mare; o jachetă caldă este recomandată împotriva brizei reci."
+                "ro": "Plimbă-te pe țărmul gol de iarnă pentru a aduna sticlă de mare; o jachetă caldă este recomandată împotriva brizei reci.",
+                "el": "Περπατήστε κατά μήκος της άδειας χειμωνιάτικης ακτής για να συλλέξετε μοναδικά κομμάτια θαλασσινού γυαλιού· ένα ζεστό αντιανεμικό προτείνεται για την δροσερή θαλασσινή αύρα."
               }
             },
             {
@@ -297,13 +328,15 @@
                 "de": "Psaromoura Strand",
                 "hu": "Psaromoura strand",
                 "ro": "Plaja Psaromoura",
-                "en": "Psaromoura Beach"
+                "en": "Psaromoura Beach",
+                "el": "Παραλία Ψαρομούρα"
               },
               "tip_5lang": {
                 "en": "Appreciate the rugged winter waves in complete solitude; the path is clear but remember to dress in layers for the chilling wind.",
                 "hu": "Értékeld a zord téli hullámokat teljes magányban; az út tiszta, de ne felejts el rétegesen öltözni a hűs szél miatt.",
                 "de": "Genießen Sie die rauen Winterwellen in Einsamkeit; der Weg ist frei, aber kleiden Sie sich im Zwiebellook gegen den kalten Wind.",
-                "ro": "Apreciază valurile aspre de iarnă în singurătate; poteca este curată, dar îmbracă-te în straturi pentru vântul rece."
+                "ro": "Apreciază valurile aspre de iarnă în singurătate; poteca este curată, dar îmbracă-te în straturi pentru vântul rece.",
+                "el": "Απολαύστε τα τραχιά χειμωνιάτικα κύματα εντελώς μόνοι· το μονοπάτι είναι καθαρό αλλά θυμηθείτε να ντυθείτε σε στρώσεις για τον ψυχρό αέρα."
               }
             },
             {
@@ -311,13 +344,15 @@
                 "de": "Peninsula Privatstrand",
                 "hu": "Peninsula Magánstrand",
                 "ro": "Plaja Privată Peninsula",
-                "en": "Peninsula Private Beach"
+                "en": "Peninsula Private Beach",
+                "el": "Ιδιωτική Παραλία Χερσονήσου"
               },
               "tip_5lang": {
                 "en": "Take in the panoramic winter coastline; late afternoon light is great for photos, but keep a thick jacket handy as it cools fast.",
                 "hu": "Csodáld meg a téli partvonal panorámáját; a késő délutáni fény remek fotózáshoz, de tarts kéznél vastag kabátot.",
                 "de": "Bewundern Sie die winterliche Küste; das späte Nachmittagslicht ist toll für Fotos, aber halten Sie eine dicke Jacke bereit.",
-                "ro": "Admiră coasta panoramică de iarnă; lumina după-amiezii târzii e grozavă pentru poze, dar ține la îndemână o jachetă groasă."
+                "ro": "Admiră coasta panoramică de iarnă; lumina după-amiezii târzii e grozavă pentru poze, dar ține la îndemână o jachetă groasă.",
+                "el": "Απολαύστε την πανοραμική χειμωνιάτικη ακτογραμμή· το φως του αργοπορημένου απογεύματος είναι υπέροχο για φωτογραφίες, αλλά κρατήστε ένα χοντρό μπουφάν καθώς κρυώνει γρήγορα."
               }
             },
             {
@@ -325,13 +360,15 @@
                 "de": "Mononaftis Strand",
                 "hu": "Mononaftis strand",
                 "ro": "Plaja Mononaftis",
-                "en": "Mononaftis Beach"
+                "en": "Mononaftis Beach",
+                "el": "Παραλία Μονοναύτης"
               },
               "tip_5lang": {
                 "en": "Watch the dramatic winter surf; the sun dips behind the hills early here, so enjoy the golden hour light before it gets too cold.",
                 "hu": "Nézd a drámai téli hullámverést; a nap itt korán a dombok mögé bukik, így élvezd az aranyórát, mielőtt túl hideg lesz.",
                 "de": "Beobachten Sie die Winterbrandung; die Sonne sinkt hier früh hinter die Hügel, genießen Sie das Licht, bevor es kalt wird.",
-                "ro": "Privește valurile de iarnă; soarele apune devreme aici, așa că bucură-te de lumina aurie înainte să se facă prea frig."
+                "ro": "Privește valurile de iarnă; soarele apune devreme aici, așa că bucură-te de lumina aurie înainte să se facă prea frig.",
+                "el": "Παρακολουθήστε το δραματικό χειμωνιάτικο κύμα· ο ήλιος βυθίζεται νωρίς πίσω από τους λόφους, οπότε απολαύστε το χρυσό φως πριν κρυώσει πολύ."
               }
             },
             {
@@ -339,13 +376,15 @@
                 "de": "Sea Cave Spa",
                 "hu": "Sea Cave Spa",
                 "ro": "Sea Cave Spa",
-                "en": "Sea Cave Spa"
+                "en": "Sea Cave Spa",
+                "el": "Σπα Σπηλιάς της Θάλασσας"
               },
               "tip_5lang": {
                 "en": "Warm up thoroughly in the heated indoor pools after your breezy winter walk; a perfectly timed end before the early 5 PM sunset.",
                 "hu": "Melegedj fel a fűtött medencékben a szeles téli séta után; tökéletesen időzített befejezés a korai, délután 5 órás naplemente előtt.",
                 "de": "Wärmen Sie sich nach dem Spaziergang in den beheizten Innenpools auf; ein perfektes Ende vor dem frühen Sonnenuntergang um 17 Uhr.",
-                "ro": "Încălzește-te în piscinele interioare după plimbarea rece; un final perfect sincronizat înainte de apusul devreme de la ora 17:00."
+                "ro": "Încălzește-te în piscinele interioare după plimbarea rece; un final perfect sincronizat înainte de apusul devreme de la ora 17:00.",
+                "el": "Ζεσταθείτε καλά στις θερμαινόμενες εσωτερικές πισίνες μετά τον αεράτο χειμερινό περίπατό σας· ένα τέλεια προγραμματισμένο τέλος πριν το νωρίς ηλιοβασίλεμα στις 17:00."
               }
             }
           ]
@@ -365,7 +404,8 @@
             "de": "Kirche Agia Pelagia",
             "hu": "Agia Pelagia templom",
             "ro": "Biserica Agia Pelagia",
-            "en": "Agia Pelagia Church"
+            "en": "Agia Pelagia Church",
+            "el": "Εκκλησία Αγίας Πελαγίας"
           },
           "coords": [
             25.007675,
@@ -380,7 +420,8 @@
             "de": "Bewundern Sie die ruhige Architektur dieser charmanten lokalen Kirche, die dem Dorf seinen Namen gab, und denken Sie an angemessene Kleidung, wenn Sie das Innere besichtigen.",
             "hu": "Csodálja meg e bájos helyi templom nyugodt építészetét, amely a falu nevét is adta, és ne feledjen szerényen öltözködni, ha be szeretne menni a gyönyörű ikonok megtekintésére.",
             "ro": "Admirați arhitectura senină a acestei biserici locale fermecătoare care a dat numele satului și purtați o ținută decentă dacă intenționați să intrați pentru a vedea icoanele.",
-            "en": "Admire the serene architecture of this charming local church that gave the village its name, and remember to dress modestly if you plan to step inside to view the beautiful icons."
+            "en": "Admire the serene architecture of this charming local church that gave the village its name, and remember to dress modestly if you plan to step inside to view the beautiful icons.",
+            "el": "Θαυμάστε τη γαλήνια αρχιτεκτονική αυτής της γραφικής τοπικής εκκλησίας που έδωσε το όνομα στο χωριό και θυμηθείτε να ντυθείτε σεμνά αν σκοπεύετε να μπείτε για να δείτε τα όμορφα ιεροεικόνες."
           }
         },
         {
@@ -388,7 +429,8 @@
             "de": "Olivenbaum- und Ölmuseum Striligkas",
             "hu": "Striligkas Olajfa és Olívaolaj Múzeum",
             "ro": "Muzeul Măslinului și Uleiului Striligkas",
-            "en": "Museum of Olive Tree & Oil Striligkas"
+            "en": "Museum of Olive Tree & Oil Striligkas",
+            "el": "Μουσείο Ελιάς & Ελαίου Στριλιγκάς"
           },
           "coords": [
             24.99664,
@@ -403,7 +445,8 @@
             "de": "Entdecken Sie die faszinierenden traditionellen Methoden der kretischen Olivenölproduktion in diesem familiengeführten Museum und probieren Sie unbedingt die exquisiten Öle.",
             "hu": "Fedezze fel a krétai olívaolaj-termelés lenyűgöző hagyományos módszereit ebben a családi múzeumban, és mindenképpen kóstolja meg a kiváló extra szűz olajaikat távozás előtt.",
             "ro": "Descoperiți metodele tradiționale fascinante de producție a uleiului de măsline cretan în acest muzeu de familie și asigurați-vă că degustați uleiurile extravirgine rafinate.",
-            "en": "Discover the fascinating traditional methods of Cretan olive oil production in this family-run museum, and be sure to sample their exquisite extra virgin oils before leaving."
+            "en": "Discover the fascinating traditional methods of Cretan olive oil production in this family-run museum, and be sure to sample their exquisite extra virgin oils before leaving.",
+            "el": "Ανακαλύψτε τους συναρπαστικούς παραδοσιακούς τρόπους παραγωγής κρητικού ελαιολάδου σε αυτό το οικογενειακό μουσείο και φροντίστε να δοκιμάσετε τα εξαιρετικά παρθένα ελαιόλαδά τους πριν φύγετε."
           }
         },
         {
@@ -411,7 +454,8 @@
             "de": "Lygaria Strand",
             "hu": "Lygaria strand",
             "ro": "Plaja Lygaria",
-            "en": "Lygaria Beach"
+            "en": "Lygaria Beach",
+            "el": "Παραλία Λυγαριά"
           },
           "coords": [
             25.027147,
@@ -426,7 +470,8 @@
             "de": "Entdecken Sie diese halbmondförmige Bucht mit ruhigem Wasser, das perfekt für Familien ist, und besuchen Sie eines der charmanten Strandcafés für einen erfrischenden Eiskaffee.",
             "hu": "Fedezze fel ezt a félhold alakú öblöt, amely hihetetlenül nyugodt vizeivel tökéletes a családok számára, és próbáljon ki egy hangulatos tengerparti kávézót egy hűsítő jegeskávéra.",
             "ro": "Descoperiți acest golf în formă de semilună ce oferă ape incredibil de calme perfecte pentru familii, și încercați o cafenea fermecătoare pe plajă pentru o cafea cu gheață.",
-            "en": "Discover this crescent-shaped bay offering incredibly calm and shallow waters perfect for families, and try one of the charming seaside cafes for a refreshing afternoon iced coffee."
+            "en": "Discover this crescent-shaped bay offering incredibly calm and shallow waters perfect for families, and try one of the charming seaside cafes for a refreshing afternoon iced coffee.",
+            "el": "Ανακαλύψτε αυτόν τον ημισέληνο κόλπο με εξαιρετικά ήρεμα και ρηχά νερά ιδανικά για οικογένειες και δοκιμάστε ένα από τα γοητευτικά παραθαλάσσια καφέ για ένα δροσιστικό παγωμένο καφέ το απόγευμα."
           }
         },
         {
@@ -434,7 +479,8 @@
             "de": "Strand von Agia Pelagia",
             "hu": "Agia Pelagia strand",
             "ro": "Plaja Agia Pelagia",
-            "en": "Agia Pelagia Beach"
+            "en": "Agia Pelagia Beach",
+            "el": "Παραλία Αγίας Πελαγίας"
           },
           "coords": [
             25.018516,
@@ -449,7 +495,8 @@
             "de": "Entspannen Sie am goldenen Sand dieses lebhaften Hauptstrandes mit seinem ruhigen, kristallklaren Wasser und mieten Sie frühzeitig eine Sonnenliege für den besten Platz am Meer.",
             "hu": "Pihenjen ezen a nyüzsgő fő strandon, ahol a nyugodt, kristálytiszta víz úszásra csábít, és érdemes korán napágyat bérelni, hogy a legjobb, vízparti helyet biztosítsa magának.",
             "ro": "Relaxați-vă pe nisipul auriu al acestei plaje principale vibrante, unde apele calme vă invită la înot, și închiriați un șezlong devreme pentru a prinde cel mai bun loc la mal.",
-            "en": "Relax on the golden sands of this vibrant main beach where calm, crystal-clear waters invite you for a swim, and consider renting a sunbed early to secure the best waterfront spot."
+            "en": "Relax on the golden sands of this vibrant main beach where calm, crystal-clear waters invite you for a swim, and consider renting a sunbed early to secure the best waterfront spot.",
+            "el": "Χαλαρώστε στις χρυσαφένιες αμμουδιές αυτής της ζωντανής κύριας παραλίας όπου τα ήρεμα, κρυστάλλινα νερά σας καλούν για μπάνιο· σκεφτείτε να νοικιάσετε ξαπλώστρα νωρίς για να εξασφαλίσετε την καλύτερη θέση στο μέτωπο της θάλασσας."
           }
         },
         {
@@ -457,7 +504,8 @@
             "de": "Psaromoura Strand",
             "hu": "Psaromoura strand",
             "ro": "Plaja Psaromoura",
-            "en": "Psaromoura Beach"
+            "en": "Psaromoura Beach",
+            "el": "Παραλία Ψαρομούρα"
           },
           "coords": [
             25.017825,
@@ -472,7 +520,8 @@
             "de": "Entfliehen Sie den Massen in dieser malerischen, von Klippen umgebenen Kieselbucht und bringen Sie Ihre Schnorchelausrüstung mit, um die lebhafte Unterwasserwelt zu erkunden.",
             "hu": "Meneküljön el a tömeg elől ebbe a festői, sziklákkal körülvett kavicsos öbölbe, és hozzon magával búvárfelszerelést, hogy felfedezze a sziklás peremek rejtett tengeri élővilágát.",
             "ro": "Scăpați de aglomerație în acest golf pitoresc cu pietriș înconjurat de stânci dramatice și aduceți echipamentul de snorkeling pentru a explora viața marină de-a lungul rocilor.",
-            "en": "Escape the crowds at this picturesque, pebbly cove surrounded by dramatic cliffs, and bring your snorkeling gear to explore the vibrant marine life hiding along the rocky edges."
+            "en": "Escape the crowds at this picturesque, pebbly cove surrounded by dramatic cliffs, and bring your snorkeling gear to explore the vibrant marine life hiding along the rocky edges.",
+            "el": "Δραπετεύστε από τα πλήθη σε αυτόν τον γραφικό, βοτσαλωτό κόλπο περιτριγυρισμένο από δραματικούς βράχους και φέρτε τον εξοπλισμό για κατάδυση με αναπνευστήρα για να εξερευνήσετε τη ζωηρή θαλάσσια ζωή στα βραχώδη άκρα."
           }
         },
         {
@@ -480,7 +529,8 @@
             "de": "Mononaftis Strand",
             "hu": "Mononaftis strand",
             "ro": "Plaja Mononaftis",
-            "en": "Mononaftis Beach"
+            "en": "Mononaftis Beach",
+            "el": "Παραλία Μονοναύτης"
           },
           "coords": [
             25.018752,
@@ -495,7 +545,8 @@
             "de": "Tauchen Sie in das tiefe, erfrischende Wasser dieses atemberaubenden Kieselstrandes ein, der bei Tauchern beliebt ist, und essen Sie in den fantastischen Tavernen in der Nähe.",
             "hu": "Merüljön el ennek a lenyűgöző, búvárok körében kedvelt kavicsos strandnak a mély, frissítő vizében, és harapjon valamit a friss tenger gyümölcseit kínáló közeli tavernákban.",
             "ro": "Scufundați-vă în apele adânci și răcoroase ale acestei uimitoare plaje cu pietriș, preferată de scafandri, și savurați o gustare la tavernele fantastice care oferă fructe de mare.",
-            "en": "Dive into the deep, refreshing waters of this stunning pebble beach which is a favorite among local divers, and grab a bite at the fantastic nearby tavernas offering fresh seafood."
+            "en": "Dive into the deep, refreshing waters of this stunning pebble beach which is a favorite among local divers, and grab a bite at the fantastic nearby tavernas offering fresh seafood.",
+            "el": "Βουτήξτε στα βαθιά, δροσερά νερά αυτής της εκπληκτικής βοτσαλωτής παραλίας που είναι αγαπημένη των ντόπιων δύτων και απολαύστε ένα γεύμα στις φανταστικές κοντινές ταβέρνες που σερβίρουν φρέσκα θαλασσινά."
           }
         }
       ],
@@ -503,7 +554,8 @@
         "de": "Morning: Starten Sie Ihr Radabenteuer an der ruhigen Kirche Agia Pelagia, bevor Sie ins Landesinnere zum Olivenbaum-Museum radeln. Entdecken Sie die reichen Traditionen der authentischen kretischen Olivenölproduktion.\nMidday: Genießen Sie eine luftige Fahrt zurück zur Küste zum familienfreundlichen Strand von Lygaria. Die ruhige Bucht ist perfekt für ein Bad am Mittag, gefolgt von einer Pause in einem hübschen Strandcafé.\nAfternoon: Radeln Sie weiter zum lebhaften Strand von Agia Pelagia, um sich zu sonnen, und dann leicht nach Norden zum malerischen Strand von Psaromoura. Die raue Landschaft bietet wunderbare Orte zum Schnorcheln.\nEvening: Beenden Sie Ihren aktiven Tag am Mononaftis Beach. Tauchen Sie in das erfrischende Wasser ein und gönnen Sie sich ein köstliches traditionelles Fischabendessen in einer der einladenden Tavernen in der Nähe.",
         "hu": "Morning: Kezdje kerékpáros kalandját a csendes Agia Pelagia templomnál, mielőtt a szárazföld felé, a lenyűgöző Olajfa Múzeumhoz tekerne. Itt felfedezheti az autentikus krétai olívaolaj-termelés gazdag hagyományait.\nMidday: Élvezze a szellős utazást vissza a part felé, és érkezzen a családbarát Lygaria strandra. A nyugodt, félhold alakú öböl tökéletes egy déli úszáshoz, amelyet egy pihentető szünet követhet egy tengerparti kávézóban.\nAfternoon: Tekerjen tovább a nyüzsgő Agia Pelagia strandra egy kis napozásra, majd kissé északra, a festői Psaromoura strandhoz. A zord táj és a tiszta víz csodálatos lehetőségeket kínál a sznorkelezéshez.\nEvening: Fejezze be aktív napját a Mononaftis strandon. Miután leparkolta kerékpárját, merüljön el a frissítő mély vízben, és kényeztesse magát egy finom, hagyományos tengeri vacsorával a közeli tavernák egyikében.",
         "ro": "Morning: Începeți aventura pe bicicletă la liniștita biserică Agia Pelagia înainte de a pedala spre fascinantul Muzeu al Măslinului. Aici, veți descoperi bogatele tradiții ale producției autentice de ulei de măsline cretan.\nMidday: Bucurați-vă de o plimbare răcoroasă înapoi spre coastă, ajungând la plaja Lygaria, ideală pentru familii. Golful calm este perfect pentru o baie de prânz, urmată de o pauză relaxantă la o cafenea drăguță pe plajă.\nAfternoon: Pedalați spre plaja vibrantă Agia Pelagia pentru plajă, apoi spre nord, spre plaja pitorească Psaromoura. Peisajul accidentat și apele limpezi oferă locuri minunate pentru explorare și snorkeling.\nEvening: Încheiați ziua activă la plaja Mononaftis. După ce vă parcați bicicleta, scufundați-vă în apele adânci și răcoritoare și răsfățați-vă cu o cină delicioasă cu fructe de mare la una dintre tavernele primitoare.",
-        "en": "Morning: Start your cycling adventure at the quiet Agia Pelagia church before pedaling inland to the fascinating Museum of Olive Tree. Here, you will uncover the rich traditions of authentic Cretan olive oil production.\nMidday: Enjoy a breezy ride back towards the coast, arriving at the family-friendly Lygaria Beach. The calm, crescent-shaped bay is perfect for a midday swim, followed by a relaxing break at a lovely seaside cafe.\nAfternoon: Cycle onwards to the lively Agia Pelagia Beach for some sunbathing, then pedal slightly north to the picturesque Psaromoura beach. The rugged landscape and clear waters offer wonderful spots for snorkeling.\nEvening: Finish your active day at Mononaftis Beach. After parking your bike, dive into the refreshing deep waters and treat yourself to a delicious, traditional seafood dinner at one of the welcoming tavernas nearby."
+        "en": "Morning: Start your cycling adventure at the quiet Agia Pelagia church before pedaling inland to the fascinating Museum of Olive Tree. Here, you will uncover the rich traditions of authentic Cretan olive oil production.\nMidday: Enjoy a breezy ride back towards the coast, arriving at the family-friendly Lygaria Beach. The calm, crescent-shaped bay is perfect for a midday swim, followed by a relaxing break at a lovely seaside cafe.\nAfternoon: Cycle onwards to the lively Agia Pelagia Beach for some sunbathing, then pedal slightly north to the picturesque Psaromoura beach. The rugged landscape and clear waters offer wonderful spots for snorkeling.\nEvening: Finish your active day at Mononaftis Beach. After parking your bike, dive into the refreshing deep waters and treat yourself to a delicious, traditional seafood dinner at one of the welcoming tavernas nearby.",
+        "el": "Πρωί: Ξεκινήστε την ποδηλατική σας περιπέτεια στην ήσυχη εκκλησία της Αγίας Πελαγίας πριν κατευθυνθείτε στο εσωτερικό προς το συναρπαστικό Μουσείο Ελιάς. Εκεί θα ανακαλύψετε τις πλούσιες παραδόσεις της αυθεντικής κρητικής παραγωγής ελαιολάδου.\nΜεσημέρι: Απολαύστε μια δροσιστική διαδρομή πίσω προς την ακτή, φτάνοντας στην οικογενειακή παραλία Λυγαριά. Ο ήρεμος ημισεληνοειδής κόλπος είναι ιδανικός για μεσημεριανό μπάνιο, ακολουθούμενο από ξεκούραση σε ένα γραφικό παραθαλάσσιο καφέ.\nΑπόγευμα: Ποδηλατήστε προς την ζωντανή παραλία Αγίας Πελαγίας για ηλιοθεραπεία και έπειτα κατευθυνθείτε ελαφρώς βόρεια στην γραφική παραλία Ψαρομούρα. Το τραχύ τοπίο και τα καθαρά νερά προσφέρουν υπέροχα σημεία για κατάδυση με αναπνευστήρα.\nΒράδυ: Ολοκληρώστε την δραστήρια μέρα σας στην παραλία Μονοναύτης. Αφήστε το ποδήλατό σας, βουτήξτε στα δροσιστικά βαθιά νερά και επιβραβεύστε τον εαυτό σας με ένα νόστιμο, παραδοσιακό θαλασσινό δείπνο σε μία από τις φιλόξενες ταβέρνες κοντά."
       },
       "variants": {
         "rainy": {
@@ -511,7 +563,8 @@
             "en": "Begin your rainy ride at the church, then pedal carefully to the indoor museum. Midday cycling along the coast requires caution on slick asphalt. Afternoon showers make the beach views dramatic, though you won't be swimming. End your wet journey by late afternoon, ensuring bike lights are on for low visibility.",
             "hu": "Kezdd az esős tekerést a templomnál, majd óvatosan haladj a beltéri múzeum felé. A déli parti kerékpározás óvatosságot igényel a csúszós aszfalton. A délutáni záporok drámaivá teszik a strandokat. Késő délutánra fejezd be a nedves utat, és használd a lámpákat a rossz látási viszonyok miatt.",
             "de": "Beginnen Sie die regnerische Fahrt an der Kirche und radeln Sie vorsichtig zum überdachten Museum. Mittags erfordert die nasse Küstenstraße Vorsicht. Nachmittagsschauer machen die Strandblicke dramatisch. Beenden Sie die nasse Tour am späten Nachmittag mit eingeschalteten Lichtern bei schlechter Sicht.",
-            "ro": "Începe cursa ploioasă la biserică, apoi pedalează atent spre muzeul interior. Ciclismul la prânz pe coastă necesită precauție pe asfaltul umed. Ploile de după-amiază fac priveliștile dramatice. Încheie călătoria umedă spre seară, cu luminile aprinse pentru vizibilitate redusă."
+            "ro": "Începe cursa ploioasă la biserică, apoi pedalează atent spre muzeul interior. Ciclismul la prânz pe coastă necesită precauție pe asfaltul umed. Ploile de după-amiază fac priveliștile dramatice. Încheie călătoria umedă spre seară, cu luminile aprinse pentru vizibilitate redusă.",
+            "el": "Ξεκινήστε τη βροχερή σας βόλτα από την εκκλησία και μετά ποδηλατήστε προσεκτικά προς το εσωτερικό μουσείο. Το μεσημέρι η ποδηλασία κατά μήκος της ακτής απαιτεί προσοχή σε ολισθηρή άσφαλτο. Οι απογευματινές βροχές κάνουν τις παραλίες δραματικές, αν και δεν θα κολυμπήσετε. Ολοκληρώστε το βρεγμένο σας ταξίδι νωρίς το απόγευμα, φροντίζοντας να έχετε φώτα ποδηλάτου για τη χαμηλή ορατότητα."
           },
           "stops": [
             {
@@ -519,13 +572,15 @@
                 "de": "Kirche Agia Pelagia",
                 "hu": "Agia Pelagia templom",
                 "ro": "Biserica Agia Pelagia",
-                "en": "Agia Pelagia Church"
+                "en": "Agia Pelagia Church",
+                "el": "Εκκλησία Αγίας Πελαγίας"
               },
               "tip_5lang": {
                 "en": "Seek brief shelter and admire the peaceful interior; wipe down your wet bike seat thoroughly before continuing your rainy ride.",
                 "hu": "Keress rövid menedéket és csodáld meg a békés belsőt; alaposan töröld le a nedves nyerget, mielőtt folytatnád az utat.",
                 "de": "Suchen Sie kurzen Schutz und bewundern Sie das Innere; wischen Sie Ihren nassen Fahrradsattel ab, bevor Sie weiterfahren.",
-                "ro": "Caută adăpost scurt și admiră interiorul pașnic; șterge bine șaua udă a bicicletei înainte de a continua cursa."
+                "ro": "Caută adăpost scurt și admiră interiorul pașnic; șterge bine șaua udă a bicicletei înainte de a continua cursa.",
+                "el": "Ζητήστε σύντομη καταφύγιο και θαυμάστε το ήσυχο εσωτερικό· σκουπίστε καλά τη βρεγμένη σέλα του ποδηλάτου πριν συνεχίσετε τη βροχερή σας βόλτα."
               }
             },
             {
@@ -533,13 +588,15 @@
                 "de": "Olivenbaum- und Ölmuseum Striligkas",
                 "hu": "Striligkas Olajfa és Olívaolaj Múzeum",
                 "ro": "Muzeul Măslinului și Uleiului Striligkas",
-                "en": "Museum of Olive Tree & Oil Striligkas"
+                "en": "Museum of Olive Tree & Oil Striligkas",
+                "el": "Μουσείο Ελιάς & Ελαίου Στριλιγκάς"
               },
               "tip_5lang": {
                 "en": "Learn about olive oil production completely indoors; it's an ideal dry stop, but watch for very slippery wet steps at the entrance.",
                 "hu": "Tanulj az olívaolaj készítéséről teljesen beltérben; ideális száraz megálló, de vigyázz a bejárat csúszós, nedves lépcsőivel.",
                 "de": "Lernen Sie drinnen alles über Olivenöl; ein idealer trockener Stopp, aber achten Sie auf rutschige, nasse Stufen am Eingang.",
-                "ro": "Învață despre producția de ulei complet la interior; un oprire uscată ideală, dar atenție la treptele umede și alunecoase la intrare."
+                "ro": "Învață despre producția de ulei complet la interior; un oprire uscată ideală, dar atenție la treptele umede și alunecoase la intrare.",
+                "el": "Μάθετε για την παραγωγή ελαιολάδου πλήρως σε εσωτερικούς χώρους· είναι ιδανική ξηρή στάση, αλλά προσέξτε τα πολύ ολισθηρά βρεγμένα σκαλοπάτια στην είσοδο."
               }
             },
             {
@@ -547,13 +604,15 @@
                 "de": "Lygaria Strand",
                 "hu": "Lygaria strand",
                 "ro": "Plaja Lygaria",
-                "en": "Lygaria Beach"
+                "en": "Lygaria Beach",
+                "el": "Παραλία Λυγαριά"
               },
               "tip_5lang": {
                 "en": "Enjoy the misty bay views from the safety of the main road; brake gently and early on the steep, wet descent towards the coastline.",
                 "hu": "Élvezd a ködös öböl látványát a főútról; fékezz finoman és korán a meredek, nedves lejtőn a partvonal felé.",
                 "de": "Genießen Sie den nebligen Blick auf die Bucht von der Straße aus; bremsen Sie früh und sanft auf dem nassen Weg zur Küste hinab.",
-                "ro": "Bucură-te de priveliștile cețoase ale golfului de pe drum; frânează ușor și devreme pe coborârea abruptă și umedă spre coastă."
+                "ro": "Bucură-te de priveliștile cețoase ale golfului de pe drum; frânează ușor și devreme pe coborârea abruptă și umedă spre coastă.",
+                "el": "Απολαύστε τη δροσερή άποψη του κόλπου από την ασφάλεια του κεντρικού δρόμου· φρενάρετε απαλά και νωρίς στην απότομη, βρεγμένη κατηφόρα προς την ακτογραμμή."
               }
             },
             {
@@ -561,13 +620,15 @@
                 "de": "Strand von Agia Pelagia",
                 "hu": "Agia Pelagia strand",
                 "ro": "Plaja Agia Pelagia",
-                "en": "Agia Pelagia Beach"
+                "en": "Agia Pelagia Beach",
+                "el": "Παραλία Αγίας Πελαγίας"
               },
               "tip_5lang": {
                 "en": "Watch the stormy sea from the paved path beside your bike; wear bright, high-visibility waterproof gear to stay safe in the gloom.",
                 "hu": "Nézd a viharos tengert a burkolt útról a kerékpár mellől; viselj élénk, jól látható vízálló felszerelést a szürkeségben.",
                 "de": "Beobachten Sie die stürmische See vom asphaltierten Weg aus; tragen Sie gut sichtbare, wasserdichte Kleidung an trüben Tagen.",
-                "ro": "Privește marea furtunoasă de pe poteca pavată; poartă echipament impermeabil viu colorat pentru siguranță pe vremea mohorâtă."
+                "ro": "Privește marea furtunoasă de pe poteca pavată; poartă echipament impermeabil viu colorat pentru siguranță pe vremea mohorâtă.",
+                "el": "Παρακολουθήστε τη θυελλώδη θάλασσα από το πλακόστρωτο δίπλα στο ποδήλατό σας· φορέστε φωτεινά, ορατά αδιάβροχα ρούχα για να παραμείνετε ασφαλείς στο σκοτάδι."
               }
             },
             {
@@ -575,13 +636,15 @@
                 "de": "Psaromoura Strand",
                 "hu": "Psaromoura strand",
                 "ro": "Plaja Psaromoura",
-                "en": "Psaromoura Beach"
+                "en": "Psaromoura Beach",
+                "el": "Παραλία Ψαρομούρα"
               },
               "tip_5lang": {
                 "en": "The rain adds a wild beauty to this rocky cove; completely avoid the muddy dirt paths and stay strictly on the wet tarmac.",
                 "hu": "Az eső vad szépséget kölcsönöz e sziklás öbölnek; teljesen kerüld a saras földutakat, és maradj szigorúan a nedves aszfalton.",
                 "de": "Der Regen verleiht der Bucht wilde Schönheit; meiden Sie schlammige unbefestigte Wege und bleiben Sie strikt auf dem nassen Asphalt.",
-                "ro": "Ploaia adaugă o frumusețe sălbatică golfului; evită complet potecile noroioase de pământ și rămâi strict pe asfaltul umed."
+                "ro": "Ploaia adaugă o frumusețe sălbatică golfului; evită complet potecile noroioase de pământ și rămâi strict pe asfaltul umed.",
+                "el": "Η βροχή προσθέτει άγρια ομορφιά σε αυτόν τον βραχώδη κόλπο· αποφύγετε εντελώς τους λασπώδεις χωματόδρομους και μείνετε αποκλειστικά στην υγρή άσφαλτο."
               }
             },
             {
@@ -589,13 +652,15 @@
                 "de": "Mononaftis Strand",
                 "hu": "Mononaftis strand",
                 "ro": "Plaja Mononaftis",
-                "en": "Mononaftis Beach"
+                "en": "Mononaftis Beach",
+                "el": "Παραλία Μονοναύτης"
               },
               "tip_5lang": {
                 "en": "Take in the dramatic crashing waves before heading back; ride very carefully as crosswinds and rain can make handling challenging.",
                 "hu": "Gyönyörködj a hatalmas hullámokban visszaindulás előtt; tekerj nagyon óvatosan, mert az oldalszél és az eső nehezíti az irányítást.",
                 "de": "Betrachten Sie die krachenden Wellen, bevor Sie umkehren; fahren Sie vorsichtig, da Seitenwinde das Lenken erschweren können.",
-                "ro": "Admiră valurile izbindu-se înainte de întoarcere; pedalează foarte atent, deoarece vântul lateral și ploaia îngreunează controlul."
+                "ro": "Admiră valurile izbindu-se înainte de întoarcere; pedalează foarte atent, deoarece vântul lateral și ploaia îngreunează controlul.",
+                "el": "Απολαύστε τα δραματικά σπασίματα των κυμάτων πριν επιστρέψετε· ποδηλατήστε πολύ προσεκτικά καθώς οι πλευρικοί άνεμοι και η βροχή μπορούν να δυσχεράνουν τον χειρισμό."
               }
             }
           ]
@@ -605,7 +670,8 @@
             "en": "A crisp winter morning is ideal for cycling to the church and the fascinating indoor museum. Midday offers mild temperatures for riding along the serene, empty coastal roads. Afternoon cycling brings beautiful long shadows across the bays. Plan to finish your ride by 5 PM, as temperatures drop sharply after the early sunset.",
             "hu": "A csípős téli reggel ideális a templom és a múzeum felkeresésére kerékpárral. Délben enyhe az idő a békés, üres parti utakon. A délutáni tekerés gyönyörű, hosszú árnyékokat vet az öblökre. Tervezd úgy, hogy délután 5-re befejezd az utat, mert a korai naplemente után erősen lehűl a levegő.",
             "de": "Ein klarer Wintermorgen ist ideal zum Radeln zur Kirche und zum Museum. Mittags gibt es milde Temperaturen für Fahrten auf leeren Küstenstraßen. Nachmittags werfen die Buchten lange Schatten. Beenden Sie die Tour bis 17 Uhr, da die Temperaturen nach dem frühen Sonnenuntergang stark fallen.",
-            "ro": "O dimineață geroasă e ideală pentru a pedala spre biserică și muzeu. Prânzul oferă temperaturi blânde pe drumurile de coastă goale. Ciclismul de după-amiază aduce umbre lungi și frumoase. Planifică să termini cursa până la 17:00, deoarece temperaturile scad brusc după apusul devreme."
+            "ro": "O dimineață geroasă e ideală pentru a pedala spre biserică și muzeu. Prânzul oferă temperaturi blânde pe drumurile de coastă goale. Ciclismul de după-amiază aduce umbre lungi și frumoase. Planifică să termini cursa până la 17:00, deoarece temperaturile scad brusc după apusul devreme.",
+            "el": "Ένα δροσερό χειμωνιάτικο πρωί είναι ιδανικό για ποδηλασία προς την εκκλησία και το συναρπαστικό εσωτερικό μουσείο. Το μεσημέρι προσφέρονται ήπιες θερμοκρασίες για βόλτες κατά μήκος των ήσυχων, άδειων παραλιακών δρόμων. Το απόγευμα η ποδηλασία φέρνει όμορφες μακριές σκιές πάνω από τους κόλπους. Σχεδιάστε να τελειώσετε την βόλτα σας μέχρι τις 17:00, καθώς οι θερμοκρασίες πέφτουν απότομα μετά το νωρίτερο ηλιοβασίλεμα."
           },
           "stops": [
             {
@@ -613,13 +679,15 @@
                 "de": "Kirche Agia Pelagia",
                 "hu": "Agia Pelagia templom",
                 "ro": "Biserica Agia Pelagia",
-                "en": "Agia Pelagia Church"
+                "en": "Agia Pelagia Church",
+                "el": "Εκκλησία Αγίας Πελαγίας"
               },
               "tip_5lang": {
                 "en": "Start your crisp ride with a quiet visit; wear warm cycling gloves as the morning handlebar grip can be uncomfortably cold.",
                 "hu": "Kezdd a friss utat egy csendes látogatással; viselj meleg kerékpáros kesztyűt, mert a kormány reggel kellemetlenül hideg lehet.",
                 "de": "Beginnen Sie die Tour mit einem ruhigen Besuch; tragen Sie warme Radhandschuhe, da der Lenkergriff morgens sehr kalt sein kann.",
-                "ro": "Începe cursa cu o vizită liniștită; poartă mănuși de ciclism călduroase, deoarece ghidonul poate fi inconfortabil de rece dimineața."
+                "ro": "Începe cursa cu o vizită liniștită; poartă mănuși de ciclism călduroase, deoarece ghidonul poate fi inconfortabil de rece dimineața.",
+                "el": "Ξεκινήστε τη δροσερή σας βόλτα με μια ήσυχη επίσκεψη· φορέστε ζεστά γάντια ποδηλασίας καθώς η λαβή στο τιμόνι το πρωί μπορεί να είναι δυσάρεστα κρύα."
               }
             },
             {
@@ -627,13 +695,15 @@
                 "de": "Olivenbaum- und Ölmuseum Striligkas",
                 "hu": "Striligkas Olajfa és Olívaolaj Múzeum",
                 "ro": "Muzeul Măslinului și Uleiului Striligkas",
-                "en": "Museum of Olive Tree & Oil Striligkas"
+                "en": "Museum of Olive Tree & Oil Striligkas",
+                "el": "Μουσείο Ελιάς & Ελαίου Στριλιγκάς"
               },
               "tip_5lang": {
                 "en": "Explore the traditional olive press in peace; it's pleasantly cool inside, perfect for biking in your comfortable winter layers.",
                 "hu": "Fedezd fel a hagyományos olajprést nyugodtan; belül kellemesen hűvös van, tökéletes a réteges téli kerékpáros ruházathoz.",
                 "de": "Erkunden Sie die traditionelle Olivenpresse in Ruhe; drinnen ist es angenehm kühl, perfekt für das Radfahren im Zwiebellook.",
-                "ro": "Explorează presa tradițională de măsline în liniște; înăuntru e plăcut de răcoare, perfect pentru ciclism în straturi de iarnă."
+                "ro": "Explorează presa tradițională de măsline în liniște; înăuntru e plăcut de răcoare, perfect pentru ciclism în straturi de iarnă.",
+                "el": "Εξερευνήστε τον παραδοσιακό ελαιόμυλο με ηρεμία· είναι ευχάριστα δροσερό μέσα, ιδανικό για ποδηλασία με άνετες χειμερινές στρώσεις."
               }
             },
             {
@@ -641,13 +711,15 @@
                 "de": "Lygaria Strand",
                 "hu": "Lygaria strand",
                 "ro": "Plaja Lygaria",
-                "en": "Lygaria Beach"
+                "en": "Lygaria Beach",
+                "el": "Παραλία Λυγαριά"
               },
               "tip_5lang": {
                 "en": "Enjoy the deserted winter beach view; the uphill ride out of the bay will quickly warm you up against the chilly sea breeze.",
                 "hu": "Élvezd az elhagyatott téli part látványát; az öbölből kifelé vezető emelkedő gyorsan felmelegít a hűvös tengeri szellő ellen.",
                 "de": "Genießen Sie die verlassene Winterbucht; die Bergauffahrt wird Sie schnell gegen die kühle Meeresbrise aufwärmen.",
-                "ro": "Bucură-te de priveliștea plajei pustii; urcarea din golf te va încălzi rapid împotriva brizei reci a mării."
+                "ro": "Bucură-te de priveliștea plajei pustii; urcarea din golf te va încălzi rapid împotriva brizei reci a mării.",
+                "el": "Απολαύστε την έρημη χειμωνιάτικη όψη της παραλίας· η ανηφορική ανάβαση έξω από τον κόλπο θα σας ζεστάνει γρήγορα ενάντια στη δροσερή θαλασσινή αύρα."
               }
             },
             {
@@ -655,13 +727,15 @@
                 "de": "Strand von Agia Pelagia",
                 "hu": "Agia Pelagia strand",
                 "ro": "Plaja Agia Pelagia",
-                "en": "Agia Pelagia Beach"
+                "en": "Agia Pelagia Beach",
+                "el": "Παραλία Αγίας Πελαγίας"
               },
               "tip_5lang": {
                 "en": "Pedal along the quiet winter promenade in the mild sun; a windproof jacket is essential for these exposed coastal stretches.",
                 "hu": "Tekerj a csendes téli sétányon az enyhe napsütésben; a szélálló kabát elengedhetetlen ezeken a nyitott parti szakaszokon.",
                 "de": "Radeln Sie in der milden Sonne an der ruhigen Promenade; eine winddichte Jacke ist für diese Küstenabschnitte unerlässlich.",
-                "ro": "Pedalează pe promenada liniștită la soarele blând; o jachetă rezistentă la vânt e esențială pe aceste porțiuni expuse de coastă."
+                "ro": "Pedalează pe promenada liniștită la soarele blând; o jachetă rezistentă la vânt e esențială pe aceste porțiuni expuse de coastă.",
+                "el": "Ποδηλατήστε κατά μήκος της ήσυχης χειμωνιάτικης προκυμαίας στον ήπιο ήλιο· ένα αδιάβροχο-αντιανεμικό είναι απαραίτητο για αυτά τα εκτεθειμένα παράκτια τμήματα."
               }
             },
             {
@@ -669,13 +743,15 @@
                 "de": "Psaromoura Strand",
                 "hu": "Psaromoura strand",
                 "ro": "Plaja Psaromoura",
-                "en": "Psaromoura Beach"
+                "en": "Psaromoura Beach",
+                "el": "Παραλία Ψαρομούρα"
               },
               "tip_5lang": {
                 "en": "Take in the stunning, rugged winter scenery; the crisp, clear winter air provides incredible visibility for scenic landscape photos.",
                 "hu": "Csodáld meg a zord téli tájat; a friss, tiszta téli levegő hihetetlen látótávolságot biztosít a gyönyörű tájképekhez.",
                 "de": "Bewundern Sie die raue Winterlandschaft; die klare Winterluft bietet unglaubliche Sichtverhältnisse für tolle Landschaftsfotos.",
-                "ro": "Admiră peisajul de iarnă stâncos; aerul rece și clar oferă o vizibilitate incredibilă pentru fotografii panoramice de excepție."
+                "ro": "Admiră peisajul de iarnă stâncos; aerul rece și clar oferă o vizibilitate incredibilă pentru fotografii panoramice de excepție.",
+                "el": "Απολαύστε το εκπληκτικό, τραχύ χειμωνιάτικο τοπίο· ο καθαρός, κρύος αέρας του χειμώνα προσφέρει απίστευτη ορατότητα για τοπιογραφικές φωτογραφίες."
               }
             },
             {
@@ -683,13 +759,15 @@
                 "de": "Mononaftis Strand",
                 "hu": "Mononaftis strand",
                 "ro": "Plaja Mononaftis",
-                "en": "Mononaftis Beach"
+                "en": "Mononaftis Beach",
+                "el": "Παραλία Μονοναύτης"
               },
               "tip_5lang": {
                 "en": "Catch the early golden hour light reflecting off the winter sea; ensure you have working lights for the darkening ride back.",
                 "hu": "Kapd el a téli tengeren csillogó korai aranyórát; győződj meg róla, hogy a lámpáid működnek a sötétedő visszaútra.",
                 "de": "Fangen Sie das frühe Licht auf dem Wintermeer ein; stellen Sie sicher, dass Ihre Lichter für die dunklere Rückfahrt funktionieren.",
-                "ro": "Surprinde lumina aurie timpurie reflectată pe mare; asigură-te că ai lumini funcționale pentru întoarcerea pe întuneric."
+                "ro": "Surprinde lumina aurie timpurie reflectată pe mare; asigură-te că ai lumini funcționale pentru întoarcerea pe întuneric.",
+                "el": "Πιάστε το πρώιμο χρυσό φως που αντανακλάται στη χειμωνιάτικη θάλασσα· φροντίστε να έχετε λειτουργικά φώτα για την σκοτεινότερη επιστροφή."
               }
             }
           ]
@@ -709,7 +787,8 @@
             "de": "Olivenbaum- und Ölmuseum Striligkas",
             "hu": "Striligkas Olajfa és Olívaolaj Múzeum",
             "ro": "Muzeul Măslinului și Uleiului Striligkas",
-            "en": "Museum of Olive Tree & Oil Striligkas"
+            "en": "Museum of Olive Tree & Oil Striligkas",
+            "el": "Μουσείο Ελιάς & Ελαίου Στριλιγκάς"
           },
           "coords": [
             24.99664,
@@ -724,7 +803,8 @@
             "de": "Entdecken Sie die faszinierenden traditionellen Methoden der kretischen Olivenölproduktion in diesem familiengeführten Museum und probieren Sie unbedingt die exquisiten Öle.",
             "hu": "Fedezze fel a krétai olívaolaj-termelés lenyűgöző hagyományos módszereit ebben a családi múzeumban, és mindenképpen kóstolja meg a kiváló extra szűz olajaikat távozás előtt.",
             "ro": "Descoperiți metodele tradiționale fascinante de producție a uleiului de măsline cretan în acest muzeu de familie și asigurați-vă că degustați uleiurile extravirgine rafinate.",
-            "en": "Discover the fascinating traditional methods of Cretan olive oil production in this family-run museum, and be sure to sample their exquisite extra virgin oils before leaving."
+            "en": "Discover the fascinating traditional methods of Cretan olive oil production in this family-run museum, and be sure to sample their exquisite extra virgin oils before leaving.",
+            "el": "Ανακαλύψτε τους συναρπαστικούς παραδοσιακούς τρόπους παραγωγής κρητικού ελαιολάδου σε αυτό το οικογενειακό μουσείο και φροντίστε να δοκιμάσετε τα εξαιρετικά παρθένα ελαιόλαδά τους πριν φύγετε."
           }
         },
         {
@@ -732,7 +812,8 @@
             "de": "Kirche Agia Pelagia",
             "hu": "Agia Pelagia templom",
             "ro": "Biserica Agia Pelagia",
-            "en": "Agia Pelagia Church"
+            "en": "Agia Pelagia Church",
+            "el": "Εκκλησία Αγίας Πελαγίας"
           },
           "coords": [
             25.007675,
@@ -747,7 +828,8 @@
             "de": "Bewundern Sie die ruhige Architektur dieser charmanten lokalen Kirche, die dem Dorf seinen Namen gab, und denken Sie an angemessene Kleidung, wenn Sie das Innere besichtigen.",
             "hu": "Csodálja meg e bájos helyi templom nyugodt építészetét, amely a falu nevét is adta, és ne feledjen szerényen öltözködni, ha be szeretne menni a gyönyörű ikonok megtekintésére.",
             "ro": "Admirați arhitectura senină a acestei biserici locale fermecătoare care a dat numele satului și purtați o ținută decentă dacă intenționați să intrați pentru a vedea icoanele.",
-            "en": "Admire the serene architecture of this charming local church that gave the village its name, and remember to dress modestly if you plan to step inside to view the beautiful icons."
+            "en": "Admire the serene architecture of this charming local church that gave the village its name, and remember to dress modestly if you plan to step inside to view the beautiful icons.",
+            "el": "Εκτιμήστε την ήρεμη αρχιτεκτονική αυτής της γοητευτικής τοπικής εκκλησίας που έδωσε το όνομα στο χωριό, και θυμηθείτε να ντυθείτε με σεμνότητα αν σκοπεύετε να μπείτε για να δείτε τα όμορφα εικόνες."
           }
         },
         {
@@ -755,7 +837,8 @@
             "de": "Lygaria Strand",
             "hu": "Lygaria strand",
             "ro": "Plaja Lygaria",
-            "en": "Lygaria Beach"
+            "en": "Lygaria Beach",
+            "el": "Παραλία Λυγαριά"
           },
           "coords": [
             25.027147,
@@ -770,7 +853,8 @@
             "de": "Entdecken Sie diese halbmondförmige Bucht mit ruhigem Wasser, das perfekt für Familien ist, und besuchen Sie eines der charmanten Strandcafés für einen erfrischenden Eiskaffee.",
             "hu": "Fedezze fel ezt a félhold alakú öblöt, amely hihetetlenül nyugodt vizeivel tökéletes a családok számára, és próbáljon ki egy hangulatos tengerparti kávézót egy hűsítő jegeskávéra.",
             "ro": "Descoperiți acest golf în formă de semilună ce oferă ape incredibil de calme perfecte pentru familii, și încercați o cafenea fermecătoare pe plajă pentru o cafea cu gheață.",
-            "en": "Discover this crescent-shaped bay offering incredibly calm and shallow waters perfect for families, and try one of the charming seaside cafes for a refreshing afternoon iced coffee."
+            "en": "Discover this crescent-shaped bay offering incredibly calm and shallow waters perfect for families, and try one of the charming seaside cafes for a refreshing afternoon iced coffee.",
+            "el": "Ανακαλύψτε αυτόν τον ημισεληνοειδή κόλπο με εξαιρετικά ήρεμα και ρηχά νερά ιδανικά για οικογένειες, και δοκιμάστε ένα από τα γοητευτικά παραθαλάσσια καφέ για έναν δροσιστικό παγωμένο καφέ το απόγευμα."
           }
         },
         {
@@ -778,7 +862,8 @@
             "de": "Strand von Agia Pelagia",
             "hu": "Agia Pelagia strand",
             "ro": "Plaja Agia Pelagia",
-            "en": "Agia Pelagia Beach"
+            "en": "Agia Pelagia Beach",
+            "el": "Παραλία Αγίας Πελαγίας"
           },
           "coords": [
             25.018516,
@@ -793,7 +878,8 @@
             "de": "Entspannen Sie am goldenen Sand dieses lebhaften Hauptstrandes mit seinem ruhigen, kristallklaren Wasser und mieten Sie frühzeitig eine Sonnenliege für den besten Platz am Meer.",
             "hu": "Pihenjen ezen a nyüzsgő fő strandon, ahol a nyugodt, kristálytiszta víz úszásra csábít, és érdemes korán napágyat bérelni, hogy a legjobb, vízparti helyet biztosítsa magának.",
             "ro": "Relaxați-vă pe nisipul auriu al acestei plaje principale vibrante, unde apele calme vă invită la înot, și închiriați un șezlong devreme pentru a prinde cel mai bun loc la mal.",
-            "en": "Relax on the golden sands of this vibrant main beach where calm, crystal-clear waters invite you for a swim, and consider renting a sunbed early to secure the best waterfront spot."
+            "en": "Relax on the golden sands of this vibrant main beach where calm, crystal-clear waters invite you for a swim, and consider renting a sunbed early to secure the best waterfront spot.",
+            "el": "Χαλαρώστε στις χρυσές αμμουδιές αυτής της ζωντανής κεντρικής παραλίας όπου τα ήρεμα, κρυστάλλινα νερά σας προσκαλούν για κολύμπι, και σκεφτείτε να νοικιάσετε μια ξαπλώστρα νωρίς για να εξασφαλίσετε την καλύτερη θέση στην παραλία."
           }
         },
         {
@@ -801,7 +887,8 @@
             "de": "Psaromoura Strand",
             "hu": "Psaromoura strand",
             "ro": "Plaja Psaromoura",
-            "en": "Psaromoura Beach"
+            "en": "Psaromoura Beach",
+            "el": "Παραλία Ψαρομούρα"
           },
           "coords": [
             25.017825,
@@ -816,7 +903,8 @@
             "de": "Entfliehen Sie den Massen in dieser malerischen, von Klippen umgebenen Kieselbucht und bringen Sie Ihre Schnorchelausrüstung mit, um die lebhafte Unterwasserwelt zu erkunden.",
             "hu": "Meneküljön el a tömeg elől ebbe a festői, sziklákkal körülvett kavicsos öbölbe, és hozzon magával búvárfelszerelést, hogy felfedezze a sziklás peremek rejtett tengeri élővilágát.",
             "ro": "Scăpați de aglomerație în acest golf pitoresc cu pietriș înconjurat de stânci dramatice și aduceți echipamentul de snorkeling pentru a explora viața marină de-a lungul rocilor.",
-            "en": "Escape the crowds at this picturesque, pebbly cove surrounded by dramatic cliffs, and bring your snorkeling gear to explore the vibrant marine life hiding along the rocky edges."
+            "en": "Escape the crowds at this picturesque, pebbly cove surrounded by dramatic cliffs, and bring your snorkeling gear to explore the vibrant marine life hiding along the rocky edges.",
+            "el": "Ξεφύγετε από τα πλήθη σε αυτόν τον γραφικό βοτσαλωτό όρμο που περιβάλλεται από δραματικούς βράχους, και φέρτε τον εξοπλισμό κατάδυσης με αναπνευστήρα για να εξερευνήσετε τη ζωντανή θαλάσσια ζωή κατά μήκος των βραχωδών ακτών."
           }
         },
         {
@@ -824,7 +912,8 @@
             "de": "Peninsula Privatstrand",
             "hu": "Peninsula Magánstrand",
             "ro": "Plaja Privată Peninsula",
-            "en": "Peninsula Private Beach"
+            "en": "Peninsula Private Beach",
+            "el": "Ιδιωτική Παραλία της Χερσονήσου"
           },
           "coords": [
             25.019871,
@@ -839,7 +928,8 @@
             "de": "Genießen Sie ein exklusives und ruhiges Erlebnis an diesem abgelegenen Privatstrand, aber bringen Sie unbedingt eigenes Wasser und Snacks mit, da die Ausstattung minimalistisch ist.",
             "hu": "Élvezze az exkluzív és nyugodt tengerparti élményt ezen a félreeső magánstrandon, de ne felejtsen el vizet és rágcsálnivalót hozni, mivel a szolgáltatások itt minimalisztikusak.",
             "ro": "Bucurați-vă de o experiență maritimă exclusivistă și liniștită la această plajă privată izolată, dar aduceți-vă propria apă și gustări, deoarece facilitățile sunt minimaliste.",
-            "en": "Enjoy an exclusive and tranquil seaside experience at this secluded private beach, but remember to bring your own water and snacks as amenities here are wonderfully minimalist."
+            "en": "Enjoy an exclusive and tranquil seaside experience at this secluded private beach, but remember to bring your own water and snacks as amenities here are wonderfully minimalist.",
+            "el": "Απολαύστε μια αποκλειστική και ήρεμη παραθαλάσσια εμπειρία σε αυτήν την απομονωμένη ιδιωτική παραλία, αλλά θυμηθείτε να φέρετε δικά σας νερά και σνακ καθώς οι παροχές εδώ είναι απολαυστικά μινιμαλιστικές."
           }
         },
         {
@@ -847,7 +937,8 @@
             "de": "Sea Cave Spa",
             "hu": "Sea Cave Spa",
             "ro": "Sea Cave Spa",
-            "en": "Sea Cave Spa"
+            "en": "Sea Cave Spa",
+            "el": "Σπα στη Θαλάσσια Σπηλιά"
           },
           "coords": [
             25.019328,
@@ -862,7 +953,8 @@
             "de": "Gönnen Sie sich ein einzigartiges Wellness-Erlebnis in einer natürlichen Küstenhöhle und buchen Sie Ihre verjüngende Massage in den Hochsommermonaten unbedingt weit im Voraus.",
             "hu": "Kényeztesse magát egy igazán egyedülálló, természetes tengerparti barlangban rejlő wellness élménnyel, és a nyári csúcsidőszakban mindenképpen jó előre foglalja le a masszázsát.",
             "ro": "Răsfățați-vă cu o experiență de wellness unică ascunsă într-o peșteră de coastă naturală și asigurați-vă că vă rezervați masajul de întinerire cu mult timp înainte, vara.",
-            "en": "Treat yourself to a truly unique wellness experience hidden inside a natural coastal cave, and make sure to book your rejuvenating massage well in advance during peak summer months."
+            "en": "Treat yourself to a truly unique wellness experience hidden inside a natural coastal cave, and make sure to book your rejuvenating massage well in advance during peak summer months.",
+            "el": "Χαλαρώστε με μια πραγματικά μοναδική εμπειρία ευεξίας κρυμμένη σε μια φυσική παραθαλάσσια σπηλιά, και φροντίστε να κλείσετε το αναζωογονητικό σας μασάζ αρκετά νωρίτερα κατά τη διάρκεια της υψηλής σεζόν."
           }
         }
       ],
@@ -870,7 +962,8 @@
         "de": "Morning: Beginnen Sie Ihren Roadtrip leicht im Landesinnere beim Olivenbaum-Museum, um Kretas Erbe zu erkunden. Eine kurze Fahrt bringt Sie zur Kirche von Agia Pelagia, wo Sie die ruhige Atmosphäre bewundern können.\nMidday: Fahren Sie bequem die wunderschöne Küste hinunter zum Strand von Lygaria. Genießen Sie das flache, ruhige Wasser, bevor Sie bequem zum belebten Strand von Agia Pelagia fahren, um dort zu Mittag zu essen.\nAfternoon: Eine kurze Fahrt nach Norden bringt Sie zum raueren Strand von Psaromoura und kurz darauf zum abgelegenen Peninsula Private Beach. Diese Stopps unterstreichen die spektakulären und felsigen Küstenlinien.\nEvening: Ihr letztes Ziel ist das außergewöhnliche Sea Cave Spa. Beenden Sie Ihren spektakulären Tag in einer wunderschönen natürlichen Höhle mit erstklassigen Wellness-Behandlungen und Blick auf den Sonnenuntergang.",
         "hu": "Morning: Indítsa autós utazását kissé a szárazföld belsejében, az Olajfa Múzeumban, hogy felfedezze Kréta arany örökségét. Egy rövid út után az Agia Pelagia templomhoz ér, ahol megcsodálhatja annak békés hangulatát.\nMidday: Vezessen kényelmesen a gyönyörű partvonal mentén a Lygaria strandig. Élvezze a sekély, nyugodt vizet, majd guruljon át a nyüzsgő Agia Pelagia strandra, hogy megebédeljen a tengerparti éttermek egyikében.\nAfternoon: Egy rövid északi irányú út a zordabb Psaromoura strandhoz vezet, amelyet a félreeső Peninsula Private Beach követ. Ezek a megállók remekül kiemelik a régió látványos és változatosan sziklás partvonalait.\nEvening: A végső úti cél a rendkívüli Sea Cave Spa. Miután letette autóját, zárja látványos napját egy gyönyörű természetes barlangban, prémium wellness kezelésekkel és a tengeri naplemente csodálatos látványával.",
         "ro": "Morning: Începeți excursia cu mașina spre interiorul insulei la Muzeul Măslinului pentru a explora moștenirea aurie a Cretei. Un drum scurt vă duce apoi la biserica locală Agia Pelagia, unde puteți admira atmosfera senină.\nMidday: Conduceți confortabil de-a lungul coastei frumoase până la plaja Lygaria. Bucurați-vă de apele calme și puțin adânci, deplasându-vă apoi cu ușurință la plaja plină de viață Agia Pelagia pentru a lua prânzul.\nAfternoon: Un scurt drum spre nord vă aduce la plaja mai accidentată Psaromoura, urmată rapid de izolata Peninsula Private Beach. Aceste opriri evidențiază țărmurile stâncoase spectaculoase și variate ale regiunii.\nEvening: Destinația finală este extraordinarul Sea Cave Spa. După ce lăsați mașina, încheiați-vă ziua spectaculoasă relaxându-vă într-o peșteră naturală cu tratamente de wellness premium și vederi la apus.",
-        "en": "Morning: Kick off your road trip slightly inland at the Museum of Olive Tree to explore Crete’s golden heritage. A quick drive then takes you to the local Agia Pelagia church, where you can admire its serene atmosphere.\nMidday: Drive comfortably along the beautiful coastline down to Lygaria Beach. Enjoy the shallow, calm waters ideal for a safe and relaxing midday swim, easily moving next to the bustling Agia Pelagia Beach for lunch.\nAfternoon: A short drive north brings you to the more rugged Psaromoura beach, followed quickly by the secluded Peninsula Private Beach. These stops highlight the spectacular and varying dramatic rocky shorelines of the region.\nEvening: Your final destination is the extraordinary Sea Cave Spa. After leaving your car, end your spectacular day unwinding inside a beautiful natural cave with premium wellness treatments and views of the sunset."
+        "en": "Morning: Kick off your road trip slightly inland at the Museum of Olive Tree to explore Crete’s golden heritage. A quick drive then takes you to the local Agia Pelagia church, where you can admire its serene atmosphere.\nMidday: Drive comfortably along the beautiful coastline down to Lygaria Beach. Enjoy the shallow, calm waters ideal for a safe and relaxing midday swim, easily moving next to the bustling Agia Pelagia Beach for lunch.\nAfternoon: A short drive north brings you to the more rugged Psaromoura beach, followed quickly by the secluded Peninsula Private Beach. These stops highlight the spectacular and varying dramatic rocky shorelines of the region.\nEvening: Your final destination is the extraordinary Sea Cave Spa. After leaving your car, end your spectacular day unwinding inside a beautiful natural cave with premium wellness treatments and views of the sunset.",
+        "el": "Πρωί: Ξεκινήστε την οδική εκδρομή λίγο στο εσωτερικό στο Μουσείο της Ελιάς για να εξερευνήσετε την χρυσή κληρονομιά της Κρήτης. Μια σύντομη βόλτα με το αυτοκίνητο θα σας φέρει στην τοπική εκκλησία της Αγίας Πελαγίας, όπου μπορείτε να θαυμάσετε την ήρεμη ατμόσφαιρά της.\nΠολύ νωρίς: Οδηγήστε άνετα κατά μήκος της όμορφης ακτογραμμής προς την Παραλία Λυγαριά. Απολαύστε τα ρηχά, ήρεμα νερά ιδανικά για ένα ασφαλές και χαλαρωτικό μεσημεριανό μπάνιο, και μεταβείτε εύκολα στην πολυσύχναστη Παραλία Αγίας Πελαγίας για μεσημεριανό.\nΑπόγευμα: Μια σύντομη διαδρομή βόρεια σας φέρνει στην πιο άγρια Παραλία Ψαρομούρα, και ακολουθεί γρήγορα η απομονωμένη Ιδιωτική Παραλία της Χερσονήσου. Αυτές οι στάσεις αναδεικνύουν τα εντυπωσιακά και ποικίλα δραματικά βραχώδη παράκτια τοπία της περιοχής.\nΒράδυ: Ο τελικός προορισμός σας είναι το εξαιρετικό Σπα στη Θαλάσσια Σπηλιά. Αφού αφήσετε το αυτοκίνητό σας, ολοκληρώστε την εκπληκτική ημέρα χαλαρώνοντας μέσα σε μια όμορφη φυσική σπηλιά με κορυφαίες θεραπείες ευεξίας και θέα στο ηλιοβασίλεμα."
       },
       "variants": {
         "rainy": {
@@ -878,7 +971,8 @@
             "en": "Start your rainy drive at the indoor museum, staying completely dry. Midday driving between the coastal beaches offers dramatic, moody views of the stormy sea from your warm car. Afternoon rain makes the rugged coves look wild and beautiful. Conclude your day at the luxurious indoor spa, the perfect cozy escape from the wet weather outside.",
             "hu": "Kezdd az autózást a múzeumban, teljesen szárazon maradva. A déli utazás a strandok között drámai, borongós kilátást nyújt a meleg autóból. A délutáni eső vad és gyönyörű formát ad az öblöknek. Zárd a napot a luxus beltéri spában, ami tökéletes, kényelmes menedék a kinti nedves időjárás elől.",
             "de": "Starten Sie die Fahrt trocken im überdachten Museum. Die Mittagsfahrt bietet vom warmen Auto aus dramatische Blicke auf das stürmische Meer. Nachmittagsregen lässt die Buchten wild und wunderschön aussehen. Beenden Sie den Tag im luxuriösen Indoor-Spa, der perfekten gemütlichen Flucht vor dem nassen Wetter.",
-            "ro": "Începe condusul la muzeul interior, rămânând complet uscat. Conducerea la prânz oferă priveliști dramatice ale mării din mașina caldă. Ploaia de după-amiază face golfurile să pară sălbatice. Încheie ziua la spa-ul luxos de interior, evadarea confortabilă perfectă de vremea umedă de afară."
+            "ro": "Începe condusul la muzeul interior, rămânând complet uscat. Conducerea la prânz oferă priveliști dramatice ale mării din mașina caldă. Ploaia de după-amiază face golfurile să pară sălbatice. Încheie ziua la spa-ul luxos de interior, evadarea confortabilă perfectă de vremea umedă de afară.",
+            "el": "Ξεκινήστε τη βροχερή διαδρομή σας στο εσωτερικό μουσείο, παραμένοντας εντελώς στεγνοί. Το μεσημέρι, η οδήγηση μεταξύ των παραθαλάσσιων παραλιών προσφέρει δραματικές, σκοτεινές εικόνες της θυελλώδους θάλασσας από το ζεστό σας αυτοκίνητο. Το απόγευμα η βροχή κάνει τους τραχείς όρμους να φαίνονται άγριοι και όμορφοι. Ολοκληρώστε τη μέρα σας στο πολυτελές εσωτερικό σπα, την τέλεια ζεστή απόδραση από την υγρή καιρική κατάσταση έξω."
           },
           "stops": [
             {
@@ -886,13 +980,15 @@
                 "de": "Olivenbaum- und Ölmuseum Striligkas",
                 "hu": "Striligkas Olajfa és Olívaolaj Múzeum",
                 "ro": "Muzeul Măslinului și Uleiului Striligkas",
-                "en": "Museum of Olive Tree & Oil Striligkas"
+                "en": "Museum of Olive Tree & Oil Striligkas",
+                "el": "Μουσείο Ελιάς & Ελαιολάδου Στριλιγκάς"
               },
               "tip_5lang": {
                 "en": "Enjoy a dry, educational start learning about local oil; the adjacent parking makes it very easy to dodge the heavy rain.",
                 "hu": "Élvezd a száraz, tanulságos kezdést az olajkészítésről; a közeli parkoló megkönnyíti a heves eső elkerülését.",
                 "de": "Genießen Sie einen trockenen Start und lernen Sie über lokales Öl; die nahe Parkmöglichkeit macht es leicht, dem Regen auszuweichen.",
-                "ro": "Bucură-te de un început uscat învățând despre uleiul local; parcarea alăturată face foarte ușoară evitarea ploii torențiale."
+                "ro": "Bucură-te de un început uscat învățând despre uleiul local; parcarea alăturată face foarte ușoară evitarea ploii torențiale.",
+                "el": "Απολαύστε μια στεγνή, εκπαιδευτική έναρξη μαθαίνοντας για το τοπικό λάδι· ο διπλανός χώρος στάθμευσης το καθιστά πολύ εύκολο να αποφύγετε τη δυνατή βροχή."
               }
             },
             {
@@ -900,13 +996,15 @@
                 "de": "Kirche Agia Pelagia",
                 "hu": "Agia Pelagia templom",
                 "ro": "Biserica Agia Pelagia",
-                "en": "Agia Pelagia Church"
+                "en": "Agia Pelagia Church",
+                "el": "Εκκλησία Αγίας Πελαγίας"
               },
               "tip_5lang": {
                 "en": "Step inside to see the beautiful icons completely out of the rain; keep an umbrella handy for the short dash from your parked car.",
                 "hu": "Lépj be, hogy lásd a gyönyörű ikonokat védve az esőtől; tarts kéznél esernyőt a parkoló autótól való rövid futáshoz.",
                 "de": "Treten Sie ein, um die schönen Ikonen regengeschützt zu sehen; halten Sie einen Schirm für den kurzen Weg vom Auto bereit.",
-                "ro": "Intră pentru a vedea icoanele frumoase complet ferit de ploaie; ține o umbrelă la îndemână pentru sprintul scurt de la mașină."
+                "ro": "Intră pentru a vedea icoanele frumoase complet ferit de ploaie; ține o umbrelă la îndemână pentru sprintul scurt de la mașină.",
+                "el": "Μπείτε μέσα για να δείτε τα όμορφα εικόνες μακριά από τη βροχή· κρατήστε μια ομπρέλα πρόχειρη για τη σύντομη διαδρομή από το παρκαρισμένο σας αυτοκίνητο."
               }
             },
             {
@@ -914,13 +1012,15 @@
                 "de": "Lygaria Strand",
                 "hu": "Lygaria strand",
                 "ro": "Plaja Lygaria",
-                "en": "Lygaria Beach"
+                "en": "Lygaria Beach",
+                "el": "Παραλία Λυγαριά"
               },
               "tip_5lang": {
                 "en": "Watch the driving rain sweep across the enclosed bay right from your car window; drive carefully on the wet, winding coastal roads.",
                 "hu": "Nézd a záporesőt a zárt öböl felett egyenesen az autó ablakából; vezess óvatosan a nedves, kanyargós parti utakon.",
                 "de": "Beobachten Sie den Regen über der Bucht aus dem Autofenster; fahren Sie vorsichtig auf den nassen, kurvigen Küstenstraßen.",
-                "ro": "Privește ploaia deasă peste golful închis direct din mașină; condu cu atenție pe drumurile de coastă șerpuite și umede."
+                "ro": "Privește ploaia deasă peste golful închis direct din mașină; condu cu atenție pe drumurile de coastă șerpuite și umede.",
+                "el": "Παρακολουθήστε τη δυνατή βροχή να σαρώνει τον κλειστό κόλπο απευθείας από το παράθυρο του αυτοκινήτου σας· οδηγήστε προσεκτικά στους βρεγμένους, στριφογυριστούς παράκτιους δρόμους."
               }
             },
             {
@@ -928,13 +1028,15 @@
                 "de": "Strand von Agia Pelagia",
                 "hu": "Agia Pelagia strand",
                 "ro": "Plaja Agia Pelagia",
-                "en": "Agia Pelagia Beach"
+                "en": "Agia Pelagia Beach",
+                "el": "Παραλία Αγίας Πελαγίας"
               },
               "tip_5lang": {
                 "en": "Park near the promenade to safely watch the stormy surf; step out briefly with waterproof gear if you want to capture dramatic photos.",
                 "hu": "Parkolj a sétány közelében a viharos tenger biztonságos megfigyeléséhez; lépj ki röviden vízálló ruhában drámai fotókért.",
                 "de": "Parken Sie nahe der Promenade, um die Brandung sicher zu sehen; steigen Sie kurz mit Regenkleidung aus für dramatische Fotos.",
-                "ro": "Parchează lângă promenadă pentru a privi furtuna în siguranță; ieși scurt cu echipament impermeabil pentru poze dramatice."
+                "ro": "Parchează lângă promenadă pentru a privi furtuna în siguranță; ieși scurt cu echipament impermeabil pentru poze dramatice.",
+                "el": "Σταθμεύστε κοντά στην προκυμαία για να παρακολουθήσετε με ασφάλεια τα θυελλώδη κύματα· βγείτε σύντομα με αδιάβροχο εξοπλισμό αν θέλετε να τραβήξετε δραματικές φωτογραφίες."
               }
             },
             {
@@ -942,13 +1044,15 @@
                 "de": "Psaromoura Strand",
                 "hu": "Psaromoura strand",
                 "ro": "Plaja Psaromoura",
-                "en": "Psaromoura Beach"
+                "en": "Psaromoura Beach",
+                "el": "Παραλία Ψαρομούρα"
               },
               "tip_5lang": {
                 "en": "The wild waves look spectacular in the rain; stick to paved viewing areas near the road, as beach trails quickly turn to deep mud.",
                 "hu": "A vad hullámok látványosak esőben; maradj a burkolt kilátópontokon az út mellett, mivel a parti ösvények sártengerré válnak.",
                 "de": "Die wilden Wellen sehen im Regen spektakulär aus; bleiben Sie auf befestigten Wegen, da Strandpfade schnell tief schlammig werden.",
-                "ro": "Valurile sălbatice arată spectaculos în ploaie; rămâi în zonele pavate, deoarece potecile spre plajă se transformă rapid în noroi."
+                "ro": "Valurile sălbatice arată spectaculos în ploaie; rămâi în zonele pavate, deoarece potecile spre plajă se transformă rapid în noroi.",
+                "el": "Τα άγρια κύματα φαίνονται εντυπωσιακά στη βροχή· μείνετε σε τετριμμένες περιοχές θέασης κοντά στον δρόμο, καθώς τα μονοπάτια της παραλίας γίνονται γρήγορα βαθιά λάσπη."
               }
             },
             {
@@ -956,13 +1060,15 @@
                 "de": "Peninsula Privatstrand",
                 "hu": "Peninsula Magánstrand",
                 "ro": "Plaja Privată Peninsula",
-                "en": "Peninsula Private Beach"
+                "en": "Peninsula Private Beach",
+                "el": "Ιδιωτική Παραλία της Χερσονήσου"
               },
               "tip_5lang": {
                 "en": "Admire the dramatic coastal cliffs through the heavy rain; ensure your car's windshield defroster is working well for maximum visibility.",
                 "hu": "Csodáld meg a drámai parti sziklákat a heves esőben; győződj meg a szélvédő páramentesítőjének működéséről a jó kilátásért.",
                 "de": "Bewundern Sie die Klippen durch den Regen; stellen Sie sicher, dass die Entfrostungsanlage des Autos für gute Sicht optimal läuft.",
-                "ro": "Admiră stâncile dramatice prin ploaia torențială; asigură-te că dezaburirea mașinii funcționează bine pentru vizibilitate maximă."
+                "ro": "Admiră stâncile dramatice prin ploaia torențială; asigură-te că dezaburirea mașinii funcționează bine pentru vizibilitate maximă.",
+                "el": "Θαυμάστε τους δραματικούς παράκτιους βράχους μέσα από τη δυνατή βροχή· βεβαιωθείτε ότι ο αεραγωγός αποπάγωσης του παρμπρίζ του αυτοκινήτου σας λειτουργεί καλά για μέγιστη ορατότητα."
               }
             },
             {
@@ -970,13 +1076,15 @@
                 "de": "Sea Cave Spa",
                 "hu": "Sea Cave Spa",
                 "ro": "Sea Cave Spa",
-                "en": "Sea Cave Spa"
+                "en": "Sea Cave Spa",
+                "el": "Σπα στη Θαλάσσια Σπηλιά"
               },
               "tip_5lang": {
                 "en": "Escape the rain entirely in these warm, relaxing indoor pools; parking nearby makes it the perfect cozy and dry finale to a wet day.",
                 "hu": "Menekülj az eső elől a meleg, lazító beltéri medencékbe; a közeli parkolás tökéletes, kényelmes és száraz lezárást biztosít.",
                 "de": "Entkommen Sie dem Regen in diesen warmen Innenpools; das nahe Parken macht es zum perfekten gemütlichen Finale eines nassen Tages.",
-                "ro": "Scapă complet de ploaie în aceste piscine interioare calde; parcarea din apropiere face din asta un final uscat și confortabil."
+                "ro": "Scapă complet de ploaie în aceste piscine interioare calde; parcarea din apropiere face din asta un final uscat și confortabil.",
+                "el": "Αποφύγετε εντελώς τη βροχή σε αυτές τις ζεστές, χαλαρωτικές εσωτερικές πισίνες· το κοντινό πάρκινγκ το καθιστά το τέλειο ζεστό και στεγνό φινάλε σε μια υγρή μέρα."
               }
             }
           ]
@@ -986,7 +1094,8 @@
             "en": "Your winter road trip begins at the uncrowded olive museum and church. Midday driving along the coast reveals clear winter views and peaceful, empty beaches. Afternoon sunlight paints the rocky coves in deep golden hues. Arrive at the spa before the early 5 PM sunset to warm up and relax as the chilly evening sets in.",
             "hu": "A téli autós túra a csendes olívamúzeumnál és templomnál kezdődik. A déli vezetés tiszta téli kilátást és békés, üres strandokat fed fel. A délutáni napfény mély arany árnyalatokra festi a sziklás öblöket. Érj a spába a korai, délután 5-ös naplemente előtt, hogy felmelegedj a hűvös este beköszöntével.",
             "de": "Ihr Winter-Roadtrip beginnt am leeren Museum und der Kirche. Die Mittagsfahrt zeigt klare Winterblicke und friedliche, leere Strände. Nachmittagssonne taucht die Felsen in tiefe Goldtöne. Kommen Sie vor dem frühen Sonnenuntergang um 17 Uhr im Spa an, um sich aufzuwärmen, wenn der kühle Abend anbricht.",
-            "ro": "Călătoria de iarnă începe la muzeul și biserica neaglomerate. Condusul la prânz dezvăluie priveliști clare și plaje goale. Lumina după-amiezii pictează golfurile în nuanțe aurii. Ajungi la spa înainte de apusul de la ora 17:00 pentru a te încălzi pe măsură ce se lasă seara rece."
+            "ro": "Călătoria de iarnă începe la muzeul și biserica neaglomerate. Condusul la prânz dezvăluie priveliști clare și plaje goale. Lumina după-amiezii pictează golfurile în nuanțe aurii. Ajungi la spa înainte de apusul de la ora 17:00 pentru a te încălzi pe măsură ce se lasă seara rece.",
+            "el": "Η χειμερινή οδική σας εκδρομή ξεκινά από το ανεπιτήρητο μουσείο ελιάς και την εκκλησία. Το μεσημέρι, η οδήγηση κατά μήκος της ακτής αποκαλύπτει καθαρές χειμερινές θέες και ήσυχες, άδειες παραλίες. Το απόγευμα το φως ζωγραφίζει τους βραχώδεις όρμους με βαθιές χρυσές αποχρώσεις. Φτάστε στο σπα πριν από το νωπό ηλιοβασίλεμα στις 17:00 για να ζεσταθείτε και να χαλαρώσετε καθώς πέφτει το δροσερό βραδάκι."
           },
           "stops": [
             {
@@ -994,13 +1103,15 @@
                 "de": "Olivenbaum- und Ölmuseum Striligkas",
                 "hu": "Striligkas Olajfa és Olívaolaj Múzeum",
                 "ro": "Muzeul Măslinului și Uleiului Striligkas",
-                "en": "Museum of Olive Tree & Oil Striligkas"
+                "en": "Museum of Olive Tree & Oil Striligkas",
+                "el": "Μουσείο Ελιάς & Ελαιολάδου Στριλιγκάς"
               },
               "tip_5lang": {
                 "en": "Discover Crete's olive history without the summer crowds; the large stone building is cool inside, so wearing a warm sweater is advised.",
                 "hu": "Fedezd fel Kréta olívatörténetét nyári tömeg nélkül; a kőépület belül hűvös, ezért meleg pulóver viselése ajánlott.",
                 "de": "Entdecken Sie Kretas Oliven-Geschichte ohne Menschenmassen; das Steingebäude ist kühl, ein warmer Pullover wird empfohlen.",
-                "ro": "Descoperă istoria măslinelor din Creta fără aglomerație; clădirea de piatră e răcoroasă, deci un pulover cald este recomandat."
+                "ro": "Descoperă istoria măslinelor din Creta fără aglomerație; clădirea de piatră e răcoroasă, deci un pulover cald este recomandat.",
+                "el": "Ανακαλύψτε την ιστορία της ελιάς στην Κρήτη χωρίς τα καλοκαιρινά πλήθη· το μεγάλο λιθόκτιστο κτίριο είναι δροσερό στο εσωτερικό, γι’ αυτό συνιστάται να φοράτε ένα ζεστό πουλόβερ."
               }
             },
             {
@@ -1008,13 +1119,15 @@
                 "de": "Kirche Agia Pelagia",
                 "hu": "Agia Pelagia templom",
                 "ro": "Biserica Agia Pelagia",
-                "en": "Agia Pelagia Church"
+                "en": "Agia Pelagia Church",
+                "el": "Εκκλησία Αγίας Πελαγίας"
               },
               "tip_5lang": {
                 "en": "Experience the deeply serene winter atmosphere inside the chapel; parking your car is incredibly easy right next door during the off-season.",
                 "hu": "Éld át a mélyen békés téli hangulatot a kápolnában; a parkolás hihetetlenül egyszerű közvetlenül mellette a szezonon kívül.",
                 "de": "Erleben Sie die ruhige Winteratmosphäre in der Kapelle; das Parken direkt nebenan ist in der Nebensaison unglaublich einfach.",
-                "ro": "Experimentează atmosfera senină de iarnă în capelă; parcarea este incredibil de ușoară chiar alături în extrasezon."
+                "ro": "Experimentează atmosfera senină de iarnă în capelă; parcarea este incredibil de ușoară chiar alături în extrasezon.",
+                "el": "Ζήστε την πολύ βαθιά ήρεμη χειμερινή ατμόσφαιρα μέσα στο παρεκκλήσι· το παρκάρισμα είναι εξαιρετικά εύκολο ακριβώς δίπλα κατά τη χαμηλή σεζόν."
               }
             },
             {
@@ -1022,13 +1135,15 @@
                 "de": "Lygaria Strand",
                 "hu": "Lygaria strand",
                 "ro": "Plaja Lygaria",
-                "en": "Lygaria Beach"
+                "en": "Lygaria Beach",
+                "el": "Παραλία Λυγαριά"
               },
               "tip_5lang": {
                 "en": "Enjoy the calm, crystal-clear winter waters of the bay; roll down the car windows to let in the exceptionally crisp, fresh sea air.",
                 "hu": "Élvezd az öböl nyugodt, kristálytiszta téli vizét; húzd le az ablakokat, hogy beengedd a kivételesen friss, csípős tengeri levegőt.",
                 "de": "Genießen Sie das klare Winterwasser der Bucht; kurbeln Sie die Fenster herunter, um die frische, klare Meeresluft hereinzulassen.",
-                "ro": "Bucură-te de apele clare de iarnă ale golfului; deschide geamurile mașinii pentru a lăsa să intre aerul proaspăt și rece de mare."
+                "ro": "Bucură-te de apele clare de iarnă ale golfului; deschide geamurile mașinii pentru a lăsa să intre aerul proaspăt și rece de mare.",
+                "el": "Απολαύστε τα ήρεμα, κρυστάλλινα χειμερινά νερά του κόλπου· κατεβάστε τα παράθυρα του αυτοκινήτου για να μπει ο εξαιρετικά δροσερός, φρέσκος θαλασσινός αέρας."
               }
             },
             {
@@ -1036,13 +1151,15 @@
                 "de": "Strand von Agia Pelagia",
                 "hu": "Agia Pelagia strand",
                 "ro": "Plaja Agia Pelagia",
-                "en": "Agia Pelagia Beach"
+                "en": "Agia Pelagia Beach",
+                "el": "Παραλία Αγίας Πελαγίας"
               },
               "tip_5lang": {
                 "en": "Stroll the completely empty promenade in the mild winter sun; a sturdy windbreaker is a great idea to block the brisk coastal breeze.",
                 "hu": "Sétálj a teljesen üres sétányon az enyhe téli napsütésben; egy erős széldzseki remek ötlet a hűvös parti szellő ellen.",
                 "de": "Schlendern Sie über die leere Promenade in der milden Wintersonne; eine robuste Windjacke ist ideal gegen die frische Brise.",
-                "ro": "Plimbă-te pe promenada complet goală în soarele blând de iarnă; o jachetă de vânt este o idee grozavă împotriva brizei reci."
+                "ro": "Plimbă-te pe promenada complet goală în soarele blând de iarnă; o jachetă de vânt este o idee grozavă împotriva brizei reci.",
+                "el": "Περπατήστε στην εντελώς άδεια προκυμαία κάτω από το ήπιο χειμερινό ήλιο· ένα αντιανεμικό μπουφάν είναι καλή ιδέα για να μπλοκάρει το ψυχρό παραθαλάσσιο αεράκι."
               }
             },
             {
@@ -1050,13 +1167,15 @@
                 "de": "Psaromoura Strand",
                 "hu": "Psaromoura strand",
                 "ro": "Plaja Psaromoura",
-                "en": "Psaromoura Beach"
+                "en": "Psaromoura Beach",
+                "el": "Παραλία Ψαρομούρα"
               },
               "tip_5lang": {
                 "en": "Take stunning photos of the dramatic winter coastline; the cold, clear winter air offers incredible visibility stretching for miles.",
                 "hu": "Készíts lenyűgöző fotókat a drámai téli partvonalról; a hideg, tiszta téli levegő hihetetlen, mérföldekre nyúló látótávolságot kínál.",
                 "de": "Machen Sie tolle Fotos der winterlichen Küste; die kalte, klare Winterluft bietet eine unglaubliche, meilenweite Sicht.",
-                "ro": "Fă poze uimitoare cu coasta de iarnă dramatică; aerul rece și clar oferă o vizibilitate incredibilă ce se întinde pe mile."
+                "ro": "Fă poze uimitoare cu coasta de iarnă dramatică; aerul rece și clar oferă o vizibilitate incredibilă ce se întinde pe mile.",
+                "el": "Τραβήξτε εντυπωσιακές φωτογραφίες της δραματικής χειμερινής ακτογραμμής· ο κρύος, καθαρός χειμερινός αέρας προσφέρει απίστευτη ορατότητα μιλίων μακριά."
               }
             },
             {
@@ -1064,13 +1183,15 @@
                 "de": "Peninsula Privatstrand",
                 "hu": "Peninsula Magánstrand",
                 "ro": "Plaja Privată Peninsula",
-                "en": "Peninsula Private Beach"
+                "en": "Peninsula Private Beach",
+                "el": "Ιδιωτική Παραλία της Χερσονήσου"
               },
               "tip_5lang": {
                 "en": "Watch the long, beautiful winter shadows stretch across the hidden cove; keep a warm jacket ready as stepping out feels quite brisk.",
                 "hu": "Nézd, ahogy a hosszú, gyönyörű téli árnyékok végignyúlnak a rejtett öblön; tarts készélben egy meleg kabátot a csípős hideg miatt.",
                 "de": "Beobachten Sie die langen Winterschatten über der Bucht; halten Sie eine warme Jacke bereit, da es draußen recht frisch wird.",
-                "ro": "Privește umbrele lungi și frumoase de iarnă peste golful ascuns; ține o jachetă caldă pregătită deoarece afară este destul de rece."
+                "ro": "Privește umbrele lungi și frumoase de iarnă peste golful ascuns; ține o jachetă caldă pregătită deoarece afară este destul de rece.",
+                "el": "Παρακολουθήστε τις μακριές, όμορφες χειμερινές σκιές να απλώνονται στον κρυμμένο όρμο· κρατήστε ένα ζεστό μπουφάν έτοιμο καθώς η έξοδος έξω είναι αρκετά δροσερή."
               }
             },
             {
@@ -1078,13 +1199,15 @@
                 "de": "Sea Cave Spa",
                 "hu": "Sea Cave Spa",
                 "ro": "Sea Cave Spa",
-                "en": "Sea Cave Spa"
+                "en": "Sea Cave Spa",
+                "el": "Σπα στη Θαλάσσια Σπηλιά"
               },
               "tip_5lang": {
                 "en": "End your scenic drive with a luxurious heated spa session; it's the ultimate way to warm up right as the sun sets early in the afternoon.",
                 "hu": "Zárd a festői autózást egy fűtött spa kezeléssel; a legjobb módja a felmelegedésnek, ahogy a nap kora délután nyugovóra tér.",
                 "de": "Beenden Sie die Fahrt mit einem luxuriösen, beheizten Spa-Besuch; der beste Weg, sich beim frühen Sonnenuntergang aufzuwärmen.",
-                "ro": "Încheie condusul cu o sesiune luxoasă la spa încălzit; este modul suprem de a te încălzi pe măsură ce soarele apune devreme."
+                "ro": "Încheie condusul cu o sesiune luxoasă la spa încălzit; este modul suprem de a te încălzi pe măsură ce soarele apune devreme.",
+                "el": "Ολοκληρώστε την γραφική διαδρομή σας με μια πολυτελή συνεδρία σε θερμαινόμενο σπα· είναι ο απόλυτος τρόπος να ζεσταθείτε καθώς ο ήλιος δύει νωρίς το απόγευμα."
               }
             }
           ]

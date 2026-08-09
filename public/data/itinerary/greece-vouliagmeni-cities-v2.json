@@ -21,7 +21,8 @@
             "de": "Plaz Limnes",
             "hu": "Plaz Limnes",
             "ro": "Plaz Limnes",
-            "en": "Plaz limnes"
+            "en": "Plaz limnes",
+            "el": "Πλαζ Λίμνες"
           },
           "coords": [
             23.785662,
@@ -36,7 +37,8 @@
             "de": "Entspannen Sie an den ruhigen Gewässern von Plaz Limnes, einem idealen Ort unweit des Zentrums, und kommen Sie früh, um sich einen Schattenplatz zu sichern.",
             "hu": "Pihenjen a Plaz Limnes nyugodt vizénél, amely tökéletes menedék a város közelében, és érkezzen korán, hogy biztosítson egy természetes árnyékos helyet.",
             "ro": "Relaxați-vă la apele calme ale Plaz Limnes, un refugiu ideal lângă oraș, și sosiți devreme pentru a vă asigura un loc excelent cu umbră naturală.",
-            "en": "Relax by the calm waters of Plaz Limnes, an ideal spot for unwinding near the city center, and arrive early to secure a prime spot with natural shade."
+            "en": "Relax by the calm waters of Plaz Limnes, an ideal spot for unwinding near the city center, and arrive early to secure a prime spot with natural shade.",
+            "el": "Χαλαρώστε κοντά στα ήρεμα νερά της Πλαζ Λίμνες, ιδανικό σημείο για ξεκούραση κοντά στο κέντρο της πόλης· φτάστε νωρίς για να εξασφαλίσετε μια προνομιακή θέση με φυσική σκιά."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Panagitsa e Dutissa",
             "hu": "Panagitsa e Dutissa",
             "ro": "Panagitsa e Dutissa",
-            "en": "Panagitsa e Dutissa"
+            "en": "Panagitsa e Dutissa",
+            "el": "Παναγίτσα η Δούτισσα"
           },
           "coords": [
             23.78656,
@@ -59,7 +62,8 @@
             "de": "Entdecken Sie dieses ruhige Erholungsgebiet, das tolle Einblicke in die griechische Freizeit bietet, also bringen Sie bequeme Schuhe für einen Küstenspaziergang mit.",
             "hu": "Fedezze fel ezt a békés helyi pihenőövezetet, amely bepillantást enged a görög mindennapokba, ezért hozzon kényelmes cipőt egy kellemes parti sétához.",
             "ro": "Descoperiți această zonă de recreere pașnică, care oferă o privire minunată asupra timpului liber grecesc, așa că aduceți încălțăminte comodă pentru o plimbare de coastă.",
-            "en": "Discover this peaceful local recreational area, which offers a great glimpse into daily Greek leisure, so bring comfortable shoes for a pleasant coastal stroll."
+            "en": "Discover this peaceful local recreational area, which offers a great glimpse into daily Greek leisure, so bring comfortable shoes for a pleasant coastal stroll.",
+            "el": "Ανακαλύψτε αυτήν την ήσυχη τοπική αναψυκτική περιοχή, που προσφέρει μια εξαιρετική εικόνα της καθημερινής ελληνικής αναψυχής — φορέστε άνετα παπούτσια για έναν ευχάριστο παραθαλάσσιο περίπατο."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Bucht von Vouliagmeni",
             "hu": "Vouliagmeni-öböl",
             "ro": "Golful Vouliagmeni",
-            "en": "Vouliagmeni Bay"
+            "en": "Vouliagmeni Bay",
+            "el": "Όρμος Βουλιαγμένης"
           },
           "coords": [
             23.779475,
@@ -82,7 +87,8 @@
             "de": "Bewundern Sie die atemberaubende Aussicht auf die Vouliagmeni-Bucht, ein Wahrzeichen der Riviera, und halten Sie Ihre Kamera für das azurblaue Wasser bereit.",
             "hu": "Csodálja meg a Vouliagmeni-öböl lélegzetelállító panorámáját, az athéni riviéra meghatározó pontját, és tartsa készenlétben a fényképezőgépét az azúrkék vízhez.",
             "ro": "Admirați priveliștile panoramice uluitoare ale Golfului Vouliagmeni, un reper al Rivierei Ateniene, și țineți camera pregătită pentru apele de un albastru azuriu.",
-            "en": "Admire the breathtaking panoramic views of Vouliagmeni Bay, a defining landmark of the Athenian Riviera, and keep your camera ready for the stunning azure waters."
+            "en": "Admire the breathtaking panoramic views of Vouliagmeni Bay, a defining landmark of the Athenian Riviera, and keep your camera ready for the stunning azure waters.",
+            "el": "Θαυμάστε την εκπληκτική πανοραμική θέα του όρμου της Βουλιαγμένης, χαρακτηριστικού της Αθηναϊκής Ριβιέρας, και κρατήστε την κάμερά σας έτοιμη για τα σμαραγδένια νερά."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Tempel des Apollon Zoster",
             "hu": "Apollón Zosztér temploma",
             "ro": "Templul lui Apollo Zoster",
-            "en": "Temple of Apollo Zoster"
+            "en": "Temple of Apollo Zoster",
+            "el": "Ναός του Απόλλωνα Ζωστήρα"
           },
           "coords": [
             23.77373,
@@ -105,7 +112,8 @@
             "de": "Erkunden Sie den antiken Tempel des Apollon Zoster, einen faszinierenden archäologischen Schatz am Strand, und achten Sie auf die gut erhaltenen Marmorsockel.",
             "hu": "Fedezze fel Apollón Zosztér ősi templomát, a strand közelében rejtőző régészeti kincset, és figyelje meg a figyelemre méltóan jó állapotban fennmaradt márványtalapzatokat.",
             "ro": "Explorați vechiul Templu al lui Apollo Zoster, o comoară arheologică fascinantă ascunsă lângă plajă, și căutați bazele de marmură remarcabil de bine conservate.",
-            "en": "Explore the ancient Temple of Apollo Zoster, a fascinating archaeological treasure hidden near the beach, and look out for the remarkably preserved marble bases."
+            "en": "Explore the ancient Temple of Apollo Zoster, a fascinating archaeological treasure hidden near the beach, and look out for the remarkably preserved marble bases.",
+            "el": "Εξερευνήστε τον αρχαίο Ναό του Απόλλωνα Ζωστήρα, έναν συναρπαστικό αρχαιολογικό θησαυρό κοντά στην παραλία, και προσέξτε τις εξαιρετικά διατηρημένες μαρμάρινες βάσεις."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Vouliagmeni Fort",
             "hu": "Vouliagmeni erőd",
             "ro": "Fortul Vouliagmeni",
-            "en": "Vouliagmeni fort (Attica)"
+            "en": "Vouliagmeni fort (Attica)",
+            "el": "Φρούριο Βουλιαγμένης (Αττική)"
           },
           "coords": [
             23.77482,
@@ -128,7 +137,8 @@
             "de": "Spazieren Sie um das historische Vouliagmeni-Fort, um die Küstenverteidigung zu verstehen, und tragen Sie festes Schuhwerk, da das alte Gelände steinig ist.",
             "hu": "Sétáljon körbe a történelmi Vouliagmeni erődön, hogy megértse a régió partvédelmi múltját, és viseljen masszív lábbelit, mivel a terep meglehetősen sziklás lehet.",
             "ro": "Plimbați-vă prin istoricul fort Vouliagmeni pentru a înțelege apărarea de coastă a regiunii și purtați încălțăminte rezistentă, deoarece terenul antic este stâncos.",
-            "en": "Wander around the historic Vouliagmeni fort to understand the region's coastal defense history, and wear sturdy footwear as the ancient terrain can be quite rocky."
+            "en": "Wander around the historic Vouliagmeni fort to understand the region's coastal defense history, and wear sturdy footwear as the ancient terrain can be quite rocky.",
+            "el": "Περπατήστε γύρω από το ιστορικό φρούριο της Βουλιαγμένης για να κατανοήσετε την παράκτια αμυντική ιστορία της περιοχής — φορέστε γερό υπόδημα καθώς το αρχαίο έδαφος μπορεί να είναι αρκετά βραχώδες."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Ihr Morgen beginnt mit einem ruhigen Rückzugsort am Plaz Limnes, wo Sie die frische Meeresbrise genießen. Ein kurzer Spaziergang bringt Sie zu den Freizeitanlagen von Panagitsa e Dutissa.\n\nDer Mittag ist von den atemberaubenden Ausblicken auf die Bucht von Vouliagmeni geprägt. Sie werden die majestätische Küstenlinie der Athener Riviera bewundern und die Sonne genießen.\n\nDer Nachmittag geht in eine historische Reise über. Entdecken Sie antike Geheimnisse am Tempel des Apollon Zoster nahe dem Sandstrand, gefolgt von der Erkundung des alten Forts.\n\nWenn der Abend naht, verblassen die Echos der Geschichte in der friedlichen Küstenatmosphäre. Lassen Sie Ihren faszinierenden Spaziergang Revue passieren, während die Sonne untergeht.",
         "hu": "Reggele egy békés visszavonulással indul a Plaz Limnesnél, ahol élvezheti a friss tengeri szellőt. Egy rövid sétával a Panagitsa e Dutissa helyi pihenőparkjába érkezik.\n\nA delet a Vouliagmeni-öböl lenyűgöző kilátása koronázza meg. Megcsodálhatja az athéni riviéra fenséges partvonalát, és egy látványos környezetben szívhatja magába a görög napfényt.\n\nA délután egy történelmi utazásba csap át. Fedezze fel Apollón Zosztér templomának ősi titkait közvetlenül a homokos part közelében, majd fedezze fel a régi Vouliagmeni erődöt.\n\nAz este közeledtével a történelem visszhangjai beleolvadnak a békés partvidéki hangulatba. Gondoljon vissza erre a lenyűgöző sétára, miközben figyeli a naplementét az Égei-tenger felett.",
         "ro": "Dimineața dvs. începe cu un refugiu liniștit la Plaz Limnes, bucurându-vă de briza proaspătă a mării. O scurtă plimbare vă aduce la terenurile de recreere din Panagitsa e Dutissa.\n\nMijlocul zilei este marcat de priveliștile uimitoare ale Golfului Vouliagmeni. Vă veți minuna de coasta maiestuoasă a Rivierei Ateniene, bucurându-vă de soarele grecesc.\n\nDupă-amiaza se transformă într-o călătorie istorică. Descoperiți secretele antice la Templul lui Apollo Zoster chiar lângă nisip, urmată de o explorare a vechiului fort Vouliagmeni.\n\nPe măsură ce se apropie seara, ecourile istoriei se estompează în ambianța pașnică a coastei. Reflectați la plimbarea captivantă în timp ce priviți soarele apunând ușor peste Marea Egee.",
-        "en": "Your morning starts with a tranquil retreat at Plaz Limnes, enjoying the fresh sea breeze. A short stroll brings you to the local recreational grounds of Panagitsa e Dutissa.\n\nMidday is marked by the stunning vistas of Vouliagmeni Bay. You will marvel at the majestic coastline of the Athenian Riviera, soaking up the Greek sun in a spectacular setting.\n\nThe afternoon transitions into a historical journey. Uncover ancient secrets at the Temple of Apollo Zoster right near the sand, followed by an exploration of the old Vouliagmeni fort.\n\nAs evening approaches, the echoes of history fade into the peaceful coastal ambiance. Reflect on your captivating walking tour as you watch the sun gently set over the Aegean Sea."
+        "en": "Your morning starts with a tranquil retreat at Plaz Limnes, enjoying the fresh sea breeze. A short stroll brings you to the local recreational grounds of Panagitsa e Dutissa.\n\nMidday is marked by the stunning vistas of Vouliagmeni Bay. You will marvel at the majestic coastline of the Athenian Riviera, soaking up the Greek sun in a spectacular setting.\n\nThe afternoon transitions into a historical journey. Uncover ancient secrets at the Temple of Apollo Zoster right near the sand, followed by an exploration of the old Vouliagmeni fort.\n\nAs evening approaches, the echoes of history fade into the peaceful coastal ambiance. Reflect on your captivating walking tour as you watch the sun gently set over the Aegean Sea.",
+        "el": "Το πρωί ξεκινά με μια γαλήνια απόδραση στο Plaz Limnes, απολαμβάνοντας το δροσερό θαλασσινό αεράκι. Ένας σύντομος περίπατος σας οδηγεί στους τοπικούς χώρους αναψυχής της Παναγίτσας ε Δούτισσα.\n\nΤο μεσημέρι σημαδεύεται από τις εκπληκτικές όψεις του όρμου της Βουλιαγμένης. Θα θαυμάσετε την επιβλητική ακτογραμμή της Αθηναϊκής Ριβιέρας, απολαμβάνοντας τον ελληνικό ήλιο σε ένα εντυπωσιακό σκηνικό.\n\nΤο απόγευμα μετατρέπεται σε ένα ιστορικό ταξίδι. Αποκαλύψτε αρχαία μυστικά στο Ναό του Απόλλωνα Ζωστήρα κοντά στην άμμο, ακολουθούμενο από εξερεύνηση του παλιού φρουρίου της Βουλιαγμένης.\n\nΚαθώς πλησιάζει το βράδυ, οι ηχώ της ιστορίας σβήνουν στην ήρεμη παραθαλάσσια ατμόσφαιρα. Σκεφτείτε την γοητευτική περιήγησή σας καθώς παρακολουθείτε τον ήλιο να δύει απαλά πάνω από το Αιγαίο."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie Ihren Tag in Vouliagmeni trotz des Regens mit der mystischen Atmosphäre der Küste. Am Mittag bieten die historischen Ruinen unter grauem Himmel einen dramatischen Anblick. Nachmittags empfiehlt es sich, die befestigten Bereiche aufzusuchen, die etwas Schutz bieten. Den Abend lassen Sie gemütlich ausklingen, während das prasselnde Wasser auf die Meeresoberfläche trifft.",
             "hu": "Kezdje a napot Vouliagmeniben az eső áztatta tengerpart misztikus látványával. Délben a történelmi romok a szürke égbolt alatt drámai hangulatot árasztanak, érdemes esernyővel készülni. Délután keressen menedéket az erődítmény falai mentén a szél elől. Az estét töltse egy közeli fedett helyen, figyelve a tenger felszínén koppanó esőcseppeket.",
             "ro": "Începeți ziua în Vouliagmeni cu atmosfera mistică a coastei sub ploaie. La prânz, ruinele istorice oferă o priveliște dramatică sub cerul cenușiu, fiind necesară o umbrelă rezistentă. După-amiaza, căutați adăpost lângă zidurile fortăreței pentru a evita rafalele de vânt. Seara se încheie relaxant, ascultând sunetul ploii care lovește suprafața mării.",
-            "en": "Start your day in Vouliagmeni with the mystical atmosphere of the rain-soaked coast. At noon, the historical ruins under grey skies offer a dramatic sight; be sure to carry a sturdy umbrella. In the afternoon, seek some shelter near the fortress walls to avoid the wind. Spend the evening indoors, watching the rain dance on the surface of the sea."
+            "en": "Start your day in Vouliagmeni with the mystical atmosphere of the rain-soaked coast. At noon, the historical ruins under grey skies offer a dramatic sight; be sure to carry a sturdy umbrella. In the afternoon, seek some shelter near the fortress walls to avoid the wind. Spend the evening indoors, watching the rain dance on the surface of the sea.",
+            "el": "Ξεκινήστε τη μέρα σας στη Βουλιαγμένη με τη μυστηριακή ατμόσφαιρα της βρεγμένης ακτογραμμής. Το μεσημέρι, τα ιστορικά ερείπια κάτω από τον γκρίζο ουρανό προσφέρουν δραματικό θέαμα — φροντίστε να έχετε ανθεκτική ομπρέλα. Το απόγευμα, αναζητήστε καταφύγιο κοντά στα τείχη του φρουρίου για να αποφύγετε τον άνεμο. Περάστε το βράδυ σε εσωτερικό χώρο, παρακολουθώντας τη βροχή να χορεύει στην επιφάνεια της θάλασσας."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Plaz Limnes",
                 "hu": "Plaz Limnes",
                 "ro": "Plaz Limnes",
-                "en": "Plaz limnes"
+                "en": "Plaz limnes",
+                "el": "Plaz Limnes"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Blick auf das stürmische Meer von einem überdachten Vorsprung aus; achten Sie auf die rutschigen Felsen am Ufer.",
                 "hu": "Élvezze a viharos tenger látványát egy fedett párkány alól, de vigyázzon a parton lévő kövekkel, mert esőben rendkívül csúszósak.",
                 "ro": "Bucurați-vă de vederea mării înfuriate de sub un acoperiș; aveți grijă la pietrele de pe mal, deoarece devin foarte alunecoase.",
-                "en": "Enjoy the view of the stormy sea from under a sheltered ledge; watch your step on the shore rocks as they become very slippery when wet."
+                "en": "Enjoy the view of the stormy sea from under a sheltered ledge; watch your step on the shore rocks as they become very slippery when wet.",
+                "el": "Απολαύστε τη θέα της θυελλώδους θάλασσας από κάτω από ένα προφυλαγμένο προεξέχον σημείο — προσέξτε τα βράχια στην ακτή που γίνονται ιδιαίτερα ολισθηρά όταν είναι βρεγμένα."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Panagitsa e Dutissa",
                 "hu": "Panagitsa e Dutissa",
                 "ro": "Panagitsa e Dutissa",
-                "en": "Panagitsa e Dutissa"
+                "en": "Panagitsa e Dutissa",
+                "el": "Παναγίτσα ε Δούτισσα"
               },
               "tip_5lang": {
                 "de": "Diese kleine Kapelle bietet einen ruhigen und trockenen Rückzugsort, während man draußen dem Rauschen des Regens lauscht.",
                 "hu": "Ez a kis kápolna csendes és száraz menedéket nyújt a túra közben, ahol megpihenhetünk, miközben kint hallgatjuk az eső kopogását.",
                 "ro": "Această mică capelă oferă un refugiu liniștit și uscat în timpul drumeției, unde vă puteți odihni ascultând ploaia de afară.",
-                "en": "This small chapel provides a quiet and dry sanctuary during your walk, where you can rest while listening to the rain outside."
+                "en": "This small chapel provides a quiet and dry sanctuary during your walk, where you can rest while listening to the rain outside.",
+                "el": "Αυτή η μικρή εκκλησία προσφέρει ένα ήσυχο και στεγνό καταφύγιο κατά τη διάρκεια του περιπάτου σας, όπου μπορείτε να ξεκουραστείτε ακούγοντας τη βροχή έξω."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Bucht von Vouliagmeni",
                 "hu": "Vouliagmeni-öböl",
                 "ro": "Golful Vouliagmeni",
-                "en": "Vouliagmeni Bay"
+                "en": "Vouliagmeni Bay",
+                "el": "Όρμος Βουλιαγμένης"
               },
               "tip_5lang": {
                 "de": "Die Bucht wirkt bei Regen besonders melancholisch; nutzen Sie wasserfeste Kleidung, um den kurzen Spaziergang am Wasser zu genießen.",
                 "hu": "Az öböl esőben különösen melankolikus arcát mutatja; viseljen vízálló ruházatot, hogy élvezhesse a rövid sétát a vízpart mentén.",
                 "ro": "Golful are un aspect melancolic în ploaie; folosiți îmbrăcăminte impermeabilă pentru a vă bucura de scurta plimbare pe malul apei.",
-                "en": "The bay shows a particularly melancholic side in the rain; wear waterproof clothing to enjoy the short walk along the waterfront."
+                "en": "The bay shows a particularly melancholic side in the rain; wear waterproof clothing to enjoy the short walk along the waterfront.",
+                "el": "Ο όρμος δείχνει μια ιδιαίτερα μελαγχολική όψη στη βροχή — φορέστε αδιάβροχα για να απολαύσετε τον σύντομο περίπατο κατά μήκος του παραθαλάσσιου μετώπου."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Tempel des Apollon Zoster",
                 "hu": "Apollón Zosztér temploma",
                 "ro": "Templul lui Apollo Zoster",
-                "en": "Temple of Apollo Zoster"
+                "en": "Temple of Apollo Zoster",
+                "el": "Ναός του Απόλλωνα Ζωστήρα"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die antiken Fundamente, die bei Regen glänzen, und halten Sie ein Cape bereit, da es hier kaum Unterstand gibt.",
                 "hu": "Fedezze fel az esőben csillogó antik alapokat, és legyen kéznél esőkabát, mert a nyitott területen kevés a fedett rész.",
                 "ro": "Explorați fundațiile antice care strălucesc în ploaie și aveți pelerina pregătită, deoarece există puține adăposturi în zona deschisă.",
-                "en": "Explore the ancient foundations that shine in the rain, and have a rain poncho ready as there is little cover in this open area."
+                "en": "Explore the ancient foundations that shine in the rain, and have a rain poncho ready as there is little cover in this open area.",
+                "el": "Εξερευνήστε τα αρχαία θεμέλια που λάμπουν κάτω από τη βροχή και να έχετε έτοιμο ένα αδιάβροχο παντόφλερ καθώς υπάρχει λίγη κάλυψη σε αυτήν την ανοιχτή περιοχή."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Vouliagmeni Fort",
                 "hu": "Vouliagmeni erőd",
                 "ro": "Fortul Vouliagmeni",
-                "en": "Vouliagmeni fort (Attica)"
+                "en": "Vouliagmeni fort (Attica)",
+                "el": "Φρούριο Βουλιαγμένης (Αττική)"
               },
               "tip_5lang": {
                 "de": "Die dicken Mauern des Forts bieten Schutz vor dem Wind; ideal, um die raue Küstenlandschaft geschützt zu beobachten.",
                 "hu": "Az erőd vastag falai jó szélfogóként szolgálnak, így innen viszonylagos szélvédettségben figyelheti a tajtékzó hullámokat.",
                 "ro": "Zidurile groase ale fortului oferă o bună protecție împotriva vântului, permițându-vă să observați valurile în siguranță.",
-                "en": "The thick walls of the fort act as a great windbreak, allowing you to watch the crashing waves from relative shelter."
+                "en": "The thick walls of the fort act as a great windbreak, allowing you to watch the crashing waves from relative shelter.",
+                "el": "Τα παχιά τείχη του φρουρίου λειτουργούν ως εξαιρετικό ανάχωμα στον άνεμο, επιτρέποντάς σας να παρατηρείτε τα συντριπτικά κύματα από σχετική ασφάλεια."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Der Wintermorgen in Vouliagmeni ist erfrischend kühl und perfekt für einen strammen Marsch. Mittags steht die Sonne tief und taucht die antiken Steine in ein sanftes Licht. Da es bereits gegen 17:00 Uhr dunkel wird, sollten Sie den Nachmittag nutzen, um die Festung zu erkunden. Abends laden die beheizten Cafés im Ort zur wohlverdienten Aufwärmpause ein.",
             "hu": "A téli reggel Vouliagmeniben frissítően hűvös, tökéletes egy tempós sétához a tengerparton. Délben az alacsonyan járó nap lágy fénybe vonja az antik köveket. Mivel 17:00 körül már sötétedik, a délutánt használja ki az erőd felfedezésére. Este a fűtött helyi kávézók várják egy melengető italra a séta végén.",
             "ro": "Dimineața de iarnă în Vouliagmeni este răcoroasă și revigorantă, perfectă pentru o plimbare energică pe țărm. La prânz, soarele blând luminează pietrele antice. Deoarece se întunecă în jur de ora 17:00, profitați de după-amiază pentru fortăreață. Seara, cafenelele încălzite vă așteaptă pentru a vă încălzi după traseu.",
-            "en": "Winter mornings in Vouliagmeni are refreshingly cool, perfect for a brisk walk along the coast. At noon, the low sun casts a soft light on the ancient stones. Since it gets dark around 17:00, use the afternoon to explore the fort. In the evening, heated local cafes await for a warming drink to end your day."
+            "en": "Winter mornings in Vouliagmeni are refreshingly cool, perfect for a brisk walk along the coast. At noon, the low sun casts a soft light on the ancient stones. Since it gets dark around 17:00, use the afternoon to explore the fort. In the evening, heated local cafes await for a warming drink to end your day.",
+            "el": "Τα χειμωνιάτικα πρωινά στη Βουλιαγμένη είναι δροσιστικά, ιδανικά για έναν ζωηρό περίπατο κατά μήκος της ακτής. Το μεσημέρι, ο χαμηλός ήλιος ρίχνει απαλό φως πάνω στις αρχαίες πέτρες. Επειδή σκοτεινιάζει γύρω στις 17:00, χρησιμοποιήστε το απόγευμα για να εξερευνήσετε το φρούριο. Το βράδυ σας περιμένουν θερμαινόμενα τοπικά καφέ για ένα ζεστό ποτό για να κλείσετε τη μέρα."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Plaz Limnes",
                 "hu": "Plaz Limnes",
                 "ro": "Plaz Limnes",
-                "en": "Plaz limnes"
+                "en": "Plaz limnes",
+                "el": "Plaz Limnes"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Einsamkeit des Strandes im Winter; tragen Sie winddichte Kleidung, um den kühlen Seewind abzuwehren.",
                 "hu": "Élvezze a strand téli magányát; viseljen szélálló kabátot, hogy a hűvös tengeri szél ne vegye el a kedvét a nézelődéstől.",
                 "ro": "Bucurați-vă de singurătatea plajei în timpul iernii; purtați o jachetă rezistentă la vânt pentru a face față brizei reci a mării.",
-                "en": "Enjoy the solitude of the beach in winter; wear a windproof jacket so the chilly sea breeze doesn't spoil your sightseeing."
+                "en": "Enjoy the solitude of the beach in winter; wear a windproof jacket so the chilly sea breeze doesn't spoil your sightseeing.",
+                "el": "Απολαύστε τη μοναξιά της παραλίας τον χειμώνα — φορέστε μπουφάν αδιάβροχο και ανεμοπροστατευτικό ώστε το ψυχρό θαλασσινό αεράκι να μην χαλάσει την ξενάγησή σας."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Panagitsa e Dutissa",
                 "hu": "Panagitsa e Dutissa",
                 "ro": "Panagitsa e Dutissa",
-                "en": "Panagitsa e Dutissa"
+                "en": "Panagitsa e Dutissa",
+                "el": "Παναγίτσα ε Δούτισσα"
               },
               "tip_5lang": {
                 "de": "Die kleine Kirche strahlt im Winter eine besondere Ruhe aus; nutzen Sie den geschützten Innenraum für ein kurzes Gebet oder eine Pause.",
                 "hu": "A kis templom télen különleges nyugalmat áraszt; használja ki a védett belső teret egy rövid elcsendesedésre vagy pihenőre.",
                 "ro": "Mica biserică emană o liniște deosebită iarna; folosiți spațiul interior protejat pentru un moment de reculegere sau odihnă.",
-                "en": "The small church radiates a special calm in winter; take advantage of the sheltered interior for a moment of silence or a break."
+                "en": "The small church radiates a special calm in winter; take advantage of the sheltered interior for a moment of silence or a break.",
+                "el": "Η μικρή εκκλησία ακτινοβολεί μια ιδιαίτερη ηρεμία το χειμώνα — εκμεταλλευτείτε το προστατευμένο εσωτερικό για μια στιγμή σιωπής ή ξεκούρασης."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Bucht von Vouliagmeni",
                 "hu": "Vouliagmeni-öböl",
                 "ro": "Golful Vouliagmeni",
-                "en": "Vouliagmeni Bay"
+                "en": "Vouliagmeni Bay",
+                "el": "Όρμος Βουλιαγμένης"
               },
               "tip_5lang": {
                 "de": "Die Bucht bietet im Winter kristallklares Wasser; bringen Sie ein heißes Getränk in einer Thermoskanne für den Spaziergang mit.",
                 "hu": "Az öböl vize télen kristálytiszta; hozzon magával egy termoszban forró teát, hogy séta közben is melegen tartsa magát.",
                 "ro": "Apa golfului este extrem de limpede iarna; aduceți un termos cu ceai fierbinte pentru a vă menține căldura în timpul plimbării.",
-                "en": "The bay's water is crystal clear in winter; bring a thermos of hot tea to keep yourself warm during the waterfront walk."
+                "en": "The bay's water is crystal clear in winter; bring a thermos of hot tea to keep yourself warm during the waterfront walk.",
+                "el": "Τα νερά του όρμου είναι κρυστάλλινα τον χειμώνα — φέρτε ένα θερμός με ζεστό τσάι για να διατηρήσετε τη ζεστασιά σας κατά τον παραθαλάσσιο περίπατο."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Tempel des Apollon Zoster",
                 "hu": "Apollón Zosztér temploma",
                 "ro": "Templul lui Apollo Zoster",
-                "en": "Temple of Apollo Zoster"
+                "en": "Temple of Apollo Zoster",
+                "el": "Ναός του Απόλλωνα Ζωστήρα"
               },
               "tip_5lang": {
                 "de": "Die antiken Ruinen sind im weichen Winterlicht ideal für Fotos; tragen Sie feste Schuhe, da der Boden recht kühl sein kann.",
                 "hu": "Az antik romok a lágy téli fényben ideálisak fotózáshoz; viseljen vastag talpú cipőt, mert a talaj ilyenkor már nagyon hideg.",
                 "ro": "Ruinele antice sunt ideale pentru fotografii în lumina blândă a iernii; purtați încălțăminte solidă, deoarece solul este foarte rece.",
-                "en": "The ancient ruins are ideal for photography in the soft winter light; wear thick-soled shoes as the ground can be quite cold."
+                "en": "The ancient ruins are ideal for photography in the soft winter light; wear thick-soled shoes as the ground can be quite cold.",
+                "el": "Τα αρχαία ερείπια είναι ιδανικά για φωτογράφηση στο απαλό χειμερινό φως — φορέστε παπούτσια με χοντρή σόλα καθώς το έδαφος μπορεί να είναι αρκετά κρύο."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Vouliagmeni Fort",
                 "hu": "Vouliagmeni erőd",
                 "ro": "Fortul Vouliagmeni",
-                "en": "Vouliagmeni fort (Attica)"
+                "en": "Vouliagmeni fort (Attica)",
+                "el": "Φρούριο Βουλιαγμένης (Αττική)"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie das Fort vor dem frühen Sonnenuntergang gegen 17:00 Uhr, um den Panoramablick über die winterliche Riviera zu genießen.",
                 "hu": "Látogassa meg az erődöt a korai, 17:00 körüli naplemente előtt, hogy élvezhesse a panorámát a téli riviérára.",
                 "ro": "Vizitați fortul înainte de apusul devreme de la ora 17:00 pentru a vă bucura de panorama spectaculoasă asupra rivierei de iarnă.",
-                "en": "Visit the fort before the early sunset around 17:00 to enjoy the panoramic view of the winter Riviera in the fading light."
+                "en": "Visit the fort before the early sunset around 17:00 to enjoy the panoramic view of the winter Riviera in the fading light.",
+                "el": "Επισκεφτείτε το φρούριο πριν από τη νωπή δύση γύρω στις 17:00 για να απολαύσετε την πανοραμική θέα της χειμερινής Ριβιέρας στο χαμηλό φως."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Kserokhabos",
             "hu": "Kserokhabos",
             "ro": "Kserokhabos",
-            "en": "Kserokhabos"
+            "en": "Kserokhabos",
+            "el": "Ξηροχάβος"
           },
           "coords": [
             23.78892,
@@ -329,7 +363,8 @@
             "de": "Genießen Sie die unberührte Natur von Kserokhabos, die eine Flucht vor den belebten Stränden bietet, und bringen Sie ausreichend Wasser mit, da es kaum Anlagen gibt.",
             "hu": "Élvezze Kserokhabos érintetlen természeti környezetét, amely menedéket nyújt a nyüzsgő strandok elől, és hozzon sok vizet, mivel a szolgáltatások nagyon ritkák.",
             "ro": "Bucurați-vă de natura virgină din Kserokhabos, oferind o evadare pitorească de pe plajele aglomerate, și aduceți multă apă, deoarece facilitățile sunt foarte rare.",
-            "en": "Enjoy the pristine natural environment of Kserokhabos, offering a rugged escape from the bustling beaches, and bring plenty of water as facilities are very scarce."
+            "en": "Enjoy the pristine natural environment of Kserokhabos, offering a rugged escape from the bustling beaches, and bring plenty of water as facilities are very scarce.",
+            "el": "Απολαύστε το παρθένο φυσικό περιβάλλον του Ξηροχάβου, που προσφέρει μια τραχιά απόδραση από τις πολυσύχναστες παραλίες — φέρτε άφθονο νερό καθώς οι εγκαταστάσεις είναι πολύ περιορισμένες."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Plaz Limnes",
             "hu": "Plaz Limnes",
             "ro": "Plaz Limnes",
-            "en": "Plaz limnes"
+            "en": "Plaz limnes",
+            "el": "Plaz Limnes"
           },
           "coords": [
             23.785662,
@@ -352,7 +388,8 @@
             "de": "Entspannen Sie an den ruhigen Gewässern von Plaz Limnes, einem idealen Ort unweit des Zentrums, und kommen Sie früh, um sich einen Schattenplatz zu sichern.",
             "hu": "Pihenjen a Plaz Limnes nyugodt vizénél, amely tökéletes menedék a város közelében, és érkezzen korán, hogy biztosítson egy természetes árnyékos helyet.",
             "ro": "Relaxați-vă la apele calme ale Plaz Limnes, un refugiu ideal lângă oraș, și sosiți devreme pentru a vă asigura un loc excelent cu umbră naturală.",
-            "en": "Relax by the calm waters of Plaz Limnes, an ideal spot for unwinding near the city center, and arrive early to secure a prime spot with natural shade."
+            "en": "Relax by the calm waters of Plaz Limnes, an ideal spot for unwinding near the city center, and arrive early to secure a prime spot with natural shade.",
+            "el": "Χαλαρώστε δίπλα στα ήρεμα νερά του Plaz Limnes, ιδανικό σημείο για χαλάρωση κοντά στο κέντρο της πόλης — φτάστε νωρίς για να εξασφαλίσετε καλό σημείο με φυσική σκιά."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Bucht von Vouliagmeni",
             "hu": "Vouliagmeni-öböl",
             "ro": "Golful Vouliagmeni",
-            "en": "Vouliagmeni Bay"
+            "en": "Vouliagmeni Bay",
+            "el": "Όρμος Βουλιαγμένης"
           },
           "coords": [
             23.779475,
@@ -375,7 +413,8 @@
             "de": "Bewundern Sie die atemberaubende Aussicht auf die Vouliagmeni-Bucht, ein Wahrzeichen der Riviera, und halten Sie Ihre Kamera für das azurblaue Wasser bereit.",
             "hu": "Csodálja meg a Vouliagmeni-öböl lélegzetelállító panorámáját, az athéni riviéra meghatározó pontját, és tartsa készenlétben a fényképezőgépét az azúrkék vízhez.",
             "ro": "Admirați priveliștile panoramice uluitoare ale Golfului Vouliagmeni, un reper al Rivierei Ateniene, și țineți camera pregătită pentru apele de un albastru azuriu.",
-            "en": "Admire the breathtaking panoramic views of Vouliagmeni Bay, a defining landmark of the Athenian Riviera, and keep your camera ready for the stunning azure waters."
+            "en": "Admire the breathtaking panoramic views of Vouliagmeni Bay, a defining landmark of the Athenian Riviera, and keep your camera ready for the stunning azure waters.",
+            "el": "Θαυμάστε την εκπληκτική πανοραμική θέα του όρμου της Βουλιαγμένης, χαρακτηριστικού της Αθηναϊκής Ριβιέρας, και κρατήστε την κάμερά σας έτοιμη για τα σμαραγδένια νερά."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Tempel des Apollon Zoster",
             "hu": "Apollón Zosztér temploma",
             "ro": "Templul lui Apollo Zoster",
-            "en": "Temple of Apollo Zoster"
+            "en": "Temple of Apollo Zoster",
+            "el": "Ναός του Απόλλωνα Ζωστήρα"
           },
           "coords": [
             23.77373,
@@ -398,7 +438,8 @@
             "de": "Erkunden Sie den antiken Tempel des Apollon Zoster, einen faszinierenden archäologischen Schatz am Strand, und achten Sie auf die gut erhaltenen Marmorsockel.",
             "hu": "Fedezze fel Apollón Zosztér ősi templomát, a strand közelében rejtőző régészeti kincset, és figyelje meg a figyelemre méltóan jó állapotban fennmaradt márványtalapzatokat.",
             "ro": "Explorați vechiul Templu al lui Apollo Zoster, o comoară arheologică fascinantă ascunsă lângă plajă, și căutați bazele de marmură remarcabil de bine conservate.",
-            "en": "Explore the ancient Temple of Apollo Zoster, a fascinating archaeological treasure hidden near the beach, and look out for the remarkably preserved marble bases."
+            "en": "Explore the ancient Temple of Apollo Zoster, a fascinating archaeological treasure hidden near the beach, and look out for the remarkably preserved marble bases.",
+            "el": "Εξερευνήστε τον αρχαίο Ναό του Απόλλωνα Ζωστήρα, έναν συναρπαστικό αρχαιολογικό θησαυρό κοντά στην παραλία, και προσέξτε τις εξαιρετικά διατηρημένες μαρμάρινες βάσεις."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Megalo Kabouri",
             "hu": "Megalo Kabouri",
             "ro": "Megalo Kabouri",
-            "en": "Megalo Kabouri"
+            "en": "Megalo Kabouri",
+            "el": "Μεγάλο Καβούρι"
           },
           "coords": [
             23.76819,
@@ -421,7 +463,8 @@
             "de": "Schwimmen Sie am Megalo Kabouri, einem weitläufigen und einladenden Strand für Familien, und kommen Sie am späten Nachmittag, um dem großen Trubel zu entgehen.",
             "hu": "Fürödjön a Megalo Kabouri tágas és hívogató strandján, amely tökéletes családok számára, és látogasson el késő délután a kisebb tömeg és a lágyabb fények miatt.",
             "ro": "Înotați la Megalo Kabouri, o plajă spațioasă și primitoare perfectă pentru familii, și încercați să vizitați la sfârșitul după-amiezii pentru mai puțină aglomerație.",
-            "en": "Swim at Megalo Kabouri, a spacious and inviting recreational beach perfect for families, and try to visit during late afternoon for fewer crowds and softer light."
+            "en": "Swim at Megalo Kabouri, a spacious and inviting recreational beach perfect for families, and try to visit during late afternoon for fewer crowds and softer light.",
+            "el": "Κολυμπήστε στο Μεγάλο Καβούρι, μια ευρύχωρη και φιλόξενη παραλία αναψυχής ιδανική για οικογένειες — προσπαθήστε να την επισκεφτείτε νωρίς το απόγευμα για λιγότερο πλήθος και απαλότερο φως."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Strand von Varkiza",
             "hu": "Varkiza strand",
             "ro": "Plaja Varkiza",
-            "en": "Beach of Varkiza"
+            "en": "Beach of Varkiza",
+            "el": "Παραλία Βάρκιζα"
           },
           "coords": [
             23.808884,
@@ -444,7 +488,8 @@
             "de": "Beenden Sie Ihre Reise am lebhaften Strand von Varkiza, bekannt für Wassersport und tolle Atmosphäre, und bleiben Sie zum Sonnenuntergang mit einem lokalen Snack.",
             "hu": "Zárja kirándulását a nyüzsgő Varkiza strandon, amely élénk hangulatáról és vízi sportjairól híres, és maradjon naplementéig, miközben helyi tengerparti falatokat kóstol.",
             "ro": "Încheiați călătoria la animata plajă Varkiza, renumită pentru atmosfera sa vibrantă și sporturile nautice, și rămâneți la apus, savurând o gustare locală pe litoral.",
-            "en": "Conclude your trip at the lively Beach of Varkiza, famous for its vibrant atmosphere and water sports, and stay for the sunset while enjoying a local seaside snack."
+            "en": "Conclude your trip at the lively Beach of Varkiza, famous for its vibrant atmosphere and water sports, and stay for the sunset while enjoying a local seaside snack.",
+            "el": "Ολοκληρώστε το ταξίδι σας στην ζωντανή παραλία της Βάρκιζας, γνωστή για την έντονη ατμόσφαιρα και τα θαλάσσια σπορ — μείνετε για τη δύση απολαμβάνοντας κάποιο τοπικό σνακ παραθαλάσσιας κουζίνας."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Beginnen Sie Ihr Radabenteuer inmitten der rauen Natur von Kserokhabos, bevor Sie in Richtung der ruhigen Gewässer des Plaz Limnes für eine erfrischende Pause am Morgen radeln.\n\nRadeln Sie mittags entlang der atemberaubenden Bucht von Vouliagmeni. Pausieren Sie für die herrliche Aussicht auf die Riviera und entdecken Sie dann die Antike am Apollon-Tempel.\n\nIhre Nachmittagsfahrt führt Sie weiter an der Küste entlang zu den einladenden Ufern von Megalo Kabouri. Entspannen Sie sich am Sandstrand und genießen Sie die mediterrane Umgebung.\n\nBeenden Sie Ihre Radtour am belebten Strand von Varkiza. Die lebhafte Abendenergie ist die perfekte Kulisse, um den Tag bei einem unvergesslichen Sonnenuntergang ausklingen zu lassen.",
         "hu": "Kezdje kerékpáros kalandját Kserokhabos zord természete közepette, majd tekerjen a Plaz Limnes nyugodt, családbarát vizei felé egy frissítő reggeli szünetre.\n\nDélben tekerjen a lélegzetelállító Vouliagmeni-öböl mentén. Tartson egy kis szünetet, majd fedezze fel a klasszikus ókort Apollón Zosztér csodálatos templománál.\n\nDélutáni útja tovább viszi a partvonal mentén Megalo Kabouri hívogató partjaihoz. Pihenjen a homokos tengerparton, fürödjön egyet, és élvezze a napsütötte mediterrán környezetet.\n\nFejezze be kerékpártúráját a nyüzsgő Varkiza strandon. Az élénk esti energia tökéletes hátteret biztosít ahhoz, hogy biztonságosan leparkolja kerékpárját, és élvezze a naplementét.",
         "ro": "Începeți aventura cu bicicleta în mijlocul naturii aspre din Kserokhabos înainte de a pedala spre apele calme ale Plaz Limnes pentru o pauză de dimineață răcoritoare.\n\nLa prânz, mergeți cu bicicleta de-a lungul impresionantului Golf Vouliagmeni. Faceți o pauză pentru a aprecia priveliștile, apoi descoperiți antichitatea la Templul lui Apollo Zoster.\n\nPlimbarea de după-amiază vă duce mai departe de-a lungul coastei către țărmurile primitoare din Megalo Kabouri. Relaxați-vă pe plaja cu nisip și bucurați-vă de cadrul mediteranean.\n\nTerminați turul cu bicicleta la aglomerata plajă Varkiza. Energia vibrantă a serii este fundalul perfect pentru a vă parca bicicleta și a vă bucura de un apus memorabil pe litoral.",
-        "en": "Begin your cycling adventure amidst the rugged nature of Kserokhabos before pedaling towards the calm, family-friendly waters of Plaz Limnes for a refreshing morning break.\n\nAt midday, cycle along the breathtaking Vouliagmeni Bay. Pause to appreciate the striking Riviera views, then discover classical antiquity at the magnificent Temple of Apollo Zoster.\n\nYour afternoon ride takes you further along the coastline to the inviting shores of Megalo Kabouri. Relax on the sandy beach, swim, and enjoy the sun-drenched Mediterranean setting.\n\nFinish your cycling tour at the bustling Beach of Varkiza. The vibrant evening energy is the perfect backdrop to safely park your bike and enjoy a memorable seaside sunset."
+        "en": "Begin your cycling adventure amidst the rugged nature of Kserokhabos before pedaling towards the calm, family-friendly waters of Plaz Limnes for a refreshing morning break.\n\nAt midday, cycle along the breathtaking Vouliagmeni Bay. Pause to appreciate the striking Riviera views, then discover classical antiquity at the magnificent Temple of Apollo Zoster.\n\nYour afternoon ride takes you further along the coastline to the inviting shores of Megalo Kabouri. Relax on the sandy beach, swim, and enjoy the sun-drenched Mediterranean setting.\n\nFinish your cycling tour at the bustling Beach of Varkiza. The vibrant evening energy is the perfect backdrop to safely park your bike and enjoy a memorable seaside sunset.",
+        "el": "Ξεκινήστε την ποδηλατική σας περιπέτεια μέσα στη τραχιά φύση του Ξηροχάβου πριν ποδηλατήσετε προς τα ήρεμα, οικογενειακά νερά του Plaz Limnes για ένα δροσιστικό πρωινό διάλειμμα.\n\nΤο μεσημέρι, ποδηλατήστε κατά μήκος του εντυπωσιακού όρμου της Βουλιαγμένης. Σταματήστε για να εκτιμήσετε τις εντυπωσιακές θέες της Ριβιέρας και στη συνέχεια ανακαλύψτε την κλασική αρχαιότητα στον μεγαλοπρεπή Ναό του Απόλλωνα Ζωστήρα.\n\nΤο απογευματινό σας δρομολόγιο σας οδηγεί κατά μήκος της ακτής προς τις φιλόξενες ακτές του Μεγάλου Καβουρίου. Χαλαρώστε στην αμμουδιά, κολυμπήστε και απολαύστε το ηλιόλουστο μεσογειακό τοπίο.\n\nΟλοκληρώστε την ποδηλατική σας διαδρομή στην πολυσύχναστη παραλία της Βάρκιζας. Η ζωντανή βραδινή ενέργεια είναι το ιδανικό σκηνικό για να παρκάρετε με ασφάλεια το ποδήλατό σας και να απολαύσετε μια αξέχαστη παραλιακή δύση."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Eine Radtour im Regen erfordert Vorsicht auf den Küstenstraßen von Vouliagmeni. Starten Sie vorsichtig am Morgen und meiden Sie Pfützen. Mittags bieten die Buchten einen rauen, aber faszinierenden Anblick. Am Nachmittag sollten Sie die Tour aufgrund der rutschigen Fahrbahn etwas abkürzen und den Abend trocken in der Stadt verbringen.",
             "hu": "Az esős biciklitúra óvatosságot igényel Vouliagmeni part menti útjain. Induljon lassan reggel, és kerülje a mélyebb tócsákat. Délben az öblök vadregényes, de lenyűgöző látványt nyújtanak. Délután érdemes rövidebbre fogni a távot a csúszós aszfalt miatt, és az estét már száraz helyen tölteni.",
             "ro": "O tură cu bicicleta pe ploaie necesită prudență pe drumurile de coastă din Vouliagmeni. Începeți încet dimineața și evitați bălțile adânci. La prânz, golfurile oferă o priveliște sălbatică. După-amiaza, scurtați traseul din cauza asfaltului alunecos și petreceți seara într-un loc uscat.",
-            "en": "A rainy bike tour requires caution on the coastal roads of Vouliagmeni. Start slowly in the morning and avoid deep puddles. At noon, the bays offer a wild but fascinating view. In the afternoon, consider shortening your trip due to slippery asphalt and spend the evening somewhere dry."
+            "en": "A rainy bike tour requires caution on the coastal roads of Vouliagmeni. Start slowly in the morning and avoid deep puddles. At noon, the bays offer a wild but fascinating view. In the afternoon, consider shortening your trip due to slippery asphalt and spend the evening somewhere dry.",
+            "el": "Μια βροχερή ποδηλατική διαδρομή απαιτεί προσοχή στους παραθαλάσσιους δρόμους της Βουλιαγμένης. Ξεκινήστε αργά το πρωί και αποφύγετε βαθιές λακκούβες. Το μεσημέρι οι όρμοι προσφέρουν άγρια αλλά συναρπαστική θέα. Το απόγευμα, σκεφτείτε να συντομεύσετε το ταξίδι λόγω ολισθηρής ασφάλτου και περάστε το βράδυ σε στεγνό χώρο."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Kserokhabos",
                 "hu": "Kserokhabos",
                 "ro": "Kserokhabos",
-                "en": "Kserokhabos"
+                "en": "Kserokhabos",
+                "el": "Ξηροχάβος"
               },
               "tip_5lang": {
                 "de": "Die natürlichen Pfade können bei Regen schlammig sein; prüfen Sie Ihre Bremsen, bevor Sie die abschüssigen Wege befahren.",
                 "hu": "A természetes ösvények sárgásak lehetnek esőben; ellenőrizze a fékeket, mielőtt a lejtős részekre hajtana a csúszós talajon.",
                 "ro": "Potecile naturale pot fi noroioase; verificați frânele înainte de a intra pe porțiunile în pantă pe terenul alunecos.",
-                "en": "The natural paths can get muddy in the rain; check your brakes before heading onto downhill sections on the slippery ground."
+                "en": "The natural paths can get muddy in the rain; check your brakes before heading onto downhill sections on the slippery ground.",
+                "el": "Τα φυσικά μονοπάτια μπορεί να γίνουν λασπώδη στη βροχή — ελέγξτε τα φρένα πριν κατευθυνθείτε σε κατηφορικές διαδρομές σε ολισθηρό έδαφος."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Plaz Limnes",
                 "hu": "Plaz Limnes",
                 "ro": "Plaz Limnes",
-                "en": "Plaz limnes"
+                "en": "Plaz limnes",
+                "el": "Plaz Limnes"
               },
               "tip_5lang": {
                 "de": "Machen Sie eine Pause unter den Bäumen, um sich vor dem Schauer zu schützen; der Boden am Strand ist jetzt besonders weich.",
                 "hu": "Tartson egy rövid pihenőt a fák alatt, hogy védve legyen a záportól; a strand menti talaj most különösen felázott és puha.",
                 "ro": "Faceți o scurtă pauză sub copaci pentru a vă proteja de aversă; solul de lângă plajă este acum foarte moale și instabil.",
-                "en": "Take a short break under the trees to stay sheltered from the shower; the ground near the beach is now especially soft and soggy."
+                "en": "Take a short break under the trees to stay sheltered from the shower; the ground near the beach is now especially soft and soggy.",
+                "el": "Κάντε ένα σύντομο διάλειμμα κάτω από τα δέντρα για να παραμείνετε προστατευμένοι από τη μπόρα — το έδαφος κοντά στην παραλία είναι τώρα ιδιαίτερα μαλακό και βρεγμένο."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Bucht von Vouliagmeni",
                 "hu": "Vouliagmeni-öböl",
                 "ro": "Golful Vouliagmeni",
-                "en": "Vouliagmeni Bay"
+                "en": "Vouliagmeni Bay",
+                "el": "Όρμος Βουλιαγμένης"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig am Ufer entlang, da die Gischt und der Regen die Sicht einschränken; eine helle Regenjacke ist hier Pflicht.",
                 "hu": "Óvatosan kerekezzen a part mentén, mert a sűrű eső rontja a látási viszonyokat; egy láthatósági esőkabát viselése ajánlott.",
                 "ro": "Pedalați cu atenție pe mal, deoarece ploaia densă reduce vizibilitatea; purtarea unei pelerine reflectorizante este recomandată.",
-                "en": "Cycle carefully along the shore as heavy rain reduces visibility; wearing a high-visibility raincoat is highly recommended."
+                "en": "Cycle carefully along the shore as heavy rain reduces visibility; wearing a high-visibility raincoat is highly recommended.",
+                "el": "Ποδηλατήστε προσεκτικά κατά μήκος της ακτής καθώς η δυνατή βροχή μειώνει την ορατότητα — συνιστάται έντονα να φορέσετε αδιάβροχο υψηλής ορατότητας."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Tempel des Apollon Zoster",
                 "hu": "Apollón Zosztér temploma",
                 "ro": "Templul lui Apollo Zoster",
-                "en": "Temple of Apollo Zoster"
+                "en": "Temple of Apollo Zoster",
+                "el": "Ναός του Απόλλωνα Ζωστήρα"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad auf festem Grund und nutzen Sie die Tempelanlage für einen kurzen, nassen Rundgang mit festem Schuhwerk.",
                 "hu": "Parkolja le a biciklit szilárd talajon, és tegyen egy rövid kört a romoknál; vigyázzon, mert az antik kövek nagyon csúsznak.",
                 "ro": "Parcați bicicleta pe teren solid și faceți un scurt tur al ruinelor; atenție, pietrele antice sunt extrem de alunecoase când sunt ude.",
-                "en": "Park your bike on solid ground and take a short walk around the ruins; be careful as the ancient stones are very slippery when wet."
+                "en": "Park your bike on solid ground and take a short walk around the ruins; be careful as the ancient stones are very slippery when wet.",
+                "el": "Σταθμεύστε το ποδήλατό σας σε στεγνό και σταθερό έδαφος και περπατήστε γύρω από τα ερείπια — προσέξτε καθώς οι αρχαίες πέτρες γίνονται πολύ ολισθηρές όταν βρέχονται."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Megalo Kabouri",
                 "hu": "Megalo Kabouri",
                 "ro": "Megalo Kabouri",
-                "en": "Megalo Kabouri"
+                "en": "Megalo Kabouri",
+                "el": "Μεγάλο Καβούρι"
               },
               "tip_5lang": {
                 "de": "Dieser Freizeitort bietet einige überdachte Pavillons; nutzen Sie diese für eine trockene Rast, bevor Sie die Tour fortsetzen.",
                 "hu": "Ez a pihenőhely több fedett pavilonnal is rendelkezik; használja ezeket egy száraz pihenőre, mielőtt folytatná a tekerést.",
                 "ro": "Acest loc de recreere are mai multe pavilioane acoperite; folosiți-le pentru o pauză uscată înainte de a continua drumul.",
-                "en": "This recreational spot has several covered pavilions; use them for a dry rest break before you continue your ride."
+                "en": "This recreational spot has several covered pavilions; use them for a dry rest break before you continue your ride.",
+                "el": "Αυτό το σημείο αναψυχής διαθέτει αρκετά στεγασμένα κιόσκια — χρησιμοποιήστε τα για ένα στεγνό διάλειμμα πριν συνεχίσετε τη βόλτα σας."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Strand von Varkiza",
                 "hu": "Varkiza strand",
                 "ro": "Plaja Varkiza",
-                "en": "Beach of Varkiza"
+                "en": "Beach of Varkiza",
+                "el": "Παραλία Βάρκιζα"
               },
               "tip_5lang": {
                 "de": "Am Ende der Tour in Varkiza finden Sie Cafés direkt am Meer, in denen Sie Ihre nasse Kleidung bei einem heißen Kaffee trocknen können.",
                 "hu": "A túra végén Varkizán talál tengerparti kávézókat, ahol egy forró kávé mellett megszáríthatja átázott ruháit.",
                 "ro": "La finalul traseului în Varkiza veți găsi cafenele pe plajă, unde vă puteți usca hainele ude lângă o cafea fierbinte.",
-                "en": "At the end of the tour in Varkiza, you'll find seaside cafes where you can dry your wet clothes over a hot cup of coffee."
+                "en": "At the end of the tour in Varkiza, you'll find seaside cafes where you can dry your wet clothes over a hot cup of coffee.",
+                "el": "Στο τέλος της διαδρομής στη Βάρκιζα θα βρείτε παραθαλάσσια καφέ όπου μπορείτε να στεγνώσετε τα βρεγμένα ρούχα σας με ένα ζεστό φλιτζάνι καφέ."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Eine Wintertour mit dem Rad durch Vouliagmeni bietet klare Luft und leere Wege. Beginnen Sie am Morgen gut eingepackt mit Handschuhen. Am Mittag wärmt die Sonne trotz der kühlen Temperaturen angenehm. Beenden Sie die Fahrt vor 17:00 Uhr, da die Sicht bei Dämmerung schnell abnimmt. Der Abend gehört der Entspannung in einem geheizten Lokal.",
             "hu": "A téli kerékpártúra Vouliagmeniben tiszta levegőt és üres utakat ígér. Induljon reggel rétegesen öltözve, ne felejtse otthon a kesztyűt. Délben a nap kellemesen melegít a hűvös idő ellenére is. 17:00 előtt fejezze be a tekerést, mert a szürkületben gyorsan hűl a levegő. Az estét töltse egy fűtött helyen.",
             "ro": "O tură de iarnă cu bicicleta în Vouliagmeni oferă aer curat și drumuri libere. Începeți dimineața bine îmbrăcat, nu uitați mănușile. La prânz, soarele încălzește plăcut în ciuda frigului. Încheiați traseul înainte de ora 17:00, deoarece vizibilitatea scade rapid. Seara relaxați-vă într-un loc încălzit.",
-            "en": "A winter bike tour in Vouliagmeni offers crisp air and empty roads. Start the morning layered up and don't forget your gloves. At noon, the sun warms you pleasantly despite the cool weather. Finish your ride before 17:00 as it gets dark and cold quickly. Spend your evening in a cozy, heated spot."
+            "en": "A winter bike tour in Vouliagmeni offers crisp air and empty roads. Start the morning layered up and don't forget your gloves. At noon, the sun warms you pleasantly despite the cool weather. Finish your ride before 17:00 as it gets dark and cold quickly. Spend your evening in a cozy, heated spot.",
+            "el": "Μια χειμερινή ποδηλατική διαδρομή στη Βουλιαγμένη προσφέρει καθαρό αέρα και άδεια δρόμο — ξεκινήστε το πρωί ντυμένοι σε στρώσεις και μην ξεχάσετε τα γάντια. Το μεσημέρι ο ήλιος σας ζεσταίνει ευχάριστα παρά την ψυχρή ατμόσφαιρα. Ολοκληρώστε τη βόλτα πριν τις 17:00 καθώς σκοτεινιάζει και κρυώνει γρήγορα. Περάστε το βράδυ σε ένα ζεστό, θερμαινόμενο μέρος."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Kserokhabos",
                 "hu": "Kserokhabos",
                 "ro": "Kserokhabos",
-                "en": "Kserokhabos"
+                "en": "Kserokhabos",
+                "el": "Ξηροχάβος"
               },
               "tip_5lang": {
                 "de": "Die kühle Waldluft ist belebend; tragen Sie ein Halstuch, um sich beim Bergabfahren vor dem kalten Fahrtwind zu schützen.",
                 "hu": "A hűvös erdei levegő élénkítő; viseljen sálat vagy csősálat, hogy megvédje torkát a hideg menetszéltől a lejtőkön.",
                 "ro": "Aerul răcoros al pădurii este revigorant; purtați un fular pentru a vă proteja gâtul de curentul rece în timpul coborârilor.",
-                "en": "The cool forest air is invigorating; wear a neck gaiter to protect yourself from the cold wind during downhill sections."
+                "en": "The cool forest air is invigorating; wear a neck gaiter to protect yourself from the cold wind during downhill sections.",
+                "el": "Ο δροσερός αέρας του δάσους αναζωογονεί — φορέστε μανίκι λαιμού (neck gaiter) για να προστατευθείτε από τον κρύο άνεμο στις κατηφορικές διαδρομές."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Plaz Limnes",
                 "hu": "Plaz Limnes",
                 "ro": "Plaz Limnes",
-                "en": "Plaz limnes"
+                "en": "Plaz limnes",
+                "el": "Plaz Limnes"
               },
               "tip_5lang": {
                 "de": "Der Strand ist im Winter fast menschenleer; nutzen Sie den festen Sand am Spülsaum für ein kurzes Stück entspanntes Fahren.",
                 "hu": "A strand télen szinte teljesen néptelen; a part menti kemény homokon egy rövid szakaszon akár a biciklivel is végiggurulhat.",
                 "ro": "Plaja este aproape pustie iarna; puteți merge cu bicicleta pe nisipul tare de lângă apă pentru o scurtă porțiune relaxantă.",
-                "en": "The beach is almost deserted in winter; you can ride on the firm sand near the water for a brief, relaxed stretch."
+                "en": "The beach is almost deserted in winter; you can ride on the firm sand near the water for a brief, relaxed stretch.",
+                "el": "Η παραλία είναι σχεδόν έρημη το χειμώνα — μπορείτε να ποδηλατήσετε στην συμπαγή άμμο κοντά στο νερό για ένα σύντομο, χαλαρό κομμάτι."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Bucht von Vouliagmeni",
                 "hu": "Vouliagmeni-öböl",
                 "ro": "Golful Vouliagmeni",
-                "en": "Vouliagmeni Bay"
+                "en": "Vouliagmeni Bay",
+                "el": "Όρμος Βουλιαγμένης"
               },
               "tip_5lang": {
                 "de": "Halten Sie kurz an, um das intensive Blau des Meeres zu bewundern; eine Thermoskanne mit Tee hilft gegen das Auskühlen.",
                 "hu": "Álljon meg egy pillanatra megcsodálni a tenger mélykék színét; egy termosz meleg tea segít megelőzni a kihűlést a pihenő alatt.",
                 "ro": "Opriți-vă un moment pentru a admira albastrul intens al mării; un termos cu ceai cald vă va ajuta să vă mențineți temperatura.",
-                "en": "Stop for a moment to admire the deep blue of the sea; a thermos of warm tea will help prevent you from getting too chilled."
+                "en": "Stop for a moment to admire the deep blue of the sea; a thermos of warm tea will help prevent you from getting too chilled.",
+                "el": "Σταματήστε για μια στιγμή να θαυμάσετε το βαθύ μπλε της θάλασσας — ένα θερμός με ζεστό τσάι θα βοηθήσει να μην κρυώσετε."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Tempel des Apollon Zoster",
                 "hu": "Apollón Zosztér temploma",
                 "ro": "Templul lui Apollo Zoster",
-                "en": "Temple of Apollo Zoster"
+                "en": "Temple of Apollo Zoster",
+                "el": "Ναός του Απόλλωνα Ζωστήρα"
               },
               "tip_5lang": {
                 "de": "Die Ruinen wirken im Winterlicht sehr plastisch; achten Sie beim Abstellen des Rades auf Frostschäden am Untergrund.",
                 "hu": "A romok a téli fényben nagyon látványosak; a bicikli leparkolásakor ügyeljen a néhol fagyott, egyenetlen talajra.",
                 "ro": "Ruinele sunt foarte spectaculoase în lumina iernii; la parcarea bicicletei, atenție la solul care poate fi înghețat pe alocuri.",
-                "en": "The ruins look very striking in the winter light; when parking your bike, watch out for uneven ground that might be frozen."
+                "en": "The ruins look very striking in the winter light; when parking your bike, watch out for uneven ground that might be frozen.",
+                "el": "Τα ερείπια φαίνονται πολύ εντυπωσιακά στο χειμερινό φως — όταν σταθμεύετε το ποδήλατό σας προσέξτε ανώμαλο έδαφος που μπορεί να είναι παγωμένο."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Megalo Kabouri",
                 "hu": "Megalo Kabouri",
                 "ro": "Megalo Kabouri",
-                "en": "Megalo Kabouri"
+                "en": "Megalo Kabouri",
+                "el": "Μεγάλο Καβούρι"
               },
               "tip_5lang": {
                 "de": "Ein schöner Ort für eine Pause in der Wintersonne; bewegen Sie regelmäßig Ihre Finger, um die Durchblutung beim Radeln zu fördern.",
                 "hu": "Kiváló hely egy pihenőre a téli napsütésben; biciklizés közben mozgassa rendszeresen az ujjait a jó keringés megőrzéséhez.",
                 "ro": "Un loc excelent pentru o pauză în soarele iernii; în timp ce pedalați, mișcați degetele regulat pentru a menține circulația.",
-                "en": "A great spot for a break in the winter sun; while cycling, move your fingers regularly to maintain good circulation in the cold."
+                "en": "A great spot for a break in the winter sun; while cycling, move your fingers regularly to maintain good circulation in the cold.",
+                "el": "Εξαιρετικό σημείο για διάλειμμα στον χειμερινό ήλιο — κατά την ποδηλασία κουνήστε τα δάχτυλα τακτικά για να διατηρήσετε την καλή κυκλοφορία στο κρύο."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Strand von Varkiza",
                 "hu": "Varkiza strand",
                 "ro": "Plaja Varkiza",
-                "en": "Beach of Varkiza"
+                "en": "Beach of Varkiza",
+                "el": "Παραλία Βάρκιζα"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihre Tour hier vor dem Dunkelwerden um 17:00 Uhr; die Beleuchtung Ihres Rades sollte für den Rückweg geprüft sein.",
                 "hu": "Fejezze be a túrát a sötétedés előtt 17:00-kor; ellenőrizze a bicikli lámpáit, mielőtt elindulna a szállása felé.",
                 "ro": "Încheiați traseul înainte de lăsarea întunericului la ora 17:00; verificați luminile bicicletei înainte de a pleca spre cazare.",
-                "en": "Finish your tour here before it gets dark at 17:00; make sure to check your bike lights before heading back to your accommodation."
+                "en": "Finish your tour here before it gets dark at 17:00; make sure to check your bike lights before heading back to your accommodation.",
+                "el": "Ολοκληρώστε εδώ τη διαδρομή πριν σκοτεινιάσει στις 17:00 — ελέγξτε τα φώτα του ποδηλάτου πριν επιστρέψετε στη διαμονή σας."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Yabanaki",
             "hu": "Yabanaki",
             "ro": "Yabanaki",
-            "en": "Yabanaki"
+            "en": "Yabanaki",
+            "el": "Yabanaki"
           },
           "coords": [
             23.804606,
@@ -673,7 +746,8 @@
             "de": "Beginnen Sie am lebhaften Yabanaki-Komplex, der hervorragende Annehmlichkeiten für alle bietet, und buchen Sie Ihre Sonnenliege in den Sommermonaten unbedingt im Voraus.",
             "hu": "Kezdje a nyüzsgő Yabanaki komplexumban, amely kiváló kényelmi szolgáltatásokat kínál, és a nyári csúcsidőszakban mindenképpen foglalja le előre a napozóágyát.",
             "ro": "Începeți la complexul de agrement Yabanaki, care oferă facilități excelente pentru toate vârstele, și rezervați-vă șezlongul în avans în timpul lunilor de vară de vârf.",
-            "en": "Start at the lively Yabanaki recreational complex, which features excellent amenities for all ages, and book your sunbed in advance during the peak summer months."
+            "en": "Start at the lively Yabanaki recreational complex, which features excellent amenities for all ages, and book your sunbed in advance during the peak summer months.",
+            "el": "Ξεκινήστε από το ζωντανό συγκρότημα Yabanaki, που διαθέτει εξαιρετικές παροχές για όλες τις ηλικίες — κλείστε το ξαπλώστρα σας εκ των προτέρων την περίοδο αιχμής."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Bucht von Vari",
             "hu": "Vari-öböl",
             "ro": "Golful Vari",
-            "en": "Vari Bay"
+            "en": "Vari Bay",
+            "el": "Όρμος Βάρης"
           },
           "coords": [
             23.81107,
@@ -696,7 +771,8 @@
             "de": "Halten Sie kurz an der Bucht von Vari, um die ruhige maritime Landschaft und die weite Aussicht zu genießen, ein perfekter Fotostopp vor Ihrem nächsten Ziel.",
             "hu": "Álljon meg röviden a Vari-öbölnél, hogy megcsodálja a nyugodt tengeri tájat és a pazar kilátást, ami tökéletes gyors fotómegálló a következő úti cél előtt.",
             "ro": "Opriți-vă scurt la Golful Vari pentru a aprecia peisajul maritim senin și vederile panoramice, fiind un popas foto rapid perfect înainte de a merge mai departe.",
-            "en": "Stop briefly at Vari Bay to appreciate the serene maritime landscape and sweeping views, making it a perfect quick photo stop before heading to your next destination."
+            "en": "Stop briefly at Vari Bay to appreciate the serene maritime landscape and sweeping views, making it a perfect quick photo stop before heading to your next destination.",
+            "el": "Κάντε μια σύντομη στάση στον Όρμο Βάρης για να εκτιμήσετε το ήρεμο θαλάσσιο τοπίο και τις εκτεταμένες όψεις — ιδανικό γρήγορο σημείο φωτογράφισης πριν προχωρήσετε."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Plaz Limnes",
             "hu": "Plaz Limnes",
             "ro": "Plaz Limnes",
-            "en": "Plaz limnes"
+            "en": "Plaz limnes",
+            "el": "Plaz Limnes"
           },
           "coords": [
             23.785662,
@@ -719,7 +796,8 @@
             "de": "Entspannen Sie an den ruhigen Gewässern von Plaz Limnes, einem idealen Ort unweit des Zentrums, und kommen Sie früh, um sich einen Schattenplatz zu sichern.",
             "hu": "Pihenjen a Plaz Limnes nyugodt vizénél, amely tökéletes menedék a város közelében, és érkezzen korán, hogy biztosítson egy természetes árnyékos helyet.",
             "ro": "Relaxați-vă la apele calme ale Plaz Limnes, un refugiu ideal lângă oraș, și sosiți devreme pentru a vă asigura un loc excelent cu umbră naturală.",
-            "en": "Relax by the calm waters of Plaz Limnes, an ideal spot for unwinding near the city center, and arrive early to secure a prime spot with natural shade."
+            "en": "Relax by the calm waters of Plaz Limnes, an ideal spot for unwinding near the city center, and arrive early to secure a prime spot with natural shade.",
+            "el": "Χαλαρώστε δίπλα στα ήρεμα νερά του Plaz Limnes, ιδανικό σημείο για χαλάρωση κοντά στο κέντρο της πόλης — φτάστε νωρίς για να εξασφαλίσετε καλό σημείο με φυσική σκιά."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Bucht von Vouliagmeni",
             "hu": "Vouliagmeni-öböl",
             "ro": "Golful Vouliagmeni",
-            "en": "Vouliagmeni Bay"
+            "en": "Vouliagmeni Bay",
+            "el": "Όρμος Βουλιαγμένης"
           },
           "coords": [
             23.779475,
@@ -742,7 +821,8 @@
             "de": "Bewundern Sie die atemberaubende Aussicht auf die Vouliagmeni-Bucht, ein Wahrzeichen der Riviera, und halten Sie Ihre Kamera für das azurblaue Wasser bereit.",
             "hu": "Csodálja meg a Vouliagmeni-öböl lélegzetelállító panorámáját, az athéni riviéra meghatározó pontját, és tartsa készenlétben a fényképezőgépét az azúrkék vízhez.",
             "ro": "Admirați priveliștile panoramice uluitoare ale Golfului Vouliagmeni, un reper al Rivierei Ateniene, și țineți camera pregătită pentru apele de un albastru azuriu.",
-            "en": "Admire the breathtaking panoramic views of Vouliagmeni Bay, a defining landmark of the Athenian Riviera, and keep your camera ready for the stunning azure waters."
+            "en": "Admire the breathtaking panoramic views of Vouliagmeni Bay, a defining landmark of the Athenian Riviera, and keep your camera ready for the stunning azure waters.",
+            "el": "Θαυμάστε την εκπληκτική πανοραμική θέα του όρμου της Βουλιαγμένης, χαρακτηριστικού της Αθηναϊκής Ριβιέρας, και κρατήστε την κάμερά σας έτοιμη για τα σμαραγδένια νερά."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Tempel des Apollon Zoster",
             "hu": "Apollón Zosztér temploma",
             "ro": "Templul lui Apollo Zoster",
-            "en": "Temple of Apollo Zoster"
+            "en": "Temple of Apollo Zoster",
+            "el": "Ναός του Απόλλωνα Ζωστήρα"
           },
           "coords": [
             23.77373,
@@ -765,7 +846,8 @@
             "de": "Erkunden Sie den antiken Tempel des Apollon Zoster, einen faszinierenden archäologischen Schatz am Strand, und achten Sie auf die gut erhaltenen Marmorsockel.",
             "hu": "Fedezze fel Apollón Zosztér ősi templomát, a strand közelében rejtőző régészeti kincset, és figyelje meg a figyelemre méltóan jó állapotban fennmaradt márványtalapzatokat.",
             "ro": "Explorați vechiul Templu al lui Apollo Zoster, o comoară arheologică fascinantă ascunsă lângă plajă, și căutați bazele de marmură remarcabil de bine conservate.",
-            "en": "Explore the ancient Temple of Apollo Zoster, a fascinating archaeological treasure hidden near the beach, and look out for the remarkably preserved marble bases."
+            "en": "Explore the ancient Temple of Apollo Zoster, a fascinating archaeological treasure hidden near the beach, and look out for the remarkably preserved marble bases.",
+            "el": "Εξερευνήστε τον αρχαίο Ναό του Απόλλωνα Ζωστήρα, έναν συναρπαστικό αρχαιολογικό θησαυρό κοντά στην παραλία, και προσέξτε τις εξαιρετικά διατηρημένες μαρμάρινες βάσεις."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Vouliagmeni Fort",
             "hu": "Vouliagmeni erőd",
             "ro": "Fortul Vouliagmeni",
-            "en": "Vouliagmeni fort (Attica)"
+            "en": "Vouliagmeni fort (Attica)",
+            "el": "Φρούριο Βουλιαγμένης (Αττική)"
           },
           "coords": [
             23.77482,
@@ -788,7 +871,8 @@
             "de": "Spazieren Sie um das historische Vouliagmeni-Fort, um die Küstenverteidigung zu verstehen, und tragen Sie festes Schuhwerk, da das alte Gelände steinig ist.",
             "hu": "Sétáljon körbe a történelmi Vouliagmeni erődön, hogy megértse a régió partvédelmi múltját, és viseljen masszív lábbelit, mivel a terep meglehetősen sziklás lehet.",
             "ro": "Plimbați-vă prin istoricul fort Vouliagmeni pentru a înțelege apărarea de coastă a regiunii și purtați încălțăminte rezistentă, deoarece terenul antic este stâncos.",
-            "en": "Wander around the historic Vouliagmeni fort to understand the region's coastal defense history, and wear sturdy footwear as the ancient terrain can be quite rocky."
+            "en": "Wander around the historic Vouliagmeni fort to understand the region's coastal defense history, and wear sturdy footwear as the ancient terrain can be quite rocky.",
+            "el": "Περπατήστε γύρω από το ιστορικό φρούριο της Βουλιαγμένης για να κατανοήσετε την παράκτια αμυντική ιστορία της περιοχής — φορέστε γερό υπόδημα καθώς το αρχαίο έδαφος μπορεί να είναι αρκετά βραχώδες."
           }
         },
         {
@@ -796,7 +880,8 @@
             "de": "Nereides",
             "hu": "Nereides",
             "ro": "Nereides",
-            "en": "Nereides"
+            "en": "Nereides",
+            "el": "Νηρείδες"
           },
           "coords": [
             23.769241,
@@ -811,7 +896,8 @@
             "de": "Entspannen Sie in Nereides, einem bezaubernden Küstenort mit kristallklarem Wasser und ruhiger Umgebung, und bringen Sie eigene Schnorchelausrüstung zur Erkundung mit.",
             "hu": "Pihenjen a Nereidesnél, egy bájos tengerparti helyszínen, kristálytiszta vízzel, és hozzon magával saját búvárfelszerelést a tengeri élőlények felfedezéséhez.",
             "ro": "Relaxați-vă la Nereides, un loc de coastă fermecător, cu ape cristaline și un mediu liniștit, și aduceți-vă propriul echipament de snorkeling pentru a explora.",
-            "en": "Relax at Nereides, a charming coastal spot offering crystal-clear waters and peaceful surroundings, and bring your own snorkeling gear to explore the marine life."
+            "en": "Relax at Nereides, a charming coastal spot offering crystal-clear waters and peaceful surroundings, and bring your own snorkeling gear to explore the marine life.",
+            "el": "Χαλαρώστε στις Νηρείδες, ένα γοητευτικό θαλάσσιο σημείο με κρυστάλλινα νερά και ήρεμο περιβάλλον — φέρτε τον δικό σας εξοπλισμό αναπνευστικής μάσκας (snorkeling) για να εξερευνήσετε τη θαλάσσια ζωή."
           }
         }
       ],
@@ -819,7 +905,8 @@
         "de": "Starten Sie Ihren Roadtrip am lebhaften Yabanaki-Komplex für morgendliche Freizeit, gefolgt von einer malerischen Fahrt zur Bucht von Vari, um die herrliche Meereslandschaft zu bewundern.\n\nParken Sie mittags in der Nähe von Plaz Limnes für eine kurze Pause und fahren Sie dann entlang der ikonischen Bucht von Vouliagmeni. Danach können Sie die antiken Ruinen erkunden.\n\nIhre Nachmittagsroute beinhaltet die Erkundung der historischen Überreste des Vouliagmeni-Forts. Fahren Sie kurz darauf zum wunderschönen Strand Nereides, um sich herrlich zu entspannen.\n\nBeenden Sie Ihre Küstenfahrt, während die Dämmerung einsetzt. Das beruhigende Rauschen der Wellen markiert den perfekten Abschluss eines bereichernden und schönen Tages an der Riviera.",
         "hu": "Indítsa autós kirándulását a nyüzsgő Yabanaki komplexumban egy kis reggeli kikapcsolódással, majd tegyen egy festői utazást a Vari-öbölbe, és csodálja meg a csodás tengeri kilátást.\n\nDél körül parkoljon le a Plaz Limnes közelében egy rövid pihenőre, majd autózzon végig az ikonikus Vouliagmeni-öböl mentén. Ezután utazzon vissza az időben az ókori romoknál.\n\nA délutáni útiterv tartalmazza a Vouliagmeni erőd történelmi maradványainak felfedezését. Nem sokkal ezután vezessen le a gyönyörű Nereides strandra egy kis jól megérdemelt pihenésre.\n\nZárja tengerparti autózását a szürkület beálltával. A hullámok nyugtató hangja tökéletesen jelzi az athéni riviérát felfedező, élményekben gazdag és zökkenőmentes nap végét.",
         "ro": "Începeți călătoria rutieră la complexul vibrant Yabanaki pentru o dimineață de agrement, urmată de o plimbare pitorească până la Golful Vari pentru a admira priveliștile sale maritime.\n\nPână la prânz, parcați lângă Plaz Limnes pentru o scurtă pauză, apoi navigați de-a lungul emblematicului Golf Vouliagmeni. Apoi, pășiți înapoi în timp la ruinele antice.\n\nItinerariul dvs. de după-amiază include explorarea rămășițelor istorice ale fortului Vouliagmeni. La scurt timp, conduceți spre frumoasa plajă Nereides pentru relaxare.\n\nÎncheiați-vă plimbarea pe coastă odată cu lăsarea amurgului. Sunetul liniștitor al valurilor marchează perfect sfârșitul unei zile pline de satisfacții explorând Riviera.",
-        "en": "Kick off your road trip at the vibrant Yabanaki complex for morning leisure, followed by a scenic drive to Vari Bay to admire its sweeping, picturesque maritime views.\n\nBy midday, park near Plaz Limnes for a short break, then cruise along the iconic Vouliagmeni Bay. Afterwards, step back in time at the ancient ruins of the Temple of Apollo Zoster.\n\nYour afternoon itinerary includes exploring the historic remnants of the Vouliagmeni fort. Soon after, drive down to the beautiful Nereides beach for some much-needed relaxation.\n\nWrap up your coastal drive as twilight sets in. The calming sound of the waves at the Nereides coast perfectly marks the end of an enriching and seamless day exploring the Riviera."
+        "en": "Kick off your road trip at the vibrant Yabanaki complex for morning leisure, followed by a scenic drive to Vari Bay to admire its sweeping, picturesque maritime views.\n\nBy midday, park near Plaz Limnes for a short break, then cruise along the iconic Vouliagmeni Bay. Afterwards, step back in time at the ancient ruins of the Temple of Apollo Zoster.\n\nYour afternoon itinerary includes exploring the historic remnants of the Vouliagmeni fort. Soon after, drive down to the beautiful Nereides beach for some much-needed relaxation.\n\nWrap up your coastal drive as twilight sets in. The calming sound of the waves at the Nereides coast perfectly marks the end of an enriching and seamless day exploring the Riviera.",
+        "el": "Ξεκινήστε την οδική σας εκδρομή από το ζωντανό συγκρότημα Yabanaki για πρωινή αναψυχή, ακολουθούμενο από μια γραφική διαδρομή προς τον Όρμο Βάρης για να θαυμάσετε τις εκτεταμένες, γραφικές θαλάσσιες όψεις.\n\nΜέχρι το μεσημέρι, σταθμεύστε κοντά στο Plaz Limnes για ένα σύντομο διάλειμμα και στη συνέχεια διασχίστε τον εμβληματικό όρμο της Βουλιαγμένης. Έπειτα, μεταφερθείτε πίσω στον χρόνο στα αρχαία ερείπια του Ναού του Απόλλωνα Ζωστήρα.\n\nΤο απογευματινό σας πρόγραμμα περιλαμβάνει εξερεύνηση των ιστορικών καταλοίπων του φρουρίου της Βουλιαγμένης. Σύντομα μετά, οδηγήστε προς την όμορφη παραλία των Νηρείδων για απαραίτητη χαλάρωση.\n\nΟλοκληρώστε την παραθαλάσσια βόλτα σας καθώς πέφτει το λυκόφως. Ο καταπραϋντικός ήχος των κυμάτων στις Νηρείδες σηματοδοτεί ιδανικά το τέλος μιας εμπλουτιστικής κι άνετης μέρας εξερεύνησης της Ριβιέρας."
       },
       "variants": {
         "rainy": {
@@ -827,7 +914,8 @@
             "de": "Vouliagmeni lässt sich bei Regen am bequemsten mit dem Auto erkunden. Genießen Sie am Morgen die Fahrt entlang der Küstenstraße, während die Scheibenwischer den Blick freigeben. Mittags können Sie direkt an den Sehenswürdigkeiten parken und kurze, trockene Abstecher machen. Nachmittags bietet das Auto den perfekten Rückzugsort vor den Schauern. Der Abend endet trocken und entspannt.",
             "hu": "Vouliagmeni esőben legkényelmesebben autóval fedezhető fel. Élvezze reggel a part menti autózást, miközben az ablaktörlők tiszta kilátást biztosítanak. Délben parkoljon közvetlenül a látnivalóknál a gyors, száraz látogatás érdekében. Délután az autó tökéletes menedéket nyújt a záporok elől. Az estét töltheti egy tágas, fedett parkolóval rendelkező étteremben.",
             "ro": "Vouliagmeni este cel mai confortabil de explorat cu mașina pe ploaie. Bucurați-vă dimineața de drumul de coastă, în timp ce ștergătoarele asigură vizibilitatea. La prânz, parcați direct lângă atracții pentru vizite scurte și uscate. După-amiaza, mașina oferă refugiul perfect. Seara se poate încheia la un restaurant cu parcare acoperită.",
-            "en": "Vouliagmeni is most comfortably explored by car in the rain. Enjoy the coastal drive in the morning as the wipers clear your view. At noon, park directly near the sights for quick, dry visits. In the afternoon, the car provides a perfect sanctuary from the showers. End your evening at a restaurant with convenient covered parking."
+            "en": "Vouliagmeni is most comfortably explored by car in the rain. Enjoy the coastal drive in the morning as the wipers clear your view. At noon, park directly near the sights for quick, dry visits. In the afternoon, the car provides a perfect sanctuary from the showers. End your evening at a restaurant with convenient covered parking.",
+            "el": "Η Βουλιαγμένη εξερευνάται πιο άνετα με αυτοκίνητο στη βροχή. Απολαύστε τη διαδρομή κατά μήκος της ακτής το πρωί καθώς οι υαλοκαθαριστήρες καθαρίζουν την όρασή σας. Το μεσημέρι, σταθμεύστε κοντά στα αξιοθέατα για γρήγορες, στεγνές επισκέψεις. Το απόγευμα, το αυτοκίνητο προσφέρει τέλειο καταφύγιο από τις μπόρες. Τελειώστε το βράδυ σας σε εστιατόριο με βολικό στεγασμένο χώρο στάθμευσης."
           },
           "stops": [
             {
@@ -835,13 +923,15 @@
                 "de": "Yabanaki",
                 "hu": "Yabanaki",
                 "ro": "Yabanaki",
-                "en": "Yabanaki"
+                "en": "Yabanaki",
+                "el": "Yabanaki"
               },
               "tip_5lang": {
                 "de": "Parken Sie auf dem befestigten Parkplatz, um Schlamm zu vermeiden; beobachten Sie den Regen auf dem Meer direkt vom warmen Auto aus.",
                 "hu": "Parkoljon a szilárd burkolatú helyeken, hogy elkerülje a sarat; csodálja a tengerre hulló esőt közvetlenül a meleg autóból.",
                 "ro": "Parcați pe locurile pavate pentru a evita noroiul; admirați ploaia de peste mare direct din confortul mașinii încălzite.",
-                "en": "Park on paved spots to avoid the mud; admire the rain falling over the sea directly from the comfort of your warm car."
+                "en": "Park on paved spots to avoid the mud; admire the rain falling over the sea directly from the comfort of your warm car.",
+                "el": "Σταθμεύστε σε ασφαλείς, στρωμένους χώρους για να αποφύγετε τη λάσπη· θαυμάστε τη βροχή που πέφτει πάνω στη θάλασσα από τη ζεστασιά του αυτοκινήτου σας."
               }
             },
             {
@@ -849,13 +939,15 @@
                 "de": "Bucht von Vari",
                 "hu": "Vari-öböl",
                 "ro": "Golful Vari",
-                "en": "Vari Bay"
+                "en": "Vari Bay",
+                "el": "Κόλπος Βάρης"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Stopp am Aussichtspunkt lohnt sich; halten Sie einen Regenschirm für den Weg vom Parkplatz zum Geländer bereit.",
                 "hu": "Egy rövid megálló a kilátópontnál megéri; tartson készenlétben egy esernyőt a parkolótól a korlátig tartó pár méteres útra.",
                 "ro": "O scurtă oprire la punctul de belvedere merită; aveți umbrela pregătită pentru drumul scurt de la parcare până la balustradă.",
-                "en": "A quick stop at the viewpoint is worth it; keep an umbrella handy for the short walk from the parking lot to the railing."
+                "en": "A quick stop at the viewpoint is worth it; keep an umbrella handy for the short walk from the parking lot to the railing.",
+                "el": "Μια σύντομη στάση στο σημείο θέας αξίζει· να έχετε μια ομπρέλα κοντά για το μικρό περπάτημα από το πάρκινγκ μέχρι το κιγκλίδωμα."
               }
             },
             {
@@ -863,13 +955,15 @@
                 "de": "Plaz Limnes",
                 "hu": "Plaz Limnes",
                 "ro": "Plaz Limnes",
-                "en": "Plaz limnes"
+                "en": "Plaz limnes",
+                "el": "Plaz limnes"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den nahen Parkplatz für einen schnellen Blick auf den Strand; die Küstenstraße kann bei starkem Regen stellenweise überflutet sein.",
                 "hu": "Használja a közeli parkolót egy gyors pillantásra a strandra; a part menti út erős esőben helyenként vízátfolyásos lehet.",
                 "ro": "Folosiți parcarea apropiată pentru o privire rapidă spre plajă; drumul de coastă poate fi inundat pe alocuri în caz de ploaie torențială.",
-                "en": "Use the nearby parking for a quick glance at the beach; be aware that the coastal road may have puddles or flooding during heavy rain."
+                "en": "Use the nearby parking for a quick glance at the beach; be aware that the coastal road may have puddles or flooding during heavy rain.",
+                "el": "Χρησιμοποιήστε το διπλανό πάρκινγκ για μια γρήγορη ματιά στην παραλία· προσέξτε ότι ο παράκτιος δρόμος μπορεί να έχει λακκούβες ή πλημμύρες σε δυνατή βροχή."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Bucht von Vouliagmeni",
                 "hu": "Vouliagmeni-öböl",
                 "ro": "Golful Vouliagmeni",
-                "en": "Vouliagmeni Bay"
+                "en": "Vouliagmeni Bay",
+                "el": "Κόλπος Βουλιαγμένης"
               },
               "tip_5lang": {
                 "de": "Die Bucht bietet auch im Regen tolle Fotomotive; bleiben Sie für Bilder im Auto und nutzen Sie das geöffnete Fenster nur kurz.",
                 "hu": "Az öböl esőben is remek fotótéma; maradjon az autóban a képek készítéséhez, és csak rövid időre húzza le az ablakot.",
                 "ro": "Golful este un subiect foto excelent chiar și pe ploaie; rămâneți în mașină pentru poze și coborâți geamul doar pentru scurt timp.",
-                "en": "The bay is a great photo subject even in the rain; stay inside the car for pictures and only roll down the window briefly."
+                "en": "The bay is a great photo subject even in the rain; stay inside the car for pictures and only roll down the window briefly.",
+                "el": "Ο κόλπος είναι ωραίο φωτογραφικό θέμα ακόμα και στη βροχή· μείνετε μέσα στο αυτοκίνητο για φωτογραφίες και χαμηλώστε το παράθυρο μόνο για λίγο."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Tempel des Apollon Zoster",
                 "hu": "Apollón Zosztér temploma",
                 "ro": "Templul lui Apollo Zoster",
-                "en": "Temple of Apollo Zoster"
+                "en": "Temple of Apollo Zoster",
+                "el": "Ναός του Απόλλωνα Ζωστήρα"
               },
               "tip_5lang": {
                 "de": "Da der Tempel im Freien liegt, empfiehlt sich ein Besuch zwischen den Schauern; parken Sie so nah wie möglich am Eingang.",
                 "hu": "Mivel a templom teljesen nyitott, érdemes két zápor között meglátogatni; parkoljon a lehető legközelebb a bejárathoz.",
                 "ro": "Deoarece templul este în aer liber, vizitați-l între două averse; parcați cât mai aproape posibil de intrare.",
-                "en": "Since the temple is completely open, visit it between showers; park as close to the entrance as possible for a quick dash."
+                "en": "Since the temple is completely open, visit it between showers; park as close to the entrance as possible for a quick dash.",
+                "el": "Εφόσον ο ναός είναι εντελώς ακάλυπτος, επισκεφθείτε τον ανάμεσα στις μπόρες· παρκάρετε όσο το δυνατόν πιο κοντά στην είσοδο για ένα γρήγορο τρέξιμο."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Vouliagmeni Fort",
                 "hu": "Vouliagmeni erőd",
                 "ro": "Fortul Vouliagmeni",
-                "en": "Vouliagmeni fort (Attica)"
+                "en": "Vouliagmeni fort (Attica)",
+                "el": "Φρούριο Βουλιαγμένης (Αττική)"
               },
               "tip_5lang": {
                 "de": "Vom Parkplatz des Forts hat man eine gute Aussicht; achten Sie beim Aussteigen auf starke Windböen, die die Autotür erfassen könnten.",
                 "hu": "Az erőd parkolójából jó a kilátás; kiszálláskor ügyeljen az erős széllökésekre, amelyek hirtelen feltéphetik az ajtót.",
                 "ro": "Din parcarea fortului aveți o vedere bună; la coborâre, atenție la rafalele de vânt care pot smulge portiera mașinii.",
-                "en": "The fort's parking area offers good views; watch out for strong wind gusts when getting out, as they can catch the car door."
+                "en": "The fort's parking area offers good views; watch out for strong wind gusts when getting out, as they can catch the car door.",
+                "el": "Η περιοχή στάθμευσης του φρουρίου προσφέρει καλές απόψεις· προσέξτε ισχυρούς ριπές ανέμου όταν βγαίνετε, καθώς μπορεί να δράσουν στην πόρτα του αυτοκινήτου."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Nereides",
                 "hu": "Nereides",
                 "ro": "Nereides",
-                "en": "Nereides"
+                "en": "Nereides",
+                "el": "Nereides"
               },
               "tip_5lang": {
                 "de": "Beenden Sie den Tag hier entspannt; das Auto bietet Platz für nasse Schirme, während Sie den Ausblick geschützt genießen.",
                 "hu": "Zárja itt a napot kényelmesen; az autóban van hely a vizes esernyőknek, miközben ön a védett utastérből élvezi a panorámát.",
                 "ro": "Încheiați ziua confortabil aici; mașina are loc pentru umbrelele ude, în timp ce vă bucurați de panoramă din interiorul protejat.",
-                "en": "End your day comfortably here; the car provides space for wet umbrellas while you enjoy the view from the protected cabin."
+                "en": "End your day comfortably here; the car provides space for wet umbrellas while you enjoy the view from the protected cabin.",
+                "el": "Τελειώστε τη μέρα άνετα εδώ· το αυτοκίνητο παρέχει χώρο για βρεγμένες ομπρέλες ενώ απολαμβάνετε τη θέα από την προστατευμένη καμπίνα."
               }
             }
           ]
@@ -935,7 +1037,8 @@
             "de": "Winterliche Autofahrten in Vouliagmeni sind entspannt und bieten klare Küstenpanoramen. Starten Sie am Morgen mit eingeschalteter Heizung und genießen Sie die leeren Straßen. Mittags laden die Aussichtspunkte zu kurzen Stopps ein, ohne dass man frieren muss. Beenden Sie die Sightseeing-Fahrt vor dem frühen Sonnenuntergang um 17:00 Uhr. Den Abend verbringen Sie gemütlich im Ort.",
             "hu": "A téli autózás Vouliagmeniben nyugodt élmény, tiszta parti panorámával. Induljon reggel fűtött autóval, és élvezze az üres utakat. Délben a kilátópontoknál rövid megállókat tehet anélkül, hogy átfagyna. 17:00-kor már sötétedik, így addigra fejezze be a városnézést. Az estét töltse egy hangulatos, fűtött helyi étteremben.",
             "ro": "Condusul iarna în Vouliagmeni este o experiență relaxantă, cu panorame clare. Începeți dimineața cu mașina încălzită și bucurați-vă de drumurile libere. La prânz, faceți opriri scurte la punctele de belvedere. Se întunecă la ora 17:00, deci terminați vizitarea până atunci. Seara, relaxați-vă la un restaurant local.",
-            "en": "Winter driving in Vouliagmeni is a relaxed experience with clear coastal panoramas. Start the morning with the heater on and enjoy the empty roads. At noon, take short breaks at viewpoints without getting too cold. It gets dark by 17:00, so finish your sightseeing by then. Spend the evening in a cozy, heated local restaurant."
+            "en": "Winter driving in Vouliagmeni is a relaxed experience with clear coastal panoramas. Start the morning with the heater on and enjoy the empty roads. At noon, take short breaks at viewpoints without getting too cold. It gets dark by 17:00, so finish your sightseeing by then. Spend the evening in a cozy, heated local restaurant.",
+            "el": "Η οδήγηση το χειμώνα στη Βουλιαγμένη είναι χαλαρή εμπειρία με καθαρές παράκτιες πανοραμικές. Ξεκινήστε το πρωί με τη θέρμανση ανοιχτή και απολαύστε τους άδειους δρόμους. Το μεσημέρι κάντε σύντομες στάσεις στα σημεία θέας χωρίς να κρυώσετε πολύ. Σκοτεινιάζει γύρω στις 17:00, οπότε ολοκληρώστε τα αξιοθέατα μέχρι τότε. Περάστε το βράδυ σε ένα ζεστό, θερμαινόμενο τοπικό εστιατόριο."
           },
           "stops": [
             {
@@ -943,13 +1046,15 @@
                 "de": "Yabanaki",
                 "hu": "Yabanaki",
                 "ro": "Yabanaki",
-                "en": "Yabanaki"
+                "en": "Yabanaki",
+                "el": "Yabanaki"
               },
               "tip_5lang": {
                 "de": "Der Parkplatz ist im Winter fast leer; genießen Sie die winterliche Ruhe am Strand, bevor Sie die Heizung im Auto wieder aufdrehen.",
                 "hu": "A parkoló télen szinte üres; élvezze a strand téli nyugalmát egy rövid séta erejéig, mielőtt újra feltekerné a fűtést az autóban.",
                 "ro": "Parcarea este aproape goală iarna; bucurați-vă de liniștea plajei pentru o scurtă plimbare înainte de a porni iar căldura în mașină.",
-                "en": "The parking lot is almost empty in winter; enjoy the winter peace of the beach for a short walk before turning the heater back up."
+                "en": "The parking lot is almost empty in winter; enjoy the winter peace of the beach for a short walk before turning the heater back up.",
+                "el": "Το πάρκινγκ είναι σχεδόν άδειο το χειμώνα· απολαύστε την χειμερινή ηρεμία της παραλίας για ένα σύντομο περίπατο πριν ανεβάσετε ξανά τη θέρμανση."
               }
             },
             {
@@ -957,13 +1062,15 @@
                 "de": "Bucht von Vari",
                 "hu": "Vari-öböl",
                 "ro": "Golful Vari",
-                "en": "Vari Bay"
+                "en": "Vari Bay",
+                "el": "Κόλπος Βάρης"
               },
               "tip_5lang": {
                 "de": "Die Fernsicht über die Bucht ist im Winter oft besser; halten Sie am Straßenrand und nutzen Sie das Auto als Windschutz für Fotos.",
                 "hu": "A kilátás az öbölre télen gyakran tisztább; álljon meg az út mentén, és használja az autót szélfogóként a fotózáshoz.",
                 "ro": "Vizibilitatea asupra golfului este adesea mai bună iarna; opriți pe marginea drumului și folosiți mașina ca paravan pentru poze.",
-                "en": "Visibility over the bay is often clearer in winter; pull over and use the car as a windbreak while taking photos of the scenery."
+                "en": "Visibility over the bay is often clearer in winter; pull over and use the car as a windbreak while taking photos of the scenery.",
+                "el": "Η ορατότητα πάνω από τον κόλπο είναι συχνά πιο καθαρή το χειμώνα· σταθμεύστε στο πλάι και χρησιμοποιήστε το αυτοκίνητο ως προστασία από τον άνεμο ενώ τραβάτε φωτογραφίες."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Plaz Limnes",
                 "hu": "Plaz Limnes",
                 "ro": "Plaz Limnes",
-                "en": "Plaz limnes"
+                "en": "Plaz limnes",
+                "el": "Plaz limnes"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Stopp reicht aus, um die Brandung zu sehen; prüfen Sie im Winter regelmäßig den Reifendruck bei sinkenden Temperaturen.",
                 "hu": "Egy rövid megálló is elég a hullámzás megcsodálásához; télen rendszeresen ellenőrizze a guminyomást a csökkenő hőmérséklet miatt.",
                 "ro": "O scurtă oprire este suficientă pentru a admira valurile; iarna, verificați regulat presiunea în pneuri din cauza frigului.",
-                "en": "A brief stop is enough to admire the surf; in winter, remember to check your tire pressure regularly as temperatures drop."
+                "en": "A brief stop is enough to admire the surf; in winter, remember to check your tire pressure regularly as temperatures drop.",
+                "el": "Μια σύντομη στάση αρκεί για να θαυμάσετε τα κύματα· το χειμώνα θυμηθείτε να ελέγχετε τακτικά την πίεση των ελαστικών καθώς πέφτουν οι θερμοκρασίες."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Bucht von Vouliagmeni",
                 "hu": "Vouliagmeni-öböl",
                 "ro": "Golful Vouliagmeni",
-                "en": "Vouliagmeni Bay"
+                "en": "Vouliagmeni Bay",
+                "el": "Κόλπος Βουλιαγμένης"
               },
               "tip_5lang": {
                 "de": "Parken Sie direkt mit Blick auf das Wasser; im Winter wirkt die Bucht besonders friedlich und das Licht ist perfekt für Porträts.",
                 "hu": "Parkoljon közvetlenül a vízre néző helyen; télen az öböl különösen békés, és a fények tökéletesek a portréfotózáshoz.",
                 "ro": "Parcați direct cu vedere la apă; iarna golful este extrem de liniștit, iar lumina este perfectă pentru fotografii portret.",
-                "en": "Park directly facing the water; in winter the bay is especially peaceful, and the light is perfect for portrait photography."
+                "en": "Park directly facing the water; in winter the bay is especially peaceful, and the light is perfect for portrait photography.",
+                "el": "Σταθμεύστε έτσι ώστε να βλέπετε απευθείας το νερό· το χειμώνα ο κόλπος είναι ιδιαίτερα ήρεμος και το φως ιδανικό για πορτραίτα."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Tempel des Apollon Zoster",
                 "hu": "Apollón Zosztér temploma",
                 "ro": "Templul lui Apollo Zoster",
-                "en": "Temple of Apollo Zoster"
+                "en": "Temple of Apollo Zoster",
+                "el": "Ναός του Απόλλωνα Ζωστήρα"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Ruinen am frühen Nachmittag, wenn es am wärmsten ist; ziehen Sie sich für den Rundgang auf dem Gelände warm an.",
                 "hu": "Látogassa meg a romokat kora délután, amikor a legmelegebb van; öltözzön fel rétegesen a nyitott területen tett sétához.",
                 "ro": "Vizitați ruinele la începutul după-amiezii, când este cel mai cald; îmbrăcați-vă gros pentru plimbarea în zona deschisă.",
-                "en": "Visit the ruins in the early afternoon when it's warmest; dress in warm layers for the walk around the open archeological site."
+                "en": "Visit the ruins in the early afternoon when it's warmest; dress in warm layers for the walk around the open archeological site.",
+                "el": "Επισκεφθείτε τα ερείπια νωρίς το απόγευμα όταν είναι πιο ζεστά· ντυθείτε με ζεστά στρώματα για το περπάτημα γύρω από τον ακάλυπτο αρχαιολογικό χώρο."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Vouliagmeni Fort",
                 "hu": "Vouliagmeni erőd",
                 "ro": "Fortul Vouliagmeni",
-                "en": "Vouliagmeni fort (Attica)"
+                "en": "Vouliagmeni fort (Attica)",
+                "el": "Φρούριο Βουλιαγμένης (Αττική)"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den weiten Blick, bevor die Sonne um 17:00 Uhr untergeht; die Parkwege zum Fort können im Winter etwas glatt sein.",
                 "hu": "Élvezze a tágas kilátást, mielőtt a nap 17:00-kor lebukik; az erődhöz vezető utak télen néhol csúszósak lehetnek.",
                 "ro": "Bucurați-vă de vederea panoramică înainte de apusul de la ora 17:00; drumurile spre fort pot fi alunecoase iarna.",
-                "en": "Enjoy the expansive view before the sun sets at 17:00; the paths leading to the fort can be a bit slick in winter."
+                "en": "Enjoy the expansive view before the sun sets at 17:00; the paths leading to the fort can be a bit slick in winter.",
+                "el": "Απολαύστε την απλωμένη θέα πριν το ηλιοβασίλεμα στις 17:00· τα μονοπάτια που οδηγούν στο φρούριο μπορεί να γλιστράνε λίγο το χειμώνα."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Nereides",
                 "hu": "Nereides",
                 "ro": "Nereides",
-                "en": "Nereides"
+                "en": "Nereides",
+                "el": "Nereides"
               },
               "tip_5lang": {
                 "de": "Lassen Sie den Tag bei Sonnenuntergang im Auto ausklingen; die winterliche Dämmerung bietet hier oft spektakuläre Farben.",
                 "hu": "Zárja a napot a naplementével az autóban ülve; a téli szürkület itt gyakran látványos színekkel ajándékozza meg a látogatót.",
                 "ro": "Încheiați ziua cu apusul văzut din mașină; amurgul de iarnă oferă adesea culori spectaculoase în această locație.",
-                "en": "End your day watching the sunset from your car; the winter twilight here often provides spectacular colors for your finale."
+                "en": "End your day watching the sunset from your car; the winter twilight here often provides spectacular colors for your finale.",
+                "el": "Τελειώστε τη μέρα παρακολουθώντας το ηλιοβασίλεμα από το αυτοκίνητό σας· το χειμερινό λυκόφως εδώ συχνά προσφέρει εντυπωσιακά χρώματα για το φινάλε."
               }
             }
           ]

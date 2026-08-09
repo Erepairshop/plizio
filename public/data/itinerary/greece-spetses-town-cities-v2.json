@@ -21,7 +21,8 @@
             "de": "Dapia (Hauptplatz)",
             "hu": "Dapia (Főtér)",
             "ro": "Dapia (Piața Principală)",
-            "en": "Dapia (Main Square)"
+            "en": "Dapia (Main Square)",
+            "el": "Δαπία (Κεντρική Πλατεία)"
           },
           "coords": [
             23.1667,
@@ -37,7 +38,8 @@
             "de": "Starten Sie den Tag mit einem Freddo Cappuccino in einem der Hafencafés und beobachten Sie das Treiben.",
             "hu": "Indítsa a napot egy freddo cappuccinóval a kikötői kávézók egyikében, és figyelje a nyüzsgést.",
             "ro": "Începeți ziua cu un freddo cappuccino la una dintre cafenelele din port și priviți agitația.",
-            "en": "Start your day with a Freddo Cappuccino at one of the portside cafes and watch the world go by."
+            "en": "Start your day with a Freddo Cappuccino at one of the portside cafes and watch the world go by.",
+            "el": "Ξεκινήστε τη μέρα σας με ένα Freddo Cappuccino σε ένα από τα καφέ της προκυμαίας και παρακολουθήστε τη ζωή να περνά."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Poseidonion Grand Hotel",
             "hu": "Poseidonion Grand Hotel",
             "ro": "Poseidonion Grand Hotel",
-            "en": "Poseidonion Grand Hotel"
+            "en": "Poseidonion Grand Hotel",
+            "el": "Poseidonion Grand Hotel"
           },
           "coords": [
             23.165,
@@ -61,7 +64,8 @@
             "de": "Auch wenn Sie nicht hier übernachten, bewundern Sie die Belle-Époque-Architektur von der Promenade aus.",
             "hu": "Még ha nem is itt száll meg, csodálja meg a Belle Époque építészetét a sétányról.",
             "ro": "Chiar dacă nu stați aici, admirați arhitectura Belle Époque de pe promenadă.",
-            "en": "Even if you're not staying, admire the Belle Époque architecture from the promenade."
+            "en": "Even if you're not staying, admire the Belle Époque architecture from the promenade.",
+            "el": "Ακόμα κι αν δεν μένετε, θαυμάστε την αρχιτεκτονική Belle Époque από την παραλία."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Bouboulina-Museum",
             "hu": "Bubulina Múzeum",
             "ro": "Muzeul Bouboulina",
-            "en": "Bouboulina Museum"
+            "en": "Bouboulina Museum",
+            "el": "Μουσείο Μπουμπουλίνας"
           },
           "coords": [
             23.1658,
@@ -85,7 +90,8 @@
             "de": "Nehmen Sie an einer Führung teil, um die fesselnde Geschichte der Heldin der griechischen Revolution zu hören.",
             "hu": "Vegyen részt egy tárlatvezetésen, hogy meghallgassa a görög forradalom hősnőjének lebilincselő történetét.",
             "ro": "Participați la un tur ghidat pentru a auzi povestea captivantă a eroinei Revoluției Grecești.",
-            "en": "Join a guided tour to hear the captivating story of the Greek Revolution's heroine."
+            "en": "Join a guided tour to hear the captivating story of the Greek Revolution's heroine.",
+            "el": "Συμμετέχετε σε ξεναγούμενη ξενάγηση για να ακούσετε την συναρπαστική ιστορία της ηρωίδας της Ελληνικής Επανάστασης."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Kirche Agios Nikolaos",
             "hu": "Szent Miklós-templom",
             "ro": "Biserica Agios Nikolaos",
-            "en": "Church of Agios Nikolaos"
+            "en": "Church of Agios Nikolaos",
+            "el": "Εκκλησία του Αγίου Νικολάου"
           },
           "coords": [
             23.169,
@@ -109,7 +116,8 @@
             "de": "Achten Sie auf das wunderschöne Kieselsteinmosaik im Innenhof, das einen Dreizack darstellt.",
             "hu": "Figyelje meg a gyönyörű kavicsmozaikot az udvaron, amely egy háromágú szigonyt ábrázol.",
             "ro": "Observați frumosul mozaic din pietricele din curte, care înfățișează un trident.",
-            "en": "Look for the beautiful pebble mosaic in the courtyard depicting a trident."
+            "en": "Look for the beautiful pebble mosaic in the courtyard depicting a trident.",
+            "el": "Ψάξτε για το όμορφο ψηφιδωτό από βότσαλο στην αυλή που απεικονίζει τρίαινα."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Spetses-Museum",
             "hu": "Szpécesz Múzeum",
             "ro": "Muzeul din Spetses",
-            "en": "Spetses Museum"
+            "en": "Spetses Museum",
+            "el": "Μουσείο Σπέτσες"
           },
           "coords": [
             23.1705,
@@ -133,7 +142,8 @@
             "de": "Hier finden Sie das originale Flaggenbanner der griechischen Revolution. Ein Muss für Geschichtsliebhaber.",
             "hu": "Itt található a görög forradalom eredeti zászlaja. Történelemkedvelőknek kötelező.",
             "ro": "Aici veți găsi steagul original al Revoluției Grecești. O vizită obligatorie pentru pasionații de istorie.",
-            "en": "Find the original flag of the Greek Revolution here. A must-see for history buffs."
+            "en": "Find the original flag of the Greek Revolution here. A must-see for history buffs.",
+            "el": "Βρείτε εδώ την πρωτότυπη σημαία της Ελληνικής Επανάστασης. Αξίζει για τους λάτρεις της ιστορίας."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Alter Hafen (Palio Limani)",
             "hu": "Régi Kikötő (Palio Limani)",
             "ro": "Portul Vechi (Palio Limani)",
-            "en": "Old Harbour (Palio Limani)"
+            "en": "Old Harbour (Palio Limani)",
+            "el": "Παλιό Λιμάνι (Παλιο Λιμάνι)"
           },
           "coords": [
             23.174,
@@ -157,7 +168,8 @@
             "de": "Ideal für ein spätes Mittagessen in einer der Fischtavernen direkt am Wasser. Beobachten Sie die Bootsbauer bei der Arbeit.",
             "hu": "Ideális egy késői ebédhez a vízparti haltavernáinak egyikében. Figyelje a hajóépítőket munka közben.",
             "ro": "Ideal pentru un prânz târziu la una dintre tavernele pescărești de pe malul apei. Priviți constructorii de bărci la lucru.",
-            "en": "Perfect for a late lunch at a waterside fish tavern. Watch the boatbuilders at their craft."
+            "en": "Perfect for a late lunch at a waterside fish tavern. Watch the boatbuilders at their craft.",
+            "el": "Ιδανικό για αργό γεύμα σε ψαροταβέρνα δίπλα στο νερό. Παρακολουθήστε τους ναυπηγούς στη δουλειά τους."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Leuchtturm von Spetses",
             "hu": "Szpéceszi világítótorony",
             "ro": "Farul din Spetses",
-            "en": "Lighthouse of Spetses"
+            "en": "Lighthouse of Spetses",
+            "el": "Φάρος των Σπετσών"
           },
           "coords": [
             23.177,
@@ -181,7 +194,8 @@
             "de": "Der beste Ort auf der Insel, um den Sonnenuntergang zu beobachten. Bringen Sie Ihre Kamera mit!",
             "hu": "A legjobb hely a szigeten a naplemente megtekintéséhez. Hozza magával a fényképezőgépét!",
             "ro": "Cel mai bun loc de pe insulă pentru a privi apusul. Aduceți-vă aparatul foto!",
-            "en": "The best spot on the island to watch the sunset. Bring your camera!"
+            "en": "The best spot on the island to watch the sunset. Bring your camera!",
+            "el": "Το καλύτερο σημείο στο νησί για να δείτε το ηλιοβασίλεμα. Φέρτε την κάμερά σας!"
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Ihr Spaziergang beginnt am lebhaften Dapia-Platz, dem Herzen von Spetses. Am Vormittag erkunden Sie die maritime Geschichte im Bouboulina-Museum und bewundern die Eleganz des Poseidonion. Mittags tauchen Sie in die lokale Kultur ein mit Besuchen der Agios Nikolaos Kirche und des Spetses-Museums. Der Nachmittag ist für den malerischen Alten Hafen reserviert, wo Sie in einer Taverne entspannen, bevor Sie zum Leuchtturm spazieren, um einen unvergesslichen Sonnenuntergang zu erleben. Am Abend kehren Sie ins Zentrum zurück, erfüllt von den Eindrücken des Tages.",
         "hu": "Sétája a nyüzsgő Dapia téren, Szpécesz szívében kezdődik. Délelőtt fedezze fel a tengerészeti történelmet a Bubulina Múzeumban, és csodálja meg a Poseidonion eleganciáját. Délben merüljön el a helyi kultúrában a Szent Miklós-templom és a Szpécesz Múzeum meglátogatásával. A délután a festői Régi Kikötőé, ahol egy tavernban pihenhet, mielőtt a világítótoronyhoz sétálva egy felejthetetlen naplementében gyönyörködne. Este térjen vissza a központba a nap élményeivel feltöltődve.",
         "ro": "Plimbarea dvs. începe în vibranta Piață Dapia, inima insulei Spetses. Dimineața, explorați istoria maritimă la Muzeul Bouboulina și admirați eleganța hotelului Poseidonion. La prânz, pătrundeți în cultura locală vizitând Biserica Agios Nikolaos și Muzeul Spetses. După-amiaza este rezervată pitorescului Port Vechi, unde vă puteți relaxa la o tavernă înainte de a vă plimba spre far pentru un apus de neuitat. Seara, vă întoarceți în centru, plini de impresiile zilei.",
-        "en": "Your walking tour begins at the vibrant Dapia Square, the heart of Spetses. In the morning, explore the maritime history at the Bouboulina Museum and admire the elegance of the Poseidonion. At midday, immerse yourself in local culture with visits to Agios Nikolaos Church and the Spetses Museum. The afternoon is for the picturesque Old Harbour, relaxing at a taverna before strolling to the lighthouse for an unforgettable sunset. In the evening, return to the center, filled with the day's impressions."
+        "en": "Your walking tour begins at the vibrant Dapia Square, the heart of Spetses. In the morning, explore the maritime history at the Bouboulina Museum and admire the elegance of the Poseidonion. At midday, immerse yourself in local culture with visits to Agios Nikolaos Church and the Spetses Museum. The afternoon is for the picturesque Old Harbour, relaxing at a taverna before strolling to the lighthouse for an unforgettable sunset. In the evening, return to the center, filled with the day's impressions.",
+        "el": "Η περιήγησή σας με τα πόδια ξεκινά στην ζωντανή Πλατεία Δαπία, την καρδιά των Σπετσών. Το πρωί εξερευνήστε την ναυτική ιστορία στο Μουσείο Μπουμπουλίνας και θαυμάστε την κομψότητα του Poseidonion. Το μεσημέρι βυθιστείτε στην τοπική κουλτούρα με επισκέψεις στην εκκλησία του Αγίου Νικολάου και στο Μουσείο Σπέτσες. Το απόγευμα είναι για το γραφικό Παλιό Λιμάνι, χαλάρωση στην ταβέρνα πριν τον περίπατο προς το φάρο για ένα αξέχαστο ηλιοβασίλεμα. Το βράδυ επιστρέψτε στο κέντρο, γεμάτοι τις εντυπώσεις της ημέρας."
       },
       "gastro_picks": {
         "de": [
@@ -385,6 +400,12 @@
           "Most shops close in the afternoon for a siesta, so plan your shopping accordingly.",
           "A water bottle is essential, especially during the summer months.",
           "Ask for the 'catch of the day' at the tavernas for the freshest fish."
+        ],
+        "el": [
+          "Να φοράτε άνετα παπούτσια καθώς οι δρόμοι και τα μονοπάτια είναι συχνά ανώμαλα.",
+          "Τα περισσότερα καταστήματα κλείνουν το απόγευμα για σιέστα, οπότε σχεδιάστε ανάλογα τα ψώνια σας.",
+          "Μπουκάλι νερό είναι απαραίτητο, ειδικά τους καλοκαιρινούς μήνες.",
+          "Ρωτήστε για το «ψάρι ημέρας» στις ταβέρνες για το πιο φρέσκο ψάρι."
         ]
       },
       "variants": {
@@ -393,7 +414,8 @@
             "de": "Morgens bietet die Dapia trotz Regen unter den Arkaden Schutz, während das Poseidonion Grand Hotel zu einem stilvollen Kaffee einlädt. Mittags vertiefen Sie sich im Bouboulina-Museum in die Geschichte, sicher vor dem Wetter. Nachmittags erkunden Sie die Kirche Agios Nikolaos und das Spetses-Museum, die beide trockene Rückzugsorte bieten. Abends spazieren Sie mit dem Schirm zum alten Hafen, wo die Lichter auf dem nassen Pflaster glitzern.",
             "hu": "Reggel a Dapia árkádjai alatt kereshet menedéket az eső elől, vagy beülhet egy teára a Poseidonion elegáns halljába. Délben a Bouboulina Múzeum falai között fedezheti fel a sziget múltját, teljesen szárazon. Délután az Agios Nikolaos templom és a Spetses Múzeum nyújt kiváló beltéri programot. Este egy esernyővel felszerelkezve tehet egy hangulatos sétát a régi kikötő mentén, megcsodálva a vízen tükröződő fényeket.",
             "ro": "Dimineața, arcadele din Dapia oferă adăpost împotriva ploii, iar hotelul Poseidonion este locul perfect pentru o cafea caldă. La prânz, vizitați Muzeul Bouboulina pentru a explora istoria navală, feriți de intemperii. După-amiaza este dedicată bisericii Agios Nikolaos și Muzeului Spetses, ambele fiind refugii culturale uscate. Seara, o plimbare cu umbrela spre Portul Vechi dezvăluie o atmosferă melancolică și lumini reflectate în apă.",
-            "en": "In the morning, Dapia's arcades provide shelter from the rain, and the Poseidonion Grand Hotel is ideal for a cozy coffee. At midday, dive into history at the Bouboulina Museum, staying perfectly dry. Your afternoon continues with indoor visits to Agios Nikolaos Church and the Spetses Museum. In the evening, a walk with an umbrella to the Old Harbour offers a unique atmosphere with city lights shimmering on the wet pavement."
+            "en": "In the morning, Dapia's arcades provide shelter from the rain, and the Poseidonion Grand Hotel is ideal for a cozy coffee. At midday, dive into history at the Bouboulina Museum, staying perfectly dry. Your afternoon continues with indoor visits to Agios Nikolaos Church and the Spetses Museum. In the evening, a walk with an umbrella to the Old Harbour offers a unique atmosphere with city lights shimmering on the wet pavement.",
+            "el": "Το πρωί, οι στοές της Δαπίας προσφέρουν καταφύγιο από τη βροχή και το Poseidonion Grand Hotel είναι ιδανικό για έναν ζεστό καφέ. Το μεσημέρι βυθιστείτε στην ιστορία στο Μουσείο Μπουμπουλίνας, παραμένοντας απολύτως στεγνοί. Το απόγευμα συνεχίζετε με εσωτερικές επισκέψεις στην εκκλησία του Αγίου Νικολάου και στο Μουσείο Σπέτσες. Το βράδυ, ένας περίπατος με ομπρέλα προς το Παλιό Λιμάνι προσφέρει μια μοναδική ατμόσφαιρα με τα φώτα της πόλης να λαμπυρίζουν στα βρεγμένα πλακόστρωτα."
           },
           "stops": [
             {
@@ -402,7 +424,8 @@
                 "de": "Nutzen Sie die Arkaden der Cafés als Regenschutz.",
                 "hu": "Használja a kávézók árkádjait esővédőként.",
                 "ro": "Folosiți arcadele cafenelelor ca adăpost împotriva ploii.",
-                "en": "Use the cafe arcades as shelter from the rain."
+                "en": "Use the cafe arcades as shelter from the rain.",
+                "el": "Χρησιμοποιήστε τις στοές των καφέ ως καταφύγιο από τη βροχή."
               }
             },
             {
@@ -411,7 +434,8 @@
                 "de": "Perfekter Ort für einen luxuriösen Tee bei Regen.",
                 "hu": "Tökéletes hely egy luxus teázáshoz esőben.",
                 "ro": "Locul perfect pentru un ceai de lux pe timp de ploaie.",
-                "en": "The perfect spot for a luxury tea during the rain."
+                "en": "The perfect spot for a luxury tea during the rain.",
+                "el": "Το τέλειο σημείο για ένα πολυτελές τσάι κατά τη διάρκεια της βροχής."
               }
             },
             {
@@ -420,7 +444,8 @@
                 "de": "Die Führung findet komplett im Innenbereich statt.",
                 "hu": "A tárlatvezetés teljesen beltéren zajlik.",
                 "ro": "Turul ghidat are loc în întregime la interior.",
-                "en": "The guided tour is entirely indoors."
+                "en": "The guided tour is entirely indoors.",
+                "el": "Η ξενάγηση είναι εντελώς εσωτερική."
               }
             },
             {
@@ -429,7 +454,8 @@
                 "de": "Ein ruhiger und trockener Ort zur Besinnung.",
                 "hu": "Csendes és száraz hely az elmélkedésre.",
                 "ro": "Un loc liniștit și uscat pentru reculegere.",
-                "en": "A quiet and dry place for reflection."
+                "en": "A quiet and dry place for reflection.",
+                "el": "Ένας ήσυχος και στεγνός χώρος για περισυλλογή."
               }
             },
             {
@@ -438,7 +464,8 @@
                 "de": "Großzügige Ausstellungsräume bieten Schutz vor Güssen.",
                 "hu": "A tágas kiállítótermek védelmet nyújtanak a záporok elől.",
                 "ro": "Sălile spațioase de expoziție oferă protecție contra ploii.",
-                "en": "Spacious exhibition halls offer protection from showers."
+                "en": "Spacious exhibition halls offer protection from showers.",
+                "el": "Οι ευρύχωρες αίθουσες έκθεσης προσφέρουν προστασία από τις μπόρες."
               }
             },
             {
@@ -447,7 +474,8 @@
                 "de": "Vorsicht, das Kopfsteinpflaster kann sehr rutschig sein.",
                 "hu": "Vigyázat, a macskaköves út nagyon csúszós lehet.",
                 "ro": "Atenție, pavajul de piatră poate fi foarte alunecos.",
-                "en": "Be careful, the cobblestone pavement can be very slippery."
+                "en": "Be careful, the cobblestone pavement can be very slippery.",
+                "el": "Προσοχή, το λιθόστρωτο μπορεί να είναι πολύ ολισθηρό."
               }
             },
             {
@@ -456,7 +484,8 @@
                 "de": "Nur bei kurzem Regen besuchen, da kaum Unterstand.",
                 "hu": "Csak rövid esőben ajánlott, kevés a fedett rész.",
                 "ro": "Vizitați doar în ploaie scurtă, există puține adăposturi.",
-                "en": "Visit only during light rain as there is little shelter."
+                "en": "Visit only during light rain as there is little shelter.",
+                "el": "Επισκεφθείτε μόνο κατά ελαφριά βροχή καθώς υπάρχει λίγη κάλυψη."
               }
             }
           ],
@@ -484,6 +513,12 @@
               "The museums are your best retreats during heavy downpours.",
               "Water taxis usually have covers but can be bumpy in windy weather.",
               "A sturdy umbrella is better than a light one due to the sea breeze."
+            ],
+            "el": [
+              "Φορέστε αδιάβροχα παπούτσια καθώς συχνά σχηματίζονται λακκούβες στα στενά σοκάκια.",
+              "Τα μουσεία είναι τα καλύτερα καταφύγια κατά τις δυνατές μπόρες.",
+              "Οι θαλάσσιες ταξί συνήθως έχουν στέγαστρο αλλά μπορεί να είναι ανώμαλες σε θυελλώδες καιρό.",
+              "Μια στιβαρή ομπρέλα είναι καλύτερη από μια ελαφριά λόγω του θαλασσινού αερακιού."
             ]
           }
         },
@@ -492,7 +527,8 @@
             "de": "Der Wintermorgen in Dapia ist friedlich und die Luft kristallklar. Nach einem Besuch im Poseidonion wärmen Sie sich im Bouboulina-Museum auf, während die Wintersonne tief steht. Mittags besichtigen Sie die Kirche Agios Nikolaos in herrlicher Stille. Der Nachmittag im Spetses-Museum und am alten Hafen ist geprägt von einer Melancholie, die nur die Nebensaison bietet. Zum frühen Sonnenuntergang erreichen Sie den Leuchtturm bei erfrischender Meeresbrise.",
             "hu": "A téli reggel Dapiában békés, a levegő pedig kristálytiszta. A Poseidonion után a Bouboulina Múzeumban melegedhet fel, miközben a téli nap alacsonyan jár. Délben az Agios Nikolaos templomot látogathatja meg teljes csendben. A délután a Spetses Múzeumban és a régi kikötőben a holtszezon különleges nyugalmát árasztja. A korai naplementét a világítótoronynál élvezheti a frissítő tengeri szélben.",
             "ro": "Dimineața de iarnă în Dapia este liniștită, cu un aer deosebit de clar. După o oprire la Poseidonion, vă încălziți la Muzeul Bouboulina sub soarele blând de iarnă. La prânz, vizitați biserica Agios Nikolaos într-o tăcere deplină. După-amiaza la Muzeul Spetses și în Portul Vechi are farmecul discret al extrasezonului. La apusul devreme, ajungeți la far, unde briza mării este revigorantă.",
-            "en": "Winter mornings in Dapia are peaceful with crystal clear air. After visiting the Poseidonion, warm up inside the Bouboulina Museum while the winter sun stays low. Midday at Agios Nikolaos Church offers a serene atmosphere. Your afternoon at the Spetses Museum and Old Harbour is filled with the unique tranquility of the off-season. Reach the lighthouse for an early sunset accompanied by a refreshing sea breeze."
+            "en": "Winter mornings in Dapia are peaceful with crystal clear air. After visiting the Poseidonion, warm up inside the Bouboulina Museum while the winter sun stays low. Midday at Agios Nikolaos Church offers a serene atmosphere. Your afternoon at the Spetses Museum and Old Harbour is filled with the unique tranquility of the off-season. Reach the lighthouse for an early sunset accompanied by a refreshing sea breeze.",
+            "el": "Τον χειμώνα τα πρωινά στην Δαπία είναι ήσυχα με κρυστάλλινο αέρα. Μετά την επίσκεψη στο Ποσειδώνιο, ζεσταθείτε μέσα στο Μουσείο Μπουμπουλίνας ενώ ο χειμερινός ήλιος παραμένει χαμηλά. Το μεσημέρι στην Εκκλησία του Αγίου Νικολάου προσφέρει μια ήρεμη ατμόσφαιρα. Το απόγευμά σας στο Μουσείο Σπετσών και το Παλιό Λιμάνι είναι γεμάτο με τη μοναδική γαλήνη της εκτός σεζόν. Φτάστε στο φάρο για ένα νωπό ηλιοβασίλεμα συνοδεία δροσερού θαλασσινού αερακιού."
           },
           "stops": [
             {
@@ -501,7 +537,8 @@
                 "de": "Genießen Sie den Kaffee in der Sonne, um warm zu bleiben.",
                 "hu": "Igyon egy kávét a napon, hogy ne fázzon.",
                 "ro": "Savurați o cafea la soare pentru a vă încălzi.",
-                "en": "Enjoy your coffee in the sun to stay warm."
+                "en": "Enjoy your coffee in the sun to stay warm.",
+                "el": "Απολαύστε τον καφέ σας στον ήλιο για να ζεσταθείτε."
               }
             },
             {
@@ -510,7 +547,8 @@
                 "de": "Die Innenräume sind im Winter angenehm beheizt.",
                 "hu": "A belső terek télen kellemesen fűtöttek.",
                 "ro": "Interioarele sunt încălzite plăcut pe timp de iarnă.",
-                "en": "The interior is comfortably heated during winter."
+                "en": "The interior is comfortably heated during winter.",
+                "el": "Ο εσωτερικός χώρος είναι άνετα θερμαινόμενος το χειμώνα."
               }
             },
             {
@@ -519,7 +557,8 @@
                 "de": "Prüfen Sie die Winteröffnungszeiten vorab.",
                 "hu": "Indulás előtt ellenőrizze a téli nyitvatartást.",
                 "ro": "Verificați programul de iarnă înainte de vizită.",
-                "en": "Check winter opening hours before heading out."
+                "en": "Check winter opening hours before heading out.",
+                "el": "Ελέγξτε τις χειμερινές ώρες λειτουργίας πριν ξεκινήσετε."
               }
             },
             {
@@ -528,7 +567,8 @@
                 "de": "Die dicken Mauern speichern die Kühle; Jacke anlassen.",
                 "hu": "A vastag falak tartják a hideget, hagyja magán a kabátot.",
                 "ro": "Zidurile groase mențin răcoarea; păstrați jacheta pe dvs.",
-                "en": "The thick walls keep the cold; keep your jacket on."
+                "en": "The thick walls keep the cold; keep your jacket on.",
+                "el": "Οι παχιές τοίχοι κρατούν το κρύο· κρατήστε το μπουφάν σας."
               }
             },
             {
@@ -537,7 +577,8 @@
                 "de": "Ein windgeschützter Ort für den frühen Nachmittag.",
                 "hu": "Szélvédett hely a kora délutáni órákra.",
                 "ro": "Un loc ferit de vânt pentru după-amiaza devreme.",
-                "en": "A wind-sheltered spot for the early afternoon."
+                "en": "A wind-sheltered spot for the early afternoon.",
+                "el": "Ένα σημείο προστατευμένο από τον άνεμο για νωρίς το απόγευμα."
               }
             },
             {
@@ -546,7 +587,8 @@
                 "de": "Wenig Betrieb, ideal für ungestörte Fotos.",
                 "hu": "Kevés a turista, ideális zavartalan fotózáshoz.",
                 "ro": "Puțin trafic, ideal pentru fotografii fără mulțimi.",
-                "en": "Very quiet, ideal for undisturbed photography."
+                "en": "Very quiet, ideal for undisturbed photography.",
+                "el": "Πολύ ήσυχο, ιδανικό για αδιάκοπη φωτογράφηση."
               }
             },
             {
@@ -555,7 +597,8 @@
                 "de": "Warme Kleidung nötig, der Seewind ist im Winter beißend.",
                 "hu": "Meleg ruha kell, a tengeri szél télen metsző lehet.",
                 "ro": "Haine groase necesare; vântul mării este tăios iarna.",
-                "en": "Warm clothes needed; the sea breeze is biting in winter."
+                "en": "Warm clothes needed; the sea breeze is biting in winter.",
+                "el": "Χρειάζονται ζεστά ρούχα· το θαλασσινό αεράκι τσούζει το χειμώνα."
               }
             }
           ],
@@ -583,6 +626,12 @@
               "Many restaurants in the Old Harbour may be closed for the season.",
               "Dress in layers to protect yourself from the chilly sea wind.",
               "The island is nearly car-free and extremely quiet in winter."
+            ],
+            "el": [
+              "Ο ήλιος δύει νωρίς το χειμώνα, περίπου στις 17:00.",
+              "Πολλά εστιατόρια στο Παλιό Λιμάνι μπορεί να είναι κλειστά για την περίοδο.",
+              "Ντυθείτε σε στρώσεις για να προστατευτείτε από τον ψυχρό θαλασσινό άνεμο.",
+              "Το νησί είναι σχεδόν χωρίς αυτοκίνητα και εξαιρετικά ήσυχο τον χειμώνα."
             ]
           }
         }
@@ -601,7 +650,8 @@
             "de": "Dapia (Hauptplatz)",
             "hu": "Dapia (Főtér)",
             "ro": "Dapia (Piața Principală)",
-            "en": "Dapia (Main Square)"
+            "en": "Dapia (Main Square)",
+            "el": "Δαπία (Κεντρική Πλατεία)"
           },
           "coords": [
             23.1667,
@@ -617,7 +667,8 @@
             "de": "Mieten Sie Ihr Fahrrad hier und genießen Sie einen Kaffee, bevor Sie losfahren.",
             "hu": "Béreljen itt kerékpárt, és igyon meg egy kávét indulás előtt.",
             "ro": "Închiriați-vă bicicleta de aici și savurați o cafea înainte de a porni la drum.",
-            "en": "Rent your bike here and have a coffee before you set off."
+            "en": "Rent your bike here and have a coffee before you set off.",
+            "el": "Ενοικιάστε το ποδήλατό σας εδώ και πιείτε έναν καφέ πριν ξεκινήσετε."
           }
         },
         {
@@ -625,7 +676,8 @@
             "de": "Anargyrios-Schule",
             "hu": "Anargüriosz Iskola",
             "ro": "Școala Anargyrios",
-            "en": "Anargyrios School"
+            "en": "Anargyrios School",
+            "el": "Σχολή Αναργύριου"
           },
           "coords": [
             23.156,
@@ -641,7 +693,8 @@
             "de": "Ein beeindruckendes neoklassizistisches Gebäude. Ein kurzer Fotostopp auf dem Weg aus der Stadt.",
             "hu": "Lenyűgöző neoklasszikus épület. Egy rövid fotómegálló a városból kifelé vezető úton.",
             "ro": "O clădire neoclasică impresionantă. O scurtă oprire pentru fotografii la ieșirea din oraș.",
-            "en": "An impressive neoclassical building. A quick photo stop on your way out of town."
+            "en": "An impressive neoclassical building. A quick photo stop on your way out of town.",
+            "el": "Ένα εντυπωσιακό νεοκλασικό κτίριο. Μια γρήγορη στάση για φωτογραφία καθώς φεύγετε από την πόλη."
           }
         },
         {
@@ -649,7 +702,8 @@
             "de": "Bouboulina-Museum",
             "hu": "Bubulina Múzeum",
             "ro": "Muzeul Bouboulina",
-            "en": "Bouboulina Museum"
+            "en": "Bouboulina Museum",
+            "el": "Μουσείο Μπουμπουλίνας"
           },
           "coords": [
             23.1658,
@@ -665,7 +719,8 @@
             "de": "Schließen Sie Ihr Fahrrad an und tauchen Sie ein in die Geschichte dieser unglaublichen Frau.",
             "hu": "Zárja le a kerékpárját, és merüljön el ennek a hihetetlen nőnek a történetében.",
             "ro": "Legați-vă bicicleta și pătrundeți în povestea acestei femei incredibile.",
-            "en": "Lock up your bike and dive into the history of this incredible woman."
+            "en": "Lock up your bike and dive into the history of this incredible woman.",
+            "el": "Κλειδώστε το ποδήλατό σας και βυθιστείτε στην ιστορία αυτής της εκπληκτικής γυναίκας."
           }
         },
         {
@@ -673,7 +728,8 @@
             "de": "Kirche Agios Nikolaos",
             "hu": "Szent Miklós-templom",
             "ro": "Biserica Agios Nikolaos",
-            "en": "Church of Agios Nikolaos"
+            "en": "Church of Agios Nikolaos",
+            "el": "Εκκλησία Αγίου Νικολάου"
           },
           "coords": [
             23.169,
@@ -689,7 +745,8 @@
             "de": "Ein friedlicher Ort der Einkehr. Der Glockenturm ist aus Marmor von der Insel Tinos gefertigt.",
             "hu": "A csendes elmélkedés helye. A harangtorony Tinosz szigetéről származó márványból készült.",
             "ro": "Un loc pașnic de reculegere. Clopotnița este făcută din marmură de pe insula Tinos.",
-            "en": "A peaceful place for contemplation. The bell tower is made of marble from Tinos island."
+            "en": "A peaceful place for contemplation. The bell tower is made of marble from Tinos island.",
+            "el": "Ένας ήρεμος χώρος για περισυλλογή. Ο καμπαναριό είναι φτιαγμένος από μάρμαρο της Τήνου."
           }
         },
         {
@@ -697,7 +754,8 @@
             "de": "Alter Hafen (Palio Limani)",
             "hu": "Régi Kikötő (Palio Limani)",
             "ro": "Portul Vechi (Palio Limani)",
-            "en": "Old Harbour (Palio Limani)"
+            "en": "Old Harbour (Palio Limani)",
+            "el": "Παλιό Λιμάνι (Παλιό Λιμάνι)"
           },
           "coords": [
             23.174,
@@ -713,7 +771,8 @@
             "de": "Stellen Sie Ihr Fahrrad ab und genießen Sie ein langes Mittagessen in einer der traditionellen Werften (Karnagia).",
             "hu": "Parkolja le a kerékpárt, és élvezzen egy hosszú ebédet a hagyományos hajógyárak (Karnagia) egyikében.",
             "ro": "Parcați-vă bicicleta și bucurați-vă de un prânz lung la unul dintre șantierele navale tradiționale (Karnagia).",
-            "en": "Park your bike and enjoy a long lunch at one of the traditional boatyards (Karnagia)."
+            "en": "Park your bike and enjoy a long lunch at one of the traditional boatyards (Karnagia).",
+            "el": "Πάρκαρε το ποδήλατό σου και απόλαυσε ένα μεγάλο γεύμα σε ένα από τα παραδοσιακά καρνάγια."
           }
         },
         {
@@ -721,7 +780,8 @@
             "de": "Leuchtturm von Spetses",
             "hu": "Szpéceszi világítótorony",
             "ro": "Farul din Spetses",
-            "en": "Lighthouse of Spetses"
+            "en": "Lighthouse of Spetses",
+            "el": "Φάρος Σπετσών"
           },
           "coords": [
             23.177,
@@ -737,7 +797,8 @@
             "de": "Die Straße hierher ist asphaltiert und flach, eine einfache und lohnende Fahrt für die Aussicht.",
             "hu": "Az ide vezető út aszfaltozott és sík, könnyű és hálás út a kilátásért.",
             "ro": "Drumul până aici este asfaltat și plat, o plimbare ușoară și plină de satisfacții pentru priveliște.",
-            "en": "The road here is paved and flat, making for an easy and rewarding ride for the view."
+            "en": "The road here is paved and flat, making for an easy and rewarding ride for the view.",
+            "el": "Ο δρόμος εδώ είναι ασφαλτοστρωμένος και επίπεδος, καθιστώντας την βόλτα εύκολη και αποδοτική για τη θέα."
           }
         },
         {
@@ -745,7 +806,8 @@
             "de": "Rückfahrt zur Dapia",
             "hu": "Vissza Dapiába",
             "ro": "Întoarcere la Dapia",
-            "en": "Return to Dapia"
+            "en": "Return to Dapia",
+            "el": "Επιστροφή στη Δαπία"
           },
           "coords": [
             23.1667,
@@ -761,7 +823,8 @@
             "de": "Geben Sie Ihr Fahrrad zurück und belohnen Sie sich mit einem Eis, während Sie den Sonnenuntergang über dem Hafen beobachten.",
             "hu": "Adja vissza a kerékpárt, és jutalmazza meg magát egy fagyival, miközben a naplementét nézi a kikötő felett.",
             "ro": "Returnați bicicleta și răsfățați-vă cu o înghețată în timp ce priviți apusul peste port.",
-            "en": "Return your bike and reward yourself with an ice cream while watching the sunset over the harbour."
+            "en": "Return your bike and reward yourself with an ice cream while watching the sunset over the harbour.",
+            "el": "Επιστρέψτε το ποδήλατό σας και απολαύστε ένα παγωτό ενώ παρακολουθείτε το ηλιοβασίλεμα πάνω από το λιμάνι."
           }
         }
       ],
@@ -769,7 +832,8 @@
         "de": "Ihre Radtour beginnt in Dapia, von wo aus Sie eine kurze Fahrt zur beeindruckenden Anargyrios-Schule machen. Am Vormittag radeln Sie zurück ins Zentrum, um das Bouboulina-Museum zu erkunden. Mittags führt Sie Ihr Weg entlang der Küste zur Agios Nikolaos Kirche und weiter zum Alten Hafen für ein entspanntes Mittagessen. Am Nachmittag radeln Sie zur Spitze der Halbinsel zum Leuchtturm, um die Aussicht zu genießen, bevor Sie gemütlich nach Dapia zurückkehren und den Tag mit Blick auf das Meer ausklingen lassen.",
         "hu": "Kerékpártúrája Dapiából indul, ahonnan egy rövid tekeréssel eljut a lenyűgöző Anargüriosz Iskolához. Délelőtt visszateker a központba, hogy felfedezze a Bubulina Múzeumot. Délben az útja a part mentén vezet a Szent Miklós-templomhoz, majd tovább a Régi Kikötőbe egy pihentető ebédre. Délután a félsziget csúcsához, a világítótoronyhoz teker, hogy élvezze a kilátást, mielőtt kényelmesen visszatér Dapiába, és a tengerre nézve zárja a napot.",
         "ro": "Turul pe bicicletă începe în Dapia, de unde faceți o scurtă plimbare până la impresionanta Școală Anargyrios. Dimineața, pedalați înapoi spre centru pentru a explora Muzeul Bouboulina. La prânz, traseul vă duce de-a lungul coastei la Biserica Agios Nikolaos și mai departe la Portul Vechi pentru un prânz relaxant. După-amiaza, pedalați spre vârful peninsulei la far pentru a vă bucura de priveliște, înainte de a vă întoarce agale în Dapia pentru a încheia ziua cu o priveliște la mare.",
-        "en": "Your bike tour starts in Dapia, from where you take a short ride to the impressive Anargyrios School. In the morning, you'll cycle back to the center to explore the Bouboulina Museum. At midday, your path takes you along the coast to Agios Nikolaos Church and on to the Old Harbour for a relaxed lunch. In the afternoon, cycle to the tip of the peninsula to the lighthouse to enjoy the view, before leisurely returning to Dapia to end the day with a view of the sea."
+        "en": "Your bike tour starts in Dapia, from where you take a short ride to the impressive Anargyrios School. In the morning, you'll cycle back to the center to explore the Bouboulina Museum. At midday, your path takes you along the coast to Agios Nikolaos Church and on to the Old Harbour for a relaxed lunch. In the afternoon, cycle to the tip of the peninsula to the lighthouse to enjoy the view, before leisurely returning to Dapia to end the day with a view of the sea.",
+        "el": "Η ποδηλατική σας διαδρομή ξεκινάει από τη Δαπία, από όπου κάνετε μια σύντομη βόλτα προς την εντυπωσιακή Σχολή Αναργύριου. Το πρωί θα επιστρέψετε στο κέντρο για να εξερευνήσετε το Μουσείο Μπουμπουλίνας. Το μεσημέρι το μονοπάτι σας ακολουθεί την ακτογραμμή προς την Εκκλησία του Αγίου Νικολάου και στο Παλιό Λιμάνι για ένα χαλαρό γεύμα. Το απόγευμα, ποδηλατήστε στην άκρη της χερσονήσου προς το φάρο για να απολαύσετε τη θέα, πριν επιστρέψετε ήρεμα στη Δαπία για να κλείσετε τη μέρα με θέα τη θάλασσα."
       },
       "gastro_picks": {
         "de": [
@@ -965,6 +1029,12 @@
           "A bike with gears is recommended if you want to explore further around the island.",
           "Always lock your bike, even for short stops.",
           "The coastal road around the island is about 25 km - a great but challenging day trip."
+        ],
+        "el": [
+          "Οι περισσότερες δρόμοι στην πόλη είναι κλειστοί για αυτοκίνητα, γεγονός που κάνει το ποδήλατο πολύ ευχάριστο.",
+          "Συνιστάται ποδήλατο με ταχύτητες αν θέλετε να εξερευνήσετε πιο μακριά γύρω από το νησί.",
+          "Πάντα κλειδώστε το ποδήλατό σας, ακόμα και για μικρές στάσεις.",
+          "Ο παραλιακός δρόμος γύρω από το νησί είναι περίπου 25 χλμ - μια εξαιρετική αλλά απαιτητική ημερήσια εκδρομή."
         ]
       },
       "variants": {
@@ -973,7 +1043,8 @@
             "de": "Ein Fahrradausflug bei Regen erfordert Vorsicht auf den rutschigen Wegen von Spetses. Morgens radeln Sie kurz zur Anargyrios-Schule, bevor der Regen zunimmt. Mittags suchen Sie Schutz im Bouboulina-Museum. Der Nachmittag führt Sie trotz Nässe zur Kirche Agios Nikolaos, wobei Sie Pfützen geschickt umfahren. Den Tag lassen Sie im alten Hafen ausklingen, wo Sie Ihr Rad unter einem Vordach abstellen und die raue See beobachten.",
             "hu": "Az esős biciklitúra óvatosságot igényel Spetses csúszós útjain. Reggel tekerjen el az Anargyrios iskolához, mielőtt eleredne az eső. Délben a Bouboulina Múzeumban keressen menedéket a csapadék elől. Délután az Agios Nikolaos templom felé veheti az irányt, ügyesen kerülgetve a tócsákat. A napot a régi kikötőben zárhatja, ahol egy eresz alá húzódva figyelheti a tajtékzó tengert.",
             "ro": "O excursie cu bicicleta pe ploaie necesită prudență pe drumurile alunecoase din Spetses. Dimineața, pedalați spre Școala Anargyrios înainte ca ploaia să se intensifice. La prânz, adăpostiți-vă la Muzeul Bouboulina. După-amiaza vă conduce spre biserica Agios Nikolaos, evitând cu grijă bălțile de pe traseu. Încheiați ziua în Portul Vechi, parcând bicicleta sub un acoperiș pentru a admira marea agitată.",
-            "en": "A bike trip in the rain requires caution on Spetses' slippery roads. In the morning, cycle to Anargyrios School before the rain picks up. At midday, seek shelter in the Bouboulina Museum. Your afternoon continues towards Agios Nikolaos Church, skillfully dodging puddles. End your day at the Old Harbour, parking your bike under a canopy to watch the choppy sea."
+            "en": "A bike trip in the rain requires caution on Spetses' slippery roads. In the morning, cycle to Anargyrios School before the rain picks up. At midday, seek shelter in the Bouboulina Museum. Your afternoon continues towards Agios Nikolaos Church, skillfully dodging puddles. End your day at the Old Harbour, parking your bike under a canopy to watch the choppy sea.",
+            "el": "Μια ποδηλατική βόλτα στη βροχή απαιτεί προσοχή στους ολισθηρούς δρόμους των Σπετσών. Το πρωί ποδηλατήστε προς τη Σχολή Αναργύριου πριν ενταθεί η βροχή. Το μεσημέρι ζητήστε καταφύγιο στο Μουσείο Μπουμπουλίνας. Το απόγευμα συνεχίζετε προς την Εκκλησία του Αγίου Νικολάου, αποφεύγοντας επιδέξια τις λακκούβες. Τελειώστε τη μέρα σας στο Παλιό Λιμάνι, παρκάροντας το ποδήλατο κάτω από ένα υπόστεγο για να παρακολουθήσετε την ταραγμένη θάλασσα."
           },
           "stops": [
             {
@@ -982,7 +1053,8 @@
                 "de": "Prüfen Sie die Bremsen vor der Abfahrt im Regen.",
                 "hu": "Indulás előtt ellenőrizze a fékeket az esőben.",
                 "ro": "Verificați frânele înainte de a pleca pe ploaie.",
-                "en": "Check your brakes before setting off in the rain."
+                "en": "Check your brakes before setting off in the rain.",
+                "el": "Ελέγξτε τα φρένα σας πριν ξεκινήσετε στη βροχή."
               }
             },
             {
@@ -991,7 +1063,8 @@
                 "de": "Die Bäume bieten nur bedingt Schutz vor Guss.",
                 "hu": "A fák csak korlátozott védelmet nyújtanak a zápor ellen.",
                 "ro": "Copacii oferă doar protecție parțială contra ploii.",
-                "en": "Trees provide only limited shelter from downpours."
+                "en": "Trees provide only limited shelter from downpours.",
+                "el": "Τα δέντρα παρέχουν μόνο περιορισμένη προστασία από τις μπόρες."
               }
             },
             {
@@ -1000,7 +1073,8 @@
                 "de": "Stellen Sie Ihr Rad an einem überdachten Platz ab.",
                 "hu": "Hagyja a biciklijét fedett helyen a múzeumnál.",
                 "ro": "Lăsați bicicleta într-un loc acoperit lângă muzeu.",
-                "en": "Leave your bike in a covered spot near the museum."
+                "en": "Leave your bike in a covered spot near the museum.",
+                "el": "Αφήστε το ποδήλατό σας σε καλυμμένο σημείο κοντά στο μουσείο."
               }
             },
             {
@@ -1009,7 +1083,8 @@
                 "de": "Vorsicht beim Absteigen auf nassem Stein.",
                 "hu": "Vigyázzon a leszálláskor a nedves köveken.",
                 "ro": "Atenție la descălecare pe pietrele umede.",
-                "en": "Be careful when dismounting on wet stones."
+                "en": "Be careful when dismounting on wet stones.",
+                "el": "Προσοχή όταν κατεβαίνετε από το ποδήλατο πάνω σε βρεγμένες πέτρες."
               }
             },
             {
@@ -1018,7 +1093,8 @@
                 "de": "Vermeiden Sie schnelle Kurven auf der Promenade.",
                 "hu": "Kerülje a gyors kanyarodást a sétányon.",
                 "ro": "Evitați virajele strânse pe faleză.",
-                "en": "Avoid sharp turns on the promenade."
+                "en": "Avoid sharp turns on the promenade.",
+                "el": "Αποφύγετε απότομες στροφές στην προκυμαία."
               }
             },
             {
@@ -1027,7 +1103,8 @@
                 "de": "Der Weg zum Leuchtturm kann schlammig sein.",
                 "hu": "A világítótoronyhoz vezető út saras lehet.",
                 "ro": "Drumul spre far poate fi noroios.",
-                "en": "The path to the lighthouse can be muddy."
+                "en": "The path to the lighthouse can be muddy.",
+                "el": "Το μονοπάτι προς το φάρο μπορεί να είναι λασπωμένο."
               }
             },
             {
@@ -1036,7 +1113,8 @@
                 "de": "Trocknen Sie den Sattel nach der Rückkehr ab.",
                 "hu": "Visszaérkezés után törölje szárazra a nyerget.",
                 "ro": "Ștergeți șaua după ce vă întoarceți.",
-                "en": "Dry off the saddle after you return."
+                "en": "Dry off the saddle after you return.",
+                "el": "Στεγνώστε τη σέλα αφού επιστρέψετε."
               }
             }
           ],
@@ -1064,6 +1142,12 @@
               "Wear a bright raincoat for better visibility to others.",
               "Avoid puddles as they might hide deep potholes.",
               "Mudguards on your bike are essential in this weather."
+            ],
+            "el": [
+              "Οι λιθόστρωτοι κοντά στην ακτή γίνονται εξαιρετικά ολισθηροί όταν είναι βρεγμένοι.",
+              "Φορέστε ένα φωτεινό αδιάβροχο για καλύτερη ορατότητα προς τους άλλους.",
+              "Αποφύγετε τις λακκούβες καθώς μπορεί να κρύβουν βαθιές λακούβες.",
+              "Λασπωτήρες στο ποδήλατο είναι απαραίτητοι σε αυτόν τον καιρό."
             ]
           }
         },
@@ -1072,7 +1156,8 @@
             "de": "Winterliches Radeln auf Spetses ist erfrischend und verkehrsarm. Morgens gleiten Sie durch die kühle Luft zur Anargyrios-Schule. Mittags wärmt Sie der Museumsbesuch auf, bevor Sie entspannt zur Kirche Agios Nikolaos fahren. Der Nachmittag gehört der Küstenstraße zum alten Hafen, wo Sie die Einsamkeit genießen. Zum Sonnenuntergang erreichen Sie den Leuchtturm, bevor Sie rechtzeitig vor der Dunkelheit nach Dapia zurückkehren.",
             "hu": "A téli biciklizés Spetsesen frissítő és forgalommentes. Reggel a hűvös levegőben gurulhat el az Anargyrios iskolához. Délben a múzeumlátogatás során melegedhet fel, majd kényelmesen tekerhet az Agios Nikolaos templomhoz. A délután a kikötőhöz vezető parti úté, ahol élvezheti a magányt. Naplementére érjen a világítótoronyhoz, mielőtt még sötétedés előtt visszaérne Dapiába.",
             "ro": "Ciclismul de iarnă pe Spetses este revigorant și lipsit de trafic. Dimineața, glisați prin aerul rece spre Școala Anargyrios. La prânz, vizita muzeului vă încălzește înainte de a pedala relaxat spre biserica Agios Nikolaos. După-amiaza aparține drumului de coastă spre Portul Vechi, unde vă bucurați de liniște. Ajungeți la far pentru apus, apoi reveniți în Dapia înainte de lăsarea întunericului.",
-            "en": "Winter cycling on Spetses is refreshing and traffic-free. In the morning, glide through the cool air to Anargyrios School. At midday, the museum visit warms you up before a relaxed ride to Agios Nikolaos Church. The afternoon belongs to the coastal road to the Old Harbour, where you can enjoy the solitude. Reach the lighthouse by sunset before returning to Dapia before dark."
+            "en": "Winter cycling on Spetses is refreshing and traffic-free. In the morning, glide through the cool air to Anargyrios School. At midday, the museum visit warms you up before a relaxed ride to Agios Nikolaos Church. The afternoon belongs to the coastal road to the Old Harbour, where you can enjoy the solitude. Reach the lighthouse by sunset before returning to Dapia before dark.",
+            "el": "Το χειμερινό ποδήλατο στις Σπέτσες είναι αναζωογονητικό και χωρίς κίνηση. Το πρωί γλιστράτε στον δροσερό αέρα προς τη Σχολή Αναργύριου. Το μεσημέρι η επίσκεψη στο μουσείο σας ζεσταίνει πριν μια χαλαρή βόλτα προς την Εκκλησία του Αγίου Νικολάου. Το απόγευμα ανήκει στον παραλιακό δρόμο προς το Παλιό Λιμάνι, όπου μπορείτε να απολαύσετε τη μοναξιά. Φτάστε στο φάρο στο ηλιοβασίλεμα πριν επιστρέψετε στη Δαπία πριν σκοτεινιάσει."
           },
           "stops": [
             {
@@ -1081,7 +1166,8 @@
                 "de": "Tragen Sie Handschuhe gegen den kalten Fahrtwind.",
                 "hu": "Viseljen kesztyűt a hideg menetszél ellen.",
                 "ro": "Purtați mănuși împotriva vântului rece de mișcare.",
-                "en": "Wear gloves to protect against the cold wind while riding."
+                "en": "Wear gloves to protect against the cold wind while riding.",
+                "el": "Φορέστε γάντια για να προστατευτείτε από τον ψυχρό άνεμο κατά την οδήγηση."
               }
             },
             {
@@ -1090,7 +1176,8 @@
                 "de": "Die schattigen Wege unter Bäumen sind oft kühler.",
                 "hu": "Az árnyékos utak a fák alatt gyakran hűvösek.",
                 "ro": "Drumurile umbrite de sub copaci sunt adesea mai reci.",
-                "en": "The shaded paths under trees are often cooler."
+                "en": "The shaded paths under trees are often cooler.",
+                "el": "Τα σκιερά μονοπάτια κάτω από τα δέντρα συχνά είναι πιο δροσερά."
               }
             },
             {
@@ -1099,7 +1186,8 @@
                 "de": "Perfekte Aufwärmpause zwischen den Fahrten.",
                 "hu": "Tökéletes pihenő a bemelegedéshez két tekerés között.",
                 "ro": "Pauză perfectă de încălzire între reprizele de pedalat.",
-                "en": "A perfect warming break between rides."
+                "en": "A perfect warming break between rides.",
+                "el": "Μια τέλεια ζεστή στάση ανάμεσα στις βόλτες."
               }
             },
             {
@@ -1108,7 +1196,8 @@
                 "de": "Parken Sie Ihr Rad in der Sonne, falls möglich.",
                 "hu": "Ha lehet, parkoljon a napon a biciklivel.",
                 "ro": "Parcați bicicleta la soare dacă este posibil.",
-                "en": "Park your bike in the sun if possible."
+                "en": "Park your bike in the sun if possible.",
+                "el": "Σταθμεύστε το ποδήλατό σας στον ήλιο αν είναι δυνατό."
               }
             },
             {
@@ -1117,7 +1206,8 @@
                 "de": "Der Wind weht hier im Winter oft kräftig.",
                 "hu": "Itt télen gyakran fúj erős szél.",
                 "ro": "Vântul suflă adesea cu putere aici iarna.",
-                "en": "The wind often blows strongly here in winter."
+                "en": "The wind often blows strongly here in winter.",
+                "el": "Ο άνεμος εδώ φυσά συχνά δυνατά το χειμώνα."
               }
             },
             {
@@ -1126,7 +1216,8 @@
                 "de": "Besuchen Sie den Ort vor 16:30 Uhr für das Licht.",
                 "hu": "A fények miatt látogassa meg 16:30 előtt.",
                 "ro": "Vizitați înainte de ora 16:30 pentru lumină bună.",
-                "en": "Visit before 4:30 PM for the best winter light."
+                "en": "Visit before 4:30 PM for the best winter light.",
+                "el": "Επισκεφθείτε πριν τις 16:30 για το καλύτερο χειμερινό φως."
               }
             },
             {
@@ -1135,7 +1226,8 @@
                 "de": "Stellen Sie sicher, dass Ihr Licht funktioniert.",
                 "hu": "Győződjön meg róla, hogy működik a lámpája.",
                 "ro": "Asigurați-vă că luminile bicicletei funcționează.",
-                "en": "Make sure your bike lights are working."
+                "en": "Make sure your bike lights are working.",
+                "el": "Βεβαιωθείτε ότι τα φώτα του ποδηλάτου λειτουργούν."
               }
             }
           ],
@@ -1163,6 +1255,12 @@
               "Take advantage of the empty roads for relaxed sightseeing.",
               "Be mindful of early dusk starting from 4:30 PM.",
               "A windproof jacket is more important than thick wool."
+            ],
+            "el": [
+              "Ο θαλασσινός αέρας είναι πολύ υγρός και κρύος κατά το ποδήλατο τον χειμώνα.",
+              "Επωφεληθείτε από τους άδειους δρόμους για χαλαρό τουρισμό.",
+              "Λάβετε υπόψη το νωρίτερο σούρουπο που ξεκινά από τις 16:30.",
+              "Ένα αδιάβροχο κατά του ανέμου είναι πιο σημαντικό από το χοντρό μάλλινο."
             ]
           }
         }
@@ -1181,7 +1279,8 @@
             "de": "Parkplatz am Stadtrand",
             "hu": "Parkoló a város szélén",
             "ro": "Parcare la marginea orașului",
-            "en": "Parking at the edge of town"
+            "en": "Parking at the edge of town",
+            "el": "Στάθμευση στην άκρη της πόλης"
           },
           "coords": [
             23.161,
@@ -1197,7 +1296,8 @@
             "de": "Parken Sie hier Ihr Auto für den Tag. Das Zentrum von Spetses ist größtenteils autofrei.",
             "hu": "Parkolja le itt az autóját a napra. Szpécesz központja nagyrészt autómentes.",
             "ro": "Parcați-vă mașina aici pentru întreaga zi. Centrul orașului Spetses este în mare parte pietonal.",
-            "en": "Park your car here for the day. Spetses town center is mostly car-free."
+            "en": "Park your car here for the day. Spetses town center is mostly car-free.",
+            "el": "Παρκάρετε το αυτοκίνητό σας εδώ για όλη μέρα. Το κέντρο της Σπετσών είναι κυρίως χωρίς αυτοκίνητα."
           }
         },
         {
@@ -1205,7 +1305,8 @@
             "de": "Dapia & Poseidonion (Cluster 1)",
             "hu": "Dapia és Poseidonion (1. csoport)",
             "ro": "Dapia și Poseidonion (Cluster 1)",
-            "en": "Dapia & Poseidonion (Cluster 1)"
+            "en": "Dapia & Poseidonion (Cluster 1)",
+            "el": "Δαπία & Ποσειδώνιο (Ομάδα 1)"
           },
           "coords": [
             23.1667,
@@ -1221,7 +1322,8 @@
             "de": "Erkunden Sie den Hauptplatz und die Umgebung zu Fuß.",
             "hu": "Fedezze fel gyalog a főteret és környékét.",
             "ro": "Explorați piața principală și împrejurimile pe jos.",
-            "en": "Explore the main square and its surroundings on foot."
+            "en": "Explore the main square and its surroundings on foot.",
+            "el": "Εξερευνήστε την κεντρική πλατεία και τα γύρω με τα πόδια."
           }
         },
         {
@@ -1229,7 +1331,8 @@
             "de": "Bouboulina-Museum (Cluster 1)",
             "hu": "Bubulina Múzeum (1. csoport)",
             "ro": "Muzeul Bouboulina (Cluster 1)",
-            "en": "Bouboulina Museum (Cluster 1)"
+            "en": "Bouboulina Museum (Cluster 1)",
+            "el": "Μουσείο Μπουμπουλίνας (Ομάδα 1)"
           },
           "coords": [
             23.1658,
@@ -1245,7 +1348,8 @@
             "de": "Nur ein kurzer Spaziergang vom Platz entfernt, ein Muss für Geschichtsinteressierte.",
             "hu": "Csak egy rövid séta a tértől, kötelező a történelem iránt érdeklődőknek.",
             "ro": "La o scurtă plimbare de piață, o vizită obligatorie pentru pasionații de istorie.",
-            "en": "Just a short walk from the square, a must-see for history buffs."
+            "en": "Just a short walk from the square, a must-see for history buffs.",
+            "el": "Μόλις λίγα βήματα από την πλατεία, απαραίτητο για τους λάτρεις της ιστορίας."
           }
         },
         {
@@ -1253,7 +1357,8 @@
             "de": "Fahrt zum Alten Hafen (Cluster 2)",
             "hu": "Autóút a Régi Kikötőhöz (2. csoport)",
             "ro": "Călătorie cu mașina spre Portul Vechi (Cluster 2)",
-            "en": "Drive to the Old Harbour (Cluster 2)"
+            "en": "Drive to the Old Harbour (Cluster 2)",
+            "el": "Οδηγήστε προς το Παλιό Λιμάνι (Ομάδα 2)"
           },
           "coords": [
             23.174,
@@ -1269,7 +1374,8 @@
             "de": "Fahren Sie um die Stadt herum und parken Sie in der Nähe des Alten Hafens. Genießen Sie hier Ihr Mittagessen.",
             "hu": "Kerülje meg a várost, és parkoljon a Régi Kikötő közelében. Itt ebédeljen.",
             "ro": "Conduceți în jurul orașului și parcați lângă Portul Vechi. Bucurați-vă de prânz aici.",
-            "en": "Drive around the town and park near the Old Harbour. Enjoy your lunch here."
+            "en": "Drive around the town and park near the Old Harbour. Enjoy your lunch here.",
+            "el": "Κάντε μια βόλτα γύρω από την πόλη και παρκάρετε κοντά στο Παλιό Λιμάνι. Απολαύστε το γεύμα σας εδώ."
           }
         },
         {
@@ -1277,7 +1383,8 @@
             "de": "Spetses-Museum (Cluster 2)",
             "hu": "Szpécesz Múzeum (2. csoport)",
             "ro": "Muzeul din Spetses (Cluster 2)",
-            "en": "Spetses Museum (Cluster 2)"
+            "en": "Spetses Museum (Cluster 2)",
+            "el": "Μουσείο Σπετσών (Ομάδα 2)"
           },
           "coords": [
             23.1705,
@@ -1293,7 +1400,8 @@
             "de": "Spazieren Sie vom Hafen zum Museum, das in einem Herrenhaus aus dem 18. Jahrhundert untergebracht ist.",
             "hu": "Sétáljon a kikötőből a múzeumhoz, amely egy 18. századi udvarházban található.",
             "ro": "Plimbați-vă de la port la muzeu, găzduit într-un conac din secolul al XVIII-lea.",
-            "en": "Walk from the harbour to the museum, housed in an 18th-century mansion."
+            "en": "Walk from the harbour to the museum, housed in an 18th-century mansion.",
+            "el": "Περπατήστε από το λιμάνι στο μουσείο, που στεγάζεται σε ένα μέγαρο του 18ου αιώνα."
           }
         },
         {
@@ -1301,7 +1409,8 @@
             "de": "Leuchtturm & Ausblick (Cluster 2)",
             "hu": "Világítótorony és kilátás (2. csoport)",
             "ro": "Farul și priveliștea (Cluster 2)",
-            "en": "Lighthouse & View (Cluster 2)"
+            "en": "Lighthouse & View (Cluster 2)",
+            "el": "Φάρος & Θέα (Ομάδα 2)"
           },
           "coords": [
             23.177,
@@ -1317,7 +1426,8 @@
             "de": "Der perfekte Abschluss des Tages. Ein Spaziergang entlang der Mole bietet die beste Aussicht auf den Sonnenuntergang.",
             "hu": "A nap tökéletes befejezése. Séta a mólón a legjobb naplemente-kilátásért.",
             "ro": "Finalul perfect al zilei. O plimbare de-a lungul digului oferă cea mai bună priveliște la apus.",
-            "en": "The perfect end to the day. A walk along the mole offers the best sunset views."
+            "en": "The perfect end to the day. A walk along the mole offers the best sunset views.",
+            "el": "Το τέλειο τέλος της ημέρας. Μια βόλτα κατά μήκος της μώλου προσφέρει τις καλύτερες θέες για το ηλιοβασίλεμα."
           }
         }
       ],
@@ -1325,7 +1435,8 @@
         "de": "Ihr Tag beginnt damit, dass Sie Ihr Auto am Rande der autofreien Zone parken. Der Vormittag gehört dem ersten Cluster: ein Spaziergang zum Dapia-Platz und zum Bouboulina-Museum. Mittags holen Sie Ihr Auto und fahren zum zweiten Cluster, dem Alten Hafen. Nach einem ausgiebigen Mittagessen erkunden Sie zu Fuß das Spetses-Museum und die traditionellen Werften. Der späte Nachmittag führt Sie zum Leuchtturm für einen spektakulären Sonnenuntergang, bevor Sie zu Ihrem Auto zurückkehren.",
         "hu": "A nap azzal kezdődik, hogy leparkolja autóját az autómentes zóna szélén. A délelőtt az első csoporthoz tartozik: séta a Dapia térre és a Bubulina Múzeumhoz. Délben felveszi az autóját, és a második csoporthoz, a Régi Kikötőhöz hajt. Egy kiadós ebéd után gyalog fedezi fel a Szpécesz Múzeumot és a hagyományos hajógyárakat. A késő délután a világítótoronyhoz vezet egy látványos naplementéért, mielőtt visszatérne az autójához.",
         "ro": "Ziua dvs. începe prin parcarea mașinii la marginea zonei pietonale. Dimineața este dedicată primului cluster: o plimbare până în Piața Dapia și la Muzeul Bouboulina. La prânz, vă luați mașina și conduceți spre al doilea cluster, Portul Vechi. După un prânz copios, explorați pe jos Muzeul Spetses și șantierele navale tradiționale. După-amiaza târziu vă duce la far pentru un apus spectaculos, înainte de a vă întoarce la mașină.",
-        "en": "Your day begins by parking your car at the edge of the car-free zone. The morning belongs to the first cluster: a walk to Dapia Square and the Bouboulina Museum. At midday, you'll retrieve your car and drive to the second cluster, the Old Harbour. After a hearty lunch, explore the Spetses Museum and traditional boatyards on foot. The late afternoon takes you to the lighthouse for a spectacular sunset before returning to your car."
+        "en": "Your day begins by parking your car at the edge of the car-free zone. The morning belongs to the first cluster: a walk to Dapia Square and the Bouboulina Museum. At midday, you'll retrieve your car and drive to the second cluster, the Old Harbour. After a hearty lunch, explore the Spetses Museum and traditional boatyards on foot. The late afternoon takes you to the lighthouse for a spectacular sunset before returning to your car.",
+        "el": "Η μέρα σας αρχίζει παρκάροντας το αυτοκίνητο στην άκρη της ζώνης χωρίς αυτοκίνητα. Το πρωί ανήκει στην πρώτη ομάδα: περπάτημα στην Πλατεία Δαπίας και το Μουσείο Μπουμπουλίνας. Το μεσημέρι θα παραλάβετε το αυτοκίνητο και θα οδηγήσετε στη δεύτερη ομάδα, το Παλιό Λιμάνι. Μετά από ένα χορταστικό γεύμα, εξερευνήστε το Μουσείο Σπετσών και τα παραδοσιακά καρνάγια με τα πόδια. Το αργά απόγευμα σας οδηγεί στο φάρο για ένα εντυπωσιακό ηλιοβασίλεμα πριν επιστρέψετε στο αυτοκίνητό σας."
       },
       "gastro_picks": {
         "de": [
@@ -1521,6 +1632,12 @@
           "Parking spaces are scarce. Plan to park your car and walk.",
           "A car allows you to visit more remote beaches on the island that are difficult to reach on foot.",
           "Watch out for scooters and horse-drawn carriages sharing the roads."
+        ],
+        "el": [
+          "Η οδήγηση στις Σπέτσες είναι ευκολότερη εκτός της υψηλής σεζόν. Το καλοκαίρι γίνεται πολύ κοσμοπολίτικο.",
+          "Οι θέσεις στάθμευσης είναι λίγες. Προγραμματίστε να παρκάρετε και να περπατήσετε.",
+          "Ένα αυτοκίνητο σας επιτρέπει να επισκεφθείτε πιο απομακρυσμένες παραλίες του νησιού που είναι δύσκολο να προσεγγιστούν με τα πόδια.",
+          "Προσέξτε για σκούτερ και αμαξάκια που μοιράζονται τους δρόμους."
         ]
       },
       "variants": {
@@ -1529,7 +1646,8 @@
             "de": "Mit dem Fahrzeug (Taxi oder lokaler Transport) ist Regen auf Spetses kein Hindernis. Morgens erreichen Sie Dapia trocken und genießen den Blick auf das graue Meer. Das Bouboulina-Museum bietet mittags ein perfektes Indoor-Programm. Nachmittags bringt Sie die Fahrt zum alten Hafen und zum Spetses-Museum bequem ans Ziel, ohne nass zu werden. Den Tag beschließen Sie am Leuchtturm, wo Sie den Regen aus der geschützten Kabine beobachten.",
             "hu": "Gépjárművel (taxi vagy helyi járat) az eső nem akadály Spetsesen. Reggel szárazon érkezhet Dapiába, és gyönyörködhet a szürke tenger látványában. A Bouboulina Múzeum délben tökéletes beltéri programot kínál. Délután a kikötőhöz és a Spetses Múzeumhoz vezető út kényelmesen, ázás nélkül tehető meg. A napot a világítótoronynál zárhatja, a védett utastérből figyelve az esőt.",
             "ro": "Cu un vehicul (taxi sau transport local), ploaia nu este un obstacol în Spetses. Dimineața ajungeți uscat în Dapia și admirați marea gri. Muzeul Bouboulina oferă la prânz programul perfect de interior. După-amiaza, drumul spre Portul Vechi și Muzeul Spetses vă duce la destinație fără efort. Încheiați ziua la far, observând ploaia din confortul habitaclului.",
-            "en": "By vehicle (taxi or local transport), the rain is no obstacle on Spetses. In the morning, reach Dapia dry and enjoy the view of the grey sea. The Bouboulina Museum offers a perfect indoor program at midday. In the afternoon, the drive to the Old Harbour and Spetses Museum gets you to your destination without getting wet. End your day at the lighthouse, watching the rain from the shelter of the vehicle."
+            "en": "By vehicle (taxi or local transport), the rain is no obstacle on Spetses. In the morning, reach Dapia dry and enjoy the view of the grey sea. The Bouboulina Museum offers a perfect indoor program at midday. In the afternoon, the drive to the Old Harbour and Spetses Museum gets you to your destination without getting wet. End your day at the lighthouse, watching the rain from the shelter of the vehicle.",
+            "el": "Με όχημα (ταξί ή τοπική μεταφορά), η βροχή δεν είναι εμπόδιο στις Σπέτσες. Το πρωί φτάνετε στη Δαπία στεγνοί και απολαμβάνετε τη θέα της γκρίζας θάλασσας. Το Μουσείο Μπουμπουλίνας προσφέρει τέλειο εσωτερικό πρόγραμμα το μεσημέρι. Το απόγευμα, η διαδρομή προς το Παλιό Λιμάνι και το Μουσείο Σπετσών σας οδηγεί στον προορισμό χωρίς να βραχείτε. Ολοκληρώστε τη μέρα σας στο φάρο, παρακολουθώντας τη βροχή από την ασφάλεια του οχήματος."
           },
           "stops": [
             {
@@ -1538,7 +1656,8 @@
                 "de": "Erwarten Sie Pfützen auf dem Parkplatz.",
                 "hu": "Számítson tócsákra a parkolóban.",
                 "ro": "Așteptați-vă la bălți în parcare.",
-                "en": "Expect puddles in the parking area."
+                "en": "Expect puddles in the parking area.",
+                "el": "Περιμένετε λακκούβες στην περιοχή στάθμευσης."
               }
             },
             {
@@ -1547,7 +1666,8 @@
                 "de": "Lassen Sie sich so nah wie möglich am Eingang absetzen.",
                 "hu": "Kérje, hogy a bejárathoz a lehető legközelebb tegyék ki.",
                 "ro": "Cereți să fiți lăsat cât mai aproape de intrare.",
-                "en": "Ask to be dropped off as close to the entrance as possible."
+                "en": "Ask to be dropped off as close to the entrance as possible.",
+                "el": "Ζητήστε να σας αφήσουν όσο το δυνατόν πιο κοντά στην είσοδο."
               }
             },
             {
@@ -1556,7 +1676,8 @@
                 "de": "Kurzer Fußweg vom Halt zum Museum.",
                 "hu": "Rövid gyalogút a megállótól a múzeumig.",
                 "ro": "Scurtă plimbare de la oprire până la muzeu.",
-                "en": "Short walk from the stop to the museum."
+                "en": "Short walk from the stop to the museum.",
+                "el": "Σύντομο περπάτημα από τη στάση προς το μουσείο."
               }
             },
             {
@@ -1565,7 +1686,8 @@
                 "de": "Genießen Sie die Aussicht durch die Scheiben.",
                 "hu": "Élvezze a kilátást az ablakokon keresztül.",
                 "ro": "Bucurați-vă de priveliște prin geamuri.",
-                "en": "Enjoy the view through the windows."
+                "en": "Enjoy the view through the windows.",
+                "el": "Απολαύστε τη θέα μέσα από τα παράθυρα."
               }
             },
             {
@@ -1574,7 +1696,8 @@
                 "de": "Der Zugang ist bei Regen oft etwas matschig.",
                 "hu": "Az odavezető út esőben gyakran sáros.",
                 "ro": "Accesul este adesea noroios pe timp de ploaie.",
-                "en": "Access is often a bit muddy during rain."
+                "en": "Access is often a bit muddy during rain.",
+                "el": "Η πρόσβαση είναι συχνά λίγο λασπώδης κατά τη βροχή."
               }
             },
             {
@@ -1583,7 +1706,8 @@
                 "de": "Bleiben Sie im Fahrzeug, falls es schüttet.",
                 "hu": "Maradjon a járműben, ha szakad az eső.",
                 "ro": "Rămâneți în vehicul dacă plouă torențial.",
-                "en": "Stay in the vehicle if it's pouring rain."
+                "en": "Stay in the vehicle if it's pouring rain.",
+                "el": "Μείνετε στο όχημα αν βρέχει καταρρακτωδώς."
               }
             }
           ],
@@ -1611,6 +1735,12 @@
               "Taxis are in high demand during rain, book in advance.",
               "The roads are narrow and can be slippery when wet.",
               "Keep some small change ready for the taxi fare."
+            ],
+            "el": [
+              "Απαγορεύονται τα ιδιωτικά αυτοκίνητα στη Σπέτσες· χρησιμοποιήστε ταξί.",
+              "Τα ταξί έχουν μεγάλη ζήτηση όταν βρέχει, κλείστε νωρίτερα.",
+              "Οι δρόμοι είναι στενοί και μπορεί να γλιστρήσουν όταν βρέχονται.",
+              "Κρατήστε ψιλά έτοιμα για τη διαδρομή με ταξί."
             ]
           }
         },
@@ -1619,7 +1749,8 @@
             "de": "Eine winterliche Tour mit dem Fahrzeug zeigt Spetses von seiner ruhigsten Seite. Morgens gleiten Sie durch die klare Luft nach Dapia. Der Besuch im Bouboulina-Museum ist mittags eine willkommene Aufwärmpause. Nachmittags führt Sie die Fahrt zum alten Hafen, wo fast alle Yachten verschwunden sind. Zum Abschluss bietet der Leuchtturm einen dramatischen Blick auf den frühen winterlichen Sonnenuntergang über dem Saronischen Golf.",
             "hu": "A téli autós túra Spetses legnyugodtabb arcát mutatja meg. Reggel a tiszta levegőben érkezhet Dapiába. A Bouboulina Múzeum délben kellemes felmelegedést nyújt. Délután a kikötőbe látogathat, ahonnan szinte minden jacht eltűnt már. Zárásként a világítótoronytól drámai kilátás nyílik a Szaroniki-öböl feletti korai téli naplementére.",
             "ro": "Un tur cu vehiculul pe timp de iarnă arată cea mai liniștită latură a insulei Spetses. Dimineața, glisați prin aerul curat spre Dapia. Vizita la Muzeul Bouboulina este o pauză de încălzire binevenită la prânz. După-amiaza, drumul vă duce în Portul Vechi, de unde majoritatea iahturilor au dispărut. La final, farul oferă o vedere dramatică asupra apusului timpuriu de iarnă peste Golful Saronic.",
-            "en": "A winter tour by vehicle shows Spetses at its quietest. In the morning, glide through the crisp air to Dapia. The Bouboulina Museum visit at midday is a welcome warming break. In the afternoon, the drive takes you to the Old Harbour, where most yachts have disappeared for the season. To conclude, the lighthouse offers a dramatic view of the early winter sunset over the Saronic Gulf."
+            "en": "A winter tour by vehicle shows Spetses at its quietest. In the morning, glide through the crisp air to Dapia. The Bouboulina Museum visit at midday is a welcome warming break. In the afternoon, the drive takes you to the Old Harbour, where most yachts have disappeared for the season. To conclude, the lighthouse offers a dramatic view of the early winter sunset over the Saronic Gulf.",
+            "el": "Ένα χειμερινό οδικό τουρ δείχνει τις Σπέτσες στην πιο ήσυχη όψη τους. Το πρωί γλιστράτε στον καθαρό αέρα προς τη Δάπια. Η επίσκεψη στο Μουσείο Μπουμπουλίνας το μεσημέρι είναι ένα ευπρόσδεκτο ζεστό διάλειμμα. Το απόγευμα το ταξίδι σας φέρνει στο Παλαιό Λιμάνι, όπου τα περισσότερα γιοτ έχουν εξαφανιστεί για τη σεζόν. Για να ολοκληρώσετε, ο φάρος προσφέρει δραματική θέα του πρώιμου χειμερινού ηλιοβασιλέματος πάνω από τον Σαρωνικό Κόλπο."
           },
           "stops": [
             {
@@ -1628,7 +1759,8 @@
                 "de": "Im Winter gibt es hier reichlich Platz.",
                 "hu": "Télen bőven van itt szabad hely.",
                 "ro": "Iarna există locuri din abundență aici.",
-                "en": "There is plenty of parking space in winter."
+                "en": "There is plenty of parking space in winter.",
+                "el": "Υπάρχει άφθονος χώρος στάθμευσης τον χειμώνα."
               }
             },
             {
@@ -1637,7 +1769,8 @@
                 "de": "Die Sonne wärmt das Auto angenehm auf.",
                 "hu": "A napsütés kellemesen felmelegíti az autót.",
                 "ro": "Soarele încălzește plăcut mașina.",
-                "en": "The sun warms up the car pleasantly."
+                "en": "The sun warms up the car pleasantly.",
+                "el": "Ο ήλιος ζεσταίνει ευχάριστα το αυτοκίνητο."
               }
             },
             {
@@ -1646,7 +1779,8 @@
                 "de": "Ein geschützter Ort vor dem kühlen Seewind.",
                 "hu": "Védett hely a hűvös tengeri szél elől.",
                 "ro": "Un loc ferit de vântul rece al mării.",
-                "en": "A sheltered place from the cool sea breeze."
+                "en": "A sheltered place from the cool sea breeze.",
+                "el": "Μία προστατευμένη θέση από το δροσερό θαλασσινό αεράκι."
               }
             },
             {
@@ -1655,7 +1789,8 @@
                 "de": "Die Straßen sind fast leer, genießen Sie die Fahrt.",
                 "hu": "Az utak szinte üresek, élvezze az autózást.",
                 "ro": "Drumurile sunt aproape goale, bucurați-vă de drum.",
-                "en": "The roads are almost empty, enjoy the drive."
+                "en": "The roads are almost empty, enjoy the drive.",
+                "el": "Οι δρόμοι είναι σχεδόν άδειοι, απολαύστε τη διαδρομή."
               }
             },
             {
@@ -1664,7 +1799,8 @@
                 "de": "Die Innenräume bieten Schutz vor der Winterkälte.",
                 "hu": "A belső terek védelmet nyújtanak a téli hideg ellen.",
                 "ro": "Interioarele oferă protecție împotriva frigului iernii.",
-                "en": "The interiors provide protection from the winter cold."
+                "en": "The interiors provide protection from the winter cold.",
+                "el": "Τα εσωτερικά παρέχουν προστασία από το χειμερινό κρύο."
               }
             },
             {
@@ -1673,7 +1809,8 @@
                 "de": "Perfekt für Fotos ohne Touristenmassen.",
                 "hu": "Tökéletes fotózáshoz turisták nélkül.",
                 "ro": "Perfect pentru fotografii fără mulțimi de turiști.",
-                "en": "Perfect for photos without the tourist crowds."
+                "en": "Perfect for photos without the tourist crowds.",
+                "el": "Ιδανικό για φωτογραφίες χωρίς τα πλήθη των τουριστών."
               }
             }
           ],
@@ -1701,6 +1838,12 @@
               "Vehicle heating is important due to the high humidity.",
               "Make full use of daylight until 4:30 PM.",
               "The view of the mainland is often clearer in winter."
+            ],
+            "el": [
+              "Τα ταξί είναι πιο διαθέσιμα τον χειμώνα απ’ ό,τι το καλοκαίρι.",
+              "Η θέρμανση του οχήματος είναι σημαντική λόγω της υψηλής υγρασίας.",
+              "Εκμεταλλευτείτε πλήρως το φως της ημέρας μέχρι τις 16:30.",
+              "Η θέα προς την ηπειρωτική χώρα είναι συχνά πιο καθαρή τον χειμώνα."
             ]
           }
         }
@@ -1719,7 +1862,8 @@
             "de": "Dapia-Platz (Cluster 1)",
             "hu": "Dapia tér (1. csoport)",
             "ro": "Piața Dapia (Cluster 1)",
-            "en": "Dapia Square (Cluster 1)"
+            "en": "Dapia Square (Cluster 1)",
+            "el": "Πλατεία Δάπια (Cluster 1)"
           },
           "coords": [
             23.1667,
@@ -1735,7 +1879,8 @@
             "de": "Der zentrale Knotenpunkt für Busse und Wassertaxis. Beginnen Sie hier mit einem Kaffee.",
             "hu": "A buszok és vízitaxik központi csomópontja. Kezdje itt egy kávéval.",
             "ro": "Nodul central pentru autobuze și taxiuri pe apă. Începeți aici cu o cafea.",
-            "en": "The central hub for buses and water taxis. Start here with a coffee."
+            "en": "The central hub for buses and water taxis. Start here with a coffee.",
+            "el": "Το κεντρικό σημείο για λεωφορεία και θαλάσσια ταξί. Ξεκινήστε εδώ με έναν καφέ."
           }
         },
         {
@@ -1743,7 +1888,8 @@
             "de": "Bouboulina-Museum (Cluster 1)",
             "hu": "Bubulina Múzeum (1. csoport)",
             "ro": "Muzeul Bouboulina (Cluster 1)",
-            "en": "Bouboulina Museum (Cluster 1)"
+            "en": "Bouboulina Museum (Cluster 1)",
+            "el": "Μουσείο Μπουμπουλίνας (Cluster 1)"
           },
           "coords": [
             23.1658,
@@ -1759,7 +1905,8 @@
             "de": "Entdecken Sie die Geschichte der Heldin, die nur wenige Schritte vom Hafen entfernt ist.",
             "hu": "Fedezze fel a hősnő történetét, csak néhány lépésre a kikötőtől.",
             "ro": "Descoperiți povestea eroinei la doar câțiva pași de port.",
-            "en": "Discover the story of the heroine just a few steps from the port."
+            "en": "Discover the story of the heroine just a few steps from the port.",
+            "el": "Ανακαλύψτε την ιστορία της ηρωίδας μόλις λίγα βήματα από το λιμάνι."
           }
         },
         {
@@ -1767,7 +1914,8 @@
             "de": "Wassertaxi zum Alten Hafen (Cluster 2)",
             "hu": "Vízitaxi a Régi Kikötőbe (2. csoport)",
             "ro": "Taxi pe apă spre Portul Vechi (Cluster 2)",
-            "en": "Water Taxi to Old Harbour (Cluster 2)"
+            "en": "Water Taxi to Old Harbour (Cluster 2)",
+            "el": "Θαλάσσιο ταξί προς Παλαιό Λιμάνι (Cluster 2)"
           },
           "coords": [
             23.174,
@@ -1783,7 +1931,8 @@
             "de": "Eine schnelle und malerische Fahrt. Genießen Sie die Aussicht auf die Küste und essen Sie hier zu Mittag.",
             "hu": "Gyors és festői utazás. Élvezze a tengerparti kilátást és ebédeljen itt.",
             "ro": "O călătorie rapidă și pitorească. Bucurați-vă de priveliștea coastei și luați prânzul aici.",
-            "en": "A quick and scenic ride. Enjoy the coastal views and have lunch here."
+            "en": "A quick and scenic ride. Enjoy the coastal views and have lunch here.",
+            "el": "Μια γρήγορη και γραφική διαδρομή. Απολαύστε τις παράκτιες όψεις και γευματίστε εδώ."
           }
         },
         {
@@ -1791,7 +1940,8 @@
             "de": "Kirche Agios Nikolaos (Cluster 2)",
             "hu": "Szent Miklós-templom (2. csoport)",
             "ro": "Biserica Agios Nikolaos (Cluster 2)",
-            "en": "Church of Agios Nikolaos (Cluster 2)"
+            "en": "Church of Agios Nikolaos (Cluster 2)",
+            "el": "Εκκλησία Αγίου Νικολάου (Cluster 2)"
           },
           "coords": [
             23.169,
@@ -1807,7 +1957,8 @@
             "de": "Ein kurzer Spaziergang vom Hafen entfernt, ein Juwel der Kirchenarchitektur.",
             "hu": "Rövid sétára a kikötőtől, a templomépítészet gyöngyszeme.",
             "ro": "La o scurtă plimbare de port, o bijuterie a arhitecturii bisericești.",
-            "en": "A short walk from the harbour, a gem of ecclesiastical architecture."
+            "en": "A short walk from the harbour, a gem of ecclesiastical architecture.",
+            "el": "Μικρή απόσταση με τα πόδια από το λιμάνι, ένα στολίδι της εκκλησιαστικής αρχιτεκτονικής."
           }
         },
         {
@@ -1815,7 +1966,8 @@
             "de": "Spetses-Museum (Cluster 2)",
             "hu": "Szpécesz Múzeum (2. csoport)",
             "ro": "Muzeul din Spetses (Cluster 2)",
-            "en": "Spetses Museum (Cluster 2)"
+            "en": "Spetses Museum (Cluster 2)",
+            "el": "Μουσείο Σπετσών (Cluster 2)"
           },
           "coords": [
             23.1705,
@@ -1831,7 +1983,8 @@
             "de": "Vertiefen Sie Ihr Wissen über die reiche Geschichte der Insel.",
             "hu": "Mélyítse el ismereteit a sziget gazdag történelméről.",
             "ro": "Aprofundați-vă cunoștințele despre istoria bogată a insulei.",
-            "en": "Deepen your knowledge of the island's rich history."
+            "en": "Deepen your knowledge of the island's rich history.",
+            "el": "Βαθύνετε τη γνώση σας για την πλούσια ιστορία του νησιού."
           }
         },
         {
@@ -1839,7 +1992,8 @@
             "de": "Leuchtturm-Spaziergang (Cluster 2)",
             "hu": "Séta a világítótoronyhoz (2. csoport)",
             "ro": "Plimbare la Far (Cluster 2)",
-            "en": "Lighthouse Walk (Cluster 2)"
+            "en": "Lighthouse Walk (Cluster 2)",
+            "el": "Περίπατος προς τον Φάρο (Cluster 2)"
           },
           "coords": [
             23.177,
@@ -1855,7 +2009,8 @@
             "de": "Genießen Sie einen langen Spaziergang zum Leuchtturm, um den Tag ausklingen zu lassen, bevor Sie ein Wassertaxi zurücknehmen.",
             "hu": "Élvezzen egy hosszú sétát a világítótoronyhoz a nap lezárásaként, mielőtt visszamenne egy vízitaxival.",
             "ro": "Bucurați-vă de o plimbare lungă până la far pentru a încheia ziua înainte de a lua un taxi pe apă înapoi.",
-            "en": "Enjoy a long walk to the lighthouse to end the day before taking a water taxi back."
+            "en": "Enjoy a long walk to the lighthouse to end the day before taking a water taxi back.",
+            "el": "Απολαύστε έναν μακρύ περίπατο μέχρι τον φάρο για να τελειώσετε την ημέρα πριν πάρετε το θαλάσσιο ταξί για την επιστροφή."
           }
         }
       ],
@@ -1863,7 +2018,8 @@
         "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt im geschäftigen Zentrum von Dapia, wo Sie das Bouboulina-Museum zu Fuß erkunden. Am späten Vormittag nehmen Sie ein Wassertaxi – eine Attraktion für sich – zum zweiten Cluster, dem Alten Hafen. Hier verbringen Sie den Mittag und Nachmittag mit einem Spaziergang zur Agios Nikolaos Kirche, dem Spetses-Museum und schließlich zum Leuchtturm. Ein weiteres Wassertaxi bringt Sie am Abend bequem zurück zum Ausgangspunkt.",
         "hu": "Tömegközlekedéssel töltött napja a nyüzsgő Dapia központjában kezdődik, ahol gyalog fedezi fel a Bubulina Múzeumot. Késő délelőtt egy vízitaxival – ami önmagában is látványosság – a második csoporthoz, a Régi Kikötőbe utazik. Itt tölti a délt és a délutánt egy sétával a Szent Miklós-templomhoz, a Szpécesz Múzeumhoz és végül a világítótoronyhoz. Este egy másik vízitaxi kényelmesen visszaviszi a kiindulópontra.",
         "ro": "Ziua dvs. cu transportul public începe în centrul plin de viață din Dapia, unde explorați pe jos Muzeul Bouboulina. Spre sfârșitul dimineții, luați un taxi pe apă - o atracție în sine - către al doilea cluster, Portul Vechi. Aici vă petreceți prânzul și după-amiaza plimbându-vă la Biserica Agios Nikolaos, Muzeul Spetses și, în final, la far. Un alt taxi pe apă vă va duce confortabil înapoi la punctul de plecare seara.",
-        "en": "Your day on public transport begins in the bustling center of Dapia, where you'll explore the Bouboulina Museum on foot. In the late morning, you'll take a water taxi—an attraction in itself—to the second cluster, the Old Harbour. Here you'll spend midday and afternoon strolling to Agios Nikolaos Church, the Spetses Museum, and finally the lighthouse. Another water taxi will comfortably take you back to your starting point in the evening."
+        "en": "Your day on public transport begins in the bustling center of Dapia, where you'll explore the Bouboulina Museum on foot. In the late morning, you'll take a water taxi—an attraction in itself—to the second cluster, the Old Harbour. Here you'll spend midday and afternoon strolling to Agios Nikolaos Church, the Spetses Museum, and finally the lighthouse. Another water taxi will comfortably take you back to your starting point in the evening.",
+        "el": "Η ημέρα σας με τα δημόσια μέσα ξεκινά στο πολυσύχναστο κέντρο της Δάπιας, όπου θα εξερευνήσετε πεζή το Μουσείο Μπουμπουλίνας. Νωρίς το πρωί θα πάρετε ένα θαλάσσιο ταξί—αξιοθέατο από μόνο του—προς τη δεύτερη ομάδα, το Παλαιό Λιμάνι. Εδώ θα περάσετε το μεσημέρι και το απόγευμα περπατώντας προς την εκκλησία του Αγίου Νικολάου, το Μουσείο Σπετσών και τελικά τον φάρο. Ένα άλλο θαλάσσιο ταξί θα σας επιστρέψει άνετα στο σημείο εκκίνησης το βράδυ."
       },
       "gastro_picks": {
         "de": [
@@ -2059,6 +2215,12 @@
           "The bus is a cheaper alternative to reach other parts of the island.",
           "Schedules can vary by season, so check them in advance.",
           "Keep small change handy for bus tickets and water taxis."
+        ],
+        "el": [
+          "Τα θαλάσσια ταξί είναι γρήγορος τρόπος μετακίνησης μεταξύ Δάπιας και Παλαιού Λιμανιού, αλλά είναι πιο ακριβά από το λεωφορείο.",
+          "Το λεωφορείο είναι φθηνότερη εναλλακτική για να φτάσετε σε άλλα μέρη του νησιού.",
+          "Τα δρομολόγια μπορεί να διαφέρουν ανά εποχή, οπότε ελέγξτε τα εκ των προτέρων.",
+          "Κρατήστε ψιλά για εισιτήρια λεωφορείου και θαλάσσια ταξί."
         ]
       },
       "variants": {
@@ -2067,7 +2229,8 @@
             "de": "Die Nutzung von Wassertaxis und Bussen ist bei Regen auf Spetses die trockenste Wahl. Morgens erreichen Sie Dapia bequem per Boot. Das Bouboulina-Museum bietet mittags eine lehrreiche Pause vom Wetter. Nachmittags bringt Sie das Wassertaxi zum alten Hafen, wobei die Überfahrt bei Regen eine besondere Dynamik hat. Den Tag beenden Sie mit einem kurzen Besuch am Leuchtturm, bevor Sie den Rückweg im Schutz des Nahverkehrs antreten.",
             "hu": "A vízitaxik és buszok használata a legszárazabb választás esőben Spetsesen. Reggel hajóval kényelmesen érheti el Dapiát. A Bouboulina Múzeum délben tanulságos menedéket nyújt az időjárás elől. Délután vízitaxi viszi a régi kikötőbe; az átkelés esőben különleges élmény. A napot egy rövid világítótorony-látogatással zárhatja, mielőtt a tömegközlekedés védelmében visszatérne.",
             "ro": "Utilizarea taxiurilor pe apă și a autobuzelor este cea mai uscată alegere pe ploaie în Spetses. Dimineața ajungeți confortabil în Dapia cu barca. Muzeul Bouboulina oferă la prânz o pauză educativă de la vremea rea. După-amiaza, taxiul pe apă vă duce în Portul Vechi; traversarea pe ploaie are o dinamică aparte. Încheiați ziua cu o scurtă vizită la far, înainte de a reveni cu transportul local.",
-            "en": "Using water taxis and buses is the driest choice during rain on Spetses. In the morning, reach Dapia comfortably by boat. The Bouboulina Museum provides an educational break from the weather at midday. In the afternoon, a water taxi takes you to the Old Harbour; the crossing in the rain has a special atmosphere. End your day with a brief visit to the lighthouse before returning under the protection of transit."
+            "en": "Using water taxis and buses is the driest choice during rain on Spetses. In the morning, reach Dapia comfortably by boat. The Bouboulina Museum provides an educational break from the weather at midday. In the afternoon, a water taxi takes you to the Old Harbour; the crossing in the rain has a special atmosphere. End your day with a brief visit to the lighthouse before returning under the protection of transit.",
+            "el": "Η χρήση θαλάσσιων ταξί και λεωφορείων είναι η πιο στεγνή επιλογή όταν βρέχει στις Σπέτσες. Το πρωί φτάνετε άνετα στη Δάπια με σκάφος. Το Μουσείο Μπουμπουλίνας προσφέρει ένα εκπαιδευτικό διάλειμμα από τον καιρό το μεσημέρι. Το απόγευμα ένα θαλάσσιο ταξί σας μεταφέρει στο Παλαιό Λιμάνι· η διάσχιση στη βροχή έχει μια ιδιαίτερη ατμόσφαιρα. Τελειώστε την ημέρα με μια σύντομη επίσκεψη στον φάρο πριν επιστρέψετε υπό την προστασία των μέσων μεταφοράς."
           },
           "stops": [
             {
@@ -2076,7 +2239,8 @@
                 "de": "Warten Sie unter den Vordächern auf den Bus.",
                 "hu": "Várjon a buszra az ereszek alatt.",
                 "ro": "Așteptați autobuzul sub acoperișuri.",
-                "en": "Wait for the bus under the eaves."
+                "en": "Wait for the bus under the eaves.",
+                "el": "Περιμένετε το λεωφορείο κάτω από τα σκέπαστρα."
               }
             },
             {
@@ -2085,7 +2249,8 @@
                 "de": "Einige Schritte durch den Regen zum Eingang.",
                 "hu": "Pár lépés az esőben a bejáratig.",
                 "ro": "Câțiva pași prin ploaie până la intrare.",
-                "en": "A few steps through the rain to the entrance."
+                "en": "A few steps through the rain to the entrance.",
+                "el": "Λίγα βήματα μέσα στη βροχή προς την είσοδο."
               }
             },
             {
@@ -2094,7 +2259,8 @@
                 "de": "Wassertaxis sind bei Regen meist überdacht.",
                 "hu": "A vízitaxik esőben általában fedettek.",
                 "ro": "Taxiurile pe apă sunt de obicei acoperite pe ploaie.",
-                "en": "Water taxis are usually covered during rain."
+                "en": "Water taxis are usually covered during rain.",
+                "el": "Τα θαλάσσια ταξί συνήθως είναι καλυμμένα όταν βρέχει."
               }
             },
             {
@@ -2103,7 +2269,8 @@
                 "de": "Ein schöner Ort, um einen Schauer abzuwarten.",
                 "hu": "Jó hely egy zápor kivárására.",
                 "ro": "Un loc bun pentru a aștepta trecerea unei averse.",
-                "en": "A good place to wait out a shower."
+                "en": "A good place to wait out a shower.",
+                "el": "Ένα καλό μέρος για να περιμένετε να περάσει μια μπόρα."
               }
             },
             {
@@ -2112,7 +2279,8 @@
                 "de": "Planen Sie Zeit für den Weg zur Haltestelle ein.",
                 "hu": "Számoljon időt a megállóig való eljutásra.",
                 "ro": "Alocați timp pentru drumul până la stație.",
-                "en": "Allow time for the walk to the transit stop."
+                "en": "Allow time for the walk to the transit stop.",
+                "el": "Αφιερώστε χρόνο για τον περίπατο μέχρι τη στάση των μέσων."
               }
             },
             {
@@ -2121,7 +2289,8 @@
                 "de": "Wenig Schutz, halten Sie die Umbrelle bereit.",
                 "hu": "Kevés a menedék, tartsa készenlétben az esernyőt.",
                 "ro": "Puține adăposturi, țineți umbrela la îndemână.",
-                "en": "Little shelter, keep your umbrella ready."
+                "en": "Little shelter, keep your umbrella ready.",
+                "el": "Λίγη προστασία, κρατήστε ομπρέλα έτοιμη."
               }
             }
           ],
@@ -2149,6 +2318,12 @@
               "Bus schedules may vary during bad weather.",
               "Wear non-slip shoes when boarding and disembarking boats.",
               "Boats can be quite rocky in choppy waters."
+            ],
+            "el": [
+              "Τα θαλάσσια ταξί είναι η ραχοκοκαλιά των μεταφορών όταν βρέχει.",
+              "Τα δρομολόγια λεωφορείων μπορεί να ποικίλλουν σε άσχημο καιρό.",
+              "Φορέστε παπούτσια με αντιολισθητική σόλα κατά την επιβίβαση και αποβίβαση από σκάφη.",
+              "Τα σκάφη μπορεί να είναι αρκετά ταραχώδη σε κυματισμένα νερά."
             ]
           }
         },
@@ -2157,7 +2332,8 @@
             "de": "Der winterliche Nahverkehr auf Spetses ist entspannt, aber seltener. Morgens bringt Sie das Wassertaxi durch die stille Bucht nach Dapia. Nach einer Aufwärmpause im Bouboulina-Museum besuchen Sie mittags die ruhige Kirche Agios Nikolaos. Der Nachmittag gehört dem Spetses-Museum, bevor Sie die winterliche Atmosphäre am alten Hafen genießen. Rechtzeitig zum frühen Sonnenuntergang erreichen Sie den Leuchtturm, bevor Sie das letzte Wassertaxi zurücknehmen.",
             "hu": "A téli tömegközlekedés Spetsesen nyugodt, de ritkább. Reggel a vízitaxi a csendes öblön keresztül viszi Dapiába. A Bouboulina Múzeumban való felmelegedés után délben a nyugodt Agios Nikolaos templomot látogathatja meg. A délután a Spetses Múzeumé, majd a kikötő téli hangulatáé. Időben a korai naplementére érjen a világítótoronyhoz, mielőtt elcsípné az utolsó vízitaxit.",
             "ro": "Transportul local de iarnă în Spetses este relaxat, dar mai rar. Dimineața, taxiul pe apă vă duce prin golful liniștit spre Dapia. După o pauză de încălzire la Muzeul Bouboulina, vizitați biserica Agios Nikolaos la prânz. După-amiaza aparține Muzeului Spetses și atmosferei de iarnă din port. Ajungeți la far pentru apusul timpuriu, înainte de a lua ultimul taxi pe apă.",
-            "en": "Winter transit on Spetses is relaxed but less frequent. In the morning, a water taxi takes you through the silent bay to Dapia. After warming up at the Bouboulina Museum, visit the peaceful Agios Nikolaos Church at midday. Your afternoon is spent at the Spetses Museum and enjoying the winter atmosphere of the harbour. Reach the lighthouse for the early sunset before catching the last water taxi back."
+            "en": "Winter transit on Spetses is relaxed but less frequent. In the morning, a water taxi takes you through the silent bay to Dapia. After warming up at the Bouboulina Museum, visit the peaceful Agios Nikolaos Church at midday. Your afternoon is spent at the Spetses Museum and enjoying the winter atmosphere of the harbour. Reach the lighthouse for the early sunset before catching the last water taxi back.",
+            "el": "Ο χειμερινός συγκοινωνιακός ρυθμός στις Σπέτσες είναι χαλαρός αλλά λιγότερο συχνός. Το πρωί ένα θαλάσσιο ταξί σας περνά μέσα από τον ήσυχο κόλπο προς τη Δάπια. Μετά το ζέσταμα στο Μουσείο Μπουμπουλίνας, επισκεφθείτε την ήσυχη εκκλησία του Αγίου Νικολάου το μεσημέρι. Το απόγευμά σας περνά στο Μουσείο Σπετσών απολαμβάνοντας την χειμερινή ατμόσφαιρα του λιμανιού. Φτάστε στον φάρο για το πρώιμο ηλιοβασίλεμα πριν πιάσετε το τελευταίο θαλάσσιο ταξί της επιστροφής."
           },
           "stops": [
             {
@@ -2166,7 +2342,8 @@
                 "de": "Prüfen Sie den reduzierten Winterfahrplan.",
                 "hu": "Ellenőrizze a ritkított téli menetrendet.",
                 "ro": "Verificați orarul de iarnă redus.",
-                "en": "Check the reduced winter schedule."
+                "en": "Check the reduced winter schedule.",
+                "el": "Ελέγξτε το μειωμένο χειμερινό πρόγραμμα."
               }
             },
             {
@@ -2175,7 +2352,8 @@
                 "de": "Perfekt getaktet für eine Aufwärmpause.",
                 "hu": "Tökéletesen időzíthető egy melegedő szünetre.",
                 "ro": "Programat perfect pentru o pauză de încălzire.",
-                "en": "Perfectly timed for a warming break."
+                "en": "Perfectly timed for a warming break.",
+                "el": "Εξαιρετικά χρονισμένο για ένα θερμαντικό διάλειμμα."
               }
             },
             {
@@ -2184,7 +2362,8 @@
                 "de": "Die Überfahrt ist im Winter oft sehr kalt.",
                 "hu": "Az átkelés télen gyakran nagyon hideg.",
                 "ro": "Traversarea este adesea foarte rece iarna.",
-                "en": "The crossing is often very cold in winter."
+                "en": "The crossing is often very cold in winter.",
+                "el": "Η διάσχιση είναι συχνά πολύ κρύα τον χειμώνα."
               }
             },
             {
@@ -2193,7 +2372,8 @@
                 "de": "Nutzen Sie das Sonnenlicht für den Weg.",
                 "hu": "Használja ki a napsütést a gyalogláshoz.",
                 "ro": "Folosiți lumina soarelui pentru drum.",
-                "en": "Use the sunlight for your walk."
+                "en": "Use the sunlight for your walk.",
+                "el": "Χρησιμοποιήστε το ηλιακό φως για τον περίπατό σας."
               }
             },
             {
@@ -2202,7 +2382,8 @@
                 "de": "Die letzte Fahrt zurück ist oft schon gegen 17:30 Uhr.",
                 "hu": "Az utolsó járat visszafelé gyakran már 17:30-kor indul.",
                 "ro": "Ultima cursă de întoarcere este adesea în jur de 17:30.",
-                "en": "The last return trip is often as early as 5:30 PM."
+                "en": "The last return trip is often as early as 5:30 PM.",
+                "el": "Το τελευταίο δρομολόγιο επιστροφής είναι συχνά νωρίς, γύρω στις 17:30."
               }
             },
             {
@@ -2211,7 +2392,8 @@
                 "de": "Planen Sie den Rückweg vor Einbruch der Dunkelheit.",
                 "hu": "Tervezze a visszautat sötétedés előtt.",
                 "ro": "Planificați drumul de întoarcere înainte de lăsarea întunericului.",
-                "en": "Plan your walk back before it gets dark."
+                "en": "Plan your walk back before it gets dark.",
+                "el": "Σχεδιάστε την επιστροφή σας πριν σκοτεινιάσει."
               }
             }
           ],
@@ -2239,6 +2421,12 @@
               "Water taxis remain the most reliable connection in winter.",
               "The sun disappears early behind the hills.",
               "Wear a windproof jacket on the boat."
+            ],
+            "el": [
+              "Τα λεωφορεία κυκλοφορούν σημαντικά πιο αραιά τον χειμώνα απ’ ό,τι το καλοκαίρι.",
+              "Τα θαλάσσια ταξί παραμένουν η πιο αξιόπιστη σύνδεση τον χειμώνα.",
+              "Ο ήλιος χάνεται νωρίς πίσω από τους λόφους.",
+              "Φορέστε μπουφάν αδιάβροχο στον αέρα του σκάφους."
             ]
           }
         }

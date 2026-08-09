@@ -21,7 +21,8 @@
             "de": "Zentraler Platz",
             "hu": "Központi tér",
             "ro": "Piața Centrală",
-            "en": "Central Square"
+            "en": "Central Square",
+            "el": "Κεντρική Πλατεία"
           },
           "coords": [
             22.1335,
@@ -37,7 +38,8 @@
             "de": "Beginnen Sie den Tag mit einem Kaffee in einem der lokalen Kafenions.",
             "hu": "Indítsa a napot egy kávéval a helyi kafenionok egyikében.",
             "ro": "Începeți ziua cu o cafea la una dintre cafenelele locale (kafenion).",
-            "en": "Start your day with a coffee at one of the local kafenions."
+            "en": "Start your day with a coffee at one of the local kafenions.",
+            "el": "Ξεκινήστε τη μέρα σας με έναν καφέ σε ένα από τα τοπικά καφενεία."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Kirche Agios Georgios",
             "hu": "Szent György-templom",
             "ro": "Biserica Sfântul Gheorghe",
-            "en": "Church of Agios Georgios"
+            "en": "Church of Agios Georgios",
+            "el": "Εκκλησία του Αγίου Γεωργίου"
           },
           "coords": [
             22.1345,
@@ -61,7 +64,8 @@
             "de": "Bewundern Sie die Ikonostase und die ruhige Atmosphäre im Inneren.",
             "hu": "Csodálja meg az ikonosztázt és a benti békés légkört.",
             "ro": "Admirați iconostasul și atmosfera liniștită din interior.",
-            "en": "Admire the iconostasis and the serene atmosphere inside."
+            "en": "Admire the iconostasis and the serene atmosphere inside.",
+            "el": "Εκτιμήστε την εικόνα του ιερού τέμπλου και την γαλήνια ατμόσφαιρα μέσα."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Gefallenendenkmal",
             "hu": "Háborús emlékmű",
             "ro": "Monumentul Eroilor",
-            "en": "War Memorial"
+            "en": "War Memorial",
+            "el": "Μνημείο Πολέμου"
           },
           "coords": [
             22.1328,
@@ -85,7 +90,8 @@
             "de": "Ein Moment des Innehaltens, um der lokalen Geschichte zu gedenken.",
             "hu": "Egy pillanatnyi megállás, hogy megemlékezzen a helyi történelemről.",
             "ro": "Un moment de reculegere pentru a comemora istoria locală.",
-            "en": "A moment of pause to commemorate the local history."
+            "en": "A moment of pause to commemorate the local history.",
+            "el": "Μια στιγμή συγκέντρωσης για να τιμήσετε την τοπική ιστορία."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Volkskundliche Sammlung",
             "hu": "Néprajzi Gyűjtemény",
             "ro": "Colecția Folclorică",
-            "en": "Folklore Collection"
+            "en": "Folklore Collection",
+            "el": "Συλλογή Λαογραφίας"
           },
           "coords": [
             22.1315,
@@ -109,7 +116,8 @@
             "de": "Entdecken Sie traditionelle Werkzeuge und Trachten aus der Region Thessalien.",
             "hu": "Fedezze fel a thesszáliai régió hagyományos eszközeit és viseleteit.",
             "ro": "Descoperiți unelte și costume tradiționale din regiunea Tesalia.",
-            "en": "Discover traditional tools and costumes from the Thessaly region."
+            "en": "Discover traditional tools and costumes from the Thessaly region.",
+            "el": "Ανακαλύψτε παραδοσιακά εργαλεία και ενδύματα από την περιοχή της Θεσσαλίας."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Kulturzentrum Sofades",
             "hu": "Szofádeszi Kulturális Központ",
             "ro": "Centrul Cultural Sofades",
-            "en": "Sofades Cultural Center"
+            "en": "Sofades Cultural Center",
+            "el": "Πολιτιστικό Κέντρο Σοφάδων"
           },
           "coords": [
             22.135,
@@ -133,7 +142,8 @@
             "de": "Prüfen Sie, ob während Ihres Besuchs lokale Veranstaltungen oder Ausstellungen stattfinden.",
             "hu": "Nézze meg, hogy látogatása során tartanak-e helyi rendezvényeket vagy kiállításokat.",
             "ro": "Verificați dacă au loc evenimente sau expoziții locale în timpul vizitei dumneavoastră.",
-            "en": "Check if any local events or exhibitions are happening during your visit."
+            "en": "Check if any local events or exhibitions are happening during your visit.",
+            "el": "Ελέγξτε αν υπάρχουν τοπικές εκδηλώσεις ή εκθέσεις κατά τη διάρκεια της επίσκεψής σας."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Alter Bahnhof",
             "hu": "Régi vasútállomás",
             "ro": "Gara Veche",
-            "en": "Old Train Station"
+            "en": "Old Train Station",
+            "el": "Παλιός Σιδηροδρομικός Σταθμός"
           },
           "coords": [
             22.128,
@@ -157,7 +168,8 @@
             "de": "Ein nostalgischer Ort, der von der industriellen Vergangenheit der Stadt erzählt.",
             "hu": "Egy nosztalgikus hely, amely a város ipari múltjáról mesél.",
             "ro": "Un loc nostalgic care povestește despre trecutul industrial al orașului.",
-            "en": "A nostalgic spot that tells of the town's industrial past."
+            "en": "A nostalgic spot that tells of the town's industrial past.",
+            "el": "Ένα νοσταλγικό σημείο που αφηγείται το βιομηχανικό παρελθόν της πόλης."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Enipeas-Flussufer",
             "hu": "Enipeas-folyó partja",
             "ro": "Malul râului Enipeas",
-            "en": "Enipeas Riverbank"
+            "en": "Enipeas Riverbank",
+            "el": "Όχθη Ποταμού Ενιπέα"
           },
           "coords": [
             22.126,
@@ -181,7 +194,8 @@
             "de": "Perfekt für einen entspannten Spaziergang am späten Nachmittag.",
             "hu": "Tökéletes egy pihentető késő délutáni sétához.",
             "ro": "Perfect pentru o plimbare relaxantă la sfârșitul după-amiezii.",
-            "en": "Perfect for a relaxing late afternoon stroll."
+            "en": "Perfect for a relaxing late afternoon stroll.",
+            "el": "Ιδανικό για έναν χαλαρωτικό περίπατο αργά το απόγευμα."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Beginnen Sie Ihren Rundgang am belebten Zentralplatz, dem Herz der Stadt. Am Vormittag erkunden Sie die religiöse und historische Seite von Sofades, besuchen die Agios Georgios Kirche und das Kriegerdenkmal. Nach dem Mittagessen tauchen Sie im Folkloremuseum in die lokale Kultur ein, bevor Sie das moderne Kulturzentrum entdecken. Beenden Sie den Tag mit einem nostalgischen Besuch am alten Bahnhof und einem entspannenden Spaziergang entlang des Enipeas-Flusses, um die friedliche Atmosphäre zu genießen.",
         "hu": "Sétáját a város szívében, a nyüzsgő Központi téren kezdje. A délelőtt folyamán fedezze fel Szofádesz vallási és történelmi oldalát, látogasson el a Szent György-templomba és a háborús emlékműhöz. Ebéd után merüljön el a helyi kultúrában a Néprajzi Múzeumban, majd fedezze fel a modern Kulturális Központot. A napot egy nosztalgikus látogatással zárja a régi vasútállomáson, majd egy pihentető sétával az Enipeas-folyó partján, élvezve a békés hangulatot.",
         "ro": "Începeți turul pietonal în Piața Centrală plină de viață, inima orașului. Dimineața, explorați latura religioasă și istorică a Sofades, vizitând Biserica Sfântul Gheorghe și Monumentul Eroilor. După prânz, aprofundați cultura locală la Muzeul de Folclor înainte de a descoperi Centrul Cultural modern. Încheiați ziua cu o vizită nostalgică la vechea gară și o plimbare relaxantă de-a lungul malului râului Enipeas, bucurându-vă de atmosfera pașnică.",
-        "en": "Start your walking tour at the bustling Central Square, the heart of the city. In the morning, explore the religious and historical side of Sofades, visiting the Agios Georgios Church and the War Memorial. After lunch, delve into local culture at the Folklore Museum before discovering the modern Cultural Center. End your day with a nostalgic visit to the old train station and a relaxing stroll along the Enipeas riverbank, soaking in the peaceful atmosphere."
+        "en": "Start your walking tour at the bustling Central Square, the heart of the city. In the morning, explore the religious and historical side of Sofades, visiting the Agios Georgios Church and the War Memorial. After lunch, delve into local culture at the Folklore Museum before discovering the modern Cultural Center. End your day with a nostalgic visit to the old train station and a relaxing stroll along the Enipeas riverbank, soaking in the peaceful atmosphere.",
+        "el": "Ξεκινήστε την πεζοπορική σας περιήγηση από την πολυσύχναστη Κεντρική Πλατεία, την καρδιά της πόλης. Το πρωί εξερευνήστε την θρησκευτική και ιστορική πλευρά των Σοφάδων, επισκεπτόμενοι την εκκλησία του Αγίου Γεωργίου και το Μνημείο Πολέμου. Μετά το μεσημέρι, εμβαθύνετε στην τοπική κουλτούρα στο Λαογραφικό Μουσείο πριν ανακαλύψετε το σύγχρονο Πολιτιστικό Κέντρο. Ολοκληρώστε την ημέρα με μια νοσταλγική επίσκεψη στον παλιό σταθμό και έναν χαλαρωτικό περίπατο κατά μήκος του Ενιπέα, απολαμβάνοντας την ήρεμη ατμόσφαιρα."
       },
       "gastro_picks": {
         "de": [
@@ -385,6 +400,12 @@
           "Bring a reusable water bottle to stay hydrated.",
           "Most shops and museums might close during midday for a siesta.",
           "Embrace the slow pace of life and take your time for a coffee."
+        ],
+        "el": [
+          "Φορέστε άνετα παπούτσια καθώς θα περπατάτε τον περισσότερο χρόνο της ημέρας.",
+          "Φέρτε ένα επαναχρησιμοποιούμενο παγούρι για να παραμένετε ενυδατωμένοι.",
+          "Τα περισσότερα καταστήματα και μουσεία μπορεί να κλείνουν κατά το μεσημέρι για σιέστα.",
+          "Αγκαλιάστε τον αργό ρυθμό ζωής και αφιερώστε χρόνο για έναν καφέ."
         ]
       },
       "variants": {
@@ -393,7 +414,8 @@
             "de": "Beginnen Sie Ihren Tag am regnerischen Zentralplatz unter den Arkaden. Der Vormittag führt Sie in die schützende Agio-Georgios-Kirche und die beeindruckende Folklore-Sammlung. Nachmittags bietet das Kulturzentrum einen trockenen Rückzugsort, bevor Sie den Tag an den nebligen Ufern des Enipeas ausklingen lassen. Ein Tag voller Kultur, gut geschützt vor den Schauern Thessaliens.",
             "hu": "Kezdje a napot a központi téren, esőben az épületek ereszei alatt várakozva. A délelőttöt töltse az Ájosz Jeórjiosz-templom falai között és a néprajzi gyűjtemény fedett termeiben. Délután a Kulturális Központ kínál menedéket a záporok elől, majd tegyen egy rövid sétát az Enipeasz folyó partján. A nap végén a vasútállomás indusztriális bája ködben is hangulatos.",
             "ro": "Începeți ziua în Piața Centrală, căutând adăpost sub streșini. Dimineața vizitați Biserica Agios Georgios și Colecția de Folclor, ambele oferind protecție împotriva ploii. După-amiaza, Centrul Cultural este refugiul perfect, urmat de o plimbare rapidă pe malul râului Enipeas. Chiar și pe ploaie, patrimoniul industrial al vechii gări păstrează o atmosferă melancolică și autentică.",
-            "en": "Start your rainy day at the Central Square, staying close to the covered shopfronts. Spend your morning inside Agios Georgios Church and the Folklore Collection, perfect for escaping the wet weather. In the afternoon, the Cultural Center provides a dry haven before a misty walk by the Enipeas River. The industrial setting of the old station remains evocative even under gray Thessalian skies."
+            "en": "Start your rainy day at the Central Square, staying close to the covered shopfronts. Spend your morning inside Agios Georgios Church and the Folklore Collection, perfect for escaping the wet weather. In the afternoon, the Cultural Center provides a dry haven before a misty walk by the Enipeas River. The industrial setting of the old station remains evocative even under gray Thessalian skies.",
+            "el": "Ξεκινήστε τη βροχερή σας μέρα από την Κεντρική Πλατεία, μένοντας κοντά στα καλυμμένα βιτρίνες των καταστημάτων. Περάστε το πρωί μέσα στην εκκλησία του Αγίου Γεωργίου και στη Συλλογή Λαογραφίας, ιδανικά για να ξεφύγετε από την υγρή καιρική συνθήκη. Το απόγευμα, το Πολιτιστικό Κέντρο προσφέρει ξηρό καταφύγιο πριν από έναν δροσερό περίπατο στον Ενιπέα. Το βιομηχανικό σκηνικό του παλιού σταθμού παραμένει συναισθηματικά φορτισμένο ακόμα και κάτω από τα γκρίζα θεσσαλικά σύννεφα."
           },
           "stops": [
             {
@@ -402,7 +424,8 @@
                 "de": "Suchen Sie Schutz unter den Arkaden der umliegenden Cafés.",
                 "hu": "Keressen menedéket a környékbeli kávézók árkádjai alatt.",
                 "ro": "Căutați adăpost sub arcadele cafenelelor din jur.",
-                "en": "Find shelter under the arcades of the surrounding cafes."
+                "en": "Find shelter under the arcades of the surrounding cafes.",
+                "el": "Βρείτε καταφύγιο κάτω από τα βαθιλώματα των γύρω καφέ."
               }
             },
             {
@@ -411,7 +434,8 @@
                 "de": "Ein idealer Ort, um einen starken Regenschauer trocken abzuwarten.",
                 "hu": "Ideális helyszín egy intenzívebb zápor szárazon történő megvárásához.",
                 "ro": "Un loc ideal pentru a aștepta trecerea unei ploi torențiale.",
-                "en": "An ideal spot to wait out a heavy downpour in the dry."
+                "en": "An ideal spot to wait out a heavy downpour in the dry.",
+                "el": "Ιδανικό σημείο για να περιμένετε να κοπάσει έντονη μπόρα στεγνοί."
               }
             },
             {
@@ -420,7 +444,8 @@
                 "de": "Kurzer Stopp; halten Sie den Regenschirm wegen des Windes fest.",
                 "hu": "Rövid megálló; a szél miatt tartsa erősen az esernyőt.",
                 "ro": "Oprire scurtă; țineți bine umbrela din cauza vântului.",
-                "en": "Short stop; hold your umbrella firmly due to potential wind."
+                "en": "Short stop; hold your umbrella firmly due to potential wind.",
+                "el": "Σύντομη στάση· κρατήστε σφιχτά την ομπρέλα λόγω πιθανής έντασης ανέμου."
               }
             },
             {
@@ -429,7 +454,8 @@
                 "de": "Nutzen Sie die Garderobe für nasse Mäntel am Eingang.",
                 "hu": "Használja a bejáratnál található ruhatárat a vizes kabátoknak.",
                 "ro": "Folosiți garderoba de la intrare pentru hainele ude.",
-                "en": "Use the cloakroom at the entrance for wet coats."
+                "en": "Use the cloakroom at the entrance for wet coats.",
+                "el": "Χρησιμοποιήστε το γκαρνταρόμπα στην είσοδο για βρεγμένα παλτό."
               }
             },
             {
@@ -438,7 +464,8 @@
                 "de": "Perfekter Ort für eine längere Pause im Trockenen.",
                 "hu": "Tökéletes helyszín egy hosszabb beltéri pihenőhöz.",
                 "ro": "Locul perfect pentru o pauză prelungită la adăpost.",
-                "en": "Perfect place for an extended break in the dry."
+                "en": "Perfect place for an extended break in the dry.",
+                "el": "Τέλειο μέρος για εκτεταμένη ξεκούραση στεγνοί."
               }
             },
             {
@@ -447,7 +474,8 @@
                 "de": "Vorsicht vor Pfützen auf dem unebenen Bahnsteiggelände.",
                 "hu": "Vigyázzon a tócsákra az egyenetlen peronok környékén.",
                 "ro": "Atenție la bălți în zona peronului denivelat.",
-                "en": "Watch out for puddles around the uneven platform area."
+                "en": "Watch out for puddles around the uneven platform area.",
+                "el": "Προσέξτε για λακκούβες γύρω από την ανώμαλη πλατφόρμα."
               }
             },
             {
@@ -456,7 +484,8 @@
                 "de": "Tragen Sie wasserfeste Schuhe, da die Wege schlammig sein können.",
                 "hu": "Viseljen vízálló cipőt, mert az utak sárosak lehetnek.",
                 "ro": "Purtați încălțăminte impermeabilă, potecile pot fi noroioase.",
-                "en": "Wear waterproof shoes as paths can get muddy."
+                "en": "Wear waterproof shoes as paths can get muddy.",
+                "el": "Φορέστε αδιάβροχα παπούτσια καθώς τα μονοπάτια μπορεί να γίνουν λασπώδη."
               }
             }
           ],
@@ -484,6 +513,12 @@
               "Watch out for slippery cobblestones in the town center.",
               "Museums may be closed on Mondays, check hours in advance.",
               "A sturdy umbrella is essential due to wind in the open plains."
+            ],
+            "el": [
+              "Εκμεταλλευτείτε τα πολλά καφέ στην πλατεία για διαλείμματα.",
+              "Προσέξτε για ολισθηρές κυβόλιθους στο κέντρο της πόλης.",
+              "Τα μουσεία μπορεί να είναι κλειστά τις Δευτέρες, ελέγξτε ώρες εκ των προτέρων.",
+              "Μια στιβαρή ομπρέλα είναι απαραίτητη λόγω των ανέμων στις ανοιχτές πεδιάδες."
             ]
           }
         },
@@ -492,7 +527,8 @@
             "de": "Erleben Sie Sofades im winterlichen Licht. Der kühle Morgen am Zentralplatz wird durch den Besuch der warmen Agio-Georgios-Kirche gemildert. Die Mittagsstunden verbringen Sie in der beheizten Folklore-Sammlung. Da die Sonne früh untergeht, genießen Sie den Blick auf den Enipeas am späten Nachmittag, wenn das Licht über der thessalischen Ebene am schönsten ist.",
             "hu": "Fedezze fel Szofadeszt a téli fényekben. A hűvös reggelt a központi téren az Ájosz Jeórjiosz-templom áhítata követi. A delet töltse a fűtött néprajzi gyűjteményben. Mivel a nap korán nyugszik, az Enipeasz folyó partját már szürkületben látogatja meg, ami különleges hangulatot ad az indusztriális tájnak és a régi vasútállomásnak.",
             "ro": "Descoperiți Sofades în lumina iernii. Dimineața rece în Piața Centrală este urmată de vizita la Biserica Agios Georgios. Orele prânzului sunt dedicate Colecției de Folclor, într-un mediu încălzit. Deoarece soarele apune devreme, bucurați-vă de malul râului Enipeas spre sfârșitul după-amiezii, când amurgul coboară peste câmpia Tesaliei.",
-            "en": "Discover Sofades in the crisp winter light. The chilly morning at the Central Square is balanced by the warmth of Agios Georgios Church. Spend your midday hours in the heated Folklore Collection. Since the sun sets early, enjoy the Enipeas riverbank in the late afternoon, as twilight settles over the Thessalian plains and the historic train station."
+            "en": "Discover Sofades in the crisp winter light. The chilly morning at the Central Square is balanced by the warmth of Agios Georgios Church. Spend your midday hours in the heated Folklore Collection. Since the sun sets early, enjoy the Enipeas riverbank in the late afternoon, as twilight settles over the Thessalian plains and the historic train station.",
+            "el": "Ανακαλύψτε τα Σοφάδες στο καθαρό χειμωνιάτικο φως. Το ψυχρό πρωί στην Κεντρική Πλατεία αντισταθμίζεται από τη ζεστασιά της εκκλησίας του Αγίου Γεωργίου. Περνάστε το μεσημέρι στις ζεσταμένες αίθουσες της Συλλογής Λαογραφίας. Επειδή ο ήλιος δύει νωρίς, απολαύστε την όχθη του Ενιπέα αργά το απόγευμα, καθώς το σούρουπο απλώνεται πάνω στις θεσσαλικές πεδιάδες και τον ιστορικό σιδηροδρομικό σταθμό."
           },
           "stops": [
             {
@@ -501,7 +537,8 @@
                 "de": "Genießen Sie einen heißen griechischen Kaffee zum Aufwärmen.",
                 "hu": "Igyon egy forró görög kávét a felmelegedéshez.",
                 "ro": "Savurați o cafea grecească fierbinte pentru a vă încălzi.",
-                "en": "Enjoy a hot Greek coffee to warm up at the start."
+                "en": "Enjoy a hot Greek coffee to warm up at the start.",
+                "el": "Απολαύστε έναν ζεστό ελληνικό καφέ για να ζεσταθείτε στην αρχή."
               }
             },
             {
@@ -510,7 +547,8 @@
                 "de": "Die Kerzen im Inneren sorgen für eine warme Atmosphäre.",
                 "hu": "A belső térben gyújtott gyertyák meleg hangulatot árasztanak.",
                 "ro": "Lumânările din interior creează o atmosferă caldă.",
-                "en": "The candles inside create a warm and serene atmosphere."
+                "en": "The candles inside create a warm and serene atmosphere.",
+                "el": "Τα κεριά στο εσωτερικό δημιουργούν μια ζεστή και γαλήνια ατμόσφαιρα."
               }
             },
             {
@@ -519,7 +557,8 @@
                 "de": "Kurzer Aufenthalt, da der Wind hier im Winter schneidend sein kann.",
                 "hu": "Rövid megálló, mert a szél itt télen metsző lehet.",
                 "ro": "Oprire scurtă, vântul poate fi tăios aici pe timp de iarnă.",
-                "en": "Short stay, as the wind here can be biting in winter."
+                "en": "Short stay, as the wind here can be biting in winter.",
+                "el": "Σύντομη παραμονή, καθώς ο άνεμος εδώ μπορεί να τσουχτερός τον χειμώνα."
               }
             },
             {
@@ -528,7 +567,8 @@
                 "de": "Ein idealer, beheizter Ort für die kälteste Zeit des Tages.",
                 "hu": "Ideális, fűtött helyszín a nap leghidegebb óráira.",
                 "ro": "Un loc încălzit ideal pentru cele mai reci ore ale zilei.",
-                "en": "An ideal, heated location for the coldest hours of the day."
+                "en": "An ideal, heated location for the coldest hours of the day.",
+                "el": "Ιδανικός, θερμαινόμενος χώρος για τις πιο κρύες ώρες της ημέρας."
               }
             },
             {
@@ -537,7 +577,8 @@
                 "de": "Prüfen Sie, ob es winterliche Abendveranstaltungen gibt.",
                 "hu": "Ellenőrizze, hogy vannak-e téli esti előadások.",
                 "ro": "Verificați dacă există evenimente culturale de iarnă.",
-                "en": "Check if there are any indoor winter evening events."
+                "en": "Check if there are any indoor winter evening events.",
+                "el": "Ελέγξτε αν υπάρχουν εσωτερικές χειμερινές βραδινές εκδηλώσεις."
               }
             },
             {
@@ -546,7 +587,8 @@
                 "de": "Das Licht am frühen Nachmittag ist perfekt für Fotos.",
                 "hu": "A kora délutáni fények tökéletesek a fotózáshoz.",
                 "ro": "Lumina de după-amiază devreme este perfectă pentru fotografii.",
-                "en": "The early afternoon light is perfect for photography."
+                "en": "The early afternoon light is perfect for photography.",
+                "el": "Το πρώιμο απογευματινό φως είναι τέλειο για φωτογραφίες."
               }
             },
             {
@@ -555,7 +597,8 @@
                 "de": "Achten Sie auf Frost auf den Holzstegen am Fluss.",
                 "hu": "Vigyázzon a fagyra a folyó menti fapallókon.",
                 "ro": "Atenție la îngheț pe pasarelele de lemn de lângă râu.",
-                "en": "Watch out for frost on the wooden walkways near the river."
+                "en": "Watch out for frost on the wooden walkways near the river.",
+                "el": "Προσέξτε για παγετό στα ξύλινα πεζοδρόμια κοντά στον ποταμό."
               }
             }
           ],
@@ -583,6 +626,12 @@
               "Dress in layers as it gets much colder in the shade.",
               "Some cafe terraces are equipped with outdoor heaters.",
               "Humidity can make the cold feel sharper in the Thessalian plains."
+            ],
+            "el": [
+              "Ο ήλιος δύει περίπου στις 17:00, προγραμματίστε τη διαδρομή σας ανάλογα.",
+              "Ντυθείτε σε στρώσεις καθώς γίνεται πολύ ψυχρότερο στη σκιά.",
+              "Μερικές καφετέριες έχουν εξοπλιστεί με θερμαντικά εξωτερικών χώρων.",
+              "Η υγρασία μπορεί να κάνει το κρύο να φαίνεται πιο έντονο στις θεσσαλικές πεδιάδες."
             ]
           }
         }
@@ -601,7 +650,8 @@
             "de": "Zentraler Platz",
             "hu": "Központi tér",
             "ro": "Piața Centrală",
-            "en": "Central Square"
+            "en": "Central Square",
+            "el": "Κεντρική Πλατεία"
           },
           "coords": [
             22.1335,
@@ -617,7 +667,8 @@
             "de": "Stellen Sie Ihr Fahrrad ab und genießen Sie die morgendliche Atmosphäre.",
             "hu": "Parkolja le a kerékpárt, és élvezze a reggeli hangulatot.",
             "ro": "Parcați bicicleta și bucurați-vă de atmosfera de dimineață.",
-            "en": "Park your bike and enjoy the morning atmosphere."
+            "en": "Park your bike and enjoy the morning atmosphere.",
+            "el": "Παρκάρετε το ποδήλατό σας και απολαύστε το πρωινό κλίμα."
           }
         },
         {
@@ -625,7 +676,8 @@
             "de": "Alter Bahnhof",
             "hu": "Régi vasútállomás",
             "ro": "Gara Veche",
-            "en": "Old Train Station"
+            "en": "Old Train Station",
+            "el": "Παλιός Σιδηροδρομικός Σταθμός"
           },
           "coords": [
             22.128,
@@ -641,7 +693,8 @@
             "de": "Eine interessante Radtour in die Vergangenheit der industriellen Entwicklung der Stadt.",
             "hu": "Érdekes kerékpártúra a város ipari fejlődésének múltjába.",
             "ro": "O plimbare interesantă cu bicicleta în trecutul dezvoltării industriale a orașului.",
-            "en": "An interesting bike ride into the past of the town's industrial development."
+            "en": "An interesting bike ride into the past of the town's industrial development.",
+            "el": "Μια ενδιαφέρουσα ποδηλατική βόλτα στο παρελθόν της βιομηχανικής ανάπτυξης της πόλης."
           }
         },
         {
@@ -649,7 +702,8 @@
             "de": "Enipeas-Flussufer",
             "hu": "Enipeas-folyó partja",
             "ro": "Malul râului Enipeas",
-            "en": "Enipeas Riverbank"
+            "en": "Enipeas Riverbank",
+            "el": "Όχθη Ποταμού Ενιπέα"
           },
           "coords": [
             22.126,
@@ -665,7 +719,8 @@
             "de": "Fahren Sie am Fluss entlang und genießen Sie die frische Luft.",
             "hu": "Kerékpározzon a folyó mentén, és élvezze a friss levegőt.",
             "ro": "Plimbați-vă cu bicicleta de-a lungul râului și bucurați-vă de aerul proaspăt.",
-            "en": "Ride along the river and enjoy the fresh air."
+            "en": "Ride along the river and enjoy the fresh air.",
+            "el": "Ποδηλατήστε κατά μήκος του ποταμού και απολαύστε τον καθαρό αέρα."
           }
         },
         {
@@ -673,7 +728,8 @@
             "de": "Kirche Agia Paraskevi",
             "hu": "Szent Paraszkevi-templom",
             "ro": "Biserica Sfânta Parascheva",
-            "en": "Church of Agia Paraskevi"
+            "en": "Church of Agia Paraskevi",
+            "el": "Εκκλησία της Αγίας Παρασκευής"
           },
           "coords": [
             22.138,
@@ -689,7 +745,8 @@
             "de": "Diese Kirche liegt etwas abseits und ist eine friedliche Radtour wert.",
             "hu": "Ez a templom kissé távolabb esik, és megér egy békés kerékpártúrát.",
             "ro": "Această biserică este puțin mai departe și merită o plimbare pașnică cu bicicleta.",
-            "en": "This church is a bit further out and worth a peaceful bike ride."
+            "en": "This church is a bit further out and worth a peaceful bike ride.",
+            "el": "Αυτή η εκκλησία είναι λίγο πιο έξω και αξίζει μια ήσυχη ποδηλατική διαδρομή."
           }
         },
         {
@@ -697,7 +754,8 @@
             "de": "Kulturzentrum Sofades",
             "hu": "Szofádeszi Kulturális Központ",
             "ro": "Centrul Cultural Sofades",
-            "en": "Sofades Cultural Center"
+            "en": "Sofades Cultural Center",
+            "el": "Πολιτιστικό Κέντρο Σοφάδων"
           },
           "coords": [
             22.135,
@@ -713,7 +771,8 @@
             "de": "Ein moderner Kontrast zu den historischen Stätten, leicht mit dem Fahrrad erreichbar.",
             "hu": "Modern kontraszt a történelmi helyszínekkel, könnyen megközelíthető kerékpárral.",
             "ro": "Un contrast modern cu siturile istorice, ușor accesibil cu bicicleta.",
-            "en": "A modern contrast to the historical sites, easily reachable by bike."
+            "en": "A modern contrast to the historical sites, easily reachable by bike.",
+            "el": "Μια σύγχρονη αντίθεση στα ιστορικά μνημεία, εύκολα προσβάσιμη με ποδήλατο."
           }
         },
         {
@@ -721,7 +780,8 @@
             "de": "Volkskundliche Sammlung",
             "hu": "Néprajzi Gyűjtemény",
             "ro": "Colecția Folclorică",
-            "en": "Folklore Collection"
+            "en": "Folklore Collection",
+            "el": "Συλλογή Λαογραφίας"
           },
           "coords": [
             22.1315,
@@ -737,7 +797,8 @@
             "de": "Planen Sie hier eine längere Pause für das Mittagessen und den Museumsbesuch ein.",
             "hu": "Tervezzen itt egy hosszabb szünetet ebédre és a múzeumlátogatásra.",
             "ro": "Planificați o pauză mai lungă aici pentru prânz și vizita la muzeu.",
-            "en": "Plan a longer break here for lunch and the museum visit."
+            "en": "Plan a longer break here for lunch and the museum visit.",
+            "el": "Σχεδιάστε ένα μεγαλύτερο διάλειμμα εδώ για μεσημεριανό και την επίσκεψη στο μουσείο."
           }
         },
         {
@@ -745,7 +806,8 @@
             "de": "Kirche Agios Georgios",
             "hu": "Szent György-templom",
             "ro": "Biserica Sfântul Gheorghe",
-            "en": "Church of Agios Georgios"
+            "en": "Church of Agios Georgios",
+            "el": "Εκκλησία του Αγίου Γεωργίου"
           },
           "coords": [
             22.1345,
@@ -761,7 +823,8 @@
             "de": "Kehren Sie ins Zentrum zurück und besuchen Sie die Hauptkirche der Stadt.",
             "hu": "Térjen vissza a központba, és látogassa meg a város fő templomát.",
             "ro": "Întoarceți-vă în centru și vizitați biserica principală a orașului.",
-            "en": "Return to the center and visit the town's main church."
+            "en": "Return to the center and visit the town's main church.",
+            "el": "Επιστρέψτε στο κέντρο και επισκεφθείτε τον κεντρικό ναό της πόλης."
           }
         }
       ],
@@ -769,7 +832,8 @@
         "de": "Starten Sie Ihre Radtour am Zentralplatz und fahren Sie zum historischen alten Bahnhof. Genießen Sie am Vormittag eine Fahrt entlang des Enipeas-Flusses, bevor Sie zur etwas abgelegenen Agia-Paraskevi-Kirche radeln. Gegen Mittag erkunden Sie das moderne Kulturzentrum und machen eine längere Pause beim Folkloremuseum. Am Nachmittag kehren Sie ins Zentrum zurück, um die Hauptkirche Agios Georgios zu besichtigen und den Tag ausklingen zu lassen.",
         "hu": "Kerékpártúráját a Központi téren kezdje, majd tekerjen el a történelmi régi vasútállomáshoz. Délelőtt élvezze a kerékpározást az Enipeas-folyó mentén, mielőtt a kissé távolabb eső Agia Paraskevi-templomhoz kerekezik. Dél körül fedezze fel a modern Kulturális Központot, és tartson egy hosszabb szünetet a Néprajzi Múzeumnál. Délután térjen vissza a központba, hogy megnézze a fő templomot, a Szent Györgyöt, és lezárja a napot.",
         "ro": "Începeți turul cu bicicleta din Piața Centrală și pedalați spre vechea gară istorică. Dimineața, bucurați-vă de o plimbare de-a lungul râului Enipeas înainte de a merge la biserica mai retrasă Agia Paraskevi. În jurul prânzului, explorați modernul Centru Cultural și luați o pauză mai lungă la Muzeul de Folclor. După-amiaza, reveniți în centru pentru a vizita biserica principală Agios Georgios și pentru a încheia ziua.",
-        "en": "Start your bike tour from the Central Square and pedal to the historic old train station. In the morning, enjoy a ride along the Enipeas River before cycling to the slightly more remote Agia Paraskevi Church. Around noon, explore the modern Cultural Center and take a longer break at the Folklore Museum. In the afternoon, return to the center to visit the main church, Agios Georgios, and to round off your day."
+        "en": "Start your bike tour from the Central Square and pedal to the historic old train station. In the morning, enjoy a ride along the Enipeas River before cycling to the slightly more remote Agia Paraskevi Church. Around noon, explore the modern Cultural Center and take a longer break at the Folklore Museum. In the afternoon, return to the center to visit the main church, Agios Georgios, and to round off your day.",
+        "el": "Ξεκινήστε την ποδηλατική σας διαδρομή από την Κεντρική Πλατεία και κατευθυνθείτε προς τον ιστορικό παλιό σιδηροδρομικό σταθμό. Το πρωί απολαύστε μια βόλτα κατά μήκος του ποταμού Ενιπέα πριν ποδηλατήσετε προς την λίγο πιο απομακρυσμένη εκκλησία της Αγίας Παρασκευής. Περίπου το μεσημέρι, εξερευνήστε το σύγχρονο Πολιτιστικό Κέντρο και κάντε ένα μεγαλύτερο διάλειμμα στη Συλλογή Λαογραφίας. Το απόγευμα επιστρέψτε στο κέντρο για να επισκεφθείτε την κύρια εκκλησία, τον Άγιο Γεώργιο, και να ολοκληρώσετε την ημέρα σας."
       },
       "gastro_picks": {
         "de": [
@@ -965,6 +1029,12 @@
           "Always lock your bike when leaving it unattended.",
           "The town is relatively flat, making it ideal for a leisurely bike ride.",
           "A bell is useful to alert pedestrians of your presence."
+        ],
+        "el": [
+          "Ελέγξτε το ποδήλατό σας πριν ξεκινήσετε.",
+          "Κλειδώστε πάντα το ποδήλατο όταν το αφήνετε χωρίς επίβλεψη.",
+          "Η πόλη είναι σχετικά επίπεδη, γεγονός που την καθιστά ιδανική για χαλαρή ποδηλασία.",
+          "Ένα κουδούνι είναι χρήσιμο για να ειδοποιείτε τους πεζούς για την παρουσία σας."
         ]
       },
       "variants": {
@@ -973,7 +1043,8 @@
             "de": "Eine erfrischende Radtour durch das regnerische Sofades. Starten Sie vorsichtig am Zentralplatz und nutzen Sie die kurzen Wege zur alten Bahnstation. Die Folklore-Sammlung bietet eine lange Pause zum Trocknen. Trotz Regen ist die flache Landschaft gut befahrbar, wenn man auf die Markierungen achtet. Der Enipeas zeigt sich bei Regen von seiner wilden Seite.",
             "hu": "Frissítő kerékpártúra az esős Szofadeszben. Kezdjen óvatosan a központi téren, kihasználva a rövid távokat a régi vasútállomásig. A néprajzi gyűjtemény hosszú pihenőt kínál a száradáshoz. Az eső ellenére a sík terep jól tekerhető, ha figyel az útburkolati jelekre. Az Enipeasz folyó partja esőben vadregényes arcát mutatja.",
             "ro": "O tură revigorantă cu bicicleta prin Sofades pe ploaie. Începeți cu prudență din Piața Centrală, profitând de distanțele scurte până la vechea gară. Colecția de Folclor oferă o pauză lungă pentru uscare. În ciuda ploii, terenul plat este ușor de parcurs dacă sunteți atenți la marcaje. Malul râului Enipeas capătă un aspect sălbatic pe vreme ploioasă.",
-            "en": "A refreshing bike ride through rainy Sofades. Start carefully from the Central Square, taking advantage of short distances to the old station. The Folklore Collection offers a long break to dry off. Despite the rain, the flat terrain is easily cyclable if you watch out for road markings. The Enipeas riverbank shows its wild side under the rain."
+            "en": "A refreshing bike ride through rainy Sofades. Start carefully from the Central Square, taking advantage of short distances to the old station. The Folklore Collection offers a long break to dry off. Despite the rain, the flat terrain is easily cyclable if you watch out for road markings. The Enipeas riverbank shows its wild side under the rain.",
+            "el": "Μια δροσιστική ποδηλατική βόλτα μέσα στη βροχερή ατμόσφαιρα των Σοφάδων. Ξεκινήστε προσεκτικά από την Κεντρική Πλατεία, εκμεταλλευόμενοι τις μικρές αποστάσεις προς τον παλιό σταθμό. Η Συλλογή Λαογραφίας προσφέρει ένα μεγάλο διάλειμμα για να στεγνώσετε. Παρά τη βροχή, το επίπεδο έδαφος είναι εύκολα διασχίσιμο αν προσέχετε τη σήμανση των δρόμων. Η όχθη του Ενιπέα δείχνει την πιο αγριεμένη πλευρά της υπό τη βροχή."
           },
           "stops": [
             {
@@ -982,7 +1053,8 @@
                 "de": "Prüfen Sie den Reifendruck für bessere Haftung auf nassem Grund.",
                 "hu": "Ellenőrizze a guminyomást a jobb tapadásért nedves úton.",
                 "ro": "Verificați presiunea în pneuri pentru aderență pe carosabil ud.",
-                "en": "Check tire pressure for better grip on wet surfaces."
+                "en": "Check tire pressure for better grip on wet surfaces.",
+                "el": "Ελέγξτε την πίεση των ελαστικών για καλύτερη πρόσφυση σε υγρές επιφάνειες."
               }
             },
             {
@@ -991,7 +1063,8 @@
                 "de": "Die Metallschienen können bei Nässe extrem rutschig sein.",
                 "hu": "A fém sínek nedvesen rendkívül csúszósak lehetnek.",
                 "ro": "Șinele de metal pot fi extrem de alunecoase când sunt ude.",
-                "en": "Metal tracks can be extremely slippery when wet."
+                "en": "Metal tracks can be extremely slippery when wet.",
+                "el": "Οι μεταλλικές ράγες μπορεί να είναι εξαιρετικά ολισθηρές όταν βραχούν."
               }
             },
             {
@@ -1000,7 +1073,8 @@
                 "de": "Vorsicht bei Schlammansammlungen auf dem Radweg.",
                 "hu": "Vigyázzon a sárfelhalmozódásokra a kerékpárúton.",
                 "ro": "Atenție la acumulările de noroi de pe pista de biciclete.",
-                "en": "Watch out for mud buildup on the bike path."
+                "en": "Watch out for mud buildup on the bike path.",
+                "el": "Προσέξτε για συγκέντρωση λάσπης στο ποδηλατόδρομο."
               }
             },
             {
@@ -1009,7 +1083,8 @@
                 "de": "Stellen Sie Ihr Rad unter das Vordach, falls möglich.",
                 "hu": "Ha lehetséges, állítsa a kerékpárt az előtető alá.",
                 "ro": "Parcați bicicleta sub copertină dacă este posibil.",
-                "en": "Park your bike under a canopy if possible to keep it dry."
+                "en": "Park your bike under a canopy if possible to keep it dry.",
+                "el": "Σταθμεύστε το ποδήλατό σας κάτω από στέγαστρο αν είναι δυνατό για να το κρατήσετε στεγνό."
               }
             },
             {
@@ -1018,7 +1093,8 @@
                 "de": "Ein guter Ort, um die Regenkleidung kurz auszuschütteln.",
                 "hu": "Jó hely az esőruházat rövid lerázásához.",
                 "ro": "Un loc bun pentru a scutura rapid pelerina de ploaie.",
-                "en": "A good place to briefly shake off your rain gear."
+                "en": "A good place to briefly shake off your rain gear.",
+                "el": "Ένα καλό μέρος για να τινάξετε σύντομα τα αδιάβροχα σας."
               }
             },
             {
@@ -1027,7 +1103,8 @@
                 "de": "Sichere Fahrradständer befinden sich in der Nähe des Eingangs.",
                 "hu": "Biztonságos kerékpártárolók találhatók a bejárat közelében.",
                 "ro": "Suporturi de biciclete sigure se află lângă intrare.",
-                "en": "Secure bike racks are located near the entrance."
+                "en": "Secure bike racks are located near the entrance.",
+                "el": "Υπάρχουν ασφαλείς σχάρες ποδηλάτων κοντά στην είσοδο."
               }
             },
             {
@@ -1036,7 +1113,8 @@
                 "de": "Letzter Stopp; wischen Sie den Sattel vor der Weiterfahrt ab.",
                 "hu": "Utolsó megálló; törölje le a nyerget a továbbindulás előtt.",
                 "ro": "Ultima oprire; ștergeți șaua înainte de a pleca mai departe.",
-                "en": "Final stop; wipe your saddle before continuing."
+                "en": "Final stop; wipe your saddle before continuing.",
+                "el": "Τελική στάση· σκουπίστε τη σέλα πριν συνεχίσετε."
               }
             }
           ],
@@ -1064,6 +1142,12 @@
               "Avoid sudden braking on wet asphalt surfaces.",
               "Mudguards are a must-have in this weather in Thessaly.",
               "Riverbank paths might be closed after heavy rainfall."
+            ],
+            "el": [
+              "Φορέστε ένα φωτεινό αδιάβροχο για καλύτερη ορατότητα στους οδηγούς.",
+              "Αποφύγετε την απότομη πέδηση σε βρεγμένο άσφαλτο.",
+              "Φτερά πόδιου (mudguards) είναι απαραίτητα σε αυτόν τον καιρό στη Θεσσαλία.",
+              "Τα μονοπάτια στις όχθες μπορεί να είναι κλειστά μετά από έντονες βροχές."
             ]
           }
         },
@@ -1072,7 +1156,8 @@
             "de": "Winterliches Radfahren in Sofades erfordert warme Handschuhe, belohnt aber mit klaren Aussichten. Starten Sie am kühlen Zentralplatz und radeln Sie zur historischen Bahnstation. Die flache Ebene lässt den Wind spürbar werden, aber die Besuche in den Kirchen und Museen bieten wohlverdiente Aufwärmpausen. Ein sportlicher Tag in der thessalischen Winterlandschaft.",
             "hu": "A téli kerékpározás Szofadeszben meleg kesztyűt igényel, de tiszta kilátással jutalmaz. Kezdjen a hűvös központi téren, majd tekerjen a történelmi vasútállomáshoz. A síkságon a szél érezhető, de a templomok és múzeumok látogatása megérdemelt felmelegedést nyújt. Sportos nap a thesszáliai téli tájban.",
             "ro": "Mersul cu bicicleta iarna în Sofades necesită mănuși groase, dar oferă panorame clare. Începeți în Piața Centrală și pedalați spre gara istorică. Câmpia face vântul resimțit, dar vizitele la biserici și muzee oferă pauze binemeritate pentru încălzire. O zi sportivă în peisajul de iarnă al Tesaliei.",
-            "en": "Winter cycling in Sofades requires warm gloves but rewards you with clear views. Start at the chilly Central Square and cycle to the historic train station. The flat plains make the wind noticeable, but visits to churches and museums provide well-deserved warming breaks. A sporty day in the Thessalian winter landscape."
+            "en": "Winter cycling in Sofades requires warm gloves but rewards you with clear views. Start at the chilly Central Square and cycle to the historic train station. The flat plains make the wind noticeable, but visits to churches and museums provide well-deserved warming breaks. A sporty day in the Thessalian winter landscape.",
+            "el": "Το χειμερινό ποδήλατο στα Σοφάδες απαιτεί ζεστά γάντια αλλά σας ανταμείβει με καθαρές θέες. Ξεκινήστε από την ψυχρή Κεντρική Πλατεία και ποδηλατήστε προς τον ιστορικό σιδηροδρομικό σταθμό. Οι επίπεδες πεδιάδες κάνουν τον άνεμο αισθητό, αλλά οι επισκέψεις σε εκκλησίες και μουσεία προσφέρουν καλά αποδεκτά ζεστά διαλείμματα. Μια σπορτίφ μέρα στο χειμωνιάτικο θεσσαλικό τοπίο."
           },
           "stops": [
             {
@@ -1081,7 +1166,8 @@
                 "de": "Starten Sie langsam, um die Gelenke an die Kälte zu gewöhnen.",
                 "hu": "Kezdjen lassan, hogy az ízületei hozzászokjanak a hideghez.",
                 "ro": "Începeți lent pentru a obișnui articulațiile cu frigul.",
-                "en": "Start slowly to let your joints adjust to the cold."
+                "en": "Start slowly to let your joints adjust to the cold.",
+                "el": "Ξεκινήστε αργά για να προσαρμοστούν οι αρθρώσεις στο κρύο."
               }
             },
             {
@@ -1090,7 +1176,8 @@
                 "de": "Vorsicht vor Reifglätte auf den Steinböden.",
                 "hu": "Vigyázzon a zúzmarás, csúszós kőburkolatokra.",
                 "ro": "Atenție la polei pe suprafețele de piatră.",
-                "en": "Watch out for frost/ice on the stone floorings."
+                "en": "Watch out for frost/ice on the stone floorings.",
+                "el": "Προσέξτε για παγετό/πάγο στα πλακόστρωτα δάπεδα."
               }
             },
             {
@@ -1099,7 +1186,8 @@
                 "de": "Der Wind am Fluss kann die gefühlte Temperatur senken.",
                 "hu": "A folyóparti szél csökkentheti a hőérzetet.",
                 "ro": "Vântul de lângă râu poate scădea temperatura resimțită.",
-                "en": "The wind by the river can significantly lower the wind chill."
+                "en": "The wind by the river can significantly lower the wind chill.",
+                "el": "Ο άνεμος κοντά στον ποταμό μπορεί να μειώσει σημαντικά την αίσθηση θερμοκρασίας."
               }
             },
             {
@@ -1108,7 +1196,8 @@
                 "de": "Nutzen Sie den Innenraum für eine kurze Windpause.",
                 "hu": "Használja a belső teret egy rövid szélvédett pihenőre.",
                 "ro": "Folosiți interiorul pentru o scurtă pauză de vânt.",
-                "en": "Use the interior for a brief break from the wind."
+                "en": "Use the interior for a brief break from the wind.",
+                "el": "Χρησιμοποιήστε το εσωτερικό για ένα σύντομο διάλειμμα από τον άνεμο."
               }
             },
             {
@@ -1117,7 +1206,8 @@
                 "de": "Stellen Sie sicher, dass Ihre Beleuchtung funktioniert.",
                 "hu": "Győződjön meg róla, hogy a világítása jól működik.",
                 "ro": "Asigurați-vă că luminile bicicletei funcționează corect.",
-                "en": "Ensure your bike lights are working for the early dusk."
+                "en": "Ensure your bike lights are working for the early dusk.",
+                "el": "Βεβαιωθείτε ότι τα φώτα του ποδηλάτου λειτουργούν για το πρώιμο λυκόφως."
               }
             },
             {
@@ -1126,7 +1216,8 @@
                 "de": "Lassen Sie die Handschuhe zum Aufwärmen kurz an.",
                 "hu": "Hagyja magán a kesztyűt egy kicsit a felmelegedéshez.",
                 "ro": "Păstrați mănușile un moment pentru a vă încălzi mâinile.",
-                "en": "Keep your gloves on for a moment inside to warm up."
+                "en": "Keep your gloves on for a moment inside to warm up.",
+                "el": "Κρατήστε τα γάντια για λίγο μέσα για να ζεσταθείτε."
               }
             },
             {
@@ -1135,7 +1226,8 @@
                 "de": "Ein ruhiger Abschluss vor der Rückfahrt im Dämmerlicht.",
                 "hu": "Nyugodt zárás a szürkületi visszaindulás előtt.",
                 "ro": "Un final liniștit înainte de întoarcerea pe amurg.",
-                "en": "A peaceful conclusion before riding back in the twilight."
+                "en": "A peaceful conclusion before riding back in the twilight.",
+                "el": "Ένας ήρεμος επίλογος πριν την επιστροφή στο λυκόφως."
               }
             }
           ],
@@ -1163,6 +1255,12 @@
               "E-bike batteries drain faster in cold temperatures.",
               "Stay hydrated even when it is cold outside.",
               "Black ice is possible in the early morning hours in Sofades."
+            ],
+            "el": [
+              "Φορέστε αδιάφθορα ρούχα που κόβουν τον άνεμο, ειδικά στα πόδια.",
+              "Οι μπαταρίες των ηλεκτρικών ποδηλάτων αποφορτίζονται γρηγορότερα σε χαμηλές θερμοκρασίες.",
+              "Μείνετε ενυδατωμένοι ακόμη και όταν κάνει κρύο έξω.",
+              "Μαύρος πάγος είναι πιθανός νωρίς το πρωί στα Σοφάδες."
             ]
           }
         }
@@ -1181,7 +1279,8 @@
             "de": "Parkplatz am Zentralplatz (Cluster A)",
             "hu": "Parkoló a Központi térnél (A Klaszter)",
             "ro": "Parcare Piața Centrală (Cluster A)",
-            "en": "Parking at Central Square (Cluster A)"
+            "en": "Parking at Central Square (Cluster A)",
+            "el": "Στάθμευση στην Κεντρική Πλατεία (Συστάδα A)"
           },
           "coords": [
             22.133,
@@ -1197,7 +1296,8 @@
             "de": "Parken Sie hier, um das Stadtzentrum zu Fuß zu erkunden.",
             "hu": "Parkoljon itt, hogy gyalog fedezze fel a városközpontot.",
             "ro": "Parcați aici pentru a explora centrul orașului pe jos.",
-            "en": "Park here to explore the city center on foot."
+            "en": "Park here to explore the city center on foot.",
+            "el": "Σταθμεύστε εδώ για να εξερευνήσετε το κέντρο της πόλης με τα πόδια."
           }
         },
         {
@@ -1205,7 +1305,8 @@
             "de": "Kirche Agios Georgios",
             "hu": "Szent György-templom",
             "ro": "Biserica Sfântul Gheorghe",
-            "en": "Church of Agios Georgios"
+            "en": "Church of Agios Georgios",
+            "el": "Εκκλησία του Αγίου Γεωργίου"
           },
           "coords": [
             22.1345,
@@ -1221,7 +1322,8 @@
             "de": "Ein kurzer Spaziergang vom Hauptplatz zur Hauptkirche.",
             "hu": "Rövid séta a főtérről a főtemplomhoz.",
             "ro": "O scurtă plimbare de la piața principală la biserica principală.",
-            "en": "A short walk from the main square to the main church."
+            "en": "A short walk from the main square to the main church.",
+            "el": "Λίγο περπάτημα από την κεντρική πλατεία μέχρι την κύρια εκκλησία."
           }
         },
         {
@@ -1229,7 +1331,8 @@
             "de": "Volkskundliche Sammlung",
             "hu": "Néprajzi Gyűjtemény",
             "ro": "Colecția Folclorică",
-            "en": "Folklore Collection"
+            "en": "Folklore Collection",
+            "el": "Συλλογή Λαογραφίας"
           },
           "coords": [
             22.1315,
@@ -1245,7 +1348,8 @@
             "de": "Ideal, um den Vormittag zu verbringen und die lokale Kultur kennenzulernen.",
             "hu": "Ideális a délelőtt eltöltésére és a helyi kultúra megismerésére.",
             "ro": "Ideal pentru a petrece dimineața și a învăța despre cultura locală.",
-            "en": "Ideal for spending the morning and learning about local culture."
+            "en": "Ideal for spending the morning and learning about local culture.",
+            "el": "Ιδανικό για να περάσετε το πρωί και να μάθετε για την τοπική κουλτούρα."
           }
         },
         {
@@ -1253,7 +1357,8 @@
             "de": "Parkplatz Alter Bahnhof (Cluster B)",
             "hu": "Parkoló a Régi Vasútállomásnál (B Klaszter)",
             "ro": "Parcare Gara Veche (Cluster B)",
-            "en": "Parking at Old Station (Cluster B)"
+            "en": "Parking at Old Station (Cluster B)",
+            "el": "Στάθμευση στο Παλιό Σιδηροδρομικό Σταθμό (Σωρός Β)"
           },
           "coords": [
             22.128,
@@ -1269,7 +1374,8 @@
             "de": "Fahren Sie zu diesem zweiten Cluster, um ein anderes Stück Geschichte zu sehen.",
             "hu": "Vezessen ehhez a második klaszterhez, hogy egy másik történelmi darabot lásson.",
             "ro": "Conduceți la acest al doilea cluster pentru a vedea o altă bucată de istorie.",
-            "en": "Drive to this second cluster to see a different piece of history."
+            "en": "Drive to this second cluster to see a different piece of history.",
+            "el": "Οδηγήστε προς αυτόν τον δεύτερο σωρό για να δείτε ένα διαφορετικό κομμάτι ιστορίας."
           }
         },
         {
@@ -1277,7 +1383,8 @@
             "de": "Enipeas-Flussufer",
             "hu": "Enipeas-folyó partja",
             "ro": "Malul râului Enipeas",
-            "en": "Enipeas Riverbank"
+            "en": "Enipeas Riverbank",
+            "el": "Όχθη του ποταμού Ενιπέα"
           },
           "coords": [
             22.126,
@@ -1293,7 +1400,8 @@
             "de": "Machen Sie einen Verdauungsspaziergang nach dem Mittagessen am Fluss.",
             "hu": "Tegyen egy emésztő sétát ebéd után a folyóparton.",
             "ro": "Faceți o plimbare digestivă după prânz de-a lungul râului.",
-            "en": "Take a digestive walk after lunch along the river."
+            "en": "Take a digestive walk after lunch along the river.",
+            "el": "Κάντε έναν χώνευμα περίπατο μετά το μεσημεριανό δίπλα στον ποταμό."
           }
         },
         {
@@ -1301,7 +1409,8 @@
             "de": "Kulturzentrum (Cluster C)",
             "hu": "Kulturális Központ (C Klaszter)",
             "ro": "Centrul Cultural (Cluster C)",
-            "en": "Cultural Center (Cluster C)"
+            "en": "Cultural Center (Cluster C)",
+            "el": "Πολιτιστικό Κέντρο (Σωρός Γ)"
           },
           "coords": [
             22.135,
@@ -1317,7 +1426,8 @@
             "de": "Fahren Sie zum letzten Cluster für eine Dosis moderner Kultur.",
             "hu": "Vezessen az utolsó klaszterhez egy adag modern kultúráért.",
             "ro": "Conduceți la ultimul cluster pentru o doză de cultură modernă.",
-            "en": "Drive to the last cluster for a dose of modern culture."
+            "en": "Drive to the last cluster for a dose of modern culture.",
+            "el": "Οδηγήστε στον τελευταίο σωρό για μια δόση σύγχρονης κουλτούρας."
           }
         },
         {
@@ -1325,7 +1435,8 @@
             "de": "Kirche Agia Paraskevi",
             "hu": "Szent Paraszkevi-templom",
             "ro": "Biserica Sfânta Parascheva",
-            "en": "Church of Agia Paraskevi"
+            "en": "Church of Agia Paraskevi",
+            "el": "Εκκλησία της Αγίας Παρασκευής"
           },
           "coords": [
             22.138,
@@ -1341,7 +1452,8 @@
             "de": "Ein kurzer Spaziergang vom Kulturzentrum zu dieser ruhigen Kirche.",
             "hu": "Rövid séta a Kulturális Központtól ehhez a csendes templomhoz.",
             "ro": "O scurtă plimbare de la Centrul Cultural la această biserică liniștită.",
-            "en": "A short walk from the cultural center to this quiet church."
+            "en": "A short walk from the cultural center to this quiet church.",
+            "el": "Λίγο περπάτημα από το πολιτιστικό κέντρο μέχρι αυτή την ήσυχη εκκλησία."
           }
         }
       ],
@@ -1349,7 +1461,8 @@
         "de": "Nutzen Sie Ihr Auto, um Sofades in Clustern zu erkunden. Beginnen Sie im Zentrum (Cluster A), wo Sie parken und zu Fuß die Hauptkirche und das Folkloremuseum besuchen. Am Mittag fahren Sie zum alten Bahnhof (Cluster B) für ein historisches Intermezzo, gefolgt von einer Pause am Enipeas-Fluss. Am Nachmittag bringt Sie eine kurze Fahrt zum Kulturviertel (Cluster C), wo Sie das Kulturzentrum und die nahe gelegene Agia-Paraskevi-Kirche entdecken, bevor Sie den Tag beenden.",
         "hu": "Használja autóját Szofádesz klaszterekben történő felfedezéséhez. Kezdje a központban (A klaszter), ahol leparkolhat, és gyalog meglátogathatja a főtemplomot és a Néprajzi Múzeumot. Délben vezessen el a régi vasútállomáshoz (B klaszter) egy történelmi közjátékra, majd tartson szünetet az Enipeas-folyónál. Délután egy rövid autóút a kulturális negyedbe (C klaszter) viszi, ahol felfedezheti a Kulturális Központot és a közeli Agia Paraskevi-templomot, mielőtt befejezi a napot.",
         "ro": "Folosiți mașina pentru a explora Sofades în clustere. Începeți în centru (Cluster A), unde parcați și vizitați pe jos biserica principală și Muzeul de Folclor. La prânz, conduceți la vechea gară (Cluster B) pentru un intermezzo istoric, urmat de o pauză pe malul râului Enipeas. După-amiaza, o scurtă călătorie cu mașina vă duce în cartierul cultural (Cluster C), unde descoperiți Centrul Cultural și biserica Agia Paraskevi din apropiere, înainte de a încheia ziua.",
-        "en": "Use your car to explore Sofades in clusters. Start in the center (Cluster A), where you park and visit the main church and the Folklore Museum on foot. At midday, drive to the old train station (Cluster B) for a historical interlude, followed by a break at the Enipeas River. In the afternoon, a short drive takes you to the cultural quarter (Cluster C), where you'll discover the Cultural Center and the nearby Agia Paraskevi Church before ending your day."
+        "en": "Use your car to explore Sofades in clusters. Start in the center (Cluster A), where you park and visit the main church and the Folklore Museum on foot. At midday, drive to the old train station (Cluster B) for a historical interlude, followed by a break at the Enipeas River. In the afternoon, a short drive takes you to the cultural quarter (Cluster C), where you'll discover the Cultural Center and the nearby Agia Paraskevi Church before ending your day.",
+        "el": "Χρησιμοποιήστε το αυτοκίνητό σας για να εξερευνήσετε τα Σοφάδες σε σωρούς. Ξεκινήστε στο κέντρο (Σωρός Α), όπου σταθμεύετε και επισκέπτεστε την κύρια εκκλησία και το Λαογραφικό Μουσείο με τα πόδια. Στο μεσημέρι, οδηγήστε στον παλιό σταθμό τρένου (Σωρός Β) για ένα ιστορικό διάλειμμα, ακολουθούμενο από στάση στην όχθη του Ενιπέα. Το απόγευμα, μια σύντομη διαδρομή με το αυτοκίνητο σας οδηγεί στη συνοικία του πολιτισμού (Σωρός Γ), όπου θα ανακαλύψετε το Πολιτιστικό Κέντρο και την κοντινή εκκλησία της Αγίας Παρασκευής πριν τελειώσετε την ημέρα."
       },
       "gastro_picks": {
         "de": [
@@ -1545,6 +1658,12 @@
           "A GPS is useful for navigating between the clusters.",
           "Be mindful of the speed limits within the town.",
           "The car gives you the flexibility to also explore nearby villages if you have time."
+        ],
+        "el": [
+          "Η στάθμευση μπορεί να είναι πρόκληση στο κέντρο της πόλης· ψάξτε για επισημασμένους χώρους στάθμευσης.",
+          "Ένα GPS είναι χρήσιμο για να πλοηγηθείτε ανάμεσα στους σωρούς.",
+          "Να προσέχετε τα όρια ταχύτητας εντός της πόλης.",
+          "Το αυτοκίνητο σας δίνει ευελιξία να εξερευνήσετε και τα κοντινά χωριά αν έχετε χρόνο."
         ]
       },
       "variants": {
@@ -1553,7 +1672,8 @@
             "de": "Genießen Sie Sofades bequem mit dem Auto, ideal bei schlechtem Wetter. Die Route verbindet die wichtigsten Sehenswürdigkeiten mit nahen Parkmöglichkeiten. Vormittags besuchen Sie die Kirchen und Museen trocken, während der Regen gegen die Scheiben prasselt. Die Fahrt zum Enipeas-Ufer bietet auch bei Niederschlag schöne Ausblicke aus dem warmen Fahrzeuginneren.",
             "hu": "Élvezze Szofadeszt kényelmesen, autóval, ami ideális rossz időben. Az útvonal közeli parkolási lehetőségekkel köti össze a főbb látnivalókat. Délelőtt szárazon látogathatja a templomokat és múzeumokat, miközben az eső veri az ablakot. Az Enipeasz-parthoz vezető út a jármű melegéből is szép kilátást nyújt csapadékos időben is.",
             "ro": "Bucurați-vă de Sofades confortabil cu mașina, ideal pe vreme rea. Traseul conectează principalele atracții cu parcări apropiate. Dimineața vizitați bisericile și muzeele la adăpost, în timp ce ploaia bate în geam. Drumul spre malul râului Enipeas oferă priveliști frumoase din interiorul cald al vehiculului, chiar și pe ploaie.",
-            "en": "Enjoy Sofades comfortably by car, ideal for inclement weather. The route links major sights with nearby parking options. In the morning, visit churches and museums while staying dry. The drive to the Enipeas riverbank offers scenic views from the warmth of your vehicle, even when the rain is pouring outside."
+            "en": "Enjoy Sofades comfortably by car, ideal for inclement weather. The route links major sights with nearby parking options. In the morning, visit churches and museums while staying dry. The drive to the Enipeas riverbank offers scenic views from the warmth of your vehicle, even when the rain is pouring outside.",
+            "el": "Απολαύστε τα Σοφάδες άνετα με αυτοκίνητο, ιδανικό σε άσχημο καιρό. Η διαδρομή συνδέει τα κύρια αξιοθέατα με κοντινές επιλογές στάθμευσης. Το πρωί επισκεφθείτε εκκλησίες και μουσεία μένοντας στεγνοί. Η διαδρομή προς την όχθη του Ενιπέα προσφέρει γραφικές θέες από τη ζεστασιά του οχήματός σας, ακόμα και όταν βρέχει δυνατά έξω."
           },
           "stops": [
             {
@@ -1562,7 +1682,8 @@
                 "de": "Parken Sie nah am Ausgang, um den Weg im Regen zu verkürzen.",
                 "hu": "Parkoljon a kijárathoz közel, hogy lerövidítse az utat az esőben.",
                 "ro": "Parcați aproape de ieșire pentru a scurta drumul prin ploaie.",
-                "en": "Park close to the exit to minimize walking in the rain."
+                "en": "Park close to the exit to minimize walking in the rain.",
+                "el": "Σταθμεύστε κοντά στην έξοδο για να ελαχιστοποιήσετε το περπάτημα υπό βροχή."
               }
             },
             {
@@ -1571,7 +1692,8 @@
                 "de": "Nutzen Sie den Regenschirm für die wenigen Meter zum Eingang.",
                 "hu": "Használjon esernyőt a bejáratig tartó pár méteres úton.",
                 "ro": "Folosiți umbrela pentru puținii metri până la intrare.",
-                "en": "Use an umbrella for the short walk to the entrance."
+                "en": "Use an umbrella for the short walk to the entrance.",
+                "el": "Χρησιμοποιήστε ομπρέλα για τον σύντομο περίπατο μέχρι την είσοδο."
               }
             },
             {
@@ -1580,7 +1702,8 @@
                 "de": "Der Parkplatz ist oft pfützenreich, achten Sie beim Aussteigen darauf.",
                 "hu": "A parkoló gyakran tócsás, figyeljen kiszálláskor.",
                 "ro": "Parcarea are adesea bălți, atenție la coborâre.",
-                "en": "The parking lot often has puddles, be careful when exiting."
+                "en": "The parking lot often has puddles, be careful when exiting.",
+                "el": "Το πάρκινγκ συχνά έχει λιμνούλες· προσέξτε όταν βγαίνετε."
               }
             },
             {
@@ -1589,7 +1712,8 @@
                 "de": "Halten Sie die Fenster leicht offen gegen das Beschlagen.",
                 "hu": "Tartsa az ablakokat résnyire nyitva a párásodás ellen.",
                 "ro": "Țineți geamurile ușor deschise împotriva aburirii.",
-                "en": "Keep windows slightly cracked to prevent fogging."
+                "en": "Keep windows slightly cracked to prevent fogging.",
+                "el": "Κρατήστε τα παράθυρα λίγο ανοικτά για να αποφύγετε τη θόλωση."
               }
             },
             {
@@ -1598,7 +1722,8 @@
                 "de": "Bleiben Sie bei starkem Regen im Auto und genießen Sie die Sicht.",
                 "hu": "Heves esőben maradjon az autóban, és élvezze a kilátást.",
                 "ro": "Rămâneți în mașină în caz de ploaie grea și admirați râul.",
-                "en": "Stay in the car during heavy rain and enjoy the view."
+                "en": "Stay in the car during heavy rain and enjoy the view.",
+                "el": "Μείνετε μέσα στο αυτοκίνητο κατά τη δυνατή βροχή και απολαύστε τη θέα."
               }
             },
             {
@@ -1607,7 +1732,8 @@
                 "de": "Es gibt überdachte Parkplätze in der näheren Umgebung.",
                 "hu": "A közelben találhatók fedett parkolóhelyek.",
                 "ro": "Există locuri de parcare acoperite în imediata apropiere.",
-                "en": "There are covered parking spots available nearby."
+                "en": "There are covered parking spots available nearby.",
+                "el": "Υπάρχουν καλυμμένες θέσεις στάθμευσης διαθέσιμες κοντά."
               }
             },
             {
@@ -1616,7 +1742,8 @@
                 "de": "Kurzer Sprint zum Eingang; der Boden kann rutschig sein.",
                 "hu": "Rövid sprint a bejáratig; a talaj csúszós lehet.",
                 "ro": "Sprint scurt până la intrare; solul poate fi alunecos.",
-                "en": "Quick sprint to the entrance; the ground may be slippery."
+                "en": "Quick sprint to the entrance; the ground may be slippery.",
+                "el": "Γρήγορο σπριντ προς την είσοδο· το έδαφος μπορεί να είναι ολισθηρό."
               }
             }
           ],
@@ -1644,6 +1771,12 @@
               "Watch out for aquaplaning on Thessalian country roads.",
               "Visibility can be severely limited by fog in the plains.",
               "Avoid parking under unstable trees during windy conditions."
+            ],
+            "el": [
+              "Ελέγξτε τα υαλοκαθαριστήρα πριν ξεκινήσετε το ταξίδι.",
+              "Προσέξτε το υδρολίσθιση στους θεσσαλικούς αγροτικούς δρόμους.",
+              "Η ορατότητα μπορεί να περιοριστεί σοβαρά από την ομίχλη στις πεδιάδες.",
+              "Αποφύγετε τη στάθμευση κάτω από ασταθή δέντρα σε συνθήκες θύελλας."
             ]
           }
         },
@@ -1652,7 +1785,8 @@
             "de": "Erkunden Sie das winterliche Sofades mit dem Komfort einer Sitzheizung. Die Route führt Sie effizient zu den kulturellen Schätzen, während Sie die frostige Landschaft der thessalischen Ebene sicher durchqueren. Die kurzen Wege zwischen den Parkplätzen und den Sehenswürdigkeiten minimieren die Kälteexposition. Der Tag endet perfekt mit einer stimmungsvollen Fahrt durch die Dämmerung.",
             "hu": "Fedezze fel a téli Szofadeszt az ülésfűtés kényelmével. Az útvonal hatékonyan vezet a kulturális kincsekhez, miközben biztonságban szeli át a thesszáliai síkság fagyos tájait. A parkolók és látnivalók közötti rövid távolságok minimalizálják a hidegben töltött időt. A nap tökéletesen zárul egy hangulatos, szürkületi autózással.",
             "ro": "Explorați Sofades iarna cu confortul încălzirii în scaune. Traseul vă duce eficient la comorile culturale, în timp ce traversați în siguranță câmpia înghețată a Tesaliei. Distanțele scurte între parcări și obiective minimizează expunerea la frig. Ziua se încheie perfect cu o plimbare atmosferică prin amurg.",
-            "en": "Explore winter Sofades with the comfort of heated seats. The route efficiently guides you to cultural treasures while safely crossing the frosty Thessalian plains. Short distances between parking spots and sights minimize your exposure to the cold. The day ends perfectly with an atmospheric drive through the winter twilight."
+            "en": "Explore winter Sofades with the comfort of heated seats. The route efficiently guides you to cultural treasures while safely crossing the frosty Thessalian plains. Short distances between parking spots and sights minimize your exposure to the cold. The day ends perfectly with an atmospheric drive through the winter twilight.",
+            "el": "Εξερευνήστε τα Σοφάδες χειμώνα με την άνεση των θερμαινόμενων καθισμάτων. Η διαδρομή σας οδηγεί αποδοτικά σε πολιτιστικούς θησαυρούς διασχίζοντας με ασφάλεια τις παγωμένες θεσσαλικές πεδιάδες. Οι μικρές αποστάσεις μεταξύ χώρων στάθμευσης και αξιοθέατων μειώνουν την έκθεσή σας στο κρύο. Η μέρα τελειώνει ιδανικά με μια ατμοσφαιρική οδήγηση στο χειμερινό λυκόφως."
           },
           "stops": [
             {
@@ -1661,7 +1795,8 @@
                 "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
                 "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
                 "ro": "Nu lăsați motorul pornit inutil în timp ce staționați.",
-                "en": "Do not leave the engine idling unnecessarily while parked."
+                "en": "Do not leave the engine idling unnecessarily while parked.",
+                "el": "Μην αφήνετε τον κινητήρα στο ρελαντί χωρίς λόγο ενώ είστε σταθμευμένοι."
               }
             },
             {
@@ -1670,7 +1805,8 @@
                 "de": "Achten Sie auf gefrorene Pfützen auf dem Gehweg.",
                 "hu": "Vigyázzon a fagyott tócsákra a járdán.",
                 "ro": "Atenție la bălțile înghețate de pe trotuar.",
-                "en": "Watch out for frozen puddles on the walkway."
+                "en": "Watch out for frozen puddles on the walkway.",
+                "el": "Προσέξτε τις παγωμένες λιμνούλες στο πεζοδρόμιο."
               }
             },
             {
@@ -1679,7 +1815,8 @@
                 "de": "Nutzen Sie die Zeit im Warmen, um die Route neu zu laden.",
                 "hu": "Használja ki a bent töltött időt az útvonal újratervezésére.",
                 "ro": "Folosiți timpul petrecut la căldură pentru a reîncărca ruta.",
-                "en": "Use your time inside to review the next steps of your trip."
+                "en": "Use your time inside to review the next steps of your trip.",
+                "el": "Χρησιμοποιήστε τον χρόνο σας μέσα για να ελέγξετε τα επόμενα βήματα του ταξιδιού σας."
               }
             },
             {
@@ -1688,7 +1825,8 @@
                 "de": "Der Parkplatz kann im Winter sehr zugig sein.",
                 "hu": "A parkoló télen nagyon huzatos lehet.",
                 "ro": "Parcarea poate fi foarte expusă vântului iarna.",
-                "en": "The parking area can be very drafty and cold in winter."
+                "en": "The parking area can be very drafty and cold in winter.",
+                "el": "Ο χώρος στάθμευσης μπορεί να είναι πολύ ρευματικός και κρύος τον χειμώνα."
               }
             },
             {
@@ -1697,7 +1835,8 @@
                 "de": "Die Zufahrtsstraßen können bei Frost glatt sein.",
                 "hu": "A bekötőutak fagyban csúszósak lehetnek.",
                 "ro": "Drumurile de acces pot fi alunecoase în caz de îngheț.",
-                "en": "Access roads near the river can be slippery when frozen."
+                "en": "Access roads near the river can be slippery when frozen.",
+                "el": "Οι προσβάσιμες οδοί κοντά στον ποταμό μπορούν να γίνουν ολισθηρές όταν παγώσουν."
               }
             },
             {
@@ -1706,7 +1845,8 @@
                 "de": "Prüfen Sie die Heizungseinstellungen für die Weiterfahrt.",
                 "hu": "Ellenőrizze a fűtésbeállításokat a továbbindulás előtt.",
                 "ro": "Verificați setările de căldură înainte de a pleca.",
-                "en": "Check your heater settings before continuing the drive."
+                "en": "Check your heater settings before continuing the drive.",
+                "el": "Ελέγξτε τις ρυθμίσεις του θερμαντήρα πριν συνεχίσετε το ταξίδι."
               }
             },
             {
@@ -1715,7 +1855,8 @@
                 "de": "Vorsicht vor Eiszapfen an den Dachrinnen der Kirche.",
                 "hu": "Vigyázzon a templom ereszein lógó jégcsapokra.",
                 "ro": "Atenție la țurțurii de pe streșinile bisericii.",
-                "en": "Watch out for icicles on the church eaves."
+                "en": "Watch out for icicles on the church eaves.",
+                "el": "Προσέξτε τους σταλακτίτες πάγου στις τριγύρω στεγανές υδρορροές των εκκλησιών."
               }
             }
           ],
@@ -1743,6 +1884,12 @@
               "Watch your tire pressure monitor as it drops in the cold.",
               "The low winter sun can be blinding; use your sun visor.",
               "Keep a blanket in the car for emergency situations."
+            ],
+            "el": [
+              "Βεβαιωθείτε ότι έχετε αρκετό αντιψυκτικό στο υγρό καθαρισμού παρμπρίζ.",
+              "Παρακολουθείτε το σύστημα παρακολούθησης πίεσης ελαστικών καθώς πέφτει στο κρύο.",
+              "Ο χαμηλός χειμερινός ήλιος μπορεί να τυφλώνει· χρησιμοποιήστε το ηλιοπροστατευτικό κάλυμμα.",
+              "Κρατήστε μια κουβέρτα στο αυτοκίνητο για έκτακτες ανάγκες."
             ]
           }
         }
@@ -1761,7 +1908,8 @@
             "de": "Zentralplatz (Cluster A)",
             "hu": "Központi tér (A Klaszter)",
             "ro": "Piața Centrală (Cluster A)",
-            "en": "Central Square (Cluster A)"
+            "en": "Central Square (Cluster A)",
+            "el": "Κεντρική Πλατεία (Σωρός Α)"
           },
           "coords": [
             22.1335,
@@ -1777,7 +1925,8 @@
             "de": "Der Hauptbusknotenpunkt ist oft in der Nähe. Beginnen Sie Ihre Erkundung von hier aus.",
             "hu": "A fő buszcsomópont gyakran a közelben van. Innen kezdje a felfedezést.",
             "ro": "Principalul nod de autobuz este adesea în apropiere. Începeți explorarea de aici.",
-            "en": "The main bus hub is often nearby. Start your exploration from here."
+            "en": "The main bus hub is often nearby. Start your exploration from here.",
+            "el": "Ο κύριος κόμβος λεωφορείων είναι συχνά κοντά. Ξεκινήστε την εξερεύνησή σας από εδώ."
           }
         },
         {
@@ -1785,7 +1934,8 @@
             "de": "Kirche Agios Georgios",
             "hu": "Szent György-templom",
             "ro": "Biserica Sfântul Gheorghe",
-            "en": "Church of Agios Georgios"
+            "en": "Church of Agios Georgios",
+            "el": "Εκκλησία του Αγίου Γεωργίου"
           },
           "coords": [
             22.1345,
@@ -1801,7 +1951,8 @@
             "de": "Ein kurzer Spaziergang vom Platz.",
             "hu": "Rövid séta a térről.",
             "ro": "O scurtă plimbare din piață.",
-            "en": "A short walk from the square."
+            "en": "A short walk from the square.",
+            "el": "Λίγο περπάτημα από την πλατεία."
           }
         },
         {
@@ -1809,7 +1960,8 @@
             "de": "Gefallenendenkmal",
             "hu": "Háborús emlékmű",
             "ro": "Monumentul Eroilor",
-            "en": "War Memorial"
+            "en": "War Memorial",
+            "el": "Μνημείο Πολέμου"
           },
           "coords": [
             22.1328,
@@ -1825,7 +1977,8 @@
             "de": "Leicht zu Fuß vom ersten Cluster aus erreichbar.",
             "hu": "Könnyen megközelíthető gyalog az első klaszterből.",
             "ro": "Ușor accesibil pe jos din primul cluster.",
-            "en": "Easily accessible on foot within the first cluster."
+            "en": "Easily accessible on foot within the first cluster.",
+            "el": "Εύκολα προσβάσιμο πεζή εντός του πρώτου σωρού."
           }
         },
         {
@@ -1833,7 +1986,8 @@
             "de": "Kulturzentrum (Cluster B)",
             "hu": "Kulturális Központ (B Klaszter)",
             "ro": "Centrul Cultural (Cluster B)",
-            "en": "Cultural Center (Cluster B)"
+            "en": "Cultural Center (Cluster B)",
+            "el": "Πολιτιστικό Κέντρο (Σωρός Β)"
           },
           "coords": [
             22.135,
@@ -1849,7 +2003,8 @@
             "de": "Nehmen Sie einen lokalen Bus zu diesem Kulturcluster.",
             "hu": "Menjen helyi busszal ehhez a kulturális klaszterhez.",
             "ro": "Luați un autobuz local către acest cluster cultural.",
-            "en": "Take a local bus to this cultural cluster."
+            "en": "Take a local bus to this cultural cluster.",
+            "el": "Πάρτε ένα τοπικό λεωφορείο προς αυτόν τον πολιτιστικό σωρό."
           }
         },
         {
@@ -1857,7 +2012,8 @@
             "de": "Volkskundliche Sammlung",
             "hu": "Néprajzi Gyűjtemény",
             "ro": "Colecția Folclorică",
-            "en": "Folklore Collection"
+            "en": "Folklore Collection",
+            "el": "Συλλογή Λαογραφίας"
           },
           "coords": [
             22.1315,
@@ -1873,7 +2029,8 @@
             "de": "Vom Kulturzentrum aus zu Fuß erreichbar.",
             "hu": "Gyalogosan elérhető a Kulturális Központtól.",
             "ro": "Accesibil pe jos de la Centrul Cultural.",
-            "en": "Within walking distance from the Cultural Center."
+            "en": "Within walking distance from the Cultural Center.",
+            "el": "Σε απόσταση αναπνοής από το Πολιτιστικό Κέντρο."
           }
         },
         {
@@ -1881,7 +2038,8 @@
             "de": "Alter Bahnhof (Cluster C)",
             "hu": "Régi vasútállomás (C Klaszter)",
             "ro": "Gara Veche (Cluster C)",
-            "en": "Old Train Station (Cluster C)"
+            "en": "Old Train Station (Cluster C)",
+            "el": "Παλιός Σιδηροδρομικός Σταθμός (Σωρός Γ)"
           },
           "coords": [
             22.128,
@@ -1897,7 +2055,8 @@
             "de": "Eine weitere Busfahrt bringt Sie in die Nähe des alten Bahnhofs.",
             "hu": "Egy újabb buszozás a régi vasútállomás közelébe visz.",
             "ro": "O altă călătorie cu autobuzul vă va duce aproape de vechea gară.",
-            "en": "Another bus ride will take you close to the old station."
+            "en": "Another bus ride will take you close to the old station.",
+            "el": "Άλλη μια διαδρομή με λεωφορείο θα σας φέρει κοντά στον παλιό σταθμό."
           }
         },
         {
@@ -1905,7 +2064,8 @@
             "de": "Enipeas-Flussufer",
             "hu": "Enipeas-folyó partja",
             "ro": "Malul râului Enipeas",
-            "en": "Enipeas Riverbank"
+            "en": "Enipeas Riverbank",
+            "el": "Όχθη του ποταμού Ενιπέα"
           },
           "coords": [
             22.126,
@@ -1921,7 +2081,8 @@
             "de": "Beenden Sie Ihren Tag mit einem entspannenden Spaziergang am Fluss.",
             "hu": "Zárja a napot egy pihentető sétával a folyóparton.",
             "ro": "Încheiați ziua cu o plimbare relaxantă pe malul râului.",
-            "en": "End your day with a relaxing walk by the river."
+            "en": "End your day with a relaxing walk by the river.",
+            "el": "Τελειώστε τη μέρα σας με έναν χαλαρό περίπατο δίπλα στον ποταμό."
           }
         }
       ],
@@ -1929,7 +2090,8 @@
         "de": "Erkunden Sie Sofades mit öffentlichen Verkehrsmitteln, indem Sie zwischen den Sehenswürdigkeitenclustern wechseln. Beginnen Sie im zentralen Cluster (A), wo Sie den Hauptplatz und die Kirchen zu Fuß erkunden. Ein Bus bringt Sie mittags zum Kulturcluster (B) mit seinem Zentrum und dem Folkloremuseum. Am Nachmittag bringt Sie eine weitere Busfahrt zum historischen Bahnhof (C), von wo aus Sie einen ruhigen Spaziergang zum Enipeas-Flussufer unternehmen können, um den Tag ausklingen zu lassen.",
         "hu": "Fedezze fel Szofádeszt tömegközlekedéssel, a látnivalók klaszterei között váltogatva. Kezdje a központi klaszterben (A), ahol gyalogosan felfedezheti a főteret és a templomokat. Délben egy busz elviszi a kulturális klaszterbe (B), annak központjával és a Néprajzi Múzeummal. Délután egy újabb buszozás elviszi a történelmi vasútállomáshoz (C), ahonnan egy csendes sétát tehet az Enipeas-folyó partjára, hogy lezárja a napot.",
         "ro": "Explorați Sofades cu transportul public, alternând între clusterele de atracții. Începeți în clusterul central (A), unde explorați piața principală și bisericile pe jos. Un autobuz vă va duce la prânz la clusterul cultural (B), cu centrul său și Muzeul de Folclor. După-amiaza, o altă călătorie cu autobuzul vă va duce la gara istorică (C), de unde puteți face o plimbare liniștită până la malul râului Enipeas pentru a încheia ziua.",
-        "en": "Explore Sofades using public transport by hopping between clusters of sights. Start at the central cluster (A), exploring the main square and churches on foot. A bus will take you to the cultural cluster (B) at midday, featuring its center and the Folklore Museum. In the afternoon, another bus ride takes you to the historic station (C), from where you can take a peaceful walk to the Enipeas riverbank to finish the day."
+        "en": "Explore Sofades using public transport by hopping between clusters of sights. Start at the central cluster (A), exploring the main square and churches on foot. A bus will take you to the cultural cluster (B) at midday, featuring its center and the Folklore Museum. In the afternoon, another bus ride takes you to the historic station (C), from where you can take a peaceful walk to the Enipeas riverbank to finish the day.",
+        "el": "Εξερευνήστε τα Σοφάδες με δημόσια μέσα μεταφοράς πηδώντας ανάμεσα σε σωρούς αξιοθέατων. Ξεκινήστε στον κεντρικό σωρό (Α), εξερευνώντας την κύρια πλατεία και τις εκκλησίες με τα πόδια. Ένα λεωφορείο θα σας πάει στον πολιτιστικό σωρό (Β) το μεσημέρι, όπου βρίσκεται το Πολιτιστικό Κέντρο και το Λαογραφικό Μουσείο. Το απόγευμα, άλλο ένα λεωφορείο θα σας μεταφέρει στον ιστορικό σταθμό (Γ), από όπου μπορείτε να κάνετε έναν ήρεμο περίπατο στην όχθη του Ενιπέα για να κλείσετε τη μέρα."
       },
       "gastro_picks": {
         "de": [
@@ -2125,6 +2287,12 @@
           "A day pass might be cheaper than single tickets.",
           "Be aware that buses in rural areas may not be as frequent.",
           "Ask locals for the right bus line if you are unsure."
+        ],
+        "el": [
+          "Πάρτε ένα πρόγραμμα δρομολογίων λεωφορείων ή χρησιμοποιήστε εφαρμογή δημόσιας συγκοινωνίας.",
+          "Ένα ημερήσιο εισιτήριο μπορεί να είναι φθηνότερο από μεμονωμένα εισιτήρια.",
+          "Να θυμάστε ότι τα λεωφορεία σε αγροτικές περιοχές μπορεί να μην είναι τόσο συχνά.",
+          "Ρωτήστε ντόπιους για τη σωστή γραμμή λεωφορείου αν δεν είστε σίγουροι."
         ]
       },
       "variants": {
@@ -2133,7 +2301,8 @@
             "de": "Nutzen Sie die lokalen Busverbindungen, um Sofades im Regen zu erkunden. Die Haltestellen am Zentralplatz und nahe der Kulturstätten bieten Schutz. Der Vormittag in der Folklore-Sammlung lässt Sie das Wetter vergessen. Nachmittags erreichen Sie bequem das Kulturzentrum und die alte Bahnstation, während Sie im Bus trocken bleiben. Ein entspannter Tag trotz grauer Wolken.",
             "hu": "Használja a helyi buszjáratokat Szofadesz felfedezéséhez esőben. A központi téri és a kulturális helyszínek közeli megállók védelmet nyújtanak. A néprajzi gyűjteményben töltött délelőtt elfeledteti Önnel a rossz időt. Délután kényelmesen elérheti a Kulturális Központot és a régi vasútállomást, miközben a buszon szárazon marad. Pihentető nap a szürke felhők ellenére is.",
             "ro": "Folosiți liniile locale de autobuz pentru a explora Sofades pe ploaie. Stațiile din Piața Centrală și de lângă obiectivele culturale oferă protecție. Dimineața la Colecția de Folclor vă va face să uitați de vreme. După-amiaza ajungeți confortabil la Centrul Cultural și la vechea gară, rămânând uscați în autobuz. O zi relaxantă în ciuda norilor gri.",
-            "en": "Use local bus connections to explore Sofades in the rain. Bus stops at the Central Square and near cultural sites provide some protection. Spending the morning at the Folklore Collection helps you forget the weather. In the afternoon, reach the Cultural Center and old station comfortably while staying dry on the bus. A relaxed day despite the gray clouds."
+            "en": "Use local bus connections to explore Sofades in the rain. Bus stops at the Central Square and near cultural sites provide some protection. Spending the morning at the Folklore Collection helps you forget the weather. In the afternoon, reach the Cultural Center and old station comfortably while staying dry on the bus. A relaxed day despite the gray clouds.",
+            "el": "Χρησιμοποιήστε τοπικές λεωφορειακές συνδέσεις για να εξερευνήσετε τα Σοφάδες στη βροχή. Οι στάσεις στην Κεντρική Πλατεία και κοντά σε πολιτιστικούς χώρους παρέχουν κάποια προστασία. Περνώντας το πρωί στη Συλλογή Λαογραφίας θα ξεχάσετε τον καιρό. Το απόγευμα, φτάστε στο Πολιτιστικό Κέντρο και τον παλιό σταθμό άνετα μένοντας στεγνοί στο λεωφορείο. Μια χαλαρή μέρα παρά τα γκρίζα σύννεφα."
           },
           "stops": [
             {
@@ -2142,7 +2311,8 @@
                 "de": "Warten Sie im Kiosk oder Café bis der Bus kommt.",
                 "hu": "Várjon a kávézóban vagy az újságosnál a busz érkezéséig.",
                 "ro": "Așteptați în cafenea sau la chioșc până vine autobuzul.",
-                "en": "Wait in a nearby cafe or kiosk until the bus arrives."
+                "en": "Wait in a nearby cafe or kiosk until the bus arrives.",
+                "el": "Περιμένετε σε ένα κοντινό καφέ ή περίπτερο μέχρι να έρθει το λεωφορείο."
               }
             },
             {
@@ -2151,7 +2321,8 @@
                 "de": "Die Haltestelle hat ein kleines Dach, das vor Regen schützt.",
                 "hu": "A megállónak van egy kis teteje, ami véd az esőtől.",
                 "ro": "Stația are un acoperiș mic care protejează de ploaie.",
-                "en": "The stop has a small shelter that protects from rain."
+                "en": "The stop has a small shelter that protects from rain.",
+                "el": "Η στάση έχει ένα μικρό υπόστεγο που προστατεύει από τη βροχή."
               }
             },
             {
@@ -2160,7 +2331,8 @@
                 "de": "Gehen Sie zügig zur nächsten überdachten Haltestelle.",
                 "hu": "Menjen gyorsan a következő fedett buszmegállóhoz.",
                 "ro": "Mergeți rapid spre următoarea stație acoperită.",
-                "en": "Walk quickly to the nearest covered bus stop."
+                "en": "Walk quickly to the nearest covered bus stop.",
+                "el": "Περπατήστε γρήγορα προς την πιο κοντινή καλυμμένη στάση λεωφορείου."
               }
             },
             {
@@ -2169,7 +2341,8 @@
                 "de": "Busse können bei starkem Regen leichte Verspätungen haben.",
                 "hu": "Erős esőben a buszoknak kisebb késésük lehet.",
                 "ro": "Autobuzele pot avea mici întârzieri în caz de ploaie grea.",
-                "en": "Buses may experience slight delays during heavy rain."
+                "en": "Buses may experience slight delays during heavy rain.",
+                "el": "Τα λεωφορεία μπορεί να έχουν μικρές καθυστερήσεις κατά τη δυνατή βροχή."
               }
             },
             {
@@ -2178,7 +2351,8 @@
                 "de": "Fragen Sie nach dem aktuellen Fahrplan bei schlechtem Wetter.",
                 "hu": "Érdeklődjön az aktuális menetrendről rossz időben.",
                 "ro": "Întrebați de programul actualizat pe vreme rea.",
-                "en": "Inquire about current schedules during bad weather."
+                "en": "Inquire about current schedules during bad weather.",
+                "el": "Ρωτήστε για τα τρέχοντα δρομολόγια σε κακές καιρικές συνθήκες."
               }
             },
             {
@@ -2187,7 +2361,8 @@
                 "de": "Das Bahnhofsgebäude bietet guten Schutz beim Warten.",
                 "hu": "Az állomás épülete jó védelmet nyújt várakozás közben.",
                 "ro": "Clădirea gării oferă adăpost bun în timpul așteptării.",
-                "en": "The station building provides good shelter while waiting."
+                "en": "The station building provides good shelter while waiting.",
+                "el": "Το κτίριο του σταθμού παρέχει καλή κάλυψη ενώ περιμένετε."
               }
             },
             {
@@ -2196,7 +2371,8 @@
                 "de": "Nehmen Sie den Bus zurück, bevor es zu stark regnet.",
                 "hu": "Szálljon buszra visszafelé, mielőtt túlságosan rákezdene az eső.",
                 "ro": "Luați autobuzul înapoi înainte să plouă prea tare.",
-                "en": "Take the bus back before the rain intensifies."
+                "en": "Take the bus back before the rain intensifies.",
+                "el": "Πάρτε το λεωφορείο πίσω πριν ενταθεί η βροχή."
               }
             }
           ],
@@ -2224,6 +2400,12 @@
               "Some stops are not sheltered, use an umbrella while waiting.",
               "Bus frequency might be lower during midday hours.",
               "Check online apps for live transit information if available."
+            ],
+            "el": [
+              "Να έχετε μικρό ρέστα έτοιμα για το εισιτήριο του λεωφορείου.",
+              "Μερικές στάσεις δεν είναι στεγασμένες· χρησιμοποιήστε ομπρέλα ενώ περιμένετε.",
+              "Η συχνότητα των λεωφορείων μπορεί να είναι χαμηλότερη τις μεσημεριανές ώρες.",
+              "Ελέγξτε εφαρμογές για ζωντανή ενημέρωση δρομολογίων όπου είναι διαθέσιμες."
             ]
           }
         },
@@ -2232,7 +2414,8 @@
             "de": "Erkunden Sie Sofades im Winter mit dem öffentlichen Nahverkehr. Die beheizten Busse sind eine willkommene Abwechslung zur kalten thessalischen Luft. Besuchen Sie die Folklore-Sammlung und die Kirchen, während Sie die frostige Ebene durch das Busfenster beobachten. Da die Tage kurz sind, hilft die Transit-Route, die Zeit zwischen den warmen Innenräumen effizient zu nutzen.",
             "hu": "Fedezze fel a téli Szofadeszt tömegközlekedéssel. A fűtött buszok kellemes felüdülést nyújtanak a hideg thesszáliai levegő után. Látogasson el a néprajzi gyűjteménybe és a templomokba, miközben a buszablakból figyeli a fagyos síkságot. Mivel a nappalok rövidek, a tömegközlekedés segít hatékonyan kihasználni a meleg belső terek közötti időt.",
             "ro": "Explorați Sofades iarna folosind transportul public. Autobuzele încălzite sunt o schimbare binevenită față de aerul rece al Tesaliei. Vizitați Colecția de Folclor și bisericile în timp ce priviți câmpia înghețată prin fereastra autobuzului. Deoarece zilele sunt scurte, ruta de tranzit vă ajută să folosiți eficient timpul între spațiile interioare calde.",
-            "en": "Explore winter Sofades using public transport. Heated buses provide a welcome respite from the cold Thessalian air. Visit the Folklore Collection and churches while watching the frosty plains through the bus window. Since days are short, the transit route helps you efficiently manage your time between warm indoor attractions."
+            "en": "Explore winter Sofades using public transport. Heated buses provide a welcome respite from the cold Thessalian air. Visit the Folklore Collection and churches while watching the frosty plains through the bus window. Since days are short, the transit route helps you efficiently manage your time between warm indoor attractions.",
+            "el": "Εξερευνήστε τα Σοφάδες το χειμώνα με δημόσια μέσα. Τα θερμαινόμενα λεωφορεία προσφέρουν ανακούφιση από το κρύο θεσσαλικό αεράκι. Επισκεφθείτε τη Συλλογή Λαογραφίας και τις εκκλησίες παρακολουθώντας τις παγωμένες πεδιάδες μέσα από το παράθυρο. Δεδομένου ότι οι μέρες είναι μικρές, οι συγκοινωνιακές διαδρομές σας βοηθούν να διαχειριστείτε αποδοτικά τον χρόνο ανάμεσα σε ζεστές εσωτερικές επισκέψεις."
           },
           "stops": [
             {
@@ -2241,7 +2424,8 @@
                 "de": "Warten Sie im Windschatten der Gebäude auf den Bus.",
                 "hu": "Várjon a buszra az épületek szélárnyékában.",
                 "ro": "Așteptați autobuzul la adăpostul clădirilor.",
-                "en": "Wait for the bus in the lee of the buildings to avoid the wind."
+                "en": "Wait for the bus in the lee of the buildings to avoid the wind.",
+                "el": "Περιμένετε για το λεωφορείο στη σκιά των κτιρίων για να αποφύγετε τον άνεμο."
               }
             },
             {
@@ -2250,7 +2434,8 @@
                 "de": "Der Bus hält sehr nah am Eingang der Kirche.",
                 "hu": "A busz nagyon közel áll meg a templom bejáratához.",
                 "ro": "Autobuzul oprește foarte aproape de intrarea bisericii.",
-                "en": "The bus stops very close to the church entrance."
+                "en": "The bus stops very close to the church entrance.",
+                "el": "Το λεωφορείο σταματά πολύ κοντά στην είσοδο της εκκλησίας."
               }
             },
             {
@@ -2259,7 +2444,8 @@
                 "de": "Ein sehr exponierter Ort, halten Sie sich nicht zu lange auf.",
                 "hu": "Nagyon kitett helyszín, ne időzzön itt túl sokat.",
                 "ro": "Un loc foarte expus, nu zăboviți prea mult afară.",
-                "en": "A very exposed spot; don't linger too long in the cold."
+                "en": "A very exposed spot; don't linger too long in the cold.",
+                "el": "Πολύ εκτεθειμένο σημείο· μην καθυστερείτε πολύ στο κρύο."
               }
             },
             {
@@ -2268,7 +2454,8 @@
                 "de": "Das Foyer ist im Winter meist gut beheizt.",
                 "hu": "Az aula télen általában jól fűtött.",
                 "ro": "Foaierul este de obicei bine încălzit pe timp de iarnă.",
-                "en": "The foyer is usually well-heated during winter months."
+                "en": "The foyer is usually well-heated during winter months.",
+                "el": "Το φουαγιέ συνήθως είναι καλά ζεσταμένο τους χειμερινούς μήνες."
               }
             },
             {
@@ -2277,7 +2464,8 @@
                 "de": "Prüfen Sie die Rückfahrtzeiten, bevor es dunkel wird.",
                 "hu": "Ellenőrizze a visszautat, mielőtt besötétedik.",
                 "ro": "Verificați orele de întoarcere înainte de lăsarea întunericului.",
-                "en": "Check the return bus times before it gets dark."
+                "en": "Check the return bus times before it gets dark.",
+                "el": "Ελέγξτε τις ώρες επιστροφής των λεωφορείων πριν σκοτεινιάσει."
               }
             },
             {
@@ -2286,7 +2474,8 @@
                 "de": "Nutzen Sie den Wartesaal, falls dieser geöffnet ist.",
                 "hu": "Használja a várótermet, amennyiben nyitva van.",
                 "ro": "Folosiți sala de așteptare dacă este deschisă.",
-                "en": "Use the waiting room if it is open to stay warm."
+                "en": "Use the waiting room if it is open to stay warm.",
+                "el": "Χρησιμοποιήστε την αίθουσα αναμονής αν είναι ανοιχτή για να μείνετε ζεστοί."
               }
             },
             {
@@ -2295,7 +2484,8 @@
                 "de": "Die letzte Haltestelle vor der Rückfahrt im warmen Bus.",
                 "hu": "Az utolsó megálló a meleg buszos visszautazás előtt.",
                 "ro": "Ultima oprire înainte de întoarcerea cu autobuzul cald.",
-                "en": "Final stop before returning on the warm bus."
+                "en": "Final stop before returning on the warm bus.",
+                "el": "Τελευταία στάση πριν επιστρέψετε στο ζεστό λεωφορείο."
               }
             }
           ],
@@ -2323,6 +2513,12 @@
               "Buses are less likely to be crowded during winter.",
               "Be aware of potential winter schedule changes.",
               "Purchase tickets in advance where possible to save time."
+            ],
+            "el": [
+              "Φορέστε ζεστές κάλτσες καθώς η αναμονή στις στάσεις μπορεί να είναι δροσερή.",
+              "Τα λεωφορεία είναι λιγότερο πιθανό να είναι γεμάτα τον χειμώνα.",
+              "Να είστε ενήμεροι για πιθανές χειμερινές αλλαγές στα δρομολόγια.",
+              "Αγοράστε εισιτήρια εκ των προτέρων όπου είναι δυνατόν για να κερδίσετε χρόνο."
             ]
           }
         }

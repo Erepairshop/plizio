@@ -21,7 +21,8 @@
             "de": "Gallery",
             "hu": "Gallery",
             "ro": "Gallery",
-            "en": "Gallery"
+            "en": "Gallery",
+            "el": "Gallery"
           },
           "coords": [
             23.737511,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie zeitgenössische lokale Kunstwerke und prüfen Sie unbedingt das Programm der Wechselausstellungen.",
             "hu": "Csodálja meg a kortárs helyi alkotásokat, és látogatás előtt érdemes ellenőrizni az időszaki kiállításokat.",
             "ro": "Admirați opere de artă contemporană locală și asigurați-vă că verificați programul expozițiilor temporare.",
-            "en": "Admire contemporary local artworks, and be sure to check the temporary exhibition schedule before your visit."
+            "en": "Admire contemporary local artworks, and be sure to check the temporary exhibition schedule before your visit.",
+            "el": "Θαυμάστε σύγχρονα τοπικά έργα τέχνης και ελέγξτε το πρόγραμμα των περιοδικών εκθέσεων πριν την επίσκεψή σας."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Folk Art Museum of Acharnes",
             "hu": "Folk Art Museum of Acharnes",
             "ro": "Folk Art Museum of Acharnes",
-            "en": "Folk Art Museum of Acharnes"
+            "en": "Folk Art Museum of Acharnes",
+            "el": "Folk Art Museum of Acharnes"
           },
           "coords": [
             23.735495,
@@ -59,7 +62,8 @@
             "de": "Entdecken Sie traditionelle griechische Trachten und achten Sie besonders auf die kunstvollen Stickereien.",
             "hu": "Fedezze fel a hagyományos görög viseleteket, különös figyelmet fordítva a bonyolult hímzésekre.",
             "ro": "Descoperiți costumele tradiționale grecești și acordați o atenție deosebită broderiilor complicate expuse.",
-            "en": "Discover traditional Greek costumes and artifacts, paying special attention to the intricate embroidery displays."
+            "en": "Discover traditional Greek costumes and artifacts, paying special attention to the intricate embroidery displays.",
+            "el": "Ανακαλύψτε παραδοσιακές ελληνικές ενδυμασίες και αντικείμενα, δίνοντας προσοχή στις περίτεχνες κεντητές εκθέσεις."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Demotike Pinakotheke \"Khrestos Tsebas\"",
             "hu": "Demotike Pinakotheke \"Khrestos Tsebas\"",
             "ro": "Demotike Pinakotheke \"Khrestos Tsebas\"",
-            "en": "Demotike Pinakotheke \"Khrestos Tsebas\""
+            "en": "Demotike Pinakotheke \"Khrestos Tsebas\"",
+            "el": "Demotike Pinakotheke \"Khrestos Tsebas\""
           },
           "coords": [
             23.734382,
@@ -82,7 +87,8 @@
             "de": "Erkunden Sie diese städtische Kunstsammlung und nehmen Sie sich Zeit, die Biografien der Künstler zu lesen.",
             "hu": "Fedezze fel ezt a lenyűgöző városi művészeti gyűjteményt, és szánjon időt a művészek életrajzainak elolvasására.",
             "ro": "Explorați această impresionantă colecție de artă municipală și luați-vă un moment pentru a citi biografiile artiștilor.",
-            "en": "Explore this impressive municipal art collection, and take a moment to read the artist biographies provided."
+            "en": "Explore this impressive municipal art collection, and take a moment to read the artist biographies provided.",
+            "el": "Εξερευνήστε αυτήν την εντυπωσιακή δημοτική συλλογή τέχνης και αφιερώστε λίγο χρόνο για να διαβάσετε τις βιογραφίες των καλλιτεχνών που παρέχονται."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Arkhaio Theatro Akharnon",
             "hu": "Arkhaio Theatro Akharnon",
             "ro": "Arkhaio Theatro Akharnon",
-            "en": "Arkhaio Theatro Akharnon"
+            "en": "Arkhaio Theatro Akharnon",
+            "el": "Arkhaio Theatro Akharnon"
           },
           "coords": [
             23.733171,
@@ -105,7 +112,8 @@
             "de": "Spazieren Sie um die Überreste dieses antiken Theaters, das im weichen Mittagslicht am besten fotografiert wird.",
             "hu": "Sétáljon körbe az ókori színház romjai között, amelyeket a lágy déli fényben érdemes leginkább fotózni.",
             "ro": "Plimbați-vă printre ruinele acestui teatru antic, cel mai bine fotografiat în lumina blândă a amiezii.",
-            "en": "Walk around the remains of this ancient theater, best photographed in the soft midday light for sharp contrasts."
+            "en": "Walk around the remains of this ancient theater, best photographed in the soft midday light for sharp contrasts.",
+            "el": "Περπατήστε γύρω από τα ερείπια αυτού του αρχαίου θεάτρου — φωτογραφίζεται καλύτερα στο απαλό μεσημεριανό φως για έντονες αντιθέσεις."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Archeological",
             "hu": "Archeological",
             "ro": "Archeological",
-            "en": "Archeological"
+            "en": "Archeological",
+            "el": "Archeological"
           },
           "coords": [
             23.739693,
@@ -128,7 +137,8 @@
             "de": "Tauchen Sie durch gut erhaltene Artefakte in die antike Vergangenheit ein und fragen Sie den Kurator nach Details.",
             "hu": "Merüljön el a régió ókori múltjában a jól megőrzött leleteken keresztül, és kérdezze a kurátort a részletekről.",
             "ro": "Pătrundeți în trecutul antic al regiunii prin artefacte bine conservate și întrebați custodele despre detalii.",
-            "en": "Delve into the region's ancient past through well-preserved artifacts, and ask the curator for specific find contexts."
+            "en": "Delve into the region's ancient past through well-preserved artifacts, and ask the curator for specific find contexts.",
+            "el": "Βυθιστείτε στο αρχαίο παρελθόν της περιοχής μέσα από καλά διατηρημένα ευρήματα και ρωτήστε τον επιμελητή για συγκεκριμένα συμφραζόμενα των ευρημάτων."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie den Tag in der örtlichen Galerie, bevor Sie das Volkskundemuseum von Acharnes erkunden. Ein kurzer Spaziergang führt zur Kunstgalerie Khrestos Tsebas und zum antiken Theater der Stadt. Der Nachmittag ist der reichen archäologischen Sammlung gewidmet, die tiefe historische Einblicke bietet. Der Abend klingt mit der Reflexion über die vielfältige Kultur und die antiken Schätze von Acharnes aus.",
         "hu": "Kezdje a napot a helyi galériában, mielőtt felfedezné Acharnes gazdag Néprajzi Múzeumát. Egy rövid sétával elérjük a Khrestos Tsebas Képtárat és az ókori színház lenyűgöző romjait. A délutánt a régészeti gyűjtemény megtekintésének szenteljük, amely mély történelmi betekintést nyújt. Az este Acharnes ősi és kulturális történelmének csendes felidézésével zárul.",
         "ro": "Începeți ziua la galeria locală înainte de a explora Muzeul de Artă Populară din Acharnes. O scurtă plimbare vă duce la pinacoteca Khrestos Tsebas și la teatrul antic impresionant. După-amiaza este dedicată colecției arheologice bogate, care oferă perspective istorice profunde. Seara se încheie reflectând asupra istoriei culturale și a comorilor antice ale orașului Acharnes.",
-        "en": "Begin your day at the local gallery before exploring the rich Folk Art Museum of Acharnes. A short walk leads to the Khrestos Tsebas Art Gallery and the impressive ruins of the ancient theater. The afternoon is dedicated to the archaeological collection, offering deep historical insights. The evening winds down by reflecting on the ancient and cultural history of Acharnes."
+        "en": "Begin your day at the local gallery before exploring the rich Folk Art Museum of Acharnes. A short walk leads to the Khrestos Tsebas Art Gallery and the impressive ruins of the ancient theater. The afternoon is dedicated to the archaeological collection, offering deep historical insights. The evening winds down by reflecting on the ancient and cultural history of Acharnes.",
+        "el": "Ξεκινήστε την ημέρα σας στην τοπική γκαλερί πριν εξερευνήσετε το πλούσιο Λαογραφικό Μουσείο των Αχαρνών. Μια σύντομη βόλτα οδηγεί στην Πινακοθήκη Khrestos Tsebas και στα εντυπωσιακά ερείπια του αρχαίου θεάτρου. Το απόγευμα αφιερώνεται στη αρχαιολογική συλλογή που προσφέρει βαθιές ιστορικές γνώσεις. Το βράδυ κλείνει με σκέψεις για την αρχαία και πολιτιστική ιστορία των Αχαρνών."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie den regnerischen Morgen in Galerien, halten Sie den Regenschirm bereit. Mittags tauchen Sie im Trockenen in die Volksgeschichte ein. Erkunden Sie am Nachmittag das antike Theater mit festem, wasserdichtem Schuhwerk im Nieselregen. Beenden Sie den Tag sicher vor den Abendschauern in der archäologischen Ausstellung.",
             "hu": "Kezdje az esős reggelt a helyi galériák felfedezésével, legyen kéznél az esernyő. Délben merüljön el a népművészetben, miközben szárazon marad a múzeumban. Délután vízálló cipőben nézze meg az ókori színház romjait a szitáló esőben. Este a régészeti kiállításon pihenheti ki a napot, menedékben az eső elől.",
             "ro": "Începeți dimineața ploioasă explorând galeriile, având umbrela la îndemână. La prânz, descoperiți istoria locală rămânând la cald și uscat în interior. După-amiaza, vizitați teatrul antic cu încălțăminte impermeabilă. Încheiați ziua explorând minunile arheologice în interior, la adăpost de ploile de seară.",
-            "en": "Start your rainy morning discovering local galleries, keeping an umbrella handy. By noon, dive into the folk history while staying warm and dry indoors. In the afternoon, brave the drizzle at the ancient theater with waterproof shoes. Conclude your day exploring archaeological wonders inside, safely away from the evening showers."
+            "en": "Start your rainy morning discovering local galleries, keeping an umbrella handy. By noon, dive into the folk history while staying warm and dry indoors. In the afternoon, brave the drizzle at the ancient theater with waterproof shoes. Conclude your day exploring archaeological wonders inside, safely away from the evening showers.",
+            "el": "Ξεκινήστε τη βροχερή σας πρωινή με την ανακάλυψη των τοπικών γκαλερί, έχοντας ομπρέλα στο χέρι. Μέχρι το μεσημέρι, βυθιστείτε στην λαογραφική ιστορία παραμένοντας ζεστοί και στεγνοί εσωτερικά. Το απόγευμα, τολμήστε τη ψιχάλα στο αρχαίο θέατρο με αδιάβροχα παπούτσια. Ολοκληρώστε τη μέρα σας εξερευνώντας αρχαιολογικά θαύματα μέσα, μακριά από τις βραδινές μπόρες."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Gallery",
                 "hu": "Gallery",
                 "ro": "Gallery",
-                "en": "Gallery"
+                "en": "Gallery",
+                "el": "Gallery"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die inspirierenden Kunstwerke in dieser gemütlichen Galerie, die einen perfekten, trockenen Rückzugsort vor den Morgenschauern bietet.",
                 "hu": "Csodálja meg a helyi alkotásokat ebben a hangulatos galériában, amely tökéletes és száraz menedéket nyújt a hirtelen jött reggeli záporok elől.",
                 "ro": "Admirați operele de artă în această galerie confortabilă, care oferă un refugiu perfect și uscat împotriva ploilor bruște de dimineață.",
-                "en": "Admire the inspiring local artworks inside this cozy gallery, which offers a perfect, dry retreat from the sudden morning rain showers."
+                "en": "Admire the inspiring local artworks inside this cozy gallery, which offers a perfect, dry retreat from the sudden morning rain showers.",
+                "el": "Θαυμάστε τα εμπνευσμένα τοπικά έργα μέσα σε αυτήν την ζεστή γκαλερί, ιδανικό καταφύγιο από τις ξαφνικές πρωινές μπόρες."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Folk Art Museum of Acharnes",
                 "hu": "Folk Art Museum of Acharnes",
                 "ro": "Folk Art Museum of Acharnes",
-                "en": "Folk Art Museum of Acharnes"
+                "en": "Folk Art Museum of Acharnes",
+                "el": "Folk Art Museum of Acharnes"
               },
               "tip_5lang": {
                 "de": "Entdecken Sie traditionelle griechische Trachten in trockenen Sälen; lassen Sie nasse Schirme im Eingangsbereich, um die Ausstellungsstücke zu schützen.",
                 "hu": "Fedezze fel a hagyományos görög viseleteket a száraz termekben; a vizes esernyőket hagyja a bejáratnál, hogy megóvja a kiállított tárgyakat.",
                 "ro": "Explorați costumele tradiționale grecești în sălile uscate; lăsați umbrelele ude la intrare pentru a proteja exponatele valoroase.",
-                "en": "Explore traditional Greek costumes and crafts in the dry museum halls; leave your wet umbrellas in the entrance area to keep the exhibits safe."
+                "en": "Explore traditional Greek costumes and crafts in the dry museum halls; leave your wet umbrellas in the entrance area to keep the exhibits safe.",
+                "el": "Εξερευνήστε παραδοσιακές ελληνικές ενδυμασίες και χειροτεχνίες στις στεγασμένες αίθουσες του μουσείου — αφήστε τις βρεγμένες ομπρέλες στην είσοδο για να προστατεύσετε τα εκθέματα."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Demotike Pinakotheke \"Khrestos Tsebas\"",
                 "hu": "Demotike Pinakotheke \"Khrestos Tsebas\"",
                 "ro": "Demotike Pinakotheke \"Khrestos Tsebas\"",
-                "en": "Demotike Pinakotheke \"Khrestos Tsebas\""
+                "en": "Demotike Pinakotheke \"Khrestos Tsebas\"",
+                "el": "Demotike Pinakotheke \"Khrestos Tsebas\""
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die atemberaubenden Gemälde von Tsebas an diesem Innenort; die hellen Räume bilden einen tollen Kontrast zum grauen Regenwetter.",
                 "hu": "Tekintse meg Tsebas lenyűgöző festményeit ezen a fedett helyen; a jól megvilágított termek nagyszerű kontrasztot alkotnak a szürke, esős éggel.",
                 "ro": "Admirați picturile uimitoare ale lui Tsebas în acest refugiu interior; camerele luminoase oferă un contrast excelent cu cerul gri și ploios.",
-                "en": "View stunning paintings by Khrestos Tsebas in this indoor haven; the well-lit rooms provide a great contrast to the gray, rainy skies outside."
+                "en": "View stunning paintings by Khrestos Tsebas in this indoor haven; the well-lit rooms provide a great contrast to the gray, rainy skies outside.",
+                "el": "Δείτε εντυπωσιακούς πίνακες του Khrestos Tsebas σε αυτό το εσωτερικό καταφύγιο — οι καλά φωτισμένες αίθουσες προσφέρουν ωραίο αντίστιχο στον γκρίζο, βροχερό ουρανό έξω."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Arkhaio Theatro Akharnon",
                 "hu": "Arkhaio Theatro Akharnon",
                 "ro": "Arkhaio Theatro Akharnon",
-                "en": "Arkhaio Theatro Akharnon"
+                "en": "Arkhaio Theatro Akharnon",
+                "el": "Arkhaio Theatro Akharnon"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Struktur des antiken Theaters, aber seien Sie äußerst vorsichtig, da die alten Steine bei starkem Regen extrem rutschig werden.",
                 "hu": "Csodálja meg az ókori színház megmaradt szerkezetét, de legyen nagyon óvatos, mivel a régi kövek rendkívül csúszóssá válhatnak a heves esőzésben.",
                 "ro": "Minunați-vă de structura teatrului antic, dar fiți extrem de prudenți, deoarece pietrele vechi devin incredibil de alunecoase în timpul ploii.",
-                "en": "Marvel at the ancient theater's remaining structure, but be extremely careful as the old stones can get incredibly slippery during heavy rain."
+                "en": "Marvel at the ancient theater's remaining structure, but be extremely careful as the old stones can get incredibly slippery during heavy rain.",
+                "el": "Θαυμάστε τη διατηρημένη δομή του αρχαίου θεάτρου, αλλά προσέξτε πολύ — οι παλιές πέτρες γίνονται εξαιρετικά ολισθηρές σε σφοδρή βροχή."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Archeological",
                 "hu": "Archeological",
                 "ro": "Archeological",
-                "en": "Archeological"
+                "en": "Archeological",
+                "el": "Archeological"
               },
               "tip_5lang": {
                 "de": "Entdecken Sie antike Artefakte im warmen, geschlossenen Museum, das eine fantastische und lehrreiche Flucht vor dem anhaltenden Nachmittagsregen bietet.",
                 "hu": "Fedezze fel az ősi leleteket a meleg, zárt régészeti múzeumban, amely fantasztikus és tanulságos menedéket kínál a kitartó délutáni eső elől.",
                 "ro": "Descoperiți artefacte antice în muzeul arheologic închis, oferind o evadare fantastică și educativă din calea ploii persistente de după-amiază.",
-                "en": "Discover ancient artifacts in the warm, enclosed archaeological museum, offering a fantastic and educational escape from the persistent afternoon rain."
+                "en": "Discover ancient artifacts in the warm, enclosed archaeological museum, offering a fantastic and educational escape from the persistent afternoon rain.",
+                "el": "Ανακαλύψτε αρχαία ευρήματα στο ζεστό, κλειστό αρχαιολογικό μουσείο — μια φανταστική και εκπαιδευτική απόδραση από τη συνεχή απογευματινή βροχή."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Ziehen Sie sich warm an für einen klaren Wintermorgen in den beheizten Räumen der Galerie. Mittags unternehmen Sie drinnen eine faszinierende Reise durch die Volksgeschichte. Die Nachmittagskälte ist ideal für einen strammen Spaziergang zum antiken Theater. Vor dem frühen Sonnenuntergang um 17:00 Uhr flüchten Sie ins Museum.",
             "hu": "Öltözzön melegen a csípős téli reggelen, és fedezze fel a helyi galéria fűtött termeit. Délben tegyen egy lenyűgöző beltéri utazást a népművészet történelmében. A délutáni hideg kiváló egy frissítő sétához az ókori színház romjaihoz. A 17:00 óra körüli naplemente közeledtével keressen menedéket a régészeti múzeumban.",
             "ro": "Îmbrăcați-vă gros pentru o dimineață de iarnă geroasă explorând interioarele calde ale galeriei. La prânz, faceți o călătorie fascinantă prin istoria locală. Frigul după-amiezii este perfect pentru o plimbare revigorantă la teatrul antic. La apusul de la ora 17:00, căutați refugiu în muzeul arheologic pentru a încheia ziua.",
-            "en": "Bundle up for a crisp winter morning exploring the local gallery's warm interiors. By midday, take a fascinating journey through folk history indoors. The afternoon chill is perfect for a brisk walk to the ancient theater ruins. As sunset approaches around 17:00, seek refuge in the archaeological museum to end your chilly day."
+            "en": "Bundle up for a crisp winter morning exploring the local gallery's warm interiors. By midday, take a fascinating journey through folk history indoors. The afternoon chill is perfect for a brisk walk to the ancient theater ruins. As sunset approaches around 17:00, seek refuge in the archaeological museum to end your chilly day.",
+            "el": "Ντυθείτε ζεστά για ένα δροσερό χειμωνιάτικο πρωί εξερευνώντας τους ζεστούς εσωτερικούς χώρους της τοπικής γκαλερί. Μέχρι το μεσημέρι, κάντε ένα συναρπαστικό ταξίδι στη λαογραφική ιστορία εντός. Το απόγευμα, το τσουχτερό κρύο είναι ιδανικό για έναν ζωηρό περίπατο προς τα ερείπια του αρχαίου θεάτρου. Καθώς πλησιάζει η δύση γύρω στις 17:00, καταφύγετε στο αρχαιολογικό μουσείο για να τελειώσετε την κρύα μέρα σας."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Gallery",
                 "hu": "Gallery",
                 "ro": "Gallery",
-                "en": "Gallery"
+                "en": "Gallery",
+                "el": "Gallery"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Kunst in beheizten Räumen; ein großartiger Ort, um sich die Hände während eines frostigen und kalten Wintermorgenspaziergangs aufzuwärmen.",
                 "hu": "Élvezze a kortárs művészetet a fűtött termekben; nagyszerű hely a kezünk felmelegítésére a fagyos és hideg téli reggeli séta során.",
                 "ro": "Bucurați-vă de arta contemporană în camere bine încălzite; este un loc minunat pentru a vă încălzi mâinile în timpul plimbării reci de iarnă.",
-                "en": "Enjoy the contemporary art in nicely heated rooms; it's a great spot to warm up your hands during a frosty and cold winter morning stroll."
+                "en": "Enjoy the contemporary art in nicely heated rooms; it's a great spot to warm up your hands during a frosty and cold winter morning stroll.",
+                "el": "Απολαύστε τη σύγχρονη τέχνη σε όμορφα θερμαινόμενες αίθουσες — είναι ένα εξαιρετικό σημείο για να ζεστάνετε τα χέρια σας κατά τη διάρκεια ενός παγερού χειμωνιάτικου πρωινού περιπάτου."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Folk Art Museum of Acharnes",
                 "hu": "Folk Art Museum of Acharnes",
                 "ro": "Folk Art Museum of Acharnes",
-                "en": "Folk Art Museum of Acharnes"
+                "en": "Folk Art Museum of Acharnes",
+                "el": "Folk Art Museum of Acharnes"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die schweren Wintertextilien und traditionellen Gewänder, die zeigen, wie sich die Einheimischen früher in der kalten Jahreszeit warm hielten.",
                 "hu": "Csodálja meg a kiállított nehéz téli textíliákat és hagyományos ruhákat, amelyek bemutatják, hogyan védekeztek a helyiek régen a hideg ellen.",
                 "ro": "Admirați textilele grele de iarnă și hainele tradiționale, care evidențiază modul în care localnicii se încălzeau istoric în sezonul rece.",
-                "en": "Admire the heavy winter textiles and traditional garments on display, which highlight how locals historically kept warm during the cold season."
+                "en": "Admire the heavy winter textiles and traditional garments on display, which highlight how locals historically kept warm during the cold season.",
+                "el": "Θαυμάστε τα βαριά χειμωνιάτικα υφάσματα και τα παραδοσιακά ενδύματα στην έκθεση, που αναδεικνύουν πώς οι ντόπιοι κρατιούνταν ζεστοί παλιότερα."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Demotike Pinakotheke \"Khrestos Tsebas\"",
                 "hu": "Demotike Pinakotheke \"Khrestos Tsebas\"",
                 "ro": "Demotike Pinakotheke \"Khrestos Tsebas\"",
-                "en": "Demotike Pinakotheke \"Khrestos Tsebas\""
+                "en": "Demotike Pinakotheke \"Khrestos Tsebas\"",
+                "el": "Demotike Pinakotheke \"Khrestos Tsebas\""
               },
               "tip_5lang": {
                 "de": "Verlieren Sie sich in den lebhaften Farben dieser lokalen Meisterwerke; die gemütliche Atmosphäre drinnen gleicht die beißende Winterkälte perfekt aus.",
                 "hu": "Vesszen el a helyi remekművek élénk színeiben; a benti barátságos hangulat tökéletesen ellensúlyozza a kinti metsző téli hideget.",
                 "ro": "Pierdeți-vă în culorile vibrante ale capodoperelor locale; atmosfera confortabilă din interior compensează perfect frigul mușcător al iernii.",
-                "en": "Lose yourself in the vibrant colors of these local masterpieces; the cozy atmosphere inside perfectly offsets the biting winter cold outside."
+                "en": "Lose yourself in the vibrant colors of these local masterpieces; the cozy atmosphere inside perfectly offsets the biting winter cold outside.",
+                "el": "Χαθείτε στα ζωντανά χρώματα αυτών των τοπικών αριστουργημάτων — η ζεστή, φιλόξενη ατμόσφαιρα μέσα αντισταθμίζει τέλεια το δριμύ χειμωνιάτικο κρύο έξω."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Arkhaio Theatro Akharnon",
                 "hu": "Arkhaio Theatro Akharnon",
                 "ro": "Arkhaio Theatro Akharnon",
-                "en": "Arkhaio Theatro Akharnon"
+                "en": "Arkhaio Theatro Akharnon",
+                "el": "Arkhaio Theatro Akharnon"
               },
               "tip_5lang": {
                 "de": "Spazieren Sie durch die antiken Ruinen, während die Nachmittagssonne noch etwas Wärme spendet, aber packen Sie sich gut gegen die frische Winterbrise ein.",
                 "hu": "Sétáljon az ősi romok között, amíg a délutáni nap még ad némi meleget, de öltözzön fel jó vastagon a csípős téli szél ellen.",
                 "ro": "Plimbați-vă printre ruinele antice cât timp soarele de după-amiază mai oferă căldură, dar înfofoliți-vă bine împotriva brizei tăioase de iarnă.",
-                "en": "Walk around the ancient ruins while the afternoon sun still provides some warmth, but bundle up tightly against the brisk winter breeze."
+                "en": "Walk around the ancient ruins while the afternoon sun still provides some warmth, but bundle up tightly against the brisk winter breeze.",
+                "el": "Περπατήστε γύρω από τα αρχαία ερείπια ενώ ο απογευματινός ήλιος προσφέρει λίγη ζεστασιά, αλλά ντυθείτε καλά ενάντια στον ψυχρό χειμωνιάτικο αέρα."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Archeological",
                 "hu": "Archeological",
                 "ro": "Archeological",
-                "en": "Archeological"
+                "en": "Archeological",
+                "el": "Archeological"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die faszinierenden antiken Töpferwaren und Relikte in diesem hellen, warmen Museum, bevor die frühe Winterdunkelheit gegen 17 Uhr hereinbricht.",
                 "hu": "Fedezze fel a lenyűgöző ókori kerámiákat és ereklyéket ebben a jól megvilágított, meleg múzeumban a korai, 17 óra körüli sötétedés előtt.",
                 "ro": "Explorați ceramica și relicvele antice fascinante în acest muzeu cald și bine luminat, înainte de lăsarea timpurie a întunericului de iarnă, în jurul orei 17:00.",
-                "en": "Explore the fascinating ancient pottery and relics in this well-lit, warm museum before the early winter darkness falls around 5 PM."
+                "en": "Explore the fascinating ancient pottery and relics in this well-lit, warm museum before the early winter darkness falls around 5 PM.",
+                "el": "Εξερευνήστε την ενδιαφέρουσα αρχαία κεραμική και τα κειμήλια σε αυτό το καλά φωτισμένο, ζεστό μουσείο προτού σκοτεινιάσει νωρίς γύρω στις 17:00."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Mikes Theodorakes",
             "hu": "Mikes Theodorakes",
             "ro": "Mikes Theodorakes",
-            "en": "Mikes Theodorakes"
+            "en": "Mikes Theodorakes",
+            "el": "Mikes Theodorakes"
           },
           "coords": [
             23.723783,
@@ -329,7 +363,8 @@
             "de": "Beschäftigen Sie sich mit den kulturellen Exponaten zum lokalen Erbe und achten Sie auf interaktive Displays.",
             "hu": "Ismerkedjen meg a helyi örökségnek szentelt kulturális kiállításokkal, és keresse az interaktív kijelzőket.",
             "ro": "Interacționați cu exponatele culturale dedicate moștenirii locale și căutați afișajele multimedia interactive.",
-            "en": "Engage with the cultural exhibits dedicated to local heritage, and look for the interactive multimedia displays."
+            "en": "Engage with the cultural exhibits dedicated to local heritage, and look for the interactive multimedia displays.",
+            "el": "Εμπλακείτε με τις πολιτιστικές εκθέσεις αφιερωμένες στην τοπική κληρονομιά και αναζητήστε τις διαδραστικές πολυμεσικές παρουσιάσεις."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Arkhaio Theatro Akharnon",
             "hu": "Arkhaio Theatro Akharnon",
             "ro": "Arkhaio Theatro Akharnon",
-            "en": "Arkhaio Theatro Akharnon"
+            "en": "Arkhaio Theatro Akharnon",
+            "el": "Arkhaio Theatro Akharnon"
           },
           "coords": [
             23.733171,
@@ -352,7 +388,8 @@
             "de": "Spazieren Sie um die Überreste dieses antiken Theaters, das im weichen Mittagslicht am besten fotografiert wird.",
             "hu": "Sétáljon körbe az ókori színház romjai között, amelyeket a lágy déli fényben érdemes leginkább fotózni.",
             "ro": "Plimbați-vă printre ruinele acestui teatru antic, cel mai bine fotografiat în lumina blândă a amiezii.",
-            "en": "Walk around the remains of this ancient theater, best photographed in the soft midday light for sharp contrasts."
+            "en": "Walk around the remains of this ancient theater, best photographed in the soft midday light for sharp contrasts.",
+            "el": "Περπατήστε γύρω από τα ερείπια αυτού του αρχαίου θεάτρου — φωτογραφίζεται καλύτερα στο απαλό μεσημεριανό φως για έντονες αντιθέσεις."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Demotike Pinakotheke \"Khrestos Tsebas\"",
             "hu": "Demotike Pinakotheke \"Khrestos Tsebas\"",
             "ro": "Demotike Pinakotheke \"Khrestos Tsebas\"",
-            "en": "Demotike Pinakotheke \"Khrestos Tsebas\""
+            "en": "Demotike Pinakotheke \"Khrestos Tsebas\"",
+            "el": "Demotike Pinakotheke \"Khrestos Tsebas\""
           },
           "coords": [
             23.734382,
@@ -375,7 +413,8 @@
             "de": "Erkunden Sie diese städtische Kunstsammlung und nehmen Sie sich Zeit, die Biografien der Künstler zu lesen.",
             "hu": "Fedezze fel ezt a lenyűgöző városi művészeti gyűjteményt, és szánjon időt a művészek életrajzainak elolvasására.",
             "ro": "Explorați această impresionantă colecție de artă municipală și luați-vă un moment pentru a citi biografiile artiștilor.",
-            "en": "Explore this impressive municipal art collection, and take a moment to read the artist biographies provided."
+            "en": "Explore this impressive municipal art collection, and take a moment to read the artist biographies provided.",
+            "el": "Εξερευνήστε αυτήν την εντυπωσιακή δημοτική συλλογή τέχνης και αφιερώστε λίγο χρόνο για να διαβάσετε τις βιογραφίες των καλλιτεχνών που παρέχονται."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Folk Art Museum of Acharnes",
             "hu": "Folk Art Museum of Acharnes",
             "ro": "Folk Art Museum of Acharnes",
-            "en": "Folk Art Museum of Acharnes"
+            "en": "Folk Art Museum of Acharnes",
+            "el": "Folk Art Museum of Acharnes"
           },
           "coords": [
             23.735495,
@@ -398,7 +438,8 @@
             "de": "Entdecken Sie traditionelle griechische Trachten und achten Sie besonders auf die kunstvollen Stickereien.",
             "hu": "Fedezze fel a hagyományos görög viseleteket, különös figyelmet fordítva a bonyolult hímzésekre.",
             "ro": "Descoperiți costumele tradiționale grecești și acordați o atenție deosebită broderiilor complicate expuse.",
-            "en": "Discover traditional Greek costumes and artifacts, paying special attention to the intricate embroidery displays."
+            "en": "Discover traditional Greek costumes and artifacts, paying special attention to the intricate embroidery displays.",
+            "el": "Ανακαλύψτε παραδοσιακές ελληνικές ενδυμασίες και αντικείμενα, δίνοντας προσοχή στις περίτεχνες κεντητές εκθέσεις."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Archeological",
             "hu": "Archeological",
             "ro": "Archeological",
-            "en": "Archeological"
+            "en": "Archeological",
+            "el": "Archeological"
           },
           "coords": [
             23.739693,
@@ -421,7 +463,8 @@
             "de": "Tauchen Sie durch gut erhaltene Artefakte in die antike Vergangenheit ein und fragen Sie den Kurator nach Details.",
             "hu": "Merüljön el a régió ókori múltjában a jól megőrzött leleteken keresztül, és kérdezze a kurátort a részletekről.",
             "ro": "Pătrundeți în trecutul antic al regiunii prin artefacte bine conservate și întrebați custodele despre detalii.",
-            "en": "Delve into the region's ancient past through well-preserved artifacts, and ask the curator for specific find contexts."
+            "en": "Delve into the region's ancient past through well-preserved artifacts, and ask the curator for specific find contexts.",
+            "el": "Βυθιστείτε στο αρχαίο παρελθόν της περιοχής μέσα από καλά διατηρημένα ευρήματα και ρωτήστε τον επιμελητή για συγκεκριμένα συμφραζόμενα των ευρημάτων."
           }
         }
       ],
@@ -429,7 +472,8 @@
         "de": "Beginnen Sie bei den kulturellen Schätzen von Mikes Theodorakes in Acharnes. Radeln Sie zügig zum antiken Theater und anschließend zur Kunstgalerie Khrestos Tsebas. Der Nachmittag ist für das Volkskundemuseum und die beeindruckenden archäologischen Ausstellungen reserviert. Nach einer Radtour durch die Stadt bietet der Abend Zeit, die historischen Eindrücke wirken zu lassen.",
         "hu": "Kezdje a napot Mikes Theodorakes kulturális kincseivel Acharnes városában. Kerekezzen el az ókori színházhoz, majd látogasson el a Khrestos Tsebas Képtárba. A délutánt a Néprajzi Múzeumnak és a lenyűgöző régészeti kiállításoknak szenteljük. A városi kerékpározás után az este lehetőséget ad a történelmi benyomások feldolgozására.",
         "ro": "Începeți ziua la comorile culturale ale lui Mikes Theodorakes din Acharnes. Mergeți cu bicicleta până la teatrul antic și apoi vizitați pinacoteca Khrestos Tsebas. După-amiaza este rezervată Muzeului de Artă Populară și expozițiilor arheologice impresionante. După o plimbare cu bicicleta, seara vă oferă timp să reflectați asupra impresiilor istorice.",
-        "en": "Start your day exploring the cultural treasures of Mikes Theodorakes in Acharnes. Cycle to the ancient theater and then visit the Khrestos Tsebas Art Gallery. The afternoon is reserved for the Folk Art Museum and the impressive archaeological exhibitions. After cycling through the city, the evening offers time to reflect on the historical impressions."
+        "en": "Start your day exploring the cultural treasures of Mikes Theodorakes in Acharnes. Cycle to the ancient theater and then visit the Khrestos Tsebas Art Gallery. The afternoon is reserved for the Folk Art Museum and the impressive archaeological exhibitions. After cycling through the city, the evening offers time to reflect on the historical impressions.",
+        "el": "Ξεκινήστε την ημέρα σας εξερευνώντας τους πολιτιστικούς θησαυρούς του Mikes Theodorakes στις Αχαρνές. Ποδηλατήστε προς το αρχαίο θέατρο και μετά επισκεφθείτε την Πινακοθήκη Khrestos Tsebas. Το απόγευμα αφιερώνεται στο Λαογραφικό Μουσείο και στις εντυπωσιακές αρχαιολογικές εκθέσεις. Μετά από μια βόλτα με το ποδήλατο στην πόλη, το βράδυ προσφέρει χρόνο για να αναστοχαστείτε τις ιστορικές εντυπώσεις."
       },
       "variants": {
         "rainy": {
@@ -437,7 +481,8 @@
             "de": "Beginnen Sie Ihre regnerische Radtour mit Regenjacke am Kulturzentrum. Navigieren Sie mittags vorsichtig auf rutschigen Straßen zum antiken Theater. Entfliehen Sie nachmittags dem Platzregen in den Museen. Fahren Sie zurück, bevor die Abendschauer stärker werden, und stellen Sie das Fahrrad trocken unter.",
             "hu": "Kezdje az esős kerékpározást vízálló kabátban a kulturális központnál. Délben óvatosan haladjon a csúszós utcákon az ókori színházhoz. Délután meneküljön be a helyi múzeumokba és galériákba a felhőszakadás elől. Tekerjen vissza, mielőtt az esti esőzések felerősödnének, és tegye le a bringát egy száraz helyen.",
             "ro": "Începeți plimbarea ploioasă cu bicicleta purtând o jachetă impermeabilă la centrul cultural. La prânz, navigați cu grijă pe străzile alunecoase spre teatrul antic. După-amiaza, scăpați de ploaia torențială în muzeele și galeriile locale. Întoarceți-vă înainte ca ploile de seară să se întețească, la adăpost.",
-            "en": "Start your rainy morning bike ride with a waterproof jacket at the cultural center. By noon, carefully navigate the slippery streets to the ancient theater. In the afternoon, escape the downpour in the local museums and galleries. Cycle back before the evening showers intensify, storing your bike in a dry, covered spot."
+            "en": "Start your rainy morning bike ride with a waterproof jacket at the cultural center. By noon, carefully navigate the slippery streets to the ancient theater. In the afternoon, escape the downpour in the local museums and galleries. Cycle back before the evening showers intensify, storing your bike in a dry, covered spot.",
+            "el": "Ξεκινήστε τη βροχερή πρωινή σας ποδηλασία με αδιάβροχο στο πολιτιστικό κέντρο. Μέχρι το μεσημέρι, πλοηγηθείτε προσεκτικά στους γλιστερούς δρόμους προς το αρχαίο θέατρο. Το απόγευμα, ξεφύγετε από την καταρρακτώδη βροχή στα τοπικά μουσεία και γκαλερί. Επιστρέψτε ποδηλατώντας πριν ενταθούν οι βραδινές μπόρες και φυλάξτε το ποδήλατο σε στεγασμένο, καλυμμένο σημείο."
           },
           "stops": [
             {
@@ -445,13 +490,15 @@
                 "de": "Mikes Theodorakes",
                 "hu": "Mikes Theodorakes",
                 "ro": "Mikes Theodorakes",
-                "en": "Mikes Theodorakes"
+                "en": "Mikes Theodorakes",
+                "el": "Mikes Theodorakes"
               },
               "tip_5lang": {
                 "de": "Lernen Sie die lokale Musikgeschichte an diesem geschützten Ort kennen; schließen Sie Ihr Rad unter einem Vordach ab, damit der Sattel trocken bleibt.",
                 "hu": "Ismerje meg a helyi zene történetét ezen a védett helyen; zárja le a kerékpárt egy ponyva alatt, hogy az ülés viszonylag száraz maradjon.",
                 "ro": "Aflați despre istoria muzicii locale în acest loc adăpostit; asigurați-vă că bicicleta este încuiată sub o copertină pentru a menține șaua uscată.",
-                "en": "Learn about local music history in this sheltered venue; make sure your bike is securely locked under an awning to keep the seat reasonably dry."
+                "en": "Learn about local music history in this sheltered venue; make sure your bike is securely locked under an awning to keep the seat reasonably dry.",
+                "el": "Μάθετε για την τοπική μουσική ιστορία σε αυτόν τον στεγασμένο χώρο — βεβαιωθείτε ότι το ποδήλατό σας είναι δεμένο με ασφάλεια κάτω από ένα στέγαστρο για να διατηρηθεί η σέλα σχετικά στεγνή."
               }
             },
             {
@@ -459,13 +506,15 @@
                 "de": "Arkhaio Theatro Akharnon",
                 "hu": "Arkhaio Theatro Akharnon",
                 "ro": "Arkhaio Theatro Akharnon",
-                "en": "Arkhaio Theatro Akharnon"
+                "en": "Arkhaio Theatro Akharnon",
+                "el": "Αρχαίο Θέατρο Αχαρνών"
               },
               "tip_5lang": {
                 "de": "Das historische Theater ist im Freien; tragen Sie einen guten Regenmantel und vermeiden Sie starkes Bremsen auf den nassen, matschigen Wegen zu den Ruinen.",
                 "hu": "A történelmi színház a szabadban van, viseljen jó esőkabátot, és kerülje a hirtelen fékezést a romokhoz vezető nedves, saras ösvényeken.",
                 "ro": "Teatrul istoric este în aer liber, purtați o haină de ploaie solidă și evitați frânarea bruscă pe traseele umede și noroioase care duc spre ruine.",
-                "en": "The historical theater is outdoors, so wear a solid raincoat and avoid braking sharply on the wet, muddy trails leading to the ancient ruins."
+                "en": "The historical theater is outdoors, so wear a solid raincoat and avoid braking sharply on the wet, muddy trails leading to the ancient ruins.",
+                "el": "Το ιστορικό θέατρο είναι υπαίθριο, γιʼ αυτό φορέστε ανθεκτικό αδιάβροχο και αποφύγετε απότομα φρεναρίσματα στα λασπωμένα μονοπάτια που οδηγούν στα αρχαία ερείπια."
               }
             },
             {
@@ -473,13 +522,15 @@
                 "de": "Demotike Pinakotheke \"Khrestos Tsebas\"",
                 "hu": "Demotike Pinakotheke \"Khrestos Tsebas\"",
                 "ro": "Demotike Pinakotheke \"Khrestos Tsebas\"",
-                "en": "Demotike Pinakotheke \"Khrestos Tsebas\""
+                "en": "Demotike Pinakotheke \"Khrestos Tsebas\"",
+                "el": "Δημοτική Πινακοθήκη «Χρήστος Τσέβας»"
               },
               "tip_5lang": {
                 "de": "Treten Sie ein, bewundern Sie die Gemälde und trocknen Sie sich ab; diese Galerie bietet hervorragenden Schutz für durchnässte Radfahrer.",
                 "hu": "Lépjen be, csodálja meg a festményeket és száradjon meg; ez a barátságos galéria kiváló menedéket nyújt az elázott és fáradt kerékpárosoknak.",
                 "ro": "Pășiți înăuntru pentru a admira picturile și a vă usca; această galerie primitoare oferă un refugiu excelent pentru bicicliștii uzi și obosiți.",
-                "en": "Step inside to admire the beautiful paintings and dry off; this cozy gallery provides excellent refuge for drenched and tired cyclists."
+                "en": "Step inside to admire the beautiful paintings and dry off; this cozy gallery provides excellent refuge for drenched and tired cyclists.",
+                "el": "Μπείτε μέσα για να θαυμάσετε τους όμορφους πίνακες και να στεγνώσετε· αυτή η ζεστή γκαλερί προσφέρει εξαιρετικό καταφύγιο για μουλιασμένους και κουρασμένους ποδηλάτες."
               }
             },
             {
@@ -487,13 +538,15 @@
                 "de": "Folk Art Museum of Acharnes",
                 "hu": "Folk Art Museum of Acharnes",
                 "ro": "Folk Art Museum of Acharnes",
-                "en": "Folk Art Museum of Acharnes"
+                "en": "Folk Art Museum of Acharnes",
+                "el": "Μουσείο Λαϊκής Τέχνης Αχαρνών"
               },
               "tip_5lang": {
                 "de": "Entdecken Sie die reiche Folklore der Region in den warmen Museumssälen, ein perfekter Ort, um die vorübergehenden starken Regenschauer abzuwarten.",
                 "hu": "Fedezze fel a régió gazdag folklórját a meleg múzeumi termekben, ami tökéletes hely a múló heves esőzések kivárására.",
                 "ro": "Descoperiți folclorul bogat al regiunii în sălile calde ale muzeului, un loc perfect pentru a aștepta trecerea averselor puternice de ploaie.",
-                "en": "Discover the region's rich folklore inside the warm museum halls, a perfect spot to wait out the passing heavy rain showers."
+                "en": "Discover the region's rich folklore inside the warm museum halls, a perfect spot to wait out the passing heavy rain showers.",
+                "el": "Ανακαλύψτε τον πλούσιο λαϊκό πολιτισμό της περιοχής μέσα στις ζεστές αίθουσες του μουσείου, ιδανικό μέρος για να περιμένετε τις έντονες βροχές."
               }
             },
             {
@@ -501,13 +554,15 @@
                 "de": "Archeological",
                 "hu": "Archeological",
                 "ro": "Archeological",
-                "en": "Archeological"
+                "en": "Archeological",
+                "el": "Αρχαιολογικό"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihre Radtour inmitten antiker Artefakte in diesem völlig wasserdichten Museum, bevor Sie im Regen nach Hause radeln.",
                 "hu": "Zárja kulturális kerékpártúráját ókori leletek között ebben a teljesen vízálló múzeumban, mielőtt az esőben hazatekerne.",
                 "ro": "Încheiați-vă turul cultural cu bicicleta înconjurați de artefacte antice în acest muzeu complet impermeabil, înainte de a pedala spre casă în ploaie.",
-                "en": "End your cultural cycling tour surrounded by ancient artifacts in this completely waterproof museum before biking home in the rain."
+                "en": "End your cultural cycling tour surrounded by ancient artifacts in this completely waterproof museum before biking home in the rain.",
+                "el": "Ολοκληρώστε την πολιτιστική σας ποδηλατική περιήγηση περιτριγυρισμένοι από αρχαία κειμήλια σε αυτό το εντελώς στεγανό μουσείο πριν γυρίσετε σπίτι ποδηλατώντας στη βροχή."
               }
             }
           ]
@@ -517,7 +572,8 @@
             "de": "Radeln Sie an einem frischen Wintermorgen warm eingepackt zum Kulturzentrum. Mittags bringt eine flotte Fahrt zum antiken Theater den Kreislauf in Schwung. Erkunden Sie nachmittags die Museen, um dem kalten Wind zu entfliehen. Beenden Sie die Tour vor dem frühen Sonnenuntergang um 17:00 Uhr, bevor es zu dunkel wird.",
             "hu": "Tekerjen a csípős téli reggelen meleg rétegekbe öltözve a kulturális központhoz. Délben az ókori színházhoz vezető élénk utazás felpezsdíti a vérét. Délután fedezze fel a múzeumokat, hogy elmeneküljön a metsző hideg szél elől. Fejezze be az útvonalat a korai, 17:00 órai naplemente előtt, amíg nem lesz túl sötét és fagyos.",
             "ro": "Pedalați în dimineața rece de iarnă, înfofoliți în straturi calde pentru a vizita centrul cultural. La prânz, cursa spre teatrul antic vă ține sângele în mișcare. După-amiaza, explorați muzeele pentru a scăpa de vântul înghețat. Terminați traseul înainte ca apusul timpuriu de la ora 17:00 să facă străzile întunecate și geroase.",
-            "en": "Pedal through the brisk winter morning, wrapped in warm layers to visit the local cultural center. By noon, a brisk ride to the ancient theater keeps your blood pumping. In the afternoon, explore the museums to escape the biting cold wind. Finish your bike route before the early 17:00 sunset makes the streets too dark and frosty."
+            "en": "Pedal through the brisk winter morning, wrapped in warm layers to visit the local cultural center. By noon, a brisk ride to the ancient theater keeps your blood pumping. In the afternoon, explore the museums to escape the biting cold wind. Finish your bike route before the early 17:00 sunset makes the streets too dark and frosty.",
+            "el": "Ποδηλατήστε μέσα στο δροσερό πρωινό του χειμώνα, τυλιγμένοι με ζεστά στρώματα ρούχων για να επισκεφθείτε το τοπικό πολιτιστικό κέντρο. Μέχρι το μεσημέρι, ένα ζωηρό πετάλι προς το αρχαίο θέατρο κρατά την κυκλοφορία αίματος. Το απόγευμα, εξερευνήστε τα μουσεία για να γλιτώσετε τον τσουχτερό κρύο άνεμο. Ολοκληρώστε τη διαδρομή πριν από το πρώτο ηλιοβασίλεμα στις 17:00 που κάνει τους δρόμους πολύ σκοτεινούς και παγωμένους."
           },
           "stops": [
             {
@@ -525,13 +581,15 @@
                 "de": "Mikes Theodorakes",
                 "hu": "Mikes Theodorakes",
                 "ro": "Mikes Theodorakes",
-                "en": "Mikes Theodorakes"
+                "en": "Mikes Theodorakes",
+                "el": "Μίκης Θεοδωράκης"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie drinnen Ihre frierenden Finger auf und lernen Sie mehr über das Leben und das musikalische Erbe des berühmten Komponisten in Griechenland.",
                 "hu": "Melegítse fel fagyos ujjait a zárt térben, miközben megismeri az ünnepelt zeneszerző életét és maradandó görögországi zenei örökségét.",
                 "ro": "Încălziți-vă degetele înghețate în interior, în timp ce aflați despre viața și moștenirea muzicală durabilă a celebrului compozitor în Grecia.",
-                "en": "Warm up your freezing fingers indoors while learning about the celebrated composer's life and his enduring musical legacy in Greece."
+                "en": "Warm up your freezing fingers indoors while learning about the celebrated composer's life and his enduring musical legacy in Greece.",
+                "el": "Ζεστάνετε τα παγωμένα δάχτυλα μέσα σε κλειστό χώρο ενώ μαθαίνετε για τη ζωή του διακεκριμένου συνθέτη και την διαρκή μουσική του κληρονομιά στην Ελλάδα."
               }
             },
             {
@@ -539,13 +597,15 @@
                 "de": "Arkhaio Theatro Akharnon",
                 "hu": "Arkhaio Theatro Akharnon",
                 "ro": "Arkhaio Theatro Akharnon",
-                "en": "Arkhaio Theatro Akharnon"
+                "en": "Arkhaio Theatro Akharnon",
+                "el": "Αρχαίο Θέατρο Αχαρνών"
               },
               "tip_5lang": {
                 "de": "Die Winterluft ist hier scharf; tragen Sie eine dicke, winddichte Radjacke und Handschuhe, um die antiken Amphitheater-Ruinen im Freien zu genießen.",
                 "hu": "A téli levegő itt nagyon éles; viseljen vastag, szélálló kerékpáros kabátot és kesztyűt, hogy kényelmesen élvezhesse az ókori amfiteátrum romjait.",
                 "ro": "Aerul de iarnă este tăios aici; purtați o jachetă de ciclism groasă și mănuși pentru a vă bucura confortabil de ruinele amfiteatrului antic în aer liber.",
-                "en": "The winter air is sharp here; wear a thick, windproof cycling jacket and gloves to enjoy the outdoor ancient amphitheater ruins comfortably."
+                "en": "The winter air is sharp here; wear a thick, windproof cycling jacket and gloves to enjoy the outdoor ancient amphitheater ruins comfortably.",
+                "el": "Ο χειμερινός αέρας εδώ είναι δεικτικός· φορέστε παχιά, ανεμοπροστατευτική ποδηλατική ζακέτα και γάντια για να απολαύσετε άνετα τα υπαίθρια ερείπια του αρχαίου αμφιθεάτρου."
               }
             },
             {
@@ -553,13 +613,15 @@
                 "de": "Demotike Pinakotheke \"Khrestos Tsebas\"",
                 "hu": "Demotike Pinakotheke \"Khrestos Tsebas\"",
                 "ro": "Demotike Pinakotheke \"Khrestos Tsebas\"",
-                "en": "Demotike Pinakotheke \"Khrestos Tsebas\""
+                "en": "Demotike Pinakotheke \"Khrestos Tsebas\"",
+                "el": "Δημοτική Πινακοθήκη «Χρήστος Τσέβας»"
               },
               "tip_5lang": {
                 "de": "Lassen Sie Ihren schweren Radmantel am Eingang und genießen Sie die lebendige lokale Kunstsammlung in diesen wunderbar beheizten Ausstellungsräumen.",
                 "hu": "Hagyja nehéz kerékpáros kabátját a bejáratnál, és élvezze az élénk helyi művészeti gyűjteményt ezekben a csodálatosan fűtött kiállítótermekben.",
                 "ro": "Lăsați haina grea de ciclism la intrare și bucurați-vă de colecția vibrantă de artă locală în aceste săli de expoziție minunat încălzite.",
-                "en": "Leave your heavy cycling coat at the entrance and enjoy the vibrant local art collection in these wonderfully heated exhibition rooms."
+                "en": "Leave your heavy cycling coat at the entrance and enjoy the vibrant local art collection in these wonderfully heated exhibition rooms.",
+                "el": "Αφήστε το βαρύ ποδηλατικό σας πανωφόρι στην είσοδο και απολαύστε τη ζωντανή συλλογή τοπικής τέχνης σε αυτές τις υπέροχα θερμαινόμενες αίθουσες έκθεσης."
               }
             },
             {
@@ -567,13 +629,15 @@
                 "de": "Folk Art Museum of Acharnes",
                 "hu": "Folk Art Museum of Acharnes",
                 "ro": "Folk Art Museum of Acharnes",
-                "en": "Folk Art Museum of Acharnes"
+                "en": "Folk Art Museum of Acharnes",
+                "el": "Μουσείο Λαϊκής Τέχνης Αχαρνών"
               },
               "tip_5lang": {
                 "de": "Gönnen Sie sich eine Pause vom eisigen Gegenwind; betreten Sie dieses gemütliche Museum, um historische Winterkleidung zu bewundern.",
                 "hu": "Tartson egy jól megérdemelt szünetet a fagyos ellenszélben; lépjen be ebbe a hangulatos múzeumba, és csodálja meg a történelmi téli ruhákat.",
                 "ro": "Luați o pauză binemeritată din calea vântului înghețat, intrând în acest muzeu confortabil pentru a admira îmbrăcămintea istorică de iarnă.",
-                "en": "Take a much-needed break from the freezing headwind by stepping into this cozy museum to admire authentic, historical winter garments."
+                "en": "Take a much-needed break from the freezing headwind by stepping into this cozy museum to admire authentic, historical winter garments.",
+                "el": "Κάντε ένα απαραίτητο διάλειμμα από τον παγωμένο αντίθετο άνεμο μπαίνοντας σε αυτό το ζεστό μουσείο για να θαυμάσετε αυθεντικές, ιστορικές χειμερινές ενδυμασίες."
               }
             },
             {
@@ -581,13 +645,15 @@
                 "de": "Archeological",
                 "hu": "Archeological",
                 "ro": "Archeological",
-                "en": "Archeological"
+                "en": "Archeological",
+                "el": "Αρχαιολογικό"
               },
               "tip_5lang": {
                 "de": "Die Sonne geht im Winter schnell unter; beenden Sie die Fahrt hier, um bei hellem Innenlicht antike Geschichte zu erkunden und sich aufzuwärmen.",
                 "hu": "Télen a nap gyorsan lenyugszik; fejezze be itt az utazást, és fedezze fel az ókori történelmet világos benti fényben, amíg a teste felmelegszik.",
                 "ro": "Soarele apune repede iarna; terminați cursa aici pentru a explora istoria antică sub lumini interioare strălucitoare, în timp ce vă încălziți.",
-                "en": "The sun sets fast in winter; finish your ride here to explore ancient history under bright indoor lights while your body temperature recovers."
+                "en": "The sun sets fast in winter; finish your ride here to explore ancient history under bright indoor lights while your body temperature recovers.",
+                "el": "Ο ήλιος δύει γρήγορα τον χειμώνα· ολοκληρώστε την πορεία σας εδώ για να εξερευνήσετε την αρχαία ιστορία κάτω από έντονο εσωτερικό φωτισμό ενώ το σώμα σας αναρρώνει θερμικά."
               }
             }
           ]
@@ -607,7 +673,8 @@
             "de": "KOLUMBETERIO",
             "hu": "KOLUMBETERIO",
             "ro": "KOLUMBETERIO",
-            "en": "KOLUMBETERIO"
+            "en": "KOLUMBETERIO",
+            "el": "ΚΟΛΥΜΒΗΤΗΡΙΟ"
           },
           "coords": [
             23.709754,
@@ -622,7 +689,8 @@
             "de": "Nutzen Sie die Freizeiteinrichtungen, um den Tag aktiv zu beginnen, und bringen Sie unbedingt Wasser mit.",
             "hu": "Élvezze a szabadidős létesítményeket egy aktív napkezdéshez, és feltétlenül hozzon magával vizet a hidratáláshoz.",
             "ro": "Bucurați-vă de facilitățile de recreere pentru a începe ziua activ și aduceți o sticlă de apă pentru hidratare.",
-            "en": "Enjoy the recreational facilities here to start your day actively, and bring a bottle of water for hydration."
+            "en": "Enjoy the recreational facilities here to start your day actively, and bring a bottle of water for hydration.",
+            "el": "Απολαύστε τις αθλητικές εγκαταστάσεις εδώ για να ξεκινήσετε τη μέρα ενεργά, και φέρτε ένα μπουκάλι νερό για ενυδάτωση."
           }
         },
         {
@@ -630,7 +698,8 @@
             "de": "Mikes Theodorakes",
             "hu": "Mikes Theodorakes",
             "ro": "Mikes Theodorakes",
-            "en": "Mikes Theodorakes"
+            "en": "Mikes Theodorakes",
+            "el": "Μίκης Θεοδωράκης"
           },
           "coords": [
             23.723783,
@@ -645,7 +714,8 @@
             "de": "Beschäftigen Sie sich mit den kulturellen Exponaten zum lokalen Erbe und achten Sie auf interaktive Displays.",
             "hu": "Ismerkedjen meg a helyi örökségnek szentelt kulturális kiállításokkal, és keresse az interaktív kijelzőket.",
             "ro": "Interacționați cu exponatele culturale dedicate moștenirii locale și căutați afișajele multimedia interactive.",
-            "en": "Engage with the cultural exhibits dedicated to local heritage, and look for the interactive multimedia displays."
+            "en": "Engage with the cultural exhibits dedicated to local heritage, and look for the interactive multimedia displays.",
+            "el": "Ασχοληθείτε με τις πολιτιστικές εκθέσεις αφιερωμένες στην τοπική κληρονομιά και αναζητήστε τις διαδραστικές πολυμεσικές παρουσιάσεις."
           }
         },
         {
@@ -653,7 +723,8 @@
             "de": "Arkhaio Theatro Akharnon",
             "hu": "Arkhaio Theatro Akharnon",
             "ro": "Arkhaio Theatro Akharnon",
-            "en": "Arkhaio Theatro Akharnon"
+            "en": "Arkhaio Theatro Akharnon",
+            "el": "Αρχαίο Θέατρο Αχαρνών"
           },
           "coords": [
             23.733171,
@@ -668,7 +739,8 @@
             "de": "Spazieren Sie um die Überreste dieses antiken Theaters, das im weichen Mittagslicht am besten fotografiert wird.",
             "hu": "Sétáljon körbe az ókori színház romjai között, amelyeket a lágy déli fényben érdemes leginkább fotózni.",
             "ro": "Plimbați-vă printre ruinele acestui teatru antic, cel mai bine fotografiat în lumina blândă a amiezii.",
-            "en": "Walk around the remains of this ancient theater, best photographed in the soft midday light for sharp contrasts."
+            "en": "Walk around the remains of this ancient theater, best photographed in the soft midday light for sharp contrasts.",
+            "el": "Περπατήστε γύρω από τα κατάλοιπα αυτού του αρχαίου θεάτρου, καλύτερα φωτογραφίζεται στο απαλό μεσημεριανό φως για έντονη αντίθεση."
           }
         },
         {
@@ -676,7 +748,8 @@
             "de": "Folk Art Museum of Acharnes",
             "hu": "Folk Art Museum of Acharnes",
             "ro": "Folk Art Museum of Acharnes",
-            "en": "Folk Art Museum of Acharnes"
+            "en": "Folk Art Museum of Acharnes",
+            "el": "Μουσείο Λαϊκής Τέχνης Αχαρνών"
           },
           "coords": [
             23.735495,
@@ -691,7 +764,8 @@
             "de": "Entdecken Sie traditionelle griechische Trachten und achten Sie besonders auf die kunstvollen Stickereien.",
             "hu": "Fedezze fel a hagyományos görög viseleteket, különös figyelmet fordítva a bonyolult hímzésekre.",
             "ro": "Descoperiți costumele tradiționale grecești și acordați o atenție deosebită broderiilor complicate expuse.",
-            "en": "Discover traditional Greek costumes and artifacts, paying special attention to the intricate embroidery displays."
+            "en": "Discover traditional Greek costumes and artifacts, paying special attention to the intricate embroidery displays.",
+            "el": "Ανακαλύψτε παραδοσιακές ελληνικές ενδυμασίες και κειμήλια, δίνοντας ιδιαίτερη προσοχή στις λεπτομερείς εκθέσεις κεντήματος."
           }
         },
         {
@@ -699,7 +773,8 @@
             "de": "Archeological",
             "hu": "Archeological",
             "ro": "Archeological",
-            "en": "Archeological"
+            "en": "Archeological",
+            "el": "Αρχαιολογικό"
           },
           "coords": [
             23.739693,
@@ -714,7 +789,8 @@
             "de": "Tauchen Sie durch gut erhaltene Artefakte in die antike Vergangenheit ein und fragen Sie den Kurator nach Details.",
             "hu": "Merüljön el a régió ókori múltjában a jól megőrzött leleteken keresztül, és kérdezze a kurátort a részletekről.",
             "ro": "Pătrundeți în trecutul antic al regiunii prin artefacte bine conservate și întrebați custodele despre detalii.",
-            "en": "Delve into the region's ancient past through well-preserved artifacts, and ask the curator for specific find contexts."
+            "en": "Delve into the region's ancient past through well-preserved artifacts, and ask the curator for specific find contexts.",
+            "el": "Βυθιστείτε στο αρχαίο παρελθόν της περιοχής μέσω καλοδιατηρημένων αντικειμένων, και ρωτήστε τον επιμελητή για το ιστορικό των ευρημάτων."
           }
         },
         {
@@ -722,7 +798,8 @@
             "de": "Dekelia Hotel",
             "hu": "Dekelia Hotel",
             "ro": "Dekelia Hotel",
-            "en": "Dekelia Hotel"
+            "en": "Dekelia Hotel",
+            "el": "Ξενοδοχείο Δεκέλεια"
           },
           "coords": [
             23.778253,
@@ -737,7 +814,8 @@
             "de": "Beenden Sie Ihre Reise mit Entspannung in diesem eleganten Freizeitbereich, ideal für ein erfrischendes Getränk.",
             "hu": "Zárja utazását pihenéssel ebben az elegáns szabadidős térben, amely tökéletes egy frissítő ital elfogyasztására.",
             "ro": "Încheiați-vă călătoria relaxându-vă în acest spațiu elegant de recreere, perfect pentru a savura o băutură răcoritoare.",
-            "en": "Conclude your journey by relaxing in this elegant recreational space, perfect for grabbing a refreshing drink."
+            "en": "Conclude your journey by relaxing in this elegant recreational space, perfect for grabbing a refreshing drink.",
+            "el": "Ολοκληρώστε το ταξίδι σας χαλαρώνοντας σε αυτόν τον κομψό χώρο αναψυχής, ιδανικό για να απολαύσετε ένα δροσιστικό ποτό."
           }
         }
       ],
@@ -745,7 +823,8 @@
         "de": "Starten Sie entspannt bei den Freizeiteinrichtungen des Kolumbeterio und den kulturellen Ausstellungen bei Mikes Theodorakes. Fahren Sie in das Zentrum von Acharnes, um das antike Theater und das faszinierende Volkskundemuseum zu besuchen. Am Nachmittag tauchen Sie in den archäologischen Museen tief in die antike Geschichte der Region ein. Den Tag lassen Sie am besten mit einem gemütlichen Aufenthalt in der Umgebung des Dekelia Hotels ausklingen.",
         "hu": "Indítsa a napot lazán a Kolumbeterio szabadidős létesítményeiben és Mikes Theodorakes kulturális kiállításain. Vezessen Acharnes központjába, hogy megnézze az ókori színházat és a Néprajzi Múzeumot. Délután merüljön el a régió ókori történelmében a helyi régészeti múzeumban. A napot érdemes a Dekelia Hotel elegáns környezetében, kellemes pihenéssel zárni.",
         "ro": "Începeți relaxat la facilitățile de la Kolumbeterio și la expozițiile culturale de la Mikes Theodorakes. Conduceți în centrul orașului Acharnes pentru a vizita teatrul antic și fascinantul Muzeu de Artă Populară. După-amiaza vă scufundați în istoria antică a regiunii vizitând muzeul arheologic. Încheiați ziua perfect cu un sejur confortabil în zona hotelului Dekelia.",
-        "en": "Start your day relaxed at the recreational facilities of Kolumbeterio and the cultural exhibits at Mikes Theodorakes. Drive into the center of Acharnes to visit the ancient theater and the fascinating Folk Art Museum. In the afternoon, dive deep into the ancient history of the region at the archaeological museum. Finish the day perfectly with a comfortable stay around the elegant Dekelia Hotel."
+        "en": "Start your day relaxed at the recreational facilities of Kolumbeterio and the cultural exhibits at Mikes Theodorakes. Drive into the center of Acharnes to visit the ancient theater and the fascinating Folk Art Museum. In the afternoon, dive deep into the ancient history of the region at the archaeological museum. Finish the day perfectly with a comfortable stay around the elegant Dekelia Hotel.",
+        "el": "Ξεκινήστε την ημέρα σας χαλαρά στις αθλητικές εγκαταστάσεις του Κολυμβητηρίου και στις πολιτιστικές εκθέσεις του Μίκη Θεοδωράκη. Οδηγήστε στο κέντρο των Αχαρνών για να επισκεφθείτε το αρχαίο θέατρο και το συναρπαστικό Μουσείο Λαϊκής Τέχνης. Το απόγευμα, εμβαθύνετε στην αρχαία ιστορία της περιοχής στο αρχαιολογικό μουσείο. Ολοκληρώστε την ημέρα ιδανικά με μια άνετη διαμονή γύρω από το κομψό Ξενοδοχείο Δεκέλεια."
       },
       "variants": {
         "rainy": {
@@ -753,7 +832,8 @@
             "de": "Fahren Sie am regnerischen Morgen bequem zum Hallenfreizeitzentrum. Navigieren Sie mittags vorsichtig über nasse Straßen zu überdachten Kulturstätten. Verbringen Sie den Nachmittag in faszinierenden Museen; halten Sie den Regenschirm für den Weg vom Parkplatz bereit. Entspannen Sie abends im Hotel, während es draußen regnet.",
             "hu": "Autózzon kényelmesen az esős reggelen a fedett rekreációs központba. Délben vezessen óvatosan a vizes utakon a védett kulturális helyszínek felé. A délutánt töltse a lenyűgöző beltéri múzeumok felfedezésével, tartsa kéznél az esernyőt a parkolótól való sétákhoz. Pihenjen a szállodában, miközben kint szakad az esti eső.",
             "ro": "Conduceți confortabil în dimineața ploioasă către centrul de recreere interior. La prânz, navigați cu grijă pe drumurile umede spre siturile culturale adăpostite. Petreceți după-amiaza vizitând muzee interioare fascinante, ținând umbrela aproape pentru plimbările de la parcare. Relaxați-vă la hotel în timp ce ploaia de seară cade.",
-            "en": "Drive comfortably through the rainy morning to the indoor recreational center. By noon, navigate wet roads carefully to visit the sheltered cultural sites. Spend your afternoon hopping between fascinating indoor museums, keeping your umbrella close for short walks from the parking. Relax indoors at the hotel as the evening rain pours down."
+            "en": "Drive comfortably through the rainy morning to the indoor recreational center. By noon, navigate wet roads carefully to visit the sheltered cultural sites. Spend your afternoon hopping between fascinating indoor museums, keeping your umbrella close for short walks from the parking. Relax indoors at the hotel as the evening rain pours down.",
+            "el": "Οδηγήστε άνετα μέσα στο βροχερό πρωινό προς το εσωτερικό αθλητικό κέντρο. Μέχρι το μεσημέρι, πλοηγηθείτε προσεκτικά σε βρεγμένους δρόμους για να επισκεφθείτε τα προστατευμένα πολιτιστικά σημεία. Περάστε το απόγευμα σας πηδώντας ανάμεσα σε συναρπαστικά εσωτερικά μουσεία, κρατώντας την ομπρέλα κοντά για σύντομες βόλτες από το πάρκινγκ. Χαλαρώστε μέσα στο ξενοδοχείο καθώς η βροχή πέφτει τη νύχτα."
           },
           "stops": [
             {
@@ -761,13 +841,15 @@
                 "de": "KOLUMBETERIO",
                 "hu": "KOLUMBETERIO",
                 "ro": "KOLUMBETERIO",
-                "en": "KOLUMBETERIO"
+                "en": "KOLUMBETERIO",
+                "el": "ΚΟΛΥΜΒΗΤΗΡΙΟ"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die beeindruckenden Hallenbäder hier; der perfekte Ort für einen aktiven Morgen, ohne im kalten Regen nass zu werden.",
                 "hu": "Élvezze a lenyűgöző fedett medencéket; tökéletes hely egy aktív reggelhez, anélkül, hogy elázna a kinti hideg esőben.",
                 "ro": "Bucurați-vă de facilitățile impresionante ale piscinei interioare; este locul perfect pentru o dimineață activă, fără a vă uda de ploaia rece.",
-                "en": "Enjoy the impressive indoor pool facilities here; it is the perfect spot for an active morning without getting soaked by the cold outdoor rain."
+                "en": "Enjoy the impressive indoor pool facilities here; it is the perfect spot for an active morning without getting soaked by the cold outdoor rain.",
+                "el": "Απολαύστε τις εντυπωσιακές εσωτερικές πισίνες· είναι το τέλειο σημείο για ένα δραστήριο πρωινό χωρίς να βραχείτε από τη κρύα εξωτερική βροχή."
               }
             },
             {
@@ -775,13 +857,15 @@
                 "de": "Mikes Theodorakes",
                 "hu": "Mikes Theodorakes",
                 "ro": "Mikes Theodorakes",
-                "en": "Mikes Theodorakes"
+                "en": "Mikes Theodorakes",
+                "el": "Μίκης Θεοδωράκης"
               },
               "tip_5lang": {
                 "de": "Parken Sie nah am Eingang und huschen Sie hinein, um das Leben des legendären Komponisten weit weg vom tristen, nassen Wetter zu entdecken.",
                 "hu": "Parkoljon a bejárat közelében, és siessen be, hogy felfedezze a legendás zeneszerző életét, távol a zord, nedves időjárástól.",
                 "ro": "Parcați aproape de intrare și grăbiți-vă înăuntru pentru a descoperi viața legendarului compozitor departe de vremea mohorâtă și umedă.",
-                "en": "Park close to the entrance and dash inside to discover the fascinating life of the legendary composer away from the dreary, wet weather."
+                "en": "Park close to the entrance and dash inside to discover the fascinating life of the legendary composer away from the dreary, wet weather.",
+                "el": "Παρκάρετε κοντά στην είσοδο και μπαίνετε γρήγορα για να ανακαλύψετε τη συναρπαστική ζωή του θρυλικού συνθέτη μακριά από τη βαρετή, υγρή κακοκαιρία."
               }
             },
             {
@@ -789,13 +873,15 @@
                 "de": "Arkhaio Theatro Akharnon",
                 "hu": "Arkhaio Theatro Akharnon",
                 "ro": "Arkhaio Theatro Akharnon",
-                "en": "Arkhaio Theatro Akharnon"
+                "en": "Arkhaio Theatro Akharnon",
+                "el": "Αρχαίο Θέατρο Αχαρνών"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die Ruinen zügig zwischen den Schauern und fahren Sie äußerst vorsichtig auf den matschigen Zufahrtsstraßen rund um das Theater.",
                 "hu": "Tekintse meg a kinti romokat a heves záporok között, és vezessen rendkívül óvatosan az ókori színházat körülvevő saras felhajtó utakon.",
                 "ro": "Vizualizați rapid ruinele exterioare între averse și conduceți extrem de atent pe drumurile de acces noroioase care înconjoară teatrul antic.",
-                "en": "View the outdoor ruins quickly between heavy showers, and drive extremely carefully on the muddy access roads surrounding the ancient theater."
+                "en": "View the outdoor ruins quickly between heavy showers, and drive extremely carefully on the muddy access roads surrounding the ancient theater.",
+                "el": "Δείτε γρήγορα τα υπαίθρια ερείπια ανάμεσα σε σφοδρές μπόρες και οδηγήστε εξαιρετικά προσεκτικά στους λασπωμένους δρόμους πρόσβασης γύρω από το αρχαίο θέατρο."
               }
             },
             {
@@ -803,13 +889,15 @@
                 "de": "Folk Art Museum of Acharnes",
                 "hu": "Folk Art Museum of Acharnes",
                 "ro": "Folk Art Museum of Acharnes",
-                "en": "Folk Art Museum of Acharnes"
+                "en": "Folk Art Museum of Acharnes",
+                "el": "Μουσείο Λαϊκής Τέχνης Αχαρνών"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den nahegelegenen Parkplatz, um den Fußweg im Regen zu verkürzen, und betreten Sie das trockene Museum für griechisches Erbe.",
                 "hu": "Használja a közeli parkolót, hogy minimalizálja az esőben tett sétát, és lépjen be a száraz múzeumba megcsodálni a hagyományos görög örökséget.",
                 "ro": "Folosiți parcarea din apropiere pentru a minimiza mersul prin ploaie și intrați în muzeul cald pentru a admira moștenirea tradițională grecească.",
-                "en": "Use the nearby parking to minimize your walk in the rain, and step into the warm, dry museum to admire traditional Greek heritage items."
+                "en": "Use the nearby parking to minimize your walk in the rain, and step into the warm, dry museum to admire traditional Greek heritage items.",
+                "el": "Χρησιμοποιήστε το κοντινό πάρκινγκ για να ελαχιστοποιήσετε το περπάτημα στη βροχή και μπείτε στο ζεστό, στεγνό μουσείο για να θαυμάσετε παραδοσιακά ελληνικά κειμήλια."
               }
             },
             {
@@ -817,13 +905,15 @@
                 "de": "Archeological",
                 "hu": "Archeological",
                 "ro": "Archeological",
-                "en": "Archeological"
+                "en": "Archeological",
+                "el": "Αρχαιολογικό"
               },
               "tip_5lang": {
                 "de": "Dieses riesige Innenmuseum bietet hervorragenden Schutz vor dem nachmittäglichen Platzregen, während Sie antike Artefakte erkunden.",
                 "hu": "Ez a hatalmas beltéri múzeum kiváló menedéket nyújt a könyörtelen délutáni felhőszakadás elől, miközben az ókori, gyönyörű leleteket kutatja.",
                 "ro": "Acest vast muzeu interior oferă un refugiu excelent de ploaia torențială de după-amiază, în timp ce explorați artefacte antice frumos conservate.",
-                "en": "This vast indoor museum offers excellent refuge from the relentless afternoon downpour while you explore ancient, beautifully preserved artifacts."
+                "en": "This vast indoor museum offers excellent refuge from the relentless afternoon downpour while you explore ancient, beautifully preserved artifacts.",
+                "el": "Αυτό το μεγάλο εσωτερικό μουσείο προσφέρει εξαιρετικό καταφύγιο από την αδιάλειπτη απογευματινή μπόρα ενώ εξερευνάτε αρχαία, όμορφα διατηρημένα αντικείμενα."
               }
             },
             {
@@ -831,13 +921,15 @@
                 "de": "Dekelia Hotel",
                 "hu": "Dekelia Hotel",
                 "ro": "Dekelia Hotel",
-                "en": "Dekelia Hotel"
+                "en": "Dekelia Hotel",
+                "el": "Ξενοδοχείο Δεκέλεια"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihre regnerische Fahrt in diesem gemütlichen Hotel, wo Sie das stürmische Wetter bequem von der Lounge aus beobachten können.",
                 "hu": "Fejezze be esős útját ebben a hangulatos szállodában, ahol a társalgó kényelméből figyelheti a viharos időjárást egy vacsora mellett.",
                 "ro": "Încheiați cursa ploioasă la acest hotel confortabil, unde puteți urmări vremea furtunoasă din confortul salonului.",
-                "en": "End your rainy drive by checking into or dining at this cozy hotel, where you can watch the stormy weather from the comfort of the lounge."
+                "en": "End your rainy drive by checking into or dining at this cozy hotel, where you can watch the stormy weather from the comfort of the lounge.",
+                "el": "Τελειώστε την βροχερή οδήγησή σας κάνοντας check-in ή δειπνώντας σε αυτό το ζεστό ξενοδοχείο, όπου μπορείτε να παρακολουθείτε την καταιγίδα από την άνεση του σαλονιού."
               }
             }
           ]
@@ -847,7 +939,8 @@
             "de": "Beginnen Sie den frostigen Wintermorgen mit einer sicheren Fahrt zum beheizten Sportzentrum. Mittags wärmt Sie die Autoheizung zwischen den kurzen Wegen zu den Kulturstätten. Erkunden Sie nachmittags die hell erleuchteten Museen, um den eisigen Außentemperaturen zu entgehen. Um 17:00 Uhr wird es dunkel; ziehen Sie sich ins warme Hotel zurück.",
             "hu": "Kezdje a fagyos téli reggelt azzal, hogy biztonságosan elvezet a fűtött beltéri sportközpontba. Délben használja az autó fűtését, hogy melegen maradjon a kulturális helyszínek közötti rövid sétákon. Délután fedezze fel a kivilágított múzeumokat, menekülve a fagypont alatti hidegből. 17:00-ra sötét lesz; vonuljon vissza a meleg szállodába pihenni.",
             "ro": "Începeți dimineața geroasă de iarnă conducând în siguranță către centrul sportiv încălzit. La prânz, folosiți încălzirea mașinii pentru a rămâne cald între scurtelor plimbări culturale. După-amiaza, explorați muzeele luminoase pentru a scăpa de temperaturile de îngheț. Până la ora 17:00, este întuneric; retrageți-vă la hotelul cald pentru seară.",
-            "en": "Start your frosty winter morning by driving safely to the indoor heated sports center. By noon, use the car heater to stay toasty between short walks to local cultural sites. In the afternoon, explore the brightly lit museums to escape the freezing outdoor temperatures. By 17:00, it’s dark; retreat to the warm hotel for a cozy and relaxing evening."
+            "en": "Start your frosty winter morning by driving safely to the indoor heated sports center. By noon, use the car heater to stay toasty between short walks to local cultural sites. In the afternoon, explore the brightly lit museums to escape the freezing outdoor temperatures. By 17:00, it’s dark; retreat to the warm hotel for a cozy and relaxing evening.",
+            "el": "Ξεκινήστε το παγωμένο χειμερινό πρωί οδηγώντας προσεκτικά προς το εσωτερικά θερμαινόμενο αθλητικό κέντρο. Μέχρι το μεσημέρι, χρησιμοποιήστε το θερμό αέρα του αυτοκινήτου για να μείνετε ζεστοί μεταξύ σύντομων περιπάτων προς τα τοπικά πολιτιστικά σημεία. Το απόγευμα, εξερευνήστε τα φωτεινά μουσεία για να αποφύγετε τις παγωμένες εξωτερικές θερμοκρασίες. Μέχρι τις 17:00 έχει σκοτεινιάσει· επιστρέψτε στο ζεστό ξενοδοχείο για μια άνετη και χαλαρωτική βραδιά."
           },
           "stops": [
             {
@@ -855,13 +948,15 @@
                 "de": "KOLUMBETERIO",
                 "hu": "KOLUMBETERIO",
                 "ro": "KOLUMBETERIO",
-                "en": "KOLUMBETERIO"
+                "en": "KOLUMBETERIO",
+                "el": "ΚΟΛΥΜΒΗΤΗΡΙΟ"
               },
               "tip_5lang": {
                 "de": "Lassen Sie den dicken Wintermantel im Auto und genießen Sie die angenehm beheizten Hallenbäder, die Ihrem Körper einen warmen Start in den Tag geben.",
                 "hu": "Hagyja a nehéz téli kabátot az autóban, és élvezze a kellemesen fűtött beltéri medencéket, amely meleg és energikus indulást ad a testének.",
                 "ro": "Lăsați haina grea de iarnă în mașină și bucurați-vă de piscinele interioare încălzite, oferind corpului un început de dimineață energic și cald.",
-                "en": "Leave your heavy winter coat in the car and enjoy the pleasantly heated indoor pools, giving your body an energetic and warm morning start."
+                "en": "Leave your heavy winter coat in the car and enjoy the pleasantly heated indoor pools, giving your body an energetic and warm morning start.",
+                "el": "Αφήστε το βαρύ σας χειμωνιάτικο παλτό στο αυτοκίνητο και απολαύστε τις ευχάριστα θερμαινόμενες εσωτερικές πισίνες, δίνοντας στο σώμα σας μια ενεργητική και ζεστή εκκίνηση πρωινού."
               }
             },
             {
@@ -869,13 +964,15 @@
                 "de": "Mikes Theodorakes",
                 "hu": "Mikes Theodorakes",
                 "ro": "Mikes Theodorakes",
-                "en": "Mikes Theodorakes"
+                "en": "Mikes Theodorakes",
+                "el": "Μίκης Θεοδωράκης"
               },
               "tip_5lang": {
                 "de": "Parken Sie möglichst in der Sonne und gehen Sie ins Kulturzentrum, um fernab des eisigen Winterwinds mehr über die griechische Musikgeschichte zu erfahren.",
                 "hu": "Parkoljon napos helyen, ha lehetséges, és menjen be a kulturális központba, hogy a metsző téli széltől távol ismerje meg a görög zene történetét.",
                 "ro": "Parcați într-un loc însorit dacă este posibil și intrați în centrul cultural pentru a afla despre istoria muzicii grecești departe de vântul tăios.",
-                "en": "Park in a sunlit spot if possible, and head inside the cultural center to learn about Greek music history away from the piercing winter wind."
+                "en": "Park in a sunlit spot if possible, and head inside the cultural center to learn about Greek music history away from the piercing winter wind.",
+                "el": "Παρκάρετε σε ηλιόλουστο σημείο αν είναι δυνατό και μπείτε στο πολιτιστικό κέντρο για να μάθετε για την ιστορία της ελληνικής μουσικής μακριά από τον τρυφερό χειμερινό άνεμο."
               }
             },
             {
@@ -883,13 +980,15 @@
                 "de": "Arkhaio Theatro Akharnon",
                 "hu": "Arkhaio Theatro Akharnon",
                 "ro": "Arkhaio Theatro Akharnon",
-                "en": "Arkhaio Theatro Akharnon"
+                "en": "Arkhaio Theatro Akharnon",
+                "el": "Αρχαίο Θέατρο Αχαρνών"
               },
               "tip_5lang": {
                 "de": "Packen Sie sich gut ein, bevor Sie das warme Auto verlassen; die Ruinen des antiken Theaters liegen frei und die Winterkälte kann hier sehr intensiv sein.",
                 "hu": "Öltözzön fel jól, mielőtt kiszáll a meleg autóból; az ókori színház romjai a szabadban vannak, és a téli hideg itt meglehetősen intenzív lehet.",
                 "ro": "Îmbrăcați-vă bine înainte de a ieși din mașina caldă; ruinele teatrului antic sunt expuse, iar frigul de iarnă aici poate fi destul de intens.",
-                "en": "Bundle up well before stepping out of your warm car; the ancient theater ruins are exposed, and the winter chill here can be quite intense."
+                "en": "Bundle up well before stepping out of your warm car; the ancient theater ruins are exposed, and the winter chill here can be quite intense.",
+                "el": "Ντυθείτε καλά πριν κατεβείτε από το ζεστό σας αυτοκίνητο· τα ερείπια του αρχαίου θεάτρου είναι εκτεθειμένα και το χειμερινό ψύχος εδώ μπορεί να είναι αρκετά έντονο."
               }
             },
             {
@@ -897,13 +996,15 @@
                 "de": "Folk Art Museum of Acharnes",
                 "hu": "Folk Art Museum of Acharnes",
                 "ro": "Folk Art Museum of Acharnes",
-                "en": "Folk Art Museum of Acharnes"
+                "en": "Folk Art Museum of Acharnes",
+                "el": "Μουσείο Λαϊκής Τέχνης Αχαρνών"
               },
               "tip_5lang": {
                 "de": "Tauen Sie Ihre Hände im beheizten Museum auf und bewundern Sie die schweren traditionellen Wollgewänder, die früher im griechischen Winter getragen wurden.",
                 "hu": "Engedje fel a kezeit ebben a fűtött múzeumban, miközben megcsodálja a nehéz hagyományos gyapjúruhákat, amelyeket történelmileg a görög teleken viseltek.",
                 "ro": "Dezghețați-vă mâinile în acest muzeu încălzit în timp ce admirați hainele tradiționale grele din lână, purtate istoric în timpul iernilor grecești.",
-                "en": "Thaw out your hands in this cozy, well-heated museum while admiring the heavy traditional woolen garments historically worn during Greek winters."
+                "en": "Thaw out your hands in this cozy, well-heated museum while admiring the heavy traditional woolen garments historically worn during Greek winters.",
+                "el": "Ζεστάνετε τα χέρια σας σε αυτό το ζεστό, καλά θερμαινόμενο μουσείο ενώ θαυμάζετε τα βαριά παραδοσιακά μάλλινα ενδύματα που φορούσαν ιστορικά κατά τους ελληνικούς χειμώνες."
               }
             },
             {
@@ -911,13 +1012,15 @@
                 "de": "Archeological",
                 "hu": "Archeological",
                 "ro": "Archeological",
-                "en": "Archeological"
+                "en": "Archeological",
+                "el": "Αρχαιολογικό"
               },
               "tip_5lang": {
                 "de": "Verbringen Sie den späten Nachmittag drinnen und erkunden Sie antike Keramik; helles Licht und Heizung machen es zum perfekten Stopp vor der Dämmerung.",
                 "hu": "Töltse a késő délutánt az ókori kerámiák felfedezésével; az erős fények és a fűtés tökéletes állomássá teszik a korai téli alkonyat előtt.",
                 "ro": "Petreceți după-amiaza explorând ceramica antică; luminile puternice și încălzirea îl fac o oprire perfectă înainte de amurgul timpuriu de iarnă.",
-                "en": "Spend the late afternoon indoors exploring ancient pottery; the bright lights and heating make it a perfect stop before the early winter dusk."
+                "en": "Spend the late afternoon indoors exploring ancient pottery; the bright lights and heating make it a perfect stop before the early winter dusk.",
+                "el": "Περάστε το αργά απόγευμα μέσα εξερευνώντας αρχαία αγγεία· τα φωτεινά φώτα και η θέρμανση το κάνουν ιδανική στάση πριν το πρώιμο χειμερινό λυκόφως."
               }
             },
             {
@@ -925,13 +1028,15 @@
                 "de": "Dekelia Hotel",
                 "hu": "Dekelia Hotel",
                 "ro": "Dekelia Hotel",
-                "en": "Dekelia Hotel"
+                "en": "Dekelia Hotel",
+                "el": "Ξενοδοχείο Δεκέλεια"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig, da die Straßen nach 17:00 Uhr vereisen können, und machen Sie es sich in diesem eleganten Hotel bei einem heißen Getränk gemütlich.",
                 "hu": "Vezessen óvatosan, mivel 17:00 után az utak lefagyhatnak, és térjen be ebbe az elegáns szállodába egy forró italra és egy pihentető téli estére.",
                 "ro": "Conduceți cu grijă, deoarece drumurile pot îngheța după 17:00, și așezați-vă la acest hotel elegant pentru o băutură caldă și o seară relaxantă de iarnă.",
-                "en": "Drive carefully as roads may ice over after 17:00, and settle into this elegant hotel for a hot beverage and a warm, relaxing winter evening."
+                "en": "Drive carefully as roads may ice over after 17:00, and settle into this elegant hotel for a hot beverage and a warm, relaxing winter evening.",
+                "el": "Οδηγήστε προσεκτικά καθώς οι δρόμοι μπορεί να παγώσουν μετά τις 17:00, και εγκατασταθείτε σε αυτό το κομψό ξενοδοχείο για ένα ζεστό ρόφημα και μια χαλαρωτική χειμερινή βραδιά."
               }
             }
           ]

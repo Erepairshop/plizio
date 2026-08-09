@@ -21,7 +21,8 @@
             "de": "Burg von Serifos",
             "hu": "Serifos vára",
             "ro": "Castelul din Serifos",
-            "en": "Castle of Serifos"
+            "en": "Castle of Serifos",
+            "el": "Καστέλι Σερίφου"
           },
           "coords": [
             24.507166,
@@ -36,7 +37,8 @@
             "de": "Erkunden Sie die Ruinen dieser venezianischen Festung mit Panoramablick über die Ägäis, aber tragen Sie festes Schuhwerk, um die steilen, unebenen Steinwege sicher zu bewältigen.",
             "hu": "Fedezze fel e velencei erőd romjait, amely panorámás kilátást nyújt az Égei-tengerre, de viseljen masszív cipőt a meredek, egyenetlen kőösvények biztonságos bejárásához.",
             "ro": "Explorați ruinele acestei fortărețe venețiene cu vederi panoramice asupra Mării Egee, dar purtați încălțăminte robustă pentru a naviga în siguranță pe cărările abrupte de piatră.",
-            "en": "Explore the ruins of this Venetian fortress with panoramic views over the Aegean, but wear sturdy shoes to safely navigate the steep, uneven stone pathways."
+            "en": "Explore the ruins of this Venetian fortress with panoramic views over the Aegean, but wear sturdy shoes to safely navigate the steep, uneven stone pathways.",
+            "el": "Εξερευνήστε τα ερείπια αυτού του Βενετσιάνικου φρουρίου με πανοραμική θέα στο Αιγαίο, αλλά φορέστε στιβαρά παπούτσια για να διασχίσετε με ασφάλεια τα απότομα, ανώμαλα λιθόστρωτα μονοπάτια."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Serifos Scuba Divers",
             "hu": "Serifos Scuba Divers",
             "ro": "Serifos Scuba Divers",
-            "en": "Serifos Scuba Divers"
+            "en": "Serifos Scuba Divers",
+            "el": "Serifos Scuba Divers"
           },
           "coords": [
             24.514449,
@@ -59,7 +62,8 @@
             "de": "Entdecken Sie die farbenfrohe Unterwasserwelt von Serifos mit erfahrenen Tauchlehrern, aber denken Sie daran, Ihren Tauchgang in den geschäftigen Sommermonaten im Voraus zu buchen.",
             "hu": "Fedezze fel Serifos nyüzsgő víz alatti világát tapasztalt oktatók vezetésével, de ne felejtse el előre lefoglalni a merülést a forgalmas nyári hónapokban.",
             "ro": "Descoperiți lumea subacvatică vibrantă din Serifos ghidați de instructori cu experiență, dar amintiți-vă să rezervați sesiunea de scufundări în avans în lunile aglomerate de vară.",
-            "en": "Discover the vibrant underwater world of Serifos guided by experienced instructors, but remember to book your diving session in advance during the busy summer months."
+            "en": "Discover the vibrant underwater world of Serifos guided by experienced instructors, but remember to book your diving session in advance during the busy summer months.",
+            "el": "Ανακαλύψτε τον ζωηρό υποβρύχιο κόσμο του Σερίφου με έμπειρους εκπαιδευτές, αλλά θυμηθείτε να κλείσετε την κατάδυση εκ των προτέρων κατά τους πολυσύχναστους καλοκαιρινούς μήνες."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Avlomonas",
             "hu": "Avlomonas",
             "ro": "Avlomonas",
-            "en": "Avlomonas"
+            "en": "Avlomonas",
+            "el": "Αυλομόνας"
           },
           "coords": [
             24.518025,
@@ -82,7 +87,8 @@
             "de": "Entspannen Sie sich auf dem goldenen Sand dieses langen, familienfreundlichen Strandes in der Nähe des Hafens und sichern Sie sich frühzeitig eine Sonnenliege mit natürlichem Schatten der Tamarisken.",
             "hu": "Pihenjen a kikötőhöz közeli hosszú, családbarát strand aranyhomokján, és foglaljon korán napágyat, hogy jó helyet biztosítson magának a tamariszkuszfák természetes árnyékában.",
             "ro": "Relaxați-vă pe nisipul auriu al acestei plaje lungi, prietenoase cu familiile, lângă port, și ocupați un șezlong devreme pentru a vă asigura un loc excelent cu umbră naturală de la arborii de tamarix.",
-            "en": "Relax on the golden sands of this long, family-friendly beach near the port, and grab a sunbed early to secure a prime spot with natural shade from the tamarisk trees."
+            "en": "Relax on the golden sands of this long, family-friendly beach near the port, and grab a sunbed early to secure a prime spot with natural shade from the tamarisk trees.",
+            "el": "Χαλαρώστε στην χρυσή άμμο αυτής της μακριάς, οικογενειακής παραλίας κοντά στο λιμάνι και πιάστε ξαπλώστρα νωρίς για να εξασφαλίσετε προνομιακή θέση με φυσική σκιά από τα δεντράκια ταμαρίσκια."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Livadhi-Bucht",
             "hu": "Livadhi-öböl",
             "ro": "Golful Livadhi",
-            "en": "Livadhi Bay"
+            "en": "Livadhi Bay",
+            "el": "Κόλπος Λιβαδιού"
           },
           "coords": [
             24.520485,
@@ -105,7 +112,8 @@
             "de": "Schlendern Sie am malerischen Hafen entlang, der von traditionellen Tavernen und schaukelnden Fischerbooten gesäumt ist, was ihn zum perfekten Ort für ein frisches Meeresfrüchte-Mittagessen am Wasser macht.",
             "hu": "Sétáljon végig a festői kikötő mentén, amelyet hagyományos tavernák és ringatózó halászhajók szegélyeznek, így ez a tökéletes hely egy friss tenger gyümölcsei ebéd elfogyasztásához a vízparton.",
             "ro": "Plimbați-vă de-a lungul portului pitoresc, mărginit de taverne tradiționale și bărci de pescuit legănate, fiind locul perfect pentru a savura un prânz cu fructe de mare proaspete pe malul apei.",
-            "en": "Stroll along the picturesque harbor lined with traditional tavernas and bobbing fishing boats, making it the perfect spot to enjoy a fresh seafood lunch by the water."
+            "en": "Stroll along the picturesque harbor lined with traditional tavernas and bobbing fishing boats, making it the perfect spot to enjoy a fresh seafood lunch by the water.",
+            "el": "Περπατήστε κατά μήκος του γραφικού λιμανιού με παραδοσιακές ταβέρνες και αρμενίζοντας ψαροκάικα, ιδανικό για φρέσκο θαλασσινό γεύμα δίπλα στο νερό."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Livadakia",
             "hu": "Livadakia",
             "ro": "Livadakia",
-            "en": "Livadakia"
+            "en": "Livadakia",
+            "el": "Λιβαδάκια"
           },
           "coords": [
             24.514915,
@@ -128,7 +137,8 @@
             "de": "Genießen Sie das kristallklare Wasser und die lebhafte Atmosphäre dieses beliebten, von Bäumen gesäumten Strandes, an dem Sie Wassersportgeräte für einen aktiven Nachmittag mieten können.",
             "hu": "Élvezze a kristálytiszta vizet és a fával szegélyezett népszerű strand pezsgő hangulatát, ahol vízi sporteszközöket is bérelhet egy aktív délutánhoz a napon.",
             "ro": "Bucurați-vă de apele cristaline și de atmosfera vibrantă a acestei plaje populare mărginite de copaci, de unde puteți închiria echipamente pentru sporturi nautice.",
-            "en": "Enjoy the crystal-clear waters and vibrant atmosphere of this popular tree-fringed beach, where you can rent water sports equipment for an active afternoon in the sun."
+            "en": "Enjoy the crystal-clear waters and vibrant atmosphere of this popular tree-fringed beach, where you can rent water sports equipment for an active afternoon in the sun.",
+            "el": "Απολαύστε τα κρυστάλλινα νερά και τη ζωηρή ατμόσφαιρα αυτής της δημοφιλούς παραλίας με δέντρα, όπου μπορείτε να νοικιάσετε εξοπλισμό θαλάσσιων σπορ για ένα δραστήριο απόγευμα κάτω από τον ήλιο."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Morning: Beginnen Sie Ihren Morgen mit der Erkundung der malerischen Pfade der Chora und der historischen Burg von Serifos. Genießen Sie den atemberaubenden Blick auf die Ägäis, während die Insel erwacht.\nMidday: Steigen Sie in die lebhafte Gegend von Livadhi hinab, halten Sie für ein Taucherlebnis an oder gehen Sie direkt zum Strand von Avlomonas. Genießen Sie das Mittagessen in einer traditionellen Taverne am Meer.\nAfternoon: Verbringen Sie einen entspannten Nachmittag in der Sonne und genießen Sie das warme Wasser der Bucht von Livadhi. Schlendern Sie am Yachthafen entlang und beobachten Sie die bunten Fischerboote.\nEvening: Beenden Sie Ihren Tag am lebhaften Strand von Livadakia. Genießen Sie den Sonnenuntergang, der goldene Farbtöne über das Wasser wirft, und entspannen Sie sich in einer gemütlichen Strandbar bei einem Getränk.",
         "hu": "Morning: Kezdje a reggelt Chora kanyargós, festői ösvényeinek és Serifos történelmi várának felfedezésével. Élvezze az Égei-tengerre nyíló lélegzetelállító kilátást, miközben a sziget ébredezik.\nMidday: Ereszkedjen le a nyüzsgő Livadhi környékére, álljon meg egy búvárkodásra, vagy egyenesen az Avlomonas strand homokjára. Ebédeljen egy hagyományos tengerparti tavernában.\nAfternoon: Töltsön el egy pihentető délutánt a napon sütkérezve, és élvezze a Livadhi-öböl meleg vizét. Sétáljon végig a kikötőben, és nézze a színes halászhajókat, ahogy a vízen ringatóznak.\nEvening: Zárja a napot a nyüzsgő Livadakia strandon. Élvezze a naplementét, amely arany árnyalatokat vet a vízre, majd találjon egy hangulatos tengerparti bárt, ahol lazíthat egy frissítő ital mellett.",
         "ro": "Morning: Începeți dimineața explorând cărările pitorești și întortocheate din Chora și istoricul Castel din Serifos. Bucurați-vă de priveliștile uluitoare ale Mării Egee în timp ce insula se trezește.\nMidday: Coborâți spre zona plină de viață Livadhi, oprindu-vă pentru o experiență de scufundări sau mergând direct pe plaja Avlomonas. Luați prânzul la o tavernă tradițională de pe malul mării.\nAfternoon: Petreceți o după-amiază relaxantă bucurându-vă de soare și de apele calde ale Golfului Livadhi. Plimbați-vă de-a lungul portului de agrement și priviți bărcile colorate de pescuit legănându-se.\nEvening: Încheiați-vă ziua pe plaja vibrantă Livadakia. Bucurați-vă de apusul de soare care aruncă nuanțe aurii peste apă, apoi găsiți un bar primitor pe plajă pentru a vă relaxa cu o băutură rece.",
-        "en": "Morning: Start your morning by exploring the winding, picturesque paths of Chora and the historic Castle of Serifos. Enjoy the breathtaking views of the Aegean Sea as the island wakes up.\nMidday: Descend towards the lively Livadhi area, stopping for an exciting scuba diving experience or directly hitting the golden sands of Avlomonas beach. Grab lunch at a traditional seaside taverna.\nAfternoon: Spend a relaxing afternoon soaking up the sun and enjoying the shallow, warm waters of Livadhi Bay. Stroll along the marina and watch the colorful fishing boats gently bobbing in the water.\nEvening: Conclude your day at the vibrant Livadakia beach. Enjoy the sunset casting golden hues over the water, then find a cozy beachfront bar to unwind with a refreshing local drink."
+        "en": "Morning: Start your morning by exploring the winding, picturesque paths of Chora and the historic Castle of Serifos. Enjoy the breathtaking views of the Aegean Sea as the island wakes up.\nMidday: Descend towards the lively Livadhi area, stopping for an exciting scuba diving experience or directly hitting the golden sands of Avlomonas beach. Grab lunch at a traditional seaside taverna.\nAfternoon: Spend a relaxing afternoon soaking up the sun and enjoying the shallow, warm waters of Livadhi Bay. Stroll along the marina and watch the colorful fishing boats gently bobbing in the water.\nEvening: Conclude your day at the vibrant Livadakia beach. Enjoy the sunset casting golden hues over the water, then find a cozy beachfront bar to unwind with a refreshing local drink.",
+        "el": "Πρωί: Ξεκινήστε εξερευνώντας τα φιδωτά, γραφικά σοκάκια της Χώρας και το ιστορικό Καστέλι του Σερίφου. Απολαύστε την εκπληκτική θέα προς το Αιγαίο καθώς ξυπνά το νησί.\nΜεσημέρι: Κατεβείτε προς την ζωντανή περιοχή του Λιβαδιού, σταματώντας για μια συναρπαστική εμπειρία scuba diving ή απευθείας για την χρυσή άμμο της παραλίας Αυλομόνα. Φάτε μεσημεριανό σε μια παραδοσιακή ταβέρνα στο λιμάνι.\nΑπόγευμα: Περάστε ένα χαλαρωτικό απόγευμα απολαμβάνοντας τον ήλιο και τα ρηχά, ζεστά νερά του κόλπου του Λιβαδιού. Περπατήστε στην μαρίνα και παρακολουθήστε τα χρωματιστά ψαροκάικα να πλέουν απαλά.\nΒράδυ: Ολοκληρώστε τη μέρα σας στην ζωντανή παραλία Λιβαδάκια. Απολαύστε το ηλιοβασίλεμα που ρίχνει χρυσές ανταύγειες στη θάλασσα και βρείτε ένα άνετο μπαρ στην παραλία για να χαλαρώσετε με ένα δροσιστικό τοπικό ποτό."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Morgen: Aufstieg zur Burg durch neblige Gassen; Vorsicht auf glatten Steinen. Mittag: Abstieg zum Tauchzentrum für wetterfeste Briefings. Nachmittag: Küstenweg nach Avlomonas, Regenschutz in Cafés suchen. Abend: Abschluss in Livadakia; die Tavernen am Hafen bieten trockene Gemütlichkeit.",
             "hu": "Reggel: Ködös Chora-i séta a várba; a vizes lépcsőkön vigyázzon. Délben: A búvárközpont belső helyiségei adnak menedéket az eső elől. Délután: Az Avlomonas öböl mentén sétálunk pelerinnel. Este: Livadakia partján zárjuk a napot, majd egy meleg kikötői tavernában szárítkozunk meg.",
             "ro": "Dimineața: Urcare la castel prin Chora; atenție la pietrele ude. Prânz: Briefing la centrul de scufundări, feriți de stropii de ploaie. După-amiază: Plimbare spre Avlomonas sub umbrelă, admirând marea gri. Seara: Final la Livadakia; tavernele din port sunt refugiul perfect și cald.",
-            "en": "Morning: Ascend to the castle through misty alleys; use caution on slick stones. Noon: Visit the scuba center for indoor briefings away from the rain. Afternoon: Walk along Avlomonas bay with a raincoat, enjoying the moody sea. Evening: End at Livadakia; port taverns provide a dry, cozy finish."
+            "en": "Morning: Ascend to the castle through misty alleys; use caution on slick stones. Noon: Visit the scuba center for indoor briefings away from the rain. Afternoon: Walk along Avlomonas bay with a raincoat, enjoying the moody sea. Evening: End at Livadakia; port taverns provide a dry, cozy finish.",
+            "el": "Πρωί: Ανέβασμα προς το κάστρο μέσα από ομίχλης σοκάκια· προσέξτε τα γλιστερά λιθόστρωτα. Μεσημέρι: Επισκεφθείτε το κέντρο καταδύσεων για θεωρητικές ενημερώσεις σε εσωτερικό χώρο μακριά από τη βροχή. Απόγευμα: Περπατήστε στον κόλπο της Αυλομόνας με αδιάβροχο, απολαμβάνοντας τη μελαγχολική θάλασσα. Βράδυ: Τελειώστε στα Λιβαδάκια· οι ταβέρνες του λιμανιού προσφέρουν στεγνό, ζεστό τέλος."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Burg von Serifos",
                 "hu": "Serifos vára",
                 "ro": "Castelul din Serifos",
-                "en": "Castle of Serifos"
+                "en": "Castle of Serifos",
+                "el": "Καστέλι Σερίφου"
               },
               "tip_5lang": {
                 "de": "Erleben Sie die Burg in dramatischen Wolken; die Aussicht ist mystisch, aber tragen Sie festes Schuhwerk wegen der extrem rutschigen Stufen.",
                 "hu": "A ködbe burkolózó várfalak misztikus látványt nyújtanak; viseljen tapadós talpú cipőt, mert a meredek kövek esőben rendkívül csúszósak.",
                 "ro": "Castelul oferă o perspectivă dramatică printre nori; purtați încălțăminte aderentă deoarece treptele de piatră devin foarte periculoase pe ploaie.",
-                "en": "Experience the castle shrouded in dramatic clouds; the view is mystical, but wear grippy shoes as the stone steps become very slippery when wet."
+                "en": "Experience the castle shrouded in dramatic clouds; the view is mystical, but wear grippy shoes as the stone steps become very slippery when wet.",
+                "el": "Ζήστε το κάστρο τυλιγμένο σε δραματικά σύννεφα· η θέα είναι μυστηριακή, αλλά φορέστε παπούτσια με καλό κράτημα καθώς τα λιθόστρωτα σκαλοπάτια γλιστρούν πολύ όταν είναι βρεγμένα."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Serifos Scuba Divers",
                 "hu": "Serifos Scuba Divers",
                 "ro": "Serifos Scuba Divers",
-                "en": "Serifos Scuba Divers"
+                "en": "Serifos Scuba Divers",
+                "el": "Serifos Scuba Divers"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Zeit für theoretische Tauchkurse im Trockenen; die Ausrüstungspflege im Innenbereich ist die perfekte Beschäftigung bei Regen.",
                 "hu": "Használja ki az időt az elméleti oktatásra a fedett bázison; a felszerelés ellenőrzése a belső térben remek program a szakadó esőben is.",
                 "ro": "Folosiți timpul pentru cursuri teoretice la interior; verificarea echipamentului în spațiul acoperit este activitatea ideală pe timp de ploaie.",
-                "en": "Use the rainy weather for indoor diving theory and equipment checks; the sheltered base is the perfect place to stay dry while learning."
+                "en": "Use the rainy weather for indoor diving theory and equipment checks; the sheltered base is the perfect place to stay dry while learning.",
+                "el": "Χρησιμοποιήστε τον βροχερό καιρό για θεωρία καταδύσεων και έλεγχο εξοπλισμού σε εσωτερικό χώρο· η στεγασμένη βάση είναι ιδανική για να μείνετε στεγνοί ενώ μαθαίνετε."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Avlomonas",
                 "hu": "Avlomonas",
                 "ro": "Avlomonas",
-                "en": "Avlomonas"
+                "en": "Avlomonas",
+                "el": "Αυλομόνας"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie das Spiel der Regentropfen auf der Ägäis; finden Sie Unterschlupf in den ufernahen Cafés und genießen Sie die kühle Meeresbrise.",
                 "hu": "Figyelje a tengerre hulló esőcseppek játékát a parton; keressen menedéket a közeli kávézók teraszán, ahol szárazon maradhat a séta alatt.",
                 "ro": "Admirați spectacolul picăturilor de ploaie pe suprafața mării; găsiți adăpost în cafenelele de pe mal pentru a rămâne uscat în timpul pauzei.",
-                "en": "Watch the raindrops dance on the Aegean surface from the shore; find shelter in nearby cafes to stay dry while enjoying the sea breeze."
+                "en": "Watch the raindrops dance on the Aegean surface from the shore; find shelter in nearby cafes to stay dry while enjoying the sea breeze.",
+                "el": "Παρακολουθήστε τις σταγόνες της βροχής να χορεύουν στην επιφάνεια του Αιγαίου από την ακτή· βρείτε καταφύγιο σε κοντινά καφέ για να μείνετε στεγνοί απολαμβάνοντας τη θαλασσινή αύρα."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Livadhi-Bucht",
                 "hu": "Livadhi-öböl",
                 "ro": "Golful Livadhi",
-                "en": "Livadhi Bay"
+                "en": "Livadhi Bay",
+                "el": "Κόλπος Λιβαδιού"
               },
               "tip_5lang": {
                 "de": "Der Hafenbereich bietet die meisten überdachten Arkaden; spazieren Sie unter den Markisen und beobachten Sie das Treiben der Fischer im Regen.",
                 "hu": "A kikötő környéke kínálja a legtöbb fedett árkádot; sétáljon az ereszek alatt, és nézze a halászok munkáját a szürke esőfüggöny mögött.",
                 "ro": "Zona portului oferă cele mai multe arcade acoperite; plimbați-vă pe sub copertine și observați activitatea pescarilor prin perdeaua de ploaie.",
-                "en": "The port area offers the most sheltered walkways; walk under the awnings and observe the local fishing boats through the rain curtain."
+                "en": "The port area offers the most sheltered walkways; walk under the awnings and observe the local fishing boats through the rain curtain.",
+                "el": "Η περιοχή του λιμανιού προσφέρει τα πιο προστατευμένα περάσματα· περπατήστε κάτω από τέντες και παρατηρήστε τα ντόπια ψαροκάικα μέσα από την κουρτίνα της βροχής."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Livadakia",
                 "hu": "Livadakia",
                 "ro": "Livadakia",
-                "en": "Livadakia"
+                "en": "Livadakia",
+                "el": "Λιβαδάκια"
               },
               "tip_5lang": {
                 "de": "Der Sand ist fest und gut begehbar; halten Sie sich an die befestigten Wege nahe der Gebäude, um Schlamm und Pfützen geschickt zu vermeiden.",
                 "hu": "A vizes homok kemény és könnyen járható; maradjon az épületek melletti kövezett utak közelében, hogy elkerülje a sarat és a nagyobb tócsákat.",
                 "ro": "Nisipul ud este tasat și ușor de parcurs; rămâneți pe potecile pavate de lângă clădiri pentru a evita noroiul și bălțile mari de pe drum.",
-                "en": "The wet sand is firm and easy to walk on; stick to the paved paths near the shoreline buildings to avoid mud and deep puddles on the way."
+                "en": "The wet sand is firm and easy to walk on; stick to the paved paths near the shoreline buildings to avoid mud and deep puddles on the way.",
+                "el": "Η υγρή άμμος είναι σφιχτή και εύκολη στο περπάτημα· μείνετε στα πλακόστρωτα μονοπάτια κοντά στα παραλιακά κτίρια για να αποφύγετε λάσπες και βαθιές λακκούβες στον δρόμο."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Morgen: Klare Winterluft auf der Burg, Fernsicht bis Sifnos genießen. Mittag: Kurzer Besuch am Hafen, Windschutz in einer Taverne suchen. Nachmittag: Einsamer Strandspaziergang in Avlomonas bei weichem Licht. Abend: Sonnenuntergang gegen 17:00 Uhr; Rückkehr in die beleuchtete Chora vor dem Frost.",
             "hu": "Reggel: Kristálytiszta téli levegő a várban, pazar kilátás a szomszédos szigetekre. Délben: Séta a kikötőben, ahol a téli szél elől tavernákba bújhatunk. Délután: Magányos tengerparti séta Avlomonasnál. Este: Korai naplemente 17 órakor; térjünk vissza a kivilágított faluba a lehűlés előtt.",
             "ro": "Dimineața: Aer rece și clar la castel, vizibilitate maximă spre insulele vecine. Prânz: O scurtă vizită în port, căutând căldura unei taverne. După-amiază: Plimbare solitară pe plajă la Avlomonas. Seara: Apus devreme la ora 17:00; reveniți în Chora luminată înainte ca temperaturile să scadă.",
-            "en": "Morning: Crisp winter air at the castle with clear views of neighboring islands. Noon: Visit the harbor and seek warmth in a local tavern. Afternoon: Solitary beach walk at Avlomonas in the soft golden light. Evening: Early sunset at 17:00; return to the lit streets of Chora before the chill sets in."
+            "en": "Morning: Crisp winter air at the castle with clear views of neighboring islands. Noon: Visit the harbor and seek warmth in a local tavern. Afternoon: Solitary beach walk at Avlomonas in the soft golden light. Evening: Early sunset at 17:00; return to the lit streets of Chora before the chill sets in.",
+            "el": "Πρωί: Δροσερός χειμερινός αέρας στο κάστρο με καθαρές θέες των γειτονικών νησιών. Μεσημέρι: Επισκεφθείτε το λιμάνι και αναζητήστε ζεστασιά σε μια τοπική ταβέρνα. Απόγευμα: Μοναχικός περίπατος στην Αυλομόνα υπό απαλό χρυσό φως. Βράδυ: Νωρίς ηλιοβασίλεμα στις 17:00· επιστρέψτε στους φωτισμένους δρόμους της Χώρας πριν πιάσει το κρύο."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Burg von Serifos",
                 "hu": "Serifos vára",
                 "ro": "Castelul din Serifos",
-                "en": "Castle of Serifos"
+                "en": "Castle of Serifos",
+                "el": "Καστέλι Σερίφου"
               },
               "tip_5lang": {
                 "de": "Die Fernsicht im Winter ist unschlagbar; tragen Sie eine winddichte Jacke, da die Brise auf dem Gipfel sehr kühl und schneidig sein kann.",
                 "hu": "Télen a legtisztább a látótávolság a várfokról; viseljen szélálló kabátot, mert a csúcson a téli szél rendkívül metsző és hideg lehet.",
                 "ro": "Vizibilitatea de la castel este maximă iarna; purtați o jachetă rezistentă la vânt, deoarece briza de pe culme este tăioasă și foarte rece.",
-                "en": "Winter visibility from the castle is unbeatable; wear a windbreaker as the breeze at the summit can be very sharp and chilling today."
+                "en": "Winter visibility from the castle is unbeatable; wear a windbreaker as the breeze at the summit can be very sharp and chilling today.",
+                "el": "Η χειμερινή ορατότητα από το κάστρο είναι αξεπέραστη· φορέστε αδιάβροχο ή αδιάπνοο μπουφάν καθώς ο άνεμος στην κορυφή μπορεί να είναι πολύ τρυφερός και ψυχρός σήμερα."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Serifos Scuba Divers",
                 "hu": "Serifos Scuba Divers",
                 "ro": "Serifos Scuba Divers",
-                "en": "Serifos Scuba Divers"
+                "en": "Serifos Scuba Divers",
+                "el": "Serifos Scuba Divers"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Basis für ein Gespräch über die Unterwasserwelt; die ruhige Nebensaison ist ideal für die Planung zukünftiger Sommertauchgänge.",
                 "hu": "Látogasson el a bázisra egy kötetlen beszélgetésre; a csendes holtszezon ideális a jövő évi nyári merülések alapos megtervezéséhez.",
                 "ro": "Vizitați baza pentru o discuție relaxată despre lumea subacvatică; extrasezonul liniștit este perfect pentru a planifica scufundările viitoare.",
-                "en": "Visit the base for a quiet chat about the underwater world; the peaceful off-season is ideal for planning your future summer dives."
+                "en": "Visit the base for a quiet chat about the underwater world; the peaceful off-season is ideal for planning your future summer dives.",
+                "el": "Επισκεφθείτε τη βάση για μια ήσυχη συζήτηση για τον υποβρύχιο κόσμο· η ήσυχη εκτός σεζόν περίοδος είναι ιδανική για να σχεδιάσετε τις μελλοντικές σας καλοκαιρινές καταδύσεις."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Avlomonas",
                 "hu": "Avlomonas",
                 "ro": "Avlomonas",
-                "en": "Avlomonas"
+                "en": "Avlomonas",
+                "el": "Αυλομόνας"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die absolute Stille am leeren Strand; das tiefe Blau des Meeres wirkt im Winter besonders intensiv unter der tiefstehenden Sonne.",
                 "hu": "Élvezze a tökéletes csendet az üres tengerparton; a tenger mélykék színe télen, az alacsonyan járó nap fényében különösen intenzív látvány.",
                 "ro": "Bucurați-vă de liniștea absolută de pe plaja pustie; albastrul mării este extrem de intens iarna sub lumina blândă a soarelui de amiază.",
-                "en": "Enjoy the absolute silence on the empty beach; the deep blue color of the sea is especially intense in winter under the low afternoon sun."
+                "en": "Enjoy the absolute silence on the empty beach; the deep blue color of the sea is especially intense in winter under the low afternoon sun.",
+                "el": "Απολαύστε την απόλυτη σιωπή στην έρημη παραλία· το βαθύ μπλε της θάλασσας είναι ιδιαίτερα έντονο τον χειμώνα υπό το χαμηλό απογευματινό φως."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Livadhi-Bucht",
                 "hu": "Livadhi-öböl",
                 "ro": "Golful Livadhi",
-                "en": "Livadhi Bay"
+                "en": "Livadhi Bay",
+                "el": "Κόλπος Λιβαδιού"
               },
               "tip_5lang": {
                 "de": "Suchen Sie eine der wenigen offenen Tavernen für einen warmen Ouzo auf; die winterliche Hafenatmosphäre ist authentisch und sehr entspannt.",
                 "hu": "Keressen egyet a kevés nyitva tartó taverna közül egy meleg italra; a téli kikötői hangulat autentikus és mentes a turistaáradattól.",
                 "ro": "Căutați una dintre puținele taverne deschise pentru o băutură caldă; atmosfera portului iarna este autentică și extrem de relaxată.",
-                "en": "Seek out one of the few open taverns for a warm drink; the winter harbor atmosphere is authentic and completely free of summer crowds."
+                "en": "Seek out one of the few open taverns for a warm drink; the winter harbor atmosphere is authentic and completely free of summer crowds.",
+                "el": "Βρείτε μια από τις λίγες ανοιχτές ταβέρνες για ένα ζεστό ρόφημα· η χειμερινή ατμόσφαιρα στο λιμάνι είναι αυθεντική και εντελώς χωρίς καλοκαιρινά πλήθη."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Livadakia",
                 "hu": "Livadakia",
                 "ro": "Livadakia",
-                "en": "Livadakia"
+                "en": "Livadakia",
+                "el": "Λιβαδάκια"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie das goldene Licht kurz vor 17:00 Uhr; die Sonne versinkt früh, also halten Sie Ihre Kamera für das sanfte Winterglühen bereit.",
                 "hu": "Csodálja meg az aranyló fényeket 17 óra előtt; a nap korán nyugszik, így készítse fel a kameráját a lágy, téli alkonyati ragyogásra.",
                 "ro": "Admirați lumina aurie chiar înainte de ora 17:00; soarele apune devreme, așa că pregătiți camera pentru strălucirea blândă a iernii.",
-                "en": "Admire the golden light just before 17:00; the sun sets early, so have your camera ready for the soft, glowing winter dusk over the bay."
+                "en": "Admire the golden light just before 17:00; the sun sets early, so have your camera ready for the soft, glowing winter dusk over the bay.",
+                "el": "Απολαύστε το χρυσό φως λίγο πριν τις 17:00· ο ήλιος δύει νωρίς, οπότε έχετε έτοιμη την κάμερά σας για το απαλό, λαμπερό χειμερινό λυκόφως πάνω από τον κόλπο."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Burg von Serifos",
             "hu": "Serifos vára",
             "ro": "Castelul din Serifos",
-            "en": "Castle of Serifos"
+            "en": "Castle of Serifos",
+            "el": "Καστέλι Σερίφου"
           },
           "coords": [
             24.507166,
@@ -329,7 +363,8 @@
             "de": "Erkunden Sie die Ruinen dieser venezianischen Festung mit Panoramablick über die Ägäis, aber tragen Sie festes Schuhwerk, um die steilen, unebenen Steinwege sicher zu bewältigen.",
             "hu": "Fedezze fel e velencei erőd romjait, amely panorámás kilátást nyújt az Égei-tengerre, de viseljen masszív cipőt a meredek, egyenetlen kőösvények biztonságos bejárásához.",
             "ro": "Explorați ruinele acestei fortărețe venețiene cu vederi panoramice asupra Mării Egee, dar purtați încălțăminte robustă pentru a naviga în siguranță pe cărările abrupte de piatră.",
-            "en": "Explore the ruins of this Venetian fortress with panoramic views over the Aegean, but wear sturdy shoes to safely navigate the steep, uneven stone pathways."
+            "en": "Explore the ruins of this Venetian fortress with panoramic views over the Aegean, but wear sturdy shoes to safely navigate the steep, uneven stone pathways.",
+            "el": "Εξερευνήστε τα ερείπια αυτού του Βενετσιάνικου φρουρίου με πανοραμική θέα στο Αιγαίο, αλλά φορέστε στιβαρά παπούτσια για να διασχίσετε με ασφάλεια τα απότομα, ανώμαλα λιθόστρωτα μονοπάτια."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Psile Ammos",
             "hu": "Psile Ammos",
             "ro": "Psile Ammos",
-            "en": "Psile Ammos"
+            "en": "Psile Ammos",
+            "el": "Ψιλή Άμμος"
           },
           "coords": [
             24.522774,
@@ -352,7 +388,8 @@
             "de": "Waten Sie in das flache, türkisfarbene Wasser dieses unberührten Sandstrandes, aber bringen Sie Ihr eigenes Wasser und Snacks mit, da es direkt am Ufer nur minimale Einrichtungen gibt.",
             "hu": "Gázoljon bele ennek az érintetlen homokos strandnak a sekély, csillogó türkizkék vizébe, de hozzon magával vizet és rágcsálnivalót, mivel a parton csak minimális létesítmények állnak rendelkezésre.",
             "ro": "Pășiți în apele turcoaz puțin adânci ale acestei plaje cu nisip curat, dar aduceți-vă propria apă și gustări, deoarece există facilități minime disponibile direct pe țărm.",
-            "en": "Wade into the shallow, sparkling turquoise waters of this pristine sandy beach, but bring your own water and snacks as there are minimal facilities available directly on the shore."
+            "en": "Wade into the shallow, sparkling turquoise waters of this pristine sandy beach, but bring your own water and snacks as there are minimal facilities available directly on the shore.",
+            "el": "Βουτήξτε στα ρηχά, λαμπερά τυρκουάζ νερά αυτής της ανέγγιχτης αμμουδιάς, αλλά φέρτε νερό και σνακ μαζί σας καθώς υπάρχουν ελάχιστες εγκαταστάσεις στην ίδια την ακτή."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Psili Ammos-Bucht",
             "hu": "Psili Ammos-öböl",
             "ro": "Golful Psili Ammos",
-            "en": "Psili Ammos Bay"
+            "en": "Psili Ammos Bay",
+            "el": "Κόλπος Ψιλής Άμμου"
           },
           "coords": [
             24.526519,
@@ -375,7 +413,8 @@
             "de": "Fotografieren Sie den faszinierenden Kontrast zwischen dem weißen Sand und dem tiefblauen Meer der Bucht und besuchen Sie sie am frühen Morgen für das ruhigste, klarste Wasser.",
             "hu": "Készítsen lenyűgöző fényképeket az öböl fehér homokja és a mélykék tenger közötti feltűnő kontrasztról, és látogasson el kora reggel a legnyugodtabb, legtisztább vízért.",
             "ro": "Capturați fotografii uimitoare ale contrastului frapant al golfului dintre nisipul alb și marea de un albastru intens și vizitați dimineața devreme pentru cea mai calmă apă.",
-            "en": "Capture stunning photographs of the bay's striking contrast between the white sand and deep blue sea, and visit in the early morning for the calmest, clearest water."
+            "en": "Capture stunning photographs of the bay's striking contrast between the white sand and deep blue sea, and visit in the early morning for the calmest, clearest water.",
+            "el": "Αιχμαλωτίστε εντυπωσιακές φωτογραφίες της έντονης αντίθεσης ανάμεσα στην λευκή άμμο και την βαθιά μπλε θάλασσα, και επισκεφθείτε νωρίς το πρωί για τα πιο ήρεμα, διαυγή νερά."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Agios Sostis",
             "hu": "Agios Sostis",
             "ro": "Agios Sostis",
-            "en": "Agios Sostis"
+            "en": "Agios Sostis",
+            "el": "Άγιος Σώστης"
           },
           "coords": [
             24.532062,
@@ -398,7 +438,8 @@
             "de": "Bewundern Sie die malerische kleine Kirche am Rande der felsigen Halbinsel, die zwei wunderschöne Buchten trennt, was es zu einem idealen Ort zum Schnorcheln an den Riffen macht.",
             "hu": "Csodálja meg a sziklás félsziget szélén álló, két gyönyörű öblöt elválasztó festői kis templomot, amely ideális hely a védett zátonyok körüli sznorkelezéshez.",
             "ro": "Admirați bisericuța pitorească așezată pe marginea peninsulei stâncoase care împarte două golfuri frumoase, fiind un loc ideal pentru snorkeling în jurul recifelor adăpostite.",
-            "en": "Admire the picturesque little church perched on the edge of the rocky peninsula dividing two beautiful coves, making it an ideal spot for snorkeling around the sheltered reefs."
+            "en": "Admire the picturesque little church perched on the edge of the rocky peninsula dividing two beautiful coves, making it an ideal spot for snorkeling around the sheltered reefs.",
+            "el": "Εκτιμήστε την γραφική μικρή εκκλησία που ακροβατεί στην άκρη του βραχώδους ακρωτηρίου που χωρίζει δύο όμορφους κόλπους· ιδανικό σημείο για καταδύσεις με αναπνευστήρα γύρω από τα προστατευμένα υφάλους."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Lia",
             "hu": "Lia",
             "ro": "Lia",
-            "en": "Lia"
+            "en": "Lia",
+            "el": "Λια"
           },
           "coords": [
             24.531396,
@@ -421,7 +463,8 @@
             "de": "Entfliehen Sie den Massen in dieser abgelegenen Kiesel- und Sandbucht mit markanten Felsformationen und packen Sie unbedingt einen Regenschirm ein, da es keinen natürlichen Schatten gibt.",
             "hu": "Meneküljön el a tömeg elől ebbe az eldugott, lenyűgöző sziklaalakzatokkal rendelkező kavicsos-homokos öbölbe, és feltétlenül vigyen magával napernyőt, mivel egyáltalán nincs természetes árnyék.",
             "ro": "Scăpați de aglomerație în acest golf retras cu pietriș și nisip, cu formațiuni stâncoase izbitoare, și asigurați-vă că luați o umbrelă, deoarece nu veți găsi umbră naturală.",
-            "en": "Escape the crowds at this secluded, pebble-and-sand cove with striking rock formations, and ensure you pack an umbrella since there is absolutely no natural shade to be found."
+            "en": "Escape the crowds at this secluded, pebble-and-sand cove with striking rock formations, and ensure you pack an umbrella since there is absolutely no natural shade to be found.",
+            "el": "Δραπετεύστε από τα πλήθη σε αυτόν τον απομονωμένο κόλπο με βότσαλο και άμμο και εντυπωσιακούς βραχώδεις σχηματισμούς· φροντίστε να έχετε ομπρέλα καθώς δεν υπάρχει απολύτως καμία φυσική σκιά."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Livadhi-Bucht",
             "hu": "Livadhi-öböl",
             "ro": "Golful Livadhi",
-            "en": "Livadhi Bay"
+            "en": "Livadhi Bay",
+            "el": "Κόλπος Λιβαδιού"
           },
           "coords": [
             24.520485,
@@ -444,7 +488,8 @@
             "de": "Schlendern Sie am malerischen Hafen entlang, der von traditionellen Tavernen und schaukelnden Fischerbooten gesäumt ist, was ihn zum perfekten Ort für ein frisches Meeresfrüchte-Mittagessen am Wasser macht.",
             "hu": "Sétáljon végig a festői kikötő mentén, amelyet hagyományos tavernák és ringatózó halászhajók szegélyeznek, így ez a tökéletes hely egy friss tenger gyümölcsei ebéd elfogyasztásához a vízparton.",
             "ro": "Plimbați-vă de-a lungul portului pitoresc, mărginit de taverne tradiționale și bărci de pescuit legănate, fiind locul perfect pentru a savura un prânz cu fructe de mare proaspete pe malul apei.",
-            "en": "Stroll along the picturesque harbor lined with traditional tavernas and bobbing fishing boats, making it the perfect spot to enjoy a fresh seafood lunch by the water."
+            "en": "Stroll along the picturesque harbor lined with traditional tavernas and bobbing fishing boats, making it the perfect spot to enjoy a fresh seafood lunch by the water.",
+            "el": "Περπατήστε κατά μήκος του γραφικού λιμανιού με παραδοσιακές ταβέρνες και αρμενίζοντας ψαροκάικα, ιδανικό για φρέσκο θαλασσινό γεύμα δίπλα στο νερό."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Morning: Beginnen Sie Ihre Radtour mit einem Besuch der historischen Burg von Serifos. Genießen Sie danach eine luftige Abfahrt zu den unberührten, flachen Gewässern des Strandes Psile Ammos.\nMidday: Radeln Sie weiter entlang der atemberaubenden Ostküste zur Psili Ammos Bay und Agios Sostis. Suchen Sie sich den perfekten Ort für ein Picknick neben der malerischen kleinen Kirche.\nAfternoon: Fahren Sie in Richtung Lia Strand und navigieren Sie durch das leicht unebene Gelände. Genießen Sie die Ruhe dieser abgelegenen Bucht und tauchen Sie in das kristallklare Wasser ein.\nEvening: Beenden Sie Ihre Radtour in der geschäftigen Bucht von Livadhi. Ruhen Sie Ihre Beine in einer einladenden Taverne aus, beobachten Sie den Sonnenuntergang und probieren Sie griechische Köstlichkeiten.",
         "hu": "Morning: Kezdje kerékpártúráját Serifos történelmi várának meglátogatásával. Utána élvezze a kellemes lejtmenetet a Psile Ammos strand érintetlen, sekély vizéhez egy frissítő úszásra.\nMidday: Folytassa a tekerést a lenyűgöző keleti part mentén a Psili Ammos-öböl és Agios Sostis felé. Találja meg a tökéletes helyet egy piknikhez a bájos kis templom mellett, miközben a kilátásban gyönyörködik.\nAfternoon: Kerékpározzon a Lia strand felé, navigálva az enyhén egyenetlen terepen. Élvezze ennek az eldugott öbölnek a csendjét, és merüljön el kristálytiszta vizében, távol a turisták tömegétől.\nEvening: Fejezze be kerékpáros útját a nyüzsgő Livadhi-öbölben. Pihentesse meg a lábát egy barátságos helyi tavernában, nézze a naplementét a kikötő felett, miközben finom görög ételeket kóstol.",
         "ro": "Morning: Începeți turul cu bicicleta cu o vizită la istoricul Castel din Serifos. După aceea, bucurați-vă de o coborâre ușoară spre apele limpezi și puțin adânci ale plajei Psile Ammos pentru a înota.\nMidday: Continuați să pedalați de-a lungul coastei de est uimitoare până la Golful Psili Ammos și Agios Sostis. Găsiți locul perfect pentru un picnic pitoresc lângă bisericuța fermecătoare.\nAfternoon: Pedalați spre plaja Lia, navigând pe terenul ușor accidentat. Bucurați-vă de liniștea acestui golf retras, scufundându-vă în apele sale cristaline, departe de aglomerația turistică principală.\nEvening: Terminați călătoria cu bicicleta în Golful Livadhi plin de viață. Odihniți-vă picioarele la o tavernă locală primitoare, privind apusul de soare în timp ce savurați delicatese grecești.",
-        "en": "Morning: Kick off your cycling tour with a visit to the historic Castle of Serifos. Afterward, enjoy a breezy downhill ride towards the pristine, shallow waters of Psile Ammos beach for a refreshing swim.\nMidday: Continue pedaling along the stunning eastern coast to Psili Ammos Bay and Agios Sostis. The coastal views are mesmerizing as you find the perfect spot for a scenic picnic by the charming little church.\nAfternoon: Cycle towards Lia beach, navigating the slightly rugged terrain. Enjoy the peace and quiet of this secluded cove, diving into its crystal-clear waters away from the main tourist crowds.\nEvening: Finish your cycling journey at the bustling Livadhi Bay. Rest your legs at a welcoming local taverna, watching the sunset over the harbor while savoring delicious Greek delicacies and local wine."
+        "en": "Morning: Kick off your cycling tour with a visit to the historic Castle of Serifos. Afterward, enjoy a breezy downhill ride towards the pristine, shallow waters of Psile Ammos beach for a refreshing swim.\nMidday: Continue pedaling along the stunning eastern coast to Psili Ammos Bay and Agios Sostis. The coastal views are mesmerizing as you find the perfect spot for a scenic picnic by the charming little church.\nAfternoon: Cycle towards Lia beach, navigating the slightly rugged terrain. Enjoy the peace and quiet of this secluded cove, diving into its crystal-clear waters away from the main tourist crowds.\nEvening: Finish your cycling journey at the bustling Livadhi Bay. Rest your legs at a welcoming local taverna, watching the sunset over the harbor while savoring delicious Greek delicacies and local wine.",
+        "el": "Πρωί: Ξεκινήστε την ποδηλατική σας διαδρομή με μια επίσκεψη στο ιστορικό Καστέλι Σερίφου. Έπειτα απολαύστε μια δροσερή κατάβαση προς τα παρθένα, ρηχά νερά της παραλίας Ψιλή Άμμος για ένα αναζωογονητικό μπάνιο.\nΜεσημέρι: Συνεχίστε πετώντας κατά μήκος της εκπληκτικής ανατολικής ακτής προς τον κόλπο Ψιλής Άμμου και τον Άγιο Σώστη. Οι θαλασσινές απόψεις είναι μαγευτικές καθώς βρείτε το τέλειο σημείο για ένα πικνίκ δίπλα στην γραφική εκκλησία.\nΑπόγευμα: Ποδηλατήστε προς την παραλία Λια, διασχίζοντας τον λίγο πιο τραχύ δρόμο. Απολαύστε την ηρεμία αυτού του απομονωμένου κόλπου, βουτώντας στα κρυστάλλινα νερά του μακριά από τα κύρια τουριστικά πλήθη.\nΒράδυ: Ολοκληρώστε την ποδηλατική σας διαδρομή στον ζωντανό κόλπο του Λιβαδιού. Ξεκουράστε τα πόδια σας σε μια φιλόξενη τοπική ταβέρνα, παρακολουθώντας το ηλιοβασίλεμα πάνω από τη μαρίνα ενώ απολαμβάνετε νόστιμες ελληνικές λιχουδιές και ντόπιο κρασί."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Morgen: Vorsichtige Abfahrt von der Burg; nasse Kurven erfordern volle Konzentration. Mittag: Fahrt zur Psili Ammos Bucht, kurzer Stopp im Regenschutz der Kapelle. Nachmittag: Küstenstraße mit Warnweste und Licht befahren. Abend: Rückkehr zum Hafen von Livadhi, Aufwärmen in einer trockenen Unterkunft.",
             "hu": "Reggel: Óvatos ereszkedés a várból; a vizes kanyarok teljes koncentrációt igényelnek. Délben: Tekerés a Psili Ammos öbölhöz, rövid pihenő a kápolna eresze alatt. Délután: Parti út láthatósági mellényben. Este: Visszatérés Livadhi kikötőjébe, ahol egy száraz taverna várja.",
             "ro": "Dimineața: Coborâre prudentă de la castel; curbele ude necesită concentrare maximă. Prânz: Pedalare spre Psili Ammos, scurt popas sub streașina capelei. După-amiază: Drum de coastă parcurs cu lumini aprinse. Seara: Revenire în portul Livadhi pentru o binemeritată pauză la căldură.",
-            "en": "Morning: Cautious descent from the castle; wet curves require full concentration and careful braking. Noon: Ride to Psili Ammos bay, taking a short break under the chapel porch. Afternoon: Coastal road cycling with lights on. Evening: Return to Livadhi port to warm up in a dry tavern."
+            "en": "Morning: Cautious descent from the castle; wet curves require full concentration and careful braking. Noon: Ride to Psili Ammos bay, taking a short break under the chapel porch. Afternoon: Coastal road cycling with lights on. Evening: Return to Livadhi port to warm up in a dry tavern.",
+            "el": "Πρωί: Προσεκτική κατέβασμα από το κάστρο· οι υγρές στροφές απαιτούν απόλυτη συγκέντρωση και προσεκτικό φρενάρισμα. Μεσημέρι: Ποδηλατήστε προς τον κόλπο της Ψιλής Άμμου, παίρνοντας ένα σύντομο διάλειμμα κάτω από το προστώο της εκκλησίας. Απόγευμα: Ποδηλασία στον παραλιακό δρόμο με αναμμένα φώτα. Βράδυ: Επιστροφή στο λιμάνι του Λιβαδιού για να ζεσταθείτε σε μια στεγνή ταβέρνα."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Burg von Serifos",
                 "hu": "Serifos vára",
                 "ro": "Castelul din Serifos",
-                "en": "Castle of Serifos"
+                "en": "Castle of Serifos",
+                "el": "Καστέλι Σερίφου"
               },
               "tip_5lang": {
                 "de": "Die steile Abfahrt ist bei Regen gefährlich; prüfen Sie Ihre Bremsen vor dem Start und meiden Sie die glatten, nassen Mittellinien.",
                 "hu": "A meredek ereszkedés esőben veszélyes; indulás előtt ellenőrizze a fékeket, és kerülje a vizes, csúszós útburkolati jeleket a kanyarokban.",
                 "ro": "Coborârea abruptă este periculoasă pe ploaie; verificați frânele înainte de plecare și evitați marcajele rutiere ude care devin alunecoase.",
-                "en": "The steep descent is dangerous in the rain; check your brakes before starting and avoid the slippery wet road markings in the curves."
+                "en": "The steep descent is dangerous in the rain; check your brakes before starting and avoid the slippery wet road markings in the curves.",
+                "el": "Η απότομη κατάβαση είναι επικίνδυνη στη βροχή· ελέγξτε τα φρένα πριν ξεκινήσετε και αποφύγετε τις ολισθηρές υγρές διαγραμμίσεις στους στροφές."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Psile Ammos",
                 "hu": "Psile Ammos",
                 "ro": "Psile Ammos",
-                "en": "Psile Ammos"
+                "en": "Psile Ammos",
+                "el": "Ψιλή Άμμος"
               },
               "tip_5lang": {
                 "de": "Der nasse Sand ist erstaunlich fest; schieben Sie Ihr Rad am Ufer entlang und genießen Sie die kühle, salzige Gischt bei Regen.",
                 "hu": "A vizes homok meglepően kemény; tolja a bringát a parton, és élvezze a hűvös, sós permetet, ami ilyenkor különösen frissítő élmény.",
                 "ro": "Nisipul ud este surprinzător de compact; împingeți bicicleta pe mal și bucurați-vă de briza sărată care este foarte revigorantă pe ploaie.",
-                "en": "The wet sand is surprisingly firm; push your bike along the shore and enjoy the cool, salty spray which feels very refreshing in the rain."
+                "en": "The wet sand is surprisingly firm; push your bike along the shore and enjoy the cool, salty spray which feels very refreshing in the rain.",
+                "el": "Η βρεγμένη άμμος είναι εκπληκτικά στέρεη· σπρώξτε το ποδήλατό σας κατά μήκος της ακτής και απολαύστε την δροσερή, αλμυρή ψιχάλα που δροσίζει ευχάριστα στη βροχή."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Psili Ammos-Bucht",
                 "hu": "Psili Ammos-öböl",
                 "ro": "Golful Psili Ammos",
-                "en": "Psili Ammos Bay"
+                "en": "Psili Ammos Bay",
+                "el": "Όρμος Ψιλή Άμμος"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Vordächer der geschlossenen Tavernen als Regenschutz; die Bucht wirkt im grauen Regenlicht besonders wild und ursprünglich.",
                 "hu": "Használja a zárt tavernák előtetőit esővédőnek; az öböl a szürke esőben különösen vadnak és érintetlennek tűnik a bringa mellől nézve.",
                 "ro": "Folosiți streșinile tavernelor închise ca adăpost; golful pare extrem de sălbatic și autentic sub lumina cenușie a cerului ploios.",
-                "en": "Use the overhangs of closed taverns for rain cover; the bay looks exceptionally wild and primitive in the grey rainy light today."
+                "en": "Use the overhangs of closed taverns for rain cover; the bay looks exceptionally wild and primitive in the grey rainy light today.",
+                "el": "Χρησιμοποιήστε τα πρόβολα κλειστών ταβερνών για κάλυψη από τη βροχή· ο όρμος δείχνει εξαιρετικά άγριος και πρωτόγονος με το γκρι βροχερό φως σήμερα."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Agios Sostis",
                 "hu": "Agios Sostis",
                 "ro": "Agios Sostis",
-                "en": "Agios Sostis"
+                "en": "Agios Sostis",
+                "el": "Άγιος Σώστης"
               },
               "tip_5lang": {
                 "de": "Die kleine Kapelle bietet einen sicheren Zufluchtsort; stellen Sie Ihr Rad unter einen Baum und warten Sie einen Schauer im trockenen Inneren ab.",
                 "hu": "A kis kápolna biztos menedéket nyújt; támassza a bringát egy fa alá, és várja meg a nagyobb zápor végét a templom csendes belsejében.",
                 "ro": "Mica capelă oferă un refugiu sigur; lăsați bicicleta sub un copac și așteptați trecerea ploii în interiorul liniștit al bisericii.",
-                "en": "The small chapel offers a safe refuge; lean your bike under a tree and wait out the heavy shower inside the quiet, dry church interior."
+                "en": "The small chapel offers a safe refuge; lean your bike under a tree and wait out the heavy shower inside the quiet, dry church interior.",
+                "el": "Η μικρή εκκλησία προσφέρει ασφαλές καταφύγιο· ξαποστάστε το ποδήλατό σας κάτω από ένα δέντρο και περιμένετε μέσα στο ήσυχο, στεγνό εσωτερικό της εκκλησίας μέχρι να περάσει το δυνατό μπουρίνι."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Lia",
                 "hu": "Lia",
                 "ro": "Lia",
-                "en": "Lia"
+                "en": "Lia",
+                "el": "Λιά"
               },
               "tip_5lang": {
                 "de": "Die unbefestigten Wege können schlammig sein; bleiben Sie mit dem Rad auf den festeren Abschnitten, um nicht im nassen Untergrund einzusinken.",
                 "hu": "A burkolatlan utak sárosak lehetnek; maradjon a keményebb talajú szakaszokon a biciklivel, hogy ne süllyedjen bele a felázott földbe.",
                 "ro": "Drumurile neasfaltate pot fi noroioase; rămâneți cu bicicleta pe porțiunile mai tari pentru a nu vă împotmoli în solul ud și moale.",
-                "en": "Unpaved paths can be muddy; keep your bike on the firmer ground sections to avoid getting stuck in the waterlogged soil near the beach."
+                "en": "Unpaved paths can be muddy; keep your bike on the firmer ground sections to avoid getting stuck in the waterlogged soil near the beach.",
+                "el": "Τα χωματόδρομα μπορεί να γίνουν λασπωμένα· κρατήστε το ποδήλατο σε πιο στέρεα τμήματα για να αποφύγετε να κολλήσετε στο νεροκρατημένο χώμα κοντά στην παραλία."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Livadhi-Bucht",
                 "hu": "Livadhi-öböl",
                 "ro": "Golful Livadhi",
-                "en": "Livadhi Bay"
+                "en": "Livadhi Bay",
+                "el": "Όρμος Λιβάδη"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf Pfützen in den engen Gassen; die Hafenpromenade ist im Regen glatt, fahren Sie daher mit reduziertem Tempo zum Ziel.",
                 "hu": "Vigyázzon a tócsákra a szűk utcákban; a kikötői sétány esőben csúszós, ezért csökkentett sebességgel guruljon be a napi végállomáshoz.",
                 "ro": "Atenție la bălțile din străzile înguste; faleza portului este alunecoasă pe ploaie, deci pedalați cu viteză redusă spre destinația finală.",
-                "en": "Watch out for deep puddles in narrow streets; the harbor promenade is slippery, so cycle at a reduced speed toward your final destination."
+                "en": "Watch out for deep puddles in narrow streets; the harbor promenade is slippery, so cycle at a reduced speed toward your final destination.",
+                "el": "Προσέχετε για βαθιές λακκούβες στα στενά σοκάκια· η προκυμαία του λιμανιού είναι ολισθηρή, οπότε ποδηλατήστε με μειωμένη ταχύτητα προς τον προορισμό σας."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Morgen: Frische Brise bei der Abfahrt von der Burg, Handschuhe sind ratsam. Mittag: Sonnige Radtour zu den Nordstränden, die Luft ist kühl aber klar. Nachmittag: Kurze Pausen an den Kapellen, um die warme Wintersonne zu genießen. Abend: Rückkehr zum Hafen vor 17:00 Uhr, wenn die Temperaturen schnell sinken.",
             "hu": "Reggel: Friss szél a várból való leguruláskor, a kesztyű ajánlott. Délben: Napsütéses tekerés az északi strandokhoz, a levegő hűvös, de kristálytiszta. Délután: Rövid pihenők a kápolnáknál a téli nap sugarait élvezve. Este: Visszatérés a kikötőbe 17 óra előtt, mielőtt a hőmérséklet leesik.",
             "ro": "Dimineața: Briză rece la coborârea de la castel, mănușile sunt recomandate. Prânz: Tur cu bicicleta spre plajele nordice, aerul este rece dar clar. După-amiază: Pauze scurte la capele pentru a profita de soarele blând. Seara: Revenire în port înainte de ora 17:00, când se face foarte frig.",
-            "en": "Morning: Fresh breeze during the descent from the castle, gloves are recommended. Noon: Sunny ride to northern beaches; the air is cool but crystal clear. Afternoon: Short breaks at chapels to enjoy the mild winter sun. Evening: Return to the harbor before 17:00 as the temperature drops rapidly."
+            "en": "Morning: Fresh breeze during the descent from the castle, gloves are recommended. Noon: Sunny ride to northern beaches; the air is cool but crystal clear. Afternoon: Short breaks at chapels to enjoy the mild winter sun. Evening: Return to the harbor before 17:00 as the temperature drops rapidly.",
+            "el": "Πρωί: Φρέσκος αέρας κατά την κατάβαση από το κάστρο, συνιστώνται γάντια. Μεσημέρι: Ηλιόλουση βόλτα προς τις βόρειες παραλίες· ο αέρας είναι δροσερός αλλά κρυστάλλινος. Απόγευμα: Σύντομα διαλείμματα σε εξωκκλήσια για να απολαύσετε τον ήπιο χειμερινό ήλιο. Βράδυ: Επιστροφή στο λιμάνι πριν τις 17:00 καθώς η θερμοκρασία πέφτει γρήγορα."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Burg von Serifos",
                 "hu": "Serifos vára",
                 "ro": "Castelul din Serifos",
-                "en": "Castle of Serifos"
+                "en": "Castle of Serifos",
+                "el": "Κάστρο της Σερίφου"
               },
               "tip_5lang": {
                 "de": "Der Fahrtwind ist im Winter eisig; schützen Sie Brust und Hals mit einem Tuch für die rasante Abfahrt hinunter zur Küstenstraße.",
                 "hu": "A menetszél télen jeges lehet; védje mellkasát és nyakát sállal a gyors ereszkedés során, mielőtt elérné a parti főutat.",
                 "ro": "Vântul la coborâre este înghețat iarna; protejați-vă gâtul și pieptul cu un fular pentru coborârea rapidă spre drumul de coastă.",
-                "en": "The wind chill is icy in winter; protect your chest and neck with a scarf for the rapid descent down to the coastal road level."
+                "en": "The wind chill is icy in winter; protect your chest and neck with a scarf for the rapid descent down to the coastal road level.",
+                "el": "Η αίσθηση ψύχους από τον άνεμο είναι παγωμένη τον χειμώνα· προστατέψτε το στήθος και τον λαιμό με ένα φουλάρι για την απότομη κατάβαση προς το επίπεδο του παράκτιου δρόμου."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Psile Ammos",
                 "hu": "Psile Ammos",
                 "ro": "Psile Ammos",
-                "en": "Psile Ammos"
+                "en": "Psile Ammos",
+                "el": "Ψιλή Άμμος"
               },
               "tip_5lang": {
                 "de": "Das Licht am Morgen ist perfekt für Fotos; genießen Sie die Einsamkeit, da Sie vermutlich der einzige Radfahrer am ganzen Strand sein werden.",
                 "hu": "A reggeli fények tökéletesek a fotózáshoz; élvezze a magányt, valószínűleg ön lesz az egyetlen kerékpáros az egész tengerparton.",
                 "ro": "Lumina dimineții este perfectă pentru fotografii; bucurați-vă de singurătate, probabil veți fi singurul biciclist de pe întreaga plajă.",
-                "en": "The morning light is perfect for photography; enjoy the solitude as you will likely be the only cyclist on the entire beach today."
+                "en": "The morning light is perfect for photography; enjoy the solitude as you will likely be the only cyclist on the entire beach today.",
+                "el": "Το πρωινό φως είναι ιδανικό για φωτογραφίες· απολαύστε τη μοναξιά καθώς πιθανότατα θα είστε ο μόνος ποδηλάτης σε ολόκληρη την παραλία σήμερα."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Psili Ammos-Bucht",
                 "hu": "Psili Ammos-öböl",
                 "ro": "Golful Psili Ammos",
-                "en": "Psili Ammos Bay"
+                "en": "Psili Ammos Bay",
+                "el": "Όρμος Ψιλή Άμμος"
               },
               "tip_5lang": {
                 "de": "Die Bucht ist im Winter windanfällig; suchen Sie sich ein geschütztes Plätzchen hinter den Mauern, um kurz in der Sonne Energie zu tanken.",
                 "hu": "Az öböl télen szeles lehet; keressen egy szélvédett helyet a falak mögött, hogy a napon feltöltődhessen az út további részéhez.",
                 "ro": "Golful este expus vântului iarna; căutați un loc protejat după ziduri pentru a vă reîncărca energiile la soare pentru drumul de retur.",
-                "en": "The bay can be windy in winter; find a sheltered spot behind the walls to recharge your energy in the sun for the rest of the ride."
+                "en": "The bay can be windy in winter; find a sheltered spot behind the walls to recharge your energy in the sun for the rest of the ride.",
+                "el": "Ο όρμος μπορεί να είναι ανεμοδαρμένος τον χειμώνα· βρείτε ένα προστατευμένο σημείο πίσω από τα τείχη για να ανασυντάξετε τις δυνάμεις σας στον ήλιο για το υπόλοιπο της διαδρομής."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Agios Sostis",
                 "hu": "Agios Sostis",
                 "ro": "Agios Sostis",
-                "en": "Agios Sostis"
+                "en": "Agios Sostis",
+                "el": "Άγιος Σώστης"
               },
               "tip_5lang": {
                 "de": "Die weißen Mauern reflektieren die Wärme; machen Sie hier Ihre Mittagspause, da die Kapelle wunderbar vor dem kühlen Nordwind schützt.",
                 "hu": "A fehér falak visszaverik a nap melegét; itt érdemes tartani a pihenőt, mert a kápolna remekül véd a hűvös északi szél elől.",
                 "ro": "Zidurile albe reflectă căldura soarelui; faceți aici pauza de prânz, deoarece capela oferă o protecție excelentă împotriva vântului de nord.",
-                "en": "The white walls reflect the sun's warmth; make this your lunch break spot, as the chapel protects well against the cool northern winds."
+                "en": "The white walls reflect the sun's warmth; make this your lunch break spot, as the chapel protects well against the cool northern winds.",
+                "el": "Οι λευκοί τοίχοι αντανακλούν τη ζεστασιά του ήλιου· κάντε εδώ το μεσημεριανό σας διάλειμμα, καθώς το εκκλησάκι προστατεύει καλά από τους δροσερούς βόρειους ανέμους."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Lia",
                 "hu": "Lia",
                 "ro": "Lia",
-                "en": "Lia"
+                "en": "Lia",
+                "el": "Λιά"
               },
               "tip_5lang": {
                 "de": "Ein Ort der totalen Ruhe; genießen Sie die klare Luft und den Blick auf das tiefblaue Meer, bevor die Sonne tiefer sinkt und es kühler wird.",
                 "hu": "A teljes nyugalom helyszíne; élvezze a tiszta levegőt és a mélykék tengert, mielőtt a nap lejjebb süllyed és hűvösebbre fordul az idő.",
                 "ro": "Un loc de liniște totală; bucurați-vă de aerul curat și de marea de un albastru profund înainte ca soarele să apună și să se răcească.",
-                "en": "A place of total peace; enjoy the crisp air and the deep blue sea views before the sun starts to drop and the temperature falls."
+                "en": "A place of total peace; enjoy the crisp air and the deep blue sea views before the sun starts to drop and the temperature falls.",
+                "el": "Ένας χώρος απόλυτης γαλήνης· απολαύστε τον καθαρό αέρα και τη βαθιά μπλε θέα στη θάλασσα πριν αρχίσει να πέφτει ο ήλιος και η θερμοκρασία να μειωθεί."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Livadhi-Bucht",
                 "hu": "Livadhi-öböl",
                 "ro": "Golful Livadhi",
-                "en": "Livadhi Bay"
+                "en": "Livadhi Bay",
+                "el": "Όρμος Λιβάδη"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihre Tour rechtzeitig vor der Dämmerung; die Hafenlichter bieten eine schöne Kulisse für den Abschluss Ihres Winterausflugs.",
                 "hu": "Fejezze be a túrát időben a szürkület előtt; a kikötő fényei csodás hátteret adnak a téli kerékpáros kirándulás lezárásához.",
                 "ro": "Încheiați turul la timp înainte de amurg; luminile portului oferă un decor superb pentru finalul excursiei de iarnă cu bicicleta.",
-                "en": "Finish your tour well before twilight; the harbor lights provide a beautiful backdrop for the end of your winter cycling adventure."
+                "en": "Finish your tour well before twilight; the harbor lights provide a beautiful backdrop for the end of your winter cycling adventure.",
+                "el": "Ολοκληρώστε την περιήγησή σας πολύ πριν από το σούρουπο· τα φώτα του λιμανιού δημιουργούν υπέροχο φόντο για το τέλος της χειμερινής σας ποδηλατικής περιπέτειας."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Burg von Serifos",
             "hu": "Serifos vára",
             "ro": "Castelul din Serifos",
-            "en": "Castle of Serifos"
+            "en": "Castle of Serifos",
+            "el": "Κάστρο της Σερίφου"
           },
           "coords": [
             24.507166,
@@ -673,7 +746,8 @@
             "de": "Erkunden Sie die Ruinen dieser venezianischen Festung mit Panoramablick über die Ägäis, aber tragen Sie festes Schuhwerk, um die steilen, unebenen Steinwege sicher zu bewältigen.",
             "hu": "Fedezze fel e velencei erőd romjait, amely panorámás kilátást nyújt az Égei-tengerre, de viseljen masszív cipőt a meredek, egyenetlen kőösvények biztonságos bejárásához.",
             "ro": "Explorați ruinele acestei fortărețe venețiene cu vederi panoramice asupra Mării Egee, dar purtați încălțăminte robustă pentru a naviga în siguranță pe cărările abrupte de piatră.",
-            "en": "Explore the ruins of this Venetian fortress with panoramic views over the Aegean, but wear sturdy shoes to safely navigate the steep, uneven stone pathways."
+            "en": "Explore the ruins of this Venetian fortress with panoramic views over the Aegean, but wear sturdy shoes to safely navigate the steep, uneven stone pathways.",
+            "el": "Εξερευνήστε τα ερείπια αυτού του ενετικού φρουρίου με πανοραμική θέα στο Αιγαίο, αλλά φορέστε γερά παπούτσια για να κινηθείτε με ασφάλεια στα απότομα, ανώμαλα λιθόστρωτα μονοπάτια."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Ae Giannes",
             "hu": "Ae Giannes",
             "ro": "Ae Giannes",
-            "en": "Ae Giannes"
+            "en": "Ae Giannes",
+            "el": "Αϊ Γιάννες"
           },
           "coords": [
             24.522949,
@@ -696,7 +771,8 @@
             "de": "Entdecken Sie die unberührte Schönheit dieses ruhigen Küstenabschnitts, der für seine raue Landschaft bekannt ist, und bereiten Sie sich auf einen holprigen Feldweg vor, indem Sie vorsichtig fahren.",
             "hu": "Fedezze fel ennek a zord tájáról ismert, csendes tengerparti szakasznak a békés, érintetlen szépségét, és lassan, óvatosan vezetve készüljön fel a göröngyös földúton való megközelítésre.",
             "ro": "Descoperiți frumusețea neatinsă a acestei porțiuni de coastă liniștite, cunoscută pentru peisajul său accidentat, și pregătiți-vă pentru un drum de pământ accidentat conducând încet.",
-            "en": "Discover the serene, untouched beauty of this quiet coastal stretch known for its rugged landscape, and prepare for a bumpy dirt road approach by driving slowly and carefully."
+            "en": "Discover the serene, untouched beauty of this quiet coastal stretch known for its rugged landscape, and prepare for a bumpy dirt road approach by driving slowly and carefully.",
+            "el": "Ανακαλύψτε την ήρεμη, ανέγγιχτη ομορφιά αυτής της ήσυχης παραλιακής ακτής που φημίζεται για το τραχύ τοπίο· ετοιμαστείτε για ανώμαλη προσέγγιση σε χωματόδρομο οδηγώντας αργά και προσεκτικά."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Psili Ammos-Bucht",
             "hu": "Psili Ammos-öböl",
             "ro": "Golful Psili Ammos",
-            "en": "Psili Ammos Bay"
+            "en": "Psili Ammos Bay",
+            "el": "Όρμος Ψιλή Άμμος"
           },
           "coords": [
             24.526519,
@@ -719,7 +796,8 @@
             "de": "Fotografieren Sie den faszinierenden Kontrast zwischen dem weißen Sand und dem tiefblauen Meer der Bucht und besuchen Sie sie am frühen Morgen für das ruhigste, klarste Wasser.",
             "hu": "Készítsen lenyűgöző fényképeket az öböl fehér homokja és a mélykék tenger közötti feltűnő kontrasztról, és látogasson el kora reggel a legnyugodtabb, legtisztább vízért.",
             "ro": "Capturați fotografii uimitoare ale contrastului frapant al golfului dintre nisipul alb și marea de un albastru intens și vizitați dimineața devreme pentru cea mai calmă apă.",
-            "en": "Capture stunning photographs of the bay's striking contrast between the white sand and deep blue sea, and visit in the early morning for the calmest, clearest water."
+            "en": "Capture stunning photographs of the bay's striking contrast between the white sand and deep blue sea, and visit in the early morning for the calmest, clearest water.",
+            "el": "Αιχμαλωτίστε εντυπωσιακές φωτογραφίες της έντονης αντίθεσης μεταξύ της λευκής άμμου και της βαθιάς μπλε θάλασσας· επισκεφθείτε νωρίς το πρωί για τα πιο ήρεμα, καθαρά νερά."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Agios Sostis",
             "hu": "Agios Sostis",
             "ro": "Agios Sostis",
-            "en": "Agios Sostis"
+            "en": "Agios Sostis",
+            "el": "Άγιος Σώστης"
           },
           "coords": [
             24.532062,
@@ -742,7 +821,8 @@
             "de": "Bewundern Sie die malerische kleine Kirche am Rande der felsigen Halbinsel, die zwei wunderschöne Buchten trennt, was es zu einem idealen Ort zum Schnorcheln an den Riffen macht.",
             "hu": "Csodálja meg a sziklás félsziget szélén álló, két gyönyörű öblöt elválasztó festői kis templomot, amely ideális hely a védett zátonyok körüli sznorkelezéshez.",
             "ro": "Admirați bisericuța pitorească așezată pe marginea peninsulei stâncoase care împarte două golfuri frumoase, fiind un loc ideal pentru snorkeling în jurul recifelor adăpostite.",
-            "en": "Admire the picturesque little church perched on the edge of the rocky peninsula dividing two beautiful coves, making it an ideal spot for snorkeling around the sheltered reefs."
+            "en": "Admire the picturesque little church perched on the edge of the rocky peninsula dividing two beautiful coves, making it an ideal spot for snorkeling around the sheltered reefs.",
+            "el": "Θαυμάστε το γραφικό εκκλησάκι που κορυφώνει την άκρη του βραχώδους ακρωτηρίου που χωρίζει δύο όμορφους όρμους, καθιστώντας το ιδανικό σημείο για καταδύσεις με αναπνευστήρα γύρω από τους προστατευμένους ύφαλους."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Lia",
             "hu": "Lia",
             "ro": "Lia",
-            "en": "Lia"
+            "en": "Lia",
+            "el": "Λιά"
           },
           "coords": [
             24.531396,
@@ -765,7 +846,8 @@
             "de": "Entfliehen Sie den Massen in dieser abgelegenen Kiesel- und Sandbucht mit markanten Felsformationen und packen Sie unbedingt einen Regenschirm ein, da es keinen natürlichen Schatten gibt.",
             "hu": "Meneküljön el a tömeg elől ebbe az eldugott, lenyűgöző sziklaalakzatokkal rendelkező kavicsos-homokos öbölbe, és feltétlenül vigyen magával napernyőt, mivel egyáltalán nincs természetes árnyék.",
             "ro": "Scăpați de aglomerație în acest golf retras cu pietriș și nisip, cu formațiuni stâncoase izbitoare, și asigurați-vă că luați o umbrelă, deoarece nu veți găsi umbră naturală.",
-            "en": "Escape the crowds at this secluded, pebble-and-sand cove with striking rock formations, and ensure you pack an umbrella since there is absolutely no natural shade to be found."
+            "en": "Escape the crowds at this secluded, pebble-and-sand cove with striking rock formations, and ensure you pack an umbrella since there is absolutely no natural shade to be found.",
+            "el": "Δραπετεύστε από τα πλήθη σε αυτόν τον απομονωμένο κόλπο με βότσαλο και άμμο και εντυπωσιακούς βραχώδεις σχηματισμούς· φροντίστε να έχετε ομπρέλα καθώς δεν υπάρχει απολύτως φυσική σκιά."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Avlomonas",
             "hu": "Avlomonas",
             "ro": "Avlomonas",
-            "en": "Avlomonas"
+            "en": "Avlomonas",
+            "el": "Αυλομόνας"
           },
           "coords": [
             24.518025,
@@ -788,7 +871,8 @@
             "de": "Entspannen Sie sich auf dem goldenen Sand dieses langen, familienfreundlichen Strandes in der Nähe des Hafens und sichern Sie sich frühzeitig eine Sonnenliege mit natürlichem Schatten der Tamarisken.",
             "hu": "Pihenjen a kikötőhöz közeli hosszú, családbarát strand aranyhomokján, és foglaljon korán napágyat, hogy jó helyet biztosítson magának a tamariszkuszfák természetes árnyékában.",
             "ro": "Relaxați-vă pe nisipul auriu al acestei plaje lungi, prietenoase cu familiile, lângă port, și ocupați un șezlong devreme pentru a vă asigura un loc excelent cu umbră naturală de la arborii de tamarix.",
-            "en": "Relax on the golden sands of this long, family-friendly beach near the port, and grab a sunbed early to secure a prime spot with natural shade from the tamarisk trees."
+            "en": "Relax on the golden sands of this long, family-friendly beach near the port, and grab a sunbed early to secure a prime spot with natural shade from the tamarisk trees.",
+            "el": "Χαλαρώστε στις χρυσές αμμουδιές αυτής της μακράς, κατάλληλης για οικογένειες παραλίας κοντά στο λιμάνι και πάρτε νωρίς ξαπλώστρα για να εξασφαλίσετε προνομιακό σημείο με φυσική σκιά από τα αλμυρίκια."
           }
         },
         {
@@ -796,7 +880,8 @@
             "de": "Livadakia",
             "hu": "Livadakia",
             "ro": "Livadakia",
-            "en": "Livadakia"
+            "en": "Livadakia",
+            "el": "Λιβαδάκια"
           },
           "coords": [
             24.514915,
@@ -811,7 +896,8 @@
             "de": "Genießen Sie das kristallklare Wasser und die lebhafte Atmosphäre dieses beliebten, von Bäumen gesäumten Strandes, an dem Sie Wassersportgeräte für einen aktiven Nachmittag mieten können.",
             "hu": "Élvezze a kristálytiszta vizet és a fával szegélyezett népszerű strand pezsgő hangulatát, ahol vízi sporteszközöket is bérelhet egy aktív délutánhoz a napon.",
             "ro": "Bucurați-vă de apele cristaline și de atmosfera vibrantă a acestei plaje populare mărginite de copaci, de unde puteți închiria echipamente pentru sporturi nautice.",
-            "en": "Enjoy the crystal-clear waters and vibrant atmosphere of this popular tree-fringed beach, where you can rent water sports equipment for an active afternoon in the sun."
+            "en": "Enjoy the crystal-clear waters and vibrant atmosphere of this popular tree-fringed beach, where you can rent water sports equipment for an active afternoon in the sun.",
+            "el": "Απολαύστε τα κρυστάλλινα νερά και τη ζωντανή ατμόσφαιρα αυτής της δημοφιλούς, δεντροσκέπαστης παραλίας, όπου μπορείτε να νοικιάσετε εξοπλισμό θαλάσσιων σπορ για ένα δραστήριο απόγευμα στον ήλιο."
           }
         }
       ],
@@ -819,7 +905,8 @@
         "de": "Morning: Beginnen Sie Ihren Roadtrip an der majestätischen Burg von Serifos hoch oben in der Chora. Fahren Sie von dort nach Norden zum abgelegenen Ae Giannes für einen friedlichen Morgen in der rauen Landschaft.\nMidday: Navigieren Sie entlang der malerischen Ostküste und halten Sie an der Psili Ammos Bay und Agios Sostis. Diese Strände bieten weichen Sand, historischen Charme und idyllische Bedingungen.\nAfternoon: Fahren Sie weiter nach Süden und halten Sie am ruhigen Lia-Strand, bevor Sie zum Sand von Avlomonas aufbrechen. Genießen Sie die Küstenatmosphäre und gönnen Sie sich einen Snack am Meer.\nEvening: Beenden Sie Ihre Inselrundfahrt in Livadakia. Parken Sie das Auto und entspannen Sie sich bei einem spektakulären Sonnenuntergang in der Ägäis, gefolgt von einem lebhaften Abendessen.",
         "hu": "Morning: Kezdje autós utazását a fenséges Serifos várnál, magasan a Chora-ban. Innen vezessen északra az eldugott Ae Giannes-be, és töltsön el egy békés reggelt a sziget zord tájainak megcsodálásával.\nMidday: Navigáljon a festői keleti part mentén, megállva a Psili Ammos-öbölben és Agios Sostisban. Ezek a szomszédos strandok puha homokot, történelmi bájat és idilli környezetet kínálnak a fürdéshez.\nAfternoon: Vezessen tovább dél felé, álljon meg a nyugodt Lia strandon, mielőtt az Avlomonas nyüzsgő homokjához indulna. Élvezze a kontrasztos tengerparti hangulatot, és egyen egy finom falatot.\nEvening: Fejezze be a szigeti autózást Livadakiában. Parkolja le az autót, és lazítson egy látványos égei-tengeri naplemente mellett, amely zökkenőmentesen megy át egy vidám, tengerparti vacsorába.",
         "ro": "Morning: Începeți călătoria cu mașina la maiestuosul Castel din Serifos. De acolo, conduceți spre nord către izolatul Ae Giannes pentru o dimineață liniștită, absorbind peisajele accidentate ale insulei.\nMidday: Navigați de-a lungul coastei de est pitorești, oprindu-vă la Golful Psili Ammos și Agios Sostis. Aceste plaje vecine oferă nisip moale, farmec istoric și un cadru idilic pentru o baie la prânz.\nAfternoon: Continuați să conduceți spre sud, făcând o oprire la plaja liniștită Lia înainte de a vă îndrepta spre nisipurile din Avlomonas. Bucurați-vă de vibrațiile de coastă contrastante și luați o gustare.\nEvening: Încheiați-vă plimbarea cu mașina pe insulă la Livadakia. Parcați mașina și relaxați-vă cu un apus spectaculos în Marea Egee, trecând lin într-o seară plină de viață, luând masa la malul mării.",
-        "en": "Morning: Start your road trip at the majestic Castle of Serifos high up in Chora. From there, drive north to the secluded Ae Giannes for a peaceful morning absorbing the rugged, dramatic island landscapes.\nMidday: Navigate your way down the scenic eastern coastline, stopping at Psili Ammos Bay and Agios Sostis. These neighboring beaches offer soft sand, historic charm, and idyllic settings for a midday swim.\nAfternoon: Continue driving south, making a stop at the tranquil Lia beach before heading to the vibrant sands of Avlomonas. Enjoy the contrasting coastal vibes and maybe grab a quick seaside snack.\nEvening: Conclude your ultimate island drive at Livadakia. Park the car and unwind with a spectacular Aegean sunset, transitioning smoothly into a lively evening of dining and seaside relaxation."
+        "en": "Morning: Start your road trip at the majestic Castle of Serifos high up in Chora. From there, drive north to the secluded Ae Giannes for a peaceful morning absorbing the rugged, dramatic island landscapes.\nMidday: Navigate your way down the scenic eastern coastline, stopping at Psili Ammos Bay and Agios Sostis. These neighboring beaches offer soft sand, historic charm, and idyllic settings for a midday swim.\nAfternoon: Continue driving south, making a stop at the tranquil Lia beach before heading to the vibrant sands of Avlomonas. Enjoy the contrasting coastal vibes and maybe grab a quick seaside snack.\nEvening: Conclude your ultimate island drive at Livadakia. Park the car and unwind with a spectacular Aegean sunset, transitioning smoothly into a lively evening of dining and seaside relaxation.",
+        "el": "Πρωί: Ξεκινήστε την εκδρομή σας στο δρόμο από το μεγαλόπρεπο Κάστρο της Σερίφου ψηλά στη Χώρα. Από εκεί, οδηγήστε βόρεια προς τον απομονωμένο Αϊ Γιάννες για ένα ήρεμο πρωινό απορροφώντας τα τραχιά, δραματικά τοπία του νησιού. Μεσημέρι: Κατηφορίστε την πανέμορφη ανατολική ακτογραμμή, σταματώντας στον Όρμο Ψιλή Άμμος και τον Άγιο Σώστη. Αυτές οι γειτονικές παραλίες προσφέρουν απαλή άμμο, ιστορική γοητεία και ειδυλλιακά σημεία για μεσημεριανό μπάνιο. Απόγευμα: Συνεχίστε οδηγώντας νότια, κάνοντας στάση στην ήσυχη παραλία Λιά πριν κατευθυνθείτε στις ζωηρές αμμουδιές του Αυλομόνα. Απολαύστε τις αντιθέσεις των παραλιών και ίσως πάρτε ένα γρήγορο παραθαλάσσιο σνακ. Βράδυ: Ολοκληρώστε την απόλυτη νησιωτική διαδρομή στα Λιβαδάκια. Σταθμεύστε και χαλαρώστε με ένα θεαματικό αιγαιοπελαγίτικο ηλιοβασίλεμα, περνώντας ομαλά σε μια ζωντανή βραδιά με φαγητό και χαλάρωση δίπλα στη θάλασσα."
       },
       "variants": {
         "rainy": {
@@ -827,7 +914,8 @@
             "de": "Morgen: Panoramafahrt zur Burg, Aussicht bequem aus dem Auto genießen. Mittag: Fahrt zu den Nordbuchten; der Regen macht die Landschaft grün und lebendig. Nachmittag: Küstentour mit Stopps an geschützten Aussichtspunkten. Abend: Gemütlicher Abschluss im Hafen von Livadhi, Parken direkt vor der Taverne.",
             "hu": "Reggel: Panorámás autózás a várig, a kilátást kényelmesen, a kocsiból élvezhetjük. Délben: Az északi öblök felé vesszük az irányt; az esőben élénkzöld a táj. Délután: Parti autózás fedett kilátópontokkal. Este: Kellemes napzárás Livadhi kikötőjében, parkolás közvetlenül a tavernák mellett.",
             "ro": "Dimineața: Traseu panoramic spre castel, admirând vederea din confortul mașinii. Prânz: Drum spre golful de nord; ploaia face peisajul să pară verde și viu. După-amiază: Tur pe coastă cu opriri în puncte de observație protejate. Seara: Final relaxat în portul Livadhi, cu parcare lângă tavernă.",
-            "en": "Morning: Scenic drive to the castle; enjoy the panoramic views comfortably from your car. Noon: Head to the northern bays; the rain makes the landscape look lush and green. Afternoon: Coastal tour with stops at sheltered viewpoints. Evening: Relaxed finish in Livadhi port, parking right by the taverns."
+            "en": "Morning: Scenic drive to the castle; enjoy the panoramic views comfortably from your car. Noon: Head to the northern bays; the rain makes the landscape look lush and green. Afternoon: Coastal tour with stops at sheltered viewpoints. Evening: Relaxed finish in Livadhi port, parking right by the taverns.",
+            "el": "Πρωί: Σκηνική οδήγηση προς το κάστρο· απολαύστε την πανοραμική θέα άνετα από το αυτοκίνητό σας. Μεσημέρι: Κατευθυνθείτε προς τους βόρειους όρμους· η βροχή κάνει το τοπίο να φαίνεται πλούσιο και καταπράσινο. Απόγευμα: Παράκτια διαδρομή με στάσεις σε προστατευμένα σημεία θέας. Βράδυ: Χαλαρή κατάληξη στο λιμάνι του Λιβαδίου, παρκάροντας δίπλα στις ταβέρνες."
           },
           "stops": [
             {
@@ -835,13 +923,15 @@
                 "de": "Burg von Serifos",
                 "hu": "Serifos vára",
                 "ro": "Castelul din Serifos",
-                "en": "Castle of Serifos"
+                "en": "Castle of Serifos",
+                "el": "Κάστρο της Σερίφου"
               },
               "tip_5lang": {
                 "de": "Parken Sie auf dem oberen Parkplatz, um den Fußweg im Regen zu minimieren; die Aussicht auf die Küste ist bei Gewitterstimmung spektakulär.",
                 "hu": "Parkoljon a felső parkolóban, hogy lerövidítse az esőben megtett sétát; a partvonal látványa viharos időben egészen elképesztő a magasból.",
                 "ro": "Parcați în parcarea de sus pentru a minimiza mersul prin ploaie; vederea asupra coastei este spectaculoasă în timpul unei furtuni trecătoare.",
-                "en": "Park in the upper lot to minimize walking in the rain; the view of the coastline is spectacular during a passing storm from this height."
+                "en": "Park in the upper lot to minimize walking in the rain; the view of the coastline is spectacular during a passing storm from this height.",
+                "el": "Παρκάρετε στο ανώτερο πάρκινγκ για να μειώσετε το περπάτημα στη βροχή· η θέα της ακτογραμμής είναι εντυπωσιακή κατά τη διάρκεια καταιγίδας από αυτό το ύψος."
               }
             },
             {
@@ -849,13 +939,15 @@
                 "de": "Ae Giannes",
                 "hu": "Ae Giannes",
                 "ro": "Ae Giannes",
-                "en": "Ae Giannes"
+                "en": "Ae Giannes",
+                "el": "Αϊ Γιάννες"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie die Brandung aus der Sicherheit Ihres Fahrzeugs; die Nordküste wirkt bei Regen besonders rau und beeindruckend.",
                 "hu": "Figyelje a hullámtörést a biztonságos autóból; az északi partvidék esőben különösen zordnak és lenyűgözőnek hat az ablakon keresztül.",
                 "ro": "Observați valurile care se sparg de țărm din siguranța mașinii; coasta de nord pare extrem de aspră și impresionantă pe timp de ploaie.",
-                "en": "Watch the crashing waves from the safety of your vehicle; the northern coast looks exceptionally rugged and impressive through the rain."
+                "en": "Watch the crashing waves from the safety of your vehicle; the northern coast looks exceptionally rugged and impressive through the rain.",
+                "el": "Παρακολουθήστε τα σπασμένα κύματα από την ασφάλεια του οχήματός σας· η βόρεια ακτή φαίνεται ιδιαίτερα τραχεία και εντυπωσιακή μέσα στη βροχή."
               }
             },
             {
@@ -863,13 +955,15 @@
                 "de": "Psili Ammos-Bucht",
                 "hu": "Psili Ammos-öböl",
                 "ro": "Golful Psili Ammos",
-                "en": "Psili Ammos Bay"
+                "en": "Psili Ammos Bay",
+                "el": "Όρμος Ψιλή Άμμος"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Wagen als Basis für kurze Erkundungen am Strand; der Regen bringt die Farben der Kieselsteine besonders schön zur Geltung.",
                 "hu": "Használja az autót bázisnak a rövid tengerparti sétákhoz; az eső kiemeli a kavicsok színeit, amelyek ilyenkor sokkal élénkebbek a parton.",
                 "ro": "Folosiți mașina ca bază pentru scurte explorări pe plajă; ploaia scoate în evidență culorile pietrelor care par mult mai vii pe mal.",
-                "en": "Use your car as a base for short explorations on the beach; the rain brings out the vibrant colors of the pebbles along the shoreline."
+                "en": "Use your car as a base for short explorations on the beach; the rain brings out the vibrant colors of the pebbles along the shoreline.",
+                "el": "Χρησιμοποιήστε το αυτοκίνητό σας ως βάση για σύντομες εξερευνήσεις στην παραλία· η βροχή αναδεικνύει τα ζωηρά χρώματα των βότσαλων κατά μήκος της ακτής."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Agios Sostis",
                 "hu": "Agios Sostis",
                 "ro": "Agios Sostis",
-                "en": "Agios Sostis"
+                "en": "Agios Sostis",
+                "el": "Άγιος Σώστης"
               },
               "tip_5lang": {
                 "de": "Ein schneller Lauf zur Kapelle lohnt sich; im Inneren finden Sie absolute Stille, während draußen der Regen auf das Dach prasselt.",
                 "hu": "Egy gyors futás a kápolnáig megéri; odabent teljes csendet talál, miközben kint az eső dobol a tetőn, ami különleges hangulatot áraszt.",
                 "ro": "O scurtă fugă până la capelă merită efortul; în interior veți găsi liniște deplină în timp ce ploaia bate ritmic în acoperișul vechi.",
-                "en": "A quick dash to the chapel is worth it; inside you will find absolute silence while the rain drums rhythmically on the roof outside."
+                "en": "A quick dash to the chapel is worth it; inside you will find absolute silence while the rain drums rhythmically on the roof outside.",
+                "el": "Μια γρήγορη έξοδος προς το εκκλησάκι αξίζει· μέσα θα βρείτε απόλυτη σιωπή ενώ η βροχή χτυπά ρυθμικά στη σκεπή έξω."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Lia",
                 "hu": "Lia",
                 "ro": "Lia",
-                "en": "Lia"
+                "en": "Lia",
+                "el": "Λιά"
               },
               "tip_5lang": {
                 "de": "Vermeiden Sie es, auf unbefestigten Seitenstreifen zu parken; bleiben Sie auf dem Asphalt, um bei aufgeweichtem Boden nicht steckenzubleiben.",
                 "hu": "Kerülje a parkolást a burkolatlan útpadkán; maradjon az aszfalton, hogy ne akadjon el a felázott talajon a távoli part közelében.",
                 "ro": "Evitați parcarea pe marginile neasfaltate ale drumului; rămâneți pe asfalt pentru a nu rămâne blocat în solul moale din apropierea plajei.",
-                "en": "Avoid parking on unpaved road shoulders; stay on the asphalt to ensure you don't get stuck in the soft soil near the remote beach."
+                "en": "Avoid parking on unpaved road shoulders; stay on the asphalt to ensure you don't get stuck in the soft soil near the remote beach.",
+                "el": "Αποφύγετε το παρκάρισμα στους χωμάτινους ώμους του δρόμου· μείνετε στην άσφαλτο για να μην κολλήσετε στο μαλακό έδαφος κοντά στην απομακρυσμένη παραλία."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Avlomonas",
                 "hu": "Avlomonas",
                 "ro": "Avlomonas",
-                "en": "Avlomonas"
+                "en": "Avlomonas",
+                "el": "Αυλομόνας"
               },
               "tip_5lang": {
                 "de": "Fahren Sie langsam entlang der Hafenstraße; die Spiegelungen der Lichter in den Pfützen bieten tolle Motive für Fotos aus dem Fenster.",
                 "hu": "Hajtson lassan a kikötői úton; a pocsolyákban tükröződő fények remek fotótémát kínálnak közvetlenül az autó ablakából is.",
                 "ro": "Conduceți încet pe drumul portului; reflexiile luminilor în bălți oferă subiecte foto excelente direct de la geamul mașinii dumneavoastră.",
-                "en": "Drive slowly along the harbor road; the reflections of lights in the puddles offer great photo opportunities from your car window."
+                "en": "Drive slowly along the harbor road; the reflections of lights in the puddles offer great photo opportunities from your car window.",
+                "el": "Οδηγήστε αργά κατά μήκος της λιμενικής οδού· οι αντανακλάσεις των φώτων στις λακκούβες προσφέρουν υπέροχες φωτογραφικές ευκαιρίες από το παράθυρο του αυτοκινήτου."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Livadakia",
                 "hu": "Livadakia",
                 "ro": "Livadakia",
-                "en": "Livadakia"
+                "en": "Livadakia",
+                "el": "Λιβαδάκια"
               },
               "tip_5lang": {
                 "de": "Parken Sie nah am Strandzugang; genießen Sie den Blick auf das Meer bei einer warmen Heizung, bevor Sie zur Unterkunft zurückkehren.",
                 "hu": "Parkoljon közvetlenül a strandbejáratnál; élvezze a tenger látványát a fűtött autóból, mielőtt visszatérne a szállására a nap végén.",
                 "ro": "Parcați aproape de intrarea pe plajă; admirați marea din mașina încălzită înainte de a vă întoarce la cazare la finalul zilei.",
-                "en": "Park close to the beach entrance; enjoy the view of the sea from the heated car before returning to your accommodation for the night."
+                "en": "Park close to the beach entrance; enjoy the view of the sea from the heated car before returning to your accommodation for the night.",
+                "el": "Σταθμεύστε κοντά στην είσοδο της παραλίας· απολαύστε τη θέα της θάλασσας από το ζεστό αυτοκίνητο πριν επιστρέψετε στη διαμονή σας για τη νύχτα."
               }
             }
           ]
@@ -935,7 +1037,8 @@
             "de": "Morgen: Angenehme Fahrt zur Burg bei strahlendem Winterhimmel. Mittag: Ausflug zu den einsamen Nordstränden, die Heizung sorgt für Komfort. Nachmittag: Fotostopps an den Kapellen, um das klare Licht einzufangen. Abend: Sonnenuntergang um 17:00 Uhr; Rückfahrt durch die stimmungsvoll beleuchteten Gassen von Livadhi.",
             "hu": "Reggel: Kellemes autózás a várhoz a szikrázó téli égbolt alatt. Délben: Kirándulás az elhagyatott északi strandokhoz, a fűtés biztosítja a kényelmet. Délután: Fotómegállók a kápolnáknál a tiszta fények kiaknázására. Este: Naplemente 17 órakor; visszautazás Livadhi hangulatosan kivilágított utcáin.",
             "ro": "Dimineața: Călătorie plăcută spre castel sub cerul senin de iarnă. Prânz: Excursie spre plajele pustii din nord, confortul fiind asigurat de căldura din mașină. După-amiază: Opriri foto la capele pentru a surprinde lumina clară. Seara: Apus la ora 17:00; retur prin străzile iluminate din Livadhi.",
-            "en": "Morning: Pleasant drive to the castle under a bright winter sky. Noon: Trip to the deserted northern beaches; the car heater ensures total comfort. Afternoon: Photo stops at chapels to capture the clear, crisp light. Evening: Sunset at 17:00; drive back through the atmospherically lit streets of Livadhi."
+            "en": "Morning: Pleasant drive to the castle under a bright winter sky. Noon: Trip to the deserted northern beaches; the car heater ensures total comfort. Afternoon: Photo stops at chapels to capture the clear, crisp light. Evening: Sunset at 17:00; drive back through the atmospherically lit streets of Livadhi.",
+            "el": "Πρωί: Ευχάριστη οδήγηση προς το κάστρο κάτω από έναν φωτεινό χειμερινό ουρανό. Μεσημέρι: Εκδρομή στις έρημες βόρειες παραλίες· το καλοριφέρ του αυτοκινήτου εξασφαλίζει πλήρη άνεση. Απόγευμα: Στάσεις για φωτογραφίες σε εκκλησάκια για να απαθανατίσετε το καθαρό, δροσερό φως. Βράδυ: Ηλιοβασίλεμα στις 17:00· επιστροφή μέσα από τα ατμοσφαιρικά φωτισμένα σοκάκια του Λιβαδίου."
           },
           "stops": [
             {
@@ -943,13 +1046,15 @@
                 "de": "Burg von Serifos",
                 "hu": "Serifos vára",
                 "ro": "Castelul din Serifos",
-                "en": "Castle of Serifos"
+                "en": "Castle of Serifos",
+                "el": "Κάστρο της Σερίφου"
               },
               "tip_5lang": {
                 "de": "Der Parkplatz bietet eine tolle Aussicht ohne Anstrengung; ideal, um die weite Winterlandschaft der Kykladen bequem zu überblicken.",
                 "hu": "A parkolóból megerőltetés nélkül élvezhető a kilátás; ideális hely a téli Kükládok tájképének megtekintéséhez a fűtött utastér mellől.",
                 "ro": "Parcarea oferă o vedere excelentă fără efort; locul este ideal pentru a admira peisajul de iarnă al Cicladelor din confortul mașinii.",
-                "en": "The parking lot offers a great view without effort; ideal for overlooking the vast winter landscape of the Cyclades in total comfort."
+                "en": "The parking lot offers a great view without effort; ideal for overlooking the vast winter landscape of the Cyclades in total comfort.",
+                "el": "Το πάρκινγκ προσφέρει υπέροχη θέα χωρίς κόπο· ιδανικό για να ξεκουραστείτε και να υπεραντικρίσετε το απέραντο χειμερινό τοπίο των Κυκλάδων με απόλυτη άνεση."
               }
             },
             {
@@ -957,13 +1062,15 @@
                 "de": "Ae Giannes",
                 "hu": "Ae Giannes",
                 "ro": "Ae Giannes",
-                "en": "Ae Giannes"
+                "en": "Ae Giannes",
+                "el": "Αϊ Γιάννες"
               },
               "tip_5lang": {
                 "de": "Die Straße nach Norden ist im Winter fast leer; genießen Sie die wilde Schönheit der Küste, ohne auf Gegenverkehr achten zu müssen.",
                 "hu": "Az északra vezető út télen szinte teljesen üres; élvezze a partvidék vad szépségét anélkül, hogy a szembejövő forgalommal kellene törődnie.",
                 "ro": "Drumul spre nord este aproape pustiu iarna; bucurați-vă de frumusețea sălbatică a coastei fără a vă face griji de traficul din sens opus.",
-                "en": "The road to the north is almost empty in winter; enjoy the wild beauty of the coast without worrying about oncoming traffic today."
+                "en": "The road to the north is almost empty in winter; enjoy the wild beauty of the coast without worrying about oncoming traffic today.",
+                "el": "Ο δρόμος προς το βορρά είναι σχεδόν άδειος τον χειμώνα· απολαύστε την άγρια ομορφιά της ακτής χωρίς να ανησυχείτε για την κυκλοφορία σήμερα."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Psili Ammos-Bucht",
                 "hu": "Psili Ammos-öböl",
                 "ro": "Golful Psili Ammos",
-                "en": "Psili Ammos Bay"
+                "en": "Psili Ammos Bay",
+                "el": "Όρμος Ψιλή Άμμος"
               },
               "tip_5lang": {
                 "de": "Perfekt für ein Picknick im Auto mit Meerblick; die Ruhe der Nebensaison macht diesen Ort zu einer Oase der Entspannung und Stille.",
                 "hu": "Tökéletes helyszín egy autós piknikhez tengeri kilátással; a holtszezon csendje igazi relaxációs oázissá varázsolja ezt az öblöt télen.",
                 "ro": "Locul este perfect pentru un picnic în mașină cu vedere la mare; liniștea extrasezonului transformă golful într-o oază de relaxare totală.",
-                "en": "Perfect for a picnic in the car with a sea view; the silence of the off-season turns this bay into an oasis of relaxation and peace."
+                "en": "Perfect for a picnic in the car with a sea view; the silence of the off-season turns this bay into an oasis of relaxation and peace.",
+                "el": "Ιδανικό για πικνίκ μέσα στο αυτοκίνητο με θέα στη θάλασσα· η σιωπή της εκτός σεζόν μετατρέπει αυτόν τον όρμο σε όαση χαλάρωσης και ηρεμίας."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Agios Sostis",
                 "hu": "Agios Sostis",
                 "ro": "Agios Sostis",
-                "en": "Agios Sostis"
+                "en": "Agios Sostis",
+                "el": "Άγιος Σώστης"
               },
               "tip_5lang": {
                 "de": "Das klare Winterlicht lässt die Kapelle strahlen; nutzen Sie den kurzen Weg vom Auto für ein schnelles, ikonisches Urlaubsfoto.",
                 "hu": "A tiszta téli fényben szinte ragyog a kápolna; használja ki a rövid sétát az autótól egy gyors, ikonikus ünnepi fotó elkészítéséhez.",
                 "ro": "Lumina clară de iarnă face capela să strălucească; profitați de drumul scurt de la mașină pentru o fotografie iconică de vacanță.",
-                "en": "The clear winter light makes the chapel glow; take advantage of the short walk from the car for a quick, iconic holiday photograph."
+                "en": "The clear winter light makes the chapel glow; take advantage of the short walk from the car for a quick, iconic holiday photograph.",
+                "el": "Το καθαρό χειμερινό φως κάνει το εκκλησάκι να λάμπει· εκμεταλλευτείτε τον σύντομο περίπατο από το αυτοκίνητο για μια γρήγορη, εμβληματική φωτογραφία διακοπών."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Lia",
                 "hu": "Lia",
                 "ro": "Lia",
-                "en": "Lia"
+                "en": "Lia",
+                "el": "Λιά"
               },
               "tip_5lang": {
                 "de": "Ein verstecktes Juwel in der Wintersonne; die flach stehende Sonne taucht die Bucht in ein sanftes Licht, ideal für ruhige Momente.",
                 "hu": "Rejtett drágakő a téli napsütésben; az alacsonyan járó nap lágy fénybe vonja az öblöt, ami ideális a csendes elvonuláshoz a nap végén.",
                 "ro": "O bijuterie ascunsă în soarele iernii; soarele jos inundă golful într-o lumină blândă, ideală pentru momente de liniște deplină.",
-                "en": "A hidden gem in the winter sun; the low sun bathes the bay in a soft light, ideal for quiet moments before the early evening sets in."
+                "en": "A hidden gem in the winter sun; the low sun bathes the bay in a soft light, ideal for quiet moments before the early evening sets in.",
+                "el": "Ένας κρυμμένος θησαυρός στον χειμερινό ήλιο· ο χαμηλός ήλιος λούζει τον όρμο με απαλό φως, ιδανικό για ήσυχες στιγμές πριν πέσει νωρίς το βράδυ."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Avlomonas",
                 "hu": "Avlomonas",
                 "ro": "Avlomonas",
-                "en": "Avlomonas"
+                "en": "Avlomonas",
+                "el": "Αυλομόνας"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Fahrt entlang der Hafenpromenade; die winterliche Beleuchtung der Fischerboote erzeugt eine sehr friedliche Atmosphäre.",
                 "hu": "Élvezze az autózást a kikötői sétány mentén; a halászhajók téli megvilágítása rendkívül békés és megnyugtató hangulatot áraszt ilyenkor.",
                 "ro": "Bucurați-vă de plimbarea cu mașina pe faleza portului; iluminarea de iarnă a bărcilor de pescuit creează o atmosferă foarte pașnică.",
-                "en": "Enjoy the drive along the harbor promenade; the winter lighting of the fishing boats creates a very peaceful and serene atmosphere."
+                "en": "Enjoy the drive along the harbor promenade; the winter lighting of the fishing boats creates a very peaceful and serene atmosphere.",
+                "el": "Απολαύστε την οδήγηση κατά μήκος της προκυμαίας· ο χειμερινός φωτισμός των αλιευτικών δημιουργεί πολύ ήρεμη και γαλήνια ατμόσφαιρα."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Livadakia",
                 "hu": "Livadakia",
                 "ro": "Livadakia",
-                "en": "Livadakia"
+                "en": "Livadakia",
+                "el": "Λιβαδάκια"
               },
               "tip_5lang": {
                 "de": "Der ideale Ort für den Sonnenuntergang um 17:00 Uhr; die Farben des Himmels sind im Winter oft intensiver und klarer als im Sommer.",
                 "hu": "Ideális helyszín a 17 órai naplemente megtekintéséhez; az égbolt színei télen gyakran sokkal intenzívebbek és tisztábbak, mint nyáron.",
                 "ro": "Locul ideal pentru a vedea apusul la ora 17:00; culorile cerului sunt adesea mult mai intense și mai clare iarna decât în timpul verii.",
-                "en": "The ideal spot for the 17:00 sunset; the colors of the sky are often much more intense and clear in winter than during the summer."
+                "en": "The ideal spot for the 17:00 sunset; the colors of the sky are often much more intense and clear in winter than during the summer.",
+                "el": "Το ιδανικό σημείο για το ηλιοβασίλεμα στις 17:00· τα χρώματα του ουρανού είναι συχνά πολύ πιο έντονα και καθαρά τον χειμώνα απ’ ό,τι το καλοκαίρι."
               }
             }
           ]

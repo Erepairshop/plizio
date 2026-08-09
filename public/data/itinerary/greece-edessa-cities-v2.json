@@ -21,7 +21,8 @@
             "de": "Varosi-Viertel",
             "hu": "Varosi negyed",
             "ro": "Cartierul Varosi",
-            "en": "Varosi District"
+            "en": "Varosi District",
+            "el": "Γειτονιά Βαρόσι"
           },
           "coords": [
             22.0511,
@@ -36,7 +37,8 @@
             "de": "Verlieren Sie sich in den engen Gassen und bewundern Sie die traditionelle mazedonische Architektur.",
             "hu": "Tévedjen el a szűk sikátorokban, és csodálja meg a hagyományos macedón építészetet.",
             "ro": "Pierdeți-vă pe străduțele înguste și admirați arhitectura tradițională macedoneană.",
-            "en": "Get lost in the narrow alleys and admire the traditional Macedonian architecture."
+            "en": "Get lost in the narrow alleys and admire the traditional Macedonian architecture.",
+            "el": "Χαθείτε στα στενά σοκάκια και θαυμάστε την παραδοσιακή μακεδονική αρχιτεκτονική."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Byzantinische Brücke",
             "hu": "Bizánci híd",
             "ro": "Podul Bizantin",
-            "en": "Byzantine Bridge"
+            "en": "Byzantine Bridge",
+            "el": "Βυζαντινή Γέφυρα"
           },
           "coords": [
             22.052,
@@ -59,7 +62,8 @@
             "de": "Ein großartiger Ort für Fotos, der über den Fluss Edessaios führt, der die Stadt teilt.",
             "hu": "Nagyszerű fotóhelyszín az Edesszaiosz folyó felett, amely kettészeli a várost.",
             "ro": "Un loc excelent pentru fotografii, traversând râul Edessaios care împarte orașul.",
-            "en": "A great spot for photos, crossing the Edessaios river that divides the city."
+            "en": "A great spot for photos, crossing the Edessaios river that divides the city.",
+            "el": "Ένα εξαιρετικό σημείο για φωτογραφίες, διασχίζει τον ποταμό Εδεσσαίο που χωρίζει την πόλη."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Yeni-Moschee",
             "hu": "Yeni-mecset",
             "ro": "Moscheea Yeni",
-            "en": "Yeni Mosque"
+            "en": "Yeni Mosque",
+            "el": "Γενί Τζαμί"
           },
           "coords": [
             22.0495,
@@ -82,7 +87,8 @@
             "de": "Eines der wenigen erhaltenen osmanischen Denkmäler in der Stadt, heute als Museum genutzt.",
             "hu": "A város kevés megmaradt oszmán emlékeinek egyike, ma múzeumként működik.",
             "ro": "Unul dintre puținele monumente otomane rămase în oraș, acum folosit ca muzeu.",
-            "en": "One of the few remaining Ottoman monuments in the city, now used as a museum."
+            "en": "One of the few remaining Ottoman monuments in the city, now used as a museum.",
+            "el": "Ένα από τα λίγα εναπομείναντα οθωμανικά μνημεία στην πόλη, που σήμερα λειτουργεί ως μουσείο."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Uhrturm von Edessa",
             "hu": "Edesszai óratorony",
             "ro": "Turnul cu Ceas din Edessa",
-            "en": "Edessa Clock Tower"
+            "en": "Edessa Clock Tower",
+            "el": "Ρολόι Εδέσσης"
           },
           "coords": [
             22.048,
@@ -105,7 +112,8 @@
             "de": "Ein zentraler Orientierungspunkt, der das historische Zentrum der Stadt markiert.",
             "hu": "Központi tájékozódási pont, amely a város történelmi központját jelöli.",
             "ro": "Un punct de reper central care marchează centrul istoric al orașului.",
-            "en": "A central landmark marking the historic center of the town."
+            "en": "A central landmark marking the historic center of the town.",
+            "el": "Ένα κεντρικό ορόσημο που σηματοδοτεί το ιστορικό κέντρο της πόλης."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Park der Wasserfälle",
             "hu": "Vízesések parkja",
             "ro": "Parcul Cascadei",
-            "en": "Waterfalls Park"
+            "en": "Waterfalls Park",
+            "el": "Πάρκο Καταρρακτών"
           },
           "coords": [
             22.045,
@@ -128,7 +137,8 @@
             "de": "Nehmen Sie sich Zeit für einen entspannten Spaziergang und genießen Sie die üppige Vegetation.",
             "hu": "Szánjon időt egy pihentető sétára, és élvezze a buja növényzetet.",
             "ro": "Luați-vă timp pentru o plimbare relaxantă și bucurați-vă de vegetația luxuriantă.",
-            "en": "Take your time for a relaxing stroll and enjoy the lush greenery."
+            "en": "Take your time for a relaxing stroll and enjoy the lush greenery.",
+            "el": "Πάρτε τον χρόνο σας για έναν χαλαρωτικό περίπατο και απολαύστε την πλούσια βλάστηση."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Wasserfälle von Edessa",
             "hu": "Edesszai vízesések",
             "ro": "Cascadele din Edessa",
-            "en": "Edessa Waterfalls"
+            "en": "Edessa Waterfalls",
+            "el": "Καταρράκτες της Έδεσσας"
           },
           "coords": [
             22.044,
@@ -151,7 +162,8 @@
             "de": "Gehen Sie hinter den größten Wasserfall, Karanos, für eine einzigartige Perspektive.",
             "hu": "Menjen be a legnagyobb vízesés, a Karanos mögé egy egyedülálló perspektíváért.",
             "ro": "Mergeți în spatele celei mai mari cascade, Karanos, pentru o perspectivă unică.",
-            "en": "Walk behind the largest waterfall, Karanos, for a unique perspective."
+            "en": "Walk behind the largest waterfall, Karanos, for a unique perspective.",
+            "el": "Περπατήστε πίσω από τον μεγαλύτερο καταρράκτη, τον Καράνο, για μια μοναδική οπτική γωνία."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Wasser-Freilichtmuseum",
             "hu": "Szabadtéri Vízi Múzeum",
             "ro": "Muzeul Apei în Aer Liber",
-            "en": "Open-Air Water Museum"
+            "en": "Open-Air Water Museum",
+            "el": "Μουσείο Νερού υπαίθριο"
           },
           "coords": [
             22.0435,
@@ -174,7 +187,8 @@
             "de": "Erfahren Sie, wie die Wasserkraft die industrielle Entwicklung von Edessa geprägt hat.",
             "hu": "Ismerje meg, hogyan formálta a vízenergia Edessza ipari fejlődését.",
             "ro": "Aflați cum puterea apei a modelat dezvoltarea industrială a Edessei.",
-            "en": "Learn how water power shaped the industrial development of Edessa."
+            "en": "Learn how water power shaped the industrial development of Edessa.",
+            "el": "Μάθετε πώς η δύναμη του νερού διαμόρφωσε την βιομηχανική ανάπτυξη της Έδεσσας."
           }
         },
         {
@@ -182,7 +196,8 @@
             "de": "Hanf-Fabrik",
             "hu": "Kendergyár",
             "ro": "Fabrica de Cânepă",
-            "en": "Hemp Factory"
+            "en": "Hemp Factory",
+            "el": "Εργοστάσιο Κάνναβης"
           },
           "coords": [
             22.0442,
@@ -197,7 +212,8 @@
             "de": "Ein faszinierender Einblick in die industrielle Vergangenheit der Stadt, oft gibt es Kunstausstellungen.",
             "hu": "Lenyűgöző betekintés a város ipari múltjába, gyakran tartanak itt művészeti kiállításokat.",
             "ro": "O privire fascinantă în trecutul industrial al orașului, adesea găzduiește expoziții de artă.",
-            "en": "A fascinating look into the city's industrial past, often hosts art exhibitions."
+            "en": "A fascinating look into the city's industrial past, often hosts art exhibitions.",
+            "el": "Μια συναρπαστική ματιά στο βιομηχανικό παρελθόν της πόλης· συχνά φιλοξενεί καλλιτεχνικές εκθέσεις."
           }
         }
       ],
@@ -205,7 +221,8 @@
         "de": "Beginnen Sie Ihren Tag im historischen Varosi-Viertel und wandern Sie durch die osmanische und byzantinische Geschichte. Am Mittag erreichen Sie das Herz der Stadt, die berühmten Wasserfälle, wo das Rauschen des Wassers die Luft erfüllt. Verbringen Sie den Nachmittag damit, die Kraft des Wassers im Freilichtmuseum und in der alten Hanffabrik zu erkunden. Beenden Sie den Tag mit einem entspannten Abendessen in einer Taverne mit Blick auf die beleuchteten Wasserfälle.",
         "hu": "Kezdje a napot a történelmi Varosi negyedben, barangolva az oszmán és bizánci történelemben. Délben érje el a város szívét, a híres vízeséseket, ahol a víz zúgása tölti be a levegőt. Töltse a délutánt a víz erejének felfedezésével a Szabadtéri Vízi Múzeumban és a régi Kendergyárban. Zárja a napot egy pihentető vacsorával egy tavernában, kilátással a kivilágított vízesésekre.",
         "ro": "Începeți ziua în cartierul istoric Varosi, plimbându-vă prin istoria otomană și bizantină. La prânz, ajungeți în inima orașului, faimoasele cascade, unde vuietul apei umple aerul. Petreceți după-amiaza explorând puterea apei la Muzeul în Aer Liber și la vechea Fabrică de Cânepă. Încheiați ziua cu o cină relaxantă la o tavernă cu vedere la cascadele iluminate.",
-        "en": "Start your day in the historic Varosi district, wandering through Ottoman and Byzantine history. By midday, reach the heart of the city, the famous waterfalls, where the roar of the water fills the air. Spend the afternoon exploring the power of water at the Open-Air Museum and the old Hemp Factory. End your day with a relaxing dinner at a tavern overlooking the illuminated waterfalls."
+        "en": "Start your day in the historic Varosi district, wandering through Ottoman and Byzantine history. By midday, reach the heart of the city, the famous waterfalls, where the roar of the water fills the air. Spend the afternoon exploring the power of water at the Open-Air Museum and the old Hemp Factory. End your day with a relaxing dinner at a tavern overlooking the illuminated waterfalls.",
+        "el": "Ξεκινήστε τη μέρα σας στη ιστορική γειτονιά Βαρόσι, περιπλανώμενοι μέσα στην οθωμανική και βυζαντινή ιστορία. Μέχρι το μεσημέρι φτάστε στην καρδιά της πόλης, στους φημισμένους καταρράκτες, όπου ο βόμβος του νερού γεμίζει τον αέρα. Περάστε το απόγευμα εξερευνώντας τη δύναμη του νερού στο Υπαίθριο Μουσείο και στο παλιό Εργοστάσιο Κάνναβης. Κλείστε τη μέρα με ένα χαλαρωτικό δείπνο σε ταβέρνα με θέα τους φωταγωγημένους καταρράκτες."
       },
       "gastro_picks": {
         "de": [
@@ -401,6 +418,12 @@
           "Bring a waterproof jacket or a poncho for the area behind the waterfall, you will get wet!",
           "Many cafes offer stunning views of the Pella plain.",
           "The best time to visit is in spring when the water flow is strongest and nature is in bloom."
+        ],
+        "el": [
+          "Φορέστε άνετα παπούτσια καθώς οι κυβόλιθοι στο Βαρόσι μπορεί να είναι ανώμαλοι.",
+          "Φέρτε ένα αδιάβροχο μπουφάν ή κάπα για την περιοχή πίσω από τον καταρράκτη· θα βραχείτε!",
+          "Πολλά καφέ προσφέρουν εκπληκτική θέα προς τον κάμπο της Πέλλας.",
+          "Η καλύτερη εποχή για επίσκεψη είναι την άνοιξη όταν η ροή του νερού είναι ισχυρότερη και η φύση ανθίζει."
         ]
       },
       "variants": {
@@ -409,7 +432,8 @@
             "de": "Der Morgen beginnt unter Regenschirmen im Viertel Varosi, wo das nasse Kopfsteinpflaster glänzt. Mittags mischt sich der Regen mit dem Sprühnebel der Wasserfälle – ein kraftvolles Naturschauspiel. Nachmittags bieten das Hanfmuseum und das Wassermuseum trockene Zufluchtsorte mit faszinierender Technik. Der Abend klingt in den gemütlichen Gassen bei reflektierenden Lichtern in den Pfützen ruhig aus.",
             "hu": "A reggel esernyők alatt indul Varosi negyedében, ahol a vizes macskakő különös fényt kap. Délben a vízeséseknél az eső és a permet keveredik, ami fenséges látványt nyújt. Délután a kendergyár és a vízimuzeum fedett terei nyújtanak menedéket a csapadék elől. Az este a tócsákban tükröződő városi fények között, csendes sétával ér véget.",
             "ro": "Dimineața începe sub umbrele în cartierul Varosi, unde pavajul umed strălucește sub ploaie. La prânz, ploaia se contopește cu vaporii cascadelor, creând un spectacol natural impresionant. După-amiaza, Muzeul Cânepii și Muzeul Apei oferă adăpost uscat și povești industriale fascinante. Seara se încheie liniștit, cu luminile orașului reflectându-se în bălțile de pe străzile vechi.",
-            "en": "The morning starts under umbrellas in the Varosi district, where wet cobblestones glisten beautifully. At noon, the rain blends with the waterfall mist, creating a powerful and atmospheric natural display. In the afternoon, the Hemp Factory and Water Museum provide dry havens filled with industrial history. The evening winds down peacefully with city lights reflecting in the rain-slicked streets."
+            "en": "The morning starts under umbrellas in the Varosi district, where wet cobblestones glisten beautifully. At noon, the rain blends with the waterfall mist, creating a powerful and atmospheric natural display. In the afternoon, the Hemp Factory and Water Museum provide dry havens filled with industrial history. The evening winds down peacefully with city lights reflecting in the rain-slicked streets.",
+            "el": "Το πρωί ξεκινά κάτω από ομπρέλες στη γειτονιά Βαρόσι, όπου οι βρεγμένοι κυβόλιθοι γυαλίζουν όμορφα. Το μεσημέρι η βροχή συγχωνεύεται με την ομίχλη του καταρράκτη, δημιουργώντας ένα ισχυρό και ατμοσφαιρικό φυσικό θέαμα. Το απόγευμα το Εργοστάσιο Κάνναβης και το Μουσείο Νερού παρέχουν στεγνά καταφύγια γεμάτα βιομηχανική ιστορία. Το βράδυ τελειώνει ήρεμα με τα φώτα της πόλης να αντανακλώνται στους βρεγμένους δρόμους."
           },
           "stops": [
             {
@@ -418,7 +442,8 @@
                 "de": "Vorsicht auf dem glatten Kopfsteinpflaster.",
                 "hu": "Vigyázzon a rendkívül csúszós macskaköveken.",
                 "ro": "Atenție la pavajul foarte alunecos din cartier.",
-                "en": "Careful on the extremely slippery cobblestones."
+                "en": "Careful on the extremely slippery cobblestones.",
+                "el": "Προσοχή στους εξαιρετικά ολισθηρούς κυβόλιθους."
               }
             },
             {
@@ -427,7 +452,8 @@
                 "de": "Kurzer Stopp, der Stein ist bei Nässe rutschig.",
                 "hu": "Rövid megálló, a kőfelület vizesen csúszik.",
                 "ro": "Oprire scurtă, piatra este alunecoasă pe ploaie.",
-                "en": "Short stop, the stone surface is slick when wet."
+                "en": "Short stop, the stone surface is slick when wet.",
+                "el": "Μικρή στάση, η πέτρινη επιφάνεια γλιστρά όταν είναι βρεγμένη."
               }
             },
             {
@@ -436,7 +462,8 @@
                 "de": "Guter Unterschlupf für eine kurze Regenpause.",
                 "hu": "Jó menedék egy rövid esőszünet idejére.",
                 "ro": "Un adăpost bun pentru o scurtă pauză de ploaie.",
-                "en": "Good shelter for a brief break from the rain."
+                "en": "Good shelter for a brief break from the rain.",
+                "el": "Καλή καταφυγή για ένα σύντομο διάλειμμα από τη βροχή."
               }
             },
             {
@@ -445,7 +472,8 @@
                 "de": "Schnelles Foto aus geschützter Position machen.",
                 "hu": "Gyors fotó egy védettebb pontról készítve.",
                 "ro": "O fotografie rapidă dintr-un punct protejat.",
-                "en": "Quick photo taken from a sheltered spot."
+                "en": "Quick photo taken from a sheltered spot.",
+                "el": "Γρήγορη φωτογραφία από ένα σκεπαστό σημείο."
               }
             },
             {
@@ -454,7 +482,8 @@
                 "de": "Die Bäume bieten begrenzten Schutz vor Regen.",
                 "hu": "A fák korlátozott védelmet nyújtanak az eső ellen.",
                 "ro": "Copacii oferă o protecție limitată împotriva ploii.",
-                "en": "Trees provide limited protection from the rain."
+                "en": "Trees provide limited protection from the rain.",
+                "el": "Τα δέντρα προσφέρουν περιορισμένη προστασία από τη βροχή."
               }
             },
             {
@@ -463,7 +492,8 @@
                 "de": "Regenjacke wegen des starken Sprühnebels nötig.",
                 "hu": "Esőkabát kell a permet és az eső miatt is.",
                 "ro": "Pelerina este necesară din cauza vaporilor de apă.",
-                "en": "Rain jacket needed due to heavy spray and rain."
+                "en": "Rain jacket needed due to heavy spray and rain.",
+                "el": "Απαιτείται αδιάβροχο μπουφάν λόγω έντονου ψεκασμού και βροχής."
               }
             },
             {
@@ -472,7 +502,8 @@
                 "de": "Besuchen Sie die überdachten Mühlen im Inneren.",
                 "hu": "Látogassa meg a fedett belső malomrészeket.",
                 "ro": "Vizitați secțiunile acoperite ale morilor vechi.",
-                "en": "Visit the indoor sheltered mill sections."
+                "en": "Visit the indoor sheltered mill sections.",
+                "el": "Επισκεφθείτε τα εσωτερικά, στεγασμένα τμήματα του μύλου."
               }
             },
             {
@@ -481,7 +512,8 @@
                 "de": "Perfektes Indoor-Ziel bei starkem Regen.",
                 "hu": "Tökéletes beltéri célpont heves esőzés esetén.",
                 "ro": "Destinație interioară perfectă pentru ploaie grea.",
-                "en": "Perfect indoor destination during heavy rain."
+                "en": "Perfect indoor destination during heavy rain.",
+                "el": "Ιδανικός εσωτερικός προορισμός κατά τη διάρκεια έντονης βροχής."
               }
             }
           ],
@@ -509,6 +541,12 @@
               "Extra caution is needed on stairs near the falls.",
               "Waterproof gear is a must due to the heavy spray.",
               "Cafes in Varosi are ideal for longer breaks."
+            ],
+            "el": [
+              "Χρησιμοποιήστε τα εσωτερικά μουσεία ως καταφύγιο από τη βροχή.",
+              "Απαιτείται επιπλέον προσοχή στις σκάλες κοντά στις καταρρακτες.",
+              "Αδιάβροχος εξοπλισμός είναι απαραίτητος λόγω του έντονου ψεκασμού.",
+              "Τα καφέ στη Βαρόσι είναι ιδανικά για μεγαλύτερα διαλείμματα."
             ]
           }
         },
@@ -517,7 +555,8 @@
             "de": "Ein klarer Wintermorgen im historischen Varosi lässt die alte Architektur streng und schön wirken. Mittags tost das Wasser in der kalten Luft, ein beeindruckender Kontrast zur winterlichen Stille. Nachmittags wärmen wir uns in den Ausstellungen des Hanfmuseums auf, bevor die Sonne früh sinkt. Der Abend hüllt die beleuchtete Stadt in eine frostige, aber magische Atmosphäre.",
             "hu": "A tiszta téli reggelen Varosi történelmi házai között a levegő friss és metsző. Délben a vízesések robaja a hideg széllel párosul, fenséges és zord élményt nyújtva. Délután a kendergyár kiállításai között melegszünk fel, mielőtt a nap korán lebukna. Az este fagyos, de varázslatos hangulatban, kivilágított utcákon ér véget.",
             "ro": "O dimineață senină de iarnă în Varosi scoate în evidență arhitectura veche în aerul tăios. La prânz, vuietul cascadelor în aerul rece oferă un contrast spectaculos cu liniștea iernii. După-amiaza ne încălzim în expozițiile Muzeului Cânepii înainte ca soarele să apună devreme. Seara învăluie orașul iluminat într-o atmosferă geroasă, dar magică.",
-            "en": "A crisp winter morning in historic Varosi makes the old architecture stand out in the sharp air. At noon, the roaring waterfalls contrast with the winter chill for a majestic experience. In the afternoon, we warm up inside the Hemp Factory exhibits before the early sunset. The evening wraps the illuminated city in a frosty but truly magical atmosphere."
+            "en": "A crisp winter morning in historic Varosi makes the old architecture stand out in the sharp air. At noon, the roaring waterfalls contrast with the winter chill for a majestic experience. In the afternoon, we warm up inside the Hemp Factory exhibits before the early sunset. The evening wraps the illuminated city in a frosty but truly magical atmosphere.",
+            "el": "Ένα δροσερό χειμωνιάτικο πρωινό στην ιστορική Βαρόσι αναδεικνύει την παλιά αρχιτεκτονική στον κοφτερό αέρα. Το μεσημέρι, οι βρυχηθμοί των καταρρακτών αντιπαρατίθενται στο χειμωνιάτικο ψύχος για μια μεγαλειώδη εμπειρία. Το απόγευμα, ζεσταινόμαστε μέσα στις εκθέσεις του Εργοστασίου Κάνναβης πριν το νωρίς ηλιοβασίλεμα. Το βράδυ τυλίγει την φωτισμένη πόλη σε μια παγωμένη αλλά πραγματικά μαγική ατμόσφαιρα."
           },
           "stops": [
             {
@@ -526,7 +565,8 @@
                 "de": "Warme Schuhe für die kalten Steinpflaster.",
                 "hu": "Meleg lábbeli kell a hideg köves utcákra.",
                 "ro": "Încălțăminte călduroasă pentru străzile reci.",
-                "en": "Warm footwear needed for the cold stone streets."
+                "en": "Warm footwear needed for the cold stone streets.",
+                "el": "Απαιτούνται ζεστά υποδήματα για τους κρύους λιθόστρωτους δρόμους."
               }
             },
             {
@@ -535,7 +575,8 @@
                 "de": "Windig, halten Sie Mütze und Schal bereit.",
                 "hu": "Szeles pont, legyen kéznél sapka és sál.",
                 "ro": "Loc vântos, aveți la îndemână căciula și fularul.",
-                "en": "Windy spot, keep your hat and scarf ready."
+                "en": "Windy spot, keep your hat and scarf ready.",
+                "el": "Το σημείο είναι αέρινο — κρατήστε έτοιμο το καπέλο και το κασκόλ."
               }
             },
             {
@@ -544,7 +585,8 @@
                 "de": "Kurze Besichtigung zum Schutz vor dem Wind.",
                 "hu": "Rövid látogatás a szél elleni védekezésül.",
                 "ro": "Vizită scurtă pentru a vă proteja de vânt.",
-                "en": "Short visit to take cover from the cold wind."
+                "en": "Short visit to take cover from the cold wind.",
+                "el": "Σύντομη επίσκεψη για να προφυλαχθείτε από τον ψυχρό άνεμο."
               }
             },
             {
@@ -553,7 +595,8 @@
                 "de": "Schönes Fotomotiv im klaren Winterlicht.",
                 "hu": "Szép fotótéma a tiszta téli fényekben.",
                 "ro": "Subiect frumos de poză în lumina clară de iarnă.",
-                "en": "Beautiful photo subject in clear winter light."
+                "en": "Beautiful photo subject in clear winter light.",
+                "el": "Υπέροχο θέμα φωτογραφίας σε καθαρό χειμερινό φως."
               }
             },
             {
@@ -562,7 +605,8 @@
                 "de": "Achten Sie auf mögliche Eisglätte auf Wegen.",
                 "hu": "Ügyeljen az utakon előforduló jegesedésre.",
                 "ro": "Atenție la posibila gheață de pe poteci.",
-                "en": "Watch out for potential ice on the paths."
+                "en": "Watch out for potential ice on the paths.",
+                "el": "Προσοχή σε ενδεχόμενο πάγο στα μονοπάτια."
               }
             },
             {
@@ -571,7 +615,8 @@
                 "de": "Gischt kann auf den Geländern gefrieren.",
                 "hu": "A permet ráfagyhat a korlátokra, óvatosan.",
                 "ro": "Vaporii pot îngheța pe balustrade, atenție.",
-                "en": "Spray may freeze on railings, be careful."
+                "en": "Spray may freeze on railings, be careful.",
+                "el": "Ο ψεκασμός μπορεί να παγώσει στις κουπαστές — προσέξτε."
               }
             },
             {
@@ -580,7 +625,8 @@
                 "de": "Innenbereiche sind windgeschützt und wärmer.",
                 "hu": "A belső terek szélvédettek és melegebbek.",
                 "ro": "Spațiile interioare sunt ferite de vânt.",
-                "en": "Indoor areas are sheltered and warmer."
+                "en": "Indoor areas are sheltered and warmer.",
+                "el": "Οι εσωτερικοί χώροι είναι στεγασμένοι και πιο ζεστοί."
               }
             },
             {
@@ -589,7 +635,8 @@
                 "de": "Idealer Ort zum Aufwärmen am Nachmittag.",
                 "hu": "Ideális hely a délutáni felmelegedéshez.",
                 "ro": "Loc ideal pentru încălzire după-amiaza.",
-                "en": "Ideal place to warm up in the afternoon."
+                "en": "Ideal place to warm up in the afternoon.",
+                "el": "Ιδανικό μέρος για να ζεσταθείτε το απόγευμα."
               }
             }
           ],
@@ -617,6 +664,12 @@
               "The proximity to water makes the air feel colder.",
               "Dress in layers against the biting wind.",
               "Outdoor museum sections may close earlier."
+            ],
+            "el": [
+              "Το ηλιοβασίλεμα έρχεται νωρίς, περίπου στις 17:15.",
+              "Η εγγύτητα στο νερό κάνει την ατμόσφαιρα να φαίνεται πιο κρύα.",
+              "Φορέστε στρώσεις ρούχων ενάντια στον τσουχτερό άνεμο.",
+              "Τα υπαίθρια τμήματα των μουσείων μπορεί να κλείνουν νωρίτερα."
             ]
           }
         }
@@ -635,7 +688,8 @@
             "de": "Uhrturm von Edessa",
             "hu": "Edesszai óratorony",
             "ro": "Turnul cu Ceas din Edessa",
-            "en": "Edessa Clock Tower"
+            "en": "Edessa Clock Tower",
+            "el": "Πύργος Ρολογιού Έδεσσας"
           },
           "coords": [
             22.048,
@@ -650,7 +704,8 @@
             "de": "Ein perfekter Ausgangspunkt, um sich zu orientieren, bevor Sie in die Pedale treten.",
             "hu": "Tökéletes kiindulópont a tájékozódáshoz, mielőtt nyeregbe pattan.",
             "ro": "Un punct de plecare perfect pentru a vă orienta înainte de a începe să pedalați.",
-            "en": "A perfect starting point to get your bearings before you start pedaling."
+            "en": "A perfect starting point to get your bearings before you start pedaling.",
+            "el": "Ένα τέλειο σημείο εκκίνησης για να προσανατολιστείτε πριν αρχίσετε να ποδηλατείτε."
           }
         },
         {
@@ -658,7 +713,8 @@
             "de": "Varosi-Viertel",
             "hu": "Varosi negyed",
             "ro": "Cartierul Varosi",
-            "en": "Varosi District"
+            "en": "Varosi District",
+            "el": "Περιοχή Βαρόσι"
           },
           "coords": [
             22.0511,
@@ -673,7 +729,8 @@
             "de": "Schieben Sie Ihr Fahrrad durch die engsten Gassen, um die empfindlichen Steine nicht zu beschädigen.",
             "hu": "Tolja a kerékpárt a legszűkebb sikátorokban, hogy ne sértse meg az érzékeny köveket.",
             "ro": "Împingeți bicicleta pe cele mai înguste alei pentru a nu deteriora pietrele delicate.",
-            "en": "Push your bike through the narrowest alleys to avoid damaging the delicate stones."
+            "en": "Push your bike through the narrowest alleys to avoid damaging the delicate stones.",
+            "el": "Σπρώξτε το ποδήλατο μέσα από τα στενότερα δρομάκια για να αποφύγετε τη φθορά των ευαίσθητων λιθόστρωτων."
           }
         },
         {
@@ -681,7 +738,8 @@
             "de": "Byzantinische Brücke",
             "hu": "Bizánci híd",
             "ro": "Podul Bizantin",
-            "en": "Byzantine Bridge"
+            "en": "Byzantine Bridge",
+            "el": "Βυζαντινή Γέφυρα"
           },
           "coords": [
             22.052,
@@ -696,7 +754,8 @@
             "de": "Halten Sie für eine kurze Pause an und genießen Sie die Aussicht von dieser alten Brücke.",
             "hu": "Álljon meg egy rövid pihenőre, és élvezze a kilátást erről az ősi hídról.",
             "ro": "Opriți-vă pentru o scurtă pauză și bucurați-vă de priveliștea de pe acest pod antic.",
-            "en": "Stop for a quick break and enjoy the view from this ancient bridge."
+            "en": "Stop for a quick break and enjoy the view from this ancient bridge.",
+            "el": "Σταματήστε για ένα σύντομο διάλειμμα και απολαύστε τη θέα από αυτή την αρχαία γέφυρα."
           }
         },
         {
@@ -704,7 +763,8 @@
             "de": "Park der Wasserfälle",
             "hu": "Vízesések parkja",
             "ro": "Parcul Cascadei",
-            "en": "Waterfalls Park"
+            "en": "Waterfalls Park",
+            "el": "Πάρκο Καταρρακτών"
           },
           "coords": [
             22.045,
@@ -719,7 +779,8 @@
             "de": "Schließen Sie Ihr Fahrrad an und erkunden Sie die vielen Wege, die zu den Wasserfällen führen.",
             "hu": "Zárja le a kerékpárt, és fedezze fel a vízesésekhez vezető számos ösvényt.",
             "ro": "Legați-vă bicicleta și explorați numeroasele cărări care duc la cascade.",
-            "en": "Lock up your bike and explore the many paths leading to the falls."
+            "en": "Lock up your bike and explore the many paths leading to the falls.",
+            "el": "Κλειδώστε το ποδήλατό σας και εξερευνήστε τα πολλά μονοπάτια που οδηγούν στους καταρράκτες."
           }
         },
         {
@@ -727,7 +788,8 @@
             "de": "Wasserfälle von Edessa",
             "hu": "Edesszai vízesések",
             "ro": "Cascadele din Edessa",
-            "en": "Edessa Waterfalls"
+            "en": "Edessa Waterfalls",
+            "el": "Καταρράκτες Έδεσσας"
           },
           "coords": [
             22.044,
@@ -742,7 +804,8 @@
             "de": "Der Sprühnebel der Wasserfälle ist eine willkommene Abkühlung an einem warmen Tag.",
             "hu": "A vízesések permete kellemes hűsítést nyújt egy meleg napon.",
             "ro": "Stropii de la cascade sunt o răcorire binevenită într-o zi călduroasă.",
-            "en": "The spray from the waterfalls is a welcome refreshment on a warm day."
+            "en": "The spray from the waterfalls is a welcome refreshment on a warm day.",
+            "el": "Ο ψεκασμός από τους καταρράκτες είναι ευπρόσδεκτο δροσιστικό σε μια ζεστή ημέρα."
           }
         },
         {
@@ -750,7 +813,8 @@
             "de": "Wasser-Freilichtmuseum",
             "hu": "Szabadtéri Vízi Múzeum",
             "ro": "Muzeul Apei în Aer Liber",
-            "en": "Open-Air Water Museum"
+            "en": "Open-Air Water Museum",
+            "el": "Υπαίθριο Μουσείο Νερού"
           },
           "coords": [
             22.0435,
@@ -765,7 +829,8 @@
             "de": "Eine einfache Radtour vom Hauptpark entfernt, es gibt spezielle Fahrradständer.",
             "hu": "Könnyű kerékpártúra a fő parktól, külön kerékpártárolók állnak rendelkezésre.",
             "ro": "O plimbare ușoară cu bicicleta de la parcul principal, există suporturi speciale pentru biciclete.",
-            "en": "An easy bike ride from the main park, there are dedicated bike racks."
+            "en": "An easy bike ride from the main park, there are dedicated bike racks.",
+            "el": "Εύκολη διαδρομή με ποδήλατο από το κύριο πάρκο, υπάρχουν ειδικές θέσεις στάθμευσης ποδηλάτων."
           }
         },
         {
@@ -773,7 +838,8 @@
             "de": "Hanf-Fabrik",
             "hu": "Kendergyár",
             "ro": "Fabrica de Cânepă",
-            "en": "Hemp Factory"
+            "en": "Hemp Factory",
+            "el": "Εργοστάσιο Κάνναβης"
           },
           "coords": [
             22.0485,
@@ -788,7 +854,8 @@
             "de": "Die Fahrt dorthin führt durch ein weniger touristisches Gebiet von Edessa.",
             "hu": "Az odavezető út Edessza egy kevésbé turista által látogatott részén vezet keresztül.",
             "ro": "Drumul până acolo vă duce printr-o zonă mai puțin turistică a Edessei.",
-            "en": "The ride there takes you through a less touristy area of Edessa."
+            "en": "The ride there takes you through a less touristy area of Edessa.",
+            "el": "Η διαδρομή προς τα εκεί περνάει από μια λιγότερο τουριστική περιοχή της Έδεσσας."
           }
         }
       ],
@@ -796,7 +863,8 @@
         "de": "Starten Sie am Uhrturm und radeln Sie in die Geschichte im Varosi-Viertel. Eine kurze Fahrt bringt Sie zu den rauschenden Wasserfällen, dem perfekten Ort für eine Mittagspause. Am Nachmittag radeln Sie entlang der Wasserwege zum Freilichtmuseum und zur Hanffabrik und folgen der industriellen Geschichte der Stadt. Beenden Sie Ihre Tour mit einer Rückfahrt ins Zentrum und einem wohlverdienten Abendessen.",
         "hu": "Induljon az Óratoronytól, és tekerjen bele a történelembe a Varosi negyedben. Egy rövid út elvezeti a zubogó vízesésekhez, amely tökéletes hely egy déli pihenőre. Délután tekerjen a vízfolyások mentén a Szabadtéri Múzeumhoz és a Kendergyárhoz, követve a város ipari történelmét. Zárja a túrát a központba való visszatéréssel és egy jól megérdemelt vacsorával.",
         "ro": "Începeți de la Turnul cu Ceas și pedalați în istorie în cartierul Varosi. O scurtă plimbare vă duce la cascadele zgomotoase, locul perfect pentru o pauză de prânz. După-amiaza, pedalați de-a lungul canalelor de apă până la Muzeul în Aer Liber și Fabrica de Cânepă, urmărind istoria industrială a orașului. Încheiați turul cu o plimbare înapoi în centru pentru o cină binemeritată.",
-        "en": "Start at the Clock Tower and cycle into history in the Varosi district. A short ride takes you to the roaring waterfalls, the perfect spot for a midday break. In the afternoon, cycle along the waterways to the Open-Air Museum and the Hemp Factory, tracing the city's industrial history. End your tour with a ride back to the center for a well-deserved dinner."
+        "en": "Start at the Clock Tower and cycle into history in the Varosi district. A short ride takes you to the roaring waterfalls, the perfect spot for a midday break. In the afternoon, cycle along the waterways to the Open-Air Museum and the Hemp Factory, tracing the city's industrial history. End your tour with a ride back to the center for a well-deserved dinner.",
+        "el": "Ξεκινήστε από τον Πύργο του Ρολογιού και ποδηλατήστε μέσα στην ιστορία στη συνοικία Βαρόσι. Μια σύντομη βόλτα σας φέρνει στους βρυχηθμούς των καταρρακτών, το τέλειο σημείο για μεσημεριανό διάλειμμα. Το απόγευμα, ποδηλατήστε κατά μήκος των υδατορευμάτων προς το Υπαίθριο Μουσείο Νερού και το Εργοστάσιο Κάνναβης, αναζητώντας τη βιομηχανική ιστορία της πόλης. Ολοκληρώστε την περιήγησή σας με επιστροφή στο κέντρο για ένα καλοπαρασκευασμένο δείπνο."
       },
       "gastro_picks": {
         "de": [
@@ -950,6 +1018,12 @@
           "Some streets in Varosi are too narrow for cycling; be prepared to dismount and push.",
           "Carry plenty of water, especially in the summer.",
           "A bike lock is essential to leave your bike securely while you explore the sights."
+        ],
+        "el": [
+          "Ελέγξτε το ποδήλατό σας, ιδιαίτερα τα φρένα, πριν αντιμετωπίσετε τους λόφους της Έδεσσας.",
+          "Ορισμένοι δρόμοι στη Βαρόσι είναι πολύ στενοί για ποδηλασία· να είστε έτοιμοι να κατέβετε και να σπρώξετε.",
+          "Να έχετε μαζί αρκετό νερό, ειδικά το καλοκαίρι.",
+          "Ένα λουκέτο ποδηλάτου είναι απαραίτητο για να αφήσετε το ποδήλατο με ασφάλεια ενώ εξερευνάτε."
         ]
       },
       "variants": {
@@ -958,7 +1032,8 @@
             "de": "Radfahren durch das regnerische Edessa erfordert Konzentration auf den glatten Wegen. Vormittags erkunden wir Varosi vorsichtig, während der Regen die Farben intensiviert. Mittags erreichen wir die donnernden Wasserfälle, wo die Gischt den Regen ergänzt. Nachmittags parken wir die Räder für ausgiebige Indoor-Besichtigungen im Hanfmuseum. Der Abend endet mit einer zügigen Fahrt durch die nassen Straßen.",
             "hu": "A biciklizés az esős Edesszában koncentrációt igényel a csúszós utakon. Délelőtt óvatosan járjuk be Varosit, miközben az eső mélyíti a színeket. Délben elérjük a dübörgő vízeséseket, ahol a permet és az eső eggyé válik. Délután leparkoljuk a gépeket a kendergyár fedett kiállításaihoz. Az este egy gyors tekeréssel zárul a vizes aszfalton.",
             "ro": "Ciclismul prin Edessa ploioasă necesită concentrare pe drumurile alunecoase. Dimineața explorăm Varosi cu grijă, în timp ce ploaia intensifică culorile. La prânz ajungem la cascadele tunătoare, unde vaporii se amestecă cu ploaia. După-amiaza parcăm bicicletele pentru vizite lungi la Muzeul Cânepii. Seara se încheie cu o cursă rapidă pe străzile ude.",
-            "en": "Cycling through rainy Edessa requires focus on the slick paths. In the morning, we explore Varosi carefully as the rain deepens the colors. At noon, we reach the thundering falls where mist and rain merge. In the afternoon, we park the bikes for extensive indoor visits at the Hemp Factory. The evening ends with a brisk ride through the wet streets."
+            "en": "Cycling through rainy Edessa requires focus on the slick paths. In the morning, we explore Varosi carefully as the rain deepens the colors. At noon, we reach the thundering falls where mist and rain merge. In the afternoon, we park the bikes for extensive indoor visits at the Hemp Factory. The evening ends with a brisk ride through the wet streets.",
+            "el": "Η ποδηλασία σε βροχερή Έδεσσα απαιτεί συγκέντρωση στα γλιστερά μονοπάτια. Το πρωί, εξερευνούμε προσεκτικά τη Βαρόσι καθώς η βροχή εντείνει τα χρώματα. Το μεσημέρι φτάνουμε στους βροντερούς καταρράκτες όπου ο ομίχλη και η βροχή συγχωνεύονται. Το απόγευμα παρκάρουμε τα ποδήλατα για εκτενείς εσωτερικές επισκέψεις στο Εργοστάσιο Κάνναβης. Το βράδυ τελειώνει με μια ζωηρή βόλτα μέσα από τους βρεγμένους δρόμους."
           },
           "stops": [
             {
@@ -967,7 +1042,8 @@
                 "de": "Vorsicht beim Absteigen auf nassem Grund.",
                 "hu": "Vigyázzon a leszálláskor a vizes talajon.",
                 "ro": "Atenție la coborârea de pe bicicletă pe ud.",
-                "en": "Be careful when dismounting on wet ground."
+                "en": "Be careful when dismounting on wet ground.",
+                "el": "Προσοχή όταν κατεβαίνετε από το ποδήλατο σε βρεγμένο έδαφος."
               }
             },
             {
@@ -976,7 +1052,8 @@
                 "de": "Reifenrutschgefahr auf dem alten Pflaster.",
                 "hu": "A gumik megcsúszhatnak a régi köveken.",
                 "ro": "Risc de derapare pe pavajul vechi.",
-                "en": "Risk of tires slipping on the old stones."
+                "en": "Risk of tires slipping on the old stones.",
+                "el": "Κίνδυνος ολίσθησης των ελαστικών πάνω στις παλιές πέτρες."
               }
             },
             {
@@ -985,7 +1062,8 @@
                 "de": "Schieben Sie das Rad über die Brücke.",
                 "hu": "Inkább tolja a biciklit a hídon.",
                 "ro": "Mai bine împingeți bicicleta pe pod.",
-                "en": "Better to push the bike across the bridge."
+                "en": "Better to push the bike across the bridge.",
+                "el": "Καλύτερα να σπρώξετε το ποδήλατο πάνω από τη γέφυρα."
               }
             },
             {
@@ -994,7 +1072,8 @@
                 "de": "Bremsweg auf nassem Laub beachten.",
                 "hu": "Figyeljen a féktávra a vizes leveleken.",
                 "ro": "Atenție la distanța de frânare pe frunze.",
-                "en": "Note the braking distance on wet leaves."
+                "en": "Note the braking distance on wet leaves.",
+                "el": "Λάβετε υπόψη την απόσταση φρεναρίσματος σε βρεγμένα φύλλα."
               }
             },
             {
@@ -1003,7 +1082,8 @@
                 "de": "Sicherer Abstellplatz unter Vordächern.",
                 "hu": "Keressen fedett tárolót a bicikliknek.",
                 "ro": "Căutați un loc de parcare sub acoperiș.",
-                "en": "Find a sheltered parking spot for bikes."
+                "en": "Find a sheltered parking spot for bikes.",
+                "el": "Βρείτε ένα στεγασμένο σημείο στάθμευσης για τα ποδήλατα."
               }
             },
             {
@@ -1012,7 +1092,8 @@
                 "de": "Nutzen Sie den Stopp zum Aufwärmen.",
                 "hu": "Használja ki a megállót a melegedésre.",
                 "ro": "Folosiți oprirea pentru a vă încălzi.",
-                "en": "Use the stop to warm up indoors."
+                "en": "Use the stop to warm up indoors.",
+                "el": "Χρησιμοποιήστε τη στάση για να ζεσταθείτε σε εσωτερικό χώρο."
               }
             },
             {
@@ -1021,7 +1102,8 @@
                 "de": "Lange Pause, während es draußen regnet.",
                 "hu": "Hosszú pihenő, amíg kint esik az eső.",
                 "ro": "Pauză lungă în timp ce afară plouă.",
-                "en": "Long break while it rains outside."
+                "en": "Long break while it rains outside.",
+                "el": "Μεγάλο διάλειμμα ενώ βρέχει έξω."
               }
             }
           ],
@@ -1049,6 +1131,12 @@
               "Avoid puddles as they might be deep.",
               "Wear full waterproof cycling gear.",
               "Turn on lights for better visibility."
+            ],
+            "el": [
+              "Τα φρένα έχουν καθυστερημένη απόκριση όταν είναι βρεγμένα.",
+              "Αποφύγετε τις λακκούβες καθώς μπορεί να είναι βαθιές.",
+              "Φορέστε πλήρη αδιάβροχο εξοπλισμό ποδηλασίας.",
+              "Ανάψτε τα φώτα για καλύτερη ορατότητα."
             ]
           }
         },
@@ -1057,7 +1145,8 @@
             "de": "Bei kühlem Wind radeln wir durch das winterliche Edessa, die Luft ist herrlich erfrischend. Vormittags glänzt die Stadt im tiefstehenden Sonnenlicht, während wir durch Varosi rollen. Mittags erreichen wir die frostigen Wasserfälle, deren Anblick im Winter besonders klar ist. Nachmittags suchen wir Schutz vor der Kälte in der Hanffabrik. Der Abend bricht früh an, und wir radeln beleuchtet zurück ins Zentrum.",
             "hu": "Hűvös szélben tekerünk át a téli Edesszán, a levegő frissítően hideg. Délelőtt a város alacsony napfényben tündököl, miközben Varosi utcáin gurulunk. Délben elérjük a fagyos vízeséseket, melyek látványa télen különösen tiszta. Délután a kendergyárban keresünk menedéket a hideg elől. Az este korán érkezik, kivilágítva tekerünk vissza a központba.",
             "ro": "Pedalăm prin Edessa de iarnă sub un vânt răcoros, aerul fiind revigorant. Dimineața, orașul strălucește în lumina joasă a soarelui în timp ce rulăm prin Varosi. La prânz ajungem la cascadele înghețate, a căror vedere este clară iarna. După-amiaza căutăm adăpost contra frigului în fabrica de cânepă. Seara vine devreme și pedalăm iluminați înapoi.",
-            "en": "We cycle through winter Edessa in a cool breeze, the air is refreshingly cold. In the morning, the city shines in low sunlight as we roll through Varosi. At noon, we reach the frosty falls, which look exceptionally clear in winter. In the afternoon, we seek shelter from the cold at the Hemp Factory. Evening arrives early, and we cycle back to the center with lights on."
+            "en": "We cycle through winter Edessa in a cool breeze, the air is refreshingly cold. In the morning, the city shines in low sunlight as we roll through Varosi. At noon, we reach the frosty falls, which look exceptionally clear in winter. In the afternoon, we seek shelter from the cold at the Hemp Factory. Evening arrives early, and we cycle back to the center with lights on.",
+            "el": "Ποδηλατούμε στη χειμωνιάτικη Έδεσσα με μια δροσερή αύρα, ο αέρας είναι δροσιστικά κρύος. Το πρωί η πόλη λάμπει σε χαμηλό ηλιακό φως καθώς διασχίζουμε τη Βαρόσι. Το μεσημέρι φτάνουμε στους παγωμένους καταρράκτες που φαίνονται εξαιρετικά καθαροί τον χειμώνα. Το απόγευμα αναζητούμε καταφύγιο από το κρύο στο Εργοστάσιο Κάνναβης. Το βράδυ έρχεται νωρίς και ποδηλατούμε πίσω στο κέντρο με αναμμένα φώτα."
           },
           "stops": [
             {
@@ -1066,7 +1155,8 @@
                 "de": "Kurzer Halt, um nicht auszukühlen.",
                 "hu": "Rövid megálló, hogy ne hűljön ki.",
                 "ro": "Oprire scurtă pentru a nu îngheța.",
-                "en": "Short stop to avoid catching a chill."
+                "en": "Short stop to avoid catching a chill.",
+                "el": "Σύντομη στάση για να αποφύγετε το κρυολόγημα."
               }
             },
             {
@@ -1075,7 +1165,8 @@
                 "de": "Vorsicht bei Raureif auf den Steinen.",
                 "hu": "Vigyázzon a köveken lévő dérre.",
                 "ro": "Atenție la chiciura de pe pietre.",
-                "en": "Watch out for frost on the stones."
+                "en": "Watch out for frost on the stones.",
+                "el": "Προσοχή σε πάγωμα στις πέτρες."
               }
             },
             {
@@ -1084,7 +1175,8 @@
                 "de": "Glättegefahr auf der Brückenoberfläche.",
                 "hu": "Csúszásveszély a híd felületén.",
                 "ro": "Risc de alunecare pe suprafața podului.",
-                "en": "Slippery surface risk on the bridge."
+                "en": "Slippery surface risk on the bridge.",
+                "el": "Κίνδυνος ολισθηρής επιφάνειας στη γέφυρα."
               }
             },
             {
@@ -1093,7 +1185,8 @@
                 "de": "Fahren Sie langsam in schattigen Zonen.",
                 "hu": "Hajtson lassan az árnyékos részeken.",
                 "ro": "Mergeți încet în zonele cu umbră.",
-                "en": "Ride slowly in shaded sections."
+                "en": "Ride slowly in shaded sections.",
+                "el": "Ποδηλατήστε αργά σε σκιασμένα τμήματα."
               }
             },
             {
@@ -1102,7 +1195,8 @@
                 "de": "Kaltes Sprühwasser, halten Sie Abstand.",
                 "hu": "Hideg vízpermet, tartson távolságot.",
                 "ro": "Vapori reci de apă, păstrați distanța.",
-                "en": "Cold water spray, keep your distance."
+                "en": "Cold water spray, keep your distance.",
+                "el": "Κρύος ψεκασμός νερού — κρατήστε απόσταση."
               }
             },
             {
@@ -1111,7 +1205,8 @@
                 "de": "Parken Sie windgeschützt beim Eingang.",
                 "hu": "Parkoljon szélvédett helyen a bejáratnál.",
                 "ro": "Parcați ferit de vânt la intrare.",
-                "en": "Park in a wind-sheltered spot at the entry."
+                "en": "Park in a wind-sheltered spot at the entry.",
+                "el": "Σταθμεύστε σε σημείο προστατευμένο από τον άνεμο στην είσοδο."
               }
             },
             {
@@ -1120,7 +1215,8 @@
                 "de": "Wärmen Sie Ihre Hände im Inneren auf.",
                 "hu": "Melegítse fel a kezeit odabent.",
                 "ro": "Încălziți-vă mâinile în interior.",
-                "en": "Warm up your hands inside the building."
+                "en": "Warm up your hands inside the building.",
+                "el": "Ζεστάνετε τα χέρια σας μέσα στο κτήριο."
               }
             }
           ],
@@ -1148,6 +1244,12 @@
               "Watch out for frozen puddles (ice).",
               "Plan to return before 5 PM.",
               "Warm drinks in a thermos are helpful."
+            ],
+            "el": [
+              "Αδιάβροχα γάντια είναι απαραίτητα.",
+              "Προσοχή σε παγωμένες λακκούβες (πάγος).",
+              "Σχεδιάστε να επιστρέψετε πριν τις 17:00.",
+              "Τα ζεστά ροφήματα σε θερμός είναι χρήσιμα."
             ]
           }
         }
@@ -1166,7 +1268,8 @@
             "de": "Parkplatz Varosi-Viertel",
             "hu": "Parkoló a Varosi negyednél",
             "ro": "Parcare Cartierul Varosi",
-            "en": "Varosi District Parking"
+            "en": "Varosi District Parking",
+            "el": "Χώρος Στάθμευσης Βαρόσι"
           },
           "coords": [
             22.0525,
@@ -1182,7 +1285,8 @@
             "de": "Parken Sie hier und erkunden Sie den ersten Cluster zu Fuß.",
             "hu": "Parkoljon itt, és fedezze fel az első látnivaló-csoportot gyalog.",
             "ro": "Parcați aici și explorați primul grup de atracții pe jos.",
-            "en": "Park here and explore the first cluster on foot."
+            "en": "Park here and explore the first cluster on foot.",
+            "el": "Σταθμεύστε εδώ και εξερευνήστε το πρώτο σύμπλεγμα με τα πόδια."
           }
         },
         {
@@ -1190,7 +1294,8 @@
             "de": "Varosi-Viertel",
             "hu": "Varosi negyed",
             "ro": "Cartierul Varosi",
-            "en": "Varosi District"
+            "en": "Varosi District",
+            "el": "Περιοχή Βαρόσι"
           },
           "coords": [
             22.0511,
@@ -1206,7 +1311,8 @@
             "de": "Genießen Sie die autofreie Atmosphäre dieses gut erhaltenen historischen Viertels.",
             "hu": "Élvezze ennek a jól megőrzött történelmi negyednek az autómentes hangulatát.",
             "ro": "Bucurați-vă de atmosfera fără mașini a acestui cartier istoric bine conservat.",
-            "en": "Enjoy the car-free atmosphere of this well-preserved historic district."
+            "en": "Enjoy the car-free atmosphere of this well-preserved historic district.",
+            "el": "Απολαύστε την ατμόσφαιρα χωρίς αυτοκίνητα αυτής της καλά διατηρημένης ιστορικής συνοικίας."
           }
         },
         {
@@ -1214,7 +1320,8 @@
             "de": "Byzantinische Brücke",
             "hu": "Bizánci híd",
             "ro": "Podul Bizantin",
-            "en": "Byzantine Bridge"
+            "en": "Byzantine Bridge",
+            "el": "Βυζαντινή Γέφυρα"
           },
           "coords": [
             22.052,
@@ -1230,7 +1337,8 @@
             "de": "Ein kurzer Spaziergang vom Herzen von Varosi entfernt, auf dem Rückweg zum Auto.",
             "hu": "Rövid séta Varosi szívétől, visszafelé az autóhoz.",
             "ro": "O scurtă plimbare de la inima Varosi, în drum spre mașină.",
-            "en": "A short walk from the heart of Varosi, on your way back to the car."
+            "en": "A short walk from the heart of Varosi, on your way back to the car.",
+            "el": "Σύντομος περίπατος από την καρδιά της Βαρόσι, στο δρόμο της επιστροφής προς το αυτοκίνητο."
           }
         },
         {
@@ -1238,7 +1346,8 @@
             "de": "Parkplatz Wasserfälle",
             "hu": "Parkoló a vízeséseknél",
             "ro": "Parcare Cascade",
-            "en": "Waterfalls Parking"
+            "en": "Waterfalls Parking",
+            "el": "Χώρος Στάθμευσης Καταρρακτών"
           },
           "coords": [
             22.0455,
@@ -1254,7 +1363,8 @@
             "de": "Der Hauptparkplatz für den zweiten Cluster. Von hier aus ist alles zu Fuß erreichbar.",
             "hu": "A második látnivaló-csoport fő parkolója. Innen minden gyalog elérhető.",
             "ro": "Parcarea principală pentru al doilea grup de atracții. Totul este la distanță de mers pe jos de aici.",
-            "en": "The main parking area for the second cluster. Everything is within walking distance from here."
+            "en": "The main parking area for the second cluster. Everything is within walking distance from here.",
+            "el": "Ο κύριος χώρος στάθμευσης για το δεύτερο σύμπλεγμα. Όλα είναι σε κοντινή απόσταση με τα πόδια από εδώ."
           }
         },
         {
@@ -1262,7 +1372,8 @@
             "de": "Park der Wasserfälle & Wasserfälle",
             "hu": "Vízesések parkja és vízesések",
             "ro": "Parcul Cascadei & Cascadele",
-            "en": "Waterfalls Park & Waterfalls"
+            "en": "Waterfalls Park & Waterfalls",
+            "el": "Πάρκο Καταρρακτών & Καταρράκτες"
           },
           "coords": [
             22.044,
@@ -1278,7 +1389,8 @@
             "de": "Planen Sie hier Ihre Mittagspause in einem der vielen Restaurants mit Aussicht.",
             "hu": "Tervezze ide az ebédszünetet a számos, kilátással rendelkező étterem egyikében.",
             "ro": "Planificați-vă pauza de prânz aici, la unul dintre multele restaurante cu vedere.",
-            "en": "Plan your lunch break here at one of the many restaurants with a view."
+            "en": "Plan your lunch break here at one of the many restaurants with a view.",
+            "el": "Σχεδιάστε το μεσημεριανό σας διάλειμμα εδώ σε ένα από τα πολλά εστιατόρια με θέα."
           }
         },
         {
@@ -1286,7 +1398,8 @@
             "de": "Wasser-Freilichtmuseum",
             "hu": "Szabadtéri Vízi Múzeum",
             "ro": "Muzeul Apei în Aer Liber",
-            "en": "Open-Air Water Museum"
+            "en": "Open-Air Water Museum",
+            "el": "Υπαίθριο Μουσείο Νερού"
           },
           "coords": [
             22.0435,
@@ -1302,7 +1415,8 @@
             "de": "Ein angenehmer Spaziergang bergab vom Hauptwasserfall durch den Park.",
             "hu": "Kellemes séta lefelé a fő vízeséstől a parkon keresztül.",
             "ro": "O plimbare plăcută la vale de la cascada principală prin parc.",
-            "en": "A pleasant downhill walk from the main waterfall through the park."
+            "en": "A pleasant downhill walk from the main waterfall through the park.",
+            "el": "Απολαυστικός κατήφορος με τα πόδια από τον κύριο καταρράκτη μέσα από το πάρκο."
           }
         },
         {
@@ -1310,7 +1424,8 @@
             "de": "Aussichtspunkt außerhalb der Stadt",
             "hu": "Városon kívüli kilátópont",
             "ro": "Punct de belvedere în afara orașului",
-            "en": "Viewpoint Outside the City"
+            "en": "Viewpoint Outside the City",
+            "el": "Σημείο Θέατος Έξω από την Πόλη"
           },
           "coords": [
             22.03,
@@ -1326,7 +1441,8 @@
             "de": "Eine kurze Fahrt für einen Panoramablick auf Edessa und die darunter liegende Ebene.",
             "hu": "Rövid autózás egy panorámás kilátásért Edesszára és az alatta elterülő síkságra.",
             "ro": "O scurtă călătorie cu mașina pentru o vedere panoramică a Edessei și a câmpiei de dedesubt.",
-            "en": "A short drive for a panoramic view of Edessa and the plain below."
+            "en": "A short drive for a panoramic view of Edessa and the plain below.",
+            "el": "Σύντομη διαδρομή με αυτοκίνητο για πανοραμική θέα της Έδεσσας και της πεδιάδας από κάτω."
           }
         }
       ],
@@ -1334,7 +1450,8 @@
         "de": "Parken Sie Ihr Auto und beginnen Sie den Tag mit einem Spaziergang durch das historische Varosi-Viertel. Fahren Sie dann zum Hauptparkplatz der Wasserfälle für den zweiten Teil Ihres Tages. Verbringen Sie Stunden damit, die Wasserfälle und Museen zu Fuß zu erkunden. Beenden Sie Ihr Abenteuer mit einer kurzen Fahrt zu einem Aussichtspunkt, um die Stadt bei Sonnenuntergang zu bewundern.",
         "hu": "Parkolja le az autót, és kezdje a napot egy sétával a történelmi Varosi negyedben. Ezután hajtson a vízesések fő parkolójába a nap második feléhez. Töltsön órákat a vízesések és múzeumok gyalogos felfedezésével. Zárja a kalandot egy rövid autózással egy kilátóponthoz, hogy naplementekor megcsodálhassa a várost.",
         "ro": "Parcați mașina și începeți ziua cu o plimbare prin cartierul istoric Varosi. Apoi, conduceți la parcarea principală a cascadelor pentru a doua parte a zilei. Petreceți ore întregi explorând cascadele și muzeele pe jos. Încheiați aventura cu o scurtă călătorie cu mașina la un punct de belvedere pentru a admira orașul la apus.",
-        "en": "Park your car and start the day with a walking tour of the historic Varosi district. Then, drive to the main waterfalls parking for the second cluster of your day. Spend hours exploring the falls and museums on foot. Finish your adventure with a short drive to a viewpoint to admire the city at sunset."
+        "en": "Park your car and start the day with a walking tour of the historic Varosi district. Then, drive to the main waterfalls parking for the second cluster of your day. Spend hours exploring the falls and museums on foot. Finish your adventure with a short drive to a viewpoint to admire the city at sunset.",
+        "el": "Σταθμεύστε το αυτοκίνητό σας και ξεκινήστε τη μέρα με περιήγηση με τα πόδια στην ιστορική συνοικία Βαρόσι. Έπειτα, οδηγήστε στον κύριο χώρο στάθμευσης των καταρρακτών για το δεύτερο σύμπλεγμα της ημέρας. Περάστε ώρες εξερευνώντας τους καταρράκτες και τα μουσεία πεζοί. Ολοκληρώστε την περιπέτειά σας με μια σύντομη διαδρομή σε σημείο θέας για να θαυμάσετε την πόλη στο ηλιοβασίλεμα."
       },
       "gastro_picks": {
         "de": [
@@ -1488,6 +1605,12 @@
           "The roads around Edessa are winding, drive carefully.",
           "Combine your visit with a trip to nearby Loutra Pozar (thermal baths).",
           "Be aware of parking fees, especially near the waterfalls."
+        ],
+        "el": [
+          "Η στάθμευση μπορεί να είναι δύσκολη στο κέντρο της πόλης· χρησιμοποιήστε τα καθορισμένα σημεία στάθμευσης.",
+          "Οι δρόμοι γύρω από την Έδεσσα είναι φιδωτοί — οδηγήστε προσεκτικά.",
+          "Συνδυάστε την επίσκεψή σας με ταξίδι στα κοντινά Λουτρά Πόζαρ (θεραπ. λουτρά).",
+          "Να γνωρίζετε τα τέλη στάθμευσης, ειδικά κοντά στους καταρράκτες."
         ]
       },
       "variants": {
@@ -1496,7 +1619,8 @@
             "de": "Mit dem Auto ist Edessa bei Regen komfortabel zu erkunden. Vormittags parken wir nah am Varosi-Viertel und machen kurze Abstecher ins Freie. Mittags bewundern wir die Wasserfälle, wobei der Wagen als trockener Rückzugsort dient. Nachmittags verbringen wir viel Zeit im Wassermuseum und der Hanffabrik. Der Abend schließt mit einer Fahrt zum Aussichtspunkt ab, von dem aus wir die regnerische Stadt überblicken.",
             "hu": "Autóval Edessza felfedezése esőben is kényelmes marad. Délelőtt a Varosi negyed közelében parkolunk, rövid kirándulásokat téve a szabadba. Délben a vízeséseket csodáljuk meg, az autó pedig száraz menedékként szolgál. Délután több időt töltünk a vízimuzeumban és a kendergyárban. Az este a városon kívüli kilátópontnál zárul, ahonnan rálátunk az esős városra.",
             "ro": "Cu mașina, explorarea orașului Edessa pe ploaie rămâne confortabilă. Dimineața parcăm aproape de Varosi și facem scurte ieșiri afară. La prânz admirăm cascadele, mașina servind drept refugiu uscat. După-amiaza petrecem mult timp în Muzeul Apei și fabrica de cânepă. Seara se încheie cu o vizită la punctul de belvedere, de unde vedem orașul sub ploaie.",
-            "en": "Exploring Edessa by car remains comfortable even in the rain. In the morning, we park close to Varosi and take short trips outside. At noon, we admire the falls, using the car as a dry retreat. In the afternoon, we spend plenty of time at the Water Museum and Hemp Factory. The evening concludes at the viewpoint, overlooking the rain-washed city."
+            "en": "Exploring Edessa by car remains comfortable even in the rain. In the morning, we park close to Varosi and take short trips outside. At noon, we admire the falls, using the car as a dry retreat. In the afternoon, we spend plenty of time at the Water Museum and Hemp Factory. The evening concludes at the viewpoint, overlooking the rain-washed city.",
+            "el": "Η εξερεύνηση της Έδεσσας με αυτοκίνητο παραμένει άνετη ακόμη και στη βροχή. Το πρωί παρκάρουμε κοντά στη Βαρόσι και κάνουμε μικρές εξορμήσεις έξω. Το μεσημέρι θαυμάζουμε τους καταρράκτες, χρησιμοποιώντας το αυτοκίνητο ως στεγανό καταφύγιο. Το απόγευμα περνάμε πολύ χρόνο στο Υδροτρόπιο (Μουσείο Νερού) και στο Εργοστάσιο Κάνναβης. Το βράδυ κλείνει στο σημείο θέασης, με θέα την πόλη πλυμένη από τη βροχή."
           },
           "stops": [
             {
@@ -1505,7 +1629,8 @@
                 "de": "Nutzen Sie den Parkplatz direkt am Rand.",
                 "hu": "Használja a közvetlenül a szélén lévő parkolót.",
                 "ro": "Folosiți parcarea de la marginea zonei.",
-                "en": "Use the parking lot right at the edge."
+                "en": "Use the parking lot right at the edge.",
+                "el": "Χρησιμοποιήστε το πάρκινγκ ακριβώς στην άκρη."
               }
             },
             {
@@ -1514,7 +1639,8 @@
                 "de": "Kurze Wege zwischen Auto und Gassen.",
                 "hu": "Rövid utak az autó és a sikátorok között.",
                 "ro": "Drumuri scurte între mașină și străzi.",
-                "en": "Short walks between the car and the alleys."
+                "en": "Short walks between the car and the alleys.",
+                "el": "Σύντομοι περίπατοι ανάμεσα στο αυτοκίνητο και τα δρομάκια."
               }
             },
             {
@@ -1523,7 +1649,8 @@
                 "de": "Parken Sie kurz für ein schnelles Foto.",
                 "hu": "Parkoljon le egy gyors fotó erejéig.",
                 "ro": "Parcați scurt pentru o poză rapidă.",
-                "en": "Park briefly for a quick photo."
+                "en": "Park briefly for a quick photo.",
+                "el": "Παρκάρετε για λίγο για μια γρήγορη φωτογραφία."
               }
             },
             {
@@ -1532,7 +1659,8 @@
                 "de": "Oft voll bei Regen, da alle das Auto nutzen.",
                 "hu": "Esőben gyakran tele van, mindenki autózik.",
                 "ro": "Adesea plină pe ploaie, toți vin cu mașina.",
-                "en": "Often full in the rain as everyone drives."
+                "en": "Often full in the rain as everyone drives.",
+                "el": "Συχνά γεμάτο στη βροχή καθώς όλοι οδηγούν."
               }
             },
             {
@@ -1541,7 +1669,8 @@
                 "de": "Regenschirm direkt vom Parkplatz mitnehmen.",
                 "hu": "Vigyen esernyőt közvetlenül a parkolóból.",
                 "ro": "Luați umbrela direct din parcare.",
-                "en": "Take an umbrella directly from the parking."
+                "en": "Take an umbrella directly from the parking.",
+                "el": "Πάρτε ομπρέλα απευθείας από το πάρκινγκ."
               }
             },
             {
@@ -1550,7 +1679,8 @@
                 "de": "Parken Sie nah am Haupteingang.",
                 "hu": "Parkoljon közel a főbejárathoz.",
                 "ro": "Parcați aproape de intrarea principală.",
-                "en": "Park close to the main entrance."
+                "en": "Park close to the main entrance.",
+                "el": "Σταθμεύστε κοντά στην κύρια είσοδο."
               }
             },
             {
@@ -1559,7 +1689,8 @@
                 "de": "Genießen Sie die Sicht aus dem trockenen Auto.",
                 "hu": "Élvezze a kilátást a száraz autóból.",
                 "ro": "Bucurați-vă de vedere din mașina uscată.",
-                "en": "Enjoy the view from inside the dry car."
+                "en": "Enjoy the view from inside the dry car.",
+                "el": "Απολαύστε τη θέα από το στεγνό αυτοκίνητο."
               }
             }
           ],
@@ -1587,6 +1718,12 @@
               "Watch out for aquaplaning on access roads.",
               "Keep towels ready for wet clothes.",
               "Parking lots fill up faster during rain."
+            ],
+            "el": [
+              "Χρησιμοποιήστε το κλιματιστικό για να αποφύγετε τη θόλωση του παρμπρίζ.",
+              "Προσοχή στο υδροπλάνο σε προσβάσιμους δρόμους.",
+              "Κρατήστε πετσέτες έτοιμες για βρεγμένα ρούχα.",
+              "Τα πάρκινγκ γεμίζουν πιο γρήγορα κατά τη βροχή."
             ]
           }
         },
@@ -1595,7 +1732,8 @@
             "de": "Winterliches Edessa lässt sich ideal mit dem Auto erfahren, da man stets einen warmen Ort hat. Vormittags erkunden wir das ruhige Varosi-Viertel im sanften Licht. Mittags bestaunen wir die beeindruckenden Wasserfälle in der klaren Winterluft. Nachmittags besuchen wir das Wassermuseum, bevor es dunkel wird. Zum Abschluss fahren wir zum Aussichtspunkt, um das Lichtermeer der Stadt in der Winternacht zu sehen.",
             "hu": "A téli Edessza felfedezése autóval ideális, hiszen mindig van egy meleg bázisunk. Délelőtt a csendes Varosi negyedet járjuk be a lágy fényekben. Délben a lenyűgöző vízeséseket csodáljuk a tiszta téli levegőben. Délután a vízimuzeumba látogatunk, mielőtt besötétedik. Végezetül a kilátóhoz hajtunk, hogy lássuk a város fényeit a téli éjszakában.",
             "ro": "Edessa de iarnă se explorează ideal cu mașina, având mereu un loc cald la dispoziție. Dimineața vizităm cartierul liniștit Varosi în lumina blândă. La prânz admirăm cascadele impresionante în aerul clar. După-amiaza vizităm Muzeul Apei înainte de lăsarea întunericului. La final, mergem la punctul de belvedere pentru a vedea luminile orașului noaptea.",
-            "en": "Winter Edessa is ideally explored by car, providing a warm base at all times. In the morning, we wander through the quiet Varosi district in soft light. At noon, we marvel at the impressive falls in the clear winter air. In the afternoon, we visit the Water Museum before it gets dark. Finally, we drive to the viewpoint to see the city lights in the winter night."
+            "en": "Winter Edessa is ideally explored by car, providing a warm base at all times. In the morning, we wander through the quiet Varosi district in soft light. At noon, we marvel at the impressive falls in the clear winter air. In the afternoon, we visit the Water Museum before it gets dark. Finally, we drive to the viewpoint to see the city lights in the winter night.",
+            "el": "Η Έδεσσα το χειμώνα προτιμάται να εξερευνηθεί με αυτοκίνητο, προσφέροντας πάντα μια ζεστή βάση. Το πρωί περπατάμε στη ήσυχη γειτονιά της Βαρόσι με απαλό φως. Το μεσημέρι θαυμάζουμε τους εντυπωσιακούς καταρράκτες στον καθαρό χειμωνιάτικο αέρα. Το απόγευμα επισκεπτόμαστε το Μουσείο Νερού πριν σκοτεινιάσει. Τέλος, οδηγούμε στο σημείο θέασης για να δούμε τα φώτα της πόλης τη χειμωνιάτικη νύχτα."
           },
           "stops": [
             {
@@ -1604,7 +1742,8 @@
                 "de": "Parkplatz kann morgens überfroren sein.",
                 "hu": "A parkoló reggelente jeges lehet.",
                 "ro": "Parcarea poate fi înghețată dimineața.",
-                "en": "The parking lot may be icy in the morning."
+                "en": "The parking lot may be icy in the morning.",
+                "el": "Το πάρκινγκ μπορεί να είναι παγωμένο το πρωί."
               }
             },
             {
@@ -1613,7 +1752,8 @@
                 "de": "Nutzen Sie die Sitzheizung nach dem Spaziergang.",
                 "hu": "Használja az ülésfűtést a séta után.",
                 "ro": "Folosiți încălzirea în scaune după plimbare.",
-                "en": "Use seat heating after your walk."
+                "en": "Use seat heating after your walk.",
+                "el": "Χρησιμοποιήστε το θερμαινόμενο κάθισμα μετά τον περίπατο."
               }
             },
             {
@@ -1622,7 +1762,8 @@
                 "de": "Kurzer Stopp, um die Kälte zu minimieren.",
                 "hu": "Rövid megálló a hideg minimalizálására.",
                 "ro": "Oprire scurtă pentru a minimiza frigul.",
-                "en": "Short stop to minimize cold exposure."
+                "en": "Short stop to minimize cold exposure.",
+                "el": "Σύντομη στάση για να ελαχιστοποιήσετε την έκθεση στο κρύο."
               }
             },
             {
@@ -1631,7 +1772,8 @@
                 "de": "Vorsicht vor Eiszapfen an den Bäumen.",
                 "hu": "Vigyázzon a fákon lévő jégcsapokra.",
                 "ro": "Atenție la țurțurii de pe copaci.",
-                "en": "Watch out for icicles on the trees."
+                "en": "Watch out for icicles on the trees.",
+                "el": "Προσοχή στους σταλακτίτες πάγου από τα δέντρα."
               }
             },
             {
@@ -1640,7 +1782,8 @@
                 "de": "Besonders klarer Blick bei Frost.",
                 "hu": "Különösen tiszta kilátás fagy esetén.",
                 "ro": "Vedere foarte clară în caz de îngheț.",
-                "en": "Exceedingly clear views during frost."
+                "en": "Exceedingly clear views during frost.",
+                "el": "Εξαιρετικά καθαρές αποψές κατά τον παγετό."
               }
             },
             {
@@ -1649,7 +1792,8 @@
                 "de": "Drinnen ist es deutlich angenehmer.",
                 "hu": "Odabent lényegesen kellemesebb az idő.",
                 "ro": "În interior este mult mai plăcut.",
-                "en": "It is significantly warmer inside."
+                "en": "It is significantly warmer inside.",
+                "el": "Σημαντικά πιο ζεστά μέσα στο αυτοκίνητο."
               }
             },
             {
@@ -1658,7 +1802,8 @@
                 "de": "Perfekt für Nachtaufnahmen der Stadt.",
                 "hu": "Tökéletes hely éjszakai városfotókhoz.",
                 "ro": "Perfect pentru poze de noapte cu orașul.",
-                "en": "Perfect for night photos of the city."
+                "en": "Perfect for night photos of the city.",
+                "el": "Ιδανικό για νυχτερινές φωτογραφίες της πόλης."
               }
             }
           ],
@@ -1686,6 +1831,12 @@
               "Keep an ice scraper ready in the car.",
               "Watch out for shaded road sections.",
               "Turn on lights early during twilight."
+            ],
+            "el": [
+              "Ελέγξτε την πίεση των ελαστικών σε ψυχρό καιρό.",
+              "Κρατήστε ένα ξύστρα πάγου στο αυτοκίνητο.",
+              "Προσοχή σε σκιασμένα τμήματα του δρόμου.",
+              "Ανοίξτε τα φώτα νωρίτερα στο λυκαυγές."
             ]
           }
         }
@@ -1704,7 +1855,8 @@
             "de": "Zentraler Busbahnhof",
             "hu": "Központi buszpályaudvar",
             "ro": "Autogara Centrală",
-            "en": "Central Bus Station"
+            "en": "Central Bus Station",
+            "el": "Κεντρικός Σταθμός Λεωφορείων"
           },
           "coords": [
             22.047,
@@ -1720,7 +1872,8 @@
             "de": "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten im Stadtgebiet.",
             "hu": "Vásároljon napijegyet a korlátlan utazáshoz a városi területen.",
             "ro": "Cumpărați un bilet de o zi pentru călătorii nelimitate în zona urbană.",
-            "en": "Purchase a day pass for unlimited travel within the city area."
+            "en": "Purchase a day pass for unlimited travel within the city area.",
+            "el": "Αγοράστε ημερήσιο εισιτήριο για απεριόριστες διαδρομές εντός της περιοχής της πόλης."
           }
         },
         {
@@ -1728,7 +1881,8 @@
             "de": "Haltestelle Varosi",
             "hu": "Varosi megálló",
             "ro": "Stația Varosi",
-            "en": "Varosi Stop"
+            "en": "Varosi Stop",
+            "el": "Στάση Βαρόσι"
           },
           "coords": [
             22.0515,
@@ -1744,7 +1898,8 @@
             "de": "Steigen Sie hier aus und erkunden Sie das alte Viertel und die nahe gelegenen historischen Stätten zu Fuß.",
             "hu": "Szálljon le itt, és fedezze fel gyalog az óvárost és a közeli történelmi helyszíneket.",
             "ro": "Coborâți aici și explorați cartierul vechi și siturile istorice din apropiere pe jos.",
-            "en": "Get off here and explore the old district and nearby historic sites on foot."
+            "en": "Get off here and explore the old district and nearby historic sites on foot.",
+            "el": "Κατεβείτε εδώ και εξερευνήστε με τα πόδια την παλιά συνοικία και τα κοντινά ιστορικά σημεία."
           }
         },
         {
@@ -1752,7 +1907,8 @@
             "de": "Yeni-Moschee",
             "hu": "Yeni-mecset",
             "ro": "Moscheea Yeni",
-            "en": "Yeni Mosque"
+            "en": "Yeni Mosque",
+            "el": "Yeni Mosque"
           },
           "coords": [
             22.0495,
@@ -1768,7 +1924,8 @@
             "de": "Ein kurzer Spaziergang durch die malerischen Straßen von der Bushaltestelle aus.",
             "hu": "Rövid séta a festői utcákon a buszmegállótól.",
             "ro": "O scurtă plimbare pe străzile pitorești de la stația de autobuz.",
-            "en": "A short walk through the picturesque streets from the bus stop."
+            "en": "A short walk through the picturesque streets from the bus stop.",
+            "el": "Λίγος περπάτημα μέσα από τα γραφικά δρομάκια από τη στάση του λεωφορείου."
           }
         },
         {
@@ -1776,7 +1933,8 @@
             "de": "Haltestelle Wasserfälle",
             "hu": "Vízesések megálló",
             "ro": "Stația Cascade",
-            "en": "Waterfalls Stop"
+            "en": "Waterfalls Stop",
+            "el": "Στάση Καταρρακτών"
           },
           "coords": [
             22.045,
@@ -1792,7 +1950,8 @@
             "de": "Der Hauptknotenpunkt für den Park, die Wasserfälle und die Museen. Verbringen Sie hier den Großteil des Nachmittags.",
             "hu": "A park, a vízesések és a múzeumok fő csomópontja. Töltse itt a délután nagy részét.",
             "ro": "Nodul principal pentru parc, cascade și muzee. Petreceți cea mai mare parte a după-amiezii aici.",
-            "en": "The main hub for the park, waterfalls, and museums. Spend most of your afternoon here."
+            "en": "The main hub for the park, waterfalls, and museums. Spend most of your afternoon here.",
+            "el": "Κύριος κόμβος για το πάρκο, τους καταρράκτες και τα μουσεία. Περάστε εδώ το μεγαλύτερο μέρος του απογεύματός σας."
           }
         },
         {
@@ -1800,7 +1959,8 @@
             "de": "Wasser-Freilichtmuseum",
             "hu": "Szabadtéri Vízi Múzeum",
             "ro": "Muzeul Apei în Aer Liber",
-            "en": "Open-Air Water Museum"
+            "en": "Open-Air Water Museum",
+            "el": "Ανοιχτό Μουσείο Νερού"
           },
           "coords": [
             22.0435,
@@ -1816,7 +1976,8 @@
             "de": "Folgen Sie einfach den Schildern und dem Rauschen des Wassers von der Hauptkaskade aus.",
             "hu": "Csak kövesse a táblákat és a víz hangját a fő vízeséstől.",
             "ro": "Urmați indicatoarele și sunetul apei de la cascada principală.",
-            "en": "Just follow the signs and the sound of water from the main cascade."
+            "en": "Just follow the signs and the sound of water from the main cascade.",
+            "el": "Απλώς ακολουθήστε τις πινακίδες και τον ήχο του νερού από τον κύριο καταρράκτη."
           }
         },
         {
@@ -1824,7 +1985,8 @@
             "de": "Kathedrale Agia Skepi",
             "hu": "Agia Skepi katedrális",
             "ro": "Catedrala Agia Skepi",
-            "en": "Agia Skepi Cathedral"
+            "en": "Agia Skepi Cathedral",
+            "el": "Καθεδρικός Αγίας Σκεπής"
           },
           "coords": [
             22.0465,
@@ -1840,7 +2002,8 @@
             "de": "Nehmen Sie einen Bus zurück ins Zentrum für einen letzten Halt an dieser beeindruckenden modernen Kirche.",
             "hu": "Menjen busszal vissza a központba egy utolsó megállóhoz ennél a lenyűgöző modern templomnál.",
             "ro": "Luați un autobuz înapoi în centru pentru o ultimă oprire la această impresionantă biserică modernă.",
-            "en": "Take a bus back to the center for a final stop at this impressive modern church."
+            "en": "Take a bus back to the center for a final stop at this impressive modern church.",
+            "el": "Πάρτε λεωφορείο πίσω στο κέντρο για μία τελευταία επίσκεψη σε αυτή την εντυπωσιακή σύγχρονη εκκλησία."
           }
         }
       ],
@@ -1848,7 +2011,8 @@
         "de": "Nutzen Sie den lokalen Bus, um zum historischen Varosi-Viertel zu gelangen, wo Ihr Rundgang beginnt. Nach der Erkundung der alten Gassen bringt Sie ein weiterer Bus zu den spektakulären Wasserfällen. Verbringen Sie hier den größten Teil des Tages, wandern Sie zwischen den Wasserfällen und dem Wassermuseum. Am späten Nachmittag bringt Sie ein Bus zurück ins Stadtzentrum für einen Besuch der Hauptkathedrale.",
         "hu": "Használja a helyi buszt, hogy eljusson a történelmi Varosi negyedbe, ahol a gyalogtúra kezdődik. A régi sikátorok felfedezése után egy másik busz elviszi a látványos vízesésekhez. Töltse itt a nap nagy részét, sétálva a vízesések és a vízi múzeum között. Késő délután egy busz visszaviszi a városközpontba a főszékesegyház meglátogatásához.",
         "ro": "Folosiți autobuzul local pentru a ajunge în cartierul istoric Varosi, unde începe turul pietonal. După ce explorați străduțele vechi, un alt autobuz vă va duce la cascadele spectaculoase. Petreceți cea mai mare parte a zilei aici, plimbându-vă între cascade și muzeul apei. Spre seară, un autobuz vă va duce înapoi în centrul orașului pentru o vizită la catedrala principală.",
-        "en": "Use the local bus to get to the historic Varosi district, where your walking tour begins. After exploring the old alleys, another bus will take you to the spectacular waterfalls. Spend the bulk of your day here, walking between the falls and the water museum. In the late afternoon, a bus will take you back to the city center for a visit to the main cathedral."
+        "en": "Use the local bus to get to the historic Varosi district, where your walking tour begins. After exploring the old alleys, another bus will take you to the spectacular waterfalls. Spend the bulk of your day here, walking between the falls and the water museum. In the late afternoon, a bus will take you back to the city center for a visit to the main cathedral.",
+        "el": "Χρησιμοποιήστε το τοπικό λεωφορείο για να φτάσετε στην ιστορική συνοικία Βαρόσι, όπου ξεκινά η πεζή σας περιήγηση. Μετά την εξερεύνηση των παλιών δρομάκων, άλλο λεωφορείο θα σας μεταφέρει στους θεαματικούς καταρράκτες. Περάστε το μεγαλύτερο μέρος της ημέρας εδώ, περπατώντας ανάμεσα στους καταρράκτες και το μουσείο νερού. Τα αργά απογεύματα, ένα λεωφορείο θα σας επιστρέψει στο κέντρο για επίσκεψη στον κύριο καθεδρικό ναό."
       },
       "gastro_picks": {
         "de": [
@@ -2002,6 +2166,12 @@
           "Have small change ready for bus tickets if you don't have a day pass.",
           "Bus stops are not always clearly marked; ask a local if in doubt.",
           "Buses can be crowded during peak season, be patient."
+        ],
+        "el": [
+          "Ελέγξτε το πρόγραμμα λεωφορείων εκ των προτέρων, ειδικά τα Σαββατοκύριακα και τις αργίες.",
+          "Έχετε μικρό ρέστα έτοιμα για εισιτήρια αν δεν έχετε ημερήσιο πάσο.",
+          "Οι στάσεις λεωφορείων δεν είναι πάντα σαφώς σηματοδοτημένες· ρωτήστε έναν ντόπιο αν έχετε αμφιβολίες.",
+          "Τα λεωφορεία μπορεί να είναι γεμάτα κατά τη διάρκεια της υψηλής σεζόν, να έχετε υπομονή."
         ]
       },
       "variants": {
@@ -2010,7 +2180,8 @@
             "de": "Mit dem Bus navigieren wir durch das verregnete Edessa und bleiben weitgehend trocken. Vormittags führt uns die Fahrt zum Varosi-Viertel, wo wir unter Vordächern Schutz suchen. Mittags verbringen wir viel Zeit bei den Wasserfällen, wobei die Bushäuschen als Rettungsinseln dienen. Nachmittags besuchen wir das Wassermuseum und die Kathedrale, bevor wir zurückfahren. Der Abend endet gemütlich in der Nähe des Busbahnhofs.",
             "hu": "Busszal közlekedve nagyrészt szárazon járhatjuk be az esős Edesszát. Délelőtt a járat Varosi negyedébe visz, ahol az ereszek alatt keresünk menedéket. Délben sok időt töltünk a vízeséseknél, a buszmegállók váróit használva menedékként. Délután a vízimuzeumba és a székesegyházba látogatunk, mielőtt visszatérnénk. Az este kellemesen zárul a buszpályaudvar közelében.",
             "ro": "Navigăm prin Edessa ploioasă cu autobuzul și rămânem în mare parte uscați. Dimineața, cursa ne duce în cartierul Varosi, unde ne adăpostim sub stresini. La prânz petrecem timp la cascade, folosind stațiile de autobuz ca refugii. După-amiaza vizităm Muzeul Apei și catedrala înainte de întoarcere. Seara se încheie confortabil lângă autogară.",
-            "en": "We navigate rainy Edessa by bus, staying largely dry between stops. In the morning, the ride takes us to Varosi, where we shelter under overhanging roofs. At noon, we spend time at the falls, using bus shelters as refuge points. In the afternoon, we visit the Water Museum and the cathedral before heading back. The evening ends comfortably near the central station."
+            "en": "We navigate rainy Edessa by bus, staying largely dry between stops. In the morning, the ride takes us to Varosi, where we shelter under overhanging roofs. At noon, we spend time at the falls, using bus shelters as refuge points. In the afternoon, we visit the Water Museum and the cathedral before heading back. The evening ends comfortably near the central station.",
+            "el": "Πλοηγούμαστε στη βροχερή Έδεσσα με λεωφορείο, παραμένοντας σε μεγάλο βαθμό στεγνοί ανάμεσα στις στάσεις. Το πρωί η διαδρομή μας πάει στη Βαρόσι, όπου προστατευόμαστε κάτω από προεξοχές στεγών. Το μεσημέρι περνάμε χρόνο στους καταρράκτες, χρησιμοποιώντας τις στάσεις λεωφορείων ως σημεία καταφυγής. Το απόγευμα επισκεπτόμαστε το Μουσείο Νερού και τον καθεδρικό ναό πριν επιστρέψουμε. Το βράδυ τελειώνει άνετα κοντά στον κεντρικό σταθμό."
           },
           "stops": [
             {
@@ -2019,7 +2190,8 @@
                 "de": "Warten Sie in der überdachten Halle.",
                 "hu": "Várjon a fedett várócsarnokban.",
                 "ro": "Așteptați în holul acoperit.",
-                "en": "Wait inside the sheltered hall."
+                "en": "Wait inside the sheltered hall.",
+                "el": "Περιμένετε μέσα στην υπόστεγη αίθουσα."
               }
             },
             {
@@ -2028,7 +2200,8 @@
                 "de": "Kurzer Sprint zum historischen Viertel.",
                 "hu": "Rövid sprint a történelmi negyedig.",
                 "ro": "Sprint scurt până în cartierul istoric.",
-                "en": "Short sprint to the historic district."
+                "en": "Short sprint to the historic district.",
+                "el": "Σύντομη σπριντ προς την ιστορική συνοικία."
               }
             },
             {
@@ -2037,7 +2210,8 @@
                 "de": "In der Nähe gibt es gute Unterstände.",
                 "hu": "A közelben jó fedett helyek vannak.",
                 "ro": "Există adăposturi bune în apropiere.",
-                "en": "There are good shelters nearby."
+                "en": "There are good shelters nearby.",
+                "el": "Υπάρχουν καλές στεγάσεις κοντά."
               }
             },
             {
@@ -2046,7 +2220,8 @@
                 "de": "Nutzen Sie das Wartehäuschen bei Schauern.",
                 "hu": "Használja a várótermet záporok esetén.",
                 "ro": "Folosiți refugiul stației în caz de averse.",
-                "en": "Use the station shelter during showers."
+                "en": "Use the station shelter during showers.",
+                "el": "Χρησιμοποιήστε το υπόστεγο του σταθμού κατά τις μπόρες."
               }
             },
             {
@@ -2055,7 +2230,8 @@
                 "de": "Achten Sie auf Pfützen am Gehweg.",
                 "hu": "Vigyázzon a tócsákra a járdán.",
                 "ro": "Atenție la bălțile de pe trotuar.",
-                "en": "Watch out for puddles on the sidewalk."
+                "en": "Watch out for puddles on the sidewalk.",
+                "el": "Προσοχή στις λακκούβες στο πεζοδρόμιο."
               }
             },
             {
@@ -2064,7 +2240,8 @@
                 "de": "Perfekter Ort, um den Regen abzuwarten.",
                 "hu": "Tökéletes hely az eső kivárására.",
                 "ro": "Loc perfect pentru a aștepta trecerea ploii.",
-                "en": "Perfect place to wait out the rain."
+                "en": "Perfect place to wait out the rain.",
+                "el": "Ιδανικό μέρος για να περάσει κανείς τη βροχή."
               }
             }
           ],
@@ -2092,6 +2269,12 @@
               "Buses are often very crowded in the rain.",
               "Keep small change ready for tickets.",
               "Wear waterproof shoes for the walk intervals."
+            ],
+            "el": [
+              "Ελέγξτε την εφαρμογή για πιθανές καθυστερήσεις.",
+              "Τα λεωφορεία συχνά είναι πολύ γεμάτα στη βροχή.",
+              "Κρατήστε μικρό ρέστα έτοιμο για εισιτήρια.",
+              "Φορέστε αδιάβροχα παπούτσια για τα διαστήματα βαδίματος."
             ]
           }
         },
@@ -2100,7 +2283,8 @@
             "de": "Der Bus bietet im winterlichen Edessa eine warme Zuflucht zwischen den Sehenswürdigkeiten. Vormittags fahren wir zum Varosi-Viertel, das im Winterlicht besonders ruhig ist. Mittags erreichen wir die frostigen Wasserfälle, bevor wir uns in den beheizten Bussen wieder aufwärmen. Nachmittags besuchen wir das Wassermuseum und die Agia Skepi Kathedrale. Der Abend bricht früh an, und die Busfahrt zurück bietet einen Blick auf die beleuchtete Stadt.",
             "hu": "A busz meleg menedéket nyújt a téli Edesszában a látnivalók között. Délelőtt a Varosi negyedbe utazunk, amely a téli fényben különösen csendes. Délben megnézzük a fagyos vízeséseket, majd a fűtött buszokon melegszünk fel. Délután a vízimuzeumba és az Agia Skepi székesegyházba látogatunk. Az este korán beköszönt, a visszaút pedig rálátást nyújt a kivilágított városra.",
             "ro": "Autobuzul oferă un refugiu cald în Edessa de iarnă între obiective. Dimineața mergem în cartierul Varosi, care este foarte liniștit în lumina iernii. La prânz vedem cascadele înghețate, apoi ne încălzim în autobuzele încălzite. După-amiaza vizităm Muzeul Apei și catedrala Agia Skepi. Seara vine devreme, iar drumul de întoarcere oferă o vedere spre orașul iluminat.",
-            "en": "The bus provides a warm refuge between sights in winter Edessa. In the morning, we travel to the Varosi district, which is especially quiet in winter light. At noon, we see the frosty falls before warming up again on the heated buses. In the afternoon, we visit the Water Museum and the Agia Skepi Cathedral. Evening sets in early, and the ride back offers views of the lit city."
+            "en": "The bus provides a warm refuge between sights in winter Edessa. In the morning, we travel to the Varosi district, which is especially quiet in winter light. At noon, we see the frosty falls before warming up again on the heated buses. In the afternoon, we visit the Water Museum and the Agia Skepi Cathedral. Evening sets in early, and the ride back offers views of the lit city.",
+            "el": "Το λεωφορείο παρέχει ζεστό καταφύγιο ανάμεσα στα αξιοθέατα στη χειμερινή Έδεσσα. Το πρωί ταξιδεύουμε στη συνοικία Βαρόσι, που είναι ιδιαίτερα ήσυχη στο χειμωνιάτικο φως. Το μεσημέρι βλέπουμε τους παγωμένους καταρράκτες πριν ζεσταθούμε ξανά στα θερμαινόμενα λεωφορεία. Το απόγευμα επισκεπτόμαστε το Μουσείο Νερού και τον Καθεδρικό Αγίας Σκεπής. Το βράδυ πέφτει νωρίς και η επιστροφή προσφέρει θέα στα φωτισμένα της πόλης."
           },
           "stops": [
             {
@@ -2109,7 +2293,8 @@
                 "de": "Bleiben Sie im Inneren, bis der Bus kommt.",
                 "hu": "Maradjon odabent a busz érkezéséig.",
                 "ro": "Stați în interior până vine autobuzul.",
-                "en": "Stay inside until the bus arrives."
+                "en": "Stay inside until the bus arrives.",
+                "el": "Μείνετε μέσα μέχρι να φτάσει το λεωφορείο."
               }
             },
             {
@@ -2118,7 +2303,8 @@
                 "de": "Zügiges Gehen hält Sie warm.",
                 "hu": "A tempós gyaloglás melegen tartja.",
                 "ro": "Mersul vioi vă va ține de cald.",
-                "en": "Brisk walking will keep you warm."
+                "en": "Brisk walking will keep you warm.",
+                "el": "Γρήγορο περπάτημα θα σας κρατήσει ζεστούς."
               }
             },
             {
@@ -2127,7 +2313,8 @@
                 "de": "Schöner Anblick im klaren Frost.",
                 "hu": "Szép látvány a tiszta fagyban.",
                 "ro": "Vedere frumoasă în gerul clar.",
-                "en": "Beautiful sight in the clear frost."
+                "en": "Beautiful sight in the clear frost.",
+                "el": "Όμορφο θέαμα στον καθαρό παγετό."
               }
             },
             {
@@ -2136,7 +2323,8 @@
                 "de": "Haltestelle liegt im kalten Windschatten.",
                 "hu": "A megálló a hideg szélárnyékban van.",
                 "ro": "Stația se află în zona de vânt rece.",
-                "en": "The stop is located in a cold wind path."
+                "en": "The stop is located in a cold wind path.",
+                "el": "Η στάση βρίσκεται σε μονοπάτι κρύου ανέμου."
               }
             },
             {
@@ -2145,7 +2333,8 @@
                 "de": "Besuch der Innenräume empfohlen.",
                 "hu": "A belső terek meglátogatása javasolt.",
                 "ro": "Se recomandă vizitarea spațiilor interioare.",
-                "en": "Visiting the indoor sections is recommended."
+                "en": "Visiting the indoor sections is recommended.",
+                "el": "Συνιστάται η επίσκεψη στα εσωτερικά τμήματα."
               }
             },
             {
@@ -2154,7 +2343,8 @@
                 "de": "Ein Ort der Stille und Wärme.",
                 "hu": "A csend és a meleg helyszíne.",
                 "ro": "Un loc al liniștii și căldurii.",
-                "en": "A place of silence and warmth."
+                "en": "A place of silence and warmth.",
+                "el": "Ένας τόπος σιωπής και ζεστασιάς."
               }
             }
           ],
@@ -2182,6 +2372,12 @@
               "Check the early evening schedules.",
               "Prefer seats located over the heaters.",
               "Bus windows may be fogged up inside."
+            ],
+            "el": [
+              "Η συχνότητα λεωφορείων μπορεί να είναι χαμηλότερη το χειμώνα.",
+              "Ελέγξτε τα δρομολόγια πρώιμου-φεγγαριού/απόγευμα.",
+              "Προτιμήστε θέσεις πάνω από τα καλοριφέρ.",
+              "Τα παράθυρα των λεωφορείων μπορεί να θολώνουν από μέσα."
             ]
           }
         }

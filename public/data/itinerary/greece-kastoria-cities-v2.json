@@ -21,7 +21,8 @@
             "de": "Start im Viertel Doltcho",
             "hu": "Indulás a Doltcho negyedből",
             "ro": "Început în cartierul Doltcho",
-            "en": "Start in Doltcho Quarter"
+            "en": "Start in Doltcho Quarter",
+            "el": "Ξεκινήστε στη συνοικία Ντόλτσο"
           },
           "coords": [
             21.2645,
@@ -36,7 +37,8 @@
             "de": "Verlieren Sie sich in den engen Gassen und bewundern Sie die traditionellen Herrenhäuser.",
             "hu": "Tévedjen el a szűk sikátorokban, és csodálja meg a hagyományos kúriákat.",
             "ro": "Pierdeți-vă pe aleile înguste și admirați conacele tradiționale.",
-            "en": "Get lost in the narrow alleys and admire the traditional mansions."
+            "en": "Get lost in the narrow alleys and admire the traditional mansions.",
+            "el": "Χαθείτε στα στενά σοκάκια και θαυμάστε τα παραδοσιακά αρχοντικά."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Volkskundemuseum",
             "hu": "Néprajzi Múzeum",
             "ro": "Muzeul de Folclor",
-            "en": "Folklore Museum"
+            "en": "Folklore Museum",
+            "el": "Λαογραφικό Μουσείο"
           },
           "coords": [
             21.2658,
@@ -59,7 +62,8 @@
             "de": "Erfahren Sie mehr über die reiche Geschichte des Pelzhandels in Kastoria.",
             "hu": "Ismerje meg Kasztória gazdag szőrmekereskedelmi múltját.",
             "ro": "Aflați despre istoria bogată a comerțului cu blănuri din Kastoria.",
-            "en": "Learn about the rich history of the fur trade in Kastoria."
+            "en": "Learn about the rich history of the fur trade in Kastoria.",
+            "el": "Μάθετε για την πλούσια ιστορία του εμπορίου γούνας στην Καστοριά."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Herrenhaus Tsiatsiapa",
             "hu": "Tsiatsiapa-kúria",
             "ro": "Conacul Tsiatsiapa",
-            "en": "Tsiatsiapa Mansion"
+            "en": "Tsiatsiapa Mansion",
+            "el": "Αρχοντικό Τσιατσιάπα"
           },
           "coords": [
             21.264,
@@ -82,7 +87,8 @@
             "de": "Ein perfektes Beispiel für die opulente Architektur der Pelzhändler.",
             "hu": "A pazar szőrmekereskedő építészet tökéletes példája.",
             "ro": "Un exemplu perfect al arhitecturii opulente a negustorilor de blănuri.",
-            "en": "A perfect example of the opulent architecture of the fur merchants."
+            "en": "A perfect example of the opulent architecture of the fur merchants.",
+            "el": "Ένα τέλειο παράδειγμα της επιβλητικής αρχιτεκτονικής των εμπόρων γούνας."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Byzantinisches Museum",
             "hu": "Bizánci Múzeum",
             "ro": "Muzeul Bizantin",
-            "en": "Byzantine Museum"
+            "en": "Byzantine Museum",
+            "el": "Βυζαντινό Μουσείο"
           },
           "coords": [
             21.27,
@@ -105,7 +112,8 @@
             "de": "Eine beeindruckende Sammlung byzantinischer Ikonen und Kunstwerke.",
             "hu": "Lenyűgöző bizánci ikon- és műtárgygyűjtemény.",
             "ro": "O colecție impresionantă de icoane și artefacte bizantine.",
-            "en": "An impressive collection of Byzantine icons and artifacts."
+            "en": "An impressive collection of Byzantine icons and artifacts.",
+            "el": "Εντυπωσιακή συλλογή βυζαντινών εικόνων και αντικειμένων."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "See-Promenade",
             "hu": "Tóparti sétány",
             "ro": "Promenada de pe malul lacului",
-            "en": "Lake Promenade"
+            "en": "Lake Promenade",
+            "el": "Παραλία Λίμνης (Περίπατος)"
           },
           "coords": [
             21.2725,
@@ -128,7 +137,8 @@
             "de": "Genießen Sie einen entspannten Spaziergang mit Blick auf den Orestiada-See.",
             "hu": "Tegyen egy pihentető sétát az Orestiada-tóra nyíló kilátással.",
             "ro": "Bucurați-vă de o plimbare relaxantă cu vedere la Lacul Orestiada.",
-            "en": "Enjoy a relaxing stroll with views of Lake Orestiada."
+            "en": "Enjoy a relaxing stroll with views of Lake Orestiada.",
+            "el": "Απολαύστε έναν χαλαρωτικό περίπατο με θέα τη Λίμνη Ορεστιάδα."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Kirche Agios Nikolaos",
             "hu": "Szent Miklós-templom",
             "ro": "Biserica Sfântul Nicolae",
-            "en": "Church of Agios Nikolaos"
+            "en": "Church of Agios Nikolaos",
+            "el": "Εκκλησία Αγίου Νικολάου"
           },
           "coords": [
             21.263,
@@ -151,7 +162,8 @@
             "de": "Achten Sie auf die einzigartigen Fresken in dieser kleinen byzantinischen Kirche.",
             "hu": "Figyelje meg az egyedi freskókat ebben a kis bizánci templomban.",
             "ro": "Fiți atenți la frescele unice din această mică biserică bizantină.",
-            "en": "Pay attention to the unique frescoes inside this small Byzantine church."
+            "en": "Pay attention to the unique frescoes inside this small Byzantine church.",
+            "el": "Δώστε προσοχή στις μοναδικές τοιχογραφίες μέσα σε αυτή τη μικρή βυζαντινή εκκλησία."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Viertel Apozari",
             "hu": "Apozari negyed",
             "ro": "Cartierul Apozari",
-            "en": "Apozari Quarter"
+            "en": "Apozari Quarter",
+            "el": "Γειτονιά Αποζαρη"
           },
           "coords": [
             21.261,
@@ -174,7 +187,8 @@
             "de": "Ein ruhigerer Teil der Altstadt, ideal für einen Abendspaziergang.",
             "hu": "Az óváros egy csendesebb része, ideális egy esti sétához.",
             "ro": "O parte mai liniștită a orașului vechi, ideală pentru o plimbare de seară.",
-            "en": "A quieter part of the old town, perfect for an evening stroll."
+            "en": "A quieter part of the old town, perfect for an evening stroll.",
+            "el": "Μια πιο ήσυχη περιοχή της παλιάς πόλης, ιδανική για απογευματινό περίπατο."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Beginnen Sie Ihren Tag im historischen Viertel Doltcho, wo Sie durch Kopfsteinpflastergassen schlendern und die prächtigen Herrenhäuser der Pelzhändler bewundern. Das nahegelegene Volkskundemuseum bietet tiefe Einblicke in diese goldene Ära der Stadt.\nAm Mittag erkunden Sie das Byzantinische Museum, das eine der bedeutendsten Sammlungen byzantinischer Kunst in Griechenland beherbergt. Danach können Sie in einer der Tavernen am See zu Mittag essen und lokale Spezialitäten wie Süßwasserfische probieren.\nDer Nachmittag ist perfekt für einen entspannten Spaziergang entlang der See-Promenade. Genießen Sie die frische Luft, den Blick auf den See und die ruhige Atmosphäre. Besuchen Sie die kleine, aber beeindruckende Kirche Agios Nikolaos mit ihren alten Fresken.\nBeenden Sie Ihren Tag im malerischen Viertel Apozari. Suchen Sie sich einen Platz mit Blick auf den See, um den Sonnenuntergang zu beobachten. Die friedliche Stimmung und die schönen Farben machen dies zu einem unvergesslichen Erlebnis.",
         "hu": "Kezdje a napot a történelmi Doltcho negyedben, sétáljon a macskaköves utcákon, és csodálja meg a szőrmekereskedők pompás kúriáit. A közeli Néprajzi Múzeum mély betekintést nyújt a város ezen aranykorába.\nDélben fedezze fel a Bizánci Múzeumot, amely Görögország egyik legjelentősebb bizánci művészeti gyűjteményének ad otthont. Ezután ebédeljen egy tóparti tavernában, és kóstoljon meg helyi specialitásokat, például édesvízi halakat.\nA délután tökéletes egy pihentető sétára a tóparti sétányon. Élvezze a friss levegőt, a tóra nyíló kilátást és a nyugodt légkört. Látogassa meg a kicsi, de lenyűgöző Szent Miklós-templomot ősi freskóival.\nZárja a napot a festői Apozari negyedben. Keressen egy helyet, ahonnan kilátás nyílik a tóra, és nézze meg a naplementét. A békés hangulat és a gyönyörű színek felejthetetlen élménnyé teszik ezt.",
         "ro": "Începeți ziua în cartierul istoric Doltcho, plimbându-vă pe străduțele pietruite și admirând conacele opulente ale negustorilor de blănuri. Muzeul de Folclor din apropiere oferă o perspectivă profundă asupra acestei epoci de aur a orașului.\nLa prânz, explorați Muzeul Bizantin, care găzduiește una dintre cele mai importante colecții de artă bizantină din Grecia. După aceea, luați prânzul la o tavernă de pe malul lacului, gustând specialități locale precum peștele de apă dulce.\nDupă-amiaza este perfectă pentru o plimbare relaxantă de-a lungul promenadei de pe malul lacului. Bucurați-vă de aerul curat, de vederea spre lac și de atmosfera liniștită. Vizitați mica, dar impresionanta Biserică a Sfântului Nicolae, cu frescele sale vechi.\nÎncheiați ziua în pitorescul cartier Apozari. Găsiți un loc cu vedere la lac pentru a privi apusul. Atmosfera pașnică și culorile frumoase fac din aceasta o experiență de neuitat.",
-        "en": "Start your day in the historic Doltcho quarter, strolling through cobblestone alleys and admiring the opulent mansions of the fur merchants. The nearby Folklore Museum offers deep insights into this golden era of the city.\nAt midday, explore the Byzantine Museum, which houses one of the most important collections of Byzantine art in Greece. Afterwards, have lunch at a lakeside taverna, tasting local specialties like freshwater fish.\nThe afternoon is perfect for a relaxing walk along the lake promenade. Enjoy the fresh air, the view of the lake, and the tranquil atmosphere. Visit the small but impressive Church of Agios Nikolaos with its ancient frescoes.\nEnd your day in the picturesque Apozari quarter. Find a spot overlooking the lake to watch the sunset. The peaceful atmosphere and beautiful colors make this an unforgettable experience."
+        "en": "Start your day in the historic Doltcho quarter, strolling through cobblestone alleys and admiring the opulent mansions of the fur merchants. The nearby Folklore Museum offers deep insights into this golden era of the city.\nAt midday, explore the Byzantine Museum, which houses one of the most important collections of Byzantine art in Greece. Afterwards, have lunch at a lakeside taverna, tasting local specialties like freshwater fish.\nThe afternoon is perfect for a relaxing walk along the lake promenade. Enjoy the fresh air, the view of the lake, and the tranquil atmosphere. Visit the small but impressive Church of Agios Nikolaos with its ancient frescoes.\nEnd your day in the picturesque Apozari quarter. Find a spot overlooking the lake to watch the sunset. The peaceful atmosphere and beautiful colors make this an unforgettable experience.",
+        "el": "Ξεκινήστε τη μέρα σας στη ιστορική συνοικία Ντόλτσο, περπατώντας στα λιθόστρωτα σοκάκια και θαυμάζοντας τα επιβλητικά αρχοντικά των εμπόρων γούνας. Το κοντινό Λαογραφικό Μουσείο προσφέρει βαθιές γνώσεις για αυτή τη χρυσή εποχή της πόλης.\nΣτο μεσημέρι εξερευνήστε το Βυζαντινό Μουσείο, που φιλοξενεί μία από τις σημαντικότερες συλλογές βυζαντινής τέχνης στην Ελλάδα. Μετά, γευματίστε σε μια ταβέρνα δίπλα στη λίμνη, δοκιμάζοντας τοπικές σπεσιαλιτέ όπως γλυκά νερό ψάρια.\nΤο απόγευμα είναι ιδανικό για έναν χαλαρωτικό περίπατο κατά μήκος της προκυμαίας της λίμνης. Απολαύστε τον καθαρό αέρα, τη θέα της λίμνης και την ήρεμη ατμόσφαιρα. Επισκεφτείτε την μικρή αλλά εντυπωσιακή Εκκλησία του Αγίου Νικολάου με τις αρχαίες τοιχογραφίες της.\nΟλοκληρώστε τη μέρα σας στην γραφική γειτονιά Αποζάρη. Βρείτε μια θέση με θέα στη λίμνη για να παρακολουθήσετε το ηλιοβασίλεμα. Η ήρεμη ατμόσφαιρα και τα όμορφα χρώματα κάνουν αυτήν την εμπειρία αξέχαστη."
       },
       "gastro_picks": {
         "de": [
@@ -378,6 +393,12 @@
           "Many churches and museums close for lunch; plan accordingly.",
           "Take some time to just sit by the lake and watch the pelicans.",
           "The locals are friendly; don't hesitate to ask for directions."
+        ],
+        "el": [
+          "Φορέστε άνετα παπούτσια καθώς η παλιά πόλη είναι λιθόστρωτη.",
+          "Πολλές εκκλησίες και μουσεία κλείνουν για μεσημεριανό· σχεδιάστε ανάλογα.",
+          "Πάρτε λίγο χρόνο να καθίσετε στη λίμνη και να παρακολουθήσετε τα πελεκάνια.",
+          "Οι ντόπιοι είναι φιλικοί· μην διστάσετε να ζητήσετε οδηγίες."
         ]
       },
       "variants": {
@@ -386,7 +407,8 @@
             "de": "Beginnen Sie Ihren Tag im historischen Viertel Doltcho, wo die engen Gassen Schutz vor dem Wind bieten. Vormittags besuchen Sie das Volkskundemuseum und das Herrenhaus Tsiatsiapa, um den Regenschauern zu entgehen. Mittags bietet das Byzantinische Museum eine umfassende Innenausstellung. Den Nachmittag verbringen Sie bei einem kürzeren Spaziergang am nebligen Seeufer, bevor Sie den Tag in einer warmen Kirche oder einem Café in Apozari ausklingen lassen.",
             "hu": "A napot a történelmi Doltcho negyedben indítjuk, ahol a szűk utcák védelmet nyújtanak a szél ellen. Délelőtt a Néprajzi Múzeum és a Tsiatsiapa-kastély belső tereiben bújunk el az eső elől. Délben a Bizánci Múzeum gazdag tárlata nyújt hosszú fedett programot. Délután a ködös tóparti sétányon teszünk egy rövidebb kört, majd az Apozari negyed egyik templomában vagy meleg kávézójában pihenünk meg.",
             "ro": "Începeți ziua în cartierul istoric Doltcho, unde străzile înguste oferă adăpost împotriva vântului. Dimineața, vizitați Muzeul de Folclor și Conacul Tsiatsiapa pentru a evita reprizele de ploaie. La prânz, Muzeul Bizantin oferă o expoziție interioară vastă. După-amiaza este dedicată unei plimbări scurte pe malul cețos al lacului, înainte de a încheia ziua într-o biserică primitoare sau într-o cafenea caldă din cartierul Apozari.",
-            "en": "Start your day in the historic Doltcho quarter, where narrow streets provide some wind protection. Spend your morning inside the Folklore Museum and Tsiatsiapa Mansion to escape the showers. At noon, the Byzantine Museum offers an extensive indoor exhibition. In the afternoon, take a shorter walk along the misty lakefront before concluding your day in a cozy church or a warm cafe in the Apozari district."
+            "en": "Start your day in the historic Doltcho quarter, where narrow streets provide some wind protection. Spend your morning inside the Folklore Museum and Tsiatsiapa Mansion to escape the showers. At noon, the Byzantine Museum offers an extensive indoor exhibition. In the afternoon, take a shorter walk along the misty lakefront before concluding your day in a cozy church or a warm cafe in the Apozari district.",
+            "el": "Ξεκινήστε τη μέρα σας στη ιστορική συνοικία Ντόλτσο, όπου τα στενά δρομάκια προσφέρουν προστασία από τον άνεμο. Περάστε το πρωί μέσα στο Λαογραφικό Μουσείο και το Αρχοντικό Τσιατσιάπα για να αποφύγετε τις μπόρες. Στο μεσημέρι, το Βυζαντινό Μουσείο προσφέρει εκτεταμένη εσωτερική έκθεση. Το απόγευμα κάντε έναν σύντομο περίπατο κατά μήκος της ομιχλώδους παραλίας της λίμνης πριν ολοκληρώσετε τη μέρα σας σε μια ζεστή εκκλησία ή ένα φιλόξενο καφενείο στη γειτονιά Αποζάρη."
           },
           "stops": [
             {
@@ -395,7 +417,8 @@
                 "de": "Regenschirme sind in den engen Gassen praktischer als große Capes.",
                 "hu": "Az ernyő praktikusabb a szűk utcákban, mint a széles esőköpeny.",
                 "ro": "Umbrela este mai practică pe străzile înguste decât o pelerină mare.",
-                "en": "An umbrella is more practical in the narrow streets than a large cape."
+                "en": "An umbrella is more practical in the narrow streets than a large cape.",
+                "el": "Μια ομπρέλα είναι πιο πρακτική στα στενά σοκάκια παρά μια μεγάλη κάπα."
               }
             },
             {
@@ -404,7 +427,8 @@
                 "de": "Ein idealer Ort, um einen starken Regenschauer trocken abzuwarten.",
                 "hu": "Ideális helyszín egy intenzívebb zápor száraz megvárásához.",
                 "ro": "Locul ideal pentru a aștepta trecerea unei averse puternice la adăpost.",
-                "en": "An ideal place to wait out a heavy rain shower in the dry."
+                "en": "An ideal place to wait out a heavy rain shower in the dry.",
+                "el": "Ιδανικό μέρος για να περιμένετε την έντονη μπόρα στεγνοί."
               }
             },
             {
@@ -413,7 +437,8 @@
                 "de": "Achten Sie auf die rutschigen Holzstufen im Eingangsbereich.",
                 "hu": "Vigyázzon a bejáratnál a csúszós fafelületekre.",
                 "ro": "Atenție la treptele de lemn alunecoase de la intrare.",
-                "en": "Watch out for slippery wooden steps at the entrance area."
+                "en": "Watch out for slippery wooden steps at the entrance area.",
+                "el": "Προσέξτε τις ολισθηρές ξύλινες σκάλες στην είσοδο."
               }
             },
             {
@@ -422,7 +447,8 @@
                 "de": "Nutzen Sie die Garderobe, um Ihre nassen Sachen abzulegen.",
                 "hu": "Használja a ruhatárat a vizes kabátok és ernyők elhelyezésére.",
                 "ro": "Folosiți garderoba pentru a lăsa hainele și umbrelele ude.",
-                "en": "Use the cloakroom to store your wet coats and umbrellas."
+                "en": "Use the cloakroom to store your wet coats and umbrellas.",
+                "el": "Χρησιμοποιήστε το θυρωρείο/αποχωρητήριο για να αποθηκεύσετε τα βρεγμένα παλτό και τις ομπρέλες σας."
               }
             },
             {
@@ -431,7 +457,8 @@
                 "de": "Die Bäume bieten teilweisen Schutz, aber der Boden kann rutschig sein.",
                 "hu": "A fák részleges védelmet adnak, de az aszfalt csúszós lehet.",
                 "ro": "Copacii oferă protecție parțială, dar asfaltul poate fi alunecos.",
-                "en": "Trees provide partial cover, but the pavement can be slippery."
+                "en": "Trees provide partial cover, but the pavement can be slippery.",
+                "el": "Τα δέντρα παρέχουν μερική κάλυψη, αλλά το πεζοδρόμιο μπορεί να είναι ολισθηρό."
               }
             },
             {
@@ -440,7 +467,8 @@
                 "de": "Ein ruhiger, trockener Rückzugsort für spirituelle Momente.",
                 "hu": "Csendes, száraz menedék a spirituális elmélyüléshez.",
                 "ro": "Un refugiu liniștit și uscat pentru momente spirituale.",
-                "en": "A quiet, dry retreat for spiritual moments."
+                "en": "A quiet, dry retreat for spiritual moments.",
+                "el": "Μια ήσυχη, στεγνή απόδραση για πνευματικές στιγμές."
               }
             },
             {
@@ -449,7 +477,8 @@
                 "de": "Beenden Sie die Tour in einem der Restaurants mit Seeblick.",
                 "hu": "Zárja a túrát az egyik tóra néző, fedett teraszos étteremben.",
                 "ro": "Încheiați turul la unul dintre restaurantele cu vedere la lac.",
-                "en": "End the tour at one of the restaurants with a lake view."
+                "en": "End the tour at one of the restaurants with a lake view.",
+                "el": "Τελειώστε την περιήγηση σε ένα από τα εστιατόρια με θέα στη λίμνη."
               }
             }
           ],
@@ -481,6 +510,13 @@
               "Kastoria is famous for furs; many shops offer dry breaks during rain.",
               "A rain cover for your backpack protects your camera gear.",
               "Utilize the mansion interiors for extended photography stops."
+            ],
+            "el": [
+              "Φορέστε αδιάβροχα παπούτσια καθώς το νερό συλλέγεται ανάμεσα στις λιθόστρωτες πέτρες στο Doltcho.",
+              "Τα μουσεία συχνά είναι κλειστά τις Δευτέρες· ελέγξτε τα ωράρια εκ των προτέρων.",
+              "Η Καστοριά φημίζεται για τις γούνες· πολλά καταστήματα κάνουν σύντομες διακοπές σε περίπτωση βροχής.",
+              "Ένα αδιάβροχο κάλυμμα για το σακίδιο προστατεύει τον εξοπλισμό της κάμεράς σας.",
+              "Αξιοποιήστε τα εσωτερικά των αρχοντικών για εκτεταμένες στάσεις φωτογραφίας."
             ]
           }
         },
@@ -489,7 +525,8 @@
             "de": "Ein Wintermorgen in Doltcho beginnt oft mit Raureif auf den Steinen. Suchen Sie die Wärme im Volkskundemuseum und bewundern Sie die traditionelle Heizung der alten Herrenhäuser. Mittags wärmt das Byzantinische Museum auf dem Hügel Körper und Geist. Der Nachmittag am See ist frostig, bietet aber klare Sicht auf die schneebedeckten Berge, bevor die Dämmerung in den Kirchen von Apozari früh einsetzt.",
             "hu": "A téli reggel Doltchóban gyakran zúzmarás kövekkel várja. Keressen meleget a Néprajzi Múzeumban, és csodálja meg a régi kúriák hagyományos fűtési megoldásait. Délben a dombtetőn lévő Bizánci Múzeum nyújt menedéket a fagy elől. A délutáni tóparti séta csípős, de tiszta kilátást ad a havas hegyekre, mielőtt az Apozari templomai közt korán leszáll az alkony.",
             "ro": "O dimineață de iarnă în Doltcho începe adesea cu brumă pe pavaj. Căutați căldura în Muzeul de Folclor și admirați sobele tradiționale din vechile conace. La prânz, Muzeul Bizantin de pe deal vă va încălzi corpul și spiritul. După-amiaza la lac este geroasă, dar oferă vederi clare spre munții înzăpeziți, înainte ca amurgul să se lase devreme în Apozari.",
-            "en": "A winter morning in Doltcho often begins with frost on the stones. Seek warmth in the Folklore Museum and admire the traditional heating of the old mansions. At noon, the Byzantine Museum on the hill warms both body and mind. The afternoon by the lake is frosty but offers clear views of the snow-capped mountains before dusk sets in early among the Apozari churches."
+            "en": "A winter morning in Doltcho often begins with frost on the stones. Seek warmth in the Folklore Museum and admire the traditional heating of the old mansions. At noon, the Byzantine Museum on the hill warms both body and mind. The afternoon by the lake is frosty but offers clear views of the snow-capped mountains before dusk sets in early among the Apozari churches.",
+            "el": "Ένα χειμωνιάτικο πρωί στο Doltcho συχνά ξεκινά με πάγο στις πέτρες. Αναζητήστε ζεστασιά στο Λαογραφικό Μουσείο και θαυμάστε το παραδοσιακό σύστημα θέρμανσης των παλιών αρχοντικών. Το μεσημέρι, το Βυζαντινό Μουσείο στο λόφο ζεσταίνει σώμα και πνεύμα. Το απόγευμα δίπλα στη λίμνη είναι παγωμένο αλλά προσφέρει καθαρές όψεις των χιονισμένων βουνών πριν νυχτώσει νωρίς ανάμεσα στις εκκλησίες των Αποζαριών."
           },
           "stops": [
             {
@@ -498,7 +535,8 @@
                 "de": "Vorsicht vor glatten Stellen auf dem historischen Kopfsteinpflaster.",
                 "hu": "Vigyázzon a jeges foltokra a történelmi macskaköveken.",
                 "ro": "Atenție la porțiunile înghețate de pe pavajul istoric.",
-                "en": "Beware of icy patches on the historic cobblestones."
+                "en": "Beware of icy patches on the historic cobblestones.",
+                "el": "Προσοχή στα παγωμένα σημεία στις ιστορικές λιθόστρωτες επιφάνειες."
               }
             },
             {
@@ -507,7 +545,8 @@
                 "de": "Genießen Sie die gemütliche Atmosphäre in den beheizten Räumen.",
                 "hu": "Élvezze a fűtött szobák barátságos hangulatát.",
                 "ro": "Bucurați-vă de atmosfera primitoare din camerele încălzite.",
-                "en": "Enjoy the cozy atmosphere in the heated rooms."
+                "en": "Enjoy the cozy atmosphere in the heated rooms.",
+                "el": "Απολαύστε την ζεστή ατμόσφαιρα στους θερμαινόμενους χώρους."
               }
             },
             {
@@ -516,7 +555,8 @@
                 "de": "Die dicken Mauern halten die Kälte gut ab, innen ist es angenehm.",
                 "hu": "A vastag falak jól tartják a hőt, bent kellemes az idő.",
                 "ro": "Zidurile groase izolează bine frigul, interiorul este plăcut.",
-                "en": "The thick walls block the cold well; it is pleasant inside."
+                "en": "The thick walls block the cold well; it is pleasant inside.",
+                "el": "Οι παχιές τοίχοι εμποδίζουν καλά το κρύο· είναι ευχάριστο μέσα."
               }
             },
             {
@@ -525,7 +565,8 @@
                 "de": "Der Aufstieg wärmt auf, und die Sicht oben ist im Winter brillant.",
                 "hu": "A séta felmelegíti, a kilátás pedig télen különösen tiszta.",
                 "ro": "Urcarea vă va încălzi, iar vederea de sus este briliantă iarna.",
-                "en": "The climb warms you up, and the view from the top is brilliant in winter."
+                "en": "The climb warms you up, and the view from the top is brilliant in winter.",
+                "el": "Η ανάβαση σας ζεσταίνει και η θέα από την κορυφή είναι εκπληκτική τον χειμώνα."
               }
             },
             {
@@ -534,7 +575,8 @@
                 "de": "Warmer Tee in der Thermoskanne ist bei der Seeluft sehr zu empfehlen.",
                 "hu": "A tóparti szélben egy termosz meleg tea aranyat ér.",
                 "ro": "Un ceai cald în termos este foarte recomandat datorită brizei lacului.",
-                "en": "Warm tea in a thermos is highly recommended due to the lake breeze."
+                "en": "Warm tea in a thermos is highly recommended due to the lake breeze.",
+                "el": "Ζεστό τσάι σε θερμός συνιστάται έντονα λόγω του αέρα της λίμνης."
               }
             },
             {
@@ -543,7 +585,8 @@
                 "de": "Beachten Sie die kurzen Öffnungszeiten während der Wintermonate.",
                 "hu": "Ügyeljen a téli időszakban érvényes rövidebb nyitvatartásra.",
                 "ro": "Țineți cont de programul scurt din timpul lunilor de iarnă.",
-                "en": "Note the shorter opening hours during the winter months."
+                "en": "Note the shorter opening hours during the winter months.",
+                "el": "Σημειώστε τα μειωμένα ωράρια λειτουργίας κατά τους χειμερινούς μήνες."
               }
             },
             {
@@ -552,7 +595,8 @@
                 "de": "Suchen Sie eine Taverne mit Kamin für einen gemütlichen Abend.",
                 "hu": "Keressen egy kandallós tavernát a hangulatos esti vacsorához.",
                 "ro": "Căutați o tavernă cu șemineu pentru o seară confortabilă.",
-                "en": "Look for a tavern with a fireplace for a cozy evening."
+                "en": "Look for a tavern with a fireplace for a cozy evening.",
+                "el": "Ψάξτε για ταβέρνα με τζάκι για ένα ζεστό βραδινό."
               }
             }
           ],
@@ -584,6 +628,13 @@
               "Some lakeside cafes provide blankets for their outdoor seating.",
               "Gloves are essential when taking photos on the windy shore.",
               "Visit the fur shops for high-quality local winter apparel."
+            ],
+            "el": [
+              "Φορέστε θερμικά εσώρουχα· η λίμνη κάνει το κρύο να φαίνεται πιο υγρό.",
+              "Ο ήλιος δύει γύρω στις 17:00 κατά τη διάρκεια του χειμώνα.",
+              "Μερικά καφέ δίπλα στη λίμνη παρέχουν κουβέρτες για τα εξωτερικά καθίσματα.",
+              "Γάντια είναι απαραίτητα όταν τραβάτε φωτογραφίες στην ανέμου ακτή.",
+              "Επισκεφθείτε τα καταστήματα γουναρικών για τοπικά, ποιοτικά χειμερινά ρούχα."
             ]
           }
         }
@@ -602,7 +653,8 @@
             "de": "Radtour entlang der See-Promenade",
             "hu": "Kerékpártúra a tóparti sétányon",
             "ro": "Tur cu bicicleta pe promenada lacului",
-            "en": "Bike tour along the Lake Promenade"
+            "en": "Bike tour along the Lake Promenade",
+            "el": "Ποδηλατική διαδρομή κατά μήκος της λίμνης - παραλίας"
           },
           "coords": [
             21.2725,
@@ -617,7 +669,8 @@
             "de": "Starten Sie mit einer flachen, malerischen Fahrt um einen Teil des Sees.",
             "hu": "Kezdje egy sík, festői úttal a tó egy része körül.",
             "ro": "Începeți cu o plimbare plată și pitorească în jurul unei părți a lacului.",
-            "en": "Start with a flat, scenic ride around a portion of the lake."
+            "en": "Start with a flat, scenic ride around a portion of the lake.",
+            "el": "Ξεκινήστε με μια επίπεδη, γραφική βόλτα γύρω από τμήμα της λίμνης."
           }
         },
         {
@@ -625,7 +678,8 @@
             "de": "Panagia Mavriotissa Kloster",
             "hu": "Panagia Mavriotissa kolostor",
             "ro": "Mănăstirea Panagia Mavriotissa",
-            "en": "Panagia Mavriotissa Monastery"
+            "en": "Panagia Mavriotissa Monastery",
+            "el": "Μοναστήρι Παναγίας Μαυριώτισσας"
           },
           "coords": [
             21.293,
@@ -640,7 +694,8 @@
             "de": "Eine friedliche Oase mit wunderschönen Wandmalereien direkt am Seeufer.",
             "hu": "Békés oázis gyönyörű falfestményekkel, közvetlenül a tó partján.",
             "ro": "O oază de pace cu picturi murale frumoase, chiar pe malul lacului.",
-            "en": "A peaceful oasis with beautiful murals right on the lakeshore."
+            "en": "A peaceful oasis with beautiful murals right on the lakeshore.",
+            "el": "Ένας ήσυχος όασης με όμορφα τοιχογραφικά ακριβώς στην ακτή της λίμνης."
           }
         },
         {
@@ -648,7 +703,8 @@
             "de": "Drachenhöhle (Spilia tou Drakou)",
             "hu": "Sárkány-barlang (Spilia tou Drakou)",
             "ro": "Peștera Dragonului (Spilia tou Drakou)",
-            "en": "Dragon's Cave (Spilia tou Drakou)"
+            "en": "Dragon's Cave (Spilia tou Drakou)",
+            "el": "Σπηλιά του Δράκου (Spilia tou Drakou)"
           },
           "coords": [
             21.291,
@@ -663,7 +719,8 @@
             "de": "Eine beeindruckende Höhle mit unterirdischen Seen. Die Führung ist empfehlenswert.",
             "hu": "Lenyűgöző barlang földalatti tavakkal. A vezetett túra ajánlott.",
             "ro": "O peșteră impresionantă cu lacuri subterane. Turul ghidat este recomandat.",
-            "en": "An impressive cave with underground lakes. The guided tour is recommended."
+            "en": "An impressive cave with underground lakes. The guided tour is recommended.",
+            "el": "Εντυπωσιακή σπηλιά με υπόγειες λίμνες. Συνιστάται η ξενάγηση με οδηγό."
           }
         },
         {
@@ -671,7 +728,8 @@
             "de": "Byzantinisches Museum",
             "hu": "Bizánci Múzeum",
             "ro": "Muzeul Bizantin",
-            "en": "Byzantine Museum"
+            "en": "Byzantine Museum",
+            "el": "Βυζαντινό Μουσείο"
           },
           "coords": [
             21.27,
@@ -686,7 +744,8 @@
             "de": "Schließen Sie Ihr Fahrrad ab und tauchen Sie in die byzantinische Geschichte ein.",
             "hu": "Zárja le a kerékpárt, és merüljön el a bizánci történelemben.",
             "ro": "Lăsați bicicleta și scufundați-vă în istoria bizantină.",
-            "en": "Lock up your bike and dive into Byzantine history."
+            "en": "Lock up your bike and dive into Byzantine history.",
+            "el": "Κλείδωσε το ποδήλατό σου και βυθίσου στην βυζαντινή ιστορία."
           }
         },
         {
@@ -694,7 +753,8 @@
             "de": "Viertel Doltcho",
             "hu": "Doltcho negyed",
             "ro": "Cartierul Doltcho",
-            "en": "Doltcho Quarter"
+            "en": "Doltcho Quarter",
+            "el": "Συνοικία Doltcho"
           },
           "coords": [
             21.2645,
@@ -709,7 +769,8 @@
             "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie die engen Gassen zu Fuß.",
             "hu": "Tegye le a kerékpárt, és fedezze fel a szűk utcákat gyalog.",
             "ro": "Parcați bicicleta și explorați străduțele înguste pe jos.",
-            "en": "Park your bike and explore the narrow alleys on foot."
+            "en": "Park your bike and explore the narrow alleys on foot.",
+            "el": "Στάθμευσε το ποδήλατο και εξερεύνησε τα στενά σοκάκια με τα πόδια."
           }
         },
         {
@@ -717,7 +778,8 @@
             "de": "Sonnenuntergang am Orestiada-See",
             "hu": "Naplemente az Orestiada-tónál",
             "ro": "Apus de soare la Lacul Orestiada",
-            "en": "Sunset at Lake Orestiada"
+            "en": "Sunset at Lake Orestiada",
+            "el": "Ηλιοβασίλεμα στη Λίμνη Ορεστίαδα"
           },
           "coords": [
             21.26,
@@ -732,7 +794,8 @@
             "de": "Finden Sie einen schönen Platz am Westufer für die beste Aussicht.",
             "hu": "Keressen egy szép helyet a nyugati parton a legjobb kilátásért.",
             "ro": "Găsiți un loc frumos pe malul vestic pentru cea mai bună priveliște.",
-            "en": "Find a nice spot on the western shore for the best view."
+            "en": "Find a nice spot on the western shore for the best view.",
+            "el": "Βρείτε ένα ωραίο σημείο στην δυτική ακτή για την καλύτερη θέα."
           }
         }
       ],
@@ -740,7 +803,8 @@
         "de": "Beginnen Sie Ihren Radtag mit einer gemütlichen Fahrt entlang der See-Promenade. Die flache Strecke ist ideal, um sich aufzuwärmen und die Aussicht auf den Orestiada-See zu genießen. Ihr erstes Hauptziel ist das friedliche Kloster Panagia Mavriotissa.\nAm späten Vormittag wagen Sie sich zur geheimnisvollen Drachenhöhle. Die kurze, aber steile Anfahrt lohnt sich für den Anblick der unterirdischen Seen. Es ist ein erfrischender Stopp, bevor Sie zurück ins Stadtzentrum fahren, um zu Mittag zu essen.\nNach dem Mittagessen widmen Sie sich der Kultur im Byzantinischen Museum. Nach der Erkundung der reichen Ikonensammlung fahren Sie in das alte Viertel Doltcho, wo Sie das Fahrrad abstellen und die charmanten Gassen zu Fuß erkunden.\nSchließen Sie Ihre Radtour mit dem Höhepunkt des Tages ab: dem Sonnenuntergang über dem See. Radeln Sie zum Westufer der Halbinsel, finden Sie einen ruhigen Platz und beobachten Sie das spektakuläre Farbenspiel am Himmel.",
         "hu": "Kezdje a kerékpáros napot egy kellemes tekeréssel a tóparti sétányon. A sík szakasz ideális bemelegítéshez és az Orestiada-tóra nyíló kilátás élvezetéhez. Az első fő célpont a békés Panagia Mavriotissa kolostor.\nKéső délelőtt merészkedjen el a titokzatos Sárkány-barlanghoz. A rövid, de meredek út megéri a földalatti tavak látványáért. Ez egy frissítő megálló, mielőtt visszatekerne a városközpontba ebédelni.\nEbéd után szentelje idejét a kultúrának a Bizánci Múzeumban. A gazdag ikongyűjtemény felfedezése után tekerjen el a régi Doltcho negyedbe, ahol leteheti a kerékpárt, és gyalog fedezheti fel a bájos sikátorokat.\nZárja a kerékpártúrát a nap fénypontjával: a naplementével a tó felett. Tekerjen a félsziget nyugati partjára, keressen egy csendes helyet, és figyelje az ég látványos színjátékát.",
         "ro": "Începeți ziua de ciclism cu o plimbare relaxantă de-a lungul promenadei lacului. Traseul plat este ideal pentru a vă încălzi și pentru a vă bucura de priveliștea Lacului Orestiada. Primul dvs. obiectiv principal este liniștita Mănăstire Panagia Mavriotissa.\nSpre sfârșitul dimineții, aventurați-vă la misterioasa Peșteră a Dragonului. Urcușul scurt, dar abrupt, merită pentru vederea lacurilor subterane. Este o oprire răcoritoare înainte de a vă întoarce în centrul orașului pentru prânz.\nDupă prânz, dedicați-vă culturii la Muzeul Bizantin. După ce ați explorat bogata colecție de icoane, pedalați spre vechiul cartier Doltcho, unde puteți lăsa bicicleta și explora aleile fermecătoare pe jos.\nÎncheiați turul cu bicicleta cu punctul culminant al zilei: apusul de soare peste lac. Pedalați spre malul vestic al peninsulei, găsiți un loc liniștit și priviți spectacolul de culori de pe cer.",
-        "en": "Start your cycling day with a leisurely ride along the lake promenade. The flat route is ideal for warming up and enjoying the views of Lake Orestiada. Your first main destination is the peaceful Panagia Mavriotissa Monastery.\nIn the late morning, venture to the mysterious Dragon's Cave. The short but steep climb is worth it for the sight of the underground lakes. It's a refreshing stop before you head back to the city center for lunch.\nAfter lunch, dedicate yourself to culture at the Byzantine Museum. After exploring the rich icon collection, cycle to the old Doltcho quarter, where you can park your bike and explore the charming alleys on foot.\nConclude your bike tour with the highlight of the day: the sunset over the lake. Cycle to the western shore of the peninsula, find a quiet spot, and watch the spectacular play of colors in the sky."
+        "en": "Start your cycling day with a leisurely ride along the lake promenade. The flat route is ideal for warming up and enjoying the views of Lake Orestiada. Your first main destination is the peaceful Panagia Mavriotissa Monastery.\nIn the late morning, venture to the mysterious Dragon's Cave. The short but steep climb is worth it for the sight of the underground lakes. It's a refreshing stop before you head back to the city center for lunch.\nAfter lunch, dedicate yourself to culture at the Byzantine Museum. After exploring the rich icon collection, cycle to the old Doltcho quarter, where you can park your bike and explore the charming alleys on foot.\nConclude your bike tour with the highlight of the day: the sunset over the lake. Cycle to the western shore of the peninsula, find a quiet spot, and watch the spectacular play of colors in the sky.",
+        "el": "Ξεκινήστε την ημέρα ποδηλασίας με χαλαρή βόλτα κατά μήκος της παραλίας της λίμνης. Η επίπεδη διαδρομή είναι ιδανική για ζέσταμα και για να απολαύσετε τις όψεις της Λίμνης Ορεστίας. Ο πρώτος σας κύριος προορισμός είναι το ήσυχο μοναστήρι της Παναγίας Μαυριώτισσας.\nΠρος το τέλος του πρωινού, κατευθυνθείτε προς την μυστηριώδη Σπηλιά του Δράκου. Η σύντομη αλλά απότομη ανάβαση αξίζει για να δείτε τις υπόγειες λίμνες. Είναι μια δροσερή στάση πριν επιστρέψετε στο κέντρο της πόλης για μεσημεριανό.\nΜετά το μεσημεριανό, αφιερώστε χρόνο στον πολιτισμό στο Βυζαντινό Μουσείο. Μετά την εξερεύνηση της πλούσιας συλλογής εικόνων, ποδηλατήστε προς την παλιά συνοικία Doltcho, όπου μπορείτε να παρκάρετε και να εξερευνήσετε τα γοητευτικά σοκάκια με τα πόδια.\nΟλοκληρώστε την ποδηλατική σας διαδρομή με το αποκορύφωμα της ημέρας: το ηλιοβασίλεμα πάνω από τη λίμνη. Ποδηλατήστε προς τη δυτική ακτή της χερσονήσου, βρείτε ένα ήσυχο σημείο και παρακολουθήστε το εντυπωσιακό παιχνίδι χρωμάτων στον ουρανό."
       },
       "gastro_picks": {
         "de": [
@@ -936,6 +1000,12 @@
           "A helmet is recommended, especially on the roads outside the center.",
           "Bring plenty of water, as there are few shops along the route.",
           "Check the opening hours of the Dragon's Cave in advance."
+        ],
+        "el": [
+          "Ο δρόμος γύρω από τη χερσόνησο είναι ανηφορικός· να είστε έτοιμοι για μερικές αναβάσεις.",
+          "Το κράνος συνιστάται, ειδικά στους δρόμους εκτός κέντρου.",
+          "Φέρτε άφθονο νερό, καθώς υπάρχουν λίγα καταστήματα κατά μήκος της διαδρομής.",
+          "Ελέγξτε εκ των προτέρων τα ωράρια της Σπηλιάς του Δράκου."
         ]
       },
       "variants": {
@@ -944,7 +1014,8 @@
             "de": "Starten Sie vorsichtig am nassen Seeufer und nutzen Sie den Schutz der Bäume. Das Kloster Panagia Mavriotissa bietet einen trockenen Halt, gefolgt von der Drachenhöhle, die als perfekter unterirdischer Schutz dient. Mittags parken Sie das Rad sicher am Museum für eine lange Indoor-Pause. Den Nachmittag verbringen Sie in Doltcho, bevor Sie den Tag am Seeufer beenden, wenn der Regen hoffentlich nachlässt.",
             "hu": "Kezdje óvatosan a túrát a vizes tóparton, kihasználva a fák védelmét. A Panagia Mavriotissa kolostor száraz pihenőt kínál, majd a Sárkány-barlang következik, ami tökéletes földalatti menedék. Délben parkoljon le a múzeumnál egy hosszú fedett szünetre. A délutánt Doltchóban töltjük, majd a tóparton zárjuk a napot, remélhetőleg elálló esőben.",
             "ro": "Începeți cu prudență pe malul ud al lacului, folosind protecția copacilor. Mănăstirea Panagia Mavriotissa oferă un popas uscat, urmată de Peștera Dragonului, care servește ca adăpost subteran perfect. La prânz, parcați bicicleta în siguranță la muzeu pentru o pauză lungă în interior. După-amiaza o petrecem în Doltcho, încheind ziua pe malul lacului când ploaia se mai domolește.",
-            "en": "Start cautiously on the wet lakefront, utilizing the tree cover. Panagia Mavriotissa Monastery offers a dry stop, followed by the Dragon's Cave, which serves as a perfect underground shelter. At noon, park your bike safely at the museum for a long indoor break. Spend the afternoon in Doltcho before ending the day by the lakefront, hopefully as the rain eases off."
+            "en": "Start cautiously on the wet lakefront, utilizing the tree cover. Panagia Mavriotissa Monastery offers a dry stop, followed by the Dragon's Cave, which serves as a perfect underground shelter. At noon, park your bike safely at the museum for a long indoor break. Spend the afternoon in Doltcho before ending the day by the lakefront, hopefully as the rain eases off.",
+            "el": "Ξεκινήστε προσεκτικά στο βρεγμένο μέτωπο της λίμνης, αξιοποιώντας την κάλυψη από τα δέντρα. Το μοναστήρι της Παναγίας Μαυριώτισσας προσφέρει στεγνή στάση, ακολουθούμενο από τη Σπηλιά του Δράκου, που λειτουργεί ως τέλειο υπόγειο καταφύγιο. Το μεσημέρι παρκάρετε με ασφάλεια το ποδήλατο στο μουσείο για μια μεγάλη εσωτερική ανάπαυλα. Περπατήστε το απόγευμα στο Doltcho πριν τελειώσετε την ημέρα στην παραλία της λίμνης, ελπίζοντας ότι η βροχή θα εξασθενήσει."
           },
           "stops": [
             {
@@ -953,7 +1024,8 @@
                 "de": "Vorsicht vor rutschigem Laub auf dem Radweg.",
                 "hu": "Vigyázzon a kerékpárúton lévő csúszós levelekre.",
                 "ro": "Atenție la frunzele alunecoase de pe pista de biciclete.",
-                "en": "Beware of slippery leaves on the bike path."
+                "en": "Beware of slippery leaves on the bike path.",
+                "el": "Προσοχή στα ολισθηρά φύλλα στο ποδηλατόδρομο."
               }
             },
             {
@@ -962,7 +1034,8 @@
                 "de": "Überdachte Bereiche bieten Platz zum Abstellen der Räder.",
                 "hu": "Fedett részeken is leállíthatja a kerékpárokat.",
                 "ro": "Zonele acoperite oferă spațiu pentru parcarea bicicletelor.",
-                "en": "Covered areas provide space to park the bikes."
+                "en": "Covered areas provide space to park the bikes.",
+                "el": "Καλυμμένοι χώροι παρέχουν χώρο για στάθμευση των ποδηλάτων."
               }
             },
             {
@@ -971,7 +1044,8 @@
                 "de": "Ein idealer Ort: Hier regnet es garantiert nicht.",
                 "hu": "Ideális helyszín: itt garantáltan nem esik az eső.",
                 "ro": "Locație ideală: aici garantat nu plouă.",
-                "en": "Ideal location: it is guaranteed not to rain here."
+                "en": "Ideal location: it is guaranteed not to rain here.",
+                "el": "Ιδανική τοποθεσία: εγγυημένα δεν βρέχει εδώ."
               }
             },
             {
@@ -980,7 +1054,8 @@
                 "de": "Stellen Sie sicher, dass Ihr Sattel mit Plastik abgedeckt ist.",
                 "hu": "Gondoskodjon az ülés letakarásáról, amíg bent van.",
                 "ro": "Asigurați-vă că șaua este acoperită cu plastic.",
-                "en": "Make sure your saddle is covered with plastic while inside."
+                "en": "Make sure your saddle is covered with plastic while inside.",
+                "el": "Φροντίστε η σέλα να καλύπτεται με πλαστικό όσο είστε μέσα."
               }
             },
             {
@@ -989,7 +1064,8 @@
                 "de": "Fahren Sie langsam auf dem nassen Kopfsteinpflaster.",
                 "hu": "Hajtson lassan a vizes macskaköveken.",
                 "ro": "Conduceți încet pe pavajul ud.",
-                "en": "Ride slowly on the wet cobblestones."
+                "en": "Ride slowly on the wet cobblestones.",
+                "el": "Ποδηλατήστε αργά πάνω στις βρεγμένες λιθόστρωτες."
               }
             },
             {
@@ -998,7 +1074,8 @@
                 "de": "Regenbögen über dem See sind bei diesem Wetter häufig.",
                 "hu": "Ilyenkor gyakran látni szivárványt a tó felett.",
                 "ro": "Curcubeul peste lac este frecvent pe acest tip de vreme.",
-                "en": "Rainbows over the lake are frequent in this weather."
+                "en": "Rainbows over the lake are frequent in this weather.",
+                "el": "Τα ουράνια τόξα πάνω από τη λίμνη είναι συχνά σε αυτόν τον καιρό."
               }
             }
           ],
@@ -1030,6 +1107,13 @@
               "Waterproof gloves keep hands warm and provide better grip.",
               "Check tire pressure for better traction on wet surfaces.",
               "The Dragon's Cave has a constant temperature, ideal for warming up."
+            ],
+            "el": [
+              "Φτερά λάσπης είναι απαραίτητα στους βρεγμένους δρόμους της Καστοριάς.",
+              "Αποφύγετε απότομο φρενάρισμα στον παραλιακό δρόμο.",
+              "Αδιάβροχα γάντια κρατούν τα χέρια ζεστά και βελτιώνουν το κράτημα.",
+              "Ελέγξτε την πίεση των ελαστικών για καλύτερη πρόσφυση σε υγρές επιφάνειες.",
+              "Η Σπηλιά του Δράκου έχει σταθερή θερμοκρασία, ιδανική για να ζεσταθείτε."
             ]
           }
         },
@@ -1038,7 +1122,8 @@
             "de": "Eine winterliche Radtour erfordert warme Kleidung gegen den Wind vom Orestiada-See. Besuchen Sie das Kloster und die Drachenhöhle am Vormittag, bevor die Kälte zunimmt. Das Museum am Mittag bietet eine notwendige Aufwärmpause. Nachmittags erkunden Sie Doltcho auf zwei Rädern, bevor Sie den spektakulären, frühen Sonnenuntergang über dem oft nebligen See genießen.",
             "hu": "A téli biciklitúra meleg öltözetet igényel az Orestiada-tó felől fújó szél ellen. Látogasson el a kolostorhoz és a Sárkány-barlanghoz délelőtt, mielőtt fokozódik a hideg. A múzeumi megálló délben szükséges melegedő szünetet biztosít. Délután két keréken fedezzük fel Doltchót, majd élvezzük a látványos, korai naplementét a gyakran ködös tó felett.",
             "ro": "Un tur cu bicicleta iarna necesită haine groase împotriva vântului de pe lacul Orestiada. Vizitați mănăstirea și Peștera Dragonului dimineața, înainte ca frigul să se intensifice. Muzeul de la prânz oferă o pauză necesară pentru încălzire. După-amiaza explorăm Doltcho pe două roți, înainte de a savura apusul spectaculos și timpuriu peste lacul adesea cețos.",
-            "en": "A winter bike tour requires warm clothing against the wind from Lake Orestiada. Visit the monastery and the Dragon's Cave in the morning before the cold intensifies. The museum stop at noon provides a necessary warming break. In the afternoon, explore Doltcho on two wheels before enjoying the spectacular early sunset over the often misty lake."
+            "en": "A winter bike tour requires warm clothing against the wind from Lake Orestiada. Visit the monastery and the Dragon's Cave in the morning before the cold intensifies. The museum stop at noon provides a necessary warming break. In the afternoon, explore Doltcho on two wheels before enjoying the spectacular early sunset over the often misty lake.",
+            "el": "Μια χειμωνιάτικη ποδηλατική εκδρομή απαιτεί ζεστά ρούχα ενάντια στον άνεμο της Λίμνης Ορεστίας. Επισκεφτείτε το μοναστήρι και τη Σπηλιά του Δράκου το πρωί πριν ενταθεί το κρύο. Η στάση στο μουσείο το μεσημέρι παρέχει αναγκαία ζεστασιά. Το απόγευμα, εξερευνήστε το Doltcho με δύο τροχούς πριν απολαύσετε το εντυπωσιακό νωρίς ηλιοβασίλεμα πάνω από τη συχνά ομιχλώδη λίμνη."
           },
           "stops": [
             {
@@ -1047,7 +1132,8 @@
                 "de": "Tragen Sie einen Windstopper unter dem Helm.",
                 "hu": "Viseljen szélálló sapkát vagy fejpántot a sisak alatt.",
                 "ro": "Purtați o protecție împotriva vântului sub cască.",
-                "en": "Wear a windstopper or a thin hat under your helmet."
+                "en": "Wear a windstopper or a thin hat under your helmet.",
+                "el": "Φορέστε αντιανεμικό ή λεπτό σκουφάκι κάτω από το κράνος."
               }
             },
             {
@@ -1056,7 +1142,8 @@
                 "de": "Der Aufenthalt im Freien ist hier kurz zu halten.",
                 "hu": "A szabadban tartózkodást itt érdemes rövidre fogni.",
                 "ro": "Limitatați timpul petrecut în aer liber aici.",
-                "en": "Keep the time spent outdoors here relatively short."
+                "en": "Keep the time spent outdoors here relatively short.",
+                "el": "Κρατήστε σύντομο τον χρόνο παραμονής σας έξω."
               }
             },
             {
@@ -1065,7 +1152,8 @@
                 "de": "In der Höhle ist es wärmer als draußen am See.",
                 "hu": "A barlangban melegebb van, mint kint a tónál.",
                 "ro": "În peșteră este mai cald decât afară, lângă lac.",
-                "en": "It is warmer inside the cave than outside by the lake."
+                "en": "It is warmer inside the cave than outside by the lake.",
+                "el": "Είναι πιο ζεστό μέσα στη σπηλιά παρά έξω δίπλα στη λίμνη."
               }
             },
             {
@@ -1074,7 +1162,8 @@
                 "de": "Nutzen Sie den Halt, um Ihre Glieder wieder aufzuwärmen.",
                 "hu": "Használja ki a megállót a végtagjai átmelegítésére.",
                 "ro": "Folosiți oprirea pentru a vă reîncălzi membrele.",
-                "en": "Use this stop to thaw out and warm up your limbs."
+                "en": "Use this stop to thaw out and warm up your limbs.",
+                "el": "Χρησιμοποιήστε αυτή τη στάση για να ξεπαγώσετε και να ζεστάνετε τα άκρα σας."
               }
             },
             {
@@ -1083,7 +1172,8 @@
                 "de": "Die Gassen bieten Schutz vor dem eisigen Seewind.",
                 "hu": "A szűk utcák védenek a jeges tavi szél ellen.",
                 "ro": "Străduțele oferă protecție împotriva vântului înghețat.",
-                "en": "The alleys provide protection from the icy lake wind."
+                "en": "The alleys provide protection from the icy lake wind.",
+                "el": "Τα σοκάκια παρέχουν προστασία από τον παγωμένο λίμνιο άνεμο."
               }
             },
             {
@@ -1092,7 +1182,8 @@
                 "de": "Die Sonne verschwindet im Winter bereits um 17:00 Uhr.",
                 "hu": "A nap télen már délután 5 órakor eltűnik.",
                 "ro": "Soarele dispare deja la ora 17:00 în timpul iernii.",
-                "en": "The sun disappears as early as 5:00 PM in winter."
+                "en": "The sun disappears as early as 5:00 PM in winter.",
+                "el": "Ο ήλιος εξαφανίζεται ήδη στις 17:00 τον χειμώνα."
               }
             }
           ],
@@ -1124,6 +1215,13 @@
               "Keep the chain well-oiled against winter moisture.",
               "The Dragon's Cave is a popular retreat during winter.",
               "Watch out for frozen puddles in the shadows of the mansions."
+            ],
+            "el": [
+              "Φώτα ποδηλάτου είναι κρίσιμα καθώς σκοτεινιάζει πολύ νωρίς.",
+              "Αποφύγετε ρούχα που απορροφούν ιδρώτα και μετά σας κρυώνουν.",
+              "Κρατήστε την αλυσίδα καλά λαδωμένη ενάντια στην υγρασία του χειμώνα.",
+              "Η Σπηλιά του Δράκου είναι δημοφιλές καταφύγιο κατά τον χειμώνα.",
+              "Προσέξτε παγωμένες λακκούβες στις σκιές των αρχοντικών."
             ]
           }
         }
@@ -1142,7 +1240,8 @@
             "de": "Parken am Kloster Panagia Mavriotissa",
             "hu": "Parkolás a Panagia Mavriotissa kolostornál",
             "ro": "Parcare la Mănăstirea Panagia Mavriotissa",
-            "en": "Parking at Panagia Mavriotissa Monastery"
+            "en": "Parking at Panagia Mavriotissa Monastery",
+            "el": "Στάθμευση στο Μοναστήρι Παναγίας Μαυριώτισσας"
           },
           "coords": [
             21.293,
@@ -1158,7 +1257,8 @@
             "de": "Beginnen Sie am Rande der Halbinsel, wo es genügend Parkplätze gibt.",
             "hu": "Kezdje a félsziget szélén, ahol bőséges parkolóhely áll rendelkezésre.",
             "ro": "Începeți la marginea peninsulei, unde există parcare amplă.",
-            "en": "Start at the edge of the peninsula where there is ample parking."
+            "en": "Start at the edge of the peninsula where there is ample parking.",
+            "el": "Ξεκινήστε στην άκρη της χερσονήσου όπου υπάρχει άφθονη στάθμευση."
           }
         },
         {
@@ -1166,7 +1266,8 @@
             "de": "Drachenhöhle (Spilia tou Drakou)",
             "hu": "Sárkány-barlang (Spilia tou Drakou)",
             "ro": "Peștera Dragonului (Spilia tou Drakou)",
-            "en": "Dragon's Cave (Spilia tou Drakou)"
+            "en": "Dragon's Cave (Spilia tou Drakou)",
+            "el": "Σπηλιά του Δράκου (Spilia tou Drakou)"
           },
           "coords": [
             21.291,
@@ -1182,7 +1283,8 @@
             "de": "Ein kurzer Spaziergang vom Kloster zur Höhle.",
             "hu": "Rövid séta a kolostortól a barlangig.",
             "ro": "O scurtă plimbare de la mănăstire la peșteră.",
-            "en": "A short walk from the monastery to the cave."
+            "en": "A short walk from the monastery to the cave.",
+            "el": "Σύντομος περίπατος από το μοναστήρι μέχρι τη σπηλιά."
           }
         },
         {
@@ -1190,7 +1292,8 @@
             "de": "Fahrt zum Parkplatz am Byzantinischen Museum",
             "hu": "Utazás a Bizánci Múzeum parkolójába",
             "ro": "Călătorie spre parcarea de la Muzeul Bizantin",
-            "en": "Drive to parking at Byzantine Museum"
+            "en": "Drive to parking at Byzantine Museum",
+            "el": "Οδηγήστε για στάθμευση στο Βυζαντινό Μουσείο"
           },
           "coords": [
             21.2705,
@@ -1206,7 +1309,8 @@
             "de": "Parken Sie im Stadtzentrum und erkunden Sie den nächsten Cluster zu Fuß.",
             "hu": "Parkoljon a városközpontban, és fedezze fel a következő klasztert gyalog.",
             "ro": "Parcați în centrul orașului și explorați următorul cluster pe jos.",
-            "en": "Park in the city center and explore the next cluster on foot."
+            "en": "Park in the city center and explore the next cluster on foot.",
+            "el": "Σταθμεύστε στο κέντρο της πόλης και εξερευνήστε την επόμενη συστάδα με τα πόδια."
           }
         },
         {
@@ -1214,7 +1318,8 @@
             "de": "See-Promenade",
             "hu": "Tóparti sétány",
             "ro": "Promenada de pe malul lacului",
-            "en": "Lake Promenade"
+            "en": "Lake Promenade",
+            "el": "Παραλιακή Λεωφόρος"
           },
           "coords": [
             21.2725,
@@ -1230,7 +1335,8 @@
             "de": "Machen Sie einen Spaziergang vor oder nach dem Mittagessen.",
             "hu": "Tegyen egy sétát ebéd előtt vagy után.",
             "ro": "Faceți o plimbare înainte sau după prânz.",
-            "en": "Take a walk before or after lunch."
+            "en": "Take a walk before or after lunch.",
+            "el": "Κάντε έναν περίπατο πριν ή μετά το μεσημεριανό."
           }
         },
         {
@@ -1238,7 +1344,8 @@
             "de": "Fahrt zum Parkplatz im Viertel Doltcho",
             "hu": "Utazás a Doltcho negyed parkolójába",
             "ro": "Călătorie spre parcarea din cartierul Doltcho",
-            "en": "Drive to parking in Doltcho Quarter"
+            "en": "Drive to parking in Doltcho Quarter",
+            "el": "Οδηγήστε για στάθμευση στη Συνοικία Doltcho"
           },
           "coords": [
             21.265,
@@ -1254,7 +1361,8 @@
             "de": "Der letzte Cluster für heute. Parken kann hier schwierig sein, haben Sie Geduld.",
             "hu": "Az utolsó klaszter mára. A parkolás itt nehézkes lehet, legyen türelmes.",
             "ro": "Ultimul cluster pentru astăzi. Parcarea poate fi dificilă aici, aveți răbdare.",
-            "en": "The last cluster for today. Parking can be tricky here, be patient."
+            "en": "The last cluster for today. Parking can be tricky here, be patient.",
+            "el": "Το τελευταίο σύμπλεγμα για σήμερα. Η στάθμευση μπορεί να είναι δύσκολη εδώ, να έχετε υπομονή."
           }
         },
         {
@@ -1262,7 +1370,8 @@
             "de": "Volkskundemuseum",
             "hu": "Néprajzi Múzeum",
             "ro": "Muzeul de Folclor",
-            "en": "Folklore Museum"
+            "en": "Folklore Museum",
+            "el": "Λαογραφικό Μουσείο"
           },
           "coords": [
             21.2658,
@@ -1278,7 +1387,8 @@
             "de": "Direkt im Herzen von Doltcho gelegen.",
             "hu": "Közvetlenül Doltcho szívében található.",
             "ro": "Situat chiar în inima cartierului Doltcho.",
-            "en": "Located right in the heart of Doltcho."
+            "en": "Located right in the heart of Doltcho.",
+            "el": "Βρίσκεται ακριβώς στην καρδιά του Doltcho."
           }
         },
         {
@@ -1286,7 +1396,8 @@
             "de": "Herrenhaus Tsiatsiapa",
             "hu": "Tsiatsiapa-kúria",
             "ro": "Conacul Tsiatsiapa",
-            "en": "Tsiatsiapa Mansion"
+            "en": "Tsiatsiapa Mansion",
+            "el": "Αρχοντικό Τσιατσιάπα"
           },
           "coords": [
             21.264,
@@ -1302,7 +1413,8 @@
             "de": "Ein kurzer Spaziergang durch die Gassen vom Museum aus.",
             "hu": "Rövid séta a sikátorokon keresztül a múzeumtól.",
             "ro": "O scurtă plimbare pe alei de la muzeu.",
-            "en": "A short walk through the alleys from the museum."
+            "en": "A short walk through the alleys from the museum.",
+            "el": "Σύντομος περίπατος μέσα από τα σοκάκια από το μουσείο."
           }
         }
       ],
@@ -1310,7 +1422,8 @@
         "de": "Beginnen Sie Ihren Tag mit dem Auto am östlichen Rand der Halbinsel. Parken Sie in der Nähe des Klosters Panagia Mavriotissa. Erkunden Sie diesen ruhigen Ort und spazieren Sie dann zur nahegelegenen Drachenhöhle, um ein unterirdisches Abenteuer zu erleben.\nFahren Sie mittags ins Zentrum von Kastoria und parken Sie in der Nähe des Byzantinischen Museums. Nachdem Sie in die reiche Geschichte der Ikonen eingetaucht sind, schlendern Sie zur See-Promenade für ein Mittagessen mit Aussicht in einer der vielen Tavernen.\nAm Nachmittag fahren Sie zu Ihrem letzten Parkstopp im alten Viertel Doltcho. Dieser Bereich lässt sich am besten zu Fuß erkunden. Besuchen Sie das Volkskundemuseum, um mehr über den Pelzhandel zu erfahren, und bewundern Sie die Architektur der alten Herrenhäuser wie das von Tsiatsiapa.\nBeenden Sie Ihren Tag mit einem gemütlichen Spaziergang durch die Gassen von Doltcho und Apozari, während die Sonne untergeht. Suchen Sie sich eine Bar am Seeufer für einen abendlichen Drink, um die Eindrücke des Tages Revue passieren zu lassen.",
         "hu": "Kezdje a napot autóval a félsziget keleti szélén. Parkoljon a Panagia Mavriotissa kolostor közelében. Fedezze fel ezt a csendes helyet, majd sétáljon el a közeli Sárkány-barlanghoz egy földalatti kalandért.\nDélben vezessen Kasztória központjába, és parkoljon a Bizánci Múzeum közelében. Miután elmerült az ikonok gazdag történelmében, sétáljon le a tóparti sétányra egy kilátással egybekötött ebédért a sok taverna egyikében.\nDélután vezessen az utolsó parkolóhelyére a régi Doltcho negyedben. Ezt a területet a legjobb gyalog felfedezni. Látogasson el a Néprajzi Múzeumba, hogy többet megtudjon a szőrmekereskedelemről, és csodálja meg a régi kúriák, például a Tsiatsiapa-ház építészetét.\nZárja a napot egy kellemes sétával Doltcho és Apozari sikátoraiban, miközben a nap lenyugszik. Keressen egy tóparti bárt egy esti italra, hogy felidézze a nap élményeit.",
         "ro": "Începeți ziua cu mașina la marginea de est a peninsulei. Parcați lângă Mănăstirea Panagia Mavriotissa. Explorați acest loc liniștit și apoi plimbați-vă până la Peștera Dragonului din apropiere pentru o aventură subterană.\nLa prânz, conduceți în centrul orașului Kastoria și parcați lângă Muzeul Bizantin. După ce v-ați cufundat în istoria bogată a icoanelor, plimbați-vă până la promenada de pe malul lacului pentru un prânz cu vedere la una dintre numeroasele taverne.\nDupă-amiaza, conduceți până la ultima oprire de parcare în vechiul cartier Doltcho. Această zonă este cel mai bine explorată pe jos. Vizitați Muzeul de Folclor pentru a afla despre comerțul cu blănuri și admirați arhitectura conacelor vechi, cum ar fi cel al lui Tsiatsiapa.\nÎncheiați ziua cu o plimbare relaxantă pe aleile din Doltcho și Apozari, în timp ce soarele apune. Găsiți un bar pe malul lacului pentru o băutură de seară și reflectați asupra zilei.",
-        "en": "Start your day by car at the eastern edge of the peninsula. Park near the Panagia Mavriotissa Monastery. Explore this tranquil spot and then walk to the nearby Dragon's Cave for an underground adventure.\nAt midday, drive to the center of Kastoria and park near the Byzantine Museum. After immersing yourself in the rich history of icons, stroll down to the lake promenade for lunch with a view at one of the many tavernas.\nIn the afternoon, drive to your final parking stop in the old Doltcho quarter. This area is best explored on foot. Visit the Folklore Museum to learn about the fur trade and admire the architecture of the old mansions like Tsiatsiapa's.\nEnd your day with a leisurely walk through the alleys of Doltcho and Apozari as the sun sets. Find a lakeside bar for an evening drink to reflect on the day's experiences."
+        "en": "Start your day by car at the eastern edge of the peninsula. Park near the Panagia Mavriotissa Monastery. Explore this tranquil spot and then walk to the nearby Dragon's Cave for an underground adventure.\nAt midday, drive to the center of Kastoria and park near the Byzantine Museum. After immersing yourself in the rich history of icons, stroll down to the lake promenade for lunch with a view at one of the many tavernas.\nIn the afternoon, drive to your final parking stop in the old Doltcho quarter. This area is best explored on foot. Visit the Folklore Museum to learn about the fur trade and admire the architecture of the old mansions like Tsiatsiapa's.\nEnd your day with a leisurely walk through the alleys of Doltcho and Apozari as the sun sets. Find a lakeside bar for an evening drink to reflect on the day's experiences.",
+        "el": "Ξεκινήστε την ημέρα με αυτοκίνητο στην ανατολική άκρη της χερσονήσου. Σταθμεύστε κοντά στο μοναστήρι της Παναγίας Μαυριώτισσας. Εξερευνήστε αυτό το ήσυχο σημείο και μετά περπατήστε προς την κοντινή Σπηλιά του Δράκου για υπόγεια περιπέτεια.\nΤο μεσημέρι οδηγήστε στο κέντρο της Καστοριάς και παρκάρετε κοντά στο Βυζαντινό Μουσείο. Μετά την εμβάπτιση στην πλούσια ιστορία των εικόνων, κατεβείτε στην παραλία της λίμνης για μεσημεριανό με θέα σε μία από τις πολλές ταβέρνες.\nΤο απόγευμα οδηγήστε στο τελικό σας σημείο στάθμευσης στην παλαιά συνοικία Doltcho. Αυτή η περιοχή εξερευνάται καλύτερα με τα πόδια. Επισκεφτείτε το Λαογραφικό Μουσείο για να μάθετε για το εμπόριο γουναρικών και θαυμάστε την αρχιτεκτονική των παλιών αρχοντικών όπως το αρχοντικό του Τσιατσιάπα.\nΤελειώστε την ημέρα με έναν αργό περίπατο στα σοκάκια του Doltcho και των Αποζαριών καθώς δύει ο ήλιος. Βρείτε ένα μπαρ στην όχθη της λίμνης για ένα βραδινό ποτό και να αναλογιστείτε τις εμπειρίες της ημέρας."
       },
       "gastro_picks": {
         "de": [
@@ -1506,6 +1619,12 @@
           "The cluster strategy will save you time and nerves.",
           "Some streets in the old quarters are very narrow; drive carefully.",
           "A car allows you to also visit nearby villages or viewpoints."
+        ],
+        "el": [
+          "Η στάθμευση στην παλιά πόλη μπορεί να είναι πολύ δύσκολη. Προγραμματίστε επιπλέον χρόνο ή χρησιμοποιήστε πληρωμένους χώρους στάθμευσης.",
+          "Η στρατηγική με συστάδες θα σας εξοικονομήσει χρόνο και νεύρα.",
+          "Κάποιες οδοί στις παλιές συνοικίες είναι πολύ στενές· οδηγήστε προσεκτικά.",
+          "Ένα αυτοκίνητο σάς επιτρέπει επίσης να επισκεφθείτε κοντινά χωριά ή σημεία θέας."
         ]
       },
       "variants": {
@@ -1514,7 +1633,8 @@
             "de": "Mit dem Auto erkunden Sie Kastoria bei Regen ganz entspannt. Beginnen Sie am Kloster und der Drachenhöhle, wo Sie direkt davor parken können. Das Museum am Mittag bietet ausreichend Parkplätze für einen trockenen Übergang. Den Nachmittag verbringen Sie in Doltcho, wobei das Auto als Basis für Ihre Erkundungstouren zu den historischen Herrenhäusern dient.",
             "hu": "Autóval esőben is kényelmesen felfedezhető Kastoria. Kezdje a kolostornál és a Sárkány-barlangnál, ahol közvetlenül a bejáratnál parkolhat. A múzeumi megálló délben tágas parkolót és száraz átjutást biztosít. A délutánt Doltchóban töltjük, ahol az autó bázisként szolgál a történelmi kúriák közti felfedezéshez.",
             "ro": "Cu mașina, puteți explora Kastoria relaxat chiar și pe ploaie. Începeți la mănăstire și la Peștera Dragonului, unde puteți parca chiar în față. Muzeul de la prânz oferă locuri de parcare suficiente pentru o tranziție uscată. După-amiaza o petreceți în Doltcho, mașina servind drept bază pentru explorările conacelor istorice.",
-            "en": "Explore Kastoria in a relaxed way by car, even in the rain. Start at the monastery and the Dragon's Cave, where you can park directly in front. The museum stop at noon provides ample parking for a dry transition. Spend the afternoon in Doltcho, with the car serving as a base for your explorations of the historic mansions."
+            "en": "Explore Kastoria in a relaxed way by car, even in the rain. Start at the monastery and the Dragon's Cave, where you can park directly in front. The museum stop at noon provides ample parking for a dry transition. Spend the afternoon in Doltcho, with the car serving as a base for your explorations of the historic mansions.",
+            "el": "Εξερευνήστε την Καστοριά χαλαρά με αυτοκίνητο, ακόμη και στη βροχή. Ξεκινήστε από το μοναστήρι και τη Σπηλιά του Δράκου, όπου μπορείτε να παρκάρετε ακριβώς μπροστά. Η στάση στο μουσείο το μεσημέρι παρέχει άφθονη στάθμευση για στεγνή μετάβαση. Περπατήστε το απόγευμα στο Doltcho, με το αυτοκίνητο να λειτουργεί ως βάση για την εξερεύνηση των ιστορικών αρχοντικών."
           },
           "stops": [
             {
@@ -1523,7 +1643,8 @@
                 "de": "Der Parkplatz ist nah am Eingang, ideal bei Regen.",
                 "hu": "A parkoló közel van a bejárathoz, ideális esőben.",
                 "ro": "Parcarea este aproape de intrare, ideală pe ploaie.",
-                "en": "The parking lot is close to the entrance, ideal during rain."
+                "en": "The parking lot is close to the entrance, ideal during rain.",
+                "el": "Το πάρκινγκ είναι κοντά στην είσοδο, ιδανικό σε περίπτωση βροχής."
               }
             },
             {
@@ -1532,7 +1653,8 @@
                 "de": "Nutzen Sie den kurzen Weg vom Auto zum Höhleneingang.",
                 "hu": "Használja ki a rövid utat az autó és a barlangbejárat közt.",
                 "ro": "Profită de distanța scurtă dintre mașină și intrarea în peșteră.",
-                "en": "Take advantage of the short distance from the car to the cave entrance."
+                "en": "Take advantage of the short distance from the car to the cave entrance.",
+                "el": "Επωφεληθείτε από τη μικρή απόσταση από το αυτοκίνητο μέχρι την είσοδο της σπηλιάς."
               }
             },
             {
@@ -1541,7 +1663,8 @@
                 "de": "Der Parkplatz kann bei starkem Regen matschig sein.",
                 "hu": "A parkoló felülete erős esőben saras lehet.",
                 "ro": "Suprafața parcării poate fi noroioasă în caz de ploaie torențială.",
-                "en": "The parking surface can be muddy during heavy rain."
+                "en": "The parking surface can be muddy during heavy rain.",
+                "el": "Η επιφάνεια του χώρου στάθμευσης μπορεί να γίνει λασπώδης κατά τη δυνατή βροχή."
               }
             },
             {
@@ -1550,7 +1673,8 @@
                 "de": "Parken Sie entlang der Straße für einen schnellen Rückzug.",
                 "hu": "Parkoljon az út mentén a gyors visszatérés érdekében.",
                 "ro": "Parcați de-a lungul drumului pentru o retragere rapidă.",
-                "en": "Park along the road for a quick retreat to the dry car."
+                "en": "Park along the road for a quick retreat to the dry car.",
+                "el": "Σταθμεύστε κατά μήκος του δρόμου για γρήγορη επιστροφή στο στεγνό αυτοκίνητο."
               }
             },
             {
@@ -1559,7 +1683,8 @@
                 "de": "Enge Gassen erfordern Vorsicht bei Nässe.",
                 "hu": "A szűk utcák óvatosságot igényelnek nedves időben.",
                 "ro": "Străzile înguste necesită prudență pe carosabil umed.",
-                "en": "Narrow streets require caution when wet."
+                "en": "Narrow streets require caution when wet.",
+                "el": "Οι στενοί δρόμοι απαιτούν προσοχή όταν είναι βρεγμένοι."
               }
             },
             {
@@ -1568,7 +1693,8 @@
                 "de": "Lassen Sie nasse Schirme im Auto, falls möglich.",
                 "hu": "Hagyja a vizes ernyőket az autóban, ha lehetséges.",
                 "ro": "Lăsați umbrelele ude în mașină, dacă este posibil.",
-                "en": "Leave wet umbrellas in the car if possible."
+                "en": "Leave wet umbrellas in the car if possible.",
+                "el": "Αφήνετε τα βρεγμένα ομπρέλα στο αυτοκίνητο αν είναι δυνατόν."
               }
             },
             {
@@ -1577,7 +1703,8 @@
                 "de": "Ein kurzer Sprint vom Parkplatz zum Haus genügt.",
                 "hu": "Egy rövid sprint a parkolótól a házig elég.",
                 "ro": "Un sprint scurt de la parcare la casă este suficient.",
-                "en": "A short sprint from the parking spot to the house is enough."
+                "en": "A short sprint from the parking spot to the house is enough.",
+                "el": "Μια σύντομη τρέξιμο από την θέση στάθμευσης μέχρι το σπίτι αρκεί."
               }
             }
           ],
@@ -1609,6 +1736,13 @@
               "Use the A/C to prevent the windshield from fogging up.",
               "Only park in designated spots within the Doltcho quarter.",
               "The Dragon's Cave has a large, paved parking area."
+            ],
+            "el": [
+              "Ελέγξτε τα υαλοκαθαριστήρες πριν οδηγήσετε γύρω από τη λίμνη.",
+              "Ορισμένα τμήματα δίπλα στη λίμνη μπορεί να είναι κλειστά σε έντονες πλημμύρες.",
+              "Χρησιμοποιήστε το A/C για να αποφύγετε το θόλωμα του παρμπρίζ.",
+              "Σταθμεύετε μόνο σε επισημασμένες θέσεις στην συνοικία Δόλτσο.",
+              "Το Σπήλαιο του Δράκου διαθέτει μεγάλο ασφαλτοστρωμένο χώρο στάθμευσης."
             ]
           }
         },
@@ -1617,7 +1751,8 @@
             "de": "Kastoria im Winter lässt sich am besten mit dem Auto erkunden, um der beißenden Kälte am See zu entkommen. Besuchen Sie das Kloster und die Höhle am Morgen bequem beheizt. Das Byzantinische Museum bietet einen warmen Zwischenstopp am Mittag. Nachmittags dient das Auto als gemütlicher Rückzugsort zwischen den Besichtigungen der Herrenhäuser in Doltcho, bevor die Sonne früh untergeht.",
             "hu": "A téli Kastoria leginkább autóval élvezhető, elkerülve a tó felől érkező metsző hideget. Látogasson el a kolostorhoz és a barlanghoz reggel a fűtött utastér kényelmében. A Bizánci Múzeum meleg pihenőt ad délben. Délután az autó kuckóként szolgál a doltchói kúriák látogatása között, mielőtt korán lemegy a nap.",
             "ro": "Kastoria iarna se explorează cel mai bine cu mașina, evitând frigul tăios de pe lac. Vizitați mănăstirea și peștera dimineața în confortul habitaclului încălzit. Muzeul Bizantin oferă un popas cald la prânz. După-amiaza mașina servește drept refugiu confortabil între vizitele conacelor din Doltcho, înainte de apusul timpuriu.",
-            "en": "Winter in Kastoria is best explored by car to avoid the biting cold from the lake. Visit the monastery and the cave in the morning in the comfort of a heated interior. The Byzantine Museum provides a warm stop at noon. In the afternoon, the car serves as a cozy retreat between mansion tours in Doltcho before the sun sets early."
+            "en": "Winter in Kastoria is best explored by car to avoid the biting cold from the lake. Visit the monastery and the cave in the morning in the comfort of a heated interior. The Byzantine Museum provides a warm stop at noon. In the afternoon, the car serves as a cozy retreat between mansion tours in Doltcho before the sun sets early.",
+            "el": "Ο χειμώνας στην Καστοριά εξερευνάται καλύτερα με αυτοκίνητο για να αποφύγετε το τσουχτερό κρύο από τη λίμνη. Επισκεφθείτε το μοναστήρι και το σπήλαιο το πρωί με την άνεση ενός θερμαινόμενου εσωτερικού. Το Βυζαντινό Μουσείο προσφέρει μια ζεστή στάση το μεσημέρι. Το απόγευμα το αυτοκίνητο λειτουργεί ως ζεστό καταφύγιο ανάμεσα στις περιηγήσεις στις αρχοντικές κατοικίες του Δόλτσου πριν ο ήλιος δύσει νωρίς."
           },
           "stops": [
             {
@@ -1626,7 +1761,8 @@
                 "de": "Der Motor sollte bei kurzen Stopps nicht auskühlen.",
                 "hu": "Rövid megállónál ne hagyja teljesen lehűlni a motort.",
                 "ro": "Nu lăsați motorul să se răcească complet la opriri scurte.",
-                "en": "Avoid letting the engine cool down completely during short stops."
+                "en": "Avoid letting the engine cool down completely during short stops.",
+                "el": "Αποφύγετε να αφήνετε τον κινητήρα να κρυώνει εντελώς κατά τις σύντομες στάσεις."
               }
             },
             {
@@ -1635,7 +1771,8 @@
                 "de": "Die Höhle bietet eine willkommene Pause vom Frost.",
                 "hu": "A barlang kellemes felüdülés a kinti fagy után.",
                 "ro": "Peștera oferă o pauză binevenită de la înghețul de afară.",
-                "en": "The cave provides a welcome break from the frost outside."
+                "en": "The cave provides a welcome break from the frost outside.",
+                "el": "Το σπήλαιο προσφέρει ευπρόσδεκτη ανάπαυλα από τον παγετό έξω."
               }
             },
             {
@@ -1644,7 +1781,8 @@
                 "de": "Vorsicht bei Glätte auf der steilen Auffahrt zum Museum.",
                 "hu": "Vigyázzon a csúszós útra a múzeumhoz vezető emelkedőn.",
                 "ro": "Atenție la polei pe urcarea abruptă spre muzeu.",
-                "en": "Watch out for ice on the steep drive up to the museum."
+                "en": "Watch out for ice on the steep drive up to the museum.",
+                "el": "Προσοχή στον πάγο στην απότομη ανηφόρα προς το μουσείο."
               }
             },
             {
@@ -1653,7 +1791,8 @@
                 "de": "Genießen Sie die Aussicht aus dem warmen Auto.",
                 "hu": "Élvezze a kilátást a meleg autó ablakából.",
                 "ro": "Bucurați-vă de priveliște din mașina încălzită.",
-                "en": "Enjoy the view from inside the warm car."
+                "en": "Enjoy the view from inside the warm car.",
+                "el": "Απολαύστε τη θέα από το ζεστό αυτοκίνητο."
               }
             },
             {
@@ -1662,7 +1801,8 @@
                 "de": "Parkplätze sind im Winter leichter zu finden.",
                 "hu": "Télen könnyebb parkolóhelyet találni a negyedben.",
                 "ro": "Locurile de parcare sunt mai ușor de găsit iarna.",
-                "en": "Parking spots are easier to find during the winter season."
+                "en": "Parking spots are easier to find during the winter season.",
+                "el": "Οι θέσεις στάθμευσης είναι πιο εύκολες να βρεθούν κατά τη χειμερινή περίοδο."
               }
             },
             {
@@ -1671,7 +1811,8 @@
                 "de": "Planen Sie Zeit zum Aufwärmen im Museum ein.",
                 "hu": "Hagyjon időt az átmelegedésre a múzeumban.",
                 "ro": "Alocați timp pentru a vă încălzi în muzeu.",
-                "en": "Plan some time to warm up inside the museum."
+                "en": "Plan some time to warm up inside the museum.",
+                "el": "Προβλέψτε λίγο χρόνο για να ζεσταθείτε μέσα στο μουσείο."
               }
             },
             {
@@ -1680,7 +1821,8 @@
                 "de": "Ein schöner Abschluss vor der Fahrt ins Hotel.",
                 "hu": "Szép befejezés a szállásra való visszatérés előtt.",
                 "ro": "Un final frumos înainte de drumul spre hotel.",
-                "en": "A nice conclusion before the drive back to the hotel."
+                "en": "A nice conclusion before the drive back to the hotel.",
+                "el": "Μια ωραία κατάληξη πριν την οδήγηση πίσω στο ξενοδοχείο."
               }
             }
           ],
@@ -1712,6 +1854,13 @@
               "Lakeside roads can be icy and slippery in the mornings.",
               "Check the antifreeze level in your cooling system.",
               "Car batteries often struggle in the Kastoria cold."
+            ],
+            "el": [
+              "Τα χειμερινά ελαστικά είναι υποχρεωτικά σε αυτήν την ορεινή περιοχή.",
+              "Πρέπει να έχετε μαζί σας ένα ξύστρο πάγου και σπρέι αποπάγωσης.",
+              "Οι δρόμοι δίπλα στη λίμνη μπορεί να είναι παγωμένοι και ολισθηροί το πρωί.",
+              "Ελέγξτε τη στάθμη του αντιψυκτικού στο σύστημα ψύξης σας.",
+              "Οι μπαταρίες αυτοκινήτων συχνά δυσκολεύονται στο κρύο της Καστοριάς."
             ]
           }
         }
@@ -1730,7 +1879,8 @@
             "de": "Start im Viertel Doltcho",
             "hu": "Indulás a Doltcho negyedből",
             "ro": "Început în cartierul Doltcho",
-            "en": "Start in Doltcho Quarter"
+            "en": "Start in Doltcho Quarter",
+            "el": "Ξεκινήστε από τη συνοικία Δόλτσο"
           },
           "coords": [
             21.2645,
@@ -1746,7 +1896,8 @@
             "de": "Beginnen Sie im Herzen der Altstadt, die gut mit dem Bus zu erreichen ist.",
             "hu": "Kezdje az óváros szívében, amely busszal könnyen megközelíthető.",
             "ro": "Începeți în inima orașului vechi, care este ușor accesibil cu autobuzul.",
-            "en": "Start in the heart of the old town, which is easily accessible by bus."
+            "en": "Start in the heart of the old town, which is easily accessible by bus.",
+            "el": "Ξεκινήστε από την καρδιά της παλιάς πόλης, που είναι εύκολα προσβάσιμη με λεωφορείο."
           }
         },
         {
@@ -1754,7 +1905,8 @@
             "de": "Volkskundemuseum",
             "hu": "Néprajzi Múzeum",
             "ro": "Muzeul de Folclor",
-            "en": "Folklore Museum"
+            "en": "Folklore Museum",
+            "el": "Λαογραφικό Μουσείο"
           },
           "coords": [
             21.2658,
@@ -1770,7 +1922,8 @@
             "de": "Ein kurzer Spaziergang von der Bushaltestelle Doltcho.",
             "hu": "Rövid séta a Doltcho buszmegállótól.",
             "ro": "O scurtă plimbare de la stația de autobuz Doltcho.",
-            "en": "A short walk from the Doltcho bus stop."
+            "en": "A short walk from the Doltcho bus stop.",
+            "el": "Μικρή βόλτα από τη στάση του λεωφορείου στο Δόλτσο."
           }
         },
         {
@@ -1778,7 +1931,8 @@
             "de": "Busfahrt zum Kloster Panagia Mavriotissa",
             "hu": "Buszozás a Panagia Mavriotissa kolostorhoz",
             "ro": "Călătorie cu autobuzul la Mănăstirea Panagia Mavriotissa",
-            "en": "Bus ride to Panagia Mavriotissa Monastery"
+            "en": "Bus ride to Panagia Mavriotissa Monastery",
+            "el": "Διαδρομή με λεωφορείο προς τη Μονή Παναγίας Μαυριώτισσας"
           },
           "coords": [
             21.293,
@@ -1794,7 +1948,8 @@
             "de": "Nehmen Sie den Bus, der die Halbinsel umrundet. Genießen Sie die Aussicht.",
             "hu": "Menjen a félszigetet megkerülő busszal. Élvezze a kilátást.",
             "ro": "Luați autobuzul care înconjoară peninsula. Bucurați-vă de priveliște.",
-            "en": "Take the bus that circles the peninsula. Enjoy the view."
+            "en": "Take the bus that circles the peninsula. Enjoy the view.",
+            "el": "Πάρτε το λεωφορείο που κάνει τον γύρο της χερσονήσου. Απολαύστε τη θέα."
           }
         },
         {
@@ -1802,7 +1957,8 @@
             "de": "Drachenhöhle (Spilia tou Drakou)",
             "hu": "Sárkány-barlang (Spilia tou Drakou)",
             "ro": "Peștera Dragonului (Spilia tou Drakou)",
-            "en": "Dragon's Cave (Spilia tou Drakou)"
+            "en": "Dragon's Cave (Spilia tou Drakou)",
+            "el": "Σπήλαιο του Δράκου (Σπηλιά του Δράκου)"
           },
           "coords": [
             21.291,
@@ -1818,7 +1974,8 @@
             "de": "Die Höhle ist nur einen kurzen Spaziergang von der Bushaltestelle am Kloster entfernt.",
             "hu": "A barlang csak egy rövid sétára van a kolostor melletti buszmegállótól.",
             "ro": "Peștera este la o scurtă plimbare de stația de autobuz de la mănăstire.",
-            "en": "The cave is a short walk from the bus stop at the monastery."
+            "en": "The cave is a short walk from the bus stop at the monastery.",
+            "el": "Το σπήλαιο είναι μικρή βόλτα από τη στάση του λεωφορείου στο μοναστήρι."
           }
         },
         {
@@ -1826,7 +1983,8 @@
             "de": "Busfahrt zum Byzantinischen Museum",
             "hu": "Buszozás a Bizánci Múzeumhoz",
             "ro": "Călătorie cu autobuzul la Muzeul Bizantin",
-            "en": "Bus ride to the Byzantine Museum"
+            "en": "Bus ride to the Byzantine Museum",
+            "el": "Διαδρομή με λεωφορείο προς το Βυζαντινό Μουσείο"
           },
           "coords": [
             21.27,
@@ -1842,7 +2000,8 @@
             "de": "Fahren Sie zurück ins Stadtzentrum, um Ihren kulturellen Nachmittag zu beginnen.",
             "hu": "Utazzon vissza a városközpontba, hogy megkezdje a kulturális délutánt.",
             "ro": "Întoarceți-vă în centrul orașului pentru a începe după-amiaza culturală.",
-            "en": "Head back to the city center to start your cultural afternoon."
+            "en": "Head back to the city center to start your cultural afternoon.",
+            "el": "Επιστρέψτε στο κέντρο της πόλης για να ξεκινήσετε το πολιτιστικό σας απόγευμα."
           }
         },
         {
@@ -1850,7 +2009,8 @@
             "de": "See-Promenade",
             "hu": "Tóparti sétány",
             "ro": "Promenada de pe malul lacului",
-            "en": "Lake Promenade"
+            "en": "Lake Promenade",
+            "el": "Παραλία της λίμνης (Περαντζέρα)"
           },
           "coords": [
             21.2725,
@@ -1866,7 +2026,8 @@
             "de": "Entspannen Sie sich nach dem Museumsbesuch bei einem Spaziergang am Wasser.",
             "hu": "Pihenjen a múzeumlátogatás után egy sétával a vízparton.",
             "ro": "Relaxați-vă după vizita la muzeu cu o plimbare pe malul apei.",
-            "en": "Relax after the museum visit with a walk by the water."
+            "en": "Relax after the museum visit with a walk by the water.",
+            "el": "Χαλαρώστε μετά την επίσκεψη στο μουσείο με μια βόλτα δίπλα στο νερό."
           }
         }
       ],
@@ -1874,7 +2035,8 @@
         "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt im historischen Viertel Doltcho. Erkunden Sie die Gassen und besuchen Sie das Volkskundemuseum, bevor Sie in den Bus steigen, der Sie aus der Stadt hinausbringt.\nDie Busfahrt um die Halbinsel bietet malerische Ausblicke auf dem Weg zum Kloster Panagia Mavriotissa. Nach dem Besuch des Klosters spazieren Sie zur Drachenhöhle. Planen Sie hier Ihr Mittagessen in einer nahegelegenen Taverne.\nAm Nachmittag bringt Sie ein weiterer Bus zurück ins Herz von Kastoria, direkt zum Byzantinischen Museum. Tauchen Sie ein in die beeindruckende Sammlung, bevor Sie den Rest des Tages zu Fuß verbringen.\nBeenden Sie Ihren Tag mit einem gemütlichen Spaziergang entlang der See-Promenade. Beobachten Sie die Pelikane und die Fischerboote und genießen Sie die entspannte Atmosphäre der Stadt bei Sonnenuntergang.",
         "hu": "A tömegközlekedéssel töltött nap a történelmi Doltcho negyedben kezdődik. Fedezze fel a sikátorokat és látogasson el a Néprajzi Múzeumba, mielőtt felszállna a városból kivezető buszra.\nA buszút a félsziget körül festői kilátást nyújt a Panagia Mavriotissa kolostor felé vezető úton. A kolostor meglátogatása után sétáljon el a Sárkány-barlanghoz. Tervezze itt az ebédjét egy közeli tavernában.\nDélután egy másik busz visszaviszi Kasztória szívébe, közvetlenül a Bizánci Múzeumhoz. Merüljön el a lenyűgöző gyűjteményben, mielőtt a nap hátralévő részét gyalog töltené.\nZárja a napot egy kellemes sétával a tóparti sétányon. Figyelje a pelikánokat és a halászhajókat, és élvezze a város nyugodt légkörét naplementekor.",
         "ro": "Ziua dvs. cu transportul public începe în cartierul istoric Doltcho. Explorați aleile și vizitați Muzeul de Folclor înainte de a lua autobuzul care vă duce în afara orașului.\nCălătoria cu autobuzul în jurul peninsulei oferă priveliști pitorești în drum spre Mănăstirea Panagia Mavriotissa. După vizitarea mănăstirii, mergeți pe jos până la Peștera Dragonului. Planificați-vă prânzul aici, la o tavernă din apropiere.\nDupă-amiaza, un alt autobuz vă duce înapoi în inima orașului Kastoria, direct la Muzeul Bizantin. Cufundați-vă în colecția impresionantă înainte de a petrece restul zilei pe jos.\nÎncheiați ziua cu o plimbare relaxantă de-a lungul promenadei de pe malul lacului. Priviți pelicanii și bărcile de pescuit și bucurați-vă de atmosfera relaxată a orașului la apus.",
-        "en": "Your day on public transit begins in the historic Doltcho quarter. Explore the alleys and visit the Folklore Museum before hopping on the bus that takes you out of the city.\nThe bus ride around the peninsula offers scenic views on the way to Panagia Mavriotissa Monastery. After visiting the monastery, take a walk to the Dragon's Cave. Plan to have your lunch here at a nearby taverna.\nIn the afternoon, another bus takes you back to the heart of Kastoria, right to the Byzantine Museum. Immerse yourself in the impressive collection before spending the rest of the day on foot.\nEnd your day with a leisurely stroll along the lake promenade. Watch the pelicans and the fishing boats, and enjoy the relaxed atmosphere of the city as the sun sets."
+        "en": "Your day on public transit begins in the historic Doltcho quarter. Explore the alleys and visit the Folklore Museum before hopping on the bus that takes you out of the city.\nThe bus ride around the peninsula offers scenic views on the way to Panagia Mavriotissa Monastery. After visiting the monastery, take a walk to the Dragon's Cave. Plan to have your lunch here at a nearby taverna.\nIn the afternoon, another bus takes you back to the heart of Kastoria, right to the Byzantine Museum. Immerse yourself in the impressive collection before spending the rest of the day on foot.\nEnd your day with a leisurely stroll along the lake promenade. Watch the pelicans and the fishing boats, and enjoy the relaxed atmosphere of the city as the sun sets.",
+        "el": "Η μέρα σας με τα μέσα μαζικής μεταφοράς ξεκινά στη ιστορική συνοικία Δόλτσο. Εξερευνήστε τα σοκάκια και επισκεφθείτε το Λαογραφικό Μουσείο πριν επιβιβαστείτε στο λεωφορείο που σας βγάζει έξω από την πόλη.\nΗ διαδρομή με το λεωφορείο γύρω από τη χερσόνησο προσφέρει γραφικές θέες προς τη Μονή Παναγίας Μαυριώτισσας. Μετά την επίσκεψη στο μοναστήρι, περπατήστε μέχρι το Σπήλαιο του Δράκου. Προγραμματίστε να γευματίσετε σε μια κοντινή ταβέρνα.\nΤο απόγευμα, άλλο ένα λεωφορείο σας πηγαίνει πίσω στην καρδιά της Καστοριάς, κατευθείαν στο Βυζαντινό Μουσείο. Βυθιστείτε στην εντυπωσιακή συλλογή πριν περάσετε το υπόλοιπο της μέρας με τα πόδια.\nΤελειώστε τη μέρα σας με έναν ήρεμο περίπατο κατά μήκος της παραλίας της λίμνης. Παρακολουθήστε τα πελεκάνους και τα αλιευτικά, και απολαύστε την χαλαρή ατμόσφαιρα της πόλης καθώς ο ήλιος δύει."
       },
       "gastro_picks": {
         "de": [
@@ -2070,6 +2232,12 @@
           "Check the bus schedule in advance, as buses may run less frequently off-season.",
           "Be prepared for some walking between bus stops and the sights.",
           "Ask the bus driver to make sure you are heading in the right direction."
+        ],
+        "el": [
+          "Αγοράστε πάσο ημερήσιο για το λεωφορείο αν σκοπεύετε να κάνετε πολλαπλές διαδρομές.",
+          "Ελέγξτε το πρόγραμμα των λεωφορείων εκ των προτέρων, καθώς τα δρομολόγια μπορεί να είναι πιο αραιά εκτός εποχής.",
+          "Να είστε προετοιμασμένοι για περπάτημα μεταξύ στάσεων και αξιοθέατων.",
+          "Ρωτήστε τον οδηγό του λεωφορείου για να βεβαιωθείτε ότι πηγαίνετε προς τη σωστή κατεύθυνση."
         ]
       },
       "variants": {
@@ -2078,7 +2246,8 @@
             "de": "Nutzen Sie den lokalen Bus, um bei Regen trocken durch Kastoria zu kommen. Starten Sie in Doltcho und besuchen Sie das Volkskundemuseum. Eine Busfahrt bringt Sie komfortabel zum Kloster und zur Drachenhöhle, wo Sie den Regen unterirdisch ignorieren können. Mittags bringt Sie der Bus zum Byzantinischen Museum, bevor Sie den Tag am Seeufer ausklingen lassen.",
             "hu": "Használja a helyi buszjáratokat, hogy esőben is szárazon járja be Kastoriát. Kezdjen Doltchóban a Néprajzi Múzeumnál. A busz kényelmesen elviszi a kolostorhoz és a Sárkány-barlanghoz, ahol a föld alatt észre sem veszi az esőt. Délben buszozzon fel a Bizánci Múzeumhoz, majd zárja a napot a tóparton.",
             "ro": "Folosiți autobuzele locale pentru a vizita Kastoria fără a vă uda pe ploaie. Începeți în Doltcho la Muzeul de Folclor. Autobuzul vă duce confortabil la mănăstire și la Peștera Dragonului, unde puteți ignora ploaia în subteran. La prânz, luați autobuzul spre Muzeul Bizantin, apoi încheiați ziua pe malul lacului.",
-            "en": "Use local buses to get around Kastoria dry during rainy weather. Start in Doltcho at the Folklore Museum. A bus ride takes you comfortably to the monastery and the Dragon's Cave, where you can ignore the rain underground. At noon, take the bus to the Byzantine Museum before finishing your day by the lakefront."
+            "en": "Use local buses to get around Kastoria dry during rainy weather. Start in Doltcho at the Folklore Museum. A bus ride takes you comfortably to the monastery and the Dragon's Cave, where you can ignore the rain underground. At noon, take the bus to the Byzantine Museum before finishing your day by the lakefront.",
+            "el": "Χρησιμοποιήστε τα τοπικά λεωφορεία για να κινηθείτε στην Καστοριά στεγνά σε βροχερό καιρό. Ξεκινήστε στο Δόλτσο στο Λαογραφικό Μουσείο. Ένα δρομολόγιο λεωφορείου σας μεταφέρει άνετα στο μοναστήρι και στο Σπήλαιο του Δράκου, όπου μπορείτε να αγνοήσετε τη βροχή κάτω από τη γη. Το μεσημέρι, πάρτε το λεωφορείο προς το Βυζαντινό Μουσείο πριν ολοκληρώσετε τη μέρα σας στην παραλία της λίμνης."
           },
           "stops": [
             {
@@ -2087,7 +2256,8 @@
                 "de": "Warten Sie in einem Café, bis der Bus kommt.",
                 "hu": "Várjon egy kávézóban a busz érkezéséig.",
                 "ro": "Așteptați într-o cafenea până sosește autobuzul.",
-                "en": "Wait in a nearby cafe until the bus arrives."
+                "en": "Wait in a nearby cafe until the bus arrives.",
+                "el": "Περιμένετε σε ένα κοντινό καφέ μέχρι να φτάσει το λεωφορείο."
               }
             },
             {
@@ -2096,7 +2266,8 @@
                 "de": "Kurzer Fußweg zur nächsten Haltestelle einplanen.",
                 "hu": "Tervezzen be egy rövid sétát a legközelebbi megállóig.",
                 "ro": "Planificați o scurtă plimbare până la cea mai apropiată stație.",
-                "en": "Plan for a short walk to the nearest bus stop."
+                "en": "Plan for a short walk to the nearest bus stop.",
+                "el": "Προβλέψτε μια μικρή βόλτα μέχρι την πλησιέστερη στάση λεωφορείου."
               }
             },
             {
@@ -2105,7 +2276,8 @@
                 "de": "Die Busse sind im Regen oft beschlagen, aber trocken.",
                 "hu": "A buszok ablakai párásak lehetnek, de bent száraz az idő.",
                 "ro": "Geamurile autobuzelor pot fi aburite, dar interiorul este uscat.",
-                "en": "Bus windows might be foggy, but it is dry inside."
+                "en": "Bus windows might be foggy, but it is dry inside.",
+                "el": "Τα παράθυρα των λεωφορείων μπορεί να είναι θολά, αλλά είναι στεγνά μέσα."
               }
             },
             {
@@ -2114,7 +2286,8 @@
                 "de": "Die Höhle bietet perfekten Schutz vor jedem Sturm.",
                 "hu": "A barlang tökéletes védelmet nyújt bármilyen vihar ellen.",
                 "ro": "Peștera oferă protecție perfectă împotriva oricărei furtuni.",
-                "en": "The cave offers perfect protection from any storm."
+                "en": "The cave offers perfect protection from any storm.",
+                "el": "Το σπήλαιο προσφέρει τέλεια προστασία από οποιαδήποτε καταιγίδα."
               }
             },
             {
@@ -2123,7 +2296,8 @@
                 "de": "Nutzen Sie die Zeit im Bus, um Ihre Karte zu studieren.",
                 "hu": "Használja ki a buszozást a térkép tanulmányozására.",
                 "ro": "Folosiți timpul din autobuz pentru a studia harta.",
-                "en": "Use the time on the bus to study your map."
+                "en": "Use the time on the bus to study your map.",
+                "el": "Χρησιμοποιήστε τον χρόνο στο λεωφορείο για να μελετήσετε τον χάρτη σας."
               }
             },
             {
@@ -2132,7 +2306,8 @@
                 "de": "Suchen Sie eine Haltestelle mit Unterstand für den Rückweg.",
                 "hu": "Keressen fedett megállót a visszaúthoz.",
                 "ro": "Căutați o stație acoperită pentru drumul de întoarcere.",
-                "en": "Look for a bus stop with a shelter for the return trip."
+                "en": "Look for a bus stop with a shelter for the return trip.",
+                "el": "Ψάξτε για στάση λεωφορείου με υπόστεγο για την επιστροφή."
               }
             }
           ],
@@ -2164,6 +2339,13 @@
               "Wear quick-drying clothing in case you have to wait outside.",
               "Google Maps usually shows the local lines reliably.",
               "The Dragon's Cave is served by specific bus routes."
+            ],
+            "el": [
+              "Αγοράστε εισιτήρια εκ των προτέρων σε τοπικά περίπτερα.",
+              "Η συχνότητα των λεωφορείων μπορεί να μεταβληθεί σε κακές καιρικές συνθήκες.",
+              "Φορέστε γρήγορα στεγνώσιμα ρούχα σε περίπτωση που χρειαστεί να περιμένετε έξω.",
+              "Το Google Maps συνήθως εμφανίζει αξιόπιστα τις τοπικές γραμμές.",
+              "Το Σπήλαιο του Δράκου εξυπηρετείται από συγκεκριμένες γραμμές λεωφορείων."
             ]
           }
         },
@@ -2172,7 +2354,8 @@
             "de": "Der Winter in Kastoria lässt sich mit dem Bus angenehm bewältigen. Starten Sie in Doltcho und wärmen Sie sich in den Museen auf. Der Bus bringt Sie zum Kloster und zur Höhle, wobei Sie die frostige Seeluft nur kurz spüren. Das Byzantinische Museum am Mittag ist ein warmer Höhepunkt, bevor Sie die winterliche Atmosphäre am Seeufer genießen.",
             "hu": "A téli Kastoria busszal is kellemesen bejárható. Kezdjen Doltchóban, és melegedjen fel a múzeumokban. A busz elviszi a kolostorhoz és a barlanghoz, így a fagyos tavi levegőt csak rövid ideig kell bírnia. A Bizánci Múzeum meleg pont délben, mielőtt kiélvezné a téli tóparti hangulatot.",
             "ro": "Iarna în Kastoria poate fi gestionată plăcut cu autobuzul. Începeți în Doltcho și încălziți-vă în muzee. Autobuzul vă duce la mănăstire și la peșteră, astfel că veți simți aerul înghețat al lacului doar scurt timp. Muzeul Bizantin de la prânz este un punct cald înainte de a savura atmosfera de iarnă de pe mal.",
-            "en": "Winter in Kastoria can be pleasantly managed by bus. Start in Doltcho and warm up in the museums. The bus takes you to the monastery and the cave, so you only feel the frosty lake air for short periods. The Byzantine Museum at noon is a warm highlight before enjoying the winter atmosphere by the lakefront."
+            "en": "Winter in Kastoria can be pleasantly managed by bus. Start in Doltcho and warm up in the museums. The bus takes you to the monastery and the cave, so you only feel the frosty lake air for short periods. The Byzantine Museum at noon is a warm highlight before enjoying the winter atmosphere by the lakefront.",
+            "el": "Ο χειμώνας στην Καστοριά μπορεί να αντιμετωπιστεί ευχάριστα με λεωφορείο. Ξεκινήστε στο Δόλτσο και ζεσταθείτε στα μουσεία. Το λεωφορείο σας πηγαίνει στο μοναστήρι και στο σπήλαιο, έτσι νιώθετε τον παγωμένο αέρα της λίμνης μόνο για σύντομα διαστήματα. Το Βυζαντινό Μουσείο το μεσημέρι είναι ένα ζεστό αποκορύφωμα πριν απολαύσετε την χειμερινή ατμόσφαιρα στην παραλία της λίμνης."
           },
           "stops": [
             {
@@ -2181,7 +2364,8 @@
                 "de": "Bleiben Sie in Bewegung, während Sie auf den Bus warten.",
                 "hu": "Maradjon mozgásban, amíg a buszra vár.",
                 "ro": "Rămâneți în mișcare în timp ce așteptați autobuzul.",
-                "en": "Keep moving while waiting for the bus to stay warm."
+                "en": "Keep moving while waiting for the bus to stay warm.",
+                "el": "Κινήστετε ενώ περιμένετε το λεωφορείο για να διατηρείστε ζεστοί."
               }
             },
             {
@@ -2190,7 +2374,8 @@
                 "de": "Prüfen Sie den Busplan direkt am Eingang des Museums.",
                 "hu": "Ellenőrizze a buszmenetrendet a múzeum bejáratánál.",
                 "ro": "Verificați programul autobuzelor chiar la intrarea în muzeu.",
-                "en": "Check the bus schedule right at the museum entrance."
+                "en": "Check the bus schedule right at the museum entrance.",
+                "el": "Ελέγξτε το πρόγραμμα των λεωφορείων ακριβώς στην είσοδο του μουσείου."
               }
             },
             {
@@ -2199,7 +2384,8 @@
                 "de": "Genießen Sie die Fahrt im beheizten Bus.",
                 "hu": "Élvezze az utazást a fűtött buszon.",
                 "ro": "Bucurați-vă de călătoria în autobuzul încălzit.",
-                "en": "Enjoy the ride in the comfortably heated bus."
+                "en": "Enjoy the ride in the comfortably heated bus.",
+                "el": "Απολαύστε τη διαδρομή στο άνετα θερμαινόμενο λεωφορείο."
               }
             },
             {
@@ -2208,7 +2394,8 @@
                 "de": "Die Höhle ist im Winter ein warmer Rückzugsort.",
                 "hu": "A barlang télen kiváló melegedőhely.",
                 "ro": "Peștera este un refugiu cald pe timp de iarnă.",
-                "en": "The cave is a warm retreat during the winter months."
+                "en": "The cave is a warm retreat during the winter months.",
+                "el": "Το σπήλαιο είναι ζεστό καταφύγιο κατά τους χειμερινούς μήνες."
               }
             },
             {
@@ -2217,7 +2404,8 @@
                 "de": "Die Aussicht aus dem Busfenster ist im Winter oft klarer.",
                 "hu": "A kilátás a buszból télen gyakran tisztább.",
                 "ro": "Priveliștea din autobuz este adesea mai clară iarna.",
-                "en": "The view from the bus window is often clearer in winter."
+                "en": "The view from the bus window is often clearer in winter.",
+                "el": "Η θέα από το παράθυρο του λεωφορείου είναι συχνά πιο καθαρή τον χειμώνα."
               }
             },
             {
@@ -2226,7 +2414,8 @@
                 "de": "Verpassen Sie nicht den letzten Bus vor der Dunkelheit.",
                 "hu": "Ne késse le az utolsó buszt sötétedés előtt.",
                 "ro": "Nu ratați ultimul autobuz înainte de lăsarea întunericului.",
-                "en": "Don't miss the last bus before it gets completely dark."
+                "en": "Don't miss the last bus before it gets completely dark.",
+                "el": "Μην χάσετε το τελευταίο λεωφορείο πριν σκοτεινιάσει εντελώς."
               }
             }
           ],
@@ -2258,6 +2447,13 @@
               "Lakeside bus stops are very windy during winter.",
               "Buses are usually very warm; wear layers you can remove.",
               "Some bus routes may run less frequently in winter."
+            ],
+            "el": [
+              "Τα λεωφορεία μπορεί να καθυστερήσουν σε περίπτωση έντονης χιονόπτωσης.",
+              "Έχετε έτοιμο μικρό ρέστα για την αγορά εισιτηρίων.",
+              "Οι στάσεις δίπλα στη λίμνη είναι πολύ παγωμένες και ανεμώδεις τον χειμώνα.",
+              "Τα λεωφορεία είναι συνήθως πολύ ζεστά· φορέστε στρώσεις που μπορείτε να αφαιρέσετε.",
+              "Ορισμένα δρομολόγια λεωφορείων μπορεί να είναι λιγότερο συχνά το χειμώνα."
             ]
           }
         }

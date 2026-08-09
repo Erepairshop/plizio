@@ -21,7 +21,8 @@
             "de": "Aristonauton-Platz",
             "hu": "Arisztonauton tér",
             "ro": "Piața Aristonauton",
-            "en": "Aristonauton Square"
+            "en": "Aristonauton Square",
+            "el": "Πλατεία Αριστοναυτών"
           },
           "coords": [
             22.6333,
@@ -36,7 +37,8 @@
             "de": "Starten Sie den Tag mit einem Freddo Cappuccino in einem der Cafés am Platz.",
             "hu": "Kezdje a napot egy freddo cappuccinóval a tér egyik kávézójában!",
             "ro": "Începeți ziua cu un freddo cappuccino la una dintre cafenelele din piață.",
-            "en": "Start your day with a freddo cappuccino at one of the square's cafes."
+            "en": "Start your day with a freddo cappuccino at one of the square's cafes.",
+            "el": "Ξεκινήστε την ημέρα σας με έναν φρέντο καπουτσίνο σε ένα από τα καφέ της πλατείας."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kirche Agios Vlasios",
             "hu": "Agios Vlasios templom",
             "ro": "Biserica Agios Vlasios",
-            "en": "Church of Agios Vlasios"
+            "en": "Church of Agios Vlasios",
+            "el": "Εκκλησία Αγίου Βλασίου"
           },
           "coords": [
             22.6325,
@@ -59,7 +62,8 @@
             "de": "Achten Sie auf die beeindruckende Ikonostase und die Wandmalereien im Inneren.",
             "hu": "Figyelje meg a lenyűgöző ikonosztázt és a belső falfestményeket.",
             "ro": "Observați iconostasul impresionant și picturile murale din interior.",
-            "en": "Look for the impressive iconostasis and the murals inside."
+            "en": "Look for the impressive iconostasis and the murals inside.",
+            "el": "Ψάξτε για την εντυπωσιακή τέμπλο και τις τοιχογραφίες στο εσωτερικό."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Rathaus von Xylokastro",
             "hu": "Xylokastro Városháza",
             "ro": "Primăria din Xylokastro",
-            "en": "Xylokastro Town Hall"
+            "en": "Xylokastro Town Hall",
+            "el": "Δημαρχείο Ξυλόκαστρου"
           },
           "coords": [
             22.634,
@@ -82,7 +87,8 @@
             "de": "Ein schönes Beispiel neoklassizistischer Architektur, perfekt für ein Foto.",
             "hu": "A neoklasszikus építészet szép példája, tökéletes egy fotóhoz.",
             "ro": "Un exemplu frumos de arhitectură neoclasică, perfect pentru o fotografie.",
-            "en": "A fine example of neoclassical architecture, perfect for a photo."
+            "en": "A fine example of neoclassical architecture, perfect for a photo.",
+            "el": "Ένα ωραίο δείγμα νεοκλασικής αρχιτεκτονικής, ιδανικό για φωτογραφία."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Hafen von Xylokastro",
             "hu": "Xylokastro kikötője",
             "ro": "Portul din Xylokastro",
-            "en": "Port of Xylokastro"
+            "en": "Port of Xylokastro",
+            "el": "Λιμένας Ξυλόκαστρου"
           },
           "coords": [
             22.635,
@@ -105,7 +112,8 @@
             "de": "Beobachten Sie die Fischer bei ihrer Arbeit und genießen Sie die Meeresbrise.",
             "hu": "Nézze a halászokat munka közben, és élvezze a tengeri szellőt.",
             "ro": "Urmăriți pescarii la lucru și bucurați-vă de briza mării.",
-            "en": "Watch the fishermen at work and enjoy the sea breeze."
+            "en": "Watch the fishermen at work and enjoy the sea breeze.",
+            "el": "Παρατηρήστε τους ψαράδες στη δουλειά και απολαύστε το θαλασσινό αεράκι."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Strand von Xylokastro",
             "hu": "Xylokastro strandja",
             "ro": "Plaja din Xylokastro",
-            "en": "Xylokastro Beach"
+            "en": "Xylokastro Beach",
+            "el": "Παραλία Ξυλόκαστρου"
           },
           "coords": [
             22.63,
@@ -128,7 +137,8 @@
             "de": "Mieten Sie eine Sonnenliege und genießen Sie das klare Wasser. Mittagessen in einer Taverne am Strand!",
             "hu": "Béreljen napágyat, és élvezze a tiszta vizet. Ebédeljen egy tengerparti tavernában!",
             "ro": "Închiriați un șezlong și bucurați-vă de apa limpede. Prânz la o tavernă pe plajă!",
-            "en": "Rent a sunbed and enjoy the clear waters. Have lunch at a beachside taverna!"
+            "en": "Rent a sunbed and enjoy the clear waters. Have lunch at a beachside taverna!",
+            "el": "Ενοικιάστε ξαπλώστρα και απολαύστε τα καθαρά νερά. Γευματίστε σε ταβέρνα πάνω στη θάλασσα!"
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Pefkias-Kiefernwald",
             "hu": "Pefkias fenyőerdő",
             "ro": "Pădurea de pini Pefkias",
-            "en": "Pefkias Pine Forest"
+            "en": "Pefkias Pine Forest",
+            "el": "Πεύκια Πευκιάς"
           },
           "coords": [
             22.625,
@@ -151,7 +162,8 @@
             "de": "Ein Spaziergang im Schatten der Pinien ist eine perfekte Flucht vor der Mittagssonne.",
             "hu": "Egy séta a fenyők árnyékában tökéletes menedék a déli nap elől.",
             "ro": "O plimbare la umbra pinilor este o evadare perfectă de soarele amiezii.",
-            "en": "A walk in the shade of the pine trees is a perfect escape from the midday sun."
+            "en": "A walk in the shade of the pine trees is a perfect escape from the midday sun.",
+            "el": "Μια βόλτα στη σκιά των πεύκων είναι η τέλεια απόδραση από τον μεσημεριανό ήλιο."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Sythas-Flussufer",
             "hu": "Sythas-folyó partja",
             "ro": "Malul râului Sythas",
-            "en": "Sythas River Bank"
+            "en": "Sythas River Bank",
+            "el": "Όχθη Ποταμού Σύθα"
           },
           "coords": [
             22.645,
@@ -174,7 +187,8 @@
             "de": "Ein ruhiger Ort, um den Tag ausklingen zu lassen und den Sonnenuntergang zu beobachten.",
             "hu": "Egy békés hely a nap befejezéséhez és a naplemente megtekintéséhez.",
             "ro": "Un loc liniștit pentru a încheia ziua și a privi apusul.",
-            "en": "A peaceful spot to end the day and watch the sunset."
+            "en": "A peaceful spot to end the day and watch the sunset.",
+            "el": "Ένα ήσυχο σημείο για να τελειώσετε την ημέρα και να παρακολουθήσετε το ηλιοβασίλεμα."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Beginnen Sie Ihren Tag auf dem belebten Aristonauton-Platz, dem Herzen von Xylokastro. Nach der Erkundung der historischen Agios-Vlasios-Kirche führt Sie ein kurzer Spaziergang zum Hafen. Verbringen Sie den Nachmittag entspannt am Strand, bevor Sie in den schattigen Pefkias-Wald eintauchen. Der Tag endet mit einem ruhigen Spaziergang entlang des Sythas-Flusses, während die Sonne untergeht.",
         "hu": "Kezdje a napot a nyüzsgő Arisztonauton téren, Xylokastro szívében. A történelmi Agios Vlasios templom felfedezése után egy rövid séta elvisz a kikötőbe. Töltse a délutánt a tengerparton pihenve, mielőtt elmerülne az árnyas Pefkias-erdőben. A nap egy békés sétával zárul a Sythas folyó mentén, miközben a nap lenyugszik.",
         "ro": "Începeți ziua în vibranta Piață Aristonauton, inima orașului Xylokastro. După explorarea istoricei Biserici Agios Vlasios, o scurtă plimbare vă duce în port. Petreceți după-amiaza relaxându-vă pe plajă înainte de a vă cufunda în umbra pădurii Pefkias. Ziua se încheie cu o plimbare liniștită de-a lungul râului Sythas, în timp ce soarele apune.",
-        "en": "Start your day at the bustling Aristonauton Square, the heart of Xylokastro. After exploring the historic Agios Vlasios Church, a short walk takes you to the port. Spend the afternoon relaxing on the beach before delving into the shady Pefkias Forest. The day concludes with a peaceful stroll along the Sythas River as the sun sets."
+        "en": "Start your day at the bustling Aristonauton Square, the heart of Xylokastro. After exploring the historic Agios Vlasios Church, a short walk takes you to the port. Spend the afternoon relaxing on the beach before delving into the shady Pefkias Forest. The day concludes with a peaceful stroll along the Sythas River as the sun sets.",
+        "el": "Ξεκινήστε την ημέρα σας στην πολυσύχναστη Πλατεία Αριστοναυτών, την καρδιά του Ξυλόκαστρου. Μετά την εξερεύνηση της ιστορικής εκκλησίας του Αγίου Βλασίου, με έναν μικρό περίπατο φτάνετε στο λιμάνι. Περάστε το απόγευμα χαλαρώνοντας στην παραλία πριν εισέλθετε στο σκιασμένο δάσος των Πευκιάδων. Η μέρα ολοκληρώνεται με έναν ήσυχο περίπατο κατά μήκος του ποταμού Σύθα καθώς δύει ο ήλιος."
       },
       "gastro_picks": {
         "de": [
@@ -378,6 +393,12 @@
           "A water bottle is essential, especially during the summer months.",
           "Don't forget sunscreen and a hat.",
           "Keep some small change handy for small purchases or a coffee."
+        ],
+        "el": [
+          "Φορέστε άνετα παπούτσια καθώς θα περπατήσετε πολύ.",
+          "Μπουκάλι με νερό είναι απαραίτητο, ειδικά τους καλοκαιρινούς μήνες.",
+          "Μην ξεχάσετε αντηλιακό και καπέλο.",
+          "Κρατήστε λίγο ψιλά για μικροαγορές ή καφέ."
         ]
       },
       "variants": {
@@ -386,7 +407,8 @@
             "de": "Der Morgen beginnt gemütlich in den Cafés am Aristonauton-Platz, während der Regen auf die Markisen trommelt. Mittags bietet die Agios-Vlasios-Kirche trockenen Unterschlupf und spirituelle Ruhe. Nachmittags führt der Weg am Hafen vorbei, wo die graue See eine dramatische Kulisse bildet. Der Pefkias-Wald bietet mit seinem dichten Blätterdach natürlichen Schutz für einen kurzen Spaziergang. Der Abend klingt entspannt in einer Taverne am Sythas-Ufer aus.",
             "hu": "A reggel az Arisztonauton tér kávézóinak ponyvái alatt indul, figyelve az eső kopogását. Délben az Ágiosz Vlasziosz-templom nyújt száraz menedéket és látványos freskókat. Délután a kikötőben a szürke tenger morajlása teremt drámai hangulatot. A Pefkiasz-erdő sűrű fenyői természetes esernyőként védenek egy rövid sétához. Az estét a Szithasz-folyó partján, egy barátságos helyi étteremben zárjuk, ahol az eső illata frissíti a levegőt.",
             "ro": "Dimineața începe sub copertinele cafenelelor din Piața Aristonauton, în timp ce ploaia tobează ritmic. La prânz, Biserica Agios Vlasios oferă un adăpost uscat și liniște spirituală. După-amiaza, portul oferă o priveliște dramatică asupra mării agitate sub cerul gri. Pădurea Pefkias oferă protecție naturală datorită pinilor deși pentru o scurtă plimbare. Seara se încheie relaxat pe malul râului Sythas, într-o tavernă caldă.",
-            "en": "Morning starts under the awnings of Aristonauton Square cafes, watching the rain hit the pavement. At noon, the Church of Agios Vlasios provides dry shelter and beautiful icons. In the afternoon, the harbor walk offers a dramatic view of the grey sea. The Pefkias forest's dense canopy acts as a natural umbrella for a refreshing walk. The evening concludes by the Sythas River bank in a cozy local eatery as the rain clears the air."
+            "en": "Morning starts under the awnings of Aristonauton Square cafes, watching the rain hit the pavement. At noon, the Church of Agios Vlasios provides dry shelter and beautiful icons. In the afternoon, the harbor walk offers a dramatic view of the grey sea. The Pefkias forest's dense canopy acts as a natural umbrella for a refreshing walk. The evening concludes by the Sythas River bank in a cozy local eatery as the rain clears the air.",
+            "el": "Το πρωί ξεκινά κάτω από τις τέντες των καφέ της Πλατείας Αριστοναυτών, βλέποντας τη βροχή να χτυπά το πεζοδρόμιο. Το μεσημέρι, η εκκλησία του Αγίου Βλασίου προσφέρει ξηρή προστασία και όμορφες εικόνες. Το απόγευμα, η βόλτα στο λιμάνι προσφέρει δραματική θέα της γκρίζας θάλασσας. Το πυκνό φύλλωμα του δάσους Πευκιάς λειτουργεί ως φυσική ομπρέλα για μια δροσιστική βόλτα. Το βράδυ ολοκληρώνεται στην όχθη του ποταμού Σύθα σε μια φιλόξενη τοπική ταβέρνα καθώς η βροχή καθαρίζει την ατμόσφαιρα."
           },
           "stops": [
             {
@@ -395,7 +417,8 @@
                 "de": "Wählen Sie ein Café mit beheizter Terrasse.",
                 "hu": "Válassz fűtött teraszos kávézót a téren.",
                 "ro": "Alegeți o cafenea cu terasă încălzită.",
-                "en": "Choose a cafe with a heated terrace."
+                "en": "Choose a cafe with a heated terrace.",
+                "el": "Επιλέξτε καφέ με ζεστή βεράντα."
               }
             },
             {
@@ -404,7 +427,8 @@
                 "de": "Ideal, um den stärksten Regen abzuwarten.",
                 "hu": "Tökéletes hely a legnagyobb zápor átvészelésére.",
                 "ro": "Locul ideal pentru a aștepta trecerea ploii.",
-                "en": "Ideal place to wait out the heaviest rain."
+                "en": "Ideal place to wait out the heaviest rain.",
+                "el": "Ιδανικό μέρος για να περιμένετε την πιο δυνατή βροχή."
               }
             },
             {
@@ -413,7 +437,8 @@
                 "de": "Kurzer Fotostopp unter dem Vordach.",
                 "hu": "Gyors fotómegálló az előtető alatt.",
                 "ro": "Scurt popas pentru poze sub streașină.",
-                "en": "Quick photo stop under the entrance canopy."
+                "en": "Quick photo stop under the entrance canopy.",
+                "el": "Γρήγορη στάση για φωτογραφία κάτω από το προαύλιο της εισόδου."
               }
             },
             {
@@ -422,7 +447,8 @@
                 "de": "Achtung, die Kaimauer kann rutschig sein.",
                 "hu": "Vigyázat, a móló széle csúszós lehet.",
                 "ro": "Atenție, digul poate fi alunecos.",
-                "en": "Careful, the pier edges can be slippery."
+                "en": "Careful, the pier edges can be slippery.",
+                "el": "Προσοχή, οι άκρες της προβλήτας μπορεί να είναι ολισθηρές."
               }
             },
             {
@@ -431,7 +457,8 @@
                 "de": "Genießen Sie den Blick aus einem Strandcafé.",
                 "hu": "Élvezd a tenger látványát egy parti kávézóból.",
                 "ro": "Admirați marea dintr-o cafenea de pe plajă.",
-                "en": "Enjoy the sea view from a beachfront cafe."
+                "en": "Enjoy the sea view from a beachfront cafe.",
+                "el": "Απολαύστε τη θέα της θάλασσας από ένα καφέ στην παραλία."
               }
             },
             {
@@ -440,7 +467,8 @@
                 "de": "Die Pinien halten leichten Regen gut ab.",
                 "hu": "A fenyők jól felfogják a gyengébb esőt.",
                 "ro": "Pinii rețin bine ploaia ușoară.",
-                "en": "The pines provide good shelter from light rain."
+                "en": "The pines provide good shelter from light rain.",
+                "el": "Τα πεύκα παρέχουν καλή προστασία από τη μικρή βροχή."
               }
             },
             {
@@ -449,7 +477,8 @@
                 "de": "Der Fluss führt bei Regen oft mehr Wasser.",
                 "hu": "Esőben a folyó látványosan megduzzadhat.",
                 "ro": "Râul poate fi mai umflat după ploaie.",
-                "en": "The river is often more impressive after rain."
+                "en": "The river is often more impressive after rain.",
+                "el": "Ο ποταμός είναι συχνά πιο εντυπωσιακός μετά τη βροχή."
               }
             }
           ],
@@ -481,6 +510,13 @@
               "The church is open until early afternoon for dry visits.",
               "Use beachfront cafes as dry rest stations.",
               "A raincoat is better than an umbrella in coastal winds."
+            ],
+            "el": [
+              "Φορέστε αδιάβροχα παπούτσια για τα μονοπάτια του δάσους.",
+              "Τα περισσότερα καφέ της πλατείας έχουν βεράντες προστατευμένες από τον άνεμο.",
+              "Η εκκλησία είναι ανοιχτή μέχρι τις πρώτες απογευματινές ώρες για ξηρές επισκέψεις.",
+              "Χρησιμοποιήστε τα καφέ στην παραλία ως σημεία ξεκούρασης μακριά από τη βροχή.",
+              "Ένα αδιάβροχο είναι καλύτερο από ομπρέλα στους παράκτιους ανέμους."
             ]
           }
         },
@@ -489,7 +525,8 @@
             "de": "Die klare Winterluft am Aristonauton-Platz belebt den Geist am Morgen. Mittags strahlt die Sonne mild auf die Kirche von Agios Vlasios, deren Innenraum eine warme Atmosphäre ausstrahlt. Nachmittags ist der Hafen ruhig und perfekt für einen ungestörten Spaziergang. Der Pefkias-Wald bleibt auch im Winter sattgrün und duftet intensiv nach Harz. Vor dem frühen Sonnenuntergang bietet das Sythas-Ufer einen friedlichen Abschluss des Tages in der Natur.",
             "hu": "A friss téli levegő az Arisztonauton téren élénkítően hat a reggeli kávé mellé. Délben a nap bágyadtan süti az Ágiosz Vlasziosz-templomot, melynek belső tere ilyenkor is meghitt. Délután a kikötő csendes, mentes a nyári tömegtől, ideális a gondolattalan sétához. A Pefkiasz-erdő télen is örökzöld, az illata ilyenkor a legintenzívebb. A korai naplemente előtt a Szithasz-folyó partja békés és természetközeli lezárást kínál.",
             "ro": "Aerul proaspăt de iarnă din Piața Aristonauton revigorează spiritul dimineața. La prânz, soarele blând luminează Biserica Agios Vlasios, al cărei interior emană o atmosferă caldă. După-amiaza, portul este liniștit, perfect pentru o plimbare neîntreruptă. Pădurea Pefkias rămâne verde chiar și iarna, mirosind intens a rășină. Înainte de apusul devreme, malul râului Sythas oferă o încheiere pașnică a zilei.",
-            "en": "The crisp winter air at Aristonauton Square invigorates the spirit in the morning. At noon, the mild sun highlights the Church of Agios Vlasios, offering a serene indoor retreat. In the afternoon, the port is calm and free from summer crowds, perfect for a peaceful walk. The Pefkias forest stays evergreen throughout winter, with a rich resinous scent. Before the early sunset, the Sythas River bank provides a tranquil finish to the day."
+            "en": "The crisp winter air at Aristonauton Square invigorates the spirit in the morning. At noon, the mild sun highlights the Church of Agios Vlasios, offering a serene indoor retreat. In the afternoon, the port is calm and free from summer crowds, perfect for a peaceful walk. The Pefkias forest stays evergreen throughout winter, with a rich resinous scent. Before the early sunset, the Sythas River bank provides a tranquil finish to the day.",
+            "el": "Ο δροσερός χειμωνιάτικος αέρας στην Πλατεία Αριστοναυτών αναζωογονεί το πρωί. Το μεσημέρι, ο ήπιος ήλιος φωτίζει την εκκλησία του Αγίου Βλασίου, προσφέροντας γαλήνια εσωτερική απόδραση. Το απόγευμα, το λιμάνι είναι ήρεμο και χωρίς τα καλοκαιρινά πλήθη, ιδανικό για έναν ήσυχο περίπατο. Το δάσος των Πευκιάδων παραμένει αειθαλές καθ’ όλη τη διάρκεια του χειμώνα, με πλούσιο ρητινώδες άρωμα. Πριν το νωρίς ηλιοβασίλεμα, η όχθη του ποταμού Σύθα προσφέρει ένα ήρεμο φινάλε της ημέρας."
           },
           "stops": [
             {
@@ -498,7 +535,8 @@
                 "de": "Probieren Sie heißen griechischen Kaffee.",
                 "hu": "Kóstold meg a forró görög kávét.",
                 "ro": "Încercați o cafea grecească fierbinte.",
-                "en": "Try some hot Greek coffee here."
+                "en": "Try some hot Greek coffee here.",
+                "el": "Δοκιμάστε εδώ ζεστό ελληνικό καφέ."
               }
             },
             {
@@ -507,7 +545,8 @@
                 "de": "Die Kerzen im Inneren spenden Wärme.",
                 "hu": "A gyertyák fénye meleg hangulatot áraszt.",
                 "ro": "Lumânările din interior creează o atmosferă caldă.",
-                "en": "The candles inside create a warm atmosphere."
+                "en": "The candles inside create a warm atmosphere.",
+                "el": "Τα κεριά στο εσωτερικό δημιουργούν ζεστή ατμόσφαιρα."
               }
             },
             {
@@ -516,7 +555,8 @@
                 "de": "Schönes Fotomotiv im tiefstehenden Licht.",
                 "hu": "Szép fotótéma az alacsonyan járó napfényben.",
                 "ro": "Subiect bun de poze în lumina joasă a iernii.",
-                "en": "Good photo spot in the low winter light."
+                "en": "Good photo spot in the low winter light.",
+                "el": "Καλό σημείο για φωτογραφία στο χαμηλό χειμωνιάτικο φως."
               }
             },
             {
@@ -525,7 +565,8 @@
                 "de": "Warme Kleidung gegen die Meeresbrise nötig.",
                 "hu": "Meleg ruha kell a hűvös tengeri szél miatt.",
                 "ro": "Haine groase necesare pentru briza mării.",
-                "en": "Warm clothes needed for the sea breeze."
+                "en": "Warm clothes needed for the sea breeze.",
+                "el": "Χρειάζονται ζεστά ρούχα για το θαλάσσιο αεράκι."
               }
             },
             {
@@ -534,7 +575,8 @@
                 "de": "Ideal für einen zügigen Winterspaziergang.",
                 "hu": "Ideális hely egy frissítő téli sétához.",
                 "ro": "Ideal pentru o plimbare revigorantă de iarnă.",
-                "en": "Ideal for a brisk winter stroll on the pebbles."
+                "en": "Ideal for a brisk winter stroll on the pebbles.",
+                "el": "Ιδανικό για ζωηρή χειμερινή βόλτα στα βότσαλα."
               }
             },
             {
@@ -543,7 +585,8 @@
                 "de": "Im Wald ist es oft windgeschützter.",
                 "hu": "Az erdőben sokszor szélvédettebb az idő.",
                 "ro": "În pădure este adesea mai ferit de vânt.",
-                "en": "The forest is often more sheltered from wind."
+                "en": "The forest is often more sheltered from wind.",
+                "el": "Το δάσος συχνά προστατεύει καλύτερα από τον άνεμο."
               }
             },
             {
@@ -552,7 +595,8 @@
                 "de": "Planen Sie den Besuch vor 17:00 Uhr.",
                 "hu": "Tervezd a látogatást 17:00 óra elé.",
                 "ro": "Planificați vizita înainte de ora 17:00.",
-                "en": "Plan your visit before 5:00 PM sunset."
+                "en": "Plan your visit before 5:00 PM sunset.",
+                "el": "Σχεδιάστε την επίσκεψή σας πριν τις 17:00."
               }
             }
           ],
@@ -584,6 +628,13 @@
               "Many tavernas heat with traditional stoves.",
               "The forest path can be slippery after a frost.",
               "Enjoy the tranquility without the summer crowds."
+            ],
+            "el": [
+              "Το ηλιοβασίλεμα είναι γύρω στις 17:15 τον χειμώνα.",
+              "Ντυθείτε με στρώσεις για τις μεταβαλλόμενες θερμοκρασίες.",
+              "Πολλές ταβέρνες θερμαίνουν με παραδοσιακά μαγκάλια.",
+              "Το μονοπάτι του δάσους μπορεί να είναι ολισθηρό μετά από παγετό.",
+              "Απολαύστε την ηρεμία χωρίς τα καλοκαιρινά πλήθη."
             ]
           }
         }
@@ -602,7 +653,8 @@
             "de": "Aristonauton-Platz",
             "hu": "Arisztonauton tér",
             "ro": "Piața Aristonauton",
-            "en": "Aristonauton Square"
+            "en": "Aristonauton Square",
+            "el": "Πλατεία Αριστοναυτών"
           },
           "coords": [
             22.6333,
@@ -617,7 +669,8 @@
             "de": "Perfekter Treffpunkt, um Ihr Fahrrad zu überprüfen, bevor Sie losfahren.",
             "hu": "Tökéletes találkozóhely a kerékpár ellenőrzéséhez indulás előtt.",
             "ro": "Punct de întâlnire perfect pentru a vă verifica bicicleta înainte de a porni.",
-            "en": "Perfect meeting point to check your bike before setting off."
+            "en": "Perfect meeting point to check your bike before setting off.",
+            "el": "Ιδανικό σημείο συνάντησης για να ελέγξετε το ποδήλατό σας πριν ξεκινήσετε."
           }
         },
         {
@@ -625,7 +678,8 @@
             "de": "Hafen von Xylokastro",
             "hu": "Xylokastro kikötője",
             "ro": "Portul din Xylokastro",
-            "en": "Port of Xylokastro"
+            "en": "Port of Xylokastro",
+            "el": "Λιμένας Ξυλόκαστρου"
           },
           "coords": [
             22.635,
@@ -640,7 +694,8 @@
             "de": "Fahren Sie langsam entlang des Piers und genießen Sie die Aussicht auf die Boote.",
             "hu": "Tekerjen lassan a mólón, és élvezze a hajók látványát.",
             "ro": "Pedalați încet de-a lungul cheiului și bucurați-vă de priveliștea bărcilor.",
-            "en": "Cycle slowly along the pier and enjoy the view of the boats."
+            "en": "Cycle slowly along the pier and enjoy the view of the boats.",
+            "el": "Περάστε αργά κατά μήκος της προβλήτας με το ποδήλατο και απολαύστε τη θέα των σκαφών."
           }
         },
         {
@@ -648,7 +703,8 @@
             "de": "Strand von Xylokastro",
             "hu": "Xylokastro strandja",
             "ro": "Plaja din Xylokastro",
-            "en": "Xylokastro Beach"
+            "en": "Xylokastro Beach",
+            "el": "Παραλία Ξυλόκαστρου"
           },
           "coords": [
             22.63,
@@ -663,7 +719,8 @@
             "de": "Parken Sie Ihr Fahrrad und nehmen Sie ein erfrischendes Bad im Meer.",
             "hu": "Parkolja le a biciklit, és vegyen egy frissítő fürdőt a tengerben.",
             "ro": "Parcați bicicleta și faceți o baie răcoritoare în mare.",
-            "en": "Park your bike and take a refreshing dip in the sea."
+            "en": "Park your bike and take a refreshing dip in the sea.",
+            "el": "Σταθμεύστε το ποδήλατο και κάντε ένα δροσιστικό βουτιά στη θάλασσα."
           }
         },
         {
@@ -671,7 +728,8 @@
             "de": "Pefkias-Kiefernwald",
             "hu": "Pefkias fenyőerdő",
             "ro": "Pădurea de pini Pefkias",
-            "en": "Pefkias Pine Forest"
+            "en": "Pefkias Pine Forest",
+            "el": "Πεύκια Πευκιάς"
           },
           "coords": [
             22.625,
@@ -686,7 +744,8 @@
             "de": "Die Radwege durch den Wald sind ideal für eine entspannte Fahrt.",
             "hu": "Az erdőn átvezető kerékpárutak ideálisak egy laza tekeréshez.",
             "ro": "Pistele de biciclete prin pădure sunt ideale pentru o plimbare relaxantă.",
-            "en": "The bike paths through the forest are ideal for a relaxing ride."
+            "en": "The bike paths through the forest are ideal for a relaxing ride.",
+            "el": "Τα ποδηλατικά μονοπάτια μέσα στο δάσος είναι ιδανικά για χαλαρή βόλτα."
           }
         },
         {
@@ -694,7 +753,8 @@
             "de": "Sythas-Flussufer",
             "hu": "Sythas-folyó partja",
             "ro": "Malul râului Sythas",
-            "en": "Sythas River Bank"
+            "en": "Sythas River Bank",
+            "el": "Όχθη Ποταμού Σύθα"
           },
           "coords": [
             22.645,
@@ -709,7 +769,8 @@
             "de": "Eine längere Fahrt, aber die ruhige Atmosphäre am Fluss ist es wert.",
             "hu": "Hosszabb út, de a folyó melletti békés hangulat megéri.",
             "ro": "O plimbare mai lungă, dar atmosfera liniștită de lângă râu merită.",
-            "en": "A longer ride, but the peaceful atmosphere by the river is worth it."
+            "en": "A longer ride, but the peaceful atmosphere by the river is worth it.",
+            "el": "Μακρύτερη βόλτα, αλλά η ήρεμη ατμόσφαιρα δίπλα στον ποταμό αξίζει τον κόπο."
           }
         }
       ],
@@ -717,7 +778,8 @@
         "de": "Schnappen Sie sich ein Fahrrad und beginnen Sie Ihre Tour am Aristonauton-Platz. Fahren Sie die Küste entlang, vorbei am Hafen, bis zum Hauptstrand für eine Mittagspause. Am Nachmittag erkunden Sie die kühlen, schattigen Wege des Pefkias-Waldes. Eine längere Fahrt führt Sie zum ruhigen Sythas-Fluss, ein perfekter Ort, um sich zu entspannen, bevor Sie zurück ins Zentrum fahren.",
         "hu": "Pattanjon biciklire, és kezdje a túrát az Arisztonauton térről. Tekerjen végig a tengerparton, elhaladva a kikötő mellett, egészen a fő strandig egy ebédszünetre. Délután fedezze fel a Pefkias-erdő hűvös, árnyas ösvényeit. Egy hosszabb út vezet a békés Sythas folyóhoz, amely tökéletes hely a pihenésre, mielőtt visszatérne a központba.",
         "ro": "Luați o bicicletă și începeți turul din Piața Aristonauton. Pedalați de-a lungul coastei, trecând de port, până la plaja principală pentru o pauză de prânz. După-amiaza, explorați potecile răcoroase și umbrite ale pădurii Pefkias. O plimbare mai lungă vă va duce la liniștitul râu Sythas, un loc perfect pentru a vă relaxa înainte de a vă întoarce în centru.",
-        "en": "Grab a bike and start your tour from Aristonauton Square. Cycle along the coast, past the port, to the main beach for a midday break. In the afternoon, explore the cool, shaded paths of the Pefkias Forest. A longer ride will take you to the tranquil Sythas River, a perfect spot to unwind before heading back to the center."
+        "en": "Grab a bike and start your tour from Aristonauton Square. Cycle along the coast, past the port, to the main beach for a midday break. In the afternoon, explore the cool, shaded paths of the Pefkias Forest. A longer ride will take you to the tranquil Sythas River, a perfect spot to unwind before heading back to the center.",
+        "el": "Πιάστε ένα ποδήλατο και ξεκινήστε την περιήγησή σας από την Πλατεία Αριστοναυτών. Ποδηλατήστε κατά μήκος της ακτής, περάστε το λιμάνι, φτάστε στην κεντρική παραλία για μεσημεριανή στάση. Το απόγευμα εξερευνήστε τα δροσερά, σκιερά μονοπάτια του δάσους Πευκιάς. Μια μεγαλύτερη διαδρομή θα σας οδηγήσει στην ήσυχη όχθη του ποταμού Σύθα, ιδανικό σημείο για χαλάρωση πριν επιστρέψετε στο κέντρο."
       },
       "gastro_picks": {
         "de": [
@@ -913,6 +975,12 @@
           "A lock is important to secure your bike at stops.",
           "The coastal road can be windy, be prepared.",
           "Plan your route in advance, but be flexible."
+        ],
+        "el": [
+          "Βεβαιωθείτε ότι το ποδήλατό σας είναι σε καλή κατάσταση πριν ξεκινήσετε.",
+          "Ένα λουκέτο είναι σημαντικό για να ασφαλίσετε το ποδήλατο στις στάσεις.",
+          "Ο παράκτιος δρόμος μπορεί να έχει αέρα, να είστε προετοιμασμένοι.",
+          "Σχεδιάστε τη διαδρομή σας εκ των προτέρων, αλλά να είστε ευέλικτοι."
         ]
       },
       "variants": {
@@ -921,7 +989,8 @@
             "de": "Ein regnerischer Start am Platz erfordert gute Ausrüstung. Die Fahrt zum Hafen ist kurz, aber die Sicht auf die Wellen beeindruckend. Mittags bietet der Strandweg trotz Nässe eine weite Perspektive. Im Pefkias-Wald schützen die Bäume vor dem Schlimmsten, während der Boden weich und duftend wird. Der Tag endet mit einer schnellen Fahrt entlang des Sythas-Ufers zurück ins Trockene.",
             "hu": "Az esős indulás a főtéren komoly felszerelést igényel. A kikötői gurulás rövid, de a hullámok látványa lenyűgöző a szürkületben. Délben a parti út a nedvesség ellenére is tágas és látványos. A Pefkiasz-erdőben a fák felfogják a nagyját, miközben az avar illata megtelik párával. A napot a Szithasz-parti gyors tekeréssel zárjuk, mielőtt teljesen eláznánk.",
             "ro": "O plecare ploioasă din piață necesită echipament bun. Drumul spre port este scurt, dar valurile sunt impresionante. La prânz, drumul de pe plajă oferă o perspectivă largă în ciuda umezelii. În pădurea Pefkias, copacii oferă adăpost, iar solul devine moale și parfumat. Ziua se încheie cu o tură rapidă pe malul râului Sythas înapoi spre adăpost.",
-            "en": "A rainy start at the square requires proper gear. The ride to the port is short but the waves look impressive in the mist. At noon, the coastal path remains wide and scenic despite the wet ground. In Pefkias forest, the pines block most of the rain while the air fills with pine scent. The day ends with a quick pedal along the Sythas bank back to safety."
+            "en": "A rainy start at the square requires proper gear. The ride to the port is short but the waves look impressive in the mist. At noon, the coastal path remains wide and scenic despite the wet ground. In Pefkias forest, the pines block most of the rain while the air fills with pine scent. The day ends with a quick pedal along the Sythas bank back to safety.",
+            "el": "Μια βροχερή εκκίνηση στην πλατεία απαιτεί κατάλληλο εξοπλισμό. Η διαδρομή προς το λιμάνι είναι σύντομη αλλά τα κύματα φαίνονται εντυπωσιακά στην ομίχλη. Το μεσημέρι, το παράκτιο μονοπάτι παραμένει φαρδύ και γραφικό παρά το βρεγμένο έδαφος. Στο δάσος Πευκιάς, τα πεύκα μπλοκάρουν το μεγαλύτερο μέρος της βροχής ενώ ο αέρας γεμίζει με άρωμα πεύκου. Η μέρα τελειώνει με γρήγορες πεταλιές κατά μήκος της όχθης του Σύθα πίσω στην ασφάλεια."
           },
           "stops": [
             {
@@ -930,7 +999,8 @@
                 "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt.",
                 "hu": "Indulás előtt ellenőrizd a fékeket.",
                 "ro": "Verificați frânele înainte de plecare.",
-                "en": "Check your brakes before starting."
+                "en": "Check your brakes before starting.",
+                "el": "Ελέγξτε τα φρένα πριν ξεκινήσετε."
               }
             },
             {
@@ -939,7 +1009,8 @@
                 "de": "Vorsicht vor glatten Metallschienen am Kai.",
                 "hu": "Vigyázz a csúszós fémrészekre a mólón.",
                 "ro": "Atenție la șinele de metal alunecoase.",
-                "en": "Beware of slippery metal parts on the pier."
+                "en": "Beware of slippery metal parts on the pier.",
+                "el": "Προσοχή στα ολισθηρά μεταλλικά μέρη στην προβλήτα."
               }
             },
             {
@@ -948,7 +1019,8 @@
                 "de": "Der Asphalt kann bei Regen schmierig sein.",
                 "hu": "Az aszfalt esőben csúszós lehet.",
                 "ro": "Asfaltul poate fi lipicios și alunecos.",
-                "en": "Asphalt can be slippery when wet."
+                "en": "Asphalt can be slippery when wet.",
+                "el": "Η άσφαλτος μπορεί να γλιστράει όταν είναι βρεγμένη."
               }
             },
             {
@@ -957,7 +1029,8 @@
                 "de": "Fahren Sie vorsichtig über nasse Wurzeln.",
                 "hu": "Vigyázz a nedves, csúszós gyökerekre.",
                 "ro": "Atenție la rădăcinile umede pe potecă.",
-                "en": "Watch out for wet tree roots on the path."
+                "en": "Watch out for wet tree roots on the path.",
+                "el": "Προσέξτε τις βρεγμένες ρίζες δέντρων στο μονοπάτι."
               }
             },
             {
@@ -966,7 +1039,8 @@
                 "de": "Schmutzfänger am Rad sind heute Gold wert.",
                 "hu": "A sárvédő ma aranyat ér ezen a szakaszon.",
                 "ro": "Apărătorile de noroi sunt esențiale azi.",
-                "en": "Mudguards are essential on this section today."
+                "en": "Mudguards are essential on this section today.",
+                "el": "Οι ποδηλατικές φτερούγες είναι απαραίτητες σε αυτό το τμήμα σήμερα."
               }
             }
           ],
@@ -998,6 +1072,13 @@
               "Forest paths may have muddy patches.",
               "Lights are mandatory even in daytime grey weather.",
               "Dry off your bike chain after the ride."
+            ],
+            "el": [
+              "Φορέστε φωσφορούχο αδιάβροχο μπουφάν.",
+              "Αποφύγετε το απότομο φρενάρισμα πάνω σε βρεγμένα φύλλα.",
+              "Τα δασικά μονοπάτια μπορεί να έχουν λασπωμένες κηλίδες.",
+              "Τα φώτα είναι υποχρεωτικά ακόμα και στη γκρίζα μέρα.",
+              "Στεγνώστε την αλυσίδα του ποδηλάτου μετά τη βόλτα."
             ]
           }
         },
@@ -1006,7 +1087,8 @@
             "de": "Ein frischer Wintermorgen auf zwei Rädern am Platz startet energetisch. Die Fahrt zum Hafen bietet klare Sicht bis zum Horizont. Mittags wärmt die Sonne auf dem Küstenweg, während der Wind vom Golf von Korinth weht. Der Pefkias-Wald ist eine Oase der Ruhe und bietet Windschutz für Radfahrer. Die Tour endet am Sythas-Ufer, pünktlich bevor die winterliche Kälte nach Sonnenuntergang einsetzt.",
             "hu": "Friss téli reggel a főtéren, két keréken indul a nap. A kikötő felé gurulva a látótávolság ilyenkor a legnagyobb. Délben a parti út napsütéses szakaszai kellemesek, bár a Korintoszi-öböl felől fújhat a szél. A Pefkiasz-erdő a nyugalom szigete, és jó szélvédelmet nyújt a bringásoknak. A túra a Szithasz-parton zárul, épp mielőtt a naplemente utáni hideg megérkezne.",
             "ro": "O dimineață răcoroasă de iarnă pe două roți începe energic în piață. Drumul spre port oferă o vizibilitate clară până la orizont. La prânz, soarele încălzește drumul de coastă, deși vântul dinspre golf poate fi tăios. Pădurea Pefkias este o oază de liniște și oferă protecție împotriva vântului. Turul se încheie la malul râului Sythas înainte de lăsarea frigului de seară.",
-            "en": "A crisp winter morning on two wheels starts energetically at the square. The ride to the port offers crystal-clear views to the horizon. At noon, the coastal path is pleasant in the sun, though the wind from the Gulf of Corinth can be chilly. Pefkias forest is a sanctuary of peace and provides good windbreak for cyclists. The tour ends at the Sythas bank just as the post-sunset chill arrives."
+            "en": "A crisp winter morning on two wheels starts energetically at the square. The ride to the port offers crystal-clear views to the horizon. At noon, the coastal path is pleasant in the sun, though the wind from the Gulf of Corinth can be chilly. Pefkias forest is a sanctuary of peace and provides good windbreak for cyclists. The tour ends at the Sythas bank just as the post-sunset chill arrives.",
+            "el": "Ένα δροσερό χειμωνιάτικο πρωινό στα δύο ρόδα ξεκινά ενεργητικά στην πλατεία. Η διαδρομή προς το λιμάνι προσφέρει κρυστάλλινες απόψεις προς τον ορίζοντα. Το μεσημέρι, το παράκτιο μονοπάτι είναι ευχάριστο στον ήλιο, αν και ο άνεμος από τον Κόλπο της Κορίνθου μπορεί να είναι δροσερός. Το δάσος Πευκιάς είναι ένα καταφύγιο ηρεμίας και παρέχει καλή ζώνη προστασίας από τον άνεμο για τους ποδηλάτες. Η περιήγηση τελειώνει στην όχθη του Σύθα λίγο πριν φτάσει το μετασούρουπο κρύο."
           },
           "stops": [
             {
@@ -1015,7 +1097,8 @@
                 "de": "Handschuhe sind für die Abfahrt wichtig.",
                 "hu": "A kesztyű elengedhetetlen a reggeli guruláshoz.",
                 "ro": "Mănușile sunt esențiale pentru plecare.",
-                "en": "Gloves are essential for the morning start."
+                "en": "Gloves are essential for the morning start.",
+                "el": "Γάντια είναι απαραίτητα για την πρωινή εκκίνηση."
               }
             },
             {
@@ -1024,7 +1107,8 @@
                 "de": "Genießen Sie die klare Sicht auf das Festland.",
                 "hu": "Élvezd a tiszta kilátást a szemközti partra.",
                 "ro": "Admirați vizibilitatea clară spre continent.",
-                "en": "Enjoy the clear view across the gulf."
+                "en": "Enjoy the clear view across the gulf.",
+                "el": "Απολαύστε την καθαρή θέα πέρα από τον κόλπο."
               }
             },
             {
@@ -1033,7 +1117,8 @@
                 "de": "Gegenwind kann auf dem Radweg anstrengend sein.",
                 "hu": "A szembeszél fárasztó lehet a parti úton.",
                 "ro": "Vântul din față poate fi obositor pe plajă.",
-                "en": "Headwinds can be tiring on the coastal path."
+                "en": "Headwinds can be tiring on the coastal path.",
+                "el": "Οι αντίθετοι άνεμοι μπορούν να είναι κουραστικοί στο παράκτιο μονοπάτι."
               }
             },
             {
@@ -1042,7 +1127,8 @@
                 "de": "Die dichten Bäume halten den kalten Wind ab.",
                 "hu": "A sűrű fák jól felfogják a hideg szelet.",
                 "ro": "Copacii deși opresc vântul rece.",
-                "en": "The dense trees block the cold winds well."
+                "en": "The dense trees block the cold winds well.",
+                "el": "Τα πυκνά δέντρα μπλοκάρουν καλά τους ψυχρούς ανέμους."
               }
             },
             {
@@ -1051,7 +1137,8 @@
                 "de": "Beenden Sie die Tour vor Einbruch der Dunkelheit.",
                 "hu": "Sötétedés előtt fejezd be a túrát.",
                 "ro": "Încheiați tura înainte de lăsarea întunericului.",
-                "en": "Finish your ride before darkness falls."
+                "en": "Finish your ride before darkness falls.",
+                "el": "Τελειώστε τη διαδρομή σας πριν σκοτεινιάσει."
               }
             }
           ],
@@ -1083,6 +1170,13 @@
               "Check tire pressure more often in the cold.",
               "Temperatures drop significantly after 4:30 PM.",
               "Stay hydrated even if you don't feel thirsty."
+            ],
+            "el": [
+              "Χρησιμοποιήστε ζεστά γάντια και λαιμοκάφα.",
+              "Ο χαμηλός χειμωνιάτικος ήλιος απαιτεί γυαλιά ηλίου.",
+              "Ελέγχετε πιο συχνά την πίεση ελαστικών στο κρύο.",
+              "Οι θερμοκρασίες πέφτουν σημαντικά μετά τις 16:30.",
+              "Μείνετε ενυδατωμένοι ακόμα κι αν δεν διψάτε."
             ]
           }
         }
@@ -1101,7 +1195,8 @@
             "de": "Parkplatz am Aristonauton-Platz",
             "hu": "Parkoló az Arisztonauton térnél",
             "ro": "Parcare lângă Piața Aristonauton",
-            "en": "Parking near Aristonauton Square"
+            "en": "Parking near Aristonauton Square",
+            "el": "Στάθμευση κοντά στην Πλατεία Αριστοναυτών"
           },
           "coords": [
             22.6338,
@@ -1117,7 +1212,8 @@
             "de": "Parken Sie hier, um das Stadtzentrum zu Fuß zu erkunden.",
             "hu": "Parkoljon itt, hogy gyalog fedezze fel a városközpontot.",
             "ro": "Parcați aici pentru a explora centrul orașului pe jos.",
-            "en": "Park here to explore the city center on foot."
+            "en": "Park here to explore the city center on foot.",
+            "el": "Σταθμεύστε εδώ για να εξερευνήσετε το κέντρο της πόλης πεζοί."
           }
         },
         {
@@ -1125,7 +1221,8 @@
             "de": "Aristonauton-Platz & Umgebung",
             "hu": "Arisztonauton tér és környéke",
             "ro": "Piața Aristonauton și împrejurimile",
-            "en": "Aristonauton Square & Surroundings"
+            "en": "Aristonauton Square & Surroundings",
+            "el": "Πλατεία Αριστοναυτών και Περιοχή"
           },
           "coords": [
             22.6333,
@@ -1141,7 +1238,8 @@
             "de": "Nehmen Sie sich Zeit, die Atmosphäre des Hauptplatzes aufzusaugen.",
             "hu": "Szánjon időt a főtér hangulatának magába szívására.",
             "ro": "Luați-vă timp pentru a absorbi atmosfera pieței principale.",
-            "en": "Take your time to soak in the atmosphere of the main square."
+            "en": "Take your time to soak in the atmosphere of the main square.",
+            "el": "Πάρτε το χρόνο σας να απολαύσετε την ατμόσφαιρα της κεντρικής πλατείας."
           }
         },
         {
@@ -1149,7 +1247,8 @@
             "de": "Kirche Agios Vlasios",
             "hu": "Agios Vlasios templom",
             "ro": "Biserica Agios Vlasios",
-            "en": "Church of Agios Vlasios"
+            "en": "Church of Agios Vlasios",
+            "el": "Εκκλησία Αγίου Βλασίου"
           },
           "coords": [
             22.6325,
@@ -1165,7 +1264,8 @@
             "de": "Ein kurzer Spaziergang vom Platz entfernt, ein Muss für Geschichtsinteressierte.",
             "hu": "Rövid sétára a tértől, a történelem iránt érdeklődőknek kötelező.",
             "ro": "La o scurtă plimbare de piață, o vizită obligatorie pentru pasionații de istorie.",
-            "en": "A short walk from the square, a must-see for history buffs."
+            "en": "A short walk from the square, a must-see for history buffs.",
+            "el": "Μικρή απόσταση με τα πόδια από την πλατεία, απαραίτητο για τους λάτρεις της ιστορίας."
           }
         },
         {
@@ -1173,7 +1273,8 @@
             "de": "Parkplatz am Pefkias-Wald",
             "hu": "Parkoló a Pefkias-erdőnél",
             "ro": "Parcare lângă Pădurea Pefkias",
-            "en": "Parking at Pefkias Forest"
+            "en": "Parking at Pefkias Forest",
+            "el": "Στάθμευση στο Δάσος Πευκιάς"
           },
           "coords": [
             22.6245,
@@ -1189,7 +1290,8 @@
             "de": "Der zweite Hauptstopp. Von hier aus erkunden Sie die Küste.",
             "hu": "A második fő megálló. Innen fedezze fel a tengerpartot.",
             "ro": "A doua oprire principală. De aici, explorați coasta.",
-            "en": "The second main stop. From here, you'll explore the coast."
+            "en": "The second main stop. From here, you'll explore the coast.",
+            "el": "Η δεύτερη κύρια στάση. Από εδώ θα εξερευνήσετε την ακτή."
           }
         },
         {
@@ -1197,7 +1299,8 @@
             "de": "Pefkias-Kiefernwald",
             "hu": "Pefkias fenyőerdő",
             "ro": "Pădurea de pini Pefkias",
-            "en": "Pefkias Pine Forest"
+            "en": "Pefkias Pine Forest",
+            "el": "Δάσος Πεύκων Πευκιάς"
           },
           "coords": [
             22.625,
@@ -1213,7 +1316,8 @@
             "de": "Machen Sie einen langen Spaziergang und genießen Sie die Natur, bevor Sie zu Mittag essen.",
             "hu": "Tegyen egy hosszú sétát, és élvezze a természetet ebéd előtt.",
             "ro": "Faceți o plimbare lungă și bucurați-vă de natură înainte de prânz.",
-            "en": "Take a long walk and enjoy nature before having lunch."
+            "en": "Take a long walk and enjoy nature before having lunch.",
+            "el": "Κάντε μια μεγάλη βόλτα και απολαύστε τη φύση πριν από το γεύμα."
           }
         },
         {
@@ -1221,7 +1325,8 @@
             "de": "Strand von Xylokastro & Hafen",
             "hu": "Xylokastro strandja és kikötője",
             "ro": "Plaja și portul din Xylokastro",
-            "en": "Xylokastro Beach & Port"
+            "en": "Xylokastro Beach & Port",
+            "el": "Παραλία και Λιμάνι Ξυλοκάστρου"
           },
           "coords": [
             22.632,
@@ -1237,7 +1342,8 @@
             "de": "Der Rest des Nachmittags gehört dem Meer. Entspannen, schwimmen und genießen.",
             "hu": "A délután hátralévő része a tengeré. Pihenjen, ússzon és élvezze!",
             "ro": "Restul după-amiezii este pentru mare. Relaxați-vă, înotați și bucurați-vă.",
-            "en": "The rest of the afternoon is for the sea. Relax, swim, and enjoy."
+            "en": "The rest of the afternoon is for the sea. Relax, swim, and enjoy.",
+            "el": "Το υπόλοιπο απόγευμα είναι για τη θάλασσα. Χαλαρώστε, κολυμπήστε και απολαύστε."
           }
         }
       ],
@@ -1245,7 +1351,8 @@
         "de": "Parken Sie Ihr Auto im Zentrum und erkunden Sie den Aristonauton-Platz und die Agios-Vlasios-Kirche zu Fuß. Am Vormittag fahren Sie zum Pefkias-Wald. Parken Sie dort erneut und verbringen Sie den Rest des Tages damit, den Wald, den angrenzenden Strand und den Hafen zu Fuß zu erkunden, mit viel Zeit für ein langes Mittagessen und Schwimmen.",
         "hu": "Parkolja le autóját a központban, és fedezze fel gyalog az Arisztonauton teret és az Agios Vlasios templomot. Délelőtt vezessen el a Pefkias-erdőhöz. Parkoljon le újra, és töltse a nap hátralévő részét az erdő, a szomszédos strand és a kikötő gyalogos felfedezésével, bőséges időt hagyva egy hosszú ebédre és úszásra.",
         "ro": "Parcați mașina în centru și explorați pe jos Piața Aristonauton și Biserica Agios Vlasios. Dimineața târziu, conduceți spre Pădurea Pefkias. Parcați din nou și petreceți restul zilei explorând pe jos pădurea, plaja adiacentă și portul, cu mult timp pentru un prânz lung și înot.",
-        "en": "Park your car in the center and explore Aristonauton Square and Agios Vlasios Church on foot. In the late morning, drive to the Pefkias Forest. Park again and spend the rest of the day exploring the forest, the adjacent beach, and the port on foot, with plenty of time for a long lunch and swimming."
+        "en": "Park your car in the center and explore Aristonauton Square and Agios Vlasios Church on foot. In the late morning, drive to the Pefkias Forest. Park again and spend the rest of the day exploring the forest, the adjacent beach, and the port on foot, with plenty of time for a long lunch and swimming.",
+        "el": "Σταθμεύστε το αυτοκίνητο στο κέντρο και εξερευνήστε την Πλατεία Αριστοναυτών και την εκκλησία του Αγίου Βλασίου πεζοί. Αργά το πρωί οδηγήστε προς το Δάσος Πευκιάς. Σταθμεύστε ξανά και περάστε την υπόλοιπη μέρα εξερευνώντας το δάσος, την παρακείμενη παραλία και το λιμάνι με τα πόδια, με άφθονο χρόνο για μεγάλο γεύμα και κολύμπι."
       },
       "gastro_picks": {
         "de": [
@@ -1441,6 +1548,12 @@
           "A smaller car is easier to maneuver in the narrow streets.",
           "Don't leave valuables in the car.",
           "Plan for buffer time to find parking, especially in summer."
+        ],
+        "el": [
+          "Ελέγξτε τους κανονισμούς στάθμευσης για να αποφύγετε πρόστιμα.",
+          "Ένα μικρότερο αυτοκίνητο είναι πιο εύκολο να ελιχθεί στους στενούς δρόμους.",
+          "Μην αφήνετε τιμαλφή μέσα στο αυτοκίνητο.",
+          "Σχεδιάστε επιπλέον χρόνο για να βρείτε στάθμευση, ειδικά το καλοκαίρι."
         ]
       },
       "variants": {
@@ -1449,7 +1562,8 @@
             "de": "Bequemes Parken am Platz ermöglicht einen trockenen Start. Der Besuch der Kirche ist bei Regen besonders besinnlich. Mittags führt die Fahrt zum Pefkias-Wald, wo man direkt am Waldrand parken kann. Trotz Regen lässt sich die Natur bei kurzen Spaziergängen genießen. Den Nachmittag verbringt man entspannt am Hafen und Strand, wobei das Auto immer als warmer Rückzugsort dient.",
             "hu": "A kényelmes parkolás a főtérnél száraz indulást biztosít. A templomlátogatás esőben különösen meghitt élmény. Délben a Pefkiasz-erdőhöz hajtunk, ahol közvetlenül az erdő szélén lehet parkolni. Az eső ellenére a természet rövid sétákkal is élvezhető. A délutánt a kikötőben és a parton töltjük, ahol az autó bármikor meleg menedékként szolgál.",
             "ro": "Parcarea comodă lângă piață asigură un început uscat. Vizita la biserică este deosebit de liniștită pe ploaie. La prânz, drumul duce spre pădurea Pefkias, unde puteți parca chiar la margine. În ciuda ploii, natura poate fi savurată cu plimbări scurte. După-amiaza se petrece relaxat în port, mașina fiind mereu un refugiu cald.",
-            "en": "Convenient parking near the square ensures a dry start. The church visit is especially peaceful during rain. At noon, drive to Pefkias forest and park right at the edge. Despite the rain, nature can be enjoyed with short walks. Spend the afternoon at the port and beach, with the car always available as a warm retreat."
+            "en": "Convenient parking near the square ensures a dry start. The church visit is especially peaceful during rain. At noon, drive to Pefkias forest and park right at the edge. Despite the rain, nature can be enjoyed with short walks. Spend the afternoon at the port and beach, with the car always available as a warm retreat.",
+            "el": "Η βολική στάθμευση κοντά στην πλατεία εξασφαλίζει μια στεγνή αρχή. Η επίσκεψη στην εκκλησία είναι ιδιαίτερα ήρεμη στη βροχή. Το μεσημέρι, οδηγήστε προς το δάσος Πευκιά και παρκάρετε ακριβώς στην άκρη. Παρά τη βροχή, η φύση μπορεί να απολαυστεί με σύντομες βόλτες. Περάστε το απόγευμα στο λιμάνι και στην παραλία, με το αυτοκίνητο πάντα διαθέσιμο ως ζεστό καταφύγιο."
           },
           "stops": [
             {
@@ -1458,7 +1572,8 @@
                 "de": "Zentraler Parkplatz, oft schnell belegt.",
                 "hu": "Központi parkoló, esőben hamar megtelik.",
                 "ro": "Parcare centrală, se ocupă rapid pe ploaie.",
-                "en": "Central parking, fills up fast in the rain."
+                "en": "Central parking, fills up fast in the rain.",
+                "el": "Κεντρική στάθμευση, γεμίζει γρήγορα στη βροχή."
               }
             },
             {
@@ -1467,7 +1582,8 @@
                 "de": "Viele Geschäfte unter Arkaden erreichbar.",
                 "hu": "Sok üzlet árkádok alatt is megközelíthető.",
                 "ro": "Multe magazine accesibile pe sub arcade.",
-                "en": "Many shops accessible under covered walkways."
+                "en": "Many shops accessible under covered walkways.",
+                "el": "Πολλά καταστήματα προσιτά υπό καλυμμένους πεζόδρομους."
               }
             },
             {
@@ -1476,7 +1592,8 @@
                 "de": "Parken Sie direkt gegenüber vom Eingang.",
                 "hu": "Parkolj közvetlenül a bejárattal szemben.",
                 "ro": "Parcați chiar vizavi de intrare.",
-                "en": "Park directly across from the entrance."
+                "en": "Park directly across from the entrance.",
+                "el": "Παρκάρετε ακριβώς απέναντι από την είσοδο."
               }
             },
             {
@@ -1485,7 +1602,8 @@
                 "de": "Der Untergrund kann heute matschig sein.",
                 "hu": "A talaj ma sáros és puha lehet.",
                 "ro": "Solul poate fi noroios și moale azi.",
-                "en": "The ground might be muddy today."
+                "en": "The ground might be muddy today.",
+                "el": "Το έδαφος μπορεί να είναι λασπώδες σήμερα."
               }
             },
             {
@@ -1494,7 +1612,8 @@
                 "de": "Kurze Wege zwischen Auto und Wald nutzen.",
                 "hu": "Használd ki az autó és az erdő közelségét.",
                 "ro": "Folosiți distanța scurtă dintre mașină și pădure.",
-                "en": "Benefit from the short distance to the trees."
+                "en": "Benefit from the short distance to the trees.",
+                "el": "Επωφεληθείτε από τη μικρή απόσταση μέχρι τα δέντρα."
               }
             },
             {
@@ -1503,7 +1622,8 @@
                 "de": "Parken Sie am Kai für direkten Meerblick.",
                 "hu": "Parkolj a mólónál a közvetlen tengeri kilátáshoz.",
                 "ro": "Parcați la dig pentru vedere directă la mare.",
-                "en": "Park by the pier for a direct sea view."
+                "en": "Park by the pier for a direct sea view.",
+                "el": "Σταθμεύστε δίπλα στην προβλήτα για απευθείας θέα στη θάλασσα."
               }
             }
           ],
@@ -1535,6 +1655,13 @@
               "Avoid unpaved parking areas near the forest.",
               "Use seat heating after your forest walk.",
               "Windows fog up quickly – use the AC to clear them."
+            ],
+            "el": [
+              "Ελέγξτε τα υαλοκαθαριστήρια πριν το ταξίδι.",
+              "Οι θέσεις στάθμευσης μπροστά στην παραλία είναι συχνά άδειες όταν βρέχει.",
+              "Αποφύγετε μη ασφαλτοστρωμένες περιοχές στάθμευσης κοντά στο δάσος.",
+              "Χρησιμοποιήστε τη θέρμανση στα καθίσματα μετά την πεζοπορία στο δάσος.",
+              "Τα παράθυρα θολώνουν γρήγορα – χρησιμοποιήστε το κλιματιστικό για να τα ξεθολώσετε."
             ]
           }
         },
@@ -1543,7 +1670,8 @@
             "de": "Ein entspannter Wintermorgen beginnt mit der Parkplatzsuche am belebten Platz. Die Fahrt zur Agios-Vlasios-Kirche bietet Zeit, das winterliche Stadtbild zu betrachten. Mittags ist das Parken am Waldrand unkompliziert und der Spaziergang im Pefkias-Wald erfrischend. Der Nachmittag am Hafen und Strand besticht durch klare Luft und wenig Verkehr. Der Tag endet gemütlich im warmen Auto mit Blick auf den Sonnenuntergang über dem Golf.",
             "hu": "Nyugodt téli reggel a parkolóhely keresésével indul a nyüzsgő főtéren. Útban az Ágiosz Vlasziosz-templom felé van idő megcsodálni a város téli arcát. Délben az erdő szélén a parkolás egyszerű, a Pefkiasz-erdőben tett séta pedig felfrissít. A délután a kikötőben és a parton a tiszta levegő és a gyér forgalom miatt élvezetes. A nap a meleg autóban zárul, nézve az öböl feletti naplementét.",
             "ro": "O dimineață de iarnă relaxată începe cu găsirea unui loc de parcare în piață. Drumul spre biserică oferă timp pentru a observa orașul iarna. La prânz, parcarea la marginea pădurii este facilă, iar plimbarea în Pefkias este revigorantă. După-amiaza în port și pe plajă este marcată de aer curat și trafic redus. Ziua se încheie confortabil în mașină, privind apusul peste golf.",
-            "en": "A relaxed winter morning starts with finding a parking spot near the busy square. The drive to the church allows time to observe the town's winter atmosphere. At noon, parking by the forest is easy, and the walk in Pefkias is refreshing. The afternoon at the port and beach is marked by crisp air and light traffic. The day ends comfortably in the car, watching the sunset over the gulf."
+            "en": "A relaxed winter morning starts with finding a parking spot near the busy square. The drive to the church allows time to observe the town's winter atmosphere. At noon, parking by the forest is easy, and the walk in Pefkias is refreshing. The afternoon at the port and beach is marked by crisp air and light traffic. The day ends comfortably in the car, watching the sunset over the gulf.",
+            "el": "Ένα χαλαρό χειμωνιάτικο πρωί ξεκινά με το να βρείτε θέση στάθμευσης κοντά στην πολυσύχναστη πλατεία. Η διαδρομή προς την εκκλησία δίνει χρόνο να παρατηρήσετε τη χειμωνιάτικη ατμόσφαιρα της πόλης. Το μεσημέρι, η στάθμευση δίπλα στο δάσος είναι εύκολη και η βόλτα στο Πευκιά αναζωογονητική. Το απόγευμα στο λιμάνι και στην παραλία χαρακτηρίζεται από δροσερό αέρα και ελαφρύ κυκλοφοριακό φόρτο. Η μέρα τελειώνει άνετα στο αυτοκίνητο, παρακολουθώντας το ηλιοβασίλεμα πάνω από τον κόλπο."
           },
           "stops": [
             {
@@ -1552,7 +1680,8 @@
                 "de": "Morgens ist es hier oft schattig und kühl.",
                 "hu": "Reggelente itt gyakran árnyékos és hűvös van.",
                 "ro": "Dimineața este adesea umbră și răcoare aici.",
-                "en": "It's often shady and cool here in the morning."
+                "en": "It's often shady and cool here in the morning.",
+                "el": "Εδώ συχνά υπάρχει σκιά και δροσιά το πρωί."
               }
             },
             {
@@ -1561,7 +1690,8 @@
                 "de": "Suchen Sie Cafés mit sonnigen Außenplätzen.",
                 "hu": "Keress napos terasszal rendelkező kávézókat.",
                 "ro": "Căutați cafenele cu terase însorite.",
-                "en": "Look for cafes with sunny outdoor seating."
+                "en": "Look for cafes with sunny outdoor seating.",
+                "el": "Ψάξτε για καφέ με ηλιόλουστη υπαίθρια καθιστικά."
               }
             },
             {
@@ -1570,7 +1700,8 @@
                 "de": "Innen ist es oft wärmer als draußen.",
                 "hu": "Odabent gyakran melegebb van, mint kint.",
                 "ro": "În interior este adesea mai cald decât afară.",
-                "en": "It is often warmer inside than outside."
+                "en": "It is often warmer inside than outside.",
+                "el": "Συνήθως είναι πιο ζεστά μέσα παρά έξω."
               }
             },
             {
@@ -1579,7 +1710,8 @@
                 "de": "Guter Startpunkt für den Rundweg.",
                 "hu": "Kiváló kiindulópont az erdei körúthoz.",
                 "ro": "Punct excelent de plecare pentru traseu.",
-                "en": "Excellent starting point for the loop trail."
+                "en": "Excellent starting point for the loop trail.",
+                "el": "Εξαιρετικό σημείο εκκίνησης για το κυκλικό μονοπάτι."
               }
             },
             {
@@ -1588,7 +1720,8 @@
                 "de": "Die Sonne bricht schön durch die Nadeln.",
                 "hu": "A napfény szépen átszűrődik a fenyőtűkön.",
                 "ro": "Soarele pătrunde frumos printre acele de pin.",
-                "en": "The sunlight filters beautifully through the pines."
+                "en": "The sunlight filters beautifully through the pines.",
+                "el": "Το ηλιακό φως διεισδύει όμορφα μέσα από τα πεύκα."
               }
             },
             {
@@ -1597,7 +1730,8 @@
                 "de": "Perfekt für den Sonnenuntergang im Auto.",
                 "hu": "Tökéletes hely a naplemente nézéséhez az autóból.",
                 "ro": "Perfect pentru a privi apusul din mașină.",
-                "en": "Perfect spot to watch the sunset from the car."
+                "en": "Perfect spot to watch the sunset from the car.",
+                "el": "Τέλειο σημείο για να παρακολουθήσετε το ηλιοβασίλεμα από το αυτοκίνητο."
               }
             }
           ],
@@ -1629,6 +1763,13 @@
               "Do not leave valuables visible inside the car.",
               "Avoid driving directly on the pier during strong east winds.",
               "Plan your return trip before it gets dark early."
+            ],
+            "el": [
+              "Επωφεληθείτε από το χειμωνιάτικο φως για φωτογραφίες στο λιμάνι.",
+              "Η στάθμευση είναι πολύ πιο εύκολη σε σχέση με την καλοκαιρινή περίοδο.",
+              "Μην αφήνετε ορατά τιμαλφή μέσα στο αυτοκίνητο.",
+              "Αποφύγετε την οδήγηση πάνω στην προβλήτα κατά ισχυρούς ανατολικούς ανέμους.",
+              "Σχεδιάστε την επιστροφή σας πριν νυχτώσει νωρίς."
             ]
           }
         }
@@ -1647,7 +1788,8 @@
             "de": "Aristonauton-Platz",
             "hu": "Arisztonauton tér",
             "ro": "Piața Aristonauton",
-            "en": "Aristonauton Square"
+            "en": "Aristonauton Square",
+            "el": "Πλατεία Αριστοναυτών"
           },
           "coords": [
             22.6333,
@@ -1663,7 +1805,8 @@
             "de": "Der zentrale Busknotenpunkt der Stadt. Beginnen Sie hier Ihr Abenteuer.",
             "hu": "A város központi buszcsomópontja. Itt kezdje a kalandot.",
             "ro": "Nodul central de autobuz al orașului. Începeți-vă aventura de aici.",
-            "en": "The city's central bus hub. Start your adventure here."
+            "en": "The city's central bus hub. Start your adventure here.",
+            "el": "Κεντρικός κόμβος λεωφορείων της πόλης. Ξεκινήστε την περιπέτειά σας εδώ."
           }
         },
         {
@@ -1671,7 +1814,8 @@
             "de": "Kirche Agios Vlasios",
             "hu": "Agios Vlasios templom",
             "ro": "Biserica Agios Vlasios",
-            "en": "Church of Agios Vlasios"
+            "en": "Church of Agios Vlasios",
+            "el": "Εκκλησία Αγίου Βλασίου"
           },
           "coords": [
             22.6325,
@@ -1687,7 +1831,8 @@
             "de": "Leicht zu Fuß vom Hauptplatz aus zu erreichen.",
             "hu": "Könnyen megközelíthető gyalog a főtérről.",
             "ro": "Ușor de ajuns pe jos din piața principală.",
-            "en": "Easily reachable on foot from the main square."
+            "en": "Easily reachable on foot from the main square.",
+            "el": "Εύκολα προσβάσιμη με τα πόδια από την κεντρική πλατεία."
           }
         },
         {
@@ -1695,7 +1840,8 @@
             "de": "Bushaltestelle am Strand",
             "hu": "Buszmegálló a strandnál",
             "ro": "Stație de autobuz la plajă",
-            "en": "Bus Stop at the Beach"
+            "en": "Bus Stop at the Beach",
+            "el": "Στάση λεωφορείου στην παραλία"
           },
           "coords": [
             22.6295,
@@ -1711,7 +1857,8 @@
             "de": "Steigen Sie hier aus, um den Küstenabschnitt des Tages zu beginnen.",
             "hu": "Szálljon le itt a nap tengerparti szakaszának megkezdéséhez.",
             "ro": "Coborâți aici pentru a începe porțiunea de coastă a zilei.",
-            "en": "Get off here to start the coastal part of your day."
+            "en": "Get off here to start the coastal part of your day.",
+            "el": "Κατεβείτε εδώ για να ξεκινήσει το παράκτιο μέρος της ημέρας σας."
           }
         },
         {
@@ -1719,7 +1866,8 @@
             "de": "Strand von Xylokastro",
             "hu": "Xylokastro strandja",
             "ro": "Plaja din Xylokastro",
-            "en": "Xylokastro Beach"
+            "en": "Xylokastro Beach",
+            "el": "Παραλία Ξυλοκάστρου"
           },
           "coords": [
             22.63,
@@ -1735,7 +1883,8 @@
             "de": "Verbringen Sie hier den Großteil des Nachmittags.",
             "hu": "Töltse itt a délután nagy részét.",
             "ro": "Petreceți cea mai mare parte a după-amiezii aici.",
-            "en": "Spend the bulk of your afternoon here."
+            "en": "Spend the bulk of your afternoon here.",
+            "el": "Περάστε το μεγαλύτερο μέρος του απογεύματός σας εδώ."
           }
         },
         {
@@ -1743,7 +1892,8 @@
             "de": "Pefkias-Kiefernwald & Hafen",
             "hu": "Pefkias fenyőerdő és kikötő",
             "ro": "Pădurea de pini Pefkias și portul",
-            "en": "Pefkias Pine Forest & Port"
+            "en": "Pefkias Pine Forest & Port",
+            "el": "Δάσος Πεύκων Πευκιάς και Λιμάνι"
           },
           "coords": [
             22.628,
@@ -1759,7 +1909,8 @@
             "de": "Ein schöner Spaziergang vom Strand zum Wald und dann zum Hafen, um den Tag ausklingen zu lassen.",
             "hu": "Egy kellemes séta a strandtól az erdőig, majd a kikötőig a nap lezárásaként.",
             "ro": "O plimbare plăcută de la plajă la pădure și apoi la port pentru a încheia ziua.",
-            "en": "A lovely walk from the beach to the forest and then the port to round off the day."
+            "en": "A lovely walk from the beach to the forest and then the port to round off the day.",
+            "el": "Μια όμορφη βόλτα από την παραλία προς το δάσος και μετά το λιμάνι για να ολοκληρώσετε την ημέρα."
           }
         }
       ],
@@ -1767,7 +1918,8 @@
         "de": "Beginnen Sie am Aristonauton-Platz und erkunden Sie die nahe gelegene Kirche zu Fuß. Nehmen Sie dann einen Bus zum Strandbereich. Verbringen Sie einen entspannten Nachmittag am Meer und machen Sie dann einen ausgedehnten Spaziergang durch den Pefkias-Wald und entlang des Hafens, bevor Sie einen Bus zurück ins Zentrum nehmen.",
         "hu": "Kezdje az Arisztonauton téren, és fedezze fel a közeli templomot gyalog. Ezután vegyen egy buszt a strand területére. Töltsön egy pihentető délutánt a tengernél, majd tegyen egy hosszú sétát a Pefkias-erdőn keresztül és a kikötő mentén, mielőtt busszal visszatérne a központba.",
         "ro": "Începeți din Piața Aristonauton și explorați biserica din apropiere pe jos. Apoi, luați un autobuz spre zona de plajă. Petreceți o după-amiază relaxantă la mare, apoi faceți o plimbare extinsă prin Pădurea Pefkias și de-a lungul portului înainte de a lua un autobuz înapoi în centru.",
-        "en": "Start at Aristonauton Square and explore the nearby church on foot. Then, take a bus to the beach area. Spend a relaxing afternoon by the sea, then take an extended walk through the Pefkias Forest and along the port before catching a bus back to the center."
+        "en": "Start at Aristonauton Square and explore the nearby church on foot. Then, take a bus to the beach area. Spend a relaxing afternoon by the sea, then take an extended walk through the Pefkias Forest and along the port before catching a bus back to the center.",
+        "el": "Ξεκινήστε από την Πλατεία Αριστοναυτών και εξερευνήστε την κοντινή εκκλησία πεζοί. Στη συνέχεια, πάρτε λεωφορείο προς την παραλιακή περιοχή. Περάστε ένα χαλαρωτικό απόγευμα δίπλα στη θάλασσα, μετά κάντε μια εκτεταμένη βόλτα μέσα στο Δάσος Πευκιά και κατά μήκος του λιμανιού πριν πάρετε λεωφορείο πίσω στο κέντρο."
       },
       "gastro_picks": {
         "de": [
@@ -1963,6 +2115,12 @@
           "Check the bus schedule in advance, especially for the last ride back.",
           "Have the exact fare ready or use a contactless payment method.",
           "Buses can be crowded in the summer, be patient."
+        ],
+        "el": [
+          "Αγοράστε ημερήσιο εισιτήριο λεωφορείου για να εξοικονομήσετε χρήματα.",
+          "Ελέγξτε το πρόγραμμα των λεωφορείων εκ των προτέρων, ειδικά για την τελευταία διαδρομή επιστροφής.",
+          "Έχετε έτοιμο το ακριβές αντίτιμο ή χρησιμοποιήστε ανέπαφη πληρωμή.",
+          "Τα λεωφορεία μπορεί να είναι γεμάτα το καλοκαίρι, να έχετε υπομονή."
         ]
       },
       "variants": {
@@ -1971,7 +2129,8 @@
             "de": "Der Bus bringt Sie bequem zum Aristonauton-Platz, mitten ins Geschehen. Nach dem Kirchenbesuch bietet die Bushaltestelle am Strand Schutz vor dem Regen. Mittags am Strand lässt sich die See aus dem Fenster eines Cafés beobachten. Der Nachmittag im Pefkias-Wald ist trotz Nässe ein Naturerlebnis, bevor der Bus Sie sicher zurückbringt. Die Taktung der Busse ermöglicht flexible Pausen im Trockenen.",
             "hu": "A busz kényelmesen az Arisztonauton térre visz, a történések központjába. A templomlátogatás után a parti buszmegálló fedett menedéket nyújt. Délben a tenger látványát egy parti kávézó ablakából élvezhetjük. A délután a Pefkiasz-erdőben az eső ellenére is szép élmény, mielőtt a busz biztonságban hazaszállítana. A járatok sűrűsége lehetővé teszi a száraz szünetek rugalmas beosztását.",
             "ro": "Autobuzul vă aduce confortabil în Piața Aristonauton, în centrul acțiunii. După biserică, stația de pe plajă oferă adăpost împotriva ploii. La prânz, marea poate fi admirată de la fereastra unei cafenele. După-amiaza în pădurea Pefkias este o experiență plăcută în ciuda ploii, înainte ca autobuzul să vă preia. Frecvența curselor permite pauze flexibile la adăpost.",
-            "en": "The bus takes you comfortably to Aristonauton Square, the heart of the town. After the church, the beach bus stop provides a covered shelter. At noon, enjoy the sea views from the safety of a beachfront cafe window. The afternoon in Pefkias forest is a great nature experience despite the wet, followed by a safe bus ride back. Bus frequency allows for flexible indoor breaks."
+            "en": "The bus takes you comfortably to Aristonauton Square, the heart of the town. After the church, the beach bus stop provides a covered shelter. At noon, enjoy the sea views from the safety of a beachfront cafe window. The afternoon in Pefkias forest is a great nature experience despite the wet, followed by a safe bus ride back. Bus frequency allows for flexible indoor breaks.",
+            "el": "Το λεωφορείο σας μεταφέρει άνετα στην Πλατεία Αριστοναυτών, την καρδιά της πόλης. Μετά την εκκλησία, η στάση για την παραλία διαθέτει καλυμμένο στέγαστρο. Το μεσημέρι, απολαύστε τη θέα της θάλασσας από το παράθυρο ενός παραθαλάσσιου καφέ. Το απόγευμα στο δάσος Πευκιά είναι μια υπέροχη εμπειρία φύσης παρά την υγρασία, ακολουθούμενη από ασφαλή επιστροφή με λεωφορείο. Η συχνότητα των λεωφορείων επιτρέπει ευέλικτα διαλείμματα σε εσωτερικούς χώρους."
           },
           "stops": [
             {
@@ -1980,7 +2139,8 @@
                 "de": "Zentraler Umstiegspunkt für alle Linien.",
                 "hu": "Központi átszállási pont minden járatnak.",
                 "ro": "Punct central de transfer pentru toate liniile.",
-                "en": "Central transfer point for all bus lines."
+                "en": "Central transfer point for all bus lines.",
+                "el": "Κεντρικό σημείο μετακινήσεων για όλες τις γραμμές λεωφορείων."
               }
             },
             {
@@ -1989,7 +2149,8 @@
                 "de": "Nur 5 Minuten Fußweg von der Haltestelle.",
                 "hu": "Csak 5 perc séta a legközelebbi megállótól.",
                 "ro": "Doar 5 minute de mers de la stație.",
-                "en": "Only a 5-minute walk from the stop."
+                "en": "Only a 5-minute walk from the stop.",
+                "el": "Μόνο 5 λεπτά με τα πόδια από τη στάση."
               }
             },
             {
@@ -1998,7 +2159,8 @@
                 "de": "Überdachte Haltestelle vorhanden.",
                 "hu": "Fedett buszmegálló áll rendelkezésre.",
                 "ro": "Stație de autobuz acoperită disponibilă.",
-                "en": "Covered bus stop available here."
+                "en": "Covered bus stop available here.",
+                "el": "Διαθέσιμη καλυμμένη στάση λεωφορείου εδώ."
               }
             },
             {
@@ -2007,7 +2169,8 @@
                 "de": "Cafés direkt hinter der Haltestelle.",
                 "hu": "Kávézók közvetlenül a megálló mögött.",
                 "ro": "Cafenele chiar în spatele stației.",
-                "en": "Cafes located right behind the stop."
+                "en": "Cafes located right behind the stop.",
+                "el": "Καφέ βρίσκονται ακριβώς πίσω από τη στάση."
               }
             },
             {
@@ -2016,7 +2179,8 @@
                 "de": "Prüfen Sie die Abfahrtzeit für den Rückweg.",
                 "hu": "Ellenőrizd a visszautat indulás előtt.",
                 "ro": "Verificați ora de plecare pentru retur.",
-                "en": "Check the departure time for your return."
+                "en": "Check the departure time for your return.",
+                "el": "Ελέγξτε την ώρα αναχώρησης για την επιστροφή σας."
               }
             }
           ],
@@ -2048,6 +2212,13 @@
               "Use the 'KTEL Korinthias' app for schedules.",
               "Be careful with slippery bus steps in wet weather.",
               "Beachfront stops offer limited wind protection."
+            ],
+            "el": [
+              "Έχετε μικρά ρέστα έτοιμα για το εισιτήριο του λεωφορείου.",
+              "Τα λεωφορεία είναι συχνά πιο συνεπή από τα αυτοκίνητα στη βροχή.",
+              "Χρησιμοποιήστε την εφαρμογή 'KTEL Korinthias' για τα δρομολόγια.",
+              "Προσοχή στα ολισθηρά σκαλιά του λεωφορείου σε υγρό καιρό.",
+              "Οι παραλιακές στάσεις προσφέρουν περιορισμένη προστασία από τον άνεμο."
             ]
           }
         },
@@ -2056,7 +2227,8 @@
             "de": "Ein klarer Wintermorgen beginnt mit der Ankunft am Aristonauton-Platz per Transit. Der Weg zur Kirche führt durch die ruhigen Wintergassen. Mittags ist die Haltestelle am Strand ein sonniger Wartepunkt. Im Pefkias-Wald lässt sich die winterliche Stille voll auskosten, während man auf den Rückbus wartet. Die warmen Busse bieten eine willkommene Aufwärmpause zwischen den Stationen in der Natur.",
             "hu": "Tiszta téli reggel, érkezés az Arisztonauton térre busszal. Az út a templomhoz a csendes téli utcákon át vezet. Délben a parti buszmegálló kellemes, napos várakozóhely. A Pefkiasz-erdőben teljesen kiélvezhető a téli nyugalom, miközben a visszautat várjuk. A fűtött buszok remek alkalmat adnak a felmelegedésre a természetjárás közben.",
             "ro": "O dimineață senină de iarnă începe cu sosirea în Piața Aristonauton. Drumul spre biserică trece prin străzile liniștite. La prânz, stația de pe plajă este un loc însorit de așteptare. În pădurea Pefkias vă puteți bucura de liniștea iernii în timp ce așteptați autobuzul. Autobuzele încălzite oferă o pauză binemeritată între obiective.",
-            "en": "A clear winter morning begins with arrival at Aristonauton Square by bus. The walk to the church leads through quiet winter streets. At noon, the beach bus stop is a pleasant, sunny waiting spot. In Pefkias forest, enjoy the total winter silence while waiting for the return bus. Heated buses provide a welcome warm-up break between outdoor stops."
+            "en": "A clear winter morning begins with arrival at Aristonauton Square by bus. The walk to the church leads through quiet winter streets. At noon, the beach bus stop is a pleasant, sunny waiting spot. In Pefkias forest, enjoy the total winter silence while waiting for the return bus. Heated buses provide a welcome warm-up break between outdoor stops.",
+            "el": "Ένα καθαρό χειμωνιάτικο πρωί ξεκινά με άφιξη στην Πλατεία Αριστοναυτών με λεωφορείο. Η βόλτα προς την εκκλησία διασχίζει ήσυχους χειμωνιάτικους δρόμους. Το μεσημέρι, η στάση στην παραλία είναι ένα ευχάριστο, ηλιόλουστο σημείο αναμονής. Στο Δάσος Πευκιά απολαύστε την απόλυτη χειμωνιάτικη σιωπή ενώ περιμένετε το λεωφορείο επιστροφής. Τα θερμαινόμενα λεωφορεία προσφέρουν ευπρόσδεκτο ζέσταμα ανάμεσα στις υπαίθριες στάσεις."
           },
           "stops": [
             {
@@ -2065,7 +2237,8 @@
                 "de": "Ideal, um sich in einem Café aufzuwärmen.",
                 "hu": "Ideális hely felmelegedni egy kávézóban.",
                 "ro": "Ideal pentru a vă încălzi într-o cafenea.",
-                "en": "Ideal spot to warm up in a local cafe."
+                "en": "Ideal spot to warm up in a local cafe.",
+                "el": "Ιδανικό σημείο για να ζεσταθείτε σε ένα τοπικό καφέ."
               }
             },
             {
@@ -2074,7 +2247,8 @@
                 "de": "Besichtigung dauert ca. 30-40 Minuten.",
                 "hu": "A látogatás kb. 30-40 percet vesz igénybe.",
                 "ro": "Vizita durează aproximativ 30-40 de minute.",
-                "en": "The visit takes about 30-40 minutes."
+                "en": "The visit takes about 30-40 minutes.",
+                "el": "Η επίσκεψη διαρκεί περίπου 30-40 λεπτά."
               }
             },
             {
@@ -2083,7 +2257,8 @@
                 "de": "Haltestelle liegt oft in der Wintersonne.",
                 "hu": "A megálló télen gyakran napsütötte.",
                 "ro": "Stația este adesea însorită pe timpul iernii.",
-                "en": "The stop is often in the sun during winter."
+                "en": "The stop is often in the sun during winter.",
+                "el": "Η στάση είναι συχνά στον ήλιο κατά τη διάρκεια του χειμώνα."
               }
             },
             {
@@ -2092,7 +2267,8 @@
                 "de": "Der Strand ist im Winter fast menschenleer.",
                 "hu": "A strand télen szinte teljesen néptelen.",
                 "ro": "Plaja este aproape pustie pe timpul iernii.",
-                "en": "The beach is almost empty during winter."
+                "en": "The beach is almost empty during winter.",
+                "el": "Η παραλία είναι σχεδόν άδεια τον χειμώνα."
               }
             },
             {
@@ -2101,7 +2277,8 @@
                 "de": "Nutzen Sie den letzten Bus vor der Dunkelheit.",
                 "hu": "Használd az utolsó buszt sötétedés előtt.",
                 "ro": "Luați ultimul autobuz înainte de întuneric.",
-                "en": "Take the last bus before darkness sets in."
+                "en": "Take the last bus before darkness sets in.",
+                "el": "Πάρτε το τελευταίο λεωφορείο πριν σκοτεινιάσει."
               }
             }
           ],
@@ -2133,6 +2310,13 @@
               "Significantly fewer buses run on Sundays.",
               "Heating in intercity buses is usually excellent.",
               "Ask the driver for the final return bus time."
+            ],
+            "el": [
+              "Τα χειμερινά δρομολόγια ενδέχεται να είναι πιο αραιά.",
+              "Περιμένετε το λεωφορείο μέσα σε ένα κοντινό καφέ.",
+              "Σημαντικά λιγότερα λεωφορεία κυκλοφορούν τις Κυριακές.",
+              "Η θέρμανση στα υπεραστικά λεωφορεία είναι συνήθως εξαιρετική.",
+              "Ρωτήστε τον οδηγό για την τελευταία ώρα επιστροφής."
             ]
           }
         }

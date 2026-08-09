@@ -21,7 +21,8 @@
             "de": "Garten der Helden",
             "hu": "Hősök kertje",
             "ro": "Grădina Eroilor",
-            "en": "Garden of Heroes"
+            "en": "Garden of Heroes",
+            "el": "Κήπος των Ηρώων"
           },
           "coords": [
             21.4275,
@@ -37,7 +38,8 @@
             "de": "Beginnen Sie den Tag mit einem ruhigen Spaziergang und zollen Sie der Geschichte Respekt.",
             "hu": "Kezdje a napot egy csendes sétával és adózzon tisztelettel a történelemnek.",
             "ro": "Începeți ziua cu o plimbare liniștită și aduceți un omagiu istoriei.",
-            "en": "Start the day with a quiet walk and pay respects to history."
+            "en": "Start the day with a quiet walk and pay respects to history.",
+            "el": "Ξεκινήστε την ημέρα με έναν ήρεμο περίπατο και αποτίστε φόρο τιμής στην ιστορία."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Kirche Agios Spyridon",
             "hu": "Agios Spyridon templom",
             "ro": "Biserica Agios Spyridon",
-            "en": "Church of Agios Spyridon"
+            "en": "Church of Agios Spyridon",
+            "el": "Εκκλησία Αγίου Σπυρίδωνα"
           },
           "coords": [
             21.429,
@@ -61,7 +64,8 @@
             "de": "Hier schwor Lord Byron den Eid für die Freiheit Griechenlands.",
             "hu": "Lord Byron itt tette le esküjét Görögország szabadságáért.",
             "ro": "Aici a depus Lord Byron jurământul pentru libertatea Greciei.",
-            "en": "This is where Lord Byron took the oath for the freedom of Greece."
+            "en": "This is where Lord Byron took the oath for the freedom of Greece.",
+            "el": "Εδώ ο Λόρδος Βύρων έδωσε τον όρκο για την ελευθερία της Ελλάδας."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Lord Byron Statue",
             "hu": "Lord Byron szobra",
             "ro": "Statuia Lordului Byron",
-            "en": "Lord Byron Statue"
+            "en": "Lord Byron Statue",
+            "el": "Άγαλμα του Λόρδου Βύρωνα"
           },
           "coords": [
             21.428,
@@ -85,7 +90,8 @@
             "de": "Ein ikonischer Ort, um an den Philhellenen zu erinnern.",
             "hu": "Ikonikus hely a philhellén emlékére.",
             "ro": "Un loc iconic pentru a comemora filoelenul.",
-            "en": "An iconic spot to remember the philhellene."
+            "en": "An iconic spot to remember the philhellene.",
+            "el": "Ένα εμβληματικό σημείο για να θυμηθείτε τον φιλέλληνα."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Museum für Geschichte und Kunst",
             "hu": "Történeti és Művészeti Múzeum",
             "ro": "Muzeul de Istorie și Artă",
-            "en": "Museum of History and Art"
+            "en": "Museum of History and Art",
+            "el": "Μουσείο Ιστορίας και Τέχνης"
           },
           "coords": [
             21.4295,
@@ -109,7 +116,8 @@
             "de": "Tauchen Sie ein in die reiche und dramatische Geschichte der Stadt.",
             "hu": "Merüljön el a város gazdag és drámai történelmében.",
             "ro": "Cufundați-vă în istoria bogată și dramatică a orașului.",
-            "en": "Immerse yourself in the rich and dramatic history of the city."
+            "en": "Immerse yourself in the rich and dramatic history of the city.",
+            "el": "Βυθιστείτε στην πλούσια και δραματική ιστορία της πόλης."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Haus von Kostis Palamas",
             "hu": "Kostis Palamas háza",
             "ro": "Casa lui Kostis Palamas",
-            "en": "House of Kostis Palamas"
+            "en": "House of Kostis Palamas",
+            "el": "Σπίτι του Κωστή Παλαμά"
           },
           "coords": [
             21.4305,
@@ -133,7 +142,8 @@
             "de": "Sehen Sie, wo der Dichter der olympischen Hymne lebte.",
             "hu": "Nézze meg, hol élt az olimpiai himnusz költője.",
             "ro": "Vedeți unde a trăit poetul imnului olimpic.",
-            "en": "See where the poet of the Olympic Anthem lived."
+            "en": "See where the poet of the Olympic Anthem lived.",
+            "el": "Δείτε πού έζησε ο ποιητής του Ολυμπιακού Ύμνου."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Kulturzentrum Diexodos",
             "hu": "Diexodos Kulturális Központ",
             "ro": "Centrul Cultural Diexodos",
-            "en": "Diexodos Cultural Centre"
+            "en": "Diexodos Cultural Centre",
+            "el": "Πολιτιστικό Κέντρο Διέξοδος"
           },
           "coords": [
             21.426,
@@ -157,7 +168,8 @@
             "de": "Entdecken Sie lokale Kunst und kulturelle Veranstaltungen in diesem pulsierenden Zentrum.",
             "hu": "Fedezze fel a helyi művészetet és kulturális eseményeket ebben a vibráló központban.",
             "ro": "Descoperiți arta locală și evenimentele culturale în acest centru vibrant.",
-            "en": "Discover local art and cultural events at this vibrant hub."
+            "en": "Discover local art and cultural events at this vibrant hub.",
+            "el": "Ανακαλύψτε τοπική τέχνη και πολιτιστικά δρώμενα σε αυτό το ζωντανό κέντρο."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Lagune von Messolongi",
             "hu": "Messolongi-lagúna",
             "ro": "Laguna Messolongi",
-            "en": "Messolongi Lagoon"
+            "en": "Messolongi Lagoon",
+            "el": "Λίμνη Μεσολογγίου"
           },
           "coords": [
             21.425,
@@ -181,7 +194,8 @@
             "de": "Beenden Sie den Tag bei Sonnenuntergang über der ruhigen Lagune.",
             "hu": "Zárja a napot a csendes lagúna feletti naplementével.",
             "ro": "Încheiați ziua cu apusul soarelui peste laguna liniștită.",
-            "en": "End your day watching the sunset over the tranquil lagoon."
+            "en": "End your day watching the sunset over the tranquil lagoon.",
+            "el": "Τελειώστε την ημέρα παρακολουθώντας το ηλιοβασίλεμα πάνω από την ήρεμη λίμνη."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Ihr Tag in Messolongi beginnt im Garten der Helden, einem Ort der Stille und des Gedenkens. Am Vormittag erkunden Sie das historische Herz der Stadt, einschließlich der Kirche, in der Lord Byron seinen Eid schwor, und des Museums, das die dramatische Belagerung dokumentiert. Nach einem Mittagessen mit lokalen Spezialitäten besuchen Sie die Häuser berühmter griechischer Persönlichkeiten, die hier lebten. Der Nachmittag gehört der lokalen Kultur und der atemberaubenden Natur. Sie schlendern zum Diexodos-Kulturzentrum und beenden Ihren Spaziergang am Rande der berühmten Lagune, wo Sie die einzigartige Landschaft und die Vogelwelt beobachten können, während die Sonne untergeht.",
         "hu": "Messolongi-i napja a Hősök kertjében kezdődik, a csend és megemlékezés helyén. Délelőtt a város történelmi szívét fedezi fel, beleértve a templomot, ahol Lord Byron letette esküjét, és a múzeumot, amely a drámai ostromot dokumentálja. Egy helyi specialitásokból álló ebéd után meglátogatja az itt élt híres görög személyiségek házait. A délután a helyi kultúráé és a lélegzetelállító természeté. Átsétál a Diexodos Kulturális Központba, és a híres lagúna szélén fejezi be a sétát, ahol megfigyelheti az egyedülálló tájat és a madárvilágot, miközben a nap lenyugszik.",
         "ro": "Ziua dvs. în Messolongi începe în Grădina Eroilor, un loc de liniște și comemorare. Dimineața explorați inima istorică a orașului, inclusiv biserica unde Lord Byron a depus jurământul și muzeul care documentează asediul dramatic. După un prânz cu specialități locale, vizitați casele unor personalități grecești celebre care au locuit aici. După-amiaza este dedicată culturii locale și naturii uimitoare. Vă plimbați la Centrul Cultural Diexodos și încheiați plimbarea la marginea faimoasei lagune, unde puteți observa peisajul unic și păsările în timp ce soarele apune.",
-        "en": "Your day in Messolongi begins in the Garden of Heroes, a place of tranquility and remembrance. In the morning, you'll explore the historical heart of the city, including the church where Lord Byron took his oath and the museum documenting the dramatic siege. After a lunch of local specialties, you'll visit the homes of famous Greek figures who lived here. The afternoon is for local culture and breathtaking nature. You'll stroll to the Diexodos Cultural Centre and end your walk at the edge of the famous lagoon, where you can watch the unique landscape and birdlife as the sun sets."
+        "en": "Your day in Messolongi begins in the Garden of Heroes, a place of tranquility and remembrance. In the morning, you'll explore the historical heart of the city, including the church where Lord Byron took his oath and the museum documenting the dramatic siege. After a lunch of local specialties, you'll visit the homes of famous Greek figures who lived here. The afternoon is for local culture and breathtaking nature. You'll stroll to the Diexodos Cultural Centre and end your walk at the edge of the famous lagoon, where you can watch the unique landscape and birdlife as the sun sets.",
+        "el": "Η μέρα σας στο Μεσολόγγι ξεκινά στον Κήπο των Ηρώων, έναν τόπο γαλήνης και μνήμης. Το πρωί θα εξερευνήσετε την ιστορική καρδιά της πόλης, συμπεριλαμβανομένης της εκκλησίας όπου ο Λόρδος Βύρων έδωσε τον όρκο και του μουσείου που τεκμηριώνει τη δραματική πολιορκία. Μετά από ένα μεσημεριανό με ντόπιες σπεσιαλιτέ, θα επισκεφθείτε τα σπίτια διάσημων Ελλήνων που έζησαν εδώ. Το απόγευμα είναι αφιερωμένο στην τοπική κουλτούρα και την εκπληκτική φύση. Θα περπατήσετε μέχρι το Πολιτιστικό Κέντρο Διέξοδος και θα τελειώσετε τη βόλτα σας στην άκρη της διάσημης λιμνοθάλασσας, όπου μπορείτε να παρακολουθήσετε το μοναδικό τοπίο και τα πουλιά καθώς ο ήλιος δύει."
       },
       "gastro_picks": {
         "de": [
@@ -401,6 +416,12 @@
           "Bring water with you, especially on warm days.",
           "Allow plenty of time for the museum; it's very informative.",
           "An insect repellent can be useful in the evening near the lagoon."
+        ],
+        "el": [
+          "Φορέστε άνετα παπούτσια καθώς θα περπατήσετε πολύ.",
+          "Πάρτε νερό μαζί σας, ειδικά σε ζεστές μέρες.",
+          "Αφιερώστε αρκετό χρόνο για το μουσείο· είναι πολύ ενημερωτικό.",
+          "Εντομοαπωθητικό μπορεί να φανεί χρήσιμο το βράδυ κοντά στη λιμνοθάλασσα."
         ]
       },
       "variants": {
@@ -409,7 +430,8 @@
             "de": "Beginnen Sie Ihren Tag im Garten der Helden, wo die Denkmäler im Regen eine besonders melancholische Atmosphäre ausstrahlen. Ein kurzer Spaziergang führt Sie zur schützenden Kirche Agios Spyridon.\n\nMittags bieten das Geschichts- und Kunstmuseum sowie das Kostis-Palamas-Haus ideale Zuflucht vor den Schauern und vertiefen Ihr Wissen über die lokale Kultur.\n\nAm Nachmittag erkunden Sie das Kulturzentrum Diexodos. Die Ausstellungen bieten ein trockenes und inspirierendes Umfeld, während draußen der Regen auf die Straßen prasselt.\n\nBeenden Sie den Tag an der Lagune von Messolongi. Das Spiel der Regentropfen auf der Wasseroberfläche bietet trotz der Nässe einen faszinierenden, fast mystischen Anblick.",
             "hu": "Kezdje a napot a Hősök Kertjében, ahol az eső áztatta emlékművek különleges, méltóságteljes hangulatot árasztanak. A közeli Szent Szpiridon-templom kiváló menedéket nyújt a záporok elől.\n\nDélben a Történeti és Művészeti Múzeum, valamint Kosztisz Palamasz háza kínál tartalmas beltéri programot, távol tartva a szürke, nedves időjárást.\n\nDélután a Diexodos Kulturális Központ kiállításai között böngészhet, élvezve a művészetet, miközben a város utcáin kopog az eső.\n\nA napot a Messolongi-lagúnánál zárja. A vízfelszínen táncoló esőcseppek és a párás horizont látványa még borús időben is felejthetetlen élményt nyújt.",
             "ro": "Începeți ziua în Grădina Eroilor, unde monumentele sub ploaie capătă o atmosferă melancolică și solemnă. Biserica Agios Spyridon oferă un refugiu spiritual și uscat în apropiere.\n\nLa prânz, Muzeul de Istorie și Artă și Casa lui Kostis Palamas sunt destinațiile perfecte pentru a evita ploaia, oferind incursiuni fascinante în trecutul local.\n\nDupă-amiaza este dedicată Centrului Cultural Diexodos. Expozițiile sale oferă un cadru cald și primitor, departe de umezeala de afară.\n\nÎncheiați ziua la Laguna Messolongi. Chiar și pe ploaie, peisajul acvatic este hipnotizant, cu reflexii argintii pe suprafața apei sub cerul înnorat.",
-            "en": "Start your day in the Garden of Heroes, where the rain-slicked monuments evoke a deeply moving and somber atmosphere. The nearby Church of Agios Spyridon provides a quick dry sanctuary.\n\nAt midday, the Museum of History and Art and the House of Kostis Palamas offer ideal indoor exploration to keep you away from the downpours.\n\nSpend your afternoon at the Diexodos Cultural Centre, enjoying local art and history in a cozy, dry environment while the rain falls outside.\n\nWrap up the day at the Messolongi Lagoon. The sight of raindrops dancing on the vast water surface creates a unique, misty scenery that is beautiful in its own way."
+            "en": "Start your day in the Garden of Heroes, where the rain-slicked monuments evoke a deeply moving and somber atmosphere. The nearby Church of Agios Spyridon provides a quick dry sanctuary.\n\nAt midday, the Museum of History and Art and the House of Kostis Palamas offer ideal indoor exploration to keep you away from the downpours.\n\nSpend your afternoon at the Diexodos Cultural Centre, enjoying local art and history in a cozy, dry environment while the rain falls outside.\n\nWrap up the day at the Messolongi Lagoon. The sight of raindrops dancing on the vast water surface creates a unique, misty scenery that is beautiful in its own way.",
+            "el": "Ξεκινήστε την ημέρα σας στον Κήπο των Ηρώων, όπου τα μνημεία λουσμένα από τη βροχή προκαλούν βαθιά συγκίνηση και σοβαρότητα. Η κοντινή Εκκλησία του Αγίου Σπυρίδωνα προσφέρει ένα γρήγορο στεγνό καταφύγιο.\n\nΤο μεσημέρι, το Μουσείο Ιστορίας και Τέχνης και το Σπίτι του Κωστή Παλαμά προσφέρουν ιδανική εσωτερική εξερεύνηση για να σας προστατεύσουν από τις καταρρακτώδεις βροχές.\n\nΠεράστε το απόγευμα σας στο Πολιτιστικό Κέντρο Διέξοδος, απολαμβάνοντας την τοπική τέχνη και ιστορία σε έναν ζεστό, στεγνό χώρο ενώ η βροχή πέφτει έξω.\n\nΟλοκληρώστε την ημέρα στη Λίμνη Μεσολογγίου. Η εικόνα των σταγονών που χορεύουν στην επιφάνεια του νερού δημιουργεί ένα μοναδικό, ομιχλώδες τοπίο που είναι όμορφο με τον δικό του τρόπο."
           },
           "stops": [
             {
@@ -418,7 +440,8 @@
                 "de": "Die gepflasterten Wege können bei Nässe rutschig sein.",
                 "hu": "A köves utak esőben csúszósak lehetnek, óvatosan lépkedjen.",
                 "ro": "Potecile pavate pot fi alunecoase când sunt ude.",
-                "en": "The paved paths can be slippery when wet; watch your step."
+                "en": "The paved paths can be slippery when wet; watch your step.",
+                "el": "Τα πλακόστρωτα μονοπάτια γίνονται ολισθηρά όταν βραχούν· προσέχετε το βήμα σας."
               }
             },
             {
@@ -427,7 +450,8 @@
                 "de": "Nutzen Sie den Vorraum, um Ihren Regenschirm auszuschütteln.",
                 "hu": "Használja az előteret az esernyő lerázására belépés előtt.",
                 "ro": "Folosiți pridvorul pentru a scutura umbrela înainte de a intra.",
-                "en": "Use the porch to shake off your umbrella before entering."
+                "en": "Use the porch to shake off your umbrella before entering.",
+                "el": "Χρησιμοποιήστε το στέγαστρο για να τινάξετε την ομπρέλα πριν μπείτε μέσα."
               }
             },
             {
@@ -436,7 +460,8 @@
                 "de": "Ein schneller Fotostopp unter dem Regenschirm reicht hier aus.",
                 "hu": "Egy gyors fotó az esernyő alól is elég ennél az emlékműnél.",
                 "ro": "O oprire rapidă pentru poze sub umbrelă este suficientă aici.",
-                "en": "A quick photo stop under your umbrella is enough here."
+                "en": "A quick photo stop under your umbrella is enough here.",
+                "el": "Ένας γρήγορος σταθμός για φωτογραφία κάτω από την ομπρέλα είναι αρκετός εδώ."
               }
             },
             {
@@ -445,7 +470,8 @@
                 "de": "Der perfekte Ort, um einen starken Regenguss abzuwarten.",
                 "hu": "Tökéletes helyszín egy kiadós zápor átvészelésére.",
                 "ro": "Locul perfect pentru a aștepta trecerea unei averse puternice.",
-                "en": "The perfect place to wait out a heavy downpour."
+                "en": "The perfect place to wait out a heavy downpour.",
+                "el": "Το τέλειο μέρος για να περιμένετε να κοπάσει μια δυνατή μπόρα."
               }
             },
             {
@@ -454,7 +480,8 @@
                 "de": "Genießen Sie die intime Atmosphäre des Hauses bei Regen.",
                 "hu": "Élvezze a ház meghitt hangulatát a kopogó eső mellett.",
                 "ro": "Bucurați-vă de atmosfera intimă a casei în timp ce plouă.",
-                "en": "Enjoy the intimate atmosphere of the house during the rain."
+                "en": "Enjoy the intimate atmosphere of the house during the rain.",
+                "el": "Απολαύστε την οικεία ατμόσφαιρα του σπιτιού κατά τη βροχή."
               }
             },
             {
@@ -463,7 +490,8 @@
                 "de": "Besuchen Sie den Shop für lokale Produkte im Trockenen.",
                 "hu": "Látogassa meg a helyi termékek boltját a fedett részen.",
                 "ro": "Vizitați magazinul de produse locale în interior, la adăpost.",
-                "en": "Visit the local products shop inside, staying dry."
+                "en": "Visit the local products shop inside, staying dry.",
+                "el": "Επισκεφτείτε το κατάστημα τοπικών προϊόντων μέσα, μένοντας στεγνοί."
               }
             },
             {
@@ -472,7 +500,8 @@
                 "de": "Die Aussichtsplattformen bieten begrenzten Schutz vor Regen.",
                 "hu": "A kilátópontok csak korlátozott védelmet nyújtanak az eső ellen.",
                 "ro": "Platformele de observare oferă adăpost limitat împotriva ploii.",
-                "en": "Observation points offer limited shelter from the rain."
+                "en": "Observation points offer limited shelter from the rain.",
+                "el": "Τα σημεία παρατήρησης προσφέρουν περιορισμένη προστασία από τη βροχή."
               }
             }
           ],
@@ -500,6 +529,12 @@
               "Museums are often closed on Mondays; check opening times if it rains.",
               "A sturdy umbrella is essential due to the winds coming from the sea.",
               "Look for cafes near Diexodos for a warm break between stops."
+            ],
+            "el": [
+              "Φορέστε αδιάβροχα παπούτσια καθώς σχηματίζονται συχνά λακκούβες στους επίπεδους δρόμους.",
+              "Τα μουσεία συχνά κλείνουν τις Δευτέρες· ελέγξτε τις ώρες λειτουργίας αν βρέχει.",
+              "Μια στιβαρή ομπρέλα είναι απαραίτητη λόγω των ανέμων από τη θάλασσα.",
+              "Ψάξτε για καφέ κοντά στη Διέξοδο για ένα ζεστό διάλειμμα ανάμεσα στις στάσεις."
             ]
           }
         },
@@ -508,7 +543,8 @@
             "de": "Der Garten der Helden wirkt im Winterlicht besonders andächtig. Die kühle Brise erinnert an die heroische Vergangenheit der Stadt, während Sie durch die Alleen spazieren.\n\nMittags bieten das Kunstmuseum und die Kirche Agios Spyridon angenehme Wärme und kulturelle Tiefe, bevor die Sonne früh hinter der Lagune versinkt.\n\nAm Nachmittag tauchen Sie in die literarische Welt von Kostis Palamas ein. Das historische Haus schützt vor dem winterlichen Wind, der durch die Gassen weht.\n\nDen Abschluss bildet die Lagune. In der blauen Stunde des Winters spiegeln sich die Lichter der Pfahlbauten im stillen, kalten Wasser – ein Anblick von purer Ruhe.",
             "hu": "A Hősök Kertje téli fényekben is méltóságteljes. A hűvös szellő a város dicső múltját idézi, miközben a néma emlékművek között sétálunk.\n\nDélben a Művészeti Múzeum és a Szent Szpiridon-templom nyújt menedéket a hideg elől, mélyebb betekintést engedve a helyi hitvilágba és történelembe.\n\nDélután Kosztisz Palamasz szülőháza várja a látogatókat, ahol a történelmi falak között elfelejthetjük a kinti téli szelet.\n\nA napot a lagúnánál fejezzük be. A téli alkonyatban a víz feletti cölöpházak fényei megcsillannak a hideg víztükrön, különleges nyugalmat árasztva.",
             "ro": "Grădina Eroilor este solemnă sub lumina iernii. Briza rece amintește de trecutul eroic al orașului în timp ce vă plimbați printre monumente.\n\nLa prânz, Muzeul de Artă și Biserica Agios Spyridon oferă căldură și profunzime culturală înainte ca soarele să apună devreme peste lagună.\n\nDupă-amiaza, pășiți în universul literar al lui Kostis Palamas. Casa istorică vă protejează de vântul de iarnă care suflă pe străzile înguste.\n\nÎncheiați ziua la lagună. În amurgul rece al iernii, luminile caselor pe piloni se oglindesc în apa liniștită, oferind un peisaj de o pace rară.",
-            "en": "The Garden of Heroes feels exceptionally solemn in the crisp winter light. The cool breeze carries echoes of history as you walk through the silent memorials.\n\nAt noon, the Art Museum and the Church of Agios Spyridon provide warmth and cultural enrichment before the early winter sunset.\n\nIn the afternoon, explore the world of poet Kostis Palamas. The historic residence shields you from the biting winter wind blowing through the town.\n\nEnd your walk at the lagoon. During the winter blue hour, the lights of the stilt houses shimmer on the still, cold water, creating a scene of absolute serenity."
+            "en": "The Garden of Heroes feels exceptionally solemn in the crisp winter light. The cool breeze carries echoes of history as you walk through the silent memorials.\n\nAt noon, the Art Museum and the Church of Agios Spyridon provide warmth and cultural enrichment before the early winter sunset.\n\nIn the afternoon, explore the world of poet Kostis Palamas. The historic residence shields you from the biting winter wind blowing through the town.\n\nEnd your walk at the lagoon. During the winter blue hour, the lights of the stilt houses shimmer on the still, cold water, creating a scene of absolute serenity.",
+            "el": "Ο Κήπος των Ηρώων φαίνεται εξαιρετικά επιβλητικός στο καθαρό χειμωνιάτικο φως. Το δροσερό αεράκι μεταφέρει ηχώ της ιστορίας καθώς περπατάτε ανάμεσα στα σιωπηλά μνημεία.\n\nΤο μεσημέρι, το Μουσείο Τέχνης και η Εκκλησία του Αγίου Σπυρίδωνα προσφέρουν ζεστασιά και πολιτιστική αναζωογόνηση πριν από το νωρίς χειμωνιάτικο ηλιοβασίλεμα.\n\nΤο απόγευμα, εξερευνήστε τον κόσμο του ποιητή Κωστή Παλαμά. Η ιστορική κατοικία σας προστατεύει από τον τσουχτερό χειμωνιάτικο άνεμο που φυσάει στην πόλη.\n\nΤελειώστε τη βόλτα σας στη λιμνοθάλασσα. Κατά την μπλε ώρα του χειμώνα, τα φώτα των σπιτιών πάνω σε πασσάλους αντανακλώνται στο ήρεμο, κρύο νερό, δημιουργώντας μια σκηνή απόλυτης γαλήνης."
           },
           "stops": [
             {
@@ -517,7 +553,8 @@
                 "de": "Warme Kleidung ist wichtig, da der Garten sehr weitläufig und offen ist.",
                 "hu": "Öltözzön melegen, a kert tágas és kitett a szélnek.",
                 "ro": "Îmbrăcați-vă gros, deoarece grădina este deschisă și vântoasă.",
-                "en": "Dress warmly as the garden is spacious and exposed to the wind."
+                "en": "Dress warmly as the garden is spacious and exposed to the wind.",
+                "el": "Ντυθείτε ζεστά καθώς ο κήπος είναι απλωμένος και εκτεθειμένος στον άνεμο."
               }
             },
             {
@@ -526,7 +563,8 @@
                 "de": "Ein ruhiger Ort zur inneren Einkehr und zum Aufwärmen.",
                 "hu": "Csendes hely az elmélyülésre és egy kis felmelegedésre.",
                 "ro": "Un loc liniștit pentru reflecție și pentru a vă încălzi puțin.",
-                "en": "A quiet place for reflection and to warm up for a bit."
+                "en": "A quiet place for reflection and to warm up for a bit.",
+                "el": "Ένας ήσυχος τόπος για περισυλλογή και να ζεσταθείτε λίγο."
               }
             },
             {
@@ -535,7 +573,8 @@
                 "de": "Das Licht am Vormittag ist ideal für Fotos ohne harte Schatten.",
                 "hu": "A délelőtti fények tökéletesek a fotózáshoz éles árnyékok nélkül.",
                 "ro": "Lumina dimineții este ideală pentru fotografii fără umbre dure.",
-                "en": "The morning light is ideal for photos without harsh shadows."
+                "en": "The morning light is ideal for photos without harsh shadows.",
+                "el": "Το πρωινό φως είναι ιδανικό για φωτογραφίες χωρίς σκληρές σκιές."
               }
             },
             {
@@ -544,7 +583,8 @@
                 "de": "Nutzen Sie die Garderobe für Ihre schwere Winterjacke.",
                 "hu": "Használja a ruhatárat a nehéz téli kabátok elhelyezésére.",
                 "ro": "Folosiți garderoba pentru haina groasă de iarnă.",
-                "en": "Use the cloakroom for your heavy winter coat."
+                "en": "Use the cloakroom for your heavy winter coat.",
+                "el": "Χρησιμοποιήστε το παρελθόν για το βαρύ χειμερινό σας παλτό."
               }
             },
             {
@@ -553,7 +593,8 @@
                 "de": "Die Holzinterieurs strahlen im Winter eine gemütliche Wärme aus.",
                 "hu": "A fa belsők otthonos meleget árasztanak a téli napokon.",
                 "ro": "Interioarele din lemn emană o căldură primitoare iarna.",
-                "en": "The wooden interiors exude a cozy warmth during winter."
+                "en": "The wooden interiors exude a cozy warmth during winter.",
+                "el": "Τα ξύλινα εσωτερικά εκπέμπουν ζεστή, οικεία ατμόσφαιρα κατά τον χειμώνα."
               }
             },
             {
@@ -562,7 +603,8 @@
                 "de": "Perfekt für eine kulturelle Pause am späten Nachmittag.",
                 "hu": "Tökéletes helyszín egy késő délutáni kulturális pihenőre.",
                 "ro": "Perfect pentru o pauză culturală spre sfârșitul după-amiezii.",
-                "en": "Perfect for a cultural break in the late afternoon."
+                "en": "Perfect for a cultural break in the late afternoon.",
+                "el": "Τέλειο για ένα πολιτιστικό διάλειμμα νωρίς το απόγευμα."
               }
             },
             {
@@ -571,7 +613,8 @@
                 "de": "Besuchen Sie die Lagune vor 17:00 Uhr, um den Sonnenuntergang zu sehen.",
                 "hu": "Látogasson el a lagúnához 17:00 előtt, hogy lássa a naplementét.",
                 "ro": "Vizitați laguna înainte de ora 17:00 pentru a vedea apusul.",
-                "en": "Visit the lagoon before 17:00 to catch the winter sunset."
+                "en": "Visit the lagoon before 17:00 to catch the winter sunset.",
+                "el": "Επισκεφθείτε τη λιμνοθάλασσα πριν τις 17:00 για να προλάβετε το χειμωνιάτικο ηλιοβασίλεμα."
               }
             }
           ],
@@ -599,6 +642,12 @@
               "Warm gloves are recommended due to the high humidity near the water.",
               "Some smaller attractions may have shorter opening hours in winter.",
               "Enjoy a hot Greek coffee in one of the cafes at the main square."
+            ],
+            "el": [
+              "Ο χειμερινός ήλιος δύει γύρω στις 17:00· σχεδιάστε τις εξωτερικές δραστηριότητες νωρίτερα μέσα στην ημέρα.",
+              "Συνιστώνται ζεστά γάντια λόγω της υψηλής υγρασίας κοντά στο νερό.",
+              "Ορισμένα μικρότερα αξιοθέατα μπορεί να έχουν περιορισμένο ωράριο τον χειμώνα.",
+              "Απολαύστε έναν ζεστό ελληνικό καφέ σε ένα από τα καφέ στην κεντρική πλατεία."
             ]
           }
         }
@@ -617,7 +666,8 @@
             "de": "Garten der Helden",
             "hu": "Hősök kertje",
             "ro": "Grădina Eroilor",
-            "en": "Garden of Heroes"
+            "en": "Garden of Heroes",
+            "el": "Κήπος των Ηρώων"
           },
           "coords": [
             21.4275,
@@ -633,7 +683,8 @@
             "de": "Ein perfekter, ruhiger Startpunkt für Ihre Radtour.",
             "hu": "Tökéletes, csendes kiindulópont a biciklitúrához.",
             "ro": "Un punct de plecare perfect și liniștit pentru turul cu bicicleta.",
-            "en": "A perfect, quiet starting point for your bike tour."
+            "en": "A perfect, quiet starting point for your bike tour.",
+            "el": "Ένα τέλειο, ήσυχο σημείο εκκίνησης για την ποδηλατική σας διαδρομή."
           }
         },
         {
@@ -641,7 +692,8 @@
             "de": "Museum für Geschichte und Kunst",
             "hu": "Történeti és Művészeti Múzeum",
             "ro": "Muzeul de Istorie și Artă",
-            "en": "Museum of History and Art"
+            "en": "Museum of History and Art",
+            "el": "Μουσείο Ιστορίας και Τέχνης"
           },
           "coords": [
             21.4295,
@@ -657,7 +709,8 @@
             "de": "Stellen Sie Ihr Fahrrad sicher ab und tauchen Sie in die Geschichte ein.",
             "hu": "Zárja le biztonságosan a kerékpárját, és merüljön el a történelemben.",
             "ro": "Parcați bicicleta în siguranță și scufundați-vă în istorie.",
-            "en": "Park your bike securely and dive into the history."
+            "en": "Park your bike securely and dive into the history.",
+            "el": "Παρκάρετε με ασφάλεια το ποδήλατό σας και βυθιστείτε στην ιστορία."
           }
         },
         {
@@ -665,7 +718,8 @@
             "de": "Lagune von Messolongi",
             "hu": "Messolongi-lagúna",
             "ro": "Laguna Messolongi",
-            "en": "Messolongi Lagoon"
+            "en": "Messolongi Lagoon",
+            "el": "Λίμνη Μεσολογγίου"
           },
           "coords": [
             21.425,
@@ -681,7 +735,8 @@
             "de": "Fahren Sie entlang des Wassers und genießen Sie die Aussicht.",
             "hu": "Kerékpározzon a víz mentén, és élvezze a kilátást.",
             "ro": "Pedalați de-a lungul apei și bucurați-vă de priveliște.",
-            "en": "Cycle along the water and enjoy the view."
+            "en": "Cycle along the water and enjoy the view.",
+            "el": "Ποδηλατήστε κατά μήκος του νερού και απολαύστε τη θέα."
           }
         },
         {
@@ -689,7 +744,8 @@
             "de": "Insel Tourlida",
             "hu": "Tourlida-sziget",
             "ro": "Insula Tourlida",
-            "en": "Tourlida Island"
+            "en": "Tourlida Island",
+            "el": "Νησί Τουρλίδας"
           },
           "coords": [
             21.41,
@@ -705,7 +761,8 @@
             "de": "Die Radtour über den Damm ist ein einzigartiges Erlebnis. Zeit für ein Mittagessen hier.",
             "hu": "A gáton átívelő kerékpártúra egyedülálló élmény. Ideje itt ebédelni.",
             "ro": "Plimbarea cu bicicleta peste dig este o experiență unică. Timp pentru prânz aici.",
-            "en": "The bike ride across the causeway is a unique experience. Time for lunch here."
+            "en": "The bike ride across the causeway is a unique experience. Time for lunch here.",
+            "el": "Η ποδηλασία πάνω στο δρόμο προς το νησί είναι μια μοναδική εμπειρία. Χρόνος για μεσημεριανό εδώ."
           }
         },
         {
@@ -713,7 +770,8 @@
             "de": "Leuchtturm von Tourlida",
             "hu": "Tourlida világítótornya",
             "ro": "Farul din Tourlida",
-            "en": "Lighthouse of Tourlida"
+            "en": "Lighthouse of Tourlida",
+            "el": "Φάρος της Τουρλίδας"
           },
           "coords": [
             21.408,
@@ -729,7 +787,8 @@
             "de": "Ein großartiger Fotospot am Ende des Dammes.",
             "hu": "Nagyszerű fotóhely a gát végén.",
             "ro": "Un loc excelent pentru fotografii la capătul digului.",
-            "en": "A great photo spot at the end of the causeway."
+            "en": "A great photo spot at the end of the causeway.",
+            "el": "Ένα εξαιρετικό σημείο για φωτογραφία στο τέλος του δρόμου προς το νησί."
           }
         },
         {
@@ -737,7 +796,8 @@
             "de": "Kulturzentrum Diexodos",
             "hu": "Diexodos Kulturális Központ",
             "ro": "Centrul Cultural Diexodos",
-            "en": "Diexodos Cultural Centre"
+            "en": "Diexodos Cultural Centre",
+            "el": "Πολιτιστικό Κέντρο Διέξοδος"
           },
           "coords": [
             21.426,
@@ -753,7 +813,8 @@
             "de": "Beenden Sie Ihre Tour mit einem Hauch von lokaler Kultur.",
             "hu": "Zárja a túrát egy csipetnyi helyi kultúrával.",
             "ro": "Încheiați-vă turul cu o notă de cultură locală.",
-            "en": "End your tour with a touch of local culture."
+            "en": "End your tour with a touch of local culture.",
+            "el": "Τελειώστε την περιήγησή σας με μια νότα τοπικού πολιτισμού."
           }
         }
       ],
@@ -761,7 +822,8 @@
         "de": "Ihre Radtour durch Messolongi beginnt im ruhigen Garten der Helden. Von dort radeln Sie zum Museum für Geschichte, um in die Vergangenheit der Stadt einzutauchen. Der Hauptteil Ihrer Tour führt Sie entlang der atemberaubenden Lagune und über einen langen Damm zur Insel Tourlida. Hier machen Sie eine längere Pause, genießen ein Mittagessen in einer Taverne und radeln bis zum Leuchtturm am Ende der Insel. Auf dem Rückweg halten Sie am Kulturzentrum Diexodos, um einen Einblick in die lokale Kunstszene zu bekommen, bevor Sie Ihren Tag ausklingen lassen.",
         "hu": "Messolongiban tett kerékpártúrája a csendes Hősök kertjében kezdődik. Onnan a Történeti Múzeumhoz teker, hogy elmerüljön a város múltjában. A túra fő része a lélegzetelállító lagúna mentén és egy hosszú gáton át vezet a Tourlida-szigetre. Itt hosszabb szünetet tart, megebédel egy tavernában, és elteker a sziget végén található világítótoronyhoz. Visszafelé megáll a Diexodos Kulturális Központnál, hogy bepillantást nyerjen a helyi művészeti életbe, mielőtt lezárja a napot.",
         "ro": "Turul cu bicicleta prin Messolongi începe în liniștita Grădină a Eroilor. De acolo, pedalați spre Muzeul de Istorie pentru a vă cufunda în trecutul orașului. Partea principală a turului vă duce de-a lungul uimitoarei lagune și peste un dig lung până la Insula Tourlida. Aici faceți o pauză mai lungă, savurați prânzul la o tavernă și pedalați până la farul de la capătul insulei. Pe drumul de întoarcere, opriți la Centrul Cultural Diexodos pentru a arunca o privire asupra scenei artistice locale înainte de a încheia ziua.",
-        "en": "Your bike tour of Messolongi starts in the tranquil Garden of Heroes. From there, you'll cycle to the Museum of History to immerse yourself in the city's past. The main part of your tour takes you along the stunning lagoon and across a long causeway to Tourlida Island. Here, you'll take a longer break, enjoy lunch at a taverna, and cycle to the lighthouse at the end of the island. On your way back, you'll stop at the Diexodos Cultural Centre for a glimpse of the local art scene before winding down your day."
+        "en": "Your bike tour of Messolongi starts in the tranquil Garden of Heroes. From there, you'll cycle to the Museum of History to immerse yourself in the city's past. The main part of your tour takes you along the stunning lagoon and across a long causeway to Tourlida Island. Here, you'll take a longer break, enjoy lunch at a taverna, and cycle to the lighthouse at the end of the island. On your way back, you'll stop at the Diexodos Cultural Centre for a glimpse of the local art scene before winding down your day.",
+        "el": "Η ποδηλατική σας διαδρομή στο Μεσολόγγι ξεκινά στον γαλήνιο Κήπο των Ηρώων. Από εκεί θα ποδηλατήσετε προς το Μουσείο Ιστορίας για να βυθιστείτε στο παρελθόν της πόλης. Το κύριο μέρος της διαδρομής σας σας οδηγεί κατά μήκος της εκπληκτικής λιμνοθάλασσας και διασχίζει έναν μακρύ δρόμο προς το Νησί Τουρλίδα. Εκεί θα κάνετε μεγαλύτερη στάση, θα απολαύσετε μεσημεριανό σε μια ταβέρνα και θα ποδηλατήσετε μέχρι τον φάρο στο τέλος του νησιού. Κατά την επιστροφή, θα σταματήσετε στο Πολιτιστικό Κέντρο Διέξοδος για μια ματιά στην τοπική καλλιτεχνική σκηνή πριν ολοκληρώσετε τη μέρα σας."
       },
       "gastro_picks": {
         "de": [
@@ -957,6 +1019,12 @@
           "Bring sunscreen and a hat as there is little shade.",
           "Some paths can be uneven, so ride with care.",
           "Always lock your bike when you leave it."
+        ],
+        "el": [
+          "Ελέγξτε το ποδήλατό σας πριν φύγετε, ιδιαίτερα τα φρένα και τα λάστιχα.",
+          "Πάρτε αντηλιακό και ένα καπέλο καθώς υπάρχει λίγη σκιά.",
+          "Ορισμένα μονοπάτια μπορεί να είναι άνισα, επομένως ποδηλατήστε με προσοχή.",
+          "Κλειδώστε πάντα το ποδήλατό σας όταν το αφήνετε."
         ]
       },
       "variants": {
@@ -965,7 +1033,8 @@
             "de": "Radfahren in Messolongi ist auch bei Regen möglich, da die Stadt völlig eben ist. Starten Sie vorsichtig am Garten der Helden und nutzen Sie die Museen für trockene Pausen.\n\nMittags führt der Weg zur Lagune. Die asphaltierten Straßen sind gut befahrbar, aber achten Sie auf Pfützen und die Gischt der vorbeifahrenden Autos.\n\nNachmittags radeln Sie zur Insel Tourlida. Der Damm bietet freien Blick auf die raue See, während Sie gegen den Wind und die Tropfen ankämpfen.\n\nZum Abschluss bietet das Kulturzentrum Diexodos einen sicheren Platz für Ihr Rad und einen trockenen Raum für Sie, um die Erlebnisse Revue passieren zu lassen.",
             "hu": "Messolongiban esőben is lehet biciklizni, mert a város teljesen sík. Kezdjen óvatosan a Hősök Kertjénél, és használja a múzeumokat fedett pihenőként.\n\nDélben az út a lagúnához vezet. Az aszfaltozott utak jól járhatók, de ügyeljen a tócsákra és az autók által felvert vízre.\n\nDélután tekerjen ki Tourlida szigetére. A gát panorámája lenyűgöző a viharosabb időben is, miközben a széllel és az esővel dacol.\n\nZárásként a Diexodos Kulturális Központnál biztonságban lelakatolhatja a bringát, és szárazon böngészheti a kiállításokat.",
             "ro": "Mersul pe bicicletă în Messolongi este posibil și pe ploaie, orașul fiind plat. Începeți cu prudență la Grădina Eroilor și folosiți muzeele pentru pauze uscate.\n\nLa prânz, drumul vă duce spre lagună. Șoselele asfaltate sunt practicabile, dar atenție la bălți și la apa împroșcată de mașini.\n\nDupă-amiaza pedalați spre Insula Tourlida. Digul oferă o vedere deschisă spre marea agitată, în timp ce luptați cu vântul și stropii de ploaie.\n\nLa final, Centrul Cultural Diexodos oferă un loc sigur pentru bicicletă și un spațiu uscat pentru dumneavoastră, pentru a vă relaxa.",
-            "en": "Cycling in Messolongi is doable even in the rain as the town is perfectly flat. Start cautiously at the Garden of Heroes and use museums for dry intervals.\n\nAt midday, head towards the lagoon. The paved roads are in good condition, but watch out for puddles and spray from passing vehicles.\n\nIn the afternoon, cycle out to Tourlida Island. The causeway offers a dramatic view of the choppy waters as you brave the wind and rain.\n\nFinally, the Diexodos Cultural Centre provides a safe spot to park your bike and a dry indoor space for you to wind down."
+            "en": "Cycling in Messolongi is doable even in the rain as the town is perfectly flat. Start cautiously at the Garden of Heroes and use museums for dry intervals.\n\nAt midday, head towards the lagoon. The paved roads are in good condition, but watch out for puddles and spray from passing vehicles.\n\nIn the afternoon, cycle out to Tourlida Island. The causeway offers a dramatic view of the choppy waters as you brave the wind and rain.\n\nFinally, the Diexodos Cultural Centre provides a safe spot to park your bike and a dry indoor space for you to wind down.",
+            "el": "Η ποδηλασία στο Μεσολόγγι είναι δυνατή ακόμη και στη βροχή καθώς η πόλη είναι τελείως επίπεδη. Ξεκινήστε προσεκτικά από τον Κήπο των Ηρώων και χρησιμοποιήστε τα μουσεία για στεγνά διαλείμματα.\n\nΤο μεσημέρι, κατευθυνθείτε προς τη λιμνοθάλασσα. Οι ασφαλτοστρωμένοι δρόμοι είναι σε καλή κατάσταση, αλλά προσέξτε λακκούβες και πιτσιλίσματα από διέρχοντα οχήματα.\n\nΤο απόγευμα, ποδηλατήστε προς το Νησί Τουρλίδα. Ο δρόμος προσφέρει δραματική θέα στα κυματώδη νερά καθώς αντιμετωπίζετε τον άνεμο και τη βροχή.\n\nΤέλος, το Πολιτιστικό Κέντρο Διέξοδος παρέχει ένα ασφαλές σημείο για να παρκάρετε το ποδήλατο και έναν στεγνό, εσωτερικό χώρο για να χαλαρώσετε."
           },
           "stops": [
             {
@@ -974,7 +1043,8 @@
                 "de": "Parken Sie Ihr Rad unter den Bäumen für einen leichten Regenschutz.",
                 "hu": "Parkoljon a fák alatt, hogy a bicikli ne ázzon el teljesen.",
                 "ro": "Parcați bicicleta sub copaci pentru o protecție ușoară împotriva ploii.",
-                "en": "Park your bike under the trees for some light rain protection."
+                "en": "Park your bike under the trees for some light rain protection.",
+                "el": "Παρκάρετε το ποδήλατό σας κάτω από τα δέντρα για ελαφρά προστασία από τη βροχή."
               }
             },
             {
@@ -983,7 +1053,8 @@
                 "de": "Ein idealer Stopp, um die Regenbekleidung kurz zu lüften.",
                 "hu": "Ideális megálló az esőruházat rövid szellőztetésére.",
                 "ro": "O oprire ideală pentru a vă aerisi puțin pelerina de ploaie.",
-                "en": "An ideal stop to briefly air out your rain gear."
+                "en": "An ideal stop to briefly air out your rain gear.",
+                "el": "Ιδανική στάση για να αερίσετε σύντομα τον εξοπλισμό βροχής σας."
               }
             },
             {
@@ -992,7 +1063,8 @@
                 "de": "Vorsicht vor Seitenwinden auf dem offenen Damm.",
                 "hu": "Vigyázzon az oldalszélre a nyitott gáton tekerve.",
                 "ro": "Atenție la vânturile laterale pe digul deschis.",
-                "en": "Watch out for side winds on the open causeway."
+                "en": "Watch out for side winds on the open causeway.",
+                "el": "Προσέξτε τους πλευρικούς ανέμους στον ανοιχτό δρόμο προς το νησί."
               }
             },
             {
@@ -1001,7 +1073,8 @@
                 "de": "Die Holzstege der 'Pelades' können extrem rutschig sein.",
                 "hu": "A 'pelades' faházak mólói rendkívül csúszósak lehetnek.",
                 "ro": "Podiumurile de lemn ale caselor 'pelades' pot fi foarte alunecoase.",
-                "en": "The wooden piers of the 'pelades' houses can be extremely slippery."
+                "en": "The wooden piers of the 'pelades' houses can be extremely slippery.",
+                "el": "Οι ξύλινες προβλήτες των σπιτιών πάνω σε πασσάλους μπορούν να είναι εξαιρετικά ολισθηρές."
               }
             },
             {
@@ -1010,7 +1083,8 @@
                 "de": "Kurzer Halt für ein stürmisches Foto und dann schnell weiter.",
                 "hu": "Csak egy rövid megálló egy viharos fotóra, majd tekerjen tovább.",
                 "ro": "O oprire scurtă pentru o poză dramatică și apoi continuați drumul.",
-                "en": "Just a short stop for a dramatic photo, then keep moving."
+                "en": "Just a short stop for a dramatic photo, then keep moving.",
+                "el": "Μόνο μια σύντομη στάση για μια δραματική φωτογραφία, και μετά συνεχίστε."
               }
             },
             {
@@ -1019,7 +1093,8 @@
                 "de": "Schließen Sie Ihr Rad direkt vor dem Eingang im Sichtfeld an.",
                 "hu": "Lakatolja le a biciklit közvetlenül a bejárat előtt, szem előtt.",
                 "ro": "Legați bicicleta chiar în fața intrării, la vedere.",
-                "en": "Lock your bike right in front of the entrance, within sight."
+                "en": "Lock your bike right in front of the entrance, within sight.",
+                "el": "Κλειδώστε το ποδήλατό σας ακριβώς μπροστά από την είσοδο, εντός οπτικού πεδίου."
               }
             }
           ],
@@ -1047,6 +1122,12 @@
               "Wear a high-visibility raincoat or a reflective vest.",
               "Avoid unpaved paths right by the water's edge.",
               "A plastic seat cover is worth its weight in gold in this weather."
+            ],
+            "el": [
+              "Ελέγξτε τα φρένα σας καθώς η απόσταση φρεναρίσματος αυξάνεται σε βρεγμένους δρόμους.",
+              "Φορέστε αδιάβροχο μπουφάν υψηλής ορατότητας ή ανακλαστικό γιλέκο.",
+              "Αποφύγετε μη ασφαλτοστρωμένα μονοπάτια ακριβώς στην άκρη του νερού.",
+              "Μια πλαστική κάλυψη για τη σέλα αξίζει όσο ζυγίζει σε αυτόν τον καιρό."
             ]
           }
         },
@@ -1055,7 +1136,8 @@
             "de": "Das flache Terrain von Messolongi macht das Radfahren auch im Winter zum Vergnügen, solange man sich gegen den Wind schützt. Starten Sie erfrischt am Garten der Helden.\n\nMittags radeln Sie entlang der Lagune. Die kühle, saubere Luft bietet weite Sicht bis zu den Bergen, während Sie sich durch die Bewegung warm halten.\n\nDer Höhepunkt ist die Fahrt nach Tourlida. Der Dammweg ist im Winter fast leer, sodass Sie die Stille der Lagune und die Vögel ganz für sich haben.\n\nAm späten Nachmittag kehren Sie in die Stadt zurück. Die beleuchteten Gassen führen Sie zum Kulturzentrum Diexodos, wo der Tag bei lokaler Geschichte endet.",
             "hu": "Messolongi sík terepe télen is élvezetessé teszi a biciklizést, ha megfelelően védekezünk a szél ellen. Kezdje a napot frissítő tekeréssel a Hősök Kertjénél.\n\nDélben a lagúna mentén haladjon. A hűvös, tiszta levegőben messzire ellátni a hegyekig, a mozgás pedig segít melegen tartani a testet.\n\nA csúcspont a Tourlida felé vezető út. A gát télen szinte üres, így a lagúna csendje és a madarak világa teljesen az öné lehet.\n\nKéső délután térjen vissza a városba. A kivilágított utcák a Diexodos Kulturális Központhoz vezetnek, ahol a nap helyi történetekkel zárul.",
             "ro": "Terenul plat din Messolongi face ca mersul pe bicicletă să fie o plăcere chiar și iarna, cu condiția să vă protejați de vânt. Începeți plini de energie la Grădina Eroilor.\n\nLa prânz, pedalați de-a lungul lagunei. Aerul rece și curat oferă o vizibilitate excelentă până la munți, iar mișcarea vă va ține de cald.\n\nPunctul culminant este drumul spre Tourlida. Digul este aproape pustiu iarna, oferindu-vă liniștea lagunei și spectacolul păsărilor doar pentru dumneavoastră.\n\nSpre seară, reveniți în oraș. Străzile iluminate vă ghidează spre Centrul Cultural Diexodos, unde ziua se încheie cu povești locale.",
-            "en": "Messolongi's flat terrain makes cycling a winter joy, provided you shield yourself from the breeze. Start refreshed at the Garden of Heroes.\n\nAt midday, cycle along the lagoon. The cool, crisp air offers long-range views to the mountains while the movement keeps you warm.\n\nThe highlight is the ride to Tourlida. The causeway is almost empty in winter, letting you enjoy the lagoon's silence and the birdlife all to yourself.\n\nReturn to town in the late afternoon. The lit-up streets guide you to the Diexodos Cultural Centre, where your day concludes with local history."
+            "en": "Messolongi's flat terrain makes cycling a winter joy, provided you shield yourself from the breeze. Start refreshed at the Garden of Heroes.\n\nAt midday, cycle along the lagoon. The cool, crisp air offers long-range views to the mountains while the movement keeps you warm.\n\nThe highlight is the ride to Tourlida. The causeway is almost empty in winter, letting you enjoy the lagoon's silence and the birdlife all to yourself.\n\nReturn to town in the late afternoon. The lit-up streets guide you to the Diexodos Cultural Centre, where your day concludes with local history.",
+            "el": "Το επίπεδο έδαφος του Μεσολογγίου κάνει την ποδηλασία χειμώνα απόλαυση, εφόσον προστατευτείτε από το ψυχρό αεράκι. Ξεκινήστε ανανεωμένοι στον Κήπο των Ηρώων.\n\nΤο μεσημέρι, ποδηλατήστε κατά μήκος της λιμνοθάλασσας. Ο δροσερός, καθαρός αέρας προσφέρει απρόσκοπτες θέες προς τα βουνά ενώ η κίνηση σας κρατά ζεστούς.\n\nΤο κυριότερο σημείο είναι η διαδρομή προς την Τουρλίδα. Ο δρόμος είναι σχεδόν άδειος τον χειμώνα, επιτρέποντάς σας να απολαύσετε τη σιωπή της λιμνοθάλασσας και τα πουλιά αποκλειστικά για εσάς.\n\nΕπιστρέψτε στην πόλη αργά το απόγευμα. Οι φωτισμένοι δρόμοι σας οδηγούν στο Πολιτιστικό Κέντρο Διέξοδος, όπου η μέρα ολοκληρώνεται με τοπική ιστορία."
           },
           "stops": [
             {
@@ -1064,7 +1146,8 @@
                 "de": "Machen Sie ein paar Aufwärmübungen, bevor Sie losradeln.",
                 "hu": "Végezzen pár bemelegítő gyakorlatot, mielőtt nyeregbe pattan.",
                 "ro": "Faceți câteva exerciții de încălzire înainte de a pleca la drum.",
-                "en": "Do a few warm-up exercises before you start cycling."
+                "en": "Do a few warm-up exercises before you start cycling.",
+                "el": "Κάντε λίγη προθέρμανση πριν ξεκινήσετε να ποδηλατείτε."
               }
             },
             {
@@ -1073,7 +1156,8 @@
                 "de": "Ein guter Ort, um die Hände wieder aufzuwärmen.",
                 "hu": "Jó helyszín, hogy a kezei újra felmelegedjenek.",
                 "ro": "Un loc bun pentru a vă încălzi mâinile.",
-                "en": "A good place to get your hands warm again."
+                "en": "A good place to get your hands warm again.",
+                "el": "Ένα καλό μέρος για να ζεστάνετε ξανά τα χέρια σας."
               }
             },
             {
@@ -1082,7 +1166,8 @@
                 "de": "Halten Sie Ausschau nach Flamingos, die im Winter oft hier sind.",
                 "hu": "Figyelje a flamingókat, amik télen gyakran felbukkannak itt.",
                 "ro": "Căutați flamingo, care sunt adesea prezenți aici iarna.",
-                "en": "Keep an eye out for flamingos, often present here in winter."
+                "en": "Keep an eye out for flamingos, often present here in winter.",
+                "el": "Κρατήστε το μάτι σας για φλαμίνγκο, συχνά εδώ τον χειμώνα."
               }
             },
             {
@@ -1091,7 +1176,8 @@
                 "de": "Der Wind auf dem Damm kann die gefühlte Temperatur senken.",
                 "hu": "A szél a gáton jelentősen csökkentheti a hőérzetet.",
                 "ro": "Vântul de pe dig poate scădea temperatura resimțită.",
-                "en": "The wind on the causeway can lower the perceived temperature."
+                "en": "The wind on the causeway can lower the perceived temperature.",
+                "el": "Ο άνεμος στη λωρίδα πρόσβασης μπορεί να μειώσει την αισθητή θερμοκρασία."
               }
             },
             {
@@ -1100,7 +1186,8 @@
                 "de": "Das Winterlicht bietet fantastische Kontraste für Architekturfotos.",
                 "hu": "A téli fények fantasztikus kontrasztot adnak az épületfotókhoz.",
                 "ro": "Lumina de iarnă oferă contraste fantastice pentru pozele de arhitectură.",
-                "en": "The winter light offers fantastic contrasts for architectural photos."
+                "en": "The winter light offers fantastic contrasts for architectural photos.",
+                "el": "Το χειμερινό φως προσφέρει φανταστικές αντιθέσεις για αρχιτεκτονικές φωτογραφίες."
               }
             },
             {
@@ -1109,7 +1196,8 @@
                 "de": "Prüfen Sie Ihr Fahrradlicht für den Rückweg in der Dunkelheit.",
                 "hu": "Ellenőrizze a kerékpárlámpát a sötétben való visszatéréshez.",
                 "ro": "Verificați luminile bicicletei pentru drumul de întoarcere pe întuneric.",
-                "en": "Check your bike lights for the return journey in the dark."
+                "en": "Check your bike lights for the return journey in the dark.",
+                "el": "Ελέγξτε τα φώτα του ποδηλάτου σας για την επιστροφή στο σκοτάδι."
               }
             }
           ],
@@ -1137,6 +1225,12 @@
               "Days are short; turn on your lights from 16:30 onwards.",
               "The lagoon air is very humid in winter and feels colder.",
               "Plan regular stops for warm drinks in the town center."
+            ],
+            "el": [
+              "Αδιάβροχα γάντια και ένα λεπτό σκουφάκι κάτω από το κράνος είναι απαραίτητα.",
+              "Οι μέρες είναι κοντές· ανάψτε τα φώτα σας από τις 16:30 και μετά.",
+              "Ο αέρας της λιμνοθάλασσας είναι πολύ υγρός τον χειμώνα και φαίνεται πιο κρύος.",
+              "Σχεδιάστε τακτικές στάσεις για ζεστά ροφήματα στο κέντρο της πόλης."
             ]
           }
         }
@@ -1155,7 +1249,8 @@
             "de": "Garten der Helden",
             "hu": "Hősök kertje",
             "ro": "Grădina Eroilor",
-            "en": "Garden of Heroes"
+            "en": "Garden of Heroes",
+            "el": "Κήπος των Ηρώων"
           },
           "coords": [
             21.4275,
@@ -1171,7 +1266,8 @@
             "de": "Parken Sie in der Nähe und beginnen Sie Ihren Rundgang durch das historische Zentrum.",
             "hu": "Parkoljon a közelben, és kezdje meg a történelmi központ bejárását.",
             "ro": "Parcați în apropiere și începeți turul pe jos al centrului istoric.",
-            "en": "Park nearby and start your walking tour of the historic center."
+            "en": "Park nearby and start your walking tour of the historic center.",
+            "el": "Σταθμεύστε κοντά και ξεκινήστε την πεζοπορική σας ξενάγηση στο ιστορικό κέντρο."
           }
         },
         {
@@ -1179,7 +1275,8 @@
             "de": "Museum für Geschichte und Kunst",
             "hu": "Történeti és Művészeti Múzeum",
             "ro": "Muzeul de Istorie și Artă",
-            "en": "Museum of History and Art"
+            "en": "Museum of History and Art",
+            "el": "Μουσείο Ιστορίας και Τέχνης"
           },
           "coords": [
             21.4295,
@@ -1195,7 +1292,8 @@
             "de": "Ein kurzer Spaziergang vom Garten zum Eintauchen in die Vergangenheit.",
             "hu": "Rövid séta a kertből a múltba való elmerüléshez.",
             "ro": "O scurtă plimbare de la grădină pentru o imersiune în trecut.",
-            "en": "A short walk from the garden for an immersion into the past."
+            "en": "A short walk from the garden for an immersion into the past.",
+            "el": "Μικρή πεζή απόσταση από τον κήπο για μια βουτιά στο παρελθόν."
           }
         },
         {
@@ -1203,7 +1301,8 @@
             "de": "Kirche Agios Spyridon",
             "hu": "Agios Spyridon templom",
             "ro": "Biserica Agios Spyridon",
-            "en": "Church of Agios Spyridon"
+            "en": "Church of Agios Spyridon",
+            "el": "Εκκλησία Αγίου Σπυρίδωνος"
           },
           "coords": [
             21.429,
@@ -1219,7 +1318,8 @@
             "de": "Besuchen Sie diesen historisch bedeutsamen Ort im Herzen der Stadt.",
             "hu": "Látogasson el erre a történelmileg jelentős helyre a város szívében.",
             "ro": "Vizitați acest loc important din punct de vedere istoric în inima orașului.",
-            "en": "Visit this historically significant site in the heart of the city."
+            "en": "Visit this historically significant site in the heart of the city.",
+            "el": "Επισκεφθείτε αυτόν τον ιστορικά σημαντικό χώρο στην καρδιά της πόλης."
           }
         },
         {
@@ -1227,7 +1327,8 @@
             "de": "Insel Tourlida",
             "hu": "Tourlida-sziget",
             "ro": "Insula Tourlida",
-            "en": "Tourlida Island"
+            "en": "Tourlida Island",
+            "el": "Νησί Τουρλίδα"
           },
           "coords": [
             21.41,
@@ -1243,7 +1344,8 @@
             "de": "Fahren Sie über den Damm für ein Mittagessen mit spektakulärer Aussicht.",
             "hu": "Hajtson át a gáton egy látványos kilátással kecsegtető ebédért.",
             "ro": "Conduceți peste dig pentru un prânz cu o priveliște spectaculoasă.",
-            "en": "Drive across the causeway for lunch with a spectacular view."
+            "en": "Drive across the causeway for lunch with a spectacular view.",
+            "el": "Οδηγήστε πέρα από τη λωρίδα πρόσβασης για μεσημεριανό με θεαματική θέα."
           }
         },
         {
@@ -1251,7 +1353,8 @@
             "de": "Leuchtturm von Tourlida",
             "hu": "Tourlida világítótornya",
             "ro": "Farul din Tourlida",
-            "en": "Lighthouse of Tourlida"
+            "en": "Lighthouse of Tourlida",
+            "el": "Φάρος της Τουρλίδας"
           },
           "coords": [
             21.408,
@@ -1267,7 +1370,8 @@
             "de": "Spazieren Sie nach dem Mittagessen zum Leuchtturm für ein paar tolle Fotos.",
             "hu": "Ebéd után sétáljon el a világítótoronyhoz néhány remek fotóért.",
             "ro": "După prânz, faceți o plimbare până la far pentru niște fotografii grozave.",
-            "en": "After lunch, take a stroll to the lighthouse for some great photos."
+            "en": "After lunch, take a stroll to the lighthouse for some great photos.",
+            "el": "Μετά το γεύμα, κάντε μια βόλτα μέχρι το φάρο για εξαιρετικές φωτογραφίες."
           }
         },
         {
@@ -1275,7 +1379,8 @@
             "de": "Trikoupis-Museum",
             "hu": "Trikoupis Múzeum",
             "ro": "Muzeul Trikoupis",
-            "en": "Trikoupis Museum"
+            "en": "Trikoupis Museum",
+            "el": "Μουσείο Τρικούπη"
           },
           "coords": [
             21.428,
@@ -1291,7 +1396,8 @@
             "de": "Fahren Sie zurück ins Stadtzentrum und besuchen Sie das Haus des ehemaligen Premierministers.",
             "hu": "Hajtson vissza a városközpontba, és látogassa meg az egykori miniszterelnök házát.",
             "ro": "Întoarceți-vă în centrul orașului și vizitați casa fostului prim-ministru.",
-            "en": "Drive back to the city center and visit the home of the former Prime Minister."
+            "en": "Drive back to the city center and visit the home of the former Prime Minister.",
+            "el": "Επιστρέψτε στο κέντρο της πόλης με το αυτοκίνητο και επισκεφθείτε το σπίτι του πρώην Πρωθυπουργού."
           }
         },
         {
@@ -1299,7 +1405,8 @@
             "de": "Lagune von Messolongi",
             "hu": "Messolongi-lagúna",
             "ro": "Laguna Messolongi",
-            "en": "Messolongi Lagoon"
+            "en": "Messolongi Lagoon",
+            "el": "Λιμνοθάλασσα Μεσολογγίου"
           },
           "coords": [
             21.425,
@@ -1315,7 +1422,8 @@
             "de": "Beenden Sie den Tag mit einem kurzen Spaziergang zum Ufer, um den Sonnenuntergang zu genießen.",
             "hu": "Zárja a napot egy rövid sétával a parthoz, hogy élvezze a naplementét.",
             "ro": "Încheiați ziua cu o scurtă plimbare până la mal pentru a vă bucura de apus.",
-            "en": "End your day with a short walk to the shore to enjoy the sunset."
+            "en": "End your day with a short walk to the shore to enjoy the sunset.",
+            "el": "Κλείστε την ημέρα σας με μια σύντομη βόλτα στην ακτή για να απολαύσετε το ηλιοβασίλεμα."
           }
         }
       ],
@@ -1323,7 +1431,8 @@
         "de": "Ihr Autotag beginnt im Zentrum von Messolongi. Sie parken und erkunden den ersten Cluster zu Fuß: den Garten der Helden, das Museum und die Kirche. Diese Gegend ist reich an Geschichte. Nach diesem historischen Vormittag fahren Sie über den beeindruckenden Damm zur Insel Tourlida. Hier, im zweiten Cluster, genießen Sie ein entspanntes Mittagessen am Wasser und spazieren zum malerischen Leuchtturm. Am Nachmittag fahren Sie zurück in die Stadt, um das Trikoupis-Museum zu besuchen, bevor Sie den Tag mit einem Spaziergang zur Lagune beenden, um den Sonnenuntergang über dem stillen Wasser zu beobachten.",
         "hu": "Autós napja Messolongi központjában kezdődik. Leparkol, és gyalog fedezi fel az első klasztert: a Hősök kertjét, a múzeumot és a templomot. Ez a terület gazdag történelemben. A történelmi délelőtt után a lenyűgöző gáton át a Tourlida-szigetre hajt. Itt, a második klaszterben egy nyugodt ebédet fogyaszt el a vízparton, és elsétál a festői világítótoronyhoz. Délután visszatér a városba, hogy meglátogassa a Trikoupis Múzeumot, mielőtt a lagúnához tett sétával zárja a napot, hogy megnézze a naplementét a csendes víz felett.",
         "ro": "Ziua cu mașina începe în centrul orașului Messolongi. Parcați și explorați primul grup de obiective pe jos: Grădina Eroilor, muzeul și biserica. Această zonă este bogată în istorie. După această dimineață istorică, conduceți peste digul impresionant spre Insula Tourlida. Aici, în al doilea grup, vă bucurați de un prânz relaxant pe malul apei și faceți o plimbare până la farul pitoresc. După-amiaza, vă întoarceți în oraș pentru a vizita Muzeul Trikoupis, înainte de a încheia ziua cu o plimbare spre lagună pentru a privi apusul peste apa liniștită.",
-        "en": "Your car day starts in the center of Messolongi. You'll park and explore the first cluster on foot: the Garden of Heroes, the museum, and the church. This area is rich with history. After this historical morning, you'll drive across the impressive causeway to Tourlida Island. Here, in the second cluster, you'll enjoy a relaxed lunch by the water and stroll to the picturesque lighthouse. In the afternoon, you'll drive back into town to visit the Trikoupis Museum before ending the day with a walk to the lagoon to watch the sunset over the still water."
+        "en": "Your car day starts in the center of Messolongi. You'll park and explore the first cluster on foot: the Garden of Heroes, the museum, and the church. This area is rich with history. After this historical morning, you'll drive across the impressive causeway to Tourlida Island. Here, in the second cluster, you'll enjoy a relaxed lunch by the water and stroll to the picturesque lighthouse. In the afternoon, you'll drive back into town to visit the Trikoupis Museum before ending the day with a walk to the lagoon to watch the sunset over the still water.",
+        "el": "Η ημέρα σας με αυτοκίνητο ξεκινά στο κέντρο του Μεσολογγίου. Θα σταθμεύσετε και θα εξερευνήσετε με τα πόδια την πρώτη ομάδα: τον Κήπο των Ηρώων, το μουσείο και την εκκλησία. Αυτή η περιοχή είναι πλούσια σε ιστορία. Μετά το ιστορικό αυτό πρωί, θα οδηγήσετε πάνω στην εντυπωσιακή λωρίδα πρόσβασης προς το νησί Τουρλίδα. Εκεί, στη δεύτερη ομάδα, θα απολαύσετε ένα χαλαρό γεύμα δίπλα στο νερό και θα περπατήσετε μέχρι τον γραφικό φάρο. Το απόγευμα, θα επιστρέψετε στην πόλη για να επισκεφθείτε το Μουσείο Τρικούπη πριν κλείσετε την ημέρα με μια βόλτα στη λιμνοθάλασσα για να παρακολουθήσετε το ηλιοβασίλεμα πάνω από τα ήρεμα νερά."
       },
       "gastro_picks": {
         "de": [
@@ -1519,6 +1628,12 @@
           "The road to Tourlida is narrow, drive with care.",
           "A GPS is useful for navigating between clusters.",
           "Plan some buffer time for traffic, even though the town is small."
+        ],
+        "el": [
+          "Ελέγξτε τις επιλογές στάθμευσης εκ των προτέρων, ειδικά στο κέντρο της πόλης.",
+          "Ο δρόμος προς την Τουρλίδα είναι στενός, οδηγήστε με προσοχή.",
+          "Ένα GPS είναι χρήσιμο για να πλοηγηθείτε μεταξύ των ομάδων.",
+          "Προβλέψτε λίγο επιπλέον χρόνο για κυκλοφορία, ακόμη κι αν η πόλη είναι μικρή."
         ]
       },
       "variants": {
@@ -1527,7 +1642,8 @@
             "de": "Mit dem Auto erkunden Sie Messolongi auch bei Regen entspannt. Starten Sie am Garten der Helden, wo Sie nah am Eingang parken können, um trocken zu bleiben.\n\nMittags bietet das Geschichts- und Kunstmuseum eine tiefgehende kulturelle Erfahrung, während das Auto sicher in den umliegenden Straßen steht.\n\nDie Fahrt zur Insel Tourlida ist bei Regen besonders reizvoll. Aus dem trockenen Fahrzeug beobachten Sie das tosende Meer und die Wellen, die gegen den Damm schlagen.\n\nBeenden Sie Ihre Tour an der Lagune. Der Blick durch die regennasse Windschutzscheibe auf die Pfahlbauten verleiht der Szenerie eine fast filmische Qualität.",
             "hu": "Autóval esőben is kényelmesen felfedezheti Messolongit. Kezdje a Hősök Kertjénél, ahol a bejárathoz közel parkolva szárazon megúszhatja a látogatást.\n\nDélben a Történeti és Művészeti Múzeum mély kulturális élményt nyújt, miközben az autó biztonságban várja a közeli utcákban.\n\nA Tourlida szigetére vezető út esőben különösen hangulatos. A száraz utastérből figyelheti a hullámzó tengert, ahogy a víz a gátnak csapódik.\n\nZárja a túrát a lagúnánál. Az esőáztatta szélvédőn keresztül nézve a cölöpházak látványa szinte filmszerű élményt nyújt.",
             "ro": "Cu mașina, puteți explora Messolongi relaxat chiar și pe ploaie. Începeți la Grădina Eroilor, unde puteți parca aproape de intrare pentru a rămâne uscat.\n\nLa prânz, Muzeul de Istorie și Artă oferă o experiență culturală profundă, în timp ce mașina este în siguranță pe străzile din jur.\n\nDrumul spre Insula Tourlida este deosebit de pitoresc pe ploaie. Din interiorul uscat al vehiculului, puteți observa marea agitată și valurile care lovesc digul.\n\nÎncheiați turul la lagună. Vederea caselor pe piloni prin parbrizul ud de ploaie conferă peisajului o calitate aproape cinematografică.",
-            "en": "Exploring Messolongi by car keeps you comfortable even in the rain. Start at the Garden of Heroes, parking close to the entrance to stay dry.\n\nAt midday, the Museum of History and Art offers an in-depth cultural experience while your car is safely tucked away on the nearby streets.\n\nThe drive to Tourlida Island is especially atmospheric in the rain. From your dry cabin, you can watch the churning sea and waves crashing against the causeway.\n\nConclude your tour at the lagoon. Looking through the rain-streaked windshield at the stilt houses gives the scenery an almost cinematic quality."
+            "en": "Exploring Messolongi by car keeps you comfortable even in the rain. Start at the Garden of Heroes, parking close to the entrance to stay dry.\n\nAt midday, the Museum of History and Art offers an in-depth cultural experience while your car is safely tucked away on the nearby streets.\n\nThe drive to Tourlida Island is especially atmospheric in the rain. From your dry cabin, you can watch the churning sea and waves crashing against the causeway.\n\nConclude your tour at the lagoon. Looking through the rain-streaked windshield at the stilt houses gives the scenery an almost cinematic quality.",
+            "el": "Η εξερεύνηση του Μεσολογγίου με αυτοκίνητο σας κρατά άνετους ακόμη και στη βροχή. Ξεκινήστε από τον Κήπο των Ηρώων, σταθμεύοντας κοντά στην είσοδο για να μείνετε στεγνοί.\n\nΤο μεσημέρι, το Μουσείο Ιστορίας και Τέχνης προσφέρει μια βαθιά πολιτιστική εμπειρία ενώ το αυτοκίνητό σας παραμένει ασφαλές στους κοντινούς δρόμους.\n\nΗ οδήγηση προς το νησί Τουρλίδα είναι ιδιαίτερα ατμοσφαιρική στη βροχή. Από την ξηρή καμπίνα σας, μπορείτε να παρακολουθήσετε τη θάλασσα να σπαρταρά και τα κύματα να σκάνε στη λωρίδα πρόσβασης.\n\nΟλοκληρώστε την ξενάγησή σας στη λιμνοθάλασσα. Κοιτάζοντας μέσα από το παρμπρίζ με ραβδώσεις βροχής στα ξυλοπόδαρα σπίτια, το τοπίο αποκτά σχεδόν κινηματογραφική ποιότητα."
           },
           "stops": [
             {
@@ -1536,7 +1652,8 @@
                 "de": "Parkplätze sind direkt am Haupteingang an der Straße vorhanden.",
                 "hu": "Parkolóhelyek közvetlenül a főbejáratnál, az út mentén találhatók.",
                 "ro": "Locurile de parcare sunt disponibile chiar lângă intrarea principală.",
-                "en": "Parking spaces are available right by the main entrance on the street."
+                "en": "Parking spaces are available right by the main entrance on the street.",
+                "el": "Υπάρχουν θέσεις στάθμευσης ακριβώς δίπλα στην κεντρική είσοδο στον δρόμο."
               }
             },
             {
@@ -1545,7 +1662,8 @@
                 "de": "Das Parken im Zentrum kann bei Regen aufgrund vieler Autos schwierig sein.",
                 "hu": "A központban a parkolás esőben a sok autó miatt nehézkes lehet.",
                 "ro": "Parcarea în centru poate fi dificilă pe ploaie din cauza aglomerației.",
-                "en": "Parking in the center can be tricky in the rain due to high traffic."
+                "en": "Parking in the center can be tricky in the rain due to high traffic.",
+                "el": "Η στάθμευση στο κέντρο μπορεί να είναι δύσκολη στη βροχή λόγω αυξημένης κυκλοφορίας."
               }
             },
             {
@@ -1554,7 +1672,8 @@
                 "de": "Kurzzeitparken für einen schnellen Besuch der Kirche ist oft möglich.",
                 "hu": "Rövid idejű parkolás a templom gyors meglátogatásához megoldható.",
                 "ro": "Parcarea pe termen scurt pentru o vizită rapidă la biserică este posibilă.",
-                "en": "Short-term parking for a quick visit to the church is often feasible."
+                "en": "Short-term parking for a quick visit to the church is often feasible.",
+                "el": "Η βραχυχρόνια στάθμευση για μια γρήγορη επίσκεψη στην εκκλησία είναι συχνά εφικτή."
               }
             },
             {
@@ -1563,7 +1682,8 @@
                 "de": "Fahren Sie langsam auf dem Damm, um Aquaplaning zu vermeiden.",
                 "hu": "Hajtson lassan a gáton, hogy elkerülje a felúszást a vízen.",
                 "ro": "Conduceți încet pe dig pentru a evita acvaplanarea.",
-                "en": "Drive slowly on the causeway to avoid aquaplaning."
+                "en": "Drive slowly on the causeway to avoid aquaplaning.",
+                "el": "Οδηγήστε αργά στη λωρίδα πρόσβασης για να αποφύγετε το υδρολίσθηση."
               }
             },
             {
@@ -1572,7 +1692,8 @@
                 "de": "Genießen Sie den Blick auf den Leuchtturm direkt aus dem Fenster.",
                 "hu": "Élvezze a világítótorony látványát közvetlenül az autó ablakából.",
                 "ro": "Bucurați-vă de vederea farului direct de la fereastra mașinii.",
-                "en": "Enjoy the view of the lighthouse directly from your car window."
+                "en": "Enjoy the view of the lighthouse directly from your car window.",
+                "el": "Απολαύστε τη θέα του φάρου απευθείας από το παράθυρο του αυτοκινήτου σας."
               }
             },
             {
@@ -1581,7 +1702,8 @@
                 "de": "Ein schöner Ort, um mehr über die griechische Politik im Trockenen zu lernen.",
                 "hu": "Remek helyszín a görög politikáról tanulni, védve az esőtől.",
                 "ro": "Un loc excelent pentru a învăța despre politica elenă la adăpost.",
-                "en": "A great spot to learn about Greek politics while staying dry."
+                "en": "A great spot to learn about Greek politics while staying dry.",
+                "el": "Ένα εξαιρετικό μέρος για να μάθετε για την ελληνική πολιτική ενώ παραμένετε στεγνοί."
               }
             },
             {
@@ -1590,7 +1712,8 @@
                 "de": "Parken Sie am Straßenrand für ein letztes Panorama der Lagune.",
                 "hu": "Parkoljon az út szélén a lagúna utolsó panorámájához.",
                 "ro": "Parcați pe marginea drumului pentru o ultimă panoramă a lagunei.",
-                "en": "Park on the roadside for a final panorama of the lagoon."
+                "en": "Park on the roadside for a final panorama of the lagoon.",
+                "el": "Σταθμεύστε στο δρόμο για ένα τελευταίο πανόραμα της λιμνοθάλασσας."
               }
             }
           ],
@@ -1618,6 +1741,12 @@
               "Use parking spots close to museums to minimize walking in the rain.",
               "Check the condition of your windshield wipers before setting off.",
               "Some streets in the center are one-way; follow the GPS closely."
+            ],
+            "el": [
+              "Προσέξτε βαθουλώματα με νερό που μπορεί να κρύβουν λακκούβες.",
+              "Χρησιμοποιήστε θέσεις στάθμευσης κοντά στα μουσεία για να ελαχιστοποιήσετε το περπάτημα στη βροχή.",
+              "Ελέγξτε την κατάσταση των υαλοκαθαριστήρων πριν ξεκινήσετε.",
+              "Μερικοί δρόμοι στο κέντρο είναι μονόδρομοι· ακολουθήστε προσεκτικά το GPS."
             ]
           }
         },
@@ -1626,7 +1755,8 @@
             "de": "Wintertage in Messolongi sind ideal für eine Erkundungstour mit dem Auto. Beginnen Sie am Garten der Helden, wo die Denkmäler im kühlen Licht klar hervortreten.\n\nMittags besuchen Sie das Geschichts- und Kunstmuseum im Stadtzentrum. Die kurzen Wege vom Parkplatz schützen Sie vor dem winterlichen Wind.\n\nDie Fahrt über den Damm nach Tourlida ist im Winter ein Muss. Die klare Luft ermöglicht weite Sicht auf die Lagune und die schneebedeckten Gipfel in der Ferne.\n\nDen Tag beschließen Sie am Trikoupis-Museum und der Lagune. Im warmen Auto sitzend, können Sie beobachten, wie die Wintersonne früh hinter dem Horizont verschwindet.",
             "hu": "A téli napok Messolongiban ideálisak egy autós felfedezőúthoz. Kezdje a Hősök Kertjénél, ahol az emlékművek a hűvös fényben élesen rajzolódnak ki.\n\nDélben látogassa meg a Történeti és Művészeti Múzeumot a belvárosban. A parkolótól mért rövid távolság megvédi a téli széltől.\n\nA Tourlida felé vezető gáton való áthajtás télen kötelező program. A tiszta levegőben messzire ellátni a lagúnán túl a távoli havas csúcsokig.\n\nA napot a Trikoupis-múzeumnál és a lagúnánál zárja. A meleg autóban ülve nézheti végig, ahogy a téli nap korán eltűnik a horizont mögött.",
             "ro": "Zilele de iarnă în Messolongi sunt ideale pentru o explorare cu mașina. Începeți la Grădina Eroilor, unde monumentele se profilează clar în lumina rece.\n\nLa prânz, vizitați Muzeul de Istorie și Artă din centrul orașului. Distanțele scurte de la parcare vă protejează de vântul de iarnă.\n\nDrumul pe dig spre Tourlida este obligatoriu iarna. Aerul curat permite o vizibilitate extinsă asupra lagunei și a vârfurilor înzăpezite din depărtare.\n\nÎncheiați ziua la Muzeul Trikoupis și la lagună. Din confortul mașinii încălzite, puteți privi cum soarele de iarnă apune devreme la orizont.",
-            "en": "Winter days in Messolongi are perfect for a car tour. Start at the Garden of Heroes, where the monuments stand out sharply in the crisp, cool light.\n\nAt midday, visit the Museum of History and Art in the city center. Short walks from the parking areas keep you shielded from the winter wind.\n\nThe drive across the causeway to Tourlida is a must in winter. The clear air offers far-reaching views across the lagoon to the snow-capped peaks in the distance.\n\nWrap up your day at the Trikoupis Museum and the lagoon. From your warm car, you can watch the winter sun dip early below the horizon."
+            "en": "Winter days in Messolongi are perfect for a car tour. Start at the Garden of Heroes, where the monuments stand out sharply in the crisp, cool light.\n\nAt midday, visit the Museum of History and Art in the city center. Short walks from the parking areas keep you shielded from the winter wind.\n\nThe drive across the causeway to Tourlida is a must in winter. The clear air offers far-reaching views across the lagoon to the snow-capped peaks in the distance.\n\nWrap up your day at the Trikoupis Museum and the lagoon. From your warm car, you can watch the winter sun dip early below the horizon.",
+            "el": "Οι χειμερινές ημέρες στο Μεσολόγγι είναι ιδανικές για εκδρομή με αυτοκίνητο. Ξεκινήστε από τον Κήπο των Ηρώων, όπου τα μνημεία ξεχωρίζουν έντονα στο δροσερό, καθαρό φως.\n\nΤο μεσημέρι, επισκεφθείτε το Μουσείο Ιστορίας και Τέχνης στο κέντρο της πόλης. Σύντομες βόλτες από τις περιοχές στάθμευσης σας κρατούν θωρακισμένους από τον χειμερινό άνεμο.\n\nΗ διαδρομή πάνω στη λωρίδα πρόσβασης προς την Τουρλίδα είναι απαραίτητη τον χειμώνα. Ο καθαρός αέρας προσφέρει απρόσκοπτη θέα στη λιμνοθάλασσα προς τις χιονισμένες κορυφές στο βάθος.\n\nΟλοκληρώστε την ημέρα σας στο Μουσείο Τρικούπη και στη λιμνοθάλασσα. Από το ζεστό αυτοκίνητό σας, μπορείτε να παρακολουθήσετε τον χειμερινό ήλιο να βυθίζεται νωρίς κάτω από τον ορίζοντα."
           },
           "stops": [
             {
@@ -1635,7 +1765,8 @@
                 "de": "Das Licht am Morgen ist perfekt für klare Fotos der Monumente.",
                 "hu": "A reggeli fények tökéletesek az emlékművek tiszta fotózásához.",
                 "ro": "Lumina dimineții este perfectă pentru fotografii clare ale monumentelor.",
-                "en": "Morning light is perfect for clear photos of the monuments."
+                "en": "Morning light is perfect for clear photos of the monuments.",
+                "el": "Το πρωινό φως είναι τέλειο για καθαρές φωτογραφίες των μνημείων."
               }
             },
             {
@@ -1644,7 +1775,8 @@
                 "de": "Ein gut beheizter Ort, um die lokale Kunst zu genießen.",
                 "hu": "Jól fűtött helyszín a helyi művészet élvezetéhez.",
                 "ro": "Un spațiu bine încălzit pentru a vă bucura de arta locală.",
-                "en": "A well-heated space to enjoy the local art."
+                "en": "A well-heated space to enjoy the local art.",
+                "el": "Ένας καλά θερμαινόμενος χώρος για να απολαύσετε την τοπική τέχνη."
               }
             },
             {
@@ -1653,7 +1785,8 @@
                 "de": "Parken Sie kurz in der Nähe, um die festliche Winterstimmung zu sehen.",
                 "hu": "Parkoljon le a közelben, hogy lássa az ünnepi téli díszítést.",
                 "ro": "Parcați scurt în apropiere pentru a vedea decorul festiv de iarnă.",
-                "en": "Park briefly nearby to see the festive winter decorations."
+                "en": "Park briefly nearby to see the festive winter decorations.",
+                "el": "Σταθμεύστε σύντομα κοντά για να δείτε τις εορταστικές χειμωνιάτικες διακοσμήσεις."
               }
             },
             {
@@ -1662,7 +1795,8 @@
                 "de": "Die Cafés auf der Insel bieten im Winter gemütliche Innenplätze.",
                 "hu": "A sziget kávézói télen hangulatos belső asztalokat kínálnak.",
                 "ro": "Cafenelele de pe insulă oferă locuri interioare primitoare iarna.",
-                "en": "Cafes on the island offer cozy indoor seating in winter."
+                "en": "Cafes on the island offer cozy indoor seating in winter.",
+                "el": "Καφετέριες στο νησί προσφέρουν ζεστά, εσωτερικά καθίσματα τον χειμώνα."
               }
             },
             {
@@ -1671,7 +1805,8 @@
                 "de": "Ein idealer Aussichtspunkt für den frühen Sonnenuntergang.",
                 "hu": "Ideális kilátópont a korai naplemente megtekintéséhez.",
                 "ro": "Un punct de observație ideal pentru apusul devreme.",
-                "en": "An ideal vantage point for the early sunset."
+                "en": "An ideal vantage point for the early sunset.",
+                "el": "Ιδανικό σημείο για το νωπό ηλιοβασίλεμα."
               }
             },
             {
@@ -1680,7 +1815,8 @@
                 "de": "Die historischen Exponate sind im Winterlicht besonders gut sichtbar.",
                 "hu": "A történelmi kiállítási tárgyak a téli fényben különösen jól látszanak.",
                 "ro": "Exponatele istorice sunt deosebit de clare în lumina iernii.",
-                "en": "The historical exhibits are particularly clear in the winter light."
+                "en": "The historical exhibits are particularly clear in the winter light.",
+                "el": "Τα ιστορικά εκθέματα είναι ιδιαίτερα καθαρά στο χειμερινό φως."
               }
             },
             {
@@ -1689,7 +1825,8 @@
                 "de": "Beobachten Sie das winterliche Vogelleben direkt vom Auto aus.",
                 "hu": "Figyelje meg a téli madárvilágot közvetlenül az autóból.",
                 "ro": "Observați fauna aviară de iarnă direct din mașină.",
-                "en": "Observe the winter birdlife directly from your car."
+                "en": "Observe the winter birdlife directly from your car.",
+                "el": "Παρατηρήστε τα χειμωνιάτικα πτηνά απευθείας από το αυτοκίνητό σας."
               }
             }
           ],
@@ -1717,6 +1854,12 @@
               "Roads might be slightly slippery in the early morning due to frost.",
               "Finding parking at the Garden of Heroes is completely stress-free in winter.",
               "Check your windshield washer fluid for antifreeze protection."
+            ],
+            "el": [
+              "Αποφύγετε το ρελαντί του κινητήρα ενώ απολαμβάνετε τη θέα από το αυτοκίνητο.",
+              "Οι δρόμοι μπορεί να είναι ελαφρώς ολισθηροί νωρίς το πρωί λόγω παγετού.",
+              "Η εύρεση πάρκινγκ στον Κήπο των Ηρώων είναι απόλυτα χωρίς άγχος τον χειμώνα.",
+              "Ελέγξτε το υγρό πλύσης του παρμπρίζ για προστασία από παγετό."
             ]
           }
         }
@@ -1735,7 +1878,8 @@
             "de": "Garten der Helden",
             "hu": "Hősök kertje",
             "ro": "Grădina Eroilor",
-            "en": "Garden of Heroes"
+            "en": "Garden of Heroes",
+            "el": "Κήπος των Ηρώων"
           },
           "coords": [
             21.4275,
@@ -1751,7 +1895,8 @@
             "de": "Nehmen Sie einen Bus zum zentralen Platz und beginnen Sie Ihren Tag hier.",
             "hu": "Menjen busszal a központi térre, és kezdje itt a napot.",
             "ro": "Luați un autobuz spre piața centrală și începeți ziua de aici.",
-            "en": "Take a bus to the central square and start your day here."
+            "en": "Take a bus to the central square and start your day here.",
+            "el": "Πάρτε ένα λεωφορείο στην κεντρική πλατεία και ξεκινήστε την ημέρα σας εδώ."
           }
         },
         {
@@ -1759,7 +1904,8 @@
             "de": "Museum für Geschichte und Kunst",
             "hu": "Történeti és Művészeti Múzeum",
             "ro": "Muzeul de Istorie și Artă",
-            "en": "Museum of History and Art"
+            "en": "Museum of History and Art",
+            "el": "Μουσείο Ιστορίας και Τέχνης"
           },
           "coords": [
             21.4295,
@@ -1775,7 +1921,8 @@
             "de": "Alles im Zentrum ist leicht zu Fuß erreichbar.",
             "hu": "A központban minden könnyen elérhető gyalog.",
             "ro": "Totul în centru este ușor accesibil pe jos.",
-            "en": "Everything in the center is easily walkable."
+            "en": "Everything in the center is easily walkable.",
+            "el": "Όλα στο κέντρο είναι εύκολα προσβάσιμα με τα πόδια."
           }
         },
         {
@@ -1783,7 +1930,8 @@
             "de": "Kirche Agios Spyridon",
             "hu": "Agios Spyridon templom",
             "ro": "Biserica Agios Spyridon",
-            "en": "Church of Agios Spyridon"
+            "en": "Church of Agios Spyridon",
+            "el": "Εκκλησία Αγίου Σπυρίδωνος"
           },
           "coords": [
             21.429,
@@ -1799,7 +1947,8 @@
             "de": "Ein kurzer Spaziergang vom Museum zu diesem wichtigen Wahrzeichen.",
             "hu": "Rövid séta a múzeumtól ehhez a fontos nevezetességhez.",
             "ro": "O scurtă plimbare de la muzeu la acest reper important.",
-            "en": "A short walk from the museum to this important landmark."
+            "en": "A short walk from the museum to this important landmark.",
+            "el": "Μικρή βόλτα από το μουσείο ως αυτό το σημαντικό ορόσημο."
           }
         },
         {
@@ -1807,7 +1956,8 @@
             "de": "Lagune von Messolongi",
             "hu": "Messolongi-lagúna",
             "ro": "Laguna Messolongi",
-            "en": "Messolongi Lagoon"
+            "en": "Messolongi Lagoon",
+            "el": "Λιμνοθάλασσα Μεσολογγίου"
           },
           "coords": [
             21.425,
@@ -1823,7 +1973,8 @@
             "de": "Nehmen Sie einen lokalen Bus in Richtung Tourlida und steigen Sie in der Nähe der Lagune aus. Zeit für Mittagessen.",
             "hu": "Menjen helyi busszal Tourlida irányába, és szálljon le a lagúna közelében. Ideje ebédelni.",
             "ro": "Luați un autobuz local spre Tourlida și coborâți lângă lagună. Timp pentru prânz.",
-            "en": "Take a local bus towards Tourlida and get off near the lagoon. Time for lunch."
+            "en": "Take a local bus towards Tourlida and get off near the lagoon. Time for lunch.",
+            "el": "Πάρτε ένα τοπικό λεωφορείο προς την Τουρλίδα και κατεβείτε κοντά στη λιμνοθάλασσα. Ώρα για μεσημεριανό."
           }
         },
         {
@@ -1831,7 +1982,8 @@
             "de": "Lord Byron Statue",
             "hu": "Lord Byron szobra",
             "ro": "Statuia Lordului Byron",
-            "en": "Lord Byron Statue"
+            "en": "Lord Byron Statue",
+            "el": "Άγαλμα του Λόρδου Βύρωνα"
           },
           "coords": [
             21.428,
@@ -1847,7 +1999,8 @@
             "de": "Spazieren Sie nach dem Mittagessen zu diesem Denkmal.",
             "hu": "Ebéd után sétáljon el ehhez az emlékműhöz.",
             "ro": "După prânz, faceți o plimbare până la acest monument.",
-            "en": "After lunch, take a walk to this monument."
+            "en": "After lunch, take a walk to this monument.",
+            "el": "Μετά το μεσημεριανό, περπατήστε μέχρι αυτό το μνημείο."
           }
         },
         {
@@ -1855,7 +2008,8 @@
             "de": "Kulturzentrum Diexodos",
             "hu": "Diexodos Kulturális Központ",
             "ro": "Centrul Cultural Diexodos",
-            "en": "Diexodos Cultural Centre"
+            "en": "Diexodos Cultural Centre",
+            "el": "Πολιτιστικό Κέντρο Διέξοδος"
           },
           "coords": [
             21.426,
@@ -1871,7 +2025,8 @@
             "de": "Ein letzter kurzer Spaziergang, um den kulturellen Puls der Stadt zu spüren.",
             "hu": "Egy utolsó rövid séta, hogy megérezze a város kulturális lüktetését.",
             "ro": "O ultimă plimbare scurtă pentru a simți pulsul cultural al orașului.",
-            "en": "A final short walk to feel the cultural pulse of the city."
+            "en": "A final short walk to feel the cultural pulse of the city.",
+            "el": "Μια τελευταία σύντομη βόλτα για να νιώσετε τον πολιτιστικό παλμό της πόλης."
           }
         }
       ],
@@ -1879,7 +2034,8 @@
         "de": "Ihre Erkundung mit öffentlichen Verkehrsmitteln beginnt im historischen Zentrum, das Sie nach einer kurzen Busfahrt erreichen. Der Vormittag ist ein Spaziergang durch den ersten Cluster: den Garten der Helden, das Museum und die Kirche. Nach diesem kulturellen Eintauchen nehmen Sie einen weiteren Bus, der Sie aus der Stadt hinaus in Richtung der Lagune bringt. In diesem zweiten Cluster verbringen Sie den Nachmittag mit einem Mittagessen am Wasser, einem Spaziergang zu Ehren Lord Byrons und einem Besuch des Diexodos-Kulturzentrums, bevor Sie mit dem Bus zurückfahren.",
         "hu": "A tömegközlekedéssel való felfedezés a történelmi központban kezdődik, ahová egy rövid buszút után érkezik. A délelőtt egy séta az első klaszteren keresztül: a Hősök kertje, a múzeum és a templom. E kulturális elmélyülés után egy másik busszal indul ki a városból a lagúna felé. Ebben a második klaszterben tölti a délutánt egy vízparti ebéddel, egy sétával Lord Byron tiszteletére és a Diexodos Kulturális Központ meglátogatásával, mielőtt busszal visszatérne.",
         "ro": "Explorarea cu transportul public începe în centrul istoric, unde ajungeți după o scurtă călătorie cu autobuzul. Dimineața este o plimbare prin primul grup: Grădina Eroilor, muzeul și biserica. După această imersiune culturală, luați un alt autobuz care vă duce în afara orașului spre lagună. În acest al doilea grup, vă petreceți după-amiaza cu un prânz pe malul apei, o plimbare în onoarea Lordului Byron și o vizită la Centrul Cultural Diexodos, înainte de a lua autobuzul înapoi.",
-        "en": "Your exploration by public transport begins in the historic center, reached after a short bus ride. The morning is a walking tour through the first cluster: the Garden of Heroes, the museum, and the church. After this cultural immersion, you take another bus that takes you out of town towards the lagoon. In this second cluster, you'll spend the afternoon with a waterside lunch, a walk in honor of Lord Byron, and a visit to the Diexodos Cultural Centre before taking the bus back."
+        "en": "Your exploration by public transport begins in the historic center, reached after a short bus ride. The morning is a walking tour through the first cluster: the Garden of Heroes, the museum, and the church. After this cultural immersion, you take another bus that takes you out of town towards the lagoon. In this second cluster, you'll spend the afternoon with a waterside lunch, a walk in honor of Lord Byron, and a visit to the Diexodos Cultural Centre before taking the bus back.",
+        "el": "Η εξερεύνησή σας με μέσα μαζικής μεταφοράς ξεκινά στο ιστορικό κέντρο, που φτάνετε μετά από μια σύντομη διαδρομή με λεωφορείο. Το πρωί είναι μια πεζή περιήγηση στην πρώτη ομάδα: τον Κήπο των Ηρώων, το μουσείο και την εκκλησία. Μετά αυτή τη πολιτιστική βύθιση, παίρνετε άλλο λεωφορείο που σας βγάζει εκτός πόλης προς τη λιμνοθάλασσα. Στη δεύτερη αυτή ομάδα, θα περάσετε το απόγευμα με γεύμα δίπλα στο νερό, μια βόλτα προς τιμήν του Λόρδου Βύρωνα και μια επίσκεψη στο Πολιτιστικό Κέντρο Διέξοδος πριν επιστρέψετε με το λεωφορείο."
       },
       "gastro_picks": {
         "de": [
@@ -2075,6 +2231,12 @@
           "Have some small change ready for bus tickets.",
           "Buses may not run very frequently, so plan accordingly.",
           "Ask locals for the correct bus stop if you are unsure."
+        ],
+        "el": [
+          "Ελέγξτε τα δρομολόγια των λεωφορείων εκ των προτέρων.",
+          "Έχετε έτοιμο μικρό ρέστα για εισιτήρια λεωφορείου.",
+          "Τα λεωφορεία μπορεί να μη λειτουργούν πολύ συχνά, οπότε προγραμματίστε ανάλογα.",
+          "Ρωτήστε ντόπιους για τη σωστή στάση αν δεν είστε σίγουροι."
         ]
       },
       "variants": {
@@ -2083,7 +2245,8 @@
             "de": "Nutzen Sie den Nahverkehr und Taxis, um Messolongi bei Regen trocken zu erkunden. Der Garten der Helden ist ein guter Startpunkt mit überdachten Bereichen in der Nähe.\n\nMittags erreichen Sie das Geschichts- und Kunstmuseum bequem. Die kurzen Wege zwischen den Haltestellen minimieren den Kontakt mit dem Wetter.\n\nNachmittags geht es zur Lagune. Der Ausblick aus dem Busfenster bietet ein schönes Panorama der Wasserlandschaft, ohne dass Sie nass werden.\n\nDen Tag lassen Sie im Kulturzentrum Diexodos ausklingen. Die zentrale Lage ermöglicht eine einfache Rückreise mit dem Transit, sobald die Ausstellungen schließen.",
             "hu": "Használja a tömegközlekedést és a taxikat, hogy szárazon fedezze fel Messolongit esőben. A Hősök Kertje jó kezdőpont, a közelben fedett részekkel.\n\nDélben könnyen elérheti a Történeti és Művészeti Múzeumot. A megállók közötti rövid távolság minimalizálja az időjárásnak való kitettséget.\n\nDélután a lagúna felé veheti az irányt. A buszablakból nyíló kilátás szép panorámát nyújt a vizes tájra anélkül, hogy elázna.\n\nA napot a Diexodos Kulturális Központban zárja. A központi elhelyezkedés lehetővé teszi az egyszerű visszautazást a kiállítások megtekintése után.",
             "ro": "Folosiți transportul public și taxiurile pentru a explora Messolongi pe ploaie fără a vă uda. Grădina Eroilor este un punct de start bun, cu zone acoperite în apropiere.\n\nLa prânz, ajungeți ușor la Muzeul de Istorie și Artă. Distanțele scurte între stații minimizează expunerea la intemperii.\n\nDupă-amiaza, îndreptați-vă spre lagună. Vederea de pe fereastra autobuzului oferă o panoramă frumoasă a peisajului acvatic fără a vă uda.\n\nÎncheiați ziua la Centrul Cultural Diexodos. Locația centrală permite o întoarcere ușoară cu transportul public imediat ce expozițiile se închid.",
-            "en": "Use public transport and taxis to stay dry while exploring Messolongi in the rain. The Garden of Heroes is a solid starting point with sheltered areas nearby.\n\nAt midday, reach the Museum of History and Art with ease. Short walks between stops minimize your time out in the weather.\n\nIn the afternoon, head towards the lagoon. The view from the bus window provides a lovely panorama of the watery landscape without getting soaked.\n\nEnd your day at the Diexodos Cultural Centre. Its central location allows for an easy transit return once the exhibitions close for the evening."
+            "en": "Use public transport and taxis to stay dry while exploring Messolongi in the rain. The Garden of Heroes is a solid starting point with sheltered areas nearby.\n\nAt midday, reach the Museum of History and Art with ease. Short walks between stops minimize your time out in the weather.\n\nIn the afternoon, head towards the lagoon. The view from the bus window provides a lovely panorama of the watery landscape without getting soaked.\n\nEnd your day at the Diexodos Cultural Centre. Its central location allows for an easy transit return once the exhibitions close for the evening.",
+            "el": "Χρησιμοποιήστε μέσα μαζικής μεταφοράς και ταξί για να μείνετε στεγνοί κατά την εξερεύνηση του Μεσολογγίου στη βροχή. Ο Κήπος των Ηρώων είναι ένα καλό σημείο εκκίνησης με στεγασμένους χώρους κοντά.\n\nΤο μεσημέρι, φτάστε εύκολα στο Μουσείο Ιστορίας και Τέχνης. Σύντομες βόλτες μεταξύ των στάσεων ελαχιστοποιούν τον χρόνο έκθεσης στον καιρό.\n\nΤο απόγευμα, κατευθυνθείτε προς τη λιμνοθάλασσα. Η θέα από το παράθυρο του λεωφορείου προσφέρει ωραία πανοραμική εικόνα του υδάτινου τοπίου χωρίς να βραχείτε.\n\nΚλείστε την ημέρα σας στο Πολιτιστικό Κέντρο Διέξοδος. Η κεντρική του τοποθεσία επιτρέπει εύκολη επιστροφή με μέσα μεταφοράς μόλις κλείσουν οι εκθέσεις για το βράδυ."
           },
           "stops": [
             {
@@ -2092,7 +2255,8 @@
                 "de": "Die Bushaltestelle befindet sich in unmittelbarer Nähe des Eingangs.",
                 "hu": "A buszmegálló közvetlenül a bejárat közelében található.",
                 "ro": "Stația de autobuz se află în imediata apropiere a intrării.",
-                "en": "The bus stop is located in the immediate vicinity of the entrance."
+                "en": "The bus stop is located in the immediate vicinity of the entrance.",
+                "el": "Η στάση του λεωφορείου βρίσκεται σε άμεση γειτνίαση με την είσοδο."
               }
             },
             {
@@ -2101,7 +2265,8 @@
                 "de": "Ein zentraler Knotenpunkt, von dem aus viele Linien verkehren.",
                 "hu": "Központi csomópont, ahonnan számos vonal indul.",
                 "ro": "Un nod central de unde pleacă multe linii de transport.",
-                "en": "A central hub from which many transit lines operate."
+                "en": "A central hub from which many transit lines operate.",
+                "el": "Κεντρικός κόμβος από όπου λειτουργούν πολλές γραμμές μεταφορών."
               }
             },
             {
@@ -2110,7 +2275,8 @@
                 "de": "Suchen Sie Schutz unter den Arkaden der umliegenden Gebäude.",
                 "hu": "Keressen menedéket a környező épületek árkádjai alatt.",
                 "ro": "Căutați adăpost sub arcadele clădirilor din jur.",
-                "en": "Seek shelter under the arcades of the surrounding buildings."
+                "en": "Seek shelter under the arcades of the surrounding buildings.",
+                "el": "Ψάξτε καταφύγιο κάτω από τις στοές των γύρω κτιρίων."
               }
             },
             {
@@ -2119,7 +2285,8 @@
                 "de": "Prüfen Sie die Rückfahrzeiten genau, da Busse seltener fahren könnten.",
                 "hu": "Ellenőrizze pontosan a visszautat, mert az esőben ritkábbak lehetnek a járatok.",
                 "ro": "Verificați orarul de întoarcere, autobuzele pot fi mai rare pe ploaie.",
-                "en": "Check return times carefully as buses might be less frequent in the rain."
+                "en": "Check return times carefully as buses might be less frequent in the rain.",
+                "el": "Ελέγξτε προσεκτικά τις ώρες επιστροφής καθώς τα λεωφορεία μπορεί να είναι λιγότερο συχνά στη βροχή."
               }
             },
             {
@@ -2128,7 +2295,8 @@
                 "de": "Ein kurzer Fußweg von der nächsten Haltestelle durch das Zentrum.",
                 "hu": "Rövid séta a legközelebbi megállótól a központon keresztül.",
                 "ro": "O scurtă plimbare de la cea mai apropiată stație prin centru.",
-                "en": "A short walk from the nearest stop through the town center."
+                "en": "A short walk from the nearest stop through the town center.",
+                "el": "Μικρή βόλτα από την κοντινότερη στάση μέσα από το κέντρο της πόλης."
               }
             },
             {
@@ -2137,7 +2305,8 @@
                 "de": "Ideal gelegen für den Transit-Anschluss am späten Nachmittag.",
                 "hu": "Ideális elhelyezkedés a késő délutáni közlekedési csatlakozáshoz.",
                 "ro": "Locație ideală pentru conexiunile de transport de după-amiază.",
-                "en": "Ideally located for transit connections in the late afternoon."
+                "en": "Ideally located for transit connections in the late afternoon.",
+                "el": "Ιδανικά τοποθετημένο για συνδέσεις μεταφορών αργά το απόγευμα."
               }
             }
           ],
@@ -2165,6 +2334,12 @@
               "Use taxi apps if the rain becomes too heavy between transit stops.",
               "Bus shelters often provide limited protection from wind and rain.",
               "Some lines might slightly change their frequency during bad weather."
+            ],
+            "el": [
+              "Κρατήστε κάποια ρέστα για εισιτήρια λεωφορείου αν δεν υπάρχουν αυτόματες μηχανές.",
+              "Χρησιμοποιήστε εφαρμογές ταξί αν η βροχή γίνει πολύ δυνατή ανάμεσα στις στάσεις.",
+              "Τα καταφύγια λεωφορείων προσφέρουν συχνά περιορισμένη προστασία από άνεμο και βροχή.",
+              "Μερικές γραμμές ενδέχεται να αλλάξουν ελαφρώς τη συχνότητά τους σε κακές καιρικές συνθήκες."
             ]
           }
         },
@@ -2173,7 +2348,8 @@
             "de": "Der Winter-Transit in Messolongi ist zuverlässig und bringt Sie nah an alle Sehenswürdigkeiten. Starten Sie am Garten der Helden, der gut an das Netz angebunden ist.\n\nMittags besuchen Sie das Geschichts- und Kunstmuseum. Das warme Innere der öffentlichen Verkehrsmittel bietet eine willkommene Pause von der kühlen Winterluft.\n\nNachmittags führt die Route zur Lagune. Beobachten Sie das klare Winterlicht über dem Wasser, während Sie bequem zum nächsten Stopp fahren.\n\nDer Tag endet am Kulturzentrum Diexodos. Von hier aus erreichen Sie leicht die zentralen Haltestellen für die Heimfahrt, bevor es draußen ganz dunkel wird.",
             "hu": "A téli közlekedés Messolongiban megbízható, és minden látnivaló közelébe elviszi. Kezdjen a Hősök Kertjénél, amely jól kapcsolódik a hálózathoz.\n\nDélben látogasson el a Történeti és Művészeti Múzeumba. A járművek meleg belseje kellemes pihenőt nyújt a hűvös téli levegő után.\n\nDélután az útvonal a lagúnához vezet. Figyelje a tiszta téli fényeket a víz felett, miközben kényelmesen utazik a következő megállóig.\n\nA nap a Diexodos Kulturális Központnál ér véget. Innen könnyen elérheti a központi megállókat a hazautazáshoz, mielőtt teljesen besötétedik.",
             "ro": "Transportul de iarnă în Messolongi este de încredere și vă duce aproape de toate atracțiile. Începeți la Grădina Eroilor, bine conectată la rețea.\n\nLa prânz, vizitați Muzeul de Istorie și Artă. Interiorul cald al mijloacelor de transport oferă o pauză binevenită de la aerul rece de iarnă.\n\nDupă-amiaza, ruta vă duce spre lagună. Observați lumina clară de iarnă peste apă în timp ce călătoriți confortabil spre următoarea oprire.\n\nZiua se încheie la Centrul Cultural Diexodos. De aici, puteți ajunge ușor la stațiile centrale pentru întoarcere, înainte de a se întuneca complet.",
-            "en": "Winter transit in Messolongi is reliable and gets you close to all key sights. Start at the Garden of Heroes, which is well-connected to the network.\n\nAt midday, visit the Museum of History and Art. The warm interiors of public transport provide a welcome break from the crisp winter air.\n\nIn the afternoon, the route takes you towards the lagoon. Observe the clear winter light over the water as you travel comfortably to the next stop.\n\nYour day concludes at the Diexodos Cultural Centre. From here, you can easily reach the central stops for your journey back before it gets fully dark."
+            "en": "Winter transit in Messolongi is reliable and gets you close to all key sights. Start at the Garden of Heroes, which is well-connected to the network.\n\nAt midday, visit the Museum of History and Art. The warm interiors of public transport provide a welcome break from the crisp winter air.\n\nIn the afternoon, the route takes you towards the lagoon. Observe the clear winter light over the water as you travel comfortably to the next stop.\n\nYour day concludes at the Diexodos Cultural Centre. From here, you can easily reach the central stops for your journey back before it gets fully dark.",
+            "el": "Το χειμερινό δίκτυο μεταφορών στο Μεσολόγγι είναι αξιόπιστο και σας φέρνει κοντά σε όλα τα κύρια αξιοθέατα. Ξεκινήστε από τον Κήπο των Ηρώων, που είναι καλά συνδεδεμένος με το δίκτυο.\n\nΤο μεσημέρι, επισκεφθείτε το Μουσείο Ιστορίας και Τέχνης. Τα ζεστά εσωτερικά των μέσων μεταφοράς προσφέρουν άνεση από τον δροσερό χειμερινό αέρα.\n\nΤο απόγευμα, η διαδρομή σας οδηγεί προς τη λιμνοθάλασσα. Παρατηρήστε το καθαρό χειμερινό φως πάνω από το νερό καθώς ταξιδεύετε άνετα προς την επόμενη στάση.\n\nΗ μέρα σας τελειώνει στο Πολιτιστικό Κέντρο Διέξοδος. Από εδώ, μπορείτε εύκολα να φτάσετε στις κεντρικές στάσεις για την επιστροφή σας πριν σκοτεινιάσει τελείως."
           },
           "stops": [
             {
@@ -2182,7 +2358,8 @@
                 "de": "Prüfen Sie den Winterfahrplan, da einige Fahrten entfallen könnten.",
                 "hu": "Ellenőrizze a téli menetrendet, mert néhány járat kimaradhat.",
                 "ro": "Verificați orarul de iarnă, unele curse pot fi anulate.",
-                "en": "Check the winter schedule as some trips might be canceled."
+                "en": "Check the winter schedule as some trips might be canceled.",
+                "el": "Ελέγξτε το χειμερινό πρόγραμμα καθώς μερικά δρομολόγια μπορεί να ακυρωθούν."
               }
             },
             {
@@ -2191,7 +2368,8 @@
                 "de": "Die Haltestellen in der Nähe sind oft belebt und gut beleuchtet.",
                 "hu": "A közeli megállók gyakran forgalmasak és jól kivilágítottak.",
                 "ro": "Stațiile din apropiere sunt adesea animate și bine iluminate.",
-                "en": "Nearby stops are often busy and well-lit."
+                "en": "Nearby stops are often busy and well-lit.",
+                "el": "Οι κοντινές στάσεις είναι συχνά πολυσύχναστες και καλά φωτισμένες."
               }
             },
             {
@@ -2200,7 +2378,8 @@
                 "de": "Ein kurzer Fußweg führt von der Haltestelle direkt zum Kircheneingang.",
                 "hu": "Egy rövid séta vezet a megállótól közvetlenül a templom bejáratához.",
                 "ro": "O scurtă plimbare vă duce de la stație direct la intrarea bisericii.",
-                "en": "A short walk leads from the stop directly to the church entrance."
+                "en": "A short walk leads from the stop directly to the church entrance.",
+                "el": "Μια σύντομη βόλτα οδηγεί από τη στάση κατευθείαν στην είσοδο της εκκλησίας."
               }
             },
             {
@@ -2209,7 +2388,8 @@
                 "de": "Warten Sie im Winter nicht zu lange an der ungeschützten Haltestelle.",
                 "hu": "Télen ne várjon túl sokat a védtelen megállóban.",
                 "ro": "Nu așteptați prea mult în stația neprotejată pe timp de iarnă.",
-                "en": "Don't wait too long at the unprotected stop during winter."
+                "en": "Don't wait too long at the unprotected stop during winter.",
+                "el": "Μην περιμένετε πολύ στην ακάλυπτη στάση κατά τη διάρκεια του χειμώνα."
               }
             },
             {
@@ -2218,7 +2398,8 @@
                 "de": "Die nächste Haltestelle bietet im Winter oft Anschluss an Taxis.",
                 "hu": "A legközelebbi megálló közelében télen gyakran találhat taxit.",
                 "ro": "Cea mai apropiată stație oferă adesea acces la taxiuri iarna.",
-                "en": "The nearest stop often has taxi access nearby in winter."
+                "en": "The nearest stop often has taxi access nearby in winter.",
+                "el": "Η πιο κοντινή στάση συχνά έχει ταξί κοντά τον χειμώνα."
               }
             },
             {
@@ -2227,7 +2408,8 @@
                 "de": "Informieren Sie sich über die letzte Abfahrt am späten Nachmittag.",
                 "hu": "Tájékozódjon az utolsó járat indulásáról késő délután.",
                 "ro": "Informați-vă despre ultima plecare spre sfârșitul după-amiezii.",
-                "en": "Find out about the last departure in the late afternoon."
+                "en": "Find out about the last departure in the late afternoon.",
+                "el": "Μάθετε για την τελευταία αναχώρηση αργά το απόγευμα."
               }
             }
           ],
@@ -2255,6 +2437,12 @@
               "Buses are often less crowded in winter than during the summer season.",
               "Use the transit time to organize your photos of the day.",
               "Note that service might be limited during winter holidays."
+            ],
+            "el": [
+              "Φορέστε ζεστά ρούχα για τους χρόνους αναμονής στις στάσεις.",
+              "Τα λεωφορεία είναι συχνά λιγότερο γεμάτα τον χειμώνα απ’ ό,τι το καλοκαίρι.",
+              "Χρησιμοποιήστε τον χρόνο στο μέσον μεταφοράς για να οργανώσετε τις φωτογραφίες της μέρας.",
+              "Σημειώστε ότι η εξυπηρέτηση μπορεί να είναι περιορισμένη κατά τις χειμερινές αργίες."
             ]
           }
         }

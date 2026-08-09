@@ -21,7 +21,8 @@
             "de": "Zentralplatz",
             "hu": "Központi tér",
             "ro": "Piața Centrală",
-            "en": "Central Square"
+            "en": "Central Square",
+            "el": "Κεντρική Πλατεία"
           },
           "coords": [
             22.2835,
@@ -37,7 +38,8 @@
             "de": "Starten Sie den Tag mit einem Kaffee in einem der lokalen Kafenions.",
             "hu": "Indítsa a napot egy kávéval a helyi kávézók egyikében.",
             "ro": "Începeți ziua cu o cafea la una dintre cafenelele locale.",
-            "en": "Start your day with a coffee at one of the local kafenions."
+            "en": "Start your day with a coffee at one of the local kafenions.",
+            "el": "Ξεκινήστε τη μέρα σας με έναν καφέ σε ένα από τα τοπικά καφενεία."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Rathaus von Tyrnavos",
             "hu": "Tirnavoszi városháza",
             "ro": "Primăria din Tyrnavos",
-            "en": "Tyrnavos Town Hall"
+            "en": "Tyrnavos Town Hall",
+            "el": "Δημαρχείο Τυρνάβου"
           },
           "coords": [
             22.284,
@@ -61,7 +64,8 @@
             "de": "Bewundern Sie die neoklassizistische Architektur des Gebäudes.",
             "hu": "Csodálja meg az épület neoklasszikus építészetét.",
             "ro": "Admirați arhitectura neoclasică a clădirii.",
-            "en": "Admire the neoclassical architecture of the building."
+            "en": "Admire the neoclassical architecture of the building.",
+            "el": "Θαυμάστε την νεοκλασική αρχιτεκτονική του κτιρίου."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Bibliothek von Tyrnavos",
             "hu": "Tirnavoszi Könyvtár",
             "ro": "Biblioteca din Tyrnavos",
-            "en": "Tyrnavos Library"
+            "en": "Tyrnavos Library",
+            "el": "Βιβλιοθήκη Τυρνάβου"
           },
           "coords": [
             22.2848,
@@ -85,7 +90,8 @@
             "de": "Prüfen Sie, ob es kulturelle Veranstaltungen oder Ausstellungen gibt.",
             "hu": "Nézze meg, vannak-e kulturális események vagy kiállítások.",
             "ro": "Verificați dacă există evenimente culturale sau expoziții.",
-            "en": "Check if there are any cultural events or exhibitions."
+            "en": "Check if there are any cultural events or exhibitions.",
+            "el": "Ελέγξτε αν υπάρχουν πολιτιστικές εκδηλώσεις ή εκθέσεις."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Kirche Agios Gedeon",
             "hu": "Szent Gedeon-templom",
             "ro": "Biserica Sfântul Gedeon",
-            "en": "Church of Agios Gedeon"
+            "en": "Church of Agios Gedeon",
+            "el": "Εκκλησία Αγίου Γεδεών"
           },
           "coords": [
             22.282,
@@ -109,7 +116,8 @@
             "de": "Beachten Sie die Fresken und die friedliche Atmosphäre im Inneren.",
             "hu": "Figyelje meg a freskókat és a békés belső hangulatot.",
             "ro": "Observați frescele și atmosfera pașnică din interior.",
-            "en": "Note the frescoes and the peaceful atmosphere inside."
+            "en": "Note the frescoes and the peaceful atmosphere inside.",
+            "el": "Σημειώστε τα ψηφιδωτά και την ήρεμη ατμόσφαιρα στο εσωτερικό."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Folklore-Museum",
             "hu": "Néprajzi Múzeum",
             "ro": "Muzeul de Folclor",
-            "en": "Folklore Museum"
+            "en": "Folklore Museum",
+            "el": "Λαογραφικό Μουσείο"
           },
           "coords": [
             22.2815,
@@ -133,7 +142,8 @@
             "de": "Erfahren Sie mehr über die reiche Geschichte und die Traditionen der Region.",
             "hu": "Ismerje meg a régió gazdag történelmét és hagyományait.",
             "ro": "Aflați despre istoria bogată și tradițiile regiunii.",
-            "en": "Learn about the rich history and traditions of the region."
+            "en": "Learn about the rich history and traditions of the region.",
+            "el": "Μάθετε για την πλούσια ιστορία και τις παραδόσεις της περιοχής."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Agia Paraskevi Brücke",
             "hu": "Agia Paraskevi híd",
             "ro": "Podul Agia Paraskevi",
-            "en": "Agia Paraskevi Bridge"
+            "en": "Agia Paraskevi Bridge",
+            "el": "Γέφυρα Αγίας Παρασκευής"
           },
           "coords": [
             22.286,
@@ -157,7 +168,8 @@
             "de": "Ein schöner Ort für einen kurzen Spaziergang am Nachmittag.",
             "hu": "Szép hely egy rövid délutáni sétához.",
             "ro": "Un loc frumos pentru o scurtă plimbare de după-amiază.",
-            "en": "A lovely spot for a short afternoon walk."
+            "en": "A lovely spot for a short afternoon walk.",
+            "el": "Ένα όμορφο σημείο για μια σύντομη απογευματινή βόλτα."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Tsipouro-Destillerie Museum",
             "hu": "Tsipouro Lepárló Múzeum",
             "ro": "Muzeul Distileriei de Tsipouro",
-            "en": "Tsipouro Distillery Museum"
+            "en": "Tsipouro Distillery Museum",
+            "el": "Μουσείο Αποστακτήρα Τσίπουρου"
           },
           "coords": [
             22.29,
@@ -181,7 +194,8 @@
             "de": "Verpassen Sie nicht die Verkostung am Ende der Tour!",
             "hu": "Ne hagyja ki a kóstolót a túra végén!",
             "ro": "Nu ratați degustarea de la sfârșitul turului!",
-            "en": "Don't miss the tasting at the end of the tour!"
+            "en": "Don't miss the tasting at the end of the tour!",
+            "el": "Μην χάσετε τη δοκιμή στο τέλος της ξενάγησης!"
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Beginnen Sie Ihren Rundgang am belebten Zentralplatz von Tyrnavos, dem Herzen der Stadt. Der Morgen ist der Erkundung des kulturellen Erbes gewidmet, vom neoklassizistischen Rathaus bis zur ruhigen Agios Gedeon Kirche. Jeder Schritt enthüllt ein Stück der lokalen Geschichte. Nach einem Vormittag voller Kultur und Geschichte tauchen Sie im Folklore-Museum tiefer in die Traditionen der Region ein. Planen Sie ein gemütliches Mittagessen in einer Taverne in der Nähe ein, um lokale Spezialitäten zu probieren. Der Nachmittag führt Sie über die historische Agia Paraskevi Brücke, ideal für einen entspannten Spaziergang. Lassen Sie den Tag im Tsipouro-Destillerie-Museum ausklingen, wo Sie das berühmteste Produkt der Stadt kennenlernen und verkosten können. Ein perfekter Abschluss eines erfüllten Tages.",
         "hu": "Kezdje a gyalogtúrát Tirnavosz nyüzsgő központi terén, a város szívében. A délelőttöt a kulturális örökség felfedezésének szenteljük, a neoklasszikus városházától a békés Szent Gedeon-templomig. Minden lépés egy darabka helyi történelmet tár fel. A kultúrával és történelemmel teli délelőtt után a Néprajzi Múzeumban mélyebbre merülhet a régió hagyományaiban. Tervezzen egy kellemes ebédet egy közeli tavernában, hogy megkóstolja a helyi specialitásokat. A délután a történelmi Agia Paraskevi hídon vezet át, amely ideális egy pihentető sétához. Zárja a napot a Tsipouro Lepárló Múzeumban, ahol megismerheti és megkóstolhatja a város leghíresebb termékét. Tökéletes befejezése egy tartalmas napnak.",
         "ro": "Începeți turul pietonal în vibranta Piață Centrală din Tyrnavos, inima orașului. Dimineața este dedicată explorării patrimoniului cultural, de la primăria neoclasică la liniștita Biserică Sfântul Gedeon. Fiecare pas dezvăluie o bucată din istoria locală. După o dimineață de cultură și istorie, aprofundați tradițiile regiunii la Muzeul de Folclor. Planificați un prânz relaxat la o tavernă din apropiere pentru a gusta specialitățile locale. După-amiaza vă poartă peste podul istoric Agia Paraskevi, perfect pentru o plimbare relaxantă. Încheiați ziua la Muzeul Distileriei de Tsipouro, unde veți învăța despre și veți degusta cel mai faimos produs al orașului. Un final perfect pentru o zi plină.",
-        "en": "Start your walking tour in the vibrant Central Square of Tyrnavos, the heart of the city. The morning is dedicated to exploring the cultural heritage, from the neoclassical Town Hall to the serene Church of Agios Gedeon. Each step reveals a piece of local history. After a morning of culture and history, delve deeper into the region's traditions at the Folklore Museum. Plan for a leisurely lunch at a nearby taverna to sample local specialties. The afternoon takes you across the historic Agia Paraskevi Bridge, perfect for a relaxing stroll. Conclude your day at the Tsipouro Distillery Museum, where you'll learn about and taste the city's most famous product. A perfect end to a fulfilling day."
+        "en": "Start your walking tour in the vibrant Central Square of Tyrnavos, the heart of the city. The morning is dedicated to exploring the cultural heritage, from the neoclassical Town Hall to the serene Church of Agios Gedeon. Each step reveals a piece of local history. After a morning of culture and history, delve deeper into the region's traditions at the Folklore Museum. Plan for a leisurely lunch at a nearby taverna to sample local specialties. The afternoon takes you across the historic Agia Paraskevi Bridge, perfect for a relaxing stroll. Conclude your day at the Tsipouro Distillery Museum, where you'll learn about and taste the city's most famous product. A perfect end to a fulfilling day.",
+        "el": "Ξεκινήστε την περιπατητική σας ξενάγηση στην ζωντανή Κεντρική Πλατεία του Τυρνάβου, την καρδιά της πόλης. Το πρωί αφιερώστε το χρόνο στην εξερεύνηση της πολιτιστικής κληρονομιάς, από το νεοκλασικό Δημαρχείο έως την ήρεμη Εκκλησία του Αγίου Γεδεών. Κάθε βήμα αποκαλύπτει μια πλευρά της τοπικής ιστορίας. Μετά το πρωινό γεμάτο πολιτισμό και ιστορία, εμβαθύνετε στις παραδόσεις της περιοχής στο Λαογραφικό Μουσείο. Σχεδιάστε ένα χαλαρό γεύμα σε μια κοντινή ταβέρνα για να δοκιμάσετε τοπικές σπεσιαλιτέ. Το απόγευμα διασχίστε την ιστορική Γέφυρα της Αγίας Παρασκευής για μια χαλαρωτική βόλτα. Ολοκληρώστε την ημέρα σας στο Μουσείο Αποστακτήρα Τσίπουρου, όπου θα μάθετε για το τοπικό προϊόν και θα το δοκιμάσετε. Το τέλειο τέλος μιας γεμάτης μέρας."
       },
       "gastro_picks": {
         "de": [
@@ -385,6 +400,12 @@
           "Bring a water bottle, especially on warm days.",
           "Most central sights are easily within walking distance.",
           "Enjoy the atmosphere and take time for breaks at the cafes."
+        ],
+        "el": [
+          "Φορέστε άνετα παπούτσια καθώς θα περπατήσετε πολύ.",
+          "Πάρτε ένα παγούρι νερό, ιδίως τις ζεστές μέρες.",
+          "Τα περισσότερα κεντρικά αξιοθέατα βρίσκονται εύκολα σε περπατήσιμο απόσταση.",
+          "Απολαύστε την ατμόσφαιρα και κάντε διαλείμματα στα καφέ."
         ]
       },
       "variants": {
@@ -393,7 +414,8 @@
             "de": "Der Vormittag am zentralen Platz von Tyrnavos beginnt unter den schützenden Arkaden der umliegenden Cafés. Das neoklassizistische Rathaus bietet einen kurzen, trockenen Einblick in die lokale Architektur, bevor es weiter zur Stadtbibliothek geht, um in der lokalen Geschichte zu blättern.\n\nZur Mittagszeit bietet die Kirche des Heiligen Gedeon, des Schutzpatrons der Stadt, eine spirituelle und trockene Zuflucht. Die Mosaike im Inneren erzählen die Geschichte des Märtyrers von 1818, während draußen der Regen auf das Pflaster peitscht und die Luft kühlt.\n\nDer Nachmittag ist dem Volkskundemuseum gewidmet, dessen umfangreiche Sammlung an Trachten und landwirtschaftlichen Geräten in den Innenräumen sicher vor dem Wetter schützt. Ein kurzer Gang zur Agia-Paraskevi-Brücke zeigt den durch den Regen anschwellenden Titarisios-Fluss.\n\nDen Abend verbringen wir im Tsipouro-Brennereimuseum. Hier erfährt man alles über die geschützte Herkunft des lokalen Tresterschnapses. Eine Verkostung des kräftigen Getränks wärmt nach einem feuchten Tag in Thessalien hervorragend auf und bietet einen gemütlichen Abschluss.",
             "hu": "A délelőtt a türnavoszi főtéren kezdődik, ahol a kávézók árkádjai alatt szárazon figyelhetjük a város ébredését. A neoklasszicista városháza megtekintése után a közeli könyvtár csendjében böngészhetünk a helyi kiadványok között, elkerülve az intenzív reggeli záporokat.\n\nDélidőben az Ájosz Gedeon-templom nyújt menedéket. A város védőszentjének szentelt épületben az 1818-as vértanúság emlékei és a díszes mozaikok között tölthetjük az időt, amíg az eső elcsendesedik a Titariszosz-folyó völgyében, távol a vizes utcáktól.\n\nA délutánt a Néprajzi Múzeum kiállításai között töltjük, ahol a hagyományos népviseletek és mezőgazdasági eszközök repítenek vissza a múltba a fedett termekben. Egy rövid séta a vizes Agia Paraszkevi-hídhoz látványos kilátást nyújt a megáradt és zavaros folyóra.\n\nAz estét a Cipuro Lepárló Múzeumban zárjuk. Megismerjük a híres helyi párlat készítésének titkait és az oltalom alatt álló eredetmegjelölés jelentőségét. A kóstoló során a karakteres ital garantáltan átmelegíti a látogatót a borongós és nyirkos thesszáliai időben.",
             "ro": "Dimineața în piața centrală din Tyrnavos începe sub arcadele protectoare ale cafenelelor, feriți de ploaie. Primăria neoclasică oferă o scurtă incursiune culturală, urmată de o vizită la biblioteca locală pentru a explora istoria regiunii în timp ce afară plouă torențial.\n\nLa prânz, Biserica Sfântul Gedeon oferă un refugiu spiritual și uscat. Mozaicurile interioare detaliază viața patronului spiritual al orașului, martirizat în 1818, în timp ce sunetul ploii pe acoperiș creează o atmosferă contemplativă și liniștită în valea Titarisios.\n\nDupă-amiaza este rezervată Muzeului de Folclor, unde colecțiile de costume populare și unelte agricole sunt expuse în siguranță la interior. O scurtă trecere pe podul Agia Paraskevi oferă o perspectivă asupra râului Titarisios învolburat de precipitațiile abundente de peste zi.\n\nSeara se încheie la Muzeul Distileriei de Tsipouro. Aici învățăm despre procesul de producție al celebrului rachiu local cu denumire de origine protejată. O degustare este modul ideal de a încheia ziua și de a ne încălzi după plimbarea prin Thessalia umedă.",
-            "en": "Morning at Tyrnavos Central Square starts under the protective arcades of the surrounding cafes. The neoclassical Town Hall offers a brief, dry cultural insight before heading to the local library to explore the town's literary heritage while avoiding the morning downpour.\n\nAt lunchtime, the Church of Agios Gedeon provides a spiritual and dry sanctuary. The interior mosaics tell the story of the town's patron saint, martyred in 1818, while the rain outside sets a quiet atmosphere in the Titarisios valley, away from the wet streets.\n\nThe afternoon is dedicated to the Folklore Museum, where extensive collections of traditional costumes and farming tools are safely displayed indoors. A quick walk to the Agia Paraskevi Bridge offers a view of the river waters rising due to the persistent rain.\n\nWe spend the evening at the Tsipouro Distillery Museum. Learn about the protected designation of origin of the local spirit and its production stages. A tasting session is the perfect way to warm up after a damp day in Thessaly before concluding the tour."
+            "en": "Morning at Tyrnavos Central Square starts under the protective arcades of the surrounding cafes. The neoclassical Town Hall offers a brief, dry cultural insight before heading to the local library to explore the town's literary heritage while avoiding the morning downpour.\n\nAt lunchtime, the Church of Agios Gedeon provides a spiritual and dry sanctuary. The interior mosaics tell the story of the town's patron saint, martyred in 1818, while the rain outside sets a quiet atmosphere in the Titarisios valley, away from the wet streets.\n\nThe afternoon is dedicated to the Folklore Museum, where extensive collections of traditional costumes and farming tools are safely displayed indoors. A quick walk to the Agia Paraskevi Bridge offers a view of the river waters rising due to the persistent rain.\n\nWe spend the evening at the Tsipouro Distillery Museum. Learn about the protected designation of origin of the local spirit and its production stages. A tasting session is the perfect way to warm up after a damp day in Thessaly before concluding the tour.",
+            "el": "Το πρωί στην Κεντρική Πλατεία του Τυρνάβου ξεκινά κάτω από τα προστατευτικά στεγασμένα περάσματα των περιμετρικών καφέ. Το νεοκλασικό Δημαρχείο προσφέρει μια σύντομη, στεγνή πολιτιστική εντύπωση πριν κατευθυνθείτε στη Δημοτική Βιβλιοθήκη για να εξερευνήσετε την λογοτεχνική κληρονομιά της πόλης αποφεύγοντας τη βροχή του πρωινού.\n\nΤην ώρα του μεσημεριανού, η Εκκλησία του Αγίου Γεδεών παρέχει ένα πνευματικό και στεγνό καταφύγιο. Τα εσωτερικά ψηφιδωτά αφηγούνται την ιστορία του πολιούχου της πόλης, μαρτυρίου του 1818, ενώ η βροχή έξω δημιουργεί μια ήσυχη ατμόσφαιρα στην κοιλάδα του Τιταρήσιου, μακριά από τους βρεγμένους δρόμους.\n\nΤο απόγευμα αφιερώνεται στο Λαογραφικό Μουσείο, όπου εκτενείς συλλογές παραδοσιακών ενδυμασιών και αγροτικών εργαλείων εκτίθενται με ασφάλεια σε εσωτερικούς χώρους. Μια σύντομη βόλτα προς τη Γέφυρα της Αγίας Παρασκευής προσφέρει θέα στα αυξημένα νερά του ποταμού λόγω της επίμονης βροχής.\n\nΤο βράδυ το περνάμε στο Μουσείο Αποστακτήρα Τσίπουρου. Μάθετε για την προστατευόμενη ονομασία προέλευσης του τοπικού αποστάγματος και τα στάδια παραγωγής του. Μια συνεδρία γευσιγνωσίας είναι ο τέλειος τρόπος για να ζεσταθείτε μετά από μια υγρή μέρα στη Θεσσαλία πριν ολοκληρώσετε την ξενάγηση."
           },
           "stops": [
             {
@@ -402,7 +424,8 @@
                 "de": "Nutzen Sie die Arkaden der Cafés an der Nordseite als Regenschutz.",
                 "hu": "Használja a kávézók északi árkádjait az eső elleni védekezéshez.",
                 "ro": "Folosiți arcadele cafenelelor din partea de nord ca protecție împotriva ploii.",
-                "en": "Use the arcades of the cafes on the north side for rain protection."
+                "en": "Use the arcades of the cafes on the north side for rain protection.",
+                "el": "Χρησιμοποιήστε τα στεγασμένα περάσματα των καφέ στη βόρεια πλευρά για προστασία από τη βροχή."
               }
             },
             {
@@ -411,7 +434,8 @@
                 "de": "Bewundern Sie die neoklassizistischen Details im Eingangsbereich.",
                 "hu": "Csodálja meg a bejárati rész neoklasszicista részleteit szárazon.",
                 "ro": "Admirați detaliile neoclasice din zona de intrare, la adăpost.",
-                "en": "Admire the neoclassical details in the entrance area while staying dry."
+                "en": "Admire the neoclassical details in the entrance area while staying dry.",
+                "el": "Θαυμάστε τα νεοκλασικά στοιχεία στην είσοδο παραμένοντας στεγνοί."
               }
             },
             {
@@ -420,7 +444,8 @@
                 "de": "Ein idealer Ort für eine halbe Stunde Lektüre im Trockenen.",
                 "hu": "Ideális helyszín egy félórás olvasáshoz a szárazban.",
                 "ro": "Un loc ideal pentru o jumătate de oră de lectură la uscat.",
-                "en": "An ideal spot for half an hour of reading in the dry."
+                "en": "An ideal spot for half an hour of reading in the dry.",
+                "el": "Ιδανικό σημείο για μισή ώρα ανάγνωσης σε στεγνό χώρο."
               }
             },
             {
@@ -429,7 +454,8 @@
                 "de": "Die Vorhalle bietet Platz zum Schirm-Ausschütteln vor dem Eintritt.",
                 "hu": "Az előtérben van hely az esernyők lerázására belépés előtt.",
                 "ro": "Pridvorul oferă spațiu pentru a scutura umbrelele înainte de intrare.",
-                "en": "The porch offers space to shake off umbrellas before entering."
+                "en": "The porch offers space to shake off umbrellas before entering.",
+                "el": "Η είσοδος προσφέρει χώρο για να τινάξετε τις ομπρέλες πριν μπείτε."
               }
             },
             {
@@ -438,7 +464,8 @@
                 "de": "Das gesamte Museum ist überdacht, perfekt für starke Regenschauer.",
                 "hu": "A teljes múzeum fedett, tökéletes heves esőzések idejére.",
                 "ro": "Întreg muzeul este acoperit, perfect pentru aversele puternice.",
-                "en": "The entire museum is indoors, perfect for heavy rain showers."
+                "en": "The entire museum is indoors, perfect for heavy rain showers.",
+                "el": "Ολόκληρο το μουσείο είναι σε εσωτερικούς χώρους, τέλειο για δυνατές βροχές."
               }
             },
             {
@@ -447,7 +474,8 @@
                 "de": "Vorsicht auf dem Gehweg der Brücke, er kann bei Nässe rutschig sein.",
                 "hu": "Vigyázzon a híd járdáján, vizesen csúszós lehet.",
                 "ro": "Atenție pe trotuarul podului, poate fi alunecos când este ud.",
-                "en": "Be careful on the bridge walkway; it can be slippery when wet."
+                "en": "Be careful on the bridge walkway; it can be slippery when wet.",
+                "el": "Προσέχετε το δάπεδο της γέφυρας· μπορεί να γλιστρήσει όταν είναι βρεγμένο."
               }
             },
             {
@@ -456,7 +484,8 @@
                 "de": "Genießen Sie die warme Atmosphäre während der Destillationsvorführung.",
                 "hu": "Élvezze a meleg hangulatot a lepárlási bemutató közben.",
                 "ro": "Bucurați-vă de atmosfera caldă în timpul demonstrației de distilare.",
-                "en": "Enjoy the warm atmosphere during the distillation demonstration."
+                "en": "Enjoy the warm atmosphere during the distillation demonstration.",
+                "el": "Απολαύστε τη ζεστή ατμόσφαιρα κατά τη διάρκεια της επίδειξης απόσταξης."
               }
             }
           ],
@@ -488,6 +517,13 @@
               "Schedule museum visits during the most intense rain periods.",
               "An umbrella is ideal due to the short distances between stops.",
               "Try the local anise-free tsipouro; it is particularly warming."
+            ],
+            "el": [
+              "Φορέστε αδιάβροχα παπούτσια για τα τμήματα της διαδρομής δίπλα στον ποταμό.",
+              "Τα καφέ της πλατείας έχουν μεγάλες τέντες για στεγνή υπαίθρια καθ seating.",
+              "Προγραμματίστε τις επισκέψεις στα μουσεία κατά τις πιο έντονες βροχοπτώσεις.",
+              "Μια ομπρέλα είναι ιδανική λόγω των σύντομων αποστάσεων μεταξύ των σταθμών.",
+              "Δοκιμάστε το τοπικό τσίπουρο χωρίς γλυκάνισο· είναι ιδιαίτερα ζεστό."
             ]
           }
         },
@@ -496,7 +532,8 @@
             "de": "Der Wintermorgen in Tyrnavos ist oft neblig und kühl. Am Hauptplatz dampft der griechische Kaffee in den Cafés, während wir die neoklassizistische Fassade des Rathauses bewundern. Die Luft ist klar und trägt den Duft von Holzfeuern aus den umliegenden Dörfern.\n\nMittags suchen wir die Wärme in der Stadtbibliothek und der Kirche des Heiligen Gedeon. Die Stille der Kirche und das sanfte Kerzenlicht schaffen eine besinnliche Atmosphäre, weit weg vom kalten Wind, der über die thessalische Ebene weht und die kahlen Felder streift.\n\nAm Nachmittag bietet das Volkskundemuseum einen beheizten Einblick in das ländliche Leben vergangener Jahrhunderte. Da die Sonne bereits früh gegen 17 Uhr hinter den Bergen versinkt, erreichen wir die Agia-Paraskevi-Brücke in der blauen Stunde, wenn die Lichter der Stadt funkeln.\n\nDer Tag findet seinen gemütlichen Abschluss in der Tsipouro-Brennerei. In der kalten Jahreszeit ist die Verkostung des starken Destillats besonders wohltuend. Wir erfahren, wie die traditionellen Spirituosenherstellung die Gemeinde seit Generationen durch den Winter bringt.",
             "hu": "A téli reggel Türnavoszban gyakran ködös és csípős. A főtéren gőzölgő görög kávé mellett figyelhetjük a Városháza neoklasszicista homlokzatát. A levegő tiszta, a távolból a környező falvak fatüzelésű kályháinak jellegzetes illatát hozza a szél.\n\nDélben a Városi Könyvtár melegében és az Ájosz Gedeon-templom csendjében pihenhetünk meg. A templom belső tere és a gyertyák fénye meghitt hangulatot áraszt, távol a thesszáliai síkság felől fújó hideg szelektől, amelyek a kopár mezők felett süvítenek.\n\nDélután a Néprajzi Múzeum fűtött termeiben ismerkedhetünk meg az elmúlt évszázadok vidéki életmódjával. Mivel a nap korán, már 17 óra körül eltűnik a hegyek mögött, az Agia Paraszkevi-hidat már a kék órában érjük el, amikor kigyúlnak a város fényei.\n\nA napot a Cipuro Lepárló Múzeumban zárjuk. A hideg évszakban a helyi párlat kóstolása különösen jólesik. Megtudhatjuk, hogyan segítette a szeszfőzés hagyománya a helyi közösséget a téli hónapok során generációkon keresztül, biztosítva a megélhetést.",
             "ro": "Dimineața de iarnă în Tyrnavos este adesea cețoasă și răcoroasă. În piața centrală, cafeaua grecească aburindă ne însoțește în timp ce admirăm fațada neoclasică a Primăriei. Aerul este curat și poartă mirosul focurilor de lemne din satele din jur, specifice iernilor thessaliene.\n\nLa prânz, căutăm căldura în Biblioteca Municipală și în Biserica Sfântul Gedeon. Liniștea bisericii și lumina blândă a lumânărilor creează o atmosferă contemplativă, departe de vântul rece care suflă peste câmpia Thessaliei, protejându-ne de temperaturile scăzute de afară.\n\nDupă-amiaza, Muzeul de Folclor oferă o perspectivă încălzită asupra vieții rurale din secolele trecute. Deoarece soarele apune devreme după munți, în jurul orei 17, ajungem la podul Agia Paraskevi în ora albastră, când luminile orașului încep să sclipească pe malul Titarisios.\n\nZiua se încheie confortabil la distileria de tsipouro. În sezonul rece, degustarea distilatului puternic este deosebit de plăcută și revigorantă. Învățăm cum tradiția producției de băuturi spirtoase a susținut comunitatea prin iernile grele de generații întregi.",
-            "en": "A winter morning in Tyrnavos is often misty and crisp. At the Central Square, steaming Greek coffee warms our hands while we admire the neoclassical Town Hall. The air is clear, carrying the scent of wood fires from the nearby villages across the plains.\n\nAt noon, we seek warmth in the Municipal Library and the Church of Agios Gedeon. The church's silence and soft candlelight create a contemplative atmosphere, shielded from the cold winds blowing across the Thessalian plain and over the bare fields.\n\nIn the afternoon, the Folklore Museum provides a heated insight into rural life from past centuries. As the sun sets early behind the mountains, around 5 PM, we reach the Agia Paraskevi Bridge during the blue hour, just as the city lights begin to twinkle.\n\nThe day concludes cozily at the Tsipouro Distillery Museum. During the cold season, tasting the strong spirit is particularly pleasant. We learn how the tradition of spirit making has supported the community through winters for generations, providing both warmth and income."
+            "en": "A winter morning in Tyrnavos is often misty and crisp. At the Central Square, steaming Greek coffee warms our hands while we admire the neoclassical Town Hall. The air is clear, carrying the scent of wood fires from the nearby villages across the plains.\n\nAt noon, we seek warmth in the Municipal Library and the Church of Agios Gedeon. The church's silence and soft candlelight create a contemplative atmosphere, shielded from the cold winds blowing across the Thessalian plain and over the bare fields.\n\nIn the afternoon, the Folklore Museum provides a heated insight into rural life from past centuries. As the sun sets early behind the mountains, around 5 PM, we reach the Agia Paraskevi Bridge during the blue hour, just as the city lights begin to twinkle.\n\nThe day concludes cozily at the Tsipouro Distillery Museum. During the cold season, tasting the strong spirit is particularly pleasant. We learn how the tradition of spirit making has supported the community through winters for generations, providing both warmth and income.",
+            "el": "Ένα χειμερινό πρωινό στον Τύρναβο είναι συχνά ομιχλώδες και δροσερό. Στην Κεντρική Πλατεία, ο αχνιστός ελληνικός καφές ζεσταίνει τα χέρια μας ενώ θαυμάζουμε το νεοκλασικό Δημαρχείο. Ο αέρας είναι καθαρός, μεταφέροντας τη μυρωδιά των ξυλόφουρνων από τα κοντινά χωριά στα πεδινά.\n\nΤο μεσημέρι αναζητούμε ζεστασιά στη Δημοτική Βιβλιοθήκη και στην Εκκλησία του Αγίου Γεδεών. Η σιωπή της εκκλησίας και το απαλό φως των κεριών δημιουργούν μια στοχαστική ατμόσφαιρα, προστατευμένη από τους ψυχρούς ανέμους που φυσούν πάνω από το θεσσαλικό κάμπο και τα γυμνά χωράφια.\n\nΤο απόγευμα, το Λαογραφικό Μουσείο προσφέρει μια θερμαινόμενη εικόνα της αγροτικής ζωής προηγούμενων αιώνων. Καθώς ο ήλιος δύει νωρίς πίσω από τα βουνά, γύρω στις 17:00, φτάνουμε στη Γέφυρα της Αγίας Παρασκευής κατά την «μπλε ώρα», justo καθώς τα φώτα της πόλης αρχίζουν να λαμπυρίζουν.\n\nΗ μέρα ολοκληρώνεται ζεστά στο Μουσείο Αποστακτήρα Τσίπουρου. Κατά τη χειμερινή περίοδο, η δοκιμή του ισχυρού αποστάγματος είναι ιδιαίτερα ευχάριστη. Μαθαίνουμε πώς η παράδοση της παραγωγής αποστάγματος στήριξε την κοινότητα μέσα στους χειμώνες για γενιές, προσφέροντας τόσο ζεστασιά όσο και εισόδημα."
           },
           "stops": [
             {
@@ -505,7 +542,8 @@
                 "de": "Wählen Sie ein Café mit Kamin oder Heizstrahlern für Ihre Pause.",
                 "hu": "Válasszon kandallós vagy hősugárzós kávézót a pihenéshez.",
                 "ro": "Alegeți o cafenea cu șemineu sau radiatoare pentru pauza dvs.",
-                "en": "Choose a cafe with a fireplace or heaters for your morning break."
+                "en": "Choose a cafe with a fireplace or heaters for your morning break.",
+                "el": "Επιλέξτε ένα καφενείο με τζάκι ή θερμαντικά για το πρωινό σας διάλειμμα."
               }
             },
             {
@@ -514,7 +552,8 @@
                 "de": "Die Fassade wirkt im harten Winterlicht besonders plastisch.",
                 "hu": "A homlokzat a kemény téli fényben különösen plasztikusnak hat.",
                 "ro": "Fațada pare deosebit de plastică în lumina aspră a iernii.",
-                "en": "The facade looks particularly sculptural in the harsh winter light."
+                "en": "The facade looks particularly sculptural in the harsh winter light.",
+                "el": "Η πρόσοψη δείχνει ιδιαίτερα γλυπτική στο σκληρό χειμερινό φως."
               }
             },
             {
@@ -523,7 +562,8 @@
                 "de": "Nutzen Sie die gut geheizten Leseräume zum Aufwärmen.",
                 "hu": "Használja a jól fűtött olvasótermeket a felmelegedéshez.",
                 "ro": "Folosiți sălile de lectură bine încălzite pentru a vă încălzi.",
-                "en": "Take advantage of the well-heated reading rooms to warm up."
+                "en": "Take advantage of the well-heated reading rooms to warm up.",
+                "el": "Επωφεληθείτε από τις καλά θερμαινόμενες αίθουσες ανάγνωσης για να ζεσταθείτε."
               }
             },
             {
@@ -532,7 +572,8 @@
                 "de": "Zünden Sie eine Kerze an, die Wärme und Licht spendet.",
                 "hu": "Gyújtson egy gyertyát, amely meleget és fényt áraszt.",
                 "ro": "Aprindeți o lumânare, care oferă căldură și lumină.",
-                "en": "Light a candle, which provides warmth and symbolic light."
+                "en": "Light a candle, which provides warmth and symbolic light.",
+                "el": "Ανάψτε ένα κερί, που προσφέρει ζεστασιά και συμβολικό φως."
               }
             },
             {
@@ -541,7 +582,8 @@
                 "de": "Achten Sie auf die traditionellen Wintergewänder in der Sammlung.",
                 "hu": "Figyelje meg a gyűjteményben látható hagyományos téli öltözeteket.",
                 "ro": "Observați veșmintele tradiționale de iarnă din colecție.",
-                "en": "Look for the traditional winter garments in the museum's collection."
+                "en": "Look for the traditional winter garments in the museum's collection.",
+                "el": "Ψάξτε για τις παραδοσιακές χειμερινές ενδυμασίες στη συλλογή του μουσείου."
               }
             },
             {
@@ -550,7 +592,8 @@
                 "de": "Ziehen Sie sich warm an, der Wind am Fluss ist im Winter beißend.",
                 "hu": "Öltözzön rétegesen, a folyóparti szél télen metsző lehet.",
                 "ro": "Îmbrăcați-vă gros, vântul de lângă râu este tăios iarna.",
-                "en": "Dress warmly; the wind by the river can be biting in winter."
+                "en": "Dress warmly; the wind by the river can be biting in winter.",
+                "el": "Ντυθείτε ζεστά· ο άνεμος δίπλα στον ποταμό μπορεί να είναι τσουχτερός το χειμώνα."
               }
             },
             {
@@ -559,7 +602,8 @@
                 "de": "Der Shop bietet Geschenksets, ideal für die Weihnachtszeit.",
                 "hu": "A bolt ajándékszetteket kínál, ideális a karácsonyi időszakra.",
                 "ro": "Magazinul oferă seturi cadou, ideale pentru perioada Crăciunului.",
-                "en": "The shop offers gift sets, ideal for the Christmas season."
+                "en": "The shop offers gift sets, ideal for the Christmas season.",
+                "el": "Το κατάστημα προσφέρει σετ δώρου, ιδανικά για την περίοδο των Χριστουγέννων."
               }
             }
           ],
@@ -591,6 +635,13 @@
               "Many small tavernas offer traditional stews during winter.",
               "Check for different opening hours on Mondays during the winter.",
               "Tsipouro with honey (rakomelo) is a popular local winter drink."
+            ],
+            "el": [
+              "Το ηλιοβασίλεμα είναι περίπου στις 17:15· προγραμματίστε την τελευταία σας στάση ανάλογα.",
+              "Τα πολλαπλά στρώματα ρουχισμού προστατεύουν από τον άνεμο κατά μήκος του Τιταρήσιου.",
+              "Πολλές μικρές ταβέρνες προσφέρουν παραδοσιακά στιφάδατο χειμώνα.",
+              "Ελέγξτε για διαφορεμένες ώρες λειτουργίας τις Δευτέρες κατά τον χειμώνα.",
+              "Τσίπουρο με μέλι (ρακόμελο) είναι ένα δημοφιλές τοπικό χειμερινό ποτό."
             ]
           }
         }
@@ -609,7 +660,8 @@
             "de": "Zentralplatz",
             "hu": "Központi tér",
             "ro": "Piața Centrală",
-            "en": "Central Square"
+            "en": "Central Square",
+            "el": "Κεντρική Πλατεία"
           },
           "coords": [
             22.2835,
@@ -625,7 +677,8 @@
             "de": "Holen Sie sich Ihr Fahrrad und beginnen Sie die Tour im Herzen der Stadt.",
             "hu": "Vegye fel a kerékpárt, és kezdje a túrát a város szívében.",
             "ro": "Luați-vă bicicleta și începeți turul în inima orașului.",
-            "en": "Pick up your bike and start the tour in the heart of the city."
+            "en": "Pick up your bike and start the tour in the heart of the city.",
+            "el": "Πάρτε το ποδήλατό σας και ξεκινήστε την περιήγηση από την καρδιά της πόλης."
           }
         },
         {
@@ -633,7 +686,8 @@
             "de": "Folklore-Museum",
             "hu": "Néprajzi Múzeum",
             "ro": "Muzeul de Folclor",
-            "en": "Folklore Museum"
+            "en": "Folklore Museum",
+            "el": "Λαογραφικό Μουσείο"
           },
           "coords": [
             22.2815,
@@ -649,7 +703,8 @@
             "de": "Parken Sie Ihr Fahrrad sicher, bevor Sie in die Geschichte eintauchen.",
             "hu": "Parkolja le biztonságosan a kerékpárt, mielőtt elmerülne a történelemben.",
             "ro": "Parcați-vă bicicleta în siguranță înainte de a vă adânci în istorie.",
-            "en": "Park your bike safely before diving into history."
+            "en": "Park your bike safely before diving into history.",
+            "el": "Παρκάρετε το ποδήλατο με ασφάλεια πριν βυθιστείτε στην ιστορία."
           }
         },
         {
@@ -657,7 +712,8 @@
             "de": "Agia Paraskevi Brücke",
             "hu": "Agia Paraskevi híd",
             "ro": "Podul Agia Paraskevi",
-            "en": "Agia Paraskevi Bridge"
+            "en": "Agia Paraskevi Bridge",
+            "el": "Γέφυρα Αγίας Παρασκευής"
           },
           "coords": [
             22.286,
@@ -673,7 +729,8 @@
             "de": "Genießen Sie die Fahrt über den Fluss und die Aussicht.",
             "hu": "Élvezze az átkelést a folyón és a kilátást.",
             "ro": "Bucurați-vă de traversarea râului și de priveliște.",
-            "en": "Enjoy the ride across the river and the view."
+            "en": "Enjoy the ride across the river and the view.",
+            "el": "Απολαύστε τη διαδρομή πάνω από τον ποταμό και τη θέα."
           }
         },
         {
@@ -681,7 +738,8 @@
             "de": "Tsipouro-Destillerie Museum",
             "hu": "Tsipouro Lepárló Múzeum",
             "ro": "Muzeul Distileriei de Tsipouro",
-            "en": "Tsipouro Distillery Museum"
+            "en": "Tsipouro Distillery Museum",
+            "el": "Μουσείο Αποστακτήρα Τσίπουρου"
           },
           "coords": [
             22.29,
@@ -697,7 +755,8 @@
             "de": "Kombinieren Sie den Besuch mit einem Mittagessen in der Nähe.",
             "hu": "Kombinálja a látogatást egy ebéddel a közelben.",
             "ro": "Combinați vizita cu un prânz în apropiere.",
-            "en": "Combine the visit with lunch nearby."
+            "en": "Combine the visit with lunch nearby.",
+            "el": "Συνδυάστε την επίσκεψη με γεύμα σε κοντινό σημείο."
           }
         },
         {
@@ -705,7 +764,8 @@
             "de": "Kirche Agios Gedeon",
             "hu": "Szent Gedeon-templom",
             "ro": "Biserica Sfântul Gedeon",
-            "en": "Church of Agios Gedeon"
+            "en": "Church of Agios Gedeon",
+            "el": "Εκκλησία Αγίου Γεδεών"
           },
           "coords": [
             22.282,
@@ -721,7 +781,8 @@
             "de": "Eine ruhige Pause am Nachmittag an diesem spirituellen Ort.",
             "hu": "Egy csendes délutáni pihenő ezen a spirituális helyen.",
             "ro": "O pauză liniștită de după-amiază în acest loc spiritual.",
-            "en": "A quiet afternoon break at this spiritual place."
+            "en": "A quiet afternoon break at this spiritual place.",
+            "el": "Μια ήσυχη απογευματινή ανάπαυλα σε αυτόν τον πνευματικό τόπο."
           }
         },
         {
@@ -729,7 +790,8 @@
             "de": "Prophet Elias Hügel",
             "hu": "Illés Próféta-hegy",
             "ro": "Dealul Profetul Ilie",
-            "en": "Prophet Elias Hill"
+            "en": "Prophet Elias Hill",
+            "el": "Λόφος Προφήτη Ηλία"
           },
           "coords": [
             22.275,
@@ -745,7 +807,8 @@
             "de": "Der Anstieg ist die Belohnung wert: Panoramablick auf die Stadt!",
             "hu": "A mászás megéri a jutalmat: panorámás kilátás a városra!",
             "ro": "Urcușul merită recompensa: vederi panoramice ale orașului!",
-            "en": "The climb is worth the reward: panoramic views of the city!"
+            "en": "The climb is worth the reward: panoramic views of the city!",
+            "el": "Η ανάβαση αξίζει την ανταμοιβή: πανοραμική θέα της πόλης!"
           }
         }
       ],
@@ -753,7 +816,8 @@
         "de": "Schwingen Sie sich auf Ihr Rad und starten Sie am Zentralplatz für einen aktiven Tag. Die Radtour führt Sie zunächst zum Folklore-Museum, um in die lokalen Traditionen einzutauchen. Danach überqueren Sie die Agia Paraskevi Brücke mit einer schönen Aussicht. Der Vormittag gipfelt im Tsipouro-Destillerie-Museum, wo eine Tour und eine Verkostung auf Sie warten. Dies ist auch der perfekte Zeitpunkt für ein herzhaftes Mittagessen. Am Nachmittag radeln Sie zur spirituellen Ruhe der Agios Gedeon Kirche, bevor Sie die Herausforderung des Prophet Elias Hügels annehmen. Der Aufstieg wird mit einer atemberaubenden Aussicht belohnt, die den perfekten Abschluss Ihrer Radtour bildet. Genießen Sie den Sonnenuntergang von oben.",
         "hu": "Pattanjon kerékpárra, és induljon a Központi térről egy aktív napra. A kerékpártúra először a Néprajzi Múzeumhoz vezet, hogy elmerüljön a helyi hagyományokban. Ezután átkel az Agia Paraskevi hídon, ahonnan gyönyörű a kilátás. A délelőtt a Tsipouro Lepárló Múzeumban csúcsosodik ki, ahol túra és kóstoló várja. Ez a tökéletes időpont egy kiadós ebédhez is. Délután tekerjen el a Szent Gedeon-templom spirituális nyugalmához, mielőtt elfogadná az Illés Próféta-hegy kihívását. A mászást lenyűgöző kilátás jutalmazza, amely tökéletes lezárása a kerékpártúrának. Élvezze a naplementét fentről.",
         "ro": "Urcați-vă pe bicicletă și porniți din Piața Centrală pentru o zi activă. Turul cu bicicleta vă duce mai întâi la Muzeul de Folclor pentru a vă cufunda în tradițiile locale. Apoi, veți traversa podul Agia Paraskevi, bucurându-vă de priveliște. Dimineața culminează la Muzeul Distileriei de Tsipouro, unde vă așteaptă un tur și o degustare. Acesta este și momentul perfect pentru un prânz copios. După-amiaza, pedalați spre liniștea spirituală a Bisericii Sfântul Gedeon înainte de a accepta provocarea Dealului Profetul Ilie. Urcarea este răsplătită cu vederi uluitoare, oferind finalul perfect pentru turul dvs. cu bicicleta. Bucurați-vă de apus de sus.",
-        "en": "Get on your bike and start from the Central Square for an active day. The bike tour first takes you to the Folklore Museum to immerse yourself in local traditions. Afterwards, you'll cross the Agia Paraskevi Bridge enjoying the view. The morning culminates at the Tsipouro Distillery Museum, where a tour and tasting await. This is also the perfect time for a hearty lunch. In the afternoon, cycle to the spiritual tranquility of the Church of Agios Gedeon before taking on the challenge of Prophet Elias Hill. The climb is rewarded with stunning views, providing the perfect end to your bike tour. Enjoy the sunset from the top."
+        "en": "Get on your bike and start from the Central Square for an active day. The bike tour first takes you to the Folklore Museum to immerse yourself in local traditions. Afterwards, you'll cross the Agia Paraskevi Bridge enjoying the view. The morning culminates at the Tsipouro Distillery Museum, where a tour and tasting await. This is also the perfect time for a hearty lunch. In the afternoon, cycle to the spiritual tranquility of the Church of Agios Gedeon before taking on the challenge of Prophet Elias Hill. The climb is rewarded with stunning views, providing the perfect end to your bike tour. Enjoy the sunset from the top.",
+        "el": "Πιάστε το ποδήλατό σας και ξεκινήστε από την Κεντρική Πλατεία για μια δραστήρια μέρα. Η ποδηλατική διαδρομή πρώτα σας οδηγεί στο Λαογραφικό Μουσείο για να βυθιστείτε στις τοπικές παραδόσεις. Στη συνέχεια θα διασχίσετε τη Γέφυρα Αγίας Παρασκευής απολαμβάνοντας τη θέα. Το πρωί κορυφώνεται στο Μουσείο Τσιπουροποίησης, όπου σας περιμένει ξενάγηση και δοκιμή. Αυτή είναι και η κατάλληλη στιγμή για ένα χορταστικό γεύμα. Το απόγευμα, ποδηλατήστε προς την πνευματική γαλήνη της Εκκλησίας του Αγίου Γεδεών πριν αναλάβετε την πρόκληση του Λόφου Προφήτη Ηλία. Η ανάβαση ανταμείβεται με εκπληκτική θέα, προσφέροντας το τέλειο τέλος στην ποδηλατική σας βόλτα. Απολαύστε το ηλιοβασίλεμα από την κορυφή."
       },
       "gastro_picks": {
         "de": [
@@ -949,6 +1013,12 @@
           "Wear a helmet for your safety.",
           "The climb to Prophet Elias Hill requires a good level of fitness.",
           "Always lock your bike securely when parking it."
+        ],
+        "el": [
+          "Ελέγξτε την κατάσταση του ποδηλάτου πριν ξεκινήσετε.",
+          "Φορέστε κράνος για την ασφάλειά σας.",
+          "Η ανάβαση στον Λόφο Προφήτη Ηλία απαιτεί καλή φυσική κατάσταση.",
+          "Κλειδώστε πάντα το ποδήλατό σας με ασφάλεια όταν το παρκάρετε."
         ]
       },
       "variants": {
@@ -957,7 +1027,8 @@
             "de": "Eine Radtour durch Tyrnavos bei Regen erfordert Vorsicht auf dem nassen Kopfsteinpflaster des Hauptplatzes. Wir starten zügig zum Volkskundemuseum, wo wir das Fahrrad sicher unterstellen können, um die Innenausstellungen zu besichtigen und den Regen abzuwarten.\n\nMittags führt der Weg über die Agia-Paraskevi-Brücke. Die Holzplanken können bei Nässe rutschig sein, daher ist ein langsames Tempo ratsam. Der Regen peitscht vom Fluss herauf, während wir Kurs auf das Tsipouro-Museum nehmen, um uns im Inneren zu trocknen.\n\nDer Nachmittag wird im Brennereimuseum verbracht. Hier können wir die nasse Ausrüstung ablegen und in die Geschichte der Destillation eintauchen. Danach radeln wir zur Kirche des Heiligen Gedeon für einen ruhigen, trockenen Moment vor der Weiterfahrt zum letzten Ziel.\n\nZum Abschluss fordern wir uns mit der Fahrt zum Prophet-Elias-Hügel heraus. Der Aufstieg bei Regen ist anstrengend und die Wege können schlammig sein. Die Aussicht auf das wolkenverhangene Tal bietet jedoch eine mystische Atmosphäre, bevor wir vorsichtig zurück in die Stadt fahren.",
             "hu": "Egy esős türnavoszi kerékpártúra óvatosságot igényel a főtér vizes macskakövén. Gyorsan a Néprajzi Múzeum felé vesszük az irányt, ahol biztonságban lelakatolhatjuk a bringát, amíg a benti kiállításokat böngésszük és megvárjuk a zápor végét.\n\nDélben az Agia Paraszkevi-hídon kelünk át. A fadeszkák vizesen csúszósak lehetnek, ezért lassú tempó javasolt. Az eső a folyó felől veri az arcunkat, miközben a Cipuro Múzeum felé tartunk, ahol végre fedél alá kerülünk.\n\nA délutánt a lepárló múzeumban töltjük. Itt megszáríthatjuk a vizes felszerelést és elmélyedhetünk a párlatkészítés történetében. Ezután az Ájosz Gedeon-templomhoz tekerünk egy csendes, száraz pihenőre, megcsodálva a belső mozaikokat.\n\nZárásként a Próféta Illés-domb következik. Az emelkedő esőben fárasztó, az utak sarasak és csúszósak lehetnek. A felhőbe burkolózó völgy látványa azonban misztikus hangulatot áraszt, mielőtt lassan visszatérnénk a város központjába.",
             "ro": "O tură cu bicicleta prin Tyrnavos pe ploaie necesită prudență pe pavajul ud din piața centrală. Pornim rapid spre Muzeul de Folclor, unde putem lăsa bicicleta în siguranță pentru a vizita expozițiile interioare și pentru a ne adăposti de ploaia torențială.\n\nLa prânz, drumul trece peste podul Agia Paraskevi. Scândurile de lemn pot fi foarte alunecoase, așa că se recomandă o viteză redusă. Ploaia suflă dinspre râu în timp ce ne îndreptăm spre Muzeul Tsipouro, căutând un loc uscat.\n\nDupă-amiaza este petrecută la muzeul distileriei. Aici ne putem lăsa echipamentul ud la uscat și ne putem cufunda în istoria distilării locale. Apoi pedalăm spre Biserica Sfântul Gedeon pentru un moment liniștit și uscat la interior.\n\nLa final, urmează dealul Profetului Ilie. Urcarea pe ploaie este obositoare, iar drumurile pot fi noroioase. Vederea asupra văii acoperite de nori oferă totuși o atmosferă mistică înainte de a ne întoarce cu prudență în oraș.",
-            "en": "A bike tour through Tyrnavos in the rain requires caution on the wet cobblestones of the Central Square. We head quickly to the Folklore Museum, where we can safely park the bike while browsing the indoor exhibits and waiting for the rain to ease.\n\nAt noon, the path leads over the Agia Paraskevi Bridge. The wooden planks can be slippery when wet, so a slow pace is advised. The rain blows up from the river as we set course for the Tsipouro Museum to find shelter indoors.\n\nThe afternoon is spent at the distillery museum. Here we can let our wet gear dry while diving into the history of local spirit distillation. Then we cycle to the Church of Agios Gedeon for a quiet, dry moment before continuing.\n\nFinally, we tackle Prophet Elias Hill. The climb in the rain is strenuous and the paths can be muddy and slick. However, the view of the cloud-covered valley offers a mystical atmosphere before we ride carefully back into the town center."
+            "en": "A bike tour through Tyrnavos in the rain requires caution on the wet cobblestones of the Central Square. We head quickly to the Folklore Museum, where we can safely park the bike while browsing the indoor exhibits and waiting for the rain to ease.\n\nAt noon, the path leads over the Agia Paraskevi Bridge. The wooden planks can be slippery when wet, so a slow pace is advised. The rain blows up from the river as we set course for the Tsipouro Museum to find shelter indoors.\n\nThe afternoon is spent at the distillery museum. Here we can let our wet gear dry while diving into the history of local spirit distillation. Then we cycle to the Church of Agios Gedeon for a quiet, dry moment before continuing.\n\nFinally, we tackle Prophet Elias Hill. The climb in the rain is strenuous and the paths can be muddy and slick. However, the view of the cloud-covered valley offers a mystical atmosphere before we ride carefully back into the town center.",
+            "el": "Μια ποδηλατική διαδρομή στο Τύρναβο με βροχή απαιτεί προσοχή στα βρεγμένα κυβόλιθα της Κεντρικής Πλατείας. Κατευθυνόμαστε γρήγορα στο Λαογραφικό Μουσείο, όπου μπορούμε να παρκάρουμε το ποδήλατο με ασφάλεια ενώ περιηγούμαστε στα εκθέματα εσωτερικού χώρου και περιμένουμε να κοπάσει η βροχή.\n\nΤο μεσημέρι, το μονοπάτι περνάει πάνω από τη Γέφυρα Αγίας Παρασκευής. Οι ξύλινες σανίδες μπορεί να είναι ολισθηρές όταν βραχούν, οπότε συστήνεται αργός ρυθμός. Η βροχή ανεβαίνει από το ποτάμι καθώς κατευθυνόμαστε προς το Μουσείο Τσίπουρου για να βρούμε καταφύγιο στο εσωτερικό.\n\nΤο απόγευμα περνάει στο μουσείο αποσταγματοποιίας. Εδώ μπορούμε να αφήσουμε τον βρεγμένο εξοπλισμό να στεγνώσει ενώ βυθιζόμαστε στην ιστορία της τοπικής παραγωγής ποτών. Έπειτα ποδηλατούμε προς την Εκκλησία του Αγίου Γεδεών για μια ήσυχη, στεγνή στιγμή πριν συνεχίσουμε.\n\nΤέλος, αναλαμβάνουμε τον Λόφο Προφήτη Ηλία. Η ανάβαση στη βροχή είναι επίπονη και τα μονοπάτια μπορεί να είναι λασπώδη και γλιστερά. Ωστόσο, η θέα της κοιλάδας καλυμμένης από σύννεφα προσφέρει μια μυστικιστική ατμόσφαιρα πριν επιστρέψουμε προσεκτικά στο κέντρο της πόλης."
           },
           "stops": [
             {
@@ -966,7 +1037,8 @@
                 "de": "Vorsicht beim Anfahren auf dem nassen Pflaster, Rutschgefahr.",
                 "hu": "Vigyázzon az induláskor a vizes kövön, csúszásveszély.",
                 "ro": "Atenție la plecare pe pavajul ud, risc de alunecare.",
-                "en": "Be careful when starting on the wet pavement; risk of slipping."
+                "en": "Be careful when starting on the wet pavement; risk of slipping.",
+                "el": "Προσοχή όταν ξεκινάτε στο βρεγμένο οδόστρωμα· κίνδυνος ολίσθησης."
               }
             },
             {
@@ -975,7 +1047,8 @@
                 "de": "Nutzen Sie den überdachten Eingangsbereich zum Parken.",
                 "hu": "Használja a fedett bejárati részt a kerékpár tárolására.",
                 "ro": "Folosiți zona de intrare acoperită pentru a parca bicicleta.",
-                "en": "Use the covered entrance area for bicycle parking."
+                "en": "Use the covered entrance area for bicycle parking.",
+                "el": "Χρησιμοποιήστε τον στεγασμένο χώρο εισόδου για στάθμευση ποδηλάτων."
               }
             },
             {
@@ -984,7 +1057,8 @@
                 "de": "Steigen Sie bei starkem Regen ab und schieben Sie über das Holz.",
                 "hu": "Heves esőben szálljon le és tolja a biciklit a fadeszkákon.",
                 "ro": "Coborâți de pe bicicletă în caz de ploaie torențială pe scânduri.",
-                "en": "Dismount and push your bike across the wood during heavy rain."
+                "en": "Dismount and push your bike across the wood during heavy rain.",
+                "el": "Κατεβείτε και σπρώξτε το ποδήλατο πάνω από το ξύλο σε δυνατή βροχή."
               }
             },
             {
@@ -993,7 +1067,8 @@
                 "de": "Hinterlegen Sie nasse Regenjacken an der Garderobe.",
                 "hu": "A vizes esőkabátokat tegye a ruhatárba.",
                 "ro": "Lăsați jachetele de ploaie ude la garderobă.",
-                "en": "Leave wet rain jackets at the cloakroom."
+                "en": "Leave wet rain jackets at the cloakroom.",
+                "el": "Αφήστε τα βρεγμένα αδιάβροχα στο παγκάκι/αποδυτήριο."
               }
             },
             {
@@ -1002,7 +1077,8 @@
                 "de": "Parken Sie das Rad im Windschatten der Kirchenmauer.",
                 "hu": "Parkoljon a templomfal szélárnyékában.",
                 "ro": "Parcați bicicleta la adăpostul peretelui bisericii.",
-                "en": "Park your bike in the lee of the church wall."
+                "en": "Park your bike in the lee of the church wall.",
+                "el": "Σταθμεύστε το ποδήλατο στην πλευρά που προστατεύει ο τοίχος της εκκλησίας."
               }
             },
             {
@@ -1011,7 +1087,8 @@
                 "de": "Schlammige Abschnitte auf dem Gipfelweg möglich.",
                 "hu": "Saras szakaszok fordulhatnak elő a csúcsra vezető úton.",
                 "ro": "Secțiuni noroioase posibile pe drumul spre vârf.",
-                "en": "Muddy sections possible on the summit path."
+                "en": "Muddy sections possible on the summit path.",
+                "el": "Δυνατότητα λασπωμένων τμημάτων στο μονοπάτι της κορυφής."
               }
             }
           ],
@@ -1043,6 +1120,13 @@
               "Waterproof panniers will protect your camera and souvenirs.",
               "The hill climb requires good tire tread in wet conditions.",
               "Turn on your lights; visibility is significantly worse in the rain."
+            ],
+            "el": [
+              "Φτερά λάσπης απαραίτητα εξαιτίας των νερολακκουβών στην πόλη.",
+              "Αποφύγετε το απότομο φρενάρισμα στη Γέφυρα Αγίας Παρασκευής.",
+              "Αδιάβροχες τσάντες θα προστατεύσουν την κάμερα και τα αναμνηστικά σας.",
+              "Η ανάβαση στο λόφο απαιτεί καλό πέλμα ελαστικών σε βρεγμένες συνθήκες.",
+              "Ανοίξτε τα φώτα σας· η ορατότητα είναι σημαντικά χειρότερη στη βροχή."
             ]
           }
         },
@@ -1051,7 +1135,8 @@
             "de": "Ein kühler Wintermorgen auf dem Fahrrad beginnt am Hauptplatz. Die frische Luft weht über die thessalische Ebene, während wir zügig zum Volkskundemuseum radeln. Die Straßen sind ruhig, was das Navigieren durch das Zentrum bei niedrigen Temperaturen erleichtert.\n\nMittags überqueren wir die Agia-Paraskevi-Brücke. Der Wind vom Titarisios-Fluss ist eisig, aber der Blick auf die schneebedeckten Gipfel in der Ferne ist bei klarer Sicht atemberaubend. Schnell steuern wir das Tsipouro-Museum an, um uns in den Innenräumen aufzuwärmen.\n\nNach der Besichtigung der Brennerei, bei der wir die Wärme der Kessel genießen, geht es zur Kirche des Heiligen Gedeon. Die kurzen Wege zwischen den kulturellen Stopps helfen dabei, nicht auszukühlen, während wir die Architektur und die sakrale Kunst bewundern.\n\nZum Abschluss fordern wir uns mit der Fahrt zum Prophet-Elias-Hügel heraus. Die Anstrengung hält die Körpertemperatur stabil, und oben angekommen, werden wir mit einem klaren Winterpanorama belohnt. Die Abfahrt in die Stadt erfolgt pünktlich zum frühen Sonnenuntergang um 17 Uhr.",
             "hu": "A hűvös téli reggel a főtéren kezdődik a bicikli nyergében. A thesszáliai síkság felől fújó friss levegő kísér minket a Néprajzi Múzeumáig. Az utcák csendesek, ami megkönnyíti a navigálást a központban a fagyos hőmérséklet ellenére is.\n\nDélben az Agia Paraszkevi-hídon kelünk át. A Titariszosz felől fújó szél jeges, de a távoli havas hegycsúcsok látványa tiszta időben lenyűgöző. Gyorsan a Cipuro Múzeum felé vesszük az irányt, hogy a fűtött termekben felmelegedjünk.\n\nA lepárló látogatása után, ahol élvezzük az üstök melegét, az Ájosz Gedeon-templom felé tekerünk. A kulturális megállók közötti rövid távok segítenek, hogy ne hűljünk ki, miközben az építészetet és a szakrális művészetet csodáljuk.\n\nZárásként próbára tesszük magunkat a Próféta Illés-dombra való feltekeréssel. A mozgás stabilan tartja a testhőt, a csúcsra érve pedig tiszta téli panoráma a jutalmunk. A városba való legurulás pontosan a 17 órai korai naplementére esik.",
             "ro": "O dimineață răcoroasă de iarnă pe bicicletă începe în piața centrală. Aerul proaspăt de pe câmpia Thessaliei ne însoțește spre Muzeul de Folclor. Străzile sunt liniștite, ceea ce ușurează navigarea prin centru în ciuda temperaturilor scăzute.\n\nLa prânz traversăm podul Agia Paraskevi. Vântul de pe râul Titarisios este înghețat, dar vederea culmilor înzăpezite din depărtare este uluitoare pe cerul senin. Ne îndreptăm rapid spre Muzeul Tsipouro pentru a ne încălzi la interior.\n\nDupă vizitarea distileriei, unde ne bucurăm de căldura cazanelor, mergem spre Biserica Sfântul Gedeon. Distanțele scurte între opririle culturale ajută la menținerea căldurii corporale în timp ce admirăm arhitectura și arta sacră.\n\nLa final, ne provocăm cu urcarea pe dealul Profetului Ilie. Efortul menține temperatura corpului stabilă, iar odată ajunși sus, suntem răsplătiți cu o panoramă clară de iarnă. Coborârea în oraș are loc exact la apusul soarelui, în jurul orei 17.",
-            "en": "A cool winter morning on the bike starts at the Central Square. The fresh air from the Thessalian plain accompanies us as we cycle briskly to the Folklore Museum. The streets are quiet, making navigation through the center easier despite the low temperatures.\n\nAt noon, we cross the Agia Paraskevi Bridge. The wind from the Titarisios River is icy, but the view of the snow-capped peaks in the distance is breathtaking on a clear day. We quickly head for the Tsipouro Museum to warm up in the heated interiors.\n\nAfter visiting the distillery, where we enjoy the warmth of the kettles, we head to the Church of Agios Gedeon. The short distances between cultural stops help keep us from getting too cold while admiring the architecture and sacred art.\n\nFinally, we challenge ourselves with the ride up Prophet Elias Hill. The exertion keeps the body temperature stable, and once at the top, we are rewarded with a clear winter panorama. The descent back into town occurs just in time for the early sunset at 5 PM."
+            "en": "A cool winter morning on the bike starts at the Central Square. The fresh air from the Thessalian plain accompanies us as we cycle briskly to the Folklore Museum. The streets are quiet, making navigation through the center easier despite the low temperatures.\n\nAt noon, we cross the Agia Paraskevi Bridge. The wind from the Titarisios River is icy, but the view of the snow-capped peaks in the distance is breathtaking on a clear day. We quickly head for the Tsipouro Museum to warm up in the heated interiors.\n\nAfter visiting the distillery, where we enjoy the warmth of the kettles, we head to the Church of Agios Gedeon. The short distances between cultural stops help keep us from getting too cold while admiring the architecture and sacred art.\n\nFinally, we challenge ourselves with the ride up Prophet Elias Hill. The exertion keeps the body temperature stable, and once at the top, we are rewarded with a clear winter panorama. The descent back into town occurs just in time for the early sunset at 5 PM.",
+            "el": "Ένα δροσερό χειμωνιάτικο πρωί με το ποδήλατο ξεκινά στην Κεντρική Πλατεία. Ο φρέσκος αέρας από τον θεσσαλικό κάμπο μας συνοδεύει καθώς ποδηλατούμε ζωηρά προς το Λαογραφικό Μουσείο. Οι δρόμοι είναι ήσυχοι, διευκολύνοντας την πλοήγηση στο κέντρο παρότι οι θερμοκρασίες είναι χαμηλές.\n\nΤο μεσημέρι, διασχίζουμε τη Γέφυρα Αγίας Παρασκευής. Ο άνεμος από τον ποταμό Τιταρήσιο είναι παγωμένος, αλλά η θέα των χιονισμένων κορυφών μακριά κόβει την ανάσα σε καθαρή μέρα. Κατευθυνόμαστε γρήγορα προς το Μουσείο Τσίπουρου για να ζεσταθούμε στο εσωτερικό με θέρμανση.\n\nΜετά την επίσκεψη στο αποστακτήριο, όπου απολαμβάνουμε τη ζέστη των λεβήτων, κατευθυνόμαστε στην Εκκλησία του Αγίου Γεδεών. Οι σύντομες αποστάσεις μεταξύ των πολιτιστικών στάσεων μας βοηθούν να μην κρυώνουμε πολύ ενώ θαυμάζουμε την αρχιτεκτονική και τη θρησκευτική τέχνη.\n\nΤέλος, προκλήση για οδήγηση μέχρι τον Λόφο Προφήτη Ηλία. Η προσπάθεια διατηρεί τη θερμοκρασία του σώματος σταθερή και μόλις φτάσουμε στην κορυφή, ανταμειβόμαστε με καθαρό χειμερινό πανόραμα. Η κατάβαση πίσω στην πόλη γίνεται έγκαιρα για το πρώιμο ηλιοβασίλεμα στις 17:00."
           },
           "stops": [
             {
@@ -1060,7 +1145,8 @@
                 "de": "Handschuhe sind für die erste Etappe am Morgen unerlässlich.",
                 "hu": "A kesztyű elengedhetetlen a reggeli első szakaszhoz.",
                 "ro": "Mănușile sunt esențiale pentru prima etapă a dimineții.",
-                "en": "Gloves are essential for the first stage in the morning."
+                "en": "Gloves are essential for the first stage in the morning.",
+                "el": "Γάντια απαραίτητα για το πρώτο σκέλος το πρωί."
               }
             },
             {
@@ -1069,7 +1155,8 @@
                 "de": "Lassen Sie das Rad nicht zu lange im Frost stehen.",
                 "hu": "Ne hagyja a biciklit túl sokáig a fagyban.",
                 "ro": "Nu lăsați bicicleta prea mult timp în ger.",
-                "en": "Don't leave the bike out in the frost for too long."
+                "en": "Don't leave the bike out in the frost for too long.",
+                "el": "Μην αφήνετε το ποδήλατο στον παγετό για πολύ ώρα."
               }
             },
             {
@@ -1078,7 +1165,8 @@
                 "de": "Vorsicht bei Reifbildung auf den Holzplanken.",
                 "hu": "Vigyázzon a fadeszkákon kialakuló zúzmarára.",
                 "ro": "Atenție la formarea chiciurii pe scândurile de lemn.",
-                "en": "Watch out for frost formation on the wooden planks."
+                "en": "Watch out for frost formation on the wooden planks.",
+                "el": "Προσέξτε για δημιουργία παγετού στις ξύλινες σανίδες."
               }
             },
             {
@@ -1087,7 +1175,8 @@
                 "de": "Wärmen Sie sich in der Nähe der Brennkessel auf.",
                 "hu": "Melegedjen fel a lepárlóüstök közelében.",
                 "ro": "Încălziți-vă lângă cazanele de distilare.",
-                "en": "Warm yourself up near the distillation kettles."
+                "en": "Warm yourself up near the distillation kettles.",
+                "el": "Ζεσταθείτε κοντά στους λεβητοστάσιους αποσταγματοποίησης."
               }
             },
             {
@@ -1096,7 +1185,8 @@
                 "de": "Die Kirche bietet eine gute windgeschützte Pause.",
                 "hu": "A templom jó szélvédett pihenőhelyet kínál.",
                 "ro": "Biserica oferă o pauză bună, ferită de vânt.",
-                "en": "The church offers a good wind-protected break."
+                "en": "The church offers a good wind-protected break.",
+                "el": "Η εκκλησία προσφέρει καλό καταφύγιο από τον άνεμο για διάλειμμα."
               }
             },
             {
@@ -1105,7 +1195,8 @@
                 "de": "Der Aufstieg hält die Körpertemperatur stabil.",
                 "hu": "Az emelkedő segít stabilan tartani a testhőt.",
                 "ro": "Urcarea menține temperatura corpului stabilă.",
-                "en": "The climb helps keep your body temperature stable."
+                "en": "The climb helps keep your body temperature stable.",
+                "el": "Η ανάβαση βοηθά στη διατήρηση της θερμοκρασίας του σώματος."
               }
             }
           ],
@@ -1137,6 +1228,13 @@
               "The descent from the hill can be very cold due to the wind chill.",
               "Check tire pressure; it often drops in cold weather.",
               "Lighting is needed from 4:30 PM due to early twilight."
+            ],
+            "el": [
+              "Φορέστε ένα αδιάβροχο/αντιανεμικό επάνω από τα χειμερινά ρούχα.",
+              "Αποφύγετε μεγάλες περιόδους ορθοστασίας έξω χωρίς κίνηση.",
+              "Η κατάβαση από τον λόφο μπορεί να είναι πολύ κρύα λόγω του ψύχους του ανέμου.",
+              "Ελέγξτε την πίεση των ελαστικών· συνήθως πέφτει στο κρύο.",
+              "Χρειάζεται φωτισμός από τις 16:30 λόγω του πρώιμου λυκόφωτος."
             ]
           }
         }
@@ -1155,7 +1253,8 @@
             "de": "Prophet Elias Hügel",
             "hu": "Illés Próféta-hegy",
             "ro": "Dealul Profetul Ilie",
-            "en": "Prophet Elias Hill"
+            "en": "Prophet Elias Hill",
+            "el": "Λόφος Προφήτη Ηλία"
           },
           "coords": [
             22.275,
@@ -1171,7 +1270,8 @@
             "de": "Beginnen Sie den Tag mit einer fantastischen Aussicht auf die Stadt und die Ebene von Thessalien.",
             "hu": "Kezdje a napot egy fantasztikus kilátással a városra és a thesszáliai síkságra.",
             "ro": "Începeți ziua cu o priveliște fantastică a orașului și a câmpiei Tesaliei.",
-            "en": "Start the day with a fantastic view of the city and the Thessalian plain."
+            "en": "Start the day with a fantastic view of the city and the Thessalian plain.",
+            "el": "Ξεκινήστε τη μέρα με φανταστική θέα της πόλης και του θεσσαλικού κάμπου."
           }
         },
         {
@@ -1179,7 +1279,8 @@
             "de": "Tsipouro-Destillerie Museum",
             "hu": "Tsipouro Lepárló Múzeum",
             "ro": "Muzeul Distileriei de Tsipouro",
-            "en": "Tsipouro Distillery Museum"
+            "en": "Tsipouro Distillery Museum",
+            "el": "Μουσείο Τσιπουροποιίας"
           },
           "coords": [
             22.29,
@@ -1195,7 +1296,8 @@
             "de": "Fahren Sie vorsichtig, nachdem Sie den lokalen Tsipouro probiert haben! Am besten als Beifahrer.",
             "hu": "Vezessen óvatosan, miután megkóstolta a helyi tsipourót! A legjobb, ha utasként teszi.",
             "ro": "Conduceți cu prudență după ce ați gustat tsipouro-ul local! Cel mai bine ca pasager.",
-            "en": "Drive carefully after tasting the local tsipouro! Best as a passenger."
+            "en": "Drive carefully after tasting the local tsipouro! Best as a passenger.",
+            "el": "Οδηγήστε με προσοχή μετά τη δοκιμή του τοπικού τσίπουρου! Ιδανικά ως συνοδηγός."
           }
         },
         {
@@ -1203,7 +1305,8 @@
             "de": "Zentralplatz (Parken)",
             "hu": "Központi tér (Parkolás)",
             "ro": "Piața Centrală (Parcare)",
-            "en": "Central Square (Parking)"
+            "en": "Central Square (Parking)",
+            "el": "Κεντρική Πλατεία (Στάθμευση)"
           },
           "coords": [
             22.284,
@@ -1219,7 +1322,8 @@
             "de": "Parken Sie hier und erkunden Sie das Zentrum zu Fuß. Guter Ausgangspunkt für das Mittagessen.",
             "hu": "Parkoljon itt, és fedezze fel a központot gyalog. Jó kiindulópont az ebédhez.",
             "ro": "Parcați aici și explorați centrul pe jos. Un bun punct de plecare pentru prânz.",
-            "en": "Park here and explore the center on foot. Good starting point for lunch."
+            "en": "Park here and explore the center on foot. Good starting point for lunch.",
+            "el": "Παρκάρετε εδώ και εξερευνήστε το κέντρο πεζοί. Καλό σημείο εκκίνησης για μεσημεριανό."
           }
         },
         {
@@ -1227,7 +1331,8 @@
             "de": "Rathaus von Tyrnavos",
             "hu": "Tirnavoszi városháza",
             "ro": "Primăria din Tyrnavos",
-            "en": "Tyrnavos Town Hall"
+            "en": "Tyrnavos Town Hall",
+            "el": "Δημαρχείο Τυρνάβου"
           },
           "coords": [
             22.284,
@@ -1243,7 +1348,8 @@
             "de": "Ein kurzer Spaziergang vom Parkplatz zum architektonischen Juwel der Stadt.",
             "hu": "Egy rövid séta a parkolótól a város építészeti gyöngyszeméhez.",
             "ro": "O scurtă plimbare de la parcare la bijuteria arhitecturală a orașului.",
-            "en": "A short walk from the parking lot to the city's architectural gem."
+            "en": "A short walk from the parking lot to the city's architectural gem.",
+            "el": "Μικρή απόσταση με τα πόδια από τον χώρο στάθμευσης έως το αρχιτεκτονικό κόσμημα της πόλης."
           }
         },
         {
@@ -1251,7 +1357,8 @@
             "de": "Folklore-Museum",
             "hu": "Néprajzi Múzeum",
             "ro": "Muzeul de Folclor",
-            "en": "Folklore Museum"
+            "en": "Folklore Museum",
+            "el": "Λαογραφικό Μουσείο"
           },
           "coords": [
             22.2815,
@@ -1267,7 +1374,8 @@
             "de": "Nach dem Mittagessen tauchen Sie in die faszinierende Vergangenheit von Tyrnavos ein.",
             "hu": "Ebéd után merüljön el Tirnavosz lenyűgöző múltjában.",
             "ro": "După prânz, scufundați-vă în trecutul fascinant al orașului Tyrnavos.",
-            "en": "After lunch, immerse yourself in the fascinating past of Tyrnavos."
+            "en": "After lunch, immerse yourself in the fascinating past of Tyrnavos.",
+            "el": "Μετά το γεύμα, βυθιστείτε στο συναρπαστικό παρελθόν του Τυρνάβου."
           }
         },
         {
@@ -1275,7 +1383,8 @@
             "de": "Kirche Agios Gedeon",
             "hu": "Szent Gedeon-templom",
             "ro": "Biserica Sfântul Gedeon",
-            "en": "Church of Agios Gedeon"
+            "en": "Church of Agios Gedeon",
+            "el": "Εκκλησία του Αγίου Γεδεών"
           },
           "coords": [
             22.282,
@@ -1291,7 +1400,8 @@
             "de": "Ein Ort der Ruhe, nur einen kurzen Spaziergang vom Museum entfernt.",
             "hu": "A nyugalom helye, csak egy rövid sétára a múzeumtól.",
             "ro": "Un loc de liniște, la doar o scurtă plimbare de muzeu.",
-            "en": "A place of tranquility just a short walk from the museum."
+            "en": "A place of tranquility just a short walk from the museum.",
+            "el": "Ένας τόπος γαλήνης μόλις λίγα βήματα από το μουσείο."
           }
         },
         {
@@ -1299,7 +1409,8 @@
             "de": "Agia Paraskevi Brücke",
             "hu": "Agia Paraskevi híd",
             "ro": "Podul Agia Paraskevi",
-            "en": "Agia Paraskevi Bridge"
+            "en": "Agia Paraskevi Bridge",
+            "el": "Γέφυρα Αγίας Παρασκευής"
           },
           "coords": [
             22.286,
@@ -1315,7 +1426,8 @@
             "de": "Beenden Sie Ihren Spaziergang mit einem Blick von dieser historischen Brücke.",
             "hu": "Fejezze be a sétát egy pillantással erről a történelmi hídról.",
             "ro": "Încheiați-vă plimbarea cu o priveliște de pe acest pod istoric.",
-            "en": "End your walk with a view from this historic bridge."
+            "en": "End your walk with a view from this historic bridge.",
+            "el": "Κλείστε τη βόλτα σας με θέα από αυτή την ιστορική γέφυρα."
           }
         }
       ],
@@ -1323,7 +1435,8 @@
         "de": "Mit dem Auto haben Sie die Flexibilität, den Tag auf dem Prophet Elias Hügel mit einer atemberaubenden Aussicht zu beginnen. Fahren Sie dann zur berühmten Tsipouro-Destillerie, um an einer Führung und Verkostung teilzunehmen. Danach parken Sie im Stadtzentrum, um den Rest des Tages zu Fuß zu erkunden. Dies ist der perfekte Zeitpunkt für ein Mittagessen in einer traditionellen Taverne. Nach dem Essen entdecken Sie das Herz von Tyrnavos: Schlendern Sie am Rathaus vorbei zum faszinierenden Folklore-Museum und finden Sie Ruhe in der Agios Gedeon Kirche. Beenden Sie Ihren Tag mit einem gemütlichen Spaziergang zur Agia Paraskevi Brücke, bevor Sie zu Ihrem Auto zurückkehren.",
         "hu": "Az autó rugalmasságot biztosít, hogy a napot az Illés Próféta-hegyen kezdje, lélegzetelállító kilátással. Ezután vezessen el a híres Tsipouro Lepárlóhoz egy túrára és kóstolóra. Ezt követően parkoljon le a városközpontban, hogy a nap hátralévő részét gyalog fedezze fel. Ez a tökéletes időpont egy ebédre egy hagyományos tavernában. Ebéd után fedezze fel Tirnavosz szívét: sétáljon el a városháza mellett a lenyűgöző Néprajzi Múzeumig, és találjon békét a Szent Gedeon-templomban. Zárja a napot egy kellemes sétával az Agia Paraskevi hídhoz, mielőtt visszatérne az autójához.",
         "ro": "Cu mașina, aveți flexibilitatea de a începe ziua pe Dealul Profetul Ilie cu priveliști uluitoare. Apoi, conduceți la faimoasa Distilerie de Tsipouro pentru un tur și o degustare. După aceea, parcați în centrul orașului pentru a explora restul zilei pe jos. Acesta este momentul perfect pentru prânz la o tavernă tradițională. După masă, descoperiți inima orașului Tyrnavos: plimbați-vă pe lângă Primărie până la fascinantul Muzeu de Folclor și găsiți liniște la Biserica Sfântul Gedeon. Încheiați-vă ziua cu o plimbare agale la Podul Agia Paraskevi înainte de a vă întoarce la mașină.",
-        "en": "With a car, you have the flexibility to start your day atop Prophet Elias Hill for breathtaking views. Then, drive to the famous Tsipouro Distillery for a tour and tasting. Afterwards, park in the city center to explore for the rest of the day on foot. This is the perfect time for lunch at a traditional taverna. After your meal, discover the heart of Tyrnavos: stroll past the Town Hall to the fascinating Folklore Museum and find peace at the Church of Agios Gedeon. End your day with a leisurely walk to the Agia Paraskevi Bridge before returning to your car."
+        "en": "With a car, you have the flexibility to start your day atop Prophet Elias Hill for breathtaking views. Then, drive to the famous Tsipouro Distillery for a tour and tasting. Afterwards, park in the city center to explore for the rest of the day on foot. This is the perfect time for lunch at a traditional taverna. After your meal, discover the heart of Tyrnavos: stroll past the Town Hall to the fascinating Folklore Museum and find peace at the Church of Agios Gedeon. End your day with a leisurely walk to the Agia Paraskevi Bridge before returning to your car.",
+        "el": "Με αυτοκίνητο, έχετε την ευελιξία να ξεκινήσετε τη μέρα σας από την κορυφή του Λόφου Προφήτη Ηλία για εκπληκτική θέα. Έπειτα, οδηγήστε στο διάσημο Τσιπουροποιείο για ξενάγηση και δοκιμή. Στη συνέχεια, παρκάρετε στο κέντρο της πόλης για να εξερευνήσετε πεζοί την υπόλοιπη μέρα. Αυτή είναι η κατάλληλη στιγμή για γεύμα σε παραδοσιακή ταβέρνα. Μετά το γεύμα, ανακαλύψτε την καρδιά του Τυρνάβου: περπατήστε μπροστά από το Δημαρχείο μέχρι το ενδιαφέρον Λαογραφικό Μουσείο και βρείτε γαλήνη στην Εκκλησία του Αγίου Γεδεών. Τελειώστε τη μέρα σας με έναν ήρεμο περίπατο προς τη Γέφυρα Αγίας Παρασκευής πριν επιστρέψετε στο αυτοκίνητο."
       },
       "gastro_picks": {
         "de": [
@@ -1519,6 +1632,12 @@
           "A GPS or navigation app is helpful for finding the destinations outside the center.",
           "Allow enough time for the tsipouro tasting and do not drive immediately afterwards.",
           "The 'cluster-walking' strategy saves time and stress from finding parking."
+        ],
+        "el": [
+          "Δώστε προσοχή στις πινακίδες στάθμευσης στο κέντρο της πόλης.",
+          "GPS ή εφαρμογή πλοήγησης βοηθούν για την εύρεση προορισμών εκτός κέντρου.",
+          "Αφιερώστε αρκετό χρόνο για τη δοκιμή τσίπουρου και μην οδηγήσετε αμέσως μετά.",
+          "Η στρατηγική «ομαδικών περιπάτων» εξοικονομεί χρόνο και άγχος από την εύρεση στάθμευσης."
         ]
       },
       "variants": {
@@ -1527,7 +1646,8 @@
             "de": "Die Fahrt beginnt am nebelverhangenen Prophet-Elias-Hügel. Der Regen trommelt auf das Autodach, während wir den Panoramablick über Tyrnavos genießen, bevor wir zur Tsipouro-Brennerei hinunterfahren. Das Fahrzeug bietet den ganzen Tag über eine trockene und komfortable Basis.\n\nMittags parken wir bequem in der Nähe des Hauptplatzes. Ein kurzer Sprint zum Rathaus ermöglicht es, die neoklassizistische Architektur zu bewundern, ohne durchnässt zu werden. Danach geht es zum Volkskundemuseum, wo wir ausgiebig Zeit im Trockenen verbringen und die Ausstellungen studieren.\n\nDer Nachmittag ist der Kultur gewidmet. Der Besuch der Kirche des Heiligen Gedeon ist bei Regen besonders stimmungsvoll. Die kurzen Wege vom Parkplatz zur Kirche minimieren den Kontakt mit dem Wetter, während wir die kunstvollen Mosaike und Details im Inneren der Kirche betrachten.\n\nZum Abschluss fahren wir zur Agia-Paraskevi-Brücke. Vom Auto aus lässt sich das Naturschauspiel des anschwellenden Titarisios-Flusses beobachten. Ein letzter Blick auf die historischen Stätten der Stadt durch die Regenschleier, bevor wir den Tag gemütlich und trocken ausklingen lassen.",
             "hu": "Az utazás a ködbe burkolózó Próféta Illés-dombon kezdődik. Az eső az autótetőn kopog, miközben Türnavosz panorámájában gyönyörködünk, mielőtt legurulnánk a Cipuro lepárlóhoz. Az autó száraz és kényelmes bázist nyújt az egész napos programhoz.\n\nDélben kényelmesen parkolunk a főtér közelében. Egy rövid sprint a városházához lehetővé teszi a neoklasszicista építészet megcsodálását anélkül, hogy eláznánk. Ezután a Néprajzi Múzeumba hajtunk, ahol bőséges időt tölthetünk a szárazban a kiállításokat nézve.\n\nA délután a kultúráé. Az Ájosz Gedeon-templom meglátogatása esőben különösen hangulatos. A parkolótól a templomáig tartó rövid táv minimalizálja az időjárással való érintkezést, miközben a belső mozaikokat és a védőszent 1818-as emlékeit tanulmányozzuk.\n\nZárásként az Agia Paraszkevi-hídhoz hajtunk. Az autóból is megfigyelhető a Titariszosz-folyó látványos vízduzzadása az esőzések után. Egy utolsó pillantás a város történelmi helyszíneire az esőfüggönyön át, mielőtt kényelmesen befejeznénk a napot.",
             "ro": "Călătoria începe pe dealul Profetului Ilie, acoperit de ceață. Ploaia bate în plafonul mașinii în timp ce admirăm panorama orașului Tyrnavos, înainte de a coborî spre distileria de tsipouro. Vehiculul oferă o bază uscată și confortabilă pentru întreaga zi.\n\nLa prânz, parcăm confortabil în apropierea pieței centrale. Un scurt sprint spre primărie permite admirarea arhitecturii neoclasice fără a ne uda prea tare. Apoi mergem la Muzeul de Folclor, unde petrecem mult timp la adăpost vizitând expozițiile interioare.\n\nDupă-amiaza este dedicată culturii locale. Vizitarea Bisericii Sfântul Gedeon este deosebit de atmosferică pe ploaie. Distanțele scurte de la parcare la biserică minimizează contactul cu vremea nefavorabilă în timp ce studiem mozaicurile și detaliile interioare valoroase.\n\nLa final, conducem spre podul Agia Paraskevi. Din mașină se poate observa spectacolul natural al râului Titarisios umflat de apele ploilor recente. O ultimă privire asupra siturilor istorice ale orașului prin perdeaua de ploaie înainte de a încheia ziua confortabil.",
-            "en": "The journey begins at the mist-shrouded Prophet Elias Hill. Rain drums on the car roof while we enjoy the panoramic view over Tyrnavos before driving down to the Tsipouro distillery. The vehicle provides a dry and comfortable base throughout the day.\n\nAt noon, we park conveniently near the Central Square. A short sprint to the Town Hall allows us to admire the neoclassical architecture without getting soaked. Then we drive to the Folklore Museum, where we spend plenty of time indoors studying the exhibits.\n\nThe afternoon is dedicated to culture. Visiting the Church of Agios Gedeon is particularly atmospheric in the rain. The short distances from the parking lot to the church minimize contact with the weather while we examine the intricate mosaics and interior details.\n\nFinally, we drive to the Agia Paraskevi Bridge. From the car, you can observe the natural spectacle of the rising Titarisios River. A final look at the city's historical sites through the rain before comfortably ending the day in a dry environment."
+            "en": "The journey begins at the mist-shrouded Prophet Elias Hill. Rain drums on the car roof while we enjoy the panoramic view over Tyrnavos before driving down to the Tsipouro distillery. The vehicle provides a dry and comfortable base throughout the day.\n\nAt noon, we park conveniently near the Central Square. A short sprint to the Town Hall allows us to admire the neoclassical architecture without getting soaked. Then we drive to the Folklore Museum, where we spend plenty of time indoors studying the exhibits.\n\nThe afternoon is dedicated to culture. Visiting the Church of Agios Gedeon is particularly atmospheric in the rain. The short distances from the parking lot to the church minimize contact with the weather while we examine the intricate mosaics and interior details.\n\nFinally, we drive to the Agia Paraskevi Bridge. From the car, you can observe the natural spectacle of the rising Titarisios River. A final look at the city's historical sites through the rain before comfortably ending the day in a dry environment.",
+            "el": "Το ταξίδι ξεκινάει στον ομίχλης Λόφο Προφήτη Ηλία. Η βροχή χτυπάει στην οροφή του αυτοκινήτου ενώ απολαμβάνουμε την πανοραμική θέα πάνω από τον Τύρναβο πριν κατεβούμε προς το αποστακτήριο τσίπουρου. Το όχημα προσφέρει ένα ξηρό και άνετο ορμητήριο καθ’ όλη τη διάρκεια της ημέρας.\n\nΤο μεσημέρι, παρκάρουμε άνετα κοντά στην Κεντρική Πλατεία. Ένα μικρό σπριντ προς το Δημαρχείο μας επιτρέπει να θαυμάσουμε τη νεοκλασική αρχιτεκτονική χωρίς να βραχούμε. Έπειτα οδηγούμε στο Λαογραφικό Μουσείο, όπου περνάμε αρκετό χρόνο στο εσωτερικό μελέτης των εκθεμάτων.\n\nΤο απόγευμα αφιερώνεται στον πολιτισμό. Η επίσκεψη στην Εκκλησία του Αγίου Γεδεών είναι ιδιαίτερα ατμοσφαιρική στη βροχή. Οι μικρές αποστάσεις από τον χώρο στάθμευσης στην εκκλησία ελαχιστοποιούν την έκθεση στον καιρό ενώ εξετάζουμε τα περίτεχνα μωσαϊκά και τις εσωτερικές λεπτομέρειες.\n\nΤέλος, οδηγούμε προς τη Γέφυρα Αγίας Παρασκευής. Από το αυτοκίνητο μπορείτε να παρατηρήσετε το φυσικό θέαμα του ανυψούμενου ποταμού Τιταρήσιου. Μια τελευταία ματιά στα ιστορικά σημεία της πόλης μέσα από τη βροχή πριν ολοκληρώσετε την ημέρα σε ένα ξηρό περιβάλλον."
           },
           "stops": [
             {
@@ -1536,7 +1656,8 @@
                 "de": "Bleiben Sie bei starkem Regen für den Ausblick im Fahrzeug.",
                 "hu": "Heves esőben maradjon a járműben a kilátás élvezetéhez.",
                 "ro": "Rămâneți în vehicul pentru panoramă în caz de ploaie torențială.",
-                "en": "Stay in the vehicle for the view during heavy rain."
+                "en": "Stay in the vehicle for the view during heavy rain.",
+                "el": "Μείνετε στο όχημα για θέα σε δυνατή βροχή."
               }
             },
             {
@@ -1545,7 +1666,8 @@
                 "de": "Kostenlose Parkplätze direkt am Museumsgelände.",
                 "hu": "Ingyenes parkolóhelyek közvetlenül a múzeum területén.",
                 "ro": "Locuri de parcare gratuite direct în incinta muzeului.",
-                "en": "Free parking spaces directly on the museum grounds."
+                "en": "Free parking spaces directly on the museum grounds.",
+                "el": "Δωρεάν χώροι στάθμευσης ακριβώς στον χώρο του μουσείου."
               }
             },
             {
@@ -1554,7 +1676,8 @@
                 "de": "Nutzen Sie den bewachten Parkplatz in der Nähe der Post.",
                 "hu": "Használja a posta közeli őrzött parkolót.",
                 "ro": "Folosiți parcarea păzită din apropierea poștei.",
-                "en": "Use the guarded parking lot near the post office."
+                "en": "Use the guarded parking lot near the post office.",
+                "el": "Χρησιμοποιήστε το φυλασσόμενο πάρκινγκ κοντά στο ταχυδρομείο."
               }
             },
             {
@@ -1563,7 +1686,8 @@
                 "de": "Lassen Sie Mitfahrer direkt vor dem Eingang aussteigen.",
                 "hu": "Az utasok közvetlenül a bejáratnál is kiszállhatnak.",
                 "ro": "Lăsați pasagerii să coboare direct în fața intrării.",
-                "en": "Drop off passengers directly in front of the entrance."
+                "en": "Drop off passengers directly in front of the entrance.",
+                "el": "Αφήστε επιβάτες απευθείας μπροστά στην είσοδο."
               }
             },
             {
@@ -1572,7 +1696,8 @@
                 "de": "Ideal für eine längere Regenpause am Nachmittag.",
                 "hu": "Ideális egy hosszabb délutáni esőszünethez.",
                 "ro": "Ideal pentru o pauză de ploaie mai lungă după-amiaza.",
-                "en": "Ideal for a longer rain break in the afternoon."
+                "en": "Ideal for a longer rain break in the afternoon.",
+                "el": "Ιδανικό για μεγαλύτερο διάλειμμα λόγω βροχής το απόγευμα."
               }
             },
             {
@@ -1581,7 +1706,8 @@
                 "de": "Gute Parkmöglichkeiten in den Seitenstraßen der Kirche.",
                 "hu": "Jó parkolási lehetőség a templom melletti mellékutcákban.",
                 "ro": "Posibilități bune de parcare în străzile laterale bisericii.",
-                "en": "Good parking options in the side streets near the church."
+                "en": "Good parking options in the side streets near the church.",
+                "el": "Καλές επιλογές στάθμευσης σε παράδρομους κοντά στην εκκλησία."
               }
             },
             {
@@ -1590,7 +1716,8 @@
                 "de": "Vom Brückenkopf aus hat man einen guten Blick aus dem Auto.",
                 "hu": "A hídfőtől jó kilátás nyílik az autóból is.",
                 "ro": "De la capătul podului se vede bine chiar și din mașină.",
-                "en": "There is a good view even from the car at the bridgehead."
+                "en": "There is a good view even from the car at the bridgehead.",
+                "el": "Υπάρχει καλή θέα ακόμα κι από το αυτοκίνητο στο σημείο της γέφυρας."
               }
             }
           ],
@@ -1622,6 +1749,13 @@
               "Avoid driving on unpaved paths on the hill during rain.",
               "Keep a towel in the car to keep seats dry.",
               "Visibility along the Titarisios River may be limited by spray."
+            ],
+            "el": [
+              "Οι δρόμοι μπορεί να συγκεντρώνουν νερό σε χαμηλές περιοχές κοντά στον Τύρναβο.",
+              "Παρκάρετε όσο το δυνατόν πιο κοντά στις εισόδους των αξιοθεάτων.",
+              "Αποφύγετε την οδήγηση σε ανεστραμμένους χωματόδρομους στον λόφο κατά τη βροχή.",
+              "Κρατήστε μια πετσέτα στο αυτοκίνητο για να διατηρείτε στεγνά τα καθίσματα.",
+              "Η ορατότητα κατά μήκος του ποταμού Τιταρήσιου μπορεί να περιοριστεί από τα νερά της βροχής."
             ]
           }
         },
@@ -1630,7 +1764,8 @@
             "de": "Ein klarer Wintertag beginnt mit der Fahrt zum Prophet-Elias-Hügel. Die Heizung im Auto sorgt für behaglichen Komfort, während wir das frostige Panorama der thessalischen Ebene bewundern. Danach geht es hinunter zur Tsipouro-Brennerei, wo die Tradition das ganze Jahr über lebendig ist.\n\nMittags erreichen wir den Stadtkern und nutzen den Parkplatz am Hauptplatz. Ein kurzer Spaziergang zum Rathaus zeigt die winterliche Ruhe der Stadt unter dem klaren Himmel. Die Kälte wird durch die Vorfreude auf das beheizte Volkskundemuseum gemildert, das wir als Nächstes ansteuern.\n\nDer Nachmittag gehört der Besinnlichkeit in der Kirche des Heiligen Gedeon. Das Auto ermöglicht es uns, flexibel und warm zwischen den Stopps zu wechseln, ohne lange der Kälte ausgesetzt zu sein. Die Architektur der Kirche strahlt in der kühlen Winterluft eine besondere Erhabenheit aus.\n\nZum Abschluss fahren wir zur Agia-Paraskevi-Brücke. In der frühen Dämmerung gegen 17 Uhr wirken die Lichter der Stadt besonders einladend und festlich. Ein letzter Stopp, um die Atmosphäre am Fluss einzufangen, bevor wir uns in eine der warmen Tavernen zum Abendessen zurückziehen.",
             "hu": "Egy tiszta téli nap a Próféta Illés-dombra való felhajtással kezdődik. Az autó fűtése kényelmet nyújt, miközben a thesszáliai síkság deres panorámájában gyönyörködünk a fűtött kabinból. Ezután a Cipuro lepárlóhoz gurulunk le, ahol a hagyományok télen is élnek.\n\nDélben érjük el a városmagot, és a főtéri parkolót használjuk. Egy rövid séta a városházához megmutatja a város téli nyugalmát a tiszta égbolt alatt. A hideget enyhíti a fűtött Néprajzi Múzeum ígérete, amelyet következőként veszünk célba, elmerülve a múlt értékeiben.\n\nA délután az Ájosz Gedeon-templom meghittségéé. Az autó lehetővé teszi a rugalmas és meleg váltást a megállók között, anélkül, hogy hosszan ki lennénk téve a fagyos és metsző szélnek. A templom építészete különleges méltóságot áraszt a tiszta téli levegőben.\n\nZárásként az Agia Paraszkevi-hídhoz hajtunk. A korai, 17 órai szürkületben a város fényei különösen hívogatóak és ünnepiek. Egy utolsó megálló a folyóparti hangulatért, mielőtt visszahúzódnánk vacsorázni az egyik meleg és barátságos helyi tavernába.",
             "ro": "O zi senină de iarnă începe cu drumul spre dealul Profetului Ilie. Încălzirea din mașină oferă un confort sporit în timp ce admirăm panorama înghețată a câmpiei Thessaliei. Apoi coborâm spre distileria de tsipouro, unde tradiția locală este vie în orice sezon.\n\nLa prânz ajungem în centrul orașului și folosim parcarea din piața centrală. O scurtă plimbare spre primărie arată liniștea de iarnă a orașului sub cerul senin. Frigul este atenuat de promisiunea Muzeului de Folclor încălzit, spre care ne îndreptăm în continuare pentru a studia exponatele.\n\nDupă-amiaza aparține contemplării în Biserica Sfântul Gedeon. Mașina ne permite să trecem flexibil și la căldură de la o oprire la alta fără a fi expuși mult timp la frigul de afară. Arhitectura bisericii emană o noblețe deosebită în aerul clar și tăios de iarnă.\n\nLa final, conducem spre podul Agia Paraskevi. În amurgul timpuriu, în jurul orei 17, luminile orașului par deosebit de primitoare și festive pe malul apei. O ultimă oprire pentru a surprinde atmosfera de pe râu înainte de a ne retrage la cină într-una dintre tavernele calde ale orașului.",
-            "en": "A clear winter day begins with the drive up Prophet Elias Hill. The car's heater ensures cozy comfort while we admire the frosty panorama of the Thessalian plain. Then we head down to the Tsipouro distillery, where local tradition remains vibrant throughout the year.\n\nAt noon, we reach the city center and use the parking lot at the Central Square. A short walk to the Town Hall reveals the winter tranquility of the town under the clear sky. The cold is softened by the prospect of the heated Folklore Museum, which we head to next to explore the past.\n\nThe afternoon belongs to contemplation at the Church of Agios Gedeon. The car allows us to move flexibly and warmly between stops without being exposed to the cold for long. The church's architecture radiates a special grandeur in the clear, crisp winter air.\n\nFinally, we drive to the Agia Paraskevi Bridge. In the early twilight around 5 PM, the city lights look particularly inviting and festive. One last stop to capture the riverside atmosphere before retreating to one of the warm local tavernas for a traditional dinner."
+            "en": "A clear winter day begins with the drive up Prophet Elias Hill. The car's heater ensures cozy comfort while we admire the frosty panorama of the Thessalian plain. Then we head down to the Tsipouro distillery, where local tradition remains vibrant throughout the year.\n\nAt noon, we reach the city center and use the parking lot at the Central Square. A short walk to the Town Hall reveals the winter tranquility of the town under the clear sky. The cold is softened by the prospect of the heated Folklore Museum, which we head to next to explore the past.\n\nThe afternoon belongs to contemplation at the Church of Agios Gedeon. The car allows us to move flexibly and warmly between stops without being exposed to the cold for long. The church's architecture radiates a special grandeur in the clear, crisp winter air.\n\nFinally, we drive to the Agia Paraskevi Bridge. In the early twilight around 5 PM, the city lights look particularly inviting and festive. One last stop to capture the riverside atmosphere before retreating to one of the warm local tavernas for a traditional dinner.",
+            "el": "Μια καθαρή χειμερινή μέρα ξεκινά με τη βόλτα με αυτοκίνητο μέχρι τον Λόφο Προφήτη Ηλία. Το θερμαντικό του αυτοκινήτου εξασφαλίζει ζεστή άνεση ενώ θαυμάζουμε το παγωμένο πανόραμα του θεσσαλικού κάμπου. Έπειτα κατεβαίνουμε στο αποστακτήριο τσίπουρου, όπου η τοπική παράδοση παραμένει ζωντανή όλον τον χρόνο.\n\nΤο μεσημέρι φτάνουμε στο κέντρο της πόλης και χρησιμοποιούμε τον χώρο στάθμευσης στην Κεντρική Πλατεία. Μια μικρή βόλτα μέχρι το Δημαρχείο αποκαλύπτει τη χειμωνιάτικη ησυχία της πόλης κάτω από τον καθαρό ουρανό. Το κρύο μαλακώνει από την προοπτική του θερμαινόμενου Λαογραφικού Μουσείου, το οποίο επισκεπτόμαστε στη συνέχεια για να εξερευνήσουμε το παρελθόν.\n\nΤο απόγευμα ανήκει στην περισυλλογή στην Εκκλησία του Αγίου Γεδεών. Το αυτοκίνητο μας επιτρέπει να κινούμαστε ευέλικτα και ζεστά ανάμεσα στις στάσεις χωρίς να εκτιθέμεθα στον κρύο για πολύ. Η αρχιτεκτονική της εκκλησίας ακτινοβολεί ιδιαίτερη μεγαλοπρέπεια στον καθαρό, δροσερό χειμερινό αέρα.\n\nΤέλος, οδηγούμε προς τη Γέφυρα Αγίας Παρασκευής. Στο πρώιμο λυκόφως γύρω στις 17:00, τα φώτα της πόλης δείχνουν ιδιαίτερα ζεστά και γιορτινά. Μια τελευταία στάση για να απαθανατίσετε την ατμόσφαιρα του ποταμού πριν αποσυρθείτε σε μια από τις ζεστές τοπικές ταβέρνες για παραδοσιακό δείπνο."
           },
           "stops": [
             {
@@ -1639,7 +1774,8 @@
                 "de": "Prüfen Sie bei Schneefall den Straßenzustand zum Gipfel.",
                 "hu": "Hóesés esetén ellenőrizze az útviszonyokat a csúcs felé.",
                 "ro": "Verificați starea drumului spre vârf în caz de ninsoare.",
-                "en": "Check the road conditions to the summit if it has been snowing."
+                "en": "Check the road conditions to the summit if it has been snowing.",
+                "el": "Ελέγξτε τις συνθήκες του δρόμου προς την κορυφή εάν έχει χιονίσει."
               }
             },
             {
@@ -1648,7 +1784,8 @@
                 "de": "Der Innenbereich ist angenehm temperiert.",
                 "hu": "A belső tér kellemesen temperált.",
                 "ro": "Interiorul are o temperatură plăcută.",
-                "en": "The indoor area is maintained at a comfortable temperature."
+                "en": "The indoor area is maintained at a comfortable temperature.",
+                "el": "Ο εσωτερικός χώρος διατηρείται σε άνετη θερμοκρασία."
               }
             },
             {
@@ -1657,7 +1794,8 @@
                 "de": "Vorsicht vor Glatteis auf dem Parkplatzgelände.",
                 "hu": "Vigyázzon a parkoló területén esetlegesen előforduló jegesedésre.",
                 "ro": "Atenție la gheață în zona parcării.",
-                "en": "Watch out for black ice in the parking lot area."
+                "en": "Watch out for black ice in the parking lot area.",
+                "el": "Προσοχή για μαύρο πάγο στην περιοχή του χώρου στάθμευσης."
               }
             },
             {
@@ -1666,7 +1804,8 @@
                 "de": "Kurze Wege sparen Energie und halten warm.",
                 "hu": "A rövid távok energiát spórolnak és melegen tartanak.",
                 "ro": "Distanțele scurte economisesc energie și mențin căura.",
-                "en": "Short distances save energy and keep you warm."
+                "en": "Short distances save energy and keep you warm.",
+                "el": "Οι μικρές αποστάσεις εξοικονομούν ενέργεια και κρατούν ζεστούς."
               }
             },
             {
@@ -1675,7 +1814,8 @@
                 "de": "Besuchen Sie das Museum zur kältesten Zeit des Tages.",
                 "hu": "Látogassa meg a múzeumot a nap leghidegebb óráiban.",
                 "ro": "Vizitați muzeul în cea mai rece perioadă a zilei.",
-                "en": "Visit the museum during the coldest time of the day."
+                "en": "Visit the museum during the coldest time of the day.",
+                "el": "Επισκεφθείτε το μουσείο κατά την πιο κρύα ώρα της ημέρας."
               }
             },
             {
@@ -1684,7 +1824,8 @@
                 "de": "Der Innenraum ist durch die Kerzen oft angenehm warm.",
                 "hu": "A belső tér a gyertyák miatt gyakran kellemesen meleg.",
                 "ro": "Interiorul este adesea plăcut de cald datorită lumânărilor.",
-                "en": "The interior is often pleasantly warm due to the candles."
+                "en": "The interior is often pleasantly warm due to the candles.",
+                "el": "Το εσωτερικό είναι συχνά ευχάριστα ζεστό λόγω των κεριών."
               }
             },
             {
@@ -1693,7 +1834,8 @@
                 "de": "Genießen Sie den Blick, bevor es um 17:15 Uhr dunkel wird.",
                 "hu": "Élvezze a kilátást, mielőtt 17:15-kor besötétedik.",
                 "ro": "Bucurați-vă de priveliște înainte de a se întuneca la 17:15.",
-                "en": "Enjoy the view before it gets dark around 5:15 PM."
+                "en": "Enjoy the view before it gets dark around 5:15 PM.",
+                "el": "Απολαύστε τη θέα πριν σκοτεινιάσει γύρω στις 17:15."
               }
             }
           ],
@@ -1725,6 +1867,13 @@
               "Avoid parking under trees if there is a risk of falling snow.",
               "Keep an ice scraper handy for the early morning hours.",
               "Winter tires are advisable in Tyrnavos from December to March."
+            ],
+            "el": [
+              "Βεβαιωθείτε ότι το όχημά σας έχει επαρκές αντιψυκτικό.",
+              "Χρησιμοποιήστε θερμαινόμενα καθίσματα για τις σύντομες διαδρομές μεταξύ στάσεων.",
+              "Αποφύγετε να σταθμεύετε κάτω από δέντρα εάν υπάρχει κίνδυνος πτώσης χιονιού.",
+              "Κρατήστε ένα ξύστρα παγετού για νωρίς το πρωί.",
+              "Χειμερινά ελαστικά συνιστώνται στον Τύρναβο από Δεκέμβριο έως Μάρτιο."
             ]
           }
         }
@@ -1743,7 +1892,8 @@
             "de": "Zentralplatz",
             "hu": "Központi tér",
             "ro": "Piața Centrală",
-            "en": "Central Square"
+            "en": "Central Square",
+            "el": "Κεντρική Πλατεία"
           },
           "coords": [
             22.2835,
@@ -1759,7 +1909,8 @@
             "de": "Starten Sie hier, nachdem Sie mit dem Bus angekommen sind. Holen Sie sich einen Kaffee.",
             "hu": "Kezdje itt, miután megérkezett busszal. Igyon egy kávét.",
             "ro": "Începeți de aici după ce ajungeți cu autobuzul. Luați o cafea.",
-            "en": "Start here after arriving by bus. Get a coffee."
+            "en": "Start here after arriving by bus. Get a coffee.",
+            "el": "Ξεκινήστε από εδώ φτάνοντας με λεωφορείο. Πιείτε έναν καφέ."
           }
         },
         {
@@ -1767,7 +1918,8 @@
             "de": "Rathaus von Tyrnavos",
             "hu": "Tirnavoszi városháza",
             "ro": "Primăria din Tyrnavos",
-            "en": "Tyrnavos Town Hall"
+            "en": "Tyrnavos Town Hall",
+            "el": "Δημαρχείο Τυρνάβου"
           },
           "coords": [
             22.284,
@@ -1783,7 +1935,8 @@
             "de": "Nur ein kurzer Spaziergang vom Platz entfernt.",
             "hu": "Csak egy rövid sétára a tértől.",
             "ro": "La doar o scurtă plimbare de piață.",
-            "en": "Just a short walk from the square."
+            "en": "Just a short walk from the square.",
+            "el": "Μόνο λίγα βήματα από την πλατεία."
           }
         },
         {
@@ -1791,7 +1944,8 @@
             "de": "Folklore-Museum",
             "hu": "Néprajzi Múzeum",
             "ro": "Muzeul de Folclor",
-            "en": "Folklore Museum"
+            "en": "Folklore Museum",
+            "el": "Λαογραφικό Μουσείο"
           },
           "coords": [
             22.2815,
@@ -1807,7 +1961,8 @@
             "de": "Nehmen Sie den lokalen Bus, um zum Museumsviertel zu gelangen.",
             "hu": "Menjen a helyi busszal a múzeumi negyedbe.",
             "ro": "Luați autobuzul local pentru a ajunge în districtul muzeelor.",
-            "en": "Take the local bus to get to the museum district."
+            "en": "Take the local bus to get to the museum district.",
+            "el": "Πάρτε το τοπικό λεωφορείο για να φτάσετε στη συνοικία των μουσείων."
           }
         },
         {
@@ -1815,7 +1970,8 @@
             "de": "Tsipouro-Destillerie Museum",
             "hu": "Tsipouro Lepárló Múzeum",
             "ro": "Muzeul Distileriei de Tsipouro",
-            "en": "Tsipouro Distillery Museum"
+            "en": "Tsipouro Distillery Museum",
+            "el": "Μουσείο Τσιπουροποιίας"
           },
           "coords": [
             22.29,
@@ -1831,7 +1987,8 @@
             "de": "Zu Fuß vom Folkloremuseum erreichbar, planen Sie hier Ihr Mittagessen.",
             "hu": "Gyalog elérhető a Néprajzi Múzeumtól, tervezze ide az ebédjét.",
             "ro": "Accesibil pe jos de la Muzeul de Folclor, planificați-vă prânzul aici.",
-            "en": "Within walking distance from the Folklore Museum, plan your lunch here."
+            "en": "Within walking distance from the Folklore Museum, plan your lunch here.",
+            "el": "Σε απόσταση με τα πόδια από το Λαογραφικό Μουσείο, σχεδιάστε εδώ το μεσημεριανό σας."
           }
         },
         {
@@ -1839,7 +1996,8 @@
             "de": "Agia Paraskevi Brücke",
             "hu": "Agia Paraskevi híd",
             "ro": "Podul Agia Paraskevi",
-            "en": "Agia Paraskevi Bridge"
+            "en": "Agia Paraskevi Bridge",
+            "el": "Γέφυρα Αγίας Παρασκευής"
           },
           "coords": [
             22.286,
@@ -1855,7 +2013,8 @@
             "de": "Eine weitere kurze Busfahrt bringt Sie in die Nähe dieser malerischen Brücke.",
             "hu": "Egy másik rövid buszút elviszi Önt ehhez a festői hídhoz.",
             "ro": "O altă scurtă călătorie cu autobuzul vă va aduce aproape de acest pod pitoresc.",
-            "en": "Another short bus ride will bring you near this picturesque bridge."
+            "en": "Another short bus ride will bring you near this picturesque bridge.",
+            "el": "Άλλη μια σύντομη διαδρομή με το λεωφορείο θα σας φέρει κοντά σε αυτή την γραφική γέφυρα."
           }
         },
         {
@@ -1863,7 +2022,8 @@
             "de": "Kirche Agios Gedeon",
             "hu": "Szent Gedeon-templom",
             "ro": "Biserica Sfântul Gedeon",
-            "en": "Church of Agios Gedeon"
+            "en": "Church of Agios Gedeon",
+            "el": "Εκκλησία του Αγίου Γεδεών"
           },
           "coords": [
             22.282,
@@ -1879,7 +2039,8 @@
             "de": "Beenden Sie den Tag mit einem besinnlichen Besuch in dieser schönen Kirche.",
             "hu": "Zárja a napot egy elmélkedő látogatással ebben a gyönyörű templomban.",
             "ro": "Încheiați ziua cu o vizită contemplativă la această frumoasă biserică.",
-            "en": "End the day with a contemplative visit to this beautiful church."
+            "en": "End the day with a contemplative visit to this beautiful church.",
+            "el": "Κλείστε την ημέρα με μια στοχαστική επίσκεψη σε αυτή την όμορφη εκκλησία."
           }
         }
       ],
@@ -1887,7 +2048,8 @@
         "de": "Nutzen Sie das lokale Busnetz, um Tyrnavos zu erkunden. Beginnen Sie am Zentralplatz und besichtigen Sie das nahegelegene Rathaus zu Fuß. Eine kurze Busfahrt bringt Sie dann in das Viertel der Museen, wo das Folklore- und das Tsipouro-Museum auf Sie warten. Hier können Sie zu Mittag essen und tief in die lokale Kultur eintauchen. Nach dem Mittagessen bringt Sie ein weiterer Bus in die Nähe der historischen Agia Paraskevi Brücke. Von dort aus ist es nur ein kurzer Spaziergang zu Ihrem letzten Halt, der ruhigen Agios Gedeon Kirche. Diese Route kombiniert die Effizienz des öffentlichen Nahverkehrs mit angenehmen Spaziergängen.",
         "hu": "Használja a helyi buszhálózatot Tirnavosz felfedezéséhez. Kezdje a Központi téren, és gyalog tekintse meg a közeli Városházát. Egy rövid buszút elviszi a múzeumi negyedbe, ahol a Néprajzi és a Tsipouro Múzeum várja. Itt ebédelhet, és mélyen elmerülhet a helyi kultúrában. Ebéd után egy másik busz elviszi a történelmi Agia Paraskevi híd közelébe. Innen már csak egy rövid séta az utolsó megálló, a csendes Szent Gedeon-templom. Ez az útvonal ötvözi a tömegközlekedés hatékonyságát a kellemes sétákkal.",
         "ro": "Folosiți rețeaua locală de autobuze pentru a explora Tyrnavos. Începeți din Piața Centrală și vizitați Primăria din apropiere pe jos. O scurtă călătorie cu autobuzul vă va duce apoi în districtul muzeelor, unde vă așteaptă Muzeul de Folclor și Muzeul Tsipouro. Aici puteți lua prânzul și vă puteți cufunda în cultura locală. După prânz, un alt autobuz vă va aduce aproape de podul istoric Agia Paraskevi. De acolo, este doar o scurtă plimbare până la ultima oprire, liniștita Biserică Sfântul Gedeon. Acest traseu combină eficiența transportului public cu plimbări plăcute.",
-        "en": "Use the local bus network to explore Tyrnavos. Start at the Central Square and visit the nearby Town Hall on foot. A short bus ride will then take you to the museum district, where the Folklore and Tsipouro Museums await. You can have lunch here and immerse yourself deeply in the local culture. After lunch, another bus will bring you near the historic Agia Paraskevi Bridge. From there, it's just a short walk to your final stop, the tranquil Church of Agios Gedeon. This route combines the efficiency of public transport with pleasant walks."
+        "en": "Use the local bus network to explore Tyrnavos. Start at the Central Square and visit the nearby Town Hall on foot. A short bus ride will then take you to the museum district, where the Folklore and Tsipouro Museums await. You can have lunch here and immerse yourself deeply in the local culture. After lunch, another bus will bring you near the historic Agia Paraskevi Bridge. From there, it's just a short walk to your final stop, the tranquil Church of Agios Gedeon. This route combines the efficiency of public transport with pleasant walks.",
+        "el": "Χρησιμοποιήστε το τοπικό δίκτυο λεωφορείων για να εξερευνήσετε τον Τύρναβο. Ξεκινήστε από την Κεντρική Πλατεία και επισκεφθείτε με τα πόδια το κοντινό Δημαρχείο. Μια σύντομη διαδρομή με λεωφορείο θα σας μεταφέρει στη συνέχεια στην περιοχή των μουσείων, όπου σας περιμένουν το Λαογραφικό και το Μουσείο Τσίπουρου. Εδώ μπορείτε να γευματίσετε και να βυθιστείτε στην τοπική κουλτούρα. Μετά το γεύμα, ένα ακόμη λεωφορείο θα σας φέρει κοντά στην ιστορική Γέφυρα Αγίας Παρασκευής. Από εκεί, είναι μόλις ένας σύντομος περίπατος μέχρι την τελική σας στάση, την ήρεμη Εκκλησία του Αγίου Γεδεών. Αυτή η διαδρομή συνδυάζει την αποδοτικότητα των μέσων μαζικής μεταφοράς με ευχάριστους περιπάτους."
       },
       "gastro_picks": {
         "de": [
@@ -2083,6 +2245,12 @@
           "Have small change ready for bus tickets.",
           "Day passes can be a cost-effective option if you plan multiple trips.",
           "Pay attention to the stop announcements or use a map app to track your location."
+        ],
+        "el": [
+          "Μάθετε εκ των προτέρων τα δρομολόγια και τις ώρες των λεωφορείων.",
+          "Να έχετε ρέστα για τα εισιτήρια του λεωφορείου.",
+          "Τα ημερήσια εισιτήρια μπορεί να είναι οικονομική επιλογή αν σχεδιάζετε πολλαπλές διαδρομές.",
+          "Δώστε προσοχή στις ανακοινώσεις των στάσεων ή χρησιμοποιήστε μια εφαρμογή χάρτη για να παρακολουθείτε τη θέση σας."
         ]
       },
       "variants": {
@@ -2091,7 +2259,8 @@
             "de": "Wir starten den Tag mit dem Regionalbus zum Hauptplatz von Tyrnavos. Der Regen macht die kurzen Fußwege zwischen den Bushaltestellen erfrischend, während wir uns zum Rathaus und zur Bibliothek begeben, um den Vormittag trocken im Inneren der historischen Gebäude zu verbringen.\n\nMittags nutzen wir die zentralen Umsteigepunkte, um zum Volkskundemuseum zu gelangen. Die Busse bieten Schutz vor den stärksten Schauern des Tages. Im Museum angekommen, tauchen wir tief in die lokale Geschichte ein, während draußen der Titarisios-Fluss durch die anhaltenden Niederschläge anschwillt.\n\nDer Nachmittag führt uns mit dem öffentlichen Nahverkehr zur Tsipouro-Brennerei. Die Anbindung ermöglicht eine stressfreie Fahrt zur Verkostung ohne Parkplatzsuche. Wir erfahren alles über den geschützten Charakter des lokalen Schnapses, während wir uns im Inneren der Destillerie aufwärmen.\n\nZum Abschluss besuchen wir die Agia-Paraskevi-Brücke und die Kirche des Heiligen Gedeon. Die Busverbindungen zurück zum Zentrum sind auch bei Regen zuverlässig und oft getaktet. Die beleuchtete Stadt und die spiegelnden Pfützen auf dem Asphalt bieten zum Ende des Tages ein besonders fotogenes Motiv.",
             "hu": "A napot a Türnavosz főterére tartó helyközi busszal kezdjük. Az eső frissítővé teszi a buszmegállók közötti rövid sétákat, miközben a Városháza és a könyvtár felé vesszük az irányt, hogy a délelőttöt szárazon töltsük a történelmi falak között.\n\nDélben a központi átszállási pontokat használjuk, hogy eljussunk a Néprajzi Múzeumhoz. A buszok kényelmes menedéket nyújtanak a legerősebb záporok elől. A múzeumba érve elmélyedünk a helyi történelemben, miközben kint a Titariszosz-folyó szintje látványosan emelkedik.\n\nA délután a Cipuro lepárlóhoz vezet helyi járattal. A tömegközlekedési kapcsolat lehetővé teszi a stresszmentes utazást a kóstolóra, így nem kell a parkolással bajlódni. Megismerjük a helyi párlat oltalom alatt álló jellegét, miközben a lepárló belsejében melegszünk fel.\n\nZárásként az Agia Paraszkevi-hidat és az Ájosz Gedeon-templomot keressük fel. A központba visszatérő buszjáratok esőben is megbízhatóak és gyakoriak. A kivilágított város és az aszfalton tükröződő fények a nap végén különlegesen fotogén látványt nyújtanak a látogatónak.",
             "ro": "Începem ziua cu autobuzul regional spre piața centrală din Tyrnavos. Ploaia face plimbările scurte între stațiile de autobuz răcoritoare, în timp ce ne îndreptăm spre primărie și bibliotecă pentru a petrece dimineața la uscat în interiorul clădirilor istorice.\n\nLa prânz, folosim punctele centrale de transfer pentru a ajunge la Muzeul de Folclor. Autobuzele oferă protecție excelentă împotriva celor mai puternice averse ale zilei. Ajunși la muzeu, ne cufundăm în istoria locală în timp ce râul Titarisios se umflă vizibil afară din cauza precipitațiilor.\n\nDupă-amiaza ne duce la distileria de tsipouro cu transportul public. Conexiunea permite o călătorie fără stres spre degustare, fără grija parcării. Învățăm despre caracterul protejat al rachiului local în timp ce ne încălzim în interiorul primitor al distileriei.\n\nLa final, vizităm podul Agia Paraskevi și Biserica Sfântul Gedeon. Conexiunile de autobuz înapoi spre centru sunt fiabile chiar și pe timp de ploaie. Orașul iluminat și bălțile care oglindesc luminile pe asfalt oferă un motiv fotogen deosebit la sfârșitul acestei zile ploioase.",
-            "en": "We start the day taking the regional bus to Tyrnavos Central Square. The rain makes the short walks between bus stops refreshing as we head to the Town Hall and the library to spend the morning in the dry inside the historical buildings.\n\nAt noon, we use central transfer points to reach the Folklore Museum. The buses provide excellent shelter from the heaviest showers of the day. Once at the museum, we dive deep into local history while the Titarisios River swells outside due to the ongoing rainfall.\n\nThe afternoon leads us to the Tsipouro distillery via public transport. The connection allows for a stress-free trip to the tasting without the need to find parking. We learn about the protected character of the local spirit while warming up inside the cozy distillery.\n\nFinally, we visit the Agia Paraskevi Bridge and the Church of Agios Gedeon. Bus connections back to the center remain reliable and frequent even in the rain. The illuminated city and reflecting puddles on the asphalt provide a particularly photogenic scene at the end of the day."
+            "en": "We start the day taking the regional bus to Tyrnavos Central Square. The rain makes the short walks between bus stops refreshing as we head to the Town Hall and the library to spend the morning in the dry inside the historical buildings.\n\nAt noon, we use central transfer points to reach the Folklore Museum. The buses provide excellent shelter from the heaviest showers of the day. Once at the museum, we dive deep into local history while the Titarisios River swells outside due to the ongoing rainfall.\n\nThe afternoon leads us to the Tsipouro distillery via public transport. The connection allows for a stress-free trip to the tasting without the need to find parking. We learn about the protected character of the local spirit while warming up inside the cozy distillery.\n\nFinally, we visit the Agia Paraskevi Bridge and the Church of Agios Gedeon. Bus connections back to the center remain reliable and frequent even in the rain. The illuminated city and reflecting puddles on the asphalt provide a particularly photogenic scene at the end of the day.",
+            "el": "Ξεκινάμε την ημέρα παίρνοντας το υπεραστικό λεωφορείο προς την Κεντρική Πλατεία του Τυρνάβου. Η βροχή κάνει τους σύντομους περιπάτους ανάμεσα στις στάσεις δροσερούς καθώς κατευθυνόμαστε προς το Δημαρχείο και τη βιβλιοθήκη για να περάσουμε το πρωί προστατευμένοι μέσα στα ιστορικά κτίρια.\n\nΤο μεσημέρι, χρησιμοποιούμε κεντρικά σημεία μεταβίβασης για να φτάσουμε στο Λαογραφικό Μουσείο. Τα λεωφορεία προσφέρουν εξαιρετική προστασία από τις πιο δυνατές καταιγίδες της ημέρας. Μόλις φτάσουμε στο μουσείο, βυθιζόμαστε στην τοπική ιστορία ενώ ο ποταμός Τιταρήσιος φουσκώνει έξω λόγω της συνεχιζόμενης βροχής.\n\nΤο απόγευμα μας οδηγεί στο αποστακτήριο τσίπουρου μέσω των μέσων μαζικής μεταφοράς. Η σύνδεση επιτρέπει ένα ταξίδι χωρίς άγχος προς τη δοκιμή χωρίς την ανάγκη να βρούμε χώρο στάθμευσης. Μαθαίνουμε για τον προστατευόμενο χαρακτήρα του τοπικού ποτού ενώ ζεσταινόμαστε μέσα στο ζεστό αποστακτήριο.\n\nΤέλος, επισκεπτόμαστε τη Γέφυρα Αγίας Παρασκευής και την Εκκλησία του Αγίου Γεδεών. Οι συνδέσεις με λεωφορεία πίσω στο κέντρο παραμένουν αξιόπιστες και συχνές ακόμη και στη βροχή. Η φωτισμένη πόλη και οι αντανακλάσεις των λιμνών στο άσφαλτο προσφέρουν ένα ιδιαίτερα φωτογενές σκηνικό στο τέλος της ημέρας."
           },
           "stops": [
             {
@@ -2100,7 +2269,8 @@
                 "de": "Warten Sie unter den Kioskdächern auf den nächsten Bus.",
                 "hu": "Várjon a kioszkok teteje alatt a következő buszra.",
                 "ro": "Așteptați sub acoperișurile chioșcurilor următorul autobuz.",
-                "en": "Wait under the kiosk roofs for the next bus."
+                "en": "Wait under the kiosk roofs for the next bus.",
+                "el": "Περιμένετε κάτω από τις στέγες των περιπτέρων για το επόμενο λεωφορείο."
               }
             },
             {
@@ -2109,7 +2279,8 @@
                 "de": "Die Haltestelle befindet sich nur eine Minute vom Eingang entfernt.",
                 "hu": "A buszmegálló mindössze egy percre található a bejárattól.",
                 "ro": "Stația de autobuz se află la doar un minut de intrare.",
-                "en": "The bus stop is located just a minute from the entrance."
+                "en": "The bus stop is located just a minute from the entrance.",
+                "el": "Η στάση του λεωφορείου βρίσκεται μόλις ένα λεπτό από την είσοδο."
               }
             },
             {
@@ -2118,7 +2289,8 @@
                 "de": "Nutzen Sie die App für Echtzeit-Abfahrtszeiten bei Regen.",
                 "hu": "Használja az alkalmazást a valós idejű indulásokhoz esőben.",
                 "ro": "Folosiți aplicația pentru orele de plecare în timp real pe ploaie.",
-                "en": "Use the app for real-time departure times during the rain."
+                "en": "Use the app for real-time departure times during the rain.",
+                "el": "Χρησιμοποιήστε την εφαρμογή για πραγματικού χρόνου ώρες αναχώρησης κατά τη διάρκεια της βροχής."
               }
             },
             {
@@ -2127,7 +2299,8 @@
                 "de": "Busse halten in Gehentfernung zum Werksgelände.",
                 "hu": "A buszok gyalogtávolságra állnak meg a gyárterülettől.",
                 "ro": "Autobuzele opresc la distanță de mers pe jos de incintă.",
-                "en": "Buses stop within walking distance of the factory grounds."
+                "en": "Buses stop within walking distance of the factory grounds.",
+                "el": "Τα λεωφορεία σταματούν σε απόσταση που μπορεί να καλυφθεί με τα πόδια από τα εργοστάσια."
               }
             },
             {
@@ -2136,7 +2309,8 @@
                 "de": "Ein kurzer, nasser Spaziergang von der Brücke zur nächsten Station.",
                 "hu": "Egy rövid, vizes séta a hídtól a következő megállóig.",
                 "ro": "O scurtă plimbare prin ploaie de la pod la următoarea stație.",
-                "en": "A short, wet walk from the bridge to the next station."
+                "en": "A short, wet walk from the bridge to the next station.",
+                "el": "Ένας σύντομος, βρεγμένος περίπατος από τη γέφυρα προς τον επόμενο σταθμό."
               }
             },
             {
@@ -2145,7 +2319,8 @@
                 "de": "Die Bushaltestelle bietet eine kleine Unterstellmöglichkeit.",
                 "hu": "A buszmegálló egy kis fedett várakozóhellyel rendelkezik.",
                 "ro": "Stația de autobuz oferă un mic adăpost.",
-                "en": "The bus stop offers a small sheltered waiting area."
+                "en": "The bus stop offers a small sheltered waiting area.",
+                "el": "Η στάση προσφέρει έναν μικρό καλυμμένο χώρο αναμονής."
               }
             }
           ],
@@ -2177,6 +2352,13 @@
               "Wear a rain jacket that also seals well against the wind.",
               "Watch out for puddles at the curbs when boarding the bus.",
               "Schedules may be slightly delayed during heavy rain."
+            ],
+            "el": [
+              "Αγοράστε εισιτήρια εκ των προτέρων για να αποφύγετε την αναμονή έξω.",
+              "Τα υπεραστικά λεωφορεία προς Λάρισα αναχωρούν τακτικά από την Κεντρική Πλατεία.",
+              "Φορέστε ένα αδιάβροχο που κλείνει καλά και απέναντι στον άνεμο.",
+              "Προσέξτε τις λακκούβες στα πεζοδρόμια όταν επιβιβάζεστε στο λεωφορείο.",
+              "Τα δρομολόγια μπορεί να έχουν μικρές καθυστερήσεις κατά τη διάρκεια έντονης βροχής."
             ]
           }
         },
@@ -2185,7 +2367,8 @@
             "de": "Ein klarer Wintermorgen beginnt mit der Ankunft des Busses am Hauptplatz. Die kühle Luft weckt die Lebensgeister, während wir zum Rathaus schlendern. Die neoklassizistische Architektur wirkt im harten Winterlicht besonders plastisch und beeindruckend.\n\nMittags suchen wir die Wärme in der Stadtbibliothek und besuchen danach die Kirche des Heiligen Gedeon. Die Busse sind gut beheizt und bieten eine willkommene Pause vom frostigen Wind. In der Kirche schaffen die brennenden Kerzen eine warme und besinnliche Atmosphäre, weit weg von der Kälte.\n\nDer Nachmittag führt uns mit dem Nahverkehr zum Volkskundemuseum. Die Innenausstellungen sind der ideale Ort, um sich aufzuwärmen, während man mehr über das ländliche Thessalien der vergangenen Jahrhunderte lernt. Danach geht es weiter zur Tsipouro-Brennerei für einen Einblick in die Produktion.\n\nDer Tag endet mit einem Besuch der Agia-Paraskevi-Brücke in der frühen Dämmerung. Da es bereits gegen 17 Uhr dunkel wird, nutzen wir die zuverlässigen Busverbindungen zurück zum Ausgangspunkt. Ein heißer Tee oder ein Tsipouro in einer Taverne am Platz ist der perfekte Abschluss dieses Wintertages.",
             "hu": "A tiszta téli reggel a busz főtérre való érkezésével kezdődik. A hűvös levegő felfrissít, miközben a városháza felé sétálunk. A neoklasszicista építészet különösen lenyűgöző és plasztikus a kemény téli fényekben.\n\nDélben a Városi Könyvtár melegében és az Ájosz Gedeon-templomban keresünk menedéket. A buszok jól fűtöttek, így kellemes pihenőt nyújtanak a jeges szél elől. A templomban az égő gyertyák meleg és meghitt hangulatot árasztanak, távol a külvilág fagyos valóságától.\n\nDélután a helyi járatokkal a Néprajzi Múzeumhoz utazunk. A benti kiállítások ideálisak a felmelegedéshez, miközben Thesszália vidéki múltjáról tanulunk érdekességeket. Ezután a Cipuro lepárló következik, ahol megismerjük a helyi gyártási folyamatokat és a párlat jelentőségét.\n\nA nap az Agia Paraszkevi-hídnál zárul a korai szürkületben. Mivel 17 óra körül besötétedik, a megbízható buszjáratokkal térünk vissza a kiindulópontra. Egy forró tea vagy egy cipúró a főtéri tavernák egyikében tökéletes befejezése ennek a tartalmas téli napnak.",
             "ro": "O dimineață senină de iarnă începe cu sosirea autobuzului în piața centrală. Aerul rece ne trezește simțurile în timp ce ne plimbăm spre primărie. Arhitectura neoclasică arată deosebit de impresionantă și plastică în lumina aspră a iernii.\n\nLa prânz căutăm căldura în Biblioteca Municipală și vizităm apoi Biserica Sfântul Gedeon. Autobuzele sunt bine încălzite și oferă o pauză binevenită de vântul înghețat. În biserică, lumânările aprinse creează o atmosferă caldă și contemplativă, departe de gerul de afară.\n\nDupă-amiaza ne duce cu transportul local la Muzeul de Folclor. Expozițiile interioare sunt locul ideal pentru a ne încălzi în timp ce învățăm mai multe despre Thessalia rurală din secolele trecute. Apoi continuăm spre distileria de tsipouro pentru o incursiune în producția locală tradițională.\n\nZiua se încheie cu o vizită la podul Agia Paraskevi în amurg. Deoarece se întunecă în jurul orei 17, folosim conexiunile de autobuz fiabile pentru a reveni la punctul de plecare. Un ceai fierbinte sau un tsipouro într-o tavernă din piață este finalul perfect al acestei zile de iarnă.",
-            "en": "A clear winter morning begins with the arrival of the bus at the Central Square. The cool air awakens the senses as we stroll to the Town Hall. The neoclassical architecture looks particularly impressive and sculptural in the harsh winter light.\n\nAt noon, we seek warmth in the Municipal Library and then visit the Church of Agios Gedeon. The buses are well-heated, providing a welcome break from the frosty wind. Inside the church, burning candles create a warm and contemplative atmosphere, far from the cold outside.\n\nThe afternoon leads us by local transit to the Folklore Museum. The indoor exhibits are the ideal place to warm up while learning more about rural Thessaly from past centuries. Then it's on to the Tsipouro distillery for a deep dive into traditional local production.\n\nThe day ends with a visit to the Agia Paraskevi Bridge at dusk. Since it gets dark around 5 PM, we use the reliable bus connections to return to the starting point. A hot tea or a tsipouro in a taverna on the square is the perfect ending to this winter day."
+            "en": "A clear winter morning begins with the arrival of the bus at the Central Square. The cool air awakens the senses as we stroll to the Town Hall. The neoclassical architecture looks particularly impressive and sculptural in the harsh winter light.\n\nAt noon, we seek warmth in the Municipal Library and then visit the Church of Agios Gedeon. The buses are well-heated, providing a welcome break from the frosty wind. Inside the church, burning candles create a warm and contemplative atmosphere, far from the cold outside.\n\nThe afternoon leads us by local transit to the Folklore Museum. The indoor exhibits are the ideal place to warm up while learning more about rural Thessaly from past centuries. Then it's on to the Tsipouro distillery for a deep dive into traditional local production.\n\nThe day ends with a visit to the Agia Paraskevi Bridge at dusk. Since it gets dark around 5 PM, we use the reliable bus connections to return to the starting point. A hot tea or a tsipouro in a taverna on the square is the perfect ending to this winter day.",
+            "el": "Ένα καθαρό χειμωνιάτικο πρωινό ξεκινά με την άφιξη του λεωφορείου στην Κεντρική Πλατεία. Ο δροσερός αέρας ξυπνά τις αισθήσεις καθώς περπατάμε προς το Δημαρχείο. Η νεοκλασική αρχιτεκτονική δείχνει ιδιαίτερα εντυπωσιακή και γλυπτική στο σκληρό χειμωνιάτικο φως.\n\nΤο μεσημέρι, αναζητούμε ζεστασιά στη Δημοτική Βιβλιοθήκη και στη συνέχεια επισκεπτόμαστε την Εκκλησία του Αγίου Γεδεών. Τα λεωφορεία είναι καλά θερμαινόμενα, προσφέροντας ένα ευπρόσδεκτο διάλειμμα από τον παγωμένο άνεμο. Μέσα στην εκκλησία, τα αναμμένα κεριά δημιουργούν μια ζεστή και στοχαστική ατμόσφαιρα, μακριά από το κρύο έξω.\n\nΤο απόγευμα μας οδηγεί με τα τοπικά μέσα στο Λαογραφικό Μουσείο. Τα εσωτερικά εκθέματα είναι το ιδανικό μέρος για να ζεσταθείτε ενώ μαθαίνετε περισσότερα για τη αγροτική Θεσσαλία των προηγούμενων αιώνων. Έπειτα κατευθυνόμαστε στο αποστακτήριο τσίπουρου για μια βαθύτερη ματιά στην παραδοσιακή τοπική παραγωγή.\n\nΗ μέρα τελειώνει με μια επίσκεψη στη Γέφυρα Αγίας Παρασκευής στο λυκόφως. Επειδή σκοτεινιάζει γύρω στις 17:00, χρησιμοποιούμε τις αξιόπιστες συνδέσεις λεωφορείων για να επιστρέψουμε στο σημείο εκκίνησης. Ένα ζεστό τσάι ή ένα τσίπουρο σε μια ταβέρνα στην πλατεία είναι το τέλειο τέλος αυτής της χειμωνιάτικης ημέρας."
           },
           "stops": [
             {
@@ -2194,7 +2377,8 @@
                 "de": "Die Buswartehallen bieten Schutz vor dem kalten Wind.",
                 "hu": "A buszvárók védelmet nyújtanak a hideg szél ellen.",
                 "ro": "Refugiile din stațiile de autobuz oferă protecție împotriva vântului.",
-                "en": "Bus shelters provide protection from the cold wind."
+                "en": "Bus shelters provide protection from the cold wind.",
+                "el": "Οι προφυλάξεις λεωφορείων προσφέρουν προστασία από τον κρύο άνεμο."
               }
             },
             {
@@ -2203,7 +2387,8 @@
                 "de": "In der Nähe der Haltestelle gibt es Cafés zum Aufwärmen.",
                 "hu": "A megálló közelében számos kávézó található a felmelegedéshez.",
                 "ro": "Există cafenele în apropierea stației pentru a vă încălzi.",
-                "en": "There are cafes near the stop to warm up."
+                "en": "There are cafes near the stop to warm up.",
+                "el": "Υπάρχουν καφετέριες κοντά στη στάση για να ζεσταθείτε."
               }
             },
             {
@@ -2212,7 +2397,8 @@
                 "de": "Planen Sie die Rückfahrt vor Einbruch der Dunkelheit.",
                 "hu": "Tervezze meg a visszautat a sötétedés beállta előtt.",
                 "ro": "Planificați călătoria de întoarcere înainte de lăsarea întunericului.",
-                "en": "Plan your return trip before darkness sets in."
+                "en": "Plan your return trip before darkness sets in.",
+                "el": "Σχεδιάστε την επιστροφή σας πριν νυχτώσει."
               }
             },
             {
@@ -2221,7 +2407,8 @@
                 "de": "Fragen Sie im Museum nach den aktuellen Winterbusplänen.",
                 "hu": "Érdeklődjön a múzeumban az aktuális téli buszmenetrendről.",
                 "ro": "Întrebați la muzeu despre orarele actuale de iarnă ale autobuzelor.",
-                "en": "Ask at the museum for the current winter bus schedules."
+                "en": "Ask at the museum for the current winter bus schedules.",
+                "el": "Ρωτήστε στο μουσείο για τα τρέχοντα χειμερινά δρομολόγια λεωφορείων."
               }
             },
             {
@@ -2230,7 +2417,8 @@
                 "de": "Die Haltestelle ist bei Dunkelheit gut beleuchtet.",
                 "hu": "A buszmegálló sötétben is jól megvilágított.",
                 "ro": "Stația de autobuz este bine iluminată pe întuneric.",
-                "en": "The bus stop is well-lit after dark."
+                "en": "The bus stop is well-lit after dark.",
+                "el": "Η στάση του λεωφορείου φωτίζεται καλά μετά το σκοτάδι."
               }
             },
             {
@@ -2239,7 +2427,8 @@
                 "de": "Nutzen Sie die Wartezeit für einen letzten Blick auf die Ikonen.",
                 "hu": "Használja ki a várakozási időt az ikonok utolsó megtekintésére.",
                 "ro": "Folosiți timpul de așteptare pentru o ultimă privire asupra icoanelor.",
-                "en": "Use the waiting time for a final look at the icons."
+                "en": "Use the waiting time for a final look at the icons.",
+                "el": "Χρησιμοποιήστε το χρόνο αναμονής για μια τελευταία ματιά στα εικονίσματα."
               }
             }
           ],
@@ -2271,6 +2460,13 @@
               "Wear warm socks, as waiting at stops can be chilling.",
               "Check for holiday schedules during December.",
               "A hot drink at the Central Square shortens the wait for the bus."
+            ],
+            "el": [
+              "Τα λεωφορεία μπορεί να κινούνται ελαφρώς πιο αργά τον χειμώνα λόγω ολισθηρών δρόμων.",
+              "Η θέρμανση στα υπεραστικά λεωφορεία είναι συνήθως πολύ αξιόπιστη.",
+              "Φορέστε ζεστές κάλτσες, καθώς η αναμονή στις στάσεις μπορεί να είναι ψυχρή.",
+              "Ελέγξτε για εορταστικά δρομολόγια τον Δεκέμβριο.",
+              "Ένα ζεστό ρόφημα στην Κεντρική Πλατεία μειώνει την αναμονή για το λεωφορείο."
             ]
           }
         }

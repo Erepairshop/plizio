@@ -21,7 +21,8 @@
             "de": "Archäologisches Museum von Argos",
             "hu": "Árgoszi Régészeti Múzeum",
             "ro": "Muzeul Arheologic din Argos",
-            "en": "Archaeological Museum of Argos"
+            "en": "Archaeological Museum of Argos",
+            "el": "Αρχαιολογικό Μουσείο Άργους"
           },
           "coords": [
             22.7289,
@@ -36,7 +37,8 @@
             "de": "Konzentrieren Sie sich auf die Mosaiken und die mykenische Rüstung.",
             "hu": "Fókuszáljon a mozaikokra és a mükénéi páncélzatra.",
             "ro": "Concentrează-te pe mozaicuri și pe armura miceniană.",
-            "en": "Focus on the mosaics and the Mycenaean armor."
+            "en": "Focus on the mosaics and the Mycenaean armor.",
+            "el": "Εστίασε στα μωσαϊκά και την μυκηναϊκή θωράκιση."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Antike Agora",
             "hu": "Antik Agóra",
             "ro": "Agora Antică",
-            "en": "Ancient Agora"
+            "en": "Ancient Agora",
+            "el": "Αρχαία Αγορά"
           },
           "coords": [
             22.7255,
@@ -59,7 +62,8 @@
             "de": "Stellen Sie sich das geschäftige Treiben des antiken Marktplatzes vor.",
             "hu": "Képzelje el az ókori piactér nyüzsgő életét.",
             "ro": "Imaginați-vă agitația pieței antice.",
-            "en": "Imagine the bustling activity of the ancient marketplace."
+            "en": "Imagine the bustling activity of the ancient marketplace.",
+            "el": "Φαντάσου τη ζωή και την πολύβουη κίνηση της αρχαίας αγοράς."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Römische Thermen",
             "hu": "Római Fürdők",
             "ro": "Termele Romane",
-            "en": "Roman Thermals"
+            "en": "Roman Thermals",
+            "el": "Ρωμαϊκά Λουτρά"
           },
           "coords": [
             22.7248,
@@ -82,7 +87,8 @@
             "de": "Achten Sie auf die Überreste der Hypokausten-Heizung.",
             "hu": "Keresse a padlófűtés (hypocaustum) maradványait.",
             "ro": "Căutați rămășițele sistemului de încălzire hypocaust.",
-            "en": "Look for the remains of the hypocaust heating system."
+            "en": "Look for the remains of the hypocaust heating system.",
+            "el": "Ψάξε για τα εναπομείναντα ίχνη του συστήματος υπέρθερμης θέρμανσης (υπόκωστ)."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Antikes Theater von Argos",
             "hu": "Árgosz Antik Színháza",
             "ro": "Teatrul Antic din Argos",
-            "en": "Ancient Theatre of Argos"
+            "en": "Ancient Theatre of Argos",
+            "el": "Αρχαίο Θέατρο Άργους"
           },
           "coords": [
             22.7214,
@@ -105,7 +112,8 @@
             "de": "Testen Sie die Akustik von der Mitte der Bühne aus.",
             "hu": "Tesztelje az akusztikát a színpad közepéről!",
             "ro": "Testați acustica din centrul scenei.",
-            "en": "Test the acoustics from the center of the stage."
+            "en": "Test the acoustics from the center of the stage.",
+            "el": "Δοκίμασε την ακουστική από το κέντρο της σκηνής."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Kirche Agios Petros",
             "hu": "Szent Péter-templom",
             "ro": "Biserica Sfântul Petru (Agios Petros)",
-            "en": "Church of Agios Petros"
+            "en": "Church of Agios Petros",
+            "el": "Εκκλησία Αγίου Πέτρου"
           },
           "coords": [
             22.7295,
@@ -128,7 +137,8 @@
             "de": "Eine ruhige Pause im belebten Stadtzentrum.",
             "hu": "Egy csendes pihenő a nyüzsgő városközpontban.",
             "ro": "O pauză liniștită în centrul aglomerat al orașului.",
-            "en": "A quiet break in the bustling city center."
+            "en": "A quiet break in the bustling city center.",
+            "el": "Ένα ήσυχο διάλειμμα στο πολυσύχναστο κέντρο της πόλης."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Burg von Larissa",
             "hu": "Larissza vára",
             "ro": "Cetatea Larissa",
-            "en": "Larissa Castle"
+            "en": "Larissa Castle",
+            "el": "Κάστρο Λάρισσας"
           },
           "coords": [
             22.7164,
@@ -151,7 +162,8 @@
             "de": "Der Aufstieg ist steil, aber die Aussicht ist es absolut wert.",
             "hu": "Meredek a kaptató, de a kilátás mindenért kárpótol.",
             "ro": "Urcușul este abrupt, dar priveliștea merită absolut.",
-            "en": "The climb is steep, but the view is absolutely worth it."
+            "en": "The climb is steep, but the view is absolutely worth it.",
+            "el": "Η ανάβαση είναι απότομη, αλλά η θέα είναι απολύτως αξιόλογη."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Abendessen im Zentrum",
             "hu": "Vacsora a központban",
             "ro": "Cină în centru",
-            "en": "Dinner in the Center"
+            "en": "Dinner in the Center",
+            "el": "Δείπνο στο Κέντρο"
           },
           "coords": [
             22.7285,
@@ -174,7 +187,8 @@
             "de": "Wählen Sie eine Taverne in der Nähe des Platzes, um das lokale Leben zu beobachten.",
             "hu": "Válasszon egy tavernát a főtér közelében, és figyelje a helyi életet.",
             "ro": "Alegeți o tavernă lângă piață pentru a observa viața locală.",
-            "en": "Choose a taverna near the square to watch local life."
+            "en": "Choose a taverna near the square to watch local life.",
+            "el": "Επίλεξε μια ταβέρνα κοντά στην πλατεία για να παρακολουθείς την τοπική ζωή."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Beginnen Sie Ihren Tag im Herzen des antiken Argos und tauchen Sie im Archäologischen Museum in die mykenische Vergangenheit ein. Spüren Sie die Geschichte unter Ihren Füßen, während Sie durch die antike Agora und die römischen Ruinen schlendern.\nAm Mittag erwartet Sie das prächtige antike Theater, ein Meisterwerk, das in den Felsen gehauen wurde. Nach einer kulturellen Pause in der Agios-Petros-Kirche bereiten Sie sich auf den Höhepunkt des Tages vor: den Aufstieg zur Burg von Larissa.\nDer Nachmittag ist dem Aufstieg zur mittelalterlichen Festung gewidmet. Der Weg ist anspruchsvoll, aber die Panoramaaussicht auf die Argolis-Ebene ist eine unvergleichliche Belohnung, die die Mühe wert ist.\nSchließen Sie Ihren Tag mit einem wohlverdienten Abendessen in einer traditionellen Taverne ab. Lassen Sie die Aromen Griechenlands auf sich wirken, während Sie die unvergesslichen Momente des Tages Revue passieren lassen, vom geschäftigen Stadtzentrum bis zur stillen Erhabenheit der Burg.",
         "hu": "Kezdje a napot az ókori Árgosz szívében, a Régészeti Múzeumban elmerülve a mükénéi múltban. Érezze a történelmet a talpa alatt, miközben az antik agórán és a római romok között sétál.\nDélben az antik színház lenyűgöző látványa várja, egy sziklába vájt mestermű. Az Agios Petros templomban tartott kulturális szünet után készüljön a nap fénypontjára: a Larissza várához való feljutásra.\nA délutánt a középkori erőd megmászásának szenteljük. Az út kihívást jelent, de az argoliszi síkságra nyíló panoráma páratlan jutalom, amely megéri a fáradságot.\nZárja a napot egy jól megérdemelt vacsorával egy hagyományos tavernán. Ízlelje meg Görögország ízeit, miközben felidézi a nap felejthetetlen pillanatait, a nyüzsgő városközponttól a vár csendes fenségéig.",
         "ro": "Începeți ziua în inima Argosului antic, cufundându-vă în trecutul micenian la Muzeul Arheologic. Simțiți istoria sub picioare în timp ce vă plimbați prin Agora antică și ruinele romane.\nLa prânz, vă așteaptă magnificul teatru antic, o capodoperă sculptată în stâncă. După o pauză culturală la Biserica Agios Petros, pregătiți-vă pentru punctul culminant al zilei: urcarea la Cetatea Larissa.\nDupă-amiaza este dedicată urcării la fortăreața medievală. Drumul este provocator, dar vederea panoramică asupra câmpiei Argolis este o recompensă de neegalat care merită efortul.\nÎncheiați ziua cu o cină binemeritată la o tavernă tradițională. Savurați aromele Greciei în timp ce rememorați momentele de neuitat ale zilei, de la centrul aglomerat al orașului la măreția tăcută a cetății.",
-        "en": "Start your day in the heart of ancient Argos, diving into the Mycenaean past at the Archaeological Museum. Feel the history beneath your feet as you stroll through the ancient Agora and the Roman ruins.\nAt midday, the magnificent ancient theatre awaits, a masterpiece carved into the rock. After a cultural break at the Church of Agios Petros, prepare for the day's highlight: the ascent to Larissa Castle.\nThe afternoon is dedicated to climbing the medieval fortress. The path is challenging, but the panoramic view of the Argolic plain is an unparalleled reward that makes the effort worthwhile.\nConclude your day with a well-deserved dinner at a traditional taverna. Savor the flavors of Greece while reflecting on the day's unforgettable moments, from the bustling city center to the quiet majesty of the castle."
+        "en": "Start your day in the heart of ancient Argos, diving into the Mycenaean past at the Archaeological Museum. Feel the history beneath your feet as you stroll through the ancient Agora and the Roman ruins.\nAt midday, the magnificent ancient theatre awaits, a masterpiece carved into the rock. After a cultural break at the Church of Agios Petros, prepare for the day's highlight: the ascent to Larissa Castle.\nThe afternoon is dedicated to climbing the medieval fortress. The path is challenging, but the panoramic view of the Argolic plain is an unparalleled reward that makes the effort worthwhile.\nConclude your day with a well-deserved dinner at a traditional taverna. Savor the flavors of Greece while reflecting on the day's unforgettable moments, from the bustling city center to the quiet majesty of the castle.",
+        "el": "Ξεκίνα τη μέρα σου στην καρδιά του αρχαίου Άργους, βυθιζόμενος/η στο μυκηναϊκό παρελθόν στο Αρχαιολογικό Μουσείο. Νιώσε την ιστορία κάτω από τα πόδια σου καθώς περιπατείς στην Αρχαία Αγορά και τα ρωμαϊκά ερείπια.\nΤο μεσημέρι σε περιμένει το επιβλητικό αρχαίο θέατρο, ένα αριστούργημα χαραγμένο στο βράχο. Μετά από ένα πολιτιστικό διάλειμμα στην Εκκλησία του Αγίου Πέτρου, ετοιμάσου για το αποκορύφωμα της ημέρας: την ανάβαση στο Κάστρο της Λάρισσας.\nΤο απόγευμα αφιερώνεται στην ανάβαση στο μεσαιωνικό οχυρό. Το μονοπάτι είναι απαιτητικό, αλλά η πανοραμική θέα της αργολικής πεδιάδας είναι μια ασύγκριτη ανταμοιβή που αξίζει την προσπάθεια.\nΟλοκλήρωσε τη μέρα σου με ένα καλά κερδισμένο δείπνο σε μια παραδοσιακή ταβέρνα. Χάρισε στους γευστικούς κάλυκες τις γεύσεις της Ελλάδας ενώ αναλογίζεσαι τις αξέχαστες στιγμές της ημέρας, από το πολυσύχναστο κέντρο μέχρι τη σιωπηλή μεγαλοπρέπεια του κάστρου."
       },
       "gastro_picks": {
         "de": [
@@ -378,6 +393,12 @@
           "Bring plenty of water, especially during the summer months.",
           "Most archaeological sites have little shade.",
           "Some smaller sites may have limited hours, check in advance."
+        ],
+        "el": [
+          "Φόρα άνετα παπούτσια· η ανάβαση στο κάστρο είναι απαιτητική.",
+          "Φέρε άφθονο νερό, ειδικά τους καλοκαιρινούς μήνες.",
+          "Τα περισσότερα αρχαιολογικά μνημεία έχουν ελάχιστη σκιά.",
+          "Ορισμένοι μικρότεροι χώροι ενδέχεται να έχουν περιορισμένο ωράριο, ελέγξτε εκ των προτέρων."
         ]
       },
       "variants": {
@@ -386,7 +407,8 @@
             "de": "Argos bei Regen beginnt im Museum, das perfekten Schutz bietet. Die antiken Stätten draußen erfordern einen Regenschirm, da der Boden rutschig sein kann. Mittags wärmen wir uns in der Kirche auf, bevor wir den nebligen Burgberg erklimmen. Der Tag endet gemütlich in einer Taverne im Stadtzentrum.",
             "hu": "Argos esőben a múzeumban indul, ahol fedett helyen ismerkedhetünk a történelemmel. Az Agora és a Színház kövei csúszósak lehetnek, így óvatosan sétáljunk. A Larissa-vár ködös sziluettje misztikus látványt nyújt, a napot pedig egy belvárosi étterem melegében zárjuk.",
             "ro": "Argos pe ploaie începe la muzeu, oferind un adăpost cultural ideal. Siturile antice exterioare necesită umbrelă, iar pietrele pot fi alunecoase. După-amiaza urcăm spre Castelul Larissa printre nori, terminând ziua într-o atmosferă caldă la o tavernă centrală.",
-            "en": "Argos in the rain starts at the museum, providing perfect indoor shelter. The ancient sites outdoors require an umbrella as the stones can be slippery. In the afternoon, the misty view from Larissa Castle is mystical, and we finish the day in the comfort of a city center restaurant."
+            "en": "Argos in the rain starts at the museum, providing perfect indoor shelter. The ancient sites outdoors require an umbrella as the stones can be slippery. In the afternoon, the misty view from Larissa Castle is mystical, and we finish the day in the comfort of a city center restaurant.",
+            "el": "Η Αργος στη βροχή ξεκινά από το μουσείο, προσφέροντας τέλεια εσωτερική προστασία. Οι αρχαιολογικοί χώροι έξω απαιτούν ομπρέλα καθώς οι πέτρες μπορεί να γίνουν ολισθηρές. Το απόγευμα, η ομιχλώδης θέα από το Κάστρο της Λάρισσας είναι μυστηριακή, και ολοκληρώνουμε τη μέρα στην άνεση ενός εστιατορίου στο κέντρο της πόλης."
           },
           "stops": [
             {
@@ -395,7 +417,8 @@
                 "de": "Idealer Zufluchtsort bei starkem Regen.",
                 "hu": "Tökéletes menedék heves esőzés esetén.",
                 "ro": "Refugiu ideal în caz de ploaie torențială.",
-                "en": "Ideal shelter in case of heavy rain."
+                "en": "Ideal shelter in case of heavy rain.",
+                "el": "Ιδανική προστασία σε περίπτωση έντονης βροχής."
               }
             },
             {
@@ -404,7 +427,8 @@
                 "de": "Vorsicht, die antiken Steine sind bei Nässe sehr glatt.",
                 "hu": "Vigyázat, a sár és a vizes kövek csúszósak.",
                 "ro": "Atenție, pietrele antice sunt foarte alunecoase pe ploaie.",
-                "en": "Careful, the ancient stones are very slippery when wet."
+                "en": "Careful, the ancient stones are very slippery when wet.",
+                "el": "Προσοχή, οι αρχαίες πέτρες είναι πολύ ολισθηρές όταν είναι βρεγμένες."
               }
             },
             {
@@ -413,7 +437,8 @@
                 "de": "Einige Bereiche sind leicht überdacht.",
                 "hu": "Néhány rész részben fedett, keressen ott menedéket.",
                 "ro": "Unele zone sunt parțial acoperite, căutați adăpost acolo.",
-                "en": "Some areas are partially covered, seek shelter there."
+                "en": "Some areas are partially covered, seek shelter there.",
+                "el": "Ορισμένες περιοχές είναι μερικώς στεγασμένες, αναζητήστε καταφύγιο εκεί."
               }
             },
             {
@@ -422,7 +447,8 @@
                 "de": "Gehen Sie die Stufen langsam hoch, Rutschgefahr.",
                 "hu": "Lassan haladjon a lépcsőkön a csúszásveszély miatt.",
                 "ro": "Urcați treptele încet din cauza riscului de alunecare.",
-                "en": "Move slowly on the steps due to slipping hazards."
+                "en": "Move slowly on the steps due to slipping hazards.",
+                "el": "Κινήσου αργά στις σκάλες λόγω κινδύνου ολίσθησης."
               }
             },
             {
@@ -431,7 +457,8 @@
                 "de": "Nutzen Sie die Zeit für eine trockene Pause.",
                 "hu": "Használja ki az időt egy száraz pihenőre.",
                 "ro": "Folosiți timpul pentru o pauză uscată în interior.",
-                "en": "Use the time for a dry break inside."
+                "en": "Use the time for a dry break inside.",
+                "el": "Χρησιμοποίησε τον χρόνο για ένα στεγνό διάλειμμα μέσα."
               }
             },
             {
@@ -440,7 +467,8 @@
                 "de": "Der Weg nach oben kann bei Regen schlammig sein.",
                 "hu": "A felfelé vezető út esőben sáros lehet.",
                 "ro": "Drumul spre vârf poate fi noroios pe ploaie.",
-                "en": "The path to the top can be muddy in the rain."
+                "en": "The path to the top can be muddy in the rain.",
+                "el": "Ο δρόμος προς την κορυφή μπορεί να γίνει λασπωμένος στη βροχή."
               }
             },
             {
@@ -449,7 +477,8 @@
                 "de": "Genießen Sie lokale Spezialitäten im Trockenen.",
                 "hu": "Élvezze a helyi specialitásokat a szárazban.",
                 "ro": "Savurați specialități locale la adăpost.",
-                "en": "Enjoy local specialties in the dry."
+                "en": "Enjoy local specialties in the dry.",
+                "el": "Απόλαυσε τοπικές σπεσιαλιτέ στο στεγνό."
               }
             }
           ],
@@ -477,6 +506,12 @@
               "The museum is the best place to wait out heavy showers.",
               "Churches often provide short-term shelter from the wind.",
               "Be extra careful on the marble steps of the ancient theatre."
+            ],
+            "el": [
+              "Φόρα αδιάβροχα ορειβατικά παπούτσια για τα αρχαία ερείπια.",
+              "Το μουσείο είναι το καλύτερο μέρος για να περιμένεις τις έντονες μπόρες.",
+              "Οι εκκλησίες συχνά προσφέρουν προσωρινό καταφύγιο από τον άνεμο.",
+              "Να είσαι εξαιρετικά προσεκτικός/ή στις μαρμάρινες σκάλες του αρχαίου θεάτρου."
             ]
           }
         },
@@ -485,7 +520,8 @@
             "de": "Der Winter in Argos ist mild, aber die Tage sind kurz. Wir besuchen morgens das Museum und die Agora bei kühler, frischer Luft. Der Aufstieg zur Burg Larissa ist bei niedrigeren Temperaturen angenehmer als im Sommer. Wir erreichen den Gipfel vor dem frühen Sonnenuntergang gegen 17:30 Uhr.",
             "hu": "Az argoszi tél enyhe, de a nappalok rövidek. Reggel a múzeumot és az Agorát látogatjuk meg a friss levegőn. A várba vezető emelkedő ilyenkor sokkal kellemesebb, mint a nyári hőségben. Igyekezzünk a csúcsra az 17:30-as naplemente előtt.",
             "ro": "Iarna în Argos este blândă, dar zilele sunt scurte. Vizităm muzeul și Agora dimineața, bucurându-ne de aerul curat. Urcarea la castel este mult mai plăcută acum decât în arșița verii. Ajungem în vârf înainte de apusul de la ora 17:30.",
-            "en": "Winter in Argos is mild but days are short. We visit the museum and Agora in the morning, enjoying the crisp air. The climb to the castle is much more pleasant now than in the summer heat. We aim to reach the top before the early sunset at 17:30."
+            "en": "Winter in Argos is mild but days are short. We visit the museum and Agora in the morning, enjoying the crisp air. The climb to the castle is much more pleasant now than in the summer heat. We aim to reach the top before the early sunset at 17:30.",
+            "el": "Ο χειμώνας στην Άργος είναι ήπιος αλλά οι μέρες είναι σύντομες. Επισκεπτόμαστε το μουσείο και την Αγορά το πρωί, απολαμβάνοντας τον δροσερό αέρα. Η ανάβαση στο κάστρο είναι πολύ πιο ευχάριστη τώρα σε σύγκριση με τη ζέστη του καλοκαιριού. Στοχεύουμε να φτάσουμε στην κορυφή πριν τη νωπή δύση του ήλιου στις 17:30."
           },
           "stops": [
             {
@@ -494,7 +530,8 @@
                 "de": "Beheizte Räume machen den Besuch sehr angenehm.",
                 "hu": "A fűtött termek kellemessé teszik a látogatást.",
                 "ro": "Sălile încălzite fac vizita foarte plăcută.",
-                "en": "Heated halls make the visit very pleasant."
+                "en": "Heated halls make the visit very pleasant.",
+                "el": "Θερμαινόμενες αίθουσες κάνουν την επίσκεψη πολύ ευχάριστη."
               }
             },
             {
@@ -503,7 +540,8 @@
                 "de": "Nutzen Sie das klare Winterlicht für Fotos.",
                 "hu": "Használja ki a tiszta téli fényeket a fotózáshoz.",
                 "ro": "Profită de lumina clară de iarnă pentru fotografii.",
-                "en": "Take advantage of the clear winter light for photos."
+                "en": "Take advantage of the clear winter light for photos.",
+                "el": "Εκμεταλλεύσου το καθαρό χειμωνιάτικο φως για φωτογραφίες."
               }
             },
             {
@@ -512,7 +550,8 @@
                 "de": "Der Wind kann hier zwischen den Mauern ziehen.",
                 "hu": "A szél felerősödhet a falak között, öltözzön rétegesen.",
                 "ro": "Vântul se poate intensifica între ziduri, îmbrăcați-vă gros.",
-                "en": "The wind can pick up between the walls, dress in layers."
+                "en": "The wind can pick up between the walls, dress in layers.",
+                "el": "Ο άνεμος μπορεί να ενισχυθεί ανάμεσα στα τείχη, ντύσου με στρώσεις."
               }
             },
             {
@@ -521,7 +560,8 @@
                 "de": "Die Steine speichern keine Wärme, Sitzunterlage empfohlen.",
                 "hu": "A kövek hidegek, vigyen magával ülőpárnát.",
                 "ro": "Pietrele sunt reci, se recomandă un suport pentru șezut.",
-                "en": "The stones are cold, a seating pad is recommended."
+                "en": "The stones are cold, a seating pad is recommended.",
+                "el": "Οι πέτρες είναι κρύες, συνιστάται μαξιλαράκι για να κάθεσαι."
               }
             },
             {
@@ -530,7 +570,8 @@
                 "de": "Ein ruhiger Ort für Besinnung im Winter.",
                 "hu": "Csendes hely az elmélyüléshez a téli időszakban.",
                 "ro": "Un loc liniștit pentru reflecție în timpul iernii.",
-                "en": "A quiet place for reflection during the winter."
+                "en": "A quiet place for reflection during the winter.",
+                "el": "Ένας ήσυχος χώρος για περισυλλογή κατά τον χειμώνα."
               }
             },
             {
@@ -539,7 +580,8 @@
                 "de": "Achtung, die Sonne geht hier früh unter.",
                 "hu": "Vigyázat, a nap korán nyugszik a vár mögött.",
                 "ro": "Atenție, soarele apune devreme după castel.",
-                "en": "Caution, the sun sets early behind the castle."
+                "en": "Caution, the sun sets early behind the castle.",
+                "el": "Προσοχή, ο ήλιος δύει νωρίς πίσω από το κάστρο."
               }
             },
             {
@@ -548,7 +590,8 @@
                 "de": "Fragen Sie nach deftigen Wintergerichten.",
                 "hu": "Kóstolja meg a laktató téli ételeket.",
                 "ro": "Încercați mâncărurile consistente de iarnă.",
-                "en": "Try the hearty winter dishes available."
+                "en": "Try the hearty winter dishes available.",
+                "el": "Δοκίμασε τα χορταστικά χειμωνιάτικα πιάτα που υπάρχουν."
               }
             }
           ],
@@ -576,6 +619,12 @@
               "The sun sets around 17:30, plan your schedule accordingly.",
               "Many cafes offer cozy indoor spaces in winter.",
               "Visit outdoor sites preferably around midday for warmth."
+            ],
+            "el": [
+              "Ντύσου με στρώσεις για την ανεμώδη ανάβαση στο κάστρο.",
+              "Ο ήλιος δύει περίπου στις 17:30, προγραμμάτισε ανάλογα το πρόγραμμά σου.",
+              "Πολλά καφέ προσφέρουν ζεστούς εσωτερικούς χώρους το χειμώνα.",
+              "Επισκέψου εξωτερικούς χώρους κατά προτίμηση γύρω στο μεσημέρι για ζέστη."
             ]
           }
         }
@@ -594,7 +643,8 @@
             "de": "Kapodistrias-Kasernen",
             "hu": "Kapodistrias laktanya",
             "ro": "Cazarma Kapodistrias",
-            "en": "Kapodistrias Barracks"
+            "en": "Kapodistrias Barracks",
+            "el": "Φυλάκιο Καποδίστρια"
           },
           "coords": [
             22.731,
@@ -609,7 +659,8 @@
             "de": "Ein oft übersehenes Stück neoklassizistischer Militärarchitektur.",
             "hu": "A neoklasszikus katonai építészet egy gyakran figyelmen kívül hagyott darabja.",
             "ro": "O bucată adesea trecută cu vederea de arhitectură militară neoclasică.",
-            "en": "An often-overlooked piece of neoclassical military architecture."
+            "en": "An often-overlooked piece of neoclassical military architecture.",
+            "el": "Ένα συχνά παραβλεπόμενο δείγμα νεοκλασικής στρατιωτικής αρχιτεκτονικής."
           }
         },
         {
@@ -617,7 +668,8 @@
             "de": "Archäologisches Museum von Argos",
             "hu": "Árgoszi Régészeti Múzeum",
             "ro": "Muzeul Arheologic din Argos",
-            "en": "Archaeological Museum of Argos"
+            "en": "Archaeological Museum of Argos",
+            "el": "Αρχαιολογικό Μουσείο Άργους"
           },
           "coords": [
             22.7289,
@@ -632,7 +684,8 @@
             "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie das Museum betreten.",
             "hu": "Biztonságosan zárja le a kerékpárt, mielőtt belép a múzeumba.",
             "ro": "Încuiați-vă bicicleta în siguranță înainte de a intra în muzeu.",
-            "en": "Lock your bike securely before entering the museum."
+            "en": "Lock your bike securely before entering the museum.",
+            "el": "Κλείδωσε το ποδήλατό σου με ασφάλεια πριν μπεις στο μουσείο."
           }
         },
         {
@@ -640,7 +693,8 @@
             "de": "Antike Agora & Römische Thermen",
             "hu": "Antik Agóra és Római Fürdők",
             "ro": "Agora Antică și Termele Romane",
-            "en": "Ancient Agora & Roman Thermals"
+            "en": "Ancient Agora & Roman Thermals",
+            "el": "Αρχαία Αγορά & Ρωμαϊκά Λουτρά"
           },
           "coords": [
             22.7251,
@@ -655,7 +709,8 @@
             "de": "Parken Sie Ihr Fahrrad und erkunden Sie diesen kompakten archäologischen Bereich zu Fuß.",
             "hu": "Parkolja le a kerékpárt, és fedezze fel gyalog ezt a kompakt régészeti területet.",
             "ro": "Parcați-vă bicicleta și explorați pe jos această zonă arheologică compactă.",
-            "en": "Park your bike and explore this compact archaeological area on foot."
+            "en": "Park your bike and explore this compact archaeological area on foot.",
+            "el": "Στάθμευσε το ποδήλατο και εξερεύνησε αυτή τη συμπαγή αρχαιολογική περιοχή με τα πόδια."
           }
         },
         {
@@ -663,7 +718,8 @@
             "de": "Antikes Theater von Argos",
             "hu": "Árgosz Antik Színháza",
             "ro": "Teatrul Antic din Argos",
-            "en": "Ancient Theatre of Argos"
+            "en": "Ancient Theatre of Argos",
+            "el": "Αρχαίο Θέατρο Άργους"
           },
           "coords": [
             22.7214,
@@ -678,7 +734,8 @@
             "de": "Lassen Sie Ihr Fahrrad am Eingang, der Weg nach oben ist steil.",
             "hu": "Hagyja a kerékpárt a bejáratnál, az út felfelé meredek.",
             "ro": "Lăsați-vă bicicleta la intrare, drumul în sus este abrupt.",
-            "en": "Leave your bike at the entrance, the path up is steep."
+            "en": "Leave your bike at the entrance, the path up is steep.",
+            "el": "Άφησε το ποδήλατο στην είσοδο, η ανηφόρα είναι απότομη."
           }
         },
         {
@@ -686,7 +743,8 @@
             "de": "Ausflug zur Burg von Larissa",
             "hu": "Kirándulás a Larissza várához",
             "ro": "Excursie la Cetatea Larissa",
-            "en": "Trip to Larissa Castle"
+            "en": "Trip to Larissa Castle",
+            "el": "Εκδρομή στο Κάστρο της Λάρισσας"
           },
           "coords": [
             22.7164,
@@ -701,7 +759,8 @@
             "de": "Die Radtour ist eine Herausforderung. Schieben Sie Ihr Fahrrad bei Bedarf.",
             "hu": "A kerékpárút kihívást jelent. Ha szükséges, tolja a kerékpárt.",
             "ro": "Plimbarea cu bicicleta este o provocare. Împingeți bicicleta dacă este necesar.",
-            "en": "The bike ride up is challenging. Walk your bike if needed."
+            "en": "The bike ride up is challenging. Walk your bike if needed.",
+            "el": "Η διαδρομή με ποδήλατο προς τα πάνω είναι απαιτητική. Σπρώξε το ποδήλατο αν χρειαστεί."
           }
         },
         {
@@ -709,7 +768,8 @@
             "de": "Entspannung am Agios Petros Platz",
             "hu": "Pihenés az Agios Petros téren",
             "ro": "Relaxare în Piața Agios Petros",
-            "en": "Relaxation at Agios Petros Square"
+            "en": "Relaxation at Agios Petros Square",
+            "el": "Χαλάρωση στην Πλατεία Αγίου Πέτρου"
           },
           "coords": [
             22.7295,
@@ -724,7 +784,8 @@
             "de": "Belohnen Sie sich mit einem kalten Frappé in einem der Cafés.",
             "hu": "Jutalmazza meg magát egy hideg frappéval az egyik kávézóban.",
             "ro": "Recompensați-vă cu un frappé rece la una dintre cafenele.",
-            "en": "Reward yourself with a cold frappé at one of the cafes."
+            "en": "Reward yourself with a cold frappé at one of the cafes.",
+            "el": "Αποζημίωσε τον εαυτό σου με ένα κρύο φραπέ σε ένα από τα καφέ."
           }
         }
       ],
@@ -732,7 +793,8 @@
         "de": "Starten Sie Ihre Radtour bei den historischen Kapodistrias-Kasernen, bevor Sie ins Zentrum zum Archäologischen Museum fahren, um die antiken Schätze zu entdecken. Die flachen Straßen der Stadt sind ideal für eine gemütliche Fahrt.\nAm Mittag erkunden Sie die miteinander verbundenen Stätten der Agora und der Thermen. Fahren Sie dann weiter zum beeindruckenden antiken Theater. Parken Sie Ihr Fahrrad und genießen Sie die Atmosphäre dieses riesigen Bauwerks.\nDer Nachmittag bringt die größte Herausforderung: die Radtour hinauf zur Burg von Larissa. Nehmen Sie sich Zeit, der Aufstieg ist anstrengend, aber die Aussicht von oben ist eine fantastische Belohnung für Ihre Anstrengungen.\nFahren Sie zurück ins Stadtzentrum und beenden Sie Ihre Tour auf dem Agios-Petros-Platz. Entspannen Sie sich in einem Café, genießen Sie ein wohlverdientes Getränk und beobachten Sie das Treiben, während Sie über Ihr archäologisches Abenteuer auf zwei Rädern nachdenken.",
         "hu": "Kezdje a kerékpártúrát a történelmi Kapodistrias laktanyánál, mielőtt a központba, a Régészeti Múzeumba teker, hogy felfedezze az ókori kincseket. A város sík utcái ideálisak egy kellemes utazáshoz.\nDélben fedezze fel az agóra és a fürdők egymással összekapcsolt helyszíneit. Ezután tekerjen tovább a lenyűgöző antik színházhoz. Parkolja le a kerékpárt, és élvezze ennek a hatalmas építménynek a hangulatát.\nA délután hozza a legnagyobb kihívást: a kerékpárút fel a Larissza várához. Szánjon rá időt, a mászás megerőltető, de a fentről nyíló kilátás fantasztikus jutalom az erőfeszítéseiért.\nTekerjen vissza a városközpontba, és fejezze be a túrát az Agios Petros téren. Pihenjen meg egy kávézóban, élvezzen egy jól megérdemelt italt, és figyelje a helyi életet, miközben két keréken átélt régészeti kalandjára gondol.",
         "ro": "Începeți turul pe bicicletă de la istorica Cazarmă Kapodistrias înainte de a pedala spre centru la Muzeul Arheologic pentru a descoperi comorile antice. Străzile plate ale orașului sunt ideale pentru o plimbare relaxată.\nLa prânz, explorați siturile interconectate ale Agorei și Termelor. Apoi, continuați spre impresionantul teatru antic. Parcați-vă bicicleta și bucurați-vă de atmosfera acestei structuri vaste.\nDupă-amiaza aduce cea mai mare provocare: urcarea cu bicicleta la Cetatea Larissa. Nu vă grăbiți, urcarea este obositoare, dar priveliștea de sus este o recompensă fantastică pentru eforturile depuse.\nPedalați înapoi în centrul orașului pentru a încheia turul în Piața Agios Petros. Relaxați-vă la o cafenea, bucurați-vă de o băutură binemeritată și priviți lumea trecând, reflectând la aventura arheologică pe două roți.",
-        "en": "Start your bike tour at the historic Kapodistrias Barracks before cycling to the center for the Archaeological Museum to uncover ancient treasures. The city's flat streets are ideal for a leisurely ride.\nAt midday, explore the interconnected sites of the Agora and the Thermals. Then, continue to the impressive ancient theatre. Park your bike and soak in the atmosphere of this vast structure.\nThe afternoon brings the biggest challenge: the ride up to Larissa Castle. Take your time, the climb is strenuous, but the view from the top is a fantastic reward for your efforts.\nCycle back to the city center to finish your tour in Agios Petros Square. Relax at a café, enjoy a well-earned drink, and watch the world go by as you reflect on your archaeological adventure on two wheels."
+        "en": "Start your bike tour at the historic Kapodistrias Barracks before cycling to the center for the Archaeological Museum to uncover ancient treasures. The city's flat streets are ideal for a leisurely ride.\nAt midday, explore the interconnected sites of the Agora and the Thermals. Then, continue to the impressive ancient theatre. Park your bike and soak in the atmosphere of this vast structure.\nThe afternoon brings the biggest challenge: the ride up to Larissa Castle. Take your time, the climb is strenuous, but the view from the top is a fantastic reward for your efforts.\nCycle back to the city center to finish your tour in Agios Petros Square. Relax at a café, enjoy a well-earned drink, and watch the world go by as you reflect on your archaeological adventure on two wheels.",
+        "el": "Ξεκίνα την ποδηλατική σου διαδρομή από το ιστορικό Φυλάκιο Καποδίστρια πριν ποδηλατήσεις στο κέντρο προς το Αρχαιολογικό Μουσείο για να ανακαλύψεις αρχαίους θησαυρούς. Οι επίπεδοι δρόμοι της πόλης είναι ιδανικοί για χαλαρή βόλτα.\nΤο μεσημέρι, εξερεύνησε τους διασυνδεδεμένους χώρους της Αγοράς και των Λουτρών. Στη συνέχεια, συνέχισε προς το εντυπωσιακό αρχαίο θέατρο. Στάθμευσε το ποδήλατό σου και απορρόφησε την ατμόσφαιρα αυτού του μεγάλου μνημείου.\nΤο απόγευμα φέρνει την μεγαλύτερη πρόκληση: την ανάβαση στο Κάστρο της Λάρισσας. Πάρε τον χρόνο σου, η ανάβαση είναι απαιτητική, αλλά η θέα από την κορυφή είναι φανταστική ανταμοιβή για την προσπάθειά σου.\nΠοδηλάτησε πίσω στο κέντρο της πόλης για να ολοκληρώσεις τη διαδρομή σου στην Πλατεία Αγίου Πέτρου. Χαλάρωσε σε ένα καφέ, απόλαυσε ένα καλοκίκτη ποτό και άσε τον χρόνο να περάσει ενώ αναπολείς την αρχαιολογική σου περιπέτεια επί δύο τροχών."
       },
       "gastro_picks": {
         "de": [
@@ -928,6 +990,12 @@
           "Always lock your bike securely.",
           "The climb to the castle is very steep; be prepared for a strenuous ride or walk.",
           "Argos is very hot in summer, bring plenty of water."
+        ],
+        "el": [
+          "Οι περισσότερες αξιοθέατες στο κέντρο είναι εύκολα προσβάσιμες με ποδήλατο.",
+          "Κλείδωσε πάντα το ποδήλατό σου με ασφάλεια.",
+          "Η ανάβαση προς το κάστρο είναι πολύ απότομη· να είσαι προετοιμασμένος/η για απαιτητική ποδηλασία ή περπάτημα.",
+          "Η Άργος είναι πολύ ζεστή το καλοκαίρι, φέρε άφθονο νερό."
         ]
       },
       "variants": {
@@ -936,7 +1004,8 @@
             "de": "Mit dem Rad durch Argos bei Regen ist eine Herausforderung, aber machbar. Wir starten bei den Kasernen und flüchten schnell ins Museum. Die Fahrt zur Burg Larissa erfordert gute Bremsen auf dem nassen Asphalt. Nachmittags wärmen wir uns bei einem Kaffee am Agios-Petros-Platz auf.",
             "hu": "Biciklivel az esős Argoszban kihívás, de lehetséges. A laktanyáktól indulunk, és gyorsan a múzeumba menekülünk. A várba vezető út jó fékeket igényel a vizes aszfalton. Délután egy forró kávéval melegszünk fel az Agiosz Petrosz téren.",
             "ro": "Cu bicicleta prin Argos pe ploaie este o provocare, dar realizabil. Pornim de la cazărmi și ne adăpostim rapid la muzeu. Drumul spre castel necesită frâne bune pe asfaltul ud. După-amiaza ne încălzim cu o cafea în Piața Agios Petros.",
-            "en": "Cycling through Argos in the rain is a challenge but doable. We start at the barracks and quickly head to the museum for cover. The ride to the castle requires good brakes on wet asphalt. In the afternoon, we warm up with coffee at Agios Petros Square."
+            "en": "Cycling through Argos in the rain is a challenge but doable. We start at the barracks and quickly head to the museum for cover. The ride to the castle requires good brakes on wet asphalt. In the afternoon, we warm up with coffee at Agios Petros Square.",
+            "el": "Η ποδηλασία στην Άργος στη βροχή είναι πρόκληση αλλά δυνατή. Ξεκινάμε από τα φυλάκια και κατευθυνόμαστε γρήγορα προς το μουσείο για κάλυψη. Η διαδρομή προς το κάστρο απαιτεί καλά φρένα σε βρεγμένο άσφαλτο. Το απόγευμα, ζεσταινόμαστε με καφέ στην Πλατεία Αγίου Πέτρου."
           },
           "stops": [
             {
@@ -945,7 +1014,8 @@
                 "de": "Stellen Sie Ihr Rad unter den Arkaden unter.",
                 "hu": "Állítsa le a biciklit az árkádok alá az eső elől.",
                 "ro": "Parcați bicicleta sub arcade pentru a o feri de ploaie.",
-                "en": "Park your bike under the arches to keep it dry."
+                "en": "Park your bike under the arches to keep it dry.",
+                "el": "Στάθμευσε το ποδήλατό σου κάτω από τις καμάρες για να το κρατήσεις στεγνό."
               }
             },
             {
@@ -954,7 +1024,8 @@
                 "de": "Sicheres Abstellen der Räder am Eingang möglich.",
                 "hu": "A kerékpárok biztonságosan lezárhatók a bejáratnál.",
                 "ro": "Parcare sigură pentru biciclete la intrare.",
-                "en": "Secure bike parking available at the entrance."
+                "en": "Secure bike parking available at the entrance.",
+                "el": "Διαθέσιμη ασφαλής στάθμευση ποδηλάτων στην είσοδο."
               }
             },
             {
@@ -963,7 +1034,8 @@
                 "de": "Vorsicht vor tiefen Pfützen auf den Wegen.",
                 "hu": "Vigyázzon a mély tócsákra az utakon.",
                 "ro": "Atenție la bălțile adânci de pe traseu.",
-                "en": "Watch out for deep puddles on the paths."
+                "en": "Watch out for deep puddles on the paths.",
+                "el": "Πρόσεχε βαθιά λακκούβες στους δρόμους."
               }
             },
             {
@@ -972,7 +1044,8 @@
                 "de": "Schließen Sie das Rad unten an, bevor Sie hochgehen.",
                 "hu": "Zárja le a biciklit lent, mielőtt felgyalogolna.",
                 "ro": "Încuiați bicicleta jos înainte de a urca pe jos.",
-                "en": "Lock your bike at the bottom before walking up."
+                "en": "Lock your bike at the bottom before walking up.",
+                "el": "Κλείδωσε το ποδήλατό σου κάτω πριν ανέβεις με τα πόδια."
               }
             },
             {
@@ -981,7 +1054,8 @@
                 "de": "Steile Abfahrt bei Nässe nur für erfahrene Fahrer.",
                 "hu": "A meredek lejtő esőben csak tapasztaltaknak ajánlott.",
                 "ro": "Coborâre abruptă pe ud doar pentru cicliști experimentați.",
-                "en": "Steep descent in the wet only for experienced riders."
+                "en": "Steep descent in the wet only for experienced riders.",
+                "el": "Η απότομη κατηφόρα σε βρεγμένο είναι μόνο για έμπειρους αναβάτες."
               }
             },
             {
@@ -990,7 +1064,8 @@
                 "de": "Viele Cafés haben Schirmständer für Radler.",
                 "hu": "Sok kávézóban van esernyőtartó és hely a vizes ruháknak.",
                 "ro": "Multe cafenele au suporturi pentru umbrele.",
-                "en": "Many cafes have umbrella stands for cyclists."
+                "en": "Many cafes have umbrella stands for cyclists.",
+                "el": "Πολλά καφέ διαθέτουν σταντ ομπρελών για τους ποδηλάτες."
               }
             }
           ],
@@ -1018,6 +1093,12 @@
               "Start braking earlier than usual on wet asphalt.",
               "Avoid riding over smooth marble slabs.",
               "Waterproof panniers will keep your gear dry."
+            ],
+            "el": [
+              "Χρησιμοποίησε λασπωτήρες για να αποφύγεις την εκτόξευση νερού.",
+              "Ξεκίνα να φρενάρεις νωρίτερα απ’ ό,τι συνήθως σε βρεγμένο άσφαλτο.",
+              "Απέφυγε να ποδηλατείς πάνω σε λείες μαρμάρινες πλάκες.",
+              "Αδιάβροχοι σάκκοι θα κρατήσουν τον εξοπλισμό σου στεγνό."
             ]
           }
         },
@@ -1026,7 +1107,8 @@
             "de": "Die Wintertour per Rad ist ideal, um Argos schnell zu erkunden. Morgens ist es frisch, perfekt für die Fahrt zu den Kasernen. Der Anstieg zur Burg ist anstrengend, aber die kühle Brise verhindert Überhitzung. Wir beenden die Tour bei Sonnenuntergang und genießen die warme Atmosphäre am Hauptplatz.",
             "hu": "A téli kerékpáros túra ideális Argosz gyors felfedezéséhez. A reggeli hűvös idő tökéletes a laktanyákhoz való tekeréshez. A várba vezető emelkedő izzasztó, de a friss szél segít a lehűlésben. A túrát naplementekor fejezzük be a főtéren.",
             "ro": "Turul cu bicicleta iarna este ideal pentru a explora rapid Argosul. Dimineața e răcoare, perfect pentru drumul spre cazărmi. Urcarea la castel e solicitantă, dar briza rece previne supraîncălzirea. Încheiem turul la apus în piața centrală.",
-            "en": "A winter bike tour is ideal for exploring Argos quickly. The morning chill is perfect for the ride to the barracks. The climb to the castle is strenuous, but the cool breeze prevents overheating. We finish the tour at sunset in the main square."
+            "en": "A winter bike tour is ideal for exploring Argos quickly. The morning chill is perfect for the ride to the barracks. The climb to the castle is strenuous, but the cool breeze prevents overheating. We finish the tour at sunset in the main square.",
+            "el": "Μια χειμωνιάτικη ποδηλατική διαδρομή είναι ιδανική για γρήγορη εξερεύνηση της Άργους. Το πρωινό ψύχος είναι τέλειο για τη βόλτα προς τα φυλάκια. Η ανάβαση στο κάστρο είναι απαιτητική, αλλά το δροσερό αεράκι αποτρέπει την υπερθέρμανση. Ολοκληρώνουμε τη διαδρομή στο ηλιοβασίλεμα στην κεντρική πλατεία."
           },
           "stops": [
             {
@@ -1035,7 +1117,8 @@
                 "de": "Tragen Sie Handschuhe für die kalte Morgenfahrt.",
                 "hu": "Viseljen kesztyűt a hideg reggeli tekeréshez.",
                 "ro": "Purtați mănuși pentru plimbarea rece de dimineață.",
-                "en": "Wear gloves for the cold morning ride."
+                "en": "Wear gloves for the cold morning ride.",
+                "el": "Φόρα γάντια για τη κρύα πρωινή διαδρομή."
               }
             },
             {
@@ -1044,7 +1127,8 @@
                 "de": "Ein guter Stopp, um die Hände aufzuwärmen.",
                 "hu": "Jó megálló a kezek felmelegítéséhez.",
                 "ro": "O oprire bună pentru a vă încălzi mâinile.",
-                "en": "A good stop to warm up your hands."
+                "en": "A good stop to warm up your hands.",
+                "el": "Ένα καλό σημείο για να ζεστάνεις τα χέρια σου."
               }
             },
             {
@@ -1053,7 +1137,8 @@
                 "de": "Das Gelände ist weitläufig, Radfahren verboten.",
                 "hu": "A terület tágas, a kerékpározás bent tilos.",
                 "ro": "Zona este vastă, ciclismul este interzis în interior.",
-                "en": "The area is vast, cycling is forbidden inside."
+                "en": "The area is vast, cycling is forbidden inside.",
+                "el": "Η περιοχή είναι εκτεταμένη, η ποδηλασία απαγορεύεται μέσα."
               }
             },
             {
@@ -1062,7 +1147,8 @@
                 "de": "Stellen Sie das Rad sicher im Schatten ab.",
                 "hu": "Állítsa le a biciklit biztonságos helyre.",
                 "ro": "Parcați bicicleta într-un loc sigur.",
-                "en": "Park your bike in a safe spot."
+                "en": "Park your bike in a safe spot.",
+                "el": "Στάθμευσε το ποδήλατό σου σε ασφαλές σημείο."
               }
             },
             {
@@ -1071,7 +1157,8 @@
                 "de": "Unterschätzen Sie nicht den Wind am Gipfel.",
                 "hu": "Ne becsülje alá a szelet a vár tetején.",
                 "ro": "Nu subestimați vântul din vârful castelului.",
-                "en": "Do not underestimate the wind at the top."
+                "en": "Do not underestimate the wind at the top.",
+                "el": "Μην υποτιμάς τον άνεμο στην κορυφή."
               }
             },
             {
@@ -1080,7 +1167,8 @@
                 "de": "Heiße Schokolade ist hier im Winter ein Muss.",
                 "hu": "A forró csokoládé télen kötelező itt.",
                 "ro": "Ciocolata caldă este obligatorie aici iarna.",
-                "en": "Hot chocolate is a must here in winter."
+                "en": "Hot chocolate is a must here in winter.",
+                "el": "Ζεστή σοκολάτα είναι απαραίτητη εδώ τον χειμώνα."
               }
             }
           ],
@@ -1108,6 +1196,12 @@
               "Wear windproof clothing.",
               "Check tire pressure in low temperatures.",
               "Dusk sets in early during the winter months."
+            ],
+            "el": [
+              "Εκμεταλλεύσου τον μεσημεριανό ήλιο για την ανάβαση στο κάστρο.",
+              "Φόρα αδιάβροχα/αντιανεμικά ρούχα.",
+              "Έλεγξε την πίεση των ελαστικών σε χαμηλές θερμοκρασίες.",
+              "Το σούρουπο έρχεται νωρίς κατά τους χειμερινούς μήνες."
             ]
           }
         }
@@ -1126,7 +1220,8 @@
             "de": "Cluster 1: Archäologisches Museum von Argos",
             "hu": "1. klaszter: Árgoszi Régészeti Múzeum",
             "ro": "Cluster 1: Muzeul Arheologic din Argos",
-            "en": "Cluster 1: Archaeological Museum of Argos"
+            "en": "Cluster 1: Archaeological Museum of Argos",
+            "el": "Συστάδα 1: Αρχαιολογικό Μουσείο Άργους"
           },
           "coords": [
             22.7289,
@@ -1142,7 +1237,8 @@
             "de": "Parken Sie im Stadtzentrum. Dies ist Ihr erster Stopp in einem zu Fuß erkundbaren Bereich.",
             "hu": "Parkoljon a városközpontban. Ez az első megálló a gyalogosan bejárható területen.",
             "ro": "Parcați în centrul orașului. Acesta este primul dvs. popas într-o zonă pietonală.",
-            "en": "Park in the city center. This is your first stop in a walkable cluster."
+            "en": "Park in the city center. This is your first stop in a walkable cluster.",
+            "el": "Στάθμευσε στο κέντρο της πόλης. Αυτό είναι το πρώτο σου σημείο σε μια ευκολοπερπατήσιμη συστάδα."
           }
         },
         {
@@ -1150,7 +1246,8 @@
             "de": "Antike Agora & Römische Thermen",
             "hu": "Antik Agóra és Római Fürdők",
             "ro": "Agora Antică și Termele Romane",
-            "en": "Ancient Agora & Roman Thermals"
+            "en": "Ancient Agora & Roman Thermals",
+            "el": "Αρχαία Αγορά & Ρωμαϊκά Λουτρά"
           },
           "coords": [
             22.7251,
@@ -1166,7 +1263,8 @@
             "de": "Ein kurzer Spaziergang vom Museum. Lassen Sie das Auto geparkt.",
             "hu": "Egy rövid séta a múzeumtól. Hagyja az autót leparkolva.",
             "ro": "O scurtă plimbare de la muzeu. Lăsați mașina parcată.",
-            "en": "A short walk from the museum. Leave the car parked."
+            "en": "A short walk from the museum. Leave the car parked.",
+            "el": "Λίγο περπάτημα από το μουσείο. Αφήστε το αυτοκίνητο σταθμευμένο."
           }
         },
         {
@@ -1174,7 +1272,8 @@
             "de": "Cluster 2: Antikes Theater von Argos",
             "hu": "2. klaszter: Árgosz Antik Színháza",
             "ro": "Cluster 2: Teatrul Antic din Argos",
-            "en": "Cluster 2: Ancient Theatre of Argos"
+            "en": "Cluster 2: Ancient Theatre of Argos",
+            "el": "Συστάδα 2: Αρχαίο Θέατρο Άργους"
           },
           "coords": [
             22.7214,
@@ -1190,7 +1289,8 @@
             "de": "Fahren Sie zum Parkplatz in der Nähe des Theaters. Dies beginnt Ihren zweiten Cluster.",
             "hu": "Vezessen a színház melletti parkolóba. Ezzel kezdődik a második klaszter.",
             "ro": "Conduceți la parcarea de lângă teatru. Aici începe al doilea cluster.",
-            "en": "Drive to the parking area near the theatre. This begins your second cluster."
+            "en": "Drive to the parking area near the theatre. This begins your second cluster.",
+            "el": "Οδήγησε προς την περιοχή στάθμευσης κοντά στο θέατρο. Εδώ ξεκινά η δεύτερη σου συστάδα."
           }
         },
         {
@@ -1198,7 +1298,8 @@
             "de": "Burg von Larissa",
             "hu": "Larissza vára",
             "ro": "Cetatea Larissa",
-            "en": "Larissa Castle"
+            "en": "Larissa Castle",
+            "el": "Κάστρο της Λάρισσας"
           },
           "coords": [
             22.7164,
@@ -1214,7 +1315,8 @@
             "de": "Der Aufstieg vom Theater zur Burg ist ein steiler Spaziergang, aber machbar.",
             "hu": "A színháztól a várhoz vezető út meredek séta, de teljesíthető.",
             "ro": "Urcușul de la teatru la castel este o plimbare abruptă, dar fezabilă.",
-            "en": "The ascent from the theatre to the castle is a steep walk but manageable."
+            "en": "The ascent from the theatre to the castle is a steep walk but manageable.",
+            "el": "Η ανάβαση από το θέατρο προς το κάστρο είναι απότομο περπάτημα αλλά διαχειρίσιμη."
           }
         },
         {
@@ -1222,7 +1324,8 @@
             "de": "Mittagessen mit Aussicht",
             "hu": "Ebéd kilátással",
             "ro": "Prânz cu vedere",
-            "en": "Lunch with a View"
+            "en": "Lunch with a View",
+            "el": "Γεύμα με Θέα"
           },
           "coords": [
             22.72,
@@ -1238,7 +1341,8 @@
             "de": "Finden Sie eine Taverne am Fuße des Burgbergs.",
             "hu": "Keressen egy tavernát a várhegy lábánál.",
             "ro": "Găsiți o tavernă la poalele dealului castelului.",
-            "en": "Find a taverna at the base of the castle hill."
+            "en": "Find a taverna at the base of the castle hill.",
+            "el": "Βρες μια ταβέρνα στη βάση του λόφου του κάστρου."
           }
         },
         {
@@ -1246,7 +1350,8 @@
             "de": "Cluster 3: Heraion von Argos",
             "hu": "3. klaszter: Árgoszi Héraion",
             "ro": "Cluster 3: Heraion din Argos",
-            "en": "Cluster 3: Heraion of Argos"
+            "en": "Cluster 3: Heraion of Argos",
+            "el": "Συστάδα 3: Ηραίον Άργους"
           },
           "coords": [
             22.7886,
@@ -1262,7 +1367,8 @@
             "de": "Ein bedeutender Abstecher, der die Macht des antiken Argos zeigt.",
             "hu": "Jelentős kitérő, amely bemutatja az ókori Árgosz hatalmát.",
             "ro": "Un ocol important care demonstrează puterea Argosului antic.",
-            "en": "A significant side trip showcasing the power of ancient Argos."
+            "en": "A significant side trip showcasing the power of ancient Argos.",
+            "el": "Ένα σημαντικό παράπλευρο ταξίδι που δείχνει τη δύναμη της αρχαίας Άργους."
           }
         },
         {
@@ -1270,7 +1376,8 @@
             "de": "Rückkehr ins Zentrum",
             "hu": "Visszatérés a központba",
             "ro": "Întoarcere în centru",
-            "en": "Return to Center"
+            "en": "Return to Center",
+            "el": "Επιστροφή στο Κέντρο"
           },
           "coords": [
             22.7295,
@@ -1285,7 +1392,8 @@
             "de": "Kehren Sie für einen Kaffee oder einen frühen Drink nach Argos zurück.",
             "hu": "Térjen vissza Árgoszba egy kávéra vagy egy korai italra.",
             "ro": "Întoarceți-vă în Argos pentru o cafea sau o băutură timpurie.",
-            "en": "Head back to Argos for a coffee or an early drink."
+            "en": "Head back to Argos for a coffee or an early drink.",
+            "el": "Επιστρέψτε στην Άργος για έναν καφέ ή ένα πρώιμο ποτό."
           }
         }
       ],
@@ -1293,7 +1401,8 @@
         "de": "Beginnen Sie Ihren Tag mit dem Auto im Herzen von Argos. Parken Sie und erkunden Sie den ersten Cluster zu Fuß: das Archäologische Museum und die nahe gelegene Agora. Nehmen Sie sich Zeit, die Artefakte zu bewundern, die Argos als eine der ältesten Städte Europas bezeugen.\nAm Mittag fahren Sie zum zweiten Cluster, dem Bereich um das antike Theater. Nachdem Sie das Theater erkundet haben, unternehmen Sie den kurzen, aber steilen Spaziergang hinauf zur Burg von Larissa, um eine atemberaubende Aussicht zu genießen und zu Mittag zu essen.\nAm Nachmittag unternehmen Sie eine bedeutende Fahrt zum Heraion von Argos, einem antiken Heiligtum etwas außerhalb der Stadt. Diese Fahrt gibt Ihnen ein Gefühl für die Weite des Gebiets, das Argos einst kontrollierte.\nKehren Sie am späten Nachmittag nach Argos zurück und beenden Sie Ihren Tag dort, wo Sie begonnen haben. Genießen Sie die Atmosphäre des Stadtzentrums, vielleicht bei einem Drink, und denken Sie an eine Reise nach, die von städtischer Erkundung zu ländlicher Erhabenheit führte.",
         "hu": "Kezdje a napot autóval Árgosz szívében. Parkoljon le, és fedezze fel gyalog az első klasztert: a Régészeti Múzeumot és a közeli Agórát. Szánjon időt a leletek megcsodálására, amelyek tanúsítják, hogy Árgosz Európa egyik legrégebbi városa.\nDélben vezessen a második klaszterhez, az antik színház körüli területre. A színház felfedezése után tegyen egy rövid, de meredek sétát a Larissza várához, ahonnan lélegzetelállító kilátás nyílik, majd ebédeljen.\nA délután egy jelentős utazást tesz az Árgoszi Héraionhoz, egy ősi szentélyhez, amely kissé a városon kívül található. Ez az utazás érzékelteti annak a területnek a hatalmas kiterjedését, amelyet Árgosz egykor ellenőrzött.\nKéső délután térjen vissza Árgoszba, és fejezze be a napot ott, ahol elkezdte. Élvezze a városközpont hangulatát, talán egy ital mellett, miközben egy olyan utazásra gondol, amely a városi felfedezéstől a vidéki fenségig vezetett.",
         "ro": "Începeți ziua cu mașina în inima orașului Argos. Parcați și explorați primul cluster pe jos: Muzeul Arheologic și Agora din apropiere. Luați-vă timp să admirați artefactele care atestă Argosul ca fiind unul dintre cele mai vechi orașe din Europa.\nLa prânz, conduceți către al doilea cluster, zona din jurul teatrului antic. După explorarea teatrului, faceți o plimbare scurtă, dar abruptă, până la Cetatea Larissa pentru vederi uluitoare și prânz.\nDupă-amiaza implică o călătorie semnificativă cu mașina către Heraion din Argos, un sanctuar antic situat chiar în afara orașului. Această călătorie vă va oferi o idee despre vasta întindere a teritoriului pe care Argos îl controla odată.\nÎntoarceți-vă în Argos după-amiaza târziu, încheindu-vă ziua acolo unde ați început. Bucurați-vă de atmosfera din centrul orașului, poate cu o băutură, reflectând la o călătorie care a trecut de la explorarea urbană la grandoarea rurală.",
-        "en": "Start your day by car in the heart of Argos. Park up and explore the first cluster on foot: the Archaeological Museum and the nearby Agora. Take your time admiring the artifacts that attest to Argos being one of Europe's oldest cities.\nAt midday, drive to the second cluster, the area around the ancient theatre. After exploring the theatre, take the short but steep walk up to Larissa Castle for breathtaking views and lunch.\nThe afternoon involves a significant drive to the Heraion of Argos, an ancient sanctuary located just outside the city. This drive will give you a sense of the vast expanse of territory Argos once controlled.\nReturn to Argos in the late afternoon, finishing your day where you started. Enjoy the city center's atmosphere, perhaps with a drink, reflecting on a journey that went from urban exploration to rural grandeur."
+        "en": "Start your day by car in the heart of Argos. Park up and explore the first cluster on foot: the Archaeological Museum and the nearby Agora. Take your time admiring the artifacts that attest to Argos being one of Europe's oldest cities.\nAt midday, drive to the second cluster, the area around the ancient theatre. After exploring the theatre, take the short but steep walk up to Larissa Castle for breathtaking views and lunch.\nThe afternoon involves a significant drive to the Heraion of Argos, an ancient sanctuary located just outside the city. This drive will give you a sense of the vast expanse of territory Argos once controlled.\nReturn to Argos in the late afternoon, finishing your day where you started. Enjoy the city center's atmosphere, perhaps with a drink, reflecting on a journey that went from urban exploration to rural grandeur.",
+        "el": "Ξεκίνα τη μέρα με αυτοκίνητο στην καρδιά της Άργους. Στάθμευσε και εξερεύνησε τη πρώτη συστάδα με τα πόδια: το Αρχαιολογικό Μουσείο και την κοντινή Αγορά. Πάρε το χρόνο σου να θαυμάσεις τα εκθέματα που μαρτυρούν ότι η Άργος είναι μία από τις παλαιότερες πόλεις της Ευρώπης.\nΤο μεσημέρι, οδήγησε στη δεύτερη συστάδα, την περιοχή γύρω από το αρχαίο θέατρο. Μετά την εξερεύνηση του θεάτρου, κάνε το σύντομο αλλά απότομο περπάτημα προς το Κάστρο της Λάρισσας για εκπληκτική θέα και γεύμα.\nΤο απόγευμα περιλαμβάνει σημαντική οδήγηση προς το Ηραίον της Άργους, ένα αρχαίο ιερό λίγο έξω από την πόλη. Αυτή η διαδρομή θα σου δώσει αίσθηση της τεράστιας έκτασης που κάποτε κατείχε η Άργος.\nΕπιστρέψτε στην Άργος νωρίς το βράδυ, ολοκληρώνοντας τη μέρα όπου ξεκίνησε. Απολαύστε την ατμόσφαιρα του κέντρου, ίσως με ένα ποτό, και σκεφτείτε ένα ταξίδι που ξεκίνησε από την αστική εξερεύνηση και κατέληξε στην αγροτική μεγαλοπρέπεια."
       },
       "gastro_picks": {
         "de": [
@@ -1489,6 +1598,12 @@
           "The road to the Heraion is narrow, drive with care.",
           "A car allows you to visit more remote but equally important sites.",
           "Check the opening hours for the Heraion as they can be seasonal."
+        ],
+        "el": [
+          "Η στάθμευση στο κέντρο μπορεί να είναι δύσκολη, να είσαι υπομονετικός/ή.",
+          "Ο δρόμος προς το Ηραίον είναι στενός, οδήγησε με προσοχή.",
+          "Ένα αυτοκίνητο σου επιτρέπει να επισκεφθείς πιο απομακρυσμένους αλλά εξίσου σημαντικούς χώρους.",
+          "Ελέγξτε τις ώρες λειτουργίας για το Ηραίον καθώς μπορεί να είναι εποχιακές."
         ]
       },
       "variants": {
@@ -1497,7 +1612,8 @@
             "de": "Argos mit dem Auto ist bei Regen die komfortabelste Wahl. Wir pendeln zwischen Museum und Heraion, ohne nass zu werden. Das Mittagessen mit Aussicht bietet Schutz vor dem Wetter, während wir das Heraion am Nachmittag bei abziehenden Wolken besuchen. Ein entspannter Tag trotz Regen.",
             "hu": "Autóval az esős Argosz a legkényelmesebb választás. A múzeum és a Heraion között ingázunk anélkül, hogy eláznánk. Az ebédet fedett helyen, kilátással élvezzük, délután pedig a felhők közül felbukkanó Heraiont látogatjuk meg. Nyugodt nap az eső ellenére is.",
             "ro": "Argos cu mașina este cea mai confortabilă alegere pe ploaie. Navetăm între muzeu și Heraion fără a ne uda. Prânzul cu vedere oferă protecție, în timp ce vizităm Heraionul după-amiaza printre nori. O zi relaxată în ciuda ploii.",
-            "en": "Argos by car is the most comfortable choice in the rain. We commute between the museum and the Heraion without getting wet. Lunch with a view provides shelter, while we visit the Heraion in the afternoon as clouds disperse. A relaxed day despite the rain."
+            "en": "Argos by car is the most comfortable choice in the rain. We commute between the museum and the Heraion without getting wet. Lunch with a view provides shelter, while we visit the Heraion in the afternoon as clouds disperse. A relaxed day despite the rain.",
+            "el": "Η Άργος με αυτοκίνητο είναι η πιο άνετη επιλογή στη βροχή. Μετακινούμαστε ανάμεσα στο μουσείο και το Ηραίον χωρίς να βραχούμε. Το γεύμα με θέα παρέχει κάλυψη, ενώ επισκεπτόμαστε το Ηραίον το απόγευμα καθώς διαλύονται τα σύννεφα. Μια χαλαρή μέρα παρά τη βροχή."
           },
           "stops": [
             {
@@ -1506,7 +1622,8 @@
                 "de": "Naher Parkplatz für schnellen Zugang im Regen.",
                 "hu": "Közeli parkoló a gyors bejutáshoz esőben.",
                 "ro": "Parcare apropiată pentru acces rapid pe ploaie.",
-                "en": "Nearby parking for quick access in the rain."
+                "en": "Nearby parking for quick access in the rain.",
+                "el": "Κοντινή στάθμευση για γρήγορη πρόσβαση στη βροχή."
               }
             },
             {
@@ -1515,7 +1632,8 @@
                 "de": "Bleiben Sie bei starken Güssen kurz im Auto.",
                 "hu": "Nagyobb felhőszakadáskor várjon kicsit az autóban.",
                 "ro": "Așteptați puțin în mașină în caz de averse mari.",
-                "en": "Wait in the car for a bit during heavy downpours."
+                "en": "Wait in the car for a bit during heavy downpours.",
+                "el": "Περίμενε στο αυτοκίνητο λίγο κατά τη διάρκεια δυνατών μροχών."
               }
             },
             {
@@ -1524,7 +1642,8 @@
                 "de": "Parken Sie direkt am Eingang des Theaters.",
                 "hu": "Parkoljon közvetlenül a színház bejáratánál.",
                 "ro": "Parcați chiar la intrarea teatrului.",
-                "en": "Park right at the entrance of the theatre."
+                "en": "Park right at the entrance of the theatre.",
+                "el": "Στάθμευσε ακριβώς στην είσοδο του θεάτρου."
               }
             },
             {
@@ -1533,7 +1652,8 @@
                 "de": "Die Straße nach oben ist kurvig und rutschig.",
                 "hu": "A felfelé vezető út kanyargós és csúszós lehet.",
                 "ro": "Drumul spre vârf este sinuos și alunecos.",
-                "en": "The road to the top is winding and slippery."
+                "en": "The road to the top is winding and slippery.",
+                "el": "Ο δρόμος προς την κορυφή είναι φιδίσιος και ολισθηρός."
               }
             },
             {
@@ -1542,7 +1662,8 @@
                 "de": "Fensterplätze sind bei Regen sehr begehrt.",
                 "hu": "Az ablak melletti asztalok esőben nagyon népszerűek.",
                 "ro": "Mesele de la fereastră sunt foarte căutate pe ploaie.",
-                "en": "Window seats are very popular when it rains."
+                "en": "Window seats are very popular when it rains.",
+                "el": "Οι θέσεις στο παράθυρο είναι πολύ δημοφιλείς όταν βρέχει."
               }
             },
             {
@@ -1551,7 +1672,8 @@
                 "de": "Heraion ist exponiert, Regenschutz einpacken.",
                 "hu": "A Heraion nyitott terület, vigyen esernyőt.",
                 "ro": "Heraion este expus, luați protecție de ploaie.",
-                "en": "Heraion is exposed, bring rain protection."
+                "en": "Heraion is exposed, bring rain protection.",
+                "el": "Το Ηραίο είναι εκτεθειμένο, πάρε προστασία από τη βροχή."
               }
             },
             {
@@ -1560,7 +1682,8 @@
                 "de": "Zentrale Parkhäuser nutzen, um trocken zu bleiben.",
                 "hu": "Használja a központi parkolókat a szárazon maradáshoz.",
                 "ro": "Folosiți parcări centrale pentru a rămâne uscați.",
-                "en": "Use central parking garages to stay dry."
+                "en": "Use central parking garages to stay dry.",
+                "el": "Χρησιμοποίησε κεντρικά υπόγεια πάρκινγκ για να μείνεις στεγνός."
               }
             }
           ],
@@ -1588,6 +1711,12 @@
               "Visibility might be reduced on the road to the castle.",
               "Use the air conditioning to defog the windows.",
               "The Heraion is about a 15-minute drive outside the city."
+            ],
+            "el": [
+              "Απόφυγε να σταθμεύεις σε χαμηλά σημεία που πλημμυρίζουν εύκολα.",
+              "Η ορατότητα μπορεί να μειωθεί στον δρόμο προς το κάστρο.",
+              "Χρησιμοποίησε τον κλιματισμό για να αποθαμπώσεις τα παράθυρα.",
+              "Το Ηραίο είναι περίπου 15 λεπτά οδήγηση έξω από την πόλη."
             ]
           }
         },
@@ -1596,7 +1725,8 @@
             "de": "Im Winter ermöglicht das Auto eine stressfreie Tour zu allen Highlights. Morgens besuchen wir das Museum, danach geht es zur Burg Larissa, wo die kühle Luft die Aussicht klärt. Das Heraion am Nachmittag ist im Winterlicht besonders fotogen, bevor wir für ein warmes Abendessen ins Zentrum zurückkehren.",
             "hu": "Télen az autó stresszmentes túrát tesz lehetővé az összes látnivalóhoz. Reggel a múzeumot nézzük meg, majd a Larissa-vár következik, ahol a hűvös levegő kitisztítja a kilátást. A Heraion a téli fényekben különösen fotogén, mielőtt visszatérnénk a városba.",
             "ro": "Iarna, mașina permite un tur fără stres al tuturor punctelor de atracție. Dimineața vizităm muzeul, apoi mergem la Castelul Larissa. Heraionul este deosebit de fotogenic în lumina iernii, înainte de a ne întoarce în centru pentru cină.",
-            "en": "In winter, the car allows for a stress-free tour of all the highlights. In the morning, we visit the museum, then head to Larissa Castle where the crisp air clears the view. The Heraion is especially photogenic in winter light before we return for dinner."
+            "en": "In winter, the car allows for a stress-free tour of all the highlights. In the morning, we visit the museum, then head to Larissa Castle where the crisp air clears the view. The Heraion is especially photogenic in winter light before we return for dinner.",
+            "el": "Το χειμώνα, το αυτοκίνητο επιτρέπει μια ξέγνοιαστη περιήγηση σε όλα τα αξιοθέατα. Το πρωί επισκεπτόμαστε το μουσείο, μετά κατευθυνόμαστε στο Κάστρο Λάρισσας όπου ο δροσερός αέρας καθαρίζει τη θέα. Το Ηραίο είναι ιδιαίτερα φωτογενές στο χειμερινό φως πριν επιστρέψουμε για δείπνο."
           },
           "stops": [
             {
@@ -1605,7 +1735,8 @@
                 "de": "Kurze Wege vom Auto zum warmen Museum.",
                 "hu": "Rövid séta az autótól a fűtött múzeumig.",
                 "ro": "Drum scurt de la mașină la muzeul încălzit.",
-                "en": "Short walk from the car to the warm museum."
+                "en": "Short walk from the car to the warm museum.",
+                "el": "Σύντομος περίπατος από το αυτοκίνητο στο ζεστό μουσείο."
               }
             },
             {
@@ -1614,7 +1745,8 @@
                 "de": "Warme Kleidung für den Rundgang nötig.",
                 "hu": "Meleg ruházat szükséges a szabadtéri sétához.",
                 "ro": "Îmbrăcăminte groasă necesară pentru plimbare.",
-                "en": "Warm clothing needed for the outdoor walk."
+                "en": "Warm clothing needed for the outdoor walk.",
+                "el": "Απαιτούνται ζεστά ρούχα για τον υπαίθριο περίπατο."
               }
             },
             {
@@ -1623,7 +1755,8 @@
                 "de": "Sonnige Abschnitte am Vormittag nutzen.",
                 "hu": "Használja ki a délelőtti napos időszakokat.",
                 "ro": "Profită de secțiunile însorite de dimineață.",
-                "en": "Take advantage of sunny periods in the morning."
+                "en": "Take advantage of sunny periods in the morning.",
+                "el": "Εκμεταλλεύσου τις ηλιόλουστες περιόδους το πρωί."
               }
             },
             {
@@ -1632,7 +1765,8 @@
                 "de": "Oben ist es deutlich kühler und windiger.",
                 "hu": "A várban jóval hűvösebb és szelesebb az idő.",
                 "ro": "La castel este mult mai răcoare și bate vântul.",
-                "en": "It is significantly cooler and windier at the castle."
+                "en": "It is significantly cooler and windier at the castle.",
+                "el": "Στο κάστρο είναι αισθητά πιο ψυχρά και πιο ανέμων."
               }
             },
             {
@@ -1641,7 +1775,8 @@
                 "de": "Im Winter gibt es oft schneller freie Tische.",
                 "hu": "Télen gyakran könnyebb szabad asztalt találni.",
                 "ro": "Iarna este adesea mai ușor să găsești o masă liberă.",
-                "en": "It is often easier to find a free table in winter."
+                "en": "It is often easier to find a free table in winter.",
+                "el": "Συχνά είναι ευκολότερο να βρεις ελεύθερο τραπέζι το χειμώνα."
               }
             },
             {
@@ -1650,7 +1785,8 @@
                 "de": "Besuch vor 16:00 Uhr wegen Schließzeiten.",
                 "hu": "Látogassa meg 16:00 előtt a téli nyitvatartás miatt.",
                 "ro": "Vizitați înainte de 16:00 din cauza programului de iarnă.",
-                "en": "Visit before 16:00 due to winter closing hours."
+                "en": "Visit before 16:00 due to winter closing hours.",
+                "el": "Επισκέψου πριν τις 16:00 λόγω χειμερινών ωρών κλεισίματος."
               }
             },
             {
@@ -1659,7 +1795,8 @@
                 "de": "Zentrum ist am frühen Abend belebt.",
                 "hu": "A belváros kora este is életteli.",
                 "ro": "Centrul este animat devreme în seară.",
-                "en": "The center is lively in the early evening."
+                "en": "The center is lively in the early evening.",
+                "el": "Το κέντρο είναι ζωηρό νωρίς το βράδυ."
               }
             }
           ],
@@ -1687,6 +1824,12 @@
               "The mountain road can be slippery with frost.",
               "Take a blanket for breaks outdoors.",
               "The Heraion often closes earlier in the winter."
+            ],
+            "el": [
+              "Έλεγξε τις χειμερινές ώρες λειτουργίας για τα αρχαιολογικά μνημεία.",
+              "Ο ορεινός δρόμος μπορεί να είναι ολισθηρός από παγετό.",
+              "Πάρε μια κουβέρτα για διαλείμματα σε εξωτερικούς χώρους.",
+              "Το Ηραίο συχνά κλείνει νωρίτερα τον χειμώνα."
             ]
           }
         }
@@ -1705,7 +1848,8 @@
             "de": "Cluster 1: Ankunft am Hauptplatz",
             "hu": "1. klaszter: Érkezés a Fő térre",
             "ro": "Cluster 1: Sosire în Piața Centrală",
-            "en": "Cluster 1: Arrival at the Main Square"
+            "en": "Cluster 1: Arrival at the Main Square",
+            "el": "Συστάδα 1: Άφιξη στην Κεντρική Πλατεία"
           },
           "coords": [
             22.7295,
@@ -1721,7 +1865,8 @@
             "de": "Beginnen Sie an der Agios-Petros-Kirche, einem zentralen Wahrzeichen.",
             "hu": "Kezdje az Agios Petros templomnál, egy központi nevezetességnél.",
             "ro": "Începeți de la Biserica Agios Petros, un punct de reper central.",
-            "en": "Start at the Church of Agios Petros, a central landmark."
+            "en": "Start at the Church of Agios Petros, a central landmark.",
+            "el": "Ξεκίνα στην Εκκλησία του Αγίου Πέτρου, ένα κεντρικό σημείο αναφοράς."
           }
         },
         {
@@ -1729,7 +1874,8 @@
             "de": "Archäologisches Museum von Argos",
             "hu": "Árgoszi Régészeti Múzeum",
             "ro": "Muzeul Arheologic din Argos",
-            "en": "Archaeological Museum of Argos"
+            "en": "Archaeological Museum of Argos",
+            "el": "Αρχαιολογικό Μουσείο Άργους"
           },
           "coords": [
             22.7289,
@@ -1745,7 +1891,8 @@
             "de": "Ein kurzer Spaziergang vom Platz aus.",
             "hu": "Egy rövid séta a térről.",
             "ro": "O scurtă plimbare din piață.",
-            "en": "A very short walk from the square."
+            "en": "A very short walk from the square.",
+            "el": "Πολύ σύντομος περίπατος από την πλατεία."
           }
         },
         {
@@ -1753,7 +1900,8 @@
             "de": "Kapodistrias-Kasernen",
             "hu": "Kapodistrias laktanya",
             "ro": "Cazarma Kapodistrias",
-            "en": "Kapodistrias Barracks"
+            "en": "Kapodistrias Barracks",
+            "el": "Στρατώνας Καποδίστρια"
           },
           "coords": [
             22.731,
@@ -1769,7 +1917,8 @@
             "de": "Gehen Sie nach Norden, um dieses neoklassizistische Gebäude zu sehen.",
             "hu": "Sétáljon észak felé, hogy megnézze ezt a neoklasszikus épületet.",
             "ro": "Mergeți spre nord pentru a vedea această clădire neoclasică.",
-            "en": "Walk north to see this neoclassical building."
+            "en": "Walk north to see this neoclassical building.",
+            "el": "Περπάτησε βόρεια για να δεις αυτό το νεοκλασικό κτίριο."
           }
         },
         {
@@ -1777,7 +1926,8 @@
             "de": "Cluster 2: Antike Agora",
             "hu": "2. klaszter: Antik Agóra",
             "ro": "Cluster 2: Agora Antică",
-            "en": "Cluster 2: Ancient Agora"
+            "en": "Cluster 2: Ancient Agora",
+            "el": "Συστάδα 2: Αρχαία Αγορά"
           },
           "coords": [
             22.7255,
@@ -1793,7 +1943,8 @@
             "de": "Nehmen Sie einen lokalen Bus oder machen Sie einen längeren Spaziergang zum nächsten archäologischen Bereich.",
             "hu": "Menjen helyi busszal vagy tegyen egy hosszabb sétát a következő régészeti területre.",
             "ro": "Luați un autobuz local sau faceți o plimbare mai lungă până la următoarea zonă arheologică.",
-            "en": "Take a local bus or a longer walk to the next archaeological zone."
+            "en": "Take a local bus or a longer walk to the next archaeological zone.",
+            "el": "Πάρε τοπικό λεωφορείο ή έναν μεγαλύτερο περίπατο προς την επόμενη αρχαιολογική ζώνη."
           }
         },
         {
@@ -1801,7 +1952,8 @@
             "de": "Antikes Theater & Römische Thermen",
             "hu": "Antik Színház és Római Fürdők",
             "ro": "Teatrul Antic și Termele Romane",
-            "en": "Ancient Theatre & Roman Thermals"
+            "en": "Ancient Theatre & Roman Thermals",
+            "el": "Αρχαίο Θέατρο & Ρωμαϊκά Λουτρά"
           },
           "coords": [
             22.7231,
@@ -1817,7 +1969,8 @@
             "de": "Diese beiden beeindruckenden Stätten liegen direkt nebeneinander.",
             "hu": "Ez a két lenyűgöző helyszín közvetlenül egymás mellett található.",
             "ro": "Aceste două situri impresionante sunt chiar una lângă alta.",
-            "en": "These two impressive sites are right next to each other."
+            "en": "These two impressive sites are right next to each other.",
+            "el": "Αυτά τα δύο εντυπωσιακά μνημεία είναι δίπλα το ένα στο άλλο."
           }
         },
         {
@@ -1825,7 +1978,8 @@
             "de": "Spaziergang zur Burg von Larissa",
             "hu": "Séta a Larissza várához",
             "ro": "Plimbare la Cetatea Larissa",
-            "en": "Walk to Larissa Castle"
+            "en": "Walk to Larissa Castle",
+            "el": "Περπάτησε προς το Κάστρο Λάρισσας"
           },
           "coords": [
             22.7164,
@@ -1841,7 +1995,8 @@
             "de": "Der letzte Aufstieg des Tages erfolgt zu Fuß. Er ist steil.",
             "hu": "A nap utolsó emelkedője gyalog történik. Meredek.",
             "ro": "Urcarea finală a zilei este pe jos. Este abruptă.",
-            "en": "The final ascent of the day is on foot. It is steep."
+            "en": "The final ascent of the day is on foot. It is steep.",
+            "el": "Η τελευταία ανάβαση της ημέρας γίνεται με τα πόδια. Είναι απότομη."
           }
         }
       ],
@@ -1849,7 +2004,8 @@
         "de": "Beginnen Sie Ihren Tag mit dem Bus zum Hauptplatz von Argos. Der erste Cluster von Sehenswürdigkeiten, darunter die Agios-Petros-Kirche, das Museum und die Kasernen, ist leicht zu Fuß erreichbar und bietet einen sanften Einstieg in die reiche Geschichte der Stadt.\nAm Mittag nehmen Sie einen kurzen Bus oder machen einen längeren Spaziergang zum zweiten Cluster: der archäologischen Zone mit der Agora, den Thermen und dem Theater. Tauchen Sie in das Herz des antiken Lebens ein, bevor Sie eine Mittagspause einlegen.\nDer Nachmittag ist für den energiegeladenen Aufstieg zur Burg von Larissa reserviert. Vom Theater aus ist es ein anspruchsvoller Spaziergang, der Sie mit den besten Aussichten auf die Stadt und die umliegende Ebene belohnt.\nBeenden Sie Ihren Tag, indem Sie zurück ins Zentrum gehen oder einen Bus nehmen. Genießen Sie die Zufriedenheit, eine der wichtigsten Städte der griechischen Geschichte mit einer Kombination aus öffentlichen Verkehrsmitteln und eigener Kraft erkundet zu haben.",
         "hu": "Kezdje a napot busszal Árgosz főterére. Az első látnivaló-klaszter, beleértve az Agios Petros-templomot, a múzeumot és a laktanyát, könnyen bejárható gyalog, és kellemes bevezetést nyújt a város gazdag történelmébe.\nDélben szálljon buszra vagy tegyen egy hosszabb sétát a második klaszterhez: a régészeti zónához, amely magában foglalja az Agórát, a fürdőket és a színházat. Merüljön el az ókori élet szívében, mielőtt ebédszünetet tart.\nA délutánt a Larissza várához való energikus feljutásra szánjuk. A színháztól ez egy kihívást jelentő séta, amely a városra és a környező síkságra nyíló legjobb kilátással jutalmazza.\nFejezze be a napot a központba való visszasétálással vagy buszozással. Élvezze az elégedettséget, hogy a görög történelem egyik legfontosabb városát a tömegközlekedés és a saját erejének kombinációjával fedezte fel.",
         "ro": "Începeți ziua luând un autobuz către piața principală din Argos. Primul cluster de atracții, inclusiv Biserica Agios Petros, muzeul și cazarmele, este ușor de parcurs pe jos, oferind o introducere blândă în istoria bogată a orașului.\nLa prânz, luați un autobuz scurt sau faceți o plimbare mai lungă până la al doilea cluster: zona arheologică care cuprinde Agora, Termele și Teatrul. Scufundați-vă în inima vieții antice înainte de a face o pauză pentru prânz.\nDupă-amiaza este rezervată pentru ascensiunea energică la Cetatea Larissa. De la teatru, este o plimbare solicitantă care vă recompensează cu cele mai bune vederi ale orașului și ale câmpiei înconjurătoare.\nÎncheiați-vă ziua mergând pe jos sau luând un autobuz înapoi în centru. Bucurați-vă de satisfacția de a fi explorat unul dintre cele mai importante orașe din istoria Greciei folosind o combinație de transport public și propria putere.",
-        "en": "Begin your day by taking a bus to the main square of Argos. The first cluster of sights, including Agios Petros church, the museum, and the barracks, is easily walkable, providing a gentle introduction to the city's rich history.\nAt midday, take a short bus ride or a longer walk to the second cluster: the archaeological zone comprising the Agora, Thermals, and Theatre. Immerse yourself in the heart of ancient life before taking a break for lunch.\nThe afternoon is reserved for the energetic ascent to Larissa Castle. From the theatre, it's a challenging walk that rewards you with the best views over the city and the surrounding plain.\nEnd your day by walking or taking a bus back to the center. Enjoy the satisfaction of having explored one of Greek history's most important cities using a combination of public transport and your own power."
+        "en": "Begin your day by taking a bus to the main square of Argos. The first cluster of sights, including Agios Petros church, the museum, and the barracks, is easily walkable, providing a gentle introduction to the city's rich history.\nAt midday, take a short bus ride or a longer walk to the second cluster: the archaeological zone comprising the Agora, Thermals, and Theatre. Immerse yourself in the heart of ancient life before taking a break for lunch.\nThe afternoon is reserved for the energetic ascent to Larissa Castle. From the theatre, it's a challenging walk that rewards you with the best views over the city and the surrounding plain.\nEnd your day by walking or taking a bus back to the center. Enjoy the satisfaction of having explored one of Greek history's most important cities using a combination of public transport and your own power.",
+        "el": "Ξεκίνα τη μέρα παίρνοντας ένα λεωφορείο προς την κεντρική πλατεία του Άργους. Η πρώτη συστάδα αξιοθέατων, συμπεριλαμβανομένης της εκκλησίας του Αγίου Πέτρου, του μουσείου και του στρατώνα, είναι εύκολα προσβάσιμη με τα πόδια και προσφέρει μια ήπια εισαγωγή στην πλούσια ιστορία της πόλης.\nΤο μεσημέρι, πήγαινε με ένα σύντομο δρομολόγιο λεωφορείου ή με έναν μεγαλύτερο περίπατο στη δεύτερη συστάδα: την αρχαιολογική ζώνη που περιλαμβάνει την Αγορά, τα Λουτρά και το Θέατρο. Βυθίσου στην καρδιά της αρχαίας ζωής πριν κάνεις στάση για μεσημεριανό.\nΤο απόγευμα είναι αφιερωμένο στην ενεργητική ανάβαση στο Κάστρο Λάρισσας. Από το θέατρο, είναι μια απαιτητική διαδρομή που σε ανταμείβει με τις καλύτερες θέες πάνω από την πόλη και τον γύρω κάμπο.\nΤελείωσε τη μέρα περπατώντας ή παίρνοντας λεωφορείο πίσω στο κέντρο. Απόλαυσε την ικανοποίηση ότι εξερεύνησες μια από τις πιο σημαντικές πόλεις της ελληνικής ιστορίας χρησιμοποιώντας συνδυασμό δημόσιων συγκοινωνιών και της δικής σου ενέργειας."
       },
       "gastro_picks": {
         "de": [
@@ -2046,6 +2202,12 @@
           "Ask locals for bus routes, as signage may not always be clear.",
           "Some parts of the tour, especially the castle climb, must be done on foot.",
           "Buy tickets at kiosks (periptera) or from the driver directly."
+        ],
+        "el": [
+          "Το τοπικό δίκτυο λεωφορείων είναι το καλύτερο για τη σύνδεση των κύριων περιοχών.",
+          "Ρώτησε ντόπιους για δρομολόγια λεωφορείων, καθώς οι πινακίδες μπορεί να μην είναι πάντα σαφείς.",
+          "Μέρη της περιήγησης, ειδικά η ανάβαση στο κάστρο, πρέπει να γίνουν με τα πόδια.",
+          "Αγόρασε εισιτήρια στα περίπτερα ή από τον οδηγό απευθείας."
         ]
       },
       "variants": {
@@ -2054,7 +2216,8 @@
             "de": "Mit dem Bus durch das regnerische Argos zu navigieren, erfordert etwas Planung. Wir nutzen das Museum und die Kasernen als trockene Ankerpunkte. Der Weg zur Burg Larissa ist bei Regen mühsam, daher verbringen wir mehr Zeit in der Agora. Abends bringt uns der Bus zurück ins gemütliche Zentrum.",
             "hu": "A buszos közlekedés az esős Argoszban némi tervezést igényel. A múzeumot és a laktanyákat használjuk száraz bázisnak. A várba való feljutás esőben nehézkes, így több időt töltünk az Agoránál. Este a busz visszavisz minket a barátságos belvárosba.",
             "ro": "Navigarea cu autobuzul prin Argos pe ploaie necesită planificare. Folosim muzeul și cazărmile ca puncte de ancorare uscate. Drumul spre castel este anevoios pe ploaie, așa că stăm mai mult la Agora. Seara, autobuzul ne duce înapoi în centrul primitor.",
-            "en": "Navigating rainy Argos by bus requires some planning. We use the museum and barracks as dry anchor points. The climb to the castle is difficult in the rain, so we spend more time at the Agora. In the evening, the bus takes us back to the cozy city center."
+            "en": "Navigating rainy Argos by bus requires some planning. We use the museum and barracks as dry anchor points. The climb to the castle is difficult in the rain, so we spend more time at the Agora. In the evening, the bus takes us back to the cozy city center.",
+            "el": "Η περιήγηση στο βροχερό Άργος με λεωφορείο απαιτεί λίγη οργάνωση. Χρησιμοποιούμε το μουσείο και τον στρατώνα ως στεγνά σημεία αναφοράς. Η ανάβαση στο κάστρο είναι δύσκολη με βροχή, γι’ αυτό περνάμε περισσότερο χρόνο στην Αγορά. Το βράδυ, το λεωφορείο μας επιστρέφει στο ζεστό κέντρο της πόλης."
           },
           "stops": [
             {
@@ -2063,7 +2226,8 @@
                 "de": "Überdachte Bushaltestellen im Zentrum suchen.",
                 "hu": "Keressen fedett buszmegállókat a központban.",
                 "ro": "Căutați stații de autobuz acoperite în centru.",
-                "en": "Look for covered bus stops in the center."
+                "en": "Look for covered bus stops in the center.",
+                "el": "Ψάξε για καλυμμένα στέγαστρα στάσεων στο κέντρο."
               }
             },
             {
@@ -2072,7 +2236,8 @@
                 "de": "Der Bus hält nur wenige Gehminuten entfernt.",
                 "hu": "A busz csak pár perc sétára áll meg.",
                 "ro": "Autobuzul oprește la doar câteva minute de mers pe jos.",
-                "en": "The bus stops just a few minutes' walk away."
+                "en": "The bus stops just a few minutes' walk away.",
+                "el": "Το λεωφορείο σταματά λίγα λεπτά με τα πόδια."
               }
             },
             {
@@ -2081,7 +2246,8 @@
                 "de": "Nutzen Sie die Gebäudefronten als Schutz.",
                 "hu": "Használja az épület homlokzatát eső elleni védelemnek.",
                 "ro": "Folosiți fațadele clădirilor pentru protecție.",
-                "en": "Use the building facades for protection from rain."
+                "en": "Use the building facades for protection from rain.",
+                "el": "Χρησιμοποίησε τις όψεις των κτιρίων για προστασία από τη βροχή."
               }
             },
             {
@@ -2090,7 +2256,8 @@
                 "de": "Vom Bus zur Agora ist der Weg bei Regen nass.",
                 "hu": "A busztól az Agoráig vezető út vizes lehet.",
                 "ro": "Drumul de la autobuz la Agora este ud pe ploaie.",
-                "en": "The path from the bus to the Agora is wet in the rain."
+                "en": "The path from the bus to the Agora is wet in the rain.",
+                "el": "Το μονοπάτι από το λεωφορείο στην Αγορά είναι βρεγμένο στη βροχή."
               }
             },
             {
@@ -2099,7 +2266,8 @@
                 "de": "Warten Sie unter den Bäumen auf den Bus.",
                 "hu": "Várja a buszt a fák védelmében.",
                 "ro": "Așteptați autobuzul sub protecția copacilor.",
-                "en": "Wait for the bus under the shelter of trees."
+                "en": "Wait for the bus under the shelter of trees.",
+                "el": "Περίμενε το λεωφορείο κάτω από το προστατευτικό των δέντρων."
               }
             },
             {
@@ -2108,7 +2276,8 @@
                 "de": "Langer Fußmarsch bei Regen sehr anstrengend.",
                 "hu": "A hosszú gyaloglás esőben nagyon fárasztó lehet.",
                 "ro": "Plimbarea lungă pe ploaie este foarte obositoare.",
-                "en": "The long walk in the rain is very tiring."
+                "en": "The long walk in the rain is very tiring.",
+                "el": "Ο μακρύς περίπατος στη βροχή είναι πολύ κουραστικός."
               }
             }
           ],
@@ -2136,6 +2305,12 @@
               "Have small change ready for the bus ticket.",
               "Buses may run less frequently in the winter.",
               "Waterproof clothing is essential for transfers."
+            ],
+            "el": [
+              "Έλεγξε το πρόγραμμα λεωφορείων για να αποφύγεις την αναμονή στη βροχή.",
+              "Έχε μικρά ρέστα έτοιμα για το εισιτήριο λεωφορείου.",
+              "Τα λεωφορεία μπορεί να κινούνται πιο αραιά το χειμώνα.",
+              "Αδιάβροχα ρούχα είναι απαραίτητα για τις μετακινήσεις."
             ]
           }
         },
@@ -2144,7 +2319,8 @@
             "de": "Die Wintertour mit öffentlichen Verkehrsmitteln führt uns effizient durch Argos. Wir starten am Hauptplatz und besuchen die kulturellen Highlights. Der Aufstieg zur Burg ist sportlich, aber die kühle Luft ist ideal für die Anstrengung. Den Rückweg planen wir passend zum frühen Sonnenuntergang ein.",
             "hu": "A téli túra tömegközlekedéssel hatékonyan vezet végig Argoszon. A főtérről indulva látogatjuk meg a kulturális helyszíneket. A várba való feljutás sportos feladat, de a hűvös levegő ideális a mozgáshoz. A visszautat a korai naplementéhez igazítjuk.",
             "ro": "Turul de iarnă cu transportul public ne poartă eficient prin Argos. Pornim din piața centrală și vizităm punctele culturale. Urcarea la castel este o activitate sportivă, iar aerul rece este ideal. Planificăm întoarcerea înainte de apus.",
-            "en": "A winter tour by public transport takes us efficiently through Argos. Starting from the main square, we visit the cultural highlights. The climb to the castle is a workout, but the cool air is ideal for the effort. We plan the return trip to coincide with the early sunset."
+            "en": "A winter tour by public transport takes us efficiently through Argos. Starting from the main square, we visit the cultural highlights. The climb to the castle is a workout, but the cool air is ideal for the effort. We plan the return trip to coincide with the early sunset.",
+            "el": "Μια χειμερινή περιήγηση με δημόσιες συγκοινωνίες μας περνά αποτελεσματικά από το Άργος. Ξεκινώντας από την κεντρική πλατεία, επισκεπτόμαστε τα πολιτιστικά αξιοθέατα. Η ανάβαση στο κάστρο είναι γυμναστική, αλλά ο δροσερός αέρας είναι ιδανικός για την προσπάθεια. Σχεδιάζουμε την επιστροφή ώστε να συμπέσει με το νωρίς ηλιοβασίλεμα."
           },
           "stops": [
             {
@@ -2153,7 +2329,8 @@
                 "de": "Zentraler Knotenpunkt für alle Busverbindungen.",
                 "hu": "Központi csomópont minden buszjárat számára.",
                 "ro": "Nod central pentru toate conexiunile de autobuz.",
-                "en": "Central hub for all bus connections."
+                "en": "Central hub for all bus connections.",
+                "el": "Κεντρικός κόμβος για όλες τις συνδέσεις λεωφορείων."
               }
             },
             {
@@ -2162,7 +2339,8 @@
                 "de": "Museumsbesuch bietet gute Aufwärmpause.",
                 "hu": "A múzeumlátogatás jó alkalom a felmelegedésre.",
                 "ro": "Vizita la muzeu oferă o bună pauză de încălzire.",
-                "en": "The museum visit provides a good warming break."
+                "en": "The museum visit provides a good warming break.",
+                "el": "Η επίσκεψη στο μουσείο προσφέρει ένα καλό ζεστό διάλειμμα."
               }
             },
             {
@@ -2171,7 +2349,8 @@
                 "de": "Die Anlage ist im Winter oft weniger besucht.",
                 "hu": "A helyszín télen gyakran kevésbé zsúfolt.",
                 "ro": "Locația este adesea mai puțin vizitată iarna.",
-                "en": "The site is often less crowded in the winter."
+                "en": "The site is often less crowded in the winter.",
+                "el": "Ο χώρος είναι συχνά λιγότερο πολυσύχναστος το χειμώνα."
               }
             },
             {
@@ -2180,7 +2359,8 @@
                 "de": "Vom Bus zur Agora ist es ein kurzer, frischer Walk.",
                 "hu": "A busztól az Agoráig rövid, frissítő séta vezet.",
                 "ro": "De la autobuz la Agora este o plimbare scurtă și revigorantă.",
-                "en": "From the bus to the Agora is a short, crisp walk."
+                "en": "From the bus to the Agora is a short, crisp walk.",
+                "el": "Από το λεωφορείο στην Αγορά είναι ένας σύντομος, δροσερός περίπατος."
               }
             },
             {
@@ -2189,7 +2369,8 @@
                 "de": "Warme Kleidung für das Warten auf den Bus.",
                 "hu": "Meleg ruházat ajánlott a buszra való várakozáshoz.",
                 "ro": "Îmbrăcăminte groasă recomandată pentru așteptarea autobuzului.",
-                "en": "Warm clothing recommended for waiting for the bus."
+                "en": "Warm clothing recommended for waiting for the bus.",
+                "el": "Συνιστώνται ζεστά ρούχα για την αναμονή του λεωφορείου."
               }
             },
             {
@@ -2198,7 +2379,8 @@
                 "de": "Planen Sie den Abstieg vor Einbruch der Dunkelheit.",
                 "hu": "Tervezze meg a lejövetelt sötétedés előtt.",
                 "ro": "Planificați coborârea înainte de lăsarea întunericului.",
-                "en": "Plan your descent before it gets dark."
+                "en": "Plan your descent before it gets dark.",
+                "el": "Σχεδίασε την κατάβασή σου πριν νυχτώσει."
               }
             }
           ],
@@ -2226,6 +2408,12 @@
               "Wear sturdy shoes for the path to the castle.",
               "It can be drafty at the bus stops in the evening.",
               "Leave the castle by 16:30 at the latest."
+            ],
+            "el": [
+              "Χρησιμοποίησε τοπικές εφαρμογές για παρακολούθηση λεωφορείων σε πραγματικό χρόνο.",
+              "Φόρα στιβαρά παπούτσια για το μονοπάτι προς το κάστρο.",
+              "Μπορεί να φυσάει στις στάσεις λεωφορείων το βράδυ.",
+              "Φύγε από το κάστρο το αργότερο στις 16:30."
             ]
           }
         }

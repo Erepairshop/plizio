@@ -21,7 +21,8 @@
             "de": "Zentralplatz",
             "hu": "Központi tér",
             "ro": "Piața Centrală",
-            "en": "Central Square"
+            "en": "Central Square",
+            "el": "Κεντρική Πλατεία"
           },
           "coords": [
             21.7944,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie Ihren Tag mit einem Kaffee in einem der traditionellen Kafeneia am Platz.",
             "hu": "Kezdje a napot egy kávéval a tér egyik hagyományos kávézójában.",
             "ro": "Începeți ziua cu o cafea la una dintre cafenelele tradiționale din piață.",
-            "en": "Start your day with a coffee at one of the traditional 'kafeneia' on the square."
+            "en": "Start your day with a coffee at one of the traditional 'kafeneia' on the square.",
+            "el": "Ξεκινήστε την ημέρα σας με έναν καφέ σε ένα από τα παραδοσιακά καφενεία της πλατείας."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Markos-Botsaris-Denkmal",
             "hu": "Markos Botsaris emlékmű",
             "ro": "Monumentul Markos Botsaris",
-            "en": "Markos Botsaris Monument"
+            "en": "Markos Botsaris Monument",
+            "el": "Μνημείο Μάρκου Μπότσαρη"
           },
           "coords": [
             21.7938,
@@ -59,7 +62,8 @@
             "de": "Eine schnelle Hommage an den Helden der griechischen Revolution.",
             "hu": "Egy gyors tisztelgés a görög forradalom hőse előtt.",
             "ro": "Un omagiu rapid adus eroului Revoluției Grecești.",
-            "en": "A quick tribute to the hero of the Greek Revolution."
+            "en": "A quick tribute to the hero of the Greek Revolution.",
+            "el": "Μια σύντομη τιμή στον ήρωα της Ελληνικής Επανάστασης."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Kathedrale der Heiligen Dreifaltigkeit",
             "hu": "Szentháromság-székesegyház",
             "ro": "Catedrala Sfânta Treime",
-            "en": "Cathedral of the Holy Trinity"
+            "en": "Cathedral of the Holy Trinity",
+            "el": "Καθεδρικός Ναός Αγίας Τριάδας"
           },
           "coords": [
             21.795,
@@ -82,7 +87,8 @@
             "de": "Achten Sie auf die beeindruckenden Wandmalereien und die ikonische byzantinische Architektur.",
             "hu": "Figyelje meg a lenyűgöző falfestményeket és az ikonikus bizánci építészetet.",
             "ro": "Fiți atenți la picturile murale impresionante și la arhitectura bizantină iconică.",
-            "en": "Pay attention to the impressive murals and the iconic Byzantine architecture."
+            "en": "Pay attention to the impressive murals and the iconic Byzantine architecture.",
+            "el": "Προσέξτε τις εντυπωσιακές νωπογραφίες και την εμβληματική βυζαντινή αρχιτεκτονική."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Volkskundemuseum von Karpenisi",
             "hu": "Karpenisi Néprajzi Múzeum",
             "ro": "Muzeul de Folclor din Karpenisi",
-            "en": "Folklore Museum of Karpenisi"
+            "en": "Folklore Museum of Karpenisi",
+            "el": "Λαογραφικό Μουσείο Καρπενησίου"
           },
           "coords": [
             21.796,
@@ -105,7 +112,8 @@
             "de": "Entdecken Sie die reiche Geschichte und die Traditionen der Region Evrytania.",
             "hu": "Fedezze fel Evritania régió gazdag történelmét és hagyományait.",
             "ro": "Descoperiți istoria bogată și tradițiile regiunii Evrytania.",
-            "en": "Discover the rich history and traditions of the Evrytania region."
+            "en": "Discover the rich history and traditions of the Evrytania region.",
+            "el": "Ανακαλύψτε την πλούσια ιστορία και τις παραδόσεις της περιοχής της Ευρυτανίας."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Saloon Park",
             "hu": "Saloon Park",
             "ro": "Parcul Saloon",
-            "en": "Saloon Park"
+            "en": "Saloon Park",
+            "el": "Πάρκο Σαλούν"
           },
           "coords": [
             21.79,
@@ -128,7 +137,8 @@
             "de": "Ein schöner Ort für einen entspannten Spaziergang und um die frische Bergluft zu genießen. Ideal für ein Picknick.",
             "hu": "Kellemes hely egy pihentető sétához és a friss hegyi levegő élvezetéhez. Ideális piknikezéshez.",
             "ro": "Un loc minunat pentru o plimbare relaxantă și pentru a vă bucura de aerul proaspăt de munte. Ideal pentru un picnic.",
-            "en": "A lovely spot for a relaxing walk and to enjoy the fresh mountain air. Ideal for a picnic."
+            "en": "A lovely spot for a relaxing walk and to enjoy the fresh mountain air. Ideal for a picnic.",
+            "el": "Μια όμορφη τοποθεσία για χαλαρό περίπατο και να απολαύσετε τον φρέσκο ορεινό αέρα. Ιδανικό για πικνίκ."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Tag im Herzen von Karpenisi auf dem Zentralplatz. Nach einer kurzen Würdigung der lokalen Helden führt Sie Ihr Weg zur prächtigen Kathedrale der Heiligen Dreifaltigkeit. Am Mittag tauchen Sie im Volkskundemuseum in die lokale Kultur ein. Am Nachmittag können Sie im Saloon Park entspannen und die ruhige Atmosphäre der Berge genießen. Der Abend ist perfekt für ein herzhaftes Essen in einer traditionellen Taverne.",
         "hu": "Kezdje a napot Karpenisi szívében, a központi téren. A helyi hősök előtti rövid tisztelgés után az út a csodálatos Szentháromság-székesegyházhoz vezet. Délben merüljön el a helyi kultúrában a Néprajzi Múzeumban. Délután pihenjen a Saloon Parkban, és élvezze a hegyek nyugodt légkörét. Az este tökéletes egy kiadós vacsorához egy hagyományos tavernában.",
         "ro": "Începeți ziua în inima orașului Karpenisi, în Piața Centrală. După un scurt omagiu adus eroilor locali, drumul vă duce la magnifica Catedrală a Sfintei Treimi. La prânz, scufundați-vă în cultura locală la Muzeul de Folclor. După-amiaza, relaxați-vă în Parcul Saloon și bucurați-vă de atmosfera liniștită a munților. Seara este perfectă pentru o masă copioasă la o tavernă tradițională.",
-        "en": "Start your day in the heart of Karpenisi at the Central Square. After a brief tribute to local heroes, your path leads to the magnificent Cathedral of the Holy Trinity. At midday, immerse yourself in the local culture at the Folklore Museum. In the afternoon, relax at Saloon Park and enjoy the tranquil mountain atmosphere. The evening is perfect for a hearty meal at a traditional tavern."
+        "en": "Start your day in the heart of Karpenisi at the Central Square. After a brief tribute to local heroes, your path leads to the magnificent Cathedral of the Holy Trinity. At midday, immerse yourself in the local culture at the Folklore Museum. In the afternoon, relax at Saloon Park and enjoy the tranquil mountain atmosphere. The evening is perfect for a hearty meal at a traditional tavern.",
+        "el": "Ξεκινήστε την ημέρα σας στην καρδιά του Καρπενησίου στην Κεντρική Πλατεία. Μετά από μια σύντομη τιμή στους τοπικούς ήρωες, ο δρόμος σας οδηγεί στον μεγαλοπρεπή Καθεδρικό της Αγίας Τριάδας. Το μεσημέρι, βυθιστείτε στην τοπική κουλτούρα στο Λαογραφικό Μουσείο. Το απόγευμα, χαλαρώστε στο Πάρκο Σαλούν και απολαύστε την ήρεμη ορεινή ατμόσφαιρα. Το βράδυ είναι ιδανικό για ένα χορταστικό γεύμα σε παραδοσιακή ταβέρνα."
       },
       "gastro_picks": {
         "de": [
@@ -332,6 +343,12 @@
           "Most shops and museums may have a midday break, so plan accordingly.",
           "Always keep a bottle of water with you, especially during summer months.",
           "Don't hesitate to ask locals for directions or recommendations; they are known for their hospitality."
+        ],
+        "el": [
+          "Φορέστε άνετα παπούτσια καθώς το κέντρο της πόλης μπορεί να είναι ανηφορικό.",
+          "Οι περισσότερες καταστήματα και μουσεία μπορεί να έχουν μεσημεριανό διάλειμμα, οπότε σχεδιάστε αναλόγως.",
+          "Να έχετε πάντοτε μαζί σας ένα μπουκάλι νερό, ειδικά τους καλοκαιρινούς μήνες.",
+          "Μη διστάσετε να ρωτήσετε τους ντόπιους για κατευθύνσεις ή προτάσεις· είναι γνωστοί για τη φιλοξενία τους."
         ]
       },
       "variants": {
@@ -340,7 +357,8 @@
             "de": "Beginnen Sie den Tag am Zentralplatz unter den schützenden Markisen der Cafés, während der Regen die kopfsteingepflasterten Gassen glänzen lässt. Das Markos-Botsaris-Denkmal wirkt im grauen Licht besonders würdevoll.\n\nMittags bietet die Kathedrale der Heiligen Dreifaltigkeit einen trockenen und spirituellen Rückzugsort, bevor Sie das Volkskundemuseum besuchen, wo Sie ausführlich in die lokale Geschichte eintauchen können, ohne nass zu werden.\n\nAm Nachmittag führt der Weg zum Saloon Park; die bewaldete Umgebung bietet natürlichen Schutz, und die Innenräume des Parks laden zum Verweilen ein.\n\nDer Abend klingt in einer der traditionellen Tavernen in der Nähe des Platzes aus, wo das Prasseln des Regens an den Fenstern für eine gemütliche Atmosphäre sorgt.",
             "hu": "Kezdje a reggelt a központi téren a kávézók védelmező árnyékolói alatt, miközben az eső csillogóvá teszi a macskaköves utcákat. A Markos Botsaris emlékmű a szürke fényben különösen méltóságteljesnek tűnik.\n\nDélben a Szentháromság-székesegyház nyújt száraz és spirituális menedéket, mielőtt a Néprajzi Múzeumba látogatna, ahol alaposan elmerülhet a helyi történelemben anélkül, hogy megázna.\n\nDélután az út a Saloon Parkba vezet; az erdős környezet természetes védelmet nyújt, a park beltéri helyiségei pedig hívogatóak a pihenésre.\n\nAz este a főtér közeli hagyományos tavernák egyikében zárul, ahol az ablakokon kopogó eső hangja mellett élvezheti a meleg helyi ételeket.",
             "ro": "Începeți ziua în Piața Centrală sub copertinele protectoare ale cafenelelor, în timp ce ploaia face ca străzile pietruite să strălucească. Monumentul Markos Botsaris pare deosebit de demn în lumina gri.\n\nLa prânz, Catedrala Sfânta Treime oferă un refugiu uscat și spiritual înainte de a vizita Muzeul de Folclor, unde puteți explora istoria locală în detaliu fără a vă uda.\n\nDupă-amiaza, drumul duce la Saloon Park; împrejurimile împădurite oferă protecție naturală, iar spațiile interioare ale parcului sunt primitoare pentru relaxare.\n\nSeara se încheie într-una dintre tavernele tradiționale de lângă piață, unde sunetul ploii lovind ferestrele creează o atmosferă caldă și primitoare.",
-            "en": "Start the morning at the Central Square under the protective awnings of the cafes, as the rain makes the cobblestone streets glisten. The Markos Botsaris Monument looks particularly dignified in the grey light.\n\nAt noon, the Cathedral of the Holy Trinity provides a dry and spiritual retreat before visiting the Folklore Museum, where you can dive deep into local history without getting wet.\n\nIn the afternoon, the route leads to Saloon Park; the wooded surroundings offer natural shelter, and the park's indoor facilities are inviting for a rest.\n\nThe evening concludes in one of the traditional taverns near the square, where the sound of rain tapping on the windows adds to the cozy atmosphere."
+            "en": "Start the morning at the Central Square under the protective awnings of the cafes, as the rain makes the cobblestone streets glisten. The Markos Botsaris Monument looks particularly dignified in the grey light.\n\nAt noon, the Cathedral of the Holy Trinity provides a dry and spiritual retreat before visiting the Folklore Museum, where you can dive deep into local history without getting wet.\n\nIn the afternoon, the route leads to Saloon Park; the wooded surroundings offer natural shelter, and the park's indoor facilities are inviting for a rest.\n\nThe evening concludes in one of the traditional taverns near the square, where the sound of rain tapping on the windows adds to the cozy atmosphere.",
+            "el": "Ξεκινήστε το πρωί στην Κεντρική Πλατεία κάτω από τα προστατευτικά τεντόπανα των καφέ, καθώς η βροχή κάνει τις λιθόστρωτες οδούς να γυαλίζουν. Το Μνημείο Μάρκου Μπότσαρη δείχνει ιδιαίτερα ευγενές στο γκρίζο φως.\n\nΤο μεσημέρι, ο Καθεδρικός της Αγίας Τριάδας προσφέρει ένα στεγνό και πνευματικό καταφύγιο πριν από την επίσκεψη στο Λαογραφικό Μουσείο, όπου μπορείτε να βυθιστείτε στην τοπική ιστορία χωρίς να βραχείτε.\n\nΤο απόγευμα, η διαδρομή οδηγεί στο Πάρκο Σαλούν· τα δασωμένα περιβάλλοντα προσφέρουν φυσική προστασία και οι εσωτερικές εγκαταστάσεις του πάρκου είναι δελεαστικές για μια ανάπαυση.\n\nΤο βράδυ ολοκληρώνεται σε μία από τις παραδοσιακές ταβέρνες κοντά στην πλατεία, όπου ο ήχος της βροχής που χτυπά στα παράθυρα προσθέτει στην ζεστή ατμόσφαιρα."
           },
           "stops": [
             {
@@ -349,7 +367,8 @@
                 "de": "Nutzen Sie die Arkaden der Cafés als Schutz vor dem Regen.",
                 "hu": "Használja a kávézók árkádjait menedékként az eső elől.",
                 "ro": "Folosiți arcadele cafenelelor ca adăpost împotriva ploii.",
-                "en": "Use the café arcades as shelter from the rain."
+                "en": "Use the café arcades as shelter from the rain.",
+                "el": "Χρησιμοποιήστε τις στοές των καφέ ως καταφύγιο από τη βροχή."
               }
             },
             {
@@ -358,7 +377,8 @@
                 "de": "Kurzer Halt für ein Foto; die Steinstatue wirkt im Regen sehr kontrastreich.",
                 "hu": "Rövid megálló egy fotóra; a kőszobor az esőben nagyon kontrasztos.",
                 "ro": "Oprire scurtă pentru o fotografie; statuia de piatră este foarte contrastantă în ploaie.",
-                "en": "Short stop for a photo; the stone statue looks high-contrast in the rain."
+                "en": "Short stop for a photo; the stone statue looks high-contrast in the rain.",
+                "el": "Μικρή στάση για φωτογράφιση· το πέτρινο άγαλμα έχει έντονη αντίθεση στη βροχή."
               }
             },
             {
@@ -367,7 +387,8 @@
                 "de": "Ideal, um die Kleidung zu trocknen und die Ikonen in Ruhe zu betrachten.",
                 "hu": "Ideális a ruhák szárítására és az ikonok nyugodt megtekintésére.",
                 "ro": "Ideal pentru a usca hainele și a privi icoanele în liniște.",
-                "en": "Ideal for drying off and viewing the icons in peace."
+                "en": "Ideal for drying off and viewing the icons in peace.",
+                "el": "Ιδανικό για να στεγνώσετε και να δείτε τα εικόνες με ηρεμία."
               }
             },
             {
@@ -376,7 +397,8 @@
                 "de": "Verlängern Sie den Aufenthalt hier, wenn der Regen draußen stärker wird.",
                 "hu": "Hosszabbítsa meg az itt tartózkodást, ha kint erősödik az eső.",
                 "ro": "Prelungiți șederea aici dacă ploaia de afară se intensifică.",
-                "en": "Extend your stay here if the rain outside intensifies."
+                "en": "Extend your stay here if the rain outside intensifies.",
+                "el": "Παρατείνετε τη διαμονή σας εδώ αν η βροχή έξω ενταθεί."
               }
             },
             {
@@ -385,7 +407,8 @@
                 "de": "Das Holzhaus bietet einen gemütlichen, trockenen Platz für einen Kaffee.",
                 "hu": "A faház hangulatos, száraz helyet kínál egy kávéhoz.",
                 "ro": "Căsuța de lemn oferă un loc primitor și uscat pentru o cafea.",
-                "en": "The wooden cabin offers a cozy, dry spot for a coffee."
+                "en": "The wooden cabin offers a cozy, dry spot for a coffee.",
+                "el": "Το ξύλινο σπιτάκι προσφέρει έναν ζεστό, στεγνό χώρο για έναν καφέ."
               }
             }
           ],
@@ -417,6 +440,13 @@
               "Use the time in the museum for detailed study of Evrytania folk costumes.",
               "In Karpenisi, it often rains heavily but briefly; cafes are ideal waiting points.",
               "Waterproof clothing is indispensable for walks in the Saloon forest park."
+            ],
+            "el": [
+              "Μια στιβαρή ομπρέλα είναι απαραίτητη στους στενούς δρόμους του Καρπενησίου.",
+              "Οι λιθόστρωτοι δρόμοι μπορούν να γίνουν πολύ ολισθηροί όταν βραχούν· φορέστε παπούτσια με καλό κράτημα.",
+              "Χρησιμοποιήστε τον χρόνο στο μουσείο για λεπτομερή μελέτη των ευρυτανικών ενδυμασιών.",
+              "Στο Καρπενήσι συχνά βρέχει δυνατά αλλά σύντομα· τα καφέ είναι ιδανικά σημεία αναμονής.",
+              "Αδιάβροχα ρούχα είναι απαραίτητα για περιπάτους στο δασικό πάρκο Σαλούν."
             ]
           }
         },
@@ -425,7 +455,8 @@
             "de": "Erleben Sie Karpenisi als Wintermärchen. Der Morgen am Zentralplatz ist frostig, oft liegt eine dünne Schneeschicht auf den Denkmälern. Der Dampf heißer Getränke aus den Cafés erfüllt die kalte Luft.\n\nMittags bietet die beheizte Kathedrale wohlige Wärme. Im Volkskundemuseum erfahren Sie, wie die Bergbewohner die harten Winter früher überstanden haben.\n\nDer Nachmittag im Saloon Park ist besonders stimmungsvoll; die verschneiten Tannen bieten eine malerische Kulisse für einen kurzen Winterspaziergang, gefolgt von einem heißen Tee im Kaminzimmer.\n\nSobald die Sonne gegen 17:00 Uhr hinter den Bergen verschwindet, ziehen Sie sich in eine warme Taverne zurück, um lokale Fleischspezialitäten und Wein zu genießen.",
             "hu": "Tapasztalja meg Karpenisit téli mesevilágként. A reggel a központi téren fagyos, az emlékműveket gyakran vékony hóréteg fedi. A kávézók felől érkező forró italok gőze megtölti a hideg levegőt.\n\nDélben a fűtött székesegyház nyújt melengető pihenőt. A Néprajzi Múzeumban megtudhatja, hogyan vészelték át a hegyi lakók régen a kemény teleket.\n\nA délután a Saloon Parkban különösen hangulatos; a havas fenyők festői hátteret nyújtanak egy rövid téli sétához, amit egy forró tea követ a kandallós szobában.\n\nAmint a nap 17:00 körül eltűnik a hegyek mögött, vonuljon be egy meleg tavernába, hogy helyi húsételeket és bort fogyasszon.",
             "ro": "Experimentați Karpenisi ca într-un basm de iarnă. Dimineața în Piața Centrală este geroasă, adesea cu un strat subțire de zăpadă pe monumente. Aburul băuturilor fierbinți din cafenele umple aerul rece.\n\nLa prânz, catedrala încălzită oferă o căldură binevenită. În Muzeul de Folclor aflați cum supraviețuiau locuitorii munților iernilor grele în trecut.\n\nDupă-amiaza în Saloon Park este deosebit de sugestivă; brăduții înzăpeziți oferă un decor pitoresc pentru o scurtă plimbare de iarnă, urmată de un ceai fierbinte lângă șemineu.\n\nImediat ce soarele dispare după munți în jurul orei 17:00, retrageți-vă într-o tavernă caldă pentru a savura specialități locale din carne și vin.",
-            "en": "Experience Karpenisi as a winter wonderland. The morning at the Central Square is frosty, often with a thin layer of snow on the monuments. The steam from hot drinks at the cafes fills the cold air.\n\nAt noon, the heated cathedral provides welcome warmth. In the Folklore Museum, you'll learn how the mountain residents survived harsh winters in the past.\n\nIn the afternoon at Saloon Park, the atmosphere is particularly charming; the snow-covered fir trees offer a picturesque backdrop for a short winter walk, followed by hot tea in the fireplace room.\n\nAs soon as the sun disappears behind the mountains around 17:00, retreat to a warm tavern to enjoy local meat specialties and wine."
+            "en": "Experience Karpenisi as a winter wonderland. The morning at the Central Square is frosty, often with a thin layer of snow on the monuments. The steam from hot drinks at the cafes fills the cold air.\n\nAt noon, the heated cathedral provides welcome warmth. In the Folklore Museum, you'll learn how the mountain residents survived harsh winters in the past.\n\nIn the afternoon at Saloon Park, the atmosphere is particularly charming; the snow-covered fir trees offer a picturesque backdrop for a short winter walk, followed by hot tea in the fireplace room.\n\nAs soon as the sun disappears behind the mountains around 17:00, retreat to a warm tavern to enjoy local meat specialties and wine.",
+            "el": "Ζήστε το Καρπενήσι σαν χειμερινό παραμύθι. Το πρωί στην Κεντρική Πλατεία είναι παγωμένο, συχνά με ένα λεπτό στρώμα χιονιού πάνω στα μνημεία. Ο ατμός από τα ζεστά ροφήματα στα καφέ γεμίζει τον κρύο αέρα.\n\nΤο μεσημέρι, ο θερμαινόμενος καθεδρικός προσφέρει ευπρόσδεκτη ζεστασιά. Στο Λαογραφικό Μουσείο θα μάθετε πώς οι ορεινοί κάτοικοι επιβίωναν σε σκληρούς χειμώνες στο παρελθόν.\n\nΤο απόγευμα στο Πάρκο Σαλούν η ατμόσφαιρα είναι ιδιαίτερα γοητευτική· τα χιονισμένα έλατα προσφέρουν ένα γραφικό φόντο για έναν σύντομο χειμερινό περίπατο, ακολουθούμενο από ζεστό τσάι στην αίθουσα με το τζάκι.\n\nΜόλις ο ήλιος κρυφτεί πίσω από τα βουνά γύρω στις 17:00, αποσυρθείτε σε μια ζεστή ταβέρνα για να απολαύσετε τοπικές κρεατονοστιμιές και κρασί."
           },
           "stops": [
             {
@@ -434,7 +465,8 @@
                 "de": "Genießen Sie einen 'Ellinikos' Kaffee am Kamin eines Cafés.",
                 "hu": "Élvezzen egy 'Ellinikos' kávét egy kávézó kandallója mellett.",
                 "ro": "Savurați o cafea 'Ellinikos' lângă șemineul unei cafenele.",
-                "en": "Enjoy an 'Ellinikos' coffee by the fireplace of a cafe."
+                "en": "Enjoy an 'Ellinikos' coffee by the fireplace of a cafe.",
+                "el": "Απολαύστε έναν ελληνικό καφέ δίπλα στο τζάκι ενός καφέ."
               }
             },
             {
@@ -443,7 +475,8 @@
                 "de": "Vorsicht vor Vereisungen auf den Treppen rund um das Denkmal.",
                 "hu": "Vigyázat az eljegesedésekkel az emlékmű körüli lépcsőkön.",
                 "ro": "Atenție la gheața de pe scările din jurul monumentului.",
-                "en": "Watch out for ice on the steps around the monument."
+                "en": "Watch out for ice on the steps around the monument.",
+                "el": "Προσέξτε το πάγο στα σκαλοπάτια γύρω από το μνημείο."
               }
             },
             {
@@ -452,7 +485,8 @@
                 "de": "Die dicken Mauern halten die Kälte ab; ein Ort der Stille und Wärme.",
                 "hu": "A vastag falak kint tartják a hideget; a nyugalom és meleg helye.",
                 "ro": "Zidurile groase țin frigul la distanță; un loc de liniște și căldură.",
-                "en": "The thick walls keep the cold out; a place of silence and warmth."
+                "en": "The thick walls keep the cold out; a place of silence and warmth.",
+                "el": "Οι παχιοί τοίχοι κρατούν το κρύο έξω· ένας τόπος σιγής και ζεστασιάς."
               }
             },
             {
@@ -461,7 +495,8 @@
                 "de": "Die Ausstellungen über traditionelle Webkunst sind im Winter besonders passend.",
                 "hu": "A hagyományos szövőművészetről szóló kiállítások télen különösen találóak.",
                 "ro": "Expozițiile despre arta țesutului tradițional sunt foarte potrivite iarna.",
-                "en": "Exhibitions on traditional weaving are especially fitting in winter."
+                "en": "Exhibitions on traditional weaving are especially fitting in winter.",
+                "el": "Οι εκθέσεις για την παραδοσιακή υφαντική ταιριάζουν ιδιαίτερα το χειμώνα."
               }
             },
             {
@@ -470,7 +505,8 @@
                 "de": "Pferdereiten im Schnee ist hier ein unvergessliches Wintererlebnis.",
                 "hu": "A havas lovaglás itt felejthetetlen téli élmény.",
                 "ro": "Călăria prin zăpadă este o experiență de iarnă de neuitat aici.",
-                "en": "Horseback riding in the snow is an unforgettable winter experience here."
+                "en": "Horseback riding in the snow is an unforgettable winter experience here.",
+                "el": "Ιππασία στο χιόνι είναι μια αξέχαστη χειμερινή εμπειρία εδώ."
               }
             }
           ],
@@ -502,6 +538,13 @@
               "Try 'Tsipouro' or mulled wine for warming up in the taverns.",
               "Sturdy winter boots with tread are necessary due to possible snow and ice.",
               "The air at this altitude is dry and cold; don't forget lip balm."
+            ],
+            "el": [
+              "Φορέστε θερμικά εσώρουχα· οι θερμοκρασίες συχνά πέφτουν κάτω από το μηδέν.",
+              "Ο ήλιος δύει νωρίς· προγραμματίστε τις υπαίθριες δραστηριότητες πριν τις 16:30.",
+              "Δοκιμάστε τσίπουρο ή ζεστό κρασί για να ζεσταθείτε στις ταβέρνες.",
+              "Απαιτούνται στιβαρά χειμερινά μποτάκια με πέλμα λόγω πιθανής χιονόπτωσης και πάγου.",
+              "Ο αέρας σε αυτό το υψόμετρο είναι ξηρός και κρύος· μην ξεχάσετε βαζάκι για τα χείλη."
             ]
           }
         }
@@ -520,7 +563,8 @@
             "de": "Zentralplatz",
             "hu": "Központi tér",
             "ro": "Piața Centrală",
-            "en": "Central Square"
+            "en": "Central Square",
+            "el": "Κεντρική Πλατεία"
           },
           "coords": [
             21.7944,
@@ -535,7 +579,8 @@
             "de": "Perfekter Ausgangspunkt, um sich zu orientieren und die Atmosphäre der Stadt aufzusaugen.",
             "hu": "Tökéletes kiindulópont a tájékozódáshoz és a város hangulatának magába szívásához.",
             "ro": "Punctul de plecare perfect pentru a vă orienta și a absorbi atmosfera orașului.",
-            "en": "Perfect starting point to get your bearings and soak up the town's atmosphere."
+            "en": "Perfect starting point to get your bearings and soak up the town's atmosphere.",
+            "el": "Τέλειο σημείο εκκίνησης για να προσανατολιστείτε και να απορροφήσετε την ατμόσφαιρα της πόλης."
           }
         },
         {
@@ -543,7 +588,8 @@
             "de": "Volkskundemuseum von Karpenisi",
             "hu": "Karpenisi Néprajzi Múzeum",
             "ro": "Muzeul de Folclor din Karpenisi",
-            "en": "Folklore Museum of Karpenisi"
+            "en": "Folklore Museum of Karpenisi",
+            "el": "Λαογραφικό Μουσείο Καρπενησίου"
           },
           "coords": [
             21.796,
@@ -558,7 +604,8 @@
             "de": "Stellen Sie Ihr Fahrrad in der Nähe ab und tauchen Sie in die faszinierende Vergangenheit der Region ein.",
             "hu": "Parkolja le a kerékpárját a közelben, és merüljön el a régió lenyűgöző múltjában.",
             "ro": "Parcați bicicleta în apropiere și pătrundeți în trecutul fascinant al regiunii.",
-            "en": "Park your bike nearby and dive into the fascinating past of the region."
+            "en": "Park your bike nearby and dive into the fascinating past of the region.",
+            "el": "Σταθμεύστε το ποδήλατό σας κοντά και βυθιστείτε στο συναρπαστικό παρελθόν της περιοχής."
           }
         },
         {
@@ -566,7 +613,8 @@
             "de": "Kathedrale der Heiligen Dreifaltigkeit",
             "hu": "Szentháromság-székesegyház",
             "ro": "Catedrala Sfânta Treime",
-            "en": "Cathedral of the Holy Trinity"
+            "en": "Cathedral of the Holy Trinity",
+            "el": "Καθεδρικός Ναός Αγίας Τριάδας"
           },
           "coords": [
             21.795,
@@ -581,7 +629,8 @@
             "de": "Ein kurzer Halt, um die spirituelle Hauptkirche der Stadt zu bewundern.",
             "hu": "Egy rövid megálló a város spirituális központjának megcsodálására.",
             "ro": "O oprire scurtă pentru a admira biserica spirituală principală a orașului.",
-            "en": "A short stop to admire the town's main spiritual landmark."
+            "en": "A short stop to admire the town's main spiritual landmark.",
+            "el": "Σύντομη στάση για να θαυμάσετε το κύριο πνευματικό μνημείο της πόλης."
           }
         },
         {
@@ -589,7 +638,8 @@
             "de": "Saloon Park",
             "hu": "Saloon Park",
             "ro": "Parcul Saloon",
-            "en": "Saloon Park"
+            "en": "Saloon Park",
+            "el": "Πάρκο Σαλούν"
           },
           "coords": [
             21.79,
@@ -604,7 +654,8 @@
             "de": "Fahren Sie zum Park für eine entspannte Mittagspause im Grünen.",
             "hu": "Tekerjen el a parkba egy pihentető ebédszünetre a zöldben.",
             "ro": "Mergeți cu bicicleta până la parc pentru o pauză de prânz relaxantă în mijlocul naturii.",
-            "en": "Cycle to the park for a relaxing lunch break amidst the greenery."
+            "en": "Cycle to the park for a relaxing lunch break amidst the greenery.",
+            "el": "Κάντε ποδήλατο μέχρι το πάρκο για ένα χαλαρωτικό διάλειμμα για μεσημεριανό ανάμεσα στο πράσινο."
           }
         },
         {
@@ -612,7 +663,8 @@
             "de": "Aussichtspunkt in Richtung Koryschades",
             "hu": "Kilátópont Koryschades irányában",
             "ro": "Punct de belvedere spre Koryschades",
-            "en": "Viewpoint towards Koryschades"
+            "en": "Viewpoint towards Koryschades",
+            "el": "Σημείο θέας προς τα Κορισχάδες"
           },
           "coords": [
             21.775,
@@ -627,7 +679,8 @@
             "de": "Eine kurze Radtour aus der Stadt hinaus für einen atemberaubenden Blick auf die umliegende Landschaft.",
             "hu": "Egy rövid biciklitúra a városból, ahonnan lenyűgöző kilátás nyílik a környező tájra.",
             "ro": "O scurtă plimbare cu bicicleta în afara orașului pentru o priveliște uluitoare a peisajului înconjurător.",
-            "en": "A short bike ride out of town for a breathtaking view of the surrounding landscape."
+            "en": "A short bike ride out of town for a breathtaking view of the surrounding landscape.",
+            "el": "Μια σύντομη βόλτα με το ποδήλατο εκτός πόλης για εκπληκτική θέα του περιβάλλοντος τοπίου."
           }
         }
       ],
@@ -635,7 +688,8 @@
         "de": "Schnappen Sie sich Ihr Fahrrad für eine aktive Erkundung von Karpenisi. Vom zentralen Platz aus radeln Sie zum Volkskundemuseum, um einen Einblick in die Geschichte zu bekommen. Danach besuchen Sie die Kathedrale, bevor Sie im Saloon Park eine Pause einlegen. Am Nachmittag führt Sie eine belebende Fahrt zu einem Aussichtspunkt mit Blick auf das Tal und das Dorf Koryschades. Schließen Sie den Tag mit einem wohlverdienten Abendessen ab und genießen Sie lokale Spezialitäten.",
         "hu": "Pattanjon biciklire Karpenisi aktív felfedezéséhez. A központi térről tekerjen el a Néprajzi Múzeumhoz, hogy bepillantást nyerjen a történelembe. Ezután látogasson el a székesegyházba, mielőtt szünetet tart a Saloon Parkban. Délután egy élénkítő kerékpártúra vezet egy kilátóponthoz, ahonnan a völgyre és Koryschades falura nyílik kilátás. Zárja a napot egy jól megérdemelt vacsorával, helyi specialitásokat kóstolva.",
         "ro": "Luați bicicleta pentru o explorare activă a Karpenisi. Din piața centrală, pedalați spre Muzeul de Folclor pentru o incursiune în istorie. După aceea, vizitați catedrala înainte de a lua o pauză în Parcul Saloon. După-amiaza, o plimbare revigorantă vă duce la un punct de belvedere cu vedere la vale și la satul Koryschades. Încheiați ziua cu o cină binemeritată, savurând specialități locale.",
-        "en": "Grab your bike for an active exploration of Karpenisi. From the central square, cycle to the Folklore Museum for a dose of history. Afterwards, visit the cathedral before taking a break at Saloon Park. In the afternoon, an invigorating ride takes you to a viewpoint overlooking the valley towards Koryschades village. End your day with a well-deserved dinner, enjoying local delicacies."
+        "en": "Grab your bike for an active exploration of Karpenisi. From the central square, cycle to the Folklore Museum for a dose of history. Afterwards, visit the cathedral before taking a break at Saloon Park. In the afternoon, an invigorating ride takes you to a viewpoint overlooking the valley towards Koryschades village. End your day with a well-deserved dinner, enjoying local delicacies.",
+        "el": "Πιάστε το ποδήλατό σας για μια ενεργητική εξερεύνηση του Καρπενησίου. Από την κεντρική πλατεία, ποδηλατήστε προς το Λαογραφικό Μουσείο για μια δόση ιστορίας. Έπειτα επισκεφθείτε τον καθεδρικό πριν κάνετε ένα διάλειμμα στο Πάρκο Σαλούν. Το απόγευμα, μια αναζωογονητική διαδρομή θα σας φέρει σε ένα σημείο θέας με θέα την κοιλάδα προς το χωριό Κορισχάδες. Ολοκληρώστε την ημέρα με ένα καλά κερδισμένο δείπνο, απολαμβάνοντας τοπικές νοστιμιές."
       },
       "gastro_picks": {
         "de": [
@@ -831,6 +885,12 @@
           "A helmet is highly recommended.",
           "Roads can be narrow; be cautious with traffic.",
           "Take snacks and water with you, especially for the ride out of town."
+        ],
+        "el": [
+          "Ελέγξτε το ποδήλατό σας πριν ξεκινήσετε, ειδικά τα φρένα, καθώς το έδαφος είναι ορεινό.",
+          "Συστήνεται έντονα κράνος.",
+          "Οι δρόμοι μπορεί να είναι στενοί· προσέχετε την κυκλοφορία.",
+          "Πάρτε σνακ και νερό μαζί σας, ειδικά για τη διαδρομή εκτός πόλης."
         ]
       },
       "variants": {
@@ -839,7 +899,8 @@
             "de": "Eine Radtour im Regen erfordert Vorsicht auf den steilen Straßen von Karpenisi. Der Vormittag am Zentralplatz dient der Vorbereitung mit wasserdichter Ausrüstung.\n\nDas Volkskundemuseum am Mittag bietet eine willkommene Pause vom Pedalieren im Regen. Die Route zur Kathedrale führt über nasse Asphaltwege, die erhöhte Aufmerksamkeit erfordern.\n\nNachmittags geht es zum Saloon Park; die Waldwege können schlammig sein, was das Mountainbiken abenteuerlich macht. Unter den Vordächern des Parks findet man Schutz.\n\nDer Tag endet mit der Abfahrt zum Aussichtspunkt Koryschades, wo die Wolken tief in den Tälern hängen und eine mystische Stimmung erzeugen.",
             "hu": "Egy kerékpártúra esőben óvatosságot igényel Karpenisi meredek utcáin. A reggel a központi téren a vízálló felszerelés előkészítésével telik.\n\nA Néprajzi Múzeum délben szívesen látott szünetet nyújt az esőben való tekerés után. A székesegyházhoz vezető út nedves aszfalton halad, ami fokozott figyelmet igényel.\n\nDélután a Saloon Park felé vesszük az irányt; az erdei utak sárosak lehetnek, ami kalandossá teszi a hegyi kerékpározást. A park előtetői alatt védelmet találunk.\n\nA nap a Koryschades felé vezető kilátópontnál ér véget, ahol a felhők mélyen ülnek a völgyekben, misztikus hangulatot árasztva.",
             "ro": "O tură cu bicicleta pe ploaie necesită prudență pe străzile abrupte din Karpenisi. Dimineața în Piața Centrală servește pregătirii cu echipament impermeabil.\n\nMuzeul de Folclor la prânz oferă o pauză binevenită de la pedalatul prin ploaie. Traseul spre catedrală trece pe drumuri asfaltate ude, care necesită atenție sporită.\n\nDupă-amiaza se merge spre Saloon Park; potecile forestiere pot fi noroioase, ceea ce face mountain biking-ul aventuros. Sub streșinile parcului se găsește adăpost.\n\nZiua se încheie cu coborârea spre punctul de belvedere Koryschades, unde norii atârnă jos în văi, creând o atmosferă mistică.",
-            "en": "A bike tour in the rain requires caution on the steep streets of Karpenisi. The morning at the Central Square is for preparing with waterproof gear.\n\nThe Folklore Museum at noon offers a welcome break from pedaling in the rain. The route to the cathedral follows wet asphalt roads that require increased attention.\n\nIn the afternoon, head to Saloon Park; the forest trails can be muddy, making mountain biking adventurous. Under the park's overhangs, you'll find shelter.\n\nThe day ends with the ride to the Koryschades viewpoint, where clouds hang low in the valleys, creating a mystical atmosphere."
+            "en": "A bike tour in the rain requires caution on the steep streets of Karpenisi. The morning at the Central Square is for preparing with waterproof gear.\n\nThe Folklore Museum at noon offers a welcome break from pedaling in the rain. The route to the cathedral follows wet asphalt roads that require increased attention.\n\nIn the afternoon, head to Saloon Park; the forest trails can be muddy, making mountain biking adventurous. Under the park's overhangs, you'll find shelter.\n\nThe day ends with the ride to the Koryschades viewpoint, where clouds hang low in the valleys, creating a mystical atmosphere.",
+            "el": "Μια ποδηλατική βόλτα στη βροχή απαιτεί προσοχή στους απότομους δρόμους του Καρπενησίου. Το πρωί στην Κεντρική Πλατεία είναι για προετοιμασία με αδιάβροχο εξοπλισμό.\n\nΤο Λαογραφικό Μουσείο το μεσημέρι προσφέρει ένα ευπρόσδεκτο διάλειμμα από την πεντάλ της βροχής. Η διαδρομή προς τον καθεδρικό ακολουθεί βρεγμένους ασφάλτινους δρόμους που χρειάζονται αυξημένη προσοχή.\n\nΤο απόγευμα, κατευθυνθείτε στο Πάρκο Σαλούν· τα δασικά μονοπάτια μπορεί να γίνουν λασπώδη, κάνοντας το mountain biking περιπετειώδες. Υπό τις επενδύσεις του πάρκου θα βρείτε καταφύγιο.\n\nΗ μέρα τελειώνει με την πορεία προς το σημείο θέας των Κορισχάδων, όπου τα σύννεφα κρέμονται χαμηλά στις κοιλάδες, δημιουργώντας μια μυστηριακή ατμόσφαιρα."
           },
           "stops": [
             {
@@ -848,7 +909,8 @@
                 "de": "Prüfen Sie Ihre Bremsen gründlich, bevor Sie auf nasse Straßen fahren.",
                 "hu": "Alaposan ellenőrizze a fékeket, mielőtt nedves utakra hajtana.",
                 "ro": "Verificați frânele temeinic înainte de a porni pe drumuri ude.",
-                "en": "Check your brakes thoroughly before heading onto wet roads."
+                "en": "Check your brakes thoroughly before heading onto wet roads.",
+                "el": "Ελέγξτε σχολαστικά τα φρένα σας πριν βγείτε σε βρεγμένους δρόμους."
               }
             },
             {
@@ -857,7 +919,8 @@
                 "de": "Sicherer Abstellplatz für Fahrräder im Eingangsbereich vorhanden.",
                 "hu": "Biztonságos kerékpártároló található a bejáratnál.",
                 "ro": "Loc sigur de parcare pentru biciclete disponibil la intrare.",
-                "en": "Safe bike parking available near the entrance."
+                "en": "Safe bike parking available near the entrance.",
+                "el": "Διαθέσιμη ασφαλής στάθμευση ποδηλάτων κοντά στην είσοδο."
               }
             },
             {
@@ -866,7 +929,8 @@
                 "de": "Kurze Rast im Trockenen, um die Route auf der Karte zu prüfen.",
                 "hu": "Rövid pihenő a szárazon, az útvonal ellenőrzéséhez a térképen.",
                 "ro": "Scurt popas la adăpost pentru a verifica traseul pe hartă.",
-                "en": "Short rest in the dry to check the route on the map."
+                "en": "Short rest in the dry to check the route on the map.",
+                "el": "Σύντομη ανάπαυλα σε στεγνό για έλεγχο της διαδρομής στο χάρτη."
               }
             },
             {
@@ -875,7 +939,8 @@
                 "de": "Die Waldwege sind rutschig; reduzieren Sie den Reifendruck leicht.",
                 "hu": "Az erdei utak csúszósak; csökkentse kissé a guminyomást.",
                 "ro": "Potecile forestiere sunt alunecoase; reduceți ușor presiunea în pneuri.",
-                "en": "The forest trails are slippery; reduce tire pressure slightly."
+                "en": "The forest trails are slippery; reduce tire pressure slightly.",
+                "el": "Τα δασικά μονοπάτια είναι ολισθηρά· μειώστε ελαφρώς την πίεση στα λάστιχα."
               }
             },
             {
@@ -884,7 +949,8 @@
                 "de": "Tragen Sie eine helle Warnweste, da die Sicht durch Nebel eingeschränkt sein kann.",
                 "hu": "Viseljen fényvisszaverő mellényt, mivel a köd miatt korlátozott lehet a látótávolság.",
                 "ro": "Purtați o vestă reflectorizantă, deoarece vizibilitatea poate fi redusă de ceață.",
-                "en": "Wear a high-visibility vest as visibility may be limited by fog."
+                "en": "Wear a high-visibility vest as visibility may be limited by fog.",
+                "el": "Φορέστε γιλέκο υψηλής ορατότητας καθώς η ορατότητα μπορεί να περιορίζεται από την ομίχλη."
               }
             }
           ],
@@ -916,6 +982,13 @@
               "Waterproof panniers protect your change of clothes and camera.",
               "Descents can become very cold due to wind chill in the rain.",
               "Watch out for potholes that might be disguised by puddles."
+            ],
+            "el": [
+              "Φτερά λάσπης στο ποδήλατο εμποδίζουν τη λάσπη να καταστρέψει τα ρούχα σας.",
+              "Αποφύγετε απότομους ελιγμούς φρεναρίσματος πάνω σε βρεγμένο λιθόστρωτο.",
+              "Αδιάβροχες σακούλες ποδηλάτου προστατεύουν τα ρούχα αλλαγής και την κάμερά σας.",
+              "Οι κατηφόρες μπορεί να γίνουν πολύ ψυχρές λόγω της αίσθησης του ανέμου στη βροχή.",
+              "Προσέξτε για λακκούβες που μπορεί να κρύβονται πίσω από λακκούβες νερού."
             ]
           }
         },
@@ -924,7 +997,8 @@
             "de": "Radfahren in Karpenisi im Winter ist eine Herausforderung für Hartgesottene. Der Morgen beginnt am frostigen Zentralplatz; die kühle Luft belebt die Sinne beim ersten Anstieg.\n\nMittags bietet das Volkskundemuseum eine wichtige Aufwärmpause. Die Straßen zur Kathedrale sind oft geräumt, aber Vorsicht vor Glatteis in schattigen Kurven.\n\nDer Nachmittag im Saloon Park führt durch eine stille, weiße Landschaft. Die dicken Reifen greifen gut im festen Schnee. Ein heißes Getränk im Parkzentrum ist die verdiente Belohnung.\n\nZum Abschluss bietet der Aussichtspunkt Koryschades einen Blick auf die schneebedeckten Gipfel der Evrytania, bevor es vor Einbruch der Dunkelheit zurück in die Stadt geht.",
             "hu": "A téli kerékpározás Karpenisiben a kitartóaknak való kihívás. A reggel a fagyos központi téren kezdődik; a hűvös levegő élénkíti az érzékeket az első emelkedőnél.\n\nDélben a Néprajzi Múzeum fontos melegedő szünetet kínál. A székesegyházhoz vezető utak gyakran takarítottak, de vigyázat a jegesedéssel az árnyékos kanyarokban.\n\nA délután a Saloon Parkban csendes, fehér tájon át vezet. A vastag gumik jól tapadnak a tömör hóban. Egy forró ital a park központjában a megérdemelt jutalom.\n\nBefejezésül a Koryschades kilátópontról rálátni Evritánia hófödte csúcsaira, mielőtt a sötétedés beállta előtt visszatérne a városba.",
             "ro": "Ciclismul în Karpenisi iarna este o provocare pentru cei rezistenți. Dimineața începe în Piața Centrală înghețată; aerul rece revigorează simțurile la prima urcare.\n\nLa prânz, Muzeul de Folclor oferă o pauză importantă de încălzire. Drumurile spre catedrală sunt adesea curățate, dar atenție la polei în curbele umbrite.\n\nDupă-amiaza în Saloon Park trece printr-un peisaj alb și liniștit. Anvelopele late aderă bine pe zăpada tasată. O băutură fierbinte în centrul parcului este recompensa meritată.\n\nLa final, punctul de belvedere Koryschades oferă o privire asupra vârfurilor înzăpezite din Evrytania, înainte de a reveni în oraș înainte de lăsarea întunericului.",
-            "en": "Cycling in Karpenisi in winter is a challenge for the hardy. The morning begins at the frosty Central Square; the cool air invigorates the senses on the first climb.\n\nAt noon, the Folklore Museum offers an important warming break. The roads to the cathedral are often cleared, but watch out for black ice in shaded curves.\n\nIn the afternoon at Saloon Park, the ride leads through a quiet, white landscape. Wide tires grip well in packed snow. A hot drink at the park center is the earned reward.\n\nFinally, the Koryschades viewpoint offers a view of the snow-capped peaks of Evrytania before returning to the city before nightfall."
+            "en": "Cycling in Karpenisi in winter is a challenge for the hardy. The morning begins at the frosty Central Square; the cool air invigorates the senses on the first climb.\n\nAt noon, the Folklore Museum offers an important warming break. The roads to the cathedral are often cleared, but watch out for black ice in shaded curves.\n\nIn the afternoon at Saloon Park, the ride leads through a quiet, white landscape. Wide tires grip well in packed snow. A hot drink at the park center is the earned reward.\n\nFinally, the Koryschades viewpoint offers a view of the snow-capped peaks of Evrytania before returning to the city before nightfall.",
+            "el": "Το ποδήλατο στο Καρπενήσι τον χειμώνα είναι πρόκληση για τους ανθεκτικούς. Το πρωί ξεκινά στην παγωμένη Κεντρική Πλατεία· ο δροσερός αέρας ζωντανεύει τις αισθήσεις στην πρώτη ανάβαση.\n\nΤο μεσημέρι, το Λαογραφικό Μουσείο προσφέρει σημαντικό ζεστασιακό διάλειμμα. Οι δρόμοι προς τον καθεδρικό συχνά καθαρίζονται, αλλά προσέξτε το μαύρο πάγο στις σκιερές στροφές.\n\nΤο απόγευμα στο Πάρκο Σαλούν, η διαδρομή οδηγεί μέσα από ένα ήσυχο, λευκό τοπίο. Τα φαρδιά λάστιχα κρατούν καλά σε συμπιεσμένο χιόνι. Ένα ζεστό ρόφημα στο κέντρο του πάρκου είναι η κερδισμένη ανταμοιβή.\n\nΤελικά, το σημείο θέας των Κορισχάδων προσφέρει θέα στα χιονισμένα κορυφογραφικά της Ευρυτανίας πριν την επιστροφή στην πόλη πριν τη νύχτα."
           },
           "stops": [
             {
@@ -933,7 +1007,8 @@
                 "de": "Starten Sie langsam, um die Muskulatur bei der Kälte aufzuwärmen.",
                 "hu": "Kezdje lassan, hogy az izomzat a hidegben bemelegedjen.",
                 "ro": "Începeți încet pentru a încălzi musculatura pe frig.",
-                "en": "Start slowly to warm up your muscles in the cold."
+                "en": "Start slowly to warm up your muscles in the cold.",
+                "el": "Ξεκινήστε αργά για να ζεστάνετε τους μύες σας στο κρύο."
               }
             },
             {
@@ -942,7 +1017,8 @@
                 "de": "Nutzen Sie die Garderobe, um schwere Winterjacken während des Besuchs abzulegen.",
                 "hu": "Használja a ruhatárat, hogy a látogatás alatt letegye a nehéz télikabátot.",
                 "ro": "Folosiți garderoba pentru a lăsa jachetele grele de iarnă în timpul vizitei.",
-                "en": "Use the cloakroom to drop off heavy winter jackets during the visit."
+                "en": "Use the cloakroom to drop off heavy winter jackets during the visit.",
+                "el": "Χρησιμοποιήστε το χώρο φύλαξης για να αφήσετε βαριά χειμερινά μπουφάν κατά την επίσκεψη."
               }
             },
             {
@@ -951,7 +1027,8 @@
                 "de": "Stellen Sie das Rad so ab, dass es den Schneeräumdienst nicht behindert.",
                 "hu": "Úgy állítsa le a kerékpárt, hogy ne akadályozza a hóeltakarítást.",
                 "ro": "Parcați bicicleta astfel încât să nu incomodeze deszăpezirea.",
-                "en": "Park the bike so it doesn't obstruct snow removal services."
+                "en": "Park the bike so it doesn't obstruct snow removal services.",
+                "el": "Σταθμεύστε το ποδήλατο ώστε να μην εμποδίζει τις υπηρεσίες καθαρισμού του χιονιού."
               }
             },
             {
@@ -960,7 +1037,8 @@
                 "de": "Fatbikes sind hier im Winter die beste Wahl für den Schnee.",
                 "hu": "A Fatbike-ok télen a legjobb választás itt a hóban.",
                 "ro": "Bicicletele de tip 'fatbike' sunt cea mai bună alegere aici iarna pe zăpadă.",
-                "en": "Fatbikes are the best choice here for the snow in winter."
+                "en": "Fatbikes are the best choice here for the snow in winter.",
+                "el": "Τα fatbikes είναι η καλύτερη επιλογή εδώ για το χιόνι τον χειμώνα."
               }
             },
             {
@@ -969,7 +1047,8 @@
                 "de": "Kurzer Stopp für das Panorama; langes Stehenbleiben kühlt den Körper schnell aus.",
                 "hu": "Rövid megálló a panorámáért; a hosszú állás gyorsan lehűti a testet.",
                 "ro": "Oprire scurtă pentru panoramă; staționarea lungă răcește rapid corpul.",
-                "en": "Short stop for the panorama; standing still for too long cools the body quickly."
+                "en": "Short stop for the panorama; standing still for too long cools the body quickly.",
+                "el": "Σύντομη στάση για το πανόραμα· η ακινησία για πολύ καιρό κρυώνει γρήγορα το σώμα."
               }
             }
           ],
@@ -1001,6 +1080,13 @@
               "Batteries for e-bikes and lights drain significantly faster in the cold.",
               "Wear windproof gloves and a hat under your helmet.",
               "Road salt can damage the bike; clean it after the tour."
+            ],
+            "el": [
+              "Το ντύσιμο σε στρώσεις (η αρχή του κρεμμυδιού) είναι ζωτικής σημασίας για την επιβίωση.",
+              "Αποφύγετε την ποδηλασία κατά τη διάρκεια ενεργής χιονόπτωσης λόγω κακής ορατότητας.",
+              "Οι μπαταρίες για e-bikes και φώτα αποφορτίζονται σημαντικά πιο γρήγορα στο κρύο.",
+              "Φορέστε αδιάβροχα γάντια αντιανεμικά και σκουφί κάτω από το κράνος.",
+              "Το αλάτι δρόμου μπορεί να καταστρέψει το ποδήλατο· καθαρίστε το μετά την βόλτα."
             ]
           }
         }
@@ -1019,7 +1105,8 @@
             "de": "Zentralplatz Karpenisi",
             "hu": "Karpenisi központi tere",
             "ro": "Piața Centrală Karpenisi",
-            "en": "Karpenisi Central Square"
+            "en": "Karpenisi Central Square",
+            "el": "Κεντρική Πλατεία Καρπενησίου"
           },
           "coords": [
             21.7944,
@@ -1035,7 +1122,8 @@
             "de": "Parken Sie Ihr Auto in der Nähe und beginnen Sie Ihre Erkundung des Stadtzentrums zu Fuß.",
             "hu": "Parkolja le az autóját a közelben, és kezdje meg a városközpont gyalogos felfedezését.",
             "ro": "Parcați mașina în apropiere și începeți explorarea centrului orașului pe jos.",
-            "en": "Park your car nearby and start your exploration of the town center on foot."
+            "en": "Park your car nearby and start your exploration of the town center on foot.",
+            "el": "Σταθμεύστε το αυτοκίνητό σας κοντά και ξεκινήστε την εξερεύνηση του κέντρου πόδας."
           }
         },
         {
@@ -1043,7 +1131,8 @@
             "de": "Volkskundemuseum von Karpenisi",
             "hu": "Karpenisi Néprajzi Múzeum",
             "ro": "Muzeul de Folclor din Karpenisi",
-            "en": "Folklore Museum of Karpenisi"
+            "en": "Folklore Museum of Karpenisi",
+            "el": "Λαογραφικό Μουσείο Καρπενησίου"
           },
           "coords": [
             21.796,
@@ -1059,7 +1148,8 @@
             "de": "Ein kurzer Spaziergang vom Platz, um mehr über die lokale Kultur zu erfahren.",
             "hu": "Egy rövid séta a tértől, hogy többet tudjon meg a helyi kultúráról.",
             "ro": "O scurtă plimbare din piață pentru a învăța despre cultura locală.",
-            "en": "A short walk from the square to learn about the local culture."
+            "en": "A short walk from the square to learn about the local culture.",
+            "el": "Λίγο περπάτημα από την πλατεία για να μάθετε για την τοπική κουλτούρα."
           }
         },
         {
@@ -1067,7 +1157,8 @@
             "de": "Dorf Koryschades",
             "hu": "Koryschades falu",
             "ro": "Satul Koryschades",
-            "en": "Koryschades Village"
+            "en": "Koryschades Village",
+            "el": "Χωριό Κορισχάδες"
           },
           "coords": [
             21.76,
@@ -1083,7 +1174,8 @@
             "de": "Fahren Sie zu diesem historischen Dorf, das heute ein Freilichtmuseum ist.",
             "hu": "Vezessen el ebbe a történelmi faluba, amely ma szabadtéri múzeumként működik.",
             "ro": "Conduceți până la acest sat istoric, care este acum un muzeu în aer liber.",
-            "en": "Drive to this historic village, which is now an open-air museum."
+            "en": "Drive to this historic village, which is now an open-air museum.",
+            "el": "Οδηγήστε σε αυτό το ιστορικό χωριό, που σήμερα λειτουργεί ως υπαίθριο μουσείο."
           }
         },
         {
@@ -1091,7 +1183,8 @@
             "de": "Kloster Prousos",
             "hu": "Prousos kolostor",
             "ro": "Mănăstirea Prousos",
-            "en": "Prousos Monastery"
+            "en": "Prousos Monastery",
+            "el": "Μονή Προυσού"
           },
           "coords": [
             21.65,
@@ -1107,7 +1200,8 @@
             "de": "Eine malerische Fahrt zu einem der wichtigsten Klöster Griechenlands. Nehmen Sie sich Zeit für die Erkundung und das Mittagessen in der Nähe.",
             "hu": "Festői út Görögország egyik legfontosabb kolostorához. Szánjon időt a felfedezésre és az ebédre a közelben.",
             "ro": "O călătorie pitorească la una dintre cele mai importante mănăstiri din Grecia. Luați-vă timp să explorați și să luați prânzul în apropiere.",
-            "en": "A scenic drive to one of Greece's most important monasteries. Take your time to explore and have lunch nearby."
+            "en": "A scenic drive to one of Greece's most important monasteries. Take your time to explore and have lunch nearby.",
+            "el": "Μια γραφική οδήγηση σε μία από τις σημαντικότερες μονές της Ελλάδας. Πάρτε τον χρόνο σας για να εξερευνήσετε και να φάτε κοντά."
           }
         },
         {
@@ -1115,7 +1209,8 @@
             "de": "Velouchi-Skizentrum (Aussichtspunkt)",
             "hu": "Velouchi síközpont (kilátó)",
             "ro": "Centrul de schi Velouchi (punct de belvedere)",
-            "en": "Velouchi Ski Center (Viewpoint)"
+            "en": "Velouchi Ski Center (Viewpoint)",
+            "el": "Χιονοδρομικό Κέντρο Βελουχίου (Σημείο Θέασης)"
           },
           "coords": [
             21.81,
@@ -1131,7 +1226,8 @@
             "de": "Fahren Sie zum Skizentrum für einen atemberaubenden Panoramablick. Im Sommer ist es ein großartiger Ort zum Wandern.",
             "hu": "Vezessen fel a síközpontba a lélegzetelállító panorámáért. Nyáron remek hely a túrázásra.",
             "ro": "Conduceți până la centrul de schi pentru o vedere panoramică uluitoare. Vara, este un loc minunat pentru drumeții.",
-            "en": "Drive up to the ski center for a breathtaking panoramic view. In summer, it's a great spot for hiking."
+            "en": "Drive up to the ski center for a breathtaking panoramic view. In summer, it's a great spot for hiking.",
+            "el": "Οδηγήστε μέχρι το χιονοδρομικό για εκπληκτική πανοραμική θέα. Το καλοκαίρι είναι ένα εξαιρετικό σημείο για πεζοπορία."
           }
         },
         {
@@ -1139,7 +1235,8 @@
             "de": "Abendessen in Karpenisi",
             "hu": "Vacsora Karpenisiben",
             "ro": "Cină în Karpenisi",
-            "en": "Dinner in Karpenisi"
+            "en": "Dinner in Karpenisi",
+            "el": "Δείπνο στο Καρπενήσι"
           },
           "coords": [
             21.794,
@@ -1155,7 +1252,8 @@
             "de": "Kehren Sie in die Stadt zurück und belohnen Sie sich mit einem köstlichen Abendessen in einer lokalen Taverne.",
             "hu": "Térjen vissza a városba, és jutalmazza meg magát egy finom vacsorával egy helyi tavernában.",
             "ro": "Întoarceți-vă în oraș și răsplătiți-vă cu o cină delicioasă la o tavernă locală.",
-            "en": "Return to town and reward yourself with a delicious dinner at a local taverna."
+            "en": "Return to town and reward yourself with a delicious dinner at a local taverna.",
+            "el": "Επιστρέψτε στην πόλη και ανταμείψτε τον εαυτό σας με ένα νόστιμο δείπνο σε τοπική ταβέρνα."
           }
         }
       ],
@@ -1163,7 +1261,8 @@
         "de": "Ihr Autoabenteuer beginnt im Herzen von Karpenisi. Nach der Erkundung des Zentrums fahren Sie in das historische Dorf Koryschades. Am Mittag erwartet Sie eine landschaftlich reizvolle Fahrt zum spirituellen Prousos-Kloster, das in eine Klippe gebaut wurde. Am Nachmittag steigen Sie zum Velouchi-Berg auf, um unvergleichliche Ausblicke zu genießen. Schließlich kehren Sie nach Karpenisi zurück, um einen Abend mit authentischer griechischer Küche zu verbringen und über die Reise des Tages nachzudenken.",
         "hu": "Autós kalandja Karpenisi szívében kezdődik. A központ felfedezése után Koryschades történelmi falujába vezet az út. Délben egy festői autózás várja a sziklába épült, spirituális Prousos kolostorhoz. Délután felkapaszkodik a Velouchi-hegyre, ahonnan páratlan kilátás nyílik. Végül visszatér Karpenisibe egy autentikus görög konyhával töltött estére, és elmélkedik a nap utazásán.",
         "ro": "Aventura dumneavoastră cu mașina începe în inima orașului Karpenisi. După ce explorați centrul, conduceți spre satul istoric Koryschades. La prânz, un drum pitoresc vă așteaptă la Mănăstirea spirituală Prousos, construită într-o stâncă. După-amiaza, urcați pe Muntele Velouchi pentru priveliști de neegalat. În cele din urmă, reveniți în Karpenisi pentru o seară cu bucătărie grecească autentică, reflectând la călătoria zilei.",
-        "en": "Your car adventure begins in the heart of Karpenisi. After exploring the center, you'll drive to the historic village of Koryschades. At midday, a scenic drive awaits to the spiritual Prousos Monastery, built into a cliffside. In the afternoon, you ascend Velouchi mountain for unparalleled views. Finally, return to Karpenisi for an evening of authentic Greek cuisine, reflecting on the day's journey."
+        "en": "Your car adventure begins in the heart of Karpenisi. After exploring the center, you'll drive to the historic village of Koryschades. At midday, a scenic drive awaits to the spiritual Prousos Monastery, built into a cliffside. In the afternoon, you ascend Velouchi mountain for unparalleled views. Finally, return to Karpenisi for an evening of authentic Greek cuisine, reflecting on the day's journey.",
+        "el": "Η αυτοκινητιστική σας περιπέτεια ξεκινά στην καρδιά του Καρπενησίου. Μετά την εξερεύνηση του κέντρου, θα οδηγήσετε στο ιστορικό χωριό Κορισχάδες. Το μεσημέρι, μια γραφική διαδρομή σας περιμένει προς τη Μονή Προυσού, χτισμένη στην πλαγιά ενός βράχου. Το απόγευμα, ανεβαίνετε στο βουνό Βελουχι για απαράμιλλη θέα. Τέλος, επιστρέψτε στο Καρπενήσι για ένα βραδινό με αυθεντική ελληνική κουζίνα, αναλογιζόμενοι το ταξίδι της ημέρας."
       },
       "gastro_picks": {
         "de": [
@@ -1359,6 +1458,12 @@
           "Check weather conditions, especially if heading to Velouchi mountain, as they can change quickly.",
           "Fill up your car's fuel tank in Karpenisi before heading to more remote areas.",
           "Ensure you have appropriate attire when visiting monasteries."
+        ],
+        "el": [
+          "Οι ορεινοί δρόμοι μπορεί να είναι στριφογυριστοί και στενοί, οδηγείτε προσεκτικά.",
+          "Ελέγξτε τις καιρικές συνθήκες, ειδικά αν κατευθύνεστε στο όρος Βελουχιώ, καθώς αλλάζουν γρήγορα.",
+          "Γεμίστε το ρεζερβουάρ του αυτοκινήτου σας στην Καρπενήσι πριν κατευθυνθείτε σε πιο απομακρυσμένες περιοχές.",
+          "Βεβαιωθείτε ότι έχετε κατάλληλη ενδυμασία όταν επισκέπτεστε μοναστήρια."
         ]
       },
       "variants": {
@@ -1367,7 +1472,8 @@
             "de": "Mit dem Auto ist Karpenisi auch im Regen komfortabel zu erkunden. Der Morgen beginnt am Zentralplatz, wobei man die Parkplätze nah an den Cafés nutzt.\n\nMittags führt die Fahrt zum Volkskundemuseum und weiter in das historische Dorf Koryschades. Die Scheibenwischer arbeiten ununterbrochen, während man die nebligen Bergwälder passiert.\n\nDer Nachmittag ist dem Kloster Prousos gewidmet. Die kurvenreiche Strecke entlang der Schlucht ist bei Regen dramatisch, mit Wasserfällen, die direkt neben der Straße herabstürzen.\n\nZum Abschluss geht es zum Skizentrum Velouchi; auch wenn die Sicht eingeschränkt ist, bietet die Fahrt durch die Wolken ein einzigartiges Erlebnis, bevor man zum Abendessen nach Karpenisi zurückkehrt.",
             "hu": "Autóval Karpenisi esőben is kényelmesen felfedezhető. A reggel a központi téren kezdődik, a kávézókhoz közeli parkolókat kihasználva.\n\nDélben az út a Néprajzi Múzeumhoz, majd tovább Koryschades történelmi falujába vezet. Az ablaktörlők folyamatosan dolgoznak, miközben elhalad a ködös hegyi erdők mellett.\n\nA délután a Prousos-kolostornak van szentelve. A szurdok menti kanyargós út esőben drámai, a vízesések közvetlenül az út mellett zúdulnak le.\n\nBefejezésül a Velouchi Síközpont felé vesszük az irányt; még ha a látótávolság korlátozott is, a felhők közötti autózás egyedülálló élményt nyújt, mielőtt visszatérne vacsorázni Karpenisibe.",
             "ro": "Cu mașina, Karpenisi poate fi explorat confortabil chiar și pe ploaie. Dimineața începe în Piața Centrală, folosind locurile de parcare aproape de cafenele.\n\nLa prânz, drumul duce la Muzeul de Folclor și mai departe în satul istoric Koryschades. Ștergătoarele lucrează neîncetat în timp ce treceți prin pădurile de munte cețoase.\n\nDupă-amiaza este dedicată Mănăstirii Prousos. Traseul sinuos de-a lungul cheilor este dramatic pe ploaie, cu cascade care curg direct lângă drum.\n\nLa final se merge spre Centrul de Schi Velouchi; chiar dacă vizibilitatea este limitată, condusul prin nori oferă o experiență unică înainte de a reveni pentru cină în Karpenisi.",
-            "en": "By car, Karpenisi is comfortable to explore even in the rain. The morning begins at the Central Square, using parking spots close to the cafes.\n\nAt noon, the drive leads to the Folklore Museum and further to the historical village of Koryschades. The wipers work continuously as you pass through foggy mountain forests.\n\nThe afternoon is dedicated to Prousos Monastery. The winding route along the gorge is dramatic in the rain, with waterfalls cascading right next to the road.\n\nFinally, head to Velouchi Ski Center; even if visibility is limited, driving through the clouds offers a unique experience before returning to Karpenisi for dinner."
+            "en": "By car, Karpenisi is comfortable to explore even in the rain. The morning begins at the Central Square, using parking spots close to the cafes.\n\nAt noon, the drive leads to the Folklore Museum and further to the historical village of Koryschades. The wipers work continuously as you pass through foggy mountain forests.\n\nThe afternoon is dedicated to Prousos Monastery. The winding route along the gorge is dramatic in the rain, with waterfalls cascading right next to the road.\n\nFinally, head to Velouchi Ski Center; even if visibility is limited, driving through the clouds offers a unique experience before returning to Karpenisi for dinner.",
+            "el": "Με το αυτοκίνητο, η Καρπενήσι είναι άνετη για εξερεύνηση ακόμη και με βροχή. Το πρωί ξεκινά στην Κεντρική Πλατεία, χρησιμοποιώντας θέσεις στάθμευσης κοντά στα καφέ.\n\nΤο μεσημέρι, η διαδρομή οδηγεί στο Λαογραφικό Μουσείο και περαιτέρω στο ιστορικό χωριό Κορυσχάδες. Οι υαλοκαθαριστήρες δουλεύουν συνεχώς καθώς περνάτε μέσα από ομιχλώδη ορεινά δάση.\n\nΤο απόγευμα αφιερώνεται στη Μονή Προυσού. Η φιδίσια διαδρομή κατά μήκος του φαραγγιού είναι εντυπωσιακή στη βροχή, με καταρράκτες να πέφτουν δίπλα στον δρόμο.\n\nΤέλος, κατευθυνθείτε στο Χιονοδρομικό Κέντρο Βελουχίου· ακόμη κι αν η ορατότητα είναι περιορισμένη, η οδήγηση μέσα στα σύννεφα προσφέρει μια μοναδική εμπειρία πριν την επιστροφή στην Καρπενήσι για δείπνο."
           },
           "stops": [
             {
@@ -1376,7 +1482,8 @@
                 "de": "Parken Sie auf den markierten Flächen; sie sind bei Regen oft schnell belegt.",
                 "hu": "Parkoljon a kijelölt helyeken; esőben ezek gyakran gyorsan betelnek.",
                 "ro": "Parcați în zonele marcate; acestea se ocupă rapid pe ploaie.",
-                "en": "Park in marked areas; they often fill up quickly in the rain."
+                "en": "Park in marked areas; they often fill up quickly in the rain.",
+                "el": "Σταθμεύστε σε σημειωμένες θέσεις· συχνά γεμίζουν γρήγορα στη βροχή."
               }
             },
             {
@@ -1385,7 +1492,8 @@
                 "de": "Direkte Zufahrt zum Eingang möglich, um trocken ins Gebäude zu gelangen.",
                 "hu": "Közvetlen behajtás a bejárathoz lehetséges, így szárazon juthat az épületbe.",
                 "ro": "Acces direct la intrare posibil pentru a ajunge uscat în clădire.",
-                "en": "Direct access to the entrance possible to get into the building dry."
+                "en": "Direct access to the entrance possible to get into the building dry.",
+                "el": "Άμεση πρόσβαση στην είσοδο για να μπείτε στεγνοί στο κτίριο."
               }
             },
             {
@@ -1394,7 +1502,8 @@
                 "de": "Die engen Steinstraßen im Dorf sind bei Nässe extrem rutschig.",
                 "hu": "A falu szűk kőútjai nedvesen rendkívül csúszósak.",
                 "ro": "Străzile înguste de piatră din sat sunt extrem de alunecoase când sunt ude.",
-                "en": "The narrow stone streets in the village are extremely slippery when wet."
+                "en": "The narrow stone streets in the village are extremely slippery when wet.",
+                "el": "Οι στενοί λιθόστρωτοι δρόμοι στο χωριό γλιστρούν πολύ όταν είναι βρεγμένοι."
               }
             },
             {
@@ -1403,7 +1512,8 @@
                 "de": "Achten Sie auf Steinschlag auf der Strecke durch die Schlucht.",
                 "hu": "Ügyeljen a kőomlásokra a szurdokon átvezető szakaszon.",
                 "ro": "Atenție la căderile de pietre pe porțiunea prin chei.",
-                "en": "Watch out for rockfalls on the stretch through the gorge."
+                "en": "Watch out for rockfalls on the stretch through the gorge.",
+                "el": "Προσέξτε για πτώσεις βράχων στο κομμάτι μέσα από το φαράγγι."
               }
             },
             {
@@ -1412,7 +1522,8 @@
                 "de": "Nebelscheinwerfer einschalten; die Sicht kann oben unter 20 Meter fallen.",
                 "hu": "Kapcsolja be a ködlámpát; fent a látótávolság 20 méter alá csökkenhet.",
                 "ro": "Porniți luminile de ceață; vizibilitatea sus poate scădea sub 20 de metri.",
-                "en": "Turn on fog lights; visibility at the top can drop below 20 meters."
+                "en": "Turn on fog lights; visibility at the top can drop below 20 meters.",
+                "el": "Ανάψτε τα προβολάκια ομίχλης· η ορατότητα στην κορυφή μπορεί να πέσει κάτω από 20 μέτρα."
               }
             },
             {
@@ -1421,7 +1532,8 @@
                 "de": "Wählen Sie ein Restaurant mit hauseigenem Parkplatz für mehr Komfort.",
                 "hu": "A nagyobb kényelem érdekében válasszon saját parkolóval rendelkező éttermet.",
                 "ro": "Alegeți un restaurant cu parcare proprie pentru mai mult confort.",
-                "en": "Choose a restaurant with its own parking for more comfort."
+                "en": "Choose a restaurant with its own parking for more comfort.",
+                "el": "Επιλέξτε εστιατόριο με δικό του χώρο στάθμευσης για άνεση."
               }
             }
           ],
@@ -1453,6 +1565,13 @@
               "Always maintain sufficient following distance from the vehicle in front.",
               "Avoid parking under steep rock walls due to rockfall risk.",
               "City gas stations are good places to plan the route in the rain."
+            ],
+            "el": [
+              "Ελέγξτε την κατάσταση των υαλοκαθαριστήρων πριν την αναχώρηση.",
+              "Οι ορεινοί δρόμοι στην Ευρυτανία μπορούν να γίνουν ολισθηροί λόγω λάσπης στη βροχή.",
+              "Διατηρείτε πάντα επαρκή απόσταση ασφαλείας από το προπορευόμενο όχημα.",
+              "Αποφύγετε τη στάθμευση κάτω από απότομους βραχώδεις τοίχους λόγω κινδύνου πτώσης βράχων.",
+              "Οι αστικές αντλίες καυσίμου είναι καλές τοποθεσίες για να σχεδιάσετε τη διαδρομή στη βροχή."
             ]
           }
         },
@@ -1461,7 +1580,8 @@
             "de": "Winterfahrten in der Evrytania bieten spektakuläre Ausblicke auf schneebedeckte Gipfel. Der Morgen am Zentralplatz ist oft frostig, was ein Eiskratzen erforderlich macht.\n\nMittags führt die Route durch tief verschneite Tannenwälder nach Koryschades und zum Volkskundemuseum. Die Straßen sind meist geräumt, aber Winterreifen sind zwingend.\n\nDer Nachmittag ist für die Fahrt zum Kloster Prousos reserviert; die schneebedeckte Schlucht ist ein grandioser Anblick. Achten Sie auf vereiste Stellen in den Tunneln.\n\nDas Highlight ist die Fahrt zum Velouchi Skizentrum am späten Nachmittag, wo man das Treiben auf den Pisten beobachten kann, bevor man rechtzeitig zur Dämmerung nach Karpenisi zurückfährt.",
             "hu": "A téli autózás Evritániában látványos kilátást nyújt a hófödte csúcsokra. A reggel a központi téren gyakran fagyos, ami jégkaparást tesz szükségessé.\n\nDélben az út mélyen havas fenyőerdőkön keresztül vezet Koryschadesbe és a Néprajzi Múzeumba. Az utak többnyire takarítottak, de a téli gumi kötelező.\n\nA délután a Prousos-kolostorhoz vezető útra van fenntartva; a havas szurdok lenyűgöző látvány. Ügyeljen a jeges foltokra az alagutakban.\n\nA csúcspont a késő délutáni út a Velouchi Síközpontba, ahol megfigyelheti a pályák forgatagát, mielőtt időben, még sötétedés előtt visszatérne Karpenisibe.",
             "ro": "Condusul pe timp de iarnă în Evrytania oferă priveliști spectaculoase asupra vârfurilor înzăpezite. Dimineața în Piața Centrală este adesea geroasă, necesitând răzuirea gheții.\n\nLa prânz, traseul trece prin păduri de brazi troienite spre Koryschades și Muzeul de Folclor. Drumurile sunt în mare parte curățate, dar anvelopele de iarnă sunt obligatorii.\n\nDupă-amiaza este rezervată drumului spre Mănăstirea Prousos; cheile înzăpezite sunt o priveliște grandioasă. Atenție la porțiunile înghețate din tuneluri.\n\nPunctul culminant este drumul spre centrul de schi Velouchi după-amiaza târziu, unde puteți observa activitatea de pe pârtii înainte de a reveni în Karpenisi la timp pentru amurg.",
-            "en": "Winter driving in Evrytania offers spectacular views of snow-capped peaks. The morning at the Central Square is often frosty, requiring ice scraping.\n\nAt noon, the route leads through deeply snow-covered fir forests to Koryschades and the Folklore Museum. Roads are mostly cleared, but winter tires are mandatory.\n\nThe afternoon is reserved for the drive to Prousos Monastery; the snow-covered gorge is a magnificent sight. Watch out for icy spots in the tunnels.\n\nThe highlight is the late afternoon drive to Velouchi Ski Center, where you can watch the action on the slopes before returning to Karpenisi in time for dusk."
+            "en": "Winter driving in Evrytania offers spectacular views of snow-capped peaks. The morning at the Central Square is often frosty, requiring ice scraping.\n\nAt noon, the route leads through deeply snow-covered fir forests to Koryschades and the Folklore Museum. Roads are mostly cleared, but winter tires are mandatory.\n\nThe afternoon is reserved for the drive to Prousos Monastery; the snow-covered gorge is a magnificent sight. Watch out for icy spots in the tunnels.\n\nThe highlight is the late afternoon drive to Velouchi Ski Center, where you can watch the action on the slopes before returning to Karpenisi in time for dusk.",
+            "el": "Η οδήγηση το χειμώνα στην Ευρυτανία προσφέρει θεαματικές εικόνες με χιονισμένες κορυφές. Το πρωί στην Κεντρική Πλατεία είναι συχνά παγωμένο, απαιτώντας ξύσιμο του πάγου.\n\nΤο μεσημέρι, η διαδρομή περνά από βαθιά χιονισμένα έλατα προς τους Κορυσχάδες και το Λαογραφικό Μουσείο. Οι δρόμοι είναι κατά κανόνα καθαρισμένοι, αλλά τα χειμερινά ελαστικά είναι υποχρεωτικά.\n\nΤο απόγευμα αφιερώνεται στη διαδρομή προς τη Μονή Προυσού· το χιονισμένο φαράγγι είναι επιβλητικό. Προσέξτε για παγωμένα σημεία στις στοές.\n\nΤο αποκορύφωμα είναι η βραδινή διαδρομή προς το Χιονοδρομικό Κέντρο Βελουχίου, όπου μπορείτε να παρακολουθήσετε τη δράση στις πίστες πριν επιστρέψετε στην Καρπενήσι με το λυκόφως."
           },
           "stops": [
             {
@@ -1470,7 +1590,8 @@
                 "de": "Lassen Sie den Motor kurz warmlaufen, bevor Sie die Steigungen befahren.",
                 "hu": "Hagyja a motort rövid ideig melegedni, mielőtt az emelkedőkre hajtana.",
                 "ro": "Lăsați motorul să se încălzească puțin înainte de a urca pantele.",
-                "en": "Let the engine warm up briefly before driving on inclines."
+                "en": "Let the engine warm up briefly before driving on inclines.",
+                "el": "Αφήστε τον κινητήρα να ζεσταθεί λίγα λεπτά πριν οδηγήσετε σε ανηφόρες."
               }
             },
             {
@@ -1479,7 +1600,8 @@
                 "de": "Parkplatz ist meist schnee- und eisfrei gehalten.",
                 "hu": "A parkolót többnyire hó- és jégmentesen tartják.",
                 "ro": "Parcarea este de obicei menținută fără zăpadă și gheață.",
-                "en": "The parking lot is usually kept clear of snow and ice."
+                "en": "The parking lot is usually kept clear of snow and ice.",
+                "el": "Ο χώρος στάθμευσης συνήθως διατηρείται καθαρός από χιόνι και πάγο."
               }
             },
             {
@@ -1488,7 +1610,8 @@
                 "de": "Fahren Sie im Dorf besonders vorsichtig; Bremswege auf Schnee sind lang.",
                 "hu": "A faluban vezessen különösen óvatosan; a féktávolság havon hosszú.",
                 "ro": "Conduceți cu mare prudență în sat; distanțele de frânare pe zăpadă sunt mari.",
-                "en": "Drive extra carefully in the village; braking distances on snow are long."
+                "en": "Drive extra carefully in the village; braking distances on snow are long.",
+                "el": "Οδηγείτε ακόμα πιο προσεκτικά στο χωριό· οι αποστάσεις φρεναρίσματος στο χιόνι είναι μεγάλες."
               }
             },
             {
@@ -1497,7 +1620,8 @@
                 "de": "Überprüfen Sie den Wetterbericht; die Straße kann bei starkem Schneefall gesperrt sein.",
                 "hu": "Ellenőrizze az időjárás-jelentést; erős hóesésben az utat lezárhatják.",
                 "ro": "Verificați prognoza meteo; drumul poate fi închis în caz de ninsoare puternică.",
-                "en": "Check the weather forecast; the road may be closed during heavy snowfall."
+                "en": "Check the weather forecast; the road may be closed during heavy snowfall.",
+                "el": "Ελέγξτε την πρόγνωση· ο δρόμος μπορεί να κλείσει κατά τη διάρκεια ισχυρής χιονόπτωσης."
               }
             },
             {
@@ -1506,7 +1630,8 @@
                 "de": "Schneeketten im Kofferraum sind gesetzlich vorgeschrieben und oft nötig.",
                 "hu": "A hólánc a csomagtartóban törvényileg előírt és gyakran szükséges.",
                 "ro": "Lanțurile de zăpadă în portbagaj sunt obligatorii prin lege și adesea necesare.",
-                "en": "Snow chains in the trunk are legally required and often necessary."
+                "en": "Snow chains in the trunk are legally required and often necessary.",
+                "el": "Οι αλυσίδες χιονιού στο πορτ-παγκάζ είναι νομικά υποχρεωτικές και συχνά απαραίτητες."
               }
             },
             {
@@ -1515,7 +1640,8 @@
                 "de": "Stellen Sie die Scheibenwischer hoch, um ein Festfrieren über Nacht zu verhindern.",
                 "hu": "Állítsa fel az ablaktörlőket, hogy megakadályozza az éjszakai ráfagyást.",
                 "ro": "Ridicări ștergătoarele pentru a preveni înghețarea lor pe parbriz peste noapte.",
-                "en": "Lift the wipers to prevent them from freezing to the windshield overnight."
+                "en": "Lift the wipers to prevent them from freezing to the windshield overnight.",
+                "el": "Ανασηκώστε τους υαλοκαθαριστήρες για να μην παγώσουν στο παρμπρίζ τη νύχτα."
               }
             }
           ],
@@ -1547,6 +1673,13 @@
               "Antifreeze in the windshield washer fluid is indispensable.",
               "Use engine braking on steep descents on snow.",
               "Check the status of mountain roads (velouchi-ski.gr)."
+            ],
+            "el": [
+              "Να έχετε πάντα ξύστρα πάγου και μια μικρή βούρτσα στο αυτοκίνητο.",
+              "Αποφύγετε την οδήγηση με σχεδόν άδειο ρεζερβουάρ στα βουνά.",
+              "Αντιψυκτικό στο υγρό του πλυσίματος παρμπρίζ είναι απαραίτητο.",
+              "Χρησιμοποιήστε το φρενάρισμα του κινητήρα σε απότομες κατηφόρες στο χιόνι.",
+              "Ελέγξτε την κατάσταση των ορεινών δρόμων (velouchi-ski.gr)."
             ]
           }
         }
@@ -1565,7 +1698,8 @@
             "de": "Zentralplatz Karpenisi",
             "hu": "Karpenisi központi tere",
             "ro": "Piața Centrală Karpenisi",
-            "en": "Karpenisi Central Square"
+            "en": "Karpenisi Central Square",
+            "el": "Κεντρική Πλατεία Καρπενησίου"
           },
           "coords": [
             21.7944,
@@ -1581,7 +1715,8 @@
             "de": "Der Hauptbusbahnhof (KTEL) ist Ihr Ausgangspunkt für die Erkundung der Stadt und der Umgebung.",
             "hu": "A fő buszpályaudvar (KTEL) a kiindulópont a város és a környék felfedezéséhez.",
             "ro": "Stația principală de autobuz (KTEL) este punctul de plecare pentru a explora orașul și zona înconjurătoare.",
-            "en": "The main bus station (KTEL) is your hub for exploring the town and surrounding area."
+            "en": "The main bus station (KTEL) is your hub for exploring the town and surrounding area.",
+            "el": "Ο κεντρικός σταθμός λεωφορείων (ΚΤΕΛ) είναι ο κόμβος σας για εξερεύνηση της πόλης και της γύρω περιοχής."
           }
         },
         {
@@ -1589,7 +1724,8 @@
             "de": "Kathedrale der Heiligen Dreifaltigkeit",
             "hu": "Szentháromság-székesegyház",
             "ro": "Catedrala Sfânta Treime",
-            "en": "Cathedral of the Holy Trinity"
+            "en": "Cathedral of the Holy Trinity",
+            "el": "Καθεδρικός της Αγίας Τριάδας"
           },
           "coords": [
             21.795,
@@ -1605,7 +1741,8 @@
             "de": "Vom Busbahnhof aus ist es nur ein kurzer Spaziergang zu diesem wichtigen religiösen Ort.",
             "hu": "A buszpályaudvartól csak egy rövid séta ez a fontos vallási hely.",
             "ro": "De la stația de autobuz este doar o scurtă plimbare până la acest important lăcaș de cult.",
-            "en": "From the bus station, it's a short walk to this important religious site."
+            "en": "From the bus station, it's a short walk to this important religious site.",
+            "el": "Από τον σταθμό λεωφορείων είναι λίγη πεζή απόσταση μέχρι αυτό τον σημαντικό θρησκευτικό χώρο."
           }
         },
         {
@@ -1613,7 +1750,8 @@
             "de": "Dorf Koryschades",
             "hu": "Koryschades falu",
             "ro": "Satul Koryschades",
-            "en": "Koryschades Village"
+            "en": "Koryschades Village",
+            "el": "Χωριό Κορυσχάδες"
           },
           "coords": [
             21.76,
@@ -1629,7 +1767,8 @@
             "de": "Nehmen Sie einen lokalen Bus in dieses historische Dorf, das als nationales Widerstandsmuseum dient.",
             "hu": "Menjen helyi busszal ebbe a történelmi faluba, amely nemzeti ellenállási múzeumként működik.",
             "ro": "Luați un autobuz local spre acest sat istoric, care servește drept muzeu al rezistenței naționale.",
-            "en": "Take a local bus to this historic village, which serves as a national resistance museum."
+            "en": "Take a local bus to this historic village, which serves as a national resistance museum.",
+            "el": "Πάρτε το τοπικό λεωφορείο προς αυτό το ιστορικό χωριό, που λειτουργεί ως μουσείο Εθνικής Αντίστασης."
           }
         },
         {
@@ -1637,7 +1776,8 @@
             "de": "Volkskundemuseum von Karpenisi",
             "hu": "Karpenisi Néprajzi Múzeum",
             "ro": "Muzeul de Folclor din Karpenisi",
-            "en": "Folklore Museum of Karpenisi"
+            "en": "Folklore Museum of Karpenisi",
+            "el": "Λαογραφικό Μουσείο Καρπενησίου"
           },
           "coords": [
             21.796,
@@ -1653,7 +1793,8 @@
             "de": "Kehren Sie mit dem Bus ins Zentrum zurück und besuchen Sie dieses Museum, um Ihr Verständnis für die Region zu vertiefen.",
             "hu": "Térjen vissza busszal a központba, és látogasson el ebbe a múzeumba, hogy elmélyítse a régióval kapcsolatos ismereteit.",
             "ro": "Întoarceți-vă cu autobuzul în centru și vizitați acest muzeu pentru a vă aprofunda înțelegerea regiunii.",
-            "en": "Return to the center by bus and visit this museum to deepen your understanding of the region."
+            "en": "Return to the center by bus and visit this museum to deepen your understanding of the region.",
+            "el": "Επιστρέψτε στο κέντρο με λεωφορείο και επισκεφτείτε αυτό το μουσείο για να εμβαθύνετε στην κατανόηση της περιοχής."
           }
         },
         {
@@ -1661,7 +1802,8 @@
             "de": "Saloon Park",
             "hu": "Saloon Park",
             "ro": "Parcul Saloon",
-            "en": "Saloon Park"
+            "en": "Saloon Park",
+            "el": "Πάρκο Σαλούν"
           },
           "coords": [
             21.79,
@@ -1677,7 +1819,8 @@
             "de": "Beenden Sie Ihre Erkundungen mit einem entspannten Spaziergang zu diesem schönen Park am Rande der Stadt.",
             "hu": "Fejezze be a felfedezést egy pihentető sétával a város szélén található gyönyörű parkba.",
             "ro": "Încheiați-vă explorările cu o plimbare relaxantă la acest frumos parc de la marginea orașului.",
-            "en": "End your explorations with a relaxing stroll to this beautiful park on the edge of town."
+            "en": "End your explorations with a relaxing stroll to this beautiful park on the edge of town.",
+            "el": "Κλείστε την εξερεύνησή σας με έναν χαλαρό περίπατο σε αυτό το όμορφο πάρκο στην άκρη της πόλης."
           }
         }
       ],
@@ -1685,7 +1828,8 @@
         "de": "Nutzen Sie das lokale Busnetz für einen umfassenden Tag. Beginnen Sie im Zentrum von Karpenisi, bevor Sie einen Bus in das historische Dorf Koryschades nehmen, das einen tiefen Einblick in die jüngere griechische Geschichte bietet. Nach der Rückkehr in die Stadt tauchen Sie im Volkskundemuseum weiter in die Kultur ein. Ein entspannter Spaziergang zum Saloon Park rundet Ihren Nachmittag ab. Am Abend haben Sie die Freiheit, eine der vielen ausgezeichneten Tavernen der Stadt zu wählen.",
         "hu": "Használja ki a helyi buszhálózatot egy átfogó naphoz. Kezdje Karpenisi központjában, mielőtt busszal elutazik Koryschades történelmi falujába, amely mély betekintést nyújt a modern görög történelembe. Miután visszatért a városba, merüljön el tovább a kultúrában a Néprajzi Múzeumban. Egy pihentető séta a Saloon Parkban teszi teljessé a délutánt. Este szabadon választhat a város számos kiváló tavernája közül.",
         "ro": "Folosiți rețeaua locală de autobuze pentru o zi cuprinzătoare. Începeți în centrul orașului Karpenisi înainte de a lua un autobuz spre satul istoric Koryschades, care oferă o perspectivă profundă asupra istoriei grecești moderne. La întoarcerea în oraș, aprofundați-vă în cultură la Muzeul de Folclor. O plimbare relaxantă în Parcul Saloon vă completează după-amiaza. Seara, aveți libertatea de a alege una dintre numeroasele taverne excelente ale orașului.",
-        "en": "Utilize the local bus network for a comprehensive day. Start in central Karpenisi before catching a bus to the historic Koryschades village, offering a deep dive into modern Greek history. Upon returning to town, immerse yourself further in the culture at the Folklore Museum. A relaxing walk to Saloon Park completes your afternoon. In the evening, you have the freedom to choose any of the town's many excellent tavernas."
+        "en": "Utilize the local bus network for a comprehensive day. Start in central Karpenisi before catching a bus to the historic Koryschades village, offering a deep dive into modern Greek history. Upon returning to town, immerse yourself further in the culture at the Folklore Museum. A relaxing walk to Saloon Park completes your afternoon. In the evening, you have the freedom to choose any of the town's many excellent tavernas.",
+        "el": "Χρησιμοποιήστε το τοπικό δίκτυο λεωφορείων για μια ολοκληρωμένη μέρα. Ξεκινήστε στο κέντρο της Καρπενησίου πριν πάρετε λεωφορείο προς το ιστορικό χωριό Κορυσχάδες, που προσφέρει βαθιά εκδρομή στη σύγχρονη ελληνική ιστορία. Επιστρέφοντας στην πόλη, εμβαθύνετε περαιτέρω την κουλτούρα στο Λαογραφικό Μουσείο. Ένας χαλαρός περίπατος στο Πάρκο Σαλούν ολοκληρώνει το απόγευμα. Το βράδυ έχετε την ελευθερία να επιλέξετε οποιαδήποτε από τις πολλές εξαιρετικές ταβέρνες της πόλης."
       },
       "gastro_picks": {
         "de": [
@@ -1881,6 +2025,12 @@
           "Purchase tickets at the KTEL station or directly from the driver.",
           "Buses to villages may not be frequent, so plan your return trip carefully.",
           "Be flexible; public transport in rural areas can be unpredictable."
+        ],
+        "el": [
+          "Ελέγξτε το πρόγραμμα των λεωφορείων εκ των προτέρων, καθώς οι συχνότητες μπορεί να διαφέρουν, ειδικά τα Σαββατοκύριακα.",
+          "Αγοράστε εισιτήρια στο σταθμό ΚΤΕΛ ή απευθείας από τον οδηγό.",
+          "Τα λεωφορεία προς τα χωριά μπορεί να μην είναι συχνά, οπότε σχεδιάστε προσεκτικά την επιστροφή σας.",
+          "Να είστε ευέλικτοι· τα μέσα μεταφοράς σε αγροτικές περιοχές μπορούν να είναι απρόβλεπτα."
         ]
       },
       "variants": {
@@ -1889,7 +2039,8 @@
             "de": "Mit dem öffentlichen Bus (KTEL) lässt sich Karpenisi auch bei Regen erkunden. Der Morgen beginnt am Zentralplatz, wo man die Wartezeiten in den angrenzenden Cafés überbrückt.\n\nMittags bietet die Kathedrale einen trockenen Zwischenstopp, bevor der Bus nach Koryschades ablegt. Das historische Dorf ist auch bei grauem Himmel sehr fotogen.\n\nNachmittags führt die Route zurück zum Volkskundemuseum, wo man im Trockenen viel Zeit verbringen kann. Der Regen prasselt gegen die Fenster der Busse, während man die Landschaft genießt.\n\nDer Tag endet im Saloon Park; nutzen Sie die kurzen Regenpausen für den Weg vom Busstopp zum überdachten Parkzentrum.",
             "hu": "A helyi buszokkal (KTEL) Karpenisi esőben is felfedezhető. A reggel a központi téren kezdődik, ahol a várakozási időt a szomszédos kávézókban töltheti.\n\nDélben a székesegyház nyújt száraz pihenőt, mielőtt a busz Koryschades felé indulna. A történelmi falu szürke égbolt mellett is nagyon fotogén.\n\nDélután az út visszavezet a Néprajzi Múzeumba, ahol szárazon töltheti el az időt. Az eső kopog a busz ablakán, miközben élvezi a tájat.\n\nA nap a Saloon Parkban ér véget; használja ki a rövid esőszüneteket a buszmegállótól a fedett parkközpontig tartó úton.",
             "ro": "Cu autobuzele publice (KTEL), Karpenisi poate fi explorat și pe ploaie. Dimineața începe în Piața Centrală, unde puteți petrece timpul de așteptare în cafenelele adiacente.\n\nLa prânz, catedrala oferă un popas uscat înainte ca autobuzul să plece spre Koryschades. Satul istoric este foarte fotogen chiar și sub cerul gri.\n\nDupă-amiaza, traseul revine la Muzeul de Folclor, unde puteți petrece mult timp la adăpost. Ploaia bate în geamurile autobuzului în timp ce admirați peisajul.\n\nZiua se încheie în Saloon Park; folosiți scurte pauze de ploaie pentru drumul de la stația de autobuz până la centrul acoperit al parcului.",
-            "en": "With public buses (KTEL), Karpenisi can be explored even in the rain. The morning begins at the Central Square, where you can bridge waiting times in adjacent cafes.\n\nAt noon, the cathedral offers a dry stopover before the bus leaves for Koryschades. The historical village is very photogenic even under grey skies.\n\nIn the afternoon, the route leads back to the Folklore Museum, where you can spend plenty of time in the dry. Rain drum against the bus windows as you enjoy the landscape.\n\nThe day ends at Saloon Park; use short rain breaks for the walk from the bus stop to the covered park center."
+            "en": "With public buses (KTEL), Karpenisi can be explored even in the rain. The morning begins at the Central Square, where you can bridge waiting times in adjacent cafes.\n\nAt noon, the cathedral offers a dry stopover before the bus leaves for Koryschades. The historical village is very photogenic even under grey skies.\n\nIn the afternoon, the route leads back to the Folklore Museum, where you can spend plenty of time in the dry. Rain drum against the bus windows as you enjoy the landscape.\n\nThe day ends at Saloon Park; use short rain breaks for the walk from the bus stop to the covered park center.",
+            "el": "Με δημόσια λεωφορεία (ΚΤΕΛ), η Καρπενήσι μπορεί να εξερευνηθεί ακόμη και στη βροχή. Το πρωί ξεκινά στην Κεντρική Πλατεία, όπου μπορείτε να γεμίσετε τον χρόνο αναμονής στα παρακείμενα καφέ.\n\nΤο μεσημέρι, ο καθεδρικός προσφέρει μια στεγνή στάση πριν το λεωφορείο αναχωρήσει για τους Κορυσχάδες. Το ιστορικό χωριό είναι πολύ φωτογενές ακόμη και κάτω από γκρίζο ουρανό.\n\nΤο απόγευμα, η διαδρομή επιστρέφει στο Λαογραφικό Μουσείο, όπου μπορείτε να περάσετε αρκετή ώρα σε στεγνό χώρο. Η βροχή χτυπά τα παράθυρα του λεωφορείου καθώς απολαμβάνετε το τοπίο.\n\nΗ μέρα τελειώνει στο Πάρκο Σαλούν· εκμεταλλευτείτε τα σύντομα διαλείμματα της βροχής για τον περίπατο από τη στάση στο καλυμμένο κέντρο του πάρκου."
           },
           "stops": [
             {
@@ -1898,7 +2049,8 @@
                 "de": "Holen Sie sich den Busfahrplan am KTEL-Schalter im Trockenen.",
                 "hu": "Szerezze be a buszmenetrendet a KTEL pultnál, fedett helyen.",
                 "ro": "Luați orarul autobuzelor de la ghișeul KTEL, la adăpost.",
-                "en": "Get the bus schedule at the KTEL counter in the dry."
+                "en": "Get the bus schedule at the KTEL counter in the dry.",
+                "el": "Προμηθευτείτε το πρόγραμμα στο γκισέ του ΚΤΕΛ σε στεγνό χώρο."
               }
             },
             {
@@ -1907,7 +2059,8 @@
                 "de": "Warten Sie in der Nähe des Eingangs, um rechtzeitig zur Haltestelle zu kommen.",
                 "hu": "Várjon a bejárat közelében, hogy időben a megállóhoz érjen.",
                 "ro": "Așteptați lângă intrare pentru a ajunge la timp în stație.",
-                "en": "Wait near the entrance to reach the stop on time."
+                "en": "Wait near the entrance to reach the stop on time.",
+                "el": "Περιμένετε κοντά στην είσοδο για να φτάσετε στην στάση στην ώρα σας."
               }
             },
             {
@@ -1916,7 +2069,8 @@
                 "de": "Prüfen Sie die Rückfahrzeiten genau, um langes Warten im Regen zu vermeiden.",
                 "hu": "Pontosan ellenőrizze a visszaindulást, hogy elkerülje a hosszú várakozást az esőben.",
                 "ro": "Verificați exact orele de retur pentru a evita așteptarea lungă în ploaie.",
-                "en": "Check return times carefully to avoid long waits in the rain."
+                "en": "Check return times carefully to avoid long waits in the rain.",
+                "el": "Ελέγξτε προσεκτικά τις ώρες επιστροφής για να αποφύγετε μεγάλες αναμονές στη βροχή."
               }
             },
             {
@@ -1925,7 +2079,8 @@
                 "de": "Das Museum ist ein idealer Ort, um auf den nächsten Busanschluss zu warten.",
                 "hu": "A múzeum ideális hely a következő buszcsatlakozás megvárására.",
                 "ro": "Muzeul este un loc ideal pentru a aștepta următoarea legătură de autobuz.",
-                "en": "The museum is an ideal place to wait for the next bus connection."
+                "en": "The museum is an ideal place to wait for the next bus connection.",
+                "el": "Το μουσείο είναι ιδανικό μέρος για να περιμένετε την επόμενη σύνδεση λεωφορείου."
               }
             },
             {
@@ -1934,7 +2089,8 @@
                 "de": "Der Fußweg von der Bushaltestelle zum Park ist kurz, aber ungeschützt.",
                 "hu": "A gyalogút a buszmegállótól a parkig rövid, de nincs fedve.",
                 "ro": "Drumul pe jos de la stația de autobuz la parc este scurt, dar neprotejat.",
-                "en": "The walk from the bus stop to the park is short but unsheltered."
+                "en": "The walk from the bus stop to the park is short but unsheltered.",
+                "el": "Ο περίπατος από τη στάση στο πάρκο είναι σύντομος αλλά ακάλυπτος."
               }
             }
           ],
@@ -1966,6 +2122,13 @@
               "Have small change ready for the bus ticket to speed up boarding.",
               "The KTEL station in Karpenisi has a covered waiting area.",
               "Use local taxi apps as a backup if the rain becomes too heavy."
+            ],
+            "el": [
+              "Τα ορεινά λεωφορεία ενδέχεται να έχουν καθυστερήσεις σε ισχυρή βροχή.",
+              "Φορέστε αδιάβροχα παπούτσια για τους περιπάτους ανάμεσα στις στάσεις και τους προορισμούς.",
+              "Έχετε μικρό χαρτί έτοιμο για το εισιτήριο του λεωφορείου για να επιταχύνετε την επιβίβαση.",
+              "Ο σταθμός ΚΤΕΛ στην Καρπενήσι διαθέτει στεγασμένο χώρο αναμονής.",
+              "Χρησιμοποιήστε τοπικές εφαρμογές ταξί ως εναλλακτική αν η βροχή γίνει πολύ δυνατή."
             ]
           }
         },
@@ -1974,7 +2137,8 @@
             "de": "Karpenisi mit dem Bus im Winter ist eine gemütliche Art zu reisen. Der Morgen am Zentralplatz beginnt frostig; die Busse sind gut beheizt und bieten eine warme Zuflucht.\n\nMittags führt die Fahrt nach Koryschades. Die Aussicht aus dem Busfenster auf die verschneiten Bergdörfer ist spektakulär. Die Kathedrale bietet einen ruhigen Moment der Wärme.\n\nNachmittags ist der Besuch im Volkskundemuseum ein Highlight, bevor man den Bus zurück ins Zentrum nimmt. Die Winterdämmerung setzt früh ein und hüllt die Stadt in ein sanftes Licht.\n\nDer Tag endet im Saloon Park, wo man die winterliche Ruhe genießt, bevor der letzte Bus zurück zum Zentralplatz fährt.",
             "hu": "Karpenisi felfedezése busszal télen kényelmes utazási mód. A reggel a központi téren fagyos; a buszok jól fűtöttek, meleg menedéket nyújtanak.\n\nDélben az út Koryschadesbe vezet. A busz ablakából nyíló kilátás a havas hegyi falvakra látványos. A székesegyház csendes, meleg pillanatot kínál.\n\nDélután a Néprajzi Múzeum látogatása a csúcspont, mielőtt busszal visszatérne a központba. A téli szürkület korán beáll, lágy fénybe öltöztetve a várost.\n\nA nap a Saloon Parkban zárul, ahol élvezheti a téli nyugalmat, mielőtt az utolsó busz visszaindulna a központi térre.",
             "ro": "Explorarea Karpenisi-ului cu autobuzul iarna este un mod confortabil de a călători. Dimineața în Piața Centrală începe geroasă; autobuzele sunt bine încălzite și oferă un refugiu cald.\n\nLa prânz, traseul duce spre Koryschades. Priveliștea de la fereastra autobuzului asupra satelor de munte înzăpezite este spectaculoasă. Catedrala oferă un moment de liniște și căldură.\n\nDupă-amiaza, vizita la Muzeul de Folclor este un punct culminant înainte de a lua autobuzul înapoi spre centru. Amurgul de iarnă se instalează devreme, îmbrăcând orașul într-o lumină blândă.\n\nZiua se încheie în Saloon Park, unde vă puteți bucura de liniștea iernatică înainte ca ultimul autobuz să plece spre Piața Centrală.",
-            "en": "Exploring Karpenisi by bus in winter is a cozy way to travel. The morning at the Central Square begins frostily; the buses are well-heated and offer a warm refuge.\n\nAt noon, the ride leads to Koryschades. The view from the bus window of the snow-covered mountain villages is spectacular. The cathedral offers a quiet moment of warmth.\n\nIn the afternoon, a visit to the Folklore Museum is a highlight before taking the bus back to the center. Winter twilight sets in early, wrapping the city in soft light.\n\nThe day ends at Saloon Park, where you can enjoy the winter peace before the last bus departs for the Central Square."
+            "en": "Exploring Karpenisi by bus in winter is a cozy way to travel. The morning at the Central Square begins frostily; the buses are well-heated and offer a warm refuge.\n\nAt noon, the ride leads to Koryschades. The view from the bus window of the snow-covered mountain villages is spectacular. The cathedral offers a quiet moment of warmth.\n\nIn the afternoon, a visit to the Folklore Museum is a highlight before taking the bus back to the center. Winter twilight sets in early, wrapping the city in soft light.\n\nThe day ends at Saloon Park, where you can enjoy the winter peace before the last bus departs for the Central Square.",
+            "el": "Η εξερεύνηση της Καρπενησίου με λεωφορείο το χειμώνα είναι ένας ζεστός τρόπος ταξιδιού. Το πρωί στην Κεντρική Πλατεία ξεκινά ψυχρά· τα λεωφορεία είναι καλά θερμαινόμενα και προσφέρουν ζεστό χώρο καταφυγής.\n\nΤο μεσημέρι, η διαδρομή οδηγεί στους Κορυσχάδες. Η θέα από το παράθυρο του λεωφορείου με τα χιονισμένα ορεινά χωριά είναι εντυπωσιακή. Ο καθεδρικός προσφέρει μια ήσυχη στιγμή ζεστασιάς.\n\nΤο απόγευμα, η επίσκεψη στο Λαογραφικό Μουσείο είναι κορυφαία πριν επιστρέψετε στο κέντρο με λεωφορείο. Το χειμωνιάτικο λυκόφως έρχεται νωρίς, τυλίγοντας την πόλη σε απαλό φως.\n\nΗ μέρα κλείνει στο Πάρκο Σαλούν, όπου μπορείτε να απολαύσετε τη χειμερινή ηρεμία πριν το τελευταίο λεωφορείο αναχωρήσει για την Κεντρική Πλατεία."
           },
           "stops": [
             {
@@ -1983,7 +2147,8 @@
                 "de": "Warten Sie im Innenraum der KTEL-Station, um nicht in der Kälte zu stehen.",
                 "hu": "Várjon a KTEL állomás belső terében, hogy ne kelljen a hidegben állnia.",
                 "ro": "Așteptați în interiorul stației KTEL pentru a nu sta în frig.",
-                "en": "Wait inside the KTEL station to avoid standing in the cold."
+                "en": "Wait inside the KTEL station to avoid standing in the cold.",
+                "el": "Περιμένετε μέσα στον σταθμό ΚΤΕΛ για να αποφύγετε την παραμονή στο κρύο."
               }
             },
             {
@@ -1992,7 +2157,8 @@
                 "de": "Die Haltestelle befindet sich oft an einer windigen Ecke; warm anziehen.",
                 "hu": "A megálló gyakran szeles sarkon van; öltözzön melegen.",
                 "ro": "Stația se află adesea într-un colț vântos; îmbrăcați-vă gros.",
-                "en": "The stop is often on a windy corner; dress warmly."
+                "en": "The stop is often on a windy corner; dress warmly.",
+                "el": "Η στάση συχνά βρίσκεται σε ανεμώδη γωνία· ντυθείτε ζεστά."
               }
             },
             {
@@ -2001,7 +2167,8 @@
                 "de": "Bei starkem Schneefall können Busse Verspätung haben oder ausfallen.",
                 "hu": "Erős hóesésben a buszok késhetnek vagy kimaradhatnak.",
                 "ro": "În caz de ninsoare puternică, autobuzele pot avea întârzieri sau pot fi anulate.",
-                "en": "Buses may be delayed or cancelled during heavy snowfall."
+                "en": "Buses may be delayed or cancelled during heavy snowfall.",
+                "el": "Τα λεωφορεία μπορεί να καθυστερήσουν ή να ακυρωθούν κατά τη διάρκεια έντονης χιονόπτωσης."
               }
             },
             {
@@ -2010,7 +2177,8 @@
                 "de": "Kurzer Fußweg vom Bus, achten Sie auf geräumte Gehwege.",
                 "hu": "Rövid gyalogút a busztól, ügyeljen a takarított járdákra.",
                 "ro": "Drum scurt pe jos de la autobuz; atenție la trotuarele deszăpezite.",
-                "en": "Short walk from the bus; watch for cleared sidewalks."
+                "en": "Short walk from the bus; watch for cleared sidewalks.",
+                "el": "Σύντομος περίπατος από το λεωφορείο· προσέξτε για καθαρισμένα πεζοδρόμια."
               }
             },
             {
@@ -2019,7 +2187,8 @@
                 "de": "Prüfen Sie, ob der letzte Bus im Winter früher fährt.",
                 "hu": "Ellenőrizze, hogy télen korábban indul-e az utolsó busz.",
                 "ro": "Verificați dacă ultimul autobuz pleacă mai devreme iarna.",
-                "en": "Check if the last bus departs earlier in winter."
+                "en": "Check if the last bus departs earlier in winter.",
+                "el": "Ελέγξτε αν το τελευταίο λεωφορείο αναχωρεί νωρίτερα το χειμώνα."
               }
             }
           ],
@@ -2051,6 +2220,13 @@
               "Wear warm socks as it gets cold quickly while waiting at stops.",
               "Ask the bus driver about the road conditions towards Prousos.",
               "Plan for extra time as snowplows can slow down traffic."
+            ],
+            "el": [
+              "Τα δρομολόγια μπορεί να αλλάξουν εποχιακά· ελέγχετε την τρέχουσα έκδοση.",
+              "Τα λεωφορεία συνήθως δεν είναι υπερπλήρη το χειμώνα.",
+              "Φορέστε ζεστές κάλτσες καθώς κρυώνει γρήγορα περιμένοντας στις στάσεις.",
+              "Ρωτήστε τον οδηγό για την κατάσταση των δρόμων προς Προυσό.",
+              "Σχεδιάστε επιπλέον χρόνο καθώς τα αλατοπαπαγαλάκια μπορούν να καθυστερήσουν την κυκλοφορία."
             ]
           }
         }

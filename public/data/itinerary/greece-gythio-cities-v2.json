@@ -21,7 +21,8 @@
             "de": "Rathaus",
             "hu": "Városháza",
             "ro": "Primăria",
-            "en": "Town Hall"
+            "en": "Town Hall",
+            "el": "Δημαρχείο"
           },
           "coords": [
             22.565992,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die elegante neoklassizistische Architektur dieses städtischen Gebäudes und prüfen Sie die Anschlagtafel auf lokale Veranstaltungen.",
             "hu": "Csodálja meg ennek a középületnek az elegáns neoklasszikus építészetét, és nézze meg a hirdetőtáblán a helyi esti eseményeket.",
             "ro": "Admirați arhitectura neoclasică elegantă a acestei clădiri municipale și verificați panoul de anunțuri pentru evenimente locale.",
-            "en": "Admire the elegant neoclassical architecture of this municipal building, and check the notice board for any local evening events."
+            "en": "Admire the elegant neoclassical architecture of this municipal building, and check the notice board for any local evening events.",
+            "el": "Θαυμάστε την κομψή νεοκλασική αρχιτεκτονική αυτού του δημοτικού κτιρίου και ελέγξτε την πινακίδα ανακοινώσεων για τοπικές βραδινές εκδηλώσεις."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kulturzentrum der östlichen Mani",
             "hu": "Kelet-Mani Kulturális Központ",
             "ro": "Centrul de Cultură Mani de Est",
-            "en": "Center of Culture of Easter Mani"
+            "en": "Center of Culture of Easter Mani",
+            "el": "Κέντρο Πολιτισμού Ανατολικής Μάνης"
           },
           "coords": [
             22.564979,
@@ -59,7 +62,8 @@
             "de": "Entdecken Sie das reiche Erbe der Mani-Region in den Ausstellungen; nehmen Sie sich Zeit, die detaillierten historischen Tafeln zu lesen.",
             "hu": "Fedezze fel a Mani régió gazdag örökségét a kiállításokon keresztül; hagyjon időt a részletes történelmi táblák elolvasására.",
             "ro": "Descoperiți bogata moștenire a regiunii Mani prin exponatele sale; alocați timp suplimentar pentru a citi plăcile istorice detaliate.",
-            "en": "Discover the rich heritage and fierce independence of the Mani region through its exhibits; allow extra time to read the detailed historical plaques."
+            "en": "Discover the rich heritage and fierce independence of the Mani region through its exhibits; allow extra time to read the detailed historical plaques.",
+            "el": "Ανακαλύψτε την πλούσια κληρονομιά και την σθεναρή ανεξαρτησία της περιοχής της Μάνης μέσα από τις εκθέσεις· αφιερώστε επιπλέον χρόνο για να διαβάσετε τις λεπτομερείς ιστορικές επιγραφές."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "KhAIRE O KhAIRE ELEUThERA",
             "hu": "KhAIRE O KhAIRE ELEUThERA",
             "ro": "KhAIRE O KhAIRE ELEUThERA",
-            "en": "KhAIRE O KhAIRE ELEUThERA"
+            "en": "KhAIRE O KhAIRE ELEUThERA",
+            "el": "ΧΑΙΡΕ Ω ΧΑΙΡΕ ΕΛΕΥΘΕΡΑ"
           },
           "coords": [
             22.566357,
@@ -82,7 +87,8 @@
             "de": "Erweisen Sie diesem historischen Denkmal zur griechischen Unabhängigkeit Ihren Respekt, perfekt für eine kurze Fotopause während Ihres Spaziergangs.",
             "hu": "Tisztelegjen ennél a görög függetlenséget ünneplő történelmi emlékműnél, amely tökéletes egy gyors fotószünethez a séta során.",
             "ro": "Aduceți un omagiu la acest monument istoric care comemorează independența Greciei, perfect situat pentru o scurtă pauză foto.",
-            "en": "Pay your respects at this historical monument commemorating Greek independence, perfectly situated for a quick photo break during your walk."
+            "en": "Pay your respects at this historical monument commemorating Greek independence, perfectly situated for a quick photo break during your walk.",
+            "el": "Αφιερώστε τιμή σε αυτό το ιστορικό μνημείο που τιμά την ελληνική ανεξαρτησία, ιδανικό για μια σύντομη στάση για φωτογραφία κατά το περπάτημα."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Antikes Theater von Gythio",
             "hu": "Gíthiói Ókori Színház",
             "ro": "Teatrul Antic Gythio",
-            "en": "Arkhaio Theatro Gutheiou"
+            "en": "Arkhaio Theatro Gutheiou",
+            "el": "Αρχαίο Θέατρο Γυθείου"
           },
           "coords": [
             22.562641,
@@ -105,7 +112,8 @@
             "de": "Machen Sie eine Zeitreise in diesem erstaunlich intakten römischen Theater; tragen Sie festes Schuhwerk, da die antiken Steinstufen uneben sein können.",
             "hu": "Lépjen vissza az időben ebben a dombba vájt, meglepően ép római színházban; viseljen kényelmes cipőt, mivel a kövek egyenetlenek.",
             "ro": "Întoarceți-vă în timp la acest teatru roman surprinzător de intact sculptat în deal; purtați încălțăminte solidă, deoarece treptele de piatră sunt denivelate.",
-            "en": "Step back in time at this surprisingly intact Roman theater carved into the hill; wear sturdy shoes as the ancient stone steps can be uneven."
+            "en": "Step back in time at this surprisingly intact Roman theater carved into the hill; wear sturdy shoes as the ancient stone steps can be uneven.",
+            "el": "Κάντε ένα ταξίδι στο παρελθόν σε αυτό το εκπληκτικά καλά διατηρημένο ρωμαϊκό θέατρο σκαλισμένο στον λόφο· φορέστε στιβαρά παπούτσια καθώς τα αρχαία σκαλοπάτια μπορεί να είναι ανώμαλα."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Römische Bäder von Gythio",
             "hu": "Gíthiói Római Fürdők",
             "ro": "Băile Romane Gythio",
-            "en": "Romaiko Balaneio Gutheiou"
+            "en": "Romaiko Balaneio Gutheiou",
+            "el": "Ρωμαϊκό Βαλανείο Γυθείου"
           },
           "coords": [
             22.560835,
@@ -128,7 +137,8 @@
             "de": "Erkunden Sie die Überreste der antiken römischen Bäder, eine beeindruckende archäologische Stätte, an der Sie die Fußbodenheizung sehen können.",
             "hu": "Fedezze fel az ókori római fürdők romjait, egy lenyűgöző régészeti lelőhelyet, ahol még mindig látható a padlófűtési rendszer.",
             "ro": "Explorați rămășițele băilor romane antice, un sit arheologic impresionant unde încă mai puteți vedea sistemul de încălzire prin pardoseală.",
-            "en": "Explore the remains of the ancient Roman baths, an impressive archaeological site where you can still see the elaborate underfloor heating system."
+            "en": "Explore the remains of the ancient Roman baths, an impressive archaeological site where you can still see the elaborate underfloor heating system.",
+            "el": "Εξερευνήστε τα ερείπια των αρχαίων ρωμαϊκών λουτρών, ένα εντυπωσιακό αρχαιολογικό χώρο όπου μπορείτε ακόμη να δείτε το περίπλοκο σύστημα υπόγειας θέρμανσης."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Römisches Friedhof von Gythio",
             "hu": "Gíthiói Római Temető",
             "ro": "Cimitirul Roman Gythio",
-            "en": "Romaiko Nekrotapheio Gutheiou"
+            "en": "Romaiko Nekrotapheio Gutheiou",
+            "el": "Ρωμαϊκό Νεκροταφείο Γυθείου"
           },
           "coords": [
             22.559593,
@@ -151,7 +162,8 @@
             "de": "Schlendern Sie durch diesen faszinierenden antiken Friedhof mit klassischen Grabstrukturen, am besten am späten Nachmittag für dramatisches Licht.",
             "hu": "Sétáljon végig ezen a lenyűgöző ókori temetőn, hogy lássa a klasszikus sírszerkezeteket, ideális késő délután a drámai fényekhez.",
             "ro": "Plimbați-vă prin acest fascinant cimitir antic pentru a vedea structuri funerare clasice, vizitate ideal după-amiaza târziu pentru o lumină dramatică.",
-            "en": "Wander through this fascinating ancient cemetery to see classical burial structures, ideally visited in the late afternoon for dramatic lighting."
+            "en": "Wander through this fascinating ancient cemetery to see classical burial structures, ideally visited in the late afternoon for dramatic lighting.",
+            "el": "Περιπλανηθείτε σε αυτό το συναρπαστικό αρχαίο νεκροταφείο για να δείτε κλασικές ταφικές δομές· ιδανικά επισκέψιμο προς το αργό απόγευμα για δραματικό φωτισμό."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie Ihren Tag im Herzen von Gythio, starten Sie beim eleganten neoklassizistischen Rathaus und tauchen Sie in die lokalen Traditionen im Kulturzentrum ein.\n\nGegen Mittag spazieren Sie zu den historischen Denkmälern, vorbei an der Gedenkstatue, bevor Sie das antike römische Theater am Hang erreichen.\n\nVerbringen Sie Ihren Nachmittag damit, die Ruinen der römischen Bäder zu bewundern, ein faszinierender Einblick in das tägliche Leben der antiken Stadtbewohner.\n\nBeenden Sie Ihren Rundgang bei Sonnenuntergang am römischen Friedhof und denken Sie über das tiefe antike Erbe nach, das diese Küstenstadt durchdringt.",
         "hu": "Kezdje a napot Gíthio szívének felfedezésével, az elegáns neoklasszikus városházától indulva, majd merüljön el a helyi hagyományokban a kulturális központban.\n\nDélben sétáljon a történelmi emlékművek felé, elhaladva az emlékszobor mellett, mielőtt elérné a domboldalban megbúvó ókori római színházat.\n\nTöltse a délutánt a római fürdők romjainak megcsodálásával, amely lenyűgöző bepillantást nyújt az ókori városlakók mindennapi életébe.\n\nZárja gyalogos túráját a naplementében a római temetőnél, elgondolkodva a tengerparti várost átható mély ókori örökségen.",
         "ro": "Începeți ziua explorând inima orașului Gythio, pornind de la eleganta Primărie neoclasică și scufundându-vă în tradițiile locale la centrul cultural.\n\nPână la prânz, plimbați-vă spre monumentele istorice, trecând pe lângă statuia comemorativă înainte de a ajunge la teatrul roman antic ascuns în deal.\n\nPetreceți după-amiaza admirând ruinele Băilor Romane, o privire fascinantă asupra vieții de zi cu zi a locuitorilor antici ai orașului.\n\nÎncheiați turul pietonal la Cimitirul Roman la apus, reflectând la moștenirea antică profundă care pătrunde în acest oraș de coastă.",
-        "en": "Start your day exploring the heart of Gythio, beginning with the elegant neoclassical Town Hall and diving into local traditions at the cultural center.\n\nBy noon, wander towards the historic monuments, passing the commemorative statue before reaching the ancient Roman theater nestled in the hillside.\n\nSpend your afternoon marveling at the ruins of the Roman Baths, a fascinating glimpse into the daily life of the city's ancient inhabitants.\n\nConclude your walking tour at the Roman Cemetery as the sun sets, reflecting on the profound ancient legacy that permeates this coastal town."
+        "en": "Start your day exploring the heart of Gythio, beginning with the elegant neoclassical Town Hall and diving into local traditions at the cultural center.\n\nBy noon, wander towards the historic monuments, passing the commemorative statue before reaching the ancient Roman theater nestled in the hillside.\n\nSpend your afternoon marveling at the ruins of the Roman Baths, a fascinating glimpse into the daily life of the city's ancient inhabitants.\n\nConclude your walking tour at the Roman Cemetery as the sun sets, reflecting on the profound ancient legacy that permeates this coastal town.",
+        "el": "Ξεκινήστε την ημέρα σας εξερευνώντας την καρδιά του Γυθείου, ξεκινώντας από το κομψό νεοκλασικό Δημαρχείο και βυθιστείτε στις τοπικές παραδόσεις στο πολιτιστικό κέντρο.\n\nΜέχρι το μεσημέρι, περπατήστε προς τα ιστορικά μνημεία, περνώντας το επετειακό άγαλμα πριν φτάσετε στο αρχαίο ρωμαϊκό θέατρο που φωλιάζει στην πλαγιά του λόφου.\n\nΠεράστε το απόγευμά σας θαυμάζοντας τα ερείπια των Ρωμαϊκών Λουτρών, μια γοητευτική ματιά στην καθημερινή ζωή των αρχαίων κατοίκων της πόλης.\n\nΟλοκληρώστε την πεζοπορική σας περιήγηση στο Ρωμαϊκό Νεκροταφείο καθώς ο ήλιος δύει, σκεπτόμενοι την βαθιά αρχαία κληρονομιά που διαχέει αυτήν την παραθαλάσσια πόλη."
       },
       "variants": {
         "rainy": {
@@ -167,7 +180,8 @@
             "de": "Der Morgen beginnt geschützt unter den Arkaden des Rathauses. Mittags bietet das Kulturzentrum den perfekten trockenen Rückzugsort. Am Nachmittag erkunden wir die antiken Stätten mit dem Regenschirm, während die Steine glänzen. Der Abend klingt bei der maritimen Atmosphäre des Hafens gemütlich aus.",
             "hu": "A reggelt a városháza neoklasszicista védelmében kezdjük. Délben a kulturális központ belső terei nyújtanak menedéket az eső elől. Délután esernyővel járjuk be az ókori romokat, ügyelve a csúszós kövekre. Este a kikötő vizes kövein tükröződő fényekben gyönyörködünk.",
             "ro": "Dimineața începe la adăpostul primăriei neoclasice. La prânz, centrul cultural oferă refugiul perfect împotriva ploii. După-amiaza explorăm siturile antice cu umbrela, în timp ce pietrele devin lucioase. Seara se încheie cu atmosfera portului reflectată în asfaltul umed.",
-            "en": "The morning starts protected under the town hall's neoclassical arches. Midday provides a perfect dry retreat within the cultural center's halls. In the afternoon, explore ancient ruins with an umbrella as the stones glisten. The evening ends with the cozy harbor lights reflecting on wet pavement."
+            "en": "The morning starts protected under the town hall's neoclassical arches. Midday provides a perfect dry retreat within the cultural center's halls. In the afternoon, explore ancient ruins with an umbrella as the stones glisten. The evening ends with the cozy harbor lights reflecting on wet pavement.",
+            "el": "Το πρωί αρχίζει προστατευμένο υπό τους νεοκλασικούς θόλους του δημαρχείου. Το μεσημέρι προσφέρει ένα τέλειο στεγνό καταφύγιο στις αίθουσες του πολιτιστικού κέντρου. Το απόγευμα, εξερευνήστε τα αρχαία ερείπια με ομπρέλα καθώς οι πέτρες λαμπυρίζουν. Το βράδυ κλείνει με τα ζεστά φώτα του λιμανιού να αντανακλώνται στην βρεγμένη άσφαλτο."
           },
           "stops": [
             {
@@ -175,13 +189,15 @@
                 "de": "Rathaus",
                 "hu": "Városháza",
                 "ro": "Primăria",
-                "en": "Town Hall"
+                "en": "Town Hall",
+                "el": "Δημαρχείο"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Architektur unter dem Schutz des Vordachs, da der Platz bei Regen schnell rutschig werden kann und festes Schuhwerk erfordert.",
                 "hu": "Csodálja meg az épület homlokzatát az eresz alól, mivel a tér kövezete esőben rendkívül csúszóssá válik, így óvatos lépteket javasolunk.",
                 "ro": "Admirați arhitectura clădirii sub protecția streșinii, deoarece pavajul pieței devine foarte alunecos pe ploaie și necesită încălțăminte aderentă.",
-                "en": "Admire the building's facade from the safety of the porch, as the square's pavement becomes very slippery when wet and requires careful footing."
+                "en": "Admire the building's facade from the safety of the porch, as the square's pavement becomes very slippery when wet and requires careful footing.",
+                "el": "Θαυμάστε την πρόσοψη του κτιρίου από την ασφάλεια του προστεγασμένου πεζοδρομίου, καθώς το πλακόστρωτο της πλατείας γίνεται πολύ ολισθηρό όταν βραχεί και απαιτεί προσεκτικό πάτημα."
               }
             },
             {
@@ -189,13 +205,15 @@
                 "de": "Kulturzentrum der östlichen Mani",
                 "hu": "Kelet-Mani Kulturális Központ",
                 "ro": "Centrul de Cultură Mani de Est",
-                "en": "Center of Culture of Easter Mani"
+                "en": "Center of Culture of Easter Mani",
+                "el": "Κέντρο Πολιτισμού Ανατολικής Μάνης"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie diesen idealen Innenraum, um trocken in die Geschichte der Mani einzutauchen, während draußen der typische Mittelmeerregen niedergeht.",
                 "hu": "Használja ki ezt a kiváló fedett helyszínt, hogy szárazon merüljön el Mani történelmében, miközben odakint a tipikus mediterrán eső esik.",
                 "ro": "Profitați de acest spațiu interior excelent pentru a explora istoria regiunii Mani la uscat, în timp ce afară cade ploaia tipic mediteraneană.",
-                "en": "Take advantage of this excellent indoor location to dive into Mani's history while staying dry during the typical Mediterranean rain showers."
+                "en": "Take advantage of this excellent indoor location to dive into Mani's history while staying dry during the typical Mediterranean rain showers.",
+                "el": "Επωφεληθείτε από αυτήν την εξαιρετική εσωτερική τοποθεσία για να βυθιστείτε στην ιστορία της Μάνης παραμένοντας στεγνοί κατά τη διάρκεια των τυπικών μεσογειακών βροχών."
               }
             },
             {
@@ -203,13 +221,15 @@
                 "de": "KhAIRE O KhAIRE ELEUThERA",
                 "hu": "KhAIRE O KhAIRE ELEUThERA",
                 "ro": "KhAIRE O KhAIRE ELEUThERA",
-                "en": "KhAIRE O KhAIRE ELEUThERA"
+                "en": "KhAIRE O KhAIRE ELEUThERA",
+                "el": "ΧΑΙΡΕ Ω ΧΑΙΡΕ ΕΛΕΥΘΕΡΑ"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie das Denkmal kurz zwischen den Schauern und achten Sie auf die Gischt des Meeres, die den Boden zusätzlich befeuchten kann.",
                 "hu": "Látogassa meg az emlékművet két zápor között, és figyeljen a tenger felcsapó permetére, amely még vizesebbé teheti az amúgy is csúszós talajt.",
                 "ro": "Vizitați monumentul între reprizele de ploaie și fiți atenți la aerosolii mării care pot umezi suplimentar solul deja alunecos din zonă.",
-                "en": "Visit the monument between rain showers and watch out for sea spray, which can make the already wet ground even more treacherous to walk on."
+                "en": "Visit the monument between rain showers and watch out for sea spray, which can make the already wet ground even more treacherous to walk on.",
+                "el": "Επισκεφθείτε το μνημείο ανάμεσα στις βροχές και προσέξτε τα θαλασσινά σπρέι, που μπορούν να κάνουν το ήδη βρεγμένο έδαφος ακόμα πιο επικίνδυνα για περπάτημα."
               }
             },
             {
@@ -217,13 +237,15 @@
                 "de": "Antikes Theater von Gythio",
                 "hu": "Gíthiói Ókori Színház",
                 "ro": "Teatrul Antic Gythio",
-                "en": "Arkhaio Theatro Gutheiou"
+                "en": "Arkhaio Theatro Gutheiou",
+                "el": "Αρχαίο Θέατρο Γυθείου"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die antiken Stufen vom befestigten Weg aus, da das Gras zwischen den Ruinen bei Nässe sehr matschig und rutschig sein kann.",
                 "hu": "Nézze meg az ókori lépcsőket a kiépített útról, mivel a romok közötti füves terület esőben nagyon sárossá és bizonytalanná válhat.",
                 "ro": "Priviți treptele antice de pe drumul amenajat, deoarece zona cu iarbă dintre ruine poate deveni foarte noroioasă și instabilă pe timp de ploaie.",
-                "en": "View the ancient steps from the paved path, as the grassy areas between the ruins can become very muddy and unstable during heavy rainfall."
+                "en": "View the ancient steps from the paved path, as the grassy areas between the ruins can become very muddy and unstable during heavy rainfall.",
+                "el": "Δείτε τα αρχαία σκαλοπάτια από το πλακοστρωμένο μονοπάτι, καθώς οι χλοώδεις περιοχές ανάμεσα στα ερείπια μπορούν να γίνουν πολύ λασπώδεις και ασταθείς κατά τη διάρκεια της έντονης βροχής."
               }
             },
             {
@@ -231,13 +253,15 @@
                 "de": "Römische Bäder von Gythio",
                 "hu": "Gíthiói Római Fürdők",
                 "ro": "Băile Romane Gythio",
-                "en": "Romaiko Balaneio Gutheiou"
+                "en": "Romaiko Balaneio Gutheiou",
+                "el": "Ρωμαϊκό Βαλανείο Γυθείου"
               },
               "tip_5lang": {
                 "de": "Die Ruinen wirken im Regen besonders mystisch, aber halten Sie Ihren Regenschirm gut fest, da hier oft starke Windböen vom Meer her wehen.",
                 "hu": "A romok esőben különösen misztikus látványt nyújtanak, de fogja erősen az esernyőjét, mert a tenger felől gyakran érkeznek erős széllökések.",
                 "ro": "Ruinele oferă o priveliște mistică pe ploaie, dar țineți bine umbrela deoarece dinspre mare vin adesea rafale puternice de vânt în această zonă.",
-                "en": "The ruins look mystical in the rain, but hold your umbrella tightly as strong wind gusts often blow in from the sea in this exposed area."
+                "en": "The ruins look mystical in the rain, but hold your umbrella tightly as strong wind gusts often blow in from the sea in this exposed area.",
+                "el": "Τα ερείπια φαίνονται μυστηριώδη στη βροχή, αλλά κρατήστε γερά την ομπρέλα σας καθώς συχνά πνέουν δυνατοί άνεμοι από τη θάλασσα σε αυτήν την εκτεθειμένη περιοχή."
               }
             },
             {
@@ -245,13 +269,15 @@
                 "de": "Römisches Friedhof von Gythio",
                 "hu": "Gíthiói Római Temető",
                 "ro": "Cimitirul Roman Gythio",
-                "en": "Romaiko Nekrotapheio Gutheiou"
+                "en": "Romaiko Nekrotapheio Gutheiou",
+                "el": "Ρωμαϊκό Νεκροταφείο Γυθείου"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihren Spaziergang zügig vor dem nächsten Schauer und nutzen Sie die nahegelegenen Gebäude für einen letzten trockenen Unterstand.",
                 "hu": "Fejezze be a sétát gyorsan a következő zápor előtt, és használja a közeli épületek beugróit az utolsó száraz menedék gyanánt a visszaúton.",
                 "ro": "Încheiați plimbarea rapid înainte de următoarea aversă și folosiți intrările clădirilor din apropiere ca ultim refugiu uscat în drum spre casă.",
-                "en": "Finish your walk quickly before the next shower starts and use nearby building overhangs as a final dry shelter on your way back."
+                "en": "Finish your walk quickly before the next shower starts and use nearby building overhangs as a final dry shelter on your way back.",
+                "el": "Ολοκληρώστε τη βόλτα σας γρήγορα πριν ξεκινήσει η επόμενη μπόρα και χρησιμοποιήστε τα προεξέχοντα τμήματα κτιρίων ως τελικό στεγνό καταφύγιο στην επιστροφή σας."
               }
             }
           ]
@@ -261,7 +287,8 @@
             "de": "Der Wintermorgen am Hafen ist klar und erfrischend. Mittags wärmen wir uns bei den kulturellen Ausstellungen auf. Am Nachmittag sinkt die Sonne tief und taucht die antiken Steine in goldenes Licht. Da es gegen 17:00 Uhr dunkel wird, endet der Tag früh im gemütlichen Stadtzentrum.",
             "hu": "A téli reggel friss és tiszta a kikötőparton. Délben a kulturális központ fűtött tereiben melegszünk fel. Délután a lemenő nap aranyba öltözteti az ókori köveket. Mivel 17:00 körül sötétedik, a nap korán, a városközpont barátságos fényeiben ér véget.",
             "ro": "Dimineața de iarnă este clară și revigorantă pe malul mării. La prânz ne încălzim în spațiile încălzite ale centrului cultural. După-amiaza, soarele jos îmbracă pietrele antice în lumină aurie. Deoarece se întunecă la ora 17:00, ziua se încheie devreme în centrul orașului.",
-            "en": "The winter morning is crisp and clear along the waterfront. Midday is best spent warming up inside the cultural center's exhibitions. In the afternoon, the low sun paints the ancient stones gold. As dusk falls by 5 PM, the day ends early in the cozy city center."
+            "en": "The winter morning is crisp and clear along the waterfront. Midday is best spent warming up inside the cultural center's exhibitions. In the afternoon, the low sun paints the ancient stones gold. As dusk falls by 5 PM, the day ends early in the cozy city center.",
+            "el": "Το χειμωνιάτικο πρωί είναι δροσερό και καθαρό κατά μήκος της παραλίας. Το μεσημέρι είναι καλύτερο να το περάσετε ζεσταινόμενοι μέσα στις εκθέσεις του πολιτιστικού κέντρου. Το απόγευμα, ο χαμηλός ήλιος βάφει τις αρχαίες πέτρες χρυσές. Καθώς πέφτει το σούρουπο γύρω στις 17:00, η μέρα τελειώνει νωρίς στο ζεστό κέντρο της πόλης."
           },
           "stops": [
             {
@@ -269,13 +296,15 @@
                 "de": "Rathaus",
                 "hu": "Városháza",
                 "ro": "Primăria",
-                "en": "Town Hall"
+                "en": "Town Hall",
+                "el": "Δημαρχείο"
               },
               "tip_5lang": {
                 "de": "Tragen Sie eine windfeste Jacke, da der kalte Nordwind am Rathausplatz im Winter besonders spürbar ist, selbst wenn die Sonne scheint.",
                 "hu": "Viseljen szélálló kabátot, mert a hideg északi szél a városháza előtti téren télen nagyon átható tud lenni, még napsütésben is.",
                 "ro": "Purtați o jachetă rezistentă la vânt, deoarece vântul rece de nord în piața primăriei poate fi foarte tăios iarna, chiar și sub soare.",
-                "en": "Wear a windproof jacket, as the cold north wind in the town hall square can be very piercing during winter, even on sunny days."
+                "en": "Wear a windproof jacket, as the cold north wind in the town hall square can be very piercing during winter, even on sunny days.",
+                "el": "Φορέστε ένα αδιάβροχο/αντιανεμικό μπουφάν, καθώς ο ψυχρός βόρειος άνεμος στην πλατεία του δημαρχείου μπορεί να διαπεράσει πολύ κατά το χειμώνα, ακόμη και τις ηλιόλουστες ημέρες."
               }
             },
             {
@@ -283,13 +312,15 @@
                 "de": "Kulturzentrum der östlichen Mani",
                 "hu": "Kelet-Mani Kulturális Központ",
                 "ro": "Centrul de Cultură Mani de Est",
-                "en": "Center of Culture of Easter Mani"
+                "en": "Center of Culture of Easter Mani",
+                "el": "Κέντρο Πολιτισμού Ανατολικής Μάνης"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die angenehme Wärme im Inneren und nehmen Sie sich Zeit für die Exponate, während draußen die kühle Winterbrise weht.",
                 "hu": "Élvezze a kellemes belső meleget, és szánjon időt a kiállításokra, amíg odakint a hűvös téli szellő fúj a tengerpart mentén.",
                 "ro": "Bucurați-vă de căldura interioară plăcută și acordați timp exponatelor în timp ce afară adie briza răcoroasă de iarnă de-a lungul coastei.",
-                "en": "Enjoy the pleasant indoor warmth and take your time with the exhibits while the cool winter breeze blows outside along the coast."
+                "en": "Enjoy the pleasant indoor warmth and take your time with the exhibits while the cool winter breeze blows outside along the coast.",
+                "el": "Απολαύστε την ευχάριστη εσωτερική ζεστασιά και ξεναγηθείτε με ησυχία στις εκθέσεις ενώ ο δροσερός χειμωνιάτικος αεράς φυσάει έξω κατά μήκος της ακτής."
               }
             },
             {
@@ -297,13 +328,15 @@
                 "de": "KhAIRE O KhAIRE ELEUThERA",
                 "hu": "KhAIRE O KhAIRE ELEUThERA",
                 "ro": "KhAIRE O KhAIRE ELEUThERA",
-                "en": "KhAIRE O KhAIRE ELEUThERA"
+                "en": "KhAIRE O KhAIRE ELEUThERA",
+                "el": "ΧΑΙΡΕ Ω ΧΑΙΡΕ ΕΛΕΥΘΕΡΑ"
               },
               "tip_5lang": {
                 "de": "Das Monument bietet im tiefen Sonnenstand des Winters hervorragende Fotomotive, aber bleiben Sie in Bewegung, um nicht auszukühlen.",
                 "hu": "Az emlékmű a téli alacsony napállásnál kiváló fotótéma, de maradjon mozgásban a nyitott területen, hogy elkerülje a gyors lehűlést.",
                 "ro": "Monumentul oferă oportunități foto excelente sub soarele jos de iarnă, dar rămâneți în mișcare în zona deschisă pentru a nu îngheța.",
-                "en": "The monument offers excellent photo opportunities under the low winter sun, but keep moving in the open area to avoid getting chilled."
+                "en": "The monument offers excellent photo opportunities under the low winter sun, but keep moving in the open area to avoid getting chilled.",
+                "el": "Το μνημείο προσφέρει εξαιρετικές ευκαιρίες για φωτογραφίες υπό τον χαμηλό χειμωνιάτικο ήλιο, αλλά συνεχίστε να κινείστε στην ανοιχτή περιοχή για να μην κρυώσετε."
               }
             },
             {
@@ -311,13 +344,15 @@
                 "de": "Antikes Theater von Gythio",
                 "hu": "Gíthiói Ókori Színház",
                 "ro": "Teatrul Antic Gythio",
-                "en": "Arkhaio Theatro Gutheiou"
+                "en": "Arkhaio Theatro Gutheiou",
+                "el": "Αρχαίο Θέατρο Γυθείου"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie das Theater am frühen Nachmittag, um die letzten wärmenden Sonnenstrahlen einzufangen, bevor die Hügel lange Schatten werfen.",
                 "hu": "Látogassa meg a színházat kora délután, hogy elkapja az utolsó melengető napsugarakat, mielőtt a dombok hosszú árnyékot vetnének a romokra.",
                 "ro": "Vizitați teatrul la începutul după-amiezii pentru a prinde ultimele raze calde de soare, înainte ca dealurile să arunce umbre lungi.",
-                "en": "Visit the theater in the early afternoon to catch the last warming sunbeams before the hills cast long shadows over the ancient site."
+                "en": "Visit the theater in the early afternoon to catch the last warming sunbeams before the hills cast long shadows over the ancient site.",
+                "el": "Επισκεφθείτε το θέατρο νωρίς το απόγευμα για να προλάβετε τις τελευταίες ζεστές ηλιαχτίδες πριν οι λόφοι ρίξουν μακριές σκιές πάνω στον αρχαίο χώρο."
               }
             },
             {
@@ -325,13 +360,15 @@
                 "de": "Römische Bäder von Gythio",
                 "hu": "Gíthiói Római Fürdők",
                 "ro": "Băile Romane Gythio",
-                "en": "Romaiko Balaneio Gutheiou"
+                "en": "Romaiko Balaneio Gutheiou",
+                "el": "Ρωμαϊκό Βαλανείο Γυθείου"
               },
               "tip_5lang": {
                 "de": "Die antiken Steine strahlen im Winter kaum Wärme aus; ziehen Sie sich deshalb eine zusätzliche Schicht an, wenn Sie die Anlage erkunden.",
                 "hu": "Az ókori kövek télen alig sugároznak hőt, ezért vegyen fel egy plusz réteg ruhát, mielőtt alaposabban felfedezné ezt a nyitott területet.",
                 "ro": "Pietrele antice nu radiază căldură iarna, așa că puneți un strat suplimentar de haine înainte de a explora mai mult această zonă deschisă.",
-                "en": "The ancient stones radiate very little heat in winter, so put on an extra layer of clothing before exploring this open site thoroughly."
+                "en": "The ancient stones radiate very little heat in winter, so put on an extra layer of clothing before exploring this open site thoroughly.",
+                "el": "Οι αρχαίες πέτρες εκπέμπουν πολύ λίγη θερμότητα το χειμώνα, οπότε βάλτε ένα επιπλέον στρώμα ρούχων πριν εξερευνήσετε διεξοδικά αυτόν τον ανοιχτό χώρο."
               }
             },
             {
@@ -339,13 +376,15 @@
                 "de": "Römisches Friedhof von Gythio",
                 "hu": "Gíthiói Római Temető",
                 "ro": "Cimitirul Roman Gythio",
-                "en": "Romaiko Nekrotapheio Gutheiou"
+                "en": "Romaiko Nekrotapheio Gutheiou",
+                "el": "Ρωμαϊκό Νεκροταφείο Γυθείου"
               },
               "tip_5lang": {
                 "de": "Planen Sie Ihren Besuch vor 16:30 Uhr ein, da die Dämmerung im Winter sehr schnell einsetzt und der Rückweg zum Zentrum unbeleuchtet sein kann.",
                 "hu": "Tervezze a látogatást 16:30 előttre, mert a szürkület télen nagyon gyorsan leszáll, és a központba vezető út helyenként sötét lehet.",
                 "ro": "Planificați vizita înainte de ora 16:30, deoarece amurgul se lasă foarte repede iarna, iar drumul spre centru poate fi neiluminat.",
-                "en": "Plan your visit before 4:30 PM, as twilight sets in very quickly in winter and the path back to the center might be poorly lit."
+                "en": "Plan your visit before 4:30 PM, as twilight sets in very quickly in winter and the path back to the center might be poorly lit.",
+                "el": "Σχεδιάστε την επίσκεψή σας πριν τις 16:30, καθώς το σούρουπο έρχεται πολύ γρήγορα το χειμώνα και το μονοπάτι επιστροφής προς το κέντρο μπορεί να είναι ανεπαρκώς φωτισμένο."
               }
             }
           ]
@@ -365,7 +404,8 @@
             "de": "Antikes Theater von Gythio",
             "hu": "Gíthiói Ókori Színház",
             "ro": "Teatrul Antic Gythio",
-            "en": "Arkhaio Theatro Gutheiou"
+            "en": "Arkhaio Theatro Gutheiou",
+            "el": "Αρχαίο Θέατρο Γυθείου"
           },
           "coords": [
             22.562641,
@@ -380,7 +420,8 @@
             "de": "Machen Sie eine Zeitreise in diesem erstaunlich intakten römischen Theater; tragen Sie festes Schuhwerk, da die antiken Steinstufen uneben sein können.",
             "hu": "Lépjen vissza az időben ebben a dombba vájt, meglepően ép római színházban; viseljen kényelmes cipőt, mivel a kövek egyenetlenek.",
             "ro": "Întoarceți-vă în timp la acest teatru roman surprinzător de intact sculptat în deal; purtați încălțăminte solidă, deoarece treptele de piatră sunt denivelate.",
-            "en": "Step back in time at this surprisingly intact Roman theater carved into the hill; wear sturdy shoes as the ancient stone steps can be uneven."
+            "en": "Step back in time at this surprisingly intact Roman theater carved into the hill; wear sturdy shoes as the ancient stone steps can be uneven.",
+            "el": "Κάντε ένα ταξίδι στο παρελθόν σε αυτό το εκπληκτικά καλά διατηρημένο ρωμαϊκό θέατρο σκαλισμένο στον λόφο· φορέστε στιβαρά παπούτσια καθώς τα αρχαία σκαλοπάτια μπορεί να είναι ανώμαλα."
           }
         },
         {
@@ -388,7 +429,8 @@
             "de": "Kulturzentrum der östlichen Mani",
             "hu": "Kelet-Mani Kulturális Központ",
             "ro": "Centrul de Cultură Mani de Est",
-            "en": "Center of Culture of Easter Mani"
+            "en": "Center of Culture of Easter Mani",
+            "el": "Κέντρο Πολιτισμού Ανατολικής Μάνης"
           },
           "coords": [
             22.564979,
@@ -403,7 +445,8 @@
             "de": "Entdecken Sie das reiche Erbe der Mani-Region in den Ausstellungen; nehmen Sie sich Zeit, die detaillierten historischen Tafeln zu lesen.",
             "hu": "Fedezze fel a Mani régió gazdag örökségét a kiállításokon keresztül; hagyjon időt a részletes történelmi táblák elolvasására.",
             "ro": "Descoperiți bogata moștenire a regiunii Mani prin exponatele sale; alocați timp suplimentar pentru a citi plăcile istorice detaliate.",
-            "en": "Discover the rich heritage and fierce independence of the Mani region through its exhibits; allow extra time to read the detailed historical plaques."
+            "en": "Discover the rich heritage and fierce independence of the Mani region through its exhibits; allow extra time to read the detailed historical plaques.",
+            "el": "Ανακαλύψτε την πλούσια κληρονομιά και την σθεναρή ανεξαρτησία της περιοχής της Μάνης μέσα από τις εκθέσεις· αφιερώστε επιπλέον χρόνο για να διαβάσετε τις λεπτομερείς ιστορικές επιγραφές."
           }
         },
         {
@@ -411,7 +454,8 @@
             "de": "Rathaus",
             "hu": "Városháza",
             "ro": "Primăria",
-            "en": "Town Hall"
+            "en": "Town Hall",
+            "el": "Δημαρχείο"
           },
           "coords": [
             22.565992,
@@ -426,7 +470,8 @@
             "de": "Bewundern Sie die elegante neoklassizistische Architektur dieses städtischen Gebäudes und prüfen Sie die Anschlagtafel auf lokale Veranstaltungen.",
             "hu": "Csodálja meg ennek a középületnek az elegáns neoklasszikus építészetét, és nézze meg a hirdetőtáblán a helyi esti eseményeket.",
             "ro": "Admirați arhitectura neoclasică elegantă a acestei clădiri municipale și verificați panoul de anunțuri pentru evenimente locale.",
-            "en": "Admire the elegant neoclassical architecture of this municipal building, and check the notice board for any local evening events."
+            "en": "Admire the elegant neoclassical architecture of this municipal building, and check the notice board for any local evening events.",
+            "el": "Θαυμάστε την κομψή νεοκλασική αρχιτεκτονική αυτού του δημοτικού κτιρίου και ελέγξτε την πινακίδα ανακοινώσεων για τοπικές βραδινές εκδηλώσεις."
           }
         },
         {
@@ -434,7 +479,8 @@
             "de": "Agios Georgios",
             "hu": "Agios Georgios",
             "ro": "Agios Georgios",
-            "en": "Agios Georgios"
+            "en": "Agios Georgios",
+            "el": "Άγιος Γεώργιος"
           },
           "coords": [
             22.56923,
@@ -449,7 +495,8 @@
             "de": "Genießen Sie einen Moment der Ruhe in dieser traditionellen orthodoxen Kirche und beachten Sie die schöne Ikonographie im Inneren.",
             "hu": "Élvezze a béke pillanatát ebben a hagyományos ortodox templomban, és figyelje meg a bensőséges belső teret díszítő gyönyörű ikonográfiát.",
             "ro": "Bucurați-vă de un moment de pace în această biserică ortodoxă tradițională și remarcați iconografia frumoasă care îi decorează interiorul intim.",
-            "en": "Enjoy a moment of peace in this traditional Orthodox church, and take note of the beautiful iconography decorating its intimate interior."
+            "en": "Enjoy a moment of peace in this traditional Orthodox church, and take note of the beautiful iconography decorating its intimate interior.",
+            "el": "Απολαύστε μια στιγμή γαλήνης σε αυτήν την παραδοσιακή ορθόδοξη εκκλησία και προσέξτε την όμορφη αγιογραφία που διακοσμεί το οικείο εσωτερικό της."
           }
         },
         {
@@ -457,7 +504,8 @@
             "de": "Tzanetaki-Turm",
             "hu": "Tzanetaki-torony",
             "ro": "Turnul Tzanetaki",
-            "en": "Tzanetaki Tower"
+            "en": "Tzanetaki Tower",
+            "el": "Πύργος Τζανετάκη"
           },
           "coords": [
             22.573148,
@@ -472,7 +520,8 @@
             "de": "Steigen Sie die Treppen dieses massiven Turmmuseums auf der Insel Marathonisi hinauf, um in die lokale Folklore einzutauchen.",
             "hu": "Mássza meg ennek az erős toronymúzeumnak a lépcsőit a Marathonisi-szigeten, hogy elmélyedjen a helyi folklórban és élvezze a kilátást.",
             "ro": "Urcați scările acestui robust turn-muzeu de pe insula Marathonisi pentru o incursiune în folclorul local și vederi impresionante asupra portului.",
-            "en": "Climb the stairs of this robust tower-museum on Marathonisi island for a deep dive into local folklore and commanding views of the harbor."
+            "en": "Climb the stairs of this robust tower-museum on Marathonisi island for a deep dive into local folklore and commanding views of the harbor.",
+            "el": "Ανεβείτε τις σκάλες αυτού του στιβαρού πύργου-μουσείου στο νησί Μαραθονήσι για μια βαθιά γνωριμία με την τοπική λαογραφία και πανοραμικές θέες του λιμανιού."
           }
         },
         {
@@ -480,7 +529,8 @@
             "de": "Leuchtturm von Gythio",
             "hu": "Gíthiói Világítótorony",
             "ro": "Farul Gythio",
-            "en": "Gythio Lighthouse"
+            "en": "Gythio Lighthouse",
+            "el": "Φάρος Γυθείου"
           },
           "coords": [
             22.575774,
@@ -495,7 +545,8 @@
             "de": "Gehen Sie zu diesem historischen achteckigen Leuchtturm aus dem Jahr 1873, einem ikonischen Wahrzeichen mit perfekter Kulisse für Meerblicke.",
             "hu": "Sétáljon ki ehhez az 1873-ban épült, történelmi nyolcszögletű világítótoronyhoz, amely ikonikus helyi mérföldkő tengeri kilátással.",
             "ro": "Mergeți spre acest far octogonal istoric construit în 1873, un punct de reper local iconic care oferă un fundal perfect pentru vederi la mare.",
-            "en": "Walk out to this historic octagonal lighthouse built in 1873, an iconic local landmark offering the perfect backdrop for memorable sea views."
+            "en": "Walk out to this historic octagonal lighthouse built in 1873, an iconic local landmark offering the perfect backdrop for memorable sea views.",
+            "el": "Περπατήστε μέχρι αυτόν τον ιστορικό οκτάγωνο φάρο, που χτίστηκε το 1873, ένα εμβληματικό τοπικό σημάδι προσφέροντας τέλειο φόντο για αξέχαστες θαλάσσιες θέες."
           }
         }
       ],
@@ -503,7 +554,8 @@
         "de": "Starten Sie Ihr Radabenteuer am antiken Theater, bevor Sie entspannt zum Kulturzentrum und zum ikonischen Rathaus radeln.\n\nGleiten Sie entlang der Uferpromenade zur malerischen Kirche Agios Georgios und genießen Sie die erfrischende Meeresbrise auf dem Weg zur Insel Marathonisi.\n\nÜberqueren Sie den Damm, um den faszinierenden Tzanetaki-Turm zu erkunden, eine traditionelle Mani-Festung, die heute als historisches Museum dient.\n\nBeenden Sie Ihre Tour am wunderschönen Leuchtturm von Gythio, dem perfekten Ort, um zu beobachten, wie die Sonne über dem Lakonischen Golf untergeht.",
         "hu": "Indítsa kerékpáros kalandját az ókori színháznál, mielőtt könnyedén eltekerne a kulturális központig és az ikonikus városházáig.\n\nSikoljon végig a vízparton a festői Agios Georgios templomig, élvezve a frissítő tengeri szellőt a Marathonisi-sziget felé haladva.\n\nKeljen át a töltésen, hogy felfedezze a lenyűgöző Tzanetaki-tornyot, egy hagyományos mani erődöt, amely ma kiváló történelmi múzeumként működik.\n\nFejezze be a napi kerékpározást a gyönyörű gíthiói világítótoronynál, amely tökéletes hely a Lakóniai-öböl feletti naplemente megtekintésére.",
         "ro": "Începeți aventura pe bicicletă la teatrul antic înainte de a pedala ușor către centrul cultural și emblematica Primărie.\n\nAlunecați de-a lungul coastei până la biserica pitorească Agios Georgios, bucurându-vă de briza mării în timp ce pedalați spre insula Marathonisi.\n\nTraversați digul pentru a explora captivantul Turn Tzanetaki, o fortăreață tradițională din Mani, care acum servește ca un excelent muzeu istoric.\n\nÎncheiați plimbarea zilei la frumosul Far din Gythio, locul perfect pentru a privi soarele coborând sub orizont peste Golful Laconian.",
-        "en": "Kick off your cycling adventure at the ancient theater before pedaling smoothly to the cultural center and the iconic Town Hall.\n\nGlide along the waterfront to the picturesque Agios Georgios church, enjoying the refreshing sea breeze as you cycle towards Marathonisi island.\n\nCross the causeway to explore the captivating Tzanetaki Tower, a traditional Mani stronghold now serving as an excellent historical museum.\n\nEnd your day's ride at the beautiful Gythio Lighthouse, the perfect spot to watch the sun dip below the horizon over the Laconian Gulf."
+        "en": "Kick off your cycling adventure at the ancient theater before pedaling smoothly to the cultural center and the iconic Town Hall.\n\nGlide along the waterfront to the picturesque Agios Georgios church, enjoying the refreshing sea breeze as you cycle towards Marathonisi island.\n\nCross the causeway to explore the captivating Tzanetaki Tower, a traditional Mani stronghold now serving as an excellent historical museum.\n\nEnd your day's ride at the beautiful Gythio Lighthouse, the perfect spot to watch the sun dip below the horizon over the Laconian Gulf.",
+        "el": "Ξεκινήστε την ποδηλατική σας περιπέτεια από το αρχαίο θέατρο πριν ποδηλατήσετε ομαλά προς το πολιτιστικό κέντρο και το εμβληματικό Δημαρχείο.\n\nΓλιστρήστε κατά μήκος της παραλίας προς την γραφική εκκλησία του Αγίου Γεωργίου, απολαμβάνοντας το δροσερό θαλασσινό αεράκι καθώς ποδηλατείτε προς το νησί Μαραθονήσι.\n\nΔιασχίστε την αιχμή για να εξερευνήσετε τον μαγευτικό Πύργο Τζανετάκη, ένα παραδοσιακό μανιάτικο οχυρό που τώρα λειτουργεί ως εξαιρετικό ιστορικό μουσείο.\n\nΤέλος της διαδρομής σας στην όμορφη Φάρο του Γυθείου, το τέλειο σημείο για να δείτε τον ήλιο να βυθίζεται κάτω από τον Λακωνικό Κόλπο."
       },
       "variants": {
         "rainy": {
@@ -511,7 +563,8 @@
             "de": "Der Radmorgen startet vorsichtig auf den glatten Wegen zum Theater. Mittags bietet das Kulturzentrum eine willkommene Pause im Trockenen. Am Nachmittag radeln wir entlang der Küste, wobei wir Pfützen und Gischt trotzen. Der Abend endet nach einer kurzen, nassen Tour sicher zurück im Ort.",
             "hu": "A kerékpáros reggel óvatosan indul a színház felé a csúszós aszfalton. Délben a kulturális központban tartunk pihenőt a záporok elől. Délután a part mentén tekerünk, kerülgetve a pocsolyákat és a felcsapó hullámokat. A nap végén a vizes felszerelést a szálláson szárítjuk meg.",
             "ro": "Dimineața pe bicicletă începe cu prudență pe drumul alunecos spre teatru. La prânz, centrul cultural oferă o pauză binemeritată la uscat. După-amiaza pedalăm de-a lungul coastei, evitând bălțile și valurile. Ziua se încheie cu uscarea echipamentului ud la cazare.",
-            "en": "The cycling morning starts cautiously on slippery paths towards the theater. Midday offers a welcome dry break at the cultural center. In the afternoon, pedal along the coast while dodging puddles and sea spray. The day ends early as we dry off our gear back at the starting point."
+            "en": "The cycling morning starts cautiously on slippery paths towards the theater. Midday offers a welcome dry break at the cultural center. In the afternoon, pedal along the coast while dodging puddles and sea spray. The day ends early as we dry off our gear back at the starting point.",
+            "el": "Το ποδηλατικό πρωινό ξεκινά με προσοχή σε ολισθηρά μονοπάτια προς το θέατρο. Το μεσημέρι προσφέρει ένα ευπρόσδεκτο στεγνό διάλειμμα στο πολιτιστικό κέντρο. Το απόγευμα, ποδηλατήστε κατά μήκος της ακτής αποφεύγοντας λακκούβες και θαλασσινό σπρέι. Η μέρα τελειώνει νωρίς καθώς στεγνώνουμε τον εξοπλισμό πίσω στο σημείο εκκίνησης."
           },
           "stops": [
             {
@@ -519,13 +572,15 @@
                 "de": "Antikes Theater von Gythio",
                 "hu": "Gíthiói Ókori Színház",
                 "ro": "Teatrul Antic Gythio",
-                "en": "Arkhaio Theatro Gutheiou"
+                "en": "Arkhaio Theatro Gutheiou",
+                "el": "Αρχαίο Θέατρο Γυθείου"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad auf festem Grund und achten Sie beim Begehen der antiken Steine auf extreme Rutschgefahr durch Algen und Nässe.",
                 "hu": "Parkolja le kerékpárját szilárd talajon, és az ókori kövek közötti séta közben ügyeljen az algák és a víz okozta fokozott csúszásveszélyre.",
                 "ro": "Parcați bicicleta pe teren solid și fiți atenți la riscul crescut de alunecare pe pietrele antice din cauza algelor și a umezelii constante.",
-                "en": "Park your bike on solid ground and be very careful when walking among ancient stones, as wet moss and algae make them extremely slippery."
+                "en": "Park your bike on solid ground and be very careful when walking among ancient stones, as wet moss and algae make them extremely slippery.",
+                "el": "Παρκάρετε το ποδήλατό σας σε στεγνή, συμπαγή επιφάνεια και προσέξτε πολύ όταν περπατάτε ανάμεσα στα αρχαία λιθάρια, καθώς βρύα και άλγη που είναι βρεγμένα τα κάνουν εξαιρετικά ολισθηρά."
               }
             },
             {
@@ -533,13 +588,15 @@
                 "de": "Kulturzentrum der östlichen Mani",
                 "hu": "Kelet-Mani Kulturális Központ",
                 "ro": "Centrul de Cultură Mani de Est",
-                "en": "Center of Culture of Easter Mani"
+                "en": "Center of Culture of Easter Mani",
+                "el": "Κέντρο Πολιτισμού Ανατολικής Μάνης"
               },
               "tip_5lang": {
                 "de": "Dies ist der ideale Ort, um die Regenkleidung kurz zu lüften und sich im Trockenen über die lokale Geschichte zu informieren.",
                 "hu": "Ez az ideális helyszín az esőruházat rövid szellőztetésére, miközben a fedett térben kényelmesen tájékozódik a helyi történelemről.",
                 "ro": "Acesta este locul ideal pentru a vă aerisi scurt echipamentul de ploaie în timp ce vă informați despre istoria locală la adăpost.",
-                "en": "This is the ideal place to briefly air out your rain gear while you learn about local history in a comfortable, dry environment."
+                "en": "This is the ideal place to briefly air out your rain gear while you learn about local history in a comfortable, dry environment.",
+                "el": "Αυτός είναι ο ιδανικός χώρος για να αερίσετε για λίγο τον βρεγμένο εξοπλισμό σας ενώ μαθαίνετε την τοπική ιστορία σε άνετο, στεγνό περιβάλλον."
               }
             },
             {
@@ -547,13 +604,15 @@
                 "de": "Rathaus",
                 "hu": "Városháza",
                 "ro": "Primăria",
-                "en": "Town Hall"
+                "en": "Town Hall",
+                "el": "Δημαρχείο"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den überdachten Bereich des Rathauses für einen schnellen Check Ihrer Bremsen, da nasse Felgen einen längeren Bremsweg bedeuten.",
                 "hu": "Használja ki a városháza fedett részeit a fékek gyors ellenőrzésére, mivel a vizes felnik jelentősen megnövelik a megállási távolságot.",
                 "ro": "Folosiți zonele acoperite ale primăriei pentru o verificare rapidă a frânelor, deoarece jantele ude măresc considerabil distanța de frânare.",
-                "en": "Use the sheltered areas of the town hall for a quick brake check, as wet rims significantly increase your stopping distance on the road."
+                "en": "Use the sheltered areas of the town hall for a quick brake check, as wet rims significantly increase your stopping distance on the road.",
+                "el": "Χρησιμοποιήστε τα στεγασμένα τμήματα του δημαρχείου για έναν γρήγορο έλεγχο των φρένων, καθώς οι βρεγμένες ζάντες αυξάνουν σημαντικά την απόσταση ακινητοποίησης στο δρόμο."
               }
             },
             {
@@ -561,13 +620,15 @@
                 "de": "Agios Georgios",
                 "hu": "Agios Georgios",
                 "ro": "Agios Georgios",
-                "en": "Agios Georgios"
+                "en": "Agios Georgios",
+                "el": "Άγιος Γεώργιος"
               },
               "tip_5lang": {
                 "de": "Der Anstieg zur Kirche kann bei Regen rutschig sein; schalten Sie in einen niedrigen Gang und vermeiden Sie plötzliches Bremsen in den Kurven.",
                 "hu": "A templomhoz vezető emelkedő esőben csúszós lehet; váltson alacsonyabb sebességfokozatba, és kerülje a hirtelen fékezést a kanyarokban.",
                 "ro": "Urcarea spre biserică poate fi alunecoasă pe ploaie; treceți într-o treaptă inferioară și evitați frânarea bruscă în curbele strânse.",
-                "en": "The climb to the church can be slippery in the rain; switch to a lower gear and avoid sudden braking while navigating the slick turns."
+                "en": "The climb to the church can be slippery in the rain; switch to a lower gear and avoid sudden braking while navigating the slick turns.",
+                "el": "Η ανάβαση προς την εκκλησία μπορεί να γίνει ολισθηρή στη βροχή· αλλάξτε σε χαμηλότερη σχέση και αποφύγετε απότομο φρενάρισμα κατά τη διεύθυνση των υγρών στροφών."
               }
             },
             {
@@ -575,13 +636,15 @@
                 "de": "Tzanetaki-Turm",
                 "hu": "Tzanetaki-torony",
                 "ro": "Turnul Tzanetaki",
-                "en": "Tzanetaki Tower"
+                "en": "Tzanetaki Tower",
+                "el": "Πύργος Τζανετάκη"
               },
               "tip_5lang": {
                 "de": "Stellen Sie Ihr Fahrrad geschützt ab und genießen Sie das Museum als trockenen Höhepunkt Ihrer Tour, bevor es zum windigen Leuchtturm geht.",
                 "hu": "Állítsa le kerékpárját védett helyen, és élvezze a múzeumot mint a túra száraz fénypontját, mielőtt kimerészkedne a szeles világítótoronyhoz.",
                 "ro": "Parcați bicicleta într-un loc ferit și bucurați-vă de muzeu ca punct culminant uscat al turului, înainte de a merge spre farul vântos.",
-                "en": "Park your bike in a sheltered spot and enjoy the museum as a dry highlight of your tour before venturing out to the windy lighthouse."
+                "en": "Park your bike in a sheltered spot and enjoy the museum as a dry highlight of your tour before venturing out to the windy lighthouse.",
+                "el": "Παρκάρετε το ποδήλατό σας σε στεγασμένο σημείο και απολαύστε το μουσείο ως στεγνή κορυφαία εμπειρία της βόλτας σας πριν προχωρήσετε προς τον ανεμόπληκτο φάρο."
               }
             },
             {
@@ -589,13 +652,15 @@
                 "de": "Leuchtturm von Gythio",
                 "hu": "Gíthiói Világítótorony",
                 "ro": "Farul Gythio",
-                "en": "Gythio Lighthouse"
+                "en": "Gythio Lighthouse",
+                "el": "Φάρος Γυθείου"
               },
               "tip_5lang": {
                 "de": "Fahren Sie auf dem Damm besonders vorsichtig, da Seitenwinde und Wellenüberschläge bei Regen die Überfahrt für Radfahrer gefährlich machen können.",
                 "hu": "Tekerjen különös óvatossággal a gáton, mert az oldalszél és a felcsapó hullámok esőben veszélyessé tehetik az áthaladást a bicikliseknek.",
                 "ro": "Pedalați cu mare atenție pe dig, deoarece vântul lateral și valurile pot face traversarea periculoasă pentru bicicliști pe timp de ploaie.",
-                "en": "Cycle with extreme caution on the causeway, as crosswinds and splashing waves can make the crossing dangerous for cyclists in the rain."
+                "en": "Cycle with extreme caution on the causeway, as crosswinds and splashing waves can make the crossing dangerous for cyclists in the rain.",
+                "el": "Ποδηλατήστε με εξαιρετική προσοχή στην αιχμή, καθώς οι πλευρικοί άνεμοι και τα πιτσίλισμα κυμάτων μπορούν να κάνουν τη διάβαση επικίνδυνη για ποδηλάτες στη βροχή."
               }
             }
           ]
@@ -605,7 +670,8 @@
             "de": "Die Wintertour beginnt erfrischend beim antiken Theater. Mittags bietet das Stadtzentrum warme Einkehrmöglichkeiten. Am Nachmittag genießen wir die klare Sicht auf die Mani-Küste vom Rad aus. Da die Sonne früh untergeht, beenden wir die Tour rechtzeitig vor der Abendkälte am Leuchtturm.",
             "hu": "A téli kerékpározás frissítően indul az ókori színháznál. Délben a városközpont kínál meleg pihenőhelyeket. Délután a tiszta téli levegőben gyönyörködünk a Mani-partvidék látványában. A korai naplemente miatt időben fejezzük be a túrát a világítótoronynál.",
             "ro": "Turul de iarnă începe revigorant la teatrul antic. La prânz, centrul orașului oferă locuri calde de popas. După-amiaza admirăm coasta Mani în aerul curat de iarnă. Din cauza apusului timpuriu, încheiem turul la timp la far, înainte de lăsarea frigului.",
-            "en": "The winter bike tour starts refreshingly at the ancient theater. Midday provides warm stopovers in the city center. In the afternoon, enjoy the clear winter views of the Mani coastline. As the sun sets early, we finish the tour at the lighthouse before the evening chill."
+            "en": "The winter bike tour starts refreshingly at the ancient theater. Midday provides warm stopovers in the city center. In the afternoon, enjoy the clear winter views of the Mani coastline. As the sun sets early, we finish the tour at the lighthouse before the evening chill.",
+            "el": "Η χειμερινή ποδηλατική διαδρομή ξεκινά φρέσκια στο αρχαίο θέατρο. Το μεσημέρι προσφέρει ζεστούς σταθμούς στο κέντρο της πόλης. Το απόγευμα απολαύστε τις καθαρές χειμερινές θέες της μανιάτικης ακτογραμμής. Καθώς ο ήλιος δύει νωρίς, τελειώνουμε τη διαδρομή στον φάρο πριν το μεσημεριανό κρύο."
           },
           "stops": [
             {
@@ -613,13 +679,15 @@
                 "de": "Antikes Theater von Gythio",
                 "hu": "Gíthiói Ókori Színház",
                 "ro": "Teatrul Antic Gythio",
-                "en": "Arkhaio Theatro Gutheiou"
+                "en": "Arkhaio Theatro Gutheiou",
+                "el": "Αρχαίο Θέατρο Γυθείου"
               },
               "tip_5lang": {
                 "de": "Tragen Sie Handschuhe, da der kalte Fahrtwind am Morgen Ihre Finger schnell unbeweglich machen kann, was das Bremsen erschwert.",
                 "hu": "Viseljen kesztyűt, mert a hideg menetszél reggel hamar elgémberítheti az ujjait, ami megnehezíti a precíz fékezést és váltást.",
                 "ro": "Purtați mănuși, deoarece vântul rece de dimineață vă poate amorți rapid degetele, ceea ce îngreunează frânarea și schimbarea vitezelor.",
-                "en": "Wear gloves, as the cold morning wind can quickly numb your fingers, making precise braking and gear shifting much more difficult."
+                "en": "Wear gloves, as the cold morning wind can quickly numb your fingers, making precise braking and gear shifting much more difficult.",
+                "el": "Φορέστε γάντια, καθώς ο ψυχρός πρωινός άνεμος μπορεί γρήγορα να μουδιάσει τα δάχτυλα, καθιστώντας το φρενάρισμα και την αλλαγή σχέσεων πιο δύσκολα."
               }
             },
             {
@@ -627,13 +695,15 @@
                 "de": "Kulturzentrum der östlichen Mani",
                 "hu": "Kelet-Mani Kulturális Központ",
                 "ro": "Centrul de Cultură Mani de Est",
-                "en": "Center of Culture of Easter Mani"
+                "en": "Center of Culture of Easter Mani",
+                "el": "Κέντρο Πολιτισμού Ανατολικής Μάνης"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Halt, um sich im Inneren aufzuwärmen, bevor Sie die längere Strecke entlang der Küstenstraße in Angriff nehmen.",
                 "hu": "Használja ki ezt a megállót, hogy alaposan felmelegedjen odabent, mielőtt nekivágna a part menti út hosszabb és szelesebb szakaszának.",
                 "ro": "Folosiți acest popas pentru a vă încălzi bine în interior înainte de a porni pe secțiunea mai lungă și mai vântoasă a drumului de coastă.",
-                "en": "Use this stop to warm up properly indoors before tackling the longer and windier section of the coastal road ahead of you."
+                "en": "Use this stop to warm up properly indoors before tackling the longer and windier section of the coastal road ahead of you.",
+                "el": "Χρησιμοποιήστε αυτή τη στάση για να ζεσταθείτε σωστά μέσα πριν αντιμετωπίσετε το μεγαλύτερο και πιο ανεμόπληκτο τμήμα του παραθαλάσσιου δρόμου μπροστά σας."
               }
             },
             {
@@ -641,13 +711,15 @@
                 "de": "Rathaus",
                 "hu": "Városháza",
                 "ro": "Primăria",
-                "en": "Town Hall"
+                "en": "Town Hall",
+                "el": "Δημαρχείο"
               },
               "tip_5lang": {
                 "de": "Der Rathausplatz liegt im Winter oft im Schatten der Gebäude; bleiben Sie kurz in der Sonne, um Ihre Körpertemperatur stabil zu halten.",
                 "hu": "A városháza tere télen gyakran az épületek árnyékába kerül; álljon meg egy rövid időre a napon, hogy szinten tartsa a testhőmérsékletét.",
                 "ro": "Piața primăriei este adesea în umbra clădirilor iarna; opriți-vă scurt la soare pentru a vă menține temperatura corpului stabilă.",
-                "en": "The town hall square is often in the shade of buildings in winter; pause for a moment in the sun to keep your body temperature stable."
+                "en": "The town hall square is often in the shade of buildings in winter; pause for a moment in the sun to keep your body temperature stable.",
+                "el": "Η πλατεία του δημαρχείου είναι συχνά στη σκιά των κτιρίων τον χειμώνα· κάντε μια σύντομη στάση στον ήλιο για να σταθεροποιήσετε τη θερμοκρασία του σώματός σας."
               }
             },
             {
@@ -655,13 +727,15 @@
                 "de": "Agios Georgios",
                 "hu": "Agios Georgios",
                 "ro": "Agios Georgios",
-                "en": "Agios Georgios"
+                "en": "Agios Georgios",
+                "el": "Άγιος Γεώργιος"
               },
               "tip_5lang": {
                 "de": "Nach dem schweißtreibenden Anstieg sollten Sie bei der Abfahrt die Jacke schließen, um eine Unterkühlung durch den kalten Wind zu vermeiden.",
                 "hu": "Az izzasztó emelkedő után a lejtmenetben mindenképpen húzza fel a cipzárt, hogy elkerülje a hideg szél okozta hirtelen lehűlést.",
                 "ro": "După urcarea solicitantă, închideți bine jacheta la coborâre pentru a evita răceala bruscă cauzată de vântul tăios de iarnă.",
-                "en": "After the sweaty climb, make sure to zip up your jacket for the descent to avoid getting a chill from the sharp winter wind."
+                "en": "After the sweaty climb, make sure to zip up your jacket for the descent to avoid getting a chill from the sharp winter wind.",
+                "el": "Μετά την ιδρωμένη ανάβαση, φερθείτε προσεκτικά και κλείστε το φερμουάρ του μπουφάν για την κατάβαση ώστε να μην κρυώσετε από τον δριμύ χειμερινό άνεμο."
               }
             },
             {
@@ -669,13 +743,15 @@
                 "de": "Tzanetaki-Turm",
                 "hu": "Tzanetaki-torony",
                 "ro": "Turnul Tzanetaki",
-                "en": "Tzanetaki Tower"
+                "en": "Tzanetaki Tower",
+                "el": "Πύργος Τζανετάκη"
               },
               "tip_5lang": {
                 "de": "Das Museum bietet Schutz vor der kühler werdenden Nachmittagsluft; parken Sie Ihr Rad so, dass es bei aufkommendem Wind nicht umkippt.",
                 "hu": "A múzeum védelmet nyújt a hűvösödő délutáni levegő elől; úgy parkolja le a bringát, hogy az erősödő szélben ne dőljön fel.",
                 "ro": "Muzeul oferă adăpost împotriva aerului răcoros de după-amiază; parcați bicicleta astfel încât să nu fie răsturnată de vântul care se intensifică.",
-                "en": "The museum provides shelter from the cooling afternoon air; park your bike securely so it won't be knocked over by the increasing wind."
+                "en": "The museum provides shelter from the cooling afternoon air; park your bike securely so it won't be knocked over by the increasing wind.",
+                "el": "Το μουσείο προσφέρει καταφύγιο από τον δροσερό απογευματινό αέρα· παρκάρετε το ποδήλατό σας με ασφάλεια ώστε να μην ανατραπεί από τον ενισχυόμενο άνεμο."
               }
             },
             {
@@ -683,13 +759,15 @@
                 "de": "Leuchtturm von Gythio",
                 "hu": "Gíthiói Világítótorony",
                 "ro": "Farul Gythio",
-                "en": "Gythio Lighthouse"
+                "en": "Gythio Lighthouse",
+                "el": "Φάρος Γυθείου"
               },
               "tip_5lang": {
                 "de": "Beenden Sie den Besuch rechtzeitig vor 16:45 Uhr, da der Rückweg über den Damm bei Dunkelheit und Winterkälte unangenehm werden kann.",
                 "hu": "Fejezze be a látogatást 16:45 előtt, mivel a gáton való visszatérés sötétben és a felerősödő téli hidegben igen kellemetlen lehet.",
                 "ro": "Încheiați vizita înainte de 16:45, deoarece întoarcerea pe dig pe întuneric și în frigul iernii poate deveni foarte neplăcută.",
-                "en": "Finish your visit before 4:45 PM, as returning across the causeway in the dark and increasing winter cold can be very unpleasant."
+                "en": "Finish your visit before 4:45 PM, as returning across the causeway in the dark and increasing winter cold can be very unpleasant.",
+                "el": "Ολοκληρώστε την επίσκεψη πριν τις 16:45, καθώς η επιστροφή πάνω στη λωρίδα το σκοτάδι και το αυξανόμενο χειμωνιάτικο κρύο μπορεί να γίνει πολύ δυσάρεστη."
               }
             }
           ]
@@ -709,7 +787,8 @@
             "de": "Goulades-Schloss",
             "hu": "Goulades-kastély",
             "ro": "Castelul Goulades",
-            "en": "Goulades castle"
+            "en": "Goulades castle",
+            "el": "Κάστρο Γούλαδες"
           },
           "coords": [
             22.568748,
@@ -724,7 +803,8 @@
             "de": "Navigieren Sie über verwilderte Pfade, um diese mittelalterlichen Burgruinen zu erkunden, und bringen Sie unbedingt Wasser mit, da der Ort isoliert ist.",
             "hu": "Keresse meg a benőtt ösvényeket, hogy felfedezze ezeket a középkori kastélyromokat, és feltétlenül vigyen magával vizet, mivel a hely elszigetelt.",
             "ro": "Navigați pe potecile acoperite de vegetație pentru a explora aceste ruine ale castelului medieval și asigurați-vă că aduceți apă.",
-            "en": "Navigate the overgrown paths to explore these medieval castle ruins, and make sure to bring water as the site is somewhat isolated."
+            "en": "Navigate the overgrown paths to explore these medieval castle ruins, and make sure to bring water as the site is somewhat isolated.",
+            "el": "Πλοηγηθείτε στα ξεχορταριασμένα μονοπάτια για να εξερευνήσετε αυτά τα μεσαιωνικά ερείπια και φροντίστε να έχετε μαζί σας νερό, καθώς ο χώρος είναι μάλλον απομονωμένος."
           }
         },
         {
@@ -732,7 +812,8 @@
             "de": "Agios Nikolaos",
             "hu": "Agios Nikolaos",
             "ro": "Agios Nikolaos",
-            "en": "Agios Nikolaos"
+            "en": "Agios Nikolaos",
+            "el": "Άγιος Νικόλαος"
           },
           "coords": [
             22.569036,
@@ -747,7 +828,8 @@
             "de": "Besuchen Sie diese malerische Kirche am Meer, die dem Schutzpatron der Seeleute gewidmet ist, für eine ruhige Pause vor der Überquerung zur Insel.",
             "hu": "Látogassa meg ezt a tengerészek védőszentjének szentelt tengerparti templomot, amely csendes pihenést kínál, mielőtt átkel a közeli szigetre.",
             "ro": "Vizitați această biserică pitorească de pe litoral, dedicată sfântului patron al marinarilor, oferind un răgaz liniștit înainte de a traversa pe insulă.",
-            "en": "Visit this quaint seaside church dedicated to the patron saint of sailors, offering quiet respite before you cross over to the nearby island."
+            "en": "Visit this quaint seaside church dedicated to the patron saint of sailors, offering quiet respite before you cross over to the nearby island.",
+            "el": "Επισκεφτείτε αυτή τη γραφική παραθαλάσσια εκκλησία αφιερωμένη στον προστάτη των ναυτικών, που προσφέρει ήρεμη ανακούφιση πριν περάσετε στο κοντινό νησάκι."
           }
         },
         {
@@ -755,7 +837,8 @@
             "de": "Tzanetaki-Turm",
             "hu": "Tzanetaki-torony",
             "ro": "Turnul Tzanetaki",
-            "en": "Tzanetaki Tower"
+            "en": "Tzanetaki Tower",
+            "el": "Πύργος Τζανετάκη"
           },
           "coords": [
             22.573148,
@@ -770,7 +853,8 @@
             "de": "Steigen Sie die Treppen dieses massiven Turmmuseums auf der Insel Marathonisi hinauf, um in die lokale Folklore einzutauchen.",
             "hu": "Mássza meg ennek az erős toronymúzeumnak a lépcsőit a Marathonisi-szigeten, hogy elmélyedjen a helyi folklórban és élvezze a kilátást.",
             "ro": "Urcați scările acestui robust turn-muzeu de pe insula Marathonisi pentru o incursiune în folclorul local și vederi impresionante asupra portului.",
-            "en": "Climb the stairs of this robust tower-museum on Marathonisi island for a deep dive into local folklore and commanding views of the harbor."
+            "en": "Climb the stairs of this robust tower-museum on Marathonisi island for a deep dive into local folklore and commanding views of the harbor.",
+            "el": "Ανεβείτε τις σκάλες αυτού του στιβαρού πύργου-μουσείου στο νησί Μαραθονήσι για να γνωρίσετε σε βάθος την τοπική λαογραφία και να απολαύσετε πανοραμικές θέες στο λιμάνι."
           }
         },
         {
@@ -778,7 +862,8 @@
             "de": "Leuchtturm von Gythio",
             "hu": "Gíthiói Világítótorony",
             "ro": "Farul Gythio",
-            "en": "Gythio Lighthouse"
+            "en": "Gythio Lighthouse",
+            "el": "Φάρος Γυθείου"
           },
           "coords": [
             22.575774,
@@ -793,7 +878,8 @@
             "de": "Gehen Sie zu diesem historischen achteckigen Leuchtturm aus dem Jahr 1873, einem ikonischen Wahrzeichen mit perfekter Kulisse für Meerblicke.",
             "hu": "Sétáljon ki ehhez az 1873-ban épült, történelmi nyolcszögletű világítótoronyhoz, amely ikonikus helyi mérföldkő tengeri kilátással.",
             "ro": "Mergeți spre acest far octogonal istoric construit în 1873, un punct de reper local iconic care oferă un fundal perfect pentru vederi la mare.",
-            "en": "Walk out to this historic octagonal lighthouse built in 1873, an iconic local landmark offering the perfect backdrop for memorable sea views."
+            "en": "Walk out to this historic octagonal lighthouse built in 1873, an iconic local landmark offering the perfect backdrop for memorable sea views.",
+            "el": "Περπατήστε μέχρι αυτόν τον ιστορικό οκταγωνικό φάρο που χτίστηκε το 1873, ένα εμβληματικό τοπικό μνημείο που προσφέρει το ιδανικό φόντο για αξέχαστες θαλασσινές όψεις."
           }
         },
         {
@@ -801,7 +887,8 @@
             "de": "Antikes Theater von Gythio",
             "hu": "Gíthiói Ókori Színház",
             "ro": "Teatrul Antic Gythio",
-            "en": "Arkhaio Theatro Gutheiou"
+            "en": "Arkhaio Theatro Gutheiou",
+            "el": "Αρχαίο Θέατρο Γυθείου"
           },
           "coords": [
             22.562641,
@@ -816,7 +903,8 @@
             "de": "Machen Sie eine Zeitreise in diesem erstaunlich intakten römischen Theater; tragen Sie festes Schuhwerk, da die antiken Steinstufen uneben sein können.",
             "hu": "Lépjen vissza az időben ebben a dombba vájt, meglepően ép római színházban; viseljen kényelmes cipőt, mivel a kövek egyenetlenek.",
             "ro": "Întoarceți-vă în timp la acest teatru roman surprinzător de intact sculptat în deal; purtați încălțăminte solidă, deoarece treptele de piatră sunt denivelate.",
-            "en": "Step back in time at this surprisingly intact Roman theater carved into the hill; wear sturdy shoes as the ancient stone steps can be uneven."
+            "en": "Step back in time at this surprisingly intact Roman theater carved into the hill; wear sturdy shoes as the ancient stone steps can be uneven.",
+            "el": "Κάντε ένα ταξίδι στο παρελθόν σε αυτό το εκπληκτικά καλά διατηρημένο ρωμαϊκό θέατρο λαξευμένο στο λόφο· φορέστε γερά παπούτσια καθώς τα αρχαία σκαλοπάτια μπορεί να είναι ανώμαλα."
           }
         },
         {
@@ -824,7 +912,8 @@
             "de": "Paralia Selinitsas",
             "hu": "Paralia Selinitsas",
             "ro": "Paralia Selinitsas",
-            "en": "Paralia Selinitsas"
+            "en": "Paralia Selinitsas",
+            "el": "Παραλία Σελινίτσας"
           },
           "coords": [
             22.572935,
@@ -839,7 +928,8 @@
             "de": "Entspannen Sie sich an diesem wunderschönen Strandabschnitt, der für sein klares Wasser und das nahe gelegene Schiffswrack bekannt ist.",
             "hu": "Pihenjen ezen a gyönyörű partszakaszon, amely kristálytiszta vizéről és a közeli hajóroncsról ismert, tökéletes az egész napos vezetés után.",
             "ro": "Relaxați-vă pe această porțiune frumoasă de plajă cunoscută pentru apele sale limpezi și epava din apropiere, perfectă pentru relaxare.",
-            "en": "Relax at this beautiful stretch of beach known for its clear waters and nearby shipwreck, perfect for unwinding after a day of driving."
+            "en": "Relax at this beautiful stretch of beach known for its clear waters and nearby shipwreck, perfect for unwinding after a day of driving.",
+            "el": "Χαλαρώστε σε αυτήν την όμορφη παραλία γνωστή για τα καθαρά νερά και το κοντινό ναυάγιο, ιδανική για ξεκούραση μετά από μια μέρα οδήγησης."
           }
         }
       ],
@@ -847,7 +937,8 @@
         "de": "Beginnen Sie Ihre Autoroute südlich der Stadt am Goulades-Schloss und bewundern Sie die rauen Ruinen, bevor Sie zum Hafenviertel zurückkehren.\n\nParken Sie bei Agios Nikolaos für einen kurzen spirituellen Stopp und überqueren Sie dann die Insel Marathonisi, um im Tzanetaki-Turm in die Geschichte Manis einzutauchen.\n\nFahren Sie landeinwärts, um die gut erhaltenen Ränge des antiken Theaters zu besichtigen, die leicht zugänglich sind und eine Verbindung zur Antike bieten.\n\nBeenden Sie Ihren Tagesausflug mit einer kurzen Fahrt nach Norden zur Paralia Selinitsas und entspannen Sie sich am Sandstrand.",
         "hu": "Kezdje autós útvonalát a várostól délre, a Goulades-kastélynál, megcsodálva a zord romokat, mielőtt visszatérne a nyüzsgő kikötőhöz.\n\nParkoljon le az Agios Nikolaos közelében egy rövid lelki feltöltődésre, majd keljen át a Marathonisi-szigetre, hogy elmélyedjen Mani történelmében a Tzanetaki-toronynál.\n\nVezessen vissza a szárazföldre, hogy meglátogassa az ókori színház jól megőrzött sorait, amely könnyen megközelíthető és csodálatos kapcsolatot kínál az ókorral.\n\nFejezze be egynapos kirándulását egy rövid autózással északra, a Paralia Selinitsas felé, és pihenjen a homokos tengerparton.",
         "ro": "Începeți traseul cu mașina la sud de oraș, la castelul Goulades, admirând ruinele aspre înainte de a vă întoarce în zona portului aglomerat.\n\nParcați lângă Agios Nikolaos pentru o scurtă oprire spirituală, apoi traversați pe insula Marathonisi pentru a aprofunda istoria regiunii Mani la Turnul Tzanetaki.\n\nConduceți înapoi pentru a vizita rândurile bine conservate ale teatrului antic, ușor accesibile și oferind o legătură minunată cu antichitatea clasică.\n\nTerminați excursia de o zi cu o scurtă plimbare spre nord până la Paralia Selinitsas, relaxându-vă pe plaja de nisip.",
-        "en": "Start your driving route south of the city at Goulades castle, taking in the rugged ruins before heading back to the bustling harbor area.\n\nPark near Agios Nikolaos for a brief spiritual stop, then cross over to Marathonisi island to delve into Mani history at the Tzanetaki Tower.\n\nDrive back inland to visit the ancient theater's well-preserved tiers, easily accessible and offering a wonderful connection to classical antiquity.\n\nFinish your day trip with a short drive north to Paralia Selinitsas, relaxing on the sandy beach as the waves gently crash against the shore."
+        "en": "Start your driving route south of the city at Goulades castle, taking in the rugged ruins before heading back to the bustling harbor area.\n\nPark near Agios Nikolaos for a brief spiritual stop, then cross over to Marathonisi island to delve into Mani history at the Tzanetaki Tower.\n\nDrive back inland to visit the ancient theater's well-preserved tiers, easily accessible and offering a wonderful connection to classical antiquity.\n\nFinish your day trip with a short drive north to Paralia Selinitsas, relaxing on the sandy beach as the waves gently crash against the shore.",
+        "el": "Ξεκινήστε τη διαδρομή οδήγησης νότια της πόλης στο κάστρο Γούλαδες, απολαμβάνοντας τα τραχιά ερείπια πριν επιστρέψετε στην πολυσύχναστη περιοχή του λιμανιού.\n\nΣταθμεύστε κοντά στον Άγιο Νικόλαο για μια σύντομη πνευματική στάση, στη συνέχεια περάστε στο νησί Μαραθονήσι για να εμβαθύνετε στην ιστορία της Μάνης στον Πύργο Τζανετάκη.\n\nΕπιστρέψτε στο εσωτερικό για να επισκεφθείτε τις καλά διατηρημένες κερκίδες του αρχαίου θεάτρου, εύκολα προσβάσιμες και προσφέροντας υπέροχη σύνδεση με την κλασική αρχαιότητα.\n\nΟλοκληρώστε την ημερήσια εκδρομή με μια σύντομη διαδρομή βόρεια προς την Παραλία Σελινίτσας, χαλαρώνοντας στην αμμουδιά ενώ τα κύματα σπάνε απαλά στην ακτή."
       },
       "variants": {
         "rainy": {
@@ -855,7 +946,8 @@
             "de": "Der Regentag beginnt mit einer Panoramafahrt zum Goulades-Schloss. Mittags nutzen wir das Auto als mobilen Unterstand zwischen den kulturellen Stopps. Am Nachmittag besuchen wir den Leuchtturm, wobei wir das Wetter gemütlich von drinnen beobachten. Der Tag endet sicher am Strand, wo die Wellen eindrucksvoll brechen.",
             "hu": "Az esős nap panorámaautózással indul a Goulades-kastélyhoz. Délben az autó szolgál mobil menedékként a kulturális megállók között. Délután a világítótoronynál a kocsiból figyeljük a viharos tengert. A nap a tengerparton ér véget, ahol az esőben is lenyűgöző a hullámverés.",
             "ro": "Ziua ploioasă începe cu o plimbare panoramică spre castelul Goulades. La prânz, mașina servește ca adăpost mobil între popasurile culturale. După-amiaza admirăm marea agitată din mașină la far. Ziua se încheie la plajă, unde valurile sunt impresionante chiar și pe ploaie.",
-            "en": "The rainy day begins with a panoramic drive to Goulades Castle. Midday uses the car as a mobile shelter between cultural stops. In the afternoon, watch the stormy sea from the comfort of your car at the lighthouse. The day ends at the beach, watching the waves crash impressively in the rain."
+            "en": "The rainy day begins with a panoramic drive to Goulades Castle. Midday uses the car as a mobile shelter between cultural stops. In the afternoon, watch the stormy sea from the comfort of your car at the lighthouse. The day ends at the beach, watching the waves crash impressively in the rain.",
+            "el": "Η βροχερή μέρα ξεκινά με μια πανοραμική οδήγηση προς το Κάστρο Γούλαδες. Το μεσημέρι το αυτοκίνητο λειτουργεί ως κινητό καταφύγιο ανάμεσα σε πολιτιστικούς σταθμούς. Το απόγευμα, παρακολουθήστε τη θαλασσοταραχή από την άνεση του αυτοκινήτου στον φάρο. Η μέρα τελειώνει στην παραλία, παρακολουθώντας τα κύματα να σπάνε εντυπωσιακά στη βροχή."
           },
           "stops": [
             {
@@ -863,13 +955,15 @@
                 "de": "Goulades-Schloss",
                 "hu": "Goulades-kastély",
                 "ro": "Castelul Goulades",
-                "en": "Goulades castle"
+                "en": "Goulades castle",
+                "el": "Κάστρο Γούλαδες"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Blick auf das Schloss direkt aus dem Auto, da der Weg zu den Ruinen bei starkem Regen sehr schlammig und rutschig sein kann.",
                 "hu": "Élvezze a kastélyra nyíló kilátást közvetlenül az autóból, mivel a romokhoz vezető ösvény heves esőzéskor nagyon sárossá és csúszóssá válik.",
                 "ro": "Bucurați-vă de vederea spre castel direct din mașină, deoarece poteca spre ruine poate fi foarte noroioasă și alunecoasă pe ploaie torențială.",
-                "en": "Enjoy the view of the castle directly from your car, as the path to the ruins can become very muddy and slippery during heavy rainfall."
+                "en": "Enjoy the view of the castle directly from your car, as the path to the ruins can become very muddy and slippery during heavy rainfall.",
+                "el": "Απολαύστε τη θέα του κάστρου απευθείας από το αυτοκίνητο, καθώς το μονοπάτι προς τα ερείπια μπορεί να γίνει πολύ λασπώδες και ολισθηρό κατά τη διάρκεια έντονης βροχής."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Agios Nikolaos",
                 "hu": "Agios Nikolaos",
                 "ro": "Agios Nikolaos",
-                "en": "Agios Nikolaos"
+                "en": "Agios Nikolaos",
+                "el": "Άγιος Νικόλαος"
               },
               "tip_5lang": {
                 "de": "Parken Sie so nah wie möglich am Eingang, um den kurzen, nassen Weg zur Kirche zu minimieren und die feuchte Meeresluft im Inneren zu meiden.",
                 "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy minimalizálja a vizes sétát a templomig, és élvezze a belső tér száraz, védett nyugalmát.",
                 "ro": "Parcați cât mai aproape de intrare pentru a minimiza mersul prin ploaie până la biserică și bucurați-vă de liniștea protejată din interior.",
-                "en": "Park as close to the entrance as possible to minimize the wet walk to the church and enjoy the dry, protected silence of the interior."
+                "en": "Park as close to the entrance as possible to minimize the wet walk to the church and enjoy the dry, protected silence of the interior.",
+                "el": "Παρκάρετε όσο το δυνατόν πιο κοντά στην είσοδο για να ελαχιστοποιήσετε τον βρεγμένο περίπατο μέχρι την εκκλησία και να απολαύσετε τη στεγνή, προστατευμένη σιωπή του εσωτερικού."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Tzanetaki-Turm",
                 "hu": "Tzanetaki-torony",
                 "ro": "Turnul Tzanetaki",
-                "en": "Tzanetaki Tower"
+                "en": "Tzanetaki Tower",
+                "el": "Πύργος Τζανετάκη"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Museumsbesuch als längere Regenpause und achten Sie beim Aussteigen auf tiefe Pfützen auf dem unebenen Parkplatz.",
                 "hu": "Használja a múzeumlátogatást hosszabb esőszünetként, és kiszálláskor ügyeljen az egyenetlen parkolóban kialakuló mély pocsolyákra.",
                 "ro": "Folosiți vizita la muzeu ca o pauză mai lungă de ploaie și fiți atenți la bălțile adânci din parcarea denivelată atunci când coborâți din mașină.",
-                "en": "Use the museum visit as a longer break from the rain and watch out for deep puddles in the uneven parking area when getting out of the car."
+                "en": "Use the museum visit as a longer break from the rain and watch out for deep puddles in the uneven parking area when getting out of the car.",
+                "el": "Χρησιμοποιήστε την επίσκεψη στο μουσείο ως μεγαλύτερη διακοπή από τη βροχή και προσέξτε τα βαθιά νεροφαγώματα στο ανώμαλο χώρο στάθμευσης όταν κατεβαίνετε από το αυτοκίνητο."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Leuchtturm von Gythio",
                 "hu": "Gíthiói Világítótorony",
                 "ro": "Farul Gythio",
-                "en": "Gythio Lighthouse"
+                "en": "Gythio Lighthouse",
+                "el": "Φάρος Γυθείου"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig über den Damm, da Wellen das Auto überspülen können; das Wetterpanorama vom Parkplatz aus ist bei Regen spektakulär.",
                 "hu": "Hajtson óvatosan a gáton, mert a hullámok átcsaphatnak az úton; az autóból figyelve a viharos panoráma lenyűgöző látványt nyújt.",
                 "ro": "Conduceți cu atenție pe dig, deoarece valurile pot trece peste drum; panorama furtunoasă văzută din mașină oferă o priveliște impresionantă.",
-                "en": "Drive carefully across the causeway as waves might wash over the road; the stormy panorama viewed from your car is truly spectacular."
+                "en": "Drive carefully across the causeway as waves might wash over the road; the stormy panorama viewed from your car is truly spectacular.",
+                "el": "Οδηγήστε προσεκτικά κατά μήκος της λωρίδας καθώς κύματα μπορεί να ξεπλένουν το δρόμο· το καταιγιδοπλαίσιο που θα δείτε από το αυτοκίνητο είναι πραγματικά εντυπωσιακό."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Antikes Theater von Gythio",
                 "hu": "Gíthiói Ókori Színház",
                 "ro": "Teatrul Antic Gythio",
-                "en": "Arkhaio Theatro Gutheiou"
+                "en": "Arkhaio Theatro Gutheiou",
+                "el": "Αρχαίο Θέατρο Γυθείου"
               },
               "tip_5lang": {
                 "de": "Vermeiden Sie das Parken unter Bäumen, da herabfallende Äste bei Sturmböen eine Gefahr für Ihr Fahrzeug darstellen könnten.",
                 "hu": "Kerülje a fák alatti parkolást, mivel a viharos széllökésekben letörő ágak kárt tehetnek az autójában a színház környékén.",
                 "ro": "Evitați parcarea sub copaci, deoarece crengile care se pot rupe în timpul rafalelor de vânt pot deteriora mașina în zona teatrului.",
-                "en": "Avoid parking under trees, as falling branches during stormy gusts could potentially damage your vehicle near the theater area."
+                "en": "Avoid parking under trees, as falling branches during stormy gusts could potentially damage your vehicle near the theater area.",
+                "el": "Αποφύγετε να σταθμεύσετε κάτω από δέντρα, καθώς σπασμένα κλαδιά από καταιγιδοφόρους ανέμους θα μπορούσαν να προκαλέσουν ζημιά στο όχημά σας κοντά στην περιοχή του θεάτρου."
               }
             },
             {
@@ -933,13 +1035,15 @@
                 "de": "Paralia Selinitsas",
                 "hu": "Paralia Selinitsas",
                 "ro": "Paralia Selinitsas",
-                "en": "Paralia Selinitsas"
+                "en": "Paralia Selinitsas",
+                "el": "Παραλία Σελινίτσας"
               },
               "tip_5lang": {
                 "de": "Bleiben Sie für den Blick auf das Schiffswrack im Auto, da der Strand bei Regen ungeschützt ist und der Sand sehr schwer begehbar wird.",
                 "hu": "Maradjon az autóban a hajóroncs megtekintéséhez, mivel a strand teljesen nyitott, és a vizes homokban ilyenkor nehézkes a közlekedés.",
                 "ro": "Rămâneți în mașină pentru a vedea epava, deoarece plaja este complet expusă, iar nisipul ud face deplasarea foarte dificilă.",
-                "en": "Stay in your car to view the shipwreck, as the beach is completely unsheltered and the wet sand makes walking quite difficult in the rain."
+                "en": "Stay in your car to view the shipwreck, as the beach is completely unsheltered and the wet sand makes walking quite difficult in the rain.",
+                "el": "Μείνετε στο αυτοκίνητο για να δείτε το ναυάγιο, καθώς η παραλία είναι τελείως ακάλυπτη και η βρεγμένη άμμος καθιστά τον περπάτημα αρκετά δύσκολο στη βροχή."
               }
             }
           ]
@@ -949,7 +1053,8 @@
             "de": "Die Wintertour mit dem Auto startet gemütlich beim Schloss. Mittags genießen wir die geheizte Fahrt zwischen den Sehenswürdigkeiten. Am Nachmittag bietet die klare Winterluft fantastische Fernsichten von den Küstenwegen. Da es gegen 17:00 Uhr dunkel wird, endet der Tag am beleuchteten Wrack am Strand.",
             "hu": "A téli autós túra kényelmesen indul a kastélynál. Délben élvezzük a fűtött utazást a látnivalók között a tiszta téli időben. Délután a kristálytiszta levegő fantasztikus kilátást nyújt a part menti utakról. A korai sötétedés miatt a nap a strand kivilágított roncsánál ér véget.",
             "ro": "Turul de iarnă cu mașina începe confortabil la castel. La prânz ne bucurăm de drumul încălzit între obiective în aerul curat de iarnă. După-amiaza, vizibilitatea excelentă oferă priveliști fantastice de pe drumul de coastă. Ziua se încheie la epava de pe plajă înainte de lăsarea serii.",
-            "en": "The winter car tour starts comfortably at the castle. Midday features heated drives between sights in the crisp winter air. In the afternoon, excellent visibility offers fantastic views from the coastal roads. As it gets dark by 5 PM, the day ends at the shipwreck on the beach."
+            "en": "The winter car tour starts comfortably at the castle. Midday features heated drives between sights in the crisp winter air. In the afternoon, excellent visibility offers fantastic views from the coastal roads. As it gets dark by 5 PM, the day ends at the shipwreck on the beach.",
+            "el": "Η χειμερινή περιήγηση με αυτοκίνητο ξεκινά άνετα στο κάστρο. Το μεσημέρι περιλαμβάνει θερμαινόμενες διαδρομές ανάμεσα στα αξιοθέατα στον δροσερό χειμωνιάτικο αέρα. Το απόγευμα, η εξαιρετική ορατότητα προσφέρει φανταστικές θέες από τους παράκτιους δρόμους. Επειδή σκοτεινιάζει γύρω στις 17:00, η μέρα τελειώνει στο ναυάγιο στην παραλία."
           },
           "stops": [
             {
@@ -957,13 +1062,15 @@
                 "de": "Goulades-Schloss",
                 "hu": "Goulades-kastély",
                 "ro": "Castelul Goulades",
-                "en": "Goulades castle"
+                "en": "Goulades castle",
+                "el": "Κάστρο Γούλαδες"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie das klare Winterlicht für Panoramaaufnahmen der Burg, aber achten Sie auf vereiste Stellen auf den schattigen Zufahrtswegen.",
                 "hu": "Használja ki a tiszta téli fényt a várról készített panorámafotókhoz, de ügyeljen a jeges foltokra az árnyékosabb bekötőutakon.",
                 "ro": "Profitați de lumina clară de iarnă pentru fotografii panoramice cu castelul, dar fiți atenți la zonele înghețate de pe drumurile de acces umbrite.",
-                "en": "Take advantage of the clear winter light for panoramic shots of the castle, but watch out for icy patches on shaded access roads."
+                "en": "Take advantage of the clear winter light for panoramic shots of the castle, but watch out for icy patches on shaded access roads.",
+                "el": "Επωφεληθείτε από το καθαρό χειμερινό φως για πανοραμικές λήψεις του κάστρου, αλλά προσέξτε για παγωμένα σημεία σε σκιερούς δρόμους πρόσβασης."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Agios Nikolaos",
                 "hu": "Agios Nikolaos",
                 "ro": "Agios Nikolaos",
-                "en": "Agios Nikolaos"
+                "en": "Agios Nikolaos",
+                "el": "Άγιος Νικόλαος"
               },
               "tip_5lang": {
                 "de": "Die Kirche bietet einen ruhigen Ort zum Aufwärmen; lassen Sie den Motor nicht unnötig laufen, während Sie die Aussicht genießen.",
                 "hu": "A templom csendes helyszín a rövid felmelegedéshez; ne járassa feleslegesen a motort, amíg a kinti téli kilátásban gyönyörködik.",
                 "ro": "Biserica oferă un loc liniștit pentru o scurtă încălzire; nu lăsați motorul pornit inutil în timp ce admirați priveliștea de iarnă de afară.",
-                "en": "The church offers a quiet spot for a brief warm-up; avoid idling your engine unnecessarily while enjoying the winter views outside."
+                "en": "The church offers a quiet spot for a brief warm-up; avoid idling your engine unnecessarily while enjoying the winter views outside.",
+                "el": "Η εκκλησία προσφέρει ένα ήσυχο σημείο για μια σύντομη ζέσταμα· αποφύγετε την αχρείαστη λειτουργία του κινητήρα ενώ απολαμβάνετε τις χειμερινές θέες έξω."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Tzanetaki-Turm",
                 "hu": "Tzanetaki-torony",
                 "ro": "Turnul Tzanetaki",
-                "en": "Tzanetaki Tower"
+                "en": "Tzanetaki Tower",
+                "el": "Πύργος Τζανετάκη"
               },
               "tip_5lang": {
                 "de": "Parken Sie auf der windabgewandten Seite, um die Autotüren beim Aussteigen sicher im Griff zu haben, da Winterstürme hier kräftig sein können.",
                 "hu": "Parkoljon a szélvédett oldalon, hogy kiszálláskor biztonságosan megtartsa az ajtókat, mivel a téli szél itt nagyon felerősödhet.",
                 "ro": "Parcați pe partea ferită de vânt pentru a putea ține bine portierele la coborâre, deoarece vântul de iarnă poate fi foarte puternic aici.",
-                "en": "Park on the leeward side to keep a firm grip on car doors when getting out, as winter winds can be surprisingly strong in this area."
+                "en": "Park on the leeward side to keep a firm grip on car doors when getting out, as winter winds can be surprisingly strong in this area.",
+                "el": "Σταθμεύστε στην πλευρά που προστατεύεται από τον άνεμο για να διατηρήσετε σταθερό κράτημα στις πόρτες του αυτοκινήτου κατά την έξοδο, καθώς οι χειμερινοί άνεμοι εδώ μπορούν να είναι απροσδόκητα ισχυροί."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Leuchtturm von Gythio",
                 "hu": "Gíthiói Világítótorony",
                 "ro": "Farul Gythio",
-                "en": "Gythio Lighthouse"
+                "en": "Gythio Lighthouse",
+                "el": "Φάρος Γυθείου"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie den Leuchtturm kurz vor Sonnenuntergang, um das winterliche Alpenglühen über dem Meer bequem vom Auto aus zu erleben.",
                 "hu": "Látogassa meg a világítótornyot közvetlenül naplemente előtt, hogy az autóból kényelmesen átélje a tenger feletti téli fényeket.",
                 "ro": "Vizitați farul chiar înainte de apus pentru a experimenta luminile de iarnă de deasupra mării direct din confortul mașinii.",
-                "en": "Visit the lighthouse just before sunset to experience the winter light over the sea comfortably from the warmth of your car."
+                "en": "Visit the lighthouse just before sunset to experience the winter light over the sea comfortably from the warmth of your car.",
+                "el": "Επισκεφθείτε τον φάρο λίγο πριν τη δύση για να βιώσετε το χειμερινό φως πάνω στη θάλασσα άνετα από τη ζεστασιά του αυτοκινήτου."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Antikes Theater von Gythio",
                 "hu": "Gíthiói Ókori Színház",
                 "ro": "Teatrul Antic Gythio",
-                "en": "Arkhaio Theatro Gutheiou"
+                "en": "Arkhaio Theatro Gutheiou",
+                "el": "Αρχαίο Θέατρο Γυθείου"
               },
               "tip_5lang": {
                 "de": "Der kurze Fußweg vom Parkplatz zum Theater ist im Winter oft windig; ziehen Sie eine Mütze auf, bevor Sie die geheizte Fahrgastzelle verlassen.",
                 "hu": "A parkolóból a színházhoz vezető rövid út télen szeles; vegyen fel sapkát, mielőtt elhagyná a fűtött utasteret a romok felé.",
                 "ro": "Drumul scurt de la parcare la teatru este adesea vântos iarna; puneți-vă o căciulă înainte de a părăsi habitaclul încălzit al mașinii.",
-                "en": "The short walk from the parking area to the theater is often windy in winter; put on a hat before leaving the heated car interior."
+                "en": "The short walk from the parking area to the theater is often windy in winter; put on a hat before leaving the heated car interior.",
+                "el": "Ο σύντομος περίπατος από την περιοχή στάθμευσης προς το θέατρο είναι συχνά ανοιχτός σε άνεμο τον χειμώνα· φορέστε καπέλο πριν βγείτε από το θερμαινόμενο εσωτερικό του αυτοκινήτου."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Paralia Selinitsas",
                 "hu": "Paralia Selinitsas",
                 "ro": "Paralia Selinitsas",
-                "en": "Paralia Selinitsas"
+                "en": "Paralia Selinitsas",
+                "el": "Παραλία Σελινίτσας"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Blick auf das Wrack in der frühen Dämmerung gegen 17:00 Uhr und nutzen Sie die Sitzheizung für die Rückfahrt in den Ort.",
                 "hu": "Élvezze a roncs látványát a korai, 17:00 körüli szürkületben, és használja az ülésfűtést a városba vezető hűvös visszaúton.",
                 "ro": "Bucurați-vă de vederea epavei în amurgul timpuriu de la ora 17:00 și folosiți încălzirea în scaune pentru drumul răcoros de întoarcere.",
-                "en": "Enjoy the view of the wreck in the early twilight around 5 PM and use your seat heaters for the chilly drive back into town."
+                "en": "Enjoy the view of the wreck in the early twilight around 5 PM and use your seat heaters for the chilly drive back into town.",
+                "el": "Απολαύστε τη θέα του ναυαγίου στο πρώιμο λυκόφως γύρω στις 17:00 και χρησιμοποιήστε τα θερμαινόμενα καθίσματα για την ψυχρή επιστροφή στην πόλη."
               }
             }
           ]

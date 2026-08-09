@@ -21,7 +21,8 @@
             "de": "Ammos",
             "hu": "Ammos",
             "ro": "Ammos",
-            "en": "Ammos"
+            "en": "Ammos",
+            "el": "Ammos"
           },
           "coords": [
             25.602308,
@@ -36,7 +37,8 @@
             "de": "Genießen Sie den weichen Sand von Ammos direkt am Hafen, ideal für das erste Bad des Tages, aber kommen Sie früh, um einen guten Platz am Wasser zu sichern.",
             "hu": "Élvezze az Ammos finom homokját közvetlenül a kikötő mellett, amely tökéletes az első fürdőzéshez, de érkezzen korán, hogy jó helyet kapjon a víz közelében.",
             "ro": "Bucurați-vă de nisipul fin de la Ammos, lângă port, un loc perfect pentru prima baie a zilei, dar ajungeți devreme pentru a prinde un loc bun lângă apă.",
-            "en": "Enjoy the soft sands of Ammos right by the port, a perfect spot for your first swim of the day, but arrive early to secure a good place near the water."
+            "en": "Enjoy the soft sands of Ammos right by the port, a perfect spot for your first swim of the day, but arrive early to secure a good place near the water.",
+            "el": "Απολαύστε την απαλή άμμο του Ammos δίπλα στο λιμάνι, ιδανικό μέρος για το πρώτο σας μπάνιο της ημέρας, αλλά φτάστε νωρίς για να εξασφαλίσετε καλό σημείο κοντά στο νερό."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Loutro beach",
             "hu": "Loutro beach",
             "ro": "Loutro beach",
-            "en": "Loutro beach"
+            "en": "Loutro beach",
+            "el": "Loutro beach"
           },
           "coords": [
             25.596221,
@@ -59,7 +62,8 @@
             "de": "Der Loutro-Strand bietet einen ruhigen Rückzugsort mit kristallklarem, flachem Wasser, ideal für Familien, also bringen Sie unbedingt Ihre eigene Schnorchelausrüstung mit.",
             "hu": "A Loutro strand békés menedéket kínál kristálytiszta, sekély vizeivel, amely ideális családok számára, ezért mindenképpen hozzon magával saját sznorkelfelszerelést.",
             "ro": "Plaja Loutro oferă un refugiu liniștit cu ape de mică adâncime, ideale pentru familii, așa că nu uitați să vă aduceți propriul echipament pentru snorkeling.",
-            "en": "Loutro beach offers a peaceful retreat with crystal-clear shallow waters ideal for families, so bring your own snorkeling gear to explore the marine life."
+            "en": "Loutro beach offers a peaceful retreat with crystal-clear shallow waters ideal for families, so bring your own snorkeling gear to explore the marine life.",
+            "el": "Η παραλία Loutro προσφέρει γαλήνιο καταφύγιο με κρυστάλλινα ρηχά νερά ιδανικά για οικογένειες· φέρτε εξοπλισμό για κατάδυση με αναπνευστήρα για να εξερευνήσετε τη θαλάσσια ζωή."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Limni beach",
             "hu": "Limni beach",
             "ro": "Limni beach",
-            "en": "Limni beach"
+            "en": "Limni beach",
+            "el": "Limni beach"
           },
           "coords": [
             25.610699,
@@ -82,7 +87,8 @@
             "de": "Die kiesigen Ufer von Limni bilden einen dramatischen Küstenkontrast zu den Sandstränden und eignen sich hervorragend für Fotos, jedoch sind Badeschuhe sehr zu empfehlen.",
             "hu": "A Limni kavicsos partja drámai tengerparti kontrasztot nyújt a homokos strandokhoz képest, és kiválóan alkalmas fotózásra, bár a vízicipő használata erősen ajánlott.",
             "ro": "Țărmurile cu pietriș de la Limni oferă un contrast de coastă dramatic față de plajele cu nisip, fiind excelente pentru fotografii, deși încălțămintea de apă este recomandată.",
-            "en": "The pebbly shores of Limni provide a dramatic coastal contrast to sandy beaches, making it excellent for photography, though water shoes are highly recommended."
+            "en": "The pebbly shores of Limni provide a dramatic coastal contrast to sandy beaches, making it excellent for photography, though water shoes are highly recommended.",
+            "el": "Οι βοτσαλωτές ακτές της Limni προσφέρουν έντονη παράκτια αντίθεση με τις αμμώδεις παραλίες, ιδανική για φωτογραφία· συνιστώνται πολύ τα παπούτσια για νερό."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Foinikas",
             "hu": "Foinikas",
             "ro": "Foinikas",
-            "en": "Foinikas"
+            "en": "Foinikas",
+            "el": "Foinikas"
           },
           "coords": [
             25.613723,
@@ -105,7 +112,8 @@
             "de": "Berühmt für seine einladende Taverne und das türkisfarbene Wasser, ist Foinikas der ultimative Ort zum Entspannen am Mittag, wo Sie unbedingt die frischen Meeresfrüchte probieren sollten.",
             "hu": "A barátságos tavernájáról és türkizkék vizéről híres Foinikas a tökéletes déli pihenőhely, ahol mindenképpen érdemes megkóstolni a friss helyi tengeri herkentyűket.",
             "ro": "Faimoasă pentru taverna sa primitoare și apele turcoaz, Foinikas este locul ideal pentru o pauză relaxantă la prânz, unde trebuie neapărat să gustați fructele de mare proaspete.",
-            "en": "Famous for its welcoming tavern and turquoise waters, Foinikas is the ultimate midday relaxing stop, where you should definitely try the fresh local seafood."
+            "en": "Famous for its welcoming tavern and turquoise waters, Foinikas is the ultimate midday relaxing stop, where you should definitely try the fresh local seafood.",
+            "el": "Διάσημο για την φιλόξενη ταβέρνα και τα τιρκουάζ νερά του, το Foinikas είναι η απόλυτη στάση για χαλάρωση στο μεσημέρι· δοκιμάστε οπωσδήποτε τα φρέσκα τοπικά θαλασσινά."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Fanos",
             "hu": "Fanos",
             "ro": "Fanos",
-            "en": "Fanos"
+            "en": "Fanos",
+            "el": "Fanos"
           },
           "coords": [
             25.616388,
@@ -128,7 +137,8 @@
             "de": "Mit einer lebhaften Strandbar und fröhlicher Atmosphäre zieht Fanos ein junges Publikum an, also schnappen Sie sich einen erfrischenden Cocktail und genießen Sie die Musik.",
             "hu": "A nyüzsgő strandbárral és energikus légkörrel rendelkező Fanos vidám tömeget vonz, ezért kérjen egy frissítő koktélt, és élvezze a pezsgő szigeti zenét.",
             "ro": "Având un bar pe plajă vibrant și o atmosferă plină de energie, Fanos atrage o mulțime veselă, așa că luați un cocktail răcoritor și bucurați-vă de muzica insulei.",
-            "en": "Featuring a vibrant beach bar and energetic atmosphere, Fanos attracts a lively crowd, so grab a refreshing cocktail and enjoy the upbeat island music."
+            "en": "Featuring a vibrant beach bar and energetic atmosphere, Fanos attracts a lively crowd, so grab a refreshing cocktail and enjoy the upbeat island music.",
+            "el": "Με ζωντανό beach bar και ενεργητική ατμόσφαιρα, το Fanos προσελκύει φιλόξενους επισκέπτες· πάρτε ένα δροσιστικό κοκτέιλ και απολαύστε τη χαρούμενη νησιώτικη μουσική."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Italida",
             "hu": "Italida",
             "ro": "Italida",
-            "en": "Italida"
+            "en": "Italida",
+            "el": "Italida"
           },
           "coords": [
             25.619875,
@@ -151,7 +162,8 @@
             "de": "Italida gilt als einer der schönsten Strände der Insel und besticht durch goldenen Sand und unberührtes Wasser, aber denken Sie daran, dass es keinen natürlichen Schatten gibt.",
             "hu": "A sziget egyik legszebb strandjaként számon tartott Italida arany homokkal és érintetlen vízzel büszkélkedhet, de ne feledje, hogy itt egyáltalán nincs természetes árnyék.",
             "ro": "Considerată una dintre cele mai uimitoare plaje de pe insulă, Italida se mândrește cu nisip auriu și ape imaculate, dar rețineți că nu există absolut deloc umbră naturală.",
-            "en": "Regarded as one of the most stunning beaches on the island, Italida boasts golden sands and pristine waters, but remember there is no natural shade available."
+            "en": "Regarded as one of the most stunning beaches on the island, Italida boasts golden sands and pristine waters, but remember there is no natural shade available.",
+            "el": "Θεωρείται μία από τις ομορφότερες παραλίες του νησιού, η Italida διαθέτει χρυσαφένια άμμο και ακέραια νερά· θυμηθείτε όμως ότι δεν υπάρχει φυσική σκιά."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Morgens: Beginnen Sie Ihren Tag am Ammos, wo Sie den weichen Sand direkt am Hafen spüren, bevor ein sanfter Spaziergang Sie zu den ruhigen Ufern des Loutro-Strandes führt.\nMittags: Wenn die Sonne höher steigt, erkunden Sie die Kieselsteine von Limni und besuchen Sie dann Foinikas, um ein köstliches Mittagessen mit Meeresfrüchten am blauen Wasser zu genießen.\nNachmittags: Nach dem Ausruhen lädt die lebhafte Atmosphäre am Fanos zu einem erfrischenden Getränk an der Strandbar ein, begleitet von fröhlicher Inselmusik und warmen Ägäis-Brisen.\nAbends: Beenden Sie Ihren Spaziergang am majestätischen Italida-Strand, wo die späte Nachmittagssonne einen goldenen Schimmer auf die unberührte Landschaft wirft und den perfekten Abschluss bietet.",
         "hu": "Délelőtt: Kezdje a napot az Ammos finom homokján, közvetlenül a kikötő mellett, mielőtt egy kellemes séta elvezet a Loutro strand békés partjaira, ahol a sekély víz hívogat.\nDél: Ahogy a nap magasabbra hág, fedezze fel a Limni kavicsos textúráit, majd irány Foinikas, hogy élvezze a pompás tengeri ebédet a vibrálóan kék tengerparton.\nDélután: Pihenés után a Fanos élénk hangulata egy frissítő italra csábít a strandbárban, amelyet a vidám szigeti zene és a langyos égei-tengeri szellő kísér.\nEste: Fejezze be sétáját a fenséges Italida strandon, ahol a késő délutáni napfény aranyló fényt vet az érintetlen tájra, ami tökéletes befejezése ennek a csodás napnak.",
         "ro": "Dimineața: Începeți ziua la Ammos, simțind nisipul fin chiar lângă port, înainte ca o plimbare ușoară să vă poarte spre țărmurile pașnice și primitoare ale plajei Loutro.\nPrânz: Pe măsură ce soarele urcă, explorați texturile pietroase ale plajei Limni, apoi îndreptați-vă spre Foinikas pentru un prânz delicios cu fructe de mare lângă apele albastre.\nDupă-amiaza: După odihnă, atmosfera plină de viață de la Fanos vă invită la o băutură răcoritoare la barul de pe plajă, acompaniată de muzica veselă a insulei și briza caldă.\nSeara: Încheiați plimbarea la maiestuoasa plajă Italida, unde soarele târziu de după-amiază aruncă o strălucire aurie peste peisajul virgin, oferind un final perfect zilei.",
-        "en": "Morning: Begin your day at Ammos, feeling the soft sand between your toes right by the port, before a gentle stroll takes you to the peaceful shores of Loutro beach.\nMidday: As the sun climbs higher, explore the pebbly textures of Limni beach, and then head over to Foinikas to enjoy a delightful seafood lunch by the vibrant blue waters.\nAfternoon: After resting, the lively atmosphere at Fanos calls for a refreshing drink at the beach bar, accompanied by cheerful island music and warm Aegean breezes.\nEvening: Conclude your walk at the majestic Italida beach, where the late afternoon sun casts a golden glow over the untouched landscape, offering a perfect end to the day."
+        "en": "Morning: Begin your day at Ammos, feeling the soft sand between your toes right by the port, before a gentle stroll takes you to the peaceful shores of Loutro beach.\nMidday: As the sun climbs higher, explore the pebbly textures of Limni beach, and then head over to Foinikas to enjoy a delightful seafood lunch by the vibrant blue waters.\nAfternoon: After resting, the lively atmosphere at Fanos calls for a refreshing drink at the beach bar, accompanied by cheerful island music and warm Aegean breezes.\nEvening: Conclude your walk at the majestic Italida beach, where the late afternoon sun casts a golden glow over the untouched landscape, offering a perfect end to the day.",
+        "el": "Πρωί: Ξεκινήστε τη μέρα σας στο Ammos, νιώθοντας την απαλή άμμο ανάμεσα στα δάχτυλα δίπλα στο λιμάνι, πριν από έναν ήρεμο περίπατο προς τις γαλήνιες ακτές της παραλίας Loutro.\nΜεσημέρι: Καθώς ο ήλιος ανεβαίνει, εξερευνήστε τις βοτσαλωτές υφές της Limni και μετά κατευθυνθείτε στο Foinikas για ένα απολαυστικό θαλασσινό γεύμα δίπλα στα ζωηρά μπλε νερά.\nΑπόγευμα: Μετά από ανάπαυση, η ζωντανή ατμόσφαιρα του Fanos προσφέρεται για ένα δροσιστικό ποτό στο beach bar, συνοδευόμενο από χαρούμενη νησιώτικη μουσική και ζεστές αέρηδες του Αιγαίου.\nΒράδυ: Ολοκληρώστε τη βόλτα σας στην επιβλητική παραλία Italida, όπου το αργά το απόγευμα φως ρίχνει χρυσαφένια λάμψη στο ανεπηρέαστο τοπίο, προσφέροντας το τέλειο τέλος της ημέρας."
       },
       "variants": {
         "rainy": {
@@ -167,7 +180,8 @@
             "de": "Der Morgen beginnt am Hafen, wo die Fischerboote im Nebel schaukeln und eine melancholische Atmosphäre schaffen. Mittags folgen wir dem Küstenpfad und achten auf rutschige Felsen und spritzende Wellen. Am Nachmittag ziehen wir uns in die weißen Gassen zurück und suchen Schutz in einem Café. Am Abend spiegeln sich die Hafenlichter auf dem nassen Asphalt, bevor wir in unsere warme Unterkunft zurückkehren.",
             "hu": "Reggel a kikötőben kezdünk, ahol az esőben ringó halászhajók látványa melankolikus hangulatot áraszt. Délben a parti ösvényen haladunk, vigyázva a csúszós sziklákra és a felcsapó hullámokra. Délután a fehér házak falai közé húzódunk, keresve egy nyitva tartó kávézót a szűk utcák védelmében. Este a kikötői fények tükröződnek a vizes aszfalton, mielőtt visszatérnénk a szállásunk melegébe.",
             "ro": "Dimineața începe în port, unde bărcile de pescuit se leagănă în ceață, creând o atmosferă melancolică. La prânz, urmăm poteca de coastă, fiind atenți la stâncile alunecoase și valurile care se sparg. După-amiaza, ne retragem printre casele albe, căutând o cafenea la adăpostul străzilor înguste. Seara, luminile portului se reflectă pe asfaltul umed înainte de a ne întoarce la cazarea noastră călduroasă.",
-            "en": "Morning starts at the port where fishing boats sway in the mist, creating a melancholic atmosphere. At noon, we follow the coastal path, being careful of slippery rocks and splashing waves. In the afternoon, we retreat among the white houses, seeking a cafe sheltered within the narrow streets. In the evening, the port lights reflect on the wet asphalt before we return to our warm accommodation."
+            "en": "Morning starts at the port where fishing boats sway in the mist, creating a melancholic atmosphere. At noon, we follow the coastal path, being careful of slippery rocks and splashing waves. In the afternoon, we retreat among the white houses, seeking a cafe sheltered within the narrow streets. In the evening, the port lights reflect on the wet asphalt before we return to our warm accommodation.",
+            "el": "Το πρωί ξεκινά στο λιμάνι όπου τα αλιευτικά λικνίζονται στην ομίχλη, δημιουργώντας μια μελαγχολική ατμόσφαιρα. Το μεσημέρι ακολουθούμε το παράκτιο μονοπάτι, προσέχοντας τα ολισθηρά βράχια και τα πιτσίλισμα των κυμάτων. Το απόγευμα αποσύρομαστε ανάμεσα στα λευκά σπίτια, αναζητώντας ένα καφέ προστατευμένο στα στενά σοκάκια. Το βράδυ, τα φώτα του λιμανιού αντανακλώνται στην υγρή άσφαλτο πριν επιστρέψουμε στη ζεστή μας διαμονή."
           },
           "stops": [
             {
@@ -175,13 +189,15 @@
                 "de": "Ammos",
                 "hu": "Ammos",
                 "ro": "Ammos",
-                "en": "Ammos"
+                "en": "Ammos",
+                "el": "Ammos"
               },
               "tip_5lang": {
                 "de": "Der Hauptstrand wirkt bei Regen dramatisch; beobachten Sie die Wellen von einem nahegelegenen Café aus. Tragen Sie eine Regenjacke, da der Wind hier stark ist.",
                 "hu": "A főstrand drámai látványt nyújt esőben; figyeld a hullámokat egy közeli kávézóból. Viselj esőkabátot, mert itt a szél nagyon felerősödhet.",
                 "ro": "Plaja principală arată dramatic în ploaie; urmăriți valurile de la o cafenea din apropiere. Purtați o pelerină de ploaie, deoarece vântul este puternic aici.",
-                "en": "The main beach looks dramatic in the rain; watch the waves from a nearby cafe. Wear a raincoat as the wind can get very strong here."
+                "en": "The main beach looks dramatic in the rain; watch the waves from a nearby cafe. Wear a raincoat as the wind can get very strong here.",
+                "el": "Η κύρια παραλία φαίνεται δραματική στη βροχή· παρακολουθήστε τα κύματα από ένα κοντινό καφέ. Φορέστε αδιάβροχο καθώς ο άνεμος μπορεί να γίνει πολύ δυνατός εδώ."
               }
             },
             {
@@ -189,13 +205,15 @@
                 "de": "Loutro beach",
                 "hu": "Loutro beach",
                 "ro": "Loutro beach",
-                "en": "Loutro beach"
+                "en": "Loutro beach",
+                "el": "Loutro beach"
               },
               "tip_5lang": {
                 "de": "Die Überreste der alten Werft wirken im Regen fast mystisch; achten Sie auf die glitschigen Steine. Bewahren Sie Ihre Kamera in einer wasserdichten Tasche auf.",
                 "hu": "A régi hajógyár maradványai misztikus látványt nyújtanak az esőben; vigyázz a csúszós kövekre. A fényképezőt tartsd vízhatlan táskában.",
                 "ro": "Rămășițele vechiului șantier naval capătă o frumusețe aparte în ploaie; atenție la pietrele alunecoase. Păstrați camera într-o geantă impermeabilă.",
-                "en": "The old shipyard remains take on a haunting beauty in the rain; watch your step on the slick stones. Keep your camera in a dry bag."
+                "en": "The old shipyard remains take on a haunting beauty in the rain; watch your step on the slick stones. Keep your camera in a dry bag.",
+                "el": "Τα ερείπια του παλιού ναυπηγείου αποκτούν στοιχειωτική ομορφιά με τη βροχή· προσέχετε τα ολισθηρά πετρώματα. Κρατήστε την κάμερα σε στεγανή θήκη."
               }
             },
             {
@@ -203,13 +221,15 @@
                 "de": "Limni beach",
                 "hu": "Limni beach",
                 "ro": "Limni beach",
-                "en": "Limni beach"
+                "en": "Limni beach",
+                "el": "Limni beach"
               },
               "tip_5lang": {
                 "de": "Eine kleine Lagune, die den stürmischen Himmel widerspiegelt; ein toller Ort für Fotos. Achten Sie auf die Gezeiten und die rutschigen Ränder.",
                 "hu": "Egy kis lagúna, amely visszatükrözi a viharos eget; remek helyszín hangulatos fotókhoz. Figyeld az árapályt és a csúszós partszéleket.",
                 "ro": "O mică lagună care reflectă cerul furtunos; este un loc minunat pentru fotografii atmosferice. Fiți atenți la maree și la marginile alunecoase.",
-                "en": "A small lagoon that reflects the stormy sky; it's a great spot for atmospheric photos. Keep an eye on the rising tide and slippery edges."
+                "en": "A small lagoon that reflects the stormy sky; it's a great spot for atmospheric photos. Keep an eye on the rising tide and slippery edges.",
+                "el": "Μια μικρή λιμνοθάλασσα που αντανακλά τον θυελλώδη ουρανό· ιδανικό σημείο για ατμοσφαιρικές φωτογραφίες. Προσέξτε την ανεβασμένη παλίρροια και τις γλιστερές άκρες."
               }
             },
             {
@@ -217,13 +237,15 @@
                 "de": "Foinikas",
                 "hu": "Foinikas",
                 "ro": "Foinikas",
-                "en": "Foinikas"
+                "en": "Foinikas",
+                "el": "Foinikas"
               },
               "tip_5lang": {
                 "de": "Dieser Bereich bietet etwas Schutz durch die Gebäude; der Weg hierher kann jedoch schlammig sein. Ein stabiler Schirm ist gegen den Seitenwind nützlich.",
                 "hu": "Ez a rész némi épített menedéket nyújt a tavernák környékén; az út azonban sáros lehet. Egy erős esernyő hasznos a tenger felőli oldalszélben.",
                 "ro": "Această zonă oferă un adăpost arhitectural lângă taverne; totuși, poteca poate fi noroioasă. O umbrelă robustă este utilă împotriva vântului lateral.",
-                "en": "This area offers some architectural shelter near the taverns; however, the path can be muddy. A sturdy umbrella is useful against the lateral wind."
+                "en": "This area offers some architectural shelter near the taverns; however, the path can be muddy. A sturdy umbrella is useful against the lateral wind.",
+                "el": "Η περιοχή προσφέρει κάποιου είδους καταφύγιο κοντά στις ταβέρνες· ωστόσο, το μονοπάτι μπορεί να είναι λασπώδες. Μια στιβαρή ομπρέλα είναι χρήσιμη ενάντια στον πλευρικό άνεμο."
               }
             },
             {
@@ -231,13 +253,15 @@
                 "de": "Fanos",
                 "hu": "Fanos",
                 "ro": "Fanos",
-                "en": "Fanos"
+                "en": "Fanos",
+                "el": "Fanos"
               },
               "tip_5lang": {
                 "de": "Der breite Sandstrand ist auch nass gut begehbar, aber die Gischt ist konstant. Nutzen Sie wasserfeste Stiefel für die Wanderung am Ufer entlang.",
                 "hu": "A széles homokos part vizesen is jól járható, de a tenger permete állandó. Használj vízhatlan bakancsot a part menti túrához.",
                 "ro": "Plaja lată de nisip este ușor de parcurs chiar și udă, dar spray-ul mării este constant. Folosiți cizme impermeabile pentru traseul de pe țărm.",
-                "en": "The wide sandy stretch is easy to walk on even when wet, but the sea spray is constant. Use waterproof boots for the shoreline trek."
+                "en": "The wide sandy stretch is easy to walk on even when wet, but the sea spray is constant. Use waterproof boots for the shoreline trek.",
+                "el": "Η μεγάλη αμμώδης έκταση είναι εύκολη στο περπάτημα ακόμη και όταν βρεθεί, αλλά η θαλασσινή ψεκασμάδα είναι συνεχής. Χρησιμοποιήστε αδιάβροχες μπότες για τη διαδρομή στην ακτή."
               }
             },
             {
@@ -245,13 +269,15 @@
                 "de": "Italida",
                 "hu": "Italida",
                 "ro": "Italida",
-                "en": "Italida"
+                "en": "Italida",
+                "el": "Italida"
               },
               "tip_5lang": {
                 "de": "Der schönste Strand der Insel wirkt unter den Wolken wild und ungezähmt; halten Sie Abstand zur Brandung. Der Rückweg ist oft rutschig.",
                 "hu": "A sziget legszebb strandja vadnak és érintetlennek tűnik a felhők alatt; maradj távol a felcsapó hullámoktól. A visszaút ilyenkor csúszós.",
                 "ro": "Cea mai frumoasă plajă a insulei arată sălbatică sub nori; stați departe de valurile care se sparg. Poteca de întoarcere este alunecoasă.",
-                "en": "The most beautiful beach of the island looks wild and untamed under the clouds; stay clear of the crashing surf. The path back is slippery."
+                "en": "The most beautiful beach of the island looks wild and untamed under the clouds; stay clear of the crashing surf. The path back is slippery.",
+                "el": "Η πιο όμορφη παραλία του νησιού φαίνεται άγρια και αδέσποτη κάτω από τα σύννεφα· μείνετε μακριά από τα σπινθηρίζοντα κύματα. Το μονοπάτι της επιστροφής είναι ολισθηρό."
               }
             }
           ]
@@ -261,7 +287,8 @@
             "de": "An einem frischen Wintermorgen ist das Meer kristallklar und kalt, und das Dorf wird fast völlig still. Mittags wandern wir unter der blassen Sonne durch die Dünen. Am Nachmittag frischt der Wind oft auf, daher beenden wir die Tour früh, da die Sonne gegen 17:00 Uhr untergeht. Am Abend treibt uns das Rauschen des dunklen Meeres in die beheizten Innenräume zurück.",
             "hu": "A friss téli reggelen a tenger kristálytiszta és hideg, a falu pedig szinte teljesen elcsendesedik. Délben a nap bágyadt sugarai mellett sétálunk a dűnék között. Délután a szél felerősödhet, így érdemes korán befejezni a túrát, mert a nap már öt óra körül lebukik. Este a sötétkék tenger morajlása elől a fűtött beltérbe vágyódunk.",
             "ro": "Într-o dimineață proaspătă de iarnă, marea este cristalină și rece, iar satul devine aproape complet tăcut. La prânz, ne plimbăm printre dune sub soarele palid. După-amiaza, vântul se poate înteți, așa că încheiem turul devreme, soarele apunând în jurul orei 17:00. Seara, vuietul mării întunecate ne trimite înapoi în spațiile încălzite.",
-            "en": "On a fresh winter morning, the sea is crystal-clear and cold, and the village falls almost completely silent. At noon, we walk among the dunes under the pale sun. In the afternoon, the wind often picks up, so we end the tour early as the sun sets around 5 PM. In the evening, the roar of the dark sea drives us back into heated interiors."
+            "en": "On a fresh winter morning, the sea is crystal-clear and cold, and the village falls almost completely silent. At noon, we walk among the dunes under the pale sun. In the afternoon, the wind often picks up, so we end the tour early as the sun sets around 5 PM. In the evening, the roar of the dark sea drives us back into heated interiors.",
+            "el": "Σε ένα δροσερό χειμωνιάτικο πρωί, η θάλασσα είναι κρυστάλλινη και κρύα, και το χωριό βυθίζεται σχεδόν εντελώς στη σιωπή. Το μεσημέρι περπατάμε ανάμεσα στους αμμόλοφους κάτω από τον χλωμό ήλιο. Το απόγευμα ο αέρας συχνά δυναμώνει, οπότε τελειώνουμε την περιήγηση νωρίς καθώς ο ήλιος δύει γύρω στις 17:00. Το βράδυ, ο βρυχηθμός της σκοτεινής θάλασσας μας επιστρέφει σε θερμές εσωτερικές εγκαταστάσεις."
           },
           "stops": [
             {
@@ -269,13 +296,15 @@
                 "de": "Ammos",
                 "hu": "Ammos",
                 "ro": "Ammos",
-                "en": "Ammos"
+                "en": "Ammos",
+                "el": "Ammos"
               },
               "tip_5lang": {
                 "de": "Ein friedlicher Ort für einen morgendlichen Spaziergang; der Sand ist fest und die Luft belebend. Bringen Sie eine warme Mütze gegen die Meeresbrise mit.",
                 "hu": "Békés helyszín egy frissítő reggeli sétához; a homok ilyenkor kemény, a levegő pedig élénkítő. Vigyél meleg sapkát a tengeri szél ellen.",
                 "ro": "Un loc liniștit pentru o plimbare matinală; nisipul este ferm, iar aerul este revigorant. Aduceți o căciulă călduroasă pentru briza mării.",
-                "en": "A peaceful spot for a brisk morning walk; the sand is firm and the air is invigorating. Bring a warm hat for the sea breeze."
+                "en": "A peaceful spot for a brisk morning walk; the sand is firm and the air is invigorating. Bring a warm hat for the sea breeze.",
+                "el": "Ήρεμο σημείο για ζωηρό πρωινό περίπατο· η άμμος είναι σκληρή και ο αέρας αναζωογονητικός. Φέρτε ζεστό καπέλο για το θαλασσινό αεράκι."
               }
             },
             {
@@ -283,13 +312,15 @@
                 "de": "Loutro beach",
                 "hu": "Loutro beach",
                 "ro": "Loutro beach",
-                "en": "Loutro beach"
+                "en": "Loutro beach",
+                "el": "Loutro beach"
               },
               "tip_5lang": {
                 "de": "Die karge Landschaft betont das türkisfarbene Wasser auch im Winter; die Stille ist tief. Ziehen Sie sich warm an, da diese Seite dem Wind ausgesetzt ist.",
                 "hu": "A kopár táj télen is kiemeli a türkizkék vizet; a csend itt ilyenkor szinte tapintható. Öltözz rétegesen, mert ez az oldal nagyon szeles.",
                 "ro": "Peisajul auster evidențiază apa turcoaz chiar și iarna; liniștea este profundă. Îmbrăcați-vă bine, deoarece această parte este expusă vântului.",
-                "en": "The stark landscape highlights the turquoise water even in winter; the silence is profound. Layer up as this side is exposed to the wind."
+                "en": "The stark landscape highlights the turquoise water even in winter; the silence is profound. Layer up as this side is exposed to the wind.",
+                "el": "Το γυμνό τοπίο αναδεικνύει το τιρκουάζ νερό ακόμα και τον χειμώνα· η σιωπή είναι βαθιά. Ντυθείτε ζεστά καθώς αυτή η πλευρά εκτίθεται στον άνεμο."
               }
             },
             {
@@ -297,13 +328,15 @@
                 "de": "Limni beach",
                 "hu": "Limni beach",
                 "ro": "Limni beach",
-                "en": "Limni beach"
+                "en": "Limni beach",
+                "el": "Limni beach"
               },
               "tip_5lang": {
                 "de": "Die Lagune ist in der kalten Luft vollkommen still und transparent. Die Sonnenuntergangsfarben sind hier im Winter weich und pastellfarben.",
                 "hu": "A lagúna a hideg levegőben teljesen mozdulatlan és átlátszó. A naplemente színei itt télen lágyak és pasztellesek, tökéletesek egy fotóhoz.",
                 "ro": "Laguna este perfect nemișcată și transparentă în aerul rece. Culorile apusului de aici sunt moi și pastelate în timpul iernii.",
-                "en": "The lagoon is perfectly still and transparent in the cold air. Sunset colors here are soft and pastel in winter, perfect for a photo."
+                "en": "The lagoon is perfectly still and transparent in the cold air. Sunset colors here are soft and pastel in winter, perfect for a photo.",
+                "el": "Η λιμνοθάλασσα είναι τελείως ακίνητη και διαυγής στον ψυχρό αέρα. Τα χρώματα του ηλιοβασιλέματος εδώ είναι απαλά και παστέλ τον χειμώνα, ιδανικά για φωτογραφία."
               }
             },
             {
@@ -311,13 +344,15 @@
                 "de": "Foinikas",
                 "hu": "Foinikas",
                 "ro": "Foinikas",
-                "en": "Foinikas"
+                "en": "Foinikas",
+                "el": "Foinikas"
               },
               "tip_5lang": {
                 "de": "Die goldene Stunde trifft die Klippen auch im Dezember wunderschön; das Areal ist menschenleer. Die Sonne verschwindet früh hinter den Hügeln.",
                 "hu": "Az aranyóra fénye még decemberben is gyönyörűen festi meg a sziklákat; a környék teljesen néptelen. A nap korán eltűnik a dombok mögött.",
                 "ro": "Ora de aur lovește stâncile frumos chiar și în decembrie; zona este complet pustie. Soarele dispare devreme în spatele dealurilor.",
-                "en": "The golden hour hits the cliffs beautifully even in December; the area is totally deserted. The sun disappears early behind the hills."
+                "en": "The golden hour hits the cliffs beautifully even in December; the area is totally deserted. The sun disappears early behind the hills.",
+                "el": "Η χρυσή ώρα χτυπάει όμορφα τα βράχια ακόμα και τον Δεκέμβριο· η περιοχή είναι τελείως έρημη. Ο ήλιος εξαφανίζεται νωρίς πίσω από τους λόφους."
               }
             },
             {
@@ -325,13 +360,15 @@
                 "de": "Fanos",
                 "hu": "Fanos",
                 "ro": "Fanos",
-                "en": "Fanos"
+                "en": "Fanos",
+                "el": "Fanos"
               },
               "tip_5lang": {
                 "de": "Ein toller Ort, um die Winterdünung zu beobachten; die Farben des Meeres reichen von Indigo bis Weiß. Rechnen Sie mit scharfen Nordwinden.",
                 "hu": "Remek hely a téli hullámzás megfigyeléséhez; a tenger színei a mélykék és a fehér hab között váltakoznak. Számíts éles északi szélre.",
                 "ro": "Un loc minunat pentru a observa valurile de iarnă; culorile mării variază de la indigo la alb. Așteptați-vă la vânturi tăioase dinspre nord.",
-                "en": "A great spot to watch the winter swell; the colors of the sea range from deep indigo to white foam. Expect sharp winds from the north."
+                "en": "A great spot to watch the winter swell; the colors of the sea range from deep indigo to white foam. Expect sharp winds from the north.",
+                "el": "Εξαιρετικό σημείο για να παρακολουθήσετε το χειμωνιάτικο κύμα· τα χρώματα της θάλασσας κυμαίνονται από βαθύ индиγο έως λευκό αφρό. Αναμένετε δυνατούς βόρειους ανέμους."
               }
             },
             {
@@ -339,13 +376,15 @@
                 "de": "Italida",
                 "hu": "Italida",
                 "ro": "Italida",
-                "en": "Italida"
+                "en": "Italida",
+                "el": "Italida"
               },
               "tip_5lang": {
                 "de": "Pure Einsamkeit auf feinstem Sand; die tiefe Wintersonne wirft lange Schatten. Perfekt für ein kurzes Picknick an der frischen, kalten Luft.",
                 "hu": "Tiszta magány a legfinomabb homokon; az alacsony téli nap hosszú, drámai árnyékokat vet. Tökéletes egy gyors, hideg levegős piknikhez.",
                 "ro": "Singurătate pură pe cel mai fin nisip; soarele jos de iarnă creează umbre lungi și dramatice. Perfect pentru un picnic rapid în aerul rece.",
-                "en": "Pure solitude on the finest sand; the low winter sun creates long, dramatic shadows. Perfect for a quick, cold-air picnic."
+                "en": "Pure solitude on the finest sand; the low winter sun creates long, dramatic shadows. Perfect for a quick, cold-air picnic.",
+                "el": "Καθαρή μοναξιά στην καλύτερη άμμο· ο χαμηλός χειμερινός ήλιος δημιουργεί μακριές, δραματικές σκιές. Ιδανικό για ένα γρήγορο πικνίκ με κρύο αέρα."
               }
             }
           ]
@@ -365,7 +404,8 @@
             "de": "Ammos",
             "hu": "Ammos",
             "ro": "Ammos",
-            "en": "Ammos"
+            "en": "Ammos",
+            "el": "Ammos"
           },
           "coords": [
             25.602308,
@@ -380,7 +420,8 @@
             "de": "Genießen Sie den weichen Sand von Ammos direkt am Hafen, ideal für das erste Bad des Tages, aber kommen Sie früh, um einen guten Platz am Wasser zu sichern.",
             "hu": "Élvezze az Ammos finom homokját közvetlenül a kikötő mellett, amely tökéletes az első fürdőzéshez, de érkezzen korán, hogy jó helyet kapjon a víz közelében.",
             "ro": "Bucurați-vă de nisipul fin de la Ammos, lângă port, un loc perfect pentru prima baie a zilei, dar ajungeți devreme pentru a prinde un loc bun lângă apă.",
-            "en": "Enjoy the soft sands of Ammos right by the port, a perfect spot for your first swim of the day, but arrive early to secure a good place near the water."
+            "en": "Enjoy the soft sands of Ammos right by the port, a perfect spot for your first swim of the day, but arrive early to secure a good place near the water.",
+            "el": "Απολαύστε την απαλή άμμο του Ammos δίπλα στο λιμάνι, ιδανικό μέρος για το πρώτο σας μπάνιο της ημέρας, αλλά φτάστε νωρίς για να εξασφαλίσετε καλό σημείο κοντά στο νερό."
           }
         },
         {
@@ -388,7 +429,8 @@
             "de": "Limni beach",
             "hu": "Limni beach",
             "ro": "Limni beach",
-            "en": "Limni beach"
+            "en": "Limni beach",
+            "el": "Limni beach"
           },
           "coords": [
             25.610699,
@@ -403,7 +445,8 @@
             "de": "Die kiesigen Ufer von Limni bilden einen dramatischen Küstenkontrast zu den Sandstränden und eignen sich hervorragend für Fotos, jedoch sind Badeschuhe sehr zu empfehlen.",
             "hu": "A Limni kavicsos partja drámai tengerparti kontrasztot nyújt a homokos strandokhoz képest, és kiválóan alkalmas fotózásra, bár a vízicipő használata erősen ajánlott.",
             "ro": "Țărmurile cu pietriș de la Limni oferă un contrast de coastă dramatic față de plajele cu nisip, fiind excelente pentru fotografii, deși încălțămintea de apă este recomandată.",
-            "en": "The pebbly shores of Limni provide a dramatic coastal contrast to sandy beaches, making it excellent for photography, though water shoes are highly recommended."
+            "en": "The pebbly shores of Limni provide a dramatic coastal contrast to sandy beaches, making it excellent for photography, though water shoes are highly recommended.",
+            "el": "Οι βοτσαλωτές ακτές της Limni προσφέρουν έντονη παράκτια αντίθεση με τις αμμώδεις παραλίες, ιδανική για φωτογραφία· συνιστώνται πολύ τα παπούτσια για νερό."
           }
         },
         {
@@ -411,7 +454,8 @@
             "de": "Foinikas",
             "hu": "Foinikas",
             "ro": "Foinikas",
-            "en": "Foinikas"
+            "en": "Foinikas",
+            "el": "Foinikas"
           },
           "coords": [
             25.613723,
@@ -426,7 +470,8 @@
             "de": "Berühmt für seine einladende Taverne und das türkisfarbene Wasser, ist Foinikas der ultimative Ort zum Entspannen am Mittag, wo Sie unbedingt die frischen Meeresfrüchte probieren sollten.",
             "hu": "A barátságos tavernájáról és türkizkék vizéről híres Foinikas a tökéletes déli pihenőhely, ahol mindenképpen érdemes megkóstolni a friss helyi tengeri herkentyűket.",
             "ro": "Faimoasă pentru taverna sa primitoare și apele turcoaz, Foinikas este locul ideal pentru o pauză relaxantă la prânz, unde trebuie neapărat să gustați fructele de mare proaspete.",
-            "en": "Famous for its welcoming tavern and turquoise waters, Foinikas is the ultimate midday relaxing stop, where you should definitely try the fresh local seafood."
+            "en": "Famous for its welcoming tavern and turquoise waters, Foinikas is the ultimate midday relaxing stop, where you should definitely try the fresh local seafood.",
+            "el": "Διάσημο για την φιλόξενη ταβέρνα και τα τιρκουάζ νερά του, το Foinikas είναι η απόλυτη στάση για χαλάρωση στο μεσημέρι· δοκιμάστε οπωσδήποτε τα φρέσκα τοπικά θαλασσινά."
           }
         },
         {
@@ -434,7 +479,8 @@
             "de": "Fanos",
             "hu": "Fanos",
             "ro": "Fanos",
-            "en": "Fanos"
+            "en": "Fanos",
+            "el": "Fanos"
           },
           "coords": [
             25.616388,
@@ -449,7 +495,8 @@
             "de": "Mit einer lebhaften Strandbar und fröhlicher Atmosphäre zieht Fanos ein junges Publikum an, also schnappen Sie sich einen erfrischenden Cocktail und genießen Sie die Musik.",
             "hu": "A nyüzsgő strandbárral és energikus légkörrel rendelkező Fanos vidám tömeget vonz, ezért kérjen egy frissítő koktélt, és élvezze a pezsgő szigeti zenét.",
             "ro": "Având un bar pe plajă vibrant și o atmosferă plină de energie, Fanos atrage o mulțime veselă, așa că luați un cocktail răcoritor și bucurați-vă de muzica insulei.",
-            "en": "Featuring a vibrant beach bar and energetic atmosphere, Fanos attracts a lively crowd, so grab a refreshing cocktail and enjoy the upbeat island music."
+            "en": "Featuring a vibrant beach bar and energetic atmosphere, Fanos attracts a lively crowd, so grab a refreshing cocktail and enjoy the upbeat island music.",
+            "el": "Με ζωντανό beach bar και ενεργητική ατμόσφαιρα, το Fanos προσελκύει φιλόξενους επισκέπτες· πάρτε ένα δροσιστικό κοκτέιλ και απολαύστε τη χαρούμενη νησιώτικη μουσική."
           }
         },
         {
@@ -457,7 +504,8 @@
             "de": "Italida",
             "hu": "Italida",
             "ro": "Italida",
-            "en": "Italida"
+            "en": "Italida",
+            "el": "Italida"
           },
           "coords": [
             25.619875,
@@ -472,7 +520,8 @@
             "de": "Italida gilt als einer der schönsten Strände der Insel und besticht durch goldenen Sand und unberührtes Wasser, aber denken Sie daran, dass es keinen natürlichen Schatten gibt.",
             "hu": "A sziget egyik legszebb strandjaként számon tartott Italida arany homokkal és érintetlen vízzel büszkélkedhet, de ne feledje, hogy itt egyáltalán nincs természetes árnyék.",
             "ro": "Considerată una dintre cele mai uimitoare plaje de pe insulă, Italida se mândrește cu nisip auriu și ape imaculate, dar rețineți că nu există absolut deloc umbră naturală.",
-            "en": "Regarded as one of the most stunning beaches on the island, Italida boasts golden sands and pristine waters, but remember there is no natural shade available."
+            "en": "Regarded as one of the most stunning beaches on the island, Italida boasts golden sands and pristine waters, but remember there is no natural shade available.",
+            "el": "Θεωρείται μία από τις ομορφότερες παραλίες του νησιού, η Italida διαθέτει χρυσαφένια άμμο και ακέραια νερά· θυμηθείτε όμως ότι δεν υπάρχει φυσική σκιά."
           }
         },
         {
@@ -480,7 +529,8 @@
             "de": "Pori",
             "hu": "Pori",
             "ro": "Pori",
-            "en": "Pori"
+            "en": "Pori",
+            "el": "Pori"
           },
           "coords": [
             25.621903,
@@ -495,7 +545,8 @@
             "de": "Als herrliche, windgeschützte Bucht in Halbmondform ist Pori ein atemberaubendes Paradies, also machen Sie unbedingt einen Spaziergang zu den nahegelegenen Meereshöhlen.",
             "hu": "A szélvédett, félhold alakú pompás öbölként elterülő Pori egy lélegzetelállító paradicsom, ezért tegyen egy sétát a közeli tengeri barlangokhoz egy kis extra kalandért.",
             "ro": "O magnifică baia în formă de semilună care vă protejează de vânt, Pori este un paradis uluitor, așa că faceți o plimbare până la peșterile marine din apropiere.",
-            "en": "A magnificent crescent-shaped bay protecting you from the wind, Pori is a breathtaking paradise, so take a walk to the nearby sea caves for an extra adventure."
+            "en": "A magnificent crescent-shaped bay protecting you from the wind, Pori is a breathtaking paradise, so take a walk to the nearby sea caves for an extra adventure.",
+            "el": "Η μεγαλόπρεπη ημισεληνοειδής αμμουδιά που σας προστατεύει από τον άνεμο, το Pori είναι ένας μαγευτικός παράδεισος· περπατήστε προς τις κοντινές θαλάσσιες σπηλιές για επιπλέον περιπέτεια."
           }
         }
       ],
@@ -503,7 +554,8 @@
         "de": "Morgens: Beginnen Sie Ihre Radtour direkt in der Stadt am Ammos und saugen Sie die frühe Inselatmosphäre auf, bevor Sie gemütlich zur einzigartigen Felsküste von Limni radeln.\nMittags: Die kurze Fahrt nach Foinikas belohnt Sie mit einem hervorragenden Ort für eine Mittagspause, gefolgt von einem Stopp in Fanos, um die energiegeladene Atmosphäre zu genießen.\nNachmittags: Radeln Sie weiter zu den unberührten goldenen Sandstränden von Italida, einem atemberaubenden Küstenabschnitt, wo Sie ganz in die natürliche Schönheit eintauchen können.\nAbends: Ihre letzte Fahrt bringt Sie zur prächtigen, halbmondförmigen Bucht von Pori, die spektakuläre Ausblicke und eine ruhige Umgebung bietet, um den Sonnenuntergang zu genießen.",
         "hu": "Délelőtt: Kezdje kerékpártúráját a városban, az Ammosnál, magába szívva a korai szigeti hangulatot, mielőtt könnyedén áttekerne a Limni strand egyedülálló sziklás partvonalához.\nDél: A rövid út Foinikasba egy kiváló déli pihenőhellyel jutalmazza meg, amelyet egy gyors megálló követ a Fanosnál, ahol élvezheti az energikus légkört és a hűsítő tengert.\nDélután: Folytassa útját az Italida érintetlen aranyhomokja felé, amely egy lenyűgöző partszakasz, ahol teljesen elmerülhet Koufonisia természetes szépségében és békéjében.\nEste: Az utolsó tekerés eljuttat Pori fenséges, félhold alakú öblébe, amely látványos kilátást és nyugodt környezetet kínál a lazításhoz, miközben a nap lemegy az Égei-tenger felett.",
         "ro": "Dimineața: Începeți turul cu bicicleta chiar în oraș la Ammos, absorbind atmosfera matinală, înainte de a pedala ușor spre coasta stâncoasă și unică de la plaja Limni.\nPrânz: Scurta călătorie către Foinikas vă răsplătește cu un loc excelent pentru prânz, urmat de o oprire rapidă la Fanos pentru a vă bucura de ambianța energică și marea răcoroasă.\nDupă-amiaza: Continuați să pedalați spre nisipurile aurii și imaculate de la Italida, o întindere de coastă uimitoare unde vă puteți cufunda complet în frumusețea naturală a insulei.\nSeara: Ultima plimbare vă aduce la magnificul golf în formă de semilună Pori, oferind vederi spectaculoase și un mediu senin pentru relaxare, în timp ce soarele apune peste mare.",
-        "en": "Morning: Kick off your cycling tour right in town at Ammos, soaking up the early island vibes before easily pedaling your way to the unique rocky coastline of Limni beach.\nMidday: The short ride to Foinikas rewards you with an excellent spot for a midday break, followed by a quick stop at Fanos to enjoy the energetic ambiance and refreshing sea.\nAfternoon: Continue cycling towards the pristine golden sands of Italida, a stunning stretch of coastline where you can fully immerse yourself in the natural beauty of Koufonisia.\nEvening: Your final ride brings you to the magnificent crescent bay of Pori, offering spectacular views and a serene environment to relax as the sun sets over the Aegean Sea."
+        "en": "Morning: Kick off your cycling tour right in town at Ammos, soaking up the early island vibes before easily pedaling your way to the unique rocky coastline of Limni beach.\nMidday: The short ride to Foinikas rewards you with an excellent spot for a midday break, followed by a quick stop at Fanos to enjoy the energetic ambiance and refreshing sea.\nAfternoon: Continue cycling towards the pristine golden sands of Italida, a stunning stretch of coastline where you can fully immerse yourself in the natural beauty of Koufonisia.\nEvening: Your final ride brings you to the magnificent crescent bay of Pori, offering spectacular views and a serene environment to relax as the sun sets over the Aegean Sea.",
+        "el": "Πρωί: Ξεκινήστε την ποδηλατική σας διαδρομή στην πόλη στο Ammos, απολαμβάνοντας τις πρώιμες νησιώτικες δονήσεις πριν πετάξετε εύκολα προς την ιδιαίτερη βραχώδη ακτή της Limni.\nΜεσημέρι: Η σύντομη βόλτα προς το Foinikas σας ανταμείβει με εξαιρετικό σημείο για μεσημεριανή ανάπαυλα, ακολουθούμενη από γρήγορη στάση στο Fanos για να απολαύσετε τη ζωηρή ατμόσφαιρα και τη δροσιστική θάλασσα.\nΑπόγευμα: Συνεχίστε ποδηλατώντας προς τις ακέραιες χρυσαφένιες αμμουδιές της Italida, ένα εκπληκτικό κομμάτι ακτογραμμής όπου μπορείτε να βυθιστείτε στην φυσική ομορφιά των Κουφονησίων.\nΒράδυ: Η τελευταία σας βόλτα σας φέρνει στον μεγαλοπρεπή ημισεληνοειδή κόλπο του Pori, προσφέροντας θεαματικές απόψεις και ήρεμο περιβάλλον για να χαλαρώσετε καθώς ο ήλιος δύει πάνω από το Αιγαίο."
       },
       "variants": {
         "rainy": {
@@ -511,7 +563,8 @@
             "de": "Radfahren im Regen ist auf der Insel eine Herausforderung; am Ortsrand ist der Weg noch gut, aber zur Küste hin wird es schlammig. Mittags rasten wir in windgeschützten Buchten und beobachten das graue Meer. Am Nachmittag fahren wir zum regennassen Pori, wo die Kraft des Meeres beeindruckt. Abends wärmen wir uns im Hafen auf und beobachten die stürmische See.",
             "hu": "A kerékpározás esőben kihívás a szigeten; a falu szélén még jól tapad az út, de a part felé sárra számíthatunk. Délben a szélvédett öblökben pihenünk, figyelve az acélszürke vizet. Délután az ázott Pori felé tekerünk, ahol a tenger ereje lenyűgöző. Este a kikötő egyik védett pontján zárjuk a napot, figyelve a viharos tengert.",
             "ro": "Ciclismul pe ploaie este o provocare pe insulă; la marginea satului drumul este bun, dar spre coastă devine noroios. La prânz, ne odihnim în golfuri ferite de vânt, privind marea cenușie. După-amiaza, pedalăm spre Pori, unde forța mării este impresionantă. Seara, ne încălzim în port, urmărind marea furtunoasă.",
-            "en": "Cycling in the rain is a challenge on the island; at the edge of the village the road is still good, but towards the coast, expect mud. At noon, we rest in sheltered bays, watching the steel-gray water. In the afternoon, we ride towards rainy Pori, where the sea's power is impressive. In the evening, we warm up at the port, watching the stormy sea."
+            "en": "Cycling in the rain is a challenge on the island; at the edge of the village the road is still good, but towards the coast, expect mud. At noon, we rest in sheltered bays, watching the steel-gray water. In the afternoon, we ride towards rainy Pori, where the sea's power is impressive. In the evening, we warm up at the port, watching the stormy sea.",
+            "el": "Το ποδήλατο στη βροχή είναι πρόκληση στο νησί· στο άκρο του χωριού ο δρόμος παραμένει καλός, αλλά προς την ακτή αναμένετε λάσπη. Το μεσημέρι ξεκουραζόμαστε σε προστατευμένους όρμους, παρακολουθώντας το ατσάλινο γκρίζο νερό. Το απόγευμα ποδηλατούμε προς το βροχερό Pori, όπου η δύναμη της θάλασσας είναι εντυπωσιακή. Το βράδυ ζεσταινόμαστε στο λιμάνι, παρακολουθώντας τη θυελλώδη θάλασσα."
           },
           "stops": [
             {
@@ -519,13 +572,15 @@
                 "de": "Ammos",
                 "hu": "Ammos",
                 "ro": "Ammos",
-                "en": "Ammos"
+                "en": "Ammos",
+                "el": "Ammos"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie Ihre Bremsen, bevor Sie losfahren; der Asphalt im Hafen wird bei Nässe extrem rutschig. Starten Sie vorsichtig in den Tag.",
                 "hu": "Indulás előtt ellenőrizd a fékeket; a kikötői aszfalt vizesen rendkívül csúszóssá válik. Kezdd óvatosan a napot.",
                 "ro": "Verificați frânele înainte de a pleca; asfaltul din port devine extrem de alunecos când este ud. Începeți ziua cu prudență.",
-                "en": "Check your brakes before setting off; the asphalt in the port becomes extremely slippery when wet. Start your day cautiously."
+                "en": "Check your brakes before setting off; the asphalt in the port becomes extremely slippery when wet. Start your day cautiously.",
+                "el": "Ελέγξτε τα φρένα πριν ξεκινήσετε· η άσφαλτος στο λιμάνι γίνεται εξαιρετικά ολισθηρή όταν βραχεί. Ξεκινήστε με προσοχή."
               }
             },
             {
@@ -533,13 +588,15 @@
                 "de": "Limni beach",
                 "hu": "Limni beach",
                 "ro": "Limni beach",
-                "en": "Limni beach"
+                "en": "Limni beach",
+                "el": "Limni beach"
               },
               "tip_5lang": {
                 "de": "Der Pfad hierher kann Pfützen bilden; fahren Sie langsam, um Schlammspritzer zu vermeiden. Die Lagune wirkt im Regen besonders ruhig.",
                 "hu": "Az idevezető úton tócsák alakulhatnak ki; tekerj lassan, hogy elkerüld a sárfelverődést. A lagúna esőben különösen csendesnek tűnik.",
                 "ro": "Poteca spre plajă poate avea bălți; pedalați încet pentru a evita stropii de noroi. Laguna pare deosebit de liniștită în ploaie.",
-                "en": "The path here can develop puddles; ride slowly to avoid mud splashes. The lagoon looks particularly quiet and still in the rain."
+                "en": "The path here can develop puddles; ride slowly to avoid mud splashes. The lagoon looks particularly quiet and still in the rain.",
+                "el": "Το μονοπάτι εδώ μπορεί να σχηματίσει λακκούβες· ποδηλατήστε αργά για να αποφύγετε πιτσιλιές λάσπης. Η λιμνοθάλασσα δείχνει ιδιαίτερα ήρεμη και ακίνητη στη βροχή."
               }
             },
             {
@@ -547,13 +604,15 @@
                 "de": "Foinikas",
                 "hu": "Foinikas",
                 "ro": "Foinikas",
-                "en": "Foinikas"
+                "en": "Foinikas",
+                "el": "Foinikas"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad an einem stabilen Ort, da Böen es umwerfen könnten. Nutzen Sie die Gebäude als Windschutz für eine kurze Pause.",
                 "hu": "Parkold a biciklit stabil helyre, mert a széllökések feldönthetik. Használd az épületeket szélfogónak egy rövid pihenő erejéig.",
                 "ro": "Parcați bicicleta într-un loc stabil, deoarece rafalele o pot răsturna. Folosiți clădirile ca paravan împotriva vântului pentru o scurtă pauză.",
-                "en": "Park your bike in a stable spot as gusts could knock it over. Use the buildings as a windbreak for a short rest break."
+                "en": "Park your bike in a stable spot as gusts could knock it over. Use the buildings as a windbreak for a short rest break.",
+                "el": "Στερεώστε το ποδήλατο σε σταθερό σημείο καθώς οι ριπές μπορεί να το αναποδογυρίσουν. Χρησιμοποιήστε τα κτίσματα ως ανεμοφρακτικό για σύντομη ανάπαυλα."
               }
             },
             {
@@ -561,13 +620,15 @@
                 "de": "Fanos",
                 "hu": "Fanos",
                 "ro": "Fanos",
-                "en": "Fanos"
+                "en": "Fanos",
+                "el": "Fanos"
               },
               "tip_5lang": {
                 "de": "Die Meeresgischt kann Ihr Rad korrodieren lassen; wischen Sie es später mit Süßwasser ab. Der Sand ist am Ufer fest, aber das Fahren ist schwer.",
                 "hu": "A tenger permete korrodálhatja a biciklit; később töröld át édesvízzel. A homok a parton kemény, de a tekerés nehéz lehet.",
                 "ro": "Spray-ul mării poate coroda bicicleta; ștergeți-o mai târziu cu apă dulce. Nisipul este ferm pe țărm, dar pedalatul poate fi greu.",
-                "en": "The sea spray can corrode your bike; wipe it down with fresh water later. The sand is firm at the shore, but riding can be tough."
+                "en": "The sea spray can corrode your bike; wipe it down with fresh water later. The sand is firm at the shore, but riding can be tough.",
+                "el": "Η θαλασσινή ψεκασμάδα μπορεί να διαβρώσει το ποδήλατό σας· σκουπίστε το με γλυκό νερό αργότερα. Η άμμος είναι σφιχτή στην ακτή, αλλά η ποδηλασία μπορεί να είναι δύσκολη."
               }
             },
             {
@@ -575,13 +636,15 @@
                 "de": "Italida",
                 "hu": "Italida",
                 "ro": "Italida",
-                "en": "Italida"
+                "en": "Italida",
+                "el": "Italida"
               },
               "tip_5lang": {
                 "de": "Der Weg wird hier schmal und steinig; steigen Sie bei starkem Regen lieber ab. Die Aussicht auf die stürmische See ist den Halt wert.",
                 "hu": "Az út itt keskennyé és kövessé válik; heves esőben inkább szállj le a nyeregből. A viharos tenger látványa megéri a megállást.",
                 "ro": "Drumul devine îngust și pietros aici; coborâți de pe bicicletă în caz de ploaie abundentă. Vederea mării furtunoase merită oprirea.",
-                "en": "The path becomes narrow and stony here; dismount if the rain gets heavy. The view of the stormy sea is well worth the stop."
+                "en": "The path becomes narrow and stony here; dismount if the rain gets heavy. The view of the stormy sea is well worth the stop.",
+                "el": "Το μονοπάτι γίνεται στενό και λιθώδες εδώ· κατεβείτε από το ποδήλατο αν η βροχή ενταθεί. Η θέα της θυελλώδους θάλασσας δικαιώνει τη στάση."
               }
             },
             {
@@ -589,13 +652,15 @@
                 "de": "Pori",
                 "hu": "Pori",
                 "ro": "Pori",
-                "en": "Pori"
+                "en": "Pori",
+                "el": "Pori"
               },
               "tip_5lang": {
                 "de": "Die exponierte Bucht ist sehr windig; achten Sie auf Ihr Gleichgewicht auf dem Rad. Die Höhlen bieten einen dramatischen Anblick im Regen.",
                 "hu": "A nyitott öbölben nagy a szél; ügyelj az egyensúlyodra a biciklin. A barlangok drámai látványt nyújtanak az esőben.",
                 "ro": "Golful expus este foarte vântos; atenție la echilibru pe bicicletă. Peșterile oferă o priveliște dramatică în ploaie.",
-                "en": "The exposed bay is very windy; watch your balance on the bike. The caves offer a dramatic sight during a rainstorm."
+                "en": "The exposed bay is very windy; watch your balance on the bike. The caves offer a dramatic sight during a rainstorm.",
+                "el": "Ο εκτεθειμένος κόλπος είναι πολύ ανεμώδης· προσέξτε την ισορροπία σας πάνω στο ποδήλατο. Οι σπηλιές προσφέρουν δραματικό θέαμα κατά τη διάρκεια της καταιγίδας."
               }
             }
           ]
@@ -605,7 +670,8 @@
             "de": "Ein klarer, aber bissiger Morgen erwartet Sie; auf dem Rad fühlt sich der Wind kälter an, daher ist Schutzkleidung unerlässlich. Mittags folgen wir dem Küstenweg und genießen den Kontrast zwischen dem blauen Wasser und der kargen Landschaft. Vor dem frühen Sonnenuntergang erreichen wir Pori. Abends kehren wir wegen der sinkenden Temperaturen schnell ins Dorf zurück.",
             "hu": "Tiszta, de csípős reggel fogad; a biciklin a szél hűvösebbnek érződik, így a réteges öltözködés elengedhetetlen. Délben a parti úton haladva élvezzük a kék víz és a kopár táj kontrasztját. A korai naplemente előtt elérjük Porit. Este a gyorsan hűlő levegő elől hamar visszatekerünk a falu központjába.",
             "ro": "O dimineață senină, dar tăioasă; pe bicicletă vântul se simte mai rece, așa că îmbrăcămintea stratificată este esențială. La prânz, urmăm drumul de coastă, bucurându-ne de contrastul dintre apa albastră și peisajul arid. Ajungem la Pori înainte de apusul timpuriu. Seara, ne întoarcem rapid în sat din cauza frigului.",
-            "en": "A clear but biting morning awaits; on the bike, the wind feels colder, so layered clothing is essential. At noon, we follow the coastal path, enjoying the contrast between the blue water and the barren landscape. We reach Pori before the early sunset. In the evening, we head back to the village quickly as the temperature drops."
+            "en": "A clear but biting morning awaits; on the bike, the wind feels colder, so layered clothing is essential. At noon, we follow the coastal path, enjoying the contrast between the blue water and the barren landscape. We reach Pori before the early sunset. In the evening, we head back to the village quickly as the temperature drops.",
+            "el": "Σαφές αλλά τσουχτερό πρωί περιμένει· πάνω στο ποδήλατο ο άνεμος φαίνεται ψυχρότερος, οπότε τα στρώματα ρούχων είναι απαραίτητα. Το μεσημέρι ακολουθούμε το παράκτιο μονοπάτι, απολαμβάνοντας την αντίθεση ανάμεσα στο μπλε νερό και το γυμνό τοπίο. Φτάνουμε στο Pori πριν το νωρίς ηλιοβασίλεμα. Το βράδυ επιστρέφουμε γρήγορα στο χωριό καθώς η θερμοκρασία πέφτει."
           },
           "stops": [
             {
@@ -613,13 +679,15 @@
                 "de": "Ammos",
                 "hu": "Ammos",
                 "ro": "Ammos",
-                "en": "Ammos"
+                "en": "Ammos",
+                "el": "Ammos"
               },
               "tip_5lang": {
                 "de": "Die Winterluft ist perfekt für eine schnelle Fahrt; tragen Sie winddichte Handschuhe. Der Hafen ist morgens fast menschenleer.",
                 "hu": "A téli levegő tökéletes egy gyors tekeréshez; viselj szélálló kesztyűt. A kikötő reggelente szinte teljesen néptelen ilyenkor.",
                 "ro": "Aerul de iarnă este perfect pentru o tură rapidă; purtați mănuși rezistente la vânt. Portul este aproape pustiu dimineața.",
-                "en": "The winter air is perfect for a brisk ride; wear windproof gloves. The port is almost completely deserted in the mornings."
+                "en": "The winter air is perfect for a brisk ride; wear windproof gloves. The port is almost completely deserted in the mornings.",
+                "el": "Ο χειμωνιάτικος αέρας είναι τέλειος για ζωηρή βόλτα· φορέστε αδιάβροχα γάντια. Το λιμάνι είναι σχεδόν εντελώς έρημο τα πρωινά."
               }
             },
             {
@@ -627,13 +695,15 @@
                 "de": "Limni beach",
                 "hu": "Limni beach",
                 "ro": "Limni beach",
-                "en": "Limni beach"
+                "en": "Limni beach",
+                "el": "Limni beach"
               },
               "tip_5lang": {
                 "de": "Machen Sie eine kurze Pause, um die Stille zu genießen; die Kälte macht das Wasser unglaublich klar. Der Weg ist trocken und gut befahrbar.",
                 "hu": "Tarts egy rövid szünetet a csendért; a hideg miatt a víz hihetetlenül tiszta. Az út ilyenkor száraz és jól tekerhető.",
                 "ro": "Faceți o scurtă pauză pentru a savura liniștea; frigul face apa incredibil de clară. Drumul este uscat și ușor de parcurs.",
-                "en": "Take a short break to enjoy the silence; the cold makes the water incredibly clear. The path is dry and easy to cycle on."
+                "en": "Take a short break to enjoy the silence; the cold makes the water incredibly clear. The path is dry and easy to cycle on.",
+                "el": "Κάντε μια σύντομη στάση για να απολαύσετε τη σιωπή· το κρύο κάνει το νερό απίστευτα διαυγές. Το μονοπάτι είναι ξηρό και εύκολο στην ποδηλασία."
               }
             },
             {
@@ -641,13 +711,15 @@
                 "de": "Foinikas",
                 "hu": "Foinikas",
                 "ro": "Foinikas",
-                "en": "Foinikas"
+                "en": "Foinikas",
+                "el": "Foinikas"
               },
               "tip_5lang": {
                 "de": "Die tiefstehende Sonne bietet wunderbares Licht zum Fotografieren; es gibt hier keinen Windschutz. Achten Sie auf den kühlen Nordwind.",
                 "hu": "Az alacsonyan járó nap csodás fényeket ad a fotózáshoz; itt nincs szélvédelem. Figyelj a hűvös északi szélre tekerés közben.",
                 "ro": "Soarele jos oferă o lumină minunată pentru fotografii; aici nu există protecție împotriva vântului. Atenție la vântul rece de nord.",
-                "en": "The low sun provides wonderful light for photography; there is no wind protection here. Watch out for the cool north wind while riding."
+                "en": "The low sun provides wonderful light for photography; there is no wind protection here. Watch out for the cool north wind while riding.",
+                "el": "Ο χαμηλός ήλιος προσφέρει υπέροχο φωτισμό για φωτογραφίες· εδώ δεν υπάρχει προστασία από τον άνεμο. Προσέξτε τον ψυχρό βόρειο άνεμο κατά την ποδηλασία."
               }
             },
             {
@@ -655,13 +727,15 @@
                 "de": "Fanos",
                 "hu": "Fanos",
                 "ro": "Fanos",
-                "en": "Fanos"
+                "en": "Fanos",
+                "el": "Fanos"
               },
               "tip_5lang": {
                 "de": "Die Meeresfarben sind im Winter tiefer; ein toller Ort für eine kurze Rast. Der Wind kann auf dem Rad anstrengend sein.",
                 "hu": "A tenger színei télen mélyebbek; remek hely egy rövid pihenőre. A széllel szemben a tekerés fárasztó lehet.",
                 "ro": "Culorile mării sunt mai profunde iarna; un loc minunat pentru o scurtă odihnă. Vântul poate face pedalatul obositor.",
-                "en": "The sea colors are deeper in winter; a great spot for a short rest. Riding against the wind can be tiring on this stretch."
+                "en": "The sea colors are deeper in winter; a great spot for a short rest. Riding against the wind can be tiring on this stretch.",
+                "el": "Τα χρώματα της θάλασσας είναι βαθύτερα τον χειμώνα· εξαιρετικό σημείο για σύντομη ανάπαυλα. Η ποδηλασία ενάντια στον άνεμο μπορεί να κουράσει σε αυτό το κομμάτι."
               }
             },
             {
@@ -669,13 +743,15 @@
                 "de": "Italida",
                 "hu": "Italida",
                 "ro": "Italida",
-                "en": "Italida"
+                "en": "Italida",
+                "el": "Italida"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Strand ganz für sich; die Schatten der Felsen werden am Nachmittag lang. Beginnen Sie bald mit der Rückfahrt.",
                 "hu": "Élvezd, hogy a strand csak a tiéd; a sziklák árnyékai délutánra megnyúlnak. Kezdd el hamar a visszautat.",
                 "ro": "Bucurați-vă de plajă doar pentru voi; umbrele stâncilor devin lungi după-amiaza. Începeți drumul de întoarcere curând.",
-                "en": "Enjoy having the beach all to yourself; the shadows of the rocks grow long in the afternoon. Start your ride back soon."
+                "en": "Enjoy having the beach all to yourself; the shadows of the rocks grow long in the afternoon. Start your ride back soon.",
+                "el": "Απολαύστε την παραλία όλη για εσάς· οι σκιές των βράχων μεγαλώνουν στο απόγευμα. Ξεκινήστε γρήγορα την επιστροφή σας."
               }
             },
             {
@@ -683,13 +759,15 @@
                 "de": "Pori",
                 "hu": "Pori",
                 "ro": "Pori",
-                "en": "Pori"
+                "en": "Pori",
+                "el": "Pori"
               },
               "tip_5lang": {
                 "de": "Der am weitesten entfernte Punkt; kehren Sie vor 16:30 Uhr um, um nicht im Dunkeln zu fahren. Die Winterlandschaft hier ist grandios.",
                 "hu": "A legtávolabbi pont; indulj vissza 16:30 előtt, hogy ne sötétben kelljen tekerned. A téli táj itt lenyűgözően puszta.",
                 "ro": "Cel mai îndepărtat punct; întoarceți-vă înainte de 16:30 pentru a nu pedala pe întuneric. Peisajul de iarnă aici este grandios.",
-                "en": "The furthest point; turn back before 16:30 to avoid cycling in the dark. The winter landscape here is magnificently barren."
+                "en": "The furthest point; turn back before 16:30 to avoid cycling in the dark. The winter landscape here is magnificently barren.",
+                "el": "Το πιο απομακρυσμένο σημείο· γυρίστε πριν τις 16:30 για να αποφύγετε την ποδηλασία στο σκοτάδι. Το χειμερινό τοπίο εδώ είναι μεγαλοπρεπώς γυμνό."
               }
             }
           ]
@@ -709,7 +787,8 @@
             "de": "Ammos",
             "hu": "Ammos",
             "ro": "Ammos",
-            "en": "Ammos"
+            "en": "Ammos",
+            "el": "Ammos"
           },
           "coords": [
             25.602308,
@@ -724,7 +803,8 @@
             "de": "Genießen Sie den weichen Sand von Ammos direkt am Hafen, ideal für das erste Bad des Tages, aber kommen Sie früh, um einen guten Platz am Wasser zu sichern.",
             "hu": "Élvezze az Ammos finom homokját közvetlenül a kikötő mellett, amely tökéletes az első fürdőzéshez, de érkezzen korán, hogy jó helyet kapjon a víz közelében.",
             "ro": "Bucurați-vă de nisipul fin de la Ammos, lângă port, un loc perfect pentru prima baie a zilei, dar ajungeți devreme pentru a prinde un loc bun lângă apă.",
-            "en": "Enjoy the soft sands of Ammos right by the port, a perfect spot for your first swim of the day, but arrive early to secure a good place near the water."
+            "en": "Enjoy the soft sands of Ammos right by the port, a perfect spot for your first swim of the day, but arrive early to secure a good place near the water.",
+            "el": "Απολαύστε την απαλή άμμο του Ammos δίπλα στο λιμάνι, ιδανικό μέρος για το πρώτο σας μπάνιο της ημέρας, αλλά φτάστε νωρίς για να εξασφαλίσετε καλό σημείο κοντά στο νερό."
           }
         },
         {
@@ -732,7 +812,8 @@
             "de": "Pori",
             "hu": "Pori",
             "ro": "Pori",
-            "en": "Pori"
+            "en": "Pori",
+            "el": "Pori"
           },
           "coords": [
             25.621903,
@@ -747,7 +828,8 @@
             "de": "Als herrliche, windgeschützte Bucht in Halbmondform ist Pori ein atemberaubendes Paradies, also machen Sie unbedingt einen Spaziergang zu den nahegelegenen Meereshöhlen.",
             "hu": "A szélvédett, félhold alakú pompás öbölként elterülő Pori egy lélegzetelállító paradicsom, ezért tegyen egy sétát a közeli tengeri barlangokhoz egy kis extra kalandért.",
             "ro": "O magnifică baia în formă de semilună care vă protejează de vânt, Pori este un paradis uluitor, așa că faceți o plimbare până la peșterile marine din apropiere.",
-            "en": "A magnificent crescent-shaped bay protecting you from the wind, Pori is a breathtaking paradise, so take a walk to the nearby sea caves for an extra adventure."
+            "en": "A magnificent crescent-shaped bay protecting you from the wind, Pori is a breathtaking paradise, so take a walk to the nearby sea caves for an extra adventure.",
+            "el": "Η μεγαλόπρεπη ημισεληνοειδής αμμουδιά που σας προστατεύει από τον άνεμο, το Pori είναι ένας μαγευτικός παράδεισος· περπατήστε προς τις κοντινές θαλάσσιες σπηλιές για επιπλέον περιπέτεια."
           }
         },
         {
@@ -755,7 +837,8 @@
             "de": "Panormos",
             "hu": "Panormos",
             "ro": "Panormos",
-            "en": "Panormos"
+            "en": "Panormos",
+            "el": "Panormos"
           },
           "coords": [
             25.538706,
@@ -770,7 +853,8 @@
             "de": "Panormos ist eine abgeschiedene, von wunderschönen Palmen gesäumte Oase, die einen ruhigen Rückzugsort vom Trubel bietet, aber packen Sie unbedingt reichlich Trinkwasser ein.",
             "hu": "A Panormos egy gyönyörű pálmafákkal szegélyezett, eldugott menedék, amely békés kikapcsolódást kínál a nyüzsgéstől távol, de feltétlenül csomagoljon bőséges ivóvizet.",
             "ro": "Panormos este un refugiu retras mărginit de palmieri superbi, oferind o evadare liniștită din zonele aglomerate, dar asigurați-vă că aveți la voi multă apă potabilă.",
-            "en": "Panormos is a secluded haven lined with beautiful palm trees, offering a tranquil escape from the bustling areas, but make sure to pack plenty of drinking water."
+            "en": "Panormos is a secluded haven lined with beautiful palm trees, offering a tranquil escape from the bustling areas, but make sure to pack plenty of drinking water.",
+            "el": "Ο Πάνορμος είναι ένας απομονωμένος παράδεισος με όμορφες φοινικιές, προσφέροντας ήσυχη απόδραση από τα πολυσύχναστα μέρη, αλλά φροντίστε να πάρετε αρκετό πόσιμο νερό."
           }
         },
         {
@@ -778,7 +862,8 @@
             "de": "Paralia Kleido",
             "hu": "Paralia Kleido",
             "ro": "Paralia Kleido",
-            "en": "Paralia Kleido"
+            "en": "Paralia Kleido",
+            "el": "Παραλία Κλειδό"
           },
           "coords": [
             25.559867,
@@ -793,7 +878,8 @@
             "de": "Dieses versteckte Juwel belohnt Besucher mit absoluter Ruhe und unberührter Naturschönheit, perfekt zum Sonnenbaden, vorausgesetzt, Sie bringen alle nötigen Vorräte mit.",
             "hu": "Ez a rejtett gyöngyszem abszolút nyugalommal és érintetlen természeti szépséggel jutalmazza a látogatókat, amely tökéletes a napozáshoz, feltéve, ha minden szükséges felszerelést magával hoz.",
             "ro": "Această bijuterie ascunsă răsplătește vizitatorii cu o liniște absolută și o frumusețe naturală neatinsă, fiind perfectă pentru plajă, cu condiția să aduceți provizii.",
-            "en": "This hidden gem rewards visitors with absolute tranquility and untouched natural beauty, making it perfect for sunbathing, provided you bring all necessary supplies."
+            "en": "This hidden gem rewards visitors with absolute tranquility and untouched natural beauty, making it perfect for sunbathing, provided you bring all necessary supplies.",
+            "el": "Αυτή η κρυμμένη γοητεία ανταμείβει τους επισκέπτες με απόλυτη γαλήνη και ανέγγιχτη φυσική ομορφιά, καθιστώντας την ιδανική για ηλιοθεραπεία, αρκεί να φέρετε όλα τα απαραίτητα εφόδια."
           }
         },
         {
@@ -801,7 +887,8 @@
             "de": "Loutro beach",
             "hu": "Loutro beach",
             "ro": "Loutro beach",
-            "en": "Loutro beach"
+            "en": "Loutro beach",
+            "el": "Παραλία Λούτρο"
           },
           "coords": [
             25.596221,
@@ -816,7 +903,8 @@
             "de": "Der Loutro-Strand bietet einen ruhigen Rückzugsort mit kristallklarem, flachem Wasser, ideal für Familien, also bringen Sie unbedingt Ihre eigene Schnorchelausrüstung mit.",
             "hu": "A Loutro strand békés menedéket kínál kristálytiszta, sekély vizeivel, amely ideális családok számára, ezért mindenképpen hozzon magával saját sznorkelfelszerelést.",
             "ro": "Plaja Loutro oferă un refugiu liniștit cu ape de mică adâncime, ideale pentru familii, așa că nu uitați să vă aduceți propriul echipament pentru snorkeling.",
-            "en": "Loutro beach offers a peaceful retreat with crystal-clear shallow waters ideal for families, so bring your own snorkeling gear to explore the marine life."
+            "en": "Loutro beach offers a peaceful retreat with crystal-clear shallow waters ideal for families, so bring your own snorkeling gear to explore the marine life.",
+            "el": "Η παραλία Λούτρο προσφέρει ήσυχη απόδραση με κρυστάλλινα ρηχά νερά ιδανικά για οικογένειες, οπότε φέρτε τον δικό σας εξοπλισμό για κατάδυση με αναπνευστήρα για να εξερευνήσετε τη θαλάσσια ζωή."
           }
         }
       ],
@@ -824,7 +912,8 @@
         "de": "Morgens: Beginnen Sie Ihren Roadtrip am Ammos, um die ersten Sonnenstrahlen einzufangen, und fahren Sie dann bequem nach Pori, um in den geschützten Gewässern ausgiebig zu schwimmen.\nMittags: Fahren Sie weiter zum abgelegenen Panormos, wo der Schatten wunderschöner Palmen und die einsame Küste einen idyllischen Ort für ein ruhiges, entspanntes Picknick am Mittag bieten.\nNachmittags: Eine kurze Fahrt bringt Sie nach Paralia Kleido, einem versteckten Juwel, das absolute Ruhe und unberührte Natur bietet, weit weg von den typischen Touristenmassen.\nAbends: Fahren Sie zurück in Richtung Stadt und beenden Sie Ihre Reise am Loutro-Strand, wo Sie beobachten können, wie der Himmel über dem flachen Wasser seine Farben ändert.",
         "hu": "Délelőtt: Kezdje autós szigettúráját az Ammosnál, hogy elkapja az első napsugarakat, majd vezessen kényelmesen Poriba egy hosszabb, békés délelőtti fürdőzésre a védett vizekben.\nDél: Vegye az irányt a távolabbi Panormos felé, ahol a gyönyörű pálmafák árnyéka és az eldugott partvonal idilli helyet teremt egy csendes, pihentető déli piknikhez.\nDélután: Egy rövid autóút a Paralia Kleido felé visz, egy rejtett gyöngyszemhez, amely abszolút nyugalmat és érintetlen természeti tájat kínál, távol a tipikus turistatömegektől.\nEste: Vezessen vissza a város felé, és fejezze be az utazást a Loutro strandon, ahol a sekély, békés víz felett gyönyörködhet az égbolt változó színeiben, mielőtt vacsorázni indulna.",
         "ro": "Dimineața: Începeți excursia cu mașina la Ammos pentru a prinde primele raze de soare, apoi conduceți confortabil spre Pori pentru o dimineață prelungită de înot în ape limpezi și adăpostite.\nPrânz: Îndreptați-vă spre izolatul Panormos, unde umbra palmierilor superbi și țărmul retras creează un loc idilic pentru un picnic de prânz liniștit și relaxant în mijlocul naturii.\nDupă-amiaza: Un drum scurt vă aduce la Paralia Kleido, o bijuterie ascunsă care oferă o liniște absolută și un peisaj natural virgin, departe de aglomerația turistică tipică.\nSeara: Conduceți înapoi spre oraș și încheiați-vă călătoria la plaja Loutro, unde puteți urmări cum cerul își schimbă culorile peste apele puțin adânci, înainte de a merge la cină.",
-        "en": "Morning: Start your island road trip at Ammos to catch the first gentle rays of the sun, then drive comfortably out to Pori for an extended morning of swimming in clear, sheltered waters.\nMidday: Head further out to the remote Panormos, where the shade of beautiful palm trees and secluded shoreline create an idyllic spot for a quiet, relaxing midday picnic.\nAfternoon: A short drive brings you to Paralia Kleido, a hidden gem offering absolute tranquility and untouched natural scenery, far away from the typical tourist crowds.\nEvening: Drive back towards the town and conclude your journey at Loutro beach, where you can watch the sky change colors over the shallow, peaceful waters before heading to dinner."
+        "en": "Morning: Start your island road trip at Ammos to catch the first gentle rays of the sun, then drive comfortably out to Pori for an extended morning of swimming in clear, sheltered waters.\nMidday: Head further out to the remote Panormos, where the shade of beautiful palm trees and secluded shoreline create an idyllic spot for a quiet, relaxing midday picnic.\nAfternoon: A short drive brings you to Paralia Kleido, a hidden gem offering absolute tranquility and untouched natural scenery, far away from the typical tourist crowds.\nEvening: Drive back towards the town and conclude your journey at Loutro beach, where you can watch the sky change colors over the shallow, peaceful waters before heading to dinner.",
+        "el": "Πρωί: Ξεκινήστε την οδική σας εκδρομή στο νησί από το Άμμος για να προλάβετε τις πρώτες απαλές ακτίνες του ήλιου, στη συνέχεια οδηγήστε άνετα προς το Πόρι για ένα εκτεταμένο πρωινό κολύμπι σε καθαρά, προστατευμένα νερά.\nΜεσημέρι: Κατευθυνθείτε πιο έξω στο απομακρυσμένο Πάνορμο, όπου η σκιά των όμορφων φοινικιών και η απομονωμένη ακτή δημιουργούν ένα ειδυλλιακό σημείο για ένα ήσυχο, χαλαρωτικό μεσημεριανό πικνίκ.\nΑπόγευμα: Μια σύντομη διαδρομή σας φέρνει στην Παραλία Κλειδό, ένα κρυφό διαμάντι που προσφέρει απόλυτη γαλήνη και ανέγγιχτη φυσική ομορφιά, μακριά από τα τυπικά τουριστικά πλήθη.\nΒράδυ: Επιστρέψτε με το αυτοκίνητο προς την πόλη και ολοκληρώστε το ταξίδι σας στην παραλία Λούτρο, όπου μπορείτε να παρακολουθήσετε τον ουρανό να αλλάζει χρώματα πάνω από τα ρηχά, ήρεμα νερά πριν πάτε για δείπνο."
       },
       "variants": {
         "rainy": {
@@ -832,7 +921,8 @@
             "de": "Das Auto ist bei Regen die beste Wahl; morgens beobachten wir gemütlich den Hafen, während der Regen gegen die Scheiben trommelt. Mittags fahren wir zu den wilderen Teilen der Insel, wo die Klippen beeindruckend wirken. Nachmittags warten wir im Schutz des Wagens Schauer ab, bevor wir kurze Strandspaziergänge machen. Abends kehren wir sicher zur Unterkunft zurück.",
             "hu": "Az autó esőben a legjobb választás; reggel kényelmesen nézzük a kikötőt, miközben az eső a szélvédőn kopog. Délben a sziget vadabb pontjaira autózunk, ahol a sziklás partok látványa drámai. Délután a kocsi menedékében várjuk meg a záporok végét a parti séták előtt. Este a biztonságos utakon térünk vissza a szállásra.",
             "ro": "Mașina este cea mai bună alegere pe ploaie; dimineața observăm portul confortabil, în timp ce ploaia bate în parbriz. La prânz, conducem spre părțile mai sălbatice ale insulei, unde stâncile arată dramatic. După-amiaza, așteptăm în mașină trecerea averselor înainte de scurte plimbări. Seara, ne întoarcem în siguranță la cazare.",
-            "en": "The car is the best choice in the rain; in the morning, we watch the port comfortably while rain drums on the windshield. At noon, we drive to wilder parts of the island where the rocky shores look dramatic. In the afternoon, we wait out showers in the car before taking short beach walks. In the evening, we return safely to our accommodation."
+            "en": "The car is the best choice in the rain; in the morning, we watch the port comfortably while rain drums on the windshield. At noon, we drive to wilder parts of the island where the rocky shores look dramatic. In the afternoon, we wait out showers in the car before taking short beach walks. In the evening, we return safely to our accommodation.",
+            "el": "Το αυτοκίνητο είναι η καλύτερη επιλογή στη βροχή· το πρωί παρακολουθούμε άνετα το λιμάνι ενώ η βροχή χτυπάει το παρμπρίζ. Το μεσημέρι οδηγούμε σε πιο άγρια μέρη του νησιού όπου οι βραχώδεις ακτές φαίνονται δραματικές. Το απόγευμα περιμένουμε τις μπόρες μέσα στο αυτοκίνητο πριν κάνουμε σύντομες βόλτες στην παραλία. Το βράδυ επιστρέφουμε με ασφάλεια στη διαμονή μας."
           },
           "stops": [
             {
@@ -840,13 +930,15 @@
                 "de": "Ammos",
                 "hu": "Ammos",
                 "ro": "Ammos",
-                "en": "Ammos"
+                "en": "Ammos",
+                "el": "Άμμος"
               },
               "tip_5lang": {
                 "de": "Parken Sie in Meeresnähe für eine großartige Aussicht, ohne nass zu werden. Die Cafés am Hafen sind gute Zufluchtsorte.",
                 "hu": "Parkolj a tenger közelében a remek kilátásért, anélkül, hogy megáznál. A kikötői kávézók jó menedéket nyújtanak.",
                 "ro": "Parcați aproape de mare pentru o vedere excelentă fără a vă uda. Cafenelele din port sunt locuri bune de refugiu.",
-                "en": "Park close to the sea for a great view without getting wet. The port cafes are good places to take shelter."
+                "en": "Park close to the sea for a great view without getting wet. The port cafes are good places to take shelter.",
+                "el": "Σταθμεύστε κοντά στη θάλασσα για ωραία θέα χωρίς να βραχείτε. Τα καφέ του λιμανιού είναι καλά μέρη για να βρείτε καταφύγιο."
               }
             },
             {
@@ -854,13 +946,15 @@
                 "de": "Pori",
                 "hu": "Pori",
                 "ro": "Pori",
-                "en": "Pori"
+                "en": "Pori",
+                "el": "Πόρι"
               },
               "tip_5lang": {
                 "de": "Die Fahrt nach Pori ist sicher, aber achten Sie auf Wasserläufe auf der Straße. Die Bucht wirkt im Regen gewaltig und rau.",
                 "hu": "Az út Pori felé biztonságos, de ügyelj az úton átfolyó vízre. Az öböl esőben hatalmasnak és zordnak tűnik a kocsiból.",
                 "ro": "Drumul spre Pori este sigur, dar atenție la scurgerile de apă de pe șosea. Golful pare uriaș și aspru în ploaie.",
-                "en": "The drive to Pori is safe, but watch out for water runoff on the road. The bay looks massive and rugged in the rain from the car."
+                "en": "The drive to Pori is safe, but watch out for water runoff on the road. The bay looks massive and rugged in the rain from the car.",
+                "el": "Η διαδρομή προς το Πόρι είναι ασφαλής, αλλά προσέξτε τρεχούμενο νερό στο δρόμο. Ο κόλπος φαίνεται τεράστιος και τραχύς στη βροχή από το αυτοκίνητο."
               }
             },
             {
@@ -868,13 +962,15 @@
                 "de": "Panormos",
                 "hu": "Panormos",
                 "ro": "Panormos",
-                "en": "Panormos"
+                "en": "Panormos",
+                "el": "Πάνορμος"
               },
               "tip_5lang": {
                 "de": "Ein abgelegenes Erlebnis; die Fahrt ist sicher, aber der Strand ist sehr exponiert. Beobachten Sie die Regenfronten über dem Meer.",
                 "hu": "Távoli és vad élmény; az út biztonságos, de a part nagyon kitett az elemeknek. Figyeld az esőfüggönyöket a tenger felett.",
                 "ro": "O experiență izolată; drumul este sigur, dar plaja este foarte expusă. Urmăriți fronturile de ploaie deasupra mării.",
-                "en": "A remote and wild experience; the drive is safe but the beach is very exposed. Watch the rain curtains move over the sea."
+                "en": "A remote and wild experience; the drive is safe but the beach is very exposed. Watch the rain curtains move over the sea.",
+                "el": "Μια απομακρυσμένη και άγρια εμπειρία· η διαδρομή είναι ασφαλής αλλά η παραλία είναι πολύ εκτεθειμένη. Παρατηρήστε τα «καταρράκτες» βροχής να κινούνται πάνω από τη θάλασσα."
               }
             },
             {
@@ -882,13 +978,15 @@
                 "de": "Paralia Kleido",
                 "hu": "Paralia Kleido",
                 "ro": "Paralia Kleido",
-                "en": "Paralia Kleido"
+                "en": "Paralia Kleido",
+                "el": "Παραλία Κλειδό"
               },
               "tip_5lang": {
                 "de": "Die bunten Kieselsteine glänzen im Regen wunderschön. Die Straße ist asphaltiert, kann aber bei starkem Regen rutschig sein.",
                 "hu": "A színes kavicsok gyönyörűen csillognak az esőben. Az út aszfaltozott, de heves esőzéskor csúszós lehet a hordalék miatt.",
                 "ro": "Pietrele colorate strălucesc frumos în ploaie. Drumul este asfaltat, dar poate fi alunecos în timpul ploilor abundente.",
-                "en": "The colorful pebbles glisten beautifully in the rain. The road is paved but can be slippery during heavy rainfall due to debris."
+                "en": "The colorful pebbles glisten beautifully in the rain. The road is paved but can be slippery during heavy rainfall due to debris.",
+                "el": "Οι πολύχρωμες βοτσαλωτές ακτές αστράφτουν όμορφα στη βροχή. Ο δρόμος είναι ασφαλτοστρωμένος αλλά μπορεί να γίνει ολισθηρός κατά τη διάρκεια έντονης βροχόπτωσης λόγω φερτών υλών."
               }
             },
             {
@@ -896,13 +994,15 @@
                 "de": "Loutro beach",
                 "hu": "Loutro beach",
                 "ro": "Loutro beach",
-                "en": "Loutro beach"
+                "en": "Loutro beach",
+                "el": "Παραλία Λούτρο"
               },
               "tip_5lang": {
                 "de": "Ein guter letzter Halt; genießen Sie die stürmische See vom Auto aus. Achten Sie beim Aussteigen auf den starken Wind.",
                 "hu": "Jó utolsó megálló; élvezd a viharos tengert az autó melegéből. Kiszálláskor ügyelj az erős széllökésekre.",
                 "ro": "O ultimă oprire bună; bucurați-vă de marea furtunoasă din mașină. Atenție la vântul puternic când coborâți.",
-                "en": "A good final stop; enjoy the stormy sea from the warmth of the car. Watch out for strong gusts when getting out."
+                "en": "A good final stop; enjoy the stormy sea from the warmth of the car. Watch out for strong gusts when getting out.",
+                "el": "Ένα καλό τελικό σημείο· απολαύστε τη θυελλώδη θάλασσα από τη ζεστασιά του αυτοκινήτου. Προσέξτε δυνατούς ριπές όταν βγαίνετε έξω."
               }
             }
           ]
@@ -912,7 +1012,8 @@
             "de": "An einem Wintermorgen bietet die Wärme des Autos Komfort, während wir die einsamen Straßen der Insel erkunden. Mittags fahren wir nach Panormos, wo wir nur die Geräusche der Natur hören. Nachmittags genießen wir die Felsen im Licht der tiefstehenden Sonne und nutzen jede Minute des kurzen Tages. Abends folgen wir den Lichtern des Dorfes nach Hause.",
             "hu": "A téli reggelen az autó melege kényelmet ad, miközben a sziget kihalt útjain kalandozunk. Délben Panormos felé vesszük az irányt, ahol csak a természet hangjaival találkozunk. Délután a lemenő nap fényében fürdő sziklák között autózunk, kihasználva a rövid nappalt. Este a falu fényeit követve térünk vissza a szállásunkra.",
             "ro": "Într-o dimineață de iarnă, căldura mașinii oferă confort în timp ce explorăm drumurile pustii ale insulei. La prânz, ne îndreptăm spre Panormos, unde auzim doar sunetele naturii. După-amiaza, conducem printre stâncile luminate de soarele jos, profitând de ziua scurtă. Seara, urmăm luminile satului spre casă.",
-            "en": "On a winter morning, the car's warmth provides comfort as we explore the island's deserted roads. At noon, we head towards Panormos, where we encounter only the sounds of nature. In the afternoon, we drive among rocks bathed in the low sun, making use of every minute of the short day. In the evening, we follow the village lights home."
+            "en": "On a winter morning, the car's warmth provides comfort as we explore the island's deserted roads. At noon, we head towards Panormos, where we encounter only the sounds of nature. In the afternoon, we drive among rocks bathed in the low sun, making use of every minute of the short day. In the evening, we follow the village lights home.",
+            "el": "Ένα χειμωνιάτικο πρωί, η ζεστασιά του αυτοκινήτου προσφέρει άνεση καθώς εξερευνούμε τους έρημους δρόμους του νησιού. Το μεσημέρι κατευθυνόμαστε προς τον Πάνορμο, όπου συναντούμε μόνο τους ήχους της φύσης. Το απόγευμα οδηγούμε ανάμεσα σε βράχους που λούζονται από το χαμηλό φως του ήλιου, αξιοποιώντας κάθε λεπτό της σύντομης μέρας. Το βράδυ ακολουθούμε τα φώτα του χωριού μέχρι το σπίτι."
           },
           "stops": [
             {
@@ -920,13 +1021,15 @@
                 "de": "Ammos",
                 "hu": "Ammos",
                 "ro": "Ammos",
-                "en": "Ammos"
+                "en": "Ammos",
+                "el": "Άμμος"
               },
               "tip_5lang": {
                 "de": "Starten Sie mit einem warmen Getränk im Auto; der Hafen ist im Winter sehr ruhig. Die klare Luft bietet eine weite Sicht auf Nachbarinseln.",
                 "hu": "Kezdd a napot egy meleg itallal a kocsiban; a kikötő télen nagyon csendes. A tiszta levegőben messzire ellátni a szomszédos szigetekig.",
                 "ro": "Începeți ziua cu o băutură caldă în mașină; portul este foarte liniștit iarna. Aerul curat oferă o vedere clară spre insulele vecine.",
-                "en": "Start the day with a warm drink in the car; the port is very quiet in winter. The clear air offers far-reaching views of neighboring islands."
+                "en": "Start the day with a warm drink in the car; the port is very quiet in winter. The clear air offers far-reaching views of neighboring islands.",
+                "el": "Ξεκινήστε τη μέρα με ένα ζεστό ρόφημα στο αυτοκίνητο· το λιμάνι είναι πολύ ήσυχο τον χειμώνα. Ο καθαρός αέρας προσφέρει μακρινές οπτικές προς τα γειτονικά νησιά."
               }
             },
             {
@@ -934,13 +1037,15 @@
                 "de": "Pori",
                 "hu": "Pori",
                 "ro": "Pori",
-                "en": "Pori"
+                "en": "Pori",
+                "el": "Πόρι"
               },
               "tip_5lang": {
                 "de": "Ein majestätisches und einsames Ziel; das Licht ist perfekt für Landschaftsfotografie. Nutzen Sie das Auto als windgeschützte Basis.",
                 "hu": "Fenséges és magányos úticél; a fények tökéletesek a tájfotózáshoz. Használd az autót szélvédett bázisként a nézelődéshez.",
                 "ro": "O destinație maiestuoasă și solitară; lumina este perfectă pentru fotografii de peisaj. Folosiți mașina ca bază ferită de vânt.",
-                "en": "A majestic and lonely destination; the light is perfect for landscape photography. Use the car as a wind-sheltered base for viewing."
+                "en": "A majestic and lonely destination; the light is perfect for landscape photography. Use the car as a wind-sheltered base for viewing.",
+                "el": "Ένας μεγαλοπρεπής και μοναχικός προορισμός· το φως είναι τέλειο για φωτογραφία τοπίου. Χρησιμοποιήστε το αυτοκίνητο ως βάση για προστασία από τον άνεμο κατά την παρατήρηση."
               }
             },
             {
@@ -948,13 +1053,15 @@
                 "de": "Panormos",
                 "hu": "Panormos",
                 "ro": "Panormos",
-                "en": "Panormos"
+                "en": "Panormos",
+                "el": "Πάνορμος"
               },
               "tip_5lang": {
                 "de": "Es fühlt sich an wie das Ende der Welt; totale Ruhe und rohe Natur. Der Wagen bietet einen warmen Ort, um die Aussicht zu genießen.",
                 "hu": "Olyan, mintha a világ végén lennél; teljes nyugalom és nyers természet. A kocsi meleg menedéket nyújt a kilátás élvezetéhez.",
                 "ro": "Se simte ca la capătul lumii; liniște totală și natură brută. Mașina oferă un loc călduros pentru a admira priveliștea.",
-                "en": "It feels like the end of the world; total tranquility and raw nature. The car provides a warm spot to enjoy the view."
+                "en": "It feels like the end of the world; total tranquility and raw nature. The car provides a warm spot to enjoy the view.",
+                "el": "Νιώθεις πως είναι το τέλος του κόσμου· απόλυτη ηρεμία και ανεπεξέργαστη φύση. Το αυτοκίνητο προσφέρει ένα ζεστό σημείο για να απολαύσετε τη θέα."
               }
             },
             {
@@ -962,13 +1069,15 @@
                 "de": "Paralia Kleido",
                 "hu": "Paralia Kleido",
                 "ro": "Paralia Kleido",
-                "en": "Paralia Kleido"
+                "en": "Paralia Kleido",
+                "el": "Παραλία Κλειδό"
               },
               "tip_5lang": {
                 "de": "Ein verstecktes Juwel, wo man jedes Kieselsteinchen hört. Die Lufttemperatur sinkt hier bei Dämmerung sehr schnell.",
                 "hu": "Egy rejtett kincs, ahol minden kavics mozdulását hallani. A levegő hőmérséklete alkonyatkor itt nagyon gyorsan lehűl.",
                 "ro": "O bijuterie ascunsă unde puteți auzi fiecare pietricică. Temperatura aerului scade foarte repede aici la amurg.",
-                "en": "A hidden gem where you can hear every pebble move. The air temperature drops very quickly here at dusk."
+                "en": "A hidden gem where you can hear every pebble move. The air temperature drops very quickly here at dusk.",
+                "el": "Ένα κρυμμένο στολίδι όπου ακούς κάθε βότσαλο να κινείται. Η θερμοκρασία του αέρα πέφτει πολύ γρήγορα εδώ το σούρουπο."
               }
             },
             {
@@ -976,13 +1085,15 @@
                 "de": "Loutro beach",
                 "hu": "Loutro beach",
                 "ro": "Loutro beach",
-                "en": "Loutro beach"
+                "en": "Loutro beach",
+                "el": "Παραλία Λούτρο"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie das sanfte Winterlicht auf dem Wasser; der Ort ist völlig verlassen. Ideal für einen ruhigen Moment vor dem Abend.",
                 "hu": "Figyeld a lágy téli fényeket a vízen; a hely ilyenkor teljesen elhagyatott. Ideális egy csendes pillanathoz az este előtt.",
                 "ro": "Urmăriți lumina blândă de iarnă pe apă; locul este complet pustiu. Ideal pentru un moment de liniște înainte de seară.",
-                "en": "Watch the gentle winter light on the water; the place is completely deserted. Ideal for a quiet moment before the evening."
+                "en": "Watch the gentle winter light on the water; the place is completely deserted. Ideal for a quiet moment before the evening.",
+                "el": "Παρατηρήστε το απαλό χειμερινό φως πάνω στο νερό· ο χώρος είναι εντελώς έρημος. Ιδανικό για μια ήσυχη στιγμή πριν το βράδυ."
               }
             }
           ]

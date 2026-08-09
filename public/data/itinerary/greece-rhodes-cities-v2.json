@@ -21,7 +21,8 @@
             "de": "Großmeisterpalast",
             "hu": "Nagymesterek Palotája",
             "ro": "Palatul Marelui Maestru",
-            "en": "Palace of the Grand Master"
+            "en": "Palace of the Grand Master",
+            "el": "Παλάτι του Μεγάλου Μαγίστρου"
           },
           "coords": [
             28.224111,
@@ -36,7 +37,8 @@
             "de": "Erkunden Sie die beeindruckende mittelalterliche Architektur und die imposanten Innenhöfe dieser Festung und kommen Sie früh, um den Menschenmassen zuvorzukommen.",
             "hu": "Fedezze fel ennek a fenséges erődnek a lenyűgöző középkori építészetét és tágas udvarait, és érkezzen minél korábban, hogy elkerülje a legnagyobb tömeget.",
             "ro": "Explorați arhitectura medievală impresionantă și curțile interioare ale acestei fortărețe și asigurați-vă că ajungeți devreme pentru a evita marile aglomerații.",
-            "en": "Explore the striking medieval architecture and imposing courtyards of this majestic fortress, and make sure to arrive early to beat the heavy main crowds."
+            "en": "Explore the striking medieval architecture and imposing courtyards of this majestic fortress, and make sure to arrive early to beat the heavy main crowds.",
+            "el": "Εξερευνήστε την εντυπωσιακή μεσαιωνική αρχιτεκτονική και τους επιβλητικούς εσωτερικούς χώρους αυτού του μεγαλοπρεπούς φρουρίου, και φροντίστε να φτάσετε νωρίς για να αποφύγετε τον κύριο όγκο των επισκεπτών."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Roloi-Uhrenturm",
             "hu": "Roloi Óratorony",
             "ro": "Turnul cu Ceas Roloi",
-            "en": "Roloi Clock Tower"
+            "en": "Roloi Clock Tower",
+            "el": "Ρολόι (Roloi)"
           },
           "coords": [
             28.22381,
@@ -59,7 +62,8 @@
             "de": "Steigen Sie auf diesen historischen Uhrenturm für einen spektakulären Panoramablick auf die Altstadt und genießen Sie ein Freigetränk, das in Ihrem Ticket enthalten ist.",
             "hu": "Másszon fel erre a történelmi óratoronyra a régi város tetőire nyíló lenyűgöző panorámáért, és élvezze az ingyenes frissítő italt, amely a belépőhöz jár.",
             "ro": "Urcați în vârful acestui turn istoric cu ceas pentru o vedere panoramică spectaculoasă a acoperișurilor orașului vechi și savurați o băutură inclusă în bilet.",
-            "en": "Climb to the very top of this historic clock tower for a spectacular panoramic view over the old town roofs, and enjoy a complimentary refreshing drink with your ticket."
+            "en": "Climb to the very top of this historic clock tower for a spectacular panoramic view over the old town roofs, and enjoy a complimentary refreshing drink with your ticket.",
+            "el": "Ανεβείτε στην κορυφή αυτού του ιστορικού πύργου ρολογιού για πανοραμική θέα πάνω από τις στέγες της παλιάς πόλης και απολαύστε ένα δροσιστικό ποτό που περιλαμβάνεται με το εισιτήριό σας."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Ritterstraße",
             "hu": "Lovagok utcája",
             "ro": "Strada Cavalerilor",
-            "en": "Street of the Knights"
+            "en": "Street of the Knights",
+            "el": "Οδός των Ιπποτών"
           },
           "coords": [
             28.226245,
@@ -82,7 +87,8 @@
             "de": "Schlendern Sie langsam diese makellos erhaltene Kopfsteinpflasterstraße entlang und bewundern Sie die aufwendigen Wappen, die in die alten Steinfassaden gemeißelt sind.",
             "hu": "Sétáljon lassan végig ezen a tökéletesen megőrzött macskaköves utcán, és figyelje meg az ősi kőhomlokzatokba faragott bonyolult történelmi címereket.",
             "ro": "Plimbați-vă încet pe această stradă pietruită impecabil conservată și observați cu atenție blazoanele istorice complicate sculptate în fațadele antice de piatră.",
-            "en": "Stroll slowly down this impeccably preserved cobblestone avenue and carefully notice the intricate, historical coats of arms carved into the ancient stone facades."
+            "en": "Stroll slowly down this impeccably preserved cobblestone avenue and carefully notice the intricate, historical coats of arms carved into the ancient stone facades.",
+            "el": "Περπατήστε αργά σε αυτή την άψογα διατηρημένη λιθόστρωτη οδό και προσέξτε τις περίτεχνες ιστορικές θυρεούς σκαλισμένους στις αρχαίες προσόψεις."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Archäologisches Museum",
             "hu": "Régészeti Múzeum",
             "ro": "Muzeul Arheologic",
-            "en": "Archaeological Museum"
+            "en": "Archaeological Museum",
+            "el": "Αρχαιολογικό Μουσείο"
           },
           "coords": [
             28.226251,
@@ -105,7 +112,8 @@
             "de": "Entdecken Sie faszinierende antike Artefakte im ehemaligen Hospital der Ritter und nehmen Sie sich Zeit für die ruhige Erkundung der wunderschönen, schattigen Innenhofgärten.",
             "hu": "Fedezze fel az egykori Lovagkórházban lenyűgözően elrendezett ősi leleteket, és szánjon időt a gyönyörű, árnyékos udvari kertek nyugodt felfedezésére is.",
             "ro": "Descoperiți artefacte antice fascinante adăpostite în fostul Spital al Cavalerilor și alocați-vă timp pentru a explora în liniște superbele grădini umbrite ale curții.",
-            "en": "Discover fascinating ancient artifacts housed perfectly in the former Hospital of the Knights, and take your time quietly exploring the beautiful shaded courtyard gardens."
+            "en": "Discover fascinating ancient artifacts housed perfectly in the former Hospital of the Knights, and take your time quietly exploring the beautiful shaded courtyard gardens.",
+            "el": "Ανακαλύψτε συναρπαστικά αρχαία ευρήματα που στεγάζονται άψογα στο πρώην Νοσοκομείο των Ιπποτών, και αφιερώστε χρόνο για να εξερευνήσετε ήσυχα τους όμορφους σκιερούς κήπους της αυλής."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Panagia tou Kastrou",
             "hu": "Panagia tou Kastrou",
             "ro": "Panagia tou Kastrou",
-            "en": "Panagia tou Kastrou"
+            "en": "Panagia tou Kastrou",
+            "el": "Παναγία του Κάστρου"
           },
           "coords": [
             28.227389,
@@ -128,7 +137,8 @@
             "de": "Bewundern Sie die wahrhaft faszinierende Verschmelzung von byzantinischen und gotischen Baustilen in dieser antiken Kathedrale und achten Sie auf die verblassten Fresken.",
             "hu": "Csodálja meg az autentikus bizánci és gótikus építészeti stílusok lenyűgöző ötvözetét ebben az ősi katedrálisban, és keresse a falakon a halványodó freskókat.",
             "ro": "Admirați fuziunea cu adevărat fascinantă a stilurilor arhitecturale bizantin și gotic din această veche catedrală, căutând cu atenție frescele murale ușor estompate.",
-            "en": "Admire the truly fascinating fusion of authentic Byzantine and Gothic architectural styles within this ancient cathedral, keeping a close eye out for faded wall frescoes."
+            "en": "Admire the truly fascinating fusion of authentic Byzantine and Gothic architectural styles within this ancient cathedral, keeping a close eye out for faded wall frescoes.",
+            "el": "Θαυμάστε την γοητευτική σύντηξη αυθεντικών βυζαντινών και γοτθικών αρχιτεκτονικών στοιχείων μέσα σε αυτόν τον αρχαίο καθεδρικό, προσέχοντας τις ξεθωριασμένες τοιχογραφίες."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Mittelalterliche Stadtmauern",
             "hu": "Középkori Városfalak",
             "ro": "Zidurile Cetății Medievale",
-            "en": "Medieval City Walls"
+            "en": "Medieval City Walls",
+            "el": "Μεσαιωνικά Τείχη της Πόλης"
           },
           "coords": [
             28.228153,
@@ -151,7 +162,8 @@
             "de": "Gehen Sie entlang dieser massiven Verteidigungsmauern, um ihre immense Größe zu begreifen, und tragen Sie sehr bequeme Schuhe für die unebenen historischen Wege.",
             "hu": "Sétáljon végig ezeken a masszív védőfalakon, hogy megfelelően átérezze azok történelmi méreteit, és viseljen nagyon kényelmes cipőt az egyenetlen ősi utakra.",
             "ro": "Plimbați-vă de-a lungul acestor metereze masive de apărare pentru a le înțelege imensa scară istorică, purtând încălțăminte foarte confortabilă pentru căile antice denivelate.",
-            "en": "Walk extensively along these massive defensive ramparts to properly grasp their immense historical scale, wearing very comfortable shoes for the uneven ancient pathways."
+            "en": "Walk extensively along these massive defensive ramparts to properly grasp their immense historical scale, wearing very comfortable shoes for the uneven ancient pathways.",
+            "el": "Περπατήστε εκτενώς κατά μήκος αυτών των τεράστιων αμυντικών προμαχώνων για να αντιληφθείτε το ιστορικό τους μέγεθος, φορώντας πολύ άνετα παπούτσια για τα ανώμαλα αρχαία μονοπάτια."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Mandraki-Hafen",
             "hu": "Mandraki kikötő",
             "ro": "Portul Mandraki",
-            "en": "Mandraki Harbour"
+            "en": "Mandraki Harbour",
+            "el": "Λιμάνι Μανδράκι"
           },
           "coords": [
             28.226555,
@@ -174,7 +187,8 @@
             "de": "Beobachten Sie die bunten lokalen Boote genau dort, wo einst der legendäre Koloss stand, und machen Sie zur goldenen Stunde atemberaubende Fotos der ikonischen Windmühlen.",
             "hu": "Nézze a színes helyi hajókat pontosan onnan, ahol egykor a legendás Kolosszus állt, és készítsen lenyűgöző fotókat az ikonikus szélmalmokról a csodás aranyórában.",
             "ro": "Priviți bărcile locale colorate din locul exact unde a stat odată legendarul Colos și faceți fotografii uimitoare cu morile de vânt emblematice la lumina orei de aur.",
-            "en": "Watch the colorful local boats sail right from the exact spot where the legendary Colossus once stood, and capture stunning photos of the iconic windmills at golden hour."
+            "en": "Watch the colorful local boats sail right from the exact spot where the legendary Colossus once stood, and capture stunning photos of the iconic windmills at golden hour.",
+            "el": "Παρακολουθήστε τα πολύχρωμα τοπικά καΐκια να φεύγουν ακριβώς από το σημείο όπου στεκόταν κάποτε ο θρυλικός Κολοσσός, και απαθανατίστε εντυπωσιακές φωτογραφίες των εμβληματικών ανεμόμυλων στη χρυσή ώρα."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Beginnen Sie Ihren Morgen im Großmeisterpalast und auf dem Roloi-Uhrenturm. Der Mittag eignet sich perfekt für einen Spaziergang durch die Ritterstraße und das Archäologische Museum. Entdecken Sie nachmittags die gotische Architektur von Panagia tou Kastrou und laufen Sie entlang der mittelalterlichen Stadtmauern. Lassen Sie den Abend am Mandraki-Hafen ausklingen, während die Sonne untergeht.",
         "hu": "Kezdje a reggelt a Nagymesterek Palotájában és a Roloi Óratoronynál. A dél tökéletes a Lovagok utcájának és a lenyűgöző Régészeti Múzeumnak a felfedezésére. Délután csodálja meg a Panagia tou Kastrou gótikus építészetét, majd tegyen egy sétát a középkori városfalakon. Az estét a Mandraki kikötőben zárja, figyelve a tenger felett lenyugvó napot.",
         "ro": "Începeți dimineața explorând Palatul Marelui Maestru și urcând în Turnul cu Ceas Roloi. Amiaza este perfectă pentru a vă plimba pe Strada Cavalerilor și a explora Muzeul Arheologic. După-amiaza, descoperiți arhitectura gotică a bisericii Panagia tou Kastrou și mergeți de-a lungul zidurilor medievale. Încheiați seara în portul Mandraki, privind apusul soarelui.",
-        "en": "Begin your morning wandering through the Palace of the Grand Master and climbing the Roloi Clock Tower. Midday is perfect for strolling the Street of the Knights and exploring the rich Archaeological Museum. In the afternoon, discover the Gothic architecture of Panagia tou Kastrou and walk along the Medieval City Walls. Conclude your evening at Mandraki Harbour as the sun sets over the Aegean."
+        "en": "Begin your morning wandering through the Palace of the Grand Master and climbing the Roloi Clock Tower. Midday is perfect for strolling the Street of the Knights and exploring the rich Archaeological Museum. In the afternoon, discover the Gothic architecture of Panagia tou Kastrou and walk along the Medieval City Walls. Conclude your evening at Mandraki Harbour as the sun sets over the Aegean.",
+        "el": "Ξεκινήστε το πρωί σας περιπλανώμενοι στο Παλάτι του Μεγάλου Μαγίστρου και ανεβαίνοντας στο Ρολόι του Ρολογιού. Το μεσημέρι είναι ιδανικό για βόλτα στην Οδό των Ιπποτών και εξερεύνηση του πλούσιου Αρχαιολογικού Μουσείου. Το απόγευμα ανακαλύψτε τη γοτθική αρχιτεκτονική της Παναγίας του Κάστρου και περπατήστε κατά μήκος των Μεσαιωνικών Τειχών. Ολοκληρώστε το βράδυ σας στο λιμάνι Μανδράκι καθώς ο ήλιος δύει πάνω από το Αιγαίο."
       },
       "variants": {
         "rainy": {
@@ -190,7 +205,8 @@
             "de": "Beginnen Sie den Tag in den geschützten Hallen des Großmeisterpalastes. Mittags bieten die engen Gassen der Altstadt Schutz, während Sie zum Museum eilen. Nachmittags erkunden Sie die überdachten Exponate. Abends glänzen die nassen Pflastersteine im Mandraki-Hafen besonders atmosphärisch unter den Straßenlaternen; nutzen Sie die Arkaden der Cafés als Zufluchtsort.",
             "hu": "Kezdje a napot a Nagymesteri Palota védett csarnokaiban. Délben az óváros szűk utcái nyújtanak némi menedéket, amíg a múzeumhoz ér. Délután fedett tárlatokat fedezhet fel. Este a Mandraki kikötő vizes kövei rendkívül hangulatosan csillognak az utcai lámpák fényében; a kávézók árkádjai alatt szárazon élvezheti a tenger látványát.",
             "ro": "Începeți ziua în sălile protejate ale Palatului Marelui Maestru. La prânz, străzile înguste ale orașului vechi oferă adăpost în drum spre muzeu. După-amiaza, explorați exponatele interioare. Seara, pavajul umed din portul Mandraki strălucește atmosferic sub lumina felinarelor; folosiți arcadele cafenelelor pentru a rămâne uscat.",
-            "en": "Start the day in the sheltered halls of the Grand Master's Palace. At midday, the narrow old town alleys provide some cover as you head to the museum. In the afternoon, explore the indoor exhibits. In the evening, the wet cobblestones of Mandraki Harbour glow atmospherically; use the cafe arcades as a dry refuge to enjoy the sea view."
+            "en": "Start the day in the sheltered halls of the Grand Master's Palace. At midday, the narrow old town alleys provide some cover as you head to the museum. In the afternoon, explore the indoor exhibits. In the evening, the wet cobblestones of Mandraki Harbour glow atmospherically; use the cafe arcades as a dry refuge to enjoy the sea view.",
+            "el": "Ξεκινήστε την ημέρα στις στεγασμένες αίθουσες του Παλατιού του Μεγάλου Μαγίστρου. Το μεσημέρι, τα στενά σοκάκια της παλιάς πόλης προσφέρουν κάποια κάλυψη καθώς κατευθύνεστε στο μουσείο. Το απόγευμα, εξερευνήστε τις εσωτερικές εκθέσεις. Το βράδυ, οι βρεγμένες λιθόστρωτες στο Μανδράκι λάμπουν ατμοσφαιρικά· χρησιμοποιήστε τις καφετέριες με στοές ως στεγνό καταφύγιο για να απολαύσετε τη θέα της θάλασσας."
           },
           "stops": [
             {
@@ -198,13 +214,15 @@
                 "de": "Großmeisterpalast",
                 "hu": "Nagymesterek Palotája",
                 "ro": "Palatul Marelui Maestru",
-                "en": "Palace of the Grand Master"
+                "en": "Palace of the Grand Master",
+                "el": "Παλάτι του Μεγάλου Μαγίστρου"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie diesen prächtigen Palast als idealen Zufluchtsort vor dem Regen und bewundern Sie die antiken Mosaikböden in den trockenen, herrschaftlichen Sälen.",
                 "hu": "Használja ezt a pompás palotát ideális menedékként az eső elől, és csodálja meg az antik mozaikpadlókat a száraz, méltóságteljes termekben barangolva.",
                 "ro": "Folosiți acest palat splendid ca refugiu ideal împotriva ploii și admirați pardoselile antice cu mozaic în timp ce explorați sălile grandioase și uscate.",
-                "en": "Use this grand palace as an ideal refuge from the rain and admire the ancient mosaic floors while wandering through the dry, majestic halls."
+                "en": "Use this grand palace as an ideal refuge from the rain and admire the ancient mosaic floors while wandering through the dry, majestic halls.",
+                "el": "Χρησιμοποιήστε αυτό το μεγαλόπρεπο παλάτι ως ιδανικό καταφύγιο από τη βροχή και θαυμάστε τα αρχαία μωσαϊκά δάπεδα περιπλανώμενοι στις στεγνές, επιβλητικές αίθουσες."
               }
             },
             {
@@ -212,13 +230,15 @@
                 "de": "Roloi-Uhrenturm",
                 "hu": "Roloi Óratorony",
                 "ro": "Turnul cu Ceas Roloi",
-                "en": "Roloi Clock Tower"
+                "en": "Roloi Clock Tower",
+                "el": "Ρολόι (Πύργος Ρολογιού)"
               },
               "tip_5lang": {
                 "de": "Der Aufstieg bietet einen fantastischen Blick auf das nasse Rhodos; oben angekommen sind Sie überdacht und können das Panorama sicher genießen.",
                 "hu": "A toronyba felérve fantasztikus kilátás nyílik a vizes Rodoszra; a tető alatt biztonságban és szárazon élvezheti a városi panorámát.",
                 "ro": "Urcarea oferă o vedere fantastică asupra Rodosului umed; odată ajuns sus, ești protejat de acoperiș și poți admira panorama în siguranță.",
-                "en": "The climb offers a fantastic view of rainy Rhodes; once at the top, you are under cover and can enjoy the panorama safely and dryly."
+                "en": "The climb offers a fantastic view of rainy Rhodes; once at the top, you are under cover and can enjoy the panorama safely and dryly.",
+                "el": "Η ανάβαση προσφέρει φανταστική θέα της βροχερής Ρόδου· όταν φτάσετε στην κορυφή, είστε κάτω από στέγαστρο και μπορείτε να απολαύσετε το πανόραμα ασφαλώς και στεγνά."
               }
             },
             {
@@ -226,13 +246,15 @@
                 "de": "Ritterstraße",
                 "hu": "Lovagok utcája",
                 "ro": "Strada Cavalerilor",
-                "en": "Street of the Knights"
+                "en": "Street of the Knights",
+                "el": "Οδός των Ιπποτών"
               },
               "tip_5lang": {
                 "de": "Vorsicht auf dem glatten Kopfsteinpflaster; die mittelalterlichen Fassaden wirken bei Regen besonders mystisch und laden zu schnellen Fotostopps ein.",
                 "hu": "Vigyázzon a csúszós macskaköveken; a középkori homlokzatok esőben különösen misztikusnak tűnnek, és kiválóak egy-egy gyors, hangulatos fotóhoz.",
                 "ro": "Atenție la pavajul alunecos; fațadele medievale par deosebit de mistice în ploaie și sunt perfecte pentru câteva fotografii rapide și pline de farmec.",
-                "en": "Be careful on the slippery cobblestones; the medieval facades look especially mystical in the rain and are perfect for quick, atmospheric photo stops."
+                "en": "Be careful on the slippery cobblestones; the medieval facades look especially mystical in the rain and are perfect for quick, atmospheric photo stops.",
+                "el": "Προσοχή στις ολισθηρές κυβόλιθους· οι μεσαιωνικές προσόψεις δείχνουν ιδιαίτερα μυστηριακές στη βροχή και είναι τέλειες για γρήγορες, ατμοσφαιρικές φωτογραφίσεις."
               }
             },
             {
@@ -240,13 +262,15 @@
                 "de": "Archäologisches Museum",
                 "hu": "Régészeti Múzeum",
                 "ro": "Muzeul Arheologic",
-                "en": "Archaeological Museum"
+                "en": "Archaeological Museum",
+                "el": "Αρχαιολογικό Μουσείο"
               },
               "tip_5lang": {
                 "de": "Ein perfekter Ort, um dem Wetter zu trotzen; verbringen Sie mehr Zeit bei der Aphrodite von Rhodos in den gut geschützten Innenräumen des Ordenshospitals.",
                 "hu": "Tökéletes hely az időjárás elöli meneküléshez; töltsön több időt a Rodoszi Aphroditéval a lovagkórház jól védett, fedett belső tereiben.",
                 "ro": "Un loc perfect pentru a scăpa de vremea rea; petreceți mai mult timp cu Afrodita din Rodos în spațiile interioare bine protejate ale fostului spital.",
-                "en": "A perfect place to escape the weather; spend more time with the Aphrodite of Rhodes in the well-protected indoor areas of the Knights' Hospital."
+                "en": "A perfect place to escape the weather; spend more time with the Aphrodite of Rhodes in the well-protected indoor areas of the Knights' Hospital.",
+                "el": "Ένας ιδανικός χώρος για να αποφύγετε τον κακό καιρό· περάστε περισσότερο χρόνο με την Αφροδίτη της Ρόδου στους καλά προστατευμένους εσωτερικούς χώρους του Νοσοκομείου των Ιπποτών."
               }
             },
             {
@@ -254,13 +278,15 @@
                 "de": "Panagia tou Kastrou",
                 "hu": "Panagia tou Kastrou",
                 "ro": "Panagia tou Kastrou",
-                "en": "Panagia tou Kastrou"
+                "en": "Panagia tou Kastrou",
+                "el": "Παναγία του Κάστρου"
               },
               "tip_5lang": {
                 "de": "Diese ehemalige Kirche bietet eine ruhige, trockene Atmosphäre, in der Sie die byzantinischen Fresken bewundern können, während der Regen gegen die Mauern peitscht.",
                 "hu": "Ez az egykori templom nyugodt, száraz környezetet biztosít, ahol a bizánci freskókat csodálhatja, miközben az eső a vastag falakat veri odakint.",
                 "ro": "Această fostă biserică oferă o atmosferă liniștită și uscată unde puteți admira frescele bizantine în timp ce ploaia bate în zidurile groase.",
-                "en": "This former church provides a peaceful, dry environment where you can admire Byzantine frescoes while the rain beats against the thick walls."
+                "en": "This former church provides a peaceful, dry environment where you can admire Byzantine frescoes while the rain beats against the thick walls.",
+                "el": "Αυτή η πρώην εκκλησία προσφέρει ένα ήρεμο, στεγνό περιβάλλον όπου μπορείτε να θαυμάσετε βυζαντινές τοιχογραφίες ενώ η βροχή χτυπάει τους παχείς τοίχους."
               }
             },
             {
@@ -268,13 +294,15 @@
                 "de": "Mittelalterliche Stadtmauern",
                 "hu": "Középkori Városfalak",
                 "ro": "Zidurile Cetății Medievale",
-                "en": "Medieval City Walls"
+                "en": "Medieval City Walls",
+                "el": "Μεσαιωνικά Τείχη της Πόλης"
               },
               "tip_5lang": {
                 "de": "Sollte der Regen nachlassen, bieten die Mauern dramatische Ausblicke; bei starkem Guss finden Sie in den tiefen Torbögen schnell sicheren Unterschlupf.",
                 "hu": "Ha az eső alábbhagy, a falak drámai kilátást nyújtanak; erős zápor esetén a mély kapualjakban gyorsan biztonságos menedéket találhat.",
                 "ro": "Dacă ploaia se potolește, zidurile oferă vederi dramatice; în caz de aversă puternică, veți găsi rapid adăpost sigur în porțile adânci ale cetății.",
-                "en": "If the rain eases, the walls offer dramatic views; in case of a heavy downpour, you'll quickly find safe shelter in the deep archways of the gates."
+                "en": "If the rain eases, the walls offer dramatic views; in case of a heavy downpour, you'll quickly find safe shelter in the deep archways of the gates.",
+                "el": "Εάν η βροχή κοπάσει, τα τείχη προσφέρουν δραματικές θέες· σε περίπτωση δυνατής μπόρας, θα βρείτε γρήγορα ασφαλές καταφύγιο στις βαθιές καμάρες των πυλών."
               }
             },
             {
@@ -282,13 +310,15 @@
                 "de": "Mandraki-Hafen",
                 "hu": "Mandraki kikötő",
                 "ro": "Portul Mandraki",
-                "en": "Mandraki Harbour"
+                "en": "Mandraki Harbour",
+                "el": "Λιμάνι Μανδράκι"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Blick auf das aufgewühlte Meer von einem der ufernahen Cafés aus; der Anblick der Hirsche im Regen ist besonders melancholisch schön.",
                 "hu": "Élvezze a felkorbácsolt tenger látványát az egyik parti kávézóból; a szarvas-szobrok látványa az esőben különösen melankolikus és szép.",
                 "ro": "Admirați marea agitată dintr-o cafenea de pe mal; vederea statuilor de cerbi în ploaie este de o frumusețe melancolică deosebită.",
-                "en": "Enjoy the view of the churning sea from a waterfront cafe; the sight of the deer statues in the rain is particularly melancholic and beautiful."
+                "en": "Enjoy the view of the churning sea from a waterfront cafe; the sight of the deer statues in the rain is particularly melancholic and beautiful.",
+                "el": "Απολαύστε τη θέα της φουρτουνιασμένης θάλασσας από μια παραθαλάσσια καφετέρια· η όψη των αγαλμάτων των ελαφιών στη βροχή είναι ιδιαίτερα μελαγχολική και όμορφη."
               }
             }
           ]
@@ -298,7 +328,8 @@
             "de": "Erleben Sie Rhodos ohne die Sommerhitze. Der Morgen beginnt frisch am Palast. Mittags wärmen Sie sich in einer traditionellen Taverne in der Altstadt auf. Nutzen Sie das milde Licht für Fotos im Freien, bevor die Sonne gegen 17:00 Uhr untergeht. Der Abend endet gemütlich bei einem Glas Wein in einem beheizten Lokal nahe dem Hafen.",
             "hu": "Fedezze fel Rodoszt a nyári hőség nélkül. A reggel frissen indul a palotánál. Délben melegedjen fel egy hagyományos óvárosi tavernánál. Használja ki az enyhe téli fényeket a fotózáshoz, mielőtt a nap 17:00 körül lebukik. Az este záruljon hangulatosan egy pohár bor mellett egy fűtött kikötőmenti helyen.",
             "ro": "Descoperiți Rodosul fără arșița verii. Dimineața începe proaspăt la palat. La prânz, încălziți-vă într-o tavernă tradițională din orașul vechi. Profitați de lumina blândă pentru fotografii înainte ca soarele să apună în jur de ora 17:00. Seara se încheie confortabil cu un pahar de vin într-un local încălzit.",
-            "en": "Experience Rhodes without the summer heat. The morning starts fresh at the palace. At midday, warm up in a traditional old town tavern. Take advantage of the mild winter light for photos before the sun sets around 5 PM. The evening ends cozily with a glass of wine in a heated spot near the harbour."
+            "en": "Experience Rhodes without the summer heat. The morning starts fresh at the palace. At midday, warm up in a traditional old town tavern. Take advantage of the mild winter light for photos before the sun sets around 5 PM. The evening ends cozily with a glass of wine in a heated spot near the harbour.",
+            "el": "Ζήστε τη Ρόδο χωρίς τη θερινή ζέστη. Το πρωί ξεκινά φρέσκο στο παλάτι. Το μεσημέρι ζεσταθείτε σε μια παραδοσιακή ταβέρνα της παλιάς πόλης. Εκμεταλλευτείτε το απαλό χειμερινό φως για φωτογραφίες πριν ο ήλιος δύσει γύρω στις 5 μ.μ. Το βράδυ κλείνει ζεστά με ένα ποτήρι κρασί σε έναν θερμαινόμενο χώρο κοντά στο λιμάνι."
           },
           "stops": [
             {
@@ -306,13 +337,15 @@
                 "de": "Großmeisterpalast",
                 "hu": "Nagymesterek Palotája",
                 "ro": "Palatul Marelui Maestru",
-                "en": "Palace of the Grand Master"
+                "en": "Palace of the Grand Master",
+                "el": "Παλάτι του Μεγάλου Μαγίστρου"
               },
               "tip_5lang": {
                 "de": "Im Winter sind die Warteschlangen kurz; genießen Sie die kühle, aber majestätische Stille der Innenhöfe ohne die drückenden Touristenmassen des Sommers.",
                 "hu": "Télen a sorok rövidek; élvezze a belső udvarok hűvös, de fenséges csendjét a nyári fojtogató turistaáradat és tömeg nélkül.",
                 "ro": "Iarna cozile sunt scurte; bucurați-vă de liniștea răcoroasă, dar maiestuoasă a curților interioare fără mulțimile sufocante de turiști din vară.",
-                "en": "In winter, the queues are short; enjoy the cool but majestic silence of the courtyards without the suffocating tourist crowds of summer."
+                "en": "In winter, the queues are short; enjoy the cool but majestic silence of the courtyards without the suffocating tourist crowds of summer.",
+                "el": "Το χειμώνα οι ουρές είναι σύντομες· απολαύστε τη δροσερή αλλά επιβλητική σιωπή των αυλών χωρίς τα ασφυκτικά τουριστικά πλήθη του καλοκαιριού."
               }
             },
             {
@@ -320,13 +353,15 @@
                 "de": "Roloi-Uhrenturm",
                 "hu": "Roloi Óratorony",
                 "ro": "Turnul cu Ceas Roloi",
-                "en": "Roloi Clock Tower"
+                "en": "Roloi Clock Tower",
+                "el": "Ρολόι (Πύργος Ρολογιού)"
               },
               "tip_5lang": {
                 "de": "Die klare Winterluft sorgt für eine exzellente Fernsicht bis zur türkischen Küste; ein Heißgetränk oben rundet das Erlebnis perfekt ab.",
                 "hu": "A tiszta téli levegő kiváló látási viszonyokat biztosít egészen a török partokig; egy forró ital a toronyban tökéletessé teszi az élményt.",
                 "ro": "Aerul curat de iarnă oferă o vizibilitate excelentă până la coasta Turciei; o băutură caldă sus completează experiența în mod ideal.",
-                "en": "The crisp winter air provides excellent visibility all the way to the Turkish coast; a hot drink at the top rounds off the experience perfectly."
+                "en": "The crisp winter air provides excellent visibility all the way to the Turkish coast; a hot drink at the top rounds off the experience perfectly.",
+                "el": "Ο δροσερός χειμωνιάτικος αέρας προσφέρει εξαιρετική ορατότητα μέχρι την τουρκική ακτή· ένα ζεστό ρόφημα στην κορυφή ολοκληρώνει τέλεια την εμπειρία."
               }
             },
             {
@@ -334,13 +369,15 @@
                 "de": "Ritterstraße",
                 "hu": "Lovagok utcája",
                 "ro": "Strada Cavalerilor",
-                "en": "Street of the Knights"
+                "en": "Street of the Knights",
+                "el": "Οδός των Ιπποτών"
               },
               "tip_5lang": {
                 "de": "In der tiefstehenden Wintersonne werfen die mittelalterlichen Gebäude lange, dramatische Schatten, die ideal für künstlerische Architekturfotos sind.",
                 "hu": "Az alacsonyan járó téli napfényben a középkori épületek hosszú, drámai árnyékokat vetnek, ami ideális művészi építészeti fotókhoz.",
                 "ro": "În lumina joasă a soarelui de iarnă, clădirile medievale proiectează umbre lungi și dramatice, ideale pentru fotografii de arhitectură artistice.",
-                "en": "In the low winter sun, the medieval buildings cast long, dramatic shadows, which are ideal for artistic architectural photography."
+                "en": "In the low winter sun, the medieval buildings cast long, dramatic shadows, which are ideal for artistic architectural photography.",
+                "el": "Στο χαμηλό χειμερινό ήλιο, τα μεσαιωνικά κτίρια ρίχνουν μακριές, δραματικές σκιές, ιδανικές για καλλιτεχνική αρχιτεκτονική φωτογραφία."
               }
             },
             {
@@ -348,13 +385,15 @@
                 "de": "Archäologisches Museum",
                 "hu": "Régészeti Múzeum",
                 "ro": "Muzeul Arheologic",
-                "en": "Archaeological Museum"
+                "en": "Archaeological Museum",
+                "el": "Αρχαιολογικό Μουσείο"
               },
               "tip_5lang": {
                 "de": "Die dicken Mauern speichern die Wärme; erkunden Sie die Exponate in aller Ruhe und genießen Sie die friedliche Atmosphäre des Gartens im Winter.",
                 "hu": "A vastag falak jól tartják a meleget; fedezze fel a tárlatokat teljes nyugalomban, és élvezze a múzeumkert békés téli hangulatát.",
                 "ro": "Zidurile groase rețin bine căldura; explorați exponatele în liniște deplină și bucurați-vă de atmosfera pașnică a grădinii în timpul iernii.",
-                "en": "The thick walls retain heat well; explore the exhibits in peace and enjoy the tranquil winter atmosphere of the museum garden."
+                "en": "The thick walls retain heat well; explore the exhibits in peace and enjoy the tranquil winter atmosphere of the museum garden.",
+                "el": "Οι παχιοί τοίχοι διατηρούν καλά τη θερμότητα· εξερευνήστε τις εκθέσεις με ηρεμία και απολαύστε την ήσυχη χειμερινή ατμόσφαιρα του μουσείου κήπου."
               }
             },
             {
@@ -362,13 +401,15 @@
                 "de": "Panagia tou Kastrou",
                 "hu": "Panagia tou Kastrou",
                 "ro": "Panagia tou Kastrou",
-                "en": "Panagia tou Kastrou"
+                "en": "Panagia tou Kastrou",
+                "el": "Παναγία του Κάστρου"
               },
               "tip_5lang": {
                 "de": "Ein Ort der Besinnung; die kühle, sakrale Stille im Inneren bietet einen willkommenen Kontrast zum frischen Wind in den Gassen der Altstadt.",
                 "hu": "Az elcsendesedés helye; a belső hűvös, szakrális csend kellemes kontrasztot nyújt az óvárosi utcák friss téli szelével szemben.",
                 "ro": "Un loc de meditație; liniștea sacră și răcoroasă din interior oferă un contrast plăcut cu vântul proaspăt de pe străzile orașului vechi.",
-                "en": "A place for reflection; the cool, sacred silence inside offers a welcome contrast to the fresh breeze in the old town alleys."
+                "en": "A place for reflection; the cool, sacred silence inside offers a welcome contrast to the fresh breeze in the old town alleys.",
+                "el": "Ένας χώρος για περισυλλογή· η δροσερή, ιερὴ σιωπή μέσα προσφέρει ευπρόσδεκτη αντίθεση με το φρέσκο αεράκι στα σοκάκια της παλιάς πόλης."
               }
             },
             {
@@ -376,13 +417,15 @@
                 "de": "Mittelalterliche Stadtmauern",
                 "hu": "Középkori Városfalak",
                 "ro": "Zidurile Cetății Medievale",
-                "en": "Medieval City Walls"
+                "en": "Medieval City Walls",
+                "el": "Μεσαιωνικά Τείχη της Πόλης"
               },
               "tip_5lang": {
                 "de": "Ideal für einen ausgedehnten Spaziergang ohne die Sommerhitze; planen Sie Ihren Rundgang so, dass Sie pünktlich zum frühen Sonnenuntergang am Hafen sind.",
                 "hu": "Ideális egy hosszú sétához a nyári hőség nélkül; tervezze úgy a kört, hogy a korai naplementére pontosan a kikötőhöz érjen vissza.",
                 "ro": "Ideal pentru o plimbare lungă fără arșița verii; planificați traseul astfel încât să ajungeți în port exact la ora apusului timpuriu.",
-                "en": "Ideal for a long walk without the summer heat; plan your circuit so you return to the harbour exactly in time for the early sunset."
+                "en": "Ideal for a long walk without the summer heat; plan your circuit so you return to the harbour exactly in time for the early sunset.",
+                "el": "Ιδανικά για μεγάλη βόλτα χωρίς τη θερινή ζέστη· προγραμματίστε το δρομολόγιό σας ώστε να επιστρέψετε στο λιμάνι ακριβώς στην ώρα για το νωρίς ηλιοβασίλεμα."
               }
             },
             {
@@ -390,13 +433,15 @@
                 "de": "Mandraki-Hafen",
                 "hu": "Mandraki kikötő",
                 "ro": "Portul Mandraki",
-                "en": "Mandraki Harbour"
+                "en": "Mandraki Harbour",
+                "el": "Λιμάνι Μανδράκι"
               },
               "tip_5lang": {
                 "de": "Die Winterdämmerung am Hafen ist magisch; bringen Sie eine windfeste Jacke mit, um die beleuchtete Festung des Heiligen Nikolaus zu bewundern.",
                 "hu": "A téli alkonyat a kikötőben varázslatos; hozzon szélálló kabátot, hogy kényelmesen megcsodálhassa a kivilágított Szent Miklós-erődöt.",
                 "ro": "Amurgul de iarnă în port este magic; aduceți o jachetă rezistentă la vânt pentru a admira confortabil fortăreața luminată Sfântul Nicolae.",
-                "en": "Winter twilight at the harbour is magical; bring a windproof jacket to comfortably admire the illuminated fortress of Saint Nicholas."
+                "en": "Winter twilight at the harbour is magical; bring a windproof jacket to comfortably admire the illuminated fortress of Saint Nicholas.",
+                "el": "Το χειμωνιάτικο λυκόφως στο λιμάνι είναι μαγικό· φέρτε ένα αδιάβροχο μπουφάν για να θαυμάσετε άνετα το φωταγωγημένο φρούριο του Αγίου Νικολάου."
               }
             }
           ]
@@ -416,7 +461,8 @@
             "de": "Mandraki-Hafen",
             "hu": "Mandraki kikötő",
             "ro": "Portul Mandraki",
-            "en": "Mandraki Harbour"
+            "en": "Mandraki Harbour",
+            "el": "Λιμάνι Μανδράκι"
           },
           "coords": [
             28.226555,
@@ -431,7 +477,8 @@
             "de": "Beobachten Sie die bunten lokalen Boote genau dort, wo einst der legendäre Koloss stand, und machen Sie zur goldenen Stunde atemberaubende Fotos der ikonischen Windmühlen.",
             "hu": "Nézze a színes helyi hajókat pontosan onnan, ahol egykor a legendás Kolosszus állt, és készítsen lenyűgöző fotókat az ikonikus szélmalmokról a csodás aranyórában.",
             "ro": "Priviți bărcile locale colorate din locul exact unde a stat odată legendarul Colos și faceți fotografii uimitoare cu morile de vânt emblematice la lumina orei de aur.",
-            "en": "Watch the colorful local boats sail right from the exact spot where the legendary Colossus once stood, and capture stunning photos of the iconic windmills at golden hour."
+            "en": "Watch the colorful local boats sail right from the exact spot where the legendary Colossus once stood, and capture stunning photos of the iconic windmills at golden hour.",
+            "el": "Παρακολουθήστε τα πολύχρωμα τοπικά καΐκια να φεύγουν ακριβώς από το σημείο όπου στεκόταν κάποτε ο θρυλικός Κολοσσός, και απαθανατίστε εντυπωσιακές φωτογραφίες των εμβληματικών ανεμόμυλων στη χρυσή ώρα."
           }
         },
         {
@@ -439,7 +486,8 @@
             "de": "Mittelalterliche Stadtmauern",
             "hu": "Középkori Városfalak",
             "ro": "Zidurile Cetății Medievale",
-            "en": "Medieval City Walls"
+            "en": "Medieval City Walls",
+            "el": "Μεσαιωνικά Τείχη της Πόλης"
           },
           "coords": [
             28.228153,
@@ -454,7 +502,8 @@
             "de": "Gehen Sie entlang dieser massiven Verteidigungsmauern, um ihre immense Größe zu begreifen, und tragen Sie sehr bequeme Schuhe für die unebenen historischen Wege.",
             "hu": "Sétáljon végig ezeken a masszív védőfalakon, hogy megfelelően átérezze azok történelmi méreteit, és viseljen nagyon kényelmes cipőt az egyenetlen ősi utakra.",
             "ro": "Plimbați-vă de-a lungul acestor metereze masive de apărare pentru a le înțelege imensa scară istorică, purtând încălțăminte foarte confortabilă pentru căile antice denivelate.",
-            "en": "Walk extensively along these massive defensive ramparts to properly grasp their immense historical scale, wearing very comfortable shoes for the uneven ancient pathways."
+            "en": "Walk extensively along these massive defensive ramparts to properly grasp their immense historical scale, wearing very comfortable shoes for the uneven ancient pathways.",
+            "el": "Περπατήστε εκτενώς κατά μήκος αυτών των μεγάλων αμυντικών προμαχώνων για να αντιληφθείτε σωστά την τεράστια ιστορική τους κλίμακα, φορώντας πολύ άνετα παπούτσια για τα άνισα αρχαία μονοπάτια."
           }
         },
         {
@@ -462,7 +511,8 @@
             "de": "Jüdisches Museum von Rhodos",
             "hu": "Rodoszi Zsidó Múzeum",
             "ro": "Muzeul Evreiesc din Rodos",
-            "en": "Jewish Museum of Rhodes"
+            "en": "Jewish Museum of Rhodes",
+            "el": "Εβραϊκό Μουσείο της Ρόδου"
           },
           "coords": [
             28.230464,
@@ -477,7 +527,8 @@
             "de": "Erfahren Sie alles über die überraschend reiche Geschichte der lebendigen lokalen jüdischen Gemeinde in diesem ergreifenden Museum, prüfen Sie aber vorab die Öffnungszeiten.",
             "hu": "Tudjon meg mindent a helyi zsidó közösség meglepően gazdag történetéről ebben a mélyen megrendítő múzeumban, de mindenképpen ellenőrizze a pontos nyitvatartást.",
             "ro": "Aflați totul despre istoria surprinzător de bogată a comunității evreiești locale în acest muzeu emoționant, dar asigurați-vă că verificați programul de vizitare.",
-            "en": "Learn all about the surprisingly rich history of the vibrant local Jewish community in this deeply poignant museum, but remember to check specific visiting hours beforehand."
+            "en": "Learn all about the surprisingly rich history of the vibrant local Jewish community in this deeply poignant museum, but remember to check specific visiting hours beforehand.",
+            "el": "Μάθετε τα πάντα για την απροσδόκητα πλούσια ιστορία της ζωντανής τοπικής εβραϊκής κοινότητας σε αυτό το βαθιά συγκινητικό μουσείο, αλλά θυμηθείτε να ελέγξετε τις συγκεκριμένες ώρες επίσκεψης εκ των προτέρων."
           }
         },
         {
@@ -485,7 +536,8 @@
             "de": "Mittelalterliche Stadt Rhodos",
             "hu": "Rodosz Középkori Óvárosa",
             "ro": "Orașul Medieval Rodos",
-            "en": "Medieval Town of Rhodes"
+            "en": "Medieval Town of Rhodes",
+            "el": "Μεσαιωνική Πόλη της Ρόδου"
           },
           "coords": [
             28.226862,
@@ -500,7 +552,8 @@
             "de": "Verlieren Sie sich völlig in den bezaubernden verwinkelten Gassen dieses berühmten UNESCO-Weltkulturerbes und wandern Sie frei abseits der belebten Touristenstraßen.",
             "hu": "Vesszen el teljesen ennek a híres UNESCO világörökségi helyszínnek a varázslatos, labirintusszerű sikátoraiban, szabadon barangolva messze a főbb turistautvonalaktól.",
             "ro": "Pierdeți-vă complet în aleile labirintice fermecătoare ale acestui celebru sit din patrimoniul mondial UNESCO, rătăcind liber departe de arterele turistice aglomerate.",
-            "en": "Lose yourself completely in the enchanting labyrinthine alleys of this famous UNESCO World Heritage site, wandering freely away from the main bustling tourist thoroughfares."
+            "en": "Lose yourself completely in the enchanting labyrinthine alleys of this famous UNESCO World Heritage site, wandering freely away from the main bustling tourist thoroughfares.",
+            "el": "Χαθείτε τελείως στα μαγευτικά λαβυρινθώδη σοκάκια αυτού του διάσημου μνημείου Παγκόσμιας Κληρονομιάς της UNESCO, περιπλανώμενοι ελεύθερα μακριά από τους κύριους πολυσύχναστους τουριστικούς δρόμους."
           }
         },
         {
@@ -508,7 +561,8 @@
             "de": "Akropolis von Rhodos",
             "hu": "Rodoszi Akropolisz",
             "ro": "Acropola din Rodos",
-            "en": "Acropolis of Rhodes"
+            "en": "Acropolis of Rhodes",
+            "el": "Ακρόπολη της Ρόδου"
           },
           "coords": [
             28.2109,
@@ -523,7 +577,8 @@
             "de": "Wandern Sie den Hügel hinauf zu dieser antiken hellenistischen Stätte, um das Stadion zu sehen, und bringen Sie viel Wasser mit, da es hier sehr wenig Schatten gibt.",
             "hu": "Túrázzon fel a hegyoldalon erre a figyelemre méltóan nyitott ősi hellenisztikus helyszínre, és vigyen sok vizet magával, mert errefelé szinte egyáltalán nincs árnyék.",
             "ro": "Urcați pe deal până la acest sit antic elenistic remarcabil pentru a vedea stadionul restaurat și aduceți multă apă, deoarece există foarte puțină umbră disponibilă.",
-            "en": "Hike up the hillside to this remarkably open ancient Hellenistic site to see the restored stadium, and absolutely bring plenty of water as there is very little shade available."
+            "en": "Hike up the hillside to this remarkably open ancient Hellenistic site to see the restored stadium, and absolutely bring plenty of water as there is very little shade available.",
+            "el": "Ανεβείτε στο λόφο προς αυτό το εξαιρετικά ανοικτό αρχαίο ελληνιστικό χώρο για να δείτε το αναστηλωμένο στάδιο, και φροντίστε να φέρετε άφθονο νερό καθώς υπάρχει πολύ λίγη σκιά."
           }
         },
         {
@@ -531,7 +586,8 @@
             "de": "Großmeisterpalast",
             "hu": "Nagymesterek Palotája",
             "ro": "Palatul Marelui Maestru",
-            "en": "Palace of the Grand Master"
+            "en": "Palace of the Grand Master",
+            "el": "Παλάτι του Μεγάλου Μαγίστρου"
           },
           "coords": [
             28.224111,
@@ -546,7 +602,8 @@
             "de": "Erkunden Sie die beeindruckende mittelalterliche Architektur und die imposanten Innenhöfe dieser Festung und kommen Sie früh, um den Menschenmassen zuvorzukommen.",
             "hu": "Fedezze fel ennek a fenséges erődnek a lenyűgöző középkori építészetét és tágas udvarait, és érkezzen minél korábban, hogy elkerülje a legnagyobb tömeget.",
             "ro": "Explorați arhitectura medievală impresionantă și curțile interioare ale acestei fortărețe și asigurați-vă că ajungeți devreme pentru a evita marile aglomerații.",
-            "en": "Explore the striking medieval architecture and imposing courtyards of this majestic fortress, and make sure to arrive early to beat the heavy main crowds."
+            "en": "Explore the striking medieval architecture and imposing courtyards of this majestic fortress, and make sure to arrive early to beat the heavy main crowds.",
+            "el": "Εξερευνήστε την επιβλητική μεσαιωνική αρχιτεκτονική και τις εντυπωσιακές αυλές αυτού του μεγαλόπρεπου φρουρίου, και φροντίστε να φτάσετε νωρίς για να αποφύγετε τα μεγάλα κύρια πλήθη."
           }
         }
       ],
@@ -554,7 +611,8 @@
         "de": "Starten Sie am Mandraki-Hafen, bevor Sie zu den imposanten mittelalterlichen Stadtmauern radeln. Mittags erkunden Sie das Jüdische Museum und das Herz der mittelalterlichen Stadt. Fahren Sie nachmittags zur Akropolis von Rhodos hinauf, um herrliche Ausblicke zu genießen. Beenden Sie Ihre Radtour in der Nähe des prächtigen Großmeisterpalastes.",
         "hu": "Kezdje a túrát a Mandraki kikötőben, majd tekerjen a lenyűgöző középkori városfalakhoz. Délben látogasson el a Zsidó Múzeumba és a középkori óváros szívébe. Délután kerekezzen fel a rodoszi Akropoliszhoz a fantasztikus kilátásért. Zárja a kerékpáros utazást a csodálatos Nagymesterek Palotája közelében, ahogy a nap lassan a végéhez ér.",
         "ro": "Începeți plimbarea în portul Mandraki înainte de a pedala spre zidurile medievale ale orașului. Amiaza vă poartă prin Muzeul Evreiesc și inima Orașului Medieval. După-amiaza, urcați spre Acropola din Rodos pentru o priveliște la înălțime. Terminați călătoria cu bicicleta lângă magnificul Palat al Marelui Maestru la sfârșitul zilei.",
-        "en": "Start your ride at Mandraki Harbour before pedaling to the imposing Medieval City Walls. Midday takes you through the rich exhibits of the Jewish Museum and the heart of the Medieval Town. In the afternoon, ride up to the Acropolis of Rhodes for stunning elevated views. Finish your cycling journey back near the magnificent Palace of the Grand Master as the day winds down."
+        "en": "Start your ride at Mandraki Harbour before pedaling to the imposing Medieval City Walls. Midday takes you through the rich exhibits of the Jewish Museum and the heart of the Medieval Town. In the afternoon, ride up to the Acropolis of Rhodes for stunning elevated views. Finish your cycling journey back near the magnificent Palace of the Grand Master as the day winds down.",
+        "el": "Ξεκινήστε τη βόλτα σας από το λιμάνι Μανδράκι πριν ποδηλατήσετε προς τα επιβλητικά Μεσαιωνικά Τείχη. Το μεσημέρι σας οδηγεί μέσα από τις πλούσιες εκθέσεις του Εβραϊκού Μουσείου και την καρδιά της Μεσαιωνικής Πόλης. Το απόγευμα, ανεβείτε στην Ακρόπολη της Ρόδου για εντυπωσιακές ανεβατές θέες. Ολοκληρώστε την ποδηλατική σας διαδρομή ξανά κοντά στο μεγαλοπρεπές Παλάτι του Μεγάλου Μαγίστρου καθώς η μέρα φτάνει στο τέλος της."
       },
       "variants": {
         "rainy": {
@@ -562,7 +620,8 @@
             "de": "Eine Radtour bei Regen erfordert Vorsicht auf den rutschigen Wegen der Altstadt. Starten Sie vorsichtig am Hafen und nutzen Sie die Museen für längere Pausen im Trockenen. Nachmittags führt die Fahrt zur Akropolis, wo der Wind kräftig wehen kann. Beenden Sie die Tour frühzeitig in einem gemütlichen Café am Großmeisterpalast, um sich aufzuwärmen.",
             "hu": "Az esős kerékpározás óvatosságot igényel az óváros csúszós útjain. Kezdjen óvatosan a kikötőben, és használja a múzeumokat hosszabb száraz pihenőkre. Délután az akropolisz felé tekerhet, ahol a szél felerősödhet. Fejezze be a túrát korán a palota melletti hangulatos kávézók egyikében, hogy felmelegedjen.",
             "ro": "Ciclismul pe ploaie necesită prudență pe drumurile alunecoase ale orașului vechi. Începeți cu grijă în port și folosiți muzeele pentru pauze mai lungi la uscat. După-amiaza, pedalați spre acropolă, unde vântul se poate intensifica. Încheiați turul devreme la o cafenea lângă palat pentru a vă încălzi.",
-            "en": "Cycling in the rain requires caution on the slippery old town roads. Start carefully at the harbour and use museums for longer dry breaks. In the afternoon, ride towards the Acropolis, where the wind can pick up. End the tour early at a cozy cafe near the palace to dry off and warm up."
+            "en": "Cycling in the rain requires caution on the slippery old town roads. Start carefully at the harbour and use museums for longer dry breaks. In the afternoon, ride towards the Acropolis, where the wind can pick up. End the tour early at a cozy cafe near the palace to dry off and warm up.",
+            "el": "Το ποδήλατο στη βροχή απαιτεί προσοχή στους ολισθηρούς δρόμους της παλιάς πόλης. Ξεκινήστε προσεκτικά στο λιμάνι και χρησιμοποιήστε τα μουσεία για μεγαλύτερα στεγνά διαλείμματα. Το απόγευμα, κατευθυνθείτε προς την Ακρόπολη, όπου ο άνεμος μπορεί να δυναμώσει. Τερματίστε την περιοδεία νωρίς σε μια ζεστή καφετέρια κοντά στο παλάτι για να στεγνώσετε και να ζεσταθείτε."
           },
           "stops": [
             {
@@ -570,13 +629,15 @@
                 "de": "Mandraki-Hafen",
                 "hu": "Mandraki kikötő",
                 "ro": "Portul Mandraki",
-                "en": "Mandraki Harbour"
+                "en": "Mandraki Harbour",
+                "el": "Λιμάνι Μανδράκι"
               },
               "tip_5lang": {
                 "de": "Tragen Sie wasserfeste Kleidung, da der Wind das Meerwasser oft auf die Wege peitscht; der Boden kann hier am Wasser besonders rutschig sein.",
                 "hu": "Viseljen vízálló ruházatot, mert a szél gyakran a járdára hordja a tengervizet; a talaj itt a víz mellett különösen csúszós lehet.",
                 "ro": "Purtați haine impermeabile, deoarece vântul suflă adesea apa mării pe alei; solul de lângă apă poate fi extrem de alunecos aici.",
-                "en": "Wear waterproof clothing as the wind often sprays seawater onto the paths; the ground here by the water can be particularly slippery."
+                "en": "Wear waterproof clothing as the wind often sprays seawater onto the paths; the ground here by the water can be particularly slippery.",
+                "el": "Φορέστε αδιάβροχα ρούχα καθώς ο άνεμος συχνά ψεκάζει θαλασσινό νερό στα μονοπάτια· το έδαφος εδώ κοντά στο νερό μπορεί να είναι ιδιαίτερα ολισθηρό."
               }
             },
             {
@@ -584,13 +645,15 @@
                 "de": "Mittelalterliche Stadtmauern",
                 "hu": "Középkori Városfalak",
                 "ro": "Zidurile Cetății Medievale",
-                "en": "Medieval City Walls"
+                "en": "Medieval City Walls",
+                "el": "Μεσαιωνικά Τείχη της Πόλης"
               },
               "tip_5lang": {
                 "de": "Fahren Sie langsam auf den befestigten Wegen nahe der Mauer; die tiefen Gräben wirken bei Regen und Nebel besonders beeindruckend und düster.",
                 "hu": "Tekerjen lassan a falak menti köves utakon; a mély várárkok esőben és ködben különösen lenyűgöző és komor látványt nyújtanak.",
                 "ro": "Pedalați încet pe drumurile pietruite de lângă ziduri; șanțurile adânci par deosebit de impresionante și sumbre în ploaie și ceață.",
-                "en": "Ride slowly on the stone paths near the walls; the deep moats look particularly impressive and somber in the rain and fog."
+                "en": "Ride slowly on the stone paths near the walls; the deep moats look particularly impressive and somber in the rain and fog.",
+                "el": "Ποδηλατήστε αργά στα λιθόστρωτα μονοπάτια κοντά στα τείχη· τα βαθιά τάφρα φαίνονται ιδιαίτερα εντυπωσιακά και μελαγχολικά στη βροχή και την ομίχλη."
               }
             },
             {
@@ -598,13 +661,15 @@
                 "de": "Jüdisches Museum von Rhodos",
                 "hu": "Rodoszi Zsidó Múzeum",
                 "ro": "Muzeul Evreiesc din Rodos",
-                "en": "Jewish Museum of Rhodes"
+                "en": "Jewish Museum of Rhodes",
+                "el": "Εβραϊκό Μουσείο της Ρόδου"
               },
               "tip_5lang": {
                 "de": "Stellen Sie Ihr Rad sicher ab und nutzen Sie den Besuch, um die Kleidung zu trocknen, während Sie in die bewegende Geschichte der Gemeinde eintauchen.",
                 "hu": "Támassza le biztosan a kerékpárt, és használja a látogatást a ruhái szárítására, miközben elmerül a közösség megindító történelmében.",
                 "ro": "Parcați bicicleta în siguranță și profitați de vizită pentru a vă usca hainele în timp ce explorați istoria emoționantă a comunității.",
-                "en": "Park your bike securely and use the visit to dry your clothes while immersing yourself in the moving history of the community."
+                "en": "Park your bike securely and use the visit to dry your clothes while immersing yourself in the moving history of the community.",
+                "el": "Παρκάρετε το ποδήλατό σας με ασφάλεια και χρησιμοποιήστε την επίσκεψη για να στεγνώσετε τα ρούχα σας ενώ βυθίζεστε στην συγκινητική ιστορία της κοινότητας."
               }
             },
             {
@@ -612,13 +677,15 @@
                 "de": "Mittelalterliche Stadt Rhodos",
                 "hu": "Rodosz Középkori Óvárosa",
                 "ro": "Orașul Medieval Rodos",
-                "en": "Medieval Town of Rhodes"
+                "en": "Medieval Town of Rhodes",
+                "el": "Μεσαιωνική Πόλη της Ρόδου"
               },
               "tip_5lang": {
                 "de": "Meiden Sie die steilsten Gassen mit dem Rad bei Nässe; schieben Sie lieber ein kurzes Stück, um die regenbenetzten Steinfassaden sicher zu bewundern.",
                 "hu": "Kerülje a legmeredekebb sikátorokat biciklivel esőben; inkább tolja egy rövid szakaszon, hogy biztonságban csodálhassa a vizes kőfalakat.",
                 "ro": "Evitați cele mai abrupte străduțe cu bicicleta pe ploaie; mai bine mergeți pe lângă ea pentru a admira în siguranță fațadele umede.",
-                "en": "Avoid the steepest alleys with your bike in the wet; better to push it for a short stretch to safely admire the rain-slicked stone facades."
+                "en": "Avoid the steepest alleys with your bike in the wet; better to push it for a short stretch to safely admire the rain-slicked stone facades.",
+                "el": "Αποφύγετε τις πιο απότομες ανηφοριές με το ποδήλατο όταν είναι βρεγμένες· καλύτερα να το σπρώξετε για λίγο για να θαυμάσετε με ασφάλεια τις σχεδόν γυαλιστερές από τη βροχή λιθοδομές."
               }
             },
             {
@@ -626,13 +693,15 @@
                 "de": "Akropolis von Rhodos",
                 "hu": "Rodoszi Akropolisz",
                 "ro": "Acropola din Rodos",
-                "en": "Acropolis of Rhodes"
+                "en": "Acropolis of Rhodes",
+                "el": "Ακρόπολη της Ρόδου"
               },
               "tip_5lang": {
                 "de": "Der Anstieg hält Sie warm, doch oben ist es windig; suchen Sie Schutz unter den Bäumen nahe dem Stadion, falls ein Schauer einsetzt.",
                 "hu": "Az emelkedő melegen tart, de fent szeles az idő; keressen menedéket a stadion melletti fák alatt, ha éppen eleredne az eső.",
                 "ro": "Urcarea vă menține cald, dar sus este vânt; căutați adăpost sub copacii de lângă stadion dacă începe o aversă de ploaie.",
-                "en": "The climb keeps you warm, but it's windy at the top; seek shelter under the trees near the stadium if a rain shower begins."
+                "en": "The climb keeps you warm, but it's windy at the top; seek shelter under the trees near the stadium if a rain shower begins.",
+                "el": "Η ανάβαση σας κρατά ζεστούς, αλλά είναι ανεμώδες στην κορυφή· αναζητήστε καταφύγιο κάτω από τα δέντρα κοντά στο στάδιο αν αρχίσει μπόρα."
               }
             },
             {
@@ -640,13 +709,15 @@
                 "de": "Großmeisterpalast",
                 "hu": "Nagymesterek Palotája",
                 "ro": "Palatul Marelui Maestru",
-                "en": "Palace of the Grand Master"
+                "en": "Palace of the Grand Master",
+                "el": "Παλάτι του Μεγάλου Μαγίστρου"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihre Tour hier, wo es viele überdachte Abstellmöglichkeiten gibt, und gönnen Sie sich eine lange Besichtigung im trockenen Palastinneren.",
                 "hu": "Fejezze be itt a túrát, ahol számos fedett tárolóhely van, és jutalmazza meg magát egy hosszú nézelődéssel a palota száraz belső tereiben.",
                 "ro": "Încheiați turul aici, unde există locuri de parcare acoperite, și răsplătiți-vă cu o vizită lungă în interiorul uscat al palatului.",
-                "en": "End your tour here, where there are covered parking spots, and reward yourself with a long visit inside the dry interior of the palace."
+                "en": "End your tour here, where there are covered parking spots, and reward yourself with a long visit inside the dry interior of the palace.",
+                "el": "Τερματίστε την περιοδεία εδώ, όπου υπάρχουν στεγασμένες θέσεις στάθμευσης, και ανταμείψτε τον εαυτό σας με μια μεγάλη επίσκεψη στο στεγνό εσωτερικό του παλατιού."
               }
             }
           ]
@@ -656,7 +727,8 @@
             "de": "Winterliches Radfahren in Rhodos ist dank der milden Temperaturen sehr angenehm. Starten Sie erfrischt am Hafen und erkunden Sie die Stadtmauern ohne die Hitze. Mittags bieten Museen eine warme Pause. Planen Sie die Fahrt zur Akropolis für den Nachmittag ein, um das goldene Winterlicht zu nutzen, bevor es kühl wird und die Sonne früh untergeht.",
             "hu": "A téli kerékpározás Rodoszon az enyhe hőmérsékletnek köszönhetően nagyon kellemes. Kezdjen frissen a kikötőnél, és fedezze fel a várfalakat a hőség nélkül. Délben a múzeumok meleg pihenőt nyújtanak. Az akropoliszi tekerést időzítse délutánra az aranyló téli fények miatt, mielőtt lehűl az idő.",
             "ro": "Ciclismul de iarnă în Rodos este foarte plăcut datorită temperaturilor blânde. Începeți proaspăt în port și explorați zidurile cetății fără arșiță. La prânz, muzeele oferă o pauză caldă. Programați vizita la acropolă după-amiaza pentru lumina aurie de iarnă, înainte de apus.",
-            "en": "Winter cycling in Rhodes is very pleasant thanks to the mild temperatures. Start refreshed at the harbour and explore the city walls without the heat. At midday, museums offer a warm break. Schedule your ride to the Acropolis for the afternoon to catch the golden winter light before it gets chilly."
+            "en": "Winter cycling in Rhodes is very pleasant thanks to the mild temperatures. Start refreshed at the harbour and explore the city walls without the heat. At midday, museums offer a warm break. Schedule your ride to the Acropolis for the afternoon to catch the golden winter light before it gets chilly.",
+            "el": "Το χειμερινό ποδήλατο στη Ρόδο είναι πολύ ευχάριστο χάρη στις ήπιες θερμοκρασίες. Ξεκινήστε ανανεωμένοι στο λιμάνι και εξερευνήστε τα τείχη χωρίς τη ζέστη. Το μεσημέρι, τα μουσεία προσφέρουν ένα ζεστό διάλειμμα. Προγραμματίστε την ανάβαση στην Ακρόπολη για το απόγευμα ώστε να προλάβετε το χρυσαφί χειμερινό φως πριν κρυώσει."
           },
           "stops": [
             {
@@ -664,13 +736,15 @@
                 "de": "Mandraki-Hafen",
                 "hu": "Mandraki kikötő",
                 "ro": "Portul Mandraki",
-                "en": "Mandraki Harbour"
+                "en": "Mandraki Harbour",
+                "el": "Λιμάνι Μανδράκι"
               },
               "tip_5lang": {
                 "de": "Die kühle Meeresbrise ist belebend; tragen Sie eine winddichte Schicht, um die Fahrt entlang der Molen zu den Windmühlen voll genießen zu können.",
                 "hu": "A hűvös tengeri szél élénkítő; viseljen szélálló réteget, hogy teljes mértékben élvezhesse a tekerést a móló mentén a szélmalmokig.",
                 "ro": "Briza răcoroasă a mării este revigorantă; purtați un strat rezistent la vânt pentru a vă bucura de plimbarea de-a lungul digului spre mori.",
-                "en": "The cool sea breeze is invigorating; wear a windproof layer to fully enjoy the ride along the pier towards the windmills."
+                "en": "The cool sea breeze is invigorating; wear a windproof layer to fully enjoy the ride along the pier towards the windmills.",
+                "el": "Το δροσερό θαλασσινό αεράκι αναζωογονεί· φορέστε ένα αδιάβροχο/αντιανεμικό στρώμα για να απολαύσετε πλήρως τη βόλτα κατά μήκος του μόλου προς τους ανεμόμυλους."
               }
             },
             {
@@ -678,13 +752,15 @@
                 "de": "Mittelalterliche Stadtmauern",
                 "hu": "Középkori Városfalak",
                 "ro": "Zidurile Cetății Medievale",
-                "en": "Medieval City Walls"
+                "en": "Medieval City Walls",
+                "el": "Μεσαιωνικά Τείχη της Πόλης"
               },
               "tip_5lang": {
                 "de": "Perfekt für Radfahrer im Winter, da die Wege leer sind; nutzen Sie den freien Platz für Fotos der gewaltigen Befestigungsanlagen im sanften Licht.",
                 "hu": "Tökéletes a téli bringázáshoz, mivel az utak üresek; használja ki a szabad teret a hatalmas erődítmények fotózásához a lágy fényben.",
                 "ro": "Perfect pentru ciclism iarna, deoarece drumurile sunt goale; profitați de spațiul liber pentru poze cu fortificațiile uriașe în lumina blândă.",
-                "en": "Perfect for cycling in winter as the paths are empty; take advantage of the open space for photos of the massive fortifications in the soft light."
+                "en": "Perfect for cycling in winter as the paths are empty; take advantage of the open space for photos of the massive fortifications in the soft light.",
+                "el": "Ιδανικά για ποδηλασία το χειμώνα καθώς τα μονοπάτια είναι άδεια· εκμεταλλευτείτε τον ανοιχτό χώρο για φωτογραφίες των τεράστιων οχυρώσεων στο απαλό φως."
               }
             },
             {
@@ -692,13 +768,15 @@
                 "de": "Jüdisches Museum von Rhodos",
                 "hu": "Rodoszi Zsidó Múzeum",
                 "ro": "Muzeul Evreiesc din Rodos",
-                "en": "Jewish Museum of Rhodes"
+                "en": "Jewish Museum of Rhodes",
+                "el": "Εβραϊκό Μουσείο της Ρόδου"
               },
               "tip_5lang": {
                 "de": "Ein warmer Zwischenstopp; das Museum ist im Winter wunderbar ruhig und bietet eine intensive Erfahrung ohne die Hektik der Hochsaison.",
                 "hu": "Egy melegítő megálló; a múzeum télen csodálatosan csendes, és mély élményt nyújt a főszezon nyüzsgése és sietsége nélkül.",
                 "ro": "O oprire caldă; muzeul este minunat de liniștit iarna și oferă o experiență intensă fără agitația specifică sezonului de vârf.",
-                "en": "A warm stop-off; the museum is wonderfully quiet in winter and offers an intense experience without the rush of the high season."
+                "en": "A warm stop-off; the museum is wonderfully quiet in winter and offers an intense experience without the rush of the high season.",
+                "el": "Ένας ζεστός σταθμός· το μουσείο είναι υπέροχα ήσυχο το χειμώνα και προσφέρει έντονη εμπειρία χωρίς τον πανικό της υψηλής σεζόν."
               }
             },
             {
@@ -706,13 +784,15 @@
                 "de": "Mittelalterliche Stadt Rhodos",
                 "hu": "Rodosz Középkori Óvárosa",
                 "ro": "Orașul Medieval Rodos",
-                "en": "Medieval Town of Rhodes"
+                "en": "Medieval Town of Rhodes",
+                "el": "Μεσαιωνική Πόλη της Ρόδου"
               },
               "tip_5lang": {
                 "de": "Das Radfahren durch die Gassen ist im Winter viel entspannter; achten Sie auf die lokale Atmosphäre in den weniger touristischen Vierteln.",
                 "hu": "A sikátorokban való biciklizés télen sokkal nyugodtabb; figyelje meg a helyi életet a kevésbé turisztikai jellegű negyedekben is.",
                 "ro": "Ciclismul prin străduțe este mult mai relaxat iarna; observați atmosfera locală în cartierele mai puțin frecventate de turiști.",
-                "en": "Cycling through the alleys is much more relaxed in winter; look out for the local atmosphere in the less touristy neighborhoods."
+                "en": "Cycling through the alleys is much more relaxed in winter; look out for the local atmosphere in the less touristy neighborhoods.",
+                "el": "Η ποδηλασία μέσα στα σοκάκια είναι πολύ πιο χαλαρή το χειμώνα· προσέξτε την τοπική ατμόσφαιρα στις λιγότερο τουριστικές γειτονιές."
               }
             },
             {
@@ -720,13 +800,15 @@
                 "de": "Akropolis von Rhodos",
                 "hu": "Rodoszi Akropolisz",
                 "ro": "Acropola din Rodos",
-                "en": "Acropolis of Rhodes"
+                "en": "Acropolis of Rhodes",
+                "el": "Ακρόπολη της Ρόδου"
               },
               "tip_5lang": {
                 "de": "Der Anstieg ist bei kühlen Temperaturen mühelos; genießen Sie den spektakulären Rundblick in der klaren Winterluft, bevor es schattig wird.",
                 "hu": "Az emelkedő a hűvösben könnyen leküzdhető; élvezze a látványos körpanorámát a tiszta téli levegőben, mielőtt árnyékba borulna a domb.",
                 "ro": "Urcarea este ușoară la temperaturi scăzute; bucurați-vă de panorama spectaculoasă în aerul curat de iarnă înainte să se lase umbra.",
-                "en": "The climb is effortless in cool temperatures; enjoy the spectacular panoramic view in the clear winter air before it gets shady."
+                "en": "The climb is effortless in cool temperatures; enjoy the spectacular panoramic view in the clear winter air before it gets shady.",
+                "el": "Η ανάβαση είναι εύκολη σε δροσερές θερμοκρασίες· απολαύστε την εκπληκτική πανοραμική θέα στον καθαρό χειμερινό αέρα πριν πέσει η σκιά."
               }
             },
             {
@@ -734,13 +816,15 @@
                 "de": "Großmeisterpalast",
                 "hu": "Nagymesterek Palotája",
                 "ro": "Palatul Marelui Maestru",
-                "en": "Palace of the Grand Master"
+                "en": "Palace of the Grand Master",
+                "el": "Παλάτι του Μεγάλου Μαγίστρου"
               },
               "tip_5lang": {
                 "de": "Ein würdiger Abschluss im Warmen; die Beleuchtung des Palastes in der frühen Winterdämmerung ist ein unvergessliches Highlight Ihrer Tour.",
                 "hu": "Méltó befejezés a melegben; a palota díszkivilágítása a korai téli szürkületben a túra felejthetetlen fénypontja lesz.",
                 "ro": "Un final pe măsură la căldură; iluminarea palatului în amurgul timpuriu de iarnă este un punct culminant de neuitat al turului tău.",
-                "en": "A worthy finish in the warm; the palace lighting in the early winter twilight is an unforgettable highlight of your tour."
+                "en": "A worthy finish in the warm; the palace lighting in the early winter twilight is an unforgettable highlight of your tour.",
+                "el": "Ένα άξιο τέλος σε ζεστό χώρο· ο φωτισμός του παλατιού στο πρώιμο χειμερινό λυκόφως είναι ένα αξέχαστο αποκορύφωμα της διαδρομής σας."
               }
             }
           ]
@@ -760,7 +844,8 @@
             "de": "Akropolis von Rhodos",
             "hu": "Rodoszi Akropolisz",
             "ro": "Acropola din Rodos",
-            "en": "Acropolis of Rhodes"
+            "en": "Acropolis of Rhodes",
+            "el": "Ακρόπολη της Ρόδου"
           },
           "coords": [
             28.2109,
@@ -775,7 +860,8 @@
             "de": "Wandern Sie den Hügel hinauf zu dieser antiken hellenistischen Stätte, um das Stadion zu sehen, und bringen Sie viel Wasser mit, da es hier sehr wenig Schatten gibt.",
             "hu": "Túrázzon fel a hegyoldalon erre a figyelemre méltóan nyitott ősi hellenisztikus helyszínre, és vigyen sok vizet magával, mert errefelé szinte egyáltalán nincs árnyék.",
             "ro": "Urcați pe deal până la acest sit antic elenistic remarcabil pentru a vedea stadionul restaurat și aduceți multă apă, deoarece există foarte puțină umbră disponibilă.",
-            "en": "Hike up the hillside to this remarkably open ancient Hellenistic site to see the restored stadium, and absolutely bring plenty of water as there is very little shade available."
+            "en": "Hike up the hillside to this remarkably open ancient Hellenistic site to see the restored stadium, and absolutely bring plenty of water as there is very little shade available.",
+            "el": "Ανεβείτε στο λόφο προς αυτό το εξαιρετικά ανοικτό αρχαίο ελληνιστικό χώρο για να δείτε το αναστηλωμένο στάδιο, και φροντίστε να φέρετε άφθονο νερό καθώς υπάρχει πολύ λίγη σκιά."
           }
         },
         {
@@ -783,7 +869,8 @@
             "de": "Santa Maria",
             "hu": "Santa Maria",
             "ro": "Santa Maria",
-            "en": "Santa Maria"
+            "en": "Santa Maria",
+            "el": "Santa Maria"
           },
           "coords": [
             28.220438,
@@ -798,7 +885,8 @@
             "de": "Nehmen Sie sich einen ruhigen Moment an dieser wunderschön erhaltenen religiösen Stätte, um ihre gelassene Atmosphäre zu schätzen, und kleiden Sie sich stets respektvoll.",
             "hu": "Töltsön el egy csodálatosan csendes pillanatot ebben a gyönyörűen megőrzött vallási helyszínben a nyugodt atmoszféráért, mindig visszafogottan és tiszteletteljesen öltözve.",
             "ro": "Luați-vă un moment minunat de liniște în acest sit religios frumos conservat pentru a aprecia atmosfera sa senină, îmbrăcându-vă modest din respect pentru obiceiurile locale.",
-            "en": "Take a wonderfully quiet moment inside this beautifully preserved religious site to appreciate its serene atmosphere, always dressing modestly out of respect for local customs."
+            "en": "Take a wonderfully quiet moment inside this beautifully preserved religious site to appreciate its serene atmosphere, always dressing modestly out of respect for local customs.",
+            "el": "Αφιερώστε μια υπέροχα ήσυχη στιγμή μέσα σε αυτόν τον καλοδιατηρημένο θρησκευτικό χώρο για να εκτιμήσετε την ήρεμη ατμόσφαιρά του, ντυθείτε σεμνά από σεβασμό προς τα τοπικά έθιμα."
           }
         },
         {
@@ -806,7 +894,8 @@
             "de": "Mandraki-Hafen",
             "hu": "Mandraki kikötő",
             "ro": "Portul Mandraki",
-            "en": "Mandraki Harbour"
+            "en": "Mandraki Harbour",
+            "el": "Λιμάνι Μανδράκι"
           },
           "coords": [
             28.226555,
@@ -821,7 +910,8 @@
             "de": "Beobachten Sie die bunten lokalen Boote genau dort, wo einst der legendäre Koloss stand, und machen Sie zur goldenen Stunde atemberaubende Fotos der ikonischen Windmühlen.",
             "hu": "Nézze a színes helyi hajókat pontosan onnan, ahol egykor a legendás Kolosszus állt, és készítsen lenyűgöző fotókat az ikonikus szélmalmokról a csodás aranyórában.",
             "ro": "Priviți bărcile locale colorate din locul exact unde a stat odată legendarul Colos și faceți fotografii uimitoare cu morile de vânt emblematice la lumina orei de aur.",
-            "en": "Watch the colorful local boats sail right from the exact spot where the legendary Colossus once stood, and capture stunning photos of the iconic windmills at golden hour."
+            "en": "Watch the colorful local boats sail right from the exact spot where the legendary Colossus once stood, and capture stunning photos of the iconic windmills at golden hour.",
+            "el": "Παρακολουθήστε τα πολύχρωμα τοπικά καΐκια να φεύγουν ακριβώς από το σημείο όπου στεκόταν κάποτε ο θρυλικός Κολοσσός, και απαθανατίστε εντυπωσιακές φωτογραφίες των εμβληματικών ανεμόμυλων στη χρυσή ώρα."
           }
         },
         {
@@ -829,7 +919,8 @@
             "de": "Großmeisterpalast",
             "hu": "Nagymesterek Palotája",
             "ro": "Palatul Marelui Maestru",
-            "en": "Palace of the Grand Master"
+            "en": "Palace of the Grand Master",
+            "el": "Παλάτι του Μεγάλου Μαγίστρου"
           },
           "coords": [
             28.224111,
@@ -844,7 +935,8 @@
             "de": "Erkunden Sie die beeindruckende mittelalterliche Architektur und die imposanten Innenhöfe dieser Festung und kommen Sie früh, um den Menschenmassen zuvorzukommen.",
             "hu": "Fedezze fel ennek a fenséges erődnek a lenyűgöző középkori építészetét és tágas udvarait, és érkezzen minél korábban, hogy elkerülje a legnagyobb tömeget.",
             "ro": "Explorați arhitectura medievală impresionantă și curțile interioare ale acestei fortărețe și asigurați-vă că ajungeți devreme pentru a evita marile aglomerații.",
-            "en": "Explore the striking medieval architecture and imposing courtyards of this majestic fortress, and make sure to arrive early to beat the heavy main crowds."
+            "en": "Explore the striking medieval architecture and imposing courtyards of this majestic fortress, and make sure to arrive early to beat the heavy main crowds.",
+            "el": "Εξερευνήστε την επιβλητική μεσαιωνική αρχιτεκτονική και τις εντυπωσιακές αυλές αυτού του μεγαλόπρεπου φρουρίου, και φροντίστε να φτάσετε νωρίς για να αποφύγετε τα μεγάλα κύρια πλήθη."
           }
         },
         {
@@ -852,7 +944,8 @@
             "de": "Jüdisches Museum von Rhodos",
             "hu": "Rodoszi Zsidó Múzeum",
             "ro": "Muzeul Evreiesc din Rodos",
-            "en": "Jewish Museum of Rhodes"
+            "en": "Jewish Museum of Rhodes",
+            "el": "Εβραϊκό Μουσείο της Ρόδου"
           },
           "coords": [
             28.230464,
@@ -867,7 +960,8 @@
             "de": "Erfahren Sie alles über die überraschend reiche Geschichte der lebendigen lokalen jüdischen Gemeinde in diesem ergreifenden Museum, prüfen Sie aber vorab die Öffnungszeiten.",
             "hu": "Tudjon meg mindent a helyi zsidó közösség meglepően gazdag történetéről ebben a mélyen megrendítő múzeumban, de mindenképpen ellenőrizze a pontos nyitvatartást.",
             "ro": "Aflați totul despre istoria surprinzător de bogată a comunității evreiești locale în acest muzeu emoționant, dar asigurați-vă că verificați programul de vizitare.",
-            "en": "Learn all about the surprisingly rich history of the vibrant local Jewish community in this deeply poignant museum, but remember to check specific visiting hours beforehand."
+            "en": "Learn all about the surprisingly rich history of the vibrant local Jewish community in this deeply poignant museum, but remember to check specific visiting hours beforehand.",
+            "el": "Μάθετε τα πάντα για την απροσδόκητα πλούσια ιστορία της ζωντανής τοπικής εβραϊκής κοινότητας σε αυτό το βαθιά συγκινητικό μουσείο, αλλά θυμηθείτε να ελέγξετε τις συγκεκριμένες ώρες επίσκεψης εκ των προτέρων."
           }
         }
       ],
@@ -875,7 +969,8 @@
         "de": "Beginnen Sie mit einer Fahrt zur antiken Akropolis von Rhodos und besuchen Sie dann die friedliche Kirche Santa Maria. Mittags erreichen Sie den belebten Mandraki-Hafen für eine Pause am Wasser. Erkunden Sie am Nachmittag den majestätischen Großmeisterpalast. Schließen Sie Ihre Tour mit einem besinnlichen Besuch im Jüdischen Museum ab.",
         "hu": "Kezdje a napot egy autózással a rodoszi Akropoliszhoz, majd látogasson el a békés Santa Maria templomba. A déli órákban érkezzen a nyüzsgő Mandraki kikötőbe egy kis pihenőre a vízparton. Délután fedezze fel a fenséges Nagymesterek Palotáját. Az autós körutat a Zsidó Múzeum elgondolkodtató kiállításainak megtekintésével zárja az este közeledtével.",
         "ro": "Începeți cu o plimbare matinală spre Acropola din Rodos, apoi vizitați biserica liniștită Santa Maria. Amiaza vă aduce în portul Mandraki pentru o pauză pitorească. După-amiaza, explorați magnificul Palat al Marelui Maestru. Încheiați turul cu mașina cu o vizită reflexivă la Muzeul Evreiesc din Rodos pe măsură ce se apropie seara.",
-        "en": "Start with a morning drive to the ancient Acropolis of Rhodes, then visit the peaceful Santa Maria church. Midday brings you down to the bustling Mandraki Harbour for a scenic break by the water. In the afternoon, explore the majestic Palace of the Grand Master. Conclude your driving tour with a reflective visit to the Jewish Museum of Rhodes as evening approaches."
+        "en": "Start with a morning drive to the ancient Acropolis of Rhodes, then visit the peaceful Santa Maria church. Midday brings you down to the bustling Mandraki Harbour for a scenic break by the water. In the afternoon, explore the majestic Palace of the Grand Master. Conclude your driving tour with a reflective visit to the Jewish Museum of Rhodes as evening approaches.",
+        "el": "Ξεκινήστε με πρωινή οδήγηση προς την αρχαία Ακρόπολη της Ρόδου, μετά επισκεφθείτε την ήσυχη εκκλησία της Santa Maria. Το μεσημέρι σας φέρνει στο πολύβουο λιμάνι Μανδράκι για ένα γραφικό διάλειμμα δίπλα στο νερό. Το απόγευμα, εξερευνήστε το μεγαλοπρεπές Παλάτι του Μεγάλου Μαγίστρου. Ολοκληρώστε την οδική σας περιήγηση με μια στοχαστική επίσκεψη στο Εβραϊκό Μουσείο της Ρόδου καθώς πλησιάζει το βράδυ."
       },
       "variants": {
         "rainy": {
@@ -883,7 +978,8 @@
             "de": "Mit dem Auto erkunden Sie Rhodos auch bei Regen bequem und trocken. Beginnen Sie an der Akropolis für einen stürmischen Ausblick aus dem warmen Wagen. Parken Sie nahe der Altstadtmauern für kurze Wege zu den Museen. Mittags und nachmittags bieten der Palast und das Jüdische Viertel reichlich Programm im Inneren. Der Abend klingt entspannt in Hafennähe aus.",
             "hu": "Autóval esőben is kényelmesen és szárazon fedezheti fel Rodoszt. Kezdjen az akropolisznál a viharos kilátásért a meleg kocsiból. Parkoljon az óvárosi falak közelében a rövid sétákért a múzeumokig. Délben és délután a palota és a zsidó negyed bőséges fedett programot kínál. Az este nyugodtan zárul a kikötő közelében.",
             "ro": "Cu mașina, explorați Rodosul confortabil și uscat chiar și pe ploaie. Începeți la acropolă pentru vederi dramatice din interiorul cald. Parcați lângă zidurile orașului vechi pentru acces rapid la muzee. La prânz și după-amiază, palatul și cartierul evreiesc oferă multe activități interioare. Seara se încheie relaxat lângă port.",
-            "en": "By car, you can explore Rhodes comfortably and dryly even in the rain. Start at the Acropolis for stormy views from the warm vehicle. Park near the old town walls for short walks to the museums. In the midday and afternoon, the palace and Jewish Quarter offer plenty of indoor programming. The evening ends relaxingly near the harbour."
+            "en": "By car, you can explore Rhodes comfortably and dryly even in the rain. Start at the Acropolis for stormy views from the warm vehicle. Park near the old town walls for short walks to the museums. In the midday and afternoon, the palace and Jewish Quarter offer plenty of indoor programming. The evening ends relaxingly near the harbour.",
+            "el": "Με το αυτοκίνητο μπορείτε να εξερευνήσετε τη Ρόδο άνετα και στεγνά ακόμη και στη βροχή. Ξεκινήστε από την Ακρόπολη για θυελλώδεις θέες από το ζεστό όχημα. Σταθμεύστε κοντά στα τείχη της παλιάς πόλης για σύντομες βόλτες προς τα μουσεία. Το μεσημέρι και το απόγευμα, το παλάτι και η Εβραϊκή Συνοικία προσφέρουν άφθονη εσωτερική δραστηριότητα. Το βράδυ τελειώνει χαλαρά κοντά στο λιμάνι."
           },
           "stops": [
             {
@@ -891,13 +987,15 @@
                 "de": "Akropolis von Rhodos",
                 "hu": "Rodoszi Akropolisz",
                 "ro": "Acropola din Rodos",
-                "en": "Acropolis of Rhodes"
+                "en": "Acropolis of Rhodes",
+                "el": "Ακρόπολη της Ρόδου"
               },
               "tip_5lang": {
                 "de": "Bleiben Sie im Auto, um die Aussicht auf das Meer und die antiken Säulen bei Regen zu genießen, oder nutzen Sie Regenpausen für kurze Fotostopps.",
                 "hu": "Maradjon az autóban, hogy élvezze a kilátást a tengerre és az antik oszlopokra, vagy használja ki az esőszüneteket egy-egy rövid fotózáshoz.",
                 "ro": "Rămâneți în mașină pentru a admira marea și coloanele antice prin ploaie, sau profitați de pauzele de precipitații pentru scurte opriri foto.",
-                "en": "Stay in the car to enjoy the view of the sea and the ancient columns in the rain, or use breaks in the rain for quick photo stops."
+                "en": "Stay in the car to enjoy the view of the sea and the ancient columns in the rain, or use breaks in the rain for quick photo stops.",
+                "el": "Μείνετε στο αυτοκίνητο για να απολαύσετε τη θέα της θάλασσας και των αρχαίων κίονων στη βροχή, ή εκμεταλλευτείτε τα διαλείμματα της βροχής για γρήγορες στάσεις για φωτογραφίες."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Santa Maria",
                 "hu": "Santa Maria",
                 "ro": "Santa Maria",
-                "en": "Santa Maria"
+                "en": "Santa Maria",
+                "el": "Santa Maria"
               },
               "tip_5lang": {
                 "de": "Parken Sie direkt davor; die Kirche bietet eine andächtige, trockene Atmosphäre und Schutz vor den oft starken Küstenwinden bei Regen.",
                 "hu": "Parkoljon közvetlenül előtte; a templom áhítatos, száraz környezetet és védelmet nyújt az esőben gyakran felerősödő parti szelek elől.",
                 "ro": "Parcați direct în față; biserica oferă o atmosferă pioasă și uscată, fiind un refugiu excelent împotriva vântului puternic de pe coastă.",
-                "en": "Park right in front; the church offers a solemn, dry atmosphere and protection from the coastal winds that often pick up during rain."
+                "en": "Park right in front; the church offers a solemn, dry atmosphere and protection from the coastal winds that often pick up during rain.",
+                "el": "Σταθμεύστε ακριβώς μπροστά· η εκκλησία προσφέρει επιβλητική, ξηρή ατμόσφαιρα και προστασία από τους παραθαλάσσιους ανέμους που συχνά ενισχύονται κατά τη βροχή."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Mandraki-Hafen",
                 "hu": "Mandraki kikötő",
                 "ro": "Portul Mandraki",
-                "en": "Mandraki Harbour"
+                "en": "Mandraki Harbour",
+                "el": "Mandraki Harbour"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Parkplätze an der Hafenpromenade, um das stürmische Meer und die Schiffe bequem aus dem warmen Fahrzeug heraus zu beobachten.",
                 "hu": "Használja a kikötői sétány melletti parkolókat, hogy a felkorbácsolt tengert és a hajókat kényelmesen, a meleg autóból figyelhesse meg.",
                 "ro": "Folosiți parcările de pe faleză pentru a observa marea agitată și ambarcațiunile confortabil, direct din vehiculul dumneavoastră cald.",
-                "en": "Use the parking lots along the harbour promenade to watch the stormy sea and the ships comfortably from inside your warm vehicle."
+                "en": "Use the parking lots along the harbour promenade to watch the stormy sea and the ships comfortably from inside your warm vehicle.",
+                "el": "Χρησιμοποιήστε τα παρκινγκ κατά μήκος της παραλιακής προκυμαίας για να παρακολουθείτε άνετα τη φουρτουνιασμένη θάλασσα και τα πλοία από το ζεστό σας όχημα."
               }
             },
             {
@@ -933,13 +1035,15 @@
                 "de": "Großmeisterpalast",
                 "hu": "Nagymesterek Palotája",
                 "ro": "Palatul Marelui Maestru",
-                "en": "Palace of the Grand Master"
+                "en": "Palace of the Grand Master",
+                "el": "Palace of the Grand Master"
               },
               "tip_5lang": {
                 "de": "Lassen Sie sich am Tor absetzen; der Palast ist groß genug für eine ausgiebige Besichtigung, während draußen ein heftiger Regenschauer niedergeht.",
                 "hu": "Szálljon ki közvetlenül a kapunál; a palota elég tágas egy alapos nézelődéshez, amíg odakint egy kiadósabb zápor elvonul.",
                 "ro": "Lăsați-vă la poartă; palatul este suficient de mare pentru o vizită detaliată în timp ce afară trece o aversă mai serioasă de ploaie.",
-                "en": "Get dropped off at the gate; the palace is spacious enough for an extensive tour while a heavy rain shower passes outside."
+                "en": "Get dropped off at the gate; the palace is spacious enough for an extensive tour while a heavy rain shower passes outside.",
+                "el": "Αποβιβαστείτε στην πύλη· το παλάτι είναι αρκετά μεγάλο για μια εκτενή ξενάγηση όσο έξω περνάει δυνατή βροχή."
               }
             },
             {
@@ -947,13 +1051,15 @@
                 "de": "Jüdisches Museum von Rhodos",
                 "hu": "Rodoszi Zsidó Múzeum",
                 "ro": "Muzeul Evreiesc din Rodos",
-                "en": "Jewish Museum of Rhodes"
+                "en": "Jewish Museum of Rhodes",
+                "el": "Jewish Museum of Rhodes"
               },
               "tip_5lang": {
                 "de": "Parken Sie an der Platia Evreon Martyron; der kurze Fußweg zum Museum ist lohnenswert für diesen kulturell tiefgründigen und trockenen Aufenthalt.",
                 "hu": "Parkoljon a Platia Evreon Martyron közelében; a rövid séta a múzeumig megéri ezért a kulturálisan mély és garantáltan száraz programért.",
                 "ro": "Parcați lângă Platia Evreon Martyron; scurta plimbare până la muzeu merită pentru această vizită culturală profundă și ferită de ploaie.",
-                "en": "Park near Platia Evreon Martyron; the short walk to the museum is worth it for this culturally profound and guaranteed dry experience."
+                "en": "Park near Platia Evreon Martyron; the short walk to the museum is worth it for this culturally profound and guaranteed dry experience.",
+                "el": "Σταθμεύστε κοντά στην Πλατεία Εβρέων Μαρτύρων· ο σύντομος περίπατος μέχρι το μουσείο αξίζει για αυτή τη βαθιά πολιτιστική και σίγουρα ξηρή εμπειρία."
               }
             }
           ]
@@ -963,7 +1069,8 @@
             "de": "Genießen Sie die Freiheit einer winterlichen Autofahrt durch Rhodos. Beginnen Sie morgens an der Akropolis mit klarem Weitblick. Die Fahrt zwischen den Sehenswürdigkeiten ist kurz und warm. Mittags und nachmittags erkunden Sie die Altstadt in aller Ruhe. Den frühen Sonnenuntergang gegen 17:00 Uhr erleben Sie am besten am Hafen, bevor Sie den Abend gemütlich ausklingen lassen.",
             "hu": "Élvezze a téli autózás szabadságát Rodoszon. Kezdjen reggel az akropolisznál a tiszta távlati kilátással. A látnivalók közötti út rövid és meleg. Délben és délután fedezze fel az óvárost teljes nyugalomban. A korai, 17:00 körüli naplementét a legjobb a kikötőnél átélni, mielőtt az este zárulna.",
             "ro": "Bucurați-vă de libertatea unei călătorii cu mașina prin Rodos în timpul iernii. Începeți dimineața la acropolă cu vederi clare. Drumul între obiective este scurt și cald. La prânz și după-amiază, explorați orașul vechi în liniște. Apusul timpuriu de la ora 17:00 se vede cel mai bine din port.",
-            "en": "Enjoy the freedom of a winter drive through Rhodes. Start in the morning at the Acropolis with clear panoramic views. The drive between sights is short and warm. In the midday and afternoon, explore the old town in peace. The early sunset around 5 PM is best experienced at the harbour before the evening sets in."
+            "en": "Enjoy the freedom of a winter drive through Rhodes. Start in the morning at the Acropolis with clear panoramic views. The drive between sights is short and warm. In the midday and afternoon, explore the old town in peace. The early sunset around 5 PM is best experienced at the harbour before the evening sets in.",
+            "el": "Απολαύστε την ελευθερία μιας χειμερινής οδικής εκδρομής στη Ρόδο. Ξεκινήστε το πρωί στην Ακρόπολη με καθαρές πανοραμικές θέες. Η διαδρομή μεταξύ των αξιοθεάτων είναι σύντομη και ζεστή. Το μεσημέρι και το απόγευμα εξερευνήστε ήσυχα την παλιά πόλη. Το νωρίς ηλιοβασίλεμα γύρω στις 17:00 είναι καλύτερο να το ζήσετε στο λιμάνι πριν βραδιάσει."
           },
           "stops": [
             {
@@ -971,13 +1078,15 @@
                 "de": "Akropolis von Rhodos",
                 "hu": "Rodoszi Akropolisz",
                 "ro": "Acropola din Rodos",
-                "en": "Acropolis of Rhodes"
+                "en": "Acropolis of Rhodes",
+                "el": "Acropolis of Rhodes"
               },
               "tip_5lang": {
                 "de": "Die kühle Brise auf dem Hügel ist im Auto kein Problem; genießen Sie das Panorama ohne die Hitze und mit deutlich einfacherer Parkplatzsuche als im Sommer.",
                 "hu": "A dombtetőn lévő hűvös szél az autóban nem akadály; élvezze a panorámát hőség nélkül, a nyárinál sokkal egyszerűbb parkolás mellett.",
                 "ro": "Vântul răcoros de pe deal nu este o problemă în mașină; admirați panorama fără arșiță, beneficiind de o parcare mult mai facilă decât vara.",
-                "en": "The cool breeze on the hilltop is no problem in the car; enjoy the panorama without the heat and with much easier parking than in summer."
+                "en": "The cool breeze on the hilltop is no problem in the car; enjoy the panorama without the heat and with much easier parking than in summer.",
+                "el": "Το δροσερό αεράκι στην κορυφή δεν είναι πρόβλημα μέσα στο αυτοκίνητο· απολαύστε την πανοραμική θέα χωρίς τη ζέστη και με πολύ εύκολο παρκάρισμα σε σχέση με το καλοκαίρι."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Santa Maria",
                 "hu": "Santa Maria",
                 "ro": "Santa Maria",
-                "en": "Santa Maria"
+                "en": "Santa Maria",
+                "el": "Santa Maria"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie diesen spirituellen Ort in der winterlichen Stille; die kurze Fahrt hierher bietet eine entspannte Abwechslung zum historischen Zentrum.",
                 "hu": "Látogassa meg ezt a spirituális helyet a téli csendben; a rövid autózás ide kellemes kikapcsolódást nyújt a történelmi központ után.",
                 "ro": "Vizitați acest loc spiritual în liniștea iernii; scurta călătorie până aici oferă o schimbare relaxantă față de centrul istoric.",
-                "en": "Visit this spiritual place in the winter silence; the short drive here offers a relaxed change of pace from the historical center."
+                "en": "Visit this spiritual place in the winter silence; the short drive here offers a relaxed change of pace from the historical center.",
+                "el": "Επισκεφτείτε αυτόν τον πνευματικό χώρο στη χειμερινή σιωπή· η σύντομη διαδρομή προσφέρει μια χαλαρή αλλαγή ρυθμού από το ιστορικό κέντρο."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Mandraki-Hafen",
                 "hu": "Mandraki kikötő",
                 "ro": "Portul Mandraki",
-                "en": "Mandraki Harbour"
+                "en": "Mandraki Harbour",
+                "el": "Mandraki Harbour"
               },
               "tip_5lang": {
                 "de": "Im Winter finden Sie problemlos Parkplätze direkt an der Mole; ideal, um den Blick auf die Festung und die Windmühlen im weichen Winterlicht zu genießen.",
                 "hu": "Télen gond nélkül talál parkolót közvetlenül a mólónál; ideális a vár és a szélmalmok látványának élvezetéhez a lágy téli fényekben.",
                 "ro": "Iarna găsiți ușor loc de parcare chiar lângă dig; este ideal pentru a admira cetatea și morile de vânt în lumina blândă a iernii.",
-                "en": "In winter, you'll easily find parking right by the pier; ideal for enjoying the view of the fortress and windmills in the soft winter light."
+                "en": "In winter, you'll easily find parking right by the pier; ideal for enjoying the view of the fortress and windmills in the soft winter light.",
+                "el": "Το χειμώνα θα βρείτε εύκολα πάρκινγκ δίπλα στην προβλήτα· ιδανικό για να απολαύσετε τη θέα στο κάστρο και τους ανεμόμυλους στο απαλό χειμερινό φως."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Großmeisterpalast",
                 "hu": "Nagymesterek Palotája",
                 "ro": "Palatul Marelui Maestru",
-                "en": "Palace of the Grand Master"
+                "en": "Palace of the Grand Master",
+                "el": "Palace of the Grand Master"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den kurzen Weg vom Parkplatz zum Eingang, um die beeindruckende Architektur ohne Wartezeiten in der kühlen Winterluft zu bestaunen.",
                 "hu": "Használja ki a parkoló és a bejárat közötti rövid távolságot, hogy várakozás nélkül, a friss téli levegőben csodálja meg a lenyűgöző építészetet.",
                 "ro": "Profitați de distanța scurtă dintre parcare și intrare pentru a admira arhitectura impresionantă fără cozi în aerul proaspăt de iarnă.",
-                "en": "Take advantage of the short distance between the parking lot and the entrance to admire the impressive architecture without queues in the fresh winter air."
+                "en": "Take advantage of the short distance between the parking lot and the entrance to admire the impressive architecture without queues in the fresh winter air.",
+                "el": "Εκμεταλλευτείτε τη μικρή απόσταση μεταξύ του χώρου στάθμευσης και της εισόδου για να θαυμάσετε την εντυπωσιακή αρχιτεκτονική χωρίς ουρές στον καθαρό χειμερινό αέρα."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Jüdisches Museum von Rhodos",
                 "hu": "Rodoszi Zsidó Múzeum",
                 "ro": "Muzeul Evreiesc din Rodos",
-                "en": "Jewish Museum of Rhodes"
+                "en": "Jewish Museum of Rhodes",
+                "el": "Jewish Museum of Rhodes"
               },
               "tip_5lang": {
                 "de": "Ein idealer Ort, um die Tour im Warmen zu vertiefen; die ruhigen Gassen rund um das Museum laden im Winter zu einem kurzen, entspannten Rundgang ein.",
                 "hu": "Ideális hely a túra elmélyítéséhez a melegben; a múzeum körüli csendes sikátorok télen egy rövid, pihentető sétára csábítanak.",
                 "ro": "Un loc ideal pentru a aprofunda turul la căldură; străduțele liniștite din jurul muzeului invită iarna la o scurtă plimbare relaxantă.",
-                "en": "An ideal place to deepen your tour in the warm; the quiet alleys around the museum invite you for a short, relaxed stroll in winter."
+                "en": "An ideal place to deepen your tour in the warm; the quiet alleys around the museum invite you for a short, relaxed stroll in winter.",
+                "el": "Ιδανικό μέρος για να εμβαθύνετε την ξενάγησή σας σε ζεστό χώρο· τα ήσυχα δρομάκια γύρω από το μουσείο προσκαλούν σε έναν σύντομο, χαλαρό περίπατο το χειμώνα."
               }
             }
           ]

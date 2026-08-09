@@ -21,7 +21,8 @@
             "de": "Städtische Markthalle von Chania",
             "hu": "Chania városi vásárcsarnoka",
             "ro": "Piața Municipală din Chania",
-            "en": "Municipal Market of Chania"
+            "en": "Municipal Market of Chania",
+            "el": "Δημοτική Αγορά Χανίων"
           },
           "coords": [
             24.0201,
@@ -37,7 +38,8 @@
             "de": "Probieren Sie den lokalen Graviera-Käse und Thymianhonig von den Ständen im Inneren.",
             "hu": "Kóstolja meg a helyi graviera sajtot és a kakukkfűmézet a benti standoknál.",
             "ro": "Încercați brânza locală Graviera și mierea de cimbru de la tarabele din interior.",
-            "en": "Try the local Graviera cheese and thyme honey from the stalls inside."
+            "en": "Try the local Graviera cheese and thyme honey from the stalls inside.",
+            "el": "Δοκιμάστε την ντόπια γραβιέρα και το θυμαρίσιο μέλι από τα περίπτερα μέσα στην αγορά."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Altstadt von Chania",
             "hu": "Chania óvárosa",
             "ro": "Orașul vechi din Chania",
-            "en": "Old Town of Chania"
+            "en": "Old Town of Chania",
+            "el": "Παλιά Πόλη των Χανίων"
           },
           "coords": [
             24.0185,
@@ -61,7 +64,8 @@
             "de": "Verirren Sie sich in den engen Gassen; hier finden Sie die besten familiengeführten Tavernen.",
             "hu": "Tévedjen el a szűk sikátorokban; a legjobb családi tavernákat itt találja.",
             "ro": "Rătăciți-vă pe aleile înguste; aici veți găsi cele mai bune taverne de familie.",
-            "en": "Get lost in the narrow alleys; it's where you'll find the best family-run taverns."
+            "en": "Get lost in the narrow alleys; it's where you'll find the best family-run taverns.",
+            "el": "Χαθείτε στα στενά σοκάκια· εκεί θα βρείτε τις καλύτερες οικογενειακές ταβέρνες."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Venezianischer Hafen",
             "hu": "Velencei kikötő",
             "ro": "Portul Venețian",
-            "en": "Venetian Harbour"
+            "en": "Venetian Harbour",
+            "el": "Ενετικός Λιμένας"
           },
           "coords": [
             24.0178,
@@ -85,7 +90,8 @@
             "de": "Am besten am späten Nachmittag besuchen, wenn das Licht weich ist und die Boote zurückkehren.",
             "hu": "A legjobb késő délután meglátogatni, amikor a fények lágyak és a hajók visszatérnek.",
             "ro": "Cel mai bun moment pentru vizită este după-amiaza târziu, când lumina este blândă și bărcile se întorc.",
-            "en": "Best visited in the late afternoon when the light is soft and boats are returning."
+            "en": "Best visited in the late afternoon when the light is soft and boats are returning.",
+            "el": "Ιδανικός επίσκεψης αργά το απόγευμα όταν το φως είναι απαλό και τα πλοιάρια επιστρέφουν."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Hassan-Pascha-Moschee",
             "hu": "Hasszán pasa mecsetje",
             "ro": "Moscheea Hassan Pașa",
-            "en": "Hassan Pasha Mosque"
+            "en": "Hassan Pasha Mosque",
+            "el": "Τζαμί του Χασάν Πασά"
           },
           "coords": [
             24.0192,
@@ -109,7 +116,8 @@
             "de": "Dient oft als Kunstaustellungsraum. Prüfen Sie den Eingang auf aktuelle Ausstellungen.",
             "hu": "Gyakran művészeti kiállítótérként szolgál. Ellenőrizze a bejáratnál az aktuális kiállításokat.",
             "ro": "Adesea servește drept spațiu pentru expoziții de artă. Verificați la intrare expozițiile curente.",
-            "en": "Often serves as an art exhibition space. Check the entrance for current displays."
+            "en": "Often serves as an art exhibition space. Check the entrance for current displays.",
+            "el": "Συχνά λειτουργεί ως χώρος εικαστικών εκθέσεων. Ελέγξτε την είσοδο για τρέχουσες εκθέσεις."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Leuchtturm von Chania",
             "hu": "Chaniai világítótorony",
             "ro": "Farul din Chania",
-            "en": "Lighthouse of Chania"
+            "en": "Lighthouse of Chania",
+            "el": "Φάρος των Χανίων"
           },
           "coords": [
             24.018,
@@ -133,7 +142,8 @@
             "de": "Der Spaziergang entlang der Mole ist windig. Bringen Sie eine leichte Jacke mit, auch im Sommer.",
             "hu": "A mólón szeles az idő. Hozzon magával egy könnyű dzsekit, még nyáron is.",
             "ro": "Plimbarea de-a lungul digului este vântoasă. Aduceți o jachetă subțire, chiar și vara.",
-            "en": "The walk along the mole is windy. Bring a light jacket, even in summer."
+            "en": "The walk along the mole is windy. Bring a light jacket, even in summer.",
+            "el": "Η βόλτα κατά μήκος του προσήνεμου τοιχώματος είναι ανεμοδαρμένη. Φέρτε ένα ελαφρύ μπουφάν, ακόμα και το καλοκαίρι."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Firka Festung & Schifffahrtsmuseum",
             "hu": "Firka erőd és Tengerészeti Múzeum",
             "ro": "Fortăreața Firka și Muzeul Maritim",
-            "en": "Firka Fortress & Maritime Museum"
+            "en": "Firka Fortress & Maritime Museum",
+            "el": "Φρούριο Φίρκα & Ναυτικό Μουσείο"
           },
           "coords": [
             24.015,
@@ -157,7 +168,8 @@
             "de": "Die Festung bietet den besten Panoramablick auf den Leuchtturm und den Hafen.",
             "hu": "Az erődből nyílik a legjobb panoráma a világítótoronyra és a kikötőre.",
             "ro": "Fortăreața oferă cea mai bună vedere panoramică asupra farului și portului.",
-            "en": "The fortress offers the best panoramic view of the lighthouse and harbor."
+            "en": "The fortress offers the best panoramic view of the lighthouse and harbor.",
+            "el": "Το φρούριο προσφέρει την καλύτερη πανοραμική θέα του φάρου και του λιμανιού."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Archäologisches Museum Chania",
             "hu": "Chaniai Régészeti Múzeum",
             "ro": "Muzeul de Arheologie din Chania",
-            "en": "Archaeological Museum of Chania"
+            "en": "Archaeological Museum of Chania",
+            "el": "Αρχαιολογικό Μουσείο Χανίων"
           },
           "coords": [
             24.016,
@@ -181,7 +194,8 @@
             "de": "Das neue Museumsgebäude selbst ist ein architektonisches Highlight. Verpassen Sie nicht die minoischen Artefakte.",
             "hu": "Az új múzeumépület önmagában is építészeti remekmű. Ne hagyja ki a minószi leleteket.",
             "ro": "Noua clădire a muzeului este o bijuterie arhitecturală. Nu ratați artefactele minoice.",
-            "en": "The new museum building itself is an architectural highlight. Don't miss the Minoan artifacts."
+            "en": "The new museum building itself is an architectural highlight. Don't miss the Minoan artifacts.",
+            "el": "Το νέο κτίριο του μουσείου είναι από μόνο του αρχιτεκτονικό αξιοθέατο. Μην χάσετε τα μινωικά ευρήματα."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Beginnen Sie Ihren Tag im Herzen von Chania, auf dem lebhaften Städtischen Markt, wo die Einheimischen einkaufen. Tauchen Sie ein in die Aromen und Gerüche Kretas. Schlendern Sie anschließend durch die labyrinthischen Gassen der Altstadt, entdecken Sie versteckte Innenhöfe und venezianische Herrenhäuser. Der Mittag führt Sie zum malerischen Venezianischen Hafen. Spüren Sie die Meeresbrise, während Sie zur ikonischen Hassan-Pascha-Moschee spazieren. Nehmen Sie sich am Nachmittag Zeit für einen langen Spaziergang zur Spitze des Leuchtturms, um eine atemberaubende Aussicht zu genießen. Beenden Sie Ihre Erkundung in der Firka-Festung, in der sich das Schifffahrtsmuseum befindet, und vertiefen Sie sich im neuen Archäologischen Museum in die minoische Vergangenheit.",
         "hu": "Kezdje a napot Chania szívében, a nyüzsgő Városi Vásárcsarnokban, ahol a helyiek is vásárolnak. Merüljön el Kréta ízeiben és illataiban. Ezután sétáljon végig az Óváros labirintusszerű sikátorain, fedezze fel a rejtett udvarokat és velencei kúriákat. Az ebédidő a festői Velencei kikötőhöz vezeti. Érezze a tengeri szellőt, miközben az ikonikus Hasszán pasa mecsethez sétál. Délután szánjon időt egy hosszú sétára a világítótorony csúcsáig a lélegzetelállító kilátásért. Fejezze be a felfedezést a Firka erődben, amely a Tengerészeti Múzeumnak ad otthont, majd merüljön el a minószi múltban az új Régészeti Múzeumban.",
         "ro": "Începeți ziua în inima orașului Chania, la Piața Municipală plină de viață, unde localnicii își fac cumpărăturile. Cufundați-vă în aromele și mirosurile Cretei. Apoi, plimbați-vă pe aleile labirintice ale Orașului Vechi, descoperind curți ascunse și conace venețiene. Prânzul vă aduce în pitorescul Port Venețian. Simțiți briza mării în timp ce vă plimbați spre iconica Moschee Hassan Pașa. După-amiaza, faceți o plimbare lungă până în vârful farului pentru vederi uimitoare. Încheiați explorarea la Fortăreața Firka, care găzduiește Muzeul Maritim, și aprofundați trecutul minoic la noul Muzeu de Arheologie.",
-        "en": "Start your day in the heart of Chania at the bustling Municipal Market, where locals shop. Immerse yourself in the flavors and scents of Crete. Then, wander through the labyrinthine alleys of the Old Town, discovering hidden courtyards and Venetian mansions. Lunchtime brings you to the picturesque Venetian Harbour. Feel the sea breeze as you stroll to the iconic Hassan Pasha Mosque. In the afternoon, take the long walk to the tip of the Lighthouse for stunning views. Finish your exploration at the Firka Fortress, home to the Maritime Museum, and delve into the Minoan past at the new Archaeological Museum."
+        "en": "Start your day in the heart of Chania at the bustling Municipal Market, where locals shop. Immerse yourself in the flavors and scents of Crete. Then, wander through the labyrinthine alleys of the Old Town, discovering hidden courtyards and Venetian mansions. Lunchtime brings you to the picturesque Venetian Harbour. Feel the sea breeze as you stroll to the iconic Hassan Pasha Mosque. In the afternoon, take the long walk to the tip of the Lighthouse for stunning views. Finish your exploration at the Firka Fortress, home to the Maritime Museum, and delve into the Minoan past at the new Archaeological Museum.",
+        "el": "Ξεκινήστε τη μέρα σας στην καρδιά των Χανίων στην πολυσύχναστη Δημοτική Αγορά, όπου ψωνίζουν οι ντόπιοι. Βυθιστείτε στις γεύσεις και τις μυρωδιές της Κρήτης. Στη συνέχεια, περιπλανηθείτε στα λαβυρινθώδη σοκάκια της Παλιάς Πόλης, ανακαλύπτοντας κρυφές αυλές και ενετικές οικίες. Το μεσημέρι σας φέρνει στον γραφικό Ενετικό Λιμένα. Νιώστε το θαλασσινό αεράκι καθώς περπατάτε προς το εμβληματικό τζαμί του Χασάν Πασά. Το απόγευμα, κάντε τον μακρύ περίπατο ως την άκρη του Φάρου για εκπληκτική θέα. Ολοκληρώστε την εξερεύνησή σας στο Φρούριο Φίρκα, που φιλοξενεί το Ναυτικό Μουσείο, και βυθιστείτε στο μινωικό παρελθόν στο νέο Αρχαιολογικό Μουσείο."
       },
       "gastro_picks": {
         "de": [
@@ -385,6 +400,12 @@
           "Start early to beat the crowds and the midday heat.",
           "Always carry water, especially in the summer.",
           "Most shops close in the afternoon for a siesta, so plan accordingly."
+        ],
+        "el": [
+          "Φορέστε άνετα παπούτσια· οι λιθόστρωτοι δρόμοι μπορεί να είναι ανώμαλοι.",
+          "Ξεκινήστε νωρίς για να προλάβετε το πλήθος και τη μεσημεριανή ζέστη.",
+          "Πάντα να έχετε νερό, ειδικά το καλοκαίρι.",
+          "Τα περισσότερα καταστήματα κλείνουν το απόγευμα για σιέστα, οπότε προγραμματίστε ανάλογα."
         ]
       },
       "variants": {
@@ -393,7 +414,8 @@
             "de": "Beginnen Sie den Tag in der Markthalle, die perfekten Schutz vor dem Regen bietet. Die Düfte von Kräutern und Käse füllen die trockene Luft.\n\nMittags huschen wir durch die engen Gassen der Altstadt zum Hafen. Die nassen Steine glänzen silbern, während wir in der Hassan-Pascha-Moschee kurz Unterschlupf finden.\n\nDer Nachmittag gehört der Seefahrtsgeschichte in der Firka-Festung. Die dicken Mauern halten den Wind ab, während Sie die Exponate im Trockenen genießen.\n\nZum Abschluss tauchen wir in das neue Archäologische Museum ein. Ein moderner, klimatisierter Raum, in dem man den prasselnden Regen draußen völlig vergisst.",
             "hu": "Kezdje a napot a fedett Központi Piacon, amely tökéletes menedék az eső elől. A gyógynövények és sajtok illata betölti a száraz csarnokot.\n\nDélben az óváros szűk utcáin át sietünk a kikötőbe. A vizes kövek ezüstösen csillognak, miközben a Hasszán pasa mecsetben találunk rövid oltalmat.\n\nA délután a tengerészeti történelemé a Firka-erődben. A vastag falak felfogják a szelet, a kiállítások pedig fedett helyen élvezhetők.\n\nZárásként az új Régészeti Múzeumba látogatunk. Modern, klimatizált tér, ahol a kinti doboló esőt teljesen elfelejthetjük a kincsek között.",
             "ro": "Începeți ziua în Piața Centrală acoperită, refugiul perfect împotriva ploii. Aromele de ierburi și brânzeturi umplu aerul uscat al halei.\n\nLa prânz, trecem rapid prin străduțele Orașului Vechi spre port. Pietrele umede strălucesc argintiu în timp ce găsim adăpost în Moscheea Hassan Pașa.\n\nDupă-amiaza aparține istoriei maritime în Cetatea Firka. Zidurile groase opresc vântul, iar exponatele pot fi admirate la adăpost.\n\nLa final, ne refugiem în noul Muzeu Arheologic. Un spațiu modern și primitor, unde ploaia de afară este uitată complet printre vestigiile antice.",
-            "en": "Start the day at the covered Municipal Market, a perfect shelter from the rain. The scents of herbs and cheese fill the dry hall.\n\nAt noon, dash through the narrow Old Town alleys to the harbor. The wet stones glint silver while we find quick cover in the Hassan Pasha Mosque.\n\nSpend the afternoon exploring maritime history at the Firka Fortress. The thick walls block the wind, and the museum exhibits stay dry.\n\nFinish by stepping into the new Archaeological Museum. A modern, climate-controlled space where you can forget the pouring rain outside."
+            "en": "Start the day at the covered Municipal Market, a perfect shelter from the rain. The scents of herbs and cheese fill the dry hall.\n\nAt noon, dash through the narrow Old Town alleys to the harbor. The wet stones glint silver while we find quick cover in the Hassan Pasha Mosque.\n\nSpend the afternoon exploring maritime history at the Firka Fortress. The thick walls block the wind, and the museum exhibits stay dry.\n\nFinish by stepping into the new Archaeological Museum. A modern, climate-controlled space where you can forget the pouring rain outside.",
+            "el": "Ξεκινήστε τη μέρα στην καλυμμένη Δημοτική Αγορά, ένα τέλειο καταφύγιο από τη βροχή. Οι μυρωδιές βοτάνων και τυριού γεμίζουν την στεγνή αίθουσα.\n\nΤο μεσημέρι, τρέξτε μέσα από τα στενά σοκάκια της Παλιάς Πόλης προς το λιμάνι. Οι βρεγμένες πλάκες λαμπυρίζουν ασημένιες ενώ βρίσκουμε γρήγορα καταφύγιο στο Τζαμί του Χασάν Πασά.\n\nΠεράστε το απόγευμα εξερευνώντας τη ναυτική ιστορία στο Φρούριο Φίρκα. Τα παχιά τείχη αποκλείουν τον άνεμο και τα εκθέματα του μουσείου μένουν στεγνά.\n\nΟλοκληρώστε μπαίνοντας στο νέο Αρχαιολογικό Μουσείο. Ένας μοντέρνος, κλιματιζόμενος χώρος όπου μπορείτε να ξεχάσετε την καταρρακτώδη βροχή έξω."
           },
           "stops": [
             {
@@ -402,7 +424,8 @@
                 "de": "Hintereingang nutzen, dort bilden sich weniger Pfützen.",
                 "hu": "Használja a hátsó bejáratot, ott kevesebb a tócsa.",
                 "ro": "Folosiți intrarea din spate, se formează mai puține bălți.",
-                "en": "Use the back entrance; fewer puddles form there."
+                "en": "Use the back entrance; fewer puddles form there.",
+                "el": "Χρησιμοποιήστε την πίσω είσοδο· σχηματίζονται λιγότερες λακκούβες εκεί."
               }
             },
             {
@@ -411,7 +434,8 @@
                 "de": "Vorsicht auf dem Marmorpflaster, es wird sehr rutschig.",
                 "hu": "Vigyázat a márványburkolaton, nagyon csúszóssá válik.",
                 "ro": "Atenție pe pavajul de marmură, devine foarte alunecos.",
-                "en": "Careful on the marble pavement; it becomes very slippery."
+                "en": "Careful on the marble pavement; it becomes very slippery.",
+                "el": "Προσοχή στην μαρμάρινη επίστρωση· γίνεται πολύ ολισθηρή."
               }
             },
             {
@@ -420,7 +444,8 @@
                 "de": "Die Arkaden der Cafés bieten trockene Durchgänge.",
                 "hu": "A kávézók árkádjai száraz átjárást biztosítanak.",
                 "ro": "Arcadele cafenelelor oferă treceri uscate.",
-                "en": "The cafe arcades provide dry walkways along the front."
+                "en": "The cafe arcades provide dry walkways along the front.",
+                "el": "Οι καφέ αψίδες προσφέρουν στεγνούς διαδρόμους κατά μήκος του μετώπου."
               }
             },
             {
@@ -429,7 +454,8 @@
                 "de": "Idealer Ort, um den Schirm kurz auszuschütteln.",
                 "hu": "Ideális hely az esernyő rövid kirázására.",
                 "ro": "Loc ideal pentru a scutura puțin umbrela.",
-                "en": "Ideal spot to briefly shake off your umbrella."
+                "en": "Ideal spot to briefly shake off your umbrella.",
+                "el": "Ιδανικό σημείο για να τινάξετε σύντομα την ομπρέλα σας."
               }
             },
             {
@@ -438,7 +464,8 @@
                 "de": "Gischt kann über die Mauer spritzen, Abstand halten.",
                 "hu": "A hullámok átcsaphatnak a falon, tartson távolságot.",
                 "ro": "Valurile pot trece peste zid, păstrați distanța.",
-                "en": "Waves can splash over the wall; keep a safe distance."
+                "en": "Waves can splash over the wall; keep a safe distance.",
+                "el": "Τα κύματα μπορεί να πετάξουν νερό πάνω από το τοιχίο· κρατήστε ασφαλή απόσταση."
               }
             },
             {
@@ -447,7 +474,8 @@
                 "de": "Schließfächer für nasse Mäntel im Museum nutzen.",
                 "hu": "Használja a múzeumi szekrényeket a vizes kabátoknak.",
                 "ro": "Folosiți dulapurile muzeului pentru haine ude.",
-                "en": "Use the museum lockers for your wet coats."
+                "en": "Use the museum lockers for your wet coats.",
+                "el": "Χρησιμοποιήστε τα ντουλάπια του μουσείου για τα βρεγμένα σας παλτά."
               }
             },
             {
@@ -456,7 +484,8 @@
                 "de": "Perfekter Abschluss, um den stärksten Regen abzuwarten.",
                 "hu": "Tökéletes zárás a legerősebb eső kivárásához.",
                 "ro": "Final perfect pentru a aștepta trecerea ploii torențiale.",
-                "en": "Perfect final stop to wait out the heaviest rain."
+                "en": "Perfect final stop to wait out the heaviest rain.",
+                "el": "Τέλειο τέλος για να περιμένετε την πιο δυνατή βροχή."
               }
             }
           ],
@@ -484,6 +513,12 @@
               "The Municipal Market (Agora) is the best spot for a long rain break.",
               "Many leather shops on Skridlof Street offer sheltered walkways.",
               "The lighthouse path is dangerous during storms and should be avoided."
+            ],
+            "el": [
+              "Φορέστε παπούτσια με λαστιχένια σόλα καθώς η πλακόστρωση της Παλιάς Πόλης είναι εξαιρετικά ολισθηρή.",
+              "Η Δημοτική Αγορά (Αγορά) είναι το καλύτερο σημείο για μεγάλο διάλειμμα από τη βροχή.",
+              "Πολλά δερμάτινα καταστήματα στην οδό Σκριδλόφ προσφέρουν στεγασμένους διαδρόμους.",
+              "Το μονοπάτι προς το φάρο είναι επικίνδυνο κατά τις καταιγίδες και πρέπει να αποφεύγεται."
             ]
           }
         },
@@ -492,7 +527,8 @@
             "de": "Genießen Sie den frischen Wintermorgen in der Markthalle. Die Einheimischen trinken ihren griechischen Kaffee in Ruhe, ohne den Sommertrubel.\n\nMittags steht die Wintersonne tief über dem venezianischen Hafen. Das Licht ist golden und perfekt für Fotos der schneebedeckten Weißen Berge im Hintergrund.\n\nNachmittags schlendern wir zur Firka-Festung. Die kühle Meeresbrise ist erfrischend, und der Blick auf den Leuchtturm ist bei klarer Winterluft besonders scharf.\n\nSobald die Sonne gegen 17:15 Uhr untergeht, ziehen wir uns in das gemütliche Archäologische Museum zurück, bevor der Abend in einer geheizten Taverne endet.",
             "hu": "Élvezze a friss téli reggelt a Piacon. A helyiek nyugodtan kávéznak, nyoma sincs a nyári nyüzsgésnek.\n\nDélben a téli nap alacsonyan jár a velencei kikötő felett. A fények aranylóak, tökéletesek a háttérben lüktető havas Fehér-hegység fotózásához.\n\nDélután a Firka-erődhöz sétálunk. A hűvös tengeri szellő frissítő, a világítótorony látványa pedig a tiszta téli levegőben különösen éles.\n\nAmint a nap 17:15 körül lemegy, visszahúzódunk a hangulatos Régészeti Múzeumba, mielőtt az este egy fűtött tavernában érne véget.",
             "ro": "Bucurați-vă de dimineața proaspătă de iarnă în Piață. Localnicii își beau cafeaua în liniște, fără agitația specifică verii.\n\nLa prânz, soarele de iarnă stă jos deasupra portului venețian. Lumina este aurie, perfectă pentru fotografii cu Munții Albi înzăpeziți în fundal.\n\nDupă-amiaza ne plimbăm spre Cetatea Firka. Briza răcoroasă a mării este revigorantă, iar farul se vede clar în aerul curat de iarnă.\n\nImediat ce soarele apune în jur de 17:15, ne retragem în confortabilul Muzeu Arheologic, înainte ca seara să se încheie într-o tavernă încălzită.",
-            "en": "Enjoy a crisp winter morning at the Market. Locals sip their Greek coffee in peace, far from the summer crowds.\n\nAt noon, the winter sun hangs low over the Venetian Harbour. The light is golden, perfect for photos with the snowy White Mountains in the background.\n\nIn the afternoon, stroll to the Firka Fortress. The cool sea breeze is refreshing, and the lighthouse view is incredibly sharp in the clear winter air.\n\nAs the sun sets around 17:15, retreat to the cozy Archaeological Museum before ending the evening in a heated local tavern."
+            "en": "Enjoy a crisp winter morning at the Market. Locals sip their Greek coffee in peace, far from the summer crowds.\n\nAt noon, the winter sun hangs low over the Venetian Harbour. The light is golden, perfect for photos with the snowy White Mountains in the background.\n\nIn the afternoon, stroll to the Firka Fortress. The cool sea breeze is refreshing, and the lighthouse view is incredibly sharp in the clear winter air.\n\nAs the sun sets around 17:15, retreat to the cozy Archaeological Museum before ending the evening in a heated local tavern.",
+            "el": "Απολαύστε ένα δροσερό χειμωνιάτικο πρωινό στην Αγορά. Οι ντόπιοι απολαμβάνουν τον ελληνικό τους καφέ με ηρεμία, μακριά από τα καλοκαιρινά πλήθη.\n\nΤο μεσημέρι, ο χειμερινός ήλιος κρέμεται χαμηλά πάνω από τον Ενετικό Λιμένα. Το φως είναι χρυσό, ιδανικό για φωτογραφίες με τα χιονισμένα Λευκά Όρη στο βάθος.\n\nΤο απόγευμα, περπατήστε προς το Φρούριο Φίρκα. Το δροσερό θαλασσινό αεράκι είναι αναζωογονητικό και η θέα προς τον φάρο είναι εξαιρετικά καθαρή στον καθαρό χειμερινό αέρα.\n\nΚαθώς ο ήλιος δύει γύρω στις 17:15, καταφύγετε στο ζεστό Αρχαιολογικό Μουσείο πριν ολοκληρώσετε το βράδυ σε μια ζεστή τοπική ταβέρνα."
           },
           "stops": [
             {
@@ -501,7 +537,8 @@
                 "de": "Probieren Sie heißen Bergtee (Tsai tou Vounou) am Stand.",
                 "hu": "Kóstolja meg a forró hegyi teát az egyik árusnál.",
                 "ro": "Gustați un ceai fierbinte de munte la tarabe.",
-                "en": "Try some hot mountain tea (Tsai tou Vounou) at a stall."
+                "en": "Try some hot mountain tea (Tsai tou Vounou) at a stall.",
+                "el": "Δοκιμάστε ζεστό τσάι του βουνού σε καντίνα."
               }
             },
             {
@@ -510,7 +547,8 @@
                 "de": "Die Sonne erreicht die engen Gassen im Winter kaum, warm anziehen.",
                 "hu": "A nap alig ér be a szűk utcákba télen, öltözzön melegen.",
                 "ro": "Soarele abia pătrunde pe străduțe iarna, îmbrăcați-vă bine.",
-                "en": "Sun rarely reaches narrow alleys in winter; dress warmly."
+                "en": "Sun rarely reaches narrow alleys in winter; dress warmly.",
+                "el": "Ο ήλιος σπάνια φτάνει στα στενά σοκάκια τον χειμώνα· ντυθείτε ζεστά."
               }
             },
             {
@@ -519,7 +557,8 @@
                 "de": "Suchen Sie Cafés mit Glaswindschutz und Heizstrahlern.",
                 "hu": "Keressen üvegfallal védett, fűtött teraszos kávézókat.",
                 "ro": "Căutați cafenele cu paravane de sticlă și încălzitoare.",
-                "en": "Look for cafes with glass windbreaks and space heaters."
+                "en": "Look for cafes with glass windbreaks and space heaters.",
+                "el": "Ψάξτε καφέ με γυάλινες ανεμοθραύστες και θερμαντήρες εξωτερικού χώρου."
               }
             },
             {
@@ -528,7 +567,8 @@
                 "de": "Schöner Ort für windgeschützte Fotos vom Hafen.",
                 "hu": "Szép hely szélvédett kikötői fotók készítéséhez.",
                 "ro": "Loc bun pentru fotografii portuare ferite de vânt.",
-                "en": "Great spot for wind-sheltered photos of the harbor."
+                "en": "Great spot for wind-sheltered photos of the harbor.",
+                "el": "Εξαιρετικό σημείο για φωτογραφίες του λιμένα προστατευμένες από τον άνεμο."
               }
             },
             {
@@ -537,7 +577,8 @@
                 "de": "Bester Platz für den frühen Sonnenuntergang um 17:10.",
                 "hu": "Legjobb hely a korai naplemente nézéséhez 17:10-kor.",
                 "ro": "Cel mai bun loc pentru apusul devreme, la ora 17:10.",
-                "en": "Best spot for the early sunset at 17:10."
+                "en": "Best spot for the early sunset at 17:10.",
+                "el": "Καλύτερο σημείο για το πρώιμο ηλιοβασίλεμα στις 17:10."
               }
             },
             {
@@ -546,7 +587,8 @@
                 "de": "Im Winter sind die Außenmauern oft sehr windig.",
                 "hu": "Télen a külső falaknál gyakran nagyon erős a szél.",
                 "ro": "Iarna, zidurile exterioare sunt adesea foarte bătute de vânt.",
-                "en": "Outer walls are often very windy in winter; bring a scarf."
+                "en": "Outer walls are often very windy in winter; bring a scarf.",
+                "el": "Τα εξωτερικά τείχη είναι συχνά πολύ ανεμώδη τον χειμώνα· πάρτε ένα κασκόλ."
               }
             },
             {
@@ -555,7 +597,8 @@
                 "de": "Angenehm temperiert, ideal für den späten Nachmittag.",
                 "hu": "Kellemes hőmérsékletű, ideális késő délutánra.",
                 "ro": "Temperatură plăcută, ideal pentru după-amiaza târzie.",
-                "en": "Pleasantly warm, ideal for the late afternoon chill."
+                "en": "Pleasantly warm, ideal for the late afternoon chill.",
+                "el": "Αρκετά ζεστό και ευχάριστο, ιδανικό για τη δροσούρα του αργοπορημένου απογεύματος."
               }
             }
           ],
@@ -583,6 +626,12 @@
               "Dress in layers: it is chilly in the shade but warm in the sun.",
               "Some smaller artisan shops in the Old Town may be closed in winter.",
               "The view of the snow-capped mountains is best in January/February."
+            ],
+            "el": [
+              "Το ηλιοβασίλεμα είναι νωρίς γύρω στις 17:15· προγραμμάτισε αναλόγως το υπαίθριο φινάλε.",
+              "Ντύσου σε στρώσεις: είναι ψυχρό στη σκιά αλλά ζεστό στον ήλιο.",
+              "Μερικά μικρότερα εργαστήρια χειροτεχνίας στην Παλιά Πόλη μπορεί να είναι κλειστά τον χειμώνα.",
+              "Η θέα στα χιονισμένα βουνά είναι καλύτερη τον Ιανουάριο/Φεβρουάριο."
             ]
           }
         }
@@ -601,7 +650,8 @@
             "de": "Städtische Markthalle von Chania",
             "hu": "Chania városi vásárcsarnoka",
             "ro": "Piața Municipală din Chania",
-            "en": "Municipal Market of Chania"
+            "en": "Municipal Market of Chania",
+            "el": "Δημοτική Αγορά Χανίων"
           },
           "coords": [
             24.0201,
@@ -617,7 +667,8 @@
             "de": "Schließen Sie Ihr Fahrrad draußen ab und genießen Sie die Atmosphäre im Inneren.",
             "hu": "Zárja le a kerékpárt kint, és élvezze a benti hangulatot.",
             "ro": "Legați-vă bicicleta afară și bucurați-vă de atmosfera din interior.",
-            "en": "Lock your bike outside and enjoy the atmosphere inside."
+            "en": "Lock your bike outside and enjoy the atmosphere inside.",
+            "el": "Κλείδωσε το ποδήλατό σου έξω και απόλαυσε την ατμόσφαιρα μέσα."
           }
         },
         {
@@ -625,7 +676,8 @@
             "de": "Altstadt von Chania",
             "hu": "Chania óvárosa",
             "ro": "Orașul vechi din Chania",
-            "en": "Old Town of Chania"
+            "en": "Old Town of Chania",
+            "el": "Παλιά Πόλη Χανίων"
           },
           "coords": [
             24.0185,
@@ -641,7 +693,8 @@
             "de": "Schieben Sie Ihr Fahrrad in den engsten Gassen, um Fußgänger nicht zu stören.",
             "hu": "Tolja a kerékpárt a legszűkebb sikátorokban, hogy ne zavarja a gyalogosokat.",
             "ro": "Împingeți bicicleta pe cele mai înguste alei pentru a nu deranja pietonii.",
-            "en": "Walk your bike in the narrowest alleys to be respectful of pedestrians."
+            "en": "Walk your bike in the narrowest alleys to be respectful of pedestrians.",
+            "el": "Σπρώξε το ποδήλατο στις στενότερες στοές από σεβασμό προς τους πεζούς."
           }
         },
         {
@@ -649,7 +702,8 @@
             "de": "Venezianischer Hafen",
             "hu": "Velencei kikötő",
             "ro": "Portul Venețian",
-            "en": "Venetian Harbour"
+            "en": "Venetian Harbour",
+            "el": "Ενετικό Λιμάνι"
           },
           "coords": [
             24.0178,
@@ -665,7 +719,8 @@
             "de": "Die Uferpromenade ist ideal für eine gemütliche Radtour.",
             "hu": "A vízparti sétány ideális egy kellemes biciklizéshez.",
             "ro": "Promenada de la malul mării este ideală pentru o plimbare relaxantă cu bicicleta.",
-            "en": "The waterfront promenade is perfect for a leisurely bike ride."
+            "en": "The waterfront promenade is perfect for a leisurely bike ride.",
+            "el": "Η παραλιακή περαντζάδα είναι τέλεια για ήσυχη βόλτα με ποδήλατο."
           }
         },
         {
@@ -673,7 +728,8 @@
             "de": "Firka Festung & Schifffahrtsmuseum",
             "hu": "Firka erőd és Tengerészeti Múzeum",
             "ro": "Fortăreața Firka și Muzeul Maritim",
-            "en": "Firka Fortress & Maritime Museum"
+            "en": "Firka Fortress & Maritime Museum",
+            "el": "Φρούριο Φιρκά και Ναυτικό Μουσείο"
           },
           "coords": [
             24.015,
@@ -689,7 +745,8 @@
             "de": "Hier gibt es Fahrradständer. Erkunden Sie die Festung und das Museum in Ruhe.",
             "hu": "Itt talál kerékpártárolókat. Fedezze fel nyugodtan az erődöt és a múzeumot.",
             "ro": "Există parcări pentru biciclete aici. Explorați fortăreața și muzeul pe îndelete.",
-            "en": "There are bike racks available here. Explore the fortress and museum at your leisure."
+            "en": "There are bike racks available here. Explore the fortress and museum at your leisure.",
+            "el": "Υπάρχουν θέσεις για ποδήλατα εδώ. Εξερεύνησε το φρούριο και το μουσείο με την άνεσή σου."
           }
         },
         {
@@ -697,7 +754,8 @@
             "de": "Leuchtturm von Chania",
             "hu": "Chaniai világítótorony",
             "ro": "Farul din Chania",
-            "en": "Lighthouse of Chania"
+            "en": "Lighthouse of Chania",
+            "el": "Φάρος Χανίων"
           },
           "coords": [
             24.018,
@@ -713,7 +771,8 @@
             "de": "Radfahren auf der Mole ist nicht erlaubt; gehen Sie das letzte Stück zu Fuß.",
             "hu": "A mólón nem szabad kerékpározni; az utolsó szakaszt tegye meg gyalog.",
             "ro": "Mersul pe bicicletă nu este permis pe dig; parcurgeți ultima porțiune pe jos.",
-            "en": "Cycling is not permitted on the mole; walk the final stretch."
+            "en": "Cycling is not permitted on the mole; walk the final stretch.",
+            "el": "Απαγορεύεται η ποδηλασία στον μόλο· περπάτησε το τελευταίο κομμάτι."
           }
         },
         {
@@ -721,7 +780,8 @@
             "de": "Archäologisches Museum Chania",
             "hu": "Chaniai Régészeti Múzeum",
             "ro": "Muzeul de Arheologie din Chania",
-            "en": "Archaeological Museum of Chania"
+            "en": "Archaeological Museum of Chania",
+            "el": "Αρχαιολογικό Μουσείο Χανίων"
           },
           "coords": [
             24.016,
@@ -737,7 +797,8 @@
             "de": "Ein großartiger Ort, um der Nachmittagshitze zu entfliehen und etwas über die Geschichte zu lernen.",
             "hu": "Remek hely a délutáni hőség elől való menekülésre és a történelem megismerésére.",
             "ro": "Un loc excelent pentru a scăpa de căldura de după-amiază și a învăța despre istorie.",
-            "en": "A great place to escape the afternoon heat and learn about history."
+            "en": "A great place to escape the afternoon heat and learn about history.",
+            "el": "Ένας εξαιρετικός χώρος για να αποφύγεις τη μεσημεριανή ζέστη και να μάθεις ιστορία."
           }
         }
       ],
@@ -745,7 +806,8 @@
         "de": "Schwingen Sie sich auf Ihr Rad und beginnen Sie den Tag auf dem Städtischen Markt. Nachdem Sie die lokalen Produkte bewundert haben, radeln Sie in die Altstadt – schieben Sie Ihr Rad durch die engsten Gassen. Fahren Sie weiter zur Uferpromenade des Venezianischen Hafens für eine erfrischende Tour. Parken Sie Ihr Rad und erkunden Sie die beeindruckende Firka-Festung und das darin befindliche Schifffahrtsmuseum. Am Nachmittag spazieren Sie die Mole entlang zum berühmten Leuchtturm. Schließen Sie den Tag mit einem Kulturbesuch im modernen Archäologischen Museum ab, einem perfekten Kontrast zu den alten Steinen der Stadt.",
         "hu": "Pattanjon biciklire, és kezdje a napot a Városi Vásárcsarnokban. Miután megcsodálta a helyi termékeket, tekerjen be az Óvárosba – a legszűkebb sikátorokban tolja a biciklit. Haladjon tovább a Velencei kikötő vízparti sétányára egy frissítő körútra. Parkolja le a kerékpárt, és fedezze fel a lenyűgöző Firka erődöt és a benne található Tengerészeti Múzeumot. Délután sétáljon végig a mólón a híres világítótoronyhoz. Zárja a napot egy kulturális látogatással a modern Régészeti Múzeumban, amely tökéletes kontrasztot alkot a város ősi köveivel.",
         "ro": "Urcați-vă pe bicicletă și începeți ziua la Piața Municipală. După ce ați admirat produsele locale, pedalați spre Orașul Vechi – împingând bicicleta pe cele mai înguste alei. Continuați spre promenada de la malul mării a Portului Venețian pentru un tur revigorant. Parcați bicicleta și explorați impunătoarea Fortăreață Firka și Muzeul Maritim din interior. După-amiaza, plimbați-vă de-a lungul digului până la faimosul Far. Încheiați ziua cu o vizită culturală la modernul Muzeu de Arheologie, un contrast perfect cu pietrele antice ale orașului.",
-        "en": "Hop on your bike and start the day at the Municipal Market. After admiring the local produce, cycle into the Old Town—walking your bike through the narrowest alleys. Continue to the Venetian Harbour's waterfront for a refreshing tour. Park your bike and explore the impressive Firka Fortress and the Maritime Museum within. In the afternoon, take a walk along the mole to the famous Lighthouse. End the day with a cultural visit to the modern Archaeological Museum, a perfect contrast to the city's ancient stones."
+        "en": "Hop on your bike and start the day at the Municipal Market. After admiring the local produce, cycle into the Old Town—walking your bike through the narrowest alleys. Continue to the Venetian Harbour's waterfront for a refreshing tour. Park your bike and explore the impressive Firka Fortress and the Maritime Museum within. In the afternoon, take a walk along the mole to the famous Lighthouse. End the day with a cultural visit to the modern Archaeological Museum, a perfect contrast to the city's ancient stones.",
+        "el": "Πιάσε το ποδήλατο και ξεκίνα τη μέρα από τη Δημοτική Αγορά. Μετά από τον θαυμασμό των τοπικών προϊόντων, ποδηλάτησε προς την Παλιά Πόλη—σπρώχνοντας το ποδήλατο στις στενότερες στοές. Συνέχισε στην παραλία του Ενετικού Λιμανιού για μια δροσιστική βόλτα. Στάθμευσε το ποδήλατο και εξερεύνησε το εντυπωσιακό Φρούριο Φιρκά και το Ναυτικό Μουσείο στο εσωτερικό. Το απόγευμα, περπάτησε κατά μήκος του μόλου προς τον διάσημο Φάρο. Ολοκλήρωσε τη μέρα με μια πολιτιστική επίσκεψη στο σύγχρονο Αρχαιολογικό Μουσείο, τέλειο αντίστιχο στα αρχαία πετρόχτιστα της πόλης."
       },
       "gastro_picks": {
         "de": [
@@ -941,6 +1003,12 @@
           "A helmet is highly recommended.",
           "Always lock your bike to a fixed object.",
           "Be mindful of pedestrians, especially in the busy areas."
+        ],
+        "el": [
+          "Έλεγξε τα φρένα πριν ξεκινήσεις.",
+          "Το κράνος συνιστάται έντονα.",
+          "Κλείδωσε πάντα το ποδήλατό σου σε σταθερό αντικείμενο.",
+          "Να προσέχεις τους πεζούς, ειδικά στις πολυσύχναστες περιοχές."
         ]
       },
       "variants": {
@@ -949,7 +1017,8 @@
             "de": "Radfahren im kretischen Regen erfordert Vorsicht. Wir starten an der Agora, wo man das Rad kurz unter das Vordach stellen kann.\n\nMittags rollen wir vorsichtig durch die Altstadt. Die nassen Pflastersteine sind tückisch, daher nutzen wir die breiteren Wege zum Hafen.\n\nNachmittags parken wir die Räder sicher an der Firka-Festung und verbringen viel Zeit im trockenen Museum, um dem Schlimmsten zu entgehen.\n\nDen Tag beenden wir beim Archäologischen Museum. Der Radweg dorthin ist gut ausgebaut, aber Pfützen in den Kurven sind zu beachten.",
             "hu": "A krétai esőben való biciklizés óvatosságot igényel. Az Agoránál kezdünk, ahol a bringát rövid időre az előtető alá tolhatjuk.\n\nDélben óvatosan gurulunk az óvárosban. A vizes macskakő csalóka, ezért a kikötő felé a szélesebb utakat választjuk.\n\nDélután a Firka-erődnél biztonságosan lezárjuk a gépeket, és sok időt töltünk a száraz múzeumban, elkerülve a záporokat.\n\nA napot a Régészeti Múzeumnál zárjuk. Az oda vezető kerékpárút jó, de a kanyarokban figyelni kell a tócsákra.",
             "ro": "Mersul pe bicicletă în ploaia cretană necesită prudență. Începem la Agora, unde putem lăsa bicicleta scurt timp sub copertină.\n\nLa prânz, rulăm cu atenție prin orașul vechi. Pavajul ud este înșelător, așa că alegem drumurile mai late spre port.\n\nDupă-amiaza parcăm bicicletele în siguranță la Cetatea Firka și stăm mai mult în muzeul uscat pentru a evita aversele.\n\nÎncheiem ziua la Muzeul Arheologic. Pistele de biciclete sunt bune, dar atenție la bălțile din curbe.",
-            "en": "Cycling in Cretan rain requires caution. We start at the Agora, where you can briefly tuck your bike under the overhang.\n\nAt noon, roll carefully through the Old Town. The wet cobblestones are treacherous, so stick to the wider paths toward the harbor.\n\nIn the afternoon, lock the bikes securely at the Firka Fortress and spend ample time in the dry museum to avoid the downpours.\n\nFinish at the Archaeological Museum. The path there is well-paved, but watch out for deep puddles in the corners."
+            "en": "Cycling in Cretan rain requires caution. We start at the Agora, where you can briefly tuck your bike under the overhang.\n\nAt noon, roll carefully through the Old Town. The wet cobblestones are treacherous, so stick to the wider paths toward the harbor.\n\nIn the afternoon, lock the bikes securely at the Firka Fortress and spend ample time in the dry museum to avoid the downpours.\n\nFinish at the Archaeological Museum. The path there is well-paved, but watch out for deep puddles in the corners.",
+            "el": "Η ποδηλασία στη βροχή της Κρήτης απαιτεί προσοχή. Ξεκινάμε από την Αγορά, όπου μπορείς σύντομα να προστατέψεις το ποδήλατο κάτω από το επικλινές στέγαστρο.\n\nΤο μεσημέρι, κύλησε προσεκτικά μέσα στην Παλιά Πόλη. Οι βρεγμένες κυβόλιθοι είναι επικίνδυνες, οπότε κράτα τα πιο φαρδιά μονοπάτια προς το λιμάνι.\n\nΤο απόγευμα, κλείδωσε καλά τα ποδήλατα στο Φρούριο Φιρκά και ξόδεψε αρκετό χρόνο στο στεγνό μουσείο για να αποφύγεις τη μπόρα.\n\nΤέλειωσε στο Αρχαιολογικό Μουσείο. Το μονοπάτι μέχρι εκεί είναι καλά ασφαλτοστρωμένο, αλλά πρόσεχε για βαθιές λακκούβες στις γωνιές."
           },
           "stops": [
             {
@@ -958,7 +1027,8 @@
                 "de": "Fahrradständer am Westeingang sind oft überdacht.",
                 "hu": "A nyugati bejáratnál lévő tárolók gyakran fedettek.",
                 "ro": "Suporturile de biciclete de la intrarea de vest sunt adesea acoperite.",
-                "en": "Bike racks at the west entrance are often sheltered."
+                "en": "Bike racks at the west entrance are often sheltered.",
+                "el": "Οι σχάρες ποδηλάτων στη δυτική είσοδο είναι συχνά υπό στέγαση."
               }
             },
             {
@@ -967,7 +1037,8 @@
                 "de": "Vermeiden Sie starkes Bremsen auf dem glatten Stein.",
                 "hu": "Kerülje az erős fékezést a sima köveken.",
                 "ro": "Evitați frânarea bruscă pe piatra lucioasă.",
-                "en": "Avoid hard braking on the slick stone surfaces."
+                "en": "Avoid hard braking on the slick stone surfaces.",
+                "el": "Απόφυγε το σφοδρό φρενάρισμα στις γλιστερές πέτρινες επιφάνειες."
               }
             },
             {
@@ -976,7 +1047,8 @@
                 "de": "Schieben Sie das Rad direkt am Wasser, der Wind drückt seitlich.",
                 "hu": "Tolja a biciklit a vízparton, a szél oldalról lökdösheti.",
                 "ro": "Împingeți bicicleta pe mal, vântul poate sufla lateral.",
-                "en": "Walk your bike near the water; side winds can be strong."
+                "en": "Walk your bike near the water; side winds can be strong.",
+                "el": "Σπρώξε το ποδήλατο κοντά στο νερό· οι πλάγιες ριπές του ανέμου μπορεί να είναι ισχυρές."
               }
             },
             {
@@ -985,7 +1057,8 @@
                 "de": "Räder im Innenhof parken, falls erlaubt, sonst Regenabdeckung.",
                 "hu": "Parkoljon az udvaron, ha szabad, különben húzzon huzatot az ülésre.",
                 "ro": "Parcați în curte dacă e permis, altfel puneți husă de ploaie.",
-                "en": "Park in the courtyard if allowed, otherwise use a seat cover."
+                "en": "Park in the courtyard if allowed, otherwise use a seat cover.",
+                "el": "Στάθμευσε στην αυλή αν επιτρέπεται, αλλιώς χρησιμοποίησε κάλυμμα για τη σέλα."
               }
             },
             {
@@ -994,7 +1067,8 @@
                 "de": "Nicht befahren, das Pflaster ist bei Nässe eine Rutschbahn.",
                 "hu": "Ne biciklizzen rá, a burkolat vizesen kész korcsolyapálya.",
                 "ro": "Nu mergeți pe bicicletă aici, pavajul ud e ca un patinoar.",
-                "en": "Do not ride here; the wet pavement is like a skating rink."
+                "en": "Do not ride here; the wet pavement is like a skating rink.",
+                "el": "Μην ποδηλατείς εδώ· το βρεγμένο δάπεδο μοιάζει με παγοδρόμιο."
               }
             },
             {
@@ -1003,7 +1077,8 @@
                 "de": "Überdachte Parkplätze beim neuen Museumsgebäude nutzen.",
                 "hu": "Használja a fedett parkolót az új múzeumépületnél.",
                 "ro": "Folosiți parcarea acoperită de la clădirea nouă a muzeului.",
-                "en": "Use the sheltered parking spots at the new museum building."
+                "en": "Use the sheltered parking spots at the new museum building.",
+                "el": "Χρησιμοποίησε τις στεγασμένες θέσεις στάθμευσης στο νέο κτίριο του μουσείου."
               }
             }
           ],
@@ -1031,6 +1106,12 @@
               "Avoid riding on white road markings; they are extremely slippery.",
               "Rain ponchos catch a lot of wind; tight waterproof gear is better.",
               "The harbor area is often nearly empty in the rain – enjoy the peace."
+            ],
+            "el": [
+              "Έλεγξε τα φρένα πριν κατέβεις τους λόφους προς την Παλιά Πόλη.",
+              "Απόφυγε το ποδήλατο πάνω στις λευκές διαγραμμίσεις του δρόμου· είναι εξαιρετικά ολισθηρές.",
+              "Οι αδιάβροχες πανωφόρες τύπου poncho πιάνουν πολύ αέρα· προτιμότερο στενό αδιάβροχο ρούχο.",
+              "Η περιοχή του λιμανιού είναι συχνά σχεδόν άδεια στη βροχή – απόλαυσε την ησυχία."
             ]
           }
         },
@@ -1039,7 +1120,8 @@
             "de": "Ein Wintertag auf dem Rad ist ideal, um Chania ohne Schweißperlen zu erkunden. Die Luft ist klar, wenn wir an der Agora starten.\n\nMittags radeln wir am Hafen entlang. Die Sonne wärmt genug für eine Fahrt im leichten Pullover, während die Meeresbrise die Nase kitzelt.\n\nNachmittags geht es zur Firka-Festung. Es gibt keine Touristenmassen, die den Weg versperren, sodass man entspannt bis zum Eingang rollen kann.\n\nWir beenden die Tour am Archäologischen Museum. Die kühlen Abendstunden sind perfekt, um sich danach drinnen aufzuwärmen.",
             "hu": "Egy téli nap a bringán ideális Chania felfedezéséhez izzadás nélkül. A levegő tiszta, amikor az Agoránál elindulunk.\n\nDélben a kikötő mentén tekerünk. A nap épp eléggé melegít egy könnyű pulóveres úthoz, miközben a tengeri szellő csiklandozza az orrunkat.\n\nDélután a Firka-erődhöz megyünk. Nincsenek turistaáradatok, így lazán gurulhatunk egészen a bejáratig.\n\nA túrát a Régészeti Múzeumnál zárjuk. A hűvös esti órák tökéletesek arra, hogy utána bent melegedjünk fel.",
             "ro": "O zi de iarnă pe bicicletă este ideală pentru a explora Chania fără a transpira. Aerul este curat când pornim de la Agora.\n\nLa prânz pedalăm de-a lungul portului. Soarele încălzește suficient pentru o plimbare într-un pulover ușor, în timp ce briza mării ne gâdilă nasul.\n\nDupă-amiaza mergem spre Cetatea Firka. Nu sunt mase de turiști, așa că putem rula relaxat până la intrare.\n\nÎncheiem turul la Muzeul Arheologic. Orele răcoroase de seară sunt perfecte pentru a ne încălzi apoi în interior.",
-            "en": "A winter day on a bike is ideal for exploring Chania without breaking a sweat. The air is crisp as we start at the Agora.\n\nAt noon, cycle along the harbor. The sun is warm enough for a ride in a light sweater, while the sea breeze tickles your face.\n\nIn the afternoon, head to the Firka Fortress. There are no tourist crowds blocking the way, allowing for a relaxed ride right to the gate.\n\nFinish the tour at the Archaeological Museum. The cool evening hours are perfect for warming up inside afterwards."
+            "en": "A winter day on a bike is ideal for exploring Chania without breaking a sweat. The air is crisp as we start at the Agora.\n\nAt noon, cycle along the harbor. The sun is warm enough for a ride in a light sweater, while the sea breeze tickles your face.\n\nIn the afternoon, head to the Firka Fortress. There are no tourist crowds blocking the way, allowing for a relaxed ride right to the gate.\n\nFinish the tour at the Archaeological Museum. The cool evening hours are perfect for warming up inside afterwards.",
+            "el": "Μια χειμωνιάτικη μέρα με ποδήλατο είναι ιδανική για να εξερευνήσεις τα Χανιά χωρίς να ιδρώσεις. Ο αέρας είναι δροσερός καθώς ξεκινάμε από την Αγορά.\n\nΤο μεσημέρι, ποδηλάτησε κατά μήκος του λιμανιού. Ο ήλιος είναι αρκετά ζεστός για βόλτα με λεπτό πουλόβερ, ενώ η θαλασσινή αύρα χαϊδεύει το πρόσωπό σου.\n\nΤο απόγευμα, κατευθύνσου προς το Φρούριο Φιρκά. Δεν υπάρχουν πλήθη τουριστών που να εμποδίζουν το πέρασμα, επιτρέποντας χαλαρή ποδηλασία μέχρι την πύλη.\n\nΟλοκλήρωσε την περιήγηση στο Αρχαιολογικό Μουσείο. Οι δροσερές βραδινές ώρες είναι τέλειες για να ζεσταθείς μέσα μετά."
           },
           "stops": [
             {
@@ -1048,7 +1130,8 @@
                 "de": "Radschloss könnte bei Kälte etwas klemmen, Öl hilft.",
                 "hu": "A lakatos zár a hidegben szorulhat, egy kis olaj segít.",
                 "ro": "Antifurtul poate merge greu la frig, puțin ulei ajută.",
-                "en": "Bike locks might stick in the cold; a bit of oil helps."
+                "en": "Bike locks might stick in the cold; a bit of oil helps.",
+                "el": "Τα λουκέτα ποδηλάτου μπορεί να κολλήσουν στο κρύο· λίγη λίπανση βοηθάει."
               }
             },
             {
@@ -1057,7 +1140,8 @@
                 "de": "Licht am Fahrrad prüfen, es wird früh dunkel.",
                 "hu": "Ellenőrizze a világítást, hamar sötétedik.",
                 "ro": "Verificați luminile bicicletelei, se întunecă repede.",
-                "en": "Check your bike lights; it gets dark early."
+                "en": "Check your bike lights; it gets dark early.",
+                "el": "Έλεγξε τα φώτα του ποδηλάτου· νυχτώνει νωρίς."
               }
             },
             {
@@ -1066,7 +1150,8 @@
                 "de": "Genießen Sie die freie Fahrt ohne Fußgängerstau.",
                 "hu": "Élvezze a szabad utat gyalogosforgalom nélkül.",
                 "ro": "Bucurați-vă de drumul liber, fără blocaje de pietoni.",
-                "en": "Enjoy the clear path without pedestrian traffic jams."
+                "en": "Enjoy the clear path without pedestrian traffic jams.",
+                "el": "Απόλαυσε το καθαρό μονοπάτι χωρίς μποτιλιαρίσματα πεζών."
               }
             },
             {
@@ -1075,7 +1160,8 @@
                 "de": "Festungswälle sind im Winter oft sehr zugig beim Parken.",
                 "hu": "Az erődfalaknál télen gyakran huzatos a parkolás.",
                 "ro": "Zidurile cetății sunt adesea foarte expuse curentului iarna.",
-                "en": "Fortress walls are often very drafty when parking in winter."
+                "en": "Fortress walls are often very drafty when parking in winter.",
+                "el": "Τα τείχη του φρουρίου είναι συχνά πολύ ριπατά όταν παρκάρεις τον χειμώνα."
               }
             },
             {
@@ -1084,7 +1170,8 @@
                 "de": "Starke Windböen möglich, Rad gut sichern.",
                 "hu": "Erős széllökések lehetnek, jól rögzítse a bringát.",
                 "ro": "Posibile rafale de vânt puternice, asigurați bine bicicleta.",
-                "en": "Strong gusts possible; secure your bike well."
+                "en": "Strong gusts possible; secure your bike well.",
+                "el": "Δυνατές ριπές πιθανές· στερέωσε καλά το ποδήλατό σου."
               }
             },
             {
@@ -1093,7 +1180,8 @@
                 "de": "Bester Ort, um das Rad vor der Heimfahrt im Dunkeln zu prüfen.",
                 "hu": "Legjobb hely a bringa átnézésére a sötét hazatérés előtt.",
                 "ro": "Cel mai bun loc pentru a verifica bicicleta înainte de plecare.",
-                "en": "Best spot to check your bike before riding home in the dark."
+                "en": "Best spot to check your bike before riding home in the dark.",
+                "el": "Καλύτερο σημείο για έλεγχο του ποδηλάτου πριν πας σπίτι στο σκοτάδι."
               }
             }
           ],
@@ -1121,6 +1209,12 @@
               "The low sun can be blinding when cycling along the harbor.",
               "Take advantage of the off-season for photos without extra bikes in the frame.",
               "Watch out for damp spots in the shade that don't dry all day."
+            ],
+            "el": [
+              "Φόρα γάντια· το αίσθημα ψύχους στον αέρα είναι τσουχτερό τον Ιανουάριο.",
+              "Ο χαμηλός ήλιος μπορεί να σε τυφλώσει όταν ποδηλατείς κατά μήκος του λιμανιού.",
+              "Εκμεταλλεύσου την εκτός εποχής για φωτογραφίες χωρίς επιπλέον ποδήλατα στο κάδρο.",
+              "Πρόσεχε τις υγρές ζώνες στη σκιά που δεν στεγνώνουν όλη μέρα."
             ]
           }
         }
@@ -1139,7 +1233,8 @@
             "de": "Parken am Städtischen Markt",
             "hu": "Parkolás a Városi Vásárcsarnoknál",
             "ro": "Parcare la Piața Municipală",
-            "en": "Parking at the Municipal Market"
+            "en": "Parking at the Municipal Market",
+            "el": "Στάθμευση στη Δημοτική Αγορά"
           },
           "coords": [
             24.0208,
@@ -1155,7 +1250,8 @@
             "de": "Kommen Sie früh an, um einen Parkplatz zu finden. Dies ist Ihr erster Cluster-Hub.",
             "hu": "Érkezzen korán, hogy parkolóhelyet találjon. Ez az első központi csomópontja.",
             "ro": "Ajungeți devreme pentru a găsi un loc de parcare. Acesta este primul dvs. hub de cluster.",
-            "en": "Arrive early to find a parking spot. This is your first cluster hub."
+            "en": "Arrive early to find a parking spot. This is your first cluster hub.",
+            "el": "Έλα νωρίς για να βρεις θέση στάθμευσης. Αυτό είναι το πρώτο σου κεντρικό σημείο."
           }
         },
         {
@@ -1163,7 +1259,8 @@
             "de": "Städtische Markthalle von Chania",
             "hu": "Chania városi vásárcsarnoka",
             "ro": "Piața Municipală din Chania",
-            "en": "Municipal Market of Chania"
+            "en": "Municipal Market of Chania",
+            "el": "Δημοτική Αγορά Χανίων"
           },
           "coords": [
             24.0201,
@@ -1179,7 +1276,8 @@
             "de": "Lassen Sie Ihre Einkäufe im Auto und erkunden Sie die Gegend unbeschwert.",
             "hu": "Hagyja a vásárolt dolgokat az autóban, és fedezze fel a környéket gondtalanul.",
             "ro": "Lăsați cumpărăturile în mașină și explorați zona fără griji.",
-            "en": "Leave your shopping in the car and explore the area unburdened."
+            "en": "Leave your shopping in the car and explore the area unburdened.",
+            "el": "Άφησε τα ψώνια στο αυτοκίνητο και εξερεύνησε την περιοχή ελαφρύς."
           }
         },
         {
@@ -1187,7 +1285,8 @@
             "de": "Altstadt von Chania (Östlicher Teil)",
             "hu": "Chania óvárosa (keleti rész)",
             "ro": "Orașul vechi din Chania (Partea de Est)",
-            "en": "Old Town of Chania (Eastern Part)"
+            "en": "Old Town of Chania (Eastern Part)",
+            "el": "Παλιά Πόλη Χανίων (Ανατολικό Μέρος)"
           },
           "coords": [
             24.0185,
@@ -1203,7 +1302,8 @@
             "de": "Erkunden Sie die Gassen von Splantzia zu Fuß von der Markthalle aus.",
             "hu": "Fedezze fel Splantzia sikátorait gyalog a vásárcsarnoktól.",
             "ro": "Explorați aleile din Splantzia pe jos de la Piață.",
-            "en": "Explore the alleys of Splantzia on foot from the Market."
+            "en": "Explore the alleys of Splantzia on foot from the Market.",
+            "el": "Εξερεύνησε τα σοκάκια της Σπλάντζια με τα πόδια από την Αγορά."
           }
         },
         {
@@ -1211,7 +1311,8 @@
             "de": "Parken am Talos-Platz (Hafen)",
             "hu": "Parkolás a Talos téren (Kikötő)",
             "ro": "Parcare în Piața Talos (Port)",
-            "en": "Parking at Talos Square (Harbour)"
+            "en": "Parking at Talos Square (Harbour)",
+            "el": "Στάθμευση στην Πλατεία Τάλως (Λιμάνι)"
           },
           "coords": [
             24.013,
@@ -1227,7 +1328,8 @@
             "de": "Ihr zweiter Hub. Von hier aus ist der gesamte westliche Hafen zu Fuß erreichbar.",
             "hu": "A második központja. Innen az egész nyugati kikötő gyalogosan elérhető.",
             "ro": "Al doilea hub al dumneavoastră. Întregul port vestic este accesibil pe jos de aici.",
-            "en": "Your second hub. The entire western harbour is walkable from here."
+            "en": "Your second hub. The entire western harbour is walkable from here.",
+            "el": "Το δεύτερο σου κέντρο. Ολόκληρο το δυτικό λιμάνι είναι περπατήσιμο από εδώ."
           }
         },
         {
@@ -1235,7 +1337,8 @@
             "de": "Firka Festung & Schifffahrtsmuseum",
             "hu": "Firka erőd és Tengerészeti Múzeum",
             "ro": "Fortăreața Firka și Muzeul Maritim",
-            "en": "Firka Fortress & Maritime Museum"
+            "en": "Firka Fortress & Maritime Museum",
+            "el": "Φρούριο Φιρκά και Ναυτικό Μουσείο"
           },
           "coords": [
             24.015,
@@ -1251,7 +1354,8 @@
             "de": "Genießen Sie die Aussicht, bevor Sie das Museum besuchen.",
             "hu": "Élvezze a kilátást, mielőtt bemegy a múzeumba.",
             "ro": "Bucurați-vă de priveliște înainte de a intra în muzeu.",
-            "en": "Enjoy the view before you head into the museum."
+            "en": "Enjoy the view before you head into the museum.",
+            "el": "Απόλαυσε τη θέα πριν μπεις στο μουσείο."
           }
         },
         {
@@ -1259,7 +1363,8 @@
             "de": "Venezianischer Hafen & Leuchtturm-Spaziergang",
             "hu": "Velencei kikötő és séta a világítótoronyhoz",
             "ro": "Portul Venețian și plimbare la Far",
-            "en": "Venetian Harbour & Lighthouse walk"
+            "en": "Venetian Harbour & Lighthouse walk",
+            "el": "Βόλτα στο Ενετικό Λιμάνι & Φάρος"
           },
           "coords": [
             24.0178,
@@ -1275,7 +1380,8 @@
             "de": "Spazieren Sie entlang der Uferpromenade, essen Sie zu Mittag und gehen Sie dann zur Mole.",
             "hu": "Sétáljon végig a vízparton, ebédeljen meg, majd induljon a mólóhoz.",
             "ro": "Plimbați-vă de-a lungul malului, luați prânzul, apoi mergeți spre dig.",
-            "en": "Stroll along the waterfront, have lunch, and then head for the mole."
+            "en": "Stroll along the waterfront, have lunch, and then head for the mole.",
+            "el": "Περπάτησε κατά μήκος της παραλίας, φάε μεσημεριανό και μετά πήγαινε προς τον μόλο."
           }
         }
       ],
@@ -1283,7 +1389,8 @@
         "de": "Beginnen Sie Ihren Tag, indem Sie in der Nähe des Städtischen Marktes parken, Ihrem ersten Zentrum. Erkunden Sie den Markt und die östlichen Gassen der Altstadt zu Fuß. Kehren Sie dann zum Auto zurück für eine kurze Fahrt zum Talos-Platz, Ihrem zweiten Zentrum für den Tag. Von hier aus ist der gesamte westliche Teil des Hafens ein Fußgängerparadies. Besuchen Sie die imposante Firka-Festung und das Schifffahrtsmuseum. Verbringen Sie den Nachmittag mit einem Spaziergang entlang des venezianischen Hafens, genießen Sie ein Mittagessen am Meer und machen Sie den unvergesslichen Spaziergang zur Spitze des Leuchtturms für einen Panoramablick auf die Stadt und das Meer.",
         "hu": "Kezdje a napot a Városi Vásárcsarnok közelében parkolva, ez az első központja. Fedezze fel gyalog a piacot és az Óváros keleti sikátorait. Ezután térjen vissza az autóhoz egy rövid útra a Talos térig, a nap második központjáig. Innen a kikötő egész nyugati része gyalogos paradicsom. Látogassa meg a lenyűgöző Firka erődöt és a Tengerészeti Múzeumot. Töltse a délutánt a velencei kikötő mentén sétálva, ebédeljen a tengerparton, és tegye meg a felejthetetlen sétát a világítótorony csúcsára a városra és a tengerre nyíló panorámáért.",
         "ro": "Începeți ziua parcând lângă Piața Municipală, primul dvs. centru. Explorați piața și aleile estice ale Orașului Vechi pe jos. Apoi, reveniți la mașină pentru o scurtă călătorie spre Piața Talos, al doilea centru al zilei. De aici, întreaga parte vestică a portului este un paradis pietonal. Vizitați impunătoarea Fortăreață Firka și Muzeul Maritim. Petreceți după-amiaza plimbându-vă de-a lungul portului venețian, savurând prânzul la malul mării și făcând plimbarea memorabilă până în vârful farului pentru vederi panoramice ale orașului și mării.",
-        "en": "Start your day by parking near the Municipal Market, your first hub. Explore the market and the eastern alleys of the Old Town on foot. Then, return to the car for a short drive to Talos Square, your second hub for the day. From here, the entire western part of the harbour is a pedestrian's paradise. Visit the imposing Firka Fortress and the Maritime Museum. Spend the afternoon strolling along the Venetian Harbour, enjoying a seaside lunch, and taking the memorable walk to the tip of the lighthouse for panoramic views of the city and sea."
+        "en": "Start your day by parking near the Municipal Market, your first hub. Explore the market and the eastern alleys of the Old Town on foot. Then, return to the car for a short drive to Talos Square, your second hub for the day. From here, the entire western part of the harbour is a pedestrian's paradise. Visit the imposing Firka Fortress and the Maritime Museum. Spend the afternoon strolling along the Venetian Harbour, enjoying a seaside lunch, and taking the memorable walk to the tip of the lighthouse for panoramic views of the city and sea.",
+        "el": "Ξεκίνα τη μέρα σου παρκάροντας κοντά στη Δημοτική Αγορά, το πρώτο σου κέντρο. Εξερεύνησε την αγορά και τα ανατολικά σοκάκια της Παλιάς Πόλης με τα πόδια. Έπειτα, γύρνα στο αυτοκίνητο για μια σύντομη διαδρομή στην Πλατεία Τάλως, το δεύτερο κέντρο της ημέρας. Από εδώ, ολόκληρο το δυτικό τμήμα του λιμανιού είναι παράδεισος για τον πεζό. Επισκέψου το επιβλητικό Φρούριο Φιρκά και το Ναυτικό Μουσείο. Πέρασε το απόγευμα περιπλανώμενος κατά μήκος του Ενετικού Λιμανιού, απολαμβάνοντας ένα γεύμα δίπλα στη θάλασσα και κάνοντας την αξέχαστη βόλτα μέχρι την άκρη του μόλου για πανοραμική θέα της πόλης και της θάλασσας."
       },
       "gastro_picks": {
         "de": [
@@ -1479,6 +1586,12 @@
           "Pay attention to one-way streets and pedestrian zones.",
           "Do not leave valuables visible in the car.",
           "Streets can be narrow, drive carefully."
+        ],
+        "el": [
+          "Η στάθμευση στην Παλιά Πόλη είναι εξαιρετικά δύσκολη και συχνά απαγορευμένη. Χρήσε τους επισημασμένους χώρους στα περίχωρα.",
+          "Δώσε προσοχή στις μονόδρομες και στις ζώνες πεζών.",
+          "Μην αφήνεις πολύτιμα αντικείμενα εμφανή μέσα στο αυτοκίνητο.",
+          "Οι δρόμοι μπορεί να είναι στενοί, οδήγησε προσεκτικά."
         ]
       },
       "variants": {
@@ -1487,7 +1600,8 @@
             "de": "Mit dem Auto bleibt man in Chania bei Regen flexibel. Wir parken direkt an der Agora, um trocken in die Markthalle zu gelangen.\n\nMittags fahren wir zum Talos-Platz. Von dort sind es nur wenige Schritte bis zur Firka-Festung, was die Zeit im Regen minimiert.\n\nNachmittags genießen wir die Fahrt entlang der Küstenstraße, während die Scheibenwischer den Blick auf das stürmische Meer freigeben.\n\nDen Tag lassen wir im Archäologischen Museum ausklingen. Der große Parkplatz direkt davor macht die Ankunft auch bei starkem Guss stressfrei.",
             "hu": "Autóval esőben is rugalmas maradhat Chaniában. Közvetlenül az Agoránál parkolunk, hogy szárazon jussunk be a csarnokba.\n\nDélben a Talos térre hajtunk. Innen csak pár lépés a Firka-erőd, így minimális időt töltünk kint az esőben.\n\nDélután a part menti úton autózunk, miközben az ablaktörlők mögül figyeljük a viharos tengert.\n\nA napot a Régészeti Múzeumban zárjuk. A közvetlen előtte lévő nagy parkoló még felhőszakadás idején is stresszmentessé teszi az érkezést.",
             "ro": "Cu mașina rămâneți flexibil în Chania chiar și pe ploaie. Parcăm direct la Agora pentru a ajunge uscați în hală.\n\nLa prânz mergem spre Piața Talos. De acolo sunt doar câțiva pași până la Cetatea Firka, minimizând timpul petrecut în ploaie.\n\nDupă-amiaza ne bucurăm de drumul de coastă, în timp ce ștergătoarele ne permit să vedem marea învolburată.\n\nÎncheiem ziua la Muzeul Arheologic. Parcarea mare de chiar în față face sosirea stres-free chiar și pe ploaie torențială.",
-            "en": "A car keeps you flexible in Chania during the rain. Park right by the Agora to reach the market hall dry.\n\nAt noon, drive to Talos Square. From there, it's just a few steps to the Firka Fortress, minimizing your time in the rain.\n\nIn the afternoon, enjoy the drive along the coastal road as the wipers clear the view of the stormy sea.\n\nFinish the day at the Archaeological Museum. The large parking lot right in front makes arrival stress-free even during a heavy downpour."
+            "en": "A car keeps you flexible in Chania during the rain. Park right by the Agora to reach the market hall dry.\n\nAt noon, drive to Talos Square. From there, it's just a few steps to the Firka Fortress, minimizing your time in the rain.\n\nIn the afternoon, enjoy the drive along the coastal road as the wipers clear the view of the stormy sea.\n\nFinish the day at the Archaeological Museum. The large parking lot right in front makes arrival stress-free even during a heavy downpour.",
+            "el": "Ένα αυτοκίνητο σε κρατά ευέλικτο στα Χανιά όταν βρέχει. Πάρκαρε δίπλα στην Αγορά για να φτάσεις στεγνός στην αίθουσα της αγοράς.\n\nΤο μεσημέρι, οδήγησε στην Πλατεία Τάλως. Από εκεί, είναι λίγα βήματα μέχρι το Φρούριο Φιρκά, μειώνοντας τον χρόνο στη βροχή.\n\nΤο απόγευμα, απόλαυσε τη διαδρομή κατά μήκος της παραλιακής οδού καθώς οι υαλοκαθαριστήρες ξεκαθαρίζουν τη θέα της θυελλώδους θάλασσας.\n\nΤέλειωσε τη μέρα στο Αρχαιολογικό Μουσείο. Ο μεγάλος χώρος στάθμευσης μπροστά κάνει την άφιξη χωρίς άγχος ακόμα και σε δυνατή βροχή."
           },
           "stops": [
             {
@@ -1496,7 +1610,8 @@
                 "de": "Enges Parkhaus, bei Regen oft voll. Früh kommen.",
                 "hu": "Szűk parkoló, esőben hamar megtelik. Érkezzen korán.",
                 "ro": "Parcare strâmtă, adesea plină pe ploaie. Veniți devreme.",
-                "en": "Tight parking area, often full when it rains. Arrive early."
+                "en": "Tight parking area, often full when it rains. Arrive early.",
+                "el": "Σφιχτός χώρος στάθμευσης, συχνά γεμάτος όταν βρέχει. Έλα νωρίς."
               }
             },
             {
@@ -1505,7 +1620,8 @@
                 "de": "Vom Parkplatz direkt unter die Markisen flüchten.",
                 "hu": "A parkolóból meneküljön rögtön az előtetők alá.",
                 "ro": "Refugiați-vă sub copertine imediat după ce parcați.",
-                "en": "Dash directly under the awnings from your car."
+                "en": "Dash directly under the awnings from your car.",
+                "el": "Τρέξε κατευθείαν κάτω από τα στεγάστρα από το αυτοκίνητο."
               }
             },
             {
@@ -1514,7 +1630,8 @@
                 "de": "Zufahrt beschränkt, nutzen Sie Parkplätze am Rand.",
                 "hu": "A behajtás korlátozott, használja a szélső parkolókat.",
                 "ro": "Acces restricționat, folosiți parcările de la margine.",
-                "en": "Access is restricted; use the perimeter parking lots."
+                "en": "Access is restricted; use the perimeter parking lots.",
+                "el": "Η πρόσβαση είναι περιορισμένη· χρησιμοποίησε τα περιμετρικά πάρκινγκ."
               }
             },
             {
@@ -1523,7 +1640,8 @@
                 "de": "Vorsicht beim Aussteigen, Pfützen bilden sich hier schnell.",
                 "hu": "Vigyázat kiszálláskor, itt gyorsan gyűlnek a tócsák.",
                 "ro": "Atenție la coborâre, bălțile se formează repede aici.",
-                "en": "Watch your step when exiting; puddles form quickly here."
+                "en": "Watch your step when exiting; puddles form quickly here.",
+                "el": "Πρόσεξε το βήμα όταν βγαίνεις· οι λακκούβες σχηματίζονται γρήγορα εδώ."
               }
             },
             {
@@ -1532,7 +1650,8 @@
                 "de": "Kurzer Fußweg vom Parkplatz, Schirm bereit halten.",
                 "hu": "Rövid séta a parkolótól, készítse ki az esernyőt.",
                 "ro": "Drum scurt pe jos de la parcare, pregătiți umbrela.",
-                "en": "Short walk from the car; have your umbrella ready."
+                "en": "Short walk from the car; have your umbrella ready.",
+                "el": "Σύντομος περίπατος από το αυτοκίνητο· έχεις ομπρέλα έτοιμη."
               }
             },
             {
@@ -1541,7 +1660,8 @@
                 "de": "Fahrt entlang der Kaimauer bei Sturm vermeiden.",
                 "hu": "Viharban kerülje az autóutat a rakpart mentén.",
                 "ro": "Evitați drumul pe lângă chei în timpul furtunilor.",
-                "en": "Avoid driving right along the quay during high winds."
+                "en": "Avoid driving right along the quay during high winds.",
+                "el": "Απόφυγε την οδήγηση κατά μήκος της προβλήτας σε ισχυρούς ανέμους."
               }
             }
           ],
@@ -1569,6 +1689,12 @@
               "Windows fog up quickly in the rain; keep the A/C running.",
               "Parking spots close to main attractions are in high demand when it rains.",
               "Watch out for pedestrians dashing across the street to avoid the rain."
+            ],
+            "el": [
+              "Χρησιμοποίησε υπόγειους χώρους στάθμευσης για φόρτωση/εκφόρτωση χωρίς να βραχείς.",
+              "Τα παράθυρα θα θολώσουν γρήγορα στη βροχή· κράτα το A/C αναμμένο.",
+              "Οι θέσεις κοντά στα κύρια αξιοθέατα είναι σε μεγάλη ζήτηση όταν βρέχει.",
+              "Πρόσεξε τους πεζούς που τρέχουν να αποφύγουν τη βροχή."
             ]
           }
         },
@@ -1577,7 +1703,8 @@
             "de": "Winterfahrten in Chania sind entspannt, da die Parkplatzsuche viel einfacher ist als im Sommer. Wir starten an der Agora.\n\nMittags ist die Fahrt zum Hafen ein Genuss. Die milde Sonne scheint durch die Windschutzscheibe, während wir einen Parkplatz direkt am Wasser finden.\n\nNachmittags erkunden wir die Festung. Das Auto dient als warme Basis, falls der Wind am Meer zu kühl wird.\n\nZum Abendessen beim Archäologischen Museum parken wir mühelos. Die winterliche Stadtbeleuchtung macht die Rückfahrt im Dunkeln sehr stimmungsvoll.",
             "hu": "A téli autózás Chaniában nyugodt, mert a parkolóhely-keresés sokkal egyszerűbb, mint nyáron. Az Agoránál kezdünk.\n\nDélben a kikötő felé autózni igazi élvezet. Az enyhe nap besüt a szélvédőn, és közvetlenül a vízparton találunk helyet.\n\nDélután az erődöt fedezzük fel. Az autó meleg bázisként szolgál, ha a tengerparti szél túl hűvössé válna.\n\nA Régészeti Múzeumnál való vacsorához könnyedén parkolunk. A téli városi fények hangulatossá teszik a sötétben való visszautat.",
             "ro": "Condusul iarna în Chania este relaxant, deoarece găsirea unui loc de parcare e mult mai ușoară. Începem la Agora.\n\nLa prânz, drumul spre port este o plăcere. Soarele blând strălucește prin parbriz în timp ce găsim parcare chiar lângă apă.\n\nDupă-amiaza explorăm cetatea. Mașina servește ca bază caldă dacă vântul de la malul mării devine prea rece.\n\nPentru cina de lângă Muzeul Arheologic parcăm fără efort. Luminile de iarnă ale orașului fac drumul de întoarcere pe întuneric foarte atmosferic.",
-            "en": "Winter driving in Chania is relaxed, as finding a parking spot is much easier than in summer. We start at the Agora.\n\nAt noon, the drive to the harbor is a treat. Mild sun shines through the windshield while we find a spot right by the water.\n\nIn the afternoon, explore the fortress. The car serves as a warm base if the sea wind gets too chilly.\n\nParking for dinner near the Archaeological Museum is effortless. The winter city lights make the drive back in the dark very atmospheric."
+            "en": "Winter driving in Chania is relaxed, as finding a parking spot is much easier than in summer. We start at the Agora.\n\nAt noon, the drive to the harbor is a treat. Mild sun shines through the windshield while we find a spot right by the water.\n\nIn the afternoon, explore the fortress. The car serves as a warm base if the sea wind gets too chilly.\n\nParking for dinner near the Archaeological Museum is effortless. The winter city lights make the drive back in the dark very atmospheric.",
+            "el": "Η χειμερινή οδήγηση στα Χανιά είναι χαλαρή, καθώς η εύρεση πάρκινγκ είναι πιο εύκολη απ’ ό,τι το καλοκαίρι. Ξεκινάμε από την Αγορά.\n\nΤο μεσημέρι, η διαδρομή προς το λιμάνι είναι απόλαυση. Ο απαλός ήλιος φωτίζει μέσα από το παρμπρίζ καθώς βρίσκουμε θέση δίπλα στο νερό.\n\nΤο απόγευμα, εξερεύνησε το φρούριο. Το αυτοκίνητο λειτουργεί ως ζεστή βάση αν η αλμύρα και ο θαλασσινός άνεμος κρυώνουν πολύ.\n\nΤο παρκάρισμα για δείπνο κοντά στο Αρχαιολογικό Μουσείο είναι χωρίς κόπο. Τα χειμερινά φώτα της πόλης κάνουν την επιστροφή μέσα στο σκοτάδι πολύ ατμοσφαιρική."
           },
           "stops": [
             {
@@ -1586,7 +1713,8 @@
                 "de": "Im Winter fast immer freie Plätze vorhanden.",
                 "hu": "Télen szinte mindig van szabad hely.",
                 "ro": "Iarna se găsesc aproape mereu locuri libere.",
-                "en": "Plenty of free spots available during the winter months."
+                "en": "Plenty of free spots available during the winter months.",
+                "el": "Πολλές ελεύθερες θέσεις διαθέσιμες κατά τους χειμερινούς μήνες."
               }
             },
             {
@@ -1595,7 +1723,8 @@
                 "de": "Kurz parken für den schnellen Kaffee-Einkauf ist kein Problem.",
                 "hu": "A gyors kávévásárláshoz való rövid parkolás nem gond.",
                 "ro": "Parcarea scurtă pentru o cafea rapidă nu e o problemă.",
-                "en": "Quick parking for a coffee run is easy in winter."
+                "en": "Quick parking for a coffee run is easy in winter.",
+                "el": "Γρήγορο παρκάρισμα για καφέ είναι εύκολο τον χειμώνα."
               }
             },
             {
@@ -1604,7 +1733,8 @@
                 "de": "Einbahnstraßen beachten, im Winter weniger Verkehrsregelung.",
                 "hu": "Figyeljen az egyirányú utcákra, télen kevesebb az ellenőrzés.",
                 "ro": "Atenție la sensurile unice, iarna sunt mai puține controale.",
-                "en": "Watch the one-way signs; traffic enforcement is lighter now."
+                "en": "Watch the one-way signs; traffic enforcement is lighter now.",
+                "el": "Πρόσεχε τις πινακίδες μονόδρομων· η τροχαία είναι πιο χαλαρή τώρα."
               }
             },
             {
@@ -1613,7 +1743,8 @@
                 "de": "Idealer Startpunkt, um den Sonnenuntergang im Auto abzuwarten.",
                 "hu": "Ideális pont a naplemente kivárásához az autóban.",
                 "ro": "Punct ideal pentru a aștepta apusul în mașină.",
-                "en": "Ideal spot to wait for the sunset from inside your car."
+                "en": "Ideal spot to wait for the sunset from inside your car.",
+                "el": "Ιδανικό σημείο να περιμένεις το ηλιοβασίλεμα μέσα στο αυτοκίνητό σου."
               }
             },
             {
@@ -1622,7 +1753,8 @@
                 "de": "Parken direkt am Eingang im Winter oft möglich.",
                 "hu": "Télen gyakran közvetlenül a bejáratnál is lehet parkolni.",
                 "ro": "Iarna este adesea posibilă parcarea chiar la intrare.",
-                "en": "Parking right by the entrance is often possible in winter."
+                "en": "Parking right by the entrance is often possible in winter.",
+                "el": "Το παρκάρισμα δίπλα στην είσοδο συχνά είναι εφικτό τον χειμώνα."
               }
             },
             {
@@ -1631,7 +1763,8 @@
                 "de": "Parken Sie weit weg von der Brandungszone bei Wind.",
                 "hu": "Szeles időben parkoljon távol a hullámveréstől.",
                 "ro": "Parcați departe de zona unde bat valurile dacă e vânt.",
-                "en": "Park away from the splash zone if it's windy."
+                "en": "Park away from the splash zone if it's windy.",
+                "el": "Πάρκαρε μακριά από τη ζώνη εκτόξευσης νερών αν φυσάει."
               }
             }
           ],
@@ -1659,6 +1792,12 @@
               "Mountain roads around Chania can be slick; city center is fine.",
               "Avoid leaving your car overnight by the harbor (salt spray risk).",
               "Car rental prices are extremely low in winter; use it to your advantage."
+            ],
+            "el": [
+              "Εκμεταλλεύσου την εκτός εποχής για να βρεις δωρεάν πάρκινγκ δίπλα στο λιμάνι.",
+              "Οι ορεινοί δρόμοι γύρω από τα Χανιά μπορεί να είναι γλιστεροί· το κέντρο της πόλης είναι εντάξει.",
+              "Απόφυγε να αφήνεις το αυτοκίνητο όλη νύχτα δίπλα στο λιμάνι (κίνδυνος θαλασσινής ψεκασμού).",
+              "Οι τιμές ενοικίασης αυτοκινήτων είναι πολύ χαμηλές τον χειμώνα· εκμεταλλεύσου το."
             ]
           }
         }
@@ -1677,7 +1816,8 @@
             "de": "Ankunft am Busbahnhof am Marktplatz",
             "hu": "Érkezés a buszmegállóba a Piactérnél",
             "ro": "Sosire la stația de autobuz de la Piață",
-            "en": "Arrival at Market Square Bus Stop"
+            "en": "Arrival at Market Square Bus Stop",
+            "el": "Άφιξη στη στάση λεωφορείου Πλατείας Αγοράς"
           },
           "coords": [
             24.0205,
@@ -1693,7 +1833,8 @@
             "de": "Dies ist ein Hauptknotenpunkt für Stadtbusse. Kaufen Sie hier Ihre Tageskarte.",
             "hu": "Ez a városi buszok egyik fő csomópontja. Itt vegye meg a napijegyét.",
             "ro": "Acesta este un nod principal pentru autobuzele urbane. Cumpărați-vă biletul de o zi de aici.",
-            "en": "This is a main hub for city buses. Buy your day pass here."
+            "en": "This is a main hub for city buses. Buy your day pass here.",
+            "el": "Αυτό είναι ένα κεντρικό κόμβος για αστικά λεωφορεία. Αγοράστε εδώ το ημερήσιο εισιτήριό σας."
           }
         },
         {
@@ -1701,7 +1842,8 @@
             "de": "Städtische Markthalle & Altstadt (Ost)",
             "hu": "Városi Vásárcsarnok és Óváros (Kelet)",
             "ro": "Piața Municipală și Orașul Vechi (Est)",
-            "en": "Municipal Market & Old Town (East)"
+            "en": "Municipal Market & Old Town (East)",
+            "el": "Δημοτική Αγορά & Παλιά Πόλη (Ανατολικά)"
           },
           "coords": [
             24.019,
@@ -1717,7 +1859,8 @@
             "de": "Erkunden Sie den ersten Cluster zu Fuß: den Markt und die umliegenden Gassen.",
             "hu": "Fedezze fel gyalog az első klasztert: a piacot és a környező sikátorokat.",
             "ro": "Explorați primul cluster pe jos: piața și aleile din jur.",
-            "en": "Explore the first cluster on foot: the market and its surrounding alleys."
+            "en": "Explore the first cluster on foot: the market and its surrounding alleys.",
+            "el": "Εξερευνήστε το πρώτο σύμπλεγμα με τα πόδια: την αγορά και τα γύρω σοκάκια."
           }
         },
         {
@@ -1725,7 +1868,8 @@
             "de": "Busfahrt zum Hafen",
             "hu": "Buszozás a kikötőbe",
             "ro": "Călătorie cu autobuzul spre port",
-            "en": "Bus ride to the Harbour"
+            "en": "Bus ride to the Harbour",
+            "el": "Μετακίνηση με λεωφορείο προς το Λιμάνι"
           },
           "coords": [
             24.0145,
@@ -1741,7 +1885,8 @@
             "de": "Nehmen Sie einen Bus vom Marktplatz in Richtung Westen zum Hafenviertel.",
             "hu": "Szálljon fel egy buszra a Piactérről nyugat felé a kikötő negyedbe.",
             "ro": "Luați un autobuz din Piața Pieței spre vest, spre cartierul portuar.",
-            "en": "Take a bus from the Market Square heading west to the harbour district."
+            "en": "Take a bus from the Market Square heading west to the harbour district.",
+            "el": "Πάρτε ένα λεωφορείο από την Πλατεία της Αγοράς προς τα δυτικά, προς τη συνοικία του λιμανιού."
           }
         },
         {
@@ -1749,7 +1894,8 @@
             "de": "Firka Festung & Schifffahrtsmuseum",
             "hu": "Firka erőd és Tengerészeti Múzeum",
             "ro": "Fortăreața Firka și Muzeul Maritim",
-            "en": "Firka Fortress & Maritime Museum"
+            "en": "Firka Fortress & Maritime Museum",
+            "el": "Φρούριο Φιρκά και Ναυτικό Μουσείο"
           },
           "coords": [
             24.015,
@@ -1765,7 +1911,8 @@
             "de": "Von der Bushaltestelle aus ist es nur ein kurzer Spaziergang zur Festung.",
             "hu": "A buszmegállótól csak egy rövid séta az erőd.",
             "ro": "De la stația de autobuz, este doar o scurtă plimbare până la fortăreață.",
-            "en": "It's a short walk from the bus stop to the fortress."
+            "en": "It's a short walk from the bus stop to the fortress.",
+            "el": "Είναι λίγα βήματα από τη στάση του λεωφορείου μέχρι το φρούριο."
           }
         },
         {
@@ -1773,7 +1920,8 @@
             "de": "Venezianischer Hafen & Mittagessen",
             "hu": "Velencei kikötő és ebéd",
             "ro": "Portul Venețian și prânz",
-            "en": "Venetian Harbour & Lunch"
+            "en": "Venetian Harbour & Lunch",
+            "el": "Βενετσιάνικο Λιμάνι & Γεύμα"
           },
           "coords": [
             24.0178,
@@ -1789,7 +1937,8 @@
             "de": "Finden Sie eine Taverne für ein gemütliches Mittagessen mit Blick auf das Wasser.",
             "hu": "Keressen egy tavernát egy kellemes ebédhez, kilátással a vízre.",
             "ro": "Găsiți o tavernă pentru un prânz relaxant cu vedere la apă.",
-            "en": "Find a taverna for a leisurely lunch overlooking the water."
+            "en": "Find a taverna for a leisurely lunch overlooking the water.",
+            "el": "Βρείτε μια ταβέρνα για ένα ήρεμο γεύμα με θέα στη θάλασσα."
           }
         },
         {
@@ -1797,7 +1946,8 @@
             "de": "Spaziergang zum Leuchtturm",
             "hu": "Séta a világítótoronyhoz",
             "ro": "Plimbare la Far",
-            "en": "Walk to the Lighthouse"
+            "en": "Walk to the Lighthouse",
+            "el": "Πεζοπορία προς τον Φάρο"
           },
           "coords": [
             24.018,
@@ -1813,7 +1963,8 @@
             "de": "Der lange Spaziergang entlang der Mole ist der Höhepunkt des Nachmittags.",
             "hu": "A hosszú séta a mólón a délután fénypontja.",
             "ro": "Plimbarea lungă de-a lungul digului este punctul culminant al după-amiezii.",
-            "en": "The long walk along the mole is the highlight of the afternoon."
+            "en": "The long walk along the mole is the highlight of the afternoon.",
+            "el": "Ο μακρύς περίπατος κατά μήκος του μόλου είναι το αποκορύφωμα της απογευματινής βόλτας."
           }
         }
       ],
@@ -1821,7 +1972,8 @@
         "de": "Nutzen Sie Chanias effizientes Bussystem. Beginnen Sie am Marktplatz, erkunden Sie den Markt und die Altstadt zu Fuß. Nehmen Sie dann einen kurzen Bus zum Hafen. Steigen Sie aus und gehen Sie zur Firka-Festung, Ihrem Tor zum westlichen Hafen. Verbringen Sie den Rest des Tages damit, diesen Bereich zu erkunden, genießen Sie ein Mittagessen am Hafen und machen Sie den ikonischen Spaziergang zum Leuchtturm. Diese Route kombiniert die Bequemlichkeit des Transports mit ausgedehnten, eindringlichen Spaziergängen durch die schönsten Gegenden der Stadt.",
         "hu": "Használja ki Chania hatékony buszrendszerét. Kezdje a Piactéren, fedezze fel gyalog a piacot és az óvárost. Ezután szálljon fel egy rövid buszra a kikötőbe. Szálljon le, és sétáljon a Firka erődhöz, a nyugati kikötő kapujához. Töltse a nap hátralévő részét ennek a területnek a felfedezésével, ebédeljen a kikötőben, és tegye meg az ikonikus sétát a világítótoronyhoz. Ez az útvonal ötvözi a közlekedés kényelmét a kiterjedt, magával ragadó sétákkal a város legszebb részein.",
         "ro": "Folosiți sistemul eficient de autobuze din Chania. Începeți din Piața Pieței, explorând piața și Orașul Vechi pe jos. Apoi, luați un autobuz pe o distanță scurtă până la port. Coborâți și mergeți la Fortăreața Firka, poarta dvs. de acces spre portul vestic. Petreceți restul zilei explorând această zonă, bucurându-vă de prânz la port și făcând plimbarea iconică până la Far. Acest traseu combină comoditatea transportului cu plimbări extinse și captivante prin cele mai frumoase zone ale orașului.",
-        "en": "Utilize Chania's efficient bus system. Start at the Market Square, exploring the market and Old Town on foot. Then, take a short bus ride to the harbour. Alight and walk to the Firka Fortress, your gateway to the western harbour. Spend the rest of the day exploring this area, enjoying lunch by the port, and taking the iconic walk to the lighthouse. This route combines the convenience of transit with extensive, immersive walks through the city's most beautiful areas."
+        "en": "Utilize Chania's efficient bus system. Start at the Market Square, exploring the market and Old Town on foot. Then, take a short bus ride to the harbour. Alight and walk to the Firka Fortress, your gateway to the western harbour. Spend the rest of the day exploring this area, enjoying lunch by the port, and taking the iconic walk to the lighthouse. This route combines the convenience of transit with extensive, immersive walks through the city's most beautiful areas.",
+        "el": "Χρησιμοποιήστε το αποδοτικό σύστημα λεωφορείων των Χανίων. Ξεκινήστε από την Πλατεία της Αγοράς, εξερευνώντας την αγορά και την Παλιά Πόλη με τα πόδια. Στη συνέχεια, πάρτε ένα σύντομο δρομολόγιο λεωφορείου προς το λιμάνι. Κατεβείτε και περπατήστε μέχρι το Φρούριο Φιρκά, την πύλη σας προς το δυτικό λιμάνι. Περάστε την υπόλοιπη μέρα εξερευνώντας την περιοχή, απολαμβάνοντας γεύμα στο λιμάνι και κάνοντας τον εμβληματικό περίπατο προς τον φάρο. Αυτή η διαδρομή συνδυάζει την άνεση των μέσων μεταφοράς με εκτενή, εμβυθιστικούς περιπάτους στα πιο όμορφα σημεία της πόλης."
       },
       "gastro_picks": {
         "de": [
@@ -2017,6 +2169,12 @@
           "Check the bus schedule in advance, especially for the evening.",
           "Buses can be crowded during peak season.",
           "Have small change ready for tickets if buying on board."
+        ],
+        "el": [
+          "Ένα ημερήσιο εισιτήριο συχνά κοστίζει λιγότερο από τα μεμονωμένα.",
+          "Ελέγξτε το πρόγραμμα των λεωφορείων εκ των προτέρων, ειδικά για το βράδυ.",
+          "Τα λεωφορεία μπορεί να είναι γεμάτα στην υψηλή περίοδο.",
+          "Έχετε μικρό ψιλά έτοιμα για εισιτήρια αν τα αγοράσετε επί του λεωφορείου."
         ]
       },
       "variants": {
@@ -2025,7 +2183,8 @@
             "de": "Der Bus ist die trockenste Art, Chania zu durchqueren. Wir warten im Schutz der Markthalle auf den ersten Bus.\n\nMittags bringt uns die Linie direkt in die Nähe des Hafens. Die kurzen Wege zwischen Haltestelle und Museum halten uns trocken.\n\nDen Nachmittag verbringen wir in der Firka-Festung. Das Maritime Museum bietet stundenlangen Schutz vor dem Regen.\n\nZum Abschluss nehmen wir den Bus zum Archäologischen Museum. Die modernen Fahrzeuge sind beheizt und bieten einen tollen Ausblick auf die verregnete Stadt.",
             "hu": "A busz a legszárazabb módja Chania átszelésének. A Piac csarnokában várjuk meg az indulást.\n\nDélben a járat közvetlenül a kikötő közelébe visz minket. A megálló és a múzeum közötti rövid távok szárazon tartanak.\n\nA délutánt a Firka-erődben töltjük. A Tengerészeti Múzeum órákig tartó védelmet nyújt az eső elől.\n\nZárásként busszal megyünk a Régészeti Múzeumba. A modern járművek fűtöttek, és remek kilátást nyújtanak az esős városra.",
             "ro": "Autobuzul este cel mai uscat mod de a traversa Chania. Așteptăm plecarea sub protecția halei Pieței.\n\nLa prânz, linia ne duce chiar lângă port. Distanțele scurte între stație și muzeu ne mențin uscați.\n\nDupă-amiaza o petrecem în Cetatea Firka. Muzeul Maritim oferă protecție împotriva ploii timp de ore întregi.\n\nLa final luăm autobuzul spre Muzeul Arheologic. Vehiculele moderne sunt încălzite și oferă o priveliște frumoasă asupra orașului ploios.",
-            "en": "The bus is the driest way to traverse Chania. We wait for our departure inside the shelter of the Market hall.\n\nAt noon, the line takes us right near the harbor. The short walks between stops and museums keep us dry.\n\nSpend the afternoon at the Firka Fortress. The Maritime Museum provides hours of protection from the rain.\n\nFinish by taking the bus to the Archaeological Museum. The modern vehicles are heated and offer a great view of the rainy city."
+            "en": "The bus is the driest way to traverse Chania. We wait for our departure inside the shelter of the Market hall.\n\nAt noon, the line takes us right near the harbor. The short walks between stops and museums keep us dry.\n\nSpend the afternoon at the Firka Fortress. The Maritime Museum provides hours of protection from the rain.\n\nFinish by taking the bus to the Archaeological Museum. The modern vehicles are heated and offer a great view of the rainy city.",
+            "el": "Το λεωφορείο είναι ο πιο στεγνός τρόπος για να διασχίσετε τα Χανιά. Περιμένουμε για την αναχώρηση μέσα στο προαύλιο της Αγοράς.\n\nΤο μεσημέρι, η γραμμή μας αφήνει κοντά στο λιμάνι. Οι σύντομοι περίπατοι μεταξύ στάσεων και μουσείων μας κρατούν στεγνούς.\n\nΠεράστε το απόγευμα στο Φρούριο Φιρκά. Το Ναυτικό Μουσείο παρέχει ώρες προστασίας από τη βροχή.\n\nΟλοκληρώστε παίρνοντας το λεωφορείο προς το Αρχαιολογικό Μουσείο. Τα σύγχρονα οχήματα είναι θερμαινόμενα και προσφέρουν καλή θέα της βροχερής πόλης."
           },
           "stops": [
             {
@@ -2034,7 +2193,8 @@
                 "de": "Warten Sie in der Markthalle, bis der Bus einfährt.",
                 "hu": "Várjon a Piac csarnokában, amíg beérkezik a busz.",
                 "ro": "Așteptați în hală până când sosește autobuzul.",
-                "en": "Wait inside the Market hall until the bus arrives."
+                "en": "Wait inside the Market hall until the bus arrives.",
+                "el": "Περιμένετε μέσα στο προαύλιο της Αγοράς μέχρι να φτάσει το λεωφορείο."
               }
             },
             {
@@ -2043,7 +2203,8 @@
                 "de": "Fahrkarten am Kiosk kaufen, um Zeit im Regen zu sparen.",
                 "hu": "Vegyen jegyet a kioszkban, hogy kevesebbet álljon az esőben.",
                 "ro": "Cumpărați bilete de la chioșc pentru a sta mai puțin în ploaie.",
-                "en": "Buy tickets at the kiosk to minimize time standing in the rain."
+                "en": "Buy tickets at the kiosk to minimize time standing in the rain.",
+                "el": "Αγοράστε εισιτήρια στο περίπτερο για να περιορίσετε τον χρόνο όρθια στη βροχή."
               }
             },
             {
@@ -2052,7 +2213,8 @@
                 "de": "Nutzen Sie die vorderen Sitze für bessere Sicht bei Regen.",
                 "hu": "Üljön előre a jobb kilátásért esős időben.",
                 "ro": "Stați în față pentru o vizibilitate mai bună pe ploaie.",
-                "en": "Sit near the front for better visibility through the rain."
+                "en": "Sit near the front for better visibility through the rain.",
+                "el": "Καθίστε κοντά στο μπροστινό μέρος για καλύτερη ορατότητα μέσα από τη βροχή."
               }
             },
             {
@@ -2061,7 +2223,8 @@
                 "de": "Haltestelle 'Talos' ist am nächsten zum Museum.",
                 "hu": "A 'Talos' megálló van a legközelebb a múzeumhoz.",
                 "ro": "Stația 'Talos' este cea mai apropiată de muzeu.",
-                "en": "The 'Talos' stop is the closest to the museum entrance."
+                "en": "The 'Talos' stop is the closest to the museum entrance.",
+                "el": "Η στάση 'Τάλως' είναι η πλησιέστερη στην είσοδο του μουσείου."
               }
             },
             {
@@ -2070,7 +2233,8 @@
                 "de": "Viele Restaurants am Hafen sind per Transit gut erreichbar.",
                 "hu": "Sok kikötői étterem könnyen elérhető tömegközlekedéssel.",
                 "ro": "Multe restaurante din port sunt ușor accesibile cu transportul.",
-                "en": "Many harbor restaurants are easily reachable by transit."
+                "en": "Many harbor restaurants are easily reachable by transit.",
+                "el": "Πολλά εστιατόρια του λιμανιού είναι εύκολα προσβάσιμα με μέσα μεταφοράς."
               }
             },
             {
@@ -2079,7 +2243,8 @@
                 "de": "Bei starkem Regen lieber im Museum bleiben.",
                 "hu": "Erős esőben maradjon inkább a múzeumban.",
                 "ro": "Pe ploaie torențială, mai bine rămâneți în muzeu.",
-                "en": "Stay in the museum if the rain is too heavy for the walk."
+                "en": "Stay in the museum if the rain is too heavy for the walk.",
+                "el": "Μείνετε στο μουσείο αν η βροχή είναι πολύ δυνατή για τον περίπατο."
               }
             }
           ],
@@ -2107,6 +2272,12 @@
               "Buses may run behind schedule in heavy rain; allow extra time.",
               "Keep a small umbrella handy for the walk to and from the stops.",
               "The central bus station has a large covered waiting area."
+            ],
+            "el": [
+              "Χρησιμοποιήστε την εφαρμογή KTEL για ενημερώσεις σε πραγματικό χρόνο κατά τις βροχοπτώσεις.",
+              "Τα λεωφορεία μπορεί να καθυστερούν σε έντονη βροχή· προβλέψτε επιπλέον χρόνο.",
+              "Κρατήστε μια μικρή ομπρέλα για τον περίπατο προς και από τις στάσεις.",
+              "Το κεντρικό σταθμό λεωφορείων έχει μεγάλο καλυμμένο χώρο αναμονής."
             ]
           }
         },
@@ -2115,7 +2286,8 @@
             "de": "Winterreisen mit dem Bus zeigen das authentische Chania. Wir starten an der Agora, wo der lokale Markttrubel beginnt.\n\nMittags bringt uns der Transit zum Hafen. Die Busse sind weniger voll, man findet immer einen Fensterplatz für die Stadtrundfahrt.\n\nNachmittags erkunden wir die Firka-Festung. Der Bus hält direkt am westlichen Rand der Altstadt, ideal für kurze Wege in der Kälte.\n\nWir beenden den Tag am Archäologischen Museum. Der Rückweg mit dem Abendbus bietet einen Blick auf die beleuchteten Weißen Berge in der Ferne.",
             "hu": "A téli buszozás Chania autentikus arcát mutatja meg. Az Agoránál kezdünk, ahol a helyi piaci élet zajlik.\n\nDélben a járat a kikötőhöz visz. A buszok kevésbé tömöttek, mindig jut ablak melletti hely a városnézéshez.\n\nDélután a Firka-erődöt fedezzük fel. A busz az óváros nyugati szélén áll meg, ideális a hidegben való rövid sétákhoz.\n\nA napot a Régészeti Múzeumban zárjuk. Az esti busszal való hazatéréskor látszanak a távoli megvilágított Fehér-hegyek.",
             "ro": "Călătoria cu autobuzul iarna arată fața autentică a Chaniei. Începem la Agora, unde se desfășoară viața locală.\n\nLa prânz, transportul ne duce spre port. Autobuzele sunt mai libere, găsiți mereu loc la geam pentru turul orașului.\n\nDupă-amiaza explorăm Cetatea Firka. Autobuzul oprește la marginea de vest a orașului vechi, ideal pentru plimbări scurte în frig.\n\nÎncheiem ziua la Muzeul Arheologic. Drumul de întoarcere cu autobuzul de seară oferă o vedere spre Munții Albi iluminați.",
-            "en": "Winter bus trips show the authentic side of Chania. We start at the Agora, where local market life begins.\n\nAt noon, transit takes us to the harbor. The buses are less crowded, and you'll always find a window seat for a mini city tour.\n\nIn the afternoon, explore the Firka Fortress. The bus stops right at the western edge of the Old Town, ideal for short walks in the cold.\n\nFinish the day at the Archaeological Museum. The return trip on the evening bus offers a view of the illuminated White Mountains."
+            "en": "Winter bus trips show the authentic side of Chania. We start at the Agora, where local market life begins.\n\nAt noon, transit takes us to the harbor. The buses are less crowded, and you'll always find a window seat for a mini city tour.\n\nIn the afternoon, explore the Firka Fortress. The bus stops right at the western edge of the Old Town, ideal for short walks in the cold.\n\nFinish the day at the Archaeological Museum. The return trip on the evening bus offers a view of the illuminated White Mountains.",
+            "el": "Οι χειμερινές διαδρομές με λεωφορείο δείχνουν την αυθεντική πλευρά των Χανίων. Ξεκινάμε στην Αγορά, όπου αρχίζει η τοπική ζωή.\n\nΤο μεσημέρι, τα μέσα μας μεταφέρουν στο λιμάνι. Τα λεωφορεία είναι λιγότερο γεμάτα και πάντα θα βρείτε θέση δίπλα στο παράθυρο για μίνι ξενάγηση της πόλης.\n\nΤο απόγευμα, εξερευνήστε το Φρούριο Φιρκά. Η στάση είναι ακριβώς στην δυτική άκρη της Παλιάς Πόλης, ιδανική για σύντομους περιπάτους στο κρύο.\n\nΟλοκληρώστε τη μέρα στο Αρχαιολογικό Μουσείο. Το ταξίδι της επιστροφής με το βραδινό λεωφορείο προσφέρει θέα στα φωτισμένα Λευκά Όρη."
           },
           "stops": [
             {
@@ -2124,7 +2296,8 @@
                 "de": "Busse fahren im Winter nach dem Nebensaison-Fahrplan.",
                 "hu": "A buszok télen az utószezoni menetrend szerint járnak.",
                 "ro": "Autobuzele circulă iarna după programul de extrasezon.",
-                "en": "Buses follow the off-season schedule during winter months."
+                "en": "Buses follow the off-season schedule during winter months.",
+                "el": "Τα λεωφορεία ακολουθούν τα εκτός σεζόν δρομολόγια κατά τη διάρκεια του χειμώνα."
               }
             },
             {
@@ -2133,7 +2306,8 @@
                 "de": "Fragen Sie den Fahrer nach dem 'Winter Schedule'.",
                 "hu": "Kérdezze a sofőrt a téli menetrendről.",
                 "ro": "Întrebați șoferul despre orarul de iarnă.",
-                "en": "Ask the driver about the specific 'Winter Schedule'."
+                "en": "Ask the driver about the specific 'Winter Schedule'.",
+                "el": "Ρωτήστε τον οδηγό για το συγκεκριμένο 'Χειμερινό Πρόγραμμα'."
               }
             },
             {
@@ -2142,7 +2316,8 @@
                 "de": "Fensterplatz auf der rechten Seite für Hafenblick wählen.",
                 "hu": "Válasszon ablak melletti helyet a jobb oldalon a kikötői kilátásért.",
                 "ro": "Alegeți loc la geam pe partea dreaptă pentru vederea spre port.",
-                "en": "Pick a window seat on the right for views of the harbor."
+                "en": "Pick a window seat on the right for views of the harbor.",
+                "el": "Επιλέξτε θέση δίπλα στο παράθυρο δεξιά για θέα στο λιμάνι."
               }
             },
             {
@@ -2151,7 +2326,8 @@
                 "de": "Im Winter halten Busse oft flexibler auf Verlangen.",
                 "hu": "Télen a buszok gyakran rugalmasabbak kérésre.",
                 "ro": "Iarna, autobuzele pot opri mai flexibil la cerere.",
-                "en": "In winter, drivers might stop more flexibly upon request."
+                "en": "In winter, drivers might stop more flexibly upon request.",
+                "el": "Τον χειμώνα οι οδηγοί μπορεί να σταματούν πιο ευέλικτα κατόπιν αιτήματος."
               }
             },
             {
@@ -2160,7 +2336,8 @@
                 "de": "Haltestellen am Hafen sind im Winter windgepeitscht.",
                 "hu": "A kikötői megállók télen nagyon szelesek lehetnek.",
                 "ro": "Stațiile din port pot fi foarte bătute de vânt iarna.",
-                "en": "Harbor bus stops can be very windy in winter; stay inside."
+                "en": "Harbor bus stops can be very windy in winter; stay inside.",
+                "el": "Οι στάσεις στο λιμάνι μπορεί να είναι πολύ ανεμώδεις τον χειμώνα· μείνετε μέσα."
               }
             },
             {
@@ -2169,7 +2346,8 @@
                 "de": "Abendbusse fahren seltener, Fahrplan im Auge behalten.",
                 "hu": "Az esti buszok ritkábban járnak, figyelje a menetrendet.",
                 "ro": "Autobuzele de seară circulă mai rar, verificați orarul.",
-                "en": "Evening buses run less frequently; keep an eye on the time."
+                "en": "Evening buses run less frequently; keep an eye on the time.",
+                "el": "Τα βραδινά λεωφορεία περνούν λιγότερο συχνά· προσέξτε την ώρα."
               }
             }
           ],
@@ -2197,6 +2375,12 @@
               "Buses are well-heated in winter and very comfortable.",
               "Lines 11 and 15 are the most important connections to the center.",
               "Use waiting time to grab a quick 'Koulouri' snack from a bakery."
+            ],
+            "el": [
+              "Τα εισιτήρια μπορούν συχνά να αγοραστούν απευθείας από τον οδηγό (πιο ακριβά).",
+              "Τα λεωφορεία είναι καλά θερμαινόμενα το χειμώνα και πολύ άνετα.",
+              "Οι γραμμές 11 και 15 είναι οι πιο σημαντικές συνδέσεις με το κέντρο.",
+              "Χρησιμοποιήστε τον χρόνο αναμονής για να πάρετε ένα γρήγορο «Κουλούρι» από αρτοποιείο."
             ]
           }
         }

@@ -21,7 +21,8 @@
             "de": "Platz des Friedens (Irini)",
             "hu": "Béke tér (Irini)",
             "ro": "Piața Păcii (Irini)",
-            "en": "Peace Square (Irini)"
+            "en": "Peace Square (Irini)",
+            "el": "Πλατεία Ειρήνης (Ίρινη)"
           },
           "coords": [
             25.4053,
@@ -37,7 +38,8 @@
             "de": "Starten Sie den Tag mit einem griechischen Kaffee in einem der vielen Cafés am Platz.",
             "hu": "Indítsa a napot egy görög kávéval a tér egyik kávézójában.",
             "ro": "Începeți ziua cu o cafea grecească la una dintre numeroasele cafenele din piață.",
-            "en": "Start your day with a Greek coffee at one of the many cafes lining the square."
+            "en": "Start your day with a Greek coffee at one of the many cafes lining the square.",
+            "el": "Ξεκινήστε τη μέρα σας με έναν ελληνικό καφέ σε ένα από τα πολλά καφέ της πλατείας."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Neue Moschee (Yeni Camii)",
             "hu": "Új Mecset (Yeni Camii)",
             "ro": "Moscheea Nouă (Yeni Camii)",
-            "en": "New Mosque (Yeni Camii)"
+            "en": "New Mosque (Yeni Camii)",
+            "el": "Νέο Τζαμί (Yeni Camii)"
           },
           "coords": [
             25.406,
@@ -61,7 +64,8 @@
             "de": "Achten Sie auf die beeindruckende Kalligrafie und die osmanische Architektur.",
             "hu": "Figyelje meg a lenyűgöző kalligráfiát és az oszmán építészetet.",
             "ro": "Observați caligrafia impresionantă și arhitectura otomană.",
-            "en": "Pay attention to the impressive calligraphy and Ottoman architecture."
+            "en": "Pay attention to the impressive calligraphy and Ottoman architecture.",
+            "el": "Δώστε προσοχή στην εντυπωσιακή καλλιγραφία και την οθωμανική αρχιτεκτονική."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Uhrturm von Komotini",
             "hu": "Komotini Óratornya",
             "ro": "Turnul cu Ceas din Komotini",
-            "en": "Clock Tower of Komotini"
+            "en": "Clock Tower of Komotini",
+            "el": "Ρολογιού της Κομοτηνής"
           },
           "coords": [
             25.405,
@@ -85,7 +90,8 @@
             "de": "Der Turm ist ein toller Orientierungspunkt und ein beliebtes Fotomotiv.",
             "hu": "A torony remek tájékozódási pont és népszerű fotótéma.",
             "ro": "Turnul este un punct de reper excelent și un loc popular pentru fotografii.",
-            "en": "The tower serves as a great landmark and a popular photo spot."
+            "en": "The tower serves as a great landmark and a popular photo spot.",
+            "el": "Ο πύργος αποτελεί εξαιρετικό σημείο αναφοράς και δημοφιλή τόπο για φωτογραφίες."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Alte Moschee (Eski Camii)",
             "hu": "Régi Mecset (Eski Camii)",
             "ro": "Moscheea Veche (Eski Camii)",
-            "en": "Old Mosque (Eski Camii)"
+            "en": "Old Mosque (Eski Camii)",
+            "el": "Παλαιό Τζαμί (Eski Camii)"
           },
           "coords": [
             25.4035,
@@ -109,7 +116,8 @@
             "de": "Eine der ältesten osmanischen Bauten in der Region, erbaut um 1608.",
             "hu": "A régió egyik legrégebbi oszmán építménye, 1608 körül épült.",
             "ro": "Una dintre cele mai vechi clădiri otomane din regiune, construită în jurul anului 1608.",
-            "en": "One of the oldest Ottoman structures in the region, built around 1608."
+            "en": "One of the oldest Ottoman structures in the region, built around 1608.",
+            "el": "Ένα από τα παλαιότερα οθωμανικά κτίσματα της περιοχής, κτισμένο γύρω στο 1608."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Imaret von Komotini",
             "hu": "Komotini Imaret",
             "ro": "Imaretul din Komotini",
-            "en": "Imaret of Komotini"
+            "en": "Imaret of Komotini",
+            "el": "Ιμάρετ της Κομοτηνής"
           },
           "coords": [
             25.402,
@@ -133,7 +142,8 @@
             "de": "Heute ein Kirchenmuseum, einst eine Suppenküche für die Armen.",
             "hu": "Ma egyházi múzeum, egykor szegénykonyha volt.",
             "ro": "Astăzi un muzeu bisericesc, a fost cândva o cantină pentru săraci.",
-            "en": "Now an ecclesiastical museum, it was once a soup kitchen for the poor."
+            "en": "Now an ecclesiastical museum, it was once a soup kitchen for the poor.",
+            "el": "Σήμερα εκκλησιαστικό μουσείο, κάποτε ήταν συσσίτιο για τους φτωχούς."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Byzantinische Stadtmauer",
             "hu": "Bizánci városfal",
             "ro": "Zidul Cetății Bizantine",
-            "en": "Byzantine Fortress Wall"
+            "en": "Byzantine Fortress Wall",
+            "el": "Βυζαντινά Τείχη Φρουρίου"
           },
           "coords": [
             25.401,
@@ -157,7 +168,8 @@
             "de": "Bietet einen Einblick in die befestigte Vergangenheit der Stadt.",
             "hu": "Betekintést nyújt a város erődített múltjába.",
             "ro": "Oferă o privire asupra trecutului fortificat al orașului.",
-            "en": "Offers a glimpse into the city's fortified past."
+            "en": "Offers a glimpse into the city's fortified past.",
+            "el": "Δίνουν μια εικόνα του οχυρωμένου παρελθόντος της πόλης."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Archäologisches Museum",
             "hu": "Régészeti Múzeum",
             "ro": "Muzeul de Arheologie",
-            "en": "Archaeological Museum"
+            "en": "Archaeological Museum",
+            "el": "Αρχαιολογικό Μουσείο"
           },
           "coords": [
             25.408,
@@ -181,7 +194,8 @@
             "de": "Entdecken Sie Artefakte von der Jungsteinzeit bis zur byzantinischen Zeit.",
             "hu": "Fedezze fel a neolitikumtól a bizánci korig származó leleteket.",
             "ro": "Descoperiți artefacte din perioada neolitică până în perioada bizantină.",
-            "en": "Discover artifacts from the Neolithic to the Byzantine period."
+            "en": "Discover artifacts from the Neolithic to the Byzantine period.",
+            "el": "Ανακαλύψτε αντικείμενα από τη Νεολιθική έως τη Βυζαντινή περίοδο."
           }
         },
         {
@@ -189,7 +203,8 @@
             "de": "Agia Paraskevi Park",
             "hu": "Agia Paraskevi Park",
             "ro": "Parcul Agia Paraskevi",
-            "en": "Agia Paraskevi Park"
+            "en": "Agia Paraskevi Park",
+            "el": "Πάρκο Αγίας Παρασκευής"
           },
           "coords": [
             25.412,
@@ -205,7 +220,8 @@
             "de": "Ein perfekter Ort zum Entspannen nach einem langen Spaziergang.",
             "hu": "Tökéletes hely a pihenésre egy hosszú séta után.",
             "ro": "Un loc perfect pentru a vă relaxa după o plimbare lungă.",
-            "en": "A perfect spot to relax after a long walk."
+            "en": "A perfect spot to relax after a long walk.",
+            "el": "Ένα τέλειο σημείο για χαλάρωση μετά από έναν μεγάλο περίπατο."
           }
         }
       ],
@@ -213,7 +229,8 @@
         "de": "Ihr Spaziergang durch Komotini beginnt am lebhaften Irini-Platz, dem Herzen der Stadt. Von dort aus tauchen Sie in die osmanische Geschichte ein und besuchen die Neue und Alte Moschee sowie den imposanten Uhrturm. Am Vormittag erkunden Sie das historische Imaret und die Überreste der byzantinischen Festung, die von der vielschichtigen Vergangenheit der Stadt zeugen. Nach dem Mittagessen widmen Sie sich den kulturellen Schätzen im Archäologischen Museum, das Artefakte aus Jahrtausenden beherbergt. Der Tag endet entspannt im grünen Agia-Paraskevi-Park, wo Sie die gesammelten Eindrücke Revue passieren lassen können.",
         "hu": "Komotini-i sétája a nyüzsgő Irini téren, a város szívében kezdődik. Innen elmerülhet az oszmán történelemben, meglátogatva az Új és Régi Mecsetet, valamint a lenyűgöző Óratornyot. A délelőtt folyamán felfedezi a történelmi Imaretet és a bizánci erőd maradványait, amelyek a város sokrétű múltjáról tanúskodnak. Ebéd után a kulturális kincsek felé veszi az irányt a Régészeti Múzeumban, amely évezredek leleteit őrzi. A napot az zöld Agia Paraskevi Parkban zárja, ahol feldolgozhatja a gyűjtött élményeket.",
         "ro": "Plimbarea dvs. prin Komotini începe în vibranta Piață Irini, inima orașului. De acolo, vă veți cufunda în istoria otomană vizitând Moscheea Nouă și Veche, precum și impresionantul Turn cu Ceas. În cursul dimineții, explorați Imaretul istoric și rămășițele fortăreței bizantine, care mărturisesc despre trecutul complex al orașului. După prânz, vă dedicați comorilor culturale la Muzeul de Arheologie, care adăpostește artefacte de milenii. Ziua se încheie relaxant în verdele Parc Agia Paraskevi, unde puteți reflecta asupra impresiilor adunate.",
-        "en": "Your walking tour of Komotini begins at the vibrant Irini Square, the heart of the city. From there, you'll dive into Ottoman history by visiting the New and Old Mosques and the imposing Clock Tower. In the morning, you'll explore the historic Imaret and the remnants of the Byzantine fortress, which testify to the city's layered past. After lunch, you'll turn to the cultural treasures at the Archaeological Museum, home to millennia of artifacts. The day concludes with a relaxing stroll in the green Agia Paraskevi Park, where you can reflect on your experiences."
+        "en": "Your walking tour of Komotini begins at the vibrant Irini Square, the heart of the city. From there, you'll dive into Ottoman history by visiting the New and Old Mosques and the imposing Clock Tower. In the morning, you'll explore the historic Imaret and the remnants of the Byzantine fortress, which testify to the city's layered past. After lunch, you'll turn to the cultural treasures at the Archaeological Museum, home to millennia of artifacts. The day concludes with a relaxing stroll in the green Agia Paraskevi Park, where you can reflect on your experiences.",
+        "el": "Η περιπατητική σας ξενάγηση στην Κομοτηνή ξεκινά στην ζωντανή Πλατεία Ειρήνης, την καρδιά της πόλης. Από εκεί, θα βυθιστείτε στην οθωμανική ιστορία επισκεπτόμενοι τα Νέο και Παλαιό Τζαμί και τον επιβλητικό Πύργο του Ρολογιού. Το πρωί θα εξερευνήσετε το ιστορικό Ιμάρετ και τα ερείπια του βυζαντινού φρουρίου, που μαρτυρούν το πολλαπλό παρελθόν της πόλης. Μετά το μεσημεριανό, θα στραφείτε στα πολιτιστικά θησαυρίσματα του Αρχαιολογικού Μουσείου, που φιλοξενεί χιλιάδες χρόνια ευρημάτων. Η μέρα ολοκληρώνεται με έναν χαλαρό περίπατο στο καταπράσινο Πάρκο Αγίας Παρασκευής, όπου μπορείτε να επεξεργαστείτε τις εντυπώσεις σας."
       },
       "gastro_picks": {
         "de": [
@@ -409,6 +426,12 @@
           "Always carry a bottle of water, especially during the summer months.",
           "Respect the religious sites and dress appropriately (shoulders and knees covered).",
           "Be sure to try a frappé, the Greek iced coffee, for refreshment."
+        ],
+        "el": [
+          "Φορέστε άνετα παπούτσια, καθώς οι λιθόστρωτοι δρόμοι στην παλιά πόλη μπορεί να είναι ανώμαλοι.",
+          "Φορέστε πάντα ένα μπουκάλι νερό, ειδικά τους καλοκαιρινούς μήνες.",
+          "Σεβαστείτε τους θρησκευτικούς χώρους και ντυθείτε κατάλληλα (ώμοι και γόνατα καλυμμένα).",
+          "Φροντίστε να δοκιμάσετε ένα φραπέ, τον ελληνικό παγωμένο καφέ, για δροσιά."
         ]
       },
       "variants": {
@@ -417,7 +440,8 @@
             "de": "Beginnen Sie Ihren regnerischen Morgen am Irini-Platz, wo zahlreiche Cafés mit Markisen Schutz bieten. Besuchen Sie die Yeni Camii und den Uhrturm, die nah beieinander liegen. Mittags bietet das Imaret ein weitläufiges, überdachtes historisches Erlebnis. Am Nachmittag ist das Archäologische Museum der ideale Rückzugsort vor dem Wetter, bevor Sie den Tag im Agia Paraskevi Park beenden.",
             "hu": "Kezdje az esős reggelt a Béke téren, ahol a kávézók ponyvái alatt figyelheti a várost. Az Új Mecset és az Óratorony közel fekszenek egymáshoz, így kevés az ázási idő. Délben az Imaret fedett terei nyújtanak történelmi menedéket. Délután a Régészeti Múzeum gazdag kiállítása tökéletes program esőben, a napot pedig az Agia Paraskevi Park fái között zárhatja.",
             "ro": "Începeți dimineața ploioasă în Piața Irini, unde cafenelele cu copertine oferă adăpost. Vizitați Noua Moschee și Turnul Ceasului, aflate la mică distanță. La prânz, Imaretul oferă o experiență istorică acoperită. După-amiaza, Muzeul Arheologic este refugiul ideal împotriva vremii, înainte de a încheia ziua în Parcul Agia Paraskevi sub protecția arborilor.",
-            "en": "Start your rainy morning at Peace Square, where cafes with awnings provide shelter. Visit the New Mosque and Clock Tower, which are closely situated to minimize exposure. Midday, the Imaret offers a vast, covered historical experience. In the afternoon, the Archaeological Museum is the perfect indoor retreat before finishing the day at Agia Paraskevi Park's sheltered paths."
+            "en": "Start your rainy morning at Peace Square, where cafes with awnings provide shelter. Visit the New Mosque and Clock Tower, which are closely situated to minimize exposure. Midday, the Imaret offers a vast, covered historical experience. In the afternoon, the Archaeological Museum is the perfect indoor retreat before finishing the day at Agia Paraskevi Park's sheltered paths.",
+            "el": "Ξεκινήστε τη βροχερή πρωινή σας βόλτα από την Πλατεία Ειρήνης, όπου τα καφέ με τέντες προσφέρουν καταφύγιο. Επισκεφτείτε το Νέο Τζαμί και τον Πύργο του Ρολογιού που βρίσκονται κοντά ώστε να μειώσετε την έκθεση στη βροχή. Το μεσημέρι, το Ιμάρετ προσφέρει μια μεγάλη, καλυμμένη ιστορική εμπειρία. Το απόγευμα, το Αρχαιολογικό Μουσείο είναι η ιδανική εσωτερική κατοικία πριν τελειώσετε τη μέρα σε μονοπάτια με στέγαστρο στο Πάρκο Αγίας Παρασκευής."
           },
           "stops": [
             {
@@ -426,7 +450,8 @@
                 "de": "Suchen Sie Schutz in den Arkaden der umliegenden Cafés.",
                 "hu": "Keressen menedéket a környékbeli kávézók árkádjai alatt.",
                 "ro": "Căutați adăpost sub arcadele cafenelelor din jur.",
-                "en": "Seek shelter under the arcades of the surrounding cafes."
+                "en": "Seek shelter under the arcades of the surrounding cafes.",
+                "el": "Αναζητήστε καταφύγιο κάτω από τα αψιδωτά περάσματα των γύρω καφέ."
               }
             },
             {
@@ -435,7 +460,8 @@
                 "de": "Ein ruhiger, trockener Ort mit beeindruckenden Teppichen.",
                 "hu": "Csendes, száraz hely, lenyűgöző szőnyegekkel.",
                 "ro": "Un loc liniștit și uscat, cu covoare impresionante.",
-                "en": "A quiet, dry spot with impressive carpets."
+                "en": "A quiet, dry spot with impressive carpets.",
+                "el": "Ένας ήσυχος, στεγνός χώρος με εντυπωσιακά χαλιά."
               }
             },
             {
@@ -444,7 +470,8 @@
                 "de": "Kurzer Fotostopp; halten Sie den Regenschirm bereit.",
                 "hu": "Gyors fotómegálló; tartsa készenlétben az esernyőt.",
                 "ro": "Oprire scurtă pentru poze; țineți umbrela la îndemână.",
-                "en": "Quick photo stop; keep your umbrella ready."
+                "en": "Quick photo stop; keep your umbrella ready.",
+                "el": "Γρήγορη στάση για φωτογραφία· κρατήστε την ομπρέλα έτοιμη."
               }
             },
             {
@@ -453,7 +480,8 @@
                 "de": "Das Innere bietet Schutz und spirituelle Ruhe.",
                 "hu": "A belső tér védelmet és spirituális nyugalmat ad.",
                 "ro": "Interiorul oferă protecție și liniște spirituală.",
-                "en": "The interior provides shelter and spiritual calm."
+                "en": "The interior provides shelter and spiritual calm.",
+                "el": "Το εσωτερικό παρέχει καταφύγιο και πνευματική γαλήνη."
               }
             },
             {
@@ -462,7 +490,8 @@
                 "de": "Massive Steinmauern halten Sie während der Besichtigung trocken.",
                 "hu": "A masszív kőfalak szárazon tartják a látogatás alatt.",
                 "ro": "Zidurile masive de piatră vă mențin uscat în timpul vizitei.",
-                "en": "Massive stone walls keep you dry during the visit."
+                "en": "Massive stone walls keep you dry during the visit.",
+                "el": "Μαζικοί λίθινοι τοίχοι σας κρατούν στεγνούς κατά την επίσκεψη."
               }
             },
             {
@@ -471,7 +500,8 @@
                 "de": "Vorsicht auf den rutschigen Steinen bei Nässe.",
                 "hu": "Vigyázat, a nedves kövek csúszósak lehetnek.",
                 "ro": "Atenție la pietrele alunecoase când sunt ude.",
-                "en": "Be careful on the slippery stones when wet."
+                "en": "Be careful on the slippery stones when wet.",
+                "el": "Προσέξτε στις ολισθηρές πέτρες όταν είναι βρεγμένες."
               }
             },
             {
@@ -480,7 +510,8 @@
                 "de": "Der perfekte Ort, um einen heftigen Schauer abzuwarten.",
                 "hu": "Tökéletes hely egy nagyobb zápor kivárására.",
                 "ro": "Locul perfect pentru a aștepta trecerea unei averse.",
-                "en": "The perfect place to wait out a heavy downpour."
+                "en": "The perfect place to wait out a heavy downpour.",
+                "el": "Το τέλειο μέρος για να περιμένετε μια δυνατή μπόρα."
               }
             },
             {
@@ -489,7 +520,8 @@
                 "de": "Die dichten Baumkronen bieten natürlichen Regenschutz.",
                 "hu": "A sűrű lombozat természetes védelmet nyújt az eső ellen.",
                 "ro": "Coroanele dese ale copacilor oferă protecție naturală.",
-                "en": "Dense tree canopies offer natural rain protection."
+                "en": "Dense tree canopies offer natural rain protection.",
+                "el": "Πυκνά φυλλώματα δέντρων προσφέρουν φυσική προστασία από τη βροχή."
               }
             }
           ],
@@ -517,6 +549,12 @@
               "Use the cafes at Peace Square as base points.",
               "Museums are often closed on Mondays, check the hours.",
               "A compact umbrella is ideal for the short distances."
+            ],
+            "el": [
+              "Φορέστε αδιάβροχα παπούτσια για τους λιθόστρωτους δρόμους.",
+              "Χρησιμοποιήστε τα καφέ στην Πλατεία Ειρήνης ως σημεία βάσης.",
+              "Τα μουσεία συχνά είναι κλειστά Δευτέρα· ελέγξτε τις ώρες λειτουργίας.",
+              "Μια συμπαγής ομπρέλα είναι ιδανική για τις μικρές αποστάσεις."
             ]
           }
         },
@@ -525,7 +563,8 @@
             "de": "Ein klarer Wintermorgen beginnt frisch am belebten Irini-Platz. Wärmen Sie sich mit einem griechischen Kaffee auf, bevor Sie die Moscheen und den Uhrturm besichtigen. Mittags lädt das Imaret zu einer Reise in die osmanische Vergangenheit ein. Da die Sonne gegen 17:00 Uhr untergeht, besuchen Sie das Museum am frühen Nachmittag und genießen Sie die abendliche Beleuchtung an der Festungsmauer.",
             "hu": "A friss téli reggel a nyüzsgő Béke téren indul. Melegedjen fel egy görög kávéval a mecsetek és az Óratorony meglátogatása előtt. Délben az Imaret invitál oszmán múltba repítő sétára. Mivel a nap 17:00 körül nyugszik, látogassa meg a múzeumot kora délután, majd élvezze a várfal esti kivilágítását a park felé menet.",
             "ro": "O dimineață răcoroasă de iarnă începe în Piața Irini. Încălziți-vă cu o cafea grecească înainte de a vizita moscheile și Turnul Ceasului. La prânz, Imaretul vă invită la o călătorie în trecutul otoman. Deoarece soarele apune în jur de ora 17:00, vizitați muzeul devreme și bucurați-vă de iluminarea cetății seara.",
-            "en": "A crisp winter morning starts at the bustling Peace Square. Warm up with a Greek coffee before visiting the mosques and Clock Tower. Midday, the Imaret invites you on a journey into the Ottoman past. Since the sun sets around 17:00, visit the museum in the early afternoon and enjoy the evening lights of the fortress wall."
+            "en": "A crisp winter morning starts at the bustling Peace Square. Warm up with a Greek coffee before visiting the mosques and Clock Tower. Midday, the Imaret invites you on a journey into the Ottoman past. Since the sun sets around 17:00, visit the museum in the early afternoon and enjoy the evening lights of the fortress wall.",
+            "el": "Ένα δροσερό χειμωνιάτικο πρωινό ξεκινά στην πολυσύχναστη Πλατεία Ειρήνης. Ζεσταθείτε με έναν ελληνικό καφέ πριν επισκεφθείτε τα τζαμιά και τον Πύργο του Ρολογιού. Το μεσημέρι, το Ιμάρετ σας καλεί σε ένα ταξίδι στο οθωμανικό παρελθόν. Επειδή ο ήλιος δύει γύρω στις 17:00, επισκεφτείτε το μουσείο νωρίς το απόγευμα και απολαύστε τα βραδινά φώτα των τειχών του φρουρίου."
           },
           "stops": [
             {
@@ -534,7 +573,8 @@
                 "de": "Genießen Sie einen heißen Salep bei einem Straßenverkäufer.",
                 "hu": "Kóstoljon meg egy forró szaleppet egy utcai árusnál.",
                 "ro": "Savurați un salep fierbinte de la un vânzător ambulant.",
-                "en": "Enjoy a hot salep from a street vendor."
+                "en": "Enjoy a hot salep from a street vendor.",
+                "el": "Απολαύστε ένα ζεστό σαλέπ από πλανόδιο πωλητή."
               }
             },
             {
@@ -543,7 +583,8 @@
                 "de": "Die dicken Mauern halten die Kälte draußen.",
                 "hu": "A vastag falak kívül tartják a téli hideget.",
                 "ro": "Zidurile groase țin frigul la distanță.",
-                "en": "The thick walls keep the winter cold outside."
+                "en": "The thick walls keep the winter cold outside.",
+                "el": "Οι παχιές τοιχοποιίες κρατούν έξω το χειμερινό κρύο."
               }
             },
             {
@@ -552,7 +593,8 @@
                 "de": "Das Winterlicht bietet tolle Kontraste für Fotos.",
                 "hu": "A téli fények remek kontrasztot adnak a fotókhoz.",
                 "ro": "Lumina de iarnă oferă contraste grozave pentru poze.",
-                "en": "The winter light offers great contrasts for photos."
+                "en": "The winter light offers great contrasts for photos.",
+                "el": "Το χειμερινό φως προσφέρει ωραίες αντιθέσεις για φωτογραφίες."
               }
             },
             {
@@ -561,7 +603,8 @@
                 "de": "Ein ruhiger Rückzugsort zum Aufwärmen der Seele.",
                 "hu": "Csendes menedék a lélek felmelegítéséhez.",
                 "ro": "Un refugiu liniștit pentru a vă încălzi sufletul.",
-                "en": "A quiet retreat to warm your soul."
+                "en": "A quiet retreat to warm your soul.",
+                "el": "Ένα ήσυχο καταφύγιο για να ζεσταθεί η ψυχή σας."
               }
             },
             {
@@ -570,7 +613,8 @@
                 "de": "Tragen Sie warme Schichten, da es im Inneren kühl sein kann.",
                 "hu": "Öltözzön rétegesen, mert bent hűvös lehet.",
                 "ro": "Purtați haine groase, deoarece interiorul poate fi răcoros.",
-                "en": "Wear warm layers, as it can be chilly inside."
+                "en": "Wear warm layers, as it can be chilly inside.",
+                "el": "Φορέστε ζεστά στρώματα, καθώς μπορεί να κάνει κρύο μέσα."
               }
             },
             {
@@ -579,7 +623,8 @@
                 "de": "Schön bei Sonnenuntergang gegen 17:00 Uhr.",
                 "hu": "Gyönyörű naplementekor, 17:00 körül.",
                 "ro": "Frumos la apus, în jur de ora 17:00.",
-                "en": "Beautiful at sunset, around 17:00."
+                "en": "Beautiful at sunset, around 17:00.",
+                "el": "Όμορφο στο ηλιοβασίλεμα, γύρω στις 17:00."
               }
             },
             {
@@ -588,7 +633,8 @@
                 "de": "Gut beheizte Räume laden zum langen Verweilen ein.",
                 "hu": "A jól fűtött termek hívogatnak a nézelődésre.",
                 "ro": "Sălile bine încălzite vă invită la o vizită lungă.",
-                "en": "Well-heated rooms invite a long visit."
+                "en": "Well-heated rooms invite a long visit.",
+                "el": "Καλοθερμασμένα δωμάτια προσκαλούν σε μακρά επίσκεψη."
               }
             },
             {
@@ -597,7 +643,8 @@
                 "de": "Die Abendbeleuchtung im Winter ist besonders stimmungsvoll.",
                 "hu": "A téli esti kivilágítás különleges hangulatot áraszt.",
                 "ro": "Iluminatul de seară iarna este deosebit de atmosferic.",
-                "en": "Winter evening lighting is especially atmospheric."
+                "en": "Winter evening lighting is especially atmospheric.",
+                "el": "Η χειμωνιάτικη βραδινή φωταγώγηση είναι ιδιαίτερα ατμοσφαιρική."
               }
             }
           ],
@@ -625,6 +672,12 @@
               "Try local sweets like Soutzouk Loukoum.",
               "Wear gloves for the windy spots near the fortress.",
               "Museums often have shorter hours during winter."
+            ],
+            "el": [
+              "Ο ήλιος δύει νωρίς — προγραμματίστε εξωτερικές στάσεις πριν τις 16:30.",
+              "Δοκιμάστε τοπικά γλυκά όπως το Σουτζούκ Λουκούμ.",
+              "Φορέστε γάντια για τα ανοιχτά, ανεμώδη σημεία κοντά στο φρούριο.",
+              "Τα μουσεία έχουν συχνά μικρότερα ωράρια κατά τη διάρκεια του χειμώνα."
             ]
           }
         }
@@ -643,7 +696,8 @@
             "de": "Platz des Friedens (Irini)",
             "hu": "Béke tér (Irini)",
             "ro": "Piața Păcii (Irini)",
-            "en": "Peace Square (Irini)"
+            "en": "Peace Square (Irini)",
+            "el": "Πλατεία Ειρήνης (Ίρινη)"
           },
           "coords": [
             25.4053,
@@ -659,7 +713,8 @@
             "de": "Ein idealer Ausgangspunkt, um die Stadt mit dem Fahrrad zu erkunden.",
             "hu": "Ideális kiindulópont a város kerékpáros felfedezéséhez.",
             "ro": "Un punct de plecare ideal pentru a explora orașul cu bicicleta.",
-            "en": "An ideal starting point for exploring the city by bike."
+            "en": "An ideal starting point for exploring the city by bike.",
+            "el": "Ιδανικό σημείο εκκίνησης για εξερεύνηση της πόλης με ποδήλατο."
           }
         },
         {
@@ -667,7 +722,8 @@
             "de": "Agia Paraskevi Park",
             "hu": "Agia Paraskevi Park",
             "ro": "Parcul Agia Paraskevi",
-            "en": "Agia Paraskevi Park"
+            "en": "Agia Paraskevi Park",
+            "el": "Πάρκο Αγίας Παρασκευής"
           },
           "coords": [
             25.412,
@@ -683,7 +739,8 @@
             "de": "Machen Sie eine kurze Pause im Grünen, bevor Sie ins historische Zentrum radeln.",
             "hu": "Tartson egy rövid szünetet a zöldben, mielőtt a történelmi központba teker.",
             "ro": "Faceți o scurtă pauză în parc înainte de a pedala spre centrul istoric.",
-            "en": "Take a short break in the green space before cycling to the historic center."
+            "en": "Take a short break in the green space before cycling to the historic center.",
+            "el": "Κάντε ένα σύντομο διάλειμμα στον πράσινο χώρο πριν ποδηλατήσετε προς το ιστορικό κέντρο."
           }
         },
         {
@@ -691,7 +748,8 @@
             "de": "Archäologisches Museum & Volkskundemuseum",
             "hu": "Régészeti és Népművészeti Múzeum",
             "ro": "Muzeul de Arheologie și Folclor",
-            "en": "Archaeological & Folklore Museum"
+            "en": "Archaeological & Folklore Museum",
+            "el": "Αρχαιολογικό & Λαογραφικό Μουσείο"
           },
           "coords": [
             25.408,
@@ -707,7 +765,8 @@
             "de": "Planen Sie genug Zeit für beide Museen ein, die sich nebeneinander befinden.",
             "hu": "Tervezzen elég időt mindkét múzeumra, amelyek egymás mellett találhatók.",
             "ro": "Planificați suficient timp pentru ambele muzee, care sunt situate unul lângă celălalt.",
-            "en": "Plan enough time for both museums, located next to each other."
+            "en": "Plan enough time for both museums, located next to each other.",
+            "el": "Σχεδιάστε αρκετό χρόνο και για τα δύο μουσεία, που βρίσκονται δίπλα το ένα στο άλλο."
           }
         },
         {
@@ -715,7 +774,8 @@
             "de": "Byzantinische Stadtmauer",
             "hu": "Bizánci városfal",
             "ro": "Zidul Cetății Bizantine",
-            "en": "Byzantine Fortress Wall"
+            "en": "Byzantine Fortress Wall",
+            "el": "Βυζαντινό Τείχος Φρουρίου"
           },
           "coords": [
             25.401,
@@ -731,7 +791,8 @@
             "de": "Stellen Sie Ihr Fahrrad ab und erklimmen Sie die alten Mauern für eine tolle Aussicht.",
             "hu": "Tegye le a biciklit, és másszon fel a régi falakra a nagyszerű kilátásért.",
             "ro": "Parcați bicicleta și urcați pe zidurile vechi pentru o priveliște minunată.",
-            "en": "Park your bike and climb the ancient walls for a great view."
+            "en": "Park your bike and climb the ancient walls for a great view.",
+            "el": "Παρκάρετε το ποδήλατό σας και ανέβετε στα αρχαία τείχη για υπέροχη θέα."
           }
         },
         {
@@ -739,7 +800,8 @@
             "de": "Imaret & Alte Moschee",
             "hu": "Imaret és Régi Mecset",
             "ro": "Imaretul și Moscheea Veche",
-            "en": "Imaret & Old Mosque"
+            "en": "Imaret & Old Mosque",
+            "el": "Ιμάρετ & Παλιά Τζαμί"
           },
           "coords": [
             25.4028,
@@ -755,7 +817,8 @@
             "de": "Zwei wichtige historische Stätten, die die kulturelle Vielfalt der Stadt zeigen.",
             "hu": "Két fontos történelmi helyszín, amely a város kulturális sokszínűségét mutatja be.",
             "ro": "Două situri istorice importante care arată diversitatea culturală a orașului.",
-            "en": "Two important historical sites that showcase the city's cultural diversity."
+            "en": "Two important historical sites that showcase the city's cultural diversity.",
+            "el": "Δύο σημαντικά ιστορικά μνημεία που αναδεικνύουν την πολιτισμική ποικιλία της πόλης."
           }
         },
         {
@@ -763,7 +826,8 @@
             "de": "Neue Moschee & Uhrturm",
             "hu": "Új Mecset és Óratorony",
             "ro": "Moscheea Nouă și Turnul cu Ceas",
-            "en": "New Mosque & Clock Tower"
+            "en": "New Mosque & Clock Tower",
+            "el": "Νέο Τζαμί & Ρολόι"
           },
           "coords": [
             25.4055,
@@ -779,7 +843,8 @@
             "de": "Das Herz des osmanischen Komotinis, ideal für beeindruckende Fotos.",
             "hu": "Komotini oszmán szívében ideális hely lenyűgöző fotók készítésére.",
             "ro": "Inima otomană a Komotini, ideală pentru fotografii impresionante.",
-            "en": "The Ottoman heart of Komotini, ideal for impressive photos."
+            "en": "The Ottoman heart of Komotini, ideal for impressive photos.",
+            "el": "Η οθωμανική καρδιά της Κομοτηνής, ιδανική για εντυπωσιακές φωτογραφίες."
           }
         },
         {
@@ -787,7 +852,8 @@
             "de": "Abendessen in einer Taverne",
             "hu": "Vacsora egy tavernában",
             "ro": "Cină la o tavernă",
-            "en": "Dinner at a Taverna"
+            "en": "Dinner at a Taverna",
+            "el": "Δείπνο σε Ταβέρνα"
           },
           "coords": [
             25.404,
@@ -803,7 +869,8 @@
             "de": "Beenden Sie den Tag mit lokalen Spezialitäten in der Nähe des Irini-Platzes.",
             "hu": "Zárja a napot helyi specialitásokkal az Irini tér közelében.",
             "ro": "Încheiați ziua cu specialități locale lângă Piața Irini.",
-            "en": "End the day with local specialties near Irini Square."
+            "en": "End the day with local specialties near Irini Square.",
+            "el": "Κλείστε την ημέρα με τοπικές σπεσιαλιτέ κοντά στην Πλατεία Ειρήνης."
           }
         }
       ],
@@ -811,7 +878,8 @@
         "de": "Starten Sie Ihre Radtour am Irini-Platz und machen Sie einen ersten Halt im Agia-Paraskevi-Park, um die grüne Lunge der Stadt zu genießen. Am Vormittag widmen Sie sich der reichen Geschichte in den archäologischen und volkskundlichen Museen. Nach einer Stärkung zur Mittagszeit erklimmen Sie die byzantinischen Mauern, von wo aus Sie einen weiten Blick über die Stadt haben. Der Nachmittag führt Sie durch das osmanische Erbe Komotinis, vorbei am Imaret, der Alten Moschee und schließlich zur Neuen Moschee mit ihrem markanten Uhrturm. Die Tour endet gemütlich in einer Taverne, wo Sie die thrakische Küche entdecken können.",
         "hu": "Kezdje a kerékpártúrát az Irini téren, majd álljon meg az Agia Paraskevi Parkban, hogy élvezze a város zöld tüdejét. A délelőttöt szentelje a gazdag történelemnek a régészeti és néprajzi múzeumokban. Egy kiadós ebéd után másszon fel a bizánci falakra, ahonnan széles kilátás nyílik a városra. A délután Komotini oszmán örökségén keresztül vezet, elhaladva az Imaret, a Régi Mecset mellett, végül pedig az Új Mecsethez és jellegzetes Óratornyához ér. A túra egy hangulatos tavernában ér véget, ahol felfedezheti a trák konyhát.",
         "ro": "Începeți turul cu bicicleta din Piața Irini și faceți o primă oprire în Parcul Agia Paraskevi pentru a vă bucura de plămânul verde al orașului. În cursul dimineții, dedicați-vă istoriei bogate la muzeele de arheologie și folclor. După un prânz revigorant, urcați pe zidurile bizantine, de unde aveți o vedere panoramică asupra orașului. După-amiaza vă poartă prin moștenirea otomană a Komotini, trecând pe la Imaret, Moscheea Veche și, în final, la Moscheea Nouă cu turnul său cu ceas distinctiv. Turul se încheie la o tavernă, unde puteți descoperi bucătăria tracică.",
-        "en": "Start your bike tour at Irini Square and make a first stop at Agia Paraskevi Park to enjoy the city's green lung. In the morning, dedicate yourself to the rich history at the archaeological and folklore museums. After a hearty lunch, climb the Byzantine walls for a wide view over the city. The afternoon takes you through Komotini's Ottoman heritage, passing the Imaret, the Old Mosque, and finally to the New Mosque with its distinctive clock tower. The tour ends comfortably at a taverna where you can discover Thracian cuisine."
+        "en": "Start your bike tour at Irini Square and make a first stop at Agia Paraskevi Park to enjoy the city's green lung. In the morning, dedicate yourself to the rich history at the archaeological and folklore museums. After a hearty lunch, climb the Byzantine walls for a wide view over the city. The afternoon takes you through Komotini's Ottoman heritage, passing the Imaret, the Old Mosque, and finally to the New Mosque with its distinctive clock tower. The tour ends comfortably at a taverna where you can discover Thracian cuisine.",
+        "el": "Ξεκινήστε την ποδηλατική σας διαδρομή από την Πλατεία Ειρήνης και κάντε την πρώτη στάση στο Πάρκο Αγίας Παρασκευής για να απολαύσετε το «πνεύμονα» της πόλης. Το πρωί αφιερώστε χρόνο στην πλούσια ιστορία στα αρχαιολογικά και λαογραφικά μουσεία. Μετά από ένα χορταστικό μεσημεριανό, ανεβείτε στα βυζαντινά τείχη για πανοραμική θέα στην πόλη. Το απόγευμα περπατήστε στην οθωμανική κληρονομιά της Κομοτηνής, περνώντας από το Ιμάρετ, το Παλιά Τζαμί και τελειώνοντας στο Νέο Τζαμί με τον χαρακτηριστικό πύργο του ρολογιού. Η διαδρομή κλείνει άνετα σε μια ταβέρνα όπου μπορείτε να ανακαλύψετε τη θρακιώτικη κουζίνα."
       },
       "gastro_picks": {
         "de": [
@@ -1007,6 +1075,12 @@
           "The city center is compact, but a bike allows you to explore the outer neighborhoods as well.",
           "Use bike lanes where available for safe riding.",
           "Some one-way streets might be open for cyclists in both directions, pay attention to the signs."
+        ],
+        "el": [
+          "Κλειδώνετε πάντα καλά το ποδήλατο, ειδικά σε πολυσύχναστες περιοχές.",
+          "Το κέντρο της πόλης είναι συμπαγές, αλλά το ποδήλατο σας επιτρέπει να εξερευνήσετε και τις εξωτερικές γειτονιές.",
+          "Χρησιμοποιήστε τις λωρίδες ποδηλάτου όπου υπάρχουν για ασφαλή ποδηλασία.",
+          "Ορισμένοι μονόδρομοι μπορεί να είναι ανοιχτοί για ποδηλάτες και στις δύο κατευθύνσεις — προσέξτε τις πινακίδες."
         ]
       },
       "variants": {
@@ -1015,7 +1089,8 @@
             "de": "Radfahren im Regen erfordert Vorsicht auf Komotinis Kopfsteinpflaster. Starten Sie am Irini-Platz und steuern Sie zügig das Parkgebiet an. Die Museen bieten lange Trockenphasen für Sie und Ihr Rad. Mittags erkunden Sie das Imaret und die Altstadtmoscheen, bevor Sie den Tag bei einem gemütlichen Abendessen in einer Taverne ausklingen lassen, während es draußen regnet.",
             "hu": "Az esőben való biciklizés óvatosságot igényel a macskaköves utakon. Kezdjen a Béke téren, majd hajtson a park felé. A múzeumok hosszú száraz pihenőt kínálnak önnek és gépének is. Délben az Imaret és a mecsetek környékét fedezze fel, majd zárja a napot egy hangulatos tavernás vacsorával, amíg odakint esik.",
             "ro": "Mersul pe bicicletă în ploaie necesită prudență pe străzile din Komotini. Începeți în Piața Irini și mergeți spre zona parcului. Muzeele oferă perioade lungi de uscat pentru dvs. și bicicletă. La prânz, explorați Imaretul și moscheile, apoi încheiați ziua cu o cină caldă la o tavernă în timp ce afară plouă.",
-            "en": "Cycling in the rain requires caution on Komotini's cobblestones. Start at Peace Square and head swiftly to the park area. Museums provide long dry spells for you and your bike. Midday, explore the Imaret and old town mosques, before ending the day with a cozy dinner at a taverna while it rains outside."
+            "en": "Cycling in the rain requires caution on Komotini's cobblestones. Start at Peace Square and head swiftly to the park area. Museums provide long dry spells for you and your bike. Midday, explore the Imaret and old town mosques, before ending the day with a cozy dinner at a taverna while it rains outside.",
+            "el": "Η ποδηλασία στη βροχή απαιτεί προσοχή στις πλακοστρώσεις της Κομοτηνής. Ξεκινήστε από την Πλατεία Ειρήνης και προχωρήστε γρήγορα προς την περιοχή του πάρκου. Τα μουσεία προσφέρουν μακρά στεγνά διαλείμματα για εσάς και το ποδήλατό σας. Το μεσημέρι εξερευνήστε το Ιμάρετ και τα παλιά τζαμιά της πόλης, πριν τελειώσετε την ημέρα με ένα ζεστό δείπνο σε ταβέρνα ενώ βρέχει έξω."
           },
           "stops": [
             {
@@ -1024,7 +1099,8 @@
                 "de": "Prüfen Sie Ihre Bremsen auf dem nassen Pflaster.",
                 "hu": "Ellenőrizze a fékeket a vizes kövezeten.",
                 "ro": "Verificați frânele pe pavajul umed.",
-                "en": "Check your brakes on the wet pavement."
+                "en": "Check your brakes on the wet pavement.",
+                "el": "Ελέγξτε τα φρένα σας στο βρεγμένο οδόστρωμα."
               }
             },
             {
@@ -1033,7 +1109,8 @@
                 "de": "Parken Sie Ihr Rad unter den dichten Bäumen.",
                 "hu": "Parkoljon a sűrű fák védelme alatt.",
                 "ro": "Parcați bicicleta sub copacii deși.",
-                "en": "Park your bike under the dense trees."
+                "en": "Park your bike under the dense trees.",
+                "el": "Παρκάρετε το ποδήλατό σας κάτω από τα πυκνά δέντρα."
               }
             },
             {
@@ -1042,7 +1119,8 @@
                 "de": "Guter Ort, um Kleidung und Ausrüstung zu trocknen.",
                 "hu": "Jó hely a ruhák és felszerelés megszárítására.",
                 "ro": "Un loc bun pentru a vă usca hainele și echipamentul.",
-                "en": "A good spot to dry off your gear and clothes."
+                "en": "A good spot to dry off your gear and clothes.",
+                "el": "Ένα καλό σημείο για να στεγνώσετε εξοπλισμό και ρούχα."
               }
             },
             {
@@ -1051,7 +1129,8 @@
                 "de": "Meiden Sie Schlammstellen an den Mauerrändern.",
                 "hu": "Kerülje a saras részeket a falak mentén.",
                 "ro": "Evitați zonele noroioase de lângă ziduri.",
-                "en": "Avoid muddy patches near the walls."
+                "en": "Avoid muddy patches near the walls.",
+                "el": "Αποφύγετε τα λασπωμένα σημεία κοντά στα τείχη."
               }
             },
             {
@@ -1060,7 +1139,8 @@
                 "de": "Schieben Sie das Rad in den engen, nassen Gassen.",
                 "hu": "Tolja a biciklit a szűk, vizes utcákban.",
                 "ro": "Împingeți bicicleta pe străzile înguste și ude.",
-                "en": "Push your bike in the narrow, wet alleys."
+                "en": "Push your bike in the narrow, wet alleys.",
+                "el": "Σπρώξτε το ποδήλατο στα στενά, βρεγμένα σοκάκια."
               }
             },
             {
@@ -1069,7 +1149,8 @@
                 "de": "Kurzer Stopp; sicheres Abschließen im Regen wichtig.",
                 "hu": "Gyors megálló; fontos a biztonságos lezárás esőben.",
                 "ro": "Oprire scurtă; securizarea bicicletei în ploaie e importantă.",
-                "en": "Short stop; secure locking is important in the rain."
+                "en": "Short stop; secure locking is important in the rain.",
+                "el": "Σύντομη στάση· το καλό κλείδωμα είναι σημαντικό στη βροχή."
               }
             },
             {
@@ -1078,7 +1159,8 @@
                 "de": "Endlich im Trockenen; genießen Sie lokale Weine.",
                 "hu": "Végre fedél alatt; kóstolja meg a helyi borokat.",
                 "ro": "În sfârșit la adăpost; savurați vinurile locale.",
-                "en": "Finally indoors; enjoy local wines."
+                "en": "Finally indoors; enjoy local wines.",
+                "el": "Επιτέλους μέσα· απολαύστε τοπικά κρασιά."
               }
             }
           ],
@@ -1106,6 +1188,12 @@
               "Avoid sharp turns on the slippery market stones.",
               "A waterproof phone mount helps with navigation.",
               "Use time in tavernas to dry off."
+            ],
+            "el": [
+              "Πλαϊνά φτερά (φτερά λάσπης) στο ποδήλατο είναι απαραίτητα σε αυτή την καιρική συνθήκη.",
+              "Αποφύγετε απότομες στροφές στις γλιστερές πλακοστρώσεις της αγοράς.",
+              "Ένα αδιάβροχο στήριγμα κινητού βοηθά στη διαδρομή.",
+              "Χρησιμοποιήστε τον χρόνο στις ταβέρνες για να στεγνώσετε."
             ]
           }
         },
@@ -1114,7 +1202,8 @@
             "de": "Die kalte Winterluft belebt Ihre Radtour durch Komotini. Beginnen Sie am Irini-Platz und fahren Sie zum Park, um die winterliche Ruhe zu genießen. Die Museen bieten eine willkommene Aufwärmpause. Erkunden Sie die Festung und die historischen Moscheen im klaren Mittagslicht. Schließen Sie Ihre Tour mit einem warmen Abendessen ab, bevor die Winterkälte nach Sonnenuntergang zunimmt.",
             "hu": "A hideg téli levegő felfrissíti a biciklis túrát Komotiniben. Kezdjen a Béke téren, majd tekerjen a parkba a téli nyugalomért. A múzeumok hívogató felmelegedési pontok. Fedezze fel a várat és a mecseteket a tiszta déli fényben. Zárja a napot meleg vacsorával, mielőtt a naplemente utáni hideg beköszönt.",
             "ro": "Aerul rece de iarnă vă revigorează turul cu bicicleta prin Komotini. Începeți în Piața Irini și mergeți spre parc pentru liniștea iernii. Muzeele oferă o pauză de încălzire binevenită. Explorați cetatea și moscheile în lumina clară a amiezii. Încheiați cu o cină caldă înainte ca frigul să se intensifice după apus.",
-            "en": "The cold winter air invigorates your cycling tour through Komotini. Start at Peace Square and ride to the park for winter serenity. Museums offer a welcome warming break. Explore the fortress and historical mosques in the clear midday light. Finish with a warm dinner before the post-sunset chill sets in."
+            "en": "The cold winter air invigorates your cycling tour through Komotini. Start at Peace Square and ride to the park for winter serenity. Museums offer a welcome warming break. Explore the fortress and historical mosques in the clear midday light. Finish with a warm dinner before the post-sunset chill sets in.",
+            "el": "Ο κρύος χειμωνιάτικος αέρας ζωογονεί την ποδηλατική σας διαδρομή στην Κομοτηνή. Ξεκινήστε από την Πλατεία Ειρήνης και κατευθυνθείτε προς το πάρκο για χειμερινή ηρεμία. Τα μουσεία προσφέρουν ευπρόσδεκτη ζέστη. Εξερευνήστε το φρούριο και τα ιστορικά τζαμιά στο καθαρό μεσημεριανό φως. Κλείστε με ένα ζεστό δείπνο πριν πέσει το κρύο μετά το ηλιοβασίλεμα."
           },
           "stops": [
             {
@@ -1123,7 +1212,8 @@
                 "de": "Warme Handschuhe sind für den Start essenziell.",
                 "hu": "Meleg kesztyű elengedhetetlen az induláshoz.",
                 "ro": "Mănușile groase sunt esențiale pentru început.",
-                "en": "Warm gloves are essential for the start."
+                "en": "Warm gloves are essential for the start.",
+                "el": "Ζεστά γάντια είναι απαραίτητα για την αρχή."
               }
             },
             {
@@ -1132,7 +1222,8 @@
                 "de": "Die kahlen Bäume bieten weite Sicht durch den Park.",
                 "hu": "A kopár fák miatt messzire ellátni a parkban.",
                 "ro": "Copacii golași oferă o vizibilitate largă în parc.",
-                "en": "The bare trees allow for wide views through the park."
+                "en": "The bare trees allow for wide views through the park.",
+                "el": "Τα γυμνά δέντρα επιτρέπουν εκτεταμένες θέες μέσα από το πάρκο."
               }
             },
             {
@@ -1141,7 +1232,8 @@
                 "de": "Nutzen Sie den Museumsbesuch zum Aufwärmen.",
                 "hu": "Használja a múzeumlátogatást a felmelegedésre.",
                 "ro": "Folosiți vizita la muzeu pentru a vă încălzi.",
-                "en": "Use the museum visit to warm up."
+                "en": "Use the museum visit to warm up.",
+                "el": "Χρησιμοποιήστε την επίσκεψη στο μουσείο για να ζεσταθείτε."
               }
             },
             {
@@ -1150,7 +1242,8 @@
                 "de": "Windschutz hinter den alten Mauern suchen.",
                 "hu": "Keressen szélvédett helyet a régi falak mögött.",
                 "ro": "Căutați adăpost împotriva vântului după zidurile vechi.",
-                "en": "Seek wind protection behind the old walls."
+                "en": "Seek wind protection behind the old walls.",
+                "el": "Αναζητήστε κάλυψη από τον άνεμο πίσω από τα παλιά τείχη."
               }
             },
             {
@@ -1159,7 +1252,8 @@
                 "de": "Achten Sie auf Raureif auf den Kopfsteinpflastern.",
                 "hu": "Ügyeljen a dérre a macskaköves utakon.",
                 "ro": "Atenție la brumă pe străzile pietruite.",
-                "en": "Watch out for frost on the cobblestones."
+                "en": "Watch out for frost on the cobblestones.",
+                "el": "Προσοχή σε παγίδες πάγου στις πλακοστρώσεις."
               }
             },
             {
@@ -1168,7 +1262,8 @@
                 "de": "Kurzer Stopp; die Sonne steht tief.",
                 "hu": "Gyors megálló; a nap alacsonyan jár.",
                 "ro": "Oprire scurtă; soarele este jos pe cer.",
-                "en": "Short stop; the sun is low in the sky."
+                "en": "Short stop; the sun is low in the sky.",
+                "el": "Σύντομη στάση· ο ήλιος είναι χαμηλά στον ορίζοντα."
               }
             },
             {
@@ -1177,7 +1272,8 @@
                 "de": "Bestellen Sie eine heiße Suppe zur Regeneration.",
                 "hu": "Rendeljen forró levest a regenerálódáshoz.",
                 "ro": "Comandați o supă fierbinte pentru regenerare.",
-                "en": "Order a hot soup for recovery."
+                "en": "Order a hot soup for recovery.",
+                "el": "Παραγγείλετε μια ζεστή σούπα για να ανακάμψετε."
               }
             }
           ],
@@ -1205,6 +1301,12 @@
               "Watch out for early darkness; check bike lights.",
               "Drink hot tea at cafes along the way.",
               "Chain lubrication is important in winter humidity."
+            ],
+            "el": [
+              "Ντυθείτε με στρώματα (πρίγκιπα του κρεμμυδιού).",
+              "Προσέξτε το νυχτερινό σκοτάδι· ελέγξτε τα φώτα του ποδηλάτου.",
+              "Πιείτε ζεστό τσάι σε καφετέριες κατά μήκος της διαδρομής.",
+              "Η λίπανση της αλυσίδας είναι σημαντική στην χειμωνιάτικη υγρασία."
             ]
           }
         }
@@ -1223,7 +1325,8 @@
             "de": "Parken am Archäologischen Museum",
             "hu": "Parkolás a Régészeti Múzeumnál",
             "ro": "Parcare la Muzeul de Arheologie",
-            "en": "Parking at the Archaeological Museum"
+            "en": "Parking at the Archaeological Museum",
+            "el": "Στάθμευση στο Αρχαιολογικό Μουσείο"
           },
           "coords": [
             25.408,
@@ -1239,7 +1342,8 @@
             "de": "Beginnen Sie Ihren Tag in diesem Cluster. Hier gibt es oft Parkplätze.",
             "hu": "Kezdje a napot ebben a negyedben. Gyakran található itt parkolóhely.",
             "ro": "Începeți ziua în acest cluster. Există adesea locuri de parcare aici.",
-            "en": "Start your day in this cluster. Parking is often available here."
+            "en": "Start your day in this cluster. Parking is often available here.",
+            "el": "Ξεκινήστε την ημέρα σας σε αυτό το συγκρότημα. Η στάθμευση είναι συχνά διαθέσιμη εδώ."
           }
         },
         {
@@ -1247,7 +1351,8 @@
             "de": "Archäologisches Museum",
             "hu": "Régészeti Múzeum",
             "ro": "Muzeul de Arheologie",
-            "en": "Archaeological Museum"
+            "en": "Archaeological Museum",
+            "el": "Αρχαιολογικό Μουσείο"
           },
           "coords": [
             25.4082,
@@ -1263,7 +1368,8 @@
             "de": "Entdecken Sie die reiche Geschichte Thrakiens, von prähistorischen bis zu römischen Zeiten.",
             "hu": "Fedezze fel Trákia gazdag történelmét az őskortól a római korig.",
             "ro": "Descoperiți istoria bogată a Traciei, din preistorie până în epoca romană.",
-            "en": "Discover the rich history of Thrace, from prehistoric to Roman times."
+            "en": "Discover the rich history of Thrace, from prehistoric to Roman times.",
+            "el": "Ανακαλύψτε την πλούσια ιστορία της Θράκης, από προϊστορικά έως ρωμαϊκά χρόνια."
           }
         },
         {
@@ -1271,7 +1377,8 @@
             "de": "Volkskundemuseum",
             "hu": "Népművészeti Múzeum",
             "ro": "Muzeul de Folclor",
-            "en": "Folklore Museum"
+            "en": "Folklore Museum",
+            "el": "Λαογραφικό Μουσείο"
           },
           "coords": [
             25.4085,
@@ -1287,7 +1394,8 @@
             "de": "Erhalten Sie einen Einblick in das traditionelle Leben und die Kultur der Region.",
             "hu": "Nyerjen betekintést a régió hagyományos életébe és kultúrájába.",
             "ro": "Obțineți o perspectivă asupra vieții tradiționale și a culturii regiunii.",
-            "en": "Get an insight into the traditional life and culture of the region."
+            "en": "Get an insight into the traditional life and culture of the region.",
+            "el": "Αποκτήστε μια εικόνα για την παραδοσιακή ζωή και τον πολιτισμό της περιοχής."
           }
         },
         {
@@ -1295,7 +1403,8 @@
             "de": "Fahrt und Parken am Stadtzentrum",
             "hu": "Utazás és parkolás a központban",
             "ro": "Deplasare și parcare în centrul orașului",
-            "en": "Drive and Park in the City Center"
+            "en": "Drive and Park in the City Center",
+            "el": "Οδηγήστε και Σταθμεύστε στο Κέντρο της Πόλης"
           },
           "coords": [
             25.4045,
@@ -1311,7 +1420,8 @@
             "de": "Parken Sie in der Nähe des Irini-Platzes, um das historische Herz zu erkunden.",
             "hu": "Parkoljon az Irini tér közelében a történelmi központ felfedezéséhez.",
             "ro": "Parcați lângă Piața Irini pentru a explora inima istorică.",
-            "en": "Park near Irini Square to explore the historic heart."
+            "en": "Park near Irini Square to explore the historic heart.",
+            "el": "Σταθμεύστε κοντά στην Πλατεία Ειρήνης για να εξερευνήσετε την ιστορική καρδιά."
           }
         },
         {
@@ -1319,7 +1429,8 @@
             "de": "Platz des Friedens & Mittagessen",
             "hu": "Béke tér és ebéd",
             "ro": "Piața Păcii și prânz",
-            "en": "Peace Square & Lunch"
+            "en": "Peace Square & Lunch",
+            "el": "Πλατεία Ειρήνης & Μεσημεριανό"
           },
           "coords": [
             25.4053,
@@ -1335,7 +1446,8 @@
             "de": "Genießen Sie ein Mittagessen in einer der Tavernen rund um den Platz.",
             "hu": "Ebédeljen a tér körüli egyik tavernában.",
             "ro": "Bucurați-vă de prânz la una dintre tavernele din jurul pieței.",
-            "en": "Enjoy lunch at one of the tavernas around the square."
+            "en": "Enjoy lunch at one of the tavernas around the square.",
+            "el": "Απολαύστε μεσημεριανό σε μία από τις ταβέρνες γύρω από την πλατεία."
           }
         },
         {
@@ -1343,7 +1455,8 @@
             "de": "Neue Moschee & Uhrturm",
             "hu": "Új Mecset és Óratorony",
             "ro": "Moscheea Nouă și Turnul cu Ceas",
-            "en": "New Mosque & Clock Tower"
+            "en": "New Mosque & Clock Tower",
+            "el": "Νέο Τζαμί & Ρολόι"
           },
           "coords": [
             25.4055,
@@ -1359,7 +1472,8 @@
             "de": "Ein kurzer Spaziergang führt Sie zu diesen Wahrzeichen des osmanischen Erbes.",
             "hu": "Egy rövid séta elvezeti Önt az oszmán örökség ezen nevezetességeihez.",
             "ro": "O scurtă plimbare vă duce la aceste repere ale moștenirii otomane.",
-            "en": "A short walk takes you to these landmarks of Ottoman heritage."
+            "en": "A short walk takes you to these landmarks of Ottoman heritage.",
+            "el": "Μια σύντομη βόλτα σας φέρνει στα μνημεία αυτά της οθωμανικής κληρονομιάς."
           }
         },
         {
@@ -1367,7 +1481,8 @@
             "de": "Fahrt zum Agia Paraskevi Park",
             "hu": "Utazás az Agia Paraskevi Parkba",
             "ro": "Deplasare la Parcul Agia Paraskevi",
-            "en": "Drive to Agia Paraskevi Park"
+            "en": "Drive to Agia Paraskevi Park",
+            "el": "Οδηγήστε προς το Πάρκο Αγίας Παρασκευής"
           },
           "coords": [
             25.412,
@@ -1383,7 +1498,8 @@
             "de": "Fahren Sie zum Stadtpark für eine entspannte Pause am Nachmittag.",
             "hu": "Hajtson a városi parkba egy pihentető délutáni szünetre.",
             "ro": "Conduceți spre parcul orașului pentru o pauză relaxantă de după-amiază.",
-            "en": "Drive to the city park for a relaxing afternoon break."
+            "en": "Drive to the city park for a relaxing afternoon break.",
+            "el": "Οδηγήστε προς το δημοτικό πάρκο για ένα χαλαρωτικό απογευματινό διάλειμμα."
           }
         },
         {
@@ -1391,7 +1507,8 @@
             "de": "Byzantinische Stadtmauer",
             "hu": "Bizánci városfal",
             "ro": "Zidul Cetății Bizantine",
-            "en": "Byzantine Fortress Wall"
+            "en": "Byzantine Fortress Wall",
+            "el": "Βυζαντινό Τείχος Φρουρίου"
           },
           "coords": [
             25.401,
@@ -1407,7 +1524,8 @@
             "de": "Beenden Sie den Tag mit einem Besuch der alten Festungsmauern.",
             "hu": "Zárja a napot a régi erődítmény falainak meglátogatásával.",
             "ro": "Încheiați ziua cu o vizită la zidurile vechii cetăți.",
-            "en": "End the day with a visit to the old fortress walls."
+            "en": "End the day with a visit to the old fortress walls.",
+            "el": "Κλείστε την ημέρα με μια επίσκεψη στα παλιά τείχη του φρουρίου."
           }
         }
       ],
@@ -1415,7 +1533,8 @@
         "de": "Beginnen Sie Ihren Tag im Museumsviertel, wo Sie bequem parken können, um das Archäologische und das Volkskundemuseum zu Fuß zu erkunden. Am Vormittag tauchen Sie tief in die Geschichte und Kultur Thrakiens ein. Zur Mittagszeit fahren Sie ins Stadtzentrum, parken in der Nähe des Irini-Platzes und genießen ein authentisches griechisches Mittagessen. Der Nachmittag ist einem Spaziergang durch das osmanische Viertel gewidmet, mit Besuchen der Neuen Moschee und des Uhrturms. Später fahren Sie zum Agia-Paraskevi-Park für eine grüne Pause, bevor Sie den Tag mit einem Blick auf die byzantinischen Mauern abschließen.",
         "hu": "Kezdje a napot a múzeumi negyedben, ahol kényelmesen parkolhat, hogy gyalog fedezze fel a Régészeti és Népművészeti Múzeumot. A délelőtt folyamán mélyen elmerülhet Trákia történelmében és kultúrájában. Délben autózzon be a városközpontba, parkoljon le az Irini tér közelében, és fogyasszon el egy autentikus görög ebédet. A délután az oszmán negyedben tett sétáról szól, meglátogatva az Új Mecsetet és az Óratornyot. Később hajtson el az Agia Paraskevi Parkba egy zöld szünetért, mielőtt a bizánci falak megtekintésével zárja a napot.",
         "ro": "Începeți ziua în cartierul muzeelor, unde puteți parca convenabil pentru a explora pe jos Muzeul de Arheologie și cel de Folclor. Dimineața, vă veți adânci în istoria și cultura Traciei. La prânz, conduceți spre centrul orașului, parcați lângă Piața Irini și bucurați-vă de un prânz autentic grecesc. După-amiaza este dedicată unei plimbări prin cartierul otoman, vizitând Moscheea Nouă și Turnul cu Ceas. Mai târziu, mergeți cu mașina la Parcul Agia Paraskevi pentru o pauză verde, înainte de a încheia ziua cu o privire la zidurile bizantine.",
-        "en": "Start your day in the museum district, where you can park conveniently to explore the Archaeological and Folklore Museums on foot. In the morning, you'll delve deep into the history and culture of Thrace. At noon, drive to the city center, park near Irini Square, and enjoy an authentic Greek lunch. The afternoon is dedicated to a stroll through the Ottoman quarter, visiting the New Mosque and Clock Tower. Later, drive to Agia Paraskevi Park for a green break before ending the day with a view of the Byzantine walls."
+        "en": "Start your day in the museum district, where you can park conveniently to explore the Archaeological and Folklore Museums on foot. In the morning, you'll delve deep into the history and culture of Thrace. At noon, drive to the city center, park near Irini Square, and enjoy an authentic Greek lunch. The afternoon is dedicated to a stroll through the Ottoman quarter, visiting the New Mosque and Clock Tower. Later, drive to Agia Paraskevi Park for a green break before ending the day with a view of the Byzantine walls.",
+        "el": "Ξεκινήστε την ημέρα σας στην περιοχή των μουσείων, όπου μπορείτε να παρκάρετε βολικά και να εξερευνήσετε με τα πόδια τα Αρχαιολογικό και Λαογραφικό Μουσεία. Το πρωί θα βυθιστείτε στην ιστορία και τον πολιτισμό της Θράκης. Το μεσημέρι οδηγήστε στο κέντρο της πόλης, σταθμεύστε κοντά στην Πλατεία Ειρήνης και απολαύστε ένα αυθεντικό ελληνικό γεύμα. Το απόγευμα αφιερώστε το σε μια βόλτα στην οθωμανική συνοικία, επισκεπτόμενοι το Νέο Τζαμί και τον Πύργο του Ρολογιού. Αργότερα οδηγήστε στο Πάρκο Αγίας Παρασκευής για ένα πράσινο διάλειμμα πριν κλείσετε την ημέρα με θέα τα βυζαντινά τείχη."
       },
       "gastro_picks": {
         "de": [
@@ -1611,6 +1730,12 @@
           "Plan your route in advance to avoid one-way streets and traffic-calmed zones.",
           "Do not leave valuables visible in the car.",
           "A car gives you the flexibility to visit destinations outside the city center as well."
+        ],
+        "el": [
+          "Η στάθμευση στο κέντρο μπορεί να είναι δύσκολη· χρησιμοποιήστε τους ειδικούς χώρους ή υπόγεια γκαράζ.",
+          "Σχεδιάστε τη διαδρομή σας εκ των προτέρων για να αποφύγετε μονόδρομους και ήπιες ζώνες κυκλοφορίας.",
+          "Μην αφήνετε πολύτιμα αντικείμενα ορατά μέσα στο αυτοκίνητο.",
+          "Ένα αυτοκίνητο σας δίνει ευελιξία να επισκεφθείτε προορισμούς εκτός κέντρου."
         ]
       },
       "variants": {
@@ -1619,7 +1744,8 @@
             "de": "Mit dem Auto erkunden Sie Komotini bequem und trocken. Beginnen Sie beim Archäologischen Museum mit direktem Parkplatz. Besuchen Sie das Volkskundemuseum nebenan, bevor Sie ins Zentrum fahren. Ein Mittagessen am Irini-Platz bietet Genuss ohne weite Wege im Regen. Die Moscheen und der Uhrturm sind schnell erreichbar, und der Tag endet entspannt am Park oder bei der Festung.",
             "hu": "Autóval kényelmesen és szárazon fedezheti fel Komotinit. Kezdjen a Régészeti Múzeumnál, ahol közvetlen parkoló van. Látogassa meg a szomszédos Néprajzi Múzeumot is, mielőtt a központba hajtana. Ebédeljen a Béke téren, közel a parkolóhelyekhez. A mecsetek és az óratorony gyorsan elérhetőek, a nap pedig a parknál vagy a várfalnál zárul.",
             "ro": "Cu mașina, explorați Komotini confortabil și fără să vă udați. Începeți la Muzeul Arheologic, care are parcare directă. Vizitați Muzeul de Folclor din apropiere înainte de a merge spre centru. Un prânz în Piața Irini oferă răsfăț fără drumuri lungi prin ploaie. Moscheile și Turnul Ceasului sunt rapid accesibile, iar ziua se încheie relaxat la parc.",
-            "en": "By car, you explore Komotini comfortably and dry. Start at the Archaeological Museum with its direct parking. Visit the Folklore Museum next door before driving to the center. Lunch at Peace Square offers enjoyment without long walks in the rain. The mosques and Clock Tower are quickly accessible, and the day ends relaxed by the park or fortress."
+            "en": "By car, you explore Komotini comfortably and dry. Start at the Archaeological Museum with its direct parking. Visit the Folklore Museum next door before driving to the center. Lunch at Peace Square offers enjoyment without long walks in the rain. The mosques and Clock Tower are quickly accessible, and the day ends relaxed by the park or fortress.",
+            "el": "Με αυτοκίνητο εξερευνάτε την Κομοτηνή άνετα και στεγνά. Ξεκινήστε από το Αρχαιολογικό Μουσείο με την άμεση στάθμευση. Επισκεφτείτε το Λαογραφικό δίπλα πριν οδηγήσετε στο κέντρο. Το μεσημεριανό στην Πλατεία Ειρήνης απολαμβάνεται χωρίς μεγάλες βόλτες στη βροχή. Τα τζαμιά και ο Πύργος του Ρολογιού είναι γρήγορα προσβάσιμα, και η μέρα κλείνει χαλαρά στο πάρκο ή το φρούριο."
           },
           "stops": [
             {
@@ -1628,7 +1754,8 @@
                 "de": "Sicherer Parkplatz direkt am Eingang.",
                 "hu": "Biztonságos parkoló közvetlenül a bejáratnál.",
                 "ro": "Parcare sigură chiar la intrare.",
-                "en": "Secure parking right at the entrance."
+                "en": "Secure parking right at the entrance.",
+                "el": "Ασφαλής στάθμευση ακριβώς στην είσοδο."
               }
             },
             {
@@ -1637,7 +1764,8 @@
                 "de": "Keine Wartezeiten im Freien; ideal bei Regen.",
                 "hu": "Nincs kinti várakozás; ideális esőben.",
                 "ro": "Fără așteptare în aer liber; ideal pe ploaie.",
-                "en": "No waiting outdoors; ideal in the rain."
+                "en": "No waiting outdoors; ideal in the rain.",
+                "el": "Δεν χρειάζεται αναμονή έξω· ιδανικό στη βροχή."
               }
             },
             {
@@ -1646,7 +1774,8 @@
                 "de": "Nur ein kurzer Sprint vom Auto zum Museum.",
                 "hu": "Csak egy rövid vágta az autótól a múzeumig.",
                 "ro": "Doar un sprint scurt de la mașină la muzeu.",
-                "en": "Just a short sprint from the car to the museum."
+                "en": "Just a short sprint from the car to the museum.",
+                "el": "Μόλις ένα σύντομο σπριντ από το αυτοκίνητο στο μουσείο."
               }
             },
             {
@@ -1655,7 +1784,8 @@
                 "de": "Nutzen Sie Parkhäuser, um trocken auszusteigen.",
                 "hu": "Használjon parkolóházakat a száraz kiszálláshoz.",
                 "ro": "Folosiți parcările acoperite pentru a ieși la uscat.",
-                "en": "Use covered parking to get out dry."
+                "en": "Use covered parking to get out dry.",
+                "el": "Χρησιμοποιήστε στεγασμένη στάθμευση για να βγείτε στεγνοί."
               }
             },
             {
@@ -1664,7 +1794,8 @@
                 "de": "Zentrale Lage mit vielen überdachten Optionen.",
                 "hu": "Központi helyszín sok fedett lehetőséggel.",
                 "ro": "Locație centrală cu multe opțiuni acoperite.",
-                "en": "Central location with many covered options."
+                "en": "Central location with many covered options.",
+                "el": "Κεντρική τοποθεσία με πολλές στεγασμένες επιλογές."
               }
             },
             {
@@ -1673,7 +1804,8 @@
                 "de": "Parken Sie so nah wie möglich am Eingang.",
                 "hu": "Parkoljon a lehető legközelebb a bejárathoz.",
                 "ro": "Parcați cât mai aproape de intrare.",
-                "en": "Park as close as possible to the entrance."
+                "en": "Park as close as possible to the entrance.",
+                "el": "Παρκάρετε όσο το δυνατόν πιο κοντά στην είσοδο."
               }
             },
             {
@@ -1682,7 +1814,8 @@
                 "de": "Genießen Sie den Blick auf den Park aus dem Auto.",
                 "hu": "Élvezze a park látványát az autóból.",
                 "ro": "Bucurați-vă de vederea parcului din mașină.",
-                "en": "Enjoy the park view from the car."
+                "en": "Enjoy the park view from the car.",
+                "el": "Απολαύστε τη θέα του πάρκου από το αυτοκίνητο."
               }
             },
             {
@@ -1691,7 +1824,8 @@
                 "de": "Schneller Fotostopp direkt vom Straßenrand.",
                 "hu": "Gyors fotómegálló közvetlenül az út széléről.",
                 "ro": "Oprire foto rapidă chiar de la marginea drumului.",
-                "en": "Quick photo stop right from the roadside."
+                "en": "Quick photo stop right from the roadside.",
+                "el": "Σύντομη στάση για φωτογραφία ακριβώς από το δρόμο."
               }
             }
           ],
@@ -1719,6 +1853,12 @@
               "Central parking spots fill up fast in the rain.",
               "Keep your umbrella handy in the cabin.",
               "Check windshield wipers before driving."
+            ],
+            "el": [
+              "Προσέξτε λακκούβες σε χαμηλότερους δρόμους.",
+              "Τα κεντρικά σημεία στάθμευσης γεμίζουν γρήγορα στη βροχή.",
+              "Κρατήστε την ομπρέλα στο ντουλαπάκι του αυτοκινήτου.",
+              "Ελέγξτε τα υαλοκαθαριστήρια πριν ξεκινήσετε το ταξίδι."
             ]
           }
         },
@@ -1727,7 +1867,8 @@
             "de": "Genießen Sie Komotini im Winter mit der Flexibilität des eigenen Autos. Beginnen Sie bei den Museen, die im Winter angenehm ruhig sind. Nach einer kurzen Fahrt ins Zentrum wärmen Sie sich am Irini-Platz auf. Besuchen Sie die historischen Sehenswürdigkeiten im hellen Mittagslicht. Die Fahrt zum Park und zur Festung ermöglicht es Ihnen, die Stadt ohne langes Gehen in der Kälte zu erleben, besonders nach dem frühen Sonnenuntergang.",
             "hu": "Élvezze Komotinit télen a saját autó rugalmasságával. Kezdjen a múzeumoknál, amelyek télen kellemesen csendesek. Rövid autózás után melegedjen fel a Béke téren. Látogassa meg a történelmi látnivalókat a fényes déli órákban. A parkhoz és a várfalhoz tett út lehetővé teszi a városnézést anélkül, hogy sokat gyalogolna a hidegben, különösen a korai naplemente után.",
             "ro": "Bucurați-vă de Komotini iarna cu flexibilitatea mașinii personale. Începeți la muzee, care sunt plăcut de liniștite iarna. După o scurtă plimbare spre centru, încălziți-vă în Piața Irini. Vizitați atracțiile istorice în lumina strălucitoare a amiezii. Drumul spre parc și cetate vă permite să vedeți orașul fără a merge mult prin frig.",
-            "en": "Enjoy Komotini in winter with the flexibility of your own car. Start at the museums, which are pleasantly quiet in winter. After a short drive to the center, warm up at Peace Square. Visit the historical sights in the bright midday light. The drive to the park and fortress allows you to see the city without walking much in the cold."
+            "en": "Enjoy Komotini in winter with the flexibility of your own car. Start at the museums, which are pleasantly quiet in winter. After a short drive to the center, warm up at Peace Square. Visit the historical sights in the bright midday light. The drive to the park and fortress allows you to see the city without walking much in the cold.",
+            "el": "Απολαύστε την Κομοτηνή τον χειμώνα με την ευελιξία του δικού σας αυτοκινήτου. Ξεκινήστε από τα μουσεία, που είναι ευχάριστα ήσυχα τον χειμώνα. Μετά από μια σύντομη οδήγηση στο κέντρο, ζεσταθείτε στην Πλατεία Ειρήνης. Επισκεφτείτε τα ιστορικά αξιοθέατα στο λαμπερό μεσημεριανό φως. Η μετακίνηση στο πάρκο και το φρούριο σας επιτρέπει να δείτε την πόλη χωρίς μεγάλες πεζοπορίες στο κρύο."
           },
           "stops": [
             {
@@ -1736,7 +1877,8 @@
                 "de": "Vermeiden Sie langes Suchen in der Kälte.",
                 "hu": "Kerülje a hosszú keresgélést a hidegben.",
                 "ro": "Evitați căutările lungi prin frig.",
-                "en": "Avoid long searches in the cold."
+                "en": "Avoid long searches in the cold.",
+                "el": "Αποφύγετε μεγάλες αναζητήσεις στο κρύο."
               }
             },
             {
@@ -1745,7 +1887,8 @@
                 "de": "Ein wohltemperierter Start in den Tag.",
                 "hu": "Jól temperált kezdés a naphoz.",
                 "ro": "Un început de zi cu temperatură plăcută.",
-                "en": "A well-tempered start to the day."
+                "en": "A well-tempered start to the day.",
+                "el": "Ένα καλά θερμαινόμενο ξεκίνημα της ημέρας."
               }
             },
             {
@@ -1754,7 +1897,8 @@
                 "de": "Schneller Wechsel zwischen den Gebäuden.",
                 "hu": "Gyors váltás az épületek között.",
                 "ro": "Schimbare rapidă între clădiri.",
-                "en": "Quick transition between buildings."
+                "en": "Quick transition between buildings.",
+                "el": "Γρήγορη μετάβαση μεταξύ κτιρίων."
               }
             },
             {
@@ -1763,7 +1907,8 @@
                 "de": "Zentrale Parkplätze sind im Winter leichter zu finden.",
                 "hu": "A központi parkolók télen könnyebben elérhetőek.",
                 "ro": "Parcările centrale sunt mai ușor de găsit iarna.",
-                "en": "Central parking spots are easier to find in winter."
+                "en": "Central parking spots are easier to find in winter.",
+                "el": "Τα κεντρικά σημεία στάθμευσης είναι ευκολότερο να βρεθούν το χειμώνα."
               }
             },
             {
@@ -1772,7 +1917,8 @@
                 "de": "Genießen Sie die Wintersonne in einem Café-Fenster.",
                 "hu": "Élvezze a téli napsütést egy kávézó ablakából.",
                 "ro": "Bucurați-vă de soarele de iarnă de la fereastra unei cafenele.",
-                "en": "Enjoy the winter sun from a cafe window."
+                "en": "Enjoy the winter sun from a cafe window.",
+                "el": "Απολαύστε τον χειμερινό ήλιο από το παράθυρο μιας καφετέριας."
               }
             },
             {
@@ -1781,7 +1927,8 @@
                 "de": "Kurze Wege schützen vor dem kalten Wind.",
                 "hu": "A rövid utak védenek a hideg széltől.",
                 "ro": "Drumurile scurte vă protejează de vântul rece.",
-                "en": "Short paths protect against the cold wind."
+                "en": "Short paths protect against the cold wind.",
+                "el": "Σύντομες αποστάσεις προστατεύουν από τον ψυχρό άνεμο."
               }
             },
             {
@@ -1790,7 +1937,8 @@
                 "de": "Die Heizung im Auto sorgt für Komfort.",
                 "hu": "Az autó fűtése gondoskodik a kényelemről.",
                 "ro": "Căldura din mașină asigură confortul.",
-                "en": "Car heating ensures comfort."
+                "en": "Car heating ensures comfort.",
+                "el": "Η θέρμανση του αυτοκινήτου εξασφαλίζει άνεση."
               }
             },
             {
@@ -1799,7 +1947,8 @@
                 "de": "Abendliches Panorama im Scheinwerferlicht.",
                 "hu": "Esti panoráma a fényszórók fényében.",
                 "ro": "Panoramă de seară în lumina farurilor.",
-                "en": "Evening panorama in the light of the headlights."
+                "en": "Evening panorama in the light of the headlights.",
+                "el": "Βραδινή πανοραμική θέα με το φως των προβολέων."
               }
             }
           ],
@@ -1827,6 +1976,12 @@
               "The battery might weaken in the cold; be careful.",
               "City center lighting is very festive in winter.",
               "Allow time for finding a parking spot."
+            ],
+            "el": [
+              "Ελέγξτε το αντιψυκτικό στο υγρό υαλοκαθαριστήρων.",
+              "Η μπαταρία μπορεί να εξασθενήσει στο κρύο· προσέξτε.",
+              "Ο φωτισμός στο κέντρο της πόλης είναι πολύ εορταστικός τον χειμώνα.",
+              "Αφιερώστε χρόνο για να βρείτε θέση στάθμευσης."
             ]
           }
         }
@@ -1845,7 +2000,8 @@
             "de": "Ankunft am Irini-Platz",
             "hu": "Érkezés az Irini térre",
             "ro": "Sosire în Piața Irini",
-            "en": "Arrival at Irini Square"
+            "en": "Arrival at Irini Square",
+            "el": "Άφιξη στην Πλατεία Ειρήνης"
           },
           "coords": [
             25.4053,
@@ -1861,7 +2017,8 @@
             "de": "Viele Buslinien halten hier, ein perfekter Startpunkt.",
             "hu": "Sok buszjárat megáll itt, tökéletes kiindulópont.",
             "ro": "Multe linii de autobuz opresc aici, un punct de plecare perfect.",
-            "en": "Many bus lines stop here, making it a perfect starting point."
+            "en": "Many bus lines stop here, making it a perfect starting point.",
+            "el": "Πολλές λεωφορειακές γραμμές σταματούν εδώ, καθιστώντας την ιδανικό σημείο εκκίνησης."
           }
         },
         {
@@ -1869,7 +2026,8 @@
             "de": "Neue Moschee & Uhrturm",
             "hu": "Új Mecset és Óratorony",
             "ro": "Moscheea Nouă și Turnul cu Ceas",
-            "en": "New Mosque & Clock Tower"
+            "en": "New Mosque & Clock Tower",
+            "el": "Νέα Τζαμί και Ρολόι"
           },
           "coords": [
             25.4055,
@@ -1885,7 +2043,8 @@
             "de": "Nur einen kurzen Spaziergang vom Platz entfernt.",
             "hu": "Csak egy rövid sétára a tértől.",
             "ro": "La doar o scurtă plimbare de piață.",
-            "en": "Just a short walk from the square."
+            "en": "Just a short walk from the square.",
+            "el": "Μόλις λίγα βήματα από την πλατεία."
           }
         },
         {
@@ -1893,7 +2052,8 @@
             "de": "Alte Moschee & Imaret",
             "hu": "Régi Mecset és Imaret",
             "ro": "Moscheea Veche și Imaretul",
-            "en": "Old Mosque & Imaret"
+            "en": "Old Mosque & Imaret",
+            "el": "Παλιό Τζαμί και Ιμάρετ"
           },
           "coords": [
             25.4028,
@@ -1909,7 +2069,8 @@
             "de": "Setzen Sie Ihren Spaziergang durch das historische Viertel fort.",
             "hu": "Folytassa sétáját a történelmi negyedben.",
             "ro": "Continuați-vă plimbarea prin cartierul istoric.",
-            "en": "Continue your walk through the historical quarter."
+            "en": "Continue your walk through the historical quarter.",
+            "el": "Συνεχίστε την περιήγησή σας στη ιστορική συνοικία με τα πόδια."
           }
         },
         {
@@ -1917,7 +2078,8 @@
             "de": "Busfahrt zum Museumsviertel",
             "hu": "Buszozás a múzeumi negyedbe",
             "ro": "Călătorie cu autobuzul spre cartierul muzeelor",
-            "en": "Bus ride to the Museum District"
+            "en": "Bus ride to the Museum District",
+            "el": "Διαδρομή με λεωφορείο προς τη Μουσειακή Συγκέντρωση"
           },
           "coords": [
             25.408,
@@ -1933,7 +2095,8 @@
             "de": "Nehmen Sie einen lokalen Bus für die kurze Fahrt.",
             "hu": "A rövid útra vegyen igénybe egy helyi buszt.",
             "ro": "Luați un autobuz local pentru scurta călătorie.",
-            "en": "Take a local bus for the short ride."
+            "en": "Take a local bus for the short ride.",
+            "el": "Πάρτε ένα τοπικό λεωφορείο για τη μικρή διαδρομή."
           }
         },
         {
@@ -1941,7 +2104,8 @@
             "de": "Archäologisches Museum & Mittagessen",
             "hu": "Régészeti Múzeum és ebéd",
             "ro": "Muzeul de Arheologie și prânz",
-            "en": "Archaeological Museum & Lunch"
+            "en": "Archaeological Museum & Lunch",
+            "el": "Αρχαιολογικό Μουσείο και Γεύμα"
           },
           "coords": [
             25.4082,
@@ -1957,7 +2121,8 @@
             "de": "Kombinieren Sie den Museumsbesuch mit einer Mittagspause in der Nähe.",
             "hu": "Kombinálja a múzeumlátogatást egy közeli ebédszünettel.",
             "ro": "Combinați vizita la muzeu cu o pauză de prânz în apropiere.",
-            "en": "Combine the museum visit with a lunch break nearby."
+            "en": "Combine the museum visit with a lunch break nearby.",
+            "el": "Συνδυάστε την επίσκεψη στο μουσείο με ένα γεύμα κοντά."
           }
         },
         {
@@ -1965,7 +2130,8 @@
             "de": "Busfahrt zum Agia Paraskevi Park",
             "hu": "Buszozás az Agia Paraskevi Parkba",
             "ro": "Călătorie cu autobuzul la Parcul Agia Paraskevi",
-            "en": "Bus ride to Agia Paraskevi Park"
+            "en": "Bus ride to Agia Paraskevi Park",
+            "el": "Διαδρομή με λεωφορείο προς το Πάρκο Αγίας Παρασκευής"
           },
           "coords": [
             25.412,
@@ -1981,7 +2147,8 @@
             "de": "Eine kurze Busfahrt bringt Sie zur grünen Oase der Stadt.",
             "hu": "Egy rövid buszút elviszi a város zöld oázisába.",
             "ro": "O scurtă călătorie cu autobuzul vă duce la oaza verde a orașului.",
-            "en": "A short bus ride takes you to the city's green oasis."
+            "en": "A short bus ride takes you to the city's green oasis.",
+            "el": "Μια σύντομη διαδρομή με λεωφορείο σας φέρνει στην πράσινη όαση της πόλης."
           }
         },
         {
@@ -1989,7 +2156,8 @@
             "de": "Byzantinische Stadtmauer",
             "hu": "Bizánci városfal",
             "ro": "Zidul Cetății Bizantine",
-            "en": "Byzantine Fortress Wall"
+            "en": "Byzantine Fortress Wall",
+            "el": "Βυζαντινά Τείχη Κάστρου"
           },
           "coords": [
             25.401,
@@ -2005,7 +2173,8 @@
             "de": "Ein Spaziergang vom Park führt Sie zu den historischen Überresten.",
             "hu": "A parkból egy séta vezet a történelmi maradványokhoz.",
             "ro": "O plimbare de la parc vă duce la vestigiile istorice.",
-            "en": "A walk from the park leads you to the historical remains."
+            "en": "A walk from the park leads you to the historical remains.",
+            "el": "Μια βόλτα από το πάρκο οδηγεί στα ιστορικά ερείπια."
           }
         }
       ],
@@ -2013,7 +2182,8 @@
         "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt am zentralen Irini-Platz. Von hier aus erkunden Sie das osmanische Viertel zu Fuß, einschließlich der Moscheen und des Uhrturms. Ein kurzer Spaziergang führt Sie weiter zum Imaret. Am Vormittag nehmen Sie einen Bus zum Museumsviertel, wo Sie nach dem Besuch des Archäologischen Museums zu Mittag essen. Eine weitere kurze Busfahrt bringt Sie am Nachmittag zum Agia-Paraskevi-Park, um sich zu entspannen. Der Tag endet mit einem Spaziergang vom Park zu den byzantinischen Mauern, die einen letzten Einblick in die reiche Geschichte Komotinis bieten.",
         "hu": "Tömegközlekedéssel töltött napja a központi Irini téren kezdődik. Innen gyalogosan fedezi fel az oszmán negyedet, beleértve a mecseteket és az Óratornyot. Egy rövid séta vezet tovább az Imarethez. Délelőtt busszal utazik a múzeumi negyedbe, ahol a Régészeti Múzeum meglátogatása után ebédel. Egy másik rövid buszút viszi délután az Agia Paraskevi Parkba pihenni. A nap a parkból a bizánci falakhoz tett sétával ér véget, amely utolsó bepillantást nyújt Komotini gazdag történelmébe.",
         "ro": "Ziua dvs. cu transportul public începe în Piața centrală Irini. De aici, explorați cartierul otoman pe jos, inclusiv moscheile și Turnul cu Ceas. O scurtă plimbare vă duce mai departe la Imaret. În cursul dimineții, luați un autobuz spre cartierul muzeelor, unde luați prânzul după vizitarea Muzeului de Arheologie. O altă călătorie scurtă cu autobuzul vă duce după-amiaza la Parcul Agia Paraskevi pentru relaxare. Ziua se încheie cu o plimbare de la parc la zidurile bizantine, oferind o ultimă privire asupra istoriei bogate a orașului Komotini.",
-        "en": "Your day using public transport begins at the central Irini Square. From here, you'll explore the Ottoman quarter on foot, including the mosques and the Clock Tower. A short walk takes you further to the Imaret. In the morning, you'll take a bus to the museum district, where you'll have lunch after visiting the Archaeological Museum. Another short bus ride takes you to Agia Paraskevi Park in the afternoon for relaxation. The day concludes with a walk from the park to the Byzantine walls, offering a final glimpse into Komotini's rich history."
+        "en": "Your day using public transport begins at the central Irini Square. From here, you'll explore the Ottoman quarter on foot, including the mosques and the Clock Tower. A short walk takes you further to the Imaret. In the morning, you'll take a bus to the museum district, where you'll have lunch after visiting the Archaeological Museum. Another short bus ride takes you to Agia Paraskevi Park in the afternoon for relaxation. The day concludes with a walk from the park to the Byzantine walls, offering a final glimpse into Komotini's rich history.",
+        "el": "Η μέρα σας με δημόσια συγκοινωνία ξεκινά στην κεντρική Πλατεία Ειρήνης. Από εδώ, θα εξερευνήσετε πεζοί την οθωμανική συνοικία, συμπεριλαμβανομένων των τζαμιών και του Ρολογιού. Μια σύντομη βόλτα σας οδηγεί στο Ιμάρετ. Το πρωί θα πάρετε λεωφορείο προς τη μαντρίδα των μουσείων, όπου θα γευματίσετε μετά την επίσκεψη στο Αρχαιολογικό Μουσείο. Μια ακόμη μικρή διαδρομή με λεωφορείο σας πηγαίνει το απόγευμα στο Πάρκο Αγίας Παρασκευής για χαλάρωση. Η μέρα ολοκληρώνεται με περπάτημα από το πάρκο προς τα βυζαντινά τείχη, προσφέροντας μια τελευταία ματιά στην πλούσια ιστορία της Κομοτηνής."
       },
       "gastro_picks": {
         "de": [
@@ -2209,6 +2379,12 @@
           "Check bus schedules in advance, especially on weekends and holidays.",
           "Have small change ready for bus tickets, which are often purchased from the driver.",
           "Most sights are within easy walking distance from the bus stops."
+        ],
+        "el": [
+          "Αγοράστε ημερήσιο εισιτήριο λεωφορείου για να εξοικονομήσετε χρήματα.",
+          "Ελέγξτε τα δρομολόγια των λεωφορείων εκ των προτέρων, ειδικά σαββατοκύριακα και αργίες.",
+          "Έχετε ρέστα έτοιμα για εισιτήρια λεωφορείου, που συχνά αγοράζονται από τον οδηγό.",
+          "Οι περισσότερες αξιοθεάσεις βρίσκονται σε εύκολη απόσταση με τα πόδια από τις στάσεις."
         ]
       },
       "variants": {
@@ -2217,7 +2393,8 @@
             "de": "Nutzen Sie den Nahverkehr, um Komotini bei Regen zu erkunden. Starten Sie am Irini-Platz und fahren Sie mit dem Bus zum Museumsviertel, um trocken zu bleiben. Genießen Sie ein langes Mittagessen und den Museumsbesuch. Die Rückfahrt zum Park und zur Festung ist mit dem Bus unkompliziert. Die Haltestellen bieten meist guten Wetterschutz, während Sie auf den nächsten Bus warten.",
             "hu": "Használja a tömegközlekedést Komotini felfedezéséhez esőben. Kezdjen a Béke téren, majd busszal menjen a múzeumi negyedbe, hogy száraz maradjon. Élvezze a hosszú ebédet és a múzeumi látogatást. A parkhoz és a várfalhoz való visszatérés busszal egyszerű. A megállók többnyire jó védelmet nyújtanak, amíg a következő járatra vár.",
             "ro": "Folosiți transportul public pentru a explora Komotini pe ploaie. Începeți în Piața Irini și luați autobuzul spre cartierul muzeelor pentru a rămâne uscat. Bucurați-vă de un prânz lung și de vizita la muzeu. Întoarcerea spre parc și cetate este simplă cu autobuzul. Stațiile oferă de obicei protecție bună în timp ce așteptați.",
-            "en": "Use public transit to explore Komotini in the rain. Start at Peace Square and take the bus to the museum district to stay dry. Enjoy a long lunch and the museum visit. The return trip to the park and fortress is straightforward by bus. Stops mostly offer good shelter while waiting for the next bus."
+            "en": "Use public transit to explore Komotini in the rain. Start at Peace Square and take the bus to the museum district to stay dry. Enjoy a long lunch and the museum visit. The return trip to the park and fortress is straightforward by bus. Stops mostly offer good shelter while waiting for the next bus.",
+            "el": "Χρησιμοποιήστε τις δημόσιες συγκοινωνίες για να εξερευνήσετε την Κομοτηνή στη βροχή. Ξεκινήστε από την Πλατεία Ειρήνης και πάρτε το λεωφορείο προς τη μαντρίδα μουσείων για να μείνετε στεγνοί. Απολαύστε ένα μεγάλο γεύμα και την επίσκεψη στο μουσείο. Η επιστροφή στο πάρκο και στο φρούριο είναι απλή με λεωφορείο. Οι στάσεις προσφέρουν συνήθως καλή κάλυψη ενώ περιμένετε το επόμενο λεωφορείο."
           },
           "stops": [
             {
@@ -2226,7 +2403,8 @@
                 "de": "Zentrale Haltestelle mit vielen Anschlussmöglichkeiten.",
                 "hu": "Központi megálló sok átszállási lehetőséggel.",
                 "ro": "Stație centrală cu multe conexiuni.",
-                "en": "Central stop with many connections."
+                "en": "Central stop with many connections.",
+                "el": "Κεντρική στάση με πολλές συνδέσεις."
               }
             },
             {
@@ -2235,7 +2413,8 @@
                 "de": "Kurzer Fußweg von der Bushaltestelle.",
                 "hu": "Rövid séta a buszmegállótól.",
                 "ro": "Scurtă plimbare de la stația de autobuz.",
-                "en": "Short walk from the bus stop."
+                "en": "Short walk from the bus stop.",
+                "el": "Σύντομος περίπατος από τη στάση."
               }
             },
             {
@@ -2244,7 +2423,8 @@
                 "de": "Enge Gassen können bei Regen windig sein.",
                 "hu": "A szűk utcák szelesek lehetnek esőben.",
                 "ro": "Străzile înguste pot fi vântoase pe ploaie.",
-                "en": "Narrow alleys can be windy in the rain."
+                "en": "Narrow alleys can be windy in the rain.",
+                "el": "Τα στενά σοκάκια μπορούν να γίνουν ριψοκίνδυνα στη βροχή λόγω ανέμου."
               }
             },
             {
@@ -2253,7 +2433,8 @@
                 "de": "Nutzen Sie die Fahrt zum Aufwärmen.",
                 "hu": "Használja az utazást a melegedésre.",
                 "ro": "Folosiți călătoria pentru a vă încălzi.",
-                "en": "Use the ride to warm up."
+                "en": "Use the ride to warm up.",
+                "el": "Χρησιμοποιήστε τη διαδρομή για να ζεσταθείτε."
               }
             },
             {
@@ -2262,7 +2443,8 @@
                 "de": "Die Bushaltestelle ist nah am Museumseingang.",
                 "hu": "A buszmegálló közel van a múzeum bejáratához.",
                 "ro": "Stația de autobuz este aproape de intrarea muzeului.",
-                "en": "The bus stop is near the museum entrance."
+                "en": "The bus stop is near the museum entrance.",
+                "el": "Η στάση λεωφορείου βρίσκεται κοντά στην είσοδο του μουσείου."
               }
             },
             {
@@ -2271,7 +2453,8 @@
                 "de": "Bequemer Transfer durch den Regen.",
                 "hu": "Kényelmes transzfer az esőben.",
                 "ro": "Transfer confortabil prin ploaie.",
-                "en": "Comfortable transfer through the rain."
+                "en": "Comfortable transfer through the rain.",
+                "el": "Άνετη μετακίνηση μέσα στη βροχή."
               }
             },
             {
@@ -2280,7 +2463,8 @@
                 "de": "Letzter Stopp vor der Heimfahrt im Trockenen.",
                 "hu": "Utolsó megálló a hazautazás előtt.",
                 "ro": "Ultima oprire înainte de drumul spre casă.",
-                "en": "Last stop before heading home dry."
+                "en": "Last stop before heading home dry.",
+                "el": "Τελευταία στάση πριν την ασφαλή επιστροφή στο σπίτι."
               }
             }
           ],
@@ -2308,6 +2492,12 @@
               "Buses may run less regularly in the rain.",
               "Use transit apps for real-time information.",
               "A rain poncho is more practical than an umbrella on the bus."
+            ],
+            "el": [
+              "Έχετε ρέστα ή κάρτα έτοιμα για εισιτήρια.",
+              "Τα λεωφορεία μπορεί να κυκλοφορούν λιγότερο τακτικά στη βροχή.",
+              "Χρησιμοποιήστε εφαρμογές συγκοινωνιών για πληροφορίες σε πραγματικό χρόνο.",
+              "Ένα αδιάβροχο poncho είναι πιο πρακτικό από ομπρέλα στο λεωφορείο."
             ]
           }
         },
@@ -2316,7 +2506,8 @@
             "de": "Erkunden Sie das winterliche Komotini mit dem gut ausgebauten Busnetz. Starten Sie am Irini-Platz und nutzen Sie die kurzen Fahrzeiten zwischen den historischen Vierteln und dem Museum. Die Busse sind im Winter angenehm geheizt. Da es früh dunkel wird, bietet der Transit eine sichere und warme Möglichkeit, nach dem Besuch der Festung und des Parks zurück ins Zentrum zu gelangen.",
             "hu": "Fedezze fel a téli Komotinit a jól kiépített buszhálózattal. Kezdjen a Béke téren, és használja ki a rövid menetidőket a történelmi negyedek és a múzeum között. A buszok télen kellemesen fűtöttek. Mivel korán sötétedik, a tömegközlekedés biztonságos és meleg módot kínál a várfal és a park meglátogatása utáni visszatéréshez.",
             "ro": "Explorați Komotini iarna cu rețeaua bine pusă la punct de autobuze. Începeți în Piața Irini și profitați de timpii scurți de parcurs între cartierele istorice și muzeu. Autobuzele sunt bine încălzite iarna. Deoarece se întunecă devreme, transportul oferă o cale sigură și caldă de întoarcere după vizitarea cetății.",
-            "en": "Explore winter Komotini with the well-developed bus network. Start at Peace Square and take advantage of short travel times between historical districts and the museum. Buses are pleasantly heated in winter. Since it gets dark early, transit offers a safe and warm way to return to the center after visiting the fortress."
+            "en": "Explore winter Komotini with the well-developed bus network. Start at Peace Square and take advantage of short travel times between historical districts and the museum. Buses are pleasantly heated in winter. Since it gets dark early, transit offers a safe and warm way to return to the center after visiting the fortress.",
+            "el": "Εξερευνήστε την Κομοτηνή το χειμώνα με το ανεπτυγμένο δίκτυο λεωφορείων. Ξεκινήστε από την Πλατεία Ειρήνης και επωφεληθείτε από τις σύντομες διαδρομές μεταξύ ιστορικών συνοικιών και μουσείων. Τα λεωφορεία είναι ευχάριστα θερμαινόμενα τον χειμώνα. Δεδομένου ότι νυχτώνει νωρίς, οι συγκοινωνίες προσφέρουν έναν ασφαλή και ζεστό τρόπο επιστροφής στο κέντρο μετά την επίσκεψη στα τείχη."
           },
           "stops": [
             {
@@ -2325,7 +2516,8 @@
                 "de": "Zentraler Punkt zum Aufwärmen in Cafés.",
                 "hu": "Központi pont a kávézókban való felmelegedéshez.",
                 "ro": "Punct central pentru încălzire în cafenele.",
-                "en": "Central spot for warming up in cafes."
+                "en": "Central spot for warming up in cafes.",
+                "el": "Κεντρικό σημείο για να ζεσταθείτε σε καφέ."
               }
             },
             {
@@ -2334,7 +2526,8 @@
                 "de": "Ein kurzer, belebender Winterspaziergang.",
                 "hu": "Rövid, élénkítő téli séta.",
                 "ro": "O plimbare scurtă și revigorantă de iarnă.",
-                "en": "A short, invigorating winter walk."
+                "en": "A short, invigorating winter walk.",
+                "el": "Ένας σύντομος, αναζωογονητικός χειμερινός περίπατος."
               }
             },
             {
@@ -2343,7 +2536,8 @@
                 "de": "Genießen Sie die Ruhe der Nebensaison.",
                 "hu": "Élvezze a főszezonon kívüli nyugalmat.",
                 "ro": "Bucurați-vă de liniștea din afara sezonului.",
-                "en": "Enjoy the off-season tranquility."
+                "en": "Enjoy the off-season tranquility.",
+                "el": "Απολαύστε την ησυχία της εκτός σεζόν περιόδου."
               }
             },
             {
@@ -2352,7 +2546,8 @@
                 "de": "Warme Busse machen den Transfer angenehm.",
                 "hu": "A fűtött buszok kellemessé teszik az utat.",
                 "ro": "Autobuzele încălzite fac transferul plăcut.",
-                "en": "Heated buses make the transfer pleasant."
+                "en": "Heated buses make the transfer pleasant.",
+                "el": "Τα θερμαινόμενα λεωφορεία κάνουν τη μεταφορά ευχάριστη."
               }
             },
             {
@@ -2361,7 +2556,8 @@
                 "de": "Ideal für die Mittagsstunden im Warmen.",
                 "hu": "Ideális a déli órák eltöltésére melegben.",
                 "ro": "Ideal pentru orele amiezii petrecute la căldură.",
-                "en": "Ideal for spending midday hours in the warm."
+                "en": "Ideal for spending midday hours in the warm.",
+                "el": "Ιδανικό για να περάσετε τις μεσημεριανές ώρες ζεστά."
               }
             },
             {
@@ -2370,7 +2566,8 @@
                 "de": "Pünktliche Verbindungen sind im Winter wichtig.",
                 "hu": "A pontos csatlakozások fontosak télen.",
                 "ro": "Conexiunile punctuale sunt importante iarna.",
-                "en": "Punctual connections are important in winter."
+                "en": "Punctual connections are important in winter.",
+                "el": "Οι ακριβείς συνδέσεις είναι σημαντικές το χειμώνα."
               }
             },
             {
@@ -2379,7 +2576,8 @@
                 "de": "Frühe Abenddämmerung an den Mauern erleben.",
                 "hu": "Élje át a korai szürkületet a falaknál.",
                 "ro": "Trăiți amurgul timpuriu la zidurile cetății.",
-                "en": "Experience the early twilight at the walls."
+                "en": "Experience the early twilight at the walls.",
+                "el": "Ζήστε το πρώιμο λυκόφως στα τείχη."
               }
             }
           ],
@@ -2407,6 +2605,12 @@
               "Buses are often less crowded in winter.",
               "Stay at well-lit and busy bus stops.",
               "Wear a hat against the cold wind while waiting."
+            ],
+            "el": [
+              "Τα δρομολόγια μπορεί να διαφέρουν σε δημόσιες αργίες.",
+              "Τα λεωφορεία είναι συνήθως λιγότερο γεμάτα το χειμώνα.",
+              "Μείνετε σε καλά φωτισμένες και πολυσύχναστες στάσεις.",
+              "Φορέστε καπέλο ενάντια στον κρύο άνεμο ενώ περιμένετε."
             ]
           }
         }

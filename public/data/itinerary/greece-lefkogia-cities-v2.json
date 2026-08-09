@@ -21,7 +21,8 @@
             "de": "Esel-Rettungsstation",
             "hu": "Szamármenedék",
             "ro": "Sanctuarul Măgarilor",
-            "en": "Donkey Sanctuary"
+            "en": "Donkey Sanctuary",
+            "el": "Καταφύγιο Γαϊδουριών"
           },
           "coords": [
             24.442076,
@@ -36,7 +37,8 @@
             "de": "Besuchen Sie dieses liebevolle Refugium für gerettete Esel, um mehr über den Tierschutz auf Kreta zu erfahren, und spenden Sie am besten eine Kleinigkeit für den Unterhalt.",
             "hu": "Látogasson el ebbe a megmentett szamaraknak fenntartott békés menedékhelyre, hogy megismerje a helyi állatvédelmet, és érdemes egy kis adománnyal támogatni a fenntartásukat.",
             "ro": "Vizitați acest sanctuar pașnic dedicat măgarilor salvați pentru a înțelege eforturile locale de conservare și nu uitați să lăsați o mică donație pentru a sprijini îngrijirea lor.",
-            "en": "Visit this peaceful sanctuary for rescued donkeys to learn about local animal welfare efforts on Crete, and consider leaving a small donation to help support their ongoing care."
+            "en": "Visit this peaceful sanctuary for rescued donkeys to learn about local animal welfare efforts on Crete, and consider leaving a small donation to help support their ongoing care.",
+            "el": "Επισκεφθείτε αυτό το γαλήνιο καταφύγιο για διασωθέντα γαϊδούρια για να μάθετε για τις τοπικές προσπάθειες ευημερίας των ζώων και σκεφθείτε να αφήσετε μια μικρή δωρεά για να στηρίξετε τη συνεχή φροντίδα τους."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Altes Waschhaus",
             "hu": "Régi Mosóház",
             "ro": "Vechea Spălătorie",
-            "en": "Old Washhouse"
+            "en": "Old Washhouse",
+            "el": "Παλιό Πλυσταριό"
           },
           "coords": [
             24.441291,
@@ -59,7 +62,8 @@
             "de": "Entdecken Sie dieses historische Waschhaus, das früher das soziale Zentrum des Dorfes bildete, und achten Sie auf die traditionelle Steinarchitektur, die Schatten und Kühle bietet.",
             "hu": "Fedezze fel ezt a történelmi mosóházat, amely egykor a falu társadalmi központja volt, és figyelje meg a hagyományos kőépítészetet, amely ma is kellemes hűvöst és árnyékot nyújt.",
             "ro": "Descoperiți această spălătorie istorică, odată centrul social al satului, și admirați arhitectura tradițională din piatră care oferă o umbră plăcută în zilele toride de vară.",
-            "en": "Discover this historic washhouse which once served as the social hub of the village, and take a moment to appreciate the traditional stone architecture that offers pleasant shade."
+            "en": "Discover this historic washhouse which once served as the social hub of the village, and take a moment to appreciate the traditional stone architecture that offers pleasant shade.",
+            "el": "Ανακαλύψτε αυτό το ιστορικό πλυσταριό που κάποτε λειτουργούσε ως κοινωνικό κέντρο του χωριού και αφιερώστε μια στιγμή για να εκτιμήσετε την παραδοσιακή πέτρινη αρχιτεκτονική που προσφέρει ευχάριστη σκιά."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Timios Stavros",
             "hu": "Timios Stavros",
             "ro": "Timios Stavros",
-            "en": "Timios Stavros"
+            "en": "Timios Stavros",
+            "el": "Τιμιος Σταυρός"
           },
           "coords": [
             24.44387,
@@ -82,7 +87,8 @@
             "de": "Genießen Sie die friedliche Atmosphäre an diesem charmanten Aussichtspunkt mit Blick auf die raue kretische Landschaft, und bringen Sie unbedingt eine Flasche Wasser für den Weg mit.",
             "hu": "Élvezze a békés hangulatot ezen a bájos kilátóponton, ahonnan csodás panoráma nyílik a zord krétai tájra, és feltétlenül hozzon magával elegendő ivóvizet az idevezető sétához.",
             "ro": "Bucurați-vă de atmosfera liniștită la acest punct de belvedere fermecător cu vedere la peisajul cretan accidentat și asigurați-vă că aduceți apă de băut pentru plimbarea până aici.",
-            "en": "Enjoy the peaceful atmosphere at this charming viewpoint overlooking the rugged Cretan landscape, and make sure to bring a bottle of water for the sunny walk along the rocky paths."
+            "en": "Enjoy the peaceful atmosphere at this charming viewpoint overlooking the rugged Cretan landscape, and make sure to bring a bottle of water for the sunny walk along the rocky paths.",
+            "el": "Απολαύστε την ήρεμη ατμόσφαιρα σε αυτό το γοητευτικό σημείο με θέα το τραχύ κρητικό τοπίο, και φροντίστε να φέρετε ένα μπουκάλι νερό για την ηλιόλουστη διαδρομή κατά μήκος των πετρώδων μονοπατιών."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Ammoudi Strand",
             "hu": "Ammoudi Strand",
             "ro": "Plaja Ammoudi",
-            "en": "Ammoudi Beach"
+            "en": "Ammoudi Beach",
+            "el": "Παραλία Αμμούδι"
           },
           "coords": [
             24.420395,
@@ -105,7 +112,8 @@
             "de": "Entspannen Sie an diesem malerischen Strand mit kristallklarem Wasser, der sich ideal zum Schwimmen eignet, und mieten Sie frühzeitig einen Sonnenschirm, um der Mittagssonne zu entgehen.",
             "hu": "Pihenjen ezen a kristálytiszta vizű, festői strandon, amely tökéletes egy frissítő úszáshoz, és érdemes minél korábban napernyőt bérelni, hogy elkerülje az erős déli napsütést.",
             "ro": "Relaxați-vă pe această plajă pitorească cu ape cristaline, ideală pentru înot, și închiriați o umbrelă de soare din timp pentru a vă proteja de soarele puternic de la amiază.",
-            "en": "Relax on this picturesque beach featuring crystal-clear waters perfect for swimming, and be sure to rent an umbrella early in the day to secure a shaded spot against the midday sun."
+            "en": "Relax on this picturesque beach featuring crystal-clear waters perfect for swimming, and be sure to rent an umbrella early in the day to secure a shaded spot against the midday sun.",
+            "el": "Χαλαρώστε σε αυτή την γραφική παραλία με κρυστάλλινα νερά ιδανικά για κολύμπι, και φροντίστε να νοικιάσετε ομπρέλα νωρίς για να εξασφαλίσετε σκιά κατά το μεσημέρι."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Mikro Ammoudi FKK-Strand",
             "hu": "Mikro Ammoudi Nudista Strand",
             "ro": "Plaja de Nudiști Mikro Ammoudi",
-            "en": "Mikro Ammoudi Nudist Beach"
+            "en": "Mikro Ammoudi Nudist Beach",
+            "el": "Μικρό Αμμούδι - Γυμνιστική Παραλία"
           },
           "coords": [
             24.418774,
@@ -128,7 +137,8 @@
             "de": "Besuchen Sie diesen abgelegenen FKK-Strand für ein ungestörtes Naturerlebnis an der Küste, aber seien Sie sich bewusst, dass es hier keine großen touristischen Einrichtungen gibt.",
             "hu": "Látogasson el erre az eldugott nudista strandra a zavartalan, természetközeli élményért, de vegye figyelembe, hogy itt nincsenek kiépített turisztikai létesítmények vagy büfék.",
             "ro": "Vizitați această plajă de nudiști retrasă pentru o experiență naturală netulburată pe coastă, dar rețineți că aici nu există facilități turistice majore sau umbrele de închiriat.",
-            "en": "Visit this secluded nudist beach for an undisturbed natural coastal experience, but be mindful that there are no major tourist facilities, so you must bring your own snacks and shade."
+            "en": "Visit this secluded nudist beach for an undisturbed natural coastal experience, but be mindful that there are no major tourist facilities, so you must bring your own snacks and shade.",
+            "el": "Επισκεφθείτε αυτή την απομονωμένη γυμνιστική παραλία για μια αβίαστη φυσική εμπειρία στην ακτή, αλλά να θυμάστε ότι δεν υπάρχουν μεγάλες τουριστικές παροχές, οπότε πρέπει να φέρετε δικά σας σνακ και προστασία από τον ήλιο."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Ihr Morgen in Lefkogia beginnt mit einem Besuch der Esel-Rettungsstation, gefolgt vom historischen Waschhaus des Dorfes. Gegen Mittag wandern Sie in Richtung Küste und genießen den Ausblick beim Timios Stavros. Der Nachmittag steht ganz im Zeichen der Entspannung am Ammoudi Strand. Den Tag lassen Sie dann an der ruhigen Bucht von Mikro Ammoudi entspannt ausklingen.",
         "hu": "A reggel Lefkogiában egy kedves szamármenedék meglátogatásával indul, majd a történelmi mosóházat csodálhatja meg. Dél körül a part felé sétál, és megpihen a Timios Stavros kilátópontnál. A délután folyamán a gyönyörű Ammoudi strandon frissülhet fel. A napot végül a Mikro Ammoudi békés és természetközeli öblében zárja, ahol zavartalanul pihenhet a naplementében.",
         "ro": "Dimineața în Lefkogia începe cu o vizită la sanctuarul măgarilor, urmată de vechea spălătorie a satului. La prânz, vă îndreptați spre coastă, admirând priveliștea de la Timios Stavros. După-amiaza este dedicată relaxării depline pe frumoasa plajă Ammoudi. Seara se încheie liniștit pe plaja retrasă Mikro Ammoudi, ascultând valurile mării sub lumina caldă a apusului.",
-        "en": "Your morning in Lefkogia starts by meeting the gentle residents of the donkey sanctuary, followed by a glimpse into local history at the old washhouse. Around midday, you will hike towards the scenic coast, taking in the panoramic views at Timios Stavros. The afternoon is dedicated to soaking up the sun at Ammoudi Beach, before winding down peacefully at Mikro Ammoudi."
+        "en": "Your morning in Lefkogia starts by meeting the gentle residents of the donkey sanctuary, followed by a glimpse into local history at the old washhouse. Around midday, you will hike towards the scenic coast, taking in the panoramic views at Timios Stavros. The afternoon is dedicated to soaking up the sun at Ammoudi Beach, before winding down peacefully at Mikro Ammoudi.",
+        "el": "Το πρωί στη Λευκογιά ξεκινάει με τη γνωριμία των ήρεμων κατοίκων του καταφυγίου γαϊδουριών, ακολουθούμενη από μια ματιά στην τοπική ιστορία στο παλιό πλυσταριό. Περίπου το μεσημέρι θα περπατήσετε προς την γραφική ακτή, απολαμβάνοντας τις πανοραμικές απόψεις στο Τίμιο Σταυρό. Το απόγευμα αφιερώνεται στο να απορροφήσετε τον ήλιο στην παραλία Αμμούδι, πριν αποσυρθείτε ήσυχα στο Μικρό Αμμούδι για ηρεμία."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Am Morgen besuchen wir die Esel, deren Ställe Schutz bieten. Mittags dient das alte Waschhaus als perfekter Unterstand vor dem Regen. Am Nachmittag sind die Küstenwege dramatisch, aber die Felsen können durch die Feuchtigkeit rutschig sein. Am Abend, wenn die Dämmerung einsetzt, kehren wir ins Dorf zurück, um bei einem heißen Getränk dem Prasseln des Regens auf den Dächern zu lauschen.",
             "hu": "Reggel a szamaraknál kezdünk, ahol az istállók némi védelmet nyújtanak. Délben a régi mosóház fedett kőépülete tökéletes menedék a zápor elől. Délután a tengerparti ösvények vadregényesek, de a sziklák csúszósak lehetnek a pára miatt. Este, a szürkület beálltával érdemes visszatérni a faluba egy forró italra, miközben hallgatjuk az eső kopogását a háztetőkön.",
             "ro": "Dimineața începe la măgăruși, unde grajdurile oferă adăpost. La prânz, vechea spălătorie este refugiul perfect împotriva ploii. După-amiaza, potecile de pe coastă sunt spectaculoase, dar stâncile pot fi alunecoase din cauza umidității. Seara, pe măsură ce se lasă amurgul, ne întoarcem în sat pentru o băutură caldă, ascultând ropotul ploii pe acoperișuri.",
-            "en": "Morning starts with the donkeys, where the stables provide some cover. At noon, the old washhouse offers a perfect stone shelter from the showers. Afternoon coastal paths are wild and dramatic, though rocks may be slippery from the mist. In the evening, as dusk falls, return to the village for a warm drink while listening to the rhythmic sound of rain on the rooftops."
+            "en": "Morning starts with the donkeys, where the stables provide some cover. At noon, the old washhouse offers a perfect stone shelter from the showers. Afternoon coastal paths are wild and dramatic, though rocks may be slippery from the mist. In the evening, as dusk falls, return to the village for a warm drink while listening to the rhythmic sound of rain on the rooftops.",
+            "el": "Το πρωί ξεκινά με τα γαϊδούρια, όπου οι στάβλοι προσφέρουν λίγη κάλυψη. Το μεσημέρι, το παλιό πλυσταριό παρέχει τέλειο πέτρινο καταφύγιο από τις μπόρες. Το απόγευμα τα παράκτια μονοπάτια είναι άγρια και δραματικά, αν και οι πέτρες μπορεί να είναι ολισθηρές από την υγρασία. Το βράδυ, καθώς πέφτει το σκοτάδι, επιστρέψτε στο χωριό για ένα ζεστό ρόφημα ακούγοντας τον ρυθμικό ήχο της βροχής στις στέγες."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Esel-Rettungsstation",
                 "hu": "Szamármenedék",
                 "ro": "Sanctuarul Măgarilor",
-                "en": "Donkey Sanctuary"
+                "en": "Donkey Sanctuary",
+                "el": "Καταφύγιο Γαϊδουριών"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Esel in ihren trockenen Ställen; es ist ein gemütlicher Weg, den Tieren trotz Regen nah zu sein. Tragen Sie wasserfeste Stiefel für die schlammigen Wege.",
                 "hu": "Látogasd meg a szamarakat a száraz istállókban; ez egy meghitt módja az állatokkal való ismerkedésnek az eső ellenére is. Viselj vízálló bakancsot a sáros részek miatt.",
                 "ro": "Vizitați măgărușii în grajdurile lor uscate; este un mod plăcut de a interacționa cu animalele în ciuda ploii. Purtați cizme impermeabile pentru porțiunile cu noroi.",
-                "en": "Visit the donkeys in their dry stables; it is a cozy way to interact with the animals despite the rain. Wear waterproof boots for the muddy patches on the grounds."
+                "en": "Visit the donkeys in their dry stables; it is a cozy way to interact with the animals despite the rain. Wear waterproof boots for the muddy patches on the grounds.",
+                "el": "Επισκεφθείτε τα γαϊδούρια στους στεγνούς τους στάβλους· είναι ένας ζεστός τρόπος να αλληλεπιδράσετε με τα ζώα παρά τη βροχή. Φορέστε αδιάβροχες μπότες για τις λασπώδεις ψιλές περιοχές."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Altes Waschhaus",
                 "hu": "Régi Mosóház",
                 "ro": "Vechea Spălătorie",
-                "en": "Old Washhouse"
+                "en": "Old Washhouse",
+                "el": "Παλιό Πλυσταριό"
               },
               "tip_5lang": {
                 "de": "Das dicke Steindach bietet exzellenten Schutz; bewundern Sie das historische Mauerwerk während eines Schauers. Achten Sie auf rutschiges Moos auf dem Steinboden.",
                 "hu": "A vastag kőtető kiváló menedéket nyújt; csodáld meg a történelmi falazatot, miközben szárazon maradsz a zápor alatt. Figyelj a csúszós mohára a kőpadlón.",
                 "ro": "Acoperișul gros de piatră oferă un adăpost excelent; admirați zidăria istorică în timp ce rămâneți uscați. Atenție la mușchiul alunecos de pe podeaua de piatră.",
-                "en": "The thick stone roof provides excellent shelter; admire the historical masonry while staying dry during a downpour. Watch for slippery moss on the stone floor."
+                "en": "The thick stone roof provides excellent shelter; admire the historical masonry while staying dry during a downpour. Watch for slippery moss on the stone floor.",
+                "el": "Η παχιά πέτρινη στέγη προσφέρει εξαιρετικό καταφύγιο· θαυμάστε την ιστορική λιθοδομή ενώ μένετε στεγνοί κατά τη διάρκεια μπόρας. Προσέξτε τη σμυρτόβρεκτη βρύα στο πέτρινο δάπεδο που μπορεί να γλιστράει."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Timios Stavros",
                 "hu": "Timios Stavros",
                 "ro": "Timios Stavros",
-                "en": "Timios Stavros"
+                "en": "Timios Stavros",
+                "el": "Τιμιος Σταυρός"
               },
               "tip_5lang": {
                 "de": "Der Aufstieg bietet einen stimmungsvollen Blick auf das stürmische Meer unter grauen Wolken. Nutzen Sie Wanderstöcke für besseren Halt auf dem nassen, felsigen Pfad.",
                 "hu": "A kapaszkodó hangulatos kilátást nyújt a viharos tengerre a szürke felhők alatt. Használj túrabotot a jobb egyensúly érdekében a nedves, sziklás ösvényen.",
                 "ro": "Urcarea oferă o vedere atmosferică asupra mării înfuriate sub norii cenușii. Folosiți bețe de trekking pentru un echilibru mai bun pe poteca stâncoasă și umedă.",
-                "en": "The climb offers a moody view of the stormy sea under grey clouds. Use hiking poles for extra balance and safety on the wet, rocky coastal trail."
+                "en": "The climb offers a moody view of the stormy sea under grey clouds. Use hiking poles for extra balance and safety on the wet, rocky coastal trail.",
+                "el": "Η ανάβαση προσφέρει μια μελαγχολική θέα της θολής θάλασσας υπό γκρίζα σύννεφα. Χρησιμοποιήστε μπαστούνια πεζοπορίας για επιπλέον ισορροπία και ασφάλεια στο υγρό, πετρώδες παράκτιο μονοπάτι."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Ammoudi Strand",
                 "hu": "Ammoudi Strand",
                 "ro": "Plaja Ammoudi",
-                "en": "Ammoudi Beach"
+                "en": "Ammoudi Beach",
+                "el": "Παραλία Αμμούδι"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie die dramatischen Wellen aus sicherer Entfernung; der Strand wirkt im Regen rau und schön. Halten Sie Ihre Regenjacke wegen der Gischt fest geschlossen.",
                 "hu": "Figyeld a drámai hullámokat biztonságos távolságból; a strand nyers szépséget mutat az esőben. Tartsd szorosan zárva az esőkabátodat a sós tengeri permet miatt.",
                 "ro": "Observați valurile dramatice de la o distanță sigură; plaja capătă o frumusețe brută în ploaie. Păstrați jacheta de ploaie închisă bine împotriva spray-ului marin.",
-                "en": "Watch the dramatic waves from a safe distance; the beach takes on a rugged beauty in the rain. Keep your waterproof jacket zipped tight against the salty sea spray."
+                "en": "Watch the dramatic waves from a safe distance; the beach takes on a rugged beauty in the rain. Keep your waterproof jacket zipped tight against the salty sea spray.",
+                "el": "Παρακολουθήστε τα δραματικά κύματα από ασφαλή απόσταση· η παραλία αποκτά μια άγρια ομορφιά στη βροχή. Κρατήστε το αδιάβροχο μπουφάν σας κλειδωμένο απέναντι στη λασπωμένη αλμύρα της θάλασσας."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Mikro Ammoudi FKK-Strand",
                 "hu": "Mikro Ammoudi Nudista Strand",
                 "ro": "Plaja de Nudiști Mikro Ammoudi",
-                "en": "Mikro Ammoudi Nudist Beach"
+                "en": "Mikro Ammoudi Nudist Beach",
+                "el": "Μικρό Αμμούδι - Γυμνιστική Παραλία"
               },
               "tip_5lang": {
                 "de": "Dieser abgelegene Ort fühlt sich bei Regen noch privater an; lauschen Sie den Tropfen auf dem Meer. Bleiben Sie nicht zu lange, falls der Wind aus Süden auffrischt.",
                 "hu": "Ez az eldugott hely még privátabbnak tűnik esőben; hallgasd a tenger felszínén koppanó cseppeket. Ne maradj túl sokáig, ha a szél felerősödne déli irányból.",
                 "ro": "Acest loc retras pare și mai privat când plouă; ascultați picăturile lovind suprafața mării. Nu zăboviți prea mult dacă vântul începe să bată dinspre sud.",
-                "en": "This secluded spot feels even more private when it rains; listen to the raindrops hitting the sea surface. Don't stay too long if the wind starts to pick up."
+                "en": "This secluded spot feels even more private when it rains; listen to the raindrops hitting the sea surface. Don't stay too long if the wind starts to pick up.",
+                "el": "Αυτό το απομονωμένο σημείο γίνεται ακόμη πιο ιδιωτικό όταν βρέχει· ακούστε τις σταγόνες να χτυπούν την επιφάνεια της θάλασσας. Μην παραμείνετε πολύ ώρα αν αρχίσει να δυναμώνει ο άνεμος."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Die frische Morgenluft macht das Füttern der Esel zu einem wärmenden Erlebnis. Mittags spazieren wir durch die stillen Gassen des Dorfes und genießen die milde Wintersonne. Am Nachmittag wandern wir zum Timios Stavros, von wo aus die Sicht auf das Meer kristallklar ist. Da es bereits gegen 17:00 Uhr dunkel wird, kehren wir früh in eine gemütliche Unterkunft zurück.",
             "hu": "A friss reggeli levegőben a szamarak etetése melengető élmény. Délben a falu csendes utcáit járjuk át, élvezve a téli napsütés gyenge erejét. Délután a Timios Stavros felé vesszük az irányt, ahonnan tiszta a kilátás a tengerre. Este korán, már öt órakor leszáll az éj, így érdemes időben behúzódni egy barátságos szállásra.",
             "ro": "Aerul proaspăt de dimineață face ca hrănirea măgărușilor să fie o experiență caldă. La prânz, parcurgem străzile liniștite ale satului, bucurându-ne de soarele blând de iarnă. După-amiaza urcăm spre Timios Stavros, de unde vizibilitatea spre mare este perfectă. Seara, deoarece se întunecă la ora 17:00, ne retragem devreme într-o gazdă primitoare.",
-            "en": "The crisp morning air makes feeding the donkeys a heartwarming experience. At noon, we stroll through the quiet village streets, enjoying the mild winter sun. In the afternoon, we head to Timios Stavros, where the clear air offers panoramic sea views. Since it gets dark by 17:00, it is best to find a cozy indoor spot early in the evening."
+            "en": "The crisp morning air makes feeding the donkeys a heartwarming experience. At noon, we stroll through the quiet village streets, enjoying the mild winter sun. In the afternoon, we head to Timios Stavros, where the clear air offers panoramic sea views. Since it gets dark by 17:00, it is best to find a cozy indoor spot early in the evening.",
+            "el": "Ο δροσερός πρωινός αέρας κάνει το τάισμα των γαϊδουριών μια συγκινητική εμπειρία. Το μεσημέρι περπατάμε στα ήσυχα χωράκια, απολαμβάνοντας τον ήπιο χειμερινό ήλιο. Το απόγευμα κατευθυνόμαστε προς τον Τίμιο Σταυρό, όπου ο καθαρός αέρας προσφέρει πανοραμική θέα στη θάλασσα. Επειδή σκοτεινιάζει γύρω στις 17:00, είναι καλύτερο να βρείτε νωρίς το βράδυ ένα ζεστό εσωτερικό μέρος."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Esel-Rettungsstation",
                 "hu": "Szamármenedék",
                 "ro": "Sanctuarul Măgarilor",
-                "en": "Donkey Sanctuary"
+                "en": "Donkey Sanctuary",
+                "el": "Καταφύγιο Γαϊδουριών"
               },
               "tip_5lang": {
                 "de": "Helfen Sie bei der Winterfütterung; die Esel sind bei kühlerem Wetter viel aktiver. Kleiden Sie sich in Schichten, da der Wind im Winter beißend sein kann.",
                 "hu": "Segíts a téli etetésben; a szamarak sokkal aktívabbak a hűvösebb időben. Öltözz rétegesen, mert a téli szél néha metsző lehet a nyílt terepen.",
                 "ro": "Ajutați la hrănirea de iarnă; măgărușii sunt mult mai activi pe vreme răcoroasă. Îmbrăcați-vă în straturi, deoarece vântul de iarnă poate fi tăios.",
-                "en": "Help with the winter feeding routine; the donkeys are much more active in the cooler weather. Dress in warm layers as the wind can be quite biting."
+                "en": "Help with the winter feeding routine; the donkeys are much more active in the cooler weather. Dress in warm layers as the wind can be quite biting.",
+                "el": "Βοηθήστε στο χειμερινό πρόγραμμα ταΐσματος· τα γαϊδούρια είναι πολύ πιο δραστήρια στον ψυχρό καιρό. Ντυθείτε ζεστά με στρώσεις καθώς ο άνεμος μπορεί να είναι τσουχτερός."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Altes Waschhaus",
                 "hu": "Régi Mosóház",
                 "ro": "Vechea Spălătorie",
-                "en": "Old Washhouse"
+                "en": "Old Washhouse",
+                "el": "Παλιό Πλυσταριό"
               },
               "tip_5lang": {
                 "de": "Ein ruhiger Ort, um die Dorfgeschichte abseits der Sommermassen zu spüren. Bringen Sie eine Thermoskanne mit heißem Tee mit, um ihn in dieser Steinnische zu genießen.",
                 "hu": "Csendes hely a falu történetének felfedezéséhez a nyári tömeg nélkül. Vigyél magaddal egy termosz forró teát, és élvezd a nyugalmat ebben a kőfülkében.",
                 "ro": "Un loc liniștit pentru a simți istoria satului departe de mulțimile de vară. Aduceți un termos cu ceai fierbinte pentru a-l savura în această nișă de piatră.",
-                "en": "A quiet spot to appreciate village history away from the summer crowds. Bring a thermos of hot tea to enjoy in the peaceful atmosphere of this stone alcove."
+                "en": "A quiet spot to appreciate village history away from the summer crowds. Bring a thermos of hot tea to enjoy in the peaceful atmosphere of this stone alcove.",
+                "el": "Ένα ήσυχο σημείο για να εκτιμήσετε την ιστορία του χωριού μακριά από τα καλοκαιρινά πλήθη. Φέρτε θερμός με ζεστό τσάι για να το απολαύσετε στην ήρεμη ατμόσφαιρα αυτής της πέτρινης αψίδας."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Timios Stavros",
                 "hu": "Timios Stavros",
                 "ro": "Timios Stavros",
-                "en": "Timios Stavros"
+                "en": "Timios Stavros",
+                "el": "Τιμιος Σταυρός"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die klare Winterluft und die weite Sicht über die Küste. Steigen Sie unbedingt vor dem Sonnenuntergang um 17:00 Uhr ab, um die Dunkelheit zu vermeiden.",
                 "hu": "Élvezd a friss téli levegőt és a tiszta kilátást a partvidékre. Mindenképpen ereszkedj le az ötkor kezdődő naplemente előtt, hogy elkerüld a sötétben botorkálást.",
                 "ro": "Bucurați-vă de aerul proaspăt de iarnă și de vizibilitatea clară asupra coastei. Coborâți neapărat înainte de apusul de la ora 17:00 pentru a evita întunericul.",
-                "en": "Enjoy the crisp air and clear winter horizons that allow you to see far across the coast. Be sure to descend before the 17:00 sunset to avoid the darkness."
+                "en": "Enjoy the crisp air and clear winter horizons that allow you to see far across the coast. Be sure to descend before the 17:00 sunset to avoid the darkness.",
+                "el": "Απολαύστε τον καθαρό αέρα και τους σαφείς χειμερινούς ορίζοντες που σας επιτρέπουν να δείτε μακριά κατά μήκος της ακτής. Φροντίστε να κατεβείτε πριν τη δύση στις 17:00 για να αποφύγετε το σκοτάδι."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Ammoudi Strand",
                 "hu": "Ammoudi Strand",
                 "ro": "Plaja Ammoudi",
-                "en": "Ammoudi Beach"
+                "en": "Ammoudi Beach",
+                "el": "Παραλία Αμμούδι"
               },
               "tip_5lang": {
                 "de": "Der menschenleere Strand ist perfekt für einen ruhigen Spaziergang; der Sand ist im Winter kalt, lassen Sie Ihre Schuhe also unbedingt an.",
                 "hu": "A kihalt tengerpart tökéletes egy békés sétához; a homok télen hideg, így mindenképpen hagyd magadon a bakancsodat a séta közben.",
                 "ro": "Plaja pustie este perfectă pentru o plimbare liniștită; nisipul este rece iarna, așa că păstrați neapărat încălțămintea în picioare.",
-                "en": "The deserted beach is perfect for a peaceful stroll; the sand is very cold in winter, so keep your boots on while walking along the shoreline."
+                "en": "The deserted beach is perfect for a peaceful stroll; the sand is very cold in winter, so keep your boots on while walking along the shoreline.",
+                "el": "Η έρημη παραλία είναι τέλεια για ήσυχο περίπατο· η άμμος είναι πολύ κρύα τον χειμώνα, οπότε κρατήστε τα μποτάκια ενώ περπατάτε κατά μήκος της ακτής."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Mikro Ammoudi FKK-Strand",
                 "hu": "Mikro Ammoudi Nudista Strand",
                 "ro": "Plaja de Nudiști Mikro Ammoudi",
-                "en": "Mikro Ammoudi Nudist Beach"
+                "en": "Mikro Ammoudi Nudist Beach",
+                "el": "Μικρό Αμμούδι - Γυμνιστική Παραλία"
               },
               "tip_5lang": {
                 "de": "Ein verstecktes Juwel für stille Momente; im Januar haben Sie die Bucht ganz für sich. Planen Sie den Rückweg bis 16:30 Uhr ein, bevor es dunkel wird.",
                 "hu": "Rejtett drágakő a csendes elmélkedéshez; januárban valószínűleg egyedül leszel az egész öbölben. Indulj vissza legkésőbb fél ötkor a sötétedés előtt.",
                 "ro": "O bijuterie ascunsă pentru momente de liniște; în ianuarie veți avea întregul golf doar pentru voi. Planificați întoarcerea până la 16:30, înainte de amurg.",
-                "en": "A hidden gem for quiet reflection; in January you will likely have the entire cove to yourself. Plan to head back by 16:30 before the early darkness falls."
+                "en": "A hidden gem for quiet reflection; in January you will likely have the entire cove to yourself. Plan to head back by 16:30 before the early darkness falls.",
+                "el": "Ένα κρυφό διαμάντι για ήσυχη περισυλλογή· τον Ιανουάριο πιθανότατα θα έχετε όλο το κολπίσκο για τον εαυτό σας. Σχεδιάστε να επιστρέψετε έως τις 16:30 πριν πέσει νωρίς το σκοτάδι."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Altes Waschhaus",
             "hu": "Régi Mosóház",
             "ro": "Vechea Spălătorie",
-            "en": "Old Washhouse"
+            "en": "Old Washhouse",
+            "el": "Παλιό Πλυσταριό"
           },
           "coords": [
             24.441291,
@@ -329,7 +363,8 @@
             "de": "Entdecken Sie dieses historische Waschhaus, das früher das soziale Zentrum des Dorfes bildete, und achten Sie auf die traditionelle Steinarchitektur, die Schatten und Kühle bietet.",
             "hu": "Fedezze fel ezt a történelmi mosóházat, amely egykor a falu társadalmi központja volt, és figyelje meg a hagyományos kőépítészetet, amely ma is kellemes hűvöst és árnyékot nyújt.",
             "ro": "Descoperiți această spălătorie istorică, odată centrul social al satului, și admirați arhitectura tradițională din piatră care oferă o umbră plăcută în zilele toride de vară.",
-            "en": "Discover this historic washhouse which once served as the social hub of the village, and take a moment to appreciate the traditional stone architecture that offers pleasant shade."
+            "en": "Discover this historic washhouse which once served as the social hub of the village, and take a moment to appreciate the traditional stone architecture that offers pleasant shade.",
+            "el": "Ανακαλύψτε αυτό το ιστορικό πλυσταριό που κάποτε λειτουργούσε ως κοινωνικό κέντρο του χωριού και αφιερώστε μια στιγμή για να εκτιμήσετε την παραδοσιακή πέτρινη αρχιτεκτονική που προσφέρει ευχάριστη σκιά."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Esel-Rettungsstation",
             "hu": "Szamármenedék",
             "ro": "Sanctuarul Măgarilor",
-            "en": "Donkey Sanctuary"
+            "en": "Donkey Sanctuary",
+            "el": "Καταφύγιο Γαϊδουριών"
           },
           "coords": [
             24.442076,
@@ -352,7 +388,8 @@
             "de": "Besuchen Sie dieses liebevolle Refugium für gerettete Esel, um mehr über den Tierschutz auf Kreta zu erfahren, und spenden Sie am besten eine Kleinigkeit für den Unterhalt.",
             "hu": "Látogasson el ebbe a megmentett szamaraknak fenntartott békés menedékhelyre, hogy megismerje a helyi állatvédelmet, és érdemes egy kis adománnyal támogatni a fenntartásukat.",
             "ro": "Vizitați acest sanctuar pașnic dedicat măgarilor salvați pentru a înțelege eforturile locale de conservare și nu uitați să lăsați o mică donație pentru a sprijini îngrijirea lor.",
-            "en": "Visit this peaceful sanctuary for rescued donkeys to learn about local animal welfare efforts on Crete, and consider leaving a small donation to help support their ongoing care."
+            "en": "Visit this peaceful sanctuary for rescued donkeys to learn about local animal welfare efforts on Crete, and consider leaving a small donation to help support their ongoing care.",
+            "el": "Επισκεφθείτε αυτό το γαλήνιο καταφύγιο για διασωθέντα γαϊδούρια για να μάθετε για τις τοπικές προσπάθειες ευημερίας των ζώων και σκεφθείτε να αφήσετε μια μικρή δωρεά για να στηρίξετε τη συνεχή φροντίδα τους."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Preveli Brücke",
             "hu": "Preveli Híd",
             "ro": "Podul Preveli",
-            "en": "Preveli Bridge"
+            "en": "Preveli Bridge",
+            "el": "Γέφυρα Πρέβελη"
           },
           "coords": [
             24.466069,
@@ -375,7 +413,8 @@
             "de": "Überqueren Sie diese beeindruckende alte Steinbrücke aus der venezianischen Epoche, die ein tolles Fotomotiv bietet, und tragen Sie bequeme Schuhe für die unebenen Pflastersteine.",
             "hu": "Sétáljon át ezen a velencei korból származó, lenyűgöző régi kőhídon, amely kiváló fotótéma, és viseljen kényelmes cipőt, mivel a történelmi macskaköves burkolat meglehetősen egyenetlen.",
             "ro": "Traversați acest pod vechi de piatră impresionant din epoca venețiană, o locație excelentă pentru fotografii, și purtați încălțăminte confortabilă pentru pietrele de pavaj inegale.",
-            "en": "Cross this impressive old stone bridge dating back to the Venetian era which provides a perfect photo backdrop, and make sure to wear comfortable walking shoes for the uneven cobblestones."
+            "en": "Cross this impressive old stone bridge dating back to the Venetian era which provides a perfect photo backdrop, and make sure to wear comfortable walking shoes for the uneven cobblestones.",
+            "el": "Διασχίστε αυτήν την εντυπωσιακή παλιά πέτρινη γέφυρα που χρονολογείται από την Ενετική εποχή· αποτελεί τέλειο φόντο για φωτογραφίες. Φορέστε άνετα παπούτσια για τα ανώμαλα λιθόστρωτα."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Unteres Preveli-Kloster",
             "hu": "Alsó Preveli Kolostor",
             "ro": "Mănăstirea Inferioară Preveli",
-            "en": "Lower Preveli Monastery"
+            "en": "Lower Preveli Monastery",
+            "el": "Κάτω Μονή Πρέβελη"
           },
           "coords": [
             24.466076,
@@ -398,7 +438,8 @@
             "de": "Besichtigen Sie dieses historisch bedeutsame Kloster, um mehr über die spirituelle Geschichte Kretas zu erfahren, und achten Sie darauf, beim Betreten angemessene Kleidung zu tragen.",
             "hu": "Tekintse meg ezt a történelmileg jelentős kolostort, hogy elmélyedjen Kréta spirituális múltjában, és ügyeljen arra, hogy a belépéshez a vallási helyszínekhez illő öltözéket viseljen.",
             "ro": "Vizitați această mănăstire cu semnificație istorică pentru a învăța despre moștenirea spirituală a Cretei și asigurați-vă că purtați haine decente, care să vă acopere umerii și genunchii.",
-            "en": "Tour this historically significant monastery to learn about the deep spiritual heritage of Crete, and please ensure you wear modest clothing covering your shoulders and knees to enter."
+            "en": "Tour this historically significant monastery to learn about the deep spiritual heritage of Crete, and please ensure you wear modest clothing covering your shoulders and knees to enter.",
+            "el": "Ξεναγηθείτε σε αυτήν τη σημαντική ιστορικά μονή για να μάθετε για την βαθιά πνευματική κληρονομιά της Κρήτης, και παρακαλούμε να φορέσετε σεμνή ενδυμασία που να καλύπτει ώμους και γόνατα για να εισέλθετε."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Timios Stavros",
             "hu": "Timios Stavros",
             "ro": "Timios Stavros",
-            "en": "Timios Stavros"
+            "en": "Timios Stavros",
+            "el": "Τιμιος Σταυρός"
           },
           "coords": [
             24.44387,
@@ -421,7 +463,8 @@
             "de": "Genießen Sie die friedliche Atmosphäre an diesem charmanten Aussichtspunkt mit Blick auf die raue kretische Landschaft, und bringen Sie unbedingt eine Flasche Wasser für den Weg mit.",
             "hu": "Élvezze a békés hangulatot ezen a bájos kilátóponton, ahonnan csodás panoráma nyílik a zord krétai tájra, és feltétlenül hozzon magával elegendő ivóvizet az idevezető sétához.",
             "ro": "Bucurați-vă de atmosfera liniștită la acest punct de belvedere fermecător cu vedere la peisajul cretan accidentat și asigurați-vă că aduceți apă de băut pentru plimbarea până aici.",
-            "en": "Enjoy the peaceful atmosphere at this charming viewpoint overlooking the rugged Cretan landscape, and make sure to bring a bottle of water for the sunny walk along the rocky paths."
+            "en": "Enjoy the peaceful atmosphere at this charming viewpoint overlooking the rugged Cretan landscape, and make sure to bring a bottle of water for the sunny walk along the rocky paths.",
+            "el": "Απολαύστε την ήρεμη ατμόσφαιρα σε αυτό το γοητευτικό σημείο με θέα το τραχύ κρητικό τοπίο, και φροντίστε να φέρετε ένα μπουκάλι νερό για την ηλιόλουστη διαδρομή κατά μήκος των πετρώδων μονοπατιών."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Skinaria Strand",
             "hu": "Skinaria Strand",
             "ro": "Plaja Skinaria",
-            "en": "Skinaria Beach"
+            "en": "Skinaria Beach",
+            "el": "Παραλία Σκηνάρια"
           },
           "coords": [
             24.421862,
@@ -444,7 +488,8 @@
             "de": "Erkunden Sie die beeindruckende Unterwasserwelt an diesem von Felsen umgebenen Strand, der ein Paradies für Schnorchler ist, und vergessen Sie nicht Ihre Taucherbrille mitzubringen.",
             "hu": "Fedezze fel a lenyűgöző víz alatti világot ezen a sziklákkal övezett strandon, amely valóságos paradicsom a sznorkelezők számára, és semmiképp se felejtse otthon a búvárszemüvegét.",
             "ro": "Explorați lumea subacvatică impresionantă de la această plajă înconjurată de stânci, un paradis pentru amatorii de snorkeling, și nu uitați să vă aduceți masca de scufundări.",
-            "en": "Explore the impressive underwater world at this rock-fringed beach which is a true paradise for snorkelers, and definitely remember to pack your diving mask and waterproof camera."
+            "en": "Explore the impressive underwater world at this rock-fringed beach which is a true paradise for snorkelers, and definitely remember to pack your diving mask and waterproof camera.",
+            "el": "Εξερευνήστε τον εντυπωσιακό υποβρύχιο κόσμο σε αυτήν την παραλία με βραχώδεις άκρες· είναι παράδεισος για τους ο snorkelers. Φροντίστε να πάρετε μαζί σας μάσκα κατάδυσης και αδιάβροχη φωτογραφική μηχανή."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Sie starten den Tag mit dem alten Waschhaus und radeln dann zur Esel-Station. Mittags erkunden Sie die historische Preveli-Brücke und das nahegelegene untere Kloster, das tief in die kretische Geschichte blicken lässt. Am Nachmittag radeln Sie zum Timios Stavros und genießen die weite Aussicht. Zum Abschluss entspannen Sie sich am fantastischen Strand von Skinaria.",
         "hu": "A napot a történelmi mosóháznál kezdi, majd átteker a helyi szamármenedékhez. Délben felfedezi a lenyűgöző Preveli kőhidat és a közeli alsó kolostort, elmerülve a sziget gazdag múltjában. Délután a Timios Stavros kilátóhoz kerékpározik, ahonnan pazar tengerparti panoráma fogadja. A nap fáradalmait végül a festői Skinaria strandon, a kristálytiszta habok között pihenheti ki.",
         "ro": "Începeți ziua la vechea spălătorie, apoi pedalați spre sanctuarul de măgari. La prânz, explorați podul istoric Preveli și mănăstirea inferioară din apropiere, o adevărată comoară arhitecturală. După-amiaza vă duce la Timios Stavros pentru priveliști panoramice spectaculoase. Vă veți încheia ziua relaxându-vă complet pe nisipul fin al minunatei plaje Skinaria.",
-        "en": "Start your day cycling to the historic washhouse and the heartwarming donkey sanctuary. Midday brings you to the fascinating Preveli Bridge and the historically significant Lower Monastery. In the afternoon, you will pedal towards the rugged coast to enjoy the views at Timios Stavros, before finishing your active day with a well-deserved swim at beautiful Skinaria Beach."
+        "en": "Start your day cycling to the historic washhouse and the heartwarming donkey sanctuary. Midday brings you to the fascinating Preveli Bridge and the historically significant Lower Monastery. In the afternoon, you will pedal towards the rugged coast to enjoy the views at Timios Stavros, before finishing your active day with a well-deserved swim at beautiful Skinaria Beach.",
+        "el": "Ξεκινήστε τη μέρα σας με ποδηλασία προς το ιστορικό πλυσταριό και το θερμό καταφύγιο των γαϊδουριών. Το μεσημέρι σας φέρνει στη συναρπαστική γέφυρα Πρέβελη και στην ιστορικά σημαντική Κάτω Μονή. Το απόγευμα θα ποδηλατήσετε προς την τραχιά ακτή για να απολαύσετε τη θέα από τον Τίμιο Σταυρό, πριν ολοκληρώσετε την ενεργητική σας μέρα με ένα άξιο κολύμπι στην όμορφη παραλία Σκηνάρια."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Am Morgen radeln wir vorsichtig auf dem nassen Asphalt und achten auf die Kurven. Mittags suchen wir an der Preveli-Brücke und dem Kloster Schutz vor intensiven Schauern. Am Nachmittag kann der Wind an der Küste auffrischen, halten Sie den Lenker gut fest. Am Abend, nach den schlammigen Wegen, warten eine Reinigung des Rads und ein heißes Bad im Dorf.",
             "hu": "Reggel óvatosan vágunk bele a kerékpározásba a nedves aszfalton, figyelve a kanyarokra. Délben a Preveli hídnál és a kolostornál keresünk fedezéket, ha eleredne az intenzív eső. Délután a szél felerősödhet a tengerparton, így érdemes stabilan fogni a kormányt. Este, a sáros utak után alapos tisztítás és egy forró fürdő vár ránk a faluban.",
             "ro": "Dimineața pedalăm cu atenție pe asfaltul umed, fiind atenți la curbe. La prânz căutăm adăpost la podul Preveli și la mănăstire dacă începe o ploaie intensă. După-amiaza vântul se poate intensifica pe coastă, deci țineți bine ghidonul. Seara, după drumurile noroioase, ne așteaptă curățarea bicicletei și o baie fierbinte în sat.",
-            "en": "Morning cycling requires caution on wet asphalt, especially on the bends. At noon, seek shelter at Preveli Bridge or the monastery during heavy showers. In the afternoon, winds may pick up along the coast, so keep a firm grip on the handlebars. In the evening, after the muddy trails, clean your bike and enjoy a hot bath in the village."
+            "en": "Morning cycling requires caution on wet asphalt, especially on the bends. At noon, seek shelter at Preveli Bridge or the monastery during heavy showers. In the afternoon, winds may pick up along the coast, so keep a firm grip on the handlebars. In the evening, after the muddy trails, clean your bike and enjoy a hot bath in the village.",
+            "el": "Η πρωινή ποδηλασία απαιτεί προσοχή σε βρεγμένη άσφαλτο, ειδικά στις στροφές. Το μεσημέρι, αναζητήστε καταφύγιο στη γέφυρα Πρέβελη ή στη μονή κατά τη διάρκεια ισχυρών μπόρων. Το απόγευμα, οι άνεμοι μπορεί να δυναμώσουν κατά μήκος της ακτής, οπότε κρατήστε γερά το τιμόνι. Το βράδυ, μετά από τις λασπωμένες διαδρομές, καθαρίστε το ποδήλατό σας και απολαύστε ένα ζεστό μπάνιο στο χωριό."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Altes Waschhaus",
                 "hu": "Régi Mosóház",
                 "ro": "Vechea Spălătorie",
-                "en": "Old Washhouse"
+                "en": "Old Washhouse",
+                "el": "Παλιό Πλυσταριό"
               },
               "tip_5lang": {
                 "de": "Stellen Sie Ihr Rad unter dem Vordach ab; das Waschhaus ist ein großartiger Ort, um einen Regenschauer trocken abzuwarten. Vorsicht vor rutschigen Pflastersteinen.",
                 "hu": "Támaszd le a bringát az eresz alá; a mosóház remek hely a záporok száraz átvészeléséhez. Vigyázz a kerékpárral a vizes, csúszós macskaköveken.",
                 "ro": "Parcați bicicleta sub streașină; spălătoria este un loc excelent pentru a aștepta trecerea ploii la adăpost. Atenție la pietrele umede și alunecoase.",
-                "en": "Park your bike under the overhang; the washhouse is a great spot to wait out a shower while staying dry. Be careful with your bike on the slippery wet stones."
+                "en": "Park your bike under the overhang; the washhouse is a great spot to wait out a shower while staying dry. Be careful with your bike on the slippery wet stones.",
+                "el": "Σταθμεύστε το ποδήλατό σας κάτω από το αντηρίδα· το πλυσταριό είναι εξαιρετικό σημείο για να περιμένετε μια μπόρα στεγνοί. Προσέξτε το ποδήλατο στις ολισθηρές βρεγμένες πέτρες."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Esel-Rettungsstation",
                 "hu": "Szamármenedék",
                 "ro": "Sanctuarul Măgarilor",
-                "en": "Donkey Sanctuary"
+                "en": "Donkey Sanctuary",
+                "el": "Καταφύγιο Γαϊδουριών"
               },
               "tip_5lang": {
                 "de": "Die Esel freuen sich auch bei Regen über Besuch; die Ställe bieten trockenen Raum für Interaktion. Achten Sie auf matschige Reifen beim Verlassen des Geländes.",
                 "hu": "A szamarak esőben is örülnek a látogatásnak; az istállók száraz helyet biztosítanak az ismerkedéshez. Figyelj a sáros gumikra a terület elhagyásakor.",
                 "ro": "Măgărușii se bucură de vizite și pe ploaie; grajdurile oferă un spațiu uscat pentru interacțiune. Atenție la anvelopele pline de noroi la plecare.",
-                "en": "The donkeys appreciate visitors even in the rain; the stables provide a dry area for interaction. Watch out for muddy tires when leaving the sanctuary grounds."
+                "en": "The donkeys appreciate visitors even in the rain; the stables provide a dry area for interaction. Watch out for muddy tires when leaving the sanctuary grounds.",
+                "el": "Τα γαϊδούρια εκτιμούν τους επισκέπτες ακόμη και στη βροχή· οι στάβλοι παρέχουν στεγνή περιοχή για αλληλεπίδραση. Προσέξτε τους λασπωμένους τροχούς όταν φύγετε από τους χώρους του καταφυγίου."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Preveli Brücke",
                 "hu": "Preveli Híd",
                 "ro": "Podul Preveli",
-                "en": "Preveli Bridge"
+                "en": "Preveli Bridge",
+                "el": "Γέφυρα Πρέβελη"
               },
               "tip_5lang": {
                 "de": "Die alte Steinbrücke sieht bei Regen majestätisch aus; ideal für Fotos. Überqueren Sie die Brücke zu Fuß, da die nassen Steine für Reifen extrem rutschig sind.",
                 "hu": "Az ősi kőhíd méltóságteljesen fest az esőben; ideális fotótéma. Gyalog kelj át rajta, mert a nedves kövek a kerékpárguminak rendkívül csúszósak.",
                 "ro": "Podul vechi de piatră arată maiestuos în ploaie; ideal pentru fotografii. Traversați podul pe lângă bicicletă, deoarece pietrele ude sunt foarte alunecoase.",
-                "en": "The ancient stone bridge looks majestic in the rain; perfect for moody photos. Cross the bridge on foot as the wet stones are extremely slick for bike tires."
+                "en": "The ancient stone bridge looks majestic in the rain; perfect for moody photos. Cross the bridge on foot as the wet stones are extremely slick for bike tires.",
+                "el": "Η αρχαία πέτρινη γέφυρα φαίνεται μεγαλοπρεπής στη βροχή· τέλεια για ατμοσφαιρικές φωτογραφίες. Διασχίστε τη γέφυρα πεζοί καθώς οι βρεγμένες πέτρες είναι εξαιρετικά ολισθηρές για ελαστικά ποδηλάτου."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Unteres Preveli-Kloster",
                 "hu": "Alsó Preveli Kolostor",
                 "ro": "Mănăstirea Inferioară Preveli",
-                "en": "Lower Preveli Monastery"
+                "en": "Lower Preveli Monastery",
+                "el": "Κάτω Μονή Πρέβελη"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die Ruinen; die dicken Mauern schützen gut vor Wind und Regen. Ein Poncho ist beim Bewegen zwischen den Gebäuden auf dem Rad sehr praktisch.",
                 "hu": "Fedezd fel a romokat; a vastag falak jól védenek a szél és az eső ellen. Egy esőponcsó nagyon praktikus a bringán az épületek közötti mozgáshoz.",
                 "ro": "Explorați ruinele; zidurile groase protejează bine de vânt și ploaie. O pelerină de ploaie este foarte practică pentru deplasarea între clădiri.",
-                "en": "Explore the ruins; the thick stone walls offer good protection from wind and rain. A rain poncho is very practical for moving between buildings on your bike."
+                "en": "Explore the ruins; the thick stone walls offer good protection from wind and rain. A rain poncho is very practical for moving between buildings on your bike.",
+                "el": "Εξερευνήστε τα ερείπια· οι παχιές πέτρινες τοιχοποιίες προσφέρουν καλή προστασία από τον άνεμο και τη βροχή. Ένα αδιάβροχο είναι πολύ πρακτικό για τις μετακινήσεις ανάμεσα στα κτίρια με το ποδήλατο."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Timios Stavros",
                 "hu": "Timios Stavros",
                 "ro": "Timios Stavros",
-                "en": "Timios Stavros"
+                "en": "Timios Stavros",
+                "el": "Τιμιος Σταυρός"
               },
               "tip_5lang": {
                 "de": "Der Blick auf das stürmische Libysche Meer ist von hier oben beeindruckend. Seien Sie vorsichtig bei der Abfahrt auf dem nassen Schotter; bremsen Sie frühzeitig.",
                 "hu": "A viharos Líbiai-tenger látványa innen fentről lenyűgöző. Légy óvatos a leereszkedésnél a nedves murvás úton; fékezz időben a kanyarok előtt.",
                 "ro": "Vederea asupra mării învolburate este impresionantă de aici de sus. Atenție la coborâre pe pietrișul umed; frânați din timp înaintea curbelor.",
-                "en": "The view of the stormy Libyan Sea from up here is stunning. Be extra cautious during the descent on wet gravel roads; start braking early before turns."
+                "en": "The view of the stormy Libyan Sea from up here is stunning. Be extra cautious during the descent on wet gravel roads; start braking early before turns.",
+                "el": "Η θέα της θυελλώδους Λιβυκής Θάλασσας από εδώ είναι εντυπωσιακή. Να είστε ιδιαίτερα προσεκτικοί κατά την κατάβαση σε βρεγμένους, χαλίκον δρόμους· αρχίστε να φρενάρετε νωρίς πριν τις στροφές."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Skinaria Strand",
                 "hu": "Skinaria Strand",
                 "ro": "Plaja Skinaria",
-                "en": "Skinaria Beach"
+                "en": "Skinaria Beach",
+                "el": "Παραλία Σκιναριά"
               },
               "tip_5lang": {
                 "de": "Das türkisfarbene Wasser bildet einen tollen Kontrast zum grauen Himmel. Sichern Sie Ihr Rad gut gegen den Wind, bevor Sie einen kurzen Strandgang machen.",
                 "hu": "A türkizkék víz nagyszerű kontrasztot alkot a szürke égbolttal. Rögzítsd stabilan a bringát a szél ellen, mielőtt egy rövid sétát tennél a parton.",
                 "ro": "Apa turcoaz creează un contrast superb cu cerul cenușiu. Fixați bine bicicleta împotriva vântului înainte de a face o scurtă plimbare pe plajă.",
-                "en": "The turquoise water creates a great contrast with the grey sky. Secure your bike firmly against the wind before taking a short walk on the empty beach."
+                "en": "The turquoise water creates a great contrast with the grey sky. Secure your bike firmly against the wind before taking a short walk on the empty beach.",
+                "el": "Το τυρκουάζ νερό δημιουργεί έντονη αντίθεση με τον γκρίζο ουρανό. Στερεώστε καλά το ποδήλατό σας πριν περπατήσετε λίγο στην έρημη παραλία."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Im kühlen Morgenwind ist beim Treten eine Schichtkleidung unerlässlich. Mittags ruhen wir uns im Kloster aus, wo die Steinmauern vor dem Durchzug schützen. Am Nachmittag radeln wir zur Skinaria-Bucht und genießen die leeren Straßen. Da es um 17:00 Uhr dunkel wird, kehren wir bereits mit eingeschaltetem Licht nach Lefkogia zurück.",
             "hu": "A hűvös reggeli szélben jól jön a réteges öltözet a pedálozás közben. Délben a kolostor falai között pihenünk meg, ahol a kőfalak védenek a huzattól. Délután a Skinaria öböl felé tekerünk, élvezve a kihalt utakat és a tiszta panorámát. Este, mivel ötkor sötétedik, már lámpákkal felszerelve érünk vissza Lefkogiába.",
             "ro": "În vântul răcoros de dimineață, îmbrăcămintea în straturi este esențială la pedalat. La prânz ne odihnim între zidurile mănăstirii, care ne protejează de curent. După-amiaza pedalăm spre golful Skinaria, bucurându-ne de drumurile pustii. Seara, deoarece se întunecă la ora 17:00, ne întoarcem în Lefkogia cu luminile aprinse.",
-            "en": "In the cool morning wind, layered clothing is essential while pedaling. At noon, we rest within the monastery walls, where the stone protects us from drafts. In the afternoon, we cycle towards Skinaria Bay, enjoying the empty roads. Since it gets dark by 17:00, we return to Lefkogia with our lights already turned on."
+            "en": "In the cool morning wind, layered clothing is essential while pedaling. At noon, we rest within the monastery walls, where the stone protects us from drafts. In the afternoon, we cycle towards Skinaria Bay, enjoying the empty roads. Since it gets dark by 17:00, we return to Lefkogia with our lights already turned on.",
+            "el": "Στον δροσερό πρωινό αέρα, απαραίτητα τα στρωμένα ρούχα ενώ πετάμε. Το μεσημέρι ξεκουραζόμαστε μέσα στα τείχη της μονής, όπου η πέτρα μας προστατεύει από τα ρεύματα. Το απόγευμα ποδηλατούμε προς τον κόλπο της Σκιναριάς, απολαμβάνοντας τους άδειους δρόμους. Επειδή σκοτεινιάζει στις 17:00, επιστρέφουμε στη Λευκογιά με τα φώτα ήδη αναμμένα."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Altes Waschhaus",
                 "hu": "Régi Mosóház",
                 "ro": "Vechea Spălătorie",
-                "en": "Old Washhouse"
+                "en": "Old Washhouse",
+                "el": "Παλιό Πλυσταριό"
               },
               "tip_5lang": {
                 "de": "Eine windgeschützte Ecke für eine kurze Pause im Winter; die kühle Steinarchitektur ist sehr fotogen. Trinken Sie einen warmen Tee aus Ihrer Thermoskanne.",
                 "hu": "Szélvédett sarok egy rövid téli pihenőhöz; a hűvös kőépítészet nagyon fotogén ilyenkor. Igyál egy forró teát a termoszodból a pihenő alatt.",
                 "ro": "Un colț ferit de vânt pentru o scurtă pauză de iarnă; arhitectura de piatră este foarte fotogenică. Beți un ceai cald din termos în timpul popasului.",
-                "en": "A wind-sheltered corner for a short winter break; the cool stone architecture is very photogenic. Sip some hot tea from your thermos during your stop."
+                "en": "A wind-sheltered corner for a short winter break; the cool stone architecture is very photogenic. Sip some hot tea from your thermos during your stop.",
+                "el": "Μια γωνιά προστατευμένη από τον άνεμο για ένα σύντομο χειμερινό διάλειμμα· η ψυχρή πέτρινη αρχιτεκτονική είναι πολύ φωτογενής. Ρουφήξτε ζεστό τσάι από το θερμός σας κατά τη στάση."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Esel-Rettungsstation",
                 "hu": "Szamármenedék",
                 "ro": "Sanctuarul Măgarilor",
-                "en": "Donkey Sanctuary"
+                "en": "Donkey Sanctuary",
+                "el": "Καταφύγιο Γαϊδουριών"
               },
               "tip_5lang": {
                 "de": "Die Esel sind im Winter aktiver und freuen sich über Zuwendung; das Füttern hält auch Sie warm. Achten Sie auf den kalten Fahrtwind bei der Anfahrt.",
                 "hu": "A szamarak télen aktívabbak és örülnek a figyelemnek; az etetés téged is melegen tart. Figyelj a hideg menetszélre a menedékhely felé tekerve.",
                 "ro": "Măgărușii sunt mai activi iarna și se bucură de atenție; hrănirea vă va ține și pe voi de cald. Atenție la vântul rece în timpul deplasării.",
-                "en": "The donkeys are more active in winter and enjoy the attention; feeding them will keep you warm too. Watch out for the cold headwind while cycling here."
+                "en": "The donkeys are more active in winter and enjoy the attention; feeding them will keep you warm too. Watch out for the cold headwind while cycling here.",
+                "el": "Τα γαϊδούρια είναι πιο δραστήρια τον χειμώνα και απολαμβάνουν την προσοχή· το τάισμά τους θα σας ζεστάνει κι εσάς. Προσέξτε τον κρύο αντίθετο άνεμο όταν ποδηλατείτε εδώ."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Preveli Brücke",
                 "hu": "Preveli Híd",
                 "ro": "Podul Preveli",
-                "en": "Preveli Bridge"
+                "en": "Preveli Bridge",
+                "el": "Γέφυρα Πρέβελη"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie den hohen Wasserstand des Flusses, ein seltener Anblick im Vergleich zum Sommer. Tragen Sie eine winddichte Jacke für die exponierte Brücke.",
                 "hu": "Figyeld meg a folyó magas vízállását, ami ritka látvány a száraz nyárhoz képest. Viselj szélálló kabátot, mert a hídon erősen fújhat a téli szél.",
                 "ro": "Observați nivelul ridicat al râului, o priveliște rară față de vara secetoasă. Purtați o jachetă rezistentă la vânt pentru trecerea peste pod.",
-                "en": "Observe the river's high water levels, a sight rarely seen in the dry summer months. Wear a windbreaker jacket as the bridge is very exposed to the wind."
+                "en": "Observe the river's high water levels, a sight rarely seen in the dry summer months. Wear a windbreaker jacket as the bridge is very exposed to the wind.",
+                "el": "Παρατηρήστε τα υψηλά νερά του ποταμού, μια σπάνια θέα τους ξηρούς καλοκαιρινούς μήνες. Φορέστε μπουφάν ανεμοπροστασίας καθώς η γέφυρα είναι πολύ εκτεθειμένη στον άνεμο."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Unteres Preveli-Kloster",
                 "hu": "Alsó Preveli Kolostor",
                 "ro": "Mănăstirea Inferioară Preveli",
-                "en": "Lower Preveli Monastery"
+                "en": "Lower Preveli Monastery",
+                "el": "Κάτω Μονή Πρέβελη"
               },
               "tip_5lang": {
                 "de": "Erleben Sie die spirituelle Stille ohne den Sommertrubel; das Winterlicht betont die Steinstrukturen. Ein toller Ort für eine meditative Pause im Sattel.",
                 "hu": "Éld át a spirituális csendet a nyári nyüzsgés nélkül; a téli fény kiemeli a kövek textúráját. Remek hely egy meditatív pihenőre a nyeregben.",
                 "ro": "Experimentați liniștea spirituală fără agitația verii; lumina de iarnă scoate în evidență textura pietrei. Un loc excelent pentru o pauză meditativă.",
-                "en": "Experience the spiritual silence without the summer bustle; the winter light highlights the stone textures. A great place for a meditative break from the saddle."
+                "en": "Experience the spiritual silence without the summer bustle; the winter light highlights the stone textures. A great place for a meditative break from the saddle.",
+                "el": "Απολαύστε την πνευματική σιωπή χωρίς το καλοκαιρινό πλήθος· το χειμερινό φως αναδεικνύει την υφή της πέτρας. Ένας εξαιρετικός τόπος για διαλογιστικό διάλειμμα από τη σέλα."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Timios Stavros",
                 "hu": "Timios Stavros",
                 "ro": "Timios Stavros",
-                "en": "Timios Stavros"
+                "en": "Timios Stavros",
+                "el": "Τίμιος Σταυρός"
               },
               "tip_5lang": {
                 "de": "Die klare Winterluft ermöglicht weite Fernsichten bis zum Horizont. Planen Sie Ihre Abfahrt vor 16:30 Uhr, damit Sie nicht im Dunkeln bergab radeln müssen.",
                 "hu": "A tiszta téli levegő messzi kilátást tesz lehetővé egészen a horizontig. Tervezd a visszaindulást fél öt előtt, hogy ne sötétben kelljen lefelé tekerned.",
                 "ro": "Aerul curat de iarnă permite vederi panoramice până la orizont. Planificați coborârea înainte de 16:30 pentru a nu pedala la vale pe întuneric.",
-                "en": "The clear winter air allows for expansive views all the way to the horizon. Plan to head back by 16:30 so you don't have to cycle downhill in the dark."
+                "en": "The clear winter air allows for expansive views all the way to the horizon. Plan to head back by 16:30 so you don't have to cycle downhill in the dark.",
+                "el": "Ο καθαρός χειμερινός αέρας επιτρέπει εκτεταμένες θέες μέχρι τον ορίζοντα. Σχεδιάστε να επιστρέψετε μέχρι τις 16:30 ώστε να μην κατεβείτε με ποδήλατο στο σκοτάδι."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Skinaria Strand",
                 "hu": "Skinaria Strand",
                 "ro": "Plaja Skinaria",
-                "en": "Skinaria Beach"
+                "en": "Skinaria Beach",
+                "el": "Παραλία Σκιναριά"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Einsamkeit an der Küste; das Wasser ist zu kalt zum Schwimmen, aber herrlich klar. Der winterliche Sonnenuntergang hier ist besonders farbenfroh.",
                 "hu": "Élvezd a tengerparti magányt; a víz túl hideg az úszáshoz, de gyönyörűen tiszta. A téli naplemente itt különösen színes és megéri a fázást.",
                 "ro": "Bucurați-vă de singurătatea coastei; apa este prea rece pentru înot, dar superb de clară. Apusul de iarnă aici este deosebit de colorat și merită frigul.",
-                "en": "Enjoy the solitude of the coast; the water is too cold for swimming but remains beautifully clear. The winter sunset here is particularly colorful and vibrant."
+                "en": "Enjoy the solitude of the coast; the water is too cold for swimming but remains beautifully clear. The winter sunset here is particularly colorful and vibrant.",
+                "el": "Απολαύστε τη μοναξιά της ακτής· το νερό είναι πολύ κρύο για μπάνιο αλλά παραμένει όμορφα διάφανο. Το χειμερινό ηλιοβασίλεμα εδώ είναι ιδιαίτερα χρωματιστό και ζωντανό."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Esel-Rettungsstation",
             "hu": "Szamármenedék",
             "ro": "Sanctuarul Măgarilor",
-            "en": "Donkey Sanctuary"
+            "en": "Donkey Sanctuary",
+            "el": "Καταφύγιο Γαϊδουριών"
           },
           "coords": [
             24.442076,
@@ -673,7 +746,8 @@
             "de": "Besuchen Sie dieses liebevolle Refugium für gerettete Esel, um mehr über den Tierschutz auf Kreta zu erfahren, und spenden Sie am besten eine Kleinigkeit für den Unterhalt.",
             "hu": "Látogasson el ebbe a megmentett szamaraknak fenntartott békés menedékhelyre, hogy megismerje a helyi állatvédelmet, és érdemes egy kis adománnyal támogatni a fenntartásukat.",
             "ro": "Vizitați acest sanctuar pașnic dedicat măgarilor salvați pentru a înțelege eforturile locale de conservare și nu uitați să lăsați o mică donație pentru a sprijini îngrijirea lor.",
-            "en": "Visit this peaceful sanctuary for rescued donkeys to learn about local animal welfare efforts on Crete, and consider leaving a small donation to help support their ongoing care."
+            "en": "Visit this peaceful sanctuary for rescued donkeys to learn about local animal welfare efforts on Crete, and consider leaving a small donation to help support their ongoing care.",
+            "el": "Επισκεφτείτε αυτό το ήσυχο καταφύγιο για γαϊδούρια διάσωσης για να ενημερωθείτε για τις τοπικές προσπάθειες περίθαλψης ζώων στην Κρήτη, και σκεφτείτε να αφήσετε μια μικρή δωρεά για να στηρίξετε τη φροντίδα τους."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Altes Waschhaus",
             "hu": "Régi Mosóház",
             "ro": "Vechea Spălătorie",
-            "en": "Old Washhouse"
+            "en": "Old Washhouse",
+            "el": "Παλιό Πλυσταριό"
           },
           "coords": [
             24.441291,
@@ -696,7 +771,8 @@
             "de": "Entdecken Sie dieses historische Waschhaus, das früher das soziale Zentrum des Dorfes bildete, und achten Sie auf die traditionelle Steinarchitektur, die Schatten und Kühle bietet.",
             "hu": "Fedezze fel ezt a történelmi mosóházat, amely egykor a falu társadalmi központja volt, és figyelje meg a hagyományos kőépítészetet, amely ma is kellemes hűvöst és árnyékot nyújt.",
             "ro": "Descoperiți această spălătorie istorică, odată centrul social al satului, și admirați arhitectura tradițională din piatră care oferă o umbră plăcută în zilele toride de vară.",
-            "en": "Discover this historic washhouse which once served as the social hub of the village, and take a moment to appreciate the traditional stone architecture that offers pleasant shade."
+            "en": "Discover this historic washhouse which once served as the social hub of the village, and take a moment to appreciate the traditional stone architecture that offers pleasant shade.",
+            "el": "Ανακαλύψτε το ιστορικό πλυσταριό που υπηρέτησε κάποτε ως κοινωνικό κέντρο του χωριού και αφιερώστε μια στιγμή για να εκτιμήσετε την παραδοσιακή πέτρινη αρχιτεκτονική που προσφέρει ευχάριστη σκιά."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Preveli Brücke",
             "hu": "Preveli Híd",
             "ro": "Podul Preveli",
-            "en": "Preveli Bridge"
+            "en": "Preveli Bridge",
+            "el": "Γέφυρα Πρέβελη"
           },
           "coords": [
             24.466069,
@@ -719,7 +796,8 @@
             "de": "Überqueren Sie diese beeindruckende alte Steinbrücke aus der venezianischen Epoche, die ein tolles Fotomotiv bietet, und tragen Sie bequeme Schuhe für die unebenen Pflastersteine.",
             "hu": "Sétáljon át ezen a velencei korból származó, lenyűgöző régi kőhídon, amely kiváló fotótéma, és viseljen kényelmes cipőt, mivel a történelmi macskaköves burkolat meglehetősen egyenetlen.",
             "ro": "Traversați acest pod vechi de piatră impresionant din epoca venețiană, o locație excelentă pentru fotografii, și purtați încălțăminte confortabilă pentru pietrele de pavaj inegale.",
-            "en": "Cross this impressive old stone bridge dating back to the Venetian era which provides a perfect photo backdrop, and make sure to wear comfortable walking shoes for the uneven cobblestones."
+            "en": "Cross this impressive old stone bridge dating back to the Venetian era which provides a perfect photo backdrop, and make sure to wear comfortable walking shoes for the uneven cobblestones.",
+            "el": "Διασχίστε αυτήν την εντυπωσιακή παλιά πέτρινη γέφυρα της ενετικής εποχής που αποτελεί ιδανικό φόντο για φωτογραφίες, και φροντίστε να φορέσετε άνετα παπούτσια για τις ανώμαλες λιθόστρωτες επιφάνειες."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Unteres Preveli-Kloster",
             "hu": "Alsó Preveli Kolostor",
             "ro": "Mănăstirea Inferioară Preveli",
-            "en": "Lower Preveli Monastery"
+            "en": "Lower Preveli Monastery",
+            "el": "Κάτω Μονή Πρέβελη"
           },
           "coords": [
             24.466076,
@@ -742,7 +821,8 @@
             "de": "Besichtigen Sie dieses historisch bedeutsame Kloster, um mehr über die spirituelle Geschichte Kretas zu erfahren, und achten Sie darauf, beim Betreten angemessene Kleidung zu tragen.",
             "hu": "Tekintse meg ezt a történelmileg jelentős kolostort, hogy elmélyedjen Kréta spirituális múltjában, és ügyeljen arra, hogy a belépéshez a vallási helyszínekhez illő öltözéket viseljen.",
             "ro": "Vizitați această mănăstire cu semnificație istorică pentru a învăța despre moștenirea spirituală a Cretei și asigurați-vă că purtați haine decente, care să vă acopere umerii și genunchii.",
-            "en": "Tour this historically significant monastery to learn about the deep spiritual heritage of Crete, and please ensure you wear modest clothing covering your shoulders and knees to enter."
+            "en": "Tour this historically significant monastery to learn about the deep spiritual heritage of Crete, and please ensure you wear modest clothing covering your shoulders and knees to enter.",
+            "el": "Ξεναγηθείτε σε αυτή τη μονή με ιστορική σημασία για να μάθετε για την βαθιά πνευματική κληρονομιά της Κρήτης, και παρακαλώ φορέστε σεμνά ρούχα που καλύπτουν ώμους και γόνατα για να εισέλθετε."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Timios Stavros",
             "hu": "Timios Stavros",
             "ro": "Timios Stavros",
-            "en": "Timios Stavros"
+            "en": "Timios Stavros",
+            "el": "Τίμιος Σταυρός"
           },
           "coords": [
             24.44387,
@@ -765,7 +846,8 @@
             "de": "Genießen Sie die friedliche Atmosphäre an diesem charmanten Aussichtspunkt mit Blick auf die raue kretische Landschaft, und bringen Sie unbedingt eine Flasche Wasser für den Weg mit.",
             "hu": "Élvezze a békés hangulatot ezen a bájos kilátóponton, ahonnan csodás panoráma nyílik a zord krétai tájra, és feltétlenül hozzon magával elegendő ivóvizet az idevezető sétához.",
             "ro": "Bucurați-vă de atmosfera liniștită la acest punct de belvedere fermecător cu vedere la peisajul cretan accidentat și asigurați-vă că aduceți apă de băut pentru plimbarea până aici.",
-            "en": "Enjoy the peaceful atmosphere at this charming viewpoint overlooking the rugged Cretan landscape, and make sure to bring a bottle of water for the sunny walk along the rocky paths."
+            "en": "Enjoy the peaceful atmosphere at this charming viewpoint overlooking the rugged Cretan landscape, and make sure to bring a bottle of water for the sunny walk along the rocky paths.",
+            "el": "Απολαύστε την ήρεμη ατμόσφαιρα σε αυτό το γοητευτικό σημείο με θέα το άγριο κρητικό τοπίο, και φροντίστε να φέρετε ένα μπουκάλι νερό για τον ηλιόλουστο περίπατο στα βραχώδη μονοπάτια."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Ammoudi Strand",
             "hu": "Ammoudi Strand",
             "ro": "Plaja Ammoudi",
-            "en": "Ammoudi Beach"
+            "en": "Ammoudi Beach",
+            "el": "Παραλία Αμμούδι"
           },
           "coords": [
             24.420395,
@@ -788,7 +871,8 @@
             "de": "Entspannen Sie an diesem malerischen Strand mit kristallklarem Wasser, der sich ideal zum Schwimmen eignet, und mieten Sie frühzeitig einen Sonnenschirm, um der Mittagssonne zu entgehen.",
             "hu": "Pihenjen ezen a kristálytiszta vizű, festői strandon, amely tökéletes egy frissítő úszáshoz, és érdemes minél korábban napernyőt bérelni, hogy elkerülje az erős déli napsütést.",
             "ro": "Relaxați-vă pe această plajă pitorească cu ape cristaline, ideală pentru înot, și închiriați o umbrelă de soare din timp pentru a vă proteja de soarele puternic de la amiază.",
-            "en": "Relax on this picturesque beach featuring crystal-clear waters perfect for swimming, and be sure to rent an umbrella early in the day to secure a shaded spot against the midday sun."
+            "en": "Relax on this picturesque beach featuring crystal-clear waters perfect for swimming, and be sure to rent an umbrella early in the day to secure a shaded spot against the midday sun.",
+            "el": "Χαλαρώστε σε αυτήν την γραφική παραλία με κρυστάλλινα νερά ιδανικά για κολύμπι, και επινοικιάστε ομπρέλα νωρίς μέσα στην ημέρα για να εξασφαλίσετε σκιερό σημείο από τον μεσημεριανό ήλιο."
           }
         },
         {
@@ -796,7 +880,8 @@
             "de": "Skinaria Strand",
             "hu": "Skinaria Strand",
             "ro": "Plaja Skinaria",
-            "en": "Skinaria Beach"
+            "en": "Skinaria Beach",
+            "el": "Παραλία Σκιναριά"
           },
           "coords": [
             24.421862,
@@ -811,7 +896,8 @@
             "de": "Erkunden Sie die beeindruckende Unterwasserwelt an diesem von Felsen umgebenen Strand, der ein Paradies für Schnorchler ist, und vergessen Sie nicht Ihre Taucherbrille mitzubringen.",
             "hu": "Fedezze fel a lenyűgöző víz alatti világot ezen a sziklákkal övezett strandon, amely valóságos paradicsom a sznorkelezők számára, és semmiképp se felejtse otthon a búvárszemüvegét.",
             "ro": "Explorați lumea subacvatică impresionantă de la această plajă înconjurată de stânci, un paradis pentru amatorii de snorkeling, și nu uitați să vă aduceți masca de scufundări.",
-            "en": "Explore the impressive underwater world at this rock-fringed beach which is a true paradise for snorkelers, and definitely remember to pack your diving mask and waterproof camera."
+            "en": "Explore the impressive underwater world at this rock-fringed beach which is a true paradise for snorkelers, and definitely remember to pack your diving mask and waterproof camera.",
+            "el": "Εξερευνήστε τον εντυπωσιακό υποβρύχιο κόσμο σε αυτήν την βραχώδη παραλία που αποτελεί παράδεισο για καταδύτες με μάσκα, και μην ξεχάσετε τη μάσκα και την αδιάβροχη κάμερά σας."
           }
         }
       ],
@@ -819,7 +905,8 @@
         "de": "Ihre Fahrt beginnt entspannt an der Esel-Rettungsstation und dem historischen Waschhaus von Lefkogia. Gegen Mittag fahren Sie zur venezianischen Preveli-Brücke und dem beeindruckenden unteren Kloster. Am Nachmittag bringt Sie Ihr Auto zum Aussichtspunkt Timios Stavros und anschließend an die idyllische Küste. Lassen Sie den Tag entspannt am Ammoudi und Skinaria Strand ausklingen.",
         "hu": "Az utazás a kedves szamármenedék és a történelmi falu központi mosóházának meglátogatásával indul. Dél körül a velencei Preveli hídhoz és a lenyűgöző alsó kolostorhoz autózik, ahol megismerheti Kréta múltját. Délután a Timios Stavros kilátópont felé veszi az irányt, majd megérkezik a mesés partvidékre. A nap végét az Ammoudi és Skinaria strandok kristálytiszta vizénél élvezheti.",
         "ro": "Călătoria începe liniștit la sanctuarul de măgari și la spălătoria istorică din Lefkogia. La prânz, conduceți spre podul venețian Preveli și impresionanta mănăstire inferioară. După-amiaza, mașina vă duce la punctul de belvedere Timios Stavros și apoi coborâți pe coasta idilică. Încheiați ziua perfect relaxându-vă la plajele spectaculoase Ammoudi și Skinaria.",
-        "en": "Your drive begins with visits to the charming donkey sanctuary and the traditional village washhouse. Midday takes you inland to discover the Venetian Preveli Bridge and the solemn Lower Monastery. In the afternoon, you will cruise towards the scenic coast, stopping at Timios Stavros for sweeping vistas, before spending your evening relaxing at Ammoudi and Skinaria beaches."
+        "en": "Your drive begins with visits to the charming donkey sanctuary and the traditional village washhouse. Midday takes you inland to discover the Venetian Preveli Bridge and the solemn Lower Monastery. In the afternoon, you will cruise towards the scenic coast, stopping at Timios Stavros for sweeping vistas, before spending your evening relaxing at Ammoudi and Skinaria beaches.",
+        "el": "Η διαδρομή σας αρχίζει με επισκέψεις στο γοητευτικό καταφύγιο γαϊδουριών και το παραδοσιακό πλυσταριό του χωριού. Το μεσημέρι θα κινηθείτε προς το εσωτερικό για να ανακαλύψετε τη βενετσιάνικη Γέφυρα Πρέβελη και τη λαμπρή Κάτω Μονή. Το απόγευμα θα κατευθυνθείτε προς την γραφική ακτή, σταματώντας στον Τίμιο Σταυρό για απέραντες θέες, πριν περάσετε το βράδυ χαλαρώνοντας στις παραλίες Αμμούδι και Σκιναριά."
       },
       "variants": {
         "rainy": {
@@ -827,7 +914,8 @@
             "de": "Am Morgen erreichen wir mit dem Auto bequem die Esel-Rettungsstation und vermeiden Pfützen. Mittags bietet das Auto während des Klosterbesuchs trockenen Schutz vor plötzlichen Schauern. Am Nachmittag steigen wir an den Küstenaussichtspunkten nur kurz für die frische Regenluft aus. Am Abend beobachten wir den Regen aus dem Fenster einer Taverne und wissen das Auto sicher geparkt.",
             "hu": "Reggel autóval kényelmesen közelítjük meg a szamármenedéket, elkerülve a nagyobb pocsolyákat. Délben a kolostor látogatása közben az autó száraz menedéket nyújt a hirtelen záporok alatt. Délután a tengerparti kilátópontokon csak rövid időre szállunk ki a friss, esőillatú levegőre. Este a falusi taverna ablakából nézzük az esőt, biztonságban tudva a járművet.",
             "ro": "Dimineața ajungem confortabil cu mașina la sanctuarul măgărușilor, evitând bălțile mari. La prânz, în timpul vizitei la mănăstire, mașina oferă un adăpost uscat împotriva ploilor bruște. După-amiaza coborâm doar scurt la punctele de belvedere pentru aerul proaspăt de după ploaie. Seara privim ploaia de la fereastra unei taverne, cu mașina parcată în siguranță.",
-            "en": "In the morning, drive comfortably to the donkey sanctuary, easily avoiding large puddles. At noon, your car provides a dry haven during sudden showers while visiting the monastery. In the afternoon, step out only briefly at coastal viewpoints to enjoy the fresh, rain-scented air. In the evening, watch the rain from a cozy tavern window, knowing your car is parked safely."
+            "en": "In the morning, drive comfortably to the donkey sanctuary, easily avoiding large puddles. At noon, your car provides a dry haven during sudden showers while visiting the monastery. In the afternoon, step out only briefly at coastal viewpoints to enjoy the fresh, rain-scented air. In the evening, watch the rain from a cozy tavern window, knowing your car is parked safely.",
+            "el": "Το πρωί οδηγήστε άνετα προς το καταφύγιο γαϊδουριών, αποφεύγοντας εύκολα μεγάλες λακκούβες. Το μεσημέρι το αυτοκίνητό σας παρέχει στεγανή καταφυγή κατά τις ξαφνικές καταιγίδες ενώ επισκέπτεστε τη μονή. Το απόγευμα κατεβαίνετε μόνο στιγμιαία σε παραθαλάσσιες προβολές για να απολαύσετε τον φρέσκο, βροχερό αέρα. Το βράδυ παρακολουθήστε τη βροχή από το παράθυρο μιας ζεστής ταβέρνας, γνωρίζοντας ότι το αυτοκίνητό σας είναι παρκαρισμένο με ασφάλεια."
           },
           "stops": [
             {
@@ -835,13 +923,15 @@
                 "de": "Esel-Rettungsstation",
                 "hu": "Szamármenedék",
                 "ro": "Sanctuarul Măgarilor",
-                "en": "Donkey Sanctuary"
+                "en": "Donkey Sanctuary",
+                "el": "Καταφύγιο Γαϊδουριών"
               },
               "tip_5lang": {
                 "de": "Parken Sie auf befestigtem Grund, um Matsch zu vermeiden; die Esel freuen sich in den trockenen Ställen über Besuch. Ein Regenschirm ist für den Weg vom Auto nützlich.",
                 "hu": "Parkolj szilárd talajon, hogy elkerüld a sarat; a szamarak a száraz istállókban várják a látogatókat. Egy esernyő hasznos lesz az autótól a bejáratig.",
                 "ro": "Parcați pe teren solid pentru a evita noroiul; măgărușii vă așteaptă în grajdurile uscate. O umbrelă este utilă pentru drumul de la mașină la intrare.",
-                "en": "Park on firm ground to avoid the mud; the donkeys await visitors in their dry stables. An umbrella is very useful for the short walk from your car to the entrance."
+                "en": "Park on firm ground to avoid the mud; the donkeys await visitors in their dry stables. An umbrella is very useful for the short walk from your car to the entrance.",
+                "el": "Παρκάρετε σε στιβαρό έδαφος για να αποφύγετε τη λάσπη· τα γαϊδούρια σας περιμένουν στα στεγνά τους στάβλα. Ένα ομπρέλα είναι πολύ χρήσιμη για τον σύντομο περίπατο από το αυτοκίνητο στην είσοδο."
               }
             },
             {
@@ -849,13 +939,15 @@
                 "de": "Altes Waschhaus",
                 "hu": "Régi Mosóház",
                 "ro": "Vechea Spălătorie",
-                "en": "Old Washhouse"
+                "en": "Old Washhouse",
+                "el": "Παλιό Πλυσταριό"
               },
               "tip_5lang": {
                 "de": "Das massive Steindach bietet perfekten Schutz vor Regen; parken Sie nah am Eingang. Genießen Sie die kühle, feuchte Atmosphäre der historischen Anlage.",
                 "hu": "A masszív kőtető tökéletes védelmet nyújt az eső ellen; parkolj minél közelebb a bejárathoz. Élvezd a történelmi helyszín hűvös, párás hangulatát.",
                 "ro": "Acoperișul masiv de piatră oferă protecție perfectă împotriva ploii; parcați aproape de intrare. Bucurați-vă de atmosfera umedă și istorică a locului.",
-                "en": "The massive stone roof provides perfect protection from the rain; park as close to the entrance as possible. Enjoy the cool, damp atmosphere of this historical site."
+                "en": "The massive stone roof provides perfect protection from the rain; park as close to the entrance as possible. Enjoy the cool, damp atmosphere of this historical site.",
+                "el": "Η τεράστια πέτρινη στέγη προσφέρει τέλεια προστασία από τη βροχή· παρκάρετε όσο πιο κοντά στην είσοδο μπορείτε. Απολαύστε την δροσερή, υγρή ατμόσφαιρα αυτού του ιστορικού χώρου."
               }
             },
             {
@@ -863,13 +955,15 @@
                 "de": "Preveli Brücke",
                 "hu": "Preveli Híd",
                 "ro": "Podul Preveli",
-                "en": "Preveli Bridge"
+                "en": "Preveli Bridge",
+                "el": "Γέφυρα Πρέβελη"
               },
               "tip_5lang": {
                 "de": "Die Steinbrücke wirkt bei Regen besonders alt und mystisch; perfekt für Fotos direkt vom Parkplatz aus. Achten Sie auf rutschige Stellen beim kurzen Aussteigen.",
                 "hu": "A kőhíd esőben különösen réginek és misztikusnak tűnik; a parkolóból is remekül fotózható. Figyelj a csúszós részekre, amikor kiszállsz körülnézni.",
                 "ro": "Podul de piatră pare deosebit de vechi și mistic în ploaie; se poate fotografia excelent chiar din parcare. Atenție la zonele alunecoase când coborâți.",
-                "en": "The stone bridge looks especially ancient and mystical in the rain; it's great for photos right from the parking area. Watch for slippery spots when you step out."
+                "en": "The stone bridge looks especially ancient and mystical in the rain; it's great for photos right from the parking area. Watch for slippery spots when you step out.",
+                "el": "Η πέτρινη γέφυρα φαίνεται ιδιαίτερα αρχαία και μυστηριακή στη βροχή· είναι ιδανική για φωτογραφίες κατευθείαν από τον χώρο στάθμευσης. Προσέξτε ολισθηρά σημεία όταν βγείτε έξω."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Unteres Preveli-Kloster",
                 "hu": "Alsó Preveli Kolostor",
                 "ro": "Mănăstirea Inferioară Preveli",
-                "en": "Lower Preveli Monastery"
+                "en": "Lower Preveli Monastery",
+                "el": "Κάτω Μονή Πρέβελη"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die Kapelle, während es draußen regnet; die dicken Mauern dämpfen das Geräusch der Tropfen. Halten Sie die Autotüren bei Windstößen fest.",
                 "hu": "Fedezd fel a kápolnát, miközben kint esik; a vastag falak tompítják az esőcseppek kopogását. Erős széllökések esetén kapaszkodj meg az autóajtóba.",
                 "ro": "Explorați capela în timp ce afară plouă; zidurile groase atenuează sunetul picăturilor. țineți bine de portierele mașinii în caz de rafale de vânt.",
-                "en": "Explore the chapel while it rains outside; the thick walls dampen the sound of the raindrops. Hold onto your car doors firmly during sudden gusts of wind."
+                "en": "Explore the chapel while it rains outside; the thick walls dampen the sound of the raindrops. Hold onto your car doors firmly during sudden gusts of wind.",
+                "el": "Εξερευνήστε το παρεκκλήσι ενώ βρέχει απ’ έξω· οι παχείς τοίχοι αποσβένουν τον ήχο των σταγόνων. Κρατήστε καλά τις πόρτες του αυτοκινήτου σας κατά τις ξαφνικές ριπές ανέμου."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Timios Stavros",
                 "hu": "Timios Stavros",
                 "ro": "Timios Stavros",
-                "en": "Timios Stavros"
+                "en": "Timios Stavros",
+                "el": "Τίμιος Σταυρός"
               },
               "tip_5lang": {
                 "de": "Die stürmische Aussicht auf das Meer ist dramatisch; nutzen Sie das Auto als Beobachtungspunkt. Gehen Sie nur mit gutem Schuhwerk auf den nassen Felsen.",
                 "hu": "A viharos kilátás a tengerre drámai; használd az autót megfigyelőpontként a záporok alatt. Csak megfelelő cipőben merészkedj a nedves sziklákra.",
                 "ro": "Vederea învolburată asupra mării este dramatică; folosiți mașina ca punct de observație. Aventurați-vă pe stâncile umede doar cu încălțăminte adecvată.",
-                "en": "The stormy view of the sea is dramatic; use your car as a sheltered observation point. Only venture onto the wet rocks if you have sturdy, grippy footwear."
+                "en": "The stormy view of the sea is dramatic; use your car as a sheltered observation point. Only venture onto the wet rocks if you have sturdy, grippy footwear.",
+                "el": "Η θυελλώδης θέα της θάλασσας είναι δραματική· χρησιμοποιήστε το αυτοκίνητο ως προστατευμένο παρατηρητήριο. Βγείτε στα βρεγμένα βράχια μόνο αν έχετε γερό, αντιολισθητικό παπούτσι."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Ammoudi Strand",
                 "hu": "Ammoudi Strand",
                 "ro": "Plaja Ammoudi",
-                "en": "Ammoudi Beach"
+                "en": "Ammoudi Beach",
+                "el": "Παραλία Αμμούδι"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie die Wellen bequem von Ihrem Sitz aus; der Strand ist im Regen menschenleer. Lüften Sie das Auto kurz, um beschlagene Scheiben zu vermeiden.",
                 "hu": "Figyeld a hullámokat kényelmesen az ülésedből; a strand esőben teljesen kihalt. Szellőztesd át az autót rövid időre, hogy elkerüld a szélvédő párásodását.",
                 "ro": "Observați valurile confortabil din scaunul mașinii; plaja este complet pustie pe ploaie. Aerisiți scurt mașina pentru a evita aburirea geamurilor.",
-                "en": "Watch the crashing waves comfortably from your seat; the beach is completely deserted in the rain. Briefly vent the car to prevent the windows from fogging up."
+                "en": "Watch the crashing waves comfortably from your seat; the beach is completely deserted in the rain. Briefly vent the car to prevent the windows from fogging up.",
+                "el": "Παρακολουθήστε τα σπασμένα κύματα άνετα από τη θέση σας· η παραλία είναι εντελώς έρημη στη βροχή. Αερίστε λίγο το αυτοκίνητο για να αποφύγετε το θόλωμα των παραθύρων."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Skinaria Strand",
                 "hu": "Skinaria Strand",
                 "ro": "Plaja Skinaria",
-                "en": "Skinaria Beach"
+                "en": "Skinaria Beach",
+                "el": "Παραλία Σκιναριά"
               },
               "tip_5lang": {
                 "de": "Das türkisfarbene Wasser leuchtet auch unter grauem Himmel; ein faszinierender Anblick. Bleiben Sie für die besten Fotos im Schutz der offenen Heckklappe.",
                 "hu": "A türkizkék víz szinte világít a szürke ég alatt; lenyűgöző látvány esőben is. Maradj a nyitott csomagtartó védelmében a legjobb fotók elkészítéséhez.",
                 "ro": "Apa turcoaz strălucește chiar și sub cerul gri; o priveliște fascinantă. Rămâneți sub protecția hayonului deschis pentru a face cele mai bune fotografii.",
-                "en": "The turquoise water almost glows under the grey sky; a fascinating sight in the rain. Stay under the cover of the open trunk to take the best scenic photos."
+                "en": "The turquoise water almost glows under the grey sky; a fascinating sight in the rain. Stay under the cover of the open trunk to take the best scenic photos.",
+                "el": "Το τυρκουάζ νερό σχεδόν φωτίζει κάτω από τον γκρίζο ουρανό· μια συναρπαστική εικόνα στη βροχή. Μείνετε κάτω από την κάλυψη του ανοιχτού πορτ-μπαγκάζ για να βγάλετε τις καλύτερες πανοραμικές φωτογραφίες."
               }
             }
           ]
@@ -935,7 +1037,8 @@
             "de": "Dank der Autoheizung ist die Morgenkälte kein Hindernis, und wir kommen frisch bei den Eseln an. Mittags spazieren wir an der Preveli-Brücke und genießen die Stille des Klosters. Am Nachmittag fahren wir die Küstenserpentinen entlang und genießen das warme Licht der frühen Wintersonne. Da es um 17:00 Uhr dunkel wird, beenden wir den Tag gemütlich im beleuchteten Lefkogia.",
             "hu": "A fűtött autóban ülve a reggeli hideg nem akadály, így frissen érkezünk az állatokhoz. Délben a Preveli híd környékén sétálunk, majd a kolostor csendjében merülünk el. Délután a part menti szerpentineken autózunk a lemenő nap fényében, ami télen korán érkezik. Este, a sötétedés után Lefkogia kivilágított házai között zárjuk a napot.",
             "ro": "Datorită încălzirii din mașină, frigul dimineții nu este un obstacol și ajungem proaspeți la măgăruși. La prânz ne plimbăm pe lângă podul Preveli și ne bucurăm de liniștea mănăstirii. După-amiaza conducem pe serpentinele de pe coastă în lumina caldă a soarelui de iarnă. Seara, după ora 17:00, încheiem ziua în Lefkogia luminată.",
-            "en": "With the car heater on, the morning chill is no obstacle as we arrive fresh at the sanctuary. At noon, we stroll around Preveli Bridge and soak in the monastery's silence. In the afternoon, we drive along the coastal serpentines in the early winter golden hour. Since it gets dark by 17:00, we end the day among the lit houses of Lefkogia."
+            "en": "With the car heater on, the morning chill is no obstacle as we arrive fresh at the sanctuary. At noon, we stroll around Preveli Bridge and soak in the monastery's silence. In the afternoon, we drive along the coastal serpentines in the early winter golden hour. Since it gets dark by 17:00, we end the day among the lit houses of Lefkogia.",
+            "el": "Με αναμμένο το καλοριφέρ του αυτοκινήτου, το πρωινό κρύο δεν είναι εμπόδιο καθώς φτάνουμε φρέσκοι στο καταφύγιο. Το μεσημέρι περπατάμε γύρω από τη Γέφυρα Πρέβελη και απορροφούμε τη σιωπή της μονής. Το απόγευμα οδηγούμε κατά μήκος των παραθαλάσσιων ελικοειδών δρόμων στην πρώιμη χειμερινή χρυσή ώρα. Επειδή σκοτεινιάζει στις 17:00, τελειώνουμε τη μέρα ανάμεσα στα φωτισμένα σπίτια της Λευκογιάς."
           },
           "stops": [
             {
@@ -943,13 +1046,15 @@
                 "de": "Esel-Rettungsstation",
                 "hu": "Szamármenedék",
                 "ro": "Sanctuarul Măgarilor",
-                "en": "Donkey Sanctuary"
+                "en": "Donkey Sanctuary",
+                "el": "Καταφύγιο Γαϊδουριών"
               },
               "tip_5lang": {
                 "de": "Helfen Sie bei der Winterfütterung; die Esel sind in der kühlen Luft sehr lebhaft. Parken Sie so, dass Sie schnell wieder ins warme Auto schlüpfen können.",
                 "hu": "Segíts a téli etetésben; a szamarak nagyon élénkek a hűvös levegőn. Parkolj úgy, hogy a látogatás után gyorsan vissza tudj bújni a fűtött autóba.",
                 "ro": "Ajutați la hrănirea de iarnă; măgărușii sunt foarte vioi în aerul răcoros. Parcați astfel încât să puteți reveni rapid în căldura mașinii după vizită.",
-                "en": "Help with the winter feeding; the donkeys are very lively in the cool air. Park in a way that allows you to quickly hop back into your warm car after the visit."
+                "en": "Help with the winter feeding; the donkeys are very lively in the cool air. Park in a way that allows you to quickly hop back into your warm car after the visit.",
+                "el": "Βοηθήστε στο χειμερινό τάισμα· τα γαϊδούρια είναι πολύ ζωηρά στον ψυχρό αέρα. Σταθμεύστε έτσι ώστε να μπορείτε γρήγορα να μπείτε ξανά στο ζεστό αυτοκίνητό σας μετά την επίσκεψη."
               }
             },
             {
@@ -957,13 +1062,15 @@
                 "de": "Altes Waschhaus",
                 "hu": "Régi Mosóház",
                 "ro": "Vechea Spălătorie",
-                "en": "Old Washhouse"
+                "en": "Old Washhouse",
+                "el": "Παλιό Πλυσταριό"
               },
               "tip_5lang": {
                 "de": "Die dicken Steinmauern halten die Winterkälte; ein kurzer, stimmungsvoller Stopp. Nehmen Sie einen heißen Kaffee im Auto mit, um ihn hier zu genießen.",
                 "hu": "A vastag kőfalak tartják a téli hideget; egy rövid, hangulatos megálló a falu szélén. Vigyél magaddal forró kávét az autóban, és élvezd itt a nyugalmat.",
                 "ro": "Zidurile groase de piatră mențin frigul iernii; o oprire scurtă și atmosferică. Luați o cafea fierbinte în mașină pentru a o savura în liniște aici.",
-                "en": "The thick stone walls hold the winter chill; it's a short but atmospheric stop. Bring a hot coffee in the car to enjoy while soaking in the local history here."
+                "en": "The thick stone walls hold the winter chill; it's a short but atmospheric stop. Bring a hot coffee in the car to enjoy while soaking in the local history here.",
+                "el": "Οι παχιοί πέτρινοι τοίχοι συγκρατούν το χειμερινό ψύχος· είναι μια σύντομη αλλά ατμοσφαιρική στάση. Φέρτε έναν ζεστό καφέ στο αυτοκίνητο για να τον απολαύσετε ενώ απορροφάτε την τοπική ιστορία."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Preveli Brücke",
                 "hu": "Preveli Híd",
                 "ro": "Podul Preveli",
-                "en": "Preveli Bridge"
+                "en": "Preveli Bridge",
+                "el": "Γέφυρα Πρέβελη"
               },
               "tip_5lang": {
                 "de": "Der Fluss führt im Winter viel Wasser; ein toller Anblick direkt von der Straße aus. Nutzen Sie das klare Winterlicht für gestochen scharfe Landschaftsfotos.",
                 "hu": "A folyó télen sok vizet szállít; remek látvány közvetlenül az út mellől is. Használd ki a tiszta téli fényeket a tűéles tájképek készítéséhez.",
                 "ro": "Râul are un debit mare iarna; o priveliște excelentă chiar de lângă drum. Profitați de lumina clară de iarnă pentru fotografii de peisaj foarte clare.",
-                "en": "The river carries a lot of water in winter; a great sight right from the roadside. Take advantage of the clear winter light for sharp landscape photographs."
+                "en": "The river carries a lot of water in winter; a great sight right from the roadside. Take advantage of the clear winter light for sharp landscape photographs.",
+                "el": "Ο ποταμός μεταφέρει πολύ νερό το χειμώνα· μια υπέροχη θέα ακριβώς από τον δρόμο. Εκμεταλλευτείτε το καθαρό χειμερινό φως για κοφτές φωτογραφίες τοπίου."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Unteres Preveli-Kloster",
                 "hu": "Alsó Preveli Kolostor",
                 "ro": "Mănăstirea Inferioară Preveli",
-                "en": "Lower Preveli Monastery"
+                "en": "Lower Preveli Monastery",
+                "el": "Κάτω Μονή Πρέβελη"
               },
               "tip_5lang": {
                 "de": "Die spirituelle Stille ist im Winter ohne Touristen fast greifbar; die Anlage wirkt zeitlos. Genießen Sie die Einsamkeit, bevor Sie die Heizung im Auto wieder aufdrehen.",
                 "hu": "A spirituális csend télen, turisták nélkül szinte tapintható; a helyszín időtlennek tűnik. Élvezd a magányt, mielőtt újra feltekernéd a fűtést az autóban.",
                 "ro": "Liniștea spirituală este aproape palpabilă iarna, fără turiști; locul pare atemporal. Bucurați-vă de singurătate înainte de a porni iar căldura în mașină.",
-                "en": "The spiritual silence is almost palpable in winter without the crowds; the site feels timeless. Enjoy the solitude before turning up the heater in your car again."
+                "en": "The spiritual silence is almost palpable in winter without the crowds; the site feels timeless. Enjoy the solitude before turning up the heater in your car again.",
+                "el": "Η πνευματική σιωπή είναι σχεδόν απτή τον χειμώνα χωρίς τα πλήθη· ο χώρος μοιάζει διαχρονικός. Απολαύστε τη μοναχικότητα πριν ξαναζεστάνετε το αυτοκίνητό σας."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Timios Stavros",
                 "hu": "Timios Stavros",
                 "ro": "Timios Stavros",
-                "en": "Timios Stavros"
+                "en": "Timios Stavros",
+                "el": "Τίμιος Σταυρός"
               },
               "tip_5lang": {
                 "de": "Die Fernsicht über das Libysche Meer ist im Winter unschlagbar klar. Planen Sie, vor dem frühen Sonnenuntergang um 17:00 Uhr wieder im Auto zu sein.",
                 "hu": "A kilátás a Líbiai-tengerre télen verhetetlenül tiszta és messzire nyúló. Tervezd úgy, hogy a korai, öt órai naplemente előtt már újra az autóban ülj.",
                 "ro": "Vederea panoramică asupra mării este incredibil de clară iarna. Planificați să fiți înapoi la mașină înainte de apusul timpuriu de la ora 17:00.",
-                "en": "The panoramic view over the Libyan Sea is unbeatably clear in winter. Plan to be back in your car before the early sunset at 17:00 to avoid driving in the dark."
+                "en": "The panoramic view over the Libyan Sea is unbeatably clear in winter. Plan to be back in your car before the early sunset at 17:00 to avoid driving in the dark.",
+                "el": "Η πανοραμική θέα πάνω από τη Λιβυκή Θάλασσα είναι ασυναγώνιστη τον χειμώνα. Σχεδιάστε να είστε πίσω στο αυτοκίνητό σας πριν το πρώιμο ηλιοβασίλεμα στις 17:00 για να αποφύγετε την οδήγηση στο σκοτάδι."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Ammoudi Strand",
                 "hu": "Ammoudi Strand",
                 "ro": "Plaja Ammoudi",
-                "en": "Ammoudi Beach"
+                "en": "Ammoudi Beach",
+                "el": "Παραλία Αμμούδι"
               },
               "tip_5lang": {
                 "de": "Ein einsamer Strandspaziergang ist im Winter sehr erfrischend; lassen Sie Ihre festen Schuhe an. Das Auto bleibt am leeren Parkplatz angenehm kühl.",
                 "hu": "Egy magányos tengerparti séta télen nagyon frissítő; hagyd magadon a zárt cipődet. Az autó a kihalt parkolóban biztonságos és hűvös menedék marad.",
                 "ro": "O plimbare solitară pe plajă este foarte revigorantă iarna; păstrați încălțămintea închisă. Mașina rămâne un refugiu sigur în parcarea pustie.",
-                "en": "A solitary walk on the beach is very refreshing in winter; keep your sturdy shoes on. The car remains a safe and cool haven in the deserted parking lot."
+                "en": "A solitary walk on the beach is very refreshing in winter; keep your sturdy shoes on. The car remains a safe and cool haven in the deserted parking lot.",
+                "el": "Ένας μοναχικός περίπατος στην παραλία είναι πολύ αναζωογονητικός τον χειμώνα· κρατήστε τα γερά σας παπούτσια. Το αυτοκίνητο παραμένει ασφαλές και δροσερό καταφύγιο στο έρημο πάρκινγκ."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Skinaria Strand",
                 "hu": "Skinaria Strand",
                 "ro": "Plaja Skinaria",
-                "en": "Skinaria Beach"
+                "en": "Skinaria Beach",
+                "el": "Παραλία Σκιναριά"
               },
               "tip_5lang": {
                 "de": "Das glasklare Wasser ist im Winter wunderschön anzusehen, auch ohne Badegang. Der frühe Sonnenuntergang färbt den Himmel hier spektakulär ein.",
                 "hu": "A kristálytiszta vizet télen is gyönyörű nézni, még fürdés nélkül is. A korai naplemente látványosan színezi át az eget a horizont felett.",
                 "ro": "Apa cristalină este minunată de privit iarna, chiar și fără a înota. Apusul timpuriu colorează cerul spectaculos deasupra orizontului.",
-                "en": "The crystal clear water is beautiful to look at in winter, even without a swim. The early sunset colors the sky spectacularly over the horizon here."
+                "en": "The crystal clear water is beautiful to look at in winter, even without a swim. The early sunset colors the sky spectacularly over the horizon here.",
+                "el": "Τα κρυστάλλινα νερά είναι όμορφα να τα βλέπεις τον χειμώνα, ακόμη και χωρίς μπάνιο. Το πρώιμο ηλιοβασίλεμα βάφει εντυπωσιακά τον ουρανό πάνω από τον ορίζοντα εδώ."
               }
             }
           ]

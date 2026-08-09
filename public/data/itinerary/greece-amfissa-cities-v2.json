@@ -21,7 +21,8 @@
             "de": "Viertel Harmaina",
             "hu": "Harmaina negyed",
             "ro": "Cartierul Harmaina",
-            "en": "Harmaina Quarter"
+            "en": "Harmaina Quarter",
+            "el": "Γειτονιά Χαρμάινα"
           },
           "coords": [
             22.377,
@@ -39,7 +40,8 @@
             "de": "Kathedrale der Verkündigung",
             "hu": "Angyali Üdvözlet Székesegyház",
             "ro": "Catedrala Bunei Vestiri",
-            "en": "Cathedral of the Annunciation"
+            "en": "Cathedral of the Annunciation",
+            "el": "Καθεδρικός Ευαγγελισμού"
           },
           "coords": [
             22.3765,
@@ -57,7 +59,8 @@
             "de": "Archäologisches Museum",
             "hu": "Régészeti Múzeum",
             "ro": "Muzeul de Arheologie",
-            "en": "Archaeological Museum"
+            "en": "Archaeological Museum",
+            "el": "Αρχαιολογικό Μουσείο"
           },
           "coords": [
             22.3758,
@@ -75,7 +78,8 @@
             "de": "Mittagessen in einer lokalen Taverne",
             "hu": "Ebéd egy helyi tavernában",
             "ro": "Prânz la o tavernă locală",
-            "en": "Lunch at a local tavern"
+            "en": "Lunch at a local tavern",
+            "el": "Μεσημεριανό σε τοπική ταβέρνα"
           },
           "coords": [
             22.3772,
@@ -93,7 +97,8 @@
             "de": "Burg von Salona",
             "hu": "Szalonai vár",
             "ro": "Castelul Salona",
-            "en": "Castle of Salona"
+            "en": "Castle of Salona",
+            "el": "Κάστρο Σαλώνων"
           },
           "coords": [
             22.374,
@@ -111,7 +116,8 @@
             "de": "Kirche des Erlösers",
             "hu": "Megváltó temploma",
             "ro": "Biserica Mântuitorului",
-            "en": "Church of the Saviour"
+            "en": "Church of the Saviour",
+            "el": "Εκκλησία του Σωτήρος"
           },
           "coords": [
             22.3785,
@@ -129,7 +135,8 @@
         "de": "Ihr Spaziergang durch Amfissa beginnt im historischen Viertel Harmaina, wo Sie die Atmosphäre der alten Gerber aufsaugen. Mittags erklimmen Sie die Burg von Salona für einen atemberaubenden Blick über den Olivenhain. Am Nachmittag schlendern Sie durch die Gassen zurück ins Zentrum und besuchen die byzantinische Erlöserkirche. Der Abend klingt in einer gemütlichen Taverne aus, wo Sie lokale Spezialitäten genießen.",
         "hu": "Sétája Amfisszában a történelmi Harmaina negyedben kezdődik, ahol magába szívhatja a régi cserzővargák hangulatát. Délben megmássza a Szalonai várat, ahonnan lélegzetelállító kilátás nyílik az olajfaligetre. Délután a sikátorokon keresztül visszasétál a központba, és meglátogatja a bizánci Megváltó templomot. Az estét egy hangulatos tavernában zárja, ahol helyi specialitásokat kóstolhat.",
         "ro": "Plimbarea dvs. prin Amfissa începe în cartierul istoric Harmaina, unde absorbiți atmosfera vechilor tăbăcari. La prânz, urcați la Castelul Salona pentru o priveliște uluitoare asupra plantației de măslini. După-amiaza, vă plimbați pe străduțe înapoi în centru și vizitați biserica bizantină a Mântuitorului. Seara se încheie într-o tavernă primitoare, savurând specialități locale.",
-        "en": "Your walk through Amfissa begins in the historic Harmaina quarter, soaking up the atmosphere of the old tanners. At noon, you'll climb the Castle of Salona for a breathtaking view over the olive grove. In the afternoon, stroll through the alleys back to the center and visit the Byzantine Church of the Saviour. The evening ends in a cozy tavern, enjoying local specialties."
+        "en": "Your walk through Amfissa begins in the historic Harmaina quarter, soaking up the atmosphere of the old tanners. At noon, you'll climb the Castle of Salona for a breathtaking view over the olive grove. In the afternoon, stroll through the alleys back to the center and visit the Byzantine Church of the Saviour. The evening ends in a cozy tavern, enjoying local specialties.",
+        "el": "Ο περίπατός σας στην Άμφισσα ξεκινά στην ιστορική γειτονιά Χαρμάινα, απορροφώντας την ατμόσφαιρα των παλιών βαφέων. Το μεσημέρι θα ανεβείτε στο Κάστρο Σαλώνων για πανοραμική θέα πάνω από τον ελαιώνα. Το απόγευμα περπατήστε στα σοκάκια επιστρέφοντας στο κέντρο και επισκεφθείτε τη βυζαντινή εκκλησία του Σωτήρος. Το βράδυ τελειώνει σε μια ζεστή ταβέρνα απολαμβάνοντας τοπικές λιχουδιές."
       },
       "gastro_picks": {
         "de": [
@@ -305,6 +312,12 @@
           "Bring a water bottle, especially for the walk up to the castle.",
           "The best photo opportunities of the castle are in the late afternoon.",
           "Check the opening hours of the museums as they can vary seasonally."
+        ],
+        "el": [
+          "Φορέστε άνετα παπούτσια καθώς η ανάβαση στο κάστρο μπορεί να είναι απότομη.",
+          "Πάρτε μπουκάλι νερό, ειδικά για την ανάβαση στο κάστρο.",
+          "Οι καλύτερες φωτογραφίες του κάστρου είναι αργά το απόγευμα.",
+          "Ελέγξτε τις ώρες λειτουργίας των μουσείων καθώς μπορεί να αλλάζουν εποχικά."
         ]
       },
       "variants": {
@@ -313,7 +326,8 @@
             "de": "Der Tag beginnt im atmosphärischen Harmaina-Viertel, wo der Regen das Kopfsteinpflaster glänzen lässt. Die Kathedrale bietet einen prachtvollen, trockenen Rückzugsort am Vormittag. Mittags wärmen wir uns in einer lokalen Taverne bei traditionellen Eintöpfen auf. Nachmittags erkunden wir das Archäologische Museum ausgiebig, bevor wir den Tag trotz Wolken am Fuße der Burg ausklingen lassen.",
             "hu": "A nap az ódon Harmaina negyedben indul, ahol az eső még inkább kiemeli a régi cserzőműhelyek hangulatát. Délelőtt a katedrális freskói alatt találunk menedéket a zápor elől. Ebédre egy kockás abroszos taverna melegét választjuk. Délután a múzeum gazdag gyűjteményét böngésszük, majd egy rövid sétát teszünk a várfalak alatt, élvezve a párás hegyi levegőt.",
             "ro": "Ziua începe în cartierul istoric Harmaina, unde ploaia face ca străzile înguste să pară desprinse dintr-o altă epocă. Dimineața, interiorul catedralei oferă un refugiu artistic și uscat. La prânz, ne bucurăm de ospitalitatea grecească într-o tavernă primitoare. După-amiaza este dedicată muzeului arheologic, urmată de o vizită scurtă la castel, unde norii aduc un aer dramatic ruinelor.",
-            "en": "The day starts in the atmospheric Harmaina district, where the rain adds a moody glint to the old tanneries' cobblestones. By mid-morning, the cathedral provides a dry sanctuary to admire its famous frescoes. We enjoy a long, cozy lunch in a local tavern. The afternoon is spent exploring the indoor treasures of the museum, concluding with a brisk walk near the castle as the mist settles."
+            "en": "The day starts in the atmospheric Harmaina district, where the rain adds a moody glint to the old tanneries' cobblestones. By mid-morning, the cathedral provides a dry sanctuary to admire its famous frescoes. We enjoy a long, cozy lunch in a local tavern. The afternoon is spent exploring the indoor treasures of the museum, concluding with a brisk walk near the castle as the mist settles.",
+            "el": "Η μέρα ξεκινά στη ατμοσφαιρική συνοικία Χαρμάινα, όπου η βροχή προσθέτει μια μελαγχολική λάμψη στα παλιά λιθόστρωτα των βαφεΐων. Μέχρι τα μέσα του πρωινού, ο καθεδρικός προσφέρει ένα στεγνό καταφύγιο για να θαυμάσετε τα διάσημα τοιχογραφικά του. Απολαμβάνουμε ένα μακρύ, ζεστό μεσημεριανό σε μια τοπική ταβέρνα. Το απόγευμα περνάει εξερευνώντας τους εσωτερικούς θησαυρούς του μουσείου, καταλήγοντας σε ένα ζωηρό περπάτημα κοντά στο κάστρο καθώς η ομίχλη κατεβαίνει."
           },
           "stops": [
             {
@@ -322,7 +336,8 @@
                 "de": "Vorsicht auf dem glatten Kopfsteinpflaster; feste Schuhe sind heute Pflicht.",
                 "hu": "Vigyázat, a macskakövek csúszósak; a régi házak ereszei alatt jól lehet haladni.",
                 "ro": "Atenție la pavajul umed; străzile înguste pot fi alunecoase când plouă.",
-                "en": "Watch your step on the wet cobblestones; the old overhangs provide some cover."
+                "en": "Watch your step on the wet cobblestones; the old overhangs provide some cover.",
+                "el": "Προσέξτε τα βρεγμένα λιθόστρωτα· οι παλιές προεξοχές παρέχουν κάποια κάλυψη."
               }
             },
             {
@@ -331,7 +346,8 @@
                 "de": "Ein idealer Ort, um einen starken Regenschauer trocken zu überstehen.",
                 "hu": "Tökéletes helyszín egy nagyobb zápor átvészeléséhez a festmények között.",
                 "ro": "Un loc excelent pentru a te adăposti de ploaie în timp ce admiri frescele.",
-                "en": "A great indoor stop to stay dry while admiring the impressive Papaloukas frescoes."
+                "en": "A great indoor stop to stay dry while admiring the impressive Papaloukas frescoes.",
+                "el": "Υπέροχη εσωτερική στάση για να μείνετε στεγνοί ενώ θαυμάζετε τις εντυπωσιακές τοιχογραφίες του Παπαλούκα."
               }
             },
             {
@@ -340,7 +356,8 @@
                 "de": "Nutzen Sie die Regenpause für einen ausführlichen Besuch der Exponate.",
                 "hu": "Használja ki az esős időt a régészeti leletek alapos megismerésére.",
                 "ro": "Profită de vremea ploioasă pentru a explora în detaliu exponatele muzeului.",
-                "en": "Perfect rainy day activity; take your time exploring the ancient bronze finds."
+                "en": "Perfect rainy day activity; take your time exploring the ancient bronze finds.",
+                "el": "Ιδανική δραστηριότητα για βροχερή μέρα· αφιερώστε χρόνο για να εξερευνήσετε τα αρχαία χάλκινα ευρήματα."
               }
             },
             {
@@ -349,7 +366,8 @@
                 "de": "Fragen Sie nach 'Tragana' oder Suppen, um sich nach dem Regen aufzuwärmen.",
                 "hu": "Kérjen meleg levest vagy helyi specialitást az átázott séta után.",
                 "ro": "Cere o supă caldă sau preparate tradiționale pentru a te încălzi.",
-                "en": "Warm up with a hearty Greek soup or local stew while the rain pours outside."
+                "en": "Warm up with a hearty Greek soup or local stew while the rain pours outside.",
+                "el": "Ζεσταθείτε με μια χορταστική ελληνική σούπα ή τοπικό στιφάδο ενώ η βροχή πέφτει έξω."
               }
             },
             {
@@ -358,7 +376,8 @@
                 "de": "Der Aufstieg ist bei Regen rutschig; bleiben Sie auf den befestigten Wegen.",
                 "hu": "A várfeljáró esőben csúszós; maradjon a kijelölt, biztonságos útvonalakon.",
                 "ro": "Urcarea la castel poate fi dificilă pe ploaie; poartă încălțăminte adecvată.",
-                "en": "The path to the fortress is slippery when wet; stick to the main paved route."
+                "en": "The path to the fortress is slippery when wet; stick to the main paved route.",
+                "el": "Το μονοπάτι προς το φρούριο γίνεται ολισθηρό όταν είναι βρεγμένο· μείνετε στην κύρια στρωμένη διαδρομή."
               }
             },
             {
@@ -367,7 +386,8 @@
                 "de": "Genießen Sie die mystische Atmosphäre der alten Kirche im Regen.",
                 "hu": "Élvezze a templom misztikus hangulatát az eső kopogása mellett.",
                 "ro": "Bucură-te de liniștea bisericii în timp ce asculți ploaia afară.",
-                "en": "Enjoy the peaceful and mystic atmosphere inside as the rain falls on the stones."
+                "en": "Enjoy the peaceful and mystic atmosphere inside as the rain falls on the stones.",
+                "el": "Απολαύστε την ήρεμη και μυστική ατμόσφαιρα μέσα ενώ η βροχή χτυπάει τις πέτρες."
               }
             }
           ],
@@ -399,6 +419,13 @@
               "Prioritize indoor stops like the museum during peak rain hours.",
               "Local taverns are extra cozy on rainy days; take a longer lunch break.",
               "Wear waterproof shoes with good grip for the castle ascent."
+            ],
+            "el": [
+              "Φορέστε αντιανεμική ομπρέλα καθώς οι ορεινές ριπές μπορεί να είναι δυνατές.",
+              "Τα λιθόστρωτα στην παλιά συνοικία γλιστρούν εύκολα όταν βραχούν.",
+              "Δώστε προτεραιότητα σε εσωτερικές στάσεις όπως το μουσείο κατά τις ώρες αιχμής της βροχής.",
+              "Οι τοπικές ταβέρνες είναι ακόμα πιο ζεστές τις βροχερές μέρες· κάντε μεγαλύτερο μεσημεριανό διάλειμμα.",
+              "Φορέστε αδιάβροχα παπούτσια με καλό κράτημα για την ανάβαση στο κάστρο."
             ]
           }
         },
@@ -407,7 +434,8 @@
             "de": "Die klare Winterluft macht den morgendlichen Spaziergang durch Harmaina erfrischend. In der Kathedrale bewundern wir die Kunstwerke in winterlicher Stille. Mittags stärken wir uns bei regionalen Spezialitäten und Oliven aus Amfissa. Der Nachmittag im Museum ist wohlig warm, bevor wir pünktlich zum frühen Sonnenuntergang die Burg von Salona für fantastische Fotos erreichen.",
             "hu": "A friss téli levegőben élénkítő a séta a Harmaina negyedben. Délelőtt a katedrális csendjében mélyedhetünk el a művészetben. Ebédre Amfissa híres olajbogyóit és laktató fogásokat kóstolunk. Délután a múzeum fűtött termeiben melegszünk fel, majd a korai naplemente fényeiben csodáljuk meg a Salona várát és a völgy panorámáját.",
             "ro": "Aerul proaspăt de iarnă face plimbarea prin Harmaina foarte revigorantă. Dimineața, catedrala oferă un moment de liniște și admirație artistică. La prânz, degustăm faimoasele măsline de Amfissa lângă un șemineu. După-amiaza la muzeu este caldă și educativă, iar vizita la castel coincide perfect cu apusul timpuriu de iarnă.",
-            "en": "Crisp winter air greets us in the historic Harmaina district this morning. Inside the cathedral, the stillness highlights the incredible interior details. We enjoy a hearty winter lunch featuring the famous local olives. The afternoon is spent in the warmth of the museum, followed by a sunset visit to the castle, offering stunning views over the olive groves."
+            "en": "Crisp winter air greets us in the historic Harmaina district this morning. Inside the cathedral, the stillness highlights the incredible interior details. We enjoy a hearty winter lunch featuring the famous local olives. The afternoon is spent in the warmth of the museum, followed by a sunset visit to the castle, offering stunning views over the olive groves.",
+            "el": "Ο δροσερός χειμωνιάτικος αέρας μας καλωσορίζει σήμερα το πρωί στη ιστορική συνοικία Χαρμαίνα. Μέσα στον καθεδρικό, η σιωπή αναδεικνύει τις εκπληκτικές εσωτερικές λεπτομέρειες. Απολαμβάνουμε ένα χορταστικό χειμωνιάτικο γεύμα με τα διάσημα τοπικά ελιές. Το απόγευμα περνάει στο ζεστό μουσείο, και ακολουθεί επίσκεψη στο κάστρο κατά τη δύση του ήλιου, με εκπληκτική θέα πάνω από τους ελαιώνες."
           },
           "stops": [
             {
@@ -416,7 +444,8 @@
                 "de": "Ein heißer griechischer Kaffee in einer der alten Bars wirkt Wunder gegen die Kälte.",
                 "hu": "Egy forró görög kávé az egyik régi bárban segít elűzni a reggeli fagyot.",
                 "ro": "O cafea grecească fierbinte într-un bar vechi te va încălzi rapid.",
-                "en": "Warm up with a hot Greek coffee in one of the historic local cafes."
+                "en": "Warm up with a hot Greek coffee in one of the historic local cafes.",
+                "el": "Ζεσταθείτε με έναν ζεστό ελληνικό καφέ σε ένα από τα ιστορικά τοπικά καφενεία."
               }
             },
             {
@@ -425,7 +454,8 @@
                 "de": "Achten Sie auf die kühle Innentemperatur; behalten Sie Ihren Mantel an.",
                 "hu": "A templom belső tere télen hűvös, tartsa magán a kabátját.",
                 "ro": "Interiorul catedralei poate fi răcoros; păstrează haina pe tine.",
-                "en": "The cathedral interior can be chilly; keep your winter layers on."
+                "en": "The cathedral interior can be chilly; keep your winter layers on.",
+                "el": "Το εσωτερικό του καθεδρικού μπορεί να είναι δροσερό· κρατήστε τα χειμωνιάτικα στρώματα ρουχισμού."
               }
             },
             {
@@ -434,7 +464,8 @@
                 "de": "Ein wohltemperierter Ort, um sich zwischen den Spaziergängen aufzuwärmen.",
                 "hu": "Kellemesen fűtött helyszín a városnézés közbeni felmelegedéshez.",
                 "ro": "Un loc bine încălzit, perfect pentru a te dezmorți între plimbări.",
-                "en": "A well-heated indoor stop, perfect for warming up between walks."
+                "en": "A well-heated indoor stop, perfect for warming up between walks.",
+                "el": "Ένα καλά θερμαινόμενο εσωτερικό σημείο, ιδανικό για να ζεσταθείτε ανάμεσα στις βόλτες."
               }
             },
             {
@@ -443,7 +474,8 @@
                 "de": "Probieren Sie die berühmten schwarzen Amfissa-Oliven zur Vorspeise.",
                 "hu": "Kóstolja meg a híres fekete amfisszai olajbogyót előételként.",
                 "ro": "Încearcă faimoasele măsline negre de Amfissa ca aperitiv.",
-                "en": "Be sure to try the locally grown black Amfissa olives as an appetizer."
+                "en": "Be sure to try the locally grown black Amfissa olives as an appetizer.",
+                "el": "Φροντίστε να δοκιμάσετε τις τοπικά καλλιεργημένες μαύρες ελιές Αμφίσσης ως ορεκτικό."
               }
             },
             {
@@ -452,7 +484,8 @@
                 "de": "Der Sonnenuntergang ist hier gegen 17:15 Uhr; planen Sie rechtzeitig.",
                 "hu": "A naplemente 17:15 körül van; érkezzen időben a panorámáért.",
                 "ro": "Apusul este în jur de 17:15; ajunge din timp pentru cele mai bune poze.",
-                "en": "Sunset is around 5:15 PM in winter; arrive early for the best golden hour views."
+                "en": "Sunset is around 5:15 PM in winter; arrive early for the best golden hour views.",
+                "el": "Η δύση του ήλιου είναι περίπου στις 17:15 τον χειμώνα· φτάστε νωρίς για την καλύτερη «χρυσή ώρα»."
               }
             },
             {
@@ -461,7 +494,8 @@
                 "de": "Die Abenddämmerung verleiht diesem Ort einen besonderen Winterzauber.",
                 "hu": "A kora esti szürkület különleges téli varázst kölcsönöz a helynek.",
                 "ro": "Amurgul timpuriu îi oferă acestui loc o atmosferă magică de iarnă.",
-                "en": "The early twilight adds a special winter charm to this historic site."
+                "en": "The early twilight adds a special winter charm to this historic site.",
+                "el": "Το πρώιμο λυκόφως προσδίδει μια ιδιαίτερη χειμωνιάτικη γοητεία σε αυτό το ιστορικό σημείο."
               }
             }
           ],
@@ -493,6 +527,13 @@
               "Castle courtyards can have icy patches in the early morning.",
               "Enjoy local winter delicacies like baked feta and hearty stews.",
               "Museums are much less crowded, allowing for a peaceful visit."
+            ],
+            "el": [
+              "Φορέστε στρώσεις ρούχων· η θερμοκρασία πέφτει γρήγορα στις ορεινές σκιές.",
+              "Ο χειμωνιάτικος ήλιος δύει νωρίς, περίπου στις 17:30· προγραμματίστε ανάλογα.",
+              "Οι αυλές του κάστρου μπορεί να έχουν παγωμένα σημεία νωρίς το πρωί.",
+              "Απολαύστε τοπικές χειμωνιάτικες νοστιμιές όπως ψητή φέτα και χορταστικά στιφάδα.",
+              "Τα μουσεία είναι πολύ λιγότερο γεμάτα, επιτρέποντας μια ήσυχη επίσκεψη."
             ]
           }
         }
@@ -511,7 +552,8 @@
             "de": "Viertel Harmaina",
             "hu": "Harmaina negyed",
             "ro": "Cartierul Harmaina",
-            "en": "Harmaina Quarter"
+            "en": "Harmaina Quarter",
+            "el": "Συνοικία Χαρμαίνα"
           },
           "coords": [
             22.377,
@@ -529,7 +571,8 @@
             "de": "Archäologisches Museum",
             "hu": "Régészeti Múzeum",
             "ro": "Muzeul de Arheologie",
-            "en": "Archaeological Museum"
+            "en": "Archaeological Museum",
+            "el": "Αρχαιολογικό Μουσείο"
           },
           "coords": [
             22.3758,
@@ -547,7 +590,8 @@
             "de": "Burg von Salona",
             "hu": "Szalonai vár",
             "ro": "Castelul Salona",
-            "en": "Castle of Salona"
+            "en": "Castle of Salona",
+            "el": "Κάστρο της Σαλώνας"
           },
           "coords": [
             22.374,
@@ -565,7 +609,8 @@
             "de": "Mittagessen mit Aussicht",
             "hu": "Ebéd kilátással",
             "ro": "Prânz cu priveliște",
-            "en": "Lunch with a view"
+            "en": "Lunch with a view",
+            "el": "Γεύμα με θέα"
           },
           "coords": [
             22.375,
@@ -583,7 +628,8 @@
             "de": "Olivenhain von Amfissa",
             "hu": "Amfisszai olajfaliget",
             "ro": "Plantația de măslini din Amfissa",
-            "en": "Olive Grove of Amfissa"
+            "en": "Olive Grove of Amfissa",
+            "el": "Ελαιώνας Αμφίσσης"
           },
           "coords": [
             22.39,
@@ -601,7 +647,8 @@
             "de": "Volkskundemuseum",
             "hu": "Néprajzi Múzeum",
             "ro": "Muzeul de Folclor",
-            "en": "Folklore Museum"
+            "en": "Folklore Museum",
+            "el": "Λαογραφικό Μουσείο"
           },
           "coords": [
             22.3762,
@@ -619,7 +666,8 @@
         "de": "Schwingen Sie sich auf den Sattel und beginnen Sie Ihre Tour im Herzen von Amfissa, dem Harmaina-Viertel. Von dort aus radeln Sie zum Archäologischen Museum. Die größte Herausforderung des Tages ist der Anstieg zur Burg von Salona, aber die Aussicht entschädigt für alles. Nach dem Mittagessen führt Sie eine landschaftlich reizvolle Fahrt durch den berühmten Olivenhain von Amfissa. Den Abschluss bildet ein Besuch im Volkskundemuseum, bevor Sie den Abend ausklingen lassen.",
         "hu": "Pattanjon nyeregbe, és kezdje a túrát Amfissza szívében, a Harmaina negyedben. Innen tekerjen el a Régészeti Múzeumhoz. A nap legnagyobb kihívása a Szalonai várhoz való feljutás, de a kilátás mindenért kárpótol. Ebéd után egy festői út vezet az amfisszai olajfaligeten keresztül. A napot a Néprajzi Múzeum meglátogatásával zárja, mielőtt levezetné az estét.",
         "ro": "Urcați-vă pe bicicletă și începeți turul în inima Amfissei, cartierul Harmaina. De acolo, pedalați spre Muzeul de Arheologie. Cea mai mare provocare a zilei este urcarea la Castelul Salona, dar priveliștea compensează totul. După prânz, o plimbare pitorească vă duce prin renumita plantație de măslini din Amfissa. Ziua se încheie cu o vizită la Muzeul de Folclor înainte de a vă relaxa seara.",
-        "en": "Hop on your bike and start your tour in the heart of Amfissa, the Harmaina quarter. From there, cycle to the Archaeological Museum. The biggest challenge of the day is the climb to the Castle of Salona, but the view makes up for everything. After lunch, a scenic ride takes you through the famous Amfissa Olive Grove. The day concludes with a visit to the Folklore Museum before you wind down for the evening."
+        "en": "Hop on your bike and start your tour in the heart of Amfissa, the Harmaina quarter. From there, cycle to the Archaeological Museum. The biggest challenge of the day is the climb to the Castle of Salona, but the view makes up for everything. After lunch, a scenic ride takes you through the famous Amfissa Olive Grove. The day concludes with a visit to the Folklore Museum before you wind down for the evening.",
+        "el": "Πιάστε το ποδήλατό σας και ξεκινήστε την περιήγησή σας στην καρδιά της Αμφίσσης, στη συνοικία Χαρμαίνα. Από εκεί, κάντε ποδήλατο προς το Αρχαιολογικό Μουσείο. Η μεγαλύτερη πρόκληση της ημέρας είναι η ανάβαση στο Κάστρο της Σαλώνας, αλλά η θέα αξίζει τα πάντα. Μετά το γεύμα, μια γραφική διαδρομή σας περνάει μέσα από τον διάσημο ελαιώνα της Αμφίσσης. Η μέρα ολοκληρώνεται με επίσκεψη στο Λαογραφικό Μουσείο πριν χαλαρώσετε το βράδυ."
       },
       "gastro_picks": {
         "de": [
@@ -763,6 +811,12 @@
           "Wear a helmet and be careful on narrow roads.",
           "Bring plenty of water and some snacks for the tour.",
           "A small lock is useful to secure the bike during museum visits."
+        ],
+        "el": [
+          "Συνιστάται mountain bike ή e-bike για την ανάβαση στο κάστρο.",
+          "Φορέστε κράνος και προσέχετε σε στενούς δρόμους.",
+          "Πάρτε αρκετό νερό και κάποιο σνακ για την περιήγηση.",
+          "Ένα μικρό λουκέτο είναι χρήσιμο για να ασφαλίσετε το ποδήλατο κατά τις επισκέψεις στο μουσείο."
         ]
       },
       "variants": {
@@ -771,7 +825,8 @@
             "de": "Radfahren im Regen erfordert Vorsicht in den engen Gassen von Harmaina. Der Vormittag im Museum bietet Schutz und Kultur. Mittags suchen wir uns eine fahrradfreundliche Taverne mit Überdachung. Die Tour durch die Olivenhaine ist schlammig, aber beeindruckend, bevor wir den Tag im Folkloremuseum bei trockenem Wetter beenden.",
             "hu": "Az esős bringázás óvatosságot igényel Harmaina szűk utcáin. A délelőtti múzeumlátogatás ideális fedett program. Ebédre kerékpáros-barát, fedett teraszos helyet választunk. Az olajfaligetek között sárra számíthatunk, de a látvány kárpótol, a napot pedig a néprajzi múzeum melegében zárjuk.",
             "ro": "Ciclismul pe ploaie necesită atenție sporită pe străzile din Harmaina. Dimineața la muzeu este o alegere excelentă pentru a rămâne uscat. La prânz, căutăm o tavernă cu parcare pentru biciclete acoperită. Turul prin livezile de măslini poate fi noroios, dar relaxant înainte de vizita la muzeul de folclor.",
-            "en": "Cycling in the rain requires extra care on Harmaina’s narrow streets. A morning museum visit provides the perfect cultural shelter. We find a bike-friendly tavern for a long lunch. The ride through the olive groves might be muddy but scenic, ending the day in the dry comfort of the Folklore Museum."
+            "en": "Cycling in the rain requires extra care on Harmaina’s narrow streets. A morning museum visit provides the perfect cultural shelter. We find a bike-friendly tavern for a long lunch. The ride through the olive groves might be muddy but scenic, ending the day in the dry comfort of the Folklore Museum.",
+            "el": "Το ποδηλατικό πέρασμα στη βροχή χρειάζεται έξτρα προσοχή στους στενούς δρόμους της Χαρμαίνας. Μια πρωινή επίσκεψη σε μουσείο προσφέρει το τέλειο πολιτιστικό καταφύγιο. Βρίσκουμε μια ταβέρνα φιλική προς ποδήλατα για ένα μακρύ γεύμα. Η διαδρομή μέσα από τους ελαιώνες μπορεί να είναι λασπώδης αλλά γραφική, και η μέρα τελειώνει στην ξηρή άνεση του Λαογραφικού Μουσείου."
           },
           "stops": [
             {
@@ -780,7 +835,8 @@
                 "de": "Vermeiden Sie das Bremsen auf nassen Metallabdeckungen in der Straße.",
                 "hu": "Kerülje a fékezést a vizes fém csatornafedeleken az utcában.",
                 "ro": "Evită frânarea bruscă pe capacele de canal umede de pe drum.",
-                "en": "Avoid braking on wet metal utility covers in the narrow streets."
+                "en": "Avoid braking on wet metal utility covers in the narrow streets.",
+                "el": "Αποφύγετε να φρενάρετε πάνω σε βρεγμένα μεταλλικά καλύμματα υπηρεσιών στους στενούς δρόμους."
               }
             },
             {
@@ -789,7 +845,8 @@
                 "de": "Es gibt Fahrradständer in der Nähe des Eingangs; sichern Sie Ihr Rad gut.",
                 "hu": "A bejárat közelében találhatók kerékpártárolók; rögzítse jól a gépét.",
                 "ro": "Există suporturi pentru biciclete lângă intrare; asigură-ți bicicleta bine.",
-                "en": "There are bike racks near the entrance; lock your bike securely."
+                "en": "There are bike racks near the entrance; lock your bike securely.",
+                "el": "Υπάρχουν ποδηλατοστάσια κοντά στην είσοδο· κλειδώστε το ποδήλατό σας με ασφάλεια."
               }
             },
             {
@@ -798,7 +855,8 @@
                 "de": "Der Anstieg mit dem Rad ist bei Regen anstrengend; schieben Sie bei Bedarf.",
                 "hu": "A várba feltekerni esőben nehéz; nyugodtan tolja a bringát a meredek részen.",
                 "ro": "Urcarea cu bicicleta pe ploaie este grea; nu ezita să mergi pe lângă ea.",
-                "en": "The uphill ride to the castle is tough in the rain; walk the bike if needed."
+                "en": "The uphill ride to the castle is tough in the rain; walk the bike if needed.",
+                "el": "Η ανηφόρα προς το κάστρο είναι δύσκολη στη βροχή· περπατήστε το ποδήλατο αν χρειαστεί."
               }
             },
             {
@@ -807,7 +865,8 @@
                 "de": "Wählen Sie einen Platz unter der Markise, um Ihre Ausrüstung zu trocknen.",
                 "hu": "Válasszon helyet az előtető alatt, hogy megszáríthassa a felszerelését.",
                 "ro": "Alege un loc sub copertină pentru a-ți lăsa echipamentul la uscat.",
-                "en": "Choose a seat under the awning to let your gear dry during lunch."
+                "en": "Choose a seat under the awning to let your gear dry during lunch.",
+                "el": "Διαλέξτε θέση κάτω από τη τέντα για να αφήσετε τα πράγματά σας να στεγνώσουν κατά το γεύμα."
               }
             },
             {
@@ -816,7 +875,8 @@
                 "de": "Die Wege können sehr matschig sein; fahren Sie langsam.",
                 "hu": "Az utak sárosak lehetnek; haladjon lassabban az olajfák között.",
                 "ro": "Drumurile pot fi noroioase; pedalează încet prin livadă.",
-                "en": "The grove paths can get very muddy; ride slowly and mind the ruts."
+                "en": "The grove paths can get very muddy; ride slowly and mind the ruts.",
+                "el": "Τα μονοπάτια στον ελαιώνα μπορεί να γίνουν πολύ λασπώδη· ποδηλατήστε αργά και προσέξτε τις λακκούβες."
               }
             },
             {
@@ -825,7 +885,8 @@
                 "de": "Nutzen Sie den Besuch, um sich vor der Rückfahrt vollständig aufzuwärmen.",
                 "hu": "Használja ki a látogatást a teljes felmelegedéshez a hazaindulás előtt.",
                 "ro": "Profită de vizită pentru a te încălzi complet înainte de drumul de întoarcere.",
-                "en": "Take this time to dry off and warm up before your final ride back."
+                "en": "Take this time to dry off and warm up before your final ride back.",
+                "el": "Χρησιμοποιήστε αυτόν τον χρόνο για να στεγνώσετε και να ζεσταθείτε πριν την τελική σας διαδρομή πίσω."
               }
             }
           ],
@@ -857,6 +918,13 @@
               "Mudguards are highly recommended for the muddy grove paths.",
               "Allow extra time for climbs as the ground can be slick and unstable.",
               "Look for covered bus stops for quick breaks during heavy downpours."
+            ],
+            "el": [
+              "Φορέστε ένα ποιοτικό αδιάβροχο και αδιάβροχες ποδηλατικές παντελόνες.",
+              "Ελέγξτε τα τακάκια των φρένων πριν ξεκινήσετε· οι βρεγμένες ζάντες αυξάνουν την απόσταση φρεναρίσματος.",
+              "Φτεροπόδες είναι ιδιαίτερα συνιστώμενες για τα λασπώδη μονοπάτια στον ελαιώνα.",
+              "Επιτρέψτε επιπλέον χρόνο για τις ανηφόρες καθώς το έδαφος μπορεί να είναι γλυστερό και ασταθές.",
+              "Ψάξτε για καλυμμένα στάσεις λεωφορείου για γρήγορες στάσεις κατά την ισχυρή βροχή."
             ]
           }
         },
@@ -865,7 +933,8 @@
             "de": "Ein frischer Wintermorgen auf dem Rad führt uns durch Harmaina. Die Kühle wird beim Aufstieg zur Burg von Salona schnell vergessen. Mittags genießen wir die Aussicht bei einer warmen Mahlzeit. Die Fahrt durch die winterlichen Olivenhaine bietet eine einzigartige Lichtstimmung, bevor das Folkloremuseum den kulturellen Abschluss bildet.",
             "hu": "Friss téli reggelen indul a bringázás Harmainában. A várba való felkapaszkodás közben gyorsan kimelegszünk. Ebédre meleg ételt választunk, gyönyörködve a kilátásban. A téli olajfaligetek különleges fényei után a néprajzi múzeumban zárjuk a napot, mielőtt túl hideg lenne odakint.",
             "ro": "O dimineață răcoroasă de iarnă pe bicicletă prin Harmaina. Efortul de a urca la castel te va încălzi rapid. La prânz, savurăm o masă caldă cu o priveliște superbă. Plimbarea prin livezile de măslini oferă o lumină aparte, iar muzeul de folclor încheie ziua într-un mod plăcut.",
-            "en": "A crisp winter morning on two wheels through the streets of Harmaina. The climb to Salona Castle will keep you warm despite the chill. We enjoy a panoramic lunch with hot food. Riding through the winter olive groves offers unique light for photos before finishing at the Folklore Museum."
+            "en": "A crisp winter morning on two wheels through the streets of Harmaina. The climb to Salona Castle will keep you warm despite the chill. We enjoy a panoramic lunch with hot food. Riding through the winter olive groves offers unique light for photos before finishing at the Folklore Museum.",
+            "el": "Ένα δροσερό χειμωνιάτικο πρωινό με ποδήλατο μέσα στους δρόμους της Χαρμαίνας. Η ανάβαση στο Κάστρο Σαλώνας θα σας κρατήσει ζεστούς παρά το ψύχος. Απολαμβάνουμε ένα πανοραμικό γεύμα με ζεστό φαγητό. Η διαδρομή μέσα από τους χειμωνιάτικους ελαιώνες προσφέρει μοναδικό φως για φωτογραφίες πριν ολοκληρώσουμε στο Λαογραφικό Μουσείο."
           },
           "stops": [
             {
@@ -874,7 +943,8 @@
                 "de": "Tragen Sie warme Handschuhe, um Ihre Hände am Lenker vor dem Fahrtwind zu schützen.",
                 "hu": "Viseljen meleg kesztyűt, hogy megvédje kezeit a menetszéltől.",
                 "ro": "Poartă mănuși groase pentru a-ți proteja mâinile de vântul rece.",
-                "en": "Wear warm gloves to protect your hands from the biting winter wind."
+                "en": "Wear warm gloves to protect your hands from the biting winter wind.",
+                "el": "Φορέστε ζεστά γάντια για να προστατέψετε τα χέρια σας από τον δριμύ χειμωνιάτικο αέρα."
               }
             },
             {
@@ -883,7 +953,8 @@
                 "de": "Nutzen Sie den beheizten Innenraum für eine Pause vom kalten Wind.",
                 "hu": "Használja ki a fűtött múzeumi teret a hideg szél elleni pihenőként.",
                 "ro": "Folosește interiorul încălzit pentru a lua o pauză de la frigul de afară.",
-                "en": "Take advantage of the heated museum to warm up after your ride."
+                "en": "Take advantage of the heated museum to warm up after your ride.",
+                "el": "Επωφεληθείτε από το θερμαινόμενο μουσείο για να ζεσταθείτε μετά τη διαδρομή σας."
               }
             },
             {
@@ -892,7 +963,8 @@
                 "de": "Oben angekommen, kühlt man im Wind schnell aus; ziehen Sie eine Jacke über.",
                 "hu": "A csúcson a szélben gyorsan lehűlhet, húzzon fel egy plusz réteget.",
                 "ro": "Sus vântul poate fi tăios; pune o jachetă pe tine după efortul urcării.",
-                "en": "Once at the top, the wind can be cold; put on a layer after the sweaty climb."
+                "en": "Once at the top, the wind can be cold; put on a layer after the sweaty climb.",
+                "el": "Μόλις φτάσετε στην κορυφή, ο άνεμος μπορεί να είναι κρύος· βάλτε ένα επιπλέον στρώμα αφού ιδρώσετε στην ανάβαση."
               }
             },
             {
@@ -901,7 +973,8 @@
                 "de": "Setzen Sie sich in die Nähe einer Heizung oder eines Kamins, falls vorhanden.",
                 "hu": "Üljön a fűtőtest vagy a kandalló közelébe, ha van rá lehetőség.",
                 "ro": "Așază-te lângă o sursă de căldură pentru a te relaxa în timpul mesei.",
-                "en": "Sit near a heater or fireplace if available to thaw out during lunch."
+                "en": "Sit near a heater or fireplace if available to thaw out during lunch.",
+                "el": "Καθίστε κοντά σε θερμαντικό ή τζάκι, αν υπάρχει, για να ξεπαγώσετε κατά το γεύμα."
               }
             },
             {
@@ -910,7 +983,8 @@
                 "de": "Das Licht am Nachmittag ist im Winter besonders weich und schön.",
                 "hu": "A délutáni fények télen különösen lágyak és szépek az olajfák között.",
                 "ro": "Lumina de după-amiază este foarte caldă și frumoasă în livadă iarna.",
-                "en": "The afternoon light in winter is exceptionally soft and beautiful in the groves."
+                "en": "The afternoon light in winter is exceptionally soft and beautiful in the groves.",
+                "el": "Το απογευματινό φως το χειμώνα είναι εξαιρετικά απαλό και όμορφο στους ελαιώνες."
               }
             },
             {
@@ -919,7 +993,8 @@
                 "de": "Beenden Sie die Tour hier, bevor die Temperaturen nach Sonnenuntergang sinken.",
                 "hu": "Itt fejezze be a túrát, mielőtt a naplemente után leesne a hőmérséklet.",
                 "ro": "Încheie turul aici înainte ca temperatura să scadă drastic după apus.",
-                "en": "Finish your tour here before the temperature drops significantly at dusk."
+                "en": "Finish your tour here before the temperature drops significantly at dusk.",
+                "el": "Ολοκληρώστε την περιήγησή σας εδώ πριν η θερμοκρασία πέσει σημαντικά στο λυκόφως."
               }
             }
           ],
@@ -951,6 +1026,13 @@
               "Drink warm tea instead of cold water during your breaks to stay warm.",
               "Ensure you have working lights if you are out past 5 PM.",
               "Watch out for frost or ice patches on shaded road sections."
+            ],
+            "el": [
+              "Αντιανεμικά ρούχα είναι απαραίτητα για χειμερινό ποδήλατο στα βουνά.",
+              "Μην υποτιμάτε την αίσθηση ψύχους από τον άνεμο κατά τις κατεβάσεις από το κάστρο.",
+              "Πιείτε ζεστό τσάι αντί για κρύο νερό κατά τις στάσεις για να διατηρηθείτε ζεστοί.",
+              "Βεβαιωθείτε ότι έχετε λειτουργικά φώτα αν παραμείνετε έξω μετά τις 17:00.",
+              "Προσέξτε για παγό ή παγωμένα σημεία σε σκιερά τμήματα του δρόμου."
             ]
           }
         }
@@ -969,7 +1051,8 @@
             "de": "Parken am Fuße der Burg von Salona",
             "hu": "Parkolás a Szalonai vár lábánál",
             "ro": "Parcare la poalele Castelului Salona",
-            "en": "Parking at the base of the Castle of Salona"
+            "en": "Parking at the base of the Castle of Salona",
+            "el": "Στάθμευση στη βάση του Κάστρου της Σαλώνας"
           },
           "coords": [
             22.373,
@@ -987,7 +1070,8 @@
             "de": "Burg von Salona",
             "hu": "Szalonai vár",
             "ro": "Castelul Salona",
-            "en": "Castle of Salona"
+            "en": "Castle of Salona",
+            "el": "Κάστρο της Σαλώνας"
           },
           "coords": [
             22.374,
@@ -1005,7 +1089,8 @@
             "de": "Fahrt zum Olivenhain von Amfissa",
             "hu": "Utazás az Amfisszai olajfaligethez",
             "ro": "Drum spre Plantația de măslini din Amfissa",
-            "en": "Drive to the Amfissa Olive Grove"
+            "en": "Drive to the Amfissa Olive Grove",
+            "el": "Οδήγηση προς τον Ελαιώνα της Αμφίσσης"
           },
           "coords": [
             22.39,
@@ -1023,7 +1108,8 @@
             "de": "Parken im Zentrum & Mittagessen",
             "hu": "Parkolás a központban és ebéd",
             "ro": "Parcare în centru și prânz",
-            "en": "Park in the center & Lunch"
+            "en": "Park in the center & Lunch",
+            "el": "Στάθμευση στο κέντρο & Γεύμα"
           },
           "coords": [
             22.3778,
@@ -1041,7 +1127,8 @@
             "de": "Viertel Harmaina",
             "hu": "Harmaina negyed",
             "ro": "Cartierul Harmaina",
-            "en": "Harmaina Quarter"
+            "en": "Harmaina Quarter",
+            "el": "Συνοικία Χαρμαίνα"
           },
           "coords": [
             22.377,
@@ -1059,7 +1146,8 @@
             "de": "Archäologisches Museum",
             "hu": "Régészeti Múzeum",
             "ro": "Muzeul de Arheologie",
-            "en": "Archaeological Museum"
+            "en": "Archaeological Museum",
+            "el": "Αρχαιολογικό Μουσείο"
           },
           "coords": [
             22.3758,
@@ -1077,7 +1165,8 @@
             "de": "Kathedrale der Verkündigung",
             "hu": "Angyali Üdvözlet Székesegyház",
             "ro": "Catedrala Bunei Vestiri",
-            "en": "Cathedral of the Annunciation"
+            "en": "Cathedral of the Annunciation",
+            "el": "Καθεδρικός Ευαγγελισμός"
           },
           "coords": [
             22.3765,
@@ -1095,7 +1184,8 @@
         "de": "Beginnen Sie Ihren Tag mit dem Auto und fahren Sie direkt zur imposanten Burg von Salona, die über der Stadt thront. Nach der Erkundung der Festung fahren Sie durch den riesigen Olivenhain, ein Meer aus Silbergrün. Parken Sie Ihr Auto im Stadtzentrum für den Rest des Tages. Nach einem herzhaften Mittagessen erkunden Sie zu Fuß das charmante Harmaina-Viertel, das Archäologische Museum und die Hauptkathedrale. Diese Mischung aus Fahren und Gehen bietet Ihnen das Beste aus beiden Welten.",
         "hu": "Kezdje a napot autóval, és hajtson egyenesen a város fölé magasodó, impozáns Szalonai várhoz. Az erőd felfedezése után autózzon át a hatalmas, ezüstzöld tengerként elterülő olajfaligeten. Parkolja le autóját a városközpontban a nap hátralévő részére. Egy kiadós ebéd után gyalog fedezze fel a bájos Harmaina negyedet, a Régészeti Múzeumot és a főszékesegyházat. Ez a vezetés és séta keveréke mindkét világból a legjobbat nyújtja.",
         "ro": "Începeți ziua cu mașina, conducând direct la impunătorul Castel Salona, care domină orașul. După ce explorați fortăreața, conduceți prin vasta plantație de măslini, o mare de verde-argintiu. Parcați mașina în centrul orașului pentru restul zilei. După un prânz copios, explorați pe jos fermecătorul cartier Harmaina, Muzeul de Arheologie și catedrala principală. Acest amestec de condus și mers pe jos vă oferă ce e mai bun din ambele lumi.",
-        "en": "Start your day by car, driving directly to the imposing Castle of Salona towering over the city. After exploring the fortress, take a drive through the vast olive grove, a sea of silver-green. Park your car in the city center for the rest of the day. After a hearty lunch, explore the charming Harmaina quarter, the Archaeological Museum, and the main cathedral on foot. This mix of driving and walking gives you the best of both worlds."
+        "en": "Start your day by car, driving directly to the imposing Castle of Salona towering over the city. After exploring the fortress, take a drive through the vast olive grove, a sea of silver-green. Park your car in the city center for the rest of the day. After a hearty lunch, explore the charming Harmaina quarter, the Archaeological Museum, and the main cathedral on foot. This mix of driving and walking gives you the best of both worlds.",
+        "el": "Ξεκινήστε τη μέρα σας με αυτοκίνητο, οδηγώντας απευθείας στο επιβλητικό Κάστρο της Σαλώνας που δεσπόζει πάνω από την πόλη. Μετά την εξερεύνηση του φρουρίου, κάντε μια διαδρομή μέσα στον απέραντο ελαιώνα, μια θάλασσα ασημένιο-πράσινου. Σταθμεύστε το αυτοκίνητό σας στο κέντρο της πόλης για το υπόλοιπο της ημέρας. Μετά από ένα χορταστικό γεύμα, εξερευνήστε πεζή τη γοητευτική συνοικία Χαρμαίνα, το Αρχαιολογικό Μουσείο και τον κύριο καθεδρικό. Αυτός ο συνδυασμός οδήγησης και περπατήματος σας δίνει το καλύτερο και από τα δύο."
       },
       "gastro_picks": {
         "de": [
@@ -1203,6 +1293,12 @@
           "The roads to the castle can be narrow, so drive carefully.",
           "The cluster-walking method is ideal for saving on parking fees and truly experiencing the city.",
           "Allow plenty of time for the drive through the olive grove; the scenery is worth it."
+        ],
+        "el": [
+          "Η στάθμευση στο κέντρο της πόλης μπορεί να είναι δύσκολη κατά τη διάρκεια της ημέρας. Αναζητήστε τις καθορισμένες περιοχές στάθμευσης.",
+          "Οι δρόμοι προς το κάστρο μπορεί να είναι στενοί, οπότε οδηγήστε με προσοχή.",
+          "Η μέθοδος του συγκεντρωτικού περπατήματος είναι ιδανική για εξοικονόμηση στα τέλη στάθμευσης και για πραγματική εμπειρία της πόλης.",
+          "Αφιερώστε άφθονο χρόνο για τη διαδρομή μέσα στον ελαιώνα· το τοπίο το αξίζει."
         ]
       },
       "variants": {
@@ -1211,7 +1307,8 @@
             "de": "Im Auto erkunden wir Amfissa ganz entspannt trotz Regens. Wir parken direkt unterhalb der Burg für einen kurzen, aber lohnenswerten Besuch. Danach geht es durch die verregneten Olivenhaine zu einem ausgiebigen Mittagessen im Zentrum. Den Nachmittag verbringen wir in den Museen und der Kathedrale, immer in der Nähe eines trockenen Parkplatzes.",
             "hu": "Autóval az eső ellenére is kényelmesen felfedezhetjük Amfisszát. Közvetlenül a vár alatt parkolunk a rövid, de látványos vizithez. Ezután a vizes olajfaligeteken át gurulunk a központi ebédre. A délutánt a múzeumokban és a katedrálisban töltjük, mindig közel maradva a száraz autóhoz.",
             "ro": "Cu mașina, explorăm Amfissa relaxați, în ciuda ploii. Parcăm chiar sub castel pentru o vizită scurtă dar intensă. Apoi trecem prin livezile de măslini spre un prânz lung în centru. După-amiaza o petrecem în muzee și la catedrală, având mereu mașina aproape pentru a ne feri de stropi.",
-            "en": "Driving through Amfissa is a comfortable way to see the sights despite the rain. We park near the castle base for a quick explore, then drive through the misty olive groves. Lunch in the center is followed by indoor visits to the museum and cathedral, keeping travel dry and easy."
+            "en": "Driving through Amfissa is a comfortable way to see the sights despite the rain. We park near the castle base for a quick explore, then drive through the misty olive groves. Lunch in the center is followed by indoor visits to the museum and cathedral, keeping travel dry and easy.",
+            "el": "Η οδήγηση στην Αμφίσσα είναι άνετος τρόπος να δείτε τα αξιοθέατα παρά τη βροχή. Σταθμεύουμε κοντά στη βάση του κάστρου για γρήγορη εξερεύνηση, και μετά οδηγούμε μέσα από τους ομιχλώδεις ελαιώνες. Το γεύμα στο κέντρο ακολουθείται από εσωτερικές επισκέψεις στο μουσείο και τον καθεδρικό, κρατώντας το ταξίδι στεγνό και εύκολο."
           },
           "stops": [
             {
@@ -1220,7 +1317,8 @@
                 "de": "Parken Sie so nah wie möglich am Tor, um den Fußweg im Regen zu minimieren.",
                 "hu": "Parkoljon a lehető legközelebb a kapuhoz, hogy keveset kelljen sétálnia az esőben.",
                 "ro": "Parchează cât mai aproape de poartă pentru a evita ploaia.",
-                "en": "Park as close to the gate as possible to minimize walking in the rain."
+                "en": "Park as close to the gate as possible to minimize walking in the rain.",
+                "el": "Σταθμεύστε όσο πιο κοντά στην πύλη γίνεται για να ελαχιστοποιήσετε το περπάτημα στη βροχή."
               }
             },
             {
@@ -1229,7 +1327,8 @@
                 "de": "Nutzen Sie die Mauern als Windschutz während Ihrer Erkundung.",
                 "hu": "Használja a várfalakat szélfogóként a nézelődés során.",
                 "ro": "Folosește zidurile castelului ca protecție împotriva vântului.",
-                "en": "Use the high castle walls as a windbreak during your exploration."
+                "en": "Use the high castle walls as a windbreak during your exploration.",
+                "el": "Χρησιμοποιήστε τα ψηλά κάστρα τοίχους ως αντι-άνεμο κατά την εξερεύνησή σας."
               }
             },
             {
@@ -1238,7 +1337,8 @@
                 "de": "Genießen Sie den Blick auf die regennassen, uralten Bäume aus dem trockenen Auto.",
                 "hu": "Élvezze az esőtől csillogó, ősi fák látványát a száraz autóból.",
                 "ro": "Admiră măslinii seculari umeziți de ploaie din confortul mașinii.",
-                "en": "Enjoy the view of the ancient, rain-soaked trees from your dry car."
+                "en": "Enjoy the view of the ancient, rain-soaked trees from your dry car.",
+                "el": "Απολαύστε τη θέα των αρχαίων, βρεγμένων δέντρων από το στεγνό αυτοκίνητό σας."
               }
             },
             {
@@ -1247,7 +1347,8 @@
                 "de": "Ein Parkhaus oder ein überdachter Parkplatz ist im Zentrum ratsam.",
                 "hu": "Érdemes fedett parkolót keresni a központban az ebéd idejére.",
                 "ro": "Caută o parcare acoperită în centru pentru a rămâne uscat.",
-                "en": "Look for a covered parking spot in the center to stay dry for lunch."
+                "en": "Look for a covered parking spot in the center to stay dry for lunch.",
+                "el": "Ψάξτε για καλυμμένο χώρο στάθμευσης στο κέντρο για να μείνετε στεγνοί για το γεύμα."
               }
             },
             {
@@ -1256,7 +1357,8 @@
                 "de": "Machen Sie nur eine kurze Fahrt durch das Viertel, da das Parken schwierig ist.",
                 "hu": "Csak rövid kört tegyen az autóval, a parkolás nehézkes a szűk utcákban.",
                 "ro": "Fă doar o tură scurtă, parcarea în cartier este limitată.",
-                "en": "Keep the visit brief as parking is very difficult in these narrow streets."
+                "en": "Keep the visit brief as parking is very difficult in these narrow streets.",
+                "el": "Κρατήστε την επίσκεψη σύντομη καθώς η στάθμευση είναι πολύ δύσκολη σε αυτούς τους στενούς δρόμους."
               }
             },
             {
@@ -1265,7 +1367,8 @@
                 "de": "Der Parkplatz direkt davor spart Ihnen einen nassen Spaziergang.",
                 "hu": "A közvetlenül előtte lévő parkoló megkíméli a vizes sétától.",
                 "ro": "Parcarea chiar în față te scutește de o plimbare prin ploaie.",
-                "en": "The parking lot directly in front saves you from a wet walk."
+                "en": "The parking lot directly in front saves you from a wet walk.",
+                "el": "Το πάρκινγκ απευθείας μπροστά σας γλιτώνει από το βρεγμένο περπάτημα."
               }
             },
             {
@@ -1274,7 +1377,8 @@
                 "de": "Lassen Sie Mitreisende direkt vor dem Eingang aussteigen.",
                 "hu": "Az utasok kiszállhatnak közvetlenül a bejárat előtt.",
                 "ro": "Lasă pasagerii să coboare chiar în fața intrării.",
-                "en": "Drop off passengers directly in front of the entrance to avoid the rain."
+                "en": "Drop off passengers directly in front of the entrance to avoid the rain.",
+                "el": "Κατεβάστε επιβάτες απευθείας μπροστά από την είσοδο για να αποφύγετε τη βροχή."
               }
             }
           ],
@@ -1306,6 +1410,13 @@
               "Prefer parking on wider side streets in the city center.",
               "Use your car as a 'dry base' to keep extra jackets or a change of clothes.",
               "Check your windshield wipers before heading into the mountains."
+            ],
+            "el": [
+              "Να είστε προσεκτικοί στους δρόμους του ελαιώνα· η βροχή μπορεί να προκαλέσει λασπώδη σημεία ή μικρές διαβρώσεις.",
+              "Η ορατότητα στα ορεινά περάσματα μπορεί να μειωθεί γρήγορα κατά την ισχυρή βροχή.",
+              "Προτιμήστε στάθμευση σε πλατύτερους παραπλεύρους δρόμους στο κέντρο της πόλης.",
+              "Χρησιμοποιήστε το αυτοκίνητό σας ως «στεγνή βάση» για να κρατάτε επιπλέον μπουφάν ή αλλαγή ρούχων.",
+              "Ελέγξτε τους υαλοκαθαριστήρες πριν κατευθυνθείτε στα βουνά."
             ]
           }
         },
@@ -1314,7 +1425,8 @@
             "de": "Winterliches Amfissa lässt sich hervorragend mit dem Auto erkunden. Wir starten mit der Burg von Salona und genießen die klare Bergluft. Die Fahrt durch die winterlich kargen Olivenhaine ist faszinierend. Mittags wärmen wir uns im Zentrum auf. Den Nachmittag verbringen wir in der Wärme des Museums und beenden die Tour bei der Kathedrale.",
             "hu": "A téli Amfissza kiválóan felfedezhető autóval. A Salona várával kezdünk, élvezve a tiszta hegyi levegőt. A téli olajfaligetek látványa lenyűgöző. Ebédre a városközpontban melegszünk fel. A délutánt a múzeum fűtött termeiben töltjük, majd a katedrálisnál zárjuk a kirándulást.",
             "ro": "Amfissa pe timp de iarnă se vizitează cel mai bine cu mașina. Începem cu castelul Salona și aerul curat de munte. Drumul prin livezile de măslini iarna este fascinant. La prânz ne încălzim în centru. După-amiaza o petrecem la căldura muzeului și încheiem turul la catedrală.",
-            "en": "Winter in Amfissa is best explored by car for maximum warmth. We start at Salona Castle for the crisp mountain views, then drive through the quiet, wintery olive groves. After a warm lunch in town, the heated museum provides a perfect afternoon stop before finishing at the cathedral."
+            "en": "Winter in Amfissa is best explored by car for maximum warmth. We start at Salona Castle for the crisp mountain views, then drive through the quiet, wintery olive groves. After a warm lunch in town, the heated museum provides a perfect afternoon stop before finishing at the cathedral.",
+            "el": "Ο χειμώνας στην Αμφίσσα εξερευνάται καλύτερα με αυτοκίνητο για μέγιστη ζεστασιά. Ξεκινάμε στο Κάστρο Σαλώνας για τις δροσερές ορεινές απόψεις, και μετά οδηγούμε μέσα από τους ήσυχους, χειμωνιάτικους ελαιώνες. Μετά από ένα ζεστό γεύμα στην πόλη, το θερμαινόμενο μουσείο προσφέρει μια τέλεια μεσημεριανή στάση πριν ολοκληρώσουμε στον καθεδρικό."
           },
           "stops": [
             {
@@ -1323,7 +1435,8 @@
                 "de": "Schattenparkplätze können morgens noch vereist sein.",
                 "hu": "Az árnyékos parkolók reggel még jegesek lehetnek.",
                 "ro": "Parcările la umbră pot fi înghețate dimineața.",
-                "en": "Shaded parking spots might still have ice in the early morning."
+                "en": "Shaded parking spots might still have ice in the early morning.",
+                "el": "Σκιασμένα σημεία στάθμευσης μπορεί να έχουν ακόμα πάγο νωρίς το πρωί."
               }
             },
             {
@@ -1332,7 +1445,8 @@
                 "de": "Genießen Sie den weiten Blick über das verschneite Parnass-Gebirge in der Ferne.",
                 "hu": "Csodálja meg a távoli, havas Parnasszosz-hegység látványát.",
                 "ro": "Admiră priveliștea spre munții Parnassos înzăpeziți în depărtare.",
-                "en": "Admire the distant views of the snow-capped Parnassus mountains."
+                "en": "Admire the distant views of the snow-capped Parnassus mountains.",
+                "el": "Θαυμάστε τις απομακρυσμένες απόψεις των χιονισμένων βουνών του Παρνασσού."
               }
             },
             {
@@ -1341,7 +1455,8 @@
                 "de": "Die Straßen durch die Haine sind im Winter oft sehr ruhig.",
                 "hu": "Az olajfaligetek közötti utak télen általában nagyon csendesek.",
                 "ro": "Drumurile prin livezi sunt foarte liniștite în timpul iernii.",
-                "en": "The roads through the groves are usually very quiet in winter."
+                "en": "The roads through the groves are usually very quiet in winter.",
+                "el": "Οι δρόμοι μέσα από τους ελαιώνες είναι συνήθως πολύ ήσυχοι το χειμώνα."
               }
             },
             {
@@ -1350,7 +1465,8 @@
                 "de": "Suchen Sie eine Taverne mit einem gemütlichen Kaminfeuer.",
                 "hu": "Keressen egy tavernat, ahol hangulatos kandallótűz mellett ebédelhet.",
                 "ro": "Caută o tavernă cu șemineu pentru un prânz autentic.",
-                "en": "Find a local tavern with a cozy fireplace for your lunch break."
+                "en": "Find a local tavern with a cozy fireplace for your lunch break.",
+                "el": "Βρείτε μια τοπική ταβέρνα με ζεστό τζάκι για το μεσημεριανό σας διάλειμμα."
               }
             },
             {
@@ -1359,7 +1475,8 @@
                 "de": "Ein kurzer Stopp für Fotos der historischen Architektur lohnt sich.",
                 "hu": "Egy rövid megálló a történelmi épületek fotózásához megéri.",
                 "ro": "O oprire scurtă pentru poze cu arhitectura istorică merită efortul.",
-                "en": "A quick photo stop for the historic architecture is well worth it."
+                "en": "A quick photo stop for the historic architecture is well worth it.",
+                "el": "Μια γρήγορη στάση για φωτογραφία στην ιστορική αρχιτεκτονική αξίζει τον κόπο."
               }
             },
             {
@@ -1368,7 +1485,8 @@
                 "de": "Ein idealer Ort, um die Zeit bis zum Sonnenuntergang im Warmen zu verbringen.",
                 "hu": "Ideális helyszín a naplemente előtti idő melegben való eltöltéséhez.",
                 "ro": "Locul perfect pentru a sta la căldură până la apus.",
-                "en": "An ideal place to spend the pre-sunset hours in a warm environment."
+                "en": "An ideal place to spend the pre-sunset hours in a warm environment.",
+                "el": "Ένα ιδανικό μέρος για να περάσετε τις ώρες πριν τη δύση σε ένα ζεστό περιβάλλον."
               }
             },
             {
@@ -1377,7 +1495,8 @@
                 "de": "Die warme Beleuchtung im Inneren wirkt im Winter besonders einladend.",
                 "hu": "A belső meleg világítás télen különösen hívogató.",
                 "ro": "Iluminatul cald din interior este foarte primitor iarna.",
-                "en": "The warm interior lighting feels especially inviting during winter."
+                "en": "The warm interior lighting feels especially inviting during winter.",
+                "el": "Ο ζεστός εσωτερικός φωτισμός φαίνεται ιδιαίτερα προσκλητικός το χειμώνα."
               }
             }
           ],
@@ -1409,6 +1528,13 @@
               "Maximize your daylight hours as it gets dark quite early.",
               "Keep an ice scraper in the car just in case of morning frost.",
               "Parking in the town center is generally easier in winter than in summer."
+            ],
+            "el": [
+              "Βεβαιωθείτε ότι το σύστημα θέρμανσης του αυτοκινήτου λειτουργεί τέλεια για τον ορεινό αέρα.",
+              "Προσέξτε για μαύρο πάγο στις σκιερές στροφές που οδηγούν στο κάστρο.",
+              "Αξιοποιήστε στο έπακρο τις ώρες ημέρας καθώς σκοτεινιάζει αρκετά νωρίς.",
+              "Κρατήστε ένα ξυστήρι πάγου στο αυτοκίνητο σε περίπτωση πρωινής παγωνιάς.",
+              "Το παρκάρισμα στο κέντρο της πόλης είναι γενικά ευκολότερο τον χειμώνα παρά το καλοκαίρι."
             ]
           }
         }
@@ -1427,7 +1553,8 @@
             "de": "Fahrt mit dem Bus zum Stadtzentrum",
             "hu": "Buszozás a városközpontba",
             "ro": "Călătorie cu autobuzul spre centrul orașului",
-            "en": "Bus ride to the city center"
+            "en": "Bus ride to the city center",
+            "el": "Διαδρομή με λεωφορείο προς το κέντρο της πόλης"
           },
           "coords": [
             22.377,
@@ -1445,7 +1572,8 @@
             "de": "Viertel Harmaina",
             "hu": "Harmaina negyed",
             "ro": "Cartierul Harmaina",
-            "en": "Harmaina Quarter"
+            "en": "Harmaina Quarter",
+            "el": "Γειτονιά Χαρμαΐνα"
           },
           "coords": [
             22.377,
@@ -1463,7 +1591,8 @@
             "de": "Archäologisches Museum & Volkskundemuseum",
             "hu": "Régészeti Múzeum és Néprajzi Múzeum",
             "ro": "Muzeul de Arheologie & Muzeul de Folclor",
-            "en": "Archaeological & Folklore Museum"
+            "en": "Archaeological & Folklore Museum",
+            "el": "Αρχαιολογικό & Λαογραφικό Μουσείο"
           },
           "coords": [
             22.376,
@@ -1481,7 +1610,8 @@
             "de": "Mittagessen im Zentrum",
             "hu": "Ebéd a központban",
             "ro": "Prânz în centru",
-            "en": "Lunch in the center"
+            "en": "Lunch in the center",
+            "el": "Μεσημεριανό στο κέντρο"
           },
           "coords": [
             22.3772,
@@ -1499,7 +1629,8 @@
             "de": "Busfahrt zum Fuße der Burg",
             "hu": "Buszozás a vár lábához",
             "ro": "Călătorie cu autobuzul la poalele castelului",
-            "en": "Bus ride to the castle's base"
+            "en": "Bus ride to the castle's base",
+            "el": "Διαδρομή με λεωφορείο προς τη βάση του κάστρου"
           },
           "coords": [
             22.3735,
@@ -1517,7 +1648,8 @@
             "de": "Erkundung der Burg von Salona",
             "hu": "A Szalonai vár felfedezése",
             "ro": "Explorarea Castelului Salona",
-            "en": "Exploring the Castle of Salona"
+            "en": "Exploring the Castle of Salona",
+            "el": "Εξερεύνηση του Κάστρου της Σαλώνας"
           },
           "coords": [
             22.374,
@@ -1535,7 +1667,8 @@
         "de": "Nutzen Sie den lokalen Bus, um bequem ins Zentrum von Amfissa zu gelangen. Der Vormittag gehört der Erkundung des historischen Kerns zu Fuß: vom Harmaina-Viertel zu den faszinierenden Museen. Nach einem entspannten Mittagessen bringt Sie ein weiterer Bus in die Nähe der Burg von Salona. Der Nachmittag ist dem Aufstieg und der Erkundung dieser beeindruckenden Festung gewidmet, von der aus Sie eine unvergleichliche Aussicht genießen. Am späten Nachmittag nehmen Sie den Bus zurück in die Stadt.",
         "hu": "Használja a helyi buszt, hogy kényelmesen eljusson Amfissza központjába. A délelőttöt a történelmi városmag gyalogos felfedezésével tölti: a Harmaina negyedtől a lenyűgöző múzeumokig. Egy pihentető ebéd után egy másik busz elviszi Önt a Szalonai vár közelébe. A délután a felmászásé és e lenyűgöző erőd felfedezéséé, ahonnan páratlan kilátás nyílik. Késő délután busszal tér vissza a városba.",
         "ro": "Folosiți autobuzul local pentru a ajunge confortabil în centrul Amfissei. Dimineața este dedicată explorării pe jos a centrului istoric: de la cartierul Harmaina la muzeele fascinante. După un prânz relaxant, un alt autobuz vă duce în apropierea Castelului Salona. După-amiaza este dedicată urcării și explorării acestei fortărețe impresionante, de unde vă veți bucura de o priveliște de neegalat. Seara târziu, luați autobuzul înapoi în oraș.",
-        "en": "Use the local bus to conveniently get to the center of Amfissa. The morning is for exploring the historic core on foot: from the Harmaina quarter to the fascinating museums. After a relaxing lunch, another bus takes you near the Castle of Salona. The afternoon is dedicated to the climb and exploration of this impressive fortress, from where you can enjoy an unparalleled view. In the late afternoon, you take the bus back to the city."
+        "en": "Use the local bus to conveniently get to the center of Amfissa. The morning is for exploring the historic core on foot: from the Harmaina quarter to the fascinating museums. After a relaxing lunch, another bus takes you near the Castle of Salona. The afternoon is dedicated to the climb and exploration of this impressive fortress, from where you can enjoy an unparalleled view. In the late afternoon, you take the bus back to the city.",
+        "el": "Χρησιμοποίησε το τοπικό λεωφορείο για να φτάσεις άνετα στο κέντρο της Άμφισσας. Το πρωί εξερεύνησε το ιστορικό κομμάτι με τα πόδια: από τη γειτονιά Χαρμαΐνα μέχρι τα συναρπαστικά μουσεία. Μετά από ένα χαλαρωτικό μεσημεριανό, ένα ακόμη λεωφορείο σε φέρνει κοντά στο Κάστρο της Σαλώνας. Το απόγευμα αφιερώνεται στην ανάβαση και την εξερεύνηση αυτού του εντυπωσιακού φρουρίου, από όπου απολαμβάνεις μια ασύγκριτη θέα. Νωρίς το απόγευμα παίρνεις το λεωφορείο πίσω στην πόλη."
       },
       "gastro_picks": {
         "de": [],
@@ -1579,6 +1712,12 @@
           "Check the bus schedule in advance, especially for the last return trip from the castle.",
           "Bus stops may not always be clearly marked; ask locals if you're unsure.",
           "It's still a short but steep climb from the bus stop at the castle."
+        ],
+        "el": [
+          "Αγόρασε ημερήσιο εισιτήριο για το λεωφορείο αν υπάρχει.",
+          "Έλεγξε το δρομολόγιο του λεωφορείου εκ των προτέρων, ειδικά για το τελευταίο δρομολόγιο επιστροφής από το κάστρο.",
+          "Οι στάσεις λεωφορείων μπορεί να μην είναι πάντα καλά σηματοδοτημένες· ρώτησε ντόπιους αν δεν είσαι σίγουρος.",
+          "Ακόμα υπάρχει μια σύντομη αλλά απότομη ανάβαση από τη στάση του λεωφορείου στο κάστρο."
         ]
       },
       "variants": {
@@ -1587,7 +1726,8 @@
             "de": "Mit dem Bus navigieren wir trocken durch das verregnete Amfissa. Den Vormittag verbringen wir in den Museen, geschützt vor den Schauern. Mittags genießen wir ein warmes Essen in einer Taverne nahe der Bushaltestelle. Trotz Regen besuchen wir die Burg, bevor wir uns in die gemütliche Kathedrale zurückziehen.",
             "hu": "Busszal az eső ellenére is szárazon közlekedhetünk Amfisszában. A délelőttöt a múzeumokban töltjük, védve a záporoktól. Ebédre a buszmegállóhoz közeli tavernát választunk. Az esőben is ellátogatunk a várba, majd a napot a katedrális békéjében zárjuk.",
             "ro": "Cu autobuzul, navigăm prin Amfissa fără să ne udăm. Dimineața o petrecem în muzee, feriți de ploaie. La prânz savurăm o masă caldă într-o tavernă aproape de stație. În ciuda ploii, vizităm castelul, apoi ne retragem în liniștea catedralei.",
-            "en": "Public transit keeps us dry as we navigate rainy Amfissa. Spend the morning in the sheltered museums. Lunch is enjoyed at a tavern close to a bus stop. Even in the rain, we head to the castle before ending the day in the dry and peaceful cathedral."
+            "en": "Public transit keeps us dry as we navigate rainy Amfissa. Spend the morning in the sheltered museums. Lunch is enjoyed at a tavern close to a bus stop. Even in the rain, we head to the castle before ending the day in the dry and peaceful cathedral.",
+            "el": "Τα μέσα μεταφοράς μας κρατούν στεγνούς καθώς κινούμαστε στην βροχερή Άμφισσα. Περάστε το πρωί στα προστατευμένα μουσεία. Το μεσημεριανό απολαμβάνεται σε ταβέρνα κοντά σε στάση λεωφορείου. Ακόμα και με βροχή, κατευθυνόμαστε προς το κάστρο πριν τελειώσει η μέρα στον στεγνό και ήρεμο καθεδρικό."
           },
           "stops": [
             {
@@ -1596,7 +1736,8 @@
                 "de": "Halten Sie Ihr Ticket griffbereit, um nicht im Regen suchen zu müssen.",
                 "hu": "Legyen kéznél a jegye, hogy ne az esőben kelljen keresgélnie.",
                 "ro": "Ține biletul la îndemână pentru a nu sta în ploaie căutându-l.",
-                "en": "Have your ticket ready so you don't have to fumble for it in the rain."
+                "en": "Have your ticket ready so you don't have to fumble for it in the rain.",
+                "el": "Έχε έτοιμο το εισιτήριό σου ώστε να μην ψάχνεις για αυτό στη βροχή."
               }
             },
             {
@@ -1605,7 +1746,8 @@
                 "de": "Die Bushaltestelle ist nur einen kurzen Sprint vom Viertel entfernt.",
                 "hu": "A buszmegálló csak egy rövid sprintre van a negyedtől.",
                 "ro": "Stația de autobuz este la doar câțiva pași de cartier.",
-                "en": "The bus stop is just a quick dash away from the historic quarter."
+                "en": "The bus stop is just a quick dash away from the historic quarter.",
+                "el": "Η στάση του λεωφορείου είναι μόλις μια σύντομη κούρσα μακριά από την ιστορική συνοικία."
               }
             },
             {
@@ -1614,7 +1756,8 @@
                 "de": "Ein perfekter Ort, um auf den nächsten Bus im Trockenen zu warten.",
                 "hu": "Tökéletes helyszín a következő buszra való várakozáshoz, fedett helyen.",
                 "ro": "Un loc excelent pentru a aștepta următorul autobuz la adăpost.",
-                "en": "A perfect indoor location to wait for your next bus connection."
+                "en": "A perfect indoor location to wait for your next bus connection.",
+                "el": "Μια ιδανική εσωτερική τοποθεσία για να περιμένεις την επόμενη σύνδεση λεωφορείου."
               }
             },
             {
@@ -1623,7 +1766,8 @@
                 "de": "Wählen Sie ein Restaurant mit direktem Blick auf die Bushaltestelle.",
                 "hu": "Válasszon olyan éttermet, ahonnan rálát a buszmegállóra.",
                 "ro": "Alege un restaurant de unde poți vedea stația de autobuz.",
-                "en": "Choose a restaurant where you can keep an eye on the bus stop."
+                "en": "Choose a restaurant where you can keep an eye on the bus stop.",
+                "el": "Επίλεξε ένα εστιατόριο όπου μπορείς να έχεις οπτική επαφή με τη στάση του λεωφορείου."
               }
             },
             {
@@ -1632,7 +1776,8 @@
                 "de": "Fragen Sie den Fahrer nach der genauen Rückfahrzeit bei Regen.",
                 "hu": "Kérdezze meg a sofőrt a pontos visszaindulási időről esőben.",
                 "ro": "Întreabă șoferul despre ora exactă de retur pe timp de ploaie.",
-                "en": "Confirm the return bus schedule with the driver during bad weather."
+                "en": "Confirm the return bus schedule with the driver during bad weather.",
+                "el": "Επιβεβαίωσε το δρομολόγιο επιστροφής με τον οδηγό σε περίπτωση κακοκαιρίας."
               }
             },
             {
@@ -1641,7 +1786,8 @@
                 "de": "Suchen Sie bei starken Böen Schutz in den Torbögen.",
                 "hu": "Erős széllökések esetén keressen menedéket a kapualjakban.",
                 "ro": "Caută adăpost în arcadele porților în caz de vânt puternic.",
-                "en": "Seek shelter under the ancient archways if a sudden downpour hits."
+                "en": "Seek shelter under the ancient archways if a sudden downpour hits.",
+                "el": "Αναζήτησε καταφύγιο κάτω από τους αρχαίους θόλους αν ξαφνικά ξεσπάσει μπόρα."
               }
             }
           ],
@@ -1673,6 +1819,13 @@
               "Use museum visits to time your transit during the heaviest rain.",
               "Wear waterproof footwear for the short walks to and from bus stops.",
               "Keep small change ready as some local buses may only take cash."
+            ],
+            "el": [
+              "Έλεγξε τα δρομολόγια λεωφορείων online· η βροχή μπορεί μερικές φορές να προκαλέσει μικρές καθυστερήσεις.",
+              "Οι κεντρικές στάσεις μπορεί να έχουν περιορισμένη κάλυψη· πάρε ομπρέλα για την αναμονή.",
+              "Χρησιμοποίησε τις επισκέψεις σε μουσεία για να προγραμματίσεις τις μετακινήσεις σου στις πιο έντονες βροχοπτώσεις.",
+              "Φόρα αδιάβροχα παπούτσια για τις σύντομες διαδρομές προς και από τις στάσεις λεωφορείου.",
+              "Κράτα μικρό χαρτί έτοιμο καθώς κάποια τοπικά λεωφορεία ενδέχεται να δέχονται μόνο μετρητά."
             ]
           }
         },
@@ -1681,7 +1834,8 @@
             "de": "Winter in Amfissa mit dem Bus bedeutet warme Fahrten zwischen den Sehenswürdigkeiten. Den Vormittag verbringen wir im historischen Viertel und der Kathedrale. Mittags stärken wir uns im Zentrum, bevor wir mit dem Bus zur Burg von Salona fahren, um die Aussicht zu genießen. Den Abschluss bildet ein gemütlicher Museumsbesuch im Warmen.",
             "hu": "A téli Amfissza felfedezése busszal kényelmes és meleg utazást ígér. A délelőttöt a történelmi negyedben és a katedrálisban töltjük. Ebéd után busszal megyünk fel a Salona várához a kilátásért. A napot a múzeum fűtött termeiben zárjuk, elkerülve az esti hideget.",
             "ro": "Iarna în Amfissa cu autobuzul înseamnă călătorii călduroase între obiective. Dimineața o petrecem în cartierul istoric și la catedrală. După prânz, luăm autobuzul spre castelul Salona pentru priveliște. Încheiem ziua la căldură, într-un muzeu primitor.",
-            "en": "Winter transit in Amfissa offers warm rides between the main sights. Spend the morning exploring the old quarter and cathedral. After lunch, take the bus up to Salona Castle for the views, then finish your day in the cozy warmth of the museum."
+            "en": "Winter transit in Amfissa offers warm rides between the main sights. Spend the morning exploring the old quarter and cathedral. After lunch, take the bus up to Salona Castle for the views, then finish your day in the cozy warmth of the museum.",
+            "el": "Ο χειμερινός συγκοινωνιακός δρομολόγιος στην Άμφισσα προσφέρει ζεστές διαδρομές ανάμεσα στα κύρια αξιοθέατα. Περάστε το πρωί εξερευνώντας την παλιά συνοικία και τον καθεδρικό. Μετά το μεσημεριανό, πάρε το λεωφορείο προς το Κάστρο της Σαλώνας για τη θέα, και τελείωσε τη μέρα στο ζεστό περιβάλλον του μουσείου."
           },
           "stops": [
             {
@@ -1690,7 +1844,8 @@
                 "de": "Im Winter sind die Busse oft angenehm beheizt.",
                 "hu": "Télen a buszok általában kellemesen fűtöttek.",
                 "ro": "Iarna, autobuzele sunt de obicei bine încălzite.",
-                "en": "Buses are usually well-heated during the winter months."
+                "en": "Buses are usually well-heated during the winter months.",
+                "el": "Τα λεωφορεία συνήθως είναι καλά θερμαινόμενα κατά τους χειμερινούς μήνες."
               }
             },
             {
@@ -1699,7 +1854,8 @@
                 "de": "Warten Sie im Café direkt an der Haltestelle auf den Bus.",
                 "hu": "Várja a buszt a közvetlenül a megálló mellett lévő kávézóban.",
                 "ro": "Așteaptă autobuzul într-o cafenea de lângă stație.",
-                "en": "Wait for the bus in a cafe located directly next to the stop."
+                "en": "Wait for the bus in a cafe located directly next to the stop.",
+                "el": "Περίμενε το λεωφορείο σε ένα καφέ που βρίσκεται ακριβώς δίπλα στη στάση."
               }
             },
             {
@@ -1708,7 +1864,8 @@
                 "de": "Das Museum ist im Winter der wärmste Ort der Tour.",
                 "hu": "A múzeum a túra legmelegebb helyszíne télen.",
                 "ro": "Muzeul este cel mai călduros punct al itinerariului iarna.",
-                "en": "The museum is the warmest indoor spot on today's itinerary."
+                "en": "The museum is the warmest indoor spot on today's itinerary.",
+                "el": "Το μουσείο είναι το πιο ζεστό εσωτερικό σημείο στο σημερινό δρομολόγιο."
               }
             },
             {
@@ -1717,7 +1874,8 @@
                 "de": "Genießen Sie ein heißes Getränk vor der Weiterfahrt zur Burg.",
                 "hu": "Igyon egy forró italt a várba indulás előtt.",
                 "ro": "Savurează o băutură caldă înainte de a pleca spre castel.",
-                "en": "Enjoy a hot drink before heading up to the castle."
+                "en": "Enjoy a hot drink before heading up to the castle.",
+                "el": "Απόλαυσε ένα ζεστό ρόφημα πριν ανέβεις στο κάστρο."
               }
             },
             {
@@ -1726,7 +1884,8 @@
                 "de": "Beachten Sie den ausgedünnten Winterfahrplan am Nachmittag.",
                 "hu": "Ügyeljen a ritkább téli menetrendre délután.",
                 "ro": "Atenție la programul de iarnă redus în timpul după-amiezii.",
-                "en": "Be mindful of the reduced winter bus schedule in the afternoon."
+                "en": "Be mindful of the reduced winter bus schedule in the afternoon.",
+                "el": "Να έχεις υπόψη το μειωμένο χειμερινό δρομολόγιο των λεωφορείων το απόγευμα."
               }
             },
             {
@@ -1735,7 +1894,8 @@
                 "de": "Planen Sie die Rückfahrt vor dem Einsetzen der Abendkälte.",
                 "hu": "Tervezze meg a visszautat az esti lehűlés beállta előtt.",
                 "ro": "Planifică întoarcerea înainte de lăsarea frigului de seară.",
-                "en": "Plan your return trip before the evening chill sets in."
+                "en": "Plan your return trip before the evening chill sets in.",
+                "el": "Σχεδίασε την επιστροφή σου πριν πέσει το βραδινό ψύχος."
               }
             }
           ],
@@ -1767,6 +1927,13 @@
               "Use cafes near bus stops as warm waiting areas.",
               "Temperatures drop sharply after 5 PM while waiting for transit.",
               "Buy return tickets in advance as kiosks might close early in winter."
+            ],
+            "el": [
+              "Τα χειμερινά δρομολόγια συχνά διαφέρουν από τα θερινά· έλεγξε διπλά εκ των προτέρων.",
+              "Τα λεωφορεία προς τουριστικούς προορισμούς όπως το κάστρο μπορεί να δρομολογούνται λιγότερο συχνά τον χειμώνα.",
+              "Χρησιμοποίησε καφέ κοντά σε στάσεις λεωφορείων ως ζεστούς χώρους αναμονής.",
+              "Οι θερμοκρασίες πέφτουν απότομα μετά τις 17:00 ενώ περιμένεις τη συγκοινωνία.",
+              "Αγόρασε εισιτήρια επιστροφής εκ των προτέρων καθώς τα περίπτερα μπορεί να κλείνουν νωρίς τον χειμώνα."
             ]
           }
         }

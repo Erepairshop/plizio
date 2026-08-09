@@ -21,7 +21,8 @@
             "de": "Dimokratias Platz",
             "hu": "Demokrácia tér",
             "ro": "Piața Democrației",
-            "en": "Democracy Square"
+            "en": "Democracy Square",
+            "el": "Πλατεία Δημοκρατίας"
           },
           "coords": [
             21.4085,
@@ -37,7 +38,8 @@
             "de": "Starten Sie den Tag mit einem Kaffee in einem der vielen Cafés am Platz.",
             "hu": "Kezdje a napot egy kávéval a tér egyik hangulatos kávézójában.",
             "ro": "Începeți ziua cu o cafea la una dintre numeroasele cafenele din piață.",
-            "en": "Start your day with a coffee at one of the many cafés lining the square."
+            "en": "Start your day with a coffee at one of the many cafés lining the square.",
+            "el": "Ξεκινήστε τη μέρα σας με καφέ σε ένα από τα πολλά καφέ που περιβάλλουν την πλατεία."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Kirche Agios Christoforos",
             "hu": "Szent Kristóf-templom",
             "ro": "Biserica Sfântul Cristofor",
-            "en": "Church of Saint Christopher"
+            "en": "Church of Saint Christopher",
+            "el": "Εκκλησία Αγίου Χριστοφόρου"
           },
           "coords": [
             21.407,
@@ -61,7 +64,8 @@
             "de": "Bewundern Sie die beeindruckenden Ikonen und die ruhige Atmosphäre.",
             "hu": "Csodálja meg a lenyűgöző ikonokat és élvezze a békés légkört.",
             "ro": "Admirați icoanele impresionante și atmosfera liniștită.",
-            "en": "Admire the impressive icons and the serene atmosphere inside."
+            "en": "Admire the impressive icons and the serene atmosphere inside.",
+            "el": "Θαυμάστε τα εντυπωσιακά εικονίσματα και την ήρεμη ατμόσφαιρα στο εσωτερικό."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Tabakspeicher",
             "hu": "Dohányraktárak",
             "ro": "Depozitele de tutun",
-            "en": "Tobacco Warehouses"
+            "en": "Tobacco Warehouses",
+            "el": "Αποθήκες καπνού"
           },
           "coords": [
             21.405,
@@ -85,7 +90,8 @@
             "de": "Ein Einblick in die industrielle Vergangenheit der Stadt.",
             "hu": "Tekintsen be a város ipari múltjába.",
             "ro": "O privire asupra trecutului industrial al orașului.",
-            "en": "A glimpse into the city's industrial past."
+            "en": "A glimpse into the city's industrial past.",
+            "el": "Μια ματιά στο βιομηχανικό παρελθόν της πόλης."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Papastrateio Archäologisches Museum",
             "hu": "Papasztrareio Régészeti Múzeum",
             "ro": "Muzeul Arheologic Papastrateio",
-            "en": "Papastrateio Archaeological Museum"
+            "en": "Papastrateio Archaeological Museum",
+            "el": "Παπαστράτειο Αρχαιολογικό Μουσείο"
           },
           "coords": [
             21.4095,
@@ -109,7 +116,8 @@
             "de": "Ideal für eine Mittagspause, um der Hitze zu entkommen.",
             "hu": "Ideális egy ebédszünetre, hogy elmeneküljön a hőség elől.",
             "ro": "Perfect pentru o pauză de prânz pentru a scăpa de căldură.",
-            "en": "Perfect for a midday break to escape the heat."
+            "en": "Perfect for a midday break to escape the heat.",
+            "el": "Ιδανικό για ένα μεσημεριανό διάλειμμα για να ξεφύγετε από τη ζέστη."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Christos Kapralos Galerie",
             "hu": "Chrisztosz Kapralosz Galéria",
             "ro": "Galeria Christos Kapralos",
-            "en": "Christos Kapralos Gallery"
+            "en": "Christos Kapralos Gallery",
+            "el": "Πινακοθήκη Χρήστου Καπράλου"
           },
           "coords": [
             21.411,
@@ -133,7 +142,8 @@
             "de": "Entdecken Sie die Werke eines bedeutenden griechischen Bildhauers.",
             "hu": "Fedezze fel egy jelentős görög szobrász munkáit.",
             "ro": "Descoperiți lucrările unui important sculptor grec.",
-            "en": "Discover the works of a significant Greek sculptor."
+            "en": "Discover the works of a significant Greek sculptor.",
+            "el": "Ανακαλύψτε τα έργα ενός σημαντικού Έλληνα γλύπτη."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Papastratos Park",
             "hu": "Papasztratosz Park",
             "ro": "Parcul Papastratos",
-            "en": "Papastratos Park"
+            "en": "Papastratos Park",
+            "el": "Πάρκο Παπαστράτου"
           },
           "coords": [
             21.413,
@@ -157,7 +168,8 @@
             "de": "Der perfekte Ort, um den Tag entspannt ausklingen zu lassen.",
             "hu": "Tökéletes hely a nap pihentető befejezéséhez.",
             "ro": "Locul perfect pentru a încheia ziua într-un mod relaxant.",
-            "en": "The perfect spot to wind down and end your day."
+            "en": "The perfect spot to wind down and end your day.",
+            "el": "Το τέλειο σημείο για να χαλαρώσετε και να κλείσετε τη μέρα σας."
           }
         }
       ],
@@ -165,7 +177,8 @@
         "de": "Ihr Tag in Agrinio beginnt am lebhaften Dimokratias Platz. Von dort aus erkunden Sie das historische und industrielle Erbe der Stadt, wie die alten Tabakspeicher. Am Nachmittag tauchen Sie in die lokale Kunst im Papastrateio Museum und der Christos Kapralos Galerie ein. Der Tag endet mit einem entspannten Spaziergang im grünen Papastratos Park, einer Oase der Ruhe im Stadtzentrum.",
         "hu": "Agriniói napja a nyüzsgő Demokrácia téren kezdődik. Innen felfedezheti a város történelmi és ipari örökségét, például a régi dohányraktárakat. Délután elmerülhet a helyi művészetben a Papasztrateio Múzeumban és a Chrisztosz Kapralosz Galériában. A napot egy pihentető sétával zárja a zöld Papasztratosz Parkban, a nyugalom oázisában a városközpontban.",
         "ro": "Ziua dvs. în Agrinio începe în vibranta Piața Democrației. De acolo, explorați moștenirea istorică și industrială a orașului, cum ar fi vechile depozite de tutun. După-amiaza, vă cufundați în arta locală la Muzeul Papastrateio și Galeria Christos Kapralos. Ziua se încheie cu o plimbare relaxantă în Parcul Papastratos, o oază de liniște în centrul orașului.",
-        "en": "Your day in Agrinio starts at the vibrant Democracy Square. From there, you'll explore the city's historical and industrial heritage, like the old tobacco warehouses. In the afternoon, immerse yourself in local art at the Papastrateio Museum and the Christos Kapralos Gallery. The day concludes with a relaxing stroll in the green Papastratos Park, an oasis of calm in the city center."
+        "en": "Your day in Agrinio starts at the vibrant Democracy Square. From there, you'll explore the city's historical and industrial heritage, like the old tobacco warehouses. In the afternoon, immerse yourself in local art at the Papastrateio Museum and the Christos Kapralos Gallery. The day concludes with a relaxing stroll in the green Papastratos Park, an oasis of calm in the city center.",
+        "el": "Η μέρα σας στο Αγρίνιο ξεκινάει στην ζωντανή Πλατεία Δημοκρατίας. Από εκεί θα εξερευνήσετε την ιστορική και βιομηχανική κληρονομιά της πόλης, όπως τις παλιές αποθήκες καπνού. Το απόγευμα βυθιστείτε στην τοπική τέχνη στο Παπαστράτειο Μουσείο και την Πινακοθήκη Καπράλου. Η μέρα ολοκληρώνεται με έναν χαλαρωτικό περίπατο στο καταπράσινο Πάρκο Παπαστράτου, μια όαση ηρεμίας στο κέντρο της πόλης."
       },
       "gastro_picks": {
         "de": [
@@ -321,6 +334,11 @@
           "Wear comfortable shoes as you'll be doing a lot of walking.",
           "Bring a reusable water bottle.",
           "Plan for a longer lunch break to enjoy the local cuisine."
+        ],
+        "el": [
+          "Φορέστε άνετα παπούτσια καθώς θα περπατήσετε πολύ.",
+          "Φέρτε ένα επαναχρησιμοποιούμενο παγούρι νερού.",
+          "Σχεδιάστε πιο μεγάλο μεσημεριανό διάλειμμα για να απολαύσετε την τοπική κουζίνα."
         ]
       },
       "variants": {
@@ -329,7 +347,8 @@
             "de": "Der Tag beginnt am regennassen Democracy Square, wo die Arkaden Schutz bieten. Mittags besichtigen wir die Kirche des Hl. Christophorus und die alten Tabaklager, deren Architektur bei Regen besonders melancholisch wirkt. Nachmittags verbringen wir die Zeit in den Museen von Agrinio, die trockene Zuflucht und Kultur bieten. Der Abend klingt mit dem Duft von feuchter Erde im Papastratos-Park aus.",
             "hu": "A reggel az eső áztatta Demokrácia téren indul, ahol az árkádok alatt kávézhatunk. Délben a Szent Kristóf-templom és a régi dohányraktárak monumentális falai között keresünk menedéket. A délutánt a Papastrateio Múzeum és a Kapralos Galéria fedett tereiben töltjük, távol a sártól. Az estét a park fái alatt zárjuk, ahol az eső utáni friss levegő kísér minket.",
             "ro": "Dimineața începe în Piața Democrației, unde arcadele oferă adăpost împotriva ploii. La prânz, vizităm Biserica Sfântul Cristofor și vechile depozite de tutun, a căror istorie industrială pare mai vie pe vreme gri. După-amiaza este dedicată muzeelor, refugii perfecte pentru cultură. Seara se încheie cu o plimbare scurtă prin Parcul Papastratos, sub protecția copacilor deși.",
-            "en": "The morning starts at the rain-slicked Democracy Square, utilizing the arcades for shelter. At noon, we explore the Church of Saint Christopher and the tobacco warehouses, which look evocative in the mist. The afternoon is spent indoors at the Papastrateio Museum and Kapralos Gallery. We finish the day with the fresh scent of rain in Papastratos Park, under the canopy of mature trees."
+            "en": "The morning starts at the rain-slicked Democracy Square, utilizing the arcades for shelter. At noon, we explore the Church of Saint Christopher and the tobacco warehouses, which look evocative in the mist. The afternoon is spent indoors at the Papastrateio Museum and Kapralos Gallery. We finish the day with the fresh scent of rain in Papastratos Park, under the canopy of mature trees.",
+            "el": "Το πρωί ξεκινά στην βροχερή Πλατεία Δημοκρατίας, χρησιμοποιώντας τα στεγασμένα περάσματα ως καταφύγιο. Το μεσημέρι επισκεπτόμαστε την Εκκλησία του Αγίου Χριστοφόρου και τις αποθήκες καπνού, που δείχνουν ατμοσφαιρικές στην ομίχλη. Το απόγευμα περνάει σε εσωτερικούς χώρους στο Παπαστράτειο Μουσείο και την Πινακοθήκη Καπράλου. Τελειώνουμε τη μέρα με τη φρέσκια μυρωδιά της βροχής στο Πάρκο Παπαστράτου, κάτω από τις φυλλωσιές των ώριμων δέντρων."
           },
           "stops": [
             {
@@ -338,7 +357,8 @@
                 "de": "Nutzen Sie die Arkaden der umliegenden Cafés als Regenschutz.",
                 "hu": "Használja a környékbeli kávézók árkádjait az eső elleni védelemhez.",
                 "ro": "Folosiți arcadele cafenelelor din jur pentru a vă proteja de ploaie.",
-                "en": "Use the arcades of the surrounding cafes as shelter from the rain."
+                "en": "Use the arcades of the surrounding cafes as shelter from the rain.",
+                "el": "Χρησιμοποιήστε τα στεγασμένα περάσματα των περιμετρικών καφέ ως καταφύγιο από τη βροχή."
               }
             },
             {
@@ -347,7 +367,8 @@
                 "de": "Ein ruhiger, trockener Ort für eine Pause während eines Schauers.",
                 "hu": "Csendes, száraz hely egy kis pihenéshez a zápor alatt.",
                 "ro": "Un loc liniștit și uscat pentru o pauză în timpul unei averse.",
-                "en": "A quiet, dry place for a break during a downpour."
+                "en": "A quiet, dry place for a break during a downpour.",
+                "el": "Ένας ήσυχος, στεγνός χώρος για ένα διάλειμμα κατά τη διάρκεια μπόρας."
               }
             },
             {
@@ -356,7 +377,8 @@
                 "de": "Die massiven Dachüberstände bieten punktuell Schutz.",
                 "hu": "A masszív tetőtúllógások helyenként védelmet nyújtanak.",
                 "ro": "Estreșinile masive oferă protecție în anumite puncte.",
-                "en": "The massive roof overhangs provide shelter in some spots."
+                "en": "The massive roof overhangs provide shelter in some spots.",
+                "el": "Οι τεράστιες προεξοχές της στέγης προσφέρουν καταφύγιο σε ορισμένα σημεία."
               }
             },
             {
@@ -365,7 +387,8 @@
                 "de": "Perfekt für eine ausgiebige Besichtigung bei starkem Regen.",
                 "hu": "Tökéletes választás egy hosszú látogatáshoz erős esőben.",
                 "ro": "Perfect pentru o vizită lungă în caz de ploaie torențială.",
-                "en": "Perfect for a long visit in case of heavy rain."
+                "en": "Perfect for a long visit in case of heavy rain.",
+                "el": "Ιδανικό για μακρύ διάλειμμα σε περίπτωση δυνατής βροχής."
               }
             },
             {
@@ -374,7 +397,8 @@
                 "de": "Garderobe vorhanden, um nasse Mäntel vor dem Rundgang abzugeben.",
                 "hu": "Van ruhatár, ahol leadhatja vizes kabátját a körút előtt.",
                 "ro": "Există garderobă unde vă puteți lăsa haina udă înainte de vizită.",
-                "en": "Wardrobe available to drop off wet coats before the tour."
+                "en": "Wardrobe available to drop off wet coats before the tour.",
+                "el": "Υπάρχει ντουλάπα για να αφήσετε βρεγμένα παλτά πριν την ξενάγηση."
               }
             },
             {
@@ -383,7 +407,8 @@
                 "de": "Die hohen Kiefern dienen als natürlicher Regenschirm.",
                 "hu": "A magas fenyőfák természetes esernyőként szolgálnak.",
                 "ro": "Pinii înalți servesc drept umbrelă naturală.",
-                "en": "The tall pine trees serve as a natural umbrella."
+                "en": "The tall pine trees serve as a natural umbrella.",
+                "el": "Τα ψηλά πεύκα λειτουργούν σαν φυσική ομπρέλα."
               }
             }
           ],
@@ -415,6 +440,13 @@
               "The museums are the best spots to stay dry during persistent rain.",
               "A compact umbrella is more practical due to sudden wind gusts.",
               "Take advantage of the atmosphere at the tobacco warehouses for photos."
+            ],
+            "el": [
+              "Φορέστε αδιάβροχα παπούτσια καθώς σχηματίζονται λακκούβες στις πλατείες.",
+              "Η Αγρίνιο έχει πολλά καφέ με στεγασμένες εξωτερικές καθιστικές περιοχές.",
+              "Τα μουσεία είναι τα καλύτερα σημεία για να μείνετε στεγνοί κατά τη διάρκεια επίμονης βροχής.",
+              "Μια συμπαγής ομπρέλα είναι πιο πρακτική λόγω απότομων ριπών ανέμου.",
+              "Επωφεληθείτε από την ατμόσφαιρα στις αποθήκες καπνού για φωτογραφίες."
             ]
           }
         },
@@ -423,7 +455,8 @@
             "de": "An einem klaren Wintermorgen genießen wir die frische Luft am Democracy Square bei einem heißen griechischen Kaffee. Mittags wärmen wir uns in der Kirche und erkunden die kühle Geschichte der Tabaklager. Der Nachmittag gehört den Museen, bevor wir den Sonnenuntergang im Papastratos-Park erleben. Der Abend endet früh, wenn die Stadtlichter die winterliche Atmosphäre erhellen.",
             "hu": "Egy tiszta téli reggelen a friss levegőt élvezzük a Demokrácia téren egy forró görög kávéval. Délben a templomban és a dohányraktárak hűvös falaiban mélyedünk el a múltban. A délután a fűtött múzeumoké, mielőtt elcsípjük a korai naplementét a Papastratos-parkban. Az este hamar leszáll, Agrinio fényei pedig különleges hangulatot adnak a városnak.",
             "ro": "Într-o dimineață senină de iarnă, savurăm aerul proaspăt în Piața Democrației cu o cafea grecească fierbinte. La prânz, ne încălzim în biserică și explorăm istoria răcoroasă a depozitelor de tutun. După-amiaza aparține muzeelor încălzite, înainte de a vedea apusul în Parcul Papastratos. Seara coboară devreme, iar luminile orașului creează o atmosferă hibernală.",
-            "en": "On a crisp winter morning, we enjoy the fresh air at Democracy Square with a hot Greek coffee. At noon, we warm up in the church and explore the cool history of the tobacco warehouses. The afternoon is reserved for heated museums before catching the early sunset at Papastratos Park. Evening falls quickly, and the city lights brighten the wintry atmosphere."
+            "en": "On a crisp winter morning, we enjoy the fresh air at Democracy Square with a hot Greek coffee. At noon, we warm up in the church and explore the cool history of the tobacco warehouses. The afternoon is reserved for heated museums before catching the early sunset at Papastratos Park. Evening falls quickly, and the city lights brighten the wintry atmosphere.",
+            "el": "Σε μια δροσερή χειμωνιάτικη πρωινή, απολαμβάνουμε τον καθαρό αέρα στην Πλατεία Δημοκρατίας με ζεστό ελληνικό καφέ. Το μεσημέρι ζεσταινόμαστε στην εκκλησία και εξερευνούμε την δροσερή ιστορία των αποθηκών καπνού. Το απόγευμα είναι αφιερωμένο σε θερμαινόμενα μουσεία πριν προλάβουμε το νωπό ηλιοβασίλεμα στο Πάρκο Παπαστράτου. Το βράδυ πέφτει γρήγορα και τα φώτα της πόλης φωτίζουν την χειμωνιάτικη ατμόσφαιρα."
           },
           "stops": [
             {
@@ -432,7 +465,8 @@
                 "de": "Bestellen Sie einen 'Ellinikos' Kaffee zum Aufwärmen.",
                 "hu": "Rendeljen egy forró 'Ellinikos' kávét a bemelegítéshez.",
                 "ro": "Comandați o cafea 'Ellinikos' fierbinte pentru a vă încălzi.",
-                "en": "Order a hot 'Ellinikos' coffee to warm up."
+                "en": "Order a hot 'Ellinikos' coffee to warm up.",
+                "el": "Παραγγείλετε έναν ζεστό «Ελληνικό» καφέ για να ζεσταθείτε."
               }
             },
             {
@@ -441,7 +475,8 @@
                 "de": "Oft etwas wärmer als die Außenluft, ideal für Besinnung.",
                 "hu": "Gyakran melegebb, mint a kinti levegő, ideális az elmélkedésre.",
                 "ro": "Aeseori mai cald decât afară, ideal pentru reculegere.",
-                "en": "Often warmer than the outside air, ideal for contemplation."
+                "en": "Often warmer than the outside air, ideal for contemplation.",
+                "el": "Συνήθως πιο ζεστός από τον εξωτερικό αέρα, ιδανικός για περισυλλογή."
               }
             },
             {
@@ -450,7 +485,8 @@
                 "de": "Ziehen Sie sich warm an, in den Hallen ist es zugig.",
                 "hu": "Öltözzön rétegesen, a csarnokokban huzatos lehet az idő.",
                 "ro": "Îmbrăcați-vă gros, în hale poate fi curent.",
-                "en": "Dress warmly; it can be drafty inside the warehouses."
+                "en": "Dress warmly; it can be drafty inside the warehouses.",
+                "el": "Φορέστε ζεστά ρούχα· μπορεί να φυσά μέσα στις αποθήκες."
               }
             },
             {
@@ -459,7 +495,8 @@
                 "de": "Die Klimatisierung sorgt für angenehme Temperaturen.",
                 "hu": "A légkondicionálás télen is kellemes hőmérsékletet biztosít.",
                 "ro": "Climatizarea asigură o temperatură plăcută și iarna.",
-                "en": "The climate control ensures pleasant temperatures even in winter."
+                "en": "The climate control ensures pleasant temperatures even in winter.",
+                "el": "Ο κλιματισμός διασφαλίζει ευχάριστες θερμοκρασίες ακόμα και το χειμώνα."
               }
             },
             {
@@ -468,7 +505,8 @@
                 "de": "Ein gemütlicher Ort, um dem Winterwind zu entfliehen.",
                 "hu": "Barátságos hely, ahol elmenekülhet a téli szél elől.",
                 "ro": "Un loc primitor pentru a scăpa de vântul de iarnă.",
-                "en": "A cozy place to escape the winter wind."
+                "en": "A cozy place to escape the winter wind.",
+                "el": "Ένας ζεστός χώρος για να ξεφύγετε από τον χειμερινό άνεμο."
               }
             },
             {
@@ -477,7 +515,8 @@
                 "de": "Bester Ort für den Sonnenuntergang gegen 17:15 Uhr.",
                 "hu": "A legjobb hely a naplemente megtekintéséhez 17:15 körül.",
                 "ro": "Cel mai bun loc pentru apus, în jur de ora 17:15.",
-                "en": "The best spot for the sunset around 5:15 PM."
+                "en": "The best spot for the sunset around 5:15 PM.",
+                "el": "Το καλύτερο σημείο για το ηλιοβασίλεμα περίπου στις 17:15."
               }
             }
           ],
@@ -509,6 +548,13 @@
               "The air in Agrinio is often very crisp and clear in winter.",
               "Many tavernas around the square have cozy fireplaces in winter.",
               "Avoid late visits to the park as it gets dark very early."
+            ],
+            "el": [
+              "Ο ήλιος δύει περίπου στις 17:15 το χειμώνα.",
+              "Ντυθείτε σε στρώσεις καθώς τα μουσεία είναι συνήθως καλά θερμαινόμενα.",
+              "Ο αέρας στο Αγρίνιο είναι συχνά πολύ δροσερός και καθαρός το χειμώνα.",
+              "Πολλές ταβέρνες γύρω από την πλατεία έχουν ζεστές εστίες το χειμώνα.",
+              "Αποφύγετε τις αργοπορημένες επισκέψεις στο πάρκο καθώς βραδιάζει πολύ νωρίς."
             ]
           }
         }
@@ -527,7 +573,8 @@
             "de": "Dimokratias Platz",
             "hu": "Demokrácia tér",
             "ro": "Piața Democrației",
-            "en": "Democracy Square"
+            "en": "Democracy Square",
+            "el": "Πλατεία Δημοκρατίας"
           },
           "coords": [
             21.4085,
@@ -543,7 +590,8 @@
             "de": "Ein idealer Ausgangspunkt, um die Stadt mit dem Fahrrad zu erkunden.",
             "hu": "Ideális kiindulópont a város kerékpáros felfedezéséhez.",
             "ro": "Un punct de plecare ideal pentru a explora orașul cu bicicleta.",
-            "en": "An ideal starting point to explore the city by bike."
+            "en": "An ideal starting point to explore the city by bike.",
+            "el": "Ένα ιδανικό σημείο εκκίνησης για να εξερευνήσετε την πόλη με ποδήλατο."
           }
         },
         {
@@ -551,7 +599,8 @@
             "de": "Papastratos Park",
             "hu": "Papasztratosz Park",
             "ro": "Parcul Papastratos",
-            "en": "Papastratos Park"
+            "en": "Papastratos Park",
+            "el": "Πάρκο Παπαστράτου"
           },
           "coords": [
             21.413,
@@ -567,7 +616,8 @@
             "de": "Machen Sie eine kurze Radtour durch die grünen Wege des Parks.",
             "hu": "Tegyen egy rövid kerékpártúrát a park zöld ösvényein.",
             "ro": "Faceți o scurtă plimbare cu bicicleta pe aleile verzi ale parcului.",
-            "en": "Take a short ride through the park's green pathways."
+            "en": "Take a short ride through the park's green pathways.",
+            "el": "Κάντε μια σύντομη βόλτα μέσα στα πράσινα μονοπάτια του πάρκου."
           }
         },
         {
@@ -575,7 +625,8 @@
             "de": "Christos Kapralos Galerie",
             "hu": "Chrisztosz Kapralosz Galéria",
             "ro": "Galeria Christos Kapralos",
-            "en": "Christos Kapralos Gallery"
+            "en": "Christos Kapralos Gallery",
+            "el": "Πινακοθήκη Χρήστου Καπράλου"
           },
           "coords": [
             21.411,
@@ -591,7 +642,8 @@
             "de": "Parken Sie Ihr Fahrrad und tauchen Sie ein in die Welt der Kunst.",
             "hu": "Parkolja le a kerékpárját, és merüljön el a művészet világában.",
             "ro": "Parcați bicicleta și scufundați-vă în lumea artei.",
-            "en": "Park your bike and immerse yourself in the world of art."
+            "en": "Park your bike and immerse yourself in the world of art.",
+            "el": "Σταντέψτε το ποδήλατό σας και βυθιστείτε στον κόσμο της τέχνης."
           }
         },
         {
@@ -599,7 +651,8 @@
             "de": "Kirche Agios Christoforos",
             "hu": "Szent Kristóf-templom",
             "ro": "Biserica Sfântul Cristofor",
-            "en": "Church of Saint Christopher"
+            "en": "Church of Saint Christopher",
+            "el": "Εκκλησία του Αγίου Χριστοφόρου"
           },
           "coords": [
             21.407,
@@ -615,7 +668,8 @@
             "de": "Eine kurze Fahrt vom Museum entfernt, perfekt für eine Pause.",
             "hu": "Egy rövid út a múzeumtól, tökéletes egy kis pihenőre.",
             "ro": "La o scurtă distanță de muzeu, perfect pentru o pauză.",
-            "en": "A short ride from the museum, perfect for a break."
+            "en": "A short ride from the museum, perfect for a break.",
+            "el": "Μια σύντομη βόλτα από το μουσείο, ιδανική για διάλειμμα."
           }
         },
         {
@@ -623,7 +677,8 @@
             "de": "Tabakspeicher",
             "hu": "Dohányraktárak",
             "ro": "Depozitele de tutun",
-            "en": "Tobacco Warehouses"
+            "en": "Tobacco Warehouses",
+            "el": "Αποθήκες Καπνού"
           },
           "coords": [
             21.405,
@@ -639,7 +694,8 @@
             "de": "Radeln Sie durch das Viertel, um die Architektur zu sehen.",
             "hu": "Kerékpározzon végig a negyeden, hogy megnézze az építészetet.",
             "ro": "Plimbați-vă cu bicicleta prin cartier pentru a vedea arhitectura.",
-            "en": "Cycle through the district to see the architecture."
+            "en": "Cycle through the district to see the architecture.",
+            "el": "Περάστε με το ποδήλατο από τη συνοικία για να δείτε την αρχιτεκτονική."
           }
         },
         {
@@ -647,7 +703,8 @@
             "de": "Papastrateio Archäologisches Museum",
             "hu": "Papasztrareio Régészeti Múzeum",
             "ro": "Muzeul Arheologic Papastrateio",
-            "en": "Papastrateio Archaeological Museum"
+            "en": "Papastrateio Archaeological Museum",
+            "el": "Παπαστρατείο Αρχαιολογικό Μουσείο"
           },
           "coords": [
             21.4095,
@@ -663,7 +720,8 @@
             "de": "Der letzte Halt des Tages, um in die tiefere Geschichte einzutauchen.",
             "hu": "A nap utolsó állomása, hogy elmerüljön a mélyebb történelemben.",
             "ro": "Ultima oprire a zilei pentru a aprofunda istoria.",
-            "en": "The last stop of the day to delve into deeper history."
+            "en": "The last stop of the day to delve into deeper history.",
+            "el": "Η τελευταία στάση της ημέρας για να εμβαθύνετε στην ιστορία."
           }
         }
       ],
@@ -671,7 +729,8 @@
         "de": "Mit dem Fahrrad erkunden Sie Agrinio auf flexible Weise. Nach einem Start am Dimokratias Platz führt Sie Ihre Route in den Papastratos Park. Der Nachmittag ist der Kunst und Geschichte gewidmet, mit Besuchen in der Christos Kapralos Galerie und dem archäologischen Museum. Dazwischen entdecken Sie die einzigartige Architektur der Tabakspeicher und die spirituelle Ruhe der Agios Christoforos Kirche.",
         "hu": "Kerékpárral rugalmasan fedezheti fel Agriniót. A Demokrácia térről indulva az útvonal a Papasztratosz Parkba vezet. A délután a művészeté és a történelemé, a Chrisztosz Kapralosz Galéria és a régészeti múzeum meglátogatásával. Közben felfedezheti a dohányraktárak egyedi építészetét és az Agiosz Krisztoforosz templom spirituális nyugalmát.",
         "ro": "Cu bicicleta, explorați Agrinio într-un mod flexibil. După un start în Piața Democrației, traseul vă duce în Parcul Papastratos. După-amiaza este dedicată artei și istoriei, cu vizite la Galeria Christos Kapralos și muzeul arheologic. Între timp, descoperiți arhitectura unică a depozitelor de tutun și liniștea spirituală a Bisericii Sfântul Cristofor.",
-        "en": "By bike, you'll explore Agrinio in a flexible way. After a start at Democracy Square, your route takes you to Papastratos Park. The afternoon is dedicated to art and history, with visits to the Christos Kapralos Gallery and the archaeological museum. In between, you'll discover the unique architecture of the tobacco warehouses and the spiritual tranquility of the Church of Saint Christopher."
+        "en": "By bike, you'll explore Agrinio in a flexible way. After a start at Democracy Square, your route takes you to Papastratos Park. The afternoon is dedicated to art and history, with visits to the Christos Kapralos Gallery and the archaeological museum. In between, you'll discover the unique architecture of the tobacco warehouses and the spiritual tranquility of the Church of Saint Christopher.",
+        "el": "Με ποδήλατο θα εξερευνήσετε το Αγρίνιο με ευελιξία. Αφού ξεκινήσετε από την Πλατεία Δημοκρατίας, η διαδρομή σας οδηγεί στο Πάρκο Παπαστράτου. Το απόγευμα είναι αφιερωμένο στην τέχνη και την ιστορία, με επισκέψεις στην Πινακοθήκη Χρήστου Καπράλου και στο αρχαιολογικό μουσείο. Στη μέση, θα ανακαλύψετε την μοναδική αρχιτεκτονική των αποθηκών καπνού και την πνευματική γαλήνη της Εκκλησίας του Αγίου Χριστοφόρου."
       },
       "gastro_picks": {
         "de": [
@@ -811,6 +870,11 @@
           "Check your bike before you set off.",
           "Wear a helmet.",
           "Use bike lanes wherever possible."
+        ],
+        "el": [
+          "Ελέγξτε το ποδήλατό σας πριν ξεκινήσετε.",
+          "Φορέστε κράνος.",
+          "Χρησιμοποιήστε ποδηλατόδρομους όπου είναι δυνατόν."
         ]
       },
       "variants": {
@@ -819,7 +883,8 @@
             "de": "Trotz Regen starten wir vorsichtig am Democracy Square. Die Route führt uns durch die grünen Wege des Papastratos-Parks, wo die Bäume leichten Schutz bieten. Mittags besuchen wir die Kapralos-Galerie und die Kirche, während wir unsere Räder sicher abstellen. Den Nachmittag nutzen wir für das Archäologische Museum und die Tabaklager, wobei wir immer auf rutschige Straßen achten.",
             "hu": "Az eső ellenére óvatosan indulunk a Demokrácia térről. Utunk a Papastratos-park zöld ösvényein vezet, ahol a fák némi védelmet nyújtanak. Délben meglátogatjuk a Kapralos Galériát és a templomot, miközben kerékpárjainkat biztonságban lezárjuk. A délutánt a múzeumnak és a dohányraktáraknak szenteljük, figyelve a csúszós útburkolatra.",
             "ro": "În ciuda ploii, pornim cu grijă din Piața Democrației. Ruta ne poartă prin potecile verzi ale Parcului Papastratos, unde copacii oferă o mică protecție. La prânz vizităm Galeria Kapralos și biserica, în timp ce lăsăm bicicletele asigurate. După-amiaza o folosim pentru muzeu și depozite, fiind mereu atenți la carosabilul alunecos.",
-            "en": "Despite the rain, we start cautiously from Democracy Square. The route takes us through the green paths of Papastratos Park, where the trees offer some cover. At noon, we visit the Kapralos Gallery and the church while keeping our bikes locked safely. We spend the afternoon at the museum and tobacco warehouses, always watching out for slippery road surfaces."
+            "en": "Despite the rain, we start cautiously from Democracy Square. The route takes us through the green paths of Papastratos Park, where the trees offer some cover. At noon, we visit the Kapralos Gallery and the church while keeping our bikes locked safely. We spend the afternoon at the museum and tobacco warehouses, always watching out for slippery road surfaces.",
+            "el": "Παρά τη βροχή, ξεκινάμε με προσοχή από την Πλατεία Δημοκρατίας. Η διαδρομή μας περνάει από τα πράσινα μονοπάτια του Πάρκου Παπαστράτου, όπου τα δέντρα προσφέρουν λίγη κάλυψη. Το μεσημέρι επισκεπτόμαστε την Πινακοθήκη Καπράλου και την εκκλησία κρατώντας τα ποδήλατα κλειδωμένα με ασφάλεια. Το απόγευμα περνάμε στο μουσείο και τις αποθήκες καπνού, πάντα προσέχοντας ολισθηρές επιφάνειες του δρόμου."
           },
           "stops": [
             {
@@ -828,7 +893,8 @@
                 "de": "Achtung: Das Pflaster ist bei Nässe extrem rutschig.",
                 "hu": "Vigyázat: A térkövek nedvesen rendkívül csúszósak.",
                 "ro": "Atenție: Pavajul este extrem de alunecos când este ud.",
-                "en": "Caution: The pavement is extremely slippery when wet."
+                "en": "Caution: The pavement is extremely slippery when wet.",
+                "el": "Προσοχή: Το δάπεδο γίνεται εξαιρετικά ολισθηρό σε βρεγμένο."
               }
             },
             {
@@ -837,7 +903,8 @@
                 "de": "Fahren Sie auf den asphaltierten Wegen, um Schlamm zu vermeiden.",
                 "hu": "Maradjon az aszfaltozott utakon a sár elkerülése érdekében.",
                 "ro": "Rămâneți pe aleile asfaltate pentru a evita noroiul.",
-                "en": "Stay on the paved paths to avoid mud."
+                "en": "Stay on the paved paths to avoid mud.",
+                "el": "Μείνετε πάνω στα πλακόστρωτα μονοπάτια για να αποφύγετε τη λάσπη."
               }
             },
             {
@@ -846,7 +913,8 @@
                 "de": "Fahrradständer sind in der Nähe vorhanden.",
                 "hu": "Kerékpártárolók találhatók a közelben.",
                 "ro": "Suporturile pentru biciclete sunt disponibile în apropiere.",
-                "en": "Bike racks are available nearby."
+                "en": "Bike racks are available nearby.",
+                "el": "Υπάρχουν ποδηλατοστάσια κοντά."
               }
             },
             {
@@ -855,7 +923,8 @@
                 "de": "Überdachter Stellplatz in der Nähe des Eingangs.",
                 "hu": "Fedett tárolóhely a bejárat közelében.",
                 "ro": "Loc de parcare acoperit lângă intrare.",
-                "en": "Covered parking spot near the entrance."
+                "en": "Covered parking spot near the entrance.",
+                "el": "Σκεπασμένη θέση στάθμευσης κοντά στην είσοδο."
               }
             },
             {
@@ -864,7 +933,8 @@
                 "de": "Vorsicht vor tiefen Pfützen in der Industriezone.",
                 "hu": "Vigyázzon a mély tócsákra az ipari negyedben.",
                 "ro": "Atenție la bălțile adânci din zona industrială.",
-                "en": "Watch out for deep puddles in the industrial area."
+                "en": "Watch out for deep puddles in the industrial area.",
+                "el": "Προσέξτε για βαθιές λακκούβες στη βιομηχανική περιοχή."
               }
             },
             {
@@ -873,7 +943,8 @@
                 "de": "Nutzen Sie die Pause für einen Kleiderwechsel (Regencape).",
                 "hu": "Használja ki a szünetet egy esőköpeny-cserére.",
                 "ro": "Folosiți pauza pentru a vă schimba pelerina de ploaie.",
-                "en": "Use the break to adjust your rain gear."
+                "en": "Use the break to adjust your rain gear.",
+                "el": "Χρησιμοποιήστε το διάλειμμα για να προσαρμόσετε τον εξοπλισμό βροχής."
               }
             }
           ],
@@ -905,6 +976,13 @@
               "Wear neon rain gear for better visibility.",
               "Check your brake pads before heading out.",
               "Store sensitive electronics in waterproof bags."
+            ],
+            "el": [
+              "Προστατευτικά φτερά είναι απαραίτητα σε αυτόν τον καιρό.",
+              "Αποφύγετε απότομη πέδηση σε βαμμένες οδικές σημάνσεις.",
+              "Φορέστε φωσφορίζοντα αδιάβροχα για καλύτερη ορατότητα.",
+              "Ελέγξτε τις τακάκια φρένων πριν ξεκινήσετε.",
+              "Αποθηκεύστε ευαίσθητα ηλεκτρονικά σε αδιάβροχες σακούλες."
             ]
           }
         },
@@ -913,7 +991,8 @@
             "de": "Die winterliche Radtour startet frisch am Democracy Square. Wir radeln durch den ruhigen Papastratos-Park und genießen die kühle Brise. Mittags besuchen wir die Kapralos-Galerie und wärmen uns in der Kirche auf. Der Nachmittag führt uns zum Museum und den Tabaklagern, wobei wir das Tageslicht optimal nutzen, bevor es am späten Nachmittag empfindlich abkühlt.",
             "hu": "A téli kerékpártúra frissen indul a Demokrácia térről. A csendes Papastratos-parkon keresztül tekerünk, élvezve a hűvös szellőt. Délben meglátogatjuk a Kapralos Galériát, és bemelegszünk a templomban. A délután a múzeumhoz és a dohányraktárakhoz vezet, maximálisan kihasználva a nappali fényt, mielőtt késő délután jelentősen lehűl az idő.",
             "ro": "Turul cu bicicleta de iarnă începe proaspăt în Piața Democrației. Pedalăm prin Parcul Papastratos liniștit, bucurându-ne de briza rece. La prânz vizităm Galeria Kapralos și ne încălzim în biserică. După-amiaza ne poartă la muzeu și la depozite, profitând la maxim de lumina zilei înainte ca temperatura să scadă brusc.",
-            "en": "The winter bike tour starts briskly at Democracy Square. We cycle through the quiet Papastratos Park, enjoying the cool breeze. At noon, we visit the Kapralos Gallery and warm up in the church. The afternoon leads us to the museum and tobacco warehouses, making the most of the daylight before it gets significantly colder in the late afternoon."
+            "en": "The winter bike tour starts briskly at Democracy Square. We cycle through the quiet Papastratos Park, enjoying the cool breeze. At noon, we visit the Kapralos Gallery and warm up in the church. The afternoon leads us to the museum and tobacco warehouses, making the most of the daylight before it gets significantly colder in the late afternoon.",
+            "el": "Η χειμερινή ποδηλατική διαδρομή ξεκινά ζωηρά στην Πλατεία Δημοκρατίας. Ποδηλατούμε μέσα από το ήσυχο Πάρκο Παπαστράτου απολαμβάνοντας το δροσερό αεράκι. Το μεσημέρι επισκεπτόμαστε την Πινακοθήκη Καπράλου και ζεσταινόμαστε στην εκκλησία. Το απόγευμα οδηγεί στο μουσείο και τις αποθήκες καπνού, εκμεταλλευόμενοι το φως της ημέρας πριν κρυώσει πολύ αργά το απόγευμα."
           },
           "stops": [
             {
@@ -922,7 +1001,8 @@
                 "de": "Tragen Sie winddichte Handschuhe für den Start.",
                 "hu": "Viseljen szélálló kesztyűt az induláshoz.",
                 "ro": "Purtați mănuși rezistente la vânt pentru început.",
-                "en": "Wear windproof gloves for the start."
+                "en": "Wear windproof gloves for the start.",
+                "el": "Φορέστε αντιανεμικά γάντια για την εκκίνηση."
               }
             },
             {
@@ -931,7 +1011,8 @@
                 "de": "Achtung bei Laub auf den Wegen; es kann rutschig sein.",
                 "hu": "Vigyázzon az utakon lévő levelekre; csúszósak lehetnek.",
                 "ro": "Atenție la frunzele de pe alei; pot fi alunecoase.",
-                "en": "Watch out for leaves on the paths; they can be slippery."
+                "en": "Watch out for leaves on the paths; they can be slippery.",
+                "el": "Προσέξτε τα φύλλα στα μονοπάτια· μπορεί να γλιστράνε."
               }
             },
             {
@@ -940,7 +1021,8 @@
                 "de": "Gute Gelegenheit, um die Finger wieder aufzuwärmen.",
                 "hu": "Jó alkalom az ujjak átmelegítésére.",
                 "ro": "O oportunitate bună pentru a vă încălzi degetele.",
-                "en": "A good opportunity to warm up your fingers."
+                "en": "A good opportunity to warm up your fingers.",
+                "el": "Καλή ευκαιρία να ζεστάνετε τα δάχτυλά σας."
               }
             },
             {
@@ -949,7 +1031,8 @@
                 "de": "Respektieren Sie die Stille, auch beim Abstellen der Räder.",
                 "hu": "Tisztelje a csendet a kerékpárok leállításakor is.",
                 "ro": "Respectați liniștea, chiar și când lăsați bicicletele.",
-                "en": "Respect the silence, even when parking your bikes."
+                "en": "Respect the silence, even when parking your bikes.",
+                "el": "Σεβαστείτε τη σιωπή, ακόμα και όταν παρκάρετε τα ποδήλατα."
               }
             },
             {
@@ -958,7 +1041,8 @@
                 "de": "In den Schattenzonen bleibt es den ganzen Tag kalt.",
                 "hu": "Az árnyékos részeken egész nap hideg maradhat.",
                 "ro": "În zonele umbrite rămâne frig toată ziua.",
-                "en": "In shaded areas, it stays cold all day long."
+                "en": "In shaded areas, it stays cold all day long.",
+                "el": "Σε σκιερές περιοχές, παραμένει κρύο όλη μέρα."
               }
             },
             {
@@ -967,7 +1051,8 @@
                 "de": "Sichern Sie Ihr Rad gut, bevor Sie ins Warme gehen.",
                 "hu": "Zárja le jól a kerékpárját, mielőtt bemenne a melegbe.",
                 "ro": "Asigurați bine bicicleta înainte de a intra la căldură.",
-                "en": "Lock your bike securely before heading into the heat."
+                "en": "Lock your bike securely before heading into the heat.",
+                "el": "Κλειδώστε καλά το ποδήλατό σας πριν μπείτε σε θερμό χώρο."
               }
             }
           ],
@@ -999,6 +1084,13 @@
               "Days are short; ensure your lights are working properly.",
               "A hot tea in a thermos works wonders.",
               "Wear a thin cap under your helmet."
+            ],
+            "el": [
+              "Θερμικά ρούχα είναι σημαντικά για δροσερές καταβάσεις.",
+              "Προσέξτε για παγωμένα σημεία σε σκιερά σημεία.",
+              "Οι μέρες είναι σύντομες· βεβαιωθείτε ότι τα φώτα λειτουργούν σωστά.",
+              "Ένα ζεστό τσάι σε θερμός κάνει θαύματα.",
+              "Φορέστε λεπτό σκουφάκι κάτω από το κράνος."
             ]
           }
         }
@@ -1017,7 +1109,8 @@
             "de": "Antikes Stratos",
             "hu": "Ókori Sztratosz",
             "ro": "Stratosul Antic",
-            "en": "Ancient Stratos"
+            "en": "Ancient Stratos",
+            "el": "Αρχαίο Στράτο"
           },
           "coords": [
             21.33,
@@ -1033,7 +1126,8 @@
             "de": "Fahren Sie früh los, um die Morgenkühle bei der Erkundung der Ruinen zu nutzen.",
             "hu": "Induljon korán, hogy kihasználja a reggeli hűvösséget a romok felfedezése közben.",
             "ro": "Plecați devreme pentru a profita de răcoarea dimineții în timp ce explorați ruinele.",
-            "en": "Leave early to take advantage of the morning cool while exploring the ruins."
+            "en": "Leave early to take advantage of the morning cool while exploring the ruins.",
+            "el": "Φύγετε νωρίς για να εκμεταλλευτείτε το πρωινό δροσερό κατά την εξερεύνηση των ερειπίων."
           }
         },
         {
@@ -1041,7 +1135,8 @@
             "de": "Dimokratias Platz (Cluster Agrinio Zentrum)",
             "hu": "Demokrácia tér (Agrinio Központ Klaszter)",
             "ro": "Piața Democrației (Cluster Centrul Agrinio)",
-            "en": "Democracy Square (Agrinio Center Cluster)"
+            "en": "Democracy Square (Agrinio Center Cluster)",
+            "el": "Πλατεία Δημοκρατίας (Cluster Κέντρο Αγρινίου)"
           },
           "coords": [
             21.4085,
@@ -1057,7 +1152,8 @@
             "de": "Parken Sie hier Ihr Auto für den Rest des Vormittags und erkunden Sie die Gegend zu Fuß.",
             "hu": "Parkolja le itt az autóját a délelőtt hátralévő részére, és fedezze fel a környéket gyalog.",
             "ro": "Parcați mașina aici pentru restul dimineții și explorați zona pe jos.",
-            "en": "Park your car here for the rest of the morning and explore the area on foot."
+            "en": "Park your car here for the rest of the morning and explore the area on foot.",
+            "el": "Παρκάρετε το αυτοκίνητό σας εδώ για το υπόλοιπο πρωί και εξερευνήστε την περιοχή με τα πόδια."
           }
         },
         {
@@ -1065,7 +1161,8 @@
             "de": "Papastrateio Archäologisches Museum",
             "hu": "Papasztrareio Régészeti Múzeum",
             "ro": "Muzeul Arheologic Papastrateio",
-            "en": "Papastrateio Archaeological Museum"
+            "en": "Papastrateio Archaeological Museum",
+            "el": "Παπαστρατείο Αρχαιολογικό Μουσείο"
           },
           "coords": [
             21.4095,
@@ -1081,7 +1178,8 @@
             "de": "Ein kurzer Spaziergang vom Platz entfernt, perfekt für die Mittagszeit.",
             "hu": "Rövid sétára a tértől, tökéletes ebédidőre.",
             "ro": "La o scurtă plimbare de piață, perfect pentru ora prânzului.",
-            "en": "A short walk from the square, perfect for midday."
+            "en": "A short walk from the square, perfect for midday.",
+            "el": "Μια σύντομη βόλτα από την πλατεία, ιδανική για μεσημέρι."
           }
         },
         {
@@ -1089,7 +1187,8 @@
             "de": "Mittagessen in einer Taverne",
             "hu": "Ebéd egy tavernában",
             "ro": "Prânz la o tavernă",
-            "en": "Lunch at a Taverna"
+            "en": "Lunch at a Taverna",
+            "el": "Μεσημεριανό σε Ταβέρνα"
           },
           "coords": [
             21.4075,
@@ -1105,7 +1204,8 @@
             "de": "Genießen Sie die lokale Küche, bevor Sie zum Auto zurückkehren.",
             "hu": "Élvezze a helyi konyhát, mielőtt visszatérne az autóhoz.",
             "ro": "Bucurați-vă de bucătăria locală înainte de a vă întoarce la mașină.",
-            "en": "Enjoy the local cuisine before heading back to the car."
+            "en": "Enjoy the local cuisine before heading back to the car.",
+            "el": "Απολαύστε την τοπική κουζίνα πριν επιστρέψετε στο αυτοκίνητο."
           }
         },
         {
@@ -1113,7 +1213,8 @@
             "de": "Trichonida-See (Cluster Seeufer)",
             "hu": "Trichonida-tó (Tóparti Klaszter)",
             "ro": "Lacul Trichonida (Cluster Malul Lacului)",
-            "en": "Lake Trichonida (Lakeshore Cluster)"
+            "en": "Lake Trichonida (Lakeshore Cluster)",
+            "el": "Λίμνη Τριχωνίδα (Cluster Ακτή Λίμνης)"
           },
           "coords": [
             21.52,
@@ -1129,7 +1230,8 @@
             "de": "Fahren Sie zum See für einen völlig anderen Landschaftseindruck.",
             "hu": "Autózzon el a tóhoz egy teljesen más tájélményért.",
             "ro": "Conduceți până la lac pentru o impresie peisagistică complet diferită.",
-            "en": "Drive to the lake for a complete change of scenery."
+            "en": "Drive to the lake for a complete change of scenery.",
+            "el": "Οδηγήστε μέχρι τη λίμνη για μια πλήρη αλλαγή τοπίου."
           }
         },
         {
@@ -1137,7 +1239,8 @@
             "de": "Spaziergang am Ufer",
             "hu": "Séta a parton",
             "ro": "Plimbare pe mal",
-            "en": "Walk along the shore"
+            "en": "Walk along the shore",
+            "el": "Περπατήστε κατά μήκος της ακτής"
           },
           "coords": [
             21.522,
@@ -1153,7 +1256,8 @@
             "de": "Ein entspannter Spaziergang am größten natürlichen See Griechenlands.",
             "hu": "Egy pihentető séta Görögország legnagyobb természetes tavánál.",
             "ro": "O plimbare relaxantă de-a lungul celui mai mare lac natural din Grecia.",
-            "en": "A relaxing walk along Greece's largest natural lake."
+            "en": "A relaxing walk along Greece's largest natural lake.",
+            "el": "Ένας χαλαρωτικός περίπατος κατά μήκος της μεγαλύτερης φυσικής λίμνης της Ελλάδας."
           }
         }
       ],
@@ -1161,7 +1265,8 @@
         "de": "Mit dem Auto können Sie die vielfältige Umgebung von Agrinio erkunden. Der Morgen beginnt mit einer Reise in die Vergangenheit im antiken Stratos. Zurück in der Stadt, parken Sie und erkunden das Zentrum zu Fuß, einschließlich des archäologischen Museums. Der Nachmittag bietet einen Kontrast mit einer Fahrt zum malerischen Trichonida-See, wo Sie die Natur und die Ruhe genießen können, weit weg vom städtischen Trubel.",
         "hu": "Autóval felfedezheti Agrinio változatos környékét. A reggel egy utazással kezdődik a múltba az ókori Sztratoszban. Visszatérve a városba, parkoljon le, és fedezze fel gyalog a központot, beleértve a régészeti múzeumot is. A délután kontrasztot kínál egy kirándulással a festői Trichonida-tóhoz, ahol élvezheti a természetet és a nyugalmat, távol a városi nyüzsgéstől.",
         "ro": "Cu mașina, puteți explora împrejurimile diverse ale Agrinio. Dimineața începe cu o călătorie în trecut la Stratosul Antic. Înapoi în oraș, parcați și explorați centrul pe jos, inclusiv muzeul arheologic. După-amiaza oferă un contrast cu o excursie la pitorescul Lac Trichonida, unde vă puteți bucura de natură și liniște, departe de agitația urbană.",
-        "en": "By car, you can explore the diverse surroundings of Agrinio. The morning begins with a journey into the past at Ancient Stratos. Back in the city, park your car and explore the center on foot, including the archaeological museum. The afternoon offers a contrast with a drive to the scenic Lake Trichonida, where you can enjoy nature and tranquility, far from the urban hustle."
+        "en": "By car, you can explore the diverse surroundings of Agrinio. The morning begins with a journey into the past at Ancient Stratos. Back in the city, park your car and explore the center on foot, including the archaeological museum. The afternoon offers a contrast with a drive to the scenic Lake Trichonida, where you can enjoy nature and tranquility, far from the urban hustle.",
+        "el": "Με αυτοκίνητο μπορείτε να εξερευνήσετε τις διαφορετικές περιοχές γύρω από το Αγρίνιο. Το πρωί ξεκινά με ένα ταξίδι στο παρελθόν στο Αρχαίο Στράτο. Πίσω στην πόλη, παρκάρετε και εξερευνάτε το κέντρο με τα πόδια, συμπεριλαμβανομένου του αρχαιολογικού μουσείου. Το απόγευμα προσφέρει μια αντίθεση με μια διαδρομή προς την γραφική Λίμνη Τριχωνίδα, όπου μπορείτε να απολαύσετε τη φύση και την ηρεμία, μακριά από τη φασαρία της πόλης."
       },
       "gastro_picks": {
         "de": [
@@ -1301,6 +1406,11 @@
           "Check the opening hours of the archaeological sites.",
           "Bring cash for small purchases in the countryside.",
           "Be mindful of parking in the city."
+        ],
+        "el": [
+          "Ελέγξτε τις ώρες λειτουργίας των αρχαιολογικών χώρων.",
+          "Πάρτε μετρητά για μικρές αγορές στην ύπαιθρο.",
+          "Να είστε προσεκτικοί με τη στάθμευση στην πόλη."
         ]
       },
       "variants": {
@@ -1309,7 +1419,8 @@
             "de": "Wir starten unsere Fahrt zum antiken Stratos im Regen, was den Ruinen eine mystische Aura verleiht. Mittags parken wir bequem im Zentrum am Democracy Square für einen kurzen Stadtbummel. Nach dem Museumsbesuch genießen wir ein ausgiebiges Mittagessen in einer warmen Taverne. Den Nachmittag verbringen wir am Trichonida-See, wo wir die Aussicht geschützt aus dem Auto genießen.",
             "hu": "Az esőben indulunk az ókori Stratoshoz, ami misztikus aurát kölcsönöz a romoknak. Délben kényelmesen parkolunk a központban, a Demokrácia térnél egy rövid városi sétához. A múzeumlátogatás után bőséges ebédet fogyasztunk egy meleg tavernában. A délutánt a Trichonida-tónál töltjük, ahol az autóból, védett helyről élvezzük a kilátást.",
             "ro": "Pornim spre anticul Stratos în ploaie, ceea ce conferă ruinelor o aură mistică. La prânz parcăm confortabil în centru, lângă Piața Democrației, pentru o scurtă plimbare. După vizita la muzeu, savurăm un prânz copios într-o tavernă caldă. După-amiaza o petrecem la Lacul Trichonida, admirând priveliștea din mașină, la adăpost.",
-            "en": "We start our drive to Ancient Stratos in the rain, giving the ruins a mystical aura. At noon, we park conveniently in the center near Democracy Square for a quick stroll. After the museum visit, we enjoy a hearty lunch in a warm taverna. We spend the afternoon at Lake Trichonida, enjoying the views from the comfort of the car."
+            "en": "We start our drive to Ancient Stratos in the rain, giving the ruins a mystical aura. At noon, we park conveniently in the center near Democracy Square for a quick stroll. After the museum visit, we enjoy a hearty lunch in a warm taverna. We spend the afternoon at Lake Trichonida, enjoying the views from the comfort of the car.",
+            "el": "Ξεκινάμε την οδήγηση προς το Αρχαίο Στράτο στη βροχή, δίνοντας στα ερείπια μια μυστηριακή αίσθηση. Το μεσημέρι παρκάρουμε βολικά στο κέντρο κοντά στην Πλατεία Δημοκρατίας για έναν γρήγορο περίπατο. Μετά την επίσκεψη στο μουσείο, απολαμβάνουμε ένα χορταστικό γεύμα σε μια ζεστή ταβέρνα. Το απόγευμα περνάμε στη Λίμνη Τριχωνίδα, απολαμβάνοντας τη θέα από την άνεση του αυτοκινήτου."
           },
           "stops": [
             {
@@ -1318,7 +1429,8 @@
                 "de": "Der Weg zu den Ruinen kann bei Regen sehr schlammig sein.",
                 "hu": "A romokhoz vezető út esőben nagyon sáros lehet.",
                 "ro": "Drumul spre ruine poate fi foarte noroios în caz de ploaie.",
-                "en": "The path to the ruins can be very muddy in the rain."
+                "en": "The path to the ruins can be very muddy in the rain.",
+                "el": "Το μονοπάτι προς τα ερείπια μπορεί να γίνει πολύ λασπώδες στη βροχή."
               }
             },
             {
@@ -1327,7 +1439,8 @@
                 "de": "Parkhäuser in der Nähe nutzen, um trocken ins Zentrum zu kommen.",
                 "hu": "Használja a közeli parkolóházakat, hogy szárazon jusson a központba.",
                 "ro": "Folosiți parcările supraetajate din apropiere pentru a ajunge uscat în centru.",
-                "en": "Use nearby parking garages to stay dry while heading to the center."
+                "en": "Use nearby parking garages to stay dry while heading to the center.",
+                "el": "Χρησιμοποιήστε τα κοντινά γκαράζ στάθμευσης για να μείνετε στεγνοί όταν πηγαίνετε στο κέντρο."
               }
             },
             {
@@ -1336,7 +1449,8 @@
                 "de": "Parken Sie direkt davor für minimalen Gehweg im Regen.",
                 "hu": "Parkoljon közvetlenül előtte, hogy minimálisat kelljen gyalogolnia.",
                 "ro": "Parcați chiar în față pentru a merge cât mai puțin prin ploaie.",
-                "en": "Park directly in front to minimize walking in the rain."
+                "en": "Park directly in front to minimize walking in the rain.",
+                "el": "Σταθμεύστε ακριβώς μπροστά για να ελαχιστοποιήσετε το περπάτημα στη βροχή."
               }
             },
             {
@@ -1345,7 +1459,8 @@
                 "de": "Ideale Zeit, um die Kleidung trocknen zu lassen.",
                 "hu": "Ideális időpont a ruházat megszárítására.",
                 "ro": "Momentul ideal pentru a vă usca hainele.",
-                "en": "Ideal time to let your clothes dry."
+                "en": "Ideal time to let your clothes dry.",
+                "el": "Ιδανικός χρόνος για να στεγνώσουν τα ρούχα σας."
               }
             },
             {
@@ -1354,7 +1469,8 @@
                 "de": "Vorsicht auf den ufernahen Straßen; Rutschgefahr.",
                 "hu": "Vigyázzon a tóparti utakon; csúszásveszély.",
                 "ro": "Atenție pe drumurile de pe malul lacului; pericol de derapare.",
-                "en": "Caution on the lakeshore roads; risk of skidding."
+                "en": "Caution on the lakeshore roads; risk of skidding.",
+                "el": "Προσοχή στους δρόμους της λίμνης· κίνδυνος ολίσθησης."
               }
             },
             {
@@ -1363,7 +1479,8 @@
                 "de": "Nur bei Regenpause empfehlenswert, sonst Aussichtspunkt wählen.",
                 "hu": "Csak esőszünetben ajánlott, különben válasszon egy kilátót.",
                 "ro": "Recomandat doar în pauzele de ploaie, altfel alegeți un punct de observație.",
-                "en": "Recommended only during rain breaks; otherwise, choose a viewpoint."
+                "en": "Recommended only during rain breaks; otherwise, choose a viewpoint.",
+                "el": "Συνιστάται μόνο κατά διαλείμματα της βροχής· αλλιώς επιλέξτε ένα σημείο παρατήρησης."
               }
             }
           ],
@@ -1395,6 +1512,13 @@
               "Maintain a safe following distance on wet roads.",
               "An umbrella in the trunk is invaluable during stops.",
               "Avoid unpaved road shoulders near the lake."
+            ],
+            "el": [
+              "Ελέγξτε τους υαλοκαθαριστήρες πριν ξεκινήσετε.",
+              "Μπορεί να υπάρχει ομίχλη στα βουνά γύρω από τη λίμνη.",
+              "Διατηρήστε ασφαλή απόσταση στο βρεγμένο οδόστρωμα.",
+              "Μια ομπρέλα στο πορτ‑μπαγκάζ είναι ανεκτίμητη κατά τις στάσεις.",
+              "Αποφύγετε τους μη ασφαλτοστρωμένους ώμους κοντά στη λίμνη."
             ]
           }
         },
@@ -1403,7 +1527,8 @@
             "de": "Der Wintermorgen führt uns zum antiken Stratos, wo die Ruinen in kühlem Licht glänzen. Mittags kehren wir ins Zentrum von Agrinio zurück und besuchen das Museum. Ein wärmendes Mittagessen stärkt uns für die Fahrt zum Trichonida-See am Nachmittag. Dort genießen wir die winterliche Stille und den frühen Sonnenuntergang über dem Wasser, bevor wir die Heizung im Auto wieder aufdrehen.",
             "hu": "A téli reggel az ókori Stratoshoz vezet, ahol a romok hűvös fényben ragyognak. Délben visszatérünk Agrinio központjába, és meglátogatjuk a múzeumot. Egy melengető ebéd után délután a Trichonida-tóhoz autózunk. Ott élvezzük a téli csendet és a víz feletti korai naplementét, mielőtt újra feltekernénk az autó fűtését.",
             "ro": "Dimineața de iarnă ne poartă spre anticul Stratos, unde ruinele strălucesc în lumină rece. La prânz ne întoarcem în centrul orașului Agrinio și vizităm muzeul. Un prânz cald ne întărește pentru drumul spre Lacul Trichonida de după-amiază. Acolo ne bucurăm de liniștea hibernală și de apusul devreme peste apă, înainte de a porni iar căldura în mașină.",
-            "en": "The winter morning takes us to Ancient Stratos, where the ruins gleam in cool light. At noon, we return to the center of Agrinio and visit the museum. A warming lunch sustains us for the drive to Lake Trichonida in the afternoon. There, we enjoy the wintry silence and the early sunset over the water before turning the car heater back up."
+            "en": "The winter morning takes us to Ancient Stratos, where the ruins gleam in cool light. At noon, we return to the center of Agrinio and visit the museum. A warming lunch sustains us for the drive to Lake Trichonida in the afternoon. There, we enjoy the wintry silence and the early sunset over the water before turning the car heater back up.",
+            "el": "Το χειμερινό πρωινό μας οδηγεί στην Αρχαία Στράτο, όπου τα ερείπια αστράφτουν στο ψυχρό φως. Στο μεσημέρι επιστρέφουμε στο κέντρο του Αγρινίου και επισκεπτόμαστε το μουσείο. Ένα ζεστό γεύμα μας δίνει δυνάμεις για την οδήγηση προς τη Λίμνη Τριχωνίδα το απόγευμα. Εκεί απολαμβάνουμε τη χειμωνιάτικη σιωπή και το πρώιμο ηλιοβασίλεμα πάνω στο νερό πριν ανεβάσουμε ξανά τη θέρμανση του αυτοκινήτου."
           },
           "stops": [
             {
@@ -1412,7 +1537,8 @@
                 "de": "Bodenfrost kann die Wege zu den Ruinen glatt machen.",
                 "hu": "A talajmenti fagy csúszóssá teheti a romokhoz vezető utakat.",
                 "ro": "Înghețul la sol poate face potecile spre ruine alunecoase.",
-                "en": "Ground frost can make the paths to the ruins slippery."
+                "en": "Ground frost can make the paths to the ruins slippery.",
+                "el": "Το πάγο στο έδαφος μπορεί να κάνει τα μονοπάτια προς τα ερείπια ολισθηρά."
               }
             },
             {
@@ -1421,7 +1547,8 @@
                 "de": "Parkplätze sind im Winter im Zentrum leichter zu finden.",
                 "hu": "Télen könnyebb parkolóhelyet találni a központban.",
                 "ro": "Locurile de parcare sunt mai ușor de găsit în centru iarna.",
-                "en": "Parking spots are easier to find in the center during winter."
+                "en": "Parking spots are easier to find in the center during winter.",
+                "el": "Οι θέσεις στάθμευσης είναι πιο εύκολες στο κέντρο τον χειμώνα."
               }
             },
             {
@@ -1430,7 +1557,8 @@
                 "de": "Ein schöner Ort, um der Mittagskälte zu entfliehen.",
                 "hu": "Kellemes hely a déli hideg elől való menekülésre.",
                 "ro": "Un loc plăcut pentru a scăpa de frigul de la amiază.",
-                "en": "A nice place to escape the midday cold."
+                "en": "A nice place to escape the midday cold.",
+                "el": "Ένας ωραίος χώρος για να ξεφύγετε από το μεσημεριανό κρύο."
               }
             },
             {
@@ -1439,7 +1567,8 @@
                 "de": "Probieren Sie lokale Fleischgerichte, die im Winter beliebt sind.",
                 "hu": "Kóstolja meg a helyi húsételeket, amelyek télen népszerűek.",
                 "ro": "Gustați preparatele locale din carne, populare iarna.",
-                "en": "Try local meat dishes that are popular in winter."
+                "en": "Try local meat dishes that are popular in winter.",
+                "el": "Δοκιμάστε τοπικά κρεατικά πιάτα που είναι δημοφιλή το χειμώνα."
               }
             },
             {
@@ -1448,7 +1577,8 @@
                 "de": "Die Temperatur am See ist oft niedriger als in der Stadt.",
                 "hu": "A tóparti hőmérséklet gyakran alacsonyabb, mint a városban.",
                 "ro": "Temperatura la lac este adesea mai mică decât în oraș.",
-                "en": "The temperature at the lake is often lower than in the city."
+                "en": "The temperature at the lake is often lower than in the city.",
+                "el": "Η θερμοκρασία στη λίμνη είναι συχνά χαμηλότερη από την πόλη."
               }
             },
             {
@@ -1457,7 +1587,8 @@
                 "de": "Packen Sie eine warme Decke für kurze Pausen am Wasser ein.",
                 "hu": "Készítsen be egy meleg takarót a vízparti pihenőkhöz.",
                 "ro": "Luați o pătură caldă pentru scurte pauze lângă apă.",
-                "en": "Pack a warm blanket for short breaks by the water."
+                "en": "Pack a warm blanket for short breaks by the water.",
+                "el": "Πακετάρετε μια ζεστή κουβέρτα για σύντομα διαλείμματα δίπλα στο νερό."
               }
             }
           ],
@@ -1489,6 +1620,13 @@
               "Roads in higher elevations can be slippery in the mornings.",
               "Take hot drinks with you for the drive.",
               "Plan your return journey before 5:30 PM."
+            ],
+            "el": [
+              "Προσέξτε την άγρια ζωή στο σούρουπο κοντά στη λίμνη.",
+              "Βεβαιωθείτε ότι το σύστημα θέρμανσης του αυτοκινήτου λειτουργεί καλά.",
+              "Οι δρόμοι σε υψηλότερα υψόμετρα μπορεί να είναι ολισθηροί το πρωί.",
+              "Πάρτε ζεστά ροφήματα μαζί σας για την οδήγηση.",
+              "Σχεδιάστε την επιστροφή προτού τις 17:30."
             ]
           }
         }
@@ -1507,7 +1645,8 @@
             "de": "Dimokratias Platz (Cluster Zentrum)",
             "hu": "Demokrácia tér (Központ Klaszter)",
             "ro": "Piața Democrației (Cluster Centru)",
-            "en": "Democracy Square (Center Cluster)"
+            "en": "Democracy Square (Center Cluster)",
+            "el": "Πλατεία Δημοκρατίας (Κεντρικός Τομέας)"
           },
           "coords": [
             21.4085,
@@ -1523,7 +1662,8 @@
             "de": "Nehmen Sie den Bus ins Zentrum, um Ihren Tag zu beginnen.",
             "hu": "A nap indításához szálljon buszra a központ felé.",
             "ro": "Luați autobuzul spre centru pentru a vă începe ziua.",
-            "en": "Take a bus to the center to start your day."
+            "en": "Take a bus to the center to start your day.",
+            "el": "Πάρτε λεωφορείο προς το κέντρο για να ξεκινήσετε τη μέρα σας."
           }
         },
         {
@@ -1531,7 +1671,8 @@
             "de": "Kirche Agios Christoforos",
             "hu": "Szent Kristóf-templom",
             "ro": "Biserica Sfântul Cristofor",
-            "en": "Church of Saint Christopher"
+            "en": "Church of Saint Christopher",
+            "el": "Εκκλησία του Αγίου Χριστοφόρου"
           },
           "coords": [
             21.407,
@@ -1547,7 +1688,8 @@
             "de": "Vom Platz aus leicht zu Fuß erreichbar.",
             "hu": "Könnyen megközelíthető gyalog a térről.",
             "ro": "Ușor de ajuns pe jos din piață.",
-            "en": "Easily walkable from the square."
+            "en": "Easily walkable from the square.",
+            "el": "Εύκολα προσβάσιμη με τα πόδια από την πλατεία."
           }
         },
         {
@@ -1555,7 +1697,8 @@
             "de": "Tabakspeicher",
             "hu": "Dohányraktárak",
             "ro": "Depozitele de tutun",
-            "en": "Tobacco Warehouses"
+            "en": "Tobacco Warehouses",
+            "el": "Καπναποθήκες"
           },
           "coords": [
             21.405,
@@ -1571,7 +1714,8 @@
             "de": "Schlendern Sie durch die Straßen, um dieses einzigartige Erbe zu sehen.",
             "hu": "Sétáljon végig az utcákon, hogy megnézze ezt az egyedülálló örökséget.",
             "ro": "Plimbați-vă pe străzi pentru a vedea această moștenire unică.",
-            "en": "Stroll through the streets to see this unique heritage."
+            "en": "Stroll through the streets to see this unique heritage.",
+            "el": "Περπατήστε στους δρόμους για να δείτε αυτή τη μοναδική κληρονομιά."
           }
         },
         {
@@ -1579,7 +1723,8 @@
             "de": "Papastrateio Archäologisches Museum (Cluster Museum)",
             "hu": "Papasztrareio Régészeti Múzeum (Múzeum Klaszter)",
             "ro": "Muzeul Arheologic Papastrateio (Cluster Muzeu)",
-            "en": "Papastrateio Archaeological Museum (Museum Cluster)"
+            "en": "Papastrateio Archaeological Museum (Museum Cluster)",
+            "el": "Αρχαιολογικό Μουσείο Παπαστράτειο (Τομέας Μουσείων)"
           },
           "coords": [
             21.4095,
@@ -1595,7 +1740,8 @@
             "de": "Nehmen Sie einen Bus zum nächsten Cluster von Sehenswürdigkeiten.",
             "hu": "Szálljon buszra a következő látnivalócsoporthoz.",
             "ro": "Luați un autobuz către următorul cluster de atracții.",
-            "en": "Take a bus to the next cluster of attractions."
+            "en": "Take a bus to the next cluster of attractions.",
+            "el": "Πάρτε λεωφορείο προς τον επόμενο τομέα αξιοθέατων."
           }
         },
         {
@@ -1603,7 +1749,8 @@
             "de": "Christos Kapralos Galerie",
             "hu": "Chrisztosz Kapralosz Galéria",
             "ro": "Galeria Christos Kapralos",
-            "en": "Christos Kapralos Gallery"
+            "en": "Christos Kapralos Gallery",
+            "el": "Γκαλερί Χρήστου Καπράλου"
           },
           "coords": [
             21.411,
@@ -1619,7 +1766,8 @@
             "de": "Ein weiterer Kunstort, nur einen kurzen Spaziergang entfernt.",
             "hu": "Egy másik művészeti helyszín, csak egy rövid sétára.",
             "ro": "Un alt loc de artă, la doar o scurtă plimbare.",
-            "en": "Another art spot just a short walk away."
+            "en": "Another art spot just a short walk away.",
+            "el": "Άλλος ένας χώρος τέχνης σε μικρή απόσταση με τα πόδια."
           }
         },
         {
@@ -1627,7 +1775,8 @@
             "de": "Papastratos Park",
             "hu": "Papasztratosz Park",
             "ro": "Parcul Papastratos",
-            "en": "Papastratos Park"
+            "en": "Papastratos Park",
+            "el": "Πάρκο Παπαστράτου"
           },
           "coords": [
             21.413,
@@ -1643,7 +1792,8 @@
             "de": "Entspannen Sie sich im Park, bevor Sie den Bus nach Hause nehmen.",
             "hu": "Pihenjen a parkban, mielőtt hazabuszozna.",
             "ro": "Relaxați-vă în parc înainte de a lua autobuzul spre casă.",
-            "en": "Relax in the park before taking the bus home."
+            "en": "Relax in the park before taking the bus home.",
+            "el": "Χαλαρώστε στο πάρκο πριν πάρετε το λεωφορείο για το σπίτι."
           }
         }
       ],
@@ -1651,7 +1801,8 @@
         "de": "Mit den öffentlichen Verkehrsmitteln können Sie Agrinio effizient erleben. Der Tag beginnt im Herzen der Stadt, am Dimokratias Platz. Ein kurzer Spaziergang führt Sie zur Agios Christoforos Kirche. Nach der Erkundung des Zentrums bringt Sie ein Bus zum Museumsviertel, wo Sie Kunst und Archäologie entdecken. Der Tag endet im entspannten Papastratos Park, von wo aus Sie bequem Ihre Rückreise antreten können.",
         "hu": "A tömegközlekedéssel hatékonyan fedezheti fel Agriniót. A nap a város szívében, a Demokrácia téren kezdődik. Egy rövid séta elvezeti az Agiosz Krisztoforosz templomhoz. A központ felfedezése után egy busz elviszi a múzeumi negyedbe, ahol művészetet és régészetet fedezhet fel. A nap a pihentető Papasztratosz Parkban ér véget, ahonnan kényelmesen megkezdheti a hazautat.",
         "ro": "Cu transportul public, puteți experimenta Agrinio eficient. Ziua începe în inima orașului, în Piața Democrației. O scurtă plimbare vă duce la Biserica Sfântul Cristofor. După explorarea centrului, un autobuz vă duce în cartierul muzeelor, unde veți descoperi artă și arheologie. Ziua se încheie în relaxantul Parc Papastratos, de unde puteți începe călătoria de întoarcere.",
-        "en": "Using public transport, you can experience Agrinio efficiently. The day starts in the heart of the city, at Democracy Square. A short walk takes you to the Church of Saint Christopher. After exploring the center, a bus takes you to the museum district to discover art and archaeology. The day ends in the relaxing Papastratos Park, from where you can conveniently start your journey back."
+        "en": "Using public transport, you can experience Agrinio efficiently. The day starts in the heart of the city, at Democracy Square. A short walk takes you to the Church of Saint Christopher. After exploring the center, a bus takes you to the museum district to discover art and archaeology. The day ends in the relaxing Papastratos Park, from where you can conveniently start your journey back.",
+        "el": "Χρησιμοποιώντας τα μέσα μαζικής μεταφοράς, μπορείτε να δείτε το Αγρίνιο αποδοτικά. Η μέρα ξεκινά στην καρδιά της πόλης, στην Πλατεία Δημοκρατίας. Μια σύντομη βόλτα σας οδηγεί στην Εκκλησία του Αγίου Χριστοφόρου. Μετά την εξερεύνηση του κέντρου, ένα λεωφορείο σας πηγαίνει στη γειτονιά των μουσείων για τέχνη και αρχαιολογία. Η μέρα τελειώνει στο χαλαρωτικό Πάρκο Παπαστράτου, από όπου μπορείτε άνετα να ξεκινήσετε την επιστροφή."
       },
       "gastro_picks": {
         "de": [
@@ -1791,6 +1942,11 @@
           "Buy a day pass for the bus to save money.",
           "Have the bus schedule handy.",
           "Validate your ticket on every ride."
+        ],
+        "el": [
+          "Αγοράστε ημερήσιο εισιτήριο λεωφορείου για να εξοικονομήσετε χρήματα.",
+          "Έχετε το πρόγραμμα των λεωφορείων διαθέσιμο.",
+          "Επικυρώνετε το εισιτήριο σε κάθε διαδρομή."
         ]
       },
       "variants": {
@@ -1799,7 +1955,8 @@
             "de": "Mit dem Bus erreichen wir im Regen den Democracy Square. Wir nutzen die kurzen Wege zwischen den Haltestellen und der Kirche sowie den Tabaklagern. Der Nachmittag ist ideal für die Museen, die wir bequem per Transit erreichen, ohne nass zu werden. Den Abschluss bildet ein kurzer Besuch im Papastratos-Park, bevor wir die Heimreise im trockenen Bus antreten.",
             "hu": "Busszal érkezünk az esőben a Demokrácia térre. Kihasználjuk a megállók és a templom, valamint a dohányraktárak közötti rövid távolságokat. A délután ideális a múzeumokhoz, amelyeket tömegközlekedéssel kényelmesen, ázás nélkül érünk el. A napot egy rövid parklátogatással zárjuk, mielőtt a száraz buszon hazaindulnánk.",
             "ro": "Ajungem cu autobuzul în Piața Democrației pe ploaie. Profităm de distanțele scurte între stații, biserică și depozitele de tutun. După-amiaza este ideală pentru muzee, unde ajungem confortabil cu transportul public fără să ne udăm. Încheiem cu o scurtă vizită în parcul Papastratos înainte de drumul spre casă.",
-            "en": "We reach Democracy Square by bus in the rain. We take advantage of the short distances between stops, the church, and the tobacco warehouses. The afternoon is ideal for museums, which we reach comfortably via transit without getting soaked. We wrap up with a quick park visit before heading home on a dry bus."
+            "en": "We reach Democracy Square by bus in the rain. We take advantage of the short distances between stops, the church, and the tobacco warehouses. The afternoon is ideal for museums, which we reach comfortably via transit without getting soaked. We wrap up with a quick park visit before heading home on a dry bus.",
+            "el": "Φτάνουμε στην Πλατεία Δημοκρατίας με λεωφορείο στη βροχή. Εκμεταλλευόμαστε τις μικρές αποστάσεις μεταξύ στάσεων, της εκκλησίας και των καπναποθηκών. Το απόγευμα είναι ιδανικό για μουσεία, τα οποία φτάνουμε άνετα με το μέσο χωρίς να βραχούμε. Κλείνουμε με μια σύντομη επίσκεψη στο πάρκο πριν γυρίσουμε σπίτι με ξηρό λεωφορείο."
           },
           "stops": [
             {
@@ -1808,7 +1965,8 @@
                 "de": "Zentrale Bushaltestellen mit Unterstand nutzen.",
                 "hu": "Használja a központi buszmegállókat, amelyek fedettek.",
                 "ro": "Folosiți stațiile de autobuz centrale care au adăpost.",
-                "en": "Use central bus stops that have shelters."
+                "en": "Use central bus stops that have shelters.",
+                "el": "Χρησιμοποιήστε κεντρικές στάσεις λεωφορείου που έχουν υπόστεγα."
               }
             },
             {
@@ -1817,7 +1975,8 @@
                 "de": "Die Haltestelle ist nur wenige Schritte entfernt.",
                 "hu": "A megálló csak néhány lépésre található.",
                 "ro": "Stația este la doar câțiva pași distanță.",
-                "en": "The stop is only a few steps away."
+                "en": "The stop is only a few steps away.",
+                "el": "Η στάση είναι μόνο λίγα βήματα μακριά."
               }
             },
             {
@@ -1826,7 +1985,8 @@
                 "de": "Vorsicht beim Aussteigen; Pfützenbildung am Bordstein.",
                 "hu": "Vigyázzon a leszálláskor; tócsák lehetnek a padkánál.",
                 "ro": "Atenție la coborâre; se pot forma bălți lângă bordură.",
-                "en": "Be careful when getting off; puddles may form near the curb."
+                "en": "Be careful when getting off; puddles may form near the curb.",
+                "el": "Προσοχή κατά την αποβίβαση· γίνονται λακκούβες κοντά στο κράσπεδο."
               }
             },
             {
@@ -1835,7 +1995,8 @@
                 "de": "Der Bus hält fast direkt vor dem Eingang.",
                 "hu": "A busz szinte közvetlenül a bejárat előtt áll meg.",
                 "ro": "Autobuzul oprește aproape chiar în fața intrării.",
-                "en": "The bus stops almost directly in front of the entrance."
+                "en": "The bus stops almost directly in front of the entrance.",
+                "el": "Το λεωφορείο σταματά σχεδόν ακριβώς μπροστά από την είσοδο."
               }
             },
             {
@@ -1844,7 +2005,8 @@
                 "de": "Trockener Wartebereich im Museum nebenan nutzen.",
                 "hu": "Használja a szomszédos múzeum száraz váróterét.",
                 "ro": "Folosiți zona de așteptare uscată din muzeul de alături.",
-                "en": "Use the dry waiting area in the museum next door."
+                "en": "Use the dry waiting area in the museum next door.",
+                "el": "Χρησιμοποιήστε την ξηρή αίθουσα αναμονής στο διπλανό μουσείο."
               }
             },
             {
@@ -1853,7 +2015,8 @@
                 "de": "Planen Sie die Rückfahrt so, dass Sie nicht lange im Regen warten.",
                 "hu": "Tervezze meg a visszautat, hogy ne kelljen sokat várnia az esőben.",
                 "ro": "Planificați întoarcerea astfel încât să nu așteptați mult în ploaie.",
-                "en": "Plan your return trip so you don't have to wait long in the rain."
+                "en": "Plan your return trip so you don't have to wait long in the rain.",
+                "el": "Σχεδιάστε την επιστροφή ώστε να μην περιμένετε πολύ στη βροχή."
               }
             }
           ],
@@ -1885,6 +2048,13 @@
               "Use the app for real-time departure information.",
               "Wear a quick-drying raincoat.",
               "Bus windows may fog up during rain."
+            ],
+            "el": [
+              "Έχετε μικρό αλλάκ για το εισιτήριο του λεωφορείου.",
+              "Τα λεωφορεία μπορεί να είναι πιο γεμάτα από το συνηθισμένο στη βροχή.",
+              "Χρησιμοποιήστε την εφαρμογή για πληροφορίες αναχωρήσεων σε πραγματικό χρόνο.",
+              "Φορέστε αδιάβροχο γρήγορου στεγνώματος.",
+              "Τα παράθυρα των λεωφορείων μπορεί να θαμπώσουν στη βροχή."
             ]
           }
         },
@@ -1893,7 +2063,8 @@
             "de": "Wir nutzen den Transit für einen winterlichen Tag in Agrinio. Der Morgen am Democracy Square ist frisch, aber der Bus bringt uns schnell ins Warme. Mittags besichtigen wir die Sehenswürdigkeiten und wärmen uns in den Museen auf. Der Transit ermöglicht es uns, flexibel zu bleiben, bevor wir den Sonnenuntergang im Park genießen und mit dem beheizten Bus bequem zurückfahren.",
             "hu": "Tömegközlekedést használunk egy téli naphoz Agrinióban. A reggel a Demokrácia téren friss, de a busz gyorsan a melegbe repít minket. Délben megnézzük a látnivalókat, és a múzeumokban melegszünk fel. A tömegközlekedés lehetővé teszi a rugalmasságot, mielőtt élveznénk a naplementét a parkban, majd a fűtött busszal kényelmesen hazatérnénk.",
             "ro": "Folosim transportul public pentru o zi de iarnă în Agrinio. Dimineața în Piața Democrației este proaspătă, dar autobuzul ne duce rapid la căldură. La prânz vizităm atracțiile și ne încălzim în muzee. Transportul public ne permite să rămânem flexibili înainte de a ne bucura de apus în parc, apoi ne întoarcem confortabil cu autobuzul încălzit.",
-            "en": "We use transit for a winter day in Agrinio. The morning at Democracy Square is crisp, but the bus quickly gets us into the warmth. At noon, we see the sights and warm up in the museums. Transit allows us to stay flexible before enjoying the sunset in the park and returning comfortably by heated bus."
+            "en": "We use transit for a winter day in Agrinio. The morning at Democracy Square is crisp, but the bus quickly gets us into the warmth. At noon, we see the sights and warm up in the museums. Transit allows us to stay flexible before enjoying the sunset in the park and returning comfortably by heated bus.",
+            "el": "Χρησιμοποιούμε τις μεταφορές για μια χειμωνιάτικη μέρα στο Αγρίνιο. Το πρωινό στην Πλατεία Δημοκρατίας είναι δροσερό, αλλά το λεωφορείο μας βάζει γρήγορα στη ζεστασιά. Στο μεσημέρι βλέπουμε τα αξιοθέατα και ζεσταινόμαστε στα μουσεία. Οι μεταφορές μας κρατούν ευέλικτους πριν απολαύσουμε το ηλιοβασίλεμα στο πάρκο και γυρίσουμε άνετα με θερμαινόμενο λεωφορείο."
           },
           "stops": [
             {
@@ -1902,7 +2073,8 @@
                 "de": "Die Wartehäuschen bieten Schutz vor kaltem Wind.",
                 "hu": "A várótermek védelmet nyújtanak a hideg szél ellen.",
                 "ro": "Refugiile oferă protecție împotriva vântului rece.",
-                "en": "The shelters provide protection against the cold wind."
+                "en": "The shelters provide protection against the cold wind.",
+                "el": "Τα υπόστεγα προσφέρουν προστασία από τον ψυχρό άνεμο."
               }
             },
             {
@@ -1911,7 +2083,8 @@
                 "de": "In den Abendstunden sind die Busse hier seltener.",
                 "hu": "Az esti órákban a buszok ritkábban járnak erre.",
                 "ro": "Autobuzele circulă mai rar aici în orele serii.",
-                "en": "Buses run less frequently here in the evening hours."
+                "en": "Buses run less frequently here in the evening hours.",
+                "el": "Τα λεωφορεία περνούν λιγότερο συχνά εδώ τις βραδινές ώρες."
               }
             },
             {
@@ -1920,7 +2093,8 @@
                 "de": "Halten Sie sich im Bus von der Tür fern, um Zugluft zu vermeiden.",
                 "hu": "Maradjon távol az ajtótól a buszon a huzat elkerülése érdekében.",
                 "ro": "Stați departe de ușă în autobuz pentru a evita curentul.",
-                "en": "Stay away from the door on the bus to avoid drafts."
+                "en": "Stay away from the door on the bus to avoid drafts.",
+                "el": "Μείνετε μακριά από την πόρτα του λεωφορείου για να αποφύγετε ρεύματα αέρα."
               }
             },
             {
@@ -1929,7 +2103,8 @@
                 "de": "Guter Ort, um auf den nächsten Bus im Warmen zu warten.",
                 "hu": "Jó hely a következő busz megvárására a melegben.",
                 "ro": "Un loc bun pentru a aștepta următorul autobuz la căldură.",
-                "en": "A good place to wait for the next bus in the warmth."
+                "en": "A good place to wait for the next bus in the warmth.",
+                "el": "Ένας καλός χώρος να περιμένετε το επόμενο λεωφορείο ζεστά."
               }
             },
             {
@@ -1938,7 +2113,8 @@
                 "de": "Nutzen Sie den Transit, um die Abendkälte zu überbrücken.",
                 "hu": "Használja a tömegközlekedést az esti hideg áthidalására.",
                 "ro": "Folosiți transportul public pentru a evita frigul serii.",
-                "en": "Use transit to bridge the evening cold."
+                "en": "Use transit to bridge the evening cold.",
+                "el": "Χρησιμοποιήστε τις μεταφορές για να γεφυρώσετε το βραδινό κρύο."
               }
             },
             {
@@ -1947,7 +2123,8 @@
                 "de": "Die letzte Busverbindung vor Einbruch der Dunkelheit prüfen.",
                 "hu": "Ellenőrizze az utolsó buszjáratot sötétedés előtt.",
                 "ro": "Verificați ultima cursă de autobuz înainte de lăsarea întunericului.",
-                "en": "Check the last bus connection before dark."
+                "en": "Check the last bus connection before dark.",
+                "el": "Ελέγξτε την τελευταία σύνδεση λεωφορείου πριν σκοτεινιάσει."
               }
             }
           ],
@@ -1979,6 +2156,13 @@
               "Wear gloves while waiting at the stop.",
               "Buses are often less crowded in the evenings.",
               "Ensure you are visible when boarding in the dark."
+            ],
+            "el": [
+              "Τα δρομολόγια μπορεί να διαφέρουν ελαφρώς τον χειμώνα.",
+              "Η θέρμανση στα αστικά λεωφορεία συνήθως είναι πολύ άνετη.",
+              "Φορέστε γάντια ενώ περιμένετε στη στάση.",
+              "Τα λεωφορεία είναι συχνά λιγότερο γεμάτα το βράδυ.",
+              "Βεβαιωθείτε ότι είστε ορατοί όταν επιβιβάζεστε στο σκοτάδι."
             ]
           }
         }

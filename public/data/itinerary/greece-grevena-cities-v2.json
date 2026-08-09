@@ -21,7 +21,8 @@
             "de": "Eleftheria-Platz",
             "hu": "Eleftheria tér",
             "ro": "Piața Eleftheria",
-            "en": "Eleftheria Square"
+            "en": "Eleftheria Square",
+            "el": "Πλατεία Ελευθερίας"
           },
           "coords": [
             21.4275,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie Ihren Tag mit einem Kaffee in einem der vielen Cafés am Platz.",
             "hu": "Kezdje a napot egy kávéval a tér egyik hangulatos kávézójában.",
             "ro": "Începeți ziua cu o cafea la una dintre numeroasele cafenele din piață.",
-            "en": "Start your day with a coffee at one of the many cafés lining the square."
+            "en": "Start your day with a coffee at one of the many cafés lining the square.",
+            "el": "Ξεκινήστε τη μέρα σας με έναν καφέ σε ένα από τα πολλά καφέ που περιβάλλουν την πλατεία."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Uhrturm von Grevena",
             "hu": "Grevena óratornya",
             "ro": "Turnul cu Ceas din Grevena",
-            "en": "Clock Tower of Grevena"
+            "en": "Clock Tower of Grevena",
+            "el": "Ρολογιού της Γρεβενής"
           },
           "coords": [
             21.4268,
@@ -59,7 +62,8 @@
             "de": "Das Wahrzeichen der Stadt, perfekt für ein schnelles Foto.",
             "hu": "A város jelképe, tökéletes egy gyors fotó elkészítéséhez.",
             "ro": "Emblema orașului, perfectă pentru o fotografie rapidă.",
-            "en": "The town's landmark, perfect for a quick photo opportunity."
+            "en": "The town's landmark, perfect for a quick photo opportunity.",
+            "el": "Το σήμα κατατεθέν της πόλης, ιδανικό για μια σύντομη φωτογραφία."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Kirche Agios Georgios",
             "hu": "Szent György-templom",
             "ro": "Biserica Agios Georgios",
-            "en": "Church of Agios Georgios"
+            "en": "Church of Agios Georgios",
+            "el": "Εκκλησία του Αγίου Γεωργίου"
           },
           "coords": [
             21.4281,
@@ -82,7 +87,8 @@
             "de": "Beachten Sie die beeindruckenden Ikonen und die ruhige Atmosphäre im Inneren.",
             "hu": "Figyelje meg a lenyűgöző ikonokat és a belső tér békés hangulatát.",
             "ro": "Observați icoanele impresionante și atmosfera liniștită din interior.",
-            "en": "Note the impressive icons and the serene atmosphere inside."
+            "en": "Note the impressive icons and the serene atmosphere inside.",
+            "el": "Προσέξτε τα εντυπωσιακά εικόνες και την ήρεμη ατμόσφαιρα μέσα."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Stadtbibliothek",
             "hu": "Városi Könyvtár",
             "ro": "Biblioteca Municipală",
-            "en": "Municipal Library"
+            "en": "Municipal Library",
+            "el": "Δημοτική Βιβλιοθήκη"
           },
           "coords": [
             21.429,
@@ -105,7 +112,8 @@
             "de": "Ein moderner Ort der Kultur, der einen Einblick in das lokale Leben bietet.",
             "hu": "A kultúra modern helyszíne, bepillantást nyújt a helyi életbe.",
             "ro": "Un spațiu cultural modern ce oferă o perspectivă asupra vieții locale.",
-            "en": "A modern cultural space offering a glimpse into local life."
+            "en": "A modern cultural space offering a glimpse into local life.",
+            "el": "Ένας σύγχρονος πολιτιστικός χώρος που προσφέρει μια εικόνα της τοπικής ζωής."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Naturkundemuseum",
             "hu": "Természettudományi Múzeum",
             "ro": "Muzeul de Istorie Naturală",
-            "en": "Natural History Museum"
+            "en": "Natural History Museum",
+            "el": "Μουσείο Φυσικής Ιστορίας"
           },
           "coords": [
             21.4225,
@@ -128,7 +137,8 @@
             "de": "Bekannt für seine beeindruckende Sammlung von Mammutfossilien aus der Region.",
             "hu": "Híres a régióból származó lenyűgöző mamutkövület-gyűjteményéről.",
             "ro": "Renumit pentru colecția sa impresionantă de fosile de mamut din regiune.",
-            "en": "Famous for its impressive collection of mammoth fossils found in the region."
+            "en": "Famous for its impressive collection of mammoth fossils found in the region.",
+            "el": "Διάσημο για την εντυπωσιακή συλλογή απολιθωμάτων μαμούθ που βρέθηκαν στην περιοχή."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Mühle von Gousios",
             "hu": "Gousios-malom",
             "ro": "Moara Gousios",
-            "en": "Gousios Mill"
+            "en": "Gousios Mill",
+            "el": "Μύλος Γούσιου"
           },
           "coords": [
             21.418,
@@ -151,7 +162,8 @@
             "de": "Ein restauriertes Industriedenkmal, das heute als Kulturzentrum dient.",
             "hu": "Egy felújított ipari műemlék, amely ma kulturális központként működik.",
             "ro": "Un monument industrial restaurat care acum servește drept centru cultural.",
-            "en": "A restored industrial monument that now serves as a cultural center."
+            "en": "A restored industrial monument that now serves as a cultural center.",
+            "el": "Ένα αναστηλωμένο βιομηχανικό μνημείο που λειτουργεί πλέον ως πολιτιστικό κέντρο."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Emilianos-Platz",
             "hu": "Emilianos tér",
             "ro": "Piața Emilianos",
-            "en": "Emilianos Square"
+            "en": "Emilianos Square",
+            "el": "Πλατεία Εμιλιανού"
           },
           "coords": [
             21.4288,
@@ -174,7 +187,8 @@
             "de": "Entspannen Sie sich am Ende des Tages und genießen Sie die lokale Atmosphäre. Zeit für ein spätes Mittagessen!",
             "hu": "Pihenjen a nap végén és élvezze a helyi hangulatot. Itt az ideje egy késői ebédnek!",
             "ro": "Relaxați-vă la sfârșitul zilei și bucurați-vă de atmosfera locală. Timp pentru un prânz târziu!",
-            "en": "Relax at the end of the day and enjoy the local atmosphere. Time for a late lunch!"
+            "en": "Relax at the end of the day and enjoy the local atmosphere. Time for a late lunch!",
+            "el": "Χαλαρώστε στο τέλος της μέρας και απολαύστε την τοπική ατμόσφαιρα. Ώρα για ένα αργοπορημένο γεύμα!"
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Ihr Tag in Grevena beginnt auf dem zentralen Eleftheria-Platz, dem pulsierenden Herzen der Stadt. Von hier aus führt ein kurzer Spaziergang zum historischen Uhrturm und zur stillen Agios-Georgios-Kirche, die tiefe Einblicke in die lokale Kultur bieten. Der Vormittag ist eine Mischung aus städtischem Leben und spiritueller Einkehr.\nDer Mittag führt Sie ins Wissen und in die Natur. Nach einem Besuch in der modernen Stadtbibliothek tauchen Sie im Naturkundemuseum in die prähistorische Vergangenheit der Region ein, die für ihre Mammutfunde berühmt ist. Dies ist die perfekte Zeit, um sich für ein traditionelles griechisches Mittagessen niederzulassen.\nAm Nachmittag erkunden Sie das industrielle Erbe Grevenas an der Gousios-Mühle, einem umfunktionierten Kulturzentrum, das die Geschichte der Stadt erzählt. Die Atmosphäre hier ist ruhig und lädt zum Nachdenken ein, bevor Sie in den belebteren Teil der Stadt zurückkehren.\nIhren Abend verbringen Sie auf dem Emilianos-Platz. Hier, inmitten von Einheimischen, können Sie den Tag bei einem Glas Wein oder einem gemütlichen Abendessen ausklingen lassen und die einzigartige Gastfreundschaft von Grevena, der „Stadt der Pilze“, erleben.",
         "hu": "Grevenai napja a város lüktető szívében, a központi Eleftheria téren kezdődik. Innen egy rövid séta vezet a történelmi Óratoronyhoz és a csendes Szent György-templomhoz, amelyek mély betekintést nyújtanak a helyi kultúrába. A délelőtt a városi élet és a spirituális elmélyülés keveréke.\nAz ebédidő a tudás és a természet jegyében telik. A modern Városi Könyvtár meglátogatása után a Természettudományi Múzeumban elmerülhet a régió őskori múltjában, amely mamutleleteiről híres. Ez a tökéletes alkalom egy hagyományos görög ebédre.\nA délután folyamán felfedezheti Grevena ipari örökségét a Gousios-malomnál, egy kulturális központtá alakított épületnél, amely a város történetét meséli el. Az itteni légkör nyugodt és elgondolkodtató, mielőtt visszatérne a város nyüzsgőbb részébe.\nAz estét az Emilianos téren tölti. Itt, a helyiek között, egy pohár bor vagy egy hangulatos vacsora mellett fejezheti be a napot, és megtapasztalhatja Grevena, a „gombák városának” egyedülálló vendégszeretetét.",
         "ro": "Ziua dvs. în Grevena începe în Piața centrală Eleftheria, inima vibrantă a orașului. De aici, o scurtă plimbare vă duce la istoricul Turn cu Ceas și la liniștita Biserică Agios Georgios, oferind perspective profunde asupra culturii locale. Dimineața este un amestec de viață urbană și reculegere spirituală.\nMiaza zilei vă poartă spre cunoaștere și natură. După o vizită la Biblioteca Municipală modernă, vă veți scufunda în trecutul preistoric al regiunii la Muzeul de Istorie Naturală, renumit pentru descoperirile de mamuți. Acesta este momentul perfect pentru a vă așeza la un prânz tradițional grecesc.\nDupă-amiaza, explorați patrimoniul industrial al Grevenei la Moara Gousios, un centru cultural reconvertit care spune povestea orașului. Atmosfera aici este calmă și contemplativă, înainte de a vă întoarce în partea mai aglomerată a orașului.\nSeara o veți petrece în Piața Emilianos. Aici, printre localnici, puteți încheia ziua cu un pahar de vin sau o cină relaxantă, experimentând ospitalitatea unică a Grevenei, „orașul ciupercilor”.",
-        "en": "Your day in Grevena begins in the central Eleftheria Square, the vibrant heart of the city. From here, a short walk takes you to the historic Clock Tower and the quiet Church of Agios Georgios, offering deep insights into the local culture. The morning is a mix of urban life and spiritual reflection.\nMidday leads you into knowledge and nature. After a visit to the modern Municipal Library, you'll delve into the region's prehistoric past at the Natural History Museum, famous for its mammoth discoveries. This is the perfect time to settle down for a traditional Greek lunch.\nIn the afternoon, you'll explore Grevena's industrial heritage at the Gousios Mill, a repurposed cultural center that tells the city's story. The atmosphere here is calm and contemplative before you return to the more bustling part of town.\nYou'll spend your evening in Emilianos Square. Here, amidst the locals, you can wind down the day with a glass of wine or a leisurely dinner, experiencing the unique hospitality of Grevena, the 'city of mushrooms'."
+        "en": "Your day in Grevena begins in the central Eleftheria Square, the vibrant heart of the city. From here, a short walk takes you to the historic Clock Tower and the quiet Church of Agios Georgios, offering deep insights into the local culture. The morning is a mix of urban life and spiritual reflection.\nMidday leads you into knowledge and nature. After a visit to the modern Municipal Library, you'll delve into the region's prehistoric past at the Natural History Museum, famous for its mammoth discoveries. This is the perfect time to settle down for a traditional Greek lunch.\nIn the afternoon, you'll explore Grevena's industrial heritage at the Gousios Mill, a repurposed cultural center that tells the city's story. The atmosphere here is calm and contemplative before you return to the more bustling part of town.\nYou'll spend your evening in Emilianos Square. Here, amidst the locals, you can wind down the day with a glass of wine or a leisurely dinner, experiencing the unique hospitality of Grevena, the 'city of mushrooms'.",
+        "el": "Η μέρα σας στα Γρεβενά ξεκινά στην κεντρική Πλατεία Ελευθερίας, το ζωντανό κέντρο της πόλης. Από εδώ, ένας σύντομος περίπατος σας οδηγεί στον ιστορικό Πύργο του Ρολογιού και στην ήσυχη Εκκλησία του Αγίου Γεωργίου, που προσφέρουν βαθιά εικόνα στην τοπική κουλτούρα. Το πρωί είναι ένα μείγμα αστικής ζωής και πνευματικής περισυλλογής.\nΤο μεσημέρι σας οδηγεί στη γνώση και τη φύση. Μετά από μια επίσκεψη στη σύγχρονη Δημοτική Βιβλιοθήκη, θα βυθιστείτε στο προϊστορικό παρελθόν της περιοχής στο Μουσείο Φυσικής Ιστορίας, διάσημο για τις ανακαλύψεις μαμούθ. Αυτή είναι η τέλεια στιγμή για ένα παραδοσιακό ελληνικό γεύμα.\nΤο απόγευμα θα εξερευνήσετε τη βιομηχανική κληρονομιά των Γρεβενών στον Μύλο Γούσιου, ένα αναπαλαιωμένο πολιτιστικό κέντρο που αφηγείται την ιστορία της πόλης. Η ατμόσφαιρα εδώ είναι ήρεμη και στοχαστική πριν επιστρέψετε στο πιο πολυσύχναστο κομμάτι της πόλης.\nΘα περάσετε το βράδυ σας στην Πλατεία Εμιλιανού. Εδώ, ανάμεσα στους ντόπιους, μπορείτε να χαλαρώσετε με ένα ποτήρι κρασί ή ένα ήσυχο δείπνο, βιώνοντας τη μοναδική φιλοξενία των Γρεβενών, της «πόλης των μανιταριών»."
       },
       "gastro_picks": {
         "de": [
@@ -338,6 +353,11 @@
           "Wear comfortable shoes as you will be walking for most of the day.",
           "Most attractions in the city center are easily reachable on foot.",
           "Take time for a coffee break in one of the squares to observe the local life."
+        ],
+        "el": [
+          "Φορέστε άνετα παπούτσια καθώς θα περπατήσετε τη μεγαλύτερη μέρος της μέρας.",
+          "Τα περισσότερα αξιοθέατα στο κέντρο είναι εύκολα προσβάσιμα με τα πόδια.",
+          "Περάστε χρόνο για ένα διάλειμμα καφέ σε μια από τις πλατείες για να παρατηρήσετε την τοπική ζωή."
         ]
       },
       "variants": {
@@ -346,7 +366,8 @@
             "de": "Grevena im Regen zeigt seine gemütliche Seite. Wir starten am zentralen Platz unter den Arkaden und flüchten in den Uhrturm, bevor wir die Wärme der Agios-Georgios-Kirche suchen. Den Mittag verbringen wir im trockenen Naturkundemuseum. Der Tag endet in einer der Pilz-Bistros am Emilianos-Platz, wo der Regen gegen die Scheiben trommelt, während wir lokale Spezialitäten genießen.",
             "hu": "Grevena esőben is bájos, különösen a főtér fedett árkádjai alatt. A reggelt a Szent György-templom csendjében töltjük, majd a városi könyvtár és a Természettudományi Múzeum belső tereiben keresünk menedéket a zápor elől. Délután a Gousios-malom ipari emlékei között sétálunk, az estét pedig egy gombás vacsorával zárjuk az Emilianos téren, figyelve a várost áztató esőt.",
             "ro": "Grevena în ploaie are un farmec aparte sub arcadele pieței centrale. Începem dimineața protejați de umbrele, vizitând Biserica Sf. Gheorghe, apoi ne retragem în liniștea bibliotecii și a Muzeului de Istorie Naturală. După-amiaza explorăm Moara Gousios, iar seara ne găsește într-un local primitor din Piața Emilianos, savurând preparate cu ciuperci specifice regiunii sub sunetul ploii.",
-            "en": "Grevena in the rain offers a cozy atmosphere under the central square's arcades. We start protected by umbrellas at the Clock Tower, then seek warmth inside Agios Georgios Church. Midday is spent exploring the Natural History Museum's indoor exhibits. The day concludes at Emilianos Square, where the sound of rain accompanies a warm meal featuring the region's famous wild mushrooms."
+            "en": "Grevena in the rain offers a cozy atmosphere under the central square's arcades. We start protected by umbrellas at the Clock Tower, then seek warmth inside Agios Georgios Church. Midday is spent exploring the Natural History Museum's indoor exhibits. The day concludes at Emilianos Square, where the sound of rain accompanies a warm meal featuring the region's famous wild mushrooms.",
+            "el": "Τα Γρεβενά στη βροχή προσφέρουν μια ζεστή ατμόσφαιρα κάτω από τα στεγασμένα περάσματα της κεντρικής πλατείας. Ξεκινάμε προστατευόμενοι με ομπρέλες στον Πύργο του Ρολογιού και μετά αναζητούμε ζεστασιά μέσα στην Εκκλησία του Αγίου Γεωργίου. Το μεσημέρι περνάμε εξερευνώντας τις εσωτερικές εκθέσεις του Μουσείου Φυσικής Ιστορίας. Η μέρα τελειώνει στην Πλατεία Εμιλιανού, όπου ο ήχος της βροχής συνοδεύει ένα ζεστό γεύμα με τα διάσημα άγρια μανιτάρια της περιοχής."
           },
           "stops": [
             {
@@ -355,7 +376,8 @@
                 "de": "Nutzen Sie die Arkaden der Cafés als Regenschutz.",
                 "hu": "Használja a kávézók árkádjait eső elleni védelemként.",
                 "ro": "Folosiți arcadele cafenelelor ca adăpost împotriva ploii.",
-                "en": "Use the cafe arcades as shelter from the rain."
+                "en": "Use the cafe arcades as shelter from the rain.",
+                "el": "Χρησιμοποιήστε τα στεγασμένα περάσματα των καφέ ως καταφύγιο από τη βροχή."
               }
             },
             {
@@ -364,7 +386,8 @@
                 "de": "Ein schneller Fotostopp unter dem Regenschirm.",
                 "hu": "Gyors fotómegálló az esernyő alatt.",
                 "ro": "O oprire rapidă pentru poze sub umbrelă.",
-                "en": "A quick photo stop under your umbrella."
+                "en": "A quick photo stop under your umbrella.",
+                "el": "Μια γρήγορη στάση για φωτογραφία κάτω από την ομπρέλα σας."
               }
             },
             {
@@ -373,7 +396,8 @@
                 "de": "Ein perfekter, ruhiger Rückzugsort vor dem Regen.",
                 "hu": "Tökéletes, nyugodt búvóhely az eső elől.",
                 "ro": "Un refugiu liniștit și perfect împotriva ploii.",
-                "en": "A perfect, quiet retreat from the rain."
+                "en": "A perfect, quiet retreat from the rain.",
+                "el": "Ένα ιδανικό, ήσυχο καταφύγιο από τη βροχή."
               }
             },
             {
@@ -382,7 +406,8 @@
                 "de": "Ideal zum Aufwärmen und Lesen im Trockenen.",
                 "hu": "Ideális melegedésre és olvasásra a szárazon.",
                 "ro": "Ideal pentru a vă încălzi și a citi la adăpost.",
-                "en": "Ideal for warming up and reading in the dry."
+                "en": "Ideal for warming up and reading in the dry.",
+                "el": "Ιδανικό για να ζεσταθείτε και να διαβάσετε σε στεγνό χώρο."
               }
             },
             {
@@ -391,7 +416,8 @@
                 "de": "Viel Zeit im Inneren verbringen, es gibt viel zu sehen.",
                 "hu": "Töltsön sok időt bent, rengeteg a látnivaló.",
                 "ro": "Petreceți mult timp în interior, sunt multe de văzut.",
-                "en": "Spend plenty of time inside; there is much to see."
+                "en": "Spend plenty of time inside; there is much to see.",
+                "el": "Περάστε πολύ χρόνο μέσα· υπάρχει πολλά να δείτε."
               }
             },
             {
@@ -400,7 +426,8 @@
                 "de": "Vorsicht, die Außenwege können rutschig sein.",
                 "hu": "Vigyázat, a külső utak csúszósak lehetnek.",
                 "ro": "Atenție, potecile exterioare pot fi alunecoase.",
-                "en": "Be careful, the outdoor paths can be slippery."
+                "en": "Be careful, the outdoor paths can be slippery.",
+                "el": "Προσοχή, τα εξωτερικά μονοπάτια μπορεί να είναι ολισθηρά."
               }
             },
             {
@@ -409,7 +436,8 @@
                 "de": "Wählen Sie ein Restaurant mit überdachter Terrasse.",
                 "hu": "Válasszon fedett teraszos éttermet vacsorához.",
                 "ro": "Alegeți un restaurant cu terasă acoperită.",
-                "en": "Choose a restaurant with a covered terrace."
+                "en": "Choose a restaurant with a covered terrace.",
+                "el": "Επιλέξτε ένα εστιατόριο με στεγασμένη βεράντα."
               }
             }
           ],
@@ -437,6 +465,12 @@
               "Wear waterproof hiking shoes for the cobblestone streets.",
               "Museums are often closed on Mondays; check the opening hours.",
               "Buy a handcrafted umbrella from the local shops."
+            ],
+            "el": [
+              "Τα Γρεβενά είναι η πόλη των μανιταριών· δοκιμάστε σούπα μανιταριών για να ζεσταθείτε.",
+              "Φορέστε αδιάβροχα ορειβατικά παπούτσια για τους λιθόστρωτους δρόμους.",
+              "Τα μουσεία συχνά κλείνουν Δευτέρες· ελέγξτε ώρες λειτουργίας.",
+              "Αγοράστε μια χειροποίητη ομπρέλα από τα τοπικά καταστήματα."
             ]
           }
         },
@@ -445,7 +479,8 @@
             "de": "Ein Wintermorgen in Grevena beginnt oft frostig und klar. Nach einem heißen Kaffee am Eleftheria-Platz besuchen wir die historischen Kirchen und Museen, die im Winter angenehm geheizt sind. Das weiche Winterlicht am Uhrturm bietet tolle Fotomotive. Wenn es früh dunkel wird, ziehen wir uns in die gemütlichen Tavernen am Emilianos-Platz zurück, wo der Duft von gegrillten Pilzen und Kaminfeuer in der Luft liegt.",
             "hu": "A téli reggel Grevenában gyakran fagyos és tiszta. A főtéri forró kávé után meglátogatjuk a történelmi templomokat és múzeumokat, amelyek télen kellemesen fűtöttek. A téli napfény a száraz malom körül különleges hangulatot áraszt. Mivel korán sötétedik, hamar behúzódunk az Emilianos tér hangulatos tavernáiba, ahol a sült gomba és a kandalló tüze fogad minket.",
             "ro": "O dimineață de iarnă în Grevena începe adesea geroasă și senină. După o cafea fierbinte în Piața Eleftheria, vizităm bisericile și muzeele istorice, care sunt bine încălzite iarna. Lumina blândă de iarnă de lângă Turnul cu Ceas oferă cadre foto superbe. Deoarece se întunecă devreme, ne retragem în tavernele primitoare din Piața Emilianos, unde plutește aroma ciupercilor la grătar.",
-            "en": "Winter mornings in Grevena are often frosty and crisp. After a hot coffee at Eleftheria Square, we explore historic churches and museums that offer a warm indoor respite. The low winter sun casts long shadows over the Clock Tower, perfect for photography. As darkness falls early, we settle into the cozy taverns of Emilianos Square, enjoying the smell of wood smoke and roasted mushrooms."
+            "en": "Winter mornings in Grevena are often frosty and crisp. After a hot coffee at Eleftheria Square, we explore historic churches and museums that offer a warm indoor respite. The low winter sun casts long shadows over the Clock Tower, perfect for photography. As darkness falls early, we settle into the cozy taverns of Emilianos Square, enjoying the smell of wood smoke and roasted mushrooms.",
+            "el": "Τα χειμερινά πρωινά στα Γρεβενά είναι συχνά παγωμένα και δροσερά. Μετά από έναν ζεστό καφέ στην Πλατεία Ελευθερίας, εξερευνούμε ιστορικές εκκλησίες και μουσεία που προσφέρουν ένα ζεστό καταφύγιο. Ο χαμηλός χειμωνιάτικος ήλιος ρίχνει μακριές σκιές στον Πύργο του Ρολογιού, ιδανικές για φωτογραφίες. Καθώς σκοτεινιάζει νωρίς, καταλήγουμε στις ζεστές ταβέρνες της Πλατείας Εμιλιανού, απολαμβάνοντας την οσμή του ξύλου και τα ψητά μανιτάρια."
           },
           "stops": [
             {
@@ -454,7 +489,8 @@
                 "de": "Genießen Sie einen griechischen Kaffee zum Aufwärmen.",
                 "hu": "Élvezzen egy görög kávét a felmelegedéshez.",
                 "ro": "Savurați o cafea grecească pentru a vă încălzi.",
-                "en": "Enjoy a Greek coffee to warm up."
+                "en": "Enjoy a Greek coffee to warm up.",
+                "el": "Απολαύστε έναν ελληνικό καφέ για να ζεσταθείτε."
               }
             },
             {
@@ -463,7 +499,8 @@
                 "de": "Scharfes Licht für Fotos, aber Vorsicht bei Glätte.",
                 "hu": "Éles fények fotózáshoz, de vigyázzon a jéggel.",
                 "ro": "Lumină clară pentru poze, dar atenție la gheață.",
-                "en": "Sharp light for photos, but watch out for ice."
+                "en": "Sharp light for photos, but watch out for ice.",
+                "el": "Έντονο φως για φωτογραφίες, αλλά προσέξτε τον πάγο."
               }
             },
             {
@@ -472,7 +509,8 @@
                 "de": "Zünden Sie eine Kerze an und genießen Sie die Stille.",
                 "hu": "Gyújtson egy gyertyát és élvezze a csendet.",
                 "ro": "Aprindeți o lumânare și bucurați-vă de liniște.",
-                "en": "Light a candle and enjoy the silence."
+                "en": "Light a candle and enjoy the silence.",
+                "el": "Ανάψτε ένα κερί και απολαύστε τη σιωπή."
               }
             },
             {
@@ -481,7 +519,8 @@
                 "de": "Ein warmer Ort für eine kurze Pause vom Wind.",
                 "hu": "Meleg hely egy rövid szünetre a szél elől.",
                 "ro": "Un loc cald pentru o scurtă pauză de vânt.",
-                "en": "A warm spot for a short break from the wind."
+                "en": "A warm spot for a short break from the wind.",
+                "el": "Μια ζεστή γωνιά για ένα σύντομο διάλειμμα από τον άνεμο."
               }
             },
             {
@@ -490,7 +529,8 @@
                 "de": "Besuchen Sie die Mammut-Exponate im warmen Inneren.",
                 "hu": "Nézze meg a mamutleleteket a meleg belső térben.",
                 "ro": "Vedeți exponatele cu mamuți în interiorul călduros.",
-                "en": "See the mammoth exhibits in the warm interior."
+                "en": "See the mammoth exhibits in the warm interior.",
+                "el": "Δείτε τις εκθέσεις μαμούθ σε ζεστό εσωτερικό χώρο."
               }
             },
             {
@@ -499,7 +539,8 @@
                 "de": "Warme Kleidung ist für den Außenbereich nötig.",
                 "hu": "Meleg ruházat szükséges a külső részekhez.",
                 "ro": "Haine groase sunt necesare pentru zona exterioară.",
-                "en": "Warm clothing is necessary for the outdoor area."
+                "en": "Warm clothing is necessary for the outdoor area.",
+                "el": "Θερμή ενδυμασία είναι απαραίτητη για τον εξωτερικό χώρο."
               }
             },
             {
@@ -508,7 +549,8 @@
                 "de": "Suchen Sie einen Platz nah am Kamin in der Taverne.",
                 "hu": "Keressen helyet a kandalló közelében a tavernában.",
                 "ro": "Căutați un loc lângă șemineu în tavernă.",
-                "en": "Look for a seat near the fireplace in the tavern."
+                "en": "Look for a seat near the fireplace in the tavern.",
+                "el": "Ψάξτε για θέση κοντά στο τζάκι στην ταβέρνα."
               }
             }
           ],
@@ -536,6 +578,12 @@
               "The sun sets around 17:00 in winter.",
               "Try local meat dishes; they are very hearty.",
               "Many shops take an afternoon break (siesta)."
+            ],
+            "el": [
+              "Μπορεί να χιονίσει στα Γρεβενά· πάρτε χειμερινές μπότες.",
+              "Ο ήλιος δύει γύρω στις 17:00 το χειμώνα.",
+              "Δοκιμάστε τοπικά κρεατικά πιάτα· είναι πολύ χορταστικά.",
+              "Πολλά καταστήματα κάνουν μεσημεριανή διακοπή (σιέστα)."
             ]
           }
         }
@@ -554,7 +602,8 @@
             "de": "Eleftheria-Platz",
             "hu": "Eleftheria tér",
             "ro": "Piața Eleftheria",
-            "en": "Eleftheria Square"
+            "en": "Eleftheria Square",
+            "el": "Πλατεία Ελευθερίας"
           },
           "coords": [
             21.4275,
@@ -569,7 +618,8 @@
             "de": "Ein idealer Ausgangspunkt, um die Stadt mit dem Fahrrad zu erkunden.",
             "hu": "Ideális kiindulópont a város kerékpáros felfedezéséhez.",
             "ro": "Un punct de plecare ideal pentru a explora orașul cu bicicleta.",
-            "en": "An ideal starting point for exploring the city by bike."
+            "en": "An ideal starting point for exploring the city by bike.",
+            "el": "Ιδανικό σημείο εκκίνησης για εξερεύνηση της πόλης με ποδήλατο."
           }
         },
         {
@@ -577,7 +627,8 @@
             "de": "Uhrturm von Grevena",
             "hu": "Grevena óratornya",
             "ro": "Turnul cu Ceas din Grevena",
-            "en": "Clock Tower of Grevena"
+            "en": "Clock Tower of Grevena",
+            "el": "Ρολογιού της Γρεβενής"
           },
           "coords": [
             21.4268,
@@ -592,7 +643,8 @@
             "de": "Schließen Sie Ihr Fahrrad an und machen Sie ein schnelles Foto dieses Wahrzeichens.",
             "hu": "Zárja le a kerékpárt, és készítsen egy gyors fotót erről a jelképről.",
             "ro": "Legați-vă bicicleta și faceți o fotografie rapidă a acestui reper.",
-            "en": "Lock up your bike and take a quick photo of this landmark."
+            "en": "Lock up your bike and take a quick photo of this landmark.",
+            "el": "Κλειδώστε το ποδήλατό σας και βγάλτε μια σύντομη φωτογραφία αυτού του ορόσημου."
           }
         },
         {
@@ -600,7 +652,8 @@
             "de": "Mühle von Gousios",
             "hu": "Gousios-malom",
             "ro": "Moara Gousios",
-            "en": "Gousios Mill"
+            "en": "Gousios Mill",
+            "el": "Μύλος Γούσιου"
           },
           "coords": [
             21.418,
@@ -615,7 +668,8 @@
             "de": "Eine angenehme Fahrt vom Stadtzentrum zu diesem Kulturdenkmal.",
             "hu": "Kellemes út a városközpontból ehhez a kulturális emlékhelyhez.",
             "ro": "O plimbare plăcută de la centrul orașului la acest monument cultural.",
-            "en": "A pleasant ride from the city center to this cultural monument."
+            "en": "A pleasant ride from the city center to this cultural monument.",
+            "el": "Μια ευχάριστη βόλτα από το κέντρο της πόλης προς αυτό το πολιτιστικό μνημείο."
           }
         },
         {
@@ -623,7 +677,8 @@
             "de": "Naturkundemuseum",
             "hu": "Természettudományi Múzeum",
             "ro": "Muzeul de Istorie Naturală",
-            "en": "Natural History Museum"
+            "en": "Natural History Museum",
+            "el": "Μουσείο Φυσικής Ιστορίας"
           },
           "coords": [
             21.4225,
@@ -638,7 +693,8 @@
             "de": "Hier gibt es Fahrradständer, sodass Sie die Mammuts in Ruhe bestaunen können.",
             "hu": "Vannak kerékpártárolók, így nyugodtan megcsodálhatja a mamutokat.",
             "ro": "Există suporturi pentru biciclete, astfel încât să puteți admira mamuții în liniște.",
-            "en": "There are bike racks available, so you can admire the mammoths in peace."
+            "en": "There are bike racks available, so you can admire the mammoths in peace.",
+            "el": "Υπάρχουν ποδηλατοστάσια διαθέσιμα, οπότε μπορείτε να θαυμάσετε τα μαμούθ με ηρεμία."
           }
         },
         {
@@ -646,7 +702,8 @@
             "de": "Kirche Agios Georgios",
             "hu": "Szent György-templom",
             "ro": "Biserica Agios Georgios",
-            "en": "Church of Agios Georgios"
+            "en": "Church of Agios Georgios",
+            "el": "Εκκλησία του Αγίου Γεωργίου"
           },
           "coords": [
             21.4281,
@@ -661,7 +718,8 @@
             "de": "Stellen Sie Ihr Fahrrad in der Nähe ab und nehmen Sie sich einen Moment der Stille.",
             "hu": "Hagyja a kerékpárt a közelben, és szánjon egy percet a csendre.",
             "ro": "Lăsați-vă bicicleta în apropiere și acordați-vă un moment de liniște.",
-            "en": "Park your bike nearby and take a moment of tranquility."
+            "en": "Park your bike nearby and take a moment of tranquility.",
+            "el": "Σταθμεύστε το ποδήλατό σας κοντά και αφιερώστε μια στιγμή ηρεμίας."
           }
         },
         {
@@ -669,7 +727,8 @@
             "de": "Stadtbibliothek",
             "hu": "Városi Könyvtár",
             "ro": "Biblioteca Municipală",
-            "en": "Municipal Library"
+            "en": "Municipal Library",
+            "el": "Δημοτική Βιβλιοθήκη"
           },
           "coords": [
             21.429,
@@ -684,7 +743,8 @@
             "de": "Ein guter Ort für eine Mittagspause in der Nähe, bevor Sie weiterfahren.",
             "hu": "Jó hely egy közeli ebédszünetre, mielőtt tovább indulna.",
             "ro": "Un loc bun pentru o pauză de prânz în apropiere înainte de a continua.",
-            "en": "A good spot for a lunch break nearby before you continue."
+            "en": "A good spot for a lunch break nearby before you continue.",
+            "el": "Καλό σημείο για ένα διάλειμμα για γεύμα κοντά πριν συνεχίσετε."
           }
         },
         {
@@ -692,7 +752,8 @@
             "de": "Portitsa-Brücke (Aussichtspunkt)",
             "hu": "Portitsa-híd (kilátópont)",
             "ro": "Podul Portitsa (punct de belvedere)",
-            "en": "Portitsa Bridge (Viewpoint)"
+            "en": "Portitsa Bridge (Viewpoint)",
+            "el": "Γέφυρα Πορτίτσας (Σημείο θέασης)"
           },
           "coords": [
             21.3283,
@@ -707,7 +768,8 @@
             "de": "Die Fahrt aus der Stadt heraus zu diesem atemberaubenden Ort ist die Anstrengung wert.",
             "hu": "A városból kivezető út ehhez a lélegzetelállító helyhez megéri a fáradságot.",
             "ro": "Călătoria în afara orașului către acest loc uimitor merită efortul.",
-            "en": "The ride out of town to this breathtaking spot is worth the effort."
+            "en": "The ride out of town to this breathtaking spot is worth the effort.",
+            "el": "Η διαδρομή έξω από την πόλη προς αυτό το εκπληκτικό σημείο αξίζει τον κόπο."
           }
         }
       ],
@@ -715,7 +777,8 @@
         "de": "Schwingen Sie sich in Grevena aufs Rad, beginnend am Eleftheria-Platz. Die erste Etappe führt Sie schnell zum Uhrturm und dann weiter zur Gousios-Mühle am Rande der Stadt. Diese morgendliche Tour verbindet städtische Wahrzeichen mit einem Hauch von industrieller Geschichte.\nZur Mittagszeit radeln Sie zum Naturkundemuseum, um die berühmten Mammutfossilien zu bestaunen. Nach diesem kulturellen Höhepunkt fahren Sie zurück ins Zentrum, zur ruhigen Agios-Georgios-Kirche. Suchen Sie sich in der Nähe ein nettes Plätzchen für ein stärkendes Mittagessen.\nDer Nachmittag ist einem Abenteuer gewidmet. Nach einem kurzen Halt in der Stadtbibliothek unternehmen Sie eine längere, aber lohnende Radtour zum Aussichtspunkt der Portitsa-Brücke. Die spektakuläre Schlucht und die historische Steinbrücke sind ein unvergesslicher Anblick.\nBeenden Sie Ihren Radtag mit der Rückfahrt in die Stadt. Genießen Sie die Abenddämmerung bei einem wohlverdienten Abendessen in einer der Tavernen von Grevena, wo Sie die lokalen Pilzspezialitäten probieren können, die dieser Region ihren Ruhm verleihen.",
         "hu": "Pattanjon kerékpárra Grevenában, az Eleftheria térről indulva. Az első szakasz gyorsan elvezeti az Óratoronyhoz, majd tovább a város szélén található Gousios-malomhoz. Ez a reggeli túra ötvözi a városi nevezetességeket egy csipetnyi ipartörténettel.\nEbédidőben tekerjen el a Természettudományi Múzeumhoz, hogy megcsodálja a híres mamutkövületeket. E kulturális csúcspont után visszatér a központba, a csendes Szent György-templomhoz. Keressen a közelben egy kedves helyet egy frissítő ebédhez.\nA délután egy kalandnak van szentelve. A Városi Könyvtárban tett rövid megálló után egy hosszabb, de annál inkább megérő kerékpártúrát tesz a Portitsa-híd kilátópontjához. A látványos szurdok és a történelmi kőhíd felejthetetlen látványt nyújt.\nZárja a kerékpáros napot a városba való visszatéréssel. Élvezze az alkonyt egy jól megérdemelt vacsora mellett Grevena egyik tavernájában, ahol megkóstolhatja a helyi gombakülönlegességeket, amelyek híressé tették ezt a régiót.",
         "ro": "Urcați-vă pe bicicletă în Grevena, pornind din Piața Eleftheria. Prima etapă vă duce rapid la Turnul cu Ceas și apoi mai departe la Moara Gousios, la marginea orașului. Acest tur de dimineață combină reperele urbane cu o notă de istorie industrială.\nLa prânz, pedalați spre Muzeul de Istorie Naturală pentru a admira faimoasele fosile de mamut. După acest punct culminant cultural, vă întoarceți în centru, la liniștita Biserică Agios Georgios. Căutați un loc drăguț în apropiere pentru un prânz revigorant.\nDupă-amiaza este dedicată aventurii. După o scurtă oprire la Biblioteca Municipală, faceți o plimbare cu bicicleta mai lungă, dar plină de satisfacții, până la punctul de belvedere al Podului Portitsa. Canionul spectaculos și podul istoric de piatră sunt o priveliște de neuitat.\nÎncheiați ziua de ciclism cu întoarcerea în oraș. Bucurați-vă de amurg cu o cină binemeritată la una dintre tavernele din Grevena, unde puteți gusta specialitățile locale de ciuperci care au adus faimă acestei regiuni.",
-        "en": "Hop on your bike in Grevena, starting from Eleftheria Square. The first leg takes you quickly to the Clock Tower and then on to the Gousios Mill on the edge of town. This morning tour combines urban landmarks with a touch of industrial history.\nAt lunchtime, you'll cycle to the Natural History Museum to admire the famous mammoth fossils. After this cultural highlight, you'll head back to the center, to the tranquil Church of Agios Georgios. Find a nice spot nearby for a refreshing lunch.\nThe afternoon is dedicated to adventure. After a brief stop at the Municipal Library, you'll take a longer but rewarding bike ride to the Portitsa Bridge viewpoint. The spectacular gorge and the historic stone bridge are an unforgettable sight.\nEnd your cycling day with the ride back into town. Enjoy the twilight with a well-deserved dinner at one of Grevena's tavernas, where you can sample the local mushroom specialties that give this region its fame."
+        "en": "Hop on your bike in Grevena, starting from Eleftheria Square. The first leg takes you quickly to the Clock Tower and then on to the Gousios Mill on the edge of town. This morning tour combines urban landmarks with a touch of industrial history.\nAt lunchtime, you'll cycle to the Natural History Museum to admire the famous mammoth fossils. After this cultural highlight, you'll head back to the center, to the tranquil Church of Agios Georgios. Find a nice spot nearby for a refreshing lunch.\nThe afternoon is dedicated to adventure. After a brief stop at the Municipal Library, you'll take a longer but rewarding bike ride to the Portitsa Bridge viewpoint. The spectacular gorge and the historic stone bridge are an unforgettable sight.\nEnd your cycling day with the ride back into town. Enjoy the twilight with a well-deserved dinner at one of Grevena's tavernas, where you can sample the local mushroom specialties that give this region its fame.",
+        "el": "Πιάστε το ποδήλατό σας στα Γρεβενά, ξεκινώντας από την Πλατεία Ελευθερίας. Το πρώτο τμήμα σας οδηγεί γρήγορα στον Πύργο του Ρολογιού και στη συνέχεια προς τον Μύλο Γούσιου στα όρια της πόλης. Αυτή η πρωινή διαδρομή συνδυάζει αστικά ορόσημα με μια νότα βιομηχανικής ιστορίας.\nΤο μεσημέρι θα ποδηλατήσετε προς το Μουσείο Φυσικής Ιστορίας για να θαυμάσετε τα διάσημα απολιθώματα μαμούθ. Μετά από αυτό το πολιτιστικό σημείο, θα επιστρέψετε στο κέντρο, στην ήσυχη Εκκλησία του Αγίου Γεωργίου. Βρείτε ένα ωραίο μέρος κοντά για αναζωογονητικό γεύμα.\nΤο απόγευμα αφιερώνεται στην περιπέτεια. Μετά από μια μικρή στάση στη Δημοτική Βιβλιοθήκη, θα κάνετε μια μεγαλύτερη αλλά ανταμείβουσα ποδηλατική διαδρομή προς τη γέφυρα Πορτίτσας με το σημείο θέασης. Η θεαματική χαράδρα και η ιστορική πέτρινη γέφυρα είναι μια αξέχαστη εικόνα.\nΤελειώστε την ποδηλατική σας μέρα με την επιστροφή στην πόλη. Απολαύστε το λυκόφως με ένα καλά κερδισμένο δείπνο σε μια από τις ταβέρνες των Γρεβενών, όπου μπορείτε να δοκιμάσετε τις τοπικές μανιταρικές σπεσιαλιτέ που δίνουν στην περιοχή τη φήμη της."
       },
       "gastro_picks": {
         "de": [
@@ -871,6 +934,11 @@
           "Check your bike before you set off, especially the brakes and tires.",
           "Some streets can be cobbled, so ride with care.",
           "Bring plenty of water, especially for the ride to Portitsa Bridge."
+        ],
+        "el": [
+          "Ελέγξτε το ποδήλατό σας πριν ξεκινήσετε, ειδικά τα φρένα και τα ελαστικά.",
+          "Ορισμένοι δρόμοι μπορεί να είναι λιθόστρωτοι, οπότε ποδηλατήστε με προσοχή.",
+          "Φέρτε αρκετό νερό, ειδικά για τη διαδρομή προς τη Γέφυρα Πορτίτσας."
         ]
       },
       "variants": {
@@ -879,7 +947,8 @@
             "de": "Radfahren in Grevena bei Regen erfordert Vorsicht, ist aber erfrischend. Wir starten am Uhrturm und radeln zur alten Mühle. Das Museum bietet eine lange Pause im Trockenen. Der Weg zur Portitsa-Brücke führt durch dichte Wälder, die bei Regen mystisch wirken. Der Tag endet mit einer verdienten warmen Mahlzeit, während wir die nasse Ausrüstung trocknen.",
             "hu": "A kerékpározás Grevenában esőben óvatosságot igényel, de frissítő élmény. A reggelt a főtéren kezdjük, majd a Gousios-malomhoz tekerünk. A múzeum hosszú száraz pihenőt kínál. A Portitsa-híd felé vezető út misztikus a ködben és az esőben. A napot egy megérdemelt meleg étellel zárjuk, miközben felszerelésünket szárítjuk.",
             "ro": "Mersul pe bicicletă în Grevena pe ploaie necesită prudență, dar este revigorant. Începem la Turnul cu Ceas și pedalăm spre moara veche. Muzeul oferă o pauză lungă la uscat. Drumul spre Podul Portitsa prin pădurile dese pare mistic pe ploaie. Ziua se încheie cu o masă caldă binemeritată, în timp ce ne uscăm echipamentul.",
-            "en": "Cycling in Grevena during rain requires caution but is quite refreshing. We start at the Clock Tower and head to the old mill. The museum provides a long, dry break midday. The ride towards Portitsa Bridge through dense forests feels mystical in the mist. The day ends with a well-deserved warm meal while we dry off our gear."
+            "en": "Cycling in Grevena during rain requires caution but is quite refreshing. We start at the Clock Tower and head to the old mill. The museum provides a long, dry break midday. The ride towards Portitsa Bridge through dense forests feels mystical in the mist. The day ends with a well-deserved warm meal while we dry off our gear.",
+            "el": "Η ποδηλασία στα Γρεβενά με βροχή θέλει προσοχή αλλά είναι πολύ αναζωογονητική. Ξεκινάμε από το Ρολόι και κατευθυνόμαστε προς το παλιό μύλο. Το μουσείο προσφέρει ένα μακρύ, στεγνό διάλειμμα το μεσημέρι. Η διαδρομή προς τη Γέφυρα Πορτίτσας μέσα σε πυκνά δάση μοιάζει μυστηριώδης στην ομίχλη. Η ημέρα τελειώνει με ένα δικαίως απολαυστικό ζεστό γεύμα ενώ στεγνώνουμε τον εξοπλισμό μας."
           },
           "stops": [
             {
@@ -888,7 +957,8 @@
                 "de": "Prüfen Sie Ihre Bremsen vor dem Start im Regen.",
                 "hu": "Ellenőrizze a fékeit esőben indulás előtt.",
                 "ro": "Verificați frânele înainte de a pleca pe ploaie.",
-                "en": "Check your brakes before starting in the rain."
+                "en": "Check your brakes before starting in the rain.",
+                "el": "Έλεγξε τα φρένα πριν ξεκινήσεις στη βροχή."
               }
             },
             {
@@ -897,7 +967,8 @@
                 "de": "Vorsicht auf dem glatten Kopfsteinpflaster.",
                 "hu": "Vigyázzon a csúszós macskakövön.",
                 "ro": "Atenție pe piatra cubică alunecoasă.",
-                "en": "Be careful on the slippery cobblestones."
+                "en": "Be careful on the slippery cobblestones.",
+                "el": "Πρόσεχε τα ολισθηρά πλακόστρωτα."
               }
             },
             {
@@ -906,7 +977,8 @@
                 "de": "Kurzer Stopp, um die Kette zu prüfen.",
                 "hu": "Rövid megálló a lánc ellenőrzésére.",
                 "ro": "Scurtă oprire pentru a verifica lanțul.",
-                "en": "Short stop to check the chain."
+                "en": "Short stop to check the chain.",
+                "el": "Μικρή στάση για έλεγχο της αλυσίδας."
               }
             },
             {
@@ -915,7 +987,8 @@
                 "de": "Nutzen Sie den Stopp, um die Kleidung zu trocknen.",
                 "hu": "Használja a megállót a ruhák szárítására.",
                 "ro": "Folosiți oprirea pentru a vă usca hainele.",
-                "en": "Use the stop to dry your clothes."
+                "en": "Use the stop to dry your clothes.",
+                "el": "Χρησιμοποίησε τη στάση για να στεγνώσεις τα ρούχα σου."
               }
             },
             {
@@ -924,7 +997,8 @@
                 "de": "Fahrrad sicher unter einem Vordach abstellen.",
                 "hu": "Támassza le a biciklit biztonságos előtető alá.",
                 "ro": "Parcați bicicleta în siguranță sub un baldachin.",
-                "en": "Park the bike safely under an overhang."
+                "en": "Park the bike safely under an overhang.",
+                "el": "Στάθμευσε το ποδήλατο με ασφάλεια κάτω από ένα πρόβολο."
               }
             },
             {
@@ -933,7 +1007,8 @@
                 "de": "Kurze Pause zum Aufwärmen der Hände.",
                 "hu": "Rövid szünet a kezek felmelegítésére.",
                 "ro": "Scurtă pauză pentru a vă încălzi mâinile.",
-                "en": "Short break to warm up your hands."
+                "en": "Short break to warm up your hands.",
+                "el": "Μικρό διάλειμμα για να ζεστάνεις τα χέρια σου."
               }
             },
             {
@@ -942,7 +1017,8 @@
                 "de": "Extremer Schutz bei der Abfahrt nötig.",
                 "hu": "Fokozott védelem szükséges a lejtmenethez.",
                 "ro": "Protecție sporită necesară pentru coborâre.",
-                "en": "Extra protection needed for the descent."
+                "en": "Extra protection needed for the descent.",
+                "el": "Απαιτείται επιπλέον προστασία για την κατάβαση."
               }
             }
           ],
@@ -970,6 +1046,12 @@
               "Mudguards on your bike are a must in this weather.",
               "Avoid puddles; they might hide deep potholes.",
               "Lights are important even during the day for low visibility."
+            ],
+            "el": [
+              "Φόρα πλήρες αδιάβροχο μπουφάν και αδιάβροχο παντελόνι.",
+              "Φτερά λάσπης στο ποδήλατο είναι απαραίτητα σε αυτόν τον καιρό.",
+              "Απόφυγε τις λακκούβες· μπορεί να κρύβουν βαθιές τρύπες.",
+              "Τα φώτα είναι σημαντικά ακόμα και την ημέρα σε χαμηλή ορατότητα."
             ]
           }
         },
@@ -978,7 +1060,8 @@
             "de": "Winterliches Radfahren in Grevena ist ein Abenteuer durch die weiße Landschaft. Wir starten am Eleftheria-Platz und erkunden die Stadtziele, bevor wir uns auf den Weg zur Portitsa-Brücke machen. Die kalte Luft ist belebend, aber wir brauchen regelmäßige Stopps in beheizten Museen. Der Ausblick auf die schneebedeckten Berge ist atemberaubend, solange das Tageslicht reicht.",
             "hu": "A téli biciklizés Grevenában kalandos túra a havas tájon. A főtérről indulunk, érintjük a városi pontokat, majd a Portitsa-híd felé vesszük az irányt. A hideg levegő frissít, de rendszeres pihenőkre van szükségünk a fűtött múzeumokban. A havas hegyek látványa lélegzetelállító, amíg a napfény tart.",
             "ro": "Ciclismul de iarnă în Grevena este o aventură prin peisajul alb. Pornim din Piața Eleftheria și explorăm obiectivele urbane înainte de a pleca spre Podul Portitsa. Aerul rece este revigorant, dar avem nevoie de opriri regulate în muzee încălzite. Vederea munților înzăpeziți este uluitoare cât timp durează lumina zilei.",
-            "en": "Winter cycling in Grevena is an adventure through white landscapes. Starting from Eleftheria Square, we visit city landmarks before heading towards Portitsa Bridge. The cold air is invigorating, but regular stops in heated museums are essential. The views of snow-capped mountains are breathtaking as long as the daylight lasts."
+            "en": "Winter cycling in Grevena is an adventure through white landscapes. Starting from Eleftheria Square, we visit city landmarks before heading towards Portitsa Bridge. The cold air is invigorating, but regular stops in heated museums are essential. The views of snow-capped mountains are breathtaking as long as the daylight lasts.",
+            "el": "Ο χειμερινός ποδηλατικός γύρος στα Γρεβενά είναι μια περιπέτεια σε λευκά τοπία. Ξεκινώντας από την Πλατεία Ελευθερίας, επισκεπτόμαστε τα αξιοθέατα της πόλης πριν κατευθυνθούμε προς τη Γέφυρα Πορτίτσας. Ο κρύος αέρας δίνει δύναμη, αλλά τα τακτικά διαλείμματα σε θερμαινόμενα μουσεία είναι απαραίτητα. Η θέα στα χιονισμένα βουνά κόβει την ανάσα όσο διαρκεί το φως της ημέρας."
           },
           "stops": [
             {
@@ -987,7 +1070,8 @@
                 "de": "Warme Handschuhe sind für das Bremsen wichtig.",
                 "hu": "A meleg kesztyű elengedhetetlen a fékezéshez.",
                 "ro": "Mănușile groase sunt esențiale pentru frânare.",
-                "en": "Warm gloves are essential for braking."
+                "en": "Warm gloves are essential for braking.",
+                "el": "Ζεστά γάντια είναι απαραίτητα για το φρενάρισμα."
               }
             },
             {
@@ -996,7 +1080,8 @@
                 "de": "Vorsicht vor Eisplatten im Schatten des Turms.",
                 "hu": "Vigyázzon a jeges foltokkal a torony árnyékában.",
                 "ro": "Atenție la porțiunile de gheață la umbra turnului.",
-                "en": "Watch out for icy patches in the tower's shadow."
+                "en": "Watch out for icy patches in the tower's shadow.",
+                "el": "Πρόσεχε για παγωμένα σημεία στη σκιά του πύργου."
               }
             },
             {
@@ -1005,7 +1090,8 @@
                 "de": "Ein schöner Ort für Fotos im Winterlicht.",
                 "hu": "Szép hely fotózáshoz a téli fényekben.",
                 "ro": "Un loc frumos pentru poze în lumina iernii.",
-                "en": "A beautiful spot for photos in winter light."
+                "en": "A beautiful spot for photos in winter light.",
+                "el": "Ένα όμορφο σημείο για φωτογραφίες στο χειμερινό φως."
               }
             },
             {
@@ -1014,7 +1100,8 @@
                 "de": "Lange aufwärmen, bevor es weitergeht.",
                 "hu": "Melegedjen fel alaposan, mielőtt tovább indul.",
                 "ro": "Încălziți-vă bine înainte de a continua.",
-                "en": "Warm up thoroughly before continuing."
+                "en": "Warm up thoroughly before continuing.",
+                "el": "Ζεστάνεσαι καλά πριν συνεχίσεις."
               }
             },
             {
@@ -1023,7 +1110,8 @@
                 "de": "Ein kurzer, windgeschützter Stopp.",
                 "hu": "Rövid, szélvédett megálló.",
                 "ro": "O scurtă oprire ferită de vânt.",
-                "en": "A short stop sheltered from the wind."
+                "en": "A short stop sheltered from the wind.",
+                "el": "Μικρή στάση με προστασία από τον άνεμο."
               }
             },
             {
@@ -1032,7 +1120,8 @@
                 "de": "Heißer Tee in der Nähe ist jetzt ideal.",
                 "hu": "Forró tea a közelben most ideális.",
                 "ro": "Un ceai fierbinte în apropiere este ideal acum.",
-                "en": "A hot tea nearby is ideal right now."
+                "en": "A hot tea nearby is ideal right now.",
+                "el": "Ένα ζεστό τσάι κοντά είναι ιδανικό τώρα."
               }
             },
             {
@@ -1041,7 +1130,8 @@
                 "de": "Die Abfahrt kann bei Frost gefährlich sein.",
                 "hu": "A lejtő fagyban veszélyes lehet.",
                 "ro": "Coborârea poate fi periculoasă pe îngheț.",
-                "en": "The descent can be dangerous in frost."
+                "en": "The descent can be dangerous in frost.",
+                "el": "Η κατάβαση μπορεί να είναι επικίνδυνη στον παγετό."
               }
             }
           ],
@@ -1069,6 +1159,12 @@
               "Watch out for road salt; it can corrode the drivetrain.",
               "Plan your return before 16:30.",
               "A thermos of tea is your best companion."
+            ],
+            "el": [
+              "Ντύσου σε στρώσεις (αρχή του κρεμμυδιού).",
+              "Πρόσεχε το αλάτι του δρόμου· μπορεί να διαβρώσει το σύστημα κίνησης.",
+              "Σχεδίασε την επιστροφή πριν τις 16:30.",
+              "Ένα θερμός με τσάι είναι ο καλύτερος σύντροφος."
             ]
           }
         }
@@ -1087,7 +1183,8 @@
             "de": "Parkplatz am Eleftheria-Platz",
             "hu": "Parkoló az Eleftheria térnél",
             "ro": "Parcare Piața Eleftheria",
-            "en": "Parking at Eleftheria Square"
+            "en": "Parking at Eleftheria Square",
+            "el": "Στάθμευση στην Πλατεία Ελευθερίας"
           },
           "coords": [
             21.4285,
@@ -1103,7 +1200,8 @@
             "de": "Parken Sie hier, um den ersten Cluster von Sehenswürdigkeiten zu Fuß zu erkunden.",
             "hu": "Parkoljon le itt, hogy gyalog fedezze fel az első látnivaló-csoportot.",
             "ro": "Parcați aici pentru a explora primul grup de atracții pe jos.",
-            "en": "Park here to explore the first cluster of sights on foot."
+            "en": "Park here to explore the first cluster of sights on foot.",
+            "el": "Στάθμευσε εδώ για να εξερευνήσεις τον πρώτο συστάδα αξιοθέατων με τα πόδια."
           }
         },
         {
@@ -1111,7 +1209,8 @@
             "de": "Uhrturm & Eleftheria-Platz",
             "hu": "Óratorony és Eleftheria tér",
             "ro": "Turnul cu Ceas & Piața Eleftheria",
-            "en": "Clock Tower & Eleftheria Square"
+            "en": "Clock Tower & Eleftheria Square",
+            "el": "Πύργος Ρολογιού & Πλατεία Ελευθερίας"
           },
           "coords": [
             21.4272,
@@ -1127,7 +1226,8 @@
             "de": "Erkunden Sie den zentralen Platz und sein historisches Wahrzeichen.",
             "hu": "Fedezze fel a központi teret és történelmi jelképét.",
             "ro": "Explorați piața centrală și reperul său istoric.",
-            "en": "Explore the central square and its historic landmark."
+            "en": "Explore the central square and its historic landmark.",
+            "el": "Εξερεύνησε την κεντρική πλατεία και το ιστορικό της ορόσημο."
           }
         },
         {
@@ -1135,7 +1235,8 @@
             "de": "Kirche Agios Georgios",
             "hu": "Szent György-templom",
             "ro": "Biserica Agios Georgios",
-            "en": "Church of Agios Georgios"
+            "en": "Church of Agios Georgios",
+            "el": "Εκκλησία Αγίου Γεωργίου"
           },
           "coords": [
             21.4281,
@@ -1151,7 +1252,8 @@
             "de": "Ein kurzer Spaziergang vom Platz zu dieser beeindruckenden Kirche.",
             "hu": "Rövid séta a tértől ehhez a lenyűgöző templomhoz.",
             "ro": "O scurtă plimbare din piață până la această biserică impresionantă.",
-            "en": "A short walk from the square to this impressive church."
+            "en": "A short walk from the square to this impressive church.",
+            "el": "Μικρή βόλτα από την πλατεία προς αυτή την εντυπωσιακή εκκλησία."
           }
         },
         {
@@ -1159,7 +1261,8 @@
             "de": "Naturkundemuseum",
             "hu": "Természettudományi Múzeum",
             "ro": "Muzeul de Istorie Naturală",
-            "en": "Natural History Museum"
+            "en": "Natural History Museum",
+            "el": "Μουσείο Φυσικής Ιστορίας"
           },
           "coords": [
             21.4225,
@@ -1175,7 +1278,8 @@
             "de": "Fahren Sie zum nächsten Cluster. Hier gibt es gute Parkmöglichkeiten.",
             "hu": "Vezessen a következő látnivaló-csoporthoz. Itt jó parkolási lehetőségek vannak.",
             "ro": "Conduceți la următorul grup de atracții. Există locuri bune de parcare aici.",
-            "en": "Drive to the next cluster. There are good parking facilities here."
+            "en": "Drive to the next cluster. There are good parking facilities here.",
+            "el": "Οδήγησε προς τη δεύτερη συστάδα. Υπάρχουν καλές εγκαταστάσεις στάθμευσης εδώ."
           }
         },
         {
@@ -1183,7 +1287,8 @@
             "de": "Portitsa-Brücke und Schlucht",
             "hu": "Portitsa-híd és szurdok",
             "ro": "Podul și Cheile Portitsa",
-            "en": "Portitsa Bridge and Gorge"
+            "en": "Portitsa Bridge and Gorge",
+            "el": "Γέφυρα και Φαράγγι Πορτίτσας"
           },
           "coords": [
             21.3283,
@@ -1199,7 +1304,8 @@
             "de": "Der Höhepunkt des Tages. Planen Sie Zeit für Fotos und ein Picknick ein.",
             "hu": "A nap fénypontja. Tervezzen időt a fotózásra és egy piknikre.",
             "ro": "Punctul culminant al zilei. Planificați timp pentru fotografii și un picnic.",
-            "en": "The highlight of the day. Plan time for photos and a picnic."
+            "en": "The highlight of the day. Plan time for photos and a picnic.",
+            "el": "Το κορυφαίο σημείο της ημέρας. Σχεδίασε χρόνο για φωτογραφίες και πικνίκ."
           }
         },
         {
@@ -1207,7 +1313,8 @@
             "de": "Spätes Mittagessen im Dorf Spileo",
             "hu": "Késői ebéd Spileo faluban",
             "ro": "Prânz târziu în satul Spileo",
-            "en": "Late Lunch in Spileo Village"
+            "en": "Late Lunch in Spileo Village",
+            "el": "Αργό μεσημεριανό στο χωριό Σπήλαιο"
           },
           "coords": [
             21.331,
@@ -1223,7 +1330,8 @@
             "de": "Nach der Brücke können Sie in diesem charmanten Dorf eine Mahlzeit genießen.",
             "hu": "A híd után élvezzen egy étkezést ebben a bájos faluban.",
             "ro": "După pod, bucurați-vă de o masă în acest sat fermecător.",
-            "en": "After the bridge, enjoy a meal in this charming village."
+            "en": "After the bridge, enjoy a meal in this charming village.",
+            "el": "Μετά τη γέφυρα, απόλαυσε ένα γεύμα σε αυτό το γοητευτικό χωριό."
           }
         }
       ],
@@ -1231,7 +1339,8 @@
         "de": "Ihr Autotag beginnt im Herzen von Grevena. Parken Sie in der Nähe des Eleftheria-Platzes und erkunden Sie den ersten Cluster zu Fuß: den Platz selbst, den markanten Uhrturm und die spirituelle Agios-Georgios-Kirche. Dies ist ein entspannter Start, um die städtische Atmosphäre aufzusaugen.\nSteigen Sie wieder ins Auto für eine kurze Fahrt zum zweiten Cluster, dem Naturkundemuseum. Tauchen Sie tief in die prähistorische Welt der Mammuts ein. Nehmen Sie sich Zeit für die faszinierenden Ausstellungen, bevor Sie sich auf das größte Abenteuer des Tages begeben.\nDer Nachmittag ist für ein Naturwunder reserviert. Eine malerische Fahrt bringt Sie zur atemberaubenden Portitsa-Brücke, die sich über eine dramatische Schlucht spannt. Dieser Ort ist perfekt für Wanderungen, Fotografie und um die unberührte Natur der Region zu genießen.\nZum Abschluss Ihres Ausflugs fahren Sie in das nahegelegene Dorf Spileo. Nach einem kurzen Spaziergang von der Brücke können Sie hier ein spätes, herzhaftes Mittagessen in einer traditionellen Taverne genießen. Es ist der perfekte Ausklang eines Tages voller Kultur und spektakulärer Landschaften, bevor Sie nach Grevena zurückkehren.",
         "hu": "Autós napja Grevena szívében kezdődik. Parkoljon le az Eleftheria tér közelében, és fedezze fel gyalog az első látnivaló-csoportot: magát a teret, a jellegzetes Óratornyot és a spirituális Szent György-templomot. Ez egy nyugodt kezdet a városi hangulat befogadására.\nSzálljon vissza az autóba egy rövid útra a második látnivaló-csoporthoz, a Természettudományi Múzeumhoz. Merüljön el mélyen a mamutok őskori világában. Szánjon időt a lenyűgöző kiállításokra, mielőtt a nap legnagyobb kalandjára indulna.\nA délután egy természeti csodának van fenntartva. Egy festői autózás elviszi a lélegzetelállító Portitsa-hídhoz, amely egy drámai szurdok felett ível át. Ez a hely tökéletes túrázásra, fotózásra és a régió érintetlen természetének élvezetére.\nKirándulása befejezéseként hajtson a közeli Spileo faluba. A hídtól tett rövid séta után itt egy késői, kiadós ebédet fogyaszthat egy hagyományos tavernában. Ez a tökéletes befejezése egy kultúrával és látványos tájakkal teli napnak, mielőtt visszatérne Grevenába.",
         "ro": "Ziua dvs. cu mașina începe în inima Grevenei. Parcați lângă Piața Eleftheria și explorați pe jos primul grup de atracții: piața însăși, impunătorul Turn cu Ceas și spirituala Biserică Agios Georgios. Acesta este un început relaxat pentru a absorbi atmosfera urbană.\nUrcați din nou în mașină pentru o scurtă călătorie către al doilea grup, Muzeul de Istorie Naturală. Scufundați-vă adânc în lumea preistorică a mamuților. Luați-vă timp pentru exponatele fascinante înainte de a vă îmbarca în cea mai mare aventură a zilei.\nDupă-amiaza este rezervată unei minuni naturale. O călătorie pitorească cu mașina vă duce la uimitorul Pod Portitsa, care se întinde peste un canion dramatic. Acest loc este perfect pentru drumeții, fotografie și pentru a vă bucura de natura neatinsă a regiunii.\nPentru a încheia excursia, conduceți spre satul din apropiere, Spileo. După o scurtă plimbare de la pod, vă puteți bucura aici de un prânz târziu și copios la o tavernă tradițională. Este finalul perfect pentru o zi plină de cultură și peisaje spectaculoase, înainte de a vă întoarce în Grevena.",
-        "en": "Your car day begins in the heart of Grevena. Park near Eleftheria Square and explore the first cluster on foot: the square itself, the iconic Clock Tower, and the spiritual Church of Agios Georgios. This is a relaxed start to soak up the urban atmosphere.\nGet back in the car for a short drive to the second cluster, the Natural History Museum. Dive deep into the prehistoric world of mammoths. Take your time with the fascinating exhibits before embarking on the day's biggest adventure.\nThe afternoon is reserved for a natural wonder. A scenic drive takes you to the breathtaking Portitsa Bridge, spanning a dramatic gorge. This spot is perfect for hiking, photography, and enjoying the region's unspoiled nature.\nTo conclude your excursion, drive to the nearby village of Spileo. After a short walk from the bridge, you can enjoy a late, hearty lunch at a traditional taverna here. It's the perfect end to a day filled with culture and spectacular landscapes before heading back to Grevena."
+        "en": "Your car day begins in the heart of Grevena. Park near Eleftheria Square and explore the first cluster on foot: the square itself, the iconic Clock Tower, and the spiritual Church of Agios Georgios. This is a relaxed start to soak up the urban atmosphere.\nGet back in the car for a short drive to the second cluster, the Natural History Museum. Dive deep into the prehistoric world of mammoths. Take your time with the fascinating exhibits before embarking on the day's biggest adventure.\nThe afternoon is reserved for a natural wonder. A scenic drive takes you to the breathtaking Portitsa Bridge, spanning a dramatic gorge. This spot is perfect for hiking, photography, and enjoying the region's unspoiled nature.\nTo conclude your excursion, drive to the nearby village of Spileo. After a short walk from the bridge, you can enjoy a late, hearty lunch at a traditional taverna here. It's the perfect end to a day filled with culture and spectacular landscapes before heading back to Grevena.",
+        "el": "Η ημέρα με το αυτοκίνητο ξεκινά στην καρδιά των Γρεβενών. Στάθμευσε κοντά στην Πλατεία Ελευθερίας και εξερεύνησε την πρώτη συστάδα με τα πόδια: την ίδια την πλατεία, το εμβληματικό Ρολόι και την πνευματική Εκκλησία του Αγίου Γεωργίου. Αυτή είναι μια χαλαρή αρχή για να απολαύσεις την αστική ατμόσφαιρα.\nΕπέστρεψε στο αυτοκίνητο για μια σύντομη διαδρομή προς τη δεύτερη συστάδα, το Μουσείο Φυσικής Ιστορίας. Βυθίσου στον προϊστορικό κόσμο των μαμούθ. Πάρε τον χρόνο σου με τα συναρπαστικά εκθέματα πριν ξεκινήσεις τη μεγαλύτερη περιπέτεια της ημέρας.\nΤο απόγευμα είναι αφιερωμένο σε ένα φυσικό θαύμα. Μια γραφική διαδρομή σε φέρνει στη δραματική Γέφυρα Πορτίτσας, που εκτείνεται πάνω από ένα εντυπωσιακό φαράγγι. Αυτό το σημείο είναι ιδανικό για πεζοπορία, φωτογραφία και απόλαυση της ανεπηρέαστης φύσης της περιοχής.\nΓια να ολοκληρώσεις την εκδρομή, οδήγησε προς το κοντινό χωριό Σπήλαιο. Μετά από μια σύντομη βόλτα από τη γέφυρα, μπορείς να απολαύσεις ένα αργοπορημένο, χορταστικό γεύμα σε μια παραδοσιακή ταβέρνα εδώ. Είναι το τέλειο τέλος μιας ημέρας γεμάτης πολιτισμό και εντυπωσιακά τοπία πριν επιστρέψεις στα Γρεβενά."
       },
       "gastro_picks": {
         "de": [
@@ -1387,6 +1496,11 @@
           "Make sure your car is fully fueled before leaving the city.",
           "The roads to Portitsa Bridge can be narrow and winding, drive carefully.",
           "Use parking apps or ask locals for the best parking spots."
+        ],
+        "el": [
+          "Βεβαιώσου ότι το αυτοκίνητό σου έχει γεμίσει καύσιμα πριν φύγεις από την πόλη.",
+          "Οι δρόμοι προς τη Γέφυρα Πορτίτσας μπορεί να είναι στενοί και με στροφές· οδήγησε προσεκτικά.",
+          "Χρησιμοποίησε εφαρμογές στάθμευσης ή ρώτησε ντόπιους για τα καλύτερα σημεία στάθμευσης."
         ]
       },
       "variants": {
@@ -1395,7 +1509,8 @@
             "de": "Eine Autofahrt durch Grevena bei Regen ist entspannt und sicher. Wir parken direkt am Eleftheria-Platz und besuchen den Uhrturm im Schutz der umliegenden Gebäude. Das Highlight ist die Fahrt zum Museum und weiter zur Portitsa-Brücke, wobei die Scheibenwischer den Blick auf die nebligen Schluchten freigeben. Den Tag beenden wir mit einem gemütlichen Mittagessen in Spileo, während draußen der Regen fällt.",
             "hu": "Az autós túra Grevenában esőben kényelmes és biztonságos. Közvetlenül a főtérnél parkolunk, majd a múzeum felé vesszük az irányt. A Portitsa-hídhoz vezető út látványos a ködös szurdokokkal. A napot Spileo faluban zárjuk egy kellemes ebéddel, miközben az ablakon kopog az eső.",
             "ro": "O călătorie cu mașina prin Grevena pe ploaie este relaxantă și sigură. Parcăm direct lângă Piața Eleftheria și vizităm muzeul. Drumul spre Podul Portitsa este spectaculos, cu ștergătoarele dezvăluind cheile cețoase. Încheiem ziua cu un prânz plăcut în satul Spileo, în timp ce afară plouă.",
-            "en": "A car tour of Grevena in the rain is comfortable and safe. We park right by Eleftheria Square and head to the museum. The drive to Portitsa Bridge is spectacular, with wipers clearing the view of the misty gorges. We finish the day with a cozy lunch in Spileo village while the rain drums on the window."
+            "en": "A car tour of Grevena in the rain is comfortable and safe. We park right by Eleftheria Square and head to the museum. The drive to Portitsa Bridge is spectacular, with wipers clearing the view of the misty gorges. We finish the day with a cozy lunch in Spileo village while the rain drums on the window.",
+            "el": "Μια εκδρομή με το αυτοκίνητο στα Γρεβενά με βροχή είναι άνετη και ασφαλής. Σταθμεύουμε δίπλα στην Πλατεία Ελευθερίας και κατευθυνόμαστε στο μουσείο. Η διαδρομή προς τη Γέφυρα Πορτίτσας είναι θεαματική, με τα υαλοκαθαριστήρια να καθαρίζουν το θέαμα των ομιχλώδων φαραγγιών. Ολοκληρώνουμε την ημέρα με ένα ζεστό γεύμα στο χωριό Σπήλαιο ενώ η βροχή χτυπάει στο παράθυρο."
           },
           "stops": [
             {
@@ -1404,7 +1519,8 @@
                 "de": "Parken Sie nah am Ausgang für kurze Wege.",
                 "hu": "Parkoljon közel a kijárathoz a rövid séta érdekében.",
                 "ro": "Parcați aproape de ieșire pentru o plimbare scurtă.",
-                "en": "Park close to the exit for a short walk."
+                "en": "Park close to the exit for a short walk.",
+                "el": "Στάθμευσε κοντά στην έξοδο για μια σύντομη βόλτα."
               }
             },
             {
@@ -1413,7 +1529,8 @@
                 "de": "Regenschirm griffbereit im Auto halten.",
                 "hu": "Tartsa kéznél az esernyőt az autóban.",
                 "ro": "Țineți umbrela la îndemână în mașină.",
-                "en": "Keep your umbrella handy in the car."
+                "en": "Keep your umbrella handy in the car.",
+                "el": "Κράτα ομπρέλα άμεσα στο αυτοκίνητο."
               }
             },
             {
@@ -1422,7 +1539,8 @@
                 "de": "Kurzer Sprint vom Parkplatz zum Eingang.",
                 "hu": "Gyors sprint a parkolótól a bejáratig.",
                 "ro": "Sprint scurt de la parcare la intrare.",
-                "en": "Short sprint from the parking lot to the entrance."
+                "en": "Short sprint from the parking lot to the entrance.",
+                "el": "Σύντομη ικμάδα από τον χώρο στάθμευσης μέχρι την είσοδο."
               }
             },
             {
@@ -1431,7 +1549,8 @@
                 "de": "Perfekt für eine lange Regenpause.",
                 "hu": "Tökéletes helyszín egy hosszú esőszünethez.",
                 "ro": "Locație perfectă pentru o pauză lungă de ploaie.",
-                "en": "Perfect location for a long rain break."
+                "en": "Perfect location for a long rain break.",
+                "el": "Ιδανική τοποθεσία για μεγάλο διάλειμμα από τη βροχή."
               }
             },
             {
@@ -1440,7 +1559,8 @@
                 "de": "Vorsicht auf den nassen Bergstraßen nach Spileo.",
                 "hu": "Vigyázzon a vizes hegyi utakon Spileo felé.",
                 "ro": "Atenție pe drumurile de munte umede spre Spileo.",
-                "en": "Be careful on the wet mountain roads towards Spileo."
+                "en": "Be careful on the wet mountain roads towards Spileo.",
+                "el": "Πρόσεχε τους βρεγμένους ορεινούς δρόμους προς το Σπήλαιο."
               }
             },
             {
@@ -1449,7 +1569,8 @@
                 "de": "Genießen Sie den Blick auf den Regen aus dem Fenster.",
                 "hu": "Élvezze az eső látványát az ablakból.",
                 "ro": "Bucurați-vă de priveliștea ploii de la fereastră.",
-                "en": "Enjoy the view of the rain from the window."
+                "en": "Enjoy the view of the rain from the window.",
+                "el": "Απόλαυσε τη θέα της βροχής από το παράθυρο."
               }
             }
           ],
@@ -1477,6 +1598,12 @@
               "Visibility at Portitsa Gorge may be limited by fog.",
               "Choose paved parking spots to avoid mud.",
               "Use the defroster to keep the windshield clear."
+            ],
+            "el": [
+              "Πρόσεχε την υδρολίσθηση στους επαρχιακούς δρόμους.",
+              "Η ορατότητα στο Φαράγγι Πορτίτσας μπορεί να περιορίζεται από την ομίχλη.",
+              "Επίλεξε ασφαλείς, πλακόστρωτες θέσεις στάθμευσης για να αποφύγεις τη λάσπη.",
+              "Χρησιμοποίησε τον αφυγραντήρα για να διατηρείς το παρμπρίζ καθαρό."
             ]
           }
         },
@@ -1485,7 +1612,8 @@
             "de": "Winterzauber in Grevena erlebt man am besten mit dem Auto. Nach dem Start in der Stadt fahren wir durch verschneite Bergdörfer zum Museum. Die Fahrt zur Portitsa-Brücke bietet dramatische Ausblicke auf Eisformationen. Ein spätes Mittagessen in Spileo vor dem Kamin ist der ideale Abschluss, bevor wir vor Einbruch der Dunkelheit sicher zurückfahren.",
             "hu": "A téli varázslatot Grevenában legjobb autóval felfedezni. A városi indulás után havas hegyi falvakon át hajtunk a múzeumhoz. A Portitsa-híd felé vezető út drámai jégcsapokat és havas tájat kínál. Egy késői ebéd Spileo faluban a kandalló mellett tökéletes zárás, mielőtt sötétedés előtt visszatérnénk.",
             "ro": "Magia iernii în Grevena este cel mai bine explorată cu mașina. După plecarea din oraș, conducem prin sate montane înzăpezite spre muzeu. Drumul spre Podul Portitsa oferă vederi dramatice cu formațiuni de gheață. Un prânz târziu în Spileo lângă șemineu este finalul ideal înainte de a ne întoarce pe lumină.",
-            "en": "The winter magic of Grevena is best explored by car. After starting in town, we drive through snowy mountain villages to the museum. The trip to Portitsa Bridge offers dramatic views of ice formations and snow. A late lunch in Spileo village by the fireplace is the ideal conclusion before returning safely before dark."
+            "en": "The winter magic of Grevena is best explored by car. After starting in town, we drive through snowy mountain villages to the museum. The trip to Portitsa Bridge offers dramatic views of ice formations and snow. A late lunch in Spileo village by the fireplace is the ideal conclusion before returning safely before dark.",
+            "el": "Η χειμωνιάτικη μαγεία των Γρεβενών εξερευνάται καλύτερα με αυτοκίνητο. Αφού ξεκινήσεις από την πόλη, οδηγείς μέσα από χιονισμένα ορεινά χωριά προς το μουσείο. Η διαδρομή προς τη Γέφυρα Πορτίτσας προσφέρει δραματική θέα σε παγο-σχηματισμούς και χιόνι. Ένα αργό μεσημεριανό στο χωριό Σπήλαιο δίπλα στο τζάκι είναι το ιδανικό κλείσιμο πριν επιστρέψεις με ασφάλεια πριν νυχτώσει."
           },
           "stops": [
             {
@@ -1494,7 +1622,8 @@
                 "de": "Vorsicht beim Aussteigen auf glattem Boden.",
                 "hu": "Vigyázzon a kiszálláskor a csúszós talajon.",
                 "ro": "Atenție la coborâre pe solul alunecos.",
-                "en": "Be careful when getting out on slippery ground."
+                "en": "Be careful when getting out on slippery ground.",
+                "el": "Πρόσεχε όταν βγαίνεις στο ολισθηρό έδαφος."
               }
             },
             {
@@ -1503,7 +1632,8 @@
                 "de": "Kurzer Spaziergang, um die Kälte zu spüren.",
                 "hu": "Rövid séta, hogy érezze a friss hideget.",
                 "ro": "O scurtă plimbare pentru a simți frigul proaspăt.",
-                "en": "A short walk to feel the fresh cold air."
+                "en": "A short walk to feel the fresh cold air.",
+                "el": "Μικρή βόλτα για να νιώσεις τον δροσερό, καθαρό αέρα."
               }
             },
             {
@@ -1512,7 +1642,8 @@
                 "de": "Im Inneren ist es angenehm temperiert.",
                 "hu": "Bent kellemes a hőmérséklet.",
                 "ro": "În interior este o temperatură plăcută.",
-                "en": "Inside, the temperature is pleasant."
+                "en": "Inside, the temperature is pleasant.",
+                "el": "Μέσα, η θερμοκρασία είναι ευχάριστη."
               }
             },
             {
@@ -1521,7 +1652,8 @@
                 "de": "Viel Zeit für die Mammuts im Warmen einplanen.",
                 "hu": "Hagyjon időt a mamutokra a melegben.",
                 "ro": "Rezervați timp pentru mamuți la căldură.",
-                "en": "Allow plenty of time for the mammoths in the warm."
+                "en": "Allow plenty of time for the mammoths in the warm.",
+                "el": "Άφησε αρκετό χρόνο για τα μαμούθ στον ζεστό χώρο."
               }
             },
             {
@@ -1530,7 +1662,8 @@
                 "de": "Schneeketten könnten für diesen Abschnitt nötig sein.",
                 "hu": "Hólánc szükséges lehet ehhez a szakaszhoz.",
                 "ro": "Lanțurile de zăpadă pot fi necesare pentru această porțiune.",
-                "en": "Snow chains might be needed for this section."
+                "en": "Snow chains might be needed for this section.",
+                "el": "Ίσως χρειαστούν αλυσίδες χιονιού σε αυτό το τμήμα."
               }
             },
             {
@@ -1539,7 +1672,8 @@
                 "de": "Wählen Sie ein Gericht mit lokalen Steinpilzen.",
                 "hu": "Válasszon helyi vargányából készült ételt.",
                 "ro": "Alegeți un preparat cu hribi locali.",
-                "en": "Choose a dish with local porcini mushrooms."
+                "en": "Choose a dish with local porcini mushrooms.",
+                "el": "Διάλεξε πιάτο με ντόπια μανιτάρια πορτσίνι."
               }
             }
           ],
@@ -1567,6 +1701,12 @@
               "Check the antifreeze in your windshield washer fluid.",
               "Mountain shadows cause roads to freeze quickly.",
               "Keep a warm blanket in the car for emergencies."
+            ],
+            "el": [
+              "Τα χειμερινά ελαστικά είναι υποχρεωτικά στα βουνά της Πίνδου.",
+              "Έλεγξε το αντιψυκτικό στο υγρό πλύσης παρμπρίζ.",
+              "Οι ορεινές σκιές προκαλούν ταχύ πάγωμα των δρόμων.",
+              "Κράτα μια ζεστή κουβέρτα στο αυτοκίνητο για έκτακτες ανάγκες."
             ]
           }
         }
@@ -1585,7 +1725,8 @@
             "de": "Zentraler Busbahnhof / Eleftheria-Platz",
             "hu": "Központi buszpályaudvar / Eleftheria tér",
             "ro": "Autogara Centrală / Piața Eleftheria",
-            "en": "Central Bus Station / Eleftheria Square"
+            "en": "Central Bus Station / Eleftheria Square",
+            "el": "Κεντρικός Σταθμός Λεωφορείων / Πλατεία Ελευθερίας"
           },
           "coords": [
             21.4279,
@@ -1601,7 +1742,8 @@
             "de": "Beginnen Sie Ihren Tag im Zentrum. Kaufen Sie eine Tageskarte, falls verfügbar.",
             "hu": "Kezdje a napot a központban. Ha van, vegyen napijegyet.",
             "ro": "Începeți ziua în centru. Cumpărați un bilet de o zi, dacă este disponibil.",
-            "en": "Start your day in the center. Buy a day pass if available."
+            "en": "Start your day in the center. Buy a day pass if available.",
+            "el": "Ξεκίνα την ημέρα στο κέντρο. Αγόρασε ημερήσιο εισιτήριο αν υπάρχει."
           }
         },
         {
@@ -1609,7 +1751,8 @@
             "de": "Uhrturm von Grevena",
             "hu": "Grevena óratornya",
             "ro": "Turnul cu Ceas din Grevena",
-            "en": "Clock Tower of Grevena"
+            "en": "Clock Tower of Grevena",
+            "el": "Πύργος Ρολογιού Γρεβενών"
           },
           "coords": [
             21.4268,
@@ -1625,7 +1768,8 @@
             "de": "Ein kurzer Spaziergang vom Platz zu diesem ikonischen Wahrzeichen.",
             "hu": "Rövid séta a tértől ehhez az ikonikus jelképhez.",
             "ro": "O scurtă plimbare din piață până la acest reper iconic.",
-            "en": "A short walk from the square to this iconic landmark."
+            "en": "A short walk from the square to this iconic landmark.",
+            "el": "Μικρή βόλτα από την πλατεία σε αυτό το εμβληματικό ορόσημο."
           }
         },
         {
@@ -1633,7 +1777,8 @@
             "de": "Mühle von Gousios",
             "hu": "Gousios-malom",
             "ro": "Moara Gousios",
-            "en": "Gousios Mill"
+            "en": "Gousios Mill",
+            "el": "Μύλος Γούσιου"
           },
           "coords": [
             21.418,
@@ -1649,7 +1794,8 @@
             "de": "Nehmen Sie einen lokalen Bus zu diesem Kulturzentrum am Stadtrand.",
             "hu": "Menjen helyi busszal ehhez a város szélén található kulturális központhoz.",
             "ro": "Luați un autobuz local către acest centru cultural de la periferia orașului.",
-            "en": "Take a local bus to this cultural center on the outskirts of town."
+            "en": "Take a local bus to this cultural center on the outskirts of town.",
+            "el": "Πάρε το τοπικό λεωφορείο προς αυτό το πολιτιστικό κέντρο στην περιφέρεια της πόλης."
           }
         },
         {
@@ -1657,7 +1803,8 @@
             "de": "Naturkundemuseum",
             "hu": "Természettudományi Múzeum",
             "ro": "Muzeul de Istorie Naturală",
-            "en": "Natural History Museum"
+            "en": "Natural History Museum",
+            "el": "Μουσείο Φυσικής Ιστορίας"
           },
           "coords": [
             21.4225,
@@ -1673,7 +1820,8 @@
             "de": "Vom Mühlen-Cluster aus ist das Museum leicht zu Fuß erreichbar.",
             "hu": "A malom-csoporttól a múzeum könnyen megközelíthető gyalog.",
             "ro": "Muzeul este la o distanță de mers pe jos de la clusterul morii.",
-            "en": "The museum is within walking distance from the mill cluster."
+            "en": "The museum is within walking distance from the mill cluster.",
+            "el": "Το μουσείο είναι σε απόσταση με τα πόδια από τη συστάδα του μύλου."
           }
         },
         {
@@ -1681,7 +1829,8 @@
             "de": "Kirche Agios Georgios",
             "hu": "Szent György-templom",
             "ro": "Biserica Agios Georgios",
-            "en": "Church of Agios Georgios"
+            "en": "Church of Agios Georgios",
+            "el": "Εκκλησία Αγίου Γεωργίου"
           },
           "coords": [
             21.4281,
@@ -1697,7 +1846,8 @@
             "de": "Fahren Sie mit dem Bus zurück ins Zentrum für die Kirche und das Mittagessen.",
             "hu": "Menjen vissza busszal a központba a templomhoz és ebédelni.",
             "ro": "Luați autobuzul înapoi în centru pentru biserică și prânz.",
-            "en": "Take the bus back to the center for the church and lunch."
+            "en": "Take the bus back to the center for the church and lunch.",
+            "el": "Πάρε το λεωφορείο πίσω στο κέντρο για την εκκλησία και το μεσημεριανό."
           }
         },
         {
@@ -1705,7 +1855,8 @@
             "de": "Emilianos-Platz",
             "hu": "Emilianos tér",
             "ro": "Piața Emilianos",
-            "en": "Emilianos Square"
+            "en": "Emilianos Square",
+            "el": "Πλατεία Εμιλιανού"
           },
           "coords": [
             21.4288,
@@ -1721,7 +1872,8 @@
             "de": "Ein entspannter Ort, um den Nachmittag zu verbringen und die Eindrücke zu verarbeiten.",
             "hu": "Nyugodt hely a délután eltöltésére és az élmények feldolgozására.",
             "ro": "Un loc relaxant pentru a petrece după-amiaza și a procesa impresiile.",
-            "en": "A relaxing place to spend the afternoon and process the impressions."
+            "en": "A relaxing place to spend the afternoon and process the impressions.",
+            "el": "Ένας χαλαρωτικός χώρος για να περάσεις το απόγευμα και να επεξεργαστείς τις εντυπώσεις."
           }
         }
       ],
@@ -1729,7 +1881,8 @@
         "de": "Ihr Tag mit öffentlichen Verkehrsmitteln in Grevena beginnt am zentralen Busknotenpunkt am Eleftheria-Platz. Von hier aus erkunden Sie den ersten Cluster zu Fuß, einschließlich des Uhrturms, und genießen die morgendliche Atmosphäre der Stadt, bevor Sie in den Bus steigen.\nAls Nächstes bringt Sie eine kurze Busfahrt zum Stadtrand, wo sich die Gousios-Mühle befindet. Nach der Erkundung dieses industriellen Erbes spazieren Sie zum nahegelegenen Naturkundemuseum, um in die faszinierende Welt der Mammuts einzutauchen. Dieser Cluster bietet eine Mischung aus Geschichte und Wissenschaft.\nAm Nachmittag fahren Sie mit dem Bus zurück ins Stadtzentrum. Steigen Sie in der Nähe der Agios-Georgios-Kirche aus und nehmen Sie sich Zeit für einen Besuch und ein spätes Mittagessen in einer der nahegelegenen Tavernen. Dies ist die perfekte Gelegenheit, die lokale Küche zu probieren.\nDen Rest des Tages verbringen Sie mit einem gemütlichen Spaziergang zum Emilianos-Platz. Beobachten Sie das Treiben, genießen Sie einen letzten griechischen Kaffee und lassen Sie die vielfältigen Eindrücke des Tages auf sich wirken, bevor Sie zum zentralen Knotenpunkt zurückkehren.",
         "hu": "Tömegközlekedéssel töltött napja Grevenában az Eleftheria téri központi buszcsomópontnál kezdődik. Innen gyalogosan fedezi fel az első látnivaló-csoportot, beleértve az Óratornyot, és élvezi a város reggeli hangulatát, mielőtt buszra szállna.\nEzután egy rövid buszút elviszi a város szélére, ahol a Gousios-malom található. Az ipari örökség felfedezése után átsétál a közeli Természettudományi Múzeumba, hogy elmerüljön a mamutok lenyűgöző világában. Ez a látnivaló-csoport a történelem és a tudomány keverékét kínálja.\nDélután busszal tér vissza a városközpontba. Szálljon le a Szent György-templom közelében, és szánjon időt a látogatásra és egy késői ebédre a közeli tavernák egyikében. Ez a tökéletes alkalom a helyi konyha megkóstolására.\nA nap hátralévő részét egy kellemes sétával tölti az Emilianos térre. Figyelje a nyüzsgést, élvezzen egy utolsó görög kávét, és hagyja, hogy a nap változatos benyomásai hassanak Önre, mielőtt visszatérne a központi csomóponthoz.",
         "ro": "Ziua dvs. cu transportul public în Grevena începe la nodul central de autobuze din Piața Eleftheria. De aici, explorați pe jos primul grup de atracții, inclusiv Turnul cu Ceas, și bucurați-vă de atmosfera de dimineață a orașului înainte de a vă urca în autobuz.\nÎn continuare, o scurtă călătorie cu autobuzul vă duce la marginea orașului, unde se află Moara Gousios. După ce explorați acest patrimoniu industrial, mergeți pe jos la Muzeul de Istorie Naturală din apropiere pentru a vă cufunda în lumea fascinantă a mamuților. Acest grup oferă un amestec de istorie și știință.\nDupă-amiaza, luați autobuzul înapoi în centrul orașului. Coborâți lângă Biserica Agios Georgios și acordați-vă timp pentru o vizită și un prânz târziu la una dintre tavernele din apropiere. Aceasta este ocazia perfectă de a gusta bucătăria locală.\nPetreceți restul zilei cu o plimbare relaxantă spre Piața Emilianos. Priviți agitația, savurați o ultimă cafea grecească și lăsați impresiile diverse ale zilei să se așeze înainte de a vă întoarce la nodul central.",
-        "en": "Your day on public transport in Grevena begins at the central bus hub at Eleftheria Square. From here, you'll explore the first cluster on foot, including the Clock Tower, and enjoy the city's morning atmosphere before hopping on a bus.\nNext, a short bus ride takes you to the outskirts of town where the Gousios Mill is located. After exploring this industrial heritage site, you'll walk to the nearby Natural History Museum to immerse yourself in the fascinating world of mammoths. This cluster offers a mix of history and science.\nIn the afternoon, you'll take a bus back to the city center. Get off near the Church of Agios Georgios and take time for a visit and a late lunch at one of the nearby tavernas. This is the perfect opportunity to sample the local cuisine.\nSpend the rest of the day on a leisurely stroll to Emilianos Square. Watch the hustle and bustle, enjoy one last Greek coffee, and let the day's diverse impressions sink in before heading back to the central hub."
+        "en": "Your day on public transport in Grevena begins at the central bus hub at Eleftheria Square. From here, you'll explore the first cluster on foot, including the Clock Tower, and enjoy the city's morning atmosphere before hopping on a bus.\nNext, a short bus ride takes you to the outskirts of town where the Gousios Mill is located. After exploring this industrial heritage site, you'll walk to the nearby Natural History Museum to immerse yourself in the fascinating world of mammoths. This cluster offers a mix of history and science.\nIn the afternoon, you'll take a bus back to the city center. Get off near the Church of Agios Georgios and take time for a visit and a late lunch at one of the nearby tavernas. This is the perfect opportunity to sample the local cuisine.\nSpend the rest of the day on a leisurely stroll to Emilianos Square. Watch the hustle and bustle, enjoy one last Greek coffee, and let the day's diverse impressions sink in before heading back to the central hub.",
+        "el": "Η μέρα σου με τα μέσα μαζικής μεταφοράς στα Γρεβενά ξεκινά στον κεντρικό κόμβο λεωφορείων στην Πλατεία Ελευθερίας. Από εδώ θα εξερευνήσεις την πρώτη συστάδα με τα πόδια, συμπεριλαμβανομένου του Πύργου Ρολογιού, και θα απολαύσεις την πρωινή ατμόσφαιρα της πόλης πριν πάρεις το λεωφορείο.\nΣτη συνέχεια, μια σύντομη διαδρομή με λεωφορείο σε οδηγεί στα περίχωρα της πόλης όπου βρίσκεται ο Μύλος Γούσιου. Μετά την εξερεύνηση αυτού του βιομηχανικού μνημείου, θα περπατήσεις προς το κοντινό Μουσείο Φυσικής Ιστορίας για να βυθιστείς στον συναρπαστικό κόσμο των μαμούθ. Αυτή η συστάδα προσφέρει μείγμα ιστορίας και επιστήμης.\nΤο απόγευμα, θα πάρεις λεωφορείο πίσω στο κέντρο. Κατέβα κοντά στην Εκκλησία του Αγίου Γεωργίου και αφιέρωσε χρόνο σε μια επίσκεψη και σε ένα αργοπορημένο μεσημεριανό σε μια από τις κοντινές ταβέρνες. Είναι η τέλεια ευκαιρία να δοκιμάσεις την τοπική κουζίνα.\nΠέρασε το υπόλοιπο της ημέρας με έναν χαλαρό περίπατο προς την Πλατεία Εμιλιανού. Παρακολούθησε την κίνηση, απόλαυσε έναν τελευταίο ελληνικό καφέ και άφησε τις ποικίλες εντυπώσεις της ημέρας να κατασταλάξουν πριν επιστρέψεις στον κεντρικό κόμβο."
       },
       "gastro_picks": {
         "de": [
@@ -1882,6 +2035,11 @@
           "Check the bus schedule in advance, as frequencies may vary.",
           "Have small change ready for tickets if buying on board.",
           "Plan for extra time for waiting at the stops."
+        ],
+        "el": [
+          "Έλεγξε το πρόγραμμα των λεωφορείων εκ των προτέρων, καθώς οι συχνότητες ενδέχεται να διαφοροποιούνται.",
+          "Νάχεις μικρά ρέστα έτοιμα για εισιτήρια αν τα αγοράζεις στο λεωφορείο.",
+          "Σχεδίασε επιπλέον χρόνο για αναμονή στις στάσεις."
         ]
       },
       "variants": {
@@ -1890,7 +2048,8 @@
             "de": "Grevena mit dem Bus bei Regen ist praktisch. Wir starten am Busbahnhof und erreichen schnell die zentralen Sehenswürdigkeiten. Der Weg zur Mühle und zum Museum wird durch kurze Busfahrten überbrückt, was uns trocken hält. Mittags besuchen wir die beheizten Ausstellungsräume. Den Nachmittag verbringen wir in der Nähe des Emilianos-Platzes, wo wir bequem auf den nächsten Bus warten können.",
             "hu": "Buszozás Grevenában esőben praktikus választás. A buszpályaudvarról indulva gyorsan elérjük a központi látnivalókat. A malom és a múzeum felé vezető utat rövid buszozással hidaljuk át, így szárazon maradunk. Délben a fűtött múzeumban nézelődünk, majd az Emilianos tér közelében várjuk a visszautat egy meleg ital mellett.",
             "ro": "Mersul cu autobuzul în Grevena pe ploaie este o alegere practică. Pornind de la autogară, ajungem rapid la obiectivele centrale. Drumul spre moară și muzeu este parcurs cu autobuzul, ceea ce ne menține uscați. La prânz vizităm muzeul încălzit, apoi așteptăm drumul de întoarcere lângă Piața Emilianos cu o băutură caldă.",
-            "en": "Taking the bus in Grevena during rain is a practical choice. Starting from the bus station, we quickly reach central landmarks. Short bus rides keep us dry between the mill and the museum. We spend midday in the heated museum halls and later wait for our return near Emilianos Square with a hot drink."
+            "en": "Taking the bus in Grevena during rain is a practical choice. Starting from the bus station, we quickly reach central landmarks. Short bus rides keep us dry between the mill and the museum. We spend midday in the heated museum halls and later wait for our return near Emilianos Square with a hot drink.",
+            "el": "Το λεωφορείο στα Γρεβενά κατά τη βροχή είναι πρακτική επιλογή. Ξεκινώντας από τον σταθμό, φτάνουμε γρήγορα στα κεντρικά αξιοθέατα. Σύντομες διαδρομές με λεωφορείο μας κρατούν στεγνούς ανάμεσα στον μύλο και το μουσείο. Περάσαμε το μεσημέρι στις θερμαινόμενες αίθουσες του μουσείου και αργότερα περιμένουμε την επιστροφή μας κοντά στην Πλατεία Εμιλιανού με ένα ζεστό ρόφημα."
           },
           "stops": [
             {
@@ -1899,7 +2058,8 @@
                 "de": "Warten Sie im überdachten Bereich des Bahnhofs.",
                 "hu": "Várjon a pályaudvar fedett részén.",
                 "ro": "Așteptați în zona acoperită a gării.",
-                "en": "Wait in the covered area of the station."
+                "en": "Wait in the covered area of the station.",
+                "el": "Περίμενε στην καλυμμένη περιοχή του σταθμού."
               }
             },
             {
@@ -1908,7 +2068,8 @@
                 "de": "Nur ein kurzer Fußweg von der Haltestelle.",
                 "hu": "Csak rövid séta a buszmegállótól.",
                 "ro": "Doar o scurtă plimbare de la stație.",
-                "en": "Just a short walk from the bus stop."
+                "en": "Just a short walk from the bus stop.",
+                "el": "Μόλις λίγα βήματα από τη στάση του λεωφορείου."
               }
             },
             {
@@ -1917,7 +2078,8 @@
                 "de": "Informieren Sie sich über die Rückfahrtzeiten.",
                 "hu": "Tájékozódjon a visszaindulási időpontokról.",
                 "ro": "Informați-vă despre orele de întoarcere.",
-                "en": "Find out about the return times."
+                "en": "Find out about the return times.",
+                "el": "Μάθε τις ώρες επιστροφής."
               }
             },
             {
@@ -1926,7 +2088,8 @@
                 "de": "Ein idealer Ort, um einen Regenschauer abzuwarten.",
                 "hu": "Ideális hely egy zápor kivárásához.",
                 "ro": "Un loc ideal pentru a aștepta trecerea unei averse.",
-                "en": "An ideal place to wait out a rain shower."
+                "en": "An ideal place to wait out a rain shower.",
+                "el": "Ιδανικό μέρος για να περιμένεις να σταματήσει μια βροχή."
               }
             },
             {
@@ -1935,7 +2098,8 @@
                 "de": "Nutzen Sie die Kirche für eine trockene Pause.",
                 "hu": "Használja a templomot egy száraz szünetre.",
                 "ro": "Folosiți biserica pentru o pauză la uscat.",
-                "en": "Use the church for a dry break."
+                "en": "Use the church for a dry break.",
+                "el": "Χρησιμοποίησε την εκκλησία για ένα στεγνό διάλειμμα."
               }
             },
             {
@@ -1944,7 +2108,8 @@
                 "de": "Die Bushaltestelle ist ganz in der Nähe.",
                 "hu": "A buszmegálló egészen közel van.",
                 "ro": "Stația de autobuz este foarte aproape.",
-                "en": "The bus stop is very close by."
+                "en": "The bus stop is very close by.",
+                "el": "Η στάση του λεωφορείου είναι πολύ κοντά."
               }
             }
           ],
@@ -1972,6 +2137,12 @@
               "Buses may be delayed during heavy rain.",
               "Look for bus stops with shelters.",
               "An umbrella is necessary for the walk to the stop."
+            ],
+            "el": [
+              "Έχε μικρό χαρτί/ψιλά έτοιμα για την αγορά εισιτηρίων.",
+              "Τα λεωφορεία μπορεί να καθυστερήσουν κατά τη διάρκεια έντονης βροχής.",
+              "Ψάξτε για στάσεις λεωφορείου με στέγαστρα.",
+              "Χρειάζεται ομπρέλα για τη διαδρομή μέχρι τη στάση."
             ]
           }
         },
@@ -1980,7 +2151,8 @@
             "de": "Winterreisen mit dem Bus in Grevena sind gemütlich. Wir starten am zentralen Bahnhof und nutzen die geheizten Busse, um zwischen den Museen und dem Stadtzentrum zu pendeln. Die frostige Stadtlandschaft lässt sich sicher vom Fenster aus beobachten. Den späten Nachmittag verbringen wir am Emilianos-Platz in einer Taverne, bis der Abendbus uns zurückbringt.",
             "hu": "A téli buszos utazás Grevenában kényelmes. A központi pályaudvarról indulunk, és a fűtött buszokkal ingázunk a múzeumok és a városközpont között. A fagyos tájat biztonságosan figyelhetjük az ablakból. A késő délutánt az Emilianos tér egyik tavernájában töltjük, amíg az esti busz vissza nem visz minket.",
             "ro": "Călătoria cu autobuzul iarna în Grevena este confortabilă. Pornim de la gara centrală și folosim autobuzele încălzite pentru a face naveta între muzee și centrul orașului. Peisajul înghețat poate fi observat în siguranță de la fereastră. Petrecem după-amiaza târziu într-o tavernă din Piața Emilianos până când autobuzul de seară ne duce înapoi.",
-            "en": "Winter travel by bus in Grevena is comfortable. Starting from the central station, we use heated buses to commute between museums and the city center. The frosty landscape can be safely observed from the window. We spend the late afternoon in a tavern at Emilianos Square until the evening bus takes us back."
+            "en": "Winter travel by bus in Grevena is comfortable. Starting from the central station, we use heated buses to commute between museums and the city center. The frosty landscape can be safely observed from the window. We spend the late afternoon in a tavern at Emilianos Square until the evening bus takes us back.",
+            "el": "Τα χειμερινά ταξίδια με λεωφορείο στα Γρεβενά είναι άνετα. Ξεκινώντας από τον κεντρικό σταθμό, χρησιμοποιούμε θερμαινόμενα λεωφορεία για τις μετακινήσεις μεταξύ μουσείων και κέντρου. Το παγωμένο τοπίο μπορεί να παρατηρηθεί με ασφάλεια από το παράθυρο. Το αργό απόγευμα το περνάμε σε μια ταβέρνα στην Πλατεία Εμιλιανού μέχρι το βραδινό λεωφορείο που μας επιστρέφει."
           },
           "stops": [
             {
@@ -1989,7 +2161,8 @@
                 "de": "Prüfen Sie den Winterfahrplan vorab.",
                 "hu": "Ellenőrizze előre a téli menetrendet.",
                 "ro": "Verificați din timp mersul autobuzelor de iarnă.",
-                "en": "Check the winter schedule in advance."
+                "en": "Check the winter schedule in advance.",
+                "el": "Ελέγξτε το χειμερινό δρομολόγιο εκ των προτέρων."
               }
             },
             {
@@ -1998,7 +2171,8 @@
                 "de": "Nur kurz draußen bleiben, es ist windig.",
                 "hu": "Csak rövid ideig maradjon kint, szeles az idő.",
                 "ro": "Stați afară doar puțin timp, este vânt.",
-                "en": "Stay outside only for a short time; it's windy."
+                "en": "Stay outside only for a short time; it's windy.",
+                "el": "Μείνετε έξω μόνο για λίγο· φυσάει."
               }
             },
             {
@@ -2007,7 +2181,8 @@
                 "de": "Der Bus hält nur wenige Minuten entfernt.",
                 "hu": "A busz csak pár perc sétára áll meg.",
                 "ro": "Autobuzul oprește la doar câteva minute distanță.",
-                "en": "The bus stops just a few minutes' walk away."
+                "en": "The bus stops just a few minutes' walk away.",
+                "el": "Το λεωφορείο σταματά λίγα λεπτά με τα πόδια."
               }
             },
             {
@@ -2016,7 +2191,8 @@
                 "de": "Perfekt zum Aufwärmen zwischen den Fahrten.",
                 "hu": "Tökéletes melegedő az utazások között.",
                 "ro": "Perfect pentru încălzire între călătorii.",
-                "en": "Perfect for warming up between rides."
+                "en": "Perfect for warming up between rides.",
+                "el": "Ιδανικό για να ζεσταθείτε ανάμεσα στις διαδρομές."
               }
             },
             {
@@ -2025,7 +2201,8 @@
                 "de": "Ein friedlicher, warmer Ort im Winter.",
                 "hu": "Békés, meleg hely télen.",
                 "ro": "Un loc liniștit și cald iarna.",
-                "en": "A peaceful, warm place in winter."
+                "en": "A peaceful, warm place in winter.",
+                "el": "Ένας ήρεμος, ζεστός χώρος το χειμώνα."
               }
             },
             {
@@ -2034,7 +2211,8 @@
                 "de": "Warten Sie in einem Café auf den Bus.",
                 "hu": "Várja a buszt egy kávézóban.",
                 "ro": "Așteptați autobuzul într-o cafenea.",
-                "en": "Wait for the bus in a cafe."
+                "en": "Wait for the bus in a cafe.",
+                "el": "Περιμένετε το λεωφορείο σε ένα καφέ."
               }
             }
           ],
@@ -2062,6 +2240,12 @@
               "The heating on buses is usually very strong.",
               "Allow extra time for potential snow clearing.",
               "Fewer buses run in the evening; check the last trip."
+            ],
+            "el": [
+              "Τα λεωφορεία είναι συχνά η ασφαλέστερη επιλογή το χειμώνα.",
+              "Η θέρμανση στα λεωφορεία είναι συνήθως πολύ δυνατή.",
+              "Δώστε επιπλέον χρόνο για πιθανό καθαρισμό του χιονιού.",
+              "Λιγότερα λεωφορεία κυκλοφορούν το βράδυ· ελέγξτε το τελευταίο δρομολόγιο."
             ]
           }
         }

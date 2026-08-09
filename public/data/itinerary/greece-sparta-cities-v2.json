@@ -21,7 +21,8 @@
             "de": "Zentralplatz von Sparta",
             "hu": "Spárta központi tere",
             "ro": "Piața Centrală din Sparta",
-            "en": "Central Square of Sparta"
+            "en": "Central Square of Sparta",
+            "el": "Κεντρική Πλατεία Σπάρτης"
           },
           "coords": [
             22.4305,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie den Tag mit einem Kaffee in einem der vielen Cafés am Platz.",
             "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában!",
             "ro": "Începeți ziua cu o cafea la una dintre numeroasele cafenele din piață.",
-            "en": "Start your day with a coffee at one of the many cafes on the square."
+            "en": "Start your day with a coffee at one of the many cafes on the square.",
+            "el": "Ξεκινήστε τη μέρα με έναν καφέ σε ένα από τα πολλά καφέ της πλατείας."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Archäologisches Museum",
             "hu": "Régészeti Múzeum",
             "ro": "Muzeul de Arheologie",
-            "en": "Archaeological Museum"
+            "en": "Archaeological Museum",
+            "el": "Αρχαιολογικό Μουσείο"
           },
           "coords": [
             22.4288,
@@ -59,7 +62,8 @@
             "de": "Konzentrieren Sie sich auf die Mosaike und die archaischen Skulpturen.",
             "hu": "Fókuszáljon a mozaikokra és az archaikus szobrokra.",
             "ro": "Concentrați-vă pe mozaicuri și sculpturile arhaice.",
-            "en": "Focus on the mosaics and the archaic sculptures."
+            "en": "Focus on the mosaics and the archaic sculptures.",
+            "el": "Εστιάστε στα ψηφιδωτά και τα αρχαϊκά γλυπτά."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Leonidas-Statue",
             "hu": "Leonidász-szobor",
             "ro": "Statuia lui Leonidas",
-            "en": "Statue of Leonidas"
+            "en": "Statue of Leonidas",
+            "el": "Άγαλμα του Λεωνίδα"
           },
           "coords": [
             22.4245,
@@ -82,7 +87,8 @@
             "de": "Ein ikonischer Fotospot am Ende der Hauptstraße.",
             "hu": "Ikonikus fotóhely a főutca végén.",
             "ro": "Un loc iconic pentru fotografii la capătul străzii principale.",
-            "en": "An iconic photo spot at the end of the main street."
+            "en": "An iconic photo spot at the end of the main street.",
+            "el": "Ένα εμβληματικό σημείο για φωτογραφίες στο τέλος της κεντρικής οδού."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Antikes Sparta",
             "hu": "Antik Spárta",
             "ro": "Sparta Antică",
-            "en": "Ancient Sparta"
+            "en": "Ancient Sparta",
+            "el": "Αρχαία Σπάρτη"
           },
           "coords": [
             22.4239,
@@ -105,7 +112,8 @@
             "de": "Tragen Sie festes Schuhwerk, das Gelände ist uneben.",
             "hu": "Viseljen kényelmes cipőt, a terep egyenetlen.",
             "ro": "Purtați încălțăminte solidă, terenul este accidentat.",
-            "en": "Wear sturdy shoes as the terrain is uneven."
+            "en": "Wear sturdy shoes as the terrain is uneven.",
+            "el": "Φορέστε γερά παπούτσια καθώς το έδαφος είναι ανώμαλο."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Grab des Leonidas",
             "hu": "Leonidász sírja",
             "ro": "Mormântul lui Leonidas",
-            "en": "Tomb of Leonidas"
+            "en": "Tomb of Leonidas",
+            "el": "Τάφος του Λεωνίδα"
           },
           "coords": [
             22.426,
@@ -128,7 +137,8 @@
             "de": "Ein Ort der stillen Einkehr und des Gedenkens.",
             "hu": "A csendes elmélkedés és emlékezés helye.",
             "ro": "Un loc de reflecție tăcută și comemorare.",
-            "en": "A place for quiet reflection and remembrance."
+            "en": "A place for quiet reflection and remembrance.",
+            "el": "Ένας χώρος για ήσυχη περισυλλογή και μνήμη."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Olivenmuseum",
             "hu": "Olívamúzeum",
             "ro": "Muzeul Măslinelor",
-            "en": "Museum of the Olive"
+            "en": "Museum of the Olive",
+            "el": "Μουσείο της Ελιάς"
           },
           "coords": [
             22.4231,
@@ -151,7 +162,8 @@
             "de": "Probieren Sie die verschiedenen Olivenöle im Museumsshop.",
             "hu": "Kóstolja meg a különböző olívaolajokat a múzeumi boltban.",
             "ro": "Degustați diferitele uleiuri de măsline la magazinul muzeului.",
-            "en": "Sample the different olive oils in the museum shop."
+            "en": "Sample the different olive oils in the museum shop.",
+            "el": "Δοκιμάστε τα διαφορετικά ελαιόλαδα στο μουσείο-κατάστημα."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Heiligtum der Artemis Orthia",
             "hu": "Artemisz Orthia szentélye",
             "ro": "Sanctuarul lui Artemis Orthia",
-            "en": "Sanctuary of Artemis Orthia"
+            "en": "Sanctuary of Artemis Orthia",
+            "el": "Ιερό της Αρτέμιδας Ορθίας"
           },
           "coords": [
             22.429,
@@ -174,7 +187,8 @@
             "de": "Stellen Sie sich die spartanischen Rituale vor, die hier stattfanden.",
             "hu": "Képzelje el a spártai rituálékat, amelyek itt zajlottak.",
             "ro": "Imaginați-vă ritualurile spartane care aveau loc aici.",
-            "en": "Imagine the Spartan rituals that took place here."
+            "en": "Imagine the Spartan rituals that took place here.",
+            "el": "Φανταστείτε τα σπαρτιατικά τελετουργικά που λάμβαναν χώρα εδώ."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Beginnen Sie Ihren Tag auf dem lebhaften Zentralplatz, um die moderne spartanische Atmosphäre zu spüren. Der Vormittag ist der Antike gewidmet, mit einem tiefen Einblick in das Archäologische Museum, gefolgt von einem Besuch der Ruinen des antiken Sparta, wo Geschichte lebendig wird. Am Nachmittag erkunden Sie die kulturelle Bedeutung der Olive im faszinierenden Olivenmuseum. Der Spaziergang führt Sie weiter zu heiligen Stätten und ehrenvollen Monumenten wie dem Grab des Leonidas. Lassen Sie den Tag ausklingen, während Sie durch die Straßen schlendern und über das strenge, aber faszinierende Erbe der Stadt nachdenken.",
         "hu": "Kezdje a napot a nyüzsgő központi téren, hogy átérezze a modern spártai hangulatot. A délelőtt az ókoré: mélyedjen el a Régészeti Múzeum kincseiben, majd látogasson el az antik Spárta romjaihoz, ahol a történelem megelevenedik. Délután fedezze fel az olajbogyó kulturális jelentőségét az érdekes Olívamúzeumban. Sétája szent helyekhez és tiszteletet parancsoló emlékművekhez vezet, mint például Leonidász sírjához. Zárja a napot a város utcáin sétálva, elgondolkodva a város zord, mégis lenyűgöző örökségén.",
         "ro": "Începeți ziua în Piața Centrală plină de viață pentru a simți atmosfera spartană modernă. Dimineața este dedicată antichității, cu o incursiune profundă în Muzeul de Arheologie, urmată de o vizită la ruinele Spartei antice, unde istoria prinde viață. După-amiaza, explorați importanța culturală a măslinelor la fascinantul Muzeu al Măslinelor. Plimbarea vă va purta mai departe spre situri sacre și monumente onorabile, cum ar fi Mormântul lui Leonidas. Încheiați ziua plimbându-vă pe străzi, reflectând la moștenirea austeră, dar fascinantă, a orașului.",
-        "en": "Start your day in the bustling Central Square to feel the modern Spartan atmosphere. The morning is dedicated to antiquity, with a deep dive into the Archaeological Museum, followed by a visit to the ruins of ancient Sparta where history comes to life. In the afternoon, explore the cultural significance of the olive at the fascinating Museum of the Olive. Your walk will take you further to sacred sites and honorable monuments like the Tomb of Leonidas. End the day strolling through the streets, reflecting on the city's austere yet fascinating heritage."
+        "en": "Start your day in the bustling Central Square to feel the modern Spartan atmosphere. The morning is dedicated to antiquity, with a deep dive into the Archaeological Museum, followed by a visit to the ruins of ancient Sparta where history comes to life. In the afternoon, explore the cultural significance of the olive at the fascinating Museum of the Olive. Your walk will take you further to sacred sites and honorable monuments like the Tomb of Leonidas. End the day strolling through the streets, reflecting on the city's austere yet fascinating heritage.",
+        "el": "Ξεκινήστε τη μέρα σας στην πολυσύχναστη Κεντρική Πλατεία για να νιώσετε τη σύγχρονη σπαρτιατική ατμόσφαιρα. Το πρωί αφιερώστε χρόνο στην αρχαιότητα με επισκόπηση στο Αρχαιολογικό Μουσείο και μια επίσκεψη στα ερείπια της αρχαίας Σπάρτης όπου η ιστορία ζωντανεύει. Το απόγευμα εξερευνήστε τη πολιτιστική σημασία της ελιάς στο συναρπαστικό Μουσείο της Ελιάς. Η βόλτα σας θα συνεχιστεί σε ιερούς χώρους και αξιότιμα μνημεία όπως ο Τάφος του Λεωνίδα. Ολοκληρώστε τη μέρα περπατώντας στους δρόμους και αναλογιζόμενοι την αυστηρή αλλά γοητευτική κληρονομιά της πόλης."
       },
       "gastro_picks": {
         "de": [
@@ -378,6 +393,12 @@
           "Bring a reusable water bottle; it can get hot.",
           "Most archaeological sites have little shade, so bring a hat and sunscreen.",
           "Museum opening hours can vary, check them in advance."
+        ],
+        "el": [
+          "Φορέστε άνετα παπούτσια καθώς θα περπατήσετε πολύ.",
+          "Φέρτε επαναχρησιμοποιούμενο παγούρι νερού· μπορεί να ζεστάνει.",
+          "Τα περισσότερα αρχαιολογικά σημεία έχουν λίγη σκιά, οπότε φέρτε καπέλο και αντηλιακό.",
+          "Οι ώρες λειτουργίας των μουσείων μπορούν να διαφέρουν, ελέγξτε τις εκ των προτέρων."
         ]
       },
       "variants": {
@@ -386,7 +407,8 @@
             "de": "Der Morgen beginnt am regnerischen Hauptplatz, doch das Archäologische Museum bietet schnell Schutz und tiefe Einblicke in Lakonien.\nMittags trotzen wir dem Regen für Leonidas und die antiken Ruinen, die unter grauen Wolken besonders mystisch wirken.\nAm Nachmittag wärmen wir uns im Olivenmuseum auf, bevor wir den Tag am antiken Heiligtum der Artemis ausklingen lassen.\nAbends laden die Cafés rund um den Platz unter ihren Markisen zu einem gemütlichen und trockenen Abschluss ein.",
             "hu": "A reggel a szemerkélő esőben a főtéren indul, de a Régészeti Múzeum hamar menedéket és ókori kincseket kínál.\nDélben ernyővel látogatjuk meg Leonidász szobrát és az akropoliszt, melyek esőben is méltóságteljesek.\nDélután az Olívamúzeum fedett tereiben ismerkedünk a görög arannyal, majd az Artemisz-szentély következik.\nEste a kivilágított belváros árkádjai alatt keresünk egy kellemes tavernát a vacsorához, távol a víztől.",
             "ro": "Dimineața începe în piața centrală sub o ploaie ușoară, dar Muzeul Arheologic oferă rapid adăpost și istorie.\nLa prânz, explorăm situl antic cu umbrela, admirând măreția Spartei sub cerul plumburiu și dramatic.\nDupă-amiaza ne încălzim la Muzeul Măslinului, descoperind secretele agriculturii locale în interiorul primitor.\nSeara se încheie confortabil într-un local din centru, feriți de intemperiile de afară, cu o băutură caldă.",
-            "en": "Morning starts at the rainy central square, but the Archaeological Museum quickly provides shelter and ancient wonders.\nAt midday, we brave the rain with umbrellas to see Leonidas and the ruins of the ancient acropolis.\nIn the afternoon, the Museum of the Olive offers a dry and fascinating look at local traditions.\nEvening concludes with a cozy dinner in the city center, relaxing in a warm environment away from the wet streets."
+            "en": "Morning starts at the rainy central square, but the Archaeological Museum quickly provides shelter and ancient wonders.\nAt midday, we brave the rain with umbrellas to see Leonidas and the ruins of the ancient acropolis.\nIn the afternoon, the Museum of the Olive offers a dry and fascinating look at local traditions.\nEvening concludes with a cozy dinner in the city center, relaxing in a warm environment away from the wet streets.",
+            "el": "Το πρωί ξεκινάει στην βροχερή κεντρική πλατεία, αλλά το Αρχαιολογικό Μουσείο γρήγορα προσφέρει καταφύγιο και αρχαία θαύματα.\nΤο μεσημέρι τολμάμε τη βροχή με ομπρέλες για να δούμε τον Λεωνίδα και τα ερείπια της αρχαίας ακρόπολης.\nΤο απόγευμα, το Μουσείο της Ελιάς προσφέρει μια στεγνή και συναρπαστική ματιά στις τοπικές παραδόσεις.\nΤο βράδυ ολοκληρώνεται με ένα ζεστό δείπνο στο κέντρο της πόλης, χαλαρώνοντας σε ένα ζεστό περιβάλλον μακριά από τους βρεγμένους δρόμους."
           },
           "stops": [
             {
@@ -395,7 +417,8 @@
                 "de": "Nutzen Sie die Arkaden der umliegenden Gebäude als Regenschutz.",
                 "hu": "Használja a környező épületek árkádjait az eső elleni védelemre.",
                 "ro": "Folosiți arcadele clădirilor din jur pentru a vă proteja de ploaie.",
-                "en": "Use the arcades of the surrounding buildings for rain protection."
+                "en": "Use the arcades of the surrounding buildings for rain protection.",
+                "el": "Χρησιμοποιήστε τις στοές των περιβαλλουσών κτιρίων για προστασία από τη βροχή."
               }
             },
             {
@@ -404,7 +427,8 @@
                 "de": "Perfekter Ort, um einen starken Regenschauer trocken zu überstehen.",
                 "hu": "Tökéletes hely egy intenzívebb zápor száraz átvészeléséhez.",
                 "ro": "Locul perfect pentru a aștepta trecerea unei ploi torențiale.",
-                "en": "Perfect place to stay dry during a heavy downpour."
+                "en": "Perfect place to stay dry during a heavy downpour.",
+                "el": "Ιδανικό μέρος για να παραμείνετε στεγνοί σε δυνατή καταιγίδα."
               }
             },
             {
@@ -413,7 +437,8 @@
                 "de": "Kurzer Fotostopp; der Boden vor dem Stadion kann rutschig sein.",
                 "hu": "Gyors fotómegálló; a stadion előtti talaj csúszós lehet.",
                 "ro": "Oprire scurtă pentru poze; solul din fața stadionului poate fi alunecos.",
-                "en": "Quick photo stop; the ground in front of the stadium can be slippery."
+                "en": "Quick photo stop; the ground in front of the stadium can be slippery.",
+                "el": "Γρήγορη στάση για φωτογραφία· το έδαφος μπροστά στο στάδιο μπορεί να είναι ολισθηρό."
               }
             },
             {
@@ -422,7 +447,8 @@
                 "de": "Die Pfade sind unbefestigt; festes, wasserdichtes Schuhwerk ist ratsam.",
                 "hu": "Az ösvények nem burkoltak; vízálló lábbeli erősen ajánlott.",
                 "ro": "Potecile nu sunt pavate; se recomandă încălțăminte impermeabilă.",
-                "en": "Paths are unpaved; waterproof footwear is highly recommended."
+                "en": "Paths are unpaved; waterproof footwear is highly recommended.",
+                "el": "Οι μονοπάτια είναι αδιαμόρφωτα· συνιστώνται αδιάβροχα παπούτσια."
               }
             },
             {
@@ -431,7 +457,8 @@
                 "de": "Ein kurzer Aufenthalt im Freien reicht hier völlig aus.",
                 "hu": "Egy rövid szabadtéri tartózkodás is bőven elég itt esőben.",
                 "ro": "O scurtă oprire în aer liber este suficientă aici pe ploaie.",
-                "en": "A short outdoor stay is quite enough here in the rain."
+                "en": "A short outdoor stay is quite enough here in the rain.",
+                "el": "Μια σύντομη παραμονή σε εξωτερικό χώρο είναι αρκετή εδώ στη βροχή."
               }
             },
             {
@@ -440,7 +467,8 @@
                 "de": "Genießen Sie die umfangreiche Innenausstellung ohne Zeitdruck.",
                 "hu": "Élvezze a kiterjedt belső kiállítást időnyomás nélkül.",
                 "ro": "Bucurați-vă de expoziția interioară extinsă fără nicio grabă.",
-                "en": "Enjoy the extensive indoor exhibition without any time pressure."
+                "en": "Enjoy the extensive indoor exhibition without any time pressure.",
+                "el": "Απολαύστε την εκτενή εσωτερική έκθεση χωρίς πίεση χρόνου."
               }
             },
             {
@@ -449,7 +477,8 @@
                 "de": "Achtung bei den Ruinen, die Steine werden bei Nässe sehr glatt.",
                 "hu": "Vigyázat a romoknál, a kövek nedvesen nagyon csúsznak.",
                 "ro": "Atenție la ruine, pietrele devin foarte alunecoase când sunt ude.",
-                "en": "Careful at the ruins, the stones become very slippery when wet."
+                "en": "Careful at the ruins, the stones become very slippery when wet.",
+                "el": "Προσοχή στα ερείπια, οι πέτρες γίνονται πολύ ολισθηρές όταν βραχούν."
               }
             }
           ],
@@ -481,6 +510,13 @@
               "Wear waterproof shoes for the unpaved paths at Ancient Sparta.",
               "A small umbrella is ideal for the short walks between sights.",
               "The cafes on the square offer cozy, sheltered spots."
+            ],
+            "el": [
+              "Εκμεταλλευτείτε τις στοές γύρω από την κεντρική πλατεία για στεγνό περπάτημα.",
+              "Σχεδιάστε μεγαλύτερες παραμονές στα δύο εξαιρετικά μουσεία.",
+              "Φορέστε αδιάβροχα παπούτσια για τα αδιαμόρφωτα μονοπάτια στην Αρχαία Σπάρτη.",
+              "Μια μικρή ομπρέλα είναι ιδανική για τις σύντομες βόλτες μεταξύ των αξιοθέατων.",
+              "Τα καφέ στην πλατεία προσφέρουν ζεστές, προστατευμένες θέσεις."
             ]
           }
         },
@@ -489,7 +525,8 @@
             "de": "Ein frischer Wintermorgen am Hauptplatz startet den Tag belebend, bevor das Museum angenehme Wärme spendet.\nMittags nutzen wir das klare Winterlicht für Fotos von Leonidas und erkunden die antiken Stätten unter der milden Sonne.\nAm Nachmittag bietet das Olivenmuseum eine faszinierende und warme Pause vom kühlen Wind des Evrotas-Tals.\nDa die Sonne früh untergeht, genießen wir die blaue Stunde am Heiligtum und kehren dann in die belebte Innenstadt zurück.",
             "hu": "A friss téli reggel a főtéren élénkítően indítja a napot, mielőtt a múzeum kellemes melegébe vonulnunk.\nDélben a tiszta téli fényt használjuk ki Leonidász fotózásához és az antik romok bejárásához.\nDélután az Olívamúzeum nyújt izgalmas és meleg pihenőt az Evrotasz-völgy hűvös szele elől.\nMivel a nap korán nyugszik, az alkonyat fényeit már a szentélynél élvezzük, majd irány a városközpont.",
             "ro": "O dimineață răcoroasă de iarnă în piața centrală ne înviorează înainte de a intra în căldura muzeului.\nLa prânz, profităm de lumina clară pentru poze cu Leonidas și explorăm siturile antice sub soarele blând.\nDupă-amiaza, Muzeul Măslinului oferă o pauză fascinantă și caldă de la vântul rece de pe valea Eurotas.\nDeoarece soarele apune devreme, admirăm amurgul la sanctuar și ne întoarcem în centrul animat al orașului.",
-            "en": "A crisp winter morning at the central square starts the day energetically before the museum provides warmth.\nAt midday, we take advantage of the clear winter light for photos of Leonidas and explore the ancient sites.\nIn the afternoon, the Museum of the Olive offers a fascinating and warm break from the cool valley breeze.\nAs the sun sets early, we enjoy the twilight at the sanctuary before returning to the lively city center."
+            "en": "A crisp winter morning at the central square starts the day energetically before the museum provides warmth.\nAt midday, we take advantage of the clear winter light for photos of Leonidas and explore the ancient sites.\nIn the afternoon, the Museum of the Olive offers a fascinating and warm break from the cool valley breeze.\nAs the sun sets early, we enjoy the twilight at the sanctuary before returning to the lively city center.",
+            "el": "Ένα δροσερό χειμωνιάτικο πρωί στην κεντρική πλατεία ξεκινά τη μέρα με ενέργεια πριν το μουσείο προσφέρει ζεστασιά.\nΤο μεσημέρι εκμεταλλευόμαστε το καθαρό χειμερινό φως για φωτογραφίες του Λεωνίδα και εξερευνούμε τους αρχαίους χώρους.\nΤο απόγευμα, το Μουσείο της Ελιάς προσφέρει ένα συναρπαστικό και ζεστό διάλειμμα από το δροσερό αεράκι της κοιλάδας.\nΚαθώς ο ήλιος δύει νωρίς, απολαμβάνουμε το λυκαυγές στο ιερό πριν επιστρέψουμε στο ζωηρό κέντρο της πόλης."
           },
           "stops": [
             {
@@ -498,7 +535,8 @@
                 "de": "Die Cafés servieren jetzt heißen griechischen Kaffee zum Aufwärmen.",
                 "hu": "A kávézókban ilyenkor forró görög kávét mérnek a bemelegítéshez.",
                 "ro": "Cafenelele servesc acum cafea grecească fierbinte pentru încălzire.",
-                "en": "Cafes now serve hot Greek coffee to help you warm up."
+                "en": "Cafes now serve hot Greek coffee to help you warm up.",
+                "el": "Τα καφέ πλέον σερβίρουν ζεστό ελληνικό καφέ για να ζεσταθείτε."
               }
             },
             {
@@ -507,7 +545,8 @@
                 "de": "Ein gut geheizter Ort, um die Geschichte in Ruhe zu studieren.",
                 "hu": "Jól fűtött helyszín a történelem nyugodt tanulmányozásához.",
                 "ro": "Un loc bine încălzit pentru a studia istoria în liniște.",
-                "en": "A well-heated place to study history in peace."
+                "en": "A well-heated place to study history in peace.",
+                "el": "Ένας καλά θερμαινόμενος χώρος για να μελετήσετε την ιστορία σε ησυχία."
               }
             },
             {
@@ -516,7 +555,8 @@
                 "de": "Das klare Winterlicht lässt den König von Sparta heroisch glänzen.",
                 "hu": "A tiszta téli fényben Leonidász szobra hősi fényben tündököl.",
                 "ro": "Lumina clară de iarnă îl face pe regele Spartei să strălucească eroic.",
-                "en": "The clear winter light makes the King of Sparta shine heroically."
+                "en": "The clear winter light makes the King of Sparta shine heroically.",
+                "el": "Το καθαρό χειμερινό φως κάνει τον Βασιλιά της Σπάρτης να λάμπει ηρωικά."
               }
             },
             {
@@ -525,7 +565,8 @@
                 "de": "Bester Zeitpunkt für den Aufstieg, da die Hitze des Sommers fehlt.",
                 "hu": "A legjobb időpont a mászáshoz, mivel nincs nyári hőség.",
                 "ro": "Cel mai bun moment pentru urcare, deoarece lipsește arșița verii.",
-                "en": "Best time for the climb as the summer heat is absent."
+                "en": "Best time for the climb as the summer heat is absent.",
+                "el": "Καλύτερη ώρα για την ανάβαση καθώς απουσιάζει η καλοκαιρινή ζέστη."
               }
             },
             {
@@ -534,7 +575,8 @@
                 "de": "Ein kurzer Stopp reicht aus, bevor es wieder ins Warme geht.",
                 "hu": "Egy rövid megálló elég, mielőtt újra meleg helyre menne.",
                 "ro": "O scurtă oprire este suficientă înainte de a reveni la căldură.",
-                "en": "A short stop is enough before heading back to a warm place."
+                "en": "A short stop is enough before heading back to a warm place.",
+                "el": "Μια σύντομη στάση αρκεί πριν επιστρέψετε σε ένα ζεστό μέρος."
               }
             },
             {
@@ -543,7 +585,8 @@
                 "de": "Die Innenräume sind angenehm temperiert und sehr informativ.",
                 "hu": "A belső terek kellemes hőmérsékletűek és nagyon informatívak.",
                 "ro": "Spațiile interioare au o temperatură plăcută și sunt informative.",
-                "en": "The interior spaces are pleasantly tempered and very informative."
+                "en": "The interior spaces are pleasantly tempered and very informative.",
+                "el": "Οι εσωτερικοί χώροι είναι ευχάριστα θερμορυθμισμένοι και πολύ ενημερωτικοί."
               }
             },
             {
@@ -552,7 +595,8 @@
                 "de": "Beachten Sie den frühen Sonnenuntergang gegen 17:15 Uhr.",
                 "hu": "Ügyeljen a korai naplementére 17:15 körül.",
                 "ro": "Atenție la apusul timpuriu al soarelui în jurul orei 17:15.",
-                "en": "Be mindful of the early sunset around 5:15 PM."
+                "en": "Be mindful of the early sunset around 5:15 PM.",
+                "el": "Λάβετε υπόψη το νωπό ηλιοβασίλεμα γύρω στις 17:15."
               }
             }
           ],
@@ -584,6 +628,13 @@
               "Take advantage of the bright midday hours for the unshaded ruins.",
               "Keep in mind that it cools down quickly after sunset (around 5:15 PM).",
               "Enjoy the clear views of the snow-capped Taygetos mountains."
+            ],
+            "el": [
+              "Ντυθείτε με στρώσεις για τη μετάβαση μεταξύ εσωτερικών και εξωτερικών χώρων.",
+              "Τα μουσεία είναι ιδανικά μέρη για να ζεσταθείτε κατά τη διάρκεια της ημέρας.",
+              "Επωφεληθείτε από τις φωτεινές μεσημεριανές ώρες για τα απροσκάλυπτα ερείπια.",
+              "Να θυμάστε ότι κρυώνει γρήγορα μετά τη δύση (περίπου στις 17:15).",
+              "Απολαύστε τις καθαρές θέες προς τα χιονισμένα βουνά του Ταΰγετου."
             ]
           }
         }
@@ -602,7 +653,8 @@
             "de": "Zentralplatz von Sparta",
             "hu": "Spárta központi tere",
             "ro": "Piața Centrală din Sparta",
-            "en": "Central Square of Sparta"
+            "en": "Central Square of Sparta",
+            "el": "Κεντρική Πλατεία της Σπάρτης"
           },
           "coords": [
             22.4305,
@@ -617,7 +669,8 @@
             "de": "Parken Sie Ihr Fahrrad und genießen Sie einen Kaffee, um den Tag zu beginnen.",
             "hu": "Parkolja le a biciklit, és élvezzen egy kávét a nap indításaként.",
             "ro": "Parcați bicicleta și savurați o cafea pentru a începe ziua.",
-            "en": "Park your bike and enjoy a coffee to start the day."
+            "en": "Park your bike and enjoy a coffee to start the day.",
+            "el": "Σταθμεύστε το ποδήλατό σας και απολαύστε έναν καφέ για να ξεκινήσετε την ημέρα."
           }
         },
         {
@@ -625,7 +678,8 @@
             "de": "Archäologisches Museum",
             "hu": "Régészeti Múzeum",
             "ro": "Muzeul de Arheologie",
-            "en": "Archaeological Museum"
+            "en": "Archaeological Museum",
+            "el": "Αρχαιολογικό Μουσείο"
           },
           "coords": [
             22.4288,
@@ -640,7 +694,8 @@
             "de": "Schließen Sie Ihr Fahrrad gut ab, bevor Sie das Museum betreten.",
             "hu": "Zárja le jól a kerékpárt, mielőtt belép a múzeumba.",
             "ro": "Asigurați-vă bicicleta bine înainte de a intra în muzeu.",
-            "en": "Lock your bike securely before entering the museum."
+            "en": "Lock your bike securely before entering the museum.",
+            "el": "Κλειδώστε καλά το ποδήλατό σας πριν μπείτε στο μουσείο."
           }
         },
         {
@@ -648,7 +703,8 @@
             "de": "Leonidas-Statue",
             "hu": "Leonidász-szobor",
             "ro": "Statuia lui Leonidas",
-            "en": "Statue of Leonidas"
+            "en": "Statue of Leonidas",
+            "el": "Άγαλμα του Λεωνίδα"
           },
           "coords": [
             22.4245,
@@ -663,7 +719,8 @@
             "de": "Der perfekte Ort für ein schnelles Foto mit Ihrem Fahrrad.",
             "hu": "Tökéletes hely egy gyors fotóhoz a kerékpárjával.",
             "ro": "Locul perfect pentru o fotografie rapidă cu bicicleta.",
-            "en": "The perfect spot for a quick photo with your bike."
+            "en": "The perfect spot for a quick photo with your bike.",
+            "el": "Το τέλειο σημείο για μια γρήγορη φωτογραφία με το ποδήλατό σας."
           }
         },
         {
@@ -671,7 +728,8 @@
             "de": "Antikes Sparta",
             "hu": "Antik Spárta",
             "ro": "Sparta Antică",
-            "en": "Ancient Sparta"
+            "en": "Ancient Sparta",
+            "el": "Αρχαία Σπάρτη"
           },
           "coords": [
             22.4239,
@@ -686,7 +744,8 @@
             "de": "Erkunden Sie die weitläufige Anlage, das Fahrrad hilft, die Distanzen zu überbrücken.",
             "hu": "Fedezze fel a tágas területet, a kerékpár segít a távolságok áthidalásában.",
             "ro": "Explorați situl extins, bicicleta ajută la acoperirea distanțelor.",
-            "en": "Explore the expansive site, the bike helps cover the distances."
+            "en": "Explore the expansive site, the bike helps cover the distances.",
+            "el": "Εξερευνήστε τον εκτεταμένο χώρο, το ποδήλατο βοηθά να καλυφθούν οι αποστάσεις."
           }
         },
         {
@@ -694,7 +753,8 @@
             "de": "Heiligtum der Artemis Orthia",
             "hu": "Artemisz Orthia szentélye",
             "ro": "Sanctuarul lui Artemis Orthia",
-            "en": "Sanctuary of Artemis Orthia"
+            "en": "Sanctuary of Artemis Orthia",
+            "el": "Ιερό της Άρτεμης Ορθίας"
           },
           "coords": [
             22.429,
@@ -709,7 +769,8 @@
             "de": "Ein kurzer Abstecher vom Hauptweg, aber die ruhige Atmosphäre ist es wert.",
             "hu": "Rövid kitérő a fő útvonaltól, de a csendes hangulat megéri.",
             "ro": "Un scurt ocol de la traseul principal, dar atmosfera liniștită merită.",
-            "en": "A short detour from the main path, but the quiet atmosphere is worth it."
+            "en": "A short detour from the main path, but the quiet atmosphere is worth it.",
+            "el": "Μικρή παράκαμψη από το κύριο μονοπάτι, αλλά αξίζει η ήσυχη ατμόσφαιρα."
           }
         },
         {
@@ -717,7 +778,8 @@
             "de": "Menelaion",
             "hu": "Menelaion",
             "ro": "Menelaion",
-            "en": "Menelaion"
+            "en": "Menelaion",
+            "el": "Μενελάειον"
           },
           "coords": [
             22.45,
@@ -732,7 +794,8 @@
             "de": "Der Anstieg ist anspruchsvoll, aber die Aussicht ist die beste in der Region.",
             "hu": "Az emelkedő kihívást jelent, de a kilátás a legjobb a környéken.",
             "ro": "Urcușul este solicitant, dar priveliștea este cea mai bună din regiune.",
-            "en": "The climb is challenging, but the view is the best in the region."
+            "en": "The climb is challenging, but the view is the best in the region.",
+            "el": "Η ανάβαση είναι απαιτητική, αλλά η θέα είναι η καλύτερη στην περιοχή."
           }
         },
         {
@@ -740,7 +803,8 @@
             "de": "Olivenmuseum",
             "hu": "Olívamúzeum",
             "ro": "Muzeul Măslinelor",
-            "en": "Museum of the Olive"
+            "en": "Museum of the Olive",
+            "el": "Μουσείο της Ελιάς"
           },
           "coords": [
             22.4231,
@@ -755,7 +819,8 @@
             "de": "Eine willkommene Abwechslung nach der Radtour, um mehr über die lokale Kultur zu erfahren.",
             "hu": "Üdvözlendő kikapcsolódás a biciklitúra után, hogy többet tudjon meg a helyi kultúráról.",
             "ro": "O pauză binevenită după turul cu bicicleta pentru a afla mai multe despre cultura locală.",
-            "en": "A welcome break after the bike ride to learn about local culture."
+            "en": "A welcome break after the bike ride to learn about local culture.",
+            "el": "Ένα ευπρόσδεκτο διάλειμμα μετά τη βόλτα με το ποδήλατο για να μάθετε για την τοπική κουλτούρα."
           }
         },
         {
@@ -763,7 +828,8 @@
             "de": "Grab des Leonidas",
             "hu": "Leonidász sírja",
             "ro": "Mormântul lui Leonidas",
-            "en": "Tomb of Leonidas"
+            "en": "Tomb of Leonidas",
+            "el": "Τάφος του Λεωνίδα"
           },
           "coords": [
             22.426,
@@ -778,7 +844,8 @@
             "de": "Ein guter Ort, um die Tour zu beenden und über die Geschichte Spartas nachzudenken.",
             "hu": "Jó hely a túra befejezéséhez és Spárta történelmén való elmélkedéshez.",
             "ro": "Un loc bun pentru a încheia turul și a reflecta asupra istoriei Spartei.",
-            "en": "A good place to end the tour and reflect on Sparta's history."
+            "en": "A good place to end the tour and reflect on Sparta's history.",
+            "el": "Ένα καλό σημείο για να τελειώσετε τη βόλτα και να συλλογιστείτε την ιστορία της Σπάρτης."
           }
         }
       ],
@@ -786,7 +853,8 @@
         "de": "Schwingen Sie sich am Morgen auf Ihr Fahrrad und starten Sie am Zentralplatz, bevor Sie in die Geschichte im Archäologischen Museum eintauchen. Die Radtour führt Sie mittags zu den ikonischen Stätten des antiken Sparta, einschließlich der Leonidas-Statue und dem Heiligtum der Artemis. Der Nachmittag bringt eine Herausforderung mit dem Anstieg zum Menelaion, belohnt mit einer atemberaubenden Aussicht, gefolgt von einer informativen Pause im Olivenmuseum. Beenden Sie Ihre Tour am Grab des Leonidas und lassen Sie die heroische Vergangenheit der Stadt auf sich wirken.",
         "hu": "Pattanjon reggel kerékpárra a központi téren, mielőtt elmerülne a történelemben a Régészeti Múzeumban. A déli kerékpártúra az antik Spárta ikonikus helyszíneire vezet, beleértve Leonidász szobrát és Artemisz szentélyét. A délután kihívást tartogat a Menelaion megmászásával, amit lenyűgöző kilátás jutalmaz, majd egy informatív pihenő következik az Olívamúzeumban. Fejezze be a túrát Leonidász sírjánál, és hagyja, hogy átjárja a város hősies múltja.",
         "ro": "Urcați-vă pe bicicletă dimineața și porniți din Piața Centrală înainte de a vă cufunda în istorie la Muzeul de Arheologie. Turul cu bicicleta de la prânz vă duce la siturile iconice ale Spartei antice, inclusiv Statuia lui Leonidas și Sanctuarul lui Artemis. După-amiaza aduce o provocare cu urcarea la Menelaion, recompensată cu priveliști uluitoare, urmată de o pauză informativă la Muzeul Măslinelor. Încheiați-vă turul la Mormântul lui Leonidas, lăsând trecutul eroic al orașului să vă impresioneze.",
-        "en": "Hop on your bike in the morning and start from the Central Square before diving into history at the Archaeological Museum. The midday bike tour takes you to the iconic sites of ancient Sparta, including the Statue of Leonidas and the Sanctuary of Artemis. The afternoon brings a challenge with the climb to the Menelaion, rewarded with breathtaking views, followed by an informative break at the Museum of the Olive. End your tour at the Tomb of Leonidas, letting the city's heroic past sink in."
+        "en": "Hop on your bike in the morning and start from the Central Square before diving into history at the Archaeological Museum. The midday bike tour takes you to the iconic sites of ancient Sparta, including the Statue of Leonidas and the Sanctuary of Artemis. The afternoon brings a challenge with the climb to the Menelaion, rewarded with breathtaking views, followed by an informative break at the Museum of the Olive. End your tour at the Tomb of Leonidas, letting the city's heroic past sink in.",
+        "el": "Πιάστε το ποδήλατό σας το πρωί και ξεκινήστε από την Κεντρική Πλατεία πριν βυθιστείτε στην ιστορία στο Αρχαιολογικό Μουσείο. Η μεσημεριανή ποδηλατική διαδρομή σας οδηγεί στα εμβληματικά σημεία της αρχαίας Σπάρτης, συμπεριλαμβανομένου του Αγάλματος του Λεωνίδα και του Ιερού της Άρτεμης. Το απόγευμα φέρνει μια πρόκληση με την ανάβαση στο Μενελάειον, ανταμειβόμενη με εντυπωσιακές θέες, ακολουθούμενη από ένα ενημερωτικό διάλειμμα στο Μουσείο της Ελιάς. Τελειώστε την περιήγηση στον Τάφο του Λεωνίδα, αφήνοντας το ηρωικό παρελθόν της πόλης να σας συγκινήσει."
       },
       "gastro_picks": {
         "de": [
@@ -982,6 +1050,12 @@
           "A helmet is highly recommended, especially for the climb to Menelaion.",
           "Bring a small lock to secure your bike at the stops.",
           "Plan your route to avoid the hottest hours of the day."
+        ],
+        "el": [
+          "Ελέγξτε τα φρένα και τα ελαστικά πριν ξεκινήσετε.",
+          "Κράνος συνιστάται ανεπιφύλακτα, ειδικά για την ανάβαση στο Μενελάειον.",
+          "Φέρτε ένα μικρό λουκέτο για να ασφαλίσετε το ποδήλατο στις στάσεις.",
+          "Σχεδιάστε τη διαδρομή για να αποφύγετε τις πιο ζεστές ώρες της ημέρας."
         ]
       },
       "variants": {
@@ -990,7 +1064,8 @@
             "de": "Die Radtour startet vorsichtig am glatten Hauptplatz, bevor wir im Museum Schutz suchen.\nMittags radeln wir durch den Regen zu Leonidas und den Ruinen, wobei wir auf rutschige Straßen achten.\nNachmittags führt uns der Weg zum Menelaion und zurück zum Olivenmuseum, um uns aufzuwärmen.\nAm Abend beenden wir die Tour sicher am Grab des Leonidas und suchen trockene Unterkunft.",
             "hu": "A kerékpártúra óvatosan indul a csúszós főtéren, mielőtt a múzeumba menekülnénk.\nDélben az esőben tekerünk Leonidászhoz és a romokhoz, figyelve a csúszós utakra.\nDélután a Menelaion felé vesszük az irányt, majd vissza az Olívamúzeumba melegedni.\nEste biztonságosan fejezzük be a túrát Leonidász sírjánál, majd száraz helyet keresünk.",
             "ro": "Turul cu bicicleta începe cu prudență în piața alunecoasă, înainte de a ne adăposti la muzeu.\nLa prânz, pedalăm prin ploaie spre Leonidas și ruine, atenți la drumurile umede.\nDupă-amiaza ne îndreptăm spre Menelaion și înapoi la Muzeul Măslinului pentru a ne încălzi.\nSeara încheiem turul în siguranță la Mormântul lui Leonidas și căutăm un loc uscat.",
-            "en": "The bike tour starts cautiously on the slippery main square before seeking shelter at the museum.\nAt midday, we cycle through the rain to Leonidas and the ruins, being careful of wet roads.\nIn the afternoon, we head towards Menelaion and back to the Olive Museum to warm up.\nIn the evening, we safely finish the tour at the Tomb of Leonidas and find a dry spot."
+            "en": "The bike tour starts cautiously on the slippery main square before seeking shelter at the museum.\nAt midday, we cycle through the rain to Leonidas and the ruins, being careful of wet roads.\nIn the afternoon, we head towards Menelaion and back to the Olive Museum to warm up.\nIn the evening, we safely finish the tour at the Tomb of Leonidas and find a dry spot.",
+            "el": "Η ποδηλατική διαδρομή ξεκινά προσεκτικά στην γλιστερή κεντρική πλατεία πριν καταφύγουμε στο μουσείο.\nΤο μεσημέρι ποδηλατούμε μέσα στη βροχή προς τον Λεωνίδα και τα ερείπια, προσέχοντας τους υγρούς δρόμους.\nΤο απόγευμα κατευθυνόμαστε προς το Μενελάειον και ξαναγυρνάμε στο Μουσείο της Ελιάς για να ζεσταθούμε.\nΤο βράδυ τελειώνουμε με ασφάλεια την περιήγηση στον Τάφο του Λεωνίδα και βρίσκουμε ένα στεγνό σημείο."
           },
           "stops": [
             {
@@ -999,7 +1074,8 @@
                 "de": "Vorsicht beim Anfahren auf dem nassen Pflasterstein.",
                 "hu": "Vigyázat az indulásnál a nedves térköveken.",
                 "ro": "Atenție la pornire pe pavajul umed.",
-                "en": "Be careful when starting off on the wet pavement."
+                "en": "Be careful when starting off on the wet pavement.",
+                "el": "Προσέξτε όταν ξεκινάτε πάνω στο υγρό κράσπεδο."
               }
             },
             {
@@ -1008,7 +1084,8 @@
                 "de": "Stellen Sie Ihr Rad an einem überdachten Ort ab.",
                 "hu": "Parkolja le a kerékpárt egy fedett helyen.",
                 "ro": "Parcați bicicleta într-un loc acoperit.",
-                "en": "Park your bike in a covered area."
+                "en": "Park your bike in a covered area.",
+                "el": "Σταθμεύστε το ποδήλατο σε καλυμμένο χώρο."
               }
             },
             {
@@ -1017,7 +1094,8 @@
                 "de": "Kurzer Stopp; achten Sie auf den Verkehr bei Regen.",
                 "hu": "Rövid megálló; figyeljen a forgalomra esőben.",
                 "ro": "Oprire scurtă; atenție la trafic pe timp de ploaie.",
-                "en": "Short stop; pay attention to traffic in the rain."
+                "en": "Short stop; pay attention to traffic in the rain.",
+                "el": "Σύντομη στάση· προσέξτε την κυκλοφορία στη βροχή."
               }
             },
             {
@@ -1026,7 +1104,8 @@
                 "de": "Die Zufahrtswege können schlammig und rutschig sein.",
                 "hu": "A bekötőutak sárosak és csúszósak lehetnek.",
                 "ro": "Drumurile de acces pot fi noroioase și alunecoase.",
-                "en": "The access roads can be muddy and slippery."
+                "en": "The access roads can be muddy and slippery.",
+                "el": "Οι προσβάσιμες δρόμοι μπορεί να είναι λασπώδεις και γλιστερές."
               }
             },
             {
@@ -1035,7 +1114,8 @@
                 "de": "Vermeiden Sie das Befahren von tiefem Schlamm.",
                 "hu": "Kerülje a mély sárban való kerékpározást.",
                 "ro": "Evitați deplasarea prin noroi adânc.",
-                "en": "Avoid cycling through deep mud."
+                "en": "Avoid cycling through deep mud.",
+                "el": "Αποφύγετε να ποδηλατείτε μέσα σε βαθιά λάσπη."
               }
             },
             {
@@ -1044,7 +1124,8 @@
                 "de": "Der Anstieg erfordert bei Nässe gute Reifenhaftung.",
                 "hu": "Az emelkedő nedves úton jó tapadást igényel.",
                 "ro": "Urcarea necesită o aderență bună a anvelopelor pe ud.",
-                "en": "The climb requires good tire grip in wet conditions."
+                "en": "The climb requires good tire grip in wet conditions.",
+                "el": "Η ανάβαση απαιτεί καλό κράτημα των ελαστικών σε βρεγμένες συνθήκες."
               }
             },
             {
@@ -1053,7 +1134,8 @@
                 "de": "Nutzen Sie die Zeit hier, um die Kleidung zu trocknen.",
                 "hu": "Használja ki az időt a ruházat szárítására.",
                 "ro": "Folosiți timpul aici pentru a vă usca hainele.",
-                "en": "Use the time here to dry your clothes."
+                "en": "Use the time here to dry your clothes.",
+                "el": "Χρησιμοποιήστε τον χρόνο εδώ για να στεγνώσετε τα ρούχα σας."
               }
             },
             {
@@ -1062,7 +1144,8 @@
                 "de": "Sichern Sie das Rad schnell und suchen Sie Schutz.",
                 "hu": "Zárja le gyorsan a biciklit és keressen fedezéket.",
                 "ro": "Asigurați rapid bicicleta și căutați adăpost.",
-                "en": "Lock the bike quickly and seek shelter."
+                "en": "Lock the bike quickly and seek shelter.",
+                "el": "Κλειδώστε γρήγορα το ποδήλατο και αναζητήστε καταφύγιο."
               }
             }
           ],
@@ -1094,6 +1177,13 @@
               "Check your brakes before descending from Menelaion.",
               "Use the museums as waypoints to warm up.",
               "Watch out for puddles that might hide deep potholes."
+            ],
+            "el": [
+              "Φορέστε πλήρη αδιάβροχο εξοπλισμό, συμπεριλαμβανομένων καλυμμάτων για τα παπούτσια.",
+              "Αποφύγετε απότομο φρενάρισμα πάνω σε βρεγμένο μαρμάρινο δάπεδο.",
+              "Ελέγξτε τα φρένα πριν την κατάβαση από το Μενελάειον.",
+              "Χρησιμοποιήστε τα μουσεία ως σημεία για να ζεσταθείτε.",
+              "Προσέξτε τις λακκούβες που μπορεί να κρύβουν βαθιές τρύπες."
             ]
           }
         },
@@ -1102,7 +1192,8 @@
             "de": "Frisch und klar beginnt die Radtour am Platz, während wir uns warm radeln.\nMittags genießen wir die Sonne auf dem Weg zu den antiken Stätten und dem Heiligtum.\nAm Nachmittag fordern wir uns beim Aufstieg zum Menelaion heraus und belohnen uns mit dem Museumsbesuch.\nZum Abschluss besuchen wir das Grab des Leonidas, bevor die Kälte des Abends einsetzt.",
             "hu": "Frissen és tisztán indul a bringázás a téren, miközben bemelegszünk a tekeréstől.\nDélben élvezzük a napsütést az antik romok és a szentély felé vezető úton.\nDélután próbára tesszük magunkat a Menelaion emelkedőjén, majd múzeumlátogatással jutalmazzuk magunkat.\nZárásként Leonidász sírját keressük fel, mielőtt beállna az esti hideg.",
             "ro": "Turul cu bicicleta începe proaspăt și clar în piață, în timp ce ne încălzim pedalând.\nLa prânz ne bucurăm de soare în drum spre siturile antice și sanctuar.\nDupă-amiaza ne provocăm cu urcarea la Menelaion și ne recompensăm cu vizita la muzeu.\nLa final vizităm Mormântul lui Leonidas, înainte de a se lăsa frigul serii.",
-            "en": "Fresh and clear, the cycling tour starts at the square as we warm up by pedaling.\nAt midday, we enjoy the sun on the way to the ancient sites and the sanctuary.\nIn the afternoon, we challenge ourselves with the climb to Menelaion and reward ourselves with a museum visit.\nTo finish, we visit the Tomb of Leonidas before the evening cold sets in."
+            "en": "Fresh and clear, the cycling tour starts at the square as we warm up by pedaling.\nAt midday, we enjoy the sun on the way to the ancient sites and the sanctuary.\nIn the afternoon, we challenge ourselves with the climb to Menelaion and reward ourselves with a museum visit.\nTo finish, we visit the Tomb of Leonidas before the evening cold sets in.",
+            "el": "Φρέσκο και καθαρό, το ποδηλατικό ταξίδι ξεκινά στην πλατεία καθώς ζεσταινόμαστε με το πέταλο.\nΤο μεσημέρι απολαμβάνουμε τον ήλιο στο δρόμο προς τους αρχαίους χώρους και το ιερό.\nΤο απόγευμα δοκιμαζόμαστε με την ανάβαση στο Μενελάειον και ανταμειβόμαστε με μια επίσκεψη σε μουσείο.\nΓια το τέλος, επισκεπτόμαστε τον Τάφο του Λεωνίδα πριν μπει το απογευματινό ψύχος."
           },
           "stops": [
             {
@@ -1111,7 +1202,8 @@
                 "de": "Handschuhe sind bei der morgendlichen Abfahrt unerlässlich.",
                 "hu": "A kesztyű elengedhetetlen a reggeli induláskor.",
                 "ro": "Mănușile sunt esențiale la plecarea de dimineață.",
-                "en": "Gloves are essential for the morning departure."
+                "en": "Gloves are essential for the morning departure.",
+                "el": "Γάντια είναι απαραίτητα για την πρωινή αναχώρηση."
               }
             },
             {
@@ -1120,7 +1212,8 @@
                 "de": "Nutzen Sie den Stopp, um die steifen Finger aufzuwärmen.",
                 "hu": "Használja ki a megállót az elgémberedett ujjak felmelegítésére.",
                 "ro": "Folosiți oprirea pentru a vă încălzi degetele amorțite.",
-                "en": "Use the stop to warm up stiff fingers."
+                "en": "Use the stop to warm up stiff fingers.",
+                "el": "Χρησιμοποιήστε τη στάση για να ζεστάνετε τα μουδιασμένα δάχτυλα."
               }
             },
             {
@@ -1129,7 +1222,8 @@
                 "de": "Kurze Pause im Sonnenschein vor dem Stadion.",
                 "hu": "Rövid szünet a napsütésben a stadion előtt.",
                 "ro": "Scurtă pauză la soare în fața stadionului.",
-                "en": "Short break in the sunshine in front of the stadium."
+                "en": "Short break in the sunshine in front of the stadium.",
+                "el": "Σύντομη ανάπαυλα στον ήλιο μπροστά στο στάδιο."
               }
             },
             {
@@ -1138,7 +1232,8 @@
                 "de": "Das Radfahren hält den Körper bei der Besichtigung warm.",
                 "hu": "A kerékpározás melegen tartja a testet a nézelődés közben.",
                 "ro": "Mersul pe bicicletă menține corpul cald în timpul vizitei.",
-                "en": "Cycling keeps the body warm during the sightseeing."
+                "en": "Cycling keeps the body warm during the sightseeing.",
+                "el": "Το ποδήλατο διατηρεί το σώμα ζεστό κατά την περιήγηση."
               }
             },
             {
@@ -1147,7 +1242,8 @@
                 "de": "Achten Sie auf den Wind, der hier vom Fluss her kühler weht.",
                 "hu": "Figyeljen a szélre, amely a folyó felől hűvösebben fúj.",
                 "ro": "Atenție la vântul care bate mai rece de la râu.",
-                "en": "Watch out for the wind, which blows cooler from the river."
+                "en": "Watch out for the wind, which blows cooler from the river.",
+                "el": "Προσέξτε τον άνεμο, που φυσά πιο ψυχρός από τον ποταμό."
               }
             },
             {
@@ -1156,7 +1252,8 @@
                 "de": "Die Auffahrt wärmt auf; oben bietet sich klare Fernsicht.",
                 "hu": "A felfelé út bemelegít; fent tiszta kilátás vár.",
                 "ro": "Urcarea vă va încălzi; sus aveți o vedere clară la distanță.",
-                "en": "The ride up warms you up; there's a clear view at the top."
+                "en": "The ride up warms you up; there's a clear view at the top.",
+                "el": "Η ανάβαση σας ζεσταίνει· υπάρχει καθαρή θέα στην κορυφή."
               }
             },
             {
@@ -1165,7 +1262,8 @@
                 "de": "Ein herrlich warmer Ort nach der windigen Fahrt zum Menelaion.",
                 "hu": "Nagyszerű meleg hely a szeles menelaioni út után.",
                 "ro": "Un loc minunat de cald după drumul vântos spre Menelaion.",
-                "en": "A wonderfully warm place after the windy ride to Menelaion."
+                "en": "A wonderfully warm place after the windy ride to Menelaion.",
+                "el": "Ένας υπέροχα ζεστός χώρος μετά τη φουριόζα διαδρομή προς το Μενελάειον."
               }
             },
             {
@@ -1174,7 +1272,8 @@
                 "de": "Beenden Sie die Tour, bevor es nach 17 Uhr merklich abkühlt.",
                 "hu": "Fejezze be a túrát, mielőtt 17 óra után érezhetően lehűlne.",
                 "ro": "Încheiați turul înainte de a se răci simțitor după ora 17.",
-                "en": "Finish the tour before it cools down noticeably after 5 PM."
+                "en": "Finish the tour before it cools down noticeably after 5 PM.",
+                "el": "Ολοκληρώστε την περιήγηση πριν κρυώσει αισθητά μετά τις 17:00."
               }
             }
           ],
@@ -1206,6 +1305,13 @@
               "The climb to Menelaion is less taxing in winter than in summer.",
               "A hot drink in a thermos is highly recommended.",
               "Watch out for shaded areas where it can be significantly cooler."
+            ],
+            "el": [
+              "Φορέστε αδιάτρεχτα ρούχα για τις βόλτες στην κοιλάδα.",
+              "Σχεδιάστε τη διαδρομή ώστε να επιστρέψετε πριν σκοτεινιάσει.",
+              "Η ανάβαση στο Μενελάειον είναι λιγότερο απαιτητική το χειμώνα απ’ ό,τι το καλοκαίρι.",
+              "Ένα ζεστό ρόφημα σε θερμός συνιστάται ανεπιφύλακτα.",
+              "Προσέξτε τις σκιερές περιοχές όπου μπορεί να είναι αισθητά πιο δροσερά."
             ]
           }
         }
@@ -1224,7 +1330,8 @@
             "de": "Zentralplatz & Archäologisches Museum",
             "hu": "Központi tér és Régészeti Múzeum",
             "ro": "Piața Centrală și Muzeul de Arheologie",
-            "en": "Central Square & Archaeological Museum"
+            "en": "Central Square & Archaeological Museum",
+            "el": "Κεντρική Πλατεία & Αρχαιολογικό Μουσείο"
           },
           "coords": [
             22.4305,
@@ -1239,7 +1346,8 @@
             "de": "Parken Sie hier. Beginnen Sie mit einem Kaffee und besuchen Sie dann das nahe gelegene Museum.",
             "hu": "Parkoljon itt. Kezdjen egy kávéval, majd látogassa meg a közeli múzeumot.",
             "ro": "Parcați aici. Începeți cu o cafea, apoi vizitați muzeul din apropiere.",
-            "en": "Park here. Start with a coffee, then visit the nearby museum."
+            "en": "Park here. Start with a coffee, then visit the nearby museum.",
+            "el": "Σταθμεύστε εδώ. Ξεκινήστε με έναν καφέ, μετά επισκεφθείτε το κοντινό μουσείο."
           },
           "hop_mode": "car"
         },
@@ -1248,7 +1356,8 @@
             "de": "Archäologisches Museum",
             "hu": "Régészeti Múzeum",
             "ro": "Muzeul de Arheologie",
-            "en": "Archaeological Museum"
+            "en": "Archaeological Museum",
+            "el": "Αρχαιολογικό Μουσείο"
           },
           "coords": [
             22.4288,
@@ -1263,7 +1372,8 @@
             "de": "Ein kurzer Spaziergang vom Platz entfernt.",
             "hu": "Rövid séta a térről.",
             "ro": "La o scurtă plimbare de piață.",
-            "en": "A short walk from the square."
+            "en": "A short walk from the square.",
+            "el": "Μικρή απόσταση με τα πόδια από την πλατεία."
           },
           "hop_mode": "walk"
         },
@@ -1272,7 +1382,8 @@
             "de": "Antikes Sparta & Leonidas-Stätten",
             "hu": "Antik Spárta és Leonidász helyszínek",
             "ro": "Sparta Antică și siturile lui Leonidas",
-            "en": "Ancient Sparta & Leonidas Sites"
+            "en": "Ancient Sparta & Leonidas Sites",
+            "el": "Αρχαία Σπάρτη & Χώροι του Λεωνίδα"
           },
           "coords": [
             22.424,
@@ -1287,7 +1398,8 @@
             "de": "Neuer Parkplatz. Erkunden Sie von hier aus die Statue und die Akropolis.",
             "hu": "Új parkoló. Innen fedezze fel a szobrot és az akropoliszt.",
             "ro": "Parcare nouă. Explorați statuia și acropola de aici.",
-            "en": "New parking spot. Explore the statue and the acropolis from here."
+            "en": "New parking spot. Explore the statue and the acropolis from here.",
+            "el": "Νέο σημείο στάθμευσης. Εξερευνήστε το άγαλμα και την ακρόπολη από εδώ."
           },
           "hop_mode": "car"
         },
@@ -1296,7 +1408,8 @@
             "de": "Leonidas-Statue",
             "hu": "Leonidász-szobor",
             "ro": "Statuia lui Leonidas",
-            "en": "Statue of Leonidas"
+            "en": "Statue of Leonidas",
+            "el": "Άγαλμα του Λεωνίδα"
           },
           "coords": [
             22.4245,
@@ -1311,7 +1424,8 @@
             "de": "Der Spaziergang führt Sie direkt zum berühmten Denkmal.",
             "hu": "A séta egyenesen a híres emlékműhöz vezet.",
             "ro": "Plimbarea vă duce direct la faimosul monument.",
-            "en": "The walk takes you right to the famous monument."
+            "en": "The walk takes you right to the famous monument.",
+            "el": "Ο περίπατος σας φέρνει ακριβώς στο διάσημο μνημείο."
           },
           "hop_mode": "walk"
         },
@@ -1320,7 +1434,8 @@
             "de": "Grab des Leonidas",
             "hu": "Leonidász sírja",
             "ro": "Mormântul lui Leonidas",
-            "en": "Tomb of Leonidas"
+            "en": "Tomb of Leonidas",
+            "el": "Τάφος του Λεωνίδα"
           },
           "coords": [
             22.426,
@@ -1335,7 +1450,8 @@
             "de": "Gehen Sie weiter zu den Ruinen, die eine feierliche Atmosphäre haben.",
             "hu": "Sétáljon tovább a romokhoz, amelyeknek ünnepélyes hangulatuk van.",
             "ro": "Continuați pe jos spre ruine, care au o atmosferă solemnă.",
-            "en": "Walk on to the ruins, which have a solemn atmosphere."
+            "en": "Walk on to the ruins, which have a solemn atmosphere.",
+            "el": "Προχωρήστε προς τα ερείπια, που έχουν μια σεμνή ατμόσφαιρα."
           },
           "hop_mode": "walk"
         },
@@ -1344,7 +1460,8 @@
             "de": "Menelaion",
             "hu": "Menelaion",
             "ro": "Menelaion",
-            "en": "Menelaion"
+            "en": "Menelaion",
+            "el": "Μενελάειον"
           },
           "coords": [
             22.45,
@@ -1359,7 +1476,8 @@
             "de": "Fahren Sie für den besten Panoramablick aus der Stadt heraus.",
             "hu": "Vezessen ki a városból a legjobb panorámáért.",
             "ro": "Conduceți în afara orașului pentru cea mai bună priveliște panoramică.",
-            "en": "Drive out of the city for the best panoramic views."
+            "en": "Drive out of the city for the best panoramic views.",
+            "el": "Οδηγήστε εκτός πόλης για τις καλύτερες πανοραμικές θέες."
           },
           "hop_mode": "car"
         },
@@ -1368,7 +1486,8 @@
             "de": "Olivenmuseum",
             "hu": "Olívamúzeum",
             "ro": "Muzeul Măslinelor",
-            "en": "Museum of the Olive"
+            "en": "Museum of the Olive",
+            "el": "Μουσείο της Ελιάς"
           },
           "coords": [
             22.4231,
@@ -1383,7 +1502,8 @@
             "de": "Beenden Sie den Tag mit Kultur. Kaufen Sie lokales Olivenöl als Souvenir.",
             "hu": "Zárja a napot kultúrával. Vásároljon helyi olívaolajat ajándékba.",
             "ro": "Încheiați ziua cultural. Cumpărați ulei de măsline local ca suvenir.",
-            "en": "End the day with culture. Buy some local olive oil as a souvenir."
+            "en": "End the day with culture. Buy some local olive oil as a souvenir.",
+            "el": "Τελειώστε την ημέρα με πολιτισμό. Αγοράστε λίγο τοπικό ελαιόλαδο ως σουβενίρ."
           },
           "hop_mode": "car"
         }
@@ -1392,7 +1512,8 @@
         "de": "Morgens parken Sie im Zentrum und erkunden den Platz und das Archäologische Museum zu Fuß. Ein kurzer Autotrip bringt Sie dann in den antiken Kern, wo Sie zwischen der Leonidas-Statue und den Ruinen spazieren. Am Mittag fahren Sie zum Menelaion-Hügel, um die atemberaubende Aussicht zu genießen – ein perfekter Ort für eine Pause. Der Nachmittag ist dem flüssigen Gold Spartas gewidmet. Sie fahren zum Olivenmuseum, um in die Welt der Olivenkultur einzutauchen. Der Tag endet nach diesem letzten Halt, reich an Eindrücken von antiker Größe und moderner Kultur.",
         "hu": "Reggel parkoljon a központban, és fedezze fel gyalog a teret és a Régészeti Múzeumot. Egy rövid autózás elviszi az antik városrészbe, ahol Leonidász szobra és a romok között sétálhat. Délben hajtson fel a Menelaion-hegyre, hogy élvezze a lélegzetelállító kilátást – tökéletes hely egy pihenőre. A délután Spárta folyékony aranyáról szól. Látogasson el az Olívamúzeumba, hogy elmerüljön az olajbogyó-kultúra világában. A nap ezen utolsó megálló után ér véget, gazdagodva az ókori nagyság és a modern kultúra benyomásaival.",
         "ro": "Dimineața, parcați în centru și explorați pe jos piața și Muzeul de Arheologie. O scurtă călătorie cu mașina vă duce apoi în nucleul antic, unde vă plimbați între statuia lui Leonidas și ruine. La prânz, conduceți spre dealul Menelaion pentru a vă bucura de priveliștea uluitoare – un loc perfect pentru o pauză. După-amiaza este dedicată aurului lichid al Spartei. Vizitați Muzeul Măslinelor pentru a vă cufunda în lumea culturii măslinelor. Ziua se încheie după această ultimă oprire, bogată în impresii de măreție antică și cultură modernă.",
-        "en": "In the morning, park in the center and explore the square and the Archaeological Museum on foot. A short car trip then takes you to the ancient core, where you can walk between the statue of Leonidas and the ruins. At noon, drive up to the Menelaion hill to enjoy the breathtaking view – a perfect spot for a break. The afternoon is dedicated to Sparta's liquid gold. Visit the Museum of the Olive to immerse yourself in the world of olive culture. The day ends after this final stop, rich with impressions of ancient grandeur and modern culture."
+        "en": "In the morning, park in the center and explore the square and the Archaeological Museum on foot. A short car trip then takes you to the ancient core, where you can walk between the statue of Leonidas and the ruins. At noon, drive up to the Menelaion hill to enjoy the breathtaking view – a perfect spot for a break. The afternoon is dedicated to Sparta's liquid gold. Visit the Museum of the Olive to immerse yourself in the world of olive culture. The day ends after this final stop, rich with impressions of ancient grandeur and modern culture.",
+        "el": "Το πρωί σταθμεύστε στο κέντρο και εξερευνήστε την πλατεία και το Αρχαιολογικό Μουσείο με τα πόδια. Μια σύντομη βόλτα με το αυτοκίνητο σας οδηγεί στον αρχαίο πυρήνα, όπου μπορείτε να περπατήσετε ανάμεσα στο άγαλμα του Λεωνίδα και τα ερείπια. Το μεσημέρι ανεβείτε στο λόφο του Μενελάειου για να απολαύσετε την εκπληκτική θέα – ένα τέλειο σημείο για διάλειμμα. Το απόγευμα αφιερώνεται στο «υγρό χρυσό» της Σπάρτης. Επισκεφθείτε το Μουσείο της Ελιάς για να βυθιστείτε στον κόσμο της ελαιοκαλλιέργειας. Η μέρα τελειώνει μετά από αυτήν την τελευταία στάση, πλούσια σε εντυπώσεις αρχαίας μεγαλοπρέπειας και σύγχρονου πολιτισμού."
       },
       "gastro_picks": {
         "de": [
@@ -1588,6 +1709,12 @@
           "Be aware of road conditions, especially on smaller country roads.",
           "A GPS is useful for finding the more remote archaeological sites.",
           "Fill up your tank before leaving the city for excursions."
+        ],
+        "el": [
+          "Το παρκάρισμα στο κέντρο της πόλης μπορεί να είναι δύσκολο, χρησιμοποιήστε τα επισημασμένα πάρκινγκ.",
+          "Να είστε ενήμεροι για τις συνθήκες των δρόμων, ειδικά σε μικρότερους χωματόδρομους.",
+          "Ένα GPS είναι χρήσιμο για να βρείτε τα πιο απομακρυσμένα αρχαιολογικά σημεία.",
+          "Γεμίστε το ρεζερβουάρ πριν φύγετε από την πόλη για εξορμήσεις."
         ]
       },
       "variants": {
@@ -1596,7 +1723,8 @@
             "de": "Bequem starten wir die Tour am Hauptplatz und nutzen die kurzen Wege zum Museum.\nMittags fahren wir direkt zu den antiken Stätten, wobei das Auto als perfekter Rückzugsort dient.\nAm Nachmittag erkunden wir das Menelaion und das Olivenmuseum, immer im Trockenen bleibend.\nDer Abend endet entspannt bei der Statue des Leonidas, bevor wir zum Hotel zurückkehren.",
             "hu": "Kényelmesen indítjuk a túrát a főtéren, kihasználva a rövid utat a múzeumig.\nDélben közvetlenül az antik romokhoz hajtunk, az autó tökéletes menedéket nyújt.\nDélután a Menelaiont és az Olívamúzeumot keressük fel, végig szárazon maradva.\nAz este Leonidász szobránál zárul, mielőtt visszatérnénk a szállásunkra.",
             "ro": "Începem turul confortabil în piața centrală și profităm de drumul scurt până la muzeu.\nLa prânz conducem direct spre siturile antice, mașina fiind refugiul perfect.\nDupă-amiaza explorăm Menelaion și Muzeul Măslinului, rămânând mereu la adăpost.\nSeara se încheie relaxat la statuia lui Leonidas, înainte de a reveni la hotel.",
-            "en": "We comfortably start the tour at the main square, taking advantage of the short drive to the museum.\nAt midday, we drive directly to the ancient sites, with the car serving as a perfect retreat.\nIn the afternoon, we explore Menelaion and the Olive Museum, staying dry throughout.\nThe evening ends relaxingly at the Statue of Leonidas before returning to the hotel."
+            "en": "We comfortably start the tour at the main square, taking advantage of the short drive to the museum.\nAt midday, we drive directly to the ancient sites, with the car serving as a perfect retreat.\nIn the afternoon, we explore Menelaion and the Olive Museum, staying dry throughout.\nThe evening ends relaxingly at the Statue of Leonidas before returning to the hotel.",
+            "el": "Ξεκινάμε άνετα την περιήγηση στην κεντρική πλατεία, αξιοποιώντας τη σύντομη διαδρομή με το αυτοκίνητο προς το μουσείο.\nΤο μεσημέρι οδηγούμε απευθείας στους αρχαίους χώρους, με το αυτοκίνητο ως ιδανικό καταφύγιο.\nΤο απόγευμα εξερευνούμε το Μενελάειον και το Μουσείο της Ελιάς, παραμένοντας στεγνοί καθ’ όλη τη διάρκεια.\nΤο βράδυ τελειώνει χαλαρά στο Άγαλμα του Λεωνίδα πριν επιστρέψουμε στο ξενοδοχείο."
           },
           "stops": [
             {
@@ -1605,7 +1733,8 @@
                 "de": "Parken Sie im Parkhaus oder in der Nähe des Museums.",
                 "hu": "Parkoljon parkolóházban vagy a múzeum közelében.",
                 "ro": "Parcați într-o parcare acoperită sau lângă muzeu.",
-                "en": "Park in a parking garage or near the museum."
+                "en": "Park in a parking garage or near the museum.",
+                "el": "Σταθμεύστε σε πάρκινγκ ή κοντά στο μουσείο."
               }
             },
             {
@@ -1614,7 +1743,8 @@
                 "de": "Lassen Sie nasse Schirme im Vorraum des Museums.",
                 "hu": "Hagyja a vizes esernyőket a múzeum előterében.",
                 "ro": "Lăsați umbrelele ude în holul muzeului.",
-                "en": "Leave wet umbrellas in the museum foyer."
+                "en": "Leave wet umbrellas in the museum foyer.",
+                "el": "Αφήστε τα βρεγμένα ομπρέλες στον προθάλαμο του μουσείου."
               }
             },
             {
@@ -1623,7 +1753,8 @@
                 "de": "Parkplätze befinden sich direkt am Eingang zum Gelände.",
                 "hu": "Parkolóhelyek közvetlenül a terület bejáratánál találhatók.",
                 "ro": "Locurile de parcare se află chiar la intrarea în sit.",
-                "en": "Parking spaces are located right at the entrance to the site."
+                "en": "Parking spaces are located right at the entrance to the site.",
+                "el": "Οι θέσεις στάθμευσης βρίσκονται ακριβώς στην είσοδο του χώρου."
               }
             },
             {
@@ -1632,7 +1763,8 @@
                 "de": "Ein kurzer Stopp für ein Foto aus dem Auto heraus ist möglich.",
                 "hu": "Egy rövid megálló fotózásra akár az autóból is lehetséges.",
                 "ro": "O scurtă oprire pentru o poză direct din mașină este posibilă.",
-                "en": "A short stop for a photo even from the car is possible."
+                "en": "A short stop for a photo even from the car is possible.",
+                "el": "Μια σύντομη στάση για φωτογραφία ακόμα και από το αυτοκίνητο είναι δυνατή."
               }
             },
             {
@@ -1641,7 +1773,8 @@
                 "de": "Nutzen Sie die Parkmöglichkeiten in den Seitenstraßen.",
                 "hu": "Használja ki a parkolási lehetőségeket a mellékutcákban.",
                 "ro": "Folosiți posibilitățile de parcare de pe străzile laterale.",
-                "en": "Use the parking options in the side streets."
+                "en": "Use the parking options in the side streets.",
+                "el": "Χρησιμοποιήστε τις επιλογές στάθμευσης στους παράπλευρους δρόμους."
               }
             },
             {
@@ -1650,7 +1783,8 @@
                 "de": "Achten Sie auf die schmale und bei Regen rutschige Zufahrt.",
                 "hu": "Vigyázzon a keskeny és esőben csúszós bekötőútra.",
                 "ro": "Atenție la drumul de acces îngust și alunecos pe ploaie.",
-                "en": "Watch out for the narrow and slippery access road in the rain."
+                "en": "Watch out for the narrow and slippery access road in the rain.",
+                "el": "Προσέξτε τον στενό και γλιστερό δρόμο πρόσβασης στη βροχή."
               }
             },
             {
@@ -1659,7 +1793,8 @@
                 "de": "Der Parkplatz ist meist gut verfügbar und nah am Eingang.",
                 "hu": "A parkoló általában szabad és közel van a bejárathoz.",
                 "ro": "Parcarea este de obicei disponibilă și aproape de intrare.",
-                "en": "Parking is usually available and close to the entrance."
+                "en": "Parking is usually available and close to the entrance.",
+                "el": "Συνήθως υπάρχει χώρος στάθμευσης κοντά στην είσοδο."
               }
             }
           ],
@@ -1691,6 +1826,13 @@
               "Watch out for slippery road surfaces in the city center.",
               "Keep an umbrella handy in the car.",
               "Access to Menelaion can be difficult during heavy rain."
+            ],
+            "el": [
+              "Ένα αυτοκίνητο είναι ιδανικό για να μένετε στεγνοί ανάμεσα στα αξιοθέατα.",
+              "Χρησιμοποιήστε τα πάρκινγκ ακριβώς δίπλα στα μουσεία.",
+              "Προσοχή σε ολισθηρές επιφάνειες δρόμων στο κέντρο της πόλης.",
+              "Κρατήστε μια ομπρέλα στο αυτοκίνητο.",
+              "Η πρόσβαση στο Μενελάιο μπορεί να είναι δύσκολη κατά τη διάρκεια ισχυρής βροχής."
             ]
           }
         },
@@ -1699,7 +1841,8 @@
             "de": "Im warmen Auto starten wir am Platz und besuchen das Museum.\nMittags erkunden wir die antiken Stätten und genießen die klare Winterluft.\nNachmittags führt uns die Fahrt zum Menelaion mit seiner herrlichen Aussicht und zum Olivenmuseum.\nZum Abschluss besuchen wir die Denkmäler des Leonidas im sanften Abendlicht.",
             "hu": "A meleg autóban indítunk a téren, majd meglátogatjuk a múzeumot.\nDélben felfedezzük az antik romokat és élvezzük a tiszta téli levegőt.\nDélután a Menelaionhoz autózunk a pazar kilátásért, majd az Olívamúzeum következik.\nZárásként Leonidász emlékműveit keressük fel a szelíd esti fényben.",
             "ro": "Plecăm cu mașina încălzită din piață și vizităm muzeul.\nLa prânz explorăm siturile antice și ne bucurăm de aerul curat de iarnă.\nDupă-amiaza drumul ne duce la Menelaion, cu vederea sa superbă, și la Muzeul Măslinului.\nLa final vizităm monumentele lui Leonidas în lumina blândă a serii.",
-            "en": "Starting from the square in a warm car, we visit the museum.\nAt midday, we explore the ancient sites and enjoy the clear winter air.\nIn the afternoon, the drive takes us to Menelaion with its superb views and to the Olive Museum.\nTo finish, we visit the monuments of Leonidas in the gentle evening light."
+            "en": "Starting from the square in a warm car, we visit the museum.\nAt midday, we explore the ancient sites and enjoy the clear winter air.\nIn the afternoon, the drive takes us to Menelaion with its superb views and to the Olive Museum.\nTo finish, we visit the monuments of Leonidas in the gentle evening light.",
+            "el": "Ξεκινώντας από την πλατεία σε ένα ζεστό αυτοκίνητο, επισκεπτόμαστε το μουσείο.\nΤο μεσημέρι εξερευνούμε τους αρχαίους χώρους και απολαμβάνουμε τον καθαρό χειμωνιάτικο αέρα.\nΤο απόγευμα, η διαδρομή μάς οδηγεί στο Μενελάιο με τις υπέροχες απόψεις και στο Μουσείο της Ελιάς.\nΓια το τέλος, επισκεπτόμαστε τα μνημεία του Λεωνίδα στο απαλό φως του δειλινού."
           },
           "stops": [
             {
@@ -1708,7 +1851,8 @@
                 "de": "Das Auto heizt sich in der Wintersonne angenehm auf.",
                 "hu": "Az autó kellemesen felmelegszik a téli napsütésben.",
                 "ro": "Mașina se încălzește plăcut în soarele de iarnă.",
-                "en": "The car warms up pleasantly in the winter sun."
+                "en": "The car warms up pleasantly in the winter sun.",
+                "el": "Το αυτοκίνητο θερμαίνεται ευχάριστα στον χειμωνιάτικο ήλιο."
               }
             },
             {
@@ -1717,7 +1861,8 @@
                 "de": "Genießen Sie den Komfort, direkt vorfahren zu können.",
                 "hu": "Élvezze a kényelmet, hogy közvetlenül oda tud hajtani.",
                 "ro": "Bucurați-vă de confortul de a putea conduce până la intrare.",
-                "en": "Enjoy the convenience of being able to drive right up."
+                "en": "Enjoy the convenience of being able to drive right up.",
+                "el": "Απολαύστε την ευκολία του να μπορείτε να πλησιάσετε με το αυτοκίνητο."
               }
             },
             {
@@ -1726,7 +1871,8 @@
                 "de": "Ideale Bedingungen für einen Spaziergang ohne Sommerhitze.",
                 "hu": "Ideális körülmények egy sétához a nyári hőség nélkül.",
                 "ro": "Condiții ideale pentru o plimbare fără arșița verii.",
-                "en": "Ideal conditions for a walk without the summer heat."
+                "en": "Ideal conditions for a walk without the summer heat.",
+                "el": "Ιδανικές συνθήκες για περίπατο χωρίς τη ζέστη του καλοκαιριού."
               }
             },
             {
@@ -1735,7 +1881,8 @@
                 "de": "Ein schneller Stopp für Fotos im klaren Licht.",
                 "hu": "Egy gyors megálló fotózáshoz a tiszta fényben.",
                 "ro": "O oprire rapidă pentru poze în lumina clară.",
-                "en": "A quick stop for photos in the clear light."
+                "en": "A quick stop for photos in the clear light.",
+                "el": "Μια γρήγορη στάση για φωτογραφίες στο καθαρό φως."
               }
             },
             {
@@ -1744,7 +1891,8 @@
                 "de": "Kurzer Aufenthalt im Freien, bevor die Fahrt weitergeht.",
                 "hu": "Rövid szabadtéri tartózkodás, mielőtt folytatná az utat.",
                 "ro": "O scurtă oprire afară înainte de a continua drumul.",
-                "en": "Short outdoor stay before continuing the drive."
+                "en": "Short outdoor stay before continuing the drive.",
+                "el": "Σύντομη παραμονή έξω πριν συνεχίσετε τη διαδρομή."
               }
             },
             {
@@ -1753,7 +1901,8 @@
                 "de": "Der Ausblick auf die schneebedeckten Berge ist fantastisch.",
                 "hu": "A kilátás a hófödte hegyekre fantasztikus.",
                 "ro": "Vederea spre munții înzăpeziți este fantastică.",
-                "en": "The view of the snow-capped mountains is fantastic."
+                "en": "The view of the snow-capped mountains is fantastic.",
+                "el": "Η θέα των χιονισμένων βουνών είναι φανταστική."
               }
             },
             {
@@ -1762,7 +1911,8 @@
                 "de": "Das Museum bietet eine warme und lehrreiche Pause.",
                 "hu": "A múzeum meleg és tanulságos pihenőt kínál.",
                 "ro": "Muzeul oferă o pauză caldă și educativă.",
-                "en": "The museum offers a warm and educational break."
+                "en": "The museum offers a warm and educational break.",
+                "el": "Το μουσείο προσφέρει ένα ζεστό και εκπαιδευτικό διάλειμμα."
               }
             }
           ],
@@ -1794,6 +1944,13 @@
               "The drive to Menelaion offers spectacular winter panoramas.",
               "Plan your return trip before dark.",
               "Watch out for icy patches on shaded mountain roads."
+            ],
+            "el": [
+              "Χρησιμοποιήστε το θερμαντικό του αυτοκινήτου για μέγιστη άνεση.",
+              "Η εύρεση θέσης πάρκινγκ είναι συνήθως πιο εύκολη το χειμώνα.",
+              "Η διαδρομή προς το Μενελάιο προσφέρει εντυπωσιακά χειμωνιάτικα τοπία.",
+              "Σχεδιάστε την επιστροφή σας πριν βραδιάσει.",
+              "Προσοχή σε παγωμένες επιφάνειες σε σκιερές ορεινές διαδρομές."
             ]
           }
         }
@@ -1812,7 +1969,8 @@
             "de": "Zentralplatz von Sparta",
             "hu": "Spárta központi tere",
             "ro": "Piața Centrală din Sparta",
-            "en": "Central Square of Sparta"
+            "en": "Central Square of Sparta",
+            "el": "Κεντρική Πλατεία Σπάρτης"
           },
           "coords": [
             22.4305,
@@ -1827,7 +1985,8 @@
             "de": "Finden Sie die nächste Bushaltestelle für Ihre erste Fahrt.",
             "hu": "Keresse meg a legközelebbi buszmegállót az első úthoz.",
             "ro": "Găsiți cea mai apropiată stație de autobuz pentru prima călătorie.",
-            "en": "Find the nearest bus stop for your first ride."
+            "en": "Find the nearest bus stop for your first ride.",
+            "el": "Βρείτε την πλησιέστερη στάση λεωφορείου για την πρώτη σας διαδρομή."
           },
           "hop_mode": "transit"
         },
@@ -1836,7 +1995,8 @@
             "de": "Antikes Sparta",
             "hu": "Antik Spárta",
             "ro": "Sparta Antică",
-            "en": "Ancient Sparta"
+            "en": "Ancient Sparta",
+            "el": "Αρχαία Σπάρτη"
           },
           "coords": [
             22.4239,
@@ -1851,7 +2011,8 @@
             "de": "Steigen Sie in der Nähe der Akropolis aus und beginnen Sie Ihre Erkundung.",
             "hu": "Szálljon le az akropolisz közelében, és kezdje meg a felfedezést.",
             "ro": "Coborâți lângă acropolă și începeți explorarea.",
-            "en": "Get off near the Acropolis and start your exploration."
+            "en": "Get off near the Acropolis and start your exploration.",
+            "el": "Κατεβείτε κοντά στην Ακρόπολη και ξεκινήστε την εξερεύνησή σας."
           },
           "hop_mode": "transit"
         },
@@ -1860,7 +2021,8 @@
             "de": "Leonidas-Statue",
             "hu": "Leonidász-szobor",
             "ro": "Statuia lui Leonidas",
-            "en": "Statue of Leonidas"
+            "en": "Statue of Leonidas",
+            "el": "Άγαλμα του Λεωνίδα"
           },
           "coords": [
             22.4245,
@@ -1875,7 +2037,8 @@
             "de": "Ein kurzer Spaziergang von den Hauptruinen entfernt.",
             "hu": "Rövid séta a fő romoktól.",
             "ro": "La o scurtă plimbare de ruinele principale.",
-            "en": "A short walk from the main ruins."
+            "en": "A short walk from the main ruins.",
+            "el": "Λίγο περπάτημα από τα κύρια ερείπια."
           },
           "hop_mode": "walk"
         },
@@ -1884,7 +2047,8 @@
             "de": "Archäologisches Museum",
             "hu": "Régészeti Múzeum",
             "ro": "Muzeul de Arheologie",
-            "en": "Archaeological Museum"
+            "en": "Archaeological Museum",
+            "el": "Αρχαιολογικό Μουσείο"
           },
           "coords": [
             22.4288,
@@ -1899,7 +2063,8 @@
             "de": "Nehmen Sie den Bus zurück ins Zentrum, das Museum ist nur einen kurzen Spaziergang entfernt.",
             "hu": "Menjen vissza busszal a központba, a múzeum rövid sétára van.",
             "ro": "Luați autobuzul înapoi în centru, muzeul este la o scurtă plimbare.",
-            "en": "Take the bus back to the center, the museum is a short walk away."
+            "en": "Take the bus back to the center, the museum is a short walk away.",
+            "el": "Πάρτε το λεωφορείο πίσω στο κέντρο, το μουσείο είναι λίγα βήματα μακριά."
           },
           "hop_mode": "transit"
         },
@@ -1908,7 +2073,8 @@
             "de": "Olivenmuseum",
             "hu": "Olívamúzeum",
             "ro": "Muzeul Măslinelor",
-            "en": "Museum of the Olive"
+            "en": "Museum of the Olive",
+            "el": "Μουσείο της Ελιάς"
           },
           "coords": [
             22.4231,
@@ -1923,7 +2089,8 @@
             "de": "Gehen Sie durch die Stadt zum Olivenmuseum.",
             "hu": "Sétáljon át a városon az Olívamúzeumhoz.",
             "ro": "Mergeți pe jos prin oraș până la Muzeul Măslinelor.",
-            "en": "Walk across town to the Museum of the Olive."
+            "en": "Walk across town to the Museum of the Olive.",
+            "el": "Διασχίστε την πόλη με τα πόδια για να φτάσετε στο Μουσείο της Ελιάς."
           },
           "hop_mode": "walk"
         },
@@ -1932,7 +2099,8 @@
             "de": "Grab des Leonidas",
             "hu": "Leonidász sírja",
             "ro": "Mormântul lui Leonidas",
-            "en": "Tomb of Leonidas"
+            "en": "Tomb of Leonidas",
+            "el": "Τάφος του Λεωνίδα"
           },
           "coords": [
             22.426,
@@ -1947,7 +2115,8 @@
             "de": "Ein letzter Spaziergang zu diesem wichtigen Monument, bevor Sie den Tag beenden.",
             "hu": "Egy utolsó séta ehhez a fontos emlékműhöz a nap befejezése előtt.",
             "ro": "O ultimă plimbare la acest monument important înainte de a încheia ziua.",
-            "en": "A final walk to this important monument before ending the day."
+            "en": "A final walk to this important monument before ending the day.",
+            "el": "Ένας τελευταίος περίπατος προς αυτό το σημαντικό μνημείο πριν τη λήξη της ημέρας."
           },
           "hop_mode": "walk"
         }
@@ -1956,7 +2125,8 @@
         "de": "Der Tag beginnt mit einer Busfahrt vom Zentrum zu den Ruinen des antiken Sparta, wo Sie den Morgen verbringen. Ein kurzer Spaziergang führt Sie zur berühmten Leonidas-Statue. Mittags bringt Sie ein weiterer Bus zurück ins Herz der Stadt zum Archäologischen Museum. Am Nachmittag spazieren Sie durch die modernen Straßen zum Olivenmuseum, um einen Einblick in die Agrarkultur zu erhalten. Der Tag endet mit einem besinnlichen Spaziergang zum Grab des Leonidas und einer letzten Busfahrt, die Sie mit dem Gefühl für die Dualität von antikem und modernem Sparta zurücklässt.",
         "hu": "A nap egy buszúttal kezdődik a központból az antik Spárta romjaihoz, ahol a délelőttöt tölti. Egy rövid séta elvezet a híres Leonidász-szoborhoz. Délben egy másik busz visszaviszi a város szívébe, a Régészeti Múzeumba. Délután a modern utcákon átsétálva jut el az Olívamúzeumba, hogy bepillantást nyerjen a mezőgazdasági kultúrába. A nap egy elmélkedő sétával zárul Leonidász sírjához, majd egy utolsó buszúttal, amely az antik és a modern Spárta kettősségének érzésével hagyja Önt.",
         "ro": "Ziua începe cu o călătorie cu autobuzul din centru spre ruinele Spartei antice, unde vă petreceți dimineața. O scurtă plimbare vă duce la faimoasa statuie a lui Leonidas. La prânz, un alt autobuz vă duce înapoi în inima orașului, la Muzeul de Arheologie. După-amiaza, vă plimbați pe străzile moderne până la Muzeul Măslinelor pentru a vă face o idee despre cultura agricolă. Ziua se încheie cu o plimbare contemplativă la Mormântul lui Leonidas și o ultimă călătorie cu autobuzul, lăsându-vă cu sentimentul dualității dintre Sparta antică și cea modernă.",
-        "en": "The day begins with a bus ride from the center to the ruins of ancient Sparta, where you'll spend the morning. A short walk takes you to the famous statue of Leonidas. At noon, another bus brings you back to the heart of the city to the Archaeological Museum. In the afternoon, you'll stroll through the modern streets to the Museum of the Olive for a glimpse into agricultural culture. The day concludes with a contemplative walk to the Tomb of Leonidas and a final bus ride, leaving you with the feeling of the duality of ancient and modern Sparta."
+        "en": "The day begins with a bus ride from the center to the ruins of ancient Sparta, where you'll spend the morning. A short walk takes you to the famous statue of Leonidas. At noon, another bus brings you back to the heart of the city to the Archaeological Museum. In the afternoon, you'll stroll through the modern streets to the Museum of the Olive for a glimpse into agricultural culture. The day concludes with a contemplative walk to the Tomb of Leonidas and a final bus ride, leaving you with the feeling of the duality of ancient and modern Sparta.",
+        "el": "Η ημέρα ξεκινά με διαδρομή με λεωφορείο από το κέντρο προς τα ερείπια της αρχαίας Σπάρτης, όπου θα περάσετε το πρωί. Ένα μικρό περπάτημα σας φέρνει στο διάσημο άγαλμα του Λεωνίδα. Το μεσημέρι άλλο λεωφορείο σας επιστρέφει στην καρδιά της πόλης για το Αρχαιολογικό Μουσείο. Το απόγευμα θα περιηγηθείτε στους σύγχρονους δρόμους προς το Μουσείο της Ελιάς για μια ματιά στην αγροτική κουλτούρα. Η μέρα ολοκληρώνεται με έναν συλλογιστικό περίπατο προς τον Τάφο του Λεωνίδα και μια τελευταία διαδρομή με λεωφορείο, αφήνοντάς σας με την αίσθηση της διπλής όψης της αρχαίας και της σύγχρονης Σπάρτης."
       },
       "gastro_picks": {
         "de": [
@@ -2152,6 +2322,12 @@
           "Check the bus schedule in advance, as services may not be frequent.",
           "Have small change ready for bus tickets.",
           "Ask locals for the correct bus stop; not all are well-marked."
+        ],
+        "el": [
+          "Αγοράστε ημερήσιο εισιτήριο λεωφορείου αν είναι διαθέσιμο.",
+          "Ελέγξτε το πρόγραμμα των λεωφορείων εκ των προτέρων, καθώς οι δρομολόγιοι μπορεί να μην είναι συχνά.",
+          "Να έχετε μικρό ρέστα έτοιμα για εισιτήρια λεωφορείου.",
+          "Ρωτήστε ντόπιους για τη σωστή στάση λεωφορείου· δεν είναι όλες καλά σηματοδοτημένες."
         ]
       },
       "variants": {
@@ -2160,7 +2336,8 @@
             "de": "Wir starten am Hauptplatz und nutzen die Busse, um trocken zum Museum zu gelangen.\nMittags besichtigen wir die antiken Ruinen und die Statue, wobei wir die Fahrpläne im Auge behalten.\nAm Nachmittag bietet das Olivenmuseum eine warme Zuflucht vor dem Regen.\nDer Abend endet gemütlich am Grab des Leonidas, bevor wir den Bus zurück ins Zentrum nehmen.",
             "hu": "A főtéren kezdünk, és buszokkal jutunk el szárazon a múzeumig.\nDélben az antik romokat és a szobrot nézzük meg, szem előtt tartva a menetrendet.\nDélután az Olívamúzeum nyújt meleg menedéket az eső elől.\nAz este Leonidász sírjánál zárul, mielőtt busszal visszatérnénk a központba.",
             "ro": "Începem în piața centrală și folosim autobuzele pentru a ajunge uscați la muzeu.\nLa prânz vizităm ruinele antice și statuia, fiind atenți la programul autobuzelor.\nDupă-amiaza, Muzeul Măslinului oferă un refugiu cald împotriva ploii.\nSeara se încheie plăcut la Mormântul lui Leonidas, înainte de a lua autobuzul spre centru.",
-            "en": "We start at the main square and use buses to get to the museum dry.\nAt midday, we visit the ancient ruins and the statue, keeping an eye on the schedules.\nIn the afternoon, the Olive Museum provides a warm refuge from the rain.\nThe evening ends nicely at the Tomb of Leonidas before taking the bus back to the center."
+            "en": "We start at the main square and use buses to get to the museum dry.\nAt midday, we visit the ancient ruins and the statue, keeping an eye on the schedules.\nIn the afternoon, the Olive Museum provides a warm refuge from the rain.\nThe evening ends nicely at the Tomb of Leonidas before taking the bus back to the center.",
+            "el": "Ξεκινάμε από την κεντρική πλατεία και χρησιμοποιούμε λεωφορεία για να φτάσουμε στεγνοί στο μουσείο.\nΤο μεσημέρι επισκεπτόμαστε τα αρχαία ερείπια και το άγαλμα, προσέχοντας τα δρομολόγια.\nΤο απόγευμα, το Μουσείο της Ελιάς προσφέρει ένα ζεστό καταφύγιο από τη βροχή.\nΤο βράδυ ολοκληρώνεται όμορφα στον Τάφο του Λεωνίδα πριν πάρουμε το λεωφορείο πίσω στο κέντρο."
           },
           "stops": [
             {
@@ -2169,7 +2346,8 @@
                 "de": "Die Bushaltestellen bieten oft nur wenig Schutz vor Regen.",
                 "hu": "A buszmegállók gyakran kevés védelmet nyújtanak az eső ellen.",
                 "ro": "Stațiile de autobuz oferă adesea puțină protecție împotriva ploii.",
-                "en": "Bus stops often offer little protection from the rain."
+                "en": "Bus stops often offer little protection from the rain.",
+                "el": "Οι στάσεις λεωφορείου συχνά προσφέρουν μικρή προστασία από τη βροχή."
               }
             },
             {
@@ -2178,7 +2356,8 @@
                 "de": "Rechnen Sie mit kurzen Fußwegen von der Bushaltestelle.",
                 "hu": "Számoljon rövid gyalogúttal a buszmegállótól.",
                 "ro": "Luați în calcul scurte segmente de mers pe jos de la stație.",
-                "en": "Expect short walks from the bus stop."
+                "en": "Expect short walks from the bus stop.",
+                "el": "Περιμένετε σύντομα περπατήματα από τη στάση."
               }
             },
             {
@@ -2187,7 +2366,8 @@
                 "de": "Warten Sie auf den Bus im nahegelegenen Café.",
                 "hu": "Várja a buszt a közeli kávézóban.",
                 "ro": "Așteptați autobuzul în cafeneaua din apropiere.",
-                "en": "Wait for the bus in the nearby cafe."
+                "en": "Wait for the bus in the nearby cafe.",
+                "el": "Περιμένετε το λεωφορείο στο κοντινό καφέ."
               }
             },
             {
@@ -2196,7 +2376,8 @@
                 "de": "Eine gute Gelegenheit, den Regenschauer auszusitzen.",
                 "hu": "Jó alkalom az eső kivárására.",
                 "ro": "O ocazie bună de a lăsa ploaia să treacă.",
-                "en": "A good opportunity to wait out the rain."
+                "en": "A good opportunity to wait out the rain.",
+                "el": "Καλή ευκαιρία για να περάσει η βροχή."
               }
             },
             {
@@ -2205,7 +2386,8 @@
                 "de": "Der Bus hält in angenehmer Nähe zum Eingang.",
                 "hu": "A busz kényelmes közelségben áll meg a bejárathoz.",
                 "ro": "Autobuzul oprește la o distanță convenabilă de intrare.",
-                "en": "The bus stops conveniently close to the entrance."
+                "en": "The bus stops conveniently close to the entrance.",
+                "el": "Οι στάσεις βρίσκονται βολικά κοντά στις εισόδους."
               }
             },
             {
@@ -2214,7 +2396,8 @@
                 "de": "Prüfen Sie die Abfahrtszeiten für die Rückfahrt genau.",
                 "hu": "Ellenőrizze pontosan a visszautazási időpontokat.",
                 "ro": "Verificați cu atenție orele de plecare pentru întoarcere.",
-                "en": "Check the departure times for the return trip carefully."
+                "en": "Check the departure times for the return trip carefully.",
+                "el": "Ελέγξτε προσεκτικά τις ώρες αναχώρησης για την επιστροφή."
               }
             }
           ],
@@ -2246,6 +2429,13 @@
               "Check the bus frequency in advance during rainy weather.",
               "Museums are good places to wait for the next bus.",
               "An umbrella is necessary for the stretches to the bus stop."
+            ],
+            "el": [
+              "Χρησιμοποιήστε τοπικές γραμμές λεωφορείων για να αποφύγετε μεγάλες βόλτες στη βροχή.",
+              "Να έχετε μικρό ρέστα έτοιμα για εισιτήρια.",
+              "Ελέγξτε τη συχνότητα των λεωφορείων εκ των προτέρων σε καιρό με βροχή.",
+              "Τα μουσεία είναι καλοί χώροι για να περιμένετε το επόμενο λεωφορείο.",
+              "Μια ομπρέλα είναι απαραίτητη για τις αποστάσεις μέχρι τη στάση λεωφορείου."
             ]
           }
         },
@@ -2254,7 +2444,8 @@
             "de": "Am kühlen Morgen starten wir am Platz und nutzen den Bus zum Museum.\nMittags erkunden wir die antiken Stätten und genießen das Licht des Winters.\nAm Nachmittag wärmen wir uns im Olivenmuseum auf, bevor wir die Statue besuchen.\nZum Abschluss besichtigen wir das Grab des Leonidas und kehren mit dem Transit zurück.",
             "hu": "A hűvös reggelen a téren kezdünk, és busszal megyünk a múzeumig.\nDélben felfedezzük az antik romokat és élvezzük a téli fényeket.\nDélután az Olívamúzeumban melegszünk fel, mielőtt a szobrot megnéznénk.\nZárásként Leonidász sírját keressük fel, majd busszal térünk vissza.",
             "ro": "În dimineața răcoroasă plecăm din piață și luăm autobuzul spre muzeu.\nLa prânz explorăm siturile antice și ne bucurăm de lumina iernii.\nDupă-amiaza ne încălzim la Muzeul Măslinului înainte de a vizita statuia.\nLa final vizităm Mormântul lui Leonidas și ne întoarcem cu transportul public.",
-            "en": "On a cool morning, we start at the square and take the bus to the museum.\nAt midday, we explore the ancient sites and enjoy the winter light.\nIn the afternoon, we warm up in the Olive Museum before visiting the statue.\nTo finish, we visit the Tomb of Leonidas and return by transit."
+            "en": "On a cool morning, we start at the square and take the bus to the museum.\nAt midday, we explore the ancient sites and enjoy the winter light.\nIn the afternoon, we warm up in the Olive Museum before visiting the statue.\nTo finish, we visit the Tomb of Leonidas and return by transit.",
+            "el": "Ένα δροσερό πρωινό, ξεκινάμε από την πλατεία και παίρνουμε το λεωφορείο για το μουσείο.\nΤο μεσημέρι εξερευνούμε τους αρχαίους χώρους και απολαμβάνουμε το χειμωνιάτικο φως.\nΤο απόγευμα ζεσταινόμαστε στο Μουσείο της Ελιάς πριν επισκεφτούμε το άγαλμα.\nΓια το τέλος, βλέπουμε τον Τάφο του Λεωνίδα και επιστρέφουμε με μέσα μαζικής μεταφοράς."
           },
           "stops": [
             {
@@ -2263,7 +2454,8 @@
                 "de": "Die Busse sind im Winter angenehm geheizt.",
                 "hu": "A buszok télen kellemesen fűtöttek.",
                 "ro": "Autobuzele sunt încălzite plăcut iarna.",
-                "en": "Buses are pleasantly heated in winter."
+                "en": "Buses are pleasantly heated in winter.",
+                "el": "Τα λεωφορεία είναι ευχάριστα θερμαινόμενα το χειμώνα."
               }
             },
             {
@@ -2272,7 +2464,8 @@
                 "de": "Der Spaziergang von der Haltestelle hält warm.",
                 "hu": "A megállótól való séta melegen tartja.",
                 "ro": "Mersul de la stație vă va menține cald.",
-                "en": "The walk from the stop keeps you warm."
+                "en": "The walk from the stop keeps you warm.",
+                "el": "Το περπάτημα από τη στάση σας κρατά ζεστούς."
               }
             },
             {
@@ -2281,7 +2474,8 @@
                 "de": "Das Licht am Nachmittag ist ideal für Fotos.",
                 "hu": "A délutáni fények ideálisak a fotózáshoz.",
                 "ro": "Lumina de după-amiază este ideală pentru poze.",
-                "en": "The afternoon light is ideal for photos."
+                "en": "The afternoon light is ideal for photos.",
+                "el": "Το απογευματινό φως είναι ιδανικό για φωτογραφίες."
               }
             },
             {
@@ -2290,7 +2484,8 @@
                 "de": "Verbringen Sie hier die kühlsten Stunden des Tages.",
                 "hu": "Itt töltse a nap leghűvösebb óráit.",
                 "ro": "Petreceți aici cele mai răcoroase ore ale zilei.",
-                "en": "Spend the coolest hours of the day here."
+                "en": "Spend the coolest hours of the day here.",
+                "el": "Περάστε εδώ τις πιο δροσερές ώρες της ημέρας."
               }
             },
             {
@@ -2299,7 +2494,8 @@
                 "de": "Ein warmer Zwischenstopp vor dem Abend.",
                 "hu": "Egy meleg köztes megálló az este előtt.",
                 "ro": "O oprire caldă înainte de seară.",
-                "en": "A warm stopover before the evening."
+                "en": "A warm stopover before the evening.",
+                "el": "Ένα ζεστό ενδιάμεσο στάδιο πριν το βράδυ."
               }
             },
             {
@@ -2308,7 +2504,8 @@
                 "de": "Achten Sie auf den letzten Bus zurück ins Zentrum.",
                 "hu": "Figyeljen az utolsó buszra vissza a központba.",
                 "ro": "Atenție la ultimul autobuz spre centru.",
-                "en": "Watch out for the last bus back to the center."
+                "en": "Watch out for the last bus back to the center.",
+                "el": "Προσέξτε το τελευταίο λεωφορείο πίσω στο κέντρο."
               }
             }
           ],
@@ -2340,6 +2537,13 @@
               "Plan your return trip before 5:30 PM.",
               "Bus stops are often close to the main entrances of the museums.",
               "Wear a warm jacket for waiting at the stop."
+            ],
+            "el": [
+              "Χρησιμοποιήστε τα θερμαινόμενα λεωφορεία για τις μετακινήσεις.",
+              "Τα δρομολόγια ενδέχεται να διαφέρουν ελαφρώς το χειμώνα.",
+              "Σχεδιάστε την επιστροφή σας πριν τις 17:30.",
+              "Οι στάσεις λεωφορείου συχνά είναι κοντά στις κύριες εισόδους των μουσείων.",
+              "Φορέστε ένα ζεστό μπουφάν για την αναμονή στη στάση."
             ]
           }
         }
