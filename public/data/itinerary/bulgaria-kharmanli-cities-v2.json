@@ -48,7 +48,7 @@
             "hu": "Az Egyesülés Emlékműve",
             "ro": "Monumentul Unificării",
             "en": "Monument of the Unification",
-            "bg": "Паметник на Съединението"
+            "bg": "Монумент на Съединението"
           },
           "coords": [
             25.9015,
@@ -65,7 +65,7 @@
             "hu": "Fontos hely, amely a bolgár történelemre emlékeztet.",
             "ro": "Un loc important care comemorează istoria bulgară.",
             "en": "An important spot commemorating Bulgarian history.",
-            "bg": "Важно място, възпитаващо българската история."
+            "bg": "Важно място, което почита българската история."
           }
         },
         {
@@ -74,7 +74,7 @@
             "hu": "Harmanli Történeti Múzeum",
             "ro": "Muzeul de Istorie Harmanli",
             "en": "Harmanli Historical Museum",
-            "bg": "Исторически музей – Харманли"
+            "bg": "Исторически музей Хасково"
           },
           "coords": [
             25.899,
@@ -91,7 +91,7 @@
             "hu": "Szánjon elég időt a régészeti leletek megtekintésére.",
             "ro": "Planificați suficient timp pentru a vedea descoperirile arheologice.",
             "en": "Allow enough time to see the archaeological finds.",
-            "bg": "Отделете достатъчно време, за да видите археологическите находки."
+            "bg": "Оставете достатъчно време, за да видите археологическите находки."
           }
         },
         {
@@ -117,7 +117,7 @@
             "hu": "Csodálja meg az ikonosztázt és a belső falfestményeket.",
             "ro": "Admirați iconostasul și picturile murale din interior.",
             "en": "Admire the iconostasis and the murals inside.",
-            "bg": "Възхитете се на иконостаса и фреските в него."
+            "bg": "Възхитете се на иконостаса и стенописите вътре."
           }
         },
         {
@@ -152,7 +152,7 @@
             "hu": "A Fehérlábú Leány forrása",
             "ro": "Izvorul Fecioarei cu picioare albe",
             "en": "Spring of the White-Legged Maiden",
-            "bg": "Изворът на Бялата крака девойка"
+            "bg": "Изворът на Бялокраката девойка"
           },
           "coords": [
             25.895,
@@ -169,7 +169,7 @@
             "hu": "Egy mitikus hely, tökéletes egy rövid szünetre.",
             "ro": "Un loc mitic, perfect pentru o scurtă pauză.",
             "en": "A mythical place, perfect for a short break.",
-            "bg": "Митично място, перфектно за кратка почивка."
+            "bg": "Митично място, идеално за кратка почивка."
           }
         },
         {
@@ -178,7 +178,7 @@
             "hu": "Gergana Park",
             "ro": "Parcul Gergana",
             "en": "Gergana Park",
-            "bg": "Парк „Гергяна“"
+            "bg": "Парк „Гергана“"
           },
           "coords": [
             25.905,
@@ -204,7 +204,7 @@
         "hu": "Harmanli-i napja a város szívében, a történelmi Óratoronynál kezdődik. Egy rövid séta elvezeti az Egyesülés Emlékművéhez, majd a Történeti Múzeumba, ahol elmélyülhet a helyi múltban. A közeli Szent Atanáz-templom spirituális nyugalmat kínál, mielőtt átsétálna a híres Görbe hídon. A délután a pihenésé: meglátogatja a legendás Fehérlábú Leány forrását, és a zöld Gergana Parkban zárja a napot.",
         "ro": "Ziua dvs. în Harmanli începe la vechiul Turn cu Ceas, inima orașului. O scurtă plimbare vă duce la Monumentul Unificării și mai departe la Muzeul de Istorie, unde vă veți cufunda în trecutul local. Biserica Sfântul Atanasie din apropiere oferă liniște spirituală înainte de a vă plimba peste faimosul Pod Curbat. După-amiaza este dedicată relaxării: vizitați legendarul Izvor al Fecioarei cu picioare albe și încheiați ziua în verdele Parc Gergana.",
         "en": "Your day in Harmanli begins at the historic Clock Tower, the heart of the city. A short walk takes you to the Monument of Unification and on to the Historical Museum, where you'll delve deep into the local past. The nearby Church of Saint Athanasius offers spiritual tranquility before you stroll across the famous Humpbacked Bridge. The afternoon is for relaxation: you'll visit the legendary Spring of the White-Legged Maiden and end the day in the green Gergana Park.",
-        "bg": "Денят ви в Харманли започва при историческата часовникова кула, сърцето на града. На кратка разходка ще достигнете до Паметника на Съединението и до Историческия музей, където ще се потопите в местното минало. Близката църква „Свети Атанасий“ предлага духовно уединение, преди да прекосите прочутия Крив мост. Следобедът е за отдих: ще посетите легендарния Извор на Бялата крака девойка и ще завършите деня в зеленото Парк „Гергяна“."
+        "bg": "Вашият ден в Харманли започва при историческата Часовникова кула, сърцето на града. Кратка разходка ще ви отведе до Паметника на Съединението и до Историческия музей, където ще се потопите в местното минало. Близката църква „Свети Атанасий“ предлага духовно уединение, преди да преминете по прочутия Крив мост. Следобедът е за релакс: ще посетите легендарния Извор на Бялокраката девойка и ще завършите деня в зеленото Парк „Гергана“."
       },
       "gastro_picks": {
         "de": [
@@ -402,10 +402,10 @@
           "Check the museum's opening hours in advance."
         ],
         "bg": [
-          "Носете удобни обувки, тъй като ще вървите по-голямата част от деня.",
-          "Вземете многократна бутилка за вода; можете да я напълните при Извора на Бялата крака девойка.",
-          "Повечето забележителности са близо една до друга, затова разходката пеш е най-добрият начин да усетите града.",
-          "Проверете предварително работното време на музея."
+          "Носете удобни обувки, тъй като ще ходите през по-голямата част от деня.",
+          "Вземете многократна бутилка за вода; можете да я напълните при Извора на Бялокраката девойка.",
+          "Повечето забележителности са близо една до друга, така че ходенето е най-добрият начин да усетите града.",
+          "Проверете работното време на музея предварително."
         ]
       },
       "variants": {
@@ -415,7 +415,7 @@
             "hu": "Kezdje az esős délelőttöt a régi óratoronynál, ahol a nedves macskakövek különleges hangulatot árasztanak. A Harmanli Történeti Múzeum kiváló menedéket nyújt a zápor elől, miközben elmerülhet a helyi múltban. Délben látogasson el a Szent Atanáz-templomba, majd esernyővel a kézben csodálja meg a görbe hidat. A napot a Gergana-park vizes ösvényein tett frissítő sétával zárhatja, élvezve a természet illatát az eső után.",
             "ro": "Începeți dimineața ploioasă la vechiul turn cu ceas, unde pavajul lucește sub picăturile de apă. Muzeul de Istorie oferă apoi refugiul perfect și uscat pentru o explorare detaliată. La prânz, vizitați Biserica Sfântul Atanasie, care oferă o atmosferă liniștită. După-amiaza vă poartă spre Podul Cocoșat, un simbol istoric impunător chiar și sub nori, iar ziua se încheie cu o plimbare revigorantă prin Parcul Gergana, sub adăpostul umbrelei.",
             "en": "Start your rainy morning at the Old Clock Tower, where the wet cobblestones add a historic sheen. The Historical Museum then provides the perfect dry sanctuary for an extensive visit. At midday, find peace in the Church of Saint Athanasius. Spend the afternoon with an umbrella at the iconic Humpbacked Bridge and conclude your day with a refreshing walk through Gergana Park, enjoying the crisp air and the scent of rain-soaked nature.",
-            "bg": "Започнете дъждовното си утро при Старата часовникова кула, където мокрите калдъръмени павета придават исторически блясък. Историческият музей предлага перфектното сухо убежище за обстойно посещение. По обяд намерете спокойствие в църквата „Свети Атанасий“. Прекарайте следобеда с чадър при емблематичния Крив мост и завършете деня с освежаваща разходка из Парк „Гергяна“, наслаждавайки се на свежия въздух и уханието на дъждовната природа."
+            "bg": "Започнете влажната си сутрин при Старата часовникова кула, където мокрите калдъръми придават исторически блясък. Историческият музей след това осигурява идеалното сухо убежище за дълго посещение. В средата на деня намерете покой в църквата „Свети Атанасий“. Прекарайте следобеда с чадър на емблематичния Крив мост и завършете деня с освежаваща разходка през Парк „Гергана“, наслаждавайки се на хладния въздух и аромата на наводнената от дъжда природа."
           },
           "stops": [
             {
@@ -425,7 +425,7 @@
                 "hu": "Vigyázzon a csúszós macskakövekre a torony körül az esőben.",
                 "ro": "Atenție la pavajul alunecos din jurul turnului pe timp de ploaie.",
                 "en": "Be careful on the slippery cobblestones around the tower base.",
-                "bg": "Внимавайте за хлъзгавите калдъръмени плочи около основата на кулата."
+                "bg": "Бъдете внимателни на хлъзгавите калдъръмени плочки около основата на кулата."
               }
             },
             {
@@ -435,7 +435,7 @@
                 "hu": "Gyors fotómegálló; tartsa erősen az esernyőt a szélben.",
                 "ro": "Oprire scurtă pentru poze; țineți bine umbrela împotriva vântului.",
                 "en": "Quick photo stop; hold your umbrella firmly against the wind.",
-                "bg": "Кратка фотоспирка; държете чадъра здраво срещу вятъра."
+                "bg": "Бърза фотостоп; дръжте чадъра здраво против вятъра."
               }
             },
             {
@@ -445,7 +445,7 @@
                 "hu": "Ideális hely, hogy fedett helyen várja meg a zápor végét.",
                 "ro": "Locul ideal pentru a aștepta trecerea ploii la adăpost.",
                 "en": "Ideal place to stay dry and wait out the heaviest rain.",
-                "bg": "Идеално място да останете на сухо и да изчакате най-силния дъжд."
+                "bg": "Идеално място да останете сухи и да изчакате най-силния дъжд да премине."
               }
             },
             {
@@ -455,7 +455,7 @@
                 "hu": "Használja a fedett bejáratot az esernyő lerázásához.",
                 "ro": "Folosiți intrarea acoperită pentru a scutura umbrela.",
                 "en": "Use the covered entrance area to shake off your umbrella.",
-                "bg": "Използвайте покритото входно пространство, за да разклатите чадъра."
+                "bg": "Използвайте покритото входно пространство, за да отстържете водата от чадъра си."
               }
             },
             {
@@ -465,7 +465,7 @@
                 "hu": "A kövek vizesen nagyon csúszósak lehetnek, óvatosan lépkedjen.",
                 "ro": "Pietrele pot fi foarte alunecoase când sunt ude, mergeți cu grijă.",
                 "en": "The stones can be very slippery when wet, watch your step.",
-                "bg": "Каменните плочи стават много хлъзгави при намокряне, внимавайте къде стъпвате."
+                "bg": "Камъните могат да бъдат много хлъзгави, когато са мокри, внимавайте къде стъпвате."
               }
             },
             {
@@ -475,7 +475,7 @@
                 "hu": "Az emlékmű a lágy esőben különösen melankolikus hangulatú.",
                 "ro": "Monumentul are o aură melancolică sub ploaia ușoară.",
                 "en": "The monument has a particularly melancholic feel in the rain.",
-                "bg": "Паметникът има особено меланхолично излъчване на дъжд."
+                "bg": "Паметникът има особено меланхолично излъчване под дъжда."
               }
             },
             {
@@ -485,7 +485,7 @@
                 "hu": "Keressen menedéket a sűrű lombok alatt a főút mentén.",
                 "ro": "Căutați adăpost sub coroanele dese de-a lungul aleii principale.",
                 "en": "Seek shelter under the thick tree canopies along the main path.",
-                "bg": "Потърсете подслон под плътните корони на дърветата по главната алея."
+                "bg": "Търсете подслон под гъстите дървесни корони по главната алея."
               }
             }
           ],
@@ -515,10 +515,10 @@
               "Park paths are mostly paved, but edges can get muddy during heavy downpours."
             ],
             "bg": [
-              "Препоръчителен е здрав чадър заради възможни пориви на вятъра в откритите пространства.",
-              "Носете водоустойчиви обувки, тъй като около Кривия мост често се образуват локви.",
-              "Историческият музей е най-доброто закрито място за продължителна почивка по време на дъжд.",
-              "Пътеките в парка са предимно павирани, но ръбовете могат да станат кални при силни порои."
+              "Препоръчителен е здрав чадър заради възможни пориви на вятъра в открити пространства.",
+              "Носете водоустойчива обувка, тъй като по периметъра на Кривия мост често се образуват локви.",
+              "Историческият музей е най-доброто закрито място за дълга почивка от дъжда.",
+              "Пътеките в парка са основно павирани, но краищата могат да се заблатят при силни порои."
             ]
           }
         },
@@ -528,7 +528,7 @@
             "hu": "A tiszta téli reggelen az óratorony büszkén magasodik a hideg levegőben. A Történeti Múzeum kellemes meleget és izgalmas kiállításokat kínál a fázós látogatóknak. Délben a Szent Atanáz-templom csendje után a befagyott folyó feletti görbe híd látványában gyönyörködhet. Mivel a nap korán nyugszik, fejezze be a sétát a Gergana-parkban, ahol a zúzmarás fák különleges téli hangulatot árasztanak a szürkületben.",
             "ro": "Într-o dimineață geroasă de iarnă, turnul cu ceas se profilează clar pe cerul rece. Muzeul de Istorie vă primește apoi cu căldură și exponate fascinante. La prânz, liniștea Bisericii Sfântul Atanasie este reconfortantă înainte de a admira Podul Cocoșat în haine de iarnă. Deoarece soarele apune devreme, încheiați plimbarea în Parcul Gergana, unde copacii desfrunziți creează un peisaj alb-negru poetic.",
             "en": "On a crisp winter morning, the Old Clock Tower stands sharp against the cold sky. The Historical Museum then welcomes you with cozy warmth and fascinating local history. At midday, find solace in the quiet Church of Saint Athanasius before admiring the frosty beauty of the Humpbacked Bridge. As the sun sets early, finish your walk in Gergana Park, where the bare trees create a unique winter aesthetic in the late afternoon light.",
-            "bg": "В ярко зимно утро Старата часовникова кула стои рязко на фона на студеното небе. Историческият музей ви посреща с топлина и увлекателна местна история. По обяд намерете утеха в тихата църква „Свети Атанасий“, преди да се насладите на покритата със скреж красота на Кривия мост. С настъпването на ранния залез завършете разходката си в Парк „Гергяна“, където голите дървета създават уникална зимна атмосфера при късния следобеден светлинен ефект."
+            "bg": "В късна зимна сутрин Старата часовникова кула стърчи остро на фона на студеното небе. Историческият музей ви посреща с уют и завладяваща местна история. На обяд намерете утеха в тихата църква „Свети Атанасий“, преди да се възхитите на измръзналата красота на Кривия мост. Тъй като слънцето залязва рано, завършете разходката си в Парк „Гергана“, където голите дървета създават характерна зимна атмосфера при късния следобеден светлинен тон."
           },
           "stops": [
             {
@@ -538,7 +538,7 @@
                 "hu": "Ügyeljen az esetleges jeges foltokra a régi macskaköveken.",
                 "ro": "Atenție la porțiunile înghețate de pe pavajul vechi.",
                 "en": "Watch out for icy patches on the old cobblestone pavement.",
-                "bg": "Внимавайте за заледени участъци по старата калдъръмена настилка."
+                "bg": "Внимавайте за заледени петна по старите калдъръмени настилки."
               }
             },
             {
@@ -548,7 +548,7 @@
                 "hu": "A szél itt télen gyakran metsző, érdemes sapkát húzni.",
                 "ro": "Vântul suflă tăios aici iarna; purtați căciulă.",
                 "en": "The winter wind can be quite biting here; wear a warm hat.",
-                "bg": "Зимният вятър тук може да е пронизващ; носете топла шапка."
+                "bg": "Зимният вятър може да е пронизващ; носете топла шапка."
               }
             },
             {
@@ -558,7 +558,7 @@
                 "hu": "Élvezze a jól fűtött termeket a múzeumi séta közben.",
                 "ro": "Bucurați-vă de interiorul bine încălzit în timpul vizitei.",
                 "en": "Enjoy the well-heated interior during your museum tour.",
-                "bg": "Насладете се на топлото и добре отоплено помещение по време на обиколката в музея."
+                "bg": "Насладете се на добре отоплените интериори по време на музейната обиколка."
               }
             },
             {
@@ -568,7 +568,7 @@
                 "hu": "A templomban hűvös lehet, ne vegye le a kabátját.",
                 "ro": "Poate fi răcoare în biserică; păstrați haina pe dumneavoastră.",
                 "en": "The church interior can be chilly; keep your coat on.",
-                "bg": "Интериорът на църквата може да е хладен; дръжте палтото си наметнато."
+                "bg": "Интериорът на църквата може да бъде хладен; дръжте палтото си на вас."
               }
             },
             {
@@ -578,7 +578,7 @@
                 "hu": "Gyönyörű zúzmarás időben, de a kőlépcsők csalókák lehetnek.",
                 "ro": "Superb când este înghețat, dar treptele de piatră sunt înșelătoare.",
                 "en": "Beautiful when frosty, but the stone steps can be treacherous.",
-                "bg": "Красиво, когато е покрито със скреж, но каменните стъпала могат да бъдат опасни."
+                "bg": "Красиво при измръзване, но каменните стъпала могат да бъдат опасни."
               }
             },
             {
@@ -588,7 +588,7 @@
                 "hu": "Gyors megálló a legenda kedvéért, mielőtt nagyon lehűl az idő.",
                 "ro": "O oprire scurtă pentru legendă înainte de a se face prea frig.",
                 "en": "A quick stop for the legend before the temperature drops further.",
-                "bg": "Кратка спирка за легендата, преди температурите да паднат още повече."
+                "bg": "Бърз стоп за легендата, преди температурите да паднат още повече."
               }
             },
             {
@@ -598,7 +598,7 @@
                 "hu": "A szürkület 16:30 körül kezdődik, tervezze ehhez a séta végét.",
                 "ro": "Amurgul începe în jur de 16:30; planificați finalul plimbării.",
                 "en": "Twilight starts around 4:30 PM; plan your exit before dark.",
-                "bg": "Сумракът започва около 16:30; планирайте излизането си преди тъмно."
+                "bg": "Сумракът започва около 16:30; планирайте тръгване преди да стъмнее."
               }
             }
           ],
@@ -628,10 +628,10 @@
               "Be cautious of black ice, especially in areas close to the riverbank."
             ],
             "bg": [
-              "Топли ръкавици са задължителни за разходката към Кривия мост.",
+              "Топлите ръкавици са задължителни за разходката към Кривия мост.",
               "Слънцето изчезва рано зад хълмовете; използвайте максимално утринната светлина.",
-              "Потърсете малки кафенета близо до центъра, за да се стоплите между спирките.",
-              "Бъдете внимателни към черен лед, особено в участъците близо до брега на реката."
+              "Потърсете малки кафенета близо до центъра, за да се затоплите между спирките.",
+              "Бъдете внимателни за черен лед, особено в участъците близо до речното корито."
             ]
           }
         }
@@ -668,7 +668,7 @@
             "hu": "Nézze meg a programot, hátha van esti előadás.",
             "ro": "Verificați programul, poate există un eveniment de seară.",
             "en": "Check the schedule, there might be an evening event.",
-            "bg": "Проверете програмата — може да има вечерно събитие."
+            "bg": "Проверете програмата, може да има вечерно събитие."
           }
         },
         {
@@ -694,7 +694,7 @@
             "hu": "Egy rövid megálló egy fotóra a város jelképével.",
             "ro": "O oprire scurtă pentru o fotografie cu simbolul orașului.",
             "en": "A quick stop for a photo with the city's landmark.",
-            "bg": "Кратка спирка за снимка с емблемата на града."
+            "bg": "Кратка спирка за снимка с градския символ."
           }
         },
         {
@@ -703,7 +703,7 @@
             "hu": "Harmanli Történeti Múzeum",
             "ro": "Muzeul de Istorie Harmanli",
             "en": "Harmanli Historical Museum",
-            "bg": "Исторически музей – Харманли"
+            "bg": "Исторически музей Хасково"
           },
           "coords": [
             25.899,
@@ -720,7 +720,7 @@
             "hu": "Biztonságosan zárja le a kerékpárját, mielőtt belép a múzeumba.",
             "ro": "Asigurați-vă bicicleta înainte de a intra în muzeu.",
             "en": "Secure your bike safely before entering the museum.",
-            "bg": "Заключете сигурно велосипеда си преди влизане в музея."
+            "bg": "Заключете велосипеда си сигурно преди да влезете в музея."
           }
         },
         {
@@ -781,7 +781,7 @@
             "hu": "A Fehérlábú Leány forrása",
             "ro": "Izvorul Fecioarei cu picioare albe",
             "en": "Spring of the White-Legged Maiden",
-            "bg": "Изворът на Бялата крака девойка"
+            "bg": "Изворът на Бялокраката девойка"
           },
           "coords": [
             25.895,
@@ -807,7 +807,7 @@
             "hu": "Gergana Park",
             "ro": "Parcul Gergana",
             "en": "Gergana Park",
-            "bg": "Парк „Гергяна“"
+            "bg": "Парк „Гергана“"
           },
           "coords": [
             25.905,
@@ -833,7 +833,7 @@
         "hu": "Kezdje kerékpártúráját a Druzsba Kulturális Központnál, és tekerjen a város szívébe, a régi Óratoronyhoz. Onnan folytassa útját a Történeti Múzeumba egy adag kultúráért. A Szent Atanáz-templom megtekintése után útja a folyón átívelő, lenyűgöző Görbe hídhoz vezet. Egy rövid tekerés elvisz a mitikus Fehérlábú Leány forrásához. A túra laza befejezéseként tartson egy hosszabb szünetet a Gergana Parkban, ahol élvezheti a természetet.",
         "ro": "Începeți turul cu bicicleta de la Centrul Cultural Drujba și pedalați spre inima orașului, vechiul Turn cu Ceas. De acolo, continuați spre Muzeul de Istorie pentru o doză de cultură. După vizitarea Bisericii Sfântul Atanasie, drumul vă duce la impresionantul Pod Curbat peste râu. O scurtă plimbare cu bicicleta vă va duce la miticul Izvor al Fecioarei cu picioare albe. Încheiați-vă turul relaxant cu o pauză extinsă în Parcul Gergana, unde vă puteți bucura de natură.",
         "en": "Start your bike tour at the Druzhba Cultural Center and cycle to the heart of the city, the old Clock Tower. From there, continue to the Historical Museum for a dose of culture. After visiting the Church of Saint Athanasius, your path leads you to the impressive Humpbacked Bridge over the river. A short ride will take you to the mythical Spring of the White-Legged Maiden. End your tour with a relaxing extended break in Gergana Park, where you can enjoy nature.",
-        "bg": "Започнете велотура си от Културния център „Дружба“ и карайте към сърцето на града — Старата часовникова кула. Оттам продължете до Историческия музей за доза култура. След посещението на църквата „Свети Атанасий“ пътят ви води до впечатляващия Крив мост над реката. Кратко каране ще ви отведе до митичния Извор на Бялата крака девойка. Завършете тура с отпускаща по-дълга почивка в Парк „Гергяна“, където можете да се насладите на природата."
+        "bg": "Започнете велосипедната си обиколка от Културен център „Дружба“ и карайте към сърцето на града — старата Часовникова кула. Оттам продължете до Историческия музей за доза култура. След посещението на църквата „Свети Атанасий“ маршрутът ви води до впечатляващия Крив мост над реката. Кратко каране ще ви отведе до митичния Извор на Бялокраката девойка. Завършете тура с релаксираща продължителна почивка в Парк „Гергана“, където можете да се насладите на природата."
       },
       "gastro_picks": {
         "de": [
@@ -1031,10 +1031,10 @@
           "Always lock your bike when you leave it unattended."
         ],
         "bg": [
-          "Проверете състоянието на велосипеда си преди тръгване, особено спирачките и гумите.",
-          "Носете каска за ваша безопасност.",
-          "Харманли е сравнително равнинен, но може да има леки наклони.",
-          "Винаги заключвайте велосипеда си, когато го оставяте без надзор."
+          "Проверете състоянието на колелото си преди тръгване, особено спирачките и гумите.",
+          "Носете каска за своята безопасност.",
+          "Харманли е относително равен, но са възможни леки наклони.",
+          "Винаги заключвайте колелото си, когато го оставяте без надзор."
         ]
       },
       "variants": {
@@ -1044,7 +1044,7 @@
             "hu": "Kezdje a biciklitúrát óvatosan a Druzhba Kulturális Központnál, miközben az eső kopog az aszfalton. Az óratorony és a Történeti Múzeum jó alkalom, hogy rövid időre letegye a gépet és fedett helyen pihenjen. Délben érje el a Szent Atanáz-templomot, ahol az előtető alatt kifújhatja magát. A görbe hídhoz vezető út nedves időben koncentrációt igényel, majd a túrát a Gergana-park aszfaltozott főútjain fejezheti be.",
             "ro": "Începeți turul cu bicicleta cu prudență de la Centrul Cultural Druzhba, în timp ce ploaia bate în asfalt. Turnul cu ceas și Muzeul de Istorie oferă ocazii bune de a parca bicicleta și de a sta la adăpost. La prânz ajungeți la Biserica Sfântul Atanasie, unde vă puteți trage sufletul sub streașină. Drumul spre Podul Cocoșat necesită concentrare pe timp de ploaie, înainte de a încheia turul pe aleile asfaltate din Parcul Gergana.",
             "en": "Start your bike tour cautiously at the Druzhba Cultural Center as rain taps on the pavement. The Clock Tower and Historical Museum offer good opportunities to park and stay dry for a while. At midday, reach the Church of Saint Athanasius, where you can take a breather under the porch. The ride to the Humpbacked Bridge requires focus on wet roads before finishing your tour on the paved main paths of Gergana Park.",
-            "bg": "Започнете велотура си внимателно от Културния център „Дружба“, докато дъждът потропва по паветата. Часовниковата кула и Историческият музей дават добри възможности да спирате и да останете сухи за известно време. По обяд стигнете до църквата „Свети Атанасий“, където можете да си починете под портала. Карането към Кривия мост изисква концентрация при мокри пътища, преди да завършите тура си по павираните главни алеи в Парк „Гергяна“."
+            "bg": "Започнете велотура си внимателно от Културен център „Дружба“, докато дъждът потупва паважа. Часовниковата кула и Историческият музей предлагат добри възможности да паркирате и да се укриете за малко. По обед стигнете до църквата „Свети Атанасий“, където можете да си поемете въздух под стрехата. Карането към Кривия мост изисква концентрация на мокри настилки, преди да завършите тура по асфалтираните главни алеи на парк „Гергана”."
           },
           "stops": [
             {
@@ -1054,7 +1054,7 @@
                 "hu": "Fedett biciklitárolók gyakran közvetlenül a főbejáratnál vannak.",
                 "ro": "Locuri de parcare acoperite se găsesc adesea chiar la intrare.",
                 "en": "Covered bike parking can often be found right by the main entrance.",
-                "bg": "Покрити велопаркинги често се намират непосредствено до главния вход."
+                "bg": "Покрито място за паркиране на велосипеди често може да се намери точно до главния вход."
               }
             },
             {
@@ -1064,7 +1064,7 @@
                 "hu": "Vigyázzon a leszálláskor; a vizes kövek nagyon csúsznak.",
                 "ro": "Atenție la descălecare; pietrele ude sunt foarte alunecoase.",
                 "en": "Be careful when dismounting; the wet stones are very slippery.",
-                "bg": "Внимавайте при слизане; мокрите камъни са много хлъзгави."
+                "bg": "Бъдете внимателни при слизане; мокрите камъни са много хлъзгави."
               }
             },
             {
@@ -1074,7 +1074,7 @@
                 "hu": "Hozzon lakatot; a bicikli kint áll majd az esőben.",
                 "ro": "Aduceți un antifurt; bicicleta va sta afară în ploaie.",
                 "en": "Bring a lock; your bike will be parked outside in the rain.",
-                "bg": "Вземете катинар; велосипедът ще стои навън под дъжда."
+                "bg": "Вземете заключване; колелото ще бъде паркирано навън на дъжда."
               }
             },
             {
@@ -1084,7 +1084,7 @@
                 "hu": "Kerülje az erős fékezést a templom körüli kövezeten.",
                 "ro": "Evitați frânările bruște pe pavajul din jurul bisericii.",
                 "en": "Avoid sharp braking on the church square's pavement.",
-                "bg": "Избягвайте резки спирания по павето на църковния площад."
+                "bg": "Избягвайте рязко спиране на паважа на църковния площад."
               }
             },
             {
@@ -1094,7 +1094,7 @@
                 "hu": "Tolja a biciklit a hídon, hogy elkerülje az eséseket.",
                 "ro": "Împingeți bicicleta pe pod pentru a evita căzăturile.",
                 "en": "Push your bike across the bridge to avoid falls.",
-                "bg": "Пресечете моста пеш, за да избегнете падания."
+                "bg": "Придърпайте колелото си пеша през моста, за да избегнете падания."
               }
             },
             {
@@ -1104,7 +1104,7 @@
                 "hu": "A lehajtó esőben kissé saras lehet.",
                 "ro": "Accesul poate fi puțin noroios pe timp de ploaie.",
                 "en": "The access path can get a bit muddy in the rain.",
-                "bg": "Достъпният път може да стане малко кален при дъжд."
+                "bg": "Подходният път може да се направи малко каллив при дъжд."
               }
             },
             {
@@ -1114,7 +1114,7 @@
                 "hu": "Maradjon a burkolt utakon, hogy elkerülje a sarat.",
                 "ro": "Rămâneți pe aleile pavate pentru a evita noroiul.",
                 "en": "Stick to the paved paths to avoid getting bogged down in mud.",
-                "bg": "Дръжте се по павираните пътеки, за да не попаднете в кал."
+                "bg": "Дръжте се по асфалтираните пътеки, за да избегнете заравяне в кал."
               }
             }
           ],
@@ -1144,10 +1144,10 @@
               "Check your brakes before setting off, as stopping distances increase on wet roads."
             ],
             "bg": [
-              "Калници са абсолютно задължителни при каране в дъжда в Харманли.",
-              "Носете ярък водоустойчив елек, тъй като видимостта за шофьорите често е намалена.",
+              "Калниците са абсолютно задължителни при каране в харманлийски дъжд.",
+              "Носете високовидим дъждобран, тъй като видимостта за шофьорите често е намалена.",
               "Не карайте през Кривия мост; бутането е много по-безопасно.",
-              "Проверете спирачките си преди тръгване, тъй като спирането на мокри пътища отнема повече разстояние."
+              "Проверете спирачките преди тръгване, тъй като дистанциите за спиране се увеличават на мокри пътища."
             ]
           }
         },
@@ -1157,7 +1157,7 @@
             "hu": "Tekerjen a tiszta téli reggelen vastagon felöltözve az óratoronyhoz. A Történeti Múzeum biztosítja a szükséges melegedőt, mielőtt továbbhaladna a Szent Atanáz-templomhoz. Délben érje el a görbe hidat, amely a téli fényben különösen hatásos, de vigyázzon a csúszós részekkel. Használja ki az utolsó napsütéses órákat egy gyors körre a Gergana-parkban, mielőtt a hideg késő délután bekeményítene.",
             "ro": "Pedalați în dimineața geroasă prin aerul curat spre turnul cu ceas, bine îmbrăcat. Muzeul de Istorie oferă pauza necesară pentru încălzire înainte de a continua spre Biserica Sfântul Atanasie. La prânz ajungeți la Podul Cocoșat, care arată impresionant în lumina iernii, dar prudența este cheia pe zonele alunecoase. Profitați de ultimele ore cu soare pentru o tură prin Parcul Gergana.",
             "en": "Cycle through the crisp winter air to the Clock Tower, making sure you're layered up. The Historical Museum provides a necessary warm-up break before continuing to the Church of Saint Athanasius. Reach the Humpbacked Bridge at midday, looking striking in the winter light, but be cautious of icy patches. Use the final daylight hours for a brisk ride through Gergana Park before the temperature drops sharply in the late afternoon.",
-            "bg": "Карайте през свежия зимен въздух към Часовниковата кула, като се уверите, че сте облечени на слоеве. Историческият музей предоставя необходимата пауза за затопляне преди продължаване към църквата „Свети Атанасий“. Достигнете Кривия мост по обяд — изглежда впечатляващо в зимната светлина, но внимавайте за заледени участъци. Използвайте последните часове дневна светлина за оживено каране през Парк „Гергяна“, преди температурата да падне рязко късно следобед."
+            "bg": "Карайете през свежия зимен въздух към Часовниковата кула, като се облечете на пластове. Историческият музей предоставя необходимата възможност за затопляне преди продължаване към църквата „Свети Атанасий“. По обед достигнете до Кривия мост, който изглежда впечатляващо в зимната светлина, но внимавайте за заледени участъци. Използвайте последните часове дневна светлина за бодро каране през парк „Гергана“ преди температурите рязко да паднат късния следобед."
           },
           "stops": [
             {
@@ -1167,7 +1167,7 @@
                 "hu": "A fém tárolók télen odafagyhatnak, óvatosan lakatoljon.",
                 "ro": "Suporturile metalice pot îngheța; atenție când legați bicicleta.",
                 "en": "Metal bike racks can be freezing cold; be careful when locking up.",
-                "bg": "Металните стойки за велосипеди могат да са ледено студени; внимавайте при заключване."
+                "bg": "Металните стойки за велосипеди могат да бъдат ледено студени; внимавайте при заключване."
               }
             },
             {
@@ -1177,7 +1177,7 @@
                 "hu": "Ügyeljen a zúzmarára a macskaköveken.",
                 "ro": "Atenție la chiciura de pe pavaj.",
                 "en": "Watch out for hoarfrost on the cobblestones.",
-                "bg": "Внимавайте за слана по калдъръма."
+                "bg": "Внимавайте за слана по паважа."
               }
             },
             {
@@ -1187,7 +1187,7 @@
                 "hu": "Jó alkalom az elgémberedett ujjak átmozgatására.",
                 "ro": "O ocazie bună să vă încălziți degetele amorțite.",
                 "en": "A great chance to warm up your stiff fingers inside.",
-                "bg": "Отличен шанс да размърдате схванатите пръсти вътре, за да се затоплят."
+                "bg": "Отличен шанс да затоплите схванатите си пръсти вътре."
               }
             },
             {
@@ -1197,7 +1197,7 @@
                 "hu": "Az épületek árnyékában különösen óvatosan haladjon.",
                 "ro": "Pedalați cu mare atenție în zonele umbrite de clădiri.",
                 "en": "Ride extra carefully in the shadows of buildings where ice lingers.",
-                "bg": "Карайте още по-внимателно в сенките на сградите, където ледът остава по-дълго."
+                "bg": "Карайте с повишено внимание в сенките на сградите, където ледът се задържа."
               }
             },
             {
@@ -1207,7 +1207,7 @@
                 "hu": "Jégveszély! Csak gyalogosan keljen át a hídon.",
                 "ro": "Pericol de polei! Traversați podul doar pe jos.",
                 "en": "Risk of black ice! Cross the bridge only on foot.",
-                "bg": "Опасност от черен лед! Пресичайте моста само пеша."
+                "bg": "Риск от черен лед! Пресичайте моста само пеша."
               }
             },
             {
@@ -1217,7 +1217,7 @@
                 "hu": "Rövid pihenő, de maradjon mozgásban, hogy ne fázzon meg.",
                 "ro": "Pauză scurtă, dar rămâneți în mișcare pentru a nu îngheța.",
                 "en": "Short rest, but keep moving to maintain body heat.",
-                "bg": "Кратка почивка, но продължавайте да се движите, за да поддържате топлината на тялото."
+                "bg": "Кратка почивка, но продължавайте да се движите, за да запазите телесната топлина."
               }
             },
             {
@@ -1227,7 +1227,7 @@
                 "hu": "Gondoskodjon a világításról a sötétedés beállta előtt.",
                 "ro": "Asigurați-vă că aveți lumini funcționale înainte de lăsarea serii.",
                 "en": "Ensure your bike lights are working before darkness sets in.",
-                "bg": "Уверете се, че светлините на велосипеда работят преди да настъпи тъмнина."
+                "bg": "Уверете се, че фаровете на колелото работят преди да падне тъмнина."
               }
             }
           ],
@@ -1257,10 +1257,10 @@
               "Keep hydrated and drink warm tea during your indoor breaks in the center."
             ],
             "bg": [
-              "Топли, ветроустойчиви ръкавици са задължителни за зимните велосипедисти в Харманли.",
-              "Намалете леко налягането в гумите за по-добро сцепление на студени повърхности.",
+              "Топли, непродуваеми ръкавици са задължителни за зимните колоездачи в Харманли.",
+              "Намалете малко налягането в гумите за по-добро сцепление на студени настилки.",
               "Планирайте маршрута си, за да приключите преди 16:30.",
-              "Поддържайте хидратация и пийте топъл чай по време на вътрешните паузи в центъра."
+              "Останете хидратирани и пийте топъл чай по време на вътрешните си почивки в центъра."
             ]
           }
         }
@@ -1280,7 +1280,7 @@
             "hu": "Parkoló a Történeti Múzeumnál",
             "ro": "Parcare la Muzeul de Istorie",
             "en": "Parking at the Historical Museum",
-            "bg": "Паркиране при Историческия музей"
+            "bg": "Паркинг при Историческия музей"
           },
           "coords": [
             25.8985,
@@ -1297,7 +1297,7 @@
             "hu": "Jó, központi parkoló a város első részének gyalogos felfedezéséhez.",
             "ro": "O parcare bună, centrală, pentru a explora prima parte a orașului pe jos.",
             "en": "A good, central parking spot to explore the first part of the city on foot.",
-            "bg": "Добро, централно място за паркиране, за да разгледате първата част на града пеша."
+            "bg": "Добро, централно място за паркиране, от което да разгледате първата част на града пеша."
           }
         },
         {
@@ -1306,7 +1306,7 @@
             "hu": "Harmanli Történeti Múzeum",
             "ro": "Muzeul de Istorie Harmanli",
             "en": "Harmanli Historical Museum",
-            "bg": "Исторически музей – Харманли"
+            "bg": "Харманлийски исторически музей"
           },
           "coords": [
             25.899,
@@ -1323,7 +1323,7 @@
             "hu": "Kezdje itt, hogy áttekintést kapjon a régió gazdag történelméről.",
             "ro": "Începeți de aici pentru a obține o imagine de ansamblu asupra istoriei bogate a regiunii.",
             "en": "Start here to get an overview of the region's rich history.",
-            "bg": "Започнете тук, за да получите общ преглед на богатата история на региона."
+            "bg": "Започнете тук, за да добиете представа за богатата история на региона."
           }
         },
         {
@@ -1332,7 +1332,7 @@
             "hu": "Régi óratorony",
             "ro": "Vechiul turn cu ceas",
             "en": "The old Clock Tower",
-            "bg": "Старата Часовникова кула"
+            "bg": "Старата часовникова кула"
           },
           "coords": [
             25.9005,
@@ -1349,7 +1349,7 @@
             "hu": "Csak egy rövid séta a múzeumtól, minden látogatónak kötelező.",
             "ro": "La doar o scurtă plimbare de muzeu, o vizită obligatorie pentru fiecare vizitator.",
             "en": "Just a short walk from the museum, a must-see for every visitor.",
-            "bg": "Само кратка разходка от музея, задължителна за всеки посетител."
+            "bg": "Само на кратка разходка от музея, задължителна спирка за всеки посетител."
           }
         },
         {
@@ -1375,7 +1375,7 @@
             "hu": "Az utolsó megálló ebben a klaszterben, mielőtt autóval továbbmennénk.",
             "ro": "Ultima oprire din acest cluster înainte de a continua cu mașina.",
             "en": "The last stop in this cluster before continuing by car.",
-            "bg": "Последна спирка в този клъстер преди да продължите с кола."
+            "bg": "Последната спирка в този квартет преди да продължите с кола."
           }
         },
         {
@@ -1384,7 +1384,7 @@
             "hu": "A Görbe híd",
             "ro": "Podul Curbat",
             "en": "The Humpbacked Bridge",
-            "bg": "Кривият (гърбат) мост"
+            "bg": "Кривият мост"
           },
           "coords": [
             25.893,
@@ -1410,7 +1410,7 @@
             "hu": "A Fehérlábú Leány forrása",
             "ro": "Izvorul Fecioarei cu picioare albe",
             "en": "Spring of the White-Legged Maiden",
-            "bg": "Изворът на Бялата кракана девойка"
+            "bg": "Изворът на Бялокраката девойка"
           },
           "coords": [
             25.895,
@@ -1427,7 +1427,7 @@
             "hu": "Szép hely egy piknikhez és egy hosszabb délutáni szünethez.",
             "ro": "Un loc frumos pentru un picnic și o pauză mai lungă după-amiaza.",
             "en": "A beautiful spot for a picnic and a longer afternoon break.",
-            "bg": "Красиво място за пикник и дълга следобедна почивка."
+            "bg": "Красиво място за пикник и по-дълга следобедна почивка."
           }
         }
       ],
@@ -1436,7 +1436,7 @@
         "hu": "Kezdje a napot kényelmesen autóval, és parkoljon a központban, a Történeti Múzeum közelében. A délelőtt az első klaszteré: fedezze fel gyalog a múzeumot, az ikonikus Óratornyot és a spirituális Szent Atanáz-templomot. E kulturális élmények után üljön autóba egy rövid útra a második klaszterhez. Ott várja a híres Görbe híd. Sétáljon onnan a legendás Fehérlábú Leány forrásához, és élvezze a kiadós pihenőt a természetben.",
         "ro": "Începeți-vă ziua confortabil cu mașina și parcați în centru, lângă Muzeul de Istorie. Dimineața este dedicată primului cluster: explorați pe jos muzeul, iconicul Turn cu Ceas și spirituala Biserică Sfântul Atanasie. După aceste impresii culturale, luați mașina pentru o scurtă călătorie către al doilea cluster. Acolo vă așteaptă faimosul Pod Curbat. De acolo, faceți o plimbare până la legendarul Izvor al Fecioarei cu picioare albe și bucurați-vă de o pauză lungă în natură.",
         "en": "Start your day comfortably by car, parking in the center near the Historical Museum. The morning belongs to the first cluster: explore the museum, the iconic Clock Tower, and the spiritual Church of Saint Athanasius on foot. After these cultural impressions, take the car for a short drive to the second cluster. The famous Humpbacked Bridge awaits you there. From there, take a walk to the legendary Spring of the White-Legged Maiden and enjoy an extended break in nature.",
-        "bg": "Започнете деня си удобно с кола, като паркирате в центъра до Историческия музей. Сутринта е за първия клъстер: разгледайте музея, емблематичната Часовникова кула и духовната Църква „Свети Атанасий“ пеша. След тези културни впечатления вземете колата за кратко каране до втория клъстер. Там ви очаква прочутият Гърбат мост. Оттам се разходете до легендарния Извор на Бялата кракана девойка и се насладете на продължителна почивка сред природата."
+        "bg": "Започнете деня си удобно с кола, паркирайки в центъра близо до Историческия музей. Сутринта е за първия клъстер: разгледайте музея, емблематичната Часовникова кула и духовната църква „Свети Атанасий“ пеша. След тези културни впечатления използвайте колата за кратко пътуване до втория клъстер. Там ви очаква прочутият Крив мост. Оттам се разходете до легендарния Извор на Бялокраката девойка и се насладете на удължена почивка сред природата."
       },
       "gastro_picks": {
         "de": [
@@ -1634,9 +1634,9 @@
           "Plan your route between clusters to save time."
         ],
         "bg": [
-          "Внимавайте за ограниченията за паркиране в центъра на града.",
-          "Стратегията с клъстерите помага да спестите такси за паркиране и да разгледате повече пеша.",
-          "Колата ви позволява лесно да стигнете до ресторанти или панорамни точки малко извън града.",
+          "Обърнете внимание на ограниченията за паркиране в центъра на града.",
+          "Стратегията с клъстери помага да спестите от паркинг и да видите повече пеша.",
+          "С кола също лесно ще стигнете до ресторанти или панорамни точки малко извън града.",
           "Планирайте маршрута си между клъстерите, за да спестите време."
         ]
       },
@@ -1647,7 +1647,7 @@
             "hu": "Használja ki autója kényelmét ezen az esős napon, és parkoljon közvetlenül a Történeti Múzeumnál. A látogatás után az óratorony csak egy rövid útra van, ahol a száraz utastérből csodálhatja meg a jelképet. Délben az út a Szent Atanáz-templomhoz vezet, majd tovább a görbe hídhoz. Zárja a kirándulást késő délután a Fehérlábú lány forrásánál, miközben az esőcseppek az autótetőn kopognak.",
             "ro": "Profitați de confortul mașinii în această zi ploioasă și parcați chiar lângă Muzeul de Istorie. După vizită, turnul cu ceas este la doar o scurtă distanță, permițându-vă să-l admirați din interiorul uscat. La prânz, traseul duce la Biserica Sfântul Atanasie, apoi spre Podul Cocoșat. Încheiați excursia după-amiaza târziu la Izvorul Fecioarei cu Picioare Albe, ascultând ploaia pe plafonul mașinii.",
             "en": "Enjoy the comfort of your car on this rainy day, parking right by the Historical Museum. After your visit, the Clock Tower is just a short drive away, allowing you to admire the landmark from your dry vehicle. At midday, head to the Church of Saint Athanasius before driving on to the Humpbacked Bridge. Conclude your trip in the late afternoon at the Spring of the White-Legged Maiden, listening to the rain drumming on the car roof.",
-            "bg": "Насладете се на комфорта на автомобила в този дъждовен ден, паркирайки директно до Историческия музей. След посещението Часовниковата кула е само на кратко шофиране, което ви позволява да я разгледате от сухия автомобил. В средата на деня отидете до Църквата „Свети Атанасий“ преди да продължите към Гърбатия мост. Завършете пътуването си късния следобед при Извора на Бялата кракана девойка, слушайки дъжда да барабани по покрива на колата."
+            "bg": "Насладете се на удобството на колата си в този дъждовен ден, паркирайки точно до Историческия музей. След посещението Часовниковата кула е само на кратко шофиране, позволявайки ви да се възхищавате на забележителността от сухия си автомобил. По обед посетете църквата „Свети Атанасий“, преди да продължите към Кривия мост. Завършете пътуването си късно следобед при Извора на Бялокраката девойка, слушайки дъжда, който барабанисва по покрива на колата."
           },
           "stops": [
             {
@@ -1657,7 +1657,7 @@
                 "hu": "Esőben gyakran nagy tócsák alakulnak ki itt, vigyázzon a kiszállásnál.",
                 "ro": "Se formează adesea bălți mari aici; atenție la coborâre.",
                 "en": "Large puddles often form here in the rain; be careful when stepping out.",
-                "bg": "Често се образуват големи локви при дъжд; бъдете внимателни при слизане от автомобила."
+                "bg": "Тук често се образуват големи локви при дъжд; внимавайте при слизане от колата."
               }
             },
             {
@@ -1677,7 +1677,7 @@
                 "hu": "Rövid megállás fotózáshoz általában megoldható.",
                 "ro": "Oprirea scurtă pentru fotografii este de obicei posibilă.",
                 "en": "Briefly pulling over for a photo is usually possible nearby.",
-                "bg": "Кратко спиране за снимка обикновено е възможно наблизо."
+                "bg": "Кратко отбиване за снимка обикновено е възможно наблизо."
               }
             },
             {
@@ -1687,7 +1687,7 @@
                 "hu": "Parkoljon a szilárd burkolatú úton a kapu közelében.",
                 "ro": "Parcați pe strada pavată din apropierea porții.",
                 "en": "Park on the paved street near the entrance gate.",
-                "bg": "Паркирайте на асфалтираната улица до входната врата."
+                "bg": "Паркирайте на асфалтираната улица близо до входната порта."
               }
             },
             {
@@ -1697,7 +1697,7 @@
                 "hu": "Parkolási lehetőség a folyópart közelében található.",
                 "ro": "Locuri de parcare se găsesc în apropierea malului râului.",
                 "en": "Parking spots can be found close to the riverbank.",
-                "bg": "Места за паркиране могат да се намерят близо до речния бряг."
+                "bg": "Паркоместа могат да се намерят близо до riverbank."
               }
             },
             {
@@ -1707,7 +1707,7 @@
                 "hu": "A lehajtó heves esőben kissé csúszós lehet.",
                 "ro": "Accesul poate fi alunecos în caz de ploaie torențială.",
                 "en": "The access road can be a bit slippery during heavy rainfall.",
-                "bg": "Достъпният път може да е малко хлъзгав при силен дъжд."
+                "bg": "Поддържащият път може да бъде хлъзгав при силен дъжд."
               }
             }
           ],
@@ -1737,9 +1737,9 @@
               "Keep your fog lights ready if the rain becomes exceptionally heavy."
             ],
             "bg": [
-              "Внимавайте за намалена видимост поради запотени прозорци.",
-              "В Харманли водата може да се събира в ниските части след обилен дъжд.",
-              "Опитайте да намерите паркинг възможно най-близо до входовете на атракциите.",
+              "Внимавайте за намалена видимост поради изпотени стъкла.",
+              "В Харманли вода може да се събира в ниските части след обилен дъжд.",
+              "Опитайте да намерите паркиране възможно най-близо до входовете на атракциите.",
               "Дръжте фаровете за мъгла готови, ако дъждът стане изключително силен."
             ]
           }
@@ -1750,7 +1750,7 @@
             "hu": "Kezdje a téli kirándulást kényelmesen az előmelegített autóban a Történeti Múzeumnál. Az út az óratoronyhoz rövid, és tiszta rálátást biztosít a történelmi központra. Délben látogasson el a Szent Atanáz-templomhoz, majd hajtson a görbe hídhoz, amely fagyos időben csillogó díszletet kínál. Mivel korán sötétedik, zárja a napot a Fehérlábú lány forrásánál, amelynek legendája a hidegben is lenyűgöző.",
             "ro": "Începeți excursia de iarnă confortabil, în mașina preîncălzită, la Muzeul de Istorie. Drumul spre turnul cu ceas este scurt și oferă o vedere clară asupra centrului istoric. La prânz vizitați Biserica Sfântul Atanasie, apoi conduceți spre Podul Cocoșat, care oferă un decor sclipitor pe timp de îngheț. Deoarece se întunecă devreme, încheiați ziua la Izvorul Fecioarei cu Picioare Albe.",
             "en": "Start your winter outing comfortably in a pre-heated car at the Historical Museum. The drive to the Clock Tower is brief and offers a clear view of the historic center. At midday, visit the Church of Saint Athanasius before driving to the Humpbacked Bridge, which provides a sparkling backdrop in freezing weather. As it gets dark early, finish your day at the Spring of the White-Legged Maiden.",
-            "bg": "Започнете зимната си разходка удобно в предварително загрята кола при Историческия музей. Пътуването до Часовниковата кула е кратко и предлага ясен изглед към стария център. В средата на деня посетете Църквата „Свети Атанасий“ преди да шофирате до Кривия мост, който осигурява искрящ фон във вледеняващо време. Тъй като мрака пада рано, завършете деня си при Извора на Бялата кракана девойка."
+            "bg": "Започнете зимната си разходка удобно в предварително загрята кола при Историческия музей. Пътуването до Часовниковата кула е кратко и предлага ясна гледка към историческия център. По обед посетете църквата „Свети Атанасий“, преди да шофирате до Кривия мост, който предоставя блестящ фон при мразовито време. Тъй като тъмнината идва рано, завършете деня си при Извора на Бялокраката девойка."
           },
           "stops": [
             {
@@ -1760,7 +1760,7 @@
                 "hu": "Vigyázzon a fagyott részekre a parkoló területén.",
                 "ro": "Atenție la porțiunile înghețate din parcare.",
                 "en": "Watch out for frozen patches in the parking area.",
-                "bg": "Внимавайте за заледени петна в паркинг зоната."
+                "bg": "Внимавайте за заледени участъци в паркинга."
               }
             },
             {
@@ -1770,7 +1770,7 @@
                 "hu": "Élvezze a benti meleget.",
                 "ro": "Bucurați-vă de căldura din interior.",
                 "en": "Take advantage of the warm heating inside the building.",
-                "bg": "Възползвайте се от топлото отопление в сградата."
+                "bg": "Възползвайте се от топлината на парното в сградата."
               }
             },
             {
@@ -1780,7 +1780,7 @@
                 "hu": "Rövid megállásoknál ne járassa feleslegesen a motort.",
                 "ro": "Nu lăsați motorul pornit inutil în timpul opririlor scurte.",
                 "en": "Avoid idling your engine unnecessarily during short photo stops.",
-                "bg": "Избягвайте безсмисленото работене на двигателя по време на кратки фото стопове."
+                "bg": "Избягвайте да държите двигателя на празен ход ненужно по време на кратки фотоспирки."
               }
             },
             {
@@ -1790,7 +1790,7 @@
                 "hu": "A lakónegyed utcái csúszósak lehetnek.",
                 "ro": "Străzile din cartierul rezidențial pot fi alunecoase.",
                 "en": "Streets in the residential area can be icy; drive slowly.",
-                "bg": "Улиците в жилищната част могат да бъдат заледени; карайте бавно."
+                "bg": "Уличките в жилищния район могат да бъдат заледени; карайте бавно."
               }
             },
             {
@@ -1800,7 +1800,7 @@
                 "hu": "Ügyeljen a folyómenti köd miatti lefagyásokra a hídnál.",
                 "ro": "Atenție la poleiul de lângă pod format din cauza ceții.",
                 "en": "Watch for ice near the bridge caused by river mist freezing.",
-                "bg": "Внимавайте за лед близо до моста, причинен от замръзваща ръка на реката."
+                "bg": "Внимавайте за лед около моста, причинен от мъглата над реката, която замръзва."
               }
             },
             {
@@ -1810,7 +1810,7 @@
                 "hu": "Tervezze az érkezést napnyugta (kb. 16:45) elé.",
                 "ro": "Planificați sosirea înainte de apus (aprox. 16:45).",
                 "en": "Plan to arrive before sunset (around 4:45 PM) for the best view.",
-                "bg": "Планирайте да пристигнете преди залез (около 16:45) за най-добра гледка."
+                "bg": "Планирайте пристигане преди залез (около 16:45) за най-добра гледка."
               }
             }
           ],
@@ -1840,10 +1840,10 @@
               "Utilize seat heaters for comfort during the short drives between stops."
             ],
             "bg": [
-              "Проверете нивата на антифриза във течността за чистачки на предното стъкло.",
-              "Бъдете наясно с измръзване по страничните улици, водещи към музея.",
-              "Дръжте стъргалка и четка за лед в колата по всяко време.",
-              "Използвайте подгревите на седалките за комфорт по време на кратките преки пътувания между спирките."
+              "Проверете нивото на незамръзващата течност в чистачките на предното стъкло.",
+              "Бъдете нащрек за слана по страничните улици към музея.",
+              "Дръжте на разположение скрепер и четка за лед в колата по всяко време.",
+              "Използвайте подгряване на седалките за комфорт по време на кратките преходи между спирките."
             ]
           }
         }
@@ -1880,7 +1880,7 @@
             "hu": "Kezdje itt. A központ legtöbb látnivalója gyalogosan elérhető.",
             "ro": "Începeți de aici. Majoritatea atracțiilor din centru sunt accesibile pe jos.",
             "en": "Start here. Most of the central sights are within walking distance.",
-            "bg": "Започнете тук. Повечето от централните забележителности са на пешеходно разстояние."
+            "bg": "Започнете тук. Повечето централни забележителности са на пешеходно разстояние."
           }
         },
         {
@@ -1906,7 +1906,7 @@
             "hu": "Egy rövid pillantás az épületre, mielőtt továbbmenne a város szívébe.",
             "ro": "O privire rapidă la clădire înainte de a vă îndrepta spre inima orașului.",
             "en": "A quick look at the building before heading into the heart of the city.",
-            "bg": "Бърз поглед към сградата преди да се отправите в сърцето на града."
+            "bg": "Бърз поглед към сградата преди да се отправите към сърцето на града."
           }
         },
         {
@@ -1915,7 +1915,7 @@
             "hu": "Az Egyesülés Emlékműve",
             "ro": "Monumentul Unificării",
             "en": "Monument of the Unification",
-            "bg": "Паметникът на Съединението"
+            "bg": "Паметник на Съединението"
           },
           "coords": [
             25.9015,
@@ -1941,7 +1941,7 @@
             "hu": "Megálló a Görbe híd közelében",
             "ro": "Stație lângă Podul Curbat",
             "en": "Stop near the Humpbacked Bridge",
-            "bg": "Спирка близо до Гърбатия мост"
+            "bg": "Спирка близо до Кривия мост"
           },
           "coords": [
             25.894,
@@ -1967,7 +1967,7 @@
             "hu": "A Görbe híd",
             "ro": "Podul Curbat",
             "en": "The Humpbacked Bridge",
-            "bg": "Кривият (гърбат) мост"
+            "bg": "Кривият мост"
           },
           "coords": [
             25.893,
@@ -1993,7 +1993,7 @@
         "hu": "Autómentes napja a központi buszmegállóban kezdődik. Fedezze fel az első klasztert gyalog: a Druzsba Kulturális Központot és az Egyesülés Emlékművét. Ezután egy helyi busz elviszi a híres Görbe híd közelébe. Ez a második klaszter. Töltse a délelőtt hátralévő részét és a kora délutánt a híd csodálásával, sétáljon el a Fehérlábú Leány forrásához, és ebédeljen a közeli éttermek egyikében. Egy rövid buszozás, és nyugodtan megtapasztalta a város legfontosabb látnivalóit.",
         "ro": "Ziua dvs. fără mașină începe la stația centrală de autobuz. Explorați primul cluster pe jos: Centrul Cultural Drujba și Monumentul Unificării. Apoi, un autobuz local vă va duce în apropierea faimosului Pod Curbat. Acesta este al doilea cluster. Petreceți restul dimineții și începutul după-amiezii admirând podul, plimbându-vă la Izvorul Fecioarei cu picioare albe și luând prânzul la unul dintre restaurantele din apropiere. O scurtă călătorie cu autobuzul și ați experimentat relaxat cele mai importante atracții ale orașului.",
         "en": "Your car-free day begins at the central bus station. Explore the first cluster on foot: the Druzhba Cultural Center and the Monument of Unification. Afterwards, a local bus will take you near the famous Humpbacked Bridge. This is your second cluster. Spend the rest of the morning and early afternoon admiring the bridge, walking to the Spring of the White-Legged Maiden, and having lunch at one of the nearby restaurants. A short bus ride, and you've experienced the city's main sights in a relaxed way.",
-        "bg": "Вашият ден без кола започва на централната автогара. Разгледайте първия клъстер пеш: Културен център „Дружба“ и Паметникът на Съединението. След това местен автобус ще ви отведе до близостта на прочутия Гърбат мост. Това е вторият ви клъстер. Прекарайте останалата част от сутринта и началото на следобеда, възхищавайки се на моста, разходка до Извора на Бялата кракана девойка и обяд в някой от близките ресторанти. Кратко автобусно пътуване и сте преживели основните забележителности на града спокойно."
+        "bg": "Денят ви без кола започва на централната автобусна спирка. Разгледайте първия клъстер пеша: Културния център „Дружба“ и Паметника на Съединението. След това местен автобус ще ви отведе близо до прочутия Крив мост. Това е вторият ви клъстер. Прекарайте останалата част от сутринта и ранния следобед, възхищавайки се на моста, разходете се до Извора на Бялокраката девойка и обядвайте в един от близките ресторанти. Кратко пътуване с автобус и сте видели основните забележителности на града спокойно."
       },
       "gastro_picks": {
         "de": [
@@ -2191,10 +2191,10 @@
           "Pay attention to the stop announcements or follow the route on a map."
         ],
         "bg": [
-          "Информирайте се за маршрутите и разписанията на автобусите предварително.",
-          "Подгответе дребни пари за билетите за автобуса.",
-          "Дневна карта може да е по-евтина, ако планирате няколко пътувания.",
-          "Обърнете внимание на обявите за спирките или следете маршрута на карта."
+          "Разучете предварително автобусните линии и разписанията.",
+          "Подгответе дребни за билети за автобуса.",
+          "Целодневна карта може да е по-евтина, ако планирате няколко пътувания.",
+          "Внимателно следете обявленията за спирките или проследявайте маршрута на карта."
         ]
       },
       "variants": {
@@ -2204,7 +2204,7 @@
             "hu": "Kezdje az esős napot a központi buszmegállóban, és használja ki a rövid utat a Druzhba Kulturális Központig. Az Egyesülés emlékművének megtekintése után a busz a görbe híd közelébe viszi. A délutánt a járműveken vagy a megállók védelmében töltheti, miközben a borús idő ellenére is felfedezi a történelmi Harmanlit, végül a görbe hídnál zárva a napot.",
             "ro": "Începeți ziua ploioasă la stația centrală de autobuz și profitați de drumul scurt spre Centrul Cultural Druzhba. După o vizită la Monumentul Unirii, autobuzul vă va duce aproape de Podul Cocoșat. Petreceți după-amiaza la adăpostul mijloacelor de transport sau în stații, explorând Harmanli-ul istoric în ciuda vremii mohorâte.",
             "en": "Start your rainy day at the Central Bus Stop, making the quick hop to the Druzhba Cultural Center. After visiting the Monument of the Unification, a bus ride takes you near the Humpbacked Bridge. Spend the afternoon sheltered in transit vehicles or at bus stops as you explore historic Harmanli despite the gloomy weather, finishing your tour at the iconic bridge.",
-            "bg": "Започнете дъждовния си ден на Централната автобусна спирка, като направите бързото придвижване до Културния център „Дружба“. След посещението на Паметника на Съединението, автобус ще ви отведе до района на Гърбатия мост. Прекарайте следобеда защитени в превозните средства или на автобусните спирки, докато разглеждате историческия Харманли въпреки мрачното време, като завършите обиколката си на емблематичния мост."
+            "bg": "Започнете дъждовния си ден на Централната автобусна спирка, като направите бързото придвижване до Културен център „Дружба“. След посещението на Паметника на Съединението, пътуване с автобус ви отнася близо до Кривия мост. Прекарайте следобеда защитени в превозни средства или на автобусните спирки, докато разглеждате историческия Харманли въпреки мрачното време, и завършете тура си при емблематичния мост."
           },
           "stops": [
             {
@@ -2214,7 +2214,7 @@
                 "hu": "A váróterem jó védelmet nyújt a szél és az eső elől.",
                 "ro": "Refugiul stației oferă protecție bună împotriva vântului și ploii.",
                 "en": "The bus shelter provides good protection from wind and rain.",
-                "bg": "Автобусният навес осигурява добра защита от вятър и дъжд."
+                "bg": "Автобусният навес предоставя добра защита от вятър и дъжд."
               }
             },
             {
@@ -2224,7 +2224,7 @@
                 "hu": "A buszmegállótól mindössze két perc a bejárat.",
                 "ro": "Sunt doar două minute de la stație până la intrare.",
                 "en": "It's only a two-minute walk from the bus stop to the entrance.",
-                "bg": "На две минути пеша от спирката до входа е разстоянието."
+                "bg": "Само две минути пеша е от спирката до входа."
               }
             },
             {
@@ -2234,7 +2234,7 @@
                 "hu": "Ellenőrizze az indulási időket applikáción, még fedett helyen.",
                 "ro": "Verificați orele de plecare pe aplicație cât timp sunteți la adăpost.",
                 "en": "Check departure times via app while staying dry inside.",
-                "bg": "Проверявайте часовете на тръгване чрез приложение, докато стоите сухи вътре."
+                "bg": "Проверете часовете за тръгване чрез приложението, докато оставате сухи на закрито."
               }
             },
             {
@@ -2244,7 +2244,7 @@
                 "hu": "Készítse elő az esernyőt a folyóhoz vezető rövid sétához.",
                 "ro": "Pregătiți umbrela pentru scurta plimbare spre râu.",
                 "en": "Have your umbrella ready for the short walk from the stop to the river.",
-                "bg": "Дръжте чадър под ръка за кратката разходка от спирката до реката."
+                "bg": "Дръжте чадъра под ръка за кратката разходка от спирката до реката."
               }
             },
             {
@@ -2254,7 +2254,7 @@
                 "hu": "Heves esőben a folyó látványa gyakran drámai.",
                 "ro": "În caz de ploaie puternică, vederea spre râu este adesea dramatică.",
                 "en": "During heavy rain, the view of the river can be quite dramatic.",
-                "bg": "При силен дъжд гледката към реката може да бъде доста драматична."
+                "bg": "При силен дъжд гледката към реката може да бъде много внушителна."
               }
             }
           ],
@@ -2284,10 +2284,10 @@
               "Wear waterproof clothing for the short transfers between transit lines."
             ],
             "bg": [
-              "Чадърът е задължителен за разходките между спирките и забележителностите.",
-              "Автобусите в Харманли могат да се препълнят при дъжд; предвидете допълнително време.",
-              "Използвайте навесите на спирките, за да проверите удобно разписанието.",
-              "Носете водоустойчива дреха за кратките прехвърляния между линии на градски транспорт."
+              "Чадърът е необходим за разходките между спирките и забележителностите.",
+              "Автобусите в Харманли могат да се напълнят при дъжд; предвидете повече време.",
+              "Използвайте покритите автобусни спирки, за да проверите разписанието удобно.",
+              "Носете водоустойчиво облекло за кратките прехвърляния между линии на градския транспорт."
             ]
           }
         },
@@ -2297,7 +2297,7 @@
             "hu": "Kezdje a téli napot a központi megállóban, és élvezze a fűtött busz kényelmét a Druzhba Kulturális Központig. Az Egyesülés emlékműve csak egy ugrásra van, mielőtt továbbmenne a görbe hídhoz. Harmanli téli hangulata remekül megfigyelhető az ablakból. Zárja a túrát a történelmi hídnál, amikor a korai szürkületben kigyúlnak az első fények.",
             "ro": "Începeți ziua de iarnă la stația centrală și bucurați-vă de drumul scurt cu autobuzul încălzit spre Centrul Cultural Druzhba. Monumentul Unirii este la doar o aruncătură de băț înainte de a continua spre Podul Cocoșat. Atmosfera de iarnă din Harmanli poate fi observată frumos de pe fereastră. Încheiați turul la podul istoric, când primele lumini se aprind în amurg.",
             "en": "Start your winter transit day at the central stop, enjoying a short ride in a heated bus to the Druzhba Cultural Center. The Monument of the Unification is just a stone's throw away before you continue to the Humpbacked Bridge. You can observe Harmanli's winter atmosphere comfortably from the bus window. Conclude your tour at the historic bridge as the first lights come on in the early twilight.",
-            "bg": "Започнете зимния си ден с транзит от централната спирка, като се насладите на кратко пътуване в отопляем автобус до Културния център „Дружба“. Паметникът на Съединението е на крачка разстояние, преди да продължите към Гърбатия мост. Можете да наблюдавате зимната атмосфера на Харманли удобно от прозореца на автобуса. Завършете обиколката си на историческия мост, когато първите светлини се запалят в ранния здрач."
+            "bg": "Започнете зимния си ден с обществен транспорт от централната спирка, наслаждавайки се на кратко пътуване в отопляем автобус до Културен център „Дружба“. Паметникът на Съединението е само на една каменна хвърля, преди да продължите към Кривия мост. Можете удобно да наблюдавате зимната атмосфера на Харманли от автобуса. Завършете обиколката при историческия мост, когато първите светлини се запалват в ранния сумрак."
           },
           "stops": [
             {
@@ -2307,7 +2307,7 @@
                 "hu": "Keressen menedéket a buszmegálló szélvédett oldalán.",
                 "ro": "Căutați adăpost în zona ferită de vânt a stației.",
                 "en": "Seek shelter on the leeward side of the bus stop.",
-                "bg": "Търсете убежище от вятъра на навяваната страна на автобусната спирка."
+                "bg": "Търсете подслон на по-задветрената страна на автобусната спирка."
               }
             },
             {
@@ -2327,7 +2327,7 @@
                 "hu": "Tartsa készenlétben a jegyét, hogy ne a hidegben kelljen keresgélni.",
                 "ro": "Țineți biletul la îndemână pentru a nu-l căuta în frig.",
                 "en": "Keep your ticket ready so you don't have to fumble for it in the cold.",
-                "bg": "Дръжте билета си подготвен, за да не го търсите ръком в студа."
+                "bg": "Дръжте билета си готов, за да не го търсите притеснено на студа."
               }
             },
             {
@@ -2347,7 +2347,7 @@
                 "hu": "Az utolsó járat visszafelé gyakran 17:30 körül indul, ne késse le.",
                 "ro": "Ultima cursă de întoarcere este adesea în jur de 17:30; nu o ratați.",
                 "en": "The last return bus is often around 5:30 PM; don't miss it.",
-                "bg": "Последният връщащ автобус често е около 17:30; не го изпускайте."
+                "bg": "Последният автобус за връщане често е около 17:30; не го изпускайте."
               }
             }
           ],
@@ -2377,10 +2377,10 @@
               "Have small change ready for ticket purchases to speed up boarding."
             ],
             "bg": [
-              "Използвайте отопляемите автобуси като мини-почивки между откритите забележителности.",
-              "Разписанията могат леко да се променят през зимата заради пътните условия.",
-              "Носете топли, изолирани обувки, тъй като чакането на спирките може да доведе до студени крака.",
-              "Подгответе дребни пари за закупуване на билети, за да ускорите качването."
+              "Използвайте отопляемите автобуси като мини-почивки между външните забележителности.",
+              "Разписанията може да варират леко през зимата поради пътни условия.",
+              "Носете топли, добре изолирани обувки, тъй като чакането на спирките може да доведе до измръзване на краката.",
+              "Дръжте малки пари за покупка на билет, за да ускори качването."
             ]
           }
         }

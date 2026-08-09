@@ -22,7 +22,7 @@
             "hu": "Indulás az Öreg Ciprustól",
             "ro": "Început la Chiparosul Vechi",
             "en": "Start at the Old Cypress Tree",
-            "bg": "Започнете при Стария кипарис"
+            "bg": "Начало: Старият кипарис"
           },
           "coords": [
             41.5755,
@@ -39,7 +39,7 @@
             "hu": "Nagyszerű, központi találkozóhely a nap indításához.",
             "ro": "Un punct de întâlnire central excelent pentru a începe ziua.",
             "en": "A great, central meeting point to start the day.",
-            "bg": "Отлична, централна среща за началото на деня."
+            "bg": "Отлична, централна среща за започване на деня."
           }
         },
         {
@@ -48,7 +48,7 @@
             "hu": "Sztoju Siskov Történeti Múzeum",
             "ro": "Muzeul de Istorie Stoyu Shishkov",
             "en": "Stoyu Shishkov Historical Museum",
-            "bg": "Исторически музей „Стою Шишков“"
+            "bg": "Исторически музей „Стою Шишков”"
           },
           "coords": [
             41.5763,
@@ -74,7 +74,7 @@
             "hu": "Szent Visszarion Katedrális",
             "ro": "Catedrala Sfântul Visarion din Smolyan",
             "en": "Cathedral of Saint Vissarion of Smolyan",
-            "bg": "Катедрала „Свети Висарион от Смолян“"
+            "bg": "Катедрала „Свети Висарион Смолянски”"
           },
           "coords": [
             41.5788,
@@ -178,7 +178,7 @@
         "hu": "Kezdje a napot Szmoljan szívében, és merüljön el a Rodope-hegység gazdag történelmében a Történeti Múzeumban. Ebéd után csodálja meg a Szent Visszarion-katedrális modern pompáját, majd merítsen ihletet a bolgár művészetből a helyi galériában. A délutáni séta a Planetáriumhoz bepillantást enged a csillagok világába. Zárja a napot egy kiadós vacsorával egy hangulatos mehanában, élvezve az autentikus helyi konyhát.",
         "ro": "Începeți ziua în inima orașului Smolyan, cufundându-vă în istoria bogată a Munților Rodopi la Muzeul de Istorie. După prânz, admirați splendoarea modernă a Catedralei Sf. Vissarion și lăsați-vă inspirat de arta bulgară la galeria locală. O plimbare după-amiaza la Planetariu oferă o privire spre stele. Încheiați ziua cu o cină consistentă la o mehana primitoare, savurând bucătăria locală autentică.",
         "en": "Start your day in the heart of Smolyan, diving into the rich history of the Rhodope Mountains at the Historical Museum. After lunch, admire the modern splendor of the St. Vissarion Cathedral and get inspired by Bulgarian art at the local gallery. An afternoon walk to the Planetarium offers a glimpse into the stars. Conclude the day with a hearty dinner at a cozy mehana, enjoying authentic local cuisine.",
-        "bg": "Започнете деня си в сърцето на Смолян, като потънете в богатата история на Родопите в Историческия музей. След обяд възхищавайте се на модерния блясък на катедрала „Свети Висарион“ и се вдъхновете от българското изкуство в местната галерия. Следобедната разходка до планетариума предлага поглед към звездите. Завършете деня с обилна вечеря в уютна механа, наслаждавайки се на автентична местна кухня."
+        "bg": "Започнете деня в сърцето на Смолян, потапяйки се в богатата история на Родопите в Историческия музей. След обяд възхитете се на модерната светлина на катедралата „Св. Висарион“ и се вдъхновете от българското изкуство в местната галерия. Следобедната разходка до планетариума предлага поглед към звездите. Завършете деня с обилна вечеря в уютна механа, наслаждавайки се на автентична местна кухня."
       },
       "gastro_picks": {
         "de": [
@@ -356,10 +356,10 @@
           "Always keep some cash on you for small purchases or tips."
         ],
         "bg": [
-          "Носете много удобни обувки, защото центърът на града е хълмист.",
-          "Носете многократна бутилка за вода; има няколко фонтана из града.",
-          "Повечето музеи са затворени в понеделник, така че планирайте съобразно.",
-          "Винаги носете малко кеш за дребни покупки или бакшиши."
+          "Носете много удобни обувки, тъй като центърът е хълмист.",
+          "Вземете многоразова бутилка за вода; има няколко фонтани из града.",
+          "Повечето музеи са затворени в понеделник, планирайте съответно.",
+          "Винаги носете малко кеш за дребни покупки или бакшиш."
         ]
       },
       "variants": {
@@ -369,7 +369,7 @@
             "hu": "Az esős napokat Szmoljanban érdemes a Történeti Múzeumban kezdeni, ahol fedett helyen ismerhetjük meg a Rodope kincseit. Délben a monumentális székesegyház nyújt menedéket, majd a Planetárium csillagászati show-ja feledteti a kinti szürkeséget. Délután a művészeti galéria tárlatait böngésszük. Az estét egy kandallós mehanában zárjuk, forró helyi ételekkel.",
             "ro": "Zilele ploioase în Smolyan încep ideal la Muzeul de Istorie, unde te poți adăposti explorând cultura Rodopilor. La prânz, catedrala monumentală oferă un refugiu liniștit, urmată de o vizită la Planetariu pentru un spectacol celest ferit de picuri. După-amiaza este dedicată galeriei de artă. Seara se încheie într-o mehana călduroasă, cu foc în șemineu și preparate locale.",
             "en": "Rainy days in Smolyan are best spent exploring the Regional History Museum, keeping you dry among Rhodopean artifacts. Midday offers shelter in the grand cathedral, followed by a cosmic journey at the Planetarium while the rain falls outside. Spend the afternoon in the Art Gallery. Evening is perfect for a cozy tavern with a fireplace and hearty mountain food.",
-            "bg": "Дъждовните дни в Смолян е най-добре да се прекарат в Регионалния исторически музей, където ще останете сухи сред родопски артефакти. По обяд търсете подслон в голямата катедрала, последвана от космическо пътешествие в планетариума, докато дъждът вали навън. Прекарайте следобеда в Художествената галерия. Вечерта е идеална за уютна таверна с камина и обилна планинска храна."
+            "bg": "Дъждовните дни в Смолян е най-добре да се прекарат в Регионалния исторически музей, който ви държи сухи сред родопски артефакти. По обяд храмът предлага подслон, последван от космическо пътешествие в планетариума, докато дъждът вали навън. Прекарайте следобеда в художествената галерия. Вечерта е идеална за уютна таверна с камина и обилна планинска храна."
           },
           "stops": [
             {
@@ -379,7 +379,7 @@
                 "hu": "Használja a közeli épületek árkádjait az eső elleni védekezéshez.",
                 "ro": "Folosiți arcadele clădirilor din apropiere pentru a vă feri de ploaie.",
                 "en": "Use the arcades of nearby buildings for temporary rain shelter.",
-                "bg": "Използвайте аркадите на близките сгради за временен подслон от дъжда."
+                "bg": "Използвайте аркадите на близките сгради за временно убежище от дъжда."
               }
             },
             {
@@ -389,7 +389,7 @@
                 "hu": "Tökéletes hely másfél óra szárazon töltéséhez; ruhatár van.",
                 "ro": "Loc ideal pentru a sta la uscat 1,5 ore; garderobă disponibilă.",
                 "en": "Ideal spot for 1.5 hours in the dry; cloakroom available.",
-                "bg": "Идеално място за 1,5 часа на сухо; гардеробна налична."
+                "bg": "Идеално място за 1,5 часа на сухо; има гардероб."
               }
             },
             {
@@ -399,7 +399,7 @@
                 "hu": "A tágas belső tér kiváló védelmet nyújt a záporok elől.",
                 "ro": "Interiorul vast oferă o protecție excelentă împotriva rafalelor.",
                 "en": "The vast interior provides excellent shelter from heavy showers.",
-                "bg": "Обширният интериор осигурява отличен подслон при силни валежи."
+                "bg": "Обширният интериор осигурява отличен подслон при проливни дъждове."
               }
             },
             {
@@ -409,7 +409,7 @@
                 "hu": "Teljesen fedett; az előadások általában egész órakor kezdődnek.",
                 "ro": "Complet acoperit; spectacolele încep de obicei la oră fixă.",
                 "en": "Fully indoor; shows usually start on the hour.",
-                "bg": "Напълно закрито; прожекциите обикновено започват в целия час."
+                "bg": "Изцяло на закрито; прожекциите обикновено започват в началото на всеки час."
               }
             },
             {
@@ -419,7 +419,7 @@
                 "hu": "Csendes környezet, ideális a heves esőzés kivárásához.",
                 "ro": "Atmosferă liniștită; ideal pentru a aștepta trecerea ploii.",
                 "en": "Quiet atmosphere; perfect for waiting out the heaviest rain.",
-                "bg": "Тихо място; перфектно за изчакване на най-силния дъжд."
+                "bg": "Тихa атмосфера; перфектна за изчакване на най-силния дъжд."
               }
             },
             {
@@ -429,7 +429,7 @@
                 "hu": "Kérjen asztalt a kandalló mellett a ruhák szárításához.",
                 "ro": "Cereți o masă lângă șemineu pentru a vă usca hainele.",
                 "en": "Ask for a table near the fireplace to dry off your clothes.",
-                "bg": "Попитайте за маса близо до камината, за да изсушите дрехите си."
+                "bg": "Попросете маса близо до камината, за да изсушите дрехите си."
               }
             }
           ],
@@ -463,11 +463,11 @@
               "A wind-resistant umbrella is advised due to mountain gusts."
             ],
             "bg": [
-              "Носете водоустойчиви обувки, тъй като настилките стават хлъзгави при намокряне.",
-              "Планетариумът е най-доброто убежище при силни гръмотевични бури.",
-              "Тротоарите около музея често събират големи локви.",
-              "Помислете за използване на местни таксита за кратки преходи между закритите обекти.",
-              "Препоръчва се ветрозащитен чадър поради планинските пориви."
+              "Носете водоустойчиви обувки, тъй като настилката става хлъзгава при мокро време.",
+              "Планетариумът е най-доброто убежище по време на силни гръмотевични бури.",
+              "Настилките около музея често събират големи локви.",
+              "Обмислете използването на местни таксита за кратки преходи между закритите обекти.",
+              "Препоръчва се вятроустойчив чадър поради планинските пориви."
             ]
           }
         },
@@ -477,7 +477,7 @@
             "hu": "A szmoljani téli reggelek gyakran hófödte varázslattal indulnak. A Történeti Múzeum melegében kezdünk, majd megcsodáljuk a katedrális jeges pompáját. Délben a Planetárium melegíti fel a testet és a lelket. A művészeti galériához vezető rövid séta alatt beszívjuk a friss hegyi levegőt. A napot fűtött tavernában zárjuk egy laktató patatnik mellett.",
             "ro": "Diminețile de iarnă în Smolyan sunt adesea magice și înzăpezite. Muzeul de Istorie oferă un start călduros înainte de a admira splendoarea înghețată a catedralei. La prânz, Planetariul încălzește trupul și spiritul. Scurta plimbare spre galeria de artă se face prin aerul tăios montan. Ziua se încheie festiv într-o tavernă încălzită cu un patatnik tradițional.",
             "en": "Winter mornings in Smolyan are often magically snow-covered. The History Museum provides a warm start before visiting the frost-dusted cathedral. At noon, the Planetarium warms both body and mind. A brisk walk through cold mountain air leads to the Art Gallery. Cap the day in a heated tavern with traditional Patatnik and local wine.",
-            "bg": "Зимните сутрини в Смолян често са приказно покрити със сняг. Историческият музей осигурява топло начало преди да посетите измръзналата катедрала. В средата на деня планетариумът стопля както тялото, така и ума. Енергична разходка в студения планински въздух води до Художествената галерия. Завършете деня в отоплена таверна с традиционен Пататник и местно вино."
+            "bg": "Зимните утрини в Смолян често са магически покрити със сняг. Историческият музей осигурява топло начало преди посещението на измръзналата катедрала. По обяд планетариумът затопля както тялото, така и ума. Бърза разходка в студа води до художествената галерия. Завършете деня в отоплена механа с традиционен Пататник и местно вино."
           },
           "stops": [
             {
@@ -487,7 +487,7 @@
                 "hu": "Vigyázzon a lépcsőkön kialakuló jeges foltokra.",
                 "ro": "Atenție la porțiunile înghețate de pe treptele scărilor.",
                 "en": "Watch out for icy patches on the outdoor stairs.",
-                "bg": "Внимавайте за заледени участъци по външните стълби."
+                "bg": "Внимавайте за заледени участъци по външните стъпала."
               }
             },
             {
@@ -497,7 +497,7 @@
                 "hu": "Jól fűtött; ideális felmelegedni a séták között.",
                 "ro": "Bine încălzit; ideal pentru a te dezmorți între plimbări.",
                 "en": "Well-heated; perfect for warming up between walks.",
-                "bg": "Добре отоплено; перфектно за подсушаване между разходките."
+                "bg": "Добре отоплено; перфектно за стопляне между разходките."
               }
             },
             {
@@ -507,7 +507,7 @@
                 "hu": "Télen hűvösebb; bent is érdemes kabátban maradni.",
                 "ro": "Mai răcoare iarna; păstrați haina pe dvs. în interior.",
                 "en": "Chilly in winter; keep your coat on inside the church.",
-                "bg": "Прохладно през зимата; дръжте палтото си на себе си и в църквата."
+                "bg": "Студено през зимата; дръжте палтото на себе си и в църквата."
               }
             },
             {
@@ -517,7 +517,7 @@
                 "hu": "Kellemesen temperált; ideális a déli órákban.",
                 "ro": "Temperatură plăcută; ideal pentru orele prânzului.",
                 "en": "Comfortably warm; perfect for the midday hours.",
-                "bg": "Комфортно топло; идеално за обедните часове."
+                "bg": "Уютно топло; перфектно за следобедните часове."
               }
             },
             {
@@ -527,7 +527,7 @@
                 "hu": "Élvezze a kiállítótermek nyugalmát és melegét.",
                 "ro": "Bucurați-vă de liniștea și căldura sălilor de expoziție.",
                 "en": "Enjoy the quietude and warmth of the exhibition halls.",
-                "bg": "Насладете се на спокойствието и топлината на изложбените зали."
+                "bg": "Насладете се на тишината и топлината в изложбените зали."
               }
             },
             {
@@ -537,7 +537,7 @@
                 "hu": "Kóstolja meg a forró rakiát a fagy ellen.",
                 "ro": "Încercați o rachiu fiert pentru a alunga frigul.",
                 "en": "Try some hot Rakia to ward off the winter frost.",
-                "bg": "Опитайте топла ракия, за да прогоните зимния студ."
+                "bg": "Опитайте малко гореща ракия, за да преборите зимния студ."
               }
             }
           ],
@@ -571,11 +571,11 @@
               "Sidewalks are often fully cleared only by mid-morning."
             ],
             "bg": [
-              "Залезът е възможен още в 16:45 през декември зад върховете.",
+              "Залезът настъпва още в 16:45 през декември зад върховете.",
               "Носете ботуши с дълбок грайфер за ходене по сняг и лед.",
-              "Топлите шалове са задължителни поради студените планински пориви.",
+              "Топлите шалове са задължителни заради студените планински вихрушки.",
               "Обществените сгради обикновено са много добре отоплени вътре.",
-              "Тротоарите често са напълно почистени едва в средата на сутринта."
+              "Тротоарите често са напълно почистени едва към късната сутрин."
             ]
           }
         }
@@ -612,7 +612,7 @@
             "hu": "Kezdd egy adag történelemmel, mielőtt nyeregbe pattansz.",
             "ro": "Începe cu o doză de istorie înainte de a pedala.",
             "en": "Start with a dose of history before you start pedaling.",
-            "bg": "Започнете с доза история, преди да се захванете с колелото."
+            "bg": "Започнете с доза история преди да се захванете с педалите."
           }
         },
         {
@@ -638,7 +638,7 @@
             "hu": "Könnyű biciklizés a központból. Zárd le jól a biciklidet.",
             "ro": "O plimbare ușoară cu bicicleta din centru. Asigură-ți bine bicicleta.",
             "en": "An easy bike ride from the center. Secure your bike well.",
-            "bg": "Лесно каране с велосипед от центъра. Заключете добре колелото си."
+            "bg": "Леко каране с колело от центъра. Заключете колелото си добре."
           }
         },
         {
@@ -647,7 +647,7 @@
             "hu": "Szmoljani-tavak (Tiszta-tó)",
             "ro": "Lacurile Smolyan (Lacul Limpede)",
             "en": "Smolyan Lakes (The Clear Lake)",
-            "bg": "Смолянски езера (Ясното езеро)"
+            "bg": "Смолянски езера (Язовир Ясното езеро)"
           },
           "coords": [
             41.601,
@@ -664,7 +664,7 @@
             "hu": "Tökéletes egy ebédszünethez. Hozz magaddal pikniket!",
             "ro": "Perfect pentru o pauză de prânz. Adu un picnic!",
             "en": "Perfect for a lunch break. Bring a picnic!",
-            "bg": "Перфектно за обедна почивка. Донесете пикник!"
+            "bg": "Перфектно за обедна почивка. Вземете пикник!"
           }
         },
         {
@@ -673,7 +673,7 @@
             "hu": "Nevjasztata Öko-ösvény (Kezdete)",
             "ro": "Ecopoteca Nevyastata (Început)",
             "en": "Nevyastata Ecotrail (Start)",
-            "bg": "Екотрасе Невястата (Начало)"
+            "bg": "Екотропа Невястата (Начало)"
           },
           "coords": [
             41.6085,
@@ -690,7 +690,7 @@
             "hu": "Zárd le a biciklidet, és tegyél egy rövid túrát a lélegzetelállító kilátásért.",
             "ro": "Leagă-ți bicicleta și fă o scurtă drumeție pentru vederi uimitoare.",
             "en": "Lock your bike and take a short hike for amazing views.",
-            "bg": "Заключете колелото и направете кратък поход за зашеметяващи гледки."
+            "bg": "Заключете колелото и направете кратък преход за невероятни гледки."
           }
         },
         {
@@ -699,7 +699,7 @@
             "hu": "Szent Visszarion Katedrális",
             "ro": "Catedrala Sfântul Visarion",
             "en": "Saint Vissarion Cathedral",
-            "bg": "Катедрала „Свети Висарион“"
+            "bg": "Катедрала „Св. Висарион“"
           },
           "coords": [
             41.5788,
@@ -716,7 +716,7 @@
             "hu": "Egy pillanatnyi nyugalom egy aktív nap után.",
             "ro": "Un moment de liniște după o zi activă.",
             "en": "A moment of peace after an active day.",
-            "bg": "Момент на спокойствие след активен ден."
+            "bg": "Миг на спокойствие след активен ден."
           }
         },
         {
@@ -725,7 +725,7 @@
             "hu": "Pihenés egy belvárosi kávézóban",
             "ro": "Relaxare la o cafenea din centru",
             "en": "Wind-down at a central café",
-            "bg": "Отпуснете се в централно кафе"
+            "bg": "Спокойно завършване в централно кафене"
           },
           "coords": [
             41.577,
@@ -742,7 +742,7 @@
             "hu": "Élvezz egy jól megérdemelt kávét és süteményt.",
             "ro": "Bucură-te de o cafea și o prăjitură binemeritată.",
             "en": "Enjoy a well-deserved coffee and cake.",
-            "bg": "Насладете се на заслужено кафе и торта."
+            "bg": "Насладете се на заслужено кафе и парче торта."
           }
         }
       ],
@@ -751,7 +751,7 @@
         "hu": "Kezdje a kerékpáros napot kultúrával a Történeti Múzeumban. Ezután tekerjen a Planetáriumhoz egy kozmikus utazásra. Folytassa útját a csendes Szmoljani-tavakhoz, ami ideális egy természetközeli ebédszünetre. Délután a Nevjasztata-ösvényhez vezető emelkedő kihívást jelent, de a kilátás kárpótol. Visszafelé a központba tartva megpihenhet a Szent Visszarion-katedrálisnál, mielőtt egy kávézóban zárja a napot.",
         "ro": "Începeți ziua pe bicicletă cu o vizită culturală la Muzeul de Istorie. Apoi pedalați spre Planetariu pentru o călătorie cosmică. Continuați spre liniștitele Lacuri Smolyan, ideale pentru o pauză de prânz în natură. După-amiaza, urcarea spre Ecopoteca Nevyastata vă va provoca, dar priveliștile merită efortul. Pe drumul de întoarcere spre centru, opriți-vă pentru un moment de reculegere la Catedrala Sf. Vissarion înainte de a încheia ziua la o cafenea.",
         "en": "Start your cycling day with culture at the Historical Museum. Then pedal to the Planetarium for a cosmic journey. Continue to the tranquil Smolyan Lakes, ideal for a lunch break in nature. In the afternoon, the climb to the Nevyastata Ecotrail will challenge you but reward you with great views. On your way back to the center, pause at the St. Vissarion Cathedral before ending the day at a café.",
-        "bg": "Започнете деня с култура в Историческия музей. След това карайте до планетариума за космическо пътешествие. Продължете към спокойните Смолянски езера, идеални за обедна почивка сред природата. Следобедното изкачване до Екотрасе Невястата ще ви предизвика, но ще ви възнагради с чудесни гледки. По пътя обратно към центъра спрете при катедрала „Свети Висарион“, преди да завършите деня в кафе."
+        "bg": "Започнете деня с колоездене от Историческия музей. После педалирайте до Планетариума за космическо преживяване. Продължете към спокойните Смолянски езера, идеални за обедна почивка сред природата. Следобед изкачването към екотропа Невястата ще ви предизвика, но ще ви възнагради с прекрасни гледки. По връщане към центъра спрете при катедралата „Св. Висарион“ преди да завършите деня в кафене."
       },
       "gastro_picks": {
         "de": [
@@ -949,10 +949,10 @@
           "Bring a small lock to secure your bike at the sights."
         ],
         "bg": [
-          "Проверете колелото си преди тръгване, особено спирачките.",
-          "Смолян е хълмист, пригответе се за изкачвания.",
-          "Носете каска и светла екипировка.",
-          "Носете малка катинар, за да закрепите колелото си на забележителностите."
+          "Проверете колелото си преди тръгване, особенно спирачките.",
+          "Смолян е хълмист, пригответе се за някои изкачвания.",
+          "Носете каска и ярко облекло.",
+          "Вземете малка ключалка, за да заключите колелото си на забележителностите."
         ]
       },
       "variants": {
@@ -962,7 +962,7 @@
             "hu": "Az esőben való rodopi kerékpározás óvatosságot igényel a meredek szerpentineken. A múzeumban kezdünk a nagy záporok idején, majd feltekerünk a Szmoljani-tavakhoz, melyek ködben misztikus látványt nyújtanak. A vízesések érintése után visszatérünk a katedrálishoz, majd egy forró vacsorával regenerálódunk.",
             "ro": "Ciclismul în Rodopi pe ploaie necesită prudență pe serpentinele abrupte. Începem la muzeu pentru a evita aversele mari, apoi urcăm spre lacurile Smolyan, care par mistice în ceață. După vizitarea cascadelor, drumul revine la catedrală. O cină caldă servește pentru refacere.",
             "en": "Cycling the Rhodopes in the rain demands caution on steep serpentines. Start at the museum to wait out heavy showers, then ride up to the Smolyan Lakes, which look mystical in the mist. After visiting the waterfall canyon, return to the cathedral area for a warm, restorative dinner.",
-            "bg": "Карането в дъжд по Родопите изисква внимание на стръмните серпентини. Започнете от музея, за да изчакате силните превалявания, след това се изкачете към Смолянските езера, които изглеждат мистични в мъглата. След посещението на водопадния каньон се върнете към района на катедралата за топла, възстановителна вечеря."
+            "bg": "Карането в Родопите под дъжд изисква внимание на стръмните серпентини. Започнете в музея, за да изчакате силните валежи, после изкачете към Смолянските езера, които изглеждат мистични в мъглата. След посещението на каньона с водопада се върнете към района на катедралата за топла, възстановителна вечеря."
           },
           "stops": [
             {
@@ -972,7 +972,7 @@
                 "hu": "Keressen fedett kerékpártárolót a közelben.",
                 "ro": "Căutați suporturi de biciclete acoperite în apropiere.",
                 "en": "Look for covered bike racks in the vicinity.",
-                "bg": "Търсете покрити стойки за велосипеди в близост."
+                "bg": "Потърсете покрити колчета за велосипеди в околността."
               }
             },
             {
@@ -982,7 +982,7 @@
                 "hu": "Jó alkalom a vizes kesztyűk rövid levételére.",
                 "ro": "Ocazie bună pentru a scoate mănușile ude scurt timp.",
                 "en": "A good chance to take off wet gloves for a while.",
-                "bg": "Добър шанс да свалите мокрите ръкавици за кратко."
+                "bg": "Добра възможност да свалите мокрите ръкавици за малко."
               }
             },
             {
@@ -992,7 +992,7 @@
                 "hu": "Az utak nagyon sárosak lehetnek; használjon sárvédőt.",
                 "ro": "Potecile pot fi foarte noroioase; folosiți apărători.",
                 "en": "Trails can be very muddy; mudguards are essential.",
-                "bg": "Пътеките могат да са много кални; калници са задължителни."
+                "bg": "Пътеки могат да бъдат много кални; калниците са задължителни."
               }
             },
             {
@@ -1002,7 +1002,7 @@
                 "hu": "Vigyázzon a vizes fapallókon; csúszásveszély!",
                 "ro": "Atenție pe pasarelele de lemn ude; risc de alunecare!",
                 "en": "Be careful on wet wooden boardwalks; slip hazard!",
-                "bg": "Внимавайте по мокрите дървени настилки; опасност от подхлъзване!"
+                "bg": "Внимавайте по мокрите дървени настилки; риск от хлъзгане!"
               }
             },
             {
@@ -1012,7 +1012,7 @@
                 "hu": "Biztonságos parkolási lehetőség a főbejárat előtt.",
                 "ro": "Posibilitate de parcare sigură în fața portalului principal.",
                 "en": "Safe parking options available in front of the main portal.",
-                "bg": "Налични са безопасни опции за паркиране пред главния портал."
+                "bg": "Налични са безопасни паркоместа пред главния портал."
               }
             },
             {
@@ -1022,7 +1022,7 @@
                 "hu": "Töltse fel a szénhidrátkészleteit a vizes tekerés után.",
                 "ro": "Reîncărcați carbohidrații după cursa udă.",
                 "en": "Load up on carbohydrates after the wet ride.",
-                "bg": "Заредете се с въглехидрати след мокрото каране."
+                "bg": "Заредете въглехидрати след мокрото каране."
               }
             }
           ],
@@ -1056,11 +1056,11 @@
               "Temperatures drop significantly at higher altitudes during rain."
             ],
             "bg": [
-              "Дисковите спирачки са задължителни по тези склонове при мокри условия.",
-              "Носете ярко видимо дъждобраново облекло заради намалената видимост в планината.",
+              "Дисковите спирачки са задължителни за тези склонове при мокри условия.",
+              "Носете високоотразимо дъждобране заради слабата видимост в планината.",
               "Избягвайте спиране върху мокри пътни маркировки или метални капаци.",
-              "Проверете налягането в гумите; леко по-ниско осигурява по-добро сцепление на мокър асфалт.",
-              "Температурите падат значително на по-високи височини по време на дъжд."
+              "Проверете налягането в гумите; леко по-ниското дава по-добро сцепление на мокър асфалт.",
+              "Температурите спадат значително на по-големи височини по време на дъжд."
             ]
           }
         },
@@ -1070,7 +1070,7 @@
             "hu": "A téli kerékpározás Szmoljan környékén komoly sportteljesítmény. Fűtött múzeumokban kezdünk, majd felkapaszkodunk a havas úton a befagyott Szmoljani-tavakhoz. A lejtmenetben a hideg levegő metsző, ezért fontosak a melegedő pihenők a katedrálisnál. A napot meleg vendéglőben zárjuk, kilátással a havas csúcsokra.",
             "ro": "Ciclismul de iarnă în jurul orașului Smolyan este o provocare sportivă. Începem în muzee încălzite, apoi urcăm pe drumul înzăpezit spre lacurile înghețate Smolyan. Aerul rece la coborâre este tăios, deci opririle la catedrală pentru încălzire sunt vitale. Ziua se termină într-un local călduros cu vedere spre vârfurile troienite.",
             "en": "Winter cycling around Smolyan is a true athletic challenge. Start in heated museums before climbing the snowy roads to the frozen Smolyan Lakes. The biting cold on the descent makes warm-up stops at the cathedral essential. The day ends in a cozy restaurant with views of the snow-capped Rhodope peaks.",
-            "bg": "Зимен велопоход около Смолян е истинско атлетично предизвикателство. Започнете в отоплените музеи преди да се изкачите по заснежените пътища към замръзналите Смолянски езера. Хапещият студ при спускането прави задължителни спирания за затопляне в катедралата. Денят завършва в уютен ресторант с изглед към заснежените върхове на Родопите."
+            "bg": "Зимното колоездене около Смолян е истинско атлетическо предизвикателство. Започнете в отоплени музеи преди да изкачите заснежените пътища към замръзналите Смолянски езера. Пронизващият студ при спускането прави топлите спирки при катедралата задължителни. Денят завършва в уютен ресторант с гледка към заснежените родопски върхове."
           },
           "stops": [
             {
@@ -1080,7 +1080,7 @@
                 "hu": "Utolsó esély a téli kesztyűk melegben való felhúzására.",
                 "ro": "Ultima șansă de a pune mănușile de iarnă la căldură.",
                 "en": "Last chance to put on winter gloves in the warmth.",
-                "bg": "Последен шанс да сложите зимни ръкавици на топло."
+                "bg": "Последен шанс да облечете зимни ръкавици в топлината."
               }
             },
             {
@@ -1090,7 +1090,7 @@
                 "hu": "Ügyeljen az útszóró sóra a kerékpár vázán.",
                 "ro": "Atenție la sarea de pe drum pe cadrul bicicletei.",
                 "en": "Watch out for road salt buildup on your bike frame.",
-                "bg": "Внимавайте за натрупване на пътна сол по рамката на велосипеда."
+                "bg": "Внимавайте за натрупване на пътна сол върху рамата на колелото."
               }
             },
             {
@@ -1100,7 +1100,7 @@
                 "hu": "Az út gyakran takarított, de az útpadka jeges lehet.",
                 "ro": "Drumul e deszăpezit, dar marginile pot fi înghețate.",
                 "en": "Roads are often cleared, but shoulders can be icy.",
-                "bg": "Пътищата често са почистени, но банкните могат да са заледени."
+                "bg": "Пътищата често са почистени, но банкета може да бъде заледен."
               }
             },
             {
@@ -1110,7 +1110,7 @@
                 "hu": "Csak szöges gumival vagy gyalog menjen be a hóba.",
                 "ro": "Intrați doar cu anvelope cu ținte sau pe jos prin zăpadă.",
                 "en": "Enter only with studded tires or on foot in deep snow.",
-                "bg": "Влизайте само с шипирани гуми или пеша при дълбок сняг."
+                "bg": "Влиза се само с шиповани гуми или пеша при дълбок сняг."
               }
             },
             {
@@ -1120,7 +1120,7 @@
                 "hu": "Az előcsarnok védelmet nyújt a hideg hegyi szél ellen.",
                 "ro": "Pridvorul oferă protecție împotriva vântului rece.",
                 "en": "The narthex provides protection from the cold mountain wind.",
-                "bg": "Нартексът осигурява защита от студения планински вятър."
+                "bg": "Преградата (пропилеите) осигурява защита от студения планински вятър."
               }
             },
             {
@@ -1164,11 +1164,11 @@
               "Carry a thermos with a hot beverage for longer rides."
             ],
             "bg": [
-              "Здрав лубрикант за веригата е задължителен при сняг и сол.",
-              "Многослойно обличане (принципът на лука) предпазва от хипотермия.",
-              "Избягвайте рязко завиване върху утъпкан сняг или късове лед.",
-              "Спирането може да се забави, ако лед се образува по джантите или накладките.",
-              "Носете термос с гореща напитка за по-дълги преходи."
+              "Здраво масло за вериги е задължително за сняг и солени условия.",
+              "Слоево обличане (принципът „лук“) предпазва от хипотермия.",
+              "Избягвайте резки завои по втвърден сняг или ледени петна.",
+              "Спирането може да закъснее, ако лед се образува по джантите или накладките.",
+              "Носете термос с гореща напитка за по-дълги обиколки."
             ]
           }
         }
@@ -1188,7 +1188,7 @@
             "hu": "A klaszter: Parkolás a városközpontban",
             "ro": "Cluster A: Parcare în centrul orașului",
             "en": "Cluster A: Park in the City Center",
-            "bg": "Клъстър A: Паркирайте в центъра на града"
+            "bg": "Клъстер А: Паркирайте в центъра на града"
           },
           "coords": [
             41.576,
@@ -1240,7 +1240,7 @@
             "hu": "Szent Visszarion Katedrális",
             "ro": "Catedrala Sfântul Visarion",
             "en": "Saint Vissarion Cathedral",
-            "bg": "Катедрала „Свети Висарион“"
+            "bg": "Катедрала „Св. Висарион“"
           },
           "coords": [
             41.5788,
@@ -1266,7 +1266,7 @@
             "hu": "B klaszter: Uhlovica-barlang",
             "ro": "Cluster B: Peștera Uhlovița",
             "en": "Cluster B: Uhlovitsa Cave",
-            "bg": "Клъстър B: Пещера Ухловица"
+            "bg": "Клъстер Б: Пещера Ухловица"
           },
           "coords": [
             41.5167,
@@ -1283,7 +1283,7 @@
             "hu": "Az út festői. Viselj erős cipőt a barlang meredek lépcsőihez.",
             "ro": "Drumul este pitoresc. Poartă încălțăminte rezistentă pentru treptele abrupte din peșteră.",
             "en": "The drive is scenic. Wear sturdy shoes for the steep steps inside the cave.",
-            "bg": "Пътят е живописен. Носете здрави обувки за стръмните стъпала вътре в пещерата."
+            "bg": "Пътуването е живописно. Носете здрави обувки за стръмните стълби вътре в пещерата."
           }
         },
         {
@@ -1309,7 +1309,7 @@
             "hu": "A környéken sok étterem kínál friss pisztrángot.",
             "ro": "Multe restaurante din zonă servesc păstrăv proaspăt.",
             "en": "Many restaurants in the area serve fresh trout.",
-            "bg": "Много ресторанти в района предлагат прясна пъстърва."
+            "bg": "Много ресторанти в района сервират прясна пъстърва."
           }
         },
         {
@@ -1318,7 +1318,7 @@
             "hu": "C klaszter: Szmoljani-vízesés és Nevjasztata-szikla",
             "ro": "Cluster C: Cascada Smolyan & Stânca Nevyastata",
             "en": "Cluster C: Smolyan Waterfall & Nevyastata Rock",
-            "bg": "Клъстър C: Смолянски водопад и скалата Невястата"
+            "bg": "Клъстер В: Смолянски водопад и скалата Невястата"
           },
           "coords": [
             41.605,
@@ -1335,7 +1335,7 @@
             "hu": "Egy utolsó megálló, hogy naplemente előtt megtapasztald a természet erejét.",
             "ro": "O ultimă oprire pentru a experimenta puterea naturii înainte de apus.",
             "en": "A final stop to witness the power of nature before sunset.",
-            "bg": "Последна спирка, за да видите силата на природата преди залез."
+            "bg": "Последна спирка да станете свидетели на мощта на природата преди залез."
           }
         },
         {
@@ -1344,7 +1344,7 @@
             "hu": "Visszatérés a szállodába/központba",
             "ro": "Întoarcere la hotel/centru",
             "en": "Return to hotel/center",
-            "bg": "Връщане в хотела/центъра"
+            "bg": "Връщане в хотел/центъра"
           },
           "coords": [
             41.576,
@@ -1370,7 +1370,7 @@
         "hu": "Kezdje az autós túrát Szmoljan központjában, ahol gyalogosan fedezi fel a Történeti Múzeumot és a katedrálist. Délelőtt vezessen el a lenyűgöző Uhlovica-barlanghoz egy földalatti kalandra, majd ebédeljen a közelben. Délután a festői tájon keresztül autózzon a Szmoljani-vízeséshez és a Nevjasztata-sziklához, hogy megcsodálja a Rodope-hegység természeti szépségét. A nap a városba való visszatéréssel zárul, tele felejthetetlen élményekkel.",
         "ro": "Începeți excursia cu mașina în centrul orașului Smolyan, explorând pe jos Muzeul de Istorie și Catedrala. Dimineața, conduceți spre impresionanta Peșteră Uhlovița pentru o aventură subterană, urmată de prânz în apropiere. După-amiaza, traversați peisajul pitoresc spre Cascada Smolyan și Stânca Nevyastata pentru a admira frumusețea naturală a Munților Rodopi. Ziua se încheie cu întoarcerea în oraș, plină de impresii memorabile.",
         "en": "Start your road trip in the center of Smolyan, exploring the Historical Museum and Cathedral on foot. In the morning, drive to the impressive Uhlovitsa Cave for an underground adventure, followed by lunch nearby. In the afternoon, drive through the scenic landscape to Smolyan Waterfall and Nevyastata Rock to admire the natural beauty of the Rhodopes. The day concludes with the drive back to the city, full of unforgettable impressions.",
-        "bg": "Започнете пътуването си с кола в центъра на Смолян, разглеждайки Историческия музей и Катедралата пеша. Сутринта потеглете към впечатляващата пещера Ухловица за подземно приключение, след което обяд близо до нея. Следобед шофирайте през живописния пейзаж до Смолянския водопад и скалата Невястата, за да се насладите на природната красота на Родопите. Денят завършва с връщане в града, пълен с незабравими впечатления."
+        "bg": "Започнете пътуването с кола от центъра на Смолян, разглеждайки Историческия музей и катедралата пеша. Сутринта шофирайте до впечатляващата пещера Ухловица за подземно приключение, последвана от обяд наблизо. Следобед шофирайте през живописния пейзаж до Смолянския водопад и скалата Невястата, за да се насладите на природната красота на Родопите. Денят завършва с връщане в града, пълен с незабравими впечатления."
       },
       "gastro_picks": {
         "de": [
@@ -1568,10 +1568,10 @@
           "Stop at scenic viewpoints for photos."
         ],
         "bg": [
-          "Напълнете резервоара преди да се отправите в планината.",
-          "Свалете офлайн карти, тъй като мобилното покритие може да е слабо.",
-          "Бъдете внимателни по тесни и виещи се пътища.",
-          "Спирайте на живописни гледки за снимки."
+          "Напълнете резервоара на колата преди да тръгнете към планината.",
+          "Свалете офлайн карти, тъй като мобилното покритие може да е несигурно.",
+          "Бъдете внимателни на тесни и вълнообразни пътища.",
+          "Спирайте на панорамни площадки за снимки."
         ]
       },
       "variants": {
@@ -1581,7 +1581,7 @@
             "hu": "Esőben az autó a legjobb eszköz az Uhlovica-barlang meglátogatásához, ahol egyébként is nedves a környezet. A délelőtt a városi múzeumban indul. Délben a katedrálist látogatjuk meg, majd a barlang felé vesszük az irányt. Délután a Nevjasztata-út drámai felhői közt autózunk. Az este szárazon és kényelmesen zárul a központban.",
             "ro": "Pe ploaie, mașina este mijlocul ideal pentru a vizita peștera Uhlovitsa, unde oricum este umed. Dimineața începe cultural la muzeul orașului. La prânz admirăm catedrala, apoi conducem spre peșteră. După-amiaza oferă vederi de pe drumul Nevyastata, adesea învăluit dramatic în nori. Seara se încheie uscat și confortabil în centru.",
             "en": "In the rain, a car is the ideal way to reach Uhlovitsa Cave, where it's damp regardless of weather. Start the morning at the town museum. Visit the cathedral at noon before driving south. Afternoon brings dramatic cloud views from the Nevyastata eco-trail road. The evening concludes comfortably in the dry city center.",
-            "bg": "При дъжд колата е идеален начин да стигнете до пещера Ухловица, където е влажно независимо от времето. Започнете сутринта в градския музей. Посетете катедралата на обяд преди да тръгнете на юг. Следобедът носи драматични облачни гледки от еко-пътеката на Невястата. Вечерта завършва удобно в сухия градски център."
+            "bg": "При дъжд колата е идеалният начин да стигнете до пещера Ухловица, където е влажно независимо от времето. Започнете сутринта в градския музей. Посетете катедралата около обяд преди да шофирате на юг. Следобедът носи драматични облачни гледки от пътя към екотропата Невястата. Вечерта завършва удобно в сухия градски център."
           },
           "stops": [
             {
@@ -1591,7 +1591,7 @@
                 "hu": "Központi parkoló, gyakori tócsákkal; vízálló cipő ajánlott.",
                 "ro": "Parcare centrală, adesea cu bălți; încălțăminte solidă.",
                 "en": "Central parking, prone to puddles; waterproof footwear advised.",
-                "bg": "Централният паркинг е податлив на локви; препоръчват се водоустойчиви обувки."
+                "bg": "Централният паркинг е податлив на локви; препоръчва се водоустойчива обувка."
               }
             },
             {
@@ -1611,7 +1611,7 @@
                 "hu": "Parkolás közvetlenül az utcán; gyors bejutás.",
                 "ro": "Parcare posibilă direct în stradă; acces rapid.",
                 "en": "Street parking available nearby for quick indoor access.",
-                "bg": "Улично паркиране наблизо, удобно за бърз достъп вътре."
+                "bg": "Улично паркиране на разположение наблизо за бърз достъп на закрито."
               }
             },
             {
@@ -1641,7 +1641,7 @@
                 "hu": "Vigyázzon a ködben a szűk bekötőúton.",
                 "ro": "Atenție la ceață pe drumul de acces îngust.",
                 "en": "Exercise caution in fog on the narrow access road.",
-                "bg": "Бъдете внимателни при мъгла по тесния достъпен път."
+                "bg": "Бъдете внимателни при мъгла на тесния път за достъп."
               }
             },
             {
@@ -1651,7 +1651,7 @@
                 "hu": "Ellenőrizze a fényszórókat a rossz látási viszonyok miatt.",
                 "ro": "Verificați farurile din cauza vizibilității scăzute.",
                 "en": "Check headlights due to spray and poor visibility.",
-                "bg": "Проверете фаровете заради пръските и лошата видимост."
+                "bg": "Проверете фаровете заради пръскането и лошата видимост."
               }
             }
           ],
@@ -1685,11 +1685,11 @@
               "Parking areas at natural sites are often unpaved and muddy."
             ],
             "bg": [
-              "Риск от аквапланинг на пътя на юг към Ухловица.",
+              "Риск от аквапланинг по пътя на юг към Ухловица.",
               "Планинските пътища могат да имат отломки или малки камъни след силен дъжд.",
-              "Уверете се, че чистачките на предното стъкло са в перфектно състояние преди тръгване.",
+              "Уверете се, че чистачките на предното стъкло са в отлично състояние преди тръгване.",
               "Мъглата е изключително честа в Родопите по време на дъжд.",
-              "Паркингите при природните обекти често са непавирани и кални."
+              "Паркингите при природните забележителности често са непавирани и кални."
             ]
           }
         },
@@ -1699,7 +1699,7 @@
             "hu": "A Szmoljan környéki téli autózáshoz jól felkészített jármű kell. A múzeumlátogatás után a fagyos katedrálishoz hajtunk. Délben az Uhlovica-barlangot keressük fel, amely télen kellemesen melegnek hat. Délután a Nevjasztata-út havas erdői nyújtanak látványt. Az estét regionális ételek mellett töltjük a meleg belvárosban.",
             "ro": "Călătoriile de iarnă în jurul orașului Smolyan necesită un vehicul bine pregătit. După muzeu, ruta ne duce la catedrala înghețată. La prânz vizităm peștera Uhlovitsa, care pare plăcut de caldă iarna. După-amiaza oferă vederi spectaculoase spre pădurile înzăpezite pe drumul Nevyastata. Seara savurăm bucătăria regională în centrul călduros.",
             "en": "Winter driving around Smolyan requires a well-prepared vehicle. After the museum, head to the frost-covered cathedral. At noon, visit Uhlovitsa Cave, which feels surprisingly warm in winter. Afternoon drives near Nevyastata offer spectacular views of snowy pine forests. Enjoy regional cuisine in the warm city center to end the day.",
-            "bg": "Зимното шофиране около Смолян изисква добре подготвено превозно средство. След музея отидете до измръзналата катедрала. В обяд посетете пещера Ухловица, която през зимата се усеща необичайно топла. Следобедните пътувания край Невястата предлагат спиращи дъха гледки към заснежените борови гори. Завършете деня с регионална кухня в топлия градски център."
+            "bg": "Зимното шофиране около Смолян изисква добре подготвено превозно средство. След музея отидете до покритата с измръзване катедрала. На обяд посетете пещера Ухловица, която се усеща необичайно топла през зимата. Следобедните пътувания около Невястата предлагат зрелищни гледки към заснежените борови гори. Завършете с регионална кухня в топлия градски център."
           },
           "stops": [
             {
@@ -1709,7 +1709,7 @@
                 "hu": "A parkolóhelyeken hókupacok fordulhatnak elő.",
                 "ro": "Posibile mormane de zăpadă pe locurile de parcare.",
                 "en": "Snow piles might occupy parts of the parking spaces.",
-                "bg": "Снегът може да заема части от паркоместата."
+                "bg": "Снежни купчини могат да заемат части от паркоместата."
               }
             },
             {
@@ -1719,7 +1719,7 @@
                 "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
                 "ro": "Nu lăsați motorul să meargă inutil în staționare.",
                 "en": "Avoid idling your engine for too long in the cold.",
-                "bg": "Избягвайте да оставяте двигателя да работи на място прекалено дълго на студа."
+                "bg": "Избягвайте да оставяте двигателя да работи на място за дълго в студа."
               }
             },
             {
@@ -1729,7 +1729,7 @@
                 "hu": "Vigyázzon a kiszálláskor a csúszós talajra.",
                 "ro": "Atenție la coborârea din mașină pe sol alunecos.",
                 "en": "Be careful when exiting the car onto slippery ground.",
-                "bg": "Внимавайте при слизане от колата на хлъзгава настилка."
+                "bg": "Внимавайте при излизане от колата на хлъзгава настилка."
               }
             },
             {
@@ -1739,7 +1739,7 @@
                 "hu": "A bejárathoz vezető út a hóban fárasztó lehet.",
                 "ro": "Urcarea spre intrare poate fi obositoare prin zăpadă.",
                 "en": "The climb to the cave entrance can be tough in deep snow.",
-                "bg": "Изкачването до входа на пещерата може да е трудно при дълбок сняг."
+                "bg": "Изкачването до входа на пещерата може да бъде трудно при дълбок сняг."
               }
             },
             {
@@ -1749,7 +1749,7 @@
                 "hu": "A parkolót általában gyorsan letakarítják.",
                 "ro": "Parcarea este de obicei deszăpezită rapid.",
                 "en": "The parking area is usually cleared quickly here.",
-                "bg": "Тук паркингът обикновено се почиства бързо."
+                "bg": "Паркингът тук обикновено се почиства бързо."
               }
             },
             {
@@ -1759,7 +1759,7 @@
                 "hu": "Csak akkor hajtson be, ha az út teljesen le van takarítva.",
                 "ro": "Conduceți aici doar dacă drumul este curățat la negru.",
                 "en": "Only drive up if the road has been cleared to the asphalt.",
-                "bg": "Карайте нагоре само ако пътят е почистен до асфалта."
+                "bg": "Шофирайте нагоре само ако пътят е почистен до асфалта."
               }
             },
             {
@@ -1769,7 +1769,7 @@
                 "hu": "Indulás előtt takarítsa le a havat a tetőről és a lámpákról.",
                 "ro": "Curățați zăpada de pe plafon și lumini înainte de plecare.",
                 "en": "Clear all snow from the roof and lights before driving.",
-                "bg": "Отстранете целия сняг от покрива и светлините преди тръгване."
+                "bg": "Почистете целия сняг от покрива и фаровете преди да потеглите."
               }
             }
           ],
@@ -1804,10 +1804,10 @@
             ],
             "bg": [
               "Зимните гуми са задължителни; носете вериги в багажника.",
-              "Планинските проходи могат да се затворят внезапно заради снегонавявания.",
-              "Внимавайте за дивеч, пресичащ пътя по здрач в снега.",
-              "Дръжте резервоара поне наполовина пълен за спешни случаи.",
-              "Уверете се, че течността за чистачки е подходяща за поне -20°C."
+              "Планинските проходи могат да се затворят внезапно заради преспи.",
+              "Внимавайте за животни, пресичащи пътя при зимния сумрак.",
+              "Поддържайте резервоара поне наполовина пълен при спешни случаи.",
+              "Уверете се, че течността за чистачки е за минимум -20°C."
             ]
           }
         }
@@ -1827,7 +1827,7 @@
             "hu": "A klaszter: Érkezés a központba",
             "ro": "Cluster A: Sosire în centru",
             "en": "Cluster A: Arrive in the Center",
-            "bg": "Клъстър A: Пристигнете в центъра"
+            "bg": "Клъстер A: Пристигане в центъра"
           },
           "coords": [
             41.5768,
@@ -1844,7 +1844,7 @@
             "hu": "Szállj le a központi buszmegállóban, és kezdd a felfedezést.",
             "ro": "Coboară la stația centrală de autobuz și începe explorarea.",
             "en": "Get off at the central bus stop and start your exploration.",
-            "bg": "Слезте на централната автогара и започнете разглеждането."
+            "bg": "Слезте на централната спирка и започнете разглеждането."
           }
         },
         {
@@ -1870,7 +1870,7 @@
             "hu": "Kötelező a helyi kultúra és történelem megértéséhez.",
             "ro": "O vizită obligatorie pentru a înțelege cultura și istoria locală.",
             "en": "A must-visit to understand the local culture and history.",
-            "bg": "Задължително посещение за да разберете местната култура и история."
+            "bg": "Задължително посещение за опознаване на местната култура и история."
           }
         },
         {
@@ -1879,7 +1879,7 @@
             "hu": "Szent Visszarion Katedrális",
             "ro": "Catedrala Sfântul Visarion",
             "en": "Saint Vissarion Cathedral",
-            "bg": "Катедрала „Свети Висарион“"
+            "bg": "Катедрала „Св. Висарион”"
           },
           "coords": [
             41.5788,
@@ -1896,7 +1896,7 @@
             "hu": "Lenyűgöző látványosság, könnyen megközelíthető gyalog a múzeumtól.",
             "ro": "Un punct de reper impresionant, ușor accesibil pe jos de la muzeu.",
             "en": "An impressive landmark, easily walkable from the museum.",
-            "bg": "Впечатляваща забележителност, лесно достъпна пеша от музея."
+            "bg": "Впечатляваща забележителност, лесно достъпна пеш от музея."
           }
         },
         {
@@ -1905,7 +1905,7 @@
             "hu": "B klaszter: Utazás a Planetáriumhoz",
             "ro": "Cluster B: Călătorie spre Planetariu",
             "en": "Cluster B: Ride to the Planetarium",
-            "bg": "Клъстър B: Качване към Планетариума"
+            "bg": "Клъстер B: Качване към планетариума"
           },
           "coords": [
             41.5861,
@@ -1922,7 +1922,7 @@
             "hu": "Vegyél egy helyi buszt. Előre ellenőrizd a menetrendet.",
             "ro": "Ia un autobuz local. Verifică orarul în avans.",
             "en": "Take a local bus. Check the schedule in advance.",
-            "bg": "Хванете местния автобус. Проверете разписанието предварително."
+            "bg": "Вземете местен автобус. Проверете разписанието предварително."
           }
         },
         {
@@ -1931,7 +1931,7 @@
             "hu": "C klaszter: Szmoljani-tavak",
             "ro": "Cluster C: Lacurile Smolyan",
             "en": "Cluster C: Smolyan Lakes",
-            "bg": "Клъстър C: Смолянски езера"
+            "bg": "Клъстер C: Смолянски езера"
           },
           "coords": [
             41.601,
@@ -1948,7 +1948,7 @@
             "hu": "Néhány buszjárat a tavak közelébe visz. Séta így is szükséges lesz.",
             "ro": "Unele rute de autobuz ajung aproape de lacuri. O plimbare pe jos va fi totuși necesară.",
             "en": "Some bus routes go near the lakes. A walk will still be required.",
-            "bg": "Някои автобусни линии минават близо до езерата. Все пак ще се наложи разходка."
+            "bg": "Някои автобусни линии минават в близост до езерата. Все пак ще се наложи разходка."
           }
         },
         {
@@ -1957,7 +1957,7 @@
             "hu": "Visszatérés a központba vacsorázni",
             "ro": "Întoarcere în centru pentru cină",
             "en": "Return to the center for dinner",
-            "bg": "Връщане в центъра за вечеря"
+            "bg": "Върнете се в центъра за вечеря"
           },
           "coords": [
             41.577,
@@ -1974,7 +1974,7 @@
             "hu": "Vegyél buszt vissza és keress egy mehanát.",
             "ro": "Ia autobuzul înapoi și găsește o mehana.",
             "en": "Take the bus back and find a mehana.",
-            "bg": "Върнете се с автобус и намерете механа."
+            "bg": "Вземете автобуса обратно и намерете механа."
           }
         }
       ],
@@ -1983,7 +1983,7 @@
         "hu": "A tömegközlekedéssel töltött nap Szmoljan központjában kezdődik, ahol gyalogosan elérhető a múzeum és a katedrális. Ezután busszal utazik a Planetáriumhoz, hogy a csillagokba nézzen. Délután egy másik busz elviszi a festői Szmoljani-tavak közelébe, amely tökéletes egy pihentető sétához. A nap a központba való visszautazással zárul, ahol egy finom vacsora vár egy hagyományos mehanában.",
         "ro": "Ziua ta cu transportul public începe în centrul orașului Smolyan, cu Muzeul și Catedrala la distanță de mers pe jos. Apoi, iei un autobuz spre Planetariu pentru a privi stelele. După-amiaza, un alt autobuz te duce aproape de pitoreștile Lacuri Smolyan, perfecte pentru o plimbare relaxantă. Ziua se încheie cu o călătorie cu autobuzul înapoi în centru pentru o cină delicioasă la o mehana tradițională.",
         "en": "Your day on public transport starts in the center of Smolyan, with the Museum and Cathedral within walking distance. Then, take a bus to the Planetarium to gaze at the stars. In the afternoon, another bus takes you near the scenic Smolyan Lakes, perfect for a relaxing walk. The day concludes with a bus ride back to the center for a delicious dinner at a traditional mehana.",
-        "bg": "Денят ви с градски транспорт започва в центъра на Смолян, с Музея и Катедралата на пеша разстояние. После хванете автобус до Планетариума, за да се полюбувате на звездите. Следобед автобус ще ви закара близо до живописните Смолянски езера, идеални за спокойна разходка. Денят завършва с автобус обратно в центъра за вкусна вечеря в традиционна механа."
+        "bg": "Денят ви с обществен транспорт започва от центъра на Смолян, с Музея и Катедралата на пешеходно разстояние. След това хванете автобус до Планетарията, за да разгледате звездите. Следобед друг автобус ще ви отведе до живописните Смолянски езера, идеални за спокойна разходка. Денят завършва с автобус обратно в центъра за вкусна вечеря в традиционна механа."
       },
       "gastro_picks": {
         "de": [
@@ -2161,10 +2161,10 @@
           "Ask locals for the right bus line if you're unsure; they are usually helpful."
         ],
         "bg": [
-          "Купете дневна карта за автобуса, ако има такава.",
+          "Купете дневна карта за автобуса, ако има.",
           "Дръжте разписанието на автобуса под ръка или използвайте приложение.",
-          "Бъдете навреме на автобусните спирки.",
-          "Питайте местните за правилната автобусна линия, ако не сте сигурни; обикновено са отзивчиви."
+          "Бъдете навреме на спирките.",
+          "Питайте местните за правилната линия, ако не сте сигурни; обикновено са полезни."
         ]
       },
       "variants": {
@@ -2174,7 +2174,7 @@
             "hu": "Busszal közlekedni az esős Szmoljanban a legszárazabb opció. Meglátogatjuk a múzeumokat és a központi katedrálist. Délben busszal megyünk a Szmoljani-tavakhoz, ahol a természet az esőben különleges csendet áraszt. A késő délutánt a galériában töltjük, majd visszatérünk a központba vacsorázni.",
             "ro": "Călătoria cu autobuzul prin Smolyanul ploios este cea mai uscată opțiune. Vizităm muzeele și catedrala centrală. La prânz luăm autobuzul spre lacurile Smolyan, unde natura emană o liniște deosebită pe ploaie. Petrecem după-amiaza târzie la galeria de artă înainte de cină.",
             "en": "Taking the bus through rainy Smolyan is the driest transit option. Visit the museums and the central cathedral with ease. At noon, take the bus up to the Smolyan Lakes, where nature radiates a unique stillness in the rain. Spend the late afternoon at the Art Gallery before returning to the center.",
-            "bg": "Пътуването с автобус през дъждовния Смолян е най-сухият вариант за придвижване. Посетете музеите и централната катедрала лесно. На обяд хванете автобуса към Смолянските езера, където природата излъчва особена тишина при дъжд. Прекарайте късния следобед в Художествената галерия преди да се върнете в центъра."
+            "bg": "Пътуването с автобус през дъждовния Смолян е най-сухият вариант. Посетете музеите и централната катедрала лесно. В обедните часове хванете автобус до Смолянските езера, където природата излъчва уникално спокойствие под дъжда. Прекарайте късния следобед в Арт галерията преди връщане към центъра."
           },
           "stops": [
             {
@@ -2184,7 +2184,7 @@
                 "hu": "Használja a fedett várókat; ellenőrizze a menetrendet.",
                 "ro": "Folosiți refugiile acoperite; verificați aplicația de transport.",
                 "en": "Use the covered shelters; check the local schedule app.",
-                "bg": "Използвайте покритите навеси; проверете локалното приложение за разписанията."
+                "bg": "Използвайте покритите чакални; проверете местното приложение за разписания."
               }
             },
             {
@@ -2194,7 +2194,7 @@
                 "hu": "A megálló szinte közvetlenül a bejárat előtt van.",
                 "ro": "Stația este aproape direct în fața intrării.",
                 "en": "Bus stop is located almost directly in front of the entrance.",
-                "bg": "Автобусната спирка се намира почти точно пред входа."
+                "bg": "Автобусната спирка е разположена почти непосредствено пред входа."
               }
             },
             {
@@ -2204,7 +2204,7 @@
                 "hu": "Várjon az előcsarnokban, ha késik a busz.",
                 "ro": "Așteptați în pridvor dacă autobuzul întârzie.",
                 "en": "Wait inside the narthex if the bus is running late.",
-                "bg": "Изчакайте във вхуса (нартекса), ако автобусът закъснява."
+                "bg": "Изчакайте в притвора, ако автобусът закъснява."
               }
             },
             {
@@ -2214,7 +2214,7 @@
                 "hu": "Ideális buszkapcsolat a központból (1-es vagy 2-es vonal).",
                 "ro": "Conexiune ideală cu autobuzul din centru (linia 1 sau 2).",
                 "en": "Frequent bus connections from the center (Line 1 or 2).",
-                "bg": "Чести автобусни връзки от центъра (линия 1 или 2)."
+                "bg": "Чести връзки от центъра (линия 1 или 2)."
               }
             },
             {
@@ -2224,7 +2224,7 @@
                 "hu": "A buszok ritkábban járnak; tervezze meg pontosan a visszautat.",
                 "ro": "Autobuzele circulă mai rar; planificați exact returul.",
                 "en": "Buses are less frequent here; plan your return carefully.",
-                "bg": "Автобусите тук са по-редки; планирайте внимателно връщането си."
+                "bg": "Автобусите тук са по-рядко; планирайте внимателно връщането."
               }
             },
             {
@@ -2268,11 +2268,11 @@
               "Keep small change ready for quick ticket purchases."
             ],
             "bg": [
-              "Билетите обикновено могат да се купят директно от шофьора.",
-              "Автобусите могат да се усещат задушни заради мокри дрехи на пътниците.",
-              "Очаквайте автобусите да са по-претъпкани от обичайното при дъжд.",
-              "Слушайте за обявленията на спирките, тъй като прозорците често се запотяват.",
-              "Дръжте дребни пари под ръка за бързи покупки на билет."
+              "Билети обикновено могат да се купят направо от шофьора.",
+              "Автобусите могат да се усещат задушни заради мокрите дрехи на пътниците.",
+              "Очаквайте автобусите да са по-претъпкани от обичайното по време на дъжд.",
+              "Слушайте обявленията за спирки, тъй като прозорците често се запотяват.",
+              "Дръжте дребни пари готови за бърза покупка на билет."
             ]
           }
         },
@@ -2282,7 +2282,7 @@
             "hu": "A szmoljani közösségi közlekedés általában megbízhatóan dacol a hóval. Fűtött múzeumokat látogatunk, és buszt használunk az állomások között. Kiemelt élmény a tavakhoz való feljutás, ahol lenyűgöző a téli táj. A katedrálisnál való felmelegedés után a galériában töltjük a délutánt. Az este regionális ételekkel zárul.",
             "ro": "Transportul local din Smolyan înfruntă zăpada de regulă cu succes. Explorăm muzeele la căldură și folosim autobuzele între obiective. Un punct forte este drumul spre lacuri, unde peisajul de iarnă impresionează. După încălzirea la catedrală, petrecem după-amiaza la galeria de artă. Seara se încheie festiv.",
             "en": "Smolyan's transit system generally handles the snow quite reliably. Explore heated museums and hop on buses between the main sites. A ride up to the lakes offers impressive snowy vistas. After a quick warm-up at the cathedral, spend the late afternoon at the Art Gallery followed by a cozy local dinner.",
-            "bg": "Транспортната система на Смолян обикновено се справя с снега доста надеждно. Разгледайте затоплени музеи и хванете автобусите между основните забележителности. Качването до езерата предлага впечатляващи снежни гледки. След кратко стопляне в катедралата прекарайте късния следобед в Художествената галерия, последвано от уютна местна вечеря."
+            "bg": "Транспортната система на Смолян обикновено се справя добре със снега. Разгледайте отоплени музеи и се придвижвайте с автобус между основните забележителности. Качването до езерата предлага впечатляващи снежни гледки. След кратко затопляне в катедралата, прекарайте късния следобед в Арт галерията и завършете с уютна местна вечеря."
           },
           "stops": [
             {
@@ -2292,7 +2292,7 @@
                 "hu": "A váróterületek a hókásától csúszósak lehetnek.",
                 "ro": "Zonele de așteptare pot fi alunecoase din cauza lăstocului.",
                 "en": "Waiting areas can be slippery due to slushy snow.",
-                "bg": "Очаквайте зоните за изчакване да бъдат хлъзгави заради кишата."
+                "bg": "Чакайките зони могат да бъдат хлъзгави заради разтопения сняг."
               }
             },
             {
@@ -2302,7 +2302,7 @@
                 "hu": "A buszok nagyon közel állnak meg; minimalizálja a hideget.",
                 "ro": "Autobuzele opresc foarte aproape; reduce contactul cu frigul.",
                 "en": "Buses stop very close, minimizing time spent in the cold.",
-                "bg": "Автобусите спират много близо, което намалява времето, прекарано на студа."
+                "bg": "Автобусите спират много близо, минимизирайки времето навън в студа."
               }
             },
             {
@@ -2312,7 +2312,7 @@
                 "hu": "Ellenőrizze az indulást; friss hóban késések lehetnek.",
                 "ro": "Verificați orele; posibile întârzieri la ninsoare proaspătă.",
                 "en": "Check schedules; fresh snow can cause minor delays.",
-                "bg": "Проверявайте разписанията; пресният сняг може да причини леки закъснения."
+                "bg": "Проверявайте разписанията; прясно навалял сняг може да причини малки закъснения."
               }
             },
             {
@@ -2322,7 +2322,7 @@
                 "hu": "Jól fűtött busz a központba visszavezető vonalon.",
                 "ro": "Autobuz bine încălzit pe ruta de întoarcere în centru.",
                 "en": "Buses on the route back to the center are usually well-heated.",
-                "bg": "Автобусите по линията обратно към центъра обикновено са добре отоплени."
+                "bg": "Автобусите по маршрута обратно към центъра обикновено са добре отоплени."
               }
             },
             {
@@ -2342,7 +2342,7 @@
                 "hu": "Rövid séta a megállótól a vendéglőig.",
                 "ro": "Drum scurt de la stație până la restaurant.",
                 "en": "Short walking distance from the bus stop to the restaurant.",
-                "bg": "Кратко пешеходно разстояние от спирката до ресторанта."
+                "bg": "Късо разстояние пеш от спирката до ресторанта."
               }
             }
           ],
@@ -2376,11 +2376,11 @@
               "Kick the snow off your boots before boarding the bus."
             ],
             "bg": [
-              "Разписанията могат да варират при екстремни виелици.",
-              "Носете топли ботуши, тъй като може да се наложи да чакате навън на спирките.",
-              "Отоплението в автобусите често е на висока степен през зимата.",
+              "Разписанията могат да се променят при екстремни виелици.",
+              "Носете топли обувки, тъй като може да се наложи да чакате навън на спирките.",
+              "Отоплението в автобусите често е силно през зимните месеци.",
               "Последният автобус обратно от езерата обикновено е около 17:00.",
-              "Оттупайте снега от обувките си преди да се качите в автобуса."
+              "Изчуквайте снега от ботушите преди да се качите в автобуса."
             ]
           }
         }

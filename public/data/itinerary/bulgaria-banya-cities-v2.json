@@ -79,7 +79,7 @@
             "hu": "Banya ásványvízforrásai",
             "ro": "Izvoarele Minerale din Banya",
             "en": "Mineral Springs of Banya",
-            "bg": "Минералните извори на Баня"
+            "bg": "Минерални извори на Баня"
           },
           "coords": [
             24.8192,
@@ -98,7 +98,7 @@
             "hu": "Szent Konstantin és Elena templom",
             "ro": "Biserica Sf. Constantin și Elena",
             "en": "Church of St. Constantine and Helena",
-            "bg": "Църква \"Свети Константин и Елена\""
+            "bg": "Църква „Свети Константин и Елена“"
           },
           "coords": [
             24.815,
@@ -117,7 +117,7 @@
             "hu": "III. Borisz cár park",
             "ro": "Parcul Țarul Boris al III-lea",
             "en": "Tsar Boris III Park",
-            "bg": "Парк Цар Борис III"
+            "bg": "Парк „Цар Борис III“"
           },
           "coords": [
             24.822,
@@ -174,7 +174,7 @@
         "hu": "Kezdje a sétát az Alapítók emlékművénél, majd merüljön el a helyi történelemben a Történeti Múzeumban. Érezze a múlt melegét, miközben a kiállítási tárgyak között bolyong.\nDélben a Városi Ásványfürdő hívogat híres építészetével és a közeli gyógyító ásványvízforrásokkal. Tökéletes hely a feltöltődésre és a fürdőváros egyedi hangulatának élvezetére.\nA délutánt a Szent Konstantin és Elena templomhoz vezető sétának szenteljük, amit egy pihentető időtöltés követ a buja III. Borisz cár parkban. Látogasson el a közeli királyi villába egy csipetnyi királyi történelemért.\nZárja a napot a Banyai Borospincében. Kóstoljon helyi borokat, és elmélkedjen ennek a bájos bolgár városnak a szépségén és nyugalmán, miközben a nap lenyugszik.",
         "ro": "Începeți plimbarea la Monumentul Fondatorilor și pătrundeți în istoria locală la Muzeul de Istorie. Simțiți căldura trecutului în timp ce vă plimbați printre exponate.\nLa amiază, Baia Minerală Municipală vă atrage cu arhitectura sa renumită și izvoarele minerale vindecătoare din apropiere. Este un loc perfect pentru a vă reîncărca și a vă bucura de atmosfera unică a stațiunii balneare.\nDupă-amiaza este dedicată unei plimbări la Biserica Sf. Constantin și Elena, urmată de un moment de relaxare în luxuriantul Parc Țarul Boris al III-lea. Vizitați Vila Regală din apropiere pentru o notă de istorie regală.\nÎncheiați ziua la Crama Banya. Degustați vinuri locale și reflectați asupra frumuseții și liniștii acestui fermecător oraș bulgar, în timp ce soarele apune.",
         "en": "Start your walking tour at the Monument to the Founders and delve into local history at the Historical Museum. Feel the warmth of the past as you wander through the exhibits.\nAt midday, the Municipal Mineral Bath beckons with its renowned architecture and the healing mineral springs nearby. It's a perfect spot to recharge and enjoy the unique spa town atmosphere.\nThe afternoon is for a stroll to the Church of St. Constantine and Helena, followed by relaxing time in the lush Tsar Boris III Park. Visit the nearby Royal Villa for a touch of royal history.\nConclude your day at the Banya Winery. Taste local wines and reflect on the beauty and tranquility of this charming Bulgarian town as the sun sets.",
-        "bg": "Започнете пешеходната си обиколка при Паметника на основателите и се потопете в местната история в Историческия музей. Почувствайте топлината на миналото, докато разглеждате експонатите.\nВ средата на деня Общинската минерална баня привлича с прочутата си архитектура и лечебните минерални извори наблизо. Това е перфектно място за презареждане и за наслада от уникалната спа атмосфера на градчето.\nСледобед се разходете до църквата \"Свети Константин и Елена\", а след това си отделете време за отмора в зелените кътове на парк Цар Борис III. Посетете близката Кралска вила за щрих от кралска история.\nЗавършете деня си в Изба Баня. Опитайте местни вина и размислете за красотата и спокойствието на това очарователно българско градче, докато слънцето залязва."
+        "bg": "Започнете пешеходната си обиколка от Паметника на основателите и проникнете в местната история в Историческия музей. Почувствайте топлината на миналото, докато се разхождате из експонатите.\nВ обедните часове Общинската минерална баня ви примамва с прочутата си архитектура и лечебните минерални извори наблизо. Това е перфектно място да се възстановите и да се насладите на уникалната атмосфера на курортното градче.\nСледобед е време за разходка до Църквата „Свети Константин и Елена“, последвана от релаксиращо време в зеленината на парк „Цар Борис III“. Посетете близката Кралска вила за щипка кралска история.\nЗавършете деня си в Изба Баня. Опитайте местни вина и помислете за красотата и спокойствието на това очарователно българско градче, докато слънцето залязва."
       },
       "gastro_picks": {
         "de": [
@@ -388,10 +388,10 @@
           "Most sights are clustered together, making Banya ideal for exploring on foot."
         ],
         "bg": [
-          "Носете удобни обувки, тъй като калдъръмът в по-старите части на града може да е неравен.",
-          "Носете многократна бутилка за вода, която да напълните на обществените чешми с минерална вода.",
+          "Носете удобни обувки, тъй като паважът в по-старите части на града може да е неравен.",
+          "Вземете многократна бутилка, която да напълните на обществените чешми с минерална вода.",
           "Проверете работното време на музея и вилата предварително, тъй като може да са сезонни.",
-          "Повечето забележителности са в близост една до друга, което прави Баня идеална за разглеждане пеша."
+          "Повечето забележителности са групирани близо една до друга, което прави Баня идеална за разглеждане пеша."
         ]
       },
       "variants": {
@@ -401,7 +401,7 @@
             "hu": "A napot az alapítók emlékművénél kezdjük, majd gyorsan behúzódunk a Történeti Múzeumba az eső elől. A délidő a fedett ásványvizes fürdőben a legkellemesebb. Délután egy rövid esernyős séta következik a templomhoz és a parkon át a királyi villához. A napot a borászat melegében zárjuk, ahol a helyi nedűk feledtetik a borús időt.",
             "ro": "Începeți ziua la monument, apoi refugiați-vă rapid în Muzeul de Istorie pentru a evita ploaia. Prânzul este ideal în băile minerale acoperite, unde apa caldă relaxează corpul. După-amiaza include o vizită la biserică și o plimbare cu umbrela prin parc spre vila regală. Seara se încheie călduros la vinărie, degustând soiuri locale în timp ce afară plouă.",
             "en": "Start your day at the monument and quickly duck into the Historical Museum to escape the rain. Midday is perfect for the indoor mineral baths. The afternoon features a brief umbrella walk to the church and through the misty park to the Royal Villa. End your rainy day warmly at the winery, enjoying local vintages while staying dry inside.",
-            "bg": "Започнете деня при паметника и бързо влезте в Историческия музей, за да избягате от дъжда. В средата на деня минералните бани са идеални за вътрешно преживяване. Следобед предстои кратка разходка с чадър до църквата и през мъгливия парк до Кралската вила. Завършете дъждовния си ден уютно в избата, наслаждавайки се на местни вина на закрито."
+            "bg": "Започнете деня си от паметника и бързо влезте в Историческия музей, за да избягате от дъжда. Обедът е идеален за вътрешните минерални басейни. Следобедът предлага кратка разходка с чадър до църквата и през мъгливия парк до Кралската вила. Завършете дъждовния си ден уютно в избата, наслаждавайки се на местни сортове, докато сте на сухо вътре."
           },
           "stops": [
             {
@@ -411,7 +411,7 @@
                 "hu": "Gyors fotómegálló, tartsa szorosan az esernyőt.",
                 "ro": "Oprire scurtă pentru poze; țineți bine umbrela.",
                 "en": "Quick photo stop; keep a firm grip on your umbrella.",
-                "bg": "Бърза фотоспирка; дръжте чадъра здраво."
+                "bg": "Бърза фото спирка; дръжте здраво чадъра си."
               }
             },
             {
@@ -421,7 +421,7 @@
                 "hu": "Tökéletes hely az első esőhullám száraz átvészeléséhez.",
                 "ro": "Locul perfect pentru a aștepta trecerea primului val de ploaie.",
                 "en": "Perfect place to stay dry during the first wave of rain.",
-                "bg": "Перфектно място да останете сухи по време на първата вълна дъжд."
+                "bg": "Перфектно място да останете сухи при първата вълна дъжд."
               }
             },
             {
@@ -431,7 +431,7 @@
                 "hu": "Élvezze a forró vizet, miközben az eső az ablakon kopog.",
                 "ro": "Bucurați-vă de apa fierbinte în timp ce ploaia bate în geamuri.",
                 "en": "Enjoy the hot water while the rain drums against the windows.",
-                "bg": "Насладете се на горещата вода, докато дъждът барабанява по прозорците."
+                "bg": "Насладете се на горещата вода, докато дъждът бучка по прозорците."
               }
             },
             {
@@ -441,7 +441,7 @@
                 "hu": "A források gőze az esőben különösen misztikus látvány.",
                 "ro": "Aburul izvoarelor pare deosebit de mistic în ploaie.",
                 "en": "The steam from the springs looks especially mystical in the rain.",
-                "bg": "Пару от извори изглежда особено загадъчно при дъжд."
+                "bg": "Парата от извори изглежда особено мистична в дъжда."
               }
             },
             {
@@ -451,7 +451,7 @@
                 "hu": "Csendes, száraz menedék az elmélyüléshez.",
                 "ro": "Un refugiu liniștit și uscat pentru reflecție.",
                 "en": "A quiet, dry retreat for reflection.",
-                "bg": "Тихо, сухо убежище за размисъл."
+                "bg": "Спокойно, сухо място за размишление."
               }
             },
             {
@@ -461,7 +461,7 @@
                 "hu": "Az utak sárosak lehetnek; maradjon a kövezett ösvényeken.",
                 "ro": "Potecile pot fi noroioase; rămâneți pe drumurile pavate.",
                 "en": "Paths can be muddy; stick to the paved walkways.",
-                "bg": "Пътеките могат да са кални; придържайте се към павираните алеи."
+                "bg": "Пътеките могат да са кални; стойте по павираните алеи."
               }
             },
             {
@@ -471,7 +471,7 @@
                 "hu": "Tekintse meg a belső tereket, hogy elkerülje az időjárást.",
                 "ro": "Vizitați interioarele pentru a scăpa de intemperii.",
                 "en": "Tour the interiors to escape the elements.",
-                "bg": "Разгледайте интериорите, за да избегнете елементите на природата."
+                "bg": "Разгледайте интериора, за да избягате от стихията."
               }
             },
             {
@@ -481,7 +481,7 @@
                 "hu": "Ideális zárás egy esős napra a meleg pincében.",
                 "ro": "Finalul ideal pentru o zi ploioasă, în pivnița caldă.",
                 "en": "The ideal end to a wet day in the warm cellar.",
-                "bg": "Идеалният завършек на мокър ден в топлия подземен етаж."
+                "bg": "Идеалният завършек на мокър ден — в топлата изба."
               }
             }
           ],
@@ -511,10 +511,10 @@
               "Time your museum visits for the most intense downpours."
             ],
             "bg": [
-              "Носете водоустойчиви обувки за разходки по пътеките в парка.",
-              "Здрав чадър е от съществено значение поради вятърa на полето.",
+              "Носете водоустойчиви туристически обувки за пътеките в парка.",
+              "Здрав чадър е задължителен заради вятъра на равнината.",
               "Минералните бани са най-доброто убежище при силен дъжд.",
-              "Планирайте посещенията в музея за най-интензивните валежи."
+              "Съобразете времето за посещение на музея с най-силните валежи."
             ]
           }
         },
@@ -524,7 +524,7 @@
             "hu": "Tapasztalja meg a téli Banyát egy fagyos reggelen az emlékműnél. A múzeum melegében felmelegedhetünk, mielőtt a nap fénypontja következne: fürdőzés a forró ásványvízben a téli égbolt alatt. Délután a templom és a királyi villa vár, majd a korai sötétedés miatt a borászat vörösborai mellett zárjuk a napot a kandalló közelében.",
             "ro": "Experimentați Banya iarna, cu un început geros la monument. Muzeul oferă căldura necesară înainte de punctul culminant: baia în apă minerală fierbinte sub cerul liber de iarnă. După-amiaza vizităm biserica și vila regală. Deoarece se întunecă devreme, turul se încheie confortabil cu un vin roșu tare la vinăria locală.",
             "en": "Experience winter in Banya with a frosty start at the monument. The museum provides much-needed warmth before the highlight: soaking in hot mineral water under the winter sky. Visit the church and Royal Villa in the afternoon light. As darkness falls early, the tour ends cozily with bold red wines at the local winery.",
-            "bg": "Изпитайте зимата в Баня с хладно начало при паметника. Музеят дава необходимото топло убежище преди акцента: потапяне в гореща минерална вода под зимното небе. Посетете църквата и Кралската вила в следобедната светлина. Тъй като тъмнината пада рано, обиколката завършва уютно с пълни червени вина в местната винарна."
+            "bg": "Изживейте зимата в Баня с мразовито начало при паметника. Музеят дава необходимата топлина преди кулминацията: къпане в гореща минерална вода под зимното небе. Посетете църквата и Кралската вила следобед. С настъпването на ранната тъмнина турът завършва уютно с плътни червени вина в местната изба."
           },
           "stops": [
             {
@@ -534,7 +534,7 @@
                 "hu": "Gyors megálló; a fémfelületek nagyon hidegek lehetnek.",
                 "ro": "Oprire scurtă; suprafețele metalice pot fi foarte reci.",
                 "en": "Quick stop; metal surfaces can be very cold.",
-                "bg": "Бърза спирка; металните повърхности могат да бъдат много студени."
+                "bg": "Кратка спирка; металните повърхности могат да са много студени."
               }
             },
             {
@@ -544,7 +544,7 @@
                 "hu": "Élvezze a fűtést és a helyi történelmet.",
                 "ro": "Bucurați-vă de căldură și de istoria locală.",
                 "en": "Enjoy the heating and the local history.",
-                "bg": "Насладете се на отоплението и местната история."
+                "bg": "Насладете се на отоплението и на местната история."
               }
             },
             {
@@ -554,7 +554,7 @@
                 "hu": "A forró víz és a hideg levegő kontrasztja csodálatos.",
                 "ro": "Contrastul dintre apa fierbinte și aerul rece este sublim.",
                 "en": "The contrast between hot water and cold air is wonderful.",
-                "bg": "Контрастът между горещата вода и студения въздух е прекрасен."
+                "bg": "Контрастът между горещата вода и студения въздух е чудесен."
               }
             },
             {
@@ -574,7 +574,7 @@
                 "hu": "Gyakran fűtött, jó hely a felmelegedéshez.",
                 "ro": "Aeseori încălzită, un loc bun pentru a vă încălzi.",
                 "en": "Often heated, a good place to warm up.",
-                "bg": "Често отоплявано, добро място за стопляне."
+                "bg": "Често отоплявано, добро място да се стоплите."
               }
             },
             {
@@ -584,7 +584,7 @@
                 "hu": "Figyeljen a korai, 16:30 körüli naplementére.",
                 "ro": "Atenție la apusul devreme, în jurul orei 16:30.",
                 "en": "Note the early sunset around 4:30 PM.",
-                "bg": "Имайте предвид ранния залез около 16:30 ч."
+                "bg": "Обърнете внимание на ранния залез около 16:30."
               }
             },
             {
@@ -594,7 +594,7 @@
                 "hu": "A kertek a zúzmarában különösen elegánsak.",
                 "ro": "Grădinile arată deosebit de elegant în îngheț.",
                 "en": "The gardens look especially elegant in the frost.",
-                "bg": "Градините изглеждат особено елегантни при слана."
+                "bg": "Градините изглеждат особено елегантни в сланата."
               }
             },
             {
@@ -604,7 +604,7 @@
                 "hu": "A vörösbor és a kandalló melege a tökéletes zárás.",
                 "ro": "Vinul roșu și căldura șemineului sunt finalul perfect.",
                 "en": "Red wine and fireplace warmth are the perfect finale.",
-                "bg": "Червеното вино и топлината от камината са перфектният завършек."
+                "bg": "Червеното вино и топлината от камината са перфектният финал."
               }
             }
           ],
@@ -634,10 +634,10 @@
               "Watch out for icy patches on the sidewalks."
             ],
             "bg": [
-              "Носете термо бельо за разходката.",
-              "Халат за баня е задължителен за разходката до басейна.",
-              "Слънцето залязва още към 16:30 ч. през зимата.",
-              "Внимавайте за ледени петна на тротоарите."
+              "Носете термобельо за разходката.",
+              "Халатът е задължителен за пътя до басейна.",
+              "Слънцето залязва още в 16:30 през зимата.",
+              "Внимавайте за заледени участъци по тротоарите."
             ]
           }
         }
@@ -752,7 +752,7 @@
             "hu": "Szent Konstantin és Elena templom",
             "ro": "Biserica Sf. Constantin și Elena",
             "en": "Church of St. Constantine and Helena",
-            "bg": "Църква „Св. Константин и Елена“"
+            "bg": "Църква „Свети Константин и Елена“"
           },
           "coords": [
             24.815,
@@ -771,7 +771,7 @@
             "hu": "Banyai borospince",
             "ro": "Crama Banya",
             "en": "Banya Winery",
-            "bg": "Винарна Баня"
+            "bg": "Изба Баня"
           },
           "coords": [
             24.805,
@@ -790,7 +790,7 @@
         "hu": "Kezdje a biciklis napot egy kellemes tekeréssel a III. Borisz cár parkban, és csodálja meg a királyi villát. A reggeli levegő tökéletes a város zöld oázisainak laza felfedezéséhez.\nDélidőben tekerjen be a központba, hogy meglátogassa a híres Városi Ásványfürdőt, majd a Történeti Múzeumban többet tudjon meg Banya gazdag múltjáról.\nDélután az útvonal a város nevezetességeihez, az Alapítók emlékművéhez és a történelmi Szent Konstantin és Elena templomhoz vezet. Ezek a megállók remek fotózási lehetőségeket kínálnak.\nZárja a kerékpártúrát egy hosszabb tekeréssel a Banyai Borospincéhez. Jutalmazza meg magát egy borkóstolóval, és élvezze a vidéki környezetet, ami tökéletes lezárása egy aktív napnak.",
         "ro": "Începeți ziua de ciclism cu o plimbare relaxantă prin Parcul Țarul Boris al III-lea și admirați Vila Regală. Aerul de dimineață este perfect pentru o explorare relaxată a oazelor verzi ale orașului.\nLa prânz, pedalați spre centru pentru a vizita renumita Baie Minerală Municipală, apoi aflați mai multe despre trecutul bogat al orașului Banya la Muzeul de Istorie.\nDupă-amiaza, traseul vă duce la reperele orașului, Monumentul Fondatorilor și istorica Biserică Sf. Constantin și Elena. Aceste opriri oferă oportunități excelente pentru fotografii.\nÎncheiați turul cu bicicleta cu o plimbare mai lungă până la Crama Banya. Răsplătiți-vă cu o degustare de vinuri și bucurați-vă de peisajul rural, o încheiere perfectă pentru o zi activă.",
         "en": "Start your cycling day with a leisurely ride through Tsar Boris III Park and admire the Royal Villa. The morning air is perfect for a relaxed exploration of the town's green oases.\nAt noon, cycle to the center to visit the famous Municipal Mineral Bath, then learn about Banya's rich past at the Historical Museum.\nIn the afternoon, your route takes you to the town's landmarks, the Monument to the Founders and the historic Church of St. Constantine and Helena. These stops offer great photo opportunities.\nConclude your bike tour with a longer ride to the Banya Winery. Reward yourself with a wine tasting and enjoy the rural surroundings, a perfect end to an active day.",
-        "bg": "Започнете деня си с полека разходка с колело през парк „Цар Борис III“ и се насладете на Кралската вила. Сутрешният въздух е перфектен за отпуснато опознаване на зелените оазиси на града.\nПо обяд, карайте към центъра, за да посетите прочутата Общинска минерална баня, след което научете за богатото минало на Баня в Историческия музей.\nСледобед маршрутът ви отвежда до забележителностите на града — Паметникът на основателите и историческата Църква „Св. Константин и Елена“. Тези спирки предлагат отлични възможности за снимки.\nЗавършете велосипедната си обиколка с по-дълъг преход до Винарна Баня. Възнаградете се с дегустация на вино и се насладете на провинциалната обстановка — перфектен край на активен ден."
+        "bg": "Започнете колоездачния си ден с разходка през парк „Цар Борис III“ и се насладете на Кралската вила. Сутрешният въздух е перфектен за спокойно разглеждане на зелените оазиси на града.\nПо обяд се отправете към центъра, за да посетите прочутата Общинска минерална баня, а след това научете за богатото минало на Баня в Историческия музей.\nСледобед маршрутът ви води към забележителностите на града — Паметникът на основателите и историческата Църква „Свети Константин и Елена“. Тези спирки предлагат отлични възможности за снимки.\nЗавършете велотура си с по-дълго каране до Изба Баня. Възнаградете се с дегустация на вина и се насладете на селската обстановка — перфектен край на активен ден."
       },
       "gastro_picks": {
         "de": [
@@ -988,9 +988,9 @@
           "Plan your route in advance to avoid steep hills unless you're looking for a challenge."
         ],
         "bg": [
-          "Наемете колело от един от местните хотели, ако не носите свое.",
-          "Някои пътища може да нямат отделена велосипедна алея, карайте с внимание.",
-          "Вземете катинар, за да обезопасите колелото си на забележителностите.",
+          "Наемете велосипед от някой от местните хотели, ако не сте си донесли собствен.",
+          "Някои пътища може да нямат отделена велосипедна лента, затова карайте внимателно.",
+          "Вземете катинар, за да заключите колелото си на забележителностите.",
           "Планирайте маршрута си предварително, за да избегнете стръмни хълмове, освен ако не търсите предизвикателство."
         ]
       },
@@ -1001,7 +1001,7 @@
             "hu": "Egy esős kerékpártúra Banyában óvatosságot igényel. A parkban kezdünk, majd a villához tekerünk, kerülgetve a tócsákat. A nap fénypontja a hosszú felmelegedés a fürdőben és a múzeumban. A túra az emlékmű és a templom érintése után a borászatnál ér véget, ahol megszáríthatjuk felszerelésünket.",
             "ro": "O tură cu bicicleta prin Banya pe ploaie necesită prudență. Începem în parc și pedalăm spre vilă, evitând bălțile. Punctul culminant este încălzirea prelungită la băi și muzeu. Turul se încheie după vizitarea monumentului și a bisericii la vinărie, unde ne putem usca echipamentul.",
             "en": "A rainy bike ride through Banya requires caution. We start in the park and cycle to the villa, avoiding puddles. The highlight is a long warm-up at the bath and museum. The tour ends at the winery after visiting the monument and church, where you can dry your gear.",
-            "bg": "Дъждовна разходка с колело из Баня изисква внимание. Започваме в парка и караме към вилата, избягвайки големите локви. Акцентът е дълго затопляне в банята и музея. Турът завършва във винарната след посещение на паметника и църквата, където можете да изсушите екипировката си."
+            "bg": "Дъждовна велоразходка из Баня изисква внимание. Започваме в парка и караме към вилата, като избягваме локвите. Акцентът е дълго топлене в банята и музея. Турът завършва в избата след посещение на паметника и църквата, където можете да изсушите екипировката си."
           },
           "stops": [
             {
@@ -1021,7 +1021,7 @@
                 "hu": "Parkolja a biciklit fa vagy előtető alá.",
                 "ro": "Parcați bicicleta sub un copac sau un copertină.",
                 "en": "Park your bike under a tree or an overhang.",
-                "bg": "Паркирайте колелото си под дърво или навес."
+                "bg": "Паркирайте колелото под дърво или навес."
               }
             },
             {
@@ -1031,7 +1031,7 @@
                 "hu": "Biztonságos tároló elérhető; ideális a felmelegedéshez.",
                 "ro": "Parcare sigură disponibilă; ideal pentru încălzire.",
                 "en": "Safe storage available; ideal for warming up.",
-                "bg": "Налични са сигурни складови помещения; идеални за стопляне."
+                "bg": "Налична е сигурна складова площ; идеална за затопляне."
               }
             },
             {
@@ -1051,7 +1051,7 @@
                 "hu": "Gyors megálló; a fékút vizes aszfalton hosszabb.",
                 "ro": "Oprire scurtă; distanța de frânare pe asfalt ud este mai mare.",
                 "en": "Quick stop; braking distance on wet asphalt is longer.",
-                "bg": "Бърза спирка; спирачният път на мокър асфалт е по-дълъг."
+                "bg": "Кратка спирка; спирачният път на мокър асфалт е по-дълъг."
               }
             },
             {
@@ -1061,7 +1061,7 @@
                 "hu": "Használja rövid ideig a fedett bejárati részt.",
                 "ro": "Folosiți pentru scurt timp zona de intrare acoperită.",
                 "en": "Use the covered entrance area briefly.",
-                "bg": "Използвайте покрития вход за кратко."
+                "bg": "Използвайте покритото входно пространство за кратко."
               }
             },
             {
@@ -1071,7 +1071,7 @@
                 "hu": "Jutalom a bátor esős tekerésért.",
                 "ro": "Răsplată pentru curajul de a pedala prin ploaie.",
                 "en": "Reward for the brave rainy ride.",
-                "bg": "Награда за смелите, карали в дъжда."
+                "bg": "Награда за смелите при дъждовното каране."
               }
             }
           ],
@@ -1101,10 +1101,10 @@
               "The baths are ideal for warming up stiff limbs."
             ],
             "bg": [
-              "Използвайте водоустойчиви багажници за ценностите си.",
-              "Избягвайте рязко спиране на мокър асфалт.",
-              "Ярко облекло повишава видимостта в дъжда.",
-              "Баните са идеални за раздвижване на схванатите крайници."
+              "Използвайте водоустойчиви кошове за ценностите си.",
+              "Избягвайте резко спиране на мокър асфалт.",
+              "Ярко облекло повишава видимостта при дъжд.",
+              "Баните са идеални за отпускащи се схванати мускули."
             ]
           }
         },
@@ -1114,7 +1114,7 @@
             "hu": "Télen kerékpározni Banyában sportos kihívás. A park és a villa varázslatos a zúzmarában. Az útvonalat úgy terveztük, hogy a tekerések között maximális felmelegedési időt tölthessen a fürdőben és a múzeumban. A túra sötétedéskor ér véget a borászat meleg hangulatában.",
             "ro": "Biciclitul în Banya iarna este o provocare sportivă. Parcul și vila par fermecate sub ger. Traseul este conceput pentru a permite timp maxim de încălzire la băi și muzeu între segmentele de pedalat. Turul se încheie la lăsarea întunericului în atmosfera caldă a vinăriei.",
             "en": "Cycling Banya in winter is a sporting challenge. The park and villa look enchanted under the frost. The route is designed to allow maximum warm-up time at the bath and museum between rides. The tour ends at nightfall in the warm atmosphere of the winery.",
-            "bg": "Карането на колело в Баня през зимата е спортно предизвикателство. Паркът и вилата изглеждат омагьосани под сланата. Маршрутът е проектиран да осигури максимално време за затопляне в банята и музея между преходите. Турът завършва при здрачаване в топлата атмосфера на винарната."
+            "bg": "Колоезденето в Баня през зимата е спортно предизвикателство. Паркът и вилата изглеждат омагьосани под сланата. Маршрутът е съставен така, че да позволява максимално време за затопляне в банята и музея между каранията. Турът завършва при здрач в топлата атмосфера на избата."
           },
           "stops": [
             {
@@ -1134,7 +1134,7 @@
                 "hu": "Ne felejtse el a kesztyűt fotózáskor.",
                 "ro": "Nu uitați mănușile când faceți poze.",
                 "en": "Don't forget gloves when taking photos.",
-                "bg": "Не забравяйте ръкавици при снимки."
+                "bg": "Не забравяйте ръкавици, когато правите снимки."
               }
             },
             {
@@ -1144,7 +1144,7 @@
                 "hu": "A legfontosabb megálló a testhőmérséklet megtartásához.",
                 "ro": "Cea mai importantă oprire pentru menținerea temperaturii corpului.",
                 "en": "The most important stop to maintain body temperature.",
-                "bg": "Най-важната спирка за поддържане на телесната температура."
+                "bg": "Най-важната спирка за поддържане на телесна температура."
               }
             },
             {
@@ -1154,7 +1154,7 @@
                 "hu": "Jó alkalom, hogy újra érezze az ujjait.",
                 "ro": "Oportunitate bună de a vă simți din nou degetele.",
                 "en": "Good opportunity to get feeling back in your fingers.",
-                "bg": "Добра възможност да върнете чувствителността в пръстите си."
+                "bg": "Добра възможност да възстановите чувствителността в пръстите си."
               }
             },
             {
@@ -1184,7 +1184,7 @@
                 "hu": "Egy forró tea vagy bor a záráshoz.",
                 "ro": "Un ceai fierbinte sau un vin la final.",
                 "en": "A hot tea or wine to finish.",
-                "bg": "Чай или вино за финал."
+                "bg": "Чаено или вино за финал."
               }
             }
           ],
@@ -1214,10 +1214,10 @@
               "Keep riding times short and warm breaks long."
             ],
             "bg": [
-              "Носете няколко слоя дрехи (принцип на лука).",
-              "Ветроупорни ръкавици и защита за уши са задължителни.",
-              "Имайте предвид съкратените часове на дневна светлина.",
-              "Дръжте времето за каране кратко и почивките за затопляне дълги."
+              "Носете дрехи на слоеве (принцип на лука).",
+              "Ветроустойчиви ръкавици и защита за уши са задължителни.",
+              "Имайте предвид съкратените часове дневна светлина.",
+              "Дръжте времето на каране кратко и паузите за отопление дълги."
             ]
           }
         }
@@ -1294,7 +1294,7 @@
             "hu": "Városi ásványfürdő",
             "ro": "Baia Minerală Municipală",
             "en": "Municipal Mineral Bath",
-            "bg": "Общинска минерална баня"
+            "bg": "Общински минерален басейн"
           },
           "coords": [
             24.8188,
@@ -1332,7 +1332,7 @@
             "hu": "III. Borisz cár park",
             "ro": "Parcul Țarul Boris al III-lea",
             "en": "Tsar Boris III Park",
-            "bg": "Парк „Цар Борис III“"
+            "bg": "Парк „Цар Борис III”"
           },
           "coords": [
             24.822,
@@ -1389,7 +1389,7 @@
         "hu": "Kezdje a napot a központban való parkolással. Egy rövid séta elvezeti az Alapítók emlékművéhez és a Történeti Múzeumhoz. Ez az első klaszter lehetővé teszi, hogy gyalog fedezze fel Banya történelmi szívét.\nDélben a szintén ebben a klaszterben található Városi Ásványfürdő ideális hely a pihenésre. A fürdőzés után autózzon át a második klaszterhez, a III. Borisz cár parkhoz.\nA délutánt a park klaszter felfedezésének szenteljük. Sétáljon végig a buja parkon, és látogassa meg III. Borisz cár királyi villáját, mindezt egy rövid sétára a parkolótól.\nA nap utolsó részében vezessen el a Banyai Borospincéhez. Ez a hosszabb út kivezeti a városközpontból egy pihentető helyre, ahol egy borkóstolóval zárhatja a napot.",
         "ro": "Începeți ziua parcând în centru. O scurtă plimbare vă duce la Monumentul Fondatorilor și la Muzeul de Istorie. Acest prim grup vă permite să explorați pe jos inima istorică a orașului Banya.\nLa prânz, Baia Minerală Municipală, aflată tot în acest grup, este locul ideal pentru o pauză. După ce vă bucurați de baie, conduceți spre al doilea grup, Parcul Țarul Boris al III-lea.\nDupă-amiaza este dedicată explorării grupului parcului. Plimbați-vă prin parcul luxuriant și vizitați Vila Regală a Țarului Boris al III-lea, toate la o scurtă plimbare de locul unde ați parcat.\nPentru ultima parte a zilei, conduceți la Crama Banya. Această călătorie mai lungă vă scoate din centrul orașului într-un loc de relaxare unde puteți încheia ziua cu o degustare de vinuri.",
         "en": "Start your day by parking in the center. A short walk takes you to the Monument to the Founders and the Historical Museum. This first cluster allows you to explore the historic heart of Banya on foot.\nAt midday, the Municipal Mineral Bath, also in this cluster, is the ideal place for a break. After enjoying the bath, drive to the second cluster, Tsar Boris III Park.\nThe afternoon is dedicated to exploring the park cluster. Stroll through the lush park and visit the Royal Villa of Tsar Boris III, all within a short walk from where you parked.\nFor the final part of your day, drive to the Banya Winery. This longer drive takes you out of the town center to a place of relaxation where you can end the day with a wine tasting.",
-        "bg": "Започнете деня си, като паркирате в центъра. Кратка разходка ви отвежда до Паметника на основателите и Историческия музей. Този първи клъстер ви позволява да разгледате историческото сърце на Баня пеша.\nПо обяд Общинската минерална баня, също в този клъстер, е идеалното място за почивка. След наслаждаване на банята, шофирайте към втория клъстер — парк „Цар Борис III“.\nСледобедът е посветен на разглеждане на парка. Разходете се из буйния парк и посетете Кралската вила на цар Борис III, всички на кратко разстояние пеша от мястото, където паркирахте.\nЗа финал на деня, шофирайте до Винарна Баня. Това по-дълго пътуване извежда извън центъра на града до място за релакс, където можете да приключите деня с дегустация на вино."
+        "bg": "Започнете деня, като паркирате в центъра. Кратка разходка ви отвежда до Паметника на основателите и Историческия музей. Този първи клъстер ви позволява да разгледате историческото сърце на Баня пеша.\nВ средата на деня Общинският минерален басейн, също в този клъстер, е идеалното място за почивка. След като се насладите на банята, карайте към втория клъстер — Парк „Цар Борис III”.\nСледобедът е посветен на разглеждане на парка. Разходете се из копринено зелените алеи и посетете Кралската вила на цар Борис III, всичко това на кратка разходка от мястото, където сте паркирали.\nЗа финал на деня отидете с кола до Винарна Баня. Това по-дълго пътуване ви изнася извън центъра до място за отдих, където можете да завършите деня с дегустация на вино."
       },
       "gastro_picks": {
         "de": [
@@ -1588,8 +1588,8 @@
         ],
         "bg": [
           "Паркирането в центъра на града може да е ограничено, така че планирайте предварително.",
-          "Пътищата могат да са тесни, карайте внимателно, особено в по-стари райони.",
-          "Коли дават гъвкавост да посетите и близките тракийски гробници в Долината на розите, ако имате време.",
+          "Пътищата могат да бъдат тесни, карайте внимателно, особено в по-старите райони.",
+          "Кола ви дава гъвкавост да посетите и близките тракийски гробници в Долината на розите, ако имате време.",
           "Внимавайте за пътните знаци, които понякога са само на кирилица."
         ]
       },
@@ -1600,7 +1600,7 @@
             "hu": "Élvezze Banyát kényelmesen az autóból, miközben kint esik. Központilag parkolunk a múzeumhoz és az emlékműhöz. Az ásványvizes fürdő tökéletes benti program. Később a parkhoz és a villához hajtunk, értékelve a rövid távokat az autó és a látnivalók között. A nap biztonságban és szárazon ér véget a borászatnál.",
             "ro": "Bucurați-vă de Banya confortabil din mașină în timp ce afară plouă. Parcăm central pentru muzeu și monument. Băile minerale oferă o activitate indoor perfectă. Mai târziu conducem spre parc și vilă, apreciind distanțele scurte între mașină și obiective. Ziua se încheie în siguranță și uscat la vinărie.",
             "en": "Enjoy Banya comfortably from your car while it rains outside. We park centrally for the museum and monument. The mineral bath offers a perfect indoor activity. Later, drive to the park and villa, appreciating the short distances between the car and the sights. The day ends safely and dry at the winery.",
-            "bg": "Насладете се на Баня удобно от колата, докато навън вали. Паркираме централно за музея и паметника. Минералната баня предлага перфектна закрита активност. По-късно шофирайте до парка и вилата, оценявайки късите разстояния между колата и забележителностите. Денят завършва сигурно и сухо във винарната."
+            "bg": "Наслаждавайте се на Баня удобно от колата, докато вали навън. Паркираме централно за музея и паметника. Минералният басейн предлага перфектна закрита дейност. По-късно караме до парка и вилата, оценявайки късите разстояния между колата и забележителностите. Денят завършва безопасно и сухо във винарната."
           },
           "stops": [
             {
@@ -1630,7 +1630,7 @@
                 "hu": "Szép száraz hely a kultúrához.",
                 "ro": "Un loc uscat și frumos pentru cultură.",
                 "en": "A nice dry place for culture.",
-                "bg": "Хубаво сухо място за култура."
+                "bg": "Уютно сухо място за култура."
               }
             },
             {
@@ -1640,7 +1640,7 @@
                 "hu": "Nagy parkoló közvetlenül az ajtó előtt.",
                 "ro": "Parcare mare chiar în fața ușii.",
                 "en": "Large parking lot right in front of the door.",
-                "bg": "Голям паркинг непосредствено пред вратата."
+                "bg": "Голям паркинг точно пред вратата."
               }
             },
             {
@@ -1670,7 +1670,7 @@
                 "hu": "Szárazon megtekinthető.",
                 "ro": "Vizitarea este posibilă la adăpost.",
                 "en": "Viewing possible in the dry.",
-                "bg": "Възможно е разглеждане на сухо."
+                "bg": "Възможност за разглеждане на закрито."
               }
             },
             {
@@ -1712,8 +1712,8 @@
             "bg": [
               "Внимавайте за аквапланинг по селските пътища.",
               "Не оставяйте мокри чадъри върху тапицерията.",
-              "Използвайте дефрозитора, за да предотвратите запотяване на прозорците.",
-              "Паркирайте в добре осветени зони."
+              "Използвайте дефростера, за да предотвратите изпотяване на стъклата.",
+              "Паркирайте на добре осветени места."
             ]
           }
         },
@@ -1723,7 +1723,7 @@
             "hu": "A téli városnézés Banyában autóval a legkellemesebb. Közvetlenül a fűtött múzeumokhoz és templomokhoz hajtunk. A fő attrakció a forró forrásvízben való fürdőzés, miközben kint repkednek a mínuszok. Az autónak köszönhetően rugalmasak vagyunk, a korai sötétedés előtt még meglátogatjuk a királyi villát, majd visszavonulunk a borászatba.",
             "ro": "Vizitarea orașului Banya iarna este cea mai plăcută cu mașina. Mergem direct la muzeele și bisericile încălzite. Atractia principală este baia în apa termală fierbinte, în timp ce afară e ger. Datorită mașinii, suntem flexibili și putem vizita vila regală înainte de întunericul timpuriu, apoi ne retragem la vinărie.",
             "en": "Winter sightseeing in Banya is most pleasant by car. We drive directly to the heated museums and churches. The absolute highlight is bathing in hot spring water while the frost bites outside. Thanks to the car, we are flexible and can visit the Royal Villa before the early darkness sets in, then retreat to the winery.",
-            "bg": "Зимното разглеждане в Баня е най-приятно с кола. Караме направо до отоплените музеи и църкви. Абсолютният връх е къпането в минерална вода, докато навън духа мраз. Благодарение на колата сме гъвкави и можем да посетим Кралската вила преди да се стъмни, след което да се оттеглим във винарната."
+            "bg": "Зимното разглеждане на Баня е най-приятно с кола. Караме директно до отоплените музеи и църкви. Абсолютният акцент е къпането в гореща минерална вода, докато мразът напада навън. Благодарение на колата сме гъвкави и можем да посетим Кралската вила преди ранната тъмнина, след което да се оттеглим във винарната."
           },
           "stops": [
             {
@@ -1743,7 +1743,7 @@
                 "hu": "Gyors kiszállás egy fotó erejéig.",
                 "ro": "Ieșire scurtă pentru o poză rapidă.",
                 "en": "Short exit for a quick photo.",
-                "bg": "Кратко спиране за бърза снимка."
+                "bg": "Кратко излизане за бърза снимка."
               }
             },
             {
@@ -1773,7 +1773,7 @@
                 "hu": "Hóban nehezebben járható lehet.",
                 "ro": "Poate fi greu accesibil în caz de zăpadă.",
                 "en": "Can be difficult to access in snow.",
-                "bg": "Може да е трудно достъпно при сняг."
+                "bg": "Може да е трудно за достъп при сняг."
               }
             },
             {
@@ -1835,8 +1835,8 @@
             "bg": [
               "Зимни гуми и антифриз са задължителни.",
               "Карайте внимателно при мъгла или снеговалеж.",
-              "Стъргалка за лед трябва да е под ръка.",
-              "Работоспособността на акумулатора спада при силен студ."
+              "Стъргалка за лед трябва да е подръка.",
+              "Работата на акумулатора спада при екстремен студ."
             ]
           }
         }
@@ -1856,7 +1856,7 @@
             "hu": "Központi buszmegálló",
             "ro": "Stație Centrală de Autobuz",
             "en": "Central Bus Stop",
-            "bg": "Централна Автобусна Спирка"
+            "bg": "Централна автобусна спирка"
           },
           "coords": [
             24.816,
@@ -1875,7 +1875,7 @@
             "hu": "Történeti Múzeum",
             "ro": "Muzeul de Istorie",
             "en": "Historical Museum",
-            "bg": "Исторически Музей"
+            "bg": "Исторически музей"
           },
           "coords": [
             24.8175,
@@ -1894,7 +1894,7 @@
             "hu": "Szent Konstantin és Elena templom",
             "ro": "Biserica Sf. Constantin și Elena",
             "en": "Church of St. Constantine and Helena",
-            "bg": "Църква „Св. Константин и Елена“"
+            "bg": "Църква „Свети Константин и Елена”"
           },
           "coords": [
             24.815,
@@ -1913,7 +1913,7 @@
             "hu": "Városi ásványfürdő",
             "ro": "Baia Minerală Municipală",
             "en": "Municipal Mineral Bath",
-            "bg": "Общински Минерален Бед"
+            "bg": "Общински минерален басейн"
           },
           "coords": [
             24.8188,
@@ -1932,7 +1932,7 @@
             "hu": "III. Borisz cár park",
             "ro": "Parcul Țarul Boris al III-lea",
             "en": "Tsar Boris III Park",
-            "bg": "Парк „Цар Борис III“"
+            "bg": "Парк „Цар Борис III”"
           },
           "coords": [
             24.822,
@@ -1951,7 +1951,7 @@
             "hu": "III. Borisz cár királyi villája",
             "ro": "Vila Regală a Țarului Boris al III-lea",
             "en": "Royal Villa of Tsar Boris III",
-            "bg": "Кралска вила на Цар Борис III"
+            "bg": "Кралска вила на цар Борис III"
           },
           "coords": [
             24.823,
@@ -1970,7 +1970,7 @@
         "hu": "Induljon a központi buszmegállóból, és fedezze fel az első klasztert gyalog. Látogasson el a Történeti Múzeumba és a Szent Konstantin és Elena templomba, hogy bepillantást nyerjen a helyi kultúrába.\nDélben pihenjen a Városi Ásványfürdőben, amely könnyen megközelíthető gyalog az első klaszterből. Engedjen meg magának egy hosszú szünetet ebben a történelmi fürdőházban.\nDélután szálljon buszra a második klaszterhez, a III. Borisz cár parkhoz. Élvezze az utazást és a változó tájat. Fedezze fel a parkot és a királyi villát gyalog.\nZárja a napot egy kellemes sétával a parkban, mielőtt visszaszállna a buszra a központba. A tömegközlekedés stresszmentes módot kínál Banya szétszórt látnivalóinak összekötésére.",
         "ro": "Începeți de la stația centrală de autobuz și explorați primul grup pe jos. Vizitați Muzeul de Istorie și Biserica Sf. Constantin și Elena pentru a vă face o idee despre cultura locală.\nLa prânz, relaxați-vă la Baia Minerală Municipală, ușor accesibilă pe jos din primul grup. Acordați-vă o pauză lungă în această baie istorică.\nDupă-amiaza, luați un autobuz către al doilea grup, Parcul Țarul Boris al III-lea. Bucurați-vă de călătorie și de peisajul în schimbare. Explorați parcul și Vila Regală pe jos.\nÎncheiați ziua cu o plimbare relaxantă prin parc înainte de a lua autobuzul înapoi spre centru. Transportul public oferă o modalitate fără stres de a conecta atracțiile dispersate din Banya.",
         "en": "Start at the central bus stop and explore the first cluster on foot. Visit the Historical Museum and the Church of St. Constantine and Helena to get a feel for the local culture.\nAt noon, relax at the Municipal Mineral Bath, easily walkable from the first cluster. Allow for a long break at this historic bath house.\nIn the afternoon, take a bus to the second cluster, Tsar Boris III Park. Enjoy the ride and the changing scenery. Explore the park and the Royal Villa on foot.\nEnd your day with a leisurely stroll in the park before taking the bus back to the center. Public transit offers a stress-free way to connect Banya's spread-out attractions.",
-        "bg": "Започнете от централната автобусна спирка и разгледайте първата група пеша. Посетете Историческия музей и църквата „Св. Константин и Елена“, за да усетите местната култура.\nВ обедните часове се отпуснете в Общинския минерален баня, лесно достижим от първата група. Отделете достатъчно време за дълга почивка в тази историческа баня.\nСледобед хванете автобус към втората група, парк „Цар Борис III“. Насладете се на пътуването и променящия се пейзаж. Разходете се из парка и Кралската вила пеша.\nЗавършете деня с неспешна разходка в парка преди да се върнете с автобуса в центъра. Градският транспорт предлага безстресов начин за свързване на разпръснатите забележителности на Баня."
+        "bg": "Започнете от централната автобусна спирка и разгледайте първия клъстер пеша. Посетете Историческия музей и Църквата „Свети Константин и Елена”, за да усетите местната култура.\nВ обедните часове се отпуснете в Общинския минерален басейн, лесно достъпен пеша от първия клъстер. Отделете дълга почивка в тази историческа баня.\nСледобед хванете автобус до втория клъстер — Парк „Цар Борис III”. Насладете се на пътуването и сменящите се пейзажи. Разгледайте парка и Кралската вила пеша.\nЗавършете деня с разходка из парка, преди да се върнете с автобуса в центъра. Градският транспорт предлага безстресов начин да свържете разположените на разстояние забележителности на Баня."
       },
       "gastro_picks": {
         "de": [
@@ -2168,10 +2168,10 @@
           "Ask locals or the bus driver if you're unsure about the right stop; most are happy to help."
         ],
         "bg": [
-          "Купете дневен билет, ако има такъв, за да спестите при няколко пътувания.",
-          "Проверете разписанието на автобуса предварително, тъй като линиите може да са редки, особено през уикенда.",
-          "Следете вещите си в автобуса и на натоварените спирки.",
-          "Попитайте местните или шофьора, ако не сте сигурни за правилната спирка; повечето с удоволствие ще помогнат."
+          "Купете дневна карта, ако е налична, за да спестите от няколко пътувания.",
+          "Проверете разписанието на автобусите предварително, тъй като курсите може да са рядко, особено уикендите.",
+          "Внимавайте за вещите си в автобуса и на натоварените спирки.",
+          "Попитайте местните или шофьора, ако не сте сигурни за правилната спирка; повечето ще ви помогнат с удоволствие."
         ]
       },
       "variants": {
@@ -2181,7 +2181,7 @@
             "hu": "Használja a helyi buszt Banya felfedezéséhez esőben. A központi megállóból indulunk. A benti célpontokra koncentrálunk, mint a múzeum és a templom. Délben hosszan pihenünk az ásványvizes fürdőben, elmenekülve az időjárás elől. A délutáni parki és villalátogatást rövidre fogjuk, mielőtt kényelmesen lezárjuk a napot.",
             "ro": "Folosiți autobuzul local pentru a explora Banya pe ploaie. Pornirea este de la stația centrală. Ne concentrăm pe destinații indoor, cum ar fi muzeul și biserica. La prânz ne relaxăm mult timp la băile minerale pentru a scăpa de vremea rea. Vizita de după-amiază la parc și vilă va fi scurtă, înainte de a încheia ziua confortabil.",
             "en": "Use the local bus to explore Banya in the rain. Starting from the central stop, we focus on indoor targets like the museum and church. Midday is spent relaxing in the mineral bath to escape the weather. The afternoon park and villa visit is kept brief before a cozy end to the day.",
-            "bg": "Използвайте градския автобус, за да разгледате Баня под дъжда. Тръгвайки от централната спирка, съсредоточаваме се върху закрити обекти като музея и църквата. В средата на деня се отпускаме в минералната баня, за да избегнем лошото време. Следобедната визита на парка и вилата е кратка преди уютен край на деня."
+            "bg": "Използвайте градския автобус, за да разгледате Баня под дъжда. Започвайки от централната спирка, фокусираме се върху закрити цели като музея и църквата. Обедът преминава в релакс в минералната баня, за да избягате от времето. Следобедното посещение на парка и вилата е кратко преди уютния край на деня."
           },
           "stops": [
             {
@@ -2191,7 +2191,7 @@
                 "hu": "Fedett váróterem elérhető.",
                 "ro": "Adăpost acoperit disponibil.",
                 "en": "Covered waiting area available.",
-                "bg": "Налична е покрита чакалня."
+                "bg": "Наличие на покрито чакално място."
               }
             },
             {
@@ -2211,7 +2211,7 @@
                 "hu": "Csendes hely az eső kivárásához.",
                 "ro": "Un loc liniștit pentru a aștepta oprirea ploii.",
                 "en": "A quiet place to wait out the rain.",
-                "bg": "Тихо място, където да изчакате дъжда да премине."
+                "bg": "Спокойно място да преседите дъжда."
               }
             },
             {
@@ -2221,7 +2221,7 @@
                 "hu": "Meleg hangulat, miközben kint vizes minden.",
                 "ro": "Atmosferă caldă în timp ce afară e ud.",
                 "en": "Warm atmosphere while it's wet outside.",
-                "bg": "Топла атмосфера, докато навън е мокро."
+                "bg": "Топла атмосфера, докато вали навън."
               }
             },
             {
@@ -2231,7 +2231,7 @@
                 "hu": "Esőben az utak csúszósak lehetnek.",
                 "ro": "Aleile pot fi alunecoase pe ploaie.",
                 "en": "Paths may be slippery in the rain.",
-                "bg": "Пътеките може да са хлъзгави при дъжд."
+                "bg": "Пътеките може да са хлъзгави в дъжда."
               }
             },
             {
@@ -2241,7 +2241,7 @@
                 "hu": "Ellenőrizze előre a visszautazási időket.",
                 "ro": "Verificați din timp orele de întoarcere.",
                 "en": "Check return times in advance.",
-                "bg": "Проверете връщащите връзки предварително."
+                "bg": "Проверете часовете за връщане предварително."
               }
             }
           ],
@@ -2271,9 +2271,9 @@
               "Stops are mostly near the main attractions."
             ],
             "bg": [
-              "Подгответе дребни за билета.",
-              "Автобусите могат да закъсняват при дъжд.",
-              "Носете водоустойчиви дрехи за разходките между спирките.",
+              "Подгответе дребни пари за билет.",
+              "Автобусите може да закъснеят при дъжд.",
+              "Носете водоулично облекло за разходките между спирките.",
               "Спирките са предимно близо до основните забележителности."
             ]
           }
@@ -2284,7 +2284,7 @@
             "hu": "Téli utazás Banyában tömegközlekedéssel. Fagyosan indulunk a központi megállótól, és gyorsan felmelegedünk a múzeumban. A templom egy újabb meghitt megállót kínál. A nap fénypontja a hosszú időzés a forró ásványvizes fürdőben. Délután ellátogatunk a parkba és a villába, mielőtt a busz még sötétedés előtt visszavinne minket.",
             "ro": "Călătorie de iarnă prin Banya cu transportul public. Începem cu frig la stația centrală și ne încălzim repede la muzeu. Biserica oferă o altă oprire liniștită. Punctul culminant este șederea prelungită la băile termale fierbinți. După-amiaza vizităm parcul și vila, înainte ca autobuzul să ne aducă înapoi înainte de lăsarea întunericului.",
             "en": "Winter journey through Banya by public transport. We start frosty at the central stop and warm up quickly in the museum. The church offers another reflective stop. The absolute highlight is the long stay in the hot mineral bath. Visit the park and villa in the afternoon before the bus takes you back before dark.",
-            "bg": "Зимно пътуване през Баня с градски транспорт. Започваме студено на централната спирка и бързо се затопляме в музея. Църквата предлага още едно спокойно спиране. Абсолютният връх е дългият престой в горещата минерална баня. Посетете парка и вилата следобед преди автобусът да ви върне преди тъмно."
+            "bg": "Зимно пътуване из Баня с обществен транспорт. Започваме на студено от централната спирка и бързо се затопляме в музея. Църквата предлага още една спокойно място за спиране. Абсолютният акцент е дългото престояване в горещия минерален басейн. Посетете парка и вилата следобед, преди автобусът да ви върне преди тъмнина."
           },
           "stops": [
             {
@@ -2294,7 +2294,7 @@
                 "hu": "Öltözzön melegen, a várakozás hideg lehet.",
                 "ro": "Îmbrăcați-vă gros, așteptarea poate fi friguroasă.",
                 "en": "Dress warmly, waiting can be cold.",
-                "bg": "Облечете се топло, изчакването може да е студено."
+                "bg": "Облечете се топло, чакането може да е студено."
               }
             },
             {
@@ -2304,7 +2304,7 @@
                 "hu": "Szép hely, hogy elfelejtse a hideget.",
                 "ro": "Un loc frumos pentru a uita de frig.",
                 "en": "A nice place to forget the cold.",
-                "bg": "Приятно място да забравите за студа."
+                "bg": "Хубаво място да забравите за студа."
               }
             },
             {
@@ -2324,7 +2324,7 @@
                 "hu": "A legjobb megálló, hogy kikergesse a hideget a csontjaiból.",
                 "ro": "Cea mai bună oprire pentru a scoate frigul din oase.",
                 "en": "Best stop to get the cold out of your bones.",
-                "bg": "Най-добрата спирка да се стоплите."
+                "bg": "Най-добрата спирка да излезете от студа."
               }
             },
             {
@@ -2334,7 +2334,7 @@
                 "hu": "A korai szürkület különleges bájt ad a parknak.",
                 "ro": "Amurgul timpuriu oferă parcului un farmec deosebit.",
                 "en": "Early twilight gives the park a special charm.",
-                "bg": "Ранното здрачаване придава на парка специален чар."
+                "bg": "Ранната здрач придава специален чар на парка."
               }
             },
             {
@@ -2375,9 +2375,9 @@
             ],
             "bg": [
               "Вземете предвид възможни промени в разписанието през зимата.",
-              "Дръжте се в движение докато чакате, за да останете топли.",
+              "Движете се, докато чакате, за да останете топли.",
               "Автобусите обикновено са добре отоплени.",
-              "Планирайте деня така, че да приключи преди 17:00."
+              "Планирайте деня да приключи преди 17:00 ч."
             ]
           }
         }
