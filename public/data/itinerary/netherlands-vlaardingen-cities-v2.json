@@ -22,7 +22,7 @@
             "hu": "Kezdés a történelmi Visbanknál (halpiac)",
             "ro": "Începeți de la istoricul Visbank (Piața de pește)",
             "en": "Start at the historic Visbank (Fish Market)",
-            "nl": "Begin bij de historische Visbank"
+            "nl": "Begin bij de historische Visbank (Vismarkt)"
           },
           "coords": [
             4.3468,
@@ -38,7 +38,7 @@
             "hu": "Figyelje meg a régi aukciós órákat, és képzelje el a régi idők kereskedelmét.",
             "ro": "Priviți ceasurile vechi de licitație și imaginați-vă comerțul de altădată.",
             "en": "Observe the old auction clocks and imagine the trade of bygone eras.",
-            "nl": "Observeer de oude veilingklokken en stel je de handel van vroeger voor."
+            "nl": "Bekijk de oude veilingklokken en beeld je de handel van vervlogen tijden in."
           }
         },
         {
@@ -63,7 +63,7 @@
             "hu": "Élvezze a történelmi hajók és a bájos rakpartok látványát.",
             "ro": "Bucurați-vă de vederea navelor istorice și a cheiurilor fermecătoare.",
             "en": "Enjoy the view of the historic ships and charming quay walls.",
-            "nl": "Geniet van het uitzicht op historische schepen en charmante kadewanden."
+            "nl": "Geniet van het uitzicht op de historische schepen en charmante kadewanden."
           }
         },
         {
@@ -113,7 +113,7 @@
             "hu": "Keresse a város történetét ábrázoló lenyűgöző ólomüveg ablakot.",
             "ro": "Căutați vitraliul impresionant care descrie istoria orașului.",
             "en": "Look for the impressive stained-glass window depicting the city's history.",
-            "nl": "Let op het indrukwekkende gebrandschilderde raam dat de geschiedenis van de stad afbeeldt."
+            "nl": "Zoek naar het indrukwekkende glas-in-loodraam dat de geschiedenis van de stad afbeeldt."
           }
         },
         {
@@ -138,7 +138,7 @@
             "hu": "Tökéletes fotóhelyszín, különösen, ha piac van.",
             "ro": "Un loc perfect pentru fotografii, mai ales când are loc piața.",
             "en": "A perfect spot for a photo, especially when the market is on.",
-            "nl": "Een perfecte plek voor een foto, vooral wanneer de markt er is."
+            "nl": "Een perfecte plek voor een foto, vooral wanneer de markt plaatsvindt."
           }
         },
         {
@@ -163,7 +163,7 @@
             "hu": "Bár nem lehet bemenni, az építészete közelről is lenyűgöző.",
             "ro": "Chiar dacă nu puteți intra, arhitectura este impresionantă de aproape.",
             "en": "Even if you can't go inside, the architecture is impressive up close.",
-            "nl": "Ook als je niet naar binnen kunt, is de architectuur van dichtbij indrukwekkend."
+            "nl": "Zelfs als je niet binnen kunt, is de architectuur van dichtbij indrukwekkend."
           }
         },
         {
@@ -197,7 +197,7 @@
         "hu": "A nap Vlaardingenben a történelmi kikötőnegyedben kezdődik, ahol a gazdag halászati múlt életre kel. Délben felfedezheti a városközpontot a lenyűgöző templommal és városházával, majd ellátogat a város múltját bemutató múzeumba. A délután egy zöld parkban tett pihentető sétára van fenntartva, amely békés lezárása a felfedezésnek. Este a helyi konyhát élvezheti a kikötő egyik hangulatos éttermében.",
         "ro": "Ziua dvs. în Vlaardingen începe în cartierul istoric al portului, unde istoria bogată a pescuitului prinde viață. La prânz, explorați centrul orașului cu biserica și primăria sa impresionantă, înainte de a vizita un muzeu dedicat trecutului orașului. După-amiaza este rezervată unei plimbări relaxante printr-un parc verde, oferind o încheiere liniștită explorării dvs. Seara, bucurați-vă de bucătăria locală la unul dintre restaurantele primitoare de lângă port.",
         "en": "Your day in Vlaardingen begins in the historic harbor district, where the rich fishing history comes alive. At midday, you'll explore the city center with its impressive church and city hall before visiting a museum dedicated to the city's past. The afternoon is reserved for a relaxing walk through a green park, providing a peaceful end to your exploration. In the evening, enjoy the local cuisine in one of the cozy restaurants by the harbor.",
-        "nl": "Je dag in Vlaardingen begint in de historische havenwijk, waar de rijke visserijgeschiedenis tot leven komt. Rond het middaguur verken je het stadscentrum met de indrukwekkende kerk en het stadhuis voordat je een museum bezoekt dat aan het verleden van de stad is gewijd. De middag is gereserveerd voor een ontspannende wandeling door een groen park, wat een rustig einde aan je verkenning biedt. ’s Avonds geniet je van de lokale keuken in een van de gezellige restaurants bij de haven."
+        "nl": "Je dag in Vlaardingen begint in de historische havenwijk, waar de rijke visserijgeschiedenis tot leven komt. Rond het middaguur verken je het stadscentrum met de indrukwekkende kerk en het stadhuis voordat je een museum over het stedelijk verleden bezoekt. De namiddag is gereserveerd voor een ontspannen wandeling door een groen park, wat een rustige afsluiting van je verkenning biedt. ’s Avonds geniet je van de lokale keuken in een van de gezellige restaurants aan de haven."
       },
       "gastro_picks": {
         "de": [
@@ -395,10 +395,10 @@
           "Most sights in the center are within easy walking distance."
         ],
         "nl": [
-          "Draag comfortabele schoenen, want de klinkers in de oude straten kunnen ongelijk zijn.",
-          "Controleer vooraf de openingstijden van het museum.",
+          "Draag comfortabele schoenen; de keien in de oude straatjes kunnen ongelijk zijn.",
+          "Controleer van tevoren de openingstijden van het museum.",
           "Een avondwandeling langs de haven is bijzonder sfeervol.",
-          "De meeste bezienswaardigheden in het centrum liggen op loopafstand."
+          "De meeste bezienswaardigheden in het centrum liggen op loopafstand van elkaar."
         ]
       },
       "variants": {
@@ -408,7 +408,7 @@
             "hu": "Reggel: Kezdés az 1792-es Visbank fedett oszlopai alatt. Délben: A Museum Vlaardingen belterei bemutatják a halászmúltat. Délután: A Grote Kerk és a városháza épületei között keresünk menedéket. Este: Rövid séta az esős Oranjeparkban, majd pihenés.",
             "ro": "Dimineața: Începeți sub acoperișul Visbank (1792). Prânz: Muzeul Vlaardingen oferă adăpost și istorie maritimă. După-amiaza: Grote Kerk și Primăria sunt puncte de refugiu în caz de ploaie. Seara: O plimbare rapidă prin Oranjepark încheie traseul.",
             "en": "Morning: Start under the shelter of the 1792 Visbank. Noon: Explore the delta history indoors at Museum Vlaardingen. Afternoon: Use the Grote Kerk and City Hall as stops between showers. Evening: A brief walk in Oranjepark before wrapping up the day.",
-            "nl": "Ochtend: Begin onder de overkapping van de Visbank uit 1792. Middag: Verken de deltageschiedenis binnen in Museum Vlaardingen. Namiddag: Gebruik de Grote Kerk en het Stadhuis als tussenstops bij buien. Avond: Een korte wandeling in Oranjepark voordat je de dag afrondt."
+            "nl": "Ochtend: Begin onder de beschutting van de Visbank uit 1792. Middag: Verken de delta-geschiedenis binnen in Museum Vlaardingen. Namiddag: Gebruik de Grote Kerk en het Stadhuis als tussenstops tussen buien door. Avond: Een korte wandeling in Oranjepark voordat je de dag afrondt."
           },
           "stops": [
             {
@@ -418,7 +418,7 @@
                 "hu": "A halpiac oszlopcsarnoka alatt védve marad az esőtől.",
                 "ro": "Rămâneți sub arcadele pieței de pește pentru a evita ploaia.",
                 "en": "Stay under the fish market's colonnade to remain dry while starting.",
-                "nl": "Blijf onder de zuilengang van de vismarkt om droog te blijven bij de start."
+                "nl": "Blijf onder de colonnade van de vismarkt om droog te blijven bij de start."
               }
             },
             {
@@ -428,7 +428,7 @@
                 "hu": "A kikötői sétány esőben szeles; tartsa erősen az esernyőt.",
                 "ro": "Promenada portului este vântoasă pe ploaie; țineți bine umbrela.",
                 "en": "The harbor quay is windy during rain; hold your umbrella firmly.",
-                "nl": "De havenkade is winderig bij regen; houd je paraplu goed vast."
+                "nl": "De havenkade is winderig bij regen; houd je paraplu stevig vast."
               }
             },
             {
@@ -448,7 +448,7 @@
                 "hu": "Csodálja meg a belső teret, amíg kint elvonul egy zápor.",
                 "ro": "Admirați interiorul în timp ce afară trece o aversă de ploaie.",
                 "en": "Admire the interior while waiting for a rain shower to pass outside.",
-                "nl": "Bewonder het interieur terwijl je buiten wacht tot een regenbui voorbijtrekt."
+                "nl": "Bewonder het interieur terwijl je wacht tot een regenbui buiten voorbijgaat."
               }
             },
             {
@@ -458,7 +458,7 @@
                 "hu": "Rövid megálló a bejáratnál; a homlokzat esőben különlegesen csillog.",
                 "ro": "Scurt popas la intrare; fațada strălucește sub ploaie.",
                 "en": "Short stop at the entrance; the facade has a unique shine in the rain.",
-                "nl": "Kort bezoek bij de ingang; de gevel heeft bij regen een unieke glans."
+                "nl": "Korte stop bij de ingang; de gevel heeft een unieke glans in de regen."
               }
             },
             {
@@ -478,7 +478,7 @@
                 "hu": "Használja az aszfaltozott utakat a sár elkerülése érdekében.",
                 "ro": "Folosiți aleile asfaltate pentru a evita noroiul.",
                 "en": "Stick to the paved paths to avoid mud in the park area.",
-                "nl": "Blijf op de verharde paden om modder in het park te vermijden."
+                "nl": "Blijf op de verharde paden om modder in het parkgebied te vermijden."
               }
             }
           ],
@@ -509,9 +509,9 @@
             ],
             "nl": [
               "Draag waterdichte schoenen voor de kasseien in het stadscentrum.",
-              "De Visbank biedt een van de weinige historische schuilplaatsen bij de haven.",
-              "Museum Vlaardingen is de beste 'Plan B' bij aanhoudende stevige regen.",
-              "Gebruik de cafés bij de Grote Kerk voor opwarmpauzes tussen de stops."
+              "De Visbank biedt een van de weinige historische beschuttingen nabij de haven.",
+              "Museum Vlaardingen is de beste 'Plan B' bij aanhoudende zware regen.",
+              "Maak gebruik van de cafés bij de Grote Kerk voor verwarmende pauzes tussen stops."
             ]
           }
         },
@@ -521,7 +521,7 @@
             "hu": "Reggel: Hideg szél fúj a kikötőnél a Visbank környékén. Délben: A fűtött múzeum kellemes menedéket nyújt. Délután: A Grote Kerk meglátogatása a korai, 16:30-as naplemente előtt. Este: Fagyos séta az Oranjeparkban a nap zárásaként.",
             "ro": "Dimineața: Vânt rece în port lângă Visbank. Prânz: Muzeul încălzit oferă un confort termic binevenit. După-amiaza: Vizitați Grote Kerk înainte de apusul devreme de la 16:30. Seara: O plimbare geroasă în Oranjepark încheie ziua.",
             "en": "Morning: Cold winds bite at the harbor near Visbank. Noon: The heated museum provides welcoming warmth and history. Afternoon: Visit Grote Kerk before the early 4:30 PM sunset. Evening: A frosty walk through Oranjepark concludes the winter itinerary.",
-            "nl": "Ochtend: Koude winden bij de haven nabij Visbank snijden in de huid. Middag: Het verwarmde museum biedt welkome warmte en geschiedenis. Namiddag: Bezoek de Grote Kerk vóór de vroege zonsondergang rond 16:30. Avond: Een ijzige wandeling door het Oranjepark sluit de winterroute af."
+            "nl": "Ochtend: Koude winden snijden bij de haven bij de Visbank. Middag: Het verwarmde museum biedt welkom warmte en geschiedenis. Namiddag: Bezoek de Grote Kerk voor zonsondergang rond 16:30. Avond: Een ijzige wandeling door Oranjepark sluit het wintertraject af."
           },
           "stops": [
             {
@@ -531,7 +531,7 @@
                 "hu": "Öltözzön melegen; a víz közelsége miatt itt hidegebbnek érződik az idő.",
                 "ro": "Îmbrăcați-vă gros; proximitatea apei face locul mai rece.",
                 "en": "Dress warmly; the proximity to the water makes it feel colder here.",
-                "nl": "Kleed je warm; de nabijheid van het water maakt het hier kouder."
+                "nl": "Kleed je warm; de nabijheid van het water doet het kouder aanvoelen."
               }
             },
             {
@@ -541,7 +541,7 @@
                 "hu": "Élvezze a téli kikötői hangulatot egy jó meleg sapkában.",
                 "ro": "Bucurați-vă de atmosfera de iarnă din port cu o căciulă groasă.",
                 "en": "Enjoy the wintry harbor atmosphere with a warm hat against the wind.",
-                "nl": "Geniet van de winterse havenstemming met een warme muts tegen de wind."
+                "nl": "Geniet van de winterse havensfeer met een warme muts tegen de wind."
               }
             },
             {
@@ -551,7 +551,7 @@
                 "hu": "A jól fűtött termekben a legjobb felfedezni a kiállításokat.",
                 "ro": "Săli bine încălzite, perfecte pentru a explora expozițiile pe îndelete.",
                 "en": "Well-heated rooms make this the best spot to warm up at midday.",
-                "nl": "Goed verwarmde kamers maken dit de beste plek om ‘s middags op te warmen."
+                "nl": "Goed verwarmde ruimtes maken dit de beste plek om bij het middaguur op te warmen."
               }
             },
             {
@@ -561,7 +561,7 @@
                 "hu": "A templomok télen hűvösek lehetnek; tartsa magán a kabátot.",
                 "ro": "Bisericile pot fi reci iarna; păstrați haina pe dumneavoastră.",
                 "en": "Churches can be chilly in winter; keep your coat on while inside.",
-                "nl": "Kerken kunnen koud zijn in de winter; houd je jas aan binnen."
+                "nl": "Kerken kunnen koud zijn in de winter; houd je jas aan terwijl je binnen bent."
               }
             },
             {
@@ -581,7 +581,7 @@
                 "hu": "Szép fotótéma a kék órában, délután 4 óra körül.",
                 "ro": "Un subiect foto excelent în ora albastră, în jurul orei 16:00.",
                 "en": "A beautiful photo subject during the blue hour around 4:00 PM.",
-                "nl": "Een prachtig fotomotief tijdens het blauwe uur rond 16:00."
+                "nl": "Een mooi fotomotief tijdens het blauwe uur rond 16:00 uur."
               }
             },
             {
@@ -591,7 +591,7 @@
                 "hu": "Vigyázzon a csúszós szakaszokra a park hídjain.",
                 "ro": "Atenție la porțiunile alunecoase de pe podurile din parc.",
                 "en": "Watch out for slippery spots on the park's bridges and walkways.",
-                "nl": "Let op gladde plekken op de bruggen en paden in het park."
+                "nl": "Let op gladde plekken op de bruggetjes en wandelpaden in het park."
               }
             }
           ],
@@ -622,8 +622,8 @@
             ],
             "nl": [
               "De zonsondergang is al rond 16:30; plan je fotografie eerder.",
-              "Vind warme dranken in de cafés rondom Veerplein.",
-              "Lagen kleding is essentieel omdat de haven veel winderiger is dan het parkgebied.",
+              "Vind warme dranken in de cafés rond Veerplein.",
+              "Laagjeskleding is essentieel, want de haven is veel winderiger dan het parkgebied.",
               "Musea zijn je meest betrouwbare warmtebronnen op deze winterroute."
             ]
           }
@@ -685,7 +685,7 @@
             "hu": "Zárja le biztonságosan a kerékpárját, és szánjon időt a belső térre.",
             "ro": "Încuiați-vă bicicleta în siguranță și acordați-vă timp pentru a explora interiorul.",
             "en": "Lock your bike securely and take time to explore the interior.",
-            "nl": "Beveilig je fiets goed en neem de tijd om het interieur te bekijken."
+            "nl": "Zet je fiets goed op slot en neem de tijd om het interieur te verkennen."
           }
         },
         {
@@ -710,7 +710,7 @@
             "hu": "Parkolja le a kerékpárt, és sétáljon végig a rakparton.",
             "ro": "Parcați bicicleta și plimbați-vă de-a lungul cheiului.",
             "en": "Park your bike and stroll along the quay.",
-            "nl": "Zet je fiets neer en maak een wandeling langs de kade."
+            "nl": "Parkeer je fiets en slenter langs de kade."
           }
         },
         {
@@ -785,7 +785,7 @@
             "hu": "Egy rövid megálló, hogy megcsodálja ezt az ipari műemléket.",
             "ro": "O oprire scurtă pentru a admira acest monument industrial.",
             "en": "A quick stop to admire this industrial landmark.",
-            "nl": "Een korte stop om dit industriële herkenningspunt te bewonderen."
+            "nl": "Een korte stop om dit industrieel monument te bewonderen."
           }
         },
         {
@@ -819,7 +819,7 @@
         "hu": "Kezdje a kerékpáros napot Vlaardingen szívében, felfedezve a központi tereket és templomokat. Délben tekerjen a történelmi kikötőbe, hogy a múzeumban elmerüljön a tengeri múltban. A délután a városközpontból az Oranjepark zöld területeire és a hatalmas Broekpolder területére vezet, amely tökéletes egy hosszabb biciklitúrához. Zárja a napot egy pihentető visszautazással a központba.",
         "ro": "Începeți ziua pe bicicletă în inima orașului Vlaardingen, explorând piețele și bisericile centrale. La prânz, pedalați spre portul istoric pentru a vă cufunda în trecutul maritim la muzeu. După-amiaza vă scoate din centrul orașului în întinderile verzi ale Parcului Oranjepark și în vasta zonă Broekpolder, perfectă pentru o plimbare extinsă cu bicicleta. Încheiați ziua cu o întoarcere relaxantă în centru.",
         "en": "Start your cycling day in the heart of Vlaardingen, exploring the central squares and churches. At midday, pedal to the historic harbor to delve into the maritime past at the museum. The afternoon takes you out of the city center to the green expanses of Oranjepark and the vast Broekpolder area, perfect for an extended bike ride. Conclude the day with a relaxing ride back to the center.",
-        "nl": "Begin je fietstocht in het hart van Vlaardingen en verken de centrale pleinen en kerken. Rond het middaguur fiets je naar de historische haven om in het museum in de maritieme geschiedenis te duiken. De namiddag brengt je buiten het stadscentrum naar de groene uitgestrektheden van het Oranjepark en het ruime Broekpoldergebied, perfect voor een langere fietstocht. Sluit de dag af met een ontspannen rit terug naar het centrum."
+        "nl": "Begin je fietsdag in het hart van Vlaardingen en verken de centrale pleinen en kerken. Rond het middaguur fiets je naar de historische haven om in het museum dieper in het maritieme verleden te duiken. De namiddag brengt je weg uit het centrum naar de groene uitgestrektheden van Oranjepark en het ruime Broekpolder-gebied, perfect voor een langere fietstocht. Sluit de dag af met een ontspannen rit terug naar het centrum."
       },
       "gastro_picks": {
         "de": [
@@ -1017,10 +1017,10 @@
           "Always lock your bike securely, even for short stops."
         ],
         "nl": [
-          "Huur een fiets bij een lokale zaak als je er zelf geen hebt.",
+          "Huur een fiets bij een lokale winkel als je er zelf geen hebt.",
           "Let op de aangewezen fietspaden en lokale verkeersregels.",
-          "Neem een waterfles en snacks mee, vooral voor de rit naar Broekpolder.",
-          "Zet je fiets altijd goed op slot, ook voor korte stops."
+          "Neem een waterfles en wat snacks mee, zeker voor de rit naar Broekpolder.",
+          "Zet je fiets altijd goed op slot, ook bij korte stops."
         ]
       },
       "variants": {
@@ -1030,7 +1030,7 @@
             "hu": "Reggel: Indulás a városházától. Délben: Rövid tekerés a Visbankhoz, majd menekülés a múzeumba. Délután: Biciklizés a Watertoren felé a szemerkélő esőben. Este: Zárás a Broekpolderben, ahol az eső után friss az illat.",
             "ro": "Dimineața: Pornire de la Primărie. Prânz: Scurtă pedalare spre Visbank, apoi adăpost la muzeu. După-amiaza: Tur cu bicicleta spre Watertoren în ciuda burniței. Seara: Final în Broekpolder, unde natura miroase proaspăt după ploaie.",
             "en": "Morning: Start at the City Hall. Noon: Quick ride to Visbank, then seek shelter in the museum. Afternoon: Cycle towards Watertoren through the drizzle. Evening: Wrap up in Broekpolder, where the rain brings out fresh nature scents.",
-            "nl": "Ochtend: Begin bij het Stadhuis. Middag: Korte rit naar Visbank, zoek dan beschutting in het museum. Namiddag: Fiets richting Watertoren door de motregen. Avond: Sluit af in Broekpolder, waar de regen de natuur nieuw leven geeft."
+            "nl": "Ochtend: Begin bij het Stadhuis. Middag: Korte rit naar de Visbank, daarna schuilen in het museum. Namiddag: Fiets richting Watertoren door de motregen. Avond: Sluit af in Broekpolder, waar de regen de natuurverse geuren vrijgeeft."
           },
           "stops": [
             {
@@ -1070,7 +1070,7 @@
                 "hu": "Biztonságos bicikliparkoló közvetlenül a múzeum bejáratánál.",
                 "ro": "Parcare sigură pentru biciclete chiar la intrarea în muzeu.",
                 "en": "Safe bike parking is available right at the museum entrance.",
-                "nl": "Veilige fietsenstalling is direct bij de museumingang beschikbaar."
+                "nl": "Veilige fietsparkeerruimte is direct bij de museumingang beschikbaar."
               }
             },
             {
@@ -1090,7 +1090,7 @@
                 "hu": "Jó rövid megálló, mielőtt kiérne a természetbe.",
                 "ro": "O oprire scurtă bună înainte de a intra în natură.",
                 "en": "A good short stop before heading out into the nature reserve.",
-                "nl": "Een goede korte stop voordat je het natuurgebied intrekt."
+                "nl": "Een goede korte stop voordat je het natuurgebied ingaat."
               }
             },
             {
@@ -1100,7 +1100,7 @@
                 "hu": "Néhány út sáros lehet; a sárvédő használata javasolt.",
                 "ro": "Unele poteci pot fi noroioase; se recomandă apărători de noroi.",
                 "en": "Some paths may be muddy; mudguards are highly recommended here.",
-                "nl": "Sommige paden kunnen modderig zijn; spatborden worden hier sterk aanbevolen."
+                "nl": "Sommige paden kunnen modderig zijn; spatborden worden hier sterk aangeraden."
               }
             }
           ],
@@ -1131,9 +1131,9 @@
             ],
             "nl": [
               "Een regenponcho is praktischer dan een paraplu tijdens het fietsen.",
-              "Vermijd plots remmen op natte kasseien in het centrum.",
-              "Gebruik de Visbank-beschutting voor een korte hydratatiepauze uit de regen.",
-              "Zet je verlichting aan, want het zicht is vaak slecht tijdens buien."
+              "Vermijd plots remmen op natte keien in het centrum.",
+              "Gebruik de schuilplek bij de Visbank voor een korte hydratatiepauze uit de regen.",
+              "Zet je verlichting aan, want zicht is vaak slecht tijdens buien."
             ]
           }
         },
@@ -1143,7 +1143,7 @@
             "hu": "Reggel: Hideg szél a városházánál. Délben: Teherés a múzeumba melegedni. Délután: Gurulás a fagyos Oranjeparkon át a Watertoren felé. Este: Bátor túra a Broekpolderben, ahol a táj szikrázik a téli fényben.",
             "ro": "Dimineața: Adiere rece la Primărie. Prânz: Pedalare spre muzeu pentru încălzire. După-amiaza: Trecere prin Oranjepark-ul înghețat spre Watertoren. Seara: Tur curajos prin Broekpolder, unde peisajul sclipește în lumina iernii.",
             "en": "Morning: Cold breeze at City Hall. Noon: Cycle to the museum to warm up. Afternoon: Ride through the frosty Oranjepark towards Watertoren. Evening: A brave tour of Broekpolder, where the landscape sparkles in winter light.",
-            "nl": "Ochtend: Koude bries bij het Stadhuis. Middag: Fiets naar het museum om op te warmen. Namiddag: Rijd door het frisse Oranjepark richting Watertoren. Avond: Een dappere tocht door Broekpolder, waar het landschap in winterlicht fonkelt."
+            "nl": "Ochtend: Koude bries bij het Stadhuis. Middag: Fiets naar het museum om op te warmen. Namiddag: Rijd door het ijzige Oranjepark richting Watertoren. Avond: Een dappere tour door Broekpolder, waar het landschap fonkelt in het winterlicht."
           },
           "stops": [
             {
@@ -1153,7 +1153,7 @@
                 "hu": "Ilyen hőmérséklet mellett a kesztyű kötelező a biciklin.",
                 "ro": "Mănușile sunt obligatorii pe bicicletă la aceste temperaturi.",
                 "en": "Gloves are mandatory at these temperatures while cycling.",
-                "nl": "Handschoenen zijn verplicht bij deze temperaturen tijdens het fietsen."
+                "nl": "Handschoenen zijn bij deze temperaturen verplicht tijdens het fietsen."
               }
             },
             {
@@ -1173,7 +1173,7 @@
                 "hu": "A víz felől fújó szél jelentősen csökkentheti a hőérzetet.",
                 "ro": "Vântul de pe apă poate scădea semnificativ temperatura resimțită.",
                 "en": "The wind coming off the water can lower the perceived temperature.",
-                "nl": "De wind van het water kan de gevoelstemperatuur verlagen."
+                "nl": "De wind vanaf het water kan de gevoelstemperatuur doen dalen."
               }
             },
             {
@@ -1183,7 +1183,7 @@
                 "hu": "Ideális hely az ujjak átmelegítésére.",
                 "ro": "Un loc ideal pentru a vă reîncălzi degetele.",
                 "en": "An ideal location to get your fingers warm again.",
-                "nl": "Een ideale plek om je vingers weer warm te krijgen."
+                "nl": "Een ideale plek om je handen weer op te warmen."
               }
             },
             {
@@ -1203,7 +1203,7 @@
                 "hu": "Rövid fotómegálló; tartsa röviden a kinti tartózkodást.",
                 "ro": "Oprire scurtă pt. foto; limitați timpul petrecut în exterior.",
                 "en": "Short photo stop; keep your time spent outdoors brief.",
-                "nl": "Korte fotostop; beperk je tijd buiten."
+                "nl": "Korte fotopause; houd je tijd buiten kort."
               }
             },
             {
@@ -1243,9 +1243,9 @@
               "Use your rear light even during the day for better visibility."
             ],
             "nl": [
-              "Draag winddichte kleding, vooral voor het Broekpoldergebied.",
+              "Draag winddichte kleding, vooral in het Broekpoldergebied.",
               "Controleer de bandenspanning; iets lagere druk helpt grip op ijs.",
-              "De route is in de winter erg rustig; geniet van de vredige sfeer.",
+              "De route is in de winter erg rustig; geniet van de rustige sfeer.",
               "Gebruik je achterlicht ook overdag voor betere zichtbaarheid."
             ]
           }
@@ -1266,7 +1266,7 @@
             "hu": "1. klaszter: Parkolás és a Broekpolder felfedezése",
             "ro": "Cluster 1: Parcare și explorare Broekpolder",
             "en": "Cluster 1: Park & Explore Broekpolder",
-            "nl": "Cluster 1: Parkeer & verken Broekpolder"
+            "nl": "Cluster 1: Parkeer & Verken Broekpolder"
           },
           "coords": [
             4.3215,
@@ -1291,7 +1291,7 @@
             "hu": "2. klaszter: Irány a központ, parkolás az Oranjeparknál",
             "ro": "Cluster 2: Conduceți spre centru, parcați la Oranjepark",
             "en": "Cluster 2: Drive to Center, Park at Oranjepark",
-            "nl": "Cluster 2: Rijd naar het centrum, parkeer bij Oranjepark"
+            "nl": "Cluster 2: Rijd naar Centrum, parkeer bij Oranjepark"
           },
           "coords": [
             4.3599,
@@ -1308,7 +1308,7 @@
             "hu": "Jó, központi parkolóhely, ahonnan gyalogosan felfedezhető a városközpont.",
             "ro": "O parcare bună și centrală de unde puteți explora centrul orașului pe jos.",
             "en": "A good, central parking spot from which to explore the city center on foot.",
-            "nl": "Een goede, centrale parkeerplek van waaruit je het stadscentrum te voet verkent."
+            "nl": "Een goede, centrale parkeerplek vanwaar je het centrum te voet kunt verkennen."
           }
         },
         {
@@ -1386,7 +1386,7 @@
             "hu": "Tervezze ide az ebédszünetet, a múzeumi kávézó nagyon ajánlott.",
             "ro": "Planificați-vă pauza de prânz aici, cafeneaua muzeului este foarte recomandată.",
             "en": "Plan your lunch break here; the museum cafe is highly recommended.",
-            "nl": "Plan hier je lunchpauze; het museumcafé wordt zeer aanbevolen."
+            "nl": "Plan hier je lunchpauze; het museumcafé is zeer aan te raden."
           }
         },
         {
@@ -1447,7 +1447,7 @@
         "hu": "Az autós nap egy természeti élménnyel kezdődik a tágas Broekpolderben. Egy reggeli séta után a központba hajt, és az Oranjepark közelében parkol. Innen gyalogosan fedezi fel Vlaardingen történelmi magját: a víztornyot, a városházát, a templomot és a múzeumot. A délutánt egy kellemes sétával tölti a kikötő mentén, mielőtt visszatérne az autójához.",
         "ro": "Ziua cu mașina începe cu o experiență în natură în vastul Broekpolder. După o plimbare de dimineață, conduceți spre centru și parcați lângă Oranjepark. De acolo, explorați pe jos nucleul istoric al orașului Vlaardingen: turnul de apă, primăria, biserica și muzeul. Petreceți după-amiaza cu o plimbare agale de-a lungul portului înainte de a vă întoarce la mașină.",
         "en": "Your car day begins with a nature experience in the spacious Broekpolder. After a morning walk, you drive to the center and park near Oranjepark. From there, you explore Vlaardingen's historic core on foot: the water tower, city hall, church, and museum. You'll spend the afternoon with a leisurely stroll along the harbor before returning to your car.",
-        "nl": "Je autodag begint met een natuurervaring in het ruime Broekpolder. Na een ochtendwandeling rijd je naar het centrum en parkeer je bij Oranjepark. Vanaf daar verken je het historische hart van Vlaardingen te voet: de watertoren, het stadhuis, de kerk en het museum. De middag breng je door met een rustige wandeling langs de haven voordat je terug naar je auto gaat."
+        "nl": "Je autodag begint met een natuurervaring in het ruime Broekpolder. Na een ochtendwandeling rijd je naar het centrum en parkeer je bij Oranjepark. Vanaf daar verken je Vlaardingens historische kern te voet: de watertoren, het stadhuis, de kerk en het museum. Je brengt de namiddag door met een ontspannen wandeling langs de haven voordat je terugkeert naar je auto."
       },
       "gastro_picks": {
         "de": [
@@ -1645,9 +1645,9 @@
           "Do not leave valuables visible in the car."
         ],
         "nl": [
-          "Betaald parkeren kan van toepassing zijn in het centrum. Een dagkaart is vaak voordeliger.",
-          "Plan je route van tevoren om verkeersdrukte te vermijden.",
-          "De auto is het meest geschikt om de verder gelegen natuurgebieden zoals Broekpolder te bereiken.",
+          "Parkeerkosten kunnen gelden in het centrum. Een dagkaart is vaak goedkoper.",
+          "Plan je route van tevoren om files te vermijden.",
+          "De auto is het handigst om de verder gelegen natuurgebieden zoals Broekpolder te bereiken.",
           "Laat geen waardevolle spullen zichtbaar in de auto liggen."
         ]
       },
@@ -1658,7 +1658,7 @@
             "hu": "Reggel: Autózás a Broekpolderhez, a természet élvezete a kocsiból. Délben: Rövid utak az Oranjepark és a Watertoren között. Délután: Parkolás a múzeum közelében, hogy szárazon maradjunk. Este: Zárás a kikötőben, a Westhavenkadenál.",
             "ro": "Dimineața: Conducerea spre Broekpolder, bucurați-vă de natură din mașină. Prânz: Drumuri scurte între Oranjepark și Watertoren. După-amiaza: Parcare lângă muzeu pentru a rămâne uscat. Seara: Final în port, la Westhavenkade.",
             "en": "Morning: Drive to Broekpolder, enjoy nature from the car. Noon: Short trips between Oranjepark and Watertoren. Afternoon: Park near the museum to stay dry. Evening: Wrap up at the harbor near Westhavenkade.",
-            "nl": "Ochtend: Rijd naar Broekpolder, geniet vanuit de auto van de natuur. Middag: Korte ritjes tussen Oranjepark en Watertoren. Namiddag: Parkeer bij het museum om droog te blijven. Avond: Sluit af bij de haven bij Westhavenkade."
+            "nl": "Ochtend: Rijd naar Broekpolder, geniet van de natuur vanuit de auto. Middag: Korte ritjes tussen Oranjepark en Watertoren. Namiddag: Parkeer bij het museum om droog te blijven. Avond: Sluit af bij de haven bij Westhavenkade."
           },
           "stops": [
             {
@@ -1668,7 +1668,7 @@
                 "hu": "Parkoljon szilárd burkolaton, hogy ne ragadjon a sárba.",
                 "ro": "Parcați pe suprafețe consolidate pentru a nu rămâne în noroi.",
                 "en": "Park on paved areas to avoid getting stuck in the mud.",
-                "nl": "Parkeer op verharde plekken om vastzitten in de modder te voorkomen."
+                "nl": "Parkeer op verharde stukken om te voorkomen dat je vast komt te zitten in de modder."
               }
             },
             {
@@ -1678,7 +1678,7 @@
                 "hu": "Használja a park bejáratához legközelebbi parkolóhelyeket.",
                 "ro": "Folosiți locurile de parcare cu acces direct spre intrarea în parc.",
                 "en": "Use parking spots with direct access to the park entrance.",
-                "nl": "Gebruik parkeerplaatsen met directe toegang tot de parkingang."
+                "nl": "Gebruik parkeerplaatsen met directe toegang tot de parkentree."
               }
             },
             {
@@ -1688,7 +1688,7 @@
                 "hu": "Az ablakból nagyszerű kilátás nyílik a toronyra.",
                 "ro": "De la fereastră aveți o vedere excelentă asupra turnului.",
                 "en": "You get a great view of the tower right from your car window.",
-                "nl": "Je hebt een prachtig uitzicht op de toren direct vanuit je autoruit."
+                "nl": "Je hebt een prachtig uitzicht op de toren meteen vanuit je autoruit."
               }
             },
             {
@@ -1698,7 +1698,7 @@
                 "hu": "A belvárosi parkolóházak védelmet nyújtanak kiszálláskor.",
                 "ro": "Parcările etajate din centru oferă protecție la coborâre.",
                 "en": "Central parking garages provide shelter when getting out of the car.",
-                "nl": "Centrale parkeergarages bieden beschutting bij het uit- en instappen."
+                "nl": "Centrale parkeergarages bieden beschutting bij het uitstappen uit de auto."
               }
             },
             {
@@ -1708,7 +1708,7 @@
                 "hu": "Hagyja az ernyőket a kocsiban, ha közel parkol a bejárathoz.",
                 "ro": "Lăsați umbrelele în mașină dacă parcați aproape de intrare.",
                 "en": "Leave umbrellas in the car if you find a spot close to the entrance.",
-                "nl": "Laat paraplu’s in de auto als je een plek vlakbij de ingang vindt."
+                "nl": "Laat paraplu's in de auto als je een plek dicht bij de ingang vindt."
               }
             },
             {
@@ -1718,7 +1718,7 @@
                 "hu": "A kikötői sétány esőben hangulatosan van kivilágítva.",
                 "ro": "Promenada portului este iluminată atmosferic pe ploaie.",
                 "en": "The harbor promenade is atmospherically lit during rain.",
-                "nl": "De boulevard bij de haven is sfeervol verlicht tijdens regen."
+                "nl": "De havenpromenade is sfeervol verlicht tijdens regen."
               }
             },
             {
@@ -1728,7 +1728,7 @@
                 "hu": "Rövid megálló; ügyeljen az egyirányú utcákra a kikötőben.",
                 "ro": "Oprire scurtă; atenție la străzile cu sens unic din port.",
                 "en": "Short stop; watch out for one-way streets in the harbor area.",
-                "nl": "Korte stop; let op eenrichtingswegen in het havengebied."
+                "nl": "Korte stop; let op eenrichtingsstraten in het havengebied."
               }
             }
           ],
@@ -1759,9 +1759,9 @@
             ],
             "nl": [
               "Gebruik parkeergarage 'Liesveld' voor centrale, droge toegang.",
-              "Let op grote plassen nabij de Westhavenkade.",
-              "De auto dient als perfect mobiel onderkomen tussen bezienswaardigheden.",
-              "Controleer de ruitenwissers voordat u het Broekpolder-gebied verlaat."
+              "Let op grote plassen bij de Westhavenkade.",
+              "De auto dient als perfect mobiel toevluchtsoord tussen bezienswaardigheden.",
+              "Controleer de ruitenwissers voordat je het Broekpoldergebied verlaat."
             ]
           }
         },
@@ -1771,7 +1771,7 @@
             "hu": "Reggel: Autózás a ködös Broekpolderben. Délben: Melegedés a kocsiban az Oranjepark felé menet. Délután: A múzeum és a történelmi óváros meglátogatása. Este: Kilátás a kivilágított kikötőre a Westhavenkadenál.",
             "ro": "Dimineața: Conducere prin Broekpolder-ul cețos. Prânz: Pauză de încălzire în mașină spre Oranjepark. După-amiaza: Vizitarea muzeului și a centrului istoric. Seara: Vedere spre portul iluminat la Westhavenkade.",
             "en": "Morning: Drive through the misty Broekpolder. Noon: Warm-up break in the car on the way to Oranjepark. Afternoon: Visit the museum and the historic old town. Evening: View the illuminated harbor at Westhavenkade.",
-            "nl": "Ochtend: Rijd door het mistige Broekpolder. Middag: Warme pauze in de auto op weg naar Oranjepark. Namiddag: Bezoek het museum en het historische oude centrum. Avond: Bekijk de verlichte haven bij Westhavenkade."
+            "nl": "Ochtend: Rijd door het mistige Broekpolder. Middag: Opwarmpauze in de auto onderweg naar Oranjepark. Namiddag: Bezoek het museum en de historische oude stad. Avond: Bekijk de verlichte haven bij Westhavenkade."
           },
           "stops": [
             {
@@ -1781,7 +1781,7 @@
                 "hu": "A parkolók reggelente csúszósak lehetnek.",
                 "ro": "Parcările pot fi alunecoase dimineața.",
                 "en": "Parking lots can be slippery in the early morning hours.",
-                "nl": "Parkeerplaatsen kunnen in de vroege ochtenduren glad zijn."
+                "nl": "Parkeerplaatsen kunnen glad zijn in de vroege ochtenduren."
               }
             },
             {
@@ -1791,7 +1791,7 @@
                 "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
                 "ro": "Nu lăsați motorul pornit inutil în staționare.",
                 "en": "Do not leave the engine idling unnecessarily while parked.",
-                "nl": "Laat de motor niet onnodig stationair draaien tijdens het parkeren."
+                "nl": "Laat de motor niet onnodig stationair lopen tijdens het parkeren."
               }
             },
             {
@@ -1811,7 +1811,7 @@
                 "hu": "A történelmi épületek este ünnepi kivilágítást kapnak.",
                 "ro": "Clădirile istorice sunt iluminate festiv seara.",
                 "en": "The historic buildings are festively lit in the evenings.",
-                "nl": "De historische gebouwen zijn ’s avonds feestelijk verlicht."
+                "nl": "De historische gebouwen zijn 's avonds feestelijk verlicht."
               }
             },
             {
@@ -1821,7 +1821,7 @@
                 "hu": "Élvezze az előmelegített autó kényelmét a látogatás után.",
                 "ro": "Bucurați-vă de confortul unei mașini preîncălzite după vizită.",
                 "en": "Enjoy the comfort of a pre-warmed car after your museum visit.",
-                "nl": "Geniet van het comfort van een voorverwarmde auto na uw museumbezoek."
+                "nl": "Geniet van het comfort van een voorverwarmde auto na je museumbezoek."
               }
             },
             {
@@ -1831,7 +1831,7 @@
                 "hu": "Parkoljon a kikötőre néző helyen a hangulatos panorámáért.",
                 "ro": "Parcați cu vedere la port pentru o panoramă primitoare.",
                 "en": "Park with a view of the harbor for a cozy winter panorama.",
-                "nl": "Parkeer met uitzicht op de haven voor een knap winters panorama."
+                "nl": "Parkeer met uitzicht op de haven voor een knus winterpanorama."
               }
             },
             {
@@ -1871,10 +1871,10 @@
               "Sunset is early; city lights are most beautiful after 5 PM."
             ],
             "nl": [
-              "Controleer het antivriesgehalte van uw ruitensproeiervloeistof.",
-              "Wees voorzichtig met ijs op de kleine bruggetjes binnen het stadsgebied.",
+              "Controleer de antivries in je ruitensproeiervloeistof.",
+              "Wees voorzichtig met ijs op de kleine bruggetjes binnen de stad.",
               "Gebruik stoelverwarming voor korte ritten tussen bezienswaardigheden.",
-              "De zon gaat vroeg onder; stadslichten zijn het mooist na 17:00 uur."
+              "De zon gaat vroeg onder; de stadsverlichting is het mooist na 17:00."
             ]
           }
         }
@@ -1936,7 +1936,7 @@
             "hu": "Kezdje a sétát ezeknél a központi nevezetességeknél.",
             "ro": "Începeți turul pietonal de la aceste repere centrale.",
             "en": "Start your walking tour at these central landmarks.",
-            "nl": "Begin uw wandelroute bij deze centrale bezienswaardigheden."
+            "nl": "Begin je wandelroute bij deze centrale bezienswaardigheden."
           }
         },
         {
@@ -1962,7 +1962,7 @@
             "hu": "Érezze át ennek a történelmi kikötőnegyednek a tengeri hangulatát.",
             "ro": "Simțiți atmosfera maritimă a acestui cartier portuar istoric.",
             "en": "Feel the maritime atmosphere of this historic harbor district.",
-            "nl": "Voel de maritieme sfeer van dit historische havengebied."
+            "nl": "Voel de maritieme sfeer van deze historische havenwijk."
           }
         },
         {
@@ -1988,7 +1988,7 @@
             "hu": "Kötelező a helyi történelem megértéséhez. Könnyen elérhető gyalog.",
             "ro": "O vizită obligatorie pentru a înțelege istoria locală. Ușor accesibil pe jos.",
             "en": "A must-visit to understand local history. Easily reachable on foot.",
-            "nl": "Een must-visit om de lokale geschiedenis te begrijpen. Gemakkelijk te voet bereikbaar."
+            "nl": "Een must-visit om de lokale geschiedenis te begrijpen. Goed te bereiken te voet."
           }
         },
         {
@@ -2014,7 +2014,7 @@
             "hu": "Menjen busszal egy rövid útra a parkba egy pihentető ebédszünetért.",
             "ro": "Luați un autobuz pentru o călătorie scurtă până la parc pentru o pauză de prânz relaxantă.",
             "en": "Take a bus for a short ride to the park for a relaxing lunch break.",
-            "nl": "Neem een bus voor een korte rit naar het park voor een ontspannende lunchpauze."
+            "nl": "Neem de bus voor een korte rit naar het park voor een ontspannende lunchpauze."
           }
         },
         {
@@ -2040,7 +2040,7 @@
             "hu": "Sétáljon még egyet a központban, mielőtt vonatra száll.",
             "ro": "Mai faceți o plimbare prin centru înainte de a lua trenul.",
             "en": "Take one last stroll through the center before catching your train.",
-            "nl": "Maak nog een laatste wandeling door het centrum voordat u de trein neemt."
+            "nl": "Maak een laatste wandeling door het centrum voordat je de trein haalt."
           }
         }
       ],
@@ -2049,7 +2049,7 @@
         "hu": "A nap a Vlaardingen Centrum állomásra érkezéssel kezdődik. Innen kényelmesen, gyalogosan fedezheti fel a város történelmi szívét, meglátogatva a templomot, a városházát és a kikötőnegyedet. A múzeumban elköltött ebéd után busszal megy az Oranjeparkba egy pihentető délutánra a zöldben. Egy másik busz visszaviszi a központba, ahol még van ideje egy utolsó sétára, mielőtt hazaindul.",
         "ro": "Ziua începe cu sosirea la stația Vlaardingen Centrum. De acolo, explorați inima istorică a orașului confortabil pe jos, vizitând biserica, primăria și cartierul portuar. După prânzul la muzeu, luați un autobuz spre Oranjepark pentru o după-amiază relaxantă în natură. Un alt autobuz vă duce înapoi în centru, unde aveți timp pentru o ultimă plimbare înainte de a pleca spre casă.",
         "en": "Your day starts with arrival at Vlaardingen Centrum station. From there, you comfortably explore the historic heart of the city on foot, visiting the church, city hall, and harbor district. After lunch at the museum, you take a bus to Oranjepark for a relaxing afternoon in the green. Another bus takes you back to the center, where you have time for one last stroll before heading home.",
-        "nl": "Uw dag begint met aankomst bij station Vlaardingen Centrum. Vanaf daar verkent u comfortabel te voet het historische hart van de stad, met kerk, stadhuis en het havenkwartier. Na de lunch in het museum neemt u de bus naar Oranjepark voor een ontspannen middag in het groen. Met de bus terug naar het centrum heeft u nog tijd voor een laatste wandeling voordat u naar huis gaat."
+        "nl": "Je dag begint met aankomst op station Vlaardingen Centrum. Vanaf daar verken je comfortabel het historische hart van de stad te voet, met bezoek aan de kerk, het stadhuis en de havenwijk. Na de lunch in het museum neem je de bus naar Oranjepark voor een ontspannen namiddag in het groen. Met een volgende bus keer je terug naar het centrum, waar je nog tijd hebt voor een laatste wandeling voordat je naar huis gaat."
       },
       "gastro_picks": {
         "de": [
@@ -2249,8 +2249,8 @@
         "nl": [
           "Koop een OV-chipkaart of een dagkaart voor gemakkelijk gebruik van het openbaar vervoer.",
           "Controleer de bustijden van tevoren, vooral in het weekend.",
-          "Houd kleingeld bij de hand voor bustickets als u niet van tevoren koopt.",
-          "De meeste bussen hebben schermen die de volgende haltes tonen."
+          "Houd kleingeld klaar voor bustickets als je niet van tevoren koopt.",
+          "De meeste bussen hebben schermen met de volgende haltes."
         ]
       },
       "variants": {
@@ -2260,7 +2260,7 @@
             "hu": "Reggel: Érkezés a Vlaardingen Centrum vasútállomásra. Délben: Rövid utak a városmagban a templom és a városháza között. Délután: Buszozás az Oranjeparkhoz az esőszünetek kihasználásával. Este: Visszatérés az állomásra és a túra zárása.",
             "ro": "Dimineața: Sosire la stația Vlaardingen Centrum. Prânz: Trasee scurte în centrul orașului între biserică și primărie. După-amiaza: Călătorie cu autobuzul spre Oranjepark. Seara: Revenire la stație și încheierea turului.",
             "en": "Morning: Arrive at Vlaardingen Centrum station. Noon: Short walks in the city core between the church and City Hall. Afternoon: Bus ride to Oranjepark, timed with rain breaks. Evening: Return to the station to wrap up the day.",
-            "nl": "Ochtend: Aankomst bij Vlaardingen Centrum. Middag: Korte wandelingen in het stadscentrum tussen de kerk en het Stadhuis. Namiddag: Busrit naar Oranjepark, afgestemd op regenpauzes. Avond: Terug naar het station om de dag af te ronden."
+            "nl": "Ochtend: Aankomst bij station Vlaardingen Centrum. Middag: Korte wandelingen in het stadscentrum tussen de kerk en het stadhuis. Middag/late middag: Busrit naar Oranjepark, afgestemd op regenpauzes. Avond: Terug naar het station om de dag af te sluiten."
           },
           "stops": [
             {
@@ -2270,7 +2270,7 @@
                 "hu": "A peron részben fedett; várjon a védett részen.",
                 "ro": "Peronul este parțial acoperit; așteptați la adăpost.",
                 "en": "The platform is partially covered; wait under the shelter.",
-                "nl": "Het perron is gedeeltelijk overdekt; wacht onder de beschutting."
+                "nl": "Het perron is deels overdekt; wacht onder het afdak."
               }
             },
             {
@@ -2280,7 +2280,7 @@
                 "hu": "Csak pár perc séta a vasútállomástól.",
                 "ro": "La doar câteva minute de mers pe jos de gară.",
                 "en": "Only a few minutes' walk from the train station.",
-                "nl": "Slechts een paar minuten lopen van het treinstation."
+                "nl": "Slechts een paar minuten lopen vanaf het treinstation."
               }
             },
             {
@@ -2290,7 +2290,7 @@
                 "hu": "Használja a Visbankot gyülekezőhelyként záporok idején.",
                 "ro": "Folosiți Visbank ca punct de adunare în timpul averselor.",
                 "en": "Use the Visbank as a meeting point during rain showers.",
-                "nl": "Gebruik de Visbank als ontmoetingspunt tijdens regenbuien."
+                "nl": "Gebruik de Visbank als ontmoetingspunt tijdens buien."
               }
             },
             {
@@ -2300,7 +2300,7 @@
                 "hu": "Jó összeköttetés a közeli helyi buszjáratokkal.",
                 "ro": "Conexiuni bune cu liniile de autobuz locale din apropiere.",
                 "en": "Good connections to local bus lines are available nearby.",
-                "nl": "Goede aansluitingen op lokale buslijnen zijn in de buurt beschikbaar."
+                "nl": "Goede aansluitingen op lokale buslijnen in de buurt."
               }
             },
             {
@@ -2310,7 +2310,7 @@
                 "hu": "Várjon a buszváróban, hogy száraz maradjon.",
                 "ro": "Așteptați în stația de autobuz pentru a rămâne uscat.",
                 "en": "Wait inside the bus shelter to stay dry while waiting.",
-                "nl": "Wacht binnen het bushokje om droog te blijven tijdens het wachten."
+                "nl": "Wacht in de bushalte om droog te blijven tijdens het wachten."
               }
             },
             {
@@ -2350,10 +2350,10 @@
               "Avoid rush hour to ensure you find a dry seat on public transport."
             ],
             "nl": [
-              "De RET-app toont realtime vertrektijden bij weersgerelateerde vertragingen.",
+              "De RET-app toont vertrektijden in realtime bij weersgerelateerde vertragingen.",
               "Treinstations bieden meestal betere beschutting dan eenvoudige bushaltes.",
-              "Een waterdichte rugzak beschermt uw waardevolle spullen tijdens overstappen.",
-              "Vermijd de spits om te zorgen dat u een droge zitplaats in het openbaar vervoer vindt."
+              "Een waterdichte rugzak beschermt je waardevolle spullen tijdens overstappen.",
+              "Vermijd het spitsuur zodat je een droge zitplaats in het openbaar vervoer vindt."
             ]
           }
         },
@@ -2363,7 +2363,7 @@
             "hu": "Reggel: Érkezés a fagyos Vlaardingenbe. Délben: Városnézés melegedő szünetekkel az üzletekben. Délután: Buszozás az Oranjeparkhoz a sötétedés beállta előtt. Este: Kellemes hazautazás a fűtött vasúti kocsiban.",
             "ro": "Dimineața: Sosire în Vlaardingen-ul înghețat. Prânz: Vizitarea orașului cu pauze de încălzire în magazine. După-amiaza: Călătorie cu autobuzul spre Oranjepark înainte de lăsarea întunericului. Seara: Revenire confortabilă cu trenul în vagon încălzit.",
             "en": "Morning: Arrive in frosty Vlaardingen. Noon: Sightseeing with warming breaks in local shops. Afternoon: Bus ride to Oranjepark before darkness sets in. Evening: Comfortable return journey in a heated train carriage.",
-            "nl": "Ochtend: Aankomst in het ijzige Vlaardingen. Middag: Sightseeing met opwarmpauzes in lokale winkels. Namiddag: Busrit naar Oranjepark voordat het donker wordt. Avond: Comfortabele terugreis in een verwarmde treinwagon."
+            "nl": "Ochtend: Aankomst in het ijskoude Vlaardingen. Middag: Sightseeing met opwarmpauzes in lokale winkels. Middag/late middag: Busrit naar Oranjepark voordat het donker wordt. Avond: Comfortabele terugreis in een verwarmde treincoupé."
           },
           "stops": [
             {
@@ -2383,7 +2383,7 @@
                 "hu": "A központban az utakat általában jól letakarítják a jégtől.",
                 "ro": "Drumurile din centru sunt de obicei bine curățate de gheață.",
                 "en": "The paths in the center are usually well-cleared of ice.",
-                "nl": "De paden in het centrum zijn doorgaans goed ijsvrij gemaakt."
+                "nl": "De paden in het centrum worden doorgaans goed schoongehouden van ijs."
               }
             },
             {
@@ -2393,7 +2393,7 @@
                 "hu": "Téli szellő a víz felől; ne felejtse el a sálat.",
                 "ro": "Adiere de iarnă de pe apă; nu uitați eșarfa.",
                 "en": "Wintry breeze coming from the water; don't forget your scarf.",
-                "nl": "Wintrige bries vanaf het water; vergeet uw sjaal niet."
+                "nl": "Winters briesje vanaf het water; vergeet je sjaal niet."
               }
             },
             {
@@ -2413,7 +2413,7 @@
                 "hu": "A buszok télen általában jól fűtöttek.",
                 "ro": "Autobuzele sunt de obicei bine încălzite iarna.",
                 "en": "Buses are usually well-heated during the winter months.",
-                "nl": "Bussen zijn doorgaans goed verwarmd tijdens de wintermaanden."
+                "nl": "Bussen zijn meestal goed verwarmd tijdens de wintermaanden."
               }
             },
             {
@@ -2423,7 +2423,7 @@
                 "hu": "Ellenőrizze az utolsó járatot, ha tovább maradna.",
                 "ro": "Verificați ultima plecare dacă rămâneți mai mult.",
                 "en": "Check the last departure time if you decide to stay late.",
-                "nl": "Controleer de laatste vertrektijd als u besluit laat te blijven."
+                "nl": "Controleer de laatste vertrektijd als je besluit laat te blijven."
               }
             }
           ],
@@ -2453,10 +2453,10 @@
               "A hot drink at the station makes the waiting time more pleasant."
             ],
             "nl": [
-              "Treinen en bussen zijn de beste plekken om tussen bestemmingen op te warmen.",
+              "Treinen en bussen zijn de beste plekken om op te warmen tussen bestemmingen.",
               "Draag schoenen met goede grip voor overstappen op gladde perrons.",
-              "De zon gaat vroeg onder; benut het beschikbare daglicht tot 16:00 uur.",
-              "Een warme drank op het station maakt de wachttijd aangenamer."
+              "De zonsondergang is vroeg; benut daglicht tot 16:00 uur.",
+              "Een warme drank bij het station maakt het wachten aangenamer."
             ]
           }
         }

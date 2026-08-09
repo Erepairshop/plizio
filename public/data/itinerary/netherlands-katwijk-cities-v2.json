@@ -48,7 +48,7 @@
             "hu": "András-templom",
             "ro": "Biserica Sf. Andrei (Andreaskerk)",
             "en": "Andreas Church (Andreaskerk)",
-            "nl": "Andreas Church (Andreaskerk)"
+            "nl": "Andreas Kerk (Andreaskerk)"
           },
           "coords": [
             4.394,
@@ -65,7 +65,7 @@
             "hu": "Figyelje meg a jellegzetes építészetet és a csendes környezetet.",
             "ro": "Observați arhitectura distinctivă și împrejurimile liniștite.",
             "en": "Note the distinctive architecture and the quiet surroundings.",
-            "nl": "Let op de karakteristieke architectuur en de rustige omgeving."
+            "nl": "Let op de karakteristieke architectuur en de stille omgeving."
           }
         },
         {
@@ -117,7 +117,7 @@
             "hu": "Ötvözi a művészetet és a helytörténetet, tökéletes bepillantást nyújt a tengerparti életbe.",
             "ro": "Combină arta și istoria locală, perfect pentru o incursiune în viața de la malul mării.",
             "en": "Combines art and local history, perfect for an insight into life by the sea.",
-            "nl": "Combinatie van kunst en lokale geschiedenis, perfect voor inzicht in het leven bij zee."
+            "nl": "Combineert kunst en lokale geschiedenis, perfect voor een indruk van het leven aan zee."
           }
         },
         {
@@ -143,7 +143,7 @@
             "hu": "Nagyszerű kilátást nyújt, de ellenőrizze a nyitvatartási időt, ha fel akar menni.",
             "ro": "Oferă o priveliște minunată, dar verificați programul pentru a urca.",
             "en": "Offers a great view, but check the opening hours for climbing.",
-            "nl": "Biedt een geweldig uitzicht, maar controleer de openingsuren voordat je klimt."
+            "nl": "Biedt een geweldig uitzicht, maar controleer de openingsuren voor beklimming."
           }
         },
         {
@@ -178,7 +178,7 @@
         "hu": "A katwijki napja Katwijk aan den Rijn történelmi szívében kezdődik, ahol bájos, régi utcákon sétálhat. A délelőtt folyamán felfedezheti a város kulturális örökségét, ellátogatva az András-templomhoz és a Spinoza-házhoz, a híres filozófus egykori lakhelyéhez. A délután teljes egészében a tengeré. A művészetet és a halászat történetét ötvöző Katwijki Múzeum lenyűgöző látogatása után megmássza a Vuurbaak világítótornyot a lélegzetelállító kilátásért. Az este a kilométereken át tartó homokos strandé. Sétáljon végig a sétányon, élvezze a friss tengeri szellőt, és nézze, ahogy a nap lenyugszik az Északi-tenger felett – tökéletes lezárása egy tartalmas napnak.",
         "ro": "Ziua dvs. în Katwijk începe în inima istorică a Katwijk aan den Rijn, unde vă plimbați pe străzi vechi și fermecătoare. În cursul dimineții, explorați moștenirea culturală a orașului cu vizite la Biserica Sf. Andrei și Casa Spinoza, fosta reședință a celebrului filozof. După-amiaza este dedicată în întregime mării. După o vizită fascinantă la Muzeul Katwijks, care combină arta și istoria pescuitului, urcați în farul Vuurbaak pentru o priveliște uluitoare. Seara este rezervată pentru plaja cu nisip lungă de kilometri. Plimbați-vă pe bulevard, bucurați-vă de briza proaspătă a mării și priviți soarele apunând peste Marea Nordului, o încheiere perfectă pentru o zi împlinită.",
         "en": "Your day in Katwijk begins in the historic heart of Katwijk aan den Rijn, where you'll stroll through charming old streets. In the morning, you'll explore the town's cultural heritage with visits to the Andreaskerk and the Spinoza House, the former residence of the famous philosopher. The afternoon is all about the sea. After a fascinating visit to the Katwijks Museum, which combines art and fishing history, you'll climb the Vuurbaak lighthouse for a breathtaking view. The evening belongs to the kilometer-long sandy beach. Stroll along the boulevard, enjoy the fresh sea breeze, and watch the sun set over the North Sea, a perfect end to a fulfilling day.",
-        "nl": "Je dag in Katwijk begint in het historische hart van Katwijk aan den Rijn, waar je door charmante oude straatjes wandelt. 's Ochtends verken je het culturele erfgoed met bezoeken aan de Andreaskerk en het Spinozahuis, de voormalige woning van de beroemde filosoof. De middag staat in het teken van de zee. Na een boeiend bezoek aan het Katwijks Museum, dat kunst en vissersgeschiedenis combineert, klim je in de Vuurbaak voor een adembenemend uitzicht. De avond is voor het kilometerslange zandstrand. Wandel over de boulevard, geniet van de frisse zeebries en kijk naar de zonsondergang boven de Noordzee, een perfect einde van een volle dag."
+        "nl": "Je dag in Katwijk begint in het historische hart van Katwijk aan den Rijn, waar je door charmante oude straatjes wandelt. ’s Ochtends verken je het culturele erfgoed met bezoeken aan de Andreaskerk en het Spinozahuis, de voormalige woning van de beroemde filosoof. De middag draait om de zee. Na een boeiend bezoek aan het Katwijks Museum, dat kunst en vissersgeschiedenis combineert, beklim je de vuurtoren Vuurbaak voor een adembenemend uitzicht. De avond is voor het kilometerslange zandstrand. Wandel over de boulevard, geniet van de frisse zeebries en kijk hoe de zon ondergaat boven de Noordzee, een perfecte afsluiting van een volle dag."
       },
       "gastro_picks": {
         "de": [
@@ -377,9 +377,9 @@
         ],
         "nl": [
           "Draag comfortabele schoenen, want je zult veel lopen.",
-          "Een winddichte jas is een goed idee, ook in de zomer.",
-          "De meeste bezienswaardigheden liggen compact, maar de wandeling van het oude naar het nieuwe deel is aanzienlijk.",
-          "Neem tijd voor een pauze bij een van de strandpaviljoens."
+          "Een winddichte jas is een goed idee, zelfs in de zomer.",
+          "De meeste bezienswaardigheden liggen compact, maar de wandeling van oud naar nieuw is aanzienlijk.",
+          "Neem de tijd voor een pauze bij een van de strandpaviljoens."
         ]
       }
     },
@@ -440,7 +440,7 @@
             "hu": "Egy rövid megálló egy fotóra az ikonikus világítótoronynál.",
             "ro": "O oprire scurtă pentru o fotografie a farului iconic.",
             "en": "A quick stop for a photo of the iconic lighthouse.",
-            "nl": "Een snelle stop voor een foto van de iconische vuurtoren."
+            "nl": "Een korte stop voor een foto van de iconische vuurtoren."
           }
         },
         {
@@ -449,7 +449,7 @@
             "hu": "Sétány (Északi irány)",
             "ro": "Bulevard (spre nord)",
             "en": "Boulevard (Ride North)",
-            "nl": "Boulevard (Richting Noord)"
+            "nl": "Boulevard (Rij naar het noorden)"
           },
           "coords": [
             4.385,
@@ -492,7 +492,7 @@
             "hu": "Egy szép erdős terület a strandtól való pihenéshez, remek ösvényekkel.",
             "ro": "O zonă forestieră frumoasă pentru o pauză de la plajă, cu poteci grozave.",
             "en": "A beautiful forest area for a break from the beach, with great paths.",
-            "nl": "Een mooi bosgebied als afwisseling van het strand, met prachtige paden."
+            "nl": "Een prachtig bosgebied om even te ontsnappen aan het strand, met mooie paden."
           }
         },
         {
@@ -527,7 +527,7 @@
             "hu": "András-templom",
             "ro": "Biserica Sf. Andrei (Andreaskerk)",
             "en": "Andreas Church (Andreaskerk)",
-            "nl": "Andreas Church (Andreaskerk)"
+            "nl": "Andreaskerk (Andreaskerk)"
           },
           "coords": [
             4.394,
@@ -544,7 +544,7 @@
             "hu": "Egy utolsó kulturális megálló, mielőtt lezárná az estét.",
             "ro": "O ultimă oprire culturală înainte de a încheia seara.",
             "en": "One last cultural stop before you wind down for the evening.",
-            "nl": "Nog één culturele stop voordat je de avond afsluit."
+            "nl": "Een laatste culturele stop voordat je de avond ontspant."
           }
         }
       ],
@@ -553,7 +553,7 @@
         "hu": "Pattanjon nyeregbe, és kezdje kerékpártúráját a történelmi Katwijk aan den Rijnben. Onnan tekerjen a partra, hogy megcsodálja az ikonikus világítótornyot. A délelőtt egy óda az Északi-tengerhez, miközben végighalad a sétányon és élvezi a tengeri szellőt. Egy kitérő a régió zöld szívébe, a Panbosba vezet, amely ideális egy természetközeli ebédszünethez. Délután térjen vissza a központba, hogy elmerüljön a helyi kultúrában a Katwijki Múzeumban, majd egy elmélyült pillanatot töltsön az András-templomban. A nap végén kerékpárral eljuthat egy tengerparti pavilonhoz, ahol egy ital mellett nézheti a naplementét a tenger felett – egy felejthetetlen élmény.",
         "ro": "Urcați-vă pe bicicletă și începeți turul în istoricul Katwijk aan den Rijn. De acolo, pedalați spre coastă pentru a admira farul iconic. Dimineața este o odă adusă Mării Nordului în timp ce parcurgeți bulevardul și vă bucurați de briza mării. Un ocol vă duce în inima verde a regiunii, Panbos, ideal pentru o pauză de prânz în natură. După-amiaza vă întoarceți în centru pentru a vă cufunda în cultura locală la Muzeul Katwijks, urmat de un moment de reflecție la Biserica Sf. Andrei. La sfârșitul zilei, puteți merge cu bicicleta la un pavilion de pe plajă și puteți urmări apusul peste mare cu o băutură, o experiență de neuitat.",
         "en": "Get on your bike and start your tour in historic Katwijk aan den Rijn. From there, cycle to the coast to admire the iconic lighthouse. The morning is an ode to the North Sea as you ride along the boulevard and enjoy the sea breeze. A detour takes you to the green heart of the region, the Panbos, ideal for a nature-filled lunch break. In the afternoon, you'll return to the center to immerse yourself in local culture at the Katwijks Museum, followed by a contemplative moment at the Andreaskerk. At the end of the day, you can cycle to a beach pavilion and watch the sunset over the sea with a drink, an unforgettable experience.",
-        "nl": "Stap op je fiets en begin je tocht in het historische Katwijk aan den Rijn. Vanaf daar fiets je naar de kust om de iconische vuurtoren te bewonderen. De ochtend is een ode aan de Noordzee terwijl je langs de boulevard rijdt en van de zeebries geniet. Een omweg brengt je naar het groene hart van de regio, het Panbos, ideaal voor een lunchpauze in de natuur. In de namiddag keer je terug naar het centrum om je onder te dompelen in de lokale cultuur in het Katwijks Museum, gevolgd door een contemplatief moment bij de Andreaskerk. Aan het eind van de dag kun je naar een strandpaviljoen fietsen en met een drankje de zonsondergang boven zee bekijken — een onvergetelijke ervaring."
+        "nl": "Spring op je fiets en begin je tocht in het historische Katwijk aan den Rijn. Vanuit daar fiets je naar de kust om de iconische vuurtoren te bewonderen. De ochtend is een ode aan de Noordzee terwijl je over de boulevard rijdt en geniet van de zeebries. Een omweg brengt je naar het groene hart van de regio, het Panbos, ideaal voor een lunchpauze in de natuur. In de middag keer je terug naar het centrum om je onder te dompelen in de lokale cultuur in het Katwijks Museum, gevolgd door een contemplatief moment in de Andreaskerk. Aan het einde van de dag kun je naar een strandpaviljoen fietsen en met een drankje de zonsondergang boven de zee bekijken, een onvergetelijke ervaring."
       },
       "gastro_picks": {
         "de": [
@@ -753,7 +753,7 @@
         "nl": [
           "Controleer de wind voordat je vertrekt; tegenwind aan de kust kan uitputtend zijn.",
           "Gebruik het uitstekende netwerk van fietspaden.",
-          "Zet je fiets altijd goed op slot, vooral op populaire plekken.",
+          "Vergrendel je fiets altijd goed, vooral op drukke plekken.",
           "Plan pauzes om van het uitzicht te genieten en te hydrateren."
         ]
       }
@@ -789,7 +789,7 @@
             "hu": "Kezdje a napot a zöldben. Parkoljon itt, és tegyen egy reggeli sétát az erdőben és a dűnékben.",
             "ro": "Începeți în verdeață. Parcați aici și faceți o plimbare de dimineață în pădure și dune.",
             "en": "Start in the green. Park here and take a morning walk in the woods and dunes.",
-            "nl": "Begin in het groen. Parkeer hier en maak een ochtendwandeling in het bos en de duinen."
+            "nl": "Begin in het groen. Parkeer hier en maak ’s ochtends een wandeling in het bos en de duinen."
           }
         },
         {
@@ -902,7 +902,7 @@
             "hu": "Katwijk aan den Rijn és András-templom",
             "ro": "Katwijk aan den Rijn & Biserica Sf. Andrei",
             "en": "Katwijk aan den Rijn & Andreas Church",
-            "nl": "Katwijk aan den Rijn & Andreas Church"
+            "nl": "Katwijk aan den Rijn & Andreaskerk"
           },
           "coords": [
             4.419,
@@ -954,7 +954,7 @@
         "hu": "Az autós napja Katwijkban tiszta természettel kezdődik a Panbosban. Egy frissítő erdei séta után Noordwijkba hajt, a Space Expo-ba egy csillagközi kalandra a délelőtt folyamán. Délben Katwijk aan Zee központjában parkol. Innen gyalog fedezi fel a tengerparti klasztert: a Katwijki Múzeumot, a világítótornyot és az élénk sétányt, ahol élvezheti a tengeri szellőt. Késő délután a város történelmi szívébe, Katwijk aan den Rijnbe hajt. Egy rövid séta elvezeti az András-templomhoz és a Spinoza-házhoz. A nap azzal a rugalmassággal zárul, hogy a számos étterem egyikében vacsorázhat, akár a tengerparton, akár az ófaluban.",
         "ro": "Ziua dvs. cu mașina în Katwijk începe cu natura pură la Panbos. După o plimbare revigorantă prin pădure, conduceți la Noordwijk la Space Expo pentru o aventură interstelară de dimineață. La prânz, parcați în centrul Katwijk aan Zee. De aici, explorați pe jos clusterul de coastă: Muzeul Katwijks, farul și bulevardul animat, unde vă bucurați de briza mării. Spre sfârșitul după-amiezii, conduceți spre inima istorică a orașului, Katwijk aan den Rijn. O scurtă plimbare vă duce la Biserica Sf. Andrei și Casa Spinoza. Ziua se încheie cu flexibilitatea de a cina la unul dintre multele restaurante, fie pe plajă, fie în satul vechi.",
         "en": "Your car day in Katwijk starts with pure nature in the Panbos. After a refreshing forest walk, you'll drive to Noordwijk's Space Expo for an interstellar morning adventure. At noon, you'll park in the center of Katwijk aan Zee. From here, you'll explore the coastal cluster on foot: the Katwijks Museum, the lighthouse, and the lively boulevard where you can enjoy the sea breeze. In the late afternoon, you'll drive to the historic heart of the town, Katwijk aan den Rijn. A short walk takes you to the Andreaskerk and the Spinoza House. The day ends with the flexibility to dine at one of the many restaurants, whether by the beach or in the old village.",
-        "nl": "Je autotrip in Katwijk begint met pure natuur in het Panbos. Na een verfrissende boswandeling rijd je naar Space Expo in Noordwijk voor een interstellair ochtendavontuur. 's Middags parkeer je in het centrum van Katwijk aan Zee. Vanaf hier verken je de kustcluster te voet: het Katwijks Museum, de vuurtoren en de levendige boulevard waar je van de zeebries kunt genieten. In de late namiddag rijd je naar het historische hart van de stad, Katwijk aan den Rijn. Een korte wandeling brengt je naar de Andreaskerk en het Spinozahuis. De dag eindigt met de flexibiliteit om te dineren in een van de vele restaurants, of dat nu aan het strand is of in het oude dorp."
+        "nl": "Je autoday in Katwijk begint met pure natuur in het Panbos. Na een verfrissende boswandeling rijd je naar Space Expo in Noordwijk voor een interstellair ochtendavontuur. ’s Middags parkeer je in het centrum van Katwijk aan Zee. Vanaf hier verken je de kustcluster te voet: het Katwijks Museum, de vuurtoren en de levendige boulevard waar je van de zeebries kunt genieten. In de late namiddag rijd je naar het historische hart van de stad, Katwijk aan den Rijn. Een korte wandeling brengt je bij de Andreaskerk en het Spinozahuis. De dag eindigt met de vrijheid om te dineren in een van de vele restaurants, of dat nu aan het strand of in het oude dorp is."
       },
       "gastro_picks": {
         "de": [
@@ -1146,9 +1146,9 @@
           "The cluster-walking method saves on parking fees and stress."
         ],
         "nl": [
-          "Parkeren is vaak betaald nabij het strand; zoek naar parkeergarages.",
-          "Plan je ritten buiten de spits om file te vermijden.",
-          "Een navigatiesysteem is essentieel om de verschillende clusters te vinden.",
+          "Parkeren is nabij het strand vaak betaald; zoek naar parkeergarages.",
+          "Plan je ritten buiten de spits om files te vermijden.",
+          "Een navigatiesysteem is onmisbaar om de verschillende clusters te vinden.",
           "De cluster-wandelmethode bespaart parkeerkosten en stress."
         ]
       }
@@ -1184,7 +1184,7 @@
             "hu": "Kezdje a napot egy buszozással a központba és egy sétával a sétányhoz.",
             "ro": "Începeți ziua cu o călătorie cu autobuzul spre centru și o plimbare până la promenadă.",
             "en": "Start your day with a bus ride to the center and a walk to the promenade.",
-            "nl": "Begin je dag met een busrit naar het centrum en een wandeling naar de promenade."
+            "nl": "Begin je dag met een busrit naar het centrum en een wandeling naar de boulevard."
           }
         },
         {
@@ -1210,7 +1210,7 @@
             "hu": "A sétányról a világítótorony csak egy kőhajításnyira van.",
             "ro": "De la bulevard, farul este la o aruncătură de băț.",
             "en": "From the boulevard, the lighthouse is just a stone's throw away.",
-            "nl": "Vanaf de boulevard is de vuurtoren slechts een steenworp afstand."
+            "nl": "Vanaf de boulevard is de vuurtoren slechts een steenworp verwijderd."
           }
         },
         {
@@ -1245,7 +1245,7 @@
             "hu": "Buszozás Katwijk aan den Rijnbe és séta az András-templomhoz",
             "ro": "Călătorie cu autobuzul la Katwijk aan den Rijn & plimbare la Biserica Sf. Andrei",
             "en": "Bus ride to Katwijk aan den Rijn & walk to Andreaskerk",
-            "nl": "Bus naar Katwijk aan den Rijn & wandeling naar Andreaskerk"
+            "nl": "Busrit naar Katwijk aan den Rijn & wandeling naar Andreaskerk"
           },
           "coords": [
             4.419,
@@ -1262,7 +1262,7 @@
             "hu": "Menjen busszal az ófaluba, és kezdje ott a második felfedező klasztert.",
             "ro": "Luați autobuzul spre satul vechi și începeți al doilea cluster de explorare de acolo.",
             "en": "Take the bus to the old village and start your second exploration cluster there.",
-            "nl": "Neem de bus naar het oude dorp en begin daar je tweede ontdekkingscluster."
+            "nl": "Neem de bus naar het oude dorp en begin daar je tweede verkenningscluster."
           }
         },
         {
@@ -1323,7 +1323,7 @@
         "hu": "Busszal két klaszterben fedezi fel Katwijkot. A tengernél kezdi: egy busz elviszi a központba, ahonnan a sétányhoz, a világítótoronyhoz és a Katwijki Múzeumhoz sétálhat. Élvezze a tengeri hangulatot és egy ebédet kilátással. Délután egy másik busz elviszi a történelmi Katwijk aan den Rijnbe. Itt régi sikátorokban sétálhat, meglátogathatja a tiszteletreméltó András-templomot, és elmerülhet a filozófia világában a Spinoza-házban. A nap nyugodtan ér véget, hiszen egyszerűen visszamehet busszal, miután megismerte Katwijk két arcát – az élénk tengerparti üdülőhelyet és a csendes ófalut.",
         "ro": "Cu autobuzul, explorați Katwijk în două clustere. Începeți la mare: o călătorie cu autobuzul vă duce în centru, de unde vă plimbați la bulevard, far și Muzeul Katwijks. Bucurați-vă de atmosfera maritimă și de un prânz cu priveliște. După-amiaza, un alt autobuz vă duce în istoricul Katwijk aan den Rijn. Aici vă plimbați pe alei vechi, vizitați venerabila Biserică Sf. Andrei și vă cufundați în lumea filozofiei la Casa Spinoza. Ziua se încheie relaxat, deoarece puteți lua pur și simplu autobuzul înapoi după ce ați cunoscut cele două fețe ale Katwijk – stațiunea vibrantă de la malul mării și satul vechi și liniștit.",
         "en": "Using the bus, you'll explore Katwijk in two clusters. You start by the sea: a bus ride takes you to the center, from where you can walk to the boulevard, the lighthouse, and the Katwijks Museum. Enjoy the maritime atmosphere and lunch with a view. In the afternoon, another bus takes you to historic Katwijk aan den Rijn. Here, you'll stroll through old alleys, visit the venerable Andreaskerk, and delve into the world of philosophy at the Spinoza House. The day ends in a relaxed manner, as you can simply take the bus back after getting to know the two faces of Katwijk – the lively seaside resort and the quiet old village.",
-        "nl": "Met de bus verken je Katwijk in twee clusters. Je begint bij zee: een busrit brengt je naar het centrum, van waaruit je naar de boulevard, de vuurtoren en het Katwijks Museum kunt lopen. Geniet van de maritieme sfeer en een lunch met uitzicht. In de middag brengt een andere bus je naar het historische Katwijk aan den Rijn. Hier slenter je door oude straatjes, bezoek je de eeuwenoude Andreaskerk en verdiep je je in de filosofiewereld in Huis van Spinoza. De dag eindigt ontspannen: je kunt simpelweg de bus terug nemen nadat je de twee gezichten van Katwijk hebt leren kennen – de levendige badplaats en het rustige oude dorp."
+        "nl": "Met de bus verken je Katwijk in twee clusters. Je begint bij de zee: een busrit brengt je naar het centrum, van waaruit je naar de boulevard, de vuurtoren en het Katwijks Museum kunt lopen. Geniet van de maritieme sfeer en lunch met uitzicht. In de middag brengt een andere bus je naar het historische Katwijk aan den Rijn. Hier wandel je door oude steegjes, bezoek je de vergankelijke Andreaskerk en duik je in de wereld van filosofie in het Spinozahuis. De dag eindigt relaxed, aangezien je gewoon de bus terug kunt nemen nadat je de twee gezichten van Katwijk hebt leren kennen – de levendige badplaats en het rustige oude dorp."
       },
       "gastro_picks": {
         "de": [
@@ -1522,9 +1522,9 @@
         ],
         "nl": [
           "Koop een dagkaart voor de bus om geld te besparen.",
-          "Controleer van tevoren de busdienstregeling, vooral voor de avonduren.",
-          "De 9292-app is je beste vriend voor het plannen van reizen met het openbaar vervoer in Nederland.",
-          "Houd rekening met korte wandelingen van de bushaltes naar de bezienswaardigheden."
+          "Controleer van tevoren de bustijden, vooral voor de avond.",
+          "De 9292-app is je beste vriend voor het plannen van openbaarvervoerreizen in Nederland.",
+          "Wees voorbereid op korte wandelingen van de bushaltes naar de bezienswaardigheden."
         ]
       }
     }

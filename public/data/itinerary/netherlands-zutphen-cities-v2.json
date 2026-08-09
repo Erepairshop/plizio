@@ -22,7 +22,7 @@
             "hu": "Wijnhuistoren (Borkereskedőház tornya)",
             "ro": "Turnul Vinului (Wijnhuistoren)",
             "en": "Wine House Tower (Wijnhuistoren)",
-            "nl": "Wine House Tower (Wijnhuistoren)"
+            "nl": "Wijnhuistoren"
           },
           "coords": [
             6.1945,
@@ -74,7 +74,7 @@
             "hu": "Walburgis-templom és a De Librije",
             "ro": "Biserica Walburgis și De Librije",
             "en": "Walburgis Church & De Librije",
-            "nl": "Walburgiskerk & De Librije"
+            "nl": "Walburgis Kerk & De Librije"
           },
           "coords": [
             6.198,
@@ -100,7 +100,7 @@
             "hu": "Broederenkerk (Testvérek temploma)",
             "ro": "Biserica Broederenkerk",
             "en": "Broederenkerk (Brothers' Church)",
-            "nl": "Broederenkerk (Brothers' Church)"
+            "nl": "Broederenkerk"
           },
           "coords": [
             6.1925,
@@ -143,7 +143,7 @@
             "hu": "Festői víztorony, amely a régi városfal része volt.",
             "ro": "Un turn de apă pitoresc care făcea parte din vechile ziduri ale orașului.",
             "en": "A picturesque water tower that was part of the old city walls.",
-            "nl": "Een pittoreske watertoren die deel uitmaakte van de oude stadswallen."
+            "nl": "Een pittoreske watertoren die deel uitmaakte van de oude stadsmuren."
           }
         },
         {
@@ -152,7 +152,7 @@
             "hu": "Berkelpoort (Berkel-kapu)",
             "ro": "Poarta Berkel (Berkelpoort)",
             "en": "Berkel Gate (Berkelpoort)",
-            "nl": "Berkelpoort (Berkel Gate)"
+            "nl": "Berkelpoort"
           },
           "coords": [
             6.202,
@@ -169,7 +169,7 @@
             "hu": "Tegyen egy csónakkirándulást a Berkel folyón, amely áthalad a kapu alatt.",
             "ro": "Faceți o plimbare cu barca pe râul Berkel, care trece pe sub această poartă.",
             "en": "Take a boat trip on the river Berkel that passes under this gate.",
-            "nl": "Maak een boottocht over de rivier de Berkel die onder deze poort doorloopt."
+            "nl": "Maak een boottocht over de Berkel die onder deze poort doorloopt."
           }
         },
         {
@@ -204,7 +204,7 @@
         "hu": "Kezdje a napját Zutphen szívében, a Wijnhuistorennél. A délelőtt folyamán merüljön el a helyi művészetben és történelemben az ikermúzeumokban. Ebéd után fedezze fel a város lenyűgöző középkori templomait és könyvtárait. A napot a régi városi erődítmények mentén tett sétával zárja, mielőtt egy hangulatos vacsorát fogyasztana a piactéren.",
         "ro": "Începeți ziua în inima orașului Zutphen, la Wijnhuistoren. Dimineața, cufundați-vă în arta și istoria locală la muzeele gemene. După prânz, explorați impresionantele biserici și biblioteci medievale ale orașului. Încheiați ziua cu o plimbare de-a lungul vechilor fortificații ale orașului înainte de a vă bucura de o cină confortabilă în piața centrală.",
         "en": "Start your day in the heart of Zutphen at the Wijnhuistoren. In the morning, immerse yourself in local art and history at the twin museums. After lunch, explore the city's impressive medieval churches and libraries. Conclude the day with a walk along the old city fortifications before settling in for a cozy dinner in the market square.",
-        "nl": "Begin je dag in het hart van Zutphen bij de Wijnhuistoren. ’s Ochtends dompel je jezelf onder in lokale kunst en geschiedenis in de tweelingmusea. Na de lunch verken je de indrukwekkende middeleeuwse kerken en bibliotheken van de stad. Sluit de dag af met een wandeling langs de oude stadsversterkingen voordat je neerstrijkt voor een gezellig diner op het Marktplein."
+        "nl": "Begin je dag in het hart van Zutphen bij de Wijnhuistoren. ’s Ochtends dompel je jezelf onder in lokale kunst en geschiedenis in de twee musea. Na de lunch verken je de imposante middeleeuwse kerken en bibliotheken van de stad. Sluit de dag af met een wandeling langs de oude stadsvesten voordat je geniet van een gezellig diner op het Marktplein."
       },
       "gastro_picks": {
         "de": [
@@ -402,9 +402,9 @@
           "A guided city walk can give you deeper insights into the city's history."
         ],
         "nl": [
-          "Draag comfortabele schoenen; de kasseien kunnen oneffen zijn.",
-          "De meeste bezienswaardigheden in het centrum zijn gemakkelijk te voet bereikbaar.",
-          "Neem de tijd om door de smalle steegjes en verborgen hofjes te dwalen.",
+          "Draag comfortabele schoenen, want de kasseien kunnen oneffen zijn.",
+          "De meeste attracties in het centrum zijn makkelijk te voet bereikbaar.",
+          "Neem de tijd om door smalle steegjes en verborgen binnenplaatsen te dwalen.",
           "Een begeleide stadswandeling geeft je diepere inzichten in de geschiedenis van de stad."
         ]
       },
@@ -415,7 +415,7 @@
             "hu": "Az esős reggel Zutphenben a Wijnhuistoren árkádjai alatt indul, ahol szárazon csodálhatjuk a teret. Délben a Stedelijk Múzeum és a Walburgis-templom nyújt tökéletes beltéri menedéket. Délután az ódon városkapuk mentén haladunk, rövid pihenőkkel a hidak alatt. A napot egy barátságos, meleg étteremben zárjuk a főtéren, hallgatva az eső kopogását.",
             "ro": "O dimineață ploioasă în Zutphen începe la adăpostul arcadelor turnului Wijnhuistoren. La prânz, Muzeul Stedelijk și Biserica Walburgis oferă refugiul ideal în interior pentru câteva ore. După-amiaza explorăm porțile istorice, folosind pasajele boltite pentru a ne feri de stropi. Încheiem ziua într-o cafenea caldă din Piața Mare, bucurându-ne de atmosfera intimă a orașului.",
             "en": "A rainy morning in Zutphen starts under the protective arches of the Wijnhuistoren. By noon, the Stedelijk Museum and Walburgis Church provide excellent indoor shelter for exploration. In the afternoon, we walk past the historic gates, using vaulted passages to stay dry. The day concludes in a warm, dimly lit restaurant at the Market Square while the rain falls outside.",
-            "nl": "Een regenachtige ochtend in Zutphen begint onder de beschermende bogen van de Wijnhuistoren. Tegen de middag bieden het Stedelijk Museum en de Walburgiskerk uitstekende binnenbeschutting. ’s Middags lopen we langs de historische poorten en gebruiken gewelven om droog te blijven. De dag eindigt in een warm, schemerig restaurant op het Marktplein terwijl de regen buiten valt."
+            "nl": "Een regenachtige ochtend in Zutphen begint onder de beschermende bogen van de Wijnhuistoren. Tegen de middag bieden het Stedelijk Museum en de Walburgis Kerk uitstekende binnenbeschutting voor verkenning. ’s Middags wandelen we langs de historische poorten en gebruiken gewelfde doorgangen om droog te blijven. De dag eindigt in een warm, schemerig restaurant op het Marktplein terwijl de regen buiten valt."
           },
           "stops": [
             {
@@ -435,7 +435,7 @@
                 "hu": "Használd a ruhatárat a vizes kabátok és esernyők leadásához.",
                 "ro": "Folosiți garderoba pentru hainele umede și umbrele.",
                 "en": "Use the cloakroom to store wet coats and umbrellas.",
-                "nl": "Gebruik de garderobe om natte jassen en paraplu's op te bergen."
+                "nl": "Gebruik de garderobe om natte jassen en paraplu’s op te bergen."
               }
             },
             {
@@ -445,7 +445,7 @@
                 "hu": "A régi könyvtár tökéletes helyszín, amikor kint szakad az eső.",
                 "ro": "Vechea bibliotecă este locul perfect când afară plouă torențial.",
                 "en": "The ancient library is a perfect spot when it's pouring outside.",
-                "nl": "De eeuwenoude bibliotheek is een perfecte plek als het buiten stortregent."
+                "nl": "De oude bibliotheek is een perfecte plek wanneer het buiten stortregent."
               }
             },
             {
@@ -455,7 +455,7 @@
                 "hu": "A ma könyvtárként működő templom kényelmes olvasósarkokat kínál.",
                 "ro": "Biserica transformată în bibliotecă oferă colțuri de lectură primitoare.",
                 "en": "The church-turned-library offers cozy reading nooks during rain.",
-                "nl": "De kerk-omgebouwd-tot-bibliotheek biedt knusse leeshoekjes tijdens regen."
+                "nl": "De kerk-omgebouwde bibliotheek biedt gezellige leeshoekjes bij regen."
               }
             },
             {
@@ -465,7 +465,7 @@
                 "hu": "Vigyázz a vizes macskaköveken a torony környékén, csúszhatnak.",
                 "ro": "Atenție la pavajul umed din jurul turnului, poate fi alunecos.",
                 "en": "Watch your step on the wet cobblestones around the tower.",
-                "nl": "Let op je pas op de natte kasseien rond de toren."
+                "nl": "Let op waar je loopt op de natte kasseien rond de toren."
               }
             },
             {
@@ -475,7 +475,7 @@
                 "hu": "A kapu védelmet nyújt, de a vízparti szél hűvös lehet.",
                 "ro": "Poarta oferă adăpost, dar vântul de lângă apă poate fi rece.",
                 "en": "The gate provides shelter, but the riverside wind can be chilly.",
-                "nl": "De poort biedt beschutting, maar de wind langs de rivier kan guur zijn."
+                "nl": "De poort biedt beschutting, maar de rivierwind kan kil zijn."
               }
             },
             {
@@ -485,7 +485,7 @@
                 "hu": "Válassz egy éttermet, ahonnan rálátsz az eső áztatta főtérre.",
                 "ro": "Alegeți un restaurant cu vedere spre piața plină de ploaie.",
                 "en": "Pick a restaurant with a view of the rainy square.",
-                "nl": "Kies een restaurant met uitzicht op het natte plein."
+                "nl": "Kies een restaurant met uitzicht op het druilerige plein."
               }
             }
           ],
@@ -515,10 +515,10 @@
               "A sturdy umbrella is recommended due to the wind from the IJssel river."
             ],
             "nl": [
-              "Draag waterdichte schoenen voor de kasseistraatjes.",
-              "De musea en de Walburgiskerk zijn ideale binnenopties.",
+              "Draag waterdichte schoenen voor de klinkerstraatjes.",
+              "De musea en de Walburgiskerk zijn ideale opties binnen.",
               "Gebruik de historische hofjes voor korte regenpauzes.",
-              "Een stevige paraplu wordt aanbevolen vanwege de wind van de IJssel."
+              "Een stevige paraplu is aan te raden vanwege de wind van de IJssel."
             ]
           }
         },
@@ -528,7 +528,7 @@
             "hu": "A téli reggel Zutphenben gyakran ködös és fagyos, ami misztikus aurát ad a Wijnhuistorennek. Délben a Hanza-város fűtött múzeumaiban és templomaiban melegszünk fel. Mivel 17:00 körül sötétedik, a városkapuk délután már ünnepi fényben úsznak. A napot forró csokoládéval és helyi téli ételekkel zárjuk a hangulatos főtéren.",
             "ro": "Dimineața de iarnă în Zutphen este adesea ceațoasă și geroasă, oferind turnului Wijnhuistoren o aură mistică. La prânz, ne încălzim în muzeele și bisericile încălzite ale orașului hanseatic. Deoarece se întunecă în jurul orei 17:00, porțile orașului strălucesc în lumini festive după-amiaza. Încheiem ziua cu ciocolată caldă și preparate locale de iarnă în piața centrală.",
             "en": "A winter morning in Zutphen is often misty and frosty, giving the Wijnhuistoren a mystical aura. By noon, we warm up in the heated museums and churches of this Hanseatic city. Since it gets dark around 17:00, the city gates glow with festive lights in the afternoon. The day ends with hot chocolate and regional winter dishes at the atmospheric Market Square.",
-            "nl": "Een winterochtend in Zutphen is vaak mistig en rijpbezet, wat de Wijnhuistoren een mystieke uitstraling geeft. Rond de middag verwarmen we ons in de verwarmde musea en kerken van deze Hanzestad. Omdat het rond 17:00 donker wordt, fonkelen de stadspoorten in de namiddag met sfeerverlichting. De dag eindigt met warme chocolademelk en regionale wintergerechten op het sfeervolle Marktplein."
+            "nl": "Een winterse ochtend in Zutphen is vaak mistig en vorstig, waardoor de Wijnhuistoren een mystieke sfeer krijgt. Tegen de middag verwarmen we ons in de verwarmde musea en kerken van deze Hanzestad. Aangezien het rond 17:00 donker wordt, gloeien de stadspoorten ’s middags met feestelijke verlichting. De dag eindigt met warme chocolademelk en regionale wintergerechten op het sfeervolle Marktplein."
           },
           "stops": [
             {
@@ -538,7 +538,7 @@
                 "hu": "Csodáld meg a fagyos főtér látványát a torony lábától.",
                 "ro": "Admirați vederea pieței înghețate de la baza turnului.",
                 "en": "Enjoy the view of the frosty square from the base of the tower.",
-                "nl": "Geniet van het uitzicht op het rijpe plein vanaf de voet van de toren."
+                "nl": "Geniet van het uitzicht op het vorstige plein vanaf de voet van de toren."
               }
             },
             {
@@ -548,7 +548,7 @@
                 "hu": "Tökéletes hely a felmelegedésre a séta után.",
                 "ro": "Locul perfect pentru a vă încălzi după plimbare.",
                 "en": "Perfect place to warm up after your walk.",
-                "nl": "Perfecte plek om op te warmen na je wandeling."
+                "nl": "Perfecte plek om weer op te warmen na je wandeling."
               }
             },
             {
@@ -558,7 +558,7 @@
                 "hu": "Keresd a különleges téli vezetéseket a Librije könyvtárban.",
                 "ro": "Căutați tururile speciale de iarnă în biblioteca Librije.",
                 "en": "Look for special winter tours in the Librije library.",
-                "nl": "Let op speciale winterrondleidingen in de Librije-bibliotheek."
+                "nl": "Kijk voor speciale winterrondleidingen in de Librije-bibliotheek."
               }
             },
             {
@@ -568,7 +568,7 @@
                 "hu": "Remek hely egy teára és könyvek böngészésére a hideg elől.",
                 "ro": "Un loc excelent pentru un ceai și răsfoit cărți departe de frig.",
                 "en": "A great spot for tea and browsing books away from the cold.",
-                "nl": "Een fijne plek voor thee en boeken weg van de kou."
+                "nl": "Een prima plek voor thee en het bladeren in boeken weg van de kou."
               }
             },
             {
@@ -578,7 +578,7 @@
                 "hu": "Szürkületkor a kivilágított torony különösen fotogén.",
                 "ro": "La amurg, turnul iluminat este deosebit de fotogenic.",
                 "en": "The illuminated tower is very photogenic at dusk.",
-                "nl": "De verlichte toren is zeer fotogeniek bij schemering."
+                "nl": "De verlichte toren is erg fotogeniek in het schemerlicht."
               }
             },
             {
@@ -588,7 +588,7 @@
                 "hu": "A befagyott Berkel-folyó festői téli hátteret nyújt.",
                 "ro": "Râul Berkel înghețat oferă un decor pitoresc de iarnă.",
                 "en": "The frozen Berkel river provides a picturesque winter backdrop.",
-                "nl": "De bevroren Berkel levert een schilderachtig winters decor."
+                "nl": "De bevroren Berkel vormt een schilderachtig winterdecor."
               }
             },
             {
@@ -598,7 +598,7 @@
                 "hu": "Kóstold meg az 'Erwtensoep'-et (borsóleves) a felmelegedéshez.",
                 "ro": "Gustați 'Erwtensoep' (supă de mazăre) pentru a vă încălzi.",
                 "en": "Try 'Erwtensoep' (pea soup) to warm yourself up.",
-                "nl": "Probeer 'Erwtensoep' om jezelf op te warmen."
+                "nl": "Probeer 'Erwtensoep' om weer warm te worden."
               }
             }
           ],
@@ -628,10 +628,10 @@
               "Watch out for icy patches on old bridges and walkways."
             ],
             "nl": [
-              "Warme handschoenen zijn essentieel tegen de wind langs de oever.",
+              "Warme handschoenen zijn essentieel voor de wind langs de rivieroevers.",
               "De zon gaat vroeg onder; plan buitenbezoeken vóór 16:00.",
-              "Veel cafés hebben gezellige plekken bij de open haard.",
-              "Pas op voor ijzige plekjes op oude bruggen en wandelpaden."
+              "Veel cafés bieden gezellige plekjes bij de haard.",
+              "Let op ijzige plekken op oude bruggen en wandelpaden."
             ]
           }
         }
@@ -651,7 +651,7 @@
             "hu": "Kerékpárkölcsönző és Wijnhuistoren",
             "ro": "Închiriere biciclete & Wijnhuistoren",
             "en": "Bike Rental & Wijnhuistoren",
-            "nl": "Fietsenverhuur & Wijnhuistoren"
+            "nl": "Fietsverhuur & Wijnhuistoren"
           },
           "coords": [
             6.1945,
@@ -703,7 +703,7 @@
             "hu": "Drogenapstoren és városfalak",
             "ro": "Turnul Drogenapstoren și zidurile orașului",
             "en": "Drogenapstoren Tower and City Walls",
-            "nl": "Drogenapstoren en stadswallen"
+            "nl": "Drogenapstoren en Stadsmuren"
           },
           "coords": [
             6.201,
@@ -720,7 +720,7 @@
             "hu": "Kövesse a régi városfal maradványait egy történelmi tekerés során.",
             "ro": "Urmați rămășițele vechilor ziduri ale orașului pentru o plimbare istorică.",
             "en": "Follow the remnants of the old city wall for a historic ride.",
-            "nl": "Volg de resten van de oude stadsmuur voor een historische rit."
+            "nl": "Volg de restanten van de oude stadsmuur voor een historische rit."
           }
         },
         {
@@ -746,7 +746,7 @@
             "hu": "Parkolja le a kerékpárt, és fedezze fel a csodálatos templomot és egyedülálló könyvtárát.",
             "ro": "Parcați bicicleta și explorați biserica magnifică și biblioteca sa unică.",
             "en": "Park your bike and explore the magnificent church and its unique library.",
-            "nl": "Zet je fiets neer en verken de indrukwekkende kerk en haar unieke bibliotheek."
+            "nl": "Parkeer je fiets en ontdek de indrukwekkende kerk en haar unieke bibliotheek."
           }
         },
         {
@@ -807,7 +807,7 @@
         "hu": "Pattanjon kerékpárra, és kezdje a felfedezést Zutphen központjában. Délelőtt tekerjen végig a város történelmi erődítményei mentén, kaputól toronyig. A déli órákat a monumentális Walburgiskerk felfedezésével töltse, mielőtt egy pihentető tekerést tenne az IJssel folyó mentén ebédidőben. A délután a Stedelijk Múzeumban őrzött gazdag művészetnek és történelemnek van szentelve.",
         "ro": "Luați o bicicletă și începeți explorarea în centrul orașului Zutphen. Dimineața, pedalați de-a lungul fortificațiilor istorice ale orașului, de la poartă la turn. Petreceți amiaza explorând monumentala biserică Walburgiskerk înainte de a vă bucura de o plimbare relaxantă de-a lungul râului IJssel pentru prânz. După-amiaza este dedicată artei și istoriei bogate găzduite la Muzeul Stedelijk.",
         "en": "Grab a bike and start your exploration in the center of Zutphen. In the morning, cycle along the city's historic fortifications, from gate to tower. Spend midday exploring the monumental Walburgiskerk before enjoying a relaxing ride along the IJssel river for lunch. The afternoon is dedicated to the rich art and history housed in the Stedelijk Museum.",
-        "nl": "Pak een fiets en begin je verkenning in het centrum van Zutphen. ’s Ochtends fiets je langs de historische verdedigingswerken van de stad, van poort naar toren. Midden op de dag verken je de monumentale Walburgiskerk voordat je geniet van een ontspannen rit langs de IJssel voor de lunch. De namiddag is gereserveerd voor de rijke kunst en geschiedenis in het Stedelijk Museum."
+        "nl": "Pak een fiets en begin je verkenning in het centrum van Zutphen. ’s Ochtends fiets je langs de historische vestingwerken van de stad, van poort tot toren. Breng de middag door in de monumentale Walburgiskerk en geniet daarna van een ontspannen rit langs de IJssel voor de lunch. De namiddag is gereserveerd voor de rijke kunst en geschiedenis in het Stedelijk Museum."
       },
       "gastro_picks": {
         "de": [
@@ -1005,10 +1005,10 @@
           "A bike tour along the river IJssel is highly recommended."
         ],
         "nl": [
-          "Zutphen is een zeer fietsvriendelijke stad met veel fietspaden.",
+          "Zutphen is een zeer fietsvriendelijke stad met veel aparte paden.",
           "Zet je fiets altijd goed op slot, ook bij korte stops.",
-          "Let op voetgangers in de smalle straten van het centrum.",
-          "Een fietstocht langs de IJssel wordt sterk aanbevolen."
+          "Houd rekening met voetgangers in de smalle straten van het centrum.",
+          "Een fietstocht langs de IJssel is ten zeerste aanbevolen."
         ]
       },
       "variants": {
@@ -1018,7 +1018,7 @@
             "hu": "Az eső ellenére a kerékpározás Zutphenben lehetséges megfelelő vízálló felszereléssel. A délelőtt gyorsan a történelmi kapukhoz vezet, amelyek védelmet nyújtanak. Ebédre hosszabb pihenőt tartunk az IJsselkade egyik éttermében. Délután a Stedelijk Múzeumhoz tekerünk, hogy a nap hátralévő részét szárazon töltsük.",
             "ro": "În ciuda ploii, o plimbare cu bicicleta în Zutphen este posibilă cu echipament impermeabil adecvat. Dimineața ne conduce rapid spre porțile istorice care oferă adăpost. La prânz, luăm o pauză prelungită într-un restaurant de pe IJsselkade. După-amiaza pedalăm spre Muzeul Stedelijk pentru a petrece restul zilei la adăpost.",
             "en": "Despite the rain, cycling in Zutphen is possible with proper waterproof gear. The morning leads quickly to the historic gates, which offer shelter. For lunch, we take a longer break at a restaurant on the IJsselkade. In the afternoon, we cycle to the Stedelijk Museum to spend the rest of the day in the dry.",
-            "nl": "Ondanks de regen is fietsen in Zutphen mogelijk met goede waterdichte kleding. De ochtend leidt snel naar de historische poorten die beschutting bieden. Voor de lunch nemen we een langere pauze bij een restaurant aan de IJsselkade. ’s Middags fietsen we naar het Stedelijk Museum om de rest van de dag droog door te brengen."
+            "nl": "Ondanks de regen is fietsen in Zutphen mogelijk met goede waterdichte uitrusting. De ochtend leidt snel naar de historische poorten, die beschutting bieden. Voor de lunch maken we een langere pauze bij een restaurant aan de IJsselkade. In de namiddag fietsen we naar het Stedelijk Museum om de rest van de dag droog door te brengen."
           },
           "stops": [
             {
@@ -1028,7 +1028,7 @@
                 "hu": "Kérj a kölcsönzőben nyeregvédőt az eső ellen.",
                 "ro": "Cereți o protecție pentru șa la centrul de închirieri.",
                 "en": "Ask the rental shop for a saddle cover.",
-                "nl": "Vraag bij de verhuur een zadelhoes."
+                "nl": "Vraag bij de verhuur om een zadelhoes."
               }
             },
             {
@@ -1038,7 +1038,7 @@
                 "hu": "Használd a kapualjat az esőruházat gyors ellenőrzésére.",
                 "ro": "Folosiți arcada porții pentru o scurtă verificare a pelerinei.",
                 "en": "Use the gateway for a quick check of your rain gear.",
-                "nl": "Gebruik de poort voor een snelle check van je regenkleding."
+                "nl": "Gebruik de poort voor een korte controle van je regenkleding."
               }
             },
             {
@@ -1048,7 +1048,7 @@
                 "hu": "Óvatosan tekerj a városfal melletti vizes téglaúton.",
                 "ro": "Pedalați cu grijă pe aleile umede din cărămidă de lângă zid.",
                 "en": "Ride carefully on the wet brick paths near the walls.",
-                "nl": "Fiets voorzichtig op de natte bakstenen paden bij de muren."
+                "nl": "Rijd voorzichtig op de natte bakstenen paden bij de muren."
               }
             },
             {
@@ -1058,7 +1058,7 @@
                 "hu": "Biztonságos biciklitárolók találhatók közvetlenül a bejáratnál.",
                 "ro": "Rasteluri sigure pentru biciclete se află chiar la intrare.",
                 "en": "Secure bike racks are located right by the entrance.",
-                "nl": "Beveiligde fietsenrekken staan direct bij de ingang."
+                "nl": "Beveiligde fietsstallingen bevinden zich direct bij de ingang."
               }
             },
             {
@@ -1068,7 +1068,7 @@
                 "hu": "Szárítsd meg a dolgaidat, miközben a folyóra néző kilátást élvezed.",
                 "ro": "Uscați-vă lucrurile în timp ce admirați vederea spre râu.",
                 "en": "Dry your gear while enjoying the river view during lunch.",
-                "nl": "Droog je spullen terwijl je geniet van het rivierzicht tijdens de lunch."
+                "nl": "Laat je spullen drogen terwijl je tijdens de lunch van het rivieruitzicht geniet."
               }
             },
             {
@@ -1078,7 +1078,7 @@
                 "hu": "A múzeum udvarán fedett biciklitároló áll rendelkezésre.",
                 "ro": "Curtea muzeului oferă locuri de parcare acoperite pentru biciclete.",
                 "en": "The museum courtyard provides covered bike parking.",
-                "nl": "Het museumhofje biedt overdekte fietsparkeerplaatsen."
+                "nl": "Het museumhof biedt overdekte fietsenstalling."
               }
             }
           ],
@@ -1108,10 +1108,10 @@
               "A towel to wipe down the saddle is very helpful."
             ],
             "nl": [
-              "Goede regenkleding is essentieel voor deze route.",
-              "Vermijd plots remmen op natte bakstenen ondergrond.",
-              "Gebruik de vele musea voor langere pauzes.",
-              "Een handdoek om het zadel af te drogen is erg handig."
+              "Goede regenkleding is essentieel voor deze tour.",
+              "Vermijd plotseling remmen op natte bakstenen ondergrond.",
+              "Gebruik de vele musea voor langere pauzes binnen.",
+              "Een handdoek om het zadel af te vegen is zeer handig."
             ]
           }
         },
@@ -1121,7 +1121,7 @@
             "hu": "A téli biciklitúra Zutphenben friss levegőt és tágas kilátást kínál a fagyos IJssel folyóra. A délelőtt során gyorsan elérjük a masszív városkapukat. Ebédre egy forró ételt keresünk az IJsselkade partján. Délután meglátogatjuk a Walburgis-templomot, mielőtt a sötétség átveszi az uralmat a festőien kivilágított óvárosban.",
             "ro": "O tură cu bicicleta iarna prin Zutphen oferă aer curat și vederi largi peste râul IJssel înghețat. Dimineața ne duce rapid spre porțile masive ale orașului. La prânz căutăm căldură cu un prânz fierbinte pe IJsselkade. După-amiaza vizităm Biserica Walburgis înainte ca întunericul să cuprindă centrul vechi iluminat pitoresc.",
             "en": "A winter bike tour through Zutphen offers crisp air and wide views over the frosty IJssel. The morning leads us quickly to the massive city gates. For lunch, we seek warmth with a hot meal at the IJsselkade. In the afternoon, we visit Walburgis Church before darkness takes over the beautifully lit old town.",
-            "nl": "Een winterfietstocht door Zutphen biedt frisse lucht en ruime uitzichten over de rijpige IJssel. De ochtend brengt ons snel naar de massieve stadspoorten. Voor de lunch zoeken we warmte met een warme maaltijd aan de IJsselkade. ’s Middags bezoeken we de Walburgiskerk voordat de duisternis de prachtig verlichte binnenstad overneemt."
+            "nl": "Een winterse fietstocht door Zutphen biedt frisse lucht en brede uitzichten over de vorstige IJssel. De ochtend brengt ons snel naar de massieve stadspoorten. Voor de lunch zoeken we warmte met een warme maaltijd aan de IJsselkade. In de namiddag bezoeken we de Walburgiskerk voordat de duisternis het prachtig verlichte oude centrum overneemt."
           },
           "stops": [
             {
@@ -1131,7 +1131,7 @@
                 "hu": "Ellenőrizd, hogy a gumik profilja megfelelő-e a téli utakra.",
                 "ro": "Verificați dacă anvelopele au profil adecvat pentru drumuri de iarnă.",
                 "en": "Check that the tires have enough tread for winter paths.",
-                "nl": "Controleer of de banden nog genoeg profiel hebben voor winterpaden."
+                "nl": "Controleer of de banden nog voldoende profiel hebben voor winterpaden."
               }
             },
             {
@@ -1151,7 +1151,7 @@
                 "hu": "A városfal tetején a szél télen különösen metsző lehet.",
                 "ro": "Vântul de sus, de pe ziduri, este deosebit de tăios iarna.",
                 "en": "The wind up on the walls can be particularly biting in winter.",
-                "nl": "De wind op de muren kan in de winter bijzonder bijtend zijn."
+                "nl": "De wind bovenop de wallen kan in de winter bijzonder snijdend zijn."
               }
             },
             {
@@ -1161,7 +1161,7 @@
                 "hu": "Zárd le a biciklit, és melegedj fel a templom belsejében.",
                 "ro": "Parcați bicicleta și încălziți-vă în interiorul bisericii.",
                 "en": "Park your bike securely and warm up inside the church.",
-                "nl": "Zet je fiets goed neer en warm binnen op in de kerk."
+                "nl": "Parkeer je fiets goed en warm binnen op in de kerk."
               }
             },
             {
@@ -1211,10 +1211,10 @@
               "Plan shorter riding segments to avoid getting too cold."
             ],
             "nl": [
-              "Draag lagen kleding en winddichte handschoenen.",
-              "Let op bevroren plassen in beschaduwde delen.",
-              "Fietsverlichting is verplicht vanaf de late namiddag.",
-              "Plan kortere etappes om te voorkomen dat je te koud wordt."
+              "Draag meerdere lagen kleding en winddichte handschoenen.",
+              "Let op bevroren plassen in beschaduwde gebieden.",
+              "Fietsverlichting is verplicht vanaf laat in de middag.",
+              "Plan kortere etappes om niet te veel af te koelen."
             ]
           }
         }
@@ -1234,7 +1234,7 @@
             "hu": "Parkolás és indulás a központban (A csoport)",
             "ro": "Parcare și start în centru (Cluster A)",
             "en": "Park and Start in Center (Cluster A)",
-            "nl": "Parkeer en begin in het centrum (Cluster A)"
+            "nl": "Parkeer en Start in het Centrum (Cluster A)"
           },
           "coords": [
             6.191,
@@ -1277,7 +1277,7 @@
             "hu": "Rövid séta a parkolótól a város ikonikus tornyáig.",
             "ro": "O scurtă plimbare de la parcare la turnul emblematic al orașului.",
             "en": "A short walk from the parking lot to the city's iconic tower.",
-            "nl": "Een korte wandeling van de parkeerplaats naar de iconische toren van de stad."
+            "nl": "Een korte wandeling van de parkeergarage naar de iconische toren."
           }
         },
         {
@@ -1303,7 +1303,7 @@
             "hu": "A múzeumok csak egy kőhajításnyira vannak, ideális egy kulturális délelőtthöz.",
             "ro": "Muzeele sunt la o aruncătură de băț, ideale pentru o dimineață culturală.",
             "en": "The museums are just a stone's throw away, ideal for a cultural morning.",
-            "nl": "De musea liggen op een steenworp afstand, ideaal voor een culturele ochtend."
+            "nl": "De musea zijn op korte loopafstand, ideaal voor een culturele ochtend."
           }
         },
         {
@@ -1312,7 +1312,7 @@
             "hu": "Autózás és parkolás a folyónál (B csoport)",
             "ro": "Condus și parcare lângă râu (Cluster B)",
             "en": "Drive and Park by the River (Cluster B)",
-            "nl": "Rijd en parkeer bij de rivier (Cluster B)"
+            "nl": "Rijden en Parkeren bij de Rivier (Cluster B)"
           },
           "coords": [
             6.203,
@@ -1329,7 +1329,7 @@
             "hu": "Vezessen a külső körutakra és parkoljon a Berkelpoort közelében.",
             "ro": "Conduceți spre inelele exterioare și parcați lângă Berkelpoort.",
             "en": "Drive to the outer rings and park near the Berkelpoort.",
-            "nl": "Rijd naar de buitenringen en parkeer bij de Berkelpoort."
+            "nl": "Rijd naar de buitenste ring en parkeer bij de Berkelpoort."
           }
         },
         {
@@ -1338,7 +1338,7 @@
             "hu": "Berkelpoort és séta a vízparton",
             "ro": "Poarta Berkel & plimbare pe malul apei",
             "en": "Berkel Gate & Waterside Walk",
-            "nl": "Berkelpoort & Waterside Walk"
+            "nl": "Berkelpoort & Wandeling langs het water"
           },
           "coords": [
             6.202,
@@ -1364,7 +1364,7 @@
             "hu": "Walburgis-templom (Visszatérés az A csoporthoz)",
             "ro": "Biserica Walburgis (Întoarcere la Cluster A)",
             "en": "Walburgis Church (Return to Cluster A)",
-            "nl": "Walburgiskerk (terug naar Cluster A)"
+            "nl": "Walburgiskerk (Terug naar Cluster A)"
           },
           "coords": [
             6.198,
@@ -1381,7 +1381,7 @@
             "hu": "Vezessen vissza az eredeti parkolóba, hogy meglátogassa a csodálatos templomot.",
             "ro": "Conduceți înapoi la parcarea inițială pentru a vizita magnifica biserică.",
             "en": "Drive back towards the original parking spot to visit the magnificent church.",
-            "nl": "Rijd terug naar de oorspronkelijke parkeerplaats om de prachtige kerk te bezoeken."
+            "nl": "Rijd terug naar de oorspronkelijke parkeerplek om de indrukwekkende kerk te bezoeken."
           }
         }
       ],
@@ -1390,7 +1390,7 @@
         "hu": "Kezdje a napot azzal, hogy leparkolja autóját Zutphen központjában. A délelőtt a város kulturális szívének van szentelve, sétával a Wijnhuistorenhez és a közeli múzeumokhoz. Délben autózzon el a festői Berkel folyó partjára, ahol felfedezheti a történelmi vízparti kaput és megebédelhet. A napot egy rövid autóúttal zárja vissza a központba, hogy meglátogassa a lenyűgöző Walburgis-templomot.",
         "ro": "Începeți ziua parcând mașina în centrul orașului Zutphen. Dimineața este dedicată inimii culturale a orașului, cu o plimbare la Wijnhuistoren și muzeele din apropiere. La prânz, conduceți spre malurile pitorești ale râului Berkel pentru a explora poarta istorică de apă și a lua prânzul. Încheiați ziua cu o scurtă călătorie cu mașina înapoi în centru pentru a vizita impresionanta biserică Walburgiskerk.",
         "en": "Start your day by parking your car in the center of Zutphen. The morning is dedicated to the cultural heart of the city, with a walk to the Wijnhuistoren and the nearby museums. At midday, drive to the scenic banks of the river Berkel to explore the historic water gate and have lunch. End the day with a short drive back to the center to visit the impressive Walburgiskerk.",
-        "nl": "Begin je dag door je auto in het centrum van Zutphen te parkeren. De ochtend is gewijd aan het culturele hart van de stad, met een wandeling naar de Wijnhuistoren en de nabijgelegen musea. Rond het middaguur rijd je naar de schilderachtige oevers van de Berkel om de historische waterpoort te verkennen en te lunchen. Sluit de dag af met een korte rit terug naar het centrum om de indrukwekkende Walburgiskerk te bezoeken."
+        "nl": "Begin je dag door je auto in het centrum van Zutphen te parkeren. De ochtend is gewijd aan het culturele hart van de stad, met een wandeling naar de Wijnhuistoren en de nabijgelegen musea. Rond het middaguur rijden we naar de schilderachtige oevers van de Berkel om de historische waterpoort te verkennen en te lunchen. Sluit de dag af met een korte rit terug naar het centrum om de indrukwekkende Walburgiskerk te bezoeken."
       },
       "gastro_picks": {
         "de": [
@@ -1588,10 +1588,10 @@
           "Be aware of the narrow streets and the many cyclists."
         ],
         "nl": [
-          "Gebruik Park & Ride-opties om verkeersdrukte in het centrum te vermijden.",
-          "De meeste parkeerplaatsen in Zutphen zijn betaald.",
+          "Gebruik Park & Ride-opties om het verkeer in het centrum te vermijden.",
+          "De meeste parkeergelegenheden in Zutphen zijn betaald.",
           "De cluster-wandelstrategie is ideaal omdat het centrum compact is.",
-          "Houd rekening met de smalle straatjes en de vele fietsers."
+          "Wees je bewust van de smalle straten en de vele fietsers."
         ]
       },
       "variants": {
@@ -1601,7 +1601,7 @@
             "hu": "Az esős Zutphen kényelmesen felfedezhető autóval a parkolóhelyek közötti váltással. A délelőtt a központban indul, ahol a parkolóházak száraz kijutást biztosítanak. Ebédre a folyópartra hajtunk, hogy a kocsiból vagy egy közeli kávézóból élvezzük a kilátást. A délután a Walburgis-templomé, amely csak pár lépésre van a parkolótól.",
             "ro": "Zutphen pe ploaie poate fi explorat confortabil cu mașina, alternând între parcări. Dimineața începe în centru, unde parcările oferă acces uscat spre obiective. La prânz mergem spre malul râului pentru a admira vederea protejați de mașină sau dintr-o cafenea. După-amiaza aparține Bisericii Walburgis, aflată la doar câțiva pași de parcare.",
             "en": "Rainy Zutphen can be comfortably explored by car by switching between parking clusters. The morning starts in the center, where parking garages offer dry access. For lunch, we drive to the riverbank to enjoy the view protected from the car or a nearby cafe. The afternoon is dedicated to Walburgis Church, just a few steps from the parking lot.",
-            "nl": "Regenachtig Zutphen is goed met de auto te verkennen door tussen parkeergroepen te wisselen. De ochtend begint in het centrum, waar parkeergarages droge toegang bieden. Voor de lunch rijden we naar de rivieroevers om van het uitzicht te genieten, beschermd door de auto of een nabijgelegen café. De middag is gewijd aan de Walburgiskerk, slechts een paar stappen van de parkeerplaats."
+            "nl": "Regenachtig Zutphen is comfortabel per auto te verkennen door te wisselen tussen parkeerclusters. De ochtend begint in het centrum, waar parkeergarages droge toegang bieden. Voor de lunch rijden we naar de rivieroevers om van het uitzicht te genieten, beschermd door de auto of een nabijgelegen café. De namiddag is gewijd aan de Walburgiskerk, slechts een paar stappen van de parkeerplaats."
           },
           "stops": [
             {
@@ -1621,7 +1621,7 @@
                 "hu": "Rövid séta a parkolótól, de azért vigyél esernyőt.",
                 "ro": "Plimbare scurtă de la parcare, dar luați totuși umbrela.",
                 "en": "Short walk from parking, but take an umbrella anyway.",
-                "nl": "Korte wandeling vanaf de parkeerplaats, maar neem toch een paraplu mee."
+                "nl": "Kort lopen vanaf het parkeren, maar neem toch een paraplu mee."
               }
             },
             {
@@ -1631,7 +1631,7 @@
                 "hu": "Ideális esős órákra, fedett helyen.",
                 "ro": "Ideal pentru orele ploioase petrecute la adăpost.",
                 "en": "Ideal for rainy hours spent indoors.",
-                "nl": "Ideaal voor regenachtige uren binnen doorbrengen."
+                "nl": "Ideaal voor regenuren binnenshuis doorgebracht."
               }
             },
             {
@@ -1651,7 +1651,7 @@
                 "hu": "A parkolók gyakran közvetlenül a történelmi látnivalók mellett vannak.",
                 "ro": "Parcările sunt adesea chiar lângă obiectivele istorice.",
                 "en": "Parking is often right next to the historical sights.",
-                "nl": "Parkeren is vaak direct naast de historische bezienswaardigheden."
+                "nl": "Parkeren is vaak vlak naast de historische bezienswaardigheden."
               }
             },
             {
@@ -1661,7 +1661,7 @@
                 "hu": "Parkolj a 's-Gravenhofon a legrövidebb útért a templomhoz.",
                 "ro": "Parcați la 's-Gravenhof pentru cel mai scurt drum spre biserică.",
                 "en": "Park at 's-Gravenhof for the shortest path to the church.",
-                "nl": "Parkeer op 's-Gravenhof voor het kortste pad naar de kerk."
+                "nl": "Parkeer bij 's-Gravenhof voor het kortste pad naar de kerk."
               }
             }
           ],
@@ -1691,10 +1691,10 @@
               "Check parking fees via an app (e.g., EasyPark)."
             ],
             "nl": [
-              "Gebruik de parkeergarages 'Centrum' voor maximaal comfort.",
-              "Heb altijd een paraplu klaar voor de paden vanaf de parkeerplaats.",
-              "Rijden tussen clusters bespaart tijd bij regen.",
-              "Controleer parkeertarieven via een app (bijv. EasyPark)."
+              "Gebruik de 'Centrum'-parkeergarages voor maximaal comfort.",
+              "Heb altijd een paraplu klaar voor de routes vanaf de parkeerplaats.",
+              "Rijden tussen clusters bespaart tijd in de regen.",
+              "Controleer parkeerkosten via een app (bijv. EasyPark)."
             ]
           }
         },
@@ -1704,7 +1704,7 @@
             "hu": "A téli Zutphen autóval tökéletes, hogy elkerüljük a hideget a megállók között. A fagyos központban kezdünk, majd a múzeumokban melegszünk fel. Ebédre az IJsselkade partjára hajtunk, ahol hideg lábak nélkül élvezhetjük a folyóra nyíló kilátást. A délután a kivilágított Walburgis-templomnál zárul, mielőtt kényelmesen elindulnánk haza.",
             "ro": "O zi de iarnă în Zutphen cu mașina este ideală pentru a scăpa de frig între opriri. Începem în centrul înghețat și ne încălzim în muzee. La prânz mergem spre IJsselkade, unde putem admira râul fără a ne îngheța picioarele. După-amiaza se încheie la Biserica Walburgis iluminată, înainte de a porni confortabil spre casă.",
             "en": "A winter day in Zutphen by car is ideal for escaping the cold between stops. We start in the frosty center and warm up in the museums. For lunch, we drive to the IJsselkade, where you can enjoy the river view without getting cold feet. The afternoon ends at the illuminated Walburgis Church before a comfortable journey home.",
-            "nl": "Een winterdag in Zutphen met de auto is ideaal om tussendoor aan de kou te ontsnappen. We beginnen in het ijzige centrum en warmen op in de musea. Voor de lunch rijden we naar de IJsselkade, waar je van het rivierzicht kunt genieten zonder koude voeten. De middag eindigt bij de verlichte Walburgiskerk voordat je comfortabel naar huis rijdt."
+            "nl": "Een winterse dag in Zutphen per auto is ideaal om tussen stops uit de kou te ontsnappen. We beginnen in het vorstige centrum en warmen op in de musea. Voor de lunch rijden we naar de IJsselkade, waar je van het rivierzicht kunt genieten zonder koude voeten. De namiddag eindigt bij de verlichte Walburgiskerk voordat je comfortabel naar huis reist."
           },
           "stops": [
             {
@@ -1714,7 +1714,7 @@
                 "hu": "Egy meleg autó a legjobb menedék a városnézések között.",
                 "ro": "O mașină caldă este cel mai bun refugiu între vizite.",
                 "en": "A warm car is the best retreat between sightseeing stops.",
-                "nl": "Een warme auto is het beste toevluchtsoord tussen bezienswaardigheden."
+                "nl": "Een warme auto is de beste toevlucht tussen bezienswaardigheden door."
               }
             },
             {
@@ -1724,7 +1724,7 @@
                 "hu": "Vigyázz a jegesedésre, amikor a mellékutcákban keresel parkolót.",
                 "ro": "Atenție la polei când căutați parcare pe străzile secundare.",
                 "en": "Watch out for icy spots when looking for parking in side streets.",
-                "nl": "Let op gladde plekken bij het zoeken naar een parkeerplaats in zijstraten."
+                "nl": "Let op ijzige plekken bij het zoeken naar een parkeerplaats in zijstraten."
               }
             },
             {
@@ -1734,7 +1734,7 @@
                 "hu": "A múzeumi fűtés kellemes pihenőt biztosít.",
                 "ro": "Încălzirea din muzeu asigură o pauză plăcută.",
                 "en": "The museum's heating provides a pleasant break.",
-                "nl": "De verwarming in het museum zorgt voor een aangename pauze."
+                "nl": "De verwarming van het museum biedt een aangename pauze."
               }
             },
             {
@@ -1744,7 +1744,7 @@
                 "hu": "Úgy parkolj, hogy ráláss az IJssel téli tájára.",
                 "ro": "Parcați astfel încât să vedeți peisajul de iarnă al râului IJssel.",
                 "en": "Park in a way that you can see the winter landscape of the IJssel.",
-                "nl": "Parkeer zo dat je het winterlandschap van de IJssel kunt zien."
+                "nl": "Parkeer zo dat je zicht hebt op het winterlandschap van de IJssel."
               }
             },
             {
@@ -1754,7 +1754,7 @@
                 "hu": "A rövid séták télen sokkal kellemesebbek.",
                 "ro": "Plimbările scurte sunt mai plăcute iarna.",
                 "en": "Short walks are much more pleasant in winter.",
-                "nl": "Korte wandelingen zijn in de winter veel aangenamer."
+                "nl": "Korte wandelingen zijn veel prettiger in de winter."
               }
             },
             {
@@ -1764,7 +1764,7 @@
                 "hu": "Sötétben a templom látványosan ki van világítva.",
                 "ro": "Pe întuneric, biserica este iluminată spectaculos.",
                 "en": "At night, the church is spectacularly illuminated.",
-                "nl": "'s Avonds is de kerk spectaculair verlicht."
+                "nl": "'s Nachts is de kerk spectaculair verlicht."
               }
             }
           ],
@@ -1795,9 +1795,9 @@
             ],
             "nl": [
               "Parkeergarages beschermen de auto tegen bevroren ruiten.",
-              "Zorg dat je winterbanden hebt voor ijzige wegen.",
-              "Gebruik parkeerapps om niet in de kou bij de parkeerautomaat te hoeven staan.",
-              "Neem genoeg tijd om een parkeerplek te vinden."
+              "Zorg dat je winterbanden hebt voor ijskoude wegen.",
+              "Gebruik parkeerapps om te voorkomen dat je bij de parkeerautomaat in de kou moet staan.",
+              "Reken voldoende tijd voor het vinden van een parkeerplek."
             ]
           }
         }
@@ -1834,7 +1834,7 @@
             "hu": "A vasútállomás a kiindulópont, jó összeköttetéssel a városközponttal.",
             "ro": "Gara este punctul dvs. de plecare și este bine conectată la centrul orașului.",
             "en": "The train station is your starting point and is well-connected to the city center.",
-            "nl": "Het treinstation is je beginpunt en heeft goede verbindingen met het stadscentrum."
+            "nl": "Het station is je vertrekpunt en is goed verbonden met het centrum."
           }
         },
         {
@@ -1860,7 +1860,7 @@
             "hu": "Rövid séta az állomástól ehhez az egyedülálló templomhoz/könyvtárhoz.",
             "ro": "O scurtă plimbare de la gară la această biserică/bibliotecă unică.",
             "en": "A short walk from the station to this unique church/library.",
-            "nl": "Een korte wandeling vanaf het station naar deze unieke kerk/bibliotheek."
+            "nl": "Een korte wandeling vanaf het station naar deze bijzondere kerk/bibliotheek."
           }
         },
         {
@@ -1938,7 +1938,7 @@
             "hu": "A múzeum a sarkon van. Tervezzen be egy ebédszünetet is a közelben.",
             "ro": "Muzeul este chiar după colț. Planificați și o pauză de prânz în apropiere.",
             "en": "The museum is just around the corner. Plan for a lunch break nearby as well.",
-            "nl": "Het museum is vlakbij. Plan ook een lunchpauze in de buurt."
+            "nl": "Het museum is vlak om de hoek. Plan ook een lunchpauze in de buurt."
           }
         },
         {
@@ -1964,7 +1964,7 @@
             "hu": "Egy rövid buszút elviszi a város festői vízi útjaihoz.",
             "ro": "O scurtă călătorie cu autobuzul vă duce la căile navigabile pitorești ale orașului.",
             "en": "A short bus ride takes you to the city's scenic waterways.",
-            "nl": "Een korte busrit brengt je naar de schilderachtige wateren van de stad."
+            "nl": "Een korte busrit brengt je naar de schilderachtige waterwegen van de stad."
           }
         }
       ],
@@ -1973,7 +1973,7 @@
         "hu": "Utazása a zutpheni vasútállomáson kezdődik. Egy rövid séta elvezeti az egyedülálló Broederenkerkhez. Innen egy helyi busz viszi a történelmi központba, ahol a délelőttöt a Walburgiskerk felfedezésével és ebéddel tölti. Délután egy másik busz viszi a város híres vízi útjaihoz, ahol megcsodálhatja a Berkelpoortot, mielőtt visszatérne az állomásra.",
         "ro": "Călătoria dvs. începe la gara din Zutphen. O scurtă plimbare vă duce la unica Biserică Broederenkerk. De acolo, un autobuz local vă duce în inima istorică, unde veți petrece dimineața explorând Biserica Walburgiskerk și luând prânzul. După-amiaza, un alt autobuz vă va duce la faimoasele căi navigabile ale orașului pentru a admira Poarta Berkel înainte de a vă întoarce la gară.",
         "en": "Your journey begins at Zutphen's train station. A short walk takes you to the unique Broederenkerk. From there, a local bus transports you to the historic heart, where you'll spend the morning exploring Walburgiskerk and having lunch. In the afternoon, another bus will take you to the city's famous waterways to admire the Berkelpoort before heading back to the station.",
-        "nl": "Je reis begint bij station Zutphen. Een korte wandeling brengt je naar de unieke Broederenkerk. Vanaf daar brengt een lokale bus je naar het historische hart, waar je de ochtend doorbrengt met het verkennen van de Walburgiskerk en lunchen. In de middag brengt een andere bus je naar de beroemde wateren van de stad om de Berkelpoort te bewonderen voordat je terugkeert naar het station."
+        "nl": "Je reis begint bij het station van Zutphen. Een korte wandeling brengt je naar de unieke Broederenkerk. Vanaf daar brengt een lokale bus je naar het historische hart, waar je de ochtend doorbrengt met het verkennen van de Walburgiskerk en het lunchen. In de middag neemt een andere bus je mee naar de beroemde waterwegen van de stad om de Berkelpoort te bewonderen voordat je terugkeert naar het station."
       },
       "gastro_picks": {
         "de": [
@@ -2172,9 +2172,9 @@
         ],
         "nl": [
           "Koop een dagkaart voor de bus voor onbeperkt reizen.",
-          "Controleer het busrooster van tevoren om wachttijden te minimaliseren.",
-          "De meeste bussen zijn rolstoeltoegankelijk.",
-          "Het combineren van busritten met korte wandelingen is een efficiënte manier om de stad te zien."
+          "Controleer de dienstregeling van de bus van tevoren om wachttijden te minimaliseren.",
+          "De meeste bussen zijn toegankelijk voor rolstoelen.",
+          "Busritten combineren met korte wandelingen is een efficiënte manier om de stad te zien."
         ]
       },
       "variants": {
@@ -2194,7 +2194,7 @@
                 "hu": "Várj a csatlakozó buszra az állomás várótermében.",
                 "ro": "Așteptați autobuzul de legătură în holul gării.",
                 "en": "Wait for your connecting bus inside the station hall.",
-                "nl": "Wacht op je aansluitende bus in de stationshal."
+                "nl": "Wacht op je aansluitende bus binnen in de stationshal."
               }
             },
             {
@@ -2214,7 +2214,7 @@
                 "hu": "A busz szinte közvetlenül a Walburgis-templom előtt áll meg.",
                 "ro": "Autobuzul oprește aproape direct în fața Bisericii Walburgis.",
                 "en": "The bus stops almost directly in front of Walburgis Church.",
-                "nl": "De bushalte ligt bijna direct voor de Walburgiskerk."
+                "nl": "De bus stopt vrijwel direct voor de Walburgiskerk."
               }
             },
             {
@@ -2224,7 +2224,7 @@
                 "hu": "Ideális hely egy eső zápor kivárásához.",
                 "ro": "Un loc ideal pentru a aștepta trecerea unei averse.",
                 "en": "An ideal place to wait out a rain shower.",
-                "nl": "Een ideale plek om een regenbui uit te zitten."
+                "nl": "Een ideale plek om een bui te laten voorbijgaan."
               }
             },
             {
@@ -2234,7 +2234,7 @@
                 "hu": "Számos buszjárat megáll a múzeum közelében.",
                 "ro": "Mai multe linii de autobuz opresc în apropierea muzeului.",
                 "en": "Several bus lines stop near the museum.",
-                "nl": "Verschillende buslijnen stoppen in de buurt van het museum."
+                "nl": "Meerdere buslijnen stoppen in de buurt van het museum."
               }
             },
             {
@@ -2275,8 +2275,8 @@
             ],
             "nl": [
               "Gebruik de OV-chipkaart of contactloos betalen in de bus.",
-              "De '9292' app geeft realtime informatie over vertragingen.",
-              "Stations en bushaltes bieden vaak goede beschutting.",
+              "De '9292' app biedt realtime informatie over vertragingen.",
+              "Stations en bushaltes hebben vaak goede beschutting.",
               "In Zutphen zijn de afstanden tussen haltes over het algemeen kort."
             ]
           }
@@ -2287,7 +2287,7 @@
             "hu": "A téli kirándulás busszal és vonattal Zutphenbe stresszmentes és meleg. Az állomásról indulunk, és busszal gyorsan a történelmi központba jutunk. Délben a múzeumokban melegszünk fel, miközben az ablakon át figyeljük a fagyos várost. A kivilágított templomok megtekintése után a busz biztonságban visszavisz minket az állomásra.",
             "ro": "O excursie de iarnă cu autobuzul și trenul spre Zutphen este relaxantă și călduroasă. Pornim din gară și folosim autobuzul pentru a ajunge rapid în centrul istoric. La prânz ne încălzim în muzee, admirând orașul înghețat prin fereastră. După vizitarea bisericilor iluminate, autobuzul ne duce în siguranță înapoi la gară.",
             "en": "A winter trip by bus and train to Zutphen is stress-free and warm. We start at the station and use the bus to quickly reach the historic center. By noon, we warm up in the museums while watching the frosty city through the windows. After visiting the illuminated churches, the bus takes us safely back to the station.",
-            "nl": "Een wintertrip met bus en trein naar Zutphen is zorgeloos en warm. We beginnen op het station en gebruiken de bus om snel het historische centrum te bereiken. Rond het middaguur warmen we op in de musea terwijl we door de ramen naar de ijzige stad kijken. Na het bezoeken van de verlichte kerken brengt de bus ons veilig terug naar het station."
+            "nl": "Een winterse trip per bus en trein naar Zutphen is zorgeloos en warm. We beginnen bij het station en gebruiken de bus om snel het historische centrum te bereiken. Rond het middaguur warmen we op in de musea terwijl we door de ramen naar de ijzige stad kijken. Na het bezoeken van de verlichte kerken brengt de bus ons veilig terug naar het station."
           },
           "stops": [
             {
@@ -2307,7 +2307,7 @@
                 "hu": "Az állomástól rövid út, hogy egyből melegbe érj.",
                 "ro": "Drum scurt de la gară pentru a ajunge direct la căldură.",
                 "en": "A short path from the station to get straight into the warmth.",
-                "nl": "Een kort pad vanaf het station om direct de warmte in te lopen."
+                "nl": "Een kort pad vanaf het station om meteen de warmte in te gaan."
               }
             },
             {
@@ -2317,7 +2317,7 @@
                 "hu": "A buszok télen jól fűtöttek.",
                 "ro": "Autobuzele sunt bine încălzite iarna.",
                 "en": "Buses are well-heated in winter.",
-                "nl": "Bussen zijn in de winter goed verwarmd."
+                "nl": "Bussen zijn goed verwarmd in de winter."
               }
             },
             {
@@ -2347,7 +2347,7 @@
                 "hu": "Ügyelj az indulási időkre a sötétben.",
                 "ro": "Atenție la orele de plecare pe întuneric.",
                 "en": "Pay attention to departure times in the dark.",
-                "nl": "Let op vertrektijden in het donker."
+                "nl": "Let op vertrektijden als het donker is."
               }
             }
           ],
@@ -2377,10 +2377,10 @@
               "A hot tea at the station makes the trip home sweeter."
             ],
             "nl": [
-              "Gebruik de bushaltes om jezelf tegen de wind te beschermen.",
-              "Treinen en bussen rijden in de winter meestal betrouwbaar.",
-              "'s Avonds is de route naar het station mooi verlicht.",
-              "Een hete thee op het station maakt de terugreis aangenamer."
+              "Gebruik de bushokjes om je tegen de wind te beschermen.",
+              "Treinen en bussen rijden meestal betrouwbaar in de winter.",
+              "'s Avonds is de route naar het station prachtig verlicht.",
+              "Een hete thee op het station maakt de terugreis zoeter."
             ]
           }
         }

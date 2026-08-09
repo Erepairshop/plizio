@@ -22,7 +22,7 @@
             "hu": "Vischpoort (Halas kapu)",
             "ro": "Vischpoort (Poarta Peștelui)",
             "en": "Vischpoort (Fish Gate)",
-            "nl": "Vischpoort (Viskop)"
+            "nl": "Vischpoort (Vischpoort)"
           },
           "coords": [
             5.617,
@@ -48,7 +48,7 @@
             "hu": "Grote Kerk (Nagytemplom)",
             "ro": "Grote Kerk (Biserica Mare)",
             "en": "Grote Kerk (Great Church)",
-            "nl": "Grote Kerk (Great Church)"
+            "nl": "Grote Kerk"
           },
           "coords": [
             5.619,
@@ -65,7 +65,7 @@
             "hu": "Figyeld meg a lenyűgöző boltozati festményeket a templombelsőben.",
             "ro": "Observați picturile impresionante de pe bolta din interior.",
             "en": "Look for the impressive vault paintings inside.",
-            "nl": "Let binnen goed op de indrukwekkende gewelfschilderingen."
+            "nl": "Let op de indrukwekkende gewelfschilderingen binnenin."
           }
         },
         {
@@ -74,7 +74,7 @@
             "hu": "Stadsmuseum Harderwijk (Városi Múzeum)",
             "ro": "Stadsmuseum Harderwijk (Muzeul Orașului)",
             "en": "Stadsmuseum Harderwijk (City Museum)",
-            "nl": "Stadsmuseum Harderwijk (City Museum)"
+            "nl": "Stadsmuseum Harderwijk"
           },
           "coords": [
             5.622,
@@ -117,7 +117,7 @@
             "hu": "Egy humoros múzeum, amelyet a híres holland festő munkásságának szenteltek.",
             "ro": "Un muzeu plin de umor dedicat operei celebrului pictor olandez.",
             "en": "A humorous museum dedicated to the work of the famous Dutch painter.",
-            "nl": "Een humoristisch museum gewijd aan het werk van de beroemde Nederlandse schilder."
+            "nl": "Een vrolijk museum gewijd aan het werk van de bekende Nederlandse schilder."
           }
         },
         {
@@ -143,7 +143,7 @@
             "hu": "Harderwijk egyetlen megmaradt szárazföldi kapuja, gyönyörű fotótéma.",
             "ro": "Singura poartă terestră supraviețuitoare din Harderwijk, un subiect frumos pentru fotografii.",
             "en": "The only remaining land gate of Harderwijk, a beautiful photo opportunity.",
-            "nl": "De enige overgebleven landpoort van Harderwijk, een prachtige fotomogelijkheid."
+            "nl": "De enige resterende landpoort van Harderwijk, een mooie fotomogelijkheid."
           }
         },
         {
@@ -152,7 +152,7 @@
             "hu": "Molen De Hoop (A Remény Malma)",
             "ro": "Molen De Hoop (Moara Speranței)",
             "en": "Molen De Hoop (The Hope Windmill)",
-            "nl": "Molen De Hoop (The Hope Windmill)"
+            "nl": "Molen De Hoop"
           },
           "coords": [
             5.628,
@@ -169,7 +169,7 @@
             "hu": "Ez a működő malom saját lisztjét árulja a boltban.",
             "ro": "Această moară funcțională își vinde propria făină la magazin.",
             "en": "This working windmill sells its own flour in the shop.",
-            "nl": "Deze werkende molen verkoopt in de winkel eigen meel."
+            "nl": "Deze werkende molen verkoopt in de winkel zijn eigen meel."
           }
         }
       ],
@@ -178,7 +178,7 @@
         "hu": "Kezdje a napot a történelmi Vischpoortnál, lélegezze be a tengeri levegőt, majd csodálja meg a Grote Kerk templomot. Délben fedezze fel a város gazdag történelmét a Stadsmuseumban, és nevessen egy jót a Marius van Dokkum Múzeum művészetén. Zárja a napot egy sétával a lenyűgöző Smeepoorthoz és a klasszikus holland De Hoop szélmalomhoz, élvezve ennek a bájos Hanza-városnak a hangulatát.",
         "ro": "Începeți ziua la istoricul Vischpoort, respirați aerul mării și admirați Grote Kerk. La prânz, explorați istoria bogată la Stadsmuseum și amuzați-vă de arta de la Muzeul Marius van Dokkum. Încheiați ziua cu o plimbare la impunătorul Smeepoort și la moara de vânt olandeză clasică, De Hoop, bucurându-vă de atmosfera acestui fermecător oraș hanseatic.",
         "en": "Start your day at the historic Vischpoort, breathe in the sea air, and admire the Grote Kerk. At midday, explore the rich history at the Stadsmuseum and have a laugh at the art in the Marius van Dokkum Museum. End your day with a walk to the imposing Smeepoort and the classic Dutch windmill, De Hoop, soaking up the atmosphere of this charming Hanseatic city.",
-        "nl": "Begin je dag bij de historische Vischpoort, adem de zeelucht in en bewonder de Grote Kerk. Rond het middaguur verken je de rijke geschiedenis in het Stadsmuseum en lach je om de kunst in het Marius van Dokkum Museum. Sluit de dag af met een wandeling naar de imposante Smeepoort en de klassieke Nederlandse molen De Hoop en geniet van de sfeer van deze charmante Hanzestad."
+        "nl": "Begin je dag bij de historische Vischpoort, adem de zeelucht in en bewonder de Grote Kerk. Rond het middaguur verken je de rijke geschiedenis in het Stadsmuseum en geniet je van de humor in het Marius van Dokkum Museum. Sluit de dag af met een wandeling naar de imposante Smeepoort en de klassieke Nederlandse molen De Hoop, en proef de sfeer van deze charmante Hanzestad."
       },
       "gastro_picks": {
         "de": [
@@ -376,10 +376,10 @@
           "A walk along the boulevard at sunset is highly recommended."
         ],
         "nl": [
-          "Draag comfortabele schoenen: het historische centrum heeft kasseien.",
-          "De meeste bezienswaardigheden in het centrum liggen op loopafstand.",
-          "Let op de 'Struikelstenen' die slachtoffers van de Holocaust herdenken.",
-          "Een wandeling over de boulevard bij zonsondergang is zeer aan te raden."
+          "Draag comfortabele schoenen, want het historische centrum heeft kinderkopjes.",
+          "De meeste bezienswaardigheden in het centrum liggen op korte loopafstand.",
+          "Houd uitkijk naar de 'Struikelstenen', die slachtoffers van de Holocaust herdenken.",
+          "Een wandeling langs de boulevard bij zonsondergang is zeer aan te raden."
         ]
       },
       "variants": {
@@ -389,7 +389,7 @@
             "hu": "A reggel a Vischpoortnál indul, ahol a vastag falak menedéket nyújtanak az eső elől. Délben a Városi Múzeumban merülünk el Harderwijk történelmében, miközben kint kopog az eső. Délután Marius van Dokkum humoros festményei vidítanak fel minket a múzeumban. Az estét egy hangulatos, fedett étteremben zárjuk a főtéren, távol a tó felől fújó nedves széltől.",
             "ro": "Dimineața începe la Vischpoort, unde zidurile groase oferă adăpost împotriva ploii. La prânz, explorăm istoria orașului la Stadsmuseum, în timp ce picăturile cad afară. După-amiaza, ne lăsăm încântați de lucrările umoristice de la Muzeul Marius van Dokkum. Încheiem ziua la căldură, într-unul dintre restaurantele primitoare din piața centrală.",
             "en": "Morning starts at Vischpoort, where thick walls provide shelter from the rain. At midday, we dive into local history at the City Museum while the rain taps on the windows. In the afternoon, the humorous art of Marius van Dokkum brightens the mood. We end the day in the cozy warmth of a restaurant in the old town, safe from the damp wind off the lake.",
-            "nl": "De ochtend begint bij de Vischpoort, waar dikke muren bescherming bieden tegen de regen. Rond het middaguur duiken we in de lokale geschiedenis in het Stadsmuseum terwijl de regen op de ruiten tikt. In de middag verheldert de humoristische kunst van Marius van Dokkum de stemming. We sluiten de dag af in de gezellige warmte van een restaurant in de oude stad, beschut tegen de vochtige wind van het meer."
+            "nl": "De ochtend begint bij Vischpoort, waarvan de dikke muren beschutting bieden tegen de regen. Rond het middaguur duiken we in de lokale geschiedenis in het Stadsmuseum terwijl de regen tegen de ramen tikt. In de middag verheldert de humoristische kunst van Marius van Dokkum de stemming. We eindigen de dag in de gezellige warmte van een restaurant in de oude binnenstad, veilig voor de vochtige wind van het meer."
           },
           "stops": [
             {
@@ -409,7 +409,7 @@
                 "hu": "A belső tér ideális hely a rövid száradáshoz.",
                 "ro": "Interiorul este locul ideal pentru a vă usca puțin.",
                 "en": "The interior is the ideal place to dry off for a bit.",
-                "nl": "Het interieur is ideaal om even op te drogen."
+                "nl": "Het interieur is de ideale plek om even op te drogen."
               }
             },
             {
@@ -419,7 +419,7 @@
                 "hu": "Ruhatár elérhető – add le a vizes kabátodat bátran.",
                 "ro": "Garderobă disponibilă – lăsați haina udă la intrare.",
                 "en": "Cloakroom available – feel free to leave your wet coat.",
-                "nl": "Garderobe aanwezig – je mag je natte jas hier achterlaten."
+                "nl": "Kapstokkast aanwezig – laat gerust je natte jas achter."
               }
             },
             {
@@ -429,7 +429,7 @@
                 "hu": "Tökéletes esős napra: a vidám képek feldobják a kedved.",
                 "ro": "Perfect pentru zile ploioase: picturile vesele vă vor bine dispune.",
                 "en": "Perfect for rainy days: the cheerful paintings will boost your mood.",
-                "nl": "Perfect voor regenachtige dagen: de vrolijke schilderijen doen je humeur stijgen."
+                "nl": "Perfect voor regenachtige dagen: de vrolijke schilderijen doen de stemming goed."
               }
             },
             {
@@ -439,7 +439,7 @@
                 "hu": "Egy rövid, fedett átjáró a következő állomás felé.",
                 "ro": "O scurtă trecere acoperită spre următoarea destinație.",
                 "en": "A short, covered passage on the way to your next stop.",
-                "nl": "Een korte, overdekte passage op weg naar je volgende stop."
+                "nl": "Een korte, overdekte doorgang op weg naar je volgende stop."
               }
             },
             {
@@ -449,7 +449,7 @@
                 "hu": "Heves esőben érdemes a malom belsejét megtekinteni.",
                 "ro": "În caz de ploaie abundentă, se recomandă vizitarea interiorului.",
                 "en": "In case of heavy rain, visiting the interior is recommended.",
-                "nl": "Bij hevige regen is een bezoek aan het interieur aan te raden."
+                "nl": "Bij zware regen wordt een bezoek aan het interieur aanbevolen."
               }
             }
           ],
@@ -479,10 +479,10 @@
               "Many cafes in town offer cozy window seats to watch the rain."
             ],
             "nl": [
-              "Een stevige paraplu is essentieel vanwege de wind van het meer.",
-              "De kasseien in de oude stad kunnen glad zijn bij nat weer.",
-              "Plan museumbezoeken rond het middaguur wanneer de regen vaak het hevigst is.",
-              "Veel cafés in de stad hebben gezellige vensterplaatsen om de regen te bekijken."
+              "Een stevige paraplu is essentieel vanwege de wind vanaf het meer.",
+              "De kinderkopjes in de oude stad kunnen glad zijn bij nat weer.",
+              "Plan je museumbezoeken rond het middaguur, wanneer de regen vaak het hevigst is.",
+              "Veel cafés in de stad bieden gezellige raamplaatsen om de regen te bekijken."
             ]
           }
         },
@@ -492,7 +492,7 @@
             "hu": "A fagyos reggel a Vischpoortnál indul, kilátással a jeges vízre. Délben a Grote Kerk csendjében melegszünk fel, majd a Városi Múzeum tárlatait böngésszük. A korai, 17:00 óra körüli naplemente arany színbe öltözteti a Smeepoort kapuját. Az estét egy forró ital mellett élvezzük a karácsonyi fényekben úszó óvárosban.",
             "ro": "Dimineața geroasă la Vischpoort este răsplătită cu vederea apei înghețate. La prânz, ne încălzim în Grote Kerk înainte de a vizita expozițiile de la Stadsmuseum. Apusul devreme, în jurul orei 17:00, scaldă poarta Smeepoort în lumină aurie. Seara ne bucurăm de o băutură caldă în orașul vechi luminat festiv.",
             "en": "A frosty morning at Vischpoort offers beautiful views of the icy waters. Midday is spent warming up in the Grote Kerk and exploring the City Museum's collections. The early sunset around 5 PM casts a golden glow over the Smeepoort gate. We enjoy the evening with a hot drink in the festively lit old town.",
-            "nl": "Een ijskoude ochtend bij de Vischpoort biedt prachtige uitzichten over het ijs. Rond het middaguur warmen we ons op in de Grote Kerk en verkennen we de collecties van het Stadsmuseum. De vroege zonsondergang rond 17.00 uur werpt een gouden gloed over de Smeepoort. ’s Avonds genieten we van een warme drank in de feestelijk verlichte oude stad."
+            "nl": "Een ijskoude ochtend bij de Vischpoort biedt prachtige uitzichten over het ijzige water. Rond het middaguur warm je op in de Grote Kerk en verken je de collecties van het Stadsmuseum. De vroege zonsondergang rond 17:00 werpt een gouden gloed over de Smeepoort. We genieten de avond met een warme drank in de feestelijk verlichte oude binnenstad."
           },
           "stops": [
             {
@@ -502,7 +502,7 @@
                 "hu": "Vigyázz a faggyal a vízpart közeli lépcsőkön.",
                 "ro": "Atenție la îngheț pe treptele de lângă apă.",
                 "en": "Watch out for frost on the steps near the water.",
-                "nl": "Let op rijm op de trappen bij het water."
+                "nl": "Pas op voor vorst op de trappen bij het water."
               }
             },
             {
@@ -542,7 +542,7 @@
                 "hu": "Az esti kivilágítás télen különösen varázslatos.",
                 "ro": "Iluminatul de seară pare deosebit de magic iarna.",
                 "en": "The evening lighting looks especially magical in winter.",
-                "nl": "De avondverlichting oogt in de winter extra sprookjesachtig."
+                "nl": "De avondverlichting ziet er vooral in de winter betoverend uit."
               }
             },
             {
@@ -552,7 +552,7 @@
                 "hu": "Öltözz rétegesen, mert a malom belsejében hűvös lehet.",
                 "ro": "Îmbrăcați-vă bine, deoarece poate fi răcoare în interiorul morii.",
                 "en": "Dress warmly as it can be chilly inside the mill.",
-                "nl": "Kleed je warm, want het kan binnen in de molen koud zijn."
+                "nl": "Kleed je warm aan, want het kan koud zijn in de molen."
               }
             }
           ],
@@ -582,10 +582,10 @@
               "Warm up regularly in the numerous tea rooms."
             ],
             "nl": [
-              "De zon gaat rond 17.00 uur onder; plan je foto’s eerder op de dag.",
-              "Draag winddichte kleding vanwege de harde wind van het Veluwemeer.",
-              "In de winter worden in de oude stad vaak kleine ijsbaantjes aangelegd.",
-              "Warm regelmatig op in een van de vele theesalons."
+              "De zon gaat rond 17:00 onder, plan je foto’s dus eerder op de dag.",
+              "Draag winddichte kleding vanwege de stevige bries van het Veluwemeer.",
+              "In de winter worden er vaak kleine schaatsbaanetjes in de binnenstad aangelegd.",
+              "Warm regelmatig op in de talrijke theesalons."
             ]
           }
         }
@@ -648,7 +648,7 @@
             "hu": "Egy rövid megálló ennél a régi városkapunál, mielőtt a központba tekernél.",
             "ro": "O scurtă oprire la această veche poartă a orașului înainte de a merge cu bicicleta spre centru.",
             "en": "A quick stop at this old city gate before cycling into the center.",
-            "nl": "Een korte stop bij deze oude stadspoort voordat je het centrum in fietst."
+            "nl": "Een snelle stop bij deze oude stadspoort voordat je naar het centrum fietst."
           }
         },
         {
@@ -700,7 +700,7 @@
             "hu": "Tekerj le a kikötőbe, és élvezd a tengeri hangulatot a Halas kapunál.",
             "ro": "Mergeți cu bicicleta până la port și bucurați-vă de atmosfera maritimă de la Poarta Peștelui.",
             "en": "Cycle down to the harbor and enjoy the maritime atmosphere at the Fish Gate.",
-            "nl": "Fiets naar de haven en geniet van de maritieme sfeer bij de Visserspoort."
+            "nl": "Fiets naar de haven en geniet van de maritieme sfeer bij de Vischpoort."
           }
         },
         {
@@ -726,7 +726,7 @@
             "hu": "Ez a bazilikaként is ismert templom a csendes elmélkedés helye.",
             "ro": "Această biserică, cunoscută și sub numele de bazilică, este un loc liniștit pentru reflecție.",
             "en": "This church, also known as the Basilica, is a quiet place for reflection.",
-            "nl": "Deze kerk, ook bekend als de Basiliek, is een stille plek voor bezinning."
+            "nl": "Deze kerk, ook bekend als de Basiliek, is een rustige plek voor bezinning."
           }
         },
         {
@@ -752,7 +752,7 @@
             "hu": "Tervezz elegendő időt a bemutatókra, ez Európa legnagyobb tengeri emlősparkja.",
             "ro": "Planificați-vă suficient timp pentru spectacole, este cel mai mare parc de mamifere marine din Europa.",
             "en": "Plan enough time for the shows, it's the largest marine mammal park in Europe.",
-            "nl": "Plan voldoende tijd voor de shows; het is het grootste zeezoogdierenpark van Europa."
+            "nl": "Plan voldoende tijd voor de shows, het is het grootste zeezoogdierenpark van Europa."
           }
         }
       ],
@@ -761,7 +761,7 @@
         "hu": "Pattanjon biciklire, és induljon a De Hoop szélmalomtól, mielőtt áthaladna a történelmi Smeepoort és Vischpoort kapukon. Délben merüljön el a város kultúrájában a két központi múzeumban. A délután a fényponté: egy hosszabb tekerés a híres Dolfináriumhoz, ahol felfedezheti a tengeri állatok lenyűgöző világát. Tökéletes nap, amely ötvözi a kultúrát és a természetet.",
         "ro": "Urcați-vă pe bicicletă și porniți de la moara de vânt De Hoop înainte de a trece prin porțile istorice Smeepoort și Vischpoort. La prânz, scufundați-vă în cultura orașului la cele două muzee centrale. După-amiaza este rezervată pentru punctul culminant: o plimbare mai lungă cu bicicleta la faimosul Delfinariu, unde veți descoperi lumea fascinantă a animalelor marine. O zi perfectă care combină cultura și natura.",
         "en": "Hop on your bike and start at the De Hoop windmill before cycling through the historic Smeepoort and Vischpoort gates. At midday, immerse yourself in the city's culture at the two central museums. The afternoon is reserved for the highlight: a longer ride to the famous Dolfinarium, where you'll discover the fascinating world of marine animals. A perfect day combining culture and nature.",
-        "nl": "Stap op je fiets en begin bij molen De Hoop voordat je door de historische poorten Smeepoort en Vischpoort fietst. Rond het middaguur dompel je je onder in de stads cultuur bij de twee centrale musea. De middag is gereserveerd voor de kers op de taart: een langere rit naar het beroemde Dolfinarium, waar je de fascinerende wereld van zeedieren ontdekt. Een perfecte dag die cultuur en natuur combineert."
+        "nl": "Stap op je fiets en begin bij molen De Hoop voordat je door de historische Smeepoort- en Vischpoortpoorten fietst. Rond het middaguur dompel je je onder in de stadscultuur bij de twee centrale musea. De middag is gereserveerd voor het hoogtepunt: een wat langere rit naar het beroemde Dolfinarium, waar je de fascinerende wereld van zeedieren ontdekt. Een perfecte dag die cultuur en natuur combineert."
       },
       "gastro_picks": {
         "de": [
@@ -959,10 +959,10 @@
           "The ride to the Dolfinarium is mostly flat and scenic."
         ],
         "nl": [
-          "Huur een fiets bij het treinstation of in het stadscentrum als je er zelf geen hebt.",
-          "Let op de fietspaden en verkeersregels.",
-          "Zet je fiets altijd op slot, ook voor korte stops.",
-          "De rit naar het Dolfinarium is grotendeels vlak en schilderachtig."
+          "Huur een fiets bij het treinstation of in het centrum als je er zelf geen hebt.",
+          "Let op de fietspaden en de verkeersregels.",
+          "Zet je fiets altijd op slot, ook bij korte stops.",
+          "De rit naar het Dolfinarium is overwegend vlak en schilderachtig."
         ]
       },
       "variants": {
@@ -972,7 +972,7 @@
             "hu": "Az eső ellenére a Molen De Hoopnál kezdjük a bringázást, ahol kivárjuk az első záport. Délben gyorsan áthajtunk a Smeepoort kapun a múzeumok felé, amelyek száraz menedéket nyújtanak. Délután a Vischpoort mellett eltekerve érjük el az Onze-Lieve-Vrouwekerk templomot. A napot a Dolfinariumban zárjuk, ahol sok bemutató fedett helyen van.",
             "ro": "În ciuda ploii, începem tura cu bicicleta la Molen De Hoop, unde așteptăm să treacă prima aversă. La prânz, trecem rapid prin Smeepoort spre muzee, care oferă adăpost uscat. După-amiaza, pedalăm pe lângă Vischpoort spre Onze-Lieve-Vrouwekerk. Încheiem ziua la Dolfinarium, unde multe spectacole au loc sub acoperiș.",
             "en": "Despite the rain, we start our bike tour at Molen De Hoop, waiting out the first shower. At midday, we ride quickly through Smeepoort to the museums, which offer dry shelter. In the afternoon, we pedal past Vischpoort to the Onze-Lieve-Vrouwekerk. We end the day at the Dolfinarium, where many shows are held under protective roofs.",
-            "nl": "Ondanks de regen beginnen we onze fietstocht bij Molen De Hoop en wachten de eerste bui af. Rond het middaguur fietsen we snel door de Smeepoort naar de musea, die droge beschutting bieden. In de middag rijden we langs de Vischpoort naar de Onze-Lieve-Vrouwekerk. We beëindigen de dag bij het Dolfinarium, waar veel shows onder overdekte tribunes plaatsvinden."
+            "nl": "Ondanks de regen beginnen we onze fietstocht bij Molen De Hoop en wachten we de eerste bui af. Rond het middaguur fietsen we snel door Smeepoort naar de musea, die droge beschutting bieden. In de middag trappen we langs Vischpoort naar de Onze-Lieve-Vrouwekerk. We sluiten de dag af in het Dolfinarium, waar veel shows onder beschermende daken plaatsvinden."
           },
           "stops": [
             {
@@ -982,7 +982,7 @@
                 "hu": "Jó védelmet nyújt a malom hídja alatti rész.",
                 "ro": "O bună posibilitate de adăpost sub podul morii.",
                 "en": "Good shelter available under the mill's gallery.",
-                "nl": "Goede beschutting onder het molenbordes."
+                "nl": "Goede beschutting beschikbaar onder de molengalerij."
               }
             },
             {
@@ -992,7 +992,7 @@
                 "hu": "Vigyázz a fékezéssel a nedves macskakövön.",
                 "ro": "Atenție la frânare pe pavajul umed.",
                 "en": "Be careful when braking on wet cobblestones.",
-                "nl": "Wees voorzichtig bij het remmen op natte kasseien."
+                "nl": "Wees voorzichtig met remmen op natte klinkers."
               }
             },
             {
@@ -1062,10 +1062,10 @@
               "Brake early as stopping distance is longer on wet ground."
             ],
             "nl": [
-              "Volledige regenuitrusting, inclusief regenbroek, wordt sterk aanbevolen.",
+              "Volledige regenkleding, inclusief regenbroek, wordt sterk aanbevolen.",
               "Let op plassen die diepe kuilen kunnen verbergen.",
               "Gebruik waterdichte fietstassen om je waardevolle spullen droog te houden.",
-              "Rem vroeg; de remweg is langer op nat wegdek."
+              "Rem vroeg, want de remafstand is langer op natte ondergrond."
             ]
           }
         },
@@ -1075,7 +1075,7 @@
             "hu": "A téli reggel frissen indul a Molen De Hoopnál, miközben dér csillog a mezőkön. Délben a Smeepoort kapun átekerve az óváros múzeumaiban keresünk meleget. Délután az utunk a Vischpoort mellett vezet a csendes Onze-Lieve-Vrouwekerk templomhoz. A napot a Dolfinariumban koronázzuk meg, ahol a vízparti téli hangulat különösen nyugodt.",
             "ro": "Dimineața de iarnă începe proaspăt la Molen De Hoop, în timp ce bruma strălucește pe câmpuri. La prânz, căutăm căldură în muzeele din orașul vechi. După-amiaza, drumul ne poartă pe lângă Vischpoort spre liniștita biserică Onze-Lieve-Vrouwekerk. Încheiem ziua cu o vizită la Dolfinarium, unde atmosfera de iarnă de lângă apă este foarte calmă.",
             "en": "The winter morning starts fresh at Molen De Hoop, with frost glistening on the fields. At midday, we seek warmth in the old town's museums after cycling through Smeepoort. In the afternoon, our path leads past Vischpoort to the quiet Onze-Lieve-Vrouwekerk. We crown the day with a visit to the Dolfinarium, where the winter atmosphere by the water is uniquely peaceful.",
-            "nl": "De winterse ochtend begint fris bij Molen De Hoop, met rijp dat op de velden glinstert. Rond het middaguur zoeken we warmte in de musea van de oude stad na een rit door de Smeepoort. In de middag leiden de paden langs de Vischpoort naar de rustige Onze-Lieve-Vrouwekerk. We bekronen de dag met een bezoek aan het Dolfinarium, waar de winterse sfeer aan het water bijzonder vredig is."
+            "nl": "De winterochtend begint fris bij Molen De Hoop, met rijp dat op de velden glinstert. Rond het middaguur zoeken we warmte in de musea van de oude stad na het fietsen door Smeepoort. In de middag leidt onze route langs Vischpoort naar de rustige Onze-Lieve-Vrouwekerk. We bekronen de dag met een bezoek aan het Dolfinarium, waar de winterse sfeer aan het water op unieke wijze vredig is."
           },
           "stops": [
             {
@@ -1095,7 +1095,7 @@
                 "hu": "Ügyelj a felfagyásokra a kapu környékén.",
                 "ro": "Atenție la polei în zona porții.",
                 "en": "Watch out for black ice in the gate area.",
-                "nl": "Pas op voor zwart ijs in de poortomgeving."
+                "nl": "Let op ijzel in het poortgebied."
               }
             },
             {
@@ -1105,7 +1105,7 @@
                 "hu": "Használd ki a szünetet az ujjaid felmelegítésére.",
                 "ro": "Folosiți pauza pentru a vă reîncălzi degetele.",
                 "en": "Use the break to warm up your fingers again.",
-                "nl": "Gebruik een pauze om je vingers weer op te warmen."
+                "nl": "Gebruik de pauze om je vingers weer op te warmen."
               }
             },
             {
@@ -1115,7 +1115,7 @@
                 "hu": "A tó felől fújó szél itt különösen metsző lehet.",
                 "ro": "Vântul de pe lac poate fi deosebit de tăios aici.",
                 "en": "The wind off the lake can be particularly biting here.",
-                "nl": "De wind van het meer kan hier extra bijtend aanvoelen."
+                "nl": "De wind vanaf het meer kan hier bijzonder scherp aanvoelen."
               }
             },
             {
@@ -1125,7 +1125,7 @@
                 "hu": "A templom békés, szélvédett pihenőt nyújt.",
                 "ro": "Biserica oferă un popas liniștit, ferit de vânt.",
                 "en": "The church offers a peaceful, wind-sheltered rest.",
-                "nl": "De kerk biedt een rustige, windvrije rustplek."
+                "nl": "De kerk biedt een rustige, windvrije plek om uit te rusten."
               }
             },
             {
@@ -1165,10 +1165,10 @@
               "Plan shorter legs as cycling in the cold is more exhausting."
             ],
             "nl": [
-              "Let op zwart ijs, vooral op bruggen en bij het water.",
-              "De zon gaat vroeg onder; controleer je fietsverlichting.",
-              "Draag meerdere lagen kleding (ui-principe).",
-              "Plan kortere etappes; fietsen in de kou kost meer energie."
+              "Let op ijzel, vooral op bruggen en in de buurt van het water.",
+              "De zon gaat vroeg onder, controleer je fietsverlichting.",
+              "Draag meerdere lagen kleding (uitdunnen volgens het ui-principe).",
+              "Plan kortere etappes, want fietsen in de kou is vermoeiender."
             ]
           }
         }
@@ -1205,7 +1205,7 @@
             "hu": "Parkolj a Smeepoort közelében (pl. a Houtwal parkolóházban), és kezdd a sétát.",
             "ro": "Parcați lângă Smeepoort (de ex. parcarea Houtwal) și începeți turul pe jos.",
             "en": "Park near the Smeepoort (e.g., Houtwal parking garage) and start your walking tour.",
-            "nl": "Parkeer bij de Smeepoort (bijv. Houtwal parkeergarage) en begin je wandelroute."
+            "nl": "Parkeer bij de Smeepoort (bijv. parkeergarage Houtwal) en begin je wandelroute."
           }
         },
         {
@@ -1240,7 +1240,7 @@
             "hu": "Vischpoort és kikötő",
             "ro": "Vischpoort & Port",
             "en": "Vischpoort & Harbor",
-            "nl": "Vischpoort & Harbor"
+            "nl": "Vischpoort & Haven"
           },
           "coords": [
             5.617,
@@ -1257,7 +1257,7 @@
             "hu": "Sétálj le a kikötőbe, hogy magadba szívd a város tengeri múltját.",
             "ro": "Plimbați-vă până la port pentru a absorbi trecutul maritim al orașului.",
             "en": "Stroll down to the harbor to soak up the city's maritime past.",
-            "nl": "Wandel naar de haven om de maritieme geschiedenis van de stad op te snuiven."
+            "nl": "Wandel naar de haven om de maritieme geschiedenis van de stad te proeven."
           }
         },
         {
@@ -1309,7 +1309,7 @@
             "hu": "Vezessen el a Dolfináriumhoz, és parkoljon le a show-kkal teli délutánra.",
             "ro": "Conduceți la Delfinariu și parcați acolo pentru o după-amiază plină de spectacole.",
             "en": "Drive to the Dolfinarium and park there for the afternoon of shows.",
-            "nl": "Rijd naar het Dolfinarium en parkeer daar voor een middag met shows."
+            "nl": "Rijd naar het Dolfinarium en parkeer daar voor een middag vol shows."
           }
         },
         {
@@ -1344,7 +1344,7 @@
         "hu": "Parkolja le autóját a központban, és fedezze fel gyalog Harderwijk történelmi magját: a régi kapuktól a nyüzsgő kikötőig. Egy kellemes óvárosi ebéd után vezessen a Dolfináriumhoz, a vitathatatlan fénypontjához. Töltse a délutánt delfinekkel és oroszlánfókákkal. Egy rövid autós megálló a De Hoop szélmalomnál teszi teljessé az eseménydús napot, mielőtt elhagyná a várost.",
         "ro": "Parcați mașina în centru și explorați nucleul istoric al Harderwijk-ului pe jos: de la porțile vechi la portul plin de viață. După un prânz relaxat în orașul vechi, conduceți la Delfinariu, punctul culminant de necontestat. Petreceți după-amiaza cu delfini și lei de mare. O scurtă oprire cu mașina la moara de vânt De Hoop completează ziua plină de evenimente înainte de a părăsi orașul.",
         "en": "Park your car centrally and explore Harderwijk's historic core on foot: from the old gates to the bustling harbor. After a leisurely lunch in the old town, drive to the Dolfinarium, the undisputed highlight. Spend the afternoon with dolphins and sea lions. A final quick car stop at the De Hoop windmill completes your eventful day before you leave the city.",
-        "nl": "Parkeer je auto centraal en verken te voet het historische centrum van Harderwijk: van de oude poorten tot de bruisende haven. Na een ontspannen lunch in de binnenstad rijd je naar het Dolfinarium, de onbetwiste blikvanger. Breng de middag door met dolfijnen en zeeleeuwen. Een laatste korte autostop bij Molen De Hoop maakt je enerverende dag compleet voordat je de stad verlaat."
+        "nl": "Parkeer je auto centraal en verken het historische hart van Harderwijk te voet: van de oude poorten tot de levendige haven. Na een ontspannen lunch in de oude stad rijd je naar het Dolfinarium, het onbetwiste hoogtepunt. Breng de middag door met dolfijnen en zeeleeuwen. Een laatste korte stop bij molen De Hoop maakt je enerverende dag compleet voordat je de stad verlaat."
       },
       "gastro_picks": {
         "de": [
@@ -1542,10 +1542,10 @@
           "Be aware of low-emission zones (milieuzones) in or around Dutch cities."
         ],
         "nl": [
-          "Controleer parkeerkosten; parkeren kan duur zijn. Parkeergarages zijn vaak goedkoper dan straatparkeren.",
-          "De binnenstad is compact, de auto is daar niet nodig.",
-          "Boek Dolfinarium-tickets van tevoren online om wachtrijen te vermijden en mogelijk geld te besparen.",
-          "Let op milieuzones in of rond Nederlandse steden."
+          "Controleer parkeertarieven; parkeren kan duur zijn. Parkeergarages zijn vaak goedkoper dan straatparkeren.",
+          "De oude stad is compact; een auto is daar niet nodig.",
+          "Boek Dolfinarium-tickets vooraf online om wachtrijen te vermijden en mogelijk te besparen.",
+          "Houd rekening met milieuzones in of rond Nederlandse steden."
         ]
       },
       "variants": {
@@ -1555,7 +1555,7 @@
             "hu": "Az esős napokat Harderwijkben legkönnyebben autóval vészelhetjük át. Központilag parkolunk a Smeepoortnál, így csak keveset kell sétálnunk. Délben a Városi Múzeumba látogatunk, miközben az autó biztonságban áll. Egy óvárosi ebéd után a Dolfinariumba hajtunk, ahol a parkolók közel vannak a bejárathoz. A napot a Molen De Hoop malomnál zárjuk.",
             "ro": "Zilele ploioase în Harderwijk sunt cel mai ușor de gestionat cu mașina. Parcăm central la Smeepoort și mergem doar puțin pe jos. La prânz vizităm Stadsmuseum, în timp ce mașina stă la loc sigur. După un prânz în orașul vechi, mergem la Dolfinarium, unde parcările sunt aproape de intrare. Încheiem la Molen De Hoop.",
             "en": "Rainy days in Harderwijk are best managed by car. We park centrally at Smeepoort, keeping walking distances short. At midday, we visit the City Museum while the car stays dry nearby. After a cozy lunch in the old town, we drive to the Dolfinarium, where parking is close to the entrance. We finish the day at Molen De Hoop, easily reached by car.",
-            "nl": "Regenachtige dagen in Harderwijk zijn het beste met de auto. Wij parkeren centraal bij Smeepoort, zodat de loopafstanden kort blijven. Rond het middaguur bezoeken we het Stadsmuseum terwijl de auto droog in de buurt blijft. Na een gezellige lunch in de binnenstad rijden we naar het Dolfinarium, waar de parkeergelegenheid dicht bij de ingang is. We sluiten de dag af bij Molen De Hoop, eenvoudig per auto bereikbaar."
+            "nl": "Regenachtige dagen in Harderwijk zijn het beste met de auto te doen. We parkeren centraal bij Smeepoort om loopafstanden kort te houden. Rond het middaguur bezoeken we het Stadsmuseum terwijl de auto droog blijft in de buurt. Na een gezellige lunch in de oude stad rijden we naar het Dolfinarium, waar parkeren dicht bij de ingang is. We eindigen de dag bij Molen De Hoop, gemakkelijk bereikbaar met de auto."
           },
           "stops": [
             {
@@ -1575,7 +1575,7 @@
                 "hu": "Használd a főbejáratot a rövid gyalogút érdekében.",
                 "ro": "Folosiți intrarea principală pentru drumuri scurte prin ploaie.",
                 "en": "Use the main entrance to keep walking distance short.",
-                "nl": "Gebruik de hoofdentree om de loopafstand kort te houden."
+                "nl": "Gebruik de hoofdingang om de loopafstand kort te houden."
               }
             },
             {
@@ -1605,7 +1605,7 @@
                 "hu": "A P1 jelű parkoló használata lerövidíti a sétát.",
                 "ro": "Parcarea în zona P1 scurtează drumul pe jos.",
                 "en": "Parking in the P1 area shortens the walk to the entrance.",
-                "nl": "Parkeren in het P1-gebied verkort de wandeling naar de ingang."
+                "nl": "Parkeren in gebied P1 verkort de wandeling naar de ingang."
               }
             },
             {
@@ -1615,7 +1615,7 @@
                 "hu": "Állj meg közvetlenül előtte egy gyors fotóra az esőben.",
                 "ro": "Opriți chiar în față pentru o fotografie rapidă în ploaie.",
                 "en": "Stop right in front for a quick photo in the rain.",
-                "nl": "Stop vlak ervoor voor een snelle foto in de regen."
+                "nl": "Stop recht voor de ingang voor een snelle foto in de regen."
               }
             }
           ],
@@ -1658,7 +1658,7 @@
             "hu": "Télen az autó meleg bázist nyújt a városnézéshez. A Smeepoortnál kezdünk, élvezve a fagyos kilátást. Délben a Városi Múzeumban melegszünk fel, majd továbbhajtunk a díszes városon át. A kikötői naplemente 17:00 körül az autóból is csodásan látható. A napot a Dolfinariumnál és a kivilágított malomnál zárjuk pihentetően.",
             "ro": "Iarna, mașina oferă confortul unei baze calde pentru tur. Începem la Smeepoort și ne bucurăm de vederea geroasă. La prânz ne încălzim la Stadsmuseum, apoi continuăm drumul prin orașul decorat. Apusul în port, în jurul orei 17:00, se vede minunat din mașină. Încheiem ziua relaxat la Dolfinarium și la moara iluminată.",
             "en": "In winter, the car provides a warm base for your tour. We start at Smeepoort, enjoying the frosty views. At midday, we warm up in the City Museum before driving through the decorated town. The sunset at the harbor around 5 PM is wonderful to watch from the car. We end the day in a relaxed way at the Dolfinarium and the lit-up windmill.",
-            "nl": "In de winter biedt de auto een warme basis voor je tocht. We beginnen bij Smeepoort en genieten van het rijpige uitzicht. Rond het middaguur warmen we op in het Stadsmuseum voordat we door het verlichte stadje rijden. De zonsondergang bij de haven rond 17:00 is prachtig om vanuit de auto te bekijken. We eindigen de dag ontspannen bij het Dolfinarium en de verlichte molen."
+            "nl": "In de winter biedt de auto een warme basis voor je tour. We beginnen bij Smeepoort en genieten van de frostige uitzichten. Rond het middaguur zoeken we warmte in het Stadsmuseum voordat we door het versierde stadje rijden. De zonsondergang bij de haven rond 17:00 is prachtig om vanuit de auto te bekijken. We eindigen de dag ontspannen in het Dolfinarium en bij de verlichte molen."
           },
           "stops": [
             {
@@ -1668,7 +1668,7 @@
                 "hu": "Ügyelj a csúszós utakra a ki- és behajtásnál.",
                 "ro": "Atenție la polei la intrare și ieșire.",
                 "en": "Watch out for ice at the entrance and exit.",
-                "nl": "Let op ijs bij de in- en uitgang."
+                "nl": "Let op ijs bij de in- en uitrit."
               }
             },
             {
@@ -1688,7 +1688,7 @@
                 "hu": "Élvezd a jeges kilátást közvetlenül a vezetőülésből.",
                 "ro": "Bucurați-vă de vederea gheții direct de la volan.",
                 "en": "Enjoy the view of the ice directly from the driver's seat.",
-                "nl": "Geniet van het ijsbeeld direct vanuit de bestuurdersstoel."
+                "nl": "Geniet van het uitzicht op het ijs direct vanaf de bestuurdersstoel."
               }
             },
             {
@@ -1698,7 +1698,7 @@
                 "hu": "Keress olyan éttermeket, ahol közvetlenül az ajtó előtt parkolhatsz.",
                 "ro": "Căutați restaurante cu locuri de parcare chiar în față.",
                 "en": "Look for restaurants with parking right in front.",
-                "nl": "Zoek restaurants met parkeerplaatsen direct voor de deur."
+                "nl": "Zoek naar restaurants met parkeerplaatsen direct voor de deur."
               }
             },
             {
@@ -1708,7 +1708,7 @@
                 "hu": "Télen gyakran több parkoló szabad az első sorokban.",
                 "ro": "Iarna sunt adesea mai multe locuri de parcare libere în față.",
                 "en": "In winter, more front-row parking spots are usually available.",
-                "nl": "In de winter zijn er meestal meer frontrow-parkeerplaatsen beschikbaar."
+                "nl": "In de winter zijn er meestal meer parkeerplaatsen op de eerste rij beschikbaar."
               }
             },
             {
@@ -1718,7 +1718,7 @@
                 "hu": "A malom este, télen gyönyörűen ki van világítva.",
                 "ro": "Moara este iluminată minunat seara pe timp de iarnă.",
                 "en": "The mill is beautifully lit up on winter evenings.",
-                "nl": "De molen is ’s avonds in de winter prachtig verlicht."
+                "nl": "De molen is ’s winters prachtig verlicht."
               }
             }
           ],
@@ -1749,9 +1749,9 @@
             ],
             "nl": [
               "Gebruik antivries in je ruitensproeiervloeistof.",
-              "Reken extra tijd voor het krabben van ijs als de auto buiten staat.",
-              "Parkeerplaatsen aan het water kunnen erg tochtig zijn door de wind.",
-              "Rijd voorzichtig, want zijstraten worden niet altijd sneeuwvrij gemaakt."
+              "Reken extra tijd voor het krabben van ijs als de auto buiten geparkeerd staat.",
+              "Parkeerplaatsen aan het water kunnen door de wind erg guur zijn.",
+              "Rij voorzichtig; zijstraten zijn mogelijk niet altijd sneeuwvrij."
             ]
           }
         }
@@ -1771,7 +1771,7 @@
             "hu": "Érkezés a pályaudvarra és busz a központba",
             "ro": "Sosire la gară & autobuz spre centru",
             "en": "Arrival at Station & Bus to Center",
-            "nl": "Aankomst: Station & Bus naar Centrum"
+            "nl": "Aankomst op station & bus naar centrum"
           },
           "coords": [
             5.621,
@@ -1788,7 +1788,7 @@
             "hu": "A pályaudvarról busszal menj a központba, és szállj le az Onze-Lieve-Vrouwekerk közelében.",
             "ro": "Luați un autobuz de la gară spre centru și coborâți lângă Onze-Lieve-Vrouwekerk.",
             "en": "Take a bus from the station to the center, getting off near the Onze-Lieve-Vrouwekerk.",
-            "nl": "Neem vanaf het station de bus naar het centrum en stap uit bij de Onze-Lieve-Vrouwekerk."
+            "nl": "Neem vanaf het station een bus naar het centrum en stap uit bij de Onze-Lieve-Vrouwekerk."
           }
         },
         {
@@ -1823,7 +1823,7 @@
             "hu": "Vischpoort és kikötő",
             "ro": "Vischpoort & Port",
             "en": "Vischpoort & Harbor",
-            "nl": "Vischpoort & Haven"
+            "nl": "Vischpoort & haven"
           },
           "coords": [
             5.617,
@@ -1840,7 +1840,7 @@
             "hu": "Élvezd a kilátást és esetleg egy gyors halas falatot a kikötőben.",
             "ro": "Bucurați-vă de priveliște și poate de o gustare rapidă cu pește în port.",
             "en": "Enjoy the view and maybe a quick fish snack at the harbor.",
-            "nl": "Geniet van het uitzicht en misschien een snelle vis-snack bij de haven."
+            "nl": "Geniet van het uitzicht en misschien een snelle visbite bij de haven."
           }
         },
         {
@@ -1866,7 +1866,7 @@
             "hu": "Menj busszal a központból a Dolfináriumba. Tervezz a buszmenetrenddel.",
             "ro": "Luați un autobuz din centru spre Delfinariu. Țineți cont de orarul autobuzului.",
             "en": "Take a bus from the center to the Dolfinarium. Allow time for the bus schedule.",
-            "nl": "Neem een bus van het centrum naar het Dolfinarium. Houd rekening met de dienstregeling."
+            "nl": "Neem een bus vanuit het centrum naar het Dolfinarium. Houd rekening met de dienstregeling."
           }
         },
         {
@@ -1875,7 +1875,7 @@
             "hu": "Visszaút a pályaudvarra",
             "ro": "Întoarcere la gară",
             "en": "Return to Station",
-            "nl": "Terug naar Station"
+            "nl": "Terug naar station"
           },
           "coords": [
             5.635,
@@ -1901,7 +1901,7 @@
         "hu": "Használja a tömegközlekedést egy stresszmentes naphoz. A busz a pályaudvarról az óváros szívébe visz, ahol gyalog fedezheti fel a történelmi nevezetességeket. Sétáljon a sikátorokban, látogasson el múzeumokba, és élvezze a kikötői hangulatot. Délután egy másik busz elviszi a híres Dolfináriumba, ahol elmerülhet a víz alatti világban. A nap végén a busz kényelmesen visszaviszi Önt a pályaudvarra.",
         "ro": "Folosiți transportul public pentru o zi fără stres. Un autobuz vă va duce de la gară în inima orașului vechi, unde puteți explora punctele de atracție istorice pe jos. Plimbați-vă pe alei, vizitați muzee și bucurați-vă de atmosfera portuară. După-amiaza, un alt autobuz vă va duce la faimosul Delfinariu, unde vă puteți scufunda în lumea subacvatică. La sfârșitul zilei, autobuzul vă va duce confortabil înapoi la gară.",
         "en": "Use public transport for a stress-free day. A bus takes you from the station into the heart of the old town, where you can explore the historic highlights on foot. Wander the alleys, visit museums, and enjoy the harbor atmosphere. In the afternoon, another bus takes you to the famous Dolfinarium, where you can dive into the underwater world. At the end of the day, the bus conveniently brings you back to the station.",
-        "nl": "Gebruik het openbaar vervoer voor een zorgeloze dag. Een bus brengt je vanaf het station naar het hart van de binnenstad, waar je de historische hoogtepunten te voet kunt verkennen. Dwaal door de straatjes, bezoek musea en geniet van de havensfeer. In de middag brengt een andere bus je naar het beroemde Dolfinarium, waar je kunt duiken in de onderwaterwereld. Aan het eind van de dag brengt de bus je comfortabel terug naar het station."
+        "nl": "Gebruik het openbaar vervoer voor een zorgeloze dag. Een bus brengt je van het station naar het hart van de binnenstad, waar je de historische hoogtepunten te voet kunt verkennen. Wandel door de steegjes, bezoek musea en geniet van de havensfeer. ’s Middags brengt een andere bus je naar het beroemde Dolfinarium, waar je de onderwaterwereld kunt ontdekken. Aan het einde van de dag brengt de bus je comfortabel terug naar het station."
       },
       "gastro_picks": {
         "de": [
@@ -2100,8 +2100,8 @@
         ],
         "nl": [
           "Koop een OV-chipkaart of gebruik je contactloze pin-/creditcard voor eenvoudig in- en uitchecken.",
-          "Controleer bussen- en vertrektijden van tevoren, vooral voor de terugreis vanaf het Dolfinarium.",
-          "Download een Nederlandse reisplanner zoals 9292 om je reis in real-time te plannen.",
+          "Controleer de bustijden van tevoren, vooral voor de terugreis vanaf het Dolfinarium.",
+          "Download een Nederlandse OV-app zoals 9292 om je reis in realtime te plannen.",
           "Een dagkaart voor de bus kan goedkoper zijn als je meerdere ritten plant."
         ]
       },
@@ -2112,7 +2112,7 @@
             "hu": "Esőben a busz a legjobb barát Harderwijkben. Megérkezünk a vasútállomásra, és közvetlenül a központba utazunk. Délben a Városi Múzeumot fedezzük fel, amely csak pár lépésre van a buszmegállótól. Délután a shuttle busz kényelmesen elvisz a Dolfinariumba, ahol a legtöbb látnivaló fedett. A napot egy pihentető buszúttal zárjuk vissza az állomásra.",
             "ro": "Pe ploaie, autobuzul este cel mai bun prieten în Harderwijk. Sosim la gară și mergem direct în centru. La prânz explorăm Stadsmuseum, aflat la doar câțiva pași de stația de autobuz. După-amiaza, naveta ne duce confortabil la Dolfinarium, unde majoritatea atracțiilor sunt acoperite. Încheiem ziua cu o călătorie relaxantă înapoi la gară.",
             "en": "In the rain, the bus is your best friend in Harderwijk. We arrive at the station and take a bus directly to the center. At midday, we explore the City Museum, just steps from the bus stop. In the afternoon, the shuttle takes us comfortably to the Dolfinarium, where most attractions are under cover. We end the day with a relaxed bus ride back to the station.",
-            "nl": "Bij regen is de bus je beste vriend in Harderwijk. We komen aan op het station en nemen een bus direct naar het centrum. Rond het middaguur verkennen we het Stadsmuseum, vlakbij de bushalte. In de middag brengt de pendelbus ons comfortabel naar het Dolfinarium, waar de meeste attracties overdekt zijn. We eindigen de dag met een ontspannen busrit terug naar het station."
+            "nl": "Bij regen is de bus je beste vriend in Harderwijk. We arriveren op het station en nemen direct een bus naar het centrum. Rond het middaguur verkennen we het Stadsmuseum, op een steenworp afstand van de bushalte. ’s Middags brengt de shuttle ons comfortabel naar het Dolfinarium, waar de meeste attracties overdekt zijn. De dag eindigt met een ontspannen busrit terug naar het station."
           },
           "stops": [
             {
@@ -2122,7 +2122,7 @@
                 "hu": "Használd a vasútállomás fedett várakozóhelyeit.",
                 "ro": "Folosiți zonele de așteptare acoperite de la gară.",
                 "en": "Use the covered waiting areas at the train station.",
-                "nl": "Gebruik de overdekte wachtruimtes bij het treinstation."
+                "nl": "Gebruik de overdekte wachtruimtes op het station."
               }
             },
             {
@@ -2132,7 +2132,7 @@
                 "hu": "A buszmegálló szinte közvetlenül a múzeum előtt van.",
                 "ro": "Stația de autobuz este aproape chiar în fața muzeului.",
                 "en": "The bus stop is almost right in front of the museum.",
-                "nl": "De bushalte is bijna direct voor het museum."
+                "nl": "De bushalte is vrijwel recht voor het museum."
               }
             },
             {
@@ -2142,7 +2142,7 @@
                 "hu": "A kikötőtől rendszeresen járnak buszok vissza a központba.",
                 "ro": "Din port pleacă regulat autobuze înapoi spre centru.",
                 "en": "Buses run regularly from the harbor back to the center.",
-                "nl": "Bussen rijden regelmatig van de haven terug naar het centrum."
+                "nl": "Bussen rijden regelmatig vanaf de haven terug naar het centrum."
               }
             },
             {
@@ -2152,7 +2152,7 @@
                 "hu": "A busz nagyon közel áll meg a bejárathoz.",
                 "ro": "Autobuzul oprește foarte aproape de zona de intrare.",
                 "en": "The bus stops very close to the entrance area.",
-                "nl": "De bus stopt zeer dicht bij het entreegebied."
+                "nl": "De bus stopt heel dicht bij het entreegebied."
               }
             },
             {
@@ -2162,7 +2162,7 @@
                 "hu": "Ellenőrizd a '9292' alkalmazást a valós idejű infókért.",
                 "ro": "Verificați aplicația '9292' pentru informații în timp real.",
                 "en": "Check the '9292' app for real-time info during rain.",
-                "nl": "Controleer de '9292'-app voor actuele informatie tijdens regen."
+                "nl": "Check de 9292-app voor realtime-informatie bij regen."
               }
             }
           ],
@@ -2194,8 +2194,8 @@
             "nl": [
               "De bussen in Harderwijk zijn schoon en droog.",
               "Een OV-chipkaart maakt overstappen heel eenvoudig.",
-              "Gebruik de abri's om droog te blijven tijdens het wachten.",
-              "Bussen kunnen bij zware regen iets vertraagd zijn."
+              "Gebruik de bushokjes om droog te blijven tijdens het wachten.",
+              "Bussen kunnen bij zware regen iets vertragen."
             ]
           }
         },
@@ -2205,7 +2205,7 @@
             "hu": "A téli nap a tömegközlekedéssel Harderwijk fűtött vasútállomásán kezdődik. A busz gyorsan az óváros szívébe, a Városi Múzeumhoz visz. Délben élvezzük a történelmi épületek melegét, majd a kikötőben szívunk friss téli levegőt. 17:00 körül nézzük a korai naplementét, miközben a Dolfinarium buszára várunk. A nap kényelmesen zárul a visszautazással.",
             "ro": "O zi de iarnă cu transportul public începe în gara încălzită din Harderwijk. Autobuzul ne duce rapid în inima orașului vechi. La prânz ne bucurăm de căldura clădirilor istorice, apoi luăm aer curat de iarnă în port. În jurul orei 17:00 vedem apusul devreme în timp ce așteptăm autobuzul. Ziua se încheie confortabil cu drumul înapoi spre gară.",
             "en": "A winter day using public transit starts in the heated Harderwijk station. The bus quickly takes us to the heart of the old town. At midday, we enjoy the warmth of historic buildings before catching some fresh winter air at the harbor. Around 5 PM, we experience the early sunset while waiting for the bus. The day ends comfortably with the return trip to the station.",
-            "nl": "Een winterdag met openbaar vervoer begint in het verwarmde station van Harderwijk. De bus brengt ons snel naar het hart van de binnenstad. Rond het middaguur genieten we van de warmte in historische gebouwen voordat we wat frisse winterlucht scheppen bij de haven. Rond 17:00 ervaren we de vroege zonsondergang terwijl we wachten op de bus. De dag eindigt comfortabel met de terugreis naar het station."
+            "nl": "Een winterdag met openbaar vervoer begint in het verwarmde station van Harderwijk. De bus brengt ons snel naar het hart van de binnenstad. Rond het middaguur genieten we van de warmte van historische gebouwen voordat we bij de haven frisse winterlucht opsnuiven. Rond 17:00 zien we de vroege zonsondergang terwijl we op de bus wachten. De dag eindigt comfortabel met de rit terug naar het station."
           },
           "stops": [
             {
@@ -2245,7 +2245,7 @@
                 "hu": "A buszok télen kellemesen fűtöttek.",
                 "ro": "Autobuzele sunt încălzite plăcut iarna.",
                 "en": "Buses are comfortably heated in winter.",
-                "nl": "Bussen zijn in de winter goed verwarmd."
+                "nl": "Bussen zijn in de winter comfortabel verwarmd."
               }
             },
             {
@@ -2255,7 +2255,7 @@
                 "hu": "Este a buszok ritkábban járnak, tervezz előre.",
                 "ro": "Seara autobuzele circulă mai rar, planificați din timp.",
                 "en": "Buses run less frequently in the evening, so plan ahead.",
-                "nl": "Bussen rijden 's avonds minder frequent, dus plan vooruit."
+                "nl": "Bussen rijden ’s avonds minder vaak; plan vooruit."
               }
             }
           ],
@@ -2285,10 +2285,10 @@
               "Watch out for modified holiday schedules."
             ],
             "nl": [
-              "Gebruik de warmte in de bussen om op te warmen tussen stops.",
+              "Gebruik de warmte in de bussen om tussen haltes op te warmen.",
               "Treinen en bussen zijn in de winter zeer betrouwbaar.",
-              "Een hete koffie bij het kiosk op het station maakt het wachten aangenamer.",
-              "Let op gewijzigde dienstregelingen tijdens feestdagen."
+              "Een hete koffie bij de kiosk op het station maakt het wachten aangenamer.",
+              "Let op aangepaste dienstregelingen tijdens feestdagen."
             ]
           }
         }

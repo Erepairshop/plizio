@@ -74,7 +74,7 @@
             "hu": "Willibrordus-torony",
             "ro": "Turnul Willibrordus",
             "en": "Willibrordus Tower",
-            "nl": "Willibrordustoren"
+            "nl": "Willibrordus Toren"
           },
           "coords": [
             3.833,
@@ -91,7 +91,7 @@
             "hu": "Az egykori világítótorony nagyszerű fotóhátteret kínál.",
             "ro": "Fostul far oferă un fundal excelent pentru fotografii.",
             "en": "The former lighthouse offers a great photo backdrop.",
-            "nl": "De voormalige vuurtoren biedt een mooi fotomotief."
+            "nl": "De voormalige vuurtoren is een prachtig decor voor foto's."
           }
         },
         {
@@ -143,7 +143,7 @@
             "hu": "Tökéletes hely egy ebédhez, kilátással az elhaladó tengeri hajókra.",
             "ro": "Locul perfect pentru prânz cu vedere la navele maritime care trec.",
             "en": "Perfect spot for lunch with a view of the passing sea ships.",
-            "nl": "Perfecte plek voor lunch met uitzicht op voorbijvarende zeeschepen."
+            "nl": "Perfecte plek voor de lunch met uitzicht op voorbijvarende zeeschepen."
           }
         },
         {
@@ -152,7 +152,7 @@
             "hu": "Portaal van Vlaanderen (Flandria Kapuja)",
             "ro": "Portaal van Vlaanderen (Poarta Flandrei)",
             "en": "Portaal van Vlaanderen (Gateway to Flanders)",
-            "nl": "Portaal van Vlaanderen"
+            "nl": "Portaal van Vlaanderen (Gateway to Flanders)"
           },
           "coords": [
             3.8151,
@@ -195,7 +195,7 @@
             "hu": "Próbálja ki az írást palatáblán egy íróvesszővel.",
             "ro": "Încercați să scrieți pe o tăbliță de ardezie cu un stilet.",
             "en": "Try writing on a slate with a stylus.",
-            "nl": "Probeer te schrijven op een lei met een stylus."
+            "nl": "Probeer op een lei te schrijven met een stylus."
           }
         }
       ],
@@ -204,7 +204,7 @@
         "hu": "A terneuzeni nap egy sétával kezdődik Oud Terneuzen történelmi utcáin, majd a Grote Kerk csendes hangulatát élvezheti. Délelőtt a Bolygó Hollandi emlékművénél felfedezi a tengeri legendákat, és megcsodálja a kilátást a Willibrordus-toronyból. Délben a Schelde sétányon pihen, figyeli az óriási hajókat és elfogyaszt egy helyi ebédet. Délután elmerül a Portaal van Vlaanderen lenyűgöző technológiájában, majd a napot egy nosztalgikus utazással zárja a 'Schooltijd' Iskolamúzeumban.",
         "ro": "Ziua dvs. în Terneuzen începe cu o plimbare pe aleile istorice din Oud Terneuzen, urmată de atmosfera liniștită a Grote Kerk. În cursul dimineții, descoperiți legendele maritime la monumentul Olandezul Zburător și admirați priveliștea din turnul Willibrordus. La prânz, vă relaxați pe bulevardul Schelde, urmărind navele uriașe și savurând un prânz local. După-amiaza, vă scufundați în tehnologia impresionantă de la Portaal van Vlaanderen și încheiați ziua cu o călătorie nostalgică în trecut la Muzeul Școlii 'Schooltijd'.",
         "en": "Your day in Terneuzen begins with a stroll through the historic alleys of Oud Terneuzen, followed by the quiet atmosphere of the Grote Kerk. In the morning, you'll discover maritime legends at the Flying Dutchman monument and admire the view from the Willibrordus Tower. At noon, you'll relax on the Scheldt Boulevard, watching the huge ships and enjoying a local lunch. In the afternoon, you'll delve into the impressive technology at Portaal van Vlaanderen and end the day with a nostalgic journey into the past at the 'Schooltijd' School Museum.",
-        "nl": "Uw dag in Terneuzen begint met een wandeling door de historische steegjes van Oud Terneuzen, gevolgd door de rustige sfeer van de Grote Kerk. In de ochtend ontdekt u maritieme legendes bij het monument van De Vliegende Hollander en bewondert u het uitzicht vanaf de Willibrordustoren. Rond het middaguur ontspant u op de Scheldeboulevard, kijkend naar de enorme schepen en genietend van een lokale lunch. In de middag verdiept u zich in de indrukwekkende techniek bij het Portaal van Vlaanderen en sluit u de dag af met een nostalgische reis terug in de tijd in het Schoolmuseum 'Schooltijd'."
+        "nl": "Je dag in Terneuzen begint met een wandeling door de historische steegjes van Oud Terneuzen, gevolgd door de rustige sfeer van de Grote Kerk. 's Ochtends ontdek je maritieme legendes bij het monument De Vliegende Hollander en bewonder je het uitzicht vanaf de Willibrordustoren. Tegen de middag ontspan je op de Scheldeboulevard, kijkend naar de enorme schepen en genietend van een lokale lunch. 's Middags duik je in de indrukwekkende techniek van Portaal van Vlaanderen en je sluit de dag af met een nostalgische terugblik in het Schoolmuseum 'Schooltijd'."
       },
       "gastro_picks": {
         "de": [
@@ -402,10 +402,10 @@
           "Take time for a break in a café to observe local life."
         ],
         "nl": [
-          "Draag comfortabele schoenen omdat u de hele dag te voet zult zijn.",
+          "Draag comfortabele schoenen, want je staat de hele dag op je voeten.",
           "Controleer van tevoren de openingstijden van de musea, want die kunnen variëren.",
           "Een herbruikbare waterfles is een goed idee om gehydrateerd te blijven.",
-          "Neem tijd voor een pauze in een café om het lokale leven te observeren."
+          "Neem de tijd voor een pauze in een café om het lokale leven te bekijken."
         ]
       },
       "variants": {
@@ -415,7 +415,7 @@
             "hu": "Az esős reggel Terneuzen óvárosának szűk utcáin indul, ahol a házak némi védelmet nyújtanak a szél elől. Délben a Grote Kerk belső tere és a Willibrordus-torony nyújt menedéket a záporok elől. Délután a Schelde-boulevard friss, párás levegőjét élvezzük, majd a Portaal van Vlaanderen fedett ipari kiállításai felé vesszük az irányt. A napot a barátságos iskolamúzeumban zárjuk, fedett helyen.",
             "ro": "Dimineața ploioasă începe pe străzile înguste din Oud Terneuzen, unde fațadele istorice oferă adăpost împotriva vântului. La prânz, ne refugiem în interiorul Grote Kerk și vizităm monumentele sub umbrelă. După-amiaza, înfruntăm briza de pe bulevardul Scheldt înainte de a intra în spațiile uscate de la Portaal van Vlaanderen. Ziua se încheie confortabil în muzeul școlii, feriți de vremea umedă.",
             "en": "The rainy morning starts in the sheltered alleys of Oud Terneuzen, where historic facades block the wind. At noon, we find refuge inside the Grote Kerk and visit monuments under an umbrella. In the afternoon, we brave the breeze on the Scheldt Boulevard before heading into the dry halls of Portaal van Vlaanderen. The day ends cozily in the school museum, well away from the wet weather.",
-            "nl": "De regenachtige ochtend begint in de beschutte steegjes van Oud Terneuzen, waar historische gevels de wind tegenhouden. Rond het middaguur zoeken we beschutting in de Grote Kerk en bezoeken we monumenten onder een paraplu. In de middag trotseren we de bries op de Scheldeboulevard voordat we de droge hallen van het Portaal van Vlaanderen binnengaan. De dag eindigt gezellig in het schoolmuseum, ver weg van het natte weer."
+            "nl": "De regenachtige ochtend begint in de beschutte steegjes van Oud Terneuzen, waar historische gevels de wind tegenhouden. Rond het middaguur vinden we beschutting in de Grote Kerk en bezoeken we monumenten onder een paraplu. 's Middags trotseren we de wind op de Scheldeboulevard voordat we de droge hallen van Portaal van Vlaanderen binnengaan. De dag eindigt knus in het schoolmuseum, ver weg van het natte weer."
           },
           "stops": [
             {
@@ -425,7 +425,7 @@
                 "hu": "Használja a szűk utcákat szélfogóként a záporok idején.",
                 "ro": "Folosiți străzile înguste ca protecție naturală împotriva vântului.",
                 "en": "Use the narrow alleys as natural wind protection during showers.",
-                "nl": "Gebruik de smalle steegjes als natuurlijke windbescherming tijdens buien."
+                "nl": "Gebruik de smalle steegjes als natuurlijke windschermen tijdens buien."
               }
             },
             {
@@ -435,7 +435,7 @@
                 "hu": "Ideális hely a leghevesebb záporok szárazon történő átvészelésére.",
                 "ro": "Locul ideal pentru a aștepta trecerea ploilor torențiale la adăpost.",
                 "en": "Ideal place to wait out the heaviest downpours in the dry.",
-                "nl": "Ideale plek om de zwaarste stortbuien droog uit te zitten."
+                "nl": "Ideale plek om de zwaarste wolkbreuken droog uit te zitten."
               }
             },
             {
@@ -445,7 +445,7 @@
                 "hu": "A bejárati rész rövid ideig védelmet nyújt az eső elől.",
                 "ro": "Zona de intrare oferă adăpost temporar împotriva ploii.",
                 "en": "The entrance area provides brief shelter from the rain.",
-                "nl": "Het entreegebied biedt kortstondige beschutting tegen de regen."
+                "nl": "De entree biedt korte beschutting tegen de regen."
               }
             },
             {
@@ -455,7 +455,7 @@
                 "hu": "Vigyázat, a monumentum körüli macskakő esőben csúszós lehet.",
                 "ro": "Atenție la pavajul alunecos din jurul monumentului.",
                 "en": "Watch out for slippery cobblestones around the monument.",
-                "nl": "Let op gladde kasseien rond het monument."
+                "nl": "Pas op voor gladde kinderkopjes rond het monument."
               }
             },
             {
@@ -465,7 +465,7 @@
                 "hu": "Az erős tengeri szél miatt stabil esernyőre lesz szükség.",
                 "ro": "O umbrelă rezistentă este obligatorie din cauza vântului marin.",
                 "en": "A sturdy umbrella is a must due to the strong sea wind.",
-                "nl": "Een degelijke paraplu is een must vanwege de harde zeewind."
+                "nl": "Een stevige paraplu is onmisbaar vanwege de sterke zeewind."
               }
             },
             {
@@ -519,11 +519,11 @@
               "Cafes in Oud Terneuzen are ideal for warming up and drying off."
             ],
             "nl": [
-              "Draag waterdichte schoenen want er vormen zich vaak plassen in de steegjes van de oude stad.",
-              "De Scheldeboulevard is zeer winderig bij regen; een regenjas is beter dan een paraplu.",
-              "Gebruik de Grote Kerk voor een langere pauze tijdens een zware stortbui.",
-              "Het Portaal van Vlaanderen biedt veel binnenactiviteiten voor regenachtige dagen.",
-              "Cafés in Oud Terneuzen zijn ideaal om op te warmen en droog te worden."
+              "Draag waterdichte schoenen, want er ontstaan vaak plassen in de oude steegjes.",
+              "De Scheldeboulevard is erg winderig bij regen; een regenjas is beter dan een paraplu.",
+              "Gebruik de Grote Kerk voor een langere pauze tijdens een hoosbui.",
+              "Portaal van Vlaanderen biedt veel binnenactiviteiten voor regenachtige dagen.",
+              "Cafés in Oud Terneuzen zijn ideaal om op te warmen en op te drogen."
             ]
           }
         },
@@ -533,7 +533,7 @@
             "hu": "A friss téli reggel Terneuzenben tiszta levegővel indul az óvárosban. A Grote Kerk méltóságteljes nyugalmat áraszt, mielőtt a jeges szelet élveznénk a Schelde-parton. Mivel a nap már 17:00 körül lemegy, a nappali fényt a Portaal van Vlaanderen látogatására használjuk ki. Az estét a fűtött iskolamúzeumban töltjük, miközben odakint leszáll a téli szürkület.",
             "ro": "O dimineață răcoroasă de iarnă în Terneuzen începe cu aer curat în orașul vechi. Grote Kerk oferă un refugiu demn înainte de a ne bucura de briza înghețată de pe bulevardul Scheldt. Deoarece soarele apune în jurul orei 17:00, profităm la maximum de lumina zilei la Portaal van Vlaanderen. Seara o petrecem în muzeul școlii încălzit, în timp ce afară se lasă amurgul de iarnă.",
             "en": "A crisp winter morning in Terneuzen begins with clear air in the old town. The Grote Kerk offers a dignified, cool retreat before we enjoy the frosty views at the Scheldt Boulevard. Since the sun sets around 17:00, we make the most of the daylight at Portaal van Vlaanderen. The evening is spent in the heated school museum as winter dusk settles outside.",
-            "nl": "Een frisse winterochtend in Terneuzen begint met heldere lucht in de oude stad. De Grote Kerk biedt een waardig, koel toevluchtsoord voordat we genieten van de ijzige uitzichten op de Scheldeboulevard. Omdat de zon rond 17:00 ondergaat, maken we optimaal gebruik van het daglicht bij het Portaal van Vlaanderen. De avond wordt doorgebracht in het verwarmde schoolmuseum terwijl de winterduisternis buiten valt."
+            "nl": "Een frisse winterochtend in Terneuzen begint met heldere lucht in de oude stad. De Grote Kerk biedt een waardige, koele toevlucht voordat we genieten van het ijzige uitzicht op de Scheldeboulevard. Aangezien de zon rond 17:00 ondergaat, benutten we het daglicht bij Portaal van Vlaanderen. De avond brengen we door in het verwarmde schoolmuseum terwijl de winterse schemering buiten neerdaalt."
           },
           "stops": [
             {
@@ -543,7 +543,7 @@
                 "hu": "A fagyos utcák télen különösen festői látványt nyújtanak.",
                 "ro": "Străzile înghețate par deosebit de pitorești în timpul iernii.",
                 "en": "The frozen alleys look particularly picturesque in winter.",
-                "nl": "De bevroren steegjes zien er in de winter bijzonder schilderachtig uit."
+                "nl": "De bevroren steegjes zien er in de winter bijzonder pittoresk uit."
               }
             },
             {
@@ -553,7 +553,7 @@
                 "hu": "Figyelje meg a templom különleges téli fényeit odabent.",
                 "ro": "Observați condițiile de lumină deosebite din interiorul bisericii.",
                 "en": "Observe the special winter lighting conditions inside the church.",
-                "nl": "Let op de bijzondere winterlichtomstandigheden in de kerk."
+                "nl": "Let op de speciale winterlichtomstandigheden in de kerk."
               }
             },
             {
@@ -563,7 +563,7 @@
                 "hu": "Meleg ruházat szükséges a huzatos torony meglátogatásához.",
                 "ro": "Îmbrăcămintea groasă este necesară pentru turnul unde trage curentul.",
                 "en": "Warm clothing is necessary for visiting the drafty tower.",
-                "nl": "Warme kleding is nodig voor een bezoek aan de tochtige toren."
+                "nl": "Warme kleding is noodzakelijk voor het bezoeken van de tochtige toren."
               }
             },
             {
@@ -583,7 +583,7 @@
                 "hu": "A víz felőli szél télen rendkívül hideg; vigyen sálat.",
                 "ro": "Vântul de pe apă este extrem de rece iarna; luați un fular.",
                 "en": "The wind from the water is extremely cold in winter; pack a scarf.",
-                "nl": "De wind van het water is in de winter extreem koud; neem een sjaal mee."
+                "nl": "De wind vanaf het water is in de winter extreem koud; neem een sjaal mee."
               }
             },
             {
@@ -593,7 +593,7 @@
                 "hu": "Élvezze a kilátást a jeges Schelde-folyóra a meleg belső térből.",
                 "ro": "Bucurați-vă de vederea spre Scheldt înghețat din interior.",
                 "en": "Enjoy the view of the icy Scheldt from the warm indoors.",
-                "nl": "Geniet van het uitzicht op de ijzige Schelde vanuit de warme binnenruimtes."
+                "nl": "Geniet van het uitzicht op de ijzige Schelde vanuit het warme binnenland."
               }
             },
             {
@@ -637,11 +637,11 @@
               "Wear layers to adjust between the outdoor cold and heated museums."
             ],
             "nl": [
-              "De zonsondergang is rond 17:00; plan uw buitenstops daarvoor.",
-              "De zeewind verlaagt de gevoelstemperatuur aanzienlijk.",
-              "Let op zwarte ijsplekken op de dijkpaden langs de boulevard.",
-              "Veel cafés serveren in de winter typische Hollandse erwtensoep (snert).",
-              "Draag lagen zodat u kunt afstemmen tussen de buitenkou en verwarmde musea."
+              "De zonsondergang is rond 17:00; plan je buitenstops daarvoor.",
+              "De zeebries verlaagt de gevoelstemperatuur aanzienlijk.",
+              "Pas op voor zwarte ijsplekken op de dijkpaden langs de boulevard.",
+              "Veel cafés serveren in de winter typische erwtensoep (snert).",
+              "Draag lagen kleding om te schakelen tussen de buitenkou en verwarmde musea."
             ]
           }
         }
@@ -661,7 +661,7 @@
             "hu": "Oud Terneuzen (Óváros)",
             "ro": "Oud Terneuzen (Orașul vechi)",
             "en": "Oud Terneuzen (Old Town)",
-            "nl": "Oud Terneuzen (Oude Stad)"
+            "nl": "Oud Terneuzen (Old Town)"
           },
           "coords": [
             3.8315,
@@ -678,7 +678,7 @@
             "hu": "Parkolja le a kerékpárt, és fedezze fel gyalog a szűk utcákat.",
             "ro": "Parcați bicicleta și explorați aleile înguste pe jos.",
             "en": "Park your bike and explore the narrow alleys on foot.",
-            "nl": "Stal uw fiets en verken de smalle steegjes te voet."
+            "nl": "Parkeer je fiets en verken de smalle steegjes te voet."
           }
         },
         {
@@ -730,7 +730,7 @@
             "hu": "Rövid megálló a kerékpártúrán, hogy megemlékezzen a legendáról.",
             "ro": "O scurtă oprire în turul cu bicicleta pentru a comemora legenda.",
             "en": "A quick stop on your bike tour to commemorate the legend.",
-            "nl": "Een korte stop tijdens uw fietstocht ter nagedachtenis aan de legende."
+            "nl": "Een korte stop tijdens je fietstocht om de legende te gedenken."
           }
         },
         {
@@ -756,7 +756,7 @@
             "hu": "Tervezzen elég időt a zsilip-túrára és az ebédre a közelben.",
             "ro": "Planificați suficient timp pentru turul ecluzei și pentru prânz în apropiere.",
             "en": "Plan enough time for the lock tour and lunch nearby.",
-            "nl": "Plan voldoende tijd voor de sluisrondleiding en de lunch in de buurt."
+            "nl": "Plan genoeg tijd voor de sluisrondleiding en de lunch in de buurt."
           }
         },
         {
@@ -808,7 +808,7 @@
             "hu": "Szép kontraszt a nap többi részéhez képest, különösen, ha gyerekekkel utazik.",
             "ro": "Un contrast plăcut cu restul zilei, mai ales dacă călătoriți cu copii.",
             "en": "A nice contrast to the rest of the day, especially if you are traveling with children.",
-            "nl": "Een mooi contrast met de rest van de dag, vooral als u met kinderen reist."
+            "nl": "Een mooi contrast met de rest van de dag, vooral als je met kinderen reist."
           }
         },
         {
@@ -834,7 +834,7 @@
             "hu": "Fejezze be a túrát a történelmi nevezetességek megtekintésével, amelyeket reggel távolról látott.",
             "ro": "Încheiați turul cu o privire la reperele istorice pe care le-ați văzut de la distanță dimineața.",
             "en": "End your tour with a look at the historic landmarks you saw from a distance in the morning.",
-            "nl": "Sluit uw rondleiding af met een blik op de historische bezienswaardigheden die u ’s ochtends van afstand zag."
+            "nl": "Sluit je rondleiding af met een blik op de historische bezienswaardigheden die je 's ochtends van afstand zag."
           }
         }
       ],
@@ -843,7 +843,7 @@
         "hu": "Pattanjon kerékpárra, és kezdje a napot Oud Terneuzenben. Reggel tekerjen végig a nyüzsgő Schelde sétányon, elhaladva a Bolygó Hollandi emlékműve mellett, és érezze a tengeri szellőt. Délidőben érkezik meg a Portaal van Vlaanderen műszaki csodájához, ahol hosszabb szünetet tart. Délután áthalad a Zeeland Park zöldjén, mielőtt az Iskolamúzeumban elmerülne a régi idők iskolai életében, és a napot a város történelmi tornyainak utolsó megtekintésével zárja.",
         "ro": "Urcați-vă pe bicicletă și începeți ziua în Oud Terneuzen. Dimineața pedalați de-a lungul aglomeratului bulevard Schelde, trecând pe lângă monumentul Olandezul Zburător și simțind briza mării. La prânz, ajungeți la minunea tehnică Portaal van Vlaanderen, unde faceți o pauză lungă. După-amiaza, pedalați prin verdeața Parcului Zeeland înainte de a vă cufunda în viața școlară de altădată la Muzeul Școlii și de a încheia ziua cu o ultimă privire la turnurile istorice ale orașului.",
         "en": "Hop on your bike and start the day in Oud Terneuzen. In the morning, cycle along the bustling Scheldt Boulevard, past the Flying Dutchman monument, and feel the sea breeze. At lunchtime, you'll reach the technical marvel of Portaal van Vlaanderen, where you'll take an extended break. In the afternoon, cycle through the greenery of Park Zeeland before immersing yourself in the school days of yesteryear at the School Museum and ending the day with a final look at the city's historic towers.",
-        "nl": "Spring op uw fiets en begin de dag in Oud Terneuzen. In de ochtend fietst u langs de drukke Scheldeboulevard, voorbij het monument van De Vliegende Hollander, en voelt u de zeebries. Rond lunchtijd bereikt u het technische hoogstandje van het Portaal van Vlaanderen, waar u een langere pauze neemt. In de middag fietst u door het groen van Park Zeeland voordat u zich onderdompelt in de schooltijd van weleer in het Schoolmuseum en de dag afsluit met een laatste blik op de historische torens van de stad."
+        "nl": "Stap op je fiets en begin de dag in Oud Terneuzen. 's Ochtends fiets je langs de drukke Scheldeboulevard, voorbij het monument De Vliegende Hollander, en voel je de zeebries. Rond de lunch bereik je het technische hoogstandje Portaal van Vlaanderen, waar je een uitgebreide pauze neemt. 's Middags fiets je door het groen van Park Zeeland voordat je je onderdompelt in de schooltijd van weleer in het Schoolmuseum en de dag afsluit met een laatste blik op de historische torens van de stad."
       },
       "gastro_picks": {
         "de": [
@@ -1041,10 +1041,10 @@
           "Always lock your bike securely, even for short stops."
         ],
         "nl": [
-          "Huur een fiets bij een van de plaatselijke aanbieders als u er zelf geen heeft.",
-          "Let op de windcondities, vooral op de boulevard.",
+          "Huur een fiets bij een van de lokale aanbieders als je er zelf geen hebt.",
+          "Let op de windomstandigheden, vooral op de boulevard.",
           "Een helm wordt aanbevolen.",
-          "Zet uw fiets altijd goed op slot, ook voor korte stops."
+          "Zet je fiets altijd goed op slot, ook voor korte stops."
         ]
       },
       "variants": {
@@ -1054,7 +1054,7 @@
             "hu": "Egy biciklis túra az esős Terneuzenben jó felszerelést igényel, de frissítő élményt nyújt. Az óvárosból indulunk a szeles Schelde-parti úton, ahol a víz szürke és monumentális. Délben hosszabb szünetet tartunk a Portaal van Vlaanderennél, hogy megszáradjunk. Délután a Park Zeeland területét fedezzük fel, majd a túrát biztonságban a Grote Kerknél zárjuk.",
             "ro": "O tură cu bicicleta prin Terneuzen pe ploaie necesită echipament bun, dar oferă o perspectivă revigorantă. Pornim din orașul vechi pe drumul vântos de-a lungul Scheldt, unde apa pare cenușie și impunătoare. La prânz facem o pauză lungă la Portaal van Vlaanderen pentru a ne usca. După-amiaza explorăm Park Zeeland înainte de a încheia turul în siguranță la Grote Kerk.",
             "en": "A bike tour through rainy Terneuzen requires good gear but offers a refreshing perspective. We start in the old town and cycle along the windy Scheldt Boulevard, where the water looks grey and powerful. At noon, we take a long break at Portaal van Vlaanderen to dry off. In the afternoon, we explore Park Zeeland before ending the tour safely at Grote Kerk.",
-            "nl": "Een fietstocht door het regenachtige Terneuzen vereist goede uitrusting maar biedt een verfrissend perspectief. We beginnen in de oude stad en fietsen langs de winderige Scheldeboulevard, waar het water grijs en machtig oogt. Rond het middaguur nemen we een lange pauze bij het Portaal van Vlaanderen om weer droog te worden. In de middag verkennen we Park Zeeland voordat de tour veilig eindigt bij de Grote Kerk."
+            "nl": "Een fietstocht door een regenachtig Terneuzen vereist goede uitrusting maar biedt een verfrissend perspectief. We beginnen in de oude stad en fietsen langs de winderige Scheldeboulevard, waar het water grijs en krachtig oogt. Rond het middaguur nemen we een lange pauze bij Portaal van Vlaanderen om op te drogen. 's Middags verkennen we Park Zeeland voordat we de tocht veilig afsluiten bij de Grote Kerk."
           },
           "stops": [
             {
@@ -1064,7 +1064,7 @@
                 "hu": "Vigyázzon a vizes macskakövön a kanyarokban.",
                 "ro": "Atenție la pavajul umed în curbe.",
                 "en": "Be careful on the wet cobblestones in the corners.",
-                "nl": "Wees voorzichtig op de natte kasseien in de bochten."
+                "nl": "Wees voorzichtig op de natte kinderkopjes in de bochten."
               }
             },
             {
@@ -1074,7 +1074,7 @@
                 "hu": "Az oldalszél esőben itt nagyon csalóka lehet.",
                 "ro": "Vântul lateral poate fi foarte înșelător aici pe ploaie.",
                 "en": "The side wind can be very tricky here in the rain.",
-                "nl": "De zijwind kan hier in de regen erg verraderlijk zijn."
+                "nl": "De zijwind kan hier in de regen erg lastig zijn."
               }
             },
             {
@@ -1084,7 +1084,7 @@
                 "hu": "Rövid fotómegálló; tartsa készenlétben a fékeket.",
                 "ro": "Oprire scurtă pentru poze; țineți frânele pregătite.",
                 "en": "Short photo stop; keep your brakes ready.",
-                "nl": "Korte fotostop; houd je remmen gereed."
+                "nl": "Korte fotostop; houd je remmen paraat."
               }
             },
             {
@@ -1094,7 +1094,7 @@
                 "hu": "Itt fedett biciklitárolók állnak rendelkezésre.",
                 "ro": "Sunt disponibile rastele de biciclete acoperite aici.",
                 "en": "Covered bike racks are available here.",
-                "nl": "Overdekte fietsenrekken zijn hier aanwezig."
+                "nl": "Er zijn hier overdekte fietsenstallingen beschikbaar."
               }
             },
             {
@@ -1158,10 +1158,10 @@
               "Wipe your saddle dry after every stop."
             ],
             "nl": [
-              "Draag een volledige regenpak inclusief waterdichte overbroek.",
-              "Controleer je remblokken, ze grijpen minder op natte velgen.",
+              "Draag een volledige regenkleding inclusief waterdichte overbroek.",
+              "Controleer je remblokken, want ze grijpen minder op natte velgen.",
               "Vermijd hoge snelheden op gladde dijkpaden.",
-              "Gebruik brugonderdoorgangen als kortstondige weersbeschutting.",
+              "Gebruik brugonderdoorgangen als korte weersbescherming.",
               "Veeg je zadel droog na elke stop."
             ]
           }
@@ -1172,7 +1172,7 @@
             "hu": "A téli biciklis túra Zeeland fagyos tájain vezet keresztül. Az óvárosban kezdünk, élvezve a tiszta kilátást a Westerschelde-folyóra. A boulevardi jeges szél próbára tesz minket, de a Portaal van Vlaanderen meleg pihenőt nyújt félúton. A Park Zeelandben átéljük a téli csendet, mielőtt még világosban befejeznénk a túrát.",
             "ro": "Turul de iarnă cu bicicleta ne poartă prin peisajul înghețat al Zeelandei. Începem în orașul vechi, bucurându-ne de vederea clară spre Westerschelde. Vântul înghețat de pe bulevard ne provoacă, dar Portaal van Vlaanderen oferă o pauză caldă la jumătatea drumului. În Park Zeeland experimentăm liniștea iernii înainte de a termina turul cât încă e lumină.",
             "en": "The winter bike tour takes us through the frosty landscape of Zeeland. We start in the old town, enjoying the clear view of the Westerschelde. The icy wind on the boulevard challenges us, but Portaal van Vlaanderen offers a warm break at the halfway point. In Park Zeeland, we experience winter silence before finishing the tour while it's still light.",
-            "nl": "De winterfietstocht voert ons door het ijzige landschap van Zeeland. We starten in de oude binnenstad en genieten van het heldere uitzicht op de Westerschelde. De ijzige wind op de boulevard daagt ons uit, maar het Portaal van Vlaanderen biedt halverwege een warme pauze. In Park Zeeland ervaren we de winterstilte voordat we de rondrit afronden terwijl het nog licht is."
+            "nl": "De winterfietstocht voert ons door het ijzige landschap van Zeeland. We starten in de oude stad en genieten van het heldere zicht op de Westerschelde. De ijzige wind op de boulevard daagt ons uit, maar Portaal van Vlaanderen biedt halverwege een warme pauze. In Park Zeeland ervaren we de winterstilte voordat we de tocht afmaken terwijl het nog licht is."
           },
           "stops": [
             {
@@ -1182,7 +1182,7 @@
                 "hu": "Vigyázzon a kora reggeli fagyos harmatra a kövezeten.",
                 "ro": "Atenție la roua înghețată de pe pavaj dimineața devreme.",
                 "en": "Watch out for frozen dew on the pavement early in the morning.",
-                "nl": "Let op bevroren dauw op het wegdek vroeg in de ochtend."
+                "nl": "Let vroeg in de ochtend op bevroren dauw op het trottoir."
               }
             },
             {
@@ -1192,7 +1192,7 @@
                 "hu": "Viseljen szélálló kesztyűt a jeges tengeri szél ellen.",
                 "ro": "Purtați mănuși rezistente la vânt împotriva brizei înghețate.",
                 "en": "Wear windproof gloves against the icy sea breeze.",
-                "nl": "Draag winddichte handschoenen tegen de ijzige zeewind."
+                "nl": "Draag winddichte handschoenen tegen de ijzige zeebries."
               }
             },
             {
@@ -1202,7 +1202,7 @@
                 "hu": "Gyors megálló, nehogy kihűljön a teste.",
                 "ro": "Oprire rapidă pentru a nu vă răci.",
                 "en": "Quick stop to avoid getting chilled.",
-                "nl": "Korte stop om niet te veel af te koelen."
+                "nl": "Korte stop om te voorkomen dat je het koud krijgt."
               }
             },
             {
@@ -1212,7 +1212,7 @@
                 "hu": "Ideális hely a kezek felmelegítésére egy csésze kávé mellett.",
                 "ro": "Locul ideal pentru a vă încălzi mâinile cu o cafea.",
                 "en": "Ideal place to warm up your hands over a cup of coffee.",
-                "nl": "Ideale plek om je handen op te warmen met een kop koffie."
+                "nl": "Ideale plek om je handen op te warmen bij een kop koffie."
               }
             },
             {
@@ -1222,7 +1222,7 @@
                 "hu": "Vigyázzon a csúszós szakaszokra az árnyékos erdei részeken.",
                 "ro": "Atenție la porțiunile cu polei în zonele umbrite de pădure.",
                 "en": "Watch out for slippery patches in shaded forest sections.",
-                "nl": "Let op gladde plekken in beschaduwde bosgedeelten."
+                "nl": "Let op gladde plekken in beschaduwde bossecties."
               }
             },
             {
@@ -1242,7 +1242,7 @@
                 "hu": "Ellenőrizze a világítást, mert korán sötétedik.",
                 "ro": "Verificați luminile, deoarece se întunecă devreme.",
                 "en": "Check your lights, as it gets dark early.",
-                "nl": "Controleer je verlichting, het wordt vroeg donker."
+                "nl": "Controleer je verlichting, want het wordt vroeg donker."
               }
             }
           ],
@@ -1277,10 +1277,10 @@
             ],
             "nl": [
               "Draag thermisch ondergoed en winddichte kleding.",
-              "Vermijd abrupt remmen op mogelijk ijzige paden.",
-              "Zorg dat je fietslampen perfect werken.",
-              "Een warme drank in een thermosfles is zeer aan te raden.",
-              "Houd de rijtijd korter dan in de zomer om niet te koud te worden."
+              "Vermijd plots remmen op mogelijk ijzige paden.",
+              "Zorg dat je fietsverlichting in perfecte staat is.",
+              "Een warme drank in een thermos wordt sterk aanbevolen.",
+              "Houd de rijtijd korter dan in de zomer om niet te verkleumen."
             ]
           }
         }
@@ -1317,7 +1317,7 @@
             "hu": "Parkolja le autóját központilag, hogy gyalog fedezze fel az óvárost.",
             "ro": "Parcați mașina central pentru a explora orașul vechi pe jos.",
             "en": "Park your car centrally to explore the old town on foot.",
-            "nl": "Parkeer je auto centraal om de binnenstad te voet te verkennen."
+            "nl": "Parkeer je auto centraal om de oude stad te voet te verkennen."
           }
         },
         {
@@ -1343,7 +1343,7 @@
             "hu": "Sétáljon végig az utcákon és látogasson el a templomba.",
             "ro": "Plimbați-vă pe alei și vizitați biserica.",
             "en": "Stroll through the alleys and visit the church.",
-            "nl": "Wandel door de steegjes en bezoek de kerk."
+            "nl": "Slenter door de steegjes en bezoek de kerk."
           }
         },
         {
@@ -1352,7 +1352,7 @@
             "hu": "Willibrordus-torony és a 'Bolygó Hollandi' emlékmű",
             "ro": "Turnul Willibrordus & Monumentul 'Olandezul Zburător'",
             "en": "Willibrordus Tower & 'The Flying Dutchman' Monument",
-            "nl": "Willibrordustoren & 'De Vliegende Hollander' monument"
+            "nl": "Willibrordustoren & Monument 'De Vliegende Hollander'"
           },
           "coords": [
             3.8298,
@@ -1395,7 +1395,7 @@
             "hu": "Szánjon időt az ebédre és egy hosszú sétára a vízparton.",
             "ro": "Luați-vă timp pentru prânz și o plimbare lungă pe malul apei.",
             "en": "Take time for lunch and a long walk by the water.",
-            "nl": "Neem de tijd voor een lunch en een lange wandeling langs het water."
+            "nl": "Neem de tijd voor lunch en een lange wandeling langs het water."
           }
         },
         {
@@ -1404,7 +1404,7 @@
             "hu": "3. klaszter: Kikötő és kultúra (Parkolás)",
             "ro": "Cluster 3: Port și Cultură (Parcare)",
             "en": "Cluster 3: Port & Culture (Parking)",
-            "nl": "Cluster 3: Haven & Cultuur (Parkeren)"
+            "nl": "Cluster 3: Portaal van Vlaanderen & Cultuur (Parkeren)"
           },
           "coords": [
             3.8151,
@@ -1447,7 +1447,7 @@
             "hu": "A látogatóközpont a legjobb kiindulópont a látogatáshoz.",
             "ro": "Centrul de informare este cel mai bun punct de plecare pentru vizita dumneavoastră.",
             "en": "The information center is the best starting point for your visit.",
-            "nl": "Het informatiecentrum is het beste startpunt voor je bezoek."
+            "nl": "Het informatiepunt is het beste startpunt voor uw bezoek."
           }
         },
         {
@@ -1482,7 +1482,7 @@
         "hu": "Az autós napja Terneuzenben klaszterekre van osztva. A történelmi szívben kezd, ahol leparkol, és gyalog fedezi fel Oud Terneuzent, a Grote Kerket és a tengeri emlékműveket. Ezután a Schelde sétányhoz hajt egy kiadós ebédre, hajónézéssel egybekötve. Délután az autója elviszi a lenyűgöző Portaal van Vlaanderenhez, hogy megcsodálja a zsiliptechnikát. A napot egy pihentető autózás zárja a Zeeland Parkba egy csendes sétára a zöldben.",
         "ro": "Ziua dvs. cu mașina în Terneuzen este împărțită în clustere. Începeți în inima istorică, unde parcați și explorați pe jos Oud Terneuzen, Grote Kerk și monumentele maritime. Apoi conduceți la Bulevardul Schelde pentru un prânz prelungit cu privit la nave. După-amiaza, mașina vă duce la impresionantul Portaal van Vlaanderen pentru a admira tehnologia ecluzelor. Ziua se încheie cu o plimbare relaxantă cu mașina până la Parcul Zeeland pentru o plimbare liniștită în natură.",
         "en": "Your car day in Terneuzen is divided into clusters. You start in the historic heart, where you park and explore Oud Terneuzen, the Grote Kerk, and the maritime monuments on foot. Then you drive to the Scheldt Boulevard for a long lunch while watching the ships. In the afternoon, your car takes you to the impressive Portaal van Vlaanderen to admire the lock technology. The day concludes with a relaxing drive to Park Zeeland for a quiet walk in the green.",
-        "nl": "Je autotocht in Terneuzen is verdeeld in clusters. Je begint in het historische hart, waar je parkeert en Oud Terneuzen, de Grote Kerk en de maritieme monumenten te voet verkent. Daarna rijd je naar de Scheldeboulevard voor een lange lunch terwijl je de schepen bekijkt. In de middag brengt de auto je naar het indrukwekkende Portaal van Vlaanderen om de sluistechniek te bewonderen. De dag wordt afgesloten met een ontspannen rit naar Park Zeeland voor een rustige wandeling in het groen."
+        "nl": "Uw autotocht in Terneuzen is verdeeld in clusters. U begint in het historische hart, waar u parkeert en Oud Terneuzen, de Grote Kerk en de maritieme monumenten te voet verkent. Daarna rijdt u naar de Scheldeboulevard voor een lange lunch met uitzicht op de schepen. In de middag brengt de auto u naar het indrukwekkende Portaal van Vlaanderen om de sluistechniek te bewonderen. De dag eindigt met een ontspannen rit naar Park Zeeland voor een rustige wandeling in het groen."
       },
       "gastro_picks": {
         "de": [
@@ -1680,10 +1680,10 @@
           "Watch out for cyclists, who often have the right of way in the Netherlands."
         ],
         "nl": [
-          "Informeer van tevoren naar parkeermogelijkheden en tarieven.",
-          "Een navigatiesysteem is handig om tussen de clusters te rijden.",
-          "Plan wat speling in voor verkeer, vooral rond de haven.",
-          "Houd rekening met fietsers; zij hebben in Nederland vaak voorrang."
+          "Informeer van tevoren naar parkeeropties en kosten.",
+          "Een navigatiesysteem is handig om tussen de clusters te navigeren.",
+          "Plan wat extra tijd in voor verkeer, vooral rond de haven.",
+          "Let op fietsers, die in Nederland vaak voorrang hebben."
         ]
       },
       "variants": {
@@ -1693,7 +1693,7 @@
             "hu": "Autóval kényelmesen és szárazon fedezzük fel Terneuzent. A történelmi központhoz közeli parkolókat használjuk, és a záporok alatt látogatjuk meg a Grote Kerket. A Schelde-boulevard felé vezető út drámai kilátást nyújt a viharos tengerre az ablakból. Délután közvetlenül a Portaal van Vlaanderennél parkolunk, a napot pedig a Park Zeelandben zárjuk, ahol esőben a kocsiban is maradhatunk.",
             "ro": "Cu mașina explorăm Terneuzen uscați și confortabil. Folosim parcările de lângă centrul istoric și vizităm Grote Kerk în timpul unei averse. Drumul spre bulevardul Scheldt oferă vederi dramatice spre marea furtunoasă de la fereastră. După-amiaza parcăm direct la Portaal van Vlaanderen și încheiem ziua la Park Zeeland, unde putem rămâne în vehicul dacă plouă.",
             "en": "By car, we explore Terneuzen dry and comfortably. We use parking lots near the historic center and visit the Grote Kerk during a shower. The drive to Scheldt Boulevard offers dramatic views of the stormy sea from the window. In the afternoon, we park directly at Portaal van Vlaanderen and end the day at Park Zeeland, where we can stay in the vehicle if it rains.",
-            "nl": "Met de auto verkennen we Terneuzen droog en comfortabel. We gebruiken parkeerplaatsen bij het historische centrum en bezoeken de Grote Kerk tijdens een bui. De rit naar de Scheldeboulevard biedt vanaf het raam dramatische uitzichten op de stormachtige zee. In de middag parkeren we direct bij het Portaal van Vlaanderen en eindigen de dag in Park Zeeland, waar we bij regen in het voertuig kunnen blijven."
+            "nl": "Met de auto verkennen we Terneuzen droog en comfortabel. We gebruiken parkeergelegenheden nabij het historische centrum en bezoeken de Grote Kerk tijdens een bui. De rit naar de Scheldeboulevard biedt dramatische uitzichten op de woelige zee vanuit het raam. In de middag parkeren we direct bij het Portaal van Vlaanderen en eindigen de dag in Park Zeeland, waar we bij regen in het voertuig kunnen blijven."
           },
           "stops": [
             {
@@ -1703,7 +1703,7 @@
                 "hu": "Használjon parkolóházat, hogy kiszálláskor száraz maradjon.",
                 "ro": "Folosiți parcarea etajată pentru a rămâne uscat la coborâre.",
                 "en": "Use a parking garage to stay dry when getting out.",
-                "nl": "Gebruik een parkeergarage om droog in- en uit te stappen."
+                "nl": "Gebruik een parkeergarage om droog uit te stappen."
               }
             },
             {
@@ -1723,7 +1723,7 @@
                 "hu": "Az autóból is jól látható a monumentum.",
                 "ro": "De la mașină aveți o vedere bună asupra monumentului.",
                 "en": "You have a good view of the monument from the car.",
-                "nl": "Je hebt een goed zicht op het monument vanuit de auto."
+                "nl": "U heeft een goed uitzicht op het monument vanuit de auto."
               }
             },
             {
@@ -1743,7 +1743,7 @@
                 "hu": "Elegendő parkolóhely közvetlenül az információs központnál.",
                 "ro": "Suficiente locuri de parcare direct la centrul de informare.",
                 "en": "Sufficient parking spaces right at the information center.",
-                "nl": "Voldoende parkeergelegenheid direct bij het informatiecentrum."
+                "nl": "Voldoende parkeerplaatsen direct bij het informatiepunt."
               }
             },
             {
@@ -1753,7 +1753,7 @@
                 "hu": "Ideális esőben, mert minden látnivaló közel van egymáshoz.",
                 "ro": "Ideal pe ploaie, deoarece atracțiile sunt aproape una de alta.",
                 "en": "Ideal in the rain as attractions are close to each other.",
-                "nl": "Ideaal bij regen omdat bezienswaardigheden dicht bij elkaar liggen."
+                "nl": "Ideaal bij regen aangezien attracties dicht bij elkaar liggen."
               }
             },
             {
@@ -1763,7 +1763,7 @@
                 "hu": "A természetet kényelmesen, az autóból is élvezheti.",
                 "ro": "Puteți savura natura confortabil din mașină.",
                 "en": "You can enjoy nature comfortably from the car.",
-                "nl": "Je kunt comfortabel van de natuur genieten vanuit de auto."
+                "nl": "U kunt comfortabel van de natuur genieten vanuit de auto."
               }
             }
           ],
@@ -1797,9 +1797,9 @@
               "Watch out for fogged windows; use the AC to dehumidify."
             ],
             "nl": [
-              "Gebruik intervalwissers tegen de zeepspray op de boulevard.",
+              "Gebruik wissers met tussenpozen voor de zeespray op de boulevard.",
               "Parkeergarages in het centrum zijn de beste keuze bij zware regen.",
-              "Vermijd onder bomen parkeren tijdens stormachtige regen.",
+              "Vermijd parkeren onder bomen tijdens hevige regenbuien of storm.",
               "Houd een paraplu bij de hand voor de korte wandelingen naar de ingangen.",
               "Let op beslagen ruiten; gebruik de airco om te ontvochtigen."
             ]
@@ -1811,7 +1811,7 @@
             "hu": "A téli autós túra Terneuzenben meleg utazással indul az óvároson keresztül. A központ közelében parkolunk a Grote Kerk megtekintéséhez, majd a téli Westerschelde mentén autózunk. A Portaal van Vlaanderen télen is könnyen elérhető, és izgalmas betekintést nyújt a kikötői életbe. Befejezésül a Park Zeelanden hajtunk át, miközben a téli nap korán eltűnik a horizont mögött.",
             "ro": "Turul de iarnă cu mașina în Terneuzen începe cu un drum călduros prin orașul vechi. Parcăm aproape de centru pentru a vizita Grote Kerk, apoi conducem de-a lungul Westerschelde-ului înghețat. Portaal van Vlaanderen este ușor accesibil și iarna, oferind perspective fascinante asupra portului. La final, trecem prin Park Zeeland în timp ce soarele de iarnă apune devreme.",
             "en": "The winter car tour through Terneuzen starts with a warm drive through the old town. We park near the center to visit the Grote Kerk before driving along the wintery Westerschelde. Portaal van Vlaanderen is easily accessible in winter and offers exciting insights into port life. To finish, we drive through Park Zeeland as the winter sun disappears early behind the horizon.",
-            "nl": "De winterautorondrit door Terneuzen begint met een warme rit door de oude binnenstad. We parkeren nabij het centrum om de Grote Kerk te bezoeken voordat we langs de winterse Westerschelde rijden. Het Portaal van Vlaanderen is in de winter goed bereikbaar en biedt spannende inzichten in het havenleven. Ter afsluiting rijden we door Park Zeeland terwijl de winterzon vroeg achter de horizon verdwijnt."
+            "nl": "De winterautoroute door Terneuzen begint met een warme rit door de oude stad. We parkeren nabij het centrum om de Grote Kerk te bezoeken voordat we langs de winterse Westerschelde rijden. Het Portaal van Vlaanderen is in de winter goed bereikbaar en biedt boeiende inzichten in het havensleven. Ter afsluiting rijden we door Park Zeeland terwijl de winterzon vroeg achter de horizon verdwijnt."
           },
           "stops": [
             {
@@ -1851,7 +1851,7 @@
                 "hu": "Ne járassa a motort, miközben a kilátást élvezi.",
                 "ro": "Nu lăsați motorul pornit în timp ce savurați vederea.",
                 "en": "Don't leave the engine running while enjoying the view.",
-                "nl": "Laat de motor niet draaien terwijl je van het uitzicht geniet."
+                "nl": "Laat de motor niet stationair draaien terwijl u van het uitzicht geniet."
               }
             },
             {
@@ -1881,7 +1881,7 @@
                 "hu": "Különösen vonzó fagyban vagy enyhe havazásban.",
                 "ro": "Deosebit de atractiv pe ger sau ninsoare ușoară.",
                 "en": "Particularly attractive during frost or light snowfall.",
-                "nl": "Bijzonder aantrekkelijk tijdens vorst of lichte sneeuwval."
+                "nl": "Bijzonders aantrekkelijk bij vorst of lichte sneeuwval."
               }
             }
           ],
@@ -1915,11 +1915,11 @@
               "Plan your return journey before the early onset of darkness."
             ],
             "nl": [
-              "Zorg dat je antivriesniveaus zijn bijgevuld.",
+              "Zorg dat uw antivriesniveaus op peil zijn.",
               "Gebruik stoelverwarming voor extra comfort in de kou.",
-              "Luister naar de radio voor waarschuwingen over zwarte ijsvorming in de kustregio.",
+              "Luister naar de radio voor waarschuwingen voor zwarte ijsplekken in de kustregio.",
               "Houd een ijskrabber en handschoenen in de auto.",
-              "Plan je terugreis vóór het vroege invallen van de duisternis."
+              "Plan uw terugreis voordat het vroeg donker wordt."
             ]
           }
         }
@@ -1939,7 +1939,7 @@
             "hu": "1. klaszter: Központ (Városháza buszmegálló)",
             "ro": "Cluster 1: Centru (Stația de autobuz Stadhuis)",
             "en": "Cluster 1: Center (Stadhuis bus stop)",
-            "nl": "Cluster 1: Centrum (Stadhuis bushalte)"
+            "nl": "Cluster 1: Centrum (Bushalte Stadhuis)"
           },
           "coords": [
             3.834,
@@ -1956,7 +1956,7 @@
             "hu": "Innen az óváros főbb nevezetességei gyalogosan elérhetők.",
             "ro": "De aici, principalele atracții ale orașului vechi sunt la distanță de mers pe jos.",
             "en": "From here, the main sights of the old town are within walking distance.",
-            "nl": "Vanaf hier liggen de belangrijkste bezienswaardigheden van de binnenstad op loopafstand."
+            "nl": "Vanaf hier liggen de belangrijkste bezienswaardigheden van de oude stad op loopafstand."
           }
         },
         {
@@ -1982,7 +1982,7 @@
             "hu": "Szánjon időt arra, hogy magába szívja ennek a történelmi negyednek a hangulatát.",
             "ro": "Luați-vă timp pentru a absorbi atmosfera acestui cartier istoric.",
             "en": "Take time to soak up the atmosphere of this historic district.",
-            "nl": "Neem de tijd om de sfeer van deze historische wijk in je op te nemen."
+            "nl": "Neem de tijd om de sfeer van deze historische wijk in u op te nemen."
           }
         },
         {
@@ -2008,7 +2008,7 @@
             "hu": "Élvezze a kilátást és egy ebédet, mielőtt továbbindul a következő klaszterhez.",
             "ro": "Bucurați-vă de priveliște și de un prânz înainte de a merge la următorul cluster.",
             "en": "Enjoy the view and a lunch before moving on to the next cluster.",
-            "nl": "Geniet van het uitzicht en een lunch voordat je naar de volgende cluster gaat."
+            "nl": "Geniet van het uitzicht en een lunch voordat u naar de volgende cluster gaat."
           }
         },
         {
@@ -2034,7 +2034,7 @@
             "hu": "A sétányról könnyen megközelíthető gyalog.",
             "ro": "Ușor accesibil pe jos de pe bulevard.",
             "en": "Easily accessible on foot from the boulevard.",
-            "nl": "Gemakkelijk te bereiken te voet vanaf de boulevard."
+            "nl": "Gemakkelijk te voet bereikbaar vanaf de boulevard."
           }
         },
         {
@@ -2060,7 +2060,7 @@
             "hu": "A busz közvetlenül a zsilipkomplexum bejáratához viszi.",
             "ro": "Autobuzul vă duce direct la intrarea în complexul de ecluze.",
             "en": "The bus takes you directly to the entrance of the lock complex.",
-            "nl": "De bus brengt je rechtstreeks naar de ingang van het sluizencomplex."
+            "nl": "De bus brengt u direct naar de ingang van het sluiscomplex."
           }
         },
         {
@@ -2086,7 +2086,7 @@
             "hu": "Kombinálja a modern technika látogatását egy múltbeli utazással a közeli múzeumban.",
             "ro": "Combinați vizita la tehnologia modernă cu o călătorie în trecut la muzeul din apropiere.",
             "en": "Combine the visit to modern technology with a trip into the past at the nearby museum.",
-            "nl": "Combineer het bezoek aan moderne techniek met een uitstapje naar het verleden in het nabijgelegen museum."
+            "nl": "Combineer het bezoek aan moderne techniek met een uitstap in het verleden in het nabijgelegen museum."
           }
         }
       ],
@@ -2095,7 +2095,7 @@
         "hu": "Busszal kényelmes szakaszokban fedezheti fel Terneuzent. Kezdje a központban, és fedezze fel gyalog az óvárost. Egy rövid buszozás elviszi a Schelde sétányra egy kilátással egybekötött ebédszünetre. Délután továbbutazik a Portaal van Vlaanderenhez. Onnan csak egy rövid séta az Iskolamúzeum, ahol a lenyűgöző mérnöki munka és a nosztalgikus osztálytermek között zárhatja a napot.",
         "ro": "Cu autobuzul, descoperiți Terneuzen în etape confortabile. Începeți în centru și explorați orașul vechi pe jos. O scurtă călătorie cu autobuzul vă duce la Bulevardul Schelde pentru o pauză de prânz cu priveliște. După-amiaza, continuați spre Portaal van Vlaanderen. De acolo, este doar o scurtă plimbare până la Muzeul Școlii, unde puteți încheia ziua între inginerie impresionantă și săli de clasă nostalgice.",
         "en": "Discover Terneuzen in comfortable stages by bus. Start in the center and explore the old town on foot. A short bus hop takes you to the Scheldt Boulevard for a lunch break with a view. In the afternoon, you continue to the Portaal van Vlaanderen. From there, it's just a short walk to the School Museum, where you can end the day between impressive engineering and nostalgic classrooms.",
-        "nl": "Ontdek Terneuzen in comfortabele etappes per bus. Begin in het centrum en verken de oude binnenstad te voet. Een korte busrit brengt je naar de Scheldeboulevard voor een lunchpauze met uitzicht. In de middag vervolg je naar het Portaal van Vlaanderen. Vanaf daar is het een korte wandeling naar het Schoolmuseum, waar je de dag kunt eindigen tussen indrukwekkende techniek en nostalgische klaslokalen."
+        "nl": "Ontdek Terneuzen in comfortabele etappes met de bus. Begin in het centrum en verken de oude stad te voet. Een korte busrit brengt u naar de Scheldeboulevard voor een lunchpauze met uitzicht. In de middag reist u door naar het Portaal van Vlaanderen. Vanaf daar is het slechts een korte wandeling naar het Schoolmuseum, waar u de dag kunt afsluiten tussen indrukwekkende techniek en nostalgische klaslokalen."
       },
       "gastro_picks": {
         "de": [
@@ -2294,8 +2294,8 @@
         ],
         "nl": [
           "Koop een dagkaart voor onbeperkt reizen.",
-          "Download de dienstregelingsapp voor realtime informatie.",
-          "Geef de chauffeur een teken als u bij uw halte wilt uitstappen.",
+          "Download de dienstregeling-app voor realtime informatie.",
+          "Geef de chauffeur een seintje wanneer u bij uw halte wilt uitstappen.",
           "Plan uw route van tevoren om overstaptijden te minimaliseren."
         ]
       },
@@ -2306,7 +2306,7 @@
             "hu": "Busszal kényelmesen navigálunk az esős Terneuzenben. A Stadhuis megállótól indulunk az óvárosba, a buszmegállók pedig védelmet nyújtanak a leghevesebb záporok elől. A boulevard felé vezető út száraz kilátást biztosít a Westerschelde-folyóra. Délután a tömegközlekedés közvetlenül a Portaal van Vlaanderenhez és az iskolamúzeumhoz visz, így alig ér minket az eső.",
             "ro": "Navigăm confortabil cu autobuzul prin Terneuzen pe ploaie. Pornim de la Stadhuis spre orașul vechi, stațiile de autobuz oferind protecție împotriva celor mai grele averse. Drumul spre bulevard permite vederi uscate spre Westerschelde. După-amiaza, transportul în comun ne duce direct la Portaal van Vlaanderen și muzeul școlii, astfel încât abia ne udăm.",
             "en": "By bus, we navigate comfortably through rainy Terneuzen. We start at Stadhuis and visit the old town, with bus stops providing shelter from the worst showers. The ride to the boulevard allows for dry views of the Westerschelde. In the afternoon, transit takes us directly to Portaal van Vlaanderen and the school museum, so we hardly get wet.",
-            "nl": "Met de bus rijden we comfortabel door het regenachtige Terneuzen. We beginnen bij het Stadhuis en bezoeken de oude binnenstad; de bushaltes bieden een schuilplaats tegen de hevigste buien. De rit naar de boulevard geeft droge uitzichten over de Westerschelde. In de middag brengt het openbaar vervoer ons rechtstreeks naar het Portaal van Vlaanderen en het schoolmuseum, zodat we nauwelijks nat worden."
+            "nl": "Met de bus navigeren we comfortabel door een regenachtig Terneuzen. We beginnen bij het Stadhuis en bezoeken de oude stad, waarbij bushaltes bescherming bieden tegen de meeste buien. De rit naar de boulevard biedt droge uitzichten op de Westerschelde. In de middag brengt het openbaar vervoer ons direct naar het Portaal van Vlaanderen en het Schoolmuseum, zodat we nauwelijks nat worden."
           },
           "stops": [
             {
@@ -2326,7 +2326,7 @@
                 "hu": "A Grote Kerk védelmet nyújt, amíg a következő buszra vár.",
                 "ro": "Grote Kerk oferă adăpost în timp ce așteptați următorul autobuz.",
                 "en": "Grote Kerk offers shelter while waiting for the next bus.",
-                "nl": "De Grote Kerk biedt beschutting terwijl u op de volgende bus wacht."
+                "nl": "De Grote Kerk biedt beschutting tijdens het wachten op de volgende bus."
               }
             },
             {
@@ -2336,7 +2336,7 @@
                 "hu": "Várjon a váróban, amíg alábbhagy az eső.",
                 "ro": "Așteptați în refugiu până se potolește ploaia.",
                 "en": "Wait in the shelter until the rain lets up.",
-                "nl": "Wacht in de schuilplaats tot de regen minder wordt."
+                "nl": "Wacht in de beschutting totdat de regen minder wordt."
               }
             },
             {
@@ -2346,7 +2346,7 @@
                 "hu": "Gyorsan a busztól a monumentumig, majd vissza a védelembe.",
                 "ro": "Rapid de la autobuz la monument și înapoi la adăpost.",
                 "en": "Quickly from the bus to the monument and back to shelter.",
-                "nl": "Snel van de bus naar het monument en terug naar de schuilplaats."
+                "nl": "Snel van de bus naar het monument en terug naar de beschutting."
               }
             },
             {
@@ -2356,7 +2356,7 @@
                 "hu": "Rövid, közvetlen út a Portaal bejáratáig.",
                 "ro": "Drum scurt și direct spre intrarea la Portaal.",
                 "en": "Short, direct path to the Portaal entrance.",
-                "nl": "Korte, directe route naar de ingang van het Portaal."
+                "nl": "Korte, directe route naar de Portaal-ingang."
               }
             },
             {
@@ -2400,10 +2400,10 @@
               "Watch out for slippery steps when getting on and off."
             ],
             "nl": [
-              "Gebruik de realtime-app voor busvertrektijden om het wachten in de regen te beperken.",
-              "Een kleine opvouwbare paraplu is ideaal voor de wandelingen tussen haltes.",
-              "Bussen zijn goed geventileerd en helpen uw kleding te drogen.",
-              "Haltes op de boulevard bieden vaak windbescherming.",
+              "Gebruik de realtime-app voor busvertrekken om wachten in de regen te minimaliseren.",
+              "Een klein opvouwbaar parapluutje is ideaal voor de wandelingen tussen haltes.",
+              "Bussen zijn goed geventileerd en helpen met het drogen van uw kleding.",
+              "Haltes op de boulevard bieden vaak beschutting tegen de wind.",
               "Let op gladde treden bij het in- en uitstappen."
             ]
           }
@@ -2414,7 +2414,7 @@
             "hu": "A téli tömegközlekedési túra a Stadhuistól indul. A fűtött busz biztonságban visz át a fagyos Terneuzenen, érintve a Grote Kerket és a Schelde-boulevard-t, ahol anélkül élvezzük a kilátást, hogy sokáig a hidegben állnánk. Délután kényelmesen érjük el a Portaal van Vlaanderent és az iskolamúzeumot, mielőtt melegben hazautaznánk.",
             "ro": "Turul de iarnă cu transportul în comun pornește de la Stadhuis. Autobuzul încălzit ne poartă în siguranță prin Terneuzenul înghețat, trecând pe lângă Grote Kerk și bulevardul Scheldt, unde savurăm vederea fără a sta mult în frig. După-amiaza ajungem confortabil la Portaal van Vlaanderen și muzeul școlii înainte de a ne întoarce la căldură.",
             "en": "The winter transit tour starts at Stadhuis. The heated bus takes us safely through frosty Terneuzen, passing the Grote Kerk and Scheldt Boulevard, where we enjoy the view without standing long in the cold. In the afternoon, we comfortably reach Portaal van Vlaanderen and the school museum before returning in the warm.",
-            "nl": "De winterse bustour start bij het Stadhuis. De verwarmde bus brengt ons veilig door het ijzige Terneuzen, langs de Grote Kerk en de Scheldeboulevard, waar we van het uitzicht genieten zonder lang in de koude te hoeven staan. In de middag bereiken we comfortabel het Portaal van Vlaanderen en het schoolmuseum voordat we warm terugkeren."
+            "nl": "De wintertransittour begint bij het Stadhuis. De verwarmde bus brengt ons veilig door een vriezend Terneuzen, langs de Grote Kerk en de Scheldeboulevard, waar we van het uitzicht genieten zonder lang in de kou te staan. In de middag bereiken we comfortabel het Portaal van Vlaanderen en het Schoolmuseum voordat we terugkeren in de warmte."
           },
           "stops": [
             {
@@ -2424,7 +2424,7 @@
                 "hu": "Szélvédett hely a várakozáshoz az indulásnál.",
                 "ro": "Un loc ferit de vânt pentru a aștepta plecarea.",
                 "en": "A wind-sheltered spot to wait for the start.",
-                "nl": "Een door de wind beschutte plek om op de start te wachten."
+                "nl": "Een windbeschutte plek om te wachten op vertrek."
               }
             },
             {
@@ -2434,7 +2434,7 @@
                 "hu": "Használja a templomot a buszok közötti felmelegedésre.",
                 "ro": "Folosiți biserica pentru a vă încălzi între autobuze.",
                 "en": "Use the church to warm up between bus rides.",
-                "nl": "Gebruik de kerk om tussen busritten even op te warmen."
+                "nl": "Gebruik de kerk om op te warmen tussen busritten door."
               }
             },
             {
@@ -2464,7 +2464,7 @@
                 "hu": "A megálló nagyon közel van a meleg információs központhoz.",
                 "ro": "Stația este foarte aproape de centrul de informare încălzit.",
                 "en": "The stop is very close to the warm information center.",
-                "nl": "De halte is heel dicht bij het warme informatiecentrum."
+                "nl": "De halte ligt heel dicht bij het warme informatiecentrum."
               }
             },
             {
@@ -2474,7 +2474,7 @@
                 "hu": "A fűtött belső terek télen kötelezőek.",
                 "ro": "Spațiile încălzite sunt obligatorii iarna.",
                 "en": "Heated indoor spaces are a must in winter.",
-                "nl": "Verwarmde binnenruimtes zijn in de winter een must."
+                "nl": "Verwarmde binnenruimtes zijn onmisbaar in de winter."
               }
             }
           ],
@@ -2508,11 +2508,11 @@
               "It gets noticeably darker at the stops after 16:30."
             ],
             "nl": [
-              "Bussen zijn prettig verwarmd tijdens de wintermaanden.",
-              "Draag warme sokken; de voeten worden snel koud bij het wachten bij haltes.",
-              "Controleer op eventuele winterwijzigingen in de dienstregeling.",
+              "Bussen zijn aangenaam verwarmd tijdens de wintermaanden.",
+              "Draag warme sokken aangezien voeten snel koud worden tijdens het wachten bij haltes.",
+              "Controleer op eventuele winterse dienstregelingwijzigingen.",
               "Een hete koffie van kiosken bij de haltes helpt tegen de kou.",
-              "Het wordt merkbaar donkerder bij de haltes na 16:30."
+              "Het wordt merkbaar donkerder bij de haltes na 16:30 uur."
             ]
           }
         }

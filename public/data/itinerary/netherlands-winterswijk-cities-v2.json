@@ -39,7 +39,7 @@
             "hu": "Kezdje a napot egy kávéval a tér egyik hangulatos kávézójában.",
             "ro": "Începeți ziua cu o cafea la una dintre cafenelele fermecătoare din piață.",
             "en": "Start your day with a coffee at one of the charming cafes on the square.",
-            "nl": "Begin je dag met een kop koffie bij een van de charmante cafés op het plein."
+            "nl": "Begin je dag met een kop koffie in een van de charmante cafés op het plein."
           }
         },
         {
@@ -100,7 +100,7 @@
             "hu": "Ebéd a központban",
             "ro": "Prânz în centru",
             "en": "Lunch in the Center",
-            "nl": "Lunch in het centrum"
+            "nl": "Lunch in het Centrum"
           },
           "coords": [
             6.719,
@@ -152,7 +152,7 @@
         "hu": "Kezdje a gyalogtúrát a Lappenbrinken, Winterswijk nyüzsgő szívében. Délelőtt fedezze fel a történelmi központot a lenyűgöző Jacobskerk-kel és a fiatal Piet Mondriannak szentelt Villa Mondriaan Múzeummal. Délben élvezze a helyi specialitásokat a városközpont egyik hangulatos éttermében. A délután egy pihentető sétával a Strandbad Winterswijkhez vezet, egy gyönyörű hely a természet élvezetére és a nap befejezésére. Ez a séta tökéletes keveréke a kultúrának, a történelemnek és a pihenésnek.",
         "ro": "Începeți turul pietonal la Lappenbrink, inima vibrantă a Winterswijk. Dimineața explorați centrul istoric cu impunătoarea Jacobskerk și Muzeul Vila Mondriaan, dedicat tânărului Piet Mondrian. La prânz, savurați specialități locale într-unul dintre multele restaurante primitoare din centrul orașului. După-amiaza vă poartă într-o plimbare relaxantă spre Strandbad Winterswijk, un loc frumos pentru a vă bucura de natură și a încheia ziua. Această plimbare oferă un amestec perfect de cultură, istorie și relaxare.",
         "en": "Start your walking tour at Lappenbrink, the vibrant heart of Winterswijk. In the morning, explore the historic center with the imposing Jacobskerk and the Museum Villa Mondriaan, dedicated to the young Piet Mondrian. At noon, enjoy local specialties in one of the many cozy restaurants in the city center. The afternoon takes you on a relaxing walk to Strandbad Winterswijk, a beautiful place to enjoy nature and end the day. This walk offers a perfect blend of culture, history, and relaxation.",
-        "nl": "Begin je wandelroute op Lappenbrink, het levendige hart van Winterswijk. Verken 's ochtends het historische centrum met de indrukwekkende Jacobskerk en Museum Villa Mondriaan, gewijd aan de jonge Piet Mondriaan. Rond het middaguur geniet je van lokale specialiteiten in een van de vele gezellige restaurants in het stadscentrum. De namiddag leidt je op een ontspannen wandeling naar Strandbad Winterswijk, een prachtige plek om van de natuur te genieten en de dag af te sluiten. Deze wandeling biedt een perfecte mix van cultuur, geschiedenis en ontspanning."
+        "nl": "Begin je wandeltour bij Lappenbrink, het levendige hart van Winterswijk. Verken ’s ochtends het historische centrum met de imposante Jacobskerk en Museum Villa Mondriaan, gewijd aan de jonge Piet Mondriaan. ’s Middags geniet je van lokale specialiteiten in een van de vele gezellige restaurants in het stadscentrum. De middag brengt een ontspannende wandeling naar Strandbad Winterswijk, een prachtige plek om van de natuur te genieten en de dag af te sluiten. Deze wandeling biedt een perfecte mix van cultuur, geschiedenis en ontspanning."
       },
       "gastro_picks": {
         "de": [
@@ -343,9 +343,9 @@
           "An umbrella is always a good idea in the Netherlands, even on sunny days."
         ],
         "nl": [
-          "Draag comfortabele schoenen; de klinkers in het centrum kunnen ongelijk zijn.",
+          "Draag comfortabele schoenen, want de keien in het centrum kunnen ongelijk zijn.",
           "De meeste winkels sluiten rond 18:00 uur, plan je boodschappen dienovereenkomstig.",
-          "Een paraplu is altijd verstandig in Nederland, zelfs op zonnige dagen."
+          "Een paraplu is altijd een goed idee in Nederland, zelfs op zonnige dagen."
         ]
       },
       "variants": {
@@ -355,7 +355,7 @@
             "hu": "A reggel a Lappenbrink téren indul, ahol az esőben csillogó kövek különleges hangulatot adnak. Délben a Szent Jakab-templom nyújt menedéket, majd a belváros ízei melengetik fel. A délutánt a Mondriaan Múzeum falai között töltjük, távol az elemektől. A napot egy frissítő, esernyős tóparti séta zárja a Strandbadnál, élvezve a párás, tiszta levegőt.",
             "ro": "Dimineața începe în Piața Lappenbrink, unde fațadele istorice strălucesc sub ploaie. La prânz, Biserica Sf. Iacob oferă un refugiu uscat, urmat de o masă caldă în centrul orașului. După-amiaza este dedicată artei la Vila Mondriaan, ferită de vremea neprietenoasă. Seara se încheie cu o plimbare revigorantă spre Strandbad, unde aerul umed aduce o notă de prospețime zilei.",
             "en": "The morning starts at Lappenbrink Square, where historic facades glisten in the rain. At noon, St. Jacob's Church provides a dry sanctuary, followed by local comfort food in the center. The afternoon is spent exploring art at Villa Mondriaan, safe from the elements. End the day with a refreshing walk to Strandbad, where the humid lakeside air provides a crisp finish to your tour.",
-            "nl": "De ochtend begint op Lappenbrinkplein, waar historische gevels glinsteren in de regen. Rond het middaguur biedt de Sint-Jacobskerk een droge toevlucht, gevolgd door lokale comfortfood in het centrum. De namiddag breng je door met kunst in Villa Mondriaan, beschermd tegen de elementen. Sluit de dag af met een verfrissende wandeling naar het Strandbad, waar de vochtige merenlucht een frisse afsluiting van je rondleiding biedt."
+            "nl": "De ochtend begint op Lappenbrinkplein, waar historische gevels glanzen in de regen. Op het middaguur biedt de Jacobskerk een droge toevlucht, gevolgd door troosteten in het centrum. De middag wordt besteed aan kunst in Villa Mondriaan, beschermd tegen de elementen. Sluit de dag af met een verfrissende wandeling naar het Strandbad, waar de vochtige waterlucht een frisse afsluiting van je tour biedt."
           },
           "stops": [
             {
@@ -365,7 +365,7 @@
                 "hu": "Használja a közeli boltok árkádjait menedékként.",
                 "ro": "Folosiți arcadele magazinelor din apropiere pentru adăpost.",
                 "en": "Use the arcades of nearby shops for cover from rain.",
-                "nl": "Gebruik de luifels van nabijgelegen winkels als dekking tegen regen."
+                "nl": "Gebruik de arcades van nabijgelegen winkels als beschutting tegen regen."
               }
             },
             {
@@ -375,7 +375,7 @@
                 "hu": "Ideális hely egy erősebb zápor száraz megvárására.",
                 "ro": "Un loc ideal pentru a aștepta trecerea unei ploi torențiale.",
                 "en": "An ideal place to wait out a heavy downpour in the dry.",
-                "nl": "Een ideale plek om een zware bui droog af te wachten."
+                "nl": "Een ideale plek om een hevige bui droog uit te zitten."
               }
             },
             {
@@ -395,7 +395,7 @@
                 "hu": "Válasszon egy közvetlen kilátással rendelkező helyet a főtérre.",
                 "ro": "Alegeți un local cu vedere directă spre piața centrală.",
                 "en": "Pick a spot with a direct view of the market square.",
-                "nl": "Kies een plek met direct uitzicht op het marktplein."
+                "nl": "Kies een plek met direct uitzicht op de marktplaats."
               }
             },
             {
@@ -405,7 +405,7 @@
                 "hu": "A vízparti utak csúszósak lehetnek, viseljen zárt cipőt.",
                 "ro": "Căile de acces pot fi alunecoase; purtați încălțăminte aderentă.",
                 "en": "Waterfront paths can be slippery; wear sturdy shoes.",
-                "nl": "Waterkantpaden kunnen glad zijn; draag stevige schoenen."
+                "nl": "Paden langs het water kunnen glad zijn; draag stevige schoenen."
               }
             }
           ],
@@ -436,9 +436,9 @@
             ],
             "nl": [
               "Een stevige paraplu is essentieel vanwege de frequente wind.",
-              "De paden in het centrum zijn goed bestraat maar vaak nat.",
-              "Veel cafés bieden gezellige zitplaatsen binnen om op te warmen.",
-              "Breng extra tijd door in het museum als de regen aanhoudt."
+              "Paden in het stadscentrum zijn goed verhard maar vaak nat.",
+              "Veel cafés bieden gezellige binnenzitplaatsen om op te warmen.",
+              "Breng extra tijd door in het museum als de regen intensiever wordt."
             ]
           }
         },
@@ -448,7 +448,7 @@
             "hu": "A téli reggel frissen indul a Lappenbrink téren, majd a Szent Jakab-templom áhítata melegít fel. Délben a belváros hangulatos vendéglői várják, hogy erőt gyűjtsön a délutáni Mondriaan Múzeumhoz. A korai sötétedéskor kigyúló fények különleges bájt adnak a városnak. A napot a Strandbad jeges vagy deres partján tett csendes séta zárja.",
             "ro": "Dimineața de iarnă începe răcoros în Piața Lappenbrink, urmată de liniștea primitoare a Bisericii Sf. Iacob. La prânz, centrul istoric oferă confort pentru după-amiaza culturală la Vila Mondriaan. Pe măsură ce amurgul coboară devreme, centrul iluminat devine fermecător. O scurtă plimbare spre Strandbad-ul adormit încheie ziua într-o atmosferă de pace.",
             "en": "The winter morning starts crisp at Lappenbrink Square, followed by the warming silence of St. Jacob's Church. At noon, enjoy the cozy town center before your cultural afternoon at Villa Mondriaan. As dusk falls early, the illuminated streets create a magical atmosphere. A final walk to the wintry Strandbad lets you experience the town's peaceful winter silence.",
-            "nl": "De winterochtend begint fris op Lappenbrinkplein, gevolgd door de verwarmende stilte van de Sint-Jacobskerk. Rond het middaguur geniet je van het gezellige stadscentrum voordat je culturele namiddag in Villa Mondriaan begint. Nu de schemer vroeg valt, creëren de verlichte straten een magische sfeer. Een laatste wandeling naar het winterse Strandbad laat je de vredige winterstilte van het stadje ervaren."
+            "nl": "De winterochtend begint fris op Lappenbrinkplein, gevolgd door de verwarmende stilte van de Jacobskerk. ’s Middags geniet je van het gezellige centrum voordat je culturele middag bij Villa Mondriaan. Naarmate het vroeg donker wordt, creëren de verlichte straten een magische sfeer. Een laatste wandeling naar het winterse Strandbad laat je de vredige winterstilte van de stad ervaren."
           },
           "stops": [
             {
@@ -458,7 +458,7 @@
                 "hu": "Vigyázzon a macskaköveken kialakuló esetleges jegesedésre.",
                 "ro": "Atenție la poleiul ce se poate forma pe pavajul de piatră.",
                 "en": "Watch out for potential black ice on the cobblestones.",
-                "nl": "Let op voor mogelijk zwarte ijsvorming op de klinkers."
+                "nl": "Let op mogelijke zwarte ijsplekjes op de keien."
               }
             },
             {
@@ -468,7 +468,7 @@
                 "hu": "A vastag falak felfogják a szelet; ideális melegedőhely.",
                 "ro": "Zidurile groase opresc vântul; ideal pentru a vă încălzi.",
                 "en": "The thick walls block the wind; an ideal spot to warm up.",
-                "nl": "De dikke muren blokkeren de wind; een ideale plek om op te warmen."
+                "nl": "De dikke muren houden de wind buiten; een ideale plek om op te warmen."
               }
             },
             {
@@ -528,9 +528,9 @@
               "Hot drinks in local cafes are a must after your walk."
             ],
             "nl": [
-              "De zon gaat in de winter soms al om 16:30 onder.",
-              "Kleed je in lagen; de wind kan bij het water snijdend zijn.",
-              "Paden naar het Strandbad worden mogelijk niet van sneeuw ontdaan.",
+              "De zon gaat in de winter al om 16:30 onder.",
+              "Draag laagjes, want de wind kan snijdend zijn nabij het water.",
+              "Paden naar het Strandbad worden mogelijk niet sneeuwvrij gemaakt.",
               "Warme dranken in lokale cafés zijn een must na je wandeling."
             ]
           }
@@ -551,7 +551,7 @@
             "hu": "Lappenbrink & Szent Jakab-templom",
             "ro": "Lappenbrink & Biserica Sf. Iacob",
             "en": "Lappenbrink & St. Jacob's Church",
-            "nl": "Lappenbrink & St. Jacobskerk"
+            "nl": "Lappenbrink & Sint-Jacobskerk"
           },
           "coords": [
             6.718,
@@ -568,7 +568,7 @@
             "hu": "Parkolja le a kerékpárt, és fedezze fel a központi teret és a templomot gyalog.",
             "ro": "Parcați bicicleta și explorați piața centrală și biserica pe jos.",
             "en": "Park your bike and explore the central square and the church on foot.",
-            "nl": "Zet je fiets neer en verken de centrale plein en de kerk te voet."
+            "nl": "Parkeer je fiets en verken het centrale plein en de kerk te voet."
           }
         },
         {
@@ -629,7 +629,7 @@
             "hu": "Ebéd a malomnál",
             "ro": "Prânz la moară",
             "en": "Lunch at the Mill",
-            "nl": "Lunch bij de molen"
+            "nl": "Lunch bij de Molen"
           },
           "coords": [
             6.746,
@@ -646,7 +646,7 @@
             "hu": "Élvezze a palacsintát vagy egy szendvicset a malomra néző kilátással.",
             "ro": "Bucurați-vă de clătite sau de un sandviș cu vedere la moară.",
             "en": "Enjoy the pancakes or a sandwich with a view of the mill.",
-            "nl": "Geniet van pannenkoeken of een broodje met uitzicht op de molen."
+            "nl": "Geniet van de pannenkoeken of een broodje met uitzicht op de molen."
           }
         },
         {
@@ -707,7 +707,7 @@
         "hu": "Winterswijk és környéke tökéletes egy kerékpártúrához. Induljon a központból, hogy magába szívja a Lappenbrink hangulatát és meglátogassa a Mondrian Múzeumot. Délelőtt tekerjen el a történelmi Sevink-malomhoz, ahol ebédelhet is. Délután a túra a festői tájon keresztül a Hilgelo üdülőterülethez és a Bekendelle ősi erdején át vezet. Ez az útvonal a kulturális nevezetességeket a holland természet és táj legjavával ötvözi.",
         "ro": "Winterswijk și împrejurimile sale sunt perfecte pentru un tur cu bicicleta. Porniți din centru pentru a absorbi atmosfera din Lappenbrink și pentru a vizita Muzeul Mondrian. Dimineața pedalați spre istorica Moară Sevink, unde puteți lua și prânzul. După-amiaza, turul vă duce prin peisajul pitoresc la zona de agrement Hilgelo și prin pădurea veche din Bekendelle. Acest traseu combină atracțiile culturale cu cele mai bune aspecte ale naturii și peisajului olandez.",
         "en": "Winterswijk and its surroundings are perfect for a bike tour. Start in the center to soak up the atmosphere at Lappenbrink and visit the Mondrian Museum. In the morning, cycle to the historic Sevink Mill, where you can also have lunch. In the afternoon, the tour takes you through the picturesque landscape to the Hilgelo recreational area and through the ancient forest of Bekendelle. This route combines cultural highlights with the best of Dutch nature and scenery.",
-        "nl": "Winterswijk en omgeving zijn perfect voor een fietstocht. Begin in het centrum om de sfeer op te snuiven bij Lappenbrink en bezoek het Mondriaanmuseum. Fiets ’s ochtends naar de historische Sevinkmolen, waar je ook kunt lunchen. ’s Middags leidt de tocht je door het pittoreske landschap naar recreatiegebied Hilgelo en door het eeuwenoude Bekendelle-bos. Deze route combineert culturele hoogtepunten met het beste van de Nederlandse natuur en landschappen."
+        "nl": "Winterswijk en omgeving zijn perfect voor een fietstocht. Begin in het centrum om de sfeer op Lappenbrink op te snuiven en bezoek het Mondriaan Museum. Fiets ’s ochtends naar de historische Sevinkmolen, waar je ook kunt lunchen. In de middag voert de route je door het pittoreske landschap naar recreatiegebied Hilgelo en door het eeuwenoude bos Bekendelle. Deze route combineert culturele hoogtepunten met het beste van Nederlandse natuur en landschap."
       },
       "gastro_picks": {
         "de": [
@@ -904,8 +904,8 @@
         "nl": [
           "Huur een fiets met versnellingen, want sommige delen van het landschap kunnen heuvelachtig zijn.",
           "Volg het knooppuntennetwerk voor eenvoudige navigatie.",
-          "Neem water en snacks mee, want buiten het centrum zijn winkels schaars.",
-          "Controleer de weersverwachting; het weer kan snel omslaan."
+          "Neem water en snacks mee, want winkels zijn buiten het centrum schaars.",
+          "Controleer de weersvoorspelling; het weer kan snel omslaan."
         ]
       },
       "variants": {
@@ -915,7 +915,7 @@
             "hu": "Az eső sem akadály egy jó bringázáshoz Winterswijk környékén. Délelőtt a belvárost érintve a Mondriaan Múzeumba látogatunk el. Az esőillatú tájon tekerünk ki a Sevink-malomhoz egy finom ebédre. Délután a Hilgelo tó partja mellett suhanunk el, majd a napot a Bekendelle erdő különleges, párás csendjében zárjuk.",
             "ro": "În ciuda ploii, mersul pe bicicletă rămâne o experiență plăcută aici. Dimineața vizităm centrul și Muzeul Mondriaan. Însoțiți de mirosul proaspăt al ploii, pedalăm spre Moara Sevink pentru prânz. După-amiaza trecem pe lângă lacul Hilgelo și încheiem traseul în liniștea mistică a pădurii umede Bekendelle.",
             "en": "Cycling in Winterswijk is rewarding even in the rain. Spend the morning at the church and Mondriaan Museum. Then, ride through the misty landscape to Sevink Mill for a warm lunch. In the afternoon, pedal past Lake Hilgelo and finish your tour in the mystical, damp silence of the Bekendelle forest.",
-            "nl": "Fietsen in Winterswijk is ook bij regen de moeite waard. Breng de ochtend door bij de kerk en het Mondriaanmuseum. Fiets daarna door het mistige landschap naar de Sevinkmolen voor een warme lunch. ’s Middags trap je langs het Hilgelo-meer en eindig je je tocht in de mystieke, vochtige stilte van het Bekendelle-bos."
+            "nl": "Fietsen in Winterswijk is ook in de regen de moeite waard. Breng de ochtend door bij de kerk en het Mondriaan Museum. Fiets daarna door het mistige landschap naar de Sevinkmolen voor een warme lunch. In de middag rijd je langs het Hilgelo-meer en beëindig je je tocht in de mystieke, vochtige stilte van het Bekendelle-bos."
           },
           "stops": [
             {
@@ -935,7 +935,7 @@
                 "hu": "Parkolja le biztonságosan kerékpárját a belső udvarban.",
                 "ro": "Parcați bicicleta în siguranță în curtea muzeului.",
                 "en": "Park your bike safely in the museum's inner courtyard.",
-                "nl": "Parkeer je fiets veilig in de binnenplaats van het museum."
+                "nl": "Stal je fiets veilig in de binnenplaats van het museum."
               }
             },
             {
@@ -945,7 +945,7 @@
                 "hu": "A malom épülete kiváló védelmet nyújt a záporok elől.",
                 "ro": "Clădirea morii oferă protecție bună împotriva ploii.",
                 "en": "The mill building provides good shelter from sudden rain.",
-                "nl": "Het molengebouw biedt goede beschutting bij plotselinge regen."
+                "nl": "Het molengebouw biedt goede beschutting tegen plotselinge regen."
               }
             },
             {
@@ -955,7 +955,7 @@
                 "hu": "Ideális hely az esőruházat rövid megszárítására.",
                 "ro": "Loc perfect pentru a lăsa echipamentul de ploaie la uscat.",
                 "en": "Ideal spot to let your rain gear dry for a bit.",
-                "nl": "Ideale plek om je regenkleding even te laten drogen."
+                "nl": "Ideale plek om je regenuitrusting even te laten drogen."
               }
             },
             {
@@ -975,7 +975,7 @@
                 "hu": "Vigyázzon az erdei utakon a csúszós, vizes levelekre.",
                 "ro": "Atenție la frunzele ude și alunecoase de pe poteci.",
                 "en": "Watch out for slippery wet leaves on the forest paths.",
-                "nl": "Let op gladde natte bladeren op de bospaden."
+                "nl": "Pas op voor gladde, natte bladeren op de bospaden."
               }
             }
           ],
@@ -1005,7 +1005,7 @@
               "Use waterproof panniers to keep your belongings dry."
             ],
             "nl": [
-              "Goede regenkleding en spatborden zijn essentieel.",
+              "Goede regenkleding en spatborden zijn onmisbaar.",
               "De meeste fietspaden zijn verhard en blijven goed begaanbaar.",
               "Controleer je remmen, want natte omstandigheden vergroten de remweg.",
               "Gebruik waterdichte fietstassen om je spullen droog te houden."
@@ -1018,7 +1018,7 @@
             "hu": "A téli bringázáshoz réteges öltözet kell, de a friss levegő kárpótol érte. A belváros és a múzeum után a Sevink-malom felé vesszük az irányt egy forró ebédre. A Hilgelo tó körüli táj ilyenkor békésen pihen, a Bekendelle erdő zúzmarás fái pedig varázslatos díszletet nyújtanak a túra látványos lezárásához.",
             "ro": "O tură de iarnă cu bicicleta necesită haine groase, dar oferă peisaje clare. După vizita la muzeu, drumul duce spre istorica Moară Sevink pentru o masă caldă. Peisajul din jurul lacului Hilgelo pare adormit, iar pădurea Bekendelle cu arborii înghețați oferă un cadru magic pentru finalul traseului.",
             "en": "A winter bike tour requires warm clothing but rewards you with crisp views. After exploring the center and the museum, head out to the historic Sevink Mill. The winter landscape around Lake Hilgelo feels dormant, while the Bekendelle forest provides a magical frosty backdrop to end your ride.",
-            "nl": "Een winterfietstocht vraagt om warme kleding maar beloont met heldere vergezichten. Na verkenning van het centrum en het museum rijd je naar de historische Sevinkmolen. Het winterlandschap rond het Hilgelo-meer voelt rustig aan, terwijl het Bekendelle-bos een magische, ijzige achtergrond vormt om je rit te eindigen."
+            "nl": "Een winterfietstocht vraagt om warme kleding maar beloont met heldere uitzichten. Na het verkennen van het centrum en het museum rijd je naar de historische Sevinkmolen. Het winterlandschap rond het Hilgelo-meer lijkt dormant, terwijl het Bekendelle-bos een magisch, rijpachtig decor vormt om je rit te beëindigen."
           },
           "stops": [
             {
@@ -1038,7 +1038,7 @@
                 "hu": "Melegedjen fel itt, mielőtt elhagyná a várost.",
                 "ro": "Încălziți-vă aici înainte de a părăsi orașul.",
                 "en": "Warm up here before heading out of the town limits.",
-                "nl": "Warm hier op voordat je de stadsgrenzen verlaat."
+                "nl": "Warm hier op voordat je buiten de stadsgrenzen verder fietst."
               }
             },
             {
@@ -1048,7 +1048,7 @@
                 "hu": "Télen a régi malomépület különösen impozáns látvány.",
                 "ro": "Iarna, vechea moară pare deosebit de impunătoare.",
                 "en": "The old mill looks particularly imposing in winter.",
-                "nl": "De oude molen ziet er in de winter bijzonder indrukwekkend uit."
+                "nl": "De oude molen oogt in de winter bijzonder imposant."
               }
             },
             {
@@ -1068,7 +1068,7 @@
                 "hu": "Vigyázzon az erős szélre a tó körüli nyílt területeken.",
                 "ro": "Atenție la vântul puternic pe zonele deschise de lângă lac.",
                 "en": "Watch out for strong winds on the open areas by the lake.",
-                "nl": "Let op sterke wind op de open stukken bij het meer."
+                "nl": "Let op harde wind op de open stukken bij het meer."
               }
             },
             {
@@ -1078,7 +1078,7 @@
                 "hu": "Az utak lejegesedhetnek, hajtson óvatosabb tempóban.",
                 "ro": "Drumurile pot fi înghețate; pedalați cu prudență.",
                 "en": "Paths may be frozen; ride at a cautious pace.",
-                "nl": "Paden kunnen bevroren zijn; rijd voorzichtig en in een rustig tempo."
+                "nl": "Paden kunnen bevroren zijn; rijd voorzichtig."
               }
             }
           ],
@@ -1110,8 +1110,8 @@
             "nl": [
               "Draag altijd handschoenen en een winddichte jas.",
               "De dagen zijn kort; zorg dat je fietsverlichting perfect werkt.",
-              "Lagere bandenspanning kan helpen bij grip op gladde paden.",
-              "Plan vaker korte pauzes in verwarmde gebouwen."
+              "Een lagere bandenspanning kan helpen grip te houden op gladde paden.",
+              "Plan vaker pauzes in verwarmde gebouwen."
             ]
           }
         }
@@ -1131,7 +1131,7 @@
             "hu": "Parkolás és indulás a központban",
             "ro": "Parcare și start în centru",
             "en": "Park and Start in the Center",
-            "nl": "Parkeer en vertrek in het centrum"
+            "nl": "Parkeren en Starten in het Centrum"
           },
           "coords": [
             6.715,
@@ -1148,7 +1148,7 @@
             "hu": "Parkolja le autóját a központ közelében. Az első klasztert gyalog fedezzük fel.",
             "ro": "Parcați mașina lângă centru. Primul cluster va fi explorat pe jos.",
             "en": "Park your car near the center. The first cluster will be explored on foot.",
-            "nl": "Parkeer je auto bij het centrum. Het eerste cluster wordt te voet verkend."
+            "nl": "Parkeer je auto bij het centrum. De eerste cluster wordt te voet verkend."
           }
         },
         {
@@ -1157,7 +1157,7 @@
             "hu": "Lappenbrink & Szent Jakab-templom",
             "ro": "Lappenbrink & Biserica Sf. Iacob",
             "en": "Lappenbrink & St. Jacob's Church",
-            "nl": "Lappenbrink & St. Jacobskerk"
+            "nl": "Lappenbrink & Sint-Jacobskerk"
           },
           "coords": [
             6.718,
@@ -1174,7 +1174,7 @@
             "hu": "Sétáljon át a téren és látogassa meg a templomot, a város szívét.",
             "ro": "Plimbați-vă prin piață și vizitați biserica, inima orașului.",
             "en": "Stroll across the square and visit the church, the heart of the town.",
-            "nl": "Wandel over het plein en bezoek de kerk, het hart van de stad."
+            "nl": "Loop over het plein en bezoek de kerk, het hart van de stad."
           }
         },
         {
@@ -1200,7 +1200,7 @@
             "hu": "Egy rövid sétára a tértől, fedezze fel a De Stijl gyökereit.",
             "ro": "La o scurtă plimbare de piață, descoperiți rădăcinile De Stijl.",
             "en": "A short walk from the square, discover the roots of De Stijl.",
-            "nl": "Op korte loopafstand van het plein, ontdek de wortels van De Stijl."
+            "nl": "Een korte wandeling vanaf het plein, ontdek hier de wortels van De Stijl."
           }
         },
         {
@@ -1226,7 +1226,7 @@
             "hu": "Ebédeljen egyet, mielőtt a következő klaszterhez hajtana.",
             "ro": "Luați prânzul înainte de a conduce la următorul cluster.",
             "en": "Enjoy lunch before you drive to the next cluster.",
-            "nl": "Geniet van de lunch voordat je naar het volgende cluster rijdt."
+            "nl": "Geniet van de lunch voordat je naar de volgende cluster rijdt."
           }
         },
         {
@@ -1252,7 +1252,7 @@
             "hu": "Egyedülálló geológiai emlék. Ellenőrizze a nyitvatartási időt és a belépési szabályokat.",
             "ro": "Un monument geologic unic. Verificați programul și regulile de acces.",
             "en": "A unique geological monument. Check opening times and access rules.",
-            "nl": "Een uniek geologisch monument. Controleer openingstijden en toegangsregels."
+            "nl": "Een uniek geologisch monument. Controleer openingstijden en toegangregels."
           }
         },
         {
@@ -1278,7 +1278,7 @@
             "hu": "Parkoljon le, és sétáljon egyet a tó körül, hogy friss levegőt szívjon.",
             "ro": "Parcați și faceți o plimbare în jurul lacului pentru o gură de aer proaspăt.",
             "en": "Park up and take a walk around the lake for some fresh air.",
-            "nl": "Parkeer en maak een wandeling rond het meer voor wat frisse lucht."
+            "nl": "Parkeer en maak een wandeling rond het meer voor frisse lucht."
           }
         },
         {
@@ -1304,7 +1304,7 @@
             "hu": "Egy rövid megálló egy fotóra és talán egy gyors palacsintára indulás előtt.",
             "ro": "O oprire scurtă pentru o fotografie și poate o clătită rapidă înainte de plecare.",
             "en": "A quick stop for a photo and maybe a quick pancake before leaving.",
-            "nl": "Een korte stop voor een foto en misschien een snelle pannenkoek voordat je vertrekt."
+            "nl": "Een korte stop voor een foto en misschien een pannenkoek voordat je verdergaat."
           }
         }
       ],
@@ -1313,7 +1313,7 @@
         "hu": "Autóval felfedezheti Winterswijk és környékének sokszínűségét. Reggel parkoljon le a központban, és fedezze fel gyalog a történelmi magot a Lappenbrinkkel és a Mondrian Múzeummal (1. klaszter). Ebéd után hajtson el a lenyűgöző Steengroevéhez (2. klaszter), egy geológiai nevezetességhez. A délután a természeti kikapcsolódásé: autózzon el a Hilgelo-tóhoz egy sétára, és fejezze be a napot egy rövid látogatással a Sevink-malomnál (3. klaszter). Ez a túra ötvözi a városi kultúrát a régió egyedi természeti és ipari emlékeivel.",
         "ro": "Cu mașina puteți descoperi diversitatea din Winterswijk și împrejurimile sale. Dimineața, parcați în centru și explorați pe jos nucleul istoric cu Lappenbrink și Muzeul Mondrian (Cluster 1). După prânz, conduceți spre impresionanta Steengroeve (Cluster 2), un punct de atracție geologic. După-amiaza este dedicată recreerii în natură: mergeți la lacul Hilgelo pentru o plimbare și încheiați ziua cu o scurtă vizită la Moara Sevink (Cluster 3). Acest tur combină cultura urbană cu monumente naturale și industriale unice din regiune.",
         "en": "By car, you can discover the diversity of Winterswijk and its surroundings. In the morning, park in the center and explore the historic core on foot with Lappenbrink and the Mondrian Museum (Cluster 1). After lunch, drive to the impressive Steengroeve (Cluster 2), a geological highlight. The afternoon is for nature recreation: drive to Lake Hilgelo for a walk and end the day with a brief visit to the Sevink Mill (Cluster 3). This tour combines urban culture with the region's unique natural and industrial monuments.",
-        "nl": "Met de auto kun je de diversiteit van Winterswijk en omgeving ontdekken. Parkeer ’s ochtends in het centrum en verken de historische kern te voet met Lappenbrink en het Mondriaanmuseum (Cluster 1). Na de lunch rijd je naar de indrukwekkende steengroeve (Cluster 2), een geologisch hoogtepunt. De middag is voor natuurrecreatie: rijd naar het Hilgelo-meer voor een wandeling en sluit de dag af met een kort bezoek aan de Sevinkmolen (Cluster 3). Deze route combineert stedelijke cultuur met de unieke natuurlijke en industriële monumenten van de regio."
+        "nl": "Met de auto ontdek je de verscheidenheid van Winterswijk en omgeving. Parkeer ’s ochtends in het centrum en verken de historische kern te voet met Lappenbrink en het Mondriaanmuseum (Cluster 1). Na de lunch rijd je naar de indrukwekkende steengroeve (Cluster 2), een geologisch hoogtepunt. De middag is voor natuurrecreatie: rijd naar het Hilgelo-meer voor een wandeling en eindig de dag met een kort bezoek aan de Sevinkmolen (Cluster 3). Deze rondrit combineert stedelijke cultuur met unieke natuur- en industrieel erfgoed."
       },
       "gastro_picks": {
         "de": [
@@ -1502,9 +1502,9 @@
           "Gas stations can be scarce in rural areas, so plan ahead."
         ],
         "nl": [
-          "Parkeren in het centrum is betaald. Een blauwe schijf kan vereist zijn voor kort parkeren.",
-          "De steengroeve heeft beperkte openingstijden; controleer dit van tevoren.",
-          "Tankstations kunnen schaars zijn in landelijke gebieden, plan dus vooruit."
+          "Parkeren in het centrum is betaald. Een blauwe parkeerschijf kan vereist zijn voor kort parkeren.",
+          "De steengroeve heeft beperkte openingstijden; controleer dit vooraf.",
+          "Tankstations kunnen schaars zijn op het platteland, plan daarom vooruit."
         ]
       },
       "variants": {
@@ -1514,7 +1514,7 @@
             "hu": "Autóval a legnagyobb esőben is kényelmesen felfedezhető Winterswijk. A belvárosi séta után a Mondriaan Múzeumba látogatunk. Délután a kőfejtőhöz autózunk, ahol az eső kiemeli a kőzetek színeit. A Hilgelo-tó érintésével érkezünk meg a Sevink-malomhoz, ahol fedél alatt élvezhetjük a tájat és egy jó ebédet.",
             "ro": "Cu mașina, Winterswijk este ușor de explorat chiar și pe ploaie. Dimineața în centru rămâne uscată datorită distanțelor mici. După vizita la muzeu, mergem la carieră, unde ploaia face culorile rocii să strălucească intens. O oprire la lacul Hilgelo și finalul la Moara Sevink completează ziua într-un mod relaxat.",
             "en": "Winterswijk is easily explored by car even during heavy rain. The morning in the center stays dry thanks to short walking distances. After visiting the museum, drive to the quarry where rain makes the rock layers glow beautifully. A detour to Lake Hilgelo and a stop at Sevink Mill round off the day comfortably and dry.",
-            "nl": "Winterswijk is ook bij zware regen met de auto goed te verkennen. De ochtend in het centrum blijft droog dankzij korte loopafstanden. Na het museumbezoek rijd je naar de groeve, waar de regen de gesteentelagen mooi doet uitkomen. Een omweg naar het Hilgelo-meer en een stop bij de Sevinkmolen ronden de dag comfortabel en droog af."
+            "nl": "Winterswijk is ook bij hevige regen goed per auto te verkennen. De ochtend in het centrum blijft droog dankzij korte loopafstanden. Na het museumbezoek rijd je naar de groeve waar regen de gesteentelagen prachtig doet uitkomen. Een omweg naar het Hilgelo-meer en een stop bij de Sevinkmolen maken de dag comfortabel en droog compleet."
           },
           "stops": [
             {
@@ -1524,7 +1524,7 @@
                 "hu": "A parkolóházakból szárazon érhető el a sétálóövezet.",
                 "ro": "Parcările acoperite oferă acces uscat la zona pietonală.",
                 "en": "Parking garages offer dry access to the pedestrian zone.",
-                "nl": "Parkeergarages bieden droge toegang tot de voetgangerszone."
+                "nl": "Parkeergarages bieden droge toegang tot de binnenstad."
               }
             },
             {
@@ -1534,7 +1534,7 @@
                 "hu": "A látnivalók közötti rövid távolság csökkenti az ázást.",
                 "ro": "Distanțele scurte între obiective minimizează expunerea.",
                 "en": "Short distances between sights minimize exposure to rain.",
-                "nl": "Korte afstanden tussen bezienswaardigheden verkleinen de blootstelling aan regen."
+                "nl": "Korte afstanden tussen bezienswaardigheden beperken blootstelling aan regen."
               }
             },
             {
@@ -1564,7 +1564,7 @@
                 "hu": "A kilátópontnál általában található fedett beálló.",
                 "ro": "Platforma de observație oferă de obicei un adăpost.",
                 "en": "The viewing platform usually provides some shelter.",
-                "nl": "Het uitkijkplatform biedt meestal enige beschutting."
+                "nl": "Het uitkijkplatform biedt meestal wat beschutting."
               }
             },
             {
@@ -1615,9 +1615,9 @@
             ],
             "nl": [
               "Let op aquaplaning op regionale landwegen.",
-              "Geef de voorkeur aan parkeerplekken bij overdekte of beschutte gebieden.",
-              "Bewaar natte paraplu’s in de kofferbak om ruitbeslag te voorkomen.",
-              "Controleer de bereikbaarheid van landelijke wegen naar de steengroeve."
+              "Geef de voorkeur aan parkeerplaatsen nabij overdekte of beschutte plekken.",
+              "Bewaar natte paraplu’s in de koffer om condens op de ruiten te voorkomen.",
+              "Controleer de bereikbaarheid van landwegen naar de steengroeve."
             ]
           }
         },
@@ -1627,7 +1627,7 @@
             "hu": "Télen az autó biztosítja a kényelmet Winterswijk felfedezéséhez. A deres belváros után a Mondriaan Múzeumban folytatódik a program. A kőfejtőhöz autózva a geológiai rétegek különleges téli fényben mutatkoznak meg. A csendes Hilgelo-tó mellett elhaladva a Sevink-malom történelmi környezetében és egy jó vacsorával zárjuk a napot.",
             "ro": "Iarna, mașina oferă confortul necesar pentru a vizita Winterswijk. După centrul înghețat, urmează partea culturală la Muzeul Mondriaan. Drumul spre carieră dezvăluie geologia impresionantă sub lumina clară a iernii. Traseul trece pe lângă lacul Hilgelo și se termină la Moara Sevink, cu o cină caldă și primitoare.",
             "en": "In winter, the car provides much-needed comfort for exploring Winterswijk. After starting in the frosty center, enjoy the cultural highlights at Villa Mondriaan. Driving to the quarry reveals impressive geology under clear winter light. The route passes the quiet Lake Hilgelo and ends at the historic Sevink Mill with a cozy meal.",
-            "nl": "In de winter biedt de auto het broodnodige comfort om Winterswijk te verkennen. Na vertrek in het ijskoude centrum geniet je van de culturele hoogtepunten bij Villa Mondriaan. Rijden naar de steengroeve toont indrukwekkende geologie in helder winterlicht. De route passeert het rustige Hilgelo-meer en eindigt bij de historische Sevinkmolen met een gezellige maaltijd."
+            "nl": "In de winter biedt de auto veel comfort om Winterswijk te verkennen. Na een start in het ijskoude centrum geniet je van de culturele hoogtepunten bij Villa Mondriaan. Een rit naar de steengroeve toont indrukwekkende geologie in helder winterlicht. De route passeert het rustige Hilgelo-meer en eindigt bij de historische Sevinkmolen met een gezellige maaltijd."
           },
           "stops": [
             {
@@ -1637,7 +1637,7 @@
                 "hu": "Ne felejtse el időben leolvasztani a szélvédőt.",
                 "ro": "Nu uitați să dezghețați parbrizul din timp.",
                 "en": "Remember to de-ice your windshield in good time.",
-                "nl": "Denk eraan je voorruit tijdig te ijsvrij te maken."
+                "nl": "Ontdooi je voorruit op tijd."
               }
             },
             {
@@ -1647,7 +1647,7 @@
                 "hu": "A macskakő fagyos időben rendkívül csúszós lehet.",
                 "ro": "Pavajul de piatră poate fi foarte alunecos pe ger.",
                 "en": "Cobblestones can be extremely slippery in freezing weather.",
-                "nl": "Kasseien kunnen extreem glad zijn bij vriesweer."
+                "nl": "Kasseien kunnen extreem glad zijn bij vorst."
               }
             },
             {
@@ -1687,7 +1687,7 @@
                 "hu": "Parkoljon óvatosan, mert a padka felázott vagy fagyott lehet.",
                 "ro": "Parcați cu atenție; marginile drumului pot fi înșelătoare.",
                 "en": "Park carefully as road shoulders can be soft or frozen.",
-                "nl": "Parkeer voorzichtig, want bermen kunnen zacht of bevroren zijn."
+                "nl": "Parkeer voorzichtig; bermen kunnen zacht of bevroren zijn."
               }
             },
             {
@@ -1697,7 +1697,7 @@
                 "hu": "A malom télen gyakran gyönyörű kivilágítást kap.",
                 "ro": "Moara este adesea iluminată superb pe timpul iernii.",
                 "en": "The mill is often beautifully illuminated in winter.",
-                "nl": "De molen is in de winter vaak sfeervol verlicht."
+                "nl": "De molen is in winter vaak fraai verlicht."
               }
             }
           ],
@@ -1727,10 +1727,10 @@
               "Plan your return trip before the early onset of darkness."
             ],
             "nl": [
-              "Controleer regelmatig de bandenspanning nu de temperaturen dalen.",
-              "Draag altijd een ijskrabber en antivriesvloeistof bij je.",
+              "Controleer regelmatig de bandenspanning naarmate de temperatuur daalt.",
+              "Neem altijd een ijssteker en antivriesvloeistof mee.",
               "Plattelandswegen worden vaak later sneeuwvrij gemaakt dan hoofdwegen.",
-              "Plan je terugreis vóór het vroeg invallende duister."
+              "Plan je terugreis vóórdat de duisternis vroeg inzet."
             ]
           }
         }
@@ -1767,7 +1767,7 @@
             "hu": "Kezdje a napot egy rövid sétával az állomástól a Lappenbrinkig.",
             "ro": "Începeți ziua cu o scurtă plimbare de la gară la Lappenbrink.",
             "en": "Start your day with a short walk from the station to Lappenbrink.",
-            "nl": "Begin je dag met een korte wandeling van het station naar de Lappenbrink."
+            "nl": "Begin je dag met een korte wandeling van het station naar Lappenbrink."
           }
         },
         {
@@ -1776,7 +1776,7 @@
             "hu": "Központ Klaszter: Lappenbrink & Mondriaan Múzeum",
             "ro": "Cluster Centru: Lappenbrink & Muzeul Mondriaan",
             "en": "Center Cluster: Lappenbrink & Mondriaan Museum",
-            "nl": "Centrumcluster: Lappenbrink & Mondriaan Museum"
+            "nl": "Centrum Cluster: Lappenbrink & Mondriaanmuseum"
           },
           "coords": [
             6.718,
@@ -1819,7 +1819,7 @@
             "hu": "Ebédeljen a központban, mielőtt busszal indulna a következő úti célhoz.",
             "ro": "Luați prânzul în centru înainte de a lua autobuzul spre următoarea destinație.",
             "en": "Have lunch in the center before taking the bus to the next destination.",
-            "nl": "Eet in het centrum voordat je de bus naar de volgende bestemming neemt."
+            "nl": "Lunch in het centrum voordat je de bus naar de volgende bestemming neemt."
           }
         },
         {
@@ -1880,7 +1880,7 @@
         "hu": "Winterswijk tömegközlekedéssel is jól felfedezhető. Kezdje az állomáson, és sétáljon be a központba, hogy a délelőttöt a történelmi magban, a Mondrian Múzeumban töltse (1. klaszter). Ebéd után szálljon fel egy helyi buszra, amely a Hilgelo üdülőterület közelébe viszi (2. klaszter). Töltse a délutánt egy tóparti sétával és élvezze a természetet. Ezután busszal térjen vissza a központba, ahol befejezheti a napot, mielőtt hazaindulna. Ez egy pihentető módja a város és a vidék ötvözésének.",
         "ro": "Winterswijk poate fi explorat și cu transportul public. Începeți de la gară și mergeți pe jos până în centru pentru a petrece dimineața în nucleul istoric cu Muzeul Mondrian (Cluster 1). După prânz, luați un autobuz local care vă va duce în apropierea zonei de agrement Hilgelo (Cluster 2). Petreceți după-amiaza cu o plimbare în jurul lacului, bucurându-vă de natură. Apoi, luați autobuzul înapoi în centru, unde puteți încheia ziua înainte de a pleca. Acesta este un mod relaxant de a combina orașul și natura.",
         "en": "Winterswijk is also easy to explore by public transport. Start at the station and walk into the center to spend the morning in the historic core with the Mondrian Museum (Cluster 1). After lunch, take a local bus that will take you near the Hilgelo recreational area (Cluster 2). Spend the afternoon with a walk around the lake, enjoying nature. Afterwards, take the bus back to the center, where you can end the day before you depart. This is a relaxed way to combine city and country.",
-        "nl": "Winterswijk is ook makkelijk met het openbaar vervoer te verkennen. Begin bij het station en loop het centrum in om de ochtend door te brengen in het historische hart met het Mondriaan Museum (Cluster 1). Na de lunch neem je een buurtbus die je in de buurt van het recreatiegebied Hilgelo brengt (Cluster 2). Breng de middag door met een wandeling rond het meer en geniet van de natuur. Daarna neem je de bus terug naar het centrum, waar je de dag kunt afsluiten voordat je vertrekt. Dit is een ontspannen manier om stad en platteland te combineren."
+        "nl": "Winterswijk is ook gemakkelijk per openbaar vervoer te verkennen. Begin bij het station en wandel het centrum in om de ochtend door te brengen in de historische kern met het Mondriaanmuseum (Cluster 1). Na de lunch neem je een lokale bus die je dichtbij recreatiegebied Hilgelo brengt (Cluster 2). Breng de middag door met een wandeling rond het meer en geniet van de natuur. Neem daarna de bus terug naar het centrum, waar je de dag kunt afsluiten voordat je vertrekt. Dit is een ontspannen manier om stad en platteland te combineren."
       },
       "gastro_picks": {
         "de": [
@@ -2076,9 +2076,9 @@
         ],
         "nl": [
           "Koop een dagkaart voor de bus als je meerdere ritten plant.",
-          "Controleer de dienstregeling van de bus van tevoren, vooral in het weekend en op feestdagen.",
-          "Download de '9292' app voor realtime informatie over het openbaar vervoer in Nederland.",
-          "Zorg dat je goed zichtbaar bent bij de bushalte en steek je hand uit naar de chauffeur."
+          "Controleer de dienstregeling van de bus van tevoren, zeker in het weekend en op feestdagen.",
+          "Download de '9292'-app voor realtime openbaarvervoerinformatie in Nederland.",
+          "Wees duidelijk zichtbaar bij de bushalte en geef de bestuurder een seintje."
         ]
       },
       "variants": {
@@ -2088,7 +2088,7 @@
             "hu": "A jó buszközlekedésnek köszönhetően Winterswijk esőben is kényelmesen bejárható. A vasútállomásról rövid sétával elérhető a központ és a Mondriaan Múzeum. Délután busszal utazunk a Hilgelo-tóhoz, így a tájat szárazon, az ablakból csodálhatjuk meg. Az estét egy belvárosi vacsora és a hazautazás zárja.",
             "ro": "Datorită conexiunilor bune de autobuz, Winterswijk poate fi explorat fără stres pe ploaie. De la gară ajungem rapid în centru. Vizita la muzeu oferă protecție, apoi autobuzul ne duce spre lacul Hilgelo. Bucurați-vă de peisaj de la fereastră înainte de a reveni seara la gară pentru plecare.",
             "en": "Thanks to good bus connections, Winterswijk can be explored stress-free in the rain. A short walk from the station leads to the center and museum. Later, a bus ride to Lake Hilgelo allows you to enjoy the scenery from a dry seat. End the day with a cozy dinner in town before returning to the station for departure.",
-            "nl": "Dankzij goede busverbindingen is Winterswijk ook bij regen stressvrij te verkennen. Een korte wandeling vanaf het station leidt naar het centrum en het museum. Later brengt een busrit naar recreatiegebied Hilgelo je per droge zitplaats bij het meer om van het landschap te genieten. Sluit de dag af met een gezellig diner in de stad voordat je teruggaat naar het station voor vertrek."
+            "nl": "Dankzij goede busverbindingen is Winterswijk ook bij regen stressvrij te verkennen. Een korte wandeling vanaf het station leidt naar het centrum en het museum. Later brengt een busrit naar het Hilgelo-meer je in een droge stoel van het landschap. Sluit de dag af met een gezellige maaltijd in de stad voordat je terugkeert naar het station voor vertrek."
           },
           "stops": [
             {
@@ -2098,7 +2098,7 @@
                 "hu": "Heves esőzés esetén használja az állomás várótermét.",
                 "ro": "Folosiți sala de așteptare din gară în caz de ploaie grea.",
                 "en": "Use the station waiting area during heavy downpours.",
-                "nl": "Gebruik de wachtruimte op het station bij hevige buien."
+                "nl": "Gebruik de wachtruimte op het station tijdens zware buien."
               }
             },
             {
@@ -2118,7 +2118,7 @@
                 "hu": "Ellenőrizze az indulást kényelmesen, applikáción keresztül.",
                 "ro": "Verificați orarul autobuzelor prin aplicație din restaurant.",
                 "en": "Check departure times via app from the restaurant.",
-                "nl": "Check vertrektijden via de app vanuit het restaurant."
+                "nl": "Controleer vertrektijden via de app vanuit het restaurant."
               }
             },
             {
@@ -2138,7 +2138,7 @@
                 "hu": "Az állomáson meleg snacket is vehet az út előtt.",
                 "ro": "Gara are chioșcuri pentru gustări calde înainte de drum.",
                 "en": "The station has kiosks for warm snacks before your trip.",
-                "nl": "Op het station zijn kiosken voor warme snacks voor je reis."
+                "nl": "Het station heeft kiosken voor warme snacks vóór je reis."
               }
             }
           ],
@@ -2168,10 +2168,10 @@
               "Prefer bus stops that offer shelter from the elements."
             ],
             "nl": [
-              "Gebruik de '9292' app voor realtime reisinformatie.",
+              "Gebruik de '9292'-app voor realtime reisinformatie.",
               "Draag waterdichte kleding voor de wandelingen naar de bushaltes.",
-              "Kaartjes kunnen meestal contactloos op de bus worden betaald.",
-              "Geef de voorkeur aan bushaltes die beschutting bieden tegen het weer."
+              "Tickets kunnen meestal contactloos in de bus worden betaald.",
+              "Geef de voorkeur aan bushaltes die beschutting bieden tegen de elementen."
             ]
           }
         },
@@ -2181,7 +2181,7 @@
             "hu": "Télen a tömegközlekedés a legmelegebb módja Winterswijk felfedezésének. Az állomásra érkezve az ünnepi díszbe öltözött belváros fogad. A Mondriaan Múzeum meghitt hangulata után busszal látogatunk ki a téli Hilgelo-tóhoz. A napot a városi fények között, egy forró ital társaságában és a vonathoz való visszatéréssel fejezzük be.",
             "ro": "Iarna, transportul public este cea mai călduroasă opțiune în Winterswijk. După sosirea în gară, traseul trece prin centrul festiv spre Muzeul Mondriaan. Călătoria cu autobuzul spre lacul Hilgelo dezvăluie peisajul vast de iarnă, înainte ca seara să se încheie în centrul iluminat cu o băutură caldă.",
             "en": "In winter, public transit is the warmest way to experience Winterswijk. After arriving at the station, stroll through the festive center to Villa Mondriaan. A bus ride to the wintry Lake Hilgelo showcases the expansive landscape before the evening ends in the lit-up center with a hot drink and departure.",
-            "nl": "In de winter is openbaar vervoer de warmste manier om Winterswijk te ervaren. Na aankomst op het station wandel je door het sfeervolle centrum naar Villa Mondriaan. Een busrit naar het winterse meer Hilgelo toont het uitgestrekte landschap voordat de avond eindigt in het verlichte centrum met een warme drank en vertrek."
+            "nl": "In de winter is het openbaar vervoer de warmste manier om Winterswijk te beleven. Na aankomst op het station wandel je door het feestelijk verlichte centrum naar Villa Mondriaan. Een busrit naar het winternatte Hilgelo-meer toont het uitgestrekte landschap voordat de avond in het verlichte centrum eindigt met een warme drank en vertrek."
           },
           "stops": [
             {
@@ -2191,7 +2191,7 @@
                 "hu": "A vonatok jól fűtöttek; tökéletes az első bemelegedéshez.",
                 "ro": "Trenurile sunt bine încălzite; ideal pentru început.",
                 "en": "The trains are well-heated; ideal for warming up initially.",
-                "nl": "De treinen zijn goed verwarmd; ideaal om eerst op te warmen."
+                "nl": "De treinen zijn goed verwarmd; ideaal om op te warmen aan het begin."
               }
             },
             {
@@ -2201,7 +2201,7 @@
                 "hu": "Használja a múzeumi tereket meleg pihenőhelyként.",
                 "ro": "Folosiți muzeele ca puncte de oprire pentru a vă încălzi.",
                 "en": "Use the museum spaces as warm stopovers during your tour.",
-                "nl": "Gebruik de museumruimtes als warme tussenstops tijdens je rondgang."
+                "nl": "Gebruik de museumruimtes als warme tussenstops tijdens je rondleiding."
               }
             },
             {
@@ -2211,7 +2211,7 @@
                 "hu": "Várjon az étteremben, amíg a busz majdnem megérkezik.",
                 "ro": "Așteptați în restaurant până când autobuzul aproape sosește.",
                 "en": "Wait in the restaurant until the bus is nearly at the stop.",
-                "nl": "Wacht in het restaurant totdat de bus bijna bij de halte is."
+                "nl": "Wacht in het restaurant tot de bus bijna bij de halte is."
               }
             },
             {
@@ -2221,7 +2221,7 @@
                 "hu": "A tó környéke télen csendes; a buszok ritkábban járnak.",
                 "ro": "Lacul este liniștit iarna; autobuzele circulă mai rar.",
                 "en": "The lake area is quiet in winter; buses may run less often.",
-                "nl": "Het meergebied is rustig in de winter; bussen rijden mogelijk minder vaak."
+                "nl": "Het meergebied is rustig in de winter; bussen kunnen minder vaak rijden."
               }
             },
             {
@@ -2261,10 +2261,10 @@
               "Note the reduced transit schedules during winter holidays."
             ],
             "nl": [
-              "Houd extra reistijd aan omdat sneeuw vertragingen kan veroorzaken.",
-              "Warme kleding is essentieel voor wachttijden bij bushaltes.",
-              "Bussen zijn goed geclimatiseerd en aangenaam warm in de winter.",
-              "Let op de aangepaste dienstregelingen tijdens de wintervakantie."
+              "Reken op extra reistijd, want sneeuw kan vertragingen veroorzaken.",
+              "Warme kleding is essentieel vanwege wachttijden bij bushaltes.",
+              "Bussen zijn goed geconditioneerd en comfortabel warm in de winter.",
+              "Houd rekening met versnelde dienstregelingen tijdens de wintervakantie."
             ]
           }
         }

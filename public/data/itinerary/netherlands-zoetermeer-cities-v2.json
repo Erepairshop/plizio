@@ -22,7 +22,7 @@
             "hu": "Stadshart (Városközpont)",
             "ro": "Stadshart (Inima Orașului)",
             "en": "Stadshart (City Heart)",
-            "nl": "Stadshart (City Heart)"
+            "nl": "Stadshart"
           },
           "coords": [
             4.4925,
@@ -48,7 +48,7 @@
             "hu": "Oude Kerk (Öregtemplom)",
             "ro": "Oude Kerk (Biserica Veche)",
             "en": "Oude Kerk (Old Church)",
-            "nl": "Oude Kerk (Old Church)"
+            "nl": "Oude Kerk"
           },
           "coords": [
             4.4988,
@@ -65,7 +65,7 @@
             "hu": "Figyelje meg a jellegzetes hagymakupolát, a város egyik szimbólumát.",
             "ro": "Observați turla sa distinctivă în formă de ceapă, un reper al orașului.",
             "en": "Look for its distinctive onion-shaped spire, a landmark of the city.",
-            "nl": "Let op de karakteristieke uienspits, een herkenningspunt van de stad."
+            "nl": "Let op de karakteristieke ui-vormige torenspits, een herkenningspunt van de stad."
           }
         },
         {
@@ -74,7 +74,7 @@
             "hu": "Stadsmuseum Zoetermeer (Városi Múzeum)",
             "ro": "Stadsmuseum Zoetermeer (Muzeul Orașului)",
             "en": "Stadsmuseum Zoetermeer (City Museum)",
-            "nl": "Stadsmuseum Zoetermeer (City Museum)"
+            "nl": "Stadsmuseum Zoetermeer"
           },
           "coords": [
             4.4975,
@@ -91,7 +91,7 @@
             "hu": "Ismerje meg Zoetermeer fejlődését egy kis faluból modern várossá.",
             "ro": "Aflați despre transformarea Zoetermeer dintr-un sat într-un oraș modern.",
             "en": "Learn about Zoetermeer's transformation from a village to a modern city.",
-            "nl": "Leer over Zoetermeers transformatie van dorp tot moderne stad."
+            "nl": "Leer over de transformatie van Zoetermeer van dorp tot moderne stad."
           }
         },
         {
@@ -100,7 +100,7 @@
             "hu": "Szent Miklós-templom",
             "ro": "Biserica Sfântul Nicolae",
             "en": "St. Nicholas Church",
-            "nl": "St. Nicholas Church"
+            "nl": "Sint-Nicolaaskerk"
           },
           "coords": [
             4.4999,
@@ -152,7 +152,7 @@
             "hu": "Woonhart (Lakónegyed központja)",
             "ro": "Woonhart (Centrul rezidențial)",
             "en": "Woonhart (Residential Heart)",
-            "nl": "Woonhart (Residential Heart)"
+            "nl": "Woonhart"
           },
           "coords": [
             4.4881,
@@ -169,7 +169,7 @@
             "hu": "Fedezze fel a lakberendezési üzleteket és élvezze a modern hangulatot.",
             "ro": "Explorați magazinele de design interior și bucurați-vă de atmosfera modernă.",
             "en": "Explore the home furnishing stores and enjoy the modern atmosphere.",
-            "nl": "Ontdek de woonwarenhuizen en geniet van de moderne sfeer."
+            "nl": "Ontdek de woonwinkels en geniet van de moderne sfeer."
           }
         }
       ],
@@ -178,7 +178,7 @@
         "hu": "Sétája Zoetermeerben a nyüzsgő Stadshartban kezdődik. Délelőtt felfedezi a város történelmi szívét az Oude Kerk templommal és a Városi Múzeummal, amely bemutatja a város lenyűgöző fejlődését. Délben a neogótikus Nicolaaskerk felé veszi az irányt, majd a csendes Wilhelminaparkban tart egy kis szünetet. Délután a modern Woonhart negyedben sétál, amely a dizájn központja, kontrasztot alkotva az óvárossal, és tökéletesen lezárva a napot.",
         "ro": "Plimbarea dvs. prin Zoetermeer începe în animatul Stadshart. Dimineața explorați inima istorică a orașului cu Oude Kerk și Muzeul Orașului, care prezintă dezvoltarea fascinantă a orașului. La prânz vă îndreptați spre neogotica Nicolaaskerk înainte de a lua o pauză în liniștitul Parc Wilhelmina. După-amiaza vă plimbați prin modernul Woonhart, un centru de design care contrastează cu orașul vechi, încheind ziua perfect.",
         "en": "Your walk through Zoetermeer begins in the bustling Stadshart. In the morning, you'll explore the historic heart of the city with the Oude Kerk and the City Museum, showcasing its fascinating development. Midday takes you to the neo-Gothic Nicolaaskerk before you take a break in the peaceful Wilhelmina Park. In the afternoon, stroll through the modern Woonhart, a center for design, contrasting with the old town and perfectly rounding off the day.",
-        "nl": "Je wandeling door Zoetermeer begint in het levendige Stadshart. ’s Ochtends verken je het historische hart van de stad met de Oude Kerk en het Stadsmuseum, die de boeiende ontwikkeling tonen. Rond het middaguur bezoek je de neogotische Nicolaaskerk en neem je een pauze in het rustige Wilhelmina Park. ’s Middags wandel je door het moderne Woonhart, een centrum voor design dat contrasteert met de oude stad en de dag perfect afrondt."
+        "nl": "Je wandeling door Zoetermeer begint in het drukke Stadshart. 's Ochtends verken je het historische hart met de Oude Kerk en het Stadsmuseum, die de fascinerende ontwikkeling tonen. Middag brengt je naar de neogotische Nicolaaskerk voordat je uitrust in het rustige Wilhelmina Park. In de middag slenter je door het moderne Woonhart, een centrum voor design dat contrasteert met de oude stad en de dag perfect afsluit."
       },
       "gastro_picks": {
         "de": [
@@ -376,10 +376,10 @@
           "Some cafes in Stadshart offer free Wi-Fi."
         ],
         "nl": [
-          "Draag comfortabele schoenen, je legt enkele kilometers af.",
+          "Draag comfortabele schoenen, want je legt enkele kilometers te voet af.",
           "De meeste centrale bezienswaardigheden zijn gemakkelijk te voet bereikbaar.",
           "Controleer van tevoren de openingstijden van het Stadsmuseum.",
-          "Sommige cafés in het Stadshart bieden gratis wifi."
+          "Sommige cafés in Stadshart bieden gratis wifi."
         ]
       },
       "variants": {
@@ -389,7 +389,7 @@
             "hu": "Kezdje a napot a Stadshart bevásárlóközpont fedett passzázsai alatt, így elkerülheti az esőt. Délben a Városi Múzeum és a templomok vastag falai nyújtanak menedéket a záporok elől. Délután egy rövid séta következik a Wilhelmina parkon át a Woonhart negyedig. Az estét a városközpont fedett üzletei között töltheti el kényelmesen.",
             "ro": "Începeți ziua în Stadshart, care oferă multe pasaje acoperite pentru a rămâne uscat. Vizita la Muzeul Orașului și la biserici la prânz oferă protecție perfectă împotriva ploii. O scurtă plimbare vă poartă prin Parcul Wilhelmina către Woonhart. Seara poate fi petrecută în interiorul primitor al centrelor comerciale.",
             "en": "Start your day in Stadshart, which offers many covered passages to stay dry. Visiting the City Museum and the churches at midday provides perfect shelter from the showers. A short walk leads you through Wilhelmina Park to Woonhart. Spend the evening in the cozy indoor areas of the shopping centers.",
-            "nl": "Begin je dag in Stadshart, waar veel overdekte passages je droog houden. Een bezoek aan het Stadsmuseum en de kerken rond het middaguur biedt perfecte beschutting tegen de buien. Een korte wandeling leidt je door Wilhelmina Park naar Woonhart. Breng de avond door in de gezellige binnenruimtes van de winkelcentra."
+            "nl": "Begin je dag in Stadshart, waar veel overdekte passages je droog houden. Een bezoek aan het Stedelijk Museum en de kerken rond het middaguur biedt perfecte beschutting tegen de buien. Een korte wandeling voert je via Wilhelminapark naar Woonhart. Sluit de avond door in de gezellige binnenruimtes van de winkelcentra."
           },
           "stops": [
             {
@@ -419,7 +419,7 @@
                 "hu": "Ideális helyszín egy hosszabb száraz szünethez.",
                 "ro": "Locație ideală pentru o pauză lungă la uscat.",
                 "en": "Ideal location for a long break in the dry.",
-                "nl": "Ideale plek voor een lange pauze in het droog."
+                "nl": "Ideale locatie voor een lange pauze in het droge."
               }
             },
             {
@@ -439,7 +439,7 @@
                 "hu": "Az aszfaltozott utak megkímélik a cipőt a sártól.",
                 "ro": "Potecile asfaltate evită murdărirea pantofilor.",
                 "en": "The paved paths help avoid muddy shoes.",
-                "nl": "De bestrate paden helpen modderige schoenen te vermijden."
+                "nl": "De bestrate paden helpen modderschoenen te voorkomen."
               }
             },
             {
@@ -449,7 +449,7 @@
                 "hu": "Tökéletes befejezés az árkádok alatt.",
                 "ro": "Final perfect sub arcadele comerciale.",
                 "en": "Perfect finish under the shopping arcades.",
-                "nl": "Perfect einde onder de winkelarcades."
+                "nl": "Perfecte afsluiting onder de winkelarcades."
               }
             }
           ],
@@ -479,10 +479,10 @@
               "A sturdy travel umbrella is essential due to frequent strong winds."
             ],
             "nl": [
-              "Draag waterdichte schoenen voor de gedeeltes tussen de centra.",
+              "Draag waterdichte schoenen voor de stukken tussen de centra.",
               "De meeste RandstadRail-stations zijn goed beschut tegen regen.",
-              "Gebruik de ondergrondse parkeerpassages als kortere routes.",
-              "Een stevige reisparaplu is essentieel vanwege de frequente harde wind."
+              "Gebruik de ondergrondse parkeergaragepassages als kortere routes.",
+              "Een stevige reispapparaplu is essentieel door de frequente harde wind."
             ]
           }
         },
@@ -492,7 +492,7 @@
             "hu": "Hűvös reggel a Stadshartban egy forró kávéval. A templomok meghitt meleget nyújtanak a déli órákban. A Wilhelmina park a fagytól különösen csendesnek tűnik. Mivel a nap már 16:30 körül lemegy, a kivilágított Woonhart méltó befejezése a napnak.",
             "ro": "Un început răcoros în Stadshart cu o cafea fierbinte. Bisericile oferă căldură și liniște în timpul prânzului. Parcul Wilhelmina pare deosebit de calm sub ger. Deoarece soarele apune în jur de ora 16:30, zona Woonhart iluminată este un final frumos de zi.",
             "en": "A cool start in Stadshart with a hot coffee. The churches offer contemplative warmth during the midday hours. Wilhelmina Park seems particularly quiet in the frost. Since the sun sets around 4:30 PM, the illuminated Woonhart is a lovely conclusion to the day.",
-            "nl": "Een frisse start in Stadshart met een hete koffie. De kerken bieden contemplatieve warmte tijdens de middaguren. Wilhelmina Park voelt bijzonder rustig aan in de vorst. Omdat de zon rond 16:30 ondergaat, is het verlichte Woonhart een mooie afsluiting van de dag."
+            "nl": "Een koele start in Stadshart met een hete koffie. De kerken bieden contemplatieve warmte tijdens de middaguren. Wilhelminapark oogt bijzonder rustig bij vorst. Aangezien de zon rond 16:30 ondergaat, is het verlichte Woonhart een mooie afsluiting van de dag."
           },
           "stops": [
             {
@@ -502,7 +502,7 @@
                 "hu": "Vegyél egy forró kakaót a sétához.",
                 "ro": "Luați o ciocolată caldă pentru plimbare.",
                 "en": "Grab a hot cocoa for the walk.",
-                "nl": "Pak een warme cacao voor tijdens de wandeling."
+                "nl": "Pak een warme chocolademelk voor onderweg."
               }
             },
             {
@@ -512,7 +512,7 @@
                 "hu": "Ügyeljen az esetleges jegesedésre a templom téren.",
                 "ro": "Atenție la poleiul din piața bisericii.",
                 "en": "Watch for potential ice in the church square.",
-                "nl": "Let op mogelijke ijsplekken op het kerkhofplein."
+                "nl": "Let op mogelijke ijsvorming op het kerkplein."
               }
             },
             {
@@ -522,7 +522,7 @@
                 "hu": "A múzeum fűtése nagyon hívogató télen.",
                 "ro": "Încălzirea din muzeu este foarte primitoare.",
                 "en": "The museum's heating is very welcoming in winter.",
-                "nl": "De verwarming van het museum is erg welkom in de winter."
+                "nl": "De verwarming in het museum is zeer welkom in de winter."
               }
             },
             {
@@ -532,7 +532,7 @@
                 "hu": "Élvezze a békét a kinti hideg elől.",
                 "ro": "Bucurați-vă de liniște departe de frigul de afară.",
                 "en": "Enjoy the peace away from the cold outside.",
-                "nl": "Geniet van de rust weg van de koude buitenlucht."
+                "nl": "Geniet van de rust weg van de kou buiten."
               }
             },
             {
@@ -582,10 +582,10 @@
               "Gloves are important due to the wind in open passages."
             ],
             "nl": [
-              "Draag thermische inlegzolen tegen de koude keien.",
-              "De zon verdwijnt vroeg; plan foto’s voor 15:30.",
+              "Draag thermische zolen tegen de koude keien.",
+              "De zon verdwijnt vroeg; plan foto’s vóór 15:30.",
               "Warm regelmatig op in de cafés in Stadshart.",
-              "Handschoenen zijn belangrijk vanwege de wind in open passages."
+              "Handschoenen zijn belangrijk door de wind in open passages."
             ]
           }
         }
@@ -622,7 +622,7 @@
             "hu": "Béreljen kerékpárt a közelben, és kezdje itt a túrát.",
             "ro": "Închiriați bicicleta din apropiere și începeți turul de aici.",
             "en": "Rent your bike nearby and start your tour here.",
-            "nl": "Huur hier vlakbij een fiets en begin je tour."
+            "nl": "Huur hier een fiets in de buurt en begin je tocht hier."
           }
         },
         {
@@ -648,7 +648,7 @@
             "hu": "Parkolja le a kerékpárt, és fedezze fel mindkét látnivalót gyalog.",
             "ro": "Parcați bicicleta și explorați ambele atracții pe jos.",
             "en": "Park your bike and explore both sights on foot.",
-            "nl": "Zet je fiets neer en verken beide bezienswaardigheden te voet."
+            "nl": "Stal je fiets en verken beide bezienswaardigheden te voet."
           }
         },
         {
@@ -657,7 +657,7 @@
             "hu": "Zoetermeeri víztorony",
             "ro": "Turnul de apă din Zoetermeer",
             "en": "Zoetermeer Water Tower",
-            "nl": "Zoetermeerse Watertoren"
+            "nl": "Zoetermeer Watertoren"
           },
           "coords": [
             4.4842,
@@ -674,7 +674,7 @@
             "hu": "Egy gyors fotómegálló a város ipari műemlékénél.",
             "ro": "O scurtă oprire pentru fotografii la acest monument industrial al orașului.",
             "en": "A quick photo stop at this industrial monument of the city.",
-            "nl": "Een snelle fotostop bij dit industriële monument van de stad."
+            "nl": "Een korte fotostop bij dit industriële monument van de stad."
           }
         },
         {
@@ -700,7 +700,7 @@
             "hu": "Ebédeljen a park kávézójában, és figyelje a szabadtéri sportolókat.",
             "ro": "Luați prânzul la cafeneaua din parc și urmăriți sportivii în aer liber.",
             "en": "Have lunch at the park cafe and watch the outdoor sports enthusiasts.",
-            "nl": "Lunch in het parkcafé en kijk naar de buitensporters."
+            "nl": "Lunch bij het parkkafé en kijk naar de buitensporters."
           }
         },
         {
@@ -709,7 +709,7 @@
             "hu": "Noord AA tó",
             "ro": "Lacul Noord AA",
             "en": "Noord AA Lake",
-            "nl": "Noord AA-meer"
+            "nl": "Noord AA Meer"
           },
           "coords": [
             4.5155,
@@ -726,7 +726,7 @@
             "hu": "Pihenjen a homokos parton, vagy merészkedjen be a tóba fürdeni.",
             "ro": "Relaxați-vă pe plaja de nisip sau îndrăzniți să faceți o baie în lac.",
             "en": "Relax on the sandy beach or dare to take a swim in the lake.",
-            "nl": "Ontspan op het zandstrand of waag je aan een duik in het meer."
+            "nl": "Ontspan op het zandstrand of waag een duik in het meer."
           }
         },
         {
@@ -735,7 +735,7 @@
             "hu": "Vilma Királynő Park",
             "ro": "Parcul Wilhelmina",
             "en": "Wilhelmina Park",
-            "nl": "Wilhelmina Park"
+            "nl": "Wilhelminapark"
           },
           "coords": [
             4.512,
@@ -752,7 +752,7 @@
             "hu": "Fejezze be a kerékpártúrát egy csendes körrel ebben a gyönyörű parkban.",
             "ro": "Încheiați turul cu bicicleta cu o plimbare liniștită prin acest parc frumos.",
             "en": "End your bike tour with a quiet loop through this beautiful park.",
-            "nl": "Sluit je fietstocht af met een rustige ronde door dit mooie park."
+            "nl": "Sluit je fietstocht af met een rustige ronde door dit prachtige park."
           }
         }
       ],
@@ -761,7 +761,7 @@
         "hu": "Kerékpártúrája a modern Stadshartból indul. Délelőtt a történelmi központba teker, hogy megnézze az Oude Kerket és a múzeumot, majd vet egy pillantást a víztoronyra. Délben a tágas Buytenparkba érkezik, amely ideális egy hosszabb pihenőre. Délután átéli a strandélményt a Noord AA tónál, mielőtt egy pihentető körrel zárja a napot az elegáns Wilhelminaparkban.",
         "ro": "Turul cu bicicleta prin Zoetermeer începe în modernul Stadshart. Dimineața pedalați spre centrul istoric pentru a vizita Oude Kerk și muzeul, urmat de o privire la Turnul de Apă. La prânz ajungeți în vastul Buytenpark, ideal pentru o pauză prelungită. După-amiaza, experimentați atmosfera de plajă la lacul Noord AA, înainte de a încheia ziua cu o plimbare relaxantă prin elegantul Parc Wilhelmina.",
         "en": "Your bike tour through Zoetermeer starts in the modern Stadshart. In the morning, you'll cycle to the historic core to visit the Oude Kerk and museum, followed by a look at the Water Tower. Midday brings you to the expansive Buytenpark, ideal for an extended break. In the afternoon, experience the beach feel at Noord AA lake before ending the day with a relaxing ride through the elegant Wilhelmina Park.",
-        "nl": "Je fietstocht door Zoetermeer begint in het moderne Stadshart. ’s Ochtends fiets je naar de historische kern om de Oude Kerk en het museum te bezoeken, gevolgd door een bezoek aan de Watertoren. Rond het middaguur kom je aan bij het uitgestrekte Buytenpark, ideaal voor een langere pauze. In de namiddag ervaar je het strandgevoel bij het Noord AA-meer voordat je de dag afsluit met een ontspannen rit door het elegante Wilhelmina Park."
+        "nl": "Je fietstocht door Zoetermeer begint in het moderne Stadshart. ’s Ochtends fiets je naar de historische kern om de Oude Kerk en het museum te bezoeken, gevolgd door een blik op de Watertoren. Rond het middaguur bereik je het uitgestrekte Buytenpark, ideaal voor een langere pauze. In de middag proef je het strandgevoel bij het Noord AA Meer voordat je de dag afsluit met een ontspannen rit door het elegante Wilhelminapark."
       },
       "gastro_picks": {
         "de": [
@@ -961,8 +961,8 @@
         "nl": [
           "Controleer je bandenspanning voordat je vertrekt.",
           "Zoetermeer heeft uitstekende fietspaden; maak er gebruik van.",
-          "Zet je fiets altijd goed op slot.",
-          "Neem een waterfles mee, zeker voor de langere stukken."
+          "Zorg dat je fiets altijd goed op slot staat.",
+          "Neem een waterfles mee, vooral voor de langere stukken."
         ]
       },
       "variants": {
@@ -972,7 +972,7 @@
             "hu": "Az eső ellenére Zoetermeer igazi kerékpáros város. Kezdje a Stadshartnál, és használja a kiépített utakat a Városi Múzeumig. A víztoronyhoz és a Buytenparkhoz vezető út vízálló ruházatot igényel. A napot a Noord AA tónál zárja, egy kávézóból figyelve a víz feletti esőt.",
             "ro": "În ciuda ploii, Zoetermeer este un oraș al bicicletelor. Începeți la Stadshart și folosiți pistele bine întreținute către Muzeul Orașului. Drumul către Turnul de Apă și Buytenpark necesită haine impermeabile. Încheiați la lacul Noord AA, privind ploaia de la fereastra unei cafenele.",
             "en": "Despite the rain, Zoetermeer is a true cycling city. Start at Stadshart and use the well-maintained paths to the City Museum. The ride to the Water Tower and Buytenpark requires waterproof gear. End your day at Noord AA Lake, watching the rain over the water from a local cafe.",
-            "nl": "Ondanks de regen is Zoetermeer een echte fietsstad. Begin in Stadshart en gebruik de goed onderhouden paden naar het Stadsmuseum. De rit naar de Watertoren en het Buytenpark vereist regenbestendige uitrusting. Sluit je dag af bij het Noord AA-meer en kijk van een lokaal café naar de regen op het water."
+            "nl": "Ondanks de regen is Zoetermeer een echte fietsstad. Begin in Stadshart en gebruik de goed onderhouden paden naar het Stedelijk Museum. De rit naar de Watertoren en het Buytenpark vraagt om waterdichte kleding. Sluit je dag af bij het Noord AA Meer en kijk vanaf een lokaal café naar de regen boven het water."
           },
           "stops": [
             {
@@ -982,7 +982,7 @@
                 "hu": "Fedett biciklitárolók a szélén találhatók.",
                 "ro": "Suporturile acoperite pentru biciclete sunt la margine.",
                 "en": "Covered bike racks are located at the edge.",
-                "nl": "Overdekte fietsenstallingen bevinden zich aan de rand."
+                "nl": "Overdekte fietsenrekken bevinden zich aan de rand."
               }
             },
             {
@@ -992,7 +992,7 @@
                 "hu": "Állítsa a biciklit közel a bejárathoz.",
                 "ro": "Parcați bicicleta aproape de intrare.",
                 "en": "Park your bike close to the entrance.",
-                "nl": "Parkeer je fiets dicht bij de ingang."
+                "nl": "Parkeer je fiets vlakbij de ingang."
               }
             },
             {
@@ -1022,7 +1022,7 @@
                 "hu": "A tónál esőben erős lehet a szél.",
                 "ro": "Vântul de la lac poate fi puternic pe ploaie.",
                 "en": "The wind at the lake can be strong in the rain.",
-                "nl": "De wind bij het meer kan sterk zijn tijdens de regen."
+                "nl": "De wind bij het meer kan sterk zijn tijdens regen."
               }
             },
             {
@@ -1032,7 +1032,7 @@
                 "hu": "Használja a főutakat a tócsák elkerüléséhez.",
                 "ro": "Folosiți drumurile principale pentru a evita bălțile.",
                 "en": "Use the main paths to avoid puddles.",
-                "nl": "Gebruik de hoofd paden om plassen te vermijden."
+                "nl": "Gebruik de hoofdwegen om plassen te vermijden."
               }
             }
           ],
@@ -1062,9 +1062,9 @@
               "Don't forget a saddle cover if parking outside."
             ],
             "nl": [
-              "Controleer je remmen; nat asfalt vergroot de remafstand.",
+              "Controleer je remmen; nat asfalt vergroot de remweg.",
               "Een regenponcho beschermt beter dan een paraplu op de fiets.",
-              "Vermijd wittewegmarkeringen, want die worden erg glad.",
+              "Vermijd witte wegmarkeringen; die worden erg glad.",
               "Vergeet geen zadelhoes als je buiten parkeert."
             ]
           }
@@ -1075,7 +1075,7 @@
             "hu": "Téli biciklitúra a fagyos Zoetermeerben. A Stadsharttól tiszta levegőn tekerhetünk a múzeumig. A víztorony impozánsan fest a szürke téli égbolt előtt. A Buytenparkon át a Noord AA tóig tartó út tágas kilátást nyújt a polderekre, mielőtt leszállna a korai szürkület.",
             "ro": "O excursie de iarnă cu bicicleta prin Zoetermeer-ul înghețat. De la Stadshart mergeți prin aerul curat către muzeu. Turnul de apă arată impunător pe cerul gri de iarnă. Drumul prin Buytenpark către lacul Noord AA oferă vederi largi asupra polderelor înainte de amurg.",
             "en": "A winter bike trip through frosty Zoetermeer. Ride from Stadshart through the crisp air to the museum. The water tower looks imposing against the grey winter sky. The route through Buytenpark to Noord AA Lake offers wide views of the polders before the early twilight sets in.",
-            "nl": "Een winterse fietstocht door het frisse Zoetermeer. Fiets van Stadshart door de heldere lucht naar het museum. De watertoren domineert tegen de grijze winterlucht. De route door Buytenpark naar het Noord AA-meer biedt brede vergezichten over de polders voordat de vroege schemering inzet."
+            "nl": "Een winterse fietstocht door frostig Zoetermeer. Fiets van Stadshart door de frisse lucht naar het museum. De watertoren staat imposant tegen de grijze winterlucht. De route door het Buytenpark naar het Noord AA Meer biedt brede uitzichten over de polders voordat de vroege schemering inzet."
           },
           "stops": [
             {
@@ -1085,7 +1085,7 @@
                 "hu": "A kesztyű elengedhetetlen ebben a szélben.",
                 "ro": "Mănușile sunt indispensabile pe acest vânt.",
                 "en": "Gloves are essential in this wind.",
-                "nl": "Handschoenen zijn essentieel in deze wind."
+                "nl": "Handschoenen zijn onmisbaar in deze wind."
               }
             },
             {
@@ -1135,7 +1135,7 @@
                 "hu": "Szép út vissza a kopár fasorok között.",
                 "ro": "Drum frumos de întoarcere prin aleile golașe.",
                 "en": "Beautiful return route through the bare avenues.",
-                "nl": "Prachtige terugroute door de kale lanen."
+                "nl": "Mooie terugroute door de kale lanen."
               }
             }
           ],
@@ -1167,8 +1167,8 @@
             "nl": [
               "Controleer je verlichting; het wordt al om 16:30 donker.",
               "Vermijd plots remmen op gladde ondergrond.",
-              "De gevoelstemperatuur in de polders kan erg sterk zijn.",
-              "Fietssloten kunnen bij extreme vorst vastvriezen."
+              "De windchill in de polders kan zeer sterk zijn.",
+              "Fietssloten kunnen vastvriezen bij extreme vorst."
             ]
           }
         }
@@ -1188,7 +1188,7 @@
             "hu": "Parkoló a központban",
             "ro": "Parcare în centru",
             "en": "Parking City Center",
-            "nl": "Parkeren Centrum"
+            "nl": "Parkeren Stadskern"
           },
           "coords": [
             4.4935,
@@ -1205,7 +1205,7 @@
             "hu": "Parkolja le az autót délelőttre itt, a 'Központ' klaszterben.",
             "ro": "Parcați mașina pentru dimineață aici, în clusterul 'Centru'.",
             "en": "Park your car for the morning here in the 'Center' cluster.",
-            "nl": "Parkeer hier je auto 's ochtends in de 'Center'-cluster."
+            "nl": "Parkeer hier je auto voor de ochtend in de 'Center'-cluster."
           }
         },
         {
@@ -1231,7 +1231,7 @@
             "hu": "A városközponti séta kiindulópontja.",
             "ro": "Punctul de plecare pentru plimbarea prin centrul orașului.",
             "en": "The starting point for your walk through the city center.",
-            "nl": "Het vertrekpunt voor je wandeling door het stadscentrum."
+            "nl": "Het startpunt voor je wandeling door het stadscentrum."
           }
         },
         {
@@ -1266,7 +1266,7 @@
             "hu": "SnowWorld parkoló",
             "ro": "Parcare SnowWorld",
             "en": "SnowWorld Parking",
-            "nl": "SnowWorld Parkeren"
+            "nl": "SnowWorld Parkeerplaats"
           },
           "coords": [
             4.455,
@@ -1283,7 +1283,7 @@
             "hu": "Új klaszter: 'Szabadidő'. Parkoljon itt a következő két megállóhoz.",
             "ro": "Cluster nou 'Timp Liber'. Parcați aici pentru următoarele două opriri.",
             "en": "New cluster 'Leisure'. Park here for the next two stops.",
-            "nl": "Nieuwe cluster 'Vrije Tijd'. Parkeer hier voor de volgende twee stops."
+            "nl": "Nieuwe cluster 'Leisure'. Parkeer hier voor de volgende twee stops."
           }
         },
         {
@@ -1309,7 +1309,7 @@
             "hu": "Éljen át egy havas élményt Hollandia közepén! Még nézni is szórakoztató.",
             "ro": "Experimentați zăpada în mijlocul Olandei! Chiar și doar privitul este distractiv.",
             "en": "Experience snow in the middle of the Netherlands! Even just watching is fun.",
-            "nl": "Ervaar sneeuw midden in Nederland! Al kijken is leuk."
+            "nl": "Beleef sneeuw midden in Nederland! Alleen kijken is al leuk."
           }
         },
         {
@@ -1335,7 +1335,7 @@
             "hu": "Egy rövid séta a hóból a park zöld természetébe.",
             "ro": "O scurtă plimbare de la zăpadă la natura verde a parcului.",
             "en": "A short walk from the snow into the green nature of the park.",
-            "nl": "Een korte wandeling van de sneeuw naar het groene park."
+            "nl": "Kort wandelingetje van de sneeuw naar de groene natuur van het park."
           }
         },
         {
@@ -1361,7 +1361,7 @@
             "hu": "Zárja a napot a vízparton. Tökéletes egy naplementés sétához.",
             "ro": "Încheiați ziua pe malul apei. Perfect pentru o plimbare la apus.",
             "en": "End the day by the water. Perfect for a sunset walk.",
-            "nl": "Sluit de dag af bij het water. Perfect voor een zonsondergangwandeling."
+            "nl": "Sluit de dag af aan het water. Perfect voor een zonsondergangwandeling."
           }
         }
       ],
@@ -1370,7 +1370,7 @@
         "hu": "Kezdje a napot autóval, parkoljon Zoetermeer központjában. A délelőtt a történelmi központ gyalogos felfedezéséről szól, a Stadsharttól az Oude Kerkig és a múzeumig. Délben átautózik a szabadidős klaszterbe, ahol a SnowWorldben alpesi hangulatot élvezhet, majd a Buytenparkban sétálhat. A délután utolsó állomásához, a Noord AA tóhoz vezet, ahol egy rövid autóút után pihentetően zárhatja a napot a vízparton.",
         "ro": "Începeți ziua cu mașina, parcând în centrul orașului Zoetermeer. Dimineața este dedicată unei plimbări prin centrul istoric, de la Stadshart la Oude Kerk și muzeu. La prânz, conduceți spre clusterul de agrement, unde experimentați o atmosferă alpină la SnowWorld și apoi vă plimbați în Buytenpark. După-amiaza vă duce la ultima destinație, lacul Noord AA, unde, după o scurtă călătorie cu mașina, puteți încheia ziua relaxându-vă pe malul apei.",
         "en": "Start your day by car, parking in the center of Zoetermeer. The morning is dedicated to a walk through the historic core, from Stadshart to the Oude Kerk and museum. At midday, you'll drive to the leisure cluster to experience an alpine atmosphere at SnowWorld, followed by a walk in Buytenpark. The afternoon takes you to your final destination, Noord AA lake, where after a short drive you can end the day relaxing by the water.",
-        "nl": "Begin je dag met de auto, parkeren in het centrum van Zoetermeer. De ochtend is bestemd voor een wandeling door het historische centrum, van Stadshart naar de Oude Kerk en het museum. Rond het middaguur rijd je naar de vrijetijdscluster om de alpine-sfeer bij SnowWorld te ervaren, gevolgd door een wandeling in Buytenpark. De middag brengt je naar je eindbestemming, het Noord AA Meer, waar je na een korte rit de dag ontspannen aan het water kunt afsluiten."
+        "nl": "Begin je dag met de auto en parkeer in het centrum van Zoetermeer. De ochtend staat in het teken van een wandeling door de historische kern, van Stadshart naar de Oude Kerk en het museum. Rond het middaguur rijd je naar de leisure-cluster om een alpine sfeer te ervaren bij SnowWorld, gevolgd door een wandeling in het Buytenpark. De middag brengt je naar je eindbestemming, het Noord AA Meer, waar je na een korte rit de dag ontspannen aan het water kunt afsluiten."
       },
       "gastro_picks": {
         "de": [
@@ -1569,9 +1569,9 @@
         ],
         "nl": [
           "Gebruik Park-and-Ride-opties indien beschikbaar.",
-          "Houd rekening met parkeerkosten in het centrum.",
-          "Plan je route van tevoren om verkeer te vermijden.",
-          "De auto geeft je de flexibiliteit om verder gelegen bestemmingen zoals SnowWorld te bereiken."
+          "Let op parkeerkosten in het stadscentrum.",
+          "Plan je route van tevoren om verkeersdrukte te vermijden.",
+          "De auto geeft flexibiliteit om verder gelegen bestemmingen zoals SnowWorld te bereiken."
         ]
       },
       "variants": {
@@ -1581,7 +1581,7 @@
             "hu": "Esőben az autó a legkényelmesebb választás. Használja a belvárosi parkolóházat a Stadshart látogatásához. Egy rövid út után elérhető a Városi Múzeum. A nap fénypontja a SnowWorld, ahol az időjárástól függetlenül sportolhat, mielőtt a Noord AA tónál zárna.",
             "ro": "Mașina este cea mai confortabilă alegere pe ploaie. Folosiți parcarea din centrul orașului pentru Stadshart. O scurtă deplasare vă duce la Muzeul Orașului. Punctul culminant este SnowWorld, unde puteți fi activ indiferent de vreme, înainte de a merge la lacul Noord AA.",
             "en": "The car is the most comfortable choice in the rain. Use the city center parking garage for Stadshart. A short drive takes you to the City Museum. The highlight is SnowWorld, where you can be active regardless of the weather, before ending the day at Noord AA Lake.",
-            "nl": "De auto is de meest comfortabele keuze bij regen. Gebruik de parkeergarage in het centrum voor het Stadshart. Een korte rit brengt je naar het City Museum. Het hoogtepunt is SnowWorld, waar je ongeacht het weer actief kunt zijn, voordat je de dag afsluit bij het Noord AA Meer."
+            "nl": "De auto is de meest comfortabele keuze bij regen. Gebruik de parkeergarage in het centrum voor Stadshart. Een korte rit brengt je naar het Stedelijk Museum. Het hoogtepunt is SnowWorld, waar je actief kunt zijn ongeacht het weer, voordat je de dag afsluit bij het Noord AA Meer."
           },
           "stops": [
             {
@@ -1601,7 +1601,7 @@
                 "hu": "Hagyja a vásárolt holmikat egyszerűen a csomagtartóban.",
                 "ro": "Lăsați cumpărăturile pur și simplu în portbagaj.",
                 "en": "Simply leave your shopping in the trunk.",
-                "nl": "Laat je boodschappen gewoon in de kofferbak achter."
+                "nl": "Laat je boodschappen gewoon in de kofferbak."
               }
             },
             {
@@ -1681,10 +1681,10 @@
               "Keep a safe distance as road surfaces can be slippery."
             ],
             "nl": [
-              "Pas op voor aquaplaning op de A12 snelweg.",
+              "Let op aquaplaning op de A12.",
               "Parkeergarages in Stadshart bieden kortingskaarten.",
               "Gebruik automatische ruitenwissers bij veranderlijk weer.",
-              "Houd voldoende afstand, want wegdek kan glad zijn."
+              "Houd voldoende afstand, want het wegdek kan glad zijn."
             ]
           }
         },
@@ -1694,7 +1694,7 @@
             "hu": "Téli autós kirándulás Zoetermeerben. Kezdje kényelmesen a fűtött Stadshartban. A múzeumlátogatás után a SnowWorld télen kötelező a valódi síhangulathoz. A Buytenpark és a Noord AA tó körüli polderek varázslatosak fagyban, mielőtt sötétben hazaindulna.",
             "ro": "Distracție de iarnă la volan în Zoetermeer. Începeți confortabil în Stadshart-ul încălzit. După vizita la muzeu, SnowWorld este un 'must' iarna pentru o atmosferă de schi autentică. Peisajul polderelor din jurul Buytenpark arată magic sub ger.",
             "en": "Winter driving fun in Zoetermeer. Start comfortably in the heated Stadshart. After the museum visit, SnowWorld is a must in winter for a real ski atmosphere. The polder landscape around Buytenpark and Noord AA Lake looks magical in the frost before you drive home in the dark.",
-            "nl": "Winterrijden in Zoetermeer. Begin comfortabel in het verwarmde Stadshart. Na het museumbezoek is SnowWorld in de winter een must voor echte skisfeer. Het polderlandschap rond Buytenpark en het Noord AA Meer ziet er betoverend uit bij vorst voordat je in het donker naar huis rijdt."
+            "nl": "Winterrijplezier in Zoetermeer. Begin comfortabel in het verwarmde Stadshart. Na het museumbezoek is SnowWorld in de winter een must voor echte skisfeer. Het polderlandschap rond Buytenpark en het Noord AA-meer ziet er betoverend uit in de rijp voordat je ’s avonds in het donker naar huis rijdt."
           },
           "stops": [
             {
@@ -1704,7 +1704,7 @@
                 "hu": "Az autó kevésbé hűl le a parkolóházban.",
                 "ro": "Mașina se răcește mai puțin în parcarea subterană.",
                 "en": "The car cools down less in the parking garage.",
-                "nl": "De auto koelt minder snel af in de parkeergarage."
+                "nl": "De auto koelt minder af in de parkeergarage."
               }
             },
             {
@@ -1744,7 +1744,7 @@
                 "hu": "A sícsarnokban gyakran melegebb van, mint kint.",
                 "ro": "În sala de schi este adesea mai cald decât afară.",
                 "en": "It's often warmer inside the ski hall than outside.",
-                "nl": "Het is vaak warmer binnen in de skihal dan buiten."
+                "nl": "Het is vaak warmer binnen in de skihal dan erbuiten."
               }
             },
             {
@@ -1754,7 +1754,7 @@
                 "hu": "Rövid megálló a fagyos panorámáért.",
                 "ro": "O scurtă oprire pentru panorama înghețată.",
                 "en": "A short stop for the frosty panorama.",
-                "nl": "Een korte stop voor het frostige panorama."
+                "nl": "Een korte stop voor het ijzige panorama."
               }
             },
             {
@@ -1794,10 +1794,10 @@
               "Be careful on side roads, as they are often gritted less."
             ],
             "nl": [
-              "Controleer het antivriesmiddel in je ruitensproeiervloeistof.",
-              "Houd een ijs-krabber bij de hand voor de terugreis.",
-              "Batterijprestaties nemen af in de kou; laat de verlichting niet aanstaan.",
-              "Wees voorzichtig op zijwegen, die vaak minder gestrooid zijn."
+              "Controleer het antivriesmiddel in je ruitensproeiervulling.",
+              "Houd een ijskrabber bij de hand voor de terugreis.",
+              "Batterijprestaties nemen af in de kou; laat geen verlichting aanstaan.",
+              "Wees voorzichtig op zijwegen; die worden vaak minder gestrooid."
             ]
           }
         }
@@ -1834,7 +1834,7 @@
             "hu": "Kezdje a napot itt, a tömegközlekedési hálózat szívében.",
             "ro": "Începeți ziua aici, în inima rețelei de transport public.",
             "en": "Start your day here, in the heart of the public transport network.",
-            "nl": "Begin je dag hier, in het hart van het openbaar vervoer netwerk."
+            "nl": "Begin je dag hier, in het hart van het openbaar vervoersnetwerk."
           }
         },
         {
@@ -1869,7 +1869,7 @@
             "hu": "Oude Kerk és Városi Múzeum",
             "ro": "Oude Kerk și Muzeul Orașului",
             "en": "Oude Kerk & City Museum",
-            "nl": "Oude Kerk & City Museum"
+            "nl": "Oude Kerk & Stadsmuseum"
           },
           "coords": [
             4.4988,
@@ -1886,7 +1886,7 @@
             "hu": "Merüljön el a történelemben, mielőtt buszra szállna a következő klaszterhez.",
             "ro": "Scufundați-vă în istorie înainte de a lua autobuzul spre următorul cluster.",
             "en": "Immerse yourself in history before taking the bus to the next cluster.",
-            "nl": "Dompel je onder in de geschiedenis voordat je de bus naar de volgende cluster neemt."
+            "nl": "Dompel jezelf onder in geschiedenis voordat je de bus naar de volgende cluster neemt."
           }
         },
         {
@@ -1938,7 +1938,7 @@
             "hu": "Hatalmas rekreációs terület, tökéletes az ebédszünethez.",
             "ro": "O zonă de recreere uriașă, perfectă pentru pauza de prânz.",
             "en": "A huge recreational area, perfect for a lunch break.",
-            "nl": "Een uitgestrekt recreatiegebied, perfect voor een lunchpauze."
+            "nl": "Een enorm recreatiegebied, perfect voor een lunchpauze."
           }
         },
         {
@@ -1973,7 +1973,7 @@
         "hu": "Tömegközlekedési túrája a központi Stadshart megállóból indul. Délelőtt gyalog fedezi fel a városközpontot, a bevásárlóutcáktól a történelmi Oude Kerkig és a múzeumig. Délben busszal utazik a tágas Buytenparkba egy zöld szünetre. Délután egy másik buszjárat viszi a Noord AA tóhoz, ahol élvezheti a strandéletet, mielőtt este visszaindulna.",
         "ro": "Turul dvs. cu transportul public începe la stația centrală Stadshart. Dimineața explorați centrul orașului pe jos, de la străzile comerciale la istorica Oude Kerk și muzeu. La prânz, luați un autobuz spre vastul Buytenpark pentru o pauză verde. După-amiaza, o altă călătorie cu autobuzul vă duce la lacul Noord AA, unde vă puteți bucura de viața de pe plajă înainte de a vă întoarce seara.",
         "en": "Your public transport tour starts at the central Stadshart stop. In the morning, you'll explore the city center on foot, from the shopping streets to the historic Oude Kerk and museum. At midday, you'll take a bus to the expansive Buytenpark for a green break. In the afternoon, another bus ride takes you to Noord AA lake, where you can enjoy the beach life before heading back in the evening.",
-        "nl": "Je openbaar vervoerroute begint bij de centrale Stadshart halte. ’s Ochtends verken je het centrum te voet, van de winkelstraten tot de historische Oude Kerk en het museum. Rond het middaguur neem je de bus naar het uitgestrekte Buytenpark voor een groene pauze. In de middag brengt een andere bus je naar het Noord AA Meer, waar je van het strandleven kunt genieten voordat je 's avonds teruggaat."
+        "nl": "Je OV-tour begint bij de centrale Stadshart-stop. ’s Ochtends verken je het stadscentrum te voet, van de winkelstraten tot de historische Oude Kerk en het museum. Midden op de dag neem je de bus naar het uitgestrekte Buytenpark voor een groene pauze. ’s Middags brengt een andere bus je naar het Noord AA-meer, waar je van het strandleven kunt genieten voordat je ’s avonds terugkeert."
       },
       "gastro_picks": {
         "de": [
@@ -2172,9 +2172,9 @@
         ],
         "nl": [
           "Koop een dagkaart voor het openbaar vervoer.",
-          "Download de dienstregeling-app om bus vertrektijden bij te houden.",
-          "Houd er rekening mee dat bussen tijdens spitstijden druk kunnen zijn.",
-          "Sommige routes rijden in het weekend minder vaak."
+          "Download de dienstregeling-app om busvertrektijden bij te houden.",
+          "Houd er rekening mee dat bussen tijdens spitsuren druk kunnen zijn.",
+          "Sommige lijnen rijden in het weekend minder vaak."
         ]
       },
       "variants": {
@@ -2184,7 +2184,7 @@
             "hu": "A RandstadRail segítségével szárazon utazhat át Zoetermeeren. A Stadshart megállói jól fedettek. Látogassa meg a múzeumot és a templomokat, majd utazzon tovább vonattal a Buytenparkhoz. A napot a Noord AA tónál zárhatja, mely busszal kényelmesen elérhető az esőben is.",
             "ro": "Cu RandstadRail traversați Zoetermeer-ul la adăpost de ploaie. Stațiile din Stadshart sunt bine acoperite. Vizitați muzeul și bisericile înainte de a continua cu trenul către Buytenpark. Încheiați ziua la lacul Noord AA, accesibil ușor cu autobuzul.",
             "en": "Use the RandstadRail to stay dry while traveling through Zoetermeer. The stops at Stadshart are well-sheltered. Visit the City Museum and churches before continuing by train to Buytenpark. End your day at Noord AA Lake, easily reached by bus while it rains outside.",
-            "nl": "Gebruik de RandstadRail om droog door Zoetermeer te reizen. De haltes bij Stadshart zijn goed overdekt. Bezoek het City Museum en de kerken voordat je met de trein naar Buytenpark verderreist. Sluit je dag af bij het Noord AA Meer, dat je bij regen eenvoudig per bus bereikt."
+            "nl": "Gebruik de RandstadRail om droog te blijven tijdens het reizen door Zoetermeer. De haltes bij Stadshart zijn goed overdekt. Bezoek het Stadsmuseum en kerken voordat je per tram naar Buytenpark gaat. Sluit je dag af bij het Noord AA-meer, dat gemakkelijk per bus te bereiken is terwijl het buiten regent."
           },
           "stops": [
             {
@@ -2194,7 +2194,7 @@
                 "hu": "Az állomás jó védelmet nyújt a szél és az időjárás ellen.",
                 "ro": "Stația oferă protecție bună împotriva vântului și ploii.",
                 "en": "The station offers good protection from wind and weather.",
-                "nl": "Station biedt goede bescherming tegen wind en weer."
+                "nl": "Het station biedt goede beschutting tegen wind en weer."
               }
             },
             {
@@ -2204,7 +2204,7 @@
                 "hu": "Rövid utak a vonatok és az üzletek között.",
                 "ro": "Distanțe scurte între trenuri și magazine.",
                 "en": "Short distances between the trains and the shops.",
-                "nl": "Korte afstanden tussen treinen en winkels."
+                "nl": "Korte afstanden tussen de treinen en de winkels."
               }
             },
             {
@@ -2224,7 +2224,7 @@
                 "hu": "Gyors átszállás a 3-as RandstadRail vonalra.",
                 "ro": "Transfer rapid la linia 3 RandstadRail.",
                 "en": "Quick transfer to RandstadRail line 3.",
-                "nl": "Snelle overstap naar RandstadRail lijn 3."
+                "nl": "Snelle overstap op RandstadRail lijn 3."
               }
             },
             {
@@ -2244,7 +2244,7 @@
                 "hu": "Várja a visszatérő buszt a fedett váróban.",
                 "ro": "Așteptați autobuzul de întoarcere în adăpost.",
                 "en": "Wait for the bus back in the shelter.",
-                "nl": "Wacht op de terugbus in de abri."
+                "nl": "Wacht op de terugweg de bus in de beschutting af."
               }
             }
           ],
@@ -2275,7 +2275,7 @@
             ],
             "nl": [
               "Gebruik de OV-chipkaart voor naadloze overstappen.",
-              "RandstadRail rijdt elke 10-15 minuten.",
+              "RandstadRail rijdt elke 10–15 minuten.",
               "Controleer vertragingen met de '9292' app.",
               "Stations kunnen winderig zijn, dus kleed je warm aan."
             ]
@@ -2287,7 +2287,7 @@
             "hu": "Téli utazás vonattal Zoetermeerben. Kezdje a nyüzsgő Stadshartban, és élvezze az utat a fagyos lakónegyedeken át. A Városi Múzeum meleg szünetet kínál. A 3-as vonallal elérheti a Buytenparkot, ahol a téli levegő frissítő, majd busszal utazhat a hangulatos Noord AA tóhoz.",
             "ro": "Călătorie de iarnă cu trenul prin Zoetermeer. Începeți în Stadshart-ul plin de viață și bucurați-vă de drumul prin cartierele înghețate. Muzeul oferă o pauză caldă. Cu linia 3 ajungeți la Buytenpark, unde aerul de iarnă este revigorant.",
             "en": "Winter journey by train through Zoetermeer. Start in the lively Stadshart and enjoy the ride through frosty neighborhoods. The City Museum offers a warm break. Take line 3 to Buytenpark, where the winter air is refreshing, before taking the bus to the atmospheric Noord AA Lake.",
-            "nl": "Winterreis per trein door Zoetermeer. Begin in het levendige Stadshart en geniet van de rit door frostige wijken. Het City Museum biedt een warme onderbreking. Neem lijn 3 naar Buytenpark, waar de winterlucht verkwikkend is, voordat je de bus naar het sfeervolle Noord AA Meer neemt."
+            "nl": "Winterse treinreis door Zoetermeer. Begin in het levendige Stadshart en geniet van de rit door rijpe wijken. Het Stadsmuseum biedt een warme pauze. Neem lijn 3 naar Buytenpark, waar de winterlucht verfrissend is, en neem daarna de bus naar het sfeervolle Noord AA-meer."
           },
           "stops": [
             {
@@ -2297,7 +2297,7 @@
                 "hu": "A vonatok télen kellemesen fűtöttek.",
                 "ro": "Trenurile sunt încălzite plăcut iarna.",
                 "en": "The trains are comfortably heated in winter.",
-                "nl": "De treinen zijn comfortabel verwarmd in de winter."
+                "nl": "De treinen zijn in de winter comfortabel verwarmd."
               }
             },
             {
@@ -2317,7 +2317,7 @@
                 "hu": "Tervezzen időt egy forró teára a faluban.",
                 "ro": "Planificați timp pentru un ceai fierbinte în sat.",
                 "en": "Plan time for a hot tea in the village.",
-                "nl": "Plan tijd voor een warme thee in het dorp."
+                "nl": "Plan tijd voor een hete thee in het dorp."
               }
             },
             {
@@ -2327,7 +2327,7 @@
                 "hu": "Ügyeljen a módosult menetrendre havazáskor.",
                 "ro": "Atenție la orarele modificate în caz de ninsoare.",
                 "en": "Watch for altered schedules during snowfall.",
-                "nl": "Let op aangepaste dienstregelingen tijdens sneeuwval."
+                "nl": "Let op gewijzigde dienstregelingen bij sneeuwval."
               }
             },
             {
@@ -2337,7 +2337,7 @@
                 "hu": "Egy séta a fagyban jót tesz a szervezetnek.",
                 "ro": "O plimbare prin ger este revigorantă.",
                 "en": "A walk through the frost is refreshing.",
-                "nl": "Een wandeling door de vorst is verfrissend."
+                "nl": "Een wandeling door de rijp is verfrissend."
               }
             },
             {
@@ -2377,10 +2377,10 @@
               "Frequencies may be reduced during off-peak winter hours."
             ],
             "nl": [
-              "Houd je kaartje bij de hand om niet in de kou bij poortjes te moeten wachten.",
-              "De schemering biedt geweldige uitzichten uit het treinraam.",
+              "Houd je kaartje klaar om niet in de kou bij de poortjes te hoeven staan.",
+              "Schemering biedt prachtige uitzichten vanuit het treinraam.",
               "Let op gladde perronranden.",
-              "Frequenties kunnen tijdens rustige winteruren verminderd zijn."
+              "De frequenties kunnen verminderd zijn tijdens winterse daluren."
             ]
           }
         }

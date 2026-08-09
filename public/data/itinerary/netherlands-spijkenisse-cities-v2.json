@@ -38,7 +38,7 @@
             "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában.",
             "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
             "en": "Start your day with a coffee at one of the square's cafes.",
-            "nl": "Begin je dag met een koffie bij een van de cafés op het plein."
+            "nl": "Begin je dag met een kop koffie bij een van de cafés op het plein."
           }
         },
         {
@@ -63,7 +63,7 @@
             "hu": "Figyelje meg a gyönyörű ólomüveg ablakokat odabent.",
             "ro": "Observați vitraliile frumoase din interior.",
             "en": "Notice the beautiful stained-glass windows inside.",
-            "nl": "Let op de mooie gebrandschilderde ramen binnenin."
+            "nl": "Let op de prachtige gebrandschilderde ramen binnenin."
           }
         },
         {
@@ -88,7 +88,7 @@
             "hu": "Menjen fel lifttel a piramisszerkezet legjobb kilátásáért.",
             "ro": "Urcați cu liftul pentru cea mai bună priveliște a structurii piramidale.",
             "en": "Take the elevator to the top for the best view of the pyramid structure.",
-            "nl": "Neem de lift naar boven voor het beste uitzicht over de piramidestructuur."
+            "nl": "Neem de lift naar de top voor het beste uitzicht op de piramidestructuur."
           }
         },
         {
@@ -138,7 +138,7 @@
             "hu": "Tökéletes hely egy piknik ebédhez vagy csak pihenéshez a vízparton.",
             "ro": "Locul perfect pentru un prânz la picnic sau doar pentru a vă relaxa lângă apă.",
             "en": "Perfect spot for a picnic lunch or just relaxing by the water.",
-            "nl": "Perfecte plek voor een picknicklunch of om gewoon bij het water te ontspannen."
+            "nl": "Perfecte plek voor een picknicklunch of gewoon ontspannen aan het water."
           }
         },
         {
@@ -172,7 +172,7 @@
         "hu": "A spijkenisse-i séta a nyüzsgő piactéren kezdődik, elhalad a történelmi Oude Kerk mellett, majd eléri a modern ikont, a De Boekenberget. Délben megcsodálhatja a Theater de Stoep futurisztikus építészetét, mielőtt egy pihentető délutánt töltene a zöld Hartelparkban. A nap a De Elementen egyedi lakóprojektjének felfedezésével zárul, amely a város régi és új keverékét tükrözi.",
         "ro": "O plimbare prin Spijkenisse începe în Piața plină de viață, trece pe lângă istorica Biserică Veche și ajunge la icoana modernă, De Boekenberg. La prânz, admirați arhitectura futuristă a Teatrului de Stoep înainte de o după-amiază relaxantă în Parcul Hartel. Ziua se încheie cu explorarea proiectului rezidențial unic De Elementen, reflectând amestecul orașului de vechi și nou.",
         "en": "A walk through Spijkenisse begins at the lively Market Square, passes the historic Old Church, and then reaches the modern icon, De Boekenberg. At midday, you'll admire the futuristic architecture of Theater de Stoep before a relaxing afternoon in the green Hartelpark. The day concludes with an exploration of the unique De Elementen residential project, reflecting the city's blend of old and new.",
-        "nl": "Een wandeling door Spijkenisse begint op het levendige Marktplein, gaat langs de historische Oude Kerk en bereikt vervolgens het moderne icoon De Boekenberg. Rond het middaguur bewonder je de futuristische architectuur van Theater de Stoep voordat je ’s middags ontspant in het groene Hartelpark. De dag eindigt met een ontdekking van het unieke woonproject De Elementen, dat de mix van oud en nieuw in de stad weerspiegelt."
+        "nl": "Een wandeling door Spijkenisse begint op het levendige Marktplein, passeert de historische Oude Kerk en bereikt vervolgens het moderne icoon De Boekenberg. Rond het middaguur bewonder je de futuristische architectuur van Theater de Stoep voordat je een ontspannen middag doorbrengt in het groene Hartelpark. De dag eindigt met een verkenning van het unieke woonproject De Elementen, dat de mix van oud en nieuw in de stad weerspiegelt."
       },
       "gastro_picks": {
         "de": [
@@ -331,8 +331,8 @@
         ],
         "nl": [
           "Draag comfortabele schoenen, want je zult veel lopen.",
-          "Controleer marktdagen om de volledige ervaring mee te maken.",
-          "Veel moderne gebouwen zijn het beste van buitenaf te bewonderen."
+          "Controleer de marktdagen om de volledige ervaring mee te maken.",
+          "Veel moderne gebouwen zijn het best van buitenaf te bewonderen."
         ]
       },
       "variants": {
@@ -342,7 +342,7 @@
             "hu": "Reggel a vizes Piactéren kezdünk, ahol a szürke ég tükröződik a tócsákban. Az Ótemplom békés menedéket nyújt a szitáló esőben. Délben a Boekenberg könyvtár üvegpiramisa a legjobb hely: bent meleg van, és lenyűgöző látvány a doboló eső. Délután a színház érintésével a Hartelpark illatos, párás ösvényein sétálunk. Este az Elementen negyed fényei csillognak a nedves aszfalton, a folyóparti szélben.",
             "ro": "Dimineața începe în Piața Pieței, unde cerul gri se reflectă în bălți. Vechea Biserică oferă un adăpost liniștit împotriva ploii. La prânz, biblioteca Boekenberg este refugiul ideal: este cald în interior și poți privi ploaia prin pereții de sticlă. După-amiaza, trecem pe lângă teatru spre potecile parfumate ale parcului Hartelpark. Seara, luminile cartierului De Elementen sclipesc pe asfaltul umed.",
             "en": "The morning starts at the wet Market Square, with gray skies reflecting in the puddles. The Old Church provides a peaceful refuge from the drizzle. At noon, the Boekenberg library is the perfect sanctuary: stay warm inside while watching the rain through the glass pyramid. In the afternoon, walk past the theater to the Hartelpark's fresh trails. Evening ends with city lights reflecting on the wet streets.",
-            "nl": "De ochtend begint op het natte Marktplein, met grijze luchten die weerspiegelen in de plassen. De Oude Kerk biedt een rustige schuilplaats voor de motregen. Rond het middaguur is de Boekenberg-bibliotheek het perfecte toevluchtsoord: blijf warm binnen terwijl je de regen door de glazen piramide bekijkt. ’s Middags wandel je langs het theater naar de frisse paden van Hartelpark. De avond eindigt met stadslichten die weerspiegelen op de natte straten."
+            "nl": "De ochtend begint op het natte Marktplein, met grijze luchten die zich in de plassen spiegelen. De Oude Kerk biedt een vredige toevluchtsoord tegen de motregen. Rond het middaguur is de Boekenberg-bibliotheek het perfecte toevluchtsoord: blijf warm binnen terwijl je de regen door de glazen piramide bekijkt. In de middag wandel je langs het theater naar de frisse paden van het Hartelpark. De avond eindigt met stadslichten die weerspiegelen op de natte straten."
           },
           "stops": [
             {
@@ -352,7 +352,7 @@
                 "hu": "A tér körüli kávézók remek menedéket nyújtanak a szitáló eső elől.",
                 "ro": "Cafenelele din jurul pieței oferă locuri confortabile la adăpost de ploaie.",
                 "en": "Cafes around the square offer great indoor seating to escape the drizzle.",
-                "nl": "Cafés rond het plein bieden goede overdekte zitplaatsen om aan de motregen te ontsnappen."
+                "nl": "Cafés rond het plein bieden prima binnenzitplaatsen om aan de motregen te ontsnappen."
               }
             },
             {
@@ -362,7 +362,7 @@
                 "hu": "Csodálatos hely a tetőn doboló eső akusztikájának hallgatásához.",
                 "ro": "Un loc minunat pentru a asculta sunetul ploii pe acoperișul vechi.",
                 "en": "A wonderful spot to listen to the acoustics of rain tapping on the roof.",
-                "nl": "Een heerlijke plek om te luisteren naar de akoestiek van regen op het dak."
+                "nl": "Een heerlijke plek om te luisteren naar de akoestiek van regen die op het dak tikt."
               }
             },
             {
@@ -382,7 +382,7 @@
                 "hu": "A hullámos tetőszerkezet rövid ideig védelmet nyújt a zápor ellen.",
                 "ro": "Acoperișul ondulat oferă protecție temporară împotriva ploii.",
                 "en": "The wavy roof structure provides temporary shelter from the downpour.",
-                "nl": "De golvende dakconstructie biedt tijdelijke beschutting tegen de stortbui."
+                "nl": "De golvende dakconstructie biedt tijdelijke beschutting tegen de hoosbui."
               }
             },
             {
@@ -392,7 +392,7 @@
                 "hu": "Az aszfaltozott utak esőben is jól járhatóak, kevés a sár.",
                 "ro": "Potecile asfaltate sunt ușor de parcurs chiar și pe ploaie.",
                 "en": "The paved paths remain easy to walk even during rainfall.",
-                "nl": "De bestrate paden blijven goed begaanbaar, zelfs bij regenval."
+                "nl": "De geplaveide paden blijven eenvoudig begaanbaar, zelfs tijdens regenval."
               }
             },
             {
@@ -402,7 +402,7 @@
                 "hu": "Az ipari építészet esőben különösen drámai és fotogén látvány.",
                 "ro": "Arhitectura industrială arată dramatic și fotogenic pe ploaie.",
                 "en": "The industrial architecture looks particularly dramatic in the rain.",
-                "nl": "De industriële architectuur komt bijzonder dramatisch over in de regen."
+                "nl": "De industriële architectuur oogt bijzonder dramatisch in de regen."
               }
             }
           ],
@@ -432,10 +432,10 @@
               "A wind-resistant umbrella is a must in the changing Dutch weather."
             ],
             "nl": [
-              "Draag een winddichte regenjas, want het kan fris zijn bij het water.",
-              "De Boekenberg-bibliotheek is het beste punt voor langere pauzes.",
-              "Let op gladde kasseien rond het Marktplein.",
-              "Een windbestendige paraplu is een must in het veranderlijke Nederlandse weer."
+              "Draag een winddichte regenjas, want het kan winderig zijn bij het water.",
+              "De Boekenberg-bibliotheek is de beste plek voor langere pauzes.",
+              "Let op gladde keien rond het Marktplein.",
+              "Een windbestendige paraplu is een must in het wisselvallige Nederlandse weer."
             ]
           }
         },
@@ -445,7 +445,7 @@
             "hu": "Deres reggel a Piactéren, ahol a friss pékáru illata tölti meg a hideg levegőt. Az Ótemplom meghitt, csendes menedék. Délben a Boekenberg könyvtárban melegszünk fel, amely télen a fény temploma. Délután a deres Hartelparkon át sétálunk a színházhoz. A korai naplemente után a város fényei vezetik utunkat a folyóparti Elementen negyed modern épületei felé.",
             "ro": "O dimineață geroasă în Piață, unde mirosul de patiserie proaspătă umple aerul rece. Vechea Biserică este un refugiu liniștit. La prânz, ne încălzim în biblioteca Boekenberg, un adevărat templu al luminii iarna. După-amiaza, traversăm parcul înghețat spre teatru. După apusul timpuriu, luminile orașului ne ghidează spre clădirile moderne din zona De Elementen.",
             "en": "A frosty morning at the Market Square, where the smell of fresh pastry fills the cold air. The Old Church offers a cozy, quiet retreat. At noon, warm up in the Boekenberg library, a temple of light in winter. Afternoon leads through the frosty Hartelpark to the theater. After the early sunset, city lights guide the way to the modern riverfront district of De Elementen.",
-            "nl": "Een ijskoude ochtend op het Marktplein, waar de geur van verse gebakjes de koude lucht vult. De Oude Kerk biedt een gezellige, stille toevlucht. Rond het middaguur warm je op in de Boekenberg-bibliotheek, een tempel van licht in de winter. De middag voert door het rijpige Hartelpark naar het theater. Na de vroege zonsondergang leiden stadslichten de weg naar het moderne rivierfront van De Elementen."
+            "nl": "Een ijskoude ochtend op het Marktplein, waar de geur van vers gebak de koude lucht vult. De Oude Kerk biedt een knusse, stille toevlucht. Rond twaalf uur warm je op in de Boekenberg-bibliotheek, een tempel van licht in de winter. De middag voert door het ijskristallen Hartelpark naar het theater. Na de vroege zonsondergang gidsen stadslichten je naar de moderne rivierfrontwijk De Elementen."
           },
           "stops": [
             {
@@ -455,7 +455,7 @@
                 "hu": "Élvezzen egy forró csokoládét a fűtött kávézók egyikében.",
                 "ro": "Savurați o ciocolată caldă în una dintre cafenelele încălzite.",
                 "en": "Enjoy a hot chocolate in one of the heated cafes nearby.",
-                "nl": "Geniet van warme chocolademelk in een van de verwarmde cafés in de buurt."
+                "nl": "Geniet van een warme chocolademelk in een van de verwarmde cafés in de buurt."
               }
             },
             {
@@ -475,7 +475,7 @@
                 "hu": "A város legmelegebb pontja, télen is rengeteg természetes fénnyel.",
                 "ro": "Cel mai cald loc din oraș, cu multă lumină naturală chiar și iarna.",
                 "en": "The warmest spot in town, with plenty of natural light in winter.",
-                "nl": "De warmste plek in de stad, met veel daglicht in de winter."
+                "nl": "De warmste plek van de stad, met veel daglicht in de winter."
               }
             },
             {
@@ -485,7 +485,7 @@
                 "hu": "Nézze meg a műsort egy hangulatos, benti esti előadáshoz.",
                 "ro": "Verificați programul pentru spectacole de seară confortabile la căldură.",
                 "en": "Check the schedule for cozy evening performances indoors.",
-                "nl": "Controleer de agenda voor gezellige avondvoorstellingen binnenshuis."
+                "nl": "Check de agenda voor gezellige avondvoorstellingen binnen."
               }
             },
             {
@@ -505,7 +505,7 @@
                 "hu": "Este a kivilágított homlokzatok különösen hangulatos látványt nyújtanak.",
                 "ro": "Seara, fațadele iluminate oferă o atmosferă deosebită.",
                 "en": "In the evening, the illuminated facades offer a special atmosphere.",
-                "nl": "In de avond geven de verlichte gevels een bijzondere sfeer."
+                "nl": "In de avond bieden de verlichte gevels een speciale sfeer."
               }
             }
           ],
@@ -536,8 +536,8 @@
             ],
             "nl": [
               "Kleed je in lagen om voorbereid te zijn op de warme bibliotheek en het theater.",
-              "De zon gaat rond 16:30 onder in de wintermaanden.",
-              "Sommige parkpaden kunnen glad zijn bij ijzelachtige omstandigheden.",
+              "De zonsondergang valt rond 16:30 uur tijdens de wintermaanden.",
+              "Sommige paden in het park kunnen glad zijn tijdens vriesomstandigheden.",
               "Plan buitenactiviteiten rond het middaguur wanneer het licht het sterkst is."
             ]
           }
@@ -574,7 +574,7 @@
             "hu": "Parkolja le a kerékpárt, és élvezze a reggeli hangulatot.",
             "ro": "Parcați bicicleta și bucurați-vă de atmosfera de dimineață.",
             "en": "Park your bike and enjoy the morning atmosphere.",
-            "nl": "Parkeer je fiets en geniet van de ochtendstemming."
+            "nl": "Zet je fiets neer en geniet van de ochtendstemming."
           }
         },
         {
@@ -699,7 +699,7 @@
             "hu": "Itt az ideje az ebédnek és a lábak pihentetésének.",
             "ro": "Timpul pentru prânz și pentru a vă odihni picioarele.",
             "en": "Time for lunch and to rest your legs.",
-            "nl": "Tijd voor de lunch en om je benen te laten rusten."
+            "nl": "Tijd voor lunch en om je benen te laten rusten."
           }
         },
         {
@@ -733,7 +733,7 @@
         "hu": "Kezdje a kerékpártúrát a piactéren, tekerjen el a modern De Boekenberg és a Theater de Stoep épületeihez, majd keljen át a lenyűgöző Spijkenisserbrug hídon. Délben térjen vissza a történelmi Oude Kerkhez, mielőtt megebédel a Hartelparkban. A délutánt egy hosszabb, de megéri túrának szentelik a Bernisse üdülőterületre, ahol pihenhet a természetben és lezárhatja a napot.",
         "ro": "Începeți turul cu bicicleta din piață, pedalați spre reperele moderne De Boekenberg și Teatrul de Stoep și traversați impresionantul pod Spijkenisserbrug. La prânz, reveniți la istorica Biserică Veche înainte de a lua masa în Parcul Hartel. După-amiaza este dedicată unei plimbări mai lungi, dar pline de satisfacții, spre zona de agrement Bernisse, unde vă puteți relaxa în natură.",
         "en": "Start your bike tour at the market, cycle to the modern landmarks of De Boekenberg and Theater de Stoep, and cross the impressive Spijkenisserbrug bridge. At midday, return to the historic Old Church before having lunch in Hartelpark. The afternoon is dedicated to a longer but rewarding ride to the Bernisse recreational area, where you can relax in nature to end your day.",
-        "nl": "Begin je fietstocht op de markt, fiets naar de moderne herkenningspunten De Boekenberg en Theater de Stoep, en steek de indrukwekkende Spijkenissebrug over. Rond het middaguur keer je terug naar de historische Oude Kerk voordat je luncht in Hartelpark. De middag is gereserveerd voor een langere maar deugddoende rit naar het recreatiegebied Bernisse, waar je in de natuur kunt ontspannen om je dag af te sluiten."
+        "nl": "Begin je fietstocht op de markt, fiets naar de moderne bezienswaardigheden De Boekenberg en Theater de Stoep, en steek de indrukwekkende Spijkenisserbrug over. Rond het middaguur keer je terug naar de historische Oude Kerk voordat je gaat lunchen in het Hartelpark. De middag is gewijd aan een langere maar lonende rit naar het recreatiegebied Bernisse, waar je kunt ontspannen in de natuur om je dag af te sluiten."
       },
       "gastro_picks": {
         "de": [
@@ -903,7 +903,7 @@
             "hu": "Az eső ellenére Spijkenisse bringás paradicsom. Reggel vizes kerékpárutakon gurulunk a piactértől a könyvtárig. Délben a Boekenberg ad száraz pihenőt. Délután a hídon át tekerünk, ahol a szél korbácsolja az esőt, majd vissza a Hartelparkon át. A túra a Bernisse-nél ér véget, ahol a természet az esőben különleges, misztikus nyugalmat áraszt.",
             "ro": "În ciuda ploii, Spijkenisse este un paradis pentru bicicliști. Dimineața pedalăm pe piste umede de la piață la bibliotecă. La prânz, Boekenberg oferă o pauză uscată. După-amiaza traversăm podul în bătaia vântului și ne întoarcem prin Hartelpark. Turul se încheie la Bernisse, unde natura emană o liniște mistică sub ploaie.",
             "en": "Despite the rain, Spijkenisse remains a cyclist's haven. Morning leads over wet bike paths from the market to the library. At noon, Boekenberg offers a dry break. In the afternoon, cross the bridge where the wind whips the rain, then head back through Hartelpark. The tour ends at Bernisse, where nature radiates a unique, mystic calm in the rain.",
-            "nl": "Ondanks de regen blijft Spijkenisse een paradijs voor fietsers. ’s Ochtends voeren natte fietspaden van de markt naar de bibliotheek. Rond het middaguur biedt De Boekenberg een droge pauze. ’s Middags steek je de brug over waar de wind de regen opjaagt, daarna terug via Hartelpark. De tocht eindigt bij Bernisse, waar de natuur in de regen een unieke, mystieke rust uitstraalt."
+            "nl": "Ondanks de regen blijft Spijkenisse een paradijs voor fietsers. De ochtend leidt over natte fietspaden van de markt naar de bibliotheek. Rond het middaguur biedt de Boekenberg een droge pauze. In de middag steek je de brug over waar de wind de regen opstuwt, en daarna ga je terug via het Hartelpark. De tour eindigt bij Bernisse, waar de natuur in de regen een unieke, mystieke kalmte uitstraalt."
           },
           "stops": [
             {
@@ -913,7 +913,7 @@
                 "hu": "Használja a központ közeli fedett kerékpártárolókat.",
                 "ro": "Folosiți rastelele de biciclete acoperite din apropierea centrului.",
                 "en": "Use the covered bike racks located near the city center.",
-                "nl": "Gebruik de overdekte fietsstallingen vlak bij het centrum."
+                "nl": "Gebruik de overdekte fietsenstallingen in de buurt van het stadscentrum."
               }
             },
             {
@@ -923,7 +923,7 @@
                 "hu": "Ideális hely a ruházat megszárítására és a felmelegedésre.",
                 "ro": "Ideal pentru a vă usca hainele și pentru a vă încălzi.",
                 "en": "Ideal spot to dry your gear and warm up before continuing.",
-                "nl": "Ideale plek om je kleding te laten drogen en op te warmen voordat je verdergaat."
+                "nl": "Ideale plek om je spullen te drogen en op te warmen voordat je verdergaat."
               }
             },
             {
@@ -943,7 +943,7 @@
                 "hu": "Esőben és szélben fogja erősen a kormányt a hídon.",
                 "ro": "Țineți bine ghidonul pe pod în caz de vânt și ploaie.",
                 "en": "Hold your handlebars firmly on the bridge during wind and rain.",
-                "nl": "Houd het stuur stevig vast op de brug bij wind en regen."
+                "nl": "Houd je stuur stevig vast op de brug bij wind en regen."
               }
             },
             {
@@ -953,7 +953,7 @@
                 "hu": "A templom körüli macskakő nedvesen rendkívül csúszós.",
                 "ro": "Pavajul de lângă biserică este extrem de alunecos când este ud.",
                 "en": "The cobblestones around the church are very slippery when wet.",
-                "nl": "De klinkers rond de kerk zijn bij nat weer erg glad."
+                "nl": "De kasseien rond de kerk zijn zeer glad bij nat weer."
               }
             },
             {
@@ -963,7 +963,7 @@
                 "hu": "A sárvédő elengedhetetlen a parki utakon esős időben.",
                 "ro": "Aripile de protecție sunt esențiale pe potecile din parc pe ploaie.",
                 "en": "Mudguards are essential on the park paths during rainy weather.",
-                "nl": "Spatborden zijn essentieel op de parkpaden tijdens regenachtig weer."
+                "nl": "Spatborden zijn essentieel op de parkpaden tijdens nat weer."
               }
             },
             {
@@ -1003,10 +1003,10 @@
               "Wind speeds on the bridge can increase significantly during rain."
             ],
             "nl": [
-              "Volledige regenkleding (broek en jas) wordt sterk aanbevolen.",
-              "Vermijd hard remmen op natte wegmarkeringen en metalen oppervlakken.",
-              "Controleer je remblokjes vóór je begint aan je rit in de regen.",
-              "De windsnelheden op de brug kunnen bij regen sterk toenemen."
+              "Volledige regenuitrusting (broek en jas) wordt sterk aanbevolen.",
+              "Vermijd krachtig remmen op natte wegmarkeringen en metalen oppervlaktes.",
+              "Controleer je remblokjes voordat je aan je rit in de regen begint.",
+              "De windsnelheden op de brug kunnen aanzienlijk toenemen tijdens regen."
             ]
           }
         },
@@ -1016,7 +1016,7 @@
             "hu": "Frissítő téli reggel két keréken. A hideg levegő csíp, miközben a piactértől a Boekenberg felé tekerünk. Délben a könyvtár meleg menedék. Délután a hídon való átkelés kihívás az Oude Maas jeges szele ellenében. A Hartelparkon át érjük el a Bernisse területét, melynek befagyott vízfelületei csillognak a kései napsütésben.",
             "ro": "O dimineață răcoritoare de iarnă pe două roți. Aerul rece ciupește obrajii în drum spre Boekenberg. La prânz, biblioteca este un refugiu cald. După-amiaza, traversarea podului este o provocare împotriva vântului înghețat de pe Oude Maas. Prin Hartelpark ajungem la Bernisse, unde apele înghețate sclipesc în lumina soarelui.",
             "en": "A refreshing winter morning on two wheels. The cold air bites as we cycle from the market towards Boekenberg. At noon, the library is a warm sanctuary. In the afternoon, crossing the bridge is a challenge against the icy Oude Maas wind. Through Hartelpark, we reach Bernisse, where frozen waters glisten in the late sunlight.",
-            "nl": "Een verfrissende winterse ochtend op twee wielen. De koude lucht bijt terwijl we van de markt naar De Boekenberg fietsen. Rond het middaguur is de bibliotheek een warme toevlucht. ’s Middags is het oversteken van de brug een uitdaging tegen de ijzige wind van de Oude Maas. Via Hartelpark bereiken we Bernisse, waar bevroren wateren glinsteren in het late zonlicht."
+            "nl": "Een verfrissende winterochtend op twee wielen. De koude lucht bijt terwijl we fietsen van de markt richting Boekenberg. Rond het middaguur is de bibliotheek een warm toevluchtsoord. In de middag is het oversteken van de brug een uitdaging tegen de ijzige wind van de Oude Maas. Via het Hartelpark bereiken we Bernisse, waar bevroren wateren glinsteren in het late zonlicht."
           },
           "stops": [
             {
@@ -1026,7 +1026,7 @@
                 "hu": "Vigyázzon a fagyott foltokra a macskaköveken.",
                 "ro": "Atenție la porțiunile înghețate de pe pavaj.",
                 "en": "Watch out for black ice on the cobblestones early in the morning.",
-                "nl": "Let ’s ochtends vroeg op gladde, zwarte ijsplekken op de klinkers."
+                "nl": "Let op zwarte ijsplekken op de kasseien vroeg in de ochtend."
               }
             },
             {
@@ -1046,7 +1046,7 @@
                 "hu": "Érdemes megállni egy forró italra a színház előcsarnokában.",
                 "ro": "Merită o oprire scurtă pentru o băutură caldă în foaier.",
                 "en": "A short stop for a warm drink in the foyer is well worth it.",
-                "nl": "Een korte stop voor een warme drank in de foyer is de moeite waard."
+                "nl": "Een korte stop voor een warme drank in de foyer is het zeker waard."
               }
             },
             {
@@ -1056,7 +1056,7 @@
                 "hu": "Viseljen szélálló kesztyűt a hídon való átkeléshez.",
                 "ro": "Purtați mănuși rezistente la vânt pentru traversarea podului.",
                 "en": "Wear windproof gloves for the bridge crossing.",
-                "nl": "Draag winddichte handschoenen voor de oversteek van de brug."
+                "nl": "Draag winddichte handschoenen voor de brugoversteek."
               }
             },
             {
@@ -1066,7 +1066,7 @@
                 "hu": "A szél gyakran élesen süvít a templomkert sarkainál.",
                 "ro": "Vântul suflă adesea cu putere la colțurile pieței bisericii.",
                 "en": "The wind often whistles sharply around the church square corners.",
-                "nl": "De wind fluit vaak scherp rond de hoeken van het kerkplein."
+                "nl": "De wind fluit vaak scherp rond de hoeken van het kerkhofplein."
               }
             },
             {
@@ -1086,7 +1086,7 @@
                 "hu": "Varázslatos hely zúzmara és fagy idején, ideális fotózáshoz.",
                 "ro": "Un loc magic pe timp de brumă și îngheț, ideal pentru fotografii.",
                 "en": "A magical place during frost and rime, ideal for photography.",
-                "nl": "Een magische plek bij vorst en rijp, ideaal voor fotografie."
+                "nl": "Een magische plek tijdens rijp en ijs, ideaal voor fotografie."
               }
             }
           ],
@@ -1116,10 +1116,10 @@
               "Finish your ride before dark, usually by 5:00 PM in winter."
             ],
             "nl": [
-              "Draag meerdere lagen en gebruik winddichte buitenkleding.",
-              "Houd je ketting goed ingevet om tegen zout op de weg te beschermen.",
+              "Kleed je in meerdere lagen en draag winddichte bovenkleding.",
+              "Houd je ketting goed gesmeerd om bescherming te bieden tegen wegzout.",
               "E-bike batterijen raken sneller leeg bij koude temperaturen.",
-              "Rond je rit af vóór donker, meestal om 17:00 uur in de winter."
+              "Rond 17:00 uur in de winter moet je je rit afronden voordat het donker wordt."
             ]
           }
         }
@@ -1208,7 +1208,7 @@
             "hu": "Egy rövid séta a piactérről.",
             "ro": "O scurtă plimbare de la piață.",
             "en": "A short walk from the market square.",
-            "nl": "Op korte loopafstand van het marktplein."
+            "nl": "Een korte wandeling vanaf de markt."
           }
         },
         {
@@ -1260,7 +1260,7 @@
             "hu": "Vezessen ehhez a modern csodához, és parkoljon a közelben.",
             "ro": "Conduceți la această minune modernă și parcați în apropiere.",
             "en": "Drive to this modern marvel and park nearby.",
-            "nl": "Rijd naar dit moderne hoogstandje en parkeer in de buurt."
+            "nl": "Rijd naar dit moderne wonder en parkeer in de buurt."
           }
         },
         {
@@ -1321,7 +1321,7 @@
         "hu": "Reggel parkolja le autóját a központban, és fedezze fel gyalog a Piacteret, az Oude Kerket és a De Boekenberget. Délben vezessen át a futurisztikus Theater de Stoephez. A délután a természeté, egy autós kirándulással a tágas Bernisse üdülőterületre ebédelni és pihenni. A nap a Hartelparkban tett megállóval zárul, mielőtt hazaindulna.",
         "ro": "Dimineața, parcați mașina în centru și explorați pe jos Piața, Biserica Veche și De Boekenberg. La prânz, conduceți la futuristul Teatru de Stoep. După-amiaza este dedicată naturii, cu o excursie cu mașina la vasta zonă de agrement Bernisse pentru prânz și relaxare. Ziua se încheie cu o oprire în Parcul Hartel înainte de a vă întoarce.",
         "en": "In the morning, park your car in the center and explore the Market Square, Old Church, and De Boekenberg on foot. At midday, you'll drive to the futuristic Theater de Stoep. The afternoon is for nature, with a drive to the vast Bernisse recreational area for lunch and relaxation. The day concludes with a stop at Hartelpark before heading home.",
-        "nl": "Parkeer ’s ochtends je auto in het centrum en verken te voet het Marktplein, de Oude Kerk en De Boekenberg. Rond het middaguur rijd je naar het futuristische Theater de Stoep. De middag is voor de natuur: een rit naar het uitgestrekte recreatiegebied Bernisse voor lunch en ontspanning. De dag eindigt met een stop in Hartelpark voordat je naar huis gaat."
+        "nl": "Parkeer 's ochtends uw auto in het centrum en verken het Marktplein, de Oude Kerk en De Boekenberg te voet. Rond het middaguur rijdt u naar het futuristische Theater de Stoep. De middag is voor de natuur: een rit naar het uitgestrekte recreatiegebied Bernisse voor lunch en ontspanning. De dag eindigt met een stop bij Hartelpark voordat u naar huis gaat."
       },
       "gastro_picks": {
         "de": [
@@ -1480,7 +1480,7 @@
         ],
         "nl": [
           "Controleer parkeerkosten en -tijden.",
-          "Reken op extra tijd voor verkeer.",
+          "Reken op extra tijd door verkeer.",
           "Een GPS is essentieel om tussen de clusters te navigeren."
         ]
       },
@@ -1491,7 +1491,7 @@
             "hu": "Kényelmes esős nap Spijkenisse-ben, a piaci parkolóházban kezdve. Rövid sétával elérhető az Ótemplom és a Boekenberg, ahol a délelőttöt töltjük. Délben a színházhoz hajtunk. Délután a Bernisse vidékére látogatunk, ahol az autóból vagy rövid sétákkal élvezzük a tájat. A napot a Hartelparknál zárjuk, biztonságban és szárazon az eső elől.",
             "ro": "O zi confortabilă pe ploaie în Spijkenisse, începând în parcarea centrală. De acolo sunt drumuri scurte spre biserică și biblioteca Boekenberg. La prânz mergem cu mașina spre teatru. După-amiaza vizităm zona Bernisse, bucurându-ne de peisaj din mașină sau prin scurte plimbări. Ziua se încheie la Hartelpark, la adăpost de ploaie.",
             "en": "A comfortable rainy day in Spijkenisse, starting in the central parking garage. Short walks lead to the church and Boekenberg library for the morning. At noon, drive to Theater de Stoep. Afternoon features a drive to Bernisse, enjoying the scenery from the car or through short walks. The day ends at Hartelpark, staying safe and dry from the weather.",
-            "nl": "Een comfortabele regenachtige dag in Spijkenisse, beginnend in de centrale parkeergarage. Korte wandelingen leiden naar de kerk en de bibliotheek De Boekenberg voor de ochtend. Rond het middaguur rijd je naar Theater de Stoep. De middag omvat een rit naar Bernisse, waarbij je van het landschap geniet vanuit de auto of via korte wandelingen. De dag eindigt in Hartelpark, veilig en droog van het weer."
+            "nl": "Een comfortabele regenachtige dag in Spijkenisse, beginnend in de centrale parkeergarage. Korte wandelingen leiden naar de kerk en de Boekenberg bibliotheek voor de ochtend. Rond het middaguur rijdt u naar Theater de Stoep. De middag staat in het teken van natuur, met een rit naar het uitgestrekte Bernisse-gebied om vanuit de auto van het landschap te genieten of korte wandelingen te maken. De dag eindigt in Hartelpark, waar u droog en veilig blijft."
           },
           "stops": [
             {
@@ -1511,7 +1511,7 @@
                 "hu": "Az üzletek közti rövid távok segítenek elkerülni az esőt.",
                 "ro": "Distanțele scurte între magazine minimizează expunerea la ploaie.",
                 "en": "Short distances between shops minimize exposure to the rain.",
-                "nl": "Korte afstanden tussen winkels minimaliseren blootstelling aan de regen."
+                "nl": "Korte afstanden tussen winkels beperken blootstelling aan de regen."
               }
             },
             {
@@ -1531,7 +1531,7 @@
                 "hu": "A Kolkplein parkolóház közvetlen hozzáférést ad a könyvtárhoz.",
                 "ro": "Parcarea Kolkplein oferă acces direct la bibliotecă.",
                 "en": "The Kolkplein parking garage offers direct access to the library.",
-                "nl": "'t Kolkplein parkeergarage biedt directe toegang tot de bibliotheek."
+                "nl": "De parkeergarage Kolkplein biedt directe toegang tot de bibliotheek."
               }
             },
             {
@@ -1551,7 +1551,7 @@
                 "hu": "Élvezze a tavi kilátást kényelmesen a vezetőülésből.",
                 "ro": "Bucurați-vă de vederea spre lac din confortul mașinii.",
                 "en": "Enjoy the lake views comfortably from your driver's seat.",
-                "nl": "Geniet comfortabel van het uitzicht op het meer vanuit je autorit."
+                "nl": "Geniet comfortabel van het meerzicht vanuit uw bestuurdersstoel."
               }
             },
             {
@@ -1561,7 +1561,7 @@
                 "hu": "A park bejáratánál lévő parkolók lerövidítik a gyalogutat.",
                 "ro": "Parcările de la intrarea în parc scurtează drumul pe jos.",
                 "en": "Parking lots at the park entrance shorten the walking distance.",
-                "nl": "Parkeerplaatsen bij de ingang van het park verkorten de loopafstand."
+                "nl": "Parkeerplaatsen bij de parkentree verkorten de loopafstand."
               }
             }
           ],
@@ -1592,9 +1592,9 @@
             ],
             "nl": [
               "Gebruik centrale parkeergarages voor droge overgangen tussen stops.",
-              "Controleer je ruitenwissers vóór vertrek op je tocht.",
+              "Controleer uw ruitenwissers voordat u op pad gaat.",
               "Vermijd diepe plassen aan de zijkant van de weg om aquaplaning te voorkomen.",
-              "Het zicht kan beperkt zijn op de landelijke wegen richting Bernisse."
+              "De zichtbaarheid kan beperkt zijn op de landelijke wegen richting Bernisse."
             ]
           }
         },
@@ -1604,7 +1604,7 @@
             "hu": "Hangulatos téli nap autóval. A jégkaparás után a piaci parkolóházba hajtunk. Az Ótemplom és a Boekenberg meleg menedéket nyújt. Délben a modern színházhoz látogatunk. Délután a Bernisse fagyos vidékén autózunk, ahol a naplementét a fűtött kocsiból csodáljuk. A napot a Hartelparknál zárjuk egy rövid sétával a friss, hideg levegőn.",
             "ro": "O zi de iarnă confortabilă cu mașina. După curățarea gheții, mergem spre parcarea centrală. Biserica și biblioteca Boekenberg oferă refugii calde. La prânz vizităm teatrul modern. După-amiaza conducem prin peisajul înghețat de la Bernisse, admirând apusul din mașină. Încheiem cu o scurtă plimbare în Hartelpark înainte de plecare.",
             "en": "A cozy winter day by car. After scraping the ice, head to the central parking garage. The Old Church and Boekenberg offer warm retreats. At noon, visit the modern theater. Afternoon features a drive through the frosty Bernisse landscape, watching the sunset from the warmth of your vehicle. Finish with a short stroll in Hartelpark.",
-            "nl": "Een gezellige winterse dag per auto. Na het krabben van het ijs rijd je naar de centrale parkeergarage. De Oude Kerk en De Boekenberg bieden warme toevluchtsoorden. Rond het middaguur bezoek je het moderne theater. De middag bestaat uit een rit door het besneeuwde Bernisse-landschap, kijkend naar de zonsondergang vanuit de warmte van je voertuig. Sluit af met een korte wandeling in Hartelpark."
+            "nl": "Een gezellige winterse dag per auto. Na het krabben van het ijs rijdt u naar de centrale parkeergarage. De Oude Kerk en De Boekenberg bieden warme beschutting. Rond het middaguur bezoekt u het moderne theater. De middag bestaat uit een rit door het rijpige Bernisse-landschap, waarbij u de zonsondergang vanuit de warmte van uw voertuig bekijkt. Sluit af met een korte wandeling in Hartelpark."
           },
           "stops": [
             {
@@ -1614,7 +1614,7 @@
                 "hu": "A fedett parkoló megvédi az autót az újabb lefagyástól.",
                 "ro": "Parcarea acoperită protejează mașina de îngheț.",
                 "en": "Covered parking protects the vehicle from further frosting.",
-                "nl": "Overdekt parkeren beschermt het voertuig tegen verder aangroeien van rijp en ijs."
+                "nl": "Overdekte parkeergelegenheid beschermt het voertuig tegen verdere rijpvorming."
               }
             },
             {
@@ -1624,7 +1624,7 @@
                 "hu": "Élvezze a téli vásárt, ha éppen tartanak ilyet.",
                 "ro": "Bucurați-vă de târgul de iarnă, dacă este organizat unul.",
                 "en": "Enjoy the winter market if one is currently being held.",
-                "nl": "Geniet van de wintermarkt als er op dat moment een gehouden wordt."
+                "nl": "Geniet van de wintermarkt als er op dat moment een plaatsvindt."
               }
             },
             {
@@ -1634,7 +1634,7 @@
                 "hu": "Benn kellemes, hűvös csend fogadja a látogatót.",
                 "ro": "În interior veți găsi o liniște plăcută și răcoroasă.",
                 "en": "Inside, you'll find a pleasant, cool stillness away from the wind.",
-                "nl": "Binnen vind je een aangename, koele stilte weg van de wind."
+                "nl": "Binnen vindt u een aangename, koele stilte uit de wind."
               }
             },
             {
@@ -1654,7 +1654,7 @@
                 "hu": "Az üveghomlokzat különösen szépen csillog a téli fényben.",
                 "ro": "Fațada de sticlă strălucește frumos în lumina iernii.",
                 "en": "The glass facade glistens beautifully in the winter light.",
-                "nl": "De glasgevel fonkelt mooi in het winterlicht."
+                "nl": "De glazen gevel fonkelt prachtig in het winterlicht."
               }
             },
             {
@@ -1664,7 +1664,7 @@
                 "hu": "Az utak itt fagyos időben csúszósak lehetnek, óvatosan vezessen.",
                 "ro": "Drumurile pot fi alunecoase aici pe timp de îngheț, atenție.",
                 "en": "Roads here can be slippery during frost; drive carefully.",
-                "nl": "Wegen hier kunnen bij vorst glad zijn; rij voorzichtig."
+                "nl": "Wegen kunnen hier glad zijn bij rijp; rijd voorzichtig."
               }
             },
             {
@@ -1674,7 +1674,7 @@
                 "hu": "A parkolóból induló rövid utak gyors sétát tesznek lehetővé.",
                 "ro": "Potecile scurte din parcare permit o plimbare rapidă.",
                 "en": "Short paths from the parking lot allow for a quick brisk walk.",
-                "nl": "Korte paden vanaf de parkeerplaats bieden een snelle stevige wandeling."
+                "nl": "Korte paden vanaf de parkeerplaats maken een snelle stevige wandeling mogelijk."
               }
             }
           ],
@@ -1704,10 +1704,10 @@
               "Watch out for wildlife crossings near the Bernisse area."
             ],
             "nl": [
-              "Zorg dat je antivriesniveaus zijn bijgevuld vóór vertrek.",
+              "Zorg dat uw antivriesniveaus zijn bijgevuld voordat u vertrekt.",
               "Winterbanden worden sterk aanbevolen bij vrieskou.",
-              "Houd een ijskrabber en sneeuwborstel in de auto.",
-              "Let op dieren die de weg kunnen oversteken nabij het gebied Bernisse."
+              "Houd een ijskrabber en sneeuwborstel in uw auto.",
+              "Let op wildoverstek bij het Bernisse-gebied."
             ]
           }
         }
@@ -1727,7 +1727,7 @@
             "hu": "Központi buszmegálló",
             "ro": "Stația de autobuz Centru",
             "en": "Central Bus Stop",
-            "nl": "Centraal Busstation"
+            "nl": "Centraal bushalte"
           },
           "coords": [
             4.33,
@@ -1744,7 +1744,7 @@
             "hu": "Kezdje itt a napot, a tömegközlekedési hálózat szívében.",
             "ro": "Începeți ziua aici, în inima rețelei de transport public.",
             "en": "Start your day here, in the heart of the public transport network.",
-            "nl": "Begin je dag hier, in het hart van het openbaar vervoernetwerk."
+            "nl": "Begin uw dag hier, in het hart van het openbaar vervoersnetwerk."
           }
         },
         {
@@ -1770,7 +1770,7 @@
             "hu": "Rövid séta a megállótól.",
             "ro": "O scurtă plimbare de la stație.",
             "en": "A short walk from the stop.",
-            "nl": "Op korte loopafstand van de halte."
+            "nl": "Een korte wandeling vanaf de halte."
           }
         },
         {
@@ -1796,7 +1796,7 @@
             "hu": "Csodálja meg az építészetet, mielőtt belép.",
             "ro": "Admirați arhitectura înainte de a intra.",
             "en": "Admire the architecture before you enter.",
-            "nl": "Bewonder de architectuur voordat je naar binnen gaat."
+            "nl": "Bewonder de architectuur voordat u naar binnen gaat."
           }
         },
         {
@@ -1848,7 +1848,7 @@
             "hu": "Élvezze a folyóra nyíló kilátást erről a lenyűgöző építményről.",
             "ro": "Bucurați-vă de priveliștea râului de pe această structură impresionantă.",
             "en": "Enjoy the river views from this impressive structure.",
-            "nl": "Geniet van het rivierzicht vanaf dit indrukwekkende bouwwerk."
+            "nl": "Geniet van het rivierzicht vanaf deze imposante constructie."
           }
         },
         {
@@ -1874,7 +1874,7 @@
             "hu": "Vegyen buszt a parkba egy pihentető ebédhez és délutánhoz.",
             "ro": "Luați un autobuz spre parc pentru un prânz relaxant și o după-amiază.",
             "en": "Take a bus to the park for a relaxing lunch and afternoon.",
-            "nl": "Neem de bus naar het park voor een ontspannende lunch en middag."
+            "nl": "Neem de bus naar het park voor een ontspannen lunch en middag."
           }
         }
       ],
@@ -1883,7 +1883,7 @@
         "hu": "Kezdje a napot busszal a központba, hogy gyalog fedezze fel a Piacteret és a De Boekenberget. Délben egy rövid buszút elviszi a futurisztikus Theater de Stoephez és a közeli Spijkenisserbrug hídhoz. A délután egy hosszabb buszútra van fenntartva a Hartelparkba, ahol piknikezhet, pihenhet és élvezheti Spijkenisse zöld oldalát, mielőtt hazaindulna.",
         "ro": "Începeți ziua luând autobuzul spre centru pentru a explora pe jos Piața și De Boekenberg. La prânz, o scurtă călătorie cu autobuzul vă duce la futuristul Teatru de Stoep și la podul Spijkenisserbrug din apropiere. După-amiaza este rezervată unei călătorii mai lungi cu autobuzul spre Parcul Hartel, unde puteți face un picnic, vă puteți relaxa și vă puteți bucura de partea verde a Spijkenisse înainte de a vă întoarce.",
         "en": "Start your day by taking a bus to the center to explore the Market Square and De Boekenberg on foot. At midday, a short bus ride takes you to the futuristic Theater de Stoep and the nearby Spijkenisserbrug bridge. The afternoon is reserved for a longer bus journey to Hartelpark, where you can picnic, relax, and enjoy the green side of Spijkenisse before heading home.",
-        "nl": "Begin je dag met de bus naar het centrum om te voet het Marktplein en De Boekenberg te verkennen. Rond het middaguur brengt een korte busrit je naar het futuristische Theater de Stoep en de nabijgelegen Spijkenisserbrug. De middag is gereserveerd voor een langere busreis naar Hartelpark, waar je kunt picknicken, ontspannen en genieten van de groene kant van Spijkenisse voordat je naar huis gaat."
+        "nl": "Begin uw dag met de bus naar het centrum om het Marktplein en De Boekenberg te voet te verkennen. Rond het middaguur brengt een korte busrit u naar het futuristische Theater de Stoep en de nabijgelegen Spijkenisserbrug. De middag is gereserveerd voor een langere busrit naar Hartelpark, waar u kunt picknicken, ontspannen en genieten van de groene kant van Spijkenisse voordat u naar huis gaat."
       },
       "gastro_picks": {
         "de": [
@@ -2053,7 +2053,7 @@
             "hu": "Pihentető esős nap busszal és metróval. A buszmegállótól rövid séta a piac és a Boekenberg könyvtár, ahol szárazon maradhatunk. Délben a színházhoz utazunk. A hídon való átkelés a buszból remek kilátást nyújt az Oude Maas folyóra anélkül, hogy megáznánk. A délutánt a Hartelparknál töltjük, majd a busz biztonságban visszavisz minket a központba.",
             "ro": "O zi relaxantă pe ploaie cu autobuzul. De la stație mergem spre piață și biblioteca Boekenberg, unde stăm la adăpost. La prânz mergem cu autobuzul spre teatru. Traversarea podului oferă o priveliște excelentă asupra râului fără a ne uda. După-amiaza o petrecem în Hartelpark, iar autobuzul ne duce înapoi în centru în siguranță.",
             "en": "A relaxing rainy day by bus and metro. From the bus stop, it's a short walk to the market and Boekenberg library, staying dry. At noon, take the bus to the theater. Crossing the Spijkenisse bridge by bus offers great views of the Oude Maas river without getting wet. Spend the afternoon at Hartelpark before taking the bus back to the center.",
-            "nl": "Een ontspannen regenachtige dag met bus en metro. Vanaf de bushalte is het een korte wandeling naar de markt en de bibliotheek De Boekenberg, waarbij je droog blijft. Rond het middaguur neem je de bus naar het theater. De oversteek van de Spijkenisserbrug per bus biedt prachtig uitzicht op de rivier de Oude Maas zonder nat te worden. Breng de middag door in Hartelpark voordat je met de bus teruggaat naar het centrum."
+            "nl": "Een relaxte regenachtige dag met bus en metro. Vanaf de bushalte is het een korte wandeling naar de markt en de bibliotheek De Boekenberg, waardoor u droog blijft. Midden op de dag neemt u de bus naar het theater. Het passeren van de Spijkenisserbrug per bus biedt geweldig uitzicht op de Oude Maas zonder nat te worden. Breng de middag door in Hartelpark voordat u met de bus terugkeert naar het centrum."
           },
           "stops": [
             {
@@ -2073,7 +2073,7 @@
                 "hu": "A busz csak pár perc sétára áll meg a tértől.",
                 "ro": "Autobuzul oprește la doar câteva minute de mers pe jos.",
                 "en": "The bus stops just a few minutes' walk from the square.",
-                "nl": "De bus stopt op slechts een paar minuten lopen van het plein."
+                "nl": "De bus stopt op slechts enkele minuten lopen van het plein."
               }
             },
             {
@@ -2083,7 +2083,7 @@
                 "hu": "A közelben több buszmegálló is található, fedett részen.",
                 "ro": "În apropiere se află mai multe stații de autobuz acoperite.",
                 "en": "Several sheltered bus stops are located near the library.",
-                "nl": "Verschillende overdekte bushaltes bevinden zich in de buurt van de bibliotheek."
+                "nl": "Verschillende overdekte bushaltes liggen in de buurt van de bibliotheek."
               }
             },
             {
@@ -2093,7 +2093,7 @@
                 "hu": "A közvetlen buszjárat minimalizálja az esőben töltött időt.",
                 "ro": "Conexiunea directă cu autobuzul reduce timpul petrecut în ploaie.",
                 "en": "Direct bus connections minimize time spent out in the rain.",
-                "nl": "Directe busverbindingen beperken de tijd die u in de regen doorbrengt."
+                "nl": "Directe busverbindingen beperken tijd buiten in de regen."
               }
             },
             {
@@ -2144,9 +2144,9 @@
             ],
             "nl": [
               "Gebruik de lokale OV-app voor realtime vertrekupdates.",
-              "Houd uw OV-chipkaart gemakkelijk bereikbaar onder uw paraplu.",
-              "Bussen zijn over het algemeen goed verwarmd en droog tijdens regenachtige dagen.",
-              "Plan uw overstappen op stations met overkapping."
+              "Houd uw OV-kaart gemakkelijk bereikbaar onder uw paraplu.",
+              "Bussen zijn over het algemeen goed verwarmd en droog op regenachtige dagen.",
+              "Plan uw overstappen bij stations met overkapping."
             ]
           }
         },
@@ -2156,7 +2156,7 @@
             "hu": "Téli utazás Spijkenisse-ben tömegközlekedéssel. A nap a meleg buszmegállóban kezdődik. A piaci látogatás után a Boekenberg könyvtár nyújt világos menedéket a hideg elől. Délben a színházhoz utazunk. A hídon való átkelés a buszból véd az Oude Maas jeges szele ellen. A délutánt a téli Hartelparkban töltjük, majd a busz kényelmesen visszavisz minket.",
             "ro": "Călătorie de iarnă în Spijkenisse cu transportul public. Ziua începe în stația de autobuz încălzită. După vizita în piață, biblioteca oferă un refugiu luminos. La prânz mergem la teatru. Traversarea podului cu autobuzul ne protejează de vântul înghețat. După-amiaza o petrecem în Hartelpark, iar autobuzul ne aduce înapoi în confort.",
             "en": "Winter travel through Spijkenisse by public transport. The day starts at a warm bus stop. After visiting the market, the Boekenberg library provides a bright refuge from the cold. At noon, travel to the theater. Crossing the bridge by bus protects you from the icy Oude Maas wind. Enjoy the afternoon in the wintery Hartelpark before the bus takes you back.",
-            "nl": "Winterse reis door Spijkenisse met het openbaar vervoer. De dag begint bij een warme bushalte. Na een bezoek aan de markt biedt de Boekenberg-bibliotheek een helder toevluchtsoord tegen de kou. Rond het middaguur reist u naar het theater. De bus over de brug beschermt u tegen de ijzige wind van de Oude Maas. Geniet van de middag in het winterse Hartelpark voordat de bus u terugbrengt."
+            "nl": "Winterreizen door Spijkenisse met openbaar vervoer. De dag begint bij een warme bushalte. Na een bezoek aan de markt biedt bibliotheek De Boekenberg een helder toevluchtsoord uit de kou. Rond het middaguur reist u naar het theater. Het oversteken van de brug per bus beschermt u tegen de kille wind van de Oude Maas. Geniet van de middag in het winterse Hartelpark voordat de bus u terugbrengt."
           },
           "stops": [
             {
@@ -2176,7 +2176,7 @@
                 "hu": "A rövid gyalogutak csökkentik a hidegben töltött időt.",
                 "ro": "Distanțele scurte pe jos reduc expunerea la frig.",
                 "en": "Short walking distances keep cold exposure to a minimum.",
-                "nl": "Korte loopafstanden houden de blootstelling aan kou tot een minimum."
+                "nl": "Korte loopafstanden beperken blootstelling aan de kou tot een minimum."
               }
             },
             {
@@ -2186,7 +2186,7 @@
                 "hu": "A buszmegállók a főbejárat látótávolságán belül vannak.",
                 "ro": "Stațiile de autobuz sunt în raza vizuală a intrării principale.",
                 "en": "Bus stops are located within sight of the main entrance.",
-                "nl": "Bushaltes bevinden zich binnen zicht van de hoofdingang."
+                "nl": "Bushaltes bevinden zich in het zicht van de hoofdingang."
               }
             },
             {
@@ -2196,7 +2196,7 @@
                 "hu": "Várjon az előcsarnokban, ha késik a busz.",
                 "ro": "Așteptați în foaier dacă autobuzul are întârziere.",
                 "en": "Wait inside the foyer if your bus is running late.",
-                "nl": "Wacht binnen in de foyer als uw bus vertraging heeft."
+                "nl": "Wacht in de foyer als uw bus te laat is."
               }
             },
             {
@@ -2206,7 +2206,7 @@
                 "hu": "A buszban védve vagyunk a hídon süvítő jeges szél ellen.",
                 "ro": "În autobuz sunteți protejați de vântul înghețat de pe pod.",
                 "en": "Inside the bus, you're safe from the icy wind on the bridge.",
-                "nl": "Binnen in de bus bent u veilig voor de ijzige wind op de brug."
+                "nl": "In de bus bent u veilig voor de ijskoude wind op de brug."
               }
             },
             {
@@ -2246,8 +2246,8 @@
               "Utilize the evening hours for indoor activities in the center."
             ],
             "nl": [
-              "Controleer het winterschema op eventuele seizoenswijzigingen.",
-              "Bussen dienen als een warme toevlucht tussen buitenstops.",
+              "Controleer het winterschema op eventuele seizoensgebonden veranderingen.",
+              "Bussen vormen een warme schuilplaats tussen buitenstops.",
               "Draag warme, geïsoleerde schoenen voor de wandelingen naar de bushaltes.",
               "Gebruik de avonduren voor binnenactiviteiten in het centrum."
             ]

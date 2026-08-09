@@ -39,7 +39,7 @@
             "hu": "Készítsd el a klasszikus fotót Sneek jelképéről. A híd éjjel-nappal megtekinthető.",
             "ro": "Faceți fotografia clasică a simbolului orașului Sneek. Podul este accesibil non-stop.",
             "en": "Take the classic photo of Sneek's landmark. The bridge is accessible 24/7.",
-            "nl": "Neem de klassieke foto van Sneeks herkenningspunt. De brug is 24/7 toegankelijk."
+            "nl": "Maak de klassieke foto van Sneeks herkenningspunt. De brug is 24/7 toegankelijk."
           }
         },
         {
@@ -65,7 +65,7 @@
             "hu": "Figyeld meg a belső faragott részleteket és a lenyűgöző orgonát.",
             "ro": "Observați detaliile sculptate din interior și orga impresionantă.",
             "en": "Look for the carved details inside and the impressive organ.",
-            "nl": "Let op de gesneden details binnenin en het indrukwekkende orgel."
+            "nl": "Let op de houtsnijwerken binnen en het indrukwekkende orgel."
           }
         },
         {
@@ -74,7 +74,7 @@
             "hu": "Városháza",
             "ro": "Primăria (Stadhuis Sneek)",
             "en": "City Hall (Stadhuis Sneek)",
-            "nl": "Stadhuis Sneek (Stadhuis)"
+            "nl": "Stadhuis Sneek"
           },
           "coords": [
             5.6592,
@@ -91,7 +91,7 @@
             "hu": "Csodáld meg a gazdagon díszített rokokó homlokzatot. Az épület különösen fotogén.",
             "ro": "Admirați fațada rococo bogat decorată. Clădirea este deosebit de fotogenică.",
             "en": "Admire the ornate Rococo facade. The building is especially photogenic.",
-            "nl": "Bewonder de weelderige rococo-gevel. Het gebouw is bijzonder fotogeniek."
+            "nl": "Bewonder de sierlijke rococogevel. Het gebouw is bijzonder fotogeniek."
           }
         },
         {
@@ -152,7 +152,7 @@
             "hu": "Séta a Sneekermeer tóhoz",
             "ro": "Plimbare spre lacul Sneekermeer",
             "en": "Walk to Sneekermeer Lake",
-            "nl": "Wandel naar Sneekermeer"
+            "nl": "Wandel naar het Sneekermeer"
           },
           "coords": [
             5.7,
@@ -169,7 +169,7 @@
             "hu": "Tökéletes hely a pihenésre. Nyáron csónakot is bérelhetsz itt.",
             "ro": "Un loc perfect pentru a vă relaxa. Vara, puteți închiria și bărci aici.",
             "en": "A perfect spot to relax. In summer, you can also rent boats here.",
-            "nl": "Een perfecte plek om te ontspannen. In de zomer kun je hier ook boten huren."
+            "nl": "Een perfecte plek om te ontspannen. In de zomer kun je hier ook bootjes huren."
           }
         }
       ],
@@ -178,7 +178,7 @@
         "hu": "Kezdje a napot a híres Waterpoortnál, Sneek szimbólumánál. Délelőtt fedezze fel a történelmi központot a Martinikerkkel és a csodálatos Városházával. Miután mély betekintést nyert a tengerészet történetébe a Fríz Hajózási Múzeumban, élvezzen egy helyi ebédet. A délután a Sneekermeer tóhoz tett pihentető sétáról szól, ahol teljes mértékben élvezheti a fríz vízi tájat.",
         "ro": "Începeți ziua la faimoasa Poartă de Apă (Waterpoort), simbolul orașului Sneek. Explorați centrul istoric dimineața, cu Biserica Sf. Martin și Primăria magnifică. După o incursiune profundă în istoria maritimă la Muzeul Maritim Frizian, savurați un prânz local. După-amiaza este dedicată unei plimbări relaxante spre și în jurul lacului Sneekermeer, unde vă puteți bucura pe deplin de peisajul acvatic frizian.",
         "en": "Start your day at the famous Waterpoort, the symbol of Sneek. Explore the historic center in the morning with the Martinikerk and the magnificent City Hall. After a deep dive into maritime history at the Frisian Maritime Museum, enjoy a local lunch. The afternoon is dedicated to a relaxing walk to and around the Sneekermeer lake, where you can fully enjoy the Frisian water landscape.",
-        "nl": "Begin je dag bij de beroemde Waterpoort, het symbool van Sneek. Verken ’s ochtends het historische centrum met de Martinikerk en het prachtige stadhuis. Na een duik in de maritieme geschiedenis in het Fries Scheepvaartmuseum geniet je van een lokale lunch. De middag is gereserveerd voor een ontspannende wandeling naar en rond het Sneekermeer, waar je volop kunt genieten van het Friese waterlandschap."
+        "nl": "Begin je dag bij de beroemde Waterpoort, het symbool van Sneek. Verken ’s ochtends het historische centrum met de Martinikerk en het prachtige stadhuis. Na een diepe duik in de scheepvaartgeschiedenis in het Fries Scheepvaartmuseum geniet je van een lokale lunch. De middag is gereserveerd voor een ontspannen wandeling naar en rond het Sneekermeer, waar je volledig kunt genieten van het Friese waterlandschap."
       },
       "gastro_picks": {
         "de": [
@@ -376,10 +376,10 @@
           "Take time to wander through the smaller alleys off the main streets."
         ],
         "nl": [
-          "Sneek is zeer voetgangersvriendelijk; alle belangrijke bezienswaardigheden in het centrum liggen op loopafstand.",
-          "Draag comfortabele schoenen, want je zult veel lopen, vooral als je naar het meer gaat.",
+          "Sneek is erg voetgangersvriendelijk; alle belangrijke bezienswaardigheden in het centrum liggen op loopafstand.",
+          "Draag comfortabele schoenen, je zult veel lopen, vooral als je naar het meer gaat.",
           "Een paraplu is altijd een goed idee in Nederland, zelfs op zonnige dagen.",
-          "Neem de tijd om door de kleinere steegjes naast de hoofdstraten te dwalen."
+          "Neem de tijd om door de kleine steegjes naast de hoofdstraten te dwalen."
         ]
       },
       "variants": {
@@ -389,7 +389,7 @@
             "hu": "A napot a Waterpoortnál kezdjük, amely borús időben is Sneek jelképe. Délelőtt a Martinikerk és a Városháza nyújt menedéket a csatornák menti séták közben. A délutánt a Hajózási Múzeum falai között töltjük, ami tökéletes búvóhely a záporok elől. A Sneekermeer-tóhoz vezető séta esőben szeles és vizes lehet, de a tó látványa ilyenkor is különleges, ha megfelelően felkészültünk vízálló ruházattal.",
             "ro": "Ziua începe la maiestuosul Waterpoort, impresionant chiar și sub cerul gri. Dimineața, Martinikerk și primăria oferă adăpost sigur împotriva averselor frizone. După-amiaza ploioasă o veți petrece la Muzeul Maritim, unde veți descoperi istoria navală la adăpost. Plimbarea spre lacul Sneekermeer necesită pelerine de ploaie, dar oferă o priveliște dramatică asupra apei sub rafalele de vânt.",
             "en": "The day begins at the majestic Waterpoort, which remains impressive even under grey skies. In the morning, the Martinikerk and the historic City Hall offer reliable shelter from Frisian showers. Spend the rainy afternoon at the Maritime Museum, diving into naval history while staying dry. The walk to Sneekermeer lake requires good rain gear, but rewards you with a dramatic view of the choppy waters under the rain.",
-            "nl": "De dag begint bij de majestueuze Waterpoort, die ook onder grijze luchten indrukwekkend blijft. ’s Ochtends bieden de Martinikerk en het historische stadhuis betrouwbare beschutting tegen Friese buien. Breng de regenachtige middag door in het Scheepvaartmuseum en duik in de maritieme geschiedenis terwijl je droog blijft. De wandeling naar het Sneekermeer vereist goede regenkleding, maar beloont je met een dramatisch uitzicht op de ruwe wateren in de regen."
+            "nl": "De dag begint bij de majestueuze Waterpoort, die ook bij grijze luchten indruk maakt. ’s Ochtends bieden de Martinikerk en het historische stadhuis betrouwbare beschutting tegen Friese buien. Breng de regenachtige middag door in het Scheepvaartmuseum en duik in de maritieme geschiedenis terwijl je droog blijft. De wandeling naar het Sneekermeer vereist goede regenkleding, maar beloont je met een dramatisch uitzicht op de ruwe wateren in de regen."
           },
           "stops": [
             {
@@ -399,7 +399,7 @@
                 "hu": "A kapu boltívei alatt rövid ideig menedéket találhatsz egy hirtelen zápor elől.",
                 "ro": "Arcadele porții oferă un scurt adăpost în cazul unei averse neprevăzute.",
                 "en": "The gate's arches provide brief shelter if a sudden shower catches you.",
-                "nl": "De bogen van de poort bieden kort beschutting als je door een plotselinge bui wordt overvallen."
+                "nl": "De bogen van de poort bieden korte beschutting bij een plotselinge bui."
               }
             },
             {
@@ -409,7 +409,7 @@
                 "hu": "Élvezze a templom belső csendjét és akusztikáját, amíg odakint esik az eső.",
                 "ro": "Bucurați-vă de liniștea interiorului în timp ce ploaia cade afară.",
                 "en": "Enjoy the peaceful interior and acoustics while the rain falls outside.",
-                "nl": "Geniet van het vredige interieur en de akoestiek terwijl de regen buiten valt."
+                "nl": "Geniet van het rustige interieur en de akoestiek terwijl de regen buiten valt."
               }
             },
             {
@@ -419,7 +419,7 @@
                 "hu": "Csodálja meg a rokokó homlokzatot, mielőtt gyorsan fedett helyre húzódna.",
                 "ro": "Admirați fațada rococo înainte de a căuta rapid un loc ferit de ploaie.",
                 "en": "Admire the rococo facade quickly before heading back to cover.",
-                "nl": "Bewonder de rococo-gevel snel voordat je terugkeert naar de beschutting."
+                "nl": "Bewonder snel de rococogevel voordat je teruggaat naar beschutting."
               }
             },
             {
@@ -439,7 +439,7 @@
                 "hu": "Válasszon csatornára néző éttermet, hogy figyelhesse az esőcseppeket a vízen.",
                 "ro": "Alegeți un restaurant cu vedere la canal pentru a urmări ploaia pe apă.",
                 "en": "Choose a restaurant with a canal view to watch the raindrops on the water.",
-                "nl": "Kies een restaurant met uitzicht op het kanaal om de regendruppels op het water te zien."
+                "nl": "Kies een restaurant met uitzicht op de gracht om de regendruppels op het water te bekijken."
               }
             },
             {
@@ -449,7 +449,7 @@
                 "hu": "Vigyázat, a gát menti ösvény nedves időben csúszós lehet.",
                 "ro": "Atenție, poteca de-a lungul digului poate fi alunecoasă când este udă.",
                 "en": "Careful, the path along the dike can be slippery when wet.",
-                "nl": "Voorzichtig, het pad langs de dijk kan glad zijn wanneer het nat is."
+                "nl": "Voorzichtig: het pad langs de dijk kan glad zijn als het nat is."
               }
             }
           ],
@@ -480,8 +480,8 @@
             ],
             "nl": [
               "Het centrum van Sneek is compact, dus de loopafstanden tussen bezienswaardigheden zijn kort en goed te doen.",
-              "Langs de grachten kan de wind aantrekken; een stevige paraplu of regenjas is sterk aanbevolen.",
-              "Het Scheepvaartmuseum is je beste optie voor een lange binnenactiviteit bij hevige regen.",
+              "Langs de grachten kan de wind aantrekken; een stevige paraplu of regenjas wordt sterk aanbevolen.",
+              "Het Scheepvaartmuseum is je beste keuze voor een lange binnenactiviteit tijdens zware regen.",
               "De meeste cafés in het centrum bieden overdekte en verwarmde buitenzitplaatsen."
             ]
           }
@@ -492,7 +492,7 @@
             "hu": "A tél Sneekben különleges hangulatot áraszt, főleg ha a fagy belepi a csatornákat. Reggel a Waterpoort jeges fényben tündököl, délelőtt pedig a Martinikerk falai között találhatunk enyhülést a hideg ellen. A délutáni múzeumlátogatás meleg menedéket nyújt a Sneekermeer-tóhoz tett kirándulás előtt. A korai sötétedés után a belváros fényei ünnepi hangulatot varázsolnak, ami tökéletes egy forró ital elfogyasztásához.",
             "ro": "Iarna în Sneek are un farmec aparte, mai ales când înghețul acoperă canalele. Dimineața, Waterpoort strălucește în lumina rece, iar ulterior vă puteți încălzi în Martinikerk. Vizita de după-amiază la muzeu oferă un refugiu cald înainte de a experimenta atmosfera de iarnă de la Sneekermeer. Odată cu lăsarea timpurie a serii, centrul orașului devine un spectacol de lumini, perfect pentru o băutură caldă.",
             "en": "Winter in Sneek has a unique charm, especially when frost covers the canals. In the morning, the Waterpoort glistens in the cold light, and later the Martinikerk provides a peaceful spot to warm up. An afternoon museum visit offers a warm refuge before experiencing the wintry atmosphere at Sneekermeer. As darkness falls early, the city center transforms into a sea of lights, perfect for enjoying a hot drink.",
-            "nl": "Winter in Sneek heeft een unieke charme, vooral wanneer vorst de grachten bedekt. ’s Ochtends glinstert de Waterpoort in het koude licht, en later biedt de Martinikerk een rustige plek om op te warmen. Een middagbezoek aan het museum biedt een warme toevlucht voordat je de winterse sfeer bij het Sneekermeer ervaart. Zodra het vroeg donker wordt, verandert het centrum in een zee van lichtjes, perfect voor een warme drank."
+            "nl": "De winter in Sneek heeft een unieke charme, zeker wanneer rijp de grachten bedekt. ’s Ochtends glinstert de Waterpoort in het koude licht, en later biedt de Martinikerk een rustige plek om op te warmen. Een middagbezoek aan het museum is een warm toevluchtsoord voordat je de winterse sfeer bij het Sneekermeer ervaart. Als het vroeg donker wordt, verandert het centrum in een zee van lichtjes, perfect voor een warme drank."
           },
           "stops": [
             {
@@ -512,7 +512,7 @@
                 "hu": "A templomban gyakran hidegebb van a vártnál; ne vegye le a kabátját.",
                 "ro": "În biserică este adesea mai rece decât vă așteptați; păstrați haina pe dvs.",
                 "en": "It is often colder inside the church than expected; keep your coat on.",
-                "nl": "Het is vaak kouder binnenin de kerk dan verwacht; houd je jas aan."
+                "nl": "Het is vaak kouder in de kerk dan verwacht; houd je jas aan."
               }
             },
             {
@@ -542,7 +542,7 @@
                 "hu": "Kóstoljon meg egy hagyományos borsólevest (Snert) a felmelegedéshez.",
                 "ro": "Încercați o supă tradițională de mazăre (Snert) pentru a vă încălzi.",
                 "en": "Try a traditional pea soup (Snert) to warm up during lunch.",
-                "nl": "Probeer een traditionele erwtensoep (snert) om op te warmen tijdens de lunch."
+                "nl": "Probeer een traditionele erwtensoep (snert) om tijdens de lunch op te warmen."
               }
             },
             {
@@ -552,7 +552,7 @@
                 "hu": "Tervezze a visszautat 16:30 előttre, mielőtt teljesen besötétedik.",
                 "ro": "Planificați drumul de întoarcere înainte de 16:30, înainte de a se întuneca de tot.",
                 "en": "Plan your walk back before 16:30, before it gets completely dark.",
-                "nl": "Plan je terugwandeling voor 16:30, voordat het volledig donker wordt."
+                "nl": "Plan je terugweg vóór 16:30, voordat het helemaal donker wordt."
               }
             }
           ],
@@ -582,10 +582,10 @@
               "Most shops in the city center close promptly at 18:00 during the winter season."
             ],
             "nl": [
-              "Kleed je in lagen, want de winterwind van het Sneekermeer kan erg scherp zijn.",
-              "De zonsondergang is rond 16:30, wat een korte daglichtperiode voor sightseeing oplevert.",
-              "Als de grachten bevroren zijn, voel je de unieke 'Elfstedentocht'-sfeer in de lucht.",
-              "De meeste winkels in het centrum sluiten stipt om 18:00 tijdens het winterseizoen."
+              "Kleed je in lagen; de winterwind van het Sneekermeer kan zeer snijdend zijn.",
+              "De zonsondergang is rond 16:30, waardoor de daglichtperiode kort is voor sightseeing.",
+              "Als de grachten bevroren zijn, hangt er een unieke 'Elfstedentocht'-sfeer in de lucht.",
+              "De meeste winkels in het centrum sluiten in de winter keurig om 18:00."
             ]
           }
         }
@@ -605,7 +605,7 @@
             "hu": "Kerékpárbérlés és indulás a Waterpoorttól",
             "ro": "Închiriere biciclete și start de la Waterpoort",
             "en": "Bike Rental & Start at Waterpoort",
-            "nl": "Fietsverhuur & Start bij de Waterpoort"
+            "nl": "Fietsverhuur & start bij de Waterpoort"
           },
           "coords": [
             5.6555,
@@ -622,7 +622,7 @@
             "hu": "Bérelj a közelben egy kerékpárt, hogy rugalmasan fedezhesd fel a várost és a környéket.",
             "ro": "Închiriați o bicicletă din apropiere pentru a explora orașul și împrejurimile în mod flexibil.",
             "en": "Rent a bike nearby to explore the city and its surroundings flexibly.",
-            "nl": "Huur ergens vlakbij een fiets om de stad en omgeving flexibel te verkennen."
+            "nl": "Huur een fiets in de buurt om de stad en omgeving flexibel te verkennen."
           }
         },
         {
@@ -648,7 +648,7 @@
             "hu": "Biztonságosan zárd le a kerékpárodat, és gyalog fedezd fel ezt a területet.",
             "ro": "Legați-vă bicicleta în siguranță și explorați această zonă pe jos.",
             "en": "Lock your bike securely and explore this area on foot.",
-            "nl": "Zet je fiets goed vast en verken dit gebied te voet."
+            "nl": "Zet je fiets goed op slot en verken dit gebied te voet."
           }
         },
         {
@@ -674,7 +674,7 @@
             "hu": "A múzeum előtt gyakran van kerékpártároló.",
             "ro": "Muzeul are adesea un suport pentru biciclete chiar în față.",
             "en": "The museum often has a bike rack right in front.",
-            "nl": "Het museum heeft vaak een fietsenrek precies vóór de ingang."
+            "nl": "Het museum heeft vaak een fietsenrek direct ervoor."
           }
         },
         {
@@ -700,7 +700,7 @@
             "hu": "Sok kávézónak van terasza, ahonnan szemmel tarthatod a kerékpárodat.",
             "ro": "Multe cafenele au terase de unde vă puteți supraveghea bicicleta.",
             "en": "Many cafes have terraces where you can keep an eye on your bike.",
-            "nl": "Veel cafés hebben terrassen waar je je fiets in het oog kunt houden."
+            "nl": "Veel cafés hebben terrassen waar je je fiets in de gaten kunt houden."
           }
         },
         {
@@ -778,7 +778,7 @@
             "hu": "Add vissza a kerékpárt, és jutalmazd meg magad egy kávéval és egy szelet 'Oranjekoek'-kal.",
             "ro": "Returnați bicicleta și răsfățați-vă cu o cafea și o felie de 'Oranjekoek'.",
             "en": "Return your bike and reward yourself with a coffee and a piece of 'Oranjekoek'.",
-            "nl": "Lever je fiets in en beloon jezelf met een kop koffie en een stuk Oranjekoek."
+            "nl": "Lever je fiets in en trakteer jezelf op koffie en een stuk oranjekoek."
           }
         }
       ],
@@ -787,7 +787,7 @@
         "hu": "Egy sneeki biciklis nap a belvárosi látnivalók, mint a Waterpoort és a Martinikerk felfedezésével kezdődik. A délelőtti múzeumlátogatás és egy kiadós ebéd után a fő útvonal kivisz a városból. A délután a Sneekermeerhez, a fríz tóvidék szívéhez vezető festői kerékpártúráé. Élvezze a friss levegőt és a tágas tájat, mielőtt visszatérne a városközpontba egy pihentető lezárásra.",
         "ro": "O zi cu bicicleta în Sneek începe cu explorarea punctelor de atracție din centrul orașului, precum Waterpoort și Martinikerk. După o vizită la muzeu dimineața și un prânz copios, traseul principal vă scoate din oraș. După-amiaza este dedicată unui tur pitoresc cu bicicleta spre și în jurul lacului Sneekermeer, inima regiunii lacurilor friziene. Bucurați-vă de aerul proaspăt și de peisajul vast înainte de a vă întoarce în centrul orașului pentru o încheiere relaxantă.",
         "en": "A bike day in Sneek starts with exploring the city center highlights like the Waterpoort and Martinikerk. After a morning museum visit and a hearty lunch, the main route takes you out of the city. The afternoon is dedicated to a scenic bike tour to and around the Sneekermeer, the heart of the Frisian Lakes area. Enjoy the fresh air and wide landscape before returning to the city center for a relaxing conclusion.",
-        "nl": "Een fietsdag in Sneek begint met het verkennen van de highlights van het centrum zoals de Waterpoort en de Martinikerk. Na een ochtend in het museum en een stevige lunch voert de hoofdroute je buiten de stad. De middag is gewijd aan een schilderachtige fietstocht naar en rond het Sneekermeer, het hart van het Friese Merengebied. Geniet van de frisse lucht en het brede landschap voordat je terugkeert naar het centrum voor een ontspannen afsluiting."
+        "nl": "Een fietsdag in Sneek begint met het verkennen van de hoogtepunten in het centrum zoals de Waterpoort en Martinikerk. Na een ochtend in het museum en een stevige lunch voert de hoofdroute je de stad uit. De middag is gewijd aan een schilderachtige fietstocht naar en rond het Sneekermeer, het hart van het Friese merengebied. Geniet van de frisse lucht en het brede landschap voordat je terugkeert naar het centrum voor een ontspannen afsluiting."
       },
       "gastro_picks": {
         "de": [
@@ -986,9 +986,9 @@
         ],
         "nl": [
           "Check de weersvoorspelling; wind kan belangrijker zijn dan heuvels.",
-          "Zorg dat je fiets verlichting heeft als je van plan bent 's avonds te rijden.",
+          "Zorg dat je fietsverlichting werkt als je van plan bent tot in de avond te fietsen.",
           "Nederland heeft fantastische fietspaden; gebruik ze en volg de borden.",
-          "Een opgeladen telefoon met GPS is handig om de routes rond het meer te navigeren."
+          "Een opgeladen telefoon met GPS is handig om de routes rond het meer te vinden."
         ]
       },
       "variants": {
@@ -998,7 +998,7 @@
             "hu": "Egy frízföldi biciklitúra esőben is igazi élmény. A Waterpoorttól indulva tekerünk át a vizes belvároson a Martinikerkhez. A délutánt a Hajózási Múzeumnak szenteljük, ahol a biciklik biztonságban leparkolhatók. A Sneekermeer felé vezető út nyitott terepen halad, ahol az eső vízszintesen is eshet – a vízálló ruha kötelező. A napot egy forró kávé mellett zárjuk a városközpontban.",
             "ro": "O tură cu bicicleta în Frizia este o experiență autentică chiar și pe ploaie. Pornim de la Waterpoort și pedalăm prin centrul ud spre Martinikerk. După-amiaza este dedicată Muzeului Maritim, unde bicicletele pot fi parcate în siguranță. Drumul spre Sneekermeer trece prin zone deschise unde ploaia poate cădea orizontal – echipamentul impermeabil este obligatoriu.",
             "en": "A bike tour in Friesland is an authentic experience even in the rain. Starting at the Waterpoort, we cycle through the wet center to the Martinikerk. The afternoon is dedicated to the Maritime Museum, where bikes can be safely parked. The ride to Sneekermeer follows open paths where rain can be driven sideways by the wind – waterproof clothing is a must.",
-            "nl": "Een fietstocht in Friesland is een echte ervaring, zelfs bij regen. Beginnend bij de Waterpoort fietsen we door het natte centrum naar de Martinikerk. De middag is gewijd aan het Scheepvaartmuseum, waar fietsen veilig geparkeerd kunnen worden. De rit naar het Sneekermeer volgt open paden waar de regen door de wind schuin kan waaien – waterdichte kleding is een must."
+            "nl": "Een fietstocht in Friesland is authentiek, zelfs in de regen. Begin bij de Waterpoort en fiets door het natte centrum naar de Martinikerk. De middag is gewijd aan het Scheepvaartmuseum, waar fietsen veilig geparkeerd kunnen worden. De rit naar het Sneekermeer volgt open paden waar de regen door de wind zijwaarts kan worden aangedreven – waterdichte kleding is onmisbaar."
           },
           "stops": [
             {
@@ -1008,7 +1008,7 @@
                 "hu": "Kérjen az emelt szintű bérlésnél nyeregvédőt az eső ellen.",
                 "ro": "Cereți o protecție pentru șa împotriva umezelii la centrul de închirieri.",
                 "en": "Ask the rental shop for a saddle cover to keep your seat dry.",
-                "nl": "Vraag bij de verhuurwinkel om een zadelhoes om je zadel droog te houden."
+                "nl": "Vraag bij de verhuur om een zadelhoes om je zitting droog te houden."
               }
             },
             {
@@ -1018,7 +1018,7 @@
                 "hu": "Óvatosan fékezzen a belvárosi vizes macskaköveken.",
                 "ro": "Frânați cu prudență pe pavajul umed din centrul orașului.",
                 "en": "Brake carefully on the wet cobblestones in the city center.",
-                "nl": "Rem voorzichtig op de natte kasseien in het centrum."
+                "nl": "Rem voorzichtig op de natte kinderkopjes in het centrum."
               }
             },
             {
@@ -1038,7 +1038,7 @@
                 "hu": "Keressen olyan helyet, ahol van ruhatár a vizes esőkabátoknak.",
                 "ro": "Căutați un loc cu cuier pentru hainele de ploaie ude.",
                 "en": "Look for a spot with a coat rack for your wet rain gear.",
-                "nl": "Zoek een plek met een kapstok voor je natte regenuitrusting."
+                "nl": "Zoek een plek met een kapstok voor je natte regenkleding."
               }
             },
             {
@@ -1048,7 +1048,7 @@
                 "hu": "A gáton az esővel párosuló szél nagyon erős lehet oldalról.",
                 "ro": "Vântul de pe dig poate fi foarte puternic din lateral în timpul ploii.",
                 "en": "The wind on the dike can be very strong from the side during rain.",
-                "nl": "De wind op de dijk kan tijdens regen erg hard van opzij blazen."
+                "nl": "De wind op de dijk kan bij regen zijwaarts erg sterk zijn."
               }
             },
             {
@@ -1058,7 +1058,7 @@
                 "hu": "Maradjon az aszfaltozott utakon a sár elkerülése érdekében.",
                 "ro": "Rămâneți pe potecile asfaltate pentru a evita noroiul.",
                 "en": "Stick to the paved paths to avoid getting stuck in the mud.",
-                "nl": "Blijf op de verhardde paden om te voorkomen dat je in de modder vast komt te zitten."
+                "nl": "Blijf op de verhardde paden om niet in de modder vast te komen zitten."
               }
             },
             {
@@ -1098,10 +1098,10 @@
               "A poncho can catch the wind dangerously; close-fitting waterproof gear is a safer bet."
             ],
             "nl": [
-              "Draag goede fietsbrillen om zicht te houden tijdens het rijden door de regen.",
-              "Vermijd scherpe bochten op witte wegmarkeringen; die worden enorm glad als ze nat zijn.",
-              "Schijfremmen zijn betrouwbaarder in natte omstandigheden dan traditionele velgremmen.",
-              "Een poncho kan de wind gevaarlijk vangen; aansluitende waterdichte kleding is veiliger."
+              "Draag goede fietsbril om zicht te houden tijdens het rijden in de regen.",
+              "Vermijd scherpe bochten op witte wegmarkeringen; die worden ongelooflijk glad als ze nat zijn.",
+              "Schijfremmen zijn betrouwbaarder bij nat weer dan traditionele velgremmen.",
+              "Een poncho kan gevaarlijk veel wind vangen; nauwsluitende waterdichte kleding is veiliger."
             ]
           }
         },
@@ -1111,7 +1111,7 @@
             "hu": "A téli biciklizés Sneekben felkészültséget igényel, de friss levegőt és csendes utakat ígér. A Waterpoorttól indulva a fagyos belvároson át jutunk el a meleg Martinikerkhez. A Hajózási Múzeumban töltött délután után tekerünk ki a Sneekermeerhez, ahol a téli szél korbácsolja a vizet. A dérrel borított fríz táj ilyenkor különösen békés. A napot forró kakaóval zárjuk, mielőtt visszaadnánk a kerékpárokat.",
             "ro": "Pedalatul pe timp de iarnă în Sneek necesită pregătire, dar oferă aer curat și drumuri liniștite. De la Waterpoort trecem prin centrul înghețat spre Martinikerk. După după-amiaza la muzeu, pedalăm spre Sneekermeer, unde vântul de iarnă biciuiește apa. Peisajul frizon acoperit de chiciură este extrem de pașnic. Încheiem cu o ciocolată caldă în oraș.",
             "en": "Winter cycling in Sneek requires preparation but offers crisp air and quiet paths. From the Waterpoort, ride through the frosty center to the warm Martinikerk. After an informative afternoon at the Maritime Museum, cycle out to Sneekermeer where the winter wind whips across the water. The frost-covered Frisian landscape is exceptionally peaceful. End with a hot cocoa back in town before returning the bikes.",
-            "nl": "Winterfietsen in Sneek vergt voorbereiding maar biedt frisse lucht en rustige paden. Vanaf de Waterpoort rijd je door het bevroren centrum naar de warme Martinikerk. Na een informatieve middag in het Scheepvaartmuseum fiets je naar het Sneekermeer waar de winterwind over het water raast. Het met rijp bedekte Friese landschap is uitzonderlijk vredig. Sluit af met een warme chocolademelk in de stad voordat je de fietsen terugbrengt."
+            "nl": "Winterfietsen in Sneek vergt voorbereiding maar biedt frisse lucht en stille paden. Vanaf de Waterpoort fiets je door het ijzige centrum naar de warme Martinikerk. Na een informatieve middag in het Fries Scheepvaartmuseum fiets je naar het Sneekermeer waar de winterwind over het water jaagt. Het door rijp bedekte Friese landschap is buitengewoon vredig. Sluit af met een warme chocolademelk terug in de stad voordat je de fietsen inlevert."
           },
           "stops": [
             {
@@ -1141,7 +1141,7 @@
                 "hu": "Vigye be magával a biciklilámpát, ha levehető típus.",
                 "ro": "Luați lumina de bicicletă cu dvs. în interior dacă este detașabilă.",
                 "en": "Take your bike lights inside with you if they are removable.",
-                "nl": "Neem je fietsverlichting mee naar binnen als die verwijderbaar is."
+                "nl": "Neem je fietslampen mee naar binnen als ze verwijderbaar zijn."
               }
             },
             {
@@ -1151,7 +1151,7 @@
                 "hu": "Lakatolja le a biciklit egy jól megvilágított helyen.",
                 "ro": "Încuiați bicicleta într-un loc bine iluminat.",
                 "en": "Lock your bike in a well-lit area while you enjoy your lunch.",
-                "nl": "Zet je fiets in een goed verlichte plek terwijl je van je lunch geniet."
+                "nl": "Zet je fiets in een goed verlichte omgeving op slot terwijl je van je lunch geniet."
               }
             },
             {
@@ -1171,7 +1171,7 @@
                 "hu": "Támassza le biztonságosan a gépet; a széllökések felboríthatják.",
                 "ro": "Parcați bicicleta în siguranță; rafalele de vânt o pot răsturna.",
                 "en": "Park your bike securely; winter gusts can easily blow it over.",
-                "nl": "Zet je fiets stevig vast; winterse rukwinden kunnen hem makkelijk omver blazen."
+                "nl": "Zet je fiets stevig neer; winterse rukwinden kunnen hem makkelijk omver blazen."
               }
             },
             {
@@ -1212,9 +1212,9 @@
             ],
             "nl": [
               "Warme, winddichte handschoenen zijn het belangrijkste accessoire voor winterfietsen.",
-              "Let op rijp op fietspaden, vooral op plekken die in de schaduw van gebouwen liggen.",
+              "Let op rijp op fietspaden, vooral in gebieden die door gebouwen worden beschaduwd.",
               "E-bike batterijen lopen veel sneller leeg bij vrieskou.",
-              "Het gebruik van fietsverlichting wordt in Nederland strikt gehandhaafd, vooral na 16:30."
+              "Het gebruik van fietsverlichting wordt strikt gehandhaafd in Nederland, vooral na 16:30."
             ]
           }
         }
@@ -1251,7 +1251,7 @@
             "hu": "A legjobb, ha a központ szélén parkolsz, és a Waterpoortnál kezded a sétát.",
             "ro": "Cel mai bine este să parcați la marginea centrului și să începeți turul de la Waterpoort.",
             "en": "It's best to park on the edge of the center and start your tour at the Waterpoort.",
-            "nl": "Het is het beste om aan de rand van het centrum te parkeren en je tour bij de Waterpoort te starten."
+            "nl": "Het is het beste om aan de rand van het centrum te parkeren en je route te beginnen bij de Waterpoort."
           }
         },
         {
@@ -1277,7 +1277,7 @@
             "hu": "Ez a két látnivaló csak néhány lépésre van egymástól.",
             "ro": "Aceste două atracții sunt la doar câțiva pași una de cealaltă.",
             "en": "These two sights are just a few steps from each other.",
-            "nl": "Deze twee bezienswaardigheden liggen op maar een paar stappen van elkaar."
+            "nl": "Deze twee bezienswaardigheden liggen op een paar stappen van elkaar."
           }
         },
         {
@@ -1303,7 +1303,7 @@
             "hu": "Kötelező látnivaló, hogy megértsd a régió és a víz kapcsolatát.",
             "ro": "O vizită obligatorie pentru a înțelege legătura regiunii cu apa.",
             "en": "A must-visit to understand the region's connection to water.",
-            "nl": "Een must-visit om de verbinding van de regio met water te begrijpen."
+            "nl": "Een aanrader om de band van de regio met het water te begrijpen."
           }
         },
         {
@@ -1338,7 +1338,7 @@
             "hu": "Utazás a 2. klaszterhez: Sneekermeer",
             "ro": "Drum spre Cluster 2: Sneekermeer",
             "en": "Drive to Cluster 2: Sneekermeer",
-            "nl": "Rij naar Cluster 2: Sneekermeer"
+            "nl": "Rijd naar Cluster 2: Sneekermeer"
           },
           "coords": [
             5.705,
@@ -1355,7 +1355,7 @@
             "hu": "Vezess a Paviljoen Sneekermeerhez, ott van parkoló és remek kilátás.",
             "ro": "Conduceți la Paviljoen Sneekermeer, există parcare și o priveliște minunată.",
             "en": "Drive to the Paviljoen Sneekermeer; there is parking and a great view.",
-            "nl": "Rij naar het Paviljoen Sneekermeer; daar is parkeergelegenheid en een prachtig uitzicht."
+            "nl": "Rijd naar het Paviljoen Sneekermeer; daar is parkeergelegenheid en een mooi uitzicht."
           }
         },
         {
@@ -1364,7 +1364,7 @@
             "hu": "Utazás a 3. klaszterhez: Epemastate",
             "ro": "Drum spre Cluster 3: Epemastate",
             "en": "Drive to Cluster 3: Epemastate",
-            "nl": "Rij naar Cluster 3: Epemastate"
+            "nl": "Rijd naar Cluster 3: Epemastate"
           },
           "coords": [
             5.63,
@@ -1381,7 +1381,7 @@
             "hu": "Egy rövid megálló, hogy megcsodáld a történelmi birtokot kívülről. Magántulajdonban van.",
             "ro": "O scurtă oprire pentru a admira proprietatea istorică din exterior. Este proprietate privată.",
             "en": "A short stop to admire the historic estate from the outside. It is privately owned.",
-            "nl": "Een korte stop om het historische landgoed van buitenaf te bewonderen. Het is particulier bezit."
+            "nl": "Een korte stop om het historische landgoed van buiten te bewonderen. Het is particulier eigendom."
           }
         }
       ],
@@ -1390,7 +1390,7 @@
         "hu": "Autóval rugalmasan fedezheti fel Sneek és környéke legjavát. A parkolás után kezdje a napot egy sétával a történelmi központban (1. klaszter). Ebéd után irány a Sneekermeer (2. klaszter), a fríz tavak lüktető szíve. Élvezze a tengeri hangulatot, mielőtt a napot a vidéki Epemastate (3. klaszter) rövid meglátogatásával zárja, amely bepillantást nyújt a régió nemesi történelmébe.",
         "ro": "Cu mașina, aveți flexibilitatea de a experimenta tot ce este mai bun în Sneek și împrejurimile sale. Începeți cu o plimbare prin centrul istoric (Cluster 1) după ce ați parcat mașina. După prânz, conduceți spre Sneekermeer (Cluster 2), inima vibrantă a lacurilor friziene. Bucurați-vă de atmosfera maritimă înainte de a încheia ziua cu o scurtă vizită la ruralul Epemastate (Cluster 3), care oferă o privire asupra istoriei nobile a regiunii.",
         "en": "By car, you have the flexibility to experience the best of Sneek and its surroundings. Start with a walk through the historic center (Cluster 1) after parking your car. After lunch, drive to the Sneekermeer (Cluster 2), the vibrant heart of the Frisian lakes. Enjoy the maritime atmosphere before rounding off the day with a short visit to the rural Epemastate (Cluster 3), offering a glimpse into the region's noble history.",
-        "nl": "Met de auto heb je de flexibiliteit om het beste van Sneek en omgeving te beleven. Begin met een wandeling door het historische centrum (Cluster 1) na het parkeren. Na de lunch rijd je naar het Sneekermeer (Cluster 2), het levendige hart van de Friese meren. Geniet van de maritieme sfeer voordat je de dag afsluit met een kort bezoek aan het landelijke Epemastate (Cluster 3), dat een inkijkje geeft in de adellijke geschiedenis van de regio."
+        "nl": "Met de auto heb je de flexibiliteit om het beste van Sneek en omgeving te beleven. Begin na het parkeren met een wandeling door het historische centrum (Cluster 1). Na de lunch rijd je naar het Sneekermeer (Cluster 2), het levendige hart van de Friese meren. Geniet van de maritieme sfeer voordat je de dag afsluit met een kort bezoek aan het landelijke Epemastate (Cluster 3), dat een blik op de adellijke geschiedenis van de regio biedt."
       },
       "gastro_picks": {
         "de": [
@@ -1588,9 +1588,9 @@
           "Combine your visit with a ferry trip across one of the lakes for a different perspective."
         ],
         "nl": [
-          "Let op parkeertarieven en zones in het centrum ('Blauwe Zone' betekent vaak schijfverplichting).",
+          "Let op parkeerzones en -tarieven in het centrum ('Blauwe Zone' betekent vaak parkeerschijf).",
           "De wegen kunnen smal zijn, rijd voorzichtig.",
-          "Met de auto kun je kleinere, meer afgelegen dorpen bezoeken.",
+          "Met een auto kun je kleinere, meer afgelegen dorpen bezoeken.",
           "Combineer je bezoek met een veerboottocht over een van de meren voor een ander perspectief."
         ]
       },
@@ -1601,7 +1601,7 @@
             "hu": "Autóval kényelmesen és szárazon fedezhetjük fel Sneek környékét. A központ szélén történő parkolás után gyorsan elérjük a Waterpoortot és a történelmi épületeket. A Hajózási Múzeumban töltött délután ideális, ha kint folyamatosan esik. Később a Sneekermeerhez autózunk, hogy a kocsiból élvezzük a kilátást, majd az Epemastate kúria felé vesszük az irányt, amely esőben különösen titokzatos.",
             "ro": "Cu mașina explorăm Sneek și împrejurimile confortabil și fără a ne uda. După parcarea la marginea centrului, ajungem rapid la Waterpoort și clădirile istorice. După-amiaza la muzeu este ideală dacă plouă continuu. Ulterior, conducem spre Sneekermeer pentru a admira priveliștea protejați în mașină, apoi continuăm spre conacul Epemastate, care pare misterios pe ploaie.",
             "en": "Exploring Sneek by car is comfortable and dry regardless of the weather. After parking near the center, the Waterpoort and historic buildings are just a short walk away. An afternoon at the Maritime Museum is perfect for persistent rain. Later, drive to Sneekermeer to enjoy the lake views from the warmth of your car, then continue to the Epemastate estate, which looks enchanting in the mist.",
-            "nl": "Sneek verkennen met de auto is comfortabel en droog, ongeacht het weer. Na het parkeren nabij het centrum zijn de Waterpoort en historische gebouwen vlakbij. Een middag in het Scheepvaartmuseum is perfect bij aanhoudende regen. Later rijd je naar het Sneekermeer om vanuit de warmte van je auto van het uitzicht te genieten, en daarna naar Epemastate, dat in de mist betoverend oogt."
+            "nl": "Sneek verkennen met de auto is comfortabel en droog, ongeacht het weer. Na parkeren bij het centrum zijn de Waterpoort en historische gebouwen op korte loopafstand. Een middag in het Scheepvaartmuseum is perfect bij aanhoudende regen. Later rijd je naar het Sneekermeer om vanaf de warmte van de auto van het uitzicht op het meer te genieten, en vervolg je naar Epemastate, dat in de mist betoverend oogt."
           },
           "stops": [
             {
@@ -1621,7 +1621,7 @@
                 "hu": "Tartsa kéznél az esernyőt a parkolótól vezető útra.",
                 "ro": "Țineți umbrela la îndemână pentru drumul de la parcare.",
                 "en": "Keep your umbrella handy for the short walk from your parking spot.",
-                "nl": "Houd een paraplu bij de hand voor het korte stukje lopen van je parkeerplek."
+                "nl": "Houd je paraplu bij de hand voor het korte stukje lopen vanaf je parkeerplek."
               }
             },
             {
@@ -1631,7 +1631,7 @@
                 "hu": "A múzeum korlátozott parkolási övezetben van; figyeljen az időre.",
                 "ro": "Muzeul se află într-o zonă cu parcare limitată; atenție la durată.",
                 "en": "The museum is in a limited parking zone; keep an eye on the time meter.",
-                "nl": "Het museum ligt in een gebied met beperkte parkeertijd; houd de parkeermeter in de gaten."
+                "nl": "Het museum ligt in een zone met beperkte parkeertijd; houd de parkeermeter in de gaten."
               }
             },
             {
@@ -1641,7 +1641,7 @@
                 "hu": "Parkoljon a 'Veemarkt'-nál, ott általában van szabad hely.",
                 "ro": "Parcați la 'Veemarkt', acolo există de obicei locuri libere.",
                 "en": "Park at 'Veemarkt'; there are usually plenty of spots available there.",
-                "nl": "Parkeer bij 'Veemarkt'; daar zijn meestal voldoende plekken."
+                "nl": "Parkeer bij 'Veemarkt'; daar zijn meestal genoeg plekken beschikbaar."
               }
             },
             {
@@ -1651,7 +1651,7 @@
                 "hu": "Vigyázzon a vízátfolyásokra a tó körüli sík utakon.",
                 "ro": "Atenție la acvaplanare pe drumurile plate din jurul lacului.",
                 "en": "Watch out for aquaplaning on the flat roads surrounding the lake.",
-                "nl": "Let op aquaplaning op de vlakke wegen rond het meer."
+                "nl": "Pas op voor aquaplaning op de vlakke wegen rond het meer."
               }
             },
             {
@@ -1661,7 +1661,7 @@
                 "hu": "A kúria parkolója heves esőzéskor sáros lehet.",
                 "ro": "Parcarea conacului poate fi noroioasă în caz de ploaie abundentă.",
                 "en": "The estate's parking area can get muddy during heavy rainfall.",
-                "nl": "Het parkeerterrein van het landgoed kan modderig worden bij zware regenval."
+                "nl": "Het parkeerterrein bij het landgoed kan modderig worden bij zware regenval."
               }
             }
           ],
@@ -1691,10 +1691,10 @@
               "Frisian roads are very flat, so standing water can remain on the asphalt during heavy rain."
             ],
             "nl": [
-              "Het parkeergeleidingssysteem van Sneek is ook bij slecht zicht makkelijk te volgen.",
-              "Veel parkeerplaatsen in het centrum raken snel vol, zeker in het weekend.",
+              "Het parkeerverwijssysteem van Sneek is makkelijk te volgen, ook bij slechte zichtbaarheid.",
+              "Veel parkeerplaatsen in het centrum zijn snel vol, vooral in het weekend.",
               "Wees extra voorzichtig voor fietsers, die bij regen minder op het verkeer letten.",
-              "Friese wegen zijn erg vlak, waardoor stilstaand water op het asfalt bij zware regen kan blijven staan."
+              "Friese wegen zijn erg vlak, waardoor stilstaand water bij hevige regen op het asfalt kan blijven liggen."
             ]
           }
         },
@@ -1704,7 +1704,7 @@
             "hu": "A téli autózás a fagyos Frízföldön Sneek legnyugodtabb arcát mutatja meg. Központi helyen parkolunk, és elsétálunk a Waterpoortig, amely hidegben különösen fenséges. A délelőttöt a Martinikerkben töltjük, majd a Hajózási Múzeumban melegszünk fel. A Sneekermeerhez vezető út panorámás kilátást nyújt a jeges partokra, az Epemastate meglátogatása pedig méltóságteljes zárása a napnak.",
             "ro": "O călătorie cu mașina prin Frizia înghețată arată partea cea mai liniștită a orașului Sneek. Parcăm central și ne plimbăm spre Waterpoort, care pare maiestuos în ger. Dimineața o petrecem în Martinikerk, apoi ne încălzim la Muzeul Maritim. Drumul spre Sneekermeer oferă vederi panoramice asupra malurilor înghețate, iar vizita la Epemastate încheie ziua în mod nobiliar.",
             "en": "A winter drive through frozen Friesland reveals Sneek at its quietest. Park centrally and walk to the Waterpoort, which looks particularly majestic in the cold. Spend the morning at the Martinikerk before warming up in the Maritime Museum. The drive to Sneekermeer offers panoramic views of icy shores, and a visit to Epemastate provides a grand conclusion in its winter park.",
-            "nl": "Een winterse rit door het bevroren Friesland toont Sneek op z'n rustigst. Parkeer centraal en loop naar de Waterpoort, die bijzonder statig oogt in de kou. Breng de ochtend door in de Martinikerk voordat je opwarmt in het Scheepvaartmuseum. De rit naar het Sneekermeer biedt panoramische uitzichten over ijzige oevers, en een bezoek aan Epemastate sluit prachtig af in het winterpark."
+            "nl": "Een winterrit door bevroren Friesland toont Sneek op zijn stilst. Parkeer centraal en loop naar de Waterpoort, die er in de kou bijzonder majestueus uitziet. Breng de ochtend door in de Martinikerk voordat je opwarmt in het Fries Scheepvaartmuseum. De rit naar het Sneekermeer biedt panoramische uitzichten op ijzige oevers, en een bezoek aan Epemastate vormt een fraaie afsluiting in het winterpark."
           },
           "stops": [
             {
@@ -1714,7 +1714,7 @@
                 "hu": "Vigyázzon a lefagyásokra a parkolóházak feljáróin.",
                 "ro": "Atenție la gheață pe rampele de acces ale parcărilor etajate.",
                 "en": "Be careful of black ice on the access ramps of parking garages.",
-                "nl": "Pas op voor zwarte ijsplekken op opritten van parkeergarages."
+                "nl": "Pas op voor zwarte ijsplekken op oprijvoorzieningen van parkeergarages."
               }
             },
             {
@@ -1724,7 +1724,7 @@
                 "hu": "Tervezzen rövid útvonalakat, hogy ne álljon sokat a hidegben.",
                 "ro": "Planificați trasee scurte pentru a nu sta mult în frig.",
                 "en": "Plan short walking routes to minimize time spent in the freezing cold.",
-                "nl": "Plan korte looproutes om de tijd in de vrieskou te minimaliseren."
+                "nl": "Plan korte looproutes om de tijd in de vrieskou te beperken."
               }
             },
             {
@@ -1744,7 +1744,7 @@
                 "hu": "Foglaljon asztalt a fűtőtest közelében.",
                 "ro": "Rezervați o masă lângă o sursă de căldură.",
                 "en": "Book a table near a heater if possible to warm up during lunch.",
-                "nl": "Reserveer indien mogelijk een tafel bij een verwarming om tijdens de lunch op te warmen."
+                "nl": "Reserveer indien mogelijk een tafel bij een heater om tijdens de lunch op te warmen."
               }
             },
             {
@@ -1754,7 +1754,7 @@
                 "hu": "A tóparti parkolókat télen nem mindig takarítják a hótól.",
                 "ro": "Parcările de lângă lac nu sunt întotdeauna deszăpezite iarna.",
                 "en": "Lakeside parking areas are not always cleared of snow in winter.",
-                "nl": "Parkeerplaatsen aan het meer worden in de winter niet altijd sneeuwvrij gemaakt."
+                "nl": "Parkeerplaatsen bij het meer worden in de winter niet altijd sneeuwvrij gemaakt."
               }
             },
             {
@@ -1794,10 +1794,10 @@
               "Keep an ice scraper handy, as the humid sea air causes windows to freeze quickly."
             ],
             "nl": [
-              "Winterbanden worden in Friesland sterk aanbevolen vanwege de vele bruggen en grachten.",
-              "Wees extra voorzichtig op bruggen; die kunnen veel ijziger zijn dan omliggende wegen.",
-              "Zicht kan beperkt zijn door de lage winterzon of frequente zeemist.",
-              "Houd een ijssteker bij de hand; de vochtige zeelucht doet autoruiten snel bevriezen."
+              "Winterbanden worden ten zeerste aanbevolen in Friesland vanwege de vele bruggen en kanalen.",
+              "Wees extra voorzichtig op bruggen; die kunnen veel ijziger zijn dan de omliggende wegen.",
+              "Het zicht kan beperkt zijn door de lage winterzon of frequente zeemist.",
+              "Houd een ijskrabber bij de hand, want de vochtige zeelucht doet ruiten snel bevriezen."
             ]
           }
         }
@@ -1834,7 +1834,7 @@
             "hu": "A sneeki vasútállomástól a központ pár perces sétával elérhető.",
             "ro": "Din gara Sneek, centrul este la câteva minute de mers pe jos.",
             "en": "From Sneek station, the center is a few minutes' walk away.",
-            "nl": "Vanaf station Sneek is het centrum een paar minuten lopen."
+            "nl": "Vanaf station Sneek is het centrum enkele minuten lopen."
           }
         },
         {
@@ -1886,7 +1886,7 @@
             "hu": "Kösd össze a múzeumlátogatást egy ebéddel a közeli éttermek egyikében.",
             "ro": "Combinați vizita la muzeu cu un prânz la unul dintre restaurantele din apropiere.",
             "en": "Combine the museum visit with lunch at one of the nearby restaurants.",
-            "nl": "Combineer het museumbezoek met een lunch in een van de nabijgelegen restaurants."
+            "nl": "Combineer het museumbezoek met lunch in een van de nabijgelegen restaurants."
           }
         },
         {
@@ -1895,7 +1895,7 @@
             "hu": "Buszozás a 2. klaszterhez: Sneekermeer",
             "ro": "Călătorie cu autobuzul spre Cluster 2: Sneekermeer",
             "en": "Bus ride to Cluster 2: Sneekermeer",
-            "nl": "Busrit naar Cluster 2: Sneekermeer"
+            "nl": "Bus naar Cluster 2: Sneekermeer"
           },
           "coords": [
             5.705,
@@ -1912,7 +1912,7 @@
             "hu": "Vegyél egy buszt Joure/Heerenveen irányába, és szállj le a tó közelében.",
             "ro": "Luați un autobuz spre Joure/Heerenveen și coborâți lângă lac.",
             "en": "Take a bus towards Joure/Heerenveen and get off near the lake.",
-            "nl": "Neem de bus richting Joure/Heerenveen en stap uit bij het meer."
+            "nl": "Neem een bus richting Joure/Heerenveen en stap uit bij het meer."
           }
         },
         {
@@ -1947,7 +1947,7 @@
         "hu": "Sneek tömegközlekedéssel is jól felfedezhető. A vasútállomástól könnyen elérhető a történelmi központ (1. klaszter). Töltsd a délelőttöt a nevezetességek és a hajózási múzeum felfedezésével. Délután egy busz visz a Sneekermeerhez (2. klaszter), ahol megtapasztalhatod a fríz vízi táj tágasságát. A visszaút az állomásra egyszerű, és egy változatos napot zár le.",
         "ro": "Sneek poate fi explorat cu ușurință folosind transportul public. Din gară, puteți ajunge convenabil pe jos în centrul istoric (Cluster 1). Petreceți dimineața descoperind monumentele și muzeul maritim. După-amiaza, un autobuz vă va duce la Sneekermeer (Cluster 2), unde puteți experimenta vastitatea peisajului acvatic frizian. Călătoria de întoarcere la gară este simplă și încheie o zi variată.",
         "en": "Sneek is easy to explore using public transport. From the train station, you can conveniently walk to the historic center (Cluster 1). Spend the morning discovering the landmarks and the maritime museum. In the afternoon, a bus will take you to the Sneekermeer (Cluster 2), where you can experience the vastness of the Frisian water landscape. The return trip to the station is straightforward and concludes a varied day.",
-        "nl": "Sneek is goed te verkennen met het openbaar vervoer. Vanaf het treinstation kun je lopend naar het historische centrum (Cluster 1). Breng de ochtend door met het ontdekken van bezienswaardigheden en het maritiem museum. ’s Middags brengt een bus je naar het Sneekermeer (Cluster 2), waar je de uitgestrektheid van het Friese waterlandschap ervaart. De terugreis naar het station is eenvoudig en sluit een afwisselende dag af."
+        "nl": "Sneek is gemakkelijk te verkennen met het openbaar vervoer. Vanaf het station kun je te voet snel het historische centrum (Cluster 1) bereiken. Breng de ochtend door met het ontdekken van de bezienswaardigheden en het scheepvaartmuseum. In de middag brengt een bus je naar het Sneekermeer (Cluster 2), waar je de uitgestrektheid van het Friese waterlandschap kunt ervaren. De terugreis naar het station is eenvoudig en vormt het einde van een afwisselende dag."
       },
       "gastro_picks": {
         "de": [
@@ -2145,9 +2145,9 @@
           "Ask the bus driver; they are usually very helpful."
         ],
         "nl": [
-          "Koop een OV-chipkaart of gebruik je pin/creditcard om in- en uit te checken.",
-          "Controleer busdienstregelingen van tevoren, vooral in het weekend.",
-          "De meeste bussen in Friesland worden geëxploiteerd door Arriva.",
+          "Koop een OV-chipkaart of gebruik je pin-/creditcard om in- en uit te checken.",
+          "Controleer de bustijden van tevoren, vooral in het weekend.",
+          "De meeste bussen in Fryslân worden gereden door Arriva.",
           "Vraag het de buschauffeur; ze zijn meestal erg behulpzaam."
         ]
       },
@@ -2158,7 +2158,7 @@
             "hu": "Tömegközlekedéssel kényelmesen és az időjárástól függetlenül fedezhetjük fel Sneeket. A vasútállomástól gyorsan elérjük a belvárost és a Waterpoortot. A délelőttöt a történelmi épületekben töltjük, majd a Hajózási Múzeum garantálja a száraz délutánt. Busszal jutunk el a Sneekermeerhez, ahol élvezzük a kilátást, mielőtt kényelmesen visszatérnénk az állomásra.",
             "ro": "Cu transportul public explorăm Sneek relaxați și independenți de vreme. De la gară ajungem rapid în centru la Waterpoort. Dimineața o petrecem în clădirile istorice, apoi Muzeul Maritim ne garantează o după-amiază uscată. O călătorie cu autobuzul ne duce la Sneekermeer pentru priveliști largi, înainte de a reveni confortabil la gară.",
             "en": "Explore Sneek by public transport for a relaxed and weather-proof experience. From the station, the center and Waterpoort are quickly accessible. Spend the morning visiting historic buildings before the Maritime Museum guarantees a dry afternoon. A bus ride takes you to Sneekermeer to enjoy the vast views, followed by a comfortable return trip to the station.",
-            "nl": "Ontdek Sneek met het openbaar vervoer voor een ontspannen en weerbestendige ervaring. Vanaf het station zijn het centrum en de Waterpoort snel bereikbaar. Breng de ochtend door bij historische gebouwen voordat het Maritiem Museum een droge middag garandeert. Een busrit brengt je naar het Sneekermeer voor uitgestrekte vergezichten, gevolgd door een comfortabele terugreis naar het station."
+            "nl": "Verken Sneek met het openbaar vervoer voor een ontspannen en weerbestendige ervaring. Vanaf het station zijn het centrum en de Waterpoort snel te bereiken. Breng de ochtend door met het bezoeken van historische gebouwen voordat het Fries Scheepvaartmuseum de middag droog maakt. Een busrit brengt je naar het Sneekermeer om van de weidse vergezichten te genieten, gevolgd door een comfortabele terugreis naar het station."
           },
           "stops": [
             {
@@ -2168,7 +2168,7 @@
                 "hu": "Használja az állomás fedett várótermét eső esetén.",
                 "ro": "Folosiți zona de așteptare acoperită din gară în caz de ploaie.",
                 "en": "Use the covered waiting area at the station if it's raining upon arrival.",
-                "nl": "Gebruik de overdekte wachtruimte bij het station als het regent bij aankomst."
+                "nl": "Gebruik bij regen de overdekte wachtruimte op het station."
               }
             },
             {
@@ -2178,7 +2178,7 @@
                 "hu": "A belvárosi megállók közötti gyalogos utak rövidek.",
                 "ro": "Distanțele pe jos între stațiile din centru sunt scurte.",
                 "en": "Walking distances between transit stops in the center are minimal.",
-                "nl": "De loopafstanden tussen haltes in het centrum zijn minimaal."
+                "nl": "Loopafstanden tussen OV-haltes in het centrum zijn minimaal."
               }
             },
             {
@@ -2188,7 +2188,7 @@
                 "hu": "A múzeum közelében több buszmegálló is található.",
                 "ro": "Există mai multe stații de autobuz în apropierea muzeului.",
                 "en": "There are several bus stops located conveniently near the museum.",
-                "nl": "Er zijn meerdere bushaltes handig gelegen nabij het museum."
+                "nl": "Er zijn meerdere bushaltes op loopafstand van het museum."
               }
             },
             {
@@ -2198,7 +2198,7 @@
                 "hu": "A buszok rossz idő esetén is megbízhatóan közlekednek.",
                 "ro": "Autobuzele circulă regulat chiar și pe timp nefavorabil.",
                 "en": "Buses run reliably even during periods of heavy rain.",
-                "nl": "Bussen rijden betrouwbaar, zelfs tijdens zware regenbuien."
+                "nl": "Bussen rijden betrouwbaar, zelfs bij zware regen."
               }
             },
             {
@@ -2208,7 +2208,7 @@
                 "hu": "Ellenőrizze az indulást online, hogy ne kelljen az esőben várnia.",
                 "ro": "Verificați orele de plecare online pentru a nu aștepta în ploaie.",
                 "en": "Check departure times online to avoid waiting outside in the rain.",
-                "nl": "Controleer vertrektijden online om wachten in de regen te vermijden."
+                "nl": "Bekijk vertrektijden online om wachten in de regen te voorkomen."
               }
             }
           ],
@@ -2238,10 +2238,10 @@
               "The Arriva app provides real-time information for all local connections."
             ],
             "nl": [
-              "De OV-chipkaart is de makkelijkste manier om bus- en treinreizen te betalen.",
-              "De busfrequentie naar het Sneekermeer kan op regenachtige dagen variëren; controleer de dienstregeling.",
+              "De OV-chipkaart is de gemakkelijkste manier om te betalen voor bus- en treinreizen.",
+              "De frequentie van bussen naar het Sneekermeer kan op regenachtige dagen variëren; controleer de dienstregeling.",
               "Friese treinstations zijn vaak winderig; kleed je warm aan.",
-              "De Arriva-app geeft realtime informatie voor alle lokale verbindingen."
+              "De Arriva-app biedt realtime informatie over alle lokale verbindingen."
             ]
           }
         },
@@ -2251,7 +2251,7 @@
             "hu": "A téli vonatozás Sneekbe hangulatos, és kilátást nyújt a fagyos tájra. Az állomástól a Waterpoorthoz sétálunk, majd a Martinikerkben melegszünk fel. A Hajózási Múzeum délután barátságos menedéket nyújt. Egy buszos kirándulás a Sneekermeerhez megmutatja Frízföld téli arcát, mielőtt a napot a kivilágított belvárosban zárnánk.",
             "ro": "Călătoria cu trenul spre Sneek iarna este primitoare și oferă vederi asupra peisajului înghețat. De la gară mergem spre Waterpoort și ne încălzim în Martinikerk. Muzeul Maritim oferă o atmosferă caldă după-amiaza. O excursie cu autobuzul la Sneekermeer arată întinderea hibernală a Friziei, înainte de a încheia ziua în centrul iluminat.",
             "en": "Winter train travel to Sneek is cozy and offers views of the frosty landscape. Walk from the station to the Waterpoort and warm up later in the Martinikerk. The Maritime Museum provides a welcoming atmosphere in the afternoon. A bus trip to Sneekermeer showcases the winter expanse of Friesland before ending the day in the beautifully lit city center.",
-            "nl": "Winterse treinreis naar Sneek is gezellig en biedt uitzicht op het rijpige landschap. Loop vanaf het station naar de Waterpoort en warm later op in de Martinikerk. Het Maritiem Museum biedt ’s middags een gastvrije sfeer. Een busrit naar het Sneekermeer toont de winterse uitgestrektheid van Friesland voordat de dag eindigt in het sfeervol verlichte stadscentrum."
+            "nl": "Winterse treinreizen naar Sneek zijn gezellig en bieden uitzichten op het rijpe landschap. Loop van het station naar de Waterpoort en warm later op in de Martinikerk. Het Fries Scheepvaartmuseum biedt ’s middags een gastvrije sfeer. Een busrit naar het Sneekermeer toont de winterse uitgestrektheid van Fryslân voordat de dag eindigt in het sfeervol verlichte stadscentrum."
           },
           "stops": [
             {
@@ -2261,7 +2261,7 @@
                 "hu": "A vonatok extrém téli időjárás esetén késhetnek.",
                 "ro": "Trenurile pot avea întârzieri în caz de vreme hibernală extremă.",
                 "en": "Trains may experience delays during extreme winter weather conditions.",
-                "nl": "Treinen kunnen vertraging oplopen bij extreem winterweer."
+                "nl": "Treinen kunnen vertraging oplopen bij extreme winterse weersomstandigheden."
               }
             },
             {
@@ -2291,7 +2291,7 @@
                 "hu": "Télen kevesebb busz jár a tóhoz; figyelje a menetrendet.",
                 "ro": "Iarna circulă mai puține autobuze spre lac; verificați orarul.",
                 "en": "Fewer buses run to the lake in winter; be sure to check the timetable.",
-                "nl": "In de winter rijden er minder bussen naar het meer; check de vertrektijden."
+                "nl": "In de winter rijden er minder bussen naar het meer; controleer de dienstregeling."
               }
             },
             {
@@ -2331,10 +2331,10 @@
               "Noise-cancelling headphones can make the ride through the quiet winter landscape even more enjoyable."
             ],
             "nl": [
-              "Reken extra tijd voor je reis aangezien winterweer de dienstregeling kan verstoren.",
-              "Wacht waar mogelijk binnen verwarmde ruimtes om warm te blijven tussen aansluitingen.",
-              "De vroege zonsondergang kan navigeren in onbekende gebieden lastiger maken.",
-              "Noise-cancelling koptelefoons kunnen de rit door het stille winterlandschap aangenamer maken."
+              "Reken extra reistijd doordat winterweer de dienstregeling kan verstoren.",
+              "Wacht waar mogelijk binnen verwarmde ruimtes om warm te blijven tussen overstappen.",
+              "De vroege zonsondergang kan het navigeren in onbekend terrein lastiger maken.",
+              "Noise-cancelling koptelefoons kunnen de rit door het stille winterlandschap nog aangenamer maken."
             ]
           }
         }

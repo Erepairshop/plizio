@@ -63,7 +63,7 @@
             "hu": "Fedezze fel a kis butikokat és a történelmi házakat ebben a bájos utcában.",
             "ro": "Descoperiți micile buticuri și casele istorice de pe această stradă fermecătoare.",
             "en": "Discover the small boutiques and historic houses on this charming street.",
-            "nl": "Ontdek de kleine boetiekjes en historische panden in deze charmante straat."
+            "nl": "Ontdek de kleine boetiekjes en historische huizen in deze charmante straat."
           }
         },
         {
@@ -113,7 +113,7 @@
             "hu": "Ebédeljen a folyóra néző kávézók egyikében.",
             "ro": "Savurați prânzul la una dintre cafenelele cu vedere la râu.",
             "en": "Enjoy lunch at one of the cafes overlooking the river.",
-            "nl": "Geniet van een lunch bij een van de cafés met uitzicht op de rivier."
+            "nl": "Geniet van de lunch bij een van de cafés met uitzicht op de rivier."
           }
         },
         {
@@ -172,7 +172,7 @@
         "hu": "A venlói nap a történelmi Városházánál, a város szívében kezdődik. Délelőtt a Jodenstraaton és a Szent Martin-templomnál sétálva szívja magába a helyi történelmet. Délben a Maas-sétányon pihenhet, élvezheti a kilátást és egy finom ebédet. Délután a Limburgi Múzeumban merül el a régió kultúrájában. A napot a zöld Julianna parkban fejezi be, elmélkedve a Maas-parti bájos város számos benyomásán.",
         "ro": "Ziua dvs. în Venlo începe la istorica Stadhuis, inima orașului. Dimineața, vă plimbați pe Jodenstraat și la Biserica Sf. Martin pentru a absorbi istoria locală. La prânz, vă relaxați pe Maasboulevard, bucurându-vă de priveliște și de un prânz delicios. După-amiaza, vă scufundați în cultura regiunii la Muzeul Limburgs. Încheiați ziua într-un mod relaxant în verdele Parc Juliana, reflectând la numeroasele impresii ale acestui oraș fermecător de pe malul Meusei.",
         "en": "Your day in Venlo begins at the historic Stadhuis, the heart of the city. In the morning, you'll stroll through Jodenstraat and to St. Martin's Church to soak up the local history. At noon, you'll relax on the Maasboulevard, enjoying the view and a delicious lunch. In the afternoon, immerse yourself in the region's culture at the Limburgs Museum. You'll end the day leisurely in the green Julianapark, reflecting on the many impressions of this charming city on the Meuse.",
-        "nl": "Je dag in Venlo begint bij het historische Stadhuis, het hart van de stad. ’s Ochtends slenter je door de Jodenstraat naar de Sint-Martinuskerk om de lokale geschiedenis in je op te nemen. ’s Middags ontspan je op de Maasboulevard, genietend van het uitzicht en een heerlijke lunch. In de namiddag dompel je jezelf onder in de cultuur van de regio in het Limburgs Museum. Je sluit de dag rustig af in het groene Julianapark en denkt na over de vele indrukken van deze charmante stad aan de Maas."
+        "nl": "Je dag in Venlo begint bij het historische Stadhuis, het hart van de stad. ’s Ochtends wandel je door de Jodenstraat naar de Sint-Martinuskerk om de lokale geschiedenis in je op te nemen. Rond het middaguur ontspan je op de Maasboulevard, genietend van het uitzicht en een heerlijke lunch. In de middag duik je in de regio­cultuur in het Limburgs Museum. Je eindigt de dag rustig in het groene Julianapark, nagenietend van de vele indrukken van deze charmante stad aan de Maas."
       },
       "gastro_picks": {
         "de": [
@@ -370,10 +370,10 @@
           "A detour into the smaller alleys off the main streets is always worthwhile."
         ],
         "nl": [
-          "Draag comfortabele schoenen, want het centrum is compact en goed begaanbaar.",
-          "De meeste bezienswaardigheden liggen dicht bij elkaar, wat een ontspannen rondgang mogelijk maakt.",
+          "Draag comfortabele schoenen; het stadscentrum is compact en zeer geschikt om te voet te verkennen.",
+          "De meeste bezienswaardigheden liggen dicht bij elkaar, waardoor een ontspannen rondgang mogelijk is.",
           "Let op de vele terrassen voor een koffiepauze.",
-          "Een omweg door de kleinere straatjes naast de hoofdstraten is altijd de moeite waard."
+          "Een omweg door de kleinere steegjes naast de hoofdstraten is altijd de moeite waard."
         ]
       },
       "variants": {
@@ -383,7 +383,7 @@
             "hu": "A séta az 1597-es reneszánsz városházánál indul, ahol az árkádok nyújtanak elsőként menedéket. Délben a Jodenstraat szűk utcái védenek a szitáló esőtől. A délutánt a Szent Márton-templom belső tereiben és a Limburgs Museum kiállításai között töltjük szárazon. Az estét a vasútállomás környékén zárjuk, miközben az eső a Maas folyó felszínét borzolja.",
             "ro": "Plimbarea începe la primăria renascentistă din 1597, unde arcadele oferă primul adăpost. La prânz, străzile înguste din Jodenstraat protejează de ploaie. După-amiaza este dedicată interiorului bisericii Sf. Martin și expozițiilor de la Limburgs Museum. Încheiem ziua la adăpost, lângă gară, în timp ce ploaia lovește suprafața râului Maas.",
             "en": "The walk starts at the 1597 Renaissance City Hall, where the arches offer initial shelter. At noon, the narrow Jodenstraat provides cover from the drizzle. Spend the afternoon dry inside St. Martin's Church and exploring the Limburgs Museum. End the day near the station area, watching the rain hit the Maas river while staying indoors.",
-            "nl": "De wandeling begint bij het renaissancestadhuis uit 1597, waar de bogen aanvankelijk beschutting bieden. ’s Middags biedt de smalle Jodenstraat dekking tegen de motregen. Breng de namiddag droog door in de Sint-Martinuskerk en bij het verkennen van het Limburgs Museum. Sluit de dag af in de buurt van het stationsgebied, kijkend hoe de regen op de Maas slaat terwijl je binnen blijft."
+            "nl": "De wandeling start bij het Renaissance-Stadhuis uit 1597, waar de bogen aanvankelijk beschutting bieden. Rond het middaguur biedt de smalle Jodenstraat dekking tegen de motregen. Breng de middag droog door in de Sint-Martinuskerk en bij het verkennen van het Limburgs Museum. Sluit de dag af bij het station, waar je de regen op de Maas kunt zien slaan terwijl je binnen blijft."
           },
           "stops": [
             {
@@ -393,7 +393,7 @@
                 "hu": "Használja az 1597-es városháza árkádjait eső elleni védelemként.",
                 "ro": "Folosiți arcadele primăriei din 1597 ca adăpost împotriva ploii.",
                 "en": "Use the arches of the 1597 city hall as shelter from the rain.",
-                "nl": "Gebruik de bogen van het stadhuis uit 1597 als beschutting tegen de regen."
+                "nl": "Gebruik de bogen van het Stadhuis uit 1597 als beschutting tegen de regen."
               }
             },
             {
@@ -423,7 +423,7 @@
                 "hu": "Vigyázat, a folyóparti burkolat esőben csúszóssá válhat.",
                 "ro": "Atenție la pavajul alunecos direct pe malul râului.",
                 "en": "Watch out for slippery pavement directly on the riverbank.",
-                "nl": "Let op gladde bestrating direct aan de rivierkant."
+                "nl": "Pas op voor gladde stoeptegels direct langs de rivierkant."
               }
             },
             {
@@ -433,7 +433,7 @@
                 "hu": "Tökéletes időzítés egy hosszabb, fedett múzeumlátogatáshoz.",
                 "ro": "Moment perfect pentru o vizită prelungită la muzeu, la adăpost.",
                 "en": "Perfect timing for an extended indoor museum visit.",
-                "nl": "Perfect moment voor een verlengd bezoek aan een binnenmuseum."
+                "nl": "Perfect moment voor een uitgebreid binnenbezoek aan het museum."
               }
             },
             {
@@ -477,11 +477,11 @@
               "Check the wind forecast as it can be very drafty by the river."
             ],
             "nl": [
-              "Draag waterdichte schoenen voor de kasseien in de oude binnenstad.",
-              "Het Limburgs Museum is vrijwel droog bereikbaar vanaf het station.",
+              "Draag waterdichte schoenen voor de kasseien in de oude stad.",
+              "Het Limburgs Museum is bijna droog bereikbaar direct vanaf het station.",
               "De passages bij de Maasboulevard bieden overdekte winkelmogelijkheden.",
               "De Sint-Martinuskerk biedt een rustige, droge plek voor een pauze.",
-              "Controleer de windverwachting, want het kan erg winderig zijn bij de rivier."
+              "Controleer de windvoorspelling, want het kan erg winderig zijn bij de rivier."
             ]
           }
         },
@@ -491,7 +491,7 @@
             "hu": "Reggelente gyakran dér fedi a városháza oromzatait a történelmi séta kezdetén. Délben a Jodenstraat kávézóiban melegszünk fel. A délutánt a Maas-parti korai naplemente határozza meg, amely arany fénybe vonja a folyót. A túrát a kivilágított Limburgs Museumban zárjuk, mielőtt délután 5-kor teljesen besötétedik.",
             "ro": "Dimineața, bruma acoperă adesea frontoanele primăriei la începutul turului istoric. La prânz, ne încălzim în cafenelele de pe Jodenstraat. După-amiaza este marcată de apusul timpuriu pe malul râului Maas. Încheiem turul la Limburgs Museum, bine iluminat, înainte ca întunericul să se lase la ora 17:00.",
             "en": "Frost often covers the gables of the City Hall as we begin our morning historic tour. At noon, warm up in the cozy cafes of Jodenstraat. The afternoon features an early sunset over the Maas, casting golden light on the water. We conclude the tour at the brightly lit Limburgs Museum before darkness falls at 5 PM.",
-            "nl": "Vroeg in de ochtend bedekken rijpe randen van het Stadhuis vaak met rijp tijdens onze historische tour. Rond het middaguur warm je op in de gezellige cafés van de Jodenstraat. De namiddag brengt een vroege zonsondergang boven de Maas, die het water in gouden licht zet. We besluiten de rondgang bij het fel verlichte Limburgs Museum voordat het om 17:00 uur donker wordt."
+            "nl": "Rijp bedekt vaak de geveltoppen van het Stadhuis als we onze ochtendhistorie­tour beginnen. Rond het middaguur warm je op in de gezellige cafés van de Jodenstraat. De middag kenmerkt zich door een vroege zonsondergang over de Maas, die goud licht op het water werpt. We beëindigen de rondleiding in het helder verlichte Limburgs Museum voordat het om 17:00 donker wordt."
           },
           "stops": [
             {
@@ -501,7 +501,7 @@
                 "hu": "Vigyázzon a jegesedésre a városháza előtti piactéren.",
                 "ro": "Atenție la polei în piața centrală din fața primăriei.",
                 "en": "Be careful of black ice on the market square in front of City Hall.",
-                "nl": "Wees voorzichtig voor ijzel op de markt voor het stadhuis."
+                "nl": "Wees voorzichtig voor zwarte ijsplekken op de markt voor het Stadhuis."
               }
             },
             {
@@ -511,7 +511,7 @@
                 "hu": "Ideális hely egy forró italra az egyik történelmi házban.",
                 "ro": "Loc ideal pentru o băutură caldă într-una dintre casele istorice.",
                 "en": "Ideal spot for a hot drink inside one of the historic houses.",
-                "nl": "Ideale plek voor een warme drank binnen een van de historische panden."
+                "nl": "Ideale plek voor een warme drank binnen in een van de historische huizen."
               }
             },
             {
@@ -541,7 +541,7 @@
                 "hu": "A múzeum jól fűtött, kellemes menedéket nyújt a hideg elől.",
                 "ro": "Muzeul este bine încălzit și oferă un refugiu primitor.",
                 "en": "The museum is well-heated and provides a warm refuge.",
-                "nl": "Het museum is goed verwarmd en biedt een warm toevluchtsoord."
+                "nl": "Het museum is goed verwarmd en biedt een warme toevluchtsoord."
               }
             },
             {
@@ -551,7 +551,7 @@
                 "hu": "Látogasson el a parkba 16:30 előtt, mielőtt sötétedni kezd.",
                 "ro": "Vizitați parcul înainte de ora 16:30, când începe să se întunece.",
                 "en": "Visit the park before 4:30 PM before it gets dark.",
-                "nl": "Bezoek het park vóór 16:30 uur voordat het donker wordt."
+                "nl": "Bezoek het park voor 16:30 voordat het donker wordt."
               }
             }
           ],
@@ -585,10 +585,10 @@
               "The historic old town is often festively lit during winter."
             ],
             "nl": [
-              "De zon gaat rond 16:30 uur onder in december.",
-              "Vermijd onverlichte stukken van de rivierbank na donker uit veiligheidsoverwegingen.",
-              "Warme handschoenen zijn essentieel vanwege de vochtige rivierlucht.",
-              "Het Limburgs Museum is een uitstekende plek om binnen op te warmen.",
+              "De zon gaat rond 16:30 onder in december.",
+              "Vermijd onverlichte gedeelten van de rivieroever na donker uit veiligheidsoverwegingen.",
+              "Warme handschoenen zijn essentieel door de vochtige rivierlucht.",
+              "Het Limburgs Museum is een uitstekende warme binnenplek.",
               "De historische binnenstad is in de winter vaak feestelijk verlicht."
             ]
           }
@@ -625,7 +625,7 @@
             "hu": "Kezdje a napot friss szellővel és a folyóra nyíló kilátással.",
             "ro": "Începeți ziua cu o briză proaspătă și o vedere la râu.",
             "en": "Start the day with a fresh breeze and a view of the river.",
-            "nl": "Begin de dag met een frisse bries en een uitzicht op de rivier."
+            "nl": "Begin de dag met een frisse bries en uitzicht op de rivier."
           }
         },
         {
@@ -650,7 +650,7 @@
             "hu": "Tegye le a biciklit, és fedezze fel gyalog a nyüzsgő teret.",
             "ro": "Parcați bicicleta și explorați piața aglomerată pe jos.",
             "en": "Park your bike and explore the bustling square on foot.",
-            "nl": "Zet je fiets neer en verken het levendige plein te voet."
+            "nl": "Zet je fiets neer en verken het drukke plein te voet."
           }
         },
         {
@@ -675,7 +675,7 @@
             "hu": "A múzeum előtt közvetlenül vannak kerékpártárolók.",
             "ro": "Există suporturi pentru biciclete chiar în fața muzeului.",
             "en": "There are bike racks right in front of the museum.",
-            "nl": "Er zijn fietsstallingen direct voor het museum."
+            "nl": "Er zijn fietsenrekken direct voor het museum."
           }
         },
         {
@@ -725,7 +725,7 @@
             "hu": "Látogasson el virágzáskor (június-augusztus) a legszebb látványért.",
             "ro": "Vizitați în timpul sezonului de înflorire (iunie-august) pentru cea mai frumoasă priveliște.",
             "en": "Visit during the blooming season (June-August) for the most beautiful views.",
-            "nl": "Bezoek tijdens het bloeiseizoen (juni–augustus) voor de mooiste aanblik."
+            "nl": "Bezoek tijdens de bloeiperiode (juni–augustus) voor de mooiste aanblik."
           }
         }
       ],
@@ -734,7 +734,7 @@
         "hu": "A venlói kerékpártúra a festői Maas-sétányon kezdődik. Délelőtt a város szívébe, a Városházához és a Piactérre teker, mielőtt a Limburgi Múzeumban mélyen elmerülne a kultúrában. Délben a Julianna park várja egy nyugodt pihenőre a zöldben, talán egy piknikkel. A délután a városon keresztül az illatos Rózsakertbe vezet, amely tökéletes hely a színpompás látvány élvezetére. Végül kényelmesen visszateker, és lezárja a napot.",
         "ro": "Turul dvs. cu bicicleta în Venlo începe pe pitorescul Maasboulevard. Dimineața, pedalați în inima orașului, la Primărie și în Piață, înainte de a vă adânci în cultură la Muzeul Limburgs. La prânz, Parcul Juliana vă așteaptă pentru o pauză relaxantă în verdeață, poate cu un picnic. După-amiaza vă duce prin oraș la Rozariul parfumat, un loc perfect pentru a vă bucura de splendoarea culorilor. În cele din urmă, pedalați înapoi pe îndelete și încheiați ziua.",
         "en": "Your bike tour in Venlo starts on the picturesque Maasboulevard. In the morning, you'll cycle into the heart of the city to the City Hall and Market Square before delving deep into culture at the Limburgs Museum. At noon, Julianapark awaits you for a relaxing break in the green, perhaps with a picnic. The afternoon takes you through the city to the fragrant Rosarium, a perfect place to enjoy the splendor of colors. Finally, you'll cycle back leisurely and end the day.",
-        "nl": "Je fietstocht in Venlo begint op de schilderachtige Maasboulevard. ’s Ochtends fiets je het stadscentrum in naar het Stadhuis en het Marktplein voordat je je verdiept in cultuur in het Limburgs Museum. Rond het middaguur wacht Julianapark op je voor een ontspannen pauze in het groen, eventueel met een picknick. De namiddag voert je door de stad naar het geurige Rosarium, een perfecte plek om van de kleurpracht te genieten. Ten slotte fiets je rustig terug en eindig je de dag."
+        "nl": "Je fietstocht in Venlo begint op de pittoreske Maasboulevard. ’s Ochtends fiets je naar het hart van de stad naar het Stadhuis en het Marktplein voordat je je verdiept in cultuur in het Limburgs Museum. Rond het middaguur wacht het Julianapark voor een ontspannen pauze in het groen, misschien met een picknick. In de middag leidt de route door de stad naar het geurende Rosarium, een perfecte plek om van het kleurenpalet te genieten. Uiteindelijk fiets je rustig terug en rond je de dag af."
       },
       "gastro_picks": {
         "de": [
@@ -932,10 +932,10 @@
           "A bike tour along the Meuse offers beautiful views and a flat route."
         ],
         "nl": [
-          "Venlo is zeer fietsvriendelijk; profiteer van de goed ontwikkelde fietspaden.",
-          "Zet je fiets altijd goed op slot, vooral in het stadscentrum.",
-          "Let op de 'fietstraten', waar fietsers voorrang hebben.",
-          "Een fietstocht langs de Maas biedt mooie vergezichten en een vlakke route."
+          "Venlo is zeer fietsvriendelijk; maak gebruik van de goed ontwikkelde fietspaden.",
+          "Zet je fiets altijd stevig op slot, vooral in het stadscentrum.",
+          "Let op de fietstraten, waar fietsers voorrang hebben.",
+          "Een fietstocht langs de Maas biedt mooie uitzichten en een vlakke route."
         ]
       },
       "variants": {
@@ -945,7 +945,7 @@
             "hu": "A kerékpártúra a Maasboulevardon halad, ahol az aszfalt csillog az esőben. Délben a Limburgs Museum hosszú, száraz szünetet kínál biztonságos tárolókkal. Délután a Julianaparkot és a Rosariumot fedezzük fel, szigorúan a kiépített kerékpárutakon maradva. Az eső ellenére Venlo két keréken is jól bejárható a megfelelő öltözetben.",
             "ro": "Turul cu bicicleta urmează Maasboulevard, unde asfaltul strălucește sub ploaie. La prânz, Limburgs Museum oferă o pauză lungă și uscată, cu rastele sigure. După-amiaza explorăm Julianapark și Rosarium, rămânând pe pistele betonate. În ciuda ploii, Venlo rămâne accesibil pe două roți cu echipamentul potrivit.",
             "en": "The bike tour follows the Maasboulevard, where the asphalt glistens in the rain. At noon, the Limburgs Museum offers a long dry break with secure bike racks. In the afternoon, explore Julianapark and the Rosarium, sticking strictly to the paved bike paths. Despite the rain, Venlo remains cyclable with the right waterproof gear.",
-            "nl": "De fietstocht volgt de Maasboulevard, waar het asfalt in de regen glanst. Rond het middaguur biedt het Limburgs Museum een lange droge pauze met veilige fietsenstallingen. In de namiddag verken je Julianapark en het Rosarium en houd je je strikt aan de verharde fietspaden. Ondanks de regen blijft Venlo begaanbaar met de juiste waterdichte kleding."
+            "nl": "De fietstocht volgt de Maasboulevard, waar het asfalt glanst in de regen. Rond het middaguur biedt het Limburgs Museum een lange, droge pauze met veilige fietsenrekken. In de middag verken je Julianapark en het Rosarium, en blijf je strikt op de verharde fietspaden. Ondanks de regen blijft Venlo goed fietsbaar met de juiste waterdichte uitrusting."
           },
           "stops": [
             {
@@ -955,7 +955,7 @@
                 "hu": "Vigyázat: a kerékpárút felfestései nedvesen csúszhatnak.",
                 "ro": "Atenție: marcajele de pe pistă pot fi alunecoase când sunt ude.",
                 "en": "Caution: bike path markings can be slippery when wet.",
-                "nl": "Let op: markeringen van het fietspad kunnen glad zijn als ze nat zijn."
+                "nl": "Let op: wegmarkeringen voor fietsers kunnen glad zijn bij nat weer."
               }
             },
             {
@@ -965,7 +965,7 @@
                 "hu": "A piaci macskakő lassabb tempót igényel esőben.",
                 "ro": "Pavajul de la piață necesită viteză redusă pe ploaie.",
                 "en": "The market cobblestones require slower speeds in the rain.",
-                "nl": "De marktkasseien vereisen lagere snelheden bij regen."
+                "nl": "De marktkeien vereisen lagere snelheid bij regen."
               }
             },
             {
@@ -975,7 +975,7 @@
                 "hu": "Használja a közvetlenül a bejáratnál lévő fedett tárolókat.",
                 "ro": "Folosiți suporturile de biciclete acoperite de la intrare.",
                 "en": "Use the covered bike racks located right at the entrance.",
-                "nl": "Gebruik de overdekte fietsenstallingen direct bij de ingang."
+                "nl": "Gebruik de overdekte fietsenrekken bij de ingang."
               }
             },
             {
@@ -985,7 +985,7 @@
                 "hu": "Kerülje a füves területeket; maradjon a főutakon.",
                 "ro": "Evitați zonele cu iarbă; rămâneți pe aleile principale.",
                 "en": "Avoid grassy areas; stick to the main paved paths.",
-                "nl": "Vermijd grasrijke stukken; blijf op de hoofdverharde paden."
+                "nl": "Vermijd grasvelden; houd je aan de hoofdverharde paden."
               }
             },
             {
@@ -995,7 +995,7 @@
                 "hu": "A pavilon rövid menedéket nyújt hirtelen zápor esetén.",
                 "ro": "Pavilionul oferă un scurt adăpost în caz de aversă.",
                 "en": "The pavilion offers short-term shelter during showers.",
-                "nl": "Het paviljoen biedt kortstondige beschutting tijdens buien."
+                "nl": "Het paviljoen biedt tijdelijke beschutting tijdens buien."
               }
             }
           ],
@@ -1030,10 +1030,10 @@
             ],
             "nl": [
               "Vermijd plots remmen op natte kasseien in het stadscentrum.",
-              "Volledige waterdichte uitrusting (broek + jas) wordt sterk aanbevolen.",
-              "De zichtbaarheid kan verminderd zijn door opspattend water nabij de rivierkant.",
-              "Gebruik het fietsstation bij het treinstation voor droge stalling.",
-              "Fietsverlichting is verplicht overdag bij somber weer."
+              "Volledige waterdichte kleding (broek + jas) wordt sterk aangeraden.",
+              "Zicht kan verminderd zijn door opspattend water bij de oever.",
+              "Gebruik het fietsstation bij het station voor droge opslag.",
+              "Fietsverlichting is verplicht overdag bij slecht zicht."
             ]
           }
         },
@@ -1043,7 +1043,7 @@
             "hu": "A téli kerékpártúra frissen indul a szeles Maasboulevardon. Délben a Limburgs Museum ideális felmelegedési pontot kínál. Délután a Julianaparkon át tekerünk, ahol a kopasz fák messzi kilátást engednek. Mivel télen korán sötétedik, a központba való visszatérést 16:30-ra tervezzük, amikor kigyúlnak a város fényei.",
             "ro": "Turul de iarnă cu bicicleta începe în forță pe faleza vântoasă a râului Maas. La prânz, Limburgs Museum oferă o pauză ideală pentru încălzire. După-amiaza trece prin Julianapark, unde arborii desfrunziți permit vizibilitatea la distanță. Deoarece se întunecă devreme, plănuim revenirea în centru la 16:30.",
             "en": "The winter bike tour starts briskly on the windy Maasboulevard. At noon, the Limburgs Museum provides an ideal warming break. The afternoon route goes through Julianapark, where bare trees offer long vistas. Since it gets dark early in winter, we plan to return to the center by 4:30 PM as the city lights come on.",
-            "nl": "De winterfietstocht begint fris op de winderige Maasboulevard. Rond het middaguur biedt het Limburgs Museum een ideale opwarmpauze. De namiddagt route gaat door Julianapark, waar kale bomen lange vergezichten geven. Omdat het in de winter vroeg donker wordt, plannen we terugkeer naar het centrum vóór 16:30 uur wanneer de stadsverlichting aangaat."
+            "nl": "De winterfietstocht begint fris op de winderige Maasboulevard. Rond het middaguur biedt het Limburgs Museum een ideale opwarmpauze. De middagroute loopt door het Julianapark, waar kale bomen lange doorkijkjes geven. Omdat het vroeg donker wordt in de winter, plannen we terugkeer naar het centrum om 16:30 wanneer de stadslichten aangaan."
           },
           "stops": [
             {
@@ -1053,7 +1053,7 @@
                 "hu": "A szélálló ruházat itt fontos a nyitott terület miatt.",
                 "ro": "Îmbrăcămintea rezistentă la vânt este esențială aici.",
                 "en": "Windproof clothing is essential here due to the exposed location.",
-                "nl": "Winddichte kleding is hier essentieel vanwege de blootgestelde ligging."
+                "nl": "Winddichte kleding is hier essentieel vanwege de open ligging."
               }
             },
             {
@@ -1063,7 +1063,7 @@
                 "hu": "Vigyázzon a kőlapokon megfagyott pára miatti csúszásveszélyre.",
                 "ro": "Atenție la riscul de alunecare pe plăcile de piatră înghețate.",
                 "en": "Watch out for slippery conditions on frozen dew on the stone slabs.",
-                "nl": "Let op gladde omstandigheden door bevroren dauw op de steenplaten."
+                "nl": "Pas op voor gladheid door bevroren dauw op de stenen platen."
               }
             },
             {
@@ -1073,7 +1073,7 @@
                 "hu": "Jó alkalom az átfagyott ujjak felmelegítésére.",
                 "ro": "O oportunitate bună de a vă încălzi degetele înghețate.",
                 "en": "Great opportunity to warm up your stiff fingers inside.",
-                "nl": "Geweldige gelegenheid om stijve vingers binnen op te warmen."
+                "nl": "Geweldige gelegenheid om binnen je stijve vingers op te warmen."
               }
             },
             {
@@ -1083,7 +1083,7 @@
                 "hu": "Talajmenti fagy esetén az utak kemények és csúszósak lehetnek.",
                 "ro": "Aleile pot fi foarte tari și alunecoase în caz de îngheț.",
                 "en": "Paths can be very hard and slippery during ground frost.",
-                "nl": "Paden kunnen erg hard en glad zijn bij grondvorst."
+                "nl": "Paden kunnen bij grondvorst erg hard en glad worden."
               }
             },
             {
@@ -1093,7 +1093,7 @@
                 "hu": "Télen kopár, de a zúzmara miatt építészetileg érdekes látvány.",
                 "ro": "Golaș iarna, dar interesant arhitectural datorită chiciurei.",
                 "en": "Bare in winter, but architecturally interesting with the frost.",
-                "nl": "Kaal in de winter, maar architectonisch interessant met de rijp."
+                "nl": "Kaal in de winter, maar architectonisch interessant door de vorst."
               }
             }
           ],
@@ -1127,10 +1127,10 @@
               "Choose a route with plenty of cafes for warming up."
             ],
             "nl": [
-              "Draag handschoenen; metalen handvaten voeren warmte van je handen af.",
-              "Controleer de bandenspanning; koude temperaturen verlagen de druk.",
-              "Houd rekening met de vroege zonsondergang rond 16:30 uur in december.",
-              "Vermijd fietsen direct langs het water bij sterke windkouteffecten.",
+              "Draag handschoenen; metalen handvatten voeren warmte af uit je handen.",
+              "Controleer de bandenspanning; koude temperaturen doen de druk dalen.",
+              "Let op de vroege zonsondergang rond 16:30 in december.",
+              "Vermijd fietsen direct aan het water bij sterke windkou.",
               "Kies een route met voldoende cafés om op te warmen."
             ]
           }
@@ -1167,7 +1167,7 @@
             "hu": "Parkolja le az autót, és fedezze fel gyalog a három különböző kolostort és kertet.",
             "ro": "Parcați mașina și explorați pe jos cele trei mănăstiri și grădini diferite.",
             "en": "Park your car and explore the three different monasteries and gardens on foot.",
-            "nl": "Parkeer je auto en verken de drie verschillende kloosters en tuinen te voet."
+            "nl": "Parkeer de auto en ontdek de drie verschillende kloosters en tuinen te voet."
           }
         },
         {
@@ -1271,7 +1271,7 @@
         "hu": "A nap egy rövid autóúttal kezdődik a spirituális Steyl kolostorfaluhoz. Parkolja le autóját, és fedezze fel gyalog ezt az egyedülálló helyet. Késő délelőtt visszautazik Venlo központjába, és leparkol a Maas-sétánynál ebédelni és sétálni a folyóparton. Délután, szintén a parkolóból gyalogosan, felfedezi a város történelmi szívét a Városháza körül. A nap a Van Bommel van Dam Múzeumhoz tett rövid autóúttal zárul, ahol modern művészetet élvezhet, mielőtt hazaindulna.",
         "ro": "Ziua dvs. începe cu o scurtă călătorie cu mașina spre satul mănăstiresc spiritual Steyl. Parcați mașina și explorați acest loc unic pe jos. Spre sfârșitul dimineții, vă întoarceți în centrul orașului Venlo și parcați pe Maasboulevard pentru prânz și o plimbare pe malul râului. După-amiaza, descoperiți, tot pe jos de la parcare, inima istorică a orașului în jurul Primăriei. Ziua se încheie cu o scurtă călătorie cu mașina la Muzeul van Bommel van Dam pentru a vă bucura de artă modernă înainte de a vă întoarce acasă.",
         "en": "Your day begins with a short drive to the spiritual monastery village of Steyl. Park your car and explore this unique place on foot. In the late morning, you drive back to the center of Venlo and park at the Maasboulevard for lunch and a stroll along the river. In the afternoon, also on foot from the parking lot, you discover the historic heart of the city around the City Hall. The day ends with a short drive to the Museum van Bommel van Dam to enjoy modern art before heading home.",
-        "nl": "Je dag begint met een korte autorit naar het spirituele kloosterdorp Steyl. Parkeer je auto en verken deze unieke plek te voet. In de late ochtend rijd je terug naar het centrum van Venlo en parkeer je bij de Maasboulevard voor een lunch en een wandeling langs de rivier. In de namiddag ontdek je, eveneens te voet vanaf de parkeerplaats, het historische hart van de stad rond het Stadhuis. De dag eindigt met een korte rit naar het Museum van Bommel van Dam om van moderne kunst te genieten voordat je naar huis gaat."
+        "nl": "Je dag begint met een korte rit naar het spirituele kloosterdorp Steyl. Parkeer de auto en ontdek deze bijzondere plek te voet. Tegen de late ochtend rijd je terug naar het centrum van Venlo en parkeer je bij de Maasboulevard voor lunch en een wandeling langs de rivier. In de middag ontdek je, ook te voet vanaf de parkeerplaats, het historische hart van de stad rondom het Stadhuis. De dag eindigt met een korte rit naar het Museum van Bommel van Dam om van moderne kunst te genieten voordat je naar huis gaat."
       },
       "gastro_picks": {
         "de": [
@@ -1469,10 +1469,10 @@
           "A trip to the nearby national parks De Maasduinen or De Groote Peel is also a great option for a day."
         ],
         "nl": [
-          "Controleer parkeermogelijkheden en -kosten van tevoren. Parkeergarages zijn vaak de beste optie.",
-          "Houd voldoende tijd aan voor verkeer, vooral op koopzondagen of zaterdagen.",
-          "De 'cluster-walk'-methode bespaart tijd en parkeerkosten: parkeer één keer en verken een gebied te voet.",
-          "Een uitstap naar de nabijgelegen nationale parken De Maasduinen of De Groote Peel is ook een geweldige optie voor een dagje uit."
+          "Controleer parkeermogelijkheden en -tarieven van tevoren. Parkeergarages zijn vaak de beste optie.",
+          "Reken genoeg tijd voor het verkeer, vooral op winkeldagen zoals zaterdagen.",
+          "De 'cluster-walking'-methode bespaart tijd en parkeerkosten: parkeer één keer en verken een gebied te voet.",
+          "Een uitstap naar de nabijgelegen nationale parken De Maasduinen of De Groote Peel is ook een geweldige dagoptie."
         ]
       },
       "variants": {
@@ -1482,7 +1482,7 @@
             "hu": "A túra Steyl kolostorfalujában indul, ahol a történelmi falak az esőben különösen sötétnek tűnnek. Délben a Maasboulevardon parkolunk, kihasználva az éttermek közelségét. Délután a városházát és a Museum van Bommel van Damot keressük fel; az autó száraz bázisként szolgál az állomások között. Pihentető kulturális nap a nedves idő ellenére is.",
             "ro": "Călătoria începe în satul mănăstiresc Steyl, unde zidurile istorice par mai întunecate pe ploaie. La prânz, parcăm la Maasboulevard pentru acces rapid la restaurante. După-amiaza vizităm primăria și Museum van Bommel van Dam; mașina servește ca bază uscată între opriri. O zi culturală relaxată în ciuda vremii umede.",
             "en": "The drive begins in the monastery village of Steyl, where the historic walls look particularly dark in the rain. At noon, park at Maasboulevard for quick access to restaurants. In the afternoon, visit the City Hall and Museum van Bommel van Dam; the car serves as a dry base between stops. A relaxed cultural day despite the wet weather.",
-            "nl": "De autorit begint in het kloosterdorp Steyl, waar de historische muren er bij regen extra donker uitzien. Rond het middaguur parkeer je bij de Maasboulevard voor snelle toegang tot restaurants. In de namiddag bezoek je het Stadhuis en het Museum van Bommel van Dam; de auto dient als droge basis tussen de stops. Een ontspannen culturele dag ondanks het natte weer."
+            "nl": "De rit begint in het kloosterdorp Steyl, waar de historische muren in de regen bijzonder donker lijken. Rond het middaguur parkeer je bij de Maasboulevard voor snelle toegang tot restaurants. In de middag bezoek je het Stadhuis en het Museum van Bommel van Dam; de auto fungeert als droge basis tussen de stops. Een ontspannen culturele dag ondanks het natte weer."
           },
           "stops": [
             {
@@ -1502,7 +1502,7 @@
                 "hu": "Ideális célpont esős délelőttökhöz a fedett terekben.",
                 "ro": "O destinație ideală pentru diminețile ploioase, la interior.",
                 "en": "An ideal destination for rainy mornings spent indoors.",
-                "nl": "Een ideaal doel voor regenachtige ochtenden binnenshuis."
+                "nl": "Een ideale bestemming voor regenachtige ochtenden binnen."
               }
             },
             {
@@ -1512,7 +1512,7 @@
                 "hu": "Használja a parkolóházat a száraz kiszállás érdekében.",
                 "ro": "Folosiți parcarea etajată pentru a coborî la uscat.",
                 "en": "Use the parking garage for a dry exit from the vehicle.",
-                "nl": "Gebruik de parkeergarage voor droog uitstappen uit het voertuig."
+                "nl": "Gebruik de parkeergarage voor een droge uitgang uit het voertuig."
               }
             },
             {
@@ -1532,7 +1532,7 @@
                 "hu": "Tervezzen rövid sprintet a történelmi épületek között.",
                 "ro": "Plănuiți deplasări rapide între clădirile istorice.",
                 "en": "Plan short sprints between the historic buildings.",
-                "nl": "Plan korte etappes tussen de historische gebouwen."
+                "nl": "Plan korte sprintjes tussen de historische gebouwen."
               }
             },
             {
@@ -1542,7 +1542,7 @@
                 "hu": "Élvezze a modern művészetet a világos, száraz csarnokokban.",
                 "ro": "Admirați arta modernă în sălile luminoase și uscate.",
                 "en": "Enjoy modern art in the bright, dry exhibition halls.",
-                "nl": "Geniet van moderne kunst in de lichte, droge expositieruimtes."
+                "nl": "Geniet van moderne kunst in de lichte, droge tentoonstellingszalen."
               }
             }
           ],
@@ -1576,11 +1576,11 @@
               "Use parking apps to avoid using ticket machines in the rain."
             ],
             "nl": [
-              "Controleer beschikbare plaatsen in centrale parkeergarages (P-route).",
-              "Houd een paraplu in de auto voor de wandeling naar het museum.",
-              "Vermijd parkeren dicht bij de rivier bij zware regenval (overstromingsrisico).",
+              "Controleer beschikbare plekken in centrale parkeergarages (P-route).",
+              "Houd een paraplu bij de hand in de auto voor de wandeling naar het museum.",
+              "Vermijd parkeren nabij de rivier bij zware regen (overstromingsrisico).",
               "De rit van Steyl naar het centrum duurt ongeveer 10–15 minuten.",
-              "Gebruik parkeerapps om kaartjesautomaten in de regen te vermijden."
+              "Gebruik parkeerapps om het gebruik van parkeerautomaten in de regen te vermijden."
             ]
           }
         },
@@ -1590,7 +1590,7 @@
             "hu": "Reggel a havas Steyl kolostorfalut keressük fel, ahol a kertek téli nyugalmat árasztanak. Délben visszahajtunk Venloba a Maasboulevardhoz egy meleg ebédre. A délután a van Bommel van Dam múzeumé. Az autóval rugalmasak maradunk, és elkerüljük a folyóparti metsző hideget a látnivalók közötti váltáskor.",
             "ro": "Dimineața vizităm satul mănăstiresc Steyl, unde grădinile emană o liniște hibernală. La prânz, revenim în Venlo la Maasboulevard pentru un prânz cald. După-amiaza este dedicată culturii la van Bommel van Dam. Cu mașina rămânem flexibili și evităm frigul tăios de pe malul apei între vizite.",
             "en": "In the morning, visit the snowy monastery village of Steyl, where the gardens radiate winter peace. At noon, drive back to Venlo's Maasboulevard for a warm lunch. The afternoon is dedicated to culture at van Bommel van Dam. By car, we stay flexible and avoid the biting cold along the riverbank between sights.",
-            "nl": "Bezoek ’s ochtends het besneeuwde kloosterdorp Steyl, waar de tuinen winterrust uitstralen. ’s Middags rijd je terug naar Venlo’s Maasboulevard voor een warme lunch. De middag is gewijd aan cultuur bij van Bommel van Dam. Met de auto blijven we flexibel en vermijden we de snijdende kou langs de rivier tussen de bezienswaardigheden."
+            "nl": "’s Ochtends bezoek je het besneeuwde kloosterdorp Steyl, waar de tuinen winterrust uitstralen. Rond het middaguur rijd je terug naar Venlo’s Maasboulevard voor een warme lunch. De middag is gewijd aan cultuur in van Bommel van Dam. Met de auto blijven we flexibel en vermijden we de snijdende kou langs de rivier tussen bezienswaardigheden."
           },
           "stops": [
             {
@@ -1600,7 +1600,7 @@
                 "hu": "Vigyázzon a takarítatlan parkolókra a történelmi faluban.",
                 "ro": "Atenție la parcările necurățate de zăpadă în satul istoric.",
                 "en": "Watch out for unplowed parking spots in the historic village.",
-                "nl": "Let op onverharde of niet-gewalste parkeerplaatsen in het historische dorp."
+                "nl": "Pas op voor niet-geruimde parkeerplaatsen in het historische dorp."
               }
             },
             {
@@ -1620,7 +1620,7 @@
                 "hu": "A parkolóházak megvédik az autó szélvédőjét a lefagyástól.",
                 "ro": "Parcările acoperite previn înghețarea parbrizului.",
                 "en": "Parking garages prevent your windshield from icing up.",
-                "nl": "Parkeergarages voorkomen dat je voorruit bevriest."
+                "nl": "Parkeergarages voorkomen dat je voorruit dichtvriest."
               }
             },
             {
@@ -1630,7 +1630,7 @@
                 "hu": "Rövidítse le a sétát, ha túl hideg a folyó felől fújó szél.",
                 "ro": "Scurtați plimbarea dacă vântul de pe râu este prea rece.",
                 "en": "Shorten the stroll if the wind from the river is too cold.",
-                "nl": "Kort de wandeling in als de wind vanaf de rivier te koud is."
+                "nl": "Verkort de wandeling als de wind van de rivier te koud is."
               }
             },
             {
@@ -1640,7 +1640,7 @@
                 "hu": "A piactér fagy esetén nagyon csúszós lehet.",
                 "ro": "Piața centrală poate fi foarte alunecoasă în caz de îngheț.",
                 "en": "The market square can be very slippery during frost.",
-                "nl": "Het marktplein kan bij vorst erg glad zijn."
+                "nl": "Het marktplein kan bij vorst zeer glad zijn."
               }
             },
             {
@@ -1650,7 +1650,7 @@
                 "hu": "Ideális napzárás a melegben, modern művészetek társaságában.",
                 "ro": "Final ideal de zi la căldură, admirând arta modernă.",
                 "en": "Ideal end to the day indoors with modern art.",
-                "nl": "Ideaal einde van de dag binnenshuis met moderne kunst."
+                "nl": "Ideale afsluiting van de dag binnen met moderne kunst."
               }
             }
           ],
@@ -1684,11 +1684,11 @@
               "Try to secure a parking spot close to the van Bommel van Dam museum."
             ],
             "nl": [
-              "Winterbanden zijn aan te raden als sneeuw in Nederland wordt voorspeld.",
+              "Winterbanden zijn aan te raden als sneeuw in Nederland wordt verwacht.",
               "Centrale parkeergarages zijn meestal overdekt en warmer dan buiten.",
-              "Let op beperkte zichtbaarheid door vroege mist bij de Maas.",
-              "Sommige tuinplaatsen in Steyl kunnen in de winter gesloten zijn.",
-              "Probeer een parkeerplaats dicht bij het van Bommel van Dam-museum te bemachtigen."
+              "Let op beperkt zicht door vroege mist nabij de Maas.",
+              "Sommige tuingedeelten in Steyl kunnen in de winter gesloten zijn.",
+              "Probeer een parkeerplaats dicht bij het Museum van Bommel van Dam te bemachtigen."
             ]
           }
         }
@@ -1784,7 +1784,7 @@
             "hu": "Utazás Steyl kolostorfaluba",
             "ro": "Călătorie spre Satul mănăstiresc Steyl",
             "en": "Trip to Monastery Village Steyl",
-            "nl": "Trip naar Kloosterdorp Steyl"
+            "nl": "Uitstap naar Kloosterdorp Steyl"
           },
           "coords": [
             6.145,
@@ -1819,7 +1819,7 @@
             "hu": "Nézze meg a programot egy esti koncertért vagy eseményért.",
             "ro": "Verificați programul pentru un concert sau eveniment de seară.",
             "en": "Check the schedule for an evening concert or event.",
-            "nl": "Controleer het programma voor een avondconcert of evenement."
+            "nl": "Controleer de agenda voor een avondconcert of evenement."
           },
           "hop_mode": "transit"
         }
@@ -1829,7 +1829,7 @@
         "hu": "A tömegközlekedési túra a venlói vasútállomáson kezdődik. Kezdje egy sétával a közeli Limburgi Múzeumba. Délelőtt fedezze fel az Óvárost és a Városházát, mielőtt megebédelne a Maas-sétányon. Délután busszal utazzon a csendes Steyl kolostorfaluba, az elmélkedés és a történelem helyszínére. Miután visszatért a központba, a napot a Grenswerk kulturális központban zárhatja, amely kényelmesen, ismét a vasútállomás közelében található.",
         "ro": "Turul dvs. cu transportul public începe la Gara Venlo. Începeți cu o plimbare la Muzeul Limburgs din apropiere. Dimineața, explorați Centrul Vechi și Primăria înainte de a lua prânzul pe Maasboulevard. După-amiaza, luați autobuzul spre liniștitul sat mănăstiresc Steyl, un loc de contemplație și istorie. La întoarcerea în centru, puteți încheia ziua la centrul cultural Grenswerk, situat convenabil din nou lângă gară.",
         "en": "Your public transport tour starts at Venlo Station. Begin with a walk to the nearby Limburgs Museum. In the morning, explore the Old Town and the City Hall before having lunch on the Maasboulevard. In the afternoon, take the bus to the tranquil monastery village of Steyl, a place of contemplation and history. Upon returning to the center, you can end the day at the Grenswerk cultural center, conveniently located near the station again.",
-        "nl": "Je openbaarvervoerroute start bij Station Venlo. Begin met een wandeling naar het nabijgelegen Limburgs Museum. Bezoek ’s ochtends de Oude Stad en het Stadhuis voordat je gaat lunchen op de Maasboulevard. ’s Middags neem je de bus naar het rustige kloosterdorp Steyl, een plek van bezinning en geschiedenis. Bij terugkeer in het centrum kun je de dag afsluiten bij het culturele centrum Grenswerk, handig gelegen vlakbij het station."
+        "nl": "Je openbaarvervoerrondje begint bij Station Venlo. Begin met een wandeling naar het nabijgelegen Limburgs Museum. ’s Ochtends verken je de Oude Stad en het Stadhuis voordat je luncht op de Maasboulevard. In de middag neem je de bus naar het rustige kloosterdorp Steyl, een plek van bezinning en geschiedenis. Bij terugkomst in het centrum kun je de dag afsluiten bij het cultuurcentrum Grenswerk, dat weer gunstig bij het station ligt."
       },
       "gastro_picks": {
         "de": [
@@ -2027,10 +2027,10 @@
           "From the train station, the city center is easily accessible on foot, making the start and end of the tour very convenient."
         ],
         "nl": [
-          "Koop een OV-chipkaart of een dagkaart voor voordelig gebruik van het openbaar vervoer.",
+          "Koop een OV-chipkaart of een dagkaart voor kostenefficiënt gebruik van het openbaar vervoer.",
           "Controleer de bustijden van tevoren, vooral voor de rit naar Steyl.",
-          "De meeste bussen in Nederland zijn contantloos; zorg dat je een kaart hebt om te betalen.",
-          "Vanaf het treinstation is het stadscentrum gemakkelijk te voet bereikbaar, waardoor begin en einde van de rondreis zeer handig zijn."
+          "De meeste bussen in Nederland zijn cashless; zorg dat je een kaart hebt om te betalen.",
+          "Vanaf het treinstation is het centrum gemakkelijk te voet te bereiken, wat het begin en einde van de rondleiding zeer praktisch maakt."
         ]
       },
       "variants": {
@@ -2040,7 +2040,7 @@
             "hu": "A vasútállomásra való érkezés után a Limburgs Museum csak egy ugrás – ideális esős kezdés. Délben busszal megyünk a Maasboulevardhoz egy száraz ebédre. Délután a 77-es busszal utazunk Steyl kolostorfalujába. A visszautat kényelmesen, tömegközlekedéssel tesszük meg, a várakozási időt fedett várókban töltve.",
             "ro": "După sosirea la gară, Limburgs Museum este la doar câțiva pași – ideal pentru un început ploios. La prânz, folosim autobuzul spre Maasboulevard pentru o masă la adăpost. După-amiaza luăm autobuzul 77 spre Steyl. Revenirea se face confortabil cu transportul public, așteptând în stațiile acoperite.",
             "en": "After arriving at Venlo station, the Limburgs Museum is just a stone's throw away – perfect for a rainy start. At noon, take the bus to Maasboulevard for lunch indoors. In the afternoon, ride bus 77 to the monastery village of Steyl. Return comfortably by public transit, spending any wait times in covered shelters.",
-            "nl": "Na aankomst op Station Venlo is het Limburgs Museum op korte loopafstand – perfect voor een natte start. Ga ’s middags met de bus naar de Maasboulevard voor een binnenlunch. In de namiddag neem je bus 77 naar het kloosterdorp Steyl. Keer comfortabel terug met het openbaar vervoer en breng wachttijden door in overdekte haltes."
+            "nl": "Na aankomst op station Venlo is het Limburgs Museum op een steenworp afstand – perfect voor een regenachtige start. Neem rond het middaguur de bus naar de Maasboulevard voor lunch binnen. In de namiddag neem je bus 77 naar het kloosterdorp Steyl. Keer comfortabel terug met het openbaar vervoer en breng eventuele wachttijden door in overdekte wachthuisjes."
           },
           "stops": [
             {
@@ -2060,7 +2060,7 @@
                 "hu": "Közvetlen elérés az állomás felől, minimális idő az esőben.",
                 "ro": "Accesul direct din fața gării minimizează timpul petrecut în ploaie.",
                 "en": "Direct access from the station square minimizes time in the rain.",
-                "nl": "Directe toegang vanaf het stationsplein beperkt de tijd in de regen."
+                "nl": "Directe toegang vanaf het stationsplein minimaliseert tijd in de regen."
               }
             },
             {
@@ -2070,7 +2070,7 @@
                 "hu": "A 'Centrum' buszmegálló közel van a látnivalókhoz.",
                 "ro": "Stația de autobuz 'Centrum' este aproape de atracții.",
                 "en": "The 'Centrum' bus stop is very close to the main sights.",
-                "nl": "De bushalte 'Centrum' ligt vlakbij de belangrijkste bezienswaardigheden."
+                "nl": "De bushalte 'Centrum' ligt heel dicht bij de belangrijkste bezienswaardigheden."
               }
             },
             {
@@ -2080,7 +2080,7 @@
                 "hu": "Válasszon megállóhoz közeli kávézót a rövid séta érdekében.",
                 "ro": "Alegeți cafenele aproape de stație pentru distanțe scurte.",
                 "en": "Choose cafes near the bus stop for shorter walking distances.",
-                "nl": "Kies cafés dicht bij de bushalte voor kortere loopafstanden."
+                "nl": "Kies cafés nabij de bushalte voor kortere loopafstanden."
               }
             },
             {
@@ -2100,7 +2100,7 @@
                 "hu": "Kulturális központ a folyónál, busszal jól megközelíthető.",
                 "ro": "Un punct cultural pe malul apei, accesibil ușor cu autobuzul.",
                 "en": "A cultural hotspot by the river, easily reachable by bus.",
-                "nl": "Een culturele hotspot aan de rivier, gemakkelijk bereikbaar met de bus."
+                "nl": "Een cultureel trefpunt aan de rivier, gemakkelijk bereikbaar per bus."
               }
             }
           ],
@@ -2135,10 +2135,10 @@
             ],
             "nl": [
               "Gebruik OV-chipkaart of contactloos betalen in de bus.",
-              "De Arriva-app toont realtimegegevens bij weersgerelateerde vertragingen.",
+              "De Arriva-app toont realtimegegevens bij weersvertragingen.",
               "Station Venlo biedt kluisjes voor natte bagage of tassen.",
-              "De busfrequentie naar Steyl kan variëren bij regenachtig weer.",
-              "Bushaltes in het centrum zijn grotendeels wind- en weersbestendig."
+              "De busfrequentie naar Steyl kan op regenachtige dagen variëren.",
+              "Bushokjes in het centrum zijn grotendeels wind- en weerbestendig."
             ]
           }
         },
@@ -2148,7 +2148,7 @@
             "hu": "Reggel érkezünk a fagyos Venloba vonattal. Az állomás melletti Limburgs Museum meleg kezdést biztosít. Délben busszal megyünk a téli Maasboulevardhoz. Délután a 77-es busz repít a havas Steylbe, ahol a történelmi hangulat télen különösen csendes. A napot a Grenswerknél zárjuk, mielőtt felszállnunk a fűtött vonatra.",
             "ro": "Dimineața ajungem în Venlo cu trenul. Limburgs Museum, aflat lângă gară, oferă un început călduros. La prânz, mergem cu autobuzul la Maasboulevard. După-amiaza ne duce cu autobuzul 77 în Steyl, unde atmosfera istorică este foarte liniștită iarna. Încheiem ziua la Grenswerk înainte de a lua trenul încălzit înapoi.",
             "en": "In the morning, arrive at frosty Venlo by train. The Limburgs Museum right by the station offers a warm start. At noon, take the bus to the wintry Maasboulevard. The afternoon takes us via bus 77 to snowy Steyl, where the historic atmosphere is especially quiet in winter. End the day at Grenswerk before boarding a heated train home.",
-            "nl": "Kom ’s ochtends met de trein aan in het frostige Venlo. Het Limburgs Museum vlak bij het station biedt een warme start. Ga ’s middags met de bus naar de wintry Maasboulevard. De middag brengt ons met bus 77 naar het besneeuwde Steyl, waar de historische sfeer in de winter extra stil is. Sluit de dag af bij Grenswerk voordat je in een verwarmde trein naar huis stapt."
+            "nl": "Kom ’s ochtends met de trein aan in het frostige Venlo. Het Limburgs Museum direct bij het station biedt een warme start. Neem rond het middaguur de bus naar de wintrige Maasboulevard. In de namiddag brengt bus 77 ons naar het besneeuwde Steyl, waar de historische sfeer in de winter extra stil is. Sluit de dag af bij Grenswerk voordat je in een verwarmde trein naar huis stapt."
           },
           "stops": [
             {
@@ -2168,7 +2168,7 @@
                 "hu": "Használja a ruhatárat a nehéz téli kabátok elhelyezéséhez.",
                 "ro": "Folosiți garderoba pentru hainele groase de iarnă.",
                 "en": "Use the cloakroom for your heavy winter clothing.",
-                "nl": "Gebruik de garderobe voor je zware winterkleding."
+                "nl": "Gebruik de kledingopslag voor je zware winterkleding."
               }
             },
             {
@@ -2178,7 +2178,7 @@
                 "hu": "Élvezze a kivilágított városháza látványát a szürkületben.",
                 "ro": "Admirați primăria iluminată la lăsarea serii.",
                 "en": "Enjoy the view of the illuminated City Hall at dusk.",
-                "nl": "Geniet van het uitzicht op het verlichte Stadhuis in de schemering."
+                "nl": "Geniet bij schemering van het uitzicht op het verlichte stadhuis."
               }
             },
             {
@@ -2198,7 +2198,7 @@
                 "hu": "A 77-es busz gyenge hóesésben is megbízhatóan közlekedik.",
                 "ro": "Autobuzul 77 circulă regulat chiar și pe ninsoare ușoară.",
                 "en": "Bus 77 runs reliably even during light snowfall.",
-                "nl": "Bus 77 rijdt betrouwbaar, ook bij lichte sneeuwval."
+                "nl": "Bus 77 rijdt betrouwbaar, zelfs bij lichte sneeuwval."
               }
             },
             {
@@ -2208,7 +2208,7 @@
                 "hu": "Meleg belső tér a téli nap méltó lezárásához.",
                 "ro": "Un spațiu interior călduros pentru finalul zilei de iarnă.",
                 "en": "A warm indoor space for the conclusion of your winter day.",
-                "nl": "Een warme binnenruimte om je winterdag af te ronden."
+                "nl": "Een warme binnenruimte om je winterse dag af te sluiten."
               }
             }
           ],
@@ -2242,11 +2242,11 @@
               "Plan your return journey before 6:00 PM for better frequency."
             ],
             "nl": [
-              "Treinen en bussen zijn in de regel goed verwarmd tijdens de winter.",
-              "Controleer het winterrooster (minder diensten laat in de avond).",
+              "Treinen en bussen zijn meestal goed verwarmd in de winter.",
+              "Controleer het winterrooster (minder diensten laat op de avond).",
               "De Arriva-app geeft informatie over weersgerelateerde uitval.",
-              "Gebruik de verwarmde wachtgebieden binnen Station Venlo.",
-              "Plan je terugreis vóór 18:00 uur voor een betere frequentie."
+              "Gebruik de verwarmde wachtruimtes in station Venlo.",
+              "Plan je terugreis voor 18:00 uur voor een betere frequentie."
             ]
           }
         }

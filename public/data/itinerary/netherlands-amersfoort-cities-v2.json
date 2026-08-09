@@ -48,7 +48,7 @@
             "hu": "Szent György-templom",
             "ro": "Biserica Sf. Gheorghe",
             "en": "St. George's Church",
-            "nl": "Sint Joriskerk"
+            "nl": "Sint-Joriskerk"
           },
           "coords": [
             5.3888,
@@ -65,7 +65,7 @@
             "hu": "Csodáld meg a lenyűgöző orgonát és a békés légkört.",
             "ro": "Admirați orga impresionantă și atmosfera liniștită.",
             "en": "Admire the impressive organ and the tranquil atmosphere.",
-            "nl": "Bewonder het indrukwekkende orgel en de rustige sfeer."
+            "nl": "Bewonder het indrukwekkende orgel en de rustgevende sfeer."
           }
         },
         {
@@ -117,7 +117,7 @@
             "hu": "A legjobb fotóhely a szemközti kis hídról nyílik.",
             "ro": "Cel mai bun loc pentru fotografii este de pe podul mic de vizavi.",
             "en": "The best photo spot is from the small bridge opposite it.",
-            "nl": "De beste fotoplek is vanaf het kleine bruggetje tegenover de poort."
+            "nl": "Het beste fotoplekje is vanaf het kleine bruggetje tegenover de poort."
           }
         },
         {
@@ -169,7 +169,7 @@
             "hu": "Fedezze fel Amersfoort gazdag történelmét ebben a gyönyörű épületben.",
             "ro": "Descoperiți istoria bogată a Amersfoortului în această clădire frumoasă.",
             "en": "Discover the rich history of Amersfoort in this beautiful building.",
-            "nl": "Ontdek de rijke geschiedenis van Amersfoort in dit prachtige pand."
+            "nl": "Ontdek de rijke geschiedenis van Amersfoort in dit fraaie gebouw."
           }
         },
         {
@@ -195,7 +195,7 @@
             "hu": "Egy csendes hely a nap befejezéséhez, ma étterem működik benne.",
             "ro": "Un loc liniștit pentru a încheia ziua, acum este un restaurant.",
             "en": "A quiet spot to end the day, it's now a restaurant.",
-            "nl": "Een rustige plek om de dag te eindigen; het is nu een restaurant."
+            "nl": "Een rustig plekje om de dag te eindigen; het is nu een restaurant."
           }
         }
       ],
@@ -204,7 +204,7 @@
         "hu": "Kezdje a napot az Onze Lieve Vrouwetoren megmászásával, ahonnan lenyűgöző kilátás nyílik a középkori városra. Délelőtt fedezze fel a történelmi Sint-Joriskerk-et és sétáljon végig az egyedülálló Muurhuizen mentén. Délben csodálja meg a festői Koppelpoort-ot, majd délután merüljön el a művészet világában a Mondriaanhuis-ban és a helytörténetben a Flehite Múzeumban. Fejezze be a sétát a békés Monnikendam kapunál, élvezve a csatornák esti hangulatát.",
         "ro": "Începeți ziua urcând în Onze Lieve Vrouwetoren pentru o priveliște uluitoare asupra orașului medieval. În cursul dimineții, explorați istorica Sint-Joriskerk și plimbați-vă de-a lungul unicei Muurhuizen. La prânz, admirați pitoreasca Koppelpoort, înainte de a vă scufunda în lumea artei la Mondriaanhuis și în istoria locală la Muzeul Flehite după-amiaza. Încheiați plimbarea la poarta liniștită Monnikendam, bucurându-vă de atmosfera de seară a canalelor.",
         "en": "Start your day by climbing the Onze Lieve Vrouwetoren for a breathtaking view of the medieval city. In the morning, explore the historic Sint-Joriskerk and wander along the unique Muurhuizen. At midday, admire the picturesque Koppelpoort before diving into the world of art at Mondriaanhuis and local history at Museum Flehite in the afternoon. End your walking tour at the tranquil Monnikendam gate, enjoying the evening atmosphere of the canals.",
-        "nl": "Begin je dag door de Onze Lieve Vrouwetoren te beklimmen voor een adembenemend uitzicht over de middeleeuwse stad. Verken 's ochtends de historische Sint-Joriskerk en slenter langs de unieke Muurhuizen. Rond het middaguur bewonder je de pittoreske Koppelpoort voordat je je in de wereld van kunst stort in het Mondriaanhuis en in de namiddag lokale geschiedenis ontdekt in Museum Flehite. Sluit je wandeltocht af bij de rustige Monnikendam, genietend van de avondsfeer langs de grachten."
+        "nl": "Begin uw dag met de beklimming van de Onze Lieve Vrouwetoren voor een adembenemend uitzicht over de middeleeuwse stad. Verken ’s ochtends de historische Sint-Joriskerk en slenter over de unieke Muurhuizen. Rond het middaguur bewondert u de pittoreske Koppelpoort voordat u zich in de wereld van kunst stort in het Mondriaanhuis en ’s middags de lokale geschiedenis ontdekt in Museum Flehite. Eindig uw wandeltocht bij de rustige Monnikendam, genietend van de avondstemming bij de grachten."
       },
       "gastro_picks": {
         "de": [
@@ -403,9 +403,9 @@
         ],
         "nl": [
           "Draag comfortabele schoenen; de oude straten zijn kinderkopjes.",
-          "De meeste bezienswaardigheden in het centrum liggen op korte loopafstand.",
-          "Neem een herbruikbare waterfles mee; er zijn openbare fonteinen beschikbaar.",
-          "Verdwaal in de kleine steegjes; daar vind je de beste ontdekkingen."
+          "De meeste bezienswaardigheden in het centrum liggen op loopafstand.",
+          "Neem een herbruikbare waterfles mee; er zijn openbare fonteinpunten.",
+          "Verdwaal in de smalle steegjes; daar doet u de beste ontdekkingen."
         ]
       },
       "variants": {
@@ -415,7 +415,7 @@
             "hu": "A nap az Onze Lieve Vrouwetoren tövében indul, ahol az esőben csillogó macskaköveken lépkedünk. A Szent György-templom falai között száraz menedéket találunk a reggeli zápor elől. Délben a Muurhuizen szűk utcái nyújtanak némi szélvédettséget a Koppelpoort felé tartva. A délutánt a Mondriaan-ház és a Flehite Múzeum belső tárlatain töltjük, ahol teljesen megfeledkezhetünk az időjárásról. Estére a Monnikendam vízikapujánál pihenünk meg a városi fények tükröződésében.",
             "ro": "Ziua începe la baza Turnului Doamnei Noastre, unde pavajul strălucește sub ploaie. Găsim adăpost uscat în Biserica Sf. Gheorghe, admirând liniștea interiorului. La prânz, străzile înguste din Muurhuizen oferă protecție împotriva vântului în drum spre Koppelpoort. După-amiaza este dedicată explorării interioare la Casa Mondriaan și Muzeul Flehite. Seara se încheie la Monnikendam, urmărind picăturile de ploaie care cad pe suprafața canalelor istorice.",
             "en": "The day starts at the foot of the Tower of Our Lady, with cobblestones glistening in the rain. We find dry shelter inside St. George's Church, admiring its historic interior. At midday, the narrow streets of Muurhuizen provide some wind protection as we head towards Koppelpoort. The afternoon is perfectly spent indoors at the Mondriaan House and Museum Flehite. We wrap up the evening at Monnikendam, watching the city lights reflect on the wet historical masonry.",
-            "nl": "De dag begint aan de voet van de Onze Lieve Vrouwetoren, met kinderkopjes die glanzen in de regen. We vinden droge beschutting in de Sint-Joriskerk en bewonderen het historische interieur. Rond het middaguur bieden de smalle straten van de Muurhuizen wat windbescherming terwijl we naar de Koppelpoort lopen. De namiddag breng je perfect binnenshuis door in het Mondriaanhuis en Museum Flehite. We ronden de avond af bij Monnikendam, terwijl de stadslichten weerspiegelen op het natte historische metselwerk."
+            "nl": "De dag begint aan de voet van de Onze Lieve Vrouwetoren, met kinderkopjes die glanzen in de regen. We vinden droge beschutting in de Sint-Joriskerk en bewonderen het historische interieur. Rond het middaguur bieden de smalle straten van de Muurhuizen wat windbescherming terwijl we naar de Koppelpoort lopen. De middag brengen we binnen door in het Mondriaanhuis en Museum Flehite. We sluiten de avond af bij Monnikendam, terwijl de stadslichten weerspiegelen op het natte historische metselwerk."
           },
           "stops": [
             {
@@ -425,7 +425,7 @@
                 "hu": "Húzódjon be a torony bejárata alá a zápor elől.",
                 "ro": "Adăpostiți-vă sub portalul turnului în caz de aversă.",
                 "en": "Take cover under the tower portal if a heavy shower hits.",
-                "nl": "Zoek beschutting onder de poort van de toren als een hevige bui losbarst."
+                "nl": "Zoek dekking onder het torenportaal bij een plotselinge bui."
               }
             },
             {
@@ -435,7 +435,7 @@
                 "hu": "Tökéletes hely az esőruházat megigazítására.",
                 "ro": "Loc ideal pentru a vă aranja hainele de ploaie.",
                 "en": "Perfect place to adjust your rain gear in a dry environment.",
-                "nl": "Perfecte plek om je regenkleding aan te passen in een droge omgeving."
+                "nl": "Perfecte plek om uw regenkleding aan te passen in een droge omgeving."
               }
             },
             {
@@ -445,7 +445,7 @@
                 "hu": "A falak kiszögellései helyenként esővédelmet adnak.",
                 "ro": "Ieșiturile zidurilor oferă protecție punctuală.",
                 "en": "Wall overhangs offer occasional protection from the rain.",
-                "nl": "Muuroverhangen bieden af en toe bescherming tegen de regen."
+                "nl": "Uitstekende muren bieden soms bescherming tegen de regen."
               }
             },
             {
@@ -455,7 +455,7 @@
                 "hu": "A kapu alatt tágas fedett területet találunk.",
                 "ro": "Poarta oferă o zonă acoperită spațioasă.",
                 "en": "The gate provides a large covered area to observe the canal.",
-                "nl": "De poort biedt een groot overdekt gebied om het kanaal te bekijken."
+                "nl": "De poort biedt een groot overdekt vlak om het water te bekijken."
               }
             },
             {
@@ -465,7 +465,7 @@
                 "hu": "Hosszú beltéri program, ideális az eső elől.",
                 "ro": "Program interior lung, ideal pentru orele ploioase.",
                 "en": "Long indoor visit, ideal for escaping the rain.",
-                "nl": "Lang bezoek binnen, ideaal om aan de regen te ontkomen."
+                "nl": "Lange binnenbezoekjes, ideaal om aan de regen te ontsnappen."
               }
             },
             {
@@ -485,7 +485,7 @@
                 "hu": "Élvezze a látványt egy közeli kávézó ablakából.",
                 "ro": "Bucurați-vă de priveliște de la o cafenea din apropiere.",
                 "en": "Enjoy the view from the window of a nearby cafe.",
-                "nl": "Geniet van het uitzicht vanuit het raam van een nabijgelegen café."
+                "nl": "Geniet van het uitzicht vanaf het raam van een nabijgelegen café."
               }
             }
           ],
@@ -516,9 +516,9 @@
             ],
             "nl": [
               "De kinderkopjes van Amersfoort worden erg glad bij nat weer.",
-              "Gebruik de stadsmuurpassages als kortere routes en regenbescherming.",
-              "Mondriaan- en Flehite-musea bieden garderobes voor natte jassen.",
-              "Een stevige stormparaplu is aan te raden vanwege windstoten langs de grachten."
+              "Gebruik de stadsmuurpassages als kortere routes en regenbeschutting.",
+              "Het Mondriaanhuis en Museum Flehite hebben garderobes voor natte jassen.",
+              "Een stevige stormparaplu wordt aangeraden vanwege windvlagen langs de grachten."
             ]
           }
         },
@@ -528,7 +528,7 @@
             "hu": "Fagyos reggel köszönt ránk a torony árnyékában, gőzölgő kávéval a kézben. A Szent György-templom hűvös csendje fogad, miközben kint süvít a téli szél. Délben a Muurhuizen vörös téglái különleges fényben tündökölnek a téli napsütésben. A Koppelpoort zúzmarás falai mesebeli látványt nyújtanak. Délután a múzeumok melegében vonulunk vissza a korai sötétedés elől. Az estet a díszkivilágításban úszó Monnikendam kapujánál zárjuk.",
             "ro": "O dimineață geroasă sub Turnul Doamnei Noastre începe cu o cafea fierbinte în mână. Biserica Sf. Gheorghe ne primește cu o liniște răcoroasă în timp ce vântul de iarnă suflă afară. La prânz, cărămizile roșii din Muurhuizen strălucesc în lumina palidă a iernii. Koppelpoort pare desprins dintr-un basm când este acoperit de chiciură. După-amiaza ne încălzim în muzee înainte de lăsarea timpurie a serii. Încheiem ziua la Monnikendam, iluminat festiv.",
             "en": "A frosty morning by the tower starts with a steaming coffee in hand. St. George's Church greets us with cool silence while the winter wind blows outside. At midday, the red bricks of Muurhuizen glow in the pale winter light. Koppelpoort looks like something out of a fairytale when touched by frost. In the afternoon, we warm up inside the museums as dusk sets in early. We conclude the evening at the festively lit Monnikendam gate.",
-            "nl": "Een ijzige ochtend bij de toren begint met een stomende koffie in de hand. De Sint-Joriskerk ontvangt ons met koele stilte terwijl de winterwind buiten waait. Rond het middaguur gloeien de rode bakstenen van de Muurhuizen in het bleke winterlicht. De Koppelpoort lijkt uit een sprookje te komen wanneer hij door rijp is aangeraakt. In de namiddag warmen we op in de musea terwijl de schemer vroeg inzet. We sluiten de avond af bij de feestelijk verlichte Monnikendam."
+            "nl": "Een ijskoude ochtend bij de toren begint met dampende koffie. De Sint-Joriskerk ontvangt ons met koele stilte terwijl de winterwind buiten waait. Rond het middaguur gloeien de rode bakstenen van de Muurhuizen in het bleke winterlicht. De Koppelpoort lijkt uit een sprookje te komen als rijp erop ligt. ’s Middags warmen we op in de musea terwijl de avond vroeg invallende duisternis inzet. We sluiten de avond af bij de feestelijk verlichte Monnikendam."
           },
           "stops": [
             {
@@ -538,7 +538,7 @@
                 "hu": "A tér szeles lehet, öltözzön rétegesen.",
                 "ro": "Piața este adesea expusă vântului, îmbrăcați-vă bine.",
                 "en": "The square is often wind-prone; dress in warm layers.",
-                "nl": "Het plein is vaak winderig; kleed je in warme lagen."
+                "nl": "Het plein is vaak winderig; kleed u in warme lagen."
               }
             },
             {
@@ -548,7 +548,7 @@
                 "hu": "Használja ki a belső teret egy kis melegedésre.",
                 "ro": "Folosiți interiorul bisericii pentru a vă încălzi.",
                 "en": "Use the church interior as a brief warming break.",
-                "nl": "Gebruik het kerkinterieur als korte opwarmpauze."
+                "nl": "Gebruik het kerkinterieur als korte verwarmingspauze."
               }
             },
             {
@@ -558,7 +558,7 @@
                 "hu": "Gyönyörű látvány zúzmarás vagy havas időben.",
                 "ro": "Priveliște superbă în condiții de chiciură sau zăpadă.",
                 "en": "Beautiful scenery during frost or light snow conditions.",
-                "nl": "Prachtig landschap bij rijp of lichte sneeuwval."
+                "nl": "Prachtige taferelen bij vorst of lichte sneeuwval."
               }
             },
             {
@@ -568,7 +568,7 @@
                 "hu": "Vigyázzon a csúszós fafelületeken a hídon.",
                 "ro": "Atenție la suprafețele de lemn alunecoase de pe pod.",
                 "en": "Be careful on the slippery wooden surfaces of the bridge.",
-                "nl": "Wees voorzichtig op de gladde houten delen van de brug."
+                "nl": "Wees voorzichtig op de gladde houten vlonders van de brug."
               }
             },
             {
@@ -578,7 +578,7 @@
                 "hu": "Tökéletes menedék a hideg déli órákban.",
                 "ro": "Refugiu perfect pentru orele reci de la prânz.",
                 "en": "Perfect shelter during the coldest midday hours.",
-                "nl": "Perfecte beschutting tijdens de koudste uren rond het middaguur."
+                "nl": "Perfecte schuilplaats tijdens de koudste uren rond het middaguur."
               }
             },
             {
@@ -588,7 +588,7 @@
                 "hu": "A fűtött történelmi falak között nagyon otthonos.",
                 "ro": "Interiorul încălzit între zidurile vechi este primitor.",
                 "en": "The heated interior within old walls is very cozy.",
-                "nl": "Het verwarmde interieur binnen de oude muren is erg gezellig."
+                "nl": "Het verwarmde interieur binnen de oude muren is zeer knus."
               }
             },
             {
@@ -628,8 +628,8 @@
               "Most historical buildings are moderately heated."
             ],
             "nl": [
-              "De zon gaat in de winter al rond 16:30 onder.",
-              "Kinderdopjes kunnen spiegelglad worden bij vorst.",
+              "De zon gaat in de winter al om 16:30 onder.",
+              "Kinderkopjes kunnen spiegelglad worden bij vorst.",
               "Haal onderweg een warme Nederlandse cacao (Chocomel).",
               "De meeste historische gebouwen zijn matig verwarmd."
             ]
@@ -668,7 +668,7 @@
             "hu": "Ikonikus kiindulópont az amersfoorti biciklitúrához.",
             "ro": "Un punct de plecare iconic pentru turul cu bicicleta prin Amersfoort.",
             "en": "An iconic starting point for your cycling tour of Amersfoort.",
-            "nl": "Een iconisch startpunt voor je fietstocht door Amersfoort."
+            "nl": "Een iconisch startpunt voor uw fietstocht door Amersfoort."
           }
         },
         {
@@ -677,7 +677,7 @@
             "hu": "Muurhuizen (Fal-házak)",
             "ro": "Muurhuizen (Casele din zid)",
             "en": "Muurhuizen (Wall Houses)",
-            "nl": "Muurhuizen (Wall Houses)"
+            "nl": "Muurhuizen"
           },
           "coords": [
             5.3912,
@@ -694,7 +694,7 @@
             "hu": "Tekerj lassan, vagy told a biciklit, hogy magadba szívd a hangulatot.",
             "ro": "Pedalați încet sau împingeți bicicleta pentru a absorbi atmosfera.",
             "en": "Cycle slowly or push your bike to soak in the atmosphere.",
-            "nl": "Fiets rustig of duw je fiets om volop van de sfeer te genieten."
+            "nl": "Fiets langzaam of loop uw fiets om de sfeer op te snuiven."
           }
         },
         {
@@ -720,7 +720,7 @@
             "hu": "Parkold le a biciklidet és élvezd a város központi terét.",
             "ro": "Parcați bicicleta și bucurați-vă de piața centrală a orașului.",
             "en": "Park your bike and enjoy the city's central square.",
-            "nl": "Zet je fiets neer en geniet van het centrale stadsplein."
+            "nl": "Zet uw fiets neer en geniet van het centrale stadsplein."
           }
         },
         {
@@ -798,7 +798,7 @@
             "hu": "Fejezd be a túrát ebben a volt kolostorban, amely ma kulináris központ.",
             "ro": "Încheiați turul la această fostă mănăstire, acum un centru culinar.",
             "en": "End your tour at this former monastery, now a culinary hub.",
-            "nl": "Sluit je tocht af in dit voormalige klooster, nu een culinaire hotspot."
+            "nl": "Sluit uw tour af in dit voormalige klooster, nu een culinair centrum."
           }
         }
       ],
@@ -807,7 +807,7 @@
         "hu": "Kezdje a kerékpártúrát az ikonikus Koppelpoort-nál. Délelőtt tekerjen át a bájos Muurhuizen-en, és álljon meg a város szívében, az Onze Lieve Vrouwetoren-nél. Délben látogasson el a vízparti Kunsthal KAdE modern művészeti kiállítására. A délutánt egy elgondolkodtató utazásnak szenteljük a Kamp Amersfoort emlékhelyre. Térjen vissza a központba, hogy a napot a Mariënhof történelmi és kulináris hangulatában fejezze be.",
         "ro": "Începeți turul cu bicicleta de la iconica poartă Koppelpoort. Dimineața, pedalați prin fermecătoarele Muurhuizen și opriți-vă la Onze Lieve Vrouwetoren, inima orașului. La prânz, vizitați arta modernă de la Kunsthal KAdE, pe malul apei. După-amiaza este dedicată unei călătorii sobre la Kamp Amersfoort, un loc de comemorare. Întoarceți-vă în centru pentru a încheia ziua în ambianța istorică și culinară de la Mariënhof.",
         "en": "Start your cycling tour at the iconic Koppelpoort gate. In the morning, ride through the charming Muurhuizen and stop at the Onze Lieve Vrouwetoren, the heart of the city. At midday, visit the modern art at Kunsthal KAdE by the water. The afternoon is dedicated to a somber ride to Kamp Amersfoort, a place of remembrance. Return to the center to end the day in the historic and culinary ambiance of Mariënhof.",
-        "nl": "Begin je fietstocht bij de iconische Koppelpoort. 's Ochtends fiets je door de charmante Muurhuizen en stop je bij de Onze Lieve Vrouwetoren, het hart van de stad. Rond het middaguur bezoek je de moderne kunst in Kunsthal KAdE aan het water. De middag is gewijd aan een plechtige rit naar Kamp Amersfoort, een plaats van herinnering. Keer terug naar het centrum om de dag af te sluiten in de historische en culinaire sfeer van Mariënhof."
+        "nl": "Begin uw fietstocht bij de iconische Koppelpoort. Fiets ’s ochtends door de charmante Muurhuizen en stop bij de Onze Lieve Vrouwetoren, het hart van de stad. Rond het middaguur bezoekt u de moderne kunst in Kunsthal KAdE aan het water. De middag is gewijd aan een plechtige rit naar Kamp Amersfoort, een plek van herinnering. Keer terug naar het centrum om de dag af te sluiten in de historische en culinaire ambiance van Mariënhof."
       },
       "gastro_picks": {
         "de": [
@@ -1005,10 +1005,10 @@
           "Always lock your bike to a fixed object, even for a short time."
         ],
         "nl": [
-          "Huur een 'omafiets' (traditionele Nederlandse fiets) voor de authentieke ervaring.",
-          "Wees altijd bewust van de voorrangsregels voor fietsers, die kunnen afwijken van die voor auto’s.",
-          "Gebruik handgebaren om je bedoelingen aan andere fietsers en voetgangers te tonen.",
-          "Zet je fiets altijd vast aan een vast object, zelfs voor korte tijd."
+          "Huur een 'omafiets' voor de authentieke ervaring.",
+          "Wees altijd alert op voorrangsregels voor fietsers, die kunnen afwijken van autoverkeer.",
+          "Gebruik handgebaren om uw intenties aan andere fietsers en voetgangers aan te geven.",
+          "Sluit uw fiets altijd aan een vast object, ook voor korte tijd."
         ]
       },
       "variants": {
@@ -1018,7 +1018,7 @@
             "hu": "Az eső ellenére a Koppelpoortnál kezdünk, ahol a csatornák sejtelmes párába burkolóznak. A Muurhuizen házai között óvatosan tekerünk a vizes köveken a torony felé. Délben a Kunsthal KAdE nyújt tökéletes száraz pihenőt a modern alkotások között. A Camp Amersfoort felé vezető út esős erdős szakaszokon visz át, de az utak jól járhatóak. A napot a Mariënhofban zárjuk, ahol a túra után végre megpihenhetünk a száraz belső térben.",
             "ro": "În ciuda ploii, începem la Koppelpoort, unde canalele emană o atmosferă mistică. Pedalăm cu atenție prin Muurhuizen pe pavajul ud spre Turnul Doamnei Noastre. La prânz, Kunsthal KAdE oferă o pauză uscată binevenită printre opere de artă modernă. Drumul spre Camp Amersfoort trece prin secțiuni de pădure ploioase, dar bine amenajate. Încheiem ziua la Mariënhof, unde ne putem relaxa la adăpost după tură.",
             "en": "Despite the rain, we start at Koppelpoort, where the canals exude a mystical atmosphere. We bike carefully through Muurhuizen on wet stones toward the tower. At midday, Kunsthal KAdE offers a welcome dry break with modern art. The ride to Camp Amersfoort takes us through rainy forested sections, though the paths remain solid. We end the day at Mariënhof, resting in the dry interior after the tour.",
-            "nl": "Ondanks de regen beginnen we bij de Koppelpoort, waar de grachten een mysterieuze sfeer uitstralen. We fietsen voorzichtig over de natte stenen door de Muurhuizen naar de toren. Rond het middaguur biedt Kunsthal KAdE een welkome droge tussenstop met moderne kunst. De rit naar Kamp Amersfoort voert door regenachtige bosgedeelten, hoewel de paden stevig blijven. We eindigen de dag in Mariënhof, uitrustend in het droge interieur na de tocht."
+            "nl": "Ondanks de regen beginnen we bij de Koppelpoort, waar de grachten een mystieke sfeer uitstralen. We fietsen voorzichtig over natte stenen door de Muurhuizen richting de toren. Rond het middaguur biedt Kunsthal KAdE een welkome droge pauze met moderne kunst. De rit naar Kamp Amersfoort voert ons door regenachtige bosgedeelten, hoewel de paden stevig blijven. We eindigen de dag bij Mariënhof en rusten op in het droge interieur na de tour."
           },
           "stops": [
             {
@@ -1028,7 +1028,7 @@
                 "hu": "Fedett beállók várják a kerékpárosokat.",
                 "ro": "Există adăposturi acoperite pentru bicicliști.",
                 "en": "Covered shelters for cyclists are available nearby.",
-                "nl": "Overdekte stallingen voor fietsers zijn in de buurt aanwezig."
+                "nl": "Overdekte stallingen voor fietsers zijn in de buurt beschikbaar."
               }
             },
             {
@@ -1038,7 +1038,7 @@
                 "hu": "Vigyázzon a szűk kanyarokban a vizes köveken.",
                 "ro": "Atenție la curbele strânse pe pavajul ud.",
                 "en": "Careful in tight turns on the wet cobblestones.",
-                "nl": "Wees voorzichtig in krappe bochten op de natte kasseien."
+                "nl": "Wees voorzichtig in krappe bochten op de natte kinderkopjes."
               }
             },
             {
@@ -1048,7 +1048,7 @@
                 "hu": "Biztonságos kerékpártárolók a téren.",
                 "ro": "Suporturi de biciclete sigure chiar în piață.",
                 "en": "Secure bike racks available directly on the square.",
-                "nl": "Veilige fietsenrekken direct op het plein aanwezig."
+                "nl": "Beveiligde fietsenrekken direct op het plein aanwezig."
               }
             },
             {
@@ -1058,7 +1058,7 @@
                 "hu": "A vizes esővédőket a foyer-ben hagyhatja.",
                 "ro": "Lăsați pelerinele de ploaie ude în foaier.",
                 "en": "Leave wet rain ponchos in the foyer area.",
-                "nl": "Laat natte regenponcho’s achter in de foyer."
+                "nl": "Laat natte poncho’s achter in de foyerruimte."
               }
             },
             {
@@ -1078,7 +1078,7 @@
                 "hu": "Kerékpárparkolás a védett belső udvarban.",
                 "ro": "Parcare pentru biciclete în curtea interioară protejată.",
                 "en": "Bike parking possible in the sheltered inner courtyard.",
-                "nl": "Fietsen parkeren mogelijk in de overdekte binnentuin."
+                "nl": "Fietsenstalling mogelijk in het beschutte binnenhof."
               }
             }
           ],
@@ -1108,10 +1108,10 @@
               "Bike paths outside the center are mostly paved and drain well."
             ],
             "nl": [
-              "Controleer je remmen; natte stenen vergroten de remweg.",
-              "Vermijd het rijden direct over natte witte wegmarkeringen.",
-              "Een zadelhoesje is goud waard bij dit weer.",
-              "Fietspaden buiten het centrum zijn grotendeels verhard en voeren goed af."
+              "Controleer uw remmen; natte stenen verlengen de remweg.",
+              "Vermijd het fietsen over natte witte wegmarkeringen.",
+              "Een zadelhoes is goud waard bij dit weer.",
+              "Fietspaden buiten het centrum zijn grotendeels verhard en goed afwaterend."
             ]
           }
         },
@@ -1121,7 +1121,7 @@
             "hu": "Hűvös kezdés a Koppelpoortnál, ahol a téli szél fúj a víz felett. Gyorsan tekerünk át a Muurhuizenen, hogy mozgásban maradjunk, és csak rövid időre állunk meg a toronynál. Délben a Kunsthal KAdE ideális hely a kezek felmelegítésére és a művészet élvezetére. Az erdei út a Camp Amersfoort felé jó kesztyűt és téli cipőt igényel. A nap a Mariënhofban ér véget, ahol a kolostor történelmi falaiból áradó nyugalom vár.",
             "ro": "Un început răcoros la Koppelpoort, unde vântul de iarnă suflă peste apă. Pedalăm vioi prin Muurhuizen pentru a ne menține calzi, oprindu-ne scurt la Turn. La prânz, Kunsthal KAdE este locul ideal pentru a ne încălzi mâinile și a ne bucura de artă. Drumul prin pădure spre Camp Amersfoort necesită mănuși bune și încălțăminte de iarnă. Ziua se încheie la Mariënhof, unde ne întâmpină căldura istorică a mănăstirii.",
             "en": "A chilly start at Koppelpoort, with winter winds blowing across the water. We bike briskly through Muurhuizen to stay warm, stopping briefly at the tower. At midday, Kunsthal KAdE is the perfect spot to warm your hands and enjoy art. The forest ride to Camp Amersfoort requires good gloves and winter shoes. The day ends at Mariënhof, where the historical warmth of the former monastery greets us.",
-            "nl": "Koude start bij de Koppelpoort, met winterse wind over het water. We fietsen vlot door de Muurhuizen om warm te blijven en stoppen kort bij de toren. Rond het middaguur is Kunsthal KAdE de perfecte plek om je handen op te warmen en van kunst te genieten. De bosrit naar Kamp Amersfoort vraagt om goede handschoenen en winterse schoenen. De dag eindigt in Mariënhof, waar de historische warmte van het voormalige klooster je verwelkomt."
+            "nl": "Een frisse start bij de Koppelpoort, met winterse wind over het water. We fietsen vlot door de Muurhuizen om warm te blijven en stoppen kort bij de toren. Rond het middaguur is Kunsthal KAdE de perfecte plek om uw handen te verwarmen en van kunst te genieten. De bosrit naar Kamp Amersfoort vraagt om goede handschoenen en winterschoeisel. De dag eindigt bij Mariënhof, waar de historische warmte van het voormalige klooster ons verwelkomt."
           },
           "stops": [
             {
@@ -1131,7 +1131,7 @@
                 "hu": "Vigyázzon a csatornák menti jegesedéssel.",
                 "ro": "Atenție la porțiunile înghețate de lângă canale.",
                 "en": "Watch out for black ice near the canal edges.",
-                "nl": "Let op voor zwarte ijsplekken bij de grachtranden."
+                "nl": "Pas op voor zwarte ijsplekjes nabij de grachtranden."
               }
             },
             {
@@ -1141,7 +1141,7 @@
                 "hu": "A szűk utcák gyakran szélvédettek.",
                 "ro": "Străzile înguste sunt adesea ferite de vânt.",
                 "en": "The narrow streets are often sheltered from the wind.",
-                "nl": "De nauwe straatjes zijn vaak beschut tegen de wind."
+                "nl": "De smalle straatjes zijn vaak beschut tegen de wind."
               }
             },
             {
@@ -1151,7 +1151,7 @@
                 "hu": "Elég egy rövid megálló, hogy ne hűljön ki.",
                 "ro": "O oprire scurtă este suficientă pentru a nu îngheța.",
                 "en": "A short stop is enough to avoid getting too cold.",
-                "nl": "Een korte pauze is genoeg om niet te veel af te koelen."
+                "nl": "Een korte stop is genoeg om te voorkomen dat je het te koud krijgt."
               }
             },
             {
@@ -1171,7 +1171,7 @@
                 "hu": "A kültéri rész télen különösen megrázó élmény.",
                 "ro": "Vizita în exterior este foarte impresionantă iarna.",
                 "en": "The outdoor tour is very haunting during winter.",
-                "nl": "De buitentocht is zeer sfeervol in de winter."
+                "nl": "De rondleiding buiten is in de winter erg spookachtig."
               }
             },
             {
@@ -1181,7 +1181,7 @@
                 "hu": "Élvezze a benti otthonos hangulatot.",
                 "ro": "Bucurați-vă de atmosfera primitoare din interior.",
                 "en": "Enjoy the cozy indoor atmosphere.",
-                "nl": "Geniet van de knusse binnenruimte."
+                "nl": "Geniet van de gezellige binnenatmosfeer."
               }
             }
           ],
@@ -1212,9 +1212,9 @@
             ],
             "nl": [
               "Draag meerdere lagen en winddichte kleding.",
-              "De actieradius van een e-bike daalt flink bij kou.",
-              "Verlichting is verplicht vanaf 16:00 uur.",
-              "Bosroutes naar het Kamp kunnen hard en hobbelig zijn bij vorst."
+              "Het bereik van de e-bike accu daalt aanzienlijk in de kou.",
+              "Verlichting is vanaf 16:00 wettelijk verplicht.",
+              "Bospaadjes naar het Kamp kunnen hard en hobbelig zijn wanneer ze bevroren zijn."
             ]
           }
         }
@@ -1234,7 +1234,7 @@
             "hu": "Koestraat Parkolóház és Óvárosi Séta",
             "ro": "Parcare Koestraat & Plimbare în Centrul Vechi",
             "en": "Koestraat Parking & Old Town Walk",
-            "nl": "Koestraat Parkeren & Wandelroute Oude Stad"
+            "nl": "Koestraat Parkeren & Oude Binnenstad Wandeling"
           },
           "coords": [
             5.39,
@@ -1286,7 +1286,7 @@
             "hu": "Muurhuizen (Fal-házak)",
             "ro": "Muurhuizen (Casele din zid)",
             "en": "Muurhuizen (Wall Houses)",
-            "nl": "Muurhuizen (Wall Houses)"
+            "nl": "Muurhuizen"
           },
           "coords": [
             5.3912,
@@ -1303,7 +1303,7 @@
             "hu": "Sétálj végig ezeken az egyedi utcákon, amelyek a régi városfalakra épültek.",
             "ro": "Plimbați-vă pe aceste străzi unice construite pe vechile ziduri ale orașului.",
             "en": "Wander through these unique streets built on the old city walls.",
-            "nl": "Wandel door deze unieke straatjes gebouwd op de oude stadswallen."
+            "nl": "Wandel door deze unieke straten die op de oude stadswallen zijn gebouwd."
           }
         },
         {
@@ -1329,7 +1329,7 @@
             "hu": "Vezess az Eemplein parkolóházhoz és fedezd fel a modern negyedet.",
             "ro": "Conduceți la parcarea Eemplein și explorați cartierul modern.",
             "en": "Drive to the Eemplein parking garage and explore the modern quarter.",
-            "nl": "Rijd naar parkeergarage Eemplein en verken de moderne wijk."
+            "nl": "Rijd naar de parkeergarage Eemplein en verken het moderne kwartier."
           }
         },
         {
@@ -1381,7 +1381,7 @@
             "hu": "Utazásának fontos és elgondolkodtató befejezése. Tervezzen elegendő időt.",
             "ro": "O concluzie importantă și sobră a călătoriei dumneavoastră. Alocați suficient timp.",
             "en": "An important and somber conclusion to your trip. Allow plenty of time.",
-            "nl": "Een belangrijke en plechtige afronding van je reis. Reserveer voldoende tijd."
+            "nl": "Een belangrijke en plechtige afsluiting van je reis. Neem ruim de tijd."
           }
         }
       ],
@@ -1390,7 +1390,7 @@
         "hu": "Kezdje a napot a központban parkolva, majd gyalogosan fedezze fel az Onze Lieve Vrouwetoren-t és a bájos Muurhuizen-t. Délelőtt tapasztalja meg a város középkori szívét. Dél körül autózzon az Eemplein negyedbe, egy modern kontrasztként, és látogasson el a Kunsthal KAdE-be. A délutánt a Kamp Amersfoort meglátogatásának szenteljük, amely egy fontos történelmi helyszín a városon kívül. Ez az útvonal ötvözi a kényelmes parkolást a sétákkal, lehetővé téve mind a történelmi, mind a modern Amersfoort megismerését.",
         "ro": "Începeți ziua parcând în centru și explorând pe jos Onze Lieve Vrouwetoren și fermecătoarele Muurhuizen. În cursul dimineții, experimentați inima medievală a orașului. În jurul prânzului, conduceți spre cartierul Eemplein, un contrast modern, și vizitați Kunsthal KAdE. După-amiaza este dedicată unei vizite sobre la Kamp Amersfoort, un sit istoric important situat chiar în afara orașului. Acest traseu combină parcarea convenabilă cu plimbările, permițându-vă să experimentați atât Amersfoort-ul istoric, cât și cel modern.",
         "en": "Start your day by parking in the center and exploring the Onze Lieve Vrouwetoren and the charming Muurhuizen on foot. In the morning, experience the medieval heart of the city. Around noon, drive to the Eemplein quarter, a modern contrast, and visit the Kunsthal KAdE. The afternoon is dedicated to a somber visit to Kamp Amersfoort, an important historical site just outside the city. This route combines convenient parking with walking clusters, allowing you to experience both historic and modern Amersfoort.",
-        "nl": "Begin je dag met parkeren in het centrum en verken de Onze Lieve Vrouwetoren en de charmante Muurhuizen te voet. Ervaar 's ochtends het middeleeuwse hart van de stad. Rond het middaguur rijd je naar de wijk Eemplein, een modern contrast, en bezoek je Kunsthal KAdE. De middag is gewijd aan een plechtig bezoek aan Kamp Amersfoort, een belangrijke historische plek net buiten de stad. Deze route combineert handig parkeren met wandelclusters, zodat je zowel het historische als het moderne Amersfoort beleeft."
+        "nl": "Begin je dag met parkeren in het centrum en verken te voet de Onze Lieve Vrouwetoren en de charmante Muurhuizen. Ervaar in de ochtend het middeleeuwse hart van de stad. Rond de middag rijd je naar de wijk Eemplein, een modern contrast, en bezoek je Kunsthal KAdE. De middag is bedoeld voor een plechtige bezoek aan Kamp Amersfoort, een belangrijke historische plek net buiten de stad. Deze route combineert handig parkeren met wandelclusters, zodat je zowel historisch als modern Amersfoort kunt ervaren."
       },
       "gastro_picks": {
         "de": [
@@ -1588,9 +1588,9 @@
           "Driving in the old city center is not recommended due to narrow streets and many pedestrians."
         ],
         "nl": [
-          "Controleer parkeertarieven vooraf; parkeren in het centrum kan duur zijn.",
-          "Let op 'P+R' (Park and Ride) borden voor goedkopere parkeermogelijkheden aan de rand van de stad.",
-          "Het centrum is een laagemissiezone; zorg dat je voertuig voldoet.",
+          "Controleer parkeertarieven van tevoren; parkeren in het centrum kan duur zijn.",
+          "Let op borden met 'P+R' (Park and Ride) voor goedkopere parkeermogelijkheden aan de rand van de stad.",
+          "Het centrum is een lage-emissiezône; zorg dat je voertuig eraan voldoet.",
           "Rijden in het oude stadscentrum wordt niet aanbevolen vanwege smalle straten en veel voetgangers."
         ]
       },
@@ -1601,7 +1601,7 @@
             "hu": "A Koestraat parkolóházat használjuk bázisként egy rövid, toronyhoz vezető sétához. Esőben az autó tökéletes menedék a Muurhuizen és az Eemplein közötti szakaszokon. Délben közvetlenül a Kunsthal KAdE mellett parkolunk, így szárazon jutunk be a múzeumba. Az út a Camp Amersfoort felé kényelmes, még ha kint szakad is az eső. Rugalmasan zárjuk a túrát, minden célpontot hosszú ázás nélkül érünk el.",
             "ro": "Folosim parcarea Koestraat ca punct de plecare uscat pentru o scurtă plimbare la Turn. Pe ploaie, mașina este baza perfectă între Muurhuizen și Eemplein. La prânz, parcăm chiar lângă Kunsthal KAdE pentru a intra uscați în muzeu. Drumul spre Camp Amersfoort este confortabil, chiar dacă afară plouă torențial. Încheiem turul flexibil, ajungând la toate obiectivele fără plimbări lungi prin ploaie.",
             "en": "We use the Koestraat parking as our dry base for a short walk to the tower. In the rain, the car is the perfect refuge between Muurhuizen and Eemplein. At midday, we park right by Kunsthal KAdE to enter the museum dry. The drive to Camp Amersfoort is comfortable, even if it's pouring outside. We finish the tour flexibly, reaching all sites without long walks in the wet weather.",
-            "nl": "We gebruiken de Koestraat-parkeerplaats als droog basiskamp voor een korte wandeling naar de toren. Bij regen is de auto het perfecte toevluchtsoord tussen Muurhuizen en Eemplein. Rond het middaguur parkeren we direct bij Kunsthal KAdE om droog het museum te betreden. De rit naar Kamp Amersfoort is comfortabel, zelfs als het buiten stortregent. We eindigen de rondreis flexibel en bereiken alle locaties zonder lange natte wandelingen."
+            "nl": "We gebruiken de Koestraat-parkeerplaats als onze droge basis voor een korte wandeling naar de toren. Bij regen is de auto het perfecte toevluchtsoord tussen Muurhuizen en Eemplein. Midden op de dag parkeren we direct bij Kunsthal KAdE om het museum droog te betreden. De rit naar Kamp Amersfoort is comfortabel, zelfs als het buiten giet. We beëindigen de rondleiding flexibel en bereiken alle locaties zonder lange wandelingen in de nattigheid."
           },
           "stops": [
             {
@@ -1611,7 +1611,7 @@
                 "hu": "Központi mélygarázs lifttel.",
                 "ro": "Parcare subterană centrală cu lift.",
                 "en": "Central underground parking with elevator access.",
-                "nl": "Centrale ondergrondse parkeergarage met lifttoegang."
+                "nl": "Centraal ondergronds parkeren met lifttoegang."
               }
             },
             {
@@ -1621,7 +1621,7 @@
                 "hu": "Rövid futás a parkolótól a toronyig.",
                 "ro": "Scurt sprint de la parcare la turn.",
                 "en": "Quick sprint from the parking garage to the tower.",
-                "nl": "Snelle sprint van de parkeergarage naar de toren."
+                "nl": "Korte sprint van de parkeergarage naar de toren."
               }
             },
             {
@@ -1641,7 +1641,7 @@
                 "hu": "Eemplein parkolóház közvetlenül a kapuval szemben.",
                 "ro": "Parcare Eemplein chiar vizavi de poartă.",
                 "en": "Eemplein parking garage located right across from the gate.",
-                "nl": "Parkeergarage Eemplein ligt pal tegenover de poort."
+                "nl": "Parkeergarage Eemplein direct tegenover de poort gelegen."
               }
             },
             {
@@ -1651,7 +1651,7 @@
                 "hu": "Parkolás az épület alatt az Eemlaan garázsban.",
                 "ro": "Parcare sub clădire în garajul Eemlaan.",
                 "en": "Parking available directly under the building in Eemlaan garage.",
-                "nl": "Parkeren direct onder het gebouw mogelijk in parkeergarage Eemlaan."
+                "nl": "Parkeren direct onder het gebouw in parkeergarage Eemlaan."
               }
             },
             {
@@ -1693,8 +1693,8 @@
             "nl": [
               "Parkeergarages zijn duur maar houden jou en de auto droog.",
               "Het centrum is grotendeels autovrij; gebruik de aangewezen 'P-ring'.",
-              "De zichtbaarheid kan beperkt zijn bij zware Nederlandse regenval.",
-              "Laat geen waardevolle spullen zichtbaar in de auto achter tijdens het parkeren."
+              "Zichtbaarheid kan beperkt zijn tijdens hevige Nederlandse regenval.",
+              "Laat geen waardevolle spullen zichtbaar achter in de auto tijdens het parkeren."
             ]
           }
         },
@@ -1704,7 +1704,7 @@
             "hu": "A fűtött Koestraat parkolóból indulunk a toronyhoz, a friss hideg levegő azonnal felébreszt. Az autó kellemes meleget nyújt az óvárosi megállók között. Délben az Eempleinnél csodáljuk a csatornák téli látványát, mielőtt betérnénk a Kunsthal KAdE-be. Az út a Camp Amersfoort felé a deres vagy havas tájon keresztül vezet. Kényelemben és melegben zárjuk a napot, miközben kint egyre erősebb a fagy.",
             "ro": "Din parcarea încălzită Koestraat mergem spre Turn, aerul rece fiind revigorant. Mașina oferă o căldură plăcută între opririle istorice din centrul vechi. La prânz, la Eemplein, admirăm priveliștea de iarnă a canalelor înainte de a intra la Kunsthal KAdE. Drumul spre Camp Amersfoort trece printr-un peisaj înghețat sau înzăpezit. Încheiem ziua confortabil și la căldură, în timp ce afară gerul se întețește.",
             "en": "From the heated Koestraat parking, we head to the tower, refreshed by the crisp air. The car provides cozy warmth between the historical stops in the old town. At midday by Eemplein, we enjoy the winter view of the canals before entering Kunsthal KAdE. The drive to Camp Amersfoort takes us through a frozen or snowy landscape. We finish the day comfortably warm as the frost tightens outside.",
-            "nl": "Vanaf de verwarmde Koestraat-parkeerplaats lopen we naar de toren, verfrist door de frisse lucht. De auto biedt gezellige warmte tussen de historische stops in de oude stad. Rond het middaguur bij Eemplein genieten we van het winterse uitzicht op de grachten voordat we Kunsthal KAdE binnengaan. De rit naar Kamp Amersfoort voert ons door een bevroren of besneeuwd landschap. We eindigen de dag comfortabel warm terwijl de vorst buiten aansterkt."
+            "nl": "Vanaf het verwarmde Koestraat-parkeren lopen we naar de toren, verfrist door de frisse lucht. De auto biedt gezellige warmte tussen de historische stops in de oude stad. Rond het middaguur bij Eemplein genieten we van het winterse uitzicht op de grachten voordat we Kunsthal KAdE binnengaan. De rit naar Kamp Amersfoort voert ons door een bevroren of besneeuwd landschap. We beëindigen de dag comfortabel warm terwijl de vorst buiten intenser wordt."
           },
           "stops": [
             {
@@ -1714,7 +1714,7 @@
                 "hu": "Ideális bázis a hidegben tett rövid sétákhoz.",
                 "ro": "Bază ideală pentru scurte ieșiri în frig.",
                 "en": "Ideal base for short ventures into the cold.",
-                "nl": "Ideale uitvalsbasis voor korte uitstapjes in de kou."
+                "nl": "Ideale basis voor korte uitstapjes in de kou."
               }
             },
             {
@@ -1724,7 +1724,7 @@
                 "hu": "A torony télen gyakran ünnepi kivilágítást kap.",
                 "ro": "Turnul este adesea iluminat festiv iarna.",
                 "en": "The tower often features festive lighting in winter.",
-                "nl": "De toren is in de winter vaak feestelijk verlicht."
+                "nl": "De toren heeft in de winter vaak feestelijke verlichting."
               }
             },
             {
@@ -1734,7 +1734,7 @@
                 "hu": "A régi házak ablakai gyakran karácsonyi díszben úsznak.",
                 "ro": "Ferestrele caselor vechi sunt adesea decorate de Crăciun.",
                 "en": "Windows of the old houses are often decorated for the holidays.",
-                "nl": "Ramen van de oude huizen zijn vaak feestelijk versierd."
+                "nl": "Ramen van de oude huizen zijn vaak versierd voor de feestdagen."
               }
             },
             {
@@ -1744,7 +1744,7 @@
                 "hu": "Vigyázzon a jeges foltokkal a bekötőutakon.",
                 "ro": "Atenție la porțiunile cu gheață de pe drumurile de acces.",
                 "en": "Watch out for patches of ice on the access roads.",
-                "nl": "Let op ijsplekken op de toegangswegen."
+                "nl": "Let op ijzige plekken op de toegangswegen."
               }
             },
             {
@@ -1754,7 +1754,7 @@
                 "hu": "Kiváló fűtés a modern épületben.",
                 "ro": "Încălzire excelentă în clădirea modernă.",
                 "en": "Excellent heating within the modern building.",
-                "nl": "Uitstekende verwarming in het moderne gebouw."
+                "nl": "Uitstekende verwarming binnen het moderne gebouw."
               }
             },
             {
@@ -1764,7 +1764,7 @@
                 "hu": "Ne járassa feleslegesen a motort a parkolóban.",
                 "ro": "Nu lăsați motorul pornit inutil în parcare.",
                 "en": "Do not leave the engine idling unnecessarily in the lot.",
-                "nl": "Laat de motor niet onnodig stationair draaien op de parkeerplaats."
+                "nl": "Laat de motor niet onnodig stationair draaien op het terrein."
               }
             }
           ],
@@ -1794,10 +1794,10 @@
               "Parking at Camp Amersfoort is stress-free during the winter season."
             ],
             "nl": [
-              "Winterbanden zijn aan te raden bij vorst in Nederland.",
+              "Winterbanden zijn raadzaam bij vorst in Nederland.",
               "Vergeet je ijskrabber en antivriesvloeistof niet.",
-              "Parkeergarages besparen je het krabben van ijs van de ramen.",
-              "Parkeren bij Kamp Amersfoort is stressvrij in het winterseizoen."
+              "Parkeergarages besparen je het krabben van ijs van ruiten.",
+              "Parkeren bij Kamp Amersfoort is stressvrij tijdens het winterseizoen."
             ]
           }
         }
@@ -1834,7 +1834,7 @@
             "hu": "Szállj fel bármelyik buszra a 'Centrum' felé a főpályaudvarról.",
             "ro": "Luați orice autobuz spre 'Centrum' de la gara principală.",
             "en": "Take any bus towards 'Centrum' from the main station.",
-            "nl": "Neem vanaf het hoofdstation iedere bus richting 'Centrum'."
+            "nl": "Neem vanaf het hoofdstation elke bus richting 'Centrum'."
           }
         },
         {
@@ -1860,7 +1860,7 @@
             "hu": "Szállj le a 'Centrum' megállónál, és már csak pár lépésre vagy.",
             "ro": "Coborâți la stația 'Centrum' și sunteți la câțiva pași.",
             "en": "Get off at the 'Centrum' stop and you are just steps away.",
-            "nl": "Stap uit bij halte 'Centrum' en je bent op enkele stappen afstand."
+            "nl": "Stap uit bij halte 'Centrum' en je bent op slechts een paar stappen afstand."
           }
         },
         {
@@ -1886,7 +1886,7 @@
             "hu": "Kellemes séta a toronytól a történelmi utcákon át.",
             "ro": "O plimbare plăcută de la turn prin străzile istorice.",
             "en": "A pleasant walk from the tower through the historic streets.",
-            "nl": "Een prettige wandeling van de toren door de historische straatjes."
+            "nl": "Een aangename wandeling van de toren door de historische straten."
           }
         },
         {
@@ -1895,7 +1895,7 @@
             "hu": "Koppelpoort (Városkapu)",
             "ro": "Poarta Koppelpoort",
             "en": "Koppelpoort (Gate)",
-            "nl": "Koppelpoort (Poort)"
+            "nl": "Koppelpoort"
           },
           "coords": [
             5.3945,
@@ -1912,7 +1912,7 @@
             "hu": "Ez az ikonikus kapu köti össze a túra két területét.",
             "ro": "Această poartă iconică leagă cele două zone ale turului dumneavoastră.",
             "en": "This iconic gate connects the two areas of your tour.",
-            "nl": "Deze iconische poort verbindt de twee gebieden van je route."
+            "nl": "Deze iconische poort verbindt de twee gebieden van je rondleiding."
           }
         },
         {
@@ -1938,7 +1938,7 @@
             "hu": "Szállj buszra a 'De Kei' megállóból; az út körülbelül 20 percig tart.",
             "ro": "Luați un autobuz de la stația 'De Kei'; călătoria durează aproximativ 20 de minute.",
             "en": "Take a bus from the 'De Kei' stop; the journey takes about 20 minutes.",
-            "nl": "Neem de bus vanaf halte 'De Kei'; de rit duurt ongeveer 20 minuten."
+            "nl": "Neem een bus vanaf halte 'De Kei'; de rit duurt ongeveer 20 minuten."
           }
         },
         {
@@ -1964,7 +1964,7 @@
             "hu": "Menj vissza busszal a központba, és fejezd be a napot ezen a történelmi helyen.",
             "ro": "Luați autobuzul înapoi spre centru și încheiați ziua la acest loc istoric.",
             "en": "Take the bus back towards the center and end your day at this historic venue.",
-            "nl": "Neem de bus terug richting het centrum en beëindig je dag bij deze historische locatie."
+            "nl": "Neem de bus terug richting het centrum en sluit je dag af bij deze historische locatie."
           }
         }
       ],
@@ -1973,7 +1973,7 @@
         "hu": "A főpályaudvarról egy rövid buszút visz a város szívébe. Kezdje a reggelt az Onze Lieve Vrouwetoren-nél, majd sétáljon át a Flehite Múzeumba egy adag történelemért. Délben keljen át a Koppelpoort-on. A délutánt egy elgondolkodtató látogatásnak szenteljük a busszal elérhető Kamp Amersfoortban. Késő délután térjen vissza a központba, hogy a napot a történelmi Mariënhofban fejezze be, mielőtt visszatérne busszal az állomásra.",
         "ro": "De la gara principală, o scurtă călătorie cu autobuzul vă duce în inima orașului. Începeți dimineața la Onze Lieve Vrouwetoren, apoi plimbați-vă la Muzeul Flehite pentru o doză de istorie. La prânz, traversați Koppelpoort. După-amiaza este dedicată unei vizite sobre la Kamp Amersfoort, accesibil cu autobuzul. Întoarceți-vă în centru după-amiaza târziu pentru a încheia ziua la istoricul Mariënhof înainte de a lua autobuzul înapoi la gară.",
         "en": "From the central station, a short bus ride takes you to the city's heart. Start your morning at the Onze Lieve Vrouwetoren, then stroll to Museum Flehite for a dose of history. At midday, cross the Koppelpoort. The afternoon is for a somber visit to Kamp Amersfoort, reachable by bus. Return to the center in the late afternoon to end the day at the historic Mariënhof before taking a bus back to the station.",
-        "nl": "Vanaf het centraal station brengt een korte busrit je naar het hart van de stad. Begin je ochtend bij de Onze Lieve Vrouwetoren en wandel daarna naar Museum Flehite voor een portie geschiedenis. Rond het middaguur steek je de Koppelpoort over. De middag is gereserveerd voor een plechtige bezoek aan Kamp Amersfoort, bereikbaar met de bus. Keer in de late namiddag terug naar het centrum om de dag af te sluiten in het historische Mariënhof voordat je de bus naar het station neemt."
+        "nl": "Vanaf het centraal station brengt een korte busrit je naar het hart van de stad. Begin je ochtend bij de Onze Lieve Vrouwetoren, wandel vervolgens naar Museum Flehite voor een dosis geschiedenis. Rond de middag steek je de Koppelpoort over. De middag is voor een plechtig bezoek aan Kamp Amersfoort, bereikbaar per bus. Keer laat in de middag terug naar het centrum om de dag af te sluiten bij het historische Mariënhof voordat je de bus terug naar het station neemt."
       },
       "gastro_picks": {
         "de": [
@@ -2171,10 +2171,10 @@
           "Press the 'Stop' button well before your stop approaches."
         ],
         "nl": [
-          "Koop een OV-chipkaart of gebruik je contactloze bankpas voor eenvoudig in- en uitchecken.",
-          "Een dagkaart voor de bus is mogelijk goedkoper als je meerdere ritten plant.",
-          "Dienstregelingen van de bus zijn bij de haltes en online beschikbaar.",
-          "Druk ruim voordat je halte nadert op de 'Stop' knop."
+          "Koop een 'OV-chipkaart' of gebruik je contactloze pinpas voor eenvoudig in- en uitchecken.",
+          "Een dagkaart voor de bus kan goedkoper zijn als je meerdere ritten plant.",
+          "Bushaltes hebben dienstregelingen; deze zijn ook online beschikbaar.",
+          "Druk ruim vóór je halte op de 'Stop'-knop."
         ]
       },
       "variants": {
@@ -2184,7 +2184,7 @@
             "hu": "A vasútállomásról busszal érkezünk az esős központba. A torony csak egy rövid vágta a megállótól. A délelőttöt a Flehite Múzeum száraz falai között töltjük, miközben kint esik. A Koppelpoortot busszal közelítjük meg, majd a Camp Amersfoort felé vesszük az irányt. A napot a Mariënhofban zárjuk, amely kiváló buszkapcsolattal rendelkezik, így ázás nélkül juthatunk vissza az állomásra.",
             "ro": "De la gara centrală luăm autobuzul direct în centrul ploios. Turnul este la doar un scurt sprint ud de stație. Petrecem dimineața la adăpost în Muzeul Flehite în timp ce afară plouă. Ajungem confortabil la Koppelpoort cu autobuzul, înainte de a lua linia spre Camp Amersfoort. Încheiem ziua la Mariënhof, care are conexiuni bune de autobuz, asigurând o întoarcere uscată la gară.",
             "en": "From the central station, we take the bus directly into the rainy center. The tower is just a short, wet dash from the stop. We spend the morning dry inside Museum Flehite while the rain falls outside. We reach Koppelpoort easily by bus before catching the line to Camp Amersfoort. We end the day at Mariënhof, which is well-connected to the bus network, ensuring a dry return to the station.",
-            "nl": "Vanaf het centraal station nemen we de bus rechtstreeks het natte centrum in. De toren is slechts een korte, drassige sprint vanaf de halte. We brengen de ochtend door droog binnen in Museum Flehite terwijl de regen buiten valt. We bereiken de Koppelpoort gemakkelijk per bus voordat we lijn naar Kamp Amersfoort pakken. We eindigen de dag bij Mariënhof, dat goed aansluit op het busnetwerk en zo een droge terugkeer naar het station garandeert."
+            "nl": "Vanaf het centraal station nemen we de bus rechtstreeks het natte centrum in. De toren is slechts een korte, natte sprint van de halte. We brengen de ochtend droog door in Museum Flehite terwijl buiten de regen valt. We bereiken Koppelpoort gemakkelijk per bus voordat we de lijn naar Kamp Amersfoort nemen. We eindigen de dag bij Mariënhof, dat goed verbonden is met het busnet, wat zorgt voor een droge terugkeer naar het station."
           },
           "stops": [
             {
@@ -2194,7 +2194,7 @@
                 "hu": "Fedett buszperonok az állomásnál.",
                 "ro": "Peroane de autobuz acoperite la gară.",
                 "en": "Covered bus platforms available at the station.",
-                "nl": "Overdekte busperrons beschikbaar bij het station."
+                "nl": "Overdekte busperrons aanwezig bij het station."
               }
             },
             {
@@ -2204,7 +2204,7 @@
                 "hu": "A 'Lieve Vrouwestraat' megálló szinte a célnál van.",
                 "ro": "Stația 'Lieve Vrouwestraat' este aproape de obiectiv.",
                 "en": "The 'Lieve Vrouwestraat' stop is almost right at the site.",
-                "nl": "De halte 'Lieve Vrouwestraat' ligt bijna pal bij de locatie."
+                "nl": "De halte 'Lieve Vrouwestraat' ligt bijna direct bij de locatie."
               }
             },
             {
@@ -2244,7 +2244,7 @@
                 "hu": "A 'Stadhuis' megálló védelmet nyújt az eső ellen.",
                 "ro": "Stația 'Stadhuis' oferă protecție împotriva ploii.",
                 "en": "The 'Stadhuis' stop provides good rain protection.",
-                "nl": "De halte 'Stadhuis' biedt goede bescherming tegen de regen."
+                "nl": "De halte 'Stadhuis' biedt goede regenscherming."
               }
             }
           ],
@@ -2274,7 +2274,7 @@
               "Amersfoort station has a large, sheltered waiting area."
             ],
             "nl": [
-              "Gebruik de '9292' app voor realtime reisinformatie tijdens regen.",
+              "Gebruik de app '9292' voor realtime OV-updates tijdens regen.",
               "Bussen kunnen druk worden bij nat weer; reken op extra tijd.",
               "Contactloos in-/uitchecken met je bankpas is het makkelijkst.",
               "Station Amersfoort heeft een grote, overdekte wachtruimte."
@@ -2287,7 +2287,7 @@
             "hu": "A meleg állomásról indulunk busszal a fagyos városközpontba. A Flehite Múzeum történelmi szobái télen kellemesen fűtöttek. Délben a Koppelpoort látványában gyönyörködünk, majd buszra szállunk a Camp Amersfoort felé. A téli tájon átvezető út tömegközlekedéssel pihentető. A napot a Mariënhofban zárjuk, ahonnan busz visz vissza a kivilágított állomásra.",
             "ro": "Din gara călduroasă, autobuzul ne duce în centrul înghețat la Turn. Sălile istorice ale Muzeului Flehite sunt bine încălzite iarna. La prânz admirăm Koppelpoort înainte de a lua autobuzul spre Camp Amersfoort. Drumul prin peisajul de iarnă este relaxant cu transportul public. Încheiem ziua la Mariënhof, de unde autobuzul ne duce înapoi la gara iluminată.",
             "en": "From the warm station, the bus takes us into the frosty city center. The historical rooms of Museum Flehite are comfortably heated in winter. At midday, we admire Koppelpoort before boarding the bus to Camp Amersfoort. The transit journey through the winter landscape is relaxing. We finish the day at Mariënhof, then take the bus back to the brightly lit station.",
-            "nl": "Vanaf het warme station brengt de bus ons naar het ijzige stadscentrum. De historische zalen van Museum Flehite zijn behaaglijk verwarmd in de winter. Rond het middaguur bewonderen we de Koppelpoort voordat we de bus naar Kamp Amersfoort nemen. De rit door het winterlandschap is ontspannen. We sluiten de dag af bij Mariënhof en nemen daarna de bus terug naar het helder verlichte station."
+            "nl": "Vanaf het warme station brengt de bus ons naar het ijzige stadscentrum. De historische zalen van Museum Flehite zijn comfortabel verwarmd in de winter. Rond de middag bewonderen we de Koppelpoort voordat we instappen naar Kamp Amersfoort. De reis door het winterlandschap is ontspannend. We sluiten de dag af bij Mariënhof en nemen daarna de bus terug naar het helder verlichte station."
           },
           "stops": [
             {
@@ -2307,7 +2307,7 @@
                 "hu": "A buszok 10 percenként járnak, kevés a várakozás.",
                 "ro": "Autobuzele circulă la 10 minute, așteptare minimă.",
                 "en": "Buses run every 10 minutes, minimizing outdoor wait times.",
-                "nl": "Bussen rijden elke 10 minuten, waardoor wachttijden buiten minimaal zijn."
+                "nl": "Bussen rijden elke 10 minuten, waardoor buiten wachten kort is."
               }
             },
             {
@@ -2317,7 +2317,7 @@
                 "hu": "Meleg pihenőhely az óváros szívében.",
                 "ro": "Refugiu călduros în inima centrului vechi.",
                 "en": "A warm retreat in the heart of the old town.",
-                "nl": "Een warme toevlucht in het hart van de oude stad."
+                "nl": "Een warm toevluchtsoord in het hart van de oude stad."
               }
             },
             {
@@ -2327,7 +2327,7 @@
                 "hu": "A megálló szélvédett helyen található.",
                 "ro": "Stația este situată într-un loc ferit de vânt.",
                 "en": "The bus stop is located in a wind-sheltered spot.",
-                "nl": "De bushalte bevindt zich op een plek beschut tegen de wind."
+                "nl": "De bushalte bevindt zich op een plek die windbeschutting biedt."
               }
             },
             {
@@ -2347,7 +2347,7 @@
                 "hu": "A közeli megálló kíméli a lábakat a hidegben.",
                 "ro": "Distanța scurtă până la stație protejează picioarele.",
                 "en": "The short walk to the stop saves your feet from the cold.",
-                "nl": "De korte wandeling naar de halte spaart je voeten voor de kou."
+                "nl": "De korte wandeling naar de halte spaart je voeten tegen de kou."
               }
             }
           ],
@@ -2377,10 +2377,10 @@
               "The evening return trip offers great views of the city lights."
             ],
             "nl": [
-              "Treinen en bussen zijn doorgaans goed verwarmd in de winter.",
+              "Treinen en bussen zijn over het algemeen goed verwarmd in de winter.",
               "Bussen kunnen lichte vertragingen oplopen bij ijzige omstandigheden.",
               "Dienstregelingen veranderen zelden voor het winterseizoen.",
-              "De terugrit in de avond biedt mooie uitzichten op de stadslichten."
+              "De avondterugreis biedt een prachtig uitzicht op de stadslichten."
             ]
           }
         }

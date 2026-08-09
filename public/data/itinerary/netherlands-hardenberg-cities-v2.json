@@ -22,7 +22,7 @@
             "hu": "Szent István-templom",
             "ro": "Biserica Sfântul Ștefan",
             "en": "St. Stephen's Church",
-            "nl": "Sint-Stefanuskerk"
+            "nl": "Sint-Stevenskerk"
           },
           "coords": [
             6.619,
@@ -143,7 +143,7 @@
             "hu": "Nagyszerű fotótéma, különösen késő délután.",
             "ro": "Un subiect fotografic excelent, mai ales după-amiaza târziu.",
             "en": "A great photo opportunity, especially in the late afternoon.",
-            "nl": "Een geweldige fotomogelijkheid, vooral in de late namiddag."
+            "nl": "Een mooie fotomogelijkheid, vooral in de late namiddag."
           }
         },
         {
@@ -152,7 +152,7 @@
             "hu": "De Star szélmalom",
             "ro": "Moara de vânt De Star",
             "en": "De Star Windmill",
-            "nl": "De Star Molen"
+            "nl": "De Star-molen"
           },
           "coords": [
             6.61,
@@ -178,7 +178,7 @@
         "hu": "Kezdje a napot Hardenberg szívében, a Szent István-templomnál. A történelmi központ és a múzeum felfedezése után a Városi park zöld oázisként nyújt nyugalmat. Délután egy hosszabb séta vezet a Vecht folyó mentén a tágas Vecht-parkon keresztül, ahol a természet és a művészet találkozik. Zárja a túrát a város ipari örökségének megtekintésével: a víztoronnyal és a tájban büszkén álló De Star szélmalommal.",
         "ro": "Începeți ziua în inima orașului Hardenberg, la Biserica Sfântul Ștefan. După explorarea centrului istoric și a muzeului, Parcul Orașului oferă o oază de liniște și verdeață. După-amiaza, o plimbare mai lungă vă poartă de-a lungul râului Vecht prin vastul Parc Vecht, unde natura și arta se întâlnesc. Încheiați turul cu o privire asupra moștenirii industriale a orașului, Turnul de Apă și Moara De Star, care stau mândre în peisaj.",
         "en": "Start your day in the heart of Hardenberg at St. Stephen's Church. After exploring the historic center and the museum, the City Park offers a green oasis of tranquility. In the afternoon, a longer walk takes you along the Vecht river through the expansive Vecht Park, where nature and art meet. End your tour with a look at the city's industrial heritage, the Water Tower and the De Star Windmill, standing proudly in the landscape.",
-        "nl": "Begin uw dag in het hart van Hardenberg bij Sint-Stefanuskerk. Na het verkennen van het historische centrum en het museum biedt het Stadspark een groene oase van rust. In de namiddag brengt een langere wandeling u langs de Vecht door het uitgestrekte Vechtpark, waar natuur en kunst samenkomen. Sluit uw rondje af met een blik op het industrieel erfgoed van de stad: de Watertoren en De Star Molen, trots in het landschap."
+        "nl": "Begin je dag in het hart van Hardenberg bij de Sint-Stevenskerk. Na het verkennen van het historische centrum en het museum biedt het Stadspark een groene oase van rust. In de namiddag brengt een langere wandeling je langs de rivier de Vecht door het uitgestrekte Vechtpark, waar natuur en kunst samenkomen. Sluit je rondleiding af met een blik op het industriële erfgoed van de stad: de Watertoren en De Star-molen, die trots in het landschap staan."
       },
       "gastro_picks": {
         "de": [
@@ -376,10 +376,10 @@
           "An umbrella or a light raincoat is always a good idea in the Netherlands."
         ],
         "nl": [
-          "Draag comfortabele schoenen, u zult veel wandelen.",
+          "Draag comfortabele schoenen, want je zult veel lopen.",
           "Een herbruikbare waterfles is handig; er zijn meerdere openbare fonteinen.",
-          "Controleer van tevoren de openingstijden van het museum.",
-          "Een paraplu of een lichte regenjas is altijd handig in Nederland."
+          "Controleer de openingstijden van het museum van tevoren.",
+          "Een paraplu of een lichte regenjas is in Nederland altijd een goed idee."
         ]
       },
       "variants": {
@@ -389,7 +389,7 @@
             "hu": "A reggel a Szent István-templom falai között indul, védve az esőtől. Délben a Történeti Múzeum kiállításai nyújtanak menedéket a zivatar elől. Délután egy rövid esernyős séta következik a Vecht parkban. A napot a De Star szélmalomnál zárjuk, hallgatva az eső kopogását a vitorlákon.",
             "ro": "Dimineața începe la biserica Sf. Ștefan, oferind un refugiu uscat. La prânz, ne adăpostim de ploaie în Muzeul Istoric. După-amiaza, facem o scurtă plimbare prin parcul Vecht când ploaia se mai domolește. Ziua se încheie la moara de vânt De Star, ascultând picăturile bătând în lemn.",
             "en": "Morning starts at St. Stephen's Church, providing a dry sanctuary. By noon, we escape the rain in the Historical Museum. In the afternoon, take a brief umbrella walk through Vecht Park during a break in the clouds. The day ends at De Star Windmill as raindrops drum against the sails.",
-            "nl": "De ochtend begint droog in de Sint-Stefanuskerk. Rond het middaguur schuilen we in het Historisch Museum. In de namiddag maakt u bij een wolkbreuk een korte parapluwandeling door het Vechtpark. De dag eindigt bij De Star Molen terwijl regendruppels tegen de wieken trommelen."
+            "nl": "De ochtend begint in de Sint-Stevenskerk, een droog toevluchtsoord. Rond het middaguur schuilen we in het Historisch Museum. In de namiddag maak je een korte wandeling met paraplu door het Vechtpark tijdens een adempauze in de wolken. De dag eindigt bij De Star-molen terwijl regendruppels tegen de wieken tikken."
           },
           "stops": [
             {
@@ -399,7 +399,7 @@
                 "hu": "Használja a templom vastag falait szélfogónak várakozás közben.",
                 "ro": "Folosiți portalul greu al bisericii pentru a vă feri de vânt.",
                 "en": "Use the church's heavy portal as a windbreak while waiting.",
-                "nl": "Gebruik het zware kerkportaal als windscherm tijdens het wachten."
+                "nl": "Gebruik het zware portaal van de kerk als windscherm tijdens het wachten."
               }
             },
             {
@@ -409,7 +409,7 @@
                 "hu": "Van ruhatár – hagyja a vizes esernyőket a bejáratnál.",
                 "ro": "Garderobă disponibilă – lăsați umbrelele ude la intrare.",
                 "en": "Cloakroom available – leave wet umbrellas at the entrance.",
-                "nl": "Kleedkamer aanwezig – laat natte paraplu’s bij de ingang achter."
+                "nl": "Garderobe aanwezig – laat natte paraplu’s bij de ingang achter."
               }
             },
             {
@@ -419,7 +419,7 @@
                 "hu": "Maradjon az aszfaltozott utakon a sár elkerülése érdekében.",
                 "ro": "Rămâneți pe potecile asfaltate pentru a evita noroiul.",
                 "en": "Stay on the paved paths to avoid the mud.",
-                "nl": "Blijf op de verharde paden om modder te vermijden."
+                "nl": "Blijf op de verharde paden om de modder te vermijden."
               }
             },
             {
@@ -429,7 +429,7 @@
                 "hu": "A folyóparti pavilon rövid ideig védelmet nyújt a záporok elől.",
                 "ro": "Pavilionul de lângă râu oferă adăpost temporar de ploaie.",
                 "en": "The riverside pavilion offers brief shelter from showers.",
-                "nl": "Het paviljoen aan de rivier biedt korte beschutting tegen buien."
+                "nl": "Het paviljoen aan de rivieroever biedt korte beschutting tegen buien."
               }
             },
             {
@@ -439,7 +439,7 @@
                 "hu": "Gyors fotómegálló, ami esőben is impozáns látványt nyújt.",
                 "ro": "O oprire rapidă pentru fotografii, impresionantă și pe ploaie.",
                 "en": "A quick photo stop that looks imposing even in the rain.",
-                "nl": "Een snelle fotostop die zelfs in de regen imposant oogt."
+                "nl": "Een korte fotostop die indrukwekkend oogt, zelfs in de regen."
               }
             },
             {
@@ -480,9 +480,9 @@
             ],
             "nl": [
               "Draag waterdichte wandelschoenen voor de parkpaden.",
-              "Het stadscentrum heeft veel cafés om bij zware regen op te warmen.",
-              "Een stevige paraplu wordt aangeraden vanwege de wind bij de rivier.",
-              "Controleer een regenradar-app voor droge tijdsvensters."
+              "Het centrum heeft veel cafés om je in zware regen op te warmen.",
+              "Een stevige paraplu wordt aanbevolen vanwege de wind bij de rivier.",
+              "Controleer een neerslagradar-app voor droge perioden."
             ]
           }
         },
@@ -492,7 +492,7 @@
             "hu": "A fagyos reggel a csendes Szent István-templomban indul. Délben a múzeum helytörténeti tárlatai között melegszünk fel. Délután a Vecht parkot csodáljuk meg a téli fényekben. Mivel korán nyugszik a nap, a túrát a kivilágított De Star malomnál fejezzük be.",
             "ro": "Dimineața geroasă începe în liniștea bisericii Sf. Ștefan. La prânz, ne încălzim printre exponatele istorice ale muzeului. După-amiaza, admirăm parcul Vecht în lumina palidă a iernii. Deoarece soarele apune devreme, turul se încheie la lumina morii De Star.",
             "en": "The frosty morning begins in the quiet St. Stephen's Church. At noon, we warm up among the local history exhibits in the museum. In the afternoon, we admire Vecht Park in the pale winter light. As the sun sets early, we conclude the tour by the lights of De Star Windmill.",
-            "nl": "De ijzige ochtend begint in de stille Sint-Stefanuskerk. Rond het middaguur warmen we op tussen de lokale historisch-collecties in het museum. In de namiddag bewonderen we het Vechtpark in het bleke winterlicht. Als de zon vroeg ondergaat, sluiten we de rondleiding af bij de verlichting van De Star Molen."
+            "nl": "De ijskoude ochtend begint in het rustige Sint-Stephanuskerk. ’s Middags warmen we ons bij de lokale geschiedenisexposities in het museum. In de namiddag bewonderen we Vechtpark in het bleke winterlicht. Omdat de zon vroeg ondergaat, sluiten we de rondwandeling af bij de lichten van de De Star-molen."
           },
           "stops": [
             {
@@ -512,7 +512,7 @@
                 "hu": "Ideális hely, hogy egy órára elfelejtse a kinti hideget.",
                 "ro": "Locul ideal pentru a uita de frig timp de o oră.",
                 "en": "The ideal place to forget the cold for an hour.",
-                "nl": "De ideale plek om het een uur koud te vergeten."
+                "nl": "De ideale plek om een uur de kou te vergeten."
               }
             },
             {
@@ -522,7 +522,7 @@
                 "hu": "Vigyázzon a jeges foltokra a park hídjain.",
                 "ro": "Atenție la porțiunile înghețate de pe podurile din parc.",
                 "en": "Watch out for icy spots on the park's bridges.",
-                "nl": "Let op gladde plekken op de bruggen in het park."
+                "nl": "Let op gladde plekken op de bruggetjes in het park."
               }
             },
             {
@@ -532,7 +532,7 @@
                 "hu": "A parti nádas zúzmarásan különösen szép látványt nyújt.",
                 "ro": "Stuful de pe mal arată deosebit de frumos când este înghețat.",
                 "en": "The reeds along the shore look beautiful when frosted.",
-                "nl": "De rietkragen langs de oever zien er prachtig uit als ze aangevroren zijn."
+                "nl": "De rietkragen langs de oever zien er prachtig uit als ze bevroren zijn."
               }
             },
             {
@@ -542,7 +542,7 @@
                 "hu": "A sötét sziluett élesen elüt a téli égbolttól.",
                 "ro": "Silueta întunecată contrastează puternic cu cerul de iarnă.",
                 "en": "The dark silhouette contrasts sharply with the winter sky.",
-                "nl": "De donkere silhouet contrasteert scherp met de winterlucht."
+                "nl": "De donkere silhouet contrasteert sterk met de winterlucht."
               }
             },
             {
@@ -552,7 +552,7 @@
                 "hu": "A látogatás után igyon egy forró italt a közelben.",
                 "ro": "După vizită, luați o băutură caldă în apropiere.",
                 "en": "Grab a hot drink nearby after your visit.",
-                "nl": "Neem na uw bezoek een warme drank in de buurt."
+                "nl": "Haal na je bezoek een warme drank in de buurt."
               }
             }
           ],
@@ -582,10 +582,10 @@
               "Use the midday hours for the longest outdoor stretches."
             ],
             "nl": [
-              "De zon gaat al om 16:30 onder aan de horizon.",
-              "Warme lagen en handschoenen zijn essentieel langs de Vechtoevers.",
-              "Veel cafés sluiten in de winter iets vroeger dan in de zomer.",
-              "Gebruik de middaguren voor de langste stukken buiten."
+              "De zon gaat al om 16:30 uur onder achter de horizon.",
+              "Warme lagen en handschoenen zijn essentieel langs de oevers van de Vecht.",
+              "Veel cafés sluiten in de winter iets eerder dan in de zomer.",
+              "Gebruik de middaguren voor de langste buitenetappes."
             ]
           }
         }
@@ -605,7 +605,7 @@
             "hu": "De Star szélmalom",
             "ro": "Moara de vânt De Star",
             "en": "De Star Windmill",
-            "nl": "De Star Molen"
+            "nl": "De Star-molen"
           },
           "coords": [
             6.61,
@@ -631,7 +631,7 @@
             "hu": "Szent István-templom",
             "ro": "Biserica Sfântul Ștefan",
             "en": "St. Stephen's Church",
-            "nl": "Sint-Stefanuskerk"
+            "nl": "Sint-Stephanuskerk"
           },
           "coords": [
             6.619,
@@ -648,7 +648,7 @@
             "hu": "Parkolja le a kerékpárt, és szánjon időt a belső tér megtekintésére.",
             "ro": "Parcați bicicleta și acordați-vă timp pentru a explora interiorul.",
             "en": "Park your bike and take your time to explore the interior.",
-            "nl": "Zet uw fiets neer en neem de tijd om het interieur te verkennen."
+            "nl": "Parkeer je fiets en neem de tijd om het interieur te verkennen."
           }
         },
         {
@@ -674,7 +674,7 @@
             "hu": "A kerékpárutak itt kiválóak és gyönyörű tájakon vezetnek keresztül.",
             "ro": "Pistele de biciclete de aici sunt excelente și duc prin peisaje frumoase.",
             "en": "The bike paths here are excellent and lead through beautiful scenery.",
-            "nl": "De fietspaden zijn hier uitstekend en voeren door prachtig landschap."
+            "nl": "De fietspaden hier zijn uitstekend en leiden door mooie landschappen."
           }
         },
         {
@@ -700,7 +700,7 @@
             "hu": "Természeti aktivációs központ, ideális egy szünetre és a helyi flóra és fauna megismerésére.",
             "ro": "Un centru de activități în natură, ideal pentru o pauză și pentru a afla mai multe despre flora și fauna locală.",
             "en": "A nature activity center, ideal for a break and to learn about the local flora and fauna.",
-            "nl": "Een natuuractiviteitencentrum, ideaal voor een pauze en om te leren over de lokale flora en fauna."
+            "nl": "Een natuuractiviteitencentrum, ideaal voor een pauze en om over de lokale flora en fauna te leren."
           }
         },
         {
@@ -726,7 +726,7 @@
             "hu": "Gyönyörű üdülőterület egy tóval. Tökéletes egy hosszabb pihenőre vagy akár egy rövid úszásra nyáron.",
             "ro": "O zonă de agrement frumoasă cu un lac. Perfectă pentru o pauză mai lungă sau chiar o baie scurtă în timpul verii.",
             "en": "A beautiful recreational area with a lake. Perfect for a longer rest or even a quick swim in summer.",
-            "nl": "Een prachtig recreatiegebied met een meer. Perfect voor een langere rustpauze of zelfs een snelle zwem in de zomer."
+            "nl": "Een prachtig recreatiegebied met een meer. Perfect voor een langere rust of zelfs een korte zwempartij in de zomer."
           }
         },
         {
@@ -752,7 +752,7 @@
             "hu": "A természet után merüljön el a történelemben. Kellemes változatosság.",
             "ro": "După natură, scufundați-vă în istorie. O schimbare plăcută.",
             "en": "After nature, delve into history. A nice change of pace.",
-            "nl": "Na de natuur duik je in de geschiedenis. Een fijne afwisseling."
+            "nl": "Na de natuur, duik in de geschiedenis. Een prettige afwisseling."
           }
         },
         {
@@ -778,7 +778,7 @@
             "hu": "A túra utolsó állomása, a város szimbóluma, mielőtt lezárná a napot.",
             "ro": "Ultima oprire a turului, un simbol al orașului, înainte de a încheia ziua.",
             "en": "The last stop of the tour, a symbol of the city, before you wrap up the day.",
-            "nl": "De laatste stop van de tour, een symbool van de stad, voordat u de dag afsluit."
+            "nl": "De laatste stop van de rondgang, een symbool van de stad, voordat je de dag afsluit."
           }
         }
       ],
@@ -787,7 +787,7 @@
         "hu": "Pattanjon kerékpárra, és kezdje a napot a De Star szélmalomnál. Onnan tekerjen be a központba a Szent István-templomhoz. Az útvonal tovább vezet a zöld Vecht-parkon keresztül a De Koppel természeti központhoz. Délután fedezze fel az Oelemars-tó körüli tágas tájat – tökéletes egy hosszú szünetre. A túra végén térjen vissza a városba, látogasson el a Történeti Múzeumba, és zárja a napot a víztoronynál.",
         "ro": "Urcați-vă pe bicicletă și începeți ziua la Moara De Star. De acolo, pedalați spre centru, la Biserica Sfântul Ștefan. Traseul vă duce mai departe prin Parcul Vecht verde până la centrul natural De Koppel. După-amiaza, explorați peisajul vast din jurul lacului Oelemars - perfect pentru o pauză lungă. La finalul turului, reveniți în oraș pentru a vizita Muzeul de Istorie și a încheia ziua la Turnul de Apă.",
         "en": "Get on your bike and start the day at the De Star Windmill. From there, cycle to the center to St. Stephen's Church. The route takes you further through the green Vecht Park to the De Koppel nature center. In the afternoon, discover the vast landscape around Lake Oelemars - perfect for a long break. At the end of your tour, return to the city to visit the Historical Museum and end the day at the Water Tower.",
-        "nl": "Pak uw fiets en begin de dag bij De Star Molen. Fiets vanaf daar naar het centrum en naar Sint-Stefanuskerk. De route voert verder door het groene Vechtpark naar het natuurcentrum De Koppel. In de namiddag ontdekt u het ruime landschap rond het Meer van Oelemars — perfect voor een lange pauze. Aan het einde van uw rondtocht keert u terug naar de stad om het Historisch Museum te bezoeken en sluit u de dag af bij de Watertoren."
+        "nl": "Stap op je fiets en begin de dag bij De Star-molen. Vanuit daar fiets je naar het centrum naar Sint-Stephanuskerk. De route voert verder door het groene Vechtpark naar natuurcentrum De Koppel. In de namiddag ontdek je het uitgestrekte landschap rond het meer Oelemars - perfect voor een lange pauze. Aan het eind van je tocht keer je terug naar de stad om het Historisch Museum te bezoeken en de dag af te sluiten bij de Watertoren."
       },
       "gastro_picks": {
         "de": [
@@ -985,10 +985,10 @@
           "Pay attention to Dutch traffic rules for cyclists."
         ],
         "nl": [
-          "Huur een fiets als u er geen heeft. Er zijn meerdere verhuurpunten.",
-          "Neem voldoende water en wat snacks mee voor de langere stukken.",
+          "Huur een fiets als je er zelf geen hebt. Er zijn meerdere verhuurstations.",
+          "Neem voldoende water en wat snacks mee voor de langere etappes.",
           "Een fietsslot is essentieel.",
-          "Let op de Nederlandse verkeersregels voor fietsers."
+          "Houd je aan de Nederlandse verkeersregels voor fietsers."
         ]
       },
       "variants": {
@@ -998,7 +998,7 @@
             "hu": "Szélvédett helyen kezdünk a De Star malomnál. Délben gyorsan a Szent István-templomhoz tekerünk az eső elől. A délután a De Koppel természetvédelmi központé, amely remek beltéri részekkel bír. Esőben is élvezzük a sík tájat, mielőtt betérünk a múzeumba.",
             "ro": "Începem feriți de vânt la moara De Star. La prânz, pedalăm rapid spre biserica Sf. Ștefan pentru a scăpa de ploaie. După-amiaza aparține centrului De Koppel, care oferă spații interioare excelente. În ciuda ploii, ne bucurăm de peisaj înainte de muzeu.",
             "en": "We start wind-protected by the De Star Windmill. At noon, we cycle quickly to St. Stephen's to escape a downpour. The afternoon is dedicated to De Koppel nature center, which offers great indoor areas. Despite the rain, we enjoy the flat landscape before heading to the museum.",
-            "nl": "We starten windbeschut bij De Star Molen. Rond het middaguur fietsen we snel naar Sint-Stefanus om een bui te ontlopen. De namiddag is gewijd aan natuurcentrum De Koppel, dat uitstekende binnenruimtes biedt. Ondanks de regen genieten we van het vlakke landschap voordat we naar het museum gaan."
+            "nl": "We beginnen windbeschermd bij De Star-molen. ’s Middags fietsen we snel naar Sint-Stephanus om een hoosbui te ontlopen. De namiddag is gewijd aan natuurcentrum De Koppel, dat uitstekende binnenruimtes biedt. Ondanks de regen genieten we van het vlakke landschap voordat we naar het museum gaan."
           },
           "stops": [
             {
@@ -1008,7 +1008,7 @@
                 "hu": "Ellenőrizze a szelet, mielőtt a nyílt szakaszra indulna.",
                 "ro": "Verificați vântul înainte de a porni pe porțiunea deschisă.",
                 "en": "Check the wind before starting the open stretch.",
-                "nl": "Controleer de wind voordat u de open stukken begint."
+                "nl": "Controleer de wind voordat je aan het open gedeelte begint."
               }
             },
             {
@@ -1018,7 +1018,7 @@
                 "hu": "Használja a kerékpártárolót közvetlenül a templom bejáratánál.",
                 "ro": "Folosiți suporturile de biciclete direct la intrarea bisericii.",
                 "en": "Use the bike racks right at the church entrance.",
-                "nl": "Gebruik de fietsrekken direct bij de kerkpoort."
+                "nl": "Gebruik de fietsenrekken direct bij de kerkentree."
               }
             },
             {
@@ -1038,7 +1038,7 @@
                 "hu": "Az információs központ tökéletes hely egy száraz pihenőre.",
                 "ro": "Centrul de informare este locul perfect pentru o pauză uscată.",
                 "en": "The info center is the perfect place for a dry break.",
-                "nl": "Het infocentrum is de perfecte plek voor een droge pauze."
+                "nl": "Het informatiecentrum is de perfecte plek voor een droge pauze."
               }
             },
             {
@@ -1048,7 +1048,7 @@
                 "hu": "A madármegfigyelő kunyhó védelmet és jó kilátást nyújt.",
                 "ro": "Observatorul de păsări oferă adăpost și o vedere bună.",
                 "en": "The bird hide offers shelter and a good view.",
-                "nl": "Het vogelkijkhut biedt beschutting en een goed uitzicht."
+                "nl": "De vogelkijkhut biedt beschutting en een goed uitzicht."
               }
             },
             {
@@ -1058,7 +1058,7 @@
                 "hu": "Biztonságos kerékpárparkoló a közeli bevásárlóutcában.",
                 "ro": "Parcare sigură pentru biciclete în strada comercială apropiată.",
                 "en": "Safe bike parking in the nearby shopping street.",
-                "nl": "Veilige fietsenstalling in de nabijgelegen winkelstraat."
+                "nl": "Veilig fietsenstalling in de nabijgelegen winkelstraat."
               }
             },
             {
@@ -1068,7 +1068,7 @@
                 "hu": "Gyors megálló; a sárvédő ma aranyat ér.",
                 "ro": "Oprire scurtă; aripile la bicicletă valorează aur astăzi.",
                 "en": "Quick stop; mudguards on your bike are worth gold today.",
-                "nl": "Korte stop; spatborden op uw fiets zijn vandaag goud waard."
+                "nl": "Korte stop; spatborden op je fiets zijn vandaag goud waard."
               }
             }
           ],
@@ -1098,9 +1098,9 @@
               "Wear a bright raincoat for better visibility."
             ],
             "nl": [
-              "Vermijd scherp remmen op natte brugoppervlakken.",
-              "Een waterdichte zadeltas houdt uw snacks droog.",
-              "Gebruik spooronderdoorgangen als korte regenbeschutting.",
+              "Vermijd hard remmen op natte brugdekken.",
+              "Een waterdichte zadeltas houdt je snacks droog.",
+              "Gebruik spoorwegtunnels als korte regenloodsen.",
               "Draag een felgekleurde regenjas voor betere zichtbaarheid."
             ]
           }
@@ -1111,7 +1111,7 @@
             "hu": "A hűvös indítás a malomnál felébreszti az érzékeket. Gyorsan tekerünk a fagyos Vecht parkon át a De Koppel központba. Délben a meleg múzeum kínál szívesen látott pihenőt a menetszél után. Még sötétedés előtt elérjük a víztornyot, az alkonyi fényekben.",
             "ro": "Un început răcoros la moară trezește simțurile. Pedalăm rapid prin parcul Vecht înghețat spre centrul De Koppel. La prânz, muzeul cald oferă o pauză binevenită de vânt. Înainte de lăsarea întunericului, ajungem la turnul de apă, luminat de amurg.",
             "en": "A chilly start at the windmill wakes up the senses. we cycle quickly through the frosty Vecht Park to De Koppel center. At noon, the warm museum offers a welcome break from the wind. Before darkness falls, we reach the water tower, lit by the early sunset.",
-            "nl": "Een kille start bij de molen prikkelt de zintuigen. We fietsen snel door het bevroren Vechtpark naar natuurcentrum De Koppel. Rond het middaguur biedt het warme museum een welkome pauze van de wind. Voordat het donker wordt, bereiken we de watertoren, verlicht door de vroege zonsondergang."
+            "nl": "Een kille start bij de molen wekt de zintuigen. we fietsen snel door het besneeuwde Vechtpark naar natuurcentrum De Koppel. ’s Middags biedt het warme museum een welkome pauze van de wind. Voordat het donker wordt bereiken we de watertoren, verlicht door de vroege zonsondergang."
           },
           "stops": [
             {
@@ -1121,7 +1121,7 @@
                 "hu": "A kesztyű ebben a szélben kötelező darab.",
                 "ro": "Mănușile sunt absolut obligatorii pe acest vânt.",
                 "en": "Gloves are an absolute must in this wind.",
-                "nl": "Handschoenen zijn door de wind absoluut noodzakelijk."
+                "nl": "Handschoenen zijn in deze wind absoluut noodzakelijk."
               }
             },
             {
@@ -1131,7 +1131,7 @@
                 "hu": "Rövid pihenő a hajóban, hogy felmelegítse az ujjait.",
                 "ro": "Scurtă pauză în navă pentru a vă încălzi degetele.",
                 "en": "Brief break in the nave to warm up your fingers.",
-                "nl": "Korte pauze in het schip om uw vingers op te warmen."
+                "nl": "Korte pauze in het schip om je vingers op te warmen."
               }
             },
             {
@@ -1141,7 +1141,7 @@
                 "hu": "Itt gyakran erős a szél – tekerjen határozottan.",
                 "ro": "Vântul bate adesea puternic aici – pedalați cu putere.",
                 "en": "The wind often blows hard here – pedal firmly.",
-                "nl": "De wind waait hier vaak hard – blijf stevig trappen."
+                "nl": "De wind waait hier vaak hard – trap stevig door."
               }
             },
             {
@@ -1161,7 +1161,7 @@
                 "hu": "Szép kilátás a tóra, télen gyakran látni költöző madarakat.",
                 "ro": "Vedere frumoasă spre lac, adesea cu păsări migratoare iarna.",
                 "en": "Nice lake view, often with migratory birds in winter.",
-                "nl": "Mooi meerzicht, vaak met trekvogels in de winter."
+                "nl": "Mooi uitzicht over het meer, vaak met trekvogels in de winter."
               }
             },
             {
@@ -1171,7 +1171,7 @@
                 "hu": "Használja az előtér fűtését egy rövid pihenőre.",
                 "ro": "Folosiți încălzirea din hol pentru un scurt popas.",
                 "en": "Use the heating in the foyer for a short rest.",
-                "nl": "Gebruik de verwarming in de foyer voor een korte rustpauze."
+                "nl": "Gebruik de verwarming in de foyer voor een korte rust."
               }
             },
             {
@@ -1181,7 +1181,7 @@
                 "hu": "Ügyeljen a működő lámpákra a visszaúton.",
                 "ro": "Asigurați-vă că luminile funcționează pentru drumul de întoarcere.",
                 "en": "Ensure your lights are working for the ride back.",
-                "nl": "Zorg dat uw verlichting werkt voor de terugrit."
+                "nl": "Zorg dat je verlichting werkt voor de terugrit."
               }
             }
           ],
@@ -1211,10 +1211,10 @@
               "Finish the tour by 4:30 PM to stay in the light."
             ],
             "nl": [
-              "Controleer de bandenspanning; koude lucht doet die dalen.",
-              "Paden langs de rivier kunnen bij vorst zeer glad zijn.",
-              "Een nekwarmer beschermt uw gezicht tegen de koude wind.",
-              "Rond de rondleiding vóór 16:30 af om in het licht te blijven."
+              "Controleer de bandenspanning; koude lucht doet deze dalen.",
+              "De paden langs de rivier kunnen bij rijp zeer glad zijn.",
+              "Een nekwarmer beschermt je gezicht tegen de koude wind.",
+              "Rond 16:30 uur beëindig je de tocht om in het licht te blijven."
             ]
           }
         }
@@ -1234,7 +1234,7 @@
             "hu": "Oelemars parkoló",
             "ro": "Parcare Oelemars",
             "en": "Oelemars Car Park",
-            "nl": "Oelemars Parkeerplaats"
+            "nl": "Parkeerplaats Oelemars"
           },
           "coords": [
             6.648,
@@ -1260,7 +1260,7 @@
             "hu": "Oelemars-tó",
             "ro": "Lacul Oelemars",
             "en": "Oelemars Lake",
-            "nl": "Oelemarsmeer"
+            "nl": "Meer van Oelemars"
           },
           "coords": [
             6.65,
@@ -1312,7 +1312,7 @@
             "hu": "Szent István-templom",
             "ro": "Biserica Sfântul Ștefan",
             "en": "St. Stephen's Church",
-            "nl": "Sint-Stefanuskerk"
+            "nl": "Sint-Stephanuskerk"
           },
           "coords": [
             6.619,
@@ -1329,7 +1329,7 @@
             "hu": "A történelmi központ szíve, csak egy rövid sétára a parkolótól.",
             "ro": "Inima centrului istoric, la o scurtă plimbare de parcare.",
             "en": "The heart of the historic center, just a short walk from the car park.",
-            "nl": "Het hart van het historische centrum, op slechts een korte wandeling van de parkeerplaats."
+            "nl": "Het hart van het historische centrum, op korte loopafstand van de parkeerplaats."
           }
         },
         {
@@ -1355,7 +1355,7 @@
             "hu": "Mélyítse el tudását a helyi történelemről a templomlátogatás után.",
             "ro": "Aprofundați-vă cunoștințele despre istoria locală după vizitarea bisericii.",
             "en": "Deepen your knowledge of local history after visiting the church.",
-            "nl": "Verdiep je in de lokale geschiedenis na een bezoek aan de kerk."
+            "nl": "Verdiep je kennis van de lokale geschiedenis na het bezoek aan de kerk."
           }
         },
         {
@@ -1381,7 +1381,7 @@
             "hu": "Egy rövid autós váltás egy délutánra egy másik természeti tájra.",
             "ro": "O scurtă schimbare de mașină pentru o după-amiază într-un alt peisaj natural.",
             "en": "A short car change for an afternoon in a different natural landscape.",
-            "nl": "Een korte autorit voor een middag in een ander natuurlijk landschap."
+            "nl": "Een korte autorit voor een namiddag in een ander natuurlandschap."
           }
         },
         {
@@ -1416,7 +1416,7 @@
         "hu": "Kezdje a napot autóval az Oelemars-tónál egy csendes reggeli sétával. Ezután hajtson be a központba, parkolja le az autót, és fedezze fel gyalog a történelmi magot: a Szent István-templomot és a múzeumot. Ebéd után egy rövid autóút elviszi a De Koppel természeti központhoz. Töltse a délutánt a központ és a szomszédos Vecht-park felfedezésével, amely a klaszter-séta filozófia tökéletes példája, mielőtt befejezné a napot.",
         "ro": "Începeți ziua cu mașina la lacul Oelemars pentru o plimbare liniștită de dimineață. Apoi, conduceți spre centru, parcați mașina și explorați nucleul istoric pe jos: Biserica Sfântul Ștefan și muzeul. După prânz, o scurtă călătorie cu mașina vă duce la centrul natural De Koppel. Petreceți după-amiaza explorând centrul și Parcul Vecht adiacent, un exemplu perfect al filozofiei plimbării în cluster, înainte de a încheia ziua.",
         "en": "Start your day by car at Oelemars Lake for a quiet morning walk. Then drive to the center, park your car, and explore the historic core on foot: St. Stephen's Church and the museum. After lunch, a short drive takes you to the De Koppel nature center. Spend the afternoon exploring the center and the adjacent Vecht Park, a perfect example of the cluster-walking philosophy, before ending the day.",
-        "nl": "Begin de dag met de auto bij Oelemarsmeer voor een rustige ochtendwandeling. Rijd daarna naar het centrum, parkeer en verken te voet het historische hart: Sint-Stefanuskerk en het museum. Na de lunch brengt een korte rit je naar het natuurcentrum De Koppel. Breng de middag door met het verkennen van het centrum en het aangrenzende Vechtpark, een perfect voorbeeld van de cluster-wandelfilosofie, voordat je de dag afsluit."
+        "nl": "Begin je dag met de auto bij het meer van Oelemars voor een rustige ochtendwandeling. Rijd daarna naar het centrum, parkeer je auto en verken het historische hart te voet: Sint-Stephanuskerk en het museum. Na de lunch brengt een korte rit je naar natuurcentrum De Koppel. Breng de namiddag door met het verkennen van het centrum en het aangrenzende Vechtpark, een perfect voorbeeld van de cluster-walkingfilosofie, voordat je de dag afsluit."
       },
       "gastro_picks": {
         "de": [
@@ -1615,9 +1615,9 @@
         ],
         "nl": [
           "Gebruik Park & Ride-opties indien beschikbaar.",
-          "Een navigatieapparaat is handig om de verschillende locaties te vinden.",
+          "Een navigatiesysteem is handig om de verschillende locaties te vinden.",
           "Laat geen waardevolle spullen zichtbaar in de auto achter.",
-          "Reken voldoende tijd voor verkeer tussen locaties, vooral tijdens piekuur."
+          "Reken voldoende tijd voor verkeer tussen locaties, vooral tijdens de spitsuren."
         ]
       },
       "variants": {
@@ -1627,7 +1627,7 @@
             "hu": "Kényelmesen parkolunk az Oelemarsnál, nézve az esőt a tavon. A városközpontot szárazon érjük el a parkolóházból. A délutánt a múzeumban és a templomban töltjük, mindkettő pár percre van csak. Később a De Koppel kínál természetközeli élményt fedett helyen.",
             "ro": "Parcăm confortabil la Oelemars și privim ploaia pe lac. Ajungem în centrul orașului uscați prin parcarea supraetajată. Prânzul trece în muzeu și la biserica Sf. Ștefan. După-amiaza, De Koppel oferă experiențe naturale sub un acoperiș solid.",
             "en": "We park conveniently at Oelemars and watch the rain on the lake. Reach the city center dry via the parking garage. Midday is spent in the museum and St. Stephen's, both just a short walk away. Afternoon features nature experiences at De Koppel under a solid roof.",
-            "nl": "We parkeren handig bij Oelemars en kijken naar de regen op het meer. Bereik het stadscentrum droog via de parkeergarage. De middag wordt in het museum en bij Sint-Stefanus doorgebracht, beide op korte loopafstand. De middag biedt natuurervaringen bij De Koppel onder een degelijk dak."
+            "nl": "We parkeren praktisch bij Oelemars en kijken naar de regen op het meer. Bereik het stadscentrum droog via de parkeergarage. De middag wordt doorgebracht in het museum en bij Sint-Stephanus, beide op korte loopafstand. De namiddag bevat natuurbelevenissen bij De Koppel onder een degelijk dak."
           },
           "stops": [
             {
@@ -1647,7 +1647,7 @@
                 "hu": "Élvezze a kilátást közvetlenül az autó ablakából.",
                 "ro": "Bucurați-vă de priveliște direct de la fereastra mașinii.",
                 "en": "Enjoy the view directly from your car window.",
-                "nl": "Geniet van het uitzicht rechtstreeks vanuit je autoruit."
+                "nl": "Geniet van het uitzicht direct vanuit je autoruit."
               }
             },
             {
@@ -1657,7 +1657,7 @@
                 "hu": "A központi kijárat szinte közvetlenül a múzeumhoz vezet.",
                 "ro": "Ieșirea centrală duce aproape direct la muzeu.",
                 "en": "The central exit leads almost directly to the museum.",
-                "nl": "De centrale uitgang leidt bijna rechtstreeks naar het museum."
+                "nl": "De centrale uitrit leidt bijna direct naar het museum."
               }
             },
             {
@@ -1667,7 +1667,7 @@
                 "hu": "Gyors futás a parkolótól a védelmet nyújtó kapuig.",
                 "ro": "Sprint scurt de la parcare până la portalul protector.",
                 "en": "Short sprint from the parking to the protective portal.",
-                "nl": "Korte sprint van de parkeerplaats naar het beschermende portaal."
+                "nl": "Korte sprint van de parkeerplaats naar de beschermende portaal."
               }
             },
             {
@@ -1677,7 +1677,7 @@
                 "hu": "Tökéletes egy hosszabb esőszünethez a melegben.",
                 "ro": "Perfect pentru o pauză lungă de ploaie la căldură.",
                 "en": "Perfect for an extended rain break in the warm.",
-                "nl": "Perfect voor een langere regenpauze in de warmte."
+                "nl": "Perfect voor een verlengde regenpauze in de warmte."
               }
             },
             {
@@ -1687,7 +1687,7 @@
                 "hu": "Elegendő hely közvetlenül az információs központ előtt.",
                 "ro": "Locuri suficiente direct în fața centrului de informare.",
                 "en": "Sufficient spaces right in front of the info center.",
-                "nl": "Voldoende plaatsen direct voor het informatiecentrum."
+                "nl": "Voldoende plekken direct voor het informatiecentrum."
               }
             },
             {
@@ -1697,7 +1697,7 @@
                 "hu": "A belső rész interaktív kiállításokat kínál a régióról.",
                 "ro": "Interiorul oferă expoziții interactive despre regiune.",
                 "en": "The indoor area offers interactive exhibits about the region.",
-                "nl": "Het binnengebied biedt interactieve tentoonstellingen over de regio."
+                "nl": "De binnenruimte biedt interactieve tentoonstellingen over de regio."
               }
             }
           ],
@@ -1729,7 +1729,7 @@
             "nl": [
               "Gebruik overdekte parkeergarages in het centrum.",
               "Vermijd onverharde bermen bij de meren.",
-              "Houd een microvezeldoek klaar voor beslagen ramen.",
+              "Houd een microvezeldoekje bij de hand voor beslagen ruiten.",
               "De zichtbaarheid langs de Vecht kan beperkt zijn bij hevige regen."
             ]
           }
@@ -1740,7 +1740,7 @@
             "hu": "A nap a fagyos Oelemarsnál indul, ahol téli madarakat figyelhetünk meg. A fűtött autóval hajtunk a központba. Délben a múzeum történelmi emlékeit nézzük meg, majd a templomba látogatunk. A délután a De Koppel központban zárul egy csésze tea mellett.",
             "ro": "Ziua începe la Oelemars înghețat, unde observăm păsările de iarnă. Cu mașina încălzită mergem spre centru. La prânz explorăm istoria la muzeu, înainte de a intra în biserică. După-amiaza se încheie plăcut la centrul De Koppel cu o cană de ceai.",
             "en": "The day starts at the frosty Oelemars, watching winter birds. Drive in the heated car to the city center. At noon, explore history in the museum before visiting St. Stephen's. The afternoon winds down comfortably at De Koppel center with a cup of tea.",
-            "nl": "De dag begint bij het ijzige Oelemars, waar je wintervogels bekijkt. Rijd in de verwarmde auto naar het stadscentrum. ’s Middags verken je de geschiedenis in het museum voordat je Sint-Stefanus bezoekt. De middag eindigt comfortabel in het De Koppel-centrum met een kop thee."
+            "nl": "De dag begint bij de ijskoude Oelemars, waar je wintervogels bekijkt. Rijd in de verwarmde auto naar het centrum. Rond het middaguur verken je de geschiedenis in het museum voordat je St. Stephanus bezoekt. De middag eindigt rustig in het De Koppel-centrum met een kop thee."
           },
           "stops": [
             {
@@ -1750,7 +1750,7 @@
                 "hu": "Vigyázzon a lefagyott nedvességre a bekötőúton.",
                 "ro": "Atenție la polei pe drumul de acces.",
                 "en": "Watch out for black ice on the access road.",
-                "nl": "Pas op voor zwarte ijsplekken op de toegangsweg."
+                "nl": "Pas op voor zwarte ijsvorming op de toegangsweg."
               }
             },
             {
@@ -1760,7 +1760,7 @@
                 "hu": "A parton gyakran festői jégtáblák alakulnak ki.",
                 "ro": "Deseori se formează sloiuri de gheață pitorești pe mal.",
                 "en": "Picturesque drift ice often forms along the shore.",
-                "nl": "Pittoresk drijfijs vormt zich vaak langs de oever."
+                "nl": "Schitterend drijfijs vormt zich vaak langs de oever."
               }
             },
             {
@@ -1770,7 +1770,7 @@
                 "hu": "Parkoljon a földszinten, hogy elkerülje a jeges rámpát.",
                 "ro": "Parcați la parter pentru a evita rampa înghețată.",
                 "en": "Park on the ground floor to avoid the icy ramp.",
-                "nl": "Parkeer op de begane grond om de ijzige helling te vermijden."
+                "nl": "Parkeer op de begane grond om de ijzige oprit te vermijden."
               }
             },
             {
@@ -1780,7 +1780,7 @@
                 "hu": "A téli napsütés szépen vetődik át az ablakokon.",
                 "ro": "Soarele blând de iarnă cade frumos prin ferestre.",
                 "en": "The soft winter sun falls beautifully through the windows.",
-                "nl": "De zachte winterszon valt prachtig door de ruiten."
+                "nl": "De zachte winterzon valt prachtig door de ramen."
               }
             },
             {
@@ -1790,7 +1790,7 @@
                 "hu": "Melegedjen fel, mielőtt visszatérne az autóhoz.",
                 "ro": "Încălziți-vă înainte de a vă întoarce la mașină.",
                 "en": "Warm up before heading back to the car.",
-                "nl": "Warm je op voordat je terug naar de auto gaat."
+                "nl": "Warm op voordat je terug naar de auto gaat."
               }
             },
             {
@@ -1800,7 +1800,7 @@
                 "hu": "A rövid távok nagy előnyt jelentenek a jeges szélben.",
                 "ro": "Distanțele scurte sunt un mare avantaj pe vânt înghețat.",
                 "en": "Short distances are a big advantage in icy wind.",
-                "nl": "Korte afstanden zijn een groot voordeel bij ijzige wind."
+                "nl": "Korte afstanden zijn een groot voordeel in ijzige wind."
               }
             },
             {
@@ -1810,7 +1810,7 @@
                 "hu": "Téli előadások vagy workshopok gyakran bent zajlanak.",
                 "ro": "Prelegeri sau ateliere de iarnă au loc adesea în interior.",
                 "en": "Winter lectures or workshops often take place indoors.",
-                "nl": "Winterlezingen of -workshops vinden vaak binnen plaats."
+                "nl": "Wintercolleges of -workshops vinden vaak binnen plaats."
               }
             }
           ],
@@ -1841,9 +1841,9 @@
             ],
             "nl": [
               "Zorg dat er antivries in je ruitensproeiervloeistof zit.",
-              "Reken extra tijd voor het vinden van een parkeerplaats.",
-              "Duistering begint vroeg; controleer je verlichting.",
-              "Houd een warme deken in de auto voor pauzes."
+              "Neem extra tijd voor het vinden van een parkeerplek.",
+              "De schemering begint vroeg, controleer je koplampen.",
+              "Houd een warm deken in de auto voor pauzes."
             ]
           }
         }
@@ -1863,7 +1863,7 @@
             "hu": "Hardenberg vasútállomás",
             "ro": "Gara Hardenberg",
             "en": "Hardenberg Station",
-            "nl": "Hardenberg Station"
+            "nl": "Station Hardenberg"
           },
           "coords": [
             6.62,
@@ -1880,7 +1880,7 @@
             "hu": "Menjen busszal a központba, vagy kezdje innen a sétát.",
             "ro": "Luați autobuzul spre centru sau începeți plimbarea de aici.",
             "en": "Take the bus to the center or start your walk from here.",
-            "nl": "Neem de bus naar het centrum of begin je wandeling vanaf hier."
+            "nl": "Neem de bus naar het centrum of begin hier je wandeling."
           }
         },
         {
@@ -1889,7 +1889,7 @@
             "hu": "Központi buszmegálló",
             "ro": "Stația de autobuz Centru",
             "en": "Center Bus Stop",
-            "nl": "Centrum Bushalte"
+            "nl": "Centrum bushalte"
           },
           "coords": [
             6.618,
@@ -1915,7 +1915,7 @@
             "hu": "Szent István-templom és Történeti Múzeum",
             "ro": "Biserica Sf. Ștefan și Muzeul de Istorie",
             "en": "St. Stephen's Church & Historical Museum",
-            "nl": "Sint-Stefanuskerk & Historisch Museum"
+            "nl": "St. Stephanuskerk & Historisch Museum"
           },
           "coords": [
             6.619,
@@ -1941,7 +1941,7 @@
             "hu": "De Koppel buszmegálló",
             "ro": "Stația de autobuz De Koppel",
             "en": "De Koppel Bus Stop",
-            "nl": "De Koppel Bushalte"
+            "nl": "Bushalte De Koppel"
           },
           "coords": [
             6.642,
@@ -1993,7 +1993,7 @@
             "hu": "Malom buszmegálló",
             "ro": "Stația de autobuz Moară",
             "en": "Windmill Bus Stop",
-            "nl": "Molen Bushalte"
+            "nl": "Molen-bushalte"
           },
           "coords": [
             6.611,
@@ -2010,7 +2010,7 @@
             "hu": "Az utolsó megálló: Látogassa meg a De Star malmot és a víztornyot, mielőtt visszatérne az állomásra.",
             "ro": "Ultima oprire: vizitați moara De Star și turnul de apă înainte de a vă întoarce la gară.",
             "en": "The final stop: visit the De Star windmill and the water tower before heading back to the station.",
-            "nl": "De laatste halte: bezoek de molen De Star en de watertoren voordat je teruggaat naar het station."
+            "nl": "De laatste halte: bezoek molen De Star en de watertoren voordat je teruggaat naar het station."
           }
         }
       ],
@@ -2019,7 +2019,7 @@
         "hu": "Használja a tömegközlekedést Hardenberg felfedezéséhez. Kezdje a vasútállomáson, és szálljon buszra a központba, hogy gyalog fedezze fel a Szent István-templomot és a múzeumot. Egy másik busz elviszi a De Koppel és Vecht-park természeti klaszteréhez, ahol a délután nagy részét töltheti. Végül egy utolsó busz elviszi a város ipari nevezetességeihez, mielőtt befejezné útját a vasútállomáson.",
         "ro": "Folosiți transportul public pentru a explora Hardenberg. Începeți de la gară și luați un autobuz spre centru pentru a descoperi pe jos Biserica Sfântul Ștefan și muzeul. Un alt autobuz vă va duce la clusterul natural De Koppel și Parcul Vecht, unde puteți petrece cea mai mare parte a după-amiezii. În cele din urmă, un ultim autobuz vă va duce la reperele industriale ale orașului înainte de a vă încheia călătoria la gară.",
         "en": "Use public transport to explore Hardenberg. Start at the train station and take a bus to the center to discover St. Stephen's Church and the museum on foot. Another bus will take you to the De Koppel and Vecht Park nature cluster, where you can spend most of the afternoon. Finally, a last bus will take you to the city's industrial landmarks before you end your journey at the train station.",
-        "nl": "Gebruik het openbaar vervoer om Hardenberg te verkennen. Begin bij het treinstation en neem een bus naar het centrum om Sint-Stefanus en het museum te voet te ontdekken. Een andere bus brengt je naar de natuurcluster De Koppel en het Vechtpark, waar je het grootste deel van de middag kunt doorbrengen. Tot slot brengt een laatste bus je naar de industriële bezienswaardigheden van de stad voordat je je reis afsluit bij het treinstation."
+        "nl": "Gebruik het openbaar vervoer om Hardenberg te verkennen. Begin bij het treinstation en neem een bus naar het centrum om St. Stephanus en het museum te voet te ontdekken. Een andere bus brengt je naar De Koppel en het Vechtpark-natuurcluster, waar je het grootste deel van de middag kunt doorbrengen. Ten slotte brengt een laatste bus je naar de industriële bezienswaardigheden van de stad voordat je reis eindigt bij het treinstation."
       },
       "gastro_picks": {
         "de": [
@@ -2217,10 +2217,10 @@
           "Signal the driver when you want to get off at a stop."
         ],
         "nl": [
-          "Koop een dagkaart voor de bus om geld te besparen.",
-          "Download de dienstregelp app om bustijden in realtime te volgen.",
-          "Wees op tijd bij de halte; bussen vertrekken vaak stipt.",
-          "Geef de chauffeur een sein wanneer je bij een halte wilt uitstappen."
+          "Koop een dagkaart voor de bus om te besparen.",
+          "Download de dienstregeling-app om bustijden in realtime te volgen.",
+          "Wees op tijd bij de halte, bussen vertrekken vaak stipt op het hele of halve uur.",
+          "Geef de chauffeur een seintje als je bij een halte wilt uitstappen."
         ]
       },
       "variants": {
@@ -2230,7 +2230,7 @@
             "hu": "A vasútállomásról busszal utazunk a városközpontba. Délben sok időt töltünk a múzeumban és a templomban, hogy szárazon maradjunk. Délután a De Koppel központba látogatunk, amely busszal jól elérhető. A túrát a szélmalomnál zárjuk kényelmesen.",
             "ro": "După sosirea la gară, folosim autobuzul spre centrul orașului. La prânz stăm mult în muzeu și la biserică pentru a rămâne uscați. După-amiaza ne duce la centrul De Koppel, accesibil cu autobuzul. Încheiem turul plăcut la moara de vânt.",
             "en": "After arriving at the station, we take the bus to the city center. Midday is spent in the museum and church to stay dry. The afternoon leads us to De Koppel center, which is easily accessible by bus. We end the tour comfortably at the windmill.",
-            "nl": "Na aankomst op het station nemen we de bus naar het stadscentrum. De middag wordt droog doorgebracht in het museum en de kerk. In de middag brengt de bus ons naar het De Koppel-centrum, dat gemakkelijk bereikbaar is. We beëindigen de rondleiding comfortabel bij de molen."
+            "nl": "Na aankomst op het station nemen we de bus naar het stadscentrum. Het middaguur brengen we door in het museum en de kerk om droog te blijven. De middag leidt ons naar het De Koppel-centrum, dat gemakkelijk per bus bereikbaar is. We sluiten de rondleiding comfortabel af bij de molen."
           },
           "stops": [
             {
@@ -2250,7 +2250,7 @@
                 "hu": "Fedett váró közvetlenül a központban.",
                 "ro": "Stație acoperită direct în centru.",
                 "en": "Covered bus shelter right in the center.",
-                "nl": "Overdekte bushalte midden in het centrum."
+                "nl": "Overdekte bushalte pal in het centrum."
               }
             },
             {
@@ -2260,7 +2260,7 @@
                 "hu": "Kombinálja a két látogatást, hogy időt spóroljon kint.",
                 "ro": "Combinați ambele vizite pentru a economisi timp afară.",
                 "en": "Combine both visits to save time outside.",
-                "nl": "Combineer beide bezoeken om tijd buiten te besparen."
+                "nl": "Combineer beide bezoeken om buiten tijd te besparen."
               }
             },
             {
@@ -2290,7 +2290,7 @@
                 "hu": "Ellenőrizze az indulásokat az appban a szárazon.",
                 "ro": "Verificați orele de plecare în aplicație la loc uscat.",
                 "en": "Check departure times via app while in the dry.",
-                "nl": "Controleer vertrektijden via de app terwijl je droog blijft."
+                "nl": "Check vertrektijden via de app terwijl je droog binnen bent."
               }
             }
           ],
@@ -2320,10 +2320,10 @@
               "Wait in shops if the bus is delayed."
             ],
             "nl": [
-              "Gebruik de '9292' app voor realtime informatie bij regen.",
+              "Gebruik de '9292'-app voor realtime informatie tijdens regen.",
               "Bussen rijden met hoge frequentie in het centrum.",
-              "Een paraplu is nodig voor de paden tussen haltes en bestemmingen.",
-              "Wacht in winkels als de bus vertraging heeft."
+              "Een paraplu is nodig voor de paden tussen haltes en bezienswaardigheden.",
+              "Wacht in winkels als de bus vertraagd is."
             ]
           }
         },
@@ -2333,7 +2333,7 @@
             "hu": "A meleg vasútállomásról a busz közvetlenül a történelmi szívbe visz. A délutánt kényelmesen a múzeumban és a templomban töltjük. Délután a De Koppel központba utazunk, megcsodálva a téli tájat. A visszautat úgy tervezzük, hogy sötétedés előtt a vasúton legyünk.",
             "ro": "De la gara caldă, autobuzul ne duce direct în inima istorică. Prânzul îl petrecem plăcut la muzeu și la biserică. După-amiaza mergem la De Koppel pentru a admira peisajul de iarnă. Planificăm întoarcerea pentru a fi la gară înainte de întuneric.",
             "en": "From the warm station, the bus takes us directly to the historic heart. Midday is spent comfortably in the museum and church. In the afternoon, we travel to De Koppel to admire the winter landscape. We plan the return journey to be at the station before dark.",
-            "nl": "Vanaf het warme station brengt de bus ons rechtstreeks naar het historische hart. De middag wordt comfortabel in het museum en de kerk doorgebracht. In de middag reizen we naar De Koppel om van het winterlandschap te genieten. We plannen de terugreis zodat we voor het donker bij het station zijn."
+            "nl": "Vanuit het warme station brengt de bus ons rechtstreeks naar het historische hart. Het middaguur brengen we comfortabel door in het museum en de kerk. In de middag reizen we naar De Koppel om van het winterlandschap te genieten. We plannen de terugreis zodat we voor het donker op het station zijn."
           },
           "stops": [
             {
@@ -2353,7 +2353,7 @@
                 "hu": "Rövid utak a fűtött belső terekhez.",
                 "ro": "Distanțe scurte către spațiile interioare încălzite.",
                 "en": "Short paths to the heated indoor areas.",
-                "nl": "Korte routes naar de verwarmde binnenruimtes."
+                "nl": "Korte routes naar verwarmde binnenruimtes."
               }
             },
             {
@@ -2363,7 +2363,7 @@
                 "hu": "Élvezze a karácsonyi hangulatot a központban.",
                 "ro": "Bucurați-vă de atmosfera de Crăciun din centru.",
                 "en": "Enjoy the Christmas atmosphere in the center.",
-                "nl": "Geniet van de kerstachtige sfeer in het centrum."
+                "nl": "Geniet van de kerstsfeer in het centrum."
               }
             },
             {
@@ -2373,7 +2373,7 @@
                 "hu": "Sétáljon tempósan, hogy megőrizze testhőjét.",
                 "ro": "Mergeți vioi pentru a vă menține căldura corporală.",
                 "en": "Walk briskly to maintain body heat.",
-                "nl": "Loop stevig door om je warm te houden."
+                "nl": "Loop stevig door om je lichaam warm te houden."
               }
             },
             {
@@ -2425,8 +2425,8 @@
             "nl": [
               "Stations kunnen tochtig zijn; gebruik de wachtruimtes.",
               "Betaal contactloos om je handschoenen aan te houden.",
-              "Plan extra tijd in voor weersgerelateerde vertragingen.",
-              "Het laatste traject moet vóór 17:00 eindigen."
+              "Plan extra tijd voor weersgerelateerde vertragingen.",
+              "Het laatste traject moet eindigen vóór 17:00 uur."
             ]
           }
         }

@@ -22,7 +22,7 @@
             "hu": "Grote Kerk (Nagytemplom)",
             "ro": "Grote Kerk (Biserica Mare)",
             "en": "Grote Kerk (Great Church)",
-            "nl": "Grote Kerk"
+            "nl": "Grote Kerk (Great Church)"
           },
           "coords": [
             6.0965,
@@ -47,7 +47,7 @@
             "hu": "Papegaaienbuurt (Papagáj-negyed)",
             "ro": "Papegaaienbuurt (Cartierul Papagalilor)",
             "en": "Papegaaienbuurt (Parrot District)",
-            "nl": "Papegaaienbuurt"
+            "nl": "Papegaaienbuurt (Parrot District)"
           },
           "coords": [
             6.101,
@@ -63,7 +63,7 @@
             "hu": "Figyelje meg Theo van Doesburg színes, De Stijl által inspirált házait.",
             "ro": "Observați casele colorate, inspirate de De Stijl, proiectate de Theo van Doesburg.",
             "en": "Look for the colorful De Stijl-inspired houses designed by Theo van Doesburg.",
-            "nl": "Let op de kleurrijke, De Stijl-geïnspireerde huizen ontworpen door Theo van Doesburg."
+            "nl": "Let op de kleurrijke, door De Stijl geïnspireerde huizen ontworpen door Theo van Doesburg."
           }
         },
         {
@@ -113,7 +113,7 @@
             "hu": "Nézze meg a műsort esti előadásokra vagy matinékelőadásokra.",
             "ro": "Verificați programul pentru spectacole de seară sau matinee.",
             "en": "Check the schedule for evening performances or matinees.",
-            "nl": "Bekijk de programmering voor avondvoorstellingen of matinées."
+            "nl": "Controleer het programma voor avondvoorstellingen of matinees."
           }
         },
         {
@@ -122,7 +122,7 @@
             "hu": "Karmelita kolostor",
             "ro": "Mănăstirea Karmelklooster",
             "en": "Karmelklooster Monastery",
-            "nl": "Karmelklooster"
+            "nl": "Karmelkloosterklooster (Karmelklooster Monastery)"
           },
           "coords": [
             6.085,
@@ -163,7 +163,7 @@
             "hu": "Tökéletes egy pihentető délutáni sétához.",
             "ro": "Perfect pentru o plimbare relaxantă de după-amiază.",
             "en": "Perfect for a relaxing afternoon stroll.",
-            "nl": "Perfect voor een ontspannende middagwandeling."
+            "nl": "Perfect voor een ontspannen middagwandeling."
           }
         }
       ],
@@ -172,7 +172,7 @@
         "hu": "A drachteni nap egy sétával kezdődik a város szívében, felfedezve a Grote Kerk templomot. Innen a művészet világába merülhet, megcsodálva a Papegaaienbuurt egyedi építészetét és a Dr8888 Múzeum mesterműveit. A kulturális délelőtt után egy helyi ebéddel erősíthet, mielőtt meglátogatja a modern De Lawei kulturális központot és a Karmelita kolostor spirituális oázisát. A nap egy pihentető sétával zárul a zöld Slingerparkban, ahol élvezheti a friss fríz levegőt és lezárhatja a napot.",
         "ro": "Ziua dvs. în Drachten începe cu o plimbare prin inima orașului, descoperind Grote Kerk. De acolo, vă scufundați în lumea artei, admirând arhitectura unică a Papegaaienbuurt și capodoperele de la Muzeul Dr8888. După o dimineață culturală, vă reîncărcați cu un prânz local înainte de a vizita centrul cultural modern De Lawei și oaza spirituală a Mănăstirii Karmelklooster. Ziua se încheie cu o plimbare relaxantă prin parcul verde Slingerpark, bucurându-vă de aerul proaspăt frizian.",
         "en": "Your day in Drachten begins with a walk through the heart of the city, discovering the Grote Kerk. From there, immerse yourself in the world of art by admiring the unique architecture of Papegaaienbuurt and the masterpieces at Museum Dr8888. After a cultural morning, refuel with a local lunch before visiting the modern De Lawei cultural center and the spiritual oasis of the Karmelklooster Monastery. The day concludes with a relaxing stroll through the green Slingerpark, enjoying the fresh Frisian air.",
-        "nl": "Je dag in Drachten begint met een wandeling door het hart van de stad, waarbij je de Grote Kerk ontdekt. Vanaf daar dompel je je onder in de kunstwereld door de unieke architectuur van de Papegaaienbuurt en de meesterwerken in Museum Dr8888 te bewonderen. Na een culturele ochtend laad je bij met een lokale lunch voordat je het moderne cultuurcentrum De Lawei en de spirituele oase van het Karmelklooster bezoekt. De dag eindigt met een ontspannen wandeling door het groene Slingerpark, genietend van de frisse Friese lucht."
+        "nl": "Je dag in Drachten begint met een wandeling door het hart van de stad, waarbij je de Grote Kerk ontdekt. Vanaf daar dompel je jezelf onder in de wereld van kunst door de unieke architectuur van de Papegaaienbuurt en de meesterwerken in Museum Dr8888 te bewonderen. Na een culturele ochtend laad je jezelf op met een lokale lunch voordat je het moderne culturele centrum De Lawei en de spirituele oase van het Karmelklooster bezoekt. De dag eindigt met een ontspannende wandeling door het groene Slingerpark, waarbij je geniet van de frisse Friese lucht."
       },
       "gastro_picks": {
         "de": [
@@ -370,10 +370,10 @@
           "Keep an eye out for the many public artworks scattered around the city."
         ],
         "nl": [
-          "Draag comfortabele schoenen, want je bent de hele dag te voet.",
-          "Drachten is relatief vlak, waardoor het zeer geschikt is om te voet te verkennen.",
+          "Draag comfortabele schoenen omdat je de hele dag te voet zult zijn.",
+          "Drachten is relatief vlak, waardoor het goed te belopen is.",
           "Veel cafés in het centrum bieden een goede gelegenheid voor een koffiepauze.",
-          "Houd je ogen open voor de vele openbare kunstwerken verspreid door de stad."
+          "Houd je ogen open voor de vele openbare kunstwerken die door de stad verspreid staan."
         ]
       },
       "variants": {
@@ -383,7 +383,7 @@
             "hu": "Kezdje az esős napot Drachtenben a Grote Kerk fedett falai között. Délben a Museum Dr8888 kínál menedéket a dadaizmus világában, miközben odakint dobol az eső. Délután esernyővel sétálunk át a De Lawei színházhoz és a Karmelklooster kolostorhoz, ahol az eső kopogása sajátos nyugalmat áraszt. Az estét egy közeli kávézó melegében zárjuk.",
             "ro": "Începeți ziua ploioasă în Drachten la adăpostul Grote Kerk. La prânz, Muzeul Dr8888 oferă refugiul perfect în lumea dadaismului, în timp ce afară plouă. După-amiaza, drumul sub umbrelă duce spre teatrul De Lawei și mănăstirea Karmelklooster, unde sunetul ploii creează o atmosferă deosebită. Încheiați seara confortabil într-un local primitor.",
             "en": "Start your rainy day in Drachten sheltered within the Grote Kerk. At noon, Museum Dr8888 provides a perfect escape into the world of Dadaism while the rain falls outside. In the afternoon, an umbrella-walk leads to De Lawei and the monastery, where the rhythm of the rain adds a unique atmosphere. End the evening cozying up in a local establishment.",
-            "nl": "Begin je regenachtige dag in Drachten droog in de Grote Kerk. Rond het middaguur biedt Museum Dr8888 een perfecte ontsnapping naar Dadaïstische werken terwijl de regen buiten valt. In de middag leidt een wandeling met paraplu naar De Lawei en het klooster, waar het ritme van de regen een unieke sfeer toevoegt. Sluit de avond af knus in een lokale horeca‑gelegenheid."
+            "nl": "Begin je regenachtige dag in Drachten beschut in de Grote Kerk. ’s Middags biedt Museum Dr8888 een perfecte ontsnapping naar de wereld van het dadaïsme terwijl de regen buiten valt. In de namiddag leidt een wandeling met paraplu naar De Lawei en het klooster, waar het ritme van de regen een unieke sfeer toevoegt. Sluit de avond af knus in een lokale gelegenheid."
           },
           "stops": [
             {
@@ -393,7 +393,7 @@
                 "hu": "Száraz kezdés, csodálja meg az akusztikát az eső kopogása mellett.",
                 "ro": "Un început uscat, admirați acustica în timp ce plouă afară.",
                 "en": "A dry start, admire the acoustics as the rain taps on the roof.",
-                "nl": "Een droge start; bewonder de akoestiek terwijl de regen op het dak tikt."
+                "nl": "Een droge start, bewonder de akoestiek terwijl de regen op het dak tikt."
               }
             },
             {
@@ -403,7 +403,7 @@
                 "hu": "A De Stijl színei szürke égbolt alatt is ragyognak.",
                 "ro": "Culorile De Stijl strălucesc chiar și sub un cer gri.",
                 "en": "The De Stijl colors shine bright even under grey skies.",
-                "nl": "De De Stijl-kleuren stralen fel, zelfs onder grijze luchten."
+                "nl": "De De Stijl-kleuren komen fel tot leven, zelfs onder grijze luchten."
               }
             },
             {
@@ -443,7 +443,7 @@
                 "hu": "A burkolt utak esőben is jól járhatóak.",
                 "ro": "Potecile pavate sunt ușor de parcurs chiar și pe umezeală.",
                 "en": "Paved paths remain easily walkable even in wet conditions.",
-                "nl": "Verharde paden blijven goed beloopbaar, zelfs bij natte omstandigheden."
+                "nl": "Verharde paden blijven goed begaanbaar, zelfs bij nat weer."
               }
             }
           ],
@@ -473,9 +473,9 @@
               "Wear waterproof shoes for the walk to Slingerpark."
             ],
             "nl": [
-              "Neem een stevige paraplu mee, het kan winderig zijn in Friesland.",
-              "Profiteer van de binnenexposities van Museum Dr8888 tijdens hevige regen.",
-              "De meeste cafés in het centrum hebben overdekte terrassen.",
+              "Neem een stevige paraplu mee, want het kan winderig zijn in Friesland.",
+              "Profiteer van de binnenexposities van Museum Dr8888 tijdens zware regen.",
+              "De meeste cafés in het stadscentrum hebben overdekte terrassen.",
               "Draag waterdichte schoenen voor de wandeling naar Slingerpark."
             ]
           }
@@ -486,7 +486,7 @@
             "hu": "A fagyos reggel Drachtenben a fűtött Grote Kerkben indul. Délben a Museum Dr8888 művészete melengeti meg a lelket, mielőtt a korai téli fények pasztellszínbe öltöztetik a várost. Délután a történelmi negyeden át vezet az út a kolostorig, ahol a téli csend mélyebbnek tűnik. A napot egy forró ital zárja a kigyúló utcai fényeknél.",
             "ro": "O dimineață geroasă în Drachten începe în Grote Kerk încălzită. La prânz, arta de la Muzeul Dr8888 încălzește spiritul înainte ca lumina timpurie de iarnă să picteze orașul în culori pastelate. După-amiaza trece prin cartierul istoric spre mănăstire, unde liniștea iernii este profundă. Ziua se încheie cu o băutură caldă sub lumina felinarelor.",
             "en": "A frosty morning in Drachten begins in the heated Grote Kerk. At noon, the art in Museum Dr8888 warms the soul before early winter light bathes the city in pastel hues. The afternoon leads through the historic district to the monastery, where the winter silence feels especially profound. The day concludes with a hot drink under the glow of streetlights.",
-            "nl": "Een ijskoude ochtend in Drachten begint in de verwarmde Grote Kerk. Rond het middaguur verwarmt de kunst in Museum Dr8888 de ziel voordat het vroege winterlicht de stad in pastelkleuren zet. De middag voert door het historische kwartier naar het klooster, waar de winterstilte extra intens voelt. De dag eindigt met een warme drank onder het licht van straatlantaarns."
+            "nl": "Een ijskoude ochtend in Drachten begint in de verwarmde Grote Kerk. ’s Middags verwarmt de kunst in Museum Dr8888 de ziel voordat het vroege winterlicht de stad in pastelkleuren hult. De namiddag voert door het historische district naar het klooster, waar de wintersstilte extra indringend voelt. De dag eindigt met een warme drank onder de gloed van straatlantaarns."
           },
           "stops": [
             {
@@ -496,7 +496,7 @@
                 "hu": "Meleg menedék a hideg nap kezdetén.",
                 "ro": "Un refugiu cald pentru începutul zilei reci.",
                 "en": "A warm sanctuary for the start of a cold day.",
-                "nl": "Een warm toevluchtsoord om de koude dag te starten."
+                "nl": "Een warm toevluchtsoord voor de start van een koude dag."
               }
             },
             {
@@ -506,7 +506,7 @@
                 "hu": "Gyors fotómegálló – a színek nagyon tiszták a fagyban.",
                 "ro": "Scurtă oprire foto – culorile par foarte clare pe ger.",
                 "en": "Quick photo stop – colors look very crisp in the frost.",
-                "nl": "Snelle fotostop – kleuren komen scherp uit bij vorst."
+                "nl": "Snel fotomoment – kleuren ogen erg scherp in de rijp."
               }
             },
             {
@@ -526,7 +526,7 @@
                 "hu": "Melegedjen fel kicsit a modern kávézó részlegben.",
                 "ro": "Încălziți-vă puțin în zona modernă de cafenea.",
                 "en": "Warm up briefly in the modern cafe area.",
-                "nl": "Warm even op in het moderne cafégedeelte."
+                "nl": "Warm kort op in het moderne cafégedeelte."
               }
             },
             {
@@ -546,7 +546,7 @@
                 "hu": "Élvezze a kora esti kék fényeket naplemente előtt.",
                 "ro": "Bucurați-vă de lumina albastră dinaintea apusului.",
                 "en": "Enjoy the early blue hour light before sunset.",
-                "nl": "Geniet van het vroege blauwe uurtje vóór zonsondergang."
+                "nl": "Geniet van het vroege blauwe uurlicht voor zonsondergang."
               }
             }
           ],
@@ -576,10 +576,10 @@
               "Warm up during midday at the museum cafe."
             ],
             "nl": [
-              "Kleed je in lagen voor de overgang tussen binnen en buiten.",
+              "Draag lagen kleding voor de overgang tussen binnen en buiten.",
               "De zon gaat vroeg onder, rond 16:30.",
-              "Let op gladde plekken op parkpaden.",
-              "Warm op tijdens de middag in het museumcafé."
+              "Let op voor gladde plekken op parkpaden.",
+              "Warm op rond het middaguur in het museumcafé."
             ]
           }
         }
@@ -624,7 +624,7 @@
             "hu": "Papegaaienbuurt (Papagáj-negyed)",
             "ro": "Papegaaienbuurt (Cartierul Papagalilor)",
             "en": "Papegaaienbuurt (Parrot District)",
-            "nl": "Papegaaienbuurt"
+            "nl": "Papegaaienbuurt (Parrot District)"
           },
           "coords": [
             6.101,
@@ -640,7 +640,7 @@
             "hu": "Lassan tekerjen az utcákon, hogy értékelni tudja az egyedi építészetet.",
             "ro": "Pedalați încet pe străzi pentru a aprecia arhitectura unică.",
             "en": "Cycle slowly through the streets to appreciate the unique architecture.",
-            "nl": "Fiets langzaam door de straten om de unieke architectuur te waarderen."
+            "nl": "Fiets rustig door de straten om de unieke architectuur goed te kunnen waarderen."
           }
         },
         {
@@ -665,7 +665,7 @@
             "hu": "Parkolja le a kerékpárt a közelben, és fedezze fel ezt a két központi látnivalót gyalog.",
             "ro": "Parcați bicicleta în apropiere și explorați aceste două atracții centrale pe jos.",
             "en": "Park your bike nearby and explore these two central attractions on foot.",
-            "nl": "Plaats je fiets in de buurt en verken deze twee centrale bezienswaardigheden te voet."
+            "nl": "Zet je fiets dicht in de buurt neer en verken deze twee centrale attracties te voet."
           }
         },
         {
@@ -699,7 +699,7 @@
             "hu": "Karmelita kolostor",
             "ro": "Mănăstirea Karmelklooster",
             "en": "Karmelklooster Monastery",
-            "nl": "Karmelklooster"
+            "nl": "Karmelkloosterklooster (Karmelklooster Monastery)"
           },
           "coords": [
             6.085,
@@ -715,7 +715,7 @@
             "hu": "A csendes légkör kellemes kikapcsolódás a kerékpározás után.",
             "ro": "Atmosfera liniștită este o pauză binevenită după plimbarea cu bicicleta.",
             "en": "The quiet atmosphere is a welcome break from cycling.",
-            "nl": "De rustige sfeer is een welkome afwisseling van het fietsen."
+            "nl": "De rustige sfeer is een welkome onderbreking van het fietsen."
           }
         },
         {
@@ -740,7 +740,7 @@
             "hu": "Tekerjen át ezeken a szomszédos parkokon, és élvezze a zöld területeket.",
             "ro": "Pedalați prin aceste parcuri învecinate și bucurați-vă de spațiile verzi.",
             "en": "Cycle through these adjacent parks and enjoy the green spaces.",
-            "nl": "Fiets door deze aangrenzende parken en geniet van het groen."
+            "nl": "Fiets door deze aangrenzende parken en geniet van de groene ruimtes."
           }
         },
         {
@@ -765,7 +765,7 @@
             "hu": "Zárja a túrát egy kávéval a színházi kávézóban.",
             "ro": "Încheiați turul cu o cafea la cafeneaua teatrului.",
             "en": "End your tour with a coffee at the theatre cafe.",
-            "nl": "Sluit je rondje af met een kop koffie in het theatercafé."
+            "nl": "Sluit je tocht af met een kop koffie bij het theatercafé."
           }
         }
       ],
@@ -774,7 +774,7 @@
         "hu": "Pattanjon kerékpárra, és élje át Drachtent, mint egy helyi! A túra a kerékpár átvételével kezdődik, majd a színes Papegaaienbuurt-ba vezet. Az építészeti csoda felfedezése után parkolja le a kerékpárt, hogy meglátogassa a Dr8888 Múzeumot és a Grote Kerk templomot a központban. Délben tekerjen el a Van Haersmaparkba egy zöld szünetre. A délután a Karmelita kolostor csendjéhez és a tágas Slinger- és Thalenparkokon keresztül vezet. A kerékpártúra a De Lawei kulturális központnál ér véget, amely tökéletes hely a napi élmények átgondolására.",
         "ro": "Urcați-vă pe bicicletă și experimentați Drachten ca un localnic! Turul dvs. începe cu ridicarea bicicletei și vă duce la coloratul Papegaaienbuurt. După ce explorați minunea arhitecturală, parcați bicicleta pentru a vizita Muzeul Dr8888 și Grote Kerk în centru. La prânz, pedalați spre Parcul Van Haersmapark pentru o pauză verde. După-amiaza vă poartă spre liniștea Mănăstirii Karmelklooster și prin parcurile întinse Slingerpark și Thalenpark. Turul cu bicicleta se încheie la centrul cultural De Lawei, un loc perfect pentru a reflecta asupra experiențelor zilei.",
         "en": "Hop on a bike and experience Drachten like a local! Your tour starts by picking up your bike and heading to the colorful Papegaaienbuurt. After exploring the architectural wonder, park your bike to visit Museum Dr8888 and the Grote Kerk in the center. At midday, cycle to Van Haersmapark for a green break. The afternoon takes you to the tranquility of the Karmelklooster Monastery and through the expansive Slingerpark and Thalenpark. Your bike tour concludes at the De Lawei cultural center, a perfect spot to reflect on the day's experiences.",
-        "nl": "Stap op de fiets en ervaar Drachten als een local! Je tour begint met het ophalen van je fiets en het fietsen naar de kleurrijke Papegaaienbuurt. Na het bewonderen van het architectonische hoogstandje, parkeer je de fiets om Museum Dr8888 en de Grote Kerk in het centrum te bezoeken. Rond het middaguur fiets je naar Van Haersmapark voor een groene pauze. In de namiddag bezoek je het rustige Karmelklooster en fiets je door het uitgestrekte Slingerpark en Thalenpark. Je fietstocht eindigt bij het cultureel centrum De Lawei, een perfecte plek om de ervaringen van de dag te laten bezinken."
+        "nl": "Spring op een fiets en ervaar Drachten als een local! Je tour begint met het ophalen van je fiets en het rijden naar de kleurrijke Papegaaienbuurt. Na het verkennen van het architectonische wonder zet je je fiets neer om Museum Dr8888 en de Grote Kerk in het centrum te bezoeken. Rond het middaguur fiets je naar Van Haersmapark voor een groene pauze. De namiddag voert je naar de rust van het Karmelklooster en door het uitgestrekte Slingerpark en Thalenpark. Je fietstocht eindigt bij het culturele centrum De Lawei, een perfecte plek om de ervaringen van de dag te overdenken."
       },
       "gastro_picks": {
         "de": [
@@ -974,7 +974,7 @@
         "nl": [
           "Maak gebruik van het uitstekende netwerk van fietspaden.",
           "Wees altijd alert op andere fietsers en voetgangers.",
-          "Zet je fiets altijd op slot, ook als je hem maar kort onbeheerd achterlaat.",
+          "Zet je fiets altijd op slot, zelfs als je hem maar kort wegzet.",
           "Een fietsbel is essentieel in Nederland!"
         ]
       },
@@ -985,7 +985,7 @@
             "hu": "Drachten felfedezése kerékpáron esőben igazi holland élmény. A bérlés után gyorsan átszeljük a modern központot. A Museum Dr8888 biztosítja a szükséges száraz pihenőt, mielőtt továbbindulnánk a kolostorhoz. A fríz szél és az eső dinamikussá teszi a túrát, miközben a parkok harsány zöldben pompáznak. A napot a De Lawei kulturális programja zárja.",
             "ro": "Explorarea Drachten pe bicicletă în ploaie este o experiență tipic olandeză. După închiriere, traversăm rapid centrul modern. Muzeul Dr8888 oferă pauza necesară de uscare înainte de a continua spre mănăstire. Briza frizonă și ploaia fac turul dinamic, în timp ce parcurile strălucesc în verde crud. Finalul aparține teatrului De Lawei.",
             "en": "Exploring Drachten by bike in the rain is a quintessential Dutch experience. After picking up your rental, cycle briskly through the modern center. Museum Dr8888 provides a welcome dry break before heading out to the monastery. The Frisian breeze and rain make for a dynamic ride, with parks looking lush and green. Conclude with a cultural stop at De Lawei.",
-            "nl": "Drachten per fiets verkennen in de regen is een typische Nederlandse ervaring. Nadat je je huurfiets hebt opgehaald, fiets je vlot door het moderne centrum. Museum Dr8888 biedt een welkome, droge pauze voordat je naar het klooster gaat. De Friese bries en de regen zorgen voor een dynamische rit, waarbij de parken weelderig groen ogen. Sluit af met een culturele stop bij De Lawei."
+            "nl": "Drachten per fiets verkennen in de regen is een echte Nederlandse ervaring. Na het ophalen van je huurfiets rijd je vlot door het moderne centrum. Museum Dr8888 biedt een welkome droge pauze voordat je naar het klooster fietst. De Friese wind en regen maken het een dynamische rit, met parken die er weelderig groen uitzien. Sluit af met een cultureel bezoek aan De Lawei."
           },
           "stops": [
             {
@@ -995,7 +995,7 @@
                 "hu": "Kérj nyeregterítőt a nedvesség ellen.",
                 "ro": "Cereți o protecție pentru șa împotriva umezelii.",
                 "en": "Ask for a saddle cover to keep things dry.",
-                "nl": "Vraag om een zadelhoesje om droog te blijven."
+                "nl": "Vraag om een zadelhoesje om je spullen droog te houden."
               }
             },
             {
@@ -1005,7 +1005,7 @@
                 "hu": "Vigyázz a fékezéssel a nedves macskakövön.",
                 "ro": "Atenție la frânare pe pavajul umed.",
                 "en": "Be careful when braking on wet cobblestones.",
-                "nl": "Wees voorzichtig met remmen op natte keien."
+                "nl": "Wees voorzichtig met remmen op natte kasseien."
               }
             },
             {
@@ -1025,7 +1025,7 @@
                 "hu": "Gyors tekerés az allékon, a fák némi védelmet nyújtanak.",
                 "ro": "Cursă scurtă prin alei, copacii oferă protecție.",
                 "en": "Quick ride through the alleys; trees provide some shelter.",
-                "nl": "Kort ritje door de steegjes; de bomen bieden enig schuilgelegenheid."
+                "nl": "Een korte rit door de steegjes; bomen bieden wat beschutting."
               }
             },
             {
@@ -1035,7 +1035,7 @@
                 "hu": "Támaszd le a biciklit biztonságosan a bejáratnál.",
                 "ro": "Parcați bicicleta în siguranță lângă intrare.",
                 "en": "Park your bike securely near the entrance.",
-                "nl": "Parkeer je fiets stevig bij de ingang."
+                "nl": "Parkeer je fiets veilig bij de ingang."
               }
             },
             {
@@ -1045,7 +1045,7 @@
                 "hu": "Rövidítsd le a kört, ha erősödik az eső.",
                 "ro": "Scurtați plimbarea dacă ploaia se intensifică.",
                 "en": "Keep the ride short if the rain intensifies.",
-                "nl": "Houd de rit kort als de regen toeneemt."
+                "nl": "Houd de rit kort als de regen aanhoudt of aanzwelt."
               }
             },
             {
@@ -1085,10 +1085,10 @@
               "A hot drink after the tour works wonders."
             ],
             "nl": [
-              "Volledige regenkleding is onmisbaar bij Fries weer.",
-              "Fiets voorzichtig door bochten op natte ondergrond.",
+              "Volledige regenkleding is essentieel voor Friese weersomstandigheden.",
+              "Fiets voorzichtig door bochten op natte ondergronden.",
               "Maak gebruik van de vele overdekte fietsparkeerplaatsen.",
-              "Een warme drank na de tour doet wonderen."
+              "Een warme drank na de tocht doet wonderen."
             ]
           }
         },
@@ -1098,7 +1098,7 @@
             "hu": "A téli biciklitúra Drachtenben meleg kesztyűt igényel, de friss levegővel jutalmaz. A reggel a bérlésnél indul, majd a színes Papegaaienbuurt következik a téli fényben. A Museum Dr8888 tökéletes melegedő délben. Délután a parkokon át tekerünk a kolostorig, miközben korán sötétedik. A napot a kivilágított De Lawei színház zárja.",
             "ro": "Un tur de iarnă cu bicicleta prin Drachten necesită mănuși groase, dar răsplătește cu aer curat. Dimineața începe la centrul de închirieri, urmată de cartierul colorat în lumina iernii. Muzeul Dr8888 oferă pauza perfectă de încălzire. După-amiaza pedalăm prin parcuri spre mănăstire, în timp ce amurgul coboară devreme. Finalul este la teatrul De Lawei iluminat.",
             "en": "A winter bike tour through Drachten calls for warm gloves but rewards you with crisp air. Start at the rental shop, then visit the colorful Parrot District in the winter light. Museum Dr8888 offers the perfect warm-up break at midday. In the afternoon, cycle through parks to the monastery as dusk settles in early. Conclude at the illuminated De Lawei.",
-            "nl": "Een winterse fietstocht door Drachten vraagt om warme handschoenen maar beloont je met frisse lucht. Begin bij de verhuur en bezoek vervolgens de kleurrijke Papegaaienbuurt in het winterlicht. Museum Dr8888 biedt de perfecte opwarming rond het middaguur. In de namiddag fiets je door parken naar het klooster terwijl de schemer vroeg intreedt. Sluit af bij het verlichte De Lawei."
+            "nl": "Een winterse fietstocht door Drachten vraagt om warme handschoenen maar wordt beloond met frisse lucht. Begin bij de verhuur, bezoek dan de kleurrijke Papegaaienbuurt in het winterlicht. Museum Dr8888 biedt de perfecte opwarmpauze rond het middaguur. In de namiddag fiets je door parken naar het klooster terwijl de schemering vroeg inzet. Sluit af bij het verlichte De Lawei."
           },
           "stops": [
             {
@@ -1118,7 +1118,7 @@
                 "hu": "Jegesedés veszélye a lakóövezeti kerékpárutakon.",
                 "ro": "Pericol de polei pe pistele de biciclete din cartier.",
                 "en": "Watch out for icy patches on residential bike paths.",
-                "nl": "Let op gladde plekken op woonerven en fietspaden."
+                "nl": "Let op voor ijzige plekken op woonerf-fietspaden."
               }
             },
             {
@@ -1128,7 +1128,7 @@
                 "hu": "Tedd le gyorsan a gépet, és menj a melegre.",
                 "ro": "Parcați rapid bicicleta și intrați la căldură.",
                 "en": "Park your bike quickly and head into the warmth.",
-                "nl": "Parkeer je fiets snel en ga naar binnen voor de warmte."
+                "nl": "Zet je fiets snel neer en ga de warmte in."
               }
             },
             {
@@ -1138,7 +1138,7 @@
                 "hu": "A kopasz fák messzi kilátást engednek a parkban.",
                 "ro": "Copacii golași permit vederi largi în parc.",
                 "en": "Bare trees offer long sightlines across the park.",
-                "nl": "Blanke bomen bieden lange zichtlijnen door het park."
+                "nl": "Kale bomen bieden lange zichtlijnen door het park."
               }
             },
             {
@@ -1148,7 +1148,7 @@
                 "hu": "Nagyon csendes megálló a hideg évszakban.",
                 "ro": "O oprire foarte liniștită în sezonul rece.",
                 "en": "A very peaceful stop during the cold season.",
-                "nl": "Een zeer vredig oponthoud in het koude seizoen."
+                "nl": "Een zeer vredige stop in het koude seizoen."
               }
             },
             {
@@ -1168,7 +1168,7 @@
                 "hu": "Fényes pont a túra végén, hangulatos befejezéssel.",
                 "ro": "Un punct luminos la finalul turului, cu încheiere primitoare.",
                 "en": "A bright spot at the end of the tour with a cozy finish.",
-                "nl": "Een lichtpuntje aan het einde van de tour met een knusse afronding."
+                "nl": "Een heldere plek aan het einde van de tocht met een knusse afronding."
               }
             }
           ],
@@ -1199,9 +1199,9 @@
             ],
             "nl": [
               "Draag meerdere lagen en winddichte kleding.",
-              "Koplampen of goede fietsverlichting zijn aan te raden na 16:00.",
-              "Let op rijpvorming op bruggetjes.",
-              "Verkort fietstijden bij extreme temperaturen onder nul."
+              "Voorlampen of goede fietsverlichting zijn aan te raden na 16:00.",
+              "Let op rijm op bruggen.",
+              "Verkort de fietstijden bij extreem vriesweer onder nul."
             ]
           }
         }
@@ -1238,7 +1238,7 @@
             "hu": "Parkoljon itt a délelőttre. A Grote Kerk csak egy rövid sétára van.",
             "ro": "Parcați aici pentru dimineață. Grote Kerk este la o scurtă plimbare.",
             "en": "Park here for the morning. The Grote Kerk is just a short walk away.",
-            "nl": "Parkeer hier voor de ochtend. De Grote Kerk is maar een korte wandeling verwijderd."
+            "nl": "Parkeer hier voor de ochtend. De Grote Kerk is op korte loopafstand."
           }
         },
         {
@@ -1264,7 +1264,7 @@
             "hu": "Egy rövid séta a parkolóháztól a De Stijl mozgalom központjába.",
             "ro": "O scurtă plimbare de la parcare la centrul mișcării De Stijl.",
             "en": "A short walk from the parking garage to the center of the De Stijl movement.",
-            "nl": "Een korte wandeling van de parkeergarage naar het centrum van de De Stijl-beweging."
+            "nl": "Een korte wandeling van de parkeergarage naar het hart van de De Stijl-beweging."
           }
         },
         {
@@ -1273,7 +1273,7 @@
             "hu": "Papegaaienbuurt (Papagáj-negyed)",
             "ro": "Papegaaienbuurt (Cartierul Papagalilor)",
             "en": "Papegaaienbuurt (Parrot District)",
-            "nl": "Papegaaienbuurt"
+            "nl": "Papegaaienbuurt (Parrot District)"
           },
           "coords": [
             6.101,
@@ -1290,7 +1290,7 @@
             "hu": "Sétáljon át ezen a negyeden, mielőtt visszatérne a központba ebédelni.",
             "ro": "Plimbați-vă prin acest cartier înainte de a vă întoarce în centru pentru prânz.",
             "en": "Stroll through this neighborhood before heading back to the center for lunch.",
-            "nl": "Slenter door deze wijk voordat je teruggaat naar het centrum voor de lunch."
+            "nl": "Maak een wandeling door deze buurt voordat je terugloopt naar het centrum voor de lunch."
           }
         },
         {
@@ -1299,7 +1299,7 @@
             "hu": "Karmelita kolostor és kertek",
             "ro": "Mănăstirea Karmelklooster și Grădinile",
             "en": "Karmelklooster Monastery & Gardens",
-            "nl": "Karmelklooster & Tuinen"
+            "nl": "Karmelklooster Klooster & Tuinen"
           },
           "coords": [
             6.085,
@@ -1342,7 +1342,7 @@
             "hu": "Egy újabb rövid autós ugrás a város kulturális központjának megtekintéséhez.",
             "ro": "Încă un salt scurt cu mașina pentru a vedea centrul cultural al orașului.",
             "en": "Another short hop by car to see the town's cultural hub.",
-            "nl": "Nog een korte rit met de auto om het culturele hart van de stad te zien."
+            "nl": "Weer een korte autorit om het culturele hart van de stad te zien."
           }
         },
         {
@@ -1368,7 +1368,7 @@
             "hu": "Parkoljon a De Lawei közelében, és sétáljon el ehhez a szép parkhoz egy pihentető napzárásként.",
             "ro": "Parcați lângă De Lawei și mergeți pe jos până la acest parc frumos pentru o încheiere relaxantă a zilei.",
             "en": "Park near De Lawei and walk to this lovely park for a relaxing end to the day.",
-            "nl": "Parkeer nabij De Lawei en loop naar dit heerlijke park voor een ontspannen einde van de dag."
+            "nl": "Parkeer bij De Lawei en loop naar dit mooie park voor een ontspannen einde van de dag."
           }
         }
       ],
@@ -1377,7 +1377,7 @@
         "hu": "Autóval élvezheti a rugalmasságot, hogy Drachtent klaszterekben fedezze fel. Parkoljon a központban, és szentelje a délelőttöt a város kulturális szívének: a Grote Kerknek, a Dr8888 Múzeumnak és a színes Papegaaienbuurt-nak. Ebéd után vezessen el a csendes Karmelita kolostorhoz egy elmélyült pillanatra. Egy másik rövid autós út a De Lawei kulturális központ közelébe visz, ahonnan gyalogosan felfedezheti a közeli Van Haersmaparkot, és a zöldben zárhatja a napot.",
         "ro": "Cu mașina, vă bucurați de flexibilitatea de a explora Drachten în clustere. Parcați în centru și dedicați dimineața inimii culturale a orașului: Grote Kerk, Muzeul Dr8888 și coloratul Papegaaienbuurt. După prânz, conduceți spre liniștita Mănăstire Karmelklooster pentru un moment de reflecție. O altă scurtă călătorie cu mașina vă duce lângă centrul cultural De Lawei, de unde puteți explora pe jos Parcul Van Haersmapark din apropiere pentru a încheia ziua în natură.",
         "en": "With a car, you have the flexibility to explore Drachten in clusters. Park in the center and dedicate your morning to the city's cultural heart: the Grote Kerk, Museum Dr8888, and the colorful Papegaaienbuurt. After lunch, drive to the serene Karmelklooster Monastery for a moment of reflection. Another short car trip takes you near the De Lawei cultural center, from where you can explore the nearby Van Haersmapark on foot to end your day surrounded by greenery.",
-        "nl": "Met de auto heb je de flexibiliteit om Drachten in clusters te verkennen. Parkeer in het centrum en wijd je ochtend aan het culturele hart van de stad: de Grote Kerk, Museum Dr8888 en de kleurrijke Papegaaienbuurt. Na de lunch rijd je naar het serene Karmelklooster voor een moment van bezinning. Een korte autorit brengt je vervolgens bij het culturele centrum De Lawei, vanwaar je te voet het nabijgelegen Van Haersmapark kunt verkennen om je dag omringd door groen af te sluiten."
+        "nl": "Met een auto heb je de flexibiliteit om Drachten in clusters te verkennen. Parkeer in het centrum en wijd je ochtend aan het culturele hart van de stad: de Grote Kerk, Museum Dr8888 en de kleurrijke Papegaaienbuurt. Na de lunch rijd je naar het serene Karmelklooster voor een moment van bezinning. Een korte autorit brengt je bij het culturele centrum De Lawei, vanwaar je te voet het nabijgelegen Van Haersmapark kunt verkennen om je dag omringd door groen af te sluiten."
       },
       "gastro_picks": {
         "de": [
@@ -1575,10 +1575,10 @@
           "Be aware that city centers in the Netherlands often have restricted car traffic."
         ],
         "nl": [
-          "Check parkeermogelijkheden en -tarieven van tevoren.",
-          "Een GPS is handig om de randgebieden te vinden.",
+          "Controleer parkeermogelijkheden en -tarieven van tevoren.",
+          "Een GPS is handig voor het navigeren van de buitenwijken.",
           "Combineer je bezoek met een tocht naar het omliggende Friese merengebied.",
-          "Houd er rekening mee dat binnensteden in Nederland vaak autoluw zijn."
+          "Wees ervan bewust dat stadscentra in Nederland vaak autoverkeer beperken."
         ]
       },
       "variants": {
@@ -1588,7 +1588,7 @@
             "hu": "Drachten esőben is kényelmesen felfedezhető autóval. Kezdjen a központi parkolóházban, ahonnan a Grote Kerk csak egy ugrás. A Museum Dr8888 órákig tartó száraz szórakozást nyújt. Délután kényelmesen autózhat a kolostorhoz és a De Lawei színházhoz, miközben az esőt az ablak mögül szemléli. A napot vizes lábak nélkül zárhatja.",
             "ro": "Drachten poate fi explorat confortabil cu mașina chiar și pe ploaie. Începeți în parcarea centrală, de unde Grote Kerk este la un pas. Muzeul Dr8888 oferă ore de divertisment la uscat. După-amiaza conduceți relaxat spre mănăstire și De Lawei, observând ploaia de la adăpostul mașinii. Încheiați ziua fără să vă udați la picioare.",
             "en": "Drachten is easily explored by car in the rain. Start at the central parking garage, just steps from the Grote Kerk. Museum Dr8888 provides hours of indoor entertainment. In the afternoon, drive comfortably to the monastery and De Lawei, watching the rain from inside. Conclude your day without getting your feet wet.",
-            "nl": "Drachten is bij regen gemakkelijk per auto te verkennen. Begin bij de centrale parkeergarage, op enkele stappen van de Grote Kerk. Museum Dr8888 biedt urenlang binnenvertier. In de namiddag rijd je comfortabel naar het klooster en De Lawei en kijk je vanaf binnen naar de regen. Sluit je dag af zonder natte voeten."
+            "nl": "Drachten is gemakkelijk per auto te verkennen bij regen. Begin bij de centrale parkeergarage, op een steenworp afstand van de Grote Kerk. Museum Dr8888 biedt urenlang binnenplezier. In de namiddag rijd je comfortabel naar het klooster en De Lawei, terwijl je de regen van binnen bekijkt. Sluit je dag af zonder natte voeten."
           },
           "stops": [
             {
@@ -1608,7 +1608,7 @@
                 "hu": "A közeli parkolók minimalizálják az esőben töltött időt.",
                 "ro": "Parcările din imediata apropiere reduc timpul petrecut în ploaie.",
                 "en": "Nearby parking minimizes time spent in the rain.",
-                "nl": "Parkeren in de buurt beperkt de tijd buiten in de regen."
+                "nl": "Parkeren in de buurt minimaliseert tijd in de regen."
               }
             },
             {
@@ -1618,7 +1618,7 @@
                 "hu": "Gyors kiszállás fotózni, majd vissza a kocsiba.",
                 "ro": "Coborâre scurtă pentru poze, apoi rapid înapoi în mașină.",
                 "en": "Quick hop out for photos, then back to the car.",
-                "nl": "Kort uitstapje voor foto's, dan snel weer terug naar de auto."
+                "nl": "Kort uitstapje voor foto’s, daarna terug naar de auto."
               }
             },
             {
@@ -1648,7 +1648,7 @@
                 "hu": "Az autóból is jól belátható a park területe.",
                 "ro": "Parcul poate fi observat bine chiar și din mașină.",
                 "en": "The park can be nicely viewed from the car window.",
-                "nl": "Het park is ook mooi te bekijken vanuit het autoraam."
+                "nl": "Het park is mooi te bekijken vanuit het autoruitje."
               }
             }
           ],
@@ -1679,8 +1679,8 @@
             ],
             "nl": [
               "Gebruik centrale parkeergarages (zoals Q-Park).",
-              "Houd een paraplu paraat voor korte wandelingen van de auto.",
-              "Rijd voorzichtig om aquaplaning op hoofdwegen te voorkomen.",
+              "Houd een paraplu bij de hand voor korte wandelingen van de auto.",
+              "Rijd voorzichtig om aquaplaning op hoofdwegen te vermijden.",
               "Geniet van de schilderachtige rit door het Friese landschap."
             ]
           }
@@ -1691,7 +1691,7 @@
             "hu": "Téli kényelem Drachtenben: autóval minden látnivalót melegben és szárazon érhet el. A központi kezdés után a Grote Kerk és a fűtött Museum Dr8888 következik. A kolostorhoz vezető út téli, kopár, de hangulatos fasorokon át visz. A délután kulturális programmal zárul a De Lawei színházban, mielőtt élvezné a kivilágított utcákat.",
             "ro": "Confort de iarnă în Drachten: cu mașina ajungeți la toate obiectivele la căldură. După startul din centru, explorați Grote Kerk și Muzeul Dr8888 încălzit. Drumul spre mănăstire trece prin alei de iarnă golașe, dar atmosferice. După-amiaza se încheie cultural la De Lawei, înainte de a admira străzile iluminate.",
             "en": "Winter comfort in Drachten: reach all sights warm and dry by car. After starting in the center, explore the Grote Kerk and the heated Museum Dr8888. The drive to the monastery takes you through wintry, atmospheric tree-lined roads. The afternoon ends with culture at De Lawei before you enjoy Drachten's illuminated streets.",
-            "nl": "Wintercomfort in Drachten: bereik alle bezienswaardigheden warm en droog met de auto. Na een start in het centrum verken je de Grote Kerk en het verwarmde Museum Dr8888. De rit naar het klooster voert langs winterse, sfeervolle laanwegen. De namiddag eindigt met cultuur bij De Lawei voordat je geniet van Drachten's verlichte straten."
+            "nl": "Wintercomfort in Drachten: bereik alle bezienswaardigheden warm en droog met de auto. Nadat je in het centrum bent begonnen, verken je de Grote Kerk en het verwarmde Museum Dr8888. De rit naar het klooster voert door wintry, sfeervolle lanen. De namiddag eindigt met cultuur bij De Lawei voordat je geniet van de verlichte straten van Drachten."
           },
           "stops": [
             {
@@ -1701,7 +1701,7 @@
                 "hu": "Jégmentes indulás a parkolóházból a központba.",
                 "ro": "Pornire fără gheață din parcarea etajată spre centru.",
                 "en": "Ice-free start from the parking garage into the center.",
-                "nl": "Ijsvrije start vanuit de parkeergarage naar het centrum."
+                "nl": "Ijsvrije start vanuit de parkeergarage richting het centrum."
               }
             },
             {
@@ -1711,7 +1711,7 @@
                 "hu": "Rövid séta a parkolótól, ideális fagyban.",
                 "ro": "Drum scurt de la parcare, ideal pe ger.",
                 "en": "Short walk from the parking lot, ideal in frosty weather.",
-                "nl": "Korte wandeling vanaf de parkeerplaats, ideaal bij vorst."
+                "nl": "Korte wandeling vanaf de parkeerplaats, ideaal bij vorstweer."
               }
             },
             {
@@ -1721,7 +1721,7 @@
                 "hu": "Vigyázz a parkolással a szűk, esetleg jeges utcákban.",
                 "ro": "Atenție la parcare pe străzile înguste și posibil poleite.",
                 "en": "Be careful when parking in narrow, possibly icy streets.",
-                "nl": "Wees voorzichtig bij parkeren in smalle, mogelijk ijzige straatjes."
+                "nl": "Wees voorzichtig bij parkeren in smalle, mogelijk ijzige straten."
               }
             },
             {
@@ -1781,9 +1781,9 @@
               "Check the antifreeze in your windshield washer fluid."
             ],
             "nl": [
-              "Let op ijzel op secundaire wegen.",
-              "Gebruik stoelverwarming voor maximaal comfort.",
-              "Parkeertarieven zijn over het algemeen hetzelfde in de winter.",
+              "Let op ijzige omstandigheden op secundaire wegen.",
+              "Gebruik stoelverwarming voor maximale gezelligheid.",
+              "Parcheerkosten zijn over het algemeen hetzelfde in de winter.",
               "Controleer het antivriesmiddel in je ruitensproeiervloeistof."
             ]
           }
@@ -1804,7 +1804,7 @@
             "hu": "Buszpályaudvar és séta a Grote Kerkhez",
             "ro": "Autogară și plimbare la Grote Kerk",
             "en": "Bus Station & Walk to Grote Kerk",
-            "nl": "Busstation & Wandel naar Grote Kerk"
+            "nl": "Busstation & Loop naar Grote Kerk"
           },
           "coords": [
             6.0965,
@@ -1847,7 +1847,7 @@
             "hu": "A központban minden könnyen elérhető gyalog.",
             "ro": "Totul în centru este ușor accesibil pe jos.",
             "en": "Everything in the center is within easy walking distance.",
-            "nl": "Alles in het centrum is gemakkelijk te voet bereikbaar."
+            "nl": "Alles in het centrum is gemakkelijk te voet te bereiken."
           }
         },
         {
@@ -1873,7 +1873,7 @@
             "hu": "Vegyen egy buszt a központból, hogy elérje a város nyugati részét.",
             "ro": "Luați un autobuz din centru pentru a ajunge în partea de vest a orașului.",
             "en": "Take a bus from the center to reach the western part of town.",
-            "nl": "Neem een bus vanuit het centrum om het westen van de stad te bereiken."
+            "nl": "Neem een bus vanuit het centrum naar het westelijke deel van de stad."
           }
         },
         {
@@ -1882,7 +1882,7 @@
             "hu": "Busszal a De Lawei-hez és séta a parkba",
             "ro": "Autobuz spre De Lawei & plimbare în parc",
             "en": "Bus to De Lawei & Walk to Park",
-            "nl": "Bus naar De Lawei & Wandeling naar Park"
+            "nl": "Bus naar De Lawei & Loop naar Park"
           },
           "coords": [
             6.106,
@@ -1899,7 +1899,7 @@
             "hu": "Menjen busszal vissza a központon keresztül a színházi negyedbe.",
             "ro": "Luați autobuzul înapoi prin centru spre cartierul teatrelor.",
             "en": "Take the bus back across the center to the theatre district.",
-            "nl": "Neem de bus terug door het centrum naar het theaterdistrict."
+            "nl": "Neem de bus terug over het centrum naar het theaterdistrict."
           }
         },
         {
@@ -1925,7 +1925,7 @@
             "hu": "Zárja a napot egy pihentető sétával, mielőtt visszamenne a buszhoz.",
             "ro": "Încheiați ziua cu o plimbare relaxantă înainte de a lua autobuzul înapoi.",
             "en": "End the day with a relaxing walk before taking the bus back.",
-            "nl": "Sluit de dag af met een ontspannende wandeling voordat je de bus terug neemt."
+            "nl": "Sluit de dag af met een ontspannende wandeling voordat je de bus terugneemt."
           }
         }
       ],
@@ -1934,7 +1934,7 @@
         "hu": "Fedezze fel Drachtent könnyedén a tömegközlekedéssel. Kezdje a központi buszpályaudvaron, és sétáljon el a Grote Kerkhez és a Dr8888 Múzeumhoz. Ezek a központi látnivalók alkotják az első gyalogos klasztert. Ebéd után egy busz elviszi a csendes Karmelita kolostorhoz. Onnan egy másik járattal a második klaszterhez juthat: a De Lawei kulturális központhoz. Egy rövid séta elvezet a Slingerparkba, ahol a délutánt töltheti, mielőtt visszaszállna a buszra.",
         "ro": "Explorați Drachten fără efort folosind transportul public. Începeți de la autogara centrală și plimbați-vă la Grote Kerk și Muzeul Dr8888. Aceste atracții centrale formează primul dvs. cluster pietonal. După prânz, un autobuz vă duce la liniștita Mănăstire Karmelklooster. De acolo, luați o altă linie pentru a ajunge la al doilea cluster: centrul cultural De Lawei. O scurtă plimbare vă duce la Slingerpark, unde vă puteți încheia după-amiaza înainte de a lua din nou autobuzul.",
         "en": "Explore Drachten effortlessly using public transport. Start at the central bus station and walk to the Grote Kerk and Museum Dr8888. This central cluster of sights is your first walking hub. After lunch, a bus takes you to the tranquil Karmelklooster Monastery. From there, take another line to reach your second cluster: the De Lawei cultural center. A short walk from there leads you to Slingerpark to finish your afternoon before hopping back on a bus.",
-        "nl": "Ontdek Drachten moeiteloos met het openbaar vervoer. Begin bij het centrale busstation en wandel naar de Grote Kerk en Museum Dr8888. Deze centrale verzameling bezienswaardigheden is je eerste wandelknooppunt. Na de lunch brengt een bus je naar het rustige Karmelklooster. Vanaf daar neem je een andere lijn naar je tweede cluster: cultuurcentrum De Lawei. Een korte wandeling van daar brengt je naar Slingerpark om je middag af te sluiten voordat je weer de bus pakt."
+        "nl": "Verken Drachten moeiteloos met het openbaar vervoer. Begin bij het centrale busstation en loop naar de Grote Kerk en Museum Dr8888. Deze centrale cluster van bezienswaardigheden is je eerste wandelhub. Na de lunch brengt een bus je naar het rustige Karmelklooster. Vanaf daar neem je een andere lijn naar je tweede cluster: het culturele centrum De Lawei. Een korte wandeling van daar brengt je naar Slingerpark om je middag af te sluiten voordat je weer in de bus stapt."
       },
       "gastro_picks": {
         "de": [
@@ -2134,7 +2134,7 @@
         "nl": [
           "Koop een dagkaart voor onbeperkt reizen.",
           "Gebruik een OV-app om routes en realtime dienstregelingen te controleren.",
-          "Houd je hand of kaart gereed om te scannen bij het instappen.",
+          "Houd je hand of kaart klaar om te scannen bij het instappen.",
           "Druk ruim voor je halte op de stopknop."
         ]
       },
@@ -2145,7 +2145,7 @@
             "hu": "Busszal utazni az esős Drachtenben hatékony és száraz megoldás. A központi buszpályaudvarról gyorsan elérhető a Grote Kerk. Délben a Museum Dr8888 nyújt hosszú, száraz pihenőt. A kolostorhoz vezető buszjárat kényelmes utazást biztosít, miközben az esős tájat szemlélheti. A nap a De Lawei kulturális központban ér véget.",
             "ro": "Călătoria cu autobuzul prin Drachtenul ploios este eficientă și uscată. De la autogara centrală ajungeți rapid la Grote Kerk. La prânz, Muzeul Dr8888 oferă o pauză prelungită la uscat. Conexiunea spre mănăstire permite o călătorie confortabilă în timp ce observați peisajul ploios. Ziua se încheie la centrul cultural De Lawei.",
             "en": "Traveling by bus through rainy Drachten is efficient and dry. From the central bus station, you can quickly reach the Grote Kerk. At noon, Museum Dr8888 offers an extended dry break. The bus connection to the monastery provides a comfortable ride while observing the rainy scenery. The day ends at the De Lawei cultural center.",
-            "nl": "Met de bus door het regenachtige Drachten reizen is efficiënt en droog. Vanaf het centrale busstation bereik je snel de Grote Kerk. ’s Middags biedt Museum Dr8888 een uitgebreide droge pauze. De busverbinding naar het klooster geeft een comfortabele rit terwijl je van het regenachtige landschap geniet. De dag eindigt bij cultuurcentrum De Lawei."
+            "nl": "Reizen per bus door het regenachtige Drachten is efficiënt en droog. Vanaf het centrale busstation bereik je snel de Grote Kerk. ’s Middags biedt Museum Dr8888 een uitgebreide droge pauze. De busverbinding naar het klooster biedt een comfortabele rit terwijl je het regenachtige landschap bekijkt. De dag eindigt bij het culturele centrum De Lawei."
           },
           "stops": [
             {
@@ -2155,7 +2155,7 @@
                 "hu": "Használd a pályaudvar fedett várótermeit.",
                 "ro": "Folosiți zonele de așteptare acoperite din autogară.",
                 "en": "Use the covered waiting areas at the bus station.",
-                "nl": "Gebruik de overdekte wachtruimtes op het busstation."
+                "nl": "Gebruik de overdekte wachtruimtes bij het busstation."
               }
             },
             {
@@ -2165,7 +2165,7 @@
                 "hu": "A buszmegálló szinte közvetlenül az ajtó előtt van.",
                 "ro": "Stația de autobuz este aproape direct în fața ușii.",
                 "en": "Bus stop is located almost right outside the door.",
-                "nl": "De bushalte ligt bijna direct voor de deur."
+                "nl": "De bushalte bevindt zich vrijwel direct buiten de deur."
               }
             },
             {
@@ -2175,7 +2175,7 @@
                 "hu": "Pihentető utazás szárazon a cél felé.",
                 "ro": "Călătorie relaxată la uscat spre destinație.",
                 "en": "Relaxing, dry ride towards your destination.",
-                "nl": "Ontspannen, droge rit naar je bestemming."
+                "nl": "Ontspannende, droge rit naar je bestemming."
               }
             },
             {
@@ -2185,7 +2185,7 @@
                 "hu": "A rövid átszállási utak minimalizálják az esőzést.",
                 "ro": "Distanțele scurte de transfer reduc contactul cu ploaia.",
                 "en": "Short transfer distances minimize exposure to rain.",
-                "nl": "Korte overstapafstanden beperken de blootstelling aan regen."
+                "nl": "Korte overstapafstanden beperken blootstelling aan regen."
               }
             },
             {
@@ -2195,7 +2195,7 @@
                 "hu": "A busz közel visz a park bejáratához.",
                 "ro": "Autobuzul vă lasă aproape de intrarea în parc.",
                 "en": "The bus drops you off close to the park entrance.",
-                "nl": "De bus zet je dicht bij de parkentree af."
+                "nl": "De bus zet je dicht bij de ingang van het park af."
               }
             }
           ],
@@ -2225,10 +2225,10 @@
               "Some bus stops offer limited rain protection."
             ],
             "nl": [
-              "Gebruik de Arriva-app voor actuele vertrektijden.",
+              "Gebruik de Arriva-app voor live vertrektijden.",
               "Houd je OV-chipkaart klaar voor snel instappen.",
-              "Bussen zijn goed geconditioneerd en droog.",
-              "Sommige bushaltes bieden beperkte regenbescherming."
+              "Bussen zijn goed verwarmd en droog.",
+              "Sommige bushaltes bieden beperkte regenkap."
             ]
           }
         },
@@ -2238,7 +2238,7 @@
             "hu": "Drachten télen tömegközlekedéssel a legmelegebb opció. A fűtött buszpályaudvar ideális kiindulópont a Grote Kerkhez. Délben a Museum Dr8888 nyújt meleget és inspirációt. A kolostorhoz vezető buszút megspórolja a hideg szélben való gyaloglást. Délután kényelmesen elérheti a De Laweit, mielőtt befejezné a napot a kivilágított városban.",
             "ro": "Drachten iarna cu transportul public este cea mai călduroasă opțiune. Autogara încălzită este punctul de plecare ideal spre Grote Kerk. La prânz, Muzeul Dr8888 oferă căldură și inspirație. Drumul cu autobuzul spre mănăstire vă scutește de mersul prin vântul rece. După-amiaza ajungeți confortabil la De Lawei.",
             "en": "Public transit is the warmest way to see Drachten in winter. The heated bus station is the perfect starting point for the Grote Kerk. At noon, Museum Dr8888 provides warmth and inspiration. Taking the bus to the monastery saves you from walking in the cold wind. Reach De Lawei comfortably before ending your day in the lit city.",
-            "nl": "Openbaar vervoer is de warmste manier om Drachten in de winter te zien. Het verwarmde busstation is het perfecte startpunt voor de Grote Kerk. ’s Middags biedt Museum Dr8888 warmte en inspiratie. De bus naar het klooster bespaart je wandelen in de koude wind. Bereik De Lawei comfortabel voordat je je dag in de verlichte stad afsluit."
+            "nl": "Openbaar vervoer is de warmste manier om Drachten in de winter te zien. Het verwarmde busstation is het perfecte startpunt voor de Grote Kerk. Rond het middaguur bieden Museum Dr8888 warmte en inspiratie. Met de bus naar het klooster bespaar je jezelf een wandeling in de koude wind. Bereik De Lawei comfortabel voordat je je dag afsluit in de verlichte stad."
           },
           "stops": [
             {
@@ -2248,7 +2248,7 @@
                 "hu": "Várj a pályaudvar fűtött belső terében.",
                 "ro": "Așteptați în zona interioară încălzită a gării.",
                 "en": "Wait inside the heated area of the bus station.",
-                "nl": "Wacht binnen in het verwarmde gedeelte van het busstation."
+                "nl": "Wacht binnen in het verwarmde deel van het busstation."
               }
             },
             {
@@ -2258,7 +2258,7 @@
                 "hu": "A buszok sűrű követése rövid várakozást jelent.",
                 "ro": "Frecvența bună a autobuzelor asigură timpi scurți de așteptare.",
                 "en": "Frequent bus service ensures short wait times in the cold.",
-                "nl": "Veelvuldig busverkeer zorgt voor korte wachttijden in de kou."
+                "nl": "Frequent rijdende bussen zorgen voor korte wachttijden in de kou."
               }
             },
             {
@@ -2268,7 +2268,7 @@
                 "hu": "Élvezze a kilátást a téli tájra.",
                 "ro": "Bucurați-vă de vederea spre peisajul de iarnă.",
                 "en": "Enjoy the views of the wintry landscape from the bus.",
-                "nl": "Geniet van het uitzicht op het winterlandschap vanuit de bus."
+                "nl": "Geniet van het uitzicht op het winterse landschap vanuit de bus."
               }
             },
             {
@@ -2288,7 +2288,7 @@
                 "hu": "Rövid, frissítő téli séta a megállótól.",
                 "ro": "O plimbare scurtă și vioaie de iarnă de la stație.",
                 "en": "A short, brisk winter walk from the bus stop.",
-                "nl": "Een korte, pittige winterwandeling vanaf de bushalte."
+                "nl": "Een korte, frisse winterwandeling vanaf de bushalte."
               }
             }
           ],
@@ -2319,9 +2319,9 @@
             ],
             "nl": [
               "Controleer online op mogelijke vertragingen bij zware sneeuwval.",
-              "Bussen zijn in de winter vaak erg warm; kleed je daar naar.",
-              "Gebruik 9292.nl voor uitgebreide reisplanning.",
-              "Centrale bushaltes zijn 's avonds veilig en goed verlicht."
+              "Bussen zijn in de winter vaak erg warm; kleed je daar op aan.",
+              "Gebruik 9292.nl voor uitgebreide routeplanning.",
+              "Centrale bushaltes zijn ’s avonds veilig en goed verlicht."
             ]
           }
         }
