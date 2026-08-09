@@ -70,6 +70,9 @@ jobs:
             echo "::error::Generated Plizio data is missing from $SOURCE_REPO"
             exit 1
           fi
+          # A retry must not reuse results from an earlier queue with the same
+          # language/date directory; stale keys otherwise fail apply validation.
+          rm -rf "$WORK"
           mkdir -p "$WORK"
           # --only-rendered: fr renders only for FR-* parents, tr for DE-*, hr for
           # hr-native POIs. Without it we would pay for strings whose page is
