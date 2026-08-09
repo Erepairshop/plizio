@@ -95,6 +95,55 @@ function templateCopy(countryId: string, lang: Lang): { title: string; descripti
       name,
     };
   }
+  if (lang === "cs") {
+    return {
+      title: `Interaktivní mapa ${name}`,
+      description: `Stránky o regionech, městech, přírodě, historii a památkách v zemi ${name}.`,
+      name,
+    };
+  }
+  if (lang === "sk") {
+    return {
+      title: `Interaktívna mapa krajiny ${name}`,
+      description: `Stránky o regiónoch, mestách, prírode, histórii a pamiatkach v krajine ${name}.`,
+      name,
+    };
+  }
+  if (lang === "da") {
+    return {
+      title: `Interaktivt kort over ${name}`,
+      description: `Sider om regioner, byer, natur, historie og seværdigheder i ${name}.`,
+      name,
+    };
+  }
+  if (lang === "sv") {
+    return {
+      title: `Interaktiv karta över ${name}`,
+      description: `Sidor om regioner, städer, natur, historia och sevärdheter i ${name}.`,
+      name,
+    };
+  }
+  if (lang === "fi") {
+    return {
+      title: `Interaktiivinen ${name}-kartta`,
+      description: `Sivuja kohteista, kaupungeista, luonnosta, historiasta ja nähtävyyksistä maassa ${name}.`,
+      name,
+    };
+  }
+  if (lang === "el") {
+    return {
+      title: `Διαδραστικός χάρτης της ${name}`,
+      description: `Σελίδες για περιοχές, πόλεις, φύση, ιστορία και αξιοθέατα της ${name}.`,
+      name,
+    };
+  }
+  if (lang === "bg") {
+    return {
+      title: `Интерактивна карта на ${name}`,
+      description: `Страници за региони, градове, природа, история и забележителности в ${name}.`,
+      name,
+    };
+  }
   return {
     title: `Interactive ${name} Map`,
     description: `Static study pages about regions, cities, nature, history, and landmarks in ${name}.`,

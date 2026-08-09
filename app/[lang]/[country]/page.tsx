@@ -70,7 +70,7 @@ export async function generateMetadata({
   if (!countryId) return {};
 
   const metadata = countryMetadata(lang, countryId);
-  return lang === "it" || lang === "nl"
+  return (["it", "nl", "cs", "sk", "da", "sv", "fi", "el", "bg"] as string[]).includes(lang)
     ? { ...metadata, other: { ...(metadata.other || {}), google: "notranslate" } }
     : metadata;
 }
@@ -146,7 +146,7 @@ export default async function CountryPage({
   const ML = ML_BY_LANG[lang as keyof typeof ML_BY_LANG] ?? ML_BY_LANG.en;
 
   return (
-    <main translate={lang === "it" || lang === "nl" ? "no" : undefined} className="min-h-screen bg-[#020408] text-white">
+    <main translate={(["it", "nl", "cs", "sk", "da", "sv", "fi", "el", "bg"] as string[]).includes(lang) ? "no" : undefined} className="min-h-screen bg-[#020408] text-white">
       <section className="mx-auto max-w-6xl px-4 py-8 sm:px-6 lg:px-8">
         <Breadcrumb
           items={[
