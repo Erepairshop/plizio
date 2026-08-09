@@ -21,7 +21,8 @@
             "de": "Hauptstraße (Sorela-Architektur)",
             "hu": "Fő utca (Sorela építészet)",
             "ro": "Strada Principală (Arhitectura Sorela)",
-            "en": "Main Street (Sorela Architecture)"
+            "en": "Main Street (Sorela Architecture)",
+            "cs": "Hlavní třída (Sorela architektura)"
           },
           "coords": [
             18.4295,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die einzigartigen sozialistisch-realistischen Gebäude, ein Markenzeichen der Stadt.",
             "hu": "Csodálja meg az egyedi szocreál épületeket, a város jellegzetességét.",
             "ro": "Admirați clădirile unice în stilul realismului socialist, un simbol al orașului.",
-            "en": "Admire the unique socialist realism buildings, a hallmark of the city."
+            "en": "Admire the unique socialist realism buildings, a hallmark of the city.",
+            "cs": "Obdivujte unikátní budovy socialistického realismu, které jsou znakem města."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "St.-Anna-Kirche",
             "hu": "Szent Anna-templom",
             "ro": "Biserica Sfânta Ana",
-            "en": "St. Anne's Church"
+            "en": "St. Anne's Church",
+            "cs": "Kostel sv. Anny"
           },
           "coords": [
             18.4261,
@@ -59,7 +62,8 @@
             "de": "Ein Moment der Stille in diesem modernen, aber spirituellen Sakralbau.",
             "hu": "Egy csendes pillanat ebben a modern, mégis spirituális szakrális épületben.",
             "ro": "Un moment de liniște în acest edificiu sacru modern, dar spiritual.",
-            "en": "A moment of silence in this modern yet spiritual sacred building."
+            "en": "A moment of silence in this modern yet spiritual sacred building.",
+            "cs": "Chvíle ticha v této moderní, přesto duchovní sakrální budově."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Schloss Havířov",
             "hu": "Havířovi kastély",
             "ro": "Castelul Havířov",
-            "en": "Havířov Castle"
+            "en": "Havířov Castle",
+            "cs": "Havířovský zámek"
           },
           "coords": [
             18.423,
@@ -82,7 +87,8 @@
             "de": "Obwohl es eher wie ein Herrenhaus aussieht, hat es eine interessante Geschichte. Heute dient es als Restaurant.",
             "hu": "Bár inkább egy kúriának tűnik, érdekes története van. Ma étteremként működik.",
             "ro": "Deși arată mai mult ca un conac, are o istorie interesantă. Astăzi servește drept restaurant.",
-            "en": "Although it looks more like a manor house, it has an interesting history. Today it serves as a restaurant."
+            "en": "Although it looks more like a manor house, it has an interesting history. Today it serves as a restaurant.",
+            "cs": "Ač vypadá spíš jako sídlo, má zajímavou historii. Dnes slouží jako restaurace."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Bergmanns-Denkmal",
             "hu": "Bányász-emlékmű",
             "ro": "Monumentul Minerului",
-            "en": "Miner's Memorial"
+            "en": "Miner's Memorial",
+            "cs": "Hornické památník"
           },
           "coords": [
             18.4381,
@@ -105,7 +112,8 @@
             "de": "Ein Tribut an die Bergbauvergangenheit der Stadt. Ein guter Ort für ein schnelles Foto.",
             "hu": "Tisztelgés a város bányászati múltja előtt. Jó hely egy gyors fotóhoz.",
             "ro": "Un tribut adus trecutului minier al orașului. Un loc bun pentru o fotografie rapidă.",
-            "en": "A tribute to the city's mining past. A good spot for a quick photo."
+            "en": "A tribute to the city's mining past. A good spot for a quick photo.",
+            "cs": "Pocta hornické minulosti města. Dobré místo pro rychlou fotografii."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Kotulova dřevěnka (Holzhaus)",
             "hu": "Kotulova dřevěnka (Faház)",
             "ro": "Kotulova dřevěnka (Casa de lemn)",
-            "en": "Kotulova dřevěnka (Wooden House)"
+            "en": "Kotulova dřevěnka (Wooden House)",
+            "cs": "Kotulova dřevěnka"
           },
           "coords": [
             18.4418,
@@ -128,7 +137,8 @@
             "de": "Das älteste Volksgebäude der Stadt, das einen Einblick in das Leben des 19. Jahrhunderts gibt.",
             "hu": "A város legrégebbi népi épülete, amely bepillantást enged a 19. századi életbe.",
             "ro": "Cea mai veche clădire populară din oraș, oferind o perspectivă asupra vieții din secolul al XIX-lea.",
-            "en": "The oldest folk building in the city, offering a glimpse into 19th-century life."
+            "en": "The oldest folk building in the city, offering a glimpse into 19th-century life.",
+            "cs": "Nejstarší lidová stavba ve městě, nabízející náhled do života 19. století."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Zentralpark Havířov",
             "hu": "Havířovi Központi Park",
             "ro": "Parcul Central Havířov",
-            "en": "Central Park Havířov"
+            "en": "Central Park Havířov",
+            "cs": "Centrální park Havířov"
           },
           "coords": [
             18.435,
@@ -151,7 +162,8 @@
             "de": "Machen Sie eine Pause und genießen Sie die Grünfläche im Herzen der Stadt.",
             "hu": "Tartson egy kis szünetet és élvezze a zöld területet a város szívében.",
             "ro": "Luați o pauză și bucurați-vă de spațiul verde din inima orașului.",
-            "en": "Take a break and enjoy the green space in the heart of the city."
+            "en": "Take a break and enjoy the green space in the heart of the city.",
+            "cs": "Dejte si pauzu a užijte si zeleň v srdci města."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Kino Centrum",
             "hu": "Centrum Mozi",
             "ro": "Cinematograful Centrum",
-            "en": "Kino Centrum"
+            "en": "Kino Centrum",
+            "cs": "Kino Centrum"
           },
           "coords": [
             18.428,
@@ -174,7 +187,8 @@
             "de": "Schauen Sie sich das Programm an, vielleicht läuft ein interessanter tschechischer Film.",
             "hu": "Nézze meg a műsort, hátha vetítenek egy érdekes cseh filmet.",
             "ro": "Verificați programul, poate rulează un film ceh interesant.",
-            "en": "Check the schedule, maybe there's an interesting Czech film playing."
+            "en": "Check the schedule, maybe there's an interesting Czech film playing.",
+            "cs": "Zkontrolujte program, možná hrají zajímavý český film."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Ihr Tag in Havířov beginnt mit einem Spaziergang entlang der Hauptstraße, um die einzigartige Sorela-Architektur zu bewundern. Am Vormittag besuchen Sie die moderne St.-Anna-Kirche und das historische Schloss Havířov. Am Nachmittag tauchen Sie im ältesten Holzhaus der Stadt, Kotulova dřevěnka, in die Vergangenheit ein, bevor Sie im Zentralpark entspannen. Der Tag endet mit einem Blick auf das Kulturleben im Kino Centrum.",
         "hu": "Havířovi napja a Fő utcán tett sétával kezdődik, ahol megcsodálhatja az egyedi Sorela építészetet. Délelőtt ellátogat a modern Szent Anna-templomba és a történelmi Havířovi kastélyba. Délután a város legrégebbi faházában, a Kotulova dřěvenkában merülhet el a múltban, mielőtt a Központi Parkban pihenne. A napot a Centrum Mozi kulturális életébe való bepillantással zárja.",
         "ro": "Ziua dvs. în Havířov începe cu o plimbare pe Strada Principală pentru a admira arhitectura unică Sorela. Dimineața veți vizita Biserica modernă Sf. Ana și castelul istoric Havířov. După-amiaza, vă veți scufunda în trecut la cea mai veche casă de lemn din oraș, Kotulova dřevěnka, înainte de a vă relaxa în Parcul Central. Ziua se încheie cu o privire asupra vieții culturale la Cinematograful Centrum.",
-        "en": "Your day in Havířov starts with a walk along the Main Street to admire the unique Sorela architecture. In the morning, you'll visit the modern St. Anne's Church and the historic Havířov Castle. In the afternoon, delve into the past at the city's oldest wooden house, Kotulova dřevěnka, before relaxing in the Central Park. The day concludes with a glimpse into cultural life at Kino Centrum."
+        "en": "Your day in Havířov starts with a walk along the Main Street to admire the unique Sorela architecture. In the morning, you'll visit the modern St. Anne's Church and the historic Havířov Castle. In the afternoon, delve into the past at the city's oldest wooden house, Kotulova dřevěnka, before relaxing in the Central Park. The day concludes with a glimpse into cultural life at Kino Centrum.",
+        "cs": "Váš den v Havířově začíná procházkou po Hlavní třídě, kde obdivujete unikátní Sorela architekturu. Dopoledne navštívíte moderní kostel sv. Anny a historický Havířovský zámek. Odpoledne nahlédnete do minulosti v Kotulově dřevěnce, než si odpočinete v Centrálním parku. Den zakončíte kulturním zážitkem v Kině Centrum."
       },
       "gastro_picks": {
         "de": [
@@ -326,6 +341,12 @@
           "Havířov is a relatively young city, its architecture is unique in the Czech Republic.",
           "Most sights are concentrated in the city center and are easily accessible on foot.",
           "Look out for the many green spaces and parks that provide a break from the city."
+        ],
+        "cs": [
+          "Obujte pohodlné boty, protože budete hodně chodit.",
+          "Havířov je relativně mladé město, jeho architektura je v Česku jedinečná.",
+          "Většina památek je soustředěna v centru a je snadno dosažitelná pěšky.",
+          "Všímejte si mnoha zelených ploch a parků, které poskytují odpočinek od města."
         ]
       },
       "variants": {
@@ -334,7 +355,8 @@
             "de": "Beginnen Sie den Tag unter den Arkaden der Sorela-Architektur, die Schutz vor dem Regen bieten. Mittags besichtigen Sie das Schloss Havířov und die St.-Anna-Kirche, beide bieten trockene Zuflucht. Nachmittags erkunden Sie die Kotulova-Holzhütte, bevor Sie den Tag im gemütlichen Kino Centrum ausklingen lassen. Ein regnerischer Tag voller Kultur und Architektur im Trockenen.",
             "hu": "Kezdje a napot a Sorela-negyed árkádjai alatt, amelyek kiváló védelmet nyújtanak az eső ellen. Délben látogasson el a Szent Anna-templomba és a kastélyba, mindkettő fedett menedéket kínál. Délután fedezze fel a Kotula-féle faházat, majd zárja a napot a Mozi központ melegében. Az eső ellenére a város szocreál öröksége és múzeumai kényelmesen bejárhatók.",
             "ro": "Începeți ziua sub arcadele arhitecturii Sorela, care oferă protecție împotriva ploii. La prânz, vizitați Biserica Sfânta Ana și Castelul Havířov, ambele oferind refugiu uscat. După-amiaza, explorați căsuța de lemn Kotula, înainte de a încheia ziua în confortabilul Cinema Centrum. O zi ploioasă plină de cultură și istorie, petrecută în mare parte la interior.",
-            "en": "Start the day under the arcades of the Sorela architecture, providing excellent shelter from the rain. At noon, visit St. Anne's Church and the Havířov Castle, both offering dry sanctuary. In the afternoon, explore the Kotulova wooden house, then end your day in the cozy Kino Centrum. Despite the rain, the city's socialist realism heritage and museums are easily accessible."
+            "en": "Start the day under the arcades of the Sorela architecture, providing excellent shelter from the rain. At noon, visit St. Anne's Church and the Havířov Castle, both offering dry sanctuary. In the afternoon, explore the Kotulova wooden house, then end your day in the cozy Kino Centrum. Despite the rain, the city's socialist realism heritage and museums are easily accessible.",
+            "cs": "Začněte den pod arkádami Sorela, které skvěle chrání před deštěm. V poledne navštivte kostel sv. Anny a Havířovský zámek, obojí nabízí suché útočiště. Odpoledne prozkoumejte Kotulovu dřevěnku a den zakončete v útulném Kině Centrum. I v dešti jsou dědictví socialistického realismu a muzea snadno dostupná."
           },
           "stops": [
             {
@@ -343,7 +365,8 @@
                 "de": "Nutzen Sie die Arkaden der Gebäude, um trocken zu bleiben.",
                 "hu": "Használja az épületek árkádjait, hogy szárazon maradjon.",
                 "ro": "Folosiți arcadele clădirilor pentru a rămâne uscat.",
-                "en": "Use the building arcades to stay dry while walking."
+                "en": "Use the building arcades to stay dry while walking.",
+                "cs": "Využijte arkády budov, abyste zůstali v suchu při chůzi."
               }
             },
             {
@@ -352,7 +375,8 @@
                 "de": "Ein ruhiger Ort für eine Pause während eines Regenschauers.",
                 "hu": "Csendes hely egy pihenőre egy zápor idején.",
                 "ro": "Un loc liniștit pentru o pauză în timpul unei averse.",
-                "en": "A quiet place for a break during a rain shower."
+                "en": "A quiet place for a break during a rain shower.",
+                "cs": "Klidné místo na pauzu během přeháňky."
               }
             },
             {
@@ -361,7 +385,8 @@
                 "de": "Genießen Sie die Innenausstellungen und das Schlossrestaurant.",
                 "hu": "Élvezze a belső kiállításokat és a kastély éttermét.",
                 "ro": "Bucurați-vă de expozițiile interioare și de restaurantul castelului.",
-                "en": "Enjoy the indoor exhibitions and the castle restaurant."
+                "en": "Enjoy the indoor exhibitions and the castle restaurant.",
+                "cs": "Užijte si vnitřní expozice a zámek-restauraci."
               }
             },
             {
@@ -370,7 +395,8 @@
                 "de": "Kurzer Halt, halten Sie Ihren Regenschirm bereit.",
                 "hu": "Rövid megálló, tartsa készenlétben az esernyőjét.",
                 "ro": "Oprire scurtă, țineți umbrela la îndemână.",
-                "en": "Quick stop, keep your umbrella ready."
+                "en": "Quick stop, keep your umbrella ready.",
+                "cs": "Krátká zastávka, mějte po ruce deštník."
               }
             },
             {
@@ -379,7 +405,8 @@
                 "de": "Die Innenräume bieten einen faszinierenden Einblick ins Volksleben.",
                 "hu": "A belső terek lenyűgöző betekintést nyújtanak a népi életbe.",
                 "ro": "Interioarele oferă o privire fascinantă asupra vieții populare.",
-                "en": "The interiors provide a fascinating glimpse into folk life."
+                "en": "The interiors provide a fascinating glimpse into folk life.",
+                "cs": "Interiéry poskytují fascinující pohled do lidového života."
               }
             },
             {
@@ -388,7 +415,8 @@
                 "de": "Gehen Sie auf den asphaltierten Wegen, um Schlamm zu vermeiden.",
                 "hu": "Haladjon az aszfaltozott utakon a sár elkerülése érdekében.",
                 "ro": "Mergeți pe potecile asfaltate pentru a evita noroiul.",
-                "en": "Stay on the paved paths to avoid mud."
+                "en": "Stay on the paved paths to avoid mud.",
+                "cs": "Zůstaňte na dlážděných cestách, abyste se vyhnuli blátu."
               }
             },
             {
@@ -397,7 +425,8 @@
                 "de": "Perfekter Ort, um den Tag bei einem Film aufzuwärmen.",
                 "hu": "Tökéletes hely, hogy egy film mellett melegedjen fel.",
                 "ro": "Locul perfect pentru a vă încălzi vizionând un film.",
-                "en": "Perfect place to warm up while watching a movie."
+                "en": "Perfect place to warm up while watching a movie.",
+                "cs": "Skvělé místo k zahřátí při sledování filmu."
               }
             }
           ],
@@ -429,6 +458,13 @@
               "The castle restaurant is ideal for a long lunch break.",
               "The cinema often offers afternoon screenings.",
               "An umbrella is essential due to wind in open areas."
+            ],
+            "cs": [
+              "Sorela hlavní třída má mnoho krytých průchodů.",
+              "Na návštěvu parku noste nepromokavé boty.",
+              "Zámek-restaurace je ideální pro dlouhou obědovou pauzu.",
+              "Kino často nabízí odpolední projekce.",
+              "Deštník je nezbytný kvůli větru na otevřených prostranstvích."
             ]
           }
         },
@@ -437,7 +473,8 @@
             "de": "Erleben Sie den winterlichen Charme von Havířov. Morgens bewundern Sie die Sorela-Architektur im weichen Winterlicht. Mittags wärmen Sie sich in der St.-Anna-Kirche und im Schloss auf. Der Nachmittag führt zur Kotulova-Hütte, die im Schnee besonders malerisch wirkt. Da es früh dunkel wird, bietet das Kino Centrum am späten Nachmittag den idealen, gemütlichen Abschluss.",
             "hu": "Fedezze fel Havířov téli báját. Reggel csodálja meg a Sorela-építészetet a lágy téli fényben. Délben melegedjen fel a Szent Anna-templomban és a kastélyban. A délután a Kotula-faházhoz vezet, amely a hóban különösen festői látványt nyújt. Mivel korán sötétedik, a Mozi központ ideális és barátságos befejezést kínál a nap végén.",
             "ro": "Descoperiți farmecul iernatic al orașului Havířov. Dimineața, admirați arhitectura Sorela în lumina blândă a iernii. La prânz, încălziți-vă în Biserica Sfânta Ana și în castel. După-amiaza vă duce la căsuța Kotula, care arată pitoresc în zăpadă. Deoarece se întunecă devreme, Cinema Centrum oferă finalul ideal și primitor.",
-            "en": "Discover the winter charm of Havířov. In the morning, admire the Sorela architecture in the soft winter light. At noon, warm up in St. Anne's Church and the castle. The afternoon leads to the Kotulova wooden house, which looks particularly picturesque in the snow. Since it gets dark early, Kino Centrum provides the ideal, cozy conclusion to your day."
+            "en": "Discover the winter charm of Havířov. In the morning, admire the Sorela architecture in the soft winter light. At noon, warm up in St. Anne's Church and the castle. The afternoon leads to the Kotulova wooden house, which looks particularly picturesque in the snow. Since it gets dark early, Kino Centrum provides the ideal, cozy conclusion to your day.",
+            "cs": "Objevte zimní kouzlo Havířova. Ráno obdivujte Sorela architekturu v měkkém zimním světle. V poledne se zahřejte v kostele sv. Anny a na zámku. Odpoledne zavítáte do Kotulovy dřevěnky, která ve sněhu vypadá obzvlášť malebně. Poněvadž se stmívá brzy, Kino Centrum poskytne ideální útulné zakončení dne."
           },
           "stops": [
             {
@@ -446,7 +483,8 @@
                 "de": "Achten Sie auf vereiste Gehwege unter den Arkaden.",
                 "hu": "Ügyeljen a jeges járdákra az árkádok alatt.",
                 "ro": "Atenție la trotuarele înghețate sub arcade.",
-                "en": "Watch out for icy pavements under the arcades."
+                "en": "Watch out for icy pavements under the arcades.",
+                "cs": "Dejte pozor na zledovatělé chodníky pod arkádami."
               }
             },
             {
@@ -455,7 +493,8 @@
                 "de": "Ein warmer Ort für Besinnung während der Kälte.",
                 "hu": "Meleg hely az elmélyüléshez a hidegben.",
                 "ro": "Un loc cald pentru reflecție în timpul frigului.",
-                "en": "A warm place for reflection during the cold."
+                "en": "A warm place for reflection during the cold.",
+                "cs": "Teplé místo pro zamyšlení v chladu."
               }
             },
             {
@@ -464,7 +503,8 @@
                 "de": "Besuchen Sie das Café für ein heißes Getränk.",
                 "hu": "Látogasson el a kávézóba egy forró italra.",
                 "ro": "Vizitați cafeneaua pentru o băutură caldă.",
-                "en": "Visit the cafe for a hot drink."
+                "en": "Visit the cafe for a hot drink.",
+                "cs": "Zastavte se v kavárně na horký nápoj."
               }
             },
             {
@@ -473,7 +513,8 @@
                 "de": "Die Metallskulptur wirkt im Schnee besonders markant.",
                 "hu": "A fémszobor különösen markáns a hóban.",
                 "ro": "Sculptura metalică arată deosebit de izbitor în zăpadă.",
-                "en": "The metal sculpture looks particularly striking in the snow."
+                "en": "The metal sculpture looks particularly striking in the snow.",
+                "cs": "Kovová socha působí ve sněhu obzvlášť výrazně."
               }
             },
             {
@@ -482,7 +523,8 @@
                 "de": "Prüfen Sie die Winteröffnungszeiten vor Ihrem Besuch.",
                 "hu": "Látogatás előtt ellenőrizze a téli nyitvatartást.",
                 "ro": "Verificați programul de iarnă înainte de vizită.",
-                "en": "Check winter opening hours before visiting."
+                "en": "Check winter opening hours before visiting.",
+                "cs": "Před návštěvou si ověřte zimní otevírací dobu."
               }
             },
             {
@@ -491,7 +533,8 @@
                 "de": "Genießen Sie den Blick auf die verschneiten Bäume.",
                 "hu": "Élvezze a havas fák látványát.",
                 "ro": "Bucurați-vă de priveliștea copacilor înzăpeziți.",
-                "en": "Enjoy the view of the snow-covered trees."
+                "en": "Enjoy the view of the snow-covered trees.",
+                "cs": "Užijte si výhled na zasněžené stromy."
               }
             },
             {
@@ -500,7 +543,8 @@
                 "de": "Ein gemütlicher Rückzugsort nach dem Sonnenuntergang um 16 Uhr.",
                 "hu": "Hangulatos menedék a 16 órai naplemente után.",
                 "ro": "Un refugiu primitor după apusul de la ora 16:00.",
-                "en": "A cozy retreat after the 4 PM sunset."
+                "en": "A cozy retreat after the 4 PM sunset.",
+                "cs": "Pohodlné útočiště po západu slunce ve 16:00."
               }
             }
           ],
@@ -532,6 +576,13 @@
               "Many cafes on Main Street offer traditional Czech sweets.",
               "Public buildings are well-heated and offer respite.",
               "Be careful with road salt, which can damage leather shoes."
+            ],
+            "cs": [
+              "V prosinci slunce zapadá už v 16:00.",
+              "Na procházky mezi muzei jsou nutné teplé věci.",
+              "Mnoho kaváren na Hlavní třídě nabízí tradiční české sladkosti.",
+              "Veřejné budovy jsou dobře vytápěné a poskytují úlevu.",
+              "Dejte pozor na posypovou sůl, která může poškodit kožené boty."
             ]
           }
         }
@@ -550,7 +601,8 @@
             "de": "Hauptstraße (Sorela)",
             "hu": "Fő utca (Sorela)",
             "ro": "Strada Principală (Sorela)",
-            "en": "Main Street (Sorela)"
+            "en": "Main Street (Sorela)",
+            "cs": "Hlavní třída (Sorela)"
           },
           "coords": [
             18.4295,
@@ -565,7 +617,8 @@
             "de": "Starten Sie Ihre Radtour mit einem Blick auf die einzigartige Architektur der Stadt.",
             "hu": "Kezdje a kerékpártúrát a város egyedi építészetének megtekintésével.",
             "ro": "Începeți turul cu bicicleta cu o privire asupra arhitecturii unice a orașului.",
-            "en": "Start your bike tour with a look at the city's unique architecture."
+            "en": "Start your bike tour with a look at the city's unique architecture.",
+            "cs": "Začněte cykloturistiku pohledem na jedinečnou městskou architekturu."
           }
         },
         {
@@ -573,7 +626,8 @@
             "de": "St.-Anna-Kirche",
             "hu": "Szent Anna-templom",
             "ro": "Biserica Sfânta Ana",
-            "en": "St. Anne's Church"
+            "en": "St. Anne's Church",
+            "cs": "Kostel sv. Anny"
           },
           "coords": [
             18.4261,
@@ -588,7 +642,8 @@
             "de": "Ein kurzer Halt, um die moderne kirchliche Architektur zu bewundern.",
             "hu": "Egy rövid megálló, hogy megcsodálja a modern egyházi építészetet.",
             "ro": "O scurtă oprire pentru a admira arhitectura bisericească modernă.",
-            "en": "A short stop to admire the modern church architecture."
+            "en": "A short stop to admire the modern church architecture.",
+            "cs": "Krátká zastávka k obdivu moderní církevní architektury."
           }
         },
         {
@@ -596,7 +651,8 @@
             "de": "Kotulova dřevěnka",
             "hu": "Kotulova dřevěnka",
             "ro": "Kotulova dřevěnka",
-            "en": "Kotulova dřevěnka"
+            "en": "Kotulova dřevěnka",
+            "cs": "Kotulova dřevěnka"
           },
           "coords": [
             18.4418,
@@ -611,7 +667,8 @@
             "de": "Schließen Sie Ihr Fahrrad an und reisen Sie in die Vergangenheit in diesem historischen Holzhaus.",
             "hu": "Zárja le a kerékpárját, és utazzon vissza az időben ebben a történelmi faházban.",
             "ro": "Legați-vă bicicleta și călătoriți înapoi în timp în această casă istorică din lemn.",
-            "en": "Lock up your bike and travel back in time at this historic wooden house."
+            "en": "Lock up your bike and travel back in time at this historic wooden house.",
+            "cs": "Zakliďte kolo a vraťte se v čase v této historické dřevěné chalupě."
           }
         },
         {
@@ -619,7 +676,8 @@
             "de": "Bergmanns-Denkmal",
             "hu": "Bányász-emlékmű",
             "ro": "Monumentul Minerului",
-            "en": "Miner's Memorial"
+            "en": "Miner's Memorial",
+            "cs": "Hornické památník"
           },
           "coords": [
             18.4381,
@@ -634,7 +692,8 @@
             "de": "Ein Moment des Innehaltens, um der Bergbaugeschichte der Stadt zu gedenken.",
             "hu": "Egy pillanatnyi megállás, hogy megemlékezzünk a város bányászati történelméről.",
             "ro": "Un moment de reculegere pentru a comemora istoria minieră a orașului.",
-            "en": "A moment of pause to commemorate the city's mining history."
+            "en": "A moment of pause to commemorate the city's mining history.",
+            "cs": "Chvíle ticha na uctění hornické historie města."
           }
         },
         {
@@ -642,7 +701,8 @@
             "de": "Zentralpark Havířov",
             "hu": "Havířovi Központi Park",
             "ro": "Parcul Central Havířov",
-            "en": "Central Park Havířov"
+            "en": "Central Park Havířov",
+            "cs": "Centrální park Havířov"
           },
           "coords": [
             18.435,
@@ -657,7 +717,8 @@
             "de": "Perfekt für eine Mittagspause. Fahren Sie langsam durch den Park und genießen Sie die Natur.",
             "hu": "Tökéletes egy ebédszünethez. Lassan tekerjen át a parkon, és élvezze a természetet.",
             "ro": "Perfect pentru o pauză de prânz. Pedalați încet prin parc și bucurați-vă de natură.",
-            "en": "Perfect for a lunch break. Ride slowly through the park and enjoy nature."
+            "en": "Perfect for a lunch break. Ride slowly through the park and enjoy nature.",
+            "cs": "Ideální na oběd. Projeďte park pomalu a vychutnejte si přírodu."
           }
         },
         {
@@ -665,7 +726,8 @@
             "de": "Meandry Lučiny",
             "hu": "Lučina meanderei",
             "ro": "Meandrele Lučinei",
-            "en": "Meanders of the Lučina River"
+            "en": "Meanders of the Lučina River",
+            "cs": "Meandry řeky Lučiny"
           },
           "coords": [
             18.46,
@@ -680,7 +742,8 @@
             "de": "Ein wunderschönes Naturdenkmal. Die Radwege hier sind ideal für eine entspannte Fahrt.",
             "hu": "Egy gyönyörű természeti emlék. Az itteni kerékpárutak ideálisak egy laza tekeréshez.",
             "ro": "Un monument natural frumos. Pistele de biciclete de aici sunt ideale pentru o plimbare relaxantă.",
-            "en": "A beautiful natural monument. The bike paths here are ideal for a relaxed ride."
+            "en": "A beautiful natural monument. The bike paths here are ideal for a relaxed ride.",
+            "cs": "Krásná přírodní památka. Cyklostezky zde jsou ideální pro klidnou jízdu."
           }
         }
       ],
@@ -688,7 +751,8 @@
         "de": "Ihre Radtour durch Havířov beginnt im Zentrum bei der Sorela-Architektur. Von dort aus radeln Sie zur St.-Anna-Kirche und weiter zum historischen Holzhaus Kotulova dřevěnka. Gegen Mittag erreichen Sie den Zentralpark, ideal für eine Pause. Der Höhepunkt des Nachmittags ist eine ausgedehnte Fahrt entlang der malerischen Mäander des Flusses Lučina, ein wahres Naturparadies am Rande der Stadt.",
         "hu": "Havířovi kerékpártúrája a központban, a Sorela építészetnél kezdődik. Innen a Szent Anna-templomhoz, majd a történelmi Kotulova dřevěnka faházhoz teker. Dél körül eléri a Központi Parkot, amely ideális egy pihenőre. A délután fénypontja egy hosszabb tekerés a festői Lučina folyó meanderei mentén, egy igazi természeti paradicsom a város szélén.",
         "ro": "Turul dvs. cu bicicleta prin Havířov începe în centru, la arhitectura Sorela. De acolo, pedalați spre Biserica Sf. Ana și mai departe spre casa istorică din lemn Kotulova dřevěnka. În jurul prânzului ajungeți în Parcul Central, ideal pentru o pauză. Punctul culminant al după-amiezii este o plimbare extinsă de-a lungul meandrelor pitorești ale râului Lučina, un adevărat paradis natural la marginea orașului.",
-        "en": "Your bike tour through Havířov starts in the center at the Sorela architecture. From there, you'll cycle to St. Anne's Church and on to the historic wooden house Kotulova dřevěnka. Around noon, you'll reach the Central Park, ideal for a break. The highlight of the afternoon is an extended ride along the picturesque meanders of the Lučina River, a true natural paradise on the edge of the city."
+        "en": "Your bike tour through Havířov starts in the center at the Sorela architecture. From there, you'll cycle to St. Anne's Church and on to the historic wooden house Kotulova dřevěnka. Around noon, you'll reach the Central Park, ideal for a break. The highlight of the afternoon is an extended ride along the picturesque meanders of the Lučina River, a true natural paradise on the edge of the city.",
+        "cs": "Vaše cyklotrasa po Havířově začíná v centru u architektury Sorela. Odtud pojedete ke kostelu sv. Anny a dál k historické dřevěnce Kotulova. Kolem poledne dorazíte do Centrálního parku, ideálního na přestávku. Vrcholem odpoledne je delší jízda podél malebných meandrů řeky Lučiny, pravého přírodního ráje na okraji města."
       },
       "gastro_picks": {
         "de": [
@@ -832,6 +896,12 @@
           "The paths along the Lučina are flat and suitable for all fitness levels.",
           "Bring enough water, especially for the longer ride in the afternoon.",
           "A bike lock is essential when you visit the sights."
+        ],
+        "cs": [
+          "Před vyjetím zkontrolujte stav svého kola.",
+          "Stezky podél Lučiny jsou rovinaté a vhodné pro všechny úrovně kondice.",
+          "Vezměte dostatek vody, obzvlášť na delší odpolední jízdu.",
+          "Zámek na kolo je nezbytný při návštěvě památek."
         ]
       },
       "variants": {
@@ -840,7 +910,8 @@
             "de": "Eine sportliche Tour trotz Regen. Starten Sie im Sorela-Viertel und radeln Sie zur St.-Anna-Kirche. Die Kotulova-Hütte bietet eine trockene Pause. Nachmittags fordern die Flussmäander der Lučina Ihre Ausdauer auf feuchtem Untergrund heraus. Die Tour verbindet urbane Architektur mit der rauen Schönheit der Natur bei Regen.",
             "hu": "Sportos túra az eső ellenére. Kezdjen a Sorela-negyedben, majd tekerjen a Szent Anna-templomhoz. A Kotula-faház száraz pihenőt kínál. Délután a Lučina folyó kanyarulatai próbára teszik kitartását a nedves talajon. A túra ötvözi a városi építészetet a természet vad szépségével esős időben.",
             "ro": "Un tur sportiv în ciuda ploii. Începeți în cartierul Sorela, apoi pedalați spre Biserica Sfânta Ana. Căsuța Kotula oferă o pauză uscată. După-amiaza, meandrele râului Lučina vă vor pune la încercare rezistența pe teren umed. Turul combină arhitectura urbană cu frumusețea aspră a naturii pe ploaie.",
-            "en": "A sporty tour despite the rain. Start in the Sorela district, then cycle to St. Anne's Church. The Kotulova wooden house offers a dry break. In the afternoon, the meanders of the Lučina River will challenge your endurance on damp ground. The tour combines urban architecture with the raw beauty of nature in rainy weather."
+            "en": "A sporty tour despite the rain. Start in the Sorela district, then cycle to St. Anne's Church. The Kotulova wooden house offers a dry break. In the afternoon, the meanders of the Lučina River will challenge your endurance on damp ground. The tour combines urban architecture with the raw beauty of nature in rainy weather.",
+            "cs": "Sportovní okruh i přes déšť. Začněte v části Sorela, poté se vydejte ke kostelu sv. Anny. Kotulova dřevěnka nabízí suché přestávky. Odpoledne vás meandry Lučiny prověří na vlhkém terénu. Trasa kombinuje městskou architekturu s divokou krásou přírody za deštivého počasí."
           },
           "stops": [
             {
@@ -849,7 +920,8 @@
                 "de": "Vorsicht vor rutschigen Straßenbahnschienen und Kopfsteinpflaster.",
                 "hu": "Vigyázzon a csúszós villamossínekre és macskakőre.",
                 "ro": "Atenție la șinele de tramvai și pavajul alunecos.",
-                "en": "Beware of slippery tram tracks and cobblestones."
+                "en": "Beware of slippery tram tracks and cobblestones.",
+                "cs": "Pozor na kluzké tramvajové koleje a dlažební kostky."
               }
             },
             {
@@ -858,7 +930,8 @@
                 "de": "Überdachte Fahrradständer sind in der Nähe vorhanden.",
                 "hu": "Fedett kerékpártárolók találhatók a közelben.",
                 "ro": "Suporturi de biciclete acoperite sunt disponibile în apropiere.",
-                "en": "Covered bike racks are available nearby."
+                "en": "Covered bike racks are available nearby.",
+                "cs": "V blízkosti jsou krytá stojany na kola."
               }
             },
             {
@@ -867,7 +940,8 @@
                 "de": "Stellen Sie Ihr Rad unter dem Dachvorsprung ab.",
                 "hu": "Állítsa le a kerékpárt az ereszkedő tető alá.",
                 "ro": "Parcați bicicleta sub streșina acoperișului.",
-                "en": "Park your bike under the roof overhang."
+                "en": "Park your bike under the roof overhang.",
+                "cs": "Zaparkujte kolo pod přesah střechy."
               }
             },
             {
@@ -876,7 +950,8 @@
                 "de": "Kurzer Fotostopp, achten Sie auf Pfützen.",
                 "hu": "Rövid fotómegálló, ügyeljen a tócsákra.",
                 "ro": "Scurtă oprire pentru fotografii, atenție la bălți.",
-                "en": "Quick photo stop, watch out for puddles."
+                "en": "Quick photo stop, watch out for puddles.",
+                "cs": "Rychlá fotozastávka, dejte pozor na louže."
               }
             },
             {
@@ -885,7 +960,8 @@
                 "de": "Die Hauptwege sind asphaltiert und gut befahrbar.",
                 "hu": "A főutak aszfaltozottak és jól járhatóak.",
                 "ro": "Drumurile principale sunt asfaltate și ușor de parcurs.",
-                "en": "The main paths are paved and easy to cycle."
+                "en": "The main paths are paved and easy to cycle.",
+                "cs": "Hlavní cesty jsou dlážděné a snadno sjízdné na kole."
               }
             },
             {
@@ -894,7 +970,8 @@
                 "de": "Vorsicht, die Waldwege können sehr schlammig sein.",
                 "hu": "Vigyázat, az erdei utak nagyon sárosak lehetnek.",
                 "ro": "Atenție, potecile din pădure pot fi foarte noroioase.",
-                "en": "Caution, forest paths can be very muddy."
+                "en": "Caution, forest paths can be very muddy.",
+                "cs": "Pozor, lesní cesty mohou být velmi blátivé."
               }
             }
           ],
@@ -926,6 +1003,13 @@
               "Mudguards are essential for the river meanders area.",
               "Use bright lights in low visibility conditions.",
               "The Lučina meanders are a true off-road experience in the rain."
+            ],
+            "cs": [
+              "Na tuto 12km trasu se doporučuje úplné nepromokavé vybavení.",
+              "Zkontrolujte brzdy, brzdná dráha je ve vlhku delší.",
+              "Blatníky jsou nezbytné v oblasti meandrů řeky.",
+              "Používejte jasná světla za snížené viditelnosti.",
+              "Meandry Lučiny jsou v dešti opravdovým terénním zážitkem."
             ]
           }
         },
@@ -934,7 +1018,8 @@
             "de": "Eine erfrischende Wintertour durch Havířov. Morgens gleiten Sie durch das Sorela-Viertel. Mittags bietet die Kotulova-Hütte einen historischen Kontrast zum modernen Bergbau-Erbe. Der Höhepunkt ist die Fahrt zu den Lučina-Mäandern, die im Frost eine magische Stille ausstrahlen. Packen Sie sich warm ein für dieses aktive Winterabenteuer.",
             "hu": "Frissítő téli túra Havířovban. Reggel guruljon végig a Sorela-negyeden. Délben a Kotula-faház történelmi kontrasztot nyújt a modern bányászati örökséggel. A csúcspont a Lučina-kanyarulatokhoz vezető út, amely fagyban varázslatos csendet áraszt. Öltözzön rétegesen ehhez az aktív téli kalandhoz.",
             "ro": "Un tur de iarnă revigorant în Havířov. Dimineața, pedalați prin cartierul Sorela. La prânz, căsuța Kotula oferă un contrast istoric cu moștenirea minieră modernă. Punctul culminant este drumul spre meandrele Lučinei, care emană o liniște magică în timpul gerului. Îmbrăcați-vă bine pentru această aventură activă.",
-            "en": "A refreshing winter bike tour through Havířov. In the morning, glide through the Sorela district. At noon, the Kotulova wooden house offers a historic contrast to the modern mining heritage. The highlight is the ride to the Lučina meanders, which exude a magical silence in the frost. Dress warmly for this active winter adventure."
+            "en": "A refreshing winter bike tour through Havířov. In the morning, glide through the Sorela district. At noon, the Kotulova wooden house offers a historic contrast to the modern mining heritage. The highlight is the ride to the Lučina meanders, which exude a magical silence in the frost. Dress warmly for this active winter adventure.",
+            "cs": "Osvěžující zimní cyklovýlet po Havířově. Ráno proklouzněte částí Sorela. V poledne Kotulova dřevěnka nabídne historický kontrast k modernímu hornickému dědictví. Vrcholem je jízda k meandrům Lučiny, které v mrazivém tichu působí kouzelně. Oblékněte se teple pro toto aktivní zimní dobrodružství."
           },
           "stops": [
             {
@@ -943,7 +1028,8 @@
                 "de": "Vermeiden Sie schnelle Kurven auf potenziell glatten Stellen.",
                 "hu": "Kerülje a gyors kanyarodást a potenciálisan csúszós részeken.",
                 "ro": "Evitați virajele rapide în locurile potențial alunecoase.",
-                "en": "Avoid sharp turns on potentially slippery spots."
+                "en": "Avoid sharp turns on potentially slippery spots.",
+                "cs": "Vyhněte se prudkým zatáčkám na potenciálně kluzkých místech."
               }
             },
             {
@@ -952,7 +1038,8 @@
                 "de": "Kurze Pause zum Aufwärmen im Vorraum möglich.",
                 "hu": "Rövid pihenő és melegedés lehetséges az előtérben.",
                 "ro": "Scurtă pauză pentru încălzire posibilă în pridvor.",
-                "en": "Short break for warming up possible in the vestibule."
+                "en": "Short break for warming up possible in the vestibule.",
+                "cs": "Krátká přestávka na prohřátí možná ve vestibulu."
               }
             },
             {
@@ -961,7 +1048,8 @@
                 "de": "Die alte Hütte sieht unter einer Schneedecke bezaubernd aus.",
                 "hu": "Az öreg faház varázslatosan néz ki hótakaró alatt.",
                 "ro": "Vechea căsuță arată fermecător sub un strat de zăpadă.",
-                "en": "The old wooden house looks enchanting under a blanket of snow."
+                "en": "The old wooden house looks enchanting under a blanket of snow.",
+                "cs": "Stará dřevěná chalupa vypadá pod sněhovou pokrývkou okouzlujícím způsobem."
               }
             },
             {
@@ -970,7 +1058,8 @@
                 "de": "Trinken Sie hier einen heißen Tee aus Ihrer Thermoskanne.",
                 "hu": "Igyon itt egy forró teát a termoszából.",
                 "ro": "Beți un ceai fierbinte din termos aici.",
-                "en": "Drink some hot tea from your thermos here."
+                "en": "Drink some hot tea from your thermos here.",
+                "cs": "Zde si dejte horký čaj z termosky."
               }
             },
             {
@@ -979,7 +1068,8 @@
                 "de": "Achten Sie auf Fußgänger auf den geräumten Wegen.",
                 "hu": "Ügyeljen a gyalogosokra a letakarított utakon.",
                 "ro": "Atenție la pietoni pe potecile curățate.",
-                "en": "Watch out for pedestrians on the cleared paths."
+                "en": "Watch out for pedestrians on the cleared paths.",
+                "cs": "Dejte pozor na chodce na odklizených cestách."
               }
             },
             {
@@ -988,7 +1078,8 @@
                 "de": "Die Natur ist hier im Winter besonders friedlich.",
                 "hu": "A természet itt télen különösen békés.",
                 "ro": "Natura este deosebit de liniștită aici iarna.",
-                "en": "Nature is particularly peaceful here in winter."
+                "en": "Nature is particularly peaceful here in winter.",
+                "cs": "Příroda je zde v zimě obzvlášť klidná."
               }
             }
           ],
@@ -1020,6 +1111,13 @@
               "Finish the tour before 4 PM as it gets dark and colder.",
               "A thermos with a hot drink is your best companion.",
               "Clean your bike from road salt after the tour."
+            ],
+            "cs": [
+              "Na sníh pomohou zimní pneumatiky nebo nižší tlak v pláštích.",
+              "Noste vrstvené oblečení a větruodolné rukavice.",
+              "Ukončete trasu před 16:00, je brzo tma a chladněji.",
+              "Termoska s horkým nápojem je váš nejlepší společník.",
+              "Po výletě očistěte kolo od posypové soli."
             ]
           }
         }
@@ -1038,7 +1136,8 @@
             "de": "Cluster 1: Historisches Zentrum",
             "hu": "1. klaszter: Történelmi központ",
             "ro": "Cluster 1: Centrul Istoric",
-            "en": "Cluster 1: Historic Center"
+            "en": "Cluster 1: Historic Center",
+            "cs": "Skupina 1: Historické centrum"
           },
           "coords": [
             18.428,
@@ -1054,7 +1153,8 @@
             "de": "Parken Sie Ihr Auto in der Nähe der Hauptstraße und beginnen Sie Ihren Rundgang.",
             "hu": "Parkolja le az autóját a Fő utca közelében, és kezdje meg a sétát.",
             "ro": "Parcați mașina lângă Strada Principală și începeți turul pietonal.",
-            "en": "Park your car near the Main Street and start your walking tour."
+            "en": "Park your car near the Main Street and start your walking tour.",
+            "cs": "Zaparkujte auto blízko Hlavní třídy a začněte pěší prohlídku."
           }
         },
         {
@@ -1062,7 +1162,8 @@
             "de": "Hauptstraße (Sorela)",
             "hu": "Fő utca (Sorela)",
             "ro": "Strada Principală (Sorela)",
-            "en": "Main Street (Sorela)"
+            "en": "Main Street (Sorela)",
+            "cs": "Hlavní třída (Sorela)"
           },
           "coords": [
             18.4295,
@@ -1078,7 +1179,8 @@
             "de": "Schlendern Sie die Straße entlang und nehmen Sie die Atmosphäre auf.",
             "hu": "Sétáljon végig az utcán, és szívja magába a hangulatot.",
             "ro": "Plimbați-vă pe stradă și absorbiți atmosfera.",
-            "en": "Stroll down the street and soak up the atmosphere."
+            "en": "Stroll down the street and soak up the atmosphere.",
+            "cs": "Projděte se po třídě a nasajte atmosféru."
           }
         },
         {
@@ -1086,7 +1188,8 @@
             "de": "St.-Anna-Kirche",
             "hu": "Szent Anna-templom",
             "ro": "Biserica Sfânta Ana",
-            "en": "St. Anne's Church"
+            "en": "St. Anne's Church",
+            "cs": "Kostel sv. Anny"
           },
           "coords": [
             18.4261,
@@ -1102,7 +1205,8 @@
             "de": "Ein kurzer Spaziergang von der Hauptstraße zu diesem modernen Gotteshaus.",
             "hu": "Egy rövid séta a Fő utcától ehhez a modern templomhoz.",
             "ro": "O scurtă plimbare de la Strada Principală la această casă de cult modernă.",
-            "en": "A short walk from the Main Street to this modern house of worship."
+            "en": "A short walk from the Main Street to this modern house of worship.",
+            "cs": "Krátká procházka z Hlavní třídy k tomuto modernímu kostelu."
           }
         },
         {
@@ -1110,7 +1214,8 @@
             "de": "Schloss Havířov",
             "hu": "Havířovi kastély",
             "ro": "Castelul Havířov",
-            "en": "Havířov Castle"
+            "en": "Havířov Castle",
+            "cs": "Havířovský zámek"
           },
           "coords": [
             18.423,
@@ -1126,7 +1231,8 @@
             "de": "Genießen Sie ein Mittagessen im Schlossrestaurant, um das Erlebnis abzurunden.",
             "hu": "Ebédeljen a kastély éttermében, hogy teljes legyen az élmény.",
             "ro": "Savurați prânzul la restaurantul castelului pentru a completa experiența.",
-            "en": "Enjoy lunch at the castle restaurant to complete the experience."
+            "en": "Enjoy lunch at the castle restaurant to complete the experience.",
+            "cs": "Užijte si oběd v zámecké restauraci jako dokreslení zážitku."
           }
         },
         {
@@ -1134,7 +1240,8 @@
             "de": "Cluster 2: Kultur und Natur",
             "hu": "2. klaszter: Kultúra és természet",
             "ro": "Cluster 2: Cultură și Natură",
-            "en": "Cluster 2: Culture and Nature"
+            "en": "Cluster 2: Culture and Nature",
+            "cs": "Skupina 2: Kultura a příroda"
           },
           "coords": [
             18.442,
@@ -1150,7 +1257,8 @@
             "de": "Fahren Sie zum nächsten Cluster und parken Sie in der Nähe des Holzhauses.",
             "hu": "Vezessen a következő klaszterhez, és parkoljon a faház közelében.",
             "ro": "Conduceți la următorul cluster și parcați lângă casa de lemn.",
-            "en": "Drive to the next cluster and park near the wooden house."
+            "en": "Drive to the next cluster and park near the wooden house.",
+            "cs": "Přejděte autem do další skupiny a zaparkujte u dřevěnky."
           }
         },
         {
@@ -1158,7 +1266,8 @@
             "de": "Kotulova dřevěnka",
             "hu": "Kotulova dřevěnka",
             "ro": "Kotulova dřevěnka",
-            "en": "Kotulova dřevěnka"
+            "en": "Kotulova dřevěnka",
+            "cs": "Kotulova dřevěnka"
           },
           "coords": [
             18.4418,
@@ -1174,7 +1283,8 @@
             "de": "Ein faszinierender Einblick in die ländliche Vergangenheit der Region.",
             "hu": "Lenyűgöző bepillantás a régió vidéki múltjába.",
             "ro": "O incursiune fascinantă în trecutul rural al regiunii.",
-            "en": "A fascinating glimpse into the region's rural past."
+            "en": "A fascinating glimpse into the region's rural past.",
+            "cs": "Fascinující pohled do venkovské minulosti regionu."
           }
         },
         {
@@ -1182,7 +1292,8 @@
             "de": "Meandry Lučiny",
             "hu": "Lučina meanderei",
             "ro": "Meandrele Lučinei",
-            "en": "Meanders of the Lučina River"
+            "en": "Meanders of the Lučina River",
+            "cs": "Meandry řeky Lučiny"
           },
           "coords": [
             18.46,
@@ -1198,7 +1309,8 @@
             "de": "Ein kurzer Fahrt zum Abschluss des Tages. Machen Sie einen langen Spaziergang in dieser wunderschönen Naturlandschaft.",
             "hu": "Egy rövid autóút a nap lezárásaként. Tegyen egy hosszú sétát ebben a gyönyörű természeti tájban.",
             "ro": "O scurtă călătorie cu mașina pentru a încheia ziua. Faceți o plimbare lungă în acest peisaj natural frumos.",
-            "en": "A short drive to end the day. Take a long walk in this beautiful natural scenery."
+            "en": "A short drive to end the day. Take a long walk in this beautiful natural scenery.",
+            "cs": "Krátká jízda autem na závěr dne. Projděte se v této krásné přírodní krajině."
           }
         }
       ],
@@ -1206,7 +1318,8 @@
         "de": "Ihr Tag mit dem Auto beginnt im historischen Herzen von Havířov. Nach dem Parken erkunden Sie zu Fuß die Sorela-Architektur, die St.-Anna-Kirche und das Schloss. Am Nachmittag fahren Sie zum zweiten Cluster, wo Sie das traditionelle Holzhaus Kotulova dřevěnka besichtigen. Der Tag endet mit einer kurzen Fahrt und einem entspannenden Spaziergang durch das Naturdenkmal Meandry Lučiny, eine perfekte Flucht aus der Stadt.",
         "hu": "Autós napja Havířov történelmi szívében kezdődik. Parkolás után gyalogosan fedezi fel a Sorela építészetet, a Szent Anna-templomot és a kastélyt. Délután áthajt a második klaszterbe, ahol meglátogatja a hagyományos Kotulova dřevěnka faházat. A nap egy rövid autóúttal és egy pihentető sétával zárul a Meandry Lučiny természeti emléknél, amely tökéletes menekülés a városból.",
         "ro": "Ziua dvs. cu mașina începe în inima istorică a orașului Havířov. După parcare, explorați pe jos arhitectura Sorela, Biserica Sf. Ana și castelul. După-amiaza, conduceți la al doilea cluster, unde vizitați casa tradițională din lemn Kotulova dřevěnka. Ziua se încheie cu o scurtă călătorie cu mașina și o plimbare relaxantă prin monumentul natural Meandrele Lučinei, o evadare perfectă din oraș.",
-        "en": "Your day by car begins in the historic heart of Havířov. After parking, you'll explore the Sorela architecture, St. Anne's Church, and the castle on foot. In the afternoon, you drive to the second cluster to visit the traditional wooden house Kotulova dřevěnka. The day ends with a short drive and a relaxing walk through the Meandry Lučiny natural monument, a perfect escape from the city."
+        "en": "Your day by car begins in the historic heart of Havířov. After parking, you'll explore the Sorela architecture, St. Anne's Church, and the castle on foot. In the afternoon, you drive to the second cluster to visit the traditional wooden house Kotulova dřevěnka. The day ends with a short drive and a relaxing walk through the Meandry Lučiny natural monument, a perfect escape from the city.",
+        "cs": "Váš den autem začíná v historickém srdci Havířova. Po zaparkování projdete pěšky architekturu Sorely, kostel sv. Anny a zámek. Odpoledne pojedete do druhého okruhu k tradiční dřevěnce Kotulova. Den končí krátkou jízdou a odpočinkovou procházkou přírodní památkou Meandry Lučiny, ideálním únikem z města."
       },
       "gastro_picks": {
         "de": [
@@ -1350,6 +1463,12 @@
           "The cluster strategy saves time and parking fees.",
           "Plan your route between clusters in advance.",
           "The car gives you the flexibility to easily reach destinations slightly outside the city, like the Lučina meanders."
+        ],
+        "cs": [
+          "Parkování v centru může být ve všední dny náročné. Hledejte vyhrazená parkoviště.",
+          "Strategie se skupinami šetří čas i parkovné.",
+          "Plánujte trasu mezi skupinami předem.",
+          "Auto vám dává flexibilitu snadno dosáhnout míst poněkud mimo město, jako jsou meandry Lučiny."
         ]
       },
       "variants": {
@@ -1358,7 +1477,8 @@
             "de": "Genießen Sie Havířov bequem vom Auto aus. Vormittags erkunden Sie das historische Zentrum und die Sorela-Architektur. Mittags besuchen Sie die St.-Anna-Kirche und das Schloss, wobei Sie zwischen den Stopps trocken bleiben. Nachmittags fahren Sie zur Kotulova-Hütte und zu den Lučina-Mäandern, wo Sie die Natur vom warmen Fahrzeug aus beobachten können.",
             "hu": "Élvezze Havířovot kényelmesen, az autóból. Délelőtt fedezze fel a történelmi központot és a Sorela-építészetet. Délben látogasson el a Szent Anna-templomba és a kastélyba, miközben a megállók között száraz marad. Délután hajtson a Kotula-faházhoz és a Lučina-kanyarulatokhoz, ahol a meleg járműből szemlélheti a természetet.",
             "ro": "Bucurați-vă de Havířov confortabil, din mașină. Dimineața, explorați centrul istoric și arhitectura Sorela. La prânz, vizitați Biserica Sfânta Ana și castelul, rămânând uscat între opriri. După-amiaza, conduceți spre căsuța Kotula și meandrele Lučinei, unde puteți observa natura din vehiculul cald.",
-            "en": "Enjoy Havířov comfortably from your car. In the morning, explore the historic center and the Sorela architecture. At noon, visit St. Anne's Church and the castle, staying dry between stops. In the afternoon, drive to the Kotulova wooden house and the Lučina meanders, where you can observe nature from your warm vehicle."
+            "en": "Enjoy Havířov comfortably from your car. In the morning, explore the historic center and the Sorela architecture. At noon, visit St. Anne's Church and the castle, staying dry between stops. In the afternoon, drive to the Kotulova wooden house and the Lučina meanders, where you can observe nature from your warm vehicle.",
+            "cs": "Užijte si Havířov pohodlně z auta. Ráno prozkoumejte historické centrum a architekturu Sorely. V poledne se ohřejte u kostela sv. Anny a zámku, mezi zastávkami zůstaňte v suchu. Odpoledne jeďte k dřevěnce Kotulova a meandrům Lučiny, kde můžete pozorovat přírodu z teplého vozidla."
           },
           "stops": [
             {
@@ -1367,7 +1487,8 @@
                 "de": "Parkhäuser im Zentrum bieten Schutz beim Aussteigen.",
                 "hu": "A központi parkolóházak védelmet nyújtanak kiszálláskor.",
                 "ro": "Parcările acoperite din centru oferă protecție la coborâre.",
-                "en": "Parking garages in the center offer shelter when exiting."
+                "en": "Parking garages in the center offer shelter when exiting.",
+                "cs": "Parkovací domy v centru nabízejí úkryt při vystupování."
               }
             },
             {
@@ -1376,7 +1497,8 @@
                 "de": "Parken Sie direkt an der Straße für schnellen Zugang zu den Arkaden.",
                 "hu": "Parkoljon közvetlenül az utcán a gyors hozzáféréshez az árkádokhoz.",
                 "ro": "Parcați direct pe stradă pentru acces rapid la arcade.",
-                "en": "Park directly on the street for quick access to the arcades."
+                "en": "Park directly on the street for quick access to the arcades.",
+                "cs": "Zaparkujte přímo na ulici pro rychlý přístup k arkádám."
               }
             },
             {
@@ -1385,7 +1507,8 @@
                 "de": "Ein kleiner Parkplatz befindet sich direkt vor der Kirche.",
                 "hu": "Egy kis parkoló található közvetlenül a templom előtt.",
                 "ro": "O mică parcare se află chiar în fața bisericii.",
-                "en": "A small parking lot is located right in front of the church."
+                "en": "A small parking lot is located right in front of the church.",
+                "cs": "Před kostelem se nachází malé parkoviště."
               }
             },
             {
@@ -1394,7 +1517,8 @@
                 "de": "Nutzen Sie den großen Schloss-Parkplatz.",
                 "hu": "Használja a kastély nagy parkolóját.",
                 "ro": "Folosiți parcarea mare a castelului.",
-                "en": "Use the large castle parking lot."
+                "en": "Use the large castle parking lot.",
+                "cs": "Využijte velké zámecké parkoviště."
               }
             },
             {
@@ -1403,7 +1527,8 @@
                 "de": "Gute Wendemöglichkeiten auch bei starkem Regen.",
                 "hu": "Jó megfordulási lehetőségek még erős esőben is.",
                 "ro": "Posibilități bune de întoarcere chiar și pe ploaie abundentă.",
-                "en": "Good turning options even in heavy rain."
+                "en": "Good turning options even in heavy rain.",
+                "cs": "Dobré možnosti otáčení i za silného deště."
               }
             },
             {
@@ -1412,7 +1537,8 @@
                 "de": "Parken Sie am Straßenrand, der Fußweg ist kurz.",
                 "hu": "Parkoljon az út szélén, a gyalogút rövid.",
                 "ro": "Parcați la marginea drumului, drumul pe jos este scurt.",
-                "en": "Park on the roadside, the walk is short."
+                "en": "Park on the roadside, the walk is short.",
+                "cs": "Zaparkujte u krajnice, procházka je krátká."
               }
             },
             {
@@ -1421,7 +1547,8 @@
                 "de": "Fahren Sie nur bis zum befestigten Parkplatz.",
                 "hu": "Csak a szilárd burkolatú parkolóig hajtson.",
                 "ro": "Conduceți doar până la parcarea asfaltată.",
-                "en": "Drive only as far as the paved parking area."
+                "en": "Drive only as far as the paved parking area.",
+                "cs": "Jeďte pouze až k zpevněnému parkovišti."
               }
             }
           ],
@@ -1453,6 +1580,13 @@
               "The castle restaurant is perfectly accessible by car.",
               "Check your windshield wipers before the trip.",
               "Use the parking app for convenient payment from inside."
+            ],
+            "cs": [
+              "Vyhněte se nezpevněným krajnicím při silném dešti.",
+              "Hlavní silnice v Havířově jsou dobře vybudované.",
+              "Zámecká restaurace je autem snadno dostupná.",
+              "Před cestou zkontrolujte stěrače.",
+              "Použijte parkovací aplikaci pro pohodlné placení z auta."
             ]
           }
         },
@@ -1461,7 +1595,8 @@
             "de": "Havířov im Winter ist am besten mit dem Auto zu erleben. Starten Sie im Sorela-Zentrum, wo die Architektur oft festlich beleuchtet ist. Mittags wärmen Sie sich im Schloss auf, bevor Sie am Nachmittag zur verschneiten Kotulova-Hütte fahren. Den Abschluss bildet die Fahrt zu den Lučina-Mäandern, die im Winterlicht besonders stimmungsvoll wirken, alles bei angenehmer Fahrzeugtemperatur.",
             "hu": "A téli Havířovot az autóval a legkönnyebb felfedezni. Kezdjen a Sorela-központban, ahol az épületek gyakran ünnepi kivilágítást kapnak. Délben melegedjen fel a kastélyban, majd délután hajtson a havas Kotula-faházhoz. A napot a Lučina-kanyarulatoknál tett látogatás zárja, amely a téli fényben különösen hangulatos, mindezt kellemes fűtés mellett.",
             "ro": "Havířov iarna este cel mai bine experimentat cu mașina. Începeți în centrul Sorela, unde arhitectura este adesea iluminată festiv. La prânz, încălziți-vă la castel înainte de a conduce spre căsuța Kotula înzăpezită. Finalul este vizita la meandrele Lučinei, care sunt deosebit de atmosferice în lumina iernii.",
-            "en": "Havířov in winter is best experienced by car. Start in the Sorela center, where the architecture is often festively lit. At noon, warm up at the castle before driving to the snowy Kotulova wooden house. The day concludes with a drive to the Lučina meanders, which are particularly atmospheric in the winter light, all within a warm vehicle."
+            "en": "Havířov in winter is best experienced by car. Start in the Sorela center, where the architecture is often festively lit. At noon, warm up at the castle before driving to the snowy Kotulova wooden house. The day concludes with a drive to the Lučina meanders, which are particularly atmospheric in the winter light, all within a warm vehicle.",
+            "cs": "Havířov v zimě je nejlépe zažít autem. Začněte v centru Sorela, kde je architektura často slavnostně nasvícená. V poledne se ohřejte na zámku, než pojedete k zasněžené Kotulově dřevěnce. Den zakončete jízdou k meandrům Lučiny, které v zimním světle působí obzvlášť atmosféricky, a to vše z tepla vašeho vozidla."
           },
           "stops": [
             {
@@ -1470,7 +1605,8 @@
                 "de": "Achten Sie auf Glätte auf den Parkplatzflächen.",
                 "hu": "Ügyeljen a csúszós felületekre a parkolókban.",
                 "ro": "Atenție la polei în zonele de parcare.",
-                "en": "Watch out for ice on parking surfaces."
+                "en": "Watch out for ice on parking surfaces.",
+                "cs": "Dejte pozor na led na parkovacích plochách."
               }
             },
             {
@@ -1479,7 +1615,8 @@
                 "de": "Die Straßenbeleuchtung macht die Sorela am frühen Abend sehenswert.",
                 "hu": "Az utcai világítás miatt a Sorela kora este is látványos.",
                 "ro": "Iluminatul stradal face Sorela demnă de văzut seara devreme.",
-                "en": "Street lighting makes Sorela worth seeing in the early evening."
+                "en": "Street lighting makes Sorela worth seeing in the early evening.",
+                "cs": "Pouliční osvětlení dělá ze Sorely hodnotné místo k návštěvě brzy večer."
               }
             },
             {
@@ -1488,7 +1625,8 @@
                 "de": "Der Fußweg vom Parkplatz zur Kirche wird meist geräumt.",
                 "hu": "A parkolótól a templomig tartó utat általában letakarítják.",
                 "ro": "Drumul de la parcare la biserică este de obicei curățat.",
-                "en": "The path from the parking lot to the church is usually cleared."
+                "en": "The path from the parking lot to the church is usually cleared.",
+                "cs": "Cesta z parkoviště k kostelu je obvykle uklizená."
               }
             },
             {
@@ -1497,7 +1635,8 @@
                 "de": "Genießen Sie den Blick auf den verschneiten Schlosspark.",
                 "hu": "Élvezze a kilátást a havas kastélyparkra.",
                 "ro": "Bucurați-vă de priveliștea parcului castelului înzăpezit.",
-                "en": "Enjoy the view of the snow-covered castle park."
+                "en": "Enjoy the view of the snow-covered castle park.",
+                "cs": "Užijte si výhled na zasněžený zámecký park."
               }
             },
             {
@@ -1506,7 +1645,8 @@
                 "de": "Planen Sie mehr Zeit für das Einparken im Schnee ein.",
                 "hu": "Számoljon több idővel a hóban való parkoláshoz.",
                 "ro": "Alocați mai mult timp pentru parcare în zăpadă.",
-                "en": "Allow more time for parking in the snow."
+                "en": "Allow more time for parking in the snow.",
+                "cs": "Vezměte v úvahu více času na parkování ve sněhu."
               }
             },
             {
@@ -1515,7 +1655,8 @@
                 "de": "Die Hütte bietet tolle Winter-Fotomotive.",
                 "hu": "A faház remek téli fotótémákat kínál.",
                 "ro": "Căsuța oferă motive foto de iarnă excelente.",
-                "en": "The wooden house offers great winter photo opportunities."
+                "en": "The wooden house offers great winter photo opportunities.",
+                "cs": "Dřevěný dům nabízí skvělé zimní fotografické příležitosti."
               }
             },
             {
@@ -1524,7 +1665,8 @@
                 "de": "Vorsicht vor gefrierender Nässe auf den Zufahrtsstraßen.",
                 "hu": "Vigyázzon a lefagyott utakra a bekötőutakon.",
                 "ro": "Atenție la polei pe drumurile de acces.",
-                "en": "Beware of freezing moisture on the access roads."
+                "en": "Beware of freezing moisture on the access roads.",
+                "cs": "Pozor na zamrzající vlhkost na přístupových cestách."
               }
             }
           ],
@@ -1556,6 +1698,13 @@
               "The parking lots at the castle are reliably cleared.",
               "Darkness sets in from 4 PM, watch out for wildlife.",
               "Use the seat heating for maximum comfort."
+            ],
+            "cs": [
+              "V České republice jsou v zimě zákonně povinné zimní pneumatiky.",
+              "Mějte u sebe škrabku na led a smetáček na sníh.",
+              "Parkoviště u zámku jsou spolehlivě uklizená.",
+              "Tma nastává od 16:00, dávejte pozor na zvěř.",
+              "Použijte vyhřívání sedadel pro maximální pohodlí."
             ]
           }
         }
@@ -1574,7 +1723,8 @@
             "de": "Cluster 1: Sorela Zentrum",
             "hu": "1. klaszter: Sorela Központ",
             "ro": "Cluster 1: Centrul Sorela",
-            "en": "Cluster 1: Sorela Center"
+            "en": "Cluster 1: Sorela Center",
+            "cs": "Klastr 1: Centrum Sorela"
           },
           "coords": [
             18.429,
@@ -1590,7 +1740,8 @@
             "de": "Nehmen Sie einen Bus zur Haltestelle 'Havířov, Město, Náměstí Republiky'.",
             "hu": "Vegyen egy buszt a 'Havířov, Město, Náměstí Republiky' megállóig.",
             "ro": "Luați un autobuz până la stația 'Havířov, Město, Náměstí Republiky'.",
-            "en": "Take a bus to the 'Havířov, Město, Náměstí Republiky' stop."
+            "en": "Take a bus to the 'Havířov, Město, Náměstí Republiky' stop.",
+            "cs": "Jeďte autobusem na zastávku 'Havířov, Město, Náměstí Republiky'."
           }
         },
         {
@@ -1598,7 +1749,8 @@
             "de": "Hauptstraße (Sorela)",
             "hu": "Fő utca (Sorela)",
             "ro": "Strada Principală (Sorela)",
-            "en": "Main Street (Sorela)"
+            "en": "Main Street (Sorela)",
+            "cs": "Hlavní ulice (Sorela)"
           },
           "coords": [
             18.4295,
@@ -1614,7 +1766,8 @@
             "de": "Erkunden Sie die einzigartige Architektur zu Fuß.",
             "hu": "Fedezze fel gyalogosan az egyedi építészetet.",
             "ro": "Explorați pe jos arhitectura unică.",
-            "en": "Explore the unique architecture on foot."
+            "en": "Explore the unique architecture on foot.",
+            "cs": "Prozkoumejte unikátní architekturu pěšky."
           }
         },
         {
@@ -1622,7 +1775,8 @@
             "de": "Kino Centrum",
             "hu": "Centrum Mozi",
             "ro": "Cinematograful Centrum",
-            "en": "Kino Centrum"
+            "en": "Kino Centrum",
+            "cs": "Kino Centrum"
           },
           "coords": [
             18.428,
@@ -1638,7 +1792,8 @@
             "de": "Ein kurzer Spaziergang, um das Kulturzentrum der Stadt zu sehen.",
             "hu": "Egy rövid séta a város kulturális központjának megtekintéséhez.",
             "ro": "O scurtă plimbare pentru a vedea centrul cultural al orașului.",
-            "en": "A short walk to see the city's cultural center."
+            "en": "A short walk to see the city's cultural center.",
+            "cs": "Krátká procházka k městskému kulturnímu centru."
           }
         },
         {
@@ -1646,7 +1801,8 @@
             "de": "Cluster 2: Kulturelles Erbe",
             "hu": "2. klaszter: Kulturális örökség",
             "ro": "Cluster 2: Patrimoniu Cultural",
-            "en": "Cluster 2: Cultural Heritage"
+            "en": "Cluster 2: Cultural Heritage",
+            "cs": "Klastr 2: Kulturní dědictví"
           },
           "coords": [
             18.4418,
@@ -1662,7 +1818,8 @@
             "de": "Nehmen Sie den Bus zur Haltestelle 'Podlesí, Kotulova dřevěnka'.",
             "hu": "Vegyen buszt a 'Podlesí, Kotulova dřevěnka' megállóig.",
             "ro": "Luați autobuzul până la stația 'Podlesí, Kotulova dřevěnka'.",
-            "en": "Take the bus to the 'Podlesí, Kotulova dřevěnka' stop."
+            "en": "Take the bus to the 'Podlesí, Kotulova dřevěnka' stop.",
+            "cs": "Nastupte na autobus na zastávku 'Podlesí, Kotulova dřevěnka'."
           }
         },
         {
@@ -1670,7 +1827,8 @@
             "de": "Kotulova dřevěnka",
             "hu": "Kotulova dřevěnka",
             "ro": "Kotulova dřevěnka",
-            "en": "Kotulova dřevěnka"
+            "en": "Kotulova dřevěnka",
+            "cs": "Kotulova dřevěnka"
           },
           "coords": [
             18.4418,
@@ -1686,7 +1844,8 @@
             "de": "Tauchen Sie tief in die Geschichte der Region ein.",
             "hu": "Merüljön el mélyen a régió történelmében.",
             "ro": "Scufundați-vă adânc în istoria regiunii.",
-            "en": "Dive deep into the history of the region."
+            "en": "Dive deep into the history of the region.",
+            "cs": "Ponořte se hluboko do historie regionu."
           }
         },
         {
@@ -1694,7 +1853,8 @@
             "de": "Zentralpark Havířov",
             "hu": "Havířovi Központi Park",
             "ro": "Parcul Central Havířov",
-            "en": "Central Park Havířov"
+            "en": "Central Park Havířov",
+            "cs": "Centrální park Havířov"
           },
           "coords": [
             18.435,
@@ -1710,7 +1870,8 @@
             "de": "Nehmen Sie einen Bus zurück ins Zentrum und genießen Sie einen langen Nachmittag im Park.",
             "hu": "Menjen busszal vissza a központba, és élvezze a hosszú délutánt a parkban.",
             "ro": "Luați un autobuz înapoi în centru și bucurați-vă de o după-amiază lungă în parc.",
-            "en": "Take a bus back to the center and enjoy a long afternoon in the park."
+            "en": "Take a bus back to the center and enjoy a long afternoon in the park.",
+            "cs": "Vraťte se autobusem do centra a užijte si dlouhé odpoledne v parku."
           }
         }
       ],
@@ -1718,7 +1879,8 @@
         "de": "Ihr Tag in Havířov mit öffentlichen Verkehrsmitteln beginnt im Stadtzentrum, wo Sie die Sorela-Architektur erkunden. Ein kurzer Spaziergang führt Sie zum Kino Centrum. Anschließend bringt Sie ein Bus zum zweiten Cluster, dem historischen Holzhaus Kotulova dřevěnka, für einen Einblick in die Vergangenheit. Der Nachmittag ist für Entspannung und einen gemütlichen Spaziergang im großen Zentralpark reserviert, den Sie ebenfalls bequem mit dem Bus erreichen.",
         "hu": "Tömegközlekedéssel töltött napja Havířov városközpontjában kezdődik, ahol felfedezi a Sorela építészetet. Egy rövid séta elvezeti a Centrum Mozihoz. Ezután egy busz elviszi a második klaszterhez, a történelmi Kotulova dřevěnka faházhoz, hogy bepillantást nyerjen a múltba. A délutánt pihenésre és egy kellemes sétára szánjuk a nagy Központi Parkban, amelyet szintén kényelmesen elérhet busszal.",
         "ro": "Ziua dvs. în Havířov cu transportul public începe în centrul orașului, unde explorați arhitectura Sorela. O scurtă plimbare vă duce la Cinematograful Centrum. Apoi, un autobuz vă duce la al doilea cluster, casa istorică din lemn Kotulova dřevěnka, pentru o incursiune în trecut. După-amiaza este rezervată pentru relaxare și o plimbare agale în marele Parc Central, la care ajungeți tot convenabil cu autobuzul.",
-        "en": "Your day in Havířov using public transport begins in the city center, where you'll explore the Sorela architecture. A short walk takes you to the Kino Centrum. Afterwards, a bus will take you to the second cluster, the historic wooden house Kotulova dřevěnka, for a glimpse into the past. The afternoon is reserved for relaxation and a leisurely stroll in the large Central Park, which you can also reach conveniently by bus."
+        "en": "Your day in Havířov using public transport begins in the city center, where you'll explore the Sorela architecture. A short walk takes you to the Kino Centrum. Afterwards, a bus will take you to the second cluster, the historic wooden house Kotulova dřevěnka, for a glimpse into the past. The afternoon is reserved for relaxation and a leisurely stroll in the large Central Park, which you can also reach conveniently by bus.",
+        "cs": "Váš den v Havířově s veřejnou dopravou začíná v centru města, kde prozkoumáte sorelskou architekturu. Krátká procházka vás dovede ke Kino Centrum. Poté vás autobusem zavítáte do druhého klastru, ke historickému dřevěnému domu Kotulova dřevěnka, pro nádech minulosti. Odpoledne je určené k odpočinku a poklidné procházce ve velkém Centrálním parku, kterého lze rovněž pohodlně dosáhnout autobusem."
       },
       "gastro_picks": {
         "de": [
@@ -1862,6 +2024,12 @@
           "Check bus schedules in advance, especially on weekends.",
           "Most buses are modern and air-conditioned.",
           "Have small change ready for tickets if you need to buy them directly from the driver."
+        ],
+        "cs": [
+          "Kupte si jednodenní jízdenku na veřejnou dopravu a ušetřete.",
+          "Zkontrolujte jízdní řády autobusů předem, zejména o víkendech.",
+          "Většina autobusů je moderní a má klimatizaci.",
+          "Mějte drobné na jízdenky, pokud je budete kupovat přímo u řidiče."
         ]
       },
       "variants": {
@@ -1870,7 +2038,8 @@
             "de": "Erkunden Sie Havířov mit Bus und Bahn, ideal bei Regen. Das Sorela-Viertel ist hervorragend angebunden. Mittags bringt Sie der Nahverkehr zum Kino Centrum und zur Kotulova-Hütte, wobei Sie kaum nass werden. Der Nachmittag im Central Park lässt sich gut mit Stopps in Cafés kombinieren. Eine effiziente und trockene Art, die Stadt zu erleben.",
             "hu": "Fedezze fel Havířovot busszal és vonattal, ami esőben ideális. A Sorela-negyed kiváló összeköttetéssel bír. Délben a tömegközlekedés elviszi a Mozi központhoz és a Kotula-faházhoz, így alig lesz vizes. A délutáni parklátogatás jól kombinálható kávéházi pihenőkkel. Hatékony és száraz módja a városnézésnek.",
             "ro": "Explorați Havířov cu autobuzul și trenul, ideal pe ploaie. Cartierul Sorela este excelent conectat. La prânz, transportul public vă duce la Cinema Centrum și căsuța Kotula, fără să vă udați prea tare. După-amiaza în Parcul Central poate fi combinată cu opriri la cafenele. O modalitate eficientă și uscată de a vedea orașul.",
-            "en": "Explore Havířov by bus and train, ideal for a rainy day. The Sorela district is excellently connected. At noon, public transport takes you to Kino Centrum and the Kotulova wooden house, keeping you mostly dry. An afternoon in Central Park can be easily combined with cafe stops. An efficient and dry way to experience the city."
+            "en": "Explore Havířov by bus and train, ideal for a rainy day. The Sorela district is excellently connected. At noon, public transport takes you to Kino Centrum and the Kotulova wooden house, keeping you mostly dry. An afternoon in Central Park can be easily combined with cafe stops. An efficient and dry way to experience the city.",
+            "cs": "Prozkoumejte Havířov autobusem a vlakem, ideální při deštivém počasí. Sorela je výborně propojená. V poledne vás MHD doveze ke Kino Centrum a k Kotulově dřevěnce, takže zůstanete převážně v suchu. Odpoledne v Centrálním parku lze snadno zkombinovat s návštěvou kaváren. Efektivní a suchý způsob, jak město poznat."
           },
           "stops": [
             {
@@ -1879,7 +2048,8 @@
                 "de": "Zentraler Knotenpunkt mit vielen überdachten Haltestellen.",
                 "hu": "Központi csomópont számos fedett megállóval.",
                 "ro": "Nod central cu multe stații acoperite.",
-                "en": "Central hub with many covered transit stops."
+                "en": "Central hub with many covered transit stops.",
+                "cs": "Centrální uzel s mnoha krytými přestupními zastávkami."
               }
             },
             {
@@ -1888,7 +2058,8 @@
                 "de": "Busse verkehren hier in sehr kurzen Abständen.",
                 "hu": "A buszok itt nagyon sűrűn közlekednek.",
                 "ro": "Autobuzele circulă aici la intervale foarte scurte.",
-                "en": "Buses run here at very frequent intervals."
+                "en": "Buses run here at very frequent intervals.",
+                "cs": "Autobusy tudy jezdí v velmi častých intervalech."
               }
             },
             {
@@ -1897,7 +2068,8 @@
                 "de": "Die Bushaltestelle befindet sich fast direkt vor dem Eingang.",
                 "hu": "A buszmegálló szinte közvetlenül a bejárat előtt van.",
                 "ro": "Stația de autobuz este aproape direct în fața intrării.",
-                "en": "The bus stop is located almost directly in front of the entrance."
+                "en": "The bus stop is located almost directly in front of the entrance.",
+                "cs": "Zastávka se nachází téměř přímo před vchodem."
               }
             },
             {
@@ -1906,7 +2078,8 @@
                 "de": "Gute Verbindung zu den Museen der Stadt.",
                 "hu": "Jó összeköttetés a város múzeumaival.",
                 "ro": "Conexiune bună cu muzeele orașului.",
-                "en": "Good connection to the city's museums."
+                "en": "Good connection to the city's museums.",
+                "cs": "Dobré spojení k městským muzeím."
               }
             },
             {
@@ -1915,7 +2088,8 @@
                 "de": "Kurzer Fußweg von der nächsten Haltestelle.",
                 "hu": "Rövid gyalogút a legközelebbi megállótól.",
                 "ro": "Drum scurt pe jos de la cea mai apropiată stație.",
-                "en": "Short walk from the nearest transit stop."
+                "en": "Short walk from the nearest transit stop.",
+                "cs": "Krátká procházka od nejbližší přestupní zastávky."
               }
             },
             {
@@ -1924,7 +2098,8 @@
                 "de": "Nutzen Sie den Bus, um das nasse Gras zu umfahren.",
                 "hu": "Használja a buszt a vizes fű elkerülésére.",
                 "ro": "Folosiți autobuzul pentru a ocoli iarba udă.",
-                "en": "Use the bus to navigate around wet areas."
+                "en": "Use the bus to navigate around wet areas.",
+                "cs": "Použijte autobus k objetí mokrých oblastí."
               }
             }
           ],
@@ -1956,6 +2131,13 @@
               "Center stops usually offer good rain protection.",
               "Use waiting times for a quick coffee at the station.",
               "Buses are often crowded in the rain, plan extra time."
+            ],
+            "cs": [
+              "Kupte si denní jízdenku přímo u řidiče nebo přes SMS.",
+              "Aplikace IDOS ukazuje spojení v reálném čase.",
+              "Zastávky v centru obvykle poskytují dobrou ochranu před deštěm.",
+              "Využijte čekací doby k rychlé kávě na nádraží.",
+              "V dešti jsou autobusy často přeplněné, plánujte delší časovou rezervu."
             ]
           }
         },
@@ -1964,7 +2146,8 @@
             "de": "Erleben Sie Havířovs Winterlandschaft entspannt mit den öffentlichen Verkehrsmitteln. Morgens bestaunen Sie die Sorela-Gebäude. Mittags wärmen Sie sich im Bus auf dem Weg zum Kino Centrum oder zur Kotulova-Hütte auf. Der Winterspaziergang im Central Park lässt sich durch die nahen Haltestellen jederzeit abbrechen, falls es zu kalt wird. Ein sicherer Weg durch den Schnee.",
             "hu": "Fedezze fel Havířov téli tájait kényelmesen, tömegközlekedéssel. Reggel csodálja meg a Sorela-épületeket. Délben melegedjen fel a buszon, miközben a Mozi központ vagy a Kotula-faház felé tart. A téli séta a parkban bármikor megszakítható a közeli megállóknak köszönhetően, ha túl hideg lenne. Biztonságos út a hóban is.",
             "ro": "Experimentați peisajul de iarnă din Havířov relaxat, cu transportul public. Dimineața admirați clădirile Sorela. La prânz, încălziți-vă în autobuz în drum spre Cinema Centrum sau căsuța Kotula. Plimbarea de iarnă în Parcul Central poate fi întreruptă oricând datorită stațiilor apropiate. O cale sigură prin zăpadă.",
-            "en": "Experience Havířov's winter landscape relaxed with public transport. In the morning, admire the Sorela buildings. At noon, warm up on the bus on your way to Kino Centrum or the Kotulova wooden house. A winter walk in Central Park can be shortened at any time thanks to nearby stops if it gets too cold. A safe way through the snow."
+            "en": "Experience Havířov's winter landscape relaxed with public transport. In the morning, admire the Sorela buildings. At noon, warm up on the bus on your way to Kino Centrum or the Kotulova wooden house. A winter walk in Central Park can be shortened at any time thanks to nearby stops if it gets too cold. A safe way through the snow.",
+            "cs": "Zažijte havířovskou zimní krajinu pohodlně s MHD. Ráno obdivujte budovy Sorely. V poledne se v autobusu zahřejete na cestě ke Kino Centrum nebo k Kotulově dřevěnce. Zimní procházku v Centrálním parku lze kdykoli zkrátit díky blízkým zastávkám, pokud bude příliš chladno. Bezpečný způsob pohybu v sněhu."
           },
           "stops": [
             {
@@ -1973,7 +2156,8 @@
                 "de": "Achten Sie auf Glätte beim Ein- und Aussteigen.",
                 "hu": "Ügyeljen a csúszós felületekre fel- és leszálláskor.",
                 "ro": "Atenție la polei la urcare și coborâre.",
-                "en": "Watch out for ice when boarding and exiting."
+                "en": "Watch out for ice when boarding and exiting.",
+                "cs": "Dejte pozor na led při nastupování a vystupování."
               }
             },
             {
@@ -1982,7 +2166,8 @@
                 "de": "Die Busse sind im Winter angenehm beheizt.",
                 "hu": "A buszok télen kellemesen fűtöttek.",
                 "ro": "Autobuzele sunt încălzite plăcut iarna.",
-                "en": "Buses are pleasantly heated during winter."
+                "en": "Buses are pleasantly heated during winter.",
+                "cs": "Autobusy jsou v zimě příjemně vytopené."
               }
             },
             {
@@ -1991,7 +2176,8 @@
                 "de": "Ein idealer Ort, um die Zeit bis zum nächsten Bus im Warmen zu verbringen.",
                 "hu": "Ideális hely a következő buszig tartó idő melegben való eltöltésére.",
                 "ro": "Un loc ideal pentru a aștepta următorul autobuz la căldură.",
-                "en": "An ideal place to wait for the next bus in the warm."
+                "en": "An ideal place to wait for the next bus in the warm.",
+                "cs": "Ideální místo, kde počkat na další autobus v teple."
               }
             },
             {
@@ -2000,7 +2186,8 @@
                 "de": "Haltestellen werden bei Schneefall meist prioritär geräumt.",
                 "hu": "A megállókat havazáskor általában prioritással takarítják.",
                 "ro": "Stațiile sunt de obicei curățate cu prioritate în caz de ninsoare.",
-                "en": "Stops are usually cleared with priority during snowfall."
+                "en": "Stops are usually cleared with priority during snowfall.",
+                "cs": "Zastávky jsou během sněžení obvykle uklízeny s prioritou."
               }
             },
             {
@@ -2009,7 +2196,8 @@
                 "de": "Die verschneite Gegend wirkt wie aus einem Märchen.",
                 "hu": "A havas környék olyan, mint egy tündérmesében.",
                 "ro": "Zona înzăpezită arată ca dintr-un basm.",
-                "en": "The snowy area looks like something out of a fairy tale."
+                "en": "The snowy area looks like something out of a fairy tale.",
+                "cs": "Zasněžená oblast vypadá jako z pohádky."
               }
             },
             {
@@ -2018,7 +2206,8 @@
                 "de": "Mehrere Haltestellen umgeben den Park für flexible Planung.",
                 "hu": "Több megálló is övezi a parkot a rugalmas tervezéshez.",
                 "ro": "Mai multe stații înconjoară parcul pentru o planificare flexibilă.",
-                "en": "Multiple stops surround the park for flexible planning."
+                "en": "Multiple stops surround the park for flexible planning.",
+                "cs": "Park obklopuje více zastávek pro flexibilní plánování."
               }
             }
           ],
@@ -2050,6 +2239,13 @@
               "It gets dark from 4 PM; buses are well-lit during this time.",
               "Wear shoes with good grip for the walk to the stop.",
               "The IDOS app helps minimize waiting time in the cold."
+            ],
+            "cs": [
+              "Jízdní řády se mohou při extrémním sněžení zpozdit.",
+              "Využijte vytápěné čekárny na hlavním nádraží.",
+              "Tma nastává od 16:00; autobusy jsou v tomto čase dobře osvětlené.",
+              "Noste boty s dobrým protiskluzem pro cestu na zastávku.",
+              "Aplikace IDOS pomáhá omezit čekání v chladu."
             ]
           }
         }

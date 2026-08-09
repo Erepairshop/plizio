@@ -21,7 +21,8 @@
             "de": "Unterer Platz",
             "hu": "Alsó tér",
             "ro": "Piața de Jos",
-            "en": "Lower Square"
+            "en": "Lower Square",
+            "cs": "Dolní náměstí"
           },
           "coords": [
             17.9955,
@@ -37,7 +38,8 @@
             "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee in einem der örtlichen Cafés.",
             "hu": "Kezdje a napot egy kávéval az egyik helyi kávézóban.",
             "ro": "Începeți ziua aici cu o cafea la una dintre cafenelele locale.",
-            "en": "Start your day here with a coffee at one of the local cafes."
+            "en": "Start your day here with a coffee at one of the local cafes.",
+            "cs": "Začněte zde den kávou v jedné z místních kaváren."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Altes Rathaus",
             "hu": "Régi Városháza",
             "ro": "Primăria Veche",
-            "en": "Old Town Hall"
+            "en": "Old Town Hall",
+            "cs": "Stará radnice"
           },
           "coords": [
             17.9958,
@@ -61,7 +64,8 @@
             "de": "Bewundern Sie die Renaissance-Architektur dieses historischen Gebäudes.",
             "hu": "Csodálja meg ennek a történelmi épületnek a reneszánsz építészetét.",
             "ro": "Admirați arhitectura renascentistă a acestei clădiri istorice.",
-            "en": "Admire the Renaissance architecture of this historic building."
+            "en": "Admire the Renaissance architecture of this historic building.",
+            "cs": "Obdivujte renesanční architekturu této historické budovy."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Oberer Platz & Maštaliska",
             "hu": "Felső tér és Maštaliska",
             "ro": "Piața de Sus & Maštaliska",
-            "en": "Upper Square & Maštaliska"
+            "en": "Upper Square & Maštaliska",
+            "cs": "Horní náměstí & Maštaliska"
           },
           "coords": [
             17.9975,
@@ -85,7 +90,8 @@
             "de": "Erkunden Sie den Platz und suchen Sie das alte Haus, das früher als Pferdestall diente.",
             "hu": "Fedezze fel a teret, és keresse meg a régi házat, amely egykor istállóként szolgált.",
             "ro": "Explorați piața și căutați vechea casă care servea drept grajd de cai.",
-            "en": "Explore the square and look for the old house that once served as a stable."
+            "en": "Explore the square and look for the old house that once served as a stable.",
+            "cs": "Prozkoumejte náměstí a hledejte starý dům, který kdysi sloužil jako stáj."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Kirche Mariä Himmelfahrt",
             "hu": "Mária Mennybemenetele templom",
             "ro": "Biserica Adormirea Maicii Domnului",
-            "en": "Church of the Assumption"
+            "en": "Church of the Assumption",
+            "cs": "Kostel Nanebevzetí"
           },
           "coords": [
             17.9988,
@@ -109,7 +116,8 @@
             "de": "Nehmen Sie sich einen Moment Zeit, um die barocke Innenausstattung und die ruhige Atmosphäre zu genießen.",
             "hu": "Szánjon egy percet a barokk belső és a csendes légkör élvezetére.",
             "ro": "Luați-vă un moment pentru a vă bucura de interiorul baroc și de atmosfera liniștită.",
-            "en": "Take a moment to enjoy the baroque interior and the quiet atmosphere."
+            "en": "Take a moment to enjoy the baroque interior and the quiet atmosphere.",
+            "cs": "Chvíli si vychutnejte barokní interiér a tichou atmosféru."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Schloss Vsetín",
             "hu": "Vsetíni kastély",
             "ro": "Castelul Vsetín",
-            "en": "Vsetín Castle"
+            "en": "Vsetín Castle",
+            "cs": "Vsetínský zámek"
           },
           "coords": [
             17.9942,
@@ -133,7 +142,8 @@
             "de": "Das Schloss beherbergt ein Regionalmuseum. Perfekt für einen tiefen Einblick in die walachische Kultur.",
             "hu": "A kastély egy regionális múzeumnak ad otthont. Tökéletes a valah kultúra megismeréséhez.",
             "ro": "Castelul găzduiește un muzeu regional. Perfect pentru o incursiune în cultura valahă.",
-            "en": "The castle hosts a regional museum. Perfect for a deep dive into Wallachian culture."
+            "en": "The castle hosts a regional museum. Perfect for a deep dive into Wallachian culture.",
+            "cs": "Zámek hostí regionální muzeum. Ideální pro hluboký ponor do valašské kultury."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Denkmal der Befreiung",
             "hu": "Felszabadulási emlékmű",
             "ro": "Monumentul Eliberării",
-            "en": "Liberation Monument"
+            "en": "Liberation Monument",
+            "cs": "Pomník osvobození"
           },
           "coords": [
             17.991,
@@ -157,7 +168,8 @@
             "de": "Ein kurzer Halt, um über die lokale Geschichte nachzudenken.",
             "hu": "Rövid megálló a helyi történelem elmélkedésére.",
             "ro": "O scurtă oprire pentru a reflecta asupra istoriei locale.",
-            "en": "A brief stop to reflect on the local history."
+            "en": "A brief stop to reflect on the local history.",
+            "cs": "Krátká zastávka k zamyšlení nad místní historií."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Spaziergang am Fluss Vsetínská Bečva",
             "hu": "Séta a Vsetínská Bečva folyó mentén",
             "ro": "Plimbare pe malul râului Vsetínská Bečva",
-            "en": "Walk along the Vsetínská Bečva River"
+            "en": "Walk along the Vsetínská Bečva River",
+            "cs": "Projděte se podél řeky Vsetínská Bečva"
           },
           "coords": [
             17.9935,
@@ -181,7 +194,8 @@
             "de": "Ein entspannender Abschluss des Tages am Wasser.",
             "hu": "Pihentető befejezése a napnak a vízparton.",
             "ro": "O încheiere relaxantă a zilei pe malul apei.",
-            "en": "A relaxing end to the day by the water."
+            "en": "A relaxing end to the day by the water.",
+            "cs": "Uklidňující zakončení dne u vody."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Ihr Vormittag in Vsetín beginnt auf dem belebten Unteren Platz und führt Sie durch historische Gassen zum Alten Rathaus und dem ruhigeren Oberen Platz. Am Mittag tauchen Sie im Schloss Vsetín tief in die walachische Kultur ein und genießen ein herzhaftes lokales Mittagessen. Der Nachmittag wird ruhiger mit einem Spaziergang zum Befreiungsdenkmal und endet mit einem entspannenden Spaziergang am Ufer der Vsetínská Bečva. Am Abend lassen Sie den Tag in einem traditionellen Restaurant ausklingen und erleben die herzliche Gastfreundschaft der Region.",
         "hu": "A vsetíni délelőtt a nyüzsgő Alsó téren kezdődik, történelmi utcákon át a Régi Városházához és a csendesebb Felső térhez vezet. Délben a vsetíni kastélyban mélyed el a valah kultúrában, és elfogyaszt egy kiadós helyi ebédet. A délután csendesebb lesz egy sétával a Felszabadulási emlékműhöz, majd a Vsetínská Bečva folyó partján tett pihentető sétával zárul. Este egy hagyományos étteremben fejezi be a napot, megtapasztalva a régió meleg vendégszeretetét.",
         "ro": "Dimineața dvs. în Vsetín începe în animata Piață de Jos, ducându-vă pe alei istorice către Primăria Veche și Piața de Sus, mai liniștită. La prânz, pătrundeți în cultura valahă la Castelul Vsetín, savurând un prânz local consistent. După-amiaza devine mai liniștită cu o plimbare la Monumentul Eliberării și se încheie cu o plimbare relaxantă pe malul râului Vsetínská Bečva. Seara, încheiați ziua la un restaurant tradițional, experimentând ospitalitatea caldă a regiunii.",
-        "en": "Your morning in Vsetín starts in the bustling Lower Square, leading you through historic alleys to the Old Town Hall and the quieter Upper Square. At midday, you'll delve into Wallachian culture at Vsetín Castle, enjoying a hearty local lunch. The afternoon becomes more serene with a walk to the Liberation Monument and concludes with a relaxing stroll along the Vsetínská Bečva riverbank. In the evening, you'll round off the day at a traditional restaurant, experiencing the region's warm hospitality."
+        "en": "Your morning in Vsetín starts in the bustling Lower Square, leading you through historic alleys to the Old Town Hall and the quieter Upper Square. At midday, you'll delve into Wallachian culture at Vsetín Castle, enjoying a hearty local lunch. The afternoon becomes more serene with a walk to the Liberation Monument and concludes with a relaxing stroll along the Vsetínská Bečva riverbank. In the evening, you'll round off the day at a traditional restaurant, experiencing the region's warm hospitality.",
+        "cs": "Vaše dopoledne ve Vsetíně začíná na rušném Dolním náměstí, vede historickými uličkami ke Staré radnici a klidnějšímu Hornímu náměstí. V poledne nahlédnete do valašské kultury ve Vsetínském zámku a vychutnáte si vydatný místní oběd. Odpoledne se uklidníte procházkou k Pomníku osvobození a den zakončíte relaxační procházkou podél břehu Vsetínské Bečvy. Večer den uzavřete v tradiční restauraci a zažijete zdejší srdečné pohostinství."
       },
       "gastro_picks": {
         "de": [
@@ -385,6 +400,12 @@
           "Most sights in the center are within easy walking distance.",
           "Allow plenty of time for the museum in the castle; it's surprisingly extensive.",
           "The best photo opportunities are in the squares early in the morning before the crowds arrive."
+        ],
+        "cs": [
+          "Noste pohodlnou obuv, dlažba ve starém městě může být nerovná.",
+          "Většina pamětihodností v centru je v lehké pěší dostupnosti.",
+          "Vyhraďte si dostatek času na muzeum v zámku; je překvapivě rozsáhlé.",
+          "Nejlepší fotomísta jsou na náměstích brzy ráno před příchodem davů."
         ]
       },
       "variants": {
@@ -393,7 +414,8 @@
             "de": "Morgens suchen wir Schutz unter den Arkaden am Unteren Platz. Mittags bietet das Schloss Vsetín einen ausgiebigen, trockenen Aufenthalt in den Museumsräumen. Nachmittags besuchen wir die Kirche Mariä Himmelfahrt als stillen Rückzugsort. Der Tag endet mit einem kurzen Spaziergang an der Bečva, wobei der Regen die Luft erfrischt.",
             "hu": "Reggel az Alsó téren az épületek ereszei alatt kezdünk. Délben a Vsetíni Vár belső kiállításai nyújtanak tökéletes menedéket az eső elől. Délután a Szűz Mária Mennybevétele templom csendjében pihenünk meg. Az estét egy frissítő, esernyős séta zárja a Bečva-folyó partján, élvezve a tiszta levegőt.",
             "ro": "Dimineața căutăm adăpost sub arcadele din Piața de Jos. La prânz, Castelul Vsetín oferă o vizită prelungită și uscată în sălile muzeului. După-amiaza vizităm Biserica Adormirea Maicii Domnului ca refugiu liniștit. Ziua se încheie cu o scurtă plimbare pe malul râului Bečva, unde ploaia împrospătează aerul.",
-            "en": "Morning starts with seeking shelter under the arcades of Lower Square. At midday, Vsetín Castle provides an extensive dry stay within its museum rooms. In the afternoon, we visit the Church of the Assumption as a quiet retreat. The day ends with a short walk along the Bečva river, with rain refreshing the atmosphere."
+            "en": "Morning starts with seeking shelter under the arcades of Lower Square. At midday, Vsetín Castle provides an extensive dry stay within its museum rooms. In the afternoon, we visit the Church of the Assumption as a quiet retreat. The day ends with a short walk along the Bečva river, with rain refreshing the atmosphere.",
+            "cs": "Ráno začínáme pod arkádami Dolního náměstí. V poledne poskytuje Vsetínský zámek rozsáhlý suchý pobyt ve svých muzejnich sálech. Odpoledne navštívíme Kostel Nanebevzetí jako tiché útočiště. Den končí krátkou procházkou podél řeky Bečva, kdy déšť osvěží atmosféru."
           },
           "stops": [
             {
@@ -402,7 +424,8 @@
                 "de": "Nutzen Sie die Ladenvordächer als Regenschutz.",
                 "hu": "Használja az üzletek előtetőit eső elleni védelemként.",
                 "ro": "Folosiți copertinele magazinelor ca protecție împotriva ploii.",
-                "en": "Use the shop awnings as rain protection."
+                "en": "Use the shop awnings as rain protection.",
+                "cs": "Použijte markýzy obchodů jako ochranu před deštěm."
               }
             },
             {
@@ -411,7 +434,8 @@
                 "de": "Besuchen Sie die Ausstellungen im Inneren.",
                 "hu": "Tekintse meg a belső kiállításokat.",
                 "ro": "Vizitați expozițiile din interior.",
-                "en": "Visit the exhibitions inside."
+                "en": "Visit the exhibitions inside.",
+                "cs": "Navštivte výstavy uvnitř."
               }
             },
             {
@@ -420,7 +444,8 @@
                 "de": "Das Kopfsteinpflaster kann bei Nässe rutschig sein.",
                 "hu": "A macskakő nedvesen csúszós lehet.",
                 "ro": "Pavajul poate fi alunecos când este ud.",
-                "en": "The cobblestones can be slippery when wet."
+                "en": "The cobblestones can be slippery when wet.",
+                "cs": "Dlažba může být na mokru kluzká."
               }
             },
             {
@@ -429,7 +454,8 @@
                 "de": "Ein idealer Ort für eine trockene Pause.",
                 "hu": "Ideális hely egy száraz pihenőhöz.",
                 "ro": "Un loc ideal pentru o pauză uscată.",
-                "en": "An ideal place for a dry break."
+                "en": "An ideal place for a dry break.",
+                "cs": "Ideální místo pro suchou přestávku."
               }
             },
             {
@@ -438,7 +464,8 @@
                 "de": "Planen Sie hier bei Regen mehr Zeit ein.",
                 "hu": "Esőben tervezzen itt több időt.",
                 "ro": "Planificați mai mult timp aici dacă plouă.",
-                "en": "Plan more time here if it rains."
+                "en": "Plan more time here if it rains.",
+                "cs": "V případě deště tu naplánujte více času."
               }
             },
             {
@@ -447,7 +474,8 @@
                 "de": "Vorsicht auf den nassen Stufen zum Denkmal.",
                 "hu": "Vigyázzon a vizes lépcsőkön az emlékműnél.",
                 "ro": "Atenție la treptele umede de la monument.",
-                "en": "Be careful on the wet steps at the monument."
+                "en": "Be careful on the wet steps at the monument.",
+                "cs": "Dejte pozor na mokré schody u pomníku."
               }
             },
             {
@@ -456,7 +484,8 @@
                 "de": "Der asphaltierte Weg ist auch bei Regen gut begehbar.",
                 "hu": "Az aszfaltozott út esőben is jól járható.",
                 "ro": "Poteca asfaltată este accesibilă și pe ploaie.",
-                "en": "The paved path is easily walkable even in rain."
+                "en": "The paved path is easily walkable even in rain.",
+                "cs": "Zpevněná cesta je i v dešti snadno choditelná."
               }
             }
           ],
@@ -484,6 +513,12 @@
               "The castle museum is the best indoor option.",
               "Wear waterproof shoes for the cobblestones.",
               "Use the cafes at Lower Square for breaks."
+            ],
+            "cs": [
+              "Vezměte si pevný deštník.",
+              "Hradní muzeum je nejlepší vnitřní volba.",
+              "Obujte voděodolnou obuv kvůli dlažbě.",
+              "Využívejte kavárny na Dolním náměstí k přestávkám."
             ]
           }
         },
@@ -492,7 +527,8 @@
             "de": "Der frostige Morgen beginnt auf den historischen Plätzen, wo Reif die barocken Details ziert. Mittags wärmen wir uns im Alten Rathaus auf, bevor es zum Schloss geht. Der Nachmittag im beheizten Schlossmuseum schützt vor der Kälte. Da es früh dunkel wird, genießen wir die stimmungsvolle Beleuchtung beim Abendspaziergang am Fluss.",
             "hu": "A fagyos reggel a történelmi tereken kezdődik, ahol zúzmara díszíti a barokk részleteket. Délben a Városházán melegszünk fel, majd a várba indulunk. A délután a fűtött vármúzeumban telik, távol a hidegtől. A korai sötétedés miatt az esti folyóparti séta alatt már a város fényeiben gyönyörködhetünk.",
             "ro": "Dimineața geroasă începe în piețele istorice, unde chiciura decorează detaliile baroce. La prânz ne încălzim în Vechea Primărie înainte de a merge la castel. După-amiaza în muzeul încălzit al castelului ne protejează de frig. Deoarece se întunecă devreme, savurăm iluminatul ambiental la plimbarea de seară.",
-            "en": "The frosty morning begins in the historic squares, where hoarfrost decorates the Baroque details. At midday, we warm up in the Old Town Hall before heading to the castle. The afternoon in the heated castle museum protects us from the cold. As it gets dark early, we enjoy the atmospheric lighting during the evening river walk."
+            "en": "The frosty morning begins in the historic squares, where hoarfrost decorates the Baroque details. At midday, we warm up in the Old Town Hall before heading to the castle. The afternoon in the heated castle museum protects us from the cold. As it gets dark early, we enjoy the atmospheric lighting during the evening river walk.",
+            "cs": "Mrazivé ráno začíná na historických náměstích, kde jinovatka zdobí barokní detaily. V poledne se ohřejeme ve Staré radnici před odchodem na zámek. Odpoledne v vytápěném zámku nás ochrání před chladem. Jak se brzy stmívá, užijeme si atmosférické osvětlení při večerní procházce podél řeky."
           },
           "stops": [
             {
@@ -501,7 +537,8 @@
                 "de": "Vorsicht vor Glatteis am Brunnen.",
                 "hu": "Vigyázzon a jégre a szökőkút környékén.",
                 "ro": "Atenție la gheață în apropierea fântânii.",
-                "en": "Watch out for ice near the fountain."
+                "en": "Watch out for ice near the fountain.",
+                "cs": "Dejte pozor na led v okolí kašny."
               }
             },
             {
@@ -510,7 +547,8 @@
                 "de": "Perfekt zum Aufwärmen und für Infos.",
                 "hu": "Tökéletes hely felmelegedni és infót kérni.",
                 "ro": "Perfect pentru încălzire și informații.",
-                "en": "Perfect for warming up and getting info."
+                "en": "Perfect for warming up and getting info.",
+                "cs": "Ideální místo k ohřátí a získání informací."
               }
             },
             {
@@ -519,7 +557,8 @@
                 "de": "Genießen Sie den Blick auf das verschneite Tal.",
                 "hu": "Élvezze a kilátást a havas völgyre.",
                 "ro": "Bucurați-vă de vederea spre valea înzăpezită.",
-                "en": "Enjoy the view of the snowy valley."
+                "en": "Enjoy the view of the snowy valley.",
+                "cs": "Užijte si výhled na zasněžené údolí."
               }
             },
             {
@@ -528,7 +567,8 @@
                 "de": "Oft kühler Innenraum, behalten Sie die Jacke an.",
                 "hu": "A belső tér hűvös lehet, tartsa magán a kabátot.",
                 "ro": "Interiorul poate fi răcoros, păstrați hăina pe voi.",
-                "en": "The interior is often cool, keep your coat on."
+                "en": "The interior is often cool, keep your coat on.",
+                "cs": "Interiér je často chladnější, nechte si kabát."
               }
             },
             {
@@ -537,7 +577,8 @@
                 "de": "Besuchen Sie die beheizten Ausstellungsräume.",
                 "hu": "Látogassa meg a fűtött kiállítótermeket.",
                 "ro": "Vizitați sălile de expoziție încălzite.",
-                "en": "Visit the heated exhibition rooms."
+                "en": "Visit the heated exhibition rooms.",
+                "cs": "Navštivte vytápěné výstavní sály."
               }
             },
             {
@@ -546,7 +587,8 @@
                 "de": "Kurzer Fotostopp, da es hier windig sein kann.",
                 "hu": "Gyors fotómegálló, mert itt szeles lehet az idő.",
                 "ro": "Scurt popas foto, deoarece poate fi vânt aici.",
-                "en": "Quick photo stop as it can be windy here."
+                "en": "Quick photo stop as it can be windy here.",
+                "cs": "Krátká zastávka na fotku, může tu být větrno."
               }
             },
             {
@@ -555,7 +597,8 @@
                 "de": "Der Weg wird meist schnell geräumt.",
                 "hu": "Az utat általában hamar letakarítják.",
                 "ro": "Poteca este de obicei curățată rapid.",
-                "en": "The path is usually cleared quickly."
+                "en": "The path is usually cleared quickly.",
+                "cs": "Cesty jsou obvykle rychle uklízené."
               }
             }
           ],
@@ -583,6 +626,12 @@
               "Plan warm-up breaks in local cafes.",
               "Sunset occurs as early as 4:00 PM.",
               "The museums are well heated."
+            ],
+            "cs": [
+              "Noste termooblečení a boty s dobrou podrážkou.",
+              "Plánujte přestávky na zahřátí v místních kavárnách.",
+              "Západ slunce může nastat už v 16:00.",
+              "Muzea jsou dobře vytápěná."
             ]
           }
         }
@@ -601,7 +650,8 @@
             "de": "Stadtzentrum Erkundung",
             "hu": "Városközpont felfedezése",
             "ro": "Explorarea centrului orașului",
-            "en": "City Center Exploration"
+            "en": "City Center Exploration",
+            "cs": "Prozkoumání centra města"
           },
           "coords": [
             17.9955,
@@ -617,7 +667,8 @@
             "de": "Radeln Sie gemütlich zwischen Unterem und Oberem Platz und dem Alten Rathaus.",
             "hu": "Tekerjen kényelmesen az Alsó és Felső tér, valamint a Régi Városháza között.",
             "ro": "Pedalați lejer între Piața de Jos, Piața de Sus și Primăria Veche.",
-            "en": "Cycle leisurely between the Lower and Upper Squares and the Old Town Hall."
+            "en": "Cycle leisurely between the Lower and Upper Squares and the Old Town Hall.",
+            "cs": "Jezděte volně na kole mezi Dolním a Horním náměstím a Starou radnicí."
           }
         },
         {
@@ -625,7 +676,8 @@
             "de": "Schloss Vsetín",
             "hu": "Vsetíni kastély",
             "ro": "Castelul Vsetín",
-            "en": "Vsetín Castle"
+            "en": "Vsetín Castle",
+            "cs": "Vsetínský zámek"
           },
           "coords": [
             17.9942,
@@ -641,7 +693,8 @@
             "de": "Schließen Sie Ihr Fahrrad am Fuße des Hügels ab und gehen Sie hinauf zum Schlossmuseum.",
             "hu": "Zárja le a kerékpárját a domb alján, és sétáljon fel a kastélymúzeumhoz.",
             "ro": "Încuietoarea bicicletei la poalele dealului și urcați la muzeul castelului.",
-            "en": "Lock your bike at the bottom of the hill and walk up to the castle museum."
+            "en": "Lock your bike at the bottom of the hill and walk up to the castle museum.",
+            "cs": "Uzamkněte kolo dole u kopce a pokračujte pěšky nahoru k hradnímu muzeu."
           }
         },
         {
@@ -649,7 +702,8 @@
             "de": "Mittagessen am Flussufer",
             "hu": "Ebéd a folyóparton",
             "ro": "Prânz pe malul râului",
-            "en": "Lunch by the River"
+            "en": "Lunch by the River",
+            "cs": "Oběd u řeky"
           },
           "coords": [
             17.9935,
@@ -665,7 +719,8 @@
             "de": "Finden Sie ein Restaurant mit Terrasse mit Blick auf die Vsetínská Bečva.",
             "hu": "Keressen egy teraszos éttermet, kilátással a Vsetínská Bečva folyóra.",
             "ro": "Găsiți un restaurant cu o terasă cu vedere la râul Vsetínská Bečva.",
-            "en": "Find a restaurant with a terrace overlooking the Vsetínská Bečva river."
+            "en": "Find a restaurant with a terrace overlooking the Vsetínská Bečva river.",
+            "cs": "Najděte restauraci s terasou s výhledem na řeku Vsetínská Bečva."
           }
         },
         {
@@ -673,7 +728,8 @@
             "de": "Denkmal der Befreiung",
             "hu": "Felszabadulási emlékmű",
             "ro": "Monumentul Eliberării",
-            "en": "Liberation Monument"
+            "en": "Liberation Monument",
+            "cs": "Pomník osvobození"
           },
           "coords": [
             17.991,
@@ -689,7 +745,8 @@
             "de": "Ein kurzer, nachdenklicher Halt auf Ihrer Radtour.",
             "hu": "Egy rövid, elgondolkodtató megálló a kerékpártúrán.",
             "ro": "O oprire scurtă și reflexivă în turul cu bicicleta.",
-            "en": "A short, reflective stop on your bike tour."
+            "en": "A short, reflective stop on your bike tour.",
+            "cs": "Krátká, zamyšlená zastávka na vaší cyklotouře."
           }
         },
         {
@@ -697,7 +754,8 @@
             "de": "Sternwarte Vsetín",
             "hu": "Vsetíni csillagvizsgáló",
             "ro": "Observatorul Vsetín",
-            "en": "Vsetín Observatory"
+            "en": "Vsetín Observatory",
+            "cs": "Hvězdárna Vsetín"
           },
           "coords": [
             18.015,
@@ -713,7 +771,8 @@
             "de": "Der Aufstieg ist die Aussicht wert! Überprüfen Sie die Öffnungszeiten im Voraus.",
             "hu": "A kilátás megéri a mászást! Előre ellenőrizze a nyitvatartási időt.",
             "ro": "Urcușul merită priveliștea! Verificați orele de deschidere în avans.",
-            "en": "The climb is worth the view! Check opening hours in advance."
+            "en": "The climb is worth the view! Check opening hours in advance.",
+            "cs": "Výstup stojí za ten výhled! Předem zkontrolujte otevírací dobu."
           }
         },
         {
@@ -721,7 +780,8 @@
             "de": "Rückkehr ins Zentrum",
             "hu": "Visszatérés a központba",
             "ro": "Întoarcere în centru",
-            "en": "Return to Center"
+            "en": "Return to Center",
+            "cs": "Návrat do centra"
           },
           "coords": [
             17.9961,
@@ -737,7 +797,8 @@
             "de": "Beenden Sie Ihre Tour mit einem wohlverdienten Getränk in einem Café.",
             "hu": "Fejezze be a túrát egy jól megérdemelt itallal egy kávézóban.",
             "ro": "Încheiați turul cu o băutură binemeritată la o cafenea.",
-            "en": "End your tour with a well-deserved drink at a cafe."
+            "en": "End your tour with a well-deserved drink at a cafe.",
+            "cs": "Ukončete trasu zaslouženým pitím v kavárně."
           }
         }
       ],
@@ -745,7 +806,8 @@
         "de": "Schwingen Sie sich am Morgen auf den Sattel und erkunden Sie das historische Herz von Vsetín. Nach dem Besuch des Schlosses und seines Museums am Mittag stärken Sie sich in einem Restaurant am Flussufer. Am Nachmittag führt Sie Ihre Radtour zu historischen Monumenten und gipfelt im Aufstieg zur Sternwarte, die Sie mit einer atemberaubenden Aussicht belohnt. Der Abend ist perfekt, um bei einem lokalen Bier zu entspannen und die Erlebnisse des Tages Revue passieren zu lassen.",
         "hu": "Reggel pattanjon nyeregbe, és fedezze fel Vsetín történelmi szívét. Miután délben meglátogatta a kastélyt és múzeumát, ebédeljen egy folyóparti étteremben. Délután a kerékpártúra történelmi emlékművekhez vezet, és a csillagvizsgálóhoz való feljutásban csúcsosodik ki, amely lélegzetelállító kilátással jutalmazza. Az este tökéletes arra, hogy egy helyi sör mellett pihenjen, és átgondolja a nap élményeit.",
         "ro": "Dimineața, urcați-vă în șa și explorați inima istorică a orașului Vsetín. După ce vizitați castelul și muzeul său la prânz, luați masa la un restaurant de pe malul râului. După-amiaza, turul cu bicicleta vă duce la monumente istorice și culminează cu urcarea la observator, care vă recompensează cu o priveliște uluitoare. Seara este perfectă pentru a vă relaxa cu o bere locală și a rememora experiențele zilei.",
-        "en": "In the morning, get on your bike and explore the historic heart of Vsetín. After visiting the castle and its museum at midday, refuel at a riverside restaurant. In the afternoon, your bike tour takes you to historical monuments and culminates in the climb to the observatory, which rewards you with a breathtaking view. The evening is perfect for relaxing with a local beer and reflecting on the day's experiences."
+        "en": "In the morning, get on your bike and explore the historic heart of Vsetín. After visiting the castle and its museum at midday, refuel at a riverside restaurant. In the afternoon, your bike tour takes you to historical monuments and culminates in the climb to the observatory, which rewards you with a breathtaking view. The evening is perfect for relaxing with a local beer and reflecting on the day's experiences.",
+        "cs": "Ráno nasedněte na kolo a prozkoumejte historické srdce Vsetína. Po návštěvě zámku a jeho muzea v poledne se posilněte v restauraci u řeky. Odpoledne vás cyklotura zavede k historickým památkám a vyvrcholí výstupem k hvězdárně, která odmění úchvatným výhledem. Večer je ideální pro relaxaci u místního piva a zamyšlení nad zážitky dne."
       },
       "gastro_picks": {
         "de": [
@@ -941,6 +1003,12 @@
           "Some sections, especially towards the observatory, can be steep.",
           "Bring plenty of water, especially on warm days.",
           "Take advantage of the well-developed cycle paths along the river."
+        ],
+        "cs": [
+          "Před odjezdem zkontrolujte tlak v pneumatikách.",
+          "Některé úseky, zvláště směrem k hvězdárně, mohou být strmé.",
+          "Vezměte dostatek vody, obzvlášť v horkých dnech.",
+          "Využijte dobře vybudované cyklostezky podél řeky."
         ]
       },
       "variants": {
@@ -949,7 +1017,8 @@
             "de": "Ein regnerischer Radtag beginnt im Zentrum, wo wir uns kurz orientieren. Den Mittag verbringen wir im Schloss Vsetín, um das Fahrrad sicher zu parken und trocken zu bleiben. Nach dem Mittagessen geht es trotz Regen zum Denkmal und zur Sternwarte. Wir beenden die Tour vorsichtig auf den nassen Straßen zurück im Zentrum.",
             "hu": "Egy esős bringás nap a központban kezdődik. A delet a Vsetíni Várban töltjük, ahol biztonságban leparkolhatunk és szárazon maradhatunk. Ebéd után az eső ellenére is ellátogatunk az emlékműhöz és a csillagvizsgálóhoz. A túrát óvatosan, a vizes utakon tekerve fejezzük be a városközpontban.",
             "ro": "O zi de ciclism ploioasă începe în centru. Prânzul îl petrecem la Castelul Vsetín pentru a parca bicicleta în siguranță și a rămâne uscați. După prânz, mergem la monument și la observator în ciuda ploii. Încheiem turul cu atenție pe străzile umede înapoi în centru.",
-            "en": "A rainy cycling day starts in the center. We spend midday at Vsetín Castle to park the bike safely and stay dry. After lunch, we visit the monument and observatory despite the rain. We finish the tour carefully, riding on wet streets back to the city center."
+            "en": "A rainy cycling day starts in the center. We spend midday at Vsetín Castle to park the bike safely and stay dry. After lunch, we visit the monument and observatory despite the rain. We finish the tour carefully, riding on wet streets back to the city center.",
+            "cs": "Deštivý cykldenní začíná v centru. V poledne strávíme čas na Vsetínském zámku, kde bezpečně zaparkujeme kolo a zůstaneme v suchu. Po obědě navštívíme pomník a hvězdárnu i přes déšť. Trasou končíme opatrně, po mokrých ulicích jedeme zpět do centra města."
           },
           "stops": [
             {
@@ -958,7 +1027,8 @@
                 "de": "Vorsicht auf nassem Kopfsteinpflaster.",
                 "hu": "Vigyázzon a nedves macskakövön.",
                 "ro": "Atenție pe pavajul umed.",
-                "en": "Be careful on wet cobblestones."
+                "en": "Be careful on wet cobblestones.",
+                "cs": "Dejte pozor na mokré dlažební kostky."
               }
             },
             {
@@ -967,7 +1037,8 @@
                 "de": "Nutzen Sie den überdachten Fahrradständer.",
                 "hu": "Használja a fedett kerékpártárolót.",
                 "ro": "Folosiți suportul de biciclete acoperit.",
-                "en": "Use the covered bike rack."
+                "en": "Use the covered bike rack.",
+                "cs": "Použijte kryté stojany na kola."
               }
             },
             {
@@ -976,7 +1047,8 @@
                 "de": "Suchen Sie ein Restaurant mit Innenplätzen.",
                 "hu": "Keressen éttermet belső ülőhelyekkel.",
                 "ro": "Căutați un restaurant cu locuri în interior.",
-                "en": "Find a restaurant with indoor seating."
+                "en": "Find a restaurant with indoor seating.",
+                "cs": "Najděte restauraci s vnitřním posezením."
               }
             },
             {
@@ -985,7 +1057,8 @@
                 "de": "Vermeiden Sie scharfes Bremsen auf Laub.",
                 "hu": "Kerülje az erős fékezést a leveleken.",
                 "ro": "Evitați frânarea bruscă pe frunze.",
-                "en": "Avoid sharp braking on leaves."
+                "en": "Avoid sharp braking on leaves.",
+                "cs": "Vyhněte se prudkému brzdění na listech."
               }
             },
             {
@@ -994,7 +1067,8 @@
                 "de": "Die Auffahrt kann bei Regen rutschig sein.",
                 "hu": "Az emelkedő esőben csúszós lehet.",
                 "ro": "Urcarea poate fi alunecoasă pe ploaie.",
-                "en": "The climb can be slippery in the rain."
+                "en": "The climb can be slippery in the rain.",
+                "cs": "Stoupání může být za deště kluzké."
               }
             },
             {
@@ -1003,7 +1077,8 @@
                 "de": "Säubern Sie die Bremsen von Schmutz.",
                 "hu": "Tisztítsa meg a fékeket a sártól.",
                 "ro": "Curățați frânele de murdărie.",
-                "en": "Clean the brakes from dirt."
+                "en": "Clean the brakes from dirt.",
+                "cs": "Očistěte brzdy od nečistot."
               }
             }
           ],
@@ -1031,6 +1106,12 @@
               "Wear a fully waterproof rain jacket.",
               "Avoid puddles, they might be deep.",
               "Check your brake pads before riding."
+            ],
+            "cs": [
+              "Použijte blatníky proti stříkající vodě.",
+              "Noste plně nepromokavou bundu.",
+              "Vyhněte se kalužím, mohou být hluboké.",
+              "Před jízdou zkontrolujte brzdové špalky."
             ]
           }
         },
@@ -1039,7 +1120,8 @@
             "de": "Die Wintertour erfordert warme Kleidung ab dem Zentrum. Mittags wärmen wir uns im Schloss Vsetín auf, während die Fahrräder draußen warten. Nach einem stärkenden Mittagessen radeln wir zum Denkmal und zur Sternwarte, wo der Schnee die Aussicht verzaubert. Die Rückkehr ins Zentrum erfolgt vor Einbruch der frühen Dunkelheit.",
             "hu": "A téli túra meleg ruházatot igényel már a központtól. Délben a Vsetíni Várban melegszünk fel, miközben a bringák kint várnak. Egy tápláló ebéd után az emlékműhöz és a csillagvizsgálóhoz tekerünk, ahol a hó varázslatossá teszi a kilátást. A központba még a korai sötétedés előtt visszatérünk.",
             "ro": "Turul de iarnă necesită haine groase încă din centru. La prânz ne încălzim la Castelul Vsetín în timp ce bicicletele așteaptă afară. După un prânz consistent, pedalăm spre monument și observator, unde zăpada face vederea magică. Revenirea în centru are loc înainte de lăsarea întunericului.",
-            "en": "The winter tour requires warm clothing from the start. At midday, we warm up at Vsetín Castle while the bikes wait outside. After a hearty lunch, we cycle to the monument and observatory, where snow makes the view magical. We return to the center before the early darkness sets in."
+            "en": "The winter tour requires warm clothing from the start. At midday, we warm up at Vsetín Castle while the bikes wait outside. After a hearty lunch, we cycle to the monument and observatory, where snow makes the view magical. We return to the center before the early darkness sets in.",
+            "cs": "Zimní trasa vyžaduje teplé oblečení od začátku. V poledne se zahřejeme na Vsetínském zámku, zatímco kola počkají venku. Po vydatném obědě pojedeme ke pomníku a hvězdárně, kde sníh dělá výhled kouzelným. Vrátíme se do centra dříve, než nastane brzký soumrak."
           },
           "stops": [
             {
@@ -1048,7 +1130,8 @@
                 "de": "Achten Sie auf gefrorene Pfützen.",
                 "hu": "Ügyeljen a befagyott tócsákra.",
                 "ro": "Atenție la bălțile înghețate.",
-                "en": "Watch out for frozen puddles."
+                "en": "Watch out for frozen puddles.",
+                "cs": "Dejte pozor na zamrzlé kaluže."
               }
             },
             {
@@ -1057,7 +1140,8 @@
                 "de": "Das Metall der Fahrradschlösser kann frieren.",
                 "hu": "A lakatok fém részei odafagyhatnak.",
                 "ro": "Metalul antifurtului poate îngheța.",
-                "en": "Bike lock metal can freeze."
+                "en": "Bike lock metal can freeze.",
+                "cs": "Zámek na kole může namrznout."
               }
             },
             {
@@ -1066,7 +1150,8 @@
                 "de": "Bestellen Sie ein heißes Getränk zum Aufwärmen.",
                 "hu": "Rendeljen forró italt a melegedéshez.",
                 "ro": "Comandați o băutură caldă pentru încălzire.",
-                "en": "Order a hot drink to warm up."
+                "en": "Order a hot drink to warm up.",
+                "cs": "Objednejte si horký nápoj na zahřátí."
               }
             },
             {
@@ -1075,7 +1160,8 @@
                 "de": "Handschuhe sind für die Abfahrt unerlässlich.",
                 "hu": "A kesztyű elengedhetetlen a lejtőhöz.",
                 "ro": "Mănușile sunt esențiale pentru coborâre.",
-                "en": "Gloves are essential for the descent."
+                "en": "Gloves are essential for the descent.",
+                "cs": "Rukavice jsou nezbytné při sjezdu."
               }
             },
             {
@@ -1084,7 +1170,8 @@
                 "de": "Helles Licht reflektiert stark auf Schnee.",
                 "hu": "A fény erősen visszaverődik a hóról.",
                 "ro": "Lumina se reflectă puternic pe zăpadă.",
-                "en": "Bright light reflects strongly on snow."
+                "en": "Bright light reflects strongly on snow.",
+                "cs": "Sníh silně odráží světlo."
               }
             },
             {
@@ -1093,7 +1180,8 @@
                 "de": "Schalten Sie frühzeitig das Licht an.",
                 "hu": "Kapcsolja be időben a világítást.",
                 "ro": "Aprindeți luminile din timp.",
-                "en": "Turn on your lights early."
+                "en": "Turn on your lights early.",
+                "cs": "Rozsviťte světla včas."
               }
             }
           ],
@@ -1121,6 +1209,12 @@
               "Wear layers (onion principle).",
               "Battery lights drain faster in the cold.",
               "Clean road salt residue from the frame."
+            ],
+            "cs": [
+              "Použijte pláště s dobrým vzorkem nebo hroty.",
+              "Noste vrstvy (princip cibule).",
+              "Baterky světel se v chladu vybíjejí rychleji.",
+              "Odstraňte ze rámu zbytky soli z komunikací."
             ]
           }
         }
@@ -1139,7 +1233,8 @@
             "de": "Cluster 1: Altstadt Vsetín",
             "hu": "1. klaszter: Vsetín óvárosa",
             "ro": "Cluster 1: Orașul Vechi Vsetín",
-            "en": "Cluster 1: Vsetín Old Town"
+            "en": "Cluster 1: Vsetín Old Town",
+            "cs": "Klastr 1: Vsetín Staré Město"
           },
           "coords": [
             18.015,
@@ -1155,7 +1250,8 @@
             "de": "Parken Sie in der Nähe und fahren Sie zur Sternwarte für einen ersten Überblick.",
             "hu": "Parkoljon a közelben, és hajtson fel a csillagvizsgálóhoz egy első áttekintésért.",
             "ro": "Parcați în apropiere și conduceți la observator pentru o primă imagine de ansamblu.",
-            "en": "Park nearby and drive up to the Observatory for an initial overview."
+            "en": "Park nearby and drive up to the Observatory for an initial overview.",
+            "cs": "Zaparkujte poblíž a vyjeďte k hvězdárně pro úvodní přehled."
           }
         },
         {
@@ -1163,7 +1259,8 @@
             "de": "Schloss Vsetín",
             "hu": "Vsetíni kastély",
             "ro": "Castelul Vsetín",
-            "en": "Vsetín Castle"
+            "en": "Vsetín Castle",
+            "cs": "Vsetínský zámek"
           },
           "coords": [
             17.9942,
@@ -1179,7 +1276,8 @@
             "de": "Es gibt Parkplätze in der Nähe des Schlosses. Das Museum ist einen Besuch wert.",
             "hu": "A kastély közelében van parkoló. A múzeumot érdemes meglátogatni.",
             "ro": "Există parcare lângă castel. Muzeul merită vizitat.",
-            "en": "There is parking near the castle. The museum is worth the visit."
+            "en": "There is parking near the castle. The museum is worth the visit.",
+            "cs": "U zámku je parkoviště. Muzeum stojí za návštěvu."
           }
         },
         {
@@ -1187,7 +1285,8 @@
             "de": "Cluster 2: Historisches Zentrum (zu Fuß)",
             "hu": "2. klaszter: Történelmi központ (gyalog)",
             "ro": "Cluster 2: Centrul Istoric (pe jos)",
-            "en": "Cluster 2: Historic Center (on foot)"
+            "en": "Cluster 2: Historic Center (on foot)",
+            "cs": "Klastr 2: Historické centrum (pěšky)"
           },
           "coords": [
             17.9975,
@@ -1203,7 +1302,8 @@
             "de": "Parken Sie Ihr Auto im Zentrum und erkunden Sie den Oberen Platz zu Fuß.",
             "hu": "Parkolja le autóját a központban, és fedezze fel gyalog a Felső teret.",
             "ro": "Parcați mașina în centru și explorați Piața de Sus pe jos.",
-            "en": "Park your car in the center and explore the Upper Square on foot."
+            "en": "Park your car in the center and explore the Upper Square on foot.",
+            "cs": "Zaparkujte auto v centru a prozkoumejte Horní náměstí pěšky."
           }
         },
         {
@@ -1211,7 +1311,8 @@
             "de": "Kirche Mariä Himmelfahrt",
             "hu": "Mária Mennybemenetele templom",
             "ro": "Biserica Adormirea Maicii Domnului",
-            "en": "Church of the Assumption"
+            "en": "Church of the Assumption",
+            "cs": "Kostel Nanebevzetí"
           },
           "coords": [
             17.9988,
@@ -1227,7 +1328,8 @@
             "de": "Nur ein kurzer Spaziergang vom Oberen Platz entfernt.",
             "hu": "Csak egy rövid séta a Felső tértől.",
             "ro": "La doar o scurtă plimbare de Piața de Sus.",
-            "en": "Just a short walk from the Upper Square."
+            "en": "Just a short walk from the Upper Square.",
+            "cs": "Jen krátká procházka z Horního náměstí."
           }
         },
         {
@@ -1235,7 +1337,8 @@
             "de": "Altes Rathaus & Unterer Platz",
             "hu": "Régi Városháza és Alsó tér",
             "ro": "Primăria Veche și Piața de Jos",
-            "en": "Old Town Hall & Lower Square"
+            "en": "Old Town Hall & Lower Square",
+            "cs": "Stará radnice & Dolní náměstí"
           },
           "coords": [
             17.9958,
@@ -1251,7 +1354,8 @@
             "de": "Schlendern Sie zum Hauptplatz für das Mittagessen und zum Leutebeobachten.",
             "hu": "Sétáljon le a főtérre ebédelni és nézelődni.",
             "ro": "Plimbați-vă până în piața principală pentru prânz și pentru a privi oamenii.",
-            "en": "Stroll down to the main square for lunch and people-watching."
+            "en": "Stroll down to the main square for lunch and people-watching.",
+            "cs": "Projďte se na hlavní náměstí na oběd a pozorování lidí."
           }
         },
         {
@@ -1259,7 +1363,8 @@
             "de": "Spaziergang am Flussufer",
             "hu": "Séta a folyóparton",
             "ro": "Plimbare pe malul râului",
-            "en": "Riverside Walk"
+            "en": "Riverside Walk",
+            "cs": "Nábřežní procházka"
           },
           "coords": [
             17.9935,
@@ -1275,7 +1380,8 @@
             "de": "Beenden Sie Ihren Tag mit einem entspannenden Spaziergang entlang des Flusses, bevor Sie zum Auto zurückkehren.",
             "hu": "Zárja a napot egy pihentető sétával a folyó mentén, mielőtt visszatérne az autóhoz.",
             "ro": "Încheiați ziua cu o plimbare relaxantă de-a lungul râului înainte de a vă întoarce la mașină.",
-            "en": "End your day with a relaxing walk along the river before returning to your car."
+            "en": "End your day with a relaxing walk along the river before returning to your car.",
+            "cs": "Ukončete den relaxační procházkou podél řeky před návratem k autu."
           }
         }
       ],
@@ -1283,7 +1389,8 @@
         "de": "Mit dem Auto erkunden Sie Vsetín flexibel. Der Morgen beginnt mit einem Panoramablick von der Sternwarte, gefolgt von einem tiefen Eintauchen in die Geschichte im Schloss Vsetín. Am Mittag parken Sie im Zentrum und entdecken den Charme der Altstadt zu Fuß, vom Oberen Platz bis zum Alten Rathaus. Der Nachmittag gehört einem gemütlichen Spaziergang am Fluss, bevor Sie den Abend in einem Restaurant Ihrer Wahl ausklingen lassen. Diese Tour verbindet kurze Fahrten mit ausgedehnten Spaziergängen.",
         "hu": "Autóval rugalmasan fedezheti fel Vsetínt. A reggel panorámás kilátással kezdődik a csillagvizsgálóból, majd mély merülés a történelembe a Vsetíni kastélyban. Délben a központban parkol, és gyalog fedezi fel az óváros varázsát, a Felső tértől a Régi Városháig. A délután egy kellemes folyóparti sétáé, mielőtt egy tetszőleges étteremben fejezné be az estét. Ez a túra a rövid autózásokat hosszabb sétákkal ötvözi.",
         "ro": "Cu mașina, explorați Vsetín în mod flexibil. Dimineața începe cu o vedere panoramică de la observator, urmată de o scufundare adâncă în istorie la Castelul Vsetín. La prânz, parcați în centru și descoperiți farmecul orașului vechi pe jos, de la Piața de Sus la Primăria Veche. După-amiaza este dedicată unei plimbări relaxante pe malul râului, înainte de a încheia seara la un restaurant la alegere. Acest tur combină călătorii scurte cu mașina cu plimbări extinse.",
-        "en": "By car, you can explore Vsetín flexibly. The morning starts with a panoramic view from the observatory, followed by a deep dive into history at Vsetín Castle. At midday, you'll park in the center and discover the charm of the old town on foot, from the Upper Square to the Old Town Hall. The afternoon is for a leisurely riverside walk before ending the evening at a restaurant of your choice. This tour combines short drives with extended walks."
+        "en": "By car, you can explore Vsetín flexibly. The morning starts with a panoramic view from the observatory, followed by a deep dive into history at Vsetín Castle. At midday, you'll park in the center and discover the charm of the old town on foot, from the Upper Square to the Old Town Hall. The afternoon is for a leisurely riverside walk before ending the evening at a restaurant of your choice. This tour combines short drives with extended walks.",
+        "cs": "Autem můžete Vsetín prozkoumat flexibilně. Ráno začíná panoramatickým výhledem z hvězdárny, následovaným hlubokým ponorem do historie na Vsetínském zámku. V poledne zaparkujete v centru a pěšky objevíte kouzlo starého města od Horního náměstí po Starou radnici. Odpoledne patří poklidné nábřežní procházce a večer zakončíte v restauraci podle vlastního výběru. Tato trasa kombinuje krátké jízdy s delšími pěšími úseky."
       },
       "gastro_picks": {
         "de": [
@@ -1479,6 +1586,12 @@
           "A GPS or navigation app is helpful for navigating between clusters.",
           "Do not leave valuables visible in the car.",
           "Plan some buffer time for traffic, especially during peak hours."
+        ],
+        "cs": [
+          "Předem zkontrolujte možnosti parkování a poplatky.",
+          "GPS nebo navigační aplikace pomůže s orientací mezi klastry.",
+          "Nenechávejte cennosti na očích v autě.",
+          "Naplánujte si rezervu na dopravu, zvláště během špičky."
         ]
       },
       "variants": {
@@ -1487,7 +1600,8 @@
             "de": "An einem Regentag nutzen wir das Auto als Basis. Wir starten an der Sternwarte, wo wir bei Schauern im Wagen bleiben können. Mittags parken wir direkt am Schloss Vsetín für einen trockenen Besuch. Den Nachmittag verbringen wir im Stadtzentrum, nutzen kurze Regenpausen für die Plätze und beenden den Tag entspannt am Flussufer.",
             "hu": "Esős napon az autót használjuk bázisként. A csillagvizsgálónál kezdünk, ahol a záporok alatt a kocsiban maradhatunk. Délben közvetlenül a Vsetíni Várnál parkolunk a száraz látogatáshoz. A délutánt a városközpontban töltjük, kihasználva a rövid szüneteket a tereken, majd a folyóparton zárunk.",
             "ro": "Într-o zi ploioasă folosim mașina ca bază. Începem la observator, unde putem rămâne în mașină în timpul averselor. La prânz parcăm direct la Castelul Vsetín pentru o vizită uscată. După-amiaza o petrecem în centrul orașului, profitând de pauzele scurte de ploaie.",
-            "en": "On a rainy day, we use the car as our base. We start at the observatory, where we can stay in the car during showers. At midday, we park directly at Vsetín Castle for a dry visit. We spend the afternoon in the city center, using short rain breaks for the squares, and end the day at the riverside."
+            "en": "On a rainy day, we use the car as our base. We start at the observatory, where we can stay in the car during showers. At midday, we park directly at Vsetín Castle for a dry visit. We spend the afternoon in the city center, using short rain breaks for the squares, and end the day at the riverside.",
+            "cs": "V deštivý den používáme auto jako základnu. Začínáme u hvězdárny, kde při přeháňkách můžeme zůstat v autě. V poledne parkujeme přímo u Vsetínského zámku pro suchou návštěvu. Odpoledne strávíme v centru města, krátké přestávky na déšť využijeme na náměstích, a den zakončíme na nábřeží."
           },
           "stops": [
             {
@@ -1496,7 +1610,8 @@
                 "de": "Gute Parkmöglichkeit in der Nähe.",
                 "hu": "Jó parkolási lehetőség a közelben.",
                 "ro": "Posibilitate bună de parcare în apropiere.",
-                "en": "Good parking possibility nearby."
+                "en": "Good parking possibility nearby.",
+                "cs": "Dobrá možnost parkování v blízkosti."
               }
             },
             {
@@ -1505,7 +1620,8 @@
                 "de": "Kurzer Weg vom Parkplatz zum Eingang.",
                 "hu": "Rövid út a parkolótól a bejáratig.",
                 "ro": "Drum scurt de la parcare la intrare.",
-                "en": "Short walk from the parking lot to the entrance."
+                "en": "Short walk from the parking lot to the entrance.",
+                "cs": "Krátká procházka z parkoviště k vchodu."
               }
             },
             {
@@ -1514,7 +1630,8 @@
                 "de": "Halten Sie den Schirm griffbereit im Auto.",
                 "hu": "Tartsa az esernyőt kéznél az autóban.",
                 "ro": "Țineți umbrela la îndemână în mașină.",
-                "en": "Keep the umbrella handy in the car."
+                "en": "Keep the umbrella handy in the car.",
+                "cs": "Mějte v autě po ruce deštník."
               }
             },
             {
@@ -1523,7 +1640,8 @@
                 "de": "Parken Sie auf den markierten Flächen.",
                 "hu": "Parkoljon a kijelölt helyeken.",
                 "ro": "Parcați în zonele marcate.",
-                "en": "Park in the designated areas."
+                "en": "Park in the designated areas.",
+                "cs": "Parkujte na vyhrazených místech."
               }
             },
             {
@@ -1532,7 +1650,8 @@
                 "de": "Nutzen Sie Parkhäuser für trockene Ausstiege.",
                 "hu": "Használjon parkolóházakat a száraz kiszálláshoz.",
                 "ro": "Folosiți parcări etajate pentru debarcare uscată.",
-                "en": "Use parking garages for dry exits."
+                "en": "Use parking garages for dry exits.",
+                "cs": "Použijte parkovací domy pro suchý výstup."
               }
             },
             {
@@ -1541,7 +1660,8 @@
                 "de": "Parken Sie nah am Wegesrand.",
                 "hu": "Parkoljon közel az út széléhez.",
                 "ro": "Parcați aproape de marginea drumului.",
-                "en": "Park close to the path side."
+                "en": "Park close to the path side.",
+                "cs": "Parkujete blízko u cesty."
               }
             }
           ],
@@ -1569,6 +1689,12 @@
               "Watch out for aquaplaning in dips.",
               "Keep an umbrella ready for short distances.",
               "The car is an ideal retreat during heavy rain."
+            ],
+            "cs": [
+              "Zkontrolujte stav stěračů.",
+              "Dejte pozor na aquaplaning v prohlubních.",
+              "Mějte deštník připravený pro krátké přesuny.",
+              "Auto je ideální útočiště při silném dešti."
             ]
           }
         },
@@ -1577,7 +1703,8 @@
             "de": "Die Wintertour per Auto startet komfortabel an der Sternwarte mit Panoramablick. Mittags steuern wir das Schloss Vsetín an, wo wir uns in der geheizten Ausstellung aufwärmen. Den Nachmittag verbringen wir im historischen Zentrum und besichtigen die Kirche, bevor wir den Tag mit einer kurzen Fahrt zum beleuchteten Flussufer abschließen.",
             "hu": "A téli autós túra kényelmesen indul a csillagvizsgálónál, panorámás kilátással. Délben a Vsetíni Várat vesszük célba, ahol a fűtött kiállításon melegszünk fel. A délutánt a történelmi központban töltjük, megtekintjük a templomot, majd egy rövid autózással zárjuk a napot a kivilágított folyópartnál.",
             "ro": "Turul de iarnă cu mașina începe confortabil la observator cu vedere panoramică. La prânz mergem spre Castelul Vsetín, unde ne încălzim în expoziția încălzită. După-amiaza o petrecem în centrul istoric, înainte de a încheia ziua cu o scurtă cursă spre malul râului.",
-            "en": "The winter tour by car starts comfortably at the observatory with a panoramic view. At midday, we head to Vsetín Castle, where we warm up in the heated exhibition. We spend the afternoon in the historic center and visit the church before concluding the day with a short drive to the lit riverside."
+            "en": "The winter tour by car starts comfortably at the observatory with a panoramic view. At midday, we head to Vsetín Castle, where we warm up in the heated exhibition. We spend the afternoon in the historic center and visit the church before concluding the day with a short drive to the lit riverside.",
+            "cs": "Zimní jízda autem začíná pohodlně u hvězdárny s panoramatickým výhledem. V poledne zamíříme na Vsetínský zámek, kde se zahřejeme v vytopené expozici. Odpoledne strávíme v historickém centru a navštívíme kostel, než den zakončíme krátkou jízdou k nasvícenému nábřeží."
           },
           "stops": [
             {
@@ -1586,7 +1713,8 @@
                 "de": "Vorsicht bei Schnee auf den Zufahrtswegen.",
                 "hu": "Vigyázzon a hóval a bekötőutakon.",
                 "ro": "Atenție la zăpadă pe drumurile de acces.",
-                "en": "Be careful with snow on access roads."
+                "en": "Be careful with snow on access roads.",
+                "cs": "Dejte pozor na sníh na přístupových cestách."
               }
             },
             {
@@ -1595,7 +1723,8 @@
                 "de": "Parkplätze könnten vereist sein.",
                 "hu": "A parkolóhelyek jegesek lehetnek.",
                 "ro": "Locurile de parcare pot fi înghețate.",
-                "en": "Parking spots might be icy."
+                "en": "Parking spots might be icy.",
+                "cs": "Parkovací místa mohou být zledovatělá."
               }
             },
             {
@@ -1604,7 +1733,8 @@
                 "de": "Lassen Sie den Motor nicht unnötig laufen.",
                 "hu": "Ne járassa feleslegesen a motort.",
                 "ro": "Nu lăsați motorul pornit inutil.",
-                "en": "Do not leave the engine running unnecessarily."
+                "en": "Do not leave the engine running unnecessarily.",
+                "cs": "Nenechávejte zbytečně běžet motor."
               }
             },
             {
@@ -1613,7 +1743,8 @@
                 "de": "Kurzer Fußweg vom Parkplatz.",
                 "hu": "Rövid gyalogút a parkolótól.",
                 "ro": "Scurt drum pe jos de la parcare.",
-                "en": "Short walk from the parking area."
+                "en": "Short walk from the parking area.",
+                "cs": "Krátká procházka z parkoviště."
               }
             },
             {
@@ -1622,7 +1753,8 @@
                 "de": "Zentrale Parkplätze sind oft schnell geräumt.",
                 "hu": "A központi parkolókat gyakran hamar letakarítják.",
                 "ro": "Parcările centrale sunt adesea curățate rapid.",
-                "en": "Central parking spots are often cleared quickly."
+                "en": "Central parking spots are often cleared quickly.",
+                "cs": "Centrální parkovací místa jsou často rychle uklízená."
               }
             },
             {
@@ -1631,7 +1763,8 @@
                 "de": "Genießen Sie die Wärme im Auto nach dem Walk.",
                 "hu": "Élvezze a meleget az autóban a séta után.",
                 "ro": "Bucurați-vă de căldura din mașină după plimbare.",
-                "en": "Enjoy the warmth in the car after the walk."
+                "en": "Enjoy the warmth in the car after the walk.",
+                "cs": "Po procházce si užijte teplo v autě."
               }
             }
           ],
@@ -1659,6 +1792,12 @@
               "Check the antifreeze in the wiper fluid.",
               "Winter tires are mandatory in this region.",
               "Watch out for wildlife near forested areas."
+            ],
+            "cs": [
+              "Mějte s sebou škrabku na led a kartáč.",
+              "Zkontrolujte nemrznoucí směs ve stěračích.",
+              "V této oblasti jsou povinné zimní pneumatiky.",
+              "Dejte pozor na zvěř v blízkosti zalesněných oblastí."
             ]
           }
         }
@@ -1677,7 +1816,8 @@
             "de": "Cluster 1: Stadtzentrum (zu Fuß)",
             "hu": "1. klaszter: Városközpont (gyalog)",
             "ro": "Cluster 1: Centrul orașului (pe jos)",
-            "en": "Cluster 1: City Center (on foot)"
+            "en": "Cluster 1: City Center (on foot)",
+            "cs": "Klastr 1: Centrum města (pěšky)"
           },
           "coords": [
             17.9955,
@@ -1693,7 +1833,8 @@
             "de": "Kommen Sie am Hauptbusbahnhof an und gehen Sie zum Unteren Platz.",
             "hu": "Érkezzen meg a fő buszpályaudvarra, és sétáljon az Alsó térre.",
             "ro": "Ajungeți la autogara principală și mergeți pe jos până la Piața de Jos.",
-            "en": "Arrive at the main bus station and walk to the Lower Square."
+            "en": "Arrive at the main bus station and walk to the Lower Square.",
+            "cs": "Přijeďte na hlavní autobusové nádraží a dojďte na Dolní náměstí."
           }
         },
         {
@@ -1701,7 +1842,8 @@
             "de": "Altes Rathaus & Oberer Platz",
             "hu": "Régi Városháza és Felső tér",
             "ro": "Primăria Veche și Piața de Sus",
-            "en": "Old Town Hall & Upper Square"
+            "en": "Old Town Hall & Upper Square",
+            "cs": "Stará radnice & Horní náměstí"
           },
           "coords": [
             17.9968,
@@ -1717,7 +1859,8 @@
             "de": "Erkunden Sie den Kern der Altstadt, alles ist nur wenige Gehminuten entfernt.",
             "hu": "Fedezze fel az óváros magját, minden sétatávolságra van.",
             "ro": "Explorați nucleul orașului vechi, totul este la câțiva pași.",
-            "en": "Explore the core of the old town, everything is within walking distance."
+            "en": "Explore the core of the old town, everything is within walking distance.",
+            "cs": "Prozkoumejte jádro starého města, vše je na dosah pěšky."
           }
         },
         {
@@ -1725,7 +1868,8 @@
             "de": "Cluster 2: Schlossbereich",
             "hu": "2. klaszter: Kastély környéke",
             "ro": "Cluster 2: Zona Castelului",
-            "en": "Cluster 2: Castle Area"
+            "en": "Cluster 2: Castle Area",
+            "cs": "Klastr 2: Oblast zámku"
           },
           "coords": [
             17.9942,
@@ -1741,7 +1885,8 @@
             "de": "Nehmen Sie einen lokalen Bus zum Schloss. Die Haltestelle ist in der Nähe.",
             "hu": "Menjen helyi busszal a kastélyhoz. A megálló a közelben van.",
             "ro": "Luați un autobuz local până la castel. Stația este în apropiere.",
-            "en": "Take a local bus to the castle. The stop is nearby."
+            "en": "Take a local bus to the castle. The stop is nearby.",
+            "cs": "Jeďte místním autobusem na zámek. Zastávka je poblíž."
           }
         },
         {
@@ -1749,7 +1894,8 @@
             "de": "Mittagessen in der Nähe des Schlosses",
             "hu": "Ebéd a kastély közelében",
             "ro": "Prânz lângă castel",
-            "en": "Lunch near the Castle"
+            "en": "Lunch near the Castle",
+            "cs": "Oběd u zámku"
           },
           "coords": [
             17.9935,
@@ -1765,7 +1911,8 @@
             "de": "Es gibt mehrere Restaurants am Fuße des Schlosshügels.",
             "hu": "A várhegy lábánál több étterem is található.",
             "ro": "Există mai multe restaurante la poalele dealului castelului.",
-            "en": "There are several restaurants at the foot of the castle hill."
+            "en": "There are several restaurants at the foot of the castle hill.",
+            "cs": "U paty zámku je několik restaurací."
           }
         },
         {
@@ -1773,7 +1920,8 @@
             "de": "Cluster 3: Monument & Kirche",
             "hu": "3. klaszter: Emlékmű és templom",
             "ro": "Cluster 3: Monument și Biserică",
-            "en": "Cluster 3: Monument & Church"
+            "en": "Cluster 3: Monument & Church",
+            "cs": "Klastr 3: Pomník & Kostel"
           },
           "coords": [
             17.991,
@@ -1789,7 +1937,8 @@
             "de": "Eine weitere kurze Busfahrt bringt Sie zum Denkmal der Befreiung.",
             "hu": "Egy újabb rövid buszút visz a Felszabadulási emlékműhöz.",
             "ro": "O altă scurtă călătorie cu autobuzul vă duce la Monumentul Eliberării.",
-            "en": "Another short bus ride takes you to the Liberation Monument."
+            "en": "Another short bus ride takes you to the Liberation Monument.",
+            "cs": "Další krátká jízda autobusem vás dovede k Pomníku osvobození."
           }
         },
         {
@@ -1797,7 +1946,8 @@
             "de": "Kirche Mariä Himmelfahrt",
             "hu": "Mária Mennybemenetele templom",
             "ro": "Biserica Adormirea Maicii Domnului",
-            "en": "Church of the Assumption"
+            "en": "Church of the Assumption",
+            "cs": "Kostel Nanebevzetí"
           },
           "coords": [
             17.9988,
@@ -1813,7 +1963,8 @@
             "de": "Beenden Sie Ihre Tour mit einem Besuch dieser schönen Kirche, bevor Sie zurück zum Bahnhof gehen.",
             "hu": "Fejezze be a túrát ennek a gyönyörű templomnak a meglátogatásával, mielőtt visszasétálna az állomásra.",
             "ro": "Încheiați turul cu o vizită la această biserică frumoasă înainte de a vă întoarce pe jos la gară.",
-            "en": "End your tour with a visit to this beautiful church before walking back to the station."
+            "en": "End your tour with a visit to this beautiful church before walking back to the station.",
+            "cs": "Ukončete prohlídku návštěvou tohoto krásného kostela, než se vydáte zpět na nádraží."
           }
         }
       ],
@@ -1821,7 +1972,8 @@
         "de": "Mit den öffentlichen Verkehrsmitteln erleben Sie Vsetín wie ein Einheimischer. Der Tag beginnt im Herzen der Stadt, wo Sie die Plätze und das Rathaus zu Fuß erkunden. Eine kurze Busfahrt bringt Sie am Mittag zum majestätischen Schloss. Nach einem stärkenden Mittagessen geht es weiter mit dem Bus zu weiteren historischen Stätten. Der Nachmittag bietet eine Mischung aus Nachdenklichkeit am Denkmal und spiritueller Ruhe in der Kirche, alles bequem mit dem Bus und kurzen Spaziergängen verbunden.",
         "hu": "A tömegközlekedéssel úgy élheti át Vsetínt, mint egy helyi. A nap a város szívében kezdődik, ahol gyalog fedezi fel a tereket és a városházát. Egy rövid buszút visz a fenséges kastélyhoz délben. Egy kiadós ebéd után busszal folytatja útját további történelmi helyszínek felé. A délután az emlékműnél való elmélkedés és a templomban való spirituális béke keverékét kínálja, mindezt kényelmesen busszal és rövid sétákkal kombinálva.",
         "ro": "Folosind transportul public, veți experimenta Vsetín ca un localnic. Ziua începe în inima orașului, explorând piețele și primăria pe jos. O scurtă călătorie cu autobuzul vă duce la castelul maiestuos la prânz. După un prânz consistent, continuați cu autobuzul către alte situri istorice. După-amiaza oferă un amestec de reflecție la monument și pace spirituală la biserică, toate conectate convenabil cu autobuzul și plimbări scurte.",
-        "en": "Using public transport, you'll experience Vsetín like a local. The day begins in the heart of the city, exploring the squares and town hall on foot. A short bus ride takes you to the majestic castle at midday. After a hearty lunch, you'll continue by bus to other historical sites. The afternoon offers a mix of reflection at the monument and spiritual peace in the church, all conveniently connected by bus and short walks."
+        "en": "Using public transport, you'll experience Vsetín like a local. The day begins in the heart of the city, exploring the squares and town hall on foot. A short bus ride takes you to the majestic castle at midday. After a hearty lunch, you'll continue by bus to other historical sites. The afternoon offers a mix of reflection at the monument and spiritual peace in the church, all conveniently connected by bus and short walks.",
+        "cs": "Veřejnou dopravou zažijete Vsetín jako místní. Den začíná v srdci města procházkou po náměstích a radnici. Krátká jízda autobusem vás v poledne přiveze k majestátnímu zámku. Po vydatném obědě pokračujete autobusem k dalším historickým památkám. Odpoledne nabízí mix rozjímání u památníku a duchovního klidu v kostele, vše pohodlně propojené autobusem a krátkými procházkami."
       },
       "gastro_picks": {
         "de": [
@@ -2017,6 +2169,12 @@
           "Download or take a screenshot of the bus schedule.",
           "Be aware that buses in smaller towns may run less frequently in the evening and on weekends.",
           "Signal the driver when you want to get off at a stop."
+        ],
+        "cs": [
+          "Kupte si celodenní jízdenku na autobus, pokud plánujete více jízd.",
+          "Stáhněte si nebo vyfoťte jízdní řád autobusu.",
+          "Mějte na paměti, že v menších obcích mohou autobusy jezdit večer a o víkendech méně často.",
+          "Dejte řidiči znamení, když chcete vystoupit na zastávce."
         ]
       },
       "variants": {
@@ -2025,7 +2183,8 @@
             "de": "Mit dem Bus erkunden wir Vsetín auch bei Regen flexibel. Morgens starten wir im Zentrum und nutzen die Wartehallen. Mittags verbringen wir viel Zeit im Schloss Vsetín, das gut erreichbar ist. Nach dem Mittagessen besuchen wir die historischen Gebäude und das Denkmal, wobei wir stets kurze Wege zu den Bushaltestellen wählen.",
             "hu": "Busszal esőben is rugalmasan fedezhetjük fel Vsetínt. Reggel a központban kezdünk, kihasználva a várótermeket. Délben sok időt töltünk a jól megközelíthető Vsetíni Várban. Ebéd után a történelmi épületeket és az emlékművet látogatjuk meg, ügyelve a buszmegállók közelségére.",
             "ro": "Cu autobuzul explorăm Vsetín flexibil chiar și pe ploaie. Dimineața începem în centru și folosim sălile de așteptare. La prânz petrecem mult timp la Castelul Vsetín, care este ușor accesibil. După prânz vizităm clădirile istorice și monumentul.",
-            "en": "By bus, we explore Vsetín flexibly even in the rain. In the morning, we start in the center and use the waiting halls. At midday, we spend plenty of time at the easily accessible Vsetín Castle. After lunch, we visit historical buildings and the monument, always choosing short paths to bus stops."
+            "en": "By bus, we explore Vsetín flexibly even in the rain. In the morning, we start in the center and use the waiting halls. At midday, we spend plenty of time at the easily accessible Vsetín Castle. After lunch, we visit historical buildings and the monument, always choosing short paths to bus stops.",
+            "cs": "Autobusem prozkoumáváme Vsetín flexibilně i v dešti. Ráno začínáme v centru a využíváme čekárny. V poledne trávíme dost času snadno dostupným zámkem Vsetín. Po obědě navštěvujeme historické budovy a památník, vždy volíme krátké cesty k zastávkám."
           },
           "stops": [
             {
@@ -2034,7 +2193,8 @@
                 "de": "Nutzen Sie den Bahnhof als trockenen Startpunkt.",
                 "hu": "Használja az állomást száraz indulópontként.",
                 "ro": "Folosiți gara ca punct de plecare uscat.",
-                "en": "Use the train station as a dry starting point."
+                "en": "Use the train station as a dry starting point.",
+                "cs": "Použijte nádraží jako suchý výchozí bod."
               }
             },
             {
@@ -2043,7 +2203,8 @@
                 "de": "Die nächste Haltestelle ist nur 2 Minuten entfernt.",
                 "hu": "A legközelebbi megálló csak 2 percre van.",
                 "ro": "Cea mai apropiată stație este la doar 2 minute.",
-                "en": "The nearest stop is only 2 minutes away."
+                "en": "The nearest stop is only 2 minutes away.",
+                "cs": "Nejbližší zastávka je jen 2 minuty daleko."
               }
             },
             {
@@ -2052,7 +2213,8 @@
                 "de": "Der Bus hält fast direkt vor dem Schloss.",
                 "hu": "A busz szinte közvetlenül a vár előtt áll meg.",
                 "ro": "Autobuzul oprește aproape direct în fața castelului.",
-                "en": "The bus stops almost directly in front of the castle."
+                "en": "The bus stops almost directly in front of the castle.",
+                "cs": "Autobus zastavuje téměř přímo před zámkem."
               }
             },
             {
@@ -2061,7 +2223,8 @@
                 "de": "Regenschirm für den kurzen Weg zum Restaurant.",
                 "hu": "Esernyő az étteremig tartó rövid útra.",
                 "ro": "Umbrelă pentru drumul scurt până la restaurant.",
-                "en": "Umbrella for the short walk to the restaurant."
+                "en": "Umbrella for the short walk to the restaurant.",
+                "cs": "Deštník na krátkou procházku do restaurace."
               }
             },
             {
@@ -2070,7 +2233,8 @@
                 "de": "Hinterstellen Sie sich bei Schauern an der Haltestelle.",
                 "hu": "Húzódjon be a megállóba, ha elered az eső.",
                 "ro": "Adăpostiți-vă în stație dacă începe ploaia.",
-                "en": "Take cover in the stop during showers."
+                "en": "Take cover in the stop during showers.",
+                "cs": "Přikrčte se v zastávce během přeháněk."
               }
             },
             {
@@ -2079,7 +2243,8 @@
                 "de": "Prüfen Sie die Abfahrtszeiten online.",
                 "hu": "Ellenőrizze az indulási időket online.",
                 "ro": "Verificați orele de plecare online.",
-                "en": "Check departure times online."
+                "en": "Check departure times online.",
+                "cs": "Zkontrolujte časy odjezdů online."
               }
             }
           ],
@@ -2107,6 +2272,12 @@
               "Bus stations usually offer good rain protection.",
               "Have small change or a card ready.",
               "Wait in local cafes until the next bus arrives."
+            ],
+            "cs": [
+              "Použijte aplikaci pro aktuální odjezdy v reálném čase.",
+              "Autobusové zastávky obvykle poskytují dobrou ochranu proti dešti.",
+              "Mějte připravenou drobnou hotovost nebo kartu.",
+              "Počkejte v místních kavárnách do příjezdu dalšího autobusu."
             ]
           }
         },
@@ -2115,7 +2286,8 @@
             "de": "Im Winter ist der Bus das wärmste Fortbewegungsmittel. Wir starten im Stadtzentrum und fahren zum Schloss Vsetín, um die Kälte draußen zu lassen. Nach dem Besuch wärmen wir uns bei einem Mittagessen auf und besichtigen nachmittags die historischen Kirchen. Die Tour endet gemütlich im Bus zurück zum Ausgangspunkt, während draußen der Schnee fällt.",
             "hu": "Télen a busz a legmelegebb közlekedési eszköz. A városközpontból indulunk és a Vsetíni Várhoz utazunk, kint hagyva a hideget. A látogatás után egy ebéddel melegszünk fel, délután pedig a történelmi templomokat keressük fel. A túra kényelmesen, a buszon ülve ér véget, miközben kint esik a hó.",
             "ro": "Iarna, autobuzul este cel mai călduros mijloc de transport. Începem în centrul orașului și mergem la Castelul Vsetín pentru a lăsa frigul afară. După vizită ne încălzim la prânz și vizităm bisericile istorice. Turul se încheie confortabil în autobuz, în timp ce afară ninge.",
-            "en": "In winter, the bus is the warmest way to get around. We start in the city center and ride to Vsetín Castle to leave the cold outside. After the visit, we warm up with lunch and visit the historic churches in the afternoon. The tour ends comfortably on the bus back to the start, while snow falls outside."
+            "en": "In winter, the bus is the warmest way to get around. We start in the city center and ride to Vsetín Castle to leave the cold outside. After the visit, we warm up with lunch and visit the historic churches in the afternoon. The tour ends comfortably on the bus back to the start, while snow falls outside.",
+            "cs": "V zimě je autobusem nejteplejší doprava. Začínáme v centru a jedeme ke zámku Vsetín, abychom nechali chlad venku. Po návštěvě se zahřejeme u oběda a odpoledne navštívíme historické kostely. Prohlídka pohodlně končí autobusem zpět na startu, zatímco venku sněží."
           },
           "stops": [
             {
@@ -2124,7 +2296,8 @@
                 "de": "Beheizte Wartebereiche im Bahnhof nutzen.",
                 "hu": "Használja a fűtött várótermet az állomáson.",
                 "ro": "Folosiți zonele de așteptare încălzite din gară.",
-                "en": "Use heated waiting areas in the station."
+                "en": "Use heated waiting areas in the station.",
+                "cs": "Využijte vytopené čekárny na nádraží."
               }
             },
             {
@@ -2133,7 +2306,8 @@
                 "de": "Kurze Wege minimieren die Kältebelastung.",
                 "hu": "A rövid távok csökkentik a hidegérzetet.",
                 "ro": "Distanțele scurte minimizează expunerea la frig.",
-                "en": "Short distances minimize cold exposure."
+                "en": "Short distances minimize cold exposure.",
+                "cs": "Krátké vzdálenosti minimalizují vystavení chladu."
               }
             },
             {
@@ -2142,7 +2316,8 @@
                 "de": "Der Bus bringt Sie fast bis vor die Schlosstür.",
                 "hu": "A busz szinte a vár kapujáig viszi.",
                 "ro": "Autobuzul vă duce aproape până la poarta castelului.",
-                "en": "The bus takes you almost to the castle door."
+                "en": "The bus takes you almost to the castle door.",
+                "cs": "Autobus vás odveze téměř ke dveřím zámku."
               }
             },
             {
@@ -2151,7 +2326,8 @@
                 "de": "Suchen Sie Plätze fern von zugigen Türen.",
                 "hu": "Keressen helyet távol a huzatos ajtóktól.",
                 "ro": "Căutați locuri departe de ușile cu curent.",
-                "en": "Find seats away from drafty doors."
+                "en": "Find seats away from drafty doors.",
+                "cs": "Najděte si sedadla daleko od průvanu u dveří."
               }
             },
             {
@@ -2160,7 +2336,8 @@
                 "de": "Fahrpläne können bei Schnee leicht abweichen.",
                 "hu": "A menetrend hóban kissé eltérhet.",
                 "ro": "Orarele pot varia ușor în caz de zăpadă.",
-                "en": "Schedules may vary slightly in snow."
+                "en": "Schedules may vary slightly in snow.",
+                "cs": "Jízdní řády se mohou při sněhu mírně lišit."
               }
             },
             {
@@ -2169,7 +2346,8 @@
                 "de": "Genießen Sie die warme Fahrt zum Abschluss.",
                 "hu": "Élvezze a meleg utazást a végén.",
                 "ro": "Bucurați-vă de drumul călduros la final.",
-                "en": "Enjoy the warm ride at the end."
+                "en": "Enjoy the warm ride at the end.",
+                "cs": "Užijte si teplou jízdu na konci dne."
               }
             }
           ],
@@ -2197,6 +2375,12 @@
               "Buses are usually well heated in winter.",
               "Be careful when getting on and off on ice.",
               "Wear a hat and scarf for the waiting time."
+            ],
+            "cs": [
+              "Naplánujte si časovou rezervu během sněžení.",
+              "Autobusy jsou v zimě obvykle dobře vytopené.",
+              "Buďte opatrní při nastupování a vystupování na ledě.",
+              "Na čekání noste čepici a šálu."
             ]
           }
         }

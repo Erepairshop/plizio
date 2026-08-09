@@ -21,7 +21,8 @@
             "de": "Ankunft am Marktplatz",
             "hu": "Érkezés a Fő térre",
             "ro": "Sosire în Piața Centrală",
-            "en": "Arrival at the Main Square"
+            "en": "Arrival at the Main Square",
+            "cs": "Příjezd na Horní náměstí"
           },
           "coords": [
             14.5375,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie das Alte Rathaus und die Pestsäule in der Mitte.",
             "hu": "Csodálja meg a régi városházát és a központi pestisoszlopot.",
             "ro": "Admirați Vechea Primărie și coloana ciumei din centru.",
-            "en": "Admire the Old Town Hall and the plague column in the center."
+            "en": "Admire the Old Town Hall and the plague column in the center.",
+            "cs": "Obdivujte Starou radnici a morový sloup v centru."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Heilig-Kreuz-Kirche",
             "hu": "Szent Kereszt-templom",
             "ro": "Biserica Sfânta Cruce",
-            "en": "Church of the Holy Cross"
+            "en": "Church of the Holy Cross",
+            "cs": "Kostel Nejsvětějšího Kříže"
           },
           "coords": [
             14.5392,
@@ -59,7 +62,8 @@
             "de": "Achten Sie auf die barocke Innenausstattung und die Deckenfresken.",
             "hu": "Figyelje meg a barokk belső teret és a mennyezeti freskókat.",
             "ro": "Observați interiorul baroc și frescele de pe tavan.",
-            "en": "Pay attention to the baroque interior and the ceiling frescoes."
+            "en": "Pay attention to the baroque interior and the ceiling frescoes.",
+            "cs": "Věnujte pozornost baroknímu interiéru a freskám na stropě."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Augustinerkloster & Museum",
             "hu": "Ágoston-rendi kolostor és Múzeum",
             "ro": "Mănăstirea Augustiniană și Muzeul",
-            "en": "Augustinian Monastery & Museum"
+            "en": "Augustinian Monastery & Museum",
+            "cs": "Augustiniánský klášter a muzeum"
           },
           "coords": [
             14.5399,
@@ -82,7 +87,8 @@
             "de": "Das Museum beherbergt eine beeindruckende Sammlung zur Regionalgeschichte.",
             "hu": "A múzeum lenyűgöző gyűjteményt őriz a régió történelméről.",
             "ro": "Muzeul găzduiește o colecție impresionantă despre istoria regională.",
-            "en": "The museum houses an impressive collection on regional history."
+            "en": "The museum houses an impressive collection on regional history.",
+            "cs": "Muzeum vystavuje impozantní sbírku regionální historie."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Wasserburg Lipý",
             "hu": "Lipý Vízivár",
             "ro": "Castelul de apă Lipý",
-            "en": "Lipý Water Castle"
+            "en": "Lipý Water Castle",
+            "cs": "Vodní hrad Lipý"
           },
           "coords": [
             14.5321,
@@ -105,7 +112,8 @@
             "de": "Erkunden Sie die Ruinen und den Innenhof dieser einzigartigen gotischen Burg.",
             "hu": "Fedezze fel ennek az egyedülálló gótikus várnak a romjait és udvarát.",
             "ro": "Explorați ruinele și curtea acestui castel gotic unic.",
-            "en": "Explore the ruins and the courtyard of this unique Gothic castle."
+            "en": "Explore the ruins and the courtyard of this unique Gothic castle.",
+            "cs": "Prozkoumejte ruiny a nádvoří tohoto jedinečného gotického hradu."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Mittagessen in der Altstadt",
             "hu": "Ebéd az Óvárosban",
             "ro": "Prânz în orașul vechi",
-            "en": "Lunch in the Old Town"
+            "en": "Lunch in the Old Town",
+            "cs": "Oběd ve starém městě"
           },
           "coords": [
             14.5365,
@@ -128,7 +137,8 @@
             "de": "Probieren Sie die böhmische Küche in einem der traditionellen Restaurants.",
             "hu": "Kóstolja meg a cseh konyhát egy hagyományos étteremben.",
             "ro": "Încercați bucătăria boemă la unul dintre restaurantele tradiționale.",
-            "en": "Try some Bohemian cuisine in one of the traditional restaurants."
+            "en": "Try some Bohemian cuisine in one of the traditional restaurants.",
+            "cs": "Vyzkoušejte některou z tradičních českých kuchyní v místních restauracích."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Stadtpark",
             "hu": "Városi park",
             "ro": "Parcul Municipal",
-            "en": "City Park"
+            "en": "City Park",
+            "cs": "Městský park"
           },
           "coords": [
             14.5445,
@@ -151,7 +162,8 @@
             "de": "Ein perfekter Ort für einen entspannten Spaziergang am Nachmittag.",
             "hu": "Tökéletes hely egy pihentető délutáni sétához.",
             "ro": "Un loc perfect pentru o plimbare relaxantă de după-amiază.",
-            "en": "A perfect spot for a relaxing afternoon walk."
+            "en": "A perfect spot for a relaxing afternoon walk.",
+            "cs": "Perfektní místo na relaxační odpolední procházku."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Špičák Aussichtsturm",
             "hu": "Špičák-kilátó",
             "ro": "Turnul de observație Špičák",
-            "en": "Špičák Lookout Tower"
+            "en": "Špičák Lookout Tower",
+            "cs": "Rozhledna Špičák"
           },
           "coords": [
             14.551,
@@ -174,7 +187,8 @@
             "de": "Genießen Sie den Panoramablick über die Stadt und die Lausitzer Berge.",
             "hu": "Élvezze a panorámát a városra és a Lausitzi-hegységre.",
             "ro": "Bucurați-vă de vederea panoramică asupra orașului și a Munților Lusatian.",
-            "en": "Enjoy the panoramic view over the city and the Lusatian Mountains."
+            "en": "Enjoy the panoramic view over the city and the Lusatian Mountains.",
+            "cs": "Užijte si panoramatický výhled na město a Lužické hory."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Ihr Tag in Böhmisch Leipa beginnt am historischen Marktplatz, dem pulsierenden Herzen der Stadt. Am Vormittag erkunden Sie das religiöse und kulturelle Erbe, darunter das Augustinerkloster. Nach dem Mittagessen in einem traditionellen böhmischen Restaurant entdecken Sie die einzigartige Wasserburg Lipý. Der Nachmittag ist einem entspannten Spaziergang durch den Stadtpark gewidmet, bevor Sie den Tag mit einem atemberaubenden Panoramablick vom Špičák-Aussichtsturm abschließen, der einen weiten Blick über die malerische Landschaft bietet.",
         "hu": "Böhmisch Leipa-i napja a történelmi Fő téren, a város lüktető szívében kezdődik. Délelőtt felfedezi a vallási és kulturális örökséget, köztük az Ágoston-rendi kolostort. Egy hagyományos cseh étteremben elköltött ebéd után a különleges Lipý vízvár várja. A délután egy pihentető sétával telik a városi parkban, mielőtt a napot a Špičák-kilátóból nyíló lélegzetelállító panorámával zárja, ahonnan messzire ellátni a festői tájon.",
         "ro": "Ziua dvs. în Böhmisch Leipa începe în Piața Centrală istorică, inima vibrantă a orașului. Dimineața explorați moștenirea religioasă și culturală, inclusiv Mănăstirea Augustiniană. După prânzul la un restaurant tradițional boem, veți descoperi unicul castel de apă Lipý. După-amiaza este dedicată unei plimbări relaxante prin Parcul Municipal, înainte de a încheia ziua cu o priveliște panoramică uluitoare de la turnul de observație Špičák, care oferă o vedere amplă asupra peisajului pitoresc.",
-        "en": "Your day in Böhmisch Leipa begins at the historic Main Square, the vibrant heart of the city. In the morning, you'll explore the religious and cultural heritage, including the Augustinian Monastery. After lunch at a traditional Bohemian restaurant, you will discover the unique Lipý water castle. The afternoon is dedicated to a relaxing walk through the City Park, before concluding the day with a breathtaking panoramic view from the Špičák lookout tower, offering a wide vista over the picturesque landscape."
+        "en": "Your day in Böhmisch Leipa begins at the historic Main Square, the vibrant heart of the city. In the morning, you'll explore the religious and cultural heritage, including the Augustinian Monastery. After lunch at a traditional Bohemian restaurant, you will discover the unique Lipý water castle. The afternoon is dedicated to a relaxing walk through the City Park, before concluding the day with a breathtaking panoramic view from the Špičák lookout tower, offering a wide vista over the picturesque landscape.",
+        "cs": "Váš den v Böhmisch Leipa začíná na historickém Horním náměstí, živém srdci města. Dopoledne prozkoumáte náboženské a kulturní památky, včetně Augustiniánského kláštera. Po obědě v tradiční bohémské restauraci objevíte jedinečný vodní hrad Lipý. Odpoledne je věnováno odpočinkové procházce Městským parkem a den zakončíte dechberoucím panoramatem z rozhledny Špičák, která nabízí široký výhled na malebnou krajinu."
       },
       "gastro_picks": {
         "de": [
@@ -374,6 +389,11 @@
           "Wear comfortable shoes as you will be doing a lot of walking.",
           "Most sights in the center are easily reachable on foot.",
           "Allow enough time for the climb up to Špičák tower."
+        ],
+        "cs": [
+          "Noste pohodlnou obuv, protože budete hodně chodit.",
+          "Většina památek v centru je snadno dostupná pěšky.",
+          "Vyhraďte si dostatek času na výstup na rozhlednu Špičák."
         ]
       }
     },
@@ -390,7 +410,8 @@
             "de": "Fahrradverleih & Start am Marktplatz",
             "hu": "Kerékpárbérlés és indulás a Fő térről",
             "ro": "Închiriere bicicletă și start din Piața Centrală",
-            "en": "Bike Rental & Start at the Main Square"
+            "en": "Bike Rental & Start at the Main Square",
+            "cs": "Půjčovna kol a start na náměstí"
           },
           "coords": [
             14.5378,
@@ -405,7 +426,8 @@
             "de": "Prüfen Sie Ihr Fahrrad und die Route, bevor Sie losfahren.",
             "hu": "Indulás előtt ellenőrizze a kerékpárt és az útvonalat.",
             "ro": "Verificați bicicleta și traseul înainte de a porni.",
-            "en": "Check your bike and route before you set off."
+            "en": "Check your bike and route before you set off.",
+            "cs": "Zkontrolujte kolo a trasu před vyjetím."
           }
         },
         {
@@ -413,7 +435,8 @@
             "de": "Heilig-Kreuz-Kirche",
             "hu": "Szent Kereszt-templom",
             "ro": "Biserica Sfânta Cruce",
-            "en": "Church of the Holy Cross"
+            "en": "Church of the Holy Cross",
+            "cs": "Kostel sv. Kříže"
           },
           "coords": [
             14.5392,
@@ -428,7 +451,8 @@
             "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie die Kirche betreten.",
             "hu": "Zárja le biztonságosan a kerékpárt, mielőtt belép a templomba.",
             "ro": "Asigurați-vă bicicleta înainte de a intra în biserică.",
-            "en": "Lock your bike securely before entering the church."
+            "en": "Lock your bike securely before entering the church.",
+            "cs": "Před vstupem do kostela řádně zamkněte kolo."
           }
         },
         {
@@ -436,7 +460,8 @@
             "de": "Augustinerkloster & Museum",
             "hu": "Ágoston-rendi kolostor és Múzeum",
             "ro": "Mănăstirea Augustiniană și Muzeul",
-            "en": "Augustinian Monastery & Museum"
+            "en": "Augustinian Monastery & Museum",
+            "cs": "Augustiniánský klášter a muzeum"
           },
           "coords": [
             14.5399,
@@ -451,7 +476,8 @@
             "de": "Planen Sie genügend Zeit ein, um die Exponate in Ruhe zu betrachten.",
             "hu": "Szánjon elég időt a kiállítási tárgyak nyugodt megtekintésére.",
             "ro": "Planificați suficient timp pentru a vedea exponatele în tihnă.",
-            "en": "Allow enough time to view the exhibits at your leisure."
+            "en": "Allow enough time to view the exhibits at your leisure.",
+            "cs": "Vyhraďte si čas na klidné prohlédnutí expozic."
           }
         },
         {
@@ -459,7 +485,8 @@
             "de": "Wasserburg Lipý",
             "hu": "Lipý Vízivár",
             "ro": "Castelul de apă Lipý",
-            "en": "Lipý Water Castle"
+            "en": "Lipý Water Castle",
+            "cs": "Vodní hrad Lipý"
           },
           "coords": [
             14.5321,
@@ -474,7 +501,8 @@
             "de": "Ein kurzer, aber lohnender Abstecher vom Stadtzentrum.",
             "hu": "Egy rövid, de megérő kitérő a városközponttól.",
             "ro": "Un ocol scurt, dar care merită, din centrul orașului.",
-            "en": "A short but worthwhile detour from the city center."
+            "en": "A short but worthwhile detour from the city center.",
+            "cs": "Krátká, ale hodnotná odbočka z centra města."
           }
         },
         {
@@ -482,7 +510,8 @@
             "de": "Zentrumstextil",
             "hu": "Zentrumstextil",
             "ro": "Zentrumstextil",
-            "en": "Zentrumstextil"
+            "en": "Zentrumstextil",
+            "cs": "Zentrumstextil"
           },
           "coords": [
             14.529,
@@ -497,7 +526,8 @@
             "de": "Ein kurzer Blick auf die industrielle Vergangenheit der Stadt.",
             "hu": "Egy rövid bepillantás a város ipari múltjába.",
             "ro": "O scurtă privire asupra trecutului industrial al orașului.",
-            "en": "A brief look at the city's industrial past."
+            "en": "A brief look at the city's industrial past.",
+            "cs": "Krátký pohled do průmyslové minulosti města."
           }
         },
         {
@@ -505,7 +535,8 @@
             "de": "Mittagessen",
             "hu": "Ebéd",
             "ro": "Prânz",
-            "en": "Lunch"
+            "en": "Lunch",
+            "cs": "Oběd"
           },
           "coords": [
             14.5365,
@@ -520,7 +551,8 @@
             "de": "Stärken Sie sich für die Radtour am Nachmittag.",
             "hu": "Erősítsen a délutáni kerékpártúrára.",
             "ro": "Întăriți-vă pentru turul de biciclete de după-amiază.",
-            "en": "Refuel for the afternoon bike ride."
+            "en": "Refuel for the afternoon bike ride.",
+            "cs": "Načerpejte energii na odpolední vyjížďku na kole."
           }
         },
         {
@@ -528,7 +560,8 @@
             "de": "Radtour zum Stadtpark",
             "hu": "Kerékpártúra a Városi Parkba",
             "ro": "Tur cu bicicleta la Parcul Municipal",
-            "en": "Bike ride to the City Park"
+            "en": "Bike ride to the City Park",
+            "cs": "Projížďka na kole do městského parku"
           },
           "coords": [
             14.5445,
@@ -543,7 +576,8 @@
             "de": "Genießen Sie die Fahrt durch die grünen Lungen der Stadt.",
             "hu": "Élvezze a tekerést a város zöld tüdején keresztül.",
             "ro": "Bucurați-vă de plimbarea prin plămânii verzi ai orașului.",
-            "en": "Enjoy the ride through the city's green lungs."
+            "en": "Enjoy the ride through the city's green lungs.",
+            "cs": "Užijte si jízdu městskými „zelenými plícemi“."
           }
         },
         {
@@ -551,7 +585,8 @@
             "de": "Špičák Aussichtsturm",
             "hu": "Špičák-kilátó",
             "ro": "Turnul de observație Špičák",
-            "en": "Špičák Lookout Tower"
+            "en": "Špičák Lookout Tower",
+            "cs": "Rozhledna Špičák"
           },
           "coords": [
             14.551,
@@ -566,7 +601,8 @@
             "de": "Der Anstieg ist die Aussicht wert. Planen Sie Zeit zum Ausruhen ein.",
             "hu": "Az emelkedő megéri a kilátást. Szánjon időt a pihenésre.",
             "ro": "Urcușul merită priveliștea. Planificați timp pentru odihnă.",
-            "en": "The climb is worth the view. Plan time to rest."
+            "en": "The climb is worth the view. Plan time to rest.",
+            "cs": "Výstup stojí za výhled. Naplánujte si čas na odpočinek."
           }
         }
       ],
@@ -574,7 +610,8 @@
         "de": "Schwingen Sie sich aufs Rad und entdecken Sie Böhmisch Leipa auf zwei Rädern. Der Morgen führt Sie durch das historische Zentrum, vorbei an der Heilig-Kreuz-Kirche und zum Augustinerkloster. Ein Abstecher zur Wasserburg Lipý und ein Blick auf das industrielle Erbe bei Zentrumstextil runden den Vormittag ab. Nach einem stärkenden Mittagessen radeln Sie gemütlich zum Stadtpark. Der Höhepunkt des Nachmittags ist die Fahrt zum Špičák-Aussichtsturm, wo eine anspruchsvolle, aber lohnende Strecke mit einem unvergesslichen Panoramablick belohnt wird.",
         "hu": "Pattanjon kerékpárra, és fedezze fel Böhmisch Leipa-t két keréken. A délelőtt a történelmi központon vezet keresztül, elhaladva a Szent Kereszt-templom mellett és az Ágoston-rendi kolostorhoz. Egy kitérő a Lipý vízi várhoz és egy pillantás a Zentrumstextil ipari örökségére teszi teljessé a délelőttöt. Egy frissítő ebéd után kényelmesen tekerjen el a városi parkba. A délután csúcspontja a Špičák-kilátóhoz vezető út, ahol egy kihívást jelentő, de annál kifizetődőbb szakasz várja, amelyet felejthetetlen panoráma koronáz meg.",
         "ro": "Urcați-vă pe bicicletă și descoperiți Böhmisch Leipa pe două roți. Dimineața vă poartă prin centrul istoric, pe lângă Biserica Sfânta Cruce și la Mănăstirea Augustiniană. O abatere la castelul de apă Lipý și o privire la moștenirea industrială de la Zentrumstextil completează dimineața. După un prânz revigorant, pedalați agale spre Parcul Municipal. Punctul culminant al după-amiezii este drumul spre turnul de observație Špičák, unde un traseu provocator, dar plin de satisfacții, este răsplătit cu o priveliște panoramică de neuitat.",
-        "en": "Get on your bike and discover Böhmisch Leipa on two wheels. The morning takes you through the historic center, past the Church of the Holy Cross and to the Augustinian Monastery. A detour to the Lipý water castle and a look at the industrial heritage at Zentrumstextil round off the morning. After a refreshing lunch, cycle leisurely to the City Park. The highlight of the afternoon is the ride to the Špičák lookout tower, where a challenging but rewarding route is rewarded with an unforgettable panoramic view."
+        "en": "Get on your bike and discover Böhmisch Leipa on two wheels. The morning takes you through the historic center, past the Church of the Holy Cross and to the Augustinian Monastery. A detour to the Lipý water castle and a look at the industrial heritage at Zentrumstextil round off the morning. After a refreshing lunch, cycle leisurely to the City Park. The highlight of the afternoon is the ride to the Špičák lookout tower, where a challenging but rewarding route is rewarded with an unforgettable panoramic view.",
+        "cs": "Nasedněte na kolo a objevujte Českou Lípu na dvou kolech. Dopoledne vás zavede přes historické centrum, kolem kostela sv. Kříže až k augustiniánskému klášteru. Odbočka k vodnímu hradu Lipý a pohled na průmyslové dědictví v Zentrumstextil dopoledne příjemně doplní. Po osvěžujícím obědě se poklidně vydejte do Městského parku. Odpoledne je vrcholem jízda k rozhledně Špičák, kde vás náročnější, ale vděčná trasa odmění nezapomenutelným panoramatickým výhledem."
       },
       "gastro_picks": {
         "de": [
@@ -766,6 +803,11 @@
           "A helmet is strongly recommended.",
           "Take enough water for the tour, especially for the climb to Špičák.",
           "Pay attention to local traffic rules for cyclists."
+        ],
+        "cs": [
+          "Helma se důrazně doporučuje.",
+          "Vezměte si dostatek vody na trasu, zejména na výstup na Špičák.",
+          "Dbejte na místní pravidla silničního provozu pro cyklisty."
         ]
       }
     },
@@ -782,7 +824,8 @@
             "de": "Parken & Erkundung des Zentrums",
             "hu": "Parkolás és a központ felfedezése",
             "ro": "Parcare și explorarea centrului",
-            "en": "Parking & Exploring the Center"
+            "en": "Parking & Exploring the Center",
+            "cs": "Parkování a objevování centra"
           },
           "coords": [
             14.5378,
@@ -798,7 +841,8 @@
             "de": "Finden Sie einen zentralen Parkplatz, um das historische Herz zu Fuß zu erkunden.",
             "hu": "Keressen egy központi parkolót, hogy gyalog fedezhesse fel a történelmi belvárost.",
             "ro": "Găsiți o parcare centrală pentru a explora pe jos inima istorică.",
-            "en": "Find a central parking spot to explore the historic heart on foot."
+            "en": "Find a central parking spot to explore the historic heart on foot.",
+            "cs": "Najděte centrální parkovací místo a historické srdce objevujte pěšky."
           }
         },
         {
@@ -806,7 +850,8 @@
             "de": "Rathaus am Marktplatz",
             "hu": "Városháza a Fő téren",
             "ro": "Primăria din Piața Centrală",
-            "en": "Town Hall at the Main Square"
+            "en": "Town Hall at the Main Square",
+            "cs": "Radnice na hlavním náměstí"
           },
           "coords": [
             14.5375,
@@ -822,7 +867,8 @@
             "de": "Das Auto steht, jetzt beginnt der Spaziergang durch die Altstadt.",
             "hu": "Az autó leparkolva, kezdődhet a séta az óvárosban.",
             "ro": "Mașina este parcată, acum începe plimbarea prin orașul vechi.",
-            "en": "The car is parked, now the walk through the old town begins."
+            "en": "The car is parked, now the walk through the old town begins.",
+            "cs": "Auto zaparkované, teď začíná procházka starým městem."
           }
         },
         {
@@ -830,7 +876,8 @@
             "de": "Augustinerkloster & Museum",
             "hu": "Ágoston-rendi kolostor és Múzeum",
             "ro": "Mănăstirea Augustiniană și Muzeul",
-            "en": "Augustinian Monastery & Museum"
+            "en": "Augustinian Monastery & Museum",
+            "cs": "Augustiniánský klášter a muzeum"
           },
           "coords": [
             14.5399,
@@ -846,7 +893,8 @@
             "de": "Ein kurzer Spaziergang vom Marktplatz zum kulturellen Zentrum.",
             "hu": "Egy rövid séta a Fő tértől a kulturális központig.",
             "ro": "O scurtă plimbare din Piața Centrală până la centrul cultural.",
-            "en": "A short walk from the main square to the cultural center."
+            "en": "A short walk from the main square to the cultural center.",
+            "cs": "Krátká procházka z hlavního náměstí ke kulturnímu centru."
           }
         },
         {
@@ -854,7 +902,8 @@
             "de": "Fahrt zur Wasserburg Lipý",
             "hu": "Autóval a Lipý Vízivárhoz",
             "ro": "Cu mașina la Castelul de apă Lipý",
-            "en": "Drive to Lipý Water Castle"
+            "en": "Drive to Lipý Water Castle",
+            "cs": "Jízda autem k vodnímu hradu Lipý"
           },
           "coords": [
             14.5321,
@@ -870,7 +919,8 @@
             "de": "Zurück zum Auto für eine kurze Fahrt zur beeindruckenden Wasserburg.",
             "hu": "Vissza az autóhoz egy rövid útra a lenyűgöző vízi várhoz.",
             "ro": "Înapoi la mașină pentru un drum scurt până la impresionantul castel de apă.",
-            "en": "Back to the car for a short drive to the impressive water castle."
+            "en": "Back to the car for a short drive to the impressive water castle.",
+            "cs": "Zpátky do auta na krátkou jízdu k impozantnímu vodnímu hradu."
           }
         },
         {
@@ -878,7 +928,8 @@
             "de": "Archäologisches Museum",
             "hu": "Régészeti Múzeum",
             "ro": "Muzeul Arheologic",
-            "en": "Archaeological Museum"
+            "en": "Archaeological Museum",
+            "cs": "Archeologické muzeum"
           },
           "coords": [
             14.5315,
@@ -894,7 +945,8 @@
             "de": "Oft in der Nähe der Burg gelegen, ein schneller Spaziergang.",
             "hu": "Gyakran a vár közelében található, egy gyors séta.",
             "ro": "Adesea situat lângă castel, o plimbare rapidă.",
-            "en": "Often located near the castle, a quick walk."
+            "en": "Often located near the castle, a quick walk.",
+            "cs": "Často nedaleko hradu, rychlá procházka."
           }
         },
         {
@@ -902,7 +954,8 @@
             "de": "Fahrt zum Špičák Aussichtsturm",
             "hu": "Autóval a Špičák-kilátóhoz",
             "ro": "Cu mașina la Turnul de observație Špičák",
-            "en": "Drive to Špičák Lookout Tower"
+            "en": "Drive to Špičák Lookout Tower",
+            "cs": "Jízda autem k rozhledně Špičák"
           },
           "coords": [
             14.551,
@@ -918,7 +971,8 @@
             "de": "Die längste Fahrt des Tages führt Sie zu einem atemberaubenden Panoramablick.",
             "hu": "A nap leghosszabb útja egy lélegzetelállító panorámához vezet.",
             "ro": "Cel mai lung drum al zilei vă duce la o priveliște panoramică uluitoare.",
-            "en": "The longest drive of the day takes you to a breathtaking panoramic view."
+            "en": "The longest drive of the day takes you to a breathtaking panoramic view.",
+            "cs": "Nejdelší jízda dne vede k dechberoucímu panoramatickému výhledu."
           }
         },
         {
@@ -926,7 +980,8 @@
             "de": "Spaziergang im Stadtpark",
             "hu": "Séta a Városi Parkban",
             "ro": "Plimbare în Parcul Municipal",
-            "en": "Walk in the City Park"
+            "en": "Walk in the City Park",
+            "cs": "Procházka v městském parku"
           },
           "coords": [
             14.5445,
@@ -942,7 +997,8 @@
             "de": "Vom Turm aus ist es ein schöner Spaziergang bergab zum Park.",
             "hu": "A toronytól kellemes séta vezet lefelé a parkba.",
             "ro": "De la turn este o plimbare frumoasă la vale spre parc.",
-            "en": "From the tower, it's a nice downhill walk to the park."
+            "en": "From the tower, it's a nice downhill walk to the park.",
+            "cs": "Z rozhledny je to příjemná cesta z kopce do parku."
           }
         }
       ],
@@ -950,7 +1006,8 @@
         "de": "Mit dem Auto erkunden Sie Böhmisch Leipa flexibel in Clustern. Sie parken im Zentrum und entdecken zu Fuß den Marktplatz und das nahegelegene Augustinerkloster. Danach fahren Sie zur beeindruckenden Wasserburg Lipý, wo Sie auch das archäologische Museum besuchen. Der Nachmittag bringt Sie mit dem Auto zum höchsten Punkt, dem Špičák-Aussichtsturm. Von dort aus schlendern Sie gemütlich durch den Stadtpark zurück, um den Tag entspannt ausklingen zu lassen, bevor Sie wieder ins Auto steigen.",
         "hu": "Autóval rugalmasan, klaszterekben fedezheti fel Böhmisch Leipa-t. A központban parkol, és gyalogosan fedezi fel a Fő teret és a közeli Ágoston-rendi kolostort. Ezután a lenyűgöző Lipý vízi várhoz hajt, ahol a régészeti múzeumot is meglátogatja. A délután az autóval a legmagasabb pontra, a Špičák-kilátóhoz visz. Onnan kényelmesen sétáljon végig a városi parkon, hogy pihentetően zárja a napot, mielőtt visszaülne az autóba.",
         "ro": "Cu mașina, explorați Böhmisch Leipa în mod flexibil, în grupuri. Parcați în centru și descoperiți pe jos Piața Centrală și Mănăstirea Augustiniană din apropiere. Apoi conduceți la impresionantul castel de apă Lipý, unde vizitați și muzeul arheologic. După-amiaza vă duce cu mașina la cel mai înalt punct, turnul de observație Špičák. De acolo, vă plimbați agale prin Parcul Municipal pentru a încheia ziua într-un mod relaxat înainte de a vă urca din nou în mașină.",
-        "en": "By car, you explore Böhmisch Leipa flexibly in clusters. You park in the center and discover the Main Square and the nearby Augustinian Monastery on foot. Then you drive to the impressive Lipý water castle, where you also visit the archaeological museum. The afternoon takes you by car to the highest point, the Špičák lookout tower. From there, you stroll leisurely through the City Park to end the day in a relaxed manner before getting back in the car."
+        "en": "By car, you explore Böhmisch Leipa flexibly in clusters. You park in the center and discover the Main Square and the nearby Augustinian Monastery on foot. Then you drive to the impressive Lipý water castle, where you also visit the archaeological museum. The afternoon takes you by car to the highest point, the Špičák lookout tower. From there, you stroll leisurely through the City Park to end the day in a relaxed manner before getting back in the car.",
+        "cs": "Autem prozkoumáváte Českou Lípu flexibilně v blocích. Zaparkujete v centru a pěšky objevíte Hlavní náměstí a nedaleký augustiniánský klášter. Poté pojedete k impozantnímu vodnímu hradu Lipý, kde navštívíte také archeologické muzeum. Odpoledne vás auto zavede na nejvyšší bod, rozhlednu Špičák. Odtud se poklidně procházíte Městským parkem a den zakončíte v klidné atmosféře, než zase usednete do auta."
       },
       "gastro_picks": {
         "de": [
@@ -1142,6 +1199,11 @@
           "Find out about parking options and fees in advance.",
           "Watch out for one-way streets in the historic center.",
           "A navigation device is very helpful for driving to destinations outside the city."
+        ],
+        "cs": [
+          "Předem si zjistěte možnosti parkování a poplatky.",
+          "Dávejte pozor na jednosměrky v historickém centru.",
+          "Navigace je velmi užitečná při jízdě k cílům mimo město."
         ]
       }
     },
@@ -1158,7 +1220,8 @@
             "de": "Ankunft am Busbahnhof & Fahrt ins Zentrum",
             "hu": "Érkezés a buszpályaudvarra és utazás a központba",
             "ro": "Sosire la autogară și călătorie spre centru",
-            "en": "Arrival at the bus station & ride to the center"
+            "en": "Arrival at the bus station & ride to the center",
+            "cs": "Příjezd na autobusové nádraží a jízda do centra"
           },
           "coords": [
             14.5378,
@@ -1174,7 +1237,8 @@
             "de": "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr.",
             "hu": "Vásároljon napijegyet a tömegközlekedéshez.",
             "ro": "Cumpărați un bilet de o zi pentru transportul public.",
-            "en": "Buy a day ticket for public transport."
+            "en": "Buy a day ticket for public transport.",
+            "cs": "Kupte si denní jízdenku na MHD."
           }
         },
         {
@@ -1182,7 +1246,8 @@
             "de": "Marktplatz & Heilig-Kreuz-Kirche",
             "hu": "Fő tér és Szent Kereszt-templom",
             "ro": "Piața Centrală și Biserica Sfânta Cruce",
-            "en": "Main Square & Church of the Holy Cross"
+            "en": "Main Square & Church of the Holy Cross",
+            "cs": "Hlavní náměstí a kostel sv. Kříže"
           },
           "coords": [
             14.5385,
@@ -1198,7 +1263,8 @@
             "de": "Vom zentralen Bus-Hub sind diese Sehenswürdigkeiten nur ein paar Schritte entfernt.",
             "hu": "A központi buszmegállótól ezek a látnivalók csak pár lépésre vannak.",
             "ro": "De la nodul central de autobuz, aceste atracții sunt la doar câțiva pași.",
-            "en": "From the central bus hub, these sights are just a few steps away."
+            "en": "From the central bus hub, these sights are just a few steps away.",
+            "cs": "Z centrální autobusové zastávky jsou tyto památky jen pár kroků."
           }
         },
         {
@@ -1206,7 +1272,8 @@
             "de": "Augustinerkloster & Museum",
             "hu": "Ágoston-rendi kolostor és Múzeum",
             "ro": "Mănăstirea Augustiniană și Muzeul",
-            "en": "Augustinian Monastery & Museum"
+            "en": "Augustinian Monastery & Museum",
+            "cs": "Augustiniánský klášter a muzeum"
           },
           "coords": [
             14.5399,
@@ -1222,7 +1289,8 @@
             "de": "Ein kurzer Spaziergang verbindet die Highlights des ersten Clusters.",
             "hu": "Egy rövid séta köti össze az első klaszter fénypontjait.",
             "ro": "O scurtă plimbare leagă punctele de atracție ale primului grup.",
-            "en": "A short walk connects the highlights of the first cluster."
+            "en": "A short walk connects the highlights of the first cluster.",
+            "cs": "Krátká chůze propojuje hlavní body první části prohlídky."
           }
         },
         {
@@ -1230,7 +1298,8 @@
             "de": "Busfahrt zur Wasserburg Lipý",
             "hu": "Buszozás a Lipý Vízivárhoz",
             "ro": "Călătorie cu autobuzul la Castelul de apă Lipý",
-            "en": "Bus ride to Lipý Water Castle"
+            "en": "Bus ride to Lipý Water Castle",
+            "cs": "Jízda autobusem k vodnímu hradu Lipý"
           },
           "coords": [
             14.5321,
@@ -1246,7 +1315,8 @@
             "de": "Nehmen Sie den Bus zu diesem etwas außerhalb gelegenen historischen Ort.",
             "hu": "Menjen busszal ehhez a kissé kieső történelmi helyszínhez.",
             "ro": "Luați autobuzul către acest sit istoric situat puțin în afara centrului.",
-            "en": "Take the bus to this historical site located slightly outside the center."
+            "en": "Take the bus to this historical site located slightly outside the center.",
+            "cs": "Jeďte autobusem k této historické památce mírně mimo centrum."
           }
         },
         {
@@ -1254,7 +1324,8 @@
             "de": "Bus zum Stadtpark",
             "hu": "Busz a Városi Parkba",
             "ro": "Autobuz spre Parcul Municipal",
-            "en": "Bus to the City Park"
+            "en": "Bus to the City Park",
+            "cs": "Autobus do Městského parku"
           },
           "coords": [
             14.5445,
@@ -1270,7 +1341,8 @@
             "de": "Entspannen Sie im Park, bevor Sie den letzten Aufstieg des Tages in Angriff nehmen.",
             "hu": "Pihenjen a parkban, mielőtt nekivág a nap utolsó emelkedőjének.",
             "ro": "Relaxați-vă în parc înainte de a aborda ultima urcare a zilei.",
-            "en": "Relax in the park before tackling the last climb of the day."
+            "en": "Relax in the park before tackling the last climb of the day.",
+            "cs": "Odpočiňte si v parku před posledním výstupem dne."
           }
         },
         {
@@ -1278,7 +1350,8 @@
             "de": "Spaziergang zum Špičák Aussichtsturm",
             "hu": "Séta a Špičák-kilátóhoz",
             "ro": "Plimbare la Turnul de observație Špičák",
-            "en": "Walk to Špičák Lookout Tower"
+            "en": "Walk to Špičák Lookout Tower",
+            "cs": "Pěší výstup na rozhlednu Špičák"
           },
           "coords": [
             14.551,
@@ -1294,7 +1367,8 @@
             "de": "Vom Park aus führt ein schöner Wanderweg hinauf zum Turm.",
             "hu": "A parkból egy szép turistaút vezet fel a toronyhoz.",
             "ro": "Din parc, o frumoasă potecă de drumeție urcă spre turn.",
-            "en": "From the park, a beautiful hiking trail leads up to the tower."
+            "en": "From the park, a beautiful hiking trail leads up to the tower.",
+            "cs": "Z parku vede krásná turistická stezka k rozhledně."
           }
         }
       ],
@@ -1302,7 +1376,8 @@
         "de": "Mit dem öffentlichen Nahverkehr erleben Sie Böhmisch Leipa wie ein Einheimischer. Der Tag beginnt mit einer Busfahrt ins Zentrum, wo Sie den Marktplatz und das Augustinerkloster zu Fuß erkunden. Eine weitere Busfahrt bringt Sie zur historischen Wasserburg Lipý. Am Nachmittag bringt Sie ein Bus in die Nähe des Stadtparks. Der letzte Teil Ihrer Entdeckungstour ist ein Spaziergang vom Park zum Špičák-Aussichtsturm, der Sie mit einer spektakulären Aussicht belohnt, bevor Sie mit dem Bus zurückfahren.",
         "hu": "A tömegközlekedéssel úgy élheti át Böhmisch Leipa-t, mint egy helyi. A nap a központba tartó buszúttal kezdődik, ahol gyalogosan fedezi fel a Fő teret és az Ágoston-rendi kolostort. Egy másik buszút elviszi a történelmi Lipý vízi várhoz. Délután egy busz a városi park közelébe visz. Felfedezőútjának utolsó része egy séta a parkból a Špičák-kilátóhoz, amely látványos kilátással jutalmazza, mielőtt busszal visszatérne.",
         "ro": "Cu transportul public, veți experimenta Böhmisch Leipa ca un localnic. Ziua începe cu o călătorie cu autobuzul spre centru, unde explorați pe jos Piața Centrală și Mănăstirea Augustiniană. O altă călătorie cu autobuzul vă duce la istoricul castel de apă Lipý. După-amiaza, un autobuz vă duce în apropierea Parcului Municipal. Ultima parte a turului dvs. de descoperire este o plimbare din parc până la turnul de observație Špičák, care vă răsplătește cu o priveliște spectaculoasă înainte de a vă întoarce cu autobuzul.",
-        "en": "With public transport, you'll experience Böhmisch Leipa like a local. The day begins with a bus ride to the center, where you explore the Main Square and the Augustinian Monastery on foot. Another bus ride takes you to the historic Lipý water castle. In the afternoon, a bus takes you near the City Park. The final part of your discovery tour is a walk from the park to the Špičák lookout tower, which rewards you with a spectacular view before you return by bus."
+        "en": "With public transport, you'll experience Böhmisch Leipa like a local. The day begins with a bus ride to the center, where you explore the Main Square and the Augustinian Monastery on foot. Another bus ride takes you to the historic Lipý water castle. In the afternoon, a bus takes you near the City Park. The final part of your discovery tour is a walk from the park to the Špičák lookout tower, which rewards you with a spectacular view before you return by bus.",
+        "cs": "Ve městě s MHD zažijete Českou Lípu jako místní. Den začíná autobusem do centra, kde na hlavním náměstí a v augustiniánském klášteře objevujete památky pěšky. Další jízda autobusem vás zavede k historickému vodnímu hradu Lipý. Odpoledne vás autobus dopraví do blízkosti Městského parku. Závěrečnou částí objevování je procházka z parku na rozhlednu Špičák, která vás odmění spektakulárním výhledem před návratem autobusem."
       },
       "gastro_picks": {
         "de": [
@@ -1494,6 +1569,11 @@
           "Download the timetable or use an app to plan your trips.",
           "Pay attention to the last bus connection back, especially from the Špičák tower.",
           "A day ticket is usually cheaper than single tickets."
+        ],
+        "cs": [
+          "Stáhněte si jízdní řád nebo použijte aplikaci k plánování cest.",
+          "Dávejte pozor na poslední autobusové spojení zpět, zejména z rozhledny Špičák.",
+          "Denni jízdenka je obvykle levnější než jednorázové jízdenky."
         ]
       }
     }

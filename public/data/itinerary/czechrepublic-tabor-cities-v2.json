@@ -21,7 +21,8 @@
             "de": "Žižka-Platz",
             "hu": "Žižka tér",
             "ro": "Piața Žižka",
-            "en": "Žižka Square"
+            "en": "Žižka Square",
+            "cs": "Žižkovo náměstí"
           },
           "coords": [
             14.6577,
@@ -37,7 +38,8 @@
             "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee und beobachten Sie das Treiben.",
             "hu": "Kezdje a napot egy kávéval, és figyelje a tér nyüzsgését.",
             "ro": "Începeți ziua aici cu o cafea, observând viața pieței.",
-            "en": "Start your day here with a coffee and watch the hustle and bustle."
+            "en": "Start your day here with a coffee and watch the hustle and bustle.",
+            "cs": "Začněte den tady s kávou a pozorujte ruch kolem."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Altes Rathaus und Hussitenmuseum",
             "hu": "Régi városháza és Huszita Múzeum",
             "ro": "Primăria Veche și Muzeul Husit",
-            "en": "Old Town Hall and Hussite Museum"
+            "en": "Old Town Hall and Hussite Museum",
+            "cs": "Stará radnice a Husitské muzeum"
           },
           "coords": [
             14.6585,
@@ -61,7 +64,8 @@
             "de": "Planen Sie genügend Zeit ein, um die reiche Geschichte der Hussitenbewegung zu verstehen.",
             "hu": "Szánjon elég időt a huszita mozgalom gazdag történelmének megismerésére.",
             "ro": "Planificați suficient timp pentru a înțelege istoria bogată a mișcării husite.",
-            "en": "Allocate enough time to understand the rich history of the Hussite movement."
+            "en": "Allocate enough time to understand the rich history of the Hussite movement.",
+            "cs": "Vyhraďte si dost času, abyste pochopili bohatou historii husitského hnutí."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Dekanatskirche der Verklärung des Herrn",
             "hu": "Urunk Színeváltozása Dékáni Templom",
             "ro": "Biserica Decanală a Schimbării la Față",
-            "en": "Dean's Church of the Transfiguration of the Lord"
+            "en": "Dean's Church of the Transfiguration of the Lord",
+            "cs": "Děkanský kostel Proměnění Páně"
           },
           "coords": [
             14.659,
@@ -85,7 +90,8 @@
             "de": "Besteigen Sie den Turm für einen fantastischen Blick über die Altstadt.",
             "hu": "Másszon fel a toronyba a csodálatos kilátásért az óvárosra.",
             "ro": "Urcați în turn pentru o priveliște fantastică asupra orașului vechi.",
-            "en": "Climb the tower for a fantastic view over the Old Town."
+            "en": "Climb the tower for a fantastic view over the Old Town.",
+            "cs": "Vyšplhejte na věž pro fantastický výhled na Staré Město."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Unterirdische Gänge",
             "hu": "Földalatti folyosók",
             "ro": "Coridoarele subterane",
-            "en": "Underground Passages"
+            "en": "Underground Passages",
+            "cs": "Podzemní chodby"
           },
           "coords": [
             14.6582,
@@ -109,7 +116,8 @@
             "de": "Nehmen Sie an einer Führung teil, um das Labyrinth unter der Stadt zu erkunden.",
             "hu": "Vegyen részt egy vezetett túrán a város alatti labirintus felfedezéséhez.",
             "ro": "Participați la un tur ghidat pentru a explora labirintul de sub oraș.",
-            "en": "Join a guided tour to explore the labyrinth beneath the city."
+            "en": "Join a guided tour to explore the labyrinth beneath the city.",
+            "cs": "Přidejte se na prohlídku s průvodcem a prozkoumejte labyrint pod městem."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Kotnov-Turm",
             "hu": "Kotnov-torony",
             "ro": "Turnul Kotnov",
-            "en": "Kotnov Tower"
+            "en": "Kotnov Tower",
+            "cs": "Kotnovská věž"
           },
           "coords": [
             14.6545,
@@ -133,7 +142,8 @@
             "de": "Der Turm ist der einzige Überrest der Burg von Tábor. Die Aussicht ist die Mühe wert.",
             "hu": "A torony Tábor várának egyetlen maradványa. A kilátás megéri a fáradságot.",
             "ro": "Turnul este singura rămășiță a castelului din Tábor. Priveliștea merită efortul.",
-            "en": "The tower is the only remnant of Tábor Castle. The view is worth the effort."
+            "en": "The tower is the only remnant of Tábor Castle. The view is worth the effort.",
+            "cs": "Věž je jedinou pozůstatkou táborského hradu. Výhled stojí za námahu."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Bechyně-Tor",
             "hu": "Bechyně-kapu",
             "ro": "Poarta Bechyně",
-            "en": "Bechyně Gate"
+            "en": "Bechyně Gate",
+            "cs": "Bechyňská brána"
           },
           "coords": [
             14.654,
@@ -157,7 +168,8 @@
             "de": "Ein gut erhaltenes Tor der mittelalterlichen Befestigungsanlagen.",
             "hu": "A középkori erődítmények egyik jó állapotban megmaradt kapuja.",
             "ro": "O poartă bine conservată a fortificațiilor medievale.",
-            "en": "A well-preserved gate of the medieval fortifications."
+            "en": "A well-preserved gate of the medieval fortifications.",
+            "cs": "Dobře zachovalá brána ze středověkého opevnění."
           }
         }
       ],
@@ -165,7 +177,8 @@
         "de": "Ihr Tag in Tábor beginnt im Herzen der Stadt, dem Žižka-Platz, umgeben von bunten Bürgerhäusern. Spüren Sie die Geschichte unter Ihren Füßen, während Sie die Atmosphäre dieser alten Hussitenfestung aufsaugen.\nAm Vormittag tauchen Sie tief in die Vergangenheit ein. Besuchen Sie das Alte Rathaus mit dem Hussitenmuseum und erklimmen Sie den Turm der Dekanatskirche. Danach wagen Sie sich in die geheimnisvollen unterirdischen Gänge, die sich unter der gesamten Altstadt erstrecken.\nDer Nachmittag führt Sie zu den Überresten der alten Befestigungsanlagen. Erklimmen Sie den mächtigen Kotnov-Turm, das Wahrzeichen der Stadt, und genießen Sie den Panoramablick. Schlendern Sie anschließend zum nahegelegenen Bechyně-Tor, dem am besten erhaltenen Teil der Stadtmauer.\nLassen Sie den Tag in einem der traditionellen Restaurants ausklingen. Probieren Sie böhmische Spezialitäten und lassen Sie die Eindrücke dieser geschichtsträchtigen Stadt auf sich wirken, während die Sonne hinter den alten Dächern versinkt.",
         "hu": "A tábori nap a város szívében, a színes polgárházakkal körülvett Žižka téren kezdődik. Érezze a történelmet a lába alatt, miközben magába szívja ennek a régi huszita erődnek a hangulatát.\nA délelőtt folyamán merüljön el mélyen a múltban. Látogasson el a Régi Városházába a Huszita Múzeummal, mássza meg a dékáni templom tornyát, majd merészkedjen be a rejtélyes földalatti folyosókba, amelyek az egész óváros alatt húzódnak.\nA délután a régi erődítmények maradványaihoz vezet. Mássza meg a hatalmas Kotnov-tornyot, a város jelképét, és élvezze a panorámát. Ezután sétáljon el a közeli Bechyně-kapuhoz, a városfal legjobban megőrzött részéhez.\nZárja a napot egy hagyományos étteremben. Kóstoljon cseh specialitásokat, és hagyja, hogy a történelmi város benyomásai hassanak önre, miközben a nap lenyugszik a régi háztetők mögött.",
         "ro": "Ziua dumneavoastră în Tábor începe în inima orașului, Piața Žižka, înconjurată de case burgheze colorate. Simțiți istoria sub picioare în timp ce absorbiți atmosfera acestei vechi fortărețe husite.\nÎn cursul dimineții, pătrundeți adânc în trecut. Vizitați Primăria Veche cu Muzeul Husit, urcați în turnul Bisericii Decanale, apoi aventurați-vă în misterioasele coridoare subterane care se întind sub întregul oraș vechi.\nDupă-amiaza vă duce la rămășițele vechilor fortificații. Urcați în puternicul Turn Kotnov, simbolul orașului, și bucurați-vă de panorama. Apoi, plimbați-vă până la Poarta Bechyně din apropiere, cea mai bine conservată parte a zidurilor orașului.\nÎncheiați ziua la unul dintre restaurantele tradiționale. Gustați specialități cehe și lăsați-vă copleșit de impresiile acestui oraș istoric, în timp ce soarele apune în spatele acoperișurilor vechi.",
-        "en": "Your day in Tábor begins in the heart of the city, Žižka Square, surrounded by colourful townhouses. Feel the history beneath your feet as you soak up the atmosphere of this old Hussite fortress.\nIn the morning, delve deep into the past. Visit the Old Town Hall with the Hussite Museum, climb the tower of the Dean's Church, and then venture into the mysterious underground passages that stretch beneath the entire Old Town.\nThe afternoon takes you to the remnants of the old fortifications. Climb the mighty Kotnov Tower, the city's landmark, and enjoy the panoramic view. Afterwards, stroll to the nearby Bechyně Gate, the best-preserved part of the city walls.\nEnd the day in one of the traditional restaurants. Try Bohemian specialities and let the impressions of this historic city sink in as the sun sets behind the old roofs."
+        "en": "Your day in Tábor begins in the heart of the city, Žižka Square, surrounded by colourful townhouses. Feel the history beneath your feet as you soak up the atmosphere of this old Hussite fortress.\nIn the morning, delve deep into the past. Visit the Old Town Hall with the Hussite Museum, climb the tower of the Dean's Church, and then venture into the mysterious underground passages that stretch beneath the entire Old Town.\nThe afternoon takes you to the remnants of the old fortifications. Climb the mighty Kotnov Tower, the city's landmark, and enjoy the panoramic view. Afterwards, stroll to the nearby Bechyně Gate, the best-preserved part of the city walls.\nEnd the day in one of the traditional restaurants. Try Bohemian specialities and let the impressions of this historic city sink in as the sun sets behind the old roofs.",
+        "cs": "Váš den v Táboře začíná v srdci města na Žižkově náměstí obklopeném pestrobarevnými měšťanskými domy. Ponořte se do historie tohoto starého husitského opevnění a nasávejte atmosféru pod vámi.\nRáno se hlouběji ponořte do minulosti. Navštivte Starou radnici s Husitským muzeem, vystoupejte na věž Děkanského kostela a poté se vydejte do tajemných podzemních chodeb, které se táhnou pod celým Starým Městem.\nOdpoledne zamíříte k pozůstatkům starého opevnění. Vyšplhejte na mohutnou Kotnovskou věž, symbol města, a vychutnejte si panoramatický výhled. Poté se projděte k nedaleké Bechyňské bráně, nejlépe zachované části městských hradeb.\nDen zakončete v jedné z tradičních restaurací. Ochutnejte české speciality a nechte dojmy z tohoto historického města vstřebat při zapadajícím slunci za starými střechami."
       },
       "gastro_picks": {
         "de": [
@@ -361,6 +374,12 @@
           "The underground passages can be cool, so bring a light jacket.",
           "Many sights are closed on Mondays, so check opening hours.",
           "Tábor is hilly, so be prepared for some uphill walking."
+        ],
+        "cs": [
+          "Noste pohodlnou obuv, Staré Město má dlážděné ulice.",
+          "Podzemní chodby mohou být chladné, vezměte si lehkou bundu.",
+          "Mnohé památky jsou v pondělí zavřené, zkontrolujte otevírací dobu.",
+          "Tábor je kopcovitý, připravte se na stoupání."
         ]
       },
       "variants": {
@@ -369,7 +388,8 @@
             "de": "Ein regnerischer Tag in Tábor verleiht der mittelalterlichen Altstadt eine mystische Atmosphäre. Vormittags bieten der Žižka-Platz und das Hussitenmuseum Schutz. Mittags erkunden Sie die trockenen unterirdischen Gänge. Nachmittags führt der Weg zum Kotnov-Turm, wobei die nassen Pflastersteine Vorsicht erfordern. Der Abend klingt gemütlich in einem der Kellerrestaurants am Marktplatz aus.",
             "hu": "A borús, esős Tábor misztikus középkori hangulatot áraszt. Délelőtt a Žižka tér és a Huszita Múzeum nyújt menedéket. Délben a város alatti száraz folyosórendszer a legjobb program. Délután a Kotnov-torony felé vesszük az irányt, ügyelve a csúszós macskakövekre. Az estét egy hangulatos, óvárosi pincé étteremben zárjuk, ahol az eső kopogása csak fokozza az élményt.",
             "ro": "O zi ploioasă în Tábor oferă orașului medieval o atmosferă mistică. Dimineața, Piața Žižka și Muzeul Husit oferă adăpost excelent. La prânz, explorați pasajele subterane uscate. După-amiaza, drumul duce spre Turnul Kotnov, necesită atenție sporită pe pavajul umed. Seara se încheie confortabil într-unul dintre restaurantele de la subsolul pieței centrale.",
-            "en": "A rainy day in Tábor lends the medieval old town a mystical atmosphere. Spend your morning at Žižka Square and the Hussite Museum for shelter. At midday, explore the dry underground passages. In the afternoon, head towards Kotnov Tower, being careful on the wet cobblestones. The evening ends cozily in one of the cellar restaurants near the main square."
+            "en": "A rainy day in Tábor lends the medieval old town a mystical atmosphere. Spend your morning at Žižka Square and the Hussite Museum for shelter. At midday, explore the dry underground passages. In the afternoon, head towards Kotnov Tower, being careful on the wet cobblestones. The evening ends cozily in one of the cellar restaurants near the main square.",
+            "cs": "Deštivý den v Táboře dává středověkému starému městu mystickou atmosféru. Dopoledne strávte na Žižkově náměstí a v Husitském muzeu pro přístřeší. V poledne prozkoumejte suché podzemní chodby. Odpoledne se vydejte k Kotnovu a dávejte pozor na mokré dlažební kostky. Večer zakončete útulně v jedné sklepení restaurací u hlavního náměstí."
           },
           "stops": [
             {
@@ -378,7 +398,8 @@
                 "de": "Suchen Sie Unterschlupf unter den Arkaden der historischen Häuser.",
                 "hu": "Keressen menedéket a történelmi házak árkádjai alatt.",
                 "ro": "Căutați adăpost sub arcadele caselor istorice.",
-                "en": "Seek shelter under the arcades of the historic houses."
+                "en": "Seek shelter under the arcades of the historic houses.",
+                "cs": "Hledejte přístřeší pod arkýři historických domů."
               }
             },
             {
@@ -387,7 +408,8 @@
                 "de": "Ideal bei Regen: Verbringen Sie hier mehr Zeit in den Ausstellungen.",
                 "hu": "Ideális esőben: töltsön több időt a kiállítások megtekintésével.",
                 "ro": "Ideal pe ploaie: petreceți mai mult timp vizitând expozițiile.",
-                "en": "Ideal for rain: spend more time exploring the indoor exhibitions."
+                "en": "Ideal for rain: spend more time exploring the indoor exhibitions.",
+                "cs": "Ideální při dešti: věnujte víc času vnitřním expozicím."
               }
             },
             {
@@ -396,7 +418,8 @@
                 "de": "Ein ruhiger, trockener Ort für Besinnung während eines Schauers.",
                 "hu": "Csendes, száraz hely az elmélyüléshez egy zápor idején.",
                 "ro": "Un loc liniștit și uscat pentru reflecție în timpul unei averse.",
-                "en": "A quiet, dry place for reflection during a heavy downpour."
+                "en": "A quiet, dry place for reflection during a heavy downpour.",
+                "cs": "Klidné suché místo k přemýšlení při silné přeháňce."
               }
             },
             {
@@ -405,7 +428,8 @@
                 "de": "Völlig wetterunabhängig; die Tunnel bleiben das ganze Jahr trocken.",
                 "hu": "Teljesen időjárásfüggetlen; a járatok egész évben szárazak maradnak.",
                 "ro": "Complet independent de vreme; tunelurile rămân uscate tot anul.",
-                "en": "Completely weather-independent; the tunnels stay dry year-round."
+                "en": "Completely weather-independent; the tunnels stay dry year-round.",
+                "cs": "Zcela nezávislé na počasí; tunely zůstávají suché po celý rok."
               }
             },
             {
@@ -414,7 +438,8 @@
                 "de": "Vorsicht auf den Außentreppen, diese können bei Regen rutschig sein.",
                 "hu": "Vigyázzon a külső lépcsőkön, esőben nagyon csúszósak lehetnek.",
                 "ro": "Atenție pe scările exterioare, pot fi alunecoase pe timp de ploaie.",
-                "en": "Be careful on the outdoor stairs; they can be slippery when wet."
+                "en": "Be careful on the outdoor stairs; they can be slippery when wet.",
+                "cs": "Na venkovních schodech buďte opatrní; v dešti bývají kluzké."
               }
             },
             {
@@ -423,7 +448,8 @@
                 "de": "Besuchen Sie die Innenausstellung, um dem Regen zu entkommen.",
                 "hu": "Látogassa meg a belső kiállítást, hogy elmeneküljön az eső elől.",
                 "ro": "Vizitați expoziția interioară pentru a scăpa de ploaie.",
-                "en": "Visit the indoor exhibition to escape the rain."
+                "en": "Visit the indoor exhibition to escape the rain.",
+                "cs": "Navštivte vnitřní expozici, abyste unikli dešti."
               }
             }
           ],
@@ -455,6 +481,13 @@
               "Most old town cafes have cozy indoor seating, often on the upper floors.",
               "Wear shoes with good grip for the steep, wet medieval streets.",
               "The Hussite Museum is large enough to occupy an entire rainy morning."
+            ],
+            "cs": [
+              "Podzemní chodby jsou nejlepší volbou pro dlouhou suchou aktivitu.",
+              "Arkády kolem hlavního náměstí poskytují dobrou ochranu při fotografování.",
+              "Většina kaváren na Starém Městě má útulné vnitřní posezení, často v horních patrech.",
+              "Noste boty s dobrým záběrem na strmé mokré středověké uličky.",
+              "Husitské muzeum je dost velké na to, aby zabralo celé deštivé dopoledne."
             ]
           }
         },
@@ -463,7 +496,8 @@
             "de": "Tábor im Winter wirkt wie eine Kulisse für ein Märchen, besonders wenn Schnee auf den Giebelhäusern liegt. Der Vormittag am Žižka-Platz ist klirrend kalt, aber das Museum ist gut beheizt. Mittags bieten die unterirdischen Gänge konstante Temperaturen. Da die Sonne früh untergeht, sollten Sie Kotnov vor 16:00 Uhr besuchen. Der Abend wird bei einem heißen 'Svařák' (Glühwein) auf dem Markt perfekt.",
             "hu": "A téli Tábor olyan, mint egy mézeskalácsváros, főleg ha hó fedi a csúcsíves házakat. A délelőtti séta a Žižka téren csípős lehet, de a múzeum melege hamar felmelegít. Délben a földalatti járatok hőmérséklete kellemesen állandó. Mivel korán sötétedik, a Kotnov-tornyot még 16:00 előtt látogassa meg. Az estét a főtéren egy forró 'svařák' (forralt bor) teszi teljessé.",
             "ro": "Tábor iarna arată ca un decor de poveste, mai ales cu zăpadă pe casele cu fronton. Dimineața în Piața Žižka este geroasă, dar muzeul este bine încălzit. La prânz, pasajele subterane oferă o temperatură constantă. Deoarece soarele apune devreme, vizitați Kotnov înainte de ora 16:00. Seara devine perfectă cu un 'svařák' (vin fiert) fierbinte în piața centrală.",
-            "en": "Winter in Tábor looks like a fairytale set, especially with snow on the gabled houses. A morning at Žižka Square can be freezing, but the museum is well-heated. At midday, the underground passages offer a constant, stable temperature. Since the sun sets early, visit Kotnov before 4:00 PM. The evening is perfected with a hot 'svařák' (mulled wine) in the main square."
+            "en": "Winter in Tábor looks like a fairytale set, especially with snow on the gabled houses. A morning at Žižka Square can be freezing, but the museum is well-heated. At midday, the underground passages offer a constant, stable temperature. Since the sun sets early, visit Kotnov before 4:00 PM. The evening is perfected with a hot 'svařák' (mulled wine) in the main square.",
+            "cs": "Zima v Táboře vypadá jako pohádková scéna, zvlášť když sníh leží na štítech domů. Ráno na Žižkově náměstí může být mrazivé, ale muzeum je dobře vytopené. V poledne nabízejí podzemní chodby stabilní teplotu. Slunce zapadá brzy, proto navštivte Kotnov před 16:00. Večer vychutnejte horký svařák na hlavním náměstí."
           },
           "stops": [
             {
@@ -472,7 +506,8 @@
                 "de": "Vorsicht vor vereistem Kopfsteinpflaster auf dem offenen Platz.",
                 "hu": "Vigyázzon a jegesedésre a nyitott főtér macskakövein.",
                 "ro": "Atenție la piatra cubică înghețată din piața deschisă.",
-                "en": "Watch out for icy patches on the open square's cobblestones."
+                "en": "Watch out for icy patches on the open square's cobblestones.",
+                "cs": "Dejte pozor na namrzlá místa na dlažbě otevřeného náměstí."
               }
             },
             {
@@ -481,7 +516,8 @@
                 "de": "Wärmen Sie sich in den gut beheizten Ausstellungsräumen auf.",
                 "hu": "Melegedjen fel a jól fűtött kiállítótermekben.",
                 "ro": "Încălziți-vă în sălile de expoziție bine încălzite.",
-                "en": "Warm up inside the well-heated exhibition rooms."
+                "en": "Warm up inside the well-heated exhibition rooms.",
+                "cs": "Ohřejte se v dobře vytopených výstavních místnostech."
               }
             },
             {
@@ -490,7 +526,8 @@
                 "de": "Beachten Sie, dass Kirchen im Winter sehr kalt sein können; warm anziehen.",
                 "hu": "A templomok télen nagyon hidegek lehetnek; öltözzön rétegesen.",
                 "ro": "Rețineți că bisericile pot fi foarte reci iarna; îmbrăcați-vă gros.",
-                "en": "Keep in mind that churches can be very cold in winter; dress warmly."
+                "en": "Keep in mind that churches can be very cold in winter; dress warmly.",
+                "cs": "Mějte na paměti, že v kostelích může být v zimě velmi chladno; oblékněte se teple."
               }
             },
             {
@@ -499,7 +536,8 @@
                 "de": "Die Temperatur unter Tage ist oft milder als die Winterluft draußen.",
                 "hu": "A föld alatt a hőmérséklet gyakran enyhébb, mint kint a téli levegőn.",
                 "ro": "Temperatura în subteran este adesea mai blândă decât aerul de afară.",
-                "en": "The underground temperature is often milder than the winter air outside."
+                "en": "The underground temperature is often milder than the winter air outside.",
+                "cs": "Teplota v podzemí je často mírnější než venkovní zimní vzduch."
               }
             },
             {
@@ -508,7 +546,8 @@
                 "de": "Der Wind oben auf dem Turm ist im Winter sehr beißend.",
                 "hu": "A torony tetején a szél télen nagyon metsző lehet.",
                 "ro": "Vântul din vârful turnului este foarte tăios pe timpul iernii.",
-                "en": "The wind at the top of the tower can be very biting in winter."
+                "en": "The wind at the top of the tower can be very biting in winter.",
+                "cs": "Na vrcholu věže může v zimě silně pálit vítr."
               }
             },
             {
@@ -517,7 +556,8 @@
                 "de": "Ein schöner Ort, um den Sonnenuntergang über dem Tal zu beobachten.",
                 "hu": "Szép hely a völgy feletti naplemente megtekintéséhez.",
                 "ro": "Un loc frumos pentru a vedea apusul peste vale.",
-                "en": "A beautiful spot to watch the sunset over the valley."
+                "en": "A beautiful spot to watch the sunset over the valley.",
+                "cs": "Krásné místo pro sledování západu slunce nad údolím."
               }
             }
           ],
@@ -549,6 +589,13 @@
               "The underground passages maintain a constant temperature of about 10°C.",
               "Wear sturdy boots as the path to Kotnov can be steep and slippery.",
               "Museums often close an hour earlier in winter than in summer."
+            ],
+            "cs": [
+              "Západ slunce je kolem 16:30; plánujte venkovní návštěvy dříve, než se setmí.",
+              "Vyzkoušejte svařák u stánků na Žižkově náměstí.",
+              "Podzemní chodby udržují stálou teplotu přibližně 10 °C.",
+              "Noste pevné boty, cesta na Kotnov může být strmá a kluzká.",
+              "Muzea často zavírají v zimě o hodinu dříve než v létě."
             ]
           }
         }
@@ -567,7 +614,8 @@
             "de": "Žižka-Platz",
             "hu": "Žižka tér",
             "ro": "Piața Žižka",
-            "en": "Žižka Square"
+            "en": "Žižka Square",
+            "cs": "Žižkovo náměstí"
           },
           "coords": [
             14.6577,
@@ -583,7 +631,8 @@
             "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie den Platz zu Fuß.",
             "hu": "Tegye le a biciklit, és fedezze fel a teret gyalog.",
             "ro": "Parcați bicicleta și explorați piața pe jos.",
-            "en": "Park your bike and explore the square on foot."
+            "en": "Park your bike and explore the square on foot.",
+            "cs": "Zaparkujte kolo a prozkoumejte náměstí po svých."
           }
         },
         {
@@ -591,7 +640,8 @@
             "de": "Altes Rathaus",
             "hu": "Régi városháza",
             "ro": "Primăria Veche",
-            "en": "Old Town Hall"
+            "en": "Old Town Hall",
+            "cs": "Stará radnice"
           },
           "coords": [
             14.6585,
@@ -607,7 +657,8 @@
             "de": "Hier erfahren Sie alles über die revolutionäre Hussitenbewegung.",
             "hu": "Itt mindent megtudhat a forradalmi huszita mozgalomról.",
             "ro": "Aici veți învăța totul despre mișcarea revoluționară husită.",
-            "en": "Learn all about the revolutionary Hussite movement here."
+            "en": "Learn all about the revolutionary Hussite movement here.",
+            "cs": "Zde se seznámíte s revolučním husitským hnutím."
           }
         },
         {
@@ -615,7 +666,8 @@
             "de": "Kotnov-Turm und Bechyně-Tor",
             "hu": "Kotnov-torony és Bechyně-kapu",
             "ro": "Turnul Kotnov și Poarta Bechyně",
-            "en": "Kotnov Tower and Bechyně Gate"
+            "en": "Kotnov Tower and Bechyně Gate",
+            "cs": "Kotnovská věž a Bechyňská brána"
           },
           "coords": [
             14.6545,
@@ -631,7 +683,8 @@
             "de": "Ein kurzer, aber steiler Anstieg, der mit einer großartigen Aussicht belohnt wird.",
             "hu": "Rövid, de meredek emelkedő, amelyet nagyszerű kilátás jutalmaz.",
             "ro": "O urcare scurtă, dar abruptă, recompensată cu o priveliște minunată.",
-            "en": "A short but steep climb rewarded with a great view."
+            "en": "A short but steep climb rewarded with a great view.",
+            "cs": "Krátké, ale strmé stoupání odměněné skvělým výhledem."
           }
         },
         {
@@ -639,7 +692,8 @@
             "de": "Klokoty-Kloster",
             "hu": "Klokoty-kolostor",
             "ro": "Mănăstirea Klokoty",
-            "en": "Klokoty Monastery"
+            "en": "Klokoty Monastery",
+            "cs": "Klokotský klášter"
           },
           "coords": [
             14.64,
@@ -655,7 +709,8 @@
             "de": "Ein wunderschöner Barockkomplex, der einen Abstecher wert ist.",
             "hu": "Egy gyönyörű barokk komplexum, amely megér egy kitérőt.",
             "ro": "Un frumos complex baroc care merită ocolul.",
-            "en": "A beautiful Baroque complex well worth the detour."
+            "en": "A beautiful Baroque complex well worth the detour.",
+            "cs": "Krásný barokní komplex stojí za odbočku."
           }
         },
         {
@@ -663,7 +718,8 @@
             "de": "Jordán-Stausee",
             "hu": "Jordán-víztározó",
             "ro": "Lacul de acumulare Jordán",
-            "en": "Jordán Reservoir"
+            "en": "Jordán Reservoir",
+            "cs": "Vodní nádrž Jordán"
           },
           "coords": [
             14.669,
@@ -679,7 +735,8 @@
             "de": "Perfekt für eine erfrischende Pause und eine Runde um den ältesten Stausee Mitteleuropas.",
             "hu": "Tökéletes egy frissítő szünetre és egy körre Közép-Európa legrégebbi víztározója körül.",
             "ro": "Perfect pentru o pauză răcoritoare și un tur în jurul celui mai vechi lac de acumulare din Europa Centrală.",
-            "en": "Perfect for a refreshing break and a lap around the oldest reservoir in Central Europe."
+            "en": "Perfect for a refreshing break and a lap around the oldest reservoir in Central Europe.",
+            "cs": "Ideální pro osvěžující přestávku a projetí kolem nejstarší přehrady ve střední Evropě."
           }
         },
         {
@@ -687,7 +744,8 @@
             "de": "Zurück zum Žižka-Platz",
             "hu": "Vissza a Žižka térre",
             "ro": "Înapoi în Piața Žižka",
-            "en": "Back to Žižka Square"
+            "en": "Back to Žižka Square",
+            "cs": "Zpět na Žižkovo náměstí"
           },
           "coords": [
             14.6577,
@@ -703,7 +761,8 @@
             "de": "Beenden Sie Ihre Radtour mit einem wohlverdienten Getränk in einem der Cafés am Platz.",
             "hu": "Fejezze be a kerékpártúrát egy jól megérdemelt itallal a tér egyik kávézójában.",
             "ro": "Încheiați turul cu bicicleta cu o băutură binemeritată la una dintre cafenelele din piață.",
-            "en": "End your bike tour with a well-deserved drink at one of the square's cafés."
+            "en": "End your bike tour with a well-deserved drink at one of the square's cafés.",
+            "cs": "Ukončete cyklistický výlet zaslouženým nápojem v jedné z náměstských kaváren."
           }
         }
       ],
@@ -711,7 +770,8 @@
         "de": "Schwingen Sie sich auf Ihr Rad für eine Entdeckungstour durch Tábor und seine Umgebung. Starten Sie am zentralen Žižka-Platz, bevor Sie sich durch die historischen Gassen zum Alten Rathaus und dem Hauch der Hussitengeschichte begeben.\nIhre Route führt Sie weiter bergauf zum Kotnov-Turm und dem Bechyně-Tor. Die Anstrengung wird mit einem atemberaubenden Blick belohnt. Anschließend radeln Sie aus der Stadt hinaus zum prächtigen Klokoty-Kloster, einem Juwel barocker Architektur.\nDer Nachmittag ist für die Natur reserviert. Eine angenehme Fahrt bringt Sie zum Jordán-Stausee, dem ältesten seiner Art in Mitteleuropa. Umrunden Sie den See, genießen Sie die frische Luft und machen Sie eine Pause am Wasser, bevor Sie die letzte Etappe zurück ins Zentrum antreten.\nZurück am Žižka-Platz, haben Sie sich ein kühles tschechisches Bier oder eine Limonade redlich verdient. Lassen Sie den aktiven Tag Revue passieren und genießen Sie den Abend in der lebhaften Atmosphäre der Altstadt.",
         "hu": "Pattanjon kerékpárra, és fedezze fel Tábort és környékét. Induljon a központi Žižka térről, mielőtt a történelmi sikátorokon keresztül a Régi Városházához és a huszita történelem szelleméhez tekerne.\nAz útja felfelé vezet a Kotnov-toronyhoz és a Bechyně-kapuhoz. A fáradozást lélegzetelállító kilátás jutalmazza. Ezután biciklizzen ki a városból a csodálatos Klokoty-kolostorhoz, a barokk építészet gyöngyszeméhez.\nA délután a természeté. Egy kellemes tekerés elviszi a Jordán-víztározóhoz, Közép-Európa legrégebbi ilyen létesítményéhez. Kerülje meg a tavat, élvezze a friss levegőt, és tartson egy szünetet a vízparton, mielőtt nekivágna az utolsó szakasznak vissza a központba.\nVisszaérve a Žižka térre, igazán megérdemel egy hideg cseh sört vagy egy limonádét. Idézze fel az aktív napot, és élvezze az estét az óváros élénk hangulatában.",
         "ro": "Urcați-vă pe bicicletă pentru un tur de explorare a orașului Tábor și a împrejurimilor sale. Începeți din Piața centrală Žižka, înainte de a vă îndrepta pe străduțele istorice către Primăria Veche și spiritul istoriei husite.\nTraseul vă duce mai departe în sus, spre Turnul Kotnov și Poarta Bechyně. Efortul va fi răsplătit cu o priveliște care vă taie respirația. Apoi, pedalați în afara orașului până la magnifica Mănăstire Klokoty, o bijuterie a arhitecturii baroce.\nDupă-amiaza este rezervată naturii. O plimbare plăcută vă va duce la Lacul de acumulare Jordán, cel mai vechi de acest fel din Europa Centrală. Înconjurați lacul, bucurați-vă de aerul curat și faceți o pauză pe malul apei înainte de a porni pe ultima etapă înapoi spre centru.\nÎntorși în Piața Žižka, ați meritat cu prisosință o bere cehă rece sau o limonadă. Rememorați ziua activă și bucurați-vă de seară în atmosfera plină de viață a orașului vechi.",
-        "en": "Get on your bike for a discovery tour of Tábor and its surroundings. Start at the central Žižka Square before heading through the historic alleys to the Old Town Hall and the spirit of Hussite history.\nYour route takes you further uphill to the Kotnov Tower and the Bechyně Gate. The effort is rewarded with a breathtaking view. Afterwards, cycle out of the city to the magnificent Klokoty Monastery, a jewel of Baroque architecture.\nThe afternoon is reserved for nature. A pleasant ride will take you to the Jordán Reservoir, the oldest of its kind in Central Europe. Cycle around the lake, enjoy the fresh air and take a break by the water before starting the final leg back to the centre.\nBack at Žižka Square, you've earned a cold Czech beer or a lemonade. Review the active day and enjoy the evening in the lively atmosphere of the Old Town."
+        "en": "Get on your bike for a discovery tour of Tábor and its surroundings. Start at the central Žižka Square before heading through the historic alleys to the Old Town Hall and the spirit of Hussite history.\nYour route takes you further uphill to the Kotnov Tower and the Bechyně Gate. The effort is rewarded with a breathtaking view. Afterwards, cycle out of the city to the magnificent Klokoty Monastery, a jewel of Baroque architecture.\nThe afternoon is reserved for nature. A pleasant ride will take you to the Jordán Reservoir, the oldest of its kind in Central Europe. Cycle around the lake, enjoy the fresh air and take a break by the water before starting the final leg back to the centre.\nBack at Žižka Square, you've earned a cold Czech beer or a lemonade. Review the active day and enjoy the evening in the lively atmosphere of the Old Town.",
+        "cs": "Nasedněte na kolo a vydejte se objevovat Tábor a jeho okolí. Začněte na centrálním Žižkově náměstí a poté projíždějte historickými uličkami k Stare radnici a duchu husitské historie.\nTrasa vás povede dále do kopce k Kotnovské věži a Bechyňské bráně. Námaha bude odměněna dechberoucím výhledem. Poté dojedete z města k impozantnímu Klokotskému klášteru, klenotu barokní architektury.\nOdpoledne patří přírodě. Příjemná jízda vás dovede k vodní nádrži Jordán, nejstarší svého druhu ve střední Evropě. Objíďte jezero, nadechněte se čerstvého vzduchu a dejte si pauzu u vody před závěrečnou etapou zpět do centra.\nZpět na Žižkově náměstí si zasloužíte studené české pivo nebo limonádu. Zrekapitulujte aktivní den a užijte si večer v rušné atmosféře Starého Města."
       },
       "gastro_picks": {
         "de": [
@@ -907,6 +967,12 @@
           "A helmet is strongly recommended.",
           "Take plenty of water with you, especially for the ride to the lake.",
           "Always lock your bike securely at the main sights."
+        ],
+        "cs": [
+          "Před vyjetím zkontrolujte kolo, zejména brzdy.",
+          "Helma je důrazně doporučena.",
+          "Vezměte si s sebou dost vody, obzvlášť na cestu k jezeru.",
+          "Kolo vždy řádně zamkněte u hlavních památek."
         ]
       },
       "variants": {
@@ -915,7 +981,8 @@
             "de": "Radfahren in Tábor bei Regen erfordert gute Ausrüstung, bietet aber leere Wege. Starten Sie vorsichtig am Žižka-Platz. Die Route führt zum Jordán-Stausee, wo die Wege bei Nässe schlammig sein können. Ein Besuch im Klokoty-Kloster bietet eine spirituelle Pause im Trockenen. Nutzen Sie die asphaltierten Abschnitte, um sicher durch die nassen Gassen der Altstadt zurückzukehren.",
             "hu": "A kerékpározás Táborban esőben jó felszerelést igényel, de cserébe üresek az utak. Kezdjen óvatosan a Žižka téren. Az útvonal a Jordán-víztározóhoz vezet, ahol a part menti utak sárosak lehetnek. A Klokoty kolostor látogatása spirituális és száraz pihenőt kínál. Használja az aszfaltozott szakaszokat a vizes óvárosi sikátorokban való biztonságos visszatéréshez.",
             "ro": "Mersul pe bicicletă în Tábor pe ploaie necesită echipament bun, dar oferă trasee libere. Începeți cu prudență din Piața Žižka. Traseul duce la lacul Jordán, unde potecile pot fi noroioase. O vizită la Mănăstirea Klokoty oferă o pauză spirituală la adăpost. Folosiți secțiunile asfaltate pentru a reveni în siguranță prin străzile umede ale orașului vechi.",
-            "en": "Cycling in Tábor in the rain requires good gear but offers empty paths. Start carefully at Žižka Square. The route leads to Jordán Reservoir, where lakeside paths might be muddy. A visit to Klokoty Monastery provides a spiritual and dry break. Stick to paved sections to return safely through the wet alleys of the old town."
+            "en": "Cycling in Tábor in the rain requires good gear but offers empty paths. Start carefully at Žižka Square. The route leads to Jordán Reservoir, where lakeside paths might be muddy. A visit to Klokoty Monastery provides a spiritual and dry break. Stick to paved sections to return safely through the wet alleys of the old town.",
+            "cs": "Cyklistika v Táboře v dešti vyžaduje dobrou výbavu, ale nabízí prázdné cesty. Vydejte se opatrně ze Žižkova náměstí. Trasa vede k vodní nádrži Jordán, kde mohou být stezky u vody blátivé. Návštěva Klokotského kláštera poskytne duchovní a suchou přestávku. Držte se zpevněných úseků, abyste se bezpečně vrátili mokrými uličkami starého města."
           },
           "stops": [
             {
@@ -924,7 +991,8 @@
                 "de": "Vorsicht auf dem nassen Kopfsteinpflaster beim Anfahren.",
                 "hu": "Vigyázzon a vizes macskakövön az elinduláskor.",
                 "ro": "Atenție la piatra cubică umedă când porniți la drum.",
-                "en": "Be careful on the wet cobblestones when starting off."
+                "en": "Be careful on the wet cobblestones when starting off.",
+                "cs": "Buďte opatrní na mokrých kostkách při rozjezdu."
               }
             },
             {
@@ -933,7 +1001,8 @@
                 "de": "Überdachte Fahrradständer befinden sich oft in der Nähe des Eingangs.",
                 "hu": "Fedett kerékpártárolók gyakran találhatók a bejárat közelében.",
                 "ro": "Suporturile de biciclete acoperite se află adesea lângă intrare.",
-                "en": "Covered bike racks are often located near the entrance."
+                "en": "Covered bike racks are often located near the entrance.",
+                "cs": "Kryté stojany na kola se často nacházejí u vchodu."
               }
             },
             {
@@ -942,7 +1011,8 @@
                 "de": "Stellen Sie Ihr Rad gesichert unter, während Sie den Turm besteigen.",
                 "hu": "Zárja le a kerékpárt fedett helyen, amíg felmegy a toronyba.",
                 "ro": "Parcați bicicleta într-un loc ferit în timp ce urcați în turn.",
-                "en": "Park your bike in a sheltered spot while you climb the tower."
+                "en": "Park your bike in a sheltered spot while you climb the tower.",
+                "cs": "Zaparkujte kolo na krytém místě, než vylezete na věž."
               }
             },
             {
@@ -951,7 +1021,8 @@
                 "de": "Die Zufahrt über den Kreuzweg kann bei Regen rutschig sein.",
                 "hu": "A keresztúton átvezető bekötőút esőben csúszós lehet.",
                 "ro": "Accesul prin drumul crucii poate fi alunecos pe ploaie.",
-                "en": "The access road via the Way of the Cross can be slippery in the rain."
+                "en": "The access road via the Way of the Cross can be slippery in the rain.",
+                "cs": "Přístupová cesta po Křížové cestě může být za deště kluzká."
               }
             },
             {
@@ -960,7 +1031,8 @@
                 "de": "Uferwege können schlammig sein; bleiben Sie auf dem Hauptweg.",
                 "hu": "A tóparti utak sárosak lehetnek; maradjon a főúton.",
                 "ro": "Potecile de pe mal pot fi noroioase; rămâneți pe drumul principal.",
-                "en": "Lakeside paths may be muddy; stick to the main paved route."
+                "en": "Lakeside paths may be muddy; stick to the main paved route.",
+                "cs": "Cesty u jezera mohou být blátivé; držte se hlavní asfaltované trasy."
               }
             },
             {
@@ -969,7 +1041,8 @@
                 "de": "Bremsen Sie frühzeitig vor Kurven in der Altstadt.",
                 "hu": "Fékezzen időben az óvárosi kanyarok előtt.",
                 "ro": "Frânați din timp înainte de curbele din orașul vechi.",
-                "en": "Brake early before corners in the old town."
+                "en": "Brake early before corners in the old town.",
+                "cs": "Brzděte včas před zatáčkami ve starém městě."
               }
             }
           ],
@@ -1001,6 +1074,13 @@
               "Waterproof gloves will keep your hands warm during descents.",
               "The route to Klokoty is steep; take extra care when it's wet.",
               "Use a heavy downpour as an excuse for a longer museum visit."
+            ],
+            "cs": [
+              "Blatníky jsou nezbytné na cestách kolem Jordánu.",
+              "Vyhněte se prudkému brzdění na mokrých kostkách.",
+              "Voděodolné rukavice udrží ruce v teple při sjezdech.",
+              "Trasa do Klokot je strmá; v mokru buďte obzvlášť opatrní.",
+              "Silný liják je dobrá výmluva na delší návštěvu muzea."
             ]
           }
         },
@@ -1009,7 +1089,8 @@
             "de": "Radfahren im winterlichen Tábor ist ein Abenteuer für Hartgesonnene. Die Luft am Jordán-See ist eisig, aber die klare Sicht ist belohnend. Der Žižka-Platz kann spiegelglatt sein, fahren Sie daher defensiv. Ein Zwischenstopp im Kloster Klokoty bietet eine friedliche Atmosphäre im Schnee. Planen Sie Ihre Tour so, dass Sie vor Einbruch der frühen Dunkelheit gegen 16:30 Uhr zurück sind.",
             "hu": "A téli kerékpározás Táborban igazi kaland a kitartóknak. A levegő a Jordán-tónál jeges, de a tiszta kilátás kárpótolja. A Žižka tér tükörsima lehet, vezessen óvatosan. A Klokoty kolostornál tett megálló békés hangulatot áraszt a hóban. Úgy tervezze a túrát, hogy a korai, 16:30-as sötétedés előtt visszaérjen a központba.",
             "ro": "Mersul pe bicicletă în Tábor iarna este o aventură pentru cei rezistenți. Aerul la lacul Jordán este înghețat, dar vizibilitatea clară merită efortul. Piața Žižka poate fi extrem de alunecoasă, conduceți defensiv. O oprire la Mănăstirea Klokoty oferă o atmosferă liniștită în zăpadă. Planificați tura astfel încât să reveniți înainte de lăsarea întunericului, în jur de 16:30.",
-            "en": "Cycling in winter in Tábor is an adventure for the resilient. The air by Jordán Reservoir is icy, but the clear views are rewarding. Žižka Square can be slippery like glass; ride defensively. A stop at Klokoty Monastery offers a peaceful atmosphere in the snow. Plan your tour to return before the early darkness sets in around 4:30 PM."
+            "en": "Cycling in winter in Tábor is an adventure for the resilient. The air by Jordán Reservoir is icy, but the clear views are rewarding. Žižka Square can be slippery like glass; ride defensively. A stop at Klokoty Monastery offers a peaceful atmosphere in the snow. Plan your tour to return before the early darkness sets in around 4:30 PM.",
+            "cs": "Jízda na kole v zimě v Táboře je výzva pro odolné. Vzduch u Jordánu je ledový, ale čisté výhledy to vynahrazují. Žižkovo náměstí může být kluzké jako sklo; jezděte obezřetně. Zastávka v klokotském klášteře nabízí v sněhu klidnou atmosféru. Naplánujte si návrat před brzkým stmíváním kolem 16:30."
           },
           "stops": [
             {
@@ -1018,7 +1099,8 @@
                 "de": "Achten Sie auf 'Black Ice' auf den Steinen.",
                 "hu": "Vigyázzon a 'fekete jégre' a köveken.",
                 "ro": "Atenție la poleiul de pe piatra cubică.",
-                "en": "Watch out for 'black ice' on the stones."
+                "en": "Watch out for 'black ice' on the stones.",
+                "cs": "Dejte pozor na \"černý led\" na kamenech."
               }
             },
             {
@@ -1027,7 +1109,8 @@
                 "de": "Gönnen Sie sich eine Pause im warmen Foyer.",
                 "hu": "Tartson egy rövid pihenőt a meleg aulában.",
                 "ro": "Luați o pauză în holul încălzit.",
-                "en": "Take a break in the warm foyer."
+                "en": "Take a break in the warm foyer.",
+                "cs": "Dejte si pauzu v teplé předsíni."
               }
             },
             {
@@ -1036,7 +1119,8 @@
                 "de": "Besteigen Sie den Turm nur, wenn die Stufen schnee- und eisfrei sind.",
                 "hu": "Csak akkor menjen fel a toronyba, ha a lépcsők jégmentesek.",
                 "ro": "Urcați în turn doar dacă treptele nu sunt înghețate.",
-                "en": "Only climb the tower if the steps are clear of ice and snow."
+                "en": "Only climb the tower if the steps are clear of ice and snow.",
+                "cs": "Vystupujte na věž jen pokud jsou schody bez ledu a sněhu."
               }
             },
             {
@@ -1045,7 +1129,8 @@
                 "de": "Ein magischer Anblick unter einer Schneedecke.",
                 "hu": "Varázslatos látvány hótakaró alatt.",
                 "ro": "O priveliște magică sub pătura de zăpadă.",
-                "en": "A magical sight under a blanket of snow."
+                "en": "A magical sight under a blanket of snow.",
+                "cs": "Magický pohled pod sněhovou peřinou."
               }
             },
             {
@@ -1054,7 +1139,8 @@
                 "de": "Bei Minusgraden ist der Wind vom Wasser sehr kalt.",
                 "hu": "Fagypont alatt a víz felől érkező szél nagyon hideg.",
                 "ro": "La temperaturi negative, vântul dinspre apă este foarte rece.",
-                "en": "At sub-zero temperatures, the wind from the water is very cold."
+                "en": "At sub-zero temperatures, the wind from the water is very cold.",
+                "cs": "Při teplotách pod nulou je vítr od vody velmi studený."
               }
             },
             {
@@ -1063,7 +1149,8 @@
                 "de": "Wärmen Sie sich mit einem heißen Getränk am Markt auf.",
                 "hu": "Melegedjen fel egy forró itallal a piacon.",
                 "ro": "Încălziți-vă cu o băutură fierbinte în piață.",
-                "en": "Warm up with a hot drink at the market stalls."
+                "en": "Warm up with a hot drink at the market stalls.",
+                "cs": "Zahřejte se horkým nápojem u stánků na trhu."
               }
             }
           ],
@@ -1095,6 +1182,13 @@
               "Days are short; ensure your bike lights are fully charged.",
               "Road salt can corrode the chain; clean it after your ride.",
               "Allow more time for the same distance than you would in summer."
+            ],
+            "cs": [
+              "Použijte pneumatiky s dobrým vzorkem nebo hřeby, pokud je to ledové.",
+              "Termoprádlo je nutností při sjezdech v Táboře.",
+              "Dny jsou krátké; ujistěte se, že světla na kole jsou plně nabitá.",
+              "Silnice solí mohou korodovat řetěz; po jízdě ho vyčistěte.",
+              "Počítejte s delším časem na stejnou vzdálenost než v létě."
             ]
           }
         }
@@ -1113,7 +1207,8 @@
             "de": "Cluster Altstadt: Parken & Žižka-Platz",
             "hu": "Óváros Klaszter: Parkolás és Žižka tér",
             "ro": "Cluster Centrul Vechi: Parcare & Piața Žižka",
-            "en": "Old Town Cluster: Parking & Žižka Square"
+            "en": "Old Town Cluster: Parking & Žižka Square",
+            "cs": "Klídek starého města: parkování a Žižkovo náměstí"
           },
           "coords": [
             14.6577,
@@ -1129,7 +1224,8 @@
             "de": "Parken Sie in einem der Parkhäuser am Rande der Altstadt und gehen Sie zum Platz.",
             "hu": "Parkoljon az óváros szélén található parkolóházak egyikében, és sétáljon a térre.",
             "ro": "Parcați într-una dintre parcările de la marginea orașului vechi și mergeți pe jos până în piață.",
-            "en": "Park in one of the car parks on the edge of the old town and walk to the square."
+            "en": "Park in one of the car parks on the edge of the old town and walk to the square.",
+            "cs": "Zaparkujte v jednom z parkovišť na okraji starého města a dojďte pěšky na náměstí."
           }
         },
         {
@@ -1137,7 +1233,8 @@
             "de": "Altes Rathaus & Dekanatskirche",
             "hu": "Régi Városháza és Dékáni templom",
             "ro": "Primăria Veche & Biserica Decanală",
-            "en": "Old Town Hall & Dean's Church"
+            "en": "Old Town Hall & Dean's Church",
+            "cs": "Stará radnice a Děkanský kostel"
           },
           "coords": [
             14.6585,
@@ -1153,7 +1250,8 @@
             "de": "Kombinieren Sie diese beiden Highlights, die nur wenige Schritte voneinander entfernt sind.",
             "hu": "Kombinálja ezt a két látnivalót, amelyek csak pár lépésre vannak egymástól.",
             "ro": "Combinați aceste două atracții majore, aflate la doar câțiva pași una de cealaltă.",
-            "en": "Combine these two highlights, which are just a few steps apart."
+            "en": "Combine these two highlights, which are just a few steps apart.",
+            "cs": "Spojte tyto dvě atrakce, jsou jen pár kroků od sebe."
           }
         },
         {
@@ -1161,7 +1259,8 @@
             "de": "Kotnov-Turm & Bechyně-Tor",
             "hu": "Kotnov-torony & Bechyně-kapu",
             "ro": "Turnul Kotnov & Poarta Bechyně",
-            "en": "Kotnov Tower & Bechyně Gate"
+            "en": "Kotnov Tower & Bechyně Gate",
+            "cs": "Kotnovská věž a Bechyňská brána"
           },
           "coords": [
             14.6545,
@@ -1177,7 +1276,8 @@
             "de": "Ein kurzer Spaziergang vom Hauptplatz zu den Befestigungsanlagen.",
             "hu": "Rövid séta a főtérről az erődítményekhez.",
             "ro": "O scurtă plimbare de la piața principală la fortificații.",
-            "en": "A short walk from the main square to the fortifications."
+            "en": "A short walk from the main square to the fortifications.",
+            "cs": "Krátká procházka z hlavního náměstí k fortifikacím."
           }
         },
         {
@@ -1185,7 +1285,8 @@
             "de": "Cluster Klosterviertel: Klokoty-Kloster",
             "hu": "Kolostor Negyed Klaszter: Klokoty-kolostor",
             "ro": "Cluster Cartierul Mănăstirii: Mănăstirea Klokoty",
-            "en": "Monastery Quarter Cluster: Klokoty Monastery"
+            "en": "Monastery Quarter Cluster: Klokoty Monastery",
+            "cs": "Klášterní čtvrť: Klokotský klášter"
           },
           "coords": [
             14.64,
@@ -1201,7 +1302,8 @@
             "de": "Fahren Sie zu diesem barocken Wallfahrtsort und finden Sie dort leicht einen Parkplatz.",
             "hu": "Vezessen el ehhez a barokk zarándokhelyhez, ahol könnyen talál parkolót.",
             "ro": "Conduceți până la acest lăcaș de pelerinaj baroc și găsiți cu ușurință un loc de parcare.",
-            "en": "Drive to this baroque pilgrimage site and easily find a parking spot."
+            "en": "Drive to this baroque pilgrimage site and easily find a parking spot.",
+            "cs": "Přijeďte k tomuto baroknímu poutnímu místu autem a snadno najdete parkování."
           }
         },
         {
@@ -1209,7 +1311,8 @@
             "de": "Cluster Seeufer: Jordán-Stausee",
             "hu": "Tóparti Klaszter: Jordán-víztározó",
             "ro": "Cluster Malul Lacului: Lacul de acumulare Jordán",
-            "en": "Lakeside Cluster: Jordán Reservoir"
+            "en": "Lakeside Cluster: Jordán Reservoir",
+            "cs": "Pobřežní čtvrť: Jordán"
           },
           "coords": [
             14.669,
@@ -1225,7 +1328,8 @@
             "de": "Beenden Sie den Tag mit einem entspannten Spaziergang am Wasser. Ideal für Familien.",
             "hu": "Zárja a napot egy pihentető sétával a vízparton. Ideális családok számára.",
             "ro": "Încheiați ziua cu o plimbare relaxantă pe malul apei. Ideal pentru familii.",
-            "en": "End the day with a relaxing walk by the water. Ideal for families."
+            "en": "End the day with a relaxing walk by the water. Ideal for families.",
+            "cs": "Den zakončete relaxační procházkou u vody. Ideální pro rodiny."
           }
         }
       ],
@@ -1233,7 +1337,8 @@
         "de": "Mit dem Auto lässt sich Tábor bequem in Clustern erkunden. Parken Sie am Rande der Altstadt und widmen Sie den gesamten Vormittag diesem historischen Kern. Beginnen Sie am Žižka-Platz und schlendern Sie zwischen dem Rathaus, der Kirche und den alten Befestigungsanlagen.\nAm Vormittag erkunden Sie das Labyrinth der Gassen zu Fuß. Nachdem Sie das Hussitenmuseum und den Kirchturm besucht haben, führt Sie ein kurzer Spaziergang zum südlichen Ende der Altstadt, wo der Kotnov-Turm und das Bechyně-Tor Wache halten. Genießen Sie die Aussicht, bevor Sie zum Auto zurückkehren.\nNach dem Mittagessen fahren Sie eine kurze Strecke zum prächtigen Klokoty-Kloster. Dieser barocke Wallfahrtsort strahlt eine unglaubliche Ruhe aus. Nehmen Sie sich Zeit für die Besichtigung des Kreuzgangs und der beeindruckenden Kirche.\nDen Abschluss des Tages bildet ein Besuch am Jordán-Stausee. Fahren Sie zum Ufer, parken Sie das Auto und genießen Sie einen entspannten Spaziergang. Es ist der perfekte Ort, um die südböhmische Natur zu genießen und den Tag ausklingen zu lassen.",
         "hu": "Autóval kényelmesen, klaszterekben fedezheti fel Tábort. Parkoljon az óváros szélén, és szentelje az egész délelőttöt ennek a történelmi magnak. Kezdje a Žižka téren, és sétáljon a városháza, a templom és a régi erődítmények között.\nA délelőtt folyamán fedezze fel gyalog a sikátorok labirintusát. Miután meglátogatta a Huszita Múzeumot és a templomtornyot, egy rövid séta elvezeti az óváros déli végéhez, ahol a Kotnov-torony és a Bechyně-kapu őrködik. Élvezze a kilátást, mielőtt visszatérne az autóhoz.\nEbéd után egy rövid autóúttal eljuthat a csodálatos Klokoty-kolostorhoz. Ez a barokk zarándokhely hihetetlen nyugalmat áraszt. Szánjon időt a kerengő és a lenyűgöző templom megtekintésére.\nA napot a Jordán-víztározónál tett látogatás zárja. Vezessen a parthoz, parkolja le az autót, és élvezzen egy pihentető sétát. Tökéletes hely a dél-csehországi természet élvezetére és a nap lezárására.",
         "ro": "Cu mașina, puteți explora convenabil Tábor în clustere. Parcați la marginea centrului vechi și dedicați întreaga dimineață acestui nucleu istoric. Începeți din Piața Žižka și plimbați-vă între primărie, biserică și vechile fortificații.\nÎn cursul dimineții, explorați labirintul de străduțe pe jos. După ce vizitați Muzeul Husit și turnul bisericii, o scurtă plimbare vă va duce la capătul de sud al orașului vechi, unde veghează Turnul Kotnov și Poarta Bechyně. Bucurați-vă de priveliște înainte de a vă întoarce la mașină.\nDupă prânz, faceți o scurtă călătorie cu mașina până la magnifica Mănăstire Klokoty. Acest lăcaș de pelerinaj baroc emană o liniște incredibilă. Acordați-vă timp pentru a vizita claustrul și biserica impresionantă.\nZiua se încheie cu o vizită la Lacul de acumulare Jordán. Conduceți până la mal, parcați mașina și bucurați-vă de o plimbare relaxantă. Este locul perfect pentru a vă bucura de natura din Boemia de Sud și pentru a încheia ziua.",
-        "en": "By car, you can conveniently explore Tábor in clusters. Park on the edge of the old town and dedicate the entire morning to this historic core. Start at Žižka Square and wander between the town hall, the church and the old fortifications.\nIn the morning, explore the labyrinth of alleys on foot. After visiting the Hussite Museum and the church tower, a short walk will take you to the southern end of the old town, where the Kotnov Tower and the Bechyně Gate stand guard. Enjoy the view before returning to your car.\nAfter lunch, take a short drive to the magnificent Klokoty Monastery. This baroque pilgrimage site exudes an incredible sense of peace. Take your time to visit the cloister and the impressive church.\nThe day ends with a visit to the Jordán Reservoir. Drive to the shore, park the car and enjoy a relaxing walk. It is the perfect place to enjoy the South Bohemian nature and round off the day."
+        "en": "By car, you can conveniently explore Tábor in clusters. Park on the edge of the old town and dedicate the entire morning to this historic core. Start at Žižka Square and wander between the town hall, the church and the old fortifications.\nIn the morning, explore the labyrinth of alleys on foot. After visiting the Hussite Museum and the church tower, a short walk will take you to the southern end of the old town, where the Kotnov Tower and the Bechyně Gate stand guard. Enjoy the view before returning to your car.\nAfter lunch, take a short drive to the magnificent Klokoty Monastery. This baroque pilgrimage site exudes an incredible sense of peace. Take your time to visit the cloister and the impressive church.\nThe day ends with a visit to the Jordán Reservoir. Drive to the shore, park the car and enjoy a relaxing walk. It is the perfect place to enjoy the South Bohemian nature and round off the day.",
+        "cs": "Autem můžete Tábor pohodlně prozkoumat ve zónách. Zaparkujte na okraji starého města a věnujte celé dopoledne tomuto historickému jádru. Začněte na Žižkově náměstí a projděte se mezi radnicí, kostelem a starými opevněními.\nRáno prozkoumejte bludiště uliček pěšky. Po návštěvě Husitského muzea a kostelní věže vás krátká procházka dovede na jižní konec starého města, kde hlídají Kotnovská věž a Bechyňská brána. Užijte si výhled, než se vrátíte k autu.\nPo obědě se krátce svezte k nádhernému Klokotskému klášteru. Toto barokní poutní místo vyzařuje neuvěřitelný klid. Nechte si čas na návštěvu klášterního křížového chodníku a impozantního kostela.\nDen zakončete návštěvou Jordánu. Dojeďte k břehu, zaparkujte a užijte si relaxační procházku. Je to ideální místo pro vychutnání jihočeské přírody a zakončení dne."
       },
       "gastro_picks": {
         "de": [
@@ -1429,6 +1534,12 @@
           "Parking in the old town is very limited; use car parks on the outskirts.",
           "Allow a little extra time to find a parking space in popular places.",
           "A navigation system is helpful for navigating the sometimes narrow streets."
+        ],
+        "cs": [
+          "Použijte strategii zón: zaparkujte jednou v oblasti a objevujte pěšky.",
+          "Parkování ve starém městě je velmi omezené; využijte parkoviště na okrajích.",
+          "Počítejte s malou rezervou času na hledání parkovacího místa v oblíbených lokalitách.",
+          "Navigace pomůže projíždět někdy úzkými ulicemi."
         ]
       },
       "variants": {
@@ -1437,7 +1548,8 @@
             "de": "Das Auto ist die komfortabelste Wahl für ein regnerisches Tábor. Parken Sie direkt am Altstadtrand, um kurze Wege zum Hussitenmuseum zu haben. Die Fahrt zum Kloster Klokoty ist bei Regen unkompliziert und bietet trockene Parkmöglichkeiten. Genießen Sie den Blick auf den grauen Jordán-See gemütlich aus dem warmen Fahrzeug, bevor Sie zum Abendessen ins Zentrum zurückkehren.",
             "hu": "Az autó a legkényelmesebb választás az esős Táborban. Parkoljon közvetlenül az óváros szélén, így csak pár lépés a Huszita Múzeum. A Klokoty kolostorhoz vezető út esőben is egyszerű, és száraz parkolási lehetőséget kínál. Élvezze a szürke Jordán-tóra nyíló kilátást a meleg autóból, mielőtt visszatérne a központba vacsorázni.",
             "ro": "Mașina este cea mai confortabilă alegere pentru un Tábor ploios. Parcați chiar la marginea orașului vechi pentru acces rapid la Muzeul Husit. Drumul spre Mănăstirea Klokoty este simplu pe ploaie și oferă locuri de parcare uscate. Bucurați-vă de vederea spre lacul Jordán din vehiculul cald înainte de a reveni în centru pentru cină.",
-            "en": "A car is the most comfortable choice for a rainy Tábor. Park right at the edge of the old town for short walks to the Hussite Museum. The drive to Klokoty Monastery is straightforward even in rain, offering dry parking options. Enjoy the view of the grey Jordán Reservoir from the warmth of your vehicle before returning to the center for dinner."
+            "en": "A car is the most comfortable choice for a rainy Tábor. Park right at the edge of the old town for short walks to the Hussite Museum. The drive to Klokoty Monastery is straightforward even in rain, offering dry parking options. Enjoy the view of the grey Jordán Reservoir from the warmth of your vehicle before returning to the center for dinner.",
+            "cs": "Auto je nejpohodlnější volba pro deštivý Tábor. Zaparkujte na okraji starého města pro krátké vycházky k Husitskému muzeu. Jízda ke Klokotům je i v dešti bezproblémová a nabízí suché parkovací možnosti. Z teplého vozu si užijte výhled na šedý Jordán, než se vrátíte do centra na večeři."
           },
           "stops": [
             {
@@ -1446,7 +1558,8 @@
                 "de": "Nutzen Sie Parkhäuser, um trockenen Fußes in die Altstadt zu gelangen.",
                 "hu": "Használja a parkolóházakat, hogy száraz lábbal érjen az óvárosba.",
                 "ro": "Folosiți parcările etajate pentru a ajunge în centrul vechi fără a vă uda.",
-                "en": "Use parking garages to reach the old town while staying dry."
+                "en": "Use parking garages to reach the old town while staying dry.",
+                "cs": "Využijte parkovací domy, abyste se do starého města dostali suchou nohou."
               }
             },
             {
@@ -1455,7 +1568,8 @@
                 "de": "Lassen Sie Schirme im Auto, wenn Sie die Museen besuchen.",
                 "hu": "Hagyja az esernyőket az autóban, amikor a múzeumba megy.",
                 "ro": "Lăsați umbrelele în mașină când vizitați muzeele.",
-                "en": "Leave umbrellas in the car when visiting the museums."
+                "en": "Leave umbrellas in the car when visiting the museums.",
+                "cs": "Nechte deštníky v autě při návštěvě muzeí."
               }
             },
             {
@@ -1464,7 +1578,8 @@
                 "de": "Parken Sie in der Nähe des Bechyně-Tors für minimalen Regenweg.",
                 "hu": "Parkoljon a Bechyně-kapu közelében a minimális séta érdekében.",
                 "ro": "Parcați aproape de Poarta Bechyně pentru a merge cât mai puțin prin ploaie.",
-                "en": "Park near Bechyně Gate to minimize walking in the rain."
+                "en": "Park near Bechyně Gate to minimize walking in the rain.",
+                "cs": "Parkujte u Bechyňské brány, abyste minimalizovali chůzi v dešti."
               }
             },
             {
@@ -1473,7 +1588,8 @@
                 "de": "Der Parkplatz direkt am Kloster ist ideal bei Starkregen.",
                 "hu": "A kolostor melletti parkoló ideális heves esőzéskor.",
                 "ro": "Parcarea de lângă mănăstire este ideală în caz de ploaie torențială.",
-                "en": "The parking lot right by the monastery is ideal during heavy rain."
+                "en": "The parking lot right by the monastery is ideal during heavy rain.",
+                "cs": "Parkoviště přímo u kláštera je ideální při silném dešti."
               }
             },
             {
@@ -1482,7 +1598,8 @@
                 "de": "Aussichtspunkte sind auch direkt vom Auto aus erreichbar.",
                 "hu": "A kilátópontok egy része közvetlenül az autóból is elérhető.",
                 "ro": "Unele puncte de belvedere sunt accesibile direct din mașină.",
-                "en": "Some viewpoints are accessible directly from your car."
+                "en": "Some viewpoints are accessible directly from your car.",
+                "cs": "Některé vyhlídky jsou přístupné přímo z vašeho auta."
               }
             }
           ],
@@ -1514,6 +1631,13 @@
               "Visibility at Jordán Reservoir can be limited during heavy downpours.",
               "Have small change or a parking app ready for the meters.",
               "Use your car as a base to change wet clothes if needed."
+            ],
+            "cs": [
+              "Parkovací dům 'Pod Střelnicí' nabízí přímý přístup do historického jádra.",
+              "Vyhněte se úzkým dlážděným ulicím v centru; parkujte na okrajích.",
+              "Viditelnost u Jordánu může být při silných přívalových deštích omezená.",
+              "Mějte drobné nebo parkovací aplikaci připravené na parkovací automaty.",
+              "Využijte auto jako základnu pro převléknutí mokrého oblečení."
             ]
           }
         },
@@ -1522,7 +1646,8 @@
             "de": "Eine winterliche Autofahrt durch Tábor bietet Wärme zwischen den Sehenswürdigkeiten. Der Žižka-Platz ist im Schnee malerisch, erfordert aber vorsichtiges Rangieren. Das Kloster Klokoty wirkt im Winter besonders friedlich und ist leicht mit dem Auto erreichbar. Nutzen Sie die kurzen Wege vom Parkplatz zum Hussitenmuseum, um die Kälte zu minimieren. Ein Abendessen in der Altstadt krönt den Tag, bevor Sie ins warme Hotel fahren.",
             "hu": "A téli autózás Táborban meleget és kényelmet nyújt a látnivalók között. A Žižka tér festői a hóban, de óvatos manőverezést igényel. A Klokoty kolostor télen különösen békés, és autóval könnyen megközelíthető. Minimalizálja a hidegben töltött időt a parkolók és a múzeum közötti rövid sétákkal. Egy óvárosi vacsora koronázza meg a napot, mielőtt a meleg hotelbe indulna.",
             "ro": "O călătorie cu mașina prin Tábor iarna oferă căldură între obiectivele turistice. Piața Žižka este pitorească în zăpadă, dar necesită manevre atente. Mănăstirea Klokoty pare deosebit de liniștită iarna și este ușor accesibilă cu mașina. Minimizați timpul petrecut în frig folosind parcările apropiate de Muzeul Husit. O cină în orașul vechi încheie ziua înainte de a merge la hotelul călduros.",
-            "en": "A winter drive through Tábor offers warmth between the sights. Žižka Square is picturesque in the snow but requires careful maneuvering. Klokoty Monastery feels especially peaceful in winter and is easily reachable by car. Minimize time in the cold by using parking spots close to the Hussite Museum. A dinner in the old town crowns the day before heading to your warm hotel."
+            "en": "A winter drive through Tábor offers warmth between the sights. Žižka Square is picturesque in the snow but requires careful maneuvering. Klokoty Monastery feels especially peaceful in winter and is easily reachable by car. Minimize time in the cold by using parking spots close to the Hussite Museum. A dinner in the old town crowns the day before heading to your warm hotel.",
+            "cs": "Zimní jízda Tábořem nabízí mezi památkami teplo. Žižkovo náměstí je zasněžené malebně, ale vyžaduje opatrné manévrování. Klokotský klášter působí v zimě obzvlášť poklidně a je snadno dostupný autem. Zkraťte pobyt v chladu parkováním blízko Husitského muzea. Den zakončete večeří ve starém městě před návratem do teplého hotelu."
           },
           "stops": [
             {
@@ -1531,7 +1656,8 @@
                 "de": "Achten Sie auf Räumfahrzeuge in den engen Gassen.",
                 "hu": "Vigyázzon a hókotrókra a szűk utcákban.",
                 "ro": "Atenție la utilajele de deszăpezire pe străzile înguste.",
-                "en": "Watch out for snow removal vehicles in the narrow alleys."
+                "en": "Watch out for snow removal vehicles in the narrow alleys.",
+                "cs": "Dejte pozor na sněhové odhrnovače v úzkých uličkách."
               }
             },
             {
@@ -1540,7 +1666,8 @@
                 "de": "Parkplätze können durch Schneehaufen eingeschränkt sein.",
                 "hu": "A parkolóhelyek száma a hóbuckák miatt korlátozott lehet.",
                 "ro": "Locurile de parcare pot fi limitate din cauza mormanelor de zăpadă.",
-                "en": "Parking spots might be limited due to piled-up snow."
+                "en": "Parking spots might be limited due to piled-up snow.",
+                "cs": "Parkovací místa mohou být omezená kvůli nahrnutému sněhu."
               }
             },
             {
@@ -1549,7 +1676,8 @@
                 "de": "Die Zufahrt zum Kotnov kann bei Glätte anspruchsvoll sein.",
                 "hu": "A Kotnovhoz vezető út jegesedéskor embert próbáló lehet.",
                 "ro": "Accesul spre Kotnov poate fi dificil în caz de polei.",
-                "en": "The access road to Kotnov can be challenging if it's icy."
+                "en": "The access road to Kotnov can be challenging if it's icy.",
+                "cs": "Přístupová cesta ke Kotnovu může být náročná, pokud je namrzlá."
               }
             },
             {
@@ -1558,7 +1686,8 @@
                 "de": "Genießen Sie den Panoramablick auf das verschneite Kloster.",
                 "hu": "Élvezze a havas kolostorra nyíló panorámát.",
                 "ro": "Bucurați-vă de panorama mănăstirii acoperite de zăpadă.",
-                "en": "Enjoy the panoramic view of the snow-covered monastery."
+                "en": "Enjoy the panoramic view of the snow-covered monastery.",
+                "cs": "Užijte si panoramatický výhled na zasněžený klášter."
               }
             },
             {
@@ -1567,7 +1696,8 @@
                 "de": "Der zugefrorene See ist ein beeindruckendes Fotomotiv.",
                 "hu": "A befagyott tó lenyűgöző fotótéma.",
                 "ro": "Lacul înghețat este un subiect fotografic impresionant.",
-                "en": "The frozen reservoir makes for an impressive photo subject."
+                "en": "The frozen reservoir makes for an impressive photo subject.",
+                "cs": "Zamrzlý Jordán je působivým motivem pro fotografii."
               }
             }
           ],
@@ -1599,6 +1729,13 @@
               "Uphill sections in the old town can be treacherous if icy.",
               "Parking garages are usually clear of snow and ice, making them safer.",
               "Check your car battery status during extreme cold spells."
+            ],
+            "cs": [
+              "V zimních podmínkách jsou v České republice povinné zimní pneumatiky.",
+              "Mějte v autě škrabku na led a smeták na sníh.",
+              "Stoupání ve starém městě může být nebezpečné, pokud je namrzlé.",
+              "Parkovací domy jsou obvykle bez sněhu a ledu, takže jsou bezpečnější.",
+              "Zkontrolujte stav autobaterie při extrémních mrazech."
             ]
           }
         }
@@ -1617,7 +1754,8 @@
             "de": "Ankunft am Busbahnhof & Gang zum Žižka-Platz",
             "hu": "Érkezés a buszpályaudvarra és séta a Žižka térre",
             "ro": "Sosire la autogară & plimbare până la Piața Žižka",
-            "en": "Arrival at the bus station & walk to Žižka Square"
+            "en": "Arrival at the bus station & walk to Žižka Square",
+            "cs": "Příjezd na autobusové nádraží a pěší přesun na Žižkovo náměstí"
           },
           "coords": [
             14.6577,
@@ -1633,7 +1771,8 @@
             "de": "Der Hauptbusbahnhof ist nur einen kurzen Spaziergang von der Altstadt entfernt.",
             "hu": "A fő buszpályaudvar csak egy rövid sétára van az óvárostól.",
             "ro": "Autogara principală este la doar o scurtă plimbare de centrul vechi.",
-            "en": "The main bus station is just a short walk from the old town."
+            "en": "The main bus station is just a short walk from the old town.",
+            "cs": "Hlavní autobusové nádraží je jen kousek pěšky od starého města."
           }
         },
         {
@@ -1641,7 +1780,8 @@
             "de": "Spaziergang: Altes Rathaus, Kirche, Gänge",
             "hu": "Séta: Régi Városháza, templom, folyosók",
             "ro": "Plimbare: Primăria Veche, Biserică, Coridoare",
-            "en": "Walk: Old Town Hall, Church, Passages"
+            "en": "Walk: Old Town Hall, Church, Passages",
+            "cs": "Pěšky: Stará radnice, kostel, průchody"
           },
           "coords": [
             14.6585,
@@ -1657,7 +1797,8 @@
             "de": "Erkunden Sie den Kern der Altstadt komplett zu Fuß, alles liegt nah beieinander.",
             "hu": "Fedezze fel az óváros magját teljesen gyalog, minden közel van egymáshoz.",
             "ro": "Explorați nucleul orașului vechi în întregime pe jos, totul este aproape.",
-            "en": "Explore the core of the old town entirely on foot, everything is close by."
+            "en": "Explore the core of the old town entirely on foot, everything is close by.",
+            "cs": "Prozkoumejte jádro starého města celé pěšky, vše je blízko."
           }
         },
         {
@@ -1665,7 +1806,8 @@
             "de": "Fahrt zum Klokoty-Kloster",
             "hu": "Buszozás a Klokoty-kolostorhoz",
             "ro": "Călătorie cu autobuzul la Mănăstirea Klokoty",
-            "en": "Bus ride to Klokoty Monastery"
+            "en": "Bus ride to Klokoty Monastery",
+            "cs": "Autobus k Klokotům"
           },
           "coords": [
             14.64,
@@ -1681,7 +1823,8 @@
             "de": "Nehmen Sie einen lokalen Bus vom Zentrum. Die Fahrt dauert nur wenige Minuten.",
             "hu": "Menjen helyi busszal a központból. Az út csak néhány percig tart.",
             "ro": "Luați un autobuz local din centru. Călătoria durează doar câteva minute.",
-            "en": "Take a local bus from the center. The journey only takes a few minutes."
+            "en": "Take a local bus from the center. The journey only takes a few minutes.",
+            "cs": "Vezměte místní autobus z centra. Cesta trvá jen pár minut."
           }
         },
         {
@@ -1689,7 +1832,8 @@
             "de": "Fahrt zum Jordán-Stausee",
             "hu": "Buszozás a Jordán-víztározóhoz",
             "ro": "Călătorie cu autobuzul la Lacul de acumulare Jordán",
-            "en": "Bus ride to Jordán Reservoir"
+            "en": "Bus ride to Jordán Reservoir",
+            "cs": "Autobus k Jordánu"
           },
           "coords": [
             14.669,
@@ -1705,7 +1849,8 @@
             "de": "Möglicherweise müssen Sie im Zentrum umsteigen, um zum See zu gelangen.",
             "hu": "Lehet, hogy a központban át kell szállnia, hogy eljusson a tóhoz.",
             "ro": "S-ar putea să trebuiască să schimbați autobuzul în centru pentru a ajunge la lac.",
-            "en": "You may need to change buses in the center to get to the lake."
+            "en": "You may need to change buses in the center to get to the lake.",
+            "cs": "Pro cestu k jezeru může být nutné v centru přestoupit."
           }
         },
         {
@@ -1713,7 +1858,8 @@
             "de": "Rückkehr ins Zentrum",
             "hu": "Visszatérés a központba",
             "ro": "Întoarcere în centru",
-            "en": "Return to the center"
+            "en": "Return to the center",
+            "cs": "Návrat do centra"
           },
           "coords": [
             14.6577,
@@ -1729,7 +1875,8 @@
             "de": "Beenden Sie den Tag bei einem Abendessen, bevor Sie den Bus zurück nehmen.",
             "hu": "Zárja a napot egy vacsorával, mielőtt visszaindulna a busszal.",
             "ro": "Încheiați ziua cu o cină înainte de a lua autobuzul înapoi.",
-            "en": "End the day with dinner before taking the bus back."
+            "en": "End the day with dinner before taking the bus back.",
+            "cs": "Den zakončete večeří před návratem autobusem."
           }
         }
       ],
@@ -1737,7 +1884,8 @@
         "de": "Tábor lässt sich gut mit öffentlichen Verkehrsmitteln erkunden. Vom Busbahnhof aus ist die Altstadt nur einen kurzen Spaziergang entfernt. Widmen Sie den Vormittag dem kompakten historischen Zentrum, das Sie komplett zu Fuß durchqueren können.\nNachdem Sie den Žižka-Platz, das Rathaus und die unterirdischen Gänge erkundet haben, nehmen Sie einen lokalen Bus. Dieser bringt Sie in wenigen Minuten zum beeindruckenden Klokoty-Kloster, einem Ort der Ruhe etwas außerhalb des Zentrums.\nAm Nachmittag bringt Sie ein weiterer Bus zum Jordán-Stausee. Genießen Sie die Natur und die frische Luft bei einem Spaziergang am Ufer, bevor Sie die Rückfahrt ins Stadtzentrum antreten. Das Busnetz verbindet die Hauptattraktionen effizient.\nLassen Sie den Tag mit einem gemütlichen Abendessen in einem der vielen Restaurants der Altstadt ausklingen. Von hier aus ist es nicht weit zurück zum Busbahnhof, um Ihre Heim- oder Weiterreise anzutreten.",
         "hu": "Tábor tömegközlekedéssel is jól felfedezhető. A buszpályaudvarról az óváros csak egy rövid sétára van. Szánja a délelőttöt a kompakt történelmi központra, amelyet teljes egészében gyalog bejárhat.\nMiután felfedezte a Žižka teret, a városházát és a földalatti folyosókat, szálljon helyi buszra. Ez néhány perc alatt elviszi a lenyűgöző Klokoty-kolostorhoz, a nyugalom szigetéhez a központon kívül.\nDélután egy másik busz elviszi a Jordán-víztározóhoz. Élvezze a természetet és a friss levegőt egy tóparti sétával, mielőtt visszaindulna a városközpontba. A buszhálózat hatékonyan köti össze a főbb látnivalókat.\nZárja a napot egy kellemes vacsorával az óváros számos éttermének egyikében. Innen már nincs messze a buszpályaudvar, ahonnan hazautazhat vagy folytathatja útját.",
         "ro": "Tábor poate fi explorat cu ușurință folosind transportul public. De la autogară, centrul vechi este la doar o scurtă plimbare. Dedicați dimineața centrului istoric compact, pe care îl puteți traversa în întregime pe jos.\nDupă ce ați explorat Piața Žižka, primăria și coridoarele subterane, luați un autobuz local. Acesta vă va duce în câteva minute la impresionanta Mănăstire Klokoty, un loc de liniște situat puțin în afara centrului.\nDupă-amiaza, un alt autobuz vă va duce la Lacul de acumulare Jordán. Bucurați-vă de natură și de aerul curat cu o plimbare pe mal, înainte de a vă întoarce în centrul orașului. Rețeaua de autobuze leagă eficient principalele atracții.\nÎncheiați ziua cu o cină plăcută la unul dintre numeroasele restaurante din centrul vechi. De aici, nu este departe până la autogară pentru a vă întoarce acasă sau a vă continua călătoria.",
-        "en": "Tábor is easy to explore by public transport. The old town is just a short walk from the bus station. Dedicate the morning to the compact historic centre, which you can cross entirely on foot.\nAfter exploring Žižka Square, the Town Hall and the underground passages, take a local bus. This will take you in a few minutes to the impressive Klokoty Monastery, a place of peace just outside the centre.\nIn the afternoon, another bus will take you to the Jordán Reservoir. Enjoy the nature and fresh air with a walk along the shore before heading back to the city centre. The bus network efficiently connects the main attractions.\nEnd the day with a pleasant dinner in one of the many restaurants in the old town. From here it is not far back to the bus station to start your journey home or continue your travels."
+        "en": "Tábor is easy to explore by public transport. The old town is just a short walk from the bus station. Dedicate the morning to the compact historic centre, which you can cross entirely on foot.\nAfter exploring Žižka Square, the Town Hall and the underground passages, take a local bus. This will take you in a few minutes to the impressive Klokoty Monastery, a place of peace just outside the centre.\nIn the afternoon, another bus will take you to the Jordán Reservoir. Enjoy the nature and fresh air with a walk along the shore before heading back to the city centre. The bus network efficiently connects the main attractions.\nEnd the day with a pleasant dinner in one of the many restaurants in the old town. From here it is not far back to the bus station to start your journey home or continue your travels.",
+        "cs": "Tábor se snadno prozkoumává veřejnou dopravou. Staré město je jen krátká procházka od autobusového nádraží. Dopoledne věnujte kompaktnímu historickému centru, které lze projít celé pěšky.\nPo prohlídce Žižkova náměstí, radnice a podzemních průchodů si vezměte místní autobus. Ten vás během několika minut dopraví k impozantnímu Klokotskému klášteru, místu klidu nedaleko centra.\nOdpoledne vás další autobus odveze k Jordánu. Užijte si přírodu a čerstvý vzduch při procházce po břehu, než se vrátíte zpět do centra. Síť autobusů spojuje hlavní památky efektivně.\nDen zakončete příjemnou večeří v jedné z mnoha restaurací ve starém městě. Odtud to není daleko zpět na autobusové nádraží, když se vydáte na cestu domů nebo budete pokračovat dále."
       },
       "gastro_picks": {
         "de": [
@@ -1933,6 +2081,12 @@
           "Check the bus schedule in advance, especially for the return journey in the evening.",
           "Buses can be crowded during peak hours.",
           "Have change ready for tickets if you buy directly from the driver."
+        ],
+        "cs": [
+          "Kupte si denní jízdenku, pokud plánujete více cest.",
+          "Zkontrolujte jízdní řád autobusu předem, zvláště návrat večer.",
+          "Autobusy mohou být v době špičky přeplněné.",
+          "Mějte drobné připravené na jízdenky, pokud je kupujete u řidiče."
         ]
       },
       "variants": {
@@ -1941,7 +2095,8 @@
             "de": "Öffentliche Verkehrsmittel in Tábor sind bei Regen ein Segen. Vom Busbahnhof gelangen Sie schnell zum Žižka-Platz. Die Busfahrt nach Klokoty erspart Ihnen den nassen Fußmarsch bergauf. Das Jordán-Ufer ist ebenfalls gut angebunden, sodass Sie Regenschauer in den Wartehäuschen oder im Bus aussitzen können. Der Tag endet bequem mit einer Rückfahrt ins Zentrum.",
             "hu": "Tábor tömegközlekedése esőben igazi áldás. A buszpályaudvarról gyorsan elérheti a Žižka teret. A Klokoty kolostorhoz tartó busz megkíméli a vizes, hegymeneti sétától. A Jordán-part is jól megközelíthető, így a buszban vagy a várókban vészelheti át a záporokat. A nap kényelmesen, egy központba tartó buszos utazással zárul.",
             "ro": "Transportul public din Tábor este o binecuvântare pe ploaie. De la autogară ajungeți rapid în Piața Žižka. Călătoria cu autobuzul spre Klokoty vă scutește de un drum umed la deal. Malul lacului Jordán este, de asemenea, bine conectat, permițându-vă să așteptați trecerea averselor în stații sau în autobuz. Ziua se încheie confortabil cu o cursă spre centru.",
-            "en": "Public transit in Tábor is a blessing when it rains. From the bus station, you can quickly reach Žižka Square. The bus ride to Klokoty saves you from a wet walk uphill. The Jordán lakeside is also well-connected, allowing you to wait out rain showers in shelters or on the bus. The day ends comfortably with a ride back to the center."
+            "en": "Public transit in Tábor is a blessing when it rains. From the bus station, you can quickly reach Žižka Square. The bus ride to Klokoty saves you from a wet walk uphill. The Jordán lakeside is also well-connected, allowing you to wait out rain showers in shelters or on the bus. The day ends comfortably with a ride back to the center.",
+            "cs": "Veřejná doprava v Táboře je požehnáním, když prší. Z nádraží se rychle dostanete na Žižkovo náměstí. Autobusem ke Klokotům se vyhnete mokrému výstupu do kopce. Jordán je také dobře napojený, takže můžete přestát přeháňky v přístřešcích nebo v autobuse. Den pohodlně skončí jízdou zpět do centra."
           },
           "stops": [
             {
@@ -1950,7 +2105,8 @@
                 "de": "Die Passage am Bahnhof bietet Schutz beim Warten.",
                 "hu": "Az állomási aluljáró védelmet nyújt várakozás közben.",
                 "ro": "Pasajul de la gară oferă adăpost în timp ce așteptați.",
-                "en": "The station passage provides shelter while waiting."
+                "en": "The station passage provides shelter while waiting.",
+                "cs": "Průchod na nádraží poskytuje přístřeší při čekání."
               }
             },
             {
@@ -1959,7 +2115,8 @@
                 "de": "Nutzen Sie die kurzen Wege zwischen den Gebäuden.",
                 "hu": "Használja ki az épületek közötti rövid távolságokat.",
                 "ro": "Profitați de distanțele scurte dintre clădiri.",
-                "en": "Take advantage of the short distances between the buildings."
+                "en": "Take advantage of the short distances between the buildings.",
+                "cs": "Využijte krátkých vzdáleností mezi budovami."
               }
             },
             {
@@ -1968,7 +2125,8 @@
                 "de": "Fahrkarten können oft kontaktlos im Bus bezahlt werden.",
                 "hu": "A jegyeket gyakran érintésmentesen is kifizetheti a buszon.",
                 "ro": "Biletele pot fi plătite adesea contactless în autobuz.",
-                "en": "Tickets can often be paid for contactless on the bus."
+                "en": "Tickets can often be paid for contactless on the bus.",
+                "cs": "Jízdenky lze často zaplatit i bezkontaktně v autobusu."
               }
             },
             {
@@ -1977,7 +2135,8 @@
                 "de": "Steigen Sie direkt an der Haltestelle 'U Jordánu' aus.",
                 "hu": "Szálljon le közvetlenül az 'U Jordánu' megállónál.",
                 "ro": "Coborâți chiar la stația 'U Jordánu'.",
-                "en": "Get off directly at the 'U Jordánu' stop."
+                "en": "Get off directly at the 'U Jordánu' stop.",
+                "cs": "Vystupte přímo na zastávce 'U Jordánu'."
               }
             },
             {
@@ -1986,7 +2145,8 @@
                 "de": "Wärmen Sie sich während der Fahrt kurz auf.",
                 "hu": "Melegedjen fel egy kicsit az utazás alatt.",
                 "ro": "Încălziți-vă puțin în timpul călătoriei.",
-                "en": "Warm up a bit during the ride."
+                "en": "Warm up a bit during the ride.",
+                "cs": "Během jízdy se trochu zahřejte."
               }
             }
           ],
@@ -2018,6 +2178,13 @@
               "Buses in Tábor are punctual and provide a dry place to sit.",
               "Buy a day pass for flexible travel between rain showers.",
               "Most buses are modern and well-heated/air-conditioned."
+            ],
+            "cs": [
+              "Aplikace 'IDOS' je skvělá pro plánování jízdních řádů v reálném čase.",
+              "Mějte deštník připravený na krátké přesuny mezi zastávkami.",
+              "Autobusy v Táboře jezdí načas a poskytují suché místo k sezení.",
+              "Kupte si denní jízdenku pro flexibilní cestování mezi přeháňkami.",
+              "Většina autobusů je moderní a dobře vytápěná/klimatizovaná."
             ]
           }
         },
@@ -2026,7 +2193,8 @@
             "de": "Der winterliche Transit in Tábor schont Ihre Kräfte bei Kälte. Vom Bahnhof bringt Sie der Bus direkt in das Herz der Altstadt. Die verschneite Fahrt nach Klokoty bietet herrliche Ausblicke, während Sie im warmen Bus sitzen. Der Jordán-See wirkt im Winterfrost majestätisch. Planen Sie Ihre Rückfahrt rechtzeitig, da der Takt am späten Nachmittag seltener sein kann.",
             "hu": "A téli tömegközlekedés Táborban kíméli az erejét a hidegben. Az állomástól busz viszi egyenesen az óváros szívébe. A havas út Klokoty felé gyönyörű kilátást nyújt a meleg busz ablakából. A Jordán-tó fenséges látvány a téli fagyban. Időben tervezze meg a visszautat, mert késő délután ritkulhatnak a járatok.",
             "ro": "Tranzitul de iarnă în Tábor vă ajută să economisiți energie în ger. De la gară, autobuzul vă duce direct în inima orașului vechi. Călătoria prin zăpadă spre Klokoty oferă vederi superbe din autobuzul călduros. Lacul Jordán pare maiestuos în înghețul iernii. Planificați-vă întoarcerea din timp, deoarece frecvența autobuzelor poate scădea spre seară.",
-            "en": "Winter transit in Tábor saves your energy in the biting cold. From the station, the bus takes you directly to the heart of the old town. The snowy ride to Klokoty offers wonderful views from the warmth of the bus. Jordán Reservoir looks majestic in the winter frost. Plan your return journey in advance, as bus frequency might decrease in the late afternoon."
+            "en": "Winter transit in Tábor saves your energy in the biting cold. From the station, the bus takes you directly to the heart of the old town. The snowy ride to Klokoty offers wonderful views from the warmth of the bus. Jordán Reservoir looks majestic in the winter frost. Plan your return journey in advance, as bus frequency might decrease in the late afternoon.",
+            "cs": "Zimní doprava v Táboře šetří energii v ostrém mrazu. Ze stanice vás autobus doveze přímo do srdce starého města. Sněhová jízda do Klokot nabízí krásné výhledy z tepla autobusu. Jordánské jezero vypadá v zimním námrazu majestátně. Naplánujte si návrat dopředu, protože četnost spojů může odpoledne klesat."
           },
           "stops": [
             {
@@ -2035,7 +2203,8 @@
                 "de": "Die Wartehalle im Bahnhof ist gut beheizt.",
                 "hu": "Az állomás váróterme jól fűtött.",
                 "ro": "Sala de așteptare din gară este bine încălzită.",
-                "en": "The station waiting hall is well-heated."
+                "en": "The station waiting hall is well-heated.",
+                "cs": "Čekárna na nádraží je dobře vytápěná."
               }
             },
             {
@@ -2044,7 +2213,8 @@
                 "de": "Verkürzen Sie die Außenwege durch gezielte Busnutzung.",
                 "hu": "Rövidítse le a kinti sétákat célzott buszhasználattal.",
                 "ro": "Scurtați plimbările afară folosind strategic autobuzul.",
-                "en": "Shorten your time outdoors by using the bus strategically."
+                "en": "Shorten your time outdoors by using the bus strategically.",
+                "cs": "Zkraťte čas venku tím, že autobus využijete strategicky."
               }
             },
             {
@@ -2053,7 +2223,8 @@
                 "de": "Genießen Sie die Fahrt durch das verschneite Talsenktal.",
                 "hu": "Élvezze az utazást a havas völgyön keresztül.",
                 "ro": "Bucurați-vă de călătoria prin valea înzăpezită.",
-                "en": "Enjoy the ride through the snow-covered valley."
+                "en": "Enjoy the ride through the snow-covered valley.",
+                "cs": "Užijte si jízdu zasněženým údolím."
               }
             },
             {
@@ -2062,7 +2233,8 @@
                 "de": "Haltestellen in See-Nähe können sehr windig sein.",
                 "hu": "A tó környéki megállók nagyon szelesek lehetnek.",
                 "ro": "Stațiile de lângă lac pot fi foarte expuse vântului.",
-                "en": "Stops near the reservoir can be very windy."
+                "en": "Stops near the reservoir can be very windy.",
+                "cs": "Zastávky u přehrady mohou být velmi větrné."
               }
             },
             {
@@ -2071,7 +2243,8 @@
                 "de": "Nutzen Sie die Zeit im Bus, um die nächsten Schritte zu planen.",
                 "hu": "Használja ki az időt a buszon a következő lépések megtervezésére.",
                 "ro": "Folosiți timpul din autobuz pentru a planifica următorii pași.",
-                "en": "Use your time on the bus to plan your next moves."
+                "en": "Use your time on the bus to plan your next moves.",
+                "cs": "Vyplňte si čas v autobuse plánováním dalších kroků."
               }
             }
           ],
@@ -2103,6 +2276,13 @@
               "Wait in shops or cafes near the bus stops if possible.",
               "Wear warm socks; your feet can get cold quickly while waiting.",
               "The illuminated city looks especially beautiful from the bus at night."
+            ],
+            "cs": [
+              "Autobusy jsou v zimě nejbezpečnějším způsobem, jak překonat prudké kopce.",
+              "Jízdní řády mohou být při silném sněžení mírně zpožděné.",
+              "Pokud je to možné, čekejte ve obchodech nebo kavárnách u zastávek.",
+              "Noste teplé ponožky; nohy vám mohou rychle zchladnout během čekání.",
+              "Osvětlené město vypadá z autobusu v noci obzvlášť krásně."
             ]
           }
         }

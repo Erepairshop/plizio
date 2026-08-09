@@ -21,7 +21,8 @@
             "de": "Přemysl-Otakar-II.-Platz",
             "hu": "Přemysl Otakar II tér",
             "ro": "Piața Přemysl Otakar al II-lea",
-            "en": "Přemysl Otakar II Square"
+            "en": "Přemysl Otakar II Square",
+            "cs": "Náměstí Přemysla Otakara II."
           },
           "coords": [
             14.4747,
@@ -37,7 +38,8 @@
             "de": "Achten Sie auf den „verlorenen Stein“ – wer nach 21 Uhr darauf tritt, findet nicht mehr nach Hause.",
             "hu": "Keresse meg az „elveszett követ”! A legenda szerint aki este 9 után rálép, nem talál többé haza.",
             "ro": "Căutați „piatra rătăcirii”. Legenda spune că cine calcă pe ea după ora 21:00 nu va mai găsi drumul spre casă.",
-            "en": "Look for the 'wandering stone' – legend says if you step on it after 9 PM, you won't find your way home."
+            "en": "Look for the 'wandering stone' – legend says if you step on it after 9 PM, you won't find your way home.",
+            "cs": "Hledejte „putující kámen“ – legenda praví, že když na něj vstoupíte po 21:00, domů už cestu nenajdete."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Rathaus und Samson-Brunnen",
             "hu": "Városháza és Sámson-kút",
             "ro": "Primăria și Fântâna lui Samson",
-            "en": "Town Hall and Samson's Fountain"
+            "en": "Town Hall and Samson's Fountain",
+            "cs": "Radnice a Samsonova kašna"
           },
           "coords": [
             14.4735,
@@ -61,7 +64,8 @@
             "de": "Bewundern Sie die allegorischen Statuen am Rathaus, die Gerechtigkeit, Tapferkeit, Weisheit und Besonnenheit darstellen.",
             "hu": "Csodálja meg a Városháza allegorikus szobrait: az Igazságot, Bátorságot, Bölcsességet és Óvatosságot.",
             "ro": "Admirați statuile alegorice de pe Primărie, reprezentând Justiția, Curajul, Înțelepciunea și Prudența.",
-            "en": "Admire the allegorical statues on the Town Hall representing Justice, Bravery, Wisdom, and Prudence."
+            "en": "Admire the allegorical statues on the Town Hall representing Justice, Bravery, Wisdom, and Prudence.",
+            "cs": "Obdivujte alegorické sochy na radnici představující Spravedlnost, Statečnost, Moudrost a Opatrnost."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Kathedrale St. Nikolaus",
             "hu": "Szent Miklós-székesegyház",
             "ro": "Catedrala Sfântul Nicolae",
-            "en": "St. Nicholas Cathedral"
+            "en": "St. Nicholas Cathedral",
+            "cs": "Katedrála sv. Mikuláše"
           },
           "coords": [
             14.4772,
@@ -85,7 +90,8 @@
             "de": "Die Kathedrale wurde nach einem Brand im 17. Jahrhundert im Barockstil wiederaufgebaut.",
             "hu": "A katedrálist a 17. századi tűzvész után barokk stílusban építették újjá.",
             "ro": "Catedrala a fost reconstruită în stil baroc după un incendiu devastator în secolul al XVII-lea.",
-            "en": "The cathedral was rebuilt in the Baroque style after a major fire in the 17th century."
+            "en": "The cathedral was rebuilt in the Baroque style after a major fire in the 17th century.",
+            "cs": "Katedrála byla po velkém požáru ze 17. století přestavěna v barokním slohu."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Schwarzer Turm",
             "hu": "Fekete-torony",
             "ro": "Turnul Negru",
-            "en": "Black Tower"
+            "en": "Black Tower",
+            "cs": "Černá věž"
           },
           "coords": [
             14.4778,
@@ -109,7 +116,8 @@
             "de": "Steigen Sie die 225 Stufen für die beste Aussicht über die Stadt und die umliegende Landschaft.",
             "hu": "Mássza meg a 225 lépcsőfokot a városra és a környékre nyíló legjobb kilátásért!",
             "ro": "Urcați cele 225 de trepte pentru cea mai bună priveliște asupra orașului și a peisajului înconjurător.",
-            "en": "Climb the 225 steps for the best view over the city and the surrounding countryside."
+            "en": "Climb the 225 steps for the best view over the city and the surrounding countryside.",
+            "cs": "Vystoupejte 225 schodů pro nejlepší výhled na město a okolní krajinu."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Turm Eiserne Jungfrau",
             "hu": "Vasalótorony (Vasleány)",
             "ro": "Turnul Fecioara de Fier",
-            "en": "Iron Maiden Tower"
+            "en": "Iron Maiden Tower",
+            "cs": "Věž Železná panna"
           },
           "coords": [
             14.469,
@@ -133,7 +142,8 @@
             "de": "Teil der ehemaligen Stadtbefestigung. Ein schöner Spaziergang entlang des Flusses Maltsch.",
             "hu": "Az egykori városi erődítmény része. Tegyen egy szép sétát a Malše folyó partján!",
             "ro": "Parte a fostelor fortificații ale orașului. O plimbare frumoasă de-a lungul râului Malše.",
-            "en": "Part of the former city fortifications. It's a beautiful walk along the Malše river."
+            "en": "Part of the former city fortifications. It's a beautiful walk along the Malše river.",
+            "cs": "Součást bývalého městského opevnění. Příjemná procházka podél řeky Malše."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Südböhmisches Museum",
             "hu": "Dél-Csehországi Múzeum",
             "ro": "Muzeul Boemiei de Sud",
-            "en": "Museum of South Bohemia"
+            "en": "Museum of South Bohemia",
+            "cs": "Muzeum Jihočeského kraje"
           },
           "coords": [
             14.48,
@@ -157,7 +168,8 @@
             "de": "Planen Sie genügend Zeit für die umfangreiche Sammlung zur Natur, Archäologie und Geschichte der Region ein.",
             "hu": "Szánjon elég időt a régió természetét, régészetét és történelmét bemutató gazdag gyűjteményre.",
             "ro": "Rezervați-vă suficient timp pentru colecția extinsă despre natura, arheologia și istoria regiunii.",
-            "en": "Allow plenty of time for the extensive collection on the region's nature, archaeology, and history."
+            "en": "Allow plenty of time for the extensive collection on the region's nature, archaeology, and history.",
+            "cs": "Vyhraďte si dost času na rozsáhlou sbírku o přírodě, archeologii a historii regionu."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Budweiser Budvar Brauerei",
             "hu": "Budweiser Budvar Sörgyár",
             "ro": "Fabrica de bere Budweiser Budvar",
-            "en": "Budweiser Budvar Brewery"
+            "en": "Budweiser Budvar Brewery",
+            "cs": "Pivovar Budějovický Budvar"
           },
           "coords": [
             14.493,
@@ -181,7 +194,8 @@
             "de": "Buchen Sie die Tour im Voraus online. Die Verkostung des unpasteurisierten Bieres ist ein Highlight!",
             "hu": "Foglalja le a túrát online előre! A pasztőrözetlen sör kóstolása a fénypont.",
             "ro": "Rezervați turul online în avans. Degustarea berii nepasteurizate este un punct culminant!",
-            "en": "Book the tour online in advance. The tasting of the unpasteurized beer is a highlight!"
+            "en": "Book the tour online in advance. The tasting of the unpasteurized beer is a highlight!",
+            "cs": "Rezervujte prohlídku online předem. Ochutnávka nepasterizovaného piva je vrcholem!"
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Beginnen Sie Ihren Tag auf dem prächtigen Přemysl-Otakar-II.-Platz, einem der größten Plätze Europas. Bewundern Sie das barocke Rathaus und den Samson-Brunnen, bevor Sie zur St.-Nikolaus-Kathedrale und dem Schwarzen Turm schlendern, um einen Panoramablick zu genießen. Der Vormittag steht im Zeichen der historischen Architektur des Stadtzentrums. Nach dem Mittagessen führt Sie ein Spaziergang entlang der alten Stadtmauern zum Turm der Eisernen Jungfrau und weiter zum Südböhmischen Museum, wo Sie tief in die regionale Geschichte eintauchen. Am Nachmittag erleben Sie die Seele von Budweis bei einer Führung durch die weltberühmte Budweiser Budvar Brauerei, inklusive einer wohlverdienten Bierprobe. Lassen Sie den Abend in einer der traditionellen Gaststätten ausklingen und genießen Sie die lokale Küche und das frisch gezapfte Bier.",
         "hu": "Kezdje a napot a csodálatos Přemysl Otakar II téren, Európa egyik legnagyobb terén. Csodálja meg a barokk Városházát és a Sámson-kutat, majd sétáljon át a Szent Miklós-székesegyházhoz és a Fekete-toronyhoz egy panorámás kilátásért. A délelőtt a történelmi városközpont építészetének jegyében telik. Ebéd után a régi városfalak mentén tett séta elvezeti a Vasleány-toronyhoz, majd a Dél-Csehországi Múzeumhoz, ahol elmerülhet a régió történelmében. Délután fedezze fel Budweis lelkét egy vezetett túrán a világhírű Budweiser Budvar Sörgyárban, beleértve egy jól megérdemelt sörkóstolót is. Zárja az estét egy hagyományos vendéglőben, élvezve a helyi konyhát és a frissen csapolt sört.",
         "ro": "Începeți ziua în magnifica Piață Přemysl Otakar al II-lea, una dintre cele mai mari piețe din Europa. Admirați primăria barocă și Fântâna lui Samson înainte de a vă plimba spre Catedrala Sf. Nicolae și Turnul Negru pentru o vedere panoramică. Dimineața este dedicată arhitecturii istorice a centrului orașului. După prânz, o plimbare de-a lungul vechilor ziduri ale orașului vă va duce la Turnul Fecioarei de Fier și apoi la Muzeul Boemiei de Sud, unde veți aprofunda istoria regională. După-amiaza, experimentați sufletul orașului Budweis cu un tur ghidat la faimoasa fabrică de bere Budweiser Budvar, inclusiv o degustare de bere binemeritată. Încheiați seara într-unul dintre restaurantele tradiționale, savurând bucătăria locală și berea proaspătă la halbă.",
-        "en": "Start your day in the magnificent Přemysl Otakar II Square, one of the largest squares in Europe. Admire the Baroque Town Hall and Samson's Fountain before strolling to St. Nicholas Cathedral and the Black Tower for a panoramic view. The morning is dedicated to the historic architecture of the city center. After lunch, a walk along the old city walls will lead you to the Iron Maiden Tower and on to the Museum of South Bohemia, where you can delve into regional history. In the afternoon, experience the soul of Budweis with a guided tour of the world-famous Budweiser Budvar Brewery, including a well-deserved beer tasting. End the evening in one of the traditional pubs, enjoying local cuisine and freshly tapped beer."
+        "en": "Start your day in the magnificent Přemysl Otakar II Square, one of the largest squares in Europe. Admire the Baroque Town Hall and Samson's Fountain before strolling to St. Nicholas Cathedral and the Black Tower for a panoramic view. The morning is dedicated to the historic architecture of the city center. After lunch, a walk along the old city walls will lead you to the Iron Maiden Tower and on to the Museum of South Bohemia, where you can delve into regional history. In the afternoon, experience the soul of Budweis with a guided tour of the world-famous Budweiser Budvar Brewery, including a well-deserved beer tasting. End the evening in one of the traditional pubs, enjoying local cuisine and freshly tapped beer.",
+        "cs": "Začněte den na nádherném náměstí Přemysla Otakara II., jednom z největších náměstí v Evropě. Obdivujte barokní radnici a Samsonovu kašnu, než se projdete ke katedrále sv. Mikuláše a na Černou věž pro panoramatický výhled. Dopoledne je věnováno historické architektuře centra města. Po obědě vás procházka po starých městských hradbách zavede k věži Železná panna a dále do Muzea Jihočeského kraje, kde se ponoříte do regionální historie. Odpoledne zažijete duši Českých Budějovic během prohlídky světoznámého pivovaru Budějovický Budvar včetně zasloužené ochutnávky. Večer zakončete v jedné z tradičních hospod při místní kuchyni a čerstvě načepovaném pivu."
       },
       "gastro_picks": {
         "de": [
@@ -401,6 +416,12 @@
           "Most sights in the center are within easy walking distance.",
           "Take time for a coffee at one of the many cafes on the main square.",
           "Check the opening hours for the Black Tower, as they can vary seasonally."
+        ],
+        "cs": [
+          "Noste pohodlnou obuv; kostky ve starém městě mohou být nerovné.",
+          "Většina památek v centru je na dosah pěšky.",
+          "Věnujte čas kávě v jedné z mnoha kaváren na hlavním náměstí.",
+          "Zkontrolujte otevírací dobu Černé věže, může se sezónně lišit."
         ]
       },
       "variants": {
@@ -409,7 +430,8 @@
             "de": "Morgens schützen die berühmten Arkaden am Přemysl-Otakar-II.-Platz vor dem Regen. Mittags bietet die Kathedrale einen ruhigen, trockenen Rückzugsort. Nachmittags ist das Südböhmische Museum ideal, um dem Wetter zu entfliehen. Der Tag endet gemütlich bei einer Brauereibesichtigung im Trockenen.",
             "hu": "Reggel a főtér híres árkádjai alatt védve maradhatunk az esőtől. Délben a székesegyház nyújt csendes és száraz menedéket. Délután a Dél-csehországi Múzeum kiállításai tökéletesek a rossz időben. Az estét a Budvar sörgyár fedett látogatóközpontjában zárjuk.",
             "ro": "Dimineața, arcadele faimoase din Piața Přemysl Otakar II oferă adăpost împotriva ploii. La prânz, catedrala este un refugiu liniștit și uscat. După-amiaza, Muzeul Boemiei de Sud este ideal pentru a evita vremea rea. Ziua se încheie confortabil cu un tur al berăriei.",
-            "en": "In the morning, the famous arcades of the main square keep you dry. At noon, the cathedral offers a peaceful indoor retreat. The afternoon is best spent exploring the South Bohemian Museum. The day concludes with a cozy, sheltered brewery tour at Budvar."
+            "en": "In the morning, the famous arcades of the main square keep you dry. At noon, the cathedral offers a peaceful indoor retreat. The afternoon is best spent exploring the South Bohemian Museum. The day concludes with a cozy, sheltered brewery tour at Budvar.",
+            "cs": "Dopoledne vás slavné arkády hlavního náměstí uchrání před deštěm. O polední pauze nabízí katedrála klidný vnitřní úkryt. Odpoledne je nejlepší věnovat Muzeu Jihočeského kraje. Den zakončete útulnou, krytou prohlídkou pivovaru Budvar."
           },
           "stops": [
             {
@@ -418,7 +440,8 @@
                 "de": "Nutzen Sie die durchgehenden Arkadengänge rund um den Platz.",
                 "hu": "Használja a tér körüli folyamatos árkádsort a száraz közlekedéshez.",
                 "ro": "Folosiți arcadele continue din jurul pieței pentru a rămâne uscat.",
-                "en": "Use the continuous arcades around the square to stay dry."
+                "en": "Use the continuous arcades around the square to stay dry.",
+                "cs": "Využijte nepřerušené arkády kolem náměstí jako přirozený deštník."
               }
             },
             {
@@ -427,7 +450,8 @@
                 "de": "Das Rathaus bietet im Inneren Schutz; der Brunnen ist bei Regen fotogen.",
                 "hu": "A városháza belül menedéket nyújt; a szökőkút esőben is látványos.",
                 "ro": "Primăria oferă adăpost în interior; fântâna este fotogenică pe ploaie.",
-                "en": "The Town Hall provides indoor shelter; the fountain looks great in rain."
+                "en": "The Town Hall provides indoor shelter; the fountain looks great in rain.",
+                "cs": "Radnice poskytuje vnitřní úkryt; kašna vypadá dešti navzdory skvěle."
               }
             },
             {
@@ -436,7 +460,8 @@
                 "de": "Ein perfekter Ort für eine trockene und besinnliche Pause.",
                 "hu": "Tökéletes helyszín egy száraz és meghitt pihenőhöz.",
                 "ro": "Un loc perfect pentru o pauză uscată și liniștită.",
-                "en": "A perfect spot for a dry and contemplative break."
+                "en": "A perfect spot for a dry and contemplative break.",
+                "cs": "Ideální místo pro suchou a rozjímavou přestávku."
               }
             },
             {
@@ -445,7 +470,8 @@
                 "de": "Vorsicht auf den steilen Stufen; oben kann es windig und nass sein.",
                 "hu": "Vigyázat a meredek lépcsőkön; fent szeles és vizes lehet az idő.",
                 "ro": "Atenție pe treptele abrupte; sus poate fi vânt și umezeală.",
-                "en": "Careful on the steep steps; it can be windy and wet at the top."
+                "en": "Careful on the steep steps; it can be windy and wet at the top.",
+                "cs": "Opatrně na strmých schodech; nahoře může být větrno a mokro."
               }
             },
             {
@@ -454,7 +480,8 @@
                 "de": "Kurzer Aufenthalt im Freien, suchen Sie schnell wieder Schutz.",
                 "hu": "Rövid kinti megálló, keressen gyorsan újra fedett helyet.",
                 "ro": "Scurtă oprire în aer liber, căutați repede un nou adăpost.",
-                "en": "Short outdoor stop, find shelter again quickly."
+                "en": "Short outdoor stop, find shelter again quickly.",
+                "cs": "Krátké venkovní zastavení, rychle najděte opět úkryt."
               }
             },
             {
@@ -463,7 +490,8 @@
                 "de": "Ideales Ziel bei Regen; planen Sie hier mehr Zeit ein.",
                 "hu": "Ideális úti cél esőben; tervezzen ide több időt.",
                 "ro": "Destinație ideală pe ploaie; planificați mai mult timp aici.",
-                "en": "Ideal destination during rain; plan more time here."
+                "en": "Ideal destination during rain; plan more time here.",
+                "cs": "Ideální cíl za deště; naplánujte si zde více času."
               }
             },
             {
@@ -472,7 +500,8 @@
                 "de": "Komplett überdachtes Erlebnis; perfekt für verregnete Nachmittage.",
                 "hu": "Teljesen fedett élmény; tökéletes esős délutánokra.",
                 "ro": "Experiență complet acoperită; perfectă pentru după-amiezi ploioase.",
-                "en": "Completely indoor experience; perfect for rainy afternoons."
+                "en": "Completely indoor experience; perfect for rainy afternoons.",
+                "cs": "Plně vnitřní zážitek; perfektní na deštivé odpoledne."
               }
             }
           ],
@@ -500,6 +529,12 @@
               "The brewery tour is the best refuge during heavy downpours.",
               "Wear waterproof shoes for the cobblestone streets.",
               "Shorten your walks by using old town passages."
+            ],
+            "cs": [
+              "Použijte arkády na náměstí jako přirozený deštník.",
+              "Prohlídka pivovaru je nejlepší útočiště při silném lijáku.",
+              "Noste nepromokavé boty na dlažební kostce.",
+              "Zkraťte své procházky využitím průchodů ve starém městě."
             ]
           }
         },
@@ -508,7 +543,8 @@
             "de": "Der frostige Morgen beginnt auf dem festlich beleuchteten Marktplatz. Mittags wärmt die Stille der Kathedrale auf, bevor es auf den Schwarzen Turm geht. Der Nachmittag im Museum bietet wohlige Wärme. Der Tag endet mit einem herzhaften tschechischen Abendessen und einem Budweiser Bier.",
             "hu": "A fagyos reggel a díszesen kivilágított főtéren indul. Délben a székesegyház csendje melenget, mielőtt megmásznánk a Fekete-tornyot. A délutáni múzeumlátogatás kellemes meleget kínál. A napot bőséges cseh vacsorával és egy pohár Budvar sörrel zárjuk.",
             "ro": "Dimineața geroasă începe în piața iluminată festiv. La prânz, liniștea catedralei vă încălzește înainte de a urca în Turnul Negru. După-amiaza la muzeu oferă o căldură plăcută. Ziua se încheie cu o cină cehă copioasă și o bere Budweiser.",
-            "en": "The frosty morning starts at the festively lit main square. At noon, warm up in the quiet cathedral before climbing the Black Tower. The afternoon in the museum provides a cozy escape from the cold. End the day with a hearty Czech dinner and Budweiser beer."
+            "en": "The frosty morning starts at the festively lit main square. At noon, warm up in the quiet cathedral before climbing the Black Tower. The afternoon in the museum provides a cozy escape from the cold. End the day with a hearty Czech dinner and Budweiser beer.",
+            "cs": "Mrazivé ráno začíná na slavnostně osvětleném hlavním náměstí. V poledne se zahřejte v tiché katedrále před výstupem na Černou věž. Odpoledne v muzeu nabízí útulný únik před chladem. Den zakončete vydatnou českou večeří a pivem Budweiser."
           },
           "stops": [
             {
@@ -517,7 +553,8 @@
                 "de": "Genießen Sie heißen tschechischen Punsch an den Marktständen.",
                 "hu": "Élvezze a forró cseh puncsot a piaci bódéknál.",
                 "ro": "Savurați un punch ceh fierbinte la tarabele din piață.",
-                "en": "Enjoy hot Czech punch at the market stalls."
+                "en": "Enjoy hot Czech punch at the market stalls.",
+                "cs": "Užijte si horký český punč na tržištích."
               }
             },
             {
@@ -526,7 +563,8 @@
                 "de": "Der Brunnen ist im Winter oft kunstvoll eingehaust oder beleuchtet.",
                 "hu": "A szökőkutat télen gyakran díszesen körbeépítik vagy kivilágítják.",
                 "ro": "Fântâna este adesea protejată sau iluminată artistic iarna.",
-                "en": "The fountain is often artistically enclosed or lit up in winter."
+                "en": "The fountain is often artistically enclosed or lit up in winter.",
+                "cs": "Fontána je v zimě často uměle oplocená nebo nasvícená."
               }
             },
             {
@@ -535,7 +573,8 @@
                 "de": "Ein ruhiger Ort, um der Kälte kurz zu entfliehen.",
                 "hu": "Csendes helyszín a hideg elöli rövid meneküléshez.",
                 "ro": "Un loc liniștit pentru a scăpa scurt de frig.",
-                "en": "A quiet place to escape the cold briefly."
+                "en": "A quiet place to escape the cold briefly.",
+                "cs": "Tiché místo pro krátký únik před chladem."
               }
             },
             {
@@ -544,7 +583,8 @@
                 "de": "Der Aufstieg wärmt auf, aber oben ist der Wind eisig.",
                 "hu": "A mászás felmelegít, de fent a szél jeges lehet.",
                 "ro": "Urcarea vă va încălzi, dar sus vântul este înghețat.",
-                "en": "The climb warms you up, but the wind at the top is icy."
+                "en": "The climb warms you up, but the wind at the top is icy.",
+                "cs": "Výstup vás zahřeje, ale na vrcholu je ledový vítr."
               }
             },
             {
@@ -553,7 +593,8 @@
                 "de": "Das Kopfsteinpflaster rundherum kann bei Frost glatt sein.",
                 "hu": "A környékbeli macskakő fagyban csúszós lehet.",
                 "ro": "Piatra cubică din jur poate fi alunecoasă la îngheț.",
-                "en": "The surrounding cobblestones can be slippery in frost."
+                "en": "The surrounding cobblestones can be slippery in frost.",
+                "cs": "Okolní dlažební kostka může být v mrazu kluzká."
               }
             },
             {
@@ -562,7 +603,8 @@
                 "de": "Perfekt temperierte Räume für eine lange Winterpause.",
                 "hu": "Tökéletes hőmérsékletű termek egy hosszú téli pihenőhöz.",
                 "ro": "Încăperi cu temperatură perfectă pentru o pauză lungă de iarnă.",
-                "en": "Perfectly heated rooms for a long winter break."
+                "en": "Perfectly heated rooms for a long winter break.",
+                "cs": "Perfektně vytopené pokoje pro dlouhý zimní odpočinek."
               }
             },
             {
@@ -571,7 +613,8 @@
                 "de": "Das Besucherzentrum ist warm; im Lagerkeller ist es konstant kühl.",
                 "hu": "A látogatóközpont meleg; a pincében állandó a hűvös.",
                 "ro": "Centrul pentru vizitatori este cald; în pivniță este răcoare constantă.",
-                "en": "The visitor center is warm; the lager cellar is constantly cool."
+                "en": "The visitor center is warm; the lager cellar is constantly cool.",
+                "cs": "Informační centrum je teplé; sklepení na ležáky je stále chladné."
               }
             }
           ],
@@ -599,6 +642,12 @@
               "Dress in layers for the transition between cold and museums.",
               "Hot drinks are available at almost every corner of the market.",
               "Watch out for black ice on the riverbanks."
+            ],
+            "cs": [
+              "Západ slunce nastává v zimě kolem 16:00.",
+              "Oblékejte se do vrstev kvůli střídání chladu a návštěv muzeí.",
+              "Horké nápoje jsou k dispozici téměř na každém rohu trhu.",
+              "Dejte pozor na černý led u nábřeží."
             ]
           }
         }
@@ -617,7 +666,8 @@
             "de": "Přemysl-Otakar-II.-Platz",
             "hu": "Přemysl Otakar II tér",
             "ro": "Piața Přemysl Otakar al II-lea",
-            "en": "Přemysl Otakar II Square"
+            "en": "Přemysl Otakar II Square",
+            "cs": "Náměstí Přemysla Otakara II."
           },
           "coords": [
             14.4747,
@@ -633,7 +683,8 @@
             "de": "Stellen Sie Ihr Fahrrad sicher ab, bevor Sie den Platz zu Fuß erkunden.",
             "hu": "Biztonságosan zárja le a kerékpárját, mielőtt gyalog felfedezné a teret.",
             "ro": "Parcați-vă bicicleta într-un loc sigur înainte de a explora piața pe jos.",
-            "en": "Securely lock your bike before exploring the square on foot."
+            "en": "Securely lock your bike before exploring the square on foot.",
+            "cs": "Bezpečně zamkněte kolo, než vyrazíte prozkoumávat náměstí pěšky."
           }
         },
         {
@@ -641,7 +692,8 @@
             "de": "Schwarzer Turm & Kathedrale",
             "hu": "Fekete-torony és Székesegyház",
             "ro": "Turnul Negru & Catedrala",
-            "en": "Black Tower & Cathedral"
+            "en": "Black Tower & Cathedral",
+            "cs": "Černá věž a katedrála"
           },
           "coords": [
             14.4775,
@@ -657,7 +709,8 @@
             "de": "Kombinieren Sie den Besuch beider Wahrzeichen, da sie direkt nebeneinander liegen.",
             "hu": "Kombinálja a két nevezetesség meglátogatását, mivel közvetlenül egymás mellett helyezkednek el.",
             "ro": "Combinați vizita la ambele obiective, deoarece sunt situate chiar unul lângă celălalt.",
-            "en": "Combine the visit to both landmarks as they are located right next to each other."
+            "en": "Combine the visit to both landmarks as they are located right next to each other.",
+            "cs": "Spojte návštěvu obou památek, jsou hned vedle sebe."
           }
         },
         {
@@ -665,7 +718,8 @@
             "de": "Südböhmisches Museum",
             "hu": "Dél-Csehországi Múzeum",
             "ro": "Muzeul Boemiei de Sud",
-            "en": "Museum of South Bohemia"
+            "en": "Museum of South Bohemia",
+            "cs": "Jihočeské muzeum"
           },
           "coords": [
             14.48,
@@ -681,7 +735,8 @@
             "de": "Es gibt Fahrradständer vor dem Museum.",
             "hu": "A múzeum előtt kerékpártárolók találhatók.",
             "ro": "Există suporturi pentru biciclete în fața muzeului.",
-            "en": "There are bike racks in front of the museum."
+            "en": "There are bike racks in front of the museum.",
+            "cs": "Před muzeem jsou stojany na kola."
           }
         },
         {
@@ -689,7 +744,8 @@
             "de": "Fahrt am Moldau-Ufer",
             "hu": "Kerékpárút a Moldva partján",
             "ro": "Plimbare pe malul râului Vltava",
-            "en": "Ride along the Vltava River"
+            "en": "Ride along the Vltava River",
+            "cs": "Projížďka podél řeky Vltavy"
           },
           "coords": [
             14.465,
@@ -705,7 +761,8 @@
             "de": "Genießen Sie die flache und malerische Strecke, die sich perfekt für eine entspannte Radtour eignet.",
             "hu": "Élvezze a sík és festői útvonalat, amely tökéletes egy nyugodt kerékpártúrához.",
             "ro": "Bucurați-vă de traseul plat și pitoresc, perfect pentru o plimbare relaxantă cu bicicleta.",
-            "en": "Enjoy the flat and scenic route, perfect for a relaxed bike ride."
+            "en": "Enjoy the flat and scenic route, perfect for a relaxed bike ride.",
+            "cs": "Užijte si rovinatou a malebnou trasu, ideální pro pohodovou vyjížďku na kole."
           }
         },
         {
@@ -713,7 +770,8 @@
             "de": "Turm Eiserne Jungfrau",
             "hu": "Vasalótorony (Vasleány)",
             "ro": "Turnul Fecioara de Fier",
-            "en": "Iron Maiden Tower"
+            "en": "Iron Maiden Tower",
+            "cs": "Věznice železné panny (Iron Maiden Tower)"
           },
           "coords": [
             14.469,
@@ -729,7 +787,8 @@
             "de": "Von hier aus haben Sie einen guten Blick auf den Zusammenfluss von Moldau und Maltsch.",
             "hu": "Innen jó kilátás nyílik a Moldva és a Malše folyók összefolyására.",
             "ro": "De aici aveți o priveliște bună asupra confluenței râurilor Vltava și Malše.",
-            "en": "From here you have a good view of the confluence of the Vltava and Malše rivers."
+            "en": "From here you have a good view of the confluence of the Vltava and Malše rivers.",
+            "cs": "Odtud máte dobrý výhled na soutok Vltavy a Malše."
           }
         },
         {
@@ -737,7 +796,8 @@
             "de": "Budweiser Budvar Brauerei",
             "hu": "Budweiser Budvar Sörgyár",
             "ro": "Fabrica de bere Budweiser Budvar",
-            "en": "Budweiser Budvar Brewery"
+            "en": "Budweiser Budvar Brewery",
+            "cs": "Pivovar Budweiser Budvar"
           },
           "coords": [
             14.493,
@@ -753,7 +813,8 @@
             "de": "Die Radtour zur Brauerei ist eine gute Möglichkeit, sich das Bier zu verdienen!",
             "hu": "A sörgyárhoz vezető kerékpártúra remek módja annak, hogy kiérdemelje a sört!",
             "ro": "Turul cu bicicleta până la fabrică este o modalitate bună de a vă câștiga berea!",
-            "en": "The bike ride to the brewery is a great way to earn your beer!"
+            "en": "The bike ride to the brewery is a great way to earn your beer!",
+            "cs": "Jízda na kole k pivovaru je skvělý způsob, jak si pivo zasloužit!"
           }
         },
         {
@@ -761,7 +822,8 @@
             "de": "Zurück zum Hauptplatz",
             "hu": "Vissza a főtérre",
             "ro": "Înapoi în piața principală",
-            "en": "Back to the Main Square"
+            "en": "Back to the Main Square",
+            "cs": "Zpátky na hlavní náměstí"
           },
           "coords": [
             14.4747,
@@ -777,7 +839,8 @@
             "de": "Beenden Sie den Tag bei einem kalten Getränk in einem der Cafés am Platz.",
             "hu": "Zárja a napot egy hideg itallal a tér egyik kávézójában.",
             "ro": "Încheiați ziua cu o băutură rece la una dintre cafenelele din piață.",
-            "en": "End the day with a cold drink at one of the cafes on the square."
+            "en": "End the day with a cold drink at one of the cafes on the square.",
+            "cs": "Ukončete den studeným nápojem v jedné z kaváren na náměstí."
           }
         }
       ],
@@ -785,7 +848,8 @@
         "de": "Schwingen Sie sich auf den Sattel und beginnen Sie Ihre Erkundung auf dem weitläufigen Hauptplatz von Budweis. Von dort aus radeln Sie zu den nahegelegenen Wahrzeichen, der St.-Nikolaus-Kathedrale und dem Schwarzen Turm. Am Vormittag führt Sie Ihre Route zum Südböhmischen Museum, bevor Sie eine malerische Fahrt entlang des Moldauufers genießen, eine perfekte Flucht aus der Stadt. Zur Mittagszeit erreichen Sie den mittelalterlichen Turm der Eisernen Jungfrau. Die Hauptattraktion des Nachmittags ist die Fahrt zur berühmten Budweiser Budvar Brauerei, wo eine Tour und eine Verkostung auf Sie warten. Der Rückweg führt Sie zum Abschluss Ihrer Radtour wieder ins Herz der Stadt, auf den Přemysl-Otakar-II.-Platz.",
         "hu": "Pattanjon nyeregbe, és kezdje a felfedezést Budweis tágas főterén. Innen tekerjen el a közeli nevezetességekhez, a Szent Miklós-székesegyházhoz és a Fekete-toronyhoz. A délelőtt folyamán az útvonala a Dél-Csehországi Múzeumhoz vezet, mielőtt egy festői utat tenne a Moldva partján, ami tökéletes menekülés a városból. Délidőben éri el a középkori Vasleány-tornyot. A délután fő attrakciója a híres Budweiser Budvar Sörgyárhoz vezető út, ahol túra és kóstoló várja. Visszafelé az út a város szívébe, a Přemysl Otakar II térre vezet, lezárva a kerékpártúrát.",
         "ro": "Urcați-vă pe bicicletă și începeți explorarea în piața principală spațioasă din Budweis. De acolo, pedalați spre reperele din apropiere, Catedrala Sf. Nicolae și Turnul Negru. În cursul dimineții, traseul vă duce la Muzeul Boemiei de Sud înainte de a vă bucura de o plimbare pitorească de-a lungul malurilor râului Vltava, o evadare perfectă din oraș. La prânz, veți ajunge la turnul medieval Fecioara de Fier. Principala atracție a după-amiezii este plimbarea cu bicicleta până la faimoasa fabrică de bere Budweiser Budvar, unde vă așteaptă un tur și o degustare. Drumul de întoarcere vă duce înapoi în inima orașului, în Piața Přemysl Otakar al II-lea, pentru a încheia turul pe bicicletă.",
-        "en": "Hop on your bike and start your exploration in the spacious main square of Budweis. From there, pedal to the nearby landmarks, St. Nicholas Cathedral and the Black Tower. In the morning, your route takes you to the Museum of South Bohemia before you enjoy a scenic ride along the banks of the Vltava River, a perfect escape from the city. Around noon, you'll reach the medieval Iron Maiden Tower. The main attraction of the afternoon is the ride to the famous Budweiser Budvar Brewery, where a tour and tasting await. The way back takes you to the heart of the city, Přemysl Otakar II Square, to conclude your cycling tour."
+        "en": "Hop on your bike and start your exploration in the spacious main square of Budweis. From there, pedal to the nearby landmarks, St. Nicholas Cathedral and the Black Tower. In the morning, your route takes you to the Museum of South Bohemia before you enjoy a scenic ride along the banks of the Vltava River, a perfect escape from the city. Around noon, you'll reach the medieval Iron Maiden Tower. The main attraction of the afternoon is the ride to the famous Budweiser Budvar Brewery, where a tour and tasting await. The way back takes you to the heart of the city, Přemysl Otakar II Square, to conclude your cycling tour.",
+        "cs": "Nasedněte na kolo a začněte objevování na prostorném hlavním náměstí v Budějovicích. Odtud vyjeďte k nedalekým památkám, katedrále sv. Mikuláše a Černé věži. Ráno vede trasa k Jihočeskému muzeu, poté si užijete malebnou jízdu podél břehů Vltavy, ideální únik z města. Kolem poledne dorazíte k středověké věži Iron Maiden. Hlavní atrakcí odpoledne je jízda k proslulému pivovaru Budweiser Budvar, kde na vás čeká prohlídka a ochutnávka. Cesta zpět vede do srdce města, na Náměstí Přemysla Otakara II., kde cyklovýlet zakončíte."
       },
       "gastro_picks": {
         "de": [
@@ -997,6 +1061,12 @@
           "Take advantage of the well-developed cycle paths along the rivers.",
           "Always lock your bike securely, especially in busy places.",
           "Many cafes and restaurants allow you to park your bike within sight."
+        ],
+        "cs": [
+          "Město je převážně rovinaté a velmi přátelské k cyklistům.",
+          "Využijte dobře vybudované cyklostezky podél řek.",
+          "Vždy kolo pevně zamkněte, zvlášť na frekventovaných místech.",
+          "Mnoho kaváren a restaurací umožňuje zaparkovat kolo na dohled."
         ]
       },
       "variants": {
@@ -1005,7 +1075,8 @@
             "de": "Radfahren im Regen erfordert Vorsicht auf dem rutschigen Kopfsteinpflaster der Altstadt. Die Tour entlang der Moldau ist erfrischend, aber nass. Die Brauerei am Nachmittag ist das rettende Ziel für trockene Kleidung und ein kühles Bier.",
             "hu": "Az esőben való biciklizés óvatosságot igényel az óváros csúszós macskakövein. A Moldva menti tekerés frissítő, de vizes élmény. A délutáni sörgyár a megmentő célpont a száraz ruhákhoz és egy hideg sörhöz.",
             "ro": "Mersul pe bicicletă în ploaie necesită prudență pe piatra cubică alunecoasă. Turul de-a lungul Vltavei este revigorant, dar ud. Berăria de după-amiază este destinația salvatoare pentru haine uscate și o bere.",
-            "en": "Cycling in the rain requires caution on the slippery old town cobblestones. The ride along the Vltava is refreshing but wet. The brewery in the afternoon is the saving destination for dry clothes and a cool beer."
+            "en": "Cycling in the rain requires caution on the slippery old town cobblestones. The ride along the Vltava is refreshing but wet. The brewery in the afternoon is the saving destination for dry clothes and a cool beer.",
+            "cs": "Jízda na kole v dešti vyžaduje opatrnost kvůli kluzké dlažbě ve starém městě. Jízda podél Vltavy je osvěžující, ale mokrá. Pivovar odpoledne je záchranou pro suché oblečení a studené pivo."
           },
           "stops": [
             {
@@ -1014,7 +1085,8 @@
                 "de": "Vorsicht beim Bremsen auf nassen Steinen am Markt.",
                 "hu": "Óvatosan fékezzen a piacon a vizes köveken.",
                 "ro": "Frânați cu grijă pe pietrele ude din piață.",
-                "en": "Brake carefully on the wet stones in the square."
+                "en": "Brake carefully on the wet stones in the square.",
+                "cs": "Brzděte opatrně na mokrých kamenech na náměstí."
               }
             },
             {
@@ -1023,7 +1095,8 @@
                 "de": "Sicherer Fahrradständer direkt an der Kathedrale vorhanden.",
                 "hu": "Biztonságos kerékpártároló található közvetlenül a székesegyháznál.",
                 "ro": "Suport securizat pentru biciclete disponibil chiar lângă catedrală.",
-                "en": "Secure bike racks available right by the cathedral."
+                "en": "Secure bike racks available right by the cathedral.",
+                "cs": "U katedrály jsou k dispozici zabezpečené stojany na kola."
               }
             },
             {
@@ -1032,7 +1105,8 @@
                 "de": "Stellen Sie das Rad unter; das Museum ist ein guter Regenstopp.",
                 "hu": "Parkoljon fedett helyen; a múzeum jó megálló esőben.",
                 "ro": "Parcați sub acoperiș; muzeul este o oprire bună pe ploaie.",
-                "en": "Park under cover; the museum is a good rain stop."
+                "en": "Park under cover; the museum is a good rain stop.",
+                "cs": "Zaparkujte pod střechou; muzeum je dobrý úkryt před deštěm."
               }
             },
             {
@@ -1041,7 +1115,8 @@
                 "de": "Achten Sie auf Pfützen und schlammige Stellen am Radweg.",
                 "hu": "Ügyeljen a tócsákra és a sáros részekre a kerékpárúton.",
                 "ro": "Atenție la bălți și porțiuni noroioase pe pista de biciclete.",
-                "en": "Watch out for puddles and muddy spots on the bike path."
+                "en": "Watch out for puddles and muddy spots on the bike path.",
+                "cs": "Dejte pozor na kaluže a blátivé úseky na cyklostezce."
               }
             },
             {
@@ -1050,7 +1125,8 @@
                 "de": "Kurzer Fotostopp, bei starkem Regen weiter zum Ziel.",
                 "hu": "Rövid fotómegálló, erős esőben tekerjen tovább a cél felé.",
                 "ro": "Scurtă oprire foto, în caz de ploaie torențială continuați spre destinație.",
-                "en": "Short photo stop; in heavy rain, keep moving to your destination."
+                "en": "Short photo stop; in heavy rain, keep moving to your destination.",
+                "cs": "Krátká fotostop; v silném dešti jeďte dál k cíli."
               }
             },
             {
@@ -1059,7 +1135,8 @@
                 "de": "Großer Parkplatz für Räder am Besucherzentrum.",
                 "hu": "Nagy kerékpárparkoló a látogatóközpontnál.",
                 "ro": "Parcare mare pentru biciclete la centrul pentru vizitatori.",
-                "en": "Large bike parking area at the visitor center."
+                "en": "Large bike parking area at the visitor center.",
+                "cs": "Velké parkoviště pro kola u návštěvnického centra."
               }
             },
             {
@@ -1068,7 +1145,8 @@
                 "de": "Die Arkaden bieten beim Parken Schutz vor Regen.",
                 "hu": "Az árkádok védelmet nyújtanak a parkoláskor az esőtől.",
                 "ro": "Arcadele oferă protecție împotriva ploii la parcare.",
-                "en": "The arcades provide rain protection while parking."
+                "en": "The arcades provide rain protection while parking.",
+                "cs": "Arkády poskytují ochranu před deštěm při parkování."
               }
             }
           ],
@@ -1096,6 +1174,12 @@
               "Avoid sharp turns on the main square.",
               "Riverside paths can be slippery.",
               "Use waterproof panniers."
+            ],
+            "cs": [
+              "Blatníky jsou v tomto počasí nezbytné.",
+              "Vyhněte se prudkým zatáčkám na hlavním náměstí.",
+              "Nábřežní stezky mohou být kluzké.",
+              "Používejte nepromokavé brašny na nosiče."
             ]
           }
         },
@@ -1104,7 +1188,8 @@
             "de": "Eine Wintertour durch Budweis ist erfrischend kalt. Die flache Landschaft macht das Radeln angenehm, solange es eisfrei ist. Nach der Tour entlang der Vltava wärmt die Brauerei die müden Glieder wieder auf.",
             "hu": "Egy téli túra Budweisben frissítően hideg. A lapos vidék kellemessé teszi a tekerést, amíg jégmentes az út. A Moldva menti szakasz után a sörgyár melege várja a megfáradt vándorokat.",
             "ro": "Un tur de iarnă prin Budweis este răcoros și revigorant. Relieful plat face pedalatul plăcut, cât timp drumul nu este înghețat. După tura de-a lungul Vltavei, berăria vă va încălzi.",
-            "en": "A winter bike tour through Budweis is refreshingly cold. The flat landscape makes cycling pleasant as long as it is ice-free. After the Vltava ride, the brewery warms up tired limbs."
+            "en": "A winter bike tour through Budweis is refreshingly cold. The flat landscape makes cycling pleasant as long as it is ice-free. After the Vltava ride, the brewery warms up tired limbs.",
+            "cs": "Zimní cyklovýlet po Budějovicích je osvěžující a chladný. Rovinatá krajina zpříjemňuje jízdu, pokud není zledovatělá. Po jízdě podél Vltavy pivovar zahřeje unavené končetiny."
           },
           "stops": [
             {
@@ -1113,7 +1198,8 @@
                 "de": "Vorsicht vor gefrorenem Spritzwasser der Brunnen.",
                 "hu": "Vigyázzon a szökőkút lefagyott vízpermetére.",
                 "ro": "Atenție la apa înghețată din jurul fântânii.",
-                "en": "Watch out for frozen spray from the fountains."
+                "en": "Watch out for frozen spray from the fountains.",
+                "cs": "Dejte pozor na zmrzlou vodní tříšť z fontán."
               }
             },
             {
@@ -1122,7 +1208,8 @@
                 "de": "Das Aufschließen des Schlosses kann bei Frost schwierig sein.",
                 "hu": "A lakat kinyitása nehézkes lehet fagyban.",
                 "ro": "Descuierea lacătului poate fi dificilă la îngheț.",
-                "en": "Unlocking your bike lock can be tricky in hard frost."
+                "en": "Unlocking your bike lock can be tricky in hard frost.",
+                "cs": "Odemknutí zámku na kole může být v silném mrazu obtížné."
               }
             },
             {
@@ -1131,7 +1218,8 @@
                 "de": "Guter Ort, um die Finger wieder aufzuwärmen.",
                 "hu": "Jó hely az ujjak átmelegítésére.",
                 "ro": "Loc bun pentru a vă reîncălzi degetele.",
-                "en": "Good place to warm up your fingers."
+                "en": "Good place to warm up your fingers.",
+                "cs": "Dobré místo na zahřátí prstů."
               }
             },
             {
@@ -1140,7 +1228,8 @@
                 "de": "Oft windig; tragen Sie unbedingt winddichte Kleidung.",
                 "hu": "Gyakran szeles; viseljen szélálló ruházatot.",
                 "ro": "Adesea vânt; purtați neapărat haine rezistente la vânt.",
-                "en": "Often windy; be sure to wear windproof clothing."
+                "en": "Often windy; be sure to wear windproof clothing.",
+                "cs": "Často větrno; určitě noste větruodolné oblečení."
               }
             },
             {
@@ -1149,7 +1238,8 @@
                 "de": "Kurzer Stopp; bleiben Sie in Bewegung, um warm zu bleiben.",
                 "hu": "Rövid megálló; maradjon mozgásban a melegedéshez.",
                 "ro": "Scurtă oprire; rămâneți în mișcare pentru a vă menține căldura.",
-                "en": "Short stop; keep moving to stay warm."
+                "en": "Short stop; keep moving to stay warm.",
+                "cs": "Krátká zastávka; pokračujte v pohybu, abyste zůstali v teple."
               }
             },
             {
@@ -1158,7 +1248,8 @@
                 "de": "Genießen Sie ein warmes Essen in der Brauereigaststätte.",
                 "hu": "Élvezzen egy meleg ételt a sörgyári étteremben.",
                 "ro": "Savurați o masă caldă la restaurantul berăriei.",
-                "en": "Enjoy a warm meal at the brewery restaurant."
+                "en": "Enjoy a warm meal at the brewery restaurant.",
+                "cs": "Užijte si teplé jídlo v restauraci pivovaru."
               }
             },
             {
@@ -1167,7 +1258,8 @@
                 "de": "Die Beleuchtung am Abend ist vom Sattel aus wunderschön.",
                 "hu": "Az esti kivilágítás a nyeregből is csodálatos.",
                 "ro": "Iluminatul de seară este superb văzut de pe bicicletă.",
-                "en": "The evening lights are beautiful from the bike saddle."
+                "en": "The evening lights are beautiful from the bike saddle.",
+                "cs": "Večerní světla jsou z cyklistického sedla krásná."
               }
             }
           ],
@@ -1195,6 +1287,12 @@
               "Watch out for road salt which can damage the chain.",
               "Riverside paths freeze over first.",
               "Early sunset: check your bike lights."
+            ],
+            "cs": [
+              "Teplé rukavice jsou kvůli ochlazování větrem nutné.",
+              "Dejte pozor na posypovou sůl, která může poškodit řetěz.",
+              "Nábřežní stezky zamrzají jako první.",
+              "Brzký západ slunce: zkontrolujte světla na kole."
             ]
           }
         }
@@ -1213,7 +1311,8 @@
             "de": "Parken am Altstadt-Cluster",
             "hu": "Parkolás az Óvárosi klaszternél",
             "ro": "Parcare la clusterul Orașul Vechi",
-            "en": "Parking at the Old Town Cluster"
+            "en": "Parking at the Old Town Cluster",
+            "cs": "Parkování u Klastru Starého Města"
           },
           "coords": [
             14.478,
@@ -1229,7 +1328,8 @@
             "de": "Parken Sie in einem der Parkhäuser am Rande der Altstadt für einen stressfreien Tag.",
             "hu": "Parkoljon az óváros szélén található parkolóházak egyikében a stresszmentes nap érdekében.",
             "ro": "Parcați într-una dintre parcările de la marginea orașului vechi pentru o zi fără stres.",
-            "en": "Park in one of the parking garages on the edge of the old town for a stress-free day."
+            "en": "Park in one of the parking garages on the edge of the old town for a stress-free day.",
+            "cs": "Zaparkujte v jedné z garáží na okraji starého města pro bezstarostný den."
           }
         },
         {
@@ -1237,7 +1337,8 @@
             "de": "Přemysl-Otakar-II.-Platz & Rathaus",
             "hu": "Přemysl Otakar II tér és Városháza",
             "ro": "Piața Přemysl Otakar II și Primăria",
-            "en": "Přemysl Otakar II Square & Town Hall"
+            "en": "Přemysl Otakar II Square & Town Hall",
+            "cs": "Náměstí Přemysla Otakara II. a radnice"
           },
           "coords": [
             14.4747,
@@ -1253,7 +1354,8 @@
             "de": "Der gesamte Platz ist eine Fußgängerzone, genießen Sie den Spaziergang.",
             "hu": "Az egész tér sétálóövezet, élvezze a sétát.",
             "ro": "Întreaga piață este o zonă pietonală, bucurați-vă de plimbare.",
-            "en": "The entire square is a pedestrian zone, enjoy the walk."
+            "en": "The entire square is a pedestrian zone, enjoy the walk.",
+            "cs": "Celé náměstí je pěší zónou, užijte si procházku."
           }
         },
         {
@@ -1261,7 +1363,8 @@
             "de": "Schwarzer Turm & St. Nikolaus Kathedrale",
             "hu": "Fekete-torony és Szent Miklós-székesegyház",
             "ro": "Turnul Negru și Catedrala Sf. Nicolae",
-            "en": "Black Tower & St. Nicholas Cathedral"
+            "en": "Black Tower & St. Nicholas Cathedral",
+            "cs": "Černá věž a katedrála sv. Mikuláše"
           },
           "coords": [
             14.4775,
@@ -1277,7 +1380,8 @@
             "de": "Vom Turm aus können Sie Ihren nächsten Cluster, die Brauerei, in der Ferne sehen.",
             "hu": "A toronyból a távolban láthatja a következő klasztert, a sörgyárat.",
             "ro": "Din turn puteți vedea în depărtare următorul cluster, fabrica de bere.",
-            "en": "From the tower, you can see your next cluster, the brewery, in the distance."
+            "en": "From the tower, you can see your next cluster, the brewery, in the distance.",
+            "cs": "Z věže uvidíte v dálce i další cíl, pivovar."
           }
         },
         {
@@ -1285,7 +1389,8 @@
             "de": "Südböhmisches Museum",
             "hu": "Dél-Csehországi Múzeum",
             "ro": "Muzeul Boemiei de Sud",
-            "en": "Museum of South Bohemia"
+            "en": "Museum of South Bohemia",
+            "cs": "Jihočeské muzeum"
           },
           "coords": [
             14.48,
@@ -1301,7 +1406,8 @@
             "de": "Ein kurzer Spaziergang vom Hauptplatz, aber eine Welt voller Geschichte.",
             "hu": "Csak egy rövid séta a főtértől, de a történelem egy egész világa.",
             "ro": "O scurtă plimbare de la piața principală, dar o lume întreagă de istorie.",
-            "en": "A short walk from the main square, but a world of history inside."
+            "en": "A short walk from the main square, but a world of history inside.",
+            "cs": "Krátká procházka od hlavního náměstí, ale uvnitř svět dějin."
           }
         },
         {
@@ -1309,7 +1415,8 @@
             "de": "Fahrt zur Budweiser Budvar Brauerei",
             "hu": "Utazás a Budweiser Budvar Sörgyárhoz",
             "ro": "Călătorie la Fabrica de Bere Budweiser Budvar",
-            "en": "Drive to Budweiser Budvar Brewery"
+            "en": "Drive to Budweiser Budvar Brewery",
+            "cs": "Jízda autem k pivovaru Budweiser Budvar"
           },
           "coords": [
             14.493,
@@ -1325,7 +1432,8 @@
             "de": "Fahren Sie zurück zum Parkhaus, holen Sie Ihr Auto und folgen Sie der Beschilderung zur Brauerei. Es gibt ausreichend Parkplätze.",
             "hu": "Menjen vissza a parkolóházba, vegye fel az autóját és kövesse a sörgyár felé vezető táblákat. Elegendő parkolóhely áll rendelkezésre.",
             "ro": "Mergeți înapoi la parcare, luați mașina și urmați indicatoarele către fabrică. Există o parcare amplă.",
-            "en": "Head back to the garage, get your car, and follow the signs to the brewery. There's ample parking."
+            "en": "Head back to the garage, get your car, and follow the signs to the brewery. There's ample parking.",
+            "cs": "Vraťte se do garáže, vyzvedněte auto a jeďte podle ukazatelů k pivovaru. Parkování je dostatek."
           }
         },
         {
@@ -1333,7 +1441,8 @@
             "de": "Spaziergang am Fluss",
             "hu": "Folyóparti séta",
             "ro": "Plimbare pe malul râului",
-            "en": "Riverside Walk"
+            "en": "Riverside Walk",
+            "cs": "Nábřežní procházka"
           },
           "coords": [
             14.469,
@@ -1349,7 +1458,8 @@
             "de": "Parken Sie nach der Brauerei in der Nähe der Maltsch-Mündung für einen entspannenden Abendspaziergang.",
             "hu": "A sörgyár után parkoljon a Malše torkolatának közelében egy pihentető esti sétára.",
             "ro": "După vizita la fabrică, parcați lângă confluența râului Malše pentru o plimbare relaxantă de seară.",
-            "en": "After the brewery, park near the Malše confluence for a relaxing evening walk."
+            "en": "After the brewery, park near the Malše confluence for a relaxing evening walk.",
+            "cs": "Po návštěvě pivovaru zaparkujte u soutoku Malše a užijte si relaxační večerní procházku."
           }
         }
       ],
@@ -1357,7 +1467,8 @@
         "de": "Beginnen Sie Ihren Tag, indem Sie Ihr Auto am Rande der Altstadt parken. Der erste Cluster Ihres Besuchs ist das historische Herz: der riesige Hauptplatz, das Rathaus und der Aufstieg auf den Schwarzen Turm für eine atemberaubende Aussicht. Nach einem Spaziergang zum nahegelegenen Südböhmischen Museum kehren Sie zu Ihrem Auto zurück. Am Nachmittag fahren Sie zum zweiten Cluster: der weltberühmten Budweiser Budvar Brauerei. Nehmen Sie an einer Führung teil, um die Geheimnisse des Bieres zu entdecken, und genießen Sie eine Verkostung. Zum Abschluss des Tages fahren Sie zum Ufer der Maltsch, um bei einem ruhigen Spaziergang die Eindrücke des Tages Revue passieren zu lassen.",
         "hu": "Kezdje a napot azzal, hogy leparkolja autóját az óváros szélén. A látogatás első klasztere a történelmi szív: a hatalmas főtér, a Városháza és a Fekete-torony megmászása a lélegzetelállító kilátásért. Miután átsétált a közeli Dél-Csehországi Múzeumba, térjen vissza az autójához. Délután vezessen át a második klaszterhez: a világhírű Budweiser Budvar Sörgyárhoz. Vegyen részt egy vezetett túrán, hogy felfedezze a sör titkait, és élvezze a kóstolót. A nap lezárásaként autózzon el a Malše folyó partjára egy csendes sétára, hogy feldolgozza a nap élményeit.",
         "ro": "Începeți ziua parcând mașina la marginea orașului vechi. Primul cluster al vizitei dumneavoastră este inima istorică: piața principală gigantică, primăria și urcarea în Turnul Negru pentru o priveliște uluitoare. După o plimbare la Muzeul Boemiei de Sud din apropiere, vă întoarceți la mașină. După-amiaza, conduceți spre al doilea cluster: faimoasa fabrică de bere Budweiser Budvar. Participați la un tur ghidat pentru a descoperi secretele berii și bucurați-vă de o degustare. Pentru a încheia ziua, conduceți spre malurile râului Malše pentru o plimbare liniștită, reflectând la experiențele zilei.",
-        "en": "Start your day by parking your car on the edge of the old town. The first cluster of your visit is the historic heart: the giant main square, the town hall, and the climb up the Black Tower for a breathtaking view. After a walk to the nearby Museum of South Bohemia, you return to your car. In the afternoon, you'll drive to the second cluster: the world-famous Budweiser Budvar Brewery. Take a guided tour to discover the secrets of its beer and enjoy a tasting. To end the day, drive to the banks of the Malše river for a quiet walk to reflect on the day's experiences."
+        "en": "Start your day by parking your car on the edge of the old town. The first cluster of your visit is the historic heart: the giant main square, the town hall, and the climb up the Black Tower for a breathtaking view. After a walk to the nearby Museum of South Bohemia, you return to your car. In the afternoon, you'll drive to the second cluster: the world-famous Budweiser Budvar Brewery. Take a guided tour to discover the secrets of its beer and enjoy a tasting. To end the day, drive to the banks of the Malše river for a quiet walk to reflect on the day's experiences.",
+        "cs": "Začněte den tím, že zaparkujete auto na okraji starého města. První shluk návštěv tvoří historické srdce: obrovské hlavní náměstí, radnice a výstup na Černou věž pro dechberoucí výhled. Po procházce do nedalekého Jihočeského muzea se vrátíte k autu. Odpoledne pojedete do druhého shluku: světoznámého pivovaru Budweiser Budvar. Vezměte si prohlídku s průvodcem a objevíte tajemství jeho piva a ochutnáte vzorky. Den zakončete jízdou k břehům řeky Malše na klidnou procházku a rozjímání nad zážitky z dneška."
       },
       "gastro_picks": {
         "de": [
@@ -1569,6 +1680,12 @@
           "The old town is a pedestrian zone; the car is only useful for getting to the clusters.",
           "The driver should refrain from alcohol after the brewery tour. Buy some beer for later instead.",
           "Plan for some buffer time for traffic between clusters."
+        ],
+        "cs": [
+          "Dávejte pozor na parkovací poplatky a časy, abyste se vyhnuli pokutám.",
+          "Staré město je pěší zóna; auto je užitečné jen pro přesun mezi shluky.",
+          "Řidič by se měl po prohlídce pivovaru zdržet alkoholu. Koupte si pivo na později místo toho.",
+          "Plánujte časovou rezervu na provoz mezi shluky."
         ]
       },
       "variants": {
@@ -1577,7 +1694,8 @@
             "de": "Mit dem Auto ist Budweis auch bei Regen komfortabel. Kurze Wege von den Parkplätzen zu den Arkaden halten Sie trocken. Der Besuch der Brauerei am Stadtrand ist ein perfektes Ziel für trübe Tage.",
             "hu": "Autóval Budweis esőben is kényelmes. A parkolóktól az árkádokig tartó rövid séták szárazon tartják. A város szélén található sörgyár tökéletes célpont borús napokon.",
             "ro": "Cu mașina, Budweis este confortabil chiar și pe ploaie. Distanțele scurte de la parcări la arcade vă mențin uscat. Vizita la berăria de la marginea orașului este o destinație perfectă pentru zilele mohorâte.",
-            "en": "By car, Budweis is comfortable even in the rain. Short walks from parking lots to the arcades keep you dry. Visiting the brewery on the outskirts is a perfect goal for gloomy days."
+            "en": "By car, Budweis is comfortable even in the rain. Short walks from parking lots to the arcades keep you dry. Visiting the brewery on the outskirts is a perfect goal for gloomy days.",
+            "cs": "Autem jsou Budějovice pohodlné i za deště. Krátké procházky z parkovišť k arkádám vás udrží v suchu. Návštěva pivovaru na okraji města je ideální cíl pro zamračené dny."
           },
           "stops": [
             {
@@ -1586,7 +1704,8 @@
                 "de": "Zentrales Parkhaus nutzen, um trocken ins Zentrum zu kommen.",
                 "hu": "Használja a központi parkolóházat, hogy szárazon jusson a központba.",
                 "ro": "Folosiți parcarea centrală pentru a ajunge uscat în centru.",
-                "en": "Use the central parking garage to stay dry while reaching the center."
+                "en": "Use the central parking garage to stay dry while reaching the center.",
+                "cs": "Použijte centrální podzemní garáž, abyste zůstali v suchu při cestě do centra."
               }
             },
             {
@@ -1595,7 +1714,8 @@
                 "de": "Kurzer Sprint zu den Arkaden; dort sind Sie sicher.",
                 "hu": "Gyors sprint az árkádokig; ott már biztonságban lesz.",
                 "ro": "Sprint scurt până la arcade; acolo sunteți în siguranță.",
-                "en": "Quick sprint to the arcades; you'll be safe there."
+                "en": "Quick sprint to the arcades; you'll be safe there.",
+                "cs": "Rychlý sprint k arkádám; tam budete v bezpečí."
               }
             },
             {
@@ -1604,7 +1724,8 @@
                 "de": "Parken Sie so nah wie möglich am Turm.",
                 "hu": "Parkoljon a lehető legközelebb a toronyhoz.",
                 "ro": "Parcați cât mai aproape de turn.",
-                "en": "Park as close to the tower as possible."
+                "en": "Park as close to the tower as possible.",
+                "cs": "Zaparkujte co nejblíže věži."
               }
             },
             {
@@ -1613,7 +1734,8 @@
                 "de": "Großer Parkplatz direkt vor dem Museum vorhanden.",
                 "hu": "Nagy parkoló található közvetlenül a múzeum előtt.",
                 "ro": "Parcare mare disponibilă chiar în fața muzeului.",
-                "en": "Large parking lot available directly in front of the museum."
+                "en": "Large parking lot available directly in front of the museum.",
+                "cs": "Velké parkoviště přímo před muzeem."
               }
             },
             {
@@ -1622,7 +1744,8 @@
                 "de": "Bequeme Anfahrt; Parkplätze für Besucher sind überdacht.",
                 "hu": "Kényelmes megközelítés; a látogatói parkolók fedettek.",
                 "ro": "Acces facil; locurile de parcare pentru vizitatori sunt acoperite.",
-                "en": "Easy access; visitor parking spaces are sheltered."
+                "en": "Easy access; visitor parking spaces are sheltered.",
+                "cs": "Snadný přístup; návštěvnická parkovací místa jsou krytá."
               }
             },
             {
@@ -1631,7 +1754,8 @@
                 "de": "Bei starkem Regen vom Auto aus genießen oder Schirm nutzen.",
                 "hu": "Erős esőben élvezze az autóból, vagy használjon ernyőt.",
                 "ro": "Pe ploaie torențială admirați din mașină sau folosiți umbrela.",
-                "en": "In heavy rain, enjoy from the car or use an umbrella."
+                "en": "In heavy rain, enjoy from the car or use an umbrella.",
+                "cs": "V silném dešti si užijte výhled z auta nebo použijte deštník."
               }
             }
           ],
@@ -1659,6 +1783,12 @@
               "An umbrella in the car is a must in Budweis.",
               "Old town streets can be slippery.",
               "Allow extra time for finding parking in the rain."
+            ],
+            "cs": [
+              "Používejte garáže místo venkovních míst.",
+              "Deštník v autě je v Budějovicích nutnost.",
+              "Ulice starého města mohou být kluzké.",
+              "Dovolte si více času na hledání parkování v dešti."
             ]
           }
         },
@@ -1667,7 +1797,8 @@
             "de": "Budweis im Winter mit dem Auto ermöglicht ein Aufwärmen zwischen den Sehenswürdigkeiten. Die Fahrt zur Budvar-Brauerei ist bei Kälte die angenehmste Option. Der festlich geschmückte Marktplatz lässt sich gut erreichen.",
             "hu": "Budweis télen autóval lehetővé teszi a felmelegedést a látnivalók között. A Budvar sörgyárba való utazás hidegben a legkényelmesebb opció. A díszes főtér könnyen megközelíthető.",
             "ro": "Budweis iarna cu mașina permite încălzirea între obiectivele turistice. Drumul spre berăria Budvar este cea mai plăcută opțiune pe frig. Piața decorată festiv este ușor accesibilă.",
-            "en": "Budweis in winter by car allows for warming up between sights. The drive to the Budvar brewery is the most pleasant option in the cold. The festively decorated main square is easy to reach."
+            "en": "Budweis in winter by car allows for warming up between sights. The drive to the Budvar brewery is the most pleasant option in the cold. The festively decorated main square is easy to reach.",
+            "cs": "Budějovice v zimě autem — možnost se mezi památkami zahřát. Jízda k pivovaru Budvar je v chladu nejpříjemnější volba. Svátečně vyzdobené náměstí je snadno dostupné."
           },
           "stops": [
             {
@@ -1676,7 +1807,8 @@
                 "de": "Tiefgarage schützt das Auto vor Frost.",
                 "hu": "A mélygarázs megvédi az autót a fagytól.",
                 "ro": "Parcarea subterană protejează mașina de îngheț.",
-                "en": "Underground parking protects the car from frost."
+                "en": "Underground parking protects the car from frost.",
+                "cs": "Podzemní parkoviště chrání auto před mrazem."
               }
             },
             {
@@ -1685,7 +1817,8 @@
                 "de": "Der Platz ist im Winter herrlich beleuchtet.",
                 "hu": "A tér télen gyönyörűen ki van világítva.",
                 "ro": "Piața este superb iluminată iarna.",
-                "en": "The square is beautifully illuminated in winter."
+                "en": "The square is beautifully illuminated in winter.",
+                "cs": "Náměstí je v zimě krásně nasvícené."
               }
             },
             {
@@ -1694,7 +1827,8 @@
                 "de": "Vorsicht beim Aussteigen auf glattem Kopfsteinpflaster.",
                 "hu": "Vigyázzon a kiszálláskor a csúszós macskakövön.",
                 "ro": "Atenție la coborâre pe piatra cubică alunecoasă.",
-                "en": "Be careful when getting out on slippery cobblestones."
+                "en": "Be careful when getting out on slippery cobblestones.",
+                "cs": "Dejte pozor při vystupování na kluzkých kostkách."
               }
             },
             {
@@ -1703,7 +1837,8 @@
                 "de": "Das Museum ist gut beheizt; ideal zum Aufwärmen.",
                 "hu": "A múzeum jól fűtött; ideális a felmelegedéshez.",
                 "ro": "Muzeul este bine încălzit; ideal pentru încălzire.",
-                "en": "The museum is well-heated; ideal for warming up."
+                "en": "The museum is well-heated; ideal for warming up.",
+                "cs": "Muzeum je dobře vyhřáté; ideální místo na prohřátí."
               }
             },
             {
@@ -1712,7 +1847,8 @@
                 "de": "Nutzen Sie die Sitzheizung für die kurze Fahrt.",
                 "hu": "Használja az ülésfűtést a rövid útra.",
                 "ro": "Folosiți încălzirea în scaune pentru drumul scurt.",
-                "en": "Use seat heating for the short drive."
+                "en": "Use seat heating for the short drive.",
+                "cs": "Na krátkou jízdu použijte vyhřívání sedadel."
               }
             },
             {
@@ -1721,7 +1857,8 @@
                 "de": "Im Winter oft neblig und sehr stimmungsvoll.",
                 "hu": "Télen gyakran ködös és nagyon hangulatos.",
                 "ro": "Iarna este adesea ceață și o atmosferă deosebită.",
-                "en": "Often foggy and very atmospheric in winter."
+                "en": "Often foggy and very atmospheric in winter.",
+                "cs": "Často mlhavo a velmi atmosféricky v zimě."
               }
             }
           ],
@@ -1749,6 +1886,12 @@
               "Parking garages are often full in winter due to shoppers.",
               "Watch out for pedestrians in dark clothing.",
               "Check anti-freeze levels in your washer fluid."
+            ],
+            "cs": [
+              "Zimní pneumatiky a stěrky na led jsou naprosto nezbytné.",
+              "Parkovací garáže jsou v zimě kvůli nakupujícím často plné.",
+              "Dávejte pozor na chodce v tmavém oblečení.",
+              "Zkontrolujte hladinu nemrznoucí kapaliny v ostřikovačích."
             ]
           }
         }
@@ -1767,7 +1910,8 @@
             "de": "Ankunft am Hauptplatz (Haltestelle Piaristická)",
             "hu": "Érkezés a főtérre (Piaristická megálló)",
             "ro": "Sosire în Piața Principală (stația Piaristická)",
-            "en": "Arrival at Main Square (Piaristická stop)"
+            "en": "Arrival at Main Square (Piaristická stop)",
+            "cs": "Příjezd na Náměstí (zastávka Piaristická)"
           },
           "coords": [
             14.476,
@@ -1783,7 +1927,8 @@
             "de": "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr für maximale Flexibilität.",
             "hu": "Vásároljon napijegyet a tömegközlekedéshez a maximális rugalmasság érdekében.",
             "ro": "Cumpărați un bilet de o zi pentru transportul public pentru flexibilitate maximă.",
-            "en": "Buy a day ticket for public transport for maximum flexibility."
+            "en": "Buy a day ticket for public transport for maximum flexibility.",
+            "cs": "Kupte si denní jízdenku na MHD pro maximální flexibilitu."
           }
         },
         {
@@ -1791,7 +1936,8 @@
             "de": "Spaziergang: Hauptplatz, Rathaus, Schwarzer Turm",
             "hu": "Séta: Főtér, Városháza, Fekete-torony",
             "ro": "Plimbare: Piața Principală, Primăria, Turnul Negru",
-            "en": "Walk: Main Square, Town Hall, Black Tower"
+            "en": "Walk: Main Square, Town Hall, Black Tower",
+            "cs": "Pěšky: Náměstí, Radnice, Černá věž"
           },
           "coords": [
             14.475,
@@ -1807,7 +1953,8 @@
             "de": "Dieser Cluster ist kompakt und ideal, um zu Fuß erkundet zu werden.",
             "hu": "Ez a klaszter kompakt és ideális a gyalogos felfedezéshez.",
             "ro": "Acest cluster este compact și ideal pentru a fi explorat pe jos.",
-            "en": "This cluster is compact and ideal for exploring on foot."
+            "en": "This cluster is compact and ideal for exploring on foot.",
+            "cs": "Tento okruh je kompaktní a ideální k prozkoumání pěšky."
           }
         },
         {
@@ -1815,7 +1962,8 @@
             "de": "Südböhmisches Museum",
             "hu": "Dél-Csehországi Múzeum",
             "ro": "Muzeul Boemiei de Sud",
-            "en": "Museum of South Bohemia"
+            "en": "Museum of South Bohemia",
+            "cs": "Muzeum jižních Čech"
           },
           "coords": [
             14.48,
@@ -1831,7 +1979,8 @@
             "de": "Vom Hauptplatz aus in wenigen Minuten zu Fuß erreichbar.",
             "hu": "A főtértől néhány perces sétával elérhető.",
             "ro": "La câteva minute de mers pe jos de piața principală.",
-            "en": "Just a few minutes' walk from the main square."
+            "en": "Just a few minutes' walk from the main square.",
+            "cs": "Jen pár minut chůze od hlavního náměstí."
           }
         },
         {
@@ -1839,7 +1988,8 @@
             "de": "Fahrt zur Budweiser Budvar Brauerei (Haltestelle Budvar)",
             "hu": "Utazás a Budweiser Budvar Sörgyárhoz (Budvar megálló)",
             "ro": "Călătorie la Fabrica de Bere Budweiser Budvar (stația Budvar)",
-            "en": "Trip to Budweiser Budvar Brewery (Budvar stop)"
+            "en": "Trip to Budweiser Budvar Brewery (Budvar stop)",
+            "cs": "Výlet do pivovaru Budějovický Budvar (zastávka Budvar)"
           },
           "coords": [
             14.493,
@@ -1855,7 +2005,8 @@
             "de": "Nehmen Sie den Bus der Linie 2 vom Stadtzentrum. Die Haltestelle ist direkt vor der Brauerei.",
             "hu": "Vegye igénybe a 2-es buszt a városközpontból. A megálló közvetlenül a sörgyár előtt van.",
             "ro": "Luați autobuzul linia 2 din centrul orașului. Stația este chiar în fața fabricii.",
-            "en": "Take bus line 2 from the city center. The stop is right in front of the brewery."
+            "en": "Take bus line 2 from the city center. The stop is right in front of the brewery.",
+            "cs": "Vezměte linku 2 z centra města. Zastávka je přímo před pivovarem."
           }
         },
         {
@@ -1863,7 +2014,8 @@
             "de": "Rückkehr ins Zentrum und Abendessen",
             "hu": "Visszatérés a központba és vacsora",
             "ro": "Întoarcere în centru și cină",
-            "en": "Return to the Center and Dinner"
+            "en": "Return to the Center and Dinner",
+            "cs": "Návrat do centra a večeře"
           },
           "coords": [
             14.4747,
@@ -1879,7 +2031,8 @@
             "de": "Die Busse fahren regelmäßig zurück ins Zentrum, wo Sie eine große Auswahl an Restaurants finden.",
             "hu": "A buszok rendszeresen közlekednek vissza a központba, ahol éttermek széles választékát találja.",
             "ro": "Autobuzele circulă regulat înapoi spre centru, unde veți găsi o selecție largă de restaurante.",
-            "en": "Buses run regularly back to the center, where you'll find a wide selection of restaurants."
+            "en": "Buses run regularly back to the center, where you'll find a wide selection of restaurants.",
+            "cs": "Autobusy jezdí pravidelně zpět do centra, kde najdete široký výběr restaurací."
           }
         }
       ],
@@ -1887,7 +2040,8 @@
         "de": "Nutzen Sie das effiziente öffentliche Verkehrsnetz von Budweis. Starten Sie mit dem Bus zum Hauptplatz, dem Zentrum des ersten Clusters. Erkunden Sie den Platz, das Rathaus und den Schwarzen Turm zu Fuß. Ein kurzer Spaziergang führt Sie weiter zum Südböhmischen Museum. Nach dem Eintauchen in die Geschichte nehmen Sie einen Bus zum zweiten Cluster: der Budweiser Budvar Brauerei. Die Führung und Verkostung sind ein Höhepunkt des Nachmittags. Anschließend bringt Sie der Bus bequem zurück ins Stadtzentrum, wo Sie den Tag in einem der vielen ausgezeichneten Restaurants ausklingen lassen können.",
         "hu": "Használja ki Budweis hatékony tömegközlekedési hálózatát. Induljon busszal a főtérre, az első klaszter központjába. Fedezze fel gyalog a teret, a Városházát és a Fekete-tornyot. Egy rövid séta elvezeti a Dél-Csehországi Múzeumhoz. A történelembe való elmerülés után szálljon buszra a második klaszterhez: a Budweiser Budvar Sörgyárhoz. A vezetett túra és a kóstoló a délután fénypontja. Ezután a busz kényelmesen visszaviszi a városközpontba, ahol a napot a számos kiváló étterem egyikében zárhatja.",
         "ro": "Utilizați rețeaua eficientă de transport public din Budweis. Începeți cu autobuzul spre Piața Principală, centrul primului cluster. Explorați piața, primăria și Turnul Negru pe jos. O scurtă plimbare vă va duce la Muzeul Boemiei de Sud. După imersiunea în istorie, luați un autobuz spre al doilea cluster: fabrica de bere Budweiser Budvar. Turul ghidat și degustarea sunt un punct culminant al după-amiezii. Apoi, autobuzul vă va duce confortabil înapoi în centrul orașului, unde puteți încheia ziua la unul dintre multele restaurante excelente.",
-        "en": "Take advantage of Budweis's efficient public transport network. Start by taking a bus to the main square, the center of the first cluster. Explore the square, the town hall, and the Black Tower on foot. A short walk will take you to the Museum of South Bohemia. After immersing yourself in history, take a bus to the second cluster: the Budweiser Budvar Brewery. The guided tour and tasting are a highlight of the afternoon. Afterwards, the bus will conveniently take you back to the city center, where you can end the day at one of the many excellent restaurants."
+        "en": "Take advantage of Budweis's efficient public transport network. Start by taking a bus to the main square, the center of the first cluster. Explore the square, the town hall, and the Black Tower on foot. A short walk will take you to the Museum of South Bohemia. After immersing yourself in history, take a bus to the second cluster: the Budweiser Budvar Brewery. The guided tour and tasting are a highlight of the afternoon. Afterwards, the bus will conveniently take you back to the city center, where you can end the day at one of the many excellent restaurants.",
+        "cs": "Využijte efektivní MHD v Budějovicích. Začněte autobusem na hlavní náměstí, centrum prvního okruhu. Prozkoumejte náměstí, radnici a Černou věž pěšky. Krátká procházka vás dovede do Muzea jižních Čech. Po ponoru do historie jeďte autobusem do druhého okruhu: do pivovaru Budějovický Budvar. Prohlídka s ochutnávkou je vrcholem odpoledne. Poté vás autobus pohodlně vrátí do centra, kde můžete den zakončit v jedné z výborných restaurací."
       },
       "gastro_picks": {
         "de": [
@@ -2099,6 +2253,12 @@
           "Remember to validate your ticket when boarding the bus or tram.",
           "Bus schedules are posted at the stops. Check the times for your return journey.",
           "Ask your hotel for a public transport map."
+        ],
+        "cs": [
+          "Jízdenky lze koupit v trafice (Tabák) nebo přes mobilní aplikace.",
+          "Nezapomeňte označit jízdenku při nástupu do autobusu nebo tramvaje.",
+          "Jízdní řády jsou vyvěšeny na zastávkách. Zkontrolujte časy pro návrat.",
+          "Požádejte hotel o mapu MHD."
         ]
       },
       "variants": {
@@ -2107,7 +2267,8 @@
             "de": "Budweis verfügt über ein effizientes Bussystem, das Sie auch bei Regen trocken ans Ziel bringt. Kurze Wartezeiten an den Haltestellen minimieren den Kontakt mit dem Wetter. Die Brauerei ist bequem mit dem Bus erreichbar.",
             "hu": "Budweis hatékony buszhálózattal rendelkezik, amely esőben is szárazon célba juttatja. A rövid várakozási idő a megállókban minimálisra csökkenti az időjárással való érintkezést. A sörgyár kényelmesen elérhető busszal.",
             "ro": "Budweis are un sistem de autobuze eficient care vă duce la destinație uscat, chiar și pe ploaie. Timpii scurți de așteptare în stații minimizează contactul cu vremea. Berăria este ușor accesibilă cu autobuzul.",
-            "en": "Budweis has an efficient bus system that gets you to your destination dry, even in the rain. Short wait times at stops minimize exposure to the weather. The brewery is easily accessible by bus."
+            "en": "Budweis has an efficient bus system that gets you to your destination dry, even in the rain. Short wait times at stops minimize exposure to the weather. The brewery is easily accessible by bus.",
+            "cs": "Budějovice mají efektivní síť autobusů, která vás dopraví suché i v dešti. Krátké čekací doby na zastávkách minimalizují pobyt venku. Pivovar je snadno dostupný linkou."
           },
           "stops": [
             {
@@ -2116,7 +2277,8 @@
                 "de": "Die Haltestelle ist überdacht.",
                 "hu": "A megálló fedett.",
                 "ro": "Stația este acoperită.",
-                "en": "The stop is sheltered."
+                "en": "The stop is sheltered.",
+                "cs": "Zastávka je přístřešena."
               }
             },
             {
@@ -2125,7 +2287,8 @@
                 "de": "Suchen Sie Schutz in den Arkaden zwischen den Busfahrten.",
                 "hu": "Keressen menedéket az árkádok alatt a buszok között.",
                 "ro": "Căutați adăpost sub arcade între cursele de autobuz.",
-                "en": "Seek shelter under the arcades between bus rides."
+                "en": "Seek shelter under the arcades between bus rides.",
+                "cs": "Hledejte úkryt pod arkádami mezi jízdami autobusu."
               }
             },
             {
@@ -2134,7 +2297,8 @@
                 "de": "Bushaltestelle direkt vor dem Eingang.",
                 "hu": "Buszmegálló közvetlenül a bejárat előtt.",
                 "ro": "Stație de autobuz chiar în fața intrării.",
-                "en": "Bus stop right in front of the entrance."
+                "en": "Bus stop right in front of the entrance.",
+                "cs": "Zastávka přímo před vstupem."
               }
             },
             {
@@ -2143,7 +2307,8 @@
                 "de": "Die Linie 2 bringt Sie direkt und trocken hin.",
                 "hu": "A 2-es vonal közvetlenül és szárazon odaviszi.",
                 "ro": "Linia 2 vă duce direct și fără a vă uda.",
-                "en": "Line 2 takes you there directly and keeps you dry."
+                "en": "Line 2 takes you there directly and keeps you dry.",
+                "cs": "Linka 2 vás tam veze přímo a udrží vás v suchu."
               }
             },
             {
@@ -2152,7 +2317,8 @@
                 "de": "Abendliche Busse fahren regelmäßig.",
                 "hu": "Az esti buszok rendszeresen járnak.",
                 "ro": "Autobuzele de seară circulă regulat.",
-                "en": "Evening buses run regularly."
+                "en": "Evening buses run regularly.",
+                "cs": "Noční autobusy jezdí pravidelně."
               }
             }
           ],
@@ -2180,6 +2346,12 @@
               "Buy tickets conveniently via SMS or card on the bus.",
               "Old town stops are often near arcades.",
               "Carry a compact umbrella during rainy weather."
+            ],
+            "cs": [
+              "Stáhněte si aplikaci pro odjezdy v reálném čase.",
+              "Kupujte jízdenky pohodlně přes SMS nebo kartou v autobuse.",
+              "Zastávky ve starém městě jsou často u arkád.",
+              "V deštivém počasí noste skládací deštník."
             ]
           }
         },
@@ -2188,7 +2360,8 @@
             "de": "Die beheizten Busse in Budweis sind im Winter ein Segen. Sie verbinden die Altstadt schnell mit der Brauerei, ohne dass man lange in der Kälte stehen muss. Der Anblick der beleuchteten Stadt aus dem Busfenster ist besonders schön.",
             "hu": "A fűtött buszok Budweisben áldást jelentenek télen. Gyorsan összekötik az óvárost a sörgyárral, anélkül, hogy sokat kellene a hidegben állni. A kivilágított város látványa a buszablakból különösen szép.",
             "ro": "Autobuzele încălzite din Budweis sunt o binecuvântare iarna. Ele conectează rapid centrul vechi de berărie, fără a sta mult în frig. Vederea orașului iluminat de la fereastra autobuzului este deosebită.",
-            "en": "Heated buses in Budweis are a blessing in winter. They quickly connect the old town with the brewery without having to stand in the cold for long. The sight of the lit-up city from the bus window is especially beautiful."
+            "en": "Heated buses in Budweis are a blessing in winter. They quickly connect the old town with the brewery without having to stand in the cold for long. The sight of the lit-up city from the bus window is especially beautiful.",
+            "cs": "Vyhřáté autobusy v Budějovicích jsou v zimě požehnáním. Rychle spojují staré město s pivovarem, aniž byste museli dlouho stát venku. Pohled na nasvícené město z okna autobusu je obzvlášť krásný."
           },
           "stops": [
             {
@@ -2197,7 +2370,8 @@
                 "de": "Warten Sie in den beheizten Geschäften nebenan.",
                 "hu": "Várjon a szomszédos fűtött üzletekben.",
                 "ro": "Așteptați în magazinele încălzite de alături.",
-                "en": "Wait in the nearby heated shops."
+                "en": "Wait in the nearby heated shops.",
+                "cs": "Počkejte v blízkých vyhřátých obchodech."
               }
             },
             {
@@ -2206,7 +2380,8 @@
                 "de": "Die kurzen Wege zwischen den Haltestellen sind ideal.",
                 "hu": "A megállók közötti rövid távok ideálisak.",
                 "ro": "Distanțele scurte între stații sunt ideale.",
-                "en": "Short distances between stops are ideal."
+                "en": "Short distances between stops are ideal.",
+                "cs": "Krátké vzdálenosti mezi zastávkami jsou ideální."
               }
             },
             {
@@ -2215,7 +2390,8 @@
                 "de": "Perfekter Ort, um sich zwischen den Fahrten aufzuwärmen.",
                 "hu": "Tökéletes hely a felmelegedéshez a járatok között.",
                 "ro": "Loc perfect pentru încălzire între curse.",
-                "en": "Perfect place to warm up between bus rides."
+                "en": "Perfect place to warm up between bus rides.",
+                "cs": "Perfektní místo na prohřátí mezi jízdy autobusem."
               }
             },
             {
@@ -2224,7 +2400,8 @@
                 "de": "Achten Sie auf den Winterfahrplan (weniger Fahrten).",
                 "hu": "Ügyeljen a téli menetrendre (kevesebb járat).",
                 "ro": "Atenție la orarul de iarnă (mai puține curse).",
-                "en": "Check the winter timetable (fewer trips)."
+                "en": "Check the winter timetable (fewer trips).",
+                "cs": "Zkontrolujte zimní jízdní řád (méně spojů)."
               }
             },
             {
@@ -2233,7 +2410,8 @@
                 "de": "Genießen Sie die Fahrt durch die beleuchteten Straßen.",
                 "hu": "Élvezze az utazást a kivilágított utcákon.",
                 "ro": "Bucurați-vă de drumul prin străzile iluminate.",
-                "en": "Enjoy the ride through the illuminated streets."
+                "en": "Enjoy the ride through the illuminated streets.",
+                "cs": "Užijte si jízdu rozsvícenými ulicemi."
               }
             }
           ],
@@ -2261,6 +2439,12 @@
               "Buses are often quite warm inside; dress in layers.",
               "Audio announcements help if windows are fogged up.",
               "Early evening traffic may cause slight delays."
+            ],
+            "cs": [
+              "Autobusy jsou v zimě obvykle velmi přesné.",
+              "Uvnitř je často dost teplo; oblékejte se do vrstev.",
+              "Hlasová hlášení pomohou, pokud jsou okna orosená.",
+              "Večer může být mírné zpoždění kvůli dopravě."
             ]
           }
         }

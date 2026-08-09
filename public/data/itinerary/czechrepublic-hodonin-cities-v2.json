@@ -21,7 +21,8 @@
             "de": "Masaryk-Platz",
             "hu": "Masaryk tér",
             "ro": "Piața Masaryk",
-            "en": "Masaryk Square"
+            "en": "Masaryk Square",
+            "cs": "Masarykovo náměstí"
           },
           "coords": [
             17.13,
@@ -37,7 +38,8 @@
             "de": "Beginnen Sie den Tag mit einem Kaffee in einem der Cafés am Platz.",
             "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában.",
             "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
-            "en": "Start your day with a coffee at one of the square's cafes."
+            "en": "Start your day with a coffee at one of the square's cafes.",
+            "cs": "Začněte den kávou v jedné z náměstních kaváren."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Rathaus",
             "hu": "Városháza",
             "ro": "Primăria",
-            "en": "Town Hall"
+            "en": "Town Hall",
+            "cs": "Radnice"
           },
           "coords": [
             17.1295,
@@ -61,7 +64,8 @@
             "de": "Bewundern Sie die Architektur und das Glockenspiel zur vollen Stunde.",
             "hu": "Csodálja meg az építészetet és a harangjátékot minden egész órában.",
             "ro": "Admirați arhitectura și ascultați carilonul la oră fixă.",
-            "en": "Admire the architecture and listen to the carillon on the hour."
+            "en": "Admire the architecture and listen to the carillon on the hour.",
+            "cs": "Obdivujte architekturu a poslechněte si zvonkohru v každou celou hodinu."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Laurentiuskirche",
             "hu": "Szent Lőrinc-templom",
             "ro": "Biserica Sf. Laurențiu",
-            "en": "St. Lawrence Church"
+            "en": "St. Lawrence Church",
+            "cs": "Kostel sv. Vavřince"
           },
           "coords": [
             17.1315,
@@ -85,7 +90,8 @@
             "de": "Suchen Sie nach den barocken Details und genießen Sie die Stille.",
             "hu": "Keresse a barokk részleteket és élvezze a csendet.",
             "ro": "Căutați detaliile baroce și bucurați-vă de liniște.",
-            "en": "Look for the baroque details and enjoy the quiet atmosphere."
+            "en": "Look for the baroque details and enjoy the quiet atmosphere.",
+            "cs": "Hledejte barokní detaily a užijte si tichou atmosféru."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Galerie der bildenden Künste",
             "hu": "Képzőművészeti Galéria",
             "ro": "Galeria de Arte Plastice",
-            "en": "Gallery of Fine Arts"
+            "en": "Gallery of Fine Arts",
+            "cs": "Galerie výtvarného umění"
           },
           "coords": [
             17.1288,
@@ -109,7 +116,8 @@
             "de": "Fokus auf mährische Künstler. Ein Muss für Kunstliebhaber.",
             "hu": "A fókusz a morva művészeken van. Kötelező a művészetkedvelőknek.",
             "ro": "Concentrați-vă pe artiștii moravi. O vizită obligatorie pentru iubitorii de artă.",
-            "en": "Focus on Moravian artists. A must-visit for art lovers."
+            "en": "Focus on Moravian artists. A must-visit for art lovers.",
+            "cs": "Zaměřuje se na moravské umělce. Nutnost pro milovníky umění."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Masaryk-Museum",
             "hu": "Masaryk Múzeum",
             "ro": "Muzeul Masaryk",
-            "en": "Masaryk Museum"
+            "en": "Masaryk Museum",
+            "cs": "Masarykovo muzeum"
           },
           "coords": [
             17.1275,
@@ -133,7 +142,8 @@
             "de": "Planen Sie genug Zeit für die Ausstellung über den ersten Präsidenten ein.",
             "hu": "Szánjon elég időt az első elnökről szóló kiállításra.",
             "ro": "Planificați suficient timp pentru expoziția despre primul președinte.",
-            "en": "Plan enough time for the exhibition about the first president."
+            "en": "Plan enough time for the exhibition about the first president.",
+            "cs": "Plánujte dost času na expozici o prvním prezidentovi."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Heilbad Hodonín",
             "hu": "Hodoníni Gyógyfürdő",
             "ro": "Băile Termale Hodonín",
-            "en": "Spa Hodonín"
+            "en": "Spa Hodonín",
+            "cs": "Lázně Hodonín"
           },
           "coords": [
             17.1125,
@@ -157,7 +168,8 @@
             "de": "Ein entspannendes Bad im jodhaltigen Wasser ist eine Wohltat.",
             "hu": "Egy pihentető fürdő a jódozott vízben igazi felüdülés.",
             "ro": "O baie relaxantă în apa iodată este o binecuvântare.",
-            "en": "A relaxing bath in the iodine water is a real treat."
+            "en": "A relaxing bath in the iodine water is a real treat.",
+            "cs": "Relaxace v jodové vodě je opravdový zážitek."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Zoo Hodonín",
             "hu": "Hodoníni Állatkert",
             "ro": "Zoo Hodonín",
-            "en": "Zoo Hodonín"
+            "en": "Zoo Hodonín",
+            "cs": "Zoologická zahrada Hodonín"
           },
           "coords": [
             17.0988,
@@ -181,7 +194,8 @@
             "de": "Der Pavillon der weißen Tiger ist das Highlight des Zoos.",
             "hu": "A fehér tigrisek pavilonja az állatkert fénypontja.",
             "ro": "Pavilionul tigrilor albi este punctul culminant al grădinii zoologice.",
-            "en": "The white tiger pavilion is the highlight of the zoo."
+            "en": "The white tiger pavilion is the highlight of the zoo.",
+            "cs": "Pavilon bílého tygra je hlavní atrakcí zoo."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Ihr Spaziergang durch Göding beginnt auf dem lebhaften Masaryk-Platz. Am Vormittag erkunden Sie das historische Herz der Stadt, einschließlich des Rathauses und der ehrwürdigen Laurentiuskirche. Mittags tauchen Sie in die mährische Kultur ein, mit Besuchen in der Kunstgalerie und dem dem berühmten Sohn der Stadt gewidmeten Masaryk-Museum. Der Nachmittag steht ganz im Zeichen der Entspannung: Zuerst regenerieren Sie im Heilbad, bevor Sie den Tag mit einem gemütlichen Spaziergang durch den bekannten Zoo von Göding ausklingen lassen. Am Abend genießen Sie die lokale Gastfreundschaft in einem der traditionellen Restaurants.",
         "hu": "A gödingi séta a nyüzsgő Masaryk téren kezdődik. Délelőtt a város történelmi szívét fedezi fel, beleértve a Városházát és a tiszteletreméltó Szent Lőrinc-templomot. Délben elmerül a morva kultúrában a Művészeti Galéria és a város híres szülöttének szentelt Masaryk Múzeum meglátogatásával. A délután a pihenésé: először a gyógyfürdőben regenerálódik, majd egy kellemes sétával zárja a napot Göding híres állatkertjében. Este élvezze a helyi vendégszeretetet egy hagyományos étteremben.",
         "ro": "Plimbarea dvs. prin Hodonín începe în vibranta Piață Masaryk. Dimineața explorați inima istorică a orașului, inclusiv Primăria și venerabila Biserică Sf. Laurențiu. La prânz, vă scufundați în cultura moravă cu vizite la Galeria de Artă și Muzeul Masaryk, dedicat faimosului fiu al orașului. După-amiaza este dedicată relaxării: mai întâi vă regenerați la băile termale, înainte de a încheia ziua cu o plimbare agale prin renumita grădină zoologică din Hodonín. Seara, bucurați-vă de ospitalitatea locală la unul dintre restaurantele tradiționale.",
-        "en": "Your walk through Hodonín begins in the lively Masaryk Square. In the morning, you'll explore the historic heart of the city, including the Town Hall and the venerable St. Lawrence Church. At noon, you'll immerse yourself in Moravian culture with visits to the Art Gallery and the Masaryk Museum, dedicated to the city's famous son. The afternoon is all about relaxation: first, you'll rejuvenate at the spa, then conclude the day with a leisurely stroll through Hodonín's renowned zoo. In the evening, enjoy the local hospitality at a traditional restaurant."
+        "en": "Your walk through Hodonín begins in the lively Masaryk Square. In the morning, you'll explore the historic heart of the city, including the Town Hall and the venerable St. Lawrence Church. At noon, you'll immerse yourself in Moravian culture with visits to the Art Gallery and the Masaryk Museum, dedicated to the city's famous son. The afternoon is all about relaxation: first, you'll rejuvenate at the spa, then conclude the day with a leisurely stroll through Hodonín's renowned zoo. In the evening, enjoy the local hospitality at a traditional restaurant.",
+        "cs": "Vaše procházka Hodonínem začíná na živém Masarykově náměstí. Ráno prozkoumáte historické srdce města, včetně radnice a uctívaného kostela sv. Vavřince. V poledne se ponoříte do moravské kultury návštěvou Galerie výtvarného umění a Masarykova muzea, věnovaného slavnému rodákovi. Odpoledne je věnováno relaxaci: nejprve se zregenerujete v lázních a den zakončíte poklidnou procházkou v proslulé hodonínské zoo. Večer si užijte místní pohostinnost v tradiční restauraci."
       },
       "gastro_picks": {
         "de": [
@@ -369,6 +384,12 @@
           "Allow plenty of time for the spa, it is very relaxing.",
           "Check the opening hours of the museums in advance.",
           "The best time to visit is in late spring or early autumn."
+        ],
+        "cs": [
+          "Noste pohodlné boty, protože budete hodně chodit.",
+          "Nechte si dost času ve lázních, jsou velmi relaxační.",
+          "Předem zkontrolujte otvírací dobu muzeí.",
+          "Nejlepší doba k návštěvě je pozdní jaro nebo brzký podzim."
         ]
       }
     },
@@ -385,7 +406,8 @@
             "de": "Masaryk-Platz",
             "hu": "Masaryk tér",
             "ro": "Piața Masaryk",
-            "en": "Masaryk Square"
+            "en": "Masaryk Square",
+            "cs": "Masarykovo náměstí"
           },
           "coords": [
             17.13,
@@ -401,7 +423,8 @@
             "de": "Schließen Sie Ihr Rad an und erkunden Sie den Platz zu Fuß.",
             "hu": "Zárja le a biciklit és fedezze fel a teret gyalog.",
             "ro": "Încuietoarea bicicletei și explorați piața pe jos.",
-            "en": "Lock up your bike and explore the square on foot."
+            "en": "Lock up your bike and explore the square on foot.",
+            "cs": "Uzamkněte si kolo a prozkoumejte náměstí pěšky."
           }
         },
         {
@@ -409,7 +432,8 @@
             "de": "Galerie der bildenden Künste",
             "hu": "Képzőművészeti Galéria",
             "ro": "Galeria de Arte Plastice",
-            "en": "Gallery of Fine Arts"
+            "en": "Gallery of Fine Arts",
+            "cs": "Galerie výtvarného umění"
           },
           "coords": [
             17.1288,
@@ -425,7 +449,8 @@
             "de": "Eine schnelle Dosis Kultur, bevor die Radtour richtig losgeht.",
             "hu": "Egy gyors adag kultúra, mielőtt a biciklitúra igazán elkezdődik.",
             "ro": "O doză rapidă de cultură înainte de a începe cu adevărat turul cu bicicleta.",
-            "en": "A quick dose of culture before the bike tour really kicks off."
+            "en": "A quick dose of culture before the bike tour really kicks off.",
+            "cs": "Rychlá dávka kultury před tím, než cyklistika opravdu začne."
           }
         },
         {
@@ -433,7 +458,8 @@
             "de": "Masaryk-Museum",
             "hu": "Masaryk Múzeum",
             "ro": "Muzeul Masaryk",
-            "en": "Masaryk Museum"
+            "en": "Masaryk Museum",
+            "cs": "Masarykovo muzeum"
           },
           "coords": [
             17.1275,
@@ -449,7 +475,8 @@
             "de": "Radfahren zum Museum ist eine gute Möglichkeit, die Stadt zu sehen.",
             "hu": "A múzeumhoz biciklizni remek módja a városnézésnek.",
             "ro": "Mersul cu bicicleta la muzeu este o modalitate excelentă de a vedea orașul.",
-            "en": "Cycling to the museum is a great way to see the city."
+            "en": "Cycling to the museum is a great way to see the city.",
+            "cs": "Jízda na kole k muzeu je skvělý způsob, jak město poznat."
           }
         },
         {
@@ -457,7 +484,8 @@
             "de": "Masaryk-Denkmal",
             "hu": "Masaryk-emlékmű",
             "ro": "Monumentul Masaryk",
-            "en": "Masaryk Monument"
+            "en": "Masaryk Monument",
+            "cs": "Masarykova socha"
           },
           "coords": [
             17.126,
@@ -473,7 +501,8 @@
             "de": "Ein kurzer Halt, um dem Gründungspräsidenten die Ehre zu erweisen.",
             "hu": "Egy rövid megálló, hogy tisztelegjünk az alapító elnök előtt.",
             "ro": "O scurtă oprire pentru a aduce un omagiu președintelui fondator.",
-            "en": "A quick stop to pay respects to the founding president."
+            "en": "A quick stop to pay respects to the founding president.",
+            "cs": "Krátká zastávka na úctu zakládajícímu prezidentovi."
           }
         },
         {
@@ -481,7 +510,8 @@
             "de": "Heilbad Hodonín",
             "hu": "Hodoníni Gyógyfürdő",
             "ro": "Băile Termale Hodonín",
-            "en": "Spa Hodonín"
+            "en": "Spa Hodonín",
+            "cs": "Lázně Hodonín"
           },
           "coords": [
             17.1125,
@@ -497,7 +527,8 @@
             "de": "Perfekt für eine Mittagspause und um die Muskeln zu entspannen.",
             "hu": "Tökéletes egy ebédszünetre és az izmok ellazítására.",
             "ro": "Perfect pentru o pauză de prânz și pentru a vă relaxa mușchii.",
-            "en": "Perfect for a lunch break and to relax your muscles."
+            "en": "Perfect for a lunch break and to relax your muscles.",
+            "cs": "Perfektní na obědovou pauzu a uvolnění svalů."
           }
         },
         {
@@ -505,7 +536,8 @@
             "de": "Zoo Hodonín",
             "hu": "Hodoníni Állatkert",
             "ro": "Zoo Hodonín",
-            "en": "Zoo Hodonín"
+            "en": "Zoo Hodonín",
+            "cs": "Zoologická zahrada Hodonín"
           },
           "coords": [
             17.0988,
@@ -521,7 +553,8 @@
             "de": "Der Zoo ist weitläufig, das Fahrrad hilft, von A nach B zu kommen.",
             "hu": "Az állatkert tágas, a bicikli segít eljutni A-ból B-be.",
             "ro": "Grădina zoologică este întinsă, bicicleta vă ajută să ajungeți de la A la B.",
-            "en": "The zoo is spacious, the bike helps to get from A to B."
+            "en": "The zoo is spacious, the bike helps to get from A to B.",
+            "cs": "Zoo je prostorná, kolo pomáhá dostat se z bodu A do B."
           }
         },
         {
@@ -529,7 +562,8 @@
             "de": "Rückkehr zum Masaryk-Platz",
             "hu": "Vissza a Masaryk térre",
             "ro": "Înapoi în Piața Masaryk",
-            "en": "Return to Masaryk Square"
+            "en": "Return to Masaryk Square",
+            "cs": "Návrat na Masarykovo náměstí"
           },
           "coords": [
             17.13,
@@ -545,7 +579,8 @@
             "de": "Beenden Sie die Tour, wo sie begann, und genießen Sie ein wohlverdientes Abendessen.",
             "hu": "Fejezze be a túrát ott, ahol kezdődött, és élvezzen egy jól megérdemelt vacsorát.",
             "ro": "Încheiați turul acolo unde a început și bucurați-vă de o cină binemeritată.",
-            "en": "End the tour where it began and enjoy a well-deserved dinner."
+            "en": "End the tour where it began and enjoy a well-deserved dinner.",
+            "cs": "Ukončete prohlídku tam, kde začala, a vychutnejte si zaslouženou večeři."
           }
         }
       ],
@@ -553,7 +588,8 @@
         "de": "Schwingen Sie sich aufs Rad für eine dynamische Tour durch Göding. Der Vormittag führt Sie vom Masaryk-Platz zu kulturellen Höhepunkten wie der Kunstgalerie und dem Masaryk-Museum, mit einem kurzen Stopp am Denkmal. Die Mittagszeit ist für eine ausgiebige Erholungspause im berühmten Heilbad reserviert – eine perfekte Stärkung für die zweite Tageshälfte. Am Nachmittag radeln Sie zum weitläufigen Zoo, um die Tierwelt zu erkunden. Die Tour schließt den Kreis mit der Rückkehr zum Masaryk-Platz, wo Sie den Abend ausklingen lassen können.",
         "hu": "Pattanjon biciklire egy dinamikus gödingi túrához. A délelőtt a Masaryk térről kulturális fénypontokhoz, például a Művészeti Galériához és a Masaryk Múzeumhoz vezet, egy rövid megállóval az emlékműnél. Az ebédidő a híres gyógyfürdőben való kiadós pihenésre van fenntartva – tökéletes feltöltődés a nap második felére. Délután a tágas állatkertbe teker, hogy felfedezze az állatvilágot. A túra a Masaryk térre való visszatéréssel zárul, ahol az estét töltheti.",
         "ro": "Urcați-vă pe bicicletă pentru un tur dinamic prin Hodonín. Dimineața vă poartă din Piața Masaryk la obiective culturale precum Galeria de Artă și Muzeul Masaryk, cu o scurtă oprire la monument. Pauza de prânz este rezervată pentru o relaxare extinsă la faimoasele băi termale – o modalitate perfectă de a vă reîncărca pentru a doua jumătate a zilei. După-amiaza, pedalați spre întinsa grădină zoologică pentru a explora fauna. Turul se încheie cu întoarcerea în Piața Masaryk, unde puteți petrece seara.",
-        "en": "Hop on your bike for a dynamic tour of Hodonín. The morning takes you from Masaryk Square to cultural highlights like the Art Gallery and the Masaryk Museum, with a brief stop at the monument. Lunchtime is reserved for an extensive relaxation break at the famous spa – a perfect recharge for the second half of the day. In the afternoon, you'll cycle to the spacious zoo to explore the wildlife. The tour comes full circle with a return to Masaryk Square, where you can round off the evening."
+        "en": "Hop on your bike for a dynamic tour of Hodonín. The morning takes you from Masaryk Square to cultural highlights like the Art Gallery and the Masaryk Museum, with a brief stop at the monument. Lunchtime is reserved for an extensive relaxation break at the famous spa – a perfect recharge for the second half of the day. In the afternoon, you'll cycle to the spacious zoo to explore the wildlife. The tour comes full circle with a return to Masaryk Square, where you can round off the evening.",
+        "cs": "Nasedněte na kolo a vydejte se na dynamickou prohlídku Hodonína. Ráno vás provede od Masarykova náměstí ke kulturním zajímavostem jako Galerie výtvarného umění a Masarykovo muzeum, s krátkou zastávkou u pomníku. Poledne je vyhrazeno na rozsáhlé relaxační přestávky ve známých lázních – ideální dobití energie na druhou polovinu dne. Odpoledne pojedete na kole do prostorné zoo, kde prozkoumáte zvířata. Trasa se uzavře návratem na Masarykovo náměstí, kde můžete zakončit večer."
       },
       "gastro_picks": {
         "de": [
@@ -733,6 +769,12 @@
           "Take a water bottle with you.",
           "The paths are mostly flat, but be prepared for some slight inclines.",
           "Watch out for pedestrians in the city center."
+        ],
+        "cs": [
+          "Zkontrolujte kolo před odjezdem.",
+          "Vezměte si s sebou láhev s vodou.",
+          "Cesty jsou převážně rovinaté, připravte se ale na drobné stoupání.",
+          "Dávejte pozor na chodce v centru města."
         ]
       }
     },
@@ -749,7 +791,8 @@
             "de": "Parken am Zentrum (Cluster A)",
             "hu": "Parkolás a központban (A klaszter)",
             "ro": "Parcare în centru (Cluster A)",
-            "en": "Parking at the Center (Cluster A)"
+            "en": "Parking at the Center (Cluster A)",
+            "cs": "Parkování v centru (shluk A)"
           },
           "coords": [
             17.1325,
@@ -765,7 +808,8 @@
             "de": "Parken Sie hier für den Vormittag und erkunden Sie das Zentrum zu Fuß.",
             "hu": "Parkoljon le itt délelőttre, és fedezze fel a központot gyalog.",
             "ro": "Parcați aici pentru dimineață și explorați centrul pe jos.",
-            "en": "Park here for the morning and explore the center on foot."
+            "en": "Park here for the morning and explore the center on foot.",
+            "cs": "Zaparkujte zde na ráno a centrum prozkoumejte pěšky."
           }
         },
         {
@@ -773,7 +817,8 @@
             "de": "Masaryk-Platz",
             "hu": "Masaryk tér",
             "ro": "Piața Masaryk",
-            "en": "Masaryk Square"
+            "en": "Masaryk Square",
+            "cs": "Masarykovo náměstí"
           },
           "coords": [
             17.13,
@@ -789,7 +834,8 @@
             "de": "Das Herz der Stadt, umgeben von wichtigen Gebäuden.",
             "hu": "A város szíve, fontos épületekkel körülvéve.",
             "ro": "Inima orașului, înconjurată de clădiri importante.",
-            "en": "The heart of the city, surrounded by important buildings."
+            "en": "The heart of the city, surrounded by important buildings.",
+            "cs": "Srdce města, obklopené významnými budovami."
           }
         },
         {
@@ -797,7 +843,8 @@
             "de": "Laurentiuskirche & Rathaus",
             "hu": "Szent Lőrinc-templom és Városháza",
             "ro": "Biserica Sf. Laurențiu & Primăria",
-            "en": "St. Lawrence Church & Town Hall"
+            "en": "St. Lawrence Church & Town Hall",
+            "cs": "Kostel sv. Vavřince a radnice"
           },
           "coords": [
             17.1305,
@@ -813,7 +860,8 @@
             "de": "Diese beiden Wahrzeichen liegen nahe beieinander und sind leicht zu Fuß erreichbar.",
             "hu": "Ez a két nevezetesség közel van egymáshoz, és könnyen megközelíthető gyalog.",
             "ro": "Aceste două repere sunt apropiate și ușor de accesat pe jos.",
-            "en": "These two landmarks are close to each other and easily accessible on foot."
+            "en": "These two landmarks are close to each other and easily accessible on foot.",
+            "cs": "Tyto dva dominanty jsou blízko sebe a snadno dostupné pěšky."
           }
         },
         {
@@ -821,7 +869,8 @@
             "de": "Galerie der bildenden Künste",
             "hu": "Képzőművészeti Galéria",
             "ro": "Galeria de Arte Plastice",
-            "en": "Gallery of Fine Arts"
+            "en": "Gallery of Fine Arts",
+            "cs": "Galerie výtvarného umění"
           },
           "coords": [
             17.1288,
@@ -837,7 +886,8 @@
             "de": "Entdecken Sie die reiche Sammlung mährischer Kunst.",
             "hu": "Fedezze fel a gazdag morva művészeti gyűjteményt.",
             "ro": "Descoperiți bogata colecție de artă moravă.",
-            "en": "Discover the rich collection of Moravian art."
+            "en": "Discover the rich collection of Moravian art.",
+            "cs": "Objevte bohatou sbírku moravského umění."
           }
         },
         {
@@ -845,7 +895,8 @@
             "de": "Fahrt zum Zoo (Cluster B)",
             "hu": "Utazás az állatkerthez (B klaszter)",
             "ro": "Călătorie la Zoo (Cluster B)",
-            "en": "Drive to the Zoo (Cluster B)"
+            "en": "Drive to the Zoo (Cluster B)",
+            "cs": "Jízda do ZOO (shluk B)"
           },
           "coords": [
             17.0988,
@@ -861,7 +912,8 @@
             "de": "Zeit für einen Szenenwechsel. Parken Sie am Zoo für den Nachmittag.",
             "hu": "Ideje a helyszínváltoztatásnak. Parkoljon le az állatkertnél délutánra.",
             "ro": "Timpul pentru o schimbare de decor. Parcați la grădina zoologică pentru după-amiază.",
-            "en": "Time for a change of scenery. Park at the zoo for the afternoon."
+            "en": "Time for a change of scenery. Park at the zoo for the afternoon.",
+            "cs": "Čas na změnu prostředí. Zaparkujte u zoo na odpoledne."
           }
         },
         {
@@ -869,7 +921,8 @@
             "de": "Zoo Hodonín & Mittagessen",
             "hu": "Hodoníni Állatkert és ebéd",
             "ro": "Zoo Hodonín & Prânz",
-            "en": "Zoo Hodonín & Lunch"
+            "en": "Zoo Hodonín & Lunch",
+            "cs": "Zoo Hodonín a oběd"
           },
           "coords": [
             17.0995,
@@ -885,7 +938,8 @@
             "de": "Verbringen Sie den Nachmittag hier, essen Sie im Zoo-Restaurant zu Mittag.",
             "hu": "Töltse itt a délutánt, ebédeljen az állatkerti étteremben.",
             "ro": "Petreceți după-amiaza aici, luați prânzul la restaurantul grădinii zoologice.",
-            "en": "Spend the afternoon here, have lunch at the zoo restaurant."
+            "en": "Spend the afternoon here, have lunch at the zoo restaurant.",
+            "cs": "Strávte tady odpoledne, naobědvejte se v restauraci u zoo."
           }
         }
       ],
@@ -893,7 +947,8 @@
         "de": "Der Tag in Göding beginnt bequem mit dem Auto. Parken Sie im Zentrum (Cluster A) und entdecken Sie vormittags zu Fuß den Masaryk-Platz, die Laurentiuskirche und die Kunstgalerie. Gegen Mittag fahren Sie zum Cluster B. Der Nachmittag gehört ganz dem berühmten Zoo von Göding, wo Sie in aller Ruhe die Tiere beobachten und auch zu Mittag essen können. Diese Route kombiniert städtische Kultur mit entspannter Natur und minimiert den Parkstress.",
         "hu": "A gödingi nap kényelmesen, autóval kezdődik. Parkoljon a központban (A klaszter), és délelőtt gyalog fedezze fel a Masaryk teret, a Szent Lőrinc-templomot és a Művészeti Galériát. Dél körül autózzon át a B klaszterbe. A délután teljes egészében Göding híres állatkertjének szentelt, ahol nyugodtan megfigyelheti az állatokat és ebédelhet is. Ez az útvonal a városi kultúrát a pihentető természettel ötvözi, és minimalizálja a parkolási stresszt.",
         "ro": "Ziua în Hodonín începe confortabil cu mașina. Parcați în centru (Cluster A) și explorați pe jos dimineața Piața Masaryk, Biserica Sf. Laurențiu și Galeria de Artă. În jurul prânzului, conduceți spre Cluster B. După-amiaza este dedicată în întregime faimoasei grădini zoologice din Hodonín, unde puteți observa animalele în tihnă și puteți lua prânzul. Acest traseu combină cultura urbană cu natura relaxantă și minimizează stresul parcării.",
-        "en": "Your day in Hodonín starts comfortably by car. Park in the center (Cluster A) and explore Masaryk Square, St. Lawrence Church, and the Art Gallery on foot in the morning. Around noon, drive to Cluster B. The afternoon is entirely dedicated to Hodonín's famous zoo, where you can leisurely observe the animals and have lunch. This route combines urban culture with relaxing nature and minimizes parking stress."
+        "en": "Your day in Hodonín starts comfortably by car. Park in the center (Cluster A) and explore Masaryk Square, St. Lawrence Church, and the Art Gallery on foot in the morning. Around noon, drive to Cluster B. The afternoon is entirely dedicated to Hodonín's famous zoo, where you can leisurely observe the animals and have lunch. This route combines urban culture with relaxing nature and minimizes parking stress.",
+        "cs": "Váš den v Hodoníně začíná pohodlně autem. Zaparkujte v centru (shluk A) a dopoledne pěšky prozkoumejte Masarykovo náměstí, kostel sv. Vavřince a galerii. Kolem poledne se přesuňte autem do shluku B. Odpoledne je zasvěceno slavné hodonínské zoo, kde si v klidu prohlédnete zvířata a dáte oběd. Tato trasa kombinuje městskou kulturu s odpočinkem v přírodě a minimalizuje stres s parkováním."
       },
       "gastro_picks": {
         "de": [
@@ -1073,6 +1128,12 @@
           "Set the GPS before driving to the next cluster.",
           "The cluster strategy saves time and nerves when looking for a parking space.",
           "Bring change for parking meters."
+        ],
+        "cs": [
+          "Hledejte denní parkoviště, často vyjde levněji.",
+          "Nastavte GPS před jízdou do dalšího shluku.",
+          "Strategie se shluky šetří čas i nervy při hledání parkovacího místa.",
+          "Mějte drobné na parkovací automaty."
         ]
       }
     },
@@ -1089,7 +1150,8 @@
             "de": "Ankunft am Masaryk-Platz (Cluster A)",
             "hu": "Érkezés a Masaryk térre (A klaszter)",
             "ro": "Sosire în Piața Masaryk (Cluster A)",
-            "en": "Arrival at Masaryk Square (Cluster A)"
+            "en": "Arrival at Masaryk Square (Cluster A)",
+            "cs": "Příjezd na Masarykovo náměstí (shluk A)"
           },
           "coords": [
             17.13,
@@ -1105,7 +1167,8 @@
             "de": "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel.",
             "hu": "Vásároljon napijegyet a tömegközlekedéshez.",
             "ro": "Cumpărați un bilet de o zi pentru transportul public.",
-            "en": "Buy a day ticket for public transport."
+            "en": "Buy a day ticket for public transport.",
+            "cs": "Kupte si denní lístek na městskou dopravu."
           }
         },
         {
@@ -1113,7 +1176,8 @@
             "de": "Rathaus",
             "hu": "Városháza",
             "ro": "Primăria",
-            "en": "Town Hall"
+            "en": "Town Hall",
+            "cs": "Radnice"
           },
           "coords": [
             17.1295,
@@ -1129,7 +1193,8 @@
             "de": "Ein kurzer Spaziergang vom Platz aus.",
             "hu": "Rövid séta a tértől.",
             "ro": "O scurtă plimbare din piață.",
-            "en": "A short walk from the square."
+            "en": "A short walk from the square.",
+            "cs": "Krátká procházka od náměstí."
           }
         },
         {
@@ -1137,7 +1202,8 @@
             "de": "Masaryk-Museum",
             "hu": "Masaryk Múzeum",
             "ro": "Muzeul Masaryk",
-            "en": "Masaryk Museum"
+            "en": "Masaryk Museum",
+            "cs": "Masarykovo muzeum"
           },
           "coords": [
             17.1275,
@@ -1153,7 +1219,8 @@
             "de": "Erfahren Sie alles über den berühmtesten Sohn der Stadt.",
             "hu": "Tudjon meg mindent a város leghíresebb szülöttéről.",
             "ro": "Aflați totul despre cel mai faimos fiu al orașului.",
-            "en": "Learn all about the city's most famous son."
+            "en": "Learn all about the city's most famous son.",
+            "cs": "Dozvíte se vše o nejslavnějším rodákovi města."
           }
         },
         {
@@ -1161,7 +1228,8 @@
             "de": "Fahrt zum Heilbad (Cluster B)",
             "hu": "Utazás a gyógyfürdőhöz (B klaszter)",
             "ro": "Călătorie la Băile Termale (Cluster B)",
-            "en": "Trip to the Spa (Cluster B)"
+            "en": "Trip to the Spa (Cluster B)",
+            "cs": "Výlet do lázní (shluk B)"
           },
           "coords": [
             17.1125,
@@ -1177,7 +1245,8 @@
             "de": "Nehmen Sie den Bus, um bequem zum Spa-Bereich zu gelangen.",
             "hu": "Menjen busszal, hogy kényelmesen eljusson a fürdő területére.",
             "ro": "Luați autobuzul pentru a ajunge confortabil la zona spa.",
-            "en": "Take the bus to get to the spa area comfortably."
+            "en": "Take the bus to get to the spa area comfortably.",
+            "cs": "Autobus vás pohodlně dopraví do lázeňské oblasti."
           }
         },
         {
@@ -1185,7 +1254,8 @@
             "de": "Heilbad Hodonín",
             "hu": "Hodoníni Gyógyfürdő",
             "ro": "Băile Termale Hodonín",
-            "en": "Spa Hodonín"
+            "en": "Spa Hodonín",
+            "cs": "Lázně Hodonín"
           },
           "coords": [
             17.113,
@@ -1201,7 +1271,8 @@
             "de": "Ideal für eine ausgedehnte Mittagspause inklusive Entspannung.",
             "hu": "Ideális egy hosszabb ebédszünethez, pihenéssel egybekötve.",
             "ro": "Ideal pentru o pauză de prânz prelungită, inclusiv relaxare.",
-            "en": "Ideal for an extended lunch break, including relaxation."
+            "en": "Ideal for an extended lunch break, including relaxation.",
+            "cs": "Ideální pro prodlouženou obědovou pauzu včetně relaxace."
           }
         },
         {
@@ -1209,7 +1280,8 @@
             "de": "Zoo Hodonín",
             "hu": "Hodoníni Állatkert",
             "ro": "Zoo Hodonín",
-            "en": "Zoo Hodonín"
+            "en": "Zoo Hodonín",
+            "cs": "Zoo Hodonín"
           },
           "coords": [
             17.0988,
@@ -1225,7 +1297,8 @@
             "de": "Vom Spa aus ist es nur ein kurzer Spaziergang zum Zoo.",
             "hu": "A fürdőtől csak egy rövid séta az állatkert.",
             "ro": "De la spa este doar o scurtă plimbare până la grădina zoologică.",
-            "en": "It's just a short walk from the spa to the zoo."
+            "en": "It's just a short walk from the spa to the zoo.",
+            "cs": "Je to jen krátká procházka z lázní do zoo."
           }
         }
       ],
@@ -1233,7 +1306,8 @@
         "de": "Mit den öffentlichen Verkehrsmitteln erkunden Sie Göding entspannt und effizient. Starten Sie am Masaryk-Platz (Cluster A) und besichtigen Sie die Highlights des Stadtzentrums zu Fuß. Ein Bus bringt Sie mittags bequem zum zweiten Cluster, der ganz im Zeichen von Wellness und Natur steht. Gönnen Sie sich eine lange Pause im Heilbad, bevor Sie den Nachmittag bei den Tieren im nahen Zoo verbringen. Diese Tour ist ideal, um ohne Auto das Beste aus Kultur und Erholung zu verbinden.",
         "hu": "A tömegközlekedéssel Gödinget pihentetően és hatékonyan fedezheti fel. Kezdje a Masaryk téren (A klaszter), és gyalog tekintse meg a városközpont nevezetességeit. Délben egy busz kényelmesen elviszi a második klaszterhez, amely a wellness és a természet jegyében telik. Engedjen meg magának egy hosszú szünetet a gyógyfürdőben, mielőtt a délutánt az állatok között tölti a közeli állatkertben. Ez a túra ideális arra, hogy autó nélkül összekapcsolja a kultúra és a pihenés legjavát.",
         "ro": "Cu transportul public, explorați Hodonín într-un mod relaxat și eficient. Începeți din Piața Masaryk (Cluster A) și vizitați pe jos atracțiile din centrul orașului. La prânz, un autobuz vă va duce confortabil la al doilea cluster, dedicat wellness-ului și naturii. Acordați-vă o pauză lungă la băile termale înainte de a petrece după-amiaza printre animalele de la grădina zoologică din apropiere. Acest tur este ideal pentru a combina ce e mai bun din cultură și relaxare fără mașină.",
-        "en": "Explore Hodonín in a relaxed and efficient way using public transport. Start at Masaryk Square (Cluster A) and visit the city center highlights on foot. A bus will comfortably take you to the second cluster at lunchtime, which is dedicated to wellness and nature. Treat yourself to a long break at the spa before spending the afternoon with the animals at the nearby zoo. This tour is ideal for combining the best of culture and relaxation without a car."
+        "en": "Explore Hodonín in a relaxed and efficient way using public transport. Start at Masaryk Square (Cluster A) and visit the city center highlights on foot. A bus will comfortably take you to the second cluster at lunchtime, which is dedicated to wellness and nature. Treat yourself to a long break at the spa before spending the afternoon with the animals at the nearby zoo. This tour is ideal for combining the best of culture and relaxation without a car.",
+        "cs": "Prozkoumejte Hodonín pohodlně a efektivně s MHD. Začněte na Masarykově náměstí (shluk A) a dopoledne si centrum projděte pěšky. Autobus vás kolem poledne pohodlně převeze do druhého shluku, který je věnovaný wellness a přírodě. Dopřejte si dlouhou přestávku v lázních, než odpoledne strávíte mezi zvířaty v nedaleké zoo. Tato trasa je ideální pro spojení kultury a relaxace bez auta."
       },
       "gastro_picks": {
         "de": [
@@ -1413,6 +1487,12 @@
           "A day ticket is usually the best option.",
           "Pay attention to the last bus connection back to the center.",
           "Allow some buffer time for possible delays."
+        ],
+        "cs": [
+          "Stáhněte si aplikaci s jízdními řády nebo vyfoťte odjezd na zastávce.",
+          "Denní jízdenka je obvykle nejlepší volba.",
+          "Dávejte pozor na poslední spoj zpět do centra.",
+          "Nechte si časovou rezervu pro případné zpoždění."
         ]
       }
     }

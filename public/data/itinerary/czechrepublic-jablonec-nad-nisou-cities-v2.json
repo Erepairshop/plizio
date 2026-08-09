@@ -21,7 +21,8 @@
             "de": "Neues Rathaus",
             "hu": "Új Városháza",
             "ro": "Primăria Nouă",
-            "en": "New Town Hall"
+            "en": "New Town Hall",
+            "cs": "Nová radnice"
           },
           "coords": [
             15.169,
@@ -37,7 +38,8 @@
             "de": "Bestaunen Sie die funktionalistische Architektur und den Paternosteraufzug.",
             "hu": "Csodálja meg a funkcionalista építészetet és a páternoszter liftet!",
             "ro": "Admirați arhitectura funcționalistă și liftul paternoster.",
-            "en": "Admire the functionalist architecture and the paternoster lift."
+            "en": "Admire the functionalist architecture and the paternoster lift.",
+            "cs": "Obdivujte funkcionalistickou architekturu a paternosterový výtah."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Altes Rathaus",
             "hu": "Régi Városháza",
             "ro": "Primăria Veche",
-            "en": "Old Town Hall"
+            "en": "Old Town Hall",
+            "cs": "Stará radnice"
           },
           "coords": [
             15.171,
@@ -61,7 +64,8 @@
             "de": "Heute eine Bibliothek, aber immer noch ein schönes Beispiel für Jugendstil.",
             "hu": "Ma könyvtárként működik, de még mindig gyönyörű szecessziós példa.",
             "ro": "Astăzi este o bibliotecă, dar încă un exemplu frumos de Art Nouveau.",
-            "en": "Today it's a library, but still a beautiful example of Art Nouveau."
+            "en": "Today it's a library, but still a beautiful example of Art Nouveau.",
+            "cs": "Dnes slouží jako knihovna, ale stále je krásným příkladem secese."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Museum für Glas und Schmuck",
             "hu": "Üveg- és Ékszermúzeum",
             "ro": "Muzeul Sticlei și Bijuteriilor",
-            "en": "Museum of Glass and Jewellery"
+            "en": "Museum of Glass and Jewellery",
+            "cs": "Muzeum skla a bižuterie"
           },
           "coords": [
             15.174,
@@ -85,7 +90,8 @@
             "de": "Planen Sie genug Zeit für die beeindruckende Sammlung böhmischen Glases ein.",
             "hu": "Szánjon elég időt a cseh üveg lenyűgöző gyűjteményére.",
             "ro": "Planificați suficient timp pentru impresionanta colecție de sticlă de Boemia.",
-            "en": "Plan enough time for the impressive collection of Bohemian glass."
+            "en": "Plan enough time for the impressive collection of Bohemian glass.",
+            "cs": "Plánujte dostatek času na působivou sbírku českého skla."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Herz-Jesu-Kirche",
             "hu": "Jézus Szíve-templom",
             "ro": "Biserica Inima lui Isus",
-            "en": "Church of the Sacred Heart"
+            "en": "Church of the Sacred Heart",
+            "cs": "Kostel Nejsvětějšího Srdce"
           },
           "coords": [
             15.166,
@@ -109,7 +116,8 @@
             "de": "Ein Meisterwerk der sakralen Architektur des frühen 20. Jahrhunderts.",
             "hu": "A 20. század eleji szakrális építészet mesterműve.",
             "ro": "O capodoperă a arhitecturii sacre de la începutul secolului al XX-lea.",
-            "en": "A masterpiece of early 20th-century sacred architecture."
+            "en": "A masterpiece of early 20th-century sacred architecture.",
+            "cs": "Mistrovské dílo sakrální architektury počátku 20. století."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "St.-Anna-Kirche",
             "hu": "Szent Anna-templom",
             "ro": "Biserica Sfânta Ana",
-            "en": "St. Ann's Church"
+            "en": "St. Ann's Church",
+            "cs": "Kostel sv. Anny"
           },
           "coords": [
             15.172,
@@ -133,7 +142,8 @@
             "de": "Die älteste Steinkirche der Stadt, ein barockes Juwel.",
             "hu": "A város legrégebbi kőtemploma, egy barokk ékszerdoboz.",
             "ro": "Cea mai veche biserică de piatră din oraș, o bijuterie barocă.",
-            "en": "The oldest stone church in the city, a baroque jewel."
+            "en": "The oldest stone church in the city, a baroque jewel.",
+            "cs": "Nejstarší kamenný kostel ve městě, barokní klenot."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Talsperre Mšeno",
             "hu": "Mšeno-víztározó",
             "ro": "Barajul Mšeno",
-            "en": "Mšeno Dam"
+            "en": "Mšeno Dam",
+            "cs": "Přehrada Mšeno"
           },
           "coords": [
             15.178,
@@ -157,7 +168,8 @@
             "de": "Perfekt für einen entspannten Spaziergang. Im Sommer kann man hier auch baden.",
             "hu": "Tökéletes egy pihentető sétához. Nyáron úszni is lehet.",
             "ro": "Perfect pentru o plimbare relaxantă. Vara, puteți înota aici.",
-            "en": "Perfect for a relaxing walk. You can also swim here in summer."
+            "en": "Perfect for a relaxing walk. You can also swim here in summer.",
+            "cs": "Ideální pro relaxační procházku. V létě se tu dá i plavat."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Aussichtsturm Petřín",
             "hu": "Petřín-kilátó",
             "ro": "Turnul de observație Petřín",
-            "en": "Petřín Lookout Tower"
+            "en": "Petřín Lookout Tower",
+            "cs": "Rozhledna Petřín"
           },
           "coords": [
             15.158,
@@ -181,7 +194,8 @@
             "de": "Der Aufstieg lohnt sich für den Panoramablick über die Stadt und das Isergebirge.",
             "hu": "Megéri a fáradságot felmászni a városra és a Jizera-hegységre nyíló panorámáért.",
             "ro": "Urcarea merită pentru vederea panoramică asupra orașului și a Munților Jizera.",
-            "en": "The climb is worth it for the panoramic view over the city and the Jizera Mountains."
+            "en": "The climb is worth it for the panoramic view over the city and the Jizera Mountains.",
+            "cs": "Výstup se vyplatí pro panoramatický výhled na město a Jizerské hory."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Ihr Spaziergang beginnt am funktionalistischen Neuen Rathaus und führt Sie durch das historische Herz von Jablonec. Am Vormittag erkunden Sie das weltberühmte Museum für Glas und Schmuck, das die Seele der Stadt offenbart. Nach dem Mittagessen entdecken Sie die sakralen Schätze der Stadt, wie die Herz-Jesu-Kirche, bevor Sie am Nachmittag die Natur an der Mšeno-Talsperre genießen. Den Abschluss bildet der Aufstieg zum Petřín-Aussichtsturm, der Sie mit einer atemberaubenden Aussicht belohnt und einen unvergesslichen Tag abrundet.",
         "hu": "Sétája a funkcionalista Új Városházánál kezdődik, és Jablonec történelmi szívén vezet keresztül. Délelőtt fedezze fel a világhírű Üveg- és Ékszermúzeumot, amely a város lelkét tárja fel. Ebéd után ismerje meg a város szakrális kincseit, mint a Jézus Szíve-templomot, majd délután élvezze a természetet a Mšeno-víztározónál. A napot a Petřín-kilátó megmászása zárja, amely lélegzetelállító kilátással jutalmazza, és felejthetetlenné teszi a napot.",
         "ro": "Plimbarea dvs. începe la Primăria Nouă funcționalistă și vă poartă prin inima istorică a orașului Jablonec. Dimineața, explorați renumitul Muzeu al Sticlei și Bijuteriilor, care dezvăluie sufletul orașului. După prânz, descoperiți comorile sacre ale orașului, cum ar fi Biserica Inima lui Isus, înainte de a vă bucura de natură la barajul Mšeno după-amiaza. Ziua se încheie cu urcarea la Turnul de Observație Petřín, care vă recompensează cu o priveliște uluitoare și completează o zi de neuitat.",
-        "en": "Your walk begins at the functionalist New Town Hall and takes you through the historical heart of Jablonec. In the morning, you'll explore the world-famous Museum of Glass and Jewellery, revealing the city's soul. After lunch, discover the city's sacred treasures, like the Church of the Sacred Heart, before enjoying nature at the Mšeno Dam in the afternoon. The day concludes with a climb up the Petřín Lookout Tower, rewarding you with a breathtaking view and rounding off an unforgettable day."
+        "en": "Your walk begins at the functionalist New Town Hall and takes you through the historical heart of Jablonec. In the morning, you'll explore the world-famous Museum of Glass and Jewellery, revealing the city's soul. After lunch, discover the city's sacred treasures, like the Church of the Sacred Heart, before enjoying nature at the Mšeno Dam in the afternoon. The day concludes with a climb up the Petřín Lookout Tower, rewarding you with a breathtaking view and rounding off an unforgettable day.",
+        "cs": "Vaše procházka začíná u funkcionalistické Nové radnice a vede historickým srdcem Jablonce. Ráno prozkoumáte světoznámé Muzeum skla a bižuterie, které odhalí duši města. Po obědě objevte sakrální poklady, jako Kostel Nejsvětějšího Srdce, než si odpoledne užijete přírodu u přehrady Mšeno. Den zakončíte výstupem na rozhlednu Petřín, která vás odmění úchvatným výhledem a uzavře nezapomenutelný den."
       },
       "gastro_picks": {
         "de": [
@@ -385,6 +400,12 @@
           "Most museums and shops are closed on Mondays.",
           "Bring a reusable water bottle; there are several fountains in the city.",
           "Some smaller shops may not accept credit cards, so have some cash handy."
+        ],
+        "cs": [
+          "Obujte pohodlné boty, centrum má několik kopců.",
+          "Většina muzeí a obchodů má v pondělí zavřeno.",
+          "Vezměte s sebou znovupoužitelnou láhev na vodu; ve městě je několik fontánek.",
+          "Některé menší obchody nemusí přijímat karty, mějte u sebe hotovost."
         ]
       },
       "variants": {
@@ -393,7 +414,8 @@
             "de": "Regnerischer Morgen an den Rathäusern. Mittags bietet das Glasmuseum perfekten Schutz vor den Tropfen. Nachmittags erkunden wir die Kirchen im Trockenen. Abends wirkt die Mšeno-Talsperre im Nebel besonders mystisch und ruhig.",
             "hu": "Esős reggel a városházák környékén. Délben az Üvegmuzeum nyújt menedéket a zápor elől. Délután a templomok belső tereit fedezzük fel. Este a Mšeno-gát ködös látványa zárja a napot, esernyő alatt sétálva.",
             "ro": "Dimineață ploioasă la primării. La prânz, Muzeul Sticlei oferă refugiul perfect. După-amiaza explorăm bisericile la adăpost. Seara, barajul Mšeno arată mistic prin ceață, o plimbare liniștită sub umbrelă.",
-            "en": "Rainy morning by the town halls. At noon, the Glass Museum provides the perfect escape from the rain. Afternoon is spent inside the serene churches. Evening concludes with a misty, atmospheric walk by the Mšeno Dam."
+            "en": "Rainy morning by the town halls. At noon, the Glass Museum provides the perfect escape from the rain. Afternoon is spent inside the serene churches. Evening concludes with a misty, atmospheric walk by the Mšeno Dam.",
+            "cs": "Deštivé ráno u radnic. O poledni nabízí Muzeum skla dokonalý úkryt před deštěm. Odpoledne strávíte uvnitř klidných kostelů. Večer zakončíte mlhavou, atmosférickou procházkou u přehrady Mšeno."
           },
           "stops": [
             {
@@ -402,7 +424,8 @@
                 "de": "Unter den Arkaden des Platzes Schutz suchen.",
                 "hu": "Használja a tér árkádjait az eső elleni védelemhez.",
                 "ro": "Folosiți arcadele pieței pentru a vă proteja de ploaie.",
-                "en": "Use the square's arcades for a quick dry spot."
+                "en": "Use the square's arcades for a quick dry spot.",
+                "cs": "Využijte arkády na náměstí jako rychlé místo k usušení."
               }
             },
             {
@@ -411,7 +434,8 @@
                 "de": "Kurzer Sprint zum Eingang, innen ist es trocken.",
                 "hu": "Gyors sprint a bejáratig, bent száraz a könyvtár.",
                 "ro": "Sprint scurt până la intrare, interiorul este uscat.",
-                "en": "Quick sprint to the entrance, it is dry inside."
+                "en": "Quick sprint to the entrance, it is dry inside.",
+                "cs": "Rychlý sprint ke vchodu, uvnitř je sucho."
               }
             },
             {
@@ -420,7 +444,8 @@
                 "de": "Idealer Ort für lange Regenschauer.",
                 "hu": "Ideális helyszín hosszú záporok idejére.",
                 "ro": "Locul ideal pentru a aștepta trecerea ploii.",
-                "en": "The ultimate spot to wait out a heavy downpour."
+                "en": "The ultimate spot to wait out a heavy downpour.",
+                "cs": "Skvělé místo, kde vydržet silnou přeháňku."
               }
             },
             {
@@ -429,7 +454,8 @@
                 "de": "Die Ziegelmauer bietet außen wenig Schutz, schnell rein.",
                 "hu": "A téglafal kívül kevés védelmet ad, menjen beljebb.",
                 "ro": "Zidul de cărămidă oferă puțin adăpost, intrați rapid.",
-                "en": "The brick exterior offers little cover, head inside."
+                "en": "The brick exterior offers little cover, head inside.",
+                "cs": "Cihlový exteriér nabízí málo úkrytu, raději vstupte dovnitř."
               }
             },
             {
@@ -438,7 +464,8 @@
                 "de": "Ruhiger, trockener Rückzugsort im Stadtzentrum.",
                 "hu": "Csendes, száraz menedék a városközpontban.",
                 "ro": "Un refugiu liniștit și uscat în centrul orașului.",
-                "en": "A quiet and dry retreat in the city center."
+                "en": "A quiet and dry retreat in the city center.",
+                "cs": "Tiché a suché útočiště v centru města."
               }
             },
             {
@@ -447,7 +474,8 @@
                 "de": "Fester Uferweg, aber Pfützen möglich. Schirm fest halten.",
                 "hu": "Szilárd út, de tócsák lehetnek. Tartsa erősen az ernyőt.",
                 "ro": "Drum stabil, dar sunt posibile bălți. Țineți umbrela bine.",
-                "en": "Solid path, but watch for puddles. Hold your umbrella tight."
+                "en": "Solid path, but watch for puddles. Hold your umbrella tight.",
+                "cs": "Cesta je pevná, ale dávejte pozor na kaluže. Držte pevně deštník."
               }
             },
             {
@@ -456,7 +484,8 @@
                 "de": "Bei tiefen Wolken ist die Fernsicht eingeschränkt.",
                 "hu": "Alacsony felhőzetnél a kilátás korlátozott lehet.",
                 "ro": "Vizibilitatea poate fi redusă dacă norii sunt joși.",
-                "en": "Visibility may be limited if the clouds are low."
+                "en": "Visibility may be limited if the clouds are low.",
+                "cs": "Viditelnost může být omezená při nízké oblačnosti."
               }
             }
           ],
@@ -484,6 +513,12 @@
               "The Glass Museum is the best indoor backup for rain.",
               "Paths near the dam are paved and stay mud-free.",
               "Wear waterproof shoes for the cobblestone streets."
+            ],
+            "cs": [
+              "Doporučujeme pevný deštník kvůli horským větrům.",
+              "Muzeum skla je nejlepší vnitřní náhradou za déšť.",
+              "Cesty u přehrady jsou dlážděné a zůstávají bez bláta.",
+              "Na dlážděných ulicích si vezměte voděodolnou obuv."
             ]
           }
         },
@@ -492,7 +527,8 @@
             "de": "Verschneiter Morgen am Neuen Rathaus. Mittags wärmen wir uns im prächtigen Glasmuseum auf. Nachmittags glitzern die Kirchen im Frost. Der Tag endet an der gefrorenen Talsperre vor dem frühen Sonnenuntergang.",
             "hu": "Havas reggel az Új Városházánál. Délben a pompás Üvegmuzeumban melegszünk fel. Délután a templomok fagyos fényben tündökölnek. A nap a befagyott gátnál ér véget a korai naplemente előtt.",
             "ro": "Dimineață cu zăpadă la Noua Primărie. La prânz ne încălzim în splendidul Muzeu al Sticlei. După-amiaza, bisericile sclipesc în ger. Ziua se încheie la barajul înghețat, înainte de apusul timpuriu.",
-            "en": "Snowy morning at the New Town Hall. At noon, we warm up in the magnificent Glass Museum. Afternoon sees the churches glittering in the frost. The day ends at the frozen dam before the early sunset."
+            "en": "Snowy morning at the New Town Hall. At noon, we warm up in the magnificent Glass Museum. Afternoon sees the churches glittering in the frost. The day ends at the frozen dam before the early sunset.",
+            "cs": "Sněžné ráno u Nové radnice. O poledni se zahřejeme v nádherném Muzeu skla. Odpoledne kostely v mrazu září. Den končí u zmrzlé přehrady před brzkým západem slunce."
           },
           "stops": [
             {
@@ -501,7 +537,8 @@
                 "de": "Vorsicht auf den glatten Stufen vor dem Eingang.",
                 "hu": "Vigyázzon a csúszós lépcsőkre a bejárat előtt.",
                 "ro": "Atenție la treptele alunecoase de la intrare.",
-                "en": "Watch out for slippery steps at the entrance."
+                "en": "Watch out for slippery steps at the entrance.",
+                "cs": "Dávejte pozor na kluzké schody u vchodu."
               }
             },
             {
@@ -510,7 +547,8 @@
                 "de": "Drinnen ist es gemütlich geheizt, ideal für eine Pause.",
                 "hu": "Bent kellemes fűtés várja, ideális egy rövid szünetre.",
                 "ro": "Interiorul este încălzit, ideal pentru o pauză scurtă.",
-                "en": "It is warmly heated inside, perfect for a short break."
+                "en": "It is warmly heated inside, perfect for a short break.",
+                "cs": "Uvnitř je příjemně vytopeno, ideální pro krátkou pauzu."
               }
             },
             {
@@ -519,7 +557,8 @@
                 "de": "Garderobe nutzen, um die dicke Jacke abzugeben.",
                 "hu": "Használja a ruhatárat a vastag kabátokhoz.",
                 "ro": "Folosiți garderoba pentru haine groase.",
-                "en": "Use the cloakroom to leave your heavy winter gear."
+                "en": "Use the cloakroom to leave your heavy winter gear.",
+                "cs": "Využijte šatnu pro odložení těžkého zimního vybavení."
               }
             },
             {
@@ -528,7 +567,8 @@
                 "de": "In der Kirche ist es oft kühler als im Museum.",
                 "hu": "A templomban gyakran hűvösebb van, mint a múzeumban.",
                 "ro": "În biserică este adesea mai rece decât în muzeu.",
-                "en": "The church interior is often chillier than the museum."
+                "en": "The church interior is often chillier than the museum.",
+                "cs": "Interiér kostela je často chladnější než muzeum."
               }
             },
             {
@@ -537,7 +577,8 @@
                 "de": "Kleiner Weihnachtsmarkt oft direkt davor im Advent.",
                 "hu": "Advent idején gyakran kis karácsonyi vásár van előtte.",
                 "ro": "În timpul Adventului, adesea e un mic târg de Crăciun.",
-                "en": "Small Christmas market often held nearby during Advent."
+                "en": "Small Christmas market often held nearby during Advent.",
+                "cs": "Během adventu se poblíž často koná malý vánoční trh."
               }
             },
             {
@@ -546,7 +587,8 @@
                 "de": "Eis auf der Talsperre niemals ohne Freigabe betreten.",
                 "hu": "Soha ne menjen a jégre hivatalos engedély nélkül.",
                 "ro": "Nu intrați niciodată pe gheață fără permisiune oficială.",
-                "en": "Never step on the ice without official permission."
+                "en": "Never step on the ice without official permission.",
+                "cs": "Na led nikdy nevstupujte bez oficiálního povolení."
               }
             },
             {
@@ -555,7 +597,8 @@
                 "de": "Aufstieg zum Turm kann bei Vereisung gesperrt sein.",
                 "hu": "Jegesedés esetén a toronyba vezető út lezárható.",
                 "ro": "Accesul la turn poate fi închis în caz de îngheț.",
-                "en": "Access to the tower may be closed during heavy icing."
+                "en": "Access to the tower may be closed during heavy icing.",
+                "cs": "Přístup na rozhlednu může být při silném námraze uzavřen."
               }
             }
           ],
@@ -583,6 +626,12 @@
               "The sun sets around 16:00 in December.",
               "Jablonec is famous for heavy snow; good treads are a must.",
               "Enjoy hot tea in the cafés around the Lower Market."
+            ],
+            "cs": [
+              "Na výstup na Petřín jsou nezbytné teplé rukavice.",
+              "V prosinci zapadá slunce kolem 16:00.",
+              "Jablonec je proslulý hustým sněžením; dobré boty s kvalitním vzorkem jsou nezbytné.",
+              "Užijte si horký čaj v kavárnách kolem Dolního tržiště."
             ]
           }
         }
@@ -601,7 +650,8 @@
             "de": "Neues Rathaus",
             "hu": "Új Városháza",
             "ro": "Primăria Nouă",
-            "en": "New Town Hall"
+            "en": "New Town Hall",
+            "cs": "Nová radnice"
           },
           "coords": [
             15.169,
@@ -617,7 +667,8 @@
             "de": "Schließen Sie Ihr Fahrrad sicher ab, während Sie das beeindruckende Gebäude erkunden.",
             "hu": "Zárja le biztonságosan a kerékpárját, amíg felfedezi a lenyűgöző épületet.",
             "ro": "Legați-vă bicicleta în siguranță în timp ce explorați clădirea impresionantă.",
-            "en": "Lock your bike securely while you explore the impressive building."
+            "en": "Lock your bike securely while you explore the impressive building.",
+            "cs": "Uzamkněte kolo bezpečně, než prozkoumáte impozantní budovu."
           }
         },
         {
@@ -625,7 +676,8 @@
             "de": "Museum für Glas und Schmuck",
             "hu": "Üveg- és Ékszermúzeum",
             "ro": "Muzeul Sticlei și Bijuteriilor",
-            "en": "Museum of Glass and Jewellery"
+            "en": "Museum of Glass and Jewellery",
+            "cs": "Muzeum skla a šperků"
           },
           "coords": [
             15.174,
@@ -641,7 +693,8 @@
             "de": "Ein Muss für jeden Besucher, um die Handwerkskunst der Region zu verstehen.",
             "hu": "Minden látogatónak kötelező, hogy megértse a régió kézművességét.",
             "ro": "O vizită obligatorie pentru orice vizitator pentru a înțelege meșteșugul regiunii.",
-            "en": "A must-see for any visitor to understand the region's craftsmanship."
+            "en": "A must-see for any visitor to understand the region's craftsmanship.",
+            "cs": "Nutnost pro každého návštěvníka, který chce pochopit řemeslnou tradici regionu."
           }
         },
         {
@@ -649,7 +702,8 @@
             "de": "Stadttheater Jablonec",
             "hu": "Jabloneci Városi Színház",
             "ro": "Teatrul Municipal Jablonec",
-            "en": "Jablonec Municipal Theatre"
+            "en": "Jablonec Municipal Theatre",
+            "cs": "Městské divadlo Jablonec"
           },
           "coords": [
             15.17,
@@ -665,7 +719,8 @@
             "de": "Bewundern Sie die elegante Jugendstil-Fassade dieses Kulturzentrums.",
             "hu": "Csodálja meg ennek a kulturális központnak az elegáns szecessziós homlokzatát.",
             "ro": "Admirați fațada elegantă Art Nouveau a acestui centru cultural.",
-            "en": "Admire the elegant Art Nouveau facade of this cultural center."
+            "en": "Admire the elegant Art Nouveau facade of this cultural center.",
+            "cs": "Obdivujte elegantní secesní průčelí tohoto kulturního centra."
           }
         },
         {
@@ -673,7 +728,8 @@
             "de": "Talsperre Mšeno",
             "hu": "Mšeno-víztározó",
             "ro": "Barajul Mšeno",
-            "en": "Mšeno Dam"
+            "en": "Mšeno Dam",
+            "cs": "Přehrada Mšeno"
           },
           "coords": [
             15.178,
@@ -689,7 +745,8 @@
             "de": "Ideal für eine Mittagspause. Fahren Sie eine Runde um den See.",
             "hu": "Ideális egy ebédszünetre. Tegyen egy kört a tó körül.",
             "ro": "Ideal pentru o pauză de prânz. Faceți o tură în jurul lacului.",
-            "en": "Ideal for a lunch break. Ride a lap around the lake."
+            "en": "Ideal for a lunch break. Ride a lap around the lake.",
+            "cs": "Ideální místo na oběd. Projeďte si jedno kolo kolem jezera."
           }
         },
         {
@@ -697,7 +754,8 @@
             "de": "Aussichtsturm Petřín",
             "hu": "Petřín-kilátó",
             "ro": "Turnul de observație Petřín",
-            "en": "Petřín Lookout Tower"
+            "en": "Petřín Lookout Tower",
+            "cs": "Petřínská rozhledna"
           },
           "coords": [
             15.158,
@@ -713,7 +771,8 @@
             "de": "Der Anstieg ist anspruchsvoll, aber die Aussicht ist die Belohnung.",
             "hu": "Az emelkedő kihívást jelent, de a kilátás a jutalom.",
             "ro": "Urcușul este solicitant, dar priveliștea este recompensa.",
-            "en": "The climb is challenging, but the view is the reward."
+            "en": "The climb is challenging, but the view is the reward.",
+            "cs": "Výstup je náročný, ale výhled je odměnou."
           }
         },
         {
@@ -721,7 +780,8 @@
             "de": "Herz-Jesu-Kirche",
             "hu": "Jézus Szíve-templom",
             "ro": "Biserica Inima lui Isus",
-            "en": "Church of the Sacred Heart"
+            "en": "Church of the Sacred Heart",
+            "cs": "Kostel Nejsvětějšího Srdce"
           },
           "coords": [
             15.166,
@@ -737,7 +797,8 @@
             "de": "Ein letzter Halt, um die moderne Sakralarchitektur zu bewundern.",
             "hu": "Egy utolsó megálló, hogy megcsodálja a modern szakrális építészetet.",
             "ro": "O ultimă oprire pentru a admira arhitectura sacră modernă.",
-            "en": "A final stop to admire the modern sacred architecture."
+            "en": "A final stop to admire the modern sacred architecture.",
+            "cs": "Poslední zastávka k obdivu moderní sakrální architektury."
           }
         }
       ],
@@ -745,7 +806,8 @@
         "de": "Starten Sie Ihre Radtour am Neuen Rathaus und radeln Sie zum Glasmuseum. Nach dieser kulturellen Vertiefung führt Sie Ihre Route zur Talsperre Mšeno, dem perfekten Ort für eine ausgedehnte Mittagspause und eine Runde um den See. Am Nachmittag nehmen Sie die Herausforderung an und erklimmen den Petřín-Hügel zum Aussichtsturm. Belohnt mit einer fantastischen Aussicht, rollen Sie zurück ins Zentrum, um den Tag mit einem Besuch der beeindruckenden Herz-Jesu-Kirche abzuschließen.",
         "hu": "Kezdje a kerékpártúrát az Új Városházánál, és tekerjen az Üvegmúzeumhoz. A kulturális elmélyülés után az útvonal a Mšeno-víztározóhoz vezet, amely tökéletes hely egy kiadós ebédszünetre és egy tó körüli tekerésre. Délután vállalja a kihívást, és mássza meg a Petřín-hegyet a kilátóhoz. Fantasztikus kilátással megjutalmazva guruljon vissza a központba, hogy a napot a lenyűgöző Jézus Szíve-templom meglátogatásával zárja.",
         "ro": "Începeți turul cu bicicleta de la Primăria Nouă și pedalați spre Muzeul Sticlei. După această imersiune culturală, traseul vă duce la barajul Mšeno, locul perfect pentru o pauză de prânz prelungită și o tură în jurul lacului. După-amiaza, acceptați provocarea și urcați pe dealul Petřín până la turnul de observație. Recompensat cu o priveliște fantastică, coborâți înapoi în centru pentru a încheia ziua cu o vizită la impresionanta Biserică a Inimii lui Isus.",
-        "en": "Start your bike tour at the New Town Hall and cycle to the Glass Museum. After this cultural immersion, your route takes you to the Mšeno Dam, the perfect spot for an extended lunch break and a lap around the lake. In the afternoon, take on the challenge and climb Petřín Hill to the lookout tower. Rewarded with a fantastic view, you'll roll back to the center to end the day with a visit to the impressive Church of the Sacred Heart."
+        "en": "Start your bike tour at the New Town Hall and cycle to the Glass Museum. After this cultural immersion, your route takes you to the Mšeno Dam, the perfect spot for an extended lunch break and a lap around the lake. In the afternoon, take on the challenge and climb Petřín Hill to the lookout tower. Rewarded with a fantastic view, you'll roll back to the center to end the day with a visit to the impressive Church of the Sacred Heart.",
+        "cs": "Startujte cyklovýlet u Nové radnice a vydejte se ke Muzeu skla. Po tomto kulturním zážitku vede trasa k přehradě Mšeno, ideálnímu místu na delší oběd a projížďku kolem jezera. Odpoledne přijměte výzvu a vyšlapejte na Petřín k rozhledně. Odsud s fantastickým výhledem se sveze zpět do centra a zakončíte den návštěvou impozantního Kostela Nejsvětějšího Srdce."
       },
       "gastro_picks": {
         "de": [
@@ -941,6 +1003,12 @@
           "Check your tire pressure before you start.",
           "Use the marked cycle paths, especially outside the center.",
           "A helmet is highly recommended."
+        ],
+        "cs": [
+          "Jablonec je kopcovitý; elektrokolo může být dobrou volbou.",
+          "Před startem zkontrolujte tlak v pneumatikách.",
+          "Používejte značené cyklostezky, zvlášť mimo centrum.",
+          "Helma je vysoce doporučená."
         ]
       },
       "variants": {
@@ -949,7 +1017,8 @@
             "de": "Sportliche Fahrt durch den Regen. Vormittags gleiten wir über nasse Straßen zum Museum. Mittags Pause im Trockenen. Nachmittags ist die Runde um die Talsperre erfrischend, aber vorsichtig in den Kurven.",
             "hu": "Sportos tekerés az esőben. Délelőtt vizes utakon gurulunk a múzeumhoz. Délben pihenő a szárazon. Délután a gát körüli kör frissítő, de vigyázzon a kanyarokban.",
             "ro": "Cursă sportivă prin ploaie. Dimineața pedalăm pe străzi ude spre muzeu. La prânz facem o pauză la uscat. După-amiaza turul barajului este revigorant, dar atenție la curbe.",
-            "en": "A sporty ride through the rain. Morning involves gliding over wet streets to the museum. Noon break stays dry indoors. Afternoon at the dam is refreshing but requires caution on turns."
+            "en": "A sporty ride through the rain. Morning involves gliding over wet streets to the museum. Noon break stays dry indoors. Afternoon at the dam is refreshing but requires caution on turns.",
+            "cs": "Sportovní jízda v dešti. Ráno klouzání po mokrých ulicích k muzeu. Polední přestávka je v suchu uvnitř. Odpoledne u přehrady svěží, ale zatáčky vyžadují opatrnost."
           },
           "stops": [
             {
@@ -958,7 +1027,8 @@
                 "de": "Achtung, das Kopfsteinpflaster ist bei Nässe extrem glatt.",
                 "hu": "Vigyázat, a macskaköves út nedvesen rendkívül csúszós.",
                 "ro": "Atenție, pavajul este extrem de alunecos pe ploaie.",
-                "en": "Caution, the cobblestones are extremely slippery when wet."
+                "en": "Caution, the cobblestones are extremely slippery when wet.",
+                "cs": "Pozor, dlažební kostky jsou za deště extrémně kluzké."
               }
             },
             {
@@ -967,7 +1037,8 @@
                 "de": "Fahrradständer sind vorhanden, Helm mit reinnehmen.",
                 "hu": "Kerékpártárolók vannak, a sisakot vigye be magával.",
                 "ro": "Există rastele pentru biciclete, luați casca înăuntru.",
-                "en": "Bike racks available, take your helmet inside with you."
+                "en": "Bike racks available, take your helmet inside with you.",
+                "cs": "Stojany na kola k dispozici, vezměte si helmu s sebou dovnitř."
               }
             },
             {
@@ -976,7 +1047,8 @@
                 "de": "Kurzer Fotostopp, unter dem Vordach trocken bleiben.",
                 "hu": "Rövid fotómegálló, maradjon szárazon az előtető alatt.",
                 "ro": "Scurt popas foto, stați la uscat sub copertină.",
-                "en": "Brief photo stop, stay dry under the entrance canopy."
+                "en": "Brief photo stop, stay dry under the entrance canopy.",
+                "cs": "Krátká fotopauza, zůstaňte v suchu pod vstupním přístřeškem."
               }
             },
             {
@@ -985,7 +1057,8 @@
                 "de": "Schutzbleche sind hier Gold wert gegen den Spritzschlamm.",
                 "hu": "A sárvédő itt aranyat ér a felverődő sár ellen.",
                 "ro": "Apărătorile sunt esențiale împotriva noroiului împroșcat.",
-                "en": "Fenders are worth their weight in gold against splashes."
+                "en": "Fenders are worth their weight in gold against splashes.",
+                "cs": "Blatníky jsou k nezaplacení proti stříkající vodě."
               }
             },
             {
@@ -994,7 +1067,8 @@
                 "de": "Der Anstieg ist anstrengend, bei Regen im Sattel bleiben.",
                 "hu": "Az emelkedő fárasztó, esőben maradjon a nyeregben.",
                 "ro": "Urcarea este obositoare, stați în șa pe timp de ploaie.",
-                "en": "The climb is tough; stay seated for better traction."
+                "en": "The climb is tough; stay seated for better traction.",
+                "cs": "Stoupání je tvrdé; seděte pro lepší trakci."
               }
             },
             {
@@ -1003,7 +1077,8 @@
                 "de": "Sicheres Abstellen am oberen Markt möglich.",
                 "hu": "Biztonságos parkolás lehetséges a felső piacon.",
                 "ro": "Parcare sigură posibilă în piața de sus.",
-                "en": "Secure parking is possible at the upper market area."
+                "en": "Secure parking is possible at the upper market area.",
+                "cs": "Možné zabezpečené parkování v horní části náměstí."
               }
             }
           ],
@@ -1031,6 +1106,12 @@
               "Waterproof gear is mandatory in this mountainous region.",
               "Avoid high speeds over painted road markings.",
               "Turn on your lights even during the day in heavy rain."
+            ],
+            "cs": [
+              "Před odjezdem za mokra zkontrolujte brzdové destičky.",
+              "Nepropustné oblečení je v této hornaté oblasti povinné.",
+              "Vyhýbejte se vysokým rychlostem na namalovaných vodorovných značení.",
+              "Za silného deště zapněte světla i přes den."
             ]
           }
         },
@@ -1039,7 +1120,8 @@
             "de": "Kühle Wintertour durch Jablonec. Die klirrende Luft am Rathaus weckt die Geister. Im Museum tauchen wir in Wärme und Kunst ab. Die Talsperre bietet eine weiße Kulisse, bevor wir zum Petřín hochstrampeln.",
             "hu": "Hűvös téli túra Jablonecben. A városházánál a csípős levegő felébreszt. A múzeumban melegség és művészet vár. A gát fehér díszletet kínál, mielőtt feltekernénk a Petřínre.",
             "ro": "Tur de iarnă răcoros prin Jablonec. Aerul tăios de la primărie te trezește. În muzeu ne cufundăm în căldură și artă. Barajul oferă un decor alb înainte de a urca spre Petřín.",
-            "en": "Cool winter tour through Jablonec. The biting air at the town hall wakes the spirit. In the museum, we dive into warmth and art. The dam offers a white backdrop before the climb to Petřín."
+            "en": "Cool winter tour through Jablonec. The biting air at the town hall wakes the spirit. In the museum, we dive into warmth and art. The dam offers a white backdrop before the climb to Petřín.",
+            "cs": "Chladný zimní výlet Jabloncem. Kousavý vzduch u radnice probouzí ducha. V muzeu se ponoříme do tepla a umění. Přehrada nabízí bílou kulisu před výstupem na Petřín."
           },
           "stops": [
             {
@@ -1048,7 +1130,8 @@
                 "de": "Achtung vor Streusalz-Resten auf der Fahrbahn.",
                 "hu": "Vigyázzon az úton lévő útszórósó-maradványokra.",
                 "ro": "Atenție la resturile de sare de pe carosabil.",
-                "en": "Watch out for road salt residue on the pavement."
+                "en": "Watch out for road salt residue on the pavement.",
+                "cs": "Dávejte pozor na zbytky posypové soli na chodníku."
               }
             },
             {
@@ -1057,7 +1140,8 @@
                 "de": "Langes Abschließen draußen lässt das Schloss einfrieren.",
                 "hu": "A kinti hosszú tárolás során a lakat befagyhat.",
                 "ro": "Dacă lăsați bicicleta mult timp, antifurtul poate îngheța.",
-                "en": "Leaving the bike outside too long can freeze the lock."
+                "en": "Leaving the bike outside too long can freeze the lock.",
+                "cs": "Nechat kolo venku příliš dlouho může zamrznout zámek."
               }
             },
             {
@@ -1066,7 +1150,8 @@
                 "de": "Schneller Halt, Finger an den Bremsgriffen warm halten.",
                 "hu": "Gyors megálló, tartsa melegen az ujjait a fékkarokon.",
                 "ro": "Oprire rapidă, păstrați degetele calde pe manetele de frână.",
-                "en": "Quick stop; keep your fingers warm on the brake levers."
+                "en": "Quick stop; keep your fingers warm on the brake levers.",
+                "cs": "Rychlá zastávka; udržujte prsty v teple na brzdových páčkách."
               }
             },
             {
@@ -1075,7 +1160,8 @@
                 "de": "Der Wind weht hier im Winter sehr schneidend.",
                 "hu": "A szél itt télen nagyon metsző tud lenni.",
                 "ro": "Vântul bate foarte tăios aici pe timpul iernii.",
-                "en": "The winter wind can be very biting around the water."
+                "en": "The winter wind can be very biting around the water.",
+                "cs": "Zimní vítr kolem vody může být velmi kousavý."
               }
             },
             {
@@ -1084,7 +1170,8 @@
                 "de": "Nur für erfahrene Fahrer bei Schnee, Rutschgefahr.",
                 "hu": "Hóban csak tapasztaltaknak, nagy a csúszásveszély.",
                 "ro": "Doar pentru bicicliști experimentați pe zăpadă.",
-                "en": "Only for experienced riders in snow; high slip risk."
+                "en": "Only for experienced riders in snow; high slip risk.",
+                "cs": "Pouze pro zkušené jezdce na sněhu; vysoké riziko skluzu."
               }
             },
             {
@@ -1093,7 +1180,8 @@
                 "de": "Die Ziegelmauer strahlt im Winter Kälte ab.",
                 "hu": "A téglafal télen sugározza a hideget.",
                 "ro": "Zidul de cărămidă emană frig pe timpul iernii.",
-                "en": "The brick walls radiate cold during the winter months."
+                "en": "The brick walls radiate cold during the winter months.",
+                "cs": "Cihlové zdi v zimě vyzařují chlad."
               }
             }
           ],
@@ -1121,6 +1209,12 @@
               "E-bike batteries drain significantly faster in the cold.",
               "Wear multiple layers and windproof gloves.",
               "Clean your bike after the ride to remove corrosive road salt."
+            ],
+            "cs": [
+              "Zimní pláště nebo nižší tlak v pneumatikách pomáhají na kluzkých cestách.",
+              "Baterie elektrokol se v chladu značně vybíjejí rychleji.",
+              "Noste více vrstev a větruodolné rukavice.",
+              "Po jízdě očistěte kolo, abyste odstranili korozivní posypovou sůl."
             ]
           }
         }
@@ -1139,7 +1233,8 @@
             "de": "Cluster Start: Parken am Stadtzentrum",
             "hu": "Klaszter kezdete: Parkolás a városközpontban",
             "ro": "Start cluster: Parcare în centrul orașului",
-            "en": "Cluster Start: Parking in the City Center"
+            "en": "Cluster Start: Parking in the City Center",
+            "cs": "Hromadný start: Parkování v centru města"
           },
           "coords": [
             15.17,
@@ -1155,7 +1250,8 @@
             "de": "Suchen Sie einen Parkplatz in der Nähe des Neuen Rathauses.",
             "hu": "Keressen parkolóhelyet az Új Városháza közelében.",
             "ro": "Căutați un loc de parcare lângă Primăria Nouă.",
-            "en": "Look for a parking spot near the New Town Hall."
+            "en": "Look for a parking spot near the New Town Hall.",
+            "cs": "Hledejte místo k parkování blízko Nové radnice."
           }
         },
         {
@@ -1163,7 +1259,8 @@
             "de": "Neues Rathaus",
             "hu": "Új Városháza",
             "ro": "Primăria Nouă",
-            "en": "New Town Hall"
+            "en": "New Town Hall",
+            "cs": "Nová radnice"
           },
           "coords": [
             15.169,
@@ -1179,7 +1276,8 @@
             "de": "Ein kurzer Spaziergang vom Parkplatz zum Startpunkt Ihrer Tour.",
             "hu": "Rövid séta a parkolótól a túra kiindulópontjához.",
             "ro": "O scurtă plimbare de la parcare la punctul de start al turului.",
-            "en": "A short walk from the parking lot to the starting point of your tour."
+            "en": "A short walk from the parking lot to the starting point of your tour.",
+            "cs": "Krátká procházka z parkoviště ke startu vaší trasy."
           }
         },
         {
@@ -1187,7 +1285,8 @@
             "de": "Museum für Glas und Schmuck",
             "hu": "Üveg- és Ékszermúzeum",
             "ro": "Muzeul Sticlei și Bijuteriilor",
-            "en": "Museum of Glass and Jewellery"
+            "en": "Museum of Glass and Jewellery",
+            "cs": "Muzeum skla a šperků"
           },
           "coords": [
             15.174,
@@ -1203,7 +1302,8 @@
             "de": "Das Highlight der Stadt, nur wenige Gehminuten entfernt.",
             "hu": "A város fénypontja, csak néhány perc sétára.",
             "ro": "Punctul culminant al orașului, la doar câteva minute de mers pe jos.",
-            "en": "The highlight of the city, just a few minutes' walk away."
+            "en": "The highlight of the city, just a few minutes' walk away.",
+            "cs": "Dominanta města, jen pár minut pěšky."
           }
         },
         {
@@ -1211,7 +1311,8 @@
             "de": "Talsperre Mšeno",
             "hu": "Mšeno-víztározó",
             "ro": "Barajul Mšeno",
-            "en": "Mšeno Dam"
+            "en": "Mšeno Dam",
+            "cs": "Přehrada Mšeno"
           },
           "coords": [
             15.178,
@@ -1227,7 +1328,8 @@
             "de": "Fahren Sie zum See für einen entspannten Mittagsspaziergang. Parkplätze sind vorhanden.",
             "hu": "Vezessen a tóhoz egy pihentető ebéd utáni sétára. Parkolóhelyek rendelkezésre állnak.",
             "ro": "Conduceți până la lac pentru o plimbare relaxantă de prânz. Parcarea este disponibilă.",
-            "en": "Drive to the lake for a relaxing lunch walk. Parking is available."
+            "en": "Drive to the lake for a relaxing lunch walk. Parking is available.",
+            "cs": "Dojeďte k jezeru na pohodový oběd. Parkování je k dispozici."
           }
         },
         {
@@ -1235,7 +1337,8 @@
             "de": "Aussichtsturm Petřín",
             "hu": "Petřín-kilátó",
             "ro": "Turnul de observație Petřín",
-            "en": "Petřín Lookout Tower"
+            "en": "Petřín Lookout Tower",
+            "cs": "Petřínská rozhledna"
           },
           "coords": [
             15.158,
@@ -1251,7 +1354,8 @@
             "de": "Die kurze Fahrt zum Turm erspart Ihnen einen langen Fußmarsch.",
             "hu": "A rövid autóút a toronyhoz megkíméli Önt a hosszú gyaloglástól.",
             "ro": "Drumul scurt cu mașina până la turn vă scutește de o plimbare lungă.",
-            "en": "The short drive to the tower saves you a long walk."
+            "en": "The short drive to the tower saves you a long walk.",
+            "cs": "Krátká jízda k rozhledně ušetří dlouhou procházku."
           }
         },
         {
@@ -1259,7 +1363,8 @@
             "de": "Herz-Jesu-Kirche",
             "hu": "Jézus Szíve-templom",
             "ro": "Biserica Inima lui Isus",
-            "en": "Church of the Sacred Heart"
+            "en": "Church of the Sacred Heart",
+            "cs": "Kostel Nejsvětějšího Srdce"
           },
           "coords": [
             15.166,
@@ -1275,7 +1380,8 @@
             "de": "Parken Sie in der Nähe des Turms und spazieren Sie zur Kirche.",
             "hu": "Parkoljon a torony közelében és sétáljon el a templomhoz.",
             "ro": "Parcați lângă turn și mergeți pe jos până la biserică.",
-            "en": "Park near the tower and walk to the church."
+            "en": "Park near the tower and walk to the church.",
+            "cs": "Zaparkujte u rozhledny a dojděte ke kostelu pěšky."
           }
         }
       ],
@@ -1283,7 +1389,8 @@
         "de": "Sie parken Ihr Auto im Zentrum und erkunden den ersten Cluster zu Fuß: das Neue Rathaus und das faszinierende Glas- und Schmuckmuseum. Nach diesem kulturellen Vormittag fahren Sie zum zweiten Cluster, der Talsperre Mšeno, ideal für die Mittagspause und einen Spaziergang. Am Nachmittag bringt Sie eine kurze Fahrt zum dritten Cluster, dem Petřín-Hügel. Sie genießen die Aussicht vom Turm und spazieren von dort gemütlich zur Herz-Jesu-Kirche, um den Tag mit einem architektonischen Highlight abzuschließen.",
         "hu": "Autóját a központban parkolja le, és gyalog fedezi fel az első klasztert: az Új Városházát és a lenyűgöző Üveg- és Ékszermúzeumot. A kulturális délelőtt után a második klaszterhez, a Mšeno-víztározóhoz hajt, amely ideális az ebédszünethez és egy sétához. Délután egy rövid autóút viszi a harmadik klaszterhez, a Petřín-hegyhez. Élvezi a kilátást a toronyból, majd onnan kényelmesen elsétál a Jézus Szíve-templomhoz, hogy a napot egy építészeti fényponttal zárja.",
         "ro": "Vă parcați mașina în centru și explorați primul cluster pe jos: Primăria Nouă și fascinantul Muzeu al Sticlei și Bijuteriilor. După această dimineață culturală, conduceți spre al doilea cluster, barajul Mšeno, ideal pentru o pauză de prânz și o plimbare. După-amiaza, o scurtă călătorie cu mașina vă duce la al treilea cluster, dealul Petřín. Vă bucurați de priveliștea din turn și de acolo mergeți pe jos până la Biserica Inima lui Isus, pentru a încheia ziua cu un punct culminant arhitectural.",
-        "en": "You park your car in the center and explore the first cluster on foot: the New Town Hall and the fascinating Museum of Glass and Jewellery. After this cultural morning, you drive to the second cluster, the Mšeno Dam, ideal for a lunch break and a walk. In the afternoon, a short drive takes you to the third cluster, Petřín Hill. You enjoy the view from the tower and from there, take a leisurely walk to the Church of the Sacred Heart to end the day with an architectural highlight."
+        "en": "You park your car in the center and explore the first cluster on foot: the New Town Hall and the fascinating Museum of Glass and Jewellery. After this cultural morning, you drive to the second cluster, the Mšeno Dam, ideal for a lunch break and a walk. In the afternoon, a short drive takes you to the third cluster, Petřín Hill. You enjoy the view from the tower and from there, take a leisurely walk to the Church of the Sacred Heart to end the day with an architectural highlight.",
+        "cs": "Zaparkujete auto v centru a první cluster prozkoumáte pěšky: Novou radnici a fascinující Muzeum skla a šperků. Po kulturním ránu odjedete k druhému clusteru, přehradě Mšeno, ideální na oběd a procházku. Odpoledne vás krátká jízda zavede k třetímu clusteru, Petřínu. Užijete si výhled z rozhledny a odtud pohodovou procházkou dojdete ke Kostelu Nejsvětějšího Srdce, kde den zakončíte architektonickým vrcholem."
       },
       "gastro_picks": {
         "de": [
@@ -1479,6 +1586,12 @@
           "Pay attention to no-parking zones, especially in the city center.",
           "A navigation system is helpful for finding the different clusters.",
           "Do not leave valuables visible in the car."
+        ],
+        "cs": [
+          "Předsledujte si poplatky za parkování; některé zóny jsou drahé.",
+          "Dávejte pozor na zákaz parkování, zvlášť v centru.",
+          "Navigace pomůže najít jednotlivé clustery.",
+          "Nezanechávejte cennosti viditelně v autě."
         ]
       },
       "variants": {
@@ -1487,7 +1600,8 @@
             "de": "Bequeme Fahrt durch das verregnete Jablonec. Wir parken trocken im Zentrum für das Rathaus und das Museum. Die Fahrt zur Talsperre bietet schöne Ausblicke durch die Scheibenwischer, gefolgt von der Auffahrt zum Petřín.",
             "hu": "Kényelmes autózás az esős Jablonecben. A központban parkolunk a városháza és a múzeum közelében. A gáthoz vezető út szép kilátást nyújt az ablaktörlők mögül, majd felhajtunk a Petřínre.",
             "ro": "Călătorie confortabilă prin Jablonec-ul ploios. Parcăm în centru pentru primărie și muzeu. Drumul spre baraj oferă vederi frumoase prin ștergătoare, urmat de urcarea spre Petřín.",
-            "en": "Comfortable drive through rainy Jablonec. We park centrally for the town hall and museum. The drive to the dam offers scenic views through the wipers, followed by the ascent to Petřín."
+            "en": "Comfortable drive through rainy Jablonec. We park centrally for the town hall and museum. The drive to the dam offers scenic views through the wipers, followed by the ascent to Petřín.",
+            "cs": "Pohodlná jízda deštivým Jabloncem. Parkujeme v centru u radnice a muzea. Jízda k přehradě nabízí malebné výhledy skrz stěrače, následovaný výjezdem na Petřín."
           },
           "stops": [
             {
@@ -1496,7 +1610,8 @@
                 "de": "Zentrales Parkhaus nutzen, um trocken auszusteigen.",
                 "hu": "Használja a központi parkolóházat, hogy szárazon szálljon ki.",
                 "ro": "Folosiți parcarea centrală pentru a coborî la uscat.",
-                "en": "Use the central parking garage to stay dry while exiting."
+                "en": "Use the central parking garage to stay dry while exiting.",
+                "cs": "Použijte centrální parkovací dům, abyste vystoupili v suchu."
               }
             },
             {
@@ -1505,7 +1620,8 @@
                 "de": "Kurzer Fußweg vom Parkplatz, Schirm nicht vergessen.",
                 "hu": "Rövid séta a parkolótól, ne felejtse el az esernyőt.",
                 "ro": "Drum scurt de la parcare, nu uitați umbrela.",
-                "en": "Short walk from the car, don't forget your umbrella."
+                "en": "Short walk from the car, don't forget your umbrella.",
+                "cs": "Krátká procházka z auta, nezapomeňte deštník."
               }
             },
             {
@@ -1514,7 +1630,8 @@
                 "de": "Parkplätze direkt vor dem Gebäude oft belegt.",
                 "hu": "Az épület előtti parkolók gyakran foglaltak.",
                 "ro": "Locurile de parcare din fața clădirii sunt adesea ocupate.",
-                "en": "Parking spots directly in front are often full."
+                "en": "Parking spots directly in front are often full.",
+                "cs": "Parkovací místa přímo vpředu jsou často plná."
               }
             },
             {
@@ -1523,7 +1640,8 @@
                 "de": "Parkplatz direkt am Ufer bietet Regenschutz im Auto.",
                 "hu": "A közvetlenül a parton lévő parkoló védelmet ad az autóban.",
                 "ro": "Parcarea de pe mal oferă adăpost în mașină pe ploaie.",
-                "en": "The lakeside parking allows for rain-watching from the car."
+                "en": "The lakeside parking allows for rain-watching from the car.",
+                "cs": "Parkování u jezera umožňuje pozorovat déšť z auta."
               }
             },
             {
@@ -1532,7 +1650,8 @@
                 "de": "Auffahrt schmal, bei Gegenverkehr und Regen Vorsicht.",
                 "hu": "Szűk felvezető út, esőben és szembejövő forgalomnál vigyázzon.",
                 "ro": "Drum de urcare îngust, atenție la trafic pe ploaie.",
-                "en": "Narrow access road; be careful in rain with oncoming traffic."
+                "en": "Narrow access road; be careful in rain with oncoming traffic.",
+                "cs": "Úzká příjezdová cesta; v dešti buďte opatrní při protijedoucích vozidlech."
               }
             },
             {
@@ -1541,7 +1660,8 @@
                 "de": "Parken am Horní náměstí ist meist unkompliziert.",
                 "hu": "A parkolás a Horní náměstí-n általában egyszerű.",
                 "ro": "Parcarea în Horní náměstí este de obicei simplă.",
-                "en": "Parking at Horní náměstí is usually straightforward."
+                "en": "Parking at Horní náměstí is usually straightforward.",
+                "cs": "Parkování na Horním náměstí je obvykle bezproblémové."
               }
             }
           ],
@@ -1569,6 +1689,12 @@
               "Indoor parking garages are your best bet to stay dry.",
               "Check wiper blades before a mountain-area trip.",
               "Roads can be very slick during the first rain."
+            ],
+            "cs": [
+              "Dávejte pozor na chodce s deštníky v centru města.",
+              "Kryté parkovací garáže jsou nejlepší volbou, chcete‑li zůstat v suchu.",
+              "Před výjezdem do hornaté oblasti zkontrolujte stírací lišty.",
+              "Silnice mohou být velmi kluzké při prvním dešti."
             ]
           }
         },
@@ -1577,7 +1703,8 @@
             "de": "Winterlicher Roadtrip durch Jablonec. Die beheizte Kabine macht die Tour bei Minusgraden angenehm. Von den Rathäusern zum Glasmuseum ist es nur ein Katzensprung. Die Talsperre glänzt weiß, und der Petřín bietet ein Winterpanorama.",
             "hu": "Téli autós túra Jablonecben. A fűtött utastér kellemessé teszi az utat a mínuszokban. A városházától a múzeumig csak egy ugrás. A gát fehéren csillog, a Petřín pedig téli panorámát kínál.",
             "ro": "Roadtrip de iarnă prin Jablonec. Cabina încălzită face turul plăcut la temperaturi negative. De la primării la muzeu e doar un pas. Barajul strălucește în alb, iar Petřín oferă o panoramă de iarnă.",
-            "en": "Winter road trip through Jablonec. The heated cabin makes the tour pleasant in freezing temps. It's just a short drive from the town halls to the museum. The dam shines in white, and Petřín offers a winter panorama."
+            "en": "Winter road trip through Jablonec. The heated cabin makes the tour pleasant in freezing temps. It's just a short drive from the town halls to the museum. The dam shines in white, and Petřín offers a winter panorama.",
+            "cs": "Zimní roadtrip Jabloncem. Vyhřátá kabina dělá jízdu příjemnou v mrazech. Z radnic k muzeu to je jen krátká jízda. Přehrada se leskne bělobou a Petřín nabízí zimní panoráma."
           },
           "stops": [
             {
@@ -1586,7 +1713,8 @@
                 "de": "Untergrundparkplatz spart das Eiskratzen am Abend.",
                 "hu": "A földalatti parkolóval megspórolja az esti jégkaparást.",
                 "ro": "Parcarea subterană vă scutește de curățat gheața seara.",
-                "en": "Underground parking saves you from scraping ice later."
+                "en": "Underground parking saves you from scraping ice later.",
+                "cs": "Podzemní parkování vás ušetří od odstraňování námrazy později."
               }
             },
             {
@@ -1595,7 +1723,8 @@
                 "de": "Parkplatzsuche im Schnee kann länger dauern.",
                 "hu": "A parkolóhely-keresés hóban tovább tarthat.",
                 "ro": "Căutarea unui loc de parcare în zăpadă poate dura mai mult.",
-                "en": "Finding a parking spot in snow may take longer."
+                "en": "Finding a parking spot in snow may take longer.",
+                "cs": "Najít parkovací místo ve sněhu může trvat déle."
               }
             },
             {
@@ -1604,7 +1733,8 @@
                 "de": "Haupteingang ist meist gut geräumt und gestreut.",
                 "hu": "A főbejárat általában jól le van takarítva és sózva.",
                 "ro": "Intrarea principală este de obicei bine curățată.",
-                "en": "The main entrance is usually well-cleared of snow."
+                "en": "The main entrance is usually well-cleared of snow.",
+                "cs": "Hlavní vstup je obvykle dobře uklizený od sněhu."
               }
             },
             {
@@ -1613,7 +1743,8 @@
                 "de": "Zufahrt zum Uferparkplatz bei Neuschnee teils schwierig.",
                 "hu": "A parti parkolóhoz való bejutás friss hóban nehéz lehet.",
                 "ro": "Accesul la parcarea de pe mal poate fi greu pe ninsoare.",
-                "en": "Lakeside parking access can be tricky in fresh snow."
+                "en": "Lakeside parking access can be tricky in fresh snow.",
+                "cs": "Příjezd k parkování u jezera může být v čerstvém sněhu obtížný."
               }
             },
             {
@@ -1622,7 +1753,8 @@
                 "de": "Winterreifen mit gutem Profil für den Hügel nötig.",
                 "hu": "Jó profilmélységű téli gumi szükséges a dombra.",
                 "ro": "Anvelope de iarnă cu profil bun necesare pentru deal.",
-                "en": "Winter tires with good tread are essential for the hill."
+                "en": "Winter tires with good tread are essential for the hill.",
+                "cs": "Zimní pneumatiky s dobrým vzorkem jsou nezbytné pro kopec."
               }
             },
             {
@@ -1631,7 +1763,8 @@
                 "de": "Zentrale Lage sorgt für schnell geräumte Straßen.",
                 "hu": "A központi fekvés gyorsan letakarított utakat jelent.",
                 "ro": "Locația centrală garantează străzi curățate rapid.",
-                "en": "Central location ensures roads are plowed quickly."
+                "en": "Central location ensures roads are plowed quickly.",
+                "cs": "Centrální poloha zajišťuje rychlé prohrnování silnic."
               }
             }
           ],
@@ -1659,6 +1792,12 @@
               "Watch out for snow plows in the narrow city center.",
               "Leave the car parked if extreme black ice is reported.",
               "Don't forget anti-freeze windshield washer fluid."
+            ],
+            "cs": [
+              "Zimní vybavení (škrabka, kartáč) je v Jablonci nutností.",
+              "Dávejte pozor na sněhové pluhy v úzkém centru města.",
+              "Nechte auto stát, pokud je hlášena extrémní černá ledovka.",
+              "Nezapomeňte na nemrznoucí kapalinu do ostřikovačů."
             ]
           }
         }
@@ -1677,7 +1816,8 @@
             "de": "Ankunft am Busbahnhof (Cluster Zentrum)",
             "hu": "Érkezés a buszpályaudvarra (Központ klaszter)",
             "ro": "Sosire la autogară (Cluster Centru)",
-            "en": "Arrival at the Bus Station (Center Cluster)"
+            "en": "Arrival at the Bus Station (Center Cluster)",
+            "cs": "Příjezd na autobusové nádraží (centrální cluster)"
           },
           "coords": [
             15.168,
@@ -1693,7 +1833,8 @@
             "de": "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr.",
             "hu": "Vásároljon napijegyet a tömegközlekedéshez.",
             "ro": "Cumpărați un bilet de o zi pentru transportul public.",
-            "en": "Buy a day pass for public transport."
+            "en": "Buy a day pass for public transport.",
+            "cs": "Kupte si denní jízdenku na MHD."
           }
         },
         {
@@ -1701,7 +1842,8 @@
             "de": "Neues Rathaus",
             "hu": "Új Városháza",
             "ro": "Primăria Nouă",
-            "en": "New Town Hall"
+            "en": "New Town Hall",
+            "cs": "Nová radnice"
           },
           "coords": [
             15.169,
@@ -1717,7 +1859,8 @@
             "de": "Der Startpunkt Ihrer Erkundung, nur wenige Schritte von der Haltestelle entfernt.",
             "hu": "A felfedezés kiindulópontja, csak néhány lépésre a megállótól.",
             "ro": "Punctul de plecare al explorării dvs., la doar câțiva pași de stație.",
-            "en": "The starting point of your exploration, just a few steps from the stop."
+            "en": "The starting point of your exploration, just a few steps from the stop.",
+            "cs": "Výchozí bod vašeho průzkumu, jen pár kroků od zastávky."
           }
         },
         {
@@ -1725,7 +1868,8 @@
             "de": "Museum für Glas und Schmuck",
             "hu": "Üveg- és Ékszermúzeum",
             "ro": "Muzeul Sticlei și Bijuteriilor",
-            "en": "Museum of Glass and Jewellery"
+            "en": "Museum of Glass and Jewellery",
+            "cs": "Muzeum skla a šperků"
           },
           "coords": [
             15.174,
@@ -1741,7 +1885,8 @@
             "de": "Tauchen Sie ein in die glitzernde Welt des böhmischen Glases.",
             "hu": "Merüljön el a cseh üveg csillogó világában.",
             "ro": "Scufundați-vă în lumea strălucitoare a sticlei de Boemia.",
-            "en": "Immerse yourself in the sparkling world of Bohemian glass."
+            "en": "Immerse yourself in the sparkling world of Bohemian glass.",
+            "cs": "Ponořte se do třpytivého světa českého skla."
           }
         },
         {
@@ -1749,7 +1894,8 @@
             "de": "Talsperre Mšeno (Cluster Natur)",
             "hu": "Mšeno-víztározó (Természet klaszter)",
             "ro": "Barajul Mšeno (Cluster Natură)",
-            "en": "Mšeno Dam (Nature Cluster)"
+            "en": "Mšeno Dam (Nature Cluster)",
+            "cs": "Přehrada Mšeno (přírodní cluster)"
           },
           "coords": [
             15.178,
@@ -1765,7 +1911,8 @@
             "de": "Nehmen Sie einen Bus zur Talsperre. Die Haltestelle ist direkt am Wasser.",
             "hu": "Menjen busszal a víztározóhoz. A megálló közvetlenül a vízparton van.",
             "ro": "Luați un autobuz până la baraj. Stația este chiar lângă apă.",
-            "en": "Take a bus to the dam. The stop is right by the water."
+            "en": "Take a bus to the dam. The stop is right by the water.",
+            "cs": "Jeďte autobusem k přehradě. Zastávka je přímo u vody."
           }
         },
         {
@@ -1773,7 +1920,8 @@
             "de": "Aussichtsturm Petřín",
             "hu": "Petřín-kilátó",
             "ro": "Turnul de observație Petřín",
-            "en": "Petřín Lookout Tower"
+            "en": "Petřín Lookout Tower",
+            "cs": "Petřínská rozhledna"
           },
           "coords": [
             15.158,
@@ -1789,7 +1937,8 @@
             "de": "Ein weiterer Bus bringt Sie in die Nähe des Hügels. Ein kurzer Spaziergang führt zum Turm.",
             "hu": "Egy másik busz elviszi a hegy közelébe. Egy rövid séta vezet a toronyhoz.",
             "ro": "Un alt autobuz vă duce aproape de deal. O scurtă plimbare duce la turn.",
-            "en": "Another bus takes you near the hill. A short walk leads to the tower."
+            "en": "Another bus takes you near the hill. A short walk leads to the tower.",
+            "cs": "Jiný autobus vás doveze blízko k návrší. Krátká procházka vede k rozhledně."
           }
         },
         {
@@ -1797,7 +1946,8 @@
             "de": "Herz-Jesu-Kirche",
             "hu": "Jézus Szíve-templom",
             "ro": "Biserica Inima lui Isus",
-            "en": "Church of the Sacred Heart"
+            "en": "Church of the Sacred Heart",
+            "cs": "Kostel Nejsvětějšího Srdce"
           },
           "coords": [
             15.166,
@@ -1813,7 +1963,8 @@
             "de": "Vom Petřín aus können Sie bequem zur Kirche hinunter spazieren.",
             "hu": "A Petřín-hegyről kényelmesen lesétálhat a templomhoz.",
             "ro": "De la Petřín, puteți merge pe jos cu ușurință până la biserică.",
-            "en": "From Petřín, you can easily walk down to the church."
+            "en": "From Petřín, you can easily walk down to the church.",
+            "cs": "Z Petřína se snadno dostanete pěšky dolů ke kostelu."
           }
         }
       ],
@@ -1821,7 +1972,8 @@
         "de": "Mit einer Tageskarte beginnen Sie Ihre Tour im Zentrum von Jablonec, wo Sie das Rathaus und das Glasmuseum zu Fuß erkunden. Am Mittag bringt Sie ein Bus bequem zur Talsperre Mšeno, wo Sie die Natur und Ihre Mittagspause genießen. Ein weiterer Bus bringt Sie am Nachmittag zum Petřín-Hügel für eine spektakuläre Aussicht. Von dort aus spazieren Sie bergab zur Herz-Jesu-Kirche, bevor Sie mit dem Bus zurück zum Ausgangspunkt fahren.",
         "hu": "Napijeggyel kezdi a túrát Jablonec központjában, ahol gyalog fedezi fel a városházát és az üvegmúzeumot. Délben egy busz kényelmesen elviszi a Mšeno-víztározóhoz, ahol élvezheti a természetet és az ebédszünetet. Délután egy másik busz viszi a Petřín-hegyre a látványos kilátásért. Onnan sétáljon lefelé a Jézus Szíve-templomhoz, mielőtt busszal visszatérne a kiindulópontra.",
         "ro": "Cu un bilet de o zi, începeți turul în centrul orașului Jablonec, unde explorați primăria și muzeul sticlei pe jos. La prânz, un autobuz vă duce confortabil la barajul Mšeno, unde vă bucurați de natură și de pauza de prânz. Un alt autobuz vă duce după-amiaza pe dealul Petřín pentru o priveliște spectaculoasă. De acolo, mergeți pe jos în jos până la Biserica Inima lui Isus înainte de a lua autobuzul înapoi la punctul de plecare.",
-        "en": "With a day pass, you start your tour in the center of Jablonec, exploring the town hall and glass museum on foot. At noon, a bus takes you comfortably to the Mšeno Dam, where you can enjoy nature and your lunch break. Another bus takes you to Petřín Hill in the afternoon for a spectacular view. From there, you walk downhill to the Church of the Sacred Heart before taking the bus back to your starting point."
+        "en": "With a day pass, you start your tour in the center of Jablonec, exploring the town hall and glass museum on foot. At noon, a bus takes you comfortably to the Mšeno Dam, where you can enjoy nature and your lunch break. Another bus takes you to Petřín Hill in the afternoon for a spectacular view. From there, you walk downhill to the Church of the Sacred Heart before taking the bus back to your starting point.",
+        "cs": "S celodenním jízdným začnete prohlídku v centru Jablonce, pěšky prozkoumáte radnici a sklářské muzeum. V poledne vás pohodlně doveze autobus k přehradě Mšeno, kde si užijete přírodu a přestávku na oběd. Odpoledne vás další autobus vyveze na Petřín pro skvělý výhled. Odtud sejdete klesáním k kostelu Nejsvětějšího Srdce a pak pojedete autobusem zpět na výchozí bod."
       },
       "gastro_picks": {
         "de": [
@@ -2017,6 +2169,12 @@
           "A day ticket is usually cheaper than several single tickets.",
           "Pay attention to the last bus connection of the day, especially from the outer sights.",
           "Validate your ticket on every ride to avoid fines."
+        ],
+        "cs": [
+          "Stáhněte si oficiální aplikaci veřejné dopravy, abyste viděli jízdní řády a trasy.",
+          "Celodenní jízdenka je obvykle levnější než několik jednorázových jízdenek.",
+          "Dávejte pozor na poslední autobusové spojení dne, zejména z okrajových památek.",
+          "Při každé jízdě označte jízdenku, abyste se vyhnuli pokutám."
         ]
       },
       "variants": {
@@ -2025,7 +2183,8 @@
             "de": "Entspannt durch den Regen mit Bus und Bahn. Vormittags erreichen wir das Zentrum trocken. Das Glasmuseum ist ein Highlight im Warmen. Nachmittags bringt uns der Bus direkt zur Talsperre, wo wir das Wetter vom Ufer aus beobachten.",
             "hu": "Pihentető utazás busszal és villamossal az esőben. Délelőtt szárazon érjük el a központot. Az Üvegmuzeum meleg menedék. Délután a busz egyenesen a gáthoz visz, ahol a partról figyeljük az időjárást.",
             "ro": "Călătorie relaxantă cu autobuzul prin ploaie. Dimineața ajungem la uscat în centru. Muzeul Sticlei este un refugiu călduros. După-amiaza autobuzul ne duce la baraj, unde admirăm vremea de pe mal.",
-            "en": "Relaxing transit trip through the rain. Morning sees us arriving dry in the center. The Glass Museum is a warm highlight. In the afternoon, the bus takes us directly to the dam to watch the weather from the shore."
+            "en": "Relaxing transit trip through the rain. Morning sees us arriving dry in the center. The Glass Museum is a warm highlight. In the afternoon, the bus takes us directly to the dam to watch the weather from the shore.",
+            "cs": "Pohodová jízda přes déšť. Ráno přijíždíme do centra v suchu. Sklářské muzeum je teplým zážitkem. Odpoledne nás autobus veze přímo k přehradě, odkud sledujeme počasí z břehu."
           },
           "stops": [
             {
@@ -2034,7 +2193,8 @@
                 "de": "Überdachte Bussteige bieten sofortigen Schutz.",
                 "hu": "A fedett peronok azonnali védelmet nyújtanak.",
                 "ro": "Peroanele acoperite oferă adăpost imediat.",
-                "en": "Covered bus platforms provide immediate shelter."
+                "en": "Covered bus platforms provide immediate shelter.",
+                "cs": "Zastřešené autobusové čekárny poskytují okamžitý úkryt."
               }
             },
             {
@@ -2043,7 +2203,8 @@
                 "de": "Haltestelle direkt am Platz, nur wenige Schritte.",
                 "hu": "Megálló közvetlenül a téren, csak pár lépés.",
                 "ro": "Stație direct în piață, la doar câțiva pași.",
-                "en": "The stop is right on the square, only a few steps away."
+                "en": "The stop is right on the square, only a few steps away.",
+                "cs": "Zastávka je přímo na náměstí, jen pár kroků daleko."
               }
             },
             {
@@ -2052,7 +2213,8 @@
                 "de": "Haupthaltestelle 'U Muzea' ist ganz nah.",
                 "hu": "Az 'U Muzea' főmegálló nagyon közel van.",
                 "ro": "Stația principală 'U Muzea' este foarte aproape.",
-                "en": "The 'U Muzea' main stop is very close by."
+                "en": "The 'U Muzea' main stop is very close by.",
+                "cs": "Hlavní zastávka 'U Muzea' je velmi blízko."
               }
             },
             {
@@ -2061,7 +2223,8 @@
                 "de": "Buslinie 101 oder 104 hält direkt am Wasser.",
                 "hu": "A 101-es vagy 104-es busz közvetlenül a víznél áll meg.",
                 "ro": "Autobuzul 101 sau 104 oprește direct lângă apă.",
-                "en": "Bus lines 101 or 104 stop right by the water."
+                "en": "Bus lines 101 or 104 stop right by the water.",
+                "cs": "Linky 101 nebo 104 staví přímo u vody."
               }
             },
             {
@@ -2070,7 +2233,8 @@
                 "de": "Längerer Fußweg von der Haltestelle, bergauf bei Regen.",
                 "hu": "Hosszabb séta a megállótól, esőben felfelé.",
                 "ro": "Drum mai lung de la stație, în urcare pe ploaie.",
-                "en": "Longer walk from the stop, uphill in the rain."
+                "en": "Longer walk from the stop, uphill in the rain.",
+                "cs": "Delší chůze ze zastávky, do kopce v dešti."
               }
             },
             {
@@ -2079,7 +2243,8 @@
                 "de": "Zentrale Haltestellen am Horní náměstí nutzen.",
                 "hu": "Használja a Horní náměstí központi megállóit.",
                 "ro": "Folosiți stațiile centrale din Horní náměstí.",
-                "en": "Use the central bus stops at Horní náměstí."
+                "en": "Use the central bus stops at Horní náměstí.",
+                "cs": "Využijte centrální autobusové zastávky na Horním náměstí."
               }
             }
           ],
@@ -2107,6 +2272,12 @@
               "Tickets can be purchased contactless inside the bus.",
               "Bus shelters are generally well-protected from wind.",
               "The tram to Liberec is a great rainy-day alternative."
+            ],
+            "cs": [
+              "Použijte aplikaci 'IDOL' pro informace v reálném čase během deště.",
+              "Jízdenky lze koupit bezkontaktně přímo v autobuse.",
+              "Autobusové přístřešky jsou obecně dobře chráněné před větrem.",
+              "Tramvaj do Liberce je skvělou alternativou pro deštivý den."
             ]
           }
         },
@@ -2115,7 +2286,8 @@
             "de": "Kuschelige Transit-Tour durch das verschneite Jablonec. Die warmen Busse sind ein Segen bei Frost. Wir erkunden die Architektur und die Glaskunst, während draußen die Schneeflocken tanzen. Die Talsperre ist im Winterkleid besonders schön.",
             "hu": "Kuckózós tömegközlekedési túra a havas Jablonecben. A meleg buszok áldásosak a fagyban. Felfedezzük az építészetet és az üvegművészetet, miközben kint táncolnak a pelyhek. A gát téli ruhájában különösen szép.",
             "ro": "Tur confortabil cu transportul public prin Jablonec-ul înzăpezit. Autobuzele calde sunt o binecuvântare pe ger. Explorăm arhitectura și arta sticlei în timp ce afară ninge. Barajul e superb în haine de iarnă.",
-            "en": "Cozy transit tour through snowy Jablonec. Warm buses are a blessing in the frost. We explore architecture and glass art while snowflakes dance outside. The dam is especially beautiful in its winter coat."
+            "en": "Cozy transit tour through snowy Jablonec. Warm buses are a blessing in the frost. We explore architecture and glass art while snowflakes dance outside. The dam is especially beautiful in its winter coat.",
+            "cs": "Pohodová přestupní procházka zasněženým Jabloncem. Vytopené autobusy jsou v mrazu požehnáním. Prozkoumáváme architekturu a sklářské umění, zatímco venku tančí sněhové vločky. Přehrada v zimním hávu vypadá obzvlášť krásně."
           },
           "stops": [
             {
@@ -2124,7 +2296,8 @@
                 "de": "Warteräume sind im Winter beheizt.",
                 "hu": "A várótermek télen fűtöttek.",
                 "ro": "Sălile de așteptare sunt încălzite iarna.",
-                "en": "Waiting rooms are heated during the winter season."
+                "en": "Waiting rooms are heated during the winter season.",
+                "cs": "Čekárny jsou v zimním období vytápěné."
               }
             },
             {
@@ -2133,7 +2306,8 @@
                 "de": "Gehwege am Platz sind meist vorbildlich geräumt.",
                 "hu": "A téren a járdák általában példásan le vannak takarítva.",
                 "ro": "Trotuarele din piață sunt de obicei bine curățate.",
-                "en": "Sidewalks on the square are usually well-cleared."
+                "en": "Sidewalks on the square are usually well-cleared.",
+                "cs": "Chodníky na náměstí bývají většinou dobře uklizené."
               }
             },
             {
@@ -2142,7 +2316,8 @@
                 "de": "Der Bus hält fast direkt vor der Tür.",
                 "hu": "A busz szinte közvetlenül az ajtó előtt áll meg.",
                 "ro": "Autobuzul oprește aproape direct în fața ușii.",
-                "en": "The bus stops almost right in front of the door."
+                "en": "The bus stops almost right in front of the door.",
+                "cs": "Autobus zastavuje téměř přímo před dveřmi."
               }
             },
             {
@@ -2151,7 +2326,8 @@
                 "de": "Im Winter seltenerer Takt, Fahrplan genau prüfen.",
                 "hu": "Télen ritkább menetrend, ellenőrizze pontosan.",
                 "ro": "Intervale mai lungi iarna, verificați bine orarul.",
-                "en": "Less frequent service in winter; check the schedule."
+                "en": "Less frequent service in winter; check the schedule.",
+                "cs": "V zimě je méně spojů; zkontrolujte jízdní řád."
               }
             },
             {
@@ -2160,7 +2336,8 @@
                 "de": "Fester Tritt bei Schnee für den Aufstieg nötig.",
                 "hu": "A feljutáshoz biztos léptek kellenek a hóban.",
                 "ro": "E nevoie de pași siguri pe zăpadă pentru urcare.",
-                "en": "Sure footing is required for the snowy climb."
+                "en": "Sure footing is required for the snowy climb.",
+                "cs": "Pro sněhové stoupání je potřeba jistá chůze."
               }
             },
             {
@@ -2169,7 +2346,8 @@
                 "de": "Kurze Intervalle der Linien im Stadtzentrum.",
                 "hu": "Sűrű buszjáratok a városközpontban.",
                 "ro": "Intervale scurte pentru liniile din centrul orașului.",
-                "en": "Frequent bus service within the city center area."
+                "en": "Frequent bus service within the city center area.",
+                "cs": "Častá autobusová obsluha v oblasti centra města."
               }
             }
           ],
@@ -2197,6 +2375,12 @@
               "Vehicle heating is usually very powerful here.",
               "Wear non-slip shoes for the walks to/from stops.",
               "The winter views from the bus windows are often magical."
+            ],
+            "cs": [
+              "Během silného sněžení mohou autobusy nabírat zpoždění.",
+              "Topení ve vozidlech je zde obvykle velmi silné.",
+              "Na procházky k/ze zastávek noste obuv proti skluzu.",
+              "Zimní výhledy z oken autobusu jsou často kouzelné."
             ]
           }
         }

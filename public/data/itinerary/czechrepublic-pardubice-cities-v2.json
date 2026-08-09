@@ -21,7 +21,8 @@
             "de": "Pernstein-Platz",
             "hu": "Pernštejn tér",
             "ro": "Piața Pernštejn",
-            "en": "Pernštejn Square"
+            "en": "Pernštejn Square",
+            "cs": "Pernštýnské náměstí"
           },
           "coords": [
             15.779,
@@ -37,7 +38,8 @@
             "de": "Bewundern Sie die Renaissance- und Barockfassaden der Bürgerhäuser.",
             "hu": "Csodálja meg a reneszánsz és barokk polgárházak homlokzatát.",
             "ro": "Admirați fațadele renascentiste și baroce ale caselor burgheze.",
-            "en": "Admire the Renaissance and Baroque facades of the burgher houses."
+            "en": "Admire the Renaissance and Baroque facades of the burgher houses.",
+            "cs": "Obdivuj renesanční a barokní fasády měšťanských domů."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Grünes Tor",
             "hu": "Zöld kapu",
             "ro": "Poarta Verde",
-            "en": "Green Gate"
+            "en": "Green Gate",
+            "cs": "Zelená brána"
           },
           "coords": [
             15.7795,
@@ -61,7 +64,8 @@
             "de": "Steigen Sie auf den Turm für einen fantastischen Blick über die Altstadt.",
             "hu": "Menjen fel a toronyba a fantasztikus kilátásért az óvárosra.",
             "ro": "Urcați în turn pentru o priveliște fantastică asupra orașului vechi.",
-            "en": "Climb the tower for a fantastic view over the old town."
+            "en": "Climb the tower for a fantastic view over the old town.",
+            "cs": "Vyšplhej na věž pro fantastický výhled na staré město."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "St.-Bartholomäus-Kirche",
             "hu": "Szent Bertalan-templom",
             "ro": "Biserica Sfântul Bartolomeu",
-            "en": "St. Bartholomew's Church"
+            "en": "St. Bartholomew's Church",
+            "cs": "Kostel sv. Bartoloměje"
           },
           "coords": [
             15.777,
@@ -85,7 +90,8 @@
             "de": "Achten Sie auf das beeindruckende gotische Gewölbe und die barocke Ausstattung.",
             "hu": "Figyelje meg a lenyűgöző gótikus boltozatot és a barokk berendezést.",
             "ro": "Observați bolta gotică impresionantă și mobilierul baroc.",
-            "en": "Note the impressive Gothic vaulting and Baroque furnishings."
+            "en": "Note the impressive Gothic vaulting and Baroque furnishings.",
+            "cs": "Všimni si impozantního gotického klenutí a barokního mobiliáře."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Schloss Pardubice",
             "hu": "Pardubicei kastély",
             "ro": "Castelul Pardubice",
-            "en": "Pardubice Castle"
+            "en": "Pardubice Castle",
+            "cs": "Pardubický zámek"
           },
           "coords": [
             15.7755,
@@ -109,7 +116,8 @@
             "de": "Planen Sie Zeit für das Ostböhmische Museum im Inneren ein.",
             "hu": "Szánjon időt a kastélyban található Kelet-Csehországi Múzeumra is.",
             "ro": "Planificați timp pentru a vizita Muzeul Boemiei de Est din interior.",
-            "en": "Allow time for the Museum of East Bohemia housed inside."
+            "en": "Allow time for the Museum of East Bohemia housed inside.",
+            "cs": "Vyhraď si čas na Muzeum východních Čech umístěné uvnitř."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Tyrš-Garten",
             "hu": "Tyrš-kertek",
             "ro": "Grădinile Tyrš",
-            "en": "Tyrš Gardens"
+            "en": "Tyrš Gardens",
+            "cs": "Tyršovy sady"
           },
           "coords": [
             15.7725,
@@ -133,7 +142,8 @@
             "de": "Ein idealer Ort für ein Mittagspicknick oder eine entspannte Pause.",
             "hu": "Ideális hely egy ebédpiknikhez vagy egy pihentető szünethez.",
             "ro": "Un loc ideal pentru un picnic la prânz sau o pauză relaxantă.",
-            "en": "An ideal spot for a lunch picnic or a relaxing break."
+            "en": "An ideal spot for a lunch picnic or a relaxing break.",
+            "cs": "Ideální místo na piknik nebo odpočinek při obědě."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Winternitz-Mühlen",
             "hu": "Winternitz-malmok",
             "ro": "Morile Winternitz",
-            "en": "Winternitz Mills"
+            "en": "Winternitz Mills",
+            "cs": "Vintrovické mlýny"
           },
           "coords": [
             15.768,
@@ -157,7 +168,8 @@
             "de": "Ein faszinierendes Beispiel für Industriearchitektur; tolle Fotomotive.",
             "hu": "Az ipari építészet lenyűgöző példája; remek fotótéma.",
             "ro": "Un exemplu fascinant de arhitectură industrială; oportunități foto excelente.",
-            "en": "A fascinating example of industrial architecture; great for photos."
+            "en": "A fascinating example of industrial architecture; great for photos.",
+            "cs": "Fascinující příklad průmyslové architektury; skvělé na fotky."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Ostböhmisches Theater",
             "hu": "Kelet-Csehországi Színház",
             "ro": "Teatrul Boemiei de Est",
-            "en": "East Bohemian Theatre"
+            "en": "East Bohemian Theatre",
+            "cs": "Divadlo východních Čech"
           },
           "coords": [
             15.778,
@@ -181,7 +194,8 @@
             "de": "Bewundern Sie die Jugendstil-Architektur, auch wenn Sie keine Vorstellung besuchen.",
             "hu": "Csodálja meg a szecessziós építészetet, még ha nem is megy előadásra.",
             "ro": "Admirați arhitectura Art Nouveau, chiar dacă nu participați la un spectacol.",
-            "en": "Admire the Art Nouveau architecture, even if you don't catch a show."
+            "en": "Admire the Art Nouveau architecture, even if you don't catch a show.",
+            "cs": "Obdivuj secesní architekturu i když se nebudeš dívat na představení."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Beginnen Sie Ihren Tag auf dem belebten Pernstein-Platz, dem Herzen von Pardubice. Nach dem Aufstieg auf das Grüne Tor für eine Vogelperspektive, finden Sie Ruhe in der St.-Bartholomäus-Kirche. Der Mittag ist dem prächtigen Schloss Pardubice und seinem Museum gewidmet, gefolgt von einer entspannten Pause im grünen Tyrš-Garten. Am Nachmittag entdecken Sie das industrielle Erbe der Winternitz-Mühlen am Flussufer. Schließen Sie Ihren Rundgang mit einem Blick auf das elegante Ostböhmische Theater ab und lassen Sie den Tag bei einem traditionellen Lebkuchen ausklingen.",
         "hu": "Kezdje a napot a nyüzsgő Pernštejn téren, Pardubice szívében. Miután megmászta a Zöld kaput a madártávlati kilátásért, találjon nyugalmat a Szent Bertalan-templomban. A dél a csodálatos Pardubicei kastélyé és múzeumáé, amelyet egy pihentető szünet követ a zöld Tyrš-kertben. Délután fedezze fel a Winternitz-malmok ipari örökségét a folyóparton. Zárja a sétát a Kelet-Csehországi Színház elegáns épületének megtekintésével, és fejezze be a napot egy hagyományos mézeskaláccsal.",
         "ro": "Începeți ziua în vibranta Piață Pernštejn, inima orașului Pardubice. După ce urcați în Poarta Verde pentru o vedere panoramică, găsiți liniștea în Biserica Sf. Bartolomeu. Amiaza este dedicată magnificului Castel Pardubice și muzeului său, urmată de o pauză relaxantă în Grădinile verzi Tyrš. După-amiaza, explorați moștenirea industrială a Morilor Winternitz de pe malul râului. Încheiați turul pietonal admirând elegantul Teatru al Boemiei de Est și încheiați ziua cu o turtă dulce tradițională.",
-        "en": "Start your day in the bustling Pernštejn Square, the heart of Pardubice. After climbing the Green Gate for a bird's-eye view, find tranquility in St. Bartholomew's Church. The afternoon is dedicated to the magnificent Pardubice Castle and its museum, followed by a relaxing break in the green Tyrš Gardens. In the afternoon, explore the industrial heritage of the Winternitz Mills on the riverbank. Conclude your walking tour by admiring the elegant East Bohemian Theatre, and end the day with a traditional gingerbread treat."
+        "en": "Start your day in the bustling Pernštejn Square, the heart of Pardubice. After climbing the Green Gate for a bird's-eye view, find tranquility in St. Bartholomew's Church. The afternoon is dedicated to the magnificent Pardubice Castle and its museum, followed by a relaxing break in the green Tyrš Gardens. In the afternoon, explore the industrial heritage of the Winternitz Mills on the riverbank. Conclude your walking tour by admiring the elegant East Bohemian Theatre, and end the day with a traditional gingerbread treat.",
+        "cs": "Začni den na živém Pernštýnském náměstí, srdci Pardubic. Po výstupu na Zelenou bránu pro panoramatický pohled najdi klid v kostele sv. Bartoloměje. Odpoledne věnuj nádhernému pardubickému zámku a jeho muzeu, následně si odpočiň v zelených Tyršových sadech. Odpoledne objevuj průmyslové dědictví Vintrovických mlýnů na břehu řeky. Prohlídku zakonči obdivem elegantního Divadla východních Čech a den si oslaď tradičním perníkem."
       },
       "gastro_picks": {
         "de": [
@@ -345,6 +360,11 @@
           "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
           "Most sights in the center are easily within walking distance.",
           "Check the opening hours for the castle and the Green Gate in advance."
+        ],
+        "cs": [
+          "Noste pohodlnou obuv, dlažba na Starém Městě může být nerovná.",
+          "Většina památek v centru je snadno dosažitelná pěšky.",
+          "Předem si zjistěte otvírací dobu zámku a Zelené brány."
         ]
       },
       "variants": {
@@ -353,7 +373,8 @@
             "de": "Beginnen Sie Ihren Tag unter den schützenden Arkaden des Pernštejn-Platzes. Das Grüne Tor bietet einen trockenen Aussichtspunkt über die Stadt. Den Mittag verbringen Sie im weitläufigen Schloss Pardubice, wo die Innenräume vor Regen schützen. Nachmittags erkunden Sie die renovierten Winternitz-Mühlen, ein idealer Indoor-Kulturort. Der Tag endet gemütlich am Ostböhmischen Theater.",
             "hu": "Kezdje a napot a Pernštejn tér védelmet nyújtó árkádjai alatt. A Zöld kapu száraz kilátópontot kínál a város felett. A delet a pardubicei vár tágas belső tereiben töltse, távol az esőtől. Délután fedezze fel a felújított Winternitz-malmokat, amely kiváló fedett kulturális központ. A napot az Kelet-csehországi Színház patinás épületénél zárja egy közeli kávézóban.",
             "ro": "Începeți ziua sub arcadele protectoare ale Pieței Pernštejn. Poarta Verde oferă un punct de observație uscat deasupra orașului. Petreceți amiaza în interiorul Castelului Pardubice, ferit de ploaie. După-amiaza, explorați Morile Winternitz renovate, un spațiu cultural interior ideal. Ziua se încheie confortabil lângă Teatrul Boemiei de Est, admirând arhitectura din apropiere.",
-            "en": "Start your day under the protective arcades of Pernštejn Square. The Green Gate provides a dry vantage point over the city. Spend midday inside Pardubice Castle, where extensive exhibitions keep you dry. In the afternoon, explore the renovated Winternitz Mills, a perfect indoor cultural hub. The day ends cozily by the East Bohemian Theatre with a view of the illuminated facade."
+            "en": "Start your day under the protective arcades of Pernštejn Square. The Green Gate provides a dry vantage point over the city. Spend midday inside Pardubice Castle, where extensive exhibitions keep you dry. In the afternoon, explore the renovated Winternitz Mills, a perfect indoor cultural hub. The day ends cozily by the East Bohemian Theatre with a view of the illuminated facade.",
+            "cs": "Začněte den pod krytými arkádami na Pernštýnském náměstí. Zelená brána nabízí suchý výhled na město. O poledni strávte čas v Pardubickém zámku, kde vás rozsáhlé expozice udrží v suchu. Odpoledne prozkoumejte obnovené Winternitzovy mlýny, ideální vnitřní kulturní centrum. Den zakončete útulně u Východočeského divadla s výhledem na nasvícenou fasádu."
           },
           "stops": [
             {
@@ -362,7 +383,8 @@
                 "de": "Nutzen Sie die Arkadengänge, um trocken um den Platz zu spazieren.",
                 "hu": "Használja az árkádokat a tér körüli száraz sétához.",
                 "ro": "Folosiți arcadele pentru a vă plimba în jurul pieței fără a vă uda.",
-                "en": "Use the arcades to walk around the square while staying dry."
+                "en": "Use the arcades to walk around the square while staying dry.",
+                "cs": "Využijte arkády k obchůzce náměstí a zůstaňte v suchu."
               }
             },
             {
@@ -371,7 +393,8 @@
                 "de": "Der Turmaufstieg ist überdacht; oben bietet sich ein regnerisches Panorama.",
                 "hu": "A toronyba vezető út fedett; a fenti kilátás esőben is hangulatos.",
                 "ro": "Urcarea în turn este acoperită; panorama pe ploaie este melancolică.",
-                "en": "The climb up the tower is covered; the top offers a rainy city panorama."
+                "en": "The climb up the tower is covered; the top offers a rainy city panorama.",
+                "cs": "Výstup na věž je zastřešený; nahoře je panorama města v dešti."
               }
             },
             {
@@ -380,7 +403,8 @@
                 "de": "Ein friedlicher Ort für eine kurze Regenpause in Stille.",
                 "hu": "Békés hely egy rövid esőszünethez a csendben.",
                 "ro": "Un loc liniștit pentru o scurtă pauză de ploaie în tăcere.",
-                "en": "A peaceful place for a short rain break in silence."
+                "en": "A peaceful place for a short rain break in silence.",
+                "cs": "Klidné místo na krátkou přestávku v tichu během deště."
               }
             },
             {
@@ -389,7 +413,8 @@
                 "de": "Besuchen Sie das Ostböhmische Museum im Inneren des Schlosses.",
                 "hu": "Látogasson el a vár falai között található Kelet-csehországi Múzeumba.",
                 "ro": "Vizitați Muzeul Boemiei de Est situat în interiorul castelului.",
-                "en": "Visit the East Bohemian Museum located inside the castle."
+                "en": "Visit the East Bohemian Museum located inside the castle.",
+                "cs": "Navštivte Východočeské muzeum umístěné v zámku."
               }
             },
             {
@@ -398,7 +423,8 @@
                 "de": "Die asphaltierten Wege vermeiden Schlamm bei leichtem Regen.",
                 "hu": "Az aszfaltozott utak segítenek elkerülni a sarat enyhe esőben.",
                 "ro": "Aleile asfaltate evită noroiul în timpul unei ploi ușoare.",
-                "en": "The paved paths help avoid mud during light rain."
+                "en": "The paved paths help avoid mud during light rain.",
+                "cs": "Zpevněné cesty pomáhají vyhnout se blátu při slabém dešti."
               }
             },
             {
@@ -407,7 +433,8 @@
                 "de": "Ein Highlight für Architekturfans mit viel Platz im Trockenen.",
                 "hu": "Építészeti remekmű, ahol bőséges fedett kiállítótér várja.",
                 "ro": "O capodoperă arhitecturală cu mult spațiu interior de explorat.",
-                "en": "An architectural highlight with plenty of indoor space to explore."
+                "en": "An architectural highlight with plenty of indoor space to explore.",
+                "cs": "Architektonická lahůdka s množstvím vnitřního prostoru k prozkoumání."
               }
             },
             {
@@ -416,7 +443,8 @@
                 "de": "Bewundern Sie die Fassade unter dem Vordach gegenüberliegender Gebäude.",
                 "hu": "Csodálja meg a homlokzatot a szemközti épületek eresze alól.",
                 "ro": "Admirați fațada de sub streșinile clădirilor de vizavi.",
-                "en": "Admire the facade from under the eaves of opposite buildings."
+                "en": "Admire the facade from under the eaves of opposite buildings.",
+                "cs": "Obdivujte fasádu ze spodu pod římsami protějších domů."
               }
             }
           ],
@@ -448,6 +476,13 @@
               "The castle offers combined tickets for several indoor exhibitions.",
               "Winternitz Mills houses a modern cafe perfect for rainy days.",
               "Distances in the center are short, so an umbrella is quite sufficient."
+            ],
+            "cs": [
+              "Arkady na Pernštýnském náměstí jsou nejlepší úkryt při náhlých přeháňkách.",
+              "Pardubice jsou proslulé perníkem – ideální svačina během vnitřní přestávky.",
+              "Zámek nabízí společné vstupenky na několik vnitřních expozic.",
+              "Ve Winternitzových mlýnech sídlí moderní kavárna ideální pro deštivé dny.",
+              "Vzdálenosti v centru jsou krátké, takže stačí i deštník."
             ]
           }
         },
@@ -456,7 +491,8 @@
             "de": "Erleben Sie die winterliche Stille auf dem Pernštejn-Platz, vielleicht mit Puderzucker auf den Giebeln. Das Grüne Tor bietet Schutz vor kaltem Wind. Mittags wärmen Sie sich in den historischen Sälen des Schlosses auf. Der Spaziergang durch die Tyrš-Gärten ist bei Frost besonders malerisch. Bevor die Sonne früh untergeht, bieten die Winternitz-Mühlen moderne Wärme und Kultur.",
             "hu": "Élje át a téli csendet a Pernštejn téren, ahol a háztetőkön megül a hó. A Zöld kapu védelmet nyújt a hideg szél ellen. Délben melegedjen fel a vár történelmi termeiben és múzeumaiban. A Tyrš-kertekben tett séta zúzmarás időben különösen festői. Mielőtt korán lenyugodna a nap, a Winternitz-malmok modern melegét és kulturális kínálatát élvezheti.",
             "ro": "Experimentați liniștea iernii în Piața Pernštejn, cu zăpadă pe acoperișurile baroce. Poarta Verde oferă adăpost împotriva vântului rece. La prânz, încălziți-vă în sălile istorice ale Castelului Pardubice. O plimbare prin Grădinile Tyrš este pitorească în condiții de îngheț. Înainte de apusul timpuriu, Morile Winternitz oferă căldură și cultură modernă.",
-            "en": "Experience the winter silence on Pernštejn Square, perhaps with snow dusting the baroque gables. The Green Gate provides shelter from the cold wind. At noon, warm up in the historical halls of Pardubice Castle. A walk through Tyrš Gardens is particularly picturesque during frost. Before the early sunset, Winternitz Mills offer modern warmth and cultural highlights."
+            "en": "Experience the winter silence on Pernštejn Square, perhaps with snow dusting the baroque gables. The Green Gate provides shelter from the cold wind. At noon, warm up in the historical halls of Pardubice Castle. A walk through Tyrš Gardens is particularly picturesque during frost. Before the early sunset, Winternitz Mills offer modern warmth and cultural highlights.",
+            "cs": "Zažijte zimní ticho na Pernštýnském náměstí, třeba se sněhem na barokních štítech. Zelená brána poskytuje úkryt před chladným větrem. O poledni se ohřejte v historických sálech Pardubického zámku. Procházka Tyršovými sady je obzvlášť malebná při mrazíku. Před brzkým západem slunce nabízejí Winternitzovy mlýny moderní teplo a kulturní zážitky."
           },
           "stops": [
             {
@@ -465,7 +501,8 @@
                 "de": "Genießen Sie einen heißen Tee oder Punsch in den gemütlichen Cafés am Platz.",
                 "hu": "Élvezzen egy forró teát vagy puncsot a tér hangulatos kávézóiban.",
                 "ro": "Savurați un ceai fierbinte sau un punch în cafenelele primitoare din piață.",
-                "en": "Enjoy a hot tea or punch in the cozy cafes around the square."
+                "en": "Enjoy a hot tea or punch in the cozy cafes around the square.",
+                "cs": "Dopřejte si horký čaj nebo punč v útulných kavárnách kolem náměstí."
               }
             },
             {
@@ -474,7 +511,8 @@
                 "de": "Vom Turm aus sehen Sie die festlich beleuchtete Altstadt.",
                 "hu": "A toronyból rálátni az ünnepi fényekben úszó óvárosra.",
                 "ro": "Din turn puteți vedea orașul vechi luminat festiv.",
-                "en": "From the tower, you can see the festively lit old town."
+                "en": "From the tower, you can see the festively lit old town.",
+                "cs": "Z věže uvidíte slavnostně nasvícené Staré Město."
               }
             },
             {
@@ -483,7 +521,8 @@
                 "de": "Achten Sie auf eventuelle Orgelkonzerte in der Weihnachtszeit.",
                 "hu": "Keressen adventi orgonakoncerteket a karácsonyi időszakban.",
                 "ro": "Căutați eventuale concerte de orgă în perioada Crăciunului.",
-                "en": "Look out for organ concerts during the Christmas season."
+                "en": "Look out for organ concerts during the Christmas season.",
+                "cs": "Dejte pozor na varhanní koncerty během vánoční sezóny."
               }
             },
             {
@@ -492,7 +531,8 @@
                 "de": "Die Ritterausstellung im Inneren ist auch im Winter sehr sehenswert.",
                 "hu": "A benti lovagi kiállítás télen is kiváló program.",
                 "ro": "Expoziția cavalerilor din interior merită vizitată și iarna.",
-                "en": "The knights' exhibition inside is well worth a visit in winter."
+                "en": "The knights' exhibition inside is well worth a visit in winter.",
+                "cs": "Rytířská expozice uvnitř stojí za návštěvu i v zimě."
               }
             },
             {
@@ -501,7 +541,8 @@
                 "de": "Vorsicht vor glatten Stellen auf den Brücken im Park.",
                 "hu": "Vigyázzon a jeges szakaszokra a park hídjain.",
                 "ro": "Atenție la porțiunile alunecoase de pe podurile din parc.",
-                "en": "Watch out for icy patches on the bridges in the park."
+                "en": "Watch out for icy patches on the bridges in the park.",
+                "cs": "Dejte pozor na namrzlé plochy na mostcích v parku."
               }
             },
             {
@@ -510,7 +551,8 @@
                 "de": "Die Galerien sind gut beheizt und bieten moderne Kunst.",
                 "hu": "A galériák jól fűtöttek és izgalmas modern művészetet kínálnak.",
                 "ro": "Galeriile sunt bine încălzite și oferă artă modernă.",
-                "en": "The galleries are well heated and offer great modern art."
+                "en": "The galleries are well heated and offer great modern art.",
+                "cs": "Galerie jsou dobře vytápěné a nabízejí skvělé moderní umění."
               }
             },
             {
@@ -519,7 +561,8 @@
                 "de": "Das beleuchtete Gebäude ist ein perfektes Motiv für die blaue Stunde.",
                 "hu": "A kivilágított épület tökéletes téma a kék órában.",
                 "ro": "Clădirea iluminată este un subiect perfect pentru ora albastră.",
-                "en": "The illuminated building is a perfect subject for the blue hour."
+                "en": "The illuminated building is a perfect subject for the blue hour.",
+                "cs": "Nasvícená budova je ideální motiv pro modrou hodinu."
               }
             }
           ],
@@ -551,6 +594,13 @@
               "The cobblestones in the old town can be slippery when frozen.",
               "The castle interiors are a great place to warm up at midday.",
               "Warm clothing is essential as the wind often blows through the narrow streets."
+            ],
+            "cs": [
+              "V prosinci zapadá slunce kolem 16:00; plánujte venkovní zastávky na dřívější část dne.",
+              "Vyzkoušejte pardubický perník s čokoládou – dodá energii v zimnu.",
+              "Dlažba na Starém Městě může být při mrazu kluzká.",
+              "Interiéry zámku jsou skvělé místo k ohřátí o polednách.",
+              "Teplé oblečení je nezbytné, vítr často profukuje úzkými ulicemi."
             ]
           }
         }
@@ -569,7 +619,8 @@
             "de": "Pernstein-Platz",
             "hu": "Pernštejn tér",
             "ro": "Piața Pernštejn",
-            "en": "Pernštejn Square"
+            "en": "Pernštejn Square",
+            "cs": "Pernštýnské náměstí"
           },
           "coords": [
             15.779,
@@ -585,7 +636,8 @@
             "de": "Starten Sie hier mit einem Kaffee in einem der vielen Cafés.",
             "hu": "Indítsa a napot egy kávéval a számos kávézó egyikében.",
             "ro": "Începeți ziua cu o cafea la una dintre numeroasele cafenele.",
-            "en": "Start here with a coffee at one of the many cafes."
+            "en": "Start here with a coffee at one of the many cafes.",
+            "cs": "Začněte zde s kávou v jedné z mnoha kaváren."
           }
         },
         {
@@ -593,7 +645,8 @@
             "de": "Grünes Tor",
             "hu": "Zöld kapu",
             "ro": "Poarta Verde",
-            "en": "Green Gate"
+            "en": "Green Gate",
+            "cs": "Zelená brána"
           },
           "coords": [
             15.7795,
@@ -609,7 +662,8 @@
             "de": "Schließen Sie Ihr Fahrrad unten an und genießen Sie die Aussicht.",
             "hu": "Zárja le a kerékpárt lent, és élvezze a kilátást.",
             "ro": "Legați-vă bicicleta jos și bucurați-vă de priveliște.",
-            "en": "Lock your bike at the bottom and enjoy the view."
+            "en": "Lock your bike at the bottom and enjoy the view.",
+            "cs": "Uzamkněte si kolo dole a vychutnejte si výhled."
           }
         },
         {
@@ -617,7 +671,8 @@
             "de": "Schloss Pardubice",
             "hu": "Pardubicei kastély",
             "ro": "Castelul Pardubice",
-            "en": "Pardubice Castle"
+            "en": "Pardubice Castle",
+            "cs": "Pardubický zámek"
           },
           "coords": [
             15.7755,
@@ -633,7 +688,8 @@
             "de": "Der Schlosshof ist oft für Radfahrer zugänglich.",
             "hu": "A kastély udvara gyakran nyitva áll a kerékpárosok előtt.",
             "ro": "Curtea castelului este adesea accesibilă bicicliștilor.",
-            "en": "The castle courtyard is often accessible to cyclists."
+            "en": "The castle courtyard is often accessible to cyclists.",
+            "cs": "Nádvoří zámku je často přístupné i cyklistům."
           }
         },
         {
@@ -641,7 +697,8 @@
             "de": "Tyrš-Garten",
             "hu": "Tyrš-kertek",
             "ro": "Grădinile Tyrš",
-            "en": "Tyrš Gardens"
+            "en": "Tyrš Gardens",
+            "cs": "Tyršovy sady"
           },
           "coords": [
             15.7725,
@@ -657,7 +714,8 @@
             "de": "Fahren Sie eine Runde durch den Park, bevor Sie eine Pause einlegen.",
             "hu": "Tegyen egy kört a parkban, mielőtt szünetet tart.",
             "ro": "Faceți o tură cu bicicleta prin parc înainte de a lua o pauză.",
-            "en": "Cycle a loop around the park before taking a break."
+            "en": "Cycle a loop around the park before taking a break.",
+            "cs": "Udělejte si okruh parkem na kole před přestávkou."
           }
         },
         {
@@ -665,7 +723,8 @@
             "de": "Winternitz-Mühlen",
             "hu": "Winternitz-malmok",
             "ro": "Morile Winternitz",
-            "en": "Winternitz Mills"
+            "en": "Winternitz Mills",
+            "cs": "Winternitzovy mlýny"
           },
           "coords": [
             15.768,
@@ -681,7 +740,8 @@
             "de": "Folgen Sie dem Radweg entlang der Chrudimka, um hierher zu gelangen.",
             "hu": "Kövesse a Chrudimka menti kerékpárutat, hogy ideérjen.",
             "ro": "Urmați pista de biciclete de-a lungul râului Chrudimka pentru a ajunge aici.",
-            "en": "Follow the cycle path along the Chrudimka river to get here."
+            "en": "Follow the cycle path along the Chrudimka river to get here.",
+            "cs": "Dojedete sem po cyklostezce podél řeky Chrudimky."
           }
         },
         {
@@ -689,7 +749,8 @@
             "de": "Pferderennbahn",
             "hu": "Lóversenypálya",
             "ro": "Hipodrom",
-            "en": "Racecourse"
+            "en": "Racecourse",
+            "cs": "Dostihové závodiště"
           },
           "coords": [
             15.74,
@@ -705,7 +766,8 @@
             "de": "Prüfen Sie den Rennkalender; auch ohne Rennen ist das Gelände beeindruckend.",
             "hu": "Ellenőrizze a versenynaptárt; a terület versenyek nélkül is lenyűgöző.",
             "ro": "Verificați calendarul curselor; chiar și fără curse, zona este impresionantă.",
-            "en": "Check the race calendar; even without a race, the grounds are impressive."
+            "en": "Check the race calendar; even without a race, the grounds are impressive.",
+            "cs": "Zkontrolujte termín závodů; i bez dostihu jsou prostory impozantní."
           }
         },
         {
@@ -713,7 +775,8 @@
             "de": "Ostböhmisches Theater",
             "hu": "Kelet-Csehországi Színház",
             "ro": "Teatrul Boemiei de Est",
-            "en": "East Bohemian Theatre"
+            "en": "East Bohemian Theatre",
+            "cs": "Východočeské divadlo"
           },
           "coords": [
             15.778,
@@ -729,7 +792,8 @@
             "de": "Ein kurzer Fotostopp an diesem architektonischen Juwel.",
             "hu": "Egy gyors fotómegálló ennél az építészeti gyöngyszemnél.",
             "ro": "O scurtă oprire pentru fotografii la această bijuterie arhitecturală.",
-            "en": "A quick photo stop at this architectural gem."
+            "en": "A quick photo stop at this architectural gem.",
+            "cs": "Rychlá fotostop u této architektonické perly."
           }
         },
         {
@@ -737,7 +801,8 @@
             "de": "St.-Bartholomäus-Kirche",
             "hu": "Szent Bertalan-templom",
             "ro": "Biserica Sfântul Bartolomeu",
-            "en": "St. Bartholomew's Church"
+            "en": "St. Bartholomew's Church",
+            "cs": "Kostel sv. Bartoloměje"
           },
           "coords": [
             15.777,
@@ -753,7 +818,8 @@
             "de": "Beenden Sie die Tour mit einem Moment der Besinnung.",
             "hu": "Zárja a túrát egy elmélkedő pillanattal.",
             "ro": "Încheiați turul cu un moment de reflecție.",
-            "en": "End the tour with a moment of reflection."
+            "en": "End the tour with a moment of reflection.",
+            "cs": "Ukončete prohlídku chvílí zamyšlení."
           }
         }
       ],
@@ -761,7 +827,8 @@
         "de": "Schwingen Sie sich aufs Rad und starten Sie am Pernstein-Platz. Die Route führt Sie schnell zum Grünen Tor und weiter zum Schloss. Nach einer Erkundung des Schlossgeländes und einer Pause im Tyrš-Garten folgen Sie dem Fluss zu den industriellen Winternitz-Mühlen. Die längste Etappe führt Sie zur berühmten Pferderennbahn, ein Muss für Pardubice. Auf dem Rückweg ins Zentrum machen Sie Halt am eleganten Theater und beenden die Tour an der gotischen St.-Bartholomäus-Kirche, um die Eindrücke des Tages zu sammeln.",
         "hu": "Pattanjon kerékpárra és induljon a Pernštejn térről. Az útvonal gyorsan elvezeti a Zöld kapuhoz, majd tovább a kastélyhoz. A kastély területének felfedezése és a Tyrš-kertben tartott szünet után kövesse a folyót az ipari Winternitz-malmokig. A leghosszabb szakasz a híres lóversenypályához vezet, amely Pardubicében kötelező látnivaló. Visszafelé a központba álljon meg az elegáns színháznál, és fejezze be a túrát a gótikus Szent Bertalan-templomnál, hogy összegyűjtse a nap benyomásait.",
         "ro": "Urcați-vă pe bicicletă și porniți din Piața Pernštejn. Traseul vă duce rapid la Poarta Verde și apoi la castel. După explorarea domeniului castelului și o pauză în Grădinile Tyrš, urmați râul până la Morile industriale Winternitz. Cea mai lungă etapă vă duce la faimosul hipodrom, un punct de atracție obligatoriu în Pardubice. Pe drumul de întoarcere spre centru, opriți-vă la teatrul elegant și încheiați turul la Biserica gotică Sf. Bartolomeu pentru a vă aduna impresiile zilei.",
-        "en": "Hop on your bike and start from Pernštejn Square. The route quickly takes you to the Green Gate and on to the castle. After exploring the castle grounds and taking a break in Tyrš Gardens, follow the river to the industrial Winternitz Mills. The longest leg takes you to the famous racecourse, a must-see in Pardubice. On the way back to the center, stop at the elegant theatre and finish the tour at the Gothic St. Bartholomew's Church to gather your impressions of the day."
+        "en": "Hop on your bike and start from Pernštejn Square. The route quickly takes you to the Green Gate and on to the castle. After exploring the castle grounds and taking a break in Tyrš Gardens, follow the river to the industrial Winternitz Mills. The longest leg takes you to the famous racecourse, a must-see in Pardubice. On the way back to the center, stop at the elegant theatre and finish the tour at the Gothic St. Bartholomew's Church to gather your impressions of the day.",
+        "cs": "Naskočte na kolo a vyrazte z Pernštýnského náměstí. Trasa rychle vede k Zelené bráně a dál k zámku. Po prohlídce zámeckých prostor a přestávce v Tyršových sadech pokračujte podél řeky k průmyslovým Winternitzovým mlýnům. Nejdéle pojedete k proslulému závodišti, které je v Pardubicích nutností. Cestou zpět do centra zastavte u elegantního divadla a ukončete okruh u gotického kostela sv. Bartoloměje, abyste si odnesli dojmy z dne."
       },
       "gastro_picks": {
         "de": [
@@ -917,6 +984,11 @@
           "Pardubice is relatively flat and very bike-friendly.",
           "Use the well-developed cycle paths, especially along the Elbe and Chrudimka rivers.",
           "A good lock is essential when you're sightseeing."
+        ],
+        "cs": [
+          "Pardubice jsou relativně ploché a velmi přívětivé pro kola.",
+          "Využívejte dobře rozvinuté cyklostezky, zejména podél Labe a Chrudimky.",
+          "Dobrý zámek je nezbytný při prohlídkách."
         ]
       },
       "variants": {
@@ -925,7 +997,8 @@
             "de": "Eine Radtour im Regen erfordert gute Ausrüstung. Starten Sie am Pernštejn-Platz und nutzen Sie die kurzen Wege zwischen den Sehenswürdigkeiten. Das Schloss Pardubice bietet überdachte Abstellmöglichkeiten. Am Nachmittag führt die Fahrt zu den Winternitz-Mühlen, wo Sie das Rad sicher parken und drinnen verweilen können. Ein Abstecher zur Rennbahn zeigt die Weite auch im Grau.",
             "hu": "Egy esős biciklitúra jó felszerelést igényel. Kezdjen a Pernštejn téren, kihasználva a látnivalók közötti rövid távolságokat. A pardubicei várnál fedett tárolók találhatók. Délután tekerjen a Winternitz-malmokhoz, ahol biztonságban hagyhatja a gépet a benti látogatás alatt. Egy kitérő a lóversenypályához megmutatja a táj tágasságát szürkületben is.",
             "ro": "O tură cu bicicleta pe ploaie necesită echipament bun. Începeți în Piața Pernštejn, profitând de distanțele scurte dintre obiective. Castelul Pardubice oferă locuri de parcare acoperite. După-amiaza, pedalați spre Morile Winternitz, unde puteți lăsa bicicleta în siguranță. O vizită la hipodrom vă arată orizontul larg chiar și pe vreme gri.",
-            "en": "A bike tour in the rain requires good gear. Start at Pernštejn Square, taking advantage of the short distances between sights. Pardubice Castle offers covered bike racks. In the afternoon, ride to Winternitz Mills, where you can park safely while visiting the interior. A detour to the Racecourse shows the scale of the landscape even under grey skies."
+            "en": "A bike tour in the rain requires good gear. Start at Pernštejn Square, taking advantage of the short distances between sights. Pardubice Castle offers covered bike racks. In the afternoon, ride to Winternitz Mills, where you can park safely while visiting the interior. A detour to the Racecourse shows the scale of the landscape even under grey skies.",
+            "cs": "Cyklistika v dešti vyžaduje kvalitní výbavu. Začněte na Pernštýnském náměstí a využijte krátké vzdálenosti mezi památkami. Pardubický zámek nabízí krytá stojanová místa pro kola. Odpoledne dojeďte k Winternitzovým mlýnům, kde můžete bezpečně zaparkovat při návštěvě interiérů. Odbočka na závodiště ukáže rozsah krajiny i pod šedou oblohou."
           },
           "stops": [
             {
@@ -934,7 +1007,8 @@
                 "de": "Vorsicht auf dem nassen Kopfsteinpflaster beim Anfahren.",
                 "hu": "Vigyázzon a vizes macskakövön az elinduláskor.",
                 "ro": "Atenție la pavajul umed când porniți de pe loc.",
-                "en": "Be careful on the wet cobblestones when starting off."
+                "en": "Be careful on the wet cobblestones when starting off.",
+                "cs": "Buďte opatrní na mokré dlažbě při rozjezdu."
               }
             },
             {
@@ -943,7 +1017,8 @@
                 "de": "Parken Sie Ihr Rad unter den Arkaden in der Nähe.",
                 "hu": "Parkolja le a biciklit a közeli árkádok alatt.",
                 "ro": "Parcați bicicleta sub arcadele din apropiere.",
-                "en": "Park your bike under the nearby arcades."
+                "en": "Park your bike under the nearby arcades.",
+                "cs": "Zaparkujte kolo pod blízkými arkádami."
               }
             },
             {
@@ -952,7 +1027,8 @@
                 "de": "Im Burghof gibt es meist trockene Ecken für Fahrräder.",
                 "hu": "A várudvaron általában találhatók száraz sarkok a bicikliknek.",
                 "ro": "În curtea castelului există de obicei colțuri uscate pentru biciclete.",
-                "en": "There are usually dry corners in the castle courtyard for bikes."
+                "en": "There are usually dry corners in the castle courtyard for bikes.",
+                "cs": "V zámeckém nádvoří jsou obvykle suché kouty pro kola."
               }
             },
             {
@@ -961,7 +1037,8 @@
                 "de": "Vermeiden Sie bei starkem Regen die unbefestigten Wege.",
                 "hu": "Erős esőben kerülje a nem aszfaltozott utakat.",
                 "ro": "Evitați potecile neasfaltate în caz de ploaie torențială.",
-                "en": "Avoid unpaved paths during heavy rain."
+                "en": "Avoid unpaved paths during heavy rain.",
+                "cs": "Vyhněte se nezpevněným cestám během silného deště."
               }
             },
             {
@@ -970,7 +1047,8 @@
                 "de": "Nutzen Sie den überdachten Eingangsbereich zum Abstellen.",
                 "hu": "Használja a fedett bejárati részt a parkoláshoz.",
                 "ro": "Folosiți zona de intrare acoperită pentru a lăsa bicicleta.",
-                "en": "Use the covered entrance area to park your bike."
+                "en": "Use the covered entrance area to park your bike.",
+                "cs": "Využijte kryté vstupní prostory k zaparkování kola."
               }
             },
             {
@@ -979,7 +1057,8 @@
                 "de": "Die Wege hier sind weit; achten Sie auf Pfützen.",
                 "hu": "Az utak itt tágasak; ügyeljen a tócsákra.",
                 "ro": "Drumurile de aici sunt largi; atenție la bălți.",
-                "en": "The paths here are wide; watch out for puddles."
+                "en": "The paths here are wide; watch out for puddles.",
+                "cs": "Cesty zde jsou široké; dávejte pozor na kaluže."
               }
             },
             {
@@ -988,7 +1067,8 @@
                 "de": "Kurzer Stopp; halten Sie das Rad griffbereit.",
                 "hu": "Gyors megálló; tartsa kéznél a kerékpárt.",
                 "ro": "Oprire scurtă; țineți bicicleta la îndemână.",
-                "en": "Quick stop; keep your bike ready to move."
+                "en": "Quick stop; keep your bike ready to move.",
+                "cs": "Krátká zastávka; mějte kolo připravené k rychlému pohybu."
               }
             },
             {
@@ -997,7 +1077,8 @@
                 "de": "Stellen Sie das Rad an die Kirchenwand unter den Dachvorsprung.",
                 "hu": "Támassza a biciklit a templomfalhoz az eresz alá.",
                 "ro": "Rezemați bicicleta de zidul bisericii, sub streașină.",
-                "en": "Lean your bike against the church wall under the eaves."
+                "en": "Lean your bike against the church wall under the eaves.",
+                "cs": "Opřete kolo o kostelní zeď pod římsou."
               }
             }
           ],
@@ -1029,6 +1110,13 @@
               "The bike paths along the Elbe are good but can be windy in the rain.",
               "Mudguards are essential in this weather.",
               "Use lights, as visibility can be greatly reduced during rain."
+            ],
+            "cs": [
+              "Noste nepromokavé oblečení; dlažba je za deště velmi kluzká.",
+              "Před jízdou si zkontrolujte brzdy, brzdná vzdálenost se prodlužuje.",
+              "Cyklostezky podél Labe jsou dobré, ale v dešti může být větrno.",
+              "Blatníky jsou v tomto počasí nezbytné.",
+              "Používejte světla, viditelnost může při dešti výrazně klesat."
             ]
           }
         },
@@ -1037,7 +1125,8 @@
             "de": "Eine Winter-Radtour durch Pardubice ist erfrischend. Starten Sie warm eingepackt am Pernštejn-Platz. Der Weg zum Schloss führt über festen Untergrund. Mittags bietet die Fahrt zur Rennbahn weite Ausblicke über die frostige Landschaft. Die Winternitz-Mühlen sind eine willkommene Aufwärmstation am Nachmittag, bevor Sie die beleuchtete Stadt bei Dämmerung durchqueren.",
             "hu": "A téli biciklizés Pardubicében frissítő élmény. Melegen felöltözve induljon a Pernštejn térről. A várhoz vezető út szilárd talajon halad. Délben a lóversenypálya felé tekerve gyönyörködjön a fagyos tájban. A Winternitz-malmok kiváló melegedőhely délután, mielőtt a szürkületben átvágná a kivilágított városon.",
             "ro": "O tură de iarnă cu bicicleta prin Pardubice este revigorantă. Plecați bine îmbrăcați din Piața Pernštejn. Drumul spre castel este pe teren solid. La prânz, pedalarea spre hipodrom oferă vederi largi asupra peisajului înghețat. Morile Winternitz sunt o stație de încălzire binevenită, înainte de a traversa orașul luminat la crepuscul.",
-            "en": "A winter bike tour through Pardubice is refreshing. Bundle up and start at Pernštejn Square. The path to the castle is on solid ground. At noon, the ride to the Racecourse offers wide views of the frosty landscape. Winternitz Mills are a welcome warming station in the afternoon before you cross the illuminated city at dusk."
+            "en": "A winter bike tour through Pardubice is refreshing. Bundle up and start at Pernštejn Square. The path to the castle is on solid ground. At noon, the ride to the Racecourse offers wide views of the frosty landscape. Winternitz Mills are a welcome warming station in the afternoon before you cross the illuminated city at dusk.",
+            "cs": "Zimní vyjížďka na kole po Pardubicích je osvěžující. Zabalení do tepla a start na Pernštýnském náměstí. Cesta k zámku vede po pevné zemi. O poledni nabízí jízda k závodišti široké výhledy na mrazivou krajinu. Winternitzovy mlýny jsou odpoledne vítaným místem k zahřátí před přejezdem nasvíceným městem za soumraku."
           },
           "stops": [
             {
@@ -1046,7 +1135,8 @@
                 "de": "Vorsicht vor überfrorener Nässe in schattigen Ecken.",
                 "hu": "Vigyázzon a felfagyásokra az árnyékos sarkokban.",
                 "ro": "Atenție la gheața formată în colțurile umbrite.",
-                "en": "Watch out for black ice in shaded corners."
+                "en": "Watch out for black ice in shaded corners.",
+                "cs": "Dejte pozor na černý led ve stinných zákoutích."
               }
             },
             {
@@ -1055,7 +1145,8 @@
                 "de": "Stellen Sie das Rad kurz ab, um die Aussicht zu genießen.",
                 "hu": "Hagyja ott a biciklit egy rövid időre a kilátásért.",
                 "ro": "Lăsați bicicleta pentru scurt timp pentru a vedea panorama.",
-                "en": "Leave your bike briefly to enjoy the view."
+                "en": "Leave your bike briefly to enjoy the view.",
+                "cs": "Na chvíli nechte kolo stát a vychutnejte si výhled."
               }
             },
             {
@@ -1064,7 +1155,8 @@
                 "de": "Der Schlossgraben ist im Winter oft schneebedeckt und ruhig.",
                 "hu": "A várárok télen gyakran havas és nagyon csendes.",
                 "ro": "Șanțul castelului este adesea înzăpezit și liniștit iarna.",
-                "en": "The castle moat is often snow-covered and quiet in winter."
+                "en": "The castle moat is often snow-covered and quiet in winter.",
+                "cs": "Zámecký příkop je v zimě často pokrytý sněhem a klidný."
               }
             },
             {
@@ -1073,7 +1165,8 @@
                 "de": "Fahren Sie langsam; die Wege können bei Frost glatt sein.",
                 "hu": "Hajtson lassan; az utak fagyosak és csúszósak lehetnek.",
                 "ro": "Mergeți încet; aleile pot fi alunecoase în caz de îngheț.",
-                "en": "Ride slowly; the paths can be slippery during frost."
+                "en": "Ride slowly; the paths can be slippery during frost.",
+                "cs": "Jeďte pomalu; cesty mohou být při mrazu kluzké."
               }
             },
             {
@@ -1082,7 +1175,8 @@
                 "de": "Die Innengalerien sind der perfekte Ort zum Aufwärmen.",
                 "hu": "A belső galériák tökéletesek a felmelegedéshez.",
                 "ro": "Galeriile interioare sunt locul perfect pentru încălzire.",
-                "en": "The indoor galleries are the perfect place to warm up."
+                "en": "The indoor galleries are the perfect place to warm up.",
+                "cs": "Vnitřní galerie jsou ideální místo k ohřátí."
               }
             },
             {
@@ -1091,7 +1185,8 @@
                 "de": "Ziehen Sie sich warm an, hier weht oft ein kalter Wind.",
                 "hu": "Öltözzön melegen, itt gyakran fúj a hideg szél.",
                 "ro": "Îmbrăcați-vă bine, aici bate adesea un vânt rece.",
-                "en": "Dress warmly; a cold wind often blows here."
+                "en": "Dress warmly; a cold wind often blows here.",
+                "cs": "Oblékněte se teple; často tu fouká studený vítr."
               }
             },
             {
@@ -1100,7 +1195,8 @@
                 "de": "Das Licht der Straßenlaternen spiegelt sich im Schnee.",
                 "hu": "Az utcai lámpák fénye szépen megcsillan a havon.",
                 "ro": "Lumina felinarelor se reflectă frumos în zăpadă.",
-                "en": "The light from the streetlamps reflects beautifully in the snow."
+                "en": "The light from the streetlamps reflects beautifully in the snow.",
+                "cs": "Světlo pouličních lamp se krásně odráží ve sněhu."
               }
             },
             {
@@ -1109,7 +1205,8 @@
                 "de": "Ein kurzer Moment der Stille in der geheizten Kirche.",
                 "hu": "Egy rövid csendes pillanat a fűtött templomban.",
                 "ro": "Un scurt moment de liniște în biserica încălzită.",
-                "en": "A brief moment of silence in the heated church."
+                "en": "A brief moment of silence in the heated church.",
+                "cs": "Krátká chvíle ticha v vytápěném kostele."
               }
             }
           ],
@@ -1141,6 +1238,13 @@
               "The wind chill effect is much stronger on a bike than on foot.",
               "Check tire pressure; slightly lower pressure gives better grip on snow.",
               "As it gets dark early, working lights are mandatory."
+            ],
+            "cs": [
+              "Noste termo rukavice; prsty na řídítkách rychle ochládají.",
+              "Dejte pozor na posypovou sůl, může poškodit řetěz kola.",
+              "Větrný efekt chladu je na kole mnohem silnější než pěšky.",
+              "Zkontrolujte tlak v pneumatikách; mírně nižší tlak zlepšuje trakci na sněhu.",
+              "Jelikož brzy stmívá, funkční světla jsou povinná."
             ]
           }
         }
@@ -1159,7 +1263,8 @@
             "de": "Parkplatz an der Pferderennbahn",
             "hu": "Parkoló a lóversenypályánál",
             "ro": "Parcare la Hipodrom",
-            "en": "Parking at the Racecourse"
+            "en": "Parking at the Racecourse",
+            "cs": "Parkování u závodiště"
           },
           "coords": [
             15.741,
@@ -1175,7 +1280,8 @@
             "de": "Beginnen Sie am Stadtrand, um den morgendlichen Verkehr zu meiden.",
             "hu": "Kezdje a város szélén, hogy elkerülje a reggeli forgalmat.",
             "ro": "Începeți de la periferia orașului pentru a evita traficul de dimineață.",
-            "en": "Start on the outskirts to avoid morning traffic."
+            "en": "Start on the outskirts to avoid morning traffic.",
+            "cs": "Vyrazte z okrajů města, abyste se vyhnuli ranní dopravě."
           }
         },
         {
@@ -1183,7 +1289,8 @@
             "de": "Pferderennbahn",
             "hu": "Lóversenypálya",
             "ro": "Hipodrom",
-            "en": "Racecourse"
+            "en": "Racecourse",
+            "cs": "Závodiště"
           },
           "coords": [
             15.74,
@@ -1199,7 +1306,8 @@
             "de": "Erkunden Sie das Gelände des berühmten Velká pardubická-Rennens.",
             "hu": "Fedezze fel a híres Velká pardubická verseny területét.",
             "ro": "Explorați terenul faimoasei curse Velká pardubická.",
-            "en": "Explore the grounds of the famous Velká pardubická race."
+            "en": "Explore the grounds of the famous Velká pardubická race.",
+            "cs": "Prozkoumejte areál proslulé Velké pardubické."
           }
         },
         {
@@ -1207,7 +1315,8 @@
             "de": "Parkplatz am Schloss",
             "hu": "Parkoló a kastélynál",
             "ro": "Parcare la Castel",
-            "en": "Parking at the Castle"
+            "en": "Parking at the Castle",
+            "cs": "Parkování u zámku"
           },
           "coords": [
             15.774,
@@ -1223,7 +1332,8 @@
             "de": "Parken Sie hier für den zentralen Teil Ihres Besuchs.",
             "hu": "Parkoljon itt a látogatás központi részére.",
             "ro": "Parcați aici pentru partea centrală a vizitei dumneavoastră.",
-            "en": "Park here for the central part of your visit."
+            "en": "Park here for the central part of your visit.",
+            "cs": "Zaparkujte zde pro centrální část návštěvy."
           }
         },
         {
@@ -1231,7 +1341,8 @@
             "de": "Schloss Pardubice",
             "hu": "Pardubicei kastély",
             "ro": "Castelul Pardubice",
-            "en": "Pardubice Castle"
+            "en": "Pardubice Castle",
+            "cs": "Pardubický zámek"
           },
           "coords": [
             15.7755,
@@ -1247,7 +1358,8 @@
             "de": "Besuchen Sie das Museum und spazieren Sie über die Wälle.",
             "hu": "Látogassa meg a múzeumot és sétáljon a sáncokon.",
             "ro": "Vizitați muzeul și plimbați-vă pe metereze.",
-            "en": "Visit the museum and walk the ramparts."
+            "en": "Visit the museum and walk the ramparts.",
+            "cs": "Navštivte muzeum a projděte se po hradebních chodbách."
           }
         },
         {
@@ -1255,7 +1367,8 @@
             "de": "Pernstein-Platz & Grünes Tor",
             "hu": "Pernštejn tér és Zöld kapu",
             "ro": "Piața Pernštejn și Poarta Verde",
-            "en": "Pernštejn Square & Green Gate"
+            "en": "Pernštejn Square & Green Gate",
+            "cs": "Náměstí Pernštejnů & Zelená brána"
           },
           "coords": [
             15.779,
@@ -1271,7 +1384,8 @@
             "de": "Erkunden Sie den Platz, steigen Sie auf den Turm und genießen Sie das Mittagessen hier.",
             "hu": "Fedezze fel a teret, másszon fel a toronyba, és ebédeljen itt.",
             "ro": "Explorați piața, urcați în turn și luați prânzul aici.",
-            "en": "Explore the square, climb the tower, and have lunch here."
+            "en": "Explore the square, climb the tower, and have lunch here.",
+            "cs": "Prozkoumejte náměstí, vystoupejte na věž a dejte si tu oběd."
           }
         },
         {
@@ -1279,7 +1393,8 @@
             "de": "Winternitz-Mühlen",
             "hu": "Winternitz-malmok",
             "ro": "Morile Winternitz",
-            "en": "Winternitz Mills"
+            "en": "Winternitz Mills",
+            "cs": "Winternitzovy mlýny"
           },
           "coords": [
             15.768,
@@ -1295,7 +1410,8 @@
             "de": "Ein kurzer Spaziergang vom Schloss zu diesem beeindruckenden Industriedenkmal.",
             "hu": "Egy rövid séta a kastélytól ehhez a lenyűgöző ipari műemlékhez.",
             "ro": "O scurtă plimbare de la castel la acest monument industrial impresionant.",
-            "en": "A short walk from the castle to this impressive industrial monument."
+            "en": "A short walk from the castle to this impressive industrial monument.",
+            "cs": "Krátká procházka z hradu k tomuto impozantnímu průmyslovému památce."
           }
         }
       ],
@@ -1303,7 +1419,8 @@
         "de": "Starten Sie Ihren Tag strategisch an der Pferderennbahn am Stadtrand und vermeiden Sie so den Verkehr. Nach der Erkundung dieses berühmten Ortes fahren Sie ins Zentrum und parken in der Nähe des Schlosses. Von hier aus beginnt Ihr Spaziergang: Erkunden Sie das Schloss und sein Museum. Schlendern Sie dann zum Pernstein-Platz, dem Herzen der Altstadt. Hier haben Sie Zeit, auf das Grüne Tor zu steigen und in einem der Restaurants zu Mittag zu essen. Ein letzter kurzer Spaziergang führt Sie am Nachmittag zu den architektonisch interessanten Winternitz-Mühlen, bevor Sie zu Ihrem Auto zurückkehren.",
         "hu": "Kezdje a napot stratégiailag a lóversenypályánál a város szélén, elkerülve a forgalmat. Miután felfedezte ezt a híres helyet, hajtson be a központba, és parkoljon a kastély közelében. Innen indul a séta: fedezze fel a kastélyt és múzeumát. Ezután sétáljon el a Pernštejn térre, az óváros szívébe. Itt van ideje felmászni a Zöld kapura, és megebédelni az egyik étteremben. Egy utolsó rövid séta délután az építészetileg érdekes Winternitz-malmokhoz vezet, mielőtt visszatérne az autójához.",
         "ro": "Începeți ziua strategic la Hipodromul de la marginea orașului, evitând traficul. După ce explorați acest loc faimos, conduceți spre centru și parcați lângă castel. De aici începe plimbarea: explorați castelul și muzeul său. Apoi, plimbați-vă până în Piața Pernštejn, inima orașului vechi. Aici aveți timp să urcați în Poarta Verde și să luați prânzul la unul dintre restaurante. O ultimă scurtă plimbare după-amiaza vă duce la Morile Winternitz, interesante din punct de vedere arhitectural, înainte de a vă întoarce la mașină.",
-        "en": "Start your day strategically at the racecourse on the outskirts, avoiding traffic. After exploring this famous site, drive to the center and park near the castle. Your walking tour begins here: explore the castle and its museum. Then, stroll to Pernštejn Square, the heart of the old town. Here you'll have time to climb the Green Gate and enjoy lunch at a restaurant. A final short walk in the afternoon takes you to the architecturally interesting Winternitz Mills before you return to your car."
+        "en": "Start your day strategically at the racecourse on the outskirts, avoiding traffic. After exploring this famous site, drive to the center and park near the castle. Your walking tour begins here: explore the castle and its museum. Then, stroll to Pernštejn Square, the heart of the old town. Here you'll have time to climb the Green Gate and enjoy lunch at a restaurant. A final short walk in the afternoon takes you to the architecturally interesting Winternitz Mills before you return to your car.",
+        "cs": "Začněte den strategicky na závodišti na okraji města, vyhnete se tak dopravě. Po prohlídce této slavné lokality se vydejte do centra a zaparkujte v blízkosti hradu. Odtud začíná vaše pěší trasa: prozkoumejte hrad a jeho muzeum. Poté se projděte na Náměstí Pernštejnů, srdce starého města. Zde budete mít čas vystoupat na Zelenou bránu a poobědvat v restauraci. Poslední krátká odpolední procházka vás zavede k architektonicky zajímavým Winternitzovým mlýnům, odkud se vrátíte k autu."
       },
       "gastro_picks": {
         "de": [
@@ -1458,6 +1575,11 @@
           "Park in designated parking garages or zones to avoid fines.",
           "Traffic in the city center can be heavy, especially on weekdays.",
           "Plan your route in advance to avoid one-way streets in the historic center."
+        ],
+        "cs": [
+          "Parkujte v označených parkovacích garážích nebo zónách, abyste se vyhnuli pokutám.",
+          "Doprava v centru může být hustá, zejména ve všední dny.",
+          "Plánujte trasu předem, abyste se vyhnuli jednosměrkám v historickém centru."
         ]
       },
       "variants": {
@@ -1466,7 +1588,8 @@
             "de": "Mit dem Auto erkunden Sie Pardubice auch bei Regen komfortabel. Starten Sie an der Rennbahn, wo das Parken unkompliziert ist. Danach geht es zum Schlossparkplatz, von wo aus Sie schnell im Trockenen sind. Den Nachmittag verbringen Sie flexibel zwischen dem Pernštejn-Platz und den Winternitz-Mühlen, immer nur wenige Schritte vom Auto zum nächsten Indoor-Highlight entfernt.",
             "hu": "Autóval esőben is kényelmesen felfedezheti Pardubicét. Kezdjen a lóversenypályánál, ahol a parkolás egyszerű. Ezután hajtson a vár melletti parkolóba, ahonnan gyorsan fedett helyre érhet. A délutánt töltse rugalmasan a Pernštejn tér és a Winternitz-malmok között; az autótól mindig csak pár lépés a következő benti látnivaló.",
             "ro": "Cu mașina, puteți explora Pardubice confortabil chiar și pe ploaie. Începeți la hipodrom, unde parcarea este simplă. Apoi mergeți spre parcarea castelului, de unde ajungeți repede la adăpost. Petreceți după-amiaza flexibil între Piața Pernštejn și Morile Winternitz, fiind mereu la câțiva pași de următoarea atracție interioară.",
-            "en": "By car, you can explore Pardubice comfortably even in the rain. Start at the Racecourse, where parking is straightforward. Then head to the castle parking lot, from where you can quickly reach cover. Spend the afternoon flexibly between Pernštejn Square and Winternitz Mills, always just a few steps from your car to the next indoor highlight."
+            "en": "By car, you can explore Pardubice comfortably even in the rain. Start at the Racecourse, where parking is straightforward. Then head to the castle parking lot, from where you can quickly reach cover. Spend the afternoon flexibly between Pernštejn Square and Winternitz Mills, always just a few steps from your car to the next indoor highlight.",
+            "cs": "Autem můžete Pardubice pohodlně prozkoumat i za deště. Začněte na Závodišti, kde je parkování snadné. Poté zamiřte na parkoviště u hradu, odkud rychle najdete úkryt. Odpoledne stravte flexibilně mezi Náměstím Pernštejnů a Winternitzovými mlýny, vždy jen pár kroků od auta k další zastřešené atrakci."
           },
           "stops": [
             {
@@ -1475,7 +1598,8 @@
                 "de": "Großer Parkplatz; ideal, um bei Regen direkt umzusteigen.",
                 "hu": "Tágas parkoló; ideális az esőben való gyors megálláshoz.",
                 "ro": "Parcare mare; ideală pentru a opri rapid pe ploaie.",
-                "en": "Large parking lot; ideal for a quick stop during rain."
+                "en": "Large parking lot; ideal for a quick stop during rain.",
+                "cs": "Velké parkoviště; ideální pro rychlé zastavení během deště."
               }
             },
             {
@@ -1484,7 +1608,8 @@
                 "de": "Vom Auto aus hat man einen guten Blick auf das Gelände.",
                 "hu": "Az autóból is jó rálátás nyílik a pálya területére.",
                 "ro": "Din mașină aveți o vedere bună asupra terenului.",
-                "en": "You have a good view of the grounds from the car."
+                "en": "You have a good view of the grounds from the car.",
+                "cs": "Z auta máte dobrý výhled do areálu."
               }
             },
             {
@@ -1493,7 +1618,8 @@
                 "de": "Zentraler Parkplatz, ideal für den Zugang zum Museum.",
                 "hu": "Központi parkoló, ideális a múzeum megközelítéséhez.",
                 "ro": "Parcare centrală, ideală pentru accesul la muzeu.",
-                "en": "Central parking lot, ideal for accessing the museum."
+                "en": "Central parking lot, ideal for accessing the museum.",
+                "cs": "Centrální parkoviště, ideální pro přístup do muzea."
               }
             },
             {
@@ -1502,7 +1628,8 @@
                 "de": "Nur ein kurzer Sprint vom Parkplatz zum Schlosstor.",
                 "hu": "Csak egy rövid futás a parkolótól a várkapuig.",
                 "ro": "Doar o scurtă fugă de la parcare la poarta castelului.",
-                "en": "Just a short sprint from the parking lot to the castle gate."
+                "en": "Just a short sprint from the parking lot to the castle gate.",
+                "cs": "Jen krátký sprint z parkoviště ke hradní bráně."
               }
             },
             {
@@ -1511,7 +1638,8 @@
                 "de": "Parkhäuser in der Nähe nutzen, um den Regen zu umgehen.",
                 "hu": "Használja a közeli parkolóházakat az eső elkerülésére.",
                 "ro": "Folosiți parcările etajate din apropiere pentru a evita ploaia.",
-                "en": "Use nearby parking garages to avoid the rain."
+                "en": "Use nearby parking garages to avoid the rain.",
+                "cs": "Využijte blízké parkovací garáže, abyste se vyhnuli dešti."
               }
             },
             {
@@ -1520,7 +1648,8 @@
                 "de": "Parken Sie direkt davor; der Besuch ist komplett indoor möglich.",
                 "hu": "Parkoljon közvetlenül előtte; a látogatás teljesen fedett.",
                 "ro": "Parcați chiar în față; vizita este complet în interior.",
-                "en": "Park right in front; the visit can be done entirely indoors."
+                "en": "Park right in front; the visit can be done entirely indoors.",
+                "cs": "Zaparkujte přímo před; návštěvu lze absolvovat úplně uvnitř."
               }
             }
           ],
@@ -1552,6 +1681,13 @@
               "An umbrella in the car is essential for the short walks to entrances.",
               "Roads near the Racecourse can form large puddles during heavy rain.",
               "Many cafes in the old town are just a few minutes' walk from parking zones."
+            ],
+            "cs": [
+              "Hledání místa poblíž Náměstí Pernštejnů může být v dešti komplikované; použijte garáže.",
+              "Dejte pozor na zamlžená skla; klimatizace pomáhá odvlhčit.",
+              "Deštník v autě je nezbytný pro krátké procházky k vchodům.",
+              "Na silnicích u Závodiště se při silném dešti tvoří velké kaluže.",
+              "Mnoho kaváren ve starém městě je jen pár minut chůze od parkovacích zón."
             ]
           }
         },
@@ -1560,7 +1696,8 @@
             "de": "Genießen Sie Pardubice im Winter bequem vom geheizten Auto aus. Starten Sie an der Rennbahn und bewundern Sie das frostige Gelände. Die Fahrt zum Schloss ist kurz und führt direkt zum Parkplatz am Eingang. Den Nachmittag verbringen Sie in der festlich geschmückten Altstadt und den modernen Winternitz-Mühlen, wo Sie sich zwischendurch immer wieder im Auto aufwärmen können.",
             "hu": "Élvezze a téli Pardubicét kényelmesen a fűtött autóból. Kezdjen a lóversenypályánál, és csodálja meg a fagyos tájat. A várba vezető út rövid, és közvetlenül a bejárati parkolóhoz visz. A délutánt töltse az ünnepi díszbe öltözött óvárosban és a modern Winternitz-malmoknál, közben pedig bármikor felmelegedhet az autóban.",
             "ro": "Bucurați-vă de Pardubice iarna, din confortul mașinii încălzite. Începeți la hipodrom și admirați terenul înghețat. Drumul spre castel este scurt și duce direct la parcarea de la intrare. Petreceți după-amiaza în orașul vechi decorat festiv și la Morile Winternitz, încălzindu-vă în mașină între opriri.",
-            "en": "Enjoy winter in Pardubice from the comfort of your heated car. Start at the Racecourse and admire the frosty grounds. The drive to the castle is short and leads directly to the parking lot at the entrance. Spend the afternoon in the festively decorated old town and the modern Winternitz Mills, warming up in the car between stops."
+            "en": "Enjoy winter in Pardubice from the comfort of your heated car. Start at the Racecourse and admire the frosty grounds. The drive to the castle is short and leads directly to the parking lot at the entrance. Spend the afternoon in the festively decorated old town and the modern Winternitz Mills, warming up in the car between stops.",
+            "cs": "Užijte si zimu v Pardubicích z komfortu vyhřátého auta. Začněte na Závodišti a obdivujte mrazivý areál. Jízda k hradu je krátká a vede přímo k parkovišti u vstupu. Odpoledne strávíte ve slavnostně vyzdobeném starém městě a moderních Winternitzových mlýnech, mezi zastávkami se můžete v autě zahřát."
           },
           "stops": [
             {
@@ -1569,7 +1706,8 @@
                 "de": "Vorsicht vor Eisglätte auf dem unbefestigten Teil des Parkplatzes.",
                 "hu": "Vigyázzon a jegesedésre a parkoló nem aszfaltozott részein.",
                 "ro": "Atenție la porțiunile cu gheață din partea neasfaltată a parcării.",
-                "en": "Watch out for icy patches on the unpaved parts of the parking lot."
+                "en": "Watch out for icy patches on the unpaved parts of the parking lot.",
+                "cs": "Dejte pozor na namrzlé úseky na nezpevněných částech parkoviště."
               }
             },
             {
@@ -1578,7 +1716,8 @@
                 "de": "Das Gelände wirkt im Winter weit und oft geheimnisvoll im Nebel.",
                 "hu": "A pálya télen tágasnak és gyakran titokzatosnak tűnik a ködben.",
                 "ro": "Terenul pare vast și adesea misterios în ceață pe timp de iarnă.",
-                "en": "The grounds look vast and often mysterious in the winter fog."
+                "en": "The grounds look vast and often mysterious in the winter fog.",
+                "cs": "Areál v zimní mlze působí rozsáhle a často tajemně."
               }
             },
             {
@@ -1587,7 +1726,8 @@
                 "de": "Nutzen Sie die Parkplatz-App, um Kälte am Automaten zu vermeiden.",
                 "hu": "Használja a parkolóalkalmazást, hogy ne kelljen a hidegben automatázni.",
                 "ro": "Folosiți aplicația de parcare pentru a evita frigul de la automat.",
-                "en": "Use a parking app to avoid standing in the cold at the machine."
+                "en": "Use a parking app to avoid standing in the cold at the machine.",
+                "cs": "Použijte parkovací aplikaci, abyste se vyhnuli stání v chladu u automatu."
               }
             },
             {
@@ -1596,7 +1736,8 @@
                 "de": "Die Burgmauern schützen ein wenig vor dem kalten Wind.",
                 "hu": "A várfalak némileg védelmet nyújtanak a hideg szél ellen.",
                 "ro": "Zidurile castelului oferă puțină protecție împotriva vântului rece.",
-                "en": "The castle walls provide some protection from the cold wind."
+                "en": "The castle walls provide some protection from the cold wind.",
+                "cs": "Hradní zdi poskytují částečnou ochranu před studeným větrem."
               }
             },
             {
@@ -1605,7 +1746,8 @@
                 "de": "Das Parken im Parkhaus 'Grand' ist nur ein paar Schritte entfernt.",
                 "hu": "A 'Grand' parkolóház csak pár lépésnyire van.",
                 "ro": "Parcarea în clădirea 'Grand' este la doar câțiva pași distanță.",
-                "en": "Parking in the 'Grand' garage is just a few steps away."
+                "en": "Parking in the 'Grand' garage is just a few steps away.",
+                "cs": "Parkování v garáži 'Grand' je jen pár kroků daleko."
               }
             },
             {
@@ -1614,7 +1756,8 @@
                 "de": "Ein moderner Ort, der im Winter besonders einladend strahlt.",
                 "hu": "Modern helyszín, amely télen különösen hívogatóan világít.",
                 "ro": "Un loc modern care strălucește primitor pe timp de iarnă.",
-                "en": "A modern venue that glows invitingly in the winter darkness."
+                "en": "A modern venue that glows invitingly in the winter darkness.",
+                "cs": "Moderní prostor, který v zimní tmě láká teplým světlem."
               }
             }
           ],
@@ -1646,6 +1789,13 @@
               "Keep de-icer spray and an ice scraper handy in the car.",
               "Battery performance can drop in extreme cold; check it beforehand.",
               "Use seat heating for maximum comfort between sightseeing stops."
+            ],
+            "cs": [
+              "Pozor na zledovatělé silnice, zejména na mostech přes Labe.",
+              "Parkovací garáže jsou v zimě pohodlnější než otevřená parkoviště.",
+              "Mějte v autě rozmrazovač a škrabku na led.",
+              "Výkon baterie může v extrémním chladu klesnout; zkontrolujte ji předem.",
+              "Pro maximální pohodlí mezi prohlídkami používejte vyhřívání sedadel."
             ]
           }
         }
@@ -1664,7 +1814,8 @@
             "de": "Haltestelle Třída Míru",
             "hu": "Třída Míru megálló",
             "ro": "Stația Třída Míru",
-            "en": "Třída Míru Stop"
+            "en": "Třída Míru Stop",
+            "cs": "Zastávka Třída Míru"
           },
           "coords": [
             15.7775,
@@ -1680,7 +1831,8 @@
             "de": "Ein zentraler Knotenpunkt, von dem aus Sie die Altstadt erkunden können.",
             "hu": "Központi csomópont, ahonnan felfedezheti az óvárost.",
             "ro": "Un nod central de unde puteți explora Centrul Vechi.",
-            "en": "A central hub from which to explore the Old Town."
+            "en": "A central hub from which to explore the Old Town.",
+            "cs": "Centrální uzel, odkud můžete prozkoumávat Staré město."
           }
         },
         {
@@ -1688,7 +1840,8 @@
             "de": "Grünes Tor & Pernstein-Platz",
             "hu": "Zöld kapu és Pernštejn tér",
             "ro": "Poarta Verde și Piața Pernštejn",
-            "en": "Green Gate & Pernštejn Square"
+            "en": "Green Gate & Pernštejn Square",
+            "cs": "Zelená brána & Náměstí Pernštejnů"
           },
           "coords": [
             15.779,
@@ -1704,7 +1857,8 @@
             "de": "Beginnen Sie Ihren Tag im Herzen der Stadt.",
             "hu": "Kezdje a napot a város szívében.",
             "ro": "Începeți ziua în inima orașului.",
-            "en": "Start your day in the heart of the city."
+            "en": "Start your day in the heart of the city.",
+            "cs": "Začněte den v srdci města."
           }
         },
         {
@@ -1712,7 +1866,8 @@
             "de": "Schloss Pardubice",
             "hu": "Pardubicei kastély",
             "ro": "Castelul Pardubice",
-            "en": "Pardubice Castle"
+            "en": "Pardubice Castle",
+            "cs": "Pardubický zámek"
           },
           "coords": [
             15.7755,
@@ -1728,7 +1883,8 @@
             "de": "Ein kurzer Spaziergang vom Hauptplatz zum Schlosseingang.",
             "hu": "Rövid séta a főtérről a kastély bejáratáig.",
             "ro": "O scurtă plimbare de la piața principală la intrarea castelului.",
-            "en": "A short walk from the main square to the castle entrance."
+            "en": "A short walk from the main square to the castle entrance.",
+            "cs": "Krátká procházka od hlavního náměstí k hradebnímu vchodu."
           }
         },
         {
@@ -1736,7 +1892,8 @@
             "de": "Haltestelle Automatické mlýny",
             "hu": "Automatické mlýny megálló",
             "ro": "Stația Automatické mlýny",
-            "en": "Automatické mlýny Stop"
+            "en": "Automatické mlýny Stop",
+            "cs": "Zastávka Automatické mlýny"
           },
           "coords": [
             15.767,
@@ -1752,7 +1909,8 @@
             "de": "Nehmen Sie einen Bus vom Zentrum zu diesem nächsten Cluster.",
             "hu": "Menjen busszal a központból ehhez a következő csoporthoz.",
             "ro": "Luați un autobuz din centru către acest următor grup.",
-            "en": "Take a bus from the center to this next cluster."
+            "en": "Take a bus from the center to this next cluster.",
+            "cs": "Z centra sem dojedete autobusem."
           }
         },
         {
@@ -1760,7 +1918,8 @@
             "de": "Winternitz-Mühlen",
             "hu": "Winternitz-malmok",
             "ro": "Morile Winternitz",
-            "en": "Winternitz Mills"
+            "en": "Winternitz Mills",
+            "cs": "Winternitzovy mlýny"
           },
           "coords": [
             15.768,
@@ -1776,7 +1935,8 @@
             "de": "Erkunden Sie das Gelände und die moderne Galerie im Inneren.",
             "hu": "Fedezze fel a területet és a benne lévő modern galériát.",
             "ro": "Explorați zona și galeria modernă din interior.",
-            "en": "Explore the grounds and the modern gallery inside."
+            "en": "Explore the grounds and the modern gallery inside.",
+            "cs": "Prozkoumejte areál a moderní galerii uvnitř."
           }
         },
         {
@@ -1784,7 +1944,8 @@
             "de": "Haltestelle Závodiště",
             "hu": "Závodiště megálló",
             "ro": "Stația Závodiště",
-            "en": "Závodiště Stop"
+            "en": "Závodiště Stop",
+            "cs": "Zastávka Závodiště"
           },
           "coords": [
             15.742,
@@ -1800,7 +1961,8 @@
             "de": "Eine weitere Busfahrt bringt Sie zur berühmten Pferderennbahn.",
             "hu": "Egy újabb buszút visz el a híres lóversenypályához.",
             "ro": "O altă călătorie cu autobuzul vă duce la faimosul hipodrom.",
-            "en": "Another bus ride takes you to the famous racecourse."
+            "en": "Another bus ride takes you to the famous racecourse.",
+            "cs": "Další jízda autobusem vás zavede na slavné závodiště."
           }
         },
         {
@@ -1808,7 +1970,8 @@
             "de": "Pferderennbahn",
             "hu": "Lóversenypálya",
             "ro": "Hipodrom",
-            "en": "Racecourse"
+            "en": "Racecourse",
+            "cs": "Závodiště"
           },
           "coords": [
             15.74,
@@ -1824,7 +1987,8 @@
             "de": "Spüren Sie die Atmosphäre dieses legendären Ortes.",
             "hu": "Érezze át ennek a legendás helynek a hangulatát.",
             "ro": "Simțiți atmosfera acestui loc legendar.",
-            "en": "Feel the atmosphere of this legendary place."
+            "en": "Feel the atmosphere of this legendary place.",
+            "cs": "Pocítíte atmosféru tohoto legendárního místa."
           }
         }
       ],
@@ -1832,7 +1996,8 @@
         "de": "Nutzen Sie das effiziente öffentliche Verkehrsnetz von Pardubice. Beginnen Sie im Herzen der Altstadt, die Sie von der Haltestelle Třída Míru aus zu Fuß erkunden. Nehmen Sie sich Zeit für den Pernstein-Platz, das Grüne Tor und das nahe gelegene Schloss. Nach dem Mittagessen bringt Sie ein kurzer Bus zu den beeindruckenden Winternitz-Mühlen. Ein weiterer Bus bringt Sie am Nachmittag zu Ihrem letzten großen Ziel, der berühmten Pferderennbahn. Nach der Erkundung des Geländes können Sie bequem mit dem Bus ins Zentrum zurückkehren.",
         "hu": "Használja ki Pardubice hatékony tömegközlekedési hálózatát. Kezdje az óváros szívében, amelyet a Třída Míru megállótól gyalog fedezhet fel. Szánjon időt a Pernštejn térre, a Zöld kapura és a közeli kastélyra. Ebéd után egy rövid buszút elviszi a lenyűgöző Winternitz-malmokhoz. Délután egy másik busz elviszi az utolsó nagy célponthoz, a híres lóversenypályához. A terület felfedezése után kényelmesen visszatérhet busszal a központba.",
         "ro": "Profitați de rețeaua eficientă de transport public din Pardubice. Începeți în inima Centrului Vechi, explorându-l pe jos de la stația Třída Míru. Acordați-vă timp pentru Piața Pernštejn, Poarta Verde și castelul din apropiere. După prânz, o scurtă călătorie cu autobuzul vă va duce la impresionantele Mori Winternitz. Un alt autobuz vă va duce la destinația finală majoră după-amiaza, faimosul hipodrom. După explorarea zonei, puteți reveni convenabil în centru cu autobuzul.",
-        "en": "Take advantage of Pardubice's efficient public transport network. Start in the heart of the Old Town, exploring on foot from the Třída Míru stop. Allow time for Pernštejn Square, the Green Gate, and the nearby castle. After lunch, a short bus ride will take you to the impressive Winternitz Mills. Another bus will take you to your final major destination in the afternoon, the famous racecourse. After exploring the grounds, you can conveniently return to the center by bus."
+        "en": "Take advantage of Pardubice's efficient public transport network. Start in the heart of the Old Town, exploring on foot from the Třída Míru stop. Allow time for Pernštejn Square, the Green Gate, and the nearby castle. After lunch, a short bus ride will take you to the impressive Winternitz Mills. Another bus will take you to your final major destination in the afternoon, the famous racecourse. After exploring the grounds, you can conveniently return to the center by bus.",
+        "cs": "Využijte efektivní síť veřejné dopravy Pardubic. Začněte v srdci Starého města a prozkoumejte okolí pěšky od zastávky Třída Míru. Vyhraďte si čas na Náměstí Pernštejnů, Zelenou bránu a blízký hrad. Po obědě vás krátká jízda autobusem zavede k impozantním Winternitzovým mlýnům. Další autobus vás odveze k poslední hlavní destinaci odpoledne, slavné závodiště. Po prohlídce areálu se pohodlně vrátíte zpět do centra autobusem."
       },
       "gastro_picks": {
         "de": [
@@ -1986,6 +2151,11 @@
           "Buy a day pass for public transport to save money.",
           "Download the official app for timetables and route planning.",
           "Note that buses and trolleybuses are the main form of transport."
+        ],
+        "cs": [
+          "Kupte si celodenní jízdenku na dopravu a ušetříte.",
+          "Stáhněte si oficiální aplikaci pro jízdní řády a plánování tras.",
+          "Pozor: autobusy a trolejbusy jsou hlavní formou dopravy."
         ]
       },
       "variants": {
@@ -1994,7 +2164,8 @@
             "de": "Nutzen Sie das dichte Busnetz von Pardubice, um im Regen mobil zu bleiben. Starten Sie an der Třída Míru und erreichen Sie schnell das Grüne Tor. Der Bus bringt Sie fast bis vor das Schlosstor. Nachmittags fahren Sie trocken zu den Winternitz-Mühlen und später zur Rennbahn. Die Wartezeiten an den überdachten Haltestellen sind kurz, sodass Sie kaum nass werden.",
             "hu": "Használja Pardubice sűrű autóbuszhálózatát, hogy esőben is mozgásban maradjon. Kezdjen a Třída Míru megállónál, ahonnan gyorsan elérheti a Zöld kaput. A busz majdnem a várkapuig viszi. Délután utazzon szárazon a Winternitz-malmokhoz, majd később a lóversenypályához. A fedett megállókban a várakozási idő rövid, így alig éri majd víz.",
             "ro": "Folosiți rețeaua densă de autobuze din Pardubice pentru a rămâne mobil pe ploaie. Începeți la stația Třída Míru și ajungeți rapid la Poarta Verde. Autobuzul vă lasă aproape de poarta castelului. După-amiaza, mergeți la Morile Winternitz și apoi la hipodrom. Timpul de așteptare în stațiile acoperite este scurt, deci nu vă veți uda.",
-            "en": "Use Pardubice's dense bus network to stay mobile in the rain. Start at the Třída Míru stop and quickly reach the Green Gate. The bus takes you almost to the castle gate. In the afternoon, travel dry to Winternitz Mills and later to the Racecourse. Waiting times at covered stops are short, so you'll stay mostly dry."
+            "en": "Use Pardubice's dense bus network to stay mobile in the rain. Start at the Třída Míru stop and quickly reach the Green Gate. The bus takes you almost to the castle gate. In the afternoon, travel dry to Winternitz Mills and later to the Racecourse. Waiting times at covered stops are short, so you'll stay mostly dry.",
+            "cs": "Využijte hustou síť autobusů Pardubic, abyste zůstali v suchu i za deště. Začněte na zastávce Třída Míru a rychle dorazíte ke Zelené bráně. Autobus vás doveze téměř ke hradní bráně. Odpoledne jedete suchou cestou k Winternitzovým mlýnům a později na Závodiště. Čekací doby na zastávkách s přístřeškem jsou krátké, takže zůstanete většinou v suchu."
           },
           "stops": [
             {
@@ -2003,7 +2174,8 @@
                 "de": "Zentrale Haltestelle mit gutem Regenschutz durch die umliegenden Gebäude.",
                 "hu": "Központi megálló, a környező épületek jó védelmet nyújtanak az eső ellen.",
                 "ro": "Stație centrală cu protecție bună împotriva ploii datorită clădirilor.",
-                "en": "Central stop with good rain protection from the surrounding buildings."
+                "en": "Central stop with good rain protection from the surrounding buildings.",
+                "cs": "Centrální zastávka s dobrou ochranou proti dešti ze strany okolních budov."
               }
             },
             {
@@ -2012,7 +2184,8 @@
                 "de": "Kurze Wege zu den Arkaden des Platzes, sobald Sie aussteigen.",
                 "hu": "Rövid séta a tér árkádjaihoz, amint leszáll a buszról.",
                 "ro": "Drum scurt până la arcadele pieței imediat ce coborâți.",
-                "en": "Short walk to the square's arcades as soon as you get off the bus."
+                "en": "Short walk to the square's arcades as soon as you get off the bus.",
+                "cs": "Krátká procházka k arkádám náměstí hned po vystoupení z autobusu."
               }
             },
             {
@@ -2021,7 +2194,8 @@
                 "de": "Nutzen Sie die Linien 8 oder 88 für den direkten Weg zum Schloss.",
                 "hu": "Használja a 8-as vagy 88-as vonalat a várhoz való kijutáshoz.",
                 "ro": "Folosiți liniile 8 sau 88 pentru a ajunge direct la castel.",
-                "en": "Use lines 8 or 88 for a direct route to the castle."
+                "en": "Use lines 8 or 88 for a direct route to the castle.",
+                "cs": "Využijte linky 8 nebo 88 pro přímé spojení k hradu."
               }
             },
             {
@@ -2030,7 +2204,8 @@
                 "de": "Die Haltestelle ist nur einen Katzensprung von den Mühlen entfernt.",
                 "hu": "A megálló csak egy ugrásra van a malmoktól.",
                 "ro": "Stația este la doar un pas de mori.",
-                "en": "The stop is just a stone's throw from the mills."
+                "en": "The stop is just a stone's throw from the mills.",
+                "cs": "Zastávka je jen krok od mlýnů."
               }
             },
             {
@@ -2039,7 +2214,8 @@
                 "de": "Ideal für regnerische Nachmittage mit viel Kultur im Inneren.",
                 "hu": "Ideális esős délutánokra, sok benti kulturális programmal.",
                 "ro": "Ideal pentru după-amiezi ploioase cu multă cultură la interior.",
-                "en": "Ideal for rainy afternoons with plenty of indoor culture."
+                "en": "Ideal for rainy afternoons with plenty of indoor culture.",
+                "cs": "Ideální na deštivá odpoledne s bohatou vnitřní kulturní nabídkou."
               }
             },
             {
@@ -2048,7 +2224,8 @@
                 "de": "Überdachte Haltestelle direkt vor dem Eingang der Rennbahn.",
                 "hu": "Fedett megálló közvetlenül a lóversenypálya bejárata előtt.",
                 "ro": "Stație acoperită chiar în fața intrării la hipodrom.",
-                "en": "Covered stop right in front of the Racecourse entrance."
+                "en": "Covered stop right in front of the Racecourse entrance.",
+                "cs": "Zastřešená zastávka přímo před vchodem na Závodiště."
               }
             },
             {
@@ -2057,7 +2234,8 @@
                 "de": "Die Tribünen bieten bei einem plötzlichen Schauer guten Schutz.",
                 "hu": "A lelátók jó védelmet nyújtanak egy hirtelen zápor esetén.",
                 "ro": "Tribunele oferă protecție bună în caz de aversă bruscă.",
-                "en": "The grandstands provide good protection during a sudden shower."
+                "en": "The grandstands provide good protection during a sudden shower.",
+                "cs": "Tribuny poskytují dobrou ochranu při náhlé přeháňce."
               }
             }
           ],
@@ -2089,6 +2267,13 @@
               "Most central bus stops are covered.",
               "Buses are well air-conditioned and keep you dry during the ride.",
               "Listen to the announcements on the bus so you don't miss your stop."
+            ],
+            "cs": [
+              "Kupte jízdenky bezkontaktně přímo v autobuse bankovní kartou.",
+              "Aplikace 'DPMP' ukazuje odjezdy v reálném čase – velmi užitečné v dešti.",
+              "Většina centrálních zastávek je zastřešená.",
+              "Autobusy jsou dobře klimatizované a během jízdy vás udrží v suchu.",
+              "Poslouchejte hlášení v autobuse, abyste nepřesedli svou zastávku."
             ]
           }
         },
@@ -2097,7 +2282,8 @@
             "de": "Entdecken Sie das winterliche Pardubice stressfrei mit dem öffentlichen Nahverkehr. Die geheizten Busse bringen Sie vom Zentrum direkt zum Schloss und später zu den Winternitz-Mühlen. Ein Ausflug zur frostigen Rennbahn ist dank der guten Anbindung unkompliziert. Genießen Sie die Aussicht auf die schneebedeckte Stadt durch das Busfenster, bevor Sie in die gemütliche Altstadt zurückkehren.",
             "hu": "Fedezze fel a téli Pardubicét stresszmentesen a tömegközlekedéssel. A fűtött buszok a központból közvetlenül a várhoz, majd a Winternitz-malmokhoz viszik. A lóversenypályához tett kirándulás a jó összeköttetésnek köszönhetően egyszerű. Élvezze a havas város látványát a buszablakból, mielőtt visszatérne a hangulatos óvárosba.",
             "ro": "Descoperiți Pardubice iarna fără stres, folosind transportul public. Autobuzele încălzite vă duc din centru direct la castel și apoi la Morile Winternitz. O excursie la hipodromul înghețat este simplă datorită conexiunilor bune. Admirați orașul înzăpezit prin fereastra autobuzului înainte de a reveni în centrul istoric.",
-            "en": "Discover winter in Pardubice stress-free using public transit. Heated buses take you from the center directly to the castle and later to Winternitz Mills. A trip to the frosty Racecourse is easy thanks to good connections. Enjoy the view of the snowy city through the bus window before returning to the cozy old town."
+            "en": "Discover winter in Pardubice stress-free using public transit. Heated buses take you from the center directly to the castle and later to Winternitz Mills. A trip to the frosty Racecourse is easy thanks to good connections. Enjoy the view of the snowy city through the bus window before returning to the cozy old town.",
+            "cs": "Objevujte zimu v Pardubicích bez stresu pomocí veřejné dopravy. Vyhřáté autobusy vás vezmou z centra přímo k hradu a poté k Winternitzovým mlýnům. Cesta na mrazivé Závodiště je díky dobrým spojům snadná. Užijte si výhled na zasněžené město z okna autobusu, než se vrátíte do útulného starého města."
           },
           "stops": [
             {
@@ -2106,7 +2292,8 @@
                 "de": "Zentrale Drehscheibe; viele Cafés zum Aufwärmen in unmittelbarer Nähe.",
                 "hu": "Központi csomópont; sok kávézó található a közelben melegedéshez.",
                 "ro": "Nod central; multe cafenele pentru încălzire în imediata apropiere.",
-                "en": "Central hub; many cafes nearby for warming up."
+                "en": "Central hub; many cafes nearby for warming up.",
+                "cs": "Centrální uzel; v okolí mnoho kaváren k zahřátí."
               }
             },
             {
@@ -2115,7 +2302,8 @@
                 "de": "Ein kurzer, kalter Spaziergang führt Sie direkt in die historische Pracht.",
                 "hu": "Egy rövid, hideg séta után máris a történelmi pompában találja magát.",
                 "ro": "O scurtă plimbare în frig vă duce direct în splendoarea istorică.",
-                "en": "A short, cold walk leads you directly into historical splendor."
+                "en": "A short, cold walk leads you directly into historical splendor.",
+                "cs": "Krátká, chladná procházka vás dovede přímo do historického rozmachu."
               }
             },
             {
@@ -2124,7 +2312,8 @@
                 "de": "Der Bus hält nah am Eingang, so sparen Sie sich lange Wege in der Kälte.",
                 "hu": "A busz közel áll meg a bejárathoz, így megspórolja a hidegben gyaloglást.",
                 "ro": "Autobuzul oprește aproape de intrare, evitând mersul lung prin frig.",
-                "en": "The bus stops near the entrance, saving you a long walk in the cold."
+                "en": "The bus stops near the entrance, saving you a long walk in the cold.",
+                "cs": "Autobus staví blízko vchodu, ušetří vám dlouhou chůzi v mrazu."
               }
             },
             {
@@ -2133,7 +2322,8 @@
                 "de": "Die Mühlen sind weithin sichtbar und in wenigen Minuten erreicht.",
                 "hu": "A malmok messziről látszanak, pár perc alatt elérhetőek.",
                 "ro": "Morile sunt vizibile de departe și se ajunge la ele în câteva minute.",
-                "en": "The mills are visible from afar and reached within a few minutes."
+                "en": "The mills are visible from afar and reached within a few minutes.",
+                "cs": "Mlýny jsou viditelné z dálky a dosáhnete jich během několika minut."
               }
             },
             {
@@ -2142,7 +2332,8 @@
                 "de": "Im Winter ist die moderne Beleuchtung der Mühlen besonders sehenswert.",
                 "hu": "Télen a malmok modern kivilágítása különösen szép látvány.",
                 "ro": "Iarna, iluminarea modernă a morilor este deosebit de frumoasă.",
-                "en": "In winter, the modern lighting of the mills is especially worth seeing."
+                "en": "In winter, the modern lighting of the mills is especially worth seeing.",
+                "cs": "V zimě stojí za to vidět zejména moderní osvětlení mlýnů."
               }
             },
             {
@@ -2151,7 +2342,8 @@
                 "de": "Die Haltestelle bietet Schutz vor dem oft beißenden Winterwind.",
                 "hu": "A megálló védelmet nyújt a gyakran metsző téli szél ellen.",
                 "ro": "Stația oferă protecție împotriva vântului tăios de iarnă.",
-                "en": "The stop provides protection from the often biting winter wind."
+                "en": "The stop provides protection from the often biting winter wind.",
+                "cs": "Zastávka chrání před často štiplavým zimním větrem."
               }
             },
             {
@@ -2160,7 +2352,8 @@
                 "de": "Das Gelände ist weitläufig; bleiben Sie auf den geräumten Hauptwegen.",
                 "hu": "A terület tágas; maradjon a letakarított főutakon.",
                 "ro": "Terenul este vast; rămâneți pe căile principale curățate.",
-                "en": "The grounds are vast; stay on the cleared main paths."
+                "en": "The grounds are vast; stay on the cleared main paths.",
+                "cs": "Areál je rozsáhlý; držte se vyšlapaných hlavních cest."
               }
             }
           ],
@@ -2192,6 +2385,13 @@
               "The ground at bus stops can be icy; be careful when boarding.",
               "Use the app to minimize waiting time in the cold.",
               "A small snack (gingerbread) makes waiting for the next bus easier."
+            ],
+            "cs": [
+              "Autobusy jsou pohodlně vyhřáté; ideální pro krátké přestávky mezi zastávkami.",
+              "Dávejte pozor na zimní jízdní řády, zvláště o svátcích.",
+              "Na zastávkách může být náledí; při nástupu buďte opatrní.",
+              "Použijte aplikaci, abyste minimalizovali čekání v chladu.",
+              "Malý snack (perníček) zpříjemní čekání na další autobus."
             ]
           }
         }

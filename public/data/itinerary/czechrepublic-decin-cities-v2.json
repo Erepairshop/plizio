@@ -21,7 +21,8 @@
             "de": "Masaryk-Platz",
             "hu": "Masaryk tér",
             "ro": "Piața Masaryk",
-            "en": "Masaryk Square"
+            "en": "Masaryk Square",
+            "cs": "Masarykovo náměstí"
           },
           "coords": [
             14.2125,
@@ -37,7 +38,8 @@
             "de": "Starten Sie den Tag mit einem Kaffee in einem der Cafés am Platz.",
             "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában!",
             "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
-            "en": "Start your day with a coffee at one of the cafés on the square."
+            "en": "Start your day with a coffee at one of the cafés on the square.",
+            "cs": "Začněte den kávou v jedné z kaváren na náměstí."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Synagoge Děčín",
             "hu": "Děčíni zsinagóga",
             "ro": "Sinagoga din Děčín",
-            "en": "Synagogue Děčín"
+            "en": "Synagogue Děčín",
+            "cs": "Děčínská synagoga"
           },
           "coords": [
             14.215,
@@ -61,7 +64,8 @@
             "de": "Achten Sie auf die einzigartige Mischung aus Jugendstil und maurischen Elementen.",
             "hu": "Figyelje meg a szecessziós és mór elemek egyedi keverékét!",
             "ro": "Observați amestecul unic de elemente Art Nouveau și maure.",
-            "en": "Notice the unique blend of Art Nouveau and Moorish elements."
+            "en": "Notice the unique blend of Art Nouveau and Moorish elements.",
+            "cs": "Všímejte si unikátního spojení secese a maurských prvků."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Heiligkreuzkirche",
             "hu": "Szent Kereszt templom",
             "ro": "Biserica Sfânta Cruce",
-            "en": "Church of the Holy Cross"
+            "en": "Church of the Holy Cross",
+            "cs": "Kostel Nejsvětějšího Kříže"
           },
           "coords": [
             14.2133,
@@ -85,7 +90,8 @@
             "de": "Genießen Sie die barocke Pracht und die ruhige Atmosphäre.",
             "hu": "Élvezze a barokk pompát és a csendes légkört!",
             "ro": "Bucurați-vă de splendoarea barocă și de atmosfera liniștită.",
-            "en": "Enjoy the Baroque splendor and the quiet atmosphere."
+            "en": "Enjoy the Baroque splendor and the quiet atmosphere.",
+            "cs": "Vychutnejte si barokní nádheru a klidnou atmosféru."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Schloss Děčín",
             "hu": "Děčíni kastély",
             "ro": "Castelul Děčín",
-            "en": "Děčín Castle"
+            "en": "Děčín Castle",
+            "cs": "Děčínský zámek"
           },
           "coords": [
             14.211,
@@ -109,7 +116,8 @@
             "de": "Planen Sie genug Zeit für die „Geheimgänge“-Tour ein – es lohnt sich!",
             "hu": "Szánjon elég időt a „Titkos átjárók” túrára – megéri!",
             "ro": "Planificați suficient timp pentru turul „Pasajelor Secrete” – merită!",
-            "en": "Plan enough time for the 'Secret Passages' tour - it's worth it!"
+            "en": "Plan enough time for the 'Secret Passages' tour - it's worth it!",
+            "cs": "Vyhraďte si dost času na prohlídku ‚Tajné chodby‘ – stojí za to!"
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Rosengarten (Růžová zahrada)",
             "hu": "Rózsakert (Růžová zahrada)",
             "ro": "Grădina de Trandafiri (Růžová zahrada)",
-            "en": "Rose Garden (Růžová zahrada)"
+            "en": "Rose Garden (Růžová zahrada)",
+            "cs": "Růžová zahrada (Růžová zahrada)"
           },
           "coords": [
             14.2105,
@@ -133,7 +142,8 @@
             "de": "Der beste Ort für eine Mittagspause mit herrlicher Aussicht und Duft.",
             "hu": "A legjobb hely egy ebédszünetre, csodás kilátással és illatokkal.",
             "ro": "Cel mai bun loc pentru o pauză de prânz cu priveliști și parfumuri încântătoare.",
-            "en": "The best spot for a lunch break with lovely views and scents."
+            "en": "The best spot for a lunch break with lovely views and scents.",
+            "cs": "Nejlepší místo na oběd s krásnými výhledy a vůněmi."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Altmädter Brücke (Staroměstský most)",
             "hu": "Óvárosi híd (Staroměstský most)",
             "ro": "Podul din Orașul Vechi (Staroměstský most)",
-            "en": "Old Town Bridge (Staroměstský most)"
+            "en": "Old Town Bridge (Staroměstský most)",
+            "cs": "Staroměstský most"
           },
           "coords": [
             14.2138,
@@ -157,7 +168,8 @@
             "de": "Perfekter Fotospot mit Blick auf das Schloss und die Schäferwand.",
             "hu": "Tökéletes fotóhely, kilátással a kastélyra és a Pásztorfalra.",
             "ro": "Loc perfect pentru fotografii cu vedere la castel și la Peretele Păstorului.",
-            "en": "Perfect photo spot with views of the castle and the Shepherd's Wall."
+            "en": "Perfect photo spot with views of the castle and the Shepherd's Wall.",
+            "cs": "Perfektní místo pro fotografii s výhledem na zámek a Pastýřskou stěnu."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Pastýřská stěna (Schäferwand)",
             "hu": "Pásztorfal (Pastýřská stěna)",
             "ro": "Peretele Păstorului (Pastýřská stěna)",
-            "en": "Shepherd's Wall (Pastýřská stěna)"
+            "en": "Shepherd's Wall (Pastýřská stěna)",
+            "cs": "Pastýřská stěna"
           },
           "coords": [
             14.2078,
@@ -181,7 +194,8 @@
             "de": "Nehmen Sie den Aufzug nach oben und genießen Sie die beste Aussicht auf die Stadt.",
             "hu": "Menjen fel a lifttel a csúcsra, és élvezze a város legjobb kilátását!",
             "ro": "Urcați cu liftul și bucurați-vă de cea mai bună priveliște asupra orașului.",
-            "en": "Take the elevator to the top and enjoy the best view of the city."
+            "en": "Take the elevator to the top and enjoy the best view of the city.",
+            "cs": "Vyjeďte výtahem na vrchol a užijte si nejlepší výhled na město."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Ein Spaziergang durch Děčín ist eine Reise durch die Zeit. Der Morgen beginnt am belebten Masaryk-Platz, führt Sie zur stillen Synagoge und der prächtigen Heiligkreuzkirche. Der Vormittag gehört dem majestätischen Schloss Děčín und seinem duftenden Rosengarten, wo Geschichte auf Natur trifft. Am Nachmittag überqueren Sie die Elbe über die historische Altstädter Brücke, um den atemberaubenden Ausblick von der Schäferwand zu genießen. Der Tag endet mit unvergesslichen Panoramen und dem Gefühl, das Herz von Böhmisch-Sachsen wirklich erlebt zu haben.",
         "hu": "Egy séta Děčínben időutazás. A reggel a nyüzsgő Masaryk téren indul, majd a csendes zsinagógához és a pompás Szent Kereszt templomhoz vezet. A délelőtt a fenséges děčíni kastélyé és illatos rózsakertjéé, ahol a történelem és a természet találkozik. Délután a történelmi Óvárosi hídon kel át az Elba felett, hogy élvezze a Pásztorfal lélegzetelállító kilátását. A nap felejthetetlen panorámákkal zárul, és azzal az érzéssel, hogy valóban megtapasztalta a Cseh-Svájc szívét.",
         "ro": "O plimbare prin Děčín este o călătorie în timp. Dimineața începe în vibranta Piață Masaryk, ducându-vă la sinagoga tăcută și la splendida Biserică a Sfintei Cruci. Amiaza este dedicată maiestuosului Castel Děčín și grădinii sale parfumate de trandafiri, unde istoria întâlnește natura. După-amiaza, traversați Elba peste podul istoric din Orașul Vechi pentru a vă bucura de priveliștea uluitoare de pe Peretele Păstorului. Ziua se încheie cu panorame de neuitat și sentimentul de a fi trăit cu adevărat inima Elveției Boeme.",
-        "en": "A walk through Děčín is a journey through time. The morning starts at the bustling Masaryk Square, leading you to the quiet Synagogue and the magnificent Church of the Holy Cross. The forenoon is for the majestic Děčín Castle and its fragrant Rose Garden, where history meets nature. In the afternoon, you'll cross the Elbe River over the historic Old Town Bridge to enjoy the breathtaking view from the Shepherd's Wall. The day ends with unforgettable panoramas and the feeling of having truly experienced the heart of Bohemian Switzerland."
+        "en": "A walk through Děčín is a journey through time. The morning starts at the bustling Masaryk Square, leading you to the quiet Synagogue and the magnificent Church of the Holy Cross. The forenoon is for the majestic Děčín Castle and its fragrant Rose Garden, where history meets nature. In the afternoon, you'll cross the Elbe River over the historic Old Town Bridge to enjoy the breathtaking view from the Shepherd's Wall. The day ends with unforgettable panoramas and the feeling of having truly experienced the heart of Bohemian Switzerland.",
+        "cs": "Procházka Děčínem je cestou časem. Ráno začnete na rušném Masarykově náměstí, které vás dovede k tiché synagoze a nádhernému kostelu Nejsvětějšího Kříže. Dopoledne patří majestátnímu děčínskému zámku a jeho voňavé Růžové zahradě, kde se historie setkává s přírodou. Odpoledne přejdete přes řeku Labe po historickém Staroměstském mostě, abyste si užili úchvatný výhled z Pastýřské stěny. Den končí nezapomenutelnými panoramaty a pocitem, že jste skutečně prožili srdce Českého Švýcarska."
       },
       "gastro_picks": {
         "de": [
@@ -385,6 +400,12 @@
           "The climb to the Shepherd's Wall is steep, but the view is worth the effort.",
           "Most sights are within walking distance, but plan your route to avoid unnecessary climbs.",
           "Always have some cash on hand, as not all small cafes or shops accept cards."
+        ],
+        "cs": [
+          "Mějte pohodlnou obuv, dlažební kostky ve starém městě mohou být nerovné.",
+          "Výstup na Pastýřskou stěnu je strmý, ale výhled stojí za to.",
+          "Většina památek je na dosah chůze, ale naplánujte trasu, abyste se vyhnuli zbytečným stoupáním.",
+          "Mějte u sebe hotovost, ne všechny malé kavárny nebo obchody přijímají karty."
         ]
       },
       "variants": {
@@ -393,7 +414,8 @@
             "de": "Der Tag beginnt am Masaryk-Platz, wo die umliegenden Arkaden ersten Schutz bieten. Vormittags besuchen wir die Synagoge und die Kreuzkirche, um dem Regen zu entfliehen.\n\nMittags ist das Schloss Děčín das ideale Ziel; die weitläufigen Innenräume halten uns lange im Trockenen. Ein kurzer Sprint durch den Rosengarten führt zur Sala Terrena.\n\nNachmittags überqueren wir die alte Brücke. Der Aufstieg zur Schäferwand ist bei Regen rutschig, aber das Restaurant oben belohnt uns mit einem trockenen Aussichtsplatz.\n\nAbends kehren wir in die beleuchtete Altstadt zurück. Der Regen verleiht den Gassen einen glänzenden, romantischen Schein, während wir in einer gemütlichen Weinstube einkehren.",
             "hu": "A nap a Masaryk téren indul, ahol az árkádok nyújtanak elsőként menedéket. Délelőtt a zsinagóga és a Szent Kereszt-templom belső tereiben bújunk el az eső elől.\n\nDélben a decini kastély a fő célpont; a gazdagon berendezett termekben órákig szárazon maradhatunk. A rózsakertben tett gyors séta után a Sala Terrena ad tetőt a fejünk fölé.\n\nDélután az óvárosi hídon kelünk át. A Pásztorfalhoz vezető út esőben csúszós lehet, de a fenti étteremben melegedhetünk és nézhetjük a ködös tájat.\n\nEste a kivilágított óvárosba térünk vissza. Az eső csillogóvá és romantikussá teszi a macskaköves utcákat, miközben egy barátságos borozóban pihenünk meg.",
             "ro": "Ziua începe în Piața Masaryk, unde arcadele din jur oferă primul adăpost. Dimineața vizităm sinagoga și Biserica Sfintei Cruci pentru a scăpa de ploaie.\n\nLa prânz, Castelul Děčín este destinația ideală; interioarele spațioase ne țin la adăpost de umezeală. O scurtă plimbare prin grădina de trandafiri ne duce la Sala Terrena.\n\nDupă-amiaza traversăm podul vechi. Urcarea spre Peretele Păstorului este alunecoasă pe ploaie, dar restaurantul de sus ne răsplătește cu un loc de observație uscat.\n\nSeara revenim în centrul vechi iluminat. Ploaia conferă străduțelor o strălucire romantică, în timp ce ne retragem într-o vinotecă primitoare pentru a încheia ziua.",
-            "en": "The day starts at Masaryk Square, where the surrounding arcades offer early shelter. In the morning, we visit the Synagogue and Holy Cross Church to escape the rain.\n\nAt noon, Děčín Castle is the ideal destination; its extensive interiors keep us dry for a long time. A quick dash through the Rose Garden leads to the sheltered Sala Terrena.\n\nIn the afternoon, we cross the old bridge. The climb to Shepherd's Wall can be slippery in the rain, but the restaurant at the top rewards us with a dry lookout.\n\nThe evening finds us back in the illuminated Old Town. The rain gives the alleys a glistening, romantic glow as we settle into a cozy wine bar."
+            "en": "The day starts at Masaryk Square, where the surrounding arcades offer early shelter. In the morning, we visit the Synagogue and Holy Cross Church to escape the rain.\n\nAt noon, Děčín Castle is the ideal destination; its extensive interiors keep us dry for a long time. A quick dash through the Rose Garden leads to the sheltered Sala Terrena.\n\nIn the afternoon, we cross the old bridge. The climb to Shepherd's Wall can be slippery in the rain, but the restaurant at the top rewards us with a dry lookout.\n\nThe evening finds us back in the illuminated Old Town. The rain gives the alleys a glistening, romantic glow as we settle into a cozy wine bar.",
+            "cs": "Den začíná na Masarykově náměstí, kde přilehlé arkády nabízejí ranní útočiště. Ráno navštívíme synagogu a kostel Nejsvětějšího Kříže, abychom unikli dešti.\n\nV poledne je ideálním cílem děčínský zámek; jeho rozsáhlé interiéry nás dlouho udrží v suchu. Rychlý přesun Růžovou zahradou vede k zastřešené Sala Terrena.\n\nOdpoledne přejdeme starým mostem. Výstup na Pastýřskou stěnu může být za deště kluzký, ale restaurace na vrcholu nás odmění suchým vyhlídkovým místem.\n\nVečer se vracíme do nasvíceného Starého Města. Déšť dodává uličkám lesklý, romantický nádech, když si usedáme do útulné vinárny."
           },
           "stops": [
             {
@@ -402,7 +424,8 @@
                 "de": "Nutzen Sie die Arkaden der umliegenden Häuser als Regenschutz.",
                 "hu": "Használja a környező házak árkádjait esernyő helyett.",
                 "ro": "Folosiți arcadele clădirilor din jur ca protecție împotriva ploii.",
-                "en": "Use the arcades of the surrounding buildings for rain shelter."
+                "en": "Use the arcades of the surrounding buildings for rain shelter.",
+                "cs": "Využijte arkády přilehlých budov jako úkryt před deštěm."
               }
             },
             {
@@ -411,7 +434,8 @@
                 "de": "Perfekter Ort, um die erste Regenfront im Trockenen abzuwarten.",
                 "hu": "Tökéletes hely az első esőhullám szárazon történő kivárására.",
                 "ro": "Locul perfect pentru a aștepta trecerea primei reprize de ploaie.",
-                "en": "Perfect place to wait out the first rain front in the dry."
+                "en": "Perfect place to wait out the first rain front in the dry.",
+                "cs": "Ideální místo na přestání první dešťové fronty v suchu."
               }
             },
             {
@@ -420,7 +444,8 @@
                 "de": "Stille und Trockenheit genießen, während es draußen stürmt.",
                 "hu": "Élvezze a csendet és a szárazságot, amíg kint tombol a vihar.",
                 "ro": "Bucurați-vă de liniște și uscăciune în timp ce afară plouă torențial.",
-                "en": "Enjoy the silence and dryness while it storms outside."
+                "en": "Enjoy the silence and dryness while it storms outside.",
+                "cs": "Užijte si ticho a sucho, zatímco venku zuří bouřka."
               }
             },
             {
@@ -429,7 +454,8 @@
                 "de": "Buchen Sie eine Innenführung, um dem Wetter komplett zu entgehen.",
                 "hu": "Foglaljon belső vezetést, hogy teljesen elkerülje az időjárást.",
                 "ro": "Rezervați un tur interior pentru a evita complet intemperiile.",
-                "en": "Book an indoor tour to completely avoid the weather."
+                "en": "Book an indoor tour to completely avoid the weather.",
+                "cs": "Rezervujte si vnitřní prohlídku, pokud se chcete zcela vyhnout počasí."
               }
             },
             {
@@ -438,7 +464,8 @@
                 "de": "Die Sala Terrena bietet Schutz und einen tollen Blick auf die Rosen.",
                 "hu": "A Sala Terrena védelmet és remek kilátást nyújt a rózsákra.",
                 "ro": "Sala Terrena oferă adăpost și o vedere minunată asupra trandafirilor.",
-                "en": "The Sala Terrena offers shelter and a great view of the roses."
+                "en": "The Sala Terrena offers shelter and a great view of the roses.",
+                "cs": "Sala Terrena nabízí úkryt a skvělý výhled na růže."
               }
             },
             {
@@ -447,7 +474,8 @@
                 "de": "Vorsicht auf dem nassen Pflaster; die Statuen wirken im Regen mystisch.",
                 "hu": "Vigyázat a vizes köveken; a szobrok misztikusak az esőben.",
                 "ro": "Atenție la pavajul umed; statuile par mistice în ploaie.",
-                "en": "Careful on the wet pavement; the statues look mystical in the rain."
+                "en": "Careful on the wet pavement; the statues look mystical in the rain.",
+                "cs": "Buďte opatrní na mokrém povrchu; sochy v dešti působí mysticky."
               }
             },
             {
@@ -456,7 +484,8 @@
                 "de": "Wärmen Sie sich im Restaurant bei einer heißen Suppe auf.",
                 "hu": "Melegedjen fel az étteremben egy forró leves mellett.",
                 "ro": "Încălziți-vă la restaurant cu o supă fierbinte.",
-                "en": "Warm up in the restaurant with a hot soup."
+                "en": "Warm up in the restaurant with a hot soup.",
+                "cs": "Zahřejte se v restauraci horkou polévkou."
               }
             }
           ],
@@ -484,6 +513,12 @@
               "The castle interiors are your best bet during persistent rain.",
               "Take advantage of the many cafes around the square for breaks.",
               "A pocket umbrella is often better than a long one due to the wind by the Elbe."
+            ],
+            "cs": [
+              "Noste voděodolné turistické boty kvůli dlažebním kostkám.",
+              "Interiéry zámku jsou nejlepší volba při trvalém dešti.",
+              "Využijte množství kaváren kolem náměstí k odpočinku.",
+              "Kapacitní deštník je často horší než skládací, kvůli větru u Labe je lepší kapesní."
             ]
           }
         },
@@ -492,7 +527,8 @@
             "de": "Der frostige Morgen beginnt am Masaryk-Platz, wo der Dampf heißer Getränke in der Luft hängt. Die Synagoge bietet einen ersten wärmenden Aufenthalt.\n\nMittags suchen wir die Kreuzkirche auf, bevor wir zum Schloss Děčín aufsteigen. Die dicken Mauern speichern die Kälte, aber die beheizten Museumsräume sind behaglich.\n\nNachmittags bewundern wir den Rosengarten im Winterschlaf. Da die Sonne früh untergeht, eilen wir zur Schäferwand, um das letzte Tageslicht über der Elbe zu sehen.\n\nAbends leuchten die Lichter der Stadt im dunklen Wintertal. Wir beenden die Tour in einem Restaurant bei tschechischer Hausmannskost, die perfekt gegen die Winterkälte hilft.",
             "hu": "A fagyos reggel a Masaryk téren indul, ahol forró italok gőze száll a levegőben. A zsinagóga az első melengető állomásunk.\n\nDélben a Szent Kereszt-templomba látogatunk, mielőtt felkapaszkodunk a várba. A vastag falak őrzik a hideget, de a fűtött múzeumi terek barátságosak.\n\nDélután a téli álmot alvó rózsakertet csodáljuk meg. Mivel a nap korán nyugszik, sietünk a Pásztorfalhoz, hogy elkapjuk az utolsó fényeket az Elba felett.\n\nEste a város fényei ragyognak a sötét téli völgyben. A túrát egy étteremben zárjuk cseh házias ételekkel, amik tökéletesen elűzik a téli fagyot.",
             "ro": "Dimineața geroasă începe în Piața Masaryk, unde aburul băuturilor fierbinți plutește în aer. Sinagoga oferă prima oprire pentru încălzire.\n\nLa prânz vizităm Biserica Sfintei Cruci înainte de a urca la castel. Zidurile groase păstrează frigul, dar sălile de muzeu încălzite sunt primitoare.\n\nDupă-amiaza admirăm grădina de trandafiri în somnul de iarnă. Deoarece soarele apune devreme, ne grăbim spre Peretele Păstorului pentru a vedea ultima lumină peste Elba.\n\nSeara, luminile orașului strălucesc în valea întunecată de iarnă. Încheiem turul într-un restaurant cu mâncare tradițională cehă, ideală împotriva frigului.",
-            "en": "The frosty morning starts at Masaryk Square, with the steam of hot drinks hanging in the air. The Synagogue offers the first warming stop.\n\nAt noon, we visit the Holy Cross Church before ascending to the castle. The thick walls hold the cold, but the heated museum rooms are cozy.\n\nIn the afternoon, we admire the Rose Garden in its winter sleep. As the sun sets early, we hurry to Shepherd's Wall to catch the last light over the Elbe.\n\nThe evening sees the city lights glowing in the dark winter valley. We end the tour in a restaurant with hearty Czech cuisine, perfect for fighting the winter chill."
+            "en": "The frosty morning starts at Masaryk Square, with the steam of hot drinks hanging in the air. The Synagogue offers the first warming stop.\n\nAt noon, we visit the Holy Cross Church before ascending to the castle. The thick walls hold the cold, but the heated museum rooms are cozy.\n\nIn the afternoon, we admire the Rose Garden in its winter sleep. As the sun sets early, we hurry to Shepherd's Wall to catch the last light over the Elbe.\n\nThe evening sees the city lights glowing in the dark winter valley. We end the tour in a restaurant with hearty Czech cuisine, perfect for fighting the winter chill.",
+            "cs": "Mrazivé ráno začíná na Masarykově náměstí, kde se ve vzduchu vznáší pára z horkých nápojů. Synagoga nabízí první zahřátí.\n\nV poledne navštívíme kostel Nejsvětějšího Kříže před výstupem na zámek. Tlusté zdi drží chlad, ale vytopené muzejní místnosti jsou útulné.\n\nOdpoledne obdivujeme Růžovou zahradu v zimním spánku. Protože slunce zapadá brzy, spěcháme na Pastýřskou stěnu, abychom stihli poslední světlo nad Labem.\n\nVečer svítí městská světla v temném zimním údolí. Ukončíme prohlídku v restauraci s vydatnou českou kuchyní, ideální proti zimnímu chladu."
           },
           "stops": [
             {
@@ -501,7 +537,8 @@
                 "de": "Holen Sie sich einen heißen Tee zum Mitnehmen bei den Bäckereien.",
                 "hu": "Vegyél egy forró teát a pékségekben az útra.",
                 "ro": "Luați un ceai fierbinte la pachet de la brutăriile din piață.",
-                "en": "Grab a hot tea to go from the bakeries around the square."
+                "en": "Grab a hot tea to go from the bakeries around the square.",
+                "cs": "Vezměte si s sebou horký čaj s sebou z pekáren kolem náměstí."
               }
             },
             {
@@ -510,7 +547,8 @@
                 "de": "Ein ruhiger Ort, um sich kurz vor dem Wind zu schützen.",
                 "hu": "Csendes hely, ahol rövid időre menedéket találhat a szél elől.",
                 "ro": "Un loc liniștit pentru a vă proteja scurt de vânt.",
-                "en": "A quiet place to shelter briefly from the wind."
+                "en": "A quiet place to shelter briefly from the wind.",
+                "cs": "Tiché místo na krátký úkryt před větrem."
               }
             },
             {
@@ -519,7 +557,8 @@
                 "de": "Beachten Sie die festliche Winterbeleuchtung im Inneren.",
                 "hu": "Figyelje meg a belső ünnepi téli világítást.",
                 "ro": "Observați iluminarea festivă de iarnă din interior.",
-                "en": "Note the festive winter lighting inside."
+                "en": "Note the festive winter lighting inside.",
+                "cs": "Všímejte si slavnostního zimního osvětlení uvnitř."
               }
             },
             {
@@ -528,7 +567,8 @@
                 "de": "Wärmen Sie sich in der Schlossbibliothek auf; dicke Kleidung ist ratsam.",
                 "hu": "Melegedjen fel a várkönyvtárban; vastag ruházat ajánlott.",
                 "ro": "Încălziți-vă în biblioteca castelului; se recomandă haine groase.",
-                "en": "Warm up in the castle library; thick clothing is advised."
+                "en": "Warm up in the castle library; thick clothing is advised.",
+                "cs": "Zahřejte se v zámku v knihovně; doporučujeme teplé oblečení."
               }
             },
             {
@@ -537,7 +577,8 @@
                 "de": "Auch ohne Blüten ist die barocke Struktur im Frost beeindruckend.",
                 "hu": "Virágok nélkül is lenyűgöző a barokk szerkezet a dérben.",
                 "ro": "Chiar și fără flori, structura barocă este impresionantă sub îngheț.",
-                "en": "Even without blooms, the baroque structure is impressive in the frost."
+                "en": "Even without blooms, the baroque structure is impressive in the frost.",
+                "cs": "I bez květů je barokní stavba v mrazu impozantní."
               }
             },
             {
@@ -546,7 +587,8 @@
                 "de": "Vorsicht vor Glatteis auf den Brückenplatten.",
                 "hu": "Vigyázat, a híd burkolata jegesedhet.",
                 "ro": "Atenție la polei pe plăcile podului.",
-                "en": "Beware of black ice on the bridge slabs."
+                "en": "Beware of black ice on the bridge slabs.",
+                "cs": "Dejte pozor na černý led na mostních deskách."
               }
             },
             {
@@ -555,7 +597,8 @@
                 "de": "Planen Sie die Ankunft vor 16:30 Uhr, um den Sonnenuntergang zu sehen.",
                 "hu": "Érkezzen 16:30 előtt, hogy lássa a naplementét.",
                 "ro": "Planificați sosirea înainte de 16:30 pentru a vedea apusul.",
-                "en": "Plan to arrive before 4:30 PM to see the sunset."
+                "en": "Plan to arrive before 4:30 PM to see the sunset.",
+                "cs": "Plánujte příjezd před 16:30, abyste viděli západ slunce."
               }
             }
           ],
@@ -583,6 +626,12 @@
               "Layered clothing helps against the cold wind by the river.",
               "Some outer areas of the castle might be closed during icy conditions.",
               "Czech cuisine is particularly filling and warming in winter."
+            ],
+            "cs": [
+              "Slunce zapadá brzy v údolí Labe (přibližně 16:00–16:30).",
+              "Vrstvené oblečení pomůže proti studenému větru u řeky.",
+              "Některé vnější části zámku mohou být za námraz či led zavřené.",
+              "Česká kuchyně je v zimě obzvlášť vydatná a zahřívající."
             ]
           }
         }
@@ -601,7 +650,8 @@
             "de": "Masaryk-Platz",
             "hu": "Masaryk tér",
             "ro": "Piața Masaryk",
-            "en": "Masaryk Square"
+            "en": "Masaryk Square",
+            "cs": "Masarykovo náměstí"
           },
           "coords": [
             14.2125,
@@ -617,7 +667,8 @@
             "de": "Schließen Sie Ihr Fahrrad gut ab, bevor Sie den Platz erkunden.",
             "hu": "Zárja le jól a kerékpárját, mielőtt felfedezné a teret.",
             "ro": "Asigurați-vă bine bicicleta înainte de a explora piața.",
-            "en": "Lock your bike securely before exploring the square."
+            "en": "Lock your bike securely before exploring the square.",
+            "cs": "Před prohlídkou náměstí bezpečně zamkněte kolo."
           }
         },
         {
@@ -625,7 +676,8 @@
             "de": "Altmädter Brücke (Staroměstský most)",
             "hu": "Óvárosi híd (Staroměstský most)",
             "ro": "Podul din Orașul Vechi (Staroměstský most)",
-            "en": "Old Town Bridge (Staroměstský most)"
+            "en": "Old Town Bridge (Staroměstský most)",
+            "cs": "Staroměstský most (Old Town Bridge)"
           },
           "coords": [
             14.2138,
@@ -641,7 +693,8 @@
             "de": "Nutzen Sie den Radweg entlang der Elbe für eine malerische Anfahrt.",
             "hu": "Használja az Elba menti kerékpárutat a festői megközelítéshez.",
             "ro": "Folosiți pista de biciclete de-a lungul Elbei pentru o apropiere pitorească.",
-            "en": "Use the cycle path along the Elbe for a scenic approach."
+            "en": "Use the cycle path along the Elbe for a scenic approach.",
+            "cs": "Použijte cyklostezku podél Labe pro malebný příjezd."
           }
         },
         {
@@ -649,7 +702,8 @@
             "de": "Pastýřská stěna (Schäferwand)",
             "hu": "Pásztorfal (Pastýřská stěna)",
             "ro": "Peretele Păstorului (Pastýřská stěna)",
-            "en": "Shepherd's Wall (Pastýřská stěna)"
+            "en": "Shepherd's Wall (Pastýřská stěna)",
+            "cs": "Pastýřská stěna (Shepherd's Wall)"
           },
           "coords": [
             14.2078,
@@ -665,7 +719,8 @@
             "de": "Der Anstieg ist anspruchsvoll, aber es gibt einen Radweg. E-Bike empfohlen!",
             "hu": "Az emelkedő kihívást jelent, de van kerékpárút. E-bike ajánlott!",
             "ro": "Urcușul este solicitant, dar există o pistă de biciclete. Se recomandă o bicicletă electrică!",
-            "en": "The climb is challenging, but there is a bike path. E-bike recommended!"
+            "en": "The climb is challenging, but there is a bike path. E-bike recommended!",
+            "cs": "Výšlap je náročný, ale vede tam cyklostezka. Doporučeno elektrokolo!"
           }
         },
         {
@@ -673,7 +728,8 @@
             "de": "Zoo Děčín",
             "hu": "Děčíni Állatkert",
             "ro": "Zoo Děčín",
-            "en": "Zoo Děčín"
+            "en": "Zoo Děčín",
+            "cs": "ZOO Děčín"
           },
           "coords": [
             14.2045,
@@ -689,7 +745,8 @@
             "de": "Ein toller Ort für eine längere Pause. Es gibt Fahrradständer am Eingang.",
             "hu": "Nagyszerű hely egy hosszabb szünetre. A bejáratnál kerékpártárolók találhatók.",
             "ro": "Un loc minunat pentru o pauză mai lungă. Există suporturi pentru biciclete la intrare.",
-            "en": "A great place for a longer break. There are bike racks at the entrance."
+            "en": "A great place for a longer break. There are bike racks at the entrance.",
+            "cs": "Skvělé místo na delší přestávku. U vstupu jsou stojany na kola."
           }
         },
         {
@@ -697,7 +754,8 @@
             "de": "Schloss Děčín",
             "hu": "Děčíni kastély",
             "ro": "Castelul Děčín",
-            "en": "Děčín Castle"
+            "en": "Děčín Castle",
+            "cs": "Děčínský zámek"
           },
           "coords": [
             14.211,
@@ -713,7 +771,8 @@
             "de": "Schieben Sie das Rad den steilen Schlossweg hinauf. Oben werden Sie belohnt.",
             "hu": "Tolja fel a biciklit a meredek kastélyúton. Fent jutalomban lesz része.",
             "ro": "Împingeți bicicleta pe drumul abrupt al castelului. Veți fi răsplătit la vârf.",
-            "en": "Push the bike up the steep castle road. You'll be rewarded at the top."
+            "en": "Push the bike up the steep castle road. You'll be rewarded at the top.",
+            "cs": "Kolo tlačte do prudké zámecké cesty. Nahoru budete odměněni."
           }
         },
         {
@@ -721,7 +780,8 @@
             "de": "Rosengarten (Růžová zahrada)",
             "hu": "Rózsakert (Růžová zahrada)",
             "ro": "Grădina de Trandafiri (Růžová zahrada)",
-            "en": "Rose Garden (Růžová zahrada)"
+            "en": "Rose Garden (Růžová zahrada)",
+            "cs": "Růžová zahrada (Rose Garden)"
           },
           "coords": [
             14.2105,
@@ -737,7 +797,8 @@
             "de": "Lassen Sie Ihr Fahrrad am Schlosseingang und genießen Sie den Garten zu Fuß.",
             "hu": "Hagyja a kerékpárt a kastély bejáratánál, és élvezze a kertet gyalog.",
             "ro": "Lăsați bicicleta la intrarea în castel și bucurați-vă de grădină pe jos.",
-            "en": "Leave your bike at the castle entrance and enjoy the garden on foot."
+            "en": "Leave your bike at the castle entrance and enjoy the garden on foot.",
+            "cs": "Nechte kolo u vchodu do zámku a zahradu si projděte pěšky."
           }
         },
         {
@@ -745,7 +806,8 @@
             "de": "Heiligkreuzkirche",
             "hu": "Szent Kereszt templom",
             "ro": "Biserica Sfânta Cruce",
-            "en": "Church of the Holy Cross"
+            "en": "Church of the Holy Cross",
+            "cs": "Kostel sv. Kříže (Church of the Holy Cross)"
           },
           "coords": [
             14.2133,
@@ -761,7 +823,8 @@
             "de": "Ein Moment der Ruhe nach einer langen Radtour.",
             "hu": "Egy pillanatnyi csend egy hosszú kerékpártúra után.",
             "ro": "Un moment de liniște după o plimbare lungă cu bicicleta.",
-            "en": "A moment of peace after a long bike ride."
+            "en": "A moment of peace after a long bike ride.",
+            "cs": "Chvíle klidu po dlouhé cyklistice."
           }
         }
       ],
@@ -769,7 +832,8 @@
         "de": "Erkunden Sie Děčín auf zwei Rädern. Der Morgen beginnt am Masaryk-Platz, gefolgt von einer Fahrt über die Elbe, um die Herausforderung der Schäferwand anzunehmen. Die Belohnung ist eine fantastische Aussicht und ein Besuch im Zoo. Gegen Mittag überqueren Sie den Fluss erneut und erklimmen den Schlosshügel. Dort erwartet Sie das prächtige Schloss und der ruhige Rosengarten. Der Nachmittag klingt mit einem besinnlichen Besuch in der Heiligkreuzkirche aus, bevor Sie zurück ins Stadtzentrum rollen. Eine perfekte Mischung aus sportlicher Aktivität und Kultur.",
         "hu": "Fedezze fel Děčínt két keréken! A reggel a Masaryk téren indul, majd átkel az Elbán, hogy megküzdjön a Pásztorfal kihívásával. A jutalom egy fantasztikus kilátás és egy látogatás az állatkertben. Dél körül újra átkel a folyón, és megmássza a kastélydombot. Ott várja a pompás kastély és a csendes Rózsakert. A délután a Szent Kereszt templomban tett elmélkedő látogatással zárul, mielőtt visszagurulna a városközpontba. A sportos tevékenység és a kultúra tökéletes keveréke.",
         "ro": "Explorați Děčín pe două roți. Dimineața începe în Piața Masaryk, urmată de o plimbare peste Elba pentru a accepta provocarea Peretelui Păstorului. Recompensa este o priveliște fantastică și o vizită la grădina zoologică. În jurul prânzului, traversați din nou râul și urcați pe dealul castelului. Acolo vă așteaptă magnificul castel și liniștita Grădină de Trandafiri. După-amiaza se încheie cu o vizită contemplativă la Biserica Sfânta Cruce înainte de a vă întoarce în centrul orașului. Un amestec perfect de activitate sportivă și cultură.",
-        "en": "Explore Děčín on two wheels. The morning starts at Masaryk Square, followed by a ride across the Elbe to take on the challenge of the Shepherd's Wall. The reward is a fantastic view and a visit to the zoo. Around noon, you'll cross the river again and climb the castle hill. The magnificent castle and the peaceful Rose Garden await you there. The afternoon ends with a contemplative visit to the Church of the Holy Cross before rolling back to the city center. A perfect mix of sporting activity and culture."
+        "en": "Explore Děčín on two wheels. The morning starts at Masaryk Square, followed by a ride across the Elbe to take on the challenge of the Shepherd's Wall. The reward is a fantastic view and a visit to the zoo. Around noon, you'll cross the river again and climb the castle hill. The magnificent castle and the peaceful Rose Garden await you there. The afternoon ends with a contemplative visit to the Church of the Holy Cross before rolling back to the city center. A perfect mix of sporting activity and culture.",
+        "cs": "Prozkoumejte Děčín na dvou kolech. Ráno začíná na Masarykově náměstí, poté přejedete přes Labe a vyzvete se na Pastýřskou stěnu. Odměnou je fantastický výhled a návštěva zoo. Kolem poledne znovu přejedete řeku a vylezete na zámecký vrch. Tam na vás čeká majestátní zámek a poklidná Růžová zahrada. Odpoledne končíme přemýšlivou návštěvou Kostela sv. Kříže, než se vrátíte do centra. Dokonalá směs sportu a kultury."
       },
       "gastro_picks": {
         "de": [
@@ -969,6 +1033,13 @@
           "Use the well-developed Elbe Cycle Path for flat and scenic routes.",
           "Be aware of cobblestones and pedestrians in the city center.",
           "Bring enough water, especially for the climb to the Shepherd's Wall."
+        ],
+        "cs": [
+          "Zkontrolujte tlak v pneumatikách a brzdy před vyjetím.",
+          "Pro kopcovitou oblast kolem města se silně doporučuje elektrokolo.",
+          "Pro rovné a malebné trasy využijte dobře rozvinutou Labskou cyklostezku.",
+          "Ve středu města dávejte pozor na kostky a chodce.",
+          "Vezměte dostatek vody, obzvlášť na výšlap k Pastýřské stěně."
         ]
       },
       "variants": {
@@ -977,7 +1048,8 @@
             "de": "Die Radtour startet am Masaryk-Platz; bei Regen ist auf den Gleisen und dem Kopfsteinpflaster Vorsicht geboten. Die Brücke führt uns schnell Richtung Elbe.\n\nMittags erreichen wir die Schäferwand. Der Anstieg ist anstrengend, aber das Restaurant oben bietet den perfekten Regenschutz für Radfahrer.\n\nNachmittags besuchen wir den Zoo Děčín, wo einige Tierhäuser trockene Beobachtungen ermöglichen. Danach geht es zum Schloss, wo die Fahrräder im Innenhof sicher stehen.\n\nAbends beenden wir die Tour an der Kreuzkirche. Die Rückfahrt zum Zentrum verläuft auf nassen Wegen, die im Schein der Laternen wunderschön spiegeln.",
             "hu": "A kerékpártúra a Masaryk téren indul; esőben vigyázni kell a síneken és a macskaköveken. A híd gyorsan az Elba felé vezet minket.\n\nDélben elérjük a Pásztorfalat. Az emelkedő fárasztó, de a fenti étterem tökéletes esővédelmet nyújt a bringásoknak.\n\nDélután a decini állatkertet látogatjuk meg, ahol az állatházak száraz megfigyelést tesznek lehetővé. Ezután a várba megyünk, ahol a bringák biztonságban vannak.\n\nEste a Szent Kereszt-templomnál zárjuk a túrát. A központba vezető út vizes, de a lámpafényben gyönyörűen tükröződő aszfalton vezet.",
             "ro": "Turul cu bicicleta începe în Piața Masaryk; pe ploaie trebuie avut grijă la șine și pavaj. Podul ne conduce rapid spre malul Elbei.\n\nLa prânz ajungem la Peretele Păstorului. Urcarea este solicitantă, dar restaurantul de sus oferă protecția perfectă împotriva ploii pentru bicicliști.\n\nDupă-amiaza vizităm Grădina Zoologică Děčín, unde pavilioanele permit observații la uscat. Apoi mergem la castel, unde bicicletele pot sta în siguranță în curte.\n\nSeara încheiem turul la Biserica Sfintei Cruci. Drumul de întoarcere spre centru se desfășoară pe piste umede care reflectă frumos luminile orașului.",
-            "en": "The bike tour starts at Masaryk Square; in the rain, caution is needed on tram tracks and cobblestones. The bridge leads us quickly toward the Elbe.\n\nAt noon, we reach Shepherd's Wall. The climb is taxing, but the restaurant at the top offers the perfect rain shelter for cyclists.\n\nIn the afternoon, we visit Děčín Zoo, where several animal houses allow for dry viewing. Then we head to the castle, where bikes can be parked safely in the courtyard.\n\nIn the evening, we finish at the Holy Cross Church. The ride back to the center is on wet paths that reflect the streetlights beautifully."
+            "en": "The bike tour starts at Masaryk Square; in the rain, caution is needed on tram tracks and cobblestones. The bridge leads us quickly toward the Elbe.\n\nAt noon, we reach Shepherd's Wall. The climb is taxing, but the restaurant at the top offers the perfect rain shelter for cyclists.\n\nIn the afternoon, we visit Děčín Zoo, where several animal houses allow for dry viewing. Then we head to the castle, where bikes can be parked safely in the courtyard.\n\nIn the evening, we finish at the Holy Cross Church. The ride back to the center is on wet paths that reflect the streetlights beautifully.",
+            "cs": "Cyklotrasa začíná na Masarykově náměstí; v dešti buďte opatrní na tramvajových kolejích a dlažbě. Most nás rychle dovede k Labi.\n\nO poledni dorazíme k Pastýřské stěně. Výstup je náročný, ale restaurace na vrcholu nabízí ideální úkryt před deštěm pro cyklisty.\n\nOdpoledne navštívíme ZOO Děčín, kde několik pavilonů umožňuje suché pozorování zvířat. Poté zamíříme na zámek, kde lze kola bezpečně zaparkovat v nádvoří.\n\nVečer zakončíme u Kostela sv. Kříže. Cesta zpět do centra vede po mokrých cestách, které krásně odrážejí pouliční osvětlení."
           },
           "stops": [
             {
@@ -986,7 +1058,8 @@
                 "de": "Vorsicht beim Überqueren der nassen Schienen mit dem Rad.",
                 "hu": "Vigyázzon a nedves síneken való áthaladáskor a biciklivel.",
                 "ro": "Atenție la traversarea șinelor umede cu bicicleta.",
-                "en": "Watch out when crossing wet tracks with your bike."
+                "en": "Watch out when crossing wet tracks with your bike.",
+                "cs": "Dejte pozor při přejíždění mokrých kolejí na kole."
               }
             },
             {
@@ -995,7 +1068,8 @@
                 "de": "Schieben Sie das Rad bei starkem Regen für mehr Sicherheit.",
                 "hu": "Erős esőben tolja a biciklit a biztonság érdekében.",
                 "ro": "Împingeți bicicleta în caz de ploaie torențială pentru siguranță.",
-                "en": "Push your bike during heavy rain for better safety."
+                "en": "Push your bike during heavy rain for better safety.",
+                "cs": "Za silného deště kolo raději tlačte pro větší bezpečí."
               }
             },
             {
@@ -1004,7 +1078,8 @@
                 "de": "Der asphaltierte Weg ist griffiger als der Waldpfad.",
                 "hu": "Az aszfaltozott út jobban tapad, mint az erdei ösvény.",
                 "ro": "Drumul asfaltat are aderență mai bună decât poteca prin pădure.",
-                "en": "The paved road has better grip than the forest path."
+                "en": "The paved road has better grip than the forest path.",
+                "cs": "Zpevněná vozovka má lepší přilnavost než lesní cesta."
               }
             },
             {
@@ -1013,7 +1088,8 @@
                 "de": "Parken Sie das Rad im Eingangsbereich unter dem Vordach.",
                 "hu": "Parkolja a biciklit a bejáratnál az előtető alatt.",
                 "ro": "Parcați bicicleta în zona de intrare sub copertină.",
-                "en": "Park your bike near the entrance under the overhang."
+                "en": "Park your bike near the entrance under the overhang.",
+                "cs": "Zaparkujte kolo u vchodu pod přesahem střechy."
               }
             },
             {
@@ -1022,7 +1098,8 @@
                 "de": "Der Schlosshof bietet teils überdachte Abstellmöglichkeiten.",
                 "hu": "A várudvar részben fedett tárolási lehetőséget kínál.",
                 "ro": "Curtea castelului oferă locuri de parcare parțial acoperite.",
-                "en": "The castle courtyard offers some covered parking spots."
+                "en": "The castle courtyard offers some covered parking spots.",
+                "cs": "Zámecké nádvoří nabízí některá krytá parkovací místa pro kola."
               }
             },
             {
@@ -1031,7 +1108,8 @@
                 "de": "Kurze Pause in der Sala Terrena einlegen.",
                 "hu": "Tartson rövid szünetet a Sala Terrenában.",
                 "ro": "Faceți o scurtă pauză în Sala Terrena.",
-                "en": "Take a short break in the Sala Terrena."
+                "en": "Take a short break in the Sala Terrena.",
+                "cs": "Dejte si krátkou pauzu v Sala Terrena."
               }
             },
             {
@@ -1040,7 +1118,8 @@
                 "de": "Letzter Stopp vor der Rückfahrt zum Hotel.",
                 "hu": "Utolsó állomás a szállás felé vezető út előtt.",
                 "ro": "Ultima oprire înainte de întoarcerea la hotel.",
-                "en": "Last stop before heading back to your accommodation."
+                "en": "Last stop before heading back to your accommodation.",
+                "cs": "Poslední zastávka před návratem do ubytování."
               }
             }
           ],
@@ -1068,6 +1147,12 @@
               "Avoid steep forest paths; stick to paved roads instead.",
               "Brake early and gently on wet cobblestones.",
               "A cycling poncho protects better against wind than an umbrella."
+            ],
+            "cs": [
+              "Blatníky jsou v Děčíně nezbytností při jízdě v dešti.",
+              "Vyhněte se strmým lesním cestám; držte se zpevněných silnic.",
+              "Brzděte včas a jemně na mokré dlažbě.",
+              "Cyklistický pončo lépe chrání proti větru než deštník."
             ]
           }
         },
@@ -1076,7 +1161,8 @@
             "de": "Die Winter-Radtour beginnt am Masaryk-Platz; die kalte Luft im Elbtal erfordert gute Handschuhe. Der Weg führt über die Brücke, wo wir den Blick auf die Eisschollen genießen.\n\nMittags erklimmen wir die Schäferwand. Der Ausblick auf das verschneite Děčín ist die Mühe wert. Im Restaurant gibt es heißen Tee zur Stärkung.\n\nNachmittags geht es zum Zoo. Viele Tiere sind im Winter aktiv, und die Wege sind meist geräumt. Danach radeln wir zum Schloss, dessen barocke Fassade im Winterlicht strahlt.\n\nAbends besuchen wir den Rosengarten und die Kreuzkirche. Die Tour endet bei Einbruch der Dunkelheit, wenn die Stadtlichter die winterliche Kälte etwas vergessen machen.",
             "hu": "A téli kerékpártúra a Masaryk téren indul; az Elba-völgyi hideg levegő miatt jó kesztyűre lesz szükség. Az úton a hídon át élvezzük a kilátást a zajló jégre.\n\nDélben feltekerünk a Pásztorfalhoz. A havas Decin látványa megéri az erőfeszítést. Az étteremben forró tea vár a felfrissüléshez.\n\nDélután az állatkertbe megyünk. Sok állat télen is aktív, az utak pedig többnyire takarítottak. Ezután a várba tekerünk, melynek homlokzata ragyog a téli fényben.\n\nEste a rózsakertet és a templomot látogatjuk meg. A túra sötétedéskor ér véget, amikor a város fényei elfeledtetik a téli hideget.",
             "ro": "Turul de iarnă cu bicicleta începe în Piața Masaryk; aerul rece din valea Elbei necesită mănuși bune. Drumul trece peste pod, de unde admirăm sloiurile de gheață.\n\nLa prânz urcăm la Peretele Păstorului. Vederea asupra orașului înzăpezit merită efortul. La restaurant găsim ceai fierbinte pentru revigorare.\n\nDupă-amiaza mergem la Grădina Zoologică. Multe animale sunt active iarna, iar aleile sunt de obicei curățate. Apoi pedalăm spre castel, a cărui fațadă strălucește în lumina iernii.\n\nSeara vizităm grădina de trandafiri și biserica. Turul se încheie la lăsarea întunericului, când luminile orașului fac frigul iernii mai suportabil.",
-            "en": "The winter bike tour starts at Masaryk Square; the cold air in the Elbe valley calls for good gloves. The route goes over the bridge, offering views of ice floes.\n\nAt noon, we climb up to Shepherd's Wall. The view of snowy Děčín is worth the effort. The restaurant provides hot tea for replenishment.\n\nIn the afternoon, we head to the Zoo. Many animals are active in winter, and paths are usually cleared. Then we cycle to the castle, its facade glowing in the winter light.\n\nIn the evening, we visit the Rose Garden and the church. The tour ends at nightfall when the city lights help you forget the winter chill."
+            "en": "The winter bike tour starts at Masaryk Square; the cold air in the Elbe valley calls for good gloves. The route goes over the bridge, offering views of ice floes.\n\nAt noon, we climb up to Shepherd's Wall. The view of snowy Děčín is worth the effort. The restaurant provides hot tea for replenishment.\n\nIn the afternoon, we head to the Zoo. Many animals are active in winter, and paths are usually cleared. Then we cycle to the castle, its facade glowing in the winter light.\n\nIn the evening, we visit the Rose Garden and the church. The tour ends at nightfall when the city lights help you forget the winter chill.",
+            "cs": "Zimní cyklotrasa začíná na Masarykově náměstí; chladný vzduch v údolí Labe volá po dobrých rukavicích. Trasa vede přes most s výhledem na ledové kry.\n\nO poledni stoupáme na Pastýřskou stěnu. Pohled na zasněžený Děčín stojí za námahu. Restaurace nabízí horký čaj k doplnění sil.\n\nOdpoledne míříme do ZOO. Mnoho zvířat je v zimě aktivních a stezky jsou obvykle uklizené. Poté zamíříme ke zámku, jehož fasáda září v zimním světle.\n\nVečer navštívíme Růžovou zahradu a kostel. Výlet končí za soumraku, kdy městská světla pomáhají zapomenout na zimní chlad."
           },
           "stops": [
             {
@@ -1085,7 +1171,8 @@
                 "de": "Vorsicht bei gefrorenem Kondenswasser auf den Gleisen.",
                 "hu": "Vigyázzon a síneken megfagyott pára miatt.",
                 "ro": "Atenție la condensul înghețat de pe șine.",
-                "en": "Watch out for frozen condensation on the tracks."
+                "en": "Watch out for frozen condensation on the tracks.",
+                "cs": "Pozor na zmrzlou kondenzaci na kolejích."
               }
             },
             {
@@ -1094,7 +1181,8 @@
                 "de": "Die Brücke kann durch den Wind besonders kalt und zugig sein.",
                 "hu": "A híd a szél miatt különösen hideg és huzatos lehet.",
                 "ro": "Podul poate fi deosebit de rece din cauza vântului.",
-                "en": "The bridge can be particularly cold and drafty due to the wind."
+                "en": "The bridge can be particularly cold and drafty due to the wind.",
+                "cs": "Most může být kvůli větru zvlášť studený a průvanu plný."
               }
             },
             {
@@ -1103,7 +1191,8 @@
                 "de": "Bei Schnee ist der steile Weg nur für erfahrene Radler ratsam.",
                 "hu": "Hóban a meredek út csak tapasztalt bicikliseknek ajánlott.",
                 "ro": "În caz de zăpadă, drumul abrupt este recomandat doar bicicliștilor experimentați.",
-                "en": "In snow, the steep road is only advised for experienced cyclists."
+                "en": "In snow, the steep road is only advised for experienced cyclists.",
+                "cs": "Ve sněhu je prudká cesta doporučena jen zkušeným cyklistům."
               }
             },
             {
@@ -1112,7 +1201,8 @@
                 "de": "Wärmen Sie sich im Exotarium (Vogelhaus) kurz auf.",
                 "hu": "Melegedjen fel rövid időre az Exotáriumban (madárház).",
                 "ro": "Încălziți-vă scurt în Exotarium (casa păsărilor).",
-                "en": "Warm up briefly in the Exotarium (bird house)."
+                "en": "Warm up briefly in the Exotarium (bird house).",
+                "cs": "Na chvilku se zahřejte v Exotariu (pavilon ptáků)."
               }
             },
             {
@@ -1121,7 +1211,8 @@
                 "de": "Nutzen Sie die Schlossführungen für eine längere Aufwärmpause.",
                 "hu": "Használja a várvezetéseket egy hosszabb melegedő szünetre.",
                 "ro": "Folosiți tururile castelului pentru o pauză mai lungă de încălzire.",
-                "en": "Use the castle tours for a longer warming break."
+                "en": "Use the castle tours for a longer warming break.",
+                "cs": "Využijte prohlídky zámku jako delší zahřívací přestávku."
               }
             },
             {
@@ -1130,7 +1221,8 @@
                 "de": "Die winterliche Ruhe hier ist einmalig.",
                 "hu": "A téli nyugalom itt egyedülálló.",
                 "ro": "Liniștea de iarnă de aici este unică.",
-                "en": "The winterly peace here is unique."
+                "en": "The winterly peace here is unique.",
+                "cs": "Zdejší zimní klid je jedinečný."
               }
             },
             {
@@ -1139,7 +1231,8 @@
                 "de": "Licht an! Im Winter wird es in den Gassen schnell dunkel.",
                 "hu": "Lámpát fel! Télen gyorsan sötétedik az utcákon.",
                 "ro": "Aprindeți luminile! Iarna se întunecă repede pe străduțe.",
-                "en": "Lights on! It gets dark quickly in the alleys during winter."
+                "en": "Lights on! It gets dark quickly in the alleys during winter.",
+                "cs": "Svíťte! V uličkách se v zimě rychle stmívá."
               }
             }
           ],
@@ -1167,6 +1260,12 @@
               "Your e-bike battery will last significantly less in the cold.",
               "Check in advance if the paths to Shepherd's Wall are cleared.",
               "Warm drinks in a thermos are a lifesaver."
+            ],
+            "cs": [
+              "Noste neprofukové oblečení, zejména při sjezdech.",
+              "Baterie u elektrokola vydrží v chladu výrazně méně.",
+              "Předem zkontrolujte, zda jsou cesty k Pastýřské stěně uklizené.",
+              "Teplé nápoje v termosce jsou zachránou."
             ]
           }
         }
@@ -1185,7 +1284,8 @@
             "de": "Parken am Masaryk-Platz",
             "hu": "Parkolás a Masaryk téren",
             "ro": "Parcare în Piața Masaryk",
-            "en": "Parking at Masaryk Square"
+            "en": "Parking at Masaryk Square",
+            "cs": "Parkování na Masarykově náměstí"
           },
           "coords": [
             14.212,
@@ -1201,7 +1301,8 @@
             "de": "Hier beginnt der erste Stadtrundgang. Parken Sie Ihr Auto und erkunden Sie die Altstadt zu Fuß.",
             "hu": "Itt kezdődik az első városnéző séta. Parkolja le az autót, és fedezze fel az óvárost gyalog.",
             "ro": "Primul tur pietonal al orașului începe aici. Parcați mașina și explorați orașul vechi pe jos.",
-            "en": "The first city walking tour starts here. Park your car and explore the old town on foot."
+            "en": "The first city walking tour starts here. Park your car and explore the old town on foot.",
+            "cs": "První městská procházka začíná zde. Zaparkujte auto a prozkoumejte staré město pěšky."
           }
         },
         {
@@ -1209,7 +1310,8 @@
             "de": "Synagoge Děčín",
             "hu": "Děčíni zsinagóga",
             "ro": "Sinagoga din Děčín",
-            "en": "Synagogue Děčín"
+            "en": "Synagogue Děčín",
+            "cs": "Židovská synagoga Děčín"
           },
           "coords": [
             14.215,
@@ -1225,7 +1327,8 @@
             "de": "Ein kurzer Spaziergang vom Hauptplatz entfernt.",
             "hu": "Rövid séta a főtértől.",
             "ro": "La o scurtă plimbare de piața principală.",
-            "en": "A short walk from the main square."
+            "en": "A short walk from the main square.",
+            "cs": "Krátká procházka od hlavního náměstí."
           }
         },
         {
@@ -1233,7 +1336,8 @@
             "de": "Heiligkreuzkirche",
             "hu": "Szent Kereszt templom",
             "ro": "Biserica Sfânta Cruce",
-            "en": "Church of the Holy Cross"
+            "en": "Church of the Holy Cross",
+            "cs": "Kostel sv. Kříže"
           },
           "coords": [
             14.2133,
@@ -1249,7 +1353,8 @@
             "de": "Der Weg führt durch die Gassen der Altstadt hinauf zur Kirche.",
             "hu": "Az út az óváros sikátorain keresztül vezet fel a templomhoz.",
             "ro": "Calea urcă spre biserică prin aleile orașului vechi.",
-            "en": "The path leads up to the church through the old town alleys."
+            "en": "The path leads up to the church through the old town alleys.",
+            "cs": "Cesta vede k kostelu po uličkách starého města."
           }
         },
         {
@@ -1257,7 +1362,8 @@
             "de": "Schloss Děčín",
             "hu": "Děčíni kastély",
             "ro": "Castelul Děčín",
-            "en": "Děčín Castle"
+            "en": "Děčín Castle",
+            "cs": "Děčínský zámek"
           },
           "coords": [
             14.211,
@@ -1273,7 +1379,8 @@
             "de": "Fahren Sie zum Schlossparkplatz. Dies ist der zweite Cluster des Tages.",
             "hu": "Hajtson a kastély parkolójába. Ez a nap második állomáscsoportja.",
             "ro": "Conduceți la parcarea castelului. Acesta este al doilea grup de opriri al zilei.",
-            "en": "Drive to the castle parking lot. This is the second cluster of the day."
+            "en": "Drive to the castle parking lot. This is the second cluster of the day.",
+            "cs": "Dojeďte k zámeckému parkovišti. To je druhé místo dne."
           }
         },
         {
@@ -1281,7 +1388,8 @@
             "de": "Rosengarten (Růžová zahrada)",
             "hu": "Rózsakert (Růžová zahrada)",
             "ro": "Grădina de Trandafiri (Růžová zahrada)",
-            "en": "Rose Garden (Růžová zahrada)"
+            "en": "Rose Garden (Růžová zahrada)",
+            "cs": "Růžová zahrada (Růžová zahrada)"
           },
           "coords": [
             14.2105,
@@ -1297,7 +1405,8 @@
             "de": "Vom Schloss aus ist der Garten nur einen kurzen Spaziergang entfernt. Perfekt für die Mittagszeit.",
             "hu": "A kert csak egy rövid sétára van a kastélytól. Tökéletes ebédidőre.",
             "ro": "Grădina este la o scurtă plimbare de castel. Perfect pentru pauza de prânz.",
-            "en": "The garden is just a short walk from the castle. Perfect for lunchtime."
+            "en": "The garden is just a short walk from the castle. Perfect for lunchtime.",
+            "cs": "Zahrada je jen krátká procházka od zámku. Ideální k obědu."
           }
         },
         {
@@ -1305,7 +1414,8 @@
             "de": "Pastýřská stěna (Schäferwand)",
             "hu": "Pásztorfal (Pastýřská stěna)",
             "ro": "Peretele Păstorului (Pastýřská stěna)",
-            "en": "Shepherd's Wall (Pastýřská stěna)"
+            "en": "Shepherd's Wall (Pastýřská stěna)",
+            "cs": "Pastýřská stěna (Pastýřská stěna)"
           },
           "coords": [
             14.2078,
@@ -1321,7 +1431,8 @@
             "de": "Fahren Sie über die Brücke und parken Sie am Fuße des Felsens. Dritter und letzter Cluster.",
             "hu": "Hajtson át a hídon, és parkoljon a szikla lábánál. Harmadik és utolsó állomáscsoport.",
             "ro": "Traversați podul și parcați la baza stâncii. Al treilea și ultimul grup.",
-            "en": "Drive across the bridge and park at the base of the rock. Third and final cluster."
+            "en": "Drive across the bridge and park at the base of the rock. Third and final cluster.",
+            "cs": "Přejeďte přes most a zaparkujte u paty skály. Třetí a poslední skupina."
           }
         },
         {
@@ -1329,7 +1440,8 @@
             "de": "Zoo Děčín",
             "hu": "Děčíni Állatkert",
             "ro": "Zoo Děčín",
-            "en": "Zoo Děčín"
+            "en": "Zoo Děčín",
+            "cs": "ZOO Děčín"
           },
           "coords": [
             14.2045,
@@ -1345,7 +1457,8 @@
             "de": "Der Zoo liegt direkt nebenan und ist ein schöner Abschluss des Tages.",
             "hu": "Az állatkert a szomszédban van, és szép lezárása a napnak.",
             "ro": "Grădina zoologică este chiar alături și reprezintă o încheiere frumoasă a zilei.",
-            "en": "The zoo is right next door and makes for a nice end to the day."
+            "en": "The zoo is right next door and makes for a nice end to the day.",
+            "cs": "Zoo je hned vedle a hezky zakončí den."
           }
         }
       ],
@@ -1353,7 +1466,8 @@
         "de": "Mit dem Auto entdecken Sie Děčín in komfortablen Etappen. Parken Sie morgens im Zentrum und erkunden Sie zu Fuß den historischen Kern um den Masaryk-Platz. Mittags fahren Sie zum Schloss-Cluster, wo Sie das majestätische Schloss und den duftenden Rosengarten ohne Parkplatzsorgen genießen. Am Nachmittag wechseln Sie auf die andere Elbseite zum Natur-Cluster, wo die beeindruckende Schäferwand und der charmante Zoo auf Sie warten. Diese Methode kombiniert die Flexibilität des Autos mit intensiven Spaziergängen und lässt Sie die Vielfalt der Stadt stressfrei erleben.",
         "hu": "Autóval kényelmes szakaszokban fedezheti fel Děčínt. Reggel parkoljon a központban, és sétálva fedezze fel a Masaryk tér körüli történelmi magot. Délben hajtson a kastély-klaszterhez, ahol parkolási gondok nélkül élvezheti a fenséges kastélyt és az illatos rózsakertet. Délután váltson át az Elba másik oldalára a természet-klaszterhez, ahol a lenyűgöző Pásztorfal és a bájos állatkert várja. Ez a módszer ötvözi az autó rugalmasságát az intenzív sétákkal, és lehetővé teszi, hogy stresszmentesen tapasztalja meg a város sokszínűségét.",
         "ro": "Cu mașina, descoperiți Děčín în etape confortabile. Parcați în centru dimineața și explorați pe jos nucleul istoric din jurul Pieței Masaryk. La prânz, conduceți spre grupul castelului, unde vă puteți bucura de castelul maiestuos și de grădina parfumată de trandafiri fără grija parcării. După-amiaza, treceți pe cealaltă parte a Elbei la grupul natural, unde vă așteaptă impresionantul Perete al Păstorului și fermecătoarea grădină zoologică. Această metodă combină flexibilitatea mașinii cu plimbări intense, permițându-vă să experimentați diversitatea orașului fără stres.",
-        "en": "By car, you can discover Děčín in comfortable stages. Park in the center in the morning and explore the historic core around Masaryk Square on foot. At noon, drive to the castle cluster, where you can enjoy the majestic castle and fragrant rose garden without parking worries. In the afternoon, switch to the other side of the Elbe to the nature cluster, where the impressive Shepherd's Wall and the charming zoo await. This method combines the flexibility of the car with intensive walks, allowing you to experience the city's diversity stress-free."
+        "en": "By car, you can discover Děčín in comfortable stages. Park in the center in the morning and explore the historic core around Masaryk Square on foot. At noon, drive to the castle cluster, where you can enjoy the majestic castle and fragrant rose garden without parking worries. In the afternoon, switch to the other side of the Elbe to the nature cluster, where the impressive Shepherd's Wall and the charming zoo await. This method combines the flexibility of the car with intensive walks, allowing you to experience the city's diversity stress-free.",
+        "cs": "Autem můžete objevovat Děčín pohodlně po etapách. Ráno zaparkujte v centru a projděte si historické jádro kolem Masarykova náměstí pěšky. O poledni dojeďte na zámek, kde si bez starostí užijete majestátní zámek a voňavou růžovou zahradu. Odpoledne přesuňte na druhou stranu Labe do přírodního okruhu, kde čeká impozantní Pastýřská stěna a malebná zoo. Tato metoda kombinuje flexibilitu auta s intenzivními procházkami a umožní vám bez stresu poznat rozmanitost města."
       },
       "gastro_picks": {
         "de": [
@@ -1553,6 +1667,13 @@
           "A GPS is useful for navigating between the different parts of the city.",
           "Plan your route to avoid rush hours, especially on the bridges.",
           "Do not leave valuables visible in the car when parking."
+        ],
+        "cs": [
+          "Používejte vyhrazená parkoviště a dávejte pozor na poplatky za parkování.",
+          "Ulice mohou být úzké, jeďte opatrně, zvláště ve starém městě.",
+          "GPS se hodí při navigaci mezi různými částmi města.",
+          "Plánujte trasu tak, abyste se vyhnuli dopravním špičkám, zejména na mostech.",
+          "Nenechávejte cennosti na očích v autě při parkování."
         ]
       },
       "variants": {
@@ -1561,7 +1682,8 @@
             "de": "Wir parken am Masaryk-Platz und nutzen den kurzen Weg zur Synagoge. Das Auto dient als perfekter Rückzugsort zwischen den Stopps.\n\nMittags fahren wir direkt zum Schlossparkplatz. Der Regen macht die Besichtigung der Innenräume des Schlosses Děčín umso gemütlicher.\n\nNachmittags geht es zum Rosengarten und zur Schäferwand. Wir parken direkt oben am Restaurant, um trocken die Aussicht genießen zu können.\n\nAbends besuchen wir den Zoo. Viele Bereiche sind überdacht, und die Fahrt zurück ins Stadtzentrum ist im regnerischen Lichtspiel der Stadt sehr stimmungsvoll.",
             "hu": "A Masaryk téren parkolunk, és kihasználjuk a rövid utat a zsinagógáig. Az autó tökéletes menedék a megállók között.\n\nDélben közvetlenül a várparkolóba hajtunk. Az eső még hangulatosabbá teszi a decini vár belső tereinek felfedezését.\n\nDélután a rózsakert és a Pásztorfal következik. Közvetlenül fent, az étteremnél parkolunk, hogy szárazon élvezhessük a kilátást.\n\nEste az állatkertbe látogatunk. Sok rész fedett, a visszaút a városközpontba pedig az esős fényekben nagyon hangulatos.",
             "ro": "Parcăm în Piața Masaryk și profităm de drumul scurt până la sinagogă. Mașina servește ca refugiu perfect între opriri.\n\nLa prânz conducem direct către parcarea castelului. Ploaia face vizitarea interioarelor Castelului Děčín și mai plăcută.\n\nDupă-amiaza mergem la grădina de trandafiri și la Peretele Păstorului. Parcăm chiar sus, lângă restaurant, pentru a ne bucura de vedere la uscat.\n\nSeara vizităm Grădina Zoologică. Multe zone sunt acoperite, iar drumul de întoarcere spre centru este foarte atmosferic în jocul de lumini al ploii.",
-            "en": "We park at Masaryk Square and take the short walk to the Synagogue. The car serves as the perfect retreat between stops.\n\nAt noon, we drive directly to the castle parking lot. The rain makes exploring the interiors of Děčín Castle all the more cozy.\n\nIn the afternoon, we head to the Rose Garden and Shepherd's Wall. We park right at the top by the restaurant to enjoy the view while staying dry.\n\nIn the evening, we visit the Zoo. Many areas are covered, and the drive back to the city center is very atmospheric in the rainy city lights."
+            "en": "We park at Masaryk Square and take the short walk to the Synagogue. The car serves as the perfect retreat between stops.\n\nAt noon, we drive directly to the castle parking lot. The rain makes exploring the interiors of Děčín Castle all the more cozy.\n\nIn the afternoon, we head to the Rose Garden and Shepherd's Wall. We park right at the top by the restaurant to enjoy the view while staying dry.\n\nIn the evening, we visit the Zoo. Many areas are covered, and the drive back to the city center is very atmospheric in the rainy city lights.",
+            "cs": "Parkujeme na Masarykově náměstí a uděláme krátkou procházku ke synagoze. Auto slouží jako ideální útočiště mezi zastávkami.\n\nO poledni jedeme přímo na zámecké parkoviště. Déšť dělá prohlídku interiérů Děčínského zámku o to útulnější.\n\nOdpoledne zamíříme do Růžové zahrady a k Pastýřské stěně. Zaparkujeme přímo nahoře u restaurace, abychom si vychutnali výhled a zůstali v suchu.\n\nVečer navštívíme ZOO. Mnohé části jsou kryté a cesta zpět do centra je v deštivém městském osvětlení velmi atmosférická."
           },
           "stops": [
             {
@@ -1570,7 +1692,8 @@
                 "de": "Zahlen Sie die Parkgebühr am Automaten; Schirm bereithalten.",
                 "hu": "Fizesse ki a parkolási díjat az automatánál; legyen kéznél esernyő.",
                 "ro": "Plătiți taxa de parcare la automat; aveți umbrela pregătită.",
-                "en": "Pay the parking fee at the machine; have your umbrella ready."
+                "en": "Pay the parking fee at the machine; have your umbrella ready.",
+                "cs": "Zaplaťte parkovné u automatu; mějte připravený deštník."
               }
             },
             {
@@ -1579,7 +1702,8 @@
                 "de": "Nur wenige Schritte vom Parkplatz entfernt.",
                 "hu": "Csak pár lépésre a parkolótól.",
                 "ro": "La doar câțiva pași de parcare.",
-                "en": "Just a few steps from the parking lot."
+                "en": "Just a few steps from the parking lot.",
+                "cs": "Jen pár kroků od parkoviště."
               }
             },
             {
@@ -1588,7 +1712,8 @@
                 "de": "Parken Sie in der Nähe der Kirche, um Laufwege im Regen zu minimieren.",
                 "hu": "Parkoljon a templom közelében, hogy minimalizálja az esőben gyaloglást.",
                 "ro": "Parcați lângă biserică pentru a minimiza mersul prin ploaie.",
-                "en": "Park near the church to minimize walking in the rain."
+                "en": "Park near the church to minimize walking in the rain.",
+                "cs": "Zaparkujte u kostela, abyste minimalizovali chůzi v dešti."
               }
             },
             {
@@ -1597,7 +1722,8 @@
                 "de": "Nutzen Sie den ausgewiesenen Schlossparkplatz.",
                 "hu": "Használja a kijelölt várparkolót.",
                 "ro": "Folosiți parcarea special amenajată a castelului.",
-                "en": "Use the designated castle parking lot."
+                "en": "Use the designated castle parking lot.",
+                "cs": "Použijte vyhrazené zámecké parkoviště."
               }
             },
             {
@@ -1606,7 +1732,8 @@
                 "de": "Vom Schloss aus ist der Weg kurz und teils geschützt.",
                 "hu": "A várból az út rövid és részben védett.",
                 "ro": "De la castel, drumul este scurt și parțial protejat.",
-                "en": "From the castle, the path is short and partly sheltered."
+                "en": "From the castle, the path is short and partly sheltered.",
+                "cs": "Ze zámku je cesta krátká a částečně krytá."
               }
             },
             {
@@ -1615,7 +1742,8 @@
                 "de": "Parken Sie direkt am Restaurant oben.",
                 "hu": "Parkoljon közvetlenül fent az étteremnél.",
                 "ro": "Parcați direct sus, lângă restaurant.",
-                "en": "Park directly at the restaurant at the top."
+                "en": "Park directly at the restaurant at the top.",
+                "cs": "Zaparkujte přímo u restaurace na vrcholu."
               }
             },
             {
@@ -1624,7 +1752,8 @@
                 "de": "Der Zoo-Parkplatz ist oft im Regen weniger ausgelastet.",
                 "hu": "Az állatkert parkolója esőben gyakran kevésbé foglalt.",
                 "ro": "Parcarea grădinii zoologice este adesea mai liberă pe ploaie.",
-                "en": "The zoo parking lot is often less busy in the rain."
+                "en": "The zoo parking lot is often less busy in the rain.",
+                "cs": "Parkoviště u zoo bývá v dešti méně vytížené."
               }
             }
           ],
@@ -1652,6 +1781,12 @@
               "Keep wet umbrellas in the trunk to prevent window fogging.",
               "The mountain road to Shepherd's Wall can be slippery in heavy rain.",
               "Many parking spots in Děčín can be paid for via an app."
+            ],
+            "cs": [
+              "Dávejte pozor na kaluže v níže položených parkovacích místech.",
+              "Mokré deštníky nechte v kufru, aby se nezamlžovala okna.",
+              "Horská cesta k Pastýřské stěně může být za silného deště kluzká.",
+              "Mnohá parkovací místa v Děčíně lze zaplatit přes aplikaci."
             ]
           }
         },
@@ -1660,7 +1795,8 @@
             "de": "Am kalten Wintermorgen parken wir am Masaryk-Platz. Die Sitzheizung ist nach dem Besuch der Synagoge ein Segen.\n\nMittags fahren wir zum Schloss Děčín. Die Auffahrt ist geräumt, aber Vorsicht bei Glätte. Die Schlossbesichtigung bietet die nötige Wärme.\n\nNachmittags steuern wir die Schäferwand an. Parken Sie direkt oben, um die frostige Aussicht kurz zu genießen. Danach geht es zum Zoo, wo die Winterfütterungen ein Highlight sind.\n\nAbends leuchten die Scheinwerfer den Weg durch das Elbtal. Wir beenden den Tag in der Stadt, wo wir bequem in der Nähe eines Restaurants parken können.",
             "hu": "A hideg téli reggelen a Masaryk téren parkolunk. Az ülésfűtés áldás a zsinagóga meglátogatása után.\n\nDélben a decini várhoz hajtunk. A feljáró takarított, de vigyázzon a jegesedésre. A várlátogatás biztosítja a szükséges meleget.\n\nDélután a Pásztorfalat célozzuk meg. Parkoljon közvetlenül fent, hogy rövid ideig élvezhesse a fagyos kilátást. Ezután az állatkertbe megyünk, ahol a téli etetések igazi élményt jelentenek.\n\nEste a fényszórók világítják meg az utat az Elba-völgyben. A napot a városban zárjuk, ahol kényelmesen parkolhatunk egy étterem közelében.",
             "ro": "În dimineața rece de iarnă parcăm în Piața Masaryk. Încălzirea în scaune este o binecuvântare după vizitarea sinagogii.\n\nLa prânz conducem spre Castelul Děčín. Urcarea este deszăpezită, dar atenție la polei. Vizitarea castelului oferă căldura necesară.\n\nDupă-amiaza ne îndreptăm spre Peretele Păstorului. Parcarea chiar sus ne permite să admirăm scurt vederea înghețată. Apoi mergem la grădina zoologică, unde hrănirea animalelor iarna este un punct de atracție.\n\nSeara, farurile luminează drumul prin valea Elbei. Încheiem ziua în oraș, unde putem parca confortabil lângă un restaurant.",
-            "en": "On a cold winter morning, we park at Masaryk Square. The seat heating is a blessing after visiting the Synagogue.\n\nAt noon, we drive to Děčín Castle. The driveway is cleared, but watch for ice. The castle tour provides the necessary warmth.\n\nIn the afternoon, we head for Shepherd's Wall. Park right at the top to enjoy the frosty view briefly. Then it's off to the Zoo, where winter feedings are a highlight.\n\nIn the evening, headlights light the way through the Elbe valley. We end the day in the city, where we can park conveniently near a restaurant."
+            "en": "On a cold winter morning, we park at Masaryk Square. The seat heating is a blessing after visiting the Synagogue.\n\nAt noon, we drive to Děčín Castle. The driveway is cleared, but watch for ice. The castle tour provides the necessary warmth.\n\nIn the afternoon, we head for Shepherd's Wall. Park right at the top to enjoy the frosty view briefly. Then it's off to the Zoo, where winter feedings are a highlight.\n\nIn the evening, headlights light the way through the Elbe valley. We end the day in the city, where we can park conveniently near a restaurant.",
+            "cs": "V chladné zimní ráno parkujeme na Masarykově náměstí. Vyhřívání sedadel je po návštěvě synagogy požehnáním.\n\nO poledni jedeme k Děčínskému zámku. Příjezdová cesta je uklizená, ale dávejte pozor na led. Zámecká prohlídka poskytne potřebné zahřátí.\n\nOdpoledne míříme k Pastýřské stěně. Zaparkujte přímo nahoře a krátce si užijte mrazivý výhled. Poté do zoo, kde jsou zimní krmení obzvlášť zajímavá.\n\nVečer reflektory osvítí cestu údolím Labe. Den zakončíme ve městě, kde lze pohodlně zaparkovat blízko restaurace."
           },
           "stops": [
             {
@@ -1669,7 +1805,8 @@
                 "de": "Achten Sie auf Schneeanhäufungen am Rand der Parkplätze.",
                 "hu": "Ügyeljen a hórakásokra a parkolóhelyek szélén.",
                 "ro": "Atenție la mormanele de zăpadă de pe marginea parcării.",
-                "en": "Watch out for snow piles at the edges of parking spots."
+                "en": "Watch out for snow piles at the edges of parking spots.",
+                "cs": "Dejte pozor na sněhové hromady na okrajích parkovacích míst."
               }
             },
             {
@@ -1678,7 +1815,8 @@
                 "de": "Nur kurz aussteigen, um nicht auszukühlen.",
                 "hu": "Csak rövid időre szálljon ki, hogy ne hűljön ki.",
                 "ro": "Coborâți doar scurt pentru a nu vă răci.",
-                "en": "Get out only briefly to avoid getting too cold."
+                "en": "Get out only briefly to avoid getting too cold.",
+                "cs": "Vystupujte jen krátce, abyste příliš neprochladli."
               }
             },
             {
@@ -1687,7 +1825,8 @@
                 "de": "Vorsicht beim Ein- und Aussteigen auf vereisten Gehwegen.",
                 "hu": "Vigyázzon a be- és kiszálláskor a jeges járdákon.",
                 "ro": "Atenție la urcare și coborâre pe trotuarele înghețate.",
-                "en": "Be careful when getting in and out on icy sidewalks."
+                "en": "Be careful when getting in and out on icy sidewalks.",
+                "cs": "Buďte opatrní při nástupu a výstupu na zledovatělých chodnících."
               }
             },
             {
@@ -1696,7 +1835,8 @@
                 "de": "Der Parkplatz kann bei extremer Kälte rutschig sein.",
                 "hu": "A parkoló rendkívüli hidegben csúszós lehet.",
                 "ro": "Parcarea poate fi alunecoasă la temperaturi extrem de scăzute.",
-                "en": "The parking lot can be slippery in extreme cold."
+                "en": "The parking lot can be slippery in extreme cold.",
+                "cs": "Parkoviště může být za extrémního mrazu kluzké."
               }
             },
             {
@@ -1705,7 +1845,8 @@
                 "de": "Schneller Fotostopp im Winterlicht.",
                 "hu": "Gyors fotómegálló a téli fényben.",
                 "ro": "O scurtă oprire pentru poze în lumina iernii.",
-                "en": "A quick photo stop in the winter light."
+                "en": "A quick photo stop in the winter light.",
+                "cs": "Rychlá zastávka na fotku ve zimním světle."
               }
             },
             {
@@ -1714,7 +1855,8 @@
                 "de": "Winterreifen sind für die Auffahrt zwingend erforderlich.",
                 "hu": "A téli gumi kötelező a felhajtáshoz.",
                 "ro": "Anvelopele de iarnă sunt obligatorii pentru urcare.",
-                "en": "Winter tires are mandatory for the drive up."
+                "en": "Winter tires are mandatory for the drive up.",
+                "cs": "Na cestu nahoru jsou povinné zimní pneumatiky."
               }
             },
             {
@@ -1723,7 +1865,8 @@
                 "de": "Nutzen Sie das Auto zum Aufwärmen zwischen den Gehegen.",
                 "hu": "Használja az autót melegedésre a kifutók között.",
                 "ro": "Folosiți mașina pentru a vă încălzi între țarcuri.",
-                "en": "Use the car to warm up between the enclosures."
+                "en": "Use the car to warm up between the enclosures.",
+                "cs": "Mezi expozicemi použijte auto k ohřátí."
               }
             }
           ],
@@ -1751,6 +1894,12 @@
               "The road to Shepherd's Wall is usually cleared with priority.",
               "Keep an ice scraper and brush ready in the car.",
               "Parking garages in Děčín are a good frost-free alternative."
+            ],
+            "cs": [
+              "Zkontrolujte nemrznoucí kapalinu v ostřikovačích.",
+              "Silnice k Pastýřské stěně je obvykle prioritně odklizená.",
+              "Mějte v autě připravený škrabku na led a kartáč.",
+              "Parkovací domy v Děčíně jsou dobrou alternativou bez námrazy."
             ]
           }
         }
@@ -1769,7 +1918,8 @@
             "de": "Ankunft am Busbahnhof",
             "hu": "Érkezés a buszpályaudvarra",
             "ro": "Sosire la autogară",
-            "en": "Arrival at the Bus Station"
+            "en": "Arrival at the Bus Station",
+            "cs": "Příjezd na autobusové nádraží"
           },
           "coords": [
             14.2178,
@@ -1785,7 +1935,8 @@
             "de": "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr für maximale Flexibilität.",
             "hu": "Vásároljon napijegyet a tömegközlekedéshez a maximális rugalmasság érdekében.",
             "ro": "Cumpărați un bilet de o zi pentru transportul public pentru flexibilitate maximă.",
-            "en": "Buy a day ticket for public transport for maximum flexibility."
+            "en": "Buy a day ticket for public transport for maximum flexibility.",
+            "cs": "Kupte si celodenní jízdenku městské dopravy pro maximální volnost."
           }
         },
         {
@@ -1793,7 +1944,8 @@
             "de": "Masaryk-Platz",
             "hu": "Masaryk tér",
             "ro": "Piața Masaryk",
-            "en": "Masaryk Square"
+            "en": "Masaryk Square",
+            "cs": "Masarykovo náměstí"
           },
           "coords": [
             14.2125,
@@ -1809,7 +1961,8 @@
             "de": "Viele Buslinien halten hier. Ein idealer Ausgangspunkt.",
             "hu": "Sok buszjárat megáll itt. Ideális kiindulópont.",
             "ro": "Multe linii de autobuz opresc aici. Un punct de plecare ideal.",
-            "en": "Many bus lines stop here. An ideal starting point."
+            "en": "Many bus lines stop here. An ideal starting point.",
+            "cs": "Zastavuje zde mnoho linek. Ideální výchozí bod."
           }
         },
         {
@@ -1817,7 +1970,8 @@
             "de": "Heiligkreuzkirche",
             "hu": "Szent Kereszt templom",
             "ro": "Biserica Sfânta Cruce",
-            "en": "Church of the Holy Cross"
+            "en": "Church of the Holy Cross",
+            "cs": "Kostel sv. Kříže"
           },
           "coords": [
             14.2133,
@@ -1833,7 +1987,8 @@
             "de": "Ein kurzer Spaziergang vom Masaryk-Platz.",
             "hu": "Rövid séta a Masaryk tértől.",
             "ro": "La o scurtă plimbare de Piața Masaryk.",
-            "en": "A short walk from Masaryk Square."
+            "en": "A short walk from Masaryk Square.",
+            "cs": "Krátká procházka od Masarykova náměstí."
           }
         },
         {
@@ -1841,7 +1996,8 @@
             "de": "Schloss Děčín",
             "hu": "Děčíni kastély",
             "ro": "Castelul Děčín",
-            "en": "Děčín Castle"
+            "en": "Děčín Castle",
+            "cs": "Děčínský zámek"
           },
           "coords": [
             14.211,
@@ -1857,7 +2013,8 @@
             "de": "Vom Schloss aus können Sie den Rosengarten (nächster Halt) leicht zu Fuß erreichen.",
             "hu": "A kastélytól könnyen elérhető gyalog a Rózsakert (következő megálló).",
             "ro": "De la castel, puteți ajunge cu ușurință pe jos la Grădina de Trandafiri (următoarea oprire).",
-            "en": "From the castle, you can easily walk to the Rose Garden (next stop)."
+            "en": "From the castle, you can easily walk to the Rose Garden (next stop).",
+            "cs": "Ze zámku se snadno dojdete do Růžové zahrady (další zastávka)."
           }
         },
         {
@@ -1865,7 +2022,8 @@
             "de": "Pastýřská stěna (Schäferwand)",
             "hu": "Pásztorfal (Pastýřská stěna)",
             "ro": "Peretele Păstorului (Pastýřská stěna)",
-            "en": "Shepherd's Wall (Pastýřská stěna)"
+            "en": "Shepherd's Wall (Pastýřská stěna)",
+            "cs": "Pastýřská stěna (Pastýřská stěna)"
           },
           "coords": [
             14.2078,
@@ -1881,7 +2039,8 @@
             "de": "Nehmen Sie einen Bus, der über die Elbe fährt. Steigen Sie an der Haltestelle 'U Zámku' aus.",
             "hu": "Szálljon fel egy buszra, amely átmegy az Elbán. Szálljon le az 'U Zámku' megállónál.",
             "ro": "Luați un autobuz care traversează Elba. Coborâți la stația 'U Zámku'.",
-            "en": "Take a bus that crosses the Elbe. Get off at the 'U Zámku' stop."
+            "en": "Take a bus that crosses the Elbe. Get off at the 'U Zámku' stop.",
+            "cs": "Jeďte autobusem, který přejíždí Labe. Vystupte na zastávce ‚U Zámku‘."
           }
         },
         {
@@ -1889,7 +2048,8 @@
             "de": "Zoo Děčín",
             "hu": "Děčíni Állatkert",
             "ro": "Zoo Děčín",
-            "en": "Zoo Děčín"
+            "en": "Zoo Děčín",
+            "cs": "ZOO Děčín"
           },
           "coords": [
             14.2045,
@@ -1905,7 +2065,8 @@
             "de": "Der Zoo ist vom Aussichtspunkt aus leicht zu Fuß zu erreichen.",
             "hu": "Az állatkert könnyen megközelíthető a kilátótól gyalog.",
             "ro": "Grădina zoologică este la o distanță mică de mers pe jos de punctul de belvedere.",
-            "en": "The zoo is within easy walking distance from the viewpoint."
+            "en": "The zoo is within easy walking distance from the viewpoint.",
+            "cs": "Zoologická zahrada je v pěší dostupnosti od vyhlídky."
           }
         }
       ],
@@ -1913,7 +2074,8 @@
         "de": "Děčín mit öffentlichen Verkehrsmitteln zu erleben ist einfach und effizient. Beginnen Sie am Masaryk-Platz, dem Knotenpunkt der Stadt. Ein kurzer Spaziergang führt Sie zu den historischen Schätzen des Stadtzentrums. Nach dem ausgiebigen Besuch des Schlosses bringt Sie ein Bus bequem über den Fluss. Dort erwartet Sie der zweite Teil des Tages: der beeindruckende Ausblick von der Schäferwand und ein entspannter Nachmittag im Zoo. Mit einer Tageskarte können Sie sich frei bewegen und die Stadt aus der Perspektive eines Einheimischen entdecken.",
         "hu": "Děčínt tömegközlekedéssel felfedezni egyszerű és hatékony. Kezdje a Masaryk téren, a város csomópontjában. Egy rövid séta elvezeti a városközpont történelmi kincseihez. A kastély alapos megtekintése után egy busz kényelmesen átviszi a folyón. Ott várja a nap második része: a lenyűgöző kilátás a Pásztorfalról és egy pihentető délután az állatkertben. Napijeggyel szabadon mozoghat, és egy helyi szemszögéből fedezheti fel a várost.",
         "ro": "Experimentarea orașului Děčín cu transportul public este ușoară și eficientă. Începeți din Piața Masaryk, nodul central al orașului. O scurtă plimbare vă duce la comorile istorice din centrul orașului. După o vizită extinsă la castel, un autobuz vă duce confortabil peste râu. Acolo vă așteaptă a doua parte a zilei: priveliștea impresionantă de pe Peretele Păstorului și o după-amiază relaxantă la grădina zoologică. Cu un bilet de o zi, vă puteți deplasa liber și descoperi orașul din perspectiva unui localnic.",
-        "en": "Experiencing Děčín by public transport is easy and efficient. Start at Masaryk Square, the city's hub. A short walk takes you to the historical treasures of the city center. After an extensive visit to the castle, a bus will comfortably take you across the river. There, the second part of the day awaits you: the impressive view from the Shepherd's Wall and a relaxing afternoon at the zoo. With a day ticket, you can move freely and discover the city from a local's perspective."
+        "en": "Experiencing Děčín by public transport is easy and efficient. Start at Masaryk Square, the city's hub. A short walk takes you to the historical treasures of the city center. After an extensive visit to the castle, a bus will comfortably take you across the river. There, the second part of the day awaits you: the impressive view from the Shepherd's Wall and a relaxing afternoon at the zoo. With a day ticket, you can move freely and discover the city from a local's perspective.",
+        "cs": "Poznat Děčín městskou dopravou je snadné a efektivní. Začněte na Masarykově náměstí, dopravním uzlu města. Krátká procházka vás zavede k historickým skvostům centra. Po obsáhlé návštěvě zámku vás autobus pohodlně převeze přes řeku. Tam vás čeká druhá část dne: impozantní výhled z Pastýřské stěny a relax odpoledne v zoo. S celodenní jízdenkou se volně pohybujete a objevujete město z pohledu místních."
       },
       "gastro_picks": {
         "de": [
@@ -2113,6 +2275,13 @@
           "Give your seat to elderly passengers.",
           "Press the 'Stop' button in time before your stop arrives.",
           "Keep an eye on the timetable, especially in the evening when buses run less frequently."
+        ],
+        "cs": [
+          "Stáhněte si oficiální aplikaci MHD pro kontrolu jízdních řádů a tras.",
+          "Celodenní jízdenka je obvykle levnější než několik jednorázových.",
+          "Ustupte místo starším cestujícím.",
+          "Stiskněte tlačítko ‚Stop‘ včas před svou zastávkou.",
+          "Sledujte jízdní řád, zejména večer, kdy jezdí autobusy méně často."
         ]
       },
       "variants": {
@@ -2121,7 +2290,8 @@
             "de": "Wir kommen am Busbahnhof an und nutzen die nächste Verbindung zum Masaryk-Platz. Die Buswartehäuschen sind unser Regenschutz.\n\nMittags nehmen wir den Bus Richtung Schloss. Das Schloss Děčín bietet stundenlange Unterhaltung im Trockenen. Der Weg zur Kreuzkirche ist kurz.\n\nNachmittags fahren wir zur Schäferwand. Wir nutzen den Bus so nah wie möglich an die Sehenswürdigkeiten heran, um wenig im Regen zu laufen.\n\nAbends besuchen wir den Zoo. Die Rückfahrt zum Busbahnhof erfolgt bequem im beheizten Bus, während draußen der Regen die Scheiben beschlägt.",
             "hu": "Megérkezünk a buszpályaudvarra, és a következő járattal a Masaryk térre megyünk. A buszvárók lesznek az esővédőink.\n\nDélben a vár felé vesszük az irányt busszal. A decini vár órákig tartó kikapcsolódást nyújt szárazon. A templomhoz vezető út rövid.\n\nDélután a Pásztorfalhoz utazunk. A lehető legközelebbi buszmegállókat használjuk, hogy keveset kelljen az esőben gyalogolni.\n\nEste az állatkertbe látogatunk. A visszaút a pályaudvarra kényelmes, fűtött busszal történik, miközben kint az eső mossa az ablakokat.",
             "ro": "Sosim la autogară și luăm următoarea conexiune spre Piața Masaryk. Stațiile de autobuz sunt adăpostul nostru împotriva ploii.\n\nLa prânz luăm autobuzul spre castel. Castelul Děčín oferă divertisment timp de ore la adăpost. Drumul spre biserică este scurt.\n\nDupă-amiaza mergem spre Peretele Păstorului. Folosim autobuzul pentru a ajunge cât mai aproape de obiective și a merge cât mai puțin prin ploaie.\n\nSeara vizităm Grădina Zoologică. Întoarcerea la autogară se face confortabil cu un autobuz încălzit, în timp ce afară plouă.",
-            "en": "We arrive at the bus station and take the next connection to Masaryk Square. Bus shelters are our rain cover.\n\nAt noon, we head toward the castle by bus. Děčín Castle offers hours of indoor entertainment. The walk to the church is short.\n\nIn the afternoon, we travel to Shepherd's Wall. We use buses to get as close as possible to the sights to minimize walking in the rain.\n\nIn the evening, we visit the Zoo. The return trip to the bus station is comfortable in a heated bus while the rain fogs up the windows outside."
+            "en": "We arrive at the bus station and take the next connection to Masaryk Square. Bus shelters are our rain cover.\n\nAt noon, we head toward the castle by bus. Děčín Castle offers hours of indoor entertainment. The walk to the church is short.\n\nIn the afternoon, we travel to Shepherd's Wall. We use buses to get as close as possible to the sights to minimize walking in the rain.\n\nIn the evening, we visit the Zoo. The return trip to the bus station is comfortable in a heated bus while the rain fogs up the windows outside.",
+            "cs": "Přijíždíme na nádraží a pojedeme dalším spojem na Masarykovo náměstí. Přístřešky na zastávkách nás ochrání před deštěm.\n\nV poledne jedeme autobusem k zámku. Děčínský zámek nabízí hodiny vnitřní zábavy. Procházka ke kostelu je krátká.\n\nOdpoledne cestujeme na Pastýřskou stěnu. Autobusy používáme k tomu, abychom se co nejblíže přiblížili památkám a minimalizovali chození v dešti.\n\nVečer navštívíme zoo. Cesta zpět na nádraží je pohodlná v vyhřátém autobuse, zatímco venku dešťová tma mlží okna."
           },
           "stops": [
             {
@@ -2130,7 +2300,8 @@
                 "de": "Warten Sie im überdachten Bahnhofsbereich auf den Anschlussbus.",
                 "hu": "Várjon a fedett pályaudvaron a csatlakozó buszra.",
                 "ro": "Așteptați autobuzul de legătură în zona acoperită a gării.",
-                "en": "Wait in the covered station area for your connecting bus."
+                "en": "Wait in the covered station area for your connecting bus.",
+                "cs": "Počkejte v zastřešené části stanice na váš přestupní autobus."
               }
             },
             {
@@ -2139,7 +2310,8 @@
                 "de": "Zentraler Umsteigepunkt mit vielen Unterstellmöglichkeiten.",
                 "hu": "Központi átszállópont sok fedett hellyyel.",
                 "ro": "Punct central de transfer cu multe locuri de adăpost.",
-                "en": "Central transfer point with many sheltering options."
+                "en": "Central transfer point with many sheltering options.",
+                "cs": "Centrální přestupní místo s mnoha možnostmi úkrytu."
               }
             },
             {
@@ -2148,7 +2320,8 @@
                 "de": "Die nächste Haltestelle ist nur wenige Gehminuten entfernt.",
                 "hu": "A legközelebbi megálló csak pár perc sétára van.",
                 "ro": "Cea mai apropiată stație este la doar câteva minute de mers pe jos.",
-                "en": "The nearest stop is only a few minutes' walk away."
+                "en": "The nearest stop is only a few minutes' walk away.",
+                "cs": "Nejbližší zastávka je jen pár minut chůze."
               }
             },
             {
@@ -2157,7 +2330,8 @@
                 "de": "Nutzen Sie den Bus, der fast direkt vor den Schlosspark fährt.",
                 "hu": "Használja a buszt, amely szinte közvetlenül a várparknál áll meg.",
                 "ro": "Folosiți autobuzul care oprește aproape direct în fața parcului castelului.",
-                "en": "Use the bus that stops almost directly in front of the castle park."
+                "en": "Use the bus that stops almost directly in front of the castle park.",
+                "cs": "Nastupte do autobusu, který zastavuje téměř přímo u zámkového parku."
               }
             },
             {
@@ -2166,7 +2340,8 @@
                 "de": "Vom Bus aus ist es noch ein kurzer Anstieg.",
                 "hu": "A busztól még egy rövid emelkedő következik.",
                 "ro": "De la autobuz mai este o scurtă urcare.",
-                "en": "It's a short climb from the bus stop."
+                "en": "It's a short climb from the bus stop.",
+                "cs": "Od zastávky je to krátké stoupání."
               }
             },
             {
@@ -2175,7 +2350,8 @@
                 "de": "Achten Sie auf die Fahrzeiten für die Rückfahrt am Abend.",
                 "hu": "Ügyeljen az esti visszainduló járatok menetrendjére.",
                 "ro": "Atenție la orarul curselor de întoarcere de seară.",
-                "en": "Check the schedule for return trips in the evening."
+                "en": "Check the schedule for return trips in the evening.",
+                "cs": "Zkontrolujte odjezdy pro zpáteční jízdu večer."
               }
             }
           ],
@@ -2203,6 +2379,12 @@
               "Tickets can often be bought directly from the driver or via SMS.",
               "Buses often run more punctually than trains in the rain.",
               "Waiting areas at the square are best protected against the wind."
+            ],
+            "cs": [
+              "Zkontrolujte aplikaci dopravy Děčín pro aktuální informace v reálném čase.",
+              "Jízdenky se často dají koupit přímo u řidiče nebo přes SMS.",
+              "Autobusy v dešti často jezdí přesněji než vlaky.",
+              "Čekací plochy na náměstí jsou nejlépe chráněné proti větru."
             ]
           }
         },
@@ -2211,7 +2393,8 @@
             "de": "Am frostigen Morgen nutzen wir den Bus vom Bahnhof zum Masaryk-Platz. Die warmen Busse sind eine willkommene Abwechslung zur Kälte.\n\nMittags geht es zum Schloss Děčín. Die Schlossräume sind gut temperiert und bieten Schutz vor dem eisigen Wind im Elbtal.\n\nNachmittags fahren wir zur Schäferwand und genießen das frühe Abendlicht. Der Zoo ist unser letztes Ziel vor Sonnenuntergang.\n\nAbends leuchten die Lichter der Stadt, während wir mit dem Bus zurück zum Bahnhof fahren. Die winterliche Atmosphäre von Děčín wirkt aus dem Fenster des warmen Busses besonders friedlich.",
             "hu": "A fagyos reggelen busszal megyünk a pályaudvarról a Masaryk térre. A meleg buszok kellemes felüdülést jelentenek a hideg után.\n\nDélben a decini várhoz utazunk. A várterek jól temperáltak, és védelmet nyújtanak az Elba-völgyi jeges szél ellen.\n\nDélután a Pásztorfalhoz megyünk, és élvezzük a korai esti fényeket. Az állatkert az utolsó célpontunk naplemente előtt.\n\nEste a város fényei ragyognak, miközben busszal visszatérünk a pályaudvarra. Decin téli hangulata a meleg busz ablakából különösen békésnek tűnik.",
             "ro": "În dimineața geroasă luăm autobuzul de la gară spre Piața Masaryk. Autobuzele calde sunt o schimbare binevenită față de frig.\n\nLa prânz mergem la Castelul Děčín. Sălile castelului sunt bine încălzite și oferă protecție împotriva vântului înghețat din valea Elbei.\n\nDupă-amiaza conducem spre Peretele Păstorului și ne bucurăm de lumina timpurie de seară. Grădina Zoologică este ultima noastră destinație înainte de apus.\n\nSeara, luminile orașului strălucesc în timp ce mergem cu autobuzul înapoi la gară. Atmosfera de iarnă din Děčín pare deosebit de liniștită de la fereastra autobuzului cald.",
-            "en": "On a frosty morning, we take the bus from the station to Masaryk Square. The warm buses are a welcome break from the cold.\n\nAt noon, we head to Děčín Castle. The castle rooms are well-tempered and provide shelter from the icy wind in the Elbe valley.\n\nIn the afternoon, we travel to Shepherd's Wall and enjoy the early evening light. The Zoo is our last destination before sunset.\n\nIn the evening, the city lights glow as we take the bus back to the station. Děčín's winter atmosphere looks particularly peaceful from the window of the warm bus."
+            "en": "On a frosty morning, we take the bus from the station to Masaryk Square. The warm buses are a welcome break from the cold.\n\nAt noon, we head to Děčín Castle. The castle rooms are well-tempered and provide shelter from the icy wind in the Elbe valley.\n\nIn the afternoon, we travel to Shepherd's Wall and enjoy the early evening light. The Zoo is our last destination before sunset.\n\nIn the evening, the city lights glow as we take the bus back to the station. Děčín's winter atmosphere looks particularly peaceful from the window of the warm bus.",
+            "cs": "V mrazivé ráno jedeme autobusem ze stanice na Masarykovo náměstí. Teplé autobusy jsou vítanou přestávkou od chladu.\n\nV poledne směřujeme k Děčínskému zámku. Zámecké místnosti jsou dobře temperované a poskytují úkryt před ledovým větrem v Labe kotlině.\n\nOdpoledne cestujeme na Pastýřskou stěnu a užíváme si světlo brzkého večera. Zoo je naším posledním cílem před západem slunce.\n\nVečer se městská světla rozsvítí, když jedeme autobusem zpět na nádraží. Zimní atmosféra Děčína vypadá zvlášť poklidně z okna teplého autobusu."
           },
           "stops": [
             {
@@ -2220,7 +2403,8 @@
                 "de": "Wärmen Sie sich im Warteraum des Bahnhofs auf.",
                 "hu": "Melegedjen fel a pályaudvar várótermében.",
                 "ro": "Încălziți-vă în sala de așteptare a gării.",
-                "en": "Warm up in the station's waiting room."
+                "en": "Warm up in the station's waiting room.",
+                "cs": "Ohřejte se v čekárně nádraží."
               }
             },
             {
@@ -2229,7 +2413,8 @@
                 "de": "Nutzen Sie die kurzen Wege zwischen den Haltestellen.",
                 "hu": "Használja ki a megállók közötti rövid távolságokat.",
                 "ro": "Folosiți distanțele scurte dintre stații.",
-                "en": "Take advantage of the short distances between stops."
+                "en": "Take advantage of the short distances between stops.",
+                "cs": "Využijte krátké vzdálenosti mezi zastávkami."
               }
             },
             {
@@ -2238,7 +2423,8 @@
                 "de": "Ein schöner Ort, um kurz zur Ruhe zu kommen.",
                 "hu": "Szép hely egy rövid megnyugvásra.",
                 "ro": "Un loc frumos pentru un scurt moment de liniște.",
-                "en": "A beautiful place to rest for a moment."
+                "en": "A beautiful place to rest for a moment.",
+                "cs": "Krásné místo k krátkému odpočinku."
               }
             },
             {
@@ -2247,7 +2433,8 @@
                 "de": "Der Bus hält direkt am Eingang zum Schlossgelände.",
                 "hu": "A busz közvetlenül a várkert bejáratánál áll meg.",
                 "ro": "Autobuzul oprește chiar la intrarea în complexul castelului.",
-                "en": "The bus stops right at the entrance to the castle grounds."
+                "en": "The bus stops right at the entrance to the castle grounds.",
+                "cs": "Autobus zastavuje přímo u vchodu do zámeckého areálu."
               }
             },
             {
@@ -2256,7 +2443,8 @@
                 "de": "Planen Sie genug Zeit für den Fußweg vom Bus ein.",
                 "hu": "Tervezzen elég időt a busztól való gyalogútra.",
                 "ro": "Planificați suficient timp pentru mersul pe jos de la autobuz.",
-                "en": "Plan enough time for the walk from the bus stop."
+                "en": "Plan enough time for the walk from the bus stop.",
+                "cs": "Naplánujte si dostatek času na procházku od zastávky."
               }
             },
             {
@@ -2265,7 +2453,8 @@
                 "de": "Im Winter fahren die Busse seltener; Fahrplan prüfen!",
                 "hu": "Télen a buszok ritkábban járnak; ellenőrizze a menetrendet!",
                 "ro": "Iarna autobuzele circulă mai rar; verificați orarul!",
-                "en": "Buses run less frequently in winter; check the schedule!"
+                "en": "Buses run less frequently in winter; check the schedule!",
+                "cs": "V zimě jezdí autobusy méně často; zkontrolujte jízdní řád!"
               }
             }
           ],
@@ -2293,6 +2482,12 @@
               "Buses in Děčín are usually very well heated.",
               "Buy tickets in advance to avoid standing in the cold.",
               "Use waiting times for a quick coffee at the station."
+            ],
+            "cs": [
+              "Některé linky mají v zimě upravené jízdní řády.",
+              "Autobusy v Děčíně jsou obvykle velmi dobře vytopené.",
+              "Kupte si jízdenky předem, abyste se vyhnuli stání venku v chladu.",
+              "Využijte čekací doby na rychlé kafe na nádraží."
             ]
           }
         }

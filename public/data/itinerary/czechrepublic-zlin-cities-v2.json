@@ -32,7 +32,8 @@
             "de": "Fahren Sie mit dem historischen Aufzugsbüro auf die Dachterrasse für ein tolles Panorama.",
             "hu": "Liftezzen fel a tetőteraszra a történelmi mozgóirodával egy remek panorámáért.",
             "ro": "Urcați pe terasa de pe acoperiș cu biroul-lift istoric pentru o panoramă excelentă.",
-            "en": "Ride the historic elevator office to the roof terrace for a great panorama."
+            "en": "Ride the historic elevator office to the roof terrace for a great panorama.",
+            "cs": "Vyjeďte historickou výtahovou kanceláří na střešní terasu pro skvělou panoramu."
           }
         },
         {
@@ -51,7 +52,8 @@
             "de": "Bewundern Sie über tausend historische Schuhe aus der ganzen Welt.",
             "hu": "Csodáljon meg több mint ezer történelmi cipőt a világ minden tájáról.",
             "ro": "Admirați peste o mie de pantofi istorici din întreaga lume.",
-            "en": "Admire over a thousand historic shoes from all around the world."
+            "en": "Admire over a thousand historic shoes from all around the world.",
+            "cs": "Obdivujte více než tisíc historických bot z celého světa."
           }
         },
         {
@@ -70,7 +72,8 @@
             "de": "Das Kino war einst das größte in Zentraleuropa mit 2270 Plätzen.",
             "hu": "A mozi egykor Közép-Európa legnagyobbja volt 2270 ülőhellyel.",
             "ro": "Cinematograful a fost cândva cel mai mare din Europa Centrală cu 2270 de locuri.",
-            "en": "The cinema was once the largest in Central Europe with 2270 seats."
+            "en": "The cinema was once the largest in Central Europe with 2270 seats.",
+            "cs": "Kino bylo kdysi největší ve střední Evropě se 2270 sedadly."
           }
         },
         {
@@ -89,7 +92,8 @@
             "de": "Machen Sie einen entspannten Spaziergang durch den Schlosspark direkt im Zentrum.",
             "hu": "Tegyen egy pihentető sétát a kastélyparkban, egyenesen a központban.",
             "ro": "Faceți o plimbare relaxantă prin parcul castelului chiar în centru.",
-            "en": "Take a relaxing stroll through the castle park right in the center."
+            "en": "Take a relaxing stroll through the castle park right in the center.",
+            "cs": "Projít se relaxačně zámockým parkem přímo v centru."
           }
         },
         {
@@ -108,7 +112,8 @@
             "de": "Spazieren Sie zwischen den charakteristischen roten Backsteinhäusern.",
             "hu": "Sétáljon a jellegzetes vöröstéglás munkásházak között.",
             "ro": "Plimbați-vă printre casele caracteristice din cărămidă roșie.",
-            "en": "Walk among the characteristic red brick worker houses."
+            "en": "Walk among the characteristic red brick worker houses.",
+            "cs": "Projděte se mezi charakteristickými červenými cihlovými dělnickými domky."
           }
         },
         {
@@ -127,7 +132,8 @@
             "de": "Ein beeindruckendes Glasgebäude, das dem Gründer des Schuhimperiums gewidmet ist.",
             "hu": "Lenyűgöző üvegépület, melyet a cipőbirodalom alapítójának szenteltek.",
             "ro": "O clădire impresionantă din sticlă dedicată fondatorului imperiului încălțămintei.",
-            "en": "An impressive glass building dedicated to the founder of the shoe empire."
+            "en": "An impressive glass building dedicated to the founder of the shoe empire.",
+            "cs": "Působivá skleněná budova věnovaná zakladateli obuvnického impéria."
           }
         }
       ],
@@ -135,7 +141,8 @@
         "de": "Erkunden Sie Zlín, die Wiege des Baťa-Imperiums. Der Tag beginnt mit spektakulären Aussichten vom berühmten Wolkenkratzer, gefolgt von einer Reise durch die Geschichte im Schuhmuseum. Am Mittag spazieren Sie durch den ruhigen Schlosspark. Der Nachmittag ist der einzigartigen funktionalistischen Architektur der Backsteinsiedlungen und dem beeindruckenden Tomas-Baťa-Denkmal gewidmet.",
         "hu": "Fedezze fel Zlínt, a Baťa-birodalom bölcsőjét. A nap a híres felhőkarcoló kilátójával indul, majd a Cipőmúzeumban utazhatunk az időben. Délben a kastélypark nyugalmát élvezhetjük. A délután az egyedülálló funkcionalista vöröstéglás negyedeké és a lenyűgöző Tomáš Baťa-emlékművé, mely az alapítónak állít emléket.",
         "ro": "Explorați Zlín, leagănul imperiului Baťa. Ziua începe cu o panoramă de pe faimosul zgârie-nori, urmată de o călătorie în istorie la Muzeul Pantofului. La prânz vă puteți bucura de parcul liniștit al castelului. După-amiaza este dedicată arhitecturii funcționaliste a coloniilor de muncitori și impresionantului Memorial Tomáš Baťa.",
-        "en": "Explore Zlín, the cradle of the Baťa empire. The day starts with spectacular views from the famous skyscraper, followed by a journey through history at the Shoe Museum. At noon, take a stroll in the peaceful castle park. The afternoon is dedicated to the unique functionalist red brick worker colonies and the striking Tomas Bata Memorial."
+        "en": "Explore Zlín, the cradle of the Baťa empire. The day starts with spectacular views from the famous skyscraper, followed by a journey through history at the Shoe Museum. At noon, take a stroll in the peaceful castle park. The afternoon is dedicated to the unique functionalist red brick worker colonies and the striking Tomas Bata Memorial.",
+        "cs": "Prozkoumejte Zlín, kolébku Baťova impéria. Den začíná působivým výhledem z proslulého mrakodrapu, pokračuje cestou historií v Muzeu obuvi. V poledne se projděte klidným zámockým parkem. Odpoledne je věnováno unikátním funkcionalistickým červeným dělnickým koloniím a výraznému Památníku Tomáše Bati."
       },
       "gastro_picks": {
         "de": [
@@ -311,6 +318,12 @@
           "Zlín's architecture is unique; pay attention to the functionalist details.",
           "Book your ride in the skyscraper's elevator office in advance.",
           "Wear comfortable shoes for walking up to the worker colonies."
+        ],
+        "cs": [
+          "Centrum města je velmi přívětivé pro pěší.",
+          "Zlínská architektura je jedinečná; věnujte pozornost funkcionalistickým detailům.",
+          "Rezervujte si jízdu výtahem v mrakodrapu předem.",
+          "Noste pohodlnou obuv na výšlapy do dělnických kolonií."
         ]
       }
     },
@@ -338,7 +351,8 @@
             "de": "Binden Sie Ihr Rad am Fuß des Wolkenkratzers an.",
             "hu": "Kösse le kerékpárját a felhőkarcoló tövében.",
             "ro": "Legați-vă bicicleta la baza zgârie-norului.",
-            "en": "Lock your bike at the base of the skyscraper."
+            "en": "Lock your bike at the base of the skyscraper.",
+            "cs": "Zamkněte kolo u paty mrakodrapu."
           }
         },
         {
@@ -357,7 +371,8 @@
             "de": "Direkt nebenan befindet sich dieses faszinierende Museum.",
             "hu": "Közvetlenül a szomszédban található ez a lenyűgöző múzeum.",
             "ro": "Chiar alături se află acest muzeu fascinant.",
-            "en": "Right next door is this fascinating museum."
+            "en": "Right next door is this fascinating museum.",
+            "cs": "Hned vedle najdete toto fascinující muzeum."
           }
         },
         {
@@ -376,7 +391,8 @@
             "de": "Radeln Sie langsam durch die rasterförmig angelegten Straßen.",
             "hu": "Tekerjen lassan a hálós szerkezetű utcákon.",
             "ro": "Pedați încet pe străzile amenajate în formă de rețea.",
-            "en": "Cycle slowly through the grid-like streets."
+            "en": "Cycle slowly through the grid-like streets.",
+            "cs": "Jeďte na kole pomalu mřížkovými ulicemi."
           }
         },
         {
@@ -395,7 +411,8 @@
             "de": "Der kurze Anstieg zum Denkmal lohnt sich für die Architektur.",
             "hu": "A rövid emelkedő az emlékműhöz megéri az építészeti látványt.",
             "ro": "Scurta urcare până la monument merită pentru arhitectură.",
-            "en": "The short uphill ride to the memorial is worth it for the architecture."
+            "en": "The short uphill ride to the memorial is worth it for the architecture.",
+            "cs": "Krátký jízda do kopce k památníku stojí za architekturu."
           }
         },
         {
@@ -414,7 +431,8 @@
             "de": "Ein schöner Radweg führt Sie direkt zum Zoo und Schloss.",
             "hu": "Egy szép kerékpárút vezet egyenesen az állatkerthez és a kastélyhoz.",
             "ro": "O pistă de biciclete frumoasă vă duce direct la grădina zoologică și castel.",
-            "en": "A pleasant bike path leads you straight to the zoo and castle."
+            "en": "A pleasant bike path leads you straight to the zoo and castle.",
+            "cs": "Příjemná cyklostezka vede přímo ke zoo a zámku."
           }
         }
       ],
@@ -422,7 +440,8 @@
         "de": "Erleben Sie Zlín dynamisch auf dem Fahrrad. Nach den Höhepunkten der Baťa-Industriearchitektur im Zentrum radeln Sie durch die ruhigen Arbeitersiedlungen. Am Nachmittag bietet die Fahrt zum Zoo Zlín und Schloss Lešná eine perfekte Kombination aus städtischem Erbe und Natur.",
         "hu": "Fedezze fel Zlínt dinamikusan, két keréken. A központi ipari épületek után tekerjen át a békés munkásnegyedeken. Délután a Zlíni Állatkerthez és a Lešná-kastélyhoz vezető út tökéletes harmóniát teremt a város és a természet között.",
         "ro": "Experimentați Zlín dinamic pe bicicletă. După atracțiile arhitecturii industriale Baťa din centru, pedalați prin coloniile liniștite de muncitori. După-amiaza, drumul spre Grădina Zoologică și Castelul Lešná oferă o combinație perfectă de natură și istorie.",
-        "en": "Experience Zlín dynamically on a bicycle. After taking in the Baťa industrial architecture in the center, cycle through the quiet worker colonies. In the afternoon, the ride out to Zlín Zoo and Lešná Castle provides a perfect blend of urban heritage and nature."
+        "en": "Experience Zlín dynamically on a bicycle. After taking in the Baťa industrial architecture in the center, cycle through the quiet worker colonies. In the afternoon, the ride out to Zlín Zoo and Lešná Castle provides a perfect blend of urban heritage and nature.",
+        "cs": "Zažijte Zlín dynamicky na kole. Po prohlídce baťovské industriální architektury v centru projedete klidné dělnické kolonie. Odpoledne vás vyjížďka k Zoo Zlín a zámku Lešná nabídne ideální spojení městského dědictví a přírody."
       },
       "gastro_picks": {
         "de": [
@@ -598,6 +617,12 @@
           "Pay attention to pedestrian zones in the city center.",
           "The ride out to the zoo is relatively flat and well-paved.",
           "Always lock your bike securely, especially at the zoo."
+        ],
+        "cs": [
+          "Zlín má dobré, široké cyklostezky.",
+          "Dejte pozor na pěší zóny v centru města.",
+          "Jízda k zoo je relativně rovná a dobře dlažena.",
+          "Vždy pečlivě zamkněte kolo, zejména u zoo."
         ]
       }
     },
@@ -625,7 +650,8 @@
             "de": "Parken Sie zentral am Rande des Baťa-Industriegeländes.",
             "hu": "Parkoljon központilag a Baťa-iparvidék szélén.",
             "ro": "Parcați central la marginea zonei industriale Baťa.",
-            "en": "Park centrally on the edge of the Baťa industrial area."
+            "en": "Park centrally on the edge of the Baťa industrial area.",
+            "cs": "Parkujte centrálně na okraji baťovské průmyslové oblasti."
           }
         },
         {
@@ -644,7 +670,8 @@
             "de": "Nur einen kurzen Fußweg vom Wolkenkratzer entfernt.",
             "hu": "Csak egy rövid sétára a felhőkarcolótól.",
             "ro": "La doar o scurtă plimbare de zgârie-nori.",
-            "en": "Just a short walk from the skyscraper."
+            "en": "Just a short walk from the skyscraper.",
+            "cs": "Jen krátká procházka od mrakodrapu."
           }
         },
         {
@@ -663,7 +690,8 @@
             "de": "Das Auto kann geparkt bleiben, das Schloss ist fußläufig.",
             "hu": "Az autó maradhat a parkolóban, a kastély sétatávolságra van.",
             "ro": "Mașina poate rămâne parcată, castelul fiind accesibil pe jos.",
-            "en": "Leave your car parked, the castle is within walking distance."
+            "en": "Leave your car parked, the castle is within walking distance.",
+            "cs": "Nechte auto zaparkované, zámek je v pěší vzdálenosti."
           }
         },
         {
@@ -682,7 +710,8 @@
             "de": "Fahren Sie in den oberen Teil der Stadt und parken Sie am Rande der Siedlungen.",
             "hu": "Vezessen fel a város felső részébe, és parkoljon a negyed szélén.",
             "ro": "Conduceți spre partea superioară a orașului și parcați la marginea coloniilor.",
-            "en": "Drive to the upper part of the city and park on the edge of the settlements."
+            "en": "Drive to the upper part of the city and park on the edge of the settlements.",
+            "cs": "Jeďte do horní části města a zaparkujte na okraji sídlišť."
           }
         },
         {
@@ -701,7 +730,8 @@
             "de": "Von den Siedlungen ein kurzer Spaziergang zum Glasmonument.",
             "hu": "A negyedből rövid séta vezet az üvegemlékműhöz.",
             "ro": "Din cartier o scurtă plimbare vă duce la monumentul de sticlă.",
-            "en": "A short walk from the settlements to the glass monument."
+            "en": "A short walk from the settlements to the glass monument.",
+            "cs": "Krátká procházka ze sídlišť ke skleněnému památníku."
           }
         },
         {
@@ -720,7 +750,8 @@
             "de": "Fahren Sie zum Abschluss zum großen Parkplatz des Zoos.",
             "hu": "Végül vezessen ki az állatkert hatalmas parkolójához.",
             "ro": "La final conduceți spre parcarea mare a grădinii zoologice.",
-            "en": "Finish your day by driving to the zoo's spacious parking lot."
+            "en": "Finish your day by driving to the zoo's spacious parking lot.",
+            "cs": "Ukončete den jízdou na prostorné parkoviště u zoo."
           }
         }
       ],
@@ -728,7 +759,8 @@
         "de": "Mit dem Auto verbinden Sie Zlíns Highlights mühelos. Vormittags parken Sie zentral für Wolkenkratzer und Museen. Nach dem Mittag fahren Sie hinauf zu den beeindruckenden Arbeitersiedlungen und dem Baťa-Denkmal. Den krönenden Abschluss bildet der Ausflug zum Zoo und Schloss Lešná am Stadtrand.",
         "hu": "Autóval kényelmesen összekötheti Zlín látnivalóit. Délelőtt a központban parkolva bejárható a felhőkarcoló és a múzeum. Ebéd után irány a hegyvidéki munkásnegyed és a Baťa-emlékmű. A nap fénypontja a városszéli állatkert és a Lešná-kastély meglátogatása.",
         "ro": "Cu mașina conectați ușor atracțiile din Zlín. Dimineața parcați central pentru zgârie-nori și muzee. După prânz, conduceți sus spre coloniile de muncitori și Memorialul Baťa. Punctul culminant al zilei este vizita la grădina zoologică și castelul Lešná de la periferie.",
-        "en": "Connect Zlín's highlights effortlessly by car. Park centrally in the morning for the skyscraper and museums. After lunch, drive up to the striking worker colonies and the Bata Memorial. The day concludes with an afternoon trip to the renowned Zoo and Lešná Castle on the outskirts."
+        "en": "Connect Zlín's highlights effortlessly by car. Park centrally in the morning for the skyscraper and museums. After lunch, drive up to the striking worker colonies and the Bata Memorial. The day concludes with an afternoon trip to the renowned Zoo and Lešná Castle on the outskirts.",
+        "cs": "Propojte zlínské atrakce bez námahy autem. Ráno parkujte centrálně pro mrakodrap a muzea. Po obědě vyjeďte k výrazným dělnickým koloniím a Památníku Baťa. Den zakončete odpolední jízdou do známé Zoo a zámku Lešná na okraji města."
       },
       "gastro_picks": {
         "de": [
@@ -904,6 +936,12 @@
           "Park once in the center and walk to the clustered sights.",
           "The zoo parking lot can fill up on weekend afternoons.",
           "Watch out for no-parking zones in the worker colonies."
+        ],
+        "cs": [
+          "Placení parkovného v centru je nejjednodušší přes aplikaci.",
+          "Zaparkujte jednou v centru a dojďte k soustředěným památkám pěšky.",
+          "Parkoviště u zoo se může o víkendových odpoledních zaplnit.",
+          "Dejte pozor na zákaz stání v dělnických koloniích."
         ]
       }
     },
@@ -931,7 +969,8 @@
             "de": "Nehmen Sie den Bus hügelaufwärts zum Denkmal.",
             "hu": "Menjen busszal fel a dombra az emlékműhöz.",
             "ro": "Luați autobuzul la deal spre monument.",
-            "en": "Take the bus up the hill to the memorial."
+            "en": "Take the bus up the hill to the memorial.",
+            "cs": "Vyjeďte autobusem na kopec k památníku."
           }
         },
         {
@@ -950,7 +989,8 @@
             "de": "Spazieren Sie bergab durch die Gassen mit den roten Häusern.",
             "hu": "Sétáljon lefelé a vörös házas utcácskákon.",
             "ro": "Plimbați-vă la vale pe străduțele cu case roșii.",
-            "en": "Walk downhill through the streets of red houses."
+            "en": "Walk downhill through the streets of red houses.",
+            "cs": "Jděte z kopce ulicemi červených domků."
           }
         },
         {
@@ -969,7 +1009,8 @@
             "de": "Steigen Sie in den Trolleybus ins Stadtzentrum.",
             "hu": "Szálljon fel egy trolibuszra a belváros felé.",
             "ro": "Urcați-vă în troleibuz spre centrul orașului.",
-            "en": "Hop on a trolleybus to the city center."
+            "en": "Hop on a trolleybus to the city center.",
+            "cs": "Nastupte na trolejbus do centra města."
           }
         },
         {
@@ -988,7 +1029,8 @@
             "de": "Bequem zu Fuß vom Wolkenkratzer aus zu erreichen.",
             "hu": "Kényelmesen elérhető gyalog a felhőkarcolótól.",
             "ro": "Ușor de accesat pe jos de la zgârie-nori.",
-            "en": "Easily accessible on foot from the skyscraper."
+            "en": "Easily accessible on foot from the skyscraper.",
+            "cs": "Snadno přístupné pěšky z mrakodrapu."
           }
         },
         {
@@ -1007,7 +1049,8 @@
             "de": "Bewundern Sie die Fassade des Kinos auf dem Weg zur nächsten Bushaltestelle.",
             "hu": "Csodálja meg a mozi homlokzatát a következő buszmegálló felé menet.",
             "ro": "Admirați fațada cinematografului în drum spre următoarea stație de autobuz.",
-            "en": "Admire the cinema facade on your way to the next bus stop."
+            "en": "Admire the cinema facade on your way to the next bus stop.",
+            "cs": "Obdivujte fasádu kina cestou k další autobusové zastávce."
           }
         },
         {
@@ -1026,7 +1069,8 @@
             "de": "Eine direkte Buslinie bringt Sie bequem bis an die Tore des Zoos.",
             "hu": "Egy közvetlen buszjárat kényelmesen az állatkert kapujához viszi.",
             "ro": "O linie directă de autobuz vă duce confortabil la porțile grădinii zoologice.",
-            "en": "A direct bus line takes you comfortably to the gates of the zoo."
+            "en": "A direct bus line takes you comfortably to the gates of the zoo.",
+            "cs": "Přímá autobusová linka vás pohodlně doveze až ke vstupům do zoo."
           }
         }
       ],
@@ -1034,7 +1078,8 @@
         "de": "Dank Zlíns ausgezeichnetem Trolleybus-Netzwerk ist dieser Tag stressfrei. Sie beginnen oben am Denkmal, wandern durch die historischen Siedlungen und fahren dann ins Zentrum. Nach den dortigen industriellen Höhepunkten bringt Sie ein Bus direkt zum beliebten Zoo am Stadtrand.",
         "hu": "Zlín kiváló trolibusz-hálózatának köszönhetően stresszmentes nap elé nézünk. Fent, az emlékműnél kezdünk, majd a történelmi negyeden átsétálva a központba buszozunk. Az ottani ipari látványosságok után közvetlen busz visz a népszerű városszéli állatkertbe.",
         "ro": "Datorită rețelei excelente de troleibuze din Zlín, această zi este fără stres. Începeți sus, la monument, vă plimbați prin coloniile istorice și apoi luați autobuzul spre centru. După reperele industriale, un autobuz vă duce direct la populara grădină zoologică.",
-        "en": "Thanks to Zlín's excellent trolleybus network, this day is entirely stress-free. Start high up at the memorial, wander through the historic settlements, and then ride to the center. After taking in the industrial highlights, a bus takes you straight to the popular zoo on the outskirts."
+        "en": "Thanks to Zlín's excellent trolleybus network, this day is entirely stress-free. Start high up at the memorial, wander through the historic settlements, and then ride to the center. After taking in the industrial highlights, a bus takes you straight to the popular zoo on the outskirts.",
+        "cs": "Díky vynikající síti trolejbusů ve Zlíně je tento den bez stresu. Začněte nahoře u památníku, projděte historická sídliště a pak se svozem vydejte do centra. Po zhlédnutí industriálních highlightů vás autobus doveze přímo do oblíbené zoo na okraji města."
       },
       "gastro_picks": {
         "de": [
@@ -1210,6 +1255,12 @@
           "Buy a day ticket directly at the larger stations.",
           "The bus ride to Zoo Lešná from the center takes about 15-20 minutes.",
           "Buses run less frequently on weekends, so check the schedule."
+        ],
+        "cs": [
+          "Trolejbusy jsou nejdůležitějším a nejspolehlivějším dopravním prostředkem.",
+          "Kupte si celodenní jízdenku přímo na větších zastávkách.",
+          "Jízda autobusem do Zoo Lešná z centra trvá asi 15–20 minut.",
+          "Autobusy o víkendech jezdí méně často, proto zkontrolujte jízdní řád."
         ]
       }
     }

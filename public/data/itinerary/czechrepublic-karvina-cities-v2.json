@@ -21,7 +21,8 @@
             "de": "Masaryk-Platz",
             "hu": "Masaryk tér",
             "ro": "Piața Masaryk",
-            "en": "Masaryk Square"
+            "en": "Masaryk Square",
+            "cs": "Masarykovo náměstí"
           },
           "coords": [
             18.5414,
@@ -37,7 +38,8 @@
             "de": "Beginnen Sie Ihren Tag im Herzen der Stadt, umgeben von historischer Architektur.",
             "hu": "Kezdje a napot a város szívében, történelmi épületekkel körülvéve.",
             "ro": "Începeți ziua în inima orașului, înconjurat de arhitectură istorică.",
-            "en": "Start your day in the heart of the city, surrounded by historical architecture."
+            "en": "Start your day in the heart of the city, surrounded by historical architecture.",
+            "cs": "Začněte den v srdci města obklopeni historickou architekturou."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Rathaus Karviná",
             "hu": "Karvinái Városháza",
             "ro": "Primăria Karviná",
-            "en": "Karviná Town Hall"
+            "en": "Karviná Town Hall",
+            "cs": "Radnice města Karviná"
           },
           "coords": [
             18.541,
@@ -61,7 +64,8 @@
             "de": "Bewundern Sie das beeindruckende Gebäude, das die lokale Verwaltung beherbergt.",
             "hu": "Csodálja meg a lenyűgöző épületet, amely a helyi közigazgatásnak ad otthont.",
             "ro": "Admirați clădirea impresionantă care găzduiește administrația locală.",
-            "en": "Admire the impressive building that houses the local administration."
+            "en": "Admire the impressive building that houses the local administration.",
+            "cs": "Obdivujte impozantní budovu, kde sídlí místní správa."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "St.-Peter-von-Alcantara-Kirche",
             "hu": "Szent Péter von Alcantara-templom",
             "ro": "Biserica Sf. Petru de Alcantara",
-            "en": "Church of St. Peter of Alcantara"
+            "en": "Church of St. Peter of Alcantara",
+            "cs": "Kostel sv. Petra z Alcantary"
           },
           "coords": [
             18.542,
@@ -85,7 +90,8 @@
             "de": "Diese schiefe Kirche ist ein einzigartiges Fotomotiv aufgrund von Bergbauschäden.",
             "hu": "Ez a ferde templom egyedülálló fotótéma a bányászat okozta süllyedés miatt.",
             "ro": "Această biserică înclinată este un subiect foto unic datorită surpărilor miniere.",
-            "en": "This leaning church is a unique photo opportunity due to mining subsidence."
+            "en": "This leaning church is a unique photo opportunity due to mining subsidence.",
+            "cs": "Tento nakloněný kostel je díky sesedání terénu jedinečnou fotografickou příležitostí."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Schloss Fryštát",
             "hu": "Fryštát-kastély",
             "ro": "Castelul Fryštát",
-            "en": "Fryštát Chateau"
+            "en": "Fryštát Chateau",
+            "cs": "Zámek Fryštát"
           },
           "coords": [
             18.544,
@@ -109,7 +116,8 @@
             "de": "Nehmen Sie an einer Führung teil, um die opulenten Innenräume zu sehen.",
             "hu": "Vegyen részt egy tárlatvezetésen, hogy megtekinthesse a pazar belső tereket.",
             "ro": "Participați la un tur ghidat pentru a vedea interioarele opulente.",
-            "en": "Join a guided tour to see the opulent interiors."
+            "en": "Join a guided tour to see the opulent interiors.",
+            "cs": "Připojte se k prohlídce s průvodcem a prohlédněte si reprezentační interiéry."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Park Boženy Němcové",
             "hu": "Božena Němcová Park",
             "ro": "Parcul Božena Němcová",
-            "en": "Božena Němcová Park"
+            "en": "Božena Němcová Park",
+            "cs": "Park Boženy Němcové"
           },
           "coords": [
             18.548,
@@ -133,7 +142,8 @@
             "de": "Perfekt für ein Mittagspicknick oder einen entspannten Spaziergang am See.",
             "hu": "Tökéletes egy déli piknikhez vagy egy pihentető sétához a tó mellett.",
             "ro": "Perfect pentru un picnic la prânz sau o plimbare relaxantă pe malul lacului.",
-            "en": "Perfect for a midday picnic or a relaxing stroll by the lake."
+            "en": "Perfect for a midday picnic or a relaxing stroll by the lake.",
+            "cs": "Ideální pro polední piknik nebo klidnou procházku u jezera."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Lázně Darkov (Heilbad)",
             "hu": "Darkov Gyógyfürdő",
             "ro": "Băile Darkov",
-            "en": "Darkov Spa"
+            "en": "Darkov Spa",
+            "cs": "Lázně Darkov"
           },
           "coords": [
             18.525,
@@ -157,7 +168,8 @@
             "de": "Auch wenn Sie keine Behandlung buchen, ist die Architektur des Kurhauses sehenswert.",
             "hu": "Még ha nem is vesz igénybe kezelést, a fürdőház építészete megér egy látogatást.",
             "ro": "Chiar dacă nu rezervați un tratament, arhitectura spa-ului merită văzută.",
-            "en": "Even if not booking a treatment, the spa house architecture is worth seeing."
+            "en": "Even if not booking a treatment, the spa house architecture is worth seeing.",
+            "cs": "I když si neobjednáte proceduru, stojí za to vidět architekturu lázeňského domu."
           }
         }
       ],
@@ -165,7 +177,8 @@
         "de": "Ihr Tag in Karviná beginnt am zentralen Masaryk-Platz, dem pulsierenden Herzen der Stadt. Von hier aus erkunden Sie zu Fuß das nahegelegene Rathaus und die berühmte schiefe Kirche St. Peter von Alcantara, ein Zeugnis der Bergbaugeschichte der Region. Der Vormittag gipfelt in einem Besuch des prächtigen Schlosses Fryštát, wo Sie in die aristokratische Vergangenheit eintauchen.\nNach der Kultur am Morgen ist es Zeit für Entspannung. Der angrenzende Boženy Němcové Park bietet eine grüne Oase für einen Mittagsspaziergang oder ein Picknick. Hier können Sie die Natur genießen und sich für den zweiten Teil Ihres Tages stärken. Der Park ist ein beliebter Treffpunkt für Einheimische und Besucher gleichermaßen.\nAm Nachmittag führt Sie ein längerer Spaziergang zum berühmten Heilbad Lázně Darkov. Die einzigartige Architektur und die ruhige Atmosphäre des Kurortes sind eine Welt für sich. Nehmen Sie sich Zeit, das Gelände zu erkunden und die heilende Umgebung auf sich wirken zu lassen.\nDer Tag klingt in der friedlichen Umgebung des Kurparks aus. Lassen Sie die vielfältigen Eindrücke des Tages Revue passieren, von der städtischen Architektur über die herrschaftliche Pracht bis hin zur beruhigenden Natur des Heilbades, bevor Sie Ihren Weg zurück antreten.",
         "hu": "Karvinái napja a központi Masaryk téren kezdődik, a város lüktető szívében. Innen gyalogosan fedezi fel a közeli Városházát és a híres ferde Szent Péter von Alcantara-templomot, amely a régió bányászati múltjának tanúja. A délelőtt a csodálatos Fryštát-kastély meglátogatásával csúcsosodik ki, ahol elmerülhet az arisztokrata múltban.\nA délelőtti kultúra után itt az ideje a pihenésnek. A szomszédos Božena Němcová Park zöld oázist kínál egy déli sétához vagy piknikhez. Itt élvezheti a természetet és erőt gyűjthet a nap második felére. A park a helyiek és a látogatók kedvelt találkozóhelye.\nDélután egy hosszabb séta vezet a híres Darkov Gyógyfürdőhöz. A gyógyhely egyedi építészete és nyugodt légköre egy külön világ. Szánjon időt a terület felfedezésére, és hagyja, hogy a gyógyító környezet hasson önre.\nA nap a fürdőpark békés környezetében ér véget. Idézze fel a nap sokszínű benyomásait, a városi építészettől a főúri pompán át a gyógyfürdő nyugtató természetéig, mielőtt visszaindulna.",
         "ro": "Ziua dumneavoastră în Karviná începe în Piața centrală Masaryk, inima vibrantă a orașului. De aici, explorați pe jos Primăria din apropiere și faimoasa biserică înclinată a Sfântului Petru de Alcantara, o mărturie a istoriei miniere a regiunii. Dimineața culminează cu o vizită la magnificul Castel Fryštát, unde vă veți cufunda în trecutul aristocratic.\nDupă cultura de dimineață, este timpul pentru relaxare. Parcul adiacent Božena Němcová oferă o oază de verdeață pentru o plimbare de prânz sau un picnic. Aici vă puteți bucura de natură și vă puteți reîncărca pentru a doua parte a zilei. Parcul este un loc de întâlnire popular atât pentru localnici, cât și pentru vizitatori.\nDupă-amiaza, o plimbare mai lungă vă va duce la faimosul spa Lázně Darkov. Arhitectura unică și atmosfera liniștită a stațiunii balneare sunt o lume în sine. Acordați-vă timp pentru a explora terenul și pentru a absorbi mediul vindecător.\nZiua se încheie în împrejurimile pașnice ale parcului spa. Reflectați asupra impresiilor diverse ale zilei, de la arhitectura urbană și splendoarea nobiliară la natura liniștitoare a spa-ului, înainte de a vă întoarce.",
-        "en": "Your day in Karviná begins at the central Masaryk Square, the vibrant heart of the city. From here, you'll explore the nearby Town Hall and the famous leaning Church of St. Peter of Alcantara on foot, a testament to the region's mining history. The morning culminates in a visit to the magnificent Fryštát Chateau, where you'll delve into the aristocratic past.\nAfter the morning's culture, it's time for relaxation. The adjacent Božena Němcová Park offers a green oasis for a midday stroll or a picnic. Here you can enjoy nature and recharge for the second part of your day. The park is a popular meeting place for locals and visitors alike.\nIn the afternoon, a longer walk takes you to the famous Lázně Darkov spa. The unique architecture and tranquil atmosphere of the spa resort are a world unto themselves. Take your time to explore the grounds and soak in the healing environment.\nThe day concludes in the peaceful surroundings of the spa park. Reflect on the day's diverse impressions, from urban architecture and stately splendor to the calming nature of the spa, before making your way back."
+        "en": "Your day in Karviná begins at the central Masaryk Square, the vibrant heart of the city. From here, you'll explore the nearby Town Hall and the famous leaning Church of St. Peter of Alcantara on foot, a testament to the region's mining history. The morning culminates in a visit to the magnificent Fryštát Chateau, where you'll delve into the aristocratic past.\nAfter the morning's culture, it's time for relaxation. The adjacent Božena Němcová Park offers a green oasis for a midday stroll or a picnic. Here you can enjoy nature and recharge for the second part of your day. The park is a popular meeting place for locals and visitors alike.\nIn the afternoon, a longer walk takes you to the famous Lázně Darkov spa. The unique architecture and tranquil atmosphere of the spa resort are a world unto themselves. Take your time to explore the grounds and soak in the healing environment.\nThe day concludes in the peaceful surroundings of the spa park. Reflect on the day's diverse impressions, from urban architecture and stately splendor to the calming nature of the spa, before making your way back.",
+        "cs": "Váš den v Karviné začíná na centrálním Masarykově náměstí, pulzujícím srdci města. Odtud pěšky prozkoumáte nedalekou radnici a slavný nakloněný kostel sv. Petra z Alcantary, svědectví o důlní historii regionu. Dopoledne vyvrcholí návštěvou impozantního zámku Fryštát, kde nahlédnete do šlechtického života.\nPo dopolední kulturní části je čas na odpočinek. Sousední park Boženy Němcové nabízí zelenou oázu pro polední procházku nebo piknik. Zde si můžete užít přírodu a načerpat síly na druhou část dne. Park je oblíbeným setkávacím místem místních i návštěvníků.\nOdpoledne vás delší procházka zavede k proslulým Lázním Darkov. Jedinečná architektura a klidná atmosféra lázeňského resortu tvoří samostatný svět. Věnujte čas procházce po areálu a nasajte léčivé prostředí.\nDen zakončíte v klidném prostředí lázeňského parku. Zhodnoťte různé dojmy dne – od městské architektury a zámecké reprezentace po uklidňující atmosféru lázní – než se vydáte zpět."
       },
       "gastro_picks": {
         "de": [
@@ -361,6 +374,12 @@
           "Bring a reusable water bottle to stay hydrated.",
           "Check the opening hours of Fryštát Chateau in advance.",
           "A small backpack is useful for carrying snacks and souvenirs."
+        ],
+        "cs": [
+          "Obujte si pohodlné boty, plán zahrnuje hodně chůze.",
+          "Vezměte si znovunaplnitelnou lahev na vodu, abyste zůstali hydratovaní.",
+          "Předem si zkontrolujte otevírací dobu zámku Fryštát.",
+          "Malý batoh se hodí na občerstvení a suvenýry."
         ]
       },
       "variants": {
@@ -369,7 +388,8 @@
             "de": "Der Morgen in Karwin beginnt grau, aber der Masaryk-Platz bietet unter den Arkaden guten Schutz. Mittags führt der Weg zum Schloss Fryštát, wo die Innenräume eine trockene Flucht in die Geschichte bieten. Am Nachmittag trotzen wir dem Regen im Park, während wir zur schiefen Kirche wandern. Den Tag lassen wir in den Kureinrichtungen von Darkov ausklingen, wo das Prasseln des Regens die Ruhe der Heilquellen unterstreicht.",
             "hu": "A reggel Karviná főterén ér minket, ahol az árkádok alatt védve maradunk az esőtől. Délben a Fryštát-kastély belső tárlatai nyújtanak menedéket és kulturális élményt. Délután az esernyők alatt sétálunk a dőlt templom felé, figyelve a talaj süllyedésének nyomait. Az estét a Darkov gyógyfürdő környékén zárjuk, ahol a sós víz illata keveredik a friss, eső utáni levegővel.",
             "ro": "Dimineața în Karviná începe sub umbrelă în Piața Masaryk, profitând de porțiunile acoperite. La prânz, interiorul castelului Fryštát oferă un refugiu uscat și o incursiune în istoria locală. După-amiaza este dedicată bisericii înclinate, unde ploaia accentuează atmosfera dramatică a locului. Seara se încheie la stațiunea Darkov, unde sunetul ploii completează perfect liniștea parcului balnear.",
-            "en": "The morning starts under the arcades of Masaryk Square, keeping us dry while admiring the architecture. At noon, the interior of Fryštát Chateau provides a perfect refuge from the rain. In the afternoon, we head to the leaning church, where the overcast sky adds to the unique atmosphere of the subsided landscape. The day ends at the Darkov Spa, where the sound of rain pairs well with the therapeutic surroundings."
+            "en": "The morning starts under the arcades of Masaryk Square, keeping us dry while admiring the architecture. At noon, the interior of Fryštát Chateau provides a perfect refuge from the rain. In the afternoon, we head to the leaning church, where the overcast sky adds to the unique atmosphere of the subsided landscape. The day ends at the Darkov Spa, where the sound of rain pairs well with the therapeutic surroundings.",
+            "cs": "Ráno začínáme pod arkádami Masarykova náměstí, které nás udrží v suchu při obdivu architektury. V poledne poskytuje interiér zámku Fryštát ideální úkryt před deštěm. Odpoledne zamíříme k nakloněnému kostelu, kde zatažená obloha podtrhuje jedinečnou atmosféru sesedlého terénu. Den končí v Lázních Darkov, kde zvuk deště ladí s terapeutickým prostředím."
           },
           "stops": [
             {
@@ -378,7 +398,8 @@
                 "de": "Nutzen Sie die Arkadengänge an der Nordseite des Platzes.",
                 "hu": "Használja az északi oldal árkádos folyosóit a száraz nézelődéshez.",
                 "ro": "Folosiți arcadele din partea de nord a pieței pentru a rămâne uscați.",
-                "en": "Use the arcades on the north side of the square to stay dry."
+                "en": "Use the arcades on the north side of the square to stay dry.",
+                "cs": "Používejte arkády na severní straně náměstí, abyste zůstali v suchu."
               }
             },
             {
@@ -387,7 +408,8 @@
                 "de": "Das Renaissance-Portal ist auch bei Regen gut aus der Nähe zu sehen.",
                 "hu": "A reneszánsz kapuzat közelről is megcsodálható az esőben.",
                 "ro": "Portalul renascentist poate fi admirat de aproape chiar și pe ploaie.",
-                "en": "The Renaissance portal can be admired from close up even in the rain."
+                "en": "The Renaissance portal can be admired from close up even in the rain.",
+                "cs": "Renesanční portál lze obdivovat zblízka i v dešti."
               }
             },
             {
@@ -396,7 +418,8 @@
                 "de": "Vorsicht auf dem feuchten Rasen rund um die schiefe Kirche.",
                 "hu": "Vigyázzon a csúszós fűre a dőlt templom környékén.",
                 "ro": "Atenție la iarba umedă din jurul bisericii înclinate.",
-                "en": "Be careful on the wet grass around the leaning church."
+                "en": "Be careful on the wet grass around the leaning church.",
+                "cs": "Buďte opatrní na mokré trávě kolem nakloněného kostela."
               }
             },
             {
@@ -405,7 +428,8 @@
                 "de": "Ideale Zeit für eine ausführliche Innenführung durch die Säle.",
                 "hu": "Ideális időpont egy hosszú belső vezetésre a kastélytermeiben.",
                 "ro": "Moment ideal pentru un tur detaliat al interioarelor castelului.",
-                "en": "Ideal time for an extensive indoor guided tour of the rooms."
+                "en": "Ideal time for an extensive indoor guided tour of the rooms.",
+                "cs": "Ideální čas na rozsáhlou vnitřní prohlídku s průvodcem."
               }
             },
             {
@@ -414,7 +438,8 @@
                 "de": "Die dichten Baumkronen bieten zeitweise Schutz vor leichtem Niesel.",
                 "hu": "A sűrű lombozat ideiglenes védelmet nyújt a szemerkélő esőben.",
                 "ro": "Coroanele dese oferă adăpost temporar împotriva ploii ușoare.",
-                "en": "Dense tree canopies provide temporary shelter from light drizzle."
+                "en": "Dense tree canopies provide temporary shelter from light drizzle.",
+                "cs": "Husté koruny stromů poskytnou dočasný úkryt při slabém mrholení."
               }
             },
             {
@@ -423,7 +448,8 @@
                 "de": "Besuchen Sie das Kurhaus für eine warme Jod-Sole-Anwendung.",
                 "hu": "Látogasson el a gyógyépületbe egy meleg jódos-sós kezelésre.",
                 "ro": "Vizitați clădirea băilor pentru un tratament cald cu iod și sare.",
-                "en": "Visit the spa building for a warm iodine-bromine treatment."
+                "en": "Visit the spa building for a warm iodine-bromine treatment.",
+                "cs": "Navštivte lázeňský dům pro teplou jodo–bromovou proceduru."
               }
             }
           ],
@@ -451,6 +477,12 @@
               "The arcades at Masaryk Square are the best meeting points during showers.",
               "Fryštát Chateau is the key indoor highlight for rainy days.",
               "Wear waterproof shoes for the path to the leaning church."
+            ],
+            "cs": [
+              "Vezměte pevný deštník, na otevřených prostranstvích může být větrno.",
+              "Arkády na Masarykově náměstí jsou nejlepšími místy pro setkání během přeháněk.",
+              "Zámek Fryštát je hlavní vnitřní atrakcí pro deštivé dny.",
+              "Na cestu k nakloněnému kostelu noste nepromokavé boty."
             ]
           }
         },
@@ -459,7 +491,8 @@
             "de": "Karwin zeigt sich im Winter von seiner ruhigen Seite, wenn der Frost auf dem Masaryk-Platz glitzert. Mittags wärmen wir uns im Schloss auf, bevor wir die frostige Parklandschaft durchqueren. Am frühen Nachmittag besuchen wir die schiefe Kirche, deren Neigung im kahlen Winterlicht besonders markant wirkt. Da die Sonne früh untergeht, genießen wir das beleuchtete Darkov und die warme Atmosphäre der Kurhäuser.",
             "hu": "A téli Karviná csendes és fagyos, a főtér kövei csillognak a dértől. Délben a kastély meleg termeiben pihenünk meg, majd átvágunk a zúzmarás parkon. Kora délután látogatjuk meg a dőlt templomot, melynek dőlése a kopár fák között még látványosabb. Mivel korán sötétedik, a kivilágított Darkov fürdő környékén fejezzük be a napot, élvezve a gyógyhely melegét.",
             "ro": "Karviná iarna are un farmec auster, cu gerul sclipind în Piața Masaryk. La prânz ne încălzim în camerele castelului, înainte de o plimbare prin parcul înghețat. După-amiaza devreme vizităm biserica înclinată, a cărei asimetrie este mai vizibilă prin ramurile goale. Deoarece soarele apune devreme, ne bucurăm de luminile serii în Darkov și de confortul stațiunii.",
-            "en": "Karviná shows its quiet side in winter, with frost glistening on Masaryk Square. At noon, we warm up inside the chateau before crossing the frozen park landscape. In the early afternoon, we visit the leaning church, where its tilt looks even more striking against the bare winter trees. As the sun sets early, we enjoy the illuminated Darkov area and the warm spa atmosphere."
+            "en": "Karviná shows its quiet side in winter, with frost glistening on Masaryk Square. At noon, we warm up inside the chateau before crossing the frozen park landscape. In the early afternoon, we visit the leaning church, where its tilt looks even more striking against the bare winter trees. As the sun sets early, we enjoy the illuminated Darkov area and the warm spa atmosphere.",
+            "cs": "Karviná ukazuje své klidné stránky v zimě, když mráz blýská na Masarykově náměstí. V poledne se zahřejeme uvnitř zámku před přechodem mrazivé parkové krajiny. Na začátku odpoledne navštívíme nakloněný kostel, jehož náklon působí ještě výrazněji na pozadí holých zimních stromů. Jak brzy zapadá slunce, užijeme si nasvícenou oblast Darkova a příjemnou lázeňskou atmosféru."
           },
           "stops": [
             {
@@ -468,7 +501,8 @@
                 "de": "Vorsicht vor glatten Stellen auf dem historischen Pflaster.",
                 "hu": "Vigyázzon a csúszós foltokra a történelmi macskakövön.",
                 "ro": "Atenție la porțiunile alunecoase pe pavajul istoric.",
-                "en": "Watch out for slippery spots on the historical cobblestones."
+                "en": "Watch out for slippery spots on the historical cobblestones.",
+                "cs": "Dejte pozor na kluzká místa na historické dlažbě."
               }
             },
             {
@@ -477,7 +511,8 @@
                 "de": "In der Nähe gibt es gemütliche Cafés zum Aufwärmen.",
                 "hu": "A közelben barátságos kávézók várják a melegedni vágyókat.",
                 "ro": "Există cafenele primitoare în apropiere pentru a vă încălzi.",
-                "en": "There are cozy cafes nearby to warm up."
+                "en": "There are cozy cafes nearby to warm up.",
+                "cs": "V blízkosti jsou útulné kavárny k zahřátí."
               }
             },
             {
@@ -486,7 +521,8 @@
                 "de": "Besuch vor 16 Uhr planen, da es früh dunkel wird.",
                 "hu": "Tervezze a látogatást 16 óra elé a korai sötétedés miatt.",
                 "ro": "Planificați vizita înainte de ora 16, deoarece se întunecă devreme.",
-                "en": "Plan your visit before 4 PM due to the early sunset."
+                "en": "Plan your visit before 4 PM due to the early sunset.",
+                "cs": "Plánujte návštěvu před 16:00 kvůli brzkému západu slunce."
               }
             },
             {
@@ -495,7 +531,8 @@
                 "de": "Die Innenräume sind angenehm temperiert für eine Pause.",
                 "hu": "A belső terek kellemesen fűtöttek egy kis pihenőhöz.",
                 "ro": "Interioarele sunt încălzite, oferind o pauză binevenită.",
-                "en": "The interiors are comfortably heated for a break."
+                "en": "The interiors are comfortably heated for a break.",
+                "cs": "Interiéry jsou příjemně vytopené pro odpočinek."
               }
             },
             {
@@ -504,7 +541,8 @@
                 "de": "Festes Schuhwerk für eventuell verschneite Wege nötig.",
                 "hu": "Havas utak esetén stabil, meleg lábbeli szükséges.",
                 "ro": "Încălțăminte solidă este necesară pentru potecile eventual înzăpezite.",
-                "en": "Sturdy footwear is needed for potentially snowy paths."
+                "en": "Sturdy footwear is needed for potentially snowy paths.",
+                "cs": "Na případně zasněžené cesty si vezměte pevnou obuv."
               }
             },
             {
@@ -513,7 +551,8 @@
                 "de": "Genießen Sie die Abendbeleuchtung der historischen Kurbrücke.",
                 "hu": "Élvezze a történelmi gyógyhíd esti kivilágítását.",
                 "ro": "Bucurați-vă de iluminarea de seară a podului istoric din stațiune.",
-                "en": "Enjoy the evening illumination of the historical spa bridge."
+                "en": "Enjoy the evening illumination of the historical spa bridge.",
+                "cs": "Užijte si večerní nasvícení historického lázeňského mostu."
               }
             }
           ],
@@ -541,6 +580,12 @@
               "The sun sets around 4 PM in December.",
               "Warm drinks are readily available in the venues around the square.",
               "The path to the leaning church can be slippery during frost."
+            ],
+            "cs": [
+              "Oblékejte se do vrstev kvůli přechodu mezi chladným venkem a vytopenými interiéry.",
+              "V prosinci slunce zapadá kolem 16:00.",
+              "Teplé nápoje jsou v okolních prostorách snadno k dostání.",
+              "Cesta k nakloněnému kostelu může být při mrazíku kluzká."
             ]
           }
         }
@@ -559,7 +604,8 @@
             "de": "Masaryk-Platz",
             "hu": "Masaryk tér",
             "ro": "Piața Masaryk",
-            "en": "Masaryk Square"
+            "en": "Masaryk Square",
+            "cs": "Masarykovo náměstí"
           },
           "coords": [
             18.5414,
@@ -575,7 +621,8 @@
             "de": "Ein idealer Ausgangspunkt für Ihre Radtour durch die Stadt.",
             "hu": "Ideális kiindulópont a városi kerékpártúrához.",
             "ro": "Un punct de plecare ideal pentru turul cu bicicleta al orașului.",
-            "en": "An ideal starting point for your bike tour of the city."
+            "en": "An ideal starting point for your bike tour of the city.",
+            "cs": "Ideální výchozí bod pro vaši cyklistickou vyjížďku po městě."
           }
         },
         {
@@ -583,7 +630,8 @@
             "de": "Schloss Fryštát & Park Boženy Němcové",
             "hu": "Fryštát-kastély & Božena Němcová Park",
             "ro": "Castelul Fryštát & Parcul Božena Němcová",
-            "en": "Fryštát Chateau & Božena Němcová Park"
+            "en": "Fryštát Chateau & Božena Němcová Park",
+            "cs": "Zámek Fryštát a park Boženy Němcové"
           },
           "coords": [
             18.546,
@@ -599,7 +647,8 @@
             "de": "Kombinieren Sie Kultur und Natur. Schließen Sie Ihr Rad an und erkunden Sie beides.",
             "hu": "Kombinálja a kultúrát a természettel. Zárja le a kerékpárját, és fedezze fel mindkettőt.",
             "ro": "Combinați cultura cu natura. Lăsați bicicleta și explorați ambele.",
-            "en": "Combine culture and nature. Lock up your bike and explore both."
+            "en": "Combine culture and nature. Lock up your bike and explore both.",
+            "cs": "Kombinace kultury a přírody. Zamkněte kolo a prozkoumejte obojí."
           }
         },
         {
@@ -607,7 +656,8 @@
             "de": "Kirche der Kreuzerhöhung",
             "hu": "Szent Kereszt Felmagasztalása templom",
             "ro": "Biserica Înălțarea Sfintei Cruci",
-            "en": "Church of the Exaltation of the Holy Cross"
+            "en": "Church of the Exaltation of the Holy Cross",
+            "cs": "Kostel Povýšení svatého Kříže"
           },
           "coords": [
             18.551,
@@ -623,7 +673,8 @@
             "de": "Ein kurzer Halt bei dieser Kirche bietet einen Moment der Ruhe.",
             "hu": "Egy rövid megálló ennél a templomnál egy pillanatnyi nyugalmat kínál.",
             "ro": "O scurtă oprire la această biserică oferă un moment de liniște.",
-            "en": "A short stop at this church offers a moment of peace."
+            "en": "A short stop at this church offers a moment of peace.",
+            "cs": "Krátká zastávka u tohoto kostela nabízí chvíli klidu."
           }
         },
         {
@@ -631,7 +682,8 @@
             "de": "Darkov-Brücke",
             "hu": "Darkov-híd",
             "ro": "Podul Darkov",
-            "en": "Darkov Bridge"
+            "en": "Darkov Bridge",
+            "cs": "Most Darkov"
           },
           "coords": [
             18.528,
@@ -647,7 +699,8 @@
             "de": "Eine beeindruckende Bogenbrücke, ideal für ein Erinnerungsfoto.",
             "hu": "Lenyűgöző ívhíd, ideális egy emlékkép készítéséhez.",
             "ro": "Un pod arcuit impresionant, ideal pentru o fotografie de suvenir.",
-            "en": "An impressive arch bridge, ideal for a souvenir photo."
+            "en": "An impressive arch bridge, ideal for a souvenir photo.",
+            "cs": "Impozantní obloukový most, ideální pro suvenýrovou fotografii."
           }
         },
         {
@@ -655,7 +708,8 @@
             "de": "Lázně Darkov (Heilbad)",
             "hu": "Darkov Gyógyfürdő",
             "ro": "Băile Darkov",
-            "en": "Darkov Spa"
+            "en": "Darkov Spa",
+            "cs": "Lázně Darkov"
           },
           "coords": [
             18.525,
@@ -671,7 +725,8 @@
             "de": "Stellen Sie Ihr Rad ab und genießen Sie ein Mittagessen in einem der Kur-Restaurants.",
             "hu": "Tegye le a kerékpárt, és ebédeljen a gyógyfürdő egyik éttermében.",
             "ro": "Lăsați bicicleta și bucurați-vă de un prânz la unul dintre restaurantele spa.",
-            "en": "Park your bike and enjoy lunch at one of the spa's restaurants."
+            "en": "Park your bike and enjoy lunch at one of the spa's restaurants.",
+            "cs": "Zaparkujte kolo a dejte si oběd v jedné z lázeňských restaurací."
           }
         },
         {
@@ -679,7 +734,8 @@
             "de": "St.-Peter-von-Alcantara-Kirche",
             "hu": "Szent Péter von Alcantara-templom",
             "ro": "Biserica Sf. Petru de Alcantara",
-            "en": "Church of St. Peter of Alcantara"
+            "en": "Church of St. Peter of Alcantara",
+            "cs": "Kostel sv. Petra z Alcantary"
           },
           "coords": [
             18.542,
@@ -695,7 +751,8 @@
             "de": "Der 'schiefe Turm von Karviná' ist auf dem Rückweg ins Zentrum ein Muss.",
             "hu": "A 'karvinái ferde torony' kötelező látnivaló a központba való visszaúton.",
             "ro": "'Turnul înclinat din Karviná' este o vizită obligatorie pe drumul de întoarcere spre centru.",
-            "en": "The 'leaning tower of Karviná' is a must-see on your way back to the center."
+            "en": "The 'leaning tower of Karviná' is a must-see on your way back to the center.",
+            "cs": "„Nakloněná věž Karviné“ je zastávkou, kterou nesmíte minout na cestě zpět do centra."
           }
         },
         {
@@ -703,7 +760,8 @@
             "de": "Ausklang am Masaryk-Platz",
             "hu": "Levezetés a Masaryk téren",
             "ro": "Relaxare în Piața Masaryk",
-            "en": "Wind-down at Masaryk Square"
+            "en": "Wind-down at Masaryk Square",
+            "cs": "Uklidnění na Masarykově náměstí"
           },
           "coords": [
             18.5414,
@@ -719,7 +777,8 @@
             "de": "Beenden Sie Ihre Tour mit einem Kaffee in einem der Cafés am Platz.",
             "hu": "Zárja a túrát egy kávéval a tér egyik kávézójában.",
             "ro": "Încheiați turul cu o cafea la una dintre cafenelele din piață.",
-            "en": "End your tour with a coffee at one of the square's cafes."
+            "en": "End your tour with a coffee at one of the square's cafes.",
+            "cs": "Ukončete trasu kávou v jedné z náměstí čných kaváren."
           }
         }
       ],
@@ -727,7 +786,8 @@
         "de": "Schwingen Sie sich in den Sattel und beginnen Sie Ihre Radtour am Masaryk-Platz. Die erste Etappe führt Sie zum Schloss Fryštát und dem angrenzenden Park, eine perfekte Kombination aus Kultur und Natur. Nach einer kurzen Fahrt erreichen Sie die Kirche der Kreuzerhöhung für einen Moment der Stille.\nDie Mittagstour führt Sie aus dem Stadtzentrum heraus zur beeindruckenden Darkov-Brücke und weiter zum Kurort Lázně Darkov. Dies ist der ideale Ort für eine ausgedehnte Mittagspause. Genießen Sie die ruhige Atmosphäre und die einzigartige Architektur, bevor Sie sich wieder auf den Weg machen.\nAm Nachmittag radeln Sie zurück in Richtung Zentrum. Ein wichtiger Stopp ist die schiefe Kirche St. Peter von Alcantara, ein faszinierendes Wahrzeichen der Stadt. Ihre Neigung macht sie zu einem unvergesslichen Anblick.\nIhre Radtour endet dort, wo sie begonnen hat: am Masaryk-Platz. Hier können Sie in einem der vielen Cafés entspannen und die Erlebnisse des Tages bei einer Tasse Kaffee oder einem kühlen Getränk Revue passieren lassen.",
         "hu": "Pattanjon nyeregbe, és kezdje kerékpártúráját a Masaryk térről. Az első szakasz a Fryštát-kastélyhoz és a szomszédos parkhoz vezet, amely a kultúra és a természet tökéletes kombinációja. Egy rövid tekerés után elérheti a Szent Kereszt Felmagasztalása templomot egy csendes pillanatra.\nA déli túra kivezeti a városközpontból a lenyűgöző Darkov-hídhoz, majd tovább a Darkov Gyógyfürdőhöz. Ez az ideális hely egy hosszabb ebédszünetre. Élvezze a nyugodt légkört és az egyedi építészetet, mielőtt újra útra kelne.\nDélután visszateker a központ felé. Fontos megálló a ferde Szent Péter von Alcantara-templom, a város lenyűgöző nevezetessége. Dőlése felejthetetlen látvánnyá teszi.\nA kerékpártúra ott ér véget, ahol elkezdődött: a Masaryk téren. Itt pihenhet az egyik kávézóban, és egy csésze kávé vagy egy hűsítő ital mellett felidézheti a nap élményeit.",
         "ro": "Urcați-vă pe bicicletă și începeți turul din Piața Masaryk. Prima etapă vă duce la Castelul Fryštát și la parcul adiacent, o combinație perfectă de cultură și natură. După o scurtă pedalare, ajungeți la Biserica Înălțarea Sfintei Cruci pentru un moment de liniște.\nTurul de la prânz vă scoate din centrul orașului către impresionantul Pod Darkov și mai departe către stațiunea balneară Lázně Darkov. Acesta este locul ideal pentru o pauză de prânz prelungită. Bucurați-vă de atmosfera liniștită și de arhitectura unică înainte de a porni din nou la drum.\nDupă-amiaza, pedalați înapoi spre centru. O oprire importantă este biserica înclinată a Sfântului Petru de Alcantara, un reper fascinant al orașului. Înclinația sa o face o priveliște de neuitat.\nTurul cu bicicleta se încheie acolo unde a început: în Piața Masaryk. Aici vă puteți relaxa la una dintre numeroasele cafenele și puteți rememora experiențele zilei la o ceașcă de cafea sau o băutură rece.",
-        "en": "Get on your bike and start your tour from Masaryk Square. The first leg takes you to Fryštát Chateau and the adjacent park, a perfect combination of culture and nature. After a short ride, you'll reach the Church of the Exaltation of the Holy Cross for a moment of peace.\nThe midday tour takes you out of the city center to the impressive Darkov Bridge and on to the Lázně Darkov spa resort. This is the ideal place for an extended lunch break. Enjoy the quiet atmosphere and unique architecture before you set off again.\nIn the afternoon, you'll cycle back towards the center. An important stop is the leaning Church of St. Peter of Alcantara, a fascinating city landmark. Its tilt makes it an unforgettable sight.\nYour bike tour ends where it began: at Masaryk Square. Here you can relax in one of the many cafes and reflect on the day's experiences over a cup of coffee or a cool drink."
+        "en": "Get on your bike and start your tour from Masaryk Square. The first leg takes you to Fryštát Chateau and the adjacent park, a perfect combination of culture and nature. After a short ride, you'll reach the Church of the Exaltation of the Holy Cross for a moment of peace.\nThe midday tour takes you out of the city center to the impressive Darkov Bridge and on to the Lázně Darkov spa resort. This is the ideal place for an extended lunch break. Enjoy the quiet atmosphere and unique architecture before you set off again.\nIn the afternoon, you'll cycle back towards the center. An important stop is the leaning Church of St. Peter of Alcantara, a fascinating city landmark. Its tilt makes it an unforgettable sight.\nYour bike tour ends where it began: at Masaryk Square. Here you can relax in one of the many cafes and reflect on the day's experiences over a cup of coffee or a cool drink.",
+        "cs": "Nasedněte na kolo a vyrazte z Masarykova náměstí. První úsek vede ke zámku Fryštát a sousednímu parku, dokonalé kombinaci kultury a přírody. Po krátké jízdě dorazíte ke kostelu Povýšení svatého Kříže pro chvíli klidu.\nPolední etapa vás vyvede z centra k impozantnímu mostu Darkov a dále k lázeňskému resortu Lázně Darkov. To je ideální místo na delší oběd. Užijte si klidnou atmosféru a jedinečnou architekturu před dalším vyjetím.\nOdpoledne pojedete zpět směrem do centra. Důležitou zastávkou je nakloněný kostel sv. Petra z Alcantary, fascinující městská dominanta. Jeho náklon z něj činí nezapomenutelný zážitek.\nVaše cyklotrasa končí tam, kde začala: na Masarykově náměstí. Zde si v jedné z mnoha kaváren můžete odpočinout a při kávě nebo osvěžujícím nápoji zhodnotit dojmy dne."
       },
       "gastro_picks": {
         "de": [
@@ -923,6 +983,12 @@
           "A helmet is strongly recommended.",
           "Use the designated cycle paths wherever possible.",
           "Always lock your bike when leaving it unattended."
+        ],
+        "cs": [
+          "Před startem zkontrolujte tlak v pneumatikách a brzdy.",
+          "Helma je důrazně doporučena.",
+          "Používejte vyhrazené cyklostezky, kde je to možné.",
+          "Vždy zamykejte kolo, když ho necháváte bez dozoru."
         ]
       },
       "variants": {
@@ -931,7 +997,8 @@
             "de": "Radfahren in Karwin bei Regen erfordert Vorsicht auf dem Kopfsteinpflaster des Masaryk-Platzes. Mittags steuern wir das Schloss an, um die Räder sicher abzustellen und trocken Kultur zu genießen. Die Route führt weiter über die Darkov-Brücke, wobei der Fluss Olsa bei Regen oft imposant anschwillt. Wir beenden die Tour an der schiefen Kirche, bevor wir schnell zurück in den trockenen Stadtkern radeln.",
             "hu": "Az esős Karvinában való kerékpározás óvatosságot igényel a főtér macskakövein. Délben a kastély felé vesszük az irányt, ahol biztonságban hagyhatjuk a bringákat a látogatás idejére. Az útvonal a Darkov-hídon át vezet, ahol az Olza folyó esőben látványosan megduzzad. A túrát a dőlt templomnál zárjuk, majd gyorsan visszatekerünk a szárazabb belvárosba.",
             "ro": "Ciclismul în Karviná pe ploaie necesită atenție sporită pe pavajul din piață. La prânz ne îndreptăm spre castel pentru o pauză uscată și un tur cultural. Traseul continuă peste podul Darkov, unde râul Olza capătă un aspect impunător sub ploaie. Încheiem tura la biserica înclinată, înainte de a pedala rapid înapoi spre centrul orașului.",
-            "en": "Cycling in Karviná during rain requires caution on the cobblestones of Masaryk Square. At noon, we head to the chateau to park the bikes and enjoy some dry culture. The route continues across the Darkov Bridge, with the Olza river often swelling impressively in the rain. We finish the tour at the leaning church before cycling back to the dry city center."
+            "en": "Cycling in Karviná during rain requires caution on the cobblestones of Masaryk Square. At noon, we head to the chateau to park the bikes and enjoy some dry culture. The route continues across the Darkov Bridge, with the Olza river often swelling impressively in the rain. We finish the tour at the leaning church before cycling back to the dry city center.",
+            "cs": "Jízda na kole v Karviné za deště vyžaduje opatrnost na dlažbě Masarykova náměstí. V poledne míříme ke zámku, kde zaparkujeme kola a užijeme si suchou kulturu. Trasa pokračuje přes Darkovský most, Olše se při dešti často impozantně rozvodní. Tour končí u nakloněného kostela, odkud se vracíme zpět do suchého centra města."
           },
           "stops": [
             {
@@ -940,7 +1007,8 @@
                 "de": "Vorsicht, das Pflaster wird bei Nässe extrem rutschig.",
                 "hu": "Vigyázat, a macskakő vizesen rendkívül csúszós.",
                 "ro": "Atenție, pavajul devine extrem de alunecos când este ud.",
-                "en": "Caution, the cobblestones become extremely slippery when wet."
+                "en": "Caution, the cobblestones become extremely slippery when wet.",
+                "cs": "Pozor, dlažba je za mokra extrémně kluzká."
               }
             },
             {
@@ -949,7 +1017,8 @@
                 "de": "Unterstellmöglichkeiten für Räder beim Schlosseingang suchen.",
                 "hu": "Keressen fedett biciklitárolót a kastély bejáratánál.",
                 "ro": "Căutați locuri acoperite pentru biciclete lângă intrarea castelului.",
-                "en": "Look for covered bike parking near the chateau entrance."
+                "en": "Look for covered bike parking near the chateau entrance.",
+                "cs": "Hledejte kryté stojany na kola u vchodu do zámku."
               }
             },
             {
@@ -958,7 +1027,8 @@
                 "de": "Kurzer Stopp für einen Blick ins trockene Kirchenschiff.",
                 "hu": "Rövid megálló egy pillantásra a száraz templomhajóba.",
                 "ro": "O scurtă oprire pentru a vizita interiorul uscat al bisericii.",
-                "en": "Short stop for a look into the dry nave."
+                "en": "Short stop for a look into the dry nave.",
+                "cs": "Krátká zastávka pro nahlédnutí do suché lodi."
               }
             },
             {
@@ -967,7 +1037,8 @@
                 "de": "Absteigen und schieben, um auf den Metallteilen nicht zu rutschen.",
                 "hu": "Szálljon le és tolja a gépet, a fémrészek csúszhatnak.",
                 "ro": "Coborâți și împingeți bicicleta pentru a nu aluneca pe metal.",
-                "en": "Dismount and push to avoid slipping on metal parts."
+                "en": "Dismount and push to avoid slipping on metal parts.",
+                "cs": "Slez z kola a tlač, abyste se vyhnuli uklouznutí o kovové součásti."
               }
             },
             {
@@ -976,7 +1047,8 @@
                 "de": "Pause im Kurcafé einlegen, um die Kleidung zu trocknen.",
                 "hu": "Tartson szünetet a gyógykávézóban a ruházat szárításához.",
                 "ro": "Faceți o pauză la cafenea pentru a vă usca hainele.",
-                "en": "Take a break at the spa cafe to dry your clothes."
+                "en": "Take a break at the spa cafe to dry your clothes.",
+                "cs": "Dejte si pauzu v lázeňské kavárně a vysušte si oblečení."
               }
             },
             {
@@ -985,7 +1057,8 @@
                 "de": "Vermeiden Sie das Radfahren direkt auf dem nassen Gras.",
                 "hu": "Kerülje a kerékpározást közvetlenül a vizes fűvön.",
                 "ro": "Evitați să pedalați direct pe iarba udă.",
-                "en": "Avoid cycling directly on the wet grass."
+                "en": "Avoid cycling directly on the wet grass.",
+                "cs": "Vyhněte se jízdě přímo po mokré trávě."
               }
             },
             {
@@ -994,7 +1067,8 @@
                 "de": "Belohnen Sie sich mit einem warmen Tee im Arkadencafé.",
                 "hu": "Jutalmazza meg magát egy forró teával az árkádok alatt.",
                 "ro": "Răsplătiți-vă cu un ceai cald la o cafenea sub arcade.",
-                "en": "Reward yourself with a warm tea at a cafe under the arcades."
+                "en": "Reward yourself with a warm tea at a cafe under the arcades.",
+                "cs": "Odměňte se teplým čajem v kavárně pod arkádami."
               }
             }
           ],
@@ -1022,6 +1096,12 @@
               "Slightly reduce tire pressure for better grip on wet stones.",
               "Use the chateau visit as a longer rain break.",
               "Wear a hi-vis vest as visibility for drivers may be limited."
+            ],
+            "cs": [
+              "Blatníky jsou nezbytné na cestách přes park.",
+              "Nechte trochu nižší tlak v pneu pro lepší přilnavost na mokrých kamenech.",
+              "Využijte návštěvu zámku jako delší přestávku před deštěm.",
+              "Noste reflexní vestu, viditelnost pro řidiče může být omezená."
             ]
           }
         },
@@ -1030,7 +1110,8 @@
             "de": "Eine Winterradtour durch Karwin bietet klare Luft und frostige Aussichten. Morgens gleiten wir vorsichtig über den Masaryk-Platz zum Schloss Fryštát, wo wir die erste Aufwärmpause einlegen. Die Fahrt führt weiter zur Darkov-Brücke, deren Stahlkonstruktion bei Frost weiß glänzt. Vor Sonnenuntergang erreichen wir die schiefe Kirche, die einsam in der Winterlandschaft steht, bevor wir uns auf den Rückweg zum beleuchteten Zentrum machen.",
             "hu": "A téli kerékpározás Karvinában friss levegőt és fagyos látványt kínál. Reggel óvatosan gurulunk át a főtéren a kastélyhoz az első melegedő szünetre. Az út a Darkov-hídhoz vezet, melynek acélszerkezete fehéren csillog a fagyban. Naplemente előtt érjük el a dőlt templomot, mely magányosan áll a téli tájban, majd visszatérünk a kivilágított központba.",
             "ro": "O tură de iarnă cu bicicleta prin Karviná oferă aer curat și priveliști înghețate. Dimineața pedalăm cu grijă spre castel pentru prima pauză de încălzire. Traseul continuă spre podul Darkov, a cărui structură de oțel sclipește albă de la ger. Înainte de apus ajungem la biserica înclinată, solitară în peisajul de iarnă, apoi revenim spre centrul luminat.",
-            "en": "A winter bike tour through Karviná offers crisp air and frosty views. In the morning, we glide carefully across Masaryk Square to the chateau for our first warm-up break. The ride continues to Darkov Bridge, its steel structure glistening white in the frost. Before sunset, we reach the leaning church standing lonely in the winter landscape, then return to the illuminated center."
+            "en": "A winter bike tour through Karviná offers crisp air and frosty views. In the morning, we glide carefully across Masaryk Square to the chateau for our first warm-up break. The ride continues to Darkov Bridge, its steel structure glistening white in the frost. Before sunset, we reach the leaning church standing lonely in the winter landscape, then return to the illuminated center.",
+            "cs": "Zimní cyklovýlet po Karviné nabízí křupavý vzduch a mrazivé výhledy. Ráno opatrně projíždíme přes Masarykovo náměstí k zámku na první rozehřátí. Jízda pokračuje k Darkovskému mostu, jehož ocelová konstrukce v mrazu krásně bělá. Před západem slunce dorazíme k osamělému nakloněnému kostelu a poté se vrátíme do osvětleného centra."
           },
           "stops": [
             {
@@ -1039,7 +1120,8 @@
                 "de": "Besonders in den Schattenbereichen auf Glatteis achten.",
                 "hu": "Különösen az árnyékos részeken figyeljen a jegesedésre.",
                 "ro": "Atenție la polei, în special în zonele umbrite.",
-                "en": "Watch out for black ice, especially in shaded areas."
+                "en": "Watch out for black ice, especially in shaded areas.",
+                "cs": "Dejte pozor na černý led, zvlášť ve stinných úsecích."
               }
             },
             {
@@ -1048,7 +1130,8 @@
                 "de": "Die Parkwege werden geräumt, können aber festgefahren sein.",
                 "hu": "A parki utakat takarítják, de letaposott hó előfordulhat.",
                 "ro": "Potecile din parc sunt curățate, dar pot fi acoperite cu zăpadă.",
-                "en": "Park paths are cleared but may have packed snow."
+                "en": "Park paths are cleared but may have packed snow.",
+                "cs": "Parkové cesty jsou uklizené, ale mohou mít zaledněný ušlapaný sníh."
               }
             },
             {
@@ -1057,7 +1140,8 @@
                 "de": "Ein kurzer Stopp reicht, um die Kälte kurz zu vergessen.",
                 "hu": "Egy rövid megálló elég, hogy kicsit elfelejtse a hideget.",
                 "ro": "O scurtă oprire este suficientă pentru a uita de frig.",
-                "en": "A short stop is enough to briefly forget the cold."
+                "en": "A short stop is enough to briefly forget the cold.",
+                "cs": "Krátká zastávka stačí na krátké zapomenutí chladu."
               }
             },
             {
@@ -1066,7 +1150,8 @@
                 "de": "Vorsicht bei der Auffahrt auf die Brücke (Glatteisgefahr).",
                 "hu": "Vigyázzon a hídra való felhajtáskor (jegesedés veszélye).",
                 "ro": "Atenție la urcarea pe pod (pericol de polei).",
-                "en": "Careful when approaching the bridge (risk of ice)."
+                "en": "Careful when approaching the bridge (risk of ice).",
+                "cs": "Buďte opatrní při přibližování k mostu (riziko ledu)."
               }
             },
             {
@@ -1075,7 +1160,8 @@
                 "de": "Warmer Kräutertee im Kurort wirkt Wunder gegen kalte Hände.",
                 "hu": "A gyógyhelyi gyógytea csodákra képes a fázós kezekkel.",
                 "ro": "Un ceai cald de plante în stațiune face minuni pentru mâini.",
-                "en": "Warm herbal tea at the spa works wonders for cold hands."
+                "en": "Warm herbal tea at the spa works wonders for cold hands.",
+                "cs": "Teplý bylinný čaj v lázních zázračně zahřeje promrzlé ruce."
               }
             },
             {
@@ -1084,7 +1170,8 @@
                 "de": "Lichtcheck: Das Rücklicht sollte frühzeitig an sein.",
                 "hu": "Világítás-ellenőrzés: a hátsó lámpa időben legyen bekapcsolva.",
                 "ro": "Verificați luminile: stopul trebuie să fie aprins din timp.",
-                "en": "Light check: make sure your rear light is on early."
+                "en": "Light check: make sure your rear light is on early.",
+                "cs": "Rychlá kontrola: ujistěte se, že zadní světlo svítí dříve než začne stmívat."
               }
             },
             {
@@ -1093,7 +1180,8 @@
                 "de": "Der Platz ist im Advent oft stimmungsvoll dekoriert.",
                 "hu": "A tér advent idején gyakran hangulatos díszítésben pompázik.",
                 "ro": "Piața este adesea decorată festiv în perioada adventului.",
-                "en": "The square is often atmospherically decorated during Advent."
+                "en": "The square is often atmospherically decorated during Advent.",
+                "cs": "Náměstí je během adventu často atmosféricky vyzdobeno."
               }
             }
           ],
@@ -1121,6 +1209,12 @@
               "Check your e-bike battery, it drains faster in the cold.",
               "Plan the tour to be back by 4:30 PM.",
               "Avoid sudden steering movements on frozen ground."
+            ],
+            "cs": [
+              "Termální rukavice jsou nezbytné při sjezdech.",
+              "Zkontrolujte baterii u elektrokola, v chladu se vybíjí rychleji.",
+              "Naplánujte trasu tak, abyste byli zpět do 16:30.",
+              "Vyhněte se prudkým řídicím pohybům na zmrzlé zemi."
             ]
           }
         }
@@ -1139,7 +1233,8 @@
             "de": "Cluster Start: Parken am Masaryk-Platz",
             "hu": "Klaszter kezdete: Parkolás a Masaryk téren",
             "ro": "Start Cluster: Parcare în Piața Masaryk",
-            "en": "Cluster Start: Parking at Masaryk Square"
+            "en": "Cluster Start: Parking at Masaryk Square",
+            "cs": "Hromadný start: parkování na Masarykově náměstí"
           },
           "coords": [
             18.5414,
@@ -1155,7 +1250,8 @@
             "de": "Parken Sie Ihr Auto in der Nähe und erkunden Sie das historische Zentrum zu Fuß.",
             "hu": "Parkolja le az autót a közelben, és fedezze fel gyalog a történelmi központot.",
             "ro": "Parcați mașina în apropiere și explorați centrul istoric pe jos.",
-            "en": "Park your car nearby and explore the historic center on foot."
+            "en": "Park your car nearby and explore the historic center on foot.",
+            "cs": "Zaparkujte auto poblíž a historické centrum prozkoumejte pěšky."
           }
         },
         {
@@ -1163,7 +1259,8 @@
             "de": "Schloss Fryštát",
             "hu": "Fryštát-kastély",
             "ro": "Castelul Fryštát",
-            "en": "Fryštát Chateau"
+            "en": "Fryštát Chateau",
+            "cs": "Zámek Fryštát"
           },
           "coords": [
             18.544,
@@ -1179,7 +1276,8 @@
             "de": "Ein kurzer Spaziergang vom Platz führt Sie zu diesem prächtigen Wahrzeichen.",
             "hu": "Egy rövid séta a térről elvezeti ehhez a csodálatos nevezetességhez.",
             "ro": "O scurtă plimbare din piață vă duce la acest reper magnific.",
-            "en": "A short walk from the square takes you to this magnificent landmark."
+            "en": "A short walk from the square takes you to this magnificent landmark.",
+            "cs": "Krátká procházka z náměstí vás dovede k tomuto nádhernému památníku."
           }
         },
         {
@@ -1187,7 +1285,8 @@
             "de": "St.-Peter-von-Alcantara-Kirche",
             "hu": "Szent Péter von Alcantara-templom",
             "ro": "Biserica Sf. Petru de Alcantara",
-            "en": "Church of St. Peter of Alcantara"
+            "en": "Church of St. Peter of Alcantara",
+            "cs": "Kostel sv. Petra z Alcantary"
           },
           "coords": [
             18.542,
@@ -1203,7 +1302,8 @@
             "de": "Gehen Sie zurück durch den Platz, um dieses einzigartige, geneigte Bauwerk zu sehen.",
             "hu": "Sétáljon vissza a téren keresztül, hogy megnézze ezt az egyedülálló, dőlt építményt.",
             "ro": "Mergeți înapoi prin piață pentru a vedea această structură unică, înclinată.",
-            "en": "Walk back through the square to see this unique, tilted structure."
+            "en": "Walk back through the square to see this unique, tilted structure.",
+            "cs": "Vraťte se přes náměstí, abyste viděli tuto unikátní nakloněnou stavbu."
           }
         },
         {
@@ -1211,7 +1311,8 @@
             "de": "Fahrt zum Cluster Lázně Darkov",
             "hu": "Utazás a Darkov Gyógyfürdő klaszterhez",
             "ro": "Călătorie spre Clusterul Băile Darkov",
-            "en": "Drive to Lázně Darkov Cluster"
+            "en": "Drive to Lázně Darkov Cluster",
+            "cs": "Jízda na Lázně Darkov - cluster"
           },
           "coords": [
             18.525,
@@ -1227,7 +1328,8 @@
             "de": "Zeit für einen Szenenwechsel. Fahren Sie zum Kurort für Mittagessen und Entspannung.",
             "hu": "Itt az ideje a környezetváltozásnak. Vezessen a gyógyfürdőbe ebédelni és pihenni.",
             "ro": "Timpul pentru o schimbare de decor. Conduceți spre stațiunea balneară pentru prânz și relaxare.",
-            "en": "Time for a change of scenery. Drive to the spa for lunch and relaxation."
+            "en": "Time for a change of scenery. Drive to the spa for lunch and relaxation.",
+            "cs": "Čas na změnu prostředí. Dojeďte do lázní na oběd a odpočinek."
           }
         },
         {
@@ -1235,7 +1337,8 @@
             "de": "Darkov-Brücke",
             "hu": "Darkov-híd",
             "ro": "Podul Darkov",
-            "en": "Darkov Bridge"
+            "en": "Darkov Bridge",
+            "cs": "Darkovský most"
           },
           "coords": [
             18.528,
@@ -1251,7 +1354,8 @@
             "de": "Vom Kurpark aus ist es nur ein kurzer Spaziergang zu dieser eleganten Brücke.",
             "hu": "A gyógyparkból csak egy rövid séta ez az elegáns híd.",
             "ro": "De la parcul spa este doar o scurtă plimbare până la acest pod elegant.",
-            "en": "From the spa park, it's just a short walk to this elegant bridge."
+            "en": "From the spa park, it's just a short walk to this elegant bridge.",
+            "cs": "Ze zámeckého parku je to jen krátká procházka k tomuto elegantnímu mostu."
           }
         },
         {
@@ -1259,7 +1363,8 @@
             "de": "Abschluss im Park Boženy Němcové",
             "hu": "Befejezés a Božena Němcová Parkban",
             "ro": "Încheiere în Parcul Božena Němcová",
-            "en": "Conclusion at Božena Němcová Park"
+            "en": "Conclusion at Božena Němcová Park",
+            "cs": "Závěr v parku Boženy Němcové"
           },
           "coords": [
             18.548,
@@ -1275,7 +1380,8 @@
             "de": "Kehren Sie zum Auto zurück und fahren Sie zum Park für einen letzten entspannten Spaziergang.",
             "hu": "Térjen vissza az autóhoz, és vezessen a parkba egy utolsó, pihentető sétára.",
             "ro": "Întoarceți-vă la mașină și conduceți spre parc pentru o ultimă plimbare relaxantă.",
-            "en": "Return to the car and drive to the park for a final relaxing walk."
+            "en": "Return to the car and drive to the park for a final relaxing walk.",
+            "cs": "Vraťte se k autu a odjeďte do parku na závěrečnou relaxační procházku."
           }
         }
       ],
@@ -1283,7 +1389,8 @@
         "de": "Ihr Autotag in Karviná beginnt mit strategischem Parken im Zentrum. Der erste Cluster konzentriert sich auf das historische Herz: den Masaryk-Platz, das prächtige Schloss Fryštát und die faszinierende schiefe Kirche. Alles ist bequem zu Fuß erreichbar, sodass Sie die Atmosphäre aufsaugen können.\nZur Mittagszeit steigen Sie wieder ins Auto und fahren zum zweiten Cluster, dem ruhigen Kurort Lázně Darkov. Hier können Sie in einem der Restaurants zu Mittag essen und anschließend einen Spaziergang zur eleganten Darkov-Brücke machen. Dieser Ortswechsel bietet einen schönen Kontrast zum städtischen Treiben.\nAm Nachmittag kehren Sie zum Auto zurück für eine kurze Fahrt zum weitläufigen Park Boženy Němcové. Dies ist der perfekte Ort, um den Tag ausklingen zu lassen. Genießen Sie die Natur, spazieren Sie am See entlang und lassen Sie die Eindrücke des Tages sacken.\nDer Cluster-Ansatz ermöglicht es Ihnen, sowohl die zentralen Sehenswürdigkeiten als auch die entspannteren Orte am Rande der Stadt effizient zu erleben. Der Tag endet mit der Flexibilität, von Ihrem letzten Halt aus direkt die Heim- oder Weiterreise anzutreten.",
         "hu": "Autós napja Karvinában stratégiai parkolással kezdődik a központban. Az első klaszter a történelmi szívre összpontosít: a Masaryk térre, a csodálatos Fryštát-kastélyra és a lenyűgöző ferde templomra. Minden kényelmesen elérhető gyalog, így magába szívhatja a hangulatot.\nDélidőben szálljon vissza az autóba, és vezessen a második klaszterhez, a csendes Darkov Gyógyfürdőhöz. Itt megebédelhet az egyik étteremben, majd tehet egy sétát az elegáns Darkov-hídhoz. Ez a helyszínváltás szép kontrasztot kínál a városi nyüzsgéssel szemben.\nDélután térjen vissza az autóhoz egy rövid útra a tágas Božena Němcová Parkba. Ez a tökéletes hely a nap lezárásához. Élvezze a természetet, sétáljon a tó mentén, és hagyja leülepedni a nap benyomásait.\nA klaszter-megközelítés lehetővé teszi, hogy hatékonyan megtapasztalja mind a központi látnivalókat, mind a város szélén található pihentetőbb helyeket. A nap azzal a rugalmassággal ér véget, hogy az utolsó megállóból közvetlenül hazaindulhat vagy továbbutazhat.",
         "ro": "Ziua dumneavoastră cu mașina în Karviná începe cu o parcare strategică în centru. Primul cluster se concentrează pe inima istorică: Piața Masaryk, magnificul Castel Fryštát și fascinanta biserică înclinată. Totul este ușor accesibil pe jos, permițându-vă să absorbiți atmosfera.\nLa prânz, vă urcați din nou în mașină și conduceți spre al doilea cluster, stațiunea balneară liniștită Lázně Darkov. Aici puteți lua prânzul la unul dintre restaurante și apoi puteți face o plimbare până la elegantul Pod Darkov. Această schimbare de locație oferă un contrast plăcut cu agitația urbană.\nDupă-amiaza, vă întoarceți la mașină pentru o scurtă călătorie spre vastul Parc Boženy Němcové. Acesta este locul perfect pentru a încheia ziua. Bucurați-vă de natură, plimbați-vă pe malul lacului și lăsați impresiile zilei să se așeze.\nAbordarea pe clustere vă permite să experimentați eficient atât atracțiile centrale, cât și locurile mai relaxate de la marginea orașului. Ziua se încheie cu flexibilitatea de a pleca direct acasă sau de a continua călătoria de la ultima oprire.",
-        "en": "Your car day in Karviná starts with strategic parking in the center. The first cluster focuses on the historic heart: Masaryk Square, the magnificent Fryštát Chateau, and the fascinating leaning church. Everything is within easy walking distance, allowing you to soak up the atmosphere.\nAt lunchtime, get back in the car and drive to the second cluster, the tranquil Lázně Darkov spa resort. Here you can have lunch in one of the restaurants and then take a walk to the elegant Darkov Bridge. This change of location offers a nice contrast to the urban bustle.\nIn the afternoon, return to the car for a short drive to the expansive Boženy Němcové Park. This is the perfect place to wind down the day. Enjoy nature, stroll along the lake, and let the day's impressions sink in.\nThe cluster approach allows you to efficiently experience both the central sights and the more relaxed places on the outskirts. The day ends with the flexibility to head straight home or continue your journey from your last stop."
+        "en": "Your car day in Karviná starts with strategic parking in the center. The first cluster focuses on the historic heart: Masaryk Square, the magnificent Fryštát Chateau, and the fascinating leaning church. Everything is within easy walking distance, allowing you to soak up the atmosphere.\nAt lunchtime, get back in the car and drive to the second cluster, the tranquil Lázně Darkov spa resort. Here you can have lunch in one of the restaurants and then take a walk to the elegant Darkov Bridge. This change of location offers a nice contrast to the urban bustle.\nIn the afternoon, return to the car for a short drive to the expansive Boženy Němcové Park. This is the perfect place to wind down the day. Enjoy nature, stroll along the lake, and let the day's impressions sink in.\nThe cluster approach allows you to efficiently experience both the central sights and the more relaxed places on the outskirts. The day ends with the flexibility to head straight home or continue your journey from your last stop.",
+        "cs": "Váš den autem v Karviné začíná strategickým parkováním v centru. První cluster se zaměřuje na historické jádro: Masarykovo náměstí, impozantní zámek Fryštát a fascinující nakloněný kostel. Všechno je na krátkou procházku, takže si můžete naplno vychutnat atmosféru.\nO poledni nasedněte do auta a dojeďte do druhého clusteru, klidného lázeňského areálu Lázně Darkov. Zde si dejte oběd v jedné z restaurací a pak se projděte k elegantnímu Darkovskému mostu. Tato změna lokality skvěle kontrastuje s městským ruchem.\nOdpoledne se vraťte autem na krátkou jízdu do rozlehlého parku Boženy Němcové. Je to ideální místo na závěrečné zklidnění dne. Užijte si přírodu, projděte se kolem jezera a nechte dojmy dne usednout.\nPřístup pomocí clusterů vám umožní efektivně zažít jak centrální památky, tak klidnější místa na okraji. Den končí s možností jet rovnou domů nebo pokračovat v cestě z poslední zastávky."
       },
       "gastro_picks": {
         "de": [
@@ -1479,6 +1586,12 @@
           "A navigation device is helpful for navigating between clusters.",
           "Do not leave valuables visible in the car.",
           "Allow enough time for traffic, especially during peak hours."
+        ],
+        "cs": [
+          "Zkontrolujte předem možnosti parkování a výši poplatků.",
+          "Navigace v autě pomůže při přesunech mezi clustery.",
+          "Nenechávejte cennosti na očích v autě.",
+          "Nechte si dostatek času na dopravu, obzvlášť během dopravní špičky."
         ]
       },
       "variants": {
@@ -1487,7 +1600,8 @@
             "de": "Mit dem Auto ist Karwin auch bei Regen bequem zu erkunden. Wir parken direkt am Masaryk-Platz und huschen unter die Arkaden. Mittags bietet das Schloss Fryštát eine trockene Oase der Kultur. Danach fahren wir zur schiefen Kirche, wobei das Auto als mobiler Unterstand zwischen den Fotostopps dient. Den Tag beenden wir im Kurviertel Darkov, wo man vom Parkplatz aus schnell ins Warme gelangt.",
             "hu": "Autóval Karviná esőben is kényelmesen felfedezhető. Közvetlenül a főtéren parkolunk, és az árkádok alá húzódunk. Délben a Fryštát-kastély kínál száraz kulturális oázist. Ezután a dőlt templomhoz autózunk, ahol a kocsi mozgó menedékként szolgál a fotómegállók között. A napot a Darkov negyedben zárjuk, ahol a parkolóból gyorsan bejuthatunk a melegbe.",
             "ro": "Cu mașina, Karviná este ușor de explorat chiar și pe ploaie. Parcăm chiar în Piața Masaryk și ne adăpostim sub arcade. La prânz, castelul Fryštát oferă o oază culturală uscată. Apoi conducem spre biserica înclinată, mașina servind drept refugiu mobil între opririle pentru poze. Încheiem ziua în zona balneară Darkov, unde accesul la interior este rapid de la parcare.",
-            "en": "By car, Karviná is easy to explore even in the rain. We park right at Masaryk Square and slip under the arcades. At noon, Fryštát Chateau offers a dry oasis of culture. Afterward, we drive to the leaning church, with the car acting as a mobile shelter between photo stops. We end the day in the Darkov spa district, where warm interiors are quickly accessible from the parking lot."
+            "en": "By car, Karviná is easy to explore even in the rain. We park right at Masaryk Square and slip under the arcades. At noon, Fryštát Chateau offers a dry oasis of culture. Afterward, we drive to the leaning church, with the car acting as a mobile shelter between photo stops. We end the day in the Darkov spa district, where warm interiors are quickly accessible from the parking lot.",
+            "cs": "Autem se Karviná dobře prozkoumává i za deště. Zaparkujeme přímo na Masarykově náměstí a schováme se pod arkádami. V poledne nabízí zámek Fryštát suchou oázu kultury. Poté dojedeme k nakloněnému kostelu, auto slouží jako mobilní úkryt mezi fotografickými přestávkami. Den zakončíme v lázeňské čtvrti Darkov, kde jsou teplé interiéry rychle dostupné z parkoviště."
           },
           "stops": [
             {
@@ -1496,7 +1610,8 @@
                 "de": "Zentraler Parkplatz, ideal um Besorgungen trocken zu erledigen.",
                 "hu": "Központi parkoló, ideális a szárazon elintézhető dolgokhoz.",
                 "ro": "Parcare centrală, ideală pentru a rezolva treburi fără a vă uda.",
-                "en": "Central parking, ideal for getting things done while staying dry."
+                "en": "Central parking, ideal for getting things done while staying dry.",
+                "cs": "Centrální parkování, ideální pro rychlé vyřízení věcí a zůstat v suchu."
               }
             },
             {
@@ -1505,7 +1620,8 @@
                 "de": "Parken Sie direkt vor dem Schlosspark-Eingang.",
                 "hu": "Parkoljon közvetlenül a kastélypark bejárata előtt.",
                 "ro": "Parcați chiar în fața intrării în parcul castelului.",
-                "en": "Park directly in front of the chateau park entrance."
+                "en": "Park directly in front of the chateau park entrance.",
+                "cs": "Zaparkujte přímo před vchodem do zámeckého parku."
               }
             },
             {
@@ -1514,7 +1630,8 @@
                 "de": "Es gibt einen kleinen Parkplatz direkt bei der Kirche.",
                 "hu": "Közvetlenül a templomnál található egy kis parkoló.",
                 "ro": "Există o mică parcare chiar lângă biserică.",
-                "en": "There is a small parking lot right by the church."
+                "en": "There is a small parking lot right by the church.",
+                "cs": "U kostela je malé parkoviště přímo na místě."
               }
             },
             {
@@ -1523,7 +1640,8 @@
                 "de": "Kurze Fahrt, die Scheibenheizung gegen Beschlagen nutzen.",
                 "hu": "Rövid út, használja a szélvédőfűtést a párásodás ellen.",
                 "ro": "Drum scurt, folosiți dezaburirea pentru parbriz.",
-                "en": "Short drive, use the windshield heater against fogging."
+                "en": "Short drive, use the windshield heater against fogging.",
+                "cs": "Krátká jízda, použijte odvzdušňování čelního skla proti zamlžení."
               }
             },
             {
@@ -1532,7 +1650,8 @@
                 "de": "Bester Fotostopp aus dem Autofenster bei starkem Regen.",
                 "hu": "Legjobb fotómegálló az autóablakból erős eső esetén.",
                 "ro": "Cel mai bun punct foto din fereastra mașinii în caz de ploaie grea.",
-                "en": "Best photo stop from the car window during heavy rain."
+                "en": "Best photo stop from the car window during heavy rain.",
+                "cs": "Nejlepší místo na fotografii z okna auta během silného deště."
               }
             },
             {
@@ -1541,7 +1660,8 @@
                 "de": "Nutzen Sie den Parkplatz beim Bootsverleih für kurze Wege.",
                 "hu": "Használja a csónakkikötőnél lévő parkolót a rövid utakhoz.",
                 "ro": "Folosiți parcarea de lângă debarcader pentru distanțe scurte.",
-                "en": "Use the parking by the boat rental for short walking distances."
+                "en": "Use the parking by the boat rental for short walking distances.",
+                "cs": "Využijte parkování u půjčovny šlapadel pro krátké pěší trasy."
               }
             }
           ],
@@ -1569,6 +1689,12 @@
               "Keep parking coins ready, as many meters are not covered.",
               "Use the driving time to warm up and dry your clothes.",
               "Visibility near Darkov Bridge may be affected by spray."
+            ],
+            "cs": [
+              "Dejte pozor na kaluže v níže položených částech kolem nakloněného kostela.",
+              "Mějte po ruce drobné na parkování, mnoho meterů není krytých.",
+              "Využijte čas v autě k zahřátí a usušení oblečení.",
+              "Viditelnost u Darkovského mostu může ovlivnit stříkající voda."
             ]
           }
         },
@@ -1577,7 +1703,8 @@
             "de": "Im Winter bietet das Auto die wärmste Basis für eine Tour durch Karwin. Wir starten am frostigen Masaryk-Platz und genießen die beheizten Innenräume des Schlosses zur Mittagszeit. Die Fahrt zur schiefen Kirche ist kurz und sicher, wobei man die Neigung auch bequem vom Wagen aus betrachten kann. Zum Abschluss besuchen wir das winterliche Darkov, wo die Kurhäuser eine gemütliche Atmosphäre ausstrahlen.",
             "hu": "Télen az autó kínálja a legmelegebb bázist a karvinái túrához. A fagyos főtéren kezdünk, majd délben a kastély fűtött termeit élvezzük. A dőlt templomhoz vezető út rövid és biztonságos, a dőlést akár a kocsiból is kényelmesen megfigyelhetjük. Végezetül a téli Darkovot látogatjuk meg, ahol a gyógyépületek barátságos hangulatot árasztanak.",
             "ro": "Iarna, mașina oferă cea mai caldă bază pentru un tur în Karviná. Începem în Piața Masaryk înghețată și ne bucurăm de interioarele încălzite ale castelului la prânz. Drumul spre biserica înclinată este scurt și sigur, asimetria putând fi observată și din mașină. La final vizităm zona Darkov, unde clădirile balneare emană o atmosferă primitoare.",
-            "en": "In winter, the car provides the warmest base for a tour through Karviná. We start at the frosty Masaryk Square and enjoy the heated interiors of the chateau at noon. The drive to the leaning church is short and safe, and the tilt can even be viewed comfortably from the vehicle. To finish, we visit wintery Darkov, where the spa buildings radiate a cozy atmosphere."
+            "en": "In winter, the car provides the warmest base for a tour through Karviná. We start at the frosty Masaryk Square and enjoy the heated interiors of the chateau at noon. The drive to the leaning church is short and safe, and the tilt can even be viewed comfortably from the vehicle. To finish, we visit wintery Darkov, where the spa buildings radiate a cozy atmosphere.",
+            "cs": "V zimě auto poskytuje nejteplejší základnu pro výlet po Karviné. Začínáme na mrazivém Masarykově náměstí a v poledne si užíváme vyhřáté prostory zámku. Jízda k nakloněnému kostelu je krátká a bezpečná, náklon lze pohodlně pozorovat i z auta. Na závěr navštívíme zasněžený Darkov, kde lázeňské budovy vyzařují útulnou atmosféru."
           },
           "stops": [
             {
@@ -1586,7 +1713,8 @@
                 "de": "Parkflächen können morgens noch glatt sein.",
                 "hu": "A parkolófelületek reggel még jegesek lehetnek.",
                 "ro": "Zonele de parcare pot fi încă alunecoase dimineața.",
-                "en": "Parking surfaces can still be slippery in the morning."
+                "en": "Parking surfaces can still be slippery in the morning.",
+                "cs": "Povrchy parkovišť mohou být ráno stále kluzké."
               }
             },
             {
@@ -1595,7 +1723,8 @@
                 "de": "Nahegelegene Parkplätze ermöglichen schnellen Zugang ins Warme.",
                 "hu": "A közeli parkolók gyors bejutást tesznek lehetővé a melegbe.",
                 "ro": "Parcările din apropiere permit accesul rapid la căldură.",
-                "en": "Nearby parking allows for quick access to the warmth."
+                "en": "Nearby parking allows for quick access to the warmth.",
+                "cs": "Blízké parkování umožňuje rychlý přístup do tepla."
               }
             },
             {
@@ -1604,7 +1733,8 @@
                 "de": "Der Parkplatz bei der Kirche wird oft als letztes geräumt.",
                 "hu": "A templom melletti parkolót gyakran utoljára takarítják.",
                 "ro": "Parcarea de lângă biserică este adesea ultima curățată de zăpadă.",
-                "en": "The parking lot by the church is often the last to be cleared."
+                "en": "The parking lot by the church is often the last to be cleared.",
+                "cs": "Parkoviště u kostela je často poslední, které je odklízeno."
               }
             },
             {
@@ -1613,7 +1743,8 @@
                 "de": "Vorsicht bei Frost auf den Nebenstraßen zum Kurort.",
                 "hu": "Vigyázzon a fagyra a gyógyhelyhez vezető mellékutakon.",
                 "ro": "Atenție la îngheț pe drumurile secundare spre stațiune.",
-                "en": "Watch out for frost on the side roads to the spa."
+                "en": "Watch out for frost on the side roads to the spa.",
+                "cs": "Dávejte pozor na námrazu na vedlejších cestách k lázním."
               }
             },
             {
@@ -1622,7 +1753,8 @@
                 "de": "Kurzer Stopp am Straßenrand für ein Winterfoto möglich.",
                 "hu": "Rövid megállás az út szélén lehetséges egy téli fotóhoz.",
                 "ro": "O scurtă oprire pe marginea drumului este posibilă pentru o poză.",
-                "en": "A short stop on the roadside is possible for a winter photo."
+                "en": "A short stop on the roadside is possible for a winter photo.",
+                "cs": "Krátká zastávka na kraji silnice je možná pro zimní fotku."
               }
             },
             {
@@ -1631,7 +1763,8 @@
                 "de": "Die Parkplatzauffahrt kann bei Schnee tückisch sein.",
                 "hu": "A parkoló feljárója havas időben trükkös lehet.",
                 "ro": "Accesul în parcare poate fi dificil în caz de zăpadă.",
-                "en": "The parking entrance can be tricky during snow."
+                "en": "The parking entrance can be tricky during snow.",
+                "cs": "Vjezd na parkoviště může být za sněhu komplikovaný."
               }
             }
           ],
@@ -1659,6 +1792,12 @@
               "Darkness sets in early, check all vehicle lights.",
               "Fog or ice is frequent in the hollows near the leaning church.",
               "Use parking garages if available to avoid scraping ice."
+            ],
+            "cs": [
+              "Ujistěte se, že kapalina do ostřikovačů je mrazuvzdorná.",
+              "Tma přichází brzy, zkontrolujte všechna světla vozidla.",
+              "Mlhy nebo led jsou časté v prohlubních u nakloněného kostela.",
+              "Použijte parkovací domy, pokud jsou k dispozici, abyste se vyhnuli škrábání ledu."
             ]
           }
         }
@@ -1677,7 +1816,8 @@
             "de": "Ankunft am Hauptbahnhof/Busbahnhof",
             "hu": "Érkezés a főpályaudvarra/buszpályaudvarra",
             "ro": "Sosire la Gara Centrală/Autogară",
-            "en": "Arrival at Main Train/Bus Station"
+            "en": "Arrival at Main Train/Bus Station",
+            "cs": "Příjezd na hlavní vlakové/autobusové nádraží"
           },
           "coords": [
             18.53,
@@ -1693,7 +1833,8 @@
             "de": "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr für die beste Flexibilität.",
             "hu": "Vásároljon napijegyet a tömegközlekedésre a legjobb rugalmasság érdekében.",
             "ro": "Cumpărați un bilet de o zi pentru transportul public pentru cea mai bună flexibilitate.",
-            "en": "Buy a day pass for public transport for the best flexibility."
+            "en": "Buy a day pass for public transport for the best flexibility.",
+            "cs": "Kupte si denní jízdenku MHD pro nejlepší flexibilitu."
           }
         },
         {
@@ -1701,7 +1842,8 @@
             "de": "Cluster Zentrum: Masaryk-Platz",
             "hu": "Centrum Klaszter: Masaryk tér",
             "ro": "Cluster Centru: Piața Masaryk",
-            "en": "Center Cluster: Masaryk Square"
+            "en": "Center Cluster: Masaryk Square",
+            "cs": "Centrální cluster: Masarykovo náměstí"
           },
           "coords": [
             18.5414,
@@ -1717,7 +1859,8 @@
             "de": "Nehmen Sie den Bus ins Zentrum. Von hier aus ist der erste Cluster zu Fuß erreichbar.",
             "hu": "Menjen busszal a központba. Innen az első klaszter gyalogosan elérhető.",
             "ro": "Luați autobuzul spre centru. De aici, primul cluster este accesibil pe jos.",
-            "en": "Take the bus to the center. From here, the first cluster is walkable."
+            "en": "Take the bus to the center. From here, the first cluster is walkable.",
+            "cs": "Jeďte autobusem do centra. Odtud je první cluster pěšky dostupný."
           }
         },
         {
@@ -1725,7 +1868,8 @@
             "de": "Schloss Fryštát",
             "hu": "Fryštát-kastély",
             "ro": "Castelul Fryštát",
-            "en": "Fryštát Chateau"
+            "en": "Fryštát Chateau",
+            "cs": "Zámek Fryštát"
           },
           "coords": [
             18.544,
@@ -1741,7 +1885,8 @@
             "de": "Erkunden Sie das Schloss und seinen Park, bevor Sie zum nächsten Punkt weitergehen.",
             "hu": "Fedezze fel a kastélyt és parkját, mielőtt továbbindulna a következő ponthoz.",
             "ro": "Explorați castelul și parcul său înainte de a trece la următorul punct.",
-            "en": "Explore the castle and its park before moving on to the next point."
+            "en": "Explore the castle and its park before moving on to the next point.",
+            "cs": "Prozkoumejte zámek a jeho park před pokračováním dál."
           }
         },
         {
@@ -1749,7 +1894,8 @@
             "de": "Fahrt zum Cluster Lázně Darkov",
             "hu": "Utazás a Darkov Gyógyfürdő klaszterhez",
             "ro": "Călătorie spre Clusterul Băile Darkov",
-            "en": "Trip to Lázně Darkov Cluster"
+            "en": "Trip to Lázně Darkov Cluster",
+            "cs": "Výlet do clusteru Lázně Darkov"
           },
           "coords": [
             18.525,
@@ -1765,7 +1911,8 @@
             "de": "Suchen Sie die richtige Buslinie, die Sie direkt zum Kurort bringt. Zeit fürs Mittagessen.",
             "hu": "Keresse meg a megfelelő buszjáratot, amely közvetlenül a gyógyfürdőbe visz. Ideje ebédelni.",
             "ro": "Găsiți linia de autobuz potrivită care vă duce direct la stațiunea balneară. Timpul pentru prânz.",
-            "en": "Find the right bus line to take you directly to the spa. Time for lunch."
+            "en": "Find the right bus line to take you directly to the spa. Time for lunch.",
+            "cs": "Najděte správnou linku autobusu, která vás doveze přímo do lázní. Čas na oběd."
           }
         },
         {
@@ -1773,7 +1920,8 @@
             "de": "Darkov-Brücke",
             "hu": "Darkov-híd",
             "ro": "Podul Darkov",
-            "en": "Darkov Bridge"
+            "en": "Darkov Bridge",
+            "cs": "Darkovský most"
           },
           "coords": [
             18.528,
@@ -1789,7 +1937,8 @@
             "de": "Ein entspannter Verdauungsspaziergang führt Sie von den Restaurants zur Brücke.",
             "hu": "Egy pihentető emésztő séta vezet az éttermektől a hídhoz.",
             "ro": "O plimbare digestivă relaxantă vă duce de la restaurante la pod.",
-            "en": "A relaxing digestive walk takes you from the restaurants to the bridge."
+            "en": "A relaxing digestive walk takes you from the restaurants to the bridge.",
+            "cs": "Od restaurací vás k mostu povede příjemná procházka po obědě."
           }
         },
         {
@@ -1797,7 +1946,8 @@
             "de": "Rückkehr ins Zentrum & St.-Peter-von-Alcantara-Kirche",
             "hu": "Visszatérés a központba & Szent Péter von Alcantara-templom",
             "ro": "Întoarcere în centru & Biserica Sf. Petru de Alcantara",
-            "en": "Return to Center & St. Peter of Alcantara Church"
+            "en": "Return to Center & St. Peter of Alcantara Church",
+            "cs": "Návrat do centra a kostel sv. Petra z Alcantary"
           },
           "coords": [
             18.542,
@@ -1813,7 +1963,8 @@
             "de": "Nehmen Sie den Bus zurück ins Zentrum für Ihren letzten Besichtigungspunkt.",
             "hu": "Menjen busszal vissza a központba az utolsó látnivalóhoz.",
             "ro": "Luați autobuzul înapoi în centru pentru ultimul punct de vizitare.",
-            "en": "Take the bus back to the center for your final sightseeing stop."
+            "en": "Take the bus back to the center for your final sightseeing stop.",
+            "cs": "Jeďte autobusem zpět do centra pro poslední zastávku na památky."
           }
         }
       ],
@@ -1821,7 +1972,8 @@
         "de": "Ihr autofreier Tag beginnt mit der Ankunft am Bahnhof und dem Kauf einer Tageskarte. Der erste Bus bringt Sie ins Herz der Stadt, zum Masaryk-Platz. Von hier aus erkunden Sie den ersten Cluster zu Fuß: das Schloss Fryštát und seinen Park. Genießen Sie die zentrale Atmosphäre, bevor Sie zum nächsten Ziel aufbrechen.\nUm die Mittagszeit nehmen Sie einen weiteren Bus, der Sie aus der Stadt zum zweiten Cluster, dem Heilbad Lázně Darkov, bringt. Dieser ruhige Ort ist perfekt für eine entspannte Mittagspause. Nach dem Essen spazieren Sie zur nahegelegenen Darkov-Brücke, einem architektonischen Highlight.\nAm Nachmittag bringt Sie der Bus zurück ins Zentrum. Hier besuchen Sie die letzte große Sehenswürdigkeit des Tages: die bemerkenswerte schiefe Kirche St. Peter von Alcantara. Ihre einzigartige Geschichte und Erscheinung bilden einen denkwürdigen Abschluss Ihres Rundgangs.\nDer Tag endet mit einem gemütlichen Ausklang in einem Café in der Innenstadt, bevor Sie den Bus zurück zum Bahnhof nehmen. Dieser Plan zeigt, wie einfach es ist, Karvinás Hauptattraktionen mit öffentlichen Verkehrsmitteln zu entdecken, indem man Spaziergänge und Busfahrten geschickt kombiniert.",
         "hu": "Autómentes napja a pályaudvarra érkezéssel és egy napijegy megvásárlásával kezdődik. Az első busz a város szívébe, a Masaryk térre viszi. Innen gyalogosan fedezi fel az első klasztert: a Fryštát-kastélyt és parkját. Élvezze a központi hangulatot, mielőtt a következő cél felé indul.\nDélidőben egy másik buszra száll, amely kiviszi a városból a második klaszterhez, a Darkov Gyógyfürdőhöz. Ez a csendes hely tökéletes egy pihentető ebédszünethez. Ebéd után sétáljon el a közeli Darkov-hídhoz, egy építészeti gyöngyszemhez.\nDélután a busz visszaviszi a központba. Itt meglátogatja a nap utolsó nagy látványosságát: a figyelemre méltó ferde Szent Péter von Alcantara-templomot. Egyedi története és megjelenése emlékezetes lezárást ad a túrának.\nA nap egy kellemes levezetéssel ér véget egy belvárosi kávézóban, mielőtt busszal visszamenne a pályaudvarra. Ez a terv megmutatja, milyen egyszerű felfedezni Karviná főbb látnivalóit tömegközlekedéssel, ügyesen kombinálva a sétákat és a buszutakat.",
         "ro": "Ziua dumneavoastră fără mașină începe cu sosirea la gară și achiziționarea unui bilet de o zi. Primul autobuz vă duce în inima orașului, în Piața Masaryk. De aici, explorați primul cluster pe jos: Castelul Fryštát și parcul său. Bucurați-vă de atmosfera centrală înainte de a porni spre următoarea destinație.\nLa prânz, luați un alt autobuz care vă scoate din oraș spre al doilea cluster, stațiunea balneară Lázně Darkov. Acest loc liniștit este perfect pentru o pauză de prânz relaxantă. După masă, plimbați-vă până la Podul Darkov din apropiere, un punct de atracție arhitectural.\nDupă-amiaza, autobuzul vă aduce înapoi în centru. Aici veți vizita ultima atracție majoră a zilei: remarcabila biserică înclinată a Sfântului Petru de Alcantara. Istoria și aspectul său unic oferă o concluzie memorabilă turului dumneavoastră.\nZiua se încheie cu o relaxare plăcută la o cafenea din centrul orașului înainte de a lua autobuzul înapoi la gară. Acest plan demonstrează cât de ușor este să descoperiți principalele atracții ale Karvinei folosind transportul public, combinând inteligent plimbările pe jos cu călătoriile cu autobuzul.",
-        "en": "Your car-free day begins with arrival at the station and buying a day pass. The first bus takes you to the heart of the city, Masaryk Square. From here, you explore the first cluster on foot: Fryštát Chateau and its park. Enjoy the central atmosphere before heading to the next destination.\nAround noon, you'll take another bus out of the city to the second cluster, the Lázně Darkov spa. This quiet place is perfect for a relaxing lunch break. After your meal, stroll to the nearby Darkov Bridge, an architectural highlight.\nIn the afternoon, the bus takes you back to the center. Here you'll visit the last major sight of the day: the remarkable leaning Church of St. Peter of Alcantara. Its unique history and appearance provide a memorable conclusion to your tour.\nThe day ends with a leisurely wind-down at a downtown café before taking the bus back to the station. This plan shows how easy it is to discover Karviná's main attractions by public transport, cleverly combining walks and bus rides."
+        "en": "Your car-free day begins with arrival at the station and buying a day pass. The first bus takes you to the heart of the city, Masaryk Square. From here, you explore the first cluster on foot: Fryštát Chateau and its park. Enjoy the central atmosphere before heading to the next destination.\nAround noon, you'll take another bus out of the city to the second cluster, the Lázně Darkov spa. This quiet place is perfect for a relaxing lunch break. After your meal, stroll to the nearby Darkov Bridge, an architectural highlight.\nIn the afternoon, the bus takes you back to the center. Here you'll visit the last major sight of the day: the remarkable leaning Church of St. Peter of Alcantara. Its unique history and appearance provide a memorable conclusion to your tour.\nThe day ends with a leisurely wind-down at a downtown café before taking the bus back to the station. This plan shows how easy it is to discover Karviná's main attractions by public transport, cleverly combining walks and bus rides.",
+        "cs": "Váš den bez auta začíná příjezdem na nádraží a zakoupením denní jízdenky. První autobus vás rychle doveze do srdce města, na Masarykovo náměstí. Odtud prozkoumáte první cluster pěšky: zámek Fryštát a jeho park. Užijte si centrální atmosféru před odjezdem na další destinaci.\nKolem poledne nastoupíte do dalšího autobusu směrem k druhému clusteru, lázním Lázně Darkov. Toto klidné místo je ideální pro relaxační oběd. Po jídle se projděte k blízkému Darkovskému mostu, architektonickému zajímavému bodu.\nOdpoledne vás autobus vrátí do centra, kde navštívíte poslední významnou památku dne: pozoruhodný nakloněný kostel sv. Petra z Alcantary. Jeho jedinečná historie a vzhled jsou pamětihodným zakončením vaší prohlídky.\nDen zakončíte poklidným posezením v některé centrální kavárně před odjezdem autobusem zpět na nádraží. Tento plán ukazuje, jak snadno lze objevit hlavní zajímavosti Karviné veřejnou dopravou, chytře kombinující pěší procházky a jízdy autobusem."
       },
       "gastro_picks": {
         "de": [
@@ -2017,6 +2169,12 @@
           "Pay attention to the stop announcements or track the route on your phone.",
           "A power bank for your smartphone is useful for navigation and schedule lookups.",
           "Validate your ticket at the start of your journey to avoid fines."
+        ],
+        "cs": [
+          "Stáhněte si oficiální aplikaci MHD pro aktuální jízdní řády a trasy v reálném čase.",
+          "Dávejte pozor na hlášení zastávek nebo sledujte trasu v telefonu.",
+          "Powerbanka pro smartphone se hodí na navigaci a vyhledávání spojů.",
+          "Před začátkem cesty označte jízdenku, abyste se vyhnuli pokutám."
         ]
       },
       "variants": {
@@ -2025,7 +2183,8 @@
             "de": "Öffentliche Verkehrsmittel sind an Regentagen in Karwin eine kluge Wahl. Vom Bahnhof gelangen wir schnell ins Zentrum zum Masaryk-Platz. Die Busverbindung zum Schloss Fryštát erspart uns lange Wege im Regen. Nachmittags bringt uns der Bus zur schiefen Kirche, wobei wir die Wartezeiten an den überdachten Haltestellen verbringen. Den Abschluss macht eine Fahrt nach Darkov, bevor wir bequem zum Bahnhof zurückkehren.",
             "hu": "A tömegközlekedés okos választás az esős napokon Karvinában. A vasútállomásról gyorsan bejutunk a központba, a Masaryk-térre. A Fryštát-kastélyhoz közlekedő busz megkímél minket a hosszú esős gyaloglástól. Délután busszal megyünk a dőlt templomhoz, a várakozási időt fedett megállókban töltve. A napot egy darkovi utazás zárja, mielőtt kényelmesen visszatérnénk a pályaudvarra.",
             "ro": "Transportul public este o alegere inteligentă în zilele ploioase în Karviná. De la gară ajungem rapid în centru, în Piața Masaryk. Autobuzul spre castelul Fryštát ne scutește de drumurile lungi prin ploaie. După-amiaza folosim autobuzul pentru biserica înclinată, așteptând în stațiile acoperite. Încheiem cu o călătorie spre Darkov, înainte de a reveni confortabil la gară.",
-            "en": "Public transport is a smart choice on rainy days in Karviná. From the station, we quickly reach the center at Masaryk Square. The bus connection to Fryštát Chateau saves us from long walks in the rain. In the afternoon, the bus takes us to the leaning church, while we spend wait times in covered shelters. The day ends with a trip to Darkov before a comfortable return to the station."
+            "en": "Public transport is a smart choice on rainy days in Karviná. From the station, we quickly reach the center at Masaryk Square. The bus connection to Fryštát Chateau saves us from long walks in the rain. In the afternoon, the bus takes us to the leaning church, while we spend wait times in covered shelters. The day ends with a trip to Darkov before a comfortable return to the station.",
+            "cs": "Veřejná doprava je rozumná volba za deště v Karviné. Ze stanice rychle dojedete na Masarykovo náměstí. Autobusové spojení k zámku Fryštát vás ušetří dlouhých procházek v dešti. Odpoledne vás autobus doveze k nakloněnému kostelu, čekací doby strávíte v krytých přístřešcích. Den zakončíte výletem do Darkova a pohodlným návratem na nádraží."
           },
           "stops": [
             {
@@ -2034,7 +2193,8 @@
                 "de": "Die Wartehalle bietet Schutz und aktuelle Abfahrtsinfos.",
                 "hu": "A várócsarnok védelmet és aktuális indulási infókat kínál.",
                 "ro": "Sala de așteptare oferă adăpost și informații actualizate.",
-                "en": "The waiting hall offers shelter and up-to-date departure info."
+                "en": "The waiting hall offers shelter and up-to-date departure info.",
+                "cs": "Čekárna nabízí úkryt a aktuální informace o odjezdech."
               }
             },
             {
@@ -2043,7 +2203,8 @@
                 "de": "Die Bushaltestellen im Zentrum sind meist überdacht.",
                 "hu": "A belvárosi buszmegállók többnyire fedettek.",
                 "ro": "Stațiile de autobuz din centru sunt în mare parte acoperite.",
-                "en": "The bus stops in the center are mostly covered."
+                "en": "The bus stops in the center are mostly covered.",
+                "cs": "Zastávky autobusů v centru jsou většinou kryté."
               }
             },
             {
@@ -2052,7 +2213,8 @@
                 "de": "Haltestelle 'Fryštát, náměstí' ist nur wenige Schritte entfernt.",
                 "hu": "A 'Fryštát, náměstí' megálló csak pár lépésre van.",
                 "ro": "Stația 'Fryštát, náměstí' se află la doar câțiva pași distanță.",
-                "en": "The 'Fryštát, náměstí' stop is just a few steps away."
+                "en": "The 'Fryštát, náměstí' stop is just a few steps away.",
+                "cs": "Zastávka 'Fryštát, náměstí' je jen několik kroků daleko."
               }
             },
             {
@@ -2061,7 +2223,8 @@
                 "de": "Nutzen Sie die Linie 511 oder 512 für eine trockene Fahrt.",
                 "hu": "Használja az 511-es vagy 512-es járatot a száraz utazáshoz.",
                 "ro": "Folosiți liniile 511 sau 512 pentru o călătorie uscată.",
-                "en": "Use line 511 or 512 for a dry journey."
+                "en": "Use line 511 or 512 for a dry journey.",
+                "cs": "Pro suchou jízdu použijte linku 511 nebo 512."
               }
             },
             {
@@ -2070,7 +2233,8 @@
                 "de": "Die Haltestelle 'Lázně Darkov' liegt direkt beim Kurpark.",
                 "hu": "A 'Lázně Darkov' megálló közvetlenül a győgyparknál van.",
                 "ro": "Stația 'Lázně Darkov' este situată chiar lângă parcul balnear.",
-                "en": "The 'Lázně Darkov' stop is located right by the spa park."
+                "en": "The 'Lázně Darkov' stop is located right by the spa park.",
+                "cs": "Zastávka „Lázně Darkov“ se nachází přímo u lázeňského parku."
               }
             },
             {
@@ -2079,7 +2243,8 @@
                 "de": "Die Haltestelle 'Doly, kostel' bringt Sie direkt zur Kirche.",
                 "hu": "A 'Doly, kostel' megálló közvetlenül a templomhoz visz.",
                 "ro": "Stația 'Doly, kostel' vă lasă chiar lângă biserică.",
-                "en": "The 'Doly, kostel' stop drops you right at the church."
+                "en": "The 'Doly, kostel' stop drops you right at the church.",
+                "cs": "Zastávka „Doly, kostel“ vás vysadí přímo u kostela."
               }
             }
           ],
@@ -2107,6 +2272,12 @@
               "Buses in Karviná are modern and well-heated.",
               "Buses run less frequently on Sundays, check the timetable.",
               "Have small change or a contactless card ready for the ticket."
+            ],
+            "cs": [
+              "Stáhněte si aplikaci „Můj vagon“ nebo „IDOS“ pro data o autobusech v reálném čase.",
+              "Autobusy v Karviné jsou moderní a dobře vytápěné.",
+              "Autobusy jezdí v neděli méně často, zkontrolujte jízdní řád.",
+              "Mějte připraven drobnou hotovost nebo bezkontaktní kartu na jízdenku."
             ]
           }
         },
@@ -2115,7 +2286,8 @@
             "de": "Mit Bus und Bahn lässt sich Karwin im Winter ohne Sorgen um glatte Straßen erkunden. Wir starten am Bahnhof und erreichen schnell das Stadtzentrum. Die Mittagsstunden verbringen wir im Schlosshof, wobei der Bus uns direkt dorthin bringt. Vor dem frühen Einbruch der Dunkelheit besuchen wir die schiefe Kirche. Den Abend genießen wir im beleuchteten Darkov, bevor uns der Linienbus sicher zurück zum Bahnhof transportiert.",
             "hu": "Busszal és vonattal Karviná télen is gond nélkül bejárható, anélkül, hogy a jeges utak miatt aggódnánk. A pályaudvarról indulva gyorsan elérjük a belvárost. A délutánt a kastélynál töltjük, ahová a busz közvetlenül elvisz minket. A korai sötétedés előtt látogatunk el a dőlt templomhoz. Az estét a kivilágított Darkovban élvezzük, mielőtt a menetrend szerinti járat visszavisz a vasútra.",
             "ro": "Cu autobuzul și trenul, Karviná poate fi explorată iarna fără grija drumurilor alunecoase. Pornim de la gară și ajungem rapid în centrul orașului. Orele prânzului le petrecem la castel, autobuzul lăsându-ne chiar acolo. Înainte de lăsarea timpurie a întunericului vizităm biserica înclinată. Seara ne bucurăm de zona Darkov luminată, apoi autobuzul ne duce în siguranță înapoi la gară.",
-            "en": "With bus and train, Karviná can be explored in winter without worrying about slippery roads. We start at the station and quickly reach the city center. We spend the midday hours at the chateau, with the bus taking us directly there. Before the early onset of darkness, we visit the leaning church. We enjoy the evening in illuminated Darkov before the local bus transports us safely back to the station."
+            "en": "With bus and train, Karviná can be explored in winter without worrying about slippery roads. We start at the station and quickly reach the city center. We spend the midday hours at the chateau, with the bus taking us directly there. Before the early onset of darkness, we visit the leaning church. We enjoy the evening in illuminated Darkov before the local bus transports us safely back to the station.",
+            "cs": "S autobusem a vlakem lze Karvinou v zimě prozkoumat bez obav ze zledovatělých silnic. Začínáme na nádraží a rychle se dostaneme do centra. Polední hodiny trávíme na zámku, kam nás autobus doveze přímo. Před brzkým setměním navštívíme šikmý kostel. Večer si užíváme osvětlený Darkov, odkud nás místní autobus bezpečně odveze zpět na nádraží."
           },
           "stops": [
             {
@@ -2124,7 +2296,8 @@
                 "de": "Nutzen Sie die beheizte Wartehalle bei Zugverspätungen.",
                 "hu": "Használja a fűtött várócsarnokot vonatpésés esetén.",
                 "ro": "Folosiți sala de așteptare încălzită în caz de întârzieri ale trenurilor.",
-                "en": "Use the heated waiting hall in case of train delays."
+                "en": "Use the heated waiting hall in case of train delays.",
+                "cs": "V případě zpoždění vlaku využijte vytápěnou čekárnu."
               }
             },
             {
@@ -2133,7 +2306,8 @@
                 "de": "Kurze Wege zwischen den Haltestellen und den Cafés.",
                 "hu": "Rövid távolságok a megállók és a kávézók között.",
                 "ro": "Distanțe scurte între stații și cafenele.",
-                "en": "Short distances between stops and cafes."
+                "en": "Short distances between stops and cafes.",
+                "cs": "Krátké vzdálenosti mezi zastávkami a kavárnami."
               }
             },
             {
@@ -2142,7 +2316,8 @@
                 "de": "Die Busse fahren im 15-Minuten-Takt in Richtung Zentrum.",
                 "hu": "A buszok 15 percenként járnak a központ irányába.",
                 "ro": "Autobuzele circulă la fiecare 15 minute spre centru.",
-                "en": "Buses run every 15 minutes towards the center."
+                "en": "Buses run every 15 minutes towards the center.",
+                "cs": "Autobusy do centra jezdí každých 15 minut."
               }
             },
             {
@@ -2151,7 +2326,8 @@
                 "de": "Warme Kleidung für die kurzen Fußwege ab der Haltestelle.",
                 "hu": "Meleg ruházat szükséges a megállótól számított rövid sétához.",
                 "ro": "Îmbrăcăminte groasă necesară pentru scurta plimbare de la stație.",
-                "en": "Warm clothing is needed for the short walks from the stop."
+                "en": "Warm clothing is needed for the short walks from the stop.",
+                "cs": "Na krátké procházky od zastávky si vezměte teplé oblečení."
               }
             },
             {
@@ -2160,7 +2336,8 @@
                 "de": "Die Haltestelle ist beleuchtet und auch abends sicher.",
                 "hu": "A megálló kivilágított és este is biztonságos.",
                 "ro": "Stația este iluminată și sigură chiar și seara.",
-                "en": "The stop is illuminated and safe even in the evening."
+                "en": "The stop is illuminated and safe even in the evening.",
+                "cs": "Zastávka je osvětlená a bezpečná i večer."
               }
             },
             {
@@ -2169,7 +2346,8 @@
                 "de": "Letzte Rückfahrt vor 19 Uhr prüfen (Wochenende).",
                 "hu": "Ellenőrizze az utolsó visszautat 19 óra előtt (hétvégén).",
                 "ro": "Verificați ultima cursă de întoarcere înainte de ora 19 (weekend).",
-                "en": "Check the last return trip before 7 PM (weekends)."
+                "en": "Check the last return trip before 7 PM (weekends).",
+                "cs": "Před 19:00 si zkontrolujte poslední spojení zpět (o víkendech)."
               }
             }
           ],
@@ -2197,6 +2375,12 @@
               "The IDOS app also shows delays due to winter weather.",
               "Transport cards (ODISka) make transfers cheaper.",
               "In the evening, buses are often less crowded and very comfortably heated."
+            ],
+            "cs": [
+              "Zastávky mohou být za sněžení kluzké, při nástupu buďte opatrní.",
+              "Aplikace IDOS také ukazuje zpoždění způsobená zimním počasím.",
+              "Dopravní karty (ODISka) zlevňují přestupy.",
+              "Večer jsou autobusy často méně plné a velmi dobře vytápěné."
             ]
           }
         }

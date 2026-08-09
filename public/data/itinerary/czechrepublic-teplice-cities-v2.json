@@ -21,7 +21,8 @@
             "de": "Krušnohorské divadlo (Erzgebirgstheater)",
             "hu": "Érchegységi Színház",
             "ro": "Teatrul Munților Metaliferi",
-            "en": "Krušnohorské Theatre (Ore Mountains Theatre)"
+            "en": "Krušnohorské Theatre (Ore Mountains Theatre)",
+            "cs": "Krušnohorské divadlo"
           },
           "coords": [
             13.8288,
@@ -37,7 +38,8 @@
             "de": "Bewundern Sie die neobarocke Fassade, auch wenn Sie keine Vorstellung besuchen.",
             "hu": "Csodálja meg a neobarokk homlokzatot, még ha nem is megy előadásra.",
             "ro": "Admirați fațada neobarocă, chiar dacă nu mergeți la un spectacol.",
-            "en": "Admire the neo-baroque facade, even if you're not attending a show."
+            "en": "Admire the neo-baroque facade, even if you're not attending a show.",
+            "cs": "Obdivujte neobarokní fasádu, i když nejste na představení."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "St.-Johannes-der-Täufer-Kirche",
             "hu": "Keresztelő Szent János templom",
             "ro": "Biserica Sfântul Ioan Botezătorul",
-            "en": "Church of St. John the Baptist"
+            "en": "Church of St. John the Baptist",
+            "cs": "Kostel sv. Jana Křtitele"
           },
           "coords": [
             13.8265,
@@ -61,7 +64,8 @@
             "de": "Suchen Sie nach den ältesten gotischen Elementen im Inneren.",
             "hu": "Keresse meg a legrégebbi gótikus elemeket a templom belsejében.",
             "ro": "Căutați cele mai vechi elemente gotice în interior.",
-            "en": "Look for the oldest Gothic elements inside the church."
+            "en": "Look for the oldest Gothic elements inside the church.",
+            "cs": "Hledejte nejstarší gotické prvky uvnitř kostela."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Lázně Beethoven (Beethoven-Bad)",
             "hu": "Beethoven Gyógyfürdő",
             "ro": "Băile Beethoven",
-            "en": "Beethoven Spa"
+            "en": "Beethoven Spa",
+            "cs": "Beethovenovy lázně"
           },
           "coords": [
             13.8251,
@@ -85,7 +90,8 @@
             "de": "Probieren Sie das Heilwasser aus einer der öffentlichen Quellen.",
             "hu": "Kóstolja meg a gyógyvizet a nyilvános források egyikéből.",
             "ro": "Gustați apa tămăduitoare de la unul dintre izvoarele publice.",
-            "en": "Try the healing water from one of the public springs."
+            "en": "Try the healing water from one of the public springs.",
+            "cs": "Vyzkoušejte léčivou vodu z jedné z veřejných studánek."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Schloss Teplice (Schloss Teplitz)",
             "hu": "Teplicei kastély",
             "ro": "Castelul Teplice",
-            "en": "Teplice Castle"
+            "en": "Teplice Castle",
+            "cs": "Teplický zámek"
           },
           "coords": [
             13.824,
@@ -109,7 +116,8 @@
             "de": "Das Regionalmuseum im Schloss bietet einen tiefen Einblick in die Geschichte der Region.",
             "hu": "A kastélyban található regionális múzeum mély betekintést nyújt a régió történelmébe.",
             "ro": "Muzeul regional din castel oferă o perspectivă profundă asupra istoriei regiunii.",
-            "en": "The regional museum inside the castle offers a deep dive into the area's history."
+            "en": "The regional museum inside the castle offers a deep dive into the area's history.",
+            "cs": "Regionální muzeum v zámku nabízí hluboký vhled do dějin kraje."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Schlossgarten",
             "hu": "Kastélykert",
             "ro": "Grădina Castelului",
-            "en": "Castle Garden"
+            "en": "Castle Garden",
+            "cs": "Zámecká zahrada"
           },
           "coords": [
             13.8225,
@@ -133,7 +142,8 @@
             "de": "Ein idealer Ort für ein Mittagspicknick am Schwanenteich.",
             "hu": "Ideális hely egy déli piknikhez a hattyús tónál.",
             "ro": "Un loc ideal pentru un picnic la prânz lângă iazul cu lebede.",
-            "en": "An ideal spot for a midday picnic by the swan pond."
+            "en": "An ideal spot for a midday picnic by the swan pond.",
+            "cs": "Ideální místo na polední piknik u labutího rybníka."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Botanischer Garten Teplice",
             "hu": "Teplicei Botanikus Kert",
             "ro": "Grădina Botanică Teplice",
-            "en": "Botanical Garden Teplice"
+            "en": "Botanical Garden Teplice",
+            "cs": "Botanická zahrada Teplice"
           },
           "coords": [
             13.818,
@@ -157,7 +168,8 @@
             "de": "Verpassen Sie nicht die tropischen Gewächshäuser, eine Oase zu jeder Jahreszeit.",
             "hu": "Ne hagyja ki a trópusi üvegházakat, amelyek minden évszakban oázist jelentenek.",
             "ro": "Nu ratați serele tropicale, o oază în orice anotimp.",
-            "en": "Don't miss the tropical greenhouses, an oasis in any season."
+            "en": "Don't miss the tropical greenhouses, an oasis in any season.",
+            "cs": "Nepropásněte tropické skleníky, oázu v každém ročním období."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Císařské lázně (Kaiserbad)",
             "hu": "Császári fürdő",
             "ro": "Băile Imperiale",
-            "en": "Imperial Spa"
+            "en": "Imperial Spa",
+            "cs": "Císařské lázně"
           },
           "coords": [
             13.8295,
@@ -181,7 +194,8 @@
             "de": "Gönnen Sie sich am Ende des Tages eine entspannende Behandlung.",
             "hu": "A nap végén kényeztesse magát egy pihentető kezeléssel.",
             "ro": "La sfârșitul zilei, răsfățați-vă cu un tratament relaxant.",
-            "en": "Treat yourself to a relaxing treatment at the end of the day."
+            "en": "Treat yourself to a relaxing treatment at the end of the day.",
+            "cs": "Dopřejte si na konci dne relaxační proceduru."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Beginnen Sie Ihren Tag im Herzen von Teplitz und erkunden Sie das historische Theater und die alte Kirche. Spüren Sie die Atmosphäre der Kurstadt, die schon Beethoven genoss. Am Nachmittag spazieren Sie durch die grünen Oasen der Stadt: den Schlossgarten und den Botanischen Garten. Schließen Sie den Tag mit einem Besuch im prächtigen Kaiserbad ab, einem Symbol für den Glanz der alten Kurtradition.",
         "hu": "Kezdje a napot Teplice szívében, fedezze fel a történelmi színházat és a régi templomot. Érezze a fürdőváros hangulatát, amelyet már Beethoven is élvezett. Délután sétáljon a város zöld oázisaiban: a kastélykertben és a botanikus kertben. Zárja a napot a pompás Császári fürdő meglátogatásával, amely a régi fürdőhagyomány fényének szimbóluma.",
         "ro": "Începeți ziua în inima orașului Teplice, explorând teatrul istoric și biserica veche. Simțiți atmosfera orașului balnear de care s-a bucurat Beethoven. După-amiaza, plimbați-vă prin oazele verzi ale orașului: Grădina Castelului și Grădina Botanică. Încheiați ziua cu o vizită la magnificele Băi Imperiale, un simbol al strălucirii vechii tradiții balneare.",
-        "en": "Start your day in the heart of Teplice, exploring the historic theatre and the old church. Feel the spa town atmosphere that Beethoven once enjoyed. In the afternoon, stroll through the city's green oases: the Castle Garden and the Botanical Garden. End your day with a visit to the magnificent Imperial Spa, a symbol of the splendour of the old spa tradition."
+        "en": "Start your day in the heart of Teplice, exploring the historic theatre and the old church. Feel the spa town atmosphere that Beethoven once enjoyed. In the afternoon, stroll through the city's green oases: the Castle Garden and the Botanical Garden. End your day with a visit to the magnificent Imperial Spa, a symbol of the splendour of the old spa tradition.",
+        "cs": "Začněte den v srdci Teplic prohlídkou historického divadla a starého kostela. Nasajte lázeňskou atmosféru, kterou si kdysi užíval Beethoven. Odpoledne se procházejte po městských zelených oázách: Zámecké zahradě a Botanické zahradě. Den zakončete návštěvou impozantních Císařských lázní, symbolu někdejší lázeňské nádhery."
       },
       "gastro_picks": {
         "de": [
@@ -345,6 +360,11 @@
           "Wear comfortable shoes as you'll be walking on cobblestones all day.",
           "Many parks and gardens have free admission.",
           "Don't forget to bring cash for small cafes and souvenir shops."
+        ],
+        "cs": [
+          "Noste pohodlnou obuv, budete celý den chodit po dlažbě.",
+          "Mnoho parků a zahrad má vstup zdarma.",
+          "Nezapomeňte si u sebe hotovost na malé kavárny a obchůdky se suvenýry."
         ]
       },
       "variants": {
@@ -353,7 +373,8 @@
             "de": "Am Vormittag bietet das prächtige Krušnohorské-Theater idealen Schutz vor dem Regen. Mittags erkunden wir die historischen Hallen des Schlosses Teplice, wo wir im Museum trocken bleiben. Der Nachmittag gehört den Gewächshäusern des Botanischen Gartens, die ein tropisches Refugium im Grau bieten. Den Abend lassen wir entspannt im warmen Thermalwasser des Kaiserbads ausklingen.",
             "hu": "Reggel a Krušnohorské Színház elegáns épületében bújunk el a szitáló eső elől. Délben a várkastély múzeumában fedezzük fel a helyi történelmet, szárazon maradva a vastag falak között. Délután a botanikus kert üvegházai nyújtanak trópusi menedéket a szürkeségben. Estére az Imperial fürdő meleg vize feledteti a kinti barátságtalan időjárást és a nedves utcákat.",
             "ro": "Dimineața, teatrul Krušnohorské oferă un adăpost elegant împotriva ploii persistente. La prânz, explorăm muzeul din incinta Castelului Teplice, rămânând la adăpostul zidurilor groase. După-amiaza este dedicată serelor Grădinii Botanice, un refugiu tropical în mijlocul vremii gri. Seara se încheie relaxant în apele termale calde de la Imperial Spa, ascultând ploaia de afară.",
-            "en": "In the morning, the grand Krušnohorské Theatre provides the perfect shelter from the drizzle. At noon, we explore the historical halls of Teplice Castle museum, staying dry indoors. The afternoon is spent in the greenhouses of the Botanical Garden, a tropical refuge in the grey weather. We end the day relaxing in the warm thermal waters of the Imperial Spa as the rain continues outside."
+            "en": "In the morning, the grand Krušnohorské Theatre provides the perfect shelter from the drizzle. At noon, we explore the historical halls of Teplice Castle museum, staying dry indoors. The afternoon is spent in the greenhouses of the Botanical Garden, a tropical refuge in the grey weather. We end the day relaxing in the warm thermal waters of the Imperial Spa as the rain continues outside.",
+            "cs": "Ráno poskytuje velkolepé Krušnohorské divadlo dokonalé útočiště před mrholením. V poledne prozkoumáme historické sály muzea v teplickém zámku a zůstaneme suchu uvnitř. Odpoledne strávíme ve sklenících Botanické zahrady, tropickém útočišti v šedém počasí. Den zakončíme relaxací v teplých termálních vodách Císařských lázní, zatímco venku dál prší."
           },
           "stops": [
             {
@@ -362,7 +383,8 @@
                 "de": "Nutzen Sie die Garderobe und bewundern Sie das Interieur bei einer Innenführung.",
                 "hu": "Használja a ruhatárat, és csodálja meg a belső teret egy vezetett túra során.",
                 "ro": "Folosiți garderoba și admirați interiorul în cadrul unui tur ghidat.",
-                "en": "Use the cloakroom and admire the interior during an indoor guided tour."
+                "en": "Use the cloakroom and admire the interior during an indoor guided tour.",
+                "cs": "Vyzkoušejte šatnu a obdivujte interiér při vnitřní komentované prohlídce."
               }
             },
             {
@@ -371,7 +393,8 @@
                 "de": "Ein ruhiger Ort für eine kurze Regenpause; achten Sie auf die Akustik.",
                 "hu": "Csendes hely egy rövid esőszünetre; figyeljen a kiváló akusztikára.",
                 "ro": "Un loc liniștit pentru o scurtă pauză de ploaie; atenție la acustica deosebită.",
-                "en": "A quiet place for a short rain break; pay attention to the excellent acoustics."
+                "en": "A quiet place for a short rain break; pay attention to the excellent acoustics.",
+                "cs": "Tiché místo na krátkou pauzu před deštěm; věnujte pozornost výjimečné akustice."
               }
             },
             {
@@ -380,7 +403,8 @@
                 "de": "Genießen Sie die Thermalbecken, während es draußen regnet; sehr gemütlich.",
                 "hu": "Élvezze a termálmedencéket, miközben kint esik; rendkívül hangulatos.",
                 "ro": "Bucurați-vă de bazinele termale în timp ce plouă afară; foarte primitor.",
-                "en": "Enjoy the thermal pools while it rains outside; very cozy atmosphere."
+                "en": "Enjoy the thermal pools while it rains outside; very cozy atmosphere.",
+                "cs": "Užívejte si termální bazény zatímco venku prší; velmi útulná atmosféra."
               }
             },
             {
@@ -389,7 +413,8 @@
                 "de": "Das Museum bietet weitläufige Ausstellungen im Trockenen; planen Sie mehr Zeit ein.",
                 "hu": "A múzeum kiterjedt kiállításai fedett helyen vannak; tervezzen hosszabb időt.",
                 "ro": "Muzeul oferă expoziții vaste la interior; planificați-vă mai mult timp aici.",
-                "en": "The museum offers extensive indoor exhibitions; plan for extra time here."
+                "en": "The museum offers extensive indoor exhibitions; plan for extra time here.",
+                "cs": "Muzeum nabízí rozsáhlé vnitřní expozice; počítejte s delší zastávkou."
               }
             },
             {
@@ -398,7 +423,8 @@
                 "de": "Nutzen Sie die asphaltierten Wege, um Pfützen und Schlamm zu vermeiden.",
                 "hu": "Használja az aszfaltozott utakat a tócsák és a sár elkerülése érdekében.",
                 "ro": "Folosiți aleile asfaltate pentru a evita bălțile și noroiul din parc.",
-                "en": "Stick to the paved paths to avoid puddles and mud in the garden."
+                "en": "Stick to the paved paths to avoid puddles and mud in the garden.",
+                "cs": "Držte se poštěpkovaných cest, abyste se vyhnuli loužím a blátu v zahradě."
               }
             },
             {
@@ -407,7 +433,8 @@
                 "de": "Die großen Schauhäuser sind der beste Ort bei Regen; tropisches Klima garantiert.",
                 "hu": "A nagy bemutatóházak a legjobbak esőben; trópusi klíma garantált.",
                 "ro": "Serele mari sunt cel mai bun loc pe ploaie; climat tropical garantat.",
-                "en": "The large greenhouses are the best place during rain; tropical climate guaranteed."
+                "en": "The large greenhouses are the best place during rain; tropical climate guaranteed.",
+                "cs": "Velké skleníky jsou za deště nejlepší místo; tropické klima zaručeno."
               }
             },
             {
@@ -416,7 +443,8 @@
                 "de": "Perfekter Abschluss: Heißes Thermalwasser hilft gegen die feuchte Kälte.",
                 "hu": "Tökéletes zárás: a forró termálvíz segít a nyirkos hideg ellen.",
                 "ro": "Final perfect: apa termală fierbinte ajută împotriva umezelii reci.",
-                "en": "Perfect ending: hot thermal water helps fight off the damp cold."
+                "en": "Perfect ending: hot thermal water helps fight off the damp cold.",
+                "cs": "Perfektní zakončení: horká termální voda pomůže zatočit s vlhkým chladem."
               }
             }
           ],
@@ -444,6 +472,12 @@
               "The botanical garden greenhouses are ideal for bridging longer rain showers.",
               "Most spa houses have spacious foyers where you can take a quick dry break.",
               "An umbrella is essential, as the distances between historic buildings are short but exposed."
+            ],
+            "cs": [
+              "Noste nepromokavou obuv, cesty v zámecké zahradě mohou být za deště kluzké.",
+              "Skleníky botanické zahrady jsou ideální pro překlenutí delších dešťových přeháněk.",
+              "Většina lázeňských domů má prostorné foyer, kde si můžete krátce usušit věci.",
+              "Deštník je nezbytný, vzdálenosti mezi historickými budovami jsou krátké, ale vystavené."
             ]
           }
         },
@@ -452,7 +486,8 @@
             "de": "Ein klarer Wintermorgen hüllt das Theater in Raureif. Mittags genießen wir die verschneite Stille des Schlossgartens, bevor uns das warme Thermalwasser im Beethoven-Bad wieder aufheizt. Der Nachmittag in den beheizten Gewächshäusern bietet einen wunderbaren Kontrast zur Kälte draußen. Nach Einbruch der Dunkelheit glitzern die Lichter des Kurviertels besonders stimmungsvoll im Schnee.",
             "hu": "A fagyos reggelen a színház környékének építészeti részletei a zúzmarában tündökölnek. Délben a kastélykert havas ösvényein sétálunk, majd a fürdő forró gyógyvize ad gyors felmelegedést. Délután a botanikus kert üvegházai nyújtanak menedéket a hideg elől. Este a kivilágított fürdőnegyed nyújt meghitt, téli hangulatot a havas utcákon.",
             "ro": "O dimineață senină de iarnă îmbracă teatrul în promoroacă. La prânz, ne bucurăm de liniștea înzăpezită a grădinii castelului, înainte ca apa termală caldă de la Beethoven Spa să ne reîncălzească. După-amiaza în serele încălzite oferă un contrast minunat cu frigul de afară. După lăsarea întunericului, luminile cartierului balnear strălucesc magic în zăpadă.",
-            "en": "A crisp winter morning wraps the theatre in frost. At noon, we enjoy the snowy silence of the Castle Garden before the warm thermal water of Beethoven Spa heats us up again. The afternoon in the heated greenhouses offers a wonderful contrast to the cold outside. After dark, the lights of the spa district glitter beautifully in the snow."
+            "en": "A crisp winter morning wraps the theatre in frost. At noon, we enjoy the snowy silence of the Castle Garden before the warm thermal water of Beethoven Spa heats us up again. The afternoon in the heated greenhouses offers a wonderful contrast to the cold outside. After dark, the lights of the spa district glitter beautifully in the snow.",
+            "cs": "Chladné zimní ráno obalí divadlo jinovatkou. V poledne si vychutnáme zasněhou tichost Zámecké zahrady, než nás opět zahřeje teplá termální voda Beethovenových lázní. Odpoledne ve vyhřátých sklenících nabídne nádherný kontrast s chladem venku. Po setmění světla lázeňské čtvrti krásně blikají ve sněhu."
           },
           "stops": [
             {
@@ -461,7 +496,8 @@
                 "de": "Das beheizte Foyer ist ein guter Ort, um sich vor dem Stadtrundgang aufzuwärmen.",
                 "hu": "A fűtött előcsarnok kiváló hely a bemelegedésre a városnézés megkezdése előtt.",
                 "ro": "Foaierul încălzit este un loc bun pentru a vă încălzi înainte de turul orașului.",
-                "en": "The heated foyer is a good spot to warm up before starting your city walk."
+                "en": "The heated foyer is a good spot to warm up before starting your city walk.",
+                "cs": "Vyhřívané foyer je vhodné místo na zahřátí před zahájením procházky po městě."
               }
             },
             {
@@ -470,7 +506,8 @@
                 "de": "Ziehen Sie sich warm an, da alte Kirchen im Winter oft sehr kühl sind.",
                 "hu": "Öltözzön melegen, mert a régi templomok télen gyakran nagyon hűvösek.",
                 "ro": "Îmbrăcați-vă gros, deoarece bisericile vechi sunt adesea foarte reci iarna.",
-                "en": "Dress warmly, as old churches are often very chilly during the winter months."
+                "en": "Dress warmly, as old churches are often very chilly during the winter months.",
+                "cs": "Oblékněte se teple, staré kostely jsou v zimě často velmi chladné."
               }
             },
             {
@@ -479,7 +516,8 @@
                 "de": "Das 38°C warme Wasser ist im Winter ein absoluter Genuss für die Muskeln.",
                 "hu": "A 38 fokos termálvíz télen igazi kényeztetés a megfáradt izmoknak.",
                 "ro": "Apa termală de 38°C este o plăcere absolută pentru mușchi în timpul iernii.",
-                "en": "The 38°C thermal water is an absolute delight for muscles during winter."
+                "en": "The 38°C thermal water is an absolute delight for muscles during winter.",
+                "cs": "38°C termální voda je během zimy opravdovou lahůdkou pro svaly."
               }
             },
             {
@@ -488,7 +526,8 @@
                 "de": "Besuchen Sie die Ausstellungen, um der eisigen Brise draußen zu entkommen.",
                 "hu": "Látogassa meg a kiállításokat, hogy elmeneküljön a kinti jeges szél elől.",
                 "ro": "Vizitați expozițiile pentru a scăpa de briza înghețată de afară.",
-                "en": "Visit the exhibitions to escape the icy breeze blowing outside."
+                "en": "Visit the exhibitions to escape the icy breeze blowing outside.",
+                "cs": "Navštivte expozice, abyste unikli ledovému vánku venku."
               }
             },
             {
@@ -497,7 +536,8 @@
                 "de": "Vorsicht vor vereisten Stellen an den Teichen; die Wege werden gestreut.",
                 "hu": "Vigyázzon a jeges szakaszokra a tavaknál; az utakat sózzák vagy homokozzák.",
                 "ro": "Atenție la zonele înghețate de lângă iazuri; aleile sunt de obicei presărate.",
-                "en": "Watch out for icy patches near the ponds; the paths are usually salted."
+                "en": "Watch out for icy patches near the ponds; the paths are usually salted.",
+                "cs": "Dejte pozor na namrzlé úseky u rybníků; cesty jsou obvykle posypané solí."
               }
             },
             {
@@ -506,7 +546,8 @@
                 "de": "Die feuchte Wärme in den Palmenhäusern ist die beste Therapie gegen Winterblues.",
                 "hu": "A pálmaházak párás melege a legjobb terápia a téli melankólia ellen.",
                 "ro": "Căldura umedă din serele cu palmieri este cea mai bună terapie contra iernii.",
-                "en": "The humid warmth in the palm houses is the best therapy against winter blues."
+                "en": "The humid warmth in the palm houses is the best therapy against winter blues.",
+                "cs": "Vlhké teplo v palmáriích je nejlepší terapie proti zimní depresi."
               }
             },
             {
@@ -515,7 +556,8 @@
                 "de": "Nutzen Sie den Wellnessbereich, um die Körpertemperatur wieder zu normalisieren.",
                 "hu": "Használja a wellness részleget a testhőmérséklet normalizálására a hideg után.",
                 "ro": "Folosiți zona de wellness pentru a vă regla temperatura corpului după frig.",
-                "en": "Use the wellness area to bring your body temperature back to normal after the cold."
+                "en": "Use the wellness area to bring your body temperature back to normal after the cold.",
+                "cs": "Využijte wellness zónu k navrácení normální tělesné teploty po pobytu v chladu."
               }
             }
           ],
@@ -543,6 +585,12 @@
               "Wear shoes with good grip, as the cobblestones in the spa district can be slippery.",
               "Plan regular stops in heated buildings or cafes to avoid getting too cold.",
               "Thermal treatments are particularly effective in winter for boosting the immune system."
+            ],
+            "cs": [
+              "V prosinci zapadá slunce kolem 16:00; plánujte venkovní návštěvy brzy během dne.",
+              "Noste boty s dobrou přilnavostí, dlažba v lázeňské čtvrti může klouzat.",
+              "Plánujte pravidelné zastávky v vytápěných budovách nebo kavárnách, abyste nepřeschli.",
+              "Termální procedury jsou v zimě obzvlášť účinné pro posílení imunity."
             ]
           }
         }
@@ -561,7 +609,8 @@
             "de": "Schloss Teplice & Schlossgarten",
             "hu": "Teplicei kastély és Kastélykert",
             "ro": "Castelul Teplice și Grădina Castelului",
-            "en": "Teplice Castle & Castle Garden"
+            "en": "Teplice Castle & Castle Garden",
+            "cs": "Teplický zámek a Zámecká zahrada"
           },
           "coords": [
             13.823,
@@ -577,7 +626,8 @@
             "de": "Schließen Sie Ihr Fahrrad sicher ab und erkunden Sie das Schloss und den Garten zu Fuß.",
             "hu": "Zárja le biztonságosan a kerékpárját, és fedezze fel a kastélyt és a kertet gyalog.",
             "ro": "Încuiați-vă bicicleta în siguranță și explorați castelul și grădina pe jos.",
-            "en": "Lock your bike securely and explore the castle and garden on foot."
+            "en": "Lock your bike securely and explore the castle and garden on foot.",
+            "cs": "Zamkněte kolo důkladně a prozkoumejte zámek i zahradu pěšky."
           }
         },
         {
@@ -585,7 +635,8 @@
             "de": "Botanischer Garten Teplice",
             "hu": "Teplicei Botanikus Kert",
             "ro": "Grădina Botanică Teplice",
-            "en": "Botanical Garden Teplice"
+            "en": "Botanical Garden Teplice",
+            "cs": "Botanická zahrada Teplice"
           },
           "coords": [
             13.818,
@@ -601,7 +652,8 @@
             "de": "Ein kurzer Abstecher, um die exotischen Pflanzen zu bewundern.",
             "hu": "Egy rövid kitérő az egzotikus növények megcsodálásához.",
             "ro": "Un scurt ocol pentru a admira plantele exotice.",
-            "en": "A short detour to admire the exotic plants."
+            "en": "A short detour to admire the exotic plants.",
+            "cs": "Krátká odbočka k obdivu exotických rostlin."
           }
         },
         {
@@ -609,7 +661,8 @@
             "de": "Lázně Beethoven (Beethoven-Bad)",
             "hu": "Beethoven Gyógyfürdő",
             "ro": "Băile Beethoven",
-            "en": "Beethoven Spa"
+            "en": "Beethoven Spa",
+            "cs": "Beethovenovy lázně"
           },
           "coords": [
             13.8251,
@@ -625,7 +678,8 @@
             "de": "Füllen Sie Ihre Wasserflasche mit dem berühmten Heilwasser.",
             "hu": "Töltse meg a vizes palackját a híres gyógyvízzel.",
             "ro": "Umpleți-vă sticla de apă cu celebra apă tămăduitoare.",
-            "en": "Refill your water bottle with the famous healing water."
+            "en": "Refill your water bottle with the famous healing water.",
+            "cs": "Doplněte si lahev vodou ze slavné léčivé studánky."
           }
         },
         {
@@ -633,7 +687,8 @@
             "de": "Mittagessen im Stadtzentrum",
             "hu": "Ebéd a városközpontban",
             "ro": "Prânz în centrul orașului",
-            "en": "Lunch in the city center"
+            "en": "Lunch in the city center",
+            "cs": "Oběd v centru města"
           },
           "coords": [
             13.827,
@@ -649,7 +704,8 @@
             "de": "Suchen Sie nach einem Restaurant mit einem „Zahrádka“ (Garten) im Freien.",
             "hu": "Keressen egy éttermet, amelynek van „Zahrádka” (kerthelyisége).",
             "ro": "Căutați un restaurant cu o „Zahrádka” (grădină) în aer liber.",
-            "en": "Look for a restaurant with an outdoor 'Zahrádka' (garden)."
+            "en": "Look for a restaurant with an outdoor 'Zahrádka' (garden).",
+            "cs": "Hledejte restauraci s venkovní „zahrádkou”."
           }
         },
         {
@@ -657,7 +713,8 @@
             "de": "Fahrt in Richtung Doubravská hora",
             "hu": "Kerékpárút a Doubravská hora irányába",
             "ro": "Plimbare cu bicicleta spre Doubravská hora",
-            "en": "Ride towards Doubravská hora"
+            "en": "Ride towards Doubravská hora",
+            "cs": "Vyjeďte směrem na Doubravskou horu"
           },
           "coords": [
             13.855,
@@ -673,7 +730,8 @@
             "de": "Genießen Sie die Aussicht auf die Stadt, auch wenn Sie nicht bis zum Gipfel fahren.",
             "hu": "Élvezze a városra nyíló kilátást, még ha nem is megy fel a csúcsra.",
             "ro": "Bucurați-vă de priveliștea orașului, chiar dacă nu urcați până în vârf.",
-            "en": "Enjoy the view over the city, even if you don't go all the way to the summit."
+            "en": "Enjoy the view over the city, even if you don't go all the way to the summit.",
+            "cs": "Užijte si výhled na město, i když nevyšplháte až na vrchol."
           }
         },
         {
@@ -681,7 +739,8 @@
             "de": "Rückkehr ins Kurviertel",
             "hu": "Visszatérés a fürdőnegyedbe",
             "ro": "Întoarcere în cartierul balnear",
-            "en": "Return to the Spa Quarter"
+            "en": "Return to the Spa Quarter",
+            "cs": "Návrat do lázeňské čtvrti"
           },
           "coords": [
             13.8295,
@@ -697,7 +756,8 @@
             "de": "Belohnen Sie sich mit Kaffee und Kuchen in einem der eleganten Cafés.",
             "hu": "Jutalmazza meg magát egy kávéval és süteménnyel az elegáns kávézók egyikében.",
             "ro": "Recompensați-vă cu o cafea și o prăjitură la una dintre cafenelele elegante.",
-            "en": "Reward yourself with coffee and cake in one of the elegant cafes."
+            "en": "Reward yourself with coffee and cake in one of the elegant cafes.",
+            "cs": "Odměňte se kávou a dortem v jedné z elegantních kaváren."
           }
         }
       ],
@@ -705,7 +765,8 @@
         "de": "Erkunden Sie Teplitz auf zwei Rädern. Beginnen Sie am Schloss und seinen Gärten, bevor Sie eine Runde durch den Botanischen Garten drehen. Stärken Sie sich im Stadtzentrum, und machen Sie sich dann auf den Weg, um die Aussicht vom Doubravská hora zu genießen. Beenden Sie Ihre Tour entspannt im historischen Kurviertel.",
         "hu": "Fedezze fel Teplicét két keréken. Kezdje a kastélynál és a kertjeinél, mielőtt tenne egy kört a botanikus kertben. Erősítse meg magát a városközpontban, majd induljon el, hogy élvezze a Doubravská hora kilátását. Fejezze be a túrát pihenéssel a történelmi fürdőnegyedben.",
         "ro": "Explorați Teplice pe două roți. Începeți de la castel și grădinile sale înainte de a face o tură prin Grădina Botanică. Luați prânzul în centrul orașului, apoi porniți să admirați priveliștea de pe Doubravská hora. Încheiați turul relaxându-vă în cartierul balnear istoric.",
-        "en": "Explore Teplice on two wheels. Start at the castle and its gardens before taking a spin through the Botanical Garden. Refuel in the city center, then head out to enjoy the views from Doubravská hora. Finish your tour relaxing in the historic spa quarter."
+        "en": "Explore Teplice on two wheels. Start at the castle and its gardens before taking a spin through the Botanical Garden. Refuel in the city center, then head out to enjoy the views from Doubravská hora. Finish your tour relaxing in the historic spa quarter.",
+        "cs": "Prozkoumejte Teplice na dvou kolech. Začněte u zámku a jeho zahrad, než se projedete Botanickou zahradou. Doplňte energii v centru města, pak vyrazte na výhledy z Doubravské hory. Prohlídku zakončete odpočinkem v historické lázeňské čtvrti."
       },
       "gastro_picks": {
         "de": [
@@ -839,6 +900,11 @@
           "Check for bike rental availability in the city.",
           "Some paths can be steep, especially towards Doubravská hora.",
           "Be mindful of pedestrians in the spa zones."
+        ],
+        "cs": [
+          "Zkontrolujte dostupnost půjčovny kol ve městě.",
+          "Některé cesty mohou být strmé, zejména směrem k Doubravské hoře.",
+          "Dávejte pozor na pěší v lázeňských zónách."
         ]
       },
       "variants": {
@@ -847,7 +913,8 @@
             "de": "Eine regnerische Radtour beginnt am Schloss, wo die Museen eine trockene Pause bieten. Die Fahrt zum Botanischen Garten erfordert gute Regenkleidung, aber die Gewächshäuser entschädigen für alles. Mittags stärken wir uns im Stadtzentrum, während die Räder im Trockenen stehen. Den Nachmittag verbringen wir mit einer entspannten Fahrt durch das Kurviertel, bevor wir uns aufwärmen.",
             "hu": "Az esős kerékpártúra a várnál kezdődik, ahol a múzeumok száraz pihenőt kínálnak. A botanikus kertig tartó szakasz jó esőfelszerelést igényel, de az üvegházak mindenért kárpótolnak. Délben a városközpontban frissülünk fel, miközben a biciklik fedett helyen várnak. A délutánt a fürdőnegyedben tett gurulással zárjuk a felmelegedés előtt.",
             "ro": "O tură cu bicicleta pe ploaie începe la castel, unde muzeele oferă o pauză uscată. Drumul spre Grădina Botanică necesită echipament de ploaie bun, dar serele compensează efortul. La prânz ne refacem forțele în centrul orașului, în timp ce bicicletele stau la adăpost. După-amiaza continuăm cu o plimbare prin cartierul balnear înainte de relaxare.",
-            "en": "A rainy bike tour starts at the castle, where museums offer a dry break. The ride to the Botanical Garden requires good rain gear, but the greenhouses make up for everything. At noon, we recharge in the city center while the bikes are parked under cover. The afternoon is spent cruising through the spa district before heading for a warm-up."
+            "en": "A rainy bike tour starts at the castle, where museums offer a dry break. The ride to the Botanical Garden requires good rain gear, but the greenhouses make up for everything. At noon, we recharge in the city center while the bikes are parked under cover. The afternoon is spent cruising through the spa district before heading for a warm-up.",
+            "cs": "Deštivý cyklovýlet začíná u zámku, kde muzea poskytnou suchou pauzu. Jízda k Botanické zahradě vyžaduje dobrou nepromokavou výstroj, ale skleníky vše vynahradí. V poledne se dobíjíme v centru, zatímco kola jsou zaparkovaná pod přístřeškem. Odpoledne projedeme lázeňskou čtvrť, než vyrazíme na zahřátí."
           },
           "stops": [
             {
@@ -856,7 +923,8 @@
                 "de": "Parken Sie Ihr Rad an überdachten Ständern am Eingang, bevor Sie ins Museum gehen.",
                 "hu": "Parkolja le kerékpárját a bejáratnál lévő fedett tárolókban, mielőtt belép a múzeumba.",
                 "ro": "Parcați bicicleta în rastelurile acoperite de la intrare înainte de a intra în muzeu.",
-                "en": "Park your bike at the covered racks by the entrance before entering the museum."
+                "en": "Park your bike at the covered racks by the entrance before entering the museum.",
+                "cs": "Zaparkujte kolo u krytých stojanů u vchodu před vstupem do muzea."
               }
             },
             {
@@ -865,7 +933,8 @@
                 "de": "Nutzen Sie den Besuch für eine längere Pause im Trockenen; Räder stehen sicher am Zaun.",
                 "hu": "Használja a látogatást egy hosszabb száraz pihenőre; a gépek biztonságban vannak a kerítésnél.",
                 "ro": "Folosiți vizita pentru o pauză lungă la uscat; bicicletele sunt în siguranță la gard.",
-                "en": "Use this visit for a long dry break; bikes are safe at the perimeter fence."
+                "en": "Use this visit for a long dry break; bikes are safe at the perimeter fence.",
+                "cs": "Využijte tuto návštěvu jako dlouhou suchou pauzu; kola jsou bezpečná u okrajového plotu."
               }
             },
             {
@@ -874,7 +943,8 @@
                 "de": "Kurzer Stopp; parken Sie unter dem Vordach, um den Sattel trocken zu halten.",
                 "hu": "Rövid megálló; parkoljon az előtető alatt, hogy a nyereg száraz maradjon.",
                 "ro": "Oprire scurtă; parcați sub copertină pentru a menține șaua uscată.",
-                "en": "Short stop; park under the awning to keep your saddle dry."
+                "en": "Short stop; park under the awning to keep your saddle dry.",
+                "cs": "Krátké zastavení; parkujte pod markýzou, aby se sedlo nezvlhčilo."
               }
             },
             {
@@ -883,7 +953,8 @@
                 "de": "Wählen Sie ein Restaurant mit Sichtkontakt zu Ihrem Rad im Regen.",
                 "hu": "Válasszon olyan éttermet, ahonnan rálát a kerékpárjára az esőben.",
                 "ro": "Alegeți un restaurant de unde puteți supraveghea bicicleta prin ploaie.",
-                "en": "Choose a restaurant where you can keep an eye on your bike in the rain."
+                "en": "Choose a restaurant where you can keep an eye on your bike in the rain.",
+                "cs": "Vyberte si restauraci, kde budete mít přehled o svém kole v dešti."
               }
             },
             {
@@ -892,7 +963,8 @@
                 "de": "Vorsicht auf dem Anstieg; nasses Laub kann den Weg rutschig machen.",
                 "hu": "Vigyázat az emelkedőn; a nedves levelek csúszóssá tehetik az utat.",
                 "ro": "Atenție la urcare; frunzele ude pot face drumul foarte alunecos.",
-                "en": "Caution on the ascent; wet leaves can make the path very slippery."
+                "en": "Caution on the ascent; wet leaves can make the path very slippery.",
+                "cs": "Opatrně při stoupání; mokré listí může cestu hodně zklouzat."
               }
             },
             {
@@ -901,7 +973,8 @@
                 "de": "Fahren Sie vorsichtig über das nasse Kopfsteinpflaster im Kurviertel.",
                 "hu": "Hajtson óvatosan a nedves macskakövön a fürdőnegyedben.",
                 "ro": "Conduceți cu prudență pe pavajul umed din cartierul balnear.",
-                "en": "Ride carefully over the wet cobblestones in the spa quarter."
+                "en": "Ride carefully over the wet cobblestones in the spa quarter.",
+                "cs": "Jezděte opatrně přes mokrou dlažbu v lázeňské čtvrti."
               }
             }
           ],
@@ -929,6 +1002,12 @@
               "Avoid sharp braking on wet cobblestones in the spa area.",
               "Teplice city center offers many arcades for short-term shelter from the rain.",
               "A plastic saddle cover will keep your seat dry during indoor visits."
+            ],
+            "cs": [
+              "Ujistěte se, že máte dobře upevněné blatníky, aby se nedostávalo bláto na vás.",
+              "Vyhněte se prudkému brzdění na mokré dlažbě v lázeňské oblasti.",
+              "Centrum Teplic nabízí mnoho arkád pro krátkodobé přístřešky před deštěm.",
+              "Plastový kryt na sedlo udrží vaše sedlo suché během vnitřních návštěv."
             ]
           }
         },
@@ -937,7 +1016,8 @@
             "de": "Die winterliche Radtour führt durch die klare Luft des Schlossparks. Ein längerer Stopp im Botanischen Garten hilft, die eingefrorenen Finger aufzuwärmen. Mittags genießen wir die deftige böhmische Küche im Zentrum. Die Fahrt zur Doubravská hora bietet fantastische Ausblicke auf das verschneite Erzgebirge, erfordert aber Kraft. Den Tag beenden wir im Kurviertel bei einem heißen Getränk.",
             "hu": "A téli kerékpártúra a kastélypark friss levegőjén indul. Egy hosszabb megálló a botanikus kertben segít felmelegíteni az átfagyott ujjakat. Délben kiadós cseh konyhát élvezünk a központban. A Doubravská hora felé vezető út fantasztikus kilátást nyújt a havas Érchegységre, de erőt igényel. A napot a fürdőnegyedben zárjuk egy forró itallal.",
             "ro": "Tura de iarnă cu bicicleta trece prin aerul curat al parcului castelului. O oprire prelungită la Grădina Botanică ajută la încălzirea degetelor înghețate. La prânz savurăm bucătăria boemă consistentă din centru. Drumul spre Doubravská hora oferă vederi fantastice asupra munților înzăpeziți, dar necesită efort. Încheiem ziua în cartierul balnear cu o băutură caldă.",
-            "en": "The winter bike tour leads through the crisp air of the Castle Park. A longer stop at the Botanical Garden helps warm up frozen fingers. At noon, we enjoy hearty Bohemian cuisine in the center. The ride to Doubravská hora offers fantastic views of the snowy Ore Mountains but requires effort. We end the day in the spa quarter with a hot drink."
+            "en": "The winter bike tour leads through the crisp air of the Castle Park. A longer stop at the Botanical Garden helps warm up frozen fingers. At noon, we enjoy hearty Bohemian cuisine in the center. The ride to Doubravská hora offers fantastic views of the snowy Ore Mountains but requires effort. We end the day in the spa quarter with a hot drink.",
+            "cs": "Zimní cykloturistika vede chladným vzduchem Zámeckého parku. Delší zastávka v Botanické zahradě pomůže zahřát zmrzlé prsty. V poledne si pochutnáme na syté české kuchyni v centru. Jízda na Doubravskou horu nabízí fantastické výhledy na zasněžené Krušné hory, ale vyžaduje úsilí. Den zakončíme v lázeňské čtvrti při horkém nápoji."
           },
           "stops": [
             {
@@ -946,7 +1026,8 @@
                 "de": "Die Parkwege können bei Frost glatt sein; fahren Sie mit niedrigerem Reifendruck.",
                 "hu": "A park ösvényei fagyban csúszósak lehetnek; hajtson alacsonyabb guminyomással.",
                 "ro": "Aleile parcului pot fi alunecoase la îngheț; conduceți cu presiune mai mică în pneuri.",
-                "en": "Park paths can be slippery in frost; ride with slightly lower tire pressure."
+                "en": "Park paths can be slippery in frost; ride with slightly lower tire pressure.",
+                "cs": "Cesty v parku mohou být v mrazu kluzké; jezděte s mírně nižším tlakem v pneumatikách."
               }
             },
             {
@@ -955,7 +1036,8 @@
                 "de": "Bester Ort, um den Körper vor der Weiterfahrt richtig durchzuwärmen.",
                 "hu": "A legjobb hely a test alapos átmelegítésére a továbbindulás előtt.",
                 "ro": "Cel mai bun loc pentru a vă încălzi corpul înainte de a continua drumul.",
-                "en": "The best place to thoroughly warm up your body before riding further."
+                "en": "The best place to thoroughly warm up your body before riding further.",
+                "cs": "Nejlepší místo, kde si důkladně zahřát tělo před další jízdou."
               }
             },
             {
@@ -964,7 +1046,8 @@
                 "de": "Ein kurzer Blick auf die Architektur; halten Sie die Pausen draußen kurz.",
                 "hu": "Rövid pillantás az építészetre; tartsa röviden a kinti tartózkodást.",
                 "ro": "O privire scurtă la arhitectură; mențineți pauzele de afară cât mai scurte.",
-                "en": "A quick look at the architecture; keep your outdoor breaks short."
+                "en": "A quick look at the architecture; keep your outdoor breaks short.",
+                "cs": "Rychlý pohled na architekturu; držte venkovní přestávky krátké."
               }
             },
             {
@@ -973,7 +1056,8 @@
                 "de": "Bestellen Sie eine heiße Suppe (Česnečka), um die innere Wärme zurückzugewinnen.",
                 "hu": "Rendeljen egy forró fokhagymalevest (Česnečka) a belső meleg visszanyeréséhez.",
                 "ro": "Comandați o supă fierbinte (Česnečka) pentru a vă recupera căldura interioară.",
-                "en": "Order a hot garlic soup (Česnečka) to regain your internal warmth."
+                "en": "Order a hot garlic soup (Česnečka) to regain your internal warmth.",
+                "cs": "Objednejte si horkou česnečku, abyste si obnovili vnitřní teplo."
               }
             },
             {
@@ -982,7 +1066,8 @@
                 "de": "Der Anstieg hält warm, aber oben ist es windig; ziehen Sie eine Windjacke an.",
                 "hu": "Az emelkedő melegen tart, de fent szeles az idő; vegyen fel szélkabátot.",
                 "ro": "Urcarea vă menține cald, dar sus este vânt; puneți-vă o jachetă anti-vânt.",
-                "en": "The climb keeps you warm, but it's windy at the top; put on a windbreaker."
+                "en": "The climb keeps you warm, but it's windy at the top; put on a windbreaker.",
+                "cs": "Výstup vás zahřeje, ale nahoře fouká; oblečte větrovku."
               }
             },
             {
@@ -991,7 +1076,8 @@
                 "de": "Das Licht der Dämmerung im Kurpark ist im Winter besonders schön.",
                 "hu": "A szürkületi fények a fürdőparkban télen különösen szépek.",
                 "ro": "Luminile amurgului în parcul balnear sunt deosebit de frumoase iarna.",
-                "en": "The twilight lights in the spa park are particularly beautiful in winter."
+                "en": "The twilight lights in the spa park are particularly beautiful in winter.",
+                "cs": "Soumraková světla v lázeňském parku jsou v zimě obzvlášť krásná."
               }
             }
           ],
@@ -1019,6 +1105,12 @@
               "Watch out for road salt which can corrode your chain; rinse the bike afterwards.",
               "The days are short; functioning bike lights are mandatory.",
               "Stay hydrated even in the cold, ideally with warm tea from a thermos."
+            ],
+            "cs": [
+              "Noste teplé rukavice, protože chladový vítr může při jízdě rychle promrznout ruce.",
+              "Dejte pozor na posypovou sůl, která může korodovat řetěz; kolo po jízdě opláchněte.",
+              "Dny jsou krátké; funkční světla na kole jsou povinná.",
+              "I v chladu zůstaňte hydratovaní, ideálně teplým čajem ve termosce."
             ]
           }
         }
@@ -1037,7 +1129,8 @@
             "de": "Parkplatz am Doubravská hora",
             "hu": "Parkoló a Doubravská horánál",
             "ro": "Parcare la Doubravská hora",
-            "en": "Parking at Doubravská hora"
+            "en": "Parking at Doubravská hora",
+            "cs": "Parkování na Doubravské hoře"
           },
           "coords": [
             13.858,
@@ -1053,7 +1146,8 @@
             "de": "Beginnen Sie den Tag mit einer beeindruckenden Aussicht von oben.",
             "hu": "Kezdje a napot egy lenyűgöző kilátással fentről.",
             "ro": "Începeți ziua cu o priveliște impresionantă de sus.",
-            "en": "Start the day with an impressive view from above."
+            "en": "Start the day with an impressive view from above.",
+            "cs": "Začněte den impozantním výhledem z výšky."
           }
         },
         {
@@ -1061,7 +1155,8 @@
             "de": "Doubravská hora (Burgruine & Aussicht)",
             "hu": "Doubravská hora (várrom és kilátás)",
             "ro": "Doubravská hora (ruinele castelului și priveliște)",
-            "en": "Doubravská hora (Castle Ruin & View)"
+            "en": "Doubravská hora (Castle Ruin & View)",
+            "cs": "Doubravská hora (zřícenina hradu a vyhlídka)"
           },
           "coords": [
             13.8595,
@@ -1077,7 +1172,8 @@
             "de": "Ein kurzer Spaziergang vom Parkplatz zur Ruine für einen atemberaubenden Panoramablick.",
             "hu": "Rövid séta a parkolótól a romokig a lélegzetelállító panorámáért.",
             "ro": "O scurtă plimbare de la parcare la ruine pentru o panoramă uluitoare.",
-            "en": "A short walk from the car park to the ruin for a breathtaking panoramic view."
+            "en": "A short walk from the car park to the ruin for a breathtaking panoramic view.",
+            "cs": "Krátká procházka z parkoviště k zřícenině za dechberoucím panoramatickým výhledem."
           }
         },
         {
@@ -1085,7 +1181,8 @@
             "de": "Parkplatz am Schloss Teplice",
             "hu": "Parkoló a Teplicei kastélynál",
             "ro": "Parcare la Castelul Teplice",
-            "en": "Parking at Teplice Castle"
+            "en": "Parking at Teplice Castle",
+            "cs": "Parkování u teplického zámku"
           },
           "coords": [
             13.8245,
@@ -1101,7 +1198,8 @@
             "de": "Parken Sie hier für den Rest des Tages und erkunden Sie das Zentrum zu Fuß.",
             "hu": "Parkoljon itt a nap hátralévő részére, és fedezze fel a központot gyalog.",
             "ro": "Parcați aici pentru restul zilei și explorați centrul pe jos.",
-            "en": "Park here for the rest of the day and explore the center on foot."
+            "en": "Park here for the rest of the day and explore the center on foot.",
+            "cs": "Zaparkujte zde na celý den a centrum objevujte pěšky."
           }
         },
         {
@@ -1109,7 +1207,8 @@
             "de": "Schloss Teplice & Museum",
             "hu": "Teplicei kastély és múzeum",
             "ro": "Castelul Teplice și Muzeul",
-            "en": "Teplice Castle & Museum"
+            "en": "Teplice Castle & Museum",
+            "cs": "Teplický zámek a muzeum"
           },
           "coords": [
             13.824,
@@ -1125,7 +1224,8 @@
             "de": "Ein Muss für Geschichtsliebhaber.",
             "hu": "Történelemkedvelőknek kötelező.",
             "ro": "O vizită obligatorie pentru iubitorii de istorie.",
-            "en": "A must-visit for history lovers."
+            "en": "A must-visit for history lovers.",
+            "cs": "Povinnost pro milovníky historie."
           }
         },
         {
@@ -1133,7 +1233,8 @@
             "de": "Spaziergang durch den Schlossgarten",
             "hu": "Séta a Kastélykertben",
             "ro": "Plimbare prin Grădina Castelului",
-            "en": "Stroll through the Castle Garden"
+            "en": "Stroll through the Castle Garden",
+            "cs": "Projděte se zámětským parkem"
           },
           "coords": [
             13.8225,
@@ -1149,7 +1250,8 @@
             "de": "Entspannen Sie sich nach dem Museumsbesuch in dieser wunderschönen Grünanlage.",
             "hu": "Pihenjen a múzeumlátogatás után ebben a gyönyörű zöldterületben.",
             "ro": "Relaxați-vă după vizita la muzeu în acest frumos spațiu verde.",
-            "en": "Relax in this beautiful green space after the museum visit."
+            "en": "Relax in this beautiful green space after the museum visit.",
+            "cs": "Po návštěvě muzea si odpočiňte v této krásné zeleni."
           }
         },
         {
@@ -1157,7 +1259,8 @@
             "de": "Lázně Beethoven (Beethoven-Bad)",
             "hu": "Beethoven Gyógyfürdő",
             "ro": "Băile Beethoven",
-            "en": "Beethoven Spa"
+            "en": "Beethoven Spa",
+            "cs": "Beethovenovy lázně"
           },
           "coords": [
             13.8251,
@@ -1173,7 +1276,8 @@
             "de": "Kombinieren Sie Ihr Mittagessen mit einer kurzen Kurbehandlung oder einem Spaziergang.",
             "hu": "Kombinálja az ebédet egy rövid gyógykezeléssel vagy sétával.",
             "ro": "Combinați prânzul cu un scurt tratament balnear sau o plimbare.",
-            "en": "Combine your lunch with a short spa treatment or a walk."
+            "en": "Combine your lunch with a short spa treatment or a walk.",
+            "cs": "Spojte oběd s krátkým lázeňským ošetřením nebo procházkou."
           }
         },
         {
@@ -1181,7 +1285,8 @@
             "de": "Krušnohorské divadlo & Kurviertel",
             "hu": "Érchegységi Színház és Fürdőnegyed",
             "ro": "Teatrul Munților Metaliferi și Cartierul Balnear",
-            "en": "Krušnohorské Theatre & Spa Quarter"
+            "en": "Krušnohorské Theatre & Spa Quarter",
+            "cs": "Krušnohorské divadlo a lázeňská čtvrť"
           },
           "coords": [
             13.8288,
@@ -1197,7 +1302,8 @@
             "de": "Schlendern Sie durch die eleganten Straßen und bewundern Sie die Architektur.",
             "hu": "Sétáljon végig az elegáns utcákon és csodálja meg az építészetet.",
             "ro": "Plimbați-vă pe străzile elegante și admirați arhitectura.",
-            "en": "Stroll through the elegant streets and admire the architecture."
+            "en": "Stroll through the elegant streets and admire the architecture.",
+            "cs": "Projděte se elegantními ulicemi a obdivujte architekturu."
           }
         }
       ],
@@ -1205,7 +1311,8 @@
         "de": "Nutzen Sie das Auto für maximale Flexibilität. Beginnen Sie mit der atemberaubenden Aussicht vom Doubravská hora. Parken Sie dann im Zentrum und tauchen Sie in die Geschichte im Schloss Teplitz ein. Schlendern Sie durch den Schlossgarten und genießen Sie die Atmosphäre im Kurviertel rund um das Beethoven-Bad, wo Sie auch zu Mittag essen können. Schließen Sie den Tag mit einem Spaziergang durch das elegante Theaterviertel ab.",
         "hu": "Használja az autót a maximális rugalmasság érdekében. Kezdje a Doubravská hora lélegzetelállító kilátásával. Ezután parkoljon le a központban, és merüljön el a történelemben a Teplicei kastélyban. Sétáljon át a kastélykerten, és élvezze a Beethoven fürdő körüli fürdőnegyed hangulatát, ahol ebédelhet is. Zárja a napot egy sétával az elegáns színházi negyedben.",
         "ro": "Folosiți mașina pentru flexibilitate maximă. Începeți cu priveliștea uluitoare de pe Doubravská hora. Apoi parcați în centru și cufundați-vă în istorie la Castelul Teplice. Plimbați-vă prin Grădina Castelului și bucurați-vă de atmosfera din cartierul balnear din jurul Băilor Beethoven, unde puteți lua și prânzul. Încheiați ziua cu o plimbare prin elegantul cartier al teatrului.",
-        "en": "Use the car for maximum flexibility. Start with the breathtaking view from Doubravská hora. Then park in the center and immerse yourself in history at Teplice Castle. Stroll through the Castle Garden and enjoy the atmosphere in the spa quarter around the Beethoven Spa, where you can also have lunch. End the day with a walk through the elegant theatre district."
+        "en": "Use the car for maximum flexibility. Start with the breathtaking view from Doubravská hora. Then park in the center and immerse yourself in history at Teplice Castle. Stroll through the Castle Garden and enjoy the atmosphere in the spa quarter around the Beethoven Spa, where you can also have lunch. End the day with a walk through the elegant theatre district.",
+        "cs": "Použijte auto pro maximální flexibilitu. Začněte dechberoucím výhledem z Doubravské hory. Pak zaparkujte v centru a ponořte se do historie v teplickém zámku. Projděte se záměstským parkem a vychutnejte si atmosféru lázeňské čtvrti kolem Beethovenových lázní, kde si můžete také dát oběd. Den zakončete procházkou elegantní divadelní čtvrtí."
       },
       "gastro_picks": {
         "de": [
@@ -1339,6 +1446,11 @@
           "Check parking fees in advance. Day tickets are often cheaper.",
           "Allow enough time for the walk from the car park to the sights.",
           "The car also allows for trips to the wider surrounding area, e.g., the Ore Mountains."
+        ],
+        "cs": [
+          "Předem si zkontrolujte parkovné. Celodenní lístky jsou často levnější.",
+          "Nechte si dostatek času na procházku z parkoviště k památkám.",
+          "Auto umožňuje i výlety do širšího okolí, např. do Krušných hor."
         ]
       },
       "variants": {
@@ -1347,7 +1459,8 @@
             "de": "Wir starten mit der Fahrt zur Doubravská hora, wo wir den Regen aus dem trockenen Auto beobachten. Das Schloss Teplice erreichen wir bequem und parken direkt am Museum. Der Nachmittag im Beethoven-Bad bietet die perfekte Flucht vor dem Wetter. Zum Abschluss bewundern wir das beleuchtete Theaterquartier, ohne nass zu werden.",
             "hu": "A Doubravská horára való felhajtással kezdünk, ahol a száraz autóból figyeljük az esőt. A teplicei várat kényelmesen érjük el, közvetlenül a múzeumnál parkolva. A Beethoven fürdőben töltött délután tökéletes menekülést kínál az időjárás elől. Zárásként a kivilágított színházi negyedet csodáljuk meg, anélkül, hogy eláznánk.",
             "ro": "Începem cu drumul spre Doubravská hora, observând ploaia din confortul mașinii. Ajungem ușor la Castelul Teplice și parcăm chiar lângă muzeu. După-amiaza la Beethoven Spa oferă evadarea perfectă din calea vremii. La final, admirăm cartierul teatrului iluminat, fără a ne uda.",
-            "en": "We start with a drive to Doubravská hora, watching the rain from the dry car. We reach Teplice Castle comfortably and park directly by the museum. The afternoon at Beethoven Spa offers the perfect escape from the weather. To conclude, we admire the illuminated theatre district without getting wet."
+            "en": "We start with a drive to Doubravská hora, watching the rain from the dry car. We reach Teplice Castle comfortably and park directly by the museum. The afternoon at Beethoven Spa offers the perfect escape from the weather. To conclude, we admire the illuminated theatre district without getting wet.",
+            "cs": "Začínáme jízdou na Doubravskou horu a sledujeme déšť z suchého auta. Pohodlně dojedeme k teplickému zámku a zaparkujeme přímo u muzea. Odpoledne v Beethovenových lázních nabízí dokonalý únik před počasím. Na závěr obdivujeme osvětlenou divadelní čtvrť, aniž bychom zmokli."
           },
           "stops": [
             {
@@ -1356,7 +1469,8 @@
                 "de": "Der Parkplatz kann bei starkem Regen etwas matschig sein; vorsichtig manövrieren.",
                 "hu": "A parkoló erős esőben kissé sáros lehet; óvatosan manőverezzen.",
                 "ro": "Parcarea poate fi puțin noroioasă pe ploaie puternică; manevrați cu atenție.",
-                "en": "The parking lot can be a bit muddy in heavy rain; maneuver carefully."
+                "en": "The parking lot can be a bit muddy in heavy rain; maneuver carefully.",
+                "cs": "Parkoviště může být při silném dešti trochu blátivé; manévrujte opatrně."
               }
             },
             {
@@ -1365,7 +1479,8 @@
                 "de": "Genießen Sie die Aussicht bei tief hängenden Wolken direkt aus dem Fahrzeug.",
                 "hu": "Élvezze a kilátást alacsony felhőzet esetén is közvetlenül a járműből.",
                 "ro": "Bucurați-vă de priveliște chiar și cu nori joși, direct din interiorul vehiculului.",
-                "en": "Enjoy the view even with low-hanging clouds directly from your vehicle."
+                "en": "Enjoy the view even with low-hanging clouds directly from your vehicle.",
+                "cs": "Užijte si výhled i při nízko visících mracích přímo ze svého vozu."
               }
             },
             {
@@ -1374,7 +1489,8 @@
                 "de": "Suchen Sie einen Platz nah am Eingang, um den Weg im Regen zu minimieren.",
                 "hu": "Keressen helyet közel a bejárathoz, hogy minimalizálja az esőben megtett utat.",
                 "ro": "Căutați un loc aproape de intrare pentru a minimiza distanța parcursă prin ploaie.",
-                "en": "Look for a spot close to the entrance to minimize walking in the rain."
+                "en": "Look for a spot close to the entrance to minimize walking in the rain.",
+                "cs": "Hledejte místo blízko vchodu, abyste omezili chození v dešti."
               }
             },
             {
@@ -1383,7 +1499,8 @@
                 "de": "Lassen Sie Ihren Regenschirm an der Garderobe; das Museum ist weitläufig.",
                 "hu": "Hagyja az esernyőjét a ruhatárban; a múzeum tágas és fedett.",
                 "ro": "Lăsați umbrela la garderobă; muzeul este spațios și complet acoperit.",
-                "en": "Leave your umbrella at the cloakroom; the museum is spacious and indoors."
+                "en": "Leave your umbrella at the cloakroom; the museum is spacious and indoors.",
+                "cs": "Deštník nechte v šatně; muzeum je prostorné a uvnitř."
               }
             },
             {
@@ -1392,7 +1509,8 @@
                 "de": "Nur kurzer Spaziergang möglich; halten Sie das Auto als Rückzugsort bereit.",
                 "hu": "Csak rövid séta javasolt; tartsa az autót készenlétben menedékként.",
                 "ro": "Se recomandă doar o plimbare scurtă; păstrați mașina aproape ca refugiu.",
-                "en": "Only a short walk is recommended; keep the car ready as a nearby shelter."
+                "en": "Only a short walk is recommended; keep the car ready as a nearby shelter.",
+                "cs": "Doporučuje se jen krátká procházka; mějte auto připravené jako blízké útočiště."
               }
             },
             {
@@ -1401,7 +1519,8 @@
                 "de": "Parken Sie in der Nähe; nach dem Bad ist man empfindlich gegen Wind und Regen.",
                 "hu": "Parkoljon a közelben; fürdés után az ember érzékenyebb a szélre és esőre.",
                 "ro": "Parcați în apropiere; după baie sunteți mai sensibil la vânt și ploaie.",
-                "en": "Park nearby; after bathing, one is more sensitive to wind and rain."
+                "en": "Park nearby; after bathing, one is more sensitive to wind and rain.",
+                "cs": "Zaparkujte nablízku; po koupeli je člověk citlivější na vítr a déšť."
               }
             },
             {
@@ -1410,7 +1529,8 @@
                 "de": "Nutzen Sie das Parkhaus im Zentrum für einen trockenen Zugang zum Viertel.",
                 "hu": "Használja a központi parkolóházat a negyed száraz megközelítéséhez.",
                 "ro": "Folosiți parcarea etajată din centru pentru acces uscat în cartier.",
-                "en": "Use the parking garage in the center for dry access to the district."
+                "en": "Use the parking garage in the center for dry access to the district.",
+                "cs": "Pro suchý přístup do čtvrti využijte parkovací dům v centru."
               }
             }
           ],
@@ -1438,6 +1558,12 @@
               "Multi-story car parks in the center offer the best protection from wet weather.",
               "Avoid leaving damp clothes in the car to prevent windows from fogging up.",
               "Utilize seat heating after your outdoor sightseeing stops."
+            ],
+            "cs": [
+              "Před jízdou na Doubravskou horu zkontrolujte stav stěračů.",
+              "Vícepatrová parkoviště v centru nabízejí nejlepší ochranu před mokrým počasím.",
+              "Vyvarujte se nechávání vlhkého oblečení v autě, aby se okna nezamlžovala.",
+              "Po venkovním prohlížení využijte vyhřívání sedadel."
             ]
           }
         },
@@ -1446,7 +1572,8 @@
             "de": "Die Auffahrt zur Doubravská hora bietet im Winter einen herrlichen Blick auf das verschneite Teplitz. Das Schloss Teplice ist unser nächster Halt, wo das Museum angenehme Wärme bietet. Den Nachmittag verbringen wir in den Thermalbecken des Beethoven-Bads. Die Fahrt durch das weihnachtlich beleuchtete Stadtzentrum ist der perfekte Abschluss für diesen kalten Tag.",
             "hu": "A Doubravská horára való feljutás télen pompás kilátást nyújt a havas Teplicére. A várkastély a következő állomásunk, ahol a múzeum kellemes meleget áraszt. A délutánt a Beethoven fürdő termálmedencéiben töltjük. A karácsonyi fényekkel díszített belvároson át tartó autózás tökéletes zárása ennek a hideg napnak.",
             "ro": "Urcarea pe Doubravská hora oferă iarna o vedere superbă asupra orașului Teplice înzăpezit. Castelul Teplice este următoarea oprire, unde muzeul oferă o căldură plăcută. După-amiaza o petrecem în bazinele termale de la Beethoven Spa. Drumul prin centrul orașului decorat de sărbători este finalul perfect pentru această zi rece.",
-            "en": "The drive up to Doubravská hora offers a magnificent view of snowy Teplice in winter. Teplice Castle is our next stop, where the museum provides pleasant warmth. We spend the afternoon in the thermal pools of Beethoven Spa. Driving through the festively lit city center is the perfect conclusion to this cold day."
+            "en": "The drive up to Doubravská hora offers a magnificent view of snowy Teplice in winter. Teplice Castle is our next stop, where the museum provides pleasant warmth. We spend the afternoon in the thermal pools of Beethoven Spa. Driving through the festively lit city center is the perfect conclusion to this cold day.",
+            "cs": "Jízda na Doubravskou horu nabízí nádherný výhled na zasněžené Teplice v zimě. Teplický zámek je naše další zastávka, kde muzeum poskytne příjemné teplo. Odpoledne strávíme v termálních bazénech Beethovenových lázní. Průjezd slavnostně osvětleným centrem je dokonalým zakončením tohoto chladného dne."
           },
           "stops": [
             {
@@ -1455,7 +1582,8 @@
                 "de": "Winterreifen sind für diesen steilen Abschnitt zwingend erforderlich.",
                 "hu": "A téli gumi ezen a meredek szakaszon kötelező és elengedhetetlen.",
                 "ro": "Anvelopele de iarnă sunt obligatorii pentru această secțiune abruptă.",
-                "en": "Winter tires are mandatory and essential for this steep section."
+                "en": "Winter tires are mandatory and essential for this steep section.",
+                "cs": "Zimní pneumatiky jsou povinné a nezbytné pro tento strmý úsek."
               }
             },
             {
@@ -1464,7 +1592,8 @@
                 "de": "Bei Schnee ist die Sicht oft klar; genießen Sie das Winterpanorama.",
                 "hu": "Hóban a kilátás gyakran tiszta; élvezze a téli panorámát.",
                 "ro": "Pe zăpadă vizibilitatea este adesea clară; bucurați-vă de panorama hibernală.",
-                "en": "In snow, visibility is often clear; enjoy the winter panorama."
+                "en": "In snow, visibility is often clear; enjoy the winter panorama.",
+                "cs": "Ve sněhu je často dobrá viditelnost; vychutnejte si zimní panoráma."
               }
             },
             {
@@ -1473,7 +1602,8 @@
                 "de": "Die Parkflächen können vereist sein; achten Sie beim Aussteigen auf Glätte.",
                 "hu": "A parkolófelületek jegesek lehetnek; kiszálláskor ügyeljen a csúszásveszélyre.",
                 "ro": "Suprafața parcării poate fi înghețată; atenție la gheață când coborâți.",
-                "en": "Parking surfaces can be icy; watch your step when exiting the vehicle."
+                "en": "Parking surfaces can be icy; watch your step when exiting the vehicle.",
+                "cs": "Povrchy parkovišť mohou být zledovatělé; při vystupování z vozidla si dejte pozor na krok."
               }
             },
             {
@@ -1482,7 +1612,8 @@
                 "de": "Nutzen Sie die Garderobe, um den Museumsbesuch ohne schwere Jacken zu genießen.",
                 "hu": "Használja a ruhatárat, hogy nehéz kabátok nélkül élvezhesse a múzeumlátogatást.",
                 "ro": "Folosiți garderoba pentru a savura muzeul fără haine groase pe brațe.",
-                "en": "Use the cloakroom to enjoy the museum visit without heavy coats."
+                "en": "Use the cloakroom to enjoy the museum visit without heavy coats.",
+                "cs": "Využijte šatnu, abyste si návštěvu muzea užili bez těžkých kabátů."
               }
             },
             {
@@ -1491,7 +1622,8 @@
                 "de": "Wunderschön im Schnee; halten Sie die Kamera für Winterfotos bereit.",
                 "hu": "Csodálatos a hóban; tartsa készenlétben a fényképezőgépet a téli fotókhoz.",
                 "ro": "Superb în zăpadă; pregătiți camera pentru fotografii de iarnă.",
-                "en": "Beautiful in the snow; keep your camera ready for winter photos."
+                "en": "Beautiful in the snow; keep your camera ready for winter photos.",
+                "cs": "Krásné ve sněhu; mějte připravený fotoaparát na zimní snímky."
               }
             },
             {
@@ -1500,7 +1632,8 @@
                 "de": "Planen Sie genug Zeit ein, um sich nach dem Aufenthalt draußen aufzuwärmen.",
                 "hu": "Tervezzen elegendő időt a kinti tartózkodás utáni felmelegedésre.",
                 "ro": "Planificați destul timp pentru a vă încălzi după timpul petrecut afară.",
-                "en": "Plan enough time to warm up thoroughly after being outdoors."
+                "en": "Plan enough time to warm up thoroughly after being outdoors.",
+                "cs": "Naplánujte si dostatek času na důkladné zahřátí po pobytu venku."
               }
             },
             {
@@ -1509,7 +1642,8 @@
                 "de": "Die Beleuchtung des Theaters ist in den Wintermonaten besonders prachtvoll.",
                 "hu": "A színház kivilágítása a téli hónapokban különösen pompás.",
                 "ro": "Iluminarea teatrului este deosebit de grandioasă în lunile de iarnă.",
-                "en": "The theatre's lighting is particularly grand during the winter months."
+                "en": "The theatre's lighting is particularly grand during the winter months.",
+                "cs": "Osvětlení divadla je během zimních měsíců obzvlášť velkolepé."
               }
             }
           ],
@@ -1537,6 +1671,12 @@
               "The mountain road to Doubravská hora is cleared but can still be slippery.",
               "Avoid using the parking brake overnight in extreme frost to prevent it from freezing.",
               "The warm atmosphere of the city center is best enjoyed during a short evening walk."
+            ],
+            "cs": [
+              "Mějte v autě škrabku na led a případně rozmrazovač.",
+              "Horská silnice na Doubravskou horu je odhrnutá, může být ale stále kluzká.",
+              "Vyhněte se použití ruční brzdy přes noc při silném mrazu, aby nezamrzla.",
+              "Teplou atmosféru centra města si nejlépe užijete při krátké večerní procházce."
             ]
           }
         }
@@ -1555,7 +1695,8 @@
             "de": "Ankunft am Busbahnhof Benešovo náměstí",
             "hu": "Érkezés a Benešovo náměstí buszmegállóba",
             "ro": "Sosire la stația de autobuz Benešovo náměstí",
-            "en": "Arrival at Benešovo náměstí bus stop"
+            "en": "Arrival at Benešovo náměstí bus stop",
+            "cs": "Příjezd na zastávku autobusu Benešovo náměstí"
           },
           "coords": [
             13.83,
@@ -1571,7 +1712,8 @@
             "de": "Kaufen Sie eine Tageskarte für den öffentlichen Nahverkehr.",
             "hu": "Vásároljon napijegyet a tömegközlekedéshez.",
             "ro": "Cumpărați un bilet de o zi pentru transportul public.",
-            "en": "Purchase a day ticket for public transport."
+            "en": "Purchase a day ticket for public transport.",
+            "cs": "Kupte si celodenní jízdenku MHD."
           }
         },
         {
@@ -1579,7 +1721,8 @@
             "de": "Krušnohorské divadlo & St.-Johannes-Kirche",
             "hu": "Érchegységi Színház és Szent János templom",
             "ro": "Teatrul Munților Metaliferi și Biserica Sf. Ioan",
-            "en": "Krušnohorské Theatre & St. John's Church"
+            "en": "Krušnohorské Theatre & St. John's Church",
+            "cs": "Krušnohorské divadlo a kostel sv. Jana"
           },
           "coords": [
             13.8278,
@@ -1595,7 +1738,8 @@
             "de": "Ein Spaziergang durch das Herz des alten Teplitz.",
             "hu": "Séta az óváros szívében.",
             "ro": "O plimbare prin inima vechiului Teplice.",
-            "en": "A walk through the heart of old Teplice."
+            "en": "A walk through the heart of old Teplice.",
+            "cs": "Procházka srdcem starých Teplic."
           }
         },
         {
@@ -1603,7 +1747,8 @@
             "de": "Lázně Beethoven & Císařské lázně",
             "hu": "Beethoven Gyógyfürdő és Császári fürdő",
             "ro": "Băile Beethoven și Băile Imperiale",
-            "en": "Beethoven Spa & Imperial Spa"
+            "en": "Beethoven Spa & Imperial Spa",
+            "cs": "Beethovenovy lázně a Císařské lázně"
           },
           "coords": [
             13.8273,
@@ -1619,7 +1764,8 @@
             "de": "Erleben Sie die berühmte Kurarchitektur und genießen Sie einen Kaffee.",
             "hu": "Tapasztalja meg a híres fürdőépítészetet és igyon egy kávét.",
             "ro": "Experimentați faimoasa arhitectură balneară și savurați o cafea.",
-            "en": "Experience the famous spa architecture and enjoy a coffee."
+            "en": "Experience the famous spa architecture and enjoy a coffee.",
+            "cs": "Prožijte proslulou lázeňskou architekturu a dejte si kávu."
           }
         },
         {
@@ -1627,7 +1773,8 @@
             "de": "Fahrt zur Haltestelle Botanická zahrada",
             "hu": "Utazás a Botanikus Kert megállóhoz",
             "ro": "Călătorie spre stația Grădina Botanică",
-            "en": "Trip to Botanická zahrada stop"
+            "en": "Trip to Botanická zahrada stop",
+            "cs": "Jízda na zastávku Botanická zahrada"
           },
           "coords": [
             13.819,
@@ -1643,7 +1790,8 @@
             "de": "Vom Stadtzentrum aus bringen Sie mehrere Buslinien hierher.",
             "hu": "A városközpontból több buszjárat is idehoz.",
             "ro": "Mai multe linii de autobuz vă aduc aici din centrul orașului.",
-            "en": "Several bus lines bring you here from the city center."
+            "en": "Several bus lines bring you here from the city center.",
+            "cs": "Několik linek sem jezdí z centra města."
           }
         },
         {
@@ -1651,7 +1799,8 @@
             "de": "Botanischer Garten & Schlossgarten",
             "hu": "Botanikus Kert és Kastélykert",
             "ro": "Grădina Botanică și Grădina Castelului",
-            "en": "Botanical Garden & Castle Garden"
+            "en": "Botanical Garden & Castle Garden",
+            "cs": "Botanická zahrada a záměstský park"
           },
           "coords": [
             13.821,
@@ -1667,7 +1816,8 @@
             "de": "Ein perfekter Ort für eine Mittagspause im Grünen.",
             "hu": "Tökéletes hely egy ebédszünetre a zöldben.",
             "ro": "Un loc perfect pentru o pauză de prânz în natură.",
-            "en": "A perfect spot for a lunch break amidst greenery."
+            "en": "A perfect spot for a lunch break amidst greenery.",
+            "cs": "Ideální místo na oběd uprostřed zeleně."
           }
         },
         {
@@ -1675,7 +1825,8 @@
             "de": "Schloss Teplice",
             "hu": "Teplicei kastély",
             "ro": "Castelul Teplice",
-            "en": "Teplice Castle"
+            "en": "Teplice Castle",
+            "cs": "Teplický zámek"
           },
           "coords": [
             13.824,
@@ -1691,7 +1842,8 @@
             "de": "Nehmen Sie sich Zeit für das Museum, bevor Sie zurück ins Zentrum schlendern.",
             "hu": "Szánjon időt a múzeumra, mielőtt visszasétálna a központba.",
             "ro": "Luați-vă timp pentru muzeu înainte de a vă plimba înapoi în centru.",
-            "en": "Take your time for the museum before strolling back to the center."
+            "en": "Take your time for the museum before strolling back to the center.",
+            "cs": "Dejte si čas na muzeum před návratem do centra."
           }
         }
       ],
@@ -1699,7 +1851,8 @@
         "de": "Entdecken Sie Teplitz bequem mit öffentlichen Verkehrsmitteln. Starten Sie im historischen Zentrum und erkunden Sie das Theaterviertel und die Kurbäder zu Fuß. Nehmen Sie dann einen Bus zu den wunderschönen Gärten der Stadt für eine entspannte Mittagspause. Der Nachmittag gehört dem beeindruckenden Schloss Teplitz, bevor Sie Ihren Tag ausklingen lassen.",
         "hu": "Fedezze fel Teplicét kényelmesen a tömegközlekedéssel. Kezdje a történelmi központban, és fedezze fel gyalog a színházi negyedet és a gyógyfürdőket. Ezután üljön buszra a város gyönyörű kertjeihez egy pihentető ebédszünetre. A délután a lenyűgöző Teplicei kastélyé, mielőtt befejezné a napot.",
         "ro": "Descoperiți Teplice confortabil cu transportul public. Începeți în centrul istoric și explorați cartierul teatrelor și stațiunile balneare pe jos. Apoi luați un autobuz către frumoasele grădini ale orașului pentru o pauză de prânz relaxantă. După-amiaza este dedicată impresionantului Castel Teplice înainte de a încheia ziua.",
-        "en": "Discover Teplice comfortably by public transport. Start in the historic center and explore the theatre district and spas on foot. Then take a bus to the city's beautiful gardens for a relaxing lunch break. The afternoon belongs to the impressive Teplice Castle before you end your day."
+        "en": "Discover Teplice comfortably by public transport. Start in the historic center and explore the theatre district and spas on foot. Then take a bus to the city's beautiful gardens for a relaxing lunch break. The afternoon belongs to the impressive Teplice Castle before you end your day.",
+        "cs": "Objevujte Teplice pohodlně MHD. Začněte v historickém centru a pěšky prozkoumejte divadelní čtvrť a lázně. Poté jeďte autobusem do krásných městských zahrad na relaxační oběd. Odpoledne patří impozantnímu teplickému zámku, než zakončíte den."
       },
       "gastro_picks": {
         "de": [
@@ -1833,6 +1986,11 @@
           "Download a timetable app to track bus times in real-time.",
           "A day ticket is the most cost-effective option for multiple trips.",
           "Note that buses run less frequently on weekends and in the evenings."
+        ],
+        "cs": [
+          "Stáhněte si jízdní řád v aplikaci pro sledování spojů v reálném čase.",
+          "Celodenní jízdenka je nejvýhodnější při více cestách.",
+          "Všimněte si, že o víkendech a večer jezdí autobusy méně často."
         ]
       },
       "variants": {
@@ -1841,7 +1999,8 @@
             "de": "Wir nutzen die Stadtbusse, um trocken zwischen den Sehenswürdigkeiten zu pendeln. Vormittags besuchen wir das Theater und die Johanneskirche. Mittags bringt uns der Bus direkt zum Kurviertel für einen entspannten Aufenthalt in den Spas. Der Nachmittag im Botanischen Garten bietet tropisches Flair trotz Regen, bevor wir bequem mit dem Transit zurückfahren.",
             "hu": "A helyi autóbuszokat használjuk, hogy szárazon közlekedjünk a látnivalók között. Délelőtt a színházat és a Szent János-templomot látogatjuk meg. Délben a busz közvetlenül a fürdőnegyedbe visz minket a gyógyvizes pihenéshez. A délután a botanikus kertben trópusi hangulatot áraszt az eső ellenére, mielőtt visszatérnénk a tranzittal.",
             "ro": "Folosim autobuzele locale pentru a naviga uscat între obiective. Dimineața vizităm teatrul și biserica Sf. Ioan. La prânz, autobuzul ne duce direct în cartierul balnear pentru relaxare. După-amiaza la Grădina Botanică oferă un aer tropical în ciuda ploii, înainte de a ne întoarce comod cu transportul public.",
-            "en": "We use local buses to commute dryly between the sights. In the morning, we visit the theatre and St. John's Church. At noon, the bus takes us directly to the spa district for a relaxing stay. The afternoon at the Botanical Garden offers a tropical vibe despite the rain, before we head back comfortably via transit."
+            "en": "We use local buses to commute dryly between the sights. In the morning, we visit the theatre and St. John's Church. At noon, the bus takes us directly to the spa district for a relaxing stay. The afternoon at the Botanical Garden offers a tropical vibe despite the rain, before we head back comfortably via transit.",
+            "cs": "Používáme místní autobusy k suchému přesunu mezi památkami. Ráno navštívíme divadlo a kostel sv. Jana. V poledne nás bus odvezl přímo do lázeňské čtvrti na odpočinek. Odpoledne v Botanické zahradě nabízí tropickou atmosféru i přes déšť, než se pohodlně vrátíme MHD."
           },
           "stops": [
             {
@@ -1850,7 +2009,8 @@
                 "de": "Warten Sie unter dem Wartehäuschen, um nicht nass zu werden.",
                 "hu": "Várjon a megálló fedett beállója alatt, hogy ne ázzon el.",
                 "ro": "Așteptați sub copertina stației pentru a nu vă uda.",
-                "en": "Wait under the bus stop shelter to stay out of the rain."
+                "en": "Wait under the bus stop shelter to stay out of the rain.",
+                "cs": "Čekejte pod přístřeškem zastávky, abyste zůstali v suchu."
               }
             },
             {
@@ -1859,7 +2019,8 @@
                 "de": "Kurze Fußwege zwischen den Gebäuden minimieren den Kontakt zum Regen.",
                 "hu": "Az épületek közötti rövid gyalogút minimalizálja az esővel való érintkezést.",
                 "ro": "Distanțele scurte pe jos între clădiri minimizează contactul cu ploaia.",
-                "en": "Short walking distances between buildings minimize exposure to rain."
+                "en": "Short walking distances between buildings minimize exposure to rain.",
+                "cs": "Krátké vzdálenosti mezi budovami minimalizují vystavení dešti."
               }
             },
             {
@@ -1868,7 +2029,8 @@
                 "de": "Zentraler Halt; die Busse halten fast direkt vor den Eingängen.",
                 "hu": "Központi megálló; a buszok szinte közvetlenül a bejáratok előtt állnak meg.",
                 "ro": "Stație centrală; autobuzele opresc aproape direct în fața intrărilor.",
-                "en": "Central stop; buses stop almost directly in front of the entrances."
+                "en": "Central stop; buses stop almost directly in front of the entrances.",
+                "cs": "Centrální zastávka; autobusy staví téměř přímo před vchody."
               }
             },
             {
@@ -1877,7 +2039,8 @@
                 "de": "Nutzen Sie die App 'DopravaÚK' für Echtzeit-Infos bei Regenverspätungen.",
                 "hu": "Használja a 'DopravaÚK' alkalmazást a valós idejű infókért eső miatti késésnél.",
                 "ro": "Folosiți aplicația 'DopravaÚK' pentru info în timp real la întârzieri pe ploaie.",
-                "en": "Use the 'DopravaÚK' app for real-time info in case of rain-related delays."
+                "en": "Use the 'DopravaÚK' app for real-time info in case of rain-related delays.",
+                "cs": "Použijte aplikaci 'DopravaÚK' pro info v reálném čase v případě zpoždění způsobeného deštěm."
               }
             },
             {
@@ -1886,7 +2049,8 @@
                 "de": "Vom Busstop sind es nur wenige Meter bis zum rettenden Glasdach.",
                 "hu": "A buszmegállótól csak pár méter a mentő üvegtető.",
                 "ro": "De la stația de autobuz sunt doar câțiva metri până la sera salvatoare.",
-                "en": "It's only a few meters from the bus stop to the sheltering glass roof."
+                "en": "It's only a few meters from the bus stop to the sheltering glass roof.",
+                "cs": "Je to jen pár metrů ze zastávky k přístřeší se skleněnou střechou."
               }
             },
             {
@@ -1895,7 +2059,8 @@
                 "de": "Schließen Sie den Tag im Museum ab, während Sie auf den Rückbus warten.",
                 "hu": "Zárja a napot a múzeumban, miközben a visszajáró buszra vár.",
                 "ro": "Încheiați ziua în muzeu în timp ce așteptați autobuzul de întoarcere.",
-                "en": "End the day in the museum while waiting for your return bus."
+                "en": "End the day in the museum while waiting for your return bus.",
+                "cs": "Den zakončete v muzeu, zatímco čekáte na návratový spoj."
               }
             }
           ],
@@ -1923,6 +2088,12 @@
               "Bus frequencies in the city remain high even during bad weather.",
               "Wait in cafes near the stops if the bus is delayed by more than 5 minutes.",
               "Buses are well-heated and provide a dry break during your journey."
+            ],
+            "cs": [
+              "Koupte si celodenní jízdenku (Celodenní jízdenka) pro flexibilní nastupování a vystupování.",
+              "Frekvence autobusů ve městě zůstává vysoká i za špatného počasí.",
+              "Počkejte v kavárnách u zastávek, pokud se autobus zpozdí o více než 5 minut.",
+              "Autobusy jsou dobře vytopené a poskytují suchý odpočinek během cesty."
             ]
           }
         },
@@ -1931,7 +2102,8 @@
             "de": "Ein winterlicher Transit-Tag beginnt am Benešovo-Platz. Wir besuchen das prachtvolle Theater, bevor wir uns im Transit zum Kurviertel aufwärmen. Mittags genießen wir die Wärme der Thermen. Der Nachmittag im Botanischen Garten bietet üppiges Grün, während draußen der Schnee fällt. Die Rückfahrt im beleuchteten Bus zeigt die Stadt in ihrer schönsten winterlichen Pracht.",
             "hu": "A téli tömegközlekedős nap a Benešovo téren indul. Meglátogatjuk a pompás színházat, mielőtt a fűtött busszal a fürdőnegyedbe indulnánk. Délben a termálfürdők melegét élvezzük. A délután a botanikus kertben buja zöldet kínál, miközben kint esik a hó. A visszautazás a kivilágított busszal a város legszebb téli arcát mutatja.",
             "ro": "O zi de iarnă cu transportul public începe în Piața Benešovo. Vizităm teatrul grandios înainte de a ne încălzi în tranzitul spre zona balneară. La prânz savurăm căldura termelor. După-amiaza la Grădina Botanică oferă verdeață luxuriantă în timp ce afară ninge. Întoarcerea cu autobuzul iluminat arată orașul în cea mai frumoasă formă hibernală.",
-            "en": "A winter transit day begins at Benešovo Square. We visit the grand theatre before warming up on the transit to the spa district. At noon, we enjoy the warmth of the thermal baths. The afternoon at the Botanical Garden offers lush greenery while snow falls outside. The return trip in the lit bus shows the city in its most beautiful winter glory."
+            "en": "A winter transit day begins at Benešovo Square. We visit the grand theatre before warming up on the transit to the spa district. At noon, we enjoy the warmth of the thermal baths. The afternoon at the Botanical Garden offers lush greenery while snow falls outside. The return trip in the lit bus shows the city in its most beautiful winter glory.",
+            "cs": "Zimní den v MHD začíná na Benešově náměstí. Navštívíme velkolepé divadlo a pak se přepravíme do lázeňské čtvrti, kde si v poledne užijeme teplo termálních lázní. Odpoledne v Botanické zahradě nabídne bujnou zeleň při padajícím sněhu. Návrat v osvětleném autobusu ukáže město v jeho nejkrásnější zimní podobě."
           },
           "stops": [
             {
@@ -1940,7 +2112,8 @@
                 "de": "Der Platz ist zentral und gut geräumt; Vorsicht beim Aussteigen auf glatten Bordsteinen.",
                 "hu": "A tér központi és jól takarított; kiszálláskor vigyázzon a csúszós járdaszegélyekre.",
                 "ro": "Piața este centrală și bine curățată; atenție la bordurile alunecoase când coborâți.",
-                "en": "The square is central and well-cleared; watch out for slippery curbs when exiting."
+                "en": "The square is central and well-cleared; watch out for slippery curbs when exiting.",
+                "cs": "Náměstí je centrální a dobře uklizené; při vystupování dejte pozor na kluzké obrubníky."
               }
             },
             {
@@ -1949,7 +2122,8 @@
                 "de": "Die Innenräume sind beheizt und bieten Schutz vor der winterlichen Kälte.",
                 "hu": "A belső terek fűtöttek és védelmet nyújtanak a téli hideg ellen.",
                 "ro": "Interioarele sunt încălzite și oferă protecție contra gerului de afară.",
-                "en": "The interiors are heated and offer protection from the winter chill."
+                "en": "The interiors are heated and offer protection from the winter chill.",
+                "cs": "Interiéry jsou vytopené a poskytují ochranu před zimním chladem."
               }
             },
             {
@@ -1958,7 +2132,8 @@
                 "de": "Ideale Orte, um den Körper nach dem Aufenthalt im Freien tiefenaufzuwärmen.",
                 "hu": "Ideális helyszínek a test alapos átmelegítésére a kinti tartózkodás után.",
                 "ro": "Locuri ideale pentru a vă încălzi corpul în profunzime după timpul de afară.",
-                "en": "Ideal spots to deeply warm up your body after being outdoors."
+                "en": "Ideal spots to deeply warm up your body after being outdoors.",
+                "cs": "Ideální místa pro důkladné prohřátí těla po pobytu venku."
               }
             },
             {
@@ -1967,7 +2142,8 @@
                 "de": "Nutzen Sie die kurzen Intervalle der O-Busse (Trolleybusse).",
                 "hu": "Használja ki a trolibuszok sűrű követési idejét.",
                 "ro": "Profitați de intervalele scurte de succedare ale troleibuzelor.",
-                "en": "Take advantage of the short intervals of the trolleybuses."
+                "en": "Take advantage of the short intervals of the trolleybuses.",
+                "cs": "Využijte krátkých intervalů trolejbusů."
               }
             },
             {
@@ -1976,7 +2152,8 @@
                 "de": "Ein Besuch im Tropenhaus ist im Winter ein absolutes Muss.",
                 "hu": "A trópusi ház látogatása télen elengedhetetlen élmény.",
                 "ro": "O vizită în casa tropicală este o necesitate absolută pe timp de iarnă.",
-                "en": "A visit to the tropical house is an absolute must in winter."
+                "en": "A visit to the tropical house is an absolute must in winter.",
+                "cs": "Návštěva tropického domu je v zimě naprostou nutností."
               }
             },
             {
@@ -1985,7 +2162,8 @@
                 "de": "In der Dämmerung ist das Schloss besonders schön beleuchtet; Busstop ist nah.",
                 "hu": "Szürkületben a vár különösen szépen van kivilágítva; a buszmegálló közel van.",
                 "ro": "La amurg, castelul este iluminat superb; stația de autobuz este foarte aproape.",
-                "en": "At twilight, the castle is beautifully lit; the bus stop is very close."
+                "en": "At twilight, the castle is beautifully lit; the bus stop is very close.",
+                "cs": "Za soumraku je zámek krásně nasvícený; zastávka je velmi blízko."
               }
             }
           ],
@@ -2013,6 +2191,12 @@
               "The trolleybuses in Teplice are part of local history; use them for your trip.",
               "Shelters protect from the wind but are usually not heated.",
               "Wear warm boots, as waiting at a bus stop in freezing temperatures can be cold."
+            ],
+            "cs": [
+              "Jízdenky lze koupit přímo u řidiče nebo přes SMS/aplikaci.",
+              "Trolejbusy v Teplicích jsou součástí místní historie; využijte je během vaší návštěvy.",
+              "Přístřešky chrání před větrem, ale obvykle nejsou vytápěné.",
+              "Noste teplé boty, protože čekání na zastávce v mrazu je chladné."
             ]
           }
         }

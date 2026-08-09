@@ -32,7 +32,8 @@
             "de": "Bewundern Sie die historischen barocken Fassaden.",
             "hu": "Csodálja meg a történelmi barokk homlokzatokat.",
             "ro": "Admirați fațadele istorice în stil baroc.",
-            "en": "Admire the historical baroque facades."
+            "en": "Admire the historical baroque facades.",
+            "cs": "Obdivujte historické barokní fasády."
           }
         },
         {
@@ -51,7 +52,8 @@
             "de": "Das Rathaus ist das Zentrum des städtischen Lebens.",
             "hu": "A városháza a városi élet igazi központja.",
             "ro": "Primăria este centrul vieții urbane locale.",
-            "en": "The town hall is the center of local civic life."
+            "en": "The town hall is the center of local civic life.",
+            "cs": "Radnice je středem místního společenského života."
           }
         },
         {
@@ -70,7 +72,8 @@
             "de": "Ein Meisterwerk der gotischen Architektur, entworfen von Peter Parler.",
             "hu": "Peter Parler által tervezett gótikus építészeti remekmű.",
             "ro": "O capodoperă a arhitecturii gotice, proiectată de Peter Parler.",
-            "en": "A masterpiece of Gothic architecture designed by Peter Parler."
+            "en": "A masterpiece of Gothic architecture designed by Peter Parler.",
+            "cs": "Mistrovské dílo gotické architektury navržené Petrem Parléřem."
           }
         },
         {
@@ -89,7 +92,8 @@
             "de": "Entdecken Sie die reiche Geschichte und Kultur der Region.",
             "hu": "Fedezze fel a régió gazdag történelmét és kultúráját.",
             "ro": "Descoperiți istoria și cultura bogată a regiunii.",
-            "en": "Discover the rich history and culture of the region."
+            "en": "Discover the rich history and culture of the region.",
+            "cs": "Objevte bohatou historii a kulturu regionu."
           }
         },
         {
@@ -108,7 +112,8 @@
             "de": "Genießen Sie den Blick auf den Fluss Elbe.",
             "hu": "Élvezze a kilátást az Elba folyóra.",
             "ro": "Bucurați-vă de priveliștea asupra râului Elba.",
-            "en": "Enjoy the view over the Elbe river."
+            "en": "Enjoy the view over the Elbe river.",
+            "cs": "Užijte si výhled na řeku Labe."
           }
         },
         {
@@ -127,7 +132,8 @@
             "de": "Der Turm bietet ein tolles Panorama über die Stadt.",
             "hu": "A torony remek panorámát nyújt a városra.",
             "ro": "Turnul oferă o panoramă superbă asupra orașului.",
-            "en": "The tower offers a great panorama over the city."
+            "en": "The tower offers a great panorama over the city.",
+            "cs": "Věž nabízí skvělou panorámu města."
           }
         }
       ],
@@ -135,7 +141,8 @@
         "de": "Wir beginnen unseren Rundgang am historischen Karlsplatz und dem nahegelegenen Rathaus. Danach bewundern wir die gotische Architektur der St.-Bartholomäus-Kathedrale. Der Nachmittag ist der regionalen Geschichte im Veigert-Haus gewidmet. Abschließend spazieren wir über die Masaryk-Brücke und genießen die Aussicht vom Wasserturm Práchovna.",
         "hu": "Sétánkat a történelmi Károly téren és a közeli városházánál kezdjük. Ezután megcsodáljuk a Szent Bertalan-katedrális gótikus építészetét. A délutánt a régió történelmének szenteljük a Veigert-házban. Végül átsétálunk a Masaryk hídon, és élvezzük a kilátást a Práchovna víztoronyból.",
         "ro": "Ne începem plimbarea în istoricul Karlsplatz și la primăria din apropiere. Apoi admirăm arhitectura gotică a Catedralei Sfântul Bartolomeu. După-amiaza este dedicată istoriei regionale la Casa Veigert. În cele din urmă, ne plimbăm peste Podul Masaryk și ne bucurăm de priveliștea de la Turnul de Apă Práchovna.",
-        "en": "We start our walk at the historical Karlsplatz and the nearby town hall. Afterwards, we admire the Gothic architecture of St. Bartholomew's Cathedral. The afternoon is dedicated to regional history at the Veigert House. Finally, we walk across the Masaryk Bridge and enjoy the view from the Práchovna Water Tower."
+        "en": "We start our walk at the historical Karlsplatz and the nearby town hall. Afterwards, we admire the Gothic architecture of St. Bartholomew's Cathedral. The afternoon is dedicated to regional history at the Veigert House. Finally, we walk across the Masaryk Bridge and enjoy the view from the Práchovna Water Tower.",
+        "cs": "Procházku začínáme na historickém Karlově náměstí a u nedaleké radnice. Poté obdivujeme gotickou architekturu katedrály sv. Bartoloměje. Odpoledne je věnováno regionální historii v domě Veigertů. Nakonec přejdeme přes Masarykův most a užijeme si výhled z vodárenské věže Práchovna."
       },
       "gastro_picks": {
         "de": [
@@ -331,6 +338,12 @@
           "Wear comfortable shoes for the cobblestone streets.",
           "Many sights are close to each other, allow enough time for taking photos.",
           "A walk along the Elbe is highly recommended, especially in the late afternoon."
+        ],
+        "cs": [
+          "Staré město je velmi kompaktní a nejlépe se prozkoumává pěšky.",
+          "Noste pohodlnou obuv pro dlážděné ulice.",
+          "Mnoho památek je blízko sebe, vyhraďte si dost času na focení.",
+          "Procházka podél Labe je velmi doporučená, zejména pozdě odpoledne."
         ]
       },
       "variants": {
@@ -339,7 +352,8 @@
             "de": "Ein regnerischer Morgen am Karlsplatz, Schutz unter den Rathausarkaden. Mittags bietet die St.-Bartholomäus-Kathedrale trockene Zuflucht. Der Nachmittag im Regionalmuseum schützt vor dem Guss, während wir in die Geschichte eintauchen. Abends spiegeln sich die Lichter der Masaryk-Brücke in der Elbe, ein kurzer Spaziergang vor der Einkehr in ein warmes Gasthaus.",
             "hu": "Esős reggel a Károly téren, menedék a városháza árkádjai alatt. Délben a Szent Bertalan-székesegyház nyújt száraz menedéket. A délután a Regionális Múzeumban telik, távol a felhőszakadástól, elmerülve a történelemben. Este a Masaryk-híd fényei tükröződnek az Elbában, egy rövid séta után jól esik a betérés egy meleg vendéglőbe.",
             "ro": "Dimineață ploioasă în Piața Carol, adăpost sub arcadele primăriei. La prânz, Catedrala Sf. Bartolomeu oferă un refugiu uscat. După-amiaza la Muzeul Regional ne protejează de averse în timp ce explorăm istoria. Seara, luminile podului Masaryk se oglindesc în Elba, o scurtă plimbare înainte de a intra într-un restaurant călduros.",
-            "en": "A rainy morning at Charles Square, finding shelter under the town hall arcades. At noon, St. Bartholomew Cathedral offers dry refuge. Afternoon in the Regional Museum protects from the downpour while diving into history. Evening lights of Masaryk Bridge reflect in the Elbe, a short walk before retreating to a warm local restaurant."
+            "en": "A rainy morning at Charles Square, finding shelter under the town hall arcades. At noon, St. Bartholomew Cathedral offers dry refuge. Afternoon in the Regional Museum protects from the downpour while diving into history. Evening lights of Masaryk Bridge reflect in the Elbe, a short walk before retreating to a warm local restaurant.",
+            "cs": "Deštivé ráno na Karlově náměstí, úkryt pod arkádami radnice. V poledne nabízí suché útočiště katedrála sv. Bartoloměje. Odpoledne v Regionálním muzeu chrání před lijákem a zároveň dovoluje ponořit se do historie. Večer se světla Masarykova mostu odrážejí v Labi, krátká procházka před ústupem do teplé místní restaurace."
           },
           "stops": [
             {
@@ -348,7 +362,8 @@
                 "de": "Die Cafés unter den Arkaden bieten trockene Plätze.",
                 "hu": "Az árkádok alatti kávézók száraz helyet kínálnak.",
                 "ro": "Cafenelele de sub arcade oferă locuri uscate.",
-                "en": "Cafes under the arcades offer dry seating."
+                "en": "Cafes under the arcades offer dry seating.",
+                "cs": "Kavárny pod arkádami nabízejí suché posezení."
               }
             },
             {
@@ -357,7 +372,8 @@
                 "de": "Bewundern Sie die Fassade geschützt vom Portal aus.",
                 "hu": "Csodálja meg a homlokzatot a kapu védelméből.",
                 "ro": "Admirați fațada protejat de portalul primăriei.",
-                "en": "Admire the facade protected by the portal."
+                "en": "Admire the facade protected by the portal.",
+                "cs": "Obdivujte fasádu chráněnou portálem."
               }
             },
             {
@@ -366,7 +382,8 @@
                 "de": "Idealer Ort, um einen starken Schauer abzuwarten.",
                 "hu": "Ideális hely egy erős zápor átvészelésére.",
                 "ro": "Loc ideal pentru a aștepta trecerea unei averse.",
-                "en": "Ideal place to wait out a heavy downpour."
+                "en": "Ideal place to wait out a heavy downpour.",
+                "cs": "Ideální místo na přečkání silného lijáku."
               }
             },
             {
@@ -375,7 +392,8 @@
                 "de": "Große Ausstellungsräume sorgen für trockene Stunden.",
                 "hu": "A nagy kiállítótermek száraz kikapcsolódást nyújtanak.",
                 "ro": "Sălile mari de expoziție asigură ore petrecute la uscat.",
-                "en": "Large exhibition rooms provide dry hours."
+                "en": "Large exhibition rooms provide dry hours.",
+                "cs": "Velké výstavní sály poskytují suché hodiny."
               }
             },
             {
@@ -384,7 +402,8 @@
                 "de": "Vorsicht bei starkem Wind direkt über der Elbe.",
                 "hu": "Vigyázat az erős széllel közvetlenül az Elba felett.",
                 "ro": "Atenție la vântul puternic direct deasupra Elbei.",
-                "en": "Be careful with strong winds directly over the Elbe."
+                "en": "Be careful with strong winds directly over the Elbe.",
+                "cs": "Dejte pozor na silné větry přímo nad Labem."
               }
             },
             {
@@ -393,7 +412,8 @@
                 "de": "Der Turmaufstieg ist bei Regen etwas rutschig.",
                 "hu": "A toronyba való feljutás esőben kissé csúszós.",
                 "ro": "Urcarea în turn este puțin alunecoasă pe ploaie.",
-                "en": "The tower climb is slightly slippery in the rain."
+                "en": "The tower climb is slightly slippery in the rain.",
+                "cs": "Výstup na věž je v dešti mírně kluzký."
               }
             }
           ],
@@ -425,6 +445,13 @@
               "Wear sturdy, waterproof footwear for the cobblestone streets.",
               "Cafes around the center are great for people-watching in the rain.",
               "A visit to the cathedral is especially atmospheric during rain."
+            ],
+            "cs": [
+              "Použijte arkády na Karlově náměstí jako přirozený přístřešek před deštěm.",
+              "Muzea jsou ideální pro překlenutí delších přeháněk v suchu.",
+              "Na dlážděné ulice noste pevnou nepromokavou obuv.",
+              "Kavárny v centru jsou skvělé pro pozorování lidí v dešti.",
+              "Návštěva katedrály je za deště obzvlášť působivá."
             ]
           }
         },
@@ -433,7 +460,8 @@
             "de": "Frost am Karlsplatz, der Tag beginnt mit klarem Winterhimmel. Mittags bietet die massive Kathedrale Schutz vor dem kalten Wind. Nachmittags wärmen wir uns bei den Ausstellungen im Regionalmuseum auf. Wenn die Dunkelheit früh einsetzt, bietet der Wasserturm Práchovna einen funkelnden Blick auf das nächtliche, winterliche Kolín.",
             "hu": "Fagy a Károly téren, a nap tiszta téli éggel indul. Délben a masszív székesegyház nyújt védelmet a hideg szél ellen. Délután a Regionális Múzeum kiállításai között melegszünk fel. Amikor korán leszáll az éj, a Práchovna víztoronyból szikrázó kilátás nyílik az éjszakai, téli Kolínra.",
             "ro": "Îngheț în Piața Carol, ziua începe cu un cer senin de iarnă. La prânz, catedrala masivă oferă protecție împotriva vântului rece. După-amiaza ne încălzim la expozițiile Muzeului Regional. Când întunericul se lasă devreme, Turnul de Apă Práchovna oferă o vedere sclipitoare asupra orașului Kolín în straie de iarnă.",
-            "en": "Frost at Charles Square, the day begins with clear winter skies. At noon, the massive cathedral provides protection from the cold wind. In the afternoon, we warm up among the exhibits of the Regional Museum. As darkness falls early, the Práchovna Water Tower offers a sparkling view of Kolín at night in winter."
+            "en": "Frost at Charles Square, the day begins with clear winter skies. At noon, the massive cathedral provides protection from the cold wind. In the afternoon, we warm up among the exhibits of the Regional Museum. As darkness falls early, the Práchovna Water Tower offers a sparkling view of Kolín at night in winter.",
+            "cs": "Mráz na Karlově náměstí, den začíná jasnou zimní oblohou. V poledne masivní katedrála poskytuje ochranu před studeným větrem. Odpoledne se zahřejeme mezi exponáty Regionálního muzea. S brzkým setměním nabízí vodárenská věž Práchovna zimní noční pohled na Kolín plný jisker."
           },
           "stops": [
             {
@@ -442,7 +470,8 @@
                 "de": "Genießen Sie ein Heißgetränk am Marktplatz.",
                 "hu": "Élvezzen egy forró italt a főtéren.",
                 "ro": "Savurați o băutură caldă în piața centrală.",
-                "en": "Enjoy a hot drink at the main square."
+                "en": "Enjoy a hot drink at the main square.",
+                "cs": "Dopřejte si horký nápoj na hlavním náměstí."
               }
             },
             {
@@ -451,7 +480,8 @@
                 "de": "Die Fassade wirkt im Winterlicht besonders plastisch.",
                 "hu": "A homlokzat a téli fényben különösen látványos.",
                 "ro": "Fațada pare deosebit de plastică în lumina iernii.",
-                "en": "The facade looks particularly vivid in winter light."
+                "en": "The facade looks particularly vivid in winter light.",
+                "cs": "Fasáda v zimním světle vypadá obzvlášť živě."
               }
             },
             {
@@ -460,7 +490,8 @@
                 "de": "Warme Kleidung für die Besichtigung ist ratsam.",
                 "hu": "Meleg ruházat javasolt a belső látogatáshoz.",
                 "ro": "Se recomandă haine groase pentru vizitarea interiorului.",
-                "en": "Warm clothing is recommended for the interior visit."
+                "en": "Warm clothing is recommended for the interior visit.",
+                "cs": "Na návštěvu interiérů se doporučuje teplé oblečení."
               }
             },
             {
@@ -469,7 +500,8 @@
                 "de": "Perfekter Ort, um sich zwischendurch aufzuwärmen.",
                 "hu": "Tökéletes hely egy kis köztes felmelegedéshez.",
                 "ro": "Locul perfect pentru a vă încălzi între vizite.",
-                "en": "Perfect spot to warm up between sightseeing."
+                "en": "Perfect spot to warm up between sightseeing.",
+                "cs": "Perfektní místo na zahřátí mezi památkami."
               }
             },
             {
@@ -478,7 +510,8 @@
                 "de": "Achten Sie auf Glatteis auf den Gehwegen der Brücke.",
                 "hu": "Vigyázzon a jegesedésre a híd járdáin.",
                 "ro": "Atenție la polei pe trotuarele podului.",
-                "en": "Watch out for black ice on the bridge sidewalks."
+                "en": "Watch out for black ice on the bridge sidewalks.",
+                "cs": "Dejte pozor na černý led na chodnících mostu."
               }
             },
             {
@@ -487,7 +520,8 @@
                 "de": "Bester Platz für Fotos vom frühen Sonnenuntergang.",
                 "hu": "A legjobb hely a korai naplemente fotózásához.",
                 "ro": "Cel mai bun loc pentru poze cu apusul timpuriu.",
-                "en": "Best spot for photos of the early sunset."
+                "en": "Best spot for photos of the early sunset.",
+                "cs": "Nejlepší místo pro fotografie brzkého západu slunce."
               }
             }
           ],
@@ -519,6 +553,13 @@
               "Museums offer a welcome break from the outdoor cold.",
               "Wear shoes with good grip in case of snow in the center.",
               "Hot soups in local pubs provide energy for the tour."
+            ],
+            "cs": [
+              "Vítr od Labe může být v zimě velmi pronikavý.",
+              "Mějte na paměti brzký západ slunce kolem 16:30.",
+              "Muzea nabízejí vítanou přestávku od venkovního chladu.",
+              "Noste obuv s dobrým protiskluzem pro případ sněhu v centru.",
+              "Horké polévky v místních hospodách dodají energii na prohlídku."
             ]
           }
         }
@@ -548,7 +589,8 @@
             "de": "Starten Sie Ihre Radtour im historischen Zentrum.",
             "hu": "Kezdje a kerékpártúrát a történelmi központban.",
             "ro": "Începeți turul cu bicicleta în centrul istoric.",
-            "en": "Start your bike tour in the historical center."
+            "en": "Start your bike tour in the historical center.",
+            "cs": "Začněte cyklovýlet v historickém centru."
           }
         },
         {
@@ -567,7 +609,8 @@
             "de": "Ein wichtiges jüdisches Denkmal der Stadt.",
             "hu": "A város egyik fontos zsidó emlékműve.",
             "ro": "Un monument evreiesc important al orașului.",
-            "en": "An important Jewish monument of the city."
+            "en": "An important Jewish monument of the city.",
+            "cs": "Důležitá židovská památka města."
           }
         },
         {
@@ -586,7 +629,8 @@
             "de": "Einer der ältesten jüdischen Friedhöfe Böhmens.",
             "hu": "Csehország egyik legrégebbi zsidó temetője.",
             "ro": "Unul dintre cele mai vechi cimitire evreiești din Boemia.",
-            "en": "One of the oldest Jewish cemeteries in Bohemia."
+            "en": "One of the oldest Jewish cemeteries in Bohemia.",
+            "cs": "Jedno z nejstarších židovských hřbitovů v Čechách."
           }
         },
         {
@@ -605,7 +649,8 @@
             "de": "Fahren Sie zum Turm für eine großartige Aussicht.",
             "hu": "Tekerjen a toronyhoz a nagyszerű kilátásért.",
             "ro": "Mergeți la turn pentru o priveliște minunată.",
-            "en": "Ride to the tower for a great view."
+            "en": "Ride to the tower for a great view.",
+            "cs": "Vyjeďte k věži pro skvělý výhled."
           }
         },
         {
@@ -624,7 +669,8 @@
             "de": "Überqueren Sie den Fluss auf diesem architektonischen Wahrzeichen.",
             "hu": "Keljen át a folyón ezen az építészeti nevezetességen.",
             "ro": "Traversați râul pe acest punct de reper arhitectural.",
-            "en": "Cross the river on this architectural landmark."
+            "en": "Cross the river on this architectural landmark.",
+            "cs": "Překročte řeku po této architektonické památce."
           }
         },
         {
@@ -643,7 +689,8 @@
             "de": "Sehen Sie sich die historischen Steinskulpturen an.",
             "hu": "Nézze meg a történelmi kőszobrokat.",
             "ro": "Vedeți sculpturile istorice în piatră.",
-            "en": "See the historical stone sculptures."
+            "en": "See the historical stone sculptures.",
+            "cs": "Podívejte se na historické kamenné sochy."
           }
         }
       ],
@@ -651,7 +698,8 @@
         "de": "Die Fahrradtour beginnt am Karlsplatz und führt uns zur Alten Synagoge und dem Alten Jüdischen Friedhof. Danach radeln wir entlang des Flusses zum Wasserturm Práchovna. Auf dem Rückweg überqueren wir die Masaryk-Brücke und beenden die Tour am Lapidarium.",
         "hu": "A kerékpártúra a Károly téren kezdődik, és a Régi zsinagógához, valamint a Régi zsidó temetőhöz vezet. Ezután a folyó mentén a Práchovna víztoronyhoz tekerünk. Visszafelé átkelünk a Masaryk hídon, és a Lapidáriumnál fejezzük be a túrát.",
         "ro": "Turul cu bicicleta începe din Karlsplatz și ne duce la Vechea Sinagogă și la Vechiul Cimitir Evreiesc. Apoi pedalăm de-a lungul râului până la Turnul de Apă Práchovna. La întoarcere traversăm Podul Masaryk și încheiem turul la Lapidarium.",
-        "en": "The bike tour starts at Karlsplatz and takes us to the Old Synagogue and the Old Jewish Cemetery. Then we cycle along the river to the Práchovna Water Tower. On the way back we cross the Masaryk Bridge and end the tour at the Lapidarium."
+        "en": "The bike tour starts at Karlsplatz and takes us to the Old Synagogue and the Old Jewish Cemetery. Then we cycle along the river to the Práchovna Water Tower. On the way back we cross the Masaryk Bridge and end the tour at the Lapidarium.",
+        "cs": "Cyklovýlet začíná na Karlově náměstí a vede k Staré synagoze a starému židovskému hřbitovu. Poté jedeme podél řeky k vodárenské věži Práchovna. Na zpáteční cestě přejedeme Masarykův most a zakončíme výlet u Lapidária."
       },
       "gastro_picks": {
         "de": [
@@ -847,6 +895,12 @@
           "Pay attention to pedestrians and cobblestones in the old town.",
           "Always lock your bike securely when visiting sights.",
           "A bicycle bell is useful for drawing attention."
+        ],
+        "cs": [
+          "Cyklostezky podél Labe jsou rovné a dobře udržované.",
+          "Dejte pozor na chodce a dlažební kostky ve starém městě.",
+          "Vždy bezpečně zamykejte kolo při návštěvě památek.",
+          "Zvonek na kole je užitečný k upoutání pozornosti."
         ]
       },
       "variants": {
@@ -855,7 +909,8 @@
             "de": "Vorsicht auf dem nassen Kopfsteinpflaster am Karlsplatz. Mittags bietet die Alte Synagoge ein trockenes Ziel. Der Nachmittag am Wasserturm erfordert gute Regenbekleidung für den Aufstieg. Abends radeln wir vorsichtig über die rutschige Masaryk-Brücke, während der Regen die Elbe aufwühlt.",
             "hu": "Vigyázat a Károly tér nedves macskakövén. Délben a Régi Zsinagóga száraz úti célt kínál. A délután a víztoronynál jó esőruházatot igényel a felmenetelhez. Este óvatosan tekerünk át a csúszós Masaryk-hídon, miközben az eső felkorbácsolja az Elbát.",
             "ro": "Atenție pe pavajul umed din Piața Carol. La prânz, Vechea Sinagogă oferă o destinație uscată. După-amiaza la turnul de apă necesită echipament de ploaie bun pentru urcare. Seara pedalăm cu atenție peste podul alunecos Masaryk, în timp ce ploaia agită apele Elbei.",
-            "en": "Caution on the wet cobblestones of Charles Square. At noon, the Old Synagogue offers a dry destination. Afternoon at the water tower requires good rain gear for the climb. In the evening, we cycle carefully across the slippery Masaryk Bridge while rain stirs the Elbe river."
+            "en": "Caution on the wet cobblestones of Charles Square. At noon, the Old Synagogue offers a dry destination. Afternoon at the water tower requires good rain gear for the climb. In the evening, we cycle carefully across the slippery Masaryk Bridge while rain stirs the Elbe river.",
+            "cs": "Pozor na mokré dlažební kostky na Karlově náměstí. V poledne nabízí Staré synagoga suché útočiště. Odpoledne u vodárenské věže vyžaduje výstup dobré nepromokavé vybavení. Večer opatrně najíždíme přes kluzký Masarykův most, zatímco déšť rozčeří řeku Labe."
           },
           "stops": [
             {
@@ -864,7 +919,8 @@
                 "de": "Vermeiden Sie scharfes Bremsen auf nassem Stein.",
                 "hu": "Kerülje az erős fékezést a nedves köveken.",
                 "ro": "Evitați frânarea bruscă pe piatra umedă.",
-                "en": "Avoid sharp braking on wet stones."
+                "en": "Avoid sharp braking on wet stones.",
+                "cs": "Vyhněte se ostrému brzdění na mokrých kamenech."
               }
             },
             {
@@ -873,7 +929,8 @@
                 "de": "Sichere Fahrradständer befinden sich in der Nähe.",
                 "hu": "Biztonságos kerékpártárolók találhatók a közelben.",
                 "ro": "Suporturi de biciclete sigure se află în apropiere.",
-                "en": "Secure bike racks are located nearby."
+                "en": "Secure bike racks are located nearby.",
+                "cs": "Bezpečné stojany na kola jsou umístěny v blízkosti."
               }
             },
             {
@@ -882,7 +939,8 @@
                 "de": "Vorsicht vor rutschigem Laub auf den Wegen.",
                 "hu": "Vigyázzon a csúszós levelekkel az utakon.",
                 "ro": "Atenție la frunzele alunecoase de pe alei.",
-                "en": "Watch out for slippery leaves on the paths."
+                "en": "Watch out for slippery leaves on the paths.",
+                "cs": "Dejte pozor na kluzké listí na cestách."
               }
             },
             {
@@ -891,7 +949,8 @@
                 "de": "Wasserdichte Taschen für Ausrüstung nutzen.",
                 "hu": "Használjon vízálló táskákat a felszereléshez.",
                 "ro": "Folosiți genți impermeabile pentru echipament.",
-                "en": "Use waterproof bags for your equipment."
+                "en": "Use waterproof bags for your equipment.",
+                "cs": "Použijte nepromokavé tašky pro své vybavení."
               }
             },
             {
@@ -900,7 +959,8 @@
                 "de": "Der Radweg auf der Brücke kann Pfützen bilden.",
                 "hu": "A hídon lévő kerékpárúton tócsák alakulhatnak ki.",
                 "ro": "Pista de biciclete de pe pod poate avea bălți.",
-                "en": "The bike path on the bridge can form puddles."
+                "en": "The bike path on the bridge can form puddles.",
+                "cs": "Na mostě se na cyklostezce tvoří louže."
               }
             },
             {
@@ -909,7 +969,8 @@
                 "de": "Überdachter Eingangsbereich zum Unterstellen.",
                 "hu": "Fedett bejárati rész a behúzódáshoz.",
                 "ro": "Zonă de intrare acoperită pentru adăpost.",
-                "en": "Covered entrance area for sheltering."
+                "en": "Covered entrance area for sheltering.",
+                "cs": "Zastřešený vstupní prostor poskytuje úkryt."
               }
             }
           ],
@@ -941,6 +1002,13 @@
               "Secure your luggage with waterproof covers.",
               "The Elbe cycle path can be muddy during heavy rain.",
               "Use bridge underpasses for short rain breaks."
+            ],
+            "cs": [
+              "Brzdné dráhy na mokrých dlažebních kostkách jsou znatelně delší.",
+              "Noste reflexní prvky, protože viditelnost při dešti klesá.",
+              "Zabezpečte zavazadla nepromokavými obaly.",
+              "Labská stezka může být při silném dešti bahnitá.",
+              "Pro krátké přestávky v dešti využijte podjezdy pod mosty."
             ]
           }
         },
@@ -949,7 +1017,8 @@
             "de": "Kalter Start am Karlsplatz, Thermokleidung ist Pflicht. Mittags wärmt die Besichtigung der Alten Synagoge auf. Nachmittags fordern die eisigen Winde am Wasserturm Durchhaltevermögen. Der Tag endet früh bei Sonnenuntergang am Lapidarium, wo wir die Räder sicher abstellen und uns aufwärmen.",
             "hu": "Hideg kezdés a Károly téren, a thermo-ruházat kötelező. Délben a Régi Zsinagóga megtekintése melegít fel. Délután a víztoronynál a jeges szél kitartást igényel. A nap korán, naplementekor ér véget a Lapidáriumnál, ahol biztonságba helyezzük a bicikliket és felmelegszünk.",
             "ro": "Start rece în Piața Carol, îmbrăcămintea termică este obligatorie. La prânz, vizitarea Vechii Sinagogi ne încălzește. După-amiaza la turnul de apă, vântul înghețat necesită perseverență. Ziua se încheie devreme, la apus, la Lapidarium, unde parcăm bicicletele și ne încălzim.",
-            "en": "Cold start at Charles Square, thermal clothing is a must. At noon, visiting the Old Synagogue warms us up. In the afternoon, icy winds at the water tower demand endurance. The day ends early at sunset near the Lapidarium, where we safely park our bikes and warm up."
+            "en": "Cold start at Charles Square, thermal clothing is a must. At noon, visiting the Old Synagogue warms us up. In the afternoon, icy winds at the water tower demand endurance. The day ends early at sunset near the Lapidarium, where we safely park our bikes and warm up.",
+            "cs": "Chladný start na Karlově náměstí, termoprádlo je nutností. V poledne nás zahřeje návštěva Staré synagogy. Odpoledne vyžadují ledové větry u vodárenské věže výdrž. Den končí brzy při západu slunce u Lapidária, kde bezpečně zaparkujeme kola a zahřejeme se."
           },
           "stops": [
             {
@@ -958,7 +1027,8 @@
                 "de": "Handschuhe sind für die Fahrt unerlässlich.",
                 "hu": "A kesztyű elengedhetetlen a tekeréshez.",
                 "ro": "Mănușile sunt indispensabile pentru drum.",
-                "en": "Gloves are essential for the ride."
+                "en": "Gloves are essential for the ride.",
+                "cs": "Rukavice jsou pro jízdu nezbytné."
               }
             },
             {
@@ -967,7 +1037,8 @@
                 "de": "Innenräume bieten Schutz vor frostigem Wind.",
                 "hu": "A belső terek védelmet nyújtanak a fagyos szél ellen.",
                 "ro": "Interioarele oferă protecție contra vântului înghețat.",
-                "en": "Interiors provide shelter from the frosty wind."
+                "en": "Interiors provide shelter from the frosty wind.",
+                "cs": "Interiéry poskytují úkryt před mrazivým větrem."
               }
             },
             {
@@ -976,7 +1047,8 @@
                 "de": "Vorsicht vor gefrorener Nässe auf den Wegen.",
                 "hu": "Vigyázzon a fagyott nedvességgel az utakon.",
                 "ro": "Atenție la umezeala înghețată de pe alei.",
-                "en": "Watch out for frozen patches on the paths."
+                "en": "Watch out for frozen patches on the paths.",
+                "cs": "Dejte pozor na zledovatělé úseky na cestách."
               }
             },
             {
@@ -985,7 +1057,8 @@
                 "de": "Zügiges Treppensteigen regt den Kreislauf an.",
                 "hu": "A gyors lépcsőzés serkenti a keringést.",
                 "ro": "Urcatul rapid al scărilor stimulează circulația.",
-                "en": "Brisk stair climbing stimulates circulation."
+                "en": "Brisk stair climbing stimulates circulation.",
+                "cs": "Svižné šlapání do schodů podporuje prokrvení."
               }
             },
             {
@@ -994,7 +1067,8 @@
                 "de": "Sehr windanfällig, halten Sie den Lenker fest.",
                 "hu": "Nagyon szeles, fogja szorosan a kormányt.",
                 "ro": "Foarte expus vântului, țineți bine ghidonul.",
-                "en": "Very windy, keep a firm grip on the handlebars."
+                "en": "Very windy, keep a firm grip on the handlebars.",
+                "cs": "Velmi větrno, pevně držte řídítka."
               }
             },
             {
@@ -1003,7 +1077,8 @@
                 "de": "Ein ruhiger Ausklang im geschützten Bereich.",
                 "hu": "Csendes befejezés a védett területen.",
                 "ro": "Un final liniștit într-o zonă protejată.",
-                "en": "A quiet end in a protected area."
+                "en": "A quiet end in a protected area.",
+                "cs": "Tichý závěr v chráněném prostoru."
               }
             }
           ],
@@ -1035,6 +1110,13 @@
               "E-bike batteries discharge faster in cold weather.",
               "Wear layers to protect against the sharp biting wind.",
               "Avoid uncleared side paths outside the center."
+            ],
+            "cs": [
+              "Dejte pozor na černý led na mostech přes Labe.",
+              "V zimě zapadá slunce už v 16:30.",
+              "Baterie u elektrokol se v chladu vybíjejí rychleji.",
+              "Noste vrstvy, abyste se chránili před ostrým pronikavým větrem.",
+              "Vyhněte se neudržovaným bočním stezkám mimo centrum."
             ]
           }
         }
@@ -1064,7 +1146,8 @@
             "de": "Parken Sie Ihr Auto in der Nähe des Platzes, um die Altstadt zu Fuß zu erkunden.",
             "hu": "Parkolja le autóját a tér közelében, hogy gyalog fedezze fel az óvárost.",
             "ro": "Parcați mașina aproape de piață pentru a explora orașul vechi pe jos.",
-            "en": "Park your car near the square to explore the old town on foot."
+            "en": "Park your car near the square to explore the old town on foot.",
+            "cs": "Zaparkujte auto u náměstí a staré město prozkoumejte pěšky."
           }
         },
         {
@@ -1083,7 +1166,8 @@
             "de": "Nur einen kurzen Spaziergang vom Karlsplatz entfernt.",
             "hu": "Csak egy rövid sétára a Károly tértől.",
             "ro": "La doar o scurtă plimbare de Karlsplatz.",
-            "en": "Just a short walk from Karlsplatz."
+            "en": "Just a short walk from Karlsplatz.",
+            "cs": "Jen krátká procházka od Karlsplatzu."
           }
         },
         {
@@ -1102,7 +1186,8 @@
             "de": "Das Museum vervollständigt unseren Rundgang im Zentrum.",
             "hu": "A múzeum kiegészíti a belvárosi sétánkat.",
             "ro": "Muzeul completează turul nostru în centru.",
-            "en": "The museum completes our walking tour in the center."
+            "en": "The museum completes our walking tour in the center.",
+            "cs": "Muzeum uzavírá naši pěší prohlídku centra."
           }
         },
         {
@@ -1121,7 +1206,8 @@
             "de": "Wir fahren zum jüdischen Viertel, um die Synagoge zu besichtigen.",
             "hu": "A zsidó negyedbe hajtunk a zsinagóga megtekintéséhez.",
             "ro": "Mergem în cartierul evreiesc pentru a vizita sinagoga.",
-            "en": "We drive to the Jewish quarter to visit the synagogue."
+            "en": "We drive to the Jewish quarter to visit the synagogue.",
+            "cs": "Jedeme do židovské čtvrti navštívit synagogu."
           }
         },
         {
@@ -1140,7 +1226,8 @@
             "de": "Ein historischer Friedhof, der bequem zu Fuß erreichbar ist.",
             "hu": "Történelmi temető, amely gyalog könnyen megközelíthető.",
             "ro": "Un cimitir istoric, ușor accesibil pe jos.",
-            "en": "A historic cemetery, easily accessible on foot."
+            "en": "A historic cemetery, easily accessible on foot.",
+            "cs": "Historický hřbitov, snadno dostupný pěšky."
           }
         },
         {
@@ -1159,7 +1246,8 @@
             "de": "Fahrt zum Wasserturm für eine fantastische Aussicht.",
             "hu": "Utazás a víztoronyhoz a fantasztikus kilátásért.",
             "ro": "Conduceți spre Turnul de Apă pentru o priveliște fantastică.",
-            "en": "Drive to the water tower for a fantastic view."
+            "en": "Drive to the water tower for a fantastic view.",
+            "cs": "Začněte jízdu k vodárenské věži pro fantastický výhled."
           }
         }
       ],
@@ -1167,7 +1255,8 @@
         "de": "Wir beginnen unseren Tag im historischen Zentrum, parken das Auto und erkunden den Karlsplatz, die St.-Bartholomäus-Kathedrale und das Regionalmuseum zu Fuß. Danach fahren wir einen kurzen Abschnitt zum jüdischen Viertel, um die Alte Synagoge und den Friedhof zu besichtigen. Den Abschluss bildet eine Fahrt zum Wasserturm Práchovna für den besten Blick über die Stadt.",
         "hu": "A napot a történelmi központban kezdjük, leparkoljuk az autót, majd gyalog felfedezzük a Károly teret, a Szent Bertalan-katedrálist és a Regionális Múzeumot. Ezután egy rövid úton a zsidó negyedbe hajtunk, hogy megnézzük a Régi zsinagógát és a temetőt. A napot a Práchovna víztoronyhoz vezető utazás zárja a város legjobb kilátásáért.",
         "ro": "Ne începem ziua în centrul istoric, parcăm mașina și explorăm pe jos Karlsplatz, Catedrala Sf. Bartolomeu și Muzeul Regional. Apoi conducem o scurtă porțiune spre cartierul evreiesc pentru a vizita Vechea Sinagogă și cimitirul. Ziua se încheie cu o plimbare cu mașina la Turnul de Apă Práchovna pentru cea mai bună priveliște asupra orașului.",
-        "en": "We start our day in the historic center, park the car and explore Karlsplatz, St. Bartholomew's Cathedral and the Regional Museum on foot. Then we drive a short distance to the Jewish quarter to visit the Old Synagogue and the cemetery. The day concludes with a drive to the Práchovna Water Tower for the best view over the city."
+        "en": "We start our day in the historic center, park the car and explore Karlsplatz, St. Bartholomew's Cathedral and the Regional Museum on foot. Then we drive a short distance to the Jewish quarter to visit the Old Synagogue and the cemetery. The day concludes with a drive to the Práchovna Water Tower for the best view over the city.",
+        "cs": "Den začínáme v historickém centru, parkujeme auto a pochodujeme pěšky po Karlsplatzu, katedrále sv. Bartoloměje a Zemskému muzeu. Poté se krátce svezeme do židovské čtvrti navštívit Starou synagogu a hřbitov. Den končí jízdou k vodárenské věži Práchovna pro nejlepší výhled na město."
       },
       "gastro_picks": {
         "de": [
@@ -1363,6 +1452,12 @@
           "The cluster method saves time when looking for a parking space.",
           "Please observe the speed limits in the residential areas.",
           "A navigation system is useful to find the best parking spots."
+        ],
+        "cs": [
+          "Parkování v historickém centru je omezené, využijte vyhrazená parkovací místa na okraji starého města.",
+          "Metoda seskupení šetří čas při hledání parkovacího místa.",
+          "Dodržujte rychlostní limity v obytných částech.",
+          "Navigace pomůže najít nejlepší parkovací místa."
         ]
       },
       "variants": {
@@ -1371,7 +1466,8 @@
             "de": "Ein bequemer Start am Karlsplatz, Parken direkt am Zentrum. Mittags besuchen wir die Kathedrale, während der Regen auf das Dach prasselt. Nachmittags bietet das Regionalmuseum im trockenen Veigert-Haus Kultur ohne nasse Füße. Abends genießen wir die Aussicht vom Wasserturm, bevor wir im Auto trocken zum Hotel fahren.",
             "hu": "Kényelmes kezdés a Károly téren, parkolás közvetlenül a központnál. Délben meglátogatjuk a székesegyházat, miközben az eső a tetőn kopog. Délután a Regionális Múzeum a száraz Veigert-házban kínál kultúrát ázott lábak nélkül. Este élvezzük a kilátást a víztoronyból, mielőtt szárazon az autóval a szálláshoz hajtanánk.",
             "ro": "Un start confortabil în Piața Carol, parcare direct în centru. La prânz vizităm catedrala în timp ce ploaia bate în acoperiș. După-amiaza, Muzeul Regional din Casa Veigert oferă cultură fără picioare ude. Seara ne bucurăm de vederea din turnul de apă înainte de a merge cu mașina la hotel.",
-            "en": "A comfortable start at Charles Square, parking right by the center. At noon, we visit the cathedral while rain drums on the roof. In the afternoon, the Regional Museum in the dry Veigert House offers culture without wet feet. In the evening, we enjoy the view from the water tower before driving dry to the hotel."
+            "en": "A comfortable start at Charles Square, parking right by the center. At noon, we visit the cathedral while rain drums on the roof. In the afternoon, the Regional Museum in the dry Veigert House offers culture without wet feet. In the evening, we enjoy the view from the water tower before driving dry to the hotel.",
+            "cs": "Příjemný začátek na Karlově náměstí, parkování přímo u centra. V poledne navštívíme katedrálu, zatímco déšť bubnuje na střechu. Odpoledne Regionální muzeum v suchém domě Veigert nabízí kulturu bez promočených nohou. Večer si užijeme výhled z vodárenské věže a poté suchou jízdou do hotelu."
           },
           "stops": [
             {
@@ -1380,7 +1476,8 @@
                 "de": "Zentrales Parken ermöglicht kurze Laufwege.",
                 "hu": "A központi parkolás rövid sétákat tesz lehetővé.",
                 "ro": "Parcarea centrală permite distanțe scurte de mers.",
-                "en": "Central parking allows for short walking distances."
+                "en": "Central parking allows for short walking distances.",
+                "cs": "Centrální parkování umožňuje krátké pěší vzdálenosti."
               }
             },
             {
@@ -1389,7 +1486,8 @@
                 "de": "Ein prächtiger Rückzugsort bei jedem Wetter.",
                 "hu": "Pompás visszavonulási hely minden időben.",
                 "ro": "Un loc de retragere superb pe orice vreme.",
-                "en": "A magnificent retreat in any weather."
+                "en": "A magnificent retreat in any weather.",
+                "cs": "Nádherné útočiště v jakémkoli počasí."
               }
             },
             {
@@ -1398,7 +1496,8 @@
                 "de": "Parkplätze in den umliegenden Straßen nutzen.",
                 "hu": "Használja a környező utcák parkolóit.",
                 "ro": "Folosiți locurile de parcare de pe străzile adiacente.",
-                "en": "Use parking spaces in the surrounding streets."
+                "en": "Use parking spaces in the surrounding streets.",
+                "cs": "Využijte parkovací místa v okolních ulicích."
               }
             },
             {
@@ -1407,7 +1506,8 @@
                 "de": "Kurzer Stopp direkt vor dem historischen Eingang.",
                 "hu": "Rövid megálló közvetlenül a történelmi bejárat előtt.",
                 "ro": "Scurtă oprire direct în fața intrării istorice.",
-                "en": "Short stop right in front of the historic entrance."
+                "en": "Short stop right in front of the historic entrance.",
+                "cs": "Krátká zastávka přímo před historickým vchodem."
               }
             },
             {
@@ -1416,7 +1516,8 @@
                 "de": "Eingeschränkte Parkmöglichkeiten, Plan beachten.",
                 "hu": "Korlátozott parkolási lehetőség, figyelje a tervet.",
                 "ro": "Locuri de parcare limitate, verificați harta.",
-                "en": "Limited parking options, check the map."
+                "en": "Limited parking options, check the map.",
+                "cs": "Omezené možnosti parkování, zkontrolujte mapu."
               }
             },
             {
@@ -1425,7 +1526,8 @@
                 "de": "Bequeme Anfahrt bis fast vor den Turm möglich.",
                 "hu": "Kényelmes érkezés majdnem a torony elé lehetséges.",
                 "ro": "Acces auto facil până aproape de turn.",
-                "en": "Easy car access almost to the front of the tower."
+                "en": "Easy car access almost to the front of the tower.",
+                "cs": "Snadný příjezd téměř až k přední části věže."
               }
             }
           ],
@@ -1457,6 +1559,13 @@
               "Museums are ideal destinations for rainy afternoons.",
               "Keep your umbrella handy in the car cabin.",
               "Allow more time for finding parking during heavy rain."
+            ],
+            "cs": [
+              "Použijte centrální parkovací domy pro suché přístupové cesty.",
+              "Pozor na aquaplaning na silnicích podél Labe.",
+              "Muzea jsou ideální cíle pro deštivá odpoledne.",
+              "Mějte deštník po ruce v kabině auta.",
+              "Při silném dešti počítejte s delším časem na nalezení parkování."
             ]
           }
         },
@@ -1465,7 +1574,8 @@
             "de": "Winterlicher Morgen am Karlsplatz, das Auto ist wohltemperiert. Mittags bestaunen wir die Kathedrale, während draußen der Frost klirrt. Nachmittags wärmen wir uns im Regionalmuseum an lokaler Geschichte. Abends bietet die Fahrt zum Wasserturm einen Panoramablick auf das beleuchtete, verschneite Kolín im warmen Komfort.",
             "hu": "Téli reggel a Károly téren, az autó kellemes hőmérsékletű. Délben a székesegyházat csodáljuk, miközben kint zord a fagy. Délután a Regionális Múzeumban melegszünk a helyi történelem mellett. Este a víztoronyhoz vezető út panorámás kilátást nyújt a kivilágított, havas Kolínra a meleg kényelméből.",
             "ro": "Dimineață de iarnă în Piața Carol, mașina este bine încălzită. La prânz admirăm catedrala în timp ce afară înghețul este tăios. După-amiaza ne încălzim la Muzeul Regional cu istoria locală. Seara, drumul spre turnul de apă oferă o panoramă asupra orașului Kolín iluminat și înzăpezit.",
-            "en": "Winter morning at Charles Square, the car is well-tempered. At noon, we marvel at the cathedral while frost bites outside. In the afternoon, we warm up at the Regional Museum with local history. In the evening, the drive to the water tower offers a panoramic view of illuminated, snowy Kolín in warm comfort."
+            "en": "Winter morning at Charles Square, the car is well-tempered. At noon, we marvel at the cathedral while frost bites outside. In the afternoon, we warm up at the Regional Museum with local history. In the evening, the drive to the water tower offers a panoramic view of illuminated, snowy Kolín in warm comfort.",
+            "cs": "Zimní ráno na Karlově náměstí, auto je příjemně temperované. V poledne obdivujeme katedrálu, zatímco mrazík kousá venku. Odpoledne se zahřejeme v Zemském muzeu s místní historií. Večer jízda k vodárenské věži nabízí panoramatický výhled na osvětlený zasněžený Kolín v teplém pohodlí."
           },
           "stops": [
             {
@@ -1474,7 +1584,8 @@
                 "de": "Vorsicht vor glatten Stellen in den Seitenstraßen.",
                 "hu": "Vigyázzon a jeges foltokkal a mellékutcákban.",
                 "ro": "Atenție la porțiunile înghețate de pe străzile laterale.",
-                "en": "Watch out for icy patches in the side streets."
+                "en": "Watch out for icy patches in the side streets.",
+                "cs": "Pozor na zledovatělé úseky v postranních ulicích."
               }
             },
             {
@@ -1483,7 +1594,8 @@
                 "de": "Parken Sie nah, um Kältebrücken zu vermeiden.",
                 "hu": "Parkoljon közel a hideg elkerülése érdekében.",
                 "ro": "Parcați aproape pentru a evita expunerea la frig.",
-                "en": "Park close to minimize exposure to the cold."
+                "en": "Park close to minimize exposure to the cold.",
+                "cs": "Parkujte blízko, abyste minimalizovali pobyt v chladu."
               }
             },
             {
@@ -1492,7 +1604,8 @@
                 "de": "Die Heizung in den Räumen ist sehr angenehm.",
                 "hu": "A termek fűtése nagyon kellemes.",
                 "ro": "Încălzirea din interior este foarte plăcută.",
-                "en": "The heating in the rooms is very comfortable."
+                "en": "The heating in the rooms is very comfortable.",
+                "cs": "Vytápění v místnostech je velmi příjemné."
               }
             },
             {
@@ -1501,7 +1614,8 @@
                 "de": "Ein geschichtsträchtiger Halt im warmen Rundgang.",
                 "hu": "Történelmi megálló a meleg körút során.",
                 "ro": "O oprire plină de istorie în turul călduros.",
-                "en": "A history-rich stop during your warm tour."
+                "en": "A history-rich stop during your warm tour.",
+                "cs": "Zastávka bohatá na historii během vašeho teplého okruhu."
               }
             },
             {
@@ -1510,7 +1624,8 @@
                 "de": "Besonders mystisch unter einer Schneedecke.",
                 "hu": "Különösen misztikus hótakaró alatt.",
                 "ro": "Deosebit de mistic sub pătura de zăpadă.",
-                "en": "Particularly mystical under a blanket of snow."
+                "en": "Particularly mystical under a blanket of snow.",
+                "cs": "Zvlášť mystické pod sněhovou přikrývkou."
               }
             },
             {
@@ -1519,7 +1634,8 @@
                 "de": "Gute Winterreifen für die Zufahrt erforderlich.",
                 "hu": "Jó téli gumi szükséges a megközelítéshez.",
                 "ro": "Anvelope de iarnă bune sunt necesare pentru acces.",
-                "en": "Good winter tires required for the access road."
+                "en": "Good winter tires required for the access road.",
+                "cs": "Pro přístupovou cestu jsou potřeba dobré zimní pneumatiky."
               }
             }
           ],
@@ -1551,6 +1667,13 @@
               "Use seat heating for maximum coziness.",
               "Drive carefully across the bridge over the Elbe.",
               "Hot drinks in the car make the breaks more enjoyable."
+            ],
+            "cs": [
+              "Vyhraďte čas na odmrazení oken před odjezdem.",
+              "Ulice v historické čtvrti jsou často úzké a kluzké.",
+              "Používejte vyhřívání sedadel pro maximální pohodlí.",
+              "Jezděte opatrně přes most přes Labe.",
+              "Horké nápoje v autě zpříjemní přestávky."
             ]
           }
         }
@@ -1580,7 +1703,8 @@
             "de": "Das Zentrum ist sehr gut mit den lokalen Bussen erreichbar.",
             "hu": "A központ nagyon jól megközelíthető a helyi buszokkal.",
             "ro": "Centrul este foarte ușor accesibil cu autobuzele locale.",
-            "en": "The center is very easily accessible by local buses."
+            "en": "The center is very easily accessible by local buses.",
+            "cs": "Centrum je velmi snadno dostupné místními autobusy."
           }
         },
         {
@@ -1599,7 +1723,8 @@
             "de": "Das Rathaus ist nur wenige Gehminuten entfernt.",
             "hu": "A városháza mindössze pár perc sétára található.",
             "ro": "Primăria este la doar câteva minute de mers pe jos.",
-            "en": "The town hall is just a few minutes walk away."
+            "en": "The town hall is just a few minutes walk away.",
+            "cs": "Radnice je jen pár minut chůze."
           }
         },
         {
@@ -1618,7 +1743,8 @@
             "de": "Genießen Sie die gotische Baukunst in vollen Zügen.",
             "hu": "Élvezze a gótikus építészetet teljes mértékben.",
             "ro": "Bucurați-vă din plin de arhitectura gotică.",
-            "en": "Enjoy the Gothic architecture to the fullest."
+            "en": "Enjoy the Gothic architecture to the fullest.",
+            "cs": "Vychutnejte si gotickou architekturu naplno."
           }
         },
         {
@@ -1637,7 +1763,8 @@
             "de": "Eine kurze Busfahrt bringt uns ins jüdische Viertel.",
             "hu": "Egy rövid buszút a zsidó negyedbe visz minket.",
             "ro": "O scurtă călătorie cu autobuzul ne duce în cartierul evreiesc.",
-            "en": "A short bus ride takes us to the Jewish quarter."
+            "en": "A short bus ride takes us to the Jewish quarter.",
+            "cs": "Krátká jízda autobusem nás zavede do židovské čtvrti."
           }
         },
         {
@@ -1656,7 +1783,8 @@
             "de": "Gleich um die Ecke befindet sich der historische Friedhof.",
             "hu": "A sarkon túl található a történelmi temető.",
             "ro": "Chiar după colț este cimitirul istoric.",
-            "en": "Just around the corner is the historical cemetery."
+            "en": "Just around the corner is the historical cemetery.",
+            "cs": "Kousek za rohem je historický hřbitov."
           }
         },
         {
@@ -1675,7 +1803,8 @@
             "de": "Mit den öffentlichen Verkehrsmitteln geht es weiter zur Brücke.",
             "hu": "A tömegközlekedéssel tovább a hídhoz.",
             "ro": "Mergem mai departe cu transportul public până la pod.",
-            "en": "We continue by public transport to the bridge."
+            "en": "We continue by public transport to the bridge.",
+            "cs": "Pokračujeme MHD k mostu."
           }
         }
       ],
@@ -1683,7 +1812,8 @@
         "de": "Wir nutzen die lokalen Busse, um schnell ins Zentrum zum Karlsplatz zu gelangen. Die nahegelegenen Sehenswürdigkeiten wie das Rathaus und die Kathedrale erkunden wir zu Fuß. Danach fahren wir mit dem Bus ins jüdische Viertel für die Synagoge und den Friedhof. Eine weitere kurze Fahrt bringt uns zur Masaryk-Brücke an der Elbe.",
         "hu": "A helyi buszokat használjuk, hogy gyorsan a központba, a Károly térre jussunk. A közeli látnivalókat, mint a városházát és a katedrálist, gyalog fedezzük fel. Ezután busszal a zsidó negyedbe megyünk a zsinagóga és a temető megtekintésére. Egy újabb rövid utazás a Masaryk hídhoz visz minket az Elbánál.",
         "ro": "Folosim autobuzele locale pentru a ajunge rapid în centru la Karlsplatz. Atracțiile din apropiere, precum primăria și catedrala, le explorăm pe jos. Apoi mergem cu autobuzul în cartierul evreiesc pentru sinagogă și cimitir. O altă scurtă călătorie ne duce la Podul Masaryk pe Elba.",
-        "en": "We use the local buses to get quickly to the center at Karlsplatz. We explore the nearby sights such as the town hall and the cathedral on foot. Then we take the bus to the Jewish quarter for the synagogue and the cemetery. Another short trip takes us to the Masaryk Bridge on the Elbe."
+        "en": "We use the local buses to get quickly to the center at Karlsplatz. We explore the nearby sights such as the town hall and the cathedral on foot. Then we take the bus to the Jewish quarter for the synagogue and the cemetery. Another short trip takes us to the Masaryk Bridge on the Elbe.",
+        "cs": "Používáme místní autobusy, abychom se rychle dostali do centra na Karlsplatz. Okolní památky jako radnice a katedrálu prozkoumáme pěšky. Poté jedeme autobusem do židovské čtvrti ke synagoze a hřbitovu. Další krátká cesta nás zavede na Masarykův most přes Labe."
       },
       "gastro_picks": {
         "de": [
@@ -1879,6 +2009,12 @@
           "A day ticket is often cheaper than single tickets.",
           "The center is very easily accessible on foot, use buses only for longer distances.",
           "Pay attention to departure times, especially in the afternoon."
+        ],
+        "cs": [
+          "Zkontrolujte jízdní řády místních autobusů předem.",
+          "Celodenní jízdenka je často levnější než jednotlivé jízdenky.",
+          "Centrum je velmi snadno dostupné pěšky, autobusy používejte jen na delší vzdálenosti.",
+          "Dávejte pozor na odjezdy, zejména odpoledne."
         ]
       },
       "variants": {
@@ -1887,7 +2023,8 @@
             "de": "Ein regnerischer Start am Karlsplatz, Busse halten direkt im Zentrum. Mittags bietet die Kathedrale trockene Stille zwischen den Fahrten. Nachmittags nutzen wir die Linien zur Alten Synagoge und zum Friedhof, um Regenpausen zu überbrücken. Abends bringt uns der Bus über die Masaryk-Brücke sicher und trocken zurück zum Bahnhof.",
             "hu": "Esős kezdés a Károly téren, a buszok közvetlenül a központban állnak meg. Délben a székesegyház száraz csendet nyújt az utak között. Délután a buszjáratokat használjuk a Régi Zsinagógához és a temetőhöz, elkerülve az esőt. Este a busz biztonságosan és szárazon visz át a Masaryk-hídon vissza a vasútállomásra.",
             "ro": "Start ploios în Piața Carol, autobuzele opresc direct în centru. La prânz, catedrala oferă liniște la uscat între călătorii. După-amiaza folosim liniile spre Vechea Sinagogă și cimitir pentru a evita ploaia. Seara, autobuzul ne duce în siguranță și la uscat peste podul Masaryk înapoi la gară.",
-            "en": "A rainy start at Charles Square, buses stop right in the center. At noon, the cathedral offers dry silence between trips. In the afternoon, we use the bus lines to the Old Synagogue and cemetery to bridge the rain. In the evening, the bus takes us safely and dry across the Masaryk Bridge back to the station."
+            "en": "A rainy start at Charles Square, buses stop right in the center. At noon, the cathedral offers dry silence between trips. In the afternoon, we use the bus lines to the Old Synagogue and cemetery to bridge the rain. In the evening, the bus takes us safely and dry across the Masaryk Bridge back to the station.",
+            "cs": "Deštivý začátek na Karlově náměstí, autobusy staví přímo v centru. V poledne katedrála nabízí suché ticho mezi cestami. Odpoledne využijeme autobusové linky do Staré synagogy a na hřbitov, aby překlenuly déšť. Večer nás autobus bezpečně a suchou cestou přepraví přes Masarykův most zpět na nádraží."
           },
           "stops": [
             {
@@ -1896,7 +2033,8 @@
                 "de": "Zentraler Knotenpunkt mit vielen Unterständen.",
                 "hu": "Központi csomópont sok beállóval.",
                 "ro": "Nod central cu multe adăposturi în stații.",
-                "en": "Central hub with many bus shelters."
+                "en": "Central hub with many bus shelters.",
+                "cs": "Centrální uzel s mnoha autobusovými přístřešky."
               }
             },
             {
@@ -1905,7 +2043,8 @@
                 "de": "Kurze Wege zwischen Haltestelle und Rathaus.",
                 "hu": "Rövid távolság a megálló és a városháza között.",
                 "ro": "Distanțe scurte între stație și primărie.",
-                "en": "Short distances between the stop and town hall."
+                "en": "Short distances between the stop and town hall.",
+                "cs": "Krátké vzdálenosti mezi zastávkou a radnicí."
               }
             },
             {
@@ -1914,7 +2053,8 @@
                 "de": "Durch schmale Gassen schnell erreichbar.",
                 "hu": "Szűk utcákon keresztül gyorsan elérhető.",
                 "ro": "Accesibil rapid prin străduțele înguste.",
-                "en": "Quickly accessible through narrow alleys."
+                "en": "Quickly accessible through narrow alleys.",
+                "cs": "Rychle přístupné úzkými uličkami."
               }
             },
             {
@@ -1923,7 +2063,8 @@
                 "de": "Buslinie hält fast unmittelbar davor.",
                 "hu": "A buszjárat majdnem közvetlenül előtte áll meg.",
                 "ro": "Linia de autobuz oprește aproape în față.",
-                "en": "Bus line stops almost right in front."
+                "en": "Bus line stops almost right in front.",
+                "cs": "Linka autobusu staví téměř přímo před."
               }
             },
             {
@@ -1932,7 +2073,8 @@
                 "de": "Bei Regen ist die Anfahrt per Bus ratsam.",
                 "hu": "Esőben a buszos megközelítés javasolt.",
                 "ro": "Pe ploaie, accesul cu autobuzul este recomandat.",
-                "en": "During rain, reaching it by bus is advisable."
+                "en": "During rain, reaching it by bus is advisable.",
+                "cs": "V dešti je vhodné tam dorazit autobusem."
               }
             },
             {
@@ -1941,7 +2083,8 @@
                 "de": "Genießen Sie den Blick auf die Elbe im Trockenen.",
                 "hu": "Élvezze az Elba látványát szárazon.",
                 "ro": "Bucurați-vă de vederea spre Elba de la uscat.",
-                "en": "Enjoy the view of the Elbe from the dry."
+                "en": "Enjoy the view of the Elbe from the dry.",
+                "cs": "Užijte si výhled na Labe ze sucha."
               }
             }
           ],
@@ -1973,6 +2116,13 @@
               "The 'IDOS' app helps with real-time planning.",
               "Plan short sprints between the bus and the sights.",
               "Kolin station offers a dry waiting room experience."
+            ],
+            "cs": [
+              "Autobusy v Kolíně jezdí včas i za deště.",
+              "Využijte přístřešky na Karlově náměstí pro ochranu.",
+              "Aplikace 'IDOS' pomůže s plánováním v reálném čase.",
+              "Plánujte krátké sprinty mezi autobusem a památkami.",
+              "Nádraží Kolín nabízí suchou čekárnu."
             ]
           }
         },
@@ -1981,7 +2131,8 @@
             "de": "Ein frostiger Morgen am Karlsplatz, der Bus ist angenehm geheizt. Mittags bietet die Kathedrale spirituelle Wärme, während draußen der Wind weht. Nachmittags besuchen wir die Synagoge und den Friedhof, verbunden durch kurze Busfahrten. Den Tag beenden wir bei Sonnenuntergang auf der Masaryk-Brücke, bevor uns der nächste Bus ins Warme bringt.",
             "hu": "Fagyos reggel a Károly téren, a busz kellemesen fűtött. Délben a székesegyház spirituális meleget nyújt, miközben kint fúj a szél. Délután meglátogatjuk a zsinagógát és a temetőt, rövid buszutakkal összekötve. A napot a Masaryk-hídon zárjuk naplementekor, mielőtt a következő busz melegre vinne.",
             "ro": "O dimineață gerosă în Piața Carol, autobuzul este plăcut încălzit. La prânz, catedrala oferă o căldură spirituală în timp ce afară bate vântul. După-amiaza vizităm sinagoga și cimitirul, conectate prin scurte călătorii cu autobuzul. Încheiem ziua la apus pe podul Masaryk înainte de următorul autobuz.",
-            "en": "A frosty morning at Charles Square, the bus is pleasantly heated. At noon, the cathedral offers spiritual warmth while the wind blows outside. In the afternoon, we visit the synagogue and cemetery, connected by short bus rides. We end the day at sunset on the Masaryk Bridge before the next bus takes us to warmth."
+            "en": "A frosty morning at Charles Square, the bus is pleasantly heated. At noon, the cathedral offers spiritual warmth while the wind blows outside. In the afternoon, we visit the synagogue and cemetery, connected by short bus rides. We end the day at sunset on the Masaryk Bridge before the next bus takes us to warmth.",
+            "cs": "Mrazivé ráno na Karlově náměstí, autobus je příjemně vyhřátý. V poledne katedrála poskytuje duchovní teplo, zatímco venku fouká vítr. Odpoledne navštěvujeme synagogu a hřbitov, spojené krátkými jízdami autobusem. Den zakončíme za západu slunce na Masarykově mostě, než nás další autobus odveze do tepla."
           },
           "stops": [
             {
@@ -1990,7 +2141,8 @@
                 "de": "Hinter den Arkaden lässt sich windgeschützt warten.",
                 "hu": "Az árkádok mögött szélvédett helyen lehet várni.",
                 "ro": "Se poate aștepta ferit de vânt în spatele arcadelor.",
-                "en": "You can wait protected from the wind behind the arcades."
+                "en": "You can wait protected from the wind behind the arcades.",
+                "cs": "Za arkádami se můžete chráněni před větrem."
               }
             },
             {
@@ -1999,7 +2151,8 @@
                 "de": "Warme Kleidung ist für die Umstiege wichtig.",
                 "hu": "Meleg ruházat fontos az átszállásokhoz.",
                 "ro": "Hainele groase sunt importante pentru transferuri.",
-                "en": "Warm clothing is important for transfers."
+                "en": "Warm clothing is important for transfers.",
+                "cs": "Teplé oblečení je důležité při přesunech."
               }
             },
             {
@@ -2008,7 +2161,8 @@
                 "de": "Ein ruhiger Ort, um der Kälte kurz zu entfliehen.",
                 "hu": "Csendes hely, hogy elmeneküljön a hideg elől.",
                 "ro": "Un loc liniștit pentru a scăpa scurt de frig.",
-                "en": "A quiet place to briefly escape the cold."
+                "en": "A quiet place to briefly escape the cold.",
+                "cs": "Klidné místo pro krátké únik z chladu."
               }
             },
             {
@@ -2017,7 +2171,8 @@
                 "de": "Gute Busanbindung auch im Winterfahrplan.",
                 "hu": "Jó buszközlekedés a téli menetrendben is.",
                 "ro": "Conexiuni bune de autobuz și în orarul de iarnă.",
-                "en": "Good bus connections even in the winter schedule."
+                "en": "Good bus connections even in the winter schedule.",
+                "cs": "Dobré autobusové spojení i v zimním jízdním řádu."
               }
             },
             {
@@ -2026,7 +2181,8 @@
                 "de": "Der Fußweg von der Haltestelle ist oft geräumt.",
                 "hu": "A megállótól vezető utat gyakran letakarítják.",
                 "ro": "Aleea de la stație este adesea deszăpezită.",
-                "en": "The path from the stop is usually cleared."
+                "en": "The path from the stop is usually cleared.",
+                "cs": "Cesta ze zastávky je obvykle uklizená."
               }
             },
             {
@@ -2035,7 +2191,8 @@
                 "de": "Vom Bus aus bietet sich ein toller Eis-Blick.",
                 "hu": "A buszból nagyszerű kilátás nyílik a jégre.",
                 "ro": "Din autobuz se vede superb gheața de pe râu.",
-                "en": "The bus offers a great view of ice on the river."
+                "en": "The bus offers a great view of ice on the river.",
+                "cs": "Autobus nabízí skvělý výhled na led na řece."
               }
             }
           ],
@@ -2067,6 +2224,13 @@
               "Ticket machines remain functional even in frost.",
               "The bus is the most comfortable way to reach the Elbe bank.",
               "Buses are often less crowded and quiet in the evening."
+            ],
+            "cs": [
+              "Využijte vyhřívané autobusy k ohřátí mezi zastávkami.",
+              "Mějte na paměti možné zpoždění kvůli zimním podmínkám.",
+              "Jízdní automaty fungují i při mrazech.",
+              "Autobus je nejpohodlnější způsob, jak se dostat k nábřeží Labe.",
+              "Autobusy jsou večer často méně plné a klidné."
             ]
           }
         }

@@ -21,7 +21,8 @@
             "de": "Großer Platz",
             "hu": "Fő tér",
             "ro": "Piața Mare",
-            "en": "Main Square"
+            "en": "Main Square",
+            "cs": "Hlavní náměstí"
           },
           "coords": [
             14.1475,
@@ -37,7 +38,8 @@
             "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee und beobachten Sie das städtische Leben.",
             "hu": "Kezdje a napot egy kávéval, és figyelje a város ébredését.",
             "ro": "Începeți ziua aici cu o cafea, privind viața orașului.",
-            "en": "Start your day here with a coffee and watch the city life."
+            "en": "Start your day here with a coffee and watch the city life.",
+            "cs": "Začněte den tady s kávou a pozorujte městský ruch."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Rathaus Písek",
             "hu": "Píseki Városháza",
             "ro": "Primăria Písek",
-            "en": "Písek Town Hall"
+            "en": "Písek Town Hall",
+            "cs": "Písecká radnice"
           },
           "coords": [
             14.1479,
@@ -61,7 +64,8 @@
             "de": "Bewundern Sie die barocke Fassade und den Uhrturm.",
             "hu": "Csodálja meg a barokk homlokzatot és az óratornyot.",
             "ro": "Admirați fațada barocă și turnul cu ceas.",
-            "en": "Admire the baroque facade and the clock tower."
+            "en": "Admire the baroque facade and the clock tower.",
+            "cs": "Obdivujte barokní fasádu a hodinovou věž."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Kirche Mariä Geburt",
             "hu": "Szűz Mária Születése templom",
             "ro": "Biserica Nașterea Maicii Domnului",
-            "en": "Church of the Nativity of the Virgin Mary"
+            "en": "Church of the Nativity of the Virgin Mary",
+            "cs": "Kostel Narození Panny Marie"
           },
           "coords": [
             14.1488,
@@ -85,7 +90,8 @@
             "de": "Suchen Sie nach dem gotischen Interieur und der beeindruckenden Akustik.",
             "hu": "Keresse a gótikus belső teret és élvezze a lenyűgöző akusztikát.",
             "ro": "Căutați interiorul gotic și acustica impresionantă.",
-            "en": "Look for the Gothic interior and the impressive acoustics."
+            "en": "Look for the Gothic interior and the impressive acoustics.",
+            "cs": "Hledejte gotický interiér a působivou akustiku."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Burg Písek",
             "hu": "Píseki vár",
             "ro": "Castelul Písek",
-            "en": "Písek Castle"
+            "en": "Písek Castle",
+            "cs": "Písecký hrad"
           },
           "coords": [
             14.1465,
@@ -109,7 +116,8 @@
             "de": "Beherbergt heute das Prácheň-Museum, perfekt für einen tiefen Einblick in die Regionalgeschichte.",
             "hu": "Ma a Prácheň Múzeumnak ad otthont, amely betekintést nyújt a régió történelmébe.",
             "ro": "Găzduiește Muzeul Prácheň, perfect pentru o incursiune în istoria regională.",
-            "en": "Today it houses the Prácheň Museum, perfect for a deep dive into regional history."
+            "en": "Today it houses the Prácheň Museum, perfect for a deep dive into regional history.",
+            "cs": "Dnes v něm sídlí Muzeum Prácheň, ideální pro důkladné seznámení s regionální historií."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Steinerne Brücke",
             "hu": "Kőhíd",
             "ro": "Podul de Piatră",
-            "en": "Stone Bridge"
+            "en": "Stone Bridge",
+            "cs": "Kamenný most"
           },
           "coords": [
             14.145,
@@ -133,7 +142,8 @@
             "de": "Die älteste erhaltene Brücke in der Tschechischen Republik. Machen Sie Fotos bei Sonnenuntergang!",
             "hu": "Csehország legrégebbi fennmaradt hídja. Készítsen fotókat naplementekor!",
             "ro": "Cel mai vechi pod conservat din Republica Cehă. Faceți fotografii la apus!",
-            "en": "The oldest preserved bridge in the Czech Republic. Take photos at sunset!"
+            "en": "The oldest preserved bridge in the Czech Republic. Take photos at sunset!",
+            "cs": "Nejstarší dochovaný most v České republice. Vyfoťte ho při západu slunce!"
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Mälzerei (Sladovna)",
             "hu": "Malátaház (Sladovna)",
             "ro": "Malțeria (Sladovna)",
-            "en": "Malthouse (Sladovna)"
+            "en": "Malthouse (Sladovna)",
+            "cs": "Sladovna (Malthouse)"
           },
           "coords": [
             14.1482,
@@ -157,7 +168,8 @@
             "de": "Ein interaktives Familienzentrum in einer ehemaligen Brauerei. Ideal für Kinder.",
             "hu": "Interaktív családi központ egy egykori sörfőzdében. Ideális gyerekekkel.",
             "ro": "Un centru interactiv pentru familii într-o fostă fabrică de bere. Ideal pentru copii.",
-            "en": "An interactive family center in a former brewery. Ideal for children."
+            "en": "An interactive family center in a former brewery. Ideal for children.",
+            "cs": "Interaktivní rodinné centrum v bývalém pivovaru. Ideální pro děti."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Städtisches Wasserkraftwerk",
             "hu": "Városi vízerőmű",
             "ro": "Hidrocentrala Municipală",
-            "en": "Municipal Hydroelectric Power Plant"
+            "en": "Municipal Hydroelectric Power Plant",
+            "cs": "Městská vodní elektrárna"
           },
           "coords": [
             14.1442,
@@ -181,7 +194,8 @@
             "de": "Ein faszinierendes technisches Denkmal, das immer noch in Betrieb ist.",
             "hu": "Lenyűgöző műszaki emlék, amely még mindig működik.",
             "ro": "Un monument tehnic fascinant care este încă în funcțiune.",
-            "en": "A fascinating technical monument that is still in operation."
+            "en": "A fascinating technical monument that is still in operation.",
+            "cs": "Fascinující technická památka, která je stále v provozu."
           }
         },
         {
@@ -189,7 +203,8 @@
             "de": "Palacký-Anlagen",
             "hu": "Palacký park",
             "ro": "Parcul Palacký",
-            "en": "Palacký Gardens"
+            "en": "Palacký Gardens",
+            "cs": "Palackého sady"
           },
           "coords": [
             14.152,
@@ -205,7 +220,8 @@
             "de": "Entspannen Sie am Fluss Otava und genießen Sie die ruhige Atmosphäre.",
             "hu": "Pihenjen az Otava folyó partján, és élvezze a nyugodt légkört.",
             "ro": "Relaxați-vă pe malul râului Otava și bucurați-vă de atmosfera liniștită.",
-            "en": "Relax by the Otava River and enjoy the peaceful atmosphere."
+            "en": "Relax by the Otava River and enjoy the peaceful atmosphere.",
+            "cs": "Relaxujte u řeky Otavy a vychutnejte si klidnou atmosféru."
           }
         }
       ],
@@ -213,7 +229,8 @@
         "de": "Ihr Tag in Písek beginnt auf dem belebten Großen Platz. Am Vormittag erkunden Sie das historische Herz der Stadt, einschließlich der ältesten Brücke Tschechiens und der gotischen Burg. Nach dem Mittagessen tauchen Sie in die interaktive Welt der Sladovna ein. Der Nachmittag ist der Entspannung gewidmet, mit einem Spaziergang entlang des Flusses Otava und einem Besuch des historischen Kraftwerks. Am Abend genießen Sie die böhmische Küche in einem der traditionellen Restaurants der Stadt.",
         "hu": "Píseki napja a nyüzsgő Fő téren kezdődik. A délelőtt folyamán felfedezi a város történelmi szívét, beleértve Csehország legrégebbi hídját és a gótikus várat. Ebéd után elmerül a Sladovna interaktív világában. A délután a pihenésé, egy sétával az Otava folyó mentén és a történelmi erőmű megtekintésével. Este élvezze a cseh konyha remekeit a város egyik hagyományos éttermében.",
         "ro": "Ziua dvs. în Písek începe în Piața Mare plină de viață. Dimineața explorați inima istorică a orașului, inclusiv cel mai vechi pod din Cehia și castelul gotic. După prânz, vă scufundați în lumea interactivă a Sladovna. După-amiaza este dedicată relaxării, cu o plimbare de-a lungul râului Otava și o vizită la hidrocentrala istorică. Seara, savurați bucătăria cehă la unul dintre restaurantele tradiționale ale orașului.",
-        "en": "Your day in Písek begins in the bustling Main Square. In the morning, you'll explore the historical heart of the city, including the Czech Republic's oldest bridge and the Gothic castle. After lunch, immerse yourself in the interactive world of Sladovna. The afternoon is dedicated to relaxation, with a walk along the Otava River and a visit to the historic power plant. In the evening, enjoy Bohemian cuisine at one of the city's traditional restaurants."
+        "en": "Your day in Písek begins in the bustling Main Square. In the morning, you'll explore the historical heart of the city, including the Czech Republic's oldest bridge and the Gothic castle. After lunch, immerse yourself in the interactive world of Sladovna. The afternoon is dedicated to relaxation, with a walk along the Otava River and a visit to the historic power plant. In the evening, enjoy Bohemian cuisine at one of the city's traditional restaurants.",
+        "cs": "Váš den v Písku začíná na rušném Náměstí. Dopoledne prozkoumáte historické srdce města, včetně nejstaršího mostu v ČR a gotického hradu. Po obědě se ponoříte do interaktivního světa Sladovny. Odpoledne je věnované odpočinku — procházka podél Otavy a návštěva historické elektrárny. Večer si pochutnáte na české kuchyni v jedné z tradičních městských restaurací."
       },
       "gastro_picks": {
         "de": [
@@ -393,6 +410,12 @@
           "Most sights in the center are within easy walking distance.",
           "Plan extra time for the Prácheň Museum inside the castle; it's quite extensive.",
           "A late afternoon walk along the river offers wonderful photo opportunities."
+        ],
+        "cs": [
+          "Noste pohodlnou obuv — dlažba ve starém městě může být nerovná.",
+          "Většina památek v centru je v pohodlné pěší vzdálenosti.",
+          "Naplánujte si více času na Muzeum Prácheň v hradu; je poměrně rozsáhlé.",
+          "Pozdně odpolední procházka podél řeky nabízí skvělé možnosti pro fotografie."
         ]
       },
       "variants": {
@@ -401,7 +424,8 @@
             "de": "Beginnen Sie den Tag unter den Arkaden des Hauptplatzes. Mittags bieten die dicken Mauern der Burg Písek und die interaktive Mälzerei (Sladovna) perfekten Schutz vor dem Regen. Am Nachmittag erkunden Sie das historische Wasserkraftwerk im Trockenen. Der Abend endet mit einem atmosphärischen Spaziergang über die Steinbrücke, deren Statuen im Regen besonders mystisch wirken.",
             "hu": "Kezdje a reggelt a főtér árkádjai alatt, védve az esőtől. Délben a píseki vár vastag falai és a Sladovna interaktív kiállításai nyújtanak menedéket. Délután a történelmi vízerőmű géptermeiben kalandozhat szárazon. Az este a Kőhídon zárul, ahol az esőcseppek és a fények játéka különleges hangulatot áraszt a legrégebbi cseh hídon.",
             "ro": "Începeți dimineața sub arcadele pieței principale. La prânz, zidurile groase ale castelului Písek și expozițiile de la Sladovna oferă adăpost perfect împotriva ploii. După-amiaza este dedicată centralei hidroelectrice istorice, vizitată la interior. Seara se încheie pe Podul de Piatră, unde reflexiile ploii pe statui creează o atmosferă mistică.",
-            "en": "Start your morning under the arches of the Main Square to stay dry. Midday offers a perfect refuge inside the Písek Castle and the interactive Malthouse (Sladovna). Afternoon explores the historic hydroelectric power plant's interior. Evening concludes with an atmospheric walk across the Stone Bridge, where the rain adds a unique glow to the historic statues."
+            "en": "Start your morning under the arches of the Main Square to stay dry. Midday offers a perfect refuge inside the Písek Castle and the interactive Malthouse (Sladovna). Afternoon explores the historic hydroelectric power plant's interior. Evening concludes with an atmospheric walk across the Stone Bridge, where the rain adds a unique glow to the historic statues.",
+            "cs": "Ráno začněte pod arkádami Náměstí, abyste zůstali v suchu. O poledne je ideálním útočištěm hrad v Písku a interaktivní Sladovna. Odpoledne prozkoumávejte interiér historické vodní elektrárny. Večer zakončete atmosférickou procházkou po Kamenném mostě, kde déšť dodává historickým sochám zvláštní zář."
           },
           "stops": [
             {
@@ -410,7 +434,8 @@
                 "de": "Nutzen Sie die Arkaden der umliegenden Häuser als Regenschutz.",
                 "hu": "Használja a környező házak árkádjait esernyő helyett.",
                 "ro": "Folosiți arcadele caselor din jur ca protecție împotriva ploii.",
-                "en": "Use the historical arcades of the surrounding buildings for shelter."
+                "en": "Use the historical arcades of the surrounding buildings for shelter.",
+                "cs": "Využijte historické arkády okolních budov jako úkryt."
               }
             },
             {
@@ -419,7 +444,8 @@
                 "de": "Das Barockgebäude ist ein guter Ort für ein kurzes Foto im Trockenen.",
                 "hu": "A barokk épület előtt az eresz alatt is készíthető fotó.",
                 "ro": "Clădirea barocă oferă un refugiu scurt pentru fotografii.",
-                "en": "The baroque facade provides a quick sheltered spot for photos."
+                "en": "The baroque facade provides a quick sheltered spot for photos.",
+                "cs": "Barokní fasáda poskytuje rychlé kryté místo pro fotografie."
               }
             },
             {
@@ -428,7 +454,8 @@
                 "de": "Der Innenraum ist ideal, um einen starken Schauer abzuwarten.",
                 "hu": "A templom belső tere tökéletes egy erősebb zápor idejére.",
                 "ro": "Interiorul bisericii este ideal pentru a aștepta trecerea unei ploi.",
-                "en": "The church interior is a peaceful place to wait out a heavy downpour."
+                "en": "The church interior is a peaceful place to wait out a heavy downpour.",
+                "cs": "Interiér kostela je klidné místo pro přečkání silné přeháňky."
               }
             },
             {
@@ -437,7 +464,8 @@
                 "de": "Die Ausstellungen des Prachiner Museums sind komplett überdacht.",
                 "hu": "A Prácheňské múzeum kiállításai teljesen fedettek.",
                 "ro": "Expozițiile Muzeului Prácheň sunt complet acoperite.",
-                "en": "The Prácheň Museum exhibitions are entirely indoors and dry."
+                "en": "The Prácheň Museum exhibitions are entirely indoors and dry.",
+                "cs": "Expozice Muzea Prácheň jsou zcela v interiéru a suché."
               }
             },
             {
@@ -446,7 +474,8 @@
                 "de": "Vorsicht, das historische Kopfsteinpflaster kann bei Nässe rutschig sein.",
                 "hu": "Vigyázat, a történelmi macskakő vizesen csúszós lehet.",
                 "ro": "Atenție, pavajul istoric poate deveni alunecos când este ud.",
-                "en": "Be careful, the historic cobblestones can be slippery when wet."
+                "en": "Be careful, the historic cobblestones can be slippery when wet.",
+                "cs": "Buďte opatrní, historické dlažební kostky mohou být za mokra kluzké."
               }
             },
             {
@@ -455,7 +484,8 @@
                 "de": "Ein hervorragendes Kulturzentrum für Familien bei schlechtem Wetter.",
                 "hu": "Kiváló kulturális központ családoknak rossz idő esetén.",
                 "ro": "Un centru cultural excelent pentru familii pe vreme rea.",
-                "en": "An excellent cultural hub for families during rainy weather."
+                "en": "An excellent cultural hub for families during rainy weather.",
+                "cs": "Vynikající kulturní centrum pro rodiny za deštivého počasí."
               }
             },
             {
@@ -464,7 +494,8 @@
                 "de": "Die Besichtigung der alten Turbinen findet im Innenbereich statt.",
                 "hu": "A régi turbinák megtekintése fedett térben történik.",
                 "ro": "Vizitarea turbinelor vechi are loc în interior.",
-                "en": "The tour of the vintage turbines is fully sheltered indoors."
+                "en": "The tour of the vintage turbines is fully sheltered indoors.",
+                "cs": "Prohlídka starých turbín probíhá kompletně v suchu uvnitř budovy."
               }
             },
             {
@@ -473,7 +504,8 @@
                 "de": "Die asphaltierten Wege vermeiden Matsch, aber Pfützen bilden sich.",
                 "hu": "Az aszfaltozott utak sármentesek, de tócsák kialakulhatnak.",
                 "ro": "Aleile asfaltate evită noroiul, dar se pot forma bălți.",
-                "en": "Paved paths prevent mud, but watch out for forming puddles."
+                "en": "Paved paths prevent mud, but watch out for forming puddles.",
+                "cs": "Zpevněné cesty zabrání blátu, ale dávejte pozor na vznikající kaluže."
               }
             }
           ],
@@ -501,6 +533,12 @@
               "The Malthouse (Sladovna) has lockers for wet coats and bags.",
               "The Stone Bridge offers no shelter; time your photos between showers.",
               "Local cafes around the square are perfect for drying off."
+            ],
+            "cs": [
+              "Přineste větruodolný deštník — u řeky může být silný vítr.",
+              "Sladovna má skříňky na mokré kabáty a tašky.",
+              "Kamenný most nenabízí úkryt; plánujte focení mezi přeháňkami.",
+              "Místní kavárny kolem náměstí jsou ideální na vysušení se."
             ]
           }
         },
@@ -509,7 +547,8 @@
             "de": "Ein frostiger Morgen auf dem weiß bepuderten Hauptplatz. Mittags wärmen Sie sich in den Galerien der Burg Písek auf. Der Nachmittag am Flussufer ist kurz, da die Sonne früh über der Otava untergeht. Den Abend verbringen Sie bei einem Heißgetränk in der Nähe der beleuchteten Steinbrücke, während das Eis auf dem Wasser glitzert.",
             "hu": "Deres reggel a fehérbe öltözött főtéren. Délben a píseki vár fűtött galériáiban melegedhetünk fel. A délutáni folyóparti séta rövid, mert a nap korán nyugszik az Otava felett. Az estét töltsük egy forró ital mellett a kivilágított Kőhíd közelében, figyelve a jég csillogását a vízen.",
             "ro": "O dimineață geroasă în piața principală pudrată de brumă. La prânz, încălziți-vă în galeriile castelului Písek. După-amiaza pe malul râului este scurtă, soarele apunând devreme peste Otava. Seara este rezervată unei băuturi calde lângă Podul de Piatră iluminat, admirând gheața de pe râu.",
-            "en": "A crisp morning on the frost-covered Main Square. Midday is best spent in the heated galleries of the Písek Castle. The afternoon walk along the river is short as the sun sets early over the Otava. Spend the evening with a warm drink near the illuminated Stone Bridge, enjoying the winter lights reflecting on the ice."
+            "en": "A crisp morning on the frost-covered Main Square. Midday is best spent in the heated galleries of the Písek Castle. The afternoon walk along the river is short as the sun sets early over the Otava. Spend the evening with a warm drink near the illuminated Stone Bridge, enjoying the winter lights reflecting on the ice.",
+            "cs": "Čerstvé mrazivé ráno na náměstí pokrytém námrazou. O poledni je nejlepší být v vytopených galeriích hradu v Písku. Odpolední procházka podél řeky je krátká, protože slunce brzy zapadá nad Otavou. Večer si dejte teplý nápoj u osvětleného Kamenného mostu a užijte si zimní světla odrážející se na ledu."
           },
           "stops": [
             {
@@ -518,7 +557,8 @@
                 "de": "Oft gibt es hier im Winter kleine Stände mit Heißgetränken.",
                 "hu": "Télen gyakran találunk itt forró italt árusító bódékat.",
                 "ro": "Iarna există adesea standuri cu băuturi calde în piață.",
-                "en": "You can often find small stalls serving hot drinks here in winter."
+                "en": "You can often find small stalls serving hot drinks here in winter.",
+                "cs": "V zimě tu často najdete malé stánky s horkými nápoji."
               }
             },
             {
@@ -527,7 +567,8 @@
                 "de": "Die Fassade wird bei früh einsetzender Dunkelheit schön beleuchtet.",
                 "hu": "A homlokzat a korai sötétedéskor gyönyörű díszkivilágítást kap.",
                 "ro": "Fațada este frumos iluminată odată cu lăsarea timpurie a serii.",
-                "en": "The facade is beautifully illuminated during the early sunset."
+                "en": "The facade is beautifully illuminated during the early sunset.",
+                "cs": "Fasáda je krásně nasvícená při brzkém západu slunce."
               }
             },
             {
@@ -536,7 +577,8 @@
                 "de": "Achtung, in Kirchen ist es im Winter oft sehr kalt.",
                 "hu": "Figyelem, a templomok belseje télen gyakran igen hideg.",
                 "ro": "Atenție, interiorul bisericilor este adesea foarte rece iarna.",
-                "en": "Be aware that church interiors can be quite cold in winter."
+                "en": "Be aware that church interiors can be quite cold in winter.",
+                "cs": "Mějte na paměti, že interiéry kostelů mohou být v zimě dost chladné."
               }
             },
             {
@@ -545,7 +587,8 @@
                 "de": "Die Innenräume sind beheizt und bieten eine angenehme Pause.",
                 "hu": "A belső terek fűtöttek, kellemes pihenőt nyújtanak a hideg után.",
                 "ro": "Interioarele sunt încălzite, oferind o pauză binevenită de la frig.",
-                "en": "The indoor spaces are heated, providing a cozy break from the cold."
+                "en": "The indoor spaces are heated, providing a cozy break from the cold.",
+                "cs": "Vnitřní prostory jsou vytápěné a poskytnou útulnou přestávku od mrazu."
               }
             },
             {
@@ -554,7 +597,8 @@
                 "de": "Vorsicht vor Glatteis auf dem Brückenpflaster.",
                 "hu": "Vigyázzon a hídon esetlegesen kialakuló jegesedésre.",
                 "ro": "Atenție la poleiul care se poate forma pe pavajul podului.",
-                "en": "Watch out for potential black ice on the bridge's cobblestones."
+                "en": "Watch out for potential black ice on the bridge's cobblestones.",
+                "cs": "Dejte pozor na možnou černou ledovku na dlažebních kostkách mostu."
               }
             },
             {
@@ -563,7 +607,8 @@
                 "de": "Perfekt, um den kältesten Teil des Tages im Warmen zu verbringen.",
                 "hu": "Tökéletes hely a nap leghidegebb óráinak átvészelésére.",
                 "ro": "Perfect pentru a petrece cea mai rece parte a zilei la căldură.",
-                "en": "Perfect for spending the coldest part of the day indoors."
+                "en": "Perfect for spending the coldest part of the day indoors.",
+                "cs": "Ideální pro trávení nejchladnější části dne uvnitř."
               }
             },
             {
@@ -572,7 +617,8 @@
                 "de": "Prüfen Sie die Winteröffnungszeiten vorab.",
                 "hu": "Ellenőrizze előre a téli nyitvatartási időt.",
                 "ro": "Verificați programul de iarnă în prealabil.",
-                "en": "Check the winter opening hours in advance before visiting."
+                "en": "Check the winter opening hours in advance before visiting.",
+                "cs": "Před návštěvou si ověřte zimní otevírací doby."
               }
             },
             {
@@ -581,7 +627,8 @@
                 "de": "Die Wege können bei Schnee geräumt, aber rutschig sein.",
                 "hu": "A padok hidegek lehetnek, a séta a mozgásról szóljon.",
                 "ro": "Aleile pot fi curățate de zăpadă, dar rămân alunecoase.",
-                "en": "Paths are usually cleared of snow but can remain slippery."
+                "en": "Paths are usually cleared of snow but can remain slippery.",
+                "cs": "Cesty jsou obvykle odhrnuté, ale mohou zůstat kluzké."
               }
             }
           ],
@@ -609,6 +656,12 @@
               "The sun sets as early as 4:00 PM in mid-winter.",
               "Some local cafes may have shorter winter operating hours.",
               "Wear shoes with good grip to handle frosty patches."
+            ],
+            "cs": [
+              "Teplé vrstvy jsou nezbytné — říční vánek zesiluje chlad.",
+              "V polovině zimy slunce zapadá už kolem 16:00.",
+              "Některé místní kavárny mohou mít v zimě omezenou otevírací dobu.",
+              "Noste obuv s dobrým podrážím kvůli namrzlým místům."
             ]
           }
         }
@@ -627,7 +680,8 @@
             "de": "Großer Platz",
             "hu": "Fő tér",
             "ro": "Piața Mare",
-            "en": "Main Square"
+            "en": "Main Square",
+            "cs": "Náměstí"
           },
           "coords": [
             14.1475,
@@ -643,7 +697,8 @@
             "de": "Starten Sie mit einem Überblick über die Altstadt, bevor Sie in die Pedale treten.",
             "hu": "Kezdje a napot a Fő téren, mielőtt nyeregbe pattan.",
             "ro": "Începeți cu o privire de ansamblu asupra centrului vechi înainte de a pedala.",
-            "en": "Start with an overview of the old town before you start pedaling."
+            "en": "Start with an overview of the old town before you start pedaling.",
+            "cs": "Začněte přehledem starého města, než usednete na kolo."
           }
         },
         {
@@ -651,7 +706,8 @@
             "de": "Steinerne Brücke",
             "hu": "Kőhíd",
             "ro": "Podul de Piatră",
-            "en": "Stone Bridge"
+            "en": "Stone Bridge",
+            "cs": "Kamenný most"
           },
           "coords": [
             14.145,
@@ -667,7 +723,8 @@
             "de": "Überqueren Sie die Brücke und genießen Sie die Aussicht auf den Fluss Otava.",
             "hu": "Keljen át a hídon, és élvezze az Otava folyóra nyíló kilátást.",
             "ro": "Traversați podul și bucurați-vă de vederea asupra râului Otava.",
-            "en": "Cross the bridge and enjoy the view of the Otava River."
+            "en": "Cross the bridge and enjoy the view of the Otava River.",
+            "cs": "Přejděte most a vychutnejte si výhled na řeku Otavu."
           }
         },
         {
@@ -675,7 +732,8 @@
             "de": "Burg Písek",
             "hu": "Píseki vár",
             "ro": "Castelul Písek",
-            "en": "Písek Castle"
+            "en": "Písek Castle",
+            "cs": "Hrad Písek"
           },
           "coords": [
             14.1465,
@@ -691,7 +749,8 @@
             "de": "Schließen Sie Ihr Fahrrad an und erkunden Sie das Museum im Inneren.",
             "hu": "Zárja le a kerékpárját, és fedezze fel a benne található múzeumot.",
             "ro": "Legați-vă bicicleta și explorați muzeul din interior.",
-            "en": "Lock up your bike and explore the museum inside."
+            "en": "Lock up your bike and explore the museum inside.",
+            "cs": "Zamkněte kolo a prozkoumejte muzeum uvnitř."
           }
         },
         {
@@ -699,7 +758,8 @@
             "de": "Städtisches Wasserkraftwerk",
             "hu": "Városi vízerőmű",
             "ro": "Hidrocentrala Municipală",
-            "en": "Municipal Hydroelectric Power Plant"
+            "en": "Municipal Hydroelectric Power Plant",
+            "cs": "Městská vodní elektrárna"
           },
           "coords": [
             14.1442,
@@ -715,7 +775,8 @@
             "de": "Eine kurze Radtour flussabwärts zu diesem technischen Wunderwerk.",
             "hu": "Egy rövid biciklitúra a folyón lefelé ehhez a műszaki csodához.",
             "ro": "O scurtă plimbare cu bicicleta în aval spre această minune tehnică.",
-            "en": "A short bike ride downstream to this technical marvel."
+            "en": "A short bike ride downstream to this technical marvel.",
+            "cs": "Krátká jízda na kole po proudu k této technické zajímavosti."
           }
         },
         {
@@ -723,7 +784,8 @@
             "de": "Putim-Tor",
             "hu": "Putimi kapu",
             "ro": "Poarta Putim",
-            "en": "Putim Gate"
+            "en": "Putim Gate",
+            "cs": "Putimská brána"
           },
           "coords": [
             14.144,
@@ -739,7 +801,8 @@
             "de": "Eines der erhaltenen Tore der mittelalterlichen Stadtbefestigung.",
             "hu": "A középkori városfal egyik fennmaradt kapuja.",
             "ro": "Una dintre porțile conservate ale fortificațiilor medievale ale orașului.",
-            "en": "One of the preserved gates of the medieval city fortifications."
+            "en": "One of the preserved gates of the medieval city fortifications.",
+            "cs": "Jedna z dochovaných bran městského středověkého opevnění."
           }
         },
         {
@@ -747,7 +810,8 @@
             "de": "Palacký-Anlagen",
             "hu": "Palacký park",
             "ro": "Parcul Palacký",
-            "en": "Palacký Gardens"
+            "en": "Palacký Gardens",
+            "cs": "Palackého sady"
           },
           "coords": [
             14.152,
@@ -763,7 +827,8 @@
             "de": "Perfekt für eine Mittagspause. Fahren Sie den Radweg entlang des Flusses.",
             "hu": "Tökéletes egy ebédszünethez. Tekerjen a folyó menti kerékpárúton.",
             "ro": "Perfect pentru o pauză de prânz. Pedalați pe pista de biciclete de-a lungul râului.",
-            "en": "Perfect for a lunch break. Ride the bike path along the river."
+            "en": "Perfect for a lunch break. Ride the bike path along the river.",
+            "cs": "Perfektní pro obědovou přestávku. Jezdit po cyklostezce podél řeky."
           }
         },
         {
@@ -771,7 +836,8 @@
             "de": "St.-Wenzels-Kirche",
             "hu": "Szent Vencel-templom",
             "ro": "Biserica Sfântul Venceslau",
-            "en": "St. Wenceslas Church"
+            "en": "St. Wenceslas Church",
+            "cs": "Kostel sv. Václava"
           },
           "coords": [
             14.155,
@@ -787,7 +853,8 @@
             "de": "Eine etwas längere Radtour zu dieser schönen Kirche am Stadtrand.",
             "hu": "Egy kicsit hosszabb biciklitúra ehhez a szép templomhoz a város szélén.",
             "ro": "O plimbare puțin mai lungă cu bicicleta până la această biserică frumoasă de la marginea orașului.",
-            "en": "A slightly longer bike ride to this beautiful church on the outskirts."
+            "en": "A slightly longer bike ride to this beautiful church on the outskirts.",
+            "cs": "O něco delší vyjížďka na kole k tomuto krásnému kostelu na okraji města."
           }
         }
       ],
@@ -795,7 +862,8 @@
         "de": "Entdecken Sie Písek auf zwei Rädern. Ihr Vormittag führt Sie über die historische Steinerne Brücke zur Burg und weiter zu technischen Denkmälern. Genießen Sie die Flexibilität, die Ihnen das Fahrrad bietet. Nach dem Mittagessen in den Palacký-Anlagen radeln Sie durch die grünen Zonen der Stadt. Die Tour endet an der ruhigen St.-Wenzels-Kirche, von wo aus Sie einen letzten Blick auf Písek werfen können, bevor Sie den Abend ausklingen lassen.",
         "hu": "Fedezze fel Píseket két keréken. A délelőtt a történelmi Kőhídon át a várhoz, majd tovább a műszaki emlékekhez vezet. Élvezze a kerékpár nyújtotta rugalmasságot. Ebéd után a Palacký parkban pihenhet, majd a város zöld területein tekerhet. A túra a csendes Szent Vencel-templomnál ér véget, ahonnan még egy utolsó pillantást vethet Písekre, mielőtt lezárja az estét.",
         "ro": "Descoperiți Písek pe două roți. Dimineața vă poartă peste istoricul Pod de Piatră spre castel și mai departe spre monumentele tehnice. Bucurați-vă de flexibilitatea oferită de bicicletă. După prânzul în Parcul Palacký, pedalați prin zonele verzi ale orașului. Turul se încheie la liniștita Biserică Sf. Venceslau, de unde puteți arunca o ultimă privire asupra Písekului înainte de a încheia seara.",
-        "en": "Discover Písek on two wheels. Your morning takes you across the historic Stone Bridge to the castle and on to technical monuments. Enjoy the flexibility that the bicycle offers. After lunch in the Palacký Gardens, you'll cycle through the city's green zones. The tour ends at the peaceful St. Wenceslas Church, where you can take one last look at Písek before ending the evening."
+        "en": "Discover Písek on two wheels. Your morning takes you across the historic Stone Bridge to the castle and on to technical monuments. Enjoy the flexibility that the bicycle offers. After lunch in the Palacký Gardens, you'll cycle through the city's green zones. The tour ends at the peaceful St. Wenceslas Church, where you can take one last look at Písek before ending the evening.",
+        "cs": "Objevujte Písek na dvou kolech. Dopoledne vás zavede přes historický Kamenný most na hrad a k technickým památkám. Užijte si flexibilitu, kterou kolo nabízí. Po obědě v Palackého sadech projetíte městské zelené zóny. Trasa končí u poklidného kostela sv. Václava, kde se můžete naposledy rozhlédnout po Písku před ukončením dne."
       },
       "gastro_picks": {
         "de": [
@@ -975,6 +1043,12 @@
           "A good lock is essential, especially when visiting sights.",
           "The city is relatively flat, which makes for pleasant cycling.",
           "Bring water, especially for the longer ride to St. Wenceslas Church."
+        ],
+        "cs": [
+          "Zkontrolujte cyklostezky podél řeky; jsou dobře udržované.",
+          "Dobrý zámek je nezbytný, zvlášť při návštěvě památek.",
+          "Město je relativně rovné, což dělá cyklistiku příjemnou.",
+          "Vezměte si vodu, zvlášť na delší jízdu ke kostelu sv. Václava."
         ]
       },
       "variants": {
@@ -983,7 +1057,8 @@
             "de": "Eine erfrischende Fahrt durch das regnerische Písek. Am Vormittag gleiten Sie über die Steinbrücke zur Burg, während die Reifen auf dem nassen Pflaster surren. Mittags bietet die Mälzerei eine trockene Basis. Der Nachmittag führt am Fluss entlang zum Kraftwerk, wobei Regenponchos heute Ihre besten Begleiter sind.",
             "hu": "Frissítő tekerés az esős Píseken át. Délelőtt a Kőhídon és a vár környékén suhanunk, miközben a gumik zúgnak a vizes aszfalton. Délben a Sladovna nyújt száraz pihenőt. Délután a folyó mentén tekerünk az erőműhöz; ma a biciklis esőpáncél a legjobb barátunk.",
             "ro": "O tură revigorantă prin Písek-ul ploios. Dimineața traversați Podul de Piatră spre castel, cu roțile zumzăind pe asfaltul ud. La prânz, fabrica de malț oferă un popas uscat. După-amiaza continuă pe malul râului spre centrală; pelerina de ploaie este esențială astăzi.",
-            "en": "A refreshing ride through rainy Písek. In the morning, glide across the Stone Bridge towards the Castle while tires hum on the wet pavement. Midday offers a dry base at the Malthouse. The afternoon leads along the river to the power plant; rain ponchos are your best companions today."
+            "en": "A refreshing ride through rainy Písek. In the morning, glide across the Stone Bridge towards the Castle while tires hum on the wet pavement. Midday offers a dry base at the Malthouse. The afternoon leads along the river to the power plant; rain ponchos are your best companions today.",
+            "cs": "Osvěžující jízda deštivým Pískem. Ráno přejedete Kamenný most směrem na hrad, zatímco pneumatiky šumí na mokrém povrchu. O poledni najdete suché zázemí ve Sladovně. Odpoledne vede stezka podél řeky k elektrárně; pláštěnky budou dnes vašimi nejlepšími společníky."
           },
           "stops": [
             {
@@ -992,7 +1067,8 @@
                 "de": "Vorsicht beim Anfahren auf nassem Granitpflaster.",
                 "hu": "Vigyázzon az induláskor a vizes gránitköveken.",
                 "ro": "Atenție la plecarea de pe loc pe pavajul de granit ud.",
-                "en": "Be careful when starting off on wet granite cobblestones."
+                "en": "Be careful when starting off on wet granite cobblestones.",
+                "cs": "Buďte opatrní při rozjezdu na mokrých žulových dlažebních kostkách."
               }
             },
             {
@@ -1001,7 +1077,8 @@
                 "de": "Schieben Sie das Rad bei starkem Regen über die Brücke.",
                 "hu": "Erős esőben érdemesebb áttolni a kerékpárt a hídon.",
                 "ro": "E mai sigur să împingeți bicicleta pe pod în caz de ploaie grea.",
-                "en": "Consider walking your bike across the bridge during heavy rain."
+                "en": "Consider walking your bike across the bridge during heavy rain.",
+                "cs": "Při silném dešti zvažte přenesení kola přes most pěšky."
               }
             },
             {
@@ -1010,7 +1087,8 @@
                 "de": "Es gibt Fahrradständer im Innenhof, die teils geschützt sind.",
                 "hu": "A belső udvarban találhatók részben fedett kerékpártárolók.",
                 "ro": "Există rastele de biciclete parțial protejate în curte.",
-                "en": "There are bike racks in the courtyard, some partially sheltered."
+                "en": "There are bike racks in the courtyard, some partially sheltered.",
+                "cs": "V baráku jsou stojany na kola na nádvoří, některé částečně kryté."
               }
             },
             {
@@ -1019,7 +1097,8 @@
                 "de": "Der Weg am Flussufer kann Pfützen aufweisen.",
                 "hu": "A folyóparti kerékpárúton tócsákra kell számítani.",
                 "ro": "Pista de biciclete de pe mal poate avea bălți mari.",
-                "en": "Expect puddles on the riverside cycling path."
+                "en": "Expect puddles on the riverside cycling path.",
+                "cs": "Na cyklostezce u řeky očekávejte kaluže."
               }
             },
             {
@@ -1028,7 +1107,8 @@
                 "de": "Enge Durchfahrt, bei Nässe besonders vorsichtig lenken.",
                 "hu": "Szűk áthajtó, nedves időben óvatosan manőverezzen.",
                 "ro": "Pasaj îngust, virați cu atenție sporită pe ud.",
-                "en": "Narrow passage; steer carefully in wet conditions."
+                "en": "Narrow passage; steer carefully in wet conditions.",
+                "cs": "Úzké průjezdní místo; za deště jezděte opatrně."
               }
             },
             {
@@ -1037,7 +1117,8 @@
                 "de": "Meiden Sie unbefestigte Wege, um Matsch zu verhindern.",
                 "hu": "Kerülje a burkolatlan utakat a sár elkerülése érdekében.",
                 "ro": "Evitați potecile neamenajate pentru a nu intra în noroi.",
-                "en": "Avoid unpaved paths to stay clear of mud."
+                "en": "Avoid unpaved paths to stay clear of mud.",
+                "cs": "Vyhněte se nezpevněným cestám, abyste se vyhnuli blátu."
               }
             },
             {
@@ -1046,7 +1127,8 @@
                 "de": "Der Anstieg zur Kirche ist auf nassem Grund anstrengender.",
                 "hu": "A templomhoz vezető emelkedő csúszós talajon nehezebb.",
                 "ro": "Urcarea spre biserică e mai solicitantă pe teren umed.",
-                "en": "The climb to the church is more tiring on a damp surface."
+                "en": "The climb to the church is more tiring on a damp surface.",
+                "cs": "Stoupání ke kostelu je na vlhkém povrchu náročnější."
               }
             }
           ],
@@ -1074,6 +1156,12 @@
               "Brake early and gently on cobblestone sections.",
               "Waterproof panniers will keep your belongings dry.",
               "Use the bridge underpass for a quick break from the rain."
+            ],
+            "cs": [
+              "Blatníky (mudguardy) jsou v tomto počasí nezbytné.",
+              "Brzděte včas a opatrně na dlažebních úsecích.",
+              "Voděodolné brašny udrží vaše věci v suchu.",
+              "Využijte podjezd pod mostem pro krátký úkryt před deštěm."
             ]
           }
         },
@@ -1082,7 +1170,8 @@
             "de": "Eine sportliche Wintertour durch das kalte Písek. Die klare Luft am Morgen lässt den Hauptplatz glänzen. Mittags ist eine lange Aufwärmpause im Schloss oder der Mälzerei nötig. Die Fahrt am Fluss bietet wunderschöne frostige Ansichten, erfordert aber volle Konzentration auf den Untergrund.",
             "hu": "Sportos téli túra a hideg Píseken. A reggeli friss levegőben ragyog a főtér. Napközben hosszabb melegedő szünetet tartunk a várban vagy a Sladovnában. A folyóparti tekerés csodás jeges látványt nyújt, de teljes koncentrációt igényel az útviszonyok miatt.",
             "ro": "O tură sportivă de iarnă prin frigul din Písek. Aerul curat de dimineață face piața să strălucească. La prânz e necesară o pauză lungă de încălzire la castel. Traseul pe malul râului oferă vederi înghețate superbe, dar necesită atenție sporită la drum.",
-            "en": "A sporty winter tour through cold Písek. The crisp morning air makes the Main Square sparkle. Midday requires a long warm-up break at the Castle or Malthouse. The riverside ride offers beautiful frosty views but demands full concentration on the road surface."
+            "en": "A sporty winter tour through cold Písek. The crisp morning air makes the Main Square sparkle. Midday requires a long warm-up break at the Castle or Malthouse. The riverside ride offers beautiful frosty views but demands full concentration on the road surface.",
+            "cs": "Sportovní zimní vyjížďka chladným Pískem. Ranní chladné ovzduší nechá náměstí jiskřit. O poledni si dejte dlouhou rozcvičku u hradu nebo ve Sladovně. Jízda podél řeky nabízí krásné mrazivé výhledy, ale vyžaduje plné soustředění na povrch silnice."
           },
           "stops": [
             {
@@ -1091,7 +1180,8 @@
                 "de": "Das Pflaster kann morgens mit Reif überzogen sein.",
                 "hu": "A kövezet reggelente zúzmarás, csúszós lehet.",
                 "ro": "Pavajul poate fi acoperit cu promoroacă dimineața.",
-                "en": "The cobblestones may be covered in hoarfrost in the morning."
+                "en": "The cobblestones may be covered in hoarfrost in the morning.",
+                "cs": "Ráno mohou být dlažební kostky pokryté jinovatkou."
               }
             },
             {
@@ -1100,7 +1190,8 @@
                 "de": "Fahren Sie hier besonders langsam, Sturzgefahr bei Eis.",
                 "hu": "Itt tekerjen különösen lassan, jegesedésnél esésveszély.",
                 "ro": "Circulați foarte încet aici, risc de cădere pe gheață.",
-                "en": "Ride extremely slowly here; high risk of falling on ice."
+                "en": "Ride extremely slowly here; high risk of falling on ice.",
+                "cs": "Jezděte zde velmi pomalu; vysoké riziko pádu na ledu."
               }
             },
             {
@@ -1109,7 +1200,8 @@
                 "de": "Nutzen Sie den Museumsbesuch zum Aufwärmen der Hände.",
                 "hu": "Használja ki a múzeumlátogatást a kezei felmelegítésére.",
                 "ro": "Folosiți vizita la muzeu pentru a vă încălzi mâinile.",
-                "en": "Use the museum visit to warm up your hands and feet."
+                "en": "Use the museum visit to warm up your hands and feet.",
+                "cs": "Návštěva muzea je vhodná pro ohřátí rukou a nohou."
               }
             },
             {
@@ -1118,7 +1210,8 @@
                 "de": "Der Weg entlang der Otava ist im Winter oft windgepeitscht.",
                 "hu": "Az Otava menti út télen gyakran szeles és igen hideg.",
                 "ro": "Drumul de-a lungul râului Otava este adesea bătut de vânt.",
-                "en": "The path along the Otava is often wind-whipped and cold in winter."
+                "en": "The path along the Otava is often wind-whipped and cold in winter.",
+                "cs": "Cesta podél Otavy je v zimě často větrná a studená."
               }
             },
             {
@@ -1127,7 +1220,8 @@
                 "de": "Achten Sie auf Eiszapfen an historischen Mauern.",
                 "hu": "Figyeljen a történelmi falakról lelógó jégcsapokra.",
                 "ro": "Atenție la țurțurii de gheață de pe zidurile vechi.",
-                "en": "Watch out for icicles hanging from the historic walls."
+                "en": "Watch out for icicles hanging from the historic walls.",
+                "cs": "Dávejte pozor na rampouchy visící ze starých zdí."
               }
             },
             {
@@ -1136,7 +1230,8 @@
                 "de": "Einige Nebenwege werden im Winter nicht geräumt.",
                 "hu": "Néhány mellékutat télen nem takarítanak a parkban.",
                 "ro": "Unele alei secundare nu sunt curățate iarna.",
-                "en": "Some side paths in the park may not be cleared of snow."
+                "en": "Some side paths in the park may not be cleared of snow.",
+                "cs": "Některé vedlejší stezky v parku nemusí být odhrnuté od sněhu."
               }
             },
             {
@@ -1145,7 +1240,8 @@
                 "de": "Der Anstieg hält den Kreislauf warm, aber Vorsicht beim Abstieg.",
                 "hu": "Az emelkedő melegen tart, de lefelé vigyázzon a tempóval.",
                 "ro": "Urcarea vă menține cald, dar atenție la coborâre.",
-                "en": "The climb keeps your circulation going, but be careful descending."
+                "en": "The climb keeps your circulation going, but be careful descending.",
+                "cs": "Stoupání udrží cirkulaci v pohybu, ale při sjezdu buďte opatrní."
               }
             }
           ],
@@ -1173,6 +1269,12 @@
               "Check tire pressure; slightly lower pressure helps with grip on snow.",
               "E-bike batteries drain significantly faster in cold temperatures.",
               "Finish your ride before the early 4:00 PM winter sunset."
+            ],
+            "cs": [
+              "Noste termální rukavice a tenkou čepici pod helmou.",
+              "Zkontrolujte tlak v pneumatikách; mírně nižší tlak pomáhá s přilnavostí na sněhu.",
+              "Baterie u elektrokol se v chladu významně rychleji vybíjejí.",
+              "Ukončete jízdu před brzkým zimním západem slunce kolem 16:00."
             ]
           }
         }
@@ -1191,7 +1293,8 @@
             "de": "Parkplatz Altstadt (Cluster A)",
             "hu": "Parkoló, Óváros (A csoport)",
             "ro": "Parcare Centrul Vechi (Grup A)",
-            "en": "Old Town Parking (Cluster A)"
+            "en": "Old Town Parking (Cluster A)",
+            "cs": "Parkování Staré Město (Sektor A)"
           },
           "coords": [
             14.15,
@@ -1207,7 +1310,8 @@
             "de": "Parken Sie hier und erkunden Sie den ersten Teil der Stadt zu Fuß.",
             "hu": "Parkoljon le itt, és fedezze fel a város első részét gyalog.",
             "ro": "Parcați aici și explorați prima parte a orașului pe jos.",
-            "en": "Park here and explore the first part of the city on foot."
+            "en": "Park here and explore the first part of the city on foot.",
+            "cs": "Zaparkujte zde a první část města prozkoumejte pěšky."
           }
         },
         {
@@ -1215,7 +1319,8 @@
             "de": "Großer Platz",
             "hu": "Fő tér",
             "ro": "Piața Mare",
-            "en": "Main Square"
+            "en": "Main Square",
+            "cs": "Náměstí"
           },
           "coords": [
             14.1475,
@@ -1231,7 +1336,8 @@
             "de": "Der lebendige Mittelpunkt von Písek.",
             "hu": "Písek nyüzsgő központja.",
             "ro": "Centrul plin de viață al orașului Písek.",
-            "en": "The vibrant center of Písek."
+            "en": "The vibrant center of Písek.",
+            "cs": "Živé centrum Písku."
           }
         },
         {
@@ -1239,7 +1345,8 @@
             "de": "Kirche Mariä Geburt",
             "hu": "Szűz Mária Születése templom",
             "ro": "Biserica Nașterea Maicii Domnului",
-            "en": "Church of the Nativity of the Virgin Mary"
+            "en": "Church of the Nativity of the Virgin Mary",
+            "cs": "Kostel Narození Panny Marie"
           },
           "coords": [
             14.1488,
@@ -1255,7 +1362,8 @@
             "de": "Bewundern Sie den hohen Turm, der die Stadtsilhouette prägt.",
             "hu": "Csodálja meg a magas tornyot, amely meghatározza a város sziluettjét.",
             "ro": "Admirați turnul înalt care domină silueta orașului.",
-            "en": "Admire the tall tower that defines the city skyline."
+            "en": "Admire the tall tower that defines the city skyline.",
+            "cs": "Obdivujte vysokou věž, která definuje panorama města."
           }
         },
         {
@@ -1263,7 +1371,8 @@
             "de": "Burg Písek & Steinerne Brücke",
             "hu": "Píseki vár és Kőhíd",
             "ro": "Castelul Písek și Podul de Piatră",
-            "en": "Písek Castle & Stone Bridge"
+            "en": "Písek Castle & Stone Bridge",
+            "cs": "Písecký hrad & Kamenný most"
           },
           "coords": [
             14.146,
@@ -1279,7 +1388,8 @@
             "de": "Kombinieren Sie den Besuch der Burg mit einem Spaziergang über die historische Brücke.",
             "hu": "Kombinálja a várlátogatást egy sétával a történelmi hídon.",
             "ro": "Combinați vizita la castel cu o plimbare pe podul istoric.",
-            "en": "Combine the castle visit with a walk across the historic bridge."
+            "en": "Combine the castle visit with a walk across the historic bridge.",
+            "cs": "Spojte návštěvu hradu s procházkou po historickém mostě."
           }
         },
         {
@@ -1287,7 +1397,8 @@
             "de": "Mälzerei (Sladovna) (Cluster B)",
             "hu": "Malátaház (Sladovna) (B csoport)",
             "ro": "Malțeria (Sladovna) (Grup B)",
-            "en": "Malthouse (Sladovna) (Cluster B)"
+            "en": "Malthouse (Sladovna) (Cluster B)",
+            "cs": "Sladovna (Cluster B)"
           },
           "coords": [
             14.1482,
@@ -1303,7 +1414,8 @@
             "de": "Fahren Sie zum nächsten Cluster und parken Sie in der Nähe. Ein Spaß für die ganze Familie.",
             "hu": "Vezessen a következő csoporthoz, és parkoljon a közelben. Szórakozás az egész családnak.",
             "ro": "Conduceți la următorul grup și parcați în apropiere. Distracție pentru întreaga familie.",
-            "en": "Drive to the next cluster and park nearby. Fun for the whole family."
+            "en": "Drive to the next cluster and park nearby. Fun for the whole family.",
+            "cs": "Přijeďte do dalšího klastru a zaparkujte poblíž. Zábava pro celou rodinu."
           }
         },
         {
@@ -1311,7 +1423,8 @@
             "de": "Städtisches Wasserkraftwerk",
             "hu": "Városi vízerőmű",
             "ro": "Hidrocentrala Municipală",
-            "en": "Municipal Hydroelectric Power Plant"
+            "en": "Municipal Hydroelectric Power Plant",
+            "cs": "Městská vodní elektrárna"
           },
           "coords": [
             14.1442,
@@ -1327,7 +1440,8 @@
             "de": "Ein kurzer Spaziergang von der Sladovna, um dieses technische Denkmal zu sehen.",
             "hu": "Egy rövid séta a Sladovnától, hogy megnézze ezt a műszaki emléket.",
             "ro": "O scurtă plimbare de la Sladovna pentru a vedea acest monument tehnic.",
-            "en": "A short walk from the Sladovna to see this technical monument."
+            "en": "A short walk from the Sladovna to see this technical monument.",
+            "cs": "Krátká procházka od Sladovny k tomuto technickému památkovému objektu."
           }
         },
         {
@@ -1335,7 +1449,8 @@
             "de": "Písecké Hory Park (Cluster C)",
             "hu": "Písecké Hory Park (C csoport)",
             "ro": "Parcul Písecké Hory (Grup C)",
-            "en": "Písecké Hory Park (Cluster C)"
+            "en": "Písecké Hory Park (Cluster C)",
+            "cs": "Park Písecké Hory (Cluster C)"
           },
           "coords": [
             14.185,
@@ -1351,7 +1466,8 @@
             "de": "Eine kurze Fahrt in die nahen Wälder für einen entspannten Nachmittagsspaziergang.",
             "hu": "Egy rövid autóút a közeli erdőkbe egy pihentető délutáni sétáért.",
             "ro": "O scurtă călătorie cu mașina spre pădurile din apropiere pentru o plimbare relaxantă de după-amiază.",
-            "en": "A short drive to the nearby forests for a relaxing afternoon walk."
+            "en": "A short drive to the nearby forests for a relaxing afternoon walk.",
+            "cs": "Krátká jízda do nedalekých lesů na odpočinkovou odpolední procházku."
           }
         }
       ],
@@ -1359,7 +1475,8 @@
         "de": "Mit dem Auto haben Sie die Freiheit, Píseks Zentrum und die umliegende Natur zu kombinieren. Am Morgen parken Sie zentral und erkunden den historischen Kern zu Fuß: vom Großen Platz über die Burg bis zur Steinernen Brücke. Mittags fahren Sie zum zweiten Cluster, der Sladovna, die Spaß für alle Altersgruppen bietet. Der Nachmittag gehört der Natur, mit einer Fahrt in den Písecké Hory Park, wo Sie wandern und die Aussicht genießen können, bevor Sie für das Abendessen in die Stadt zurückkehren.",
         "hu": "Az autó szabadságot ad, hogy összekapcsolja Písek központját a környező természettel. Reggel parkoljon le a központban, és fedezze fel gyalog a történelmi magot: a Fő tértől a váron át a Kőhídig. Délben vezessen a második csoporthoz, a Sladovnához, amely minden korosztálynak szórakozást nyújt. A délután a természeté, egy kirándulással a Písecké Hory Parkba, ahol túrázhat és élvezheti a kilátást, mielőtt visszatérne a városba vacsorázni.",
         "ro": "Cu mașina, aveți libertatea de a combina centrul orașului Písek cu natura înconjurătoare. Dimineața, parcați central și explorați nucleul istoric pe jos: de la Piața Mare, la castel și Podul de Piatră. La prânz, conduceți spre al doilea grup, Sladovna, care oferă distracție pentru toate vârstele. După-amiaza este dedicată naturii, cu o excursie în Parcul Písecké Hory, unde puteți face drumeții și admira priveliștea înainte de a vă întoarce în oraș pentru cină.",
-        "en": "By car, you have the freedom to combine Písek's center with the surrounding nature. In the morning, park centrally and explore the historic core on foot: from the Main Square to the castle and the Stone Bridge. At noon, drive to the second cluster, the Sladovna, which offers fun for all ages. The afternoon is for nature, with a trip to the Písecké Hory Park for hiking and views, before returning to the city for dinner."
+        "en": "By car, you have the freedom to combine Písek's center with the surrounding nature. In the morning, park centrally and explore the historic core on foot: from the Main Square to the castle and the Stone Bridge. At noon, drive to the second cluster, the Sladovna, which offers fun for all ages. The afternoon is for nature, with a trip to the Písecké Hory Park for hiking and views, before returning to the city for dinner.",
+        "cs": "Autem máte volnost kombinovat centrum Písku s okolní přírodou. Ráno zaparkujte v centru a prozkoumejte historické jádro pěšky: od Náměstí přes hrad až po Kamenný most. V poledne se přesuňte do druhého klastru, Sladovny, která nabízí zábavu pro všechny věkové kategorie. Odpoledne patří přírodě: výlet do parku Písecké Hory na pěší túru a výhledy, než se vrátíte do města na večeři."
       },
       "gastro_picks": {
         "de": [
@@ -1539,6 +1656,12 @@
           "The cluster strategy saves time and parking searches.",
           "Allow enough time for the drive to Písecké Hory Park.",
           "A navigation device is helpful for finding parking lots near the clusters."
+        ],
+        "cs": [
+          "Zjistěte předem možnosti parkování a poplatky v centru města.",
+          "Strategie s klustry šetří čas a hledání parkování.",
+          "Vyhraďte si dostatek času na přejezd do Parku Písecké Hory.",
+          "Navigace usnadní nalezení parkovišť u jednotlivých klustrů."
         ]
       },
       "variants": {
@@ -1547,7 +1670,8 @@
             "de": "Eine komfortable Stadttour trotz Regen. Parken Sie zentral am Cluster A, um den Hauptplatz schnell zu erreichen. Mittags dient das Auto als trockener Transfer zwischen Burg und Mälzerei. Der Nachmittag am Kraftwerk ist dank der nahen Parkmöglichkeiten unkompliziert, bevor Sie den Tag im Písecke Hory Wald ausklingen lassen.",
             "hu": "Kényelmes városnézés esőben is. Parkoljon a központban az A-klaszternél a főtér gyors eléréséhez. Délben az autó száraz transzfert biztosít a vár és a Sladovna között. A délutáni erőmű-látogatás egyszerű a közeli parkolásnak köszönhetően, a napot pedig a Píseki-hegyek erdejében zárhatja.",
             "ro": "Un tur confortabil al orașului în ciuda ploii. Parcați central în Clusterul A pentru acces rapid. La prânz, mașina servește ca transfer uscat între castel și fabrica de malț. Vizita la centrală e facilă datorită parcării apropiate, iar ziua se încheie în pădurea Písecke Hory.",
-            "en": "A comfortable city tour despite the rain. Park centrally at Cluster A for quick access to the Main Square. Midday, the car serves as a dry shuttle between the Castle and the Malthouse. The afternoon visit to the power plant is easy with nearby parking before ending the day in the Písecke Hory forest."
+            "en": "A comfortable city tour despite the rain. Park centrally at Cluster A for quick access to the Main Square. Midday, the car serves as a dry shuttle between the Castle and the Malthouse. The afternoon visit to the power plant is easy with nearby parking before ending the day in the Písecke Hory forest.",
+            "cs": "Pohodlná městská vycházka i za deště. Zaparkujte v klastru A pro rychlý přístup na Náměstí. V poledne slouží auto jako suchý přesun mezi Hradem a Sladovnou. Odpolední návštěva elektrárny je snadná díky parkování poblíž před zakončením dne v lesích Píseckých Hor."
           },
           "stops": [
             {
@@ -1556,7 +1680,8 @@
                 "de": "Suchen Sie Plätze nahe dem Ausgang, um weniger im Regen zu laufen.",
                 "hu": "Keressen kijárathoz közeli helyet, hogy keveset kelljen áznia.",
                 "ro": "Căutați locuri lângă ieșire pentru a merge mai puțin prin ploaie.",
-                "en": "Look for spots near the exit to minimize walking in the rain."
+                "en": "Look for spots near the exit to minimize walking in the rain.",
+                "cs": "Hledejte místa blízko východu, abyste minimalizovali chůzi v dešti."
               }
             },
             {
@@ -1565,7 +1690,8 @@
                 "de": "Kurze Besichtigung, dann Rückzug in die Cafés.",
                 "hu": "Gyors városnézés, majd irány a fedett kávézók.",
                 "ro": "Vizită scurtă, apoi refugiați-vă în cafenele.",
-                "en": "Quick sightseeing, then retreat to the covered cafes."
+                "en": "Quick sightseeing, then retreat to the covered cafes.",
+                "cs": "Rychlé prohlídky památek a pak úkryt v krytých kavárnách."
               }
             },
             {
@@ -1574,7 +1700,8 @@
                 "de": "Vom Parkplatz Cluster A nur ein kurzer Fußweg.",
                 "hu": "A Cluster A parkolótól csak rövid séta esőben is.",
                 "ro": "Doar o scurtă plimbare de la parcarea Cluster A.",
-                "en": "Only a short walk from the Cluster A parking area."
+                "en": "Only a short walk from the Cluster A parking area.",
+                "cs": "Pouze krátká procházka z parkoviště klastru A."
               }
             },
             {
@@ -1583,7 +1710,8 @@
                 "de": "Nutzen Sie Parkplätze in der Nähe der Brücke.",
                 "hu": "Használja a hídhoz közeli parkolóhelyeket.",
                 "ro": "Utilizați locurile de parcare din apropierea podului.",
-                "en": "Utilize parking spaces located close to the bridge entrance."
+                "en": "Utilize parking spaces located close to the bridge entrance.",
+                "cs": "Využijte parkovací místa umístěná blízko vstupu na most."
               }
             },
             {
@@ -1592,7 +1720,8 @@
                 "de": "Direkte Zufahrt möglich, ideal bei starkem Guss.",
                 "hu": "Közvetlen behajtás lehetséges, ideális felhőszakadáskor.",
                 "ro": "Acces direct posibil, ideal în caz de aversă puternică.",
-                "en": "Direct access possible, ideal during heavy downpours."
+                "en": "Direct access possible, ideal during heavy downpours.",
+                "cs": "Možný přímý přístup, ideální při silných přeháňkách."
               }
             },
             {
@@ -1601,7 +1730,8 @@
                 "de": "Begrenzte Parkplätze direkt davor, sonst Cluster B nutzen.",
                 "hu": "Közvetlenül előtte kevés a hely, használja a Cluster B-t.",
                 "ro": "Locuri limitate chiar în față, altfel folosiți Cluster B.",
-                "en": "Limited spots directly in front; otherwise use Cluster B."
+                "en": "Limited spots directly in front; otherwise use Cluster B.",
+                "cs": "Přímo před objektem je omezený počet míst; jinak použijte klastr B."
               }
             },
             {
@@ -1610,7 +1740,8 @@
                 "de": "Die Waldwege können schlammig sein, bleiben Sie auf den Hauptwegen.",
                 "hu": "Az erdei utak sárosak lehetnek, maradjon a főutakon.",
                 "ro": "Drumurile de pădure pot fi noroioase, rămâneți pe cele principale.",
-                "en": "Forest paths can be muddy; stick to the main graded roads."
+                "en": "Forest paths can be muddy; stick to the main graded roads.",
+                "cs": "Lesní cesty mohou být blátivé; držte se hlavních udržovaných komunikací."
               }
             }
           ],
@@ -1638,6 +1769,12 @@
               "Keep an umbrella handy in the car door pocket.",
               "River views might be obscured by fogged-up windows.",
               "Cluster parking spots often fill up faster during rain."
+            ],
+            "cs": [
+              "Dejte pozor na aquaplaning na silnici do Píseckých Hor.",
+              "Mějte po ruce deštník v přihrádce u dveří auta.",
+              "Výhledy na řeku mohou být zastřené zamlženými okny.",
+              "Parkovací místa v klastrech se při dešti často rychle plní."
             ]
           }
         },
@@ -1646,7 +1783,8 @@
             "de": "Eine gemütliche Winterfahrt durch Südböhmen. Die beheizten Sitze machen den Weg zwischen den Sehenswürdigkeiten angenehm. Nach dem gefrorenen Hauptplatz am Morgen bietet das Schloss wohlige Wärme. Die Fahrt hinauf in die Písecker Berge bietet ein Winterwunderland, erfordert aber Winterausrüstung.",
             "hu": "Hangulatos téli autózás Dél-Csehországban. A fűtött ülések kellemessé teszik az utat a látnivalók között. A reggeli deres főtér után a vár meleg belső terei várják. A Píseki-hegyekbe vezető út igazi téli varázslatot ígér, de téli felszerelést igényel.",
             "ro": "O călătorie plăcută de iarnă prin Boemia de Sud. Scaunele încălzite fac drumul între obiective foarte plăcut. După piața înghețată de dimineață, castelul oferă căldură. Drumul spre munții Písecke oferă un peisaj de basm, dar necesită echipare de iarnă.",
-            "en": "A cozy winter drive through South Bohemia. Heated seats make the journey between sights very pleasant. After a frosty morning on the square, the Castle offers welcoming warmth. The drive up to the Písecke Mountains provides a winter wonderland but requires proper winter gear."
+            "en": "A cozy winter drive through South Bohemia. Heated seats make the journey between sights very pleasant. After a frosty morning on the square, the Castle offers welcoming warmth. The drive up to the Písecke Mountains provides a winter wonderland but requires proper winter gear.",
+            "cs": "Příjemná zimní jízda jižními Čechami. Vyhřívaná sedadla zpříjemňují přesuny mezi památkami. Po mrazivém ránu na náměstí nabízí hrad příjemné teplo. Jízda do Píseckých Hor poskytne zimní království, ale vyžaduje odpovídající zimní výbavu."
           },
           "stops": [
             {
@@ -1655,7 +1793,8 @@
                 "de": "Parkflächen können vereist sein, Vorsicht beim Aussteigen.",
                 "hu": "A parkoló jeges lehet, vigyázzon a kiszállásnál.",
                 "ro": "Suprafața parcării poate fi înghețată, atenție la coborâre.",
-                "en": "The parking surface may be icy; step out of the car carefully."
+                "en": "The parking surface may be icy; step out of the car carefully.",
+                "cs": "Povrch parkoviště může být zledovatělý; vystupujte z auta opatrně."
               }
             },
             {
@@ -1664,7 +1803,8 @@
                 "de": "Genießen Sie den Blick aus dem warmen Auto, bevor Sie losgehen.",
                 "hu": "Élvezze a kilátást a meleg autóból, mielőtt kiszállna.",
                 "ro": "Admirați vederea din mașina caldă înainte de a ieși.",
-                "en": "Enjoy the view from the warm car before stepping out."
+                "en": "Enjoy the view from the warm car before stepping out.",
+                "cs": "Užijte si výhled z teplého auta před vystoupením ven."
               }
             },
             {
@@ -1673,7 +1813,8 @@
                 "de": "Nutzen Sie die kurzen Wege von Cluster A.",
                 "hu": "Használja ki a Cluster A-tól való rövid távolságot.",
                 "ro": "Profitați de distanța scurtă de la Cluster A.",
-                "en": "Take advantage of the short walking distance from Cluster A."
+                "en": "Take advantage of the short walking distance from Cluster A.",
+                "cs": "Využijte krátkou vzdálenost pěšky z klastru A."
               }
             },
             {
@@ -1682,7 +1823,8 @@
                 "de": "Die Brücke ist im Winter stimmungsvoll beleuchtet.",
                 "hu": "A híd télen hangulatos esti világítást kap.",
                 "ro": "Podul este iluminat feeric în serile de iarnă.",
-                "en": "The bridge features atmospheric lighting during winter evenings."
+                "en": "The bridge features atmospheric lighting during winter evenings.",
+                "cs": "Most je v zimních večerech osvětlený a působí atmosféricky."
               }
             },
             {
@@ -1691,7 +1833,8 @@
                 "de": "Guter Ort, um die Kälte für zwei Stunden zu vergessen.",
                 "hu": "Kiváló hely, hogy két órára elfelejtse a kinti hideget.",
                 "ro": "Loc bun pentru a uita de frig timp de două ore.",
-                "en": "A great place to escape the cold for a couple of hours."
+                "en": "A great place to escape the cold for a couple of hours.",
+                "cs": "Skvělé místo na únik před chladem na pár hodin."
               }
             },
             {
@@ -1700,7 +1843,8 @@
                 "de": "Prüfen Sie, ob die Zufahrtsstraßen geräumt sind.",
                 "hu": "Ellenőrizze, hogy a bekötőutakat letakarították-e.",
                 "ro": "Verificați dacă drumurile de acces au fost deszăpezite.",
-                "en": "Check if the access roads have been cleared of snow."
+                "en": "Check if the access roads have been cleared of snow.",
+                "cs": "Ověřte, zda byly přístupové cesty odklizeny od sněhu."
               }
             },
             {
@@ -1709,7 +1853,8 @@
                 "de": "Winterreifen und ggf. Schneeketten für die Auffahrt nötig.",
                 "hu": "Téli gumi és esetleg hólánc szükséges a felkapaszkodáshoz.",
                 "ro": "Anvelope de iarnă și eventual lanțuri necesare pentru urcare.",
-                "en": "Winter tires and possibly chains are required for the climb."
+                "en": "Winter tires and possibly chains are required for the climb.",
+                "cs": "Pro výstup do kopce jsou nutné zimní pneumatiky a možná i řetězy."
               }
             }
           ],
@@ -1737,6 +1882,12 @@
               "Allow extra time for parking in properly cleared areas.",
               "The drive up to Písecke Hory can be tricky with fresh snow.",
               "Avoid leaving liquids in the car overnight due to freezing risk."
+            ],
+            "cs": [
+              "Zkontrolujte, že nemrznoucí kapalina do ostřikovačů odolává mrazu.",
+              "Vyhraďte si více času na zaparkování na řádně odhrnutých místech.",
+              "Jízda do Píseckých Hor může být komplikovaná při čerstvém sněhu.",
+              "Nevyhazujte přes noc tekutiny v autě kvůli riziku zamrznutí."
             ]
           }
         }
@@ -1755,7 +1906,8 @@
             "de": "Haltestelle Großer Platz (Cluster A)",
             "hu": "Megálló, Fő tér (A csoport)",
             "ro": "Stația Piața Mare (Grup A)",
-            "en": "Main Square Stop (Cluster A)"
+            "en": "Main Square Stop (Cluster A)",
+            "cs": "Zastávka Náměstí (Klastr A)"
           },
           "coords": [
             14.1475,
@@ -1771,7 +1923,8 @@
             "de": "Nehmen Sie einen Bus ins Zentrum und beginnen Sie Ihre Erkundung.",
             "hu": "Buszozzon be a központba, és kezdje meg a felfedezést.",
             "ro": "Luați un autobuz spre centru și începeți explorarea.",
-            "en": "Take a bus to the center and start your exploration."
+            "en": "Take a bus to the center and start your exploration.",
+            "cs": "Svezte se autobusem do centra a začněte prohlídku."
           }
         },
         {
@@ -1779,7 +1932,8 @@
             "de": "Rathaus & Kirche Mariä Geburt",
             "hu": "Városháza és Szűz Mária Születése templom",
             "ro": "Primăria și Biserica Nașterea Maicii Domnului",
-            "en": "Town Hall & Church of the Nativity"
+            "en": "Town Hall & Church of the Nativity",
+            "cs": "Radnice & Kostel Narození Panny Marie"
           },
           "coords": [
             14.1483,
@@ -1795,7 +1949,8 @@
             "de": "Diese beiden wichtigen Sehenswürdigkeiten liegen direkt nebeneinander.",
             "hu": "Ez a két fontos látnivaló közvetlenül egymás mellett található.",
             "ro": "Aceste două obiective importante sunt situate chiar unul lângă celălalt.",
-            "en": "These two important sights are located right next to each other."
+            "en": "These two important sights are located right next to each other.",
+            "cs": "Tyto dvě významné památky se nacházejí hned vedle sebe."
           }
         },
         {
@@ -1803,7 +1958,8 @@
             "de": "Burg Písek",
             "hu": "Píseki vár",
             "ro": "Castelul Písek",
-            "en": "Písek Castle"
+            "en": "Písek Castle",
+            "cs": "Písecký hrad"
           },
           "coords": [
             14.1465,
@@ -1819,7 +1975,8 @@
             "de": "Ein kurzer Spaziergang von der Kirche zur historischen Festung der Stadt.",
             "hu": "Rövid séta a templomtól a város történelmi erődjéig.",
             "ro": "O scurtă plimbare de la biserică la fortăreața istorică a orașului.",
-            "en": "A short walk from the church to the city's historic fortress."
+            "en": "A short walk from the church to the city's historic fortress.",
+            "cs": "Krátká procházka od kostela k historické městské pevnosti."
           }
         },
         {
@@ -1827,7 +1984,8 @@
             "de": "Steinerne Brücke",
             "hu": "Kőhíd",
             "ro": "Podul de Piatră",
-            "en": "Stone Bridge"
+            "en": "Stone Bridge",
+            "cs": "Kamenný most"
           },
           "coords": [
             14.145,
@@ -1843,7 +2001,8 @@
             "de": "Verpassen Sie nicht das Wahrzeichen von Písek, nur wenige Schritte von der Burg entfernt.",
             "hu": "Ne hagyja ki Písek jelképét, csak pár lépésre a vártól.",
             "ro": "Nu ratați emblema orașului Písek, la doar câțiva pași de castel.",
-            "en": "Don't miss Písek's landmark, just a few steps from the castle."
+            "en": "Don't miss Písek's landmark, just a few steps from the castle.",
+            "cs": "Nepropásněte symbol Písku, jen pár kroků od hradu."
           }
         },
         {
@@ -1851,7 +2010,8 @@
             "de": "Haltestelle Palackého sady (Cluster B)",
             "hu": "Megálló, Palacký park (B csoport)",
             "ro": "Stația Parcul Palacký (Grup B)",
-            "en": "Palacký Gardens Stop (Cluster B)"
+            "en": "Palacký Gardens Stop (Cluster B)",
+            "cs": "Zastávka Palackého sady (Klastr B)"
           },
           "coords": [
             14.152,
@@ -1867,7 +2027,8 @@
             "de": "Nehmen Sie einen Bus zum Stadtpark für eine entspannte Mittagspause.",
             "hu": "Buszozzon el a városi parkba egy pihentető ebédszünetre.",
             "ro": "Luați un autobuz către parcul orașului pentru o pauză de prânz relaxantă.",
-            "en": "Take a bus to the city park for a relaxing lunch break."
+            "en": "Take a bus to the city park for a relaxing lunch break.",
+            "cs": "Svezte se autobusem do městského parku na odpočinkové obědové zastavení."
           }
         },
         {
@@ -1875,7 +2036,8 @@
             "de": "St.-Wenzels-Kirche",
             "hu": "Szent Vencel-templom",
             "ro": "Biserica Sfântul Venceslau",
-            "en": "St. Wenceslas Church"
+            "en": "St. Wenceslas Church",
+            "cs": "Kostel sv. Václava"
           },
           "coords": [
             14.155,
@@ -1891,7 +2053,8 @@
             "de": "Ein kurzer Spaziergang vom Park zu dieser etwas abgelegenen, aber schönen Kirche.",
             "hu": "Rövid séta a parktól ehhez a kissé távoli, de gyönyörű templomhoz.",
             "ro": "O scurtă plimbare din parc până la această biserică oarecum retrasă, dar frumoasă.",
-            "en": "A short walk from the park to this somewhat remote but beautiful church."
+            "en": "A short walk from the park to this somewhat remote but beautiful church.",
+            "cs": "Krátká procházka z parku k tomuto poněkud odlehlému, ale krásnému kostelu."
           }
         }
       ],
@@ -1899,7 +2062,8 @@
         "de": "Erkunden Sie Písek bequem mit öffentlichen Verkehrsmitteln. Beginnen Sie im historischen Zentrum, das Sie nach einer kurzen Busfahrt erreichen. Hier erkunden Sie den ersten Cluster aus Plätzen, Kirchen und der berühmten Brücke zu Fuß. Mittags bringt Sie ein weiterer Bus in die Nähe der Palacký-Anlagen, ideal für eine Pause im Grünen. Von dort aus ist es nur ein kurzer Spaziergang zu Ihrem letzten Halt, der St.-Wenzels-Kirche, bevor Sie den Bus zurücknehmen.",
         "hu": "Fedezze fel Píseket kényelmesen a tömegközlekedéssel. Kezdje a történelmi központban, amelyet egy rövid buszozás után ér el. Itt gyalogosan fedezi fel az első látnivaló-csoportot, tereket, templomokat és a híres hidat. Délben egy másik busz elviszi a Palacký park közelébe, amely ideális egy zöldövezeti pihenőhöz. Onnan már csak egy rövid séta az utolsó megálló, a Szent Vencel-templom, mielőtt visszabuszozna.",
         "ro": "Explorați Písek confortabil cu transportul public. Începeți în centrul istoric, la care ajungeți după o scurtă călătorie cu autobuzul. Aici veți explora pe jos primul grup de piețe, biserici și faimosul pod. La prânz, un alt autobuz vă va duce în apropierea Parcului Palacký, ideal pentru o pauză în natură. De acolo, este doar o scurtă plimbare până la ultima oprire, Biserica Sf. Venceslau, înainte de a lua autobuzul înapoi.",
-        "en": "Explore Písek comfortably using public transport. Start in the historic center, which you'll reach after a short bus ride. Here, you'll explore the first cluster of squares, churches, and the famous bridge on foot. At noon, another bus will take you near the Palacký Gardens, ideal for a green break. From there, it's just a short walk to your final stop, St. Wenceslas Church, before you take the bus back."
+        "en": "Explore Písek comfortably using public transport. Start in the historic center, which you'll reach after a short bus ride. Here, you'll explore the first cluster of squares, churches, and the famous bridge on foot. At noon, another bus will take you near the Palacký Gardens, ideal for a green break. From there, it's just a short walk to your final stop, St. Wenceslas Church, before you take the bus back.",
+        "cs": "Prozkoumejte Písek pohodlně veřejnou dopravou. Začněte v historickém centru, které dosáhnete po krátké jízdě autobusem. Zde pěšky projdete první klastr náměstí, kostelů a slavného mostu. V poledne vás další autobus doveze k Palackým sadům, ideálním pro zelenou pauzu. Odtud je to jen krátká procházka k závěrečné zastávce, kostelu sv. Václava, než se vrátíte autobusem zpět."
       },
       "gastro_picks": {
         "de": [
@@ -2079,6 +2243,12 @@
           "Check the bus schedule in advance, especially for the return trip in the evening.",
           "The stops are usually well-signposted.",
           "Be aware that buses may run less frequently on weekends."
+        ],
+        "cs": [
+          "Kupte si celodenní jízdenku na MHD a ušetřete.",
+          "Zkontrolujte jízdní řád autobusů předem, obzvlášť na návratový večerní spoj.",
+          "Zastávky jsou obvykle dobře značené.",
+          "Vězte, že autobusy jezdí o víkendech méně často."
         ]
       },
       "variants": {
@@ -2087,7 +2257,8 @@
             "de": "Písek mit dem Bus entdecken, während es draußen regnet. Nutzen Sie die Haltestelle am Hauptplatz als Startpunkt. Die kurzen Fahrten zwischen den historischen Clustern halten Sie trocken. Mittags bietet die Mälzerei ein langes Indoor-Programm. Der Nachmittag endet an der St.-Wenzels-Kirche, von wo aus Sie bequem den Rückbus nehmen.",
             "hu": "Fedezze fel Píseket busszal, miközben kint esik. Használja a főtéri megállót kiindulópontként. A klaszterek közötti rövid utazások alatt szárazon maradhat. Délben a Sladovna kínál hosszú fedett programot. A délután a Szent Vencel-templomnál zárul, ahonnan kényelmesen visszabuszozhat.",
             "ro": "Descoperiți Písek cu autobuzul în timp ce afară plouă. Folosiți stația din piața principală ca punct de plecare. Călătoriile scurte între clustere vă mențin uscat. La prânz, fabrica de malț oferă un program lung la interior. După-amiaza se încheie la biserica Sf. Venceslav, de unde luați autobuzul înapoi.",
-            "en": "Explore Písek by bus while it rains outside. Use the Main Square stop as your starting point. Short trips between the historic clusters keep you dry. Midday, the Malthouse (Sladovna) offers a long indoor schedule. The afternoon ends at St. Wenceslas Church, from where you can easily catch a bus back."
+            "en": "Explore Písek by bus while it rains outside. Use the Main Square stop as your starting point. Short trips between the historic clusters keep you dry. Midday, the Malthouse (Sladovna) offers a long indoor schedule. The afternoon ends at St. Wenceslas Church, from where you can easily catch a bus back.",
+            "cs": "Prozkoumejte Písek autobusem, zatímco venku prší. Jako výchozí bod použijte zastávku Náměstí. Krátké přesuny mezi historickými klustry vás udrží v suchu. V poledne nabízí Sladovna dlouhý vnitřní program. Odpoledne končí u kostela sv. Václava, odkud snadno odjedete autobusem zpět."
           },
           "stops": [
             {
@@ -2096,7 +2267,8 @@
                 "de": "Warten Sie im Schutz der nahen Arkaden auf den Bus.",
                 "hu": "Várja a buszt a közeli árkádok védelmében.",
                 "ro": "Așteptați autobuzul la adăpostul arcadelor din apropiere.",
-                "en": "Wait for the bus under the shelter of the nearby arcades."
+                "en": "Wait for the bus under the shelter of the nearby arcades.",
+                "cs": "Počkejte na autobus pod přístřeškem sousedních arkád."
               }
             },
             {
@@ -2105,7 +2277,8 @@
                 "de": "Nur wenige Schritte von der Haltestelle entfernt.",
                 "hu": "Csak néhány lépésnyire található a buszmegállótól.",
                 "ro": "La doar câțiva pași distanță de stație.",
-                "en": "Located just a few steps away from the transit stop."
+                "en": "Located just a few steps away from the transit stop.",
+                "cs": "Nachází se jen několik kroků od přestupního bodu."
               }
             },
             {
@@ -2114,7 +2287,8 @@
                 "de": "Nutzen Sie den Bus, um den nassen Weg vom Fluss abzukürzen.",
                 "hu": "Használja a buszt, hogy lerövidítse a vizes utat a folyótól.",
                 "ro": "Folosiți autobuzul pentru a scurta drumul ud de la râu.",
-                "en": "Use the bus to shorten the wet walk from the riverside."
+                "en": "Use the bus to shorten the wet walk from the riverside.",
+                "cs": "Využijte autobus ke zkrácení mokré chůze od nábřeží."
               }
             },
             {
@@ -2123,7 +2297,8 @@
                 "de": "Die nächste Haltestelle ist etwa 5 Minuten Fußweg entfernt.",
                 "hu": "A legközelebbi megálló kb. 5 perc séta esőben is.",
                 "ro": "Cea mai apropiată stație este la cca. 5 minute de mers.",
-                "en": "The nearest stop is about a 5-minute walk, even in the rain."
+                "en": "The nearest stop is about a 5-minute walk, even in the rain.",
+                "cs": "Nejbližší zastávka je přibližně 5 minut chůze, i v dešti."
               }
             },
             {
@@ -2132,7 +2307,8 @@
                 "de": "Überdachte Haltestelle vorhanden.",
                 "hu": "Fedett váróterem áll rendelkezésre a megállóban.",
                 "ro": "Stație prevăzută cu adăpost acoperit.",
-                "en": "A covered bus shelter is available at this stop."
+                "en": "A covered bus shelter is available at this stop.",
+                "cs": "U této zastávky je krytá autobusová přístřešek."
               }
             },
             {
@@ -2141,7 +2317,8 @@
                 "de": "Prüfen Sie den Fahrplan für die Rückfahrt genau.",
                 "hu": "Pontosan ellenőrizze a visszainduló busz menetrendjét.",
                 "ro": "Verificați cu atenție orarul de întoarcere.",
-                "en": "Carefully check the return schedule for the evening bus."
+                "en": "Carefully check the return schedule for the evening bus.",
+                "cs": "Pečlivě zkontrolujte večerní návratový jízdní řád."
               }
             }
           ],
@@ -2169,6 +2346,12 @@
               "Buses tend to be more crowded during rain; board early.",
               "Wear slip-resistant shoes for safe boarding and exiting.",
               "Keep your wet umbrella closed and pointed down while on board."
+            ],
+            "cs": [
+              "Stáhněte si místní dopravní aplikaci pro aktuální informace o zpožděních.",
+              "Autobusy bývají za deště více plné; nastupte včas.",
+              "Obujte protiskluzovou obuv pro bezpečné nastupování a vystupování.",
+              "Mějte mokrý deštník zavřený a špičkou dolů během jízdy."
             ]
           }
         },
@@ -2177,7 +2360,8 @@
             "de": "Písek im Winter bequem mit dem Stadtbus erleben. Die geheizten Fahrzeuge bieten eine willkommene Pause von der Kälte. Morgens führt der Weg zum glitzernden Hauptplatz, während Sie mittags das Schloss und die Mälzerei besuchen. Der Tag endet an der beleuchteten St.-Wenzels-Kirche, bevor der Bus Sie zurück ins Warme bringt.",
             "hu": "Élje át a téli Píseket kényelmesen, a városi buszokkal. A fűtött járművek kellemes pihenőt nyújtanak a hideg elől. Reggel a csillogó főtérre utazunk, napközben pedig a várat és a Sladovnát látogatjuk meg. A nap a kivilágított Szent Vencel-templomnál zárul, mielőtt a busz visszavisz a melegbe.",
             "ro": "Experimentați Písek-ul de iarnă confortabil cu autobuzul urban. Vehiculele încălzite oferă o pauză binevenită de la ger. Dimineața mergeți spre piața sclipitoare, iar ziua vizitați castelul. Turul se încheie la biserica Sf. Venceslav, înainte ca autobuzul să vă ducă înapoi la căldură.",
-            "en": "Experience winter in Písek comfortably with the city bus. Heated vehicles provide a welcome break from the freezing outdoors. Morning leads to the sparkling Main Square, while midday is spent at the Castle and Malthouse. The day ends at the lit St. Wenceslas Church before the bus whisks you back."
+            "en": "Experience winter in Písek comfortably with the city bus. Heated vehicles provide a welcome break from the freezing outdoors. Morning leads to the sparkling Main Square, while midday is spent at the Castle and Malthouse. The day ends at the lit St. Wenceslas Church before the bus whisks you back.",
+            "cs": "Zažijte zimu v Písku pohodlně s městským autobusem. Vyhřívané vozy poskytnou vítaný úkryt před mrazem. Ráno směřujete na jiskřivé Náměstí, v poledne navštívíte Hrad a Sladovnu. Den končí u osvětleného kostela sv. Václava, odkud vás autobus odveze zpět."
           },
           "stops": [
             {
@@ -2186,7 +2370,8 @@
                 "de": "Kurze Wartezeiten einplanen, um nicht auszukühlen.",
                 "hu": "Tervezzen rövid várakozási időt, hogy ne hűljön ki.",
                 "ro": "Planificați timpi scurți de așteptare pentru a nu îngheța.",
-                "en": "Plan for short wait times to avoid getting too cold."
+                "en": "Plan for short wait times to avoid getting too cold.",
+                "cs": "Plánujte krátké čekací doby, abyste příliš nezmrzli."
               }
             },
             {
@@ -2195,7 +2380,8 @@
                 "de": "Genießen Sie die weihnachtliche Beleuchtung in der Nähe.",
                 "hu": "Élvezze a közeli karácsonyi fényeket és díszítést.",
                 "ro": "Admirați decorațiunile de Crăciun din apropiere.",
-                "en": "Enjoy the festive holiday lighting in the vicinity."
+                "en": "Enjoy the festive holiday lighting in the vicinity.",
+                "cs": "Užijte si sváteční osvětlení v okolí."
               }
             },
             {
@@ -2204,7 +2390,8 @@
                 "de": "Vom Bus zur Burg sind es nur ca. 3 Minuten Fußweg.",
                 "hu": "A busztól a várig csak kb. 3 perc séta a hidegben.",
                 "ro": "De la autobuz la castel sunt doar 3 minute de mers.",
-                "en": "It's only about a 3-minute walk from the bus to the castle."
+                "en": "It's only about a 3-minute walk from the bus to the castle.",
+                "cs": "Z busu je to jen asi 3 minuty chůze ke hradu."
               }
             },
             {
@@ -2213,7 +2400,8 @@
                 "de": "Die Brücke ist im Winter bei Dunkelheit besonders fotogen.",
                 "hu": "A híd téli sötétségben különösen fotogén látványt nyújt.",
                 "ro": "Podul este foarte fotogenic în întunericul de iarnă.",
-                "en": "The bridge is exceptionally photogenic in the winter dark."
+                "en": "The bridge is exceptionally photogenic in the winter dark.",
+                "cs": "Most je v zimní tmě obzvlášť fotogenický."
               }
             },
             {
@@ -2222,7 +2410,8 @@
                 "de": "Haltestelle liegt im Windschatten der Gebäude.",
                 "hu": "A megálló az épületek szélárnyékában található.",
                 "ro": "Stația este situată la adăpost de vânt lângă clădiri.",
-                "en": "The stop is situated in the wind shadow of nearby buildings."
+                "en": "The stop is situated in the wind shadow of nearby buildings.",
+                "cs": "Zastávka se nachází v závětří okolních budov."
               }
             },
             {
@@ -2231,7 +2420,8 @@
                 "de": "Der Bus bringt Sie direkt zurück ins Stadtzentrum.",
                 "hu": "A busz közvetlenül visszaviszi Önt a városközpontba.",
                 "ro": "Autobuzul vă duce direct înapoi în centrul orașului.",
-                "en": "The bus will take you directly back to the city center."
+                "en": "The bus will take you directly back to the city center.",
+                "cs": "Autobus vás doveze přímo zpět do centra města."
               }
             }
           ],
@@ -2259,6 +2449,12 @@
               "Expect potential transit delays during heavy snowfall.",
               "The winter schedule may change during the holiday season.",
               "Have exact change or your card ready for ticket purchase."
+            ],
+            "cs": [
+              "Autobusy jsou ideálním místem k ohřátí mezi venkovními památkami.",
+              "Počítejte s možnými zpožděními dopravy při hustém sněžení.",
+              "Zimní jízdní řád se může během sváteční sezony měnit.",
+              "Mějte připravené přesné drobné nebo platební kartu na nákup jízdenky."
             ]
           }
         }

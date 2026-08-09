@@ -21,7 +21,8 @@
             "de": "Rathaus Litvínov",
             "hu": "Litvínovi Városháza",
             "ro": "Primăria Litvínov",
-            "en": "Litvínov Town Hall"
+            "en": "Litvínov Town Hall",
+            "cs": "Radnice Litvínov"
           },
           "coords": [
             13.6115,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie Ihren Tag am Hauptplatz und bewundern Sie die Architektur des Rathauses.",
             "hu": "Kezdje a napot a főtéren, és csodálja meg a városháza építészetét.",
             "ro": "Începeți ziua în piața principală și admirați arhitectura primăriei.",
-            "en": "Start your day in the main square, admiring the town hall's architecture."
+            "en": "Start your day in the main square, admiring the town hall's architecture.",
+            "cs": "Začněte den na hlavním náměstí a obdivujte architekturu radnice."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kirche des hl. Michael",
             "hu": "Szent Mihály-templom",
             "ro": "Biserica Sf. Mihail",
-            "en": "Church of St. Michael"
+            "en": "Church of St. Michael",
+            "cs": "Kostel sv. Michaela"
           },
           "coords": [
             13.6122,
@@ -59,7 +62,8 @@
             "de": "Achten Sie auf die beeindruckenden Barockfresken im Inneren.",
             "hu": "Figyelje meg a lenyűgöző barokk freskókat a templom belsejében.",
             "ro": "Observați frescele baroce impresionante din interior.",
-            "en": "Pay attention to the impressive baroque frescoes inside."
+            "en": "Pay attention to the impressive baroque frescoes inside.",
+            "cs": "Věnujte pozornost působivým barokním freskám uvnitř."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Voigt-Haus",
             "hu": "Voigt-ház",
             "ro": "Casa Voigt",
-            "en": "Voigt House"
+            "en": "Voigt House",
+            "cs": "Voigtův dům"
           },
           "coords": [
             13.6105,
@@ -82,7 +87,8 @@
             "de": "Ein schönes Beispiel für die historische bürgerliche Architektur der Stadt.",
             "hu": "A város történelmi polgári építészetének szép példája.",
             "ro": "Un exemplu frumos de arhitectură burgheză istorică a orașului.",
-            "en": "A fine example of the town's historic bourgeois architecture."
+            "en": "A fine example of the town's historic bourgeois architecture.",
+            "cs": "Pěkný příklad historické měšťanské architektury města."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Schloss Valdštejn",
             "hu": "Valdštejn-kastély",
             "ro": "Castelul Valdštejn",
-            "en": "Valdštejn Chateau"
+            "en": "Valdštejn Chateau",
+            "cs": "Zámek Valdštejn"
           },
           "coords": [
             13.6211,
@@ -105,7 +112,8 @@
             "de": "Nehmen Sie an einer Führung teil, um mehr über die Adelsfamilie zu erfahren.",
             "hu": "Vegyen részt egy tárlatvezetésen, hogy többet tudjon meg a nemesi családról.",
             "ro": "Participați la un tur ghidat pentru a afla mai multe despre familia nobiliară.",
-            "en": "Join a guided tour to learn more about the noble family."
+            "en": "Join a guided tour to learn more about the noble family.",
+            "cs": "Připojte se k prohlídce s průvodcem a dozvíte se víc o šlechtickém rodu."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Citadela",
             "hu": "Citadella",
             "ro": "Citadela",
-            "en": "Citadela"
+            "en": "Citadela",
+            "cs": "Citadela"
           },
           "coords": [
             13.6145,
@@ -128,7 +137,8 @@
             "de": "Prüfen Sie den Spielplan für Abendvorstellungen oder Konzerte.",
             "hu": "Nézze meg a műsort, hátha van esti előadás vagy koncert.",
             "ro": "Verificați programul pentru spectacole de seară sau concerte.",
-            "en": "Check the schedule for evening performances or concerts."
+            "en": "Check the schedule for evening performances or concerts.",
+            "cs": "Zkontrolujte program večerních představení nebo koncertů."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Denkmal für die Opfer des Bergbaus",
             "hu": "A bányászat áldozatainak emlékműve",
             "ro": "Monumentul Victimelor Mineritului",
-            "en": "Monument to the Victims of Mining"
+            "en": "Monument to the Victims of Mining",
+            "cs": "Pomník obětem hornictví"
           },
           "coords": [
             13.6088,
@@ -151,7 +162,8 @@
             "de": "Ein ergreifender Ort, der an die industrielle Geschichte der Region erinnert.",
             "hu": "Megrendítő hely, amely a régió ipari történelmére emlékeztet.",
             "ro": "Un loc emoționant care comemorează istoria industrială a regiunii.",
-            "en": "A poignant spot commemorating the region's industrial history."
+            "en": "A poignant spot commemorating the region's industrial history.",
+            "cs": "Dojemné místo připomínající průmyslovou historii regionu."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Stadtpark",
             "hu": "Városi Park",
             "ro": "Parcul Orașului",
-            "en": "City Park"
+            "en": "City Park",
+            "cs": "Městský park"
           },
           "coords": [
             13.605,
@@ -174,7 +187,8 @@
             "de": "Der perfekte Ort für eine entspannte Pause am Nachmittag.",
             "hu": "Tökéletes hely egy pihentető délutáni szünethez.",
             "ro": "Locul perfect pentru o pauză relaxantă de după-amiază.",
-            "en": "The perfect spot for a relaxing afternoon break."
+            "en": "The perfect spot for a relaxing afternoon break.",
+            "cs": "Ideální místo pro odpočinkové odpoledne."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Ihr Spaziergang durch Litvínov beginnt am belebten Hauptplatz. Von dort aus tauchen Sie in die sakrale Atmosphäre der St.-Michael-Kirche ein. Der Vormittag führt Sie weiter durch die charmanten Gassen zum historischen Voigt-Haus und dem imposanten Schloss Valdštejn, das die Geschichte der Stadt erzählt. Nach dem Mittagessen erkunden Sie das Kulturzentrum Citadela und gedenken der Bergbaugeschichte am Denkmal. Der Nachmittag klingt entspannt im grünen Stadtpark aus, ein idealer Ort, um die gesammelten Eindrücke Revue passieren zu lassen und sich auszuruhen.",
         "hu": "Sétája Litvínovban a nyüzsgő főtéren kezdődik. Innen merüljön el a Szent Mihály-templom szakrális hangulatában. A délelőtt a bájos utcákon át a történelmi Voigt-házhoz és a város múltjáról mesélő impozáns Valdštejn-kastélyhoz vezet. Ebéd után fedezze fel a Citadela kulturális központot, és emlékezzen meg a bányászat történetéről az emlékműnél. A délután a zöld városi parkban zárul, amely ideális hely a benyomások feldolgozására és a pihenésre.",
         "ro": "Plimbarea dvs. prin Litvínov începe în piața principală plină de viață. De acolo, pătrundeți în atmosfera sacră a Bisericii Sf. Mihail. Dimineața vă poartă pe străduțele fermecătoare spre istorica Casă Voigt și impunătorul Castel Valdštejn, care povestește istoria orașului. După prânz, explorați centrul cultural Citadela și comemorați istoria minieră la monument. După-amiaza se încheie relaxant în parcul verde al orașului, un loc ideal pentru a reflecta asupra impresiilor și a vă odihni.",
-        "en": "Your walk through Litvínov begins in the bustling main square. From there, immerse yourself in the sacred atmosphere of St. Michael's Church. The morning leads you through charming streets to the historic Voigt House and the imposing Valdštejn Chateau, which tells the city's story. After lunch, explore the Citadela cultural center and commemorate the mining history at the monument. The afternoon concludes relaxing in the green City Park, an ideal place to reflect on your impressions and rest."
+        "en": "Your walk through Litvínov begins in the bustling main square. From there, immerse yourself in the sacred atmosphere of St. Michael's Church. The morning leads you through charming streets to the historic Voigt House and the imposing Valdštejn Chateau, which tells the city's story. After lunch, explore the Citadela cultural center and commemorate the mining history at the monument. The afternoon concludes relaxing in the green City Park, an ideal place to reflect on your impressions and rest.",
+        "cs": "Vaše procházka Litvínovem začíná na rušném hlavním náměstí. Odtud se ponoříte do posvátné atmosféry kostela sv. Michaela. Ráno vás provede kouzelnými uličkami k historickému Voigtovu domu a impozantnímu zámku Valdštejn, který vypráví příběh města. Po obědě prozkoumejte kulturní centrum Citadela a uctěte hornickou historii u pomníku. Odpoledne zakončete odpočinkem v zeleném Městském parku, ideálním místě k zamyšlení a relaxaci."
       },
       "gastro_picks": {
         "de": [
@@ -342,6 +357,12 @@
           "Most attractions in the city center are within easy walking distance.",
           "Plan your lunch near Valdštejn Chateau to save time.",
           "Check the opening hours of attractions in advance, especially outside the main season."
+        ],
+        "cs": [
+          "Noste pohodlnou obuv, protože většinu dne budete chodit.",
+          "Většina atrakcí v centru je v krátké pěší dostupnosti.",
+          "Plánujte oběd v blízkosti zámku Valdštejn, abyste ušetřili čas.",
+          "Zkontrolujte otevírací dobu památek předem, zvláště mimo hlavní sezonu."
         ]
       },
       "variants": {
@@ -350,7 +371,8 @@
             "de": "Morgens am Rathaus schützen Arkaden vor dem Regen. Mittags bietet das Schloss Valdštejn ein trockenes Refugium mit Geschichte. Nachmittags ist die Citadela ideal für Kultur im Trockenen. Abends endet der Tag mit einem kurzen, nebligen Spaziergang durch den Stadtpark.",
             "hu": "Reggel a városháza árkádjai alatt kezdünk az esőben. Délben a Valdštejn-kastély nyújt száraz menedéket és gazdag történelmi tárlatot. Délután a Citadela kulturális központja tökéletes beltéri program. Este egy rövid, ködös séta zárja a napot a városi park vizes ösvényein.",
             "ro": "Dimineața la primărie, arcadele oferă adăpost împotriva ploii. La prânz, Castelul Valdštejn este refugiul ideal pentru a explora istoria la uscat. După-amiaza, Citadela oferă cultură în interior. Seara se încheie cu o scurtă plimbare prin ceața din parcul orașului.",
-            "en": "Morning starts under the town hall arcades to stay dry. At noon, Valdštejn Chateau provides a perfect indoor historical escape. Afternoon is spent inside the Citadela cultural center. Evening ends with a misty, brief walk through the dampened city park paths."
+            "en": "Morning starts under the town hall arcades to stay dry. At noon, Valdštejn Chateau provides a perfect indoor historical escape. Afternoon is spent inside the Citadela cultural center. Evening ends with a misty, brief walk through the dampened city park paths.",
+            "cs": "Ráno začíná pod arkádami radnice, aby zůstala suchá. K poledni nabízí zámek Valdštejn dokonalý vnitřní historický útěk. Odpoledne strávíte v kulturním centru Citadela. Večer končí krátkou, mlhavou procházkou po zvlhčených cestách městského parku."
           },
           "stops": [
             {
@@ -359,7 +381,8 @@
                 "de": "Nutzen Sie die Arkaden am Platz, um trocken zu bleiben.",
                 "hu": "Használja a tér árkádjait, hogy szárazon maradjon.",
                 "ro": "Folosiți arcadele din piață pentru a rămâne uscat.",
-                "en": "Use the arcades around the square to stay dry while viewing."
+                "en": "Use the arcades around the square to stay dry while viewing.",
+                "cs": "Využijte arkády kolem náměstí, abyste zůstali při prohlídce v suchu."
               }
             },
             {
@@ -368,7 +391,8 @@
                 "de": "Ein ruhiger Ort, um den Regenschirm kurz zu schließen.",
                 "hu": "Csendes hely, ahol egy kicsit megszáríthatja az esernyőjét.",
                 "ro": "Un loc liniștit unde puteți scutura umbrela pentru o clipă.",
-                "en": "A quiet place to fold your umbrella and enjoy the interior."
+                "en": "A quiet place to fold your umbrella and enjoy the interior.",
+                "cs": "Klidné místo, kde si složíte deštník a užijete si interiér."
               }
             },
             {
@@ -377,7 +401,8 @@
                 "de": "Betrachten Sie die Fassade schnell aus dem Schutz der Traufen.",
                 "hu": "Nézze meg gyorsan a homlokzatot az eresz alól.",
                 "ro": "Priviți rapid fațada de sub streșini.",
-                "en": "View the facade quickly from the shelter of nearby eaves."
+                "en": "View the facade quickly from the shelter of nearby eaves.",
+                "cs": "Fasádu si prohlédněte rychle z úkrytu pod blízkými římsami."
               }
             },
             {
@@ -386,7 +411,8 @@
                 "de": "Ideal für eine ausgiebige Innenbesichtigung bei Regen.",
                 "hu": "Ideális egy hosszú belső látogatásra esős időben.",
                 "ro": "Ideal pentru o vizită interioară lungă când plouă.",
-                "en": "Perfect for an extended indoor tour during the downpour."
+                "en": "Perfect for an extended indoor tour during the downpour.",
+                "cs": "Ideální pro rozsáhlejší vnitřní prohlídku během lijáku."
               }
             },
             {
@@ -395,7 +421,8 @@
                 "de": "Wärmen Sie sich im Café auf, während es draußen regnet.",
                 "hu": "Melegedjen fel a kávézóban, amíg kint esik.",
                 "ro": "Încălziți-vă la cafenea în timp ce afară plouă.",
-                "en": "Warm up in the café while waiting for the rain to ease."
+                "en": "Warm up in the café while waiting for the rain to ease.",
+                "cs": "Ohřejte se v kavárně, zatímco čekáte, až déšť poleví."
               }
             },
             {
@@ -404,7 +431,8 @@
                 "de": "Ein kurzer Stopp reicht bei diesem Wetter völlig aus.",
                 "hu": "Egy rövid megálló ebben az időben is elegendő.",
                 "ro": "O oprire scurtă este suficientă pe această vreme.",
-                "en": "A quick stop is sufficient to pay respects in this weather."
+                "en": "A quick stop is sufficient to pay respects in this weather.",
+                "cs": "Krátká zastávka stačí k uctění památky za takového počasí."
               }
             },
             {
@@ -413,7 +441,8 @@
                 "de": "Vorsicht auf den asphaltierten Wegen, sie können rutschig sein.",
                 "hu": "Vigyázzon az aszfaltozott utakon, csúszósak lehetnek.",
                 "ro": "Atenție pe aleile asfaltate, pot fi alunecoase.",
-                "en": "Stick to paved paths as the grass will be very muddy."
+                "en": "Stick to paved paths as the grass will be very muddy.",
+                "cs": "Držte se zpevněných cest, tráva bude velmi promáčená."
               }
             }
           ],
@@ -441,6 +470,12 @@
               "Citadela offers great indoor spaces to wait out heavy showers.",
               "Utilize the covered shopping areas near the town hall.",
               "Waterproof footwear is a must for the park sections."
+            ],
+            "cs": [
+              "Silná deštník je nezbytný kvůli větru u Krušných hor.",
+              "Citadela nabízí skvělé vnitřní prostory, kde lze přestát silné přeháňky.",
+              "Využijte zastřešené obchodní prostory u radnice.",
+              "Voděodolná obuv je nutností v parkových úsecích."
             ]
           }
         },
@@ -449,7 +484,8 @@
             "de": "Der frostige Morgen am Rathaus wird durch den Besuch der beheizten St. Michaelskirche gemildert. Mittags bietet das Schloss Valdštejn wohlige Wärme und Geschichte. Nachmittags leuchten die Lichter der Citadela einladend. Der Tag endet früh bei Sonnenuntergang im verschneiten Stadtpark.",
             "hu": "A fagyos reggelt a városházánál a fűtött Szent Mihály-templom látogatása enyhíti. Délben a Valdštejn-kastély meleg falai között kalandozunk. Délután a Citadela fényei hívogatnak. A nap korán, naplementekor ér véget a havas városi parkban.",
             "ro": "Dimineața geroasă la primărie este îndulcită de vizita la biserica încălzită. La prânz, Castelul Valdštejn oferă căldură și istorie. După-amiaza, luminile de la Citadela sunt primitoare. Ziua se încheie devreme, la apus, în parcul înzăpezit.",
-            "en": "The frosty morning at the town hall is warmed by a visit to the heated church. At noon, Valdštejn Chateau offers cozy historical tours. Afternoon lights at Citadela create a welcoming atmosphere. The day concludes early at sunset in the snow-covered park."
+            "en": "The frosty morning at the town hall is warmed by a visit to the heated church. At noon, Valdštejn Chateau offers cozy historical tours. Afternoon lights at Citadela create a welcoming atmosphere. The day concludes early at sunset in the snow-covered park.",
+            "cs": "Mrazivé ráno u radnice vám zahřeje návštěva vyhřátého kostela. Ve poledne nabízí zámek Valdštejn útulné historické prohlídky. Odpolední světla v Citadele vytvářejí příjemnou atmosféru. Den končí brzy při západu slunce v zasněženém parku."
           },
           "stops": [
             {
@@ -458,7 +494,8 @@
                 "de": "Bewundern Sie die Winterbeleuchtung am Hauptplatz.",
                 "hu": "Csodálja meg a főtér téli kivilágítását.",
                 "ro": "Admirați iluminatul de iarnă din piața principală.",
-                "en": "Admire the winter decorations and lights on the main square."
+                "en": "Admire the winter decorations and lights on the main square.",
+                "cs": "Obdivujte zimní výzdobu a světla na hlavním náměstí."
               }
             },
             {
@@ -467,7 +504,8 @@
                 "de": "Genießen Sie die Stille und die leichte Wärme im Inneren.",
                 "hu": "Élvezze a csendet és az enyhe benti meleget.",
                 "ro": "Bucurați-vă de liniște și de căldura ușoară din interior.",
-                "en": "Enjoy the peaceful silence and relative warmth inside."
+                "en": "Enjoy the peaceful silence and relative warmth inside.",
+                "cs": "Užívejte si tichého klidu a relativního tepla uvnitř."
               }
             },
             {
@@ -476,7 +514,8 @@
                 "de": "Die Fassade wirkt im Schnee besonders historisch.",
                 "hu": "A homlokzat a hóban különösen patinásnak tűnik.",
                 "ro": "Fațada arată deosebit de istorică sub zăpadă.",
-                "en": "The historic facade looks especially charming under the snow."
+                "en": "The historic facade looks especially charming under the snow.",
+                "cs": "Historická fasáda vypadá pod sněhem obzvlášť kouzelně."
               }
             },
             {
@@ -485,7 +524,8 @@
                 "de": "Prüfen Sie die Winteröffnungszeiten für die Ausstellungen.",
                 "hu": "Ellenőrizze a téli nyitvatartást a kiállításokhoz.",
                 "ro": "Verificați programul de iarnă pentru expoziții.",
-                "en": "Check winter opening hours for the castle exhibitions."
+                "en": "Check winter opening hours for the castle exhibitions.",
+                "cs": "Zkontrolujte zimní otevírací dobu hradních expozic."
               }
             },
             {
@@ -494,7 +534,8 @@
                 "de": "Ein idealer Ort für einen heißen Tee am Nachmittag.",
                 "hu": "Ideális hely egy forró teára a délutáni hidegben.",
                 "ro": "Un loc ideal pentru un ceai fierbinte după-amiaza.",
-                "en": "An ideal spot for a hot tea during the afternoon chill."
+                "en": "An ideal spot for a hot tea during the afternoon chill.",
+                "cs": "Ideální místo na horký čaj během odpoledního chladu."
               }
             },
             {
@@ -503,7 +544,8 @@
                 "de": "Vorsicht vor vereisten Stufen rund um das Denkmal.",
                 "hu": "Vigyázzon a jeges lépcsőkkel az emlékmű körül.",
                 "ro": "Atenție la treptele înghețate din jurul monumentului.",
-                "en": "Watch out for icy steps around the monument area."
+                "en": "Watch out for icy steps around the monument area.",
+                "cs": "Dejte pozor na zledovatělé schody kolem pomníku."
               }
             },
             {
@@ -512,7 +554,8 @@
                 "de": "Der Park schließt bei Einbruch der Dunkelheit gegen 16:30 Uhr.",
                 "hu": "A park sötétedéskor, 16:30 körül bezárulhat.",
                 "ro": "Parcul devine întunecat și pustiu după ora 16:30.",
-                "en": "The park gets dark early; aim to finish by 4:30 PM."
+                "en": "The park gets dark early; aim to finish by 4:30 PM.",
+                "cs": "V parku se stmívá brzy; snažte se skončit do 16:30."
               }
             }
           ],
@@ -540,6 +583,12 @@
               "Park paths might not be cleared of snow immediately.",
               "Wear thermal layers; the mountain wind can be very biting.",
               "The castle museum is the best place for a long warm-up break."
+            ],
+            "cs": [
+              "Plánujte ukončit procházku do 17:00, protože rychle přichází tma.",
+              "Cesty v parku nemusí být okamžitě odhrnuté od sněhu.",
+              "Noste termo vrstvy; horský vítr může velmi štípat.",
+              "Hradní muzeum je nejlepší místo na dlouhé zahřátí."
             ]
           }
         }
@@ -558,7 +607,8 @@
             "de": "Stadtpark",
             "hu": "Városi Park",
             "ro": "Parcul Orașului",
-            "en": "City Park"
+            "en": "City Park",
+            "cs": "Městský park"
           },
           "coords": [
             13.605,
@@ -573,7 +623,8 @@
             "de": "Starten Sie mit einer erfrischenden Runde durch den Park.",
             "hu": "Kezdje a napot egy frissítő körrel a parkban.",
             "ro": "Începeți cu o plimbare revigorantă prin parc.",
-            "en": "Start with a refreshing loop around the park."
+            "en": "Start with a refreshing loop around the park.",
+            "cs": "Začněte osvěžujícím kolečkem po parku."
           }
         },
         {
@@ -581,7 +632,8 @@
             "de": "Kollektivhaus (Koldům)",
             "hu": "Kollektív Ház (Koldům)",
             "ro": "Casa Colectivă (Koldům)",
-            "en": "Collective House (Koldům)"
+            "en": "Collective House (Koldům)",
+            "cs": "Kolektivní dům (Koldům)"
           },
           "coords": [
             13.628,
@@ -596,7 +648,8 @@
             "de": "Ein faszinierendes Beispiel für funktionalistische Architektur und soziales Wohnen.",
             "hu": "A funkcionalista építészet és a szociális lakhatás lenyűgöző példája.",
             "ro": "Un exemplu fascinant de arhitectură funcționalistă și locuințe sociale.",
-            "en": "A fascinating example of functionalist architecture and social housing."
+            "en": "A fascinating example of functionalist architecture and social housing.",
+            "cs": "Fascinující příklad funkcionalistické architektury a sociálního bydlení."
           }
         },
         {
@@ -604,7 +657,8 @@
             "de": "Schloss Valdštejn",
             "hu": "Valdštejn-kastély",
             "ro": "Castelul Valdštejn",
-            "en": "Valdštejn Chateau"
+            "en": "Valdštejn Chateau",
+            "cs": "Zámek Valdštejn"
           },
           "coords": [
             13.6211,
@@ -619,7 +673,8 @@
             "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie das Schlossgelände erkunden.",
             "hu": "Zárja le biztonságosan a kerékpárját, mielőtt felfedezné a kastély területét.",
             "ro": "Asigurați-vă bicicleta înainte de a explora terenul castelului.",
-            "en": "Lock your bike securely before exploring the chateau grounds."
+            "en": "Lock your bike securely before exploring the chateau grounds.",
+            "cs": "Řádně zamkněte kolo, než prozkoumáte zámecké pozemky."
           }
         },
         {
@@ -627,7 +682,8 @@
             "de": "Rathaus Litvínov",
             "hu": "Litvínovi Városháza",
             "ro": "Primăria Litvínov",
-            "en": "Litvínov Town Hall"
+            "en": "Litvínov Town Hall",
+            "cs": "Radnice Litvínov"
           },
           "coords": [
             13.6115,
@@ -642,7 +698,8 @@
             "de": "Der perfekte Ort für eine Mittagspause in einem der umliegenden Cafés.",
             "hu": "Tökéletes hely egy ebédszünetre a környező kávézók egyikében.",
             "ro": "Locul perfect pentru o pauză de prânz la una dintre cafenelele din jur.",
-            "en": "The perfect spot for a lunch break at one of the surrounding cafes."
+            "en": "The perfect spot for a lunch break at one of the surrounding cafes.",
+            "cs": "Perfektní místo na oběd v jedné z okolních kaváren."
           }
         },
         {
@@ -650,7 +707,8 @@
             "de": "Kirche des hl. Michael",
             "hu": "Szent Mihály-templom",
             "ro": "Biserica Sf. Mihail",
-            "en": "Church of St. Michael"
+            "en": "Church of St. Michael",
+            "cs": "Kostel sv. Michaela"
           },
           "coords": [
             13.6122,
@@ -665,7 +723,8 @@
             "de": "Stellen Sie Ihr Fahrrad ab und genießen Sie die ruhige Atmosphäre im Inneren.",
             "hu": "Tegye le a biciklit, és élvezze a templom csendes hangulatát.",
             "ro": "Parcați bicicleta și bucurați-vă de atmosfera liniștită din interior.",
-            "en": "Park your bike and enjoy the quiet atmosphere inside."
+            "en": "Park your bike and enjoy the quiet atmosphere inside.",
+            "cs": "Zaparkujte kolo a vychutnejte si klidnou atmosféru uvnitř."
           }
         },
         {
@@ -673,7 +732,8 @@
             "de": "Citadela",
             "hu": "Citadella",
             "ro": "Citadela",
-            "en": "Citadela"
+            "en": "Citadela",
+            "cs": "Citadela"
           },
           "coords": [
             13.6145,
@@ -688,7 +748,8 @@
             "de": "Ein kultureller Abschluss Ihrer Radtour durch die Stadt.",
             "hu": "Városi kerékpártúrájának kulturális befejezése.",
             "ro": "O concluzie culturală a turului cu bicicleta prin oraș.",
-            "en": "A cultural conclusion to your bike tour of the city."
+            "en": "A cultural conclusion to your bike tour of the city.",
+            "cs": "Kulturní závěr vaší cyklotour po městě."
           }
         }
       ],
@@ -696,7 +757,8 @@
         "de": "Ihre Radtour startet im grünen Stadtpark, bevor Sie zum architektonisch bedeutenden Kollektivhaus radeln. Der Vormittag gipfelt im Besuch des Schlosses Valdštejn, wo Sie in die Geschichte eintauchen. Nach einer längeren Fahrt erreichen Sie zur Mittagszeit das Stadtzentrum am Rathaus. Am Nachmittag erkunden Sie die St.-Michael-Kirche und beenden Ihre Tour im Kulturzentrum Citadela. Diese Route verbindet Natur, einzigartige Architektur und das historische Herz von Litvínov.",
         "hu": "Kerékpártúrája a zöld városi parkban kezdődik, mielőtt az építészetileg jelentős Kollektív Házhoz teker. A délelőtt a Valdštejn-kastély meglátogatásával csúcsosodik ki, ahol elmerülhet a történelemben. Egy hosszabb út után délben érkezik a városközpontba, a városházához. Délután felfedezi a Szent Mihály-templomot, és a Citadela kulturális központban fejezi be a túrát. Ez az útvonal összeköti a természetet, az egyedi építészetet és Litvínov történelmi szívét.",
         "ro": "Turul cu bicicleta începe în parcul verde al orașului, înainte de a pedala spre Casa Colectivă, importantă din punct de vedere arhitectural. Dimineața culminează cu o vizită la Castelul Valdštejn, unde vă veți cufunda în istorie. După o plimbare mai lungă, ajungeți în centrul orașului la primărie, la prânz. După-amiaza, explorați Biserica Sf. Mihail și încheiați turul la centrul cultural Citadela. Acest traseu combină natura, arhitectura unică și inima istorică a orașului Litvínov.",
-        "en": "Your bike tour starts in the green City Park before you cycle to the architecturally significant Collective House. The morning culminates in a visit to Valdštejn Chateau, where you'll delve into history. After a longer ride, you'll reach the city center at the Town Hall for lunchtime. In the afternoon, you'll explore St. Michael's Church and finish your tour at the Citadela cultural center. This route combines nature, unique architecture, and the historic heart of Litvínov."
+        "en": "Your bike tour starts in the green City Park before you cycle to the architecturally significant Collective House. The morning culminates in a visit to Valdštejn Chateau, where you'll delve into history. After a longer ride, you'll reach the city center at the Town Hall for lunchtime. In the afternoon, you'll explore St. Michael's Church and finish your tour at the Citadela cultural center. This route combines nature, unique architecture, and the historic heart of Litvínov.",
+        "cs": "Vaše cyklistická trasa začíná v zeleném Městském parku, poté pojedete k architektonicky významnému Kolektivnímu domu. Dopoledne vyvrcholí návštěvou zámku Valdštejn, kde se ponoříte do historie. Po delší jízdě dorazíte do centra u radnice na oběd. Odpoledne prozkoumáte kostel sv. Michaela a zakončíte výlet v kulturním centru Citadela. Trasa kombinuje přírodu, jedinečnou architekturu a historické srdce Litvínova."
       },
       "gastro_picks": {
         "de": [
@@ -856,6 +918,12 @@
           "Some sections may have inclines, so be prepared.",
           "Bring enough water with you, especially on warm days.",
           "Respect traffic rules and be careful in city traffic."
+        ],
+        "cs": [
+          "Zkontrolujte kolo před odjezdem, zejména brzdy a pneumatiky.",
+          "Některé úseky mohou mít stoupání, buďte na to připraveni.",
+          "Vezměte si dostatek vody, zvláště za teplých dnů.",
+          "Respektujte dopravní předpisy a buďte opatrní v městském provozu."
         ]
       },
       "variants": {
@@ -864,7 +932,8 @@
             "de": "Der Tag beginnt vorsichtig auf den nassen Wegen des Stadtparks. Die Fahrt zum Koldům erfordert Konzentration auf glattem Asphalt. Mittags bietet das Schloss eine trockene Kulturpause. Nachmittags geht es durch die Innenstadt zur Citadela, wo das Fahrrad sicher im Regen steht.",
             "hu": "A nap óvatosan indul a városi park vizes útjain. A Koldům felé vezető út figyelmet igényel a csúszós aszfalton. Délben a kastély kínál száraz kulturális pihenőt. Délután a belvároson át tekerünk a Citadelához, ahol lezárhatjuk a gépet.",
             "ro": "Ziua începe cu prudență pe aleile umede din parcul orașului. Drumul spre Koldům necesită concentrare pe asfaltul ud. La prânz, castelul oferă o pauză culturală uscată. După-amiaza mergem spre Citadelă, unde bicicleta stă în ploaie.",
-            "en": "The day starts cautiously on the wet paths of the city park. Riding to Koldům requires focus on slippery asphalt. At noon, the chateau offers a dry cultural break. Afternoon leads through the center to Citadela for a sheltered finish."
+            "en": "The day starts cautiously on the wet paths of the city park. Riding to Koldům requires focus on slippery asphalt. At noon, the chateau offers a dry cultural break. Afternoon leads through the center to Citadela for a sheltered finish.",
+            "cs": "Den začíná opatrně na mokrých cestách městského parku. Jízda ke Koldůmu vyžaduje soustředění na kluzkém asfaltu. Ve poledne nabízí zámek suchou kulturní přestávku. Odpoledne vede průjezd centrem do Citadely pro zastřešené zakončení."
           },
           "stops": [
             {
@@ -873,7 +942,8 @@
                 "de": "Vorsicht vor nassem Laub auf den Radwegen.",
                 "hu": "Vigyázzon a vizes levelekkel a kerékpárúton.",
                 "ro": "Atenție la frunzele ude de pe pistele de biciclete.",
-                "en": "Watch out for wet leaves which make paths very slippery."
+                "en": "Watch out for wet leaves which make paths very slippery.",
+                "cs": "Dejte pozor na mokré listí, které cesty výrazně klouže."
               }
             },
             {
@@ -882,7 +952,8 @@
                 "de": "Suchen Sie unter den Balkonüberständen Schutz vor Guss.",
                 "hu": "Keressen menedéket a balkonok kinyúló részei alatt.",
                 "ro": "Căutați adăpost sub proiecția balcoanelor în caz de aversă.",
-                "en": "Find temporary shelter under the balcony overhangs if it pours."
+                "en": "Find temporary shelter under the balcony overhangs if it pours.",
+                "cs": "Najděte dočasné úkryty pod přesahem balkónů, když liják přidá."
               }
             },
             {
@@ -891,7 +962,8 @@
                 "de": "Stellen Sie das Rad nah am Eingang im Windschatten ab.",
                 "hu": "Támassza le a biciklit a bejárat közelében, szélvédett helyen.",
                 "ro": "Lăsați bicicleta aproape de intrare, la adăpost de vânt.",
-                "en": "Park your bike near the entrance in a wind-shadowed spot."
+                "en": "Park your bike near the entrance in a wind-shadowed spot.",
+                "cs": "Zaparkujte kolo u vchodu na místě chráněném před větrem."
               }
             },
             {
@@ -900,7 +972,8 @@
                 "de": "Vorsicht auf dem Kopfsteinpflaster rund um den Platz.",
                 "hu": "Vigyázzon a macskaköveken a főtér környékén.",
                 "ro": "Atenție pe piatra cubică din jurul pieței.",
-                "en": "Extreme caution needed on cobblestones around the square."
+                "en": "Extreme caution needed on cobblestones around the square.",
+                "cs": "Extrémní opatrnost na dláždění kolem náměstí."
               }
             },
             {
@@ -909,7 +982,8 @@
                 "de": "Ein guter Moment für eine kurze Verschnaufpause.",
                 "hu": "Jó alkalom egy rövid esőmentes pihenőre.",
                 "ro": "Un moment bun pentru o scurtă pauză ferită de ploaie.",
-                "en": "A good moment for a brief rest out of the rain."
+                "en": "A good moment for a brief rest out of the rain.",
+                "cs": "Dobrá chvíle na krátký odpočinek mimo déšť."
               }
             },
             {
@@ -918,7 +992,8 @@
                 "de": "Nutzen Sie den überdachten Eingangsbereich zum Abschließen.",
                 "hu": "Használja a fedett bejáratot a kerékpár lezárásához.",
                 "ro": "Folosiți zona de intrare acoperită pentru a încuia bicicleta.",
-                "en": "Use the covered entrance area to lock up your bike safely."
+                "en": "Use the covered entrance area to lock up your bike safely.",
+                "cs": "Využijte zastřešený vchod k bezpečnému zamčení kola."
               }
             }
           ],
@@ -946,6 +1021,12 @@
               "Avoid road markings as they become treacherous when wet.",
               "Fenders (mudguards) are essential in Litvínov's rainy weather.",
               "A waterproof phone mount is very helpful for navigation."
+            ],
+            "cs": [
+              "Zkontrolujte brzdy; mokrý asfalt značně prodlužuje brzdnou dráhu.",
+              "Vyhýbejte se dopravním značením na vozovce, která při dešti kloužou.",
+              "Blatníky jsou v deštivém počasí Litvínova nezbytné.",
+              "Voděodolný držák na telefon je velmi užitečný pro navigaci."
             ]
           }
         },
@@ -954,7 +1035,8 @@
             "de": "Ein kühler Start im frostigen Park führt über die Hauptstraße zum beeindruckenden Koldům. Die Fahrt zum Schloss bietet weite Ausblicke über die verschneite Stadt. Mittags Aufwärmen im Schlossmuseum. Nachmittags durch die Altstadt zur Citadela, bevor es bei Frost zu rutschig wird.",
             "hu": "Hűvös kezdés a fagyos parkban, majd irány a lenyűgöző Koldům. A kastély felé vezető úton szép kilátás nyílik a havas városra. Délben melegedő a kastélymúzeumban. Délután az óvároson át a Citadeláig, mielőtt a fagy miatt túl csúszós lenne az út.",
             "ro": "Un început răcoros în parcul înghețat duce spre impresionantul Koldům. Drumul spre castel oferă vederi largi asupra orașului înzăpezit. La prânz, ne încălzim la muzeu. După-amiaza prin oraș spre Citadelă, înainte ca gerul să facă drumul alunecos.",
-            "en": "A crisp start in the frosty park leads to the impressive Koldům. The ride to the chateau offers wide views over the snowy town. At noon, warm up in the museum. Afternoon cycle through the old town to Citadela before the evening freeze."
+            "en": "A crisp start in the frosty park leads to the impressive Koldům. The ride to the chateau offers wide views over the snowy town. At noon, warm up in the museum. Afternoon cycle through the old town to Citadela before the evening freeze.",
+            "cs": "Čistý start v mrazivém parku vede k impozantnímu Koldům. Jízda ke zámku nabízí široké výhledy na zasněžené město. Ve poledne se zahřejte v muzeu. Odpoledne projedete starým městem do Citadely před večerním mrazem."
           },
           "stops": [
             {
@@ -963,7 +1045,8 @@
                 "de": "Achten Sie auf überfrierende Nässe im Schatten der Bäume.",
                 "hu": "Ügyeljen a felfagyásokra a fák árnyékos részein.",
                 "ro": "Atenție la porțiunile înghețate sub umbra copacilor.",
-                "en": "Watch for black ice in shaded areas under the trees."
+                "en": "Watch for black ice in shaded areas under the trees.",
+                "cs": "Dávejte pozor na černý led ve stinných místech pod stromy."
               }
             },
             {
@@ -972,7 +1055,8 @@
                 "de": "Kurzer Stopp für Fotos, bleiben Sie in Bewegung.",
                 "hu": "Csak egy rövid fotómegálló, maradjon mozgásban a hidegben.",
                 "ro": "Oprire scurtă pentru poze, rămâneți în mișcare.",
-                "en": "Keep the stop brief for photos to stay warm while moving."
+                "en": "Keep the stop brief for photos to stay warm while moving.",
+                "cs": "Udržujte zastávky na focení krátké, abyste zůstali v teple při pohybu."
               }
             },
             {
@@ -981,7 +1065,8 @@
                 "de": "Nutzen Sie die Garderobe für Ihre schwere Winterkleidung.",
                 "hu": "Használja a ruhatárat a nehéz téli ruházathoz.",
                 "ro": "Folosiți garderoba pentru hainele grele de iarnă.",
-                "en": "Utilize the cloakroom to shed heavy layers during the tour."
+                "en": "Utilize the cloakroom to shed heavy layers during the tour.",
+                "cs": "Využijte šatnu k odložení těžkých vrstev během prohlídky."
               }
             },
             {
@@ -990,7 +1075,8 @@
                 "de": "Vorsicht beim Anhalten auf festgefahrenem Schnee.",
                 "hu": "Vigyázzon a megállásnál a letaposott havon.",
                 "ro": "Atenție la oprire pe zăpada bătătorită.",
-                "en": "Be careful when braking or stopping on packed snow."
+                "en": "Be careful when braking or stopping on packed snow.",
+                "cs": "Buďte opatrní při brzdění nebo zastavování na zbitých sněhových plochách."
               }
             },
             {
@@ -999,7 +1085,8 @@
                 "de": "Die Kirche bietet einen kurzen Schutz vor dem kalten Wind.",
                 "hu": "A templom rövid védelmet nyújt a metsző szél ellen.",
                 "ro": "Biserica oferă un scurt adăpost împotriva vântului rece.",
-                "en": "The church provides a quick shield from the biting wind."
+                "en": "The church provides a quick shield from the biting wind.",
+                "cs": "Kostel poskytuje rychlý štít před štiplavým větrem."
               }
             },
             {
@@ -1008,7 +1095,8 @@
                 "de": "Letzte Station, belohnen Sie sich mit einem Heißgetränk.",
                 "hu": "Utolsó állomás, jutalmazza meg magát egy forró itallal.",
                 "ro": "Ultima oprire, răsplătiți-vă cu o băutură fierbinte.",
-                "en": "Final stop; reward yourself with a hot beverage inside."
+                "en": "Final stop; reward yourself with a hot beverage inside.",
+                "cs": "Poslední zastávka; odměňte se horkým nápojem uvnitř."
               }
             }
           ],
@@ -1036,6 +1124,12 @@
               "Lights are mandatory after 4:00 PM due to early twilight.",
               "Avoid unpaved paths if they aren't cleared of snow.",
               "Watch out for road salt as it can damage your bike chain."
+            ],
+            "cs": [
+              "Noste větruodolné rukavice; prsty rychle mrznou na řídítkách.",
+              "Světla jsou povinná po 16:00 kvůli brzkému soumraku.",
+              "Vyhněte se nezpevněným cestám, pokud nejsou odházované od sněhu.",
+              "Dejte pozor na posypovou sůl, může poškodit řetěz kola."
             ]
           }
         }
@@ -1054,7 +1148,8 @@
             "de": "Schloss Valdštejn",
             "hu": "Valdštejn-kastély",
             "ro": "Castelul Valdštejn",
-            "en": "Valdštejn Chateau"
+            "en": "Valdštejn Chateau",
+            "cs": "Zámek Valdštejn"
           },
           "coords": [
             13.6211,
@@ -1069,7 +1164,8 @@
             "de": "Starten Sie am Schloss. Es gibt normalerweise genügend Parkplätze am Morgen.",
             "hu": "Kezdje a napot a kastélynál. Reggel általában van elég parkolóhely.",
             "ro": "Începeți la castel. De obicei, dimineața există suficiente locuri de parcare.",
-            "en": "Start at the chateau. There's usually enough parking in the morning."
+            "en": "Start at the chateau. There's usually enough parking in the morning.",
+            "cs": "Začněte u zámku. Ráno je obvykle dost parkovacích míst."
           }
         },
         {
@@ -1077,7 +1173,8 @@
             "de": "Denkmal für die Opfer des Bergbaus",
             "hu": "A bányászat áldozatainak emlékműve",
             "ro": "Monumentul Victimelor Mineritului",
-            "en": "Monument to the Victims of Mining"
+            "en": "Monument to the Victims of Mining",
+            "cs": "Pomník obětem hornictví"
           },
           "coords": [
             13.619,
@@ -1093,7 +1190,8 @@
             "de": "Ein kurzer Spaziergang vom Schloss, um der Industriegeschichte zu gedenken.",
             "hu": "Rövid séta a kastélytól az ipartörténeti emlékműhöz.",
             "ro": "O scurtă plimbare de la castel pentru a comemora istoria industrială.",
-            "en": "A short walk from the chateau to commemorate the industrial history."
+            "en": "A short walk from the chateau to commemorate the industrial history.",
+            "cs": "Krátká procházka od zámku k připomínce průmyslové historie."
           }
         },
         {
@@ -1101,7 +1199,8 @@
             "de": "Rathaus Litvínov & Stadtzentrum",
             "hu": "Litvínovi Városháza és Városközpont",
             "ro": "Primăria Litvínov și Centrul Orașului",
-            "en": "Litvínov Town Hall & City Center"
+            "en": "Litvínov Town Hall & City Center",
+            "cs": "Radnice Litvínov a centrum města"
           },
           "coords": [
             13.6115,
@@ -1117,7 +1216,8 @@
             "de": "Parken Sie im Zentrum und erkunden Sie den Hauptplatz. Hier finden Sie auch gute Restaurants für das Mittagessen.",
             "hu": "Parkoljon le a központban, és fedezze fel a főteret. Itt jó éttermeket is talál ebédre.",
             "ro": "Parcați în centru și explorați piața principală. Aici veți găsi și restaurante bune pentru prânz.",
-            "en": "Park in the center and explore the main square. You'll also find good lunch options here."
+            "en": "Park in the center and explore the main square. You'll also find good lunch options here.",
+            "cs": "Zaparkujte v centru a prozkoumejte hlavní náměstí. Zde také najdete dobré obědové možnosti."
           }
         },
         {
@@ -1125,7 +1225,8 @@
             "de": "Kirche des hl. Michael",
             "hu": "Szent Mihály-templom",
             "ro": "Biserica Sf. Mihail",
-            "en": "Church of St. Michael"
+            "en": "Church of St. Michael",
+            "cs": "Kostel sv. Michaela"
           },
           "coords": [
             13.6122,
@@ -1141,7 +1242,8 @@
             "de": "Nur wenige Schritte vom Rathausplatz entfernt, ein Muss für Liebhaber sakraler Kunst.",
             "hu": "Csak pár lépésre a városháza tértől, a szakrális művészet kedvelőinek kötelező.",
             "ro": "La doar câțiva pași de piața primăriei, o vizită obligatorie pentru iubitorii de artă sacră.",
-            "en": "Just a few steps from the town hall square, a must-see for lovers of sacred art."
+            "en": "Just a few steps from the town hall square, a must-see for lovers of sacred art.",
+            "cs": "Jen pár kroků od náměstí u radnice, povinnost pro milovníky sakrálního umění."
           }
         },
         {
@@ -1149,7 +1251,8 @@
             "de": "Kollektivhaus (Koldům)",
             "hu": "Kollektív Ház (Koldům)",
             "ro": "Casa Colectivă (Koldům)",
-            "en": "Collective House (Koldům)"
+            "en": "Collective House (Koldům)",
+            "cs": "Kolektivní dům (Koldům)"
           },
           "coords": [
             13.628,
@@ -1165,7 +1268,8 @@
             "de": "Fahren Sie zu diesem architektonischen Juwel, um einen anderen Aspekt der Stadtgeschichte zu sehen.",
             "hu": "Vezessen el ehhez az építészeti gyöngyszemhez, hogy megismerje a város történetének egy másik oldalát.",
             "ro": "Conduceți la această bijuterie arhitecturală pentru a vedea o altă fațetă a istoriei orașului.",
-            "en": "Drive to this architectural gem to see a different facet of the city's history."
+            "en": "Drive to this architectural gem to see a different facet of the city's history.",
+            "cs": "Přijeďte k tomuto architektonickému skvostu, abyste poznali jiný rozměr dějin města."
           }
         },
         {
@@ -1173,7 +1277,8 @@
             "de": "Stadtpark",
             "hu": "Városi Park",
             "ro": "Parcul Orașului",
-            "en": "City Park"
+            "en": "City Park",
+            "cs": "Městský park"
           },
           "coords": [
             13.605,
@@ -1189,7 +1294,8 @@
             "de": "Beenden Sie den Tag mit einem entspannten Spaziergang im Park, bevor Sie die Stadt verlassen.",
             "hu": "Zárja a napot egy pihentető sétával a parkban, mielőtt elhagyja a várost.",
             "ro": "Încheiați ziua cu o plimbare relaxantă în parc înainte de a părăsi orașul.",
-            "en": "End the day with a relaxing walk in the park before leaving the city."
+            "en": "End the day with a relaxing walk in the park before leaving the city.",
+            "cs": "Ukončete den relaxační procházkou v parku před odjezdem z města."
           }
         }
       ],
@@ -1197,7 +1303,8 @@
         "de": "Ihr Autotag beginnt mit einem Vormittagscluster am Schloss Valdštejn, wo Sie auch das nahegelegene Bergbaudenkmal zu Fuß erkunden. Danach fahren Sie ins Stadtzentrum, parken Ihr Auto und entdecken den Hauptplatz und die St.-Michael-Kirche während Ihres Mittagsclusters. Am Nachmittag fahren Sie zum architektonisch einzigartigen Kollektivhaus (Koldům), bevor Sie den Tag entspannt im weitläufigen Stadtpark ausklingen lassen. Diese Route kombiniert bequemes Parken mit fokussierten Spaziergängen.",
         "hu": "Autós napja a Valdštejn-kastélynál kezdődik, ahol a közeli bányászati emlékművet is gyalogosan fedezi fel. Ezután a városközpontba hajt, leparkol, és az ebéd körüli időszakban felfedezi a főteret és a Szent Mihály-templomot. Délután ellátogat az építészetileg egyedülálló Kollektív Házhoz (Koldům), mielőtt a napot a tágas városi parkban zárná. Ez az útvonal a kényelmes parkolást célzott sétákkal ötvözi.",
         "ro": "Ziua cu mașina începe cu un grup de obiective dimineața la Castelul Valdštejn, unde explorați și monumentul minier din apropiere pe jos. Apoi, conduceți spre centrul orașului, parcați și descoperiți piața principală și Biserica Sf. Mihail în timpul grupului de prânz. După-amiaza, conduceți spre unica Casă Colectivă (Koldům) din punct de vedere arhitectural, înainte de a încheia ziua relaxându-vă în parcul spațios al orașului. Acest traseu combină parcarea convenabilă cu plimbări concentrate.",
-        "en": "Your car day starts with a morning cluster at Valdštejn Chateau, where you also explore the nearby mining monument on foot. Afterward, you drive to the city center, park, and discover the main square and St. Michael's Church during your lunch cluster. In the afternoon, you drive to the architecturally unique Collective House (Koldům) before ending the day relaxing in the spacious City Park. This route combines convenient parking with focused walks."
+        "en": "Your car day starts with a morning cluster at Valdštejn Chateau, where you also explore the nearby mining monument on foot. Afterward, you drive to the city center, park, and discover the main square and St. Michael's Church during your lunch cluster. In the afternoon, you drive to the architecturally unique Collective House (Koldům) before ending the day relaxing in the spacious City Park. This route combines convenient parking with focused walks.",
+        "cs": "Den autem začíná dopoledním shlukem u zámku Valdštejn, kde také pěšky prozkoumáte blízký hornický pomník. Poté jedete do centra, zaparkujete a během obědového shluku objevíte hlavní náměstí a kostel sv. Michaela. Odpoledne se přesunete k architektonicky unikátnímu Kolektivnímu domu (Koldům) a den zakončíte odpočinkem v rozlehlém Městském parku. Trasa kombinuje pohodlné parkování s cílenými procházkami."
       },
       "gastro_picks": {
         "de": [
@@ -1341,6 +1448,12 @@
           "Be mindful of parking fees and restrictions in the city center.",
           "A GPS is helpful for navigating between the different clusters.",
           "Plan for extra time for traffic, especially during peak hours."
+        ],
+        "cs": [
+          "Využijte park-and-ride zařízení, pokud jsou k dispozici, abyste se vyhnuli městskému provozu.",
+          "Mějte na paměti poplatky za parkování a omezení v centru města.",
+          "GPS je užitečná pro přesuny mezi jednotlivými shluky.",
+          "Plánujte čas navíc kvůli dopravě, zejména v dopravních špičkách."
         ]
       },
       "variants": {
@@ -1349,7 +1462,8 @@
             "de": "Bequeme Fahrt zum Schloss Valdštejn, Parken direkt in der Nähe. Trotz Regen sind das Bergbaudenkmal und das Stadtzentrum trocken erreichbar. Mittags eine Pause in der Innenstadt. Nachmittags geht es zum Koldům und schließlich zum entspannten Ausklang beim Stadtpark.",
             "hu": "Kényelmes autózás a Valdštejn-kastélyhoz, parkolás közvetlen közelben. Az eső ellenére a bányász emlékmű és a városközpont könnyen elérhető. Délben pihenő a belvárosban. Délután látogatás a Koldům-nál, majd zárás a városi parknál.",
             "ro": "Călătorie confortabilă spre Castelul Valdštejn, parcare în apropiere. În ciuda ploii, monumentul minier și centrul sunt ușor accesibile. La prânz, pauză în centru. După-amiaza mergem la Koldům și încheiem relaxat lângă parcul orașului.",
-            "en": "Comfortable drive to Valdštejn Chateau with parking right nearby. Despite rain, the mining monument and town center remain easily accessible. Lunch in the city center. Afternoon visit to Koldům and a relaxed finish near the park."
+            "en": "Comfortable drive to Valdštejn Chateau with parking right nearby. Despite rain, the mining monument and town center remain easily accessible. Lunch in the city center. Afternoon visit to Koldům and a relaxed finish near the park.",
+            "cs": "Pohodlná jízda k zámku Valdštejn s parkováním přímo v jeho blízkosti. Navzdory dešti jsou hornický pomník a centrum města snadno dostupné. Oběd v centru města. Odpolední návštěva Koldůmu a klidné zakončení u parku."
           },
           "stops": [
             {
@@ -1358,7 +1472,8 @@
                 "de": "Nutzen Sie den Parkplatz direkt vor dem Schlosstor.",
                 "hu": "Használja a közvetlenül a kastélykapu előtti parkolót.",
                 "ro": "Folosiți parcarea direct din fața porții castelului.",
-                "en": "Use the parking lot located directly in front of the gate."
+                "en": "Use the parking lot located directly in front of the gate.",
+                "cs": "Využijte parkoviště přímo před branou."
               }
             },
             {
@@ -1367,7 +1482,8 @@
                 "de": "Kurzer Ausstieg für ein Foto reicht völlig aus.",
                 "hu": "Egy rövid kiszállás a fotóhoz bőven elég esőben.",
                 "ro": "O scurtă coborâre pentru o poză este suficientă.",
-                "en": "A brief hop out of the car for a photo is enough."
+                "en": "A brief hop out of the car for a photo is enough.",
+                "cs": "Krátký výstup z auta na fotku bohatě stačí."
               }
             },
             {
@@ -1376,7 +1492,8 @@
                 "de": "Parken Sie im Parkhaus am Marktplatz für trockenes Aussteigen.",
                 "hu": "Parkoljon a főtéri garázsban a száraz kiszálláshoz.",
                 "ro": "Parcați în garajul de lângă piață pentru a ieși la uscat.",
-                "en": "Park in the garage near the square to stay dry."
+                "en": "Park in the garage near the square to stay dry.",
+                "cs": "Zaparkujte v garáži u náměstí, abyste zůstali v suchu."
               }
             },
             {
@@ -1385,7 +1502,8 @@
                 "de": "Wenige Schritte vom Parkplatz zum Kircheneingang.",
                 "hu": "Csak pár lépés a parkolótól a templom bejáratáig.",
                 "ro": "Doar câțiva pași de la parcare până la intrare.",
-                "en": "Only a few steps from the parking to the church entrance."
+                "en": "Only a few steps from the parking to the church entrance.",
+                "cs": "Jen pár kroků z parkoviště k vchodu do kostela."
               }
             },
             {
@@ -1394,7 +1512,8 @@
                 "de": "Gute Sicht auf das Gebäude direkt aus dem Autofenster.",
                 "hu": "Jól látható az épület közvetlenül az autóablakból is.",
                 "ro": "Clădirea se vede bine chiar și din fereastra mașinii.",
-                "en": "Great view of the building directly from the car window."
+                "en": "Great view of the building directly from the car window.",
+                "cs": "Skvělý výhled na budovu přímo z okna auta."
               }
             },
             {
@@ -1403,7 +1522,8 @@
                 "de": "Parken Sie an der Westseite für den kürzesten Weg zum Café.",
                 "hu": "Parkoljon a nyugati oldalon a legrövidebb úthoz a kávézóig.",
                 "ro": "Parcați pe latura de vest pentru drumul scurt spre cafenea.",
-                "en": "Park on the west side for the shortest walk to the café."
+                "en": "Park on the west side for the shortest walk to the café.",
+                "cs": "Zaparkujte na západní straně pro nejkratší cestu do kavárny."
               }
             }
           ],
@@ -1431,6 +1551,12 @@
               "Parking near the town hall is often easier during rainy spells.",
               "Keep an umbrella handy for the short walks to entrances.",
               "Utilize drive-thru or roadside options in the vicinity."
+            ],
+            "cs": [
+              "Dejte pozor na aquaplaning na hlavní silnici do Mostu.",
+              "Parkování u radnice bývá při deštích často snazší.",
+              "Mějte po ruce deštník pro krátké procházky k vchodům.",
+              "Využijte možnosti drive-thru nebo zastávky u krajnice v okolí."
             ]
           }
         },
@@ -1439,7 +1565,8 @@
             "de": "Sichere Fahrt durch das verschneite Litvínov zum Schloss. Die winterliche Kulisse des Koldům und des Rathauses lässt sich bequem vom warmen Auto aus genießen. Nachmittags ein kurzer Stopp am Stadtpark für die Winteratmosphäre, bevor es zurück in die Wärme geht.",
             "hu": "Biztonságos autózás a havas Litvínovban a kastélyig. A Koldům és a városháza téli látványa kényelmesen élvezhető a fűtött autóból. Délután egy rövid megálló a városi parknál a téli hangulatért, majd irány vissza a melegbe.",
             "ro": "Călătorie sigură prin Litvínovul înzăpezit spre castel. Peisajul de iarnă de la Koldům și primărie se savurează din mașina caldă. După-amiaza, o oprire scurtă la parc pentru atmosferă, apoi înapoi la căldură.",
-            "en": "Safe drive through snowy Litvínov to the chateau. The winter scenery of Koldům and the town hall can be enjoyed from the warm car. Afternoon brief stop at the park for the atmosphere before heading back."
+            "en": "Safe drive through snowy Litvínov to the chateau. The winter scenery of Koldům and the town hall can be enjoyed from the warm car. Afternoon brief stop at the park for the atmosphere before heading back.",
+            "cs": "Bezpečná jízda zasněženým Litvínovem k zámku. Zimní scenérie Koldůmu a radnice si můžete vychutnat z teplého auta. Odpolední krátká zastávka v parku pro atmosféru před odjezdem zpět."
           },
           "stops": [
             {
@@ -1448,7 +1575,8 @@
                 "de": "Vorsicht beim Einparken auf ungeräumten Flächen.",
                 "hu": "Vigyázzon a parkolásnál a nem letakarított helyeken.",
                 "ro": "Atenție la parcare pe suprafețele necurățate.",
-                "en": "Be careful when parking on unplowed or icy surfaces."
+                "en": "Be careful when parking on unplowed or icy surfaces.",
+                "cs": "Buďte opatrní při parkování na neodhrnutých nebo zledovatělých površích."
               }
             },
             {
@@ -1457,7 +1585,8 @@
                 "de": "Die Zufahrt kann bei starkem Schneefall glatt sein.",
                 "hu": "A behajtó út erős havazáskor csúszós lehet.",
                 "ro": "Accesul poate fi alunecos în caz de ninsoare abundentă.",
-                "en": "The access road can be slippery during heavy snowfall."
+                "en": "The access road can be slippery during heavy snowfall.",
+                "cs": "Příjezdová cesta může být kluzká během silného sněžení."
               }
             },
             {
@@ -1466,7 +1595,8 @@
                 "de": "Genießen Sie den Blick auf den Weihnachtsmarkt.",
                 "hu": "Élvezze a kilátást a karácsonyi vásárra.",
                 "ro": "Bucurați-vă de vederea spre târgul de Crăciun.",
-                "en": "Enjoy the festive view of the local Christmas market."
+                "en": "Enjoy the festive view of the local Christmas market.",
+                "cs": "Užijte si slavnostní výhled na místní vánoční trh."
               }
             },
             {
@@ -1475,7 +1605,8 @@
                 "de": "Achten Sie auf Eiszapfen an den historischen Gebäuden.",
                 "hu": "Ügyeljen a jégcsapokra a történelmi épületeken.",
                 "ro": "Atenție la țurțurii de pe clădirile istorice.",
-                "en": "Watch out for icicles on the old historic buildings."
+                "en": "Watch out for icicles on the old historic buildings.",
+                "cs": "Dejte pozor na rampouchy na starých historických budovách."
               }
             },
             {
@@ -1484,7 +1615,8 @@
                 "de": "Parkplatz direkt an der Straße bietet gute Fotomotive.",
                 "hu": "Az út menti parkolóhelyről jó fotókat készíthet.",
                 "ro": "Parcarea de la drum oferă unghiuri bune pentru poze.",
-                "en": "Street-side parking offers excellent photo opportunities."
+                "en": "Street-side parking offers excellent photo opportunities.",
+                "cs": "Parkování u chodníku nabízí skvělé příležitosti k focení."
               }
             },
             {
@@ -1493,7 +1625,8 @@
                 "de": "Besuchen Sie das Restaurant am Park für einen heißen Punsch.",
                 "hu": "Látogasson el a parki étterembe egy forró puncsra.",
                 "ro": "Vizitați restaurantul din parc pentru un punsch fierbinte.",
-                "en": "Visit the park restaurant for a warm punch or chocolate."
+                "en": "Visit the park restaurant for a warm punch or chocolate.",
+                "cs": "Navštivte parkovou restauraci pro horký punč nebo čokoládu."
               }
             }
           ],
@@ -1521,6 +1654,12 @@
               "Keep an ice scraper and a snow brush in your vehicle.",
               "Watch out for snow plows on the narrower city streets.",
               "Allow extra time for parking due to snow piles."
+            ],
+            "cs": [
+              "V této horské oblasti jsou zimní pneumatiky přísně povinné.",
+              "Mějte v autě škrabku na led a kartáč na sníh.",
+              "Dávejte pozor na sněhové pluhy na užších městských ulicích.",
+              "Počítejte s delší dobou parkování kvůli hromadám sněhu."
             ]
           }
         }
@@ -1539,7 +1678,8 @@
             "de": "Rathaus & Stadtzentrum",
             "hu": "Városháza és Városközpont",
             "ro": "Primăria și Centrul Orașului",
-            "en": "Town Hall & City Center"
+            "en": "Town Hall & City Center",
+            "cs": "Radnice a centrum města"
           },
           "coords": [
             13.6115,
@@ -1554,7 +1694,8 @@
             "de": "Beginnen Sie am zentralen Verkehrsknotenpunkt der Stadt.",
             "hu": "Kezdje a napot a város központi közlekedési csomópontjánál.",
             "ro": "Începeți la nodul central de transport al orașului.",
-            "en": "Start at the city's central transit hub."
+            "en": "Start at the city's central transit hub.",
+            "cs": "Začněte v centrálním dopravním uzlu města."
           }
         },
         {
@@ -1562,7 +1703,8 @@
             "de": "Kirche des hl. Michael",
             "hu": "Szent Mihály-templom",
             "ro": "Biserica Sf. Mihail",
-            "en": "Church of St. Michael"
+            "en": "Church of St. Michael",
+            "cs": "Kostel sv. Michaela"
           },
           "coords": [
             13.6122,
@@ -1578,7 +1720,8 @@
             "de": "Ein kurzer Spaziergang vom Hauptplatz.",
             "hu": "Rövid séta a főtértől.",
             "ro": "O scurtă plimbare de la piața principală.",
-            "en": "A short walk from the main square."
+            "en": "A short walk from the main square.",
+            "cs": "Krátká procházka od hlavního náměstí."
           }
         },
         {
@@ -1586,7 +1729,8 @@
             "de": "Citadela",
             "hu": "Citadella",
             "ro": "Citadela",
-            "en": "Citadela"
+            "en": "Citadela",
+            "cs": "Citadela"
           },
           "coords": [
             13.6145,
@@ -1602,7 +1746,8 @@
             "de": "Bleiben Sie im Zentrum für diesen kulturellen Höhepunkt.",
             "hu": "Maradjon a központban ezért a kulturális fénypontért.",
             "ro": "Rămâneți în centru pentru acest punct culminant cultural.",
-            "en": "Stay in the center for this cultural highlight."
+            "en": "Stay in the center for this cultural highlight.",
+            "cs": "Zůstaňte v centru kvůli tomuto kulturnímu vrcholu."
           }
         },
         {
@@ -1610,7 +1755,8 @@
             "de": "Schloss Valdštejn",
             "hu": "Valdštejn-kastély",
             "ro": "Castelul Valdštejn",
-            "en": "Valdštejn Chateau"
+            "en": "Valdštejn Chateau",
+            "cs": "Zámek Valdštejn"
           },
           "coords": [
             13.6211,
@@ -1626,7 +1772,8 @@
             "de": "Nehmen Sie einen Bus in Richtung Schloss. Die Haltestelle ist meist gut ausgeschildert.",
             "hu": "Menjen busszal a kastély irányába. A megálló általában jól ki van táblázva.",
             "ro": "Luați un autobuz spre castel. Stația este de obicei bine semnalizată.",
-            "en": "Take a bus towards the chateau. The stop is usually well-signposted."
+            "en": "Take a bus towards the chateau. The stop is usually well-signposted.",
+            "cs": "Jeďte autobusem směrem ke zámku. Zastávka je obvykle dobře značená."
           }
         },
         {
@@ -1634,7 +1781,8 @@
             "de": "Kollektivhaus (Koldům)",
             "hu": "Kollektív Ház (Koldům)",
             "ro": "Casa Colectivă (Koldům)",
-            "en": "Collective House (Koldům)"
+            "en": "Collective House (Koldům)",
+            "cs": "Kolektivní dům (Koldům)"
           },
           "coords": [
             13.628,
@@ -1650,7 +1798,8 @@
             "de": "Eine weitere Busfahrt bringt Sie zu diesem einzigartigen Gebäude.",
             "hu": "Egy másik buszút vezet ehhez az egyedülálló épülethez.",
             "ro": "O altă călătorie cu autobuzul vă va duce la această clădire unică.",
-            "en": "Another bus ride will take you to this unique building."
+            "en": "Another bus ride will take you to this unique building.",
+            "cs": "Další jízda autobusem vás zavede k této unikátní budově."
           }
         },
         {
@@ -1658,7 +1807,8 @@
             "de": "Stadtpark",
             "hu": "Városi Park",
             "ro": "Parcul Orașului",
-            "en": "City Park"
+            "en": "City Park",
+            "cs": "Městský park"
           },
           "coords": [
             13.605,
@@ -1674,7 +1824,8 @@
             "de": "Einige Buslinien halten in der Nähe des Parks, ein idealer Ort zum Entspannen am Ende des Tages.",
             "hu": "Néhány buszjárat a park közelében áll meg, ideális hely a nap végi pihenéshez.",
             "ro": "Unele linii de autobuz opresc lângă parc, un loc ideal pentru a vă relaxa la sfârșitul zilei.",
-            "en": "Some bus lines stop near the park, an ideal place to relax at the end of the day."
+            "en": "Some bus lines stop near the park, an ideal place to relax at the end of the day.",
+            "cs": "Některé linky autobusů staví u parku, ideální místo na odpočinek na konci dne."
           }
         }
       ],
@@ -1682,7 +1833,8 @@
         "de": "Beginnen Sie Ihren Tag mit öffentlichen Verkehrsmitteln im Herzen von Litvínov. Der erste Cluster umfasst einen Spaziergang vom Rathaus zur St.-Michael-Kirche und zum Kulturzentrum Citadela. Am späten Vormittag nehmen Sie einen Bus zum Schloss Valdštejn, Ihrem zweiten großen Ziel. Nach dem Mittagessen bringt Sie eine weitere Busfahrt zum architektonisch interessanten Kollektivhaus. Den Abschluss bildet ein entspannter Spaziergang im Stadtpark, der von einer nahegelegenen Haltestelle aus leicht zu erreichen ist.",
         "hu": "Kezdje a napot a tömegközlekedéssel Litvínov szívében. Az első klaszter egy sétát foglal magában a városházától a Szent Mihály-templomig és a Citadela kulturális központig. Késő délelőtt busszal juthat el a Valdštejn-kastélyhoz, a második fő célponthoz. Ebéd után egy másik buszjárattal eljuthat az építészetileg érdekes Kollektív Házhoz. A napot egy pihentető séta zárja a városi parkban, amely egy közeli megállóból könnyen elérhető.",
         "ro": "Începeți ziua folosind transportul public în inima orașului Litvínov. Primul grup de obiective include o plimbare de la primărie la Biserica Sf. Mihail și centrul cultural Citadela. Spre sfârșitul dimineții, luați un autobuz spre Castelul Valdštejn, a doua destinație majoră. După prânz, o altă călătorie cu autobuzul vă va duce la interesanta Casă Colectivă. Ziua se încheie cu o plimbare relaxantă în parcul orașului, ușor accesibil de la o stație din apropiere.",
-        "en": "Start your day using public transport in the heart of Litvínov. The first cluster includes a walk from the Town Hall to St. Michael's Church and the Citadela cultural center. In the late morning, take a bus to Valdštejn Chateau, your second major destination. After lunch, another bus ride will take you to the architecturally interesting Collective House. The day concludes with a relaxing walk in the City Park, easily accessible from a nearby stop."
+        "en": "Start your day using public transport in the heart of Litvínov. The first cluster includes a walk from the Town Hall to St. Michael's Church and the Citadela cultural center. In the late morning, take a bus to Valdštejn Chateau, your second major destination. After lunch, another bus ride will take you to the architecturally interesting Collective House. The day concludes with a relaxing walk in the City Park, easily accessible from a nearby stop.",
+        "cs": "Začněte den hromadnou dopravou v centru Litvínova. První část zahrnuje procházku od radnice ke kostelu sv. Michaela a kulturnímu centru Citadela. Později dopoledne jeďte autobusem na zámek Valdštejn, váš druhý hlavní cíl. Po obědě vás další jízda autobusem zavede k architektonicky zajímavému Kolektivnímu domu. Den zakončete relaxační procházkou v Městském parku, snadno dostupném z poblíž ležící zastávky."
       },
       "gastro_picks": {
         "de": [
@@ -1826,6 +1978,12 @@
           "Download the timetable app or take a photo of the schedule at the stop.",
           "Note that buses in rural areas may run less frequently, so plan accordingly.",
           "Validate your ticket upon boarding to avoid a fine."
+        ],
+        "cs": [
+          "Kupte si celodenní jízdenku na MHD, ušetříte.",
+          "Stáhněte si aplikaci s jízdním řádem nebo si vyfoťte jízdní řád na zastávce.",
+          "Vezměte v úvahu, že autobusy v regionech jezdí méně často, proto plánujte.",
+          "Při nástupu označte jízdenku, abyste se vyhnuli pokutě."
         ]
       },
       "variants": {
@@ -1834,7 +1992,8 @@
             "de": "Dank der Straßenbahnverbindung zwischen Most und Litvínov bleibt man mobil. Morgens in der Innenstadt, mittags bequem mit der Bahn zum Schloss. Nachmittags bietet die Citadela Kultur ohne nass zu werden. Der Tag endet sicher an der Haltestelle am Stadtpark.",
             "hu": "A Most és Litvínov közötti villamosvonalnak köszönhetően mobilak maradunk. Reggel a belvárosban, délben kényelmesen villamossal a kastélyhoz. Délután a Citadela kínál programot esőben. A nap a városi park közeli megállójában ér véget.",
             "ro": "Rămânem mobili datorită tramvaiului dintre Most și Litvínov. Dimineața în centru, la prânz cu tramvaiul spre castel. După-amiaza, Citadela oferă cultură fără a ne uda. Ziua se încheie la stația de lângă parc.",
-            "en": "Stay mobile with the tram line between Most and Litvínov. Morning in the center, then a comfortable tram ride to the chateau. Afternoon at Citadela keeps you dry. The day ends safely at the park-side stop."
+            "en": "Stay mobile with the tram line between Most and Litvínov. Morning in the center, then a comfortable tram ride to the chateau. Afternoon at Citadela keeps you dry. The day ends safely at the park-side stop.",
+            "cs": "Zůstaňte mobilní díky tramvaji mezi Mostem a Litvínovem. Ráno v centru, pak pohodlná tramvaj na zámek. Odpoledne v Citadele vás udrží v suchu. Den končí bezpečně na zastávce u parku."
           },
           "stops": [
             {
@@ -1843,7 +2002,8 @@
                 "de": "Warten Sie unter dem Dach der zentralen Haltestelle.",
                 "hu": "Várjon a központi megálló fedett teteje alatt.",
                 "ro": "Așteptați sub acoperișul stației centrale.",
-                "en": "Wait under the shelter of the central tram station."
+                "en": "Wait under the shelter of the central tram station.",
+                "cs": "Počkejte v přístřešku centrální tramvajové stanice."
               }
             },
             {
@@ -1852,7 +2012,8 @@
                 "de": "Nur 2 Minuten Fußweg von der Haltestelle 'Zámek'.",
                 "hu": "Csak 2 perc gyalog a 'Zámek' megállótól.",
                 "ro": "Doar 2 minute de mers de la stația 'Zámek'.",
-                "en": "Just a 2-minute walk from the 'Zámek' stop."
+                "en": "Just a 2-minute walk from the 'Zámek' stop.",
+                "cs": "Jen 2minutová procházka od zastávky „Zámek“."
               }
             },
             {
@@ -1861,7 +2022,8 @@
                 "de": "Die Bushaltestelle befindet sich fast direkt vor dem Eingang.",
                 "hu": "A buszmegálló szinte közvetlenül a bejárat előtt van.",
                 "ro": "Stația de autobuz este aproape direct în fața intrării.",
-                "en": "The bus stop is located almost directly in front of the entrance."
+                "en": "The bus stop is located almost directly in front of the entrance.",
+                "cs": "Autobusová zastávka se nachází téměř přímo před vchodem."
               }
             },
             {
@@ -1870,7 +2032,8 @@
                 "de": "Nutzen Sie die Straßenbahnlinie 1 oder 4 ab dem Zentrum.",
                 "hu": "Használja az 1-es vagy 4-es villamost a központból.",
                 "ro": "Folosiți tramvaiul 1 sau 4 dinspre centru.",
-                "en": "Use tram line 1 or 4 from the city center for easy access."
+                "en": "Use tram line 1 or 4 from the city center for easy access.",
+                "cs": "Z centra použijte tramvajovou linku 1 nebo 4 pro snadný přístup."
               }
             },
             {
@@ -1879,7 +2042,8 @@
                 "de": "Die Haltestelle 'Koldům' liegt direkt am Gebäude.",
                 "hu": "A 'Koldům' megálló közvetlenül az épületnél található.",
                 "ro": "Stația 'Koldům' este chiar lângă clădire.",
-                "en": "The 'Koldům' stop is located right next to the building."
+                "en": "The 'Koldům' stop is located right next to the building.",
+                "cs": "Zastávka „Koldům“ se nachází přímo vedle budovy."
               }
             },
             {
@@ -1888,7 +2052,8 @@
                 "de": "Kurzer Sprint von der Straßenbahn zum Parkeingang.",
                 "hu": "Rövid sprint a villamostól a park bejáratáig az esőben.",
                 "ro": "Sprint scurt de la tramvai până la intrarea în parc.",
-                "en": "A quick dash from the tram stop to the park gates."
+                "en": "A quick dash from the tram stop to the park gates.",
+                "cs": "Rychlý sprint ze zastávky tramvaje ke vstupu do parku."
               }
             }
           ],
@@ -1916,6 +2081,12 @@
               "Trams run reliably even during heavy rainfall.",
               "Check real-time displays at major transit hubs.",
               "Watch out for deep puddles when boarding or exiting."
+            ],
+            "cs": [
+              "Kupte jízdenky přes aplikaci nebo bezkontaktně ve vozidle.",
+              "Tramvaje jezdí spolehlivě i během vydatného deště.",
+              "Zkontrolujte zobrazovače v reálném čase na hlavních přestupních uzlech.",
+              "Dejte pozor na hluboké louže při nastupování nebo vystupování."
             ]
           }
         },
@@ -1924,7 +2095,8 @@
             "de": "In den beheizten Straßenbahnen lässt sich die verschneite Landschaft genießen. Morgens Start in der Altstadt, mittags zum Schloss Valdštejn. Nachmittags bietet die Citadela Wärme und Kultur. Abends bringt die Bahn Sie sicher zurück, auch wenn es draußen friert.",
             "hu": "A fűtött villamosokból élvezhetjük a havas tájat. Reggeli kezdés az óvárosban, délben irány a Valdštejn-kastély. Délután a Citadela melegében pihenhetünk. Este a villamos biztonságban hazavisz a kinti fagy ellenére is.",
             "ro": "Bucurați-vă de peisajul înzăpezit din tramvaiele încălzite. Dimineața în orașul vechi, la prânz la Castelul Valdštejn. După-amiaza, Citadela oferă căldură. Seara, tramvaiul vă duce în siguranță înapoi.",
-            "en": "Enjoy the snowy views from the warmth of the heated trams. Start in the old town, then head to Valdštejn Chateau at noon. Afternoon warmth at Citadela. Evening transit takes you back safely despite the frost."
+            "en": "Enjoy the snowy views from the warmth of the heated trams. Start in the old town, then head to Valdštejn Chateau at noon. Afternoon warmth at Citadela. Evening transit takes you back safely despite the frost.",
+            "cs": "Užívejte si zasněžené výhledy z tepla vyhřívaných tramvají. Začněte v historickém centru, pak v poledne vyrazte na zámek Valdštejn. Odpoledne teplo v Citadele. Večer vás doprava bezpečně vrátí i přes mráz."
           },
           "stops": [
             {
@@ -1933,7 +2105,8 @@
                 "de": "Warme Wartehalle in der Nähe verfügbar.",
                 "hu": "Meleg váróterem elérhető a közelben.",
                 "ro": "Sală de așteptare încălzită disponibilă în apropiere.",
-                "en": "Heated waiting areas are available near the main station."
+                "en": "Heated waiting areas are available near the main station.",
+                "cs": "U hlavního nádraží jsou k dispozici vyhřívané čekárny."
               }
             },
             {
@@ -1942,7 +2115,8 @@
                 "de": "Achten Sie auf rutschige Gehwege zur Haltestelle.",
                 "hu": "Vigyázzon a csúszós járdákkal a megálló felé.",
                 "ro": "Atenție la trotuarele alunecoase spre stație.",
-                "en": "Be careful on the slippery sidewalks leading to the stop."
+                "en": "Be careful on the slippery sidewalks leading to the stop.",
+                "cs": "Buďte opatrní na kluzké chodníky vedoucí k zastávce."
               }
             },
             {
@@ -1951,7 +2125,8 @@
                 "de": "Die Busse sind im Winter gut beheizt.",
                 "hu": "A buszok télen jól fűtöttek.",
                 "ro": "Autobuzele sunt bine încălzite iarna.",
-                "en": "Buses are well-heated during the winter months."
+                "en": "Buses are well-heated during the winter months.",
+                "cs": "Autobusy jsou v zimních měsících dobře vytopené."
               }
             },
             {
@@ -1960,7 +2135,8 @@
                 "de": "Die Straßenbahn hält direkt unterhalb des Schlossparks.",
                 "hu": "A villamos közvetlenül a kastélypark alatt áll meg.",
                 "ro": "Tramvaiul oprește direct sub parcul castelului.",
-                "en": "The tram stop is located just below the castle park."
+                "en": "The tram stop is located just below the castle park.",
+                "cs": "Tramvajová zastávka se nachází těsně pod zámeckým parkem."
               }
             },
             {
@@ -1969,7 +2145,8 @@
                 "de": "Warten Sie im Windschatten des großen Gebäudes.",
                 "hu": "Várjon az épület szélvédett oldalán a villamosra.",
                 "ro": "Așteptați tramvaiul la adăpostul clădirii mari.",
-                "en": "Wait for the tram in the wind-shadow of the large building."
+                "en": "Wait for the tram in the wind-shadow of the large building.",
+                "cs": "Čekejte na tramvaj v závětří velké budovy."
               }
             },
             {
@@ -1978,7 +2155,8 @@
                 "de": "Prüfen Sie den Fahrplan für die Rückfahrt vorab.",
                 "hu": "Ellenőrizze előre a menetrendet a visszautazáshoz.",
                 "ro": "Verificați din timp programul pentru întoarcere.",
-                "en": "Check the return schedule beforehand to avoid long waits."
+                "en": "Check the return schedule beforehand to avoid long waits.",
+                "cs": "Zkontrolujte zpáteční jízdní řád předem, abyste se vyhnuli dlouhému čekání."
               }
             }
           ],
@@ -2006,6 +2184,12 @@
               "Wear shoes with good grip for the walk to and from stops.",
               "Trams are often the safest travel option during icy conditions.",
               "Enjoy evening rides to see the town's winter lights."
+            ],
+            "cs": [
+              "Silné sněžení může způsobit menší zpoždění dopravy.",
+              "Noste obuv s dobrým záběrem pro cestu na zastávky i z nich.",
+              "Tramvaje jsou často nejbezpečnější volbou při zledovatělých podmínkách.",
+              "Užívejte si večerní jízdy a obdivujte městská zimní světla."
             ]
           }
         }

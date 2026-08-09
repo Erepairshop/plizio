@@ -21,7 +21,8 @@
             "de": "Oberstadt (Horní město)",
             "hu": "Felsőváros (Horní město)",
             "ro": "Orașul de Sus (Horní město)",
-            "en": "Upper Town (Horní město)"
+            "en": "Upper Town (Horní město)",
+            "cs": "Horní město (Horní město)"
           },
           "coords": [
             17.4518,
@@ -37,7 +38,8 @@
             "de": "Beginnen Sie Ihren Tag hier, um die historische Atmosphäre aufzusaugen.",
             "hu": "Kezdje a napot itt, hogy magába szívja a történelmi légkört.",
             "ro": "Începeți ziua aici pentru a absorbi atmosfera istorică.",
-            "en": "Start your day here to soak in the historical atmosphere."
+            "en": "Start your day here to soak in the historical atmosphere.",
+            "cs": "Začněte zde den, abyste nasáli historickou atmosféru."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Schloss Přerov & Comenius-Denkmal",
             "hu": "Přerovi kastély és Comenius-emlékmű",
             "ro": "Castelul Přerov și Monumentul Comenius",
-            "en": "Přerov Castle & Comenius Monument"
+            "en": "Přerov Castle & Comenius Monument",
+            "cs": "Přerovský hrad a pomník Komenského"
           },
           "coords": [
             17.4525,
@@ -61,7 +64,8 @@
             "de": "Das Schloss beherbergt das Comenius-Museum, das dem berühmten Pädagogen gewidmet ist.",
             "hu": "A kastély ad otthont a Comenius Múzeumnak, amelyet a híres pedagógusnak szenteltek.",
             "ro": "Castelul găzduiește Muzeul Comenius, dedicat celebrului pedagog.",
-            "en": "The castle houses the Comenius Museum, dedicated to the famous educator."
+            "en": "The castle houses the Comenius Museum, dedicated to the famous educator.",
+            "cs": "V hradu sídlí Muzeum Komenského, věnované slavnému pedagogovi."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Reste der Stadtmauer",
             "hu": "Városfal maradványai",
             "ro": "Rămășițele zidurilor orașului",
-            "en": "Remains of the City Walls"
+            "en": "Remains of the City Walls",
+            "cs": "Zbytky městských hradeb"
           },
           "coords": [
             17.4533,
@@ -85,7 +90,8 @@
             "de": "Ein kurzer Spaziergang entlang der Mauern gibt Ihnen ein Gefühl für die mittelalterliche Stadt.",
             "hu": "Egy rövid séta a falak mentén érzékelteti a középkori város hangulatát.",
             "ro": "O scurtă plimbare de-a lungul zidurilor vă va da o idee despre orașul medieval.",
-            "en": "A short walk along the walls gives you a feel for the medieval town."
+            "en": "A short walk along the walls gives you a feel for the medieval town.",
+            "cs": "Krátká procházka podél hradeb vám přiblíží středověké město."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "St.-Lorenz-Kirche",
             "hu": "Szent Lőrinc-templom",
             "ro": "Biserica Sfântul Laurențiu",
-            "en": "St. Lawrence Church"
+            "en": "St. Lawrence Church",
+            "cs": "Kostel sv. Vavřince"
           },
           "coords": [
             17.4511,
@@ -109,7 +116,8 @@
             "de": "Bewundern Sie die barocke Architektur und die ruhige Atmosphäre im Inneren.",
             "hu": "Csodálja meg a barokk építészetet és a benti csendes légkört.",
             "ro": "Admirați arhitectura barocă și atmosfera liniștită din interior.",
-            "en": "Admire the Baroque architecture and the quiet atmosphere inside."
+            "en": "Admire the Baroque architecture and the quiet atmosphere inside.",
+            "cs": "Obdivujte barokní architekturu a tichou atmosféru uvnitř."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Tyrš-Brücke",
             "hu": "Tyrš híd",
             "ro": "Podul Tyrš",
-            "en": "Tyrš Bridge"
+            "en": "Tyrš Bridge",
+            "cs": "Tyršův most"
           },
           "coords": [
             17.4475,
@@ -133,7 +142,8 @@
             "de": "Überqueren Sie die Brücke für eine schöne Aussicht auf den Fluss Bečva.",
             "hu": "Menjen át a hídon a Bečva folyóra nyíló gyönyörű kilátásért.",
             "ro": "Traversați podul pentru o priveliște frumoasă asupra râului Bečva.",
-            "en": "Cross the bridge for a lovely view of the Bečva River."
+            "en": "Cross the bridge for a lovely view of the Bečva River.",
+            "cs": "Přejděte most a užijte si pěkný výhled na řeku Bečvu."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Michalov-Park",
             "hu": "Michalov park",
             "ro": "Parcul Michalov",
-            "en": "Michalov Park"
+            "en": "Michalov Park",
+            "cs": "Michalov park"
           },
           "coords": [
             17.442,
@@ -157,7 +168,8 @@
             "de": "Ideal für ein Mittagspicknick oder einen entspannten Spaziergang am Nachmittag.",
             "hu": "Ideális egy ebédpiknikhez vagy egy pihentető délutáni sétához.",
             "ro": "Ideal pentru un picnic la prânz sau o plimbare relaxantă după-amiaza.",
-            "en": "Perfect for a lunch picnic or a relaxing afternoon stroll."
+            "en": "Perfect for a lunch picnic or a relaxing afternoon stroll.",
+            "cs": "Ideální pro piknik na oběd nebo relaxační odpolední procházku."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Mammut-Ausstellung",
             "hu": "Mammut kiállítás",
             "ro": "Expoziția Mamutul",
-            "en": "Mammoth Exhibition"
+            "en": "Mammoth Exhibition",
+            "cs": "Mamutí expozice"
           },
           "coords": [
             17.455,
@@ -181,7 +194,8 @@
             "de": "Erfahren Sie mehr über die prähistorische Bedeutung der Region.",
             "hu": "Tudjon meg többet a régió őskori jelentőségéről.",
             "ro": "Aflați mai multe despre importanța preistorică a regiunii.",
-            "en": "Learn about the prehistoric significance of the region."
+            "en": "Learn about the prehistoric significance of the region.",
+            "cs": "Dozvíte se o pravěké důležitosti regionu."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Ein Spaziergang durch Přerov beginnt in der historischen Oberstadt, wo das Echo der Vergangenheit in den Gassen widerhallt. Der Vormittag ist der Erkundung des Schlosses und der alten Stadtmauern gewidmet, die von der mittelalterlichen Bedeutung der Stadt zeugen. Nach dem Überqueren der Tyrš-Brücke bietet der Michalov-Park eine grüne Oase der Ruhe für das Mittagessen. Der Nachmittag steht im Zeichen der Urgeschichte mit einem faszinierenden Besuch der Mammut-Ausstellung, die an die eiszeitlichen Jäger erinnert, die einst hier lebten.",
         "hu": "A přerovi séta a történelmi Felsővárosban kezdődik, ahol a múlt visszhangja hallatszik az utcákon. A délelőtt a kastély és a régi városfalak felfedezésével telik, amelyek a város középkori fontosságáról tanúskodnak. A Tyrš-hídon átkelve a Michalov park zöld, békés oázist kínál az ebédhez. A délután a történelem előtti idők jegyében telik, egy lenyűgöző látogatással a Mamut kiállításon, amely az egykor itt élt jégkorszaki vadászokra emlékeztet.",
         "ro": "O plimbare prin Přerov începe în Orașul de Sus istoric, unde ecourile trecutului răsună pe alei. Dimineața este dedicată explorării castelului și a vechilor ziduri ale orașului, mărturie a importanței medievale a orașului. După traversarea podului Tyrš, Parcul Michalov oferă o oază de pace verde pentru prânz. După-amiaza este dedicată preistoriei, cu o vizită fascinantă la Expoziția Mamutul, care amintește de vânătorii din epoca glaciară care au trăit cândva aici.",
-        "en": "A walk through Přerov begins in the historic Upper Town, where echoes of the past resonate in the alleys. The morning is dedicated to exploring the castle and the old city walls, which testify to the city's medieval importance. After crossing the Tyrš Bridge, Michalov Park offers a green oasis of peace for lunch. The afternoon is dedicated to prehistory with a fascinating visit to the Mammoth Exhibition, reminiscent of the Ice Age hunters who once lived here."
+        "en": "A walk through Přerov begins in the historic Upper Town, where echoes of the past resonate in the alleys. The morning is dedicated to exploring the castle and the old city walls, which testify to the city's medieval importance. After crossing the Tyrš Bridge, Michalov Park offers a green oasis of peace for lunch. The afternoon is dedicated to prehistory with a fascinating visit to the Mammoth Exhibition, reminiscent of the Ice Age hunters who once lived here.",
+        "cs": "Procházka Přerovem začíná v historickém Horním městě, kde se v uličkách ozývají ozvěny minulosti. Dopoledne je věnováno prohlídce hradu a starých městských hradeb, které svědčí o středověkém významu města. Po překročení Tyršova mostu nabízí Michalov park zelenou oázu klidu pro oběd. Odpoledne patří pravěku při fascinující návštěvě Mamutí expozice, připomínající lovecké kultury století ledových lovců, kteří zde dříve žili."
       },
       "gastro_picks": {
         "de": [
@@ -385,6 +400,12 @@
           "Most sights in the city center are easily accessible on foot.",
           "Allow plenty of time for the Comenius Museum; it's the city's highlight.",
           "A picnic in Michalov Park is a great alternative to eating at a restaurant."
+        ],
+        "cs": [
+          "Noste pohodlnou obuv, protože dlažební kostky v Horním městě mohou být nerovné.",
+          "Většina atrakcí v centru města je snadno dostupná pěšky.",
+          "Na Muzeum Komenského si vyhraďte dost času; je to vrchol města.",
+          "Piknik v Michalově parku je skvělá alternativa k jídlu v restauraci."
         ]
       },
       "variants": {
@@ -393,7 +414,8 @@
             "de": "Der Morgen beginnt am Oberring, wo das Kopfsteinpflaster im Regen glänzt. Mittags bietet das Schloss Přerov trockenen Unterschlupf und tiefe Einblicke in die Geschichte. Am Nachmittag führt der Weg kurz über den Tyrš-Steg, bevor der Michalov-Park im feuchten Grün ruht. Der Tag endet im Mammut-Museum, perfekt geschützt vor dem Wetter.",
             "hu": "A reggel a felsővárosban indul, ahol a macskakövek csillognak az esőben. Délben a vár és a Comenius Múzeum nyújt menedéket a csapadék elől. Délután a Tyrš-hídon átvágva érjük el a Michalov parkot, mely ilyenkor csendes és párás. A napot a mamutkiállítás fedett termeiben zárjuk, biztonságban a víztől.",
             "ro": "Dimineața începe în Orașul de Sus, unde pavajul strălucește sub ploaie. La prânz, Castelul Přerov oferă adăpost uscat și lecții de istorie fascinante. După-amiaza traversăm podul Tyrš spre parcul Michalov, care se odihnește în verdele umed. Ziua se încheie la expoziția mamuților, locul perfect pentru a scăpa de vremea rea.",
-            "en": "The morning starts in the Upper Town, with cobblestones glistening in the rain. At noon, Přerov Castle provides a dry refuge and rich historical insights. In the afternoon, a quick cross over Tyrš Bridge leads to the damp, quiet Michalov Park. The day ends at the indoor Mammoth Exhibition, perfectly sheltered from the elements."
+            "en": "The morning starts in the Upper Town, with cobblestones glistening in the rain. At noon, Přerov Castle provides a dry refuge and rich historical insights. In the afternoon, a quick cross over Tyrš Bridge leads to the damp, quiet Michalov Park. The day ends at the indoor Mammoth Exhibition, perfectly sheltered from the elements.",
+            "cs": "Ráno začíná v Horním městě, dlažební kostky se lesknou v dešti. V poledne poskytuje Přerovský hrad suché útočiště a bohaté historické poznatky. Odpoledne vede rychlé přejití přes Tyršův most do vlhkého, tichého Michalova parku. Den končí v kryté Výstavě mamutů, ideálně chráněné před počasím."
           },
           "stops": [
             {
@@ -402,7 +424,8 @@
                 "de": "Vorsicht auf glattem Pflaster.",
                 "hu": "Vigyázz a csúszós köveken.",
                 "ro": "Atenție la pavajul alunecos.",
-                "en": "Watch out for slippery stones."
+                "en": "Watch out for slippery stones.",
+                "cs": "Dejte pozor na kluzké kameny."
               }
             },
             {
@@ -411,7 +434,8 @@
                 "de": "Bestes Schlechtwetterziel.",
                 "hu": "Legjobb esős program.",
                 "ro": "Cea mai bună țintă pe ploaie.",
-                "en": "Best rainy day destination."
+                "en": "Best rainy day destination.",
+                "cs": "Nejlepší cíl na deštivý den."
               }
             },
             {
@@ -420,7 +444,8 @@
                 "de": "Regenschirm fest halten.",
                 "hu": "Tartsd erősen az esernyőt.",
                 "ro": "Ține umbrela bine.",
-                "en": "Hold your umbrella tight."
+                "en": "Hold your umbrella tight.",
+                "cs": "Držte si pevně deštník."
               }
             },
             {
@@ -429,7 +454,8 @@
                 "de": "Ruhiger, trockener Rückzugsort.",
                 "hu": "Csendes, száraz menedék.",
                 "ro": "Refugiu liniștit și uscat.",
-                "en": "Quiet, dry retreat."
+                "en": "Quiet, dry retreat.",
+                "cs": "Tiché, suché útočiště."
               }
             },
             {
@@ -438,7 +464,8 @@
                 "de": "Schnell überqueren.",
                 "hu": "Gyors átkelés ajánlott.",
                 "ro": "Traversare rapidă recomandată.",
-                "en": "Quick crossing recommended."
+                "en": "Quick crossing recommended.",
+                "cs": "Doporučeno rychlé přejití."
               }
             },
             {
@@ -447,7 +474,8 @@
                 "de": "Wege können matschig sein.",
                 "hu": "Az utak sárosak lehetnek.",
                 "ro": "Potecile pot fi noroioase.",
-                "en": "Paths might be muddy."
+                "en": "Paths might be muddy.",
+                "cs": "Cesty mohou být rozbahněné."
               }
             },
             {
@@ -456,7 +484,8 @@
                 "de": "Ideal zum Aufwärmen und Trocknen.",
                 "hu": "Ideális hely melegedni.",
                 "ro": "Ideal pentru a te usca.",
-                "en": "Ideal for warming up."
+                "en": "Ideal for warming up.",
+                "cs": "Ideální k zahřátí."
               }
             }
           ],
@@ -484,6 +513,12 @@
               "Take advantage of the long museum hours at the castle.",
               "The restaurant in Michalov Park offers a great shelter.",
               "A sturdy umbrella is needed against river winds."
+            ],
+            "cs": [
+              "Voděodolné boty jsou nutností kvůli kluzkým kamenům.",
+              "Využijte dlouhé otevírací doby hradu.",
+              "Restaurace v Michalově parku nabízí skvělé útočiště.",
+              "Proti říčním větrům je potřeba pevný deštník."
             ]
           }
         },
@@ -492,7 +527,8 @@
             "de": "Der frostige Morgen am Oberring zeigt die barocken Fassaden im winterlichen Licht. Mittags wärmen die dicken Mauern des Schlosses Přerov die Besucher auf. Der Nachmittag wird durch einen kurzen Spaziergang im Michalov-Park belebt, bevor die Dämmerung früh einsetzt. Den Abend verbringt man gemütlich bei den Mammuts im warmen Ausstellungsraum.",
             "hu": "A fagyos reggel a felsővárosban indul, a barokk homlokzatok téli fényben úsznak. Délben a vár vastag falai között keresünk enyhülést a hideg ellen. A délutáni séta a Michalov parkban frissítő, de a sötétedés korán érkezik. Az estét a mamutkiállítás fűtött termeiben töltjük, távol a jeges széltől.",
             "ro": "Dimineața geroasă în Orașul de Sus dezvăluie fațadele baroce în lumină de iarnă. La prânz, zidurile groase ale Castelului Přerov oferă căldură vizitatorilor. După-amiaza e animată de o plimbare prin parcul Michalov, înainte de apusul timpuriu. Seara se petrece confortabil la expoziția mamuților, la adăpost.",
-            "en": "The frosty morning in the Upper Town shows baroque facades in winter light. At noon, the thick walls of Přerov Castle provide warmth to visitors. The afternoon is enlivened by a crisp walk in Michalov Park before early sunset. The evening is spent comfortably inside the warm Mammoth Exhibition rooms."
+            "en": "The frosty morning in the Upper Town shows baroque facades in winter light. At noon, the thick walls of Přerov Castle provide warmth to visitors. The afternoon is enlivened by a crisp walk in Michalov Park before early sunset. The evening is spent comfortably inside the warm Mammoth Exhibition rooms.",
+            "cs": "Mrazivé ráno v Horním městě ukazuje barokní fasády v zimním světle. V poledne tlusté zdi Přerovského hradu poskytují návštěvníkům teplo. Odpoledne oživuje svěží procházka Michalovým parkem před časným západem slunce. Večer trávíte pohodlně v teplých sálech Výstavy mamutů."
           },
           "stops": [
             {
@@ -501,7 +537,8 @@
                 "de": "Achtung bei Glatteisgefahr.",
                 "hu": "Vigyázz a jegesedéssel.",
                 "ro": "Atenție la riscul de polei.",
-                "en": "Watch out for icy spots."
+                "en": "Watch out for icy spots.",
+                "cs": "Dejte pozor na ledové skvrny."
               }
             },
             {
@@ -510,7 +547,8 @@
                 "de": "Innenräume sind gut beheizt.",
                 "hu": "A belső terek jól fűtöttek.",
                 "ro": "Interiorul este bine încălzit.",
-                "en": "Interiors are well heated."
+                "en": "Interiors are well heated.",
+                "cs": "Interiéry jsou dobře vytopené."
               }
             },
             {
@@ -519,7 +557,8 @@
                 "de": "Windgeschützte Kleidung tragen.",
                 "hu": "Szélálló ruházat ajánlott.",
                 "ro": "Purtați haine rezistente la vânt.",
-                "en": "Wear windproof clothing."
+                "en": "Wear windproof clothing.",
+                "cs": "Noste větruodolné oblečení."
               }
             },
             {
@@ -528,7 +567,8 @@
                 "de": "Besinnliche Stille im Warmen.",
                 "hu": "Meghitt csend a melegben.",
                 "ro": "Liniște și căldură înăuntru.",
-                "en": "Peaceful silence in the warmth."
+                "en": "Peaceful silence in the warmth.",
+                "cs": "Pokojné ticho v teple."
               }
             },
             {
@@ -537,7 +577,8 @@
                 "de": "Schöne Aussicht auf die Eisrand.",
                 "hu": "Szép kilátás a jégtáblákra.",
                 "ro": "Vedere frumoasă spre gheață.",
-                "en": "Nice view of the ice edges."
+                "en": "Nice view of the ice edges.",
+                "cs": "Hezký výhled na ledové okraje."
               }
             },
             {
@@ -546,7 +587,8 @@
                 "de": "Winterwunderland bei Schnee.",
                 "hu": "Hóban igazi téli varázslat.",
                 "ro": "Peisaj de basm dacă ninge.",
-                "en": "Winter wonderland if it snows."
+                "en": "Winter wonderland if it snows.",
+                "cs": "Zimní ráj, pokud napadne sníh."
               }
             },
             {
@@ -555,7 +597,8 @@
                 "de": "Letzter Stopp im Warmen.",
                 "hu": "Utolsó állomás a melegben.",
                 "ro": "Ultima oprire la căldură.",
-                "en": "Last stop in the warmth."
+                "en": "Last stop in the warmth.",
+                "cs": "Poslední zastávka v teple."
               }
             }
           ],
@@ -583,6 +626,12 @@
               "Sunset occurs as early as 4:30 PM.",
               "Find hot drinks in the main square cafes.",
               "Stick to the cleared paths in the park."
+            ],
+            "cs": [
+              "Na návštěvy muzeí se oblékněte do vrstev.",
+              "Západ slunce už v 16:30.",
+              "Hledejte teplé nápoje v kavárnách na hlavním náměstí.",
+              "Držte se upravených cest v parku."
             ]
           }
         }
@@ -601,7 +650,8 @@
             "de": "Oberstadt (Horní město)",
             "hu": "Felsőváros (Horní město)",
             "ro": "Orașul de Sus (Horní město)",
-            "en": "Upper Town (Horní město)"
+            "en": "Upper Town (Horní město)",
+            "cs": "Horní město (Horní město)"
           },
           "coords": [
             17.4518,
@@ -617,7 +667,8 @@
             "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie den Platz zu Fuß.",
             "hu": "Parkolja le a kerékpárt, és fedezze fel a teret gyalog.",
             "ro": "Parcați bicicleta și explorați piața pe jos.",
-            "en": "Park your bike and explore the square on foot."
+            "en": "Park your bike and explore the square on foot.",
+            "cs": "Zaparkujte kolo a prozkoumejte náměstí pěšky."
           }
         },
         {
@@ -625,7 +676,8 @@
             "de": "Schloss Přerov & Mammut-Ausstellung",
             "hu": "Přerovi kastély és Mamut kiállítás",
             "ro": "Castelul Přerov și Expoziția Mamutul",
-            "en": "Přerov Castle & Mammoth Exhibition"
+            "en": "Přerov Castle & Mammoth Exhibition",
+            "cs": "Přerovský hrad & Výstava mamutů"
           },
           "coords": [
             17.4525,
@@ -641,7 +693,8 @@
             "de": "Kombinieren Sie den Besuch des Schlosses mit der prähistorischen Ausstellung.",
             "hu": "Kombinálja a kastélylátogatást az őskori kiállítással.",
             "ro": "Combinați vizita la castel cu expoziția preistorică.",
-            "en": "Combine the visit to the castle with the prehistoric exhibition."
+            "en": "Combine the visit to the castle with the prehistoric exhibition.",
+            "cs": "Spojte návštěvu hradu s prehistorickou expozicí."
           }
         },
         {
@@ -649,7 +702,8 @@
             "de": "St.-Lorenz-Kirche",
             "hu": "Szent Lőrinc-templom",
             "ro": "Biserica Sfântul Laurențiu",
-            "en": "St. Lawrence Church"
+            "en": "St. Lawrence Church",
+            "cs": "Kostel sv. Vavřince"
           },
           "coords": [
             17.4511,
@@ -665,7 +719,8 @@
             "de": "Ein kurzer Halt, um die beeindruckende Fassade zu bewundern.",
             "hu": "Egy rövid megálló, hogy megcsodálja a lenyűgöző homlokzatot.",
             "ro": "O oprire scurtă pentru a admira fațada impresionantă.",
-            "en": "A quick stop to admire the impressive facade."
+            "en": "A quick stop to admire the impressive facade.",
+            "cs": "Rychlá zastávka k obdivu impozantní fasády."
           }
         },
         {
@@ -673,7 +728,8 @@
             "de": "Tyrš-Brücke",
             "hu": "Tyrš híd",
             "ro": "Podul Tyrš",
-            "en": "Tyrš Bridge"
+            "en": "Tyrš Bridge",
+            "cs": "Tyršův most"
           },
           "coords": [
             17.4475,
@@ -689,7 +745,8 @@
             "de": "Eine angenehme Fahrt über den Fluss.",
             "hu": "Kellemes utazás a folyón át.",
             "ro": "O plimbare plăcută peste râu.",
-            "en": "A pleasant ride across the river."
+            "en": "A pleasant ride across the river.",
+            "cs": "Příjemná jízda přes řeku."
           }
         },
         {
@@ -697,7 +754,8 @@
             "de": "Michalov-Park",
             "hu": "Michalov park",
             "ro": "Parcul Michalov",
-            "en": "Michalov Park"
+            "en": "Michalov Park",
+            "cs": "Michalův park"
           },
           "coords": [
             17.442,
@@ -713,7 +771,8 @@
             "de": "Perfekt für eine Mittagspause. Es gibt viele Wege, die man mit dem Fahrrad erkunden kann.",
             "hu": "Tökéletes egy ebédszünethez. Sok kerékpárral felfedezhető ösvény van.",
             "ro": "Perfect pentru o pauză de prânz. Există multe poteci de explorat cu bicicleta.",
-            "en": "Perfect for a lunch break. There are many paths to explore by bike."
+            "en": "Perfect for a lunch break. There are many paths to explore by bike.",
+            "cs": "Perfektní na obědovou přestávku. V parku je mnoho cest k projetí na kole."
           }
         },
         {
@@ -721,7 +780,8 @@
             "de": "Comenius-Denkmal (Parkseite)",
             "hu": "Comenius-emlékmű (park felőli oldal)",
             "ro": "Monumentul Comenius (partea parcului)",
-            "en": "Comenius Monument (Park Side)"
+            "en": "Comenius Monument (Park Side)",
+            "cs": "Pomník Komenského (strana parku)"
           },
           "coords": [
             17.44,
@@ -737,7 +797,8 @@
             "de": "Eine andere Perspektive auf den großen Denker, umgeben von Grün.",
             "hu": "A nagy gondolkodó más szemszögből, zölddel körülvéve.",
             "ro": "O perspectivă diferită asupra marelui gânditor, înconjurat de verdeață.",
-            "en": "A different perspective on the great thinker, surrounded by green."
+            "en": "A different perspective on the great thinker, surrounded by green.",
+            "cs": "Jiná perspektiva na velkého myslitele, obklopená zelení."
           }
         },
         {
@@ -745,7 +806,8 @@
             "de": "Entlang des Flusses Bečva",
             "hu": "A Bečva folyó mentén",
             "ro": "De-a lungul râului Bečva",
-            "en": "Along the Bečva River"
+            "en": "Along the Bečva River",
+            "cs": "Podél řeky Bečvy"
           },
           "coords": [
             17.45,
@@ -761,7 +823,8 @@
             "de": "Genießen Sie eine entspannte Fahrt auf dem Radweg am Flussufer.",
             "hu": "Élvezze a pihentető kerékpározást a folyóparti kerékpárúton.",
             "ro": "Bucurați-vă de o plimbare relaxantă pe pista de biciclete de pe malul râului.",
-            "en": "Enjoy a relaxing ride on the riverside bike path."
+            "en": "Enjoy a relaxing ride on the riverside bike path.",
+            "cs": "Užijte si odpočinkovou jízdu po nábřežní cyklostezce."
           }
         }
       ],
@@ -769,7 +832,8 @@
         "de": "Mit dem Fahrrad lässt sich Přerov aktiv und flexibel erkunden. Der Tag startet in der Oberstadt, bevor es zum Schloss geht, wo Kultur und Urgeschichte aufeinandertreffen. Nach kurzen Stopps an der Kirche und der markanten Tyrš-Brücke lädt der Michalov-Park zu einer ausgedehnten Mittagspause im Grünen ein. Der Nachmittag ist einer entspannten Radtour entlang des Flusses Bečva gewidmet, die eine wunderbare Perspektive auf die Stadt und ihre Natur bietet, bevor der Tag ausklingt.",
         "hu": "Kerékpárral aktívan és rugalmasan fedezhető fel Přerov. A nap a Felsővárosban indul, mielőtt a kastélyhoz érnénk, ahol a kultúra és az őstörténet találkozik. Rövid megállók után a templomnál és a jellegzetes Tyrš-hídnál a Michalov park hívogat egy kiadós ebédszünetre a zöldben. A délután egy pihentető kerékpártúrával telik a Bečva folyó mentén, amely csodálatos kilátást nyújt a városra és a természetre, mielőtt a nap véget ér.",
         "ro": "Cu bicicleta, Přerov poate fi explorat activ și flexibil. Ziua începe în Orașul de Sus înainte de a ajunge la castel, unde cultura și preistoria se întâlnesc. După opriri scurte la biserică și la podul distinctiv Tyrš, Parcul Michalov vă invită la o pauză de prânz extinsă în aer liber. După-amiaza este dedicată unei plimbări relaxante cu bicicleta de-a lungul râului Bečva, oferind o perspectivă minunată asupra orașului și a naturii sale înainte de încheierea zilei.",
-        "en": "By bike, Přerov can be explored actively and flexibly. The day starts in the Upper Town before heading to the castle, where culture and prehistory meet. After short stops at the church and the distinctive Tyrš Bridge, Michalov Park invites you for an extended lunch break in the green. The afternoon is dedicated to a relaxing bike ride along the Bečva River, offering a wonderful perspective of the city and its nature before the day ends."
+        "en": "By bike, Přerov can be explored actively and flexibly. The day starts in the Upper Town before heading to the castle, where culture and prehistory meet. After short stops at the church and the distinctive Tyrš Bridge, Michalov Park invites you for an extended lunch break in the green. The afternoon is dedicated to a relaxing bike ride along the Bečva River, offering a wonderful perspective of the city and its nature before the day ends.",
+        "cs": "Na kole lze Přerov aktivně a flexibilně prozkoumat. Den začíná v Horním městě, poté směřujete na hrad, kde se setkává kultura a pravěk. Po krátkých zastávkách u kostela a výrazného Tyršova mostu zve Michalův park na delší obědovou pauzu v zeleni. Odpoledne patří odpočinkové jízdě podél řeky Bečvy, která nabízí nádherný pohled na město a jeho přírodu před koncem dne."
       },
       "gastro_picks": {
         "de": [
@@ -965,6 +1029,12 @@
           "Always lock your bike securely, especially in the city center.",
           "Bring enough water, especially for the tour along the river.",
           "A helmet is recommended for your safety."
+        ],
+        "cs": [
+          "Zkontrolujte stav cyklostezek, zejména po nepříznivém počasí.",
+          "Vždy kolo pevně zamkněte, zvlášť v centru města.",
+          "Vezměte dostatek vody, zvláště na trase podél řeky.",
+          "Pro vaši bezpečnost se doporučuje helma."
         ]
       },
       "variants": {
@@ -973,7 +1043,8 @@
             "de": "Trotz Regen bietet die Radtour durch Přerov eine dynamische Perspektive auf die Stadt. Am Vormittag geht es zügig zum Schloss, wo die Fahrräder im Trockenen geparkt werden können. Mittags trotzen wir dem Wetter am Flussufer der Bečva. Der Nachmittag endet mit einer Fahrt durch den erfrischend nassen Michalov-Park, bevor wir uns unterstellen.",
             "hu": "Az eső ellenére a kerékpártúra dinamikus élményt nyújt Přerovban. Délelőtt gyorsan a várhoz tekerünk, ahol fedett helyen hagyhatjuk a bringákat. Délben a Bečva-parton dacolunk az elemekkel. A délutáni tekerés a Michalov park frissítő esőjében ér véget, mielőtt fedett helyre húzódnánk.",
             "ro": "În ciuda ploii, turul cu bicicleta prin Přerov oferă o perspectivă dinamică. Dimineața pedalăm rapid spre castel, unde putem parca la adăpost. La prânz înfruntăm vremea pe malul râului Bečva. După-amiaza se încheie cu o tură prin parcul Michalov, înainte de a căuta un refugiu uscat.",
-            "en": "Despite the rain, the bike tour through Přerov offers a dynamic city view. In the morning, we cycle quickly to the castle to park in the dry. At noon, we brave the elements along the Bečva riverbank. The afternoon ride through the refreshing Michalov Park ends before seeking indoor shelter."
+            "en": "Despite the rain, the bike tour through Přerov offers a dynamic city view. In the morning, we cycle quickly to the castle to park in the dry. At noon, we brave the elements along the Bečva riverbank. The afternoon ride through the refreshing Michalov Park ends before seeking indoor shelter.",
+            "cs": "I v dešti nabízí cykloturistika Přerovem dynamický pohled na město. Ráno rychle jedeme k hradu, kde parkujeme v suchu. V poledne čelíme živlům podél břehu Bečvy. Odpolední jízda Michalovým parkem osvěží tělo před hledáním vnitřního útočiště."
           },
           "stops": [
             {
@@ -982,7 +1053,8 @@
                 "de": "Rutschige Kurven einplanen.",
                 "hu": "Vigyázz a csúszós kanyarokban.",
                 "ro": "Atenție la curbele alunecoase.",
-                "en": "Anticipate slippery turns."
+                "en": "Anticipate slippery turns.",
+                "cs": "Počkejte kluzké zatáčky."
               }
             },
             {
@@ -991,7 +1063,8 @@
                 "de": "Fahrradständer sind teils überdacht.",
                 "hu": "A tárolók részben fedettek.",
                 "ro": "Rastelele sunt parțial acoperite.",
-                "en": "Racks are partly covered."
+                "en": "Racks are partly covered.",
+                "cs": "Stojany jsou částečně kryté."
               }
             },
             {
@@ -1000,7 +1073,8 @@
                 "de": "Kurze Pause im Trockenen.",
                 "hu": "Rövid pihenő a szárazon.",
                 "ro": "Scurtă pauză la uscat.",
-                "en": "Short break in the dry."
+                "en": "Short break in the dry.",
+                "cs": "Krátká přestávka v suchu."
               }
             },
             {
@@ -1009,7 +1083,8 @@
                 "de": "Windböen auf der Brücke.",
                 "hu": "Széllökésekre várhatóak a hídon.",
                 "ro": "Rafale de vânt pe pod.",
-                "en": "Gusts of wind on the bridge."
+                "en": "Gusts of wind on the bridge.",
+                "cs": "Nárazové větry na mostě."
               }
             },
             {
@@ -1018,7 +1093,8 @@
                 "de": "Spritzschutz am Rad wichtig.",
                 "hu": "Sárvédő használata javasolt.",
                 "ro": "Apărătorile sunt esențiale.",
-                "en": "Mudguards are essential here."
+                "en": "Mudguards are essential here.",
+                "cs": "Blatníky jsou tu nezbytné."
               }
             },
             {
@@ -1027,7 +1103,8 @@
                 "de": "Nur kurzer Fotostopp.",
                 "hu": "Csak egy gyors fotómegálló.",
                 "ro": "Doar o scurtă oprire foto.",
-                "en": "Just a quick photo stop."
+                "en": "Just a quick photo stop.",
+                "cs": "Jen rychlá zastávka na fotku."
               }
             },
             {
@@ -1036,7 +1113,8 @@
                 "de": "Vorsicht auf nassen Uferwegen.",
                 "hu": "Vigyázz a vizes parti utakon.",
                 "ro": "Atenție pe aleile de pe mal.",
-                "en": "Careful on wet river paths."
+                "en": "Careful on wet river paths.",
+                "cs": "Opatrně na mokých cestách u řeky."
               }
             }
           ],
@@ -1064,6 +1142,12 @@
               "Slightly reduce tire pressure for better grip.",
               "Braking distances increase on wet cobblestones.",
               "Use the bike lockers at the station if available."
+            ],
+            "cs": [
+              "Pláštěnka je pro tuto trasu nepostradatelná.",
+              "Mírně snižte tlak v pneumatikách pro lepší přilnavost.",
+              "Brzdné vzdálenosti se na mokré dlažbě prodlužují.",
+              "Využijte úschovny kol na nádraží, pokud jsou k dispozici."
             ]
           }
         },
@@ -1072,7 +1156,8 @@
             "de": "Die winterliche Radtour startet bei klarer, kalter Luft am Oberring. Mittags bietet das Schloss eine willkommene Pause vom Fahrtwind. Der Nachmittag führt durch den frostigen Michalov-Park, wobei die Bewegung hilft, warm zu bleiben. Bevor es dunkel wird, radeln wir am vereisten Flussufer der Bečva entlang, ein echtes Winterabenteuer.",
             "hu": "A téli bringázás friss, hideg levegővel indul a felsővárosban. Délben a vár nyújt védelmet a menetszél elől egy pihenő erejéig. A délutáni tekerés a Michalov parkban segít melegen tartani a testet. Sötétedés előtt még eltekerünk a Bečva jeges partján, ami igazi téli kaland.",
             "ro": "Turul de iarnă începe cu aer rece și curat în Orașul de Sus. La prânz, castelul oferă o pauză binemeritată de la vântul tăios. După-amiaza prin parcul Michalov ne ajută să ne menținem căldura prin mișcare. Înainte de întuneric, pedalăm pe malul înghețat al Bečvei.",
-            "en": "The winter bike tour starts with crisp, cold air in the Upper Town. At noon, the castle provides a welcome break from the wind chill. The afternoon ride through Michalov Park helps keep the body warm through movement. Before dark, we cycle along the icy Bečva riverbank."
+            "en": "The winter bike tour starts with crisp, cold air in the Upper Town. At noon, the castle provides a welcome break from the wind chill. The afternoon ride through Michalov Park helps keep the body warm through movement. Before dark, we cycle along the icy Bečva riverbank.",
+            "cs": "Zimní cyklturistika začíná s ostrým, studeným vzduchem v Horním městě. V poledne hrad poskytuje vítanou přestávku před větrem. Odpolední jízda Michalovým parkem udrží tělo v teple pohybem. Před setměním jedeme podél zledovatělého nábřeží Bečvy."
           },
           "stops": [
             {
@@ -1081,7 +1166,8 @@
                 "de": "Schwarzeis auf Schattenseiten.",
                 "hu": "Fekete jég az árnyékos részeken.",
                 "ro": "Gheață neagră la umbră.",
-                "en": "Black ice in shaded areas."
+                "en": "Black ice in shaded areas.",
+                "cs": "Černý led ve stinných místech."
               }
             },
             {
@@ -1090,7 +1176,8 @@
                 "de": "Räumlichkeiten zum Aufwärmen.",
                 "hu": "Helyiségek a felmelegedéshez.",
                 "ro": "Spații pentru încălzire.",
-                "en": "Rooms available for warming up."
+                "en": "Rooms available for warming up.",
+                "cs": "K dispozici místnosti k ohřátí."
               }
             },
             {
@@ -1099,7 +1186,8 @@
                 "de": "Kurzer Halt im Windschatten.",
                 "hu": "Rövid megálló a szélárnyékban.",
                 "ro": "Scurtă oprire la adăpost.",
-                "en": "Short stop in the wind shadow."
+                "en": "Short stop in the wind shadow.",
+                "cs": "Krátká zastávka v závětří."
               }
             },
             {
@@ -1108,7 +1196,8 @@
                 "de": "Glatteisgefahr auf Metallteilen.",
                 "hu": "Jegesedés a fém elemeken.",
                 "ro": "Risc de polei pe elemente metalice.",
-                "en": "Ice risk on metal parts."
+                "en": "Ice risk on metal parts.",
+                "cs": "Riziko námrazy na kovových částech."
               }
             },
             {
@@ -1117,7 +1206,8 @@
                 "de": "Wege sind oft gestreut.",
                 "hu": "Az utakat gyakran sózzák.",
                 "ro": "Aleile sunt de obicei presărate.",
-                "en": "Paths are usually salted/sanded."
+                "en": "Paths are usually salted/sanded.",
+                "cs": "Cesty jsou obvykle posypány solí/pískem."
               }
             },
             {
@@ -1126,7 +1216,8 @@
                 "de": "Handschuhe anlassen beim Foto.",
                 "hu": "Fotózáskor se vedd le a kesztyűt.",
                 "ro": "Nu scoateți mănușile pentru poze.",
-                "en": "Keep gloves on for photos."
+                "en": "Keep gloves on for photos.",
+                "cs": "Nechte si rukavice při focení."
               }
             },
             {
@@ -1135,7 +1226,8 @@
                 "de": "Beißender Wind am Wasser.",
                 "hu": "Csípős szél a vízparton.",
                 "ro": "Vânt tăios lângă apă.",
-                "en": "Biting wind near the water."
+                "en": "Biting wind near the water.",
+                "cs": "Pronikavý vítr u vody."
               }
             }
           ],
@@ -1163,6 +1255,12 @@
               "Watch your e-bike battery life in the cold.",
               "Early sunset limits the tour duration. ",
               "Drink warm beverages from a thermos regularly."
+            ],
+            "cs": [
+              "Termoprádlo a větruodolné rukavice jsou zásadní.",
+              "Dávejte pozor na životnost baterie u elektrokola v chladu.",
+              "Brzký západ slunce omezuje délku výletu.",
+              "Pravidelně pijte teplé nápoje z termosky."
             ]
           }
         }
@@ -1181,7 +1279,8 @@
             "de": "Parkplatz am Michalov-Park",
             "hu": "Parkoló a Michalov parknál",
             "ro": "Parcare la Parcul Michalov",
-            "en": "Parking at Michalov Park"
+            "en": "Parking at Michalov Park",
+            "cs": "Parkování u Michalova parku"
           },
           "coords": [
             17.441,
@@ -1197,7 +1296,8 @@
             "de": "Starten Sie hier, um den ersten Teil der Stadt zu Fuß zu erkunden.",
             "hu": "Induljon innen, hogy gyalog fedezze fel a város első részét.",
             "ro": "Începeți de aici pentru a explora prima parte a orașului pe jos.",
-            "en": "Start here to explore the first part of the city on foot."
+            "en": "Start here to explore the first part of the city on foot.",
+            "cs": "Odtud začněte objevovat první část města pěšky."
           }
         },
         {
@@ -1205,7 +1305,8 @@
             "de": "Spaziergang durch den Michalov-Park & zur Tyrš-Brücke",
             "hu": "Séta a Michalov parkban és a Tyrš-hídhoz",
             "ro": "Plimbare prin Parcul Michalov și spre Podul Tyrš",
-            "en": "Walk through Michalov Park & to Tyrš Bridge"
+            "en": "Walk through Michalov Park & to Tyrš Bridge",
+            "cs": "Projděte Michalův park a k Tyršovu mostu"
           },
           "coords": [
             17.445,
@@ -1221,7 +1322,8 @@
             "de": "Ein entspannter Morgenspaziergang zur Einstimmung auf den Tag.",
             "hu": "Egy pihentető reggeli séta a napra való ráhangolódáshoz.",
             "ro": "O plimbare relaxantă de dimineață pentru a intra în atmosfera zilei.",
-            "en": "A relaxing morning walk to set the mood for the day."
+            "en": "A relaxing morning walk to set the mood for the day.",
+            "cs": "Uklidňující ranní procházka pro nastartování dne."
           }
         },
         {
@@ -1229,7 +1331,8 @@
             "de": "Parkplatz Oberstadt",
             "hu": "Parkoló a Felsővárosnál",
             "ro": "Parcare Orașul de Sus",
-            "en": "Upper Town Parking"
+            "en": "Upper Town Parking",
+            "cs": "Parkování Horní město"
           },
           "coords": [
             17.454,
@@ -1245,7 +1348,8 @@
             "de": "Parken Sie hier für den zweiten Erkundungs-Cluster.",
             "hu": "Parkoljon itt a második felfedező csoporthoz.",
             "ro": "Parcați aici pentru al doilea grup de explorare.",
-            "en": "Park here for the second exploration cluster."
+            "en": "Park here for the second exploration cluster.",
+            "cs": "Zde zaparkujte pro druhý objevitelský okruh."
           }
         },
         {
@@ -1253,7 +1357,8 @@
             "de": "Oberstadt, Schloss & Mammut-Ausstellung",
             "hu": "Felsőváros, kastély és Mamut kiállítás",
             "ro": "Orașul de Sus, Castelul și Expoziția Mamutul",
-            "en": "Upper Town, Castle & Mammoth Exhibition"
+            "en": "Upper Town, Castle & Mammoth Exhibition",
+            "cs": "Horní město, hrad & Výstava mamutů"
           },
           "coords": [
             17.4522,
@@ -1269,7 +1374,8 @@
             "de": "Nehmen Sie sich Zeit, diesen historischen Kern zu Fuß zu entdecken. Hier ist auch Ihr Mittagessen geplant.",
             "hu": "Szánjon időt e történelmi mag gyalogos felfedezésére. Az ebédjét is itt tervezik.",
             "ro": "Luați-vă timp să descoperiți acest nucleu istoric pe jos. Prânzul este, de asemenea, planificat aici.",
-            "en": "Take your time to discover this historic core on foot. Your lunch is also planned here."
+            "en": "Take your time to discover this historic core on foot. Your lunch is also planned here.",
+            "cs": "Nechte si čas na objevování tohoto historického jádra pěšky. Zde je také plánován oběd."
           }
         },
         {
@@ -1277,7 +1383,8 @@
             "de": "St.-Lorenz-Kirche & Stadtmauer",
             "hu": "Szent Lőrinc-templom és városfal",
             "ro": "Biserica Sf. Laurențiu și Zidurile Orașului",
-            "en": "St. Lawrence Church & City Walls"
+            "en": "St. Lawrence Church & City Walls",
+            "cs": "Kostel sv. Vavřince & Městské hradby"
           },
           "coords": [
             17.4515,
@@ -1293,7 +1400,8 @@
             "de": "Ein kurzer Spaziergang führt Sie zu diesen beiden Sehenswürdigkeiten.",
             "hu": "Egy rövid séta elvezeti Önt ehhez a két látnivalóhoz.",
             "ro": "O scurtă plimbare vă duce la aceste două atracții.",
-            "en": "A short walk will take you to these two sights."
+            "en": "A short walk will take you to these two sights.",
+            "cs": "Krátká procházka vás dovede k těmto dvěma pamětihodnostem."
           }
         },
         {
@@ -1301,7 +1409,8 @@
             "de": "Aussichtspunkt bei Předmostí",
             "hu": "Kilátópont Předmostí közelében",
             "ro": "Punct de belvedere lângă Předmostí",
-            "en": "Viewpoint near Předmostí"
+            "en": "Viewpoint near Předmostí",
+            "cs": "Vyhlídka u Předmostí"
           },
           "coords": [
             17.48,
@@ -1317,7 +1426,8 @@
             "de": "Fahren Sie für einen Panoramablick über die Stadt und die Hanna-Ebene aus der Stadt hinaus.",
             "hu": "Hajtson ki a városból egy panorámás kilátásért a városra és a Haná-síkságra.",
             "ro": "Conduceți în afara orașului pentru o vedere panoramică asupra orașului și a Câmpiei Haná.",
-            "en": "Drive out of town for a panoramic view over the city and the Haná plain."
+            "en": "Drive out of town for a panoramic view over the city and the Haná plain.",
+            "cs": "Vyjeďte z města pro panoramatický výhled na město a hanáckou rovinu."
           }
         }
       ],
@@ -1325,7 +1435,8 @@
         "de": "Mit dem Auto lässt sich Přerovs Stadtkern mit einem Ausflug in die Umgebung kombinieren. Der Tag beginnt mit einem Spaziergang im Michalov-Park, dem ersten Cluster. Danach fahren Sie zum zweiten Cluster, dem historischen Herzen der Stadt. Hier parken Sie erneut und erkunden zu Fuß die Oberstadt, das Schloss und die Museen. Der Nachmittag bietet einen Kontrast: eine kurze Fahrt zu einem Aussichtspunkt, der einen weiten Blick über die Region und einen perfekten Abschluss für Ihren Besuch bietet.",
         "hu": "Autóval Přerov városközpontja kombinálható egy kirándulással a környékre. A nap a Michalov parkban tett sétával indul, az első felfedezőcsoportban. Ezután a város történelmi szívébe, a második csoportba hajt. Itt újra leparkol, és gyalog fedezi fel a Felsővárost, a kastélyt és a múzeumokat. A délután kontrasztot kínál: egy rövid autóút egy kilátóponthoz, amely széles kilátást nyújt a régióra és tökéletes befejezése a látogatásnak.",
         "ro": "Cu mașina, centrul orașului Přerov poate fi combinat cu o excursie în împrejurimi. Ziua începe cu o plimbare în Parcul Michalov, primul grup de atracții. Apoi, conduceți spre al doilea grup, inima istorică a orașului. Aici parcați din nou și explorați pe jos Orașul de Sus, castelul și muzeele. După-amiaza oferă un contrast: o scurtă călătorie cu mașina până la un punct de belvedere, care oferă o priveliște largă asupra regiunii și o încheiere perfectă a vizitei dumneavoastră.",
-        "en": "By car, Přerov's city center can be combined with a trip to the surrounding area. The day begins with a walk in Michalov Park, the first cluster. You then drive to the second cluster, the historic heart of the city. Here you park again and explore the Upper Town, the castle, and the museums on foot. The afternoon offers a contrast: a short drive to a viewpoint that offers a wide view over the region and a perfect end to your visit."
+        "en": "By car, Přerov's city center can be combined with a trip to the surrounding area. The day begins with a walk in Michalov Park, the first cluster. You then drive to the second cluster, the historic heart of the city. Here you park again and explore the Upper Town, the castle, and the museums on foot. The afternoon offers a contrast: a short drive to a viewpoint that offers a wide view over the region and a perfect end to your visit.",
+        "cs": "Autem lze centrum Přerova spojit s výletem do okolí. Den začíná procházkou v Michalově parku, prvním clusteru. Poté odjedete do druhého clusteru, historického srdce města. Zde znovu zaparkujete a pěšky prozkoumáte Horní město, hrad a muzea. Odpoledne nabízí kontrast: krátký přesun k vyhlídce, která poskytuje široký pohled na region a perfektní závěr návštěvy."
       },
       "gastro_picks": {
         "de": [
@@ -1521,6 +1632,12 @@
           "Find out about parking options before driving into the city center.",
           "A car allows you to easily get to viewpoints outside the center.",
           "Pay attention to the parking zones and times in the city."
+        ],
+        "cs": [
+          "Použijte strategii clusterů, abyste minimalizovali parkovné a stres.",
+          "Zjistěte možnosti parkování před vjezdem do centra města.",
+          "Auto vám umožní snadno se dostat na vyhlídky mimo centrum.",
+          "Dávejte pozor na zóny a časy parkování ve městě."
         ]
       },
       "variants": {
@@ -1529,7 +1646,8 @@
             "de": "Die Autofahrt durch Přerov ist bei Regen die komfortabelste Wahl. Wir parken direkt am Michalov-Park und genießen den Blick ins Grüne aus dem Trockenen. Mittags führt die kurze Fahrt zum Oberring, wo das Schloss mit seinen Museen lockt. Der Tag endet sicher und trocken mit einer Fahrt zum Aussichtspunkt Předmostí.",
             "hu": "Az autós városnézés esőben a legkényelmesebb választás. Közvetlenül a Michalov parknál parkolunk, élvezve a zöld látványt a szárazból. Délben a felsővárosba hajtunk, ahol a vár múzeumai csábítanak. A napot biztonságban és szárazon zárjuk a předmostíi kilátópontnál.",
             "ro": "Vizitarea cu mașina este cea mai confortabilă alegere pe ploaie. Parcăm chiar lângă parcul Michalov și admirăm natura de la adăpost. La prânz, scurta cursă spre Orașul de Sus ne duce la castel. Ziua se încheie în siguranță și uscat la punctul de belvedere Předmostí.",
-            "en": "Driving through Přerov is the most comfortable choice in the rain. We park right by Michalov Park and enjoy the greenery from the dry interior. At noon, a short drive to the Upper Town leads to the castle museums. The day ends safely and dry with a drive to the Předmostí viewpoint."
+            "en": "Driving through Přerov is the most comfortable choice in the rain. We park right by Michalov Park and enjoy the greenery from the dry interior. At noon, a short drive to the Upper Town leads to the castle museums. The day ends safely and dry with a drive to the Předmostí viewpoint.",
+            "cs": "Jízda přes Přerov je v dešti nejpohodlnější volba. Parkujeme přímo u Michalova parku a z suchého interiéru si užíváme zeleň. V poledne krátká jízda do Horního města vede ke zámku a jeho muzeím. Den bezpečně a v suchu zakončíme jízdou na vyhlídku Předmostí."
           },
           "stops": [
             {
@@ -1538,7 +1656,8 @@
                 "de": "Parkplatz ist oft nass.",
                 "hu": "A parkoló gyakran vizes.",
                 "ro": "Parcarea este adesea udă.",
-                "en": "Parking lot is often wet."
+                "en": "Parking lot is often wet.",
+                "cs": "Parkoviště je často mokré."
               }
             },
             {
@@ -1547,7 +1666,8 @@
                 "de": "Kurzer Sprint zum Steg.",
                 "hu": "Gyors séta a hídhoz.",
                 "ro": "Sprint scurt spre pod.",
-                "en": "Short sprint to the bridge."
+                "en": "Short sprint to the bridge.",
+                "cs": "Krátký sprint na most."
               }
             },
             {
@@ -1556,7 +1676,8 @@
                 "de": "Zentral und regensicher.",
                 "hu": "Központi és esőbiztos hely.",
                 "ro": "Central și sigur pe ploaie.",
-                "en": "Central and rain-safe spot."
+                "en": "Central and rain-safe spot.",
+                "cs": "Centrální místo chráněné před deštěm."
               }
             },
             {
@@ -1565,7 +1686,8 @@
                 "de": "Langer Aufenthalt im Trockenen.",
                 "hu": "Hosszú időtöltés a szárazon.",
                 "ro": "Ședere lungă la uscat.",
-                "en": "Long stay in the dry."
+                "en": "Long stay in the dry.",
+                "cs": "Dlouhé stání v suchu."
               }
             },
             {
@@ -1574,7 +1696,8 @@
                 "de": "Parkplatz direkt davor.",
                 "hu": "Parkoló közvetlenül előtte.",
                 "ro": "Parcare chiar în față.",
-                "en": "Parking right in front."
+                "en": "Parking right in front.",
+                "cs": "Parkování přímo před vchodem."
               }
             },
             {
@@ -1583,7 +1706,8 @@
                 "de": "Aussicht aus dem Auto möglich.",
                 "hu": "Kilátás az autóból is élvezhető.",
                 "ro": "Vedere posibilă din mașină.",
-                "en": "View possible from the car."
+                "en": "View possible from the car.",
+                "cs": "Výhled možný z auta."
               }
             }
           ],
@@ -1611,6 +1735,12 @@
               "Visibility at Předmostí might be affected by mist.",
               "Keep umbrellas in the trunk for the short walks.",
               "Watch out for aquaplaning on local roads."
+            ],
+            "cs": [
+              "K minimalizaci chůze využijte parkoviště u zámku.",
+              "Viditelnost na Předmostí může ovlivnit mlha.",
+              "Deštníky mějte v kufru pro krátké přesuny.",
+              "Pozor na aquaplaning na místních silnicích."
             ]
           }
         },
@@ -1619,7 +1749,8 @@
             "de": "Im warmen Auto lässt sich das winterliche Přerov entspannt erkunden. Nach einem kurzen Stopp am frostigen Michalov-Park geht es zum Oberring, wo die festliche Beleuchtung früh erstrahlt. Das Schloss bietet Aufwärmmöglichkeiten zwischen den Ausstellungen. Zum Abschluss genießen wir den weiten, klaren Blick von der Anhöhe in Předmostí.",
             "hu": "A meleg autóban ülve pihentető a téli Přerov felfedezése. A fagyos Michalov park után a felsővárosba hajtunk, ahol korán kigyúlnak az ünnepi fények. A várban két kiállítás között is felmelegedhetünk. Végezetül a předmostíi magaslatról csodáljuk meg a tiszta, téli panorámát.",
             "ro": "Explorarea orașului Přerov în mașina încălzită este relaxantă. După o scurtă oprire în parcul Michalov înghețat, mergem spre centru. Castelul oferă locuri de încălzire între expoziții. La final, admirăm panorama clară de iarnă de pe înălțimea de la Předmostí.",
-            "en": "Exploring winter Přerov in a warm car is very relaxing. After a short stop at the frosty Michalov Park, we head to the Upper Town. The castle provides plenty of spots to warm up between exhibitions. To finish, we enjoy the wide, clear winter panorama from the Předmostí heights."
+            "en": "Exploring winter Přerov in a warm car is very relaxing. After a short stop at the frosty Michalov Park, we head to the Upper Town. The castle provides plenty of spots to warm up between exhibitions. To finish, we enjoy the wide, clear winter panorama from the Předmostí heights.",
+            "cs": "Prozkoumávání zimního Přerova v teplém autě je velmi uvolňující. Po krátké zastávce v mrazivém Michalově parku míříme na Horní město. Zámek nabízí spoustu míst k prohřátí mezi expozicemi. Na závěr si užíváme širokou, čistou zimní panorámu z výšin Předmostí."
           },
           "stops": [
             {
@@ -1628,7 +1759,8 @@
                 "de": "Vorsicht beim Einsteigen auf Eis.",
                 "hu": "Vigyázz a beszállásnál a jégre.",
                 "ro": "Atenție la gheață la urcare.",
-                "en": "Careful of ice when entering."
+                "en": "Careful of ice when entering.",
+                "cs": "Opatrně na led při vjezdu."
               }
             },
             {
@@ -1637,7 +1769,8 @@
                 "de": "Schnell zurück ins warme Auto.",
                 "hu": "Gyorsan vissza a meleg autóba.",
                 "ro": "Reveniți rapid în mașina caldă.",
-                "en": "Get back to the warm car fast."
+                "en": "Get back to the warm car fast.",
+                "cs": "Rychle zpět do teplého auta."
               }
             },
             {
@@ -1646,7 +1779,8 @@
                 "de": "Kurze Wege zum Schloss.",
                 "hu": "Rövid út a várig.",
                 "ro": "Drum scurt până la castel.",
-                "en": "Short walk to the castle."
+                "en": "Short walk to the castle.",
+                "cs": "Krátká procházka ke zámku."
               }
             },
             {
@@ -1655,7 +1789,8 @@
                 "de": "Perfekt für kalte Tage.",
                 "hu": "Tökéletes választás hidegben.",
                 "ro": "Perfect pentru zilele reci.",
-                "en": "Perfect for cold days."
+                "en": "Perfect for cold days.",
+                "cs": "Ideální pro chladné dny."
               }
             },
             {
@@ -1664,7 +1799,8 @@
                 "de": "Besinnlich in der Winterzeit.",
                 "hu": "Meghitt a téli időszakban.",
                 "ro": "Atmosferă de iarnă autentică.",
-                "en": "Atmospheric in winter time."
+                "en": "Atmospheric in winter time.",
+                "cs": "Atmosférické v zimě."
               }
             },
             {
@@ -1673,7 +1809,8 @@
                 "de": "Spektakulär bei Sonnenuntergang.",
                 "hu": "Látványos naplementekor.",
                 "ro": "Spectaculos la apus.",
-                "en": "Spectacular at sunset."
+                "en": "Spectacular at sunset.",
+                "cs": "Impozantní při západu slunce."
               }
             }
           ],
@@ -1701,6 +1838,12 @@
               "Parking spaces in the Upper Town may be limited in snow.",
               "Plan the visit to Předmostí before 4 PM for daylight.",
               "Enjoy the seat heating between stops."
+            ],
+            "cs": [
+              "Zimní pneumatiky a nemrznoucí kapalina jsou povinné.",
+              "Parkovací místa v Horním městě mohou být při sněhu omezená.",
+              "Naplánujte návštěvu Předmostí před 16:00 kvůli dennímu světlu.",
+              "Užívejte si vyhřívání sedadel mezi zastávkami."
             ]
           }
         }
@@ -1719,7 +1862,8 @@
             "de": "Ankunft am Busbahnhof & Fahrt zur Oberstadt",
             "hu": "Érkezés a buszpályaudvarra és utazás a Felsővárosba",
             "ro": "Sosire la autogară și călătorie spre Orașul de Sus",
-            "en": "Arrival at the bus station & ride to the Upper Town"
+            "en": "Arrival at the bus station & ride to the Upper Town",
+            "cs": "Příjezd na autobusové nádraží a jízda do Horního města"
           },
           "coords": [
             17.453,
@@ -1735,7 +1879,8 @@
             "de": "Beginnen Sie Ihren Tag im historischen Zentrum.",
             "hu": "Kezdje a napot a történelmi központban.",
             "ro": "Începeți ziua în centrul istoric.",
-            "en": "Start your day in the historic center."
+            "en": "Start your day in the historic center.",
+            "cs": "Začněte den v historickém centru."
           }
         },
         {
@@ -1743,7 +1888,8 @@
             "de": "Oberstadt & Schloss Přerov",
             "hu": "Felsőváros és Přerovi kastély",
             "ro": "Orașul de Sus și Castelul Přerov",
-            "en": "Upper Town & Přerov Castle"
+            "en": "Upper Town & Přerov Castle",
+            "cs": "Horní město a Přerovský zámek"
           },
           "coords": [
             17.4522,
@@ -1759,7 +1905,8 @@
             "de": "Erkunden Sie diesen Bereich zu Fuß, bevor Sie zu Mittag essen.",
             "hu": "Fedezze fel ezt a területet gyalog, mielőtt ebédelne.",
             "ro": "Explorați această zonă pe jos înainte de a lua prânzul.",
-            "en": "Explore this area on foot before having lunch."
+            "en": "Explore this area on foot before having lunch.",
+            "cs": "Prozkoumejte tuto oblast pěšky před obědem."
           }
         },
         {
@@ -1767,7 +1914,8 @@
             "de": "St.-Lorenz-Kirche & Comenius-Denkmal",
             "hu": "Szent Lőrinc-templom és Comenius-emlékmű",
             "ro": "Biserica Sf. Laurențiu și Monumentul Comenius",
-            "en": "St. Lawrence Church & Comenius Monument"
+            "en": "St. Lawrence Church & Comenius Monument",
+            "cs": "Kostel sv. Vavřince a pomník Komenského"
           },
           "coords": [
             17.4511,
@@ -1783,7 +1931,8 @@
             "de": "Diese beiden wichtigen Orte liegen nur einen kurzen Spaziergang voneinander entfernt.",
             "hu": "Ez a két fontos hely csak egy rövid sétára van egymástól.",
             "ro": "Aceste două locuri importante se află la o scurtă plimbare una de cealaltă.",
-            "en": "These two important places are just a short walk from each other."
+            "en": "These two important places are just a short walk from each other.",
+            "cs": "Tato dvě důležitá místa jsou od sebe jen krátká procházka."
           }
         },
         {
@@ -1791,7 +1940,8 @@
             "de": "Fahrt zum Michalov-Park",
             "hu": "Utazás a Michalov parkba",
             "ro": "Călătorie spre Parcul Michalov",
-            "en": "Ride to Michalov Park"
+            "en": "Ride to Michalov Park",
+            "cs": "Jízda do Michalova parku"
           },
           "coords": [
             17.442,
@@ -1807,7 +1957,8 @@
             "de": "Nehmen Sie einen Bus, um bequem zum Park zu gelangen.",
             "hu": "Menjen busszal, hogy kényelmesen eljusson a parkba.",
             "ro": "Luați un autobuz pentru a ajunge convenabil la parc.",
-            "en": "Take a bus to get to the park conveniently."
+            "en": "Take a bus to get to the park conveniently.",
+            "cs": "Věnujte busu, abyste se do parku pohodlně dostali."
           }
         },
         {
@@ -1815,7 +1966,8 @@
             "de": "Michalov-Park & Tyrš-Brücke",
             "hu": "Michalov park és Tyrš-híd",
             "ro": "Parcul Michalov și Podul Tyrš",
-            "en": "Michalov Park & Tyrš Bridge"
+            "en": "Michalov Park & Tyrš Bridge",
+            "cs": "Michalov park a Tyršův most"
           },
           "coords": [
             17.445,
@@ -1831,7 +1983,8 @@
             "de": "Ein perfekter Ort für eine Pause und einen Spaziergang am Fluss.",
             "hu": "Tökéletes hely egy szünetre és egy folyóparti sétára.",
             "ro": "Un loc perfect pentru o pauză și o plimbare pe malul râului.",
-            "en": "A perfect spot for a break and a walk by the river."
+            "en": "A perfect spot for a break and a walk by the river.",
+            "cs": "Perfektní místo na pauzu a procházku u řeky."
           }
         },
         {
@@ -1839,7 +1992,8 @@
             "de": "Fahrt zur Mammut-Ausstellung",
             "hu": "Utazás a Mamut kiállításhoz",
             "ro": "Călătorie spre Expoziția Mamutul",
-            "en": "Ride to the Mammoth Exhibition"
+            "en": "Ride to the Mammoth Exhibition",
+            "cs": "Jízda na výstavu mamuta"
           },
           "coords": [
             17.455,
@@ -1855,7 +2009,8 @@
             "de": "Beenden Sie den Tag mit einem tiefen Einblick in die prähistorische Vergangenheit.",
             "hu": "Zárja a napot egy mély betekintéssel az őskori múltba.",
             "ro": "Încheiați ziua cu o incursiune profundă în trecutul preistoric.",
-            "en": "End the day with a deep dive into the prehistoric past."
+            "en": "End the day with a deep dive into the prehistoric past.",
+            "cs": "Den zakončete hlubokým ponorem do prehistorie."
           }
         }
       ],
@@ -1863,7 +2018,8 @@
         "de": "Mit öffentlichen Verkehrsmitteln erkunden Sie Přerov in zwei Clustern. Der Tag beginnt mit einer Busfahrt ins historische Herz der Stadt, die Oberstadt, wo Sie zu Fuß das Schloss, Kirchen und Plätze entdecken. Nach dem Mittagessen bringt Sie ein weiterer Bus in die Nähe des Michalov-Parks, einer grünen Lunge. Von dort aus erkunden Sie den Park und die Ufer der Bečva zu Fuß. Der letzte Programmpunkt, die Mammut-Ausstellung, ist ebenfalls mit dem Bus erreichbar und rundet den Tag mit einem prähistorischen Abenteuer ab.",
         "hu": "Tömegközlekedéssel két csoportban fedezheti fel Přerovot. A nap buszozással indul a város történelmi szívébe, a Felsővárosba, ahol gyalogosan fedezi fel a kastélyt, a templomokat és a tereket. Ebéd után egy másik busz viszi a Michalov park közelébe, egy zöld oázisba. Onnan gyalogosan fedezi fel a parkot és a Bečva partját. Az utolsó programpont, a Mamut kiállítás, szintén busszal érhető el, és egy őskori kalanddal zárja a napot.",
         "ro": "Cu transportul public, explorați Přerov în două grupuri de atracții. Ziua începe cu o călătorie cu autobuzul spre inima istorică a orașului, Orașul de Sus, unde explorați pe jos castelul, bisericile și piețele. După prânz, un alt autobuz vă duce în apropierea Parcului Michalov, un plămân verde. De acolo, explorați parcul și malurile râului Bečva pe jos. Ultima atracție, Expoziția Mamutul, este, de asemenea, accesibilă cu autobuzul și încheie ziua cu o aventură preistorică.",
-        "en": "Using public transport, you can explore Přerov in two clusters. The day begins with a bus ride to the historic heart of the city, the Upper Town, where you'll explore the castle, churches, and squares on foot. After lunch, another bus takes you near Michalov Park, a green lung. From there, you explore the park and the banks of the Bečva on foot. The final attraction, the Mammoth Exhibition, is also accessible by bus and concludes the day with a prehistoric adventure."
+        "en": "Using public transport, you can explore Přerov in two clusters. The day begins with a bus ride to the historic heart of the city, the Upper Town, where you'll explore the castle, churches, and squares on foot. After lunch, another bus takes you near Michalov Park, a green lung. From there, you explore the park and the banks of the Bečva on foot. The final attraction, the Mammoth Exhibition, is also accessible by bus and concludes the day with a prehistoric adventure.",
+        "cs": "Veřejnou dopravou můžete Přerov prozkoumat ve dvou blocích. Den začíná jízdou autobusem do historického srdce města, Horního města, kde na vás čeká procházka zámkem, kostely a náměstími. Po obědě vás další autobus zavede k Michalovu parku, městské zeleni. Odtud park a břehy Bečvy prozkoumáte pěšky. Poslední atrakce, Výstava mamuta, je také dostupná autobusem a završuje den prehistorickým dobrodružstvím."
       },
       "gastro_picks": {
         "de": [
@@ -2059,6 +2215,12 @@
           "Download the local transport company's app to see real-time schedules.",
           "Plan for some buffer time for possible delays.",
           "Pay attention to the last bus connection back to your starting point."
+        ],
+        "cs": [
+          "Kupte si denní jízdenku na MHD a ušetřete.",
+          "Stáhněte si aplikaci místního dopravce pro aktuální jízdní řády.",
+          "Naplánujte si časovou rezervu pro možné zpoždění.",
+          "Dávejte pozor na poslední autobusové spojení zpět na výchozí místo."
         ]
       },
       "variants": {
@@ -2067,7 +2229,8 @@
             "de": "Mit dem Bus durch das verregnete Přerov zu fahren, ist praktisch und gesellig. Der Vormittag führt direkt zum Oberring, wo das Schloss trockene Erlebnisse verspricht. Mittags erreichen wir mit einer kurzen Fahrt den Michalov-Park, der auch im Regen seinen Charme hat. Der Tag endet bequem in der Mammut-Ausstellung, bevor es zurück geht.",
             "hu": "Busszal közlekedni az esős Přerovban praktikus és kényelmes megoldás. Délelőtt a felsővárosba utazunk, ahol a vár száraz programokat kínál. Délben egy rövid buszozás után érjük el a Michalov parkot, amely esőben is bájos. A napot a mamutkiállításon zárjuk, mielőtt visszatérnénk.",
             "ro": "Mersul cu autobuzul prin Přerovul ploios este practic și comod. Dimineața mergem direct în Orașul de Sus, unde castelul promite experiențe uscate. La prânz ajungem rapid în parcul Michalov, care are farmec și pe ploaie. Ziua se încheie confortabil la expoziția mamuților.",
-            "en": "Taking the bus through rainy Přerov is practical and social. The morning takes us straight to the Upper Town for dry castle adventures. At noon, a short ride brings us to Michalov Park, charming even in the rain. The day ends comfortably at the Mammoth Exhibition before heading back."
+            "en": "Taking the bus through rainy Přerov is practical and social. The morning takes us straight to the Upper Town for dry castle adventures. At noon, a short ride brings us to Michalov Park, charming even in the rain. The day ends comfortably at the Mammoth Exhibition before heading back.",
+            "cs": "Jízda autobusem přes deštivý Přerov je praktická a společenská. Ráno nás bere přímo do Horního města za suchými zážitky ve zámku. V poledne krátká jízda přiveze k Michalovu parku, kouzelnému i v dešti. Den pohodlně končí na Výstavě mamuta před návratem."
           },
           "stops": [
             {
@@ -2076,7 +2239,8 @@
                 "de": "Wartehäuschen bieten Schutz.",
                 "hu": "A buszvárók védelmet nyújtanak.",
                 "ro": "Stațiile oferă adăpost.",
-                "en": "Bus shelters provide cover."
+                "en": "Bus shelters provide cover.",
+                "cs": "Autobusové přístřešky poskytují úkryt."
               }
             },
             {
@@ -2085,7 +2249,8 @@
                 "de": "Bushaltestelle ganz in der Nähe.",
                 "hu": "A buszmegálló nagyon közel van.",
                 "ro": "Stația de autobuz e foarte aproape.",
-                "en": "Bus stop is very close by."
+                "en": "Bus stop is very close by.",
+                "cs": "Autobusová zastávka je velmi blízko."
               }
             },
             {
@@ -2094,7 +2259,8 @@
                 "de": "Kurzer Fußweg im Regen.",
                 "hu": "Rövid séta az esőben.",
                 "ro": "Surtă plimbare prin ploaie.",
-                "en": "Short walk in the rain."
+                "en": "Short walk in the rain.",
+                "cs": "Krátká procházka v dešti."
               }
             },
             {
@@ -2103,7 +2269,8 @@
                 "de": "Aufwärmen während der Fahrt.",
                 "hu": "Melegedés az utazás alatt.",
                 "ro": "Încălzire în timpul cursei.",
-                "en": "Warm up during the ride."
+                "en": "Warm up during the ride.",
+                "cs": "Ohřejte se během jízdy."
               }
             },
             {
@@ -2112,7 +2279,8 @@
                 "de": "Überdachte Plätze im Park suchen.",
                 "hu": "Keress fedett helyet a parkban.",
                 "ro": "Căutați locuri acoperite în parc.",
-                "en": "Look for covered spots in park."
+                "en": "Look for covered spots in park.",
+                "cs": "Hledejte krytá místa v parku."
               }
             },
             {
@@ -2121,7 +2289,8 @@
                 "de": "Trockenes Finale der Tour.",
                 "hu": "Száraz befejezése a túrának.",
                 "ro": "Final uscat al turului.",
-                "en": "Dry finale of the tour."
+                "en": "Dry finale of the tour.",
+                "cs": "Suchý závěr prohlídky."
               }
             }
           ],
@@ -2149,6 +2318,12 @@
               "Keep your ticket or small change ready.",
               "Buses are often more crowded than usual in the rain.",
               "A small pocket umbrella is useful for the walk to stops."
+            ],
+            "cs": [
+              "Aplikace IDOS je ideální pro aktuální jízdní řády autobusů.",
+              "Mějte připravený lístek nebo drobné.",
+              "Autobusy jsou v dešti často více zaplněné než obvykle.",
+              "Malý kapesní deštník se hodí na cestu ke zastávkám."
             ]
           }
         },
@@ -2157,7 +2332,8 @@
             "de": "Die winterliche Transit-Tour nutzt die gut beheizten Busse der Stadt. Vom Bahnhof geht es zum historischen Oberring, wo das Schloss winterliche Geschichten erzählt. Mittags führt die Fahrt zum Michalov-Park für einen frostigen Spaziergang. Der Nachmittag endet in der warmen Atmosphäre der Mammut-Ausstellung, bevor der Bus uns zurück zum Bahnhof bringt.",
             "hu": "A téli tömegközlekedés során a város jól fűtött buszait használjuk. Az állomástól a történelmi felsővárosba megyünk, ahol a vár téli meséket őriz. Délben a Michalov parkba buszozunk egy fagyos sétára. A délután a mamutkiállítás melegében ér véget, majd a busz visszavisz az állomásra.",
             "ro": "Turul de iarnă cu transportul public folosește autobuzele bine încălzite. De la gară mergem spre centrul istoric, unde castelul păstrează povești de iarnă. La prânz mergem în parcul Michalov pentru o plimbare geroasă. După-amiaza se încheie la căldură în expoziția mamuților.",
-            "en": "The winter transit tour utilizes the city's well-heated buses. From the station, we head to the historic Upper Town for winter castle stories. At noon, we ride to Michalov Park for a frosty stroll. The afternoon ends in the warm atmosphere of the Mammoth Exhibition before the bus returns us."
+            "en": "The winter transit tour utilizes the city's well-heated buses. From the station, we head to the historic Upper Town for winter castle stories. At noon, we ride to Michalov Park for a frosty stroll. The afternoon ends in the warm atmosphere of the Mammoth Exhibition before the bus returns us.",
+            "cs": "Zimní trasa MHD využívá dobře vyhřáté autobusy města. Ze zastávky vyrážíme do historického Horního města za zimními příběhy zámku. V poledne jedeme do Michalova parku na mrazivou procházku. Odpoledne zakončíme v teplé atmosféře Výstavy mamuta, než se autobusem vrátíme."
           },
           "stops": [
             {
@@ -2166,7 +2342,8 @@
                 "de": "Beheizte Wartehalle am Bahnhof.",
                 "hu": "Fűtött váróterem az állomáson.",
                 "ro": "Sală de așteptare caldă la gară.",
-                "en": "Heated waiting hall at station."
+                "en": "Heated waiting hall at station.",
+                "cs": "Vyhřívaná čekárna na nádraží."
               }
             },
             {
@@ -2175,7 +2352,8 @@
                 "de": "Kurzer Weg durch die Kälte.",
                 "hu": "Rövid út a hidegben.",
                 "ro": "Drum scurt prin frig.",
-                "en": "Short walk through the cold."
+                "en": "Short walk through the cold.",
+                "cs": "Krátká procházka v chladu."
               }
             },
             {
@@ -2184,7 +2362,8 @@
                 "de": "Innen ist es angenehm warm.",
                 "hu": "Odabent kellemesen meleg van.",
                 "ro": "În interior e plăcut și cald.",
-                "en": "It is pleasantly warm inside."
+                "en": "It is pleasantly warm inside.",
+                "cs": "Uvnitř je příjemně teplo."
               }
             },
             {
@@ -2193,7 +2372,8 @@
                 "de": "Sitzplatz an der Heizung suchen.",
                 "hu": "Keress fűtés közeli ülőhelyet.",
                 "ro": "Căutați loc lângă încălzire.",
-                "en": "Look for a seat near the heater."
+                "en": "Look for a seat near the heater.",
+                "cs": "Hledejte sedadlo blízko topení."
               }
             },
             {
@@ -2202,7 +2382,8 @@
                 "de": "Festes Schuhwerk gegen Frost.",
                 "hu": "Meleg lábbeli a fagy ellen.",
                 "ro": "Încălțăminte solidă contra gerului.",
-                "en": "Sturdy footwear against frost."
+                "en": "Sturdy footwear against frost.",
+                "cs": "Pevná obuv proti mrazu."
               }
             },
             {
@@ -2211,7 +2392,8 @@
                 "de": "Perfekter Abschluss im Warmen.",
                 "hu": "Tökéletes befejezés a melegben.",
                 "ro": "Final perfect la căldură.",
-                "en": "Perfect finish in the warmth."
+                "en": "Perfect finish in the warmth.",
+                "cs": "Perfektní závěr v teple."
               }
             }
           ],
@@ -2239,6 +2421,12 @@
               "Spend waiting times in cafes near the stops.",
               "Warm clothing is essential for waiting outdoors.",
               "Ticket machines work reliably even in freezing weather."
+            ],
+            "cs": [
+              "Autobusy mohou během silných sněžení nabírat zpoždění.",
+              "Čekací časy si zkraťte v kavárnách u zastávek.",
+              "Teplé oblečení je nezbytné pro čekání venku.",
+              "Jízdní automaty fungují spolehlivě i v mrazivém počasí."
             ]
           }
         }

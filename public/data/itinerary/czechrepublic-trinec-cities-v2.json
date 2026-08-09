@@ -21,7 +21,8 @@
             "de": "Friedensplatz (náměstí Svobody)",
             "hu": "Béke tér (náměstí Svobody)",
             "ro": "Piața Păcii (náměstí Svobody)",
-            "en": "Peace Square (náměstí Svobody)"
+            "en": "Peace Square (náměstí Svobody)",
+            "cs": "Náměstí Svobody"
           },
           "coords": [
             18.671,
@@ -37,7 +38,8 @@
             "de": "Der perfekte Ausgangspunkt, um das Stadtzentrum zu erkunden.",
             "hu": "Tökéletes kiindulópont a városközpont felfedezéséhez.",
             "ro": "Punctul de plecare perfect pentru a simți pulsul orașului.",
-            "en": "The perfect starting point to feel the city's pulse."
+            "en": "The perfect starting point to feel the city's pulse.",
+            "cs": "Dokonalé výchozí místo, kde nasát tep města."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "St.-Albrecht-Kirche",
             "hu": "Szent Adalbert-templom",
             "ro": "Biserica Sfântul Albert",
-            "en": "St. Albert's Church"
+            "en": "St. Albert's Church",
+            "cs": "Kostel sv. Alžběty"
           },
           "coords": [
             18.6745,
@@ -61,7 +64,8 @@
             "de": "Beachten Sie die neugotische Architektur und die ruhige Atmosphäre.",
             "hu": "Figyelje meg a neogótikus építészetet és a csendes légkört.",
             "ro": "Observați arhitectura neogotică și atmosfera liniștită din interior.",
-            "en": "Note the neo-Gothic architecture and the serene atmosphere inside."
+            "en": "Note the neo-Gothic architecture and the serene atmosphere inside.",
+            "cs": "Věnujte pozornost novogotické architektuře a klidné atmosféře uvnitř."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Evangelische Kirche",
             "hu": "Evangélikus templom",
             "ro": "Biserica Evanghelică",
-            "en": "Evangelical Church"
+            "en": "Evangelical Church",
+            "cs": "Evangelický kostel"
           },
           "coords": [
             18.667,
@@ -85,7 +90,8 @@
             "de": "Ein Beispiel funktionalistischer Architektur mit einer einzigartigen Turmkonstruktion.",
             "hu": "A funkcionalista építészet példája, egyedi toronyszerkezettel.",
             "ro": "Un exemplu de arhitectură funcționalistă, cu un turn distinctiv.",
-            "en": "An example of functionalist architecture with a unique tower design."
+            "en": "An example of functionalist architecture with a unique tower design.",
+            "cs": "Příklad funkcionalistické architektury s jedinečným návrhem věže."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Eisenwerk-Monument",
             "hu": "Vasmű Emlékmű",
             "ro": "Monumentul Oțelăriei",
-            "en": "Ironworks Monument"
+            "en": "Ironworks Monument",
+            "cs": "Pomník železáren"
           },
           "coords": [
             18.68,
@@ -109,7 +116,8 @@
             "de": "Ein Symbol für die industrielle Seele der Stadt. Ideal für ein schnelles Foto.",
             "hu": "A város ipari lelkének szimbóluma. Ideális egy gyors fotóhoz.",
             "ro": "Un simbol al sufletului industrial al orașului. Perfect pentru o fotografie.",
-            "en": "A symbol of the city's industrial soul. Great for a quick photo."
+            "en": "A symbol of the city's industrial soul. Great for a quick photo.",
+            "cs": "Symbol průmyslové duše města. Skvělé místo na rychlou fotku."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Museum der Eisenhütten",
             "hu": "Vaskohászati Múzeum",
             "ro": "Muzeul Siderurgiei",
-            "en": "Museum of Ironworks"
+            "en": "Museum of Ironworks",
+            "cs": "Muzeum železáren"
           },
           "coords": [
             18.682,
@@ -133,7 +142,8 @@
             "de": "Planen Sie genügend Zeit ein, um die reiche Industriegeschichte von Trinec zu verstehen.",
             "hu": "Szánjon elég időt Trinec gazdag ipari történelmének megismerésére.",
             "ro": "Planificați suficient timp pentru a înțelege bogata istorie industrială a orașului.",
-            "en": "Plan enough time to truly understand Trinec's rich industrial history."
+            "en": "Plan enough time to truly understand Trinec's rich industrial history.",
+            "cs": "Naplánujte si dostatek času, abyste opravdu porozuměli bohaté průmyslové historii Třince."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Waldpark",
             "hu": "Erdei park",
             "ro": "Parcul Pădure",
-            "en": "Forest Park"
+            "en": "Forest Park",
+            "cs": "Lesopark"
           },
           "coords": [
             18.665,
@@ -157,7 +168,8 @@
             "de": "Der perfekte Ort für eine entspannte Pause nach dem Museumsbesuch.",
             "hu": "Tökéletes hely egy pihentető szünetre a múzeumlátogatás után.",
             "ro": "Locul perfect pentru o pauză relaxantă după vizita la muzeu.",
-            "en": "The perfect spot for a relaxing break after the museum visit."
+            "en": "The perfect spot for a relaxing break after the museum visit.",
+            "cs": "Ideální místo pro odpočinek po návštěvě muzea."
           }
         }
       ],
@@ -165,7 +177,8 @@
         "de": "Beginnen Sie Ihren Tag auf dem belebten Friedensplatz, dem Herzen von Trinec. Vormittags erkunden Sie das sakrale Erbe der Stadt mit Besuchen der beeindruckenden St.-Albrecht-Kirche und der modernen Evangelischen Kirche. Mittags tauchen Sie in die industrielle Identität von Trinec ein, indem Sie das Eisenwerk-Monument bewundern und tief in die Geschichte im Museum der Eisenhütten eintauchen. Am Nachmittag entspannen Sie im weitläufigen Waldpark, einem grünen Refugium, das einen friedlichen Kontrast zur industriellen Geschichte der Stadt bietet. Genießen Sie die Natur, bevor Sie den Tag ausklingen lassen.",
         "hu": "Kezdje a napot a nyüzsgő Béke téren, Trinec szívében. A délelőttöt a város szakrális örökségének felfedezésével töltse, ellátogatva a lenyűgöző Szent Adalbert-templomhoz és a modern evangélikus templomhoz. Délben merüljön el Trinec ipari identitásában a Vasmű Emlékmű megtekintésével és a Vaskohászati Múzeum mélyreható kiállításaival. A délutánt a tágas Erdei parkban pihenéssel töltse, egy zöld menedékhelyen, amely békés kontrasztot kínál a város ipari múltjával. Élvezze a természetet, mielőtt lezárja a napot.",
         "ro": "Începeți ziua în Piața Păcii, inima orașului Trinec. Dimineața explorați moștenirea sacră a orașului vizitând impunătoarea Biserică Sfântul Albert și moderna Biserică Evanghelică. La prânz, pătrundeți în identitatea industrială a orașului Trinec admirând Monumentul Oțelăriei și aprofundând istoria la Muzeul Siderurgiei. După-amiaza, relaxați-vă în vastul Parc Pădure, un refugiu verde ce oferă un contrast pașnic cu istoria industrială a orașului. Bucurați-vă de natură înainte de a încheia ziua.",
-        "en": "Start your day in the bustling Peace Square, the heart of Trinec. Spend the morning exploring the city's sacral heritage, visiting the impressive St. Albert's Church and the modern Evangelical Church. At noon, dive into Trinec's industrial identity by admiring the Ironworks Monument and delving deep into history at the Museum of Ironworks. Dedicate your afternoon to relaxation in the expansive Forest Park, a green haven that provides a peaceful contrast to the city's industrial history. Enjoy the nature before concluding your day."
+        "en": "Start your day in the bustling Peace Square, the heart of Trinec. Spend the morning exploring the city's sacral heritage, visiting the impressive St. Albert's Church and the modern Evangelical Church. At noon, dive into Trinec's industrial identity by admiring the Ironworks Monument and delving deep into history at the Museum of Ironworks. Dedicate your afternoon to relaxation in the expansive Forest Park, a green haven that provides a peaceful contrast to the city's industrial history. Enjoy the nature before concluding your day.",
+        "cs": "Začněte den na rušném náměstí Svobody, srdci Třince. Dopoledne prozkoumejte sakrální památky města, navštivte impozantní kostel sv. Alberta a moderní evangelický kostel. V poledne pronikněte do průmyslové identity Třince obdivem Pomníku železáren a podrobnějším seznámením v Muzeu železáren. Odpoledne věnujte relaxaci v rozlehlém Lesoparku, zeleném útočišti, které nabízí klidný kontrast k průmyslové minulosti města. Užijte si přírodu před zakončením dne."
       },
       "gastro_picks": {
         "de": [
@@ -361,6 +374,12 @@
           "Check the museum's opening hours in advance.",
           "Bring a reusable water bottle to stay hydrated.",
           "Most central sights are within easy walking distance of each other."
+        ],
+        "cs": [
+          "Mějte pohodlnou obuv, protože tento itinerář zahrnuje hodně chození.",
+          "Předem si zkontrolujte otevírací dobu muzea.",
+          "Vezměte si opakovaně použitelnou lahev na vodu, abyste zůstali hydratovaní.",
+          "Většina centrálních památek je v pěší dostupnosti."
         ]
       },
       "variants": {
@@ -369,7 +388,8 @@
             "de": "Beginnen Sie den Tag am regnerischen Friedensplatz, wo die Cafés Zuflucht bieten. Mittags finden Sie in der St.-Albert-Kirche und der Evangelischen Kirche trockene Orte der Besinnung. Der Nachmittag gehört dem Museum der Eisenhütte, dem idealen Rückzugsort vor dem Wetter. Den Abend lassen wir im Stadtpark ausklingen, wo der Regen eine mystische Atmosphäre schafft.",
             "hu": "A reggelt a szemerkélő esőben a Szabadság téren kezdjük, ahol a közeli kávézók nyújtanak menedéket. Délben a Szent Albert-templom és az Evangélikus templom belső terei kínálnak száraz pihenőt. A délutánt a vasmű múzeumában töltjük, ami tökéletes választás esős időben. Este a Forest Park párás ösvényein tehetünk egy frissítő sétát, mielőtt visszatérnénk a központba.",
             "ro": "Începeți dimineața în Piața Libertății, unde cafenelele oferă adăpost împotriva ploii. La prânz, vizitați Biserica Sf. Albert și Biserica Evanghelică pentru un moment de liniște la adăpost. După-amiaza este dedicată Muzeului Combinatului Siderurgic, locul ideal pentru a scăpa de vremea rea. Seara, o plimbare prin parcul Forest Park oferă o atmosferă mistică sub picăturile de ploaie.",
-            "en": "Start your morning at Peace Square, where local cafes provide a dry refuge from the drizzle. At midday, find shelter within the peaceful interiors of St. Albert's and the Evangelical Church. Spend your afternoon at the Museum of Ironworks, the perfect indoor escape. In the evening, the Forest Park offers a refreshing, misty atmosphere for a final walk."
+            "en": "Start your morning at Peace Square, where local cafes provide a dry refuge from the drizzle. At midday, find shelter within the peaceful interiors of St. Albert's and the Evangelical Church. Spend your afternoon at the Museum of Ironworks, the perfect indoor escape. In the evening, the Forest Park offers a refreshing, misty atmosphere for a final walk.",
+            "cs": "Ráno začněte na náměstí Svobody, kde místní kavárny poskytnou suché útočiště před mrholením. V poledne hledejte úkryt v klidných interiérech kostela sv. Alberta a evangelického kostela. Odpoledne strávte v Muzeu železáren, ideálním vnitřním útočišti. Večer nabízí Lesopark osvěžující, mlhavou atmosféru pro poslední procházku."
           },
           "stops": [
             {
@@ -378,7 +398,8 @@
                 "de": "Nutzen Sie die Arkaden und Cafés am Platz, um trocken zu bleiben.",
                 "hu": "Használja a tér körüli árkádokat és kávézókat menedékként.",
                 "ro": "Folosiți arcadele și cafenelele din piață pentru a rămâne uscat.",
-                "en": "Use the arcades and cafes around the square to stay dry."
+                "en": "Use the arcades and cafes around the square to stay dry.",
+                "cs": "Využijte arkády a kavárny kolem náměstí, abyste zůstali v suchu."
               }
             },
             {
@@ -387,7 +408,8 @@
                 "de": "Ein ruhiger Ort, um den stärksten Regen abzuwarten.",
                 "hu": "Csendes hely a hevesebb esőzés megvárására.",
                 "ro": "Un loc liniștit pentru a aștepta trecerea ploii torențiale.",
-                "en": "A quiet place to wait out the heaviest rain."
+                "en": "A quiet place to wait out the heaviest rain.",
+                "cs": "Tiché místo, kde lze přečkat nejsilnější déšť."
               }
             },
             {
@@ -396,7 +418,8 @@
                 "de": "Bewundern Sie die Architektur, während es draußen regnet.",
                 "hu": "Csodálja meg az építészetet, miközben kint esik.",
                 "ro": "Admirați arhitectura în timp ce afară plouă.",
-                "en": "Admire the architecture while it rains outside."
+                "en": "Admire the architecture while it rains outside.",
+                "cs": "Obdivujte architekturu, zatímco venku prší."
               }
             },
             {
@@ -405,7 +428,8 @@
                 "de": "Kurzer Stopp; die Metalloberflächen können bei Nässe glatt sein.",
                 "hu": "Rövid megálló; a fémfelületek nedvesen csúszhatnak.",
                 "ro": "Oprire scurtă; suprafețele metalice pot fi alunecoase când sunt ude.",
-                "en": "Quick stop; metal surfaces can be slippery when wet."
+                "en": "Quick stop; metal surfaces can be slippery when wet.",
+                "cs": "Rychlá zastávka; kovové povrchy mohou být za deště kluzké."
               }
             },
             {
@@ -414,7 +438,8 @@
                 "de": "Hervorragendes Schlechtwetterprogramm mit viel Indoor-Ausstellung.",
                 "hu": "Kiváló rosszidős program sok beltéri kiállítással.",
                 "ro": "Program excelent pentru vreme rea, cu multe expoziții interioare.",
-                "en": "Excellent bad-weather activity with plenty of indoor exhibits."
+                "en": "Excellent bad-weather activity with plenty of indoor exhibits.",
+                "cs": "Vynikající aktivita do nepříznivého počasí s mnoha vnitřními expozicemi."
               }
             },
             {
@@ -423,7 +448,8 @@
                 "de": "Die asphaltierten Wege sind auch bei Regen gut begehbar.",
                 "hu": "Az aszfaltozott utak esőben is jól járhatóak.",
                 "ro": "Potecile asfaltate sunt ușor de parcurs chiar și pe ploaie.",
-                "en": "The paved paths are easily walkable even in the rain."
+                "en": "The paved paths are easily walkable even in the rain.",
+                "cs": "Zpevněné cesty jsou i za deště snadno schůdné."
               }
             }
           ],
@@ -455,6 +481,13 @@
               "The Ironworks Museum offers the longest indoor stay.",
               "Take advantage of the short distances between churches to move quickly.",
               "Most cafes on Peace Square have umbrella stands at the entrance."
+            ],
+            "cs": [
+              "Noste nepromokavou obuv, protože některé vedlejší cesty mohou být bahnité.",
+              "Doporučuje se pevný deštník kvůli větru v otevřených prostorech.",
+              "Muzeum železáren nabízí nejdelší vnitřní pobyt.",
+              "Využijte krátkých vzdáleností mezi kostely pro rychý přesun.",
+              "Většina kaváren na náměstí Svobody má u vchodu stojany na deštníky."
             ]
           }
         },
@@ -463,7 +496,8 @@
             "de": "Erleben Sie den winterlichen Friedensplatz mit frostiger Luft am Morgen. Mittags wärmen wir uns in den prächtigen Kirchen der Stadt auf. Der Nachmittag im Museum der Eisenhütte bietet Schutz vor der Kälte und tiefe Einblicke in die Industriegeschichte. Zum Sonnenuntergang gegen 16 Uhr spazieren wir durch den verschneiten Waldpark, bevor wir uns in ein gemütliches Restaurant zurückziehen.",
             "hu": "Kezdje a reggelt a fagyos Szabadság téren, ahol a friss levegő ébresztőleg hat. Délben a város templomaiban találunk lelki és fizikai melegséget. A délutáni órákat a vasmű múzeumának fűtött termeiben töltjük, megismerve a környék múltját. A korai, 16 óra körüli naplementét a havas Forest Park fái között csodálhatjuk meg, majd egy meleg vacsorával zárjuk a napot.",
             "ro": "Experimentați Piața Libertății înghețată în aerul proaspăt al dimineții. La prânz, ne încălzim în bisericile splendide ale orașului. După-amiaza la Muzeul Combinatului oferă protecție împotriva frigului și o incursiune în istoria industrială. La apusul soarelui, în jurul orei 16:00, ne plimbăm prin parcul înzăpezit, înainte de a ne retrage la un restaurant primitor.",
-            "en": "Experience a frosty morning at Peace Square. At midday, warm up inside the city's magnificent churches. Spend the afternoon in the heated halls of the Ironworks Museum, learning about the local heritage. Around the 4 PM sunset, enjoy a walk through the snowy Forest Park before heading to a cozy restaurant for dinner."
+            "en": "Experience a frosty morning at Peace Square. At midday, warm up inside the city's magnificent churches. Spend the afternoon in the heated halls of the Ironworks Museum, learning about the local heritage. Around the 4 PM sunset, enjoy a walk through the snowy Forest Park before heading to a cozy restaurant for dinner.",
+            "cs": "Zažijte mrazivé ráno na náměstí Svobody. V poledne se zahřejte uvnitř impozantních městských kostelů. Odpoledne strávíte v vytopených sálech Muzea železáren a seznámíte se s místním dědictvím. Kolem západu slunce kolem 16:00 si projděte zasněžený Lesopark, než zamíříte do útulné restaurace na večeři."
           },
           "stops": [
             {
@@ -472,7 +506,8 @@
                 "de": "Vorsicht vor glatten Stellen auf dem Pflaster.",
                 "hu": "Vigyázat, a tér burkolata jegesedhet.",
                 "ro": "Atenție la porțiunile alunecoase de pe pavaj.",
-                "en": "Watch out for icy patches on the pavement."
+                "en": "Watch out for icy patches on the pavement.",
+                "cs": "Dejte pozor na zledovatělé úseky na chodníku."
               }
             },
             {
@@ -481,7 +516,8 @@
                 "de": "Die dicken Mauern bieten Schutz vor dem schneidenden Wind.",
                 "hu": "A vastag falak védelmet nyújtanak a metsző szél ellen.",
                 "ro": "Zidurile groase oferă protecție împotriva vântului tăios.",
-                "en": "The thick walls provide protection from the biting wind."
+                "en": "The thick walls provide protection from the biting wind.",
+                "cs": "Tlusté zdi kostelů chrání před pronikavým větrem."
               }
             },
             {
@@ -490,7 +526,8 @@
                 "de": "Ein Ort der Stille, ideal zum Aufwärmen zwischen den Spaziergängen.",
                 "hu": "A csend szigete, ideális átmelegedni a séták között.",
                 "ro": "Un loc de liniște, ideal pentru a vă încălzi între plimbări.",
-                "en": "A place of silence, ideal for warming up between walks."
+                "en": "A place of silence, ideal for warming up between walks.",
+                "cs": "Místo ticha, ideální k zahřátí mezi procházkami."
               }
             },
             {
@@ -499,7 +536,8 @@
                 "de": "Das Metall wirkt im Schnee besonders fotogen.",
                 "hu": "A fém emlékmű a hóban különösen jól mutat a fotókon.",
                 "ro": "Monumentul metalic arată deosebit de bine în fotografii pe zăpadă.",
-                "en": "The metal monument looks particularly photogenic in the snow."
+                "en": "The metal monument looks particularly photogenic in the snow.",
+                "cs": "Kovový monument je ve sněhu obzvlášť fotogenický."
               }
             },
             {
@@ -508,7 +546,8 @@
                 "de": "Genießen Sie die beheizten Ausstellungsräume.",
                 "hu": "Élvezze a fűtött kiállítótereket.",
                 "ro": "Bucurați-vă de sălile de expoziție încălzite.",
-                "en": "Enjoy the heated exhibition rooms."
+                "en": "Enjoy the heated exhibition rooms.",
+                "cs": "Užívejte si vytápěné výstavní místnosti."
               }
             },
             {
@@ -517,7 +556,8 @@
                 "de": "Früher Sonnenuntergang beachten; Wege können verschneit sein.",
                 "hu": "Ügyeljen a korai naplementére; az utak havasak lehetnek.",
                 "ro": "Atenție la apusul timpuriu; potecile pot fi înzăpezite.",
-                "en": "Note the early sunset; paths may be covered in snow."
+                "en": "Note the early sunset; paths may be covered in snow.",
+                "cs": "Všimněte si brzkého západu slunce; cesty mohou být pokryté sněhem."
               }
             }
           ],
@@ -549,6 +589,13 @@
               "Churches are often cooler than museums, keep your jacket on.",
               "Forest Park is particularly charming with fresh snowfall.",
               "Hot drinks are available in cafes around Peace Square."
+            ],
+            "cs": [
+              "Noste teplé termovrstvy a izolovanou obuv.",
+              "Západ slunce v zimě nastává už v 16:00.",
+              "Kostely jsou často chladnější než muzea, nechte si bundu na sobě.",
+              "Lesopark je obzvlášť malebný při čerstvém sněhu.",
+              "Horké nápoje jsou k dostání v kavárnách kolem náměstí Svobody."
             ]
           }
         }
@@ -567,7 +614,8 @@
             "de": "Friedensplatz (náměstí Svobody)",
             "hu": "Béke tér (náměstí Svobody)",
             "ro": "Piața Păcii (náměstí Svobody)",
-            "en": "Peace Square (náměstí Svobody)"
+            "en": "Peace Square (náměstí Svobody)",
+            "cs": "Náměstí Svobody (náměstí Svobody)"
           },
           "coords": [
             18.671,
@@ -583,7 +631,8 @@
             "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie den Platz erkunden.",
             "hu": "Zárja le biztonságosan a kerékpárját, mielőtt felfedezné a teret.",
             "ro": "Asigurați-vă bicicleta înainte de a explora piața.",
-            "en": "Secure your bike before exploring the square."
+            "en": "Secure your bike before exploring the square.",
+            "cs": "Zajistěte si kolo, než prozkoumáte náměstí."
           }
         },
         {
@@ -591,7 +640,8 @@
             "de": "Eisenwerk-Monument",
             "hu": "Vasmű Emlékmű",
             "ro": "Monumentul Oțelăriei",
-            "en": "Ironworks Monument"
+            "en": "Ironworks Monument",
+            "cs": "Pomník železáren"
           },
           "coords": [
             18.68,
@@ -607,7 +657,8 @@
             "de": "Ein schneller Halt, um das industrielle Symbol der Stadt zu sehen.",
             "hu": "Egy gyors megálló a város ipari szimbólumának megtekintésére.",
             "ro": "O oprire rapidă pentru a vedea simbolul industrial al orașului.",
-            "en": "A quick stop to see the industrial symbol of the city."
+            "en": "A quick stop to see the industrial symbol of the city.",
+            "cs": "Krátká zastávka k uložení dojmu z průmyslového symbolu města."
           }
         },
         {
@@ -615,7 +666,8 @@
             "de": "Museum der Eisenhütten",
             "hu": "Vaskohászati Múzeum",
             "ro": "Muzeul Siderurgiei",
-            "en": "Museum of Ironworks"
+            "en": "Museum of Ironworks",
+            "cs": "Muzeum železáren"
           },
           "coords": [
             18.682,
@@ -631,7 +683,8 @@
             "de": "Es gibt Fahrradständer in der Nähe des Eingangs.",
             "hu": "A bejárat közelében vannak kerékpártárolók.",
             "ro": "Există suporturi pentru biciclete lângă intrare.",
-            "en": "There are bike racks available near the entrance."
+            "en": "There are bike racks available near the entrance.",
+            "cs": "U vchodu jsou dostupné stojany na kola."
           }
         },
         {
@@ -639,7 +692,8 @@
             "de": "Kulturhaus Trinec",
             "hu": "Trineci Kultúrház",
             "ro": "Casa de Cultură Trinec",
-            "en": "Kulturhaus Trinec"
+            "en": "Kulturhaus Trinec",
+            "cs": "Kulturní dům Třinec"
           },
           "coords": [
             18.675,
@@ -655,7 +709,8 @@
             "de": "Prüfen Sie, ob es tagsüber Ausstellungen oder Veranstaltungen gibt.",
             "hu": "Nézze meg, vannak-e napközbeni kiállítások vagy események.",
             "ro": "Verificați dacă există expoziții sau evenimente pe timp de zi.",
-            "en": "Check if there are any daytime exhibitions or events."
+            "en": "Check if there are any daytime exhibitions or events.",
+            "cs": "Zkontrolujte, zda nejsou během dne výstavy nebo akce."
           }
         },
         {
@@ -663,7 +718,8 @@
             "de": "Waldpark",
             "hu": "Erdei park",
             "ro": "Parcul Pădure",
-            "en": "Forest Park"
+            "en": "Forest Park",
+            "cs": "Lesopark"
           },
           "coords": [
             18.665,
@@ -679,7 +735,8 @@
             "de": "Ideal für eine Mittagspause. Fahren Sie auf den ausgewiesenen Wegen.",
             "hu": "Ideális egy ebédszünetre. A kijelölt utakon kerékpározzon.",
             "ro": "Ideal pentru o pauză de prânz. Pedalați pe cărările desemnate.",
-            "en": "Ideal for a lunch break. Ride on the designated paths."
+            "en": "Ideal for a lunch break. Ride on the designated paths.",
+            "cs": "Ideální pro obědovou přestávku. Jezdit po vyznačených cestách."
           }
         },
         {
@@ -687,7 +744,8 @@
             "de": "Radweg am Fluss Olsa",
             "hu": "Kerékpárút az Olza folyó mentén",
             "ro": "Pista de biciclete de pe malul râului Olza",
-            "en": "Olza River Bike Path"
+            "en": "Olza River Bike Path",
+            "cs": "Cyklostezka podél řeky Olza"
           },
           "coords": [
             18.65,
@@ -703,7 +761,8 @@
             "de": "Genießen Sie eine lange, flache Fahrt entlang des Flusses, perfekt für den Nachmittag.",
             "hu": "Élvezze a hosszú, sík utat a folyó mentén, tökéletes délutáni program.",
             "ro": "Bucurați-vă de o plimbare lungă și plată de-a lungul râului, perfectă pentru după-amiază.",
-            "en": "Enjoy a long, flat ride along the river, perfect for the afternoon."
+            "en": "Enjoy a long, flat ride along the river, perfect for the afternoon.",
+            "cs": "Užijte si dlouhou, rovinatou jízdu podél řeky, ideální pro odpoledne."
           }
         }
       ],
@@ -711,7 +770,8 @@
         "de": "Starten Sie Ihre Radtour am Friedensplatz, nachdem Sie Ihr Fahrrad gesichert haben. Am Vormittag radeln Sie durch das industrielle Herz der Stadt und machen Halt am Eisenwerk-Monument und dem aufschlussreichen Museum. Mittags besuchen Sie das Kulturhaus, bevor Sie im Waldpark eine Pause einlegen. Der Nachmittag ist einer malerischen Fahrt auf dem Radweg am Fluss Olsa gewidmet, wo Sie die Naturlandschaft um Trinec in einem gemütlichen Tempo genießen können. Es ist eine perfekte Mischung aus urbaner Erkundung und natürlicher Schönheit.",
         "hu": "Kezdje a kerékpártúrát a Béke térről, miután lezárta a biciklit. Délelőtt tekerjen át a város ipari szívén, megállva a Vasmű Emlékműnél és a tanulságos múzeumnál. Délben látogasson el a Kultúrházhoz, mielőtt szünetet tartana az Erdei parkban. A délutánt az Olza folyó menti festői kerékpárúton töltse, ahol kényelmes tempóban élvezheti a Trinec körüli természeti tájat. Ez a városi felfedezés és a természeti szépség tökéletes keveréke.",
         "ro": "Începeți turul pe bicicletă din Piața Păcii, după ce v-ați asigurat bicicleta. Dimineața pedalați prin inima industrială a orașului, cu opriri la Monumentul Oțelăriei și la muzeul relevant. La prânz, vizitați Casa de Cultură înainte de a lua o pauză în Parcul Pădure. După-amiaza este dedicată unei plimbări pitorești pe pista de biciclete de pe malul râului Olza, bucurându-vă de peisajul natural din jurul Trinec într-un ritm relaxat. Este un amestec perfect de explorare urbană și frumusețe naturală.",
-        "en": "Kick off your bike tour from Peace Square after securing your ride. In the morning, pedal through the industrial heart of the city with stops at the Ironworks Monument and the insightful museum. At midday, visit the Kulturhaus before taking a break in the Forest Park. The afternoon is dedicated to a scenic ride along the Olza River bike path, enjoying the natural scenery around Trinec at a leisurely pace. It's a perfect blend of urban exploration and natural beauty."
+        "en": "Kick off your bike tour from Peace Square after securing your ride. In the morning, pedal through the industrial heart of the city with stops at the Ironworks Monument and the insightful museum. At midday, visit the Kulturhaus before taking a break in the Forest Park. The afternoon is dedicated to a scenic ride along the Olza River bike path, enjoying the natural scenery around Trinec at a leisurely pace. It's a perfect blend of urban exploration and natural beauty.",
+        "cs": "Vydejte se na cykloturistiku z náměstí Svobody poté, co řádně zajistíte kolo. Dopoledne projeďte průmyslové srdce města se zastávkami u Pomníku železáren a v poučné expozici muzea. V poledne navštivte Kulturní dům a dejte si pauzu v Lesoparku. Odpoledne si vychutnejte malebnou jízdu po cyklostezce podél řeky Olza a pomalou prohlídku přírody kolem Třince. Je to dokonalá kombinace městského objevování a přírodní krásy."
       },
       "gastro_picks": {
         "de": [
@@ -871,6 +931,12 @@
           "Bring a lock to secure your bike at stops.",
           "The river bike path is flat and suitable for all fitness levels.",
           "Be cautious of traffic in the city center."
+        ],
+        "cs": [
+          "Zkontrolujte tlak v pneumatikách před startem.",
+          "Vezměte zámek na kolo, abyste jej mohli zajistit při zastávkách.",
+          "Říční cyklostezka je rovná a vhodná pro všechny výkonnostní úrovně.",
+          "Buďte opatrní v centru města kvůli provozu."
         ]
       },
       "variants": {
@@ -879,7 +945,8 @@
             "de": "Starten Sie vorsichtig am regnerischen Friedensplatz. Die Fahrt zum Eisenhütten-Denkmal erfordert Aufmerksamkeit auf nassen Straßen. Mittags bietet das Museum eine lange, trockene Pause. Nachmittags erkunden wir das Kulturhaus, bevor wir im Waldpark die frische Regenluft genießen. Den Tag schließen wir mit einer Fahrt entlang der Olza ab, wo der Fluss im Regen kraftvoll wirkt.",
             "hu": "Kezdje óvatosan a tekerést az esős Szabadság téren. A vasmű emlékművéhez vezető út figyelmet igényel a vizes aszfalton. Délben a múzeum nyújt hosszú, száraz pihenőt. Délután a Kulturházat fedezzük fel, majd a Forest Park friss, eső utáni levegőjét élvezzük. A napot az Olza menti kerékpárúton zárjuk, ahol a folyó esőben különösen zúgó.",
             "ro": "Începeți cu atenție plimbarea cu bicicleta în Piața Libertății ploioasă. Drumul spre Monumentul Combinatului necesită prudență pe asfaltul ud. La prânz, muzeul oferă o pauză lungă și uscată. După-amiaza explorăm Casa de Cultură, apoi ne bucurăm de aerul proaspăt din Forest Park. Încheiem ziua pe pista de biciclete de-a lungul râului Olza.",
-            "en": "Start carefully at the rainy Peace Square. The ride to the Ironworks Monument requires attention on wet roads. Spend your midday taking a long, dry break at the museum. In the afternoon, explore the Kulturhaus before enjoying the fresh air in Forest Park. End your day on the Olza River path, where the river flows strongly in the rain."
+            "en": "Start carefully at the rainy Peace Square. The ride to the Ironworks Monument requires attention on wet roads. Spend your midday taking a long, dry break at the museum. In the afternoon, explore the Kulturhaus before enjoying the fresh air in Forest Park. End your day on the Olza River path, where the river flows strongly in the rain.",
+            "cs": "Opatrně vyjeďte z mokrého náměstí Svobody. Jízda k Pomníku železáren vyžaduje pozornost na kluzkých silnicích. V poledne si dejte dlouhou, suchou přestávku v muzeu. Odpoledne prozkoumejte Kulturní dům a poté si užijte čerstvý vzduch v Lesoparku. Den zakončete na stezce podél Olzy, kde řeka v dešti silně proudí."
           },
           "stops": [
             {
@@ -888,7 +955,8 @@
                 "de": "Vorsicht beim Anfahren auf nassem Kopfsteinpflaster.",
                 "hu": "Vigyázat az indulásnál a nedves macskakövön.",
                 "ro": "Atenție la pornire pe pavajul umed.",
-                "en": "Be careful when starting on wet cobblestones."
+                "en": "Be careful when starting on wet cobblestones.",
+                "cs": "Buďte opatrní při nájezdu na mokré kočičí hlavy."
               }
             },
             {
@@ -897,7 +965,8 @@
                 "de": "Schneller Fotostopp; Metallflächen nicht berühren.",
                 "hu": "Gyors fotómegálló; a fémfelületeket ne érintse meg.",
                 "ro": "Oprire rapidă pentru poze; nu atingeți suprafețele metalice.",
-                "en": "Quick photo stop; do not touch the metal surfaces."
+                "en": "Quick photo stop; do not touch the metal surfaces.",
+                "cs": "Krátká fotostop; nedotýkejte se kovových povrchů."
               }
             },
             {
@@ -906,7 +975,8 @@
                 "de": "Fahrradständer vorhanden; ideale Regenpause.",
                 "hu": "Kerékpártároló van; ideális pihenő esőben.",
                 "ro": "Există suporturi pentru biciclete; pauză ideală de ploaie.",
-                "en": "Bike racks available; ideal rain break."
+                "en": "Bike racks available; ideal rain break.",
+                "cs": "Stojany na kola dostupné; ideální přestávka za deště."
               }
             },
             {
@@ -915,7 +985,8 @@
                 "de": "Trockener Innenraum für eine kurze Verschnaufpause.",
                 "hu": "Száraz belső tér egy rövid szusszanáshoz.",
                 "ro": "Spațiu interior uscat pentru o scurtă pauză.",
-                "en": "Dry interior for a short breather."
+                "en": "Dry interior for a short breather.",
+                "cs": "Suchý interiér pro krátké načerpání sil."
               }
             },
             {
@@ -924,7 +995,8 @@
                 "de": "Laub auf den Wegen kann rutschig sein.",
                 "hu": "A falevelek az utakon csúszósak lehetnek.",
                 "ro": "Frunzele de pe poteci pot fi alunecoase.",
-                "en": "Leaves on the paths can be slippery."
+                "en": "Leaves on the paths can be slippery.",
+                "cs": "Listí na cestách může být kluzké."
               }
             },
             {
@@ -933,7 +1005,8 @@
                 "de": "Spritzschutz am Fahrrad ist hier sehr vorteilhaft.",
                 "hu": "A sárvédő itt nagyon előnyös a kerékpáron.",
                 "ro": "Apărătoarea de noroi la bicicletă este foarte utilă aici.",
-                "en": "Mudguards on the bike are very beneficial here."
+                "en": "Mudguards on the bike are very beneficial here.",
+                "cs": "Blatníky na kole jsou zde velmi užitečné."
               }
             }
           ],
@@ -965,6 +1038,13 @@
               "The museum provides good weather protection for both you and your bike.",
               "Puddles may form on the Olza path, ride cautiously.",
               "Check brake performance in wet conditions before starting."
+            ],
+            "cs": [
+              "Noste kompletní nepromokavé vybavení včetně kalhot do deště.",
+              "Vyvarujte se prudkého brzdění na silničních značeních a kovových plochách.",
+              "Muzeum poskytuje dobrou ochranu před nepřízní počasí pro vás i vaše kolo.",
+              "Na stezce podél Olzy se mohou tvořit kaluže, jezdejte opatrně.",
+              "Před jízdou si zkontrolujte brzdnou sílu za mokra."
             ]
           }
         },
@@ -973,7 +1053,8 @@
             "de": "Starten Sie den Wintertag gut eingepackt am Friedensplatz. Die Fahrt zum Industriedenkmal ist bei klarer Luft erfrischend. Mittags wärmen wir uns im Museum auf, während die Fahrräder draußen warten. Nachmittags bietet das Kulturhaus eine weitere Wärmestation. Durch den Waldpark geht es im Licht der tiefstehenden Sonne, bevor die Tour am Flussweg bei Dämmerung endet.",
             "hu": "Kezdje a téli napot jól beöltözve a Szabadság téren. Az ipari emlékműhöz vezető út frissítő a hideg levegőn. Délben a múzeumban melegszünk fel, miközben a bringák kint pihennek. Délután a Kulturház kínál újabb pihenőt. A Forest Parkon az alacsonyan járó nap fényében tekerünk át, majd a folyóparton fejezzük be a túrát a szürkületben.",
             "ro": "Începeți ziua de iarnă bine echipat în Piața Libertății. Drumul spre monumentul industrial este revigorant în aerul rece. La prânz ne încălzim în muzeu, în timp ce bicicletele așteaptă afară. După-amiaza, Casa de Cultură oferă o altă stație de încălzire. Traversăm Forest Park în lumina soarelui jos, înainte ca turul să se încheie pe malul râului la amurg.",
-            "en": "Start your winter day well-wrapped at Peace Square. The ride to the industrial monument is refreshing in the crisp air. Warm up at the museum during midday. In the afternoon, the Kulturhaus serves as another warming station. Cycle through Forest Park in the low winter sun before ending your tour by the river as twilight falls."
+            "en": "Start your winter day well-wrapped at Peace Square. The ride to the industrial monument is refreshing in the crisp air. Warm up at the museum during midday. In the afternoon, the Kulturhaus serves as another warming station. Cycle through Forest Park in the low winter sun before ending your tour by the river as twilight falls.",
+            "cs": "Začněte zimní den dobře zabalení na náměstí Svobody. Jízda k průmyslovému monumentu je osvěžující v chladném vzduchu. V poledne se zahřejte v muzeu. Odpoledne slouží Kulturní dům jako další místo k ohřátí. Projeďte Lesopark za nízkého zimního slunce a zakončete svoji trasu u řeky při soumraku."
           },
           "stops": [
             {
@@ -982,7 +1063,8 @@
                 "de": "Prüfen Sie den Reifendruck; Kälte beeinflusst ihn.",
                 "hu": "Ellenőrizze a guminyomást; a hideg befolyásolja.",
                 "ro": "Verificați presiunea în anvelope; frigul o afectează.",
-                "en": "Check tire pressure; cold weather affects it."
+                "en": "Check tire pressure; cold weather affects it.",
+                "cs": "Zkontrolujte tlak v pneumatikách; chlad na něj vplývá."
               }
             },
             {
@@ -991,7 +1073,8 @@
                 "de": "Kurzer Stopp; Metall leitet die Kälte stark.",
                 "hu": "Rövid megálló; a fém erősen vezeti a hideget.",
                 "ro": "Oprire scurtă; metalul conduce puternic frigul.",
-                "en": "Short stop; metal conducts the cold intensely."
+                "en": "Short stop; metal conducts the cold intensely.",
+                "cs": "Krátká zastávka; kov intenzivně vede chlad."
               }
             },
             {
@@ -1000,7 +1083,8 @@
                 "de": "Fahrradschloss nicht vergessen; lange Aufwärmpause.",
                 "hu": "Ne felejtse el a lakatot; hosszú bemelegítő pihenő.",
                 "ro": "Nu uitați antifurtul; pauză lungă de încălzire.",
-                "en": "Don't forget your bike lock; long warming break."
+                "en": "Don't forget your bike lock; long warming break.",
+                "cs": "Nezapomeňte zámek na kolo; delší pauza na ohřátí."
               }
             },
             {
@@ -1009,7 +1093,8 @@
                 "de": "Ideale Station für einen warmen Tee.",
                 "hu": "Ideális állomás egy forró teára.",
                 "ro": "Stație ideală pentru un ceai cald.",
-                "en": "Ideal station for a hot tea."
+                "en": "Ideal station for a hot tea.",
+                "cs": "Ideální stanice pro horký čaj."
               }
             },
             {
@@ -1018,7 +1103,8 @@
                 "de": "Vorsicht bei vereisten Pfützen auf den Wegen.",
                 "hu": "Vigyázat a fagyott tócsákkal az utakon.",
                 "ro": "Atenție la bălțile înghețate de pe poteci.",
-                "en": "Watch out for frozen puddles on the paths."
+                "en": "Watch out for frozen puddles on the paths.",
+                "cs": "Dejte pozor na zamrzlé kaluže na cestách."
               }
             },
             {
@@ -1027,7 +1113,8 @@
                 "de": "Gute Beleuchtung am Rad ist wegen der frühen Dunkelheit wichtig.",
                 "hu": "A jó világítás fontos a korai sötétedés miatt.",
                 "ro": "Iluminarea bună este importantă din cauza întunericului timpuriu.",
-                "en": "Good lighting on the bike is essential due to early darkness."
+                "en": "Good lighting on the bike is essential due to early darkness.",
+                "cs": "Dobrý osvětlení kola je nezbytné kvůli brzkému stmívání."
               }
             }
           ],
@@ -1059,6 +1146,13 @@
               "Use the Kulturhaus as an intermediate warming station.",
               "Shorten the tour if your fingers get too cold.",
               "E-bike batteries discharge faster in the cold."
+            ],
+            "cs": [
+              "Noste větruodolné rukavice a čepici pod helmu.",
+              "Dejte pozor na černý led na mostech přes Olzu.",
+              "Využijte Kulturní dům jako mezistanici k ohřátí.",
+              "Zkraťte trasu, pokud vám začnou mrznout prsty.",
+              "Baterie v elektrokolech se v chladu vybíjejí rychleji."
             ]
           }
         }
@@ -1077,7 +1171,8 @@
             "de": "Javorový vrch",
             "hu": "Javorový hegycsúcs",
             "ro": "Vârful Javorový",
-            "en": "Javorový peak"
+            "en": "Javorový peak",
+            "cs": "Javorový vrch"
           },
           "coords": [
             18.618,
@@ -1093,7 +1188,8 @@
             "de": "Fahren Sie zum Parkplatz und genießen Sie die Aussicht oder eine kurze Wanderung.",
             "hu": "Hajtson fel a parkolóig, és élvezze a kilátást vagy tegyen egy rövid túrát.",
             "ro": "Conduceți până la parcare și bucurați-vă de priveliște sau de o scurtă drumeție.",
-            "en": "Drive up to the parking area and enjoy the views or a short hike."
+            "en": "Drive up to the parking area and enjoy the views or a short hike.",
+            "cs": "Dojeďte na parkoviště a užijte si výhledy nebo krátkou túru."
           }
         },
         {
@@ -1101,7 +1197,8 @@
             "de": "Friedensplatz (náměstí Svobody)",
             "hu": "Béke tér (náměstí Svobody)",
             "ro": "Piața Păcii (náměstí Svobody)",
-            "en": "Peace Square (náměstí Svobody)"
+            "en": "Peace Square (náměstí Svobody)",
+            "cs": "Náměstí Svobody (náměstí Svobody)"
           },
           "coords": [
             18.671,
@@ -1117,7 +1214,8 @@
             "de": "Parken Sie Ihr Auto in einem nahegelegenen Parkhaus, um den Stadtkern zu erkunden.",
             "hu": "Parkolja le az autót egy közeli parkolóházban a belváros felfedezéséhez.",
             "ro": "Parcați mașina într-o parcare din apropiere pentru a explora centrul.",
-            "en": "Park your car in a nearby garage to explore the city core."
+            "en": "Park your car in a nearby garage to explore the city core.",
+            "cs": "Zaparkujte auto v blízké garáži a prozkoumejte jádro města."
           }
         },
         {
@@ -1125,7 +1223,8 @@
             "de": "St.-Albrecht-Kirche",
             "hu": "Szent Adalbert-templom",
             "ro": "Biserica Sfântul Albert",
-            "en": "St. Albert's Church"
+            "en": "St. Albert's Church",
+            "cs": "Kostel sv. Alberta"
           },
           "coords": [
             18.6745,
@@ -1141,7 +1240,8 @@
             "de": "Ein kurzer Spaziergang vom Friedensplatz.",
             "hu": "Rövid séta a Béke térről.",
             "ro": "La o scurtă plimbare de Piața Păcii.",
-            "en": "A short walk from Peace Square."
+            "en": "A short walk from Peace Square.",
+            "cs": "Krátká procházka od náměstí Svobody."
           }
         },
         {
@@ -1149,7 +1249,8 @@
             "de": "Museum der Eisenhütten",
             "hu": "Vaskohászati Múzeum",
             "ro": "Muzeul Siderurgiei",
-            "en": "Museum of Ironworks"
+            "en": "Museum of Ironworks",
+            "cs": "Muzeum železáren"
           },
           "coords": [
             18.682,
@@ -1165,7 +1266,8 @@
             "de": "Der Spaziergang zum Museum führt Sie durch einen interessanten Teil der Stadt.",
             "hu": "A múzeumhoz vezető séta a város egy érdekes részén vezet keresztül.",
             "ro": "Plimbarea până la muzeu vă poartă printr-o parte interesantă a orașului.",
-            "en": "The walk to the museum takes you through an interesting part of town."
+            "en": "The walk to the museum takes you through an interesting part of town.",
+            "cs": "Procházka k muzeu vás zavede zajímavou částí města."
           }
         },
         {
@@ -1173,7 +1275,8 @@
             "de": "Eisenwerk-Monument",
             "hu": "Vasmű Emlékmű",
             "ro": "Monumentul Oțelăriei",
-            "en": "Ironworks Monument"
+            "en": "Ironworks Monument",
+            "cs": "Památník železáren"
           },
           "coords": [
             18.68,
@@ -1189,7 +1292,8 @@
             "de": "Direkt neben dem Museum, ein Muss für das Verständnis der Stadt.",
             "hu": "Közvetlenül a múzeum mellett, kötelező a város megértéséhez.",
             "ro": "Chiar lângă muzeu, esențial pentru a înțelege orașul.",
-            "en": "Right next to the museum, essential for understanding the city."
+            "en": "Right next to the museum, essential for understanding the city.",
+            "cs": "Hned vedle muzea, nezbytné pro pochopení města."
           }
         },
         {
@@ -1197,7 +1301,8 @@
             "de": "Waldpark",
             "hu": "Erdei park",
             "ro": "Parcul Pădure",
-            "en": "Forest Park"
+            "en": "Forest Park",
+            "cs": "Lesní park"
           },
           "coords": [
             18.665,
@@ -1213,7 +1318,8 @@
             "de": "Kehren Sie zu Ihrem Auto zurück und fahren Sie zum Park für einen entspannten Nachmittag.",
             "hu": "Térjen vissza az autójához, majd vezessen a parkhoz egy pihentető délutánért.",
             "ro": "Întoarceți-vă la mașină și conduceți până la parc pentru o după-amiază relaxantă.",
-            "en": "Retrieve your car and drive to the park for a relaxing afternoon."
+            "en": "Retrieve your car and drive to the park for a relaxing afternoon.",
+            "cs": "Vyberte si auto a jeďte do parku na odpočinkové odpoledne."
           }
         }
       ],
@@ -1221,7 +1327,8 @@
         "de": "Beginnen Sie den Tag mit einer Fahrt zum Javorový vrch, um die atemberaubende Aussicht auf die Beskiden zu genießen. Nach diesem Naturerlebnis fahren Sie ins Zentrum von Trinec. Parken Sie Ihr Auto und erkunden Sie den ersten Cluster zu Fuß: Beginnen Sie am Friedensplatz, besuchen Sie die St.-Albrecht-Kirche und tauchen Sie dann tief in das industrielle Erbe im Museum der Eisenhütten und am nahegelegenen Monument ein. Am Nachmittag holen Sie Ihr Auto und fahren zum zweiten Cluster, dem Waldpark, wo Sie einen ausgedehnten, erholsamen Spaziergang genießen können, der einen friedlichen Abschluss Ihres Erkundungstages bildet.",
         "hu": "Kezdje a napot egy autózással a Javorový hegycsúcsra, hogy élvezze a Beszkidekre nyíló lélegzetelállító kilátást. E természeti élmény után irány Trinec központja. Parkolja le autóját, és fedezze fel gyalog az első látnivaló-csoportot: induljon a Béke térről, látogassa meg a Szent Adalbert-templomot, majd merüljön el mélyen az ipari örökségben a Vaskohászati Múzeumban és a közeli emlékműnél. Délután üljön vissza az autóba, és vezessen a második csoporthoz, az Erdei parkhoz, ahol egy hosszú, pihentető sétát tehet, békésen lezárva a felfedezéssel töltött napot.",
         "ro": "Începeți ziua cu o excursie cu mașina la vârful Javorový pentru vederi panoramice uimitoare ale Munților Beskizi. După această incursiune în natură, mergeți în centrul orașului Trinec. Parcați mașina și explorați primul grup de atracții pe jos: începeți din Piața Păcii, vizitați Biserica Sf. Albert, apoi aprofundați moștenirea industrială la Muzeul Siderurgiei și la monumentul din apropiere. După-amiaza, recuperați mașina și conduceți spre al doilea grup, Parcul Pădure, pentru o plimbare lungă și relaxantă, încheind pașnic ziua de explorare.",
-        "en": "Start your day with a drive to Javorový peak for stunning panoramic views of the Beskydy Mountains. After this natural escape, head into the center of Trinec. Park your car and explore the first cluster on foot: start at Peace Square, visit St. Albert's Church, then delve deep into the industrial heritage at the Museum of Ironworks and the nearby monument. In the afternoon, retrieve your car and drive to the second cluster, the Forest Park, for a long, relaxing walk, providing a peaceful end to your day of exploration."
+        "en": "Start your day with a drive to Javorový peak for stunning panoramic views of the Beskydy Mountains. After this natural escape, head into the center of Trinec. Park your car and explore the first cluster on foot: start at Peace Square, visit St. Albert's Church, then delve deep into the industrial heritage at the Museum of Ironworks and the nearby monument. In the afternoon, retrieve your car and drive to the second cluster, the Forest Park, for a long, relaxing walk, providing a peaceful end to your day of exploration.",
+        "cs": "Začněte den jízdou na Javorový vrch pro ohromující panoramatické výhledy na Beskydy. Po tomto útěku do přírody se vydejte do centra Třince. Zaparkujte a prozkoumejte první okruh pěšky: začněte na náměstí Svobody, navštivte kostel sv. Alberta a pak se ponořte do průmyslového dědictví v Muzeu železáren a u blízkého památníku. Odpoledne si vyzvedněte auto a jeďte do druhého okruhu, Lesního parku, na dlouhou relaxační procházku, která poskytne klidný závěr dne plného objevování."
       },
       "gastro_picks": {
         "de": [
@@ -1381,6 +1488,12 @@
           "Allow extra time for traffic during peak hours.",
           "A GPS is essential for navigating to Javorový peak.",
           "Combine your visit with destinations in the wider Beskydy region."
+        ],
+        "cs": [
+          "Předem zkontrolujte možnosti parkování a poplatky v centru města.",
+          "Počítejte s dopravou v časech špičky.",
+          "GPS je nezbytná pro navigaci na Javorový vrch.",
+          "Návštěvu zkombinujte s cíli v širším regionu Beskyd."
         ]
       },
       "variants": {
@@ -1389,7 +1502,8 @@
             "de": "Beginnen Sie den Tag mit der Fahrt zum Javorový-Gipfel, wo Wolken im Regen tief hängen. Mittags erreichen wir den Friedensplatz, wo das Parken direkt am Geschehen möglich ist. Die St.-Albert-Kirche bietet eine kulturelle Regenpause. Den Nachmittag verbringen wir im trockenen Museum der Eisenhütte. Den Tag beschließen wir mit einer gemütlichen Fahrt durch den nebligen Waldpark.",
             "hu": "Kezdje a napot a Javorový-csúcsra vezető úttal, ahol esőben alacsonyan szállnak a felhők. Délben érkezünk a Szabadság térre, ahol kényelmesen parkolhatunk a központban. A Szent Albert-templom kulturális pihenőt nyújt az eső elől. A délutánt a vasmű száraz múzeumában töltjük. A napot egy hangulatos autózással zárjuk a ködös Forest Park környékén.",
             "ro": "Începeți ziua cu drumul spre vârful Javorový, unde norii coboară jos pe ploaie. La prânz ajungem în Piața Libertății, unde parcarea este facilă. Biserica Sf. Albert oferă o pauză culturală ferită de ploaie. După-amiaza o petrecem în muzeul uscat al combinatului. Încheiem ziua cu o plimbare relaxantă cu mașina prin parcul cețos.",
-            "en": "Start your day with a drive to Javorový peak, where rain clouds hang low. At midday, reach Peace Square with convenient nearby parking. St. Albert's Church offers a cultural refuge from the rain. Spend your afternoon in the dry Museum of Ironworks. End the day with a cozy drive through the misty Forest Park area."
+            "en": "Start your day with a drive to Javorový peak, where rain clouds hang low. At midday, reach Peace Square with convenient nearby parking. St. Albert's Church offers a cultural refuge from the rain. Spend your afternoon in the dry Museum of Ironworks. End the day with a cozy drive through the misty Forest Park area.",
+            "cs": "Začněte den jízdou na Javorový vrch, kde se nízko drží dešťové mraky. V poledne dorazíte na náměstí Svobody s pohodlným parkováním v blízkosti. Kostel sv. Alberta nabízí kulturní útočiště před deštěm. Odpoledne strávíte v suchém Muzeu železáren. Den zakončete útulnou jízdou mlhavou oblastí Lesního parku."
           },
           "stops": [
             {
@@ -1398,7 +1512,8 @@
                 "de": "Prüfen Sie die Sichtverhältnisse vor der Auffahrt.",
                 "hu": "Ellenőrizze a látási viszonyokat a felkapaszkodás előtt.",
                 "ro": "Verificați condițiile de vizibilitate înainte de urcare.",
-                "en": "Check visibility conditions before driving up."
+                "en": "Check visibility conditions before driving up.",
+                "cs": "Před jízdou nahoru zkontrolujte viditelnost."
               }
             },
             {
@@ -1407,7 +1522,8 @@
                 "de": "Parkhaus in der Nähe nutzen, um trockenen Fußes ins Café zu kommen.",
                 "hu": "Használja a közeli parkolóházat, hogy száraz lábbal érjen a kávézóba.",
                 "ro": "Folosiți parcarea acoperită din apropiere pentru a ajunge uscat la cafenea.",
-                "en": "Use the nearby parking garage to stay dry while heading to a cafe."
+                "en": "Use the nearby parking garage to stay dry while heading to a cafe.",
+                "cs": "Využijte blízký parkovací dům, abyste zůstali v suchu při cestě do kavárny."
               }
             },
             {
@@ -1416,7 +1532,8 @@
                 "de": "Parkplatz direkt vor dem Eingang oft verfügbar.",
                 "hu": "Gyakran van szabad parkoló közvetlenül a bejárat előtt.",
                 "ro": "Locuri de parcare adesea disponibile chiar în fața intrării.",
-                "en": "Parking is often available right in front of the entrance."
+                "en": "Parking is often available right in front of the entrance.",
+                "cs": "Parkování je často dostupné přímo před vchodem."
               }
             },
             {
@@ -1425,7 +1542,8 @@
                 "de": "Großer Parkplatz; ideal für einen langen Museumsbesuch.",
                 "hu": "Nagy parkoló; ideális egy hosszú múzeumlátogatáshoz.",
                 "ro": "Parcare mare; ideală pentru o vizită lungă la muzeu.",
-                "en": "Large parking lot; ideal for a long museum visit."
+                "en": "Large parking lot; ideal for a long museum visit.",
+                "cs": "Velké parkoviště; ideální pro dlouhou návštěvu muzea."
               }
             },
             {
@@ -1434,7 +1552,8 @@
                 "de": "Vom Auto aus gut sichtbar, falls es zu stark regnet.",
                 "hu": "Az autóból is jól látható, ha túl erősen esne.",
                 "ro": "Vizibil din mașină în caz că plouă prea tare.",
-                "en": "Well visible from the car if it rains too hard."
+                "en": "Well visible from the car if it rains too hard.",
+                "cs": "Dobře viditelný z auta, pokud hodně prší."
               }
             },
             {
@@ -1443,7 +1562,8 @@
                 "de": "Parken am Parkeingang; befestigte Wege nutzen.",
                 "hu": "Parkolás a park bejáratánál; használja a szilárd burkolatú utakat.",
                 "ro": "Parcare la intrarea în parc; folosiți potecile pavate.",
-                "en": "Parking at the park entrance; use the paved paths."
+                "en": "Parking at the park entrance; use the paved paths.",
+                "cs": "Parkování u vstupu do parku; používejte zpevněné cesty."
               }
             }
           ],
@@ -1475,6 +1595,13 @@
               "Keep an umbrella in the car for the walk to the museum entrance.",
               "Fog can severely limit visibility on the mountain.",
               "Turn on your headlights during the day in rainy weather."
+            ],
+            "cs": [
+              "Dejte pozor na aquaplaning na silnici k Javorovému.",
+              "Využívejte krytá parkovací místa v centru města.",
+              "Mějte v autě deštník pro cestu k vchodu do muzea.",
+              "Mlha může na horách výrazně omezit viditelnost.",
+              "Za deště si přes den rozsvěťte světla."
             ]
           }
         },
@@ -1483,7 +1610,8 @@
             "de": "Starten Sie den Wintertag mit der Fahrt zum schneebedeckten Javorový-Gipfel. Mittags parken wir am Friedensplatz und genießen die winterliche Stadtatmosphäre. Die Kirchen bieten warme kulturelle Pausen. Den Nachmittag verbringen wir im beheizten Museum der Eisenhütte. Zum Abschluss fahren wir durch den festlich beleuchteten Waldpark im Abendlicht.",
             "hu": "Kezdje a téli napot a havas Javorový-csúcsra vezető autózással. Délben a Szabadság téren parkolunk, élvezve a város téli hangulatát. A templomok meleg kulturális pihenőt kínálnak. A délutánt a vasmű fűtött múzeumában töltjük. Végezetül az esti fényekben pompázó Forest Park környékén teszünk egy kört.",
             "ro": "Începeți ziua de iarnă cu un drum spre vârful înzăpezit Javorový. La prânz parcăm în Piața Libertății și ne bucurăm de atmosfera hibernală a orașului. Bisericile oferă pauze culturale călduroase. După-amiaza o petrecem în muzeul încălzit al combinatului. La final, trecem prin zona parcului luminat festiv în lumina serii.",
-            "en": "Start your winter day with a drive to the snow-covered Javorový peak. At midday, park at Peace Square and enjoy the wintry city atmosphere. The churches provide warm cultural breaks. Spend your afternoon in the heated Museum of Ironworks. To finish, drive through the festively lit Forest Park area in the evening light."
+            "en": "Start your winter day with a drive to the snow-covered Javorový peak. At midday, park at Peace Square and enjoy the wintry city atmosphere. The churches provide warm cultural breaks. Spend your afternoon in the heated Museum of Ironworks. To finish, drive through the festively lit Forest Park area in the evening light.",
+            "cs": "Zahajte zimní den jízdou na zasněžený Javorový vrch. V poledne zaparkujte na náměstí Svobody a užijte si zimní městskou atmosféru. Kostely poskytují teplé kulturní přestávky. Odpoledne strávte v vytopeném Muzeu železáren. Na závěr projeďte večerním světlem slavnostně osvětlenou oblast Lesního parku."
           },
           "stops": [
             {
@@ -1492,7 +1620,8 @@
                 "de": "Winterreifen und ggf. Schneeketten für die Auffahrt nötig.",
                 "hu": "Téli gumi és szükség esetén hólánc kell a feljutáshoz.",
                 "ro": "Anvelope de iarnă și eventual lanțuri necesare pentru urcare.",
-                "en": "Winter tires and possibly snow chains needed for the climb."
+                "en": "Winter tires and possibly snow chains needed for the climb.",
+                "cs": "Na výstup jsou potřeba zimní pneumatiky a případně sněhové řetězy."
               }
             },
             {
@@ -1501,7 +1630,8 @@
                 "de": "Parkplatzsuche im Schnee kann länger dauern; Parkhaus bevorzugen.",
                 "hu": "A parkolóhely-keresés a hóban tovább tarthat; válassza a parkolóházat.",
                 "ro": "Căutarea unui loc de parcare în zăpadă poate dura mai mult; preferați parcările acoperite.",
-                "en": "Finding parking in the snow might take longer; prefer the parking garage."
+                "en": "Finding parking in the snow might take longer; prefer the parking garage.",
+                "cs": "Najít parkování ve sněhu může trvat déle; upřednostněte parkovací dům."
               }
             },
             {
@@ -1510,7 +1640,8 @@
                 "de": "Vorsicht beim Aussteigen auf glattem Untergrund.",
                 "hu": "Vigyázat a kiszállásnál a csúszós talajon.",
                 "ro": "Atenție la coborârea din mașină pe suprafețe alunecoase.",
-                "en": "Be careful when getting out of the car on slippery ground."
+                "en": "Be careful when getting out of the car on slippery ground.",
+                "cs": "Buďte opatrní při vystupování z auta na kluzkém povrchu."
               }
             },
             {
@@ -1519,7 +1650,8 @@
                 "de": "Der Parkplatz ist meist gut geräumt.",
                 "hu": "A parkolót általában jól letakarítják.",
                 "ro": "Parcarea este de obicei bine deszăpezită.",
-                "en": "The parking lot is usually well-cleared of snow."
+                "en": "The parking lot is usually well-cleared of snow.",
+                "cs": "Parkoviště je obvykle dobře uklizené od sněhu."
               }
             },
             {
@@ -1528,7 +1660,8 @@
                 "de": "Gut beleuchtet in der frühen winterlichen Dunkelheit.",
                 "hu": "Jól kivilágítva a korai téli sötétségben.",
                 "ro": "Bine iluminat în întunericul timpuriu de iarnă.",
-                "en": "Well-lit during the early winter darkness."
+                "en": "Well-lit during the early winter darkness.",
+                "cs": "Dobře osvětlené během brzké zimní tmy."
               }
             },
             {
@@ -1537,7 +1670,8 @@
                 "de": "Parkplatz könnte im Winter eingeschränkt nutzbar sein.",
                 "hu": "A parkoló télen korlátozottan lehet használható.",
                 "ro": "Parcarea ar putea fi limitată pe timp de iarnă.",
-                "en": "Parking availability might be limited in winter."
+                "en": "Parking availability might be limited in winter.",
+                "cs": "Dostupnost parkování může být v zimě omezená."
               }
             }
           ],
@@ -1569,6 +1703,13 @@
               "The car is the best place to warm up between stops.",
               "The road to Javorový may be closed during heavy snowfall.",
               "Keep an ice scraper and snow brush handy in the car."
+            ],
+            "cs": [
+              "Dejte pozor na odhrnovače sněhu na horských silnicích.",
+              "Nezapomeňte nemrznoucí kapalinu do ostřikovačů.",
+              "Auto je nejlepší místo na zahřátí mezi zastávkami.",
+              "Silnice na Javorový může být při silných sněhových srážkách uzavřena.",
+              "Mějte v autě škrabku na led a sněhový kartáč."
             ]
           }
         }
@@ -1587,7 +1728,8 @@
             "de": "Friedensplatz (náměstí Svobody)",
             "hu": "Béke tér (náměstí Svobody)",
             "ro": "Piața Păcii (náměstí Svobody)",
-            "en": "Peace Square (náměstí Svobody)"
+            "en": "Peace Square (náměstí Svobody)",
+            "cs": "Náměstí Svobody (náměstí Svobody)"
           },
           "coords": [
             18.671,
@@ -1603,7 +1745,8 @@
             "de": "Der zentrale Busbahnhof ist in der Nähe und bietet einen einfachen Zugang zum Platz.",
             "hu": "A központi buszpályaudvar a közelben van, könnyű hozzáférést biztosítva a térhez.",
             "ro": "Autogara centrală este în apropiere, oferind acces ușor la piață.",
-            "en": "The main bus hub is nearby, providing easy access to the square."
+            "en": "The main bus hub is nearby, providing easy access to the square.",
+            "cs": "Hlavní autobusový uzel je v blízkosti a zajišťuje snadný přístup na náměstí."
           }
         },
         {
@@ -1611,7 +1754,8 @@
             "de": "St.-Albrecht-Kirche",
             "hu": "Szent Adalbert-templom",
             "ro": "Biserica Sfântul Albert",
-            "en": "St. Albert's Church"
+            "en": "St. Albert's Church",
+            "cs": "Kostel sv. Alberta"
           },
           "coords": [
             18.6745,
@@ -1627,7 +1771,8 @@
             "de": "Nur einen kurzen Spaziergang vom Friedensplatz entfernt.",
             "hu": "Csak egy rövid séta a Béke térről.",
             "ro": "La doar o scurtă plimbare de Piața Păcii.",
-            "en": "Just a short walk from Peace Square."
+            "en": "Just a short walk from Peace Square.",
+            "cs": "Jen krátká procházka od náměstí Svobody."
           }
         },
         {
@@ -1635,7 +1780,8 @@
             "de": "Evangelische Kirche",
             "hu": "Evangélikus templom",
             "ro": "Biserica Evanghelică",
-            "en": "Evangelical Church"
+            "en": "Evangelical Church",
+            "cs": "Evangelický kostel"
           },
           "coords": [
             18.667,
@@ -1651,7 +1797,8 @@
             "de": "Setzen Sie Ihre Erkundung des Stadtzentrums zu Fuß fort.",
             "hu": "Folytassa a városközpont felfedezését gyalog.",
             "ro": "Continuați explorarea pe jos a centrului orașului.",
-            "en": "Continue your on-foot exploration of the city center."
+            "en": "Continue your on-foot exploration of the city center.",
+            "cs": "Pokračujte v pěším objevování centra města."
           }
         },
         {
@@ -1659,7 +1806,8 @@
             "de": "Museum der Eisenhütten",
             "hu": "Vaskohászati Múzeum",
             "ro": "Muzeul Siderurgiei",
-            "en": "Museum of Ironworks"
+            "en": "Museum of Ironworks",
+            "cs": "Muzeum železáren"
           },
           "coords": [
             18.682,
@@ -1675,7 +1823,8 @@
             "de": "Nehmen Sie einen lokalen Bus vom Stadtzentrum, um zum Museumsviertel zu gelangen.",
             "hu": "Menjen helyi busszal a városközpontból a múzeumi negyedbe.",
             "ro": "Luați un autobuz local din centrul orașului pentru a ajunge în zona muzeului.",
-            "en": "Take a local bus from the city center to get to the museum district."
+            "en": "Take a local bus from the city center to get to the museum district.",
+            "cs": "Z centra města jezdí místní autobus do muzejní čtvrti."
           }
         },
         {
@@ -1683,7 +1832,8 @@
             "de": "Eisenwerk-Monument",
             "hu": "Vasmű Emlékmű",
             "ro": "Monumentul Oțelăriei",
-            "en": "Ironworks Monument"
+            "en": "Ironworks Monument",
+            "cs": "Památník železáren"
           },
           "coords": [
             18.68,
@@ -1699,7 +1849,8 @@
             "de": "Gleich um die Ecke vom Museum.",
             "hu": "A múzeum sarkánál található.",
             "ro": "Chiar după colț de la muzeu.",
-            "en": "Just around the corner from the museum."
+            "en": "Just around the corner from the museum.",
+            "cs": "Kousek za rohem od muzea."
           }
         },
         {
@@ -1707,7 +1858,8 @@
             "de": "Waldpark",
             "hu": "Erdei park",
             "ro": "Parcul Pădure",
-            "en": "Forest Park"
+            "en": "Forest Park",
+            "cs": "Lesní park"
           },
           "coords": [
             18.665,
@@ -1723,7 +1875,8 @@
             "de": "Eine weitere kurze Busfahrt bringt Sie zu diesem grünen Rückzugsort.",
             "hu": "Egy újabb rövid buszút elviszi ehhez a zöld menedékhelyhez.",
             "ro": "O altă călătorie scurtă cu autobuzul vă va duce la acest refugiu verde.",
-            "en": "Another short bus ride will take you to this green retreat."
+            "en": "Another short bus ride will take you to this green retreat.",
+            "cs": "Další krátká jízda autobusem vás dovede k tomuto zelenému útočišti."
           }
         }
       ],
@@ -1731,7 +1884,8 @@
         "de": "Ihr Tag beginnt mit der Ankunft am Friedensplatz, dem zentralen Verkehrsknotenpunkt. Der Vormittag ist einem Spaziergang gewidmet, bei dem Sie die Kirchen St. Albrecht und die Evangelische Kirche im Stadtzentrum erkunden. Mittags nehmen Sie einen Bus zum zweiten Cluster, um in das industrielle Erbe im Museum der Eisenhütten und am Eisenwerk-Monument einzutauchen. Für den Nachmittag bringt Sie eine weitere Busfahrt zum Waldpark, wo Sie sich entspannen und die Natur genießen können. Dieser Plan kombiniert effiziente Busfahrten zwischen den Clustern mit angenehmen Spaziergängen innerhalb der Viertel.",
         "hu": "A nap a Béke téren, a központi közlekedési csomóponton kezdődik. A délelőttöt egy sétával tölti, felfedezve a Szent Adalbert és az Evangélikus templomot a városközpontban. Délben busszal utazik a második látnivaló-csoporthoz, hogy elmerüljön az ipari örökségben a Vaskohászati Múzeumban és az emlékműnél. Délután egy újabb buszjárat viszi az Erdei parkba, ahol pihenhet és élvezheti a természetet. Ez a terv hatékony buszutakat kombinál a klaszterek között kellemes sétákkal a negyedeken belül.",
         "ro": "Ziua dvs. începe odată cu sosirea în Piața Păcii, nodul central de transport. Dimineața este dedicată unui tur pietonal, explorând bisericile Sf. Albert și Evanghelică din centrul orașului. La prânz, luați un autobuz către al doilea grup pentru a vă cufunda în moștenirea industrială la Muzeul Siderurgiei și Monumentul Oțelăriei. Pentru după-amiază, o altă călătorie cu autobuzul vă duce la Parcul Pădure pentru relaxare și natură. Acest plan îmbină călătoriile eficiente cu autobuzul între grupuri cu plimbări plăcute în interiorul cartierelor.",
-        "en": "Your day starts by arriving at the central transit hub of Peace Square. The morning is a walking cluster, exploring St. Albert's Church and the Evangelical Church in the city center. At midday, you'll take a bus to the second cluster to immerse yourself in industrial heritage at the Museum of Ironworks and the Ironworks Monument. For the afternoon, another transit hop takes you to the Forest Park for relaxation and nature. This plan mixes efficient bus travel between clusters with pleasant walks within the districts."
+        "en": "Your day starts by arriving at the central transit hub of Peace Square. The morning is a walking cluster, exploring St. Albert's Church and the Evangelical Church in the city center. At midday, you'll take a bus to the second cluster to immerse yourself in industrial heritage at the Museum of Ironworks and the Ironworks Monument. For the afternoon, another transit hop takes you to the Forest Park for relaxation and nature. This plan mixes efficient bus travel between clusters with pleasant walks within the districts.",
+        "cs": "Váš den začíná příjezdem na centrální přestupní bod Náměstí Svobody. Ráno je to pěší okruh, při němž prozkoumáte kostel sv. Alberta a evangelický kostel v centru města. V poledne pojedete autobusem do druhého okruhu, kde se ponoříte do průmyslového dědictví v Muzeu železáren a u Památníku železáren. Odpoledne vás další jízda doprava dovede do Lesního parku k odpočinku a přírodě. Tento plán kombinuje efektivní jízdy autobusem mezi okruhy s příjemnými procházkami v jednotlivých částech."
       },
       "gastro_picks": {
         "de": [
@@ -1891,6 +2045,12 @@
           "Download the local transit app for real-time bus tracking.",
           "Be aware that bus frequencies may be lower in the evenings and on weekends.",
           "Validate your ticket upon boarding the bus to avoid a fine."
+        ],
+        "cs": [
+          "Pořiďte si celodenní jízdenku na MHD pro nejlepší poměr ceny a výkonu.",
+          "Stáhněte si místní aplikaci veřejné dopravy pro sledování autobusů v reálném čase.",
+          "Mějte na paměti, že frekvence autobusů může být nižší večer a o víkendech.",
+          "Při nástupu do autobusu označte lístek, abyste se vyhnuli pokutě."
         ]
       },
       "variants": {
@@ -1899,7 +2059,8 @@
             "de": "Nutzen Sie die Busse, um trocken zum Friedensplatz zu gelangen. Mittags verbinden uns kurze Fahrten mit den Kirchen der Stadt. Das Highlight am Nachmittag ist das Museum der Eisenhütte, das wir bequem per Bus erreichen. Den Abend lassen wir im Waldpark ausklingen, wobei die Haltestelle direkt am Eingang Schutz bietet.",
             "hu": "Használja a buszokat, hogy szárazon jusson el a Szabadság térre. Délben rövid utazások kötik össze a város templomait. A délután fénypontja a vasmű múzeuma, amelyet kényelmesen elérhetünk busszal. A napot a Forest Parkban zárjuk, ahol a bejáratnál lévő megálló védelmet nyújt.",
             "ro": "Folosiți autobuzele pentru a ajunge uscat în Piața Libertății. La prânz, călătorii scurte ne conectează cu bisericile orașului. Punctul culminant al după-amiezii este muzeul combinatului, la care se ajunge ușor cu autobuzul. Încheiem ziua în Forest Park, unde stația de la intrare oferă protecție.",
-            "en": "Use the local buses to reach Peace Square while staying dry. At midday, short transit trips connect you to the city's churches. The afternoon highlight is the Ironworks Museum, easily accessible by bus. End your day at Forest Park, where the bus stop at the entrance provides shelter."
+            "en": "Use the local buses to reach Peace Square while staying dry. At midday, short transit trips connect you to the city's churches. The afternoon highlight is the Ironworks Museum, easily accessible by bus. End your day at Forest Park, where the bus stop at the entrance provides shelter.",
+            "cs": "Využijte místní autobusy, abyste dojeli na Náměstí Svobody a zůstali v suchu. V poledne vás krátké spoje spojí s městskými kostely. Odpolední vrchol je Muzeum železáren, snadno dosažitelné autobusem. Den zakončete v Lesním parku, kde zastávka u vchodu poskytuje úkryt."
           },
           "stops": [
             {
@@ -1908,7 +2069,8 @@
                 "de": "Zentrale Haltestelle mit vielen Unterständen.",
                 "hu": "Központi megálló sok váróval.",
                 "ro": "Stație centrală cu multe adăposturi.",
-                "en": "Central stop with many shelters."
+                "en": "Central stop with many shelters.",
+                "cs": "Centrální zastávka s mnoha přístřešky."
               }
             },
             {
@@ -1917,7 +2079,8 @@
                 "de": "Haltestelle nur wenige Gehminuten entfernt.",
                 "hu": "A megálló csak néhány perc séta.",
                 "ro": "Stația se află la doar câteva minute de mers pe jos.",
-                "en": "The stop is only a few minutes' walk away."
+                "en": "The stop is only a few minutes' walk away.",
+                "cs": "Zastávka je jen pár minut chůze."
               }
             },
             {
@@ -1926,7 +2089,8 @@
                 "de": "Gute Busverbindung direkt ins Zentrum.",
                 "hu": "Jó buszközlekedés közvetlenül a központba.",
                 "ro": "Conexiune bună de autobuz direct spre centru.",
-                "en": "Good bus connection directly to the center."
+                "en": "Good bus connection directly to the center.",
+                "cs": "Dobrý autobusový spoj přímo do centra."
               }
             },
             {
@@ -1935,7 +2099,8 @@
                 "de": "Eigene Haltestelle in der Nähe des Eingangs.",
                 "hu": "Saját megálló a bejárat közelében.",
                 "ro": "Stație proprie în apropierea intrării.",
-                "en": "Dedicated stop near the entrance."
+                "en": "Dedicated stop near the entrance.",
+                "cs": "Vyhrazená zastávka blízko vchodu."
               }
             },
             {
@@ -1944,7 +2109,8 @@
                 "de": "Kurzer Fußweg von der Bushaltestelle; Schirm nutzen.",
                 "hu": "Rövid séta a buszmegállótól; használjon esernyőt.",
                 "ro": "Scurtă plimbare de la stație; folosiți umbrela.",
-                "en": "Short walk from the bus stop; use an umbrella."
+                "en": "Short walk from the bus stop; use an umbrella.",
+                "cs": "Krátká procházka ze zastávky; vezměte si deštník."
               }
             },
             {
@@ -1953,7 +2119,8 @@
                 "de": "Wartehäuschen schützt vor Regen beim Warten auf den Rückbus.",
                 "hu": "A váróterem véd az esőtől a visszaútra várakozva.",
                 "ro": "Adăpostul din stație vă protejează în timp ce așteptați autobuzul de întoarcere.",
-                "en": "The bus shelter protects you from the rain while waiting for the return bus."
+                "en": "The bus shelter protects you from the rain while waiting for the return bus.",
+                "cs": "Autobusový přístřešek vás ochrání před deštěm při čekání na zpáteční spoj."
               }
             }
           ],
@@ -1985,6 +2152,13 @@
               "Have change or a card ready for ticket purchase.",
               "Buses are often more crowded in the rain; allow extra time.",
               "A small folding umbrella fits easily in your bag."
+            ],
+            "cs": [
+              "Zkontrolujte odjezdy v aplikaci, abyste minimalizovali čekání v dešti.",
+              "Centrální přestupní uzly jako 'u kina' nabízejí lepší autobusové přístřešky.",
+              "Mějte připravenou drobnou nebo kartu na nákup jízdenky.",
+              "Autobusy jsou v dešti často více přeplněné; nechte si více času.",
+              "Malý skládací deštník se snadno vejde do kabelky."
             ]
           }
         },
@@ -1993,7 +2167,8 @@
             "de": "Starten Sie den Wintertag in den geheizten Bussen zum Friedensplatz. Mittags bieten die Fahrten zwischen den Kirchen eine willkommene Aufwärmpause. Den Nachmittag verbringen wir im Museum der Eisenhütte, das gut an das Liniennetz angebunden ist. Zum Abschluss genießen wir den verschneiten Waldpark, bevor uns der Bus sicher zurück ins Warme bringt.",
             "hu": "Kezdje a téli napot a fűtött buszokon a Szabadság tér felé. Délben a templomok közötti utazás kellemes melegedő pihenőt jelent. A délutánt a vasmű jól megközelíthető múzeumában töltjük. Végezetül a havas Forest Parkot élvezzük, mielőtt a busz biztonságban visszavisz minket a melegbe.",
             "ro": "Începeți ziua de iarnă în autobuzele încălzite spre Piața Libertății. La prânz, călătoriile între biserici oferă o pauză binemeritată de încălzire. După-amiaza o petrecem în muzeul combinatului, bine conectat la rețeaua de transport. La final ne bucurăm de parcul înzăpezit, înainte ca autobuzul să ne ducă înapoi la căldură.",
-            "en": "Start your winter day in the heated buses to Peace Square. At midday, the short rides between churches offer a welcome warming break. Spend your afternoon at the well-connected Ironworks Museum. To finish, enjoy the snowy Forest Park before the bus takes you safely back to the warmth."
+            "en": "Start your winter day in the heated buses to Peace Square. At midday, the short rides between churches offer a welcome warming break. Spend your afternoon at the well-connected Ironworks Museum. To finish, enjoy the snowy Forest Park before the bus takes you safely back to the warmth.",
+            "cs": "Začněte zimní den ve vytopených autobusech směr Náměstí Svobody. V poledne krátké jízdy mezi kostely nabídnou vítané oteplení. Odpoledne strávíte v dobře propojeném Muzeu železáren. Na závěr si užijte zasněžený Lesní park, než vás autobus bezpečně doveze zpět do tepla."
           },
           "stops": [
             {
@@ -2002,7 +2177,8 @@
                 "de": "Wartebereiche können bei Schnee rutschig sein.",
                 "hu": "A várakozóhelyek havasak, csúszósak lehetnek.",
                 "ro": "Zonele de așteptare pot fi alunecoase din cauza zăpezii.",
-                "en": "Waiting areas can be slippery when covered in snow."
+                "en": "Waiting areas can be slippery when covered in snow.",
+                "cs": "Čekací prostory mohou být kluzké, pokud jsou pokryté sněhem."
               }
             },
             {
@@ -2011,7 +2187,8 @@
                 "de": "Kurzer Weg von der Haltestelle; ideal bei Kälte.",
                 "hu": "Rövid út a megállótól; ideális hidegben.",
                 "ro": "Drum scurt de la stație; ideal pe timp de frig.",
-                "en": "Short walk from the stop; ideal in cold weather."
+                "en": "Short walk from the stop; ideal in cold weather.",
+                "cs": "Krátká procházka ze zastávky; ideální v chladném počasí."
               }
             },
             {
@@ -2020,7 +2197,8 @@
                 "de": "Busse fahren regelmäßig zurück in die Innenstadt.",
                 "hu": "A buszok rendszeresen járnak vissza a belvárosba.",
                 "ro": "Autobuzele circulă regulat înapoi spre centrul orașului.",
-                "en": "Buses run regularly back to the city center."
+                "en": "Buses run regularly back to the city center.",
+                "cs": "Autobusy jezdí pravidelně zpět do centra."
               }
             },
             {
@@ -2029,7 +2207,8 @@
                 "de": "Die Haltestelle ist im Winter gut beleuchtet.",
                 "hu": "A megálló télen jól ki van világítva.",
                 "ro": "Stația este bine iluminată pe timp de iarnă.",
-                "en": "The bus stop is well-lit in winter."
+                "en": "The bus stop is well-lit in winter.",
+                "cs": "Autobusová zastávka je v zimě dobře osvětlená."
               }
             },
             {
@@ -2038,7 +2217,8 @@
                 "de": "Schneller Besuch, dann zurück zur warmen Haltestelle.",
                 "hu": "Gyors látogatás, majd vissza a meleg váróba.",
                 "ro": "Vizită rapidă, apoi înapoi la stația călduroasă.",
-                "en": "Quick visit, then back to the warm shelter."
+                "en": "Quick visit, then back to the warm shelter.",
+                "cs": "Rychlá návštěva a zpět do teplého úkrytu."
               }
             },
             {
@@ -2047,7 +2227,8 @@
                 "de": "Letzte Busse vor dem frühen Abend beachten.",
                 "hu": "Ügyeljen az utolsó buszokra a korai sötétedés előtt.",
                 "ro": "Atenție la ultimele autobuze înainte de înserarea timpurie.",
-                "en": "Note the last buses before early evening falls."
+                "en": "Note the last buses before early evening falls.",
+                "cs": "Všimněte si posledních spojů před brzkým večerním setměním."
               }
             }
           ],
@@ -2079,6 +2260,13 @@
               "Wear shoes with good grip for the paths to and from stops.",
               "Prefer seats near the heaters.",
               "Plan for the 4 PM winter sunset."
+            ],
+            "cs": [
+              "Jízdní řády se mohou při silném napadaném sněhu mírně lišit.",
+              "Autobusy jsou v zimě obvykle dobře vytopené.",
+              "Noste obuv s dobrým úchopem pro cesty k a od zastávek.",
+              "Upřednostněte sedadla poblíž topení.",
+              "Naplánujte si západ slunce v zimě kolem 16:00."
             ]
           }
         }

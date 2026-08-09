@@ -21,7 +21,8 @@
             "de": "Altstädter Ring & Astronomische Uhr",
             "hu": "Óváros tér és csillagászati óra",
             "ro": "Piața Orașului Vechi și Ceasul Astronomic",
-            "en": "Old Town Square & Astronomical Clock"
+            "en": "Old Town Square & Astronomical Clock",
+            "cs": "Staroměstské náměstí a orloj"
           },
           "coords": [
             50.0872,
@@ -36,7 +37,8 @@
             "de": "Warten Sie auf die volle Stunde, um das Apostelspiel der Uhr zu sehen.",
             "hu": "Várd meg az egész órát, hogy lásd az apostolok felvonulását az órán.",
             "ro": "Așteptați ora exactă pentru a vedea spectacolul apostolilor de la ceas.",
-            "en": "Wait for the top of the hour to see the clock's apostle show."
+            "en": "Wait for the top of the hour to see the clock's apostle show.",
+            "cs": "Počkejte na celou hodinu, abyste viděli apoštolskou podívanou orloje."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Jüdisches Viertel (Josefov)",
             "hu": "Zsidó negyed (Josefov)",
             "ro": "Cartierul Evreiesc (Josefov)",
-            "en": "Jewish Quarter (Josefov)"
+            "en": "Jewish Quarter (Josefov)",
+            "cs": "Židovské město (Josefov)"
           },
           "coords": [
             50.0901,
@@ -59,7 +62,8 @@
             "de": "Der Alte Jüdische Friedhof ist ein Muss, aber das Ticket ist kombiniert.",
             "hu": "A Régi zsidó temető kötelező, de a jegy kombinált.",
             "ro": "Vechiul Cimitir Evreiesc este o vizită obligatorie, dar biletul este combinat.",
-            "en": "The Old Jewish Cemetery is a must-see, but the ticket is combined."
+            "en": "The Old Jewish Cemetery is a must-see, but the ticket is combined.",
+            "cs": "Starý židovský hřbitov je nutností, ale vstupenka je kombinovaná."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Karlsbrücke",
             "hu": "Károly-híd",
             "ro": "Podul Carol",
-            "en": "Charles Bridge"
+            "en": "Charles Bridge",
+            "cs": "Karlův most"
           },
           "coords": [
             50.0865,
@@ -82,7 +87,8 @@
             "de": "Berühren Sie das Relief des Hl. Johannes von Nepomuk für Glück.",
             "hu": "Érintsd meg Nepomuki Szent János domborművét a szerencséért.",
             "ro": "Atingeți relieful Sfântului Ioan Nepomuk pentru noroc.",
-            "en": "Touch the relief of St. John of Nepomuk for good luck."
+            "en": "Touch the relief of St. John of Nepomuk for good luck.",
+            "cs": "Dotkněte se reliéfu sv. Jana Nepomuckého pro štěstí."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Lennon-Mauer",
             "hu": "Lennon-fal",
             "ro": "Zidul Lennon",
-            "en": "Lennon Wall"
+            "en": "Lennon Wall",
+            "cs": "Lennonova zeď"
           },
           "coords": [
             50.0862,
@@ -105,7 +112,8 @@
             "de": "Bringen Sie einen Stift mit, um Ihre eigene Nachricht zu hinterlassen.",
             "hu": "Hozz magaddal egy filctollat, hogy te is otthagyd az üzeneted.",
             "ro": "Aduceți un marker pentru a lăsa propriul mesaj pe perete.",
-            "en": "Bring a marker to leave your own message on the wall."
+            "en": "Bring a marker to leave your own message on the wall.",
+            "cs": "Přineste fixu a zanechte na zdi vlastní vzkaz."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Mittagessen in Malá Strana",
             "hu": "Ebéd a Malá Stranában",
             "ro": "Prânz în Malá Strana",
-            "en": "Lunch in Malá Strana"
+            "en": "Lunch in Malá Strana",
+            "cs": "Oběd v Malé Straně"
           },
           "coords": [
             50.088,
@@ -128,7 +137,8 @@
             "de": "Probieren Sie ein traditionelles Gulasch in einem der Kellerrestaurants.",
             "hu": "Kóstolj meg egy hagyományos gulyást az egyik pincerétteremben.",
             "ro": "Încercați un gulaș tradițional într-unul din restaurantele de la subsol.",
-            "en": "Try a traditional goulash in one of the cellar restaurants."
+            "en": "Try a traditional goulash in one of the cellar restaurants.",
+            "cs": "Vyzkoušejte tradiční guláš v jedné ze sklepních restaurací."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "St.-Nikolaus-Kirche (Kleinseite)",
             "hu": "Szent Miklós-templom (Kisoldal)",
             "ro": "Biserica Sfântul Nicolae (Malá Strana)",
-            "en": "St. Nicholas Church (Lesser Town)"
+            "en": "St. Nicholas Church (Lesser Town)",
+            "cs": "Chrám sv. Mikuláše (Malá Strana)"
           },
           "coords": [
             50.088,
@@ -151,7 +162,8 @@
             "de": "Bewundern Sie das barocke Interieur und die riesige Kuppelfreske.",
             "hu": "Csodáld meg a barokk belső teret és a hatalmas kupolafreskót.",
             "ro": "Admirați interiorul baroc și fresca uriașă de pe cupolă.",
-            "en": "Admire the baroque interior and the giant dome fresco."
+            "en": "Admire the baroque interior and the giant dome fresco.",
+            "cs": "Obdivujte barokní interiér a obrovskou fresku na kopuli."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Prager Burg Komplex",
             "hu": "Prágai várnegyed",
             "ro": "Complexul Castelului Praga",
-            "en": "Prague Castle Complex"
+            "en": "Prague Castle Complex",
+            "cs": "Pražský hrad"
           },
           "coords": [
             50.091,
@@ -174,7 +187,8 @@
             "de": "Der Aufstieg ist steil. Nehmen Sie die Alte Schlossstiege für die beste Aussicht.",
             "hu": "Az út meredek. A Régi várlépcsőt válaszd a legjobb kilátásért.",
             "ro": "Urcușul este abrupt. Folosiți Scările Vechi ale Castelului pentru cea mai bună priveliște.",
-            "en": "The climb is steep. Take the Old Castle Stairs for the best views."
+            "en": "The climb is steep. Take the Old Castle Stairs for the best views.",
+            "cs": "Výstup je strmý. Pro nejlepší výhled vezměte Staré hradní schody."
           }
         },
         {
@@ -182,7 +196,8 @@
             "de": "Goldenes Gässchen",
             "hu": "Arany utcácska",
             "ro": "Ulița de Aur",
-            "en": "Golden Lane"
+            "en": "Golden Lane",
+            "cs": "Zlatá ulička"
           },
           "coords": [
             50.0918,
@@ -197,7 +212,8 @@
             "de": "Besuchen Sie das Haus Nr. 22, in dem Franz Kafka einst arbeitete.",
             "hu": "Látogass el a 22-es számú házba, ahol egykor Franz Kafka dolgozott.",
             "ro": "Vizitați casa nr. 22, unde a lucrat cândva Franz Kafka.",
-            "en": "Visit house number 22, where Franz Kafka once worked."
+            "en": "Visit house number 22, where Franz Kafka once worked.",
+            "cs": "Navštivte dům číslo 22, kde kdysi pracoval Franz Kafka."
           }
         }
       ],
@@ -205,7 +221,8 @@
         "de": "Ihr Tag beginnt am Puls der Stadt, dem Altstädter Ring. Nach der Erkundung des reichen jüdischen Erbes in Josefov überqueren Sie die ikonische Karlsbrücke und tauchen in die künstlerische Atmosphäre der Lennon-Mauer ein. Am Nachmittag steigen Sie zum majestätischen Burgkomplex auf, erkunden den Veitsdom und schlendern durch das Goldene Gässchen, wo die Geschichte in den kleinen Häusern lebendig wird. Der Abend klingt mit einem Panoramablick auf die Stadt aus.",
         "hu": "A napod a város pulzusánál, az Óváros téren kezdődik. Miután felfedezted Josefov gazdag zsidó örökségét, átsétálsz az ikonikus Károly-hídon, és elmerülsz a Lennon-fal művészi hangulatában. Délután felkapaszkodsz a fenséges Várnegyedbe, felfedezed a Szent Vitus-székesegyházat, és végigsétálsz az Arany utcácskán, ahol a történelem megelevenedik a kis házakban. Az estét a városra nyíló panorámával zárod.",
         "ro": "Ziua începe în inima orașului, Piața Orașului Vechi. După ce explorați bogata moștenire evreiască din Josefov, traversați emblematicul Pod Carol și vă cufundați în atmosfera artistică de la Zidul Lennon. După-amiaza este dedicată urcării la complexul maiestuos al castelului, explorând Catedrala Sf. Vitus și plimbându-vă pe Ulița de Aur, unde istoria prinde viață în casele minuscule. Seara se încheie cu o vedere panoramică asupra orașului.",
-        "en": "Your day starts at the city's pulse, the Old Town Square. After exploring the rich Jewish heritage in Josefov, you'll cross the iconic Charles Bridge and dive into the artistic vibe of the Lennon Wall. The afternoon is for ascending to the majestic castle complex, exploring St. Vitus Cathedral, and wandering Golden Lane, where history feels alive in the tiny houses. The evening wraps up with a panoramic city view."
+        "en": "Your day starts at the city's pulse, the Old Town Square. After exploring the rich Jewish heritage in Josefov, you'll cross the iconic Charles Bridge and dive into the artistic vibe of the Lennon Wall. The afternoon is for ascending to the majestic castle complex, exploring St. Vitus Cathedral, and wandering Golden Lane, where history feels alive in the tiny houses. The evening wraps up with a panoramic city view.",
+        "cs": "Váš den začíná na tepně města, na Staroměstském náměstí. Po prozkoumání bohatého židovského dědictví v Josefově přejdete přes ikonický Karlův most a ponoříte se do umělecké atmosféry Lennonovy zdi. Odpoledne vystoupáte ke majestátnímu hradnímu komplexu, prozkoumáte katedrálu sv. Víta a projdete Zlatou uličku, kde dějiny ožívají v drobných domkách. Večer zakončíte panoramatickým výhledem na město."
       },
       "gastro_picks": {
         "de": [
@@ -401,6 +418,12 @@
           "A reusable water bottle comes in handy.",
           "Watch out for pickpockets in crowded places like the Charles Bridge.",
           "Learn a few basic Czech phrases like 'Dobrý den' (Good day) and 'Děkuji' (Thank you)."
+        ],
+        "cs": [
+          "Noste pohodlnou obuv; dlažební kostky jsou neodpouštějící.",
+          "Opakovaně použitelná láhev na vodu se hodí.",
+          "Dejte si pozor na kapsáře na frekventovaných místech, jako je Karlův most.",
+          "Naučte se pár základních českých frází, například 'Dobrý den' a 'Děkuji'."
         ]
       }
     },
@@ -417,7 +440,8 @@
             "de": "Fahrrad abholen und am Wenzelsplatz starten",
             "hu": "Biciklikölcsönzés és indulás a Vencel térről",
             "ro": "Închiriere biciclete și start din Piața Wenceslas",
-            "en": "Bike pickup and start at Wenceslas Square"
+            "en": "Bike pickup and start at Wenceslas Square",
+            "cs": "Vyzdvihnutí kol a start na Václavském náměstí"
           },
           "coords": [
             50.0815,
@@ -432,7 +456,8 @@
             "de": "Überprüfen Sie die Bremsen und Reifen, bevor Sie losfahren.",
             "hu": "Indulás előtt ellenőrizd a fékeket és a gumikat.",
             "ro": "Verificați frânele și anvelopele înainte de a porni.",
-            "en": "Check the brakes and tires before you set off."
+            "en": "Check the brakes and tires before you set off.",
+            "cs": "Před odjezdem zkontrolujte brzdy a pneumatiky."
           }
         },
         {
@@ -440,7 +465,8 @@
             "de": "Nationalmuseum (Außenansicht)",
             "hu": "Nemzeti Múzeum (kívülről)",
             "ro": "Muzeul Național (exterior)",
-            "en": "National Museum (exterior view)"
+            "en": "National Museum (exterior view)",
+            "cs": "Národní muzeum (exteriér)"
           },
           "coords": [
             50.0792,
@@ -455,7 +481,8 @@
             "de": "Das Gebäude ist genauso beeindruckend wie die Ausstellungen im Inneren.",
             "hu": "Az épület legalább annyira lenyűgöző, mint a benne lévő kiállítások.",
             "ro": "Clădirea este la fel de impresionantă ca și expozițiile din interior.",
-            "en": "The building is just as impressive as the exhibitions inside."
+            "en": "The building is just as impressive as the exhibitions inside.",
+            "cs": "Budova je stejně impozantní jako expozice uvnitř."
           }
         },
         {
@@ -463,7 +490,8 @@
             "de": "Fahrt entlang der Moldau zum Tanzenden Haus",
             "hu": "Tekerés a Moldva mentén a Táncoló Házig",
             "ro": "Plimbare pe malul Vltavei până la Casa Dansatoare",
-            "en": "Ride along the Vltava to the Dancing House"
+            "en": "Ride along the Vltava to the Dancing House",
+            "cs": "Projíždějte podél Vltavy až k Tančícímu domu"
           },
           "coords": [
             50.0754,
@@ -478,7 +506,8 @@
             "de": "Machen Sie Fotos von der gegenüberliegenden Seite des Flusses.",
             "hu": "A folyó túlsó partjáról készíts képeket.",
             "ro": "Faceți fotografii de pe malul opus al râului.",
-            "en": "Take photos from the opposite side of the river."
+            "en": "Take photos from the opposite side of the river.",
+            "cs": "Fotografujte z protějšího břehu řeky."
           }
         },
         {
@@ -486,7 +515,8 @@
             "de": "Kampa-Insel",
             "hu": "Kampa-sziget",
             "ro": "Insula Kampa",
-            "en": "Kampa Island"
+            "en": "Kampa Island",
+            "cs": "Ostrov Kampa"
           },
           "coords": [
             50.0847,
@@ -501,7 +531,8 @@
             "de": "Halten Sie Ausschau nach den krabbelnden Baby-Statuen von David Černý.",
             "hu": "Keresd David Černý mászó baba szobrait.",
             "ro": "Fiți atenți la statuile bebelușilor târâtori de David Černý.",
-            "en": "Look for the crawling baby statues by David Černý."
+            "en": "Look for the crawling baby statues by David Černý.",
+            "cs": "Hledejte plazící se sošky miminek od Davida Černého."
           }
         },
         {
@@ -509,7 +540,8 @@
             "de": "Mittagessen mit Blick auf die Karlsbrücke",
             "hu": "Ebéd a Károly-hídra néző kilátással",
             "ro": "Prânz cu vedere la Podul Carol",
-            "en": "Lunch with a view of Charles Bridge"
+            "en": "Lunch with a view of Charles Bridge",
+            "cs": "Oběd s výhledem na Karlův most"
           },
           "coords": [
             50.086,
@@ -524,7 +556,8 @@
             "de": "Viele Restaurants hier haben Terrassen direkt am Wasser.",
             "hu": "Sok itteni étteremnek van közvetlen vízparti terasza.",
             "ro": "Multe restaurante de aici au terase chiar pe malul apei.",
-            "en": "Many restaurants here have terraces right on the water."
+            "en": "Many restaurants here have terraces right on the water.",
+            "cs": "Mnoho restaurací má terasy přímo na vodě."
           }
         },
         {
@@ -532,7 +565,8 @@
             "de": "Fahrt zum Letná-Park",
             "hu": "Tekerés a Letná parkba",
             "ro": "Plimbare cu bicicleta spre Parcul Letná",
-            "en": "Ride to Letná Park"
+            "en": "Ride to Letná Park",
+            "cs": "Jízda do Letenských sadů"
           },
           "coords": [
             50.096,
@@ -547,7 +581,8 @@
             "de": "Besuchen Sie den Biergarten für ein kühles Getränk mit der besten Aussicht auf die Stadt.",
             "hu": "Látogass el a sörkertbe egy hideg italra a város legjobb kilátásával.",
             "ro": "Vizitați grădina de bere pentru o băutură rece cu cea mai bună priveliște a orașului.",
-            "en": "Visit the beer garden for a cold drink with the best city view."
+            "en": "Visit the beer garden for a cold drink with the best city view.",
+            "cs": "Zastavte se v pivním zahradě na studené pití s nejlepší městskou vyhlídkou."
           }
         },
         {
@@ -555,7 +590,8 @@
             "de": "Rückgabe der Fahrräder und Abend in der Altstadt",
             "hu": "Biciklik leadása és este az Óvárosban",
             "ro": "Returnarea bicicletelor și seară în Orașul Vechi",
-            "en": "Bike return and evening in the Old Town"
+            "en": "Bike return and evening in the Old Town",
+            "cs": "Vrácení kol a večer v Starém Městě"
           },
           "coords": [
             50.0875,
@@ -570,7 +606,8 @@
             "de": "Schlendern Sie durch die Gassen und finden Sie ein gemütliches Restaurant für das Abendessen.",
             "hu": "Sétálj a sikátorokban, és keress egy hangulatos éttermet vacsorára.",
             "ro": "Plimbați-vă pe străduțe și găsiți un restaurant primitor pentru cină.",
-            "en": "Wander the alleyways and find a cozy restaurant for dinner."
+            "en": "Wander the alleyways and find a cozy restaurant for dinner.",
+            "cs": "Procházejte uličky a najděte útulnou restauraci na večeři."
           }
         }
       ],
@@ -578,7 +615,8 @@
         "de": "Diese Radtour führt Sie entlang der Moldau. Vom belebten Wenzelsplatz radeln Sie am Nationalmuseum vorbei zum architektonischen Wunder des Tanzenden Hauses. Nach einer Pause auf der friedlichen Kampa-Insel genießen Sie das Mittagessen mit Blick auf die Karlsbrücke. Der Nachmittag ist für den Letná-Park reserviert, wo Sie im Biergarten entspannen und die berühmte Aussicht auf die Prager Brücken genießen können, bevor Sie in die Altstadt zurückkehren.",
         "hu": "Ez a biciklitúra a Moldva mentén vezet. A nyüzsgő Vencel térről a Nemzeti Múzeum mellett eltekerve jutsz el a Táncoló Ház építészeti csodájához. A békés Kampa-szigeten tartott pihenő után a Károly-hídra néző kilátással ebédelhetsz. A délutánt a Letná parkban töltöd, ahol a sörkertben pihenhetsz, és élvezheted a prágai hidakra nyíló híres kilátást, mielőtt visszatérnél az Óvárosba.",
         "ro": "Acest tur cu bicicleta vă poartă de-a lungul râului Vltava. Din aglomerata Piață Wenceslas, pedalați pe lângă Muzeul Național până la minunea arhitecturală a Casei Dansatoare. După o pauză pe liniștita Insulă Kampa, vă bucurați de prânz cu vedere la Podul Carol. După-amiaza este rezervată Parcului Letná, relaxându-vă la grădina de bere și admirând faimoasa priveliște a podurilor din Praga înainte de a vă întoarce în Orașul Vechi.",
-        "en": "This bike tour takes you along the Vltava river. Starting from the bustling Wenceslas Square, you'll pedal past the National Museum to the architectural marvel of the Dancing House. After a break on the peaceful Kampa Island, you'll enjoy lunch with a view of Charles Bridge. The afternoon is for Letná Park, relaxing at its beer garden and soaking in the famous vista of Prague's bridges before returning to the Old Town."
+        "en": "This bike tour takes you along the Vltava river. Starting from the bustling Wenceslas Square, you'll pedal past the National Museum to the architectural marvel of the Dancing House. After a break on the peaceful Kampa Island, you'll enjoy lunch with a view of Charles Bridge. The afternoon is for Letná Park, relaxing at its beer garden and soaking in the famous vista of Prague's bridges before returning to the Old Town.",
+        "cs": "Tato cyklotrasa vede podél řeky Vltavy. Startujete na rušném Václavském náměstí, projetím kolem Národního muzea dojdete k architektonickému klenotu Tančícího domu. Po přestávce na klidném ostrově Kampa si užijete oběd s výhledem na Karlův most. Odpoledne patří Letné, odpočinku v pivním zahradě a vyhlídce na pražské mosty, než se vrátíte do Starého Města."
       },
       "gastro_picks": {
         "de": [
@@ -778,6 +816,12 @@
           "Use the bike paths along the river to avoid traffic.",
           "Always lock your bike securely, even for short stops.",
           "Tram tracks are a hazard for cyclists; cross them at a right angle."
+        ],
+        "cs": [
+          "Centrum Prahy je kopcovité; elektrokolo může být dobrou volbou.",
+          "Používejte cyklostezky podél řeky, abyste se vyhnuli provozu.",
+          "Vždy kolo bezpečně zamkněte, i při krátkých zastávkách.",
+          "Tramvajové koleje jsou pro cyklisty nebezpečí; křižujte je v pravém úhlu."
         ]
       }
     },
@@ -794,7 +838,8 @@
             "de": "Ankunft & Parken bei Vyšehrad",
             "hu": "Érkezés és parkolás Vyšehradnál",
             "ro": "Sosire și parcare la Vyšehrad",
-            "en": "Arrival & Parking at Vyšehrad"
+            "en": "Arrival & Parking at Vyšehrad",
+            "cs": "Příjezd a parkování u Vyšehradu"
           },
           "coords": [
             50.0645,
@@ -810,7 +855,8 @@
             "de": "Nutzen Sie den offiziellen Parkplatz. Es ist ein kurzer Spaziergang zum Burggelände.",
             "hu": "Használd a hivatalos parkolót. Onnan rövid séta a vár területe.",
             "ro": "Folosiți parcarea oficială. Este o plimbare scurtă până la terenul castelului.",
-            "en": "Use the official car park. It's a short walk to the castle grounds."
+            "en": "Use the official car park. It's a short walk to the castle grounds.",
+            "cs": "Použijte oficiální parkoviště. Je to krátká chůze k hradnímu areálu."
           }
         },
         {
@@ -818,7 +864,8 @@
             "de": "Vyšehrad Burg und Friedhof",
             "hu": "Vyšehrad vára és temetője",
             "ro": "Castelul și cimitirul Vyšehrad",
-            "en": "Vyšehrad Castle and Cemetery"
+            "en": "Vyšehrad Castle and Cemetery",
+            "cs": "Vyšehradský hrad a hřbitov"
           },
           "coords": [
             50.064,
@@ -834,7 +881,8 @@
             "de": "Genießen Sie die ruhige Atmosphäre und den Blick auf die Moldau.",
             "hu": "Élvezd a csendes légkört és a Moldvára nyíló kilátást.",
             "ro": "Bucurați-vă de atmosfera liniștită și de vederea asupra râului Vltava.",
-            "en": "Enjoy the peaceful atmosphere and the views over the Vltava river."
+            "en": "Enjoy the peaceful atmosphere and the views over the Vltava river.",
+            "cs": "Užijte si poklidnou atmosféru a výhledy na řeku Vltavu."
           }
         },
         {
@@ -842,7 +890,8 @@
             "de": "Basilika St. Peter und Paul",
             "hu": "Szent Péter és Pál-bazilika",
             "ro": "Bazilica Sf. Petru și Pavel",
-            "en": "Basilica of St. Peter and St. Paul"
+            "en": "Basilica of St. Peter and St. Paul",
+            "cs": "Bazilika sv. Petra a Pavla"
           },
           "coords": [
             50.0638,
@@ -858,7 +907,8 @@
             "de": "Das Innere im Jugendstil ist atemberaubend und unerwartet.",
             "hu": "A szecessziós belső tér lélegzetelállító és váratlan.",
             "ro": "Interiorul Art Nouveau este uimitor și neașteptat.",
-            "en": "The Art Nouveau interior is stunning and unexpected."
+            "en": "The Art Nouveau interior is stunning and unexpected.",
+            "cs": "Secesní interiér je ohromující a nečekaný."
           }
         },
         {
@@ -866,7 +916,8 @@
             "de": "Fahrt & Parken Malá Strana",
             "hu": "Autózás és parkolás a Malá Stranában",
             "ro": "Condus și parcare în Malá Strana",
-            "en": "Drive & Park in Malá Strana"
+            "en": "Drive & Park in Malá Strana",
+            "cs": "Jízda a parkování v Malé Straně"
           },
           "coords": [
             50.0885,
@@ -882,7 +933,8 @@
             "de": "Parken ist hier schwierig. Nutzen Sie eine Tiefgarage in der Nähe.",
             "hu": "A parkolás itt nehézkes. Használj egy közeli mélygarázst.",
             "ro": "Parcarea este dificilă aici. Utilizați o parcare subterană din apropiere.",
-            "en": "Parking is difficult here. Use an underground garage nearby."
+            "en": "Parking is difficult here. Use an underground garage nearby.",
+            "cs": "Parkování je zde obtížné. Využijte blízkou podzemní garáž."
           }
         },
         {
@@ -890,7 +942,8 @@
             "de": "Mittagessen und Erkundung der Kleinseite",
             "hu": "Ebéd és a Kisoldal felfedezése",
             "ro": "Prânz și explorare în Malá Strana",
-            "en": "Lunch and exploration in Lesser Town"
+            "en": "Lunch and exploration in Lesser Town",
+            "cs": "Oběd a prohlídka Malé Strany"
           },
           "coords": [
             50.088,
@@ -906,7 +959,8 @@
             "de": "Verlieren Sie sich in den charmanten, kopfsteingepflasterten Gassen.",
             "hu": "Vessz el a bájos, macskaköves sikátorokban.",
             "ro": "Pierdeți-vă pe străduțele fermecătoare, pavate cu piatră cubică.",
-            "en": "Get lost in the charming cobblestone alleyways."
+            "en": "Get lost in the charming cobblestone alleyways.",
+            "cs": "Ztraťte se v kouzelných uličkách s dlážděnými chodníky."
           }
         },
         {
@@ -914,7 +968,8 @@
             "de": "Prager Burg Komplex",
             "hu": "Prágai várnegyed",
             "ro": "Complexul Castelului Praga",
-            "en": "Prague Castle Complex"
+            "en": "Prague Castle Complex",
+            "cs": "Pražský hrad"
           },
           "coords": [
             50.091,
@@ -930,7 +985,8 @@
             "de": "Kaufen Sie Ihr Ticket online, um lange Warteschlangen zu vermeiden.",
             "hu": "Vedd meg a jegyed online, hogy elkerüld a hosszú sorokat.",
             "ro": "Cumpărați biletul online pentru a evita cozile lungi.",
-            "en": "Buy your ticket online to avoid the long queues."
+            "en": "Buy your ticket online to avoid the long queues.",
+            "cs": "Kupte si vstupenku online, abyste se vyhnuli dlouhým frontám."
           }
         },
         {
@@ -938,7 +994,8 @@
             "de": "Fahrt zum Letná Park & Panoramablick",
             "hu": "Autózás a Letná parkhoz és panoráma",
             "ro": "Condus spre Parcul Letná și vedere panoramică",
-            "en": "Drive to Letná Park & Panoramic View"
+            "en": "Drive to Letná Park & Panoramic View",
+            "cs": "Jízda na Letnou a panoramatická vyhlídka"
           },
           "coords": [
             50.096,
@@ -954,7 +1011,8 @@
             "de": "Der perfekte Ort für das klassische Foto der Prager Brücken.",
             "hu": "Tökéletes hely a klasszikus prágai hidakat ábrázoló fotóhoz.",
             "ro": "Locul perfect pentru fotografia clasică a podurilor din Praga.",
-            "en": "The perfect spot for that classic photo of Prague's bridges."
+            "en": "The perfect spot for that classic photo of Prague's bridges.",
+            "cs": "Perfektní místo pro klasickou fotografii pražských mostů."
           }
         },
         {
@@ -962,7 +1020,8 @@
             "de": "Abendessen in der Nähe des Parks",
             "hu": "Vacsora a park közelében",
             "ro": "Cină lângă parc",
-            "en": "Dinner near the park"
+            "en": "Dinner near the park",
+            "cs": "Večeře v okolí parku"
           },
           "coords": [
             50.0975,
@@ -978,7 +1037,8 @@
             "de": "Die Gegend um Letná hat viele tolle Restaurants, die weniger touristisch sind.",
             "hu": "A Letná környékén sok remek, kevésbé turista étterem található.",
             "ro": "Zona din jurul Letná are multe restaurante excelente, mai puțin turistice.",
-            "en": "The area around Letná has many great restaurants that are less touristy."
+            "en": "The area around Letná has many great restaurants that are less touristy.",
+            "cs": "Okolí Letné má mnoho skvělých restaurací, které nejsou tak turistické."
           }
         }
       ],
@@ -986,7 +1046,8 @@
         "de": "Beginnen Sie Ihren Tag auf dem historischen Hügel von Vyšehrad, dem mythischen Geburtsort Prags. Nach einem ruhigen Vormittag fahren Sie in das belebte Viertel Malá Strana, parken Ihr Auto und erkunden zu Fuß das Labyrinth der Gassen und den majestätischen Prager Burgkomplex. Am späten Nachmittag bringt Sie eine kurze Fahrt zum Letná-Park, wo Sie mit einem atemberaubenden Panoramablick auf die Stadt belohnt werden, der den perfekten Abschluss für Ihren Erkundungstag bildet.",
         "hu": "Kezdje a napot a történelmi Vyšehrad-dombon, Prága mitikus szülőhelyén. Egy csendes délelőtt után autózzon a nyüzsgő Malá Strana negyedbe, parkolja le az autót, és fedezze fel gyalog a sikátorok labirintusát és a fenséges Prágai Várnegyedet. Késő délután egy rövid autóút visz a Letná parkba, ahol lenyűgöző panorámás kilátás nyílik a városra, tökéletes lezárásaként a felfedező napnak.",
         "ro": "Începeți ziua pe dealul istoric Vyšehrad, locul de naștere mitic al Pragăi. După o dimineață liniștită, conduceți spre cartierul plin de viață Malá Strana, parcați mașina și explorați pe jos labirintul de străduțe și complexul maiestuos al Castelului Praga. Spre sfârșitul după-amiezii, o scurtă călătorie cu mașina vă duce în Parcul Letná pentru o recompensă panoramică uluitoare asupra orașului, încheind perfect ziua de explorare.",
-        "en": "Start your day atop the historic Vyšehrad hill, the mythical birthplace of Prague. After a tranquil morning, drive to the bustling Malá Strana district, park the car, and explore the labyrinth of alleys and the majestic Prague Castle complex on foot. In the late afternoon, a short drive takes you to Letná Park for a breathtaking panoramic reward over the city, perfectly capping your day of exploration."
+        "en": "Start your day atop the historic Vyšehrad hill, the mythical birthplace of Prague. After a tranquil morning, drive to the bustling Malá Strana district, park the car, and explore the labyrinth of alleys and the majestic Prague Castle complex on foot. In the late afternoon, a short drive takes you to Letná Park for a breathtaking panoramic reward over the city, perfectly capping your day of exploration.",
+        "cs": "Den začněte na historickém vrchu Vyšehrad, mytickém místě zrození Prahy. Po pokojném ránu se vydejte do rušné Malé Strany, zaparkujte a prozkoumejte bludiště uliček a majestátní hradní komplex pěšky. Pozdě odpoledne vás krátká jízda zavede na Letnou, odkud se vám naskytne dechberoucí panoramatický pohled na město a dokonale uzavře váš den objevů."
       },
       "gastro_picks": {
         "de": [
@@ -1182,6 +1243,12 @@
           "Be aware of the blue zones, which are for residents only.",
           "Traffic can be heavy, so plan extra time for drives.",
           "GPS navigation is essential for navigating the one-way streets."
+        ],
+        "cs": [
+          "Parkování v centru je drahé a omezené. Využijte P+R (Park & Ride) zařízení.",
+          "Mějte na paměti modré zóny, které jsou jen pro rezidenty.",
+          "Provoz může být hustý, proto plánujte na jízdy více času.",
+          "Pro navigaci jednosměrkami je nezbytná GPS navigace."
         ]
       }
     },
@@ -1198,7 +1265,8 @@
             "de": "Fahrt zum Nationalmuseum (Metro A/C)",
             "hu": "Utazás a Nemzeti Múzeumhoz (A/C metró)",
             "ro": "Călătorie la Muzeul Național (Metrou A/C)",
-            "en": "Trip to the National Museum (Metro A/C)"
+            "en": "Trip to the National Museum (Metro A/C)",
+            "cs": "Výlet k Národnímu muzeu (Metro A/C)"
           },
           "coords": [
             50.0792,
@@ -1214,7 +1282,8 @@
             "de": "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
             "hu": "Vegyél egy napijegyet a korlátlan utazáshoz.",
             "ro": "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
-            "en": "Buy a one-day pass for unlimited travel."
+            "en": "Buy a one-day pass for unlimited travel.",
+            "cs": "Kupte si celodenní jízdenku pro neomezené cestování."
           }
         },
         {
@@ -1222,7 +1291,8 @@
             "de": "Wenzelsplatz",
             "hu": "Vencel tér",
             "ro": "Piața Wenceslas",
-            "en": "Wenceslas Square"
+            "en": "Wenceslas Square",
+            "cs": "Václavské náměstí"
           },
           "coords": [
             50.0815,
@@ -1238,7 +1308,8 @@
             "de": "Sehen Sie die Statue des Heiligen Wenzel vor dem Museum.",
             "hu": "Nézd meg Szent Vencel szobrát a múzeum előtt.",
             "ro": "Vedeți statuia Sfântului Wenceslas în fața muzeului.",
-            "en": "See the statue of Saint Wenceslas in front of the museum."
+            "en": "See the statue of Saint Wenceslas in front of the museum.",
+            "cs": "Uvidíte sochu sv. Václava před muzeem."
           }
         },
         {
@@ -1246,7 +1317,8 @@
             "de": "Fahrt zum Altstädter Ring (Metro A)",
             "hu": "Utazás az Óváros térre (A metró)",
             "ro": "Călătorie în Piața Orașului Vechi (Metrou A)",
-            "en": "Trip to Old Town Square (Metro A)"
+            "en": "Trip to Old Town Square (Metro A)",
+            "cs": "Výlet na Staroměstské náměstí (Metro A)"
           },
           "coords": [
             50.0875,
@@ -1262,7 +1334,8 @@
             "de": "Steigen Sie an der Staroměstská aus und gehen Sie ein kurzes Stück zu Fuß.",
             "hu": "Szállj le a Staroměstská megállónál, onnan rövid séta.",
             "ro": "Coborâți la Staroměstská și faceți o scurtă plimbare.",
-            "en": "Get off at Staroměstská and take a short walk."
+            "en": "Get off at Staroměstská and take a short walk.",
+            "cs": "Vystupte na Staroměstské a jděte krátkou procházkou."
           }
         },
         {
@@ -1270,7 +1343,8 @@
             "de": "Mittagessen in der Altstadt",
             "hu": "Ebéd az Óvárosban",
             "ro": "Prânz în Orașul Vechi",
-            "en": "Lunch in the Old Town"
+            "en": "Lunch in the Old Town",
+            "cs": "Oběd ve Starém Městě"
           },
           "coords": [
             50.0888,
@@ -1286,7 +1360,8 @@
             "de": "Vermeiden Sie die Restaurants direkt am Platz für bessere Preise.",
             "hu": "A jobb árakért kerüld a közvetlenül a téren lévő éttermeket.",
             "ro": "Evitați restaurantele direct din piață pentru prețuri mai bune.",
-            "en": "Avoid the restaurants right on the square for better value."
+            "en": "Avoid the restaurants right on the square for better value.",
+            "cs": "Vyhněte se restauracím přímo na náměstí pro lepší poměr cena/výkon."
           }
         },
         {
@@ -1294,7 +1369,8 @@
             "de": "Fahrt zur Prager Burg (Tram 22)",
             "hu": "Utazás a Prágai Várba (22-es villamos)",
             "ro": "Călătorie la Castelul Praga (Tramvaiul 22)",
-            "en": "Trip to Prague Castle (Tram 22)"
+            "en": "Trip to Prague Castle (Tram 22)",
+            "cs": "Výlet na Pražský hrad (Tramvaj 22)"
           },
           "coords": [
             50.091,
@@ -1310,7 +1386,8 @@
             "de": "Diese malerische Straßenbahnlinie führt Sie direkt zum Burggelände.",
             "hu": "Ez a festői villamosvonal egyenesen a vár területére visz.",
             "ro": "Această linie pitorească de tramvai vă duce direct la terenul castelului.",
-            "en": "This scenic tram line takes you right up to the castle grounds."
+            "en": "This scenic tram line takes you right up to the castle grounds.",
+            "cs": "Tato malebná tramvajová linka vás vyveze až k hradnímu areálu."
           }
         },
         {
@@ -1318,7 +1395,8 @@
             "de": "St.-Veits-Dom",
             "hu": "Szent Vitus-székesegyház",
             "ro": "Catedrala Sf. Vitus",
-            "en": "St. Vitus Cathedral"
+            "en": "St. Vitus Cathedral",
+            "cs": "Katedrála sv. Víta"
           },
           "coords": [
             50.0909,
@@ -1334,7 +1412,8 @@
             "de": "Beachten Sie die wunderschönen Buntglasfenster von Alfons Mucha.",
             "hu": "Figyeld meg Alfons Mucha gyönyörű ólomüveg ablakait.",
             "ro": "Observați vitraliile frumoase realizate de Alfons Mucha.",
-            "en": "Note the beautiful stained-glass windows by Alfons Mucha."
+            "en": "Note the beautiful stained-glass windows by Alfons Mucha.",
+            "cs": "Všimněte si krásných vitráží od Alfonsa Muchy."
           }
         },
         {
@@ -1342,7 +1421,8 @@
             "de": "Spaziergang durch die Kleinseite (Malá Strana)",
             "hu": "Séta a Kisoldalon (Malá Strana)",
             "ro": "Plimbare prin Malá Strana",
-            "en": "Walk down through Lesser Town (Malá Strana)"
+            "en": "Walk down through Lesser Town (Malá Strana)",
+            "cs": "Projděte se dolů Malou Stranou"
           },
           "coords": [
             50.088,
@@ -1358,7 +1438,8 @@
             "de": "Folgen Sie der Nerudova-Straße hinunter, die für ihre historischen Hauszeichen bekannt ist.",
             "hu": "Sétálj le a Nerudova utcán, amely a történelmi házjegyeiről ismert.",
             "ro": "Urmați strada Nerudova în jos, renumită pentru semnele sale istorice de casă.",
-            "en": "Follow Nerudova street downhill, famous for its historic house signs."
+            "en": "Follow Nerudova street downhill, famous for its historic house signs.",
+            "cs": "Následujte Nerudovu ulici směrem dolů, známou historickými štítky domů."
           }
         },
         {
@@ -1366,7 +1447,8 @@
             "de": "Karlsbrücke bei Sonnenuntergang",
             "hu": "Károly-híd naplementekor",
             "ro": "Podul Carol la apus",
-            "en": "Charles Bridge at Sunset"
+            "en": "Charles Bridge at Sunset",
+            "cs": "Karlův most za soumraku"
           },
           "coords": [
             50.0865,
@@ -1382,7 +1464,8 @@
             "de": "Der Blick auf die beleuchtete Burg ist magisch.",
             "hu": "A kivilágított vár látványa varázslatos.",
             "ro": "Priveliștea castelului iluminat este magică.",
-            "en": "The view of the illuminated castle is magical."
+            "en": "The view of the illuminated castle is magical.",
+            "cs": "Výhled na osvětlený hrad je magický."
           }
         }
       ],
@@ -1390,7 +1473,8 @@
         "de": "Mit einer Tageskarte erkunden Sie Prag mühelos. Beginnen Sie im prächtigen Nationalmuseum am oberen Ende des Wenzelsplatzes. Eine kurze U-Bahn-Fahrt bringt Sie zum Herzen der Stadt, dem Altstädter Ring. Nach dem Mittagessen bringt Sie die malerische Tram 22 hinauf zur Prager Burg. Erkunden Sie den Dom, bevor Sie durch die charmante Kleinseite hinunter zur Karlsbrücke schlendern, um einen unvergesslichen Sonnenuntergang zu erleben.",
         "hu": "Egy napijeggyel könnyedén felfedezheted Prágát. Kezdj a Vencel tér tetején álló csodálatos Nemzeti Múzeumban. Egy rövid metróút a város szívébe, az Óváros térre visz. Ebéd után a festői 22-es villamos felvisz a Prágai Várba. Fedezd fel a székesegyházat, mielőtt lesétálsz a bájos Kisoldalon keresztül a Károly-hídhoz egy felejthetetlen naplementéért.",
         "ro": "Cu un bilet de o zi, explorați Praga fără efort. Începeți la magnificul Muzeu Național din capătul Pieței Wenceslas. O scurtă călătorie cu metroul vă duce în inima orașului, Piața Orașului Vechi. După prânz, tramvaiul pitoresc 22 vă urcă la Castelul Praga. Explorați catedrala înainte de a coborî prin fermecătorul cartier Malá Strana spre Podul Carol pentru un apus de neuitat.",
-        "en": "Using a day pass, you'll explore Prague effortlessly. Start at the magnificent National Museum at the top of Wenceslas Square. A short metro ride takes you to the city's heart, the Old Town Square. After lunch, the scenic Tram 22 whisks you up to Prague Castle. Explore the cathedral before strolling down through the charming Lesser Town to Charles Bridge for an unforgettable sunset."
+        "en": "Using a day pass, you'll explore Prague effortlessly. Start at the magnificent National Museum at the top of Wenceslas Square. A short metro ride takes you to the city's heart, the Old Town Square. After lunch, the scenic Tram 22 whisks you up to Prague Castle. Explore the cathedral before strolling down through the charming Lesser Town to Charles Bridge for an unforgettable sunset.",
+        "cs": "S celodenní jízdenkou prozkoumáte Prahu bez námahy. Začněte ve velkolepém Národním muzeu na vrcholu Václavského náměstí. Krátká jízda metrem vás dovede do srdce města, na Staroměstské náměstí. Po obědě vás malebná tramvaj 22 vyveze na Pražský hrad. Prozkoumejte katedrálu a poté se projděte dolů kouzelnou Malou Stranou až ke Karlovu mostu pro nezapomenutelný západ slunce."
       },
       "gastro_picks": {
         "de": [
@@ -1586,6 +1670,12 @@
           "Metro and tram doors close quickly.",
           "Night trams run on different routes than the day lines.",
           "The 'PID Lítačka' app is useful for planning routes and buying tickets."
+        ],
+        "cs": [
+          "Před vstupem do stanice metra nebo nástupem do tramvaje/autobusu označte jízdenku v žlutých strojích.",
+          "Dveře metra a tramvají se zavírají rychle.",
+          "Noční tramvaje jezdí jinými trasami než denní linky.",
+          "Aplikace 'PID Lítačka' je užitečná pro plánování tras a nákup jízdenek."
         ]
       }
     }

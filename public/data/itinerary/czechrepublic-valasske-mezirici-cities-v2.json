@@ -21,7 +21,8 @@
             "de": "Stadtplatz",
             "hu": "Főtér",
             "ro": "Piața centrală",
-            "en": "Main Square"
+            "en": "Main Square",
+            "cs": "Hlavní náměstí"
           },
           "coords": [
             17.9716,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die historischen Bürgerhäuser, die den Platz säumen.",
             "hu": "Csodálja meg a teret szegélyező történelmi polgárházakat!",
             "ro": "Admirați casele istorice burgheze care înconjoară piața.",
-            "en": "Admire the historic townhouses that line the square."
+            "en": "Admire the historic townhouses that line the square.",
+            "cs": "Obdivujte historické měšťanské domy lemující náměstí."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kirche Mariä Himmelfahrt",
             "hu": "Nagyboldogasszony-templom",
             "ro": "Biserica Adormirea Maicii Domnului",
-            "en": "Church of the Assumption of the Virgin Mary"
+            "en": "Church of the Assumption of the Virgin Mary",
+            "cs": "Kostel Nanebevzetí Panny Marie"
           },
           "coords": [
             17.9708,
@@ -59,7 +62,8 @@
             "de": "Suchen Sie nach dem barocken Hauptaltar und den kunstvollen Deckenfresken.",
             "hu": "Keresse meg a barokk főoltárt és a díszes mennyezeti freskókat!",
             "ro": "Căutați altarul principal baroc și frescele elaborate de pe tavan.",
-            "en": "Look for the Baroque main altar and the ornate ceiling frescoes."
+            "en": "Look for the Baroque main altar and the ornate ceiling frescoes.",
+            "cs": "Hledejte barokní hlavní oltář a zdobené stropní fresky."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Schloss Žerotín",
             "hu": "Žerotín-kastély",
             "ro": "Castelul Žerotín",
-            "en": "Žerotín Chateau"
+            "en": "Žerotín Chateau",
+            "cs": "Žerotínský zámek"
           },
           "coords": [
             17.973,
@@ -82,7 +87,8 @@
             "de": "Heute ein Kulturzentrum. Prüfen Sie, ob gerade eine Veranstaltung stattfindet.",
             "hu": "Ma kulturális központ. Nézze meg, van-e éppen valamilyen rendezvény!",
             "ro": "Astăzi este un centru cultural. Verificați dacă are loc un eveniment.",
-            "en": "Now a cultural center. Check if there's an event happening."
+            "en": "Now a cultural center. Check if there's an event happening.",
+            "cs": "Nyní kulturní centrum. Zjistěte, zda se nekoná nějaká akce."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Museum der Walachei",
             "hu": "Valach Múzeum",
             "ro": "Muzeul Valahiei",
-            "en": "Museum of the Wallachian Region"
+            "en": "Museum of the Wallachian Region",
+            "cs": "Muzeum Valašska"
           },
           "coords": [
             17.9695,
@@ -105,7 +112,8 @@
             "de": "Fokus auf die Gobelin- und Glasherstellung, die für die Region berühmt ist.",
             "hu": "Koncentráljon a régióban híres gobelin- és üvegkészítésre!",
             "ro": "Concentrați-vă pe tapiserie și producția de sticlă, renumite în regiune.",
-            "en": "Focus on the tapestry and glass manufacturing famous in the region."
+            "en": "Focus on the tapestry and glass manufacturing famous in the region.",
+            "cs": "Zaměřte se na tapisérie a výrobu skla, proslulou v regionu."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Schloss Kinský",
             "hu": "Kinský-kastély",
             "ro": "Castelul Kinský",
-            "en": "Kinský Chateau"
+            "en": "Kinský Chateau",
+            "cs": "Kinského zámek"
           },
           "coords": [
             17.968,
@@ -128,7 +137,8 @@
             "de": "Beherbergt einen Teil des Museums und ist von einem schönen Park umgeben.",
             "hu": "A múzeum egy részének ad otthont, és egy szép park veszi körül.",
             "ro": "Găzduiește o parte a muzeului și este înconjurat de un parc frumos.",
-            "en": "Houses part of the museum and is surrounded by a beautiful park."
+            "en": "Houses part of the museum and is surrounded by a beautiful park.",
+            "cs": "Součást muzea a obklopený krásným parkem."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Dreifaltigkeitskirche",
             "hu": "Szentháromság-templom",
             "ro": "Biserica Sfânta Treime",
-            "en": "Church of the Holy Trinity"
+            "en": "Church of the Holy Trinity",
+            "cs": "Kostel Nejsvětější Trojice"
           },
           "coords": [
             17.976,
@@ -151,7 +162,8 @@
             "de": "Ein kleineres, aber stimmungsvolles Gotteshaus abseits der Hauptwege.",
             "hu": "Egy kisebb, de hangulatos templom a fő útvonalaktól távolabb.",
             "ro": "O biserică mai mică, dar plină de atmosferă, departe de căile principale.",
-            "en": "A smaller but atmospheric church away from the main paths."
+            "en": "A smaller but atmospheric church away from the main paths.",
+            "cs": "Menší, ale atmosférický kostel mimo hlavní trasy."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Sternwarte",
             "hu": "Csillagvizsgáló",
             "ro": "Observatorul astronomic",
-            "en": "Observatory"
+            "en": "Observatory",
+            "cs": "Hvězdárna"
           },
           "coords": [
             17.965,
@@ -174,7 +187,8 @@
             "de": "Prüfen Sie die Öffnungszeiten für öffentliche Beobachtungen am Abend.",
             "hu": "Ellenőrizze a nyilvános esti megfigyelések nyitvatartási idejét!",
             "ro": "Verificați programul pentru observații publice de seară.",
-            "en": "Check the opening hours for public evening viewings."
+            "en": "Check the opening hours for public evening viewings.",
+            "cs": "Zkontrolujte otevírací dobu pro veřejná večerní pozorování."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Beginnen Sie Ihren Tag auf dem lebhaften Stadtplatz, umgeben von farbenfrohen Fassaden. Am Vormittag erkunden Sie die spirituelle Ruhe der Himmelfahrtskirche und die kulturelle Bedeutung des Žerotín-Schlosses. Der Nachmittag ist der reichen Geschichte der Region im Walachischen Museum und im Kinský-Schloss gewidmet. Beenden Sie Ihre Tour mit einem stillen Moment in der Dreifaltigkeitskirche und einem Blick zu den Sternen in der örtlichen Sternwarte.",
         "hu": "Indítsa a napot a nyüzsgő Főtéren, színes homlokzatokkal körülvéve. Délelőtt fedezze fel a Nagyboldogasszony-templom spirituális nyugalmát és a Žerotín-kastély kulturális központját. A délután a régió gazdag történelméről szól a Valach Múzeumban és a Kinský-kastélyban. Zárja a túrát egy csendes pillanattal a Szentháromság-templomban és egy pillantással a csillagokra a helyi csillagvizsgálóban.",
         "ro": "Începeți ziua în Piața centrală plină de viață, înconjurat de fațade colorate. În cursul dimineții, explorați liniștea spirituală a Bisericii Adormirea Maicii Domnului și centrul cultural din Castelul Žerotín. După-amiaza este dedicată istoriei bogate a regiunii la Muzeul Valahiei și Castelul Kinský. Încheiați turul cu un moment de liniște la Biserica Sfânta Treime și o privire spre stele la observatorul local.",
-        "en": "Start your day in the lively Main Square, surrounded by colorful facades. In the morning, explore the spiritual tranquility of the Church of the Assumption and the cultural hub at Žerotín Chateau. The afternoon is dedicated to the region's rich history at the Wallachian Museum and Kinský Chateau. End your tour with a quiet moment at the Holy Trinity Church and a gaze towards the stars at the local observatory."
+        "en": "Start your day in the lively Main Square, surrounded by colorful facades. In the morning, explore the spiritual tranquility of the Church of the Assumption and the cultural hub at Žerotín Chateau. The afternoon is dedicated to the region's rich history at the Wallachian Museum and Kinský Chateau. End your tour with a quiet moment at the Holy Trinity Church and a gaze towards the stars at the local observatory.",
+        "cs": "Začněte den na živém Hlavním náměstí obklopeném barevnými fasádami. Dopoledne objevujte duchovní klid Kostela Nanebevzetí a kulturní život v Žerotínském zámku. Odpoledne věnujte bohaté historii regionu v Muzeu Valašska a Kinského zámku. Ukončete prohlídku tichou chvilkou v Kostele Nejsvětější Trojice a pohledem na hvězdy v místní hvězdárně."
       },
       "gastro_picks": {
         "de": [
@@ -374,6 +389,11 @@
           "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
           "Most sights are close to each other, walking is the best way to explore the city.",
           "Take time to have a coffee in one of the cafes on the main square."
+        ],
+        "cs": [
+          "Noste pohodlnou obuv, dlažba ve starém městě může být nerovná.",
+          "Většina památek je blízko u sebe, nejlepší je je objevovat pěšky.",
+          "Vyhraďte si čas na kávu v jedné z kaváren na hlavním náměstí."
         ]
       },
       "variants": {
@@ -382,7 +402,8 @@
             "de": "Beginnen Sie Ihren Tag unter den schützenden Arkaden des Hauptplatzes. Der Vormittag gehört der Marienkirche, die trockene Zuflucht bietet. Mittags und nachmittags tauchen Sie in die Innenräume der Schlösser Žerotín und Kinský ein, wo Ausstellungen die Zeit vergessen lassen. Den Tag schließen Sie mit einem kurzen, regnerischen Spaziergang zur Sternwarte ab, deren Kuppel Sie vor den Elementen schützt.",
             "hu": "Kezdje a napot a főtér árkádjai alatt, védve az esőtől. A délelőttöt a Szűz Mária templom belső terében töltjük, majd délben és délután a Žerotín- és Kinský-kastélyok kiállításai nyújtanak tökéletes fedett programot. Az esős délutánt a regionális múzeum tárlatai teszik tartalmassá. A nap végén az obszervatórium kupolája alatt fedezhetjük fel az égbolt titkait.",
             "ro": "Începeți ziua sub arcadele pieței principale pentru a evita ploaia. Dimineața este dedicată interiorului liniștit al Bisericii Adormirea Maicii Domnului. La prânz și după-amiaza, castelele Žerotín și Kinský oferă adăpost ideal cu expozițiile lor muzeale. Încheiați ziua la observator, unde cupola vă protejează în timp ce priviți cerul în ciuda vremii de afară.",
-            "en": "Start your day under the historic arcades of the Main Square to stay dry. Spend the morning inside the Assumption Church, followed by an afternoon exploring the galleries of Žerotín and Kinský chateaus. These indoor havens provide a perfect escape from the rain while you dive into local history. End with a brisk walk to the observatory, where the dome protects you from the evening drizzle."
+            "en": "Start your day under the historic arcades of the Main Square to stay dry. Spend the morning inside the Assumption Church, followed by an afternoon exploring the galleries of Žerotín and Kinský chateaus. These indoor havens provide a perfect escape from the rain while you dive into local history. End with a brisk walk to the observatory, where the dome protects you from the evening drizzle.",
+            "cs": "Začněte den pod historickými arkádami Hlavního náměstí, abyste zůstali v suchu. Dopoledne strávte v kostele a odpoledne prozkoumejte galerie na Žerotínském a Kinského zámku. Tato vnitřní útočiště jsou perfektní únik před deštěm, zatímco se ponoříte do místní historie. Ukončete svižnou procházkou k hvězdárně, kde vás kopule ochrání před večerním mrholením."
           },
           "stops": [
             {
@@ -391,7 +412,8 @@
                 "de": "Nutzen Sie die Arkadengänge.",
                 "hu": "Használja a fedett árkádokat.",
                 "ro": "Folosiți arcadele acoperite.",
-                "en": "Use the covered arcades."
+                "en": "Use the covered arcades.",
+                "cs": "Využijte kryté arkády."
               }
             },
             {
@@ -400,7 +422,8 @@
                 "de": "Trockener Ort für Besinnung.",
                 "hu": "Száraz hely a belső elcsendesedéshez.",
                 "ro": "Loc uscat pentru reflecție.",
-                "en": "Dry place for quiet reflection."
+                "en": "Dry place for quiet reflection.",
+                "cs": "Suché místo pro klidnou rozjímavost."
               }
             },
             {
@@ -409,7 +432,8 @@
                 "de": "Perfekter Schutz in der Galerie.",
                 "hu": "Tökéletes menedék a galériában.",
                 "ro": "Adăpost perfect în galerie.",
-                "en": "Perfect shelter in the gallery."
+                "en": "Perfect shelter in the gallery.",
+                "cs": "Perfektní přístřeší v galerii."
               }
             },
             {
@@ -418,7 +442,8 @@
                 "de": "Ausgiebiger Museumsbesuch.",
                 "hu": "Hosszú beltéri múzeumlátogatás.",
                 "ro": "Vizită prelungită la muzeu.",
-                "en": "Extensive indoor museum visit."
+                "en": "Extensive indoor museum visit.",
+                "cs": "Rozsáhlá vnitřní návštěva muzea."
               }
             },
             {
@@ -427,7 +452,8 @@
                 "de": "Regionaler Glanz im Trockenen.",
                 "hu": "Regionális kincsek fedett helyen.",
                 "ro": "Comori regionale la adăpost.",
-                "en": "Regional treasures indoors."
+                "en": "Regional treasures indoors.",
+                "cs": "Regionální poklady pod střechou."
               }
             },
             {
@@ -436,7 +462,8 @@
                 "de": "Schauen Sie die Holzdecke an.",
                 "hu": "Csodálja meg a fakazettás mennyezetet.",
                 "ro": "Admirați tavanul de lemn.",
-                "en": "Admire the wooden ceiling."
+                "en": "Admire the wooden ceiling.",
+                "cs": "Obdivujte dřevěný strop."
               }
             },
             {
@@ -445,7 +472,8 @@
                 "de": "Vorträge bei Regen genießen.",
                 "hu": "Élvezze az előadásokat az esőben.",
                 "ro": "Bucurați-vă de prezentări pe ploaie.",
-                "en": "Enjoy lectures during the rain."
+                "en": "Enjoy lectures during the rain.",
+                "cs": "Užívejte si přednášky během deště."
               }
             }
           ],
@@ -473,6 +501,12 @@
               "Wear waterproof shoes for chateau parks.",
               "The regional museum keeps you busy for hours.",
               "Umbrellas can be stored at chateau entrances."
+            ],
+            "cs": [
+              "Arkády na hlavním náměstí nabízejí skvělý přístřešek.",
+              "Noste nepromokavou obuv pro parky u zámků.",
+              "Regionální muzeum vás zaměstná na hodiny.",
+              "Deštníky lze uložit u vchodů do zámku."
             ]
           }
         },
@@ -481,7 +515,8 @@
             "de": "Ein frostiger Morgen beginnt am verschneiten Hauptplatz, gefolgt von der wärmenden Stille der Marienkirche. Die Mittagsstunden verbringen Sie in den beheizten Sälen des Žerotín-Schlosses. Am Nachmittag bietet das Kinský-Schloss kulturelle Wärme, während draußen der Winterwind weht. Die frühe Dunkelheit ist ideal für den Besuch der Sternwarte, wo der Winterhimmel oft besonders klar erscheint.",
             "hu": "A fagyos reggel a havas főtéren indul, majd a Szűz Mária templom békés melegében folytatódik. A déli órákat a Žerotín-kastély fűtött termeiben töltjük. Délután a Kinský-kastély múzeuma nyújt menedéket a téli szél elől. A korai sötétedés miatt az obszervatórium már késő délután tökéletes program, hiszen a téli égbolt gyakran sokkal tisztább.",
             "ro": "O dimineață geroasă începe în piața înzăpezită, urmată de liniștea caldă a bisericii. Orele prânzului sunt petrecute în sălile încălzite ale Castelului Žerotín. După-amiaza, Castelul Kinský oferă căldură culturală în timp ce vântul bate afară. Întunericul timpuriu este ideal pentru vizitarea observatorului, unde cerul de iarnă este adesea foarte senin.",
-            "en": "A frosty morning starts at the snow-covered Main Square, followed by the warming silence of the Assumption Church. Spend midday in the heated halls of Žerotín Chateau. Afternoon brings cultural warmth inside Kinský Chateau as winter winds blow outside. The early sunset is perfect for the observatory visit, where the winter sky often appears exceptionally clear for stargazing."
+            "en": "A frosty morning starts at the snow-covered Main Square, followed by the warming silence of the Assumption Church. Spend midday in the heated halls of Žerotín Chateau. Afternoon brings cultural warmth inside Kinský Chateau as winter winds blow outside. The early sunset is perfect for the observatory visit, where the winter sky often appears exceptionally clear for stargazing.",
+            "cs": "Mrazivé ráno začíná na zasněženém Horním náměstí, následuje zahřívající ticho v Kostele Nanebevzetí. Poledne strávte v vytápěných sálech Žerotínova zámku. Odpoledne přinese kulturní teplo v Kinského zámku, zatímco venku foukají zimní větry. Brzký západ slunce kolem 16:15 je ideální pro návštěvu observatoře, kde se zimní obloha často jeví mimořádně jasná ke pozorování hvězd."
           },
           "stops": [
             {
@@ -490,7 +525,8 @@
                 "de": "Vorsicht bei Glätte auf Kopfstein.",
                 "hu": "Vigyázat, a macskakő csúszhat.",
                 "ro": "Atenție, pavajul poate fi alunecos.",
-                "en": "Careful, cobbles might be slippery."
+                "en": "Careful, cobbles might be slippery.",
+                "cs": "Pozor, dlažební kostky mohou být kluzké."
               }
             },
             {
@@ -499,7 +535,8 @@
                 "de": "Aufwärmen im Kirchenschiff.",
                 "hu": "Melegedjen meg a templomhajóban.",
                 "ro": "Încălziți-vă în nava bisericii.",
-                "en": "Warm up in the church nave."
+                "en": "Warm up in the church nave.",
+                "cs": "Ohřejte se v lodi kostela."
               }
             },
             {
@@ -508,7 +545,8 @@
                 "de": "Besuchen Sie das Café im Schloss.",
                 "hu": "Látogasson el a kastély kávézójába.",
                 "ro": "Vizitați cafeneaua din castel.",
-                "en": "Visit the cafe inside the chateau."
+                "en": "Visit the cafe inside the chateau.",
+                "cs": "Navštivte kavárnu uvnitř zámku."
               }
             },
             {
@@ -517,7 +555,8 @@
                 "de": "Warme Ausstellungsräume genießen.",
                 "hu": "Élvezze a fűtött kiállítótereket.",
                 "ro": "Bucurați-vă de expoziții calde.",
-                "en": "Enjoy the heated exhibition rooms."
+                "en": "Enjoy the heated exhibition rooms.",
+                "cs": "Užívejte si vytápěné výstavní prostory."
               }
             },
             {
@@ -526,7 +565,8 @@
                 "de": "Winterliche Parkansichten.",
                 "hu": "Téli kilátás a kastélyparkra.",
                 "ro": "Vedere de iarnă asupra parcului.",
-                "en": "Winter views of the park."
+                "en": "Winter views of the park.",
+                "cs": "Zimní výhledy na park."
               }
             },
             {
@@ -535,7 +575,8 @@
                 "de": "Kurzer Stopp wegen Kälte.",
                 "hu": "Rövid megálló a hideg miatt.",
                 "ro": "Oprire scurtă din cauza frigului.",
-                "en": "Short stop due to the cold."
+                "en": "Short stop due to the cold.",
+                "cs": "Krátká zastávka kvůli chladu."
               }
             },
             {
@@ -544,7 +585,8 @@
                 "de": "Warme Kleidung für die Kuppel.",
                 "hu": "Meleg ruha kell a kupolához.",
                 "ro": "Haine groase pentru cupolă.",
-                "en": "Warm clothes needed for the dome."
+                "en": "Warm clothes needed for the dome.",
+                "cs": "Na kopuli jsou potřeba teplé věci."
               }
             }
           ],
@@ -572,6 +614,12 @@
               "Chateau interiors are well heated.",
               "Warm drinks available near the square.",
               "The winter sky is clear at the observatory."
+            ],
+            "cs": [
+              "Brzký západ slunce kolem 16:15.",
+              "Interiéry zámku jsou dobře vytopené.",
+              "Teplé nápoje k dispozici u náměstí.",
+              "Zimní obloha je na observatoři jasná."
             ]
           }
         }
@@ -590,7 +638,8 @@
             "de": "Stadtplatz",
             "hu": "Főtér",
             "ro": "Piața centrală",
-            "en": "Main Square"
+            "en": "Main Square",
+            "cs": "Horní náměstí"
           },
           "coords": [
             17.9716,
@@ -605,7 +654,8 @@
             "de": "Schließen Sie Ihr Fahrrad ab und schlendern Sie über den Platz.",
             "hu": "Zárja le a biciklijét, és sétáljon körbe a téren.",
             "ro": "Încuietoarea bicicletei și plimbați-vă prin piață.",
-            "en": "Lock up your bike and stroll across the square."
+            "en": "Lock up your bike and stroll across the square.",
+            "cs": "Uzamkněte kolo a projděte náměstím pěšky."
           }
         },
         {
@@ -613,7 +663,8 @@
             "de": "Schloss Žerotín",
             "hu": "Žerotín-kastély",
             "ro": "Castelul Žerotín",
-            "en": "Žerotín Chateau"
+            "en": "Žerotín Chateau",
+            "cs": "Žerotínův zámek"
           },
           "coords": [
             17.973,
@@ -628,7 +679,8 @@
             "de": "Der Innenhof ist oft für Radfahrer zugänglich.",
             "hu": "Az udvar gyakran nyitva áll a kerékpárosok előtt.",
             "ro": "Curtea este adesea accesibilă bicicliștilor.",
-            "en": "The courtyard is often accessible to cyclists."
+            "en": "The courtyard is often accessible to cyclists.",
+            "cs": "Nádvoří je cyklistům často přístupné."
           }
         },
         {
@@ -636,7 +688,8 @@
             "de": "Schüttboden (Sýpka)",
             "hu": "Magtár (Sýpka)",
             "ro": "Hambarul (Sýpka)",
-            "en": "The Granary (Sýpka)"
+            "en": "The Granary (Sýpka)",
+            "cs": "Sýpka"
           },
           "coords": [
             17.9755,
@@ -651,7 +704,8 @@
             "de": "Ein alter Getreidespeicher, der heute für Ausstellungen genutzt wird. Werfen Sie einen kurzen Blick hinein.",
             "hu": "Egy régi magtár, ma kiállításoknak ad otthont. Vessen rá egy pillantást!",
             "ro": "Un vechi hambar folosit acum pentru expoziții. Aruncați o privire rapidă înăuntru.",
-            "en": "An old granary now used for exhibitions. Take a quick look inside."
+            "en": "An old granary now used for exhibitions. Take a quick look inside.",
+            "cs": "Stará sýpka nyní slouží pro výstavy. Nakoukněte dovnitř na chvíli."
           }
         },
         {
@@ -659,7 +713,8 @@
             "de": "Museum der Walachei & Schloss Kinský",
             "hu": "Valach Múzeum & Kinský-kastély",
             "ro": "Muzeul Valahiei & Castelul Kinský",
-            "en": "Museum of the Wallachian Region & Kinský Chateau"
+            "en": "Museum of the Wallachian Region & Kinský Chateau",
+            "cs": "Muzeum Valašského kraje & Kinského zámek"
           },
           "coords": [
             17.968,
@@ -674,7 +729,8 @@
             "de": "Kombinieren Sie beide Orte, da sie direkt nebeneinander liegen.",
             "hu": "Kombinálja a két helyszínt, mivel közvetlenül egymás mellett vannak.",
             "ro": "Combinați ambele locații, deoarece sunt chiar una lângă alta.",
-            "en": "Combine both sites as they are right next to each other."
+            "en": "Combine both sites as they are right next to each other.",
+            "cs": "Spojte obě památky, jsou hned vedle sebe."
           }
         },
         {
@@ -682,7 +738,8 @@
             "de": "Kirche Mariä Himmelfahrt",
             "hu": "Nagyboldogasszony-templom",
             "ro": "Biserica Adormirea Maicii Domnului",
-            "en": "Church of the Assumption of the Virgin Mary"
+            "en": "Church of the Assumption of the Virgin Mary",
+            "cs": "Kostel Nanebevzetí Panny Marie"
           },
           "coords": [
             17.9708,
@@ -697,7 +754,8 @@
             "de": "Eine kurze Pause, um die beeindruckende Architektur zu bewundern.",
             "hu": "Egy rövid pihenő, hogy megcsodálja a lenyűgöző építészetet.",
             "ro": "O scurtă pauză pentru a admira arhitectura impresionantă.",
-            "en": "A short break to admire the impressive architecture."
+            "en": "A short break to admire the impressive architecture.",
+            "cs": "Krátká pauza k obdivu působivé architektury."
           }
         },
         {
@@ -705,7 +763,8 @@
             "de": "Sternwarte",
             "hu": "Csillagvizsgáló",
             "ro": "Observatorul astronomic",
-            "en": "Observatory"
+            "en": "Observatory",
+            "cs": "Observatoř"
           },
           "coords": [
             17.965,
@@ -720,7 +779,8 @@
             "de": "Der Anstieg lohnt sich für die Aussicht. Oben gibt es einen Platz zum Ausruhen.",
             "hu": "Megéri feltekerni a kilátásért. Fent van egy hely a pihenésre.",
             "ro": "Urcarea merită pentru priveliște. Există un loc de odihnă în vârf.",
-            "en": "The climb is worth it for the view. There's a place to rest at the top."
+            "en": "The climb is worth it for the view. There's a place to rest at the top.",
+            "cs": "Výstup stojí za to kvůli výhledu. Na vrcholu je místo k odpočinku."
           }
         }
       ],
@@ -728,7 +788,8 @@
         "de": "Schwingen Sie sich auf den Sattel und beginnen Sie am Stadtplatz. Eine kurze Fahrt bringt Sie zum Žerotín-Schloss und dem umgebauten Sýpka-Speicher. Gegen Mittag tauchen Sie in die Kultur im Walachischen Museum ein. Nach dem Mittagessen machen Sie eine andächtige Pause an der Himmelfahrtskirche, bevor Sie den Tag mit einer leichten Herausforderung und einer lohnenden Aussicht an der Sternwarte abschließen.",
         "hu": "Pattanjon nyeregbe, és kezdjen a Főtéren! Egy rövid tekerés elviszi a Žerotín-kastélyhoz és az átalakított Sýpka magtárhoz. Dél körül merüljön el a kultúrában a Valach Múzeumban. Ebéd után tartson egy áhítatos szünetet a Nagyboldogasszony-templomnál, mielőtt egy könnyű kihívással és egy jutalmazó kilátással zárja a napot a csillagvizsgálónál.",
         "ro": "Urcați-vă pe bicicletă și porniți din Piața centrală. O scurtă plimbare vă duce la Castelul Žerotín și la hambarul renovat Sýpka. În jurul prânzului, scufundați-vă în cultură la Muzeul Valahiei. După prânz, faceți o pauză pioasă la Biserica Adormirea Maicii Domnului înainte de a încheia ziua cu o provocare ușoară și o priveliște plină de satisfacții la Observator.",
-        "en": "Hop on your bike and start at the Main Square. A short ride takes you to Žerotín Chateau and the converted Sýpka Granary. Around noon, dive into culture at the Wallachian Museum. After lunch, take a reverent break at the Church of the Assumption before finishing the day with a slight challenge and a rewarding view at the Observatory."
+        "en": "Hop on your bike and start at the Main Square. A short ride takes you to Žerotín Chateau and the converted Sýpka Granary. Around noon, dive into culture at the Wallachian Museum. After lunch, take a reverent break at the Church of the Assumption before finishing the day with a slight challenge and a rewarding view at the Observatory.",
+        "cs": "Nasedněte na kolo a vyrazte z Horního náměstí. Krátká jízda vás dovede k Žerotínovu zámku a přestavěné Sýpce. Kolem poledne se ponořte do kultury v Muzeu Valašského kraje. Po obědě si dejte uctivou přestávku v kostele Nanebevzetí a den zakončete menší výzvou a odměňujícím výhledem v observatoři."
       },
       "gastro_picks": {
         "de": [
@@ -920,6 +981,11 @@
           "Some streets in the center are cobblestoned, ride carefully there.",
           "The city is relatively flat, but the climb to the observatory requires some effort.",
           "Use the bike paths along the river for a pleasant ride."
+        ],
+        "cs": [
+          "Některé ulice v centru jsou dlážděné, jeďte tam opatrně.",
+          "Město je relativně rovné, ale výjezd k observatoři vyžaduje úsilí.",
+          "Používejte cyklostezky podél řeky pro příjemnou jízdu."
         ]
       },
       "variants": {
@@ -928,7 +994,8 @@
             "de": "Radfahren bei Regen erfordert Vorsicht auf dem Bečva-Radweg. Beginnen Sie zügig am Marktplatz und suchen Sie bald Schutz im Žerotín-Schloss. Die Sýpka bietet einen kulturellen Zwischenstopp, bevor Sie zum Kinský-Schloss weiterfahren. Am Nachmittag radeln Sie vorsichtig zur Marienkirche und beenden die Tour an der Sternwarte, wobei Sie auf nassem Laub und glatten Wegen besonders aufpassen sollten.",
             "hu": "Az esőben való kerékpározás óvatosságot igényel a Bečva-kerékpárúton. Kezdjen a főtéren, majd keressen hamar menedéket a Žerotín-kastélyban. A Sýpka kulturális megállót kínál, mielőtt a Kinský-kastélyhoz tekerne. Délután látogassa meg a Szűz Mária templomot, végül az obszervatóriumnál zárja a túrát, ügyelve a nedves levelekre és a csúszós utakra.",
             "ro": "Ciclismul pe ploaie necesită atenție pe pista Bečva. Începeți rapid în piață și căutați adăpost la Castelul Žerotín. Sýpka oferă o oprire culturală înainte de a pedala spre Castelul Kinský. După-amiaza, mergeți la Biserica Adormirea Maicii Domnului și încheiați la observator, fiind atenți la frunzele ude și drumurile alunecoase.",
-            "en": "Cycling in the rain requires caution on the Bečva cycle path. Start quickly at the square and seek shelter at Žerotín Chateau. The Granary (Sýpka) offers a cultural stop before pedaling to Kinský Chateau. In the afternoon, visit the Assumption Church and finish at the observatory, taking extra care on wet leaves and slippery paths."
+            "en": "Cycling in the rain requires caution on the Bečva cycle path. Start quickly at the square and seek shelter at Žerotín Chateau. The Granary (Sýpka) offers a cultural stop before pedaling to Kinský Chateau. In the afternoon, visit the Assumption Church and finish at the observatory, taking extra care on wet leaves and slippery paths.",
+            "cs": "Cyklistika v dešti vyžaduje opatrnost na Bečvě. Vyrazte rychle z náměstí a hledejte úkryt u Žerotínova zámku. Sýpka nabízí kulturní zastávku před dojetím ke Kinskému zámku. Odpoledne navštivte kostel Nanebevzetí a zakončete u observatoře, dejte si pozor na mokré listí a kluzké cesty."
           },
           "stops": [
             {
@@ -937,7 +1004,8 @@
                 "de": "Rutschfestes Kopfsteinpflaster?",
                 "hu": "Vigyázat, a macskakő csúszik.",
                 "ro": "Atenție la pavajul ud.",
-                "en": "Watch out for wet cobbles."
+                "en": "Watch out for wet cobbles.",
+                "cs": "Dejte pozor na mokré dlažební kostky."
               }
             },
             {
@@ -946,7 +1014,8 @@
                 "de": "Fahrradständer am Eingang.",
                 "hu": "Kerékpártárolók a bejáratnál.",
                 "ro": "Suporturi de biciclete la intrare.",
-                "en": "Bike racks at the entrance."
+                "en": "Bike racks at the entrance.",
+                "cs": "Stojany na kola u vchodu."
               }
             },
             {
@@ -955,7 +1024,8 @@
                 "de": "Kurze Pause im Trockenen.",
                 "hu": "Rövid pihenő száraz helyen.",
                 "ro": "Scurtă pauză la uscat.",
-                "en": "Short break in the dry."
+                "en": "Short break in the dry.",
+                "cs": "Krátká přestávka v suchu."
               }
             },
             {
@@ -964,7 +1034,8 @@
                 "de": "Lange Indoor-Pause.",
                 "hu": "Hosszú beltéri megálló.",
                 "ro": "Pauză lungă în interior.",
-                "en": "Long indoor break."
+                "en": "Long indoor break.",
+                "cs": "Dlouhá vnitřní přestávka."
               }
             },
             {
@@ -973,7 +1044,8 @@
                 "de": "Sicherer Abstellplatz vorhanden.",
                 "hu": "Biztonságos tárolóhely a közelben.",
                 "ro": "Loc de parcare sigur aproape.",
-                "en": "Safe parking spot nearby."
+                "en": "Safe parking spot nearby.",
+                "cs": "Bezpečné parkovací místo poblíž."
               }
             },
             {
@@ -982,7 +1054,8 @@
                 "de": "Steiler Weg, Vorsicht bei Nässe.",
                 "hu": "Meredek út, csúszós lehet.",
                 "ro": "Drum înclinat, alunecos pe ploaie.",
-                "en": "Steep path, slippery when wet."
+                "en": "Steep path, slippery when wet.",
+                "cs": "Strmý chodník, za mokra kluzký."
               }
             }
           ],
@@ -1010,6 +1083,12 @@
               "Braking distance is longer on wet roads.",
               "Avoid puddles in the chateau park.",
               "Keep your rain cape handy."
+            ],
+            "cs": [
+              "Blatníky jsou v dešti nezbytné.",
+              "Brzdná dráha je na mokré vozovce delší.",
+              "Vyhněte se loužím v zámeckém parku.",
+              "Mějte po ruce pláštěnku."
             ]
           }
         },
@@ -1018,7 +1097,8 @@
             "de": "Winterliches Radeln führt Sie durch die klare Luft von Valašské Meziříčí. Starten Sie dick eingepackt am Hauptplatz. Die Schlösser Žerotín und Kinský bieten die nötige Wärme zwischendurch. Besuchen Sie die Sýpka für eine kurze Pause. Nach dem Besuch der Marienkirche fahren Sie zum Sonnenuntergang zur Sternwarte, wo Sie mit einem tollen Blick über die winterliche Stadt belohnt werden.",
             "hu": "A téli kerékpározás során élvezze a friss levegőt. Kezdjen rétegesen öltözve a főtéren. A Žerotín- és Kinský-kastélyok biztosítják a szükséges meleget két etap között. Látogassa meg a Sýpka-t egy rövid pihenőre. A Szűz Mária templom után tekerjen fel az obszervatóriumhoz naplementére, ahol a téli város látványa lesz a jutalma.",
             "ro": "Ciclismul de iarnă vă poartă prin aerul curat al orașului. Începeți bine îmbrăcați în piața principală. Castelele Žerotín și Kinský oferă căldura necesară între etape. Vizitați Sýpka pentru o scurtă pauză. După vizitarea bisericii, pedalați spre observator la apus pentru o vedere superbă asupra orașului iarna.",
-            "en": "Winter cycling takes you through the crisp air of Valašské Meziříčí. Start well-layered at the Main Square. Žerotín and Kinský chateaus provide the necessary warmth between stages. Visit The Granary (Sýpka) for a quick break. After the Assumption Church, ride to the observatory for sunset, where you'll be rewarded with a view over the wintry town."
+            "en": "Winter cycling takes you through the crisp air of Valašské Meziříčí. Start well-layered at the Main Square. Žerotín and Kinský chateaus provide the necessary warmth between stages. Visit The Granary (Sýpka) for a quick break. After the Assumption Church, ride to the observatory for sunset, where you'll be rewarded with a view over the wintry town.",
+            "cs": "Zimní cyklistika vás zavede chladným vzduchem Valašského Meziříčí. Začněte dobře vrstveně na Horním náměstí. Žerotínův a Kinského zámek poskytují mezi etapami potřebné zázemí. Navštivte Sýpku pro rychlou zastávku. Po kostele Nanebevzetí jeďte k observatoři na západ slunce, kde budete odměněni výhledem na zasněžené město."
           },
           "stops": [
             {
@@ -1027,7 +1107,8 @@
                 "de": "Vorsicht vor Eisplatten.",
                 "hu": "Vigyázzon a jégfoltokkal.",
                 "ro": "Atenție la petele de gheață.",
-                "en": "Watch out for icy patches."
+                "en": "Watch out for icy patches.",
+                "cs": "Pozor na ledové plotny."
               }
             },
             {
@@ -1036,7 +1117,8 @@
                 "de": "Sicher parken, warm reingehen.",
                 "hu": "Parkoljon le, menjen be melegedni.",
                 "ro": "Parcați sigur, intrați la căldură.",
-                "en": "Park safely, go inside to warm up."
+                "en": "Park safely, go inside to warm up.",
+                "cs": "Zaparkujte bezpečně, jděte dovnitř se ohřát."
               }
             },
             {
@@ -1045,7 +1127,8 @@
                 "de": "Kulturstopp im Warmen.",
                 "hu": "Kulturális megálló a melegben.",
                 "ro": "Oprire culturală la căldură.",
-                "en": "Cultural stop in the warmth."
+                "en": "Cultural stop in the warmth.",
+                "cs": "Kulturní zastávka v teple."
               }
             },
             {
@@ -1054,7 +1137,8 @@
                 "de": "Aufwärmen im Museum.",
                 "hu": "Melegedjen meg a múzeumban.",
                 "ro": "Încălziți-vă în muzeu.",
-                "en": "Warm up in the museum."
+                "en": "Warm up in the museum.",
+                "cs": "Ohřejte se v muzeu."
               }
             },
             {
@@ -1063,7 +1147,8 @@
                 "de": "Kurze Andacht im Warmen.",
                 "hu": "Rövid pihenő a melegben.",
                 "ro": "Scurtă rugăciune la căldură.",
-                "en": "Short rest in the warmth."
+                "en": "Short rest in the warmth.",
+                "cs": "Krátký odpočinek v teple."
               }
             },
             {
@@ -1072,7 +1157,8 @@
                 "de": "Anstieg wärmt auf, oben windig.",
                 "hu": "Az emelkedő felmelegít, fent szeles.",
                 "ro": "Urcarea vă încălzește, sus e vânt.",
-                "en": "The climb warms you up, windy at top."
+                "en": "The climb warms you up, windy at top.",
+                "cs": "Výstup vás rozehřeje, nahoře větrno."
               }
             }
           ],
@@ -1100,6 +1186,12 @@
               "Lower tire pressure slightly for winter.",
               "Check lights due to early twilight.",
               "Road salt can damage the chain."
+            ],
+            "cs": [
+              "Teplé rukavice jsou povinné.",
+              "Snižte tlak v pláštích trochu na zimu.",
+              "Zkontrolujte světla kvůli brzkému stmívání.",
+              "Silniční sůl může poškodit řetěz."
             ]
           }
         }
@@ -1118,7 +1210,8 @@
             "de": "Parkplatz Zentrum & Stadtplatz",
             "hu": "Parkoló a központban és Főtér",
             "ro": "Parcare centrală & Piața centrală",
-            "en": "Central Parking & Main Square"
+            "en": "Central Parking & Main Square",
+            "cs": "Centrální parkoviště & Horní náměstí"
           },
           "coords": [
             17.972,
@@ -1133,7 +1226,8 @@
             "de": "Parken Sie hier für den ersten Cluster. Der Platz ist nur wenige Schritte entfernt.",
             "hu": "Parkoljon itt az első látnivalócsoporthoz. A tér csak pár lépés.",
             "ro": "Parcați aici pentru primul grup de atracții. Piața este la câțiva pași.",
-            "en": "Park here for the first cluster. The square is a few steps away."
+            "en": "Park here for the first cluster. The square is a few steps away.",
+            "cs": "Zaparkujte zde pro první okruh. Náměstí je jen pár kroků vzdálené."
           }
         },
         {
@@ -1141,7 +1235,8 @@
             "de": "Kirche Mariä Himmelfahrt",
             "hu": "Nagyboldogasszony-templom",
             "ro": "Biserica Adormirea Maicii Domnului",
-            "en": "Church of the Assumption of the Virgin Mary"
+            "en": "Church of the Assumption of the Virgin Mary",
+            "cs": "Kostel Nanebevzetí Panny Marie"
           },
           "coords": [
             17.9708,
@@ -1157,7 +1252,8 @@
             "de": "Ein kurzer Spaziergang vom Hauptplatz durch die historischen Gassen.",
             "hu": "Rövid séta a Főtérről a történelmi sikátorokon keresztül.",
             "ro": "O scurtă plimbare de la piața principală pe aleile istorice.",
-            "en": "A short walk from the main square through the historic alleys."
+            "en": "A short walk from the main square through the historic alleys.",
+            "cs": "Krátká procházka z hlavního náměstí historickými uličkami."
           }
         },
         {
@@ -1165,7 +1261,8 @@
             "de": "Schloss Žerotín",
             "hu": "Žerotín-kastély",
             "ro": "Castelul Žerotín",
-            "en": "Žerotín Chateau"
+            "en": "Žerotín Chateau",
+            "cs": "Žerotínův zámek"
           },
           "coords": [
             17.973,
@@ -1181,7 +1278,8 @@
             "de": "Vom selben Parkplatz aus leicht zu Fuß erreichbar.",
             "hu": "Könnyen megközelíthető gyalog ugyanarról a parkolóról.",
             "ro": "Ușor de ajuns pe jos din aceeași parcare.",
-            "en": "Easily reachable on foot from the same parking spot."
+            "en": "Easily reachable on foot from the same parking spot.",
+            "cs": "Snadno dostupný pěšky ze stejného parkoviště."
           }
         },
         {
@@ -1189,7 +1287,8 @@
             "de": "Museum der Walachei & Schloss Kinský",
             "hu": "Valach Múzeum & Kinský-kastély",
             "ro": "Muzeul Valahiei & Castelul Kinský",
-            "en": "Museum of the Wallachian Region & Kinský Chateau"
+            "en": "Museum of the Wallachian Region & Kinský Chateau",
+            "cs": "Muzeum Valašského kraje & Kinského zámek"
           },
           "coords": [
             17.968,
@@ -1205,7 +1304,8 @@
             "de": "Fahren Sie zum zweiten Cluster. Es gibt Parkplätze in der Nähe des Schlossparks.",
             "hu": "Vezessen a második látnivalócsoporthoz. A kastélypark közelében van parkoló.",
             "ro": "Conduceți la al doilea grup de atracții. Există parcare lângă parcul castelului.",
-            "en": "Drive to the second cluster. There's parking near the chateau park."
+            "en": "Drive to the second cluster. There's parking near the chateau park.",
+            "cs": "Přejeďte k druhému okruhu. U zámockého parku je parkování."
           }
         },
         {
@@ -1213,7 +1313,8 @@
             "de": "Dreifaltigkeitskirche",
             "hu": "Szentháromság-templom",
             "ro": "Biserica Sfânta Treime",
-            "en": "Church of the Holy Trinity"
+            "en": "Church of the Holy Trinity",
+            "cs": "Kostel Nejsvětější Trojice"
           },
           "coords": [
             17.976,
@@ -1229,7 +1330,8 @@
             "de": "Vom Kinský-Schloss aus ein längerer Spaziergang oder eine sehr kurze Autofahrt.",
             "hu": "A Kinský-kastélytól egy hosszabb séta vagy egy nagyon rövid autóút.",
             "ro": "O plimbare mai lungă sau o călătorie foarte scurtă cu mașina de la Castelul Kinský.",
-            "en": "A longer walk or a very short drive from Kinský Chateau."
+            "en": "A longer walk or a very short drive from Kinský Chateau.",
+            "cs": "Delší procházka nebo velmi krátká jízda z Kinského zámku."
           }
         },
         {
@@ -1237,7 +1339,8 @@
             "de": "Sternwarte",
             "hu": "Csillagvizsgáló",
             "ro": "Observatorul astronomic",
-            "en": "Observatory"
+            "en": "Observatory",
+            "cs": "Observatoř"
           },
           "coords": [
             17.965,
@@ -1253,7 +1356,8 @@
             "de": "Fahren Sie zum letzten Ziel des Tages. Der Panoramablick ist die Fahrt wert.",
             "hu": "Vezessen a nap utolsó állomásához. A panoráma megéri az utat.",
             "ro": "Conduceți la ultima destinație a zilei. Vederea panoramică merită călătoria.",
-            "en": "Drive to the final destination for the day. The panoramic view is worth the drive."
+            "en": "Drive to the final destination for the day. The panoramic view is worth the drive.",
+            "cs": "Přejeďte na poslední cíl dne. Panorama stojí za tu jízdu."
           }
         }
       ],
@@ -1261,7 +1365,8 @@
         "de": "Parken Sie im Zentrum und erkunden Sie den ersten Cluster zu Fuß: den Stadtplatz, die Himmelfahrtskirche und das Žerotín-Schloss. Am späten Vormittag fahren Sie zum Kinský-Schloss, wo Sie das Museum besuchen und zu Mittag essen können. Nach einem Spaziergang zur Dreifaltigkeitskirche fahren Sie am Nachmittag zur Sternwarte, um einen atemberaubenden Blick über die Stadt zu genießen und den Tag ausklingen zu lassen.",
         "hu": "Parkoljon a központban, és fedezze fel gyalog az első látnivalócsoportot: a Főteret, a Nagyboldogasszony-templomot és a Žerotín-kastélyt. Késő délelőtt vezessen át a Kinský-kastélyhoz, ahol meglátogathatja a múzeumot és ebédelhet. A Szentháromság-templomhoz tett séta után délután hajtson fel a csillagvizsgálóhoz, ahonnan lenyűgöző kilátás nyílik a városra, és zárja a napot.",
         "ro": "Parcați în centru și explorați pe jos primul grup de atracții: Piața centrală, Biserica Adormirea Maicii Domnului și Castelul Žerotín. La sfârșitul dimineții, conduceți la Castelul Kinský pentru muzeu și prânz. După o plimbare la Biserica Sfânta Treime, călătoria de după-amiază vă duce la Observator pentru vederi panoramice ale orașului pentru a încheia ziua.",
-        "en": "Park centrally and explore the first cluster on foot: the Main Square, the Church of the Assumption, and Žerotín Chateau. Late morning, drive to the Kinský Chateau for the museum and lunch. After a walk to the Holy Trinity Church, the afternoon drive takes you to the Observatory for sweeping city views to end your day."
+        "en": "Park centrally and explore the first cluster on foot: the Main Square, the Church of the Assumption, and Žerotín Chateau. Late morning, drive to the Kinský Chateau for the museum and lunch. After a walk to the Holy Trinity Church, the afternoon drive takes you to the Observatory for sweeping city views to end your day.",
+        "cs": "Zaparkujte centrálně a první okruh prozkoumejte pěšky: Horní náměstí, Kostel Nanebevzetí a Žerotínův zámek. Pozdní dopoledne dojeďte ke Kinskému zámku na muzeum a oběd. Po procházce ke Kostelu Nejsvětější Trojice vás odpolední jízda dovede k observatoři s širokým výhledem na zakončení dne."
       },
       "gastro_picks": {
         "de": [
@@ -1453,6 +1558,11 @@
           "Parking in the center is paid. Have coins ready.",
           "Plan your route between clusters to avoid noon traffic.",
           "Be aware of parking restrictions, especially near the main sights."
+        ],
+        "cs": [
+          "Parkování v centru je placené. Mějte připravené mince.",
+          "Plánujte trasu mezi okruhy, abyste se vyhnuli polední dopravě.",
+          "Věnujte pozornost omezením parkování, zvláště v okolí hlavních památek."
         ]
       },
       "variants": {
@@ -1461,7 +1571,8 @@
             "de": "Mit dem Auto erkunden Sie die Stadt bequem und trocken. Starten Sie am zentralen Parkplatz und besuchen Sie die nahegelegene Marienkirche. Die Schlösser Žerotín und Kinský bieten hervorragende Indoor-Programme für regnerische Stunden. Den Nachmittag verbringen Sie in der Dreifaltigkeitskirche, bevor Sie zur Sternwarte fahren, wo Sie direkt vor dem Eingang parken können und so trocken bleiben.",
             "hu": "Autóval kényelmesen és szárazon fedezheti fel a várost. Kezdjen a központi parkolóban, és látogassa meg a közeli Szűz Mária templomot. A Žerotín- és Kinský-kastélyok kiváló beltéri programokat kínálnak az esős órákra. A délutánt a Szentháromság-templomban töltjük, majd az obszervatóriumhoz hajtunk, ahol közvetlenül a bejáratnál parkolhat, így szárazon maradhat.",
             "ro": "Cu mașina explorați orașul confortabil și uscat. Începeți în parcarea centrală și vizitați biserica din apropiere. Castelele Žerotín și Kinský oferă programe excelente de interior pentru orele ploioase. După-amiaza este petrecută la Biserica Sfânta Treime înainte de a conduce la observator, unde puteți parca chiar la intrare pentru a rămâne uscat.",
-            "en": "Explore the town comfortably and dry by car. Start at the central parking and visit the nearby Assumption Church. Žerotín and Kinský chateaus offer excellent indoor programs for rainy hours. Spend the afternoon at the Holy Trinity Church before driving to the observatory, where you can park right at the entrance to stay dry."
+            "en": "Explore the town comfortably and dry by car. Start at the central parking and visit the nearby Assumption Church. Žerotín and Kinský chateaus offer excellent indoor programs for rainy hours. Spend the afternoon at the Holy Trinity Church before driving to the observatory, where you can park right at the entrance to stay dry.",
+            "cs": "Prozkoumejte město pohodlně a suchou v autě. Začněte u centrálního parkoviště a navštivte blízký Kostel Nanebevzetí. Žerotínův a Kinského zámek nabízejí vynikající vnitřní programy pro deštivé hodiny. Odpoledne strávte u Kostela Nejsvětější Trojice a na závěr dojeďte k observatoři, kde můžete zaparkovat přímo u vchodu a zůstat v suchu."
           },
           "stops": [
             {
@@ -1470,7 +1581,8 @@
                 "de": "Zentraler, trockener Start.",
                 "hu": "Központi, száraz kezdés.",
                 "ro": "Start central și uscat.",
-                "en": "Central, dry start."
+                "en": "Central, dry start.",
+                "cs": "Centrální, suchý start."
               }
             },
             {
@@ -1479,7 +1591,8 @@
                 "de": "Kurzer Weg vom Auto.",
                 "hu": "Rövid séta az autótól.",
                 "ro": "Drum scurt de la mașină.",
-                "en": "Short walk from the car."
+                "en": "Short walk from the car.",
+                "cs": "Krátká procházka od auta."
               }
             },
             {
@@ -1488,7 +1601,8 @@
                 "de": "Parken in der Nähe möglich.",
                 "hu": "Parkolás a közelben lehetséges.",
                 "ro": "Parcare posibilă în apropiere.",
-                "en": "Parking possible nearby."
+                "en": "Parking possible nearby.",
+                "cs": "Parkování možné v blízkosti."
               }
             },
             {
@@ -1497,7 +1611,8 @@
                 "de": "Idealer Ort bei Dauerregen.",
                 "hu": "Ideális hely tartós esőben.",
                 "ro": "Loc ideal în caz de ploaie continuă.",
-                "en": "Ideal place during steady rain."
+                "en": "Ideal place during steady rain.",
+                "cs": "Ideální místo při trvalém dešti."
               }
             },
             {
@@ -1506,7 +1621,8 @@
                 "de": "Parkplatz direkt davor.",
                 "hu": "Parkoló közvetlenül előtte.",
                 "ro": "Parcare chiar în față.",
-                "en": "Parking right in front."
+                "en": "Parking right in front.",
+                "cs": "Parkování přímo před vchodem."
               }
             },
             {
@@ -1515,7 +1631,8 @@
                 "de": "Bequeme Anfahrt im Regen.",
                 "hu": "Kényelmes feljutás esőben.",
                 "ro": "Acces confortabil pe ploaie.",
-                "en": "Comfortable access in the rain."
+                "en": "Comfortable access in the rain.",
+                "cs": "Pohodlný přístup v dešti."
               }
             }
           ],
@@ -1543,6 +1660,12 @@
               "Avoid flooded road sections.",
               "Chateaus have good parking access.",
               "Keep an umbrella handy in the car."
+            ],
+            "cs": [
+              "Používejte centrální parkoviště.",
+              "Vyhněte se zatopeným úsekům silnic.",
+              "Zámky mají dobrý přístup pro parkování.",
+              "Mějte v autě po ruce deštník."
             ]
           }
         },
@@ -1551,7 +1674,8 @@
             "de": "Winterkomfort bietet die Autotour durch Valašské Meziříčí. Nach dem Parken am Markt genießen Sie die winterliche Atmosphäre und wärmen sich in der Marienkirche auf. Die Schlösser Žerotín und Kinský sind warme Rückzugsorte mit tiefen Einblicken in die regionale Geschichte. Nach einem kurzen Stopp an der Dreifaltigkeitskirche bietet die Fahrt zur Sternwarte den perfekten winterlichen Abschluss mit Weitblick.",
             "hu": "Téli kényelmet nyújt az autós túra Valašské Meziříčí-ben. A főtéri parkolás után élvezze a téli hangulatot, majd melegedjen fel a Szűz Mária templomban. A Žerotín- és Kinský-kastélyok meleg menedékek a regionális történelem szerelmeseinek. Egy rövid megálló után a Szentháromság-templomnál, az obszervatóriumhoz vezető út tökéletes téli záróprogram kilátással.",
             "ro": "Turul cu mașina prin oraș oferă confort de iarnă. După parcarea în piață, bucurați-vă de atmosfera de iarnă și încălziți-vă în biserică. Castelele Žerotín și Kinský sunt refugii calde cu perspective asupra istoriei regionale. După o scurtă oprire la Biserica Sfânta Treime, drumul spre observator oferă finalul perfect de iarnă cu vedere.",
-            "en": "Winter comfort is guaranteed during this car tour of Valašské Meziříčí. After parking at the square, enjoy the winter atmosphere and warm up in the Assumption Church. Žerotín and Kinský chateaus are warm retreats offering deep insights into regional history. After a quick stop at the Holy Trinity Church, the drive to the observatory provides the perfect winter finale with a view."
+            "en": "Winter comfort is guaranteed during this car tour of Valašské Meziříčí. After parking at the square, enjoy the winter atmosphere and warm up in the Assumption Church. Žerotín and Kinský chateaus are warm retreats offering deep insights into regional history. After a quick stop at the Holy Trinity Church, the drive to the observatory provides the perfect winter finale with a view.",
+            "cs": "Zimní pohodlí je zaručeno během této automobilové trasy Valašským Meziříčím. Po zaparkování na náměstí si užijte zimní atmosféru a ohřejte se v kostele Nanebevzetí. Žerotínův a Kinského zámek jsou teplá útočiště s hloubkovým pohledem do regionální historie. Po krátké zastávce u Kostela Nejsvětější Trojice poskytne jízda k observatoři dokonalou zimní tečku s výhledem."
           },
           "stops": [
             {
@@ -1560,7 +1684,8 @@
                 "de": "Parkplatz oft geräumt.",
                 "hu": "A parkolót gyakran takarítják.",
                 "ro": "Parcarea este des zăpezită.",
-                "en": "Parking lot is often cleared."
+                "en": "Parking lot is often cleared.",
+                "cs": "Parkoviště je často uklizené od sněhu."
               }
             },
             {
@@ -1569,7 +1694,8 @@
                 "de": "Kurze Kältebrücke zum Eingang.",
                 "hu": "Rövid hideg séta a bejáratig.",
                 "ro": "Scurtă plimbare rece până la intrare.",
-                "en": "Short cold walk to the entrance."
+                "en": "Short cold walk to the entrance.",
+                "cs": "Krátká studená procházka k vchodu."
               }
             },
             {
@@ -1578,7 +1704,8 @@
                 "de": "Warmer Stopp im Kulturzentrum.",
                 "hu": "Meleg megálló a kulturális központban.",
                 "ro": "Oprire caldă la centrul cultural.",
-                "en": "Warm stop at the cultural center."
+                "en": "Warm stop at the cultural center.",
+                "cs": "Teplá zastávka v kulturním centru."
               }
             },
             {
@@ -1587,7 +1714,8 @@
                 "de": "Museumsbesuch zum Aufwärmen.",
                 "hu": "Múzeumlátogatás melegedéshez.",
                 "ro": "Vizită la muzeu pentru încălzire.",
-                "en": "Museum visit for warming up."
+                "en": "Museum visit for warming up.",
+                "cs": "Návštěva muzea pro zahřátí."
               }
             },
             {
@@ -1596,7 +1724,8 @@
                 "de": "Schneller Stopp am Auto.",
                 "hu": "Gyors megálló az autónál.",
                 "ro": "Oprire rapidă lângă mașină.",
-                "en": "Quick stop near the car."
+                "en": "Quick stop near the car.",
+                "cs": "Rychlá zastávka u auta."
               }
             },
             {
@@ -1605,7 +1734,8 @@
                 "de": "Winterreifen für die Anfahrt.",
                 "hu": "Téli gumi kell a feljutáshoz.",
                 "ro": "Anvelope de iarnă pentru acces.",
-                "en": "Winter tires needed for access."
+                "en": "Winter tires needed for access.",
+                "cs": "Pro přístup jsou potřeba zimní pneumatiky."
               }
             }
           ],
@@ -1633,6 +1763,12 @@
               "Use the parking lot at Kinský Chateau.",
               "Watch out for early twilight when leaving.",
               "Roads can be slippery."
+            ],
+            "cs": [
+              "Mějte v autě škrabku na led.",
+              "Použijte parkoviště u zámku Kinských.",
+              "Dejte pozor na brzký soumrak při odchodu.",
+              "Silnice mohou být kluzké."
             ]
           }
         }
@@ -1651,7 +1787,8 @@
             "de": "Stadtplatz",
             "hu": "Főtér",
             "ro": "Piața centrală",
-            "en": "Main Square"
+            "en": "Main Square",
+            "cs": "Hlavní náměstí"
           },
           "coords": [
             17.9716,
@@ -1666,7 +1803,8 @@
             "de": "Die meisten Buslinien halten in der Nähe. Ein idealer Ausgangspunkt.",
             "hu": "A legtöbb buszjárat a közelben áll meg. Ideális kiindulópont.",
             "ro": "Majoritatea liniilor de autobuz opresc în apropiere. Un punct de plecare ideal.",
-            "en": "Most bus lines stop nearby. An ideal starting point."
+            "en": "Most bus lines stop nearby. An ideal starting point.",
+            "cs": "Většina autobusových linek zastavuje poblíž. Ideální výchozí bod."
           }
         },
         {
@@ -1674,7 +1812,8 @@
             "de": "Kirche Mariä Himmelfahrt",
             "hu": "Nagyboldogasszony-templom",
             "ro": "Biserica Adormirea Maicii Domnului",
-            "en": "Church of the Assumption of the Virgin Mary"
+            "en": "Church of the Assumption of the Virgin Mary",
+            "cs": "Kostel Nanebevzetí Panny Marie"
           },
           "coords": [
             17.9708,
@@ -1690,7 +1829,8 @@
             "de": "Ein kurzer Spaziergang vom Platz aus, um den ersten Cluster zu erkunden.",
             "hu": "Rövid séta a térről az első látnivalócsoport felfedezéséhez.",
             "ro": "O scurtă plimbare din piață pentru a explora primul grup de atracții.",
-            "en": "A short walk from the square to explore the first cluster."
+            "en": "A short walk from the square to explore the first cluster.",
+            "cs": "Krátká procházka z náměstí k prozkoumání první skupiny památek."
           }
         },
         {
@@ -1698,7 +1838,8 @@
             "de": "Schloss Kinský & Museum",
             "hu": "Kinský-kastély & Múzeum",
             "ro": "Castelul Kinský & Muzeu",
-            "en": "Kinský Chateau & Museum"
+            "en": "Kinský Chateau & Museum",
+            "cs": "Zámek a muzeum Kinských"
           },
           "coords": [
             17.968,
@@ -1714,7 +1855,8 @@
             "de": "Nehmen Sie einen Bus zum zweiten Cluster. Die Haltestelle ist nahe am Schlosspark.",
             "hu": "Menjen busszal a második látnivalócsoporthoz. A megálló a kastélypark közelében van.",
             "ro": "Luați un autobuz către al doilea grup de atracții. Stația este aproape de parcul castelului.",
-            "en": "Take a bus to the second cluster. The stop is near the chateau park."
+            "en": "Take a bus to the second cluster. The stop is near the chateau park.",
+            "cs": "Jeďte autobusem do druhé skupiny památek. Zastávka je u parku zámeckého areálu."
           }
         },
         {
@@ -1722,7 +1864,8 @@
             "de": "Schloss Žerotín",
             "hu": "Žerotín-kastély",
             "ro": "Castelul Žerotín",
-            "en": "Žerotín Chateau"
+            "en": "Žerotín Chateau",
+            "cs": "Zámek Žerotínů"
           },
           "coords": [
             17.973,
@@ -1738,7 +1881,8 @@
             "de": "Ein kurzer Spaziergang vom Kinský-Schloss zurück in Richtung Zentrum.",
             "hu": "Rövid séta a Kinský-kastélytól vissza a központ felé.",
             "ro": "O scurtă plimbare de la Castelul Kinský înapoi spre centru.",
-            "en": "A short walk from Kinský Chateau back towards the center."
+            "en": "A short walk from Kinský Chateau back towards the center.",
+            "cs": "Krátká procházka ze zámku Kinských zpět směrem do centra."
           }
         },
         {
@@ -1746,7 +1890,8 @@
             "de": "Sternwarte",
             "hu": "Csillagvizsgáló",
             "ro": "Observatorul astronomic",
-            "en": "Observatory"
+            "en": "Observatory",
+            "cs": "Hvězdárna"
           },
           "coords": [
             17.965,
@@ -1762,7 +1907,8 @@
             "de": "Die letzte Fahrt des Tages. Möglicherweise müssen Sie vom Bus aus noch ein Stück bergauf gehen.",
             "hu": "A nap utolsó utazása. Lehet, hogy a buszról még sétálnia kell egy kicsit felfelé.",
             "ro": "Ultima călătorie a zilei. S-ar putea să trebuiască să urcați puțin de la stația de autobuz.",
-            "en": "The last transit ride of the day. You might have to walk uphill a bit from the bus."
+            "en": "The last transit ride of the day. You might have to walk uphill a bit from the bus.",
+            "cs": "Poslední spoj dne. Od autobusu možná bude potřeba trochu stoupat do kopce."
           }
         }
       ],
@@ -1770,7 +1916,8 @@
         "de": "Starten Sie am zentralen Stadtplatz, der mit dem Bus leicht erreichbar ist, und erkunden Sie die nahe gelegene Kirche zu Fuß. Nehmen Sie dann einen Bus zum Museumskomplex am Kinský-Schloss für eine ausgiebige Kultur- und Mittagspause. Am Nachmittag spazieren Sie zum Žerotín-Schloss, bevor Sie einen letzten Bus zur Sternwarte nehmen, um den Tag mit einer schönen Aussicht zu beenden.",
         "hu": "Kezdjen a busszal könnyen megközelíthető központi Főtéren, és fedezze fel gyalog a közeli templomot. Ezután buszozzon el a Kinský-kastély múzeumi komplexumába egy kiadós kulturális és ebédszünetre. Délután sétáljon el a Žerotín-kastélyhoz, mielőtt egy utolsó busszal felmegy a csillagvizsgálóhoz, hogy egy szép kilátással zárja a napot.",
         "ro": "Începeți din Piața centrală, ușor accesibilă cu autobuzul, și explorați biserica din apropiere pe jos. Apoi, luați un autobuz către complexul muzeal de la Castelul Kinský pentru o pauză culturală și de prânz extinsă. După-amiaza, plimbați-vă la Castelul Žerotín înainte de a lua un ultim autobuz spre Observator pentru a încheia ziua cu o priveliște frumoasă.",
-        "en": "Start at the central Main Square, easily reached by bus, and explore the nearby church on foot. Then, take a bus to the museum complex at Kinský Chateau for an extended cultural and lunch break. In the afternoon, stroll to Žerotín Chateau before catching a final bus to the Observatory to end the day with a beautiful view."
+        "en": "Start at the central Main Square, easily reached by bus, and explore the nearby church on foot. Then, take a bus to the museum complex at Kinský Chateau for an extended cultural and lunch break. In the afternoon, stroll to Žerotín Chateau before catching a final bus to the Observatory to end the day with a beautiful view.",
+        "cs": "Začněte na centrálním Hlavním náměstí, snadno dostupném autobusem, a pěšky prozkoumejte poblíž stojící kostel. Poté využijte autobus do muzejního komplexu u zámku Kinských na delší kulturní a polední přestávku. Odpoledne se projděte ke zámku Žerotínů a nakonec chytíte poslední autobus k hvězdárně, kde den zakončíte krásným výhledem."
       },
       "gastro_picks": {
         "de": [
@@ -1962,6 +2109,11 @@
           "Buy a day pass for public transport, it's the cheapest option.",
           "Check the bus schedule in advance, especially for the last ride of the day.",
           "Have some small change for tickets in case you need to buy them from the driver."
+        ],
+        "cs": [
+          "Kupte si celodenní jízdenku na MHD, je to nejlevnější možnost.",
+          "Zkontrolujte jízdní řád autobusů předem, zejména poslední spoje dne.",
+          "Mějte u sebe drobné na jízdenky, pokud je budete kupovat u řidiče."
         ]
       },
       "variants": {
@@ -1970,7 +2122,8 @@
             "de": "Öffentliche Verkehrsmittel halten Sie bei Regen trocken. Starten Sie am Markt und nutzen Sie Busse, um zur Marienkirche und den Schlössern zu gelangen. Das Kinský-Schloss und sein Museum bieten stundenlangen Schutz. Nach dem Besuch des Žerotín-Schlosses bringt Sie der Bus näher zur Sternwarte, sodass Sie nur kurze Strecken durch den Regen laufen müssen.",
             "hu": "A tömegközlekedés szárazon tartja önt esőben. Kezdjen a főtéren, és használja a buszokat a templomhoz és a kastélyokhoz való eljutáshoz. A Kinský-kastély és múzeuma órákig tartó menedéket nyújt. A Žerotín-kastély látogatása után a busz közelebb viszi az obszervatóriumhoz, így csak rövid távokat kell megtennie az esőben.",
             "ro": "Transportul public vă menține uscat pe ploaie. Începeți în piață și folosiți autobuzele pentru a ajunge la biserică și castele. Castelul Kinský și muzeul său oferă adăpost pentru ore întregi. După vizitarea Castelului Žerotín, autobuzul vă duce mai aproape de observator, reducând mersul prin ploaie.",
-            "en": "Public transit keeps you dry in the rain. Start at the square and use buses to reach the church and chateaus. Kinský Chateau and its museum provide shelter for hours. After visiting Žerotín Chateau, the bus takes you closer to the observatory, so you only have to walk short distances in the rain."
+            "en": "Public transit keeps you dry in the rain. Start at the square and use buses to reach the church and chateaus. Kinský Chateau and its museum provide shelter for hours. After visiting Žerotín Chateau, the bus takes you closer to the observatory, so you only have to walk short distances in the rain.",
+            "cs": "Městská doprava vás v dešti udrží v suchu. Začněte na náměstí a autobusy použijte k dosažení kostela a zámků. Zámek Kinských a jeho muzeum poskytují útočiště na několik hodin. Po návštěvě zámku Žerotínů vás autobus odveze blíže k hvězdárně, takže v dešti musíte jít jen krátké úseky pěšky."
           },
           "stops": [
             {
@@ -1979,7 +2132,8 @@
                 "de": "Überdachte Bushaltestellen.",
                 "hu": "Fedett buszmegállók.",
                 "ro": "Stații de autobuz acoperite.",
-                "en": "Covered bus stops."
+                "en": "Covered bus stops.",
+                "cs": "Zastávky s přístřeškem."
               }
             },
             {
@@ -1988,7 +2142,8 @@
                 "de": "Haltestelle in der Nähe.",
                 "hu": "Buszmegálló a közelben.",
                 "ro": "Stație în apropiere.",
-                "en": "Bus stop nearby."
+                "en": "Bus stop nearby.",
+                "cs": "Zastávka poblíž."
               }
             },
             {
@@ -1997,7 +2152,8 @@
                 "de": "Langer Aufenthalt im Trockenen.",
                 "hu": "Hosszú száraz tartózkodás.",
                 "ro": "Ședere lungă la uscat.",
-                "en": "Long stay in the dry."
+                "en": "Long stay in the dry.",
+                "cs": "Dlouhé pobyty v suchu."
               }
             },
             {
@@ -2006,7 +2162,8 @@
                 "de": "Kulturzentrum mit Busanschluss.",
                 "hu": "Kulturális központ buszcsatlakozással.",
                 "ro": "Centru cultural cu bus.",
-                "en": "Cultural center with bus link."
+                "en": "Cultural center with bus link.",
+                "cs": "Kulturní centrum s autobusovým spojením."
               }
             },
             {
@@ -2015,7 +2172,8 @@
                 "de": "Letzte Meter im Regen.",
                 "hu": "Utolsó méterek az esőben.",
                 "ro": "Ultimii metri în ploaie.",
-                "en": "Last meters in the rain."
+                "en": "Last meters in the rain.",
+                "cs": "Poslední metry v dešti."
               }
             }
           ],
@@ -2043,6 +2201,12 @@
               "Short walks between bus and destination.",
               "Day pass is worth it in the rain.",
               "Buses are usually punctual."
+            ],
+            "cs": [
+              "Použijte aplikaci jízdních řádů IDOS.",
+              "Krátké procházky mezi autobusem a cílem.",
+              "Celodenní jízdenka se v dešti vyplatí.",
+              "Autobusy jsou obvykle včas."
             ]
           }
         },
@@ -2051,7 +2215,8 @@
             "de": "Nutzen Sie die beheizten Busse für Ihre Wintertour. Nach dem Start am Hauptmarkt erreichen Sie bequem die Marienkirche. Die Schlösser Kinský und Žerotín bieten warme Ausstellungsräume und Cafés. Am späten Nachmittag bringt Sie der Transit zur Sternwarte, wo Sie den klaren Winterhimmel ohne langes Frieren im Freien genießen können.",
             "hu": "Használja a fűtött buszokat a téli túrához. A főtérről indulva kényelmesen elérheti a Szűz Mária templomot. A Kinský- és Žerotín-kastélyok meleg kiállítótereket és kávézókat kínálnak. Késő délután a tömegközlekedés közelebb viszi az obszervatóriumhoz, így fázás nélkül élvezheti a téli égbolt látványát.",
             "ro": "Folosiți autobuzele încălzite pentru turul de iarnă. Pornind din piață, ajungeți ușor la biserică. Castelele Kinský și Žerotín oferă expoziții calde și cafenele. După-amiaza târziu, transportul vă duce spre observator, unde vă puteți bucura de cerul senin fără a îngheța afară.",
-            "en": "Use heated buses for your winter tour. After starting at the Main Square, easily reach the Assumption Church. Kinský and Žerotín chateaus offer warm exhibition rooms and cafes. In the late afternoon, transit takes you closer to the observatory, letting you enjoy the clear winter sky without long periods in the cold."
+            "en": "Use heated buses for your winter tour. After starting at the Main Square, easily reach the Assumption Church. Kinský and Žerotín chateaus offer warm exhibition rooms and cafes. In the late afternoon, transit takes you closer to the observatory, letting you enjoy the clear winter sky without long periods in the cold.",
+            "cs": "Použijte vyhřívané autobusy pro zimní okruh. Po startu na Hlavním náměstí snadno dojdete ke Kostelu Nanebevzetí. Zámky Kinských a Žerotínů nabízejí teplé výstavní sály a kavárny. Pozdě odpoledne vás MHD doveze blíže k hvězdárně, takže si můžete užít čisté zimní nebe bez dlouhého pobytu v chladu."
           },
           "stops": [
             {
@@ -2060,7 +2225,8 @@
                 "de": "Haltestelle als Windschutz.",
                 "hu": "A megálló véd a széltől.",
                 "ro": "Stația protejează de vânt.",
-                "en": "Stop protects from wind."
+                "en": "Stop protects from wind.",
+                "cs": "Zastávka chrání před větrem."
               }
             },
             {
@@ -2069,7 +2235,8 @@
                 "de": "Kurzer Fußweg im Schnee.",
                 "hu": "Rövid gyalogút a hóban.",
                 "ro": "Scurt drum prin zăpadă.",
-                "en": "Short walk through snow."
+                "en": "Short walk through snow.",
+                "cs": "Krátká procházka sněhem."
               }
             },
             {
@@ -2078,7 +2245,8 @@
                 "de": "Aufwärmen zwischen Fahrten.",
                 "hu": "Melegedjen meg az utak között.",
                 "ro": "Încălziți-vă între călătorii.",
-                "en": "Warm up between rides."
+                "en": "Warm up between rides.",
+                "cs": "Ohřejte se mezi spoji."
               }
             },
             {
@@ -2087,7 +2255,8 @@
                 "de": "Heizung in den Innenräumen.",
                 "hu": "Fűtött belső terek.",
                 "ro": "Spații interioare încălzite.",
-                "en": "Heated indoor spaces."
+                "en": "Heated indoor spaces.",
+                "cs": "Vytápěné vnitřní prostory."
               }
             },
             {
@@ -2096,7 +2265,8 @@
                 "de": "Frühe Fahrt zur Beobachtung.",
                 "hu": "Korai járat a megfigyeléshez.",
                 "ro": "Cursă timpurie pentru observații.",
-                "en": "Early ride for observation."
+                "en": "Early ride for observation.",
+                "cs": "Časný spoj pro pozorování."
               }
             }
           ],
@@ -2124,6 +2294,12 @@
               "Check the winter schedule.",
               "Buses are well heated in winter.",
               "Use central transfer points."
+            ],
+            "cs": [
+              "Počkejte na autobus v interiéru, pokud je to možné.",
+              "Zkontrolujte zimní jízdní řád.",
+              "Autobusy jsou v zimě dobře vytápěné.",
+              "Používejte centrální přestupní body."
             ]
           }
         }
