@@ -21,7 +21,8 @@
             "de": "Burg Levice",
             "hu": "Lévai vár",
             "ro": "Castelul Levice",
-            "en": "Levice Castle"
+            "en": "Levice Castle",
+            "sk": "Levičiansky hrad"
           },
           "coords": [
             18.6033,
@@ -36,7 +37,8 @@
             "de": "Erkunden Sie die Ruinen und genießen Sie die Aussicht von den oberen Teilen.",
             "hu": "Fedezze fel a romokat, és élvezze a kilátást a vár felső részeiről.",
             "ro": "Explorați ruinele și bucurați-vă de priveliștea din părțile superioare.",
-            "en": "Explore the ruins and enjoy the view from the upper parts."
+            "en": "Explore the ruins and enjoy the view from the upper parts.",
+            "sk": "Preskúmajte ruiny a užite si výhľad z horných častí."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Tekov-Museum",
             "hu": "Tekov Múzeum",
             "ro": "Muzeul Tekov",
-            "en": "Tekov Museum"
+            "en": "Tekov Museum",
+            "sk": "Tekovské múzeum"
           },
           "coords": [
             18.6041,
@@ -59,7 +62,8 @@
             "de": "Konzentrieren Sie sich auf die archäologische Sammlung, sie ist die beeindruckendste.",
             "hu": "Koncentráljon a régészeti gyűjteményre, az a leglenyűgözőbb.",
             "ro": "Concentrați-vă pe colecția arheologică, este cea mai impresionantă.",
-            "en": "Focus on the archaeological collection; it's the most impressive."
+            "en": "Focus on the archaeological collection; it's the most impressive.",
+            "sk": "Sústredte sa na archeologickú zbierku; je najpôsobivejšia."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Kirche des Hl. Joseph",
             "hu": "Szent József-templom",
             "ro": "Biserica Sf. Iosif",
-            "en": "Church of St. Joseph"
+            "en": "Church of St. Joseph",
+            "sk": "Kostol sv. Jozefa"
           },
           "coords": [
             18.6075,
@@ -82,7 +87,8 @@
             "de": "Beachten Sie die barocken Altäre und die ruhige Atmosphäre im Inneren.",
             "hu": "Figyelje meg a barokk oltárokat és a benti csendes légkört.",
             "ro": "Observați altarele baroce și atmosfera liniștită din interior.",
-            "en": "Note the Baroque altars and the quiet atmosphere inside."
+            "en": "Note the Baroque altars and the quiet atmosphere inside.",
+            "sk": "Všímajte si barokové oltáre a tichú atmosféru vnútri."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Dreifaltigkeitssäule",
             "hu": "Szentháromság-oszlop",
             "ro": "Coloana Sfintei Treimi",
-            "en": "Holy Trinity Column"
+            "en": "Holy Trinity Column",
+            "sk": "Pilleria Svätej Trojice"
           },
           "coords": [
             18.6078,
@@ -105,7 +112,8 @@
             "de": "Ein perfekter Ort für ein Foto im Zentrum der Stadt, oft ein Treffpunkt.",
             "hu": "Tökéletes fotóhely a város központjában, gyakran találkozóhely.",
             "ro": "Un loc perfect pentru o fotografie în centrul orașului, adesea un punct de întâlnire.",
-            "en": "A perfect photo spot in the city center, often a meeting point."
+            "en": "A perfect photo spot in the city center, often a meeting point.",
+            "sk": "Perfektné miesto na fotku v centre mesta, často aj miesto stretnutia."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Synagoge Levice",
             "hu": "Lévai zsinagóga",
             "ro": "Sinagoga Levice",
-            "en": "Levice Synagogue"
+            "en": "Levice Synagogue",
+            "sk": "Levičianska synagóga"
           },
           "coords": [
             18.6085,
@@ -128,7 +137,8 @@
             "de": "Prüfen Sie, ob kulturelle Veranstaltungen oder Ausstellungen stattfinden.",
             "hu": "Ellenőrizze, hogy tartanak-e kulturális eseményeket vagy kiállításokat.",
             "ro": "Verificați dacă au loc evenimente culturale sau expoziții.",
-            "en": "Check if there are any cultural events or exhibitions taking place."
+            "en": "Check if there are any cultural events or exhibitions taking place.",
+            "sk": "Overte si, či sa nekonajú nejaké kultúrne podujatia alebo výstavy."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Kalvarienberg",
             "hu": "Kálvária-hegy",
             "ro": "Calvarul",
-            "en": "Calvary Hill"
+            "en": "Calvary Hill",
+            "sk": "Kalvária"
           },
           "coords": [
             18.5958,
@@ -151,7 +162,8 @@
             "de": "Der Aufstieg lohnt sich für die Panoramaaussicht über die Stadt.",
             "hu": "A panorámás kilátásért megéri felmenni a hegyre.",
             "ro": "Urcușul merită pentru vederea panoramică asupra orașului.",
-            "en": "The climb is worth it for the panoramic view over the city."
+            "en": "The climb is worth it for the panoramic view over the city.",
+            "sk": "Výstup stojí za to kvôli panoramatickému výhľadu na mesto."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Schoeller-Park",
             "hu": "Schoeller-park",
             "ro": "Parcul Schoeller",
-            "en": "Schoeller Park"
+            "en": "Schoeller Park",
+            "sk": "Schoellerov park"
           },
           "coords": [
             18.6145,
@@ -174,7 +187,8 @@
             "de": "Finden Sie eine ruhige Bank am Teich für eine entspannende Pause.",
             "hu": "Keressen egy csendes padot a tó mellett egy pihentető szünethez.",
             "ro": "Găsiți o bancă liniștită lângă iaz pentru o pauză relaxantă.",
-            "en": "Find a quiet bench by the pond for a relaxing break."
+            "en": "Find a quiet bench by the pond for a relaxing break.",
+            "sk": "Nájdite si tichú lavičku pri jazierku na odpočinok."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Ihr Tag in Levice beginnt mit einem historischen Eintauchen in die Burg Levice und das nahe gelegene Tekov-Museum. Am Morgen spüren Sie die Vergangenheit der Stadt, während Sie die alten Mauern und Artefakte erkunden.\nAm Mittag schlendern Sie ins Stadtzentrum, um die spirituelle Ruhe der St.-Josephs-Kirche und die architektonische Schönheit der Synagoge zu erleben, unterbrochen von einem kurzen Halt an der Dreifaltigkeitssäule. Dies ist die perfekte Zeit für ein lokales Mittagessen.\nDer Nachmittag ist für einen erfrischenden Aufstieg auf den Kalvarienberg reserviert, der Sie mit atemberaubenden Panoramablicken belohnt. Der Abstieg führt Sie in die friedliche Umarmung des Schoeller-Parks.\nLassen Sie den Tag in einem der charmanten Cafés oder Restaurants der Stadt ausklingen und denken Sie über die reiche Geschichte und die ruhige Natur nach, die Levice zu bieten hat. Ein perfekter Abschluss für einen Tag voller Entdeckungen.",
         "hu": "A lévai nap a történelmi Lévai vár és a közeli Tekov Múzeum meglátogatásával kezdődik. Reggel a város múltját érezheti, miközben felfedezi az ősi falakat és leleteket.\nDélben sétáljon be a városközpontba, hogy megtapasztalja a Szent József-templom spirituális nyugalmát és a zsinagóga építészeti szépségét, megszakítva egy rövid megállóval a Szentháromság-oszlopnál. Itt az ideje egy helyi ebédnek.\nA délután a Kálvária-hegyre való frissítő kapaszkodásra van fenntartva, amely lélegzetelállító panorámával jutalmazza. A leereszkedés a Schoeller-park békés ölelésébe vezet.\nZárja a napot a város egyik hangulatos kávézójában vagy éttermében, elmélkedve a gazdag történelemről és a csendes természetről, amelyet Léva kínál. Tökéletes befejezése egy felfedezéssel teli napnak.",
         "ro": "Ziua dvs. în Levice începe cu o imersiune istorică la Castelul Levice și la Muzeul Tekov din apropiere. Dimineața veți simți trecutul orașului în timp ce explorați zidurile și artefactele antice.\nLa amiază, plimbați-vă în centrul orașului pentru a experimenta liniștea spirituală a Bisericii Sf. Iosif și frumusețea arhitecturală a Sinagogii, punctate de o oprire rapidă la Coloana Sfintei Treimi. Acesta este momentul perfect pentru un prânz local.\nDupă-amiaza este rezervată pentru o urcare revigorantă pe Dealul Calvarului, care vă va răsplăti cu vederi panoramice uluitoare. Coborârea vă va conduce în îmbrățișarea pașnică a Parcului Schoeller.\nÎncheiați ziua într-una dintre cafenelele sau restaurantele fermecătoare ale orașului, reflectând la istoria bogată și natura liniștită pe care Levice le are de oferit. O încheiere perfectă pentru o zi de explorare.",
-        "en": "Your day in Levice begins with a historical immersion at Levice Castle and the nearby Tekov Museum. In the morning, you'll feel the town's past as you explore the ancient walls and artifacts.\nAt midday, stroll into the city center to experience the spiritual calm of the Church of St. Joseph and the architectural beauty of the Synagogue, punctuated by a quick stop at the Holy Trinity Column. This is the perfect time for a local lunch.\nThe afternoon is reserved for a refreshing climb up Calvary Hill, which will reward you with breathtaking panoramic views. The descent will lead you into the peaceful embrace of Schoeller Park.\nConclude your day at one of the city's charming cafes or restaurants, reflecting on the rich history and serene nature Levice has to offer. A perfect end to a day of exploration."
+        "en": "Your day in Levice begins with a historical immersion at Levice Castle and the nearby Tekov Museum. In the morning, you'll feel the town's past as you explore the ancient walls and artifacts.\nAt midday, stroll into the city center to experience the spiritual calm of the Church of St. Joseph and the architectural beauty of the Synagogue, punctuated by a quick stop at the Holy Trinity Column. This is the perfect time for a local lunch.\nThe afternoon is reserved for a refreshing climb up Calvary Hill, which will reward you with breathtaking panoramic views. The descent will lead you into the peaceful embrace of Schoeller Park.\nConclude your day at one of the city's charming cafes or restaurants, reflecting on the rich history and serene nature Levice has to offer. A perfect end to a day of exploration.",
+        "sk": "Váš deň v Leviciach začína historickým ponorením sa v Levičianskom hrade a v blízkom Tekovskom múzeu. Ráno pocítite atmosféru minulosti mesta pri objavovaní starých hradieb a artefaktov.\nV poludnie prejdite do centra mesta, aby ste zažili duchovný pokoj Kostola sv. Jozefa a architektonickú krásu synagógy, s krátkou zastávkou pri Pilieri Svätej Trojice. Je to ideálny čas na miestny obed.\nPopoludnie je vyhradené pre osviežujúci výstup na Kalváriu, ktorý vás odmení dychberúcimi panoramatickými výhľadmi. Zostup vás zavedie do pokojného objatia Schoellerovho parku.\nDeň zakončite v jednej z čarovných kaviarní alebo reštaurácií v meste, rozjímajúc nad bohatou históriou a pokojným prostredím, ktoré Levice ponúkajú. Perfektný záver dňa plného objavovania."
       },
       "gastro_picks": {
         "de": [
@@ -378,6 +393,12 @@
           "Start early at the castle to avoid crowds.",
           "The climb to Calvary Hill is steep but short.",
           "Check museum opening times, especially on Mondays."
+        ],
+        "sk": [
+          "Noste pohodlnú obuv, budete veľa chodiť.",
+          "Začnite skoro na hrade, aby ste sa vyhli davom.",
+          "Výstup na Kalváriu je strmý, ale krátky.",
+          "Skontrolujte otváracie hodiny múzeí, najmä v pondelok."
         ]
       },
       "variants": {
@@ -386,7 +407,8 @@
             "de": "Morgens bietet das Tekov-Museum im Schloss sicheren Schutz vor Regen. Mittags erkunden Sie die Kirchen im Stadtzentrum und finden trockene Plätze in Cafés. Nachmittags ist die Synagoge ein idealer kultureller Rückzugsort im Trockenen. Den Tag beenden Sie mit einem kurzen Spaziergang im Schoeller-Park, dessen dichte Bäume leichten Schutz bieten.",
             "hu": "A reggelt a lévai várban és a Tekov múzeum fedett kiállításain érdemes tölteni. Délben a belváros templomai és vendéglátóhelyei nyújtanak menedéket az eső elől. Délután a zsinagóga belső tere tökéletes helyszín a kultúrához. A napot a Schoeller-parkban zárhatjuk, ahol a fák lombjai némi védelmet adnak a szemerkélő esőben.",
             "ro": "Dimineața, Muzeul Tekov din incinta castelului vă oferă un adăpost excelent împotriva ploii. La prânz, bisericile din centru și cafenelele locale sunt locuri primitoare și uscate. După-amiaza, interiorul sinagogii este ideal pentru explorare culturală. Seara, parcul Schoeller oferă o atmosferă melancolică sub protecția parțială a copacilor.",
-            "en": "Start your morning inside the Tekov Museum at the castle to stay dry. At noon, the city center's churches and cafes provide a perfect sanctuary from the rain. Spend your afternoon admiring the synagogue's interior away from the wet weather. End the day with a short walk in Schoeller Park, where the dense canopy offers some shelter."
+            "en": "Start your morning inside the Tekov Museum at the castle to stay dry. At noon, the city center's churches and cafes provide a perfect sanctuary from the rain. Spend your afternoon admiring the synagogue's interior away from the wet weather. End the day with a short walk in Schoeller Park, where the dense canopy offers some shelter.",
+            "sk": "Ráno začnite vnútri v Tekovskom múzeu na hrade, aby ste zostali v suchu. Na poludnie poskytujú kostoly a kaviarne v centre mesta dokonalé útočisko pred dažďom. Popoludnie strávte obdivovaním interiéru synagógy mimo dažďa. Deň zakončite krátkou prechádzkou v Schoellerovom parku, kde hustý stromový porast poskytuje čiastočný úkryt."
           },
           "stops": [
             {
@@ -395,7 +417,8 @@
                 "de": "Nutzen Sie den überdachten Rundgang und die Innenräume.",
                 "hu": "Használja a vár fedett körfolyosóit és belső termeit.",
                 "ro": "Folosiți galeriile acoperite și sălile interioare.",
-                "en": "Utilize the covered walkways and interior exhibition halls."
+                "en": "Utilize the covered walkways and interior exhibition halls.",
+                "sk": "Využite kryté chodníky a vnútorné výstavné sály."
               }
             },
             {
@@ -404,7 +427,8 @@
                 "de": "Perfekt für regnerische Stunden mit viel Geschichte.",
                 "hu": "Ideális helyszín az esős órák eltöltéséhez.",
                 "ro": "Perfect pentru orele ploioase, cu multă istorie.",
-                "en": "Perfect place to spend rainy hours exploring history."
+                "en": "Perfect place to spend rainy hours exploring history.",
+                "sk": "Perfektné miesto na presedenie daždivých hodín pri objavovaní histórie."
               }
             },
             {
@@ -413,7 +437,8 @@
                 "de": "Ein ruhiger, trockener Ort für Besinnung.",
                 "hu": "Csendes és száraz hely az elcsendesedéshez.",
                 "ro": "Un loc liniștit și uscat pentru reculegere.",
-                "en": "A quiet, dry place for reflection and shelter."
+                "en": "A quiet, dry place for reflection and shelter.",
+                "sk": "Tiché, suché miesto na rozjímanie a úkryt."
               }
             },
             {
@@ -422,7 +447,8 @@
                 "de": "Kurzer Fotostopp unter dem Regenschirm.",
                 "hu": "Csak egy rövid fotómegálló az esernyő alatt.",
                 "ro": "O scurtă oprire pentru poze sub umbrelă.",
-                "en": "A quick photo stop under your umbrella."
+                "en": "A quick photo stop under your umbrella.",
+                "sk": "Krátka fotozastávka pod dáždnikom."
               }
             },
             {
@@ -431,7 +457,8 @@
                 "de": "Genießen Sie die Akustik im geschlossenen Raum.",
                 "hu": "Élvezze a belső tér akusztikáját és látványát.",
                 "ro": "Bucurați-vă de acustica în spațiul închis.",
-                "en": "Enjoy the acoustics in the beautiful indoor space."
+                "en": "Enjoy the acoustics in the beautiful indoor space.",
+                "sk": "Užite si akustiku v krásnom vnútornom priestore."
               }
             },
             {
@@ -440,7 +467,8 @@
                 "de": "Vorsicht, die Stufen können rutschig sein.",
                 "hu": "Vigyázat, a lépcsők és az út csúszós lehet.",
                 "ro": "Atenție, treptele pot fi alunecoase pe ploaie.",
-                "en": "Be careful, the steps and paths can be slippery."
+                "en": "Be careful, the steps and paths can be slippery.",
+                "sk": "Buďte opatrní, schody a cestičky môžu byť klzké."
               }
             },
             {
@@ -449,7 +477,8 @@
                 "de": "Die Teiche wirken bei Regen besonders ruhig.",
                 "hu": "A tavak látványa esőben is megnyugtató.",
                 "ro": "Iazurile par deosebit de liniștite pe ploaie.",
-                "en": "The ponds look particularly peaceful in the rain."
+                "en": "The ponds look particularly peaceful in the rain.",
+                "sk": "Jazierka v daždi pôsobia obzvlášť pokojne."
               }
             }
           ],
@@ -477,6 +506,12 @@
               "Museums might be closed on Mondays, check schedules in advance.",
               "Take advantage of the cafes near the synagogue for breaks.",
               "A sturdy umbrella is advised due to wind on the hill."
+            ],
+            "sk": [
+              "Noste nepremokavú obuv na prechádzku na Kalváriu.",
+              "Múzeá môžu byť v pondelok zatvorené, vopred skontrolujte otváracie hodiny.",
+              "Využite kaviarne pri synagóge na prestávky.",
+              "Odporúča sa pevný dáždnik kvôli vetru na kopci."
             ]
           }
         },
@@ -485,7 +520,8 @@
             "de": "Der Wintermorgen am Schloss ist oft frostig und malerisch. Mittags wärmen Sie sich im Tekov-Museum oder in den Kirchen der Stadt auf. Der Nachmittag in der Synagoge bietet Schutz vor der Kälte und kulturelle Einblicke. Da es früh dunkel wird, genießen Sie die beleuchtete Atmosphäre im Schoeller-Park am späten Nachmittag.",
             "hu": "A téli reggel a lévai vár falai között igazi időutazás. Délben a Tekov múzeum fűtött termeiben vagy a belváros templomaiban melegedhetünk fel. A délutáni zsinagógalátogatás védelmet nyújt a hideg szél ellen. Mivel korán sötétedik, a Schoeller-parkot már a lemenő nap fényeiben vagy esti kivilágításban láthatjuk.",
             "ro": "Dimineața de iarnă la castel este adesea geroasă și pitorească. La prânz, vă puteți încălzi în interiorul Muzeului Tekov sau în bisericile din oraș. După-amiaza la sinagogă oferă protecție împotriva frigului și perspective culturale. Deoarece se întunecă devreme, bucurați-vă de atmosfera parcului Schoeller la apus.",
-            "en": "A winter morning at the castle is often frosty and picturesque. Warm up at noon inside the Tekov Museum or the local churches. Spend your afternoon in the sheltered synagogue to escape the cold wind. Since the sun sets early, enjoy the twilight atmosphere in Schoeller Park in the late afternoon."
+            "en": "A winter morning at the castle is often frosty and picturesque. Warm up at noon inside the Tekov Museum or the local churches. Spend your afternoon in the sheltered synagogue to escape the cold wind. Since the sun sets early, enjoy the twilight atmosphere in Schoeller Park in the late afternoon.",
+            "sk": "Zimné ráno na hrade je často mrazivé a malebné. Na poludnie sa zohrejte v Tekovskom múzeu alebo v miestnych kostoloch. Popoludnie strávte v úzkom úkryte synagógy, aby ste unikli studenému vetru. Keďže slnko zapadá skoro, popoludní si vychutnajte súmrak v Schoellerovom parku."
           },
           "stops": [
             {
@@ -494,7 +530,8 @@
                 "de": "Tragen Sie warme Schichten für den Außenbereich.",
                 "hu": "Öltözzön rétegesen a várudvar megtekintéséhez.",
                 "ro": "Purtați haine groase pentru exteriorul castelului.",
-                "en": "Dress in warm layers for the outdoor castle grounds."
+                "en": "Dress in warm layers for the outdoor castle grounds.",
+                "sk": "Oblečte sa do vrstiev, keďže vonkajšie hradné priestory sú chladné."
               }
             },
             {
@@ -503,7 +540,8 @@
                 "de": "Ein gut geheizter Ort, um Geschichte zu genießen.",
                 "hu": "Kellemesen fűtött hely a történelem megismeréséhez.",
                 "ro": "Un loc bine încălzit pentru a savura istoria.",
-                "en": "A well-heated place to enjoy local history."
+                "en": "A well-heated place to enjoy local history.",
+                "sk": "Dobre vykurované miesto na vychutnanie miestnej histórie."
               }
             },
             {
@@ -512,7 +550,8 @@
                 "de": "Achten Sie auf die beeindruckende Krippe im Winter.",
                 "hu": "Nézze meg az ünnepi betlehemet a téli időszakban.",
                 "ro": "Admirați ieslea de Crăciun în timpul iernii.",
-                "en": "Look for the traditional nativity scene in winter."
+                "en": "Look for the traditional nativity scene in winter.",
+                "sk": "Hľadajte tradičný betlehem v zime."
               }
             },
             {
@@ -521,7 +560,8 @@
                 "de": "Kurzer Aufenthalt, der Platz ist oft windig.",
                 "hu": "Csak rövid megálló, a tér télen szeles lehet.",
                 "ro": "Oprire scurtă, piața este adesea vântoasă.",
-                "en": "Keep it brief, the square is often windy in winter."
+                "en": "Keep it brief, the square is often windy in winter.",
+                "sk": "Držte to krátko, námestie je v zime často veterné."
               }
             },
             {
@@ -530,7 +570,8 @@
                 "de": "Die Architektur wirkt im Winterlicht besonders.",
                 "hu": "Az építészet a téli fényekben különleges arcát mutatja.",
                 "ro": "Arhitectura arată deosebit în lumina iernii.",
-                "en": "The architecture looks striking in the winter light."
+                "en": "The architecture looks striking in the winter light.",
+                "sk": "Architektúra v zimnom svetle pôsobí výrazne."
               }
             },
             {
@@ -539,7 +580,8 @@
                 "de": "Bester Platz für den Sonnenuntergang um 16 Uhr.",
                 "hu": "A legjobb hely a naplemente nézéséhez 16 órakor.",
                 "ro": "Cel mai bun loc pentru apusul de la ora 16:00.",
-                "en": "Best spot to catch the early sunset around 4 PM."
+                "en": "Best spot to catch the early sunset around 4 PM.",
+                "sk": "Najlepšie miesto na skorý západ slnka okolo 16:00."
               }
             },
             {
@@ -548,7 +590,8 @@
                 "de": "Vorsicht vor vereisten Wegen an den Teichen.",
                 "hu": "Vigyázzon a tavak környékén a jeges utakra.",
                 "ro": "Atenție la aleile înghețate de lângă iazuri.",
-                "en": "Watch out for icy patches on the paths near the ponds."
+                "en": "Watch out for icy patches on the paths near the ponds.",
+                "sk": "Dávajte pozor na ľadové miesta na cestičkách pri jazierkach."
               }
             }
           ],
@@ -576,6 +619,12 @@
               "A hot tea in the cafes at the main square is highly recommended.",
               "Wear shoes with good grip for the walk up to Calvary.",
               "Check for shortened winter opening hours at museums."
+            ],
+            "sk": [
+              "V decembri je západ slnka už okolo 16:00.",
+              "Vrelo odporúčame horúci čaj v kaviarňach na hlavnom námestí.",
+              "Noste obuv s dobrým členiteľom pre výstup na Kalváriu.",
+              "Skontrolujte skrátené zimné otváracie hodiny múzeí."
             ]
           }
         }
@@ -594,7 +643,8 @@
             "de": "Margita-Ilona",
             "hu": "Margita-Ilona",
             "ro": "Margita-Ilona",
-            "en": "Margita-Ilona"
+            "en": "Margita-Ilona",
+            "sk": "Margita-Ilona"
           },
           "coords": [
             18.6698,
@@ -609,7 +659,8 @@
             "de": "Genießen Sie die Natur und die Freizeiteinrichtungen, ideal für einen Start in den Tag.",
             "hu": "Élvezze a természetet és a szabadidős létesítményeket, ideális a napkezdéshez.",
             "ro": "Bucurați-vă de natură și de facilitățile de agrement, ideale pentru a începe ziua.",
-            "en": "Enjoy nature and the leisure facilities, ideal for starting the day."
+            "en": "Enjoy nature and the leisure facilities, ideal for starting the day.",
+            "sk": "Užite si prírodu a rekreačné zariadenia, ideálne na začiatok dňa."
           }
         },
         {
@@ -617,7 +668,8 @@
             "de": "Kalvarienberg",
             "hu": "Kálvária-hegy",
             "ro": "Calvarul",
-            "en": "Calvary Hill"
+            "en": "Calvary Hill",
+            "sk": "Kalvária"
           },
           "coords": [
             18.5958,
@@ -632,7 +684,8 @@
             "de": "Schließen Sie Ihr Fahrrad am Fuß des Hügels ab und machen Sie den kurzen Aufstieg.",
             "hu": "Zárja le a kerékpárt a hegy lábánál, és tegye meg a rövid emelkedőt.",
             "ro": "Lăsați bicicleta la baza dealului și faceți scurta urcare.",
-            "en": "Lock your bike at the bottom of the hill and make the short climb."
+            "en": "Lock your bike at the bottom of the hill and make the short climb.",
+            "sk": "Zamknite bicykel pri úpätí kopca a urobte krátky výstup."
           }
         },
         {
@@ -640,7 +693,8 @@
             "de": "Burg Levice",
             "hu": "Lévai vár",
             "ro": "Castelul Levice",
-            "en": "Levice Castle"
+            "en": "Levice Castle",
+            "sk": "Levičiansky hrad"
           },
           "coords": [
             18.6033,
@@ -655,7 +709,8 @@
             "de": "Das Fahrrad abstellen und das Burggelände und das Museum erkunden.",
             "hu": "Parkolja le a kerékpárt, és fedezze fel a vár területét és a múzeumot.",
             "ro": "Parcați bicicleta și explorați terenul castelului și muzeul.",
-            "en": "Park the bike and explore the castle grounds and museum."
+            "en": "Park the bike and explore the castle grounds and museum.",
+            "sk": "Zaparkujte bicykel a preskúmajte hradné areály a múzeum."
           }
         },
         {
@@ -663,7 +718,8 @@
             "de": "Kirche des Hl. Joseph",
             "hu": "Szent József-templom",
             "ro": "Biserica Sf. Iosif",
-            "en": "Church of St. Joseph"
+            "en": "Church of St. Joseph",
+            "sk": "Kostol sv. Jozefa"
           },
           "coords": [
             18.6075,
@@ -678,7 +734,8 @@
             "de": "Ein kurzer, besinnlicher Halt auf Ihrer Radtour durch die Stadt.",
             "hu": "Egy rövid, elmélkedő megálló a városi kerékpártúrán.",
             "ro": "O oprire scurtă și contemplativă în turul cu bicicleta prin oraș.",
-            "en": "A short, contemplative stop on your bike tour of the city."
+            "en": "A short, contemplative stop on your bike tour of the city.",
+            "sk": "Krátka, kontemplatívna zastávka počas vašej cyklotúry po meste."
           }
         },
         {
@@ -686,7 +743,8 @@
             "de": "Dreifaltigkeitssäule & Synagoge",
             "hu": "Szentháromság-oszlop és Zsinagóga",
             "ro": "Coloana Sfintei Treimi și Sinagoga",
-            "en": "Trinity Column & Synagogue"
+            "en": "Trinity Column & Synagogue",
+            "sk": "Pilier Svätej Trojice a synagóga"
           },
           "coords": [
             18.6081,
@@ -701,7 +759,8 @@
             "de": "Diese beiden Sehenswürdigkeiten liegen nahe beieinander im Herzen des Zentrums.",
             "hu": "Ez a két látnivaló közel van egymáshoz a központ szívében.",
             "ro": "Aceste două obiective sunt apropiate unul de celălalt, în inima centrului.",
-            "en": "These two sights are close together in the heart of the center."
+            "en": "These two sights are close together in the heart of the center.",
+            "sk": "Tieto dve pamiatky sú blízko seba v srdci centra."
           }
         },
         {
@@ -709,7 +768,8 @@
             "de": "Schoeller-Park",
             "hu": "Schoeller-park",
             "ro": "Parcul Schoeller",
-            "en": "Schoeller Park"
+            "en": "Schoeller Park",
+            "sk": "Schoellerov park"
           },
           "coords": [
             18.6145,
@@ -724,7 +784,8 @@
             "de": "Fahren Sie gemütlich durch den Park und machen Sie eine Pause am Wasser.",
             "hu": "Tekerjen kényelmesen a parkon keresztül, és tartson szünetet a vízparton.",
             "ro": "Pedalați agale prin parc și faceți o pauză lângă apă.",
-            "en": "Cycle leisurely through the park and take a break by the water."
+            "en": "Cycle leisurely through the park and take a break by the water.",
+            "sk": "Pomaly prejdite parkom na bicykli a oddýchnite si pri vode."
           }
         },
         {
@@ -732,7 +793,8 @@
             "de": "Tekov-Museum",
             "hu": "Tekov Múzeum",
             "ro": "Muzeul Tekov",
-            "en": "Tekov Museum"
+            "en": "Tekov Museum",
+            "sk": "Tekovské múzeum"
           },
           "coords": [
             18.6041,
@@ -747,7 +809,8 @@
             "de": "Beenden Sie Ihre Tour hier, um die regionale Geschichte aufzunehmen.",
             "hu": "Fejezze be itt a túrát, hogy elmélyüljön a regionális történelemben.",
             "ro": "Încheiați-vă turul aici pentru a absorbi istoria regională.",
-            "en": "End your tour here to absorb the regional history."
+            "en": "End your tour here to absorb the regional history.",
+            "sk": "Ukončite tu svoju prehliadku, aby ste vstrebali regionálnu históriu."
           }
         }
       ],
@@ -755,7 +818,8 @@
         "de": "Beginnen Sie Ihren Radtag mit einer belebenden Fahrt zum Erholungsgebiet Margita-Ilona, wo Sie die morgendliche Frische der Natur genießen.\nFahren Sie zurück in Richtung Stadt und nehmen Sie die Herausforderung des Kalvarienbergs an, der Panoramablicke bietet, bevor Sie zum historischen Kern von Levice hinabsteigen, um die Burg zu erkunden. Dies ist eine gute Zeit für eine Mittagspause in der Nähe.\nDer Nachmittag ist eine gemütliche Radtour durch das Stadtzentrum, bei der Sie die St.-Josephs-Kirche, die Dreifaltigkeitssäule und die Synagoge besuchen. Anschließend können Sie im Schoeller-Park entspannen.\nBeenden Sie Ihren Tag mit einem kulturellen Besuch im Tekov-Museum, das sich praktischerweise in der Nähe der Burg befindet. Ein perfekter Abschluss, um die Geschichte und die Landschaft von Levice an einem aktiven Tag zu verbinden.",
         "hu": "Kezdje a kerékpáros napot egy élénkítő tekeréssel a Margita-Ilona üdülőterületre, ahol élvezheti a reggeli természet frissességét.\nTekerjen vissza a város felé, hogy megküzdjön a Kálvária-hegy kihívásával, amely panorámás kilátást kínál, mielőtt leereszkedne Léva történelmi magjába, a várhoz. Ez egy jó alkalom egy közeli ebédre.\nA délután egy kényelmes biciklizés a városközpontban, érintve a Szent József-templomot, a Szentháromság-oszlopot és a zsinagógát, majd egy pihentető kör a Schoeller-parkban.\nZárja a napot egy kulturális látogatással a Tekov Múzeumban, amely kényelmesen a vár közelében található. Tökéletes befejezés, amely ötvözi a történelmet és a tájat egy aktív nap során.",
         "ro": "Începeți ziua pe bicicletă cu o plimbare revigorantă spre zona de agrement Margita-Ilona, bucurându-vă de prospețimea naturii dimineața.\nPedalați înapoi spre oraș pentru a înfrunta provocarea Dealului Calvarului pentru vederi panoramice, înainte de a coborî spre nucleul istoric al orașului Levice pentru a explora castelul. Acesta este un moment bun pentru o pauză de prânz în apropiere.\nDupă-amiaza este o plimbare lejeră cu bicicleta prin centrul orașului, vizitând Biserica Sf. Iosif, Coloana Sfintei Treimi și Sinagoga, urmată de o tură relaxantă prin Parcul Schoeller.\nÎncheiați-vă ziua cu o vizită culturală la Muzeul Tekov, situat convenabil lângă castel. O modalitate perfectă de a combina istoria și peisajul într-o singură zi activă.",
-        "en": "Start your cycling day with an invigorating ride to the Margita-Ilona recreational area, enjoying the morning freshness of nature.\nPedal back towards town to tackle the challenge of Calvary Hill for panoramic views before descending to Levice's historic core to explore the castle. This is a good time for a lunch break nearby.\nThe afternoon is a leisurely cycle through the city center, taking in the Church of St. Joseph, the Trinity Column, and the Synagogue, followed by a relaxing loop in Schoeller Park.\nConclude your day with a cultural visit to the Tekov Museum, conveniently located near the castle. A perfect way to combine history and scenery in one active day."
+        "en": "Start your cycling day with an invigorating ride to the Margita-Ilona recreational area, enjoying the morning freshness of nature.\nPedal back towards town to tackle the challenge of Calvary Hill for panoramic views before descending to Levice's historic core to explore the castle. This is a good time for a lunch break nearby.\nThe afternoon is a leisurely cycle through the city center, taking in the Church of St. Joseph, the Trinity Column, and the Synagogue, followed by a relaxing loop in Schoeller Park.\nConclude your day with a cultural visit to the Tekov Museum, conveniently located near the castle. A perfect way to combine history and scenery in one active day.",
+        "sk": "Začnite cyklistický deň povzbudzujúcou jazdou do rekreačnej oblasti Margita-Ilona a užite si rannú sviežosť prírody.\nPedálmi sa vráťte smerom do mesta a zdolajte výzvu Kalvárie kvôli panoramatickým výhľadom, pred zostupom do historického jadra Levíc na preskúmanie hradu. Je to vhodný čas na obed v okolí.\nPopoludnie je oddychová jazda mestom, počas ktorej uvidíte Kostol sv. Jozefa, Pilier Svätej Trojice a synagógu, po ktorej nasleduje relaxačná okružná jazda v Schoellerovom parku.\nDeň zakončite kultúrnou návštevou Tekovského múzea, ktoré je prakticky pri hrade. Perfektný spôsob, ako skĺbiť históriu a scenériu v jednom aktívnom dni."
       },
       "gastro_picks": {
         "de": [
@@ -951,6 +1015,12 @@
           "Bring a bottle of water, especially for the ride to Margita-Ilona.",
           "Be prepared for some hills, particularly around Calvary Hill.",
           "Lock your bike in secure places when visiting sights."
+        ],
+        "sk": [
+          "Skontrolujte bicykel pred vyrazím, hlavne brzdy a pneumatiky.",
+          "Vezmite si fľašu vody, najmä na jazdu do Margita-Ilona.",
+          "Pripravte sa na niekoľko kopcov, najmä v okolí Kalvárie.",
+          "Zamykajte bicykel na bezpečných miestach pri návšteve pamiatok."
         ]
       },
       "variants": {
@@ -959,7 +1029,8 @@
             "de": "Ein regnerischer Tag beginnt bei Margita-Ilona, wo Sie sich kurz unterstellen können. Die Fahrt zum Kalvarienberg erfordert Vorsicht auf nassen Straßen. Mittags bieten das Schloss und das Museum sicheren Schutz und Wärme. Den Nachmittag verbringen Sie im Stadtzentrum zwischen Synagoge und Cafés, bevor Sie den Tag im Park ausklingen lassen.",
             "hu": "A kerékpáros nap a Margita-Ilonánál indul, ahol fedett pihenőket kereshetünk. A kálváriára vezető út esőben fokozott figyelmet igényel a csúszós aszfalton. Délben a vár és a múzeum kínál száraz menedéket. A délutánt a belváros látnivalói és kávézói között tölthetjük, elkerülve a nagyobb zuhét.",
             "ro": "O zi ploioasă începe la Margita-Ilona, unde puteți găsi adăpost temporar. Drumul spre Calvar necesită prudență pe carosabilul umed. La prânz, castelul și muzeul oferă protecție sigură. După-amiaza este dedicată centrului orașului, între sinagogă și cafenele, înainte de a încheia ziua în parc.",
-            "en": "A rainy bike day starts at Margita-Ilona, where you can find covered rest areas. The ride to Calvary Hill requires extra caution on wet surfaces. At noon, the castle and museum offer reliable shelter and warmth. Spend your afternoon in the city center between the synagogue and cafes to avoid the heaviest rain."
+            "en": "A rainy bike day starts at Margita-Ilona, where you can find covered rest areas. The ride to Calvary Hill requires extra caution on wet surfaces. At noon, the castle and museum offer reliable shelter and warmth. Spend your afternoon in the city center between the synagogue and cafes to avoid the heaviest rain.",
+            "sk": "Daždivý cyklistický deň začína na Margita-Ilona, kde sú kryté oddychové zóny. Jazda na Kalváriu vyžaduje extra opatrnosť na mokrých povrchoch. Na poludnie ponúknu hrad a múzeum spoľahlivý úkryt a teplo. Popoludnie strávte v centre mesta medzi synagógou a kaviarňami, aby ste sa vyhli najsilnejšiemu dažďu."
           },
           "stops": [
             {
@@ -968,7 +1039,8 @@
                 "de": "Suchen Sie Schutz in den Cafés der Anlage.",
                 "hu": "Keressen menedéket a terület kávézóiban.",
                 "ro": "Căutați adăpost în cafenelele din incintă.",
-                "en": "Look for shelter in the cafes within the complex."
+                "en": "Look for shelter in the cafes within the complex.",
+                "sk": "Hľadajte úkryt v kaviarňach v areáli."
               }
             },
             {
@@ -977,7 +1049,8 @@
                 "de": "Fahren Sie bergab besonders vorsichtig.",
                 "hu": "Lefelé menet legyen nagyon óvatos a lejtőn.",
                 "ro": "Coborâți panta cu foarte mare atenție.",
-                "en": "Be extremely careful when cycling downhill."
+                "en": "Be extremely careful when cycling downhill.",
+                "sk": "Buďte mimoriadne opatrní pri jazde z kopca."
               }
             },
             {
@@ -986,7 +1059,8 @@
                 "de": "Überdachte Fahrradständer sind am Eingang vorhanden.",
                 "hu": "Fedett kerékpártárolók a bejáratnál elérhetőek.",
                 "ro": "Suporturi de biciclete acoperite sunt la intrare.",
-                "en": "Covered bike racks are available at the entrance."
+                "en": "Covered bike racks are available at the entrance.",
+                "sk": "Kryté stojany na bicykle sú k dispozícii pri vchode."
               }
             },
             {
@@ -995,7 +1069,8 @@
                 "de": "Ein kurzer, trockener Stopp in der Stadt.",
                 "hu": "Rövid, száraz megálló a város szívében.",
                 "ro": "O oprire scurtă și uscată în inima orașului.",
-                "en": "A brief, dry stop in the heart of the city."
+                "en": "A brief, dry stop in the heart of the city.",
+                "sk": "Krátka, suchá zastávka v srdci mesta."
               }
             },
             {
@@ -1004,7 +1079,8 @@
                 "de": "Die Synagoge bietet langen Schutz vor Regen.",
                 "hu": "A zsinagóga hosszas menedéket nyújt az eső elől.",
                 "ro": "Sinagoga oferă adăpost prelungit contra ploii.",
-                "en": "The synagogue provides a long shelter from the rain."
+                "en": "The synagogue provides a long shelter from the rain.",
+                "sk": "Synagóga poskytuje dlhý úkryt pred dažďom."
               }
             },
             {
@@ -1013,7 +1089,8 @@
                 "de": "Meiden Sie unbefestigte Wege bei starkem Regen.",
                 "hu": "Kerülje a földutakat heves esőzés idején.",
                 "ro": "Evitați potecile neasfaltate pe ploaie torențială.",
-                "en": "Avoid unpaved paths during heavy rainfall."
+                "en": "Avoid unpaved paths during heavy rainfall.",
+                "sk": "Vyhnite sa nespevneným cestám počas silného dažďa."
               }
             },
             {
@@ -1022,7 +1099,8 @@
                 "de": "Idealer Ort, um Kleidung etwas zu trocknen.",
                 "hu": "Ideális hely a ruházat megszárításához.",
                 "ro": "Loc ideal pentru a vă usca puțin hainele.",
-                "en": "Ideal spot to dry off your gear slightly."
+                "en": "Ideal spot to dry off your gear slightly.",
+                "sk": "Ideálne miesto na čiastočné vysušenie výstroja."
               }
             }
           ],
@@ -1050,6 +1128,12 @@
               "Avoid cobblestone sections when they are wet.",
               "Wear a high-visibility waterproof jacket.",
               "Brake earlier than usual on slippery roads."
+            ],
+            "sk": [
+              "Uistite sa, že používate blatníky na bicykli.",
+              "Vyhýbajte sa dlažobným úsekom, keď sú mokré.",
+              "Noste reflexnú nepremokavú bundu s vysokou viditeľnosťou.",
+              "Brzdite skôr než zvyčajne na šmykľavých cestách."
             ]
           }
         },
@@ -1058,7 +1142,8 @@
             "de": "Starten Sie warm eingepackt bei Margita-Ilona in den Wintertag. Die Auffahrt zum Kalvarienberg belohnt Sie mit klarer Winterluft und Fernsicht. Mittags bieten das Schloss und das Tekov-Museum angenehme Wärme. Nachmittags erkunden Sie das Stadtzentrum, bevor Sie Ihre Tour bei Sonnenuntergang im Schoeller-Park abschließen.",
             "hu": "Kezdje a téli napot melegen felöltözve a Margita-Ilonánál. A kálváriára való feltekerés a friss téli levegővel és tiszta kilátással jutalmazza. Délben a lévai vár és a Tekov múzeum falai között melegedhetünk. Délután a belváros és a zsinagóga vár, majd naplementekor a Schoeller-parkban zárjuk a túrát.",
             "ro": "Începeți ziua de iarnă bine echipat la Margita-Ilona. Urcarea spre Calvar vă răsplătește cu aer curat și vizibilitate bună. La prânz, castelul și Muzeul Tekov oferă o căldură binevenită. După-amiaza explorați centrul orașului, înainte de a încheia turul în parcul Schoeller la apus.",
-            "en": "Start your winter bike day well-layered at Margita-Ilona. The climb to Calvary Hill rewards you with crisp winter air and clear views. Warm up at noon inside the castle and Tekov Museum. Spend the afternoon in the city center before finishing your ride as the sun sets in Schoeller Park."
+            "en": "Start your winter bike day well-layered at Margita-Ilona. The climb to Calvary Hill rewards you with crisp winter air and clear views. Warm up at noon inside the castle and Tekov Museum. Spend the afternoon in the city center before finishing your ride as the sun sets in Schoeller Park.",
+            "sk": "Začnite zimný cyklistický deň na Margita-Ilona v niekoľkých vrstvách oblečenia. Výstup na Kalváriu odmení sviežim zimným vzduchom a čistými výhľadmi. Ohrievajte sa napoludnie vnútri hradu a Tekovského múzea. Popoludní strávte čas v centre mesta a zakončite jazdu pri západe slnka v Schoellerovom parku."
           },
           "stops": [
             {
@@ -1067,7 +1152,8 @@
                 "de": "Prüfen Sie den Reifendruck bei Kälte.",
                 "hu": "Ellenőrizze a guminyomást a hidegben.",
                 "ro": "Verificați presiunea pneurilor la frig.",
-                "en": "Check your tire pressure in cold weather."
+                "en": "Check your tire pressure in cold weather.",
+                "sk": "Skontrolujte tlak v pneumatikách v chladnom počasí."
               }
             },
             {
@@ -1076,7 +1162,8 @@
                 "de": "Vorsicht bei schattigen, vereisten Stellen.",
                 "hu": "Vigyázzon az árnyékos, jeges útszakaszokon.",
                 "ro": "Atenție la porțiunile umbrite și înghețate.",
-                "en": "Watch out for icy patches in shaded areas."
+                "en": "Watch out for icy patches in shaded areas.",
+                "sk": "Dávajte pozor na zamrznuté miesta v tienistých oblastiach."
               }
             },
             {
@@ -1085,7 +1172,8 @@
                 "de": "Machen Sie eine Aufwärmpause im Innenhof.",
                 "hu": "Tartson egy melegedő szünetet a várudvaron.",
                 "ro": "Faceți o pauză de încălzire în curtea castelului.",
-                "en": "Take a warm-up break in the castle courtyard."
+                "en": "Take a warm-up break in the castle courtyard.",
+                "sk": "Urobte si prestávku na zahriatie na nádvorí hradu."
               }
             },
             {
@@ -1094,7 +1182,8 @@
                 "de": "Kurzer Stopp, um die Kälte zu unterbrechen.",
                 "hu": "Rövid megálló a hideg szél elől.",
                 "ro": "O scurtă oprire pentru a scăpa de frig.",
-                "en": "A brief stop to take a break from the cold."
+                "en": "A brief stop to take a break from the cold.",
+                "sk": "Krátke zastavenie, aby ste sa odmrazili od chladu."
               }
             },
             {
@@ -1103,7 +1192,8 @@
                 "de": "Besichtigen Sie die Synagoge zum Aufwärmen.",
                 "hu": "Látogassa meg a zsinagógát melegedés céljából.",
                 "ro": "Vizitați sinagoga pentru a vă încălzi.",
-                "en": "Visit the synagogue to warm up inside."
+                "en": "Visit the synagogue to warm up inside.",
+                "sk": "Navštívte synagógu a ohrievajte sa vnútri."
               }
             },
             {
@@ -1112,7 +1202,8 @@
                 "de": "Die kahlen Bäume bieten weite Sichtachsen.",
                 "hu": "A kopasz fák között messzebbre ellátni.",
                 "ro": "Copacii golași oferă perspective largi.",
-                "en": "Bare trees offer wider vistas across the park."
+                "en": "Bare trees offer wider vistas across the park.",
+                "sk": "Holé stromy ponúkajú širšie výhľady cez park."
               }
             },
             {
@@ -1121,7 +1212,8 @@
                 "de": "Hinterlassen Sie schwere Jacken an der Garderobe.",
                 "hu": "Hagyja a nehéz kabátokat a ruhatárban.",
                 "ro": "Lăsați hainele groase la garderobă.",
-                "en": "Leave heavy jackets at the cloakroom."
+                "en": "Leave heavy jackets at the cloakroom.",
+                "sk": "Nechajte ťažké bundy v šatni."
               }
             }
           ],
@@ -1149,6 +1241,12 @@
               "Bike lights are mandatory starting from 3:30 PM.",
               "Avoid long stationary periods outdoors.",
               "Bring a hot drink in a thermos flask."
+            ],
+            "sk": [
+              "Noste zateplené rukavice a teplé ponožky.",
+              "Cyklistické svetlá sú povinné od 15:30.",
+              "Vyhnite sa dlhému státí vonku na mieste.",
+              "Prineste horúci nápoj v termoske."
             ]
           }
         }
@@ -1167,7 +1265,8 @@
             "de": "Margita-Ilona",
             "hu": "Margita-Ilona",
             "ro": "Margita-Ilona",
-            "en": "Margita-Ilona"
+            "en": "Margita-Ilona",
+            "sk": "Margita-Ilona"
           },
           "coords": [
             18.6698,
@@ -1183,7 +1282,8 @@
             "de": "Parken Sie hier und genießen Sie einen ausgedehnten Morgenspaziergang am Wasser.",
             "hu": "Parkoljon le itt, és tegyen egy hosszabb reggeli sétát a vízparton.",
             "ro": "Parcați aici și bucurați-vă de o plimbare lungă de dimineață pe malul apei.",
-            "en": "Park here and enjoy a long morning walk by the water."
+            "en": "Park here and enjoy a long morning walk by the water.",
+            "sk": "Zaparkujte tu a užite si dlhú rannú prechádzku pri vode."
           }
         },
         {
@@ -1191,7 +1291,8 @@
             "de": "Kalvarienberg",
             "hu": "Kálvária-hegy",
             "ro": "Calvarul",
-            "en": "Calvary Hill"
+            "en": "Calvary Hill",
+            "sk": "Kalvária"
           },
           "coords": [
             18.5958,
@@ -1207,7 +1308,8 @@
             "de": "Fahren Sie so nah wie möglich heran und machen Sie den kurzen Spaziergang nach oben.",
             "hu": "Hajtson amilyen közel csak lehet, és tegye meg a rövid sétát a csúcsra.",
             "ro": "Conduceți cât mai aproape posibil și faceți scurta plimbare până în vârf.",
-            "en": "Drive as close as possible and take the short walk to the top."
+            "en": "Drive as close as possible and take the short walk to the top.",
+            "sk": "Priamo priveďte auto čo najbližšie a choďte krátku prechádzku na vrchol."
           }
         },
         {
@@ -1215,7 +1317,8 @@
             "de": "Parken am Stadtzentrum",
             "hu": "Parkolás a központban",
             "ro": "Parcare în centrul orașului",
-            "en": "City Center Parking"
+            "en": "City Center Parking",
+            "sk": "Parkovanie v centre mesta"
           },
           "coords": [
             18.605,
@@ -1231,7 +1334,8 @@
             "de": "Parken Sie in der Nähe der Burg, um den historischen Kern zu Fuß zu erkunden.",
             "hu": "Parkoljon a vár közelében, hogy gyalog fedezhesse fel a történelmi központot.",
             "ro": "Parcați lângă castel pentru a explora nucleul istoric pe jos.",
-            "en": "Park near the castle to explore the historic core on foot."
+            "en": "Park near the castle to explore the historic core on foot.",
+            "sk": "Zaparkujte pri hrade a preskúmajte historické jadro pešo."
           }
         },
         {
@@ -1239,7 +1343,8 @@
             "de": "Burg Levice & Tekov-Museum",
             "hu": "Lévai vár és Tekov Múzeum",
             "ro": "Castelul Levice și Muzeul Tekov",
-            "en": "Levice Castle & Tekov Museum"
+            "en": "Levice Castle & Tekov Museum",
+            "sk": "Leviansky hrad a Tekovské múzeum"
           },
           "coords": [
             18.6037,
@@ -1255,7 +1360,8 @@
             "de": "Nehmen Sie sich Zeit für beide Attraktionen. Hier können Sie auch zu Mittag essen.",
             "hu": "Szánjon időt mindkét látnivalóra. Itt ebédelhet is.",
             "ro": "Luați-vă timp pentru ambele atracții. Puteți lua și prânzul aici.",
-            "en": "Take your time for both attractions. You can have lunch here as well."
+            "en": "Take your time for both attractions. You can have lunch here as well.",
+            "sk": "Doprajte si čas na obe atrakcie. Môžete si tu dať aj obed."
           }
         },
         {
@@ -1263,7 +1369,8 @@
             "de": "Zentrum: Kirche, Säule & Synagoge",
             "hu": "Központ: Templom, oszlop és zsinagóga",
             "ro": "Centru: Biserică, Coloană și Sinagogă",
-            "en": "Center: Church, Column & Synagogue"
+            "en": "Center: Church, Column & Synagogue",
+            "sk": "Centrum: Kostol, stĺp a synagóga"
           },
           "coords": [
             18.6078,
@@ -1279,7 +1386,8 @@
             "de": "Ein gemütlicher Spaziergang verbindet diese drei zentralen Sehenswürdigkeiten.",
             "hu": "Egy kellemes séta köti össze ezt a három központi látnivalót.",
             "ro": "O plimbare agale leagă aceste trei obiective centrale.",
-            "en": "A leisurely walk connects these three central landmarks."
+            "en": "A leisurely walk connects these three central landmarks.",
+            "sk": "Pokojná prechádzka spája tieto tri centrálne pamiatky."
           }
         },
         {
@@ -1287,7 +1395,8 @@
             "de": "Schoeller-Park",
             "hu": "Schoeller-park",
             "ro": "Parcul Schoeller",
-            "en": "Schoeller Park"
+            "en": "Schoeller Park",
+            "sk": "Schoellerov park"
           },
           "coords": [
             18.6145,
@@ -1303,7 +1412,8 @@
             "de": "Ein letzter Halt, um sich vor der Heimfahrt die Beine zu vertreten.",
             "hu": "Egy utolsó megálló, hogy kinyújtóztassa a lábait hazaindulás előtt.",
             "ro": "O ultimă oprire pentru a vă dezmorți picioarele înainte de a pleca acasă.",
-            "en": "A final stop to stretch your legs before heading home."
+            "en": "A final stop to stretch your legs before heading home.",
+            "sk": "Posledná zastávka na precvičenie nôh pred odchodom domov."
           }
         }
       ],
@@ -1311,7 +1421,8 @@
         "de": "Ihr Autotag beginnt mit einer ruhigen Fahrt zum Erholungsgebiet Margita-Ilona, wo Sie den Morgen in der Natur verbringen. Dann fahren Sie zum Kalvarienberg für eine atemberaubende Aussicht.\nAm Mittag parken Sie Ihr Auto im Zentrum von Levice und erkunden den ersten Cluster zu Fuß. Besuchen Sie die dominante Burg Levice und das Tekov-Museum, wo Sie auch eine Mittagspause einlegen können.\nNach dem Mittagessen setzen Sie Ihren Spaziergang durch das Stadtzentrum fort und entdecken den zweiten Cluster: die St.-Josephs-Kirche, die Dreifaltigkeitssäule und die wunderschön restaurierte Synagoge.\nAm späten Nachmittag nehmen Sie das Auto für eine kurze Fahrt zum Schoeller-Park, Ihrem letzten Ziel. Genießen Sie einen entspannenden Spaziergang, um Ihren Tag voller Entdeckungen in und um Levice abzurunden.",
         "hu": "Az autós nap egy csendes utazással kezdődik a Margita-Ilona üdülőterületre, ahol a délelőttöt a természetben tölti. Ezután irány a Kálvária-hegy a lélegzetelállító kilátásért.\nDélben parkolja le autóját Léva központjában, és fedezze fel gyalog az első látnivalócsoportot. Látogassa meg a domináns Lévai várat és a Tekov Múzeumot, ahol ebédelhet is.\nEbéd után folytassa sétáját a városközpontban, felfedezve a második látnivalócsoportot: a Szent József-templomot, a Szentháromság-oszlopot és a gyönyörűen felújított zsinagógát.\nKéső délután szálljon autóba egy rövid útra a Schoeller-parkba, az utolsó állomásra. Élvezzen egy pihentető sétát, hogy lezárja a Léván és környékén töltött felfedező napját.",
         "ro": "Ziua cu mașina începe cu o călătorie liniștită spre zona de agrement Margita-Ilona, petrecându-vă dimineața în natură. Apoi, conduceți spre Dealul Calvarului pentru o priveliște uluitoare.\nLa prânz, parcați mașina în centrul orașului Levice și explorați primul grup de atracții pe jos. Vizitați dominantul Castel Levice și Muzeul Tekov, unde puteți lua și o pauză de prânz.\nDupă prânz, continuați plimbarea prin centrul orașului, descoperind al doilea grup de atracții: Biserica Sf. Iosif, Coloana Sfintei Treimi și sinagoga frumos restaurată.\nSpre sfârșitul după-amiezii, luați mașina pentru o scurtă călătorie spre Parcul Schoeller, destinația finală. Bucurați-vă de o plimbare relaxantă pentru a încheia ziua de explorare în Levice și împrejurimi.",
-        "en": "Your car day starts with a quiet drive to the Margita-Ilona recreational area, spending the morning in nature. Then, drive to Calvary Hill for a breathtaking view.\nAt midday, park your car in the center of Levice and explore the first cluster of sights on foot. Visit the dominant Levice Castle and the Tekov Museum, where you can also take a lunch break.\nAfter lunch, continue your walk through the city center discovering the second cluster: the Church of St. Joseph, the Holy Trinity Column, and the beautifully restored Synagogue.\nIn the late afternoon, take the car for a short drive to Schoeller Park, your final destination. Enjoy a relaxing walk to round off your day of exploration in and around Levice."
+        "en": "Your car day starts with a quiet drive to the Margita-Ilona recreational area, spending the morning in nature. Then, drive to Calvary Hill for a breathtaking view.\nAt midday, park your car in the center of Levice and explore the first cluster of sights on foot. Visit the dominant Levice Castle and the Tekov Museum, where you can also take a lunch break.\nAfter lunch, continue your walk through the city center discovering the second cluster: the Church of St. Joseph, the Holy Trinity Column, and the beautifully restored Synagogue.\nIn the late afternoon, take the car for a short drive to Schoeller Park, your final destination. Enjoy a relaxing walk to round off your day of exploration in and around Levice.",
+        "sk": "Váš automobilový deň začína tichou jazdou do rekreačnej oblasti Margita-Ilona, kde strávite ráno v prírode. Potom sa preveziete na Kalváriu kvôli dych berúcemu výhľadu.\nNapoludnie zaparkujte auto v centre Levíc a preskúmajte prvú skupinu pamiatok pešo. Navštívte dominantný Leviansky hrad a Tekovské múzeum, kde si môžete dať aj obed.\nPo obede pokračujte prechádzkou centrom mesta a objavujte druhú skupinu: kostol sv. Jozefa, Trojičný stĺp a krásne zrekonštruovanú synagógu.\nPodvečer krátkou jazdou autom dojdite do Schoellerovho parku, vášho cieľa. Užívajte si relaxačnú prechádzku a uzavrite tak svoj deň objavovania v Levícach a okolí."
       },
       "gastro_picks": {
         "de": [
@@ -1507,6 +1618,12 @@
           "Parking fees may apply, have some coins ready.",
           "Combining driving and walking gives you the best of both worlds.",
           "Plan for extra time for traffic, especially in the afternoon."
+        ],
+        "sk": [
+          "Použite navigačnú aplikáciu na nájdenie parkovania pri pamiatkach.",
+          "Parkovné môže byť spoplatnené, majte pripravené mince.",
+          "Kombinácia šoférovania a chôdze vám dá to najlepšie z oboch svetov.",
+          "Plánujte si rezervu na čas kvôli doprave, najmä popoludní."
         ]
       },
       "variants": {
@@ -1515,7 +1632,8 @@
             "de": "Starten Sie Ihre Fahrt bei Margita-Ilona, wo Sie trotz Regen die Natur genießen können. Die Auffahrt zum Kalvarienberg bietet einen tollen Blick aus dem trockenen Auto. Mittags parken Sie im Stadtzentrum und besuchen das Schloss sowie das Tekov-Museum. Den Nachmittag verbringen Sie in der Synagoge und den umliegenden Geschäften, bevor Sie den Park besuchen.",
             "hu": "Kezdje a napot a Margita-Ilonánál, ahol az autóból is élvezheti a tájat. A kálvária-dombra való feljutás után szárazon csodálhatja meg a kilátást. Délben parkoljon le a központban, és látogassa meg a várat és a múzeumot. A délutánt a zsinagóga és a közeli üzletek felfedezésével töltheti, elkerülve az esőt.",
             "ro": "Începeți ziua la Margita-Ilona, unde vă puteți bucura de natură din confortul mașinii. Urcarea spre Calvar oferă o priveliște excelentă fără a vă uda. La prânz parcați în centru și vizitați castelul și Muzeul Tekov. După-amiaza vizitați sinagoga și magazinele din jur, înainte de a merge în parc.",
-            "en": "Begin your day at Margita-Ilona, enjoying the views from your car. The drive up to Calvary Hill offers a great vista while staying dry. At noon, park in the city center to visit the castle and Tekov Museum. Spend the afternoon at the synagogue and nearby shops to avoid the rain before a quick park visit."
+            "en": "Begin your day at Margita-Ilona, enjoying the views from your car. The drive up to Calvary Hill offers a great vista while staying dry. At noon, park in the city center to visit the castle and Tekov Museum. Spend the afternoon at the synagogue and nearby shops to avoid the rain before a quick park visit.",
+            "sk": "Začnite deň na Margita-Ilona a vychutnajte si výhľady z auta. Jazda na Kalváriu ponúka pekný výhľad bez mokra. Napoludnie zaparkujte v centre a navštívte hrad a Tekovské múzeum. Popoludní strávte čas v synagóge a pri okolitého obchodoch, aby ste sa vyhli dažďu pred rýchlou návštevou parku."
           },
           "stops": [
             {
@@ -1524,7 +1642,8 @@
                 "de": "Parkplätze sind direkt am Eingang verfügbar.",
                 "hu": "Parkolóhelyek közvetlenül a bejáratnál.",
                 "ro": "Locuri de parcare disponibile chiar la intrare.",
-                "en": "Parking spaces available right at the entrance."
+                "en": "Parking spaces available right at the entrance.",
+                "sk": "Parkovacie miesta dostupné priamo pri vchode."
               }
             },
             {
@@ -1533,7 +1652,8 @@
                 "de": "Genießen Sie die Aussicht direkt vom Parkplatz.",
                 "hu": "Élvezze a kilátást közvetlenül a parkolóból.",
                 "ro": "Bucurați-vă de priveliște direct din parcare.",
-                "en": "Enjoy the panoramic view directly from the parking area."
+                "en": "Enjoy the panoramic view directly from the parking area.",
+                "sk": "Užite si panoramatický výhľad priamo z parkoviska."
               }
             },
             {
@@ -1542,7 +1662,8 @@
                 "de": "Zentraler Standort für alle Museen.",
                 "hu": "Központi helyszín az összes múzeum eléréséhez.",
                 "ro": "Locație centrală pentru toate muzeele.",
-                "en": "Central location for accessing all museums."
+                "en": "Central location for accessing all museums.",
+                "sk": "Centrálná poloha pre prístup ku všetkým múzeám."
               }
             },
             {
@@ -1551,7 +1672,8 @@
                 "de": "Kurzer Fußweg vom Parkplatz zum Eingang.",
                 "hu": "Rövid séta a parkolótól a bejáratig.",
                 "ro": "Scurtă plimbare de la parcare la intrare.",
-                "en": "Short walk from the parking to the entrance."
+                "en": "Short walk from the parking to the entrance.",
+                "sk": "Krátka prechádzka z parkoviska k vchodu."
               }
             },
             {
@@ -1560,7 +1682,8 @@
                 "de": "Nutzen Sie die Passagen im Stadtzentrum.",
                 "hu": "Használja a belvárosi árkádokat és átjárókat.",
                 "ro": "Folosiți pasajele din centrul orașului.",
-                "en": "Use the passages and arcades in the city center."
+                "en": "Use the passages and arcades in the city center.",
+                "sk": "Použite priechody a arkády v centre mesta."
               }
             },
             {
@@ -1569,7 +1692,8 @@
                 "de": "Parken Sie nah am See für kurze Wege.",
                 "hu": "Parkoljon a tó közelében a rövid séta érdekében.",
                 "ro": "Parcați aproape de lac pentru drumuri scurte.",
-                "en": "Park near the pond for a shorter walk."
+                "en": "Park near the pond for a shorter walk.",
+                "sk": "Zaparkujte pri rybníku pre kratšiu prechádzku."
               }
             }
           ],
@@ -1597,6 +1721,12 @@
               "Visibility might be reduced on the drive up to Calvary.",
               "Pay for parking conveniently using a mobile app.",
               "Keep an umbrella handy for the short walks between stops."
+            ],
+            "sk": [
+              "Dávajte pozor na mláky v nížinách parkovacích zón.",
+              "Viditeľnosť môže byť znížená pri ceste na Kalváriu.",
+              "Plaťte parkovné pohodlne cez mobilnú aplikáciu.",
+              "Majte pripravený dáždnik na krátke prechádzky medzi zastávkami."
             ]
           }
         },
@@ -1605,7 +1735,8 @@
             "de": "Starten Sie Ihren Wintertag komfortabel im geheizten Auto bei Margita-Ilona. Die Fahrt zum Kalvarienberg bietet einen tollen Panoramablick über die verschneite Stadt. Mittags parken Sie im Zentrum und besuchen das warme Tekov-Museum im Schloss. Nachmittags ist die Synagoge ein kulturelles Highlight, bevor Sie den Tag im winterlichen Park ausklingen lassen.",
             "hu": "Kezdje a téli napot kényelmesen, fűtött autóban a Margita-Ilonánál. A kálvária-dombról nagyszerű panoráma nyílik a havas városra. Délben parkoljon le a központban, és látogassa meg a meleg Tekov múzeumot. A délutáni zsinagógalátogatás után zárja a napot a Schoeller-park téli nyugalmában.",
             "ro": "Începeți ziua de iarnă confortabil în mașina încălzită la Margita-Ilona. Drumul spre Calvar oferă o panoramă superbă asupra orașului înzăpezit. La prânz parcați în centru și vizitați Muzeul Tekov din castel. După-amiaza sinagoga este un punct culminant, înainte de a încheia ziua în parcul hibernal.",
-            "en": "Start your winter day comfortably in a heated car at Margita-Ilona. The drive up to Calvary Hill offers a great panorama of the snowy city. At noon, park in the center and visit the warm Tekov Museum. Spend your afternoon at the synagogue before finishing the day in the peaceful winter park."
+            "en": "Start your winter day comfortably in a heated car at Margita-Ilona. The drive up to Calvary Hill offers a great panorama of the snowy city. At noon, park in the center and visit the warm Tekov Museum. Spend your afternoon at the synagogue before finishing the day in the peaceful winter park.",
+            "sk": "Začnite zimný deň pohodlne v ohrievanom aute na Margita-Ilona. Jazda na Kalváriu ponúka peknú panorámu zasneženého mesta. Napoludnie zaparkujte v centre a navštívte teplé Tekovské múzeum. Popoludní strávte čas v synagóge a deň zakončite v pokojnom zimnom parku."
           },
           "stops": [
             {
@@ -1614,7 +1745,8 @@
                 "de": "Parkplätze werden im Winter oft geräumt.",
                 "hu": "A parkolókat télen is rendszeresen takarítják.",
                 "ro": "Parcările sunt adesea deszăpezite iarna.",
-                "en": "Parking lots are usually cleared of snow in winter."
+                "en": "Parking lots are usually cleared of snow in winter.",
+                "sk": "Parkoviská sú v zime zvyčajne odhrnuté od snehu."
               }
             },
             {
@@ -1623,7 +1755,8 @@
                 "de": "Vorsicht bei Schnee auf der Auffahrt.",
                 "hu": "Vigyázzon a havas vagy jeges útszakaszokon.",
                 "ro": "Atenție la zăpadă pe drumul de urcare.",
-                "en": "Be careful of snow or ice on the drive up."
+                "en": "Be careful of snow or ice on the drive up.",
+                "sk": "Dávajte pozor na sneh alebo ľad na ceste pri výjazde."
               }
             },
             {
@@ -1632,7 +1765,8 @@
                 "de": "Parken Sie im Parkhaus für eisfreie Scheiben.",
                 "hu": "Parkoljon fedett helyen a jegesedés ellen.",
                 "ro": "Parcați în garaj pentru a evita înghețul.",
-                "en": "Park in a covered garage to avoid icy windows."
+                "en": "Park in a covered garage to avoid icy windows.",
+                "sk": "Zaparkujte v krytej garáži, aby ste sa vyhli zamrznutým sklám."
               }
             },
             {
@@ -1641,7 +1775,8 @@
                 "de": "Die Museen sind im Winter angenehm geheizt.",
                 "hu": "A múzeumok télen is kellemesen fűtöttek.",
                 "ro": "Muzeele sunt încălzite plăcut în timpul iernii.",
-                "en": "The museums are comfortably heated in winter."
+                "en": "The museums are comfortably heated in winter.",
+                "sk": "Múzeá sú v zime pohodlne vykurované."
               }
             },
             {
@@ -1650,7 +1785,8 @@
                 "de": "Besuchen Sie Cafés zum Aufwärmen zwischen den Stopps.",
                 "hu": "Igyon egy forró csokit a kávézókban a megállók közt.",
                 "ro": "Vizitați cafenelele pentru a vă încălzi între opriri.",
-                "en": "Visit local cafes to warm up between stops."
+                "en": "Visit local cafes to warm up between stops.",
+                "sk": "Navštívte miestne kaviarne, aby ste sa medzi zastávkami zahriali."
               }
             },
             {
@@ -1659,7 +1795,8 @@
                 "de": "Die Teiche können bei Frost zugefroren sein.",
                 "hu": "Fagy esetén a tavak felszíne befagyhat.",
                 "ro": "Iazurile pot fi înghețate în caz de ger.",
-                "en": "The ponds may be frozen during freezing weather."
+                "en": "The ponds may be frozen during freezing weather.",
+                "sk": "Rybníky môžu byť zamrznuté pri mrazivom počasí."
               }
             }
           ],
@@ -1687,6 +1824,12 @@
               "The drive up the hill might be closed during icy conditions.",
               "Utilize seat heating for short trips between locations.",
               "Watch out for pedestrians in the dark city center."
+            ],
+            "sk": [
+              "Zabezpečte, aby mal ostrekovač nemrznúcu kvapalinu.",
+              "Cesta hore na kopec môže byť zaľadnená a uzavretá.",
+              "Využite vyhrievanie sedadiel na krátkych presunoch medzi miestami.",
+              "Dávajte pozor na chodcov v tmavom centre mesta."
             ]
           }
         }
@@ -1705,7 +1848,8 @@
             "de": "Ankunft am Busbahnhof",
             "hu": "Érkezés a buszpályaudvarra",
             "ro": "Sosire la stația de autobuz",
-            "en": "Arrival at Bus Station"
+            "en": "Arrival at Bus Station",
+            "sk": "Príchod na autobusovú stanicu"
           },
           "coords": [
             18.6115,
@@ -1721,7 +1865,8 @@
             "de": "Machen Sie sich mit dem lokalen Busnetz vertraut.",
             "hu": "Ismerkedjen meg a helyi buszhálózattal.",
             "ro": "Familiarizați-vă cu rețeaua locală de autobuze.",
-            "en": "Familiarize yourself with the local bus network."
+            "en": "Familiarize yourself with the local bus network.",
+            "sk": "Oboznámte sa s miestnou autobusovou sieťou."
           }
         },
         {
@@ -1729,7 +1874,8 @@
             "de": "Cluster Zentrum: Säule & Synagoge",
             "hu": "Központ csoport: Oszlop és Zsinagóga",
             "ro": "Cluster Centru: Coloană și Sinagogă",
-            "en": "Center Cluster: Column & Synagogue"
+            "en": "Center Cluster: Column & Synagogue",
+            "sk": "Centrálny okruh: stĺp a synagóga"
           },
           "coords": [
             18.6081,
@@ -1745,7 +1891,8 @@
             "de": "Beginnen Sie im Herzen der Stadt, diese Sehenswürdigkeiten sind nur einen kurzen Spaziergang entfernt.",
             "hu": "Kezdje a város szívében, ezek a látnivalók csak egy rövid sétára vannak.",
             "ro": "Începeți în inima orașului, aceste atracții sunt la o scurtă plimbare.",
-            "en": "Start in the heart of the city, these sights are a short walk from each other."
+            "en": "Start in the heart of the city, these sights are a short walk from each other.",
+            "sk": "Začnite v srdci mesta, tieto pamiatky sú od seba vzdialené na krátku prechádzku."
           }
         },
         {
@@ -1753,7 +1900,8 @@
             "de": "Kirche des Hl. Joseph",
             "hu": "Szent József-templom",
             "ro": "Biserica Sf. Iosif",
-            "en": "Church of St. Joseph"
+            "en": "Church of St. Joseph",
+            "sk": "Kostol sv. Jozefa"
           },
           "coords": [
             18.6075,
@@ -1769,7 +1917,8 @@
             "de": "Ein kurzer Spaziergang vom Hauptplatz zu diesem ruhigen Ort.",
             "hu": "Egy rövid séta a főtérről ehhez a csendes helyhez.",
             "ro": "O scurtă plimbare din piața principală până la acest loc liniștit.",
-            "en": "A short walk from the main square to this tranquil spot."
+            "en": "A short walk from the main square to this tranquil spot.",
+            "sk": "Krátka prechádzka z hlavného námestia k tomuto pokojnému miestu."
           }
         },
         {
@@ -1777,7 +1926,8 @@
             "de": "Cluster Burg: Burg & Museum",
             "hu": "Vár csoport: Vár és Múzeum",
             "ro": "Cluster Castel: Castel și Muzeu",
-            "en": "Castle Cluster: Castle & Museum"
+            "en": "Castle Cluster: Castle & Museum",
+            "sk": "Hradný okruh: hrad a múzeum"
           },
           "coords": [
             18.6037,
@@ -1793,7 +1943,8 @@
             "de": "Nehmen Sie einen Bus zum Hügel. Hier können Sie zu Mittag essen.",
             "hu": "Menjen busszal a hegyre. Itt ebédelhet.",
             "ro": "Luați un autobuz până la deal. Puteți lua prânzul aici.",
-            "en": "Take a bus up to the hill. You can have lunch here."
+            "en": "Take a bus up to the hill. You can have lunch here.",
+            "sk": "Vezmite autobus na kopec. Tu si môžete dať obed."
           }
         },
         {
@@ -1801,7 +1952,8 @@
             "de": "Kalvarienberg",
             "hu": "Kálvária-hegy",
             "ro": "Calvarul",
-            "en": "Calvary Hill"
+            "en": "Calvary Hill",
+            "sk": "Kalvária"
           },
           "coords": [
             18.5958,
@@ -1817,7 +1969,8 @@
             "de": "Möglicherweise müssen Sie ein Stück laufen, aber die Aussicht ist es wert.",
             "hu": "Lehet, hogy egy kicsit sétálnia kell, de a kilátás megéri.",
             "ro": "S-ar putea să trebuiască să mergeți puțin, dar priveliștea merită.",
-            "en": "You might need to walk a bit from the bus stop, but the view is worth it."
+            "en": "You might need to walk a bit from the bus stop, but the view is worth it.",
+            "sk": "Možno budete musieť trochu prejsť od zastávky, ale výhľad stojí za to."
           }
         },
         {
@@ -1825,7 +1978,8 @@
             "de": "Schoeller-Park",
             "hu": "Schoeller-park",
             "ro": "Parcul Schoeller",
-            "en": "Schoeller Park"
+            "en": "Schoeller Park",
+            "sk": "Schoellerov park"
           },
           "coords": [
             18.6145,
@@ -1841,7 +1995,8 @@
             "de": "Ein entspannender Spaziergang zum Abschluss Ihres Tages, bevor Sie den Bus zurück nehmen.",
             "hu": "Egy pihentető séta a nap végén, mielőtt visszamenne a busszal.",
             "ro": "O plimbare relaxantă pentru a încheia ziua înainte de a lua autobuzul înapoi.",
-            "en": "A relaxing walk to end your day before taking the bus back."
+            "en": "A relaxing walk to end your day before taking the bus back.",
+            "sk": "Relaxačná prechádzka na ukončenie dňa pred návratom autobusom."
           }
         }
       ],
@@ -1849,7 +2004,8 @@
         "de": "Ihr Tag mit öffentlichen Verkehrsmitteln in Levice beginnt mit der Erkundung des zentralen Clusters zu Fuß, nachdem Sie in der Nähe des Zentrums angekommen sind. Besuchen Sie die Dreifaltigkeitssäule, die Synagoge und die St.-Josephs-Kirche.\nAm späten Vormittag nehmen Sie einen Bus zum Burg-Cluster. Verbringen Sie Zeit mit der Erkundung der Burg Levice und des Tekov-Museums, ein idealer Ort für eine Mittagspause mit Aussicht.\nNach dem Mittagessen bringt Sie ein weiterer Bus in die Nähe des Kalvarienbergs. Genießen Sie den Aufstieg und die Panoramaaussicht als Belohnung für Ihre Reise.\nBeenden Sie den Tag mit einem gemütlichen Spaziergang vom Kalvarienberg hinunter zum Schoeller-Park. Entspannen Sie sich im Grünen, bevor Sie einen nahegelegenen Bus nehmen, um Ihre Reise abzuschließen.",
         "hu": "A lévai tömegközlekedési nap a központi látnivalócsoport gyalogos felfedezésével kezdődik, miután megérkezett a központ közelébe. Látogassa meg a Szentháromság-oszlopot, a zsinagógát és a Szent József-templomot.\nKéső délelőtt szálljon buszra a Vár-csoporthoz. Töltsön időt a Lévai vár és a Tekov Múzeum felfedezésével, amely ideális hely egy kilátással egybekötött ebédszünethez.\nEbéd után egy másik busz viszi a Kálvária-hegy közelébe. Élvezze a mászást és a panorámás kilátást, amely megjutalmazza utazásáért.\nZárja a napot egy kellemes sétával a Kálvária-hegyről le a Schoeller-parkba. Pihenjen a zöldben, mielőtt egy közeli buszra szállna, hogy befejezze utazását.",
         "ro": "Ziua dvs. cu transportul public în Levice începe prin explorarea pe jos a grupului central de atracții după sosirea în apropierea centrului. Vizitați Coloana Sfintei Treimi, Sinagoga și Biserica Sf. Iosif.\nSpre sfârșitul dimineții, luați un autobuz către grupul Castelului. Petreceți timp explorând Castelul Levice și Muzeul Tekov, un loc ideal pentru o pauză de prânz cu priveliște.\nDupă prânz, un alt autobuz vă va duce în apropierea Dealului Calvarului. Bucurați-vă de urcare și de priveliștea panoramică ca o recompensă pentru călătoria dvs.\nÎncheiați ziua cu o plimbare agale de la Dealul Calvarului până la Parcul Schoeller. Relaxați-vă în verdeață înainte de a lua un autobuz din apropiere pentru a vă încheia călătoria.",
-        "en": "Your public transport day in Levice begins by exploring the central cluster on foot after arriving near the center. Visit the Holy Trinity Column, the Synagogue, and the Church of St. Joseph.\nIn the late morning, take a bus to the Castle cluster. Spend time exploring Levice Castle and the Tekov Museum, an ideal spot for a lunch break with a view.\nAfter lunch, another bus ride will take you near Calvary Hill. Enjoy the climb and the panoramic view as a reward for your journey.\nEnd your day with a leisurely walk down from Calvary Hill to Schoeller Park. Relax in the greenery before catching a nearby bus to complete your journey."
+        "en": "Your public transport day in Levice begins by exploring the central cluster on foot after arriving near the center. Visit the Holy Trinity Column, the Synagogue, and the Church of St. Joseph.\nIn the late morning, take a bus to the Castle cluster. Spend time exploring Levice Castle and the Tekov Museum, an ideal spot for a lunch break with a view.\nAfter lunch, another bus ride will take you near Calvary Hill. Enjoy the climb and the panoramic view as a reward for your journey.\nEnd your day with a leisurely walk down from Calvary Hill to Schoeller Park. Relax in the greenery before catching a nearby bus to complete your journey.",
+        "sk": "Váš deň verejnou dopravou v Leviciach začína preskúmaním centrálneho okruhu pešo po príchode blízko centra. Navštívte Trojičný stĺp, synagógu a kostol sv. Jozefa.\nV neskorom dopoludní sadnite na autobus ku hradu. Strávte čas preskúmaním Levianskeho hradu a Tekovského múzea, ideálne miesto na obed s výhľadom.\nPo obede vás ďalší autobus zavezie blízko Kalvárie. Užite si výstup a panoramatický výhľad ako odmenu za vašu cestu.\nDeň zakončite pokojnou prechádzkou z Kalvárie do Schoellerovho parku. Oddýchnite si v zeleni pred návratom autobusom do cieľa."
       },
       "gastro_picks": {
         "de": [
@@ -2045,6 +2201,12 @@
           "Check the bus schedule in advance, especially for the last bus back.",
           "Have some small change for tickets bought from the driver.",
           "A public transport app can be very helpful for planning routes in real-time."
+        ],
+        "sk": [
+          "Kúpte si denný lístok na autobus, ak je k dispozícii, môže byť lacnejší.",
+          "Skontrolujte cestovný poriadok autobusov vopred, hlavne posledný spoj naspäť.",
+          "Majte pri sebe drobné na lístky kúpené u vodiča.",
+          "Aplikácia verejnej dopravy môže byť veľmi užitočná pri plánovaní trás v reálnom čase."
         ]
       },
       "variants": {
@@ -2053,7 +2215,8 @@
             "de": "Nach Ihrer Ankunft am Busbahnhof erreichen Sie schnell das Stadtzentrum mit seinen überdachten Passagen. Mittags besuchen Sie das Schloss und das Tekov-Museum, die beide guten Schutz vor Regen bieten. Den Nachmittag verbringen Sie in der Synagoge, bevor Sie mit dem Bus zum Schoeller-Park fahren, wo Sie die ruhige Atmosphäre genießen können.",
             "hu": "A buszpályaudvarra való érkezés után gyorsan elérheti a belváros fedett árkádjait. Délben a vár és a Tekov múzeum falai nyújtanak menedéket a csapadék elől. A délutánt a zsinagóga belső terében töltheti, majd busszal közelítheti meg a Schoeller-parkot, ahol élvezheti a természet nyugalmát az esőben is.",
             "ro": "După sosirea la autogară, puteți ajunge rapid în centrul orașului cu pasajele sale acoperite. La prânz vizitați castelul și Muzeul Tekov, ambele oferind protecție bună contra ploii. După-amiaza vizitați sinagoga, apoi luați autobuzul spre parcul Schoeller pentru a vă bucura de liniște.",
-            "en": "After arriving at the bus station, quickly reach the city center's covered passages. At noon, visit the castle and Tekov Museum, both providing excellent shelter from the rain. Spend your afternoon in the synagogue before taking a bus to Schoeller Park to enjoy its peaceful rainy atmosphere."
+            "en": "After arriving at the bus station, quickly reach the city center's covered passages. At noon, visit the castle and Tekov Museum, both providing excellent shelter from the rain. Spend your afternoon in the synagogue before taking a bus to Schoeller Park to enjoy its peaceful rainy atmosphere.",
+            "sk": "Po príchode na autobusovú stanicu rýchlo sa dostanete do krytých pasáží centra. Napoludnie navštívte hrad a Tekovské múzeum, obe miesta poskytujú vynikajúce útočisko pred dažďom. Popoludní strávte čas v synagóge predtým, než nasadnete na autobus do Schoellerovho parku a užijete si jeho pokojné daždivé prostredie."
           },
           "stops": [
             {
@@ -2062,7 +2225,8 @@
                 "de": "Warten Sie im überdachten Bereich auf Anschlüsse.",
                 "hu": "Várjon a fedett peronon a csatlakozásokra.",
                 "ro": "Așteptați conexiunile în zona acoperită.",
-                "en": "Wait in the covered area for your connections."
+                "en": "Wait in the covered area for your connections.",
+                "sk": "Čakajte na prestupy v krytom priestore."
               }
             },
             {
@@ -2071,7 +2235,8 @@
                 "de": "Häufige Busverbindungen in der Nähe.",
                 "hu": "Gyakori buszjáratok érhetőek el a közelben.",
                 "ro": "Conexiuni frecvente de autobuz în apropiere.",
-                "en": "Frequent bus connections are available nearby."
+                "en": "Frequent bus connections are available nearby.",
+                "sk": "Blízko sú časté autobusové spoje."
               }
             },
             {
@@ -2080,7 +2245,8 @@
                 "de": "Nutzen Sie den Bus, um nasskalte Wege zu meiden.",
                 "hu": "Használja a buszt a vizes utak elkerülésére.",
                 "ro": "Folosiți autobuzul pentru a evita drumurile ude.",
-                "en": "Use the bus to avoid walking on wet streets."
+                "en": "Use the bus to avoid walking on wet streets.",
+                "sk": "Použite autobus, aby ste sa vyhli chôdzi po mokrých uliciach."
               }
             },
             {
@@ -2089,7 +2255,8 @@
                 "de": "Das Museum ist ein toller Ort für lange Schauer.",
                 "hu": "A múzeum remek hely a hosszabb esők idejére.",
                 "ro": "Muzeul este un loc grozav pentru ploi lungi.",
-                "en": "The museum is a great place to wait out long showers."
+                "en": "The museum is a great place to wait out long showers.",
+                "sk": "Múzeum je skvelé miesto na prečkanie dlhých prehánok."
               }
             },
             {
@@ -2098,7 +2265,8 @@
                 "de": "Wählen Sie Busse, die nah am Hügelfuß halten.",
                 "hu": "Válasszon buszt, ami közel áll meg a dombhoz.",
                 "ro": "Alegeți autobuze care opresc aproape de baza dealului.",
-                "en": "Choose buses that stop near the base of the hill."
+                "en": "Choose buses that stop near the base of the hill.",
+                "sk": "Vyberte autobusy, ktoré zastavujú pri úpätí kopca."
               }
             },
             {
@@ -2107,7 +2275,8 @@
                 "de": "Die Haltestellen liegen nah an den Parkeingängen.",
                 "hu": "A megállók közel vannak a park bejárataihoz.",
                 "ro": "Stațiile sunt aproape de intrările în parc.",
-                "en": "The stops are located near the park entrances."
+                "en": "The stops are located near the park entrances.",
+                "sk": "Zastávky sa nachádzajú pri vstupoch do parku."
               }
             }
           ],
@@ -2135,6 +2304,12 @@
               "Tickets can often be paid for contactless on the bus.",
               "Bus shelters provide protection from wind and rain.",
               "Main lines run frequently even during rainy weather."
+            ],
+            "sk": [
+              "Použite aplikáciu v reálnom čase na sledovanie odchodov autobusov.",
+              "Lístky sa často dajú platiť bezkontaktným spôsobom v autobuse.",
+              "Autobusové prístrešky chránia pred vetrom a dažďom.",
+              "Hlavné linky premávajú často aj počas daždivého počasia."
             ]
           }
         },
@@ -2143,7 +2318,8 @@
             "de": "Beginnen Sie Ihren Wintertag am Busbahnhof und fahren Sie direkt zum Schlossbezirk. Mittags wärmen Sie sich im Tekov-Museum oder in den Kirchen im Stadtzentrum auf. Nachmittags bietet die Synagoge ein behagliches kulturelles Erlebnis. Da es früh dunkel wird, nutzen Sie den Bus für den Weg zum Schoeller-Park, um die Dämmerung zu genießen.",
             "hu": "Kezdje a téli napot a buszpályaudvaron, ahonnan közvetlenül a várnegyedbe juthat. Délben a Tekov múzeum fűtött termeiben vagy a belvárosi templomokban melegedhet fel. A délutáni zsinagógalátogatás védelmet ad a hideg ellen. Mivel korán sötétedik, busszal menjen a Schoeller-parkba, hogy még a szürkületben láthassa.",
             "ro": "Începeți ziua de iarnă la autogară și mergeți direct spre zona castelului. La prânz vă puteți încălzi în Muzeul Tekov sau în bisericile din centru. După-amiaza sinagoga oferă o experiență culturală plăcută. Deoarece se întunecă devreme, luați autobuzul spre parcul Schoeller pentru a prinde amurgul.",
-            "en": "Start your winter day at the bus station and head straight to the castle district. Warm up at noon inside the Tekov Museum or the central churches. Spend your afternoon at the synagogue for a cozy cultural experience. Since it gets dark early, take a bus to Schoeller Park to enjoy the winter twilight."
+            "en": "Start your winter day at the bus station and head straight to the castle district. Warm up at noon inside the Tekov Museum or the central churches. Spend your afternoon at the synagogue for a cozy cultural experience. Since it gets dark early, take a bus to Schoeller Park to enjoy the winter twilight.",
+            "sk": "Začnite zimný deň na autobusovej stanici a zamierte priamo do hradu. Napoludnie sa ohrievajte v Tekovskom múzeu alebo v centrálnych kostoloch. Popoludnie strávte v synagóge pre útulný kultúrny zážitok. Keďže sú dni kratšie, vezmite autobus do Schoellerovho parku a užite si zimný súmrak."
           },
           "stops": [
             {
@@ -2152,7 +2328,8 @@
                 "de": "Im Wartesaal ist es im Winter angenehm warm.",
                 "hu": "A váróterem télen kellemesen fűtött.",
                 "ro": "Sala de așteptare este încălzită iarna.",
-                "en": "The waiting room is comfortably warm in winter."
+                "en": "The waiting room is comfortably warm in winter.",
+                "sk": "Čakáreň je v zime príjemne teplá."
               }
             },
             {
@@ -2161,7 +2338,8 @@
                 "de": "Kurze Wege zwischen den Haltestellen und Sehenswürdigkeiten.",
                 "hu": "Rövid távolságok a megállók és a látnivalók között.",
                 "ro": "Distanțe scurte între stații și obiective.",
-                "en": "Short walking distances between stops and sights."
+                "en": "Short walking distances between stops and sights.",
+                "sk": "Krátke pešie vzdialenosti medzi zastávkami a pamiatkami."
               }
             },
             {
@@ -2170,7 +2348,8 @@
                 "de": "Besuchen Sie die Kirche zum kurzen Aufwärmen.",
                 "hu": "Látogassa meg a templomot egy rövid melegedésre.",
                 "ro": "Vizitați biserica pentru o scurtă încălzire.",
-                "en": "Visit the church for a brief warm-up indoors."
+                "en": "Visit the church for a brief warm-up indoors.",
+                "sk": "Navštívte kostol na krátke zahriatie vnútri."
               }
             },
             {
@@ -2179,7 +2358,8 @@
                 "de": "Das Museum ist ein idealer Ort im Winter.",
                 "hu": "A múzeum ideális helyszín télen.",
                 "ro": "Muzeul este o locație ideală iarna.",
-                "en": "The museum is an ideal indoor location in winter."
+                "en": "The museum is an ideal indoor location in winter.",
+                "sk": "Múzeum je ideálnym vnútorným miestom v zime."
               }
             },
             {
@@ -2188,7 +2368,8 @@
                 "de": "Tragen Sie feste Schuhe für den Weg von der Haltestelle.",
                 "hu": "Viseljen stabil cipőt a megállótól vezető úton.",
                 "ro": "Purtați încălțăminte solidă de la stație până la deal.",
-                "en": "Wear sturdy shoes for the walk from the bus stop."
+                "en": "Wear sturdy shoes for the walk from the bus stop.",
+                "sk": "Noste pevné topánky na prechádzku od autobusovej zastávky."
               }
             },
             {
@@ -2197,7 +2378,8 @@
                 "de": "Nutzen Sie den letzten Bus vor Einbruch der Dunkelheit.",
                 "hu": "Használja az utolsó buszt sötétedés előtt.",
                 "ro": "Folosiți ultimul autobuz înainte de lăsarea serii.",
-                "en": "Take the last bus before complete darkness falls."
+                "en": "Take the last bus before complete darkness falls.",
+                "sk": "Nastúpte na posledný autobus pred úplným súmrakom."
               }
             }
           ],
@@ -2225,6 +2407,12 @@
               "Check the holiday schedule during December.",
               "Watch out for icy curbs when boarding the bus.",
               "Some lines may run less frequently in the evenings."
+            ],
+            "sk": [
+              "Autobusy sú v zime často najteplejšou možnosťou prepravy.",
+              "Skontrolujte sviatočný cestovný poriadok v decembri.",
+              "Dávajte pozor na zľadovatené obrubníky pri nastupovaní do autobusu.",
+              "Niektoré linky večer premávajú menej často."
             ]
           }
         }

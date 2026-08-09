@@ -21,7 +21,8 @@
             "de": "Kirche des Heiligen Martin",
             "hu": "Szent Márton-templom",
             "ro": "Biserica Sfântul Martin",
-            "en": "Church of Saint Martin"
+            "en": "Church of Saint Martin",
+            "sk": "Kostol svätého Martina"
           },
           "coords": [
             18.923,
@@ -37,7 +38,8 @@
             "de": "Bewundern Sie die gotischen Fresken und die ruhige Atmosphäre im Inneren.",
             "hu": "Csodálja meg a gótikus freskókat és a templom csendes atmoszféráját.",
             "ro": "Admirați frescele gotice și atmosfera liniștită din interior.",
-            "en": "Admire the Gothic frescoes and the quiet atmosphere inside."
+            "en": "Admire the Gothic frescoes and the quiet atmosphere inside.",
+            "sk": "Obdivujte gotické fresky a tiché vnútorné prostredie."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Nationalfriedhof",
             "hu": "Nemzeti Temető",
             "ro": "Cimitirul Național",
-            "en": "National Cemetery"
+            "en": "National Cemetery",
+            "sk": "Národný cintorín"
           },
           "coords": [
             18.9205,
@@ -61,7 +64,8 @@
             "de": "Ein Spaziergang hier ist wie eine Lektion in slowakischer Geschichte.",
             "hu": "Egy séta itt felér egy szlovák történelemórával.",
             "ro": "O plimbare aici este ca o lecție de istorie slovacă.",
-            "en": "A walk here is like a lesson in Slovak history."
+            "en": "A walk here is like a lesson in Slovak history.",
+            "sk": "Prechádzka tu je ako hodina slovenských dejín."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Matica slovenská",
             "hu": "Matica slovenská",
             "ro": "Matica slovenská",
-            "en": "Matica slovenská"
+            "en": "Matica slovenská",
+            "sk": "Matica slovenská"
           },
           "coords": [
             18.918,
@@ -85,7 +90,8 @@
             "de": "Das Gebäude ist ein Symbol der nationalen Wiedergeburt. Prüfen Sie, ob es Ausstellungen gibt.",
             "hu": "Az épület a nemzeti újjászületés szimbóluma. Nézze meg, vannak-e aktuális kiállítások.",
             "ro": "Clădirea este un simbol al renașterii naționale. Verificați dacă există expoziții.",
-            "en": "The building is a symbol of the national revival. Check for any ongoing exhibitions."
+            "en": "The building is a symbol of the national revival. Check for any ongoing exhibitions.",
+            "sk": "Budova je symbolom národného obrodenia. Skontrolujte prebiehajúce výstavy."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Slowakisches Nationales Literaturmuseum",
             "hu": "Szlovák Nemzeti Irodalmi Múzeum",
             "ro": "Muzeul Național de Literatură Slovacă",
-            "en": "Slovak National Literary Museum"
+            "en": "Slovak National Literary Museum",
+            "sk": "Slovenské národné literárne múzeum"
           },
           "coords": [
             18.9175,
@@ -109,7 +116,8 @@
             "de": "Ein Muss für Buchliebhaber, um in die slowakische Literatur einzutauchen.",
             "hu": "A könyvek szerelmeseinek kötelező, hogy elmerüljenek a szlovák irodalomban.",
             "ro": "O necesitate pentru iubitorii de cărți, pentru a se cufunda în literatura slovacă.",
-            "en": "A must-visit for book lovers to dive into Slovak literature."
+            "en": "A must-visit for book lovers to dive into Slovak literature.",
+            "sk": "Povinná zastávka pre milovníkov kníh, ktorí sa chcú ponoriť do slovenskej literatúry."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Turiec-Galerie",
             "hu": "Turiec Galéria",
             "ro": "Galeria Turiec",
-            "en": "Turiec Gallery"
+            "en": "Turiec Gallery",
+            "sk": "Turčianska galéria"
           },
           "coords": [
             18.925,
@@ -133,7 +142,8 @@
             "de": "Konzentriert sich auf slowakische Kunst des 20. Jahrhunderts. Eine angenehme visuelle Pause.",
             "hu": "A 20. századi szlovák művészetre összpontosít. Kellemes vizuális szünet.",
             "ro": "Se concentrează pe arta slovacă din secolul XX. O pauză vizuală plăcută.",
-            "en": "Focuses on 20th-century Slovak art. A pleasant visual break."
+            "en": "Focuses on 20th-century Slovak art. A pleasant visual break.",
+            "sk": "Zameriava sa na slovenské výtvarné umenie 20. storočia. Príjemná vizuálna prestávka."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "SNP-Theater",
             "hu": "SNP Színház",
             "ro": "Teatrul SNP",
-            "en": "SNP Theatre"
+            "en": "SNP Theatre",
+            "sk": "SNP Divadlo"
           },
           "coords": [
             18.9275,
@@ -157,7 +168,8 @@
             "de": "Schauen Sie sich das Programm an, vielleicht gibt es eine Abendvorstellung.",
             "hu": "Nézze meg a műsort, hátha van esti előadás.",
             "ro": "Verificați programul, poate prindeți un spectacol de seară.",
-            "en": "Check the schedule, you might catch an evening performance."
+            "en": "Check the schedule, you might catch an evening performance.",
+            "sk": "Skontrolujte program, možno natrafíte na večerné predstavenie."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Museum des slowakischen Dorfes",
             "hu": "A Szlovák Falu Múzeuma",
             "ro": "Muzeul Satului Slovac",
-            "en": "Museum of the Slovak Village"
+            "en": "Museum of the Slovak Village",
+            "sk": "Múzeum slovenskej dediny"
           },
           "coords": [
             18.905,
@@ -181,7 +194,8 @@
             "de": "Das größte Freilichtmuseum der Slowakei. Planen Sie genug Zeit ein.",
             "hu": "Szlovákia legnagyobb szabadtéri múzeuma. Tervezzen elég időt a bejárására.",
             "ro": "Cel mai mare muzeu în aer liber din Slovacia. Planificați-vă suficient timp.",
-            "en": "The largest open-air museum in Slovakia. Plan enough time to explore."
+            "en": "The largest open-air museum in Slovakia. Plan enough time to explore.",
+            "sk": "Najväčšie skanzenové múzeum na Slovensku. Naplánujte si dostatok času na prehliadku."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Beginnen Sie Ihren Tag im historischen Herzen von Martin, dem Zentrum der slowakischen Kultur. Der Vormittag ist dem Erbe gewidmet, von der gotischen Kirche des Heiligen Martin bis zum Nationalfriedhof, wo die Großen der Nation ruhen. Spüren Sie den Geist der nationalen Wiedergeburt bei der Matica slovenská. Nach einem literarischen Mittagessen im Literaturmuseum spazieren Sie zur Turiec-Galerie, um die moderne slowakische Kunst zu entdecken. Der Nachmittag führt Sie aus dem Zentrum heraus zum weitläufigen Museum des slowakischen Dorfes, einem faszinierenden Freilichtmuseum, das das ländliche Leben der Vergangenheit zeigt. Schließen Sie den Tag mit einem Gefühl des tiefen Eintauchens in die slowakische Seele ab, bereit für ein herzhaftes Abendessen.",
         "hu": "Kezdje a napot Turócszentmárton történelmi szívében, a szlovák kultúra központjában. A délelőtt az örökségé, a gótikus Szent Márton-templomtól a Nemzeti Temetőig, ahol a nemzet nagyjai nyugszanak. Érezze a nemzeti ébredés szellemét a Matica slovenská épületénél. Egy irodalmi elmélyülés után az Irodalmi Múzeumban sétáljon át a Turiec Galériába, hogy felfedezze a modern szlovák művészetet. A délután a központból a tágas Szlovák Falu Múzeumába vezet, egy lenyűgöző szabadtéri múzeumba, amely a múlt vidéki életét mutatja be. Zárja a napot a szlovák lélekben való mély elmerülés érzésével, készen egy kiadós vacsorára.",
         "ro": "Începeți ziua în inima istorică a orașului Martin, centrul culturii slovace. Dimineața este dedicată patrimoniului, de la gotica Biserică a Sfântului Martin la Cimitirul Național, unde se odihnesc marii națiunii. Simțiți spiritul renașterii naționale la Matica slovenská. După o incursiune literară la Muzeul Literaturii, plimbați-vă la Galeria Turiec pentru a descoperi arta slovacă modernă. După-amiaza vă poartă în afara centrului, la vastul Muzeu al Satului Slovac, un muzeu fascinant în aer liber care prezintă viața rurală de altădată. Încheiați ziua cu un sentiment de imersiune profundă în sufletul slovac, gata pentru o cină copioasă.",
-        "en": "Start your day in the historical heart of Martin, the center of Slovak culture. The morning is dedicated to heritage, from the Gothic Church of Saint Martin to the National Cemetery, where the nation's greats rest. Feel the spirit of the national revival at Matica slovenská. After a literary immersion at the Literary Museum, stroll to the Turiec Gallery to discover modern Slovak art. The afternoon takes you out of the center to the expansive Museum of the Slovak Village, a fascinating open-air museum showcasing rural life of the past. End the day with a feeling of deep immersion in the Slovak soul, ready for a hearty dinner."
+        "en": "Start your day in the historical heart of Martin, the center of Slovak culture. The morning is dedicated to heritage, from the Gothic Church of Saint Martin to the National Cemetery, where the nation's greats rest. Feel the spirit of the national revival at Matica slovenská. After a literary immersion at the Literary Museum, stroll to the Turiec Gallery to discover modern Slovak art. The afternoon takes you out of the center to the expansive Museum of the Slovak Village, a fascinating open-air museum showcasing rural life of the past. End the day with a feeling of deep immersion in the Slovak soul, ready for a hearty dinner.",
+        "sk": "Začnite deň v historickom srdci Martina, centre slovenskej kultúry. Ráno venujte dedičstvu, od gotického Kostola svätého Martina po Národný cintorín, kde odpočívajú velikáni národa. Pocítite ducha národného obrodenia v Matici slovenskej. Po literárnom ponorení v Literárnom múzeu prejdite do Turčianskej galérie a objavte moderné slovenské umenie. Popoludnie vás zavedie mimo centra do rozľahlého Múzea slovenskej dediny, fascinujúceho skanzenu predstavujúceho vidiecky život minulosti. Deň ukončite s pocitom hlbokého ponorenia do slovenskej duše a pripravte sa na vydatnú večeru."
       },
       "gastro_picks": {
         "de": [
@@ -329,6 +344,11 @@
           "Wear comfortable shoes as you'll be doing a lot of walking.",
           "Most central sights are within easy walking distance.",
           "The Museum of the Slovak Village is quite large, allow at least 2 hours for it."
+        ],
+        "sk": [
+          "Obujte si pohodlnú obuv – budete veľa chodiť.",
+          "Väčšina centrálnych pamiatok je v ľahkom pešom dosahu.",
+          "Na Múzeum slovenskej dediny počítajte minimálne 2 hodiny."
         ]
       },
       "variants": {
@@ -337,7 +357,8 @@
             "de": "Morgens bietet die St.-Martins-Kirche Schutz vor dem Regen. Mittags geht es durch die Matica-Slovenská-Gebäude ins Literaturmuseum, wo Sie trocken bleiben. Nachmittags erkunden Sie die Turiec-Galerie. Den Abend verbringen Sie im Freilichtmuseum, wobei feste Schuhe für die unbefestigten Wege zwischen den Holzhäusern bei Nässe unerlässlich sind.",
             "hu": "Reggel a Szent Márton-templom hűvös falaivol kezdünk, védve az esőtől. Délben a Matica slovenská épületei és az irodalmi múzeum kínálnak fedett programot. Délután a Turóci Galéria tárlatait nézzük meg. Az estét a skanzenben zárjuk; az esernyő kötelező a házak közötti sárban, de a belső terekben szárazon ismerkedhetünk a népi építészettel.",
             "ro": "Dimineața începe la Biserica Sf. Martin, un refugiu perfect împotriva ploii. La prânz, vizităm Matica slovenská și Muzeul Literaturii, ambele oferind spații interioare generoase. După-amiaza explorăm Galeria Turiec. Seara se încheie la muzeul satului; deși drumurile pot fi noroioase, interiorul caselor tradiționale oferă o perspectivă uscată asupra istoriei.",
-            "en": "Morning starts at St. Martin's Church, providing shelter from the rain. At noon, Matica slovenská and the Literary Museum offer indoor cultural exploration. Afternoon is spent at the Turiec Gallery. The day ends at the open-air museum; an umbrella is vital for the paths between historic houses, though the interiors remain dry and atmospheric."
+            "en": "Morning starts at St. Martin's Church, providing shelter from the rain. At noon, Matica slovenská and the Literary Museum offer indoor cultural exploration. Afternoon is spent at the Turiec Gallery. The day ends at the open-air museum; an umbrella is vital for the paths between historic houses, though the interiors remain dry and atmospheric.",
+            "sk": "Ráno začína pri Kostole sv. Martina, ktorý poskytuje úkryt pred dažďom. Na poludnie Matica slovenská a Literárne múzeum ponúkajú vnútorné kultúrne vyžitie. Popoludnie strávite v Turčianskej galérii. Deň končí v skanzene; pri ceste medzi historickými domami je nevyhnutný dáždnik, interiéry zostávajú suché a atmosférické."
           },
           "stops": [
             {
@@ -346,7 +367,8 @@
                 "de": "Hinter dem Altar befinden sich mittelalterliche Fresken aus dem 14. Jahrhundert.",
                 "hu": "A 14. századi freskók a szentélyben jól láthatóak a borús fényben is.",
                 "ro": "Frescele medievale din secolul al XIV-lea sunt vizibile în zona altarului.",
-                "en": "Check the 14th-century medieval frescoes located behind the main altar."
+                "en": "Check the 14th-century medieval frescoes located behind the main altar.",
+                "sk": "Skontrolujte stredoveké fresky zo 14. storočia za hlavným oltárom."
               }
             },
             {
@@ -355,7 +377,8 @@
                 "de": "Die Alleen bieten unter den Bäumen leichten Schutz vor Nieselregen.",
                 "hu": "A fák lombjai alatt a sírkert sétányai részben védettek a szemerkélő esőtől.",
                 "ro": "Aleile oferă o protecție parțială sub copaci în caz de ploaie ușoară.",
-                "en": "The tree-lined avenues provide some shelter from light drizzle during the walk."
+                "en": "The tree-lined avenues provide some shelter from light drizzle during the walk.",
+                "sk": "Aleje lemované stromami poskytujú čiastočný úkryt pred ľahkým mrholením počas prechádzky."
               }
             },
             {
@@ -364,7 +387,8 @@
                 "de": "Im Inneren des 1926 erbauten Gebäudes gibt es interessante Ausstellungen.",
                 "hu": "Az 1926-ban emelt épület belső terei érdekes kiállításokat rejtenek.",
                 "ro": "Interiorul clădirii din 1926 găzduiește expoziții istorice fascinante.",
-                "en": "The interior of this 1926 building holds interesting historical exhibits."
+                "en": "The interior of this 1926 building holds interesting historical exhibits.",
+                "sk": "Interiér tejto budovy z roku 1926 obsahuje zaujímavé historické exponáty."
               }
             },
             {
@@ -373,7 +397,8 @@
                 "de": "Nutzen Sie die Garderobe, um nasse Mäntel vor dem Rundgang abzugeben.",
                 "hu": "Használja a ruhatárat a vizes kabátok leadására a kiállítás megtekintése előtt.",
                 "ro": "Folosiți garderoba pentru haine umede înainte de a începe turul muzeului.",
-                "en": "Use the cloakroom to drop off wet coats before starting the museum tour."
+                "en": "Use the cloakroom to drop off wet coats before starting the museum tour.",
+                "sk": "Vyťažte šatňu na odloženie mokrých kabátov pred začiatkom prehliadky múzea."
               }
             },
             {
@@ -382,7 +407,8 @@
                 "de": "Das Gebäude des ehemaligen Komitatshauses ist auch architektonisch sehenswert.",
                 "hu": "Az egykori vármegyeháza épülete építészetileg is kiemelkedő alkotás.",
                 "ro": "Clădirea fostului sediu al comitatului este o bijuterie arhitecturală.",
-                "en": "The building of the former county house is architecturally significant."
+                "en": "The building of the former county house is architecturally significant.",
+                "sk": "Budova bývalej župnej síně má architektonický význam."
               }
             },
             {
@@ -391,7 +417,8 @@
                 "de": "Das Foyer bietet einen kurzen trockenen Rastplatz vor dem Weiterweg.",
                 "hu": "Az előcsarnok rövid pihenőt nyújt szárazon a következő állomás előtt.",
                 "ro": "Foaierul oferă un scurt loc de odihnă uscat înainte de următoarea oprire.",
-                "en": "The foyer offers a brief dry rest area before continuing your route."
+                "en": "The foyer offers a brief dry rest area before continuing your route.",
+                "sk": "Foyer ponúka krátky suchý oddych pred pokračovaním trasy."
               }
             },
             {
@@ -400,7 +427,8 @@
                 "de": "Wählen Sie feste Stiefel, da die Wege bei Regen schlammig werden können.",
                 "hu": "Válasszon zárt cipőt, mert az utak esőben hamar sárossá válnak.",
                 "ro": "Purtați încălțăminte rezistentă, deoarece drumurile pot deveni noroioase.",
-                "en": "Wear sturdy boots as the unpaved paths can become muddy in the rain."
+                "en": "Wear sturdy boots as the unpaved paths can become muddy in the rain.",
+                "sk": "Obujte pevné čižmy – nespevnéné chodníky sa v daždi môžu zmeniť na blato."
               }
             }
           ],
@@ -428,6 +456,12 @@
               "The Literary Museum is a great place to spend extra time during heavy rain.",
               "Expect unpaved and muddy paths at the open-air museum (skansen).",
               "Umbrellas are usually stored at the entrance in city museums and galleries."
+            ],
+            "sk": [
+              "Nepremokavá bunda je nevyhnutná na krátke presuny medzi vnútornými lokalitami.",
+              "Literárne múzeum je skvelé miesto na predĺžený pobyt počas silného dažďa.",
+              "V skanzene očakávajte nespevnené a blátivé chodníky.",
+              "Dáždniky sa zvyčajne skladujú pri vstupe do mestských múzeí a galérií."
             ]
           }
         },
@@ -436,7 +470,8 @@
             "de": "Morgens erkunden Sie die verschneite St.-Martins-Kirche. Mittags wärmen Sie sich in den Räumen der Matica Slovenská auf. Nachmittags besuchen Sie das Literaturmuseum und die Turiec-Galerie, während es draußen früh dunkel wird. Den Tag beenden Sie im winterlichen Freilichtmuseum, wo die verschneiten Holzhäuser eine besondere Stille ausstrahlen.",
             "hu": "Reggel a havas Szent Márton-templomot látogatjuk meg a csípős hidegben. Délben a Matica slovenská fűtött tereiben melegszünk fel. Délután az irodalmi múzeum és a galéria tárlatai között kalandozunk, miközben korán sötétedik. Az estét a téli skanzenben zárjuk, ahol a hófödte gerendaházak között különleges csend honol.",
             "ro": "Dimineața vizităm Biserica Sf. Martin sub un strat de zăpadă. La prânz, ne încălzim în interiorul instituției Matica slovenská. După-amiaza explorăm Muzeul Literaturii și Galeria Turiec înainte de lăsarea serii timpurii. Ziua se încheie la muzeul satului, unde casele de lemn acoperite de omăt oferă un decor de poveste.",
-            "en": "Morning features the snow-covered St. Martin's Church in the crisp air. At noon, warm up inside the Matica slovenská buildings. Afternoon is dedicated to the Literary Museum and Turiec Gallery as the sun sets early. The day concludes at the open-air museum, where snow-draped wooden houses create a silent, magical atmosphere."
+            "en": "Morning features the snow-covered St. Martin's Church in the crisp air. At noon, warm up inside the Matica slovenská buildings. Afternoon is dedicated to the Literary Museum and Turiec Gallery as the sun sets early. The day concludes at the open-air museum, where snow-draped wooden houses create a silent, magical atmosphere.",
+            "sk": "Ráno ukazuje zasnežený Kostol sv. Martina v čistom vzduchu. Na poludnie sa môžete zohriať v budovách Matice slovenskej. Popoludnie je venované Literárnemu múzeu a Turčianskej galérii, keď sa deň rýchlo skracuje. Deň končí v skanzene, kde zasnežené drevené domy vytvárajú tichú, magickú atmosféru."
           },
           "stops": [
             {
@@ -445,7 +480,8 @@
                 "de": "Vorsicht vor vereisten Stufen am Kircheneingang.",
                 "hu": "Vigyázat, a templom bejáratánál a lépcsők jegesek lehetnek.",
                 "ro": "Atenție la treptele înghețate de la intrarea în biserică.",
-                "en": "Be careful of icy steps at the church entrance in freezing temperatures."
+                "en": "Be careful of icy steps at the church entrance in freezing temperatures.",
+                "sk": "Dávajte pozor na zľadovatené schody pri vstupe do kostola v mrazivom počasí."
               }
             },
             {
@@ -454,7 +490,8 @@
                 "de": "Die verschneiten Gräber bedeutender Slowaken wirken im Winter sehr andächtig.",
                 "hu": "A híres szlovákok hófödte sírjai télen különösen méltóságteljesek.",
                 "ro": "Mormintele personalităților slovace arată solemn sub stratul de zăpadă.",
-                "en": "The snow-covered graves of Slovak intellectuals look very solemn in winter."
+                "en": "The snow-covered graves of Slovak intellectuals look very solemn in winter.",
+                "sk": "Zasnežené hroby slovenských intelektuálov vyzerajú v zime veľmi úctivo."
               }
             },
             {
@@ -463,7 +500,8 @@
                 "de": "Ein warmer Ort, um sich über die nationale Geschichte zu informieren.",
                 "hu": "Kellemesen fűtött helyszín a nemzeti történelem megismeréséhez.",
                 "ro": "Un loc bine încălzit pentru a afla mai multe despre istoria națională.",
-                "en": "A well-heated location to learn about Slovak national history."
+                "en": "A well-heated location to learn about Slovak national history.",
+                "sk": "Dobre vyhriate miesto na spoznávanie slovenskej národnej histórie."
               }
             },
             {
@@ -472,7 +510,8 @@
                 "de": "Bewundern Sie die Handschriften in den gut temperierten Räumen.",
                 "hu": "Csodálja meg a kéziratokat a jól temperált kiállítótermekben.",
                 "ro": "Admirați manuscrisele vechi în sălile bine climatizate ale muzeului.",
-                "en": "Admire the old manuscripts in the well-tempered exhibition rooms."
+                "en": "Admire the old manuscripts in the well-tempered exhibition rooms.",
+                "sk": "Obdivujte staré rukopisy v dobre temperovaných výstavných miestnostiach."
               }
             },
             {
@@ -481,7 +520,8 @@
                 "de": "Die Ausstellungen zeitgenössischer Kunst bieten eine farbige Abwechslung zum Grau.",
                 "hu": "A kortárs kiállítások színes kontrasztot adnak a téli szürkeségnek.",
                 "ro": "Expozițiile de artă contemporană oferă un contrast cromatic iernii.",
-                "en": "Contemporary art exhibits provide a colorful contrast to the winter gray."
+                "en": "Contemporary art exhibits provide a colorful contrast to the winter gray.",
+                "sk": "Súčasné výstavy umenia ponúkajú farebný kontrast k zimnej sivej."
               }
             },
             {
@@ -490,7 +530,8 @@
                 "de": "Ein kurzer Stopp im beleuchteten Zentrum nahe dem Theater lohnt sich.",
                 "hu": "Érdemes megállni a színház melletti kivilágított főtéren egy percre.",
                 "ro": "Merită o scurtă oprire în centrul luminat de lângă teatru.",
-                "en": "A short stop in the illuminated center near the theatre is worthwhile."
+                "en": "A short stop in the illuminated center near the theatre is worthwhile.",
+                "sk": "Krátka zastávka v osvetlenom centre pri divadle stojí za to."
               }
             },
             {
@@ -499,7 +540,8 @@
                 "de": "Ziehen Sie warme Socken an; in den historischen Häusern ist es kühl.",
                 "hu": "Öltözzön rétegesen; a régi faházak belső terei télen hűvösek.",
                 "ro": "Purtați șosete groase; interioarele caselor istorice sunt reci iarna.",
-                "en": "Wear warm socks; the interiors of the historic houses are chilly in winter."
+                "en": "Wear warm socks; the interiors of the historic houses are chilly in winter.",
+                "sk": "Noste teplé ponožky; interiéry historických domov sú v zime chladné."
               }
             }
           ],
@@ -527,6 +569,12 @@
               "Watch out for ice; the Martin region often sees significant snowfall.",
               "City center cafes serve excellent hot tea with honey for warming up.",
               "Thermal layers are recommended for the long walk through the skansen."
+            ],
+            "sk": [
+              "Západ slnka je približne o 16:15; naplánujte návštevu skanzenu skôr.",
+              "Dávajte pozor na ľad; región Martin často zažíva výdatné snehové zrážky.",
+              "Kaviarne v centre mesta ponúkajú vynikajúci horúci čaj s medom na zahriatie.",
+              "Termo vrstvy sa odporúčajú na dlhú prechádzku skanzenom."
             ]
           }
         }
@@ -545,7 +593,8 @@
             "de": "Kirche des Heiligen Martin",
             "hu": "Szent Márton-templom",
             "ro": "Biserica Sfântul Martin",
-            "en": "Church of Saint Martin"
+            "en": "Church of Saint Martin",
+            "sk": "Kostol svätého Martina"
           },
           "coords": [
             18.923,
@@ -561,7 +610,8 @@
             "de": "Schließen Sie Ihr Fahrrad in der Nähe ab und genießen Sie die Ruhe.",
             "hu": "Zárja le a kerékpárt a közelben, és élvezze a csendet.",
             "ro": "Legați-vă bicicleta în apropiere și bucurați-vă de liniște.",
-            "en": "Lock your bike nearby and enjoy the tranquility."
+            "en": "Lock your bike nearby and enjoy the tranquility.",
+            "sk": "Zamknite si bicykel nablízku a užite si pokoj."
           }
         },
         {
@@ -569,7 +619,8 @@
             "de": "Nationalfriedhof & Matica slovenská",
             "hu": "Nemzeti Temető és Matica slovenská",
             "ro": "Cimitirul Național & Matica slovenská",
-            "en": "National Cemetery & Matica slovenská"
+            "en": "National Cemetery & Matica slovenská",
+            "sk": "Národný cintorín a Matica slovenská"
           },
           "coords": [
             18.919,
@@ -585,7 +636,8 @@
             "de": "Diese beiden wichtigen nationalen Stätten liegen nahe beieinander.",
             "hu": "Ez a két fontos nemzeti helyszín közel van egymáshoz.",
             "ro": "Aceste două situri naționale importante sunt aproape una de cealaltă.",
-            "en": "These two important national sites are close to each other."
+            "en": "These two important national sites are close to each other.",
+            "sk": "Tieto dve dôležité národné lokality sú blízko seba."
           }
         },
         {
@@ -593,7 +645,8 @@
             "de": "Slowakisches Nationales Literaturmuseum",
             "hu": "Szlovák Nemzeti Irodalmi Múzeum",
             "ro": "Muzeul Național de Literatură Slovacă",
-            "en": "Slovak National Literary Museum"
+            "en": "Slovak National Literary Museum",
+            "sk": "Slovenské národné literárne múzeum"
           },
           "coords": [
             18.9175,
@@ -609,7 +662,8 @@
             "de": "Stellen Sie Ihr Fahrrad sicher ab, bevor Sie in die Welt der Bücher eintauchen.",
             "hu": "Biztonságosan tegye le a kerékpárt, mielőtt elmerül a könyvek világában.",
             "ro": "Parcați bicicleta în siguranță înainte de a vă cufunda în lumea cărților.",
-            "en": "Park your bike safely before immersing yourself in the world of books."
+            "en": "Park your bike safely before immersing yourself in the world of books.",
+            "sk": "Zaparkujte bicykel bezpečne predtým, než sa ponoríte do sveta kníh."
           }
         },
         {
@@ -617,7 +671,8 @@
             "de": "Mittagessen in der Innenstadt",
             "hu": "Ebéd a belvárosban",
             "ro": "Prânz în centrul orașului",
-            "en": "Lunch in the city center"
+            "en": "Lunch in the city center",
+            "sk": "Obed v centre mesta"
           },
           "coords": [
             18.924,
@@ -633,7 +688,8 @@
             "de": "Finden Sie ein lokales Restaurant, um Bryndzové halušky zu probieren.",
             "hu": "Keressen egy helyi éttermet, és kóstolja meg a juhtúrós sztrapacskát.",
             "ro": "Găsiți un restaurant local pentru a încerca Bryndzové halušky.",
-            "en": "Find a local restaurant to try Bryndzové halušky."
+            "en": "Find a local restaurant to try Bryndzové halušky.",
+            "sk": "Nájdite miestnu reštauráciu a ochutnajte bryndzové halušky."
           }
         },
         {
@@ -641,7 +697,8 @@
             "de": "Museum des slowakischen Dorfes",
             "hu": "A Szlovák Falu Múzeuma",
             "ro": "Muzeul Satului Slovac",
-            "en": "Museum of the Slovak Village"
+            "en": "Museum of the Slovak Village",
+            "sk": "Múzeum slovenskej dediny"
           },
           "coords": [
             18.905,
@@ -657,7 +714,8 @@
             "de": "Der Weg dorthin ist eine angenehme Radtour. Das Museumsgelände ist groß.",
             "hu": "Kellemes kerékpárút vezet oda. A múzeum területe nagy.",
             "ro": "Traseul până acolo este o plimbare plăcută cu bicicleta. Zona muzeului este mare.",
-            "en": "The ride there is a pleasant cycle. The museum grounds are large."
+            "en": "The ride there is a pleasant cycle. The museum grounds are large.",
+            "sk": "Cesta tam je príjemná na bicykli. Rozloha múzea je veľká."
           }
         },
         {
@@ -665,7 +723,8 @@
             "de": "Radweg am Fluss Turiec",
             "hu": "Kerékpárút a Turiec folyó mentén",
             "ro": "Pista de biciclete de-a lungul râului Turiec",
-            "en": "Turiec River Bike Path"
+            "en": "Turiec River Bike Path",
+            "sk": "Cyklotrasa pri rieke Turiec"
           },
           "coords": [
             18.915,
@@ -681,7 +740,8 @@
             "de": "Ein entspannter Ausklang des Tages mit einer Fahrt entlang des Flusses zurück ins Zentrum.",
             "hu": "A nap pihentető lezárása egy folyóparti tekeréssel vissza a központba.",
             "ro": "O încheiere relaxantă a zilei cu o plimbare cu bicicleta de-a lungul râului înapoi spre centru.",
-            "en": "A relaxing end to the day with a ride along the river back towards the center."
+            "en": "A relaxing end to the day with a ride along the river back towards the center.",
+            "sk": "Pokojné ukončenie dňa s jazdou pozdĺž rieky späť k centru."
           }
         }
       ],
@@ -689,7 +749,8 @@
         "de": "Schwingen Sie sich auf den Sattel für eine kulturelle Radtour durch Martin. Starten Sie bei der ehrwürdigen Kirche des Heiligen Martin und radeln Sie dann zu den nationalen Symbolen, dem Friedhof und der Matica slovenská. Am Vormittag tauchen Sie im Literaturmuseum in die Welt der Buchstaben ein. Nach einem stärkenden Mittagessen in der Innenstadt führt Sie die Hauptetappe zum Museum des slowakischen Dorfes. Die Radtour dorthin ist bereits ein Erlebnis. Verbringen Sie einen ausgiebigen Nachmittag in diesem riesigen Freilichtmuseum, bevor Sie den Tag mit einer gemütlichen Fahrt entlang des Turiec-Flusses ausklingen lassen.",
         "hu": "Pattanjon nyeregbe egy kulturális kerékpártúrára Turócszentmártonban. Indítson a tiszteletreméltó Szent Márton-templomnál, majd tekerjen el a nemzeti szimbólumokhoz, a temetőhöz és a Matica slovenská-hoz. Délelőtt merüljön el a betűk világában az Irodalmi Múzeumban. Egy belvárosi, energiát adó ebéd után a fő szakasz a Szlovák Falu Múzeumához vezet. Már az odavezető út is egy élmény. Töltsön egy tartalmas délutánt ebben a hatalmas szabadtéri múzeumban, mielőtt a napot egy kellemes tekeréssel zárja a Turóc folyó mentén.",
         "ro": "Urcați-vă în șa pentru un tur cultural cu bicicleta prin Martin. Începeți de la venerabila Biserică a Sfântului Martin, apoi pedalați spre simbolurile naționale, cimitirul și Matica slovenská. În cursul dimineții, scufundați-vă în lumea literelor la Muzeul Literaturii. După un prânz revigorant în centrul orașului, etapa principală vă duce la Muzeul Satului Slovac. Plimbarea cu bicicleta până acolo este deja o experiență în sine. Petreceți o după-amiază plină în acest imens muzeu în aer liber, înainte de a încheia ziua cu o plimbare relaxantă de-a lungul râului Turiec.",
-        "en": "Get on your bike for a cultural cycling tour through Martin. Start at the venerable Church of Saint Martin, then pedal to the national symbols, the cemetery and the Matica slovenská. In the morning, immerse yourself in the world of letters at the Literary Museum. After a revitalizing lunch in the city center, the main stage takes you to the Museum of the Slovak Village. The bike ride there is an experience in itself. Spend a full afternoon in this huge open-air museum before ending the day with a leisurely ride along the Turiec River."
+        "en": "Get on your bike for a cultural cycling tour through Martin. Start at the venerable Church of Saint Martin, then pedal to the national symbols, the cemetery and the Matica slovenská. In the morning, immerse yourself in the world of letters at the Literary Museum. After a revitalizing lunch in the city center, the main stage takes you to the Museum of the Slovak Village. The bike ride there is an experience in itself. Spend a full afternoon in this huge open-air museum before ending the day with a leisurely ride along the Turiec River.",
+        "sk": "Vydajte sa na bicykli na kultúrny cyklistický okruh po Martine. Začnite pri ctihodnom Kostole sv. Martina, potom prešlápnite k národným symbolom – cintorínu a Matice slovenskej. Ráno sa ponorte do sveta písomníctva v Literárnom múzeu. Po osviežujúcom obede v centre vás hlavný program zavedie do Múzea slovenskej dediny. Jazda tam je zážitkom sama o sebe. Strávte celé popoludnie v tomto rozsiahlom skanzene a deň zakončite pokojnou jazdou po cyklotrase pri rieke Turiec."
       },
       "gastro_picks": {
         "de": [
@@ -829,6 +890,11 @@
           "Martin is relatively flat, but gears are useful for the ride to the Village Museum.",
           "Always lock your bike securely.",
           "Check your tire pressure before you set off."
+        ],
+        "sk": [
+          "Martin je relatívne rovinatý, no prevody sa hodia na cestu k Múzeu dediny.",
+          "Vždy si pevne zamknite bicykel.",
+          "Pred odjazdom skontrolujte tlak v pneumatikách."
         ]
       },
       "variants": {
@@ -837,7 +903,8 @@
             "de": "Regnerischer Start an der St.-Martins-Kirche. Danach radeln Sie vorsichtig zur Matica Slovenská und zum Literaturmuseum, wo Sie längere Zeit trocken verbringen. Mittagsrast im Zentrum. Nachmittags geht es zum Freilichtmuseum, wobei Sie auf dem Radweg am Fluss Turiec auf rutschige Blätter und Pfützen achten müssen.",
             "hu": "Esős start a Szent Márton-templomnál. Óvatosan kerekezünk a Matica slovenská és az irodalmi múzeum felé, ahol hosszabb időt töltünk fedett helyen. Ebéd a belvárosban. Délután a skanzen felé vesszük az irányt; a Turóc folyó menti kerékpárúton figyeljünk a csúszós levelekre és tócsákra.",
             "ro": "Start ploios la Biserica Sf. Martin. Pedalați cu grijă spre Matica slovenská și Muzeul Literaturii, unde veți petrece timp la adăpost. Prânz în centru. După-amiaza mergem spre muzeul satului; pe pista de biciclete de lângă râul Turiec, atenție la frunzele umede și bălți.",
-            "en": "Rainy start at St. Martin's Church. Cycle carefully to Matica slovenská and the Literary Museum for an extended indoor break. Lunch in the center. Afternoon ride to the open-air museum; watch for slippery leaves and puddles on the Turiec river bike path."
+            "en": "Rainy start at St. Martin's Church. Cycle carefully to Matica slovenská and the Literary Museum for an extended indoor break. Lunch in the center. Afternoon ride to the open-air museum; watch for slippery leaves and puddles on the Turiec river bike path.",
+            "sk": "Daždivý štart pri Kostole sv. Martina. Cyklisticky opatrne do Matice slovenskej a Literárneho múzea na predĺženú vnútornú prestávku. Obed v centre. Popoludňajšia jazda do skanzenu; dávajte pozor na šmykľavé lístie a mláky na cyklotrase pri rieke Turiec."
           },
           "stops": [
             {
@@ -846,7 +913,8 @@
                 "de": "Parken Sie das Rad unter den Vordächern nahegelegener Gebäude.",
                 "hu": "Parkoljon a kerékpárral a közeli épületek eresze alá.",
                 "ro": "Parcați bicicleta sub streșinile clădirilor din apropiere.",
-                "en": "Park your bike under the eaves of nearby buildings to keep it dry."
+                "en": "Park your bike under the eaves of nearby buildings to keep it dry.",
+                "sk": "Zaparkujte bicykel pod strechou blízkych budov, aby zostal suchý."
               }
             },
             {
@@ -855,7 +923,8 @@
                 "de": "Vorsicht beim Absteigen auf nassem Kopfsteinpflaster.",
                 "hu": "Vigyázzon a leszálláskor a vizes macskakövön.",
                 "ro": "Atenție la coborârea de pe bicicletă pe pavajul umed.",
-                "en": "Exercise caution when dismounting on wet cobblestones."
+                "en": "Exercise caution when dismounting on wet cobblestones.",
+                "sk": "Buďte opatrní pri zosadnutí na mokré dlažobné kocky."
               }
             },
             {
@@ -864,7 +933,8 @@
                 "de": "Bringen Sie ein Schloss mit; die Fahrradständer sind im Freien.",
                 "hu": "Vigyen lakatot; a kerékpártárolók a szabadban vannak.",
                 "ro": "Aduceți un antifurt; suporturile de biciclete sunt în exterior.",
-                "en": "Bring a lock; the bike racks are located outdoors near the entrance."
+                "en": "Bring a lock; the bike racks are located outdoors near the entrance.",
+                "sk": "Prineste zámok; stojany na bicykle sú umiestnené vonku pri vstupe."
               }
             },
             {
@@ -873,7 +943,8 @@
                 "de": "Suchen Sie ein Lokal mit Sichtkontakt zu Ihrem Fahrrad.",
                 "hu": "Keressen olyan helyet, ahonnan rálát a kerékpárjára.",
                 "ro": "Căutați un local de unde puteți supraveghea bicicleta.",
-                "en": "Choose a spot where you can keep an eye on your bike from inside."
+                "en": "Choose a spot where you can keep an eye on your bike from inside.",
+                "sk": "Vyberte miesto, z ktorého budete mať bicykel na dohľad z interiéru."
               }
             },
             {
@@ -882,7 +953,8 @@
                 "de": "Die Zufahrt ist asphaltiert, aber im Museum sind die Wege erdig.",
                 "hu": "A bekötőút aszfaltozott, de a múzeum területén földutak vannak.",
                 "ro": "Drumul de acces este asfaltat, dar în muzeu sunt poteci de pământ.",
-                "en": "The access road is paved, but paths inside the museum are dirt tracks."
+                "en": "The access road is paved, but paths inside the museum are dirt tracks.",
+                "sk": "Prístupová cesta je asfaltová, ale cesty vnútri múzea sú šliapané zemné trate."
               }
             },
             {
@@ -891,7 +963,8 @@
                 "de": "Vermeiden Sie schnelle Kurven auf nassem Asphalt am Fluss.",
                 "hu": "Kerülje a gyors kanyarodást a vizes aszfalton a folyóparton.",
                 "ro": "Evitați virajele strânse pe asfaltul umed de lângă râu.",
-                "en": "Avoid sharp turns on the wet asphalt along the riverbank."
+                "en": "Avoid sharp turns on the wet asphalt along the riverbank.",
+                "sk": "Vyvarujte sa prudkých zákrut na mokrom asfalte pozdĺž nábrežia."
               }
             }
           ],
@@ -919,6 +992,12 @@
               "Braking distances are significantly longer on wet asphalt.",
               "Waterproof panniers will keep your belongings dry during museum visits.",
               "Wear bright or reflective clothing in poor visibility conditions."
+            ],
+            "sk": [
+              "Používajte blatníky, aby vám voda a blato nepritiekli na oblečenie.",
+              "Brzdné dráhy sú na mokrom asfalte výrazne dlhšie.",
+              "Nepremokavé brašne udržia veci suché počas návštev múzea.",
+              "Noste výrazné alebo reflexné oblečenie za zníženej viditeľnosti."
             ]
           }
         },
@@ -927,7 +1006,8 @@
             "de": "Ein frostiger Start in Martin. Radeln Sie vorsichtig über geräumte Straßen zur St.-Martins-Kirche. Die Besuche in der Matica Slovenská und im Literaturmuseum bieten notwendige Aufwärmpausen. Nach dem Mittagessen führt die Tour zum verschneiten Freilichtmuseum. Den Abschluss bildet der Radweg am Turiec, der bei Kälte oft windig und eisig sein kann.",
             "hu": "Fagyos reggel Martinban. Óvatosan kerekezünk a megtisztított utakon a Szent Márton-templomhoz. A Matica slovenská és az irodalmi múzeum látogatása fontos melegedő szünetet biztosít. Ebéd után a havas skanzen felé tekerünk. A túrát a Turóc-parti kerékpárúton zárjuk, amely hidegben gyakran szeles és jeges.",
             "ro": "O dimineață geroasă în Martin. Pedalați cu atenție pe străzile curățate spre Biserica Sf. Martin. Vizitele la Matica slovenská și Muzeul Literaturii oferă pauze de încălzire necesare. După prânz, mergem spre muzeul satului înzăpezit. Încheiem pe pista Turiec, care poate fi vântoasă și înghețată.",
-            "en": "A frosty start in Martin. Cycle carefully on cleared roads to St. Martin's Church. Visits to Matica slovenská and the Literary Museum provide much-needed warm-up breaks. After lunch, ride to the snow-covered open-air museum. Finish on the Turiec bike path, which can be windy and icy in winter."
+            "en": "A frosty start in Martin. Cycle carefully on cleared roads to St. Martin's Church. Visits to Matica slovenská and the Literary Museum provide much-needed warm-up breaks. After lunch, ride to the snow-covered open-air museum. Finish on the Turiec bike path, which can be windy and icy in winter.",
+            "sk": "Mrazivé ráno v Martine. Cyklisticky opatrne po uprataných cestách k Kostolu sv. Martina. Návštevy Matice slovenskej a Literárneho múzea poskytnú vítané oteplenie. Po obede prejdite na zasnežený skanzen. Ukončite na cyklotrase pri Turci, ktorá môže byť v zime veterná a namrznutá."
           },
           "stops": [
             {
@@ -936,7 +1016,8 @@
                 "de": "Vorsicht vor gefrorenem Kondenswasser an Metallständern.",
                 "hu": "Vigyázzon a fém tárolókra fagyott pára miatti csúszósságra.",
                 "ro": "Atenție la condensul înghețat de pe suporturile metalice.",
-                "en": "Watch out for frozen condensation on metal bike racks."
+                "en": "Watch out for frozen condensation on metal bike racks.",
+                "sk": "Dávajte pozor na zľadovatenú kondenzáciu na kovových stojanoch na bicykle."
               }
             },
             {
@@ -945,7 +1026,8 @@
                 "de": "Treten Sie langsam in die Pedale, um Grip auf Schneeresten zu behalten.",
                 "hu": "Lassan pedálozzon, hogy megtartsa a tapadást a hómaradványokon.",
                 "ro": "Pedalați încet pentru a menține aderența pe resturile de zăpadă.",
-                "en": "Pedal slowly to maintain grip on remaining patches of snow."
+                "en": "Pedal slowly to maintain grip on remaining patches of snow.",
+                "sk": "Šliapajte pomaly, aby ste udržali priľnavosť na zvyšných snehových zátočinách."
               }
             },
             {
@@ -954,7 +1036,8 @@
                 "de": "Parken Sie nicht auf Schneehaufen am Straßenrand.",
                 "hu": "Ne parkoljon az út menti hókupacokra.",
                 "ro": "Nu parcați pe mormănoialele de zăpadă de la marginea drumului.",
-                "en": "Avoid parking your bike on snow piles at the side of the road."
+                "en": "Avoid parking your bike on snow piles at the side of the road.",
+                "sk": "Nevyparkujte bicykel na snehových kopách po stranách cesty."
               }
             },
             {
@@ -963,7 +1046,8 @@
                 "de": "Ein heißes Getränk ist wichtig, um die Körpertemperatur zu halten.",
                 "hu": "Egy forró ital fontos a testhőmérséklet fenntartásához.",
                 "ro": "O băutură fierbinte este esențială pentru menținerea temperaturii.",
-                "en": "A hot drink is essential to maintain your core body temperature."
+                "en": "A hot drink is essential to maintain your core body temperature.",
+                "sk": "Horúci nápoj je nevyhnutný na udržanie telesnej teploty."
               }
             },
             {
@@ -972,7 +1056,8 @@
                 "de": "Die Pfade im Museum sind im Winter oft tief verschneit.",
                 "hu": "A múzeumban az ösvények télen gyakran mélyen havasak.",
                 "ro": "Potecile din muzeu sunt adesea acoperite de zăpadă adâncă iarna.",
-                "en": "Paths inside the museum are often covered in deep snow in winter."
+                "en": "Paths inside the museum are often covered in deep snow in winter.",
+                "sk": "Cesty vnútri múzea sú v zime často pokryté hlbokým snehom."
               }
             },
             {
@@ -981,7 +1066,8 @@
                 "de": "Achten Sie auf Glatteis durch gefrorenen Nebel am Fluss.",
                 "hu": "Figyeljen a folyóparti köd miatti jegesedésre az aszfalton.",
                 "ro": "Atenție la poleiul format din ceața înghețată de lângă râu.",
-                "en": "Watch for black ice formed by frozen fog near the riverbank."
+                "en": "Watch for black ice formed by frozen fog near the riverbank.",
+                "sk": "Dávajte pozor na čierny ľad vytvorený zamrznutou hmlou pri nábreží."
               }
             }
           ],
@@ -1009,6 +1095,12 @@
               "Wear windproof gloves and a thin hat under your helmet.",
               "Oil your chain more frequently to protect it from road salt.",
               "Plan shorter stages as the cold saps your energy more quickly."
+            ],
+            "sk": [
+              "Mierne znížte tlak v pneumatikách pre lepšiu trakciu na snehu.",
+              "Noste vetruvzdorné rukavice a tenkú čiapku pod prilbou.",
+              "Reťaz olejujte častejšie, aby ste ju ochránili pred posypovou soľou.",
+              "Plánujte kratšie etapy, pretože zima rýchlejšie vysáva energiu."
             ]
           }
         }
@@ -1027,7 +1119,8 @@
             "de": "Parken im Stadtzentrum & Kaffee",
             "hu": "Parkolás a központban és kávé",
             "ro": "Parcare în centru și o cafea",
-            "en": "Parking in the City Center & Coffee"
+            "en": "Parking in the City Center & Coffee",
+            "sk": "Parkovanie v centre mesta a káva"
           },
           "coords": [
             18.926,
@@ -1043,7 +1136,8 @@
             "de": "Suchen Sie einen Parkplatz in der Nähe des Divadelné námestie. Starten Sie mit einem Kaffee.",
             "hu": "Keressen parkolót a Divadelné námestie (Színház tér) közelében. Kezdjen egy kávéval.",
             "ro": "Căutați o parcare lângă Divadelné námestie. Începeți cu o cafea.",
-            "en": "Find a parking spot near Divadelné námestie. Start with a coffee."
+            "en": "Find a parking spot near Divadelné námestie. Start with a coffee.",
+            "sk": "Nájdite parkovacie miesto pri Divadelné námestie. Začnite kávou."
           }
         },
         {
@@ -1051,7 +1145,8 @@
             "de": "Kirche des Heiligen Martin & Nationalfriedhof",
             "hu": "Szent Márton-templom és Nemzeti Temető",
             "ro": "Biserica Sfântul Martin și Cimitirul Național",
-            "en": "Church of St. Martin & National Cemetery"
+            "en": "Church of St. Martin & National Cemetery",
+            "sk": "Kostol sv. Martina a Národný cintorín"
           },
           "coords": [
             18.921,
@@ -1067,7 +1162,8 @@
             "de": "Ein Spaziergang zwischen diesen beiden Orten ist ein Muss, um die Seele von Martin zu verstehen.",
             "hu": "A két hely közötti séta kötelező, hogy megértsük Turócszentmárton lelkét.",
             "ro": "O plimbare între aceste două locuri este esențială pentru a înțelege sufletul orașului Martin.",
-            "en": "A walk between these two sites is a must to understand the soul of Martin."
+            "en": "A walk between these two sites is a must to understand the soul of Martin.",
+            "sk": "Prechádzka medzi týmito dvoma miestami je nevyhnutná na pochopenie duše Martina."
           }
         },
         {
@@ -1075,7 +1171,8 @@
             "de": "Matica slovenská & Literaturmuseum",
             "hu": "Matica slovenská és Irodalmi Múzeum",
             "ro": "Matica slovenská & Muzeul Literaturii",
-            "en": "Matica slovenská & Literary Museum"
+            "en": "Matica slovenská & Literary Museum",
+            "sk": "Matica slovenská a Literárne múzeum"
           },
           "coords": [
             18.918,
@@ -1091,7 +1188,8 @@
             "de": "Entdecken Sie das Herz der slowakischen Schriftsprache und Kultur in diesem Komplex.",
             "hu": "Fedezze fel a szlovák írott nyelv és kultúra szívét ebben a komplexumban.",
             "ro": "Descoperiți inima limbii și culturii scrise slovace în acest complex.",
-            "en": "Discover the heart of Slovak written language and culture in this complex."
+            "en": "Discover the heart of Slovak written language and culture in this complex.",
+            "sk": "Objavte srdce slovenskej písanej reči a kultúry v tomto komplexe."
           }
         },
         {
@@ -1099,7 +1197,8 @@
             "de": "Mittagessen und Rückkehr zum Auto",
             "hu": "Ebéd és visszatérés az autóhoz",
             "ro": "Prânz și întoarcere la mașină",
-            "en": "Lunch and return to the car"
+            "en": "Lunch and return to the car",
+            "sk": "Obed a návrat k autu"
           },
           "coords": [
             18.925,
@@ -1115,7 +1214,8 @@
             "de": "Genießen Sie ein lokales Gericht, bevor Sie zum nächsten Ziel aufbrechen.",
             "hu": "Élvezzen egy helyi fogást, mielőtt a következő célponthoz indul.",
             "ro": "Savurați un fel de mâncare local înainte de a porni spre următoarea destinație.",
-            "en": "Enjoy a local dish before heading to the next destination."
+            "en": "Enjoy a local dish before heading to the next destination.",
+            "sk": "Vychutnajte si miestne jedlo pred odchodom na ďalšiu destináciu."
           }
         },
         {
@@ -1123,7 +1223,8 @@
             "de": "Museum des slowakischen Dorfes",
             "hu": "A Szlovák Falu Múzeuma",
             "ro": "Muzeul Satului Slovac",
-            "en": "Museum of the Slovak Village"
+            "en": "Museum of the Slovak Village",
+            "sk": "Múzeum slovenskej dediny"
           },
           "coords": [
             18.905,
@@ -1139,7 +1240,8 @@
             "de": "Parken Sie hier und verbringen Sie den ganzen Nachmittag damit, die traditionelle Architektur zu erkunden.",
             "hu": "Parkoljon le itt, és töltse az egész délutánt a hagyományos építészet felfedezésével.",
             "ro": "Parcați aici și petreceți întreaga după-amiază explorând arhitectura tradițională.",
-            "en": "Park here and spend the whole afternoon exploring the traditional architecture."
+            "en": "Park here and spend the whole afternoon exploring the traditional architecture.",
+            "sk": "Parkujte tu a strávte celé popoludnie objavovaním tradičnej architektúry."
           }
         }
       ],
@@ -1147,7 +1249,8 @@
         "de": "Nutzen Sie Ihr Auto für maximale Effizienz. Parken Sie im Zentrum und erkunden Sie den ersten Cluster zu Fuß: Beginnen Sie mit der historischen Kirche und dem Nationalfriedhof. Am späten Vormittag widmen Sie sich dem kulturellen Herzen der Slowakei bei der Matica slovenská und dem angrenzenden Literaturmuseum. Nach einem gemütlichen Mittagessen in der Innenstadt fahren Sie zum zweiten Cluster. Der gesamte Nachmittag gehört dem beeindruckenden Museum des slowakischen Dorfes. Hier können Sie in die Vergangenheit eintauchen und den Tag in einer ruhigen, ländlichen Umgebung ausklingen lassen.",
         "hu": "Használja ki az autót a maximális hatékonyság érdekében. Parkoljon a központban, és fedezze fel gyalog az első látnivalócsoportot: kezdje a történelmi templommal és a Nemzeti Temetővel. A délelőtt folyamán szentelje idejét Szlovákia kulturális szívének, a Matica slovenskának és a szomszédos Irodalmi Múzeumnak. Egy kellemes belvárosi ebéd után autózzon át a második csoporthoz. Az egész délutánt a lenyűgöző Szlovák Falu Múzeuma tölti ki. Itt elmerülhet a múltban, és a napot egy csendes, vidéki környezetben zárhatja.",
         "ro": "Folosiți mașina pentru eficiență maximă. Parcați în centru și explorați primul cluster pe jos: începeți cu biserica istorică și Cimitirul Național. Spre sfârșitul dimineții, dedicați-vă inimii culturale a Slovaciei la Matica slovenskă și la Muzeul Literaturii adiacent. După un prânz relaxant în centrul orașului, conduceți spre al doilea cluster. Întreaga după-amiază este rezervată impresionantului Muzeu al Satului Slovac. Aici vă puteți cufunda în trecut și încheia ziua într-un cadru rural liniștit.",
-        "en": "Use your car for maximum efficiency. Park in the center and explore the first cluster on foot: start with the historic church and the National Cemetery. In the late morning, dedicate yourself to the cultural heart of Slovakia at the Matica slovenská and the adjacent Literary Museum. After a leisurely lunch downtown, drive to the second cluster. The entire afternoon belongs to the impressive Museum of the Slovak Village. Here you can immerse yourself in the past and end the day in a quiet, rural setting."
+        "en": "Use your car for maximum efficiency. Park in the center and explore the first cluster on foot: start with the historic church and the National Cemetery. In the late morning, dedicate yourself to the cultural heart of Slovakia at the Matica slovenská and the adjacent Literary Museum. After a leisurely lunch downtown, drive to the second cluster. The entire afternoon belongs to the impressive Museum of the Slovak Village. Here you can immerse yourself in the past and end the day in a quiet, rural setting.",
+        "sk": "Použite auto pre maximálnu efektivitu. Zaparkujte v centre a prvú skupinu pamiatok preskúmajte pešo: začnite historickým kostolom a Národným cintorínom. Neskôr doobeda venujte čas kultúrnemu srdcu Slovenska v Matica slovenská a priľahlom Literárnom múzeu. Po pokojném obede v centre sa presuňte k druhej skupine. Celé popoludnie patrí impozantnému Múzeu slovenskej dediny, kde sa môžete ponoriť do minulosti a zakončiť deň v tichom vidieckom prostredí."
       },
       "gastro_picks": {
         "de": [
@@ -1287,6 +1390,11 @@
           "Parking in the city center may be paid.",
           "Plan your route between clusters to save time.",
           "The Museum of the Slovak Village has a large parking lot."
+        ],
+        "sk": [
+          "Parkovanie v centre mesta môže byť spoplatnené.",
+          "Plánujte trasu medzi skupinami, aby ste ušetrili čas.",
+          "Múzeum slovenskej dediny má veľké parkovisko."
         ]
       },
       "variants": {
@@ -1295,7 +1403,8 @@
             "de": "Bequemer Start mit dem Auto im Stadtzentrum von Martin. Sie besuchen die St.-Martins-Kirche und den Nationalfriedhof zwischen den Schauern. Mittags parken Sie nahe der Matica Slovenská für den Besuch der Museen. Die Fahrt zum Freilichtmuseum ist kurz, und der Wagen bietet einen trockenen Rückzugsort zwischen den Besichtigungen der historischen Häuser.",
             "hu": "Kényelmes kezdés autóval Martin belvárosában. A Szent Márton-templomot és a nemzeti sírkertet két zápor között látogatjuk meg. Délben a Matica slovenská közelében parkolunk a múzeumi negyedhez. A skanzenhez vezető út rövid, az autó pedig száraz menedéket nyújt a történelmi házak megtekintése között.",
             "ro": "Început confortabil cu mașina în centrul orașului Martin. Vizităm Biserica Sf. Martin și Cimitirul Național între reprizele de ploaie. La prânz parcăm lângă Matica slovenská pentru zona muzeelor. Drumul spre muzeul satului este scurt, iar mașina oferă un refugiu uscat între vizitele caselor vechi.",
-            "en": "A comfortable start by car in Martin's city center. Visit St. Martin's Church and the National Cemetery between rain showers. At noon, park near Matica slovenská for the museum district. The drive to the open-air museum is short, with the car providing a dry retreat between exploring the historic wooden houses."
+            "en": "A comfortable start by car in Martin's city center. Visit St. Martin's Church and the National Cemetery between rain showers. At noon, park near Matica slovenská for the museum district. The drive to the open-air museum is short, with the car providing a dry retreat between exploring the historic wooden houses.",
+            "sk": "Komfortný začiatok autom v centre Martina. Navštívte Kostol sv. Martina a Národný cintorín medzi prehánkami. Na poludnie zaparkujte pri Matica slovenská v múzejnej štvrti. Jazda k skanzenu je krátka a auto poskytuje suché útočisko medzi prehliadkami historických drevených domov."
           },
           "stops": [
             {
@@ -1304,7 +1413,8 @@
                 "de": "Nutzen Sie Park-Apps, um das Bezahlen im Regen am Automaten zu vermeiden.",
                 "hu": "Használjon parkolási applikációt, hogy elkerülje az esőben való automatázást.",
                 "ro": "Folosiți aplicații de parcare pentru a evita automatele pe ploaie.",
-                "en": "Use parking apps to avoid using ticket machines in the rain."
+                "en": "Use parking apps to avoid using ticket machines in the rain.",
+                "sk": "Použite parkovacie aplikácie, aby ste sa vyhli automatom na lístky v daždi."
               }
             },
             {
@@ -1313,7 +1423,8 @@
                 "de": "Parkplätze am Friedhofseingang sind bei Nässe oft begrenzt.",
                 "hu": "A sírkert bejáratánál a parkolóhelyek esőben hamar betelnek.",
                 "ro": "Locurile de parcare de la intrarea în cimitir sunt limitate pe ploaie.",
-                "en": "Parking spaces at the cemetery entrance are limited during wet weather."
+                "en": "Parking spaces at the cemetery entrance are limited during wet weather.",
+                "sk": "Parkovacie miesta pri vchode na cintorín sú počas vlhkého počasia obmedzené."
               }
             },
             {
@@ -1322,7 +1433,8 @@
                 "de": "Parken Sie im Parkhaus des nahen Einkaufszentrums für trockenen Zugang.",
                 "hu": "Parkoljon a közeli bevásárlóközpont mélygarázsában a száraz bejutáshoz.",
                 "ro": "Parcați în garajul centrului comercial din apropiere pentru acces uscat.",
-                "en": "Park in the nearby shopping center's garage for dry indoor access."
+                "en": "Park in the nearby shopping center's garage for dry indoor access.",
+                "sk": "Zaparkujte v garáži blízkeho nákupného centra pre suchý vnútorný prístup."
               }
             },
             {
@@ -1331,7 +1443,8 @@
                 "de": "Lassen Sie nasse Regenschirme im Kofferraum, um Beschlag zu vermeiden.",
                 "hu": "Hagyja a vizes esernyőket a csomagtartóban a párásodás elkerülésére.",
                 "ro": "Lăsați umbrelele ude în portbagaj pentru a evita aburirea geamurilor.",
-                "en": "Keep wet umbrellas in the trunk to prevent the windows from fogging up."
+                "en": "Keep wet umbrellas in the trunk to prevent the windows from fogging up.",
+                "sk": "Mokré dáždniky nechajte v kufri, aby sa okná nezapáraly."
               }
             },
             {
@@ -1340,7 +1453,8 @@
                 "de": "Der Hauptparkplatz ist asphaltiert; der Weg zum Kassenhäuschen ist kurz.",
                 "hu": "A főparkoló aszfaltozott; a pénztárig vezető út rövid.",
                 "ro": "Parcarea principală este asfaltată; drumul până la casierie e scurt.",
-                "en": "The main parking lot is paved; the walk to the ticket booth is short."
+                "en": "The main parking lot is paved; the walk to the ticket booth is short.",
+                "sk": "Hlavné parkovisko je spevnené; prechádzka ku pokladni je krátka."
               }
             }
           ],
@@ -1368,6 +1482,12 @@
               "Watch out for aquaplaning on Martin's main thoroughfares.",
               "Visibility can be significantly reduced in the valley during heavy rain.",
               "Use the air conditioning to keep the windshield from fogging up."
+            ],
+            "sk": [
+              "Skontrolujte stav stieračov pred jazdou.",
+              "Dávajte pozor na aquaplaning na hlavných ťahoch v Martine.",
+              "Viditeľnosť môže byť v údolí pri silnom daždi výrazne zhoršená.",
+              "Použite klimatizáciu, aby sa čelné sklo nezaparávalo."
             ]
           }
         },
@@ -1376,7 +1496,8 @@
             "de": "Winterliche Fahrt durch das schneereiche Martin. Das Auto erlaubt es, zwischen den Besuchen der St.-Martins-Kirche und der Museen schnell wieder ins Warme zu kommen. Mittags genießen Sie die Atmosphäre im Zentrum, bevor Sie zum verschneiten Freilichtmuseum fahren. Ein Wagen mit guten Winterreifen ist für die teilweise steilen Nebenstraßen in der Region essenziell.",
             "hu": "Téli autózás a havas Martinban. Az autó lehetővé teszi, hogy a templom és a múzeumok látogatása után gyorsan visszaérjünk a melegbe. Délben a belváros hangulatát élvezzük, majd kihajtunk a havas skanzenhez. A jó téli gumi elengedhetetlen a régió néha meredek mellékutcáin.",
             "ro": "Călătorie de iarnă prin orașul Martin înzăpezit. Mașina vă permite să reveniți rapid la căldură după vizitarea bisericii și a muzeelor. La prânz ne bucurăm de centrul orașului, apoi mergem la muzeul satului. Anvelopele de iarnă sunt esențiale pe străzile secundare din regiune.",
-            "en": "A winter drive through snowy Martin. The car allows for quick returns to warmth between visits to the church and museums. Enjoy the city center atmosphere at noon before driving to the snow-covered open-air museum. Good winter tires are essential for the occasionally steep side streets in this region."
+            "en": "A winter drive through snowy Martin. The car allows for quick returns to warmth between visits to the church and museums. Enjoy the city center atmosphere at noon before driving to the snow-covered open-air museum. Good winter tires are essential for the occasionally steep side streets in this region.",
+            "sk": "Zimná jazda zasneženým Martinom. Auto umožňuje rýchle návraty do tepla medzi návštevami kostola a múzeí. Na poludnie si vychutnajte atmosféru centra pred odchodom do zasneženého skanzenu. Dobre zimné pneumatiky sú nevyhnutné pre občasné strmé bočné ulice v regióne."
           },
           "stops": [
             {
@@ -1385,7 +1506,8 @@
                 "de": "Planen Sie Zeit zum Freikratzen der Scheiben ein.",
                 "hu": "Számoljon extra idővel a szélvédő jégtelenítésére.",
                 "ro": "Alocați timp suplimentar pentru curățarea gheții de pe parbriz.",
-                "en": "Allow extra time for scraping ice and snow off the windshield."
+                "en": "Allow extra time for scraping ice and snow off the windshield.",
+                "sk": "Povoľte si viac času na oškrabanie ľadu a snehu z čelného skla."
               }
             },
             {
@@ -1394,7 +1516,8 @@
                 "de": "Parken Sie nicht unter Dächern mit großen Schneelasten.",
                 "hu": "Ne parkoljon olyan tetők alá, ahol nagy a hóteher.",
                 "ro": "Nu parcați sub acoperișuri cu acumulări mari de zăpadă.",
-                "en": "Avoid parking directly under roofs with heavy snow accumulation."
+                "en": "Avoid parking directly under roofs with heavy snow accumulation.",
+                "sk": "Nevypožičajte parkovať priamo pod strechami s veľkou nadmnožinou snehu."
               }
             },
             {
@@ -1403,7 +1526,8 @@
                 "de": "Die Straßen im Zentrum sind meist gut geräumt, aber salzig.",
                 "hu": "A belvárosi utak általában tiszták, de sósak a jégmentesítéstől.",
                 "ro": "Străzile din centru sunt de obicei curățate, dar cu multă sare.",
-                "en": "City center roads are usually well-cleared but covered in road salt."
+                "en": "City center roads are usually well-cleared but covered in road salt.",
+                "sk": "Cesty v centre mesta sú zvyčajne dobre upravené, ale posypané soľou."
               }
             },
             {
@@ -1412,7 +1536,8 @@
                 "de": "Wärmen Sie den Motor kurz vor der Weiterfahrt an.",
                 "hu": "Hagyja a motort kicsit bemelegedni a továbbindulás előtt.",
                 "ro": "Lăsați motorul să se încălzească puțin înainte de a pleca.",
-                "en": "Let the engine warm up briefly before continuing your journey."
+                "en": "Let the engine warm up briefly before continuing your journey.",
+                "sk": "Nechajte motor krátko zahriať pred pokračovaním v ceste."
               }
             },
             {
@@ -1421,7 +1546,8 @@
                 "de": "Die Zufahrtsstraße kann bei Neuschnee rutschig sein.",
                 "hu": "A bekötőút friss hó esetén csúszós lehet.",
                 "ro": "Drumul de acces poate fi alunecos în caz de ninsoare proaspătă.",
-                "en": "The access road can be slippery during fresh snowfall."
+                "en": "The access road can be slippery during fresh snowfall.",
+                "sk": "Prístupová cesta môže byť šmykľavá pri čerstvom snežení."
               }
             }
           ],
@@ -1449,6 +1575,12 @@
               "Check that your windshield washer fluid is rated for freezing temperatures.",
               "Avoid sudden steering maneuvers on icy or slushy roads.",
               "Prefer indoor parking garages to avoid morning frost on the vehicle."
+            ],
+            "sk": [
+              "V aute vždy majte škrabku na ľad a kefu na sneh.",
+              "Skontrolujte, či má nemrznúca kvapalina do ostrekovačov vhodnú teplotnú triedu.",
+              "Vyhnite sa prudkým riadiacim manévrom na ľadových alebo kašovitých cestách.",
+              "Uprednostnite vnútorné parkovacie garáže, aby ste sa vyhli rannému mrazu na vozidle."
             ]
           }
         }
@@ -1467,7 +1599,8 @@
             "de": "Ankunft im Zentrum & Kirche des Heiligen Martin",
             "hu": "Érkezés a központba és Szent Márton-templom",
             "ro": "Sosire în centru și Biserica Sfântul Martin",
-            "en": "Arrival in Center & Church of Saint Martin"
+            "en": "Arrival in Center & Church of Saint Martin",
+            "sk": "Príchod do centra a Kostol sv. Martina"
           },
           "coords": [
             18.923,
@@ -1483,7 +1616,8 @@
             "de": "Beginnen Sie Ihren Tag an der zentralen Bushaltestelle und gehen Sie zur Kirche.",
             "hu": "Kezdje a napot a központi buszmegállónál, és sétáljon el a templomhoz.",
             "ro": "Începeți ziua la stația centrală de autobuz și mergeți la biserică.",
-            "en": "Start your day at the central bus stop and walk to the church."
+            "en": "Start your day at the central bus stop and walk to the church.",
+            "sk": "Začnite deň na centrálnom autobusovom zastávke a prejdite k kostolu pešo."
           }
         },
         {
@@ -1491,7 +1625,8 @@
             "de": "Nationalfriedhof",
             "hu": "Nemzeti Temető",
             "ro": "Cimitirul Național",
-            "en": "National Cemetery"
+            "en": "National Cemetery",
+            "sk": "Národný cintorín"
           },
           "coords": [
             18.9205,
@@ -1507,7 +1642,8 @@
             "de": "Ein kurzer Spaziergang von der Kirche entfernt. Nehmen Sie sich Zeit zum Nachdenken.",
             "hu": "Rövid sétára a templomtól. Szánjon időt az elmélkedésre.",
             "ro": "La o scurtă plimbare de biserică. Acordați-vă timp pentru reflecție.",
-            "en": "A short walk from the church. Take time to reflect."
+            "en": "A short walk from the church. Take time to reflect.",
+            "sk": "Krátka prechádzka od kostola. Venujte čas rozjímaniu."
           }
         },
         {
@@ -1515,7 +1651,8 @@
             "de": "SNM - Ethnographisches Museum",
             "hu": "SNM - Néprajzi Múzeum",
             "ro": "SNM - Muzeul Etnografic",
-            "en": "SNM - Ethnographic Museum"
+            "en": "SNM - Ethnographic Museum",
+            "sk": "SNM – Etnografické múzeum"
           },
           "coords": [
             18.928,
@@ -1531,7 +1668,8 @@
             "de": "Gibt einen tollen Einblick in die slowakische Volkskultur, bevor Sie das Dorf-Museum besuchen.",
             "hu": "Nagyszerű betekintést nyújt a szlovák népi kultúrába, mielőtt meglátogatná a Falumúzeumot.",
             "ro": "Oferă o perspectivă excelentă asupra culturii populare slovace înainte de a vizita Muzeul Satului.",
-            "en": "Provides great insight into Slovak folk culture before visiting the Village Museum."
+            "en": "Provides great insight into Slovak folk culture before visiting the Village Museum.",
+            "sk": "Ponúka skvelý pohľad do slovenskej ľudovej kultúry pred návštevou Múzea dediny."
           }
         },
         {
@@ -1539,7 +1677,8 @@
             "de": "Mittagessen und Busfahrt",
             "hu": "Ebéd és buszozás",
             "ro": "Prânz și călătorie cu autobuzul",
-            "en": "Lunch and Bus Ride"
+            "en": "Lunch and Bus Ride",
+            "sk": "Obed a cesta autobusom"
           },
           "coords": [
             18.926,
@@ -1555,7 +1694,8 @@
             "de": "Essen Sie in der Nähe einer Bushaltestelle, die zum Museum des slowakischen Dorfes fährt.",
             "hu": "Egyen egy buszmegálló közelében, ahonnan a Szlovák Falu Múzeumához indul busz.",
             "ro": "Luați masa lângă o stație de autobuz care merge spre Muzeul Satului Slovac.",
-            "en": "Eat near a bus stop that goes to the Museum of the Slovak Village."
+            "en": "Eat near a bus stop that goes to the Museum of the Slovak Village.",
+            "sk": "Jedzte pri autobusovej zastávke, ktorá premáva k Múzeu slovenskej dediny."
           }
         },
         {
@@ -1563,7 +1703,8 @@
             "de": "Museum des slowakischen Dorfes",
             "hu": "A Szlovák Falu Múzeuma",
             "ro": "Muzeul Satului Slovac",
-            "en": "Museum of the Slovak Village"
+            "en": "Museum of the Slovak Village",
+            "sk": "Múzeum slovenskej dediny"
           },
           "coords": [
             18.905,
@@ -1579,7 +1720,8 @@
             "de": "Der Höhepunkt des Tages. Überprüfen Sie die Busfahrpläne für die Rückfahrt im Voraus.",
             "hu": "A nap fénypontja. Előre ellenőrizze a visszautazáshoz szükséges buszmenetrendet.",
             "ro": "Punctul culminant al zilei. Verificați în avans orarul autobuzelor pentru întoarcere.",
-            "en": "The highlight of the day. Check bus schedules for the return trip in advance."
+            "en": "The highlight of the day. Check bus schedules for the return trip in advance.",
+            "sk": "Hlavná atrakcia dňa. Vopred skontrolujte autobusové spoje na návrat."
           }
         }
       ],
@@ -1587,7 +1729,8 @@
         "de": "Entdecken Sie Martin mit öffentlichen Verkehrsmitteln. Der Vormittag gehört dem historischen Zentrum, das Sie bequem zu Fuß erkunden können – von der Kirche des Heiligen Martin über den Nationalfriedhof bis zum Ethnographischen Museum. Nach einem stärkenden Mittagessen in der Stadt nehmen Sie den Bus zum weitläufigen Museum des slowakischen Dorfes. Verbringen Sie den gesamten Nachmittag in dieser beeindruckenden Freilichtanlage, die Sie in die Vergangenheit der Slowakei entführt. Planen Sie Ihre Rückfahrt mit dem Bus sorgfältig, um einen entspannten Abschluss dieses kulturreichen Tages zu gewährleisten.",
         "hu": "Fedezze fel Turócszentmárton-t tömegközlekedéssel. A délelőtt a történelmi központé, amelyet kényelmesen bejárhat gyalog – a Szent Márton-templomtól a Nemzeti Temetőn át a Néprajzi Múzeumig. Egy városi ebéd után szálljon buszra a tágas Szlovák Falu Múzeumához. Töltse az egész délutánt ebben a lenyűgöző szabadtéri létesítményben, amely visszarepíti Önt Szlovákia múltjába. Tervezze meg gondosan a buszos visszautat, hogy nyugodtan zárhassa ezt a kultúrában gazdag napot.",
         "ro": "Descoperiți Martin cu transportul public. Dimineața este dedicată centrului istoric, pe care îl puteți explora confortabil pe jos - de la Biserica Sf. Martin, la Cimitirul Național și la Muzeul Etnografic. După un prânz în oraș, luați autobuzul spre vastul Muzeu al Satului Slovac. Petreceți întreaga după-amiază în acest impresionant complex în aer liber, care vă va transporta în trecutul Slovaciei. Planificați-vă cu atenție călătoria cu autobuzul de întoarcere pentru a asigura o încheiere relaxantă a acestei zile bogate cultural.",
-        "en": "Discover Martin using public transport. The morning belongs to the historical center, which you can comfortably explore on foot - from St. Martin's Church to the National Cemetery and the Ethnographic Museum. After lunch in the city, take the bus to the expansive Museum of the Slovak Village. Spend the entire afternoon in this impressive open-air facility that will transport you to Slovakia's past. Plan your return bus trip carefully to ensure a relaxed end to this culturally rich day."
+        "en": "Discover Martin using public transport. The morning belongs to the historical center, which you can comfortably explore on foot - from St. Martin's Church to the National Cemetery and the Ethnographic Museum. After lunch in the city, take the bus to the expansive Museum of the Slovak Village. Spend the entire afternoon in this impressive open-air facility that will transport you to Slovakia's past. Plan your return bus trip carefully to ensure a relaxed end to this culturally rich day.",
+        "sk": "Objavte Martin verejnou dopravou. Ráno patrí historickému centru, ktoré pohodlne preskúmate pešo – od Kostola sv. Martina po Národný cintorín a Etnografické múzeum. Po obede v meste sadnite na autobus do rozsiahleho Múzea slovenskej dediny. Strávte celé popoludnie v tomto impozantnom skanzene, ktorý vás prenesie do slovenskej minulosti. Naplánujte si návrat starostlivo, aby bol záver tohto kultúrne bohatého dňa pokojný."
       },
       "gastro_picks": {
         "de": [
@@ -1727,6 +1870,11 @@
           "Buy a day pass for the bus to save money.",
           "Check bus routes and schedules in advance.",
           "Have some small change ready for tickets."
+        ],
+        "sk": [
+          "Kúpte si celodenný lístok na autobus a ušetrite.",
+          "Skontrolujte trasy a cestovné poriadky autobusov vopred.",
+          "Majte pripravenú drobnú hotovosť na lístky."
         ]
       },
       "variants": {
@@ -1735,7 +1883,8 @@
             "de": "Mit dem Bus erreichen Sie das Zentrum von Martin trocken. Vormittags besuchen Sie die St.-Martins-Kirche und den Nationalfriedhof. Mittags bietet das Ethnographische Museum im Zentrum eine umfassende Indoor-Alternative. Nach dem Mittagessen bringt Sie die Buslinie 10 oder 11 zum Freilichtmuseum, wobei die Haltestelle nur wenige Gehminuten vom Eingang entfernt ist.",
             "hu": "Busszal szárazon érkezünk Martin központjába. Délelőtt a Szent Márton-templomot és a nemzeti sírkertet nézzük meg. Délben a központban található Néprajzi Múzeum kínál kiváló fedett alternatívát. Ebéd után a 10-es vagy 11-es busszal utazunk a skanzenhez, ahol a megálló pár perc sétára van a bejárattól.",
             "ro": "Ajungem uscați în centrul orașului Martin cu autobuzul. Dimineața vizităm Biserica Sf. Martin și Cimitirul Național. La prânz, Muzeul Etnografic oferă o alternativă interioară excelentă. După prânz, linia 10 sau 11 ne duce la muzeul satului, stația fiind la câteva minute de mers pe jos.",
-            "en": "Reach Martin's center dry by bus. Spend the morning at St. Martin's Church and the National Cemetery. At noon, the Ethnographic Museum in the center provides a great indoor alternative. After lunch, take bus line 10 or 11 to the open-air museum, with the stop just a few minutes' walk from the entrance."
+            "en": "Reach Martin's center dry by bus. Spend the morning at St. Martin's Church and the National Cemetery. At noon, the Ethnographic Museum in the center provides a great indoor alternative. After lunch, take bus line 10 or 11 to the open-air museum, with the stop just a few minutes' walk from the entrance.",
+            "sk": "Dostaňte sa suchou cestou do centra MArtina autobusom. Strávte ráno pri Kostole sv. Martina a Národnom cintoríne. Na poludnie poskytuje Etnografické múzeum v centre výbornú vnútornú alternatívu. Po obede choďte autobusom číslo 10 alebo 11 do skanzenu; zastávka je len niekoľko minút pešo od vchodu."
           },
           "stops": [
             {
@@ -1744,7 +1893,8 @@
                 "de": "Die Haltestellen im Zentrum haben meist überdachte Wartehäuschen.",
                 "hu": "A belvárosi buszmegállók többsége fedett váróval rendelkezik.",
                 "ro": "Majoritatea stațiilor din centru au adăposturi acoperite.",
-                "en": "Most city center bus stops feature covered waiting shelters."
+                "en": "Most city center bus stops feature covered waiting shelters.",
+                "sk": "Väčšina autobusových zastávok v centre má kryté prístrešky na čakanie."
               }
             },
             {
@@ -1753,7 +1903,8 @@
                 "de": "Die Busse verkehren hier seltener; prüfen Sie den Fahrplan im Voraus.",
                 "hu": "A buszok itt ritkábban járnak; ellenőrizze előre a menetrendet.",
                 "ro": "Autobuzele circulă mai rar aici; verificați orarul în avans.",
-                "en": "Buses run less frequently here; check the timetable in advance."
+                "en": "Buses run less frequently here; check the timetable in advance.",
+                "sk": "Autobusy tu jazdia menej často; vopred skontrolujte cestovný poriadok."
               }
             },
             {
@@ -1762,7 +1913,8 @@
                 "de": "Ein großes Museum, ideal um einen kompletten Regenschauer zu überbrücken.",
                 "hu": "Hatalmas múzeum, ideális egy nagyobb eső átvészelésére.",
                 "ro": "Un muzeu mare, ideal pentru a aștepta trecerea unei ploi lungi.",
-                "en": "A large museum, perfect for spending time during a long rain shower."
+                "en": "A large museum, perfect for spending time during a long rain shower.",
+                "sk": "Veľké múzeum, ideálne na strávenie času počas dlhej dažďovej prehánky."
               }
             },
             {
@@ -1771,7 +1923,8 @@
                 "de": "Kaufen Sie Fahrkarten beim Fahrer oder per SMS.",
                 "hu": "Vásároljon jegyet a sofőrnél vagy SMS-ben.",
                 "ro": "Cumpărați bilete de la șofer sau prin SMS.",
-                "en": "Purchase your bus tickets from the driver or via SMS."
+                "en": "Purchase your bus tickets from the driver or via SMS.",
+                "sk": "Kúpte si lístok v autobuse u vodiča alebo cez SMS."
               }
             },
             {
@@ -1780,7 +1933,8 @@
                 "de": "Die Haltestelle 'Ľadoveň' ist der beste Startpunkt für den Skansen.",
                 "hu": "A 'Ľadoveň' megálló a legjobb kiindulópont a skanzenhez.",
                 "ro": "Stația 'Ľadoveň' este cel mai bun punct de plecare spre muzeu.",
-                "en": "The 'Ľadoveň' stop is the best starting point for the open-air museum."
+                "en": "The 'Ľadoveň' stop is the best starting point for the open-air museum.",
+                "sk": "Zastávka 'Ľadoveň' je najlepším východiskovým bodom pre skanzen."
               }
             }
           ],
@@ -1808,6 +1962,12 @@
               "Have small coins ready if you plan to buy tickets from the driver.",
               "Buses might experience slight delays during heavy rainstorms.",
               "Waiting at peripheral stops can be uncomfortable in windy weather."
+            ],
+            "sk": [
+              "Použite aplikáciu 'ubian' na sledovanie autobusov a aktuálne cestovné poriadky.",
+              "Majte pripravené drobné mince, ak plánujete kúpiť lístok u vodiča.",
+              "Autobusy môžu byť pri silných búrkach mierne meškané.",
+              "Čakanie na okrajových zastávkach môže byť nepohodlné pri veternom počasí."
             ]
           }
         },
@@ -1816,7 +1976,8 @@
             "de": "Wintertour mit dem Bus durch Martin. Die beheizten Busse sind eine willkommene Abwechslung zwischen den Besichtigungen der St.-Martins-Kirche und des Nationalfriedhofs. Mittags wärmen Sie sich im Ethnographischen Museum auf. Am Nachmittag führt die Fahrt zum verschneiten Freilichtmuseum, wobei Sie auf dem Rückweg die beleuchtete Stadt aus dem Busfenster genießen können.",
             "hu": "Téli buszos túra Martinban. A fűtött buszok kellemes felüdülést nyújtanak a Szent Márton-templom és a nemzeti sírkert látogatása között. Délben a Néprajzi Múzeumban melegszünk fel. Délután a havas skanzenhez utazunk, visszafelé pedig a busz ablakából csodálhatjuk a kivilágított várost.",
             "ro": "Tur de iarnă cu autobuzul prin Martin. Autobuzele încălzite oferă un răgaz binevenit între vizitarea Bisericii Sf. Martin și a cimitirului. La prânz ne încălzim în Muzeul Etnografic. După-amiaza mergem la muzeul satului înzăpezit, admirând orașul luminat pe drumul de întoarcere.",
-            "en": "Winter tour through Martin using public transit. Heated buses provide a welcome break between visits to St. Martin's Church and the National Cemetery. Warm up at the Ethnographic Museum at noon. In the afternoon, ride to the snow-covered open-air museum and enjoy the illuminated city views from the bus window on the way back."
+            "en": "Winter tour through Martin using public transit. Heated buses provide a welcome break between visits to St. Martin's Church and the National Cemetery. Warm up at the Ethnographic Museum at noon. In the afternoon, ride to the snow-covered open-air museum and enjoy the illuminated city views from the bus window on the way back.",
+            "sk": "Zimná prehliadka Martina verejnou dopravou. Kúrené autobusy ponúkajú vítanú prestávku medzi návštevami Kostola sv. Martina a Národného cintorína. Na poludnie sa zohrievajte v Etnografickom múzeu. Poobede sa vezmite do zasneženého skanzenu a na ceste späť si vychutnajte osvetlené mestské výhľady z okna autobusu."
           },
           "stops": [
             {
@@ -1825,7 +1986,8 @@
                 "de": "Die Busse sind im Winter gut beheizt.",
                 "hu": "A buszok télen jól fűtöttek.",
                 "ro": "Autobuzele sunt bine încălzite în timpul iernii.",
-                "en": "City buses are usually well-heated during the winter months."
+                "en": "City buses are usually well-heated during the winter months.",
+                "sk": "Mestské autobusy sú počas zimy zvyčajne dobre vyhrievané."
               }
             },
             {
@@ -1834,7 +1996,8 @@
                 "de": "Haltestellen können durch Schneepflüge teilweise blockiert sein.",
                 "hu": "A megállókat a hókotrók néha részben eltorlaszolhatják.",
                 "ro": "Stațiile pot fi parțial blocate de plugurile de zăpadă.",
-                "en": "Bus stops can sometimes be partially blocked by snow plows."
+                "en": "Bus stops can sometimes be partially blocked by snow plows.",
+                "sk": "Autobusové zastávky môžu byť občas čiastočne zablokované snehovými pluhmi."
               }
             },
             {
@@ -1843,7 +2006,8 @@
                 "de": "Nutzen Sie die Garderobe für Ihre schwere Winterbekleidung.",
                 "hu": "Használja a ruhatárat a nehéz téli kabátok leadásához.",
                 "ro": "Folosiți garderoba pentru a lăsa hainele groase de iarnă.",
-                "en": "Use the cloakroom to store your heavy winter coats during the visit."
+                "en": "Use the cloakroom to store your heavy winter coats during the visit.",
+                "sk": "Vyžeňte si zbavenie ťažkých zimných kabátov v šatni počas návštevy."
               }
             },
             {
@@ -1852,7 +2016,8 @@
                 "de": "Fahrpläne können bei extremem Schneefall leicht variieren.",
                 "hu": "Extrém havazáskor a menetrend kismértékben változhat.",
                 "ro": "Orarele pot varia ușor în caz de ninsori extreme.",
-                "en": "Bus schedules may vary slightly during extreme snowfall events."
+                "en": "Bus schedules may vary slightly during extreme snowfall events.",
+                "sk": "Autobusové spoje sa môžu pri extrémnom snežení mierne meniť."
               }
             },
             {
@@ -1861,7 +2026,8 @@
                 "de": "Achten Sie auf die letzte Rückfahrt, da es früh dunkel wird.",
                 "hu": "Figyeljen az utolsó visszajáratra, mert korán sötétedik.",
                 "ro": "Verificați ora ultimului autobuz, deoarece se înserează devreme.",
-                "en": "Check the time for the last return bus as it gets dark early."
+                "en": "Check the time for the last return bus as it gets dark early.",
+                "sk": "Skontrolujte čas posledného autobusu späť, keďže sa rýchlo stmieva."
               }
             }
           ],
@@ -1889,6 +2055,12 @@
               "SMS ticketing is the most convenient option in freezing weather.",
               "Allow extra time as traffic moves slower during snowfall.",
               "Humidity inside the bus can be high due to passengers' wet clothing."
+            ],
+            "sk": [
+              "Noste topánky s dobrým trakčným vzorom na cestu k zastávke.",
+              "SMS lístky sú najvhodnejšou možnosťou v mrazivom počasí.",
+              "Povoľte si viac času, pretože doprava počas sneženia ide pomalšie.",
+              "V autobuse môže byť vysoká vlhkosť kvôli mokrému oblečeniu cestujúcich."
             ]
           }
         }

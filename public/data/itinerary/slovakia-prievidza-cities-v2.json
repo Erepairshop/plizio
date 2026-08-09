@@ -21,7 +21,8 @@
             "de": "Freiheitsplatz (Námestie slobody)",
             "hu": "Szabadság tér (Námestie slobody)",
             "ro": "Piața Libertății (Námestie slobody)",
-            "en": "Freedom Square (Námestie slobody)"
+            "en": "Freedom Square (Námestie slobody)",
+            "sk": "Freedom Square (Námestie slobody)"
           },
           "coords": [
             18.627,
@@ -36,7 +37,8 @@
             "de": "Starten Sie den Tag mit einem Kaffee in einem der Cafés am Platz.",
             "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában!",
             "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
-            "en": "Start your day with a coffee at one of the square's cafes."
+            "en": "Start your day with a coffee at one of the square's cafes.",
+            "sk": "Začnite deň kávou v jednej z kaviarní na námestí."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Mariensäule",
             "hu": "Mária-oszlop",
             "ro": "Coloana Mariană",
-            "en": "Marian Column"
+            "en": "Marian Column",
+            "sk": "Marian Column"
           },
           "coords": [
             18.6268,
@@ -59,7 +62,8 @@
             "de": "Ein perfekter Ort für ein Foto im Herzen der Stadt.",
             "hu": "Tökéletes fotóhelyszín a város szívében.",
             "ro": "Un loc perfect pentru o fotografie în inima orașului.",
-            "en": "A perfect spot for a photo in the heart of the city."
+            "en": "A perfect spot for a photo in the heart of the city.",
+            "sk": "Perfektné miesto na fotografiu v srdci mesta."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Bürgerhäuser der Altstadt",
             "hu": "Az óváros polgárházai",
             "ro": "Casele burgheze din orașul vechi",
-            "en": "Burgher Houses of the Old Town"
+            "en": "Burgher Houses of the Old Town",
+            "sk": "Burgher Houses of the Old Town"
           },
           "coords": [
             18.6275,
@@ -82,7 +87,8 @@
             "de": "Achten Sie auf die Renaissance- und Barockdetails der Fassaden.",
             "hu": "Figyelje meg a homlokzatok reneszánsz és barokk részleteit!",
             "ro": "Observați detaliile renascentiste și baroce ale fațadelor.",
-            "en": "Look for the Renaissance and Baroque details on the facades."
+            "en": "Look for the Renaissance and Baroque details on the facades.",
+            "sk": "Hľadajte renesančné a barokové detaily na fasádach."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Kirche des Heiligen Bartholomäus",
             "hu": "Szent Bertalan-templom",
             "ro": "Biserica Sfântul Bartolomeu",
-            "en": "St. Bartholomew's Church"
+            "en": "St. Bartholomew's Church",
+            "sk": "St. Bartholomew's Church"
           },
           "coords": [
             18.625,
@@ -105,7 +112,8 @@
             "de": "Die älteste Kirche der Stadt, bewundern Sie die gotische Architektur.",
             "hu": "A város legrégebbi temploma, csodálja meg a gótikus építészetet.",
             "ro": "Cea mai veche biserică din oraș, admirați arhitectura gotică.",
-            "en": "The oldest church in the city, admire its Gothic architecture."
+            "en": "The oldest church in the city, admire its Gothic architecture.",
+            "sk": "Najstarší kostol v meste, obdivujte jeho gotickú architektúru."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Piaristenkirche der Heiligen Dreifaltigkeit",
             "hu": "Piarista Szentháromság-templom",
             "ro": "Biserica Piaristă a Sfintei Treimi",
-            "en": "Piarist Church of the Holy Trinity"
+            "en": "Piarist Church of the Holy Trinity",
+            "sk": "Piarist Church of the Holy Trinity"
           },
           "coords": [
             18.622,
@@ -128,7 +137,8 @@
             "de": "Ein beeindruckendes Beispiel barocker Baukunst.",
             "hu": "A barokk építészet lenyűgöző példája.",
             "ro": "Un exemplu impresionant de artă barocă.",
-            "en": "An impressive example of Baroque art."
+            "en": "An impressive example of Baroque art.",
+            "sk": "Impozantný príklad barokového umenia."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Obernitra-Museum",
             "hu": "Felső-nyitrai Múzeum",
             "ro": "Muzeul Nitra Superioară",
-            "en": "Museum of Upper Nitra"
+            "en": "Museum of Upper Nitra",
+            "sk": "Museum of Upper Nitra"
           },
           "coords": [
             18.621,
@@ -151,7 +162,8 @@
             "de": "Planen Sie genügend Zeit für die ethnografische Sammlung ein.",
             "hu": "Szánjon elég időt a néprajzi gyűjteményre!",
             "ro": "Planificați suficient timp pentru colecția etnografică.",
-            "en": "Plan enough time for the ethnographic collection."
+            "en": "Plan enough time for the ethnographic collection.",
+            "sk": "Naplánujte si dostatok času na etnografickú expozíciu."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Kirche Mariä Himmelfahrt",
             "hu": "Mária Mennybemenetele-templom",
             "ro": "Biserica Adormirea Maicii Domnului",
-            "en": "Church of the Assumption of the Virgin Mary"
+            "en": "Church of the Assumption of the Virgin Mary",
+            "sk": "Church of the Assumption of the Virgin Mary"
           },
           "coords": [
             18.641,
@@ -174,7 +187,8 @@
             "de": "Ein ruhiger Ort, etwas abseits des Haupttrubels.",
             "hu": "Egy csendes hely, kicsit távolabb a fő nyüzsgéstől.",
             "ro": "Un loc liniștit, puțin mai departe de agitația principală.",
-            "en": "A quiet place, a bit further from the main hustle and bustle."
+            "en": "A quiet place, a bit further from the main hustle and bustle.",
+            "sk": "Tiché miesto, trochu ďalej od hlavného ruchu."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Beginnen Sie Ihren Tag am belebten Freiheitsplatz, dem Herzen von Prievidza. Schlendern Sie durch die Altstadt, bewundern Sie historische Bürgerhäuser und die Mariensäule. Am Nachmittag entdecken Sie die sakralen Schätze der Stadt, darunter die gotische Bartholomäuskirche und die prächtige Piaristenkirche. Beenden Sie Ihre Tour im Obernitra-Museum, um tief in die regionale Geschichte einzutauchen.",
         "hu": "Kezdje a napot a nyüzsgő Szabadság téren, Privigye szívében. Sétáljon végig az óvároson, csodálja meg a történelmi polgárházakat és a Mária-oszlopot. Délután fedezze fel a város szakrális kincseit, köztük a gótikus Szent Bertalan-templomot és a csodálatos Piarista templomot. Zárja a túrát a Felső-nyitrai Múzeumban, hogy elmélyedjen a régió történelmében.",
         "ro": "Începeți ziua în vibranta Piață a Libertății, inima orașului Prievidza. Plimbați-vă prin orașul vechi, admirând casele istorice și Coloana Mariană. După-amiaza, descoperiți comorile sacre ale orașului, inclusiv gotica Biserică Sf. Bartolomeu și magnifica Biserică Piaristă. Încheiați turul la Muzeul Nitra Superioară pentru o incursiune în istoria regională.",
-        "en": "Start your day in the bustling Freedom Square, the heart of Prievidza. Stroll through the old town, admiring historic burgher houses and the Marian Column. In the afternoon, discover the city's sacral treasures, including the Gothic St. Bartholomew's Church and the magnificent Piarist Church. End your tour at the Museum of Upper Nitra for a deep dive into regional history."
+        "en": "Start your day in the bustling Freedom Square, the heart of Prievidza. Stroll through the old town, admiring historic burgher houses and the Marian Column. In the afternoon, discover the city's sacral treasures, including the Gothic St. Bartholomew's Church and the magnificent Piarist Church. End your tour at the Museum of Upper Nitra for a deep dive into regional history.",
+        "sk": "Začnite deň na rušnom Námestí slobody, srdci Prievidze. Prejdite sa starým mestom a obdivujte historické meštianske domy a Mariánsky stĺp. Popoludní objavte sakrálne poklady mesta, vrátane gotického kostola sv. Bartolomeja a nádherného piaristického kostola. Ukončite prehliadku v Múzeu Horná Nitra, kde sa hlbšie ponoríte do regionálnej histórie."
       },
       "gastro_picks": {
         "de": [
@@ -322,6 +337,11 @@
           "Wear comfortable shoes as you will be doing a lot of walking.",
           "Most central sights are within easy walking distance.",
           "Bring a reusable water bottle."
+        ],
+        "sk": [
+          "Obujte si pohodlnú obuv, lebo budete veľa chodiť.",
+          "Väčšina centrálnych pamiatok je v pohodlnej pešej vzdialenosti.",
+          "Prineste si opakovane použiteľnú fľašu na vodu."
         ]
       },
       "variants": {
@@ -330,7 +350,8 @@
             "de": "Beginnen Sie Ihren Tag am Námestie slobody, wo die historischen Gebäude im Regen glänzen. Nutzen Sie die Arkaden für kurze Pausen. Mittags bieten die massiven Mauern der St.-Bartholomäus-Kirche einen trockenen Rückzugsort. Nachmittags ist das Museum von Ober-Nitra der perfekte Ort, um der Nässe zu entfliehen und tief in die Regionalgeschichte einzutauchen. Der Abend klingt gemütlich in einem Café nahe der Piaristenkirche aus.",
             "hu": "Kezdje a napot a Szabadság téren, ahol az esőben megcsillanó macskakövek különleges hangulatot árasztanak. Délben a Szent Bertalan-templom hűvös és száraz belső tere nyújt menedéket. A délutánt töltse a Felső-Nyitrai Múzeumban, ahol az értékes tárlatok között észre sem veszi majd a kinti zuhogást. Az estét zárja egy forró ital mellett a belváros egyik hangulatos vendéglőjében.",
             "ro": "Începeți ziua în Piața Libertății, unde clădirile istorice capătă un luciu aparte sub ploaie. La prânz, biserica Sf. Bartolomeu oferă un refugiu spiritual și uscat. După-amiaza este rezervată Muzeului Nitrei Superioare, locul ideal pentru a explora istoria locală fără a vă uda. Seara se încheie perfect într-o cafenea primitoare din centrul vechi, ascultând ropotul ploii la geam.",
-            "en": "Start your day at Freedom Square, where the historic facades shine under the rain. Use the nearby arcades for cover. At noon, the thick walls of St. Bartholomew's Church provide a dry sanctuary. Spend your afternoon at the Museum of Upper Nitra, the perfect indoor escape to dive into regional history. End the evening in a cozy café near the Piarist Church, enjoying the rhythmic sound of rain."
+            "en": "Start your day at Freedom Square, where the historic facades shine under the rain. Use the nearby arcades for cover. At noon, the thick walls of St. Bartholomew's Church provide a dry sanctuary. Spend your afternoon at the Museum of Upper Nitra, the perfect indoor escape to dive into regional history. End the evening in a cozy café near the Piarist Church, enjoying the rhythmic sound of rain.",
+            "sk": "Začnite deň na Námestí slobody, kde historické fasády žiaria v daždi. Využite okolité arkády ako úkryt. Na poludnie hrubé múry kostola sv. Bartolomeja poskytnú suché útočisko. Popoludnie strávte v Múzeu Horná Nitra, ideálnom vnútornom útočisku na spoznanie regionálnej histórie. Večer ukončite v útulnej kaviarni pri piaristickom kostole a vychutnajte si rytmus padajúceho dažďa."
           },
           "stops": [
             {
@@ -339,7 +360,8 @@
                 "de": "Suchen Sie Schutz unter den Vordächern der umliegenden Geschäfte.",
                 "hu": "Használja ki az üzletek előtti fedett részeket a nézelődéshez.",
                 "ro": "Căutați adăpost sub copertinele magazinelor din jur.",
-                "en": "Look for shelter under the awnings of the surrounding shops."
+                "en": "Look for shelter under the awnings of the surrounding shops.",
+                "sk": "Hľadajte prístrešok pod markízami okolitých obchodov."
               }
             },
             {
@@ -348,7 +370,8 @@
                 "de": "Kurzer Fotostopp, die Steine können bei Nässe rutschig sein.",
                 "hu": "Gyors fotómegálló, a nedves kövek csúszósak lehetnek.",
                 "ro": "Oprire scurtă pentru poze, pietrele pot fi alunecoase când sunt ude.",
-                "en": "Quick photo stop, the stones can be slippery when wet."
+                "en": "Quick photo stop, the stones can be slippery when wet.",
+                "sk": "Krátka fotostopka, kamene môžu byť po daždi klzké."
               }
             },
             {
@@ -357,7 +380,8 @@
                 "de": "Bewundern Sie die Details der Fassaden aus sicherer Entfernung unter dem Regenschirm.",
                 "hu": "Az esernyő alól is jól látszanak a homlokzatok díszes részletei.",
                 "ro": "Admirați detaliile fațadelor de sub umbrelă, de la o distanță sigură.",
-                "en": "Admire the facade details from under your umbrella at a safe distance."
+                "en": "Admire the facade details from under your umbrella at a safe distance.",
+                "sk": "Obdivujte detaily fasády spod dáždnika z bezpečnej vzdialenosti."
               }
             },
             {
@@ -366,7 +390,8 @@
                 "de": "Ein idealer Ort für eine längere, trockene Besichtigungspause.",
                 "hu": "Ideális helyszín egy hosszabb, száraz pihenőhöz a városnézés közben.",
                 "ro": "Un loc ideal pentru o pauză de vizitare prelungită și uscată.",
-                "en": "An ideal place for a longer, dry sightseeing break."
+                "en": "An ideal place for a longer, dry sightseeing break.",
+                "sk": "Ideálne miesto na dlhšiu, suchú prestávku pri prehliadke."
               }
             },
             {
@@ -375,7 +400,8 @@
                 "de": "Das prächtige Innere lässt Sie das schlechte Wetter draußen vergessen.",
                 "hu": "A pompás belső tér feledteti a kinti borús időt.",
                 "ro": "Interiorul splendid vă va face să uitați de vremea rea de afară.",
-                "en": "The magnificent interior will make you forget the bad weather outside."
+                "en": "The magnificent interior will make you forget the bad weather outside.",
+                "sk": "Nádherné vnútro vás zabudne na nepriaznivé počasie vonku."
               }
             },
             {
@@ -384,7 +410,8 @@
                 "de": "Perfekter Zufluchtsort; planen Sie hier ruhig mehr Zeit ein.",
                 "hu": "Tökéletes menedék; tervezzen ide bátran több időt.",
                 "ro": "Refugiul perfect; puteți planifica mai mult timp aici.",
-                "en": "The perfect refuge; feel free to plan more time here."
+                "en": "The perfect refuge; feel free to plan more time here.",
+                "sk": "Dokonalé útočisko; pokojne si tu naplánujte viac času."
               }
             },
             {
@@ -393,7 +420,8 @@
                 "de": "Der Weg zum Friedhofshügel kann bei Regen etwas matschig sein.",
                 "hu": "A temetődombra vezető út esőben sáros lehet, óvatosan haladjon.",
                 "ro": "Drumul spre dealul cimitirului poate fi noroios pe ploaie.",
-                "en": "The path to the cemetery hill can be muddy in the rain, walk carefully."
+                "en": "The path to the cemetery hill can be muddy in the rain, walk carefully.",
+                "sk": "Cesta na cintorínový vrch môže byť v daždi blátivá, choďte opatrne."
               }
             }
           ],
@@ -425,6 +453,13 @@
               "Use church visits as an opportunity to dry off your gear.",
               "Most cafés around the main square provide umbrella stands at the entrance.",
               "Sidewalks in the old town area can become extremely slippery when wet."
+            ],
+            "sk": [
+              "Obujte nepremokavú obuv, lebo dlažobné kamene môžu tvoriť malé kaluže.",
+              "Prievidzský vietor vie prevrátiť dáždniky; dažďová pláštenka je často pevnejšia voľba.",
+              "Využite návštevy kostolov ako príležitosť na vysušenie výstroja.",
+              "Väčšina kaviarní okolo hlavného námestia poskytuje stojany na dáždniky pri vchode.",
+              "Chodníky v oblasti starého mesta môžu byť pri daždi extrémne klzké."
             ]
           }
         },
@@ -433,7 +468,8 @@
             "de": "Erleben Sie Prievidza im Winterglanz. Der Morgen am Námestie slobody ist frostig, aber die klare Luft belebt. Suchen Sie mittags die Wärme in der St.-Bartholomäus-Kirche. Der Nachmittag gehört der Kultur im beheizten Museum von Ober-Nitra, während draußen früh die Dämmerung einsetzt. Beenden Sie den Tag bei einem wärmenden Getränk, wenn die Stadtbeleuchtung die barocken Fassaden in ein sanftes Licht taucht.",
             "hu": "Fedezze fel Prievidza téli arcát. A fagyos reggel a Szabadság téren frissítően hat, de érdemes rétegesen öltözni. Délben a templomok vastag falai között keressen békét. A délutánt töltse a jól fűtött Felső-Nyitrai Múzeumban, miközben odakint korán sötétedik. Az estét zárja forró teával vagy punccsal, miközben a városi fények megvilágítják a barokk épületeket.",
             "ro": "Experimentați Prievidza în haine de iarnă. Dimineața în Piața Libertății este geroasă, dar aerul curat este revigorant. La prânz, căutați liniștea în interiorul bisericii Sf. Bartolomeu. După-amiaza este dedicată culturii în Muzeul încălzit al Nitrei Superioare, în timp ce afară se înserează rapid. Încheiați ziua cu o băutură caldă sub luminile stradale ce scaldă fațadele baroce.",
-            "en": "Experience Prievidza in its winter glow. The frosty morning at Freedom Square is crisp and invigorating. At noon, seek peace and a bit of shelter in St. Bartholomew's Church. Spend your afternoon exploring the heated Museum of Upper Nitra as the sun sets early. End your day with a warm drink while the city lights illuminate the baroque facades with a soft, wintry touch."
+            "en": "Experience Prievidza in its winter glow. The frosty morning at Freedom Square is crisp and invigorating. At noon, seek peace and a bit of shelter in St. Bartholomew's Church. Spend your afternoon exploring the heated Museum of Upper Nitra as the sun sets early. End your day with a warm drink while the city lights illuminate the baroque facades with a soft, wintry touch.",
+            "sk": "Zažite Prievidzu v jej zimnom jase. Mrazivé ráno na Námestí slobody je svieže a povzbudivé. Na poludnie vyhľadajte pokoj a trochu úkrytu v kostole sv. Bartolomeja. Popoludnie venujte prehliadke vykurovaného Múzea Horná Nitra, keď slnko zapadá skôr. Deň ukončite teplým nápojom, zatiaľ čo mestské svetlá osvetľujú barokové fasády jemným zimným nádychom."
           },
           "stops": [
             {
@@ -442,7 +478,8 @@
                 "de": "Genießen Sie die Winterdekoration bei einem heißen Tee aus der Thermoskanne.",
                 "hu": "Élvezze a téli díszítést egy termosznyi forró teával a kezében.",
                 "ro": "Bucurați-vă de decorațiunile de iarnă cu un ceai cald la termos.",
-                "en": "Enjoy the winter decorations with a hot tea from your thermos."
+                "en": "Enjoy the winter decorations with a hot tea from your thermos.",
+                "sk": "Užite si zimné dekorácie s horúcim čajom z termosky."
               }
             },
             {
@@ -451,7 +488,8 @@
                 "de": "Achtung bei Eisglätte rund um das Denkmal.",
                 "hu": "Vigyázzon, az emlékmű környéke jeges és csúszós lehet.",
                 "ro": "Atenție la polei în jurul monumentului.",
-                "en": "Watch out for ice patches around the monument."
+                "en": "Watch out for ice patches around the monument.",
+                "sk": "Dávajte pozor na ľadové škvrny okolo pamiatky."
               }
             },
             {
@@ -460,7 +498,8 @@
                 "de": "Die farbigen Fassaden wirken im Kontrast zum Schnee besonders schön.",
                 "hu": "A színes homlokzatok különösen szépek a fehér hóval kontrasztban.",
                 "ro": "Fațadele colorate arată spectaculos în contrast cu zăpada.",
-                "en": "The colorful facades look particularly beautiful in contrast with the snow."
+                "en": "The colorful facades look particularly beautiful in contrast with the snow.",
+                "sk": "Farebné fasády vyzerajú obzvlášť krásne v kontraste so snehom."
               }
             },
             {
@@ -469,7 +508,8 @@
                 "de": "Die Kirche ist nicht beheizt; behalten Sie Ihren Mantel an.",
                 "hu": "A templom nincs fűtve, ne vegye le a kabátját odabent.",
                 "ro": "Biserica nu este încălzită; păstrați-vă haina pe dvs.",
-                "en": "The church is not heated; keep your coat on during the visit."
+                "en": "The church is not heated; keep your coat on during the visit.",
+                "sk": "Kostol nie je vykurovaný; počas návštevy si nechajte kabát na sebe."
               }
             },
             {
@@ -478,7 +518,8 @@
                 "de": "Kurzer Stopp, um die barocke Pracht im Winterlicht zu sehen.",
                 "hu": "Gyors látogatás a barokk pompa megcsodálására a téli fényekben.",
                 "ro": "Oprire scurtă pentru a admira splendoarea barocă în lumina iernii.",
-                "en": "Short stop to admire the baroque splendor in the winter light."
+                "en": "Short stop to admire the baroque splendor in the winter light.",
+                "sk": "Krátka zastávka na obdivovanie barokového lesku v zimnom svetle."
               }
             },
             {
@@ -487,7 +528,8 @@
                 "de": "Der ideale Ort, um sich für zwei Stunden richtig aufzuwärmen.",
                 "hu": "Ideális helyszín, hogy két órára teljesen átmelegedjen.",
                 "ro": "Locul ideal pentru a vă încălzi bine timp de două ore.",
-                "en": "The ideal place to warm up thoroughly for two hours."
+                "en": "The ideal place to warm up thoroughly for two hours.",
+                "sk": "Ideálne miesto na dôkladné zahriatie na dve hodiny."
               }
             },
             {
@@ -496,7 +538,8 @@
                 "de": "Frühzeitiger Aufstieg empfohlen, da es gegen 16:30 Uhr dunkel wird.",
                 "hu": "Érdemes korán felmenni, mert 16:30 körül már sötétedik.",
                 "ro": "Urcare recomandată devreme, deoarece se întunecă în jurul orei 16:30.",
-                "en": "Recommended early ascent as it gets dark around 16:30."
+                "en": "Recommended early ascent as it gets dark around 16:30.",
+                "sk": "Odporúča sa skorý výstup, lebo okolo 16:30 sa stmieva."
               }
             }
           ],
@@ -528,6 +571,13 @@
               "Watch out for snow sliding off the roofs of old town houses.",
               "Churches are often colder than the outside air; keep your hat on.",
               "Warm drinks can be found in the pastry shops and cafés on the main square."
+            ],
+            "sk": [
+              "Noste termo vrstvy; vlhkosť spôsobuje, že chlad pôsobí ostrejšie.",
+              "V decembri zapadá slnko už okolo 16:00.",
+              "Dávajte pozor na sneh zošmykujuci sa zo striech domov v starom meste.",
+              "Kostoly sú často chladnejšie než vonkajší vzduch; nechajte si čiapku na hlave.",
+              "Teplé nápoje nájdete v cukrárňach a kaviarňach na Hlavnom námestí."
             ]
           }
         }
@@ -546,7 +596,8 @@
             "de": "Freiheitsplatz (Námestie slobody)",
             "hu": "Szabadság tér (Námestie slobody)",
             "ro": "Piața Libertății (Námestie slobody)",
-            "en": "Freedom Square (Námestie slobody)"
+            "en": "Freedom Square (Námestie slobody)",
+            "sk": "Freedom Square (Námestie slobody)"
           },
           "coords": [
             18.627,
@@ -561,7 +612,8 @@
             "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie den Platz erkunden.",
             "hu": "Zárja le biztonságosan a kerékpárját, mielőtt felfedezné a teret.",
             "ro": "Asigurați-vă bicicleta înainte de a explora piața.",
-            "en": "Lock your bike securely before exploring the square."
+            "en": "Lock your bike securely before exploring the square.",
+            "sk": "Pred preskúmaním námestia riadne zamknite bicykel."
           }
         },
         {
@@ -569,7 +621,8 @@
             "de": "Bürgerhäuser und Mariensäule",
             "hu": "Polgárházak és Mária-oszlop",
             "ro": "Casele burgheze și Coloana Mariană",
-            "en": "Burgher Houses and Marian Column"
+            "en": "Burgher Houses and Marian Column",
+            "sk": "Burgher Houses and Marian Column"
           },
           "coords": [
             18.6275,
@@ -584,7 +637,8 @@
             "de": "Genießen Sie die Atmosphäre des historischen Zentrums.",
             "hu": "Élvezze a történelmi központ hangulatát.",
             "ro": "Bucurați-vă de atmosfera centrului istoric.",
-            "en": "Enjoy the atmosphere of the historic center."
+            "en": "Enjoy the atmosphere of the historic center.",
+            "sk": "Užite si atmosféru historického centra."
           }
         },
         {
@@ -592,7 +646,8 @@
             "de": "Kirche des Heiligen Bartholomäus",
             "hu": "Szent Bertalan-templom",
             "ro": "Biserica Sfântul Bartolomeu",
-            "en": "St. Bartholomew's Church"
+            "en": "St. Bartholomew's Church",
+            "sk": "St. Bartholomew's Church"
           },
           "coords": [
             18.625,
@@ -607,7 +662,8 @@
             "de": "Der kurze Anstieg zur Kirche lohnt sich für die Aussicht.",
             "hu": "A templomhoz vezető rövid emelkedő megéri a kilátásért.",
             "ro": "Urcarea scurtă spre biserică merită pentru priveliște.",
-            "en": "The short climb to the church is worth it for the view."
+            "en": "The short climb to the church is worth it for the view.",
+            "sk": "Krátky výstup ku kostolu stojí za ten výhľad."
           }
         },
         {
@@ -615,7 +671,8 @@
             "de": "Kirche Mariä Himmelfahrt",
             "hu": "Mária Mennybemenetele-templom",
             "ro": "Biserica Adormirea Maicii Domnului",
-            "en": "Church of the Assumption of the Virgin Mary"
+            "en": "Church of the Assumption of the Virgin Mary",
+            "sk": "Church of the Assumption of the Virgin Mary"
           },
           "coords": [
             18.641,
@@ -630,7 +687,8 @@
             "de": "Eine angenehme Fahrt durch ruhigere Stadtteile.",
             "hu": "Kellemes tekerés a csendesebb városrészeken keresztül.",
             "ro": "O plimbare plăcută prin cartiere mai liniștite.",
-            "en": "A pleasant ride through quieter parts of the city."
+            "en": "A pleasant ride through quieter parts of the city.",
+            "sk": "Príjemná jazda cez tichšie časti mesta."
           }
         },
         {
@@ -638,7 +696,8 @@
             "de": "Obernitra-Museum",
             "hu": "Felső-nyitrai Múzeum",
             "ro": "Muzeul Nitra Superioară",
-            "en": "Museum of Upper Nitra"
+            "en": "Museum of Upper Nitra",
+            "sk": "Museum of Upper Nitra"
           },
           "coords": [
             18.621,
@@ -653,7 +712,8 @@
             "de": "Stellen Sie Ihr Fahrrad am Eingang ab und genießen Sie die Ausstellungen.",
             "hu": "Hagyja a kerékpárt a bejáratnál, és élvezze a kiállításokat.",
             "ro": "Lăsați bicicleta la intrare și bucurați-vă de expoziții.",
-            "en": "Park your bike at the entrance and enjoy the exhibitions."
+            "en": "Park your bike at the entrance and enjoy the exhibitions.",
+            "sk": "Odomknite bicykel pri vchode a užite si expozície."
           }
         },
         {
@@ -661,7 +721,8 @@
             "de": "Piaristenkirche der Heiligen Dreifaltigkeit",
             "hu": "Piarista Szentháromság-templom",
             "ro": "Biserica Piaristă a Sfintei Treimi",
-            "en": "Piarist Church of the Holy Trinity"
+            "en": "Piarist Church of the Holy Trinity",
+            "sk": "Piarist Church of the Holy Trinity"
           },
           "coords": [
             18.622,
@@ -676,7 +737,8 @@
             "de": "Der letzte Halt Ihrer Radtour, ein barockes Meisterwerk.",
             "hu": "A kerékpártúra utolsó állomása, egy barokk mestermű.",
             "ro": "Ultima oprire a turului cu bicicleta, o capodoperă barocă.",
-            "en": "The last stop of your bike tour, a baroque masterpiece."
+            "en": "The last stop of your bike tour, a baroque masterpiece.",
+            "sk": "Posledná zastávka vašej cyklotúry, barokové majstrovské dielo."
           }
         }
       ],
@@ -684,7 +746,8 @@
         "de": "Erkunden Sie Prievidza auf zwei Rädern! Starten Sie am Freiheitsplatz und radeln Sie durch das historische Zentrum. Entdecken Sie die gotische Bartholomäuskirche, bevor Sie zu der etwas weiter entfernten Kirche Mariä Himmelfahrt fahren. Nach einem kulturellen Stopp im Obernitra-Museum beenden Sie Ihre Tour an der beeindruckenden Piaristenkirche. Die Route kombiniert städtisches Flair mit ruhigeren Wegen.",
         "hu": "Fedezze fel Privigyét két keréken! Induljon a Szabadság térről, és tekerjen át a történelmi központon. Fedezze fel a gótikus Szent Bertalan-templomot, mielőtt a kissé távolabbi Mária Mennybemenetele-templomhoz indul. A Felső-nyitrai Múzeumban tett kulturális megálló után fejezze be a túrát a lenyűgöző Piarista templomnál. Az útvonal a városi hangulatot csendesebb utakkal ötvözi.",
         "ro": "Explorați Prievidza pe două roți! Porniți din Piața Libertății și pedalați prin centrul istoric. Descoperiți gotica Biserică Sf. Bartolomeu înainte de a vă îndrepta spre Biserica Adormirea Maicii Domnului, aflată puțin mai departe. După o oprire culturală la Muzeul Nitra Superioară, încheiați turul la impresionanta Biserică Piaristă. Traseul combină farmecul urban cu drumuri mai liniștite.",
-        "en": "Explore Prievidza on two wheels! Start from Freedom Square and pedal through the historic center. Discover the Gothic St. Bartholomew's Church before heading to the slightly more distant Church of the Assumption. After a cultural stop at the Museum of Upper Nitra, finish your tour at the impressive Piarist Church. The route combines urban flair with quieter paths."
+        "en": "Explore Prievidza on two wheels! Start from Freedom Square and pedal through the historic center. Discover the Gothic St. Bartholomew's Church before heading to the slightly more distant Church of the Assumption. After a cultural stop at the Museum of Upper Nitra, finish your tour at the impressive Piarist Church. The route combines urban flair with quieter paths.",
+        "sk": "Preskúmajte Prievidzu na dvoch kolesách! Začnite na Námestí slobody a prejdite historické centrum. Objavte gotický kostol sv. Bartolomeja predtým, ako zamierite k trochu vzdialenejšiemu Kostolu Nanebovzatia Panny Márie. Po kultúrnej zastávke v Múzeu Horná Nitra zakončite trasu pri impozantnom piaristickom kostole. Trasa kombinuje mestský šarm s tichšími úsekmi."
       },
       "gastro_picks": {
         "de": [
@@ -828,6 +891,11 @@
           "Check your tire pressure before setting off.",
           "Watch out for pedestrians in the low-traffic zones.",
           "A helmet is strongly recommended."
+        ],
+        "sk": [
+          "Skontrolujte tlak v pneumatikách pred odchodom.",
+          "Dávajte pozor na chodcov v zónach s nízkou premávkou.",
+          "Prilba je dôrazne odporúčaná."
         ]
       },
       "variants": {
@@ -836,7 +904,8 @@
             "de": "Eine Radtour im Regen erfordert die richtige Ausrüstung. Starten Sie vorsichtig am Námestie slobody. Die Fahrt zur Marienkirche am Stadtrand führt über nasse Straßen; achten Sie auf den Bremsweg. Mittags bietet das Museum einen langen, trockenen Aufenthalt, während Ihre Ausrüstung trocknen kann. Der Tag endet mit einer kurzen Fahrt zurück ins Zentrum, wo Sie sich in einem warmen Lokal belohnen können.",
             "hu": "Az esős bringázáshoz elengedhetetlen a jó felszerelés. Kezdjen óvatosan a Szabadság téren. A város szélén lévő Mária-templomhoz vezető út vizes lehet, ügyeljen a féktávra. Délben a múzeum hosszú, száraz pihenőt kínál, ahol a felszerelése is megszáradhat. A napot egy rövid visszaúttal zárja a központba, ahol egy meleg étellel jutalmazhatja meg magát.",
             "ro": "O tură cu bicicleta pe ploaie necesită echipament adecvat. Începeți cu prudență din Piața Libertății. Drumul spre Biserica Adormirii Maicii Domnului de la periferie trece pe străzi ude; atenție la distanța de frânare. La prânz, muzeul oferă o ședere lungă și uscată, timp în care echipamentul se poate usca. Ziua se încheie cu o scurtă revenire în centru.",
-            "en": "Cycling in the rain requires proper gear. Start cautiously at Freedom Square. The ride to the Church of the Assumption on the outskirts follows wet roads; mind your braking distance. At noon, the museum provides a long, dry stay while your gear can dry off. End your day with a short ride back to the center, rewarding yourself in a warm local eatery."
+            "en": "Cycling in the rain requires proper gear. Start cautiously at Freedom Square. The ride to the Church of the Assumption on the outskirts follows wet roads; mind your braking distance. At noon, the museum provides a long, dry stay while your gear can dry off. End your day with a short ride back to the center, rewarding yourself in a warm local eatery.",
+            "sk": "Cyklistika v daždi vyžaduje vhodné vybavenie. Začnite opatrne na Námestí slobody. Cesta ku Kostolu Nanebovzatia vedie po mokrých cestách; dávajte pozor na brzdnú dráhu. Na poludnie múzeum poskytne dlhý, suchý pobyt, kým sa vám výbava vysuší. Deň zakončite krátkou jazdou späť do centra a odmeňte sa v teple miestnej reštaurácie."
           },
           "stops": [
             {
@@ -845,7 +914,8 @@
                 "de": "Vorsicht beim Anfahren auf nassem Kopfsteinpflaster.",
                 "hu": "Vigyázzon az elinduláskor a vizes macskakövön.",
                 "ro": "Atenție la plecarea de pe loc pe pavajul ud.",
-                "en": "Be careful when starting off on wet cobblestones."
+                "en": "Be careful when starting off on wet cobblestones.",
+                "sk": "Buďte opatrní pri rozjazde na mokrých dlažobných kameňoch."
               }
             },
             {
@@ -854,7 +924,8 @@
                 "de": "Fahrrad sicher und unter einem Vordach abstellen.",
                 "hu": "Próbálja fedett helyen leparkolni a kerékpárt.",
                 "ro": "Parcați bicicleta într-un loc ferit, dacă e posibil.",
-                "en": "Try to park your bike under a cover if possible."
+                "en": "Try to park your bike under a cover if possible.",
+                "sk": "Snažte sa zaparkovať bicykel pod prístreškom, ak je to možné."
               }
             },
             {
@@ -863,7 +934,8 @@
                 "de": "Nutzen Sie den Stopp, um die Kette kurz abzuwischen.",
                 "hu": "Használja ki a megállót a lánc gyors áttörlésére.",
                 "ro": "Folosiți oprirea pentru a șterge scurt lanțul.",
-                "en": "Use the stop to quickly wipe down your chain."
+                "en": "Use the stop to quickly wipe down your chain.",
+                "sk": "Využite prestávku na rýchle utretie reťaze."
               }
             },
             {
@@ -872,7 +944,8 @@
                 "de": "Achtung bei der Abfahrt vom Hügel; Bremsen vorher prüfen.",
                 "hu": "Vigyázzon a dombról lefelé menet, ellenőrizze a fékeket.",
                 "ro": "Atenție la coborârea de pe deal; verificați frânele.",
-                "en": "Be careful on the descent from the hill; check your brakes."
+                "en": "Be careful on the descent from the hill; check your brakes.",
+                "sk": "Buďte opatrní pri zjazde z kopca; skontrolujte brzdy."
               }
             },
             {
@@ -881,7 +954,8 @@
                 "de": "Fragen Sie nach einem Platz für nasse Regenbekleidung.",
                 "hu": "Kérdezze meg, hol hagyhatja a vizes esőruházatát.",
                 "ro": "Întrebați unde puteți lăsa pelerina de ploaie udă.",
-                "en": "Ask where you can leave your wet rain gear."
+                "en": "Ask where you can leave your wet rain gear.",
+                "sk": "Opýtajte sa, kde môžete nechať svoju mokrú výbavu."
               }
             },
             {
@@ -890,7 +964,8 @@
                 "de": "Letzter Stopp, bevor es zur Trocknung ins Hotel/Haus geht.",
                 "hu": "Utolsó megálló, mielőtt megszárítaná magát otthon.",
                 "ro": "Ultima oprire înainte de a merge la uscat echipamentul.",
-                "en": "Final stop before heading back to dry off."
+                "en": "Final stop before heading back to dry off.",
+                "sk": "Posledná zastávka pred návratom na vysušenie."
               }
             }
           ],
@@ -922,6 +997,13 @@
               "Wear cycling glasses to keep rain out of your eyes.",
               "Wipe your rims dry after the tour to prevent corrosion.",
               "Plan more time for travel as you should maintain a slower pace."
+            ],
+            "sk": [
+              "Blatníky sú v tomto počasí v Prievidzi nevyhnutnosťou.",
+              "Vyhnite sa prudkému brzdeniu na maľovaných cestných značeniach.",
+              "Noste cyklistické okuliare, aby ste držali dážď mimo očí.",
+              "Po túre utrite ráfiky do sucha, aby ste zabránili korózii.",
+              "Naplánujte si viac času na cestovanie, lebo by ste mali dodržiavať pomalšie tempo."
             ]
           }
         },
@@ -930,7 +1012,8 @@
             "de": "Winterradeln in Prievidza ist etwas für Abenteurer. Starten Sie eingepackt am Námestie slobody. Die Route führt Sie zur Marienkirche, wobei Sie besonders auf eisige Stellen im Schatten achten müssen. Mittags bietet das Museum eine willkommene Aufwärmpause. Beenden Sie Ihre Tour frühzeitig vor Einbruch der Dunkelheit und genießen Sie die klare Winterluft, bevor Sie sich in die Wärme zurückziehen.",
             "hu": "A téli bringázás Prievidzában az igazi kalandoroknak való. Rétegesen öltözve induljon a Szabadság térről. Az út a Mária-templomhoz vezet, ahol különösen figyeljen az árnyékos részeken megbújó jégre. Délben a múzeum fűtött terei nyújtanak menedéket. Fejezze be a túrát még sötétedés előtt, és élvezze a friss téli levegőt, mielőtt a melegbe vonulna.",
             "ro": "Ciclismul de iarnă în Prievidza este pentru aventurieri. Porniți bine înfofoliți din Piața Libertății. Traseul vă duce spre Biserica Adormirii, unde trebuie să fiți atenți la gheața din zonele umbrite. La prânz, muzeul oferă o pauză de încălzire binevenită. Încheiați tura înainte de lăsarea întunericului și bucurați-vă de aerul curat de iarnă.",
-            "en": "Winter cycling in Prievidza is for the adventurous. Start bundled up at Freedom Square. The route takes you to the Church of the Assumption, where you must be extra careful of icy patches in shaded areas. At noon, the museum offers a welcome warming break. Finish your tour early before dark and enjoy the crisp winter air before retreating to the warmth."
+            "en": "Winter cycling in Prievidza is for the adventurous. Start bundled up at Freedom Square. The route takes you to the Church of the Assumption, where you must be extra careful of icy patches in shaded areas. At noon, the museum offers a welcome warming break. Finish your tour early before dark and enjoy the crisp winter air before retreating to the warmth.",
+            "sk": "Zimná cyklistika v Prievidzi je pre odvážnych. Začnite zbalení na Námestí slobody. Trasa vedie ku Kostolu Nanebovzatia, kde musíte byť obzvlášť opatrní na zamrznuté mláky v tienistých úsekoch. Na poludnie múzeum poskytne vítanú prestávku na zahriatie. Ukončite túru skôr pred zotmením a užite si svieži zimný vzduch pred návratom do tepla."
           },
           "stops": [
             {
@@ -939,7 +1022,8 @@
                 "de": "Vorsicht vor gefrorenen Pfützen auf dem Platz.",
                 "hu": "Vigyázzon a téren megbújó fagyott tócsákkal.",
                 "ro": "Atenție la bălțile înghețate din piață.",
-                "en": "Watch out for frozen puddles on the square."
+                "en": "Watch out for frozen puddles on the square.",
+                "sk": "Dávajte pozor na zamrznuté kaluže na námestí."
               }
             },
             {
@@ -948,7 +1032,8 @@
                 "de": "Kurzer Stopp; halten Sie die Muskeln durch Bewegung warm.",
                 "hu": "Rövid megálló; tartsa melegen az izmait mozgással.",
                 "ro": "Oprire scurtă; mențineți mușchii calzi prin mișcare.",
-                "en": "Short stop; keep your muscles warm by moving around."
+                "en": "Short stop; keep your muscles warm by moving around.",
+                "sk": "Krátka zastávka; udržiavajte svaly v teple pohybom."
               }
             },
             {
@@ -957,7 +1042,8 @@
                 "de": "Prüfen Sie, ob Ihre Bremsen bei Kälte einwandfrei funktionieren.",
                 "hu": "Ellenőrizze, hogy a fékek hidegben is jól fognak-e.",
                 "ro": "Verificați dacă frânele funcționează corect la frig.",
-                "en": "Check if your brakes are functioning correctly in the cold."
+                "en": "Check if your brakes are functioning correctly in the cold.",
+                "sk": "Skontrolujte, či vaše brzdy v chlade správne fungujú."
               }
             },
             {
@@ -966,7 +1052,8 @@
                 "de": "Der Anstieg hilft beim Aufwärmen, oben weht oft kalter Wind.",
                 "hu": "Az emelkedő segít bemelegedni, de fent gyakran fúj a hideg szél.",
                 "ro": "Urcarea vă va încălzi, dar sus bate adesea vântul rece.",
-                "en": "The climb will help you warm up, but it's often windy at the top."
+                "en": "The climb will help you warm up, but it's often windy at the top.",
+                "sk": "Stúpanie vás zahreje, ale na vrchu často fúka vietor."
               }
             },
             {
@@ -975,7 +1062,8 @@
                 "de": "Nutzen Sie die Garderobe für Ihre schwere Winterausrüstung.",
                 "hu": "Használja a ruhatárat a nehéz téli felszerelésének.",
                 "ro": "Folosiți garderoba pentru echipamentul greu de iarnă.",
-                "en": "Use the cloakroom for your heavy winter gear."
+                "en": "Use the cloakroom for your heavy winter gear.",
+                "sk": "Použite šatňu pre ťažké zimné veci."
               }
             },
             {
@@ -984,7 +1072,8 @@
                 "de": "Letztes Ziel, achten Sie auf Streusalz an Ihrem Fahrrad.",
                 "hu": "Utolsó célpont, figyeljen az útszóró sóra a biciklin.",
                 "ro": "Ultima destinație, atenție la sarea de pe drum pe bicicletă.",
-                "en": "Final destination, watch out for road salt on your bike."
+                "en": "Final destination, watch out for road salt on your bike.",
+                "sk": "Konečná destinácia, dávajte pozor na cestnú soľ na bicykli."
               }
             }
           ],
@@ -1016,6 +1105,13 @@
               "Good bike lights are mandatory from 15:30 onwards.",
               "Be careful of frozen leaves on the bike paths.",
               "Clean your bike after the tour to remove aggressive road salt."
+            ],
+            "sk": [
+              "Noste rukavice, ktoré blokujú vietor aj chlad.",
+              "Znížte trochu tlak v pneumatikách pre lepšiu priľnavosť na zimných povrchoch.",
+              "Dobrým bicyklovým svetlám je od 15:30 povinné používanie.",
+              "Dávajte pozor na zamrznuté listy na cyklotrasách.",
+              "Po výlete očistite bicykel, aby ste odstránili agresívnu cestnú soľ."
             ]
           }
         }
@@ -1034,7 +1130,8 @@
             "de": "Schloss Bojnice (Zámok Bojnice)",
             "hu": "Bajmóci vár (Zámok Bojnice)",
             "ro": "Castelul Bojnice (Zámok Bojnice)",
-            "en": "Bojnice Castle (Zámok Bojnice)"
+            "en": "Bojnice Castle (Zámok Bojnice)",
+            "sk": "Bojnický zámok (Zámok Bojnice)"
           },
           "coords": [
             18.577,
@@ -1049,7 +1146,8 @@
             "de": "Das Märchenschloss ist ein Muss! Planen Sie eine Führung ein.",
             "hu": "A mesebeli kastély kötelező látnivaló! Tervezzen be egy vezetett túrát.",
             "ro": "Castelul de basm este o necesitate! Planificați un tur ghidat.",
-            "en": "The fairy-tale castle is a must-see! Plan for a guided tour."
+            "en": "The fairy-tale castle is a must-see! Plan for a guided tour.",
+            "sk": "Rozprávkový zámok, ktorý stojí za návštevu! Plánujte prehliadku s výkladom."
           },
           "hop_mode": "car"
         },
@@ -1058,7 +1156,8 @@
             "de": "Zoo Bojnice",
             "hu": "Bajmóci Állatkert",
             "ro": "Grădina Zoologică Bojnice",
-            "en": "Bojnice Zoo"
+            "en": "Bojnice Zoo",
+            "sk": "Zoologická záhrada Bojnice"
           },
           "coords": [
             18.579,
@@ -1073,7 +1172,8 @@
             "de": "Direkt neben dem Schloss, ideal für einen Familienausflug.",
             "hu": "Közvetlenül a kastély mellett, ideális családi kiránduláshoz.",
             "ro": "Chiar lângă castel, ideal pentru o excursie în familie.",
-            "en": "Right next to the castle, ideal for a family outing."
+            "en": "Right next to the castle, ideal for a family outing.",
+            "sk": "Hneď vedľa zámku, ideálne na rodinný výlet."
           },
           "hop_mode": "walk"
         },
@@ -1082,7 +1182,8 @@
             "de": "Mittagessen in Bojnice",
             "hu": "Ebéd Bajmócon",
             "ro": "Prânz în Bojnice",
-            "en": "Lunch in Bojnice"
+            "en": "Lunch in Bojnice",
+            "sk": "Obed v Bojniciach"
           },
           "coords": [
             18.581,
@@ -1097,7 +1198,8 @@
             "de": "Genießen Sie die lokale Küche mit Blick auf das Schloss.",
             "hu": "Élvezze a helyi konyhát a kastélyra néző kilátással.",
             "ro": "Bucurați-vă de bucătăria locală cu vedere la castel.",
-            "en": "Enjoy local cuisine with a view of the castle."
+            "en": "Enjoy local cuisine with a view of the castle.",
+            "sk": "Vychutnajte si miestnu kuchyňu s výhľadom na zámok."
           },
           "hop_mode": "walk"
         },
@@ -1106,7 +1208,8 @@
             "de": "Freiheitsplatz (Parken & Spaziergang)",
             "hu": "Szabadság tér (Parkolás és séta)",
             "ro": "Piața Libertății (Parcare și plimbare)",
-            "en": "Freedom Square (Park & Walk)"
+            "en": "Freedom Square (Park & Walk)",
+            "sk": "Námestie slobody (Park & Walk)"
           },
           "coords": [
             18.627,
@@ -1121,7 +1224,8 @@
             "de": "Parken Sie Ihr Auto und erkunden Sie das Zentrum von Prievidza zu Fuß.",
             "hu": "Parkolja le az autót, és fedezze fel gyalog Privigye központját.",
             "ro": "Parcați mașina și explorați centrul orașului Prievidza pe jos.",
-            "en": "Park your car and explore the center of Prievidza on foot."
+            "en": "Park your car and explore the center of Prievidza on foot.",
+            "sk": "Zaparkujte auto a preskúmajte centrum Prievidze pešo."
           },
           "hop_mode": "car"
         },
@@ -1130,7 +1234,8 @@
             "de": "Kirche des Heiligen Bartholomäus",
             "hu": "Szent Bertalan-templom",
             "ro": "Biserica Sfântul Bartolomeu",
-            "en": "St. Bartholomew's Church"
+            "en": "St. Bartholomew's Church",
+            "sk": "Kostol sv. Bartolomeja"
           },
           "coords": [
             18.625,
@@ -1145,7 +1250,8 @@
             "de": "Ein kurzer Spaziergang vom Hauptplatz entfernt.",
             "hu": "Rövid séta a főtértől.",
             "ro": "O scurtă plimbare de la piața principală.",
-            "en": "A short walk from the main square."
+            "en": "A short walk from the main square.",
+            "sk": "Krátka prechádzka od hlavného námestia."
           },
           "hop_mode": "walk"
         },
@@ -1154,7 +1260,8 @@
             "de": "Piaristenkirche der Heiligen Dreifaltigkeit",
             "hu": "Piarista Szentháromság-templom",
             "ro": "Biserica Piaristă a Sfintei Treimi",
-            "en": "Piarist Church of the Holy Trinity"
+            "en": "Piarist Church of the Holy Trinity",
+            "sk": "Piaristický kostol Najsvätejšej Trojice"
           },
           "coords": [
             18.622,
@@ -1169,7 +1276,8 @@
             "de": "Bewundern Sie die reiche barocke Innenausstattung.",
             "hu": "Csodálja meg a gazdag barokk belső teret.",
             "ro": "Admirați interiorul bogat în stil baroc.",
-            "en": "Admire the rich baroque interior."
+            "en": "Admire the rich baroque interior.",
+            "sk": "Obdivujte bohatý barokový interiér."
           },
           "hop_mode": "walk"
         },
@@ -1178,7 +1286,8 @@
             "de": "Obernitra-Museum",
             "hu": "Felső-nyitrai Múzeum",
             "ro": "Muzeul Nitra Superioară",
-            "en": "Museum of Upper Nitra"
+            "en": "Museum of Upper Nitra",
+            "sk": "Múzeum Horná Nitra"
           },
           "coords": [
             18.621,
@@ -1193,7 +1302,8 @@
             "de": "Der Abschluss des Tages mit einem Einblick in die Kultur der Region.",
             "hu": "A nap lezárása a régió kultúrájába való betekintéssel.",
             "ro": "Încheierea zilei cu o privire asupra culturii regiunii.",
-            "en": "The end of the day with a glimpse into the region's culture."
+            "en": "The end of the day with a glimpse into the region's culture.",
+            "sk": "Záver dňa s náhľadom do kultúry regiónu."
           },
           "hop_mode": "walk"
         }
@@ -1202,7 +1312,8 @@
         "de": "Nutzen Sie die Flexibilität des Autos für einen Ausflug zum nahegelegenen Schloss Bojnice, einem echten Märchenschloss. Nach dem Schlossbesuch und einem Abstecher in den Zoo kehren Sie nach Prievidza zurück. Parken Sie im Zentrum und erkunden Sie den historischen Kern zu Fuß: vom Freiheitsplatz über die alten Kirchen bis zum Obernitra-Museum. Dieser Plan verbindet ein Top-Highlight der Region mit dem Charme der Stadt.",
         "hu": "Használja ki az autó rugalmasságát, és tegyen egy kirándulást a közeli Bajmóci várhoz, egy igazi mesebeli kastélyhoz. A kastélylátogatás és az állatkerti kitérő után térjen vissza Privigyére. Parkoljon a központban, és fedezze fel gyalog a történelmi magot: a Szabadság tértől a régi templomokon át a Felső-nyitrai Múzeumig. Ez a terv ötvözi a régió egyik legfőbb látványosságát a város bájával.",
         "ro": "Folosiți flexibilitatea mașinii pentru o excursie la Castelul Bojnice din apropiere, un adevărat castel de basm. După vizitarea castelului și o vizită la grădina zoologică, reveniți în Prievidza. Parcați în centru și explorați nucleul istoric pe jos: de la Piața Libertății la bisericile vechi și la Muzeul Nitra Superioară. Acest plan combină o atracție de top a regiunii cu farmecul orașului.",
-        "en": "Use the flexibility of the car for a trip to nearby Bojnice Castle, a true fairy-tale castle. After visiting the castle and a detour to the zoo, return to Prievidza. Park in the center and explore the historic core on foot: from Freedom Square to the old churches and the Museum of Upper Nitra. This plan combines a top regional highlight with the city's charm."
+        "en": "Use the flexibility of the car for a trip to nearby Bojnice Castle, a true fairy-tale castle. After visiting the castle and a detour to the zoo, return to Prievidza. Park in the center and explore the historic core on foot: from Freedom Square to the old churches and the Museum of Upper Nitra. This plan combines a top regional highlight with the city's charm.",
+        "sk": "Využite flexibilitu auta na výlet k blízkemu Bojnickému zámku, skutočnému rozprávkovému zámku. Po návšteve zámku a odbočke do zoo sa vráťte do Prievidze. Zaparkujte v centre a historické jadro preskúmajte pešo: od Námestia slobody k starým kostolom a Múzeu Horná Nitra. Tento plán kombinuje vrchol regiónu s pôvabom mesta."
       },
       "gastro_picks": {
         "de": [
@@ -1306,6 +1417,11 @@
           "Buy tickets for Bojnice Castle online to avoid queues.",
           "Parking fees may apply, have some change ready.",
           "Allow enough time for traffic between Bojnice and Prievidza."
+        ],
+        "sk": [
+          "Kupujte lístky na Bojnický zámok online, aby ste sa vyhli frontám.",
+          "Môžu sa platiť parkovacie poplatky, majte pri sebe drobné.",
+          "Nezabudnite na čas na presun medzi Bojnicami a Prievidzou kvôli doprave."
         ]
       },
       "variants": {
@@ -1314,7 +1430,8 @@
             "de": "Regen ist kein Hindernis für einen Besuch im nahegelegenen Bojnice. Starten Sie trocken im Auto zum Schloss Bojnice, das im Inneren seine volle Pracht entfaltet. Auch der Zoo bietet überdachte Pavillons. Mittags genießen Sie ein gemütliches Essen in Bojnice, bevor Sie zurück nach Prievidza fahren. Besuchen Sie dort die Kirchen und das Museum, wobei Sie die kurzen Wege zwischen den Parkplätzen und Sehenswürdigkeiten nutzen.",
             "hu": "Az eső nem akadály egy Bojnice-i kiruccanáshoz. Kezdje a napot a Bajmóci várkastélyban, amely belülről is lenyűgöző. Az állatkertben is több fedett pavilon várja. Délben ebédeljen Bajmócon, majd térjen vissza Prievidzába. Itt látogassa meg a templomokat és a múzeumot, kihasználva a parkolók és a látnivalók közötti rövid távolságokat.",
             "ro": "Ploaia nu este un obstacol pentru o vizită în Bojnice. Începeți ziua la Castelul Bojnice, care este superb în interior. Grădina zoologică are și ea pavilioane acoperite. Luați prânzul în Bojnice, apoi reveniți în Prievidza. Vizitați bisericile și muzeul de aici, profitând de distanțele scurte între parcări și obiective.",
-            "en": "Rain is no obstacle for a visit to nearby Bojnice. Start your dry drive to Bojnice Castle, which reveals its full splendor indoors. The zoo also offers several indoor pavilions. Enjoy a cozy lunch in Bojnice before driving back to Prievidza. There, visit the churches and the museum, taking advantage of the short walks between parking spots and sights."
+            "en": "Rain is no obstacle for a visit to nearby Bojnice. Start your dry drive to Bojnice Castle, which reveals its full splendor indoors. The zoo also offers several indoor pavilions. Enjoy a cozy lunch in Bojnice before driving back to Prievidza. There, visit the churches and the museum, taking advantage of the short walks between parking spots and sights.",
+            "sk": "Dážď nie je prekážkou návšteve blízkych Bojníc. Začnite suchou jazdou k Bojnickému zámku, ktorý svoj pôvab ukáže aj v interiéri. Zoo má tiež niekoľko vnútorných pavilónov. Doprajte si útulný obed v Bojniciach pred návratom do Prievidze. Tam navštívte kostoly a múzeum s výhodou krátkych presunov medzi parkoviskami a pamiatkami."
           },
           "stops": [
             {
@@ -1323,7 +1440,8 @@
                 "de": "Ideal bei Regen; die Führungen finden komplett im Inneren statt.",
                 "hu": "Ideális esőben, a tárlatvezetés teljesen fedett helyen zajlik.",
                 "ro": "Ideal pe ploaie; tururile ghidate au loc în interior.",
-                "en": "Ideal for rainy days; guided tours are entirely indoors."
+                "en": "Ideal for rainy days; guided tours are entirely indoors.",
+                "sk": "Ideálne na upršané dni; prehliadky s výkladom sú úplne vnútri."
               }
             },
             {
@@ -1332,7 +1450,8 @@
                 "de": "Besuchen Sie die Affen- und Elefantenpavillons, um trocken zu bleiben.",
                 "hu": "Keresse fel a majomházat és az elefántcsarnokot, ott szárazon maradhat.",
                 "ro": "Vizitați pavilioanele maimuțelor și elefanților pentru a rămâne uscați.",
-                "en": "Visit the primate and elephant pavilions to stay dry."
+                "en": "Visit the primate and elephant pavilions to stay dry.",
+                "sk": "Navštívte pavilóny primátov a slonov, aby ste zostali v suchu."
               }
             },
             {
@@ -1341,7 +1460,8 @@
                 "de": "Reservieren Sie einen Tisch in der Nähe des Schlossparkplatzes.",
                 "hu": "Foglaljon asztalt a várparkoló közelében a kényelem érdekében.",
                 "ro": "Rezervați o masă aproape de parcarea castelului.",
-                "en": "Book a table near the castle parking lot for convenience."
+                "en": "Book a table near the castle parking lot for convenience.",
+                "sk": "Rezervujte si stôl pri parkovisku zámku pre pohodlie."
               }
             },
             {
@@ -1350,7 +1470,8 @@
                 "de": "Nutzen Sie die Parkplätze direkt am Platz für minimale Wege im Regen.",
                 "hu": "Parkoljon közvetlenül a tér mellett, hogy keveset kelljen áznia.",
                 "ro": "Folosiți parcările de lângă piață pentru drumuri minime prin ploaie.",
-                "en": "Use the parking spots right by the square to minimize walking in the rain."
+                "en": "Use the parking spots right by the square to minimize walking in the rain.",
+                "sk": "Využite parkovacie miesta priamo pri námestí, aby ste minimalizovali chôdzu v daždi."
               }
             },
             {
@@ -1359,7 +1480,8 @@
                 "de": "Ein kurzer Sprint vom Auto zum Eingang lohnt sich.",
                 "hu": "Egy rövid sprint az autótól a bejáratig, és már bent is van.",
                 "ro": "Un scurt sprint de la mașină până la intrare merită efortul.",
-                "en": "A short sprint from the car to the entrance is worth it."
+                "en": "A short sprint from the car to the entrance is worth it.",
+                "sk": "Krátky šprint z auta k vchodu stojí za to."
               }
             },
             {
@@ -1368,7 +1490,8 @@
                 "de": "Parken Sie in der Nähe der G. Švéni Straße.",
                 "hu": "Parkoljon a G. Švéni utca környékén a közelség miatt.",
                 "ro": "Parcați în apropierea străzii G. Švéni.",
-                "en": "Park near G. Švéni street for easy access."
+                "en": "Park near G. Švéni street for easy access.",
+                "sk": "Parkujte pri ulici G. Švéni pre jednoduchý prístup."
               }
             },
             {
@@ -1377,7 +1500,8 @@
                 "de": "Der Museumsparkplatz ist oft auch bei Regen gut belegt; früh kommen.",
                 "hu": "A múzeum parkolója esőben is népszerű, érkezzen időben.",
                 "ro": "Parcarea muzeului este adesea plină și pe ploaie; veniți devreme.",
-                "en": "The museum parking is often busy even in rain; arrive early."
+                "en": "The museum parking is often busy even in rain; arrive early.",
+                "sk": "Parkovisko pri múzeu býva často plné aj v daždi; príďte skôr."
               }
             }
           ],
@@ -1409,6 +1533,13 @@
               "Always keep an umbrella within reach in the car.",
               "Use the seat heating to warm up after your walks.",
               "Visibility on the country road can be limited during heavy rain."
+            ],
+            "sk": [
+              "Skontrolujte stierače pred jazdou do Bojníc.",
+              "Parkoviská v Bojniciach môžu byť za dažďa blátivé.",
+              "V aute majte vždy po ruke dáždnik.",
+              "Použite vyhrievanie sedadiel, aby ste sa po prechádzkach zahriali.",
+              "Viditeľnosť na vidieckej ceste môže byť pri silnom daždi obmedzená."
             ]
           }
         },
@@ -1417,7 +1548,8 @@
             "de": "Ein Winterausflug mit dem Auto nach Bojnice ist märchenhaft. Besuchen Sie das Schloss Bojnice, das im Schnee wie aus einer anderen Welt wirkt. Nach dem Mittagessen kehren Sie nach Prievidza zurück. Die kurzen Wege vom Auto zu den Sehenswürdigkeiten in der Altstadt machen die Kälte erträglich. Nutzen Sie den Nachmittag im warmen Museum und beenden Sie den Tag gemütlich, während die Stadt in Winterlichtern erstrahlt.",
             "hu": "A téli autós kirándulás Bajmócra mesébe illő. Látogassa meg a várkastélyt, amely a hóban egészen különleges látvány. Ebéd után térjen vissza Prievidzába. Az autó és a látnivalók közötti rövid séták az óvárosban elviselhetővé teszik a hideget. Töltse a délutánt a fűtött múzeumban, és zárja a napot a kivilágított téli városban.",
             "ro": "O excursie de iarnă cu mașina la Bojnice este de basm. Vizitați castelul, care arată ireal sub zăpadă. După prânz, reveniți în Prievidza. Distanțele scurte de la mașină la obiectivele din centrul vechi fac frigul suportabil. Petreceți după-amiaza în muzeul călduros și încheiați ziua admirând luminile de iarnă ale orașului.",
-            "en": "A winter car trip to Bojnice is like a fairytale. Visit Bojnice Castle, which looks magical surrounded by snow. After lunch, return to Prievidza. The short walks from your car to the old town sights make the cold manageable. Spend your afternoon in the warm museum and end the day comfortably as the city sparkles in winter lights."
+            "en": "A winter car trip to Bojnice is like a fairytale. Visit Bojnice Castle, which looks magical surrounded by snow. After lunch, return to Prievidza. The short walks from your car to the old town sights make the cold manageable. Spend your afternoon in the warm museum and end the day comfortably as the city sparkles in winter lights.",
+            "sk": "Zimný automobilový výlet do Bojníc je ako rozprávka. Navštívte Bojnický zámok, ktorý obkolesený snehom pôsobí čarovne. Po obede sa vráťte do Prievidze. Krátke prechádzky z parkoviska k pamiatkam starého mesta robia chlad znesiteľným. Popoludnie strávte v teplom múzeu a deň ukončite pohodlne, keď mesto žiari zimnými svetlami."
           },
           "stops": [
             {
@@ -1426,7 +1558,8 @@
                 "de": "Das Schloss ist im Winter teilweise beheizt, aber warme Kleidung nötig.",
                 "hu": "A vár télen részben fűtött, de a termekben szükség lesz a kabátra.",
                 "ro": "Castelul este parțial încălzit iarna, dar hainele groase sunt necesare.",
-                "en": "The castle is partially heated in winter, but warm clothes are still needed."
+                "en": "The castle is partially heated in winter, but warm clothes are still needed.",
+                "sk": "Zámok je v zime čiastočne vykurovaný, no stále sú potrebné teplé veci."
               }
             },
             {
@@ -1435,7 +1568,8 @@
                 "de": "Einige Tiere sind im Winter im Stall; besuchen Sie die Innenanlagen.",
                 "hu": "Télen több állat bent pihen; keresse a belső kifutókat.",
                 "ro": "Unele animale sunt în grajduri iarna; vizitați adăposturile interioare.",
-                "en": "Some animals are indoors during winter; visit the indoor enclosures."
+                "en": "Some animals are indoors during winter; visit the indoor enclosures.",
+                "sk": "Niektoré zvieratá sú v zime v interiéri; navštívte vnútorné výbehy."
               }
             },
             {
@@ -1444,7 +1578,8 @@
                 "de": "Wählen Sie ein Restaurant mit Kamin für die richtige Winterstimmung.",
                 "hu": "Válasszon kandallós éttermet az igazi téli hangulathoz.",
                 "ro": "Alegeți un restaurant cu șemineu pentru o atmosferă de iarnă autentică.",
-                "en": "Choose a restaurant with a fireplace for the ultimate winter vibe."
+                "en": "Choose a restaurant with a fireplace for the ultimate winter vibe.",
+                "sk": "Vyberte reštauráciu s krbom pre dokonalú zimnú atmosféru."
               }
             },
             {
@@ -1453,7 +1588,8 @@
                 "de": "Vorsicht beim Einparken auf verschneiten Markierungen.",
                 "hu": "Vigyázzon a parkoláskor a hóval fedett felfestésekre.",
                 "ro": "Atenție la parcare pe marcajele acoperite de zăpadă.",
-                "en": "Be careful when parking on snow-covered markings."
+                "en": "Be careful when parking on snow-covered markings.",
+                "sk": "Dávajte pozor pri parkovaní na zasnežených značeniach."
               }
             },
             {
@@ -1462,7 +1598,8 @@
                 "de": "Kurze Besichtigung einplanen, da die Steinkirche sehr kalt ist.",
                 "hu": "Rövid látogatást tervezzen, mert a kőtemplom nagyon hideg.",
                 "ro": "Planificați o vizită scurtă, biserica de piatră este foarte rece.",
-                "en": "Plan a short visit as the stone church is very cold."
+                "en": "Plan a short visit as the stone church is very cold.",
+                "sk": "Plánujte krátku návštevu, pretože kamenný kostol je veľmi chladný."
               }
             },
             {
@@ -1471,7 +1608,8 @@
                 "de": "Die Beleuchtung am Abend ist im Winter besonders stimmungsvoll.",
                 "hu": "Az esti kivilágítás télen különösen hangulatos.",
                 "ro": "Iluminatul de seară este deosebit de sugestiv iarna.",
-                "en": "The evening lighting is particularly atmospheric in winter."
+                "en": "The evening lighting is particularly atmospheric in winter.",
+                "sk": "Večerné osvetlenie je v zime obzvlášť atmosférické."
               }
             },
             {
@@ -1480,7 +1618,8 @@
                 "de": "Perfekt zum Aufwärmen vor der Heimfahrt.",
                 "hu": "Tökéletes hely az átmelegedéshez a hazaút előtt.",
                 "ro": "Perfect pentru a vă încălzi înainte de drumul spre casă.",
-                "en": "Perfect for warming up before the drive home."
+                "en": "Perfect for warming up before the drive home.",
+                "sk": "Perfektné na zahriatie pred cestou domov."
               }
             }
           ],
@@ -1512,6 +1651,13 @@
               "Keep an eye on your car battery; the cold can take a toll on it.",
               "Avoid parking under large trees due to snow load and icicles.",
               "Fill your windshield washer reservoir with anti-freeze fluid."
+            ],
+            "sk": [
+              "V tomto regióne sú zimné pneumatiky a škrabka na ľad povinné.",
+              "Dávajte pozor na čierny ľad na ceste medzi Prievidzou a Bojnicami.",
+              "Sledujte stav autobatérie; chlad jej môže dať zabrať.",
+              "Nevypaľujte auto pod veľkými stromami kvôli snehovej záťaži a ľadopádom.",
+              "Doplňte nádržku ostrekovačov kvapalninou proti zamrznutiu."
             ]
           }
         }
@@ -1530,7 +1676,8 @@
             "de": "Ankunft Freiheitsplatz",
             "hu": "Érkezés a Szabadság térre",
             "ro": "Sosire în Piața Libertății",
-            "en": "Arrival at Freedom Square"
+            "en": "Arrival at Freedom Square",
+            "sk": "Príchod na Námestie slobody"
           },
           "coords": [
             18.627,
@@ -1545,7 +1692,8 @@
             "de": "Der zentrale Busbahnhof ist ein guter Ausgangspunkt.",
             "hu": "A központi buszpályaudvar jó kiindulópont.",
             "ro": "Autogara centrală este un bun punct de plecare.",
-            "en": "The central bus station is a good starting point."
+            "en": "The central bus station is a good starting point.",
+            "sk": "Centrálná autobusová stanica je dobrý východiskový bod."
           },
           "hop_mode": "transit"
         },
@@ -1554,7 +1702,8 @@
             "de": "Mariensäule & Bürgerhäuser",
             "hu": "Mária-oszlop és Polgárházak",
             "ro": "Coloana Mariană și Casele Burgheze",
-            "en": "Marian Column & Burgher Houses"
+            "en": "Marian Column & Burgher Houses",
+            "sk": "Mariánsky stĺp a meštianske domy"
           },
           "coords": [
             18.6268,
@@ -1569,7 +1718,8 @@
             "de": "Dieses Cluster lässt sich leicht zu Fuß erkunden.",
             "hu": "Ez a látnivalócsoport könnyen felfedezhető gyalog.",
             "ro": "Acest grup de atracții poate fi explorat cu ușurință pe jos.",
-            "en": "This cluster is easily explored on foot."
+            "en": "This cluster is easily explored on foot.",
+            "sk": "Túto skupinu pamiatok možno ľahko preskúmať pešo."
           },
           "hop_mode": "walk"
         },
@@ -1578,7 +1728,8 @@
             "de": "Kirche des Heiligen Bartholomäus",
             "hu": "Szent Bertalan-templom",
             "ro": "Biserica Sfântul Bartolomeu",
-            "en": "St. Bartholomew's Church"
+            "en": "St. Bartholomew's Church",
+            "sk": "Kostol sv. Bartolomeja"
           },
           "coords": [
             18.625,
@@ -1593,7 +1744,8 @@
             "de": "Ein kurzer Spaziergang durch die Altstadtgassen.",
             "hu": "Rövid séta az óváros sikátorain keresztül.",
             "ro": "O scurtă plimbare pe străduțele orașului vechi.",
-            "en": "A short walk through the old town alleys."
+            "en": "A short walk through the old town alleys.",
+            "sk": "Krátka prechádzka cez uličky starého mesta."
           },
           "hop_mode": "walk"
         },
@@ -1602,7 +1754,8 @@
             "de": "Fahrt zum Museumsviertel",
             "hu": "Utazás a múzeumi negyedbe",
             "ro": "Călătorie spre cartierul muzeelor",
-            "en": "Trip to the Museum Quarter"
+            "en": "Trip to the Museum Quarter",
+            "sk": "Výlet do Múzejného štvrte"
           },
           "coords": [
             18.622,
@@ -1617,7 +1770,8 @@
             "de": "Nehmen Sie einen Bus zur Haltestelle nahe der Piaristenkirche.",
             "hu": "Szálljon buszra a Piarista templomhoz közeli megállóig.",
             "ro": "Luați un autobuz până la stația de lângă Biserica Piaristă.",
-            "en": "Take a bus to the stop near the Piarist Church."
+            "en": "Take a bus to the stop near the Piarist Church.",
+            "sk": "Nastúpte na autobus na zastávke pri Piaristickom kostole."
           },
           "hop_mode": "transit"
         },
@@ -1626,7 +1780,8 @@
             "de": "Piaristenkirche & Obernitra-Museum",
             "hu": "Piarista templom és Felső-nyitrai Múzeum",
             "ro": "Biserica Piaristă și Muzeul Nitra Superioară",
-            "en": "Piarist Church & Museum of Upper Nitra"
+            "en": "Piarist Church & Museum of Upper Nitra",
+            "sk": "Piaristický kostol a Múzeum Horná Nitra"
           },
           "coords": [
             18.6215,
@@ -1641,7 +1796,8 @@
             "de": "Kombinieren Sie diese beiden nahegelegenen Highlights.",
             "hu": "Kombinálja ezt a két közeli látnivalót.",
             "ro": "Combinați aceste două atracții din apropiere.",
-            "en": "Combine these two nearby highlights."
+            "en": "Combine these two nearby highlights.",
+            "sk": "Spojte tieto dve blízke atrakcie dohromady."
           },
           "hop_mode": "walk"
         },
@@ -1650,7 +1806,8 @@
             "de": "Statue von Kyrill und Method",
             "hu": "Cirill és Metód szobra",
             "ro": "Statuia lui Chiril și Metodiu",
-            "en": "Statue of Cyril and Methodius"
+            "en": "Statue of Cyril and Methodius",
+            "sk": "Socha Cyrila a Metoda"
           },
           "coords": [
             18.628,
@@ -1665,7 +1822,8 @@
             "de": "Ein Denkmal für die Missionare, die die slawische Schrift brachten.",
             "hu": "A szláv írást hozó misszionáriusok emlékműve.",
             "ro": "Un monument dedicat misionarilor care au adus scrierea slavă.",
-            "en": "A monument to the missionaries who brought the Slavic script."
+            "en": "A monument to the missionaries who brought the Slavic script.",
+            "sk": "Památník misionárom, ktorí priniesli slovanské písmo."
           },
           "hop_mode": "walk"
         }
@@ -1674,7 +1832,8 @@
         "de": "Erkunden Sie Prievidza effizient mit öffentlichen Verkehrsmitteln. Starten Sie im Herzen der Stadt, am Freiheitsplatz. Ein kurzer Spaziergang führt Sie zu den wichtigsten Sehenswürdigkeiten der Altstadt. Anschließend bringt Sie ein Bus bequem in einen anderen Stadtteil, wo Sie die barocke Piaristenkirche und das Obernitra-Museum entdecken können. Diese Tour ist ideal, um die Stadt in Cluster aufzuteilen und weite Wege zu vermeiden.",
         "hu": "Fedezze fel Privigyét hatékonyan a tömegközlekedéssel. Induljon a város szívéből, a Szabadság térről. Egy rövid séta elvezeti az óváros legfontosabb látnivalóihoz. Ezután egy busz kényelmesen elviszi egy másik városrészbe, ahol felfedezheti a barokk Piarista templomot és a Felső-nyitrai Múzeumot. Ez a túra ideális a város látnivalóinak csoportosítására és a hosszú utak elkerülésére.",
         "ro": "Explorați Prievidza eficient cu transportul public. Porniți din inima orașului, Piața Libertății. O scurtă plimbare vă va duce la principalele atracții din orașul vechi. Apoi, un autobuz vă va duce confortabil într-un alt cartier, unde puteți descoperi baroca Biserică Piaristă și Muzeul Nitra Superioară. Acest tur este ideal pentru a împărți orașul în clustere și a evita distanțele lungi.",
-        "en": "Explore Prievidza efficiently using public transport. Start in the heart of the city, Freedom Square. A short walk takes you to the main sights of the old town. Then, a bus will comfortably take you to another district where you can discover the Baroque Piarist Church and the Museum of Upper Nitra. This tour is ideal for clustering the city's sights and avoiding long distances."
+        "en": "Explore Prievidza efficiently using public transport. Start in the heart of the city, Freedom Square. A short walk takes you to the main sights of the old town. Then, a bus will comfortably take you to another district where you can discover the Baroque Piarist Church and the Museum of Upper Nitra. This tour is ideal for clustering the city's sights and avoiding long distances.",
+        "sk": "Preskúmajte Prievidzu efektívne pomocou MHD. Začnite v srdci mesta, na Námestí slobody. Krátka prechádzka vás zavedie k hlavným pamiatkam starého mesta. Potom vás autobus pohodlne zavezie do ďalšej štvrte, kde objavíte barokový Piaristický kostol a Múzeum Horná Nitra. Táto trasa je ideálna na zhlukovanie mestských atrakcií a vyhnutie sa dlhým vzdialenostiam."
       },
       "gastro_picks": {
         "de": [
@@ -1778,6 +1937,11 @@
           "Buy a day ticket for public transport.",
           "Check the bus schedule in advance.",
           "Most buses are modern and air-conditioned."
+        ],
+        "sk": [
+          "Kúpte si celodenný lístok na MHD.",
+          "Skontrolujte cestovný poriadok vopred.",
+          "Väčšina autobusov je moderná a klimatizovaná."
         ]
       },
       "variants": {
@@ -1786,7 +1950,8 @@
             "de": "Nutzen Sie den öffentlichen Nahverkehr, um Prievidza im Regen zu erkunden. Starten Sie am Námestie slobody und nutzen Sie die überdachten Bushaltestellen. Mittags bringt Sie der Bus bequem zur St.-Bartholomäus-Kirche. Der Nachmittag im Museumsviertel ist ideal, um der Nässe zu entfliehen. Beenden Sie den Tag mit einer entspannten Fahrt zurück zum Bahnhof oder Zentrum, ohne nass zu werden.",
             "hu": "Használja a tömegközlekedést Prievidza felfedezéséhez esőben is. Induljon a Szabadság térről, és használja a fedett buszvárókat. Délben a busz kényelmesen elviszi a Szent Bertalan-templomhoz. A délután a múzeumi negyedben telik, ahol észre sem veszi a kinti esőt. A napot egy nyugodt buszozással zárhatja a központ felé, anélkül, hogy megázna.",
             "ro": "Folosiți transportul public pentru a explora Prievidza pe ploaie. Începeți din Piața Libertății și profitați de stațiile de autobuz acoperite. La prânz, autobuzul vă duce confortabil la biserica Sf. Bartolomeu. După-amiaza în cartierul muzeelor este ideală pentru a scăpa de umezeală. Încheiați ziua cu o cursă relaxată spre centru, fără a vă uda.",
-            "en": "Use public transit to explore Prievidza in the rain. Start at Freedom Square and take advantage of the sheltered bus stops. At noon, the bus brings you comfortably to St. Bartholomew's Church. Spending the afternoon in the Museum Quarter is the perfect way to stay dry. End your day with a relaxed ride back to the center or station, avoiding the rain."
+            "en": "Use public transit to explore Prievidza in the rain. Start at Freedom Square and take advantage of the sheltered bus stops. At noon, the bus brings you comfortably to St. Bartholomew's Church. Spending the afternoon in the Museum Quarter is the perfect way to stay dry. End your day with a relaxed ride back to the center or station, avoiding the rain.",
+            "sk": "Použite MHD na preskúmanie Prievidze v daždi. Začnite na Námestí slobody a využite zastrešené autobusové zastávky. Na poludnie vás autobus pohodlne dovezie ku Kostolu sv. Bartolomeja. Popoludnie v Múzejnej štvrti je ideálne pre pobyt v suchu. Deň ukončite pohodovou jazdou späť do centra alebo na stanicu a vyhnite sa tak dažďu."
           },
           "stops": [
             {
@@ -1795,7 +1960,8 @@
                 "de": "Die Haltestelle ist überdacht; warten Sie dort, bis der Regen nachlässt.",
                 "hu": "A megálló fedett, várja meg itt, amíg alábbhagy az eső.",
                 "ro": "Stația este acoperită; așteptați acolo până se mai domolește ploaia.",
-                "en": "The stop is sheltered; wait there until the rain eases off."
+                "en": "The stop is sheltered; wait there until the rain eases off.",
+                "sk": "Zastávka je zastrešená; počkajte tam, kým dážď nezoslabenie."
               }
             },
             {
@@ -1804,7 +1970,8 @@
                 "de": "Kurzer Fußweg von der Haltestelle; halten Sie den Schirm bereit.",
                 "hu": "Rövid séta a megállótól, tartsa készenlétben az esernyőt.",
                 "ro": "Scurtă plimbare de la stație; țineți umbrela pregătită.",
-                "en": "Short walk from the stop; keep your umbrella ready."
+                "en": "Short walk from the stop; keep your umbrella ready.",
+                "sk": "Krátka prechádzka od zastávky; majte pripravený dáždnik."
               }
             },
             {
@@ -1813,7 +1980,8 @@
                 "de": "Prüfen Sie den Fahrplan per App, um Wartezeiten im Freien zu minimieren.",
                 "hu": "Ellenőrizze a menetrendet applikáción, hogy keveset kelljen kint várnia.",
                 "ro": "Verificați programul pe aplicație pentru a minimiza așteptarea afară.",
-                "en": "Check the schedule on the app to minimize waiting time outdoors."
+                "en": "Check the schedule on the app to minimize waiting time outdoors.",
+                "sk": "Skontrolujte cestovný poriadok v aplikácii, aby ste minimalizovali čakanie vonku."
               }
             },
             {
@@ -1822,7 +1990,8 @@
                 "de": "Genießen Sie die Aussicht aus dem trockenen Bus.",
                 "hu": "Élvezze a város látványát a száraz busz ablakából.",
                 "ro": "Bucurați-vă de priveliște din autobuzul uscat.",
-                "en": "Enjoy the city views from the dry bus window."
+                "en": "Enjoy the city views from the dry bus window.",
+                "sk": "Užite si výhľady na mesto z suchého autobusového okna."
               }
             },
             {
@@ -1831,7 +2000,8 @@
                 "de": "Die Haltestellen liegen sehr nah an den Eingängen.",
                 "hu": "A megállók nagyon közel vannak a bejáratokhoz.",
                 "ro": "Stațiile sunt foarte aproape de intrări.",
-                "en": "The stops are located very close to the entrances."
+                "en": "The stops are located very close to the entrances.",
+                "sk": "Zastávky sú umiestnené veľmi blízko pri vchodoch."
               }
             },
             {
@@ -1840,7 +2010,8 @@
                 "de": "Schnelles Foto aus dem Busfenster möglich, falls es zu stark regnet.",
                 "hu": "Gyors fotó a buszból is készíthető, ha nagyon esne az eső.",
                 "ro": "Se poate face o poză rapidă din autobuz dacă plouă prea tare.",
-                "en": "A quick photo from the bus window is possible if it's raining too hard."
+                "en": "A quick photo from the bus window is possible if it's raining too hard.",
+                "sk": "Ak prší veľmi silno, krátku fotku možno urobiť z autobusového okna."
               }
             }
           ],
@@ -1872,6 +2043,13 @@
               "Watch out for puddles near the curb when boarding or exiting.",
               "Keep your ticket handy to avoid searching for it in the rain.",
               "Use the 'Cestovné poriadky' app for real-time transit information."
+            ],
+            "sk": [
+              "Kúpte si lístky vopred v stánku alebo cez SMS.",
+              "Autobusy v Prievidzi môžu byť pri daždi preplnené; naplánujte si viac času.",
+              "Dávajte pozor na kaluže pri obrubníku pri nastupovaní a vystupovaní.",
+              "Majte lístok po ruke, aby ste ho v daždi nemuseli hľadať.",
+              "Použite aplikáciu 'Cestovné poriadky' pre informácie o spojoch v reálnom čase."
             ]
           }
         },
@@ -1880,7 +2058,8 @@
             "de": "Erkunden Sie das winterliche Prievidza bequem mit dem Bus. Starten Sie am Námestie slobody, wo die beheizten Busse eine angenehme Pause zur Kälte draußen bieten. Mittags bringt Sie der Transit zur St.-Bartholomäus-Kirche. Der Nachmittag im Museum ist der perfekte Ort, um sich aufzuwärmen. Beenden Sie den Tag mit einer Fahrt durch das beleuchtete Stadtzentrum, während Sie im Warmen sitzen und die Winterstimmung genießen.",
             "hu": "Fedezze fel a téli Prievidzát kényelmesen, busszal. Induljon a Szabadság térről; a fűtött buszok kellemes pihenőt nyújtanak a kinti hideg után. Délben a tömegközlekedés elviszi a Szent Bertalan-templomhoz. A délután a múzeumban telik, ami a legjobb hely az átmelegedéshez. Zárja a napot egy utazással a kivilágított belvároson át, élvezve a téli hangulatot a melegből.",
             "ro": "Explorați Prievidza de iarnă confortabil cu autobuzul. Începeți din Piața Libertății; autobuzele încălzite oferă un respiro plăcut față de gerul de afară. La prânz, transportul public vă duce la biserica Sf. Bartolomeu. După-amiaza la muzeu este locul perfect pentru încălzire. Încheiați ziua cu o cursă prin centrul luminat, savurând atmosfera de iarnă din interiorul cald.",
-            "en": "Explore wintry Prievidza comfortably by bus. Start at Freedom Square, where the heated buses offer a pleasant break from the cold outside. At noon, transit takes you to St. Bartholomew's Church. Spending the afternoon at the museum is the best way to stay warm. End your day with a ride through the illuminated city center, enjoying the winter atmosphere from the warmth of the bus."
+            "en": "Explore wintry Prievidza comfortably by bus. Start at Freedom Square, where the heated buses offer a pleasant break from the cold outside. At noon, transit takes you to St. Bartholomew's Church. Spending the afternoon at the museum is the best way to stay warm. End your day with a ride through the illuminated city center, enjoying the winter atmosphere from the warmth of the bus.",
+            "sk": "Preskúmajte zimnú Prievidzu pohodlne autobusom. Začnite na Námestí slobody, kde vykurované autobusy ponúkajú príjemný únik pred chladom. Na poludnie vás MHD zavezie ku Kostolu sv. Bartolomeja. Popoludnie v múzeu je najlepší spôsob, ako zostať v teple. Deň ukončite jazdou cez osvetlené centrum mesta a vychutnajte si zimnú atmosféru z pohodlia teplého autobusu."
           },
           "stops": [
             {
@@ -1889,7 +2068,8 @@
                 "de": "Nutzen Sie die Zeit an der Haltestelle für ein kurzes Aufwärmtraining.",
                 "hu": "A megállóban való várakozás alatt mozogjon kicsit, hogy ne fázzon.",
                 "ro": "Folosiți timpul în stație pentru a vă mișca puțin ca să nu înghețați.",
-                "en": "Move around while waiting at the stop to stay warm."
+                "en": "Move around while waiting at the stop to stay warm.",
+                "sk": "Pohybujte sa počas čakania na zastávke, aby ste zostali v teple."
               }
             },
             {
@@ -1898,7 +2078,8 @@
                 "de": "Achten Sie auf glatte Stellen an der Haltestelle.",
                 "hu": "Vigyázzon a megálló környékén a jegesedésre.",
                 "ro": "Atenție la porțiunile alunecoase din stație.",
-                "en": "Watch out for icy spots around the bus stop."
+                "en": "Watch out for icy spots around the bus stop.",
+                "sk": "Dávajte pozor na namrznuté miesta okolo zastávky."
               }
             },
             {
@@ -1907,7 +2088,8 @@
                 "de": "Die Busse fahren im Winter nach Plan, aber Verspätungen möglich.",
                 "hu": "A buszok menetrend szerint járnak, de hóban előfordulhat késés.",
                 "ro": "Autobuzele respectă programul, dar sunt posibile întârzieri pe zăpadă.",
-                "en": "Buses usually follow the schedule, but snow can cause delays."
+                "en": "Buses usually follow the schedule, but snow can cause delays.",
+                "sk": "Autobusy spravidla jazdia podľa cestovného poriadku, no sneh môže spôsobiť meškania."
               }
             },
             {
@@ -1916,7 +2098,8 @@
                 "de": "Kurze Fahrzeit, ideal um die Finger aufzuwärmen.",
                 "hu": "Rövid utazás, pont elég az elgémberedett ujjak átmelegítésére.",
                 "ro": "Timp scurt de călătorie, ideal pentru a vă încălzi degetele.",
-                "en": "Short travel time, perfect for warming up your fingers."
+                "en": "Short travel time, perfect for warming up your fingers.",
+                "sk": "Krátky čas cestovania, ideálne na zohranie prstov."
               }
             },
             {
@@ -1925,7 +2108,8 @@
                 "de": "Gehen Sie direkt ins Museum, um die Kälte zu meiden.",
                 "hu": "Menjen egyenesen a múzeumba, hogy ne kelljen sokat kint lennie.",
                 "ro": "Mergeți direct în muzeu pentru a evita frigul.",
-                "en": "Head straight into the museum to avoid the cold."
+                "en": "Head straight into the museum to avoid the cold.",
+                "sk": "Vstúpte priamo do múzea, aby ste sa vyhli chladu."
               }
             },
             {
@@ -1934,7 +2118,8 @@
                 "de": "Die Statue ist oft schneebedeckt und bietet ein schönes Fotomotiv.",
                 "hu": "A szobor gyakran havas, ami különleges fotótémát kínál.",
                 "ro": "Statuia este adesea acoperită de zăpadă, oferind un cadru frumos.",
-                "en": "The statue is often snow-covered, making for a beautiful photo."
+                "en": "The statue is often snow-covered, making for a beautiful photo.",
+                "sk": "Socha je často pokrytá snehom, čo vytvára krásnu fotografiu."
               }
             }
           ],
@@ -1966,6 +2151,13 @@
               "Try to stand in wind-sheltered areas while waiting at stops.",
               "Buses may run less frequently in the evening; check the schedule carefully.",
               "Slush can make the bus floors slippery."
+            ],
+            "sk": [
+              "Obujte si teplé zimné topánky s dobrým záberom na prechádzky k zastávkam.",
+              "Vykurovanie v autobuse môže byť dosť silné; oblečte sa vrstvami.",
+              "Pri čakaní na zastávkach sa snažte stát v miestach chránených pred vetrom.",
+              "Autobusy môžu premávať menej často večer; dôkladne si skontrolujte cestovný poriadok.",
+              "Splašky môžu spôsobiť, že podlahy v autobuse budú šmykľavé."
             ]
           }
         }

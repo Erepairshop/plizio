@@ -21,7 +21,8 @@
             "de": "Europa-Hof (Nádvorie Európy)",
             "hu": "Európa-udvar (Nádvorie Európy)",
             "ro": "Curtea Europei (Nádvorie Európy)",
-            "en": "Courtyard of Europe (Nádvorie Európy)"
+            "en": "Courtyard of Europe (Nádvorie Európy)",
+            "sk": "Nádvorie Európy (Nádvorie Európy)"
           },
           "coords": [
             18.1278,
@@ -37,7 +38,8 @@
             "de": "Bewundern Sie die einzigartige Architektur, die verschiedene europäische Stile repräsentiert.",
             "hu": "Csodálja meg az egyedi építészetet, amely Európa különböző stílusait képviseli.",
             "ro": "Admirați arhitectura unică ce reprezintă diverse stiluri europene.",
-            "en": "Admire the unique architecture representing various European styles."
+            "en": "Admire the unique architecture representing various European styles.",
+            "sk": "Obdivujte jedinečnú architektúru predstavujúcu rôzne európske štýly."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Statue von General Klapka",
             "hu": "Klapka György tábornok szobra",
             "ro": "Statuia Generalului Klapka",
-            "en": "Statue of General Klapka"
+            "en": "Statue of General Klapka",
+            "sk": "Socha generála Klapku"
           },
           "coords": [
             18.1265,
@@ -61,7 +64,8 @@
             "de": "Das zentrale Denkmal der Stadt, das dem Helden der Verteidigung von 1849 gewidmet ist.",
             "hu": "A város központi emlékműve, az 1849-es honvédő hősnek állítva.",
             "ro": "Monumentul central al orașului, dedicat eroului apărării din 1849.",
-            "en": "The city's central monument, dedicated to the hero of the 1849 defense."
+            "en": "The city's central monument, dedicated to the hero of the 1849 defense.",
+            "sk": "Hlavný mestský pamätník venovaný hrdinovi obrany z roku 1849."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Rathaus",
             "hu": "Városháza",
             "ro": "Primăria",
-            "en": "Town Hall (Rathaus)"
+            "en": "Town Hall (Rathaus)",
+            "sk": "Radnica (Rathaus)"
           },
           "coords": [
             18.126,
@@ -85,7 +90,8 @@
             "de": "Achten Sie auf das Glockenspiel zur vollen Stunde, eine charmante lokale Tradition.",
             "hu": "Figyelje a harangjátékot minden egész órában, ez egy bájos helyi hagyomány.",
             "ro": "Fiți atenți la carillon la fiecare oră fixă, o tradiție locală fermecătoare.",
-            "en": "Listen for the chime playing on the hour, a charming local tradition."
+            "en": "Listen for the chime playing on the hour, a charming local tradition.",
+            "sk": "Všímajte si trúbenie na celú hodinu, očarujúca miestna tradícia."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Kirche des Heiligen Andreas",
             "hu": "Szent András-templom",
             "ro": "Biserica Sfântul Andrei",
-            "en": "Church of Saint Andrew"
+            "en": "Church of Saint Andrew",
+            "sk": "Kostol sv. Ondreja"
           },
           "coords": [
             18.125,
@@ -109,7 +116,8 @@
             "de": "Besuchen Sie das Innere, um die beeindruckenden barocken Fresken zu sehen.",
             "hu": "Látogasson be a belsejébe, hogy megnézze a lenyűgöző barokk freskókat.",
             "ro": "Vizitați interiorul pentru a vedea frescele baroce impresionante.",
-            "en": "Visit the interior to see the impressive baroque frescoes."
+            "en": "Visit the interior to see the impressive baroque frescoes.",
+            "sk": "Navštívte interiér a pozrite si impozantné barokové fresky."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Donaumuseum",
             "hu": "Duna Múzeum",
             "ro": "Muzeul Dunării",
-            "en": "Danube Museum"
+            "en": "Danube Museum",
+            "sk": "Dunajské múzeum"
           },
           "coords": [
             18.128,
@@ -133,7 +142,8 @@
             "de": "Konzentrieren Sie sich auf die römischen und mittelalterlichen Sammlungen, die die reiche Geschichte der Stadt zeigen.",
             "hu": "Összpontosítson a római és középkori gyűjteményekre, amelyek a város gazdag történelmét mutatják be.",
             "ro": "Concentrați-vă pe colecțiile romane și medievale care prezintă istoria bogată a orașului.",
-            "en": "Focus on the Roman and medieval collections showcasing the city's rich history."
+            "en": "Focus on the Roman and medieval collections showcasing the city's rich history.",
+            "sk": "Zamerajte sa na rímske a stredoveké zbierky, ktoré ukazujú bohatú históriu mesta."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Festungssystem Komárno",
             "hu": "Komáromi erődrendszer",
             "ro": "Sistemul de fortificații Komárno",
-            "en": "Fortress System of Komárno"
+            "en": "Fortress System of Komárno",
+            "sk": "Fortifikačný systém Komárno"
           },
           "coords": [
             18.14,
@@ -157,7 +168,8 @@
             "de": "Planen Sie genügend Zeit ein; die Festung ist riesig. Konzentrieren Sie sich auf die Alte und Neue Festung.",
             "hu": "Tervezzen elég időt, az erőd hatalmas. Koncentráljon a Régi és Új Várra.",
             "ro": "Alocați suficient timp; fortăreața este imensă. Concentrați-vă pe Fortăreața Veche și Nouă.",
-            "en": "Allow plenty of time; the fortress is vast. Focus on the Old and New Fortresses."
+            "en": "Allow plenty of time; the fortress is vast. Focus on the Old and New Fortresses.",
+            "sk": "Vyhraďte si dosť času; pevnosť je rozľahlá. Zamerajte sa na Starú a Novú pevnosť."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Elisabethbrücke",
             "hu": "Erzsébet híd",
             "ro": "Podul Elisabeta",
-            "en": "Elisabeth Bridge"
+            "en": "Elisabeth Bridge",
+            "sk": "Most Alžbetin"
           },
           "coords": [
             18.122,
@@ -181,7 +194,8 @@
             "de": "Überqueren Sie die Brücke nach Ungarn (Komárom) für eine einzigartige Perspektive auf zwei Städte, zwei Länder.",
             "hu": "Sétáljon át a hídon Magyarországra (Komárom), egyedülálló perspektívát nyújtva két városra, két országra.",
             "ro": "Traversați podul în Ungaria (Komárom) pentru o perspectivă unică asupra a două orașe, două țări.",
-            "en": "Walk across the bridge to Hungary (Komárom) for a unique two-city, two-country perspective."
+            "en": "Walk across the bridge to Hungary (Komárom) for a unique two-city, two-country perspective.",
+            "sk": "Prejdite sa cez most do Maďarska (Komárom) pre jedinečný pohľad na dve mestá a dve krajiny."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Beginnen Sie Ihren Tag im Herzen von Komárno am Europa-Hof, einem Symbol der Einheit. Am Vormittag erkunden Sie das historische Zentrum rund um den Klapka-Platz und die St.-Andreas-Kirche. Nach dem Mittagessen im Donaumuseum tauchen Sie in die Militärgeschichte ein, indem Sie das gewaltige Festungssystem erkunden, eine der größten Befestigungsanlagen Europas. Beenden Sie Ihren Tag mit einem Spaziergang über die Elisabethbrücke und genießen Sie den Blick auf die Donau, die zwei Nationen verbindet.",
         "hu": "Kezdje a napot Komárom szívében, az Európa-udvarban, az egység szimbólumánál. Délelőtt fedezze fel a történelmi központot a Klapka tér és a Szent András-templom környékén. Ebéd után a Duna Múzeumban merüljön el a katonai történelemben a hatalmas erődrendszer felfedezésével, amely Európa egyik legnagyobb erődítménye. Zárja a napot egy sétával az Erzsébet hídon, élvezve a Dunára nyíló kilátást, amely két nemzetet köt össze.",
         "ro": "Începeți ziua în inima orașului Komárno, la Curtea Europei, un simbol al unității. În cursul dimineții, explorați centrul istoric din jurul Pieței Klapka și Biserica Sfântul Andrei. După prânz la Muzeul Dunării, pătrundeți în istoria militară explorând vastul sistem de fortificații, una dintre cele mai mari fortărețe din Europa. Încheiați ziua cu o plimbare pe Podul Elisabeta, bucurându-vă de priveliștea Dunării care leagă două națiuni.",
-        "en": "Start your day in the heart of Komárno at the Courtyard of Europe, a symbol of unity. In the morning, explore the historic center around Klapka Square and the Church of Saint Andrew. After lunch at the Danube Museum, delve into military history by exploring the vast Fortress System, one of Europe's largest fortifications. End your day with a walk across the Elisabeth Bridge, enjoying the view of the Danube connecting two nations."
+        "en": "Start your day in the heart of Komárno at the Courtyard of Europe, a symbol of unity. In the morning, explore the historic center around Klapka Square and the Church of Saint Andrew. After lunch at the Danube Museum, delve into military history by exploring the vast Fortress System, one of Europe's largest fortifications. End your day with a walk across the Elisabeth Bridge, enjoying the view of the Danube connecting two nations.",
+        "sk": "Začnite deň v srdci Komárna na Nádvorí Európy, symbole jednoty. Ráno preskúmajte historické centrum okolo Klapkovho námestia a Kostola sv. Ondreja. Po obede v Dunajskom múzeu sa venujte vojenskej histórii prehliadkou rozsiahlého fortifikačného systému, jednej z najväčších pevností v Európe. Deň zakončite prechádzkou po Moste Alžbetin s výhľadom na Dunaj spájajúci dve krajiny."
       },
       "gastro_picks": {
         "de": [
@@ -385,6 +400,12 @@
           "Keep water with you, especially in summer.",
           "Most central attractions are easily within walking distance.",
           "Check the opening hours for the Danube Museum and the Fortress in advance."
+        ],
+        "sk": [
+          "Obujte si pohodlnú obuv, budete veľa chodiť.",
+          "Majte pri sebe vodu, najmä v lete.",
+          "Väčšina centrálnych pamiatok je ľahko dostupná pešo.",
+          "Skontrolujte otváracie hodiny Dunajského múzea a pevnosti vopred."
         ]
       }
     },
@@ -401,7 +422,8 @@
             "de": "Europa-Hof (Nádvorie Európy)",
             "hu": "Európa-udvar (Nádvorie Európy)",
             "ro": "Curtea Europei (Nádvorie Európy)",
-            "en": "Courtyard of Europe (Nádvorie Európy)"
+            "en": "Courtyard of Europe (Nádvorie Európy)",
+            "sk": "Nádvorie Európy (Nádvorie Európy)"
           },
           "coords": [
             18.1278,
@@ -417,7 +439,8 @@
             "de": "Ein perfekter Ausgangspunkt für Ihre Radtour.",
             "hu": "Tökéletes kiindulópont a kerékpártúrához.",
             "ro": "Un punct de plecare perfect pentru turul cu bicicleta.",
-            "en": "A perfect starting point for your bike tour."
+            "en": "A perfect starting point for your bike tour.",
+            "sk": "Perfektný východzí bod pre vašu cyklistickú trasu."
           }
         },
         {
@@ -425,7 +448,8 @@
             "de": "Offizierspavillon",
             "hu": "Tiszti pavilon",
             "ro": "Pavilionul Ofițerilor",
-            "en": "Officer's Pavilion"
+            "en": "Officer's Pavilion",
+            "sk": "Dôstojnícky pavilón"
           },
           "coords": [
             18.129,
@@ -441,7 +465,8 @@
             "de": "Ein beeindruckendes neugotisches Gebäude mit einem schönen Park.",
             "hu": "Lenyűgöző neogótikus épület egy szép parkkal.",
             "ro": "O clădire neogotică impresionantă, cu un parc frumos.",
-            "en": "An impressive neo-Gothic building with a lovely park."
+            "en": "An impressive neo-Gothic building with a lovely park.",
+            "sk": "Impozantná neogotická budova s pekným parkom."
           }
         },
         {
@@ -449,7 +474,8 @@
             "de": "Festungssystem Komárno",
             "hu": "Komáromi erődrendszer",
             "ro": "Sistemul de fortificații Komárno",
-            "en": "Fortress System of Komárno"
+            "en": "Fortress System of Komárno",
+            "sk": "Fortifikačný systém Komárno"
           },
           "coords": [
             18.14,
@@ -465,7 +491,8 @@
             "de": "Fahren Sie mit dem Rad durch die riesigen Anlagen, aber seien Sie bereit, abzusteigen und zu Fuß zu erkunden.",
             "hu": "Kerékpározzon végig a hatalmas területen, de készüljön fel, hogy leszáll és gyalog fedez fel részeket.",
             "ro": "Mergeți cu bicicleta prin complexul vast, dar fiți pregătit să coborâți și să explorați pe jos.",
-            "en": "Cycle around the vast grounds, but be prepared to dismount and explore on foot."
+            "en": "Cycle around the vast grounds, but be prepared to dismount and explore on foot.",
+            "sk": "Prejdite sa na bicykli po rozľahlých priestranstvách, ale pripravte sa zosadnúť a preskúmať niektoré časti pešo."
           }
         },
         {
@@ -473,7 +500,8 @@
             "de": "Donaumuseum",
             "hu": "Duna Múzeum",
             "ro": "Muzeul Dunării",
-            "en": "Danube Museum"
+            "en": "Danube Museum",
+            "sk": "Dunajské múzeum"
           },
           "coords": [
             18.128,
@@ -489,7 +517,8 @@
             "de": "Ein großartiger Ort, um sich abzukühlen und mehr über die römische Geschichte der Region zu erfahren.",
             "hu": "Nagyszerű hely a hűsölésre és a régió római kori történelmének megismerésére.",
             "ro": "Un loc excelent pentru a vă răcori și a învăța despre istoria romană a regiunii.",
-            "en": "A great place to cool down and learn about the region's Roman history."
+            "en": "A great place to cool down and learn about the region's Roman history.",
+            "sk": "Skvelé miesto na osvieženie a spoznanie rímskej histórie regiónu."
           }
         },
         {
@@ -497,7 +526,8 @@
             "de": "Elisabethbrücke",
             "hu": "Erzsébet híd",
             "ro": "Podul Elisabeta",
-            "en": "Elisabeth Bridge"
+            "en": "Elisabeth Bridge",
+            "sk": "Most Alžbetin"
           },
           "coords": [
             18.122,
@@ -513,7 +543,8 @@
             "de": "Radfahren über die Grenze ist ein Muss! Es gibt einen eigenen Radweg.",
             "hu": "A határon átbiciklizni kötelező! Külön kerékpárút van.",
             "ro": "Traversarea graniței cu bicicleta este o necesitate! Există o pistă de biciclete dedicată.",
-            "en": "Cycling across the border is a must-do! There's a dedicated bike lane."
+            "en": "Cycling across the border is a must-do! There's a dedicated bike lane.",
+            "sk": "Prejazd cez hranicu na bicykli je nevyhnutnosťou! Je tam vyhradený cyklistický pruh."
           }
         },
         {
@@ -521,7 +552,8 @@
             "de": "Fahrt am Donauufer",
             "hu": "Bringázás a Duna-parton",
             "ro": "Plimbare pe malul Dunării",
-            "en": "Ride along the Danube bank"
+            "en": "Ride along the Danube bank",
+            "sk": "Jazda pozdĺž brehu Dunaja"
           },
           "coords": [
             18.115,
@@ -537,7 +569,8 @@
             "de": "Genießen Sie die flache und malerische Strecke entlang des Flusses.",
             "hu": "Élvezze a sík és festői útvonalat a folyó mentén.",
             "ro": "Bucurați-vă de traseul plat și pitoresc de-a lungul râului.",
-            "en": "Enjoy the flat and scenic route along the river."
+            "en": "Enjoy the flat and scenic route along the river.",
+            "sk": "Užite si rovinatú a scenickú trasu pozdĺž rieky."
           }
         }
       ],
@@ -545,7 +578,8 @@
         "de": "Ihre Radtour durch Komárno beginnt am architektonisch einzigartigen Europa-Hof. Radeln Sie zum prächtigen Offizierspavillon, bevor Sie die gewaltige Festungsanlage in Angriff nehmen. Nach der Erkundung der Festung radeln Sie zurück ins Zentrum zum Donaumuseum für eine Dosis Geschichte. Am Nachmittag überqueren Sie die Elisabethbrücke nach Ungarn und zurück und beenden Ihren Tag mit einer entspannten Fahrt entlang des malerischen Donauufers.",
         "hu": "A komáromi kerékpártúra az építészetileg egyedi Európa-udvartól indul. Tekerjen el a csodálatos Tiszti pavilonhoz, mielőtt nekivágna a hatalmas erődrendszernek. Az erőd felfedezése után kerekezzen vissza a központba a Duna Múzeumhoz egy adag történelemért. Délután keljen át az Erzsébet hídon Magyarországra és vissza, majd zárja a napot egy pihentető tekeréssel a festői Duna-parton.",
         "ro": "Turul cu bicicleta prin Komárno începe la Curtea Europei, unică din punct de vedere arhitectural. Pedalați spre magnificul Pavilion al Ofițerilor înainte de a aborda vastul sistem de fortificații. După explorarea fortăreței, pedalați înapoi în centru la Muzeul Dunării pentru o doză de istorie. După-amiaza, traversați Podul Elisabeta în Ungaria și înapoi, încheind ziua cu o plimbare relaxantă de-a lungul pitorescului mal al Dunării.",
-        "en": "Your Komárno bike tour starts at the architecturally unique Courtyard of Europe. Cycle to the magnificent Officer's Pavilion before tackling the vast Fortress system. After exploring the fortress, pedal back to the center to the Danube Museum for a dose of history. In the afternoon, cross the Elisabeth Bridge to Hungary and back, finishing your day with a relaxing ride along the scenic Danube bank."
+        "en": "Your Komárno bike tour starts at the architecturally unique Courtyard of Europe. Cycle to the magnificent Officer's Pavilion before tackling the vast Fortress system. After exploring the fortress, pedal back to the center to the Danube Museum for a dose of history. In the afternoon, cross the Elisabeth Bridge to Hungary and back, finishing your day with a relaxing ride along the scenic Danube bank.",
+        "sk": "Vaša komárňanská cyklistická trasa začína na architektonicky jedinečnom Nádvorí Európy. Prejdite k nádhernému Dôstojníckemu pavilónu pred tým, než sa pustíte do rozsiahlého fortifikačného systému. Po preskúmaní pevnosti sa vráťte do centra k Dunajskému múzeu pre dávku histórie. Poobede prejdite Most Alžbetin do Maďarska a späť, deň zakončite oddychovou jazdou pozdĺž malebného brehu Dunaja."
       },
       "gastro_picks": {
         "de": [
@@ -741,6 +775,12 @@
           "The EuroVelo 6 cycle route passes through Komárno.",
           "Most areas are flat and bike-friendly.",
           "Be mindful of pedestrians in the central squares."
+        ],
+        "sk": [
+          "Vždy zamknite bicykel, keď ho nechávate stáť.",
+          "Cyklistická trasa EuroVelo 6 prechádza Komárnom.",
+          "Väčšina oblastí je rovinatá a priateľská k cyklistom.",
+          "Dávajte pozor na chodcov v centrálnych námestiach."
         ]
       }
     },
@@ -757,7 +797,8 @@
             "de": "Parken und Start am Europa-Hof",
             "hu": "Parkolás és indulás az Európa-udvarnál",
             "ro": "Parcare și start la Curtea Europei",
-            "en": "Park and Start at Courtyard of Europe"
+            "en": "Park and Start at Courtyard of Europe",
+            "sk": "Zaparkujte a začnite na Nádvorí Európy"
           },
           "coords": [
             18.1278,
@@ -773,7 +814,8 @@
             "de": "Parken Sie Ihr Auto in der Nähe und beginnen Sie Ihre Erkundung zu Fuß im Stadtzentrum.",
             "hu": "Parkolja le az autót a közelben, és kezdje a felfedezést gyalog a városközpontban.",
             "ro": "Parcați mașina în apropiere și începeți explorarea pe jos în centrul orașului.",
-            "en": "Park your car nearby and begin your exploration of the city center on foot."
+            "en": "Park your car nearby and begin your exploration of the city center on foot.",
+            "sk": "Zaparkujte auto v blízkosti a začnite preskúmavanie centra pešo."
           }
         },
         {
@@ -781,7 +823,8 @@
             "de": "Rathaus & Klapka-Platz",
             "hu": "Városháza és Klapka tér",
             "ro": "Primăria și Piața Klapka",
-            "en": "Town Hall & Klapka Square"
+            "en": "Town Hall & Klapka Square",
+            "sk": "Radnica a Klapkové námestie"
           },
           "coords": [
             18.126,
@@ -797,7 +840,8 @@
             "de": "Der Spaziergang vom Europa-Hof ist kurz und führt Sie durch das Herz der Stadt.",
             "hu": "Az Európa-udvartól tett séta rövid, és a város szívén vezet keresztül.",
             "ro": "Plimbarea de la Curtea Europei este scurtă și vă duce prin inima orașului.",
-            "en": "The walk from the Courtyard of Europe is short and takes you through the heart of the city."
+            "en": "The walk from the Courtyard of Europe is short and takes you through the heart of the city.",
+            "sk": "Prechádzka z Nádvorí Európy je krátka a vedie cez srdce mesta."
           }
         },
         {
@@ -805,7 +849,8 @@
             "de": "Kirche des Heiligen Andreas",
             "hu": "Szent András-templom",
             "ro": "Biserica Sfântul Andrei",
-            "en": "Church of Saint Andrew"
+            "en": "Church of Saint Andrew",
+            "sk": "Kostol sv. Ondreja"
           },
           "coords": [
             18.125,
@@ -821,7 +866,8 @@
             "de": "Nur einen Steinwurf vom Hauptplatz entfernt, ein Meisterwerk des Barocks.",
             "hu": "Csak egy kőhajításnyira a főtértől, egy barokk mestermű.",
             "ro": "La o aruncătură de băț de piața principală, o capodoperă barocă.",
-            "en": "Just a stone's throw from the main square, a baroque masterpiece."
+            "en": "Just a stone's throw from the main square, a baroque masterpiece.",
+            "sk": "Len kúsok od hlavného námestia, barokový skvost."
           }
         },
         {
@@ -829,7 +875,8 @@
             "de": "Fahrt und Erkundung der Festung",
             "hu": "Autózás az erőd felfedezéséhez",
             "ro": "Condus și explorat fortăreața",
-            "en": "Drive and Explore the Fortress"
+            "en": "Drive and Explore the Fortress",
+            "sk": "Prezrite si a objavujte pevnosť autom"
           },
           "coords": [
             18.14,
@@ -845,7 +892,8 @@
             "de": "Fahren Sie zum Hauptparkplatz der Festung. Das Gelände ist weitläufig, also bereiten Sie sich auf einen langen Spaziergang vor.",
             "hu": "Hajtson az erőd fő parkolójához. A terület hatalmas, készüljön egy hosszú sétára.",
             "ro": "Conduceți la parcarea principală a fortăreței. Terenul este vast, așa că pregătiți-vă pentru o plimbare lungă.",
-            "en": "Drive to the main fortress parking lot. The grounds are extensive, so prepare for a long walk."
+            "en": "Drive to the main fortress parking lot. The grounds are extensive, so prepare for a long walk.",
+            "sk": "Zaparkujte pri hlavnom parkovisku pevnosti. Areál je rozsiahly, pripravte sa na dlhú prechádzku."
           }
         },
         {
@@ -853,7 +901,8 @@
             "de": "Fahrt zum Donaumuseum",
             "hu": "Autózás a Duna Múzeumhoz",
             "ro": "Condus la Muzeul Dunării",
-            "en": "Drive to the Danube Museum"
+            "en": "Drive to the Danube Museum",
+            "sk": "Zaparkujte pri Dunajskom múzeu"
           },
           "coords": [
             18.128,
@@ -869,7 +918,8 @@
             "de": "Parken Sie erneut in der Nähe des Flussufers. Dieses Museum ist der zweite Cluster Ihres Tages.",
             "hu": "Parkoljon újra a folyópart közelében. Ez a múzeum a nap második központja.",
             "ro": "Parcați din nou lângă malul râului. Acest muzeu este al doilea cluster al zilei.",
-            "en": "Park again near the riverfront. This museum is the second cluster of your day."
+            "en": "Park again near the riverfront. This museum is the second cluster of your day.",
+            "sk": "Znova zaparkujte pri nábreží. Toto múzeum je druhým sústredením dňa."
           }
         },
         {
@@ -877,7 +927,8 @@
             "de": "Spaziergang zur Elisabethbrücke",
             "hu": "Séta az Erzsébet hídhoz",
             "ro": "Plimbare la Podul Elisabeta",
-            "en": "Walk to Elisabeth Bridge"
+            "en": "Walk to Elisabeth Bridge",
+            "sk": "Prejdite sa k Mostu Alžbetin"
           },
           "coords": [
             18.122,
@@ -893,7 +944,8 @@
             "de": "Lassen Sie das Auto stehen und genießen Sie den grenzüberschreitenden Spaziergang und die Aussicht.",
             "hu": "Hagyja az autót, és élvezze a határon átívelő sétát és a kilátást.",
             "ro": "Lăsați mașina și bucurați-vă de plimbarea transfrontalieră și de priveliști.",
-            "en": "Leave the car and enjoy the cross-border walk and views."
+            "en": "Leave the car and enjoy the cross-border walk and views.",
+            "sk": "Nechajte auto a vychutnajte si peší prechod cez hranicu a výhľady."
           }
         }
       ],
@@ -901,7 +953,8 @@
         "de": "Beginnen Sie Ihren Tag, indem Sie Ihr Auto in der Nähe des Europa-Hofs parken und den ersten 'Cluster' zu Fuß erkunden: das historische Zentrum von Komárno. Schlendern Sie zum Rathaus und zur St.-Andreas-Kirche. Am Vormittag fahren Sie zum zweiten Cluster, dem gewaltigen Festungssystem, wo Sie Stunden mit der Erkundung verbringen können. Nach dem Mittagessen fahren Sie zum dritten Cluster am Donauufer, parken erneut und besuchen das Donaumuseum, bevor Sie Ihren Tag mit einem malerischen Spaziergang über die Elisabethbrücke nach Ungarn beenden.",
         "hu": "Kezdje a napot azzal, hogy leparkolja autóját az Európa-udvar közelében, és gyalog fedezi fel az első 'központot': Komárom történelmi belvárosát. Sétáljon el a Városházához és a Szent András-templomhoz. Délelőtt vezessen át a második központhoz, a hatalmas erődrendszerhez, ahol órákat tölthet a felfedezéssel. Ebéd után irány a harmadik központ a Duna-parton: parkoljon le újra, látogasson el a Duna Múzeumba, majd zárja a napot egy festői sétával az Erzsébet hídon át Magyarországra.",
         "ro": "Începeți ziua parcând mașina lângă Curtea Europei și explorând primul 'cluster' pe jos: centrul istoric al Komárno. Plimbați-vă până la Primărie și Biserica Sf. Andrei. Dimineața, conduceți spre al doilea cluster, vastul sistem de fortificații, unde puteți petrece ore întregi explorând. După prânz, mergeți la al treilea cluster de pe malul Dunării, parcați din nou și vizitați Muzeul Dunării înainte de a încheia ziua cu o plimbare pitorească peste Podul Elisabeta în Ungaria.",
-        "en": "Start your day by parking your car near the Courtyard of Europe and exploring the first 'cluster' on foot: Komárno's historic center. Stroll to the Town Hall and St. Andrew's Church. In the late morning, drive to the second cluster, the vast Fortress System, where you can spend hours exploring. After lunch, drive to the third cluster on the Danube riverfront, park again, and visit the Danube Museum before ending your day with a scenic walk across the Elisabeth Bridge into Hungary."
+        "en": "Start your day by parking your car near the Courtyard of Europe and exploring the first 'cluster' on foot: Komárno's historic center. Stroll to the Town Hall and St. Andrew's Church. In the late morning, drive to the second cluster, the vast Fortress System, where you can spend hours exploring. After lunch, drive to the third cluster on the Danube riverfront, park again, and visit the Danube Museum before ending your day with a scenic walk across the Elisabeth Bridge into Hungary.",
+        "sk": "Začnite deň zaparkovaním auta pri Nádvorí Európy a preskúmajte prvé „sústredenie“ pešo: historické centrum Komárna. Prejdite sa k radnici a Kostolu sv. Ondreja. Neskôr ráno sa autom presuňte k druhému sústredeniu, rozsiahlému fortifikačnému systému, kde strávite niekoľko hodín. Po obede choďte autom k tretiemu sústredeniu pri nábreží Dunaja, opäť zaparkujte a navštívte Dunajské múzeum, deň ukončite malebnou prechádzkou cez Most Alžbetin do Maďarska."
       },
       "gastro_picks": {
         "de": [
@@ -1097,6 +1150,12 @@
           "Plan your route between clusters in advance.",
           "Old town streets are narrow; drive carefully.",
           "The fortress has limited parking, so arrive early."
+        ],
+        "sk": [
+          "Parkovanie v centre je platené; majte pripravené mince.",
+          "Naplánujte si trasu medzi sústredeniami vopred.",
+          "Uličky starého mesta sú úzke; šoférujte opatrne.",
+          "Pevnosť má obmedzené parkovanie, príďte skoro."
         ]
       }
     },
@@ -1113,7 +1172,8 @@
             "de": "Start: Europa-Hof",
             "hu": "Indulás: Európa-udvar",
             "ro": "Start: Curtea Europei",
-            "en": "Start: Courtyard of Europe"
+            "en": "Start: Courtyard of Europe",
+            "sk": "Štart: Nádvorie Európy"
           },
           "coords": [
             18.1278,
@@ -1129,7 +1189,8 @@
             "de": "Beginnen Sie in der Nähe der zentralen Bushaltestellen.",
             "hu": "Kezdje a központi buszmegállók közelében.",
             "ro": "Începeți în apropierea stațiilor centrale de autobuz.",
-            "en": "Start near the central bus stations."
+            "en": "Start near the central bus stations.",
+            "sk": "Začnite v okolí centrálnych autobusových staníc."
           }
         },
         {
@@ -1137,7 +1198,8 @@
             "de": "Rathaus & Klapka-Statue",
             "hu": "Városháza és Klapka-szobor",
             "ro": "Primăria și Statuia Klapka",
-            "en": "Town Hall & Klapka Statue"
+            "en": "Town Hall & Klapka Statue",
+            "sk": "Radnica a socha Klapku"
           },
           "coords": [
             18.1265,
@@ -1153,7 +1215,8 @@
             "de": "Ein kurzer Spaziergang vom ersten Halt aus.",
             "hu": "Rövid séta az első megállótól.",
             "ro": "O scurtă plimbare de la prima oprire.",
-            "en": "A short walk from the first stop."
+            "en": "A short walk from the first stop.",
+            "sk": "Krátka prechádzka z prvej zastávky."
           }
         },
         {
@@ -1161,7 +1224,8 @@
             "de": "Fahrt zur Festung",
             "hu": "Buszozás az erődbe",
             "ro": "Călătorie cu autobuzul la fortăreață",
-            "en": "Transit to the Fortress"
+            "en": "Transit to the Fortress",
+            "sk": "Presun k pevnosti"
           },
           "coords": [
             18.14,
@@ -1177,7 +1241,8 @@
             "de": "Nehmen Sie einen lokalen Bus in Richtung Festung. Überprüfen Sie den Fahrplan im Voraus.",
             "hu": "Menjen helyi busszal az erőd irányába. Ellenőrizze előre a menetrendet.",
             "ro": "Luați un autobuz local spre fortăreață. Verificați orarul în avans.",
-            "en": "Take a local bus towards the fortress. Check the schedule beforehand."
+            "en": "Take a local bus towards the fortress. Check the schedule beforehand.",
+            "sk": "Sadnite do miestného autobusu smer pevnosť. Skontrolujte cestovný poriadok vopred."
           }
         },
         {
@@ -1185,7 +1250,8 @@
             "de": "Fahrt zum Donaumuseum",
             "hu": "Buszozás a Duna Múzeumhoz",
             "ro": "Călătorie cu autobuzul la Muzeul Dunării",
-            "en": "Transit to the Danube Museum"
+            "en": "Transit to the Danube Museum",
+            "sk": "Presun k Dunajskému múzeu"
           },
           "coords": [
             18.128,
@@ -1201,7 +1267,8 @@
             "de": "Nehmen Sie einen Bus zurück ins Zentrum, steigen Sie in der Nähe des Flussufers aus.",
             "hu": "Menjen busszal vissza a központba, szálljon le a folyópart közelében.",
             "ro": "Luați un autobuz înapoi în centru, coborâți lângă malul râului.",
-            "en": "Take a bus back to the center, getting off near the riverfront."
+            "en": "Take a bus back to the center, getting off near the riverfront.",
+            "sk": "Vráťte sa autobusom do centra, vystúpte pri nábreží."
           }
         },
         {
@@ -1209,7 +1276,8 @@
             "de": "Offizierspavillon",
             "hu": "Tiszti pavilon",
             "ro": "Pavilionul Ofițerilor",
-            "en": "Officer's Pavilion"
+            "en": "Officer's Pavilion",
+            "sk": "Dôstojnícky pavilón"
           },
           "coords": [
             18.129,
@@ -1225,7 +1293,8 @@
             "de": "Ein kurzer Spaziergang vom Museum entfernt, ein schöner Ort zum Entspannen.",
             "hu": "Rövid sétára a múzeumtól, kellemes hely a pihenésre.",
             "ro": "La o scurtă plimbare de muzeu, un loc frumos pentru relaxare.",
-            "en": "A short walk from the museum, a nice place to relax."
+            "en": "A short walk from the museum, a nice place to relax.",
+            "sk": "Krátka prechádzka od múzea, pekné miesto na oddych."
           }
         },
         {
@@ -1233,7 +1302,8 @@
             "de": "Spaziergang zur Elisabethbrücke",
             "hu": "Séta az Erzsébet hídhoz",
             "ro": "Plimbare la Podul Elisabeta",
-            "en": "Walk to Elisabeth Bridge"
+            "en": "Walk to Elisabeth Bridge",
+            "sk": "Prejdite sa k Mostu Alžbetin"
           },
           "coords": [
             18.122,
@@ -1249,7 +1319,8 @@
             "de": "Ein schöner Abschluss des Tages, der vom Zentrum aus leicht zu erreichen ist.",
             "hu": "Szép befejezése a napnak, könnyen megközelíthető a központból.",
             "ro": "O încheiere frumoasă a zilei, ușor accesibilă din centru.",
-            "en": "A lovely end to the day, easily reachable from the center."
+            "en": "A lovely end to the day, easily reachable from the center.",
+            "sk": "Pekný záver dňa, ľahko dostupný z centra."
           }
         }
       ],
@@ -1257,7 +1328,8 @@
         "de": "Nutzen Sie die öffentlichen Verkehrsmittel von Komárno, um die weiter entfernten Sehenswürdigkeiten zu erreichen. Beginnen Sie Ihren Tag im Zentrum und erkunden Sie den Europa-Hof und den Klapka-Platz zu Fuß. Nehmen Sie dann einen Bus zum gewaltigen Festungssystem. Nach Ihrer historischen Erkundung fahren Sie mit dem Bus zurück zum Donauufer, um das Museum und den Offizierspavillon zu besuchen. Beenden Sie Ihren Tag mit einem gemütlichen Spaziergang über die Elisabethbrücke, ein Symbol der Verbindung.",
         "hu": "Használja Komárom tömegközlekedését a távolabbi látnivalók eléréséhez. Kezdje a napot a központban, gyalog fedezze fel az Európa-udvart és a Klapka teret. Ezután szálljon buszra a hatalmas erődrendszerhez. A történelmi felfedezőút után buszozzon vissza a Duna-parthoz, hogy meglátogassa a múzeumot és a Tiszti pavilont. Zárja a napot egy kellemes sétával az Erzsébet hídon, az összeköttetés szimbólumán.",
         "ro": "Folosiți transportul public din Komárno pentru a ajunge la atracțiile mai îndepărtate. Începeți ziua în centru, explorând pe jos Curtea Europei și Piața Klapka. Apoi, luați un autobuz către vastul sistem de fortificații. După explorarea istorică, luați autobuzul înapoi pe malul Dunării pentru a vizita muzeul și Pavilionul Ofițerilor. Încheiați ziua cu o plimbare agale peste Podul Elisabeta, un simbol al legăturii.",
-        "en": "Use Komárno's public transport to reach the more distant sights. Start your day in the center, exploring the Courtyard of Europe and Klapka Square on foot. Then, take a bus to the vast Fortress System. After your historical exploration, take a bus back to the Danube riverfront to visit the museum and the Officer's Pavilion. End your day with a leisurely stroll across the Elisabeth Bridge, a symbol of connection."
+        "en": "Use Komárno's public transport to reach the more distant sights. Start your day in the center, exploring the Courtyard of Europe and Klapka Square on foot. Then, take a bus to the vast Fortress System. After your historical exploration, take a bus back to the Danube riverfront to visit the museum and the Officer's Pavilion. End your day with a leisurely stroll across the Elisabeth Bridge, a symbol of connection.",
+        "sk": "Použite MHD v Komárne na dosiahnutie vzdialenejších pamiatok. Začnite deň v centre, preskúmajte Nádvorie Európy a Klapkové námestie pešo. Potom sa autobusom dopravte k rozsiahlému fortifikačnému systému. Po historickej prehliadke sa vráťte autobusom k dunajskému nábrežiu, navštívte múzeum a Dôstojnícky pavilón. Deň ukončite pokojným presunom cez Most Alžbetin, symbol spojenia."
       },
       "gastro_picks": {
         "de": [
@@ -1453,6 +1525,12 @@
           "Download the local transit app or check schedules online.",
           "Buses can be crowded, especially during peak hours.",
           "Keep an eye on your belongings."
+        ],
+        "sk": [
+          "Kúpte si celodenný lístok MHD a ušetrite.",
+          "Stiahnite si miestnu transitnú aplikáciu alebo skontrolujte cestovné poriadky online.",
+          "Autobusy môžu byť preplnené, najmä počas špičky.",
+          "Dávajte pozor na svoje veci."
         ]
       }
     }

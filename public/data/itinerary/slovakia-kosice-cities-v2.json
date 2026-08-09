@@ -21,7 +21,8 @@
             "de": "Hauptstraße (Hlavná ulica)",
             "hu": "Fő utca (Hlavná ulica)",
             "ro": "Strada Principală (Hlavná ulica)",
-            "en": "Main Street (Hlavná ulica)"
+            "en": "Main Street (Hlavná ulica)",
+            "sk": "Hlavná ulica (Hlavná ulica)"
           },
           "coords": [
             21.2577,
@@ -37,7 +38,8 @@
             "de": "Beginnen Sie hier Ihren Tag mit einem Kaffee in einem der vielen Cafés.",
             "hu": "Indítsa a napot egy kávéval az utca számos kávézójának egyikében.",
             "ro": "Începeți ziua aici cu o cafea la una dintre numeroasele cafenele.",
-            "en": "Start your day here with a coffee at one of the many cafés."
+            "en": "Start your day here with a coffee at one of the many cafés.",
+            "sk": "Začnite deň tu kávou v jednej z mnohých kaviarní."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Pestäule (Immaculata)",
             "hu": "Pestis-szobor (Immaculata)",
             "ro": "Coloana Ciumei (Immaculata)",
-            "en": "Plague Column (Immaculata)"
+            "en": "Plague Column (Immaculata)",
+            "sk": "Morový stĺp (Immaculata)"
           },
           "coords": [
             21.2575,
@@ -61,7 +64,8 @@
             "de": "Ein beeindruckendes Denkmal im Herzen der Stadt. Ideal für Fotos.",
             "hu": "Egy lenyűgöző emlékmű a város szívében. Ideális fotózáshoz.",
             "ro": "Un monument impresionant în inima orașului. Ideal pentru fotografii.",
-            "en": "An impressive monument in the heart of the city. Ideal for photos."
+            "en": "An impressive monument in the heart of the city. Ideal for photos.",
+            "sk": "Impozantný monument v srdci mesta. Ideálne na fotografie."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Dom der Heiligen Elisabeth",
             "hu": "Szent Erzsébet-dóm",
             "ro": "Catedrala Sfânta Elisabeta",
-            "en": "St. Elisabeth Cathedral"
+            "en": "St. Elisabeth Cathedral",
+            "sk": "Dóm svätej Alžbety"
           },
           "coords": [
             21.2579,
@@ -85,7 +90,8 @@
             "de": "Besteigen Sie den Nordturm für eine atemberaubende Aussicht über die Stadt.",
             "hu": "Másszon fel az Északi-toronyba a városra nyíló lélegzetelállító kilátásért.",
             "ro": "Urcați în Turnul de Nord pentru o priveliște uluitoare asupra orașului.",
-            "en": "Climb the North Tower for a breathtaking view over the city."
+            "en": "Climb the North Tower for a breathtaking view over the city.",
+            "sk": "Vylezte na Severnú vežu pre úchvatný výhľad na mesto."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "St.-Michaels-Kapelle",
             "hu": "Szent Mihály-kápolna",
             "ro": "Capela Sfântul Mihail",
-            "en": "St. Michael's Chapel"
+            "en": "St. Michael's Chapel",
+            "sk": "Kaplnka svätého Michala"
           },
           "coords": [
             21.2582,
@@ -109,7 +116,8 @@
             "de": "Eine Oase der Ruhe direkt neben der belebten Kathedrale.",
             "hu": "A nyugalom oázisa a nyüzsgő dóm mellett.",
             "ro": "O oază de liniște chiar lângă catedrala aglomerată.",
-            "en": "An oasis of calm right next to the bustling cathedral."
+            "en": "An oasis of calm right next to the bustling cathedral.",
+            "sk": "Oáza pokoja hneď vedľa rušného dómu."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Urban-Turm",
             "hu": "Orbán-torony",
             "ro": "Turnul Urban",
-            "en": "Urban Tower"
+            "en": "Urban Tower",
+            "sk": "Mestská veža"
           },
           "coords": [
             21.2586,
@@ -133,7 +142,8 @@
             "de": "Der Glockenturm hat eine faszinierende Geschichte und beherbergt ein kleines Wachsfigurenkabinett.",
             "hu": "A harangtorony lenyűgöző történettel rendelkezik és egy kis panoptikumnak ad otthont.",
             "ro": "Clopotnița are o istorie fascinantă și găzduiește un mic muzeu de ceară.",
-            "en": "The bell tower has a fascinating history and houses a small wax museum."
+            "en": "The bell tower has a fascinating history and houses a small wax museum.",
+            "sk": "Zvonica má fascinujúcu históriu a v sebe ukrýva malé múzeum voskových figurín."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Mikluš-Gefängnis",
             "hu": "Miklós börtön",
             "ro": "Închisoarea Mikluš",
-            "en": "Mikluš Prison"
+            "en": "Mikluš Prison",
+            "sk": "Mikulášova väznica"
           },
           "coords": [
             21.26,
@@ -157,7 +168,8 @@
             "de": "Buchen Sie eine Führung, um die gruseligen Geschichten dieses mittelalterlichen Gefängnisses zu hören.",
             "hu": "Foglaljon vezetett túrát, hogy hallja a középkori börtön hátborzongató történeteit.",
             "ro": "Rezervați un tur ghidat pentru a auzi poveștile înfiorătoare ale acestei închisori medievale.",
-            "en": "Book a guided tour to hear the spooky stories of this medieval prison."
+            "en": "Book a guided tour to hear the spooky stories of this medieval prison.",
+            "sk": "Rezervujte si prehliadku s výkladom a vypočujte si strašidelné príbehy z tejto stredovekej väznice."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Ostslowakisches Museum",
             "hu": "Kelet-Szlovákiai Múzeum",
             "ro": "Muzeul Slovaciei de Est",
-            "en": "East Slovak Museum"
+            "en": "East Slovak Museum",
+            "sk": "Východoslovenské múzeum"
           },
           "coords": [
             21.2625,
@@ -181,7 +194,8 @@
             "de": "Verpassen Sie nicht den Goldenen Schatz von Košice, eine beeindruckende Sammlung von Goldmünzen.",
             "hu": "Ne hagyja ki a Kassai aranykincset, egy lenyűgöző aranyérme-gyűjteményt.",
             "ro": "Nu ratați Tezaurul de Aur din Košice, o colecție impresionantă de monede de aur.",
-            "en": "Don't miss the Golden Treasure of Košice, an impressive collection of gold coins."
+            "en": "Don't miss the Golden Treasure of Košice, an impressive collection of gold coins.",
+            "sk": "Nezmeškajte Zlatú pokladnicu Košíc, pôsobivú zbierku zlatých mincí."
           }
         },
         {
@@ -189,7 +203,8 @@
             "de": "Singender Brunnen",
             "hu": "Éneklő szökőkút",
             "ro": "Fântâna Cântătoare",
-            "en": "Singing Fountain"
+            "en": "Singing Fountain",
+            "sk": "Spievajúca fontána"
           },
           "coords": [
             21.2583,
@@ -205,7 +220,8 @@
             "de": "Entspannen Sie sich am Ende des Tages und genießen Sie die Musik- und Lichtshow am Abend.",
             "hu": "Pihenjen a nap végén, és élvezze az esti zene- és fény-showt.",
             "ro": "Relaxați-vă la sfârșitul zilei și bucurați-vă de spectacolul de muzică și lumini seara.",
-            "en": "Relax at the end of the day and enjoy the music and light show in the evening."
+            "en": "Relax at the end of the day and enjoy the music and light show in the evening.",
+            "sk": "Zrelaxujte na konci dňa a vychutnajte si večernú hudobno-svetelnú show."
           }
         }
       ],
@@ -213,7 +229,8 @@
         "de": "Ihr Tag in Košice beginnt auf der prächtigen Hauptstraße, dem Herzen der Stadt. Am Vormittag erkunden Sie das religiöse Zentrum mit dem Elisabeth-Dom und der Michaelskapelle. Der Mittag führt Sie in die dunkle Vergangenheit des Mikluš-Gefängnisses, bevor Sie am Nachmittag die Schätze des Ostslowakischen Museums entdecken. Den Abend lassen Sie entspannt am Singenden Brunnen ausklingen und genießen die Atmosphäre dieser lebendigen Stadt.",
         "hu": "Kassai napja a város szívében, a csodálatos Fő utcán kezdődik. Délelőtt a vallási központot fedezi fel a Szent Erzsébet-dómmal és a Szent Mihály-kápolnával. A dél a Miklós börtön sötét múltjába vezeti, mielőtt délután felfedezné a Kelet-Szlovákiai Múzeum kincseit. Az estét pihenéssel zárja az Éneklő szökőkútnál, élvezve ennek az élettel teli városnak a hangulatát.",
         "ro": "Ziua dvs. în Košice începe pe splendida Stradă Principală, inima orașului. Dimineața explorați centrul religios cu Catedrala Sf. Elisabeta și Capela Sf. Mihail. Amiaza vă poartă în trecutul întunecat al Închisorii Mikluš, înainte de a descoperi comorile Muzeului Slovaciei de Est după-amiaza. Încheiați seara relaxându-vă la Fântâna Cântătoare, bucurându-vă de atmosfera acestui oraș vibrant.",
-        "en": "Your day in Košice begins on the magnificent Main Street, the heart of the city. In the morning, you'll explore the religious center with St. Elisabeth Cathedral and St. Michael's Chapel. Midday takes you into the dark past of Mikluš Prison before you discover the treasures of the East Slovak Museum in the afternoon. You'll end the evening relaxing at the Singing Fountain, enjoying the atmosphere of this vibrant city."
+        "en": "Your day in Košice begins on the magnificent Main Street, the heart of the city. In the morning, you'll explore the religious center with St. Elisabeth Cathedral and St. Michael's Chapel. Midday takes you into the dark past of Mikluš Prison before you discover the treasures of the East Slovak Museum in the afternoon. You'll end the evening relaxing at the Singing Fountain, enjoying the atmosphere of this vibrant city.",
+        "sk": "Váš deň v Košiciach začína na nádhernej Hlavnej ulici, v srdci mesta. Ráno preskúmate náboženské centrum s Dómom svätej Alžbety a Kaplnkou sv. Michala. Na poludnie nahliadnete do temnej minulosti Mikulášovej väznice, popoludní objavíte poklady Východoslovenského múzea. Večer ukončíte odpočinkom pri Spievajúcej fontáne a vychutnávaním atmosféry tohto živého mesta."
       },
       "gastro_picks": {
         "de": [
@@ -429,6 +446,13 @@
           "Most of the sights are very close to each other, which makes a walk ideal.",
           "Plan for breaks in the many cafes and parks along the main street.",
           "Don't forget your camera, the architecture is stunning."
+        ],
+        "sk": [
+          "Košice sú veľmi priateľské pre peších, najmä historické centrum.",
+          "Obujte si pohodlné topánky, budete veľa chodiť po kockovitých kameňoch.",
+          "Väčšina pamiatok je blízko pri sebe, takže prechádzka je ideálna.",
+          "Naplánujte si prestávky v početných kaviarňach a parkoch pozdĺž Hlavnej ulice.",
+          "Nezabudnite fotoaparát, architektúra je úchvatná."
         ]
       },
       "variants": {
@@ -437,7 +461,8 @@
             "de": "Ein regnerischer Morgen in Košice beginnt auf der glänzenden Hauptstraße, wo Pfützen die barocken Fassaden widerspiegeln. Mittags bietet der monumentale Elisabeth-Dom den perfekten trockenen Zufluchtsort, um die gotische Pracht zu bewundern. Am Nachmittag laden die Museen in der Mikluš-Gefängnisgasse und das Ostslowakische Museum zu einer Reise in die Vergangenheit ein, geschützt vor dem Wetter. Der Tag endet an der Singenden Fontäne, deren Wasserspiel im Regen eine fast mystische Atmosphäre erzeugt.",
             "hu": "Az esős reggel Kassán a csillogó Fő utcán kezdődik, ahol a tócsák tükrözik a barokk homlokzatokat. Délben a monumentális Szent Erzsébet-dóm nyújt tökéletes menedéket, ahol szárazon csodálhatjuk meg a gótikus belsőt. Délután a Mikluš-börtön és a Kelet-szlovákiai Múzeum termeiben kalandozhatunk a múltban, védve az égi áldástól. A napot a Zenélő szökőkútnál zárjuk, amelynek játéka az esőben különleges, misztikus hangulatot áraszt.",
             "ro": "O dimineață ploioasă în Košice începe pe strada principală strălucitoare, unde bălțile reflectă fațadele baroce. La prânz, monumentala Catedrală Sfânta Elisabeta oferă refugiul perfect pentru a admira splendoarea gotică la adăpost. După-amiaza, închisoarea Mikluš și Muzeul Slovaciei de Est vă invită la o călătorie în trecut, protejați de vreme. Ziua se încheie la Fântâna Cântătoare, al cărei joc de apă capătă o atmosferă mistică sub picăturile de ploaie.",
-            "en": "A rainy morning in Košice begins on the glistening Main Street, where puddles reflect the baroque facades. At noon, the monumental St. Elisabeth Cathedral provides the perfect dry sanctuary to admire Gothic splendor. In the afternoon, Mikluš Prison and the East Slovak Museum invite you on a journey into the past, well-sheltered from the weather. The day ends at the Singing Fountain, where the water display creates a mystical atmosphere in the rain."
+            "en": "A rainy morning in Košice begins on the glistening Main Street, where puddles reflect the baroque facades. At noon, the monumental St. Elisabeth Cathedral provides the perfect dry sanctuary to admire Gothic splendor. In the afternoon, Mikluš Prison and the East Slovak Museum invite you on a journey into the past, well-sheltered from the weather. The day ends at the Singing Fountain, where the water display creates a mystical atmosphere in the rain.",
+            "sk": "Pršivé ráno v Košiciach začína na lesknej Hlavnej ulici, kde kaluže odrážajú barokové fasády. Na poludnie poskytne monumentálny Dóm sv. Alžbety dokonalé suché útočisko, kde obdivovať gotický rozmach. Popoludní vás Mikulášova väznica a Východoslovenské múzeum pozývajú na cestu do minulosti, dobre chránenú pred počasím. Deň končí pri Spievajúcej fontáne, kde vodná šou vytvára v daždi mystickú atmosféru."
           },
           "stops": [
             {
@@ -446,7 +471,8 @@
                 "de": "Nutzen Sie die Arkaden der Cafés als Schutz.",
                 "hu": "Használja a kávézók árkádjait menedékként.",
                 "ro": "Folosiți arcadele cafenelelor ca adăpost.",
-                "en": "Use the cafe arcades for shelter."
+                "en": "Use the cafe arcades for shelter.",
+                "sk": "Využite kaviarenské arkády na úkryt."
               }
             },
             {
@@ -455,7 +481,8 @@
                 "de": "Vorsicht, das Kopfsteinpflaster ist rutschig.",
                 "hu": "Vigyázat, a macskakő csúszós az esőben.",
                 "ro": "Atenție, pavajul este alunecos pe ploaie.",
-                "en": "Careful, the cobblestones are slippery."
+                "en": "Careful, the cobblestones are slippery.",
+                "sk": "Pozor, kocky sú šmykľavé."
               }
             },
             {
@@ -464,7 +491,8 @@
                 "de": "Idealer Ort, um eine Stunde im Trockenen zu verbringen.",
                 "hu": "Ideális hely egy száraz óra eltöltéséhez.",
                 "ro": "Loc ideal pentru a petrece o oră la uscat.",
-                "en": "Ideal place to spend a dry hour."
+                "en": "Ideal place to spend a dry hour.",
+                "sk": "Ideálne miesto na suchú hodinu."
               }
             },
             {
@@ -473,7 +501,8 @@
                 "de": "Kurzer Sprint vom Dom, um trocken zu bleiben.",
                 "hu": "Rövid futás a dómtól, hogy száraz maradjon.",
                 "ro": "Sprint scurt de la catedrală pentru a rămâne uscat.",
-                "en": "Short sprint from the cathedral to stay dry."
+                "en": "Short sprint from the cathedral to stay dry.",
+                "sk": "Krátky šprint od dómu, aby ste zostali v suchu."
               }
             },
             {
@@ -482,7 +511,8 @@
                 "de": "Das kleine Museum im Inneren bietet Schutz.",
                 "hu": "A belső kis múzeum védelmet nyújt az eső elől.",
                 "ro": "Micul muzeu din interior oferă adăpost.",
-                "en": "The small museum inside offers shelter."
+                "en": "The small museum inside offers shelter.",
+                "sk": "Malé múzeum vnútri ponúka úkryt."
               }
             },
             {
@@ -491,7 +521,8 @@
                 "de": "Perfekt für eine ausgiebige Indoor-Besichtigung.",
                 "hu": "Tökéletes egy alapos beltéri látogatáshoz.",
                 "ro": "Perfect pentru o vizită interioară detaliată.",
-                "en": "Perfect for an extensive indoor visit."
+                "en": "Perfect for an extensive indoor visit.",
+                "sk": "Perfektné na rozsiahle vnútorné návštevy."
               }
             },
             {
@@ -500,7 +531,8 @@
                 "de": "Bewundern Sie den Goldschatz im trockenen Keller.",
                 "hu": "Csodálja meg az aranykincset a száraz pincében.",
                 "ro": "Admirați tezaurul de aur în pivnița uscată.",
-                "en": "Admire the gold treasure in the dry cellar."
+                "en": "Admire the gold treasure in the dry cellar.",
+                "sk": "Obdivujte zlatú pokladnicu v suchom suteréne."
               }
             },
             {
@@ -509,7 +541,8 @@
                 "de": "Genießen Sie die Musik von einem nahen Fenster aus.",
                 "hu": "Élvezze a zenét egy közeli ablakból.",
                 "ro": "Bucurați-vă de muzică de la o fereastră din apropiere.",
-                "en": "Enjoy the music from a nearby window."
+                "en": "Enjoy the music from a nearby window.",
+                "sk": "Užite si hudbu z blízkeho okna."
               }
             }
           ],
@@ -537,6 +570,12 @@
               "The cathedral is an excellent place to warm up and dry off.",
               "Museums offer long indoor visiting times.",
               "Cafes on Main Street often have covered arcade areas."
+            ],
+            "sk": [
+              "Obujte si vodeodolnú obuv kvôli kockám.",
+              "Dóm je výborné miesto na zahriatie a vysušenie sa.",
+              "Múzeá ponúkajú dlhé vnútorné prehliadky.",
+              "Kaviarne na Hlavnej často majú prekryté arkády."
             ]
           }
         },
@@ -545,7 +584,8 @@
             "de": "Der Wintermorgen beginnt frisch auf der Hauptstraße, wo oft der Duft von heißem Met in der Luft liegt. Der Elisabeth-Dom wirkt in der kühlen Wintersonne besonders erhaben und bietet im Inneren eine andächtige Stille. Nachmittags flüchten wir vor der Kälte in die faszinierende Welt des Mikluš-Gefängnisses und die warmen Hallen des Ostslowakischen Museums. Wenn die Dämmerung früh einsetzt, verwandelt die Weihnachtsbeleuchtung das Stadtzentrum in ein Märchenland rund um die Fontäne.",
             "hu": "A téli reggel frissen indul a Fő utcán, ahol gyakran forró mézbor illata száll a levegőben. A Szent Erzsébet-dóm a hűvös téli napsütésben különösen fenséges, és csendes menedéket nyújt. Délután a hideg elől a Mikluš-börtön és a Kelet-szlovákiai Múzeum fűtött termeibe húzódunk. Ahogy korán leszáll az alkony, az ünnepi fények mesebeli hellyé varázsolják a belvárost a szökőkút környékén.",
             "ro": "Dimineața de iarnă începe proaspătă pe strada Principală, unde adesea plutește mirosul de mied fierbinte. Catedrala Sfânta Elisabeta pare deosebit de maiestuoasă în soarele rece de iarnă, oferind liniște în interior. După-amiaza, ne refugiem de frig în lumea fascinantă a închisorii Mikluš și în sălile calde ale Muzeului Slovaciei de Est. Pe măsură ce amurgul coboară devreme, luminile de sărbătoare transformă centrul orașului într-un tărâm de basm.",
-            "en": "A winter morning starts fresh on Main Street, where the scent of hot mead often fills the air. St. Elisabeth Cathedral looks particularly majestic in the cool winter sun, offering peaceful silence inside. In the afternoon, we escape the cold into the fascinating world of Mikluš Prison and the warm halls of the East Slovak Museum. As dusk falls early, festive lights transform the city center into a fairyland around the fountain."
+            "en": "A winter morning starts fresh on Main Street, where the scent of hot mead often fills the air. St. Elisabeth Cathedral looks particularly majestic in the cool winter sun, offering peaceful silence inside. In the afternoon, we escape the cold into the fascinating world of Mikluš Prison and the warm halls of the East Slovak Museum. As dusk falls early, festive lights transform the city center into a fairyland around the fountain.",
+            "sk": "Zimné ráno začína sviežo na Hlavnej, kde vzduch často napĺňa vôňa horúceho medoviny. Dóm sv. Alžbety vyzerá v chladnom zimnom slnku obzvlášť majestátne a ponúka pokojné ticho vnútri. Popoludní sa uchýlime pred chladom do fascinujúceho sveta Mikulášovej väznice a do teplých hál Východoslovenského múzea. Keď sa skôr zotmie, sviatočné svetlá premenia centrum mesta na rozprávkovú krajinu okolo fontány."
           },
           "stops": [
             {
@@ -554,7 +594,8 @@
                 "de": "Probieren Sie heißen Met an den Ständen.",
                 "hu": "Kóstolja meg a forró mézbort a bódéknál.",
                 "ro": "Gustați miedul fierbinte la tarabe.",
-                "en": "Try some hot mead at the stalls."
+                "en": "Try some hot mead at the stalls.",
+                "sk": "Vyskúšajte horúcu medovinu na stánkoch."
               }
             },
             {
@@ -563,7 +604,8 @@
                 "de": "Oft Zentrum des kleinen Weihnachtsmarktes.",
                 "hu": "Gyakran a kis karácsonyi vásár központja.",
                 "ro": "Adesea centrul micului târg de Crăciun.",
-                "en": "Often the center of the small Christmas market."
+                "en": "Often the center of the small Christmas market.",
+                "sk": "Často centrum malého vianočného trhu."
               }
             },
             {
@@ -572,7 +614,8 @@
                 "de": "Kühl im Inneren, ziehen Sie sich warm an.",
                 "hu": "Hűvös odabent, öltözzön fel melegen.",
                 "ro": "Răcoare în interior, îmbrăcați-vă bine.",
-                "en": "Chilly inside, dress warmly."
+                "en": "Chilly inside, dress warmly.",
+                "sk": "Vnútri chladno, oblečte sa teplo."
               }
             },
             {
@@ -581,7 +624,8 @@
                 "de": "Die Beleuchtung wirkt im Schnee wunderschön.",
                 "hu": "A megvilágítás gyönyörű a hóban.",
                 "ro": "Iluminarea arată minunat în zăpadă.",
-                "en": "The lighting looks beautiful in the snow."
+                "en": "The lighting looks beautiful in the snow.",
+                "sk": "Osvetlenie vyzerá na snehu krásne."
               }
             },
             {
@@ -590,7 +634,8 @@
                 "de": "Im Winter ein tolles Fotomotiv.",
                 "hu": "Télen kiváló fotótéma a torony.",
                 "ro": "Turnul este un subiect foto excelent iarna.",
-                "en": "The tower is a great photo subject in winter."
+                "en": "The tower is a great photo subject in winter.",
+                "sk": "Veža je v zime skvelý fotoobjekt."
               }
             },
             {
@@ -599,7 +644,8 @@
                 "de": "Dicke Mauern schützen vor dem Winterwind.",
                 "hu": "A vastag falak védenek a téli széltől.",
                 "ro": "Zidurile groase protejează de vântul de iarnă.",
-                "en": "Thick walls protect from the winter wind."
+                "en": "Thick walls protect from the winter wind.",
+                "sk": "Hrubé múry chránia pred zimným vetrom."
               }
             },
             {
@@ -608,7 +654,8 @@
                 "de": "Gut beheizte Ausstellungsräume.",
                 "hu": "Jól fűtött kiállítóterek.",
                 "ro": "Spații de expoziție bine încălzite.",
-                "en": "Well-heated exhibition spaces."
+                "en": "Well-heated exhibition spaces.",
+                "sk": "Dobre vykúrené výstavné priestory."
               }
             },
             {
@@ -617,7 +664,8 @@
                 "de": "Wird im Winter oft durch Licht ersetzt.",
                 "hu": "Télen gyakran fényinstalláció váltja a vizet.",
                 "ro": "Iarna apa este adesea înlocuită de lumini.",
-                "en": "Water is often replaced by light in winter."
+                "en": "Water is often replaced by light in winter.",
+                "sk": "V zime býva voda často nahradená svetlom."
               }
             }
           ],
@@ -645,6 +693,12 @@
               "Visit the Christmas market for local food.",
               "Museums have cloakrooms for heavy coats.",
               "Dress in layers for the transitions between cold and heat."
+            ],
+            "sk": [
+              "Západ slnka je už okolo 16:15.",
+              "Navštívte vianočný trh kvôli miestnym jedlám.",
+              "Múzeá majú šatne na ťažké kabáty.",
+              "Obliekajte sa vrstvene pre prechod medzi chladom a teplom."
             ]
           }
         }
@@ -663,7 +717,8 @@
             "de": "Hauptstraße (Hlavná ulica)",
             "hu": "Fő utca (Hlavná ulica)",
             "ro": "Strada Principală (Hlavná ulica)",
-            "en": "Main Street (Hlavná ulica)"
+            "en": "Main Street (Hlavná ulica)",
+            "sk": "Hlavná ulica (Hlavná ulica)"
           },
           "coords": [
             21.2577,
@@ -679,7 +734,8 @@
             "de": "Schließen Sie Ihr Fahrrad sicher ab und genießen Sie einen ersten Spaziergang.",
             "hu": "Zárja le biztonságosan a kerékpárját, és tegyen egy első sétát.",
             "ro": "Legați-vă bicicleta în siguranță și bucurați-vă de o primă plimbare.",
-            "en": "Lock your bike securely and enjoy a first stroll."
+            "en": "Lock your bike securely and enjoy a first stroll.",
+            "sk": "Uzamknite si bicykel bezpečne a užite si prvú prechádzku."
           }
         },
         {
@@ -687,7 +743,8 @@
             "de": "Staatstheater Košice",
             "hu": "Kassai Állami Színház",
             "ro": "Teatrul de Stat Košice",
-            "en": "State Theatre Košice"
+            "en": "State Theatre Košice",
+            "sk": "Štátne divadlo Košice"
           },
           "coords": [
             21.2581,
@@ -703,7 +760,8 @@
             "de": "Bewundern Sie die neobarocke Fassade, auch wenn Sie keine Vorstellung besuchen.",
             "hu": "Csodálja meg a neobarokk homlokzatot, még ha nem is megy előadásra.",
             "ro": "Admirați fațada neobarocă, chiar dacă nu mergeți la un spectacol.",
-            "en": "Admire the neo-baroque facade, even if you don't attend a performance."
+            "en": "Admire the neo-baroque facade, even if you don't attend a performance.",
+            "sk": "Obdivujte neobarokovú fasádu, aj keď nejdete na predstavenie."
           }
         },
         {
@@ -711,7 +769,8 @@
             "de": "Dom der Heiligen Elisabeth",
             "hu": "Szent Erzsébet-dóm",
             "ro": "Catedrala Sfânta Elisabeta",
-            "en": "St. Elisabeth Cathedral"
+            "en": "St. Elisabeth Cathedral",
+            "sk": "Dóm svätej Alžbety"
           },
           "coords": [
             21.2579,
@@ -727,7 +786,8 @@
             "de": "Der Eintritt ist frei, aber eine Spende für den Unterhalt wird geschätzt.",
             "hu": "A belépés ingyenes, de adományokat szívesen fogadnak a fenntartásra.",
             "ro": "Intrarea este gratuită, dar o donație pentru întreținere este apreciată.",
-            "en": "Admission is free, but a donation for maintenance is appreciated."
+            "en": "Admission is free, but a donation for maintenance is appreciated.",
+            "sk": "Vstup je zadarmo, ale príspevok na údržbu sa oceňuje."
           }
         },
         {
@@ -735,7 +795,8 @@
             "de": "Jakab-Palais",
             "hu": "Jakab-palota",
             "ro": "Palatul Jakab",
-            "en": "Jakab's Palace"
+            "en": "Jakab's Palace",
+            "sk": "Jakabov palác"
           },
           "coords": [
             21.2628,
@@ -751,7 +812,8 @@
             "de": "Ein Fotostopp wert. Das Gebäude ist ein faszinierendes Beispiel für vielseitige Architektur.",
             "hu": "Érdemes megállni egy fotóra. Az épület a sokszínű építészet lenyűgöző példája.",
             "ro": "Merită o oprire pentru fotografii. Clădirea este un exemplu fascinant de arhitectură eclectică.",
-            "en": "Worth a photo stop. The building is a fascinating example of eclectic architecture."
+            "en": "Worth a photo stop. The building is a fascinating example of eclectic architecture.",
+            "sk": "Stojí za fotografiu. Budova je fascinujúcim príkladom eklektickej architektúry."
           }
         },
         {
@@ -759,7 +821,8 @@
             "de": "Mikluš-Gefängnis",
             "hu": "Miklós börtön",
             "ro": "Închisoarea Mikluš",
-            "en": "Mikluš Prison"
+            "en": "Mikluš Prison",
+            "sk": "Mikulášova väznica"
           },
           "coords": [
             21.26,
@@ -775,7 +838,8 @@
             "de": "Verbinden Sie den Besuch mit dem Henker-Bastion, um die ganze Geschichte zu erfahren.",
             "hu": "Kösse össze a látogatást a Hóhérbástyával, hogy megismerje a teljes történetet.",
             "ro": "Combinați vizita cu Bastionul Călăului pentru a afla întreaga poveste.",
-            "en": "Combine the visit with the Executioner's Bastion to get the full story."
+            "en": "Combine the visit with the Executioner's Bastion to get the full story.",
+            "sk": "Skombinujte návštevu s Katovou baštou, aby ste získali celý príbeh."
           }
         },
         {
@@ -783,7 +847,8 @@
             "de": "Ostslowakisches Museum",
             "hu": "Kelet-Szlovákiai Múzeum",
             "ro": "Muzeul Slovaciei de Est",
-            "en": "East Slovak Museum"
+            "en": "East Slovak Museum",
+            "sk": "Východoslovenské múzeum"
           },
           "coords": [
             21.2625,
@@ -799,7 +864,8 @@
             "de": "Planen Sie genügend Zeit für die naturhistorische Ausstellung im Hauptgebäude ein.",
             "hu": "Tervezzen elegendő időt a főépületben található természettudományi kiállításra.",
             "ro": "Planificați suficient timp pentru expoziția de istorie naturală din clădirea principală.",
-            "en": "Plan enough time for the natural history exhibition in the main building."
+            "en": "Plan enough time for the natural history exhibition in the main building.",
+            "sk": "Naplánujte si dosť času na prírodovednú expozíciu v hlavnej budove."
           }
         },
         {
@@ -807,7 +873,8 @@
             "de": "Singender Brunnen",
             "hu": "Éneklő szökőkút",
             "ro": "Fântâna Cântătoare",
-            "en": "Singing Fountain"
+            "en": "Singing Fountain",
+            "sk": "Spievajúca fontána"
           },
           "coords": [
             21.2583,
@@ -823,7 +890,8 @@
             "de": "Ein großartiger Ort für eine Pause. Die Musik wechselt alle Stunde.",
             "hu": "Nagyszerű hely egy szünetre. A zene óránként változik.",
             "ro": "Un loc minunat pentru o pauză. Muzica se schimbă în fiecare oră.",
-            "en": "A great place for a break. The music changes every hour."
+            "en": "A great place for a break. The music changes every hour.",
+            "sk": "Skvelé miesto na prestávku. Hudba sa mení každú hodinu."
           }
         },
         {
@@ -831,7 +899,8 @@
             "de": "Urban-Turm",
             "hu": "Orbán-torony",
             "ro": "Turnul Urban",
-            "en": "Urban Tower"
+            "en": "Urban Tower",
+            "sk": "Mestská veža"
           },
           "coords": [
             21.2586,
@@ -847,7 +916,8 @@
             "de": "Genießen Sie die Aussicht und das kleine Café im Inneren am Ende Ihrer Tour.",
             "hu": "Élvezze a kilátást és a bent található kis kávézót a túra végén.",
             "ro": "Bucurați-vă de priveliște și de mica cafenea din interior la sfârșitul turului.",
-            "en": "Enjoy the view and the small café inside at the end of your tour."
+            "en": "Enjoy the view and the small café inside at the end of your tour.",
+            "sk": "Užite si výhľad a malú kaviareň vo vnútri na konci prehliadky."
           }
         }
       ],
@@ -855,7 +925,8 @@
         "de": "Mit dem Fahrrad erkunden Sie Košice schnell und flexibel. Der Morgen beginnt im Herzen der Stadt, an der Hauptstraße und dem Staatstheater, bevor Sie zum majestätischen Dom radeln. Zur Mittagszeit tauchen Sie in die Geschichte im Jakab-Palais und Mikluš-Gefängnis ein. Der Nachmittag ist der Kultur im Ostslowakischen Museum gewidmet. Ihre Tour endet entspannt am Singenden Brunnen, von wo aus Sie den Urban-Turm für einen letzten Ausblick erklimmen.",
         "hu": "Kerékpárral gyorsan és rugalmasan fedezheti fel Kassát. A reggel a város szívében, a Fő utcán és az Állami Színháznál kezdődik, mielőtt a fenséges dómhoz tekerne. Délidőben elmerülhet a történelemben a Jakab-palotánál és a Miklós börtönben. A délután a kultúráé a Kelet-Szlovákiai Múzeumban. A túra az Éneklő szökőkútnál ér véget, ahonnan felmászhat az Orbán-toronyba egy utolsó kilátásért.",
         "ro": "Cu bicicleta, explorați Košice rapid și flexibil. Dimineața începe în inima orașului, pe Strada Principală și la Teatrul de Stat, înainte de a pedala spre catedrala maiestuoasă. La prânz, vă scufundați în istorie la Palatul Jakab și Închisoarea Mikluš. După-amiaza este dedicată culturii la Muzeul Slovaciei de Est. Turul se încheie relaxat la Fântâna Cântătoare, de unde puteți urca în Turnul Urban pentru o ultimă priveliște.",
-        "en": "By bike, you can explore Košice quickly and flexibly. The morning starts in the heart of the city, on Main Street and at the State Theatre, before you cycle to the majestic cathedral. At lunchtime, you'll delve into history at Jakab's Palace and Mikluš Prison. The afternoon is dedicated to culture at the East Slovak Museum. Your tour ends relaxing at the Singing Fountain, from where you can climb the Urban Tower for a final view."
+        "en": "By bike, you can explore Košice quickly and flexibly. The morning starts in the heart of the city, on Main Street and at the State Theatre, before you cycle to the majestic cathedral. At lunchtime, you'll delve into history at Jakab's Palace and Mikluš Prison. The afternoon is dedicated to culture at the East Slovak Museum. Your tour ends relaxing at the Singing Fountain, from where you can climb the Urban Tower for a final view.",
+        "sk": "Na bicykli môžete Košice preskúmať rýchlo a flexibilne. Ráno začína v srdci mesta na Hlavnej ulici a pri Štátnom divadle, potom nasadnete k majestátnemu dómu. Na obed sa ponoríte do histórie v Jakabovom paláci a Mikulášovej väznici. Popoludnie patrí kultúre vo Východoslovenskom múzeu. Túru ukončíte oddychom pri Spievajúcej fontáne, odkiaľ sa môžete vyštverať na Mestskú vežu pre posledný výhľad."
       },
       "gastro_picks": {
         "de": [
@@ -1055,6 +1126,13 @@
           "There are several bike rental stations in the city.",
           "Use the cycle paths along the river for a relaxing tour.",
           "Always lock your bike securely, especially in the city center."
+        ],
+        "sk": [
+          "Košice sú pomerne rovné, čo robí cyklistiku príjemnou.",
+          "Dávajte pozor na koľajnice električky na Hlavnej ulici.",
+          "V meste je niekoľko staníc na požičanie bicyklov.",
+          "Využite cyklotrasy popri rieke na relaxačnú jazdu.",
+          "Vždy zámkujte bicykel bezpečne, obzvlášť v centre mesta."
         ]
       },
       "variants": {
@@ -1063,7 +1141,8 @@
             "de": "Eine Radtour durch das regnerische Košice erfordert Vorsicht auf dem nassen Kopfsteinpflaster der Hauptstraße. Wir steuern schnell das Staatstheater und den Dom an, um kurze Pausen im Trockenen einzulegen. Jakabs Palast sieht im Regen besonders romantisch aus, bevor wir längere Zeit in den Museen verbringen, wo wir unsere Räder sicher abstellen können. Der Tag endet ruhig am Theaterplatz, während der Regen auf das Dach prasselt.",
             "hu": "Egy kerékpártúra az esős Kassán óvatosságot igényel a Fő utca vizes macskakövein. Gyorsan a Színház és a Dóm felé vesszük az irányt, rövid száraz szüneteket beiktatva. A Jakab-palota az esőben különösen romantikus látványt nyújt, mielőtt hosszabb időt töltenénk a múzeumokban, ahol biztonságban hagyhatjuk a bringákat. A nap csendesen ér véget a Színház mellett, miközben az eső kopog a tetőkön.",
             "ro": "O tură cu bicicleta prin Košice pe ploaie necesită prudență pe pavajul umed de pe strada Principală. Ne îndreptăm rapid spre Teatru și Catedrală pentru scurte pauze la uscat. Palatul Jakab arată deosebit de romantic sub ploaie, înainte de a petrece mai mult timp în muzee, unde putem lăsa bicicletele în siguranță. Ziua se încheie liniștit lângă teatru, în timp ce ploaia bate în acoperișuri.",
-            "en": "A bike tour through rainy Košice requires caution on the wet cobblestones of Main Street. We head quickly towards the Theatre and Cathedral for short dry breaks. Jakab's Palace looks particularly romantic in the rain before we spend more time in the museums, where bikes can be parked safely. The day ends quietly by the Theatre as rain patters on the rooftops."
+            "en": "A bike tour through rainy Košice requires caution on the wet cobblestones of Main Street. We head quickly towards the Theatre and Cathedral for short dry breaks. Jakab's Palace looks particularly romantic in the rain before we spend more time in the museums, where bikes can be parked safely. The day ends quietly by the Theatre as rain patters on the rooftops.",
+            "sk": "Cyklistický výlet cez daždivé Košice si vyžaduje opatrnosť na mokrých kockách Hlavnej ulice. Rýchlo smerujeme k divadlu a dómu na krátke suché prestávky. Jakabov palác vyzerá v daždi obzvlášť romanticky, potom strávime viac času v múzeách, kde možno bicykle bezpečne odstaviť. Deň končí pokojne pri divadle, zatiaľ čo dážď bubnová na strechách."
           },
           "stops": [
             {
@@ -1072,7 +1151,8 @@
                 "de": "Vorsicht bei den Straßenbahnschienen.",
                 "hu": "Vigyázzon a villamossíneken a csúszásveszély miatt.",
                 "ro": "Atenție la șinele de tramvai pe ploaie.",
-                "en": "Watch out for tram tracks when wet."
+                "en": "Watch out for tram tracks when wet.",
+                "sk": "Dávajte pozor na koľajnice električky, keď sú mokré."
               }
             },
             {
@@ -1081,7 +1161,8 @@
                 "de": "Unterstand am Eingang vorhanden.",
                 "hu": "A bejáratnál van fedett rész.",
                 "ro": "Există o zonă acoperită la intrare.",
-                "en": "There is a covered area at the entrance."
+                "en": "There is a covered area at the entrance.",
+                "sk": "Pri vchode je krytá časť."
               }
             },
             {
@@ -1090,7 +1171,8 @@
                 "de": "Fahrradständer in der Nähe des Nordeingangs.",
                 "hu": "Kerékpártárolók az északi bejárat közelében.",
                 "ro": "Suporturi de biciclete lângă intrarea de nord.",
-                "en": "Bike racks located near the north entrance."
+                "en": "Bike racks located near the north entrance.",
+                "sk": "Stojany na bicykle sa nachádzajú pri severnom vchode."
               }
             },
             {
@@ -1099,7 +1181,8 @@
                 "de": "Stoppen Sie kurz unter den Bäumen gegenüber.",
                 "hu": "Álljon meg rövid időre a szemközti fák alatt.",
                 "ro": "Opriți scurt sub copacii de vizavi.",
-                "en": "Stop briefly under the trees opposite."
+                "en": "Stop briefly under the trees opposite.",
+                "sk": "Zastavte sa na chvíľu pod stromami oproti."
               }
             },
             {
@@ -1108,7 +1191,8 @@
                 "de": "Sicherer Platz zum Anschließen in der Gasse.",
                 "hu": "Biztonságos hely a láncoláshoz a közben.",
                 "ro": "Loc sigur pentru legat bicicleta pe alee.",
-                "en": "Safe place to lock up in the alleyway."
+                "en": "Safe place to lock up in the alleyway.",
+                "sk": "Bezpečné miesto na uzamknutie v uličke."
               }
             },
             {
@@ -1117,7 +1201,8 @@
                 "de": "Hintereingang bietet oft mehr Regenschutz.",
                 "hu": "A hátsó bejárat gyakran több védelmet nyújt.",
                 "ro": "Intrarea din spate oferă adăpost de ploaie.",
-                "en": "The back entrance often offers more rain cover."
+                "en": "The back entrance often offers more rain cover.",
+                "sk": "Zadný vchod často ponúka viac úkrytu pred dažďom."
               }
             },
             {
@@ -1126,7 +1211,8 @@
                 "de": "Vermeiden Sie Pfützen im Parkbereich.",
                 "hu": "Kerülje el a tócsákat a park területén.",
                 "ro": "Evitați bălțile în zona parcului.",
-                "en": "Avoid puddles in the park area."
+                "en": "Avoid puddles in the park area.",
+                "sk": "Vyhnite sa kalužiam v parkovej oblasti."
               }
             },
             {
@@ -1135,7 +1221,8 @@
                 "de": "Schneller Stopp, bevor es wieder regnet.",
                 "hu": "Gyors megálló, mielőtt újra rákezd az eső.",
                 "ro": "Oprire rapidă înainte de a ploua din nou.",
-                "en": "Quick stop before it rains again."
+                "en": "Quick stop before it rains again.",
+                "sk": "Krátka zastávka skôr, než znova zaprší."
               }
             }
           ],
@@ -1163,6 +1250,12 @@
               "Test your brakes on the wet cobblestones.",
               "Use waterproof panniers for your gear.",
               "Cycle paths are less crowded in the rain."
+            ],
+            "sk": [
+              "Blatníky sú v tomto počasí nevyhnutné.",
+              "Otestujte brzdy na mokrých kockách.",
+              "Použite vodeodolné brašne na výbavu.",
+              "Cyklotrasy sú v daždi menej preplnené."
             ]
           }
         },
@@ -1171,7 +1264,8 @@
             "de": "Das winterliche Košice mit dem Rad zu erkunden, bietet eine ganz neue Perspektive auf die verschneite Altstadt. Die Route führt entlang der festlich geschmückten Hauptstraße zum imposanten Dom. Mittags wärmen wir uns in den Museen auf, während die Fahrräder draußen im Frost warten. Jakabs Palast wirkt wie aus Eis gehauen, wenn Raureif die Türme bedeckt. Zum Abschluss genießen wir das Lichtermeer der Urban-Turm-Beleuchtung in der klaren Winternacht.",
             "hu": "A téli Kassa kerékpáros felfedezése új nézőpontot ad a havas óvárosra. Az útvonal az ünnepi díszbe öltözött Fő utcán vezet az impozáns dómhoz. Délben a múzeumokban melegszünk fel, miközben a biciklik kint várnak a fagyban. A Jakab-palota mintha jégből lenne, amikor zúzmara fedi a tornyait. Végezetül az Orbán-torony fényeiben gyönyörködünk a tiszta téli éjszakában.",
             "ro": "Explorarea orașului Košice pe bicicletă iarna oferă o perspectivă nouă asupra centrului vechi înzăpezit. Traseul duce pe strada Principală decorată festiv către catedrală. La prânz ne încălzim în muzee, în timp ce bicicletele așteaptă afară în ger. Palatul Jakab pare sculptat în gheață când chiciura acoperă turnurile. La final, admirăm marea de lumini de la Turnul Urban în noaptea senină.",
-            "en": "Exploring winter Košice by bike offers a whole new perspective on the snowy old town. The route leads along the festively decorated Main Street to the imposing cathedral. At noon, we warm up in the museums while the bikes wait outside in the frost. Jakab's Palace looks as if carved from ice when hoarfrost covers its towers. To conclude, we enjoy the sea of lights at Urban Tower in the clear winter night."
+            "en": "Exploring winter Košice by bike offers a whole new perspective on the snowy old town. The route leads along the festively decorated Main Street to the imposing cathedral. At noon, we warm up in the museums while the bikes wait outside in the frost. Jakab's Palace looks as if carved from ice when hoarfrost covers its towers. To conclude, we enjoy the sea of lights at Urban Tower in the clear winter night.",
+            "sk": "Prehliadka zimných Košíc na bicykli ponúka úplne nový pohľad na zasnežené staré mesto. Trasa vedie po sviatočne ozdobenej Hlavnej ulici k impozantnému dómu. Na obed sa zohrievame v múzeách, zatiaľ čo bicykle počkajú vonku v mraze. Jakabov palác vyzerá, akoby bol vytesaný z ľadu, keď námraza pokryje jeho veže. Na záver si užijeme more svetiel z Mestskej veže v jasnej zimnej noci."
           },
           "stops": [
             {
@@ -1180,7 +1274,8 @@
                 "de": "Vorsicht vor vereisten Stellen auf dem Pflaster.",
                 "hu": "Vigyázzon a jeges foltokkal a macskakövön.",
                 "ro": "Atenție la porțiunile înghețate de pe pavaj.",
-                "en": "Watch out for icy patches on the pavement."
+                "en": "Watch out for icy patches on the pavement.",
+                "sk": "Dávajte pozor na zamrznuté miesta na chodníku."
               }
             },
             {
@@ -1189,7 +1284,8 @@
                 "de": "Die Statuen tragen im Winter oft Schneemützen.",
                 "hu": "A szobrok télen gyakran hósapkát kapnak.",
                 "ro": "Statuile au adesea căciuli de zăpadă iarna.",
-                "en": "The statues often wear snow caps in winter."
+                "en": "The statues often wear snow caps in winter.",
+                "sk": "Sochy často nosia v zime snehové čiapky."
               }
             },
             {
@@ -1198,7 +1294,8 @@
                 "de": "Kurzer Halt für Fotos, dann schnell ins Warme.",
                 "hu": "Rövid fotómegálló, aztán irány a meleg.",
                 "ro": "Oprire scurtă pentru poze, apoi rapid la căldură.",
-                "en": "Short photo stop, then head for warmth."
+                "en": "Short photo stop, then head for warmth.",
+                "sk": "Krátka fotostop, potom smerujte do tepla."
               }
             },
             {
@@ -1207,7 +1304,8 @@
                 "de": "Besonders fotogen bei blauem Winterhimmel.",
                 "hu": "Különösen fotogén kék téli égbolt mellett.",
                 "ro": "Deosebit de fotogenic sub cerul senin de iarnă.",
-                "en": "Particularly photogenic under a blue winter sky."
+                "en": "Particularly photogenic under a blue winter sky.",
+                "sk": "Obzvlášť fotogenické pod modrou zimnou oblohou."
               }
             },
             {
@@ -1216,7 +1314,8 @@
                 "de": "Museumsbesuch ist die beste Kältepause.",
                 "hu": "A múzeumlátogatás a legjobb pihenő a hidegben.",
                 "ro": "Vizita la muzeu este cea mai bună pauză de frig.",
-                "en": "A museum visit is the best break from the cold."
+                "en": "A museum visit is the best break from the cold.",
+                "sk": "Návšteva múzea je najlepšou prestávkou od chladu."
               }
             },
             {
@@ -1225,7 +1324,8 @@
                 "de": "Fahrradschloss kann bei Frost einfrieren.",
                 "hu": "A kerékpárzár megfagyhat a nagy hidegben.",
                 "ro": "Antifurtul se poate bloca la ger.",
-                "en": "Bike locks can freeze in heavy frost."
+                "en": "Bike locks can freeze in heavy frost.",
+                "sk": "Zámky na bicykloch môžu v silnom mraze zamrznúť."
               }
             },
             {
@@ -1234,7 +1334,8 @@
                 "de": "Die Parkbänke sind oft mit Schnee bedeckt.",
                 "hu": "A parki padokat gyakran hó borítja.",
                 "ro": "Băncile din parc sunt adesea acoperite de zăpadă.",
-                "en": "Park benches are often covered in snow."
+                "en": "Park benches are often covered in snow.",
+                "sk": "Parkové lavičky sú často pokryté snehom."
               }
             },
             {
@@ -1243,7 +1344,8 @@
                 "de": "Abends herrlich beleuchtet.",
                 "hu": "Este gyönyörűen meg van világítva.",
                 "ro": "Iluminat superb pe timpul serii.",
-                "en": "Wonderfully illuminated in the evening."
+                "en": "Wonderfully illuminated in the evening.",
+                "sk": "Veľmi pekne osvetlené večer."
               }
             }
           ],
@@ -1271,6 +1373,12 @@
               "Watch out for snow clearing services in the center.",
               "Tire pressure should be slightly lower for better grip.",
               "Use bright lights for the early darkness."
+            ],
+            "sk": [
+              "Pri jazde noste vetruvzdorné rukavice.",
+              "Dávajte pozor na služby odhŕňania snehu v centre.",
+              "Tlak v pneumatikách by mal byť mierne nižší pre lepšiu priľnavosť.",
+              "Používajte jasné svetlá pre skoré stmievanie."
             ]
           }
         }
@@ -1289,7 +1397,8 @@
             "de": "Parkhaus am Ostslowakischen Museum",
             "hu": "Parkolóház a Kelet-Szlovákiai Múzeumnál",
             "ro": "Parcare la Muzeul Slovaciei de Est",
-            "en": "Parking at the East Slovak Museum"
+            "en": "Parking at the East Slovak Museum",
+            "sk": "Parkovanie pri Východoslovenskom múzeu"
           },
           "coords": [
             21.263,
@@ -1305,7 +1414,8 @@
             "de": "Parken Sie hier, um den ersten Cluster zu Fuß zu erkunden.",
             "hu": "Parkoljon itt, hogy gyalog fedezze fel az első látnivaló-csoportot.",
             "ro": "Parcați aici pentru a explora primul grup de atracții pe jos.",
-            "en": "Park here to explore the first cluster on foot."
+            "en": "Park here to explore the first cluster on foot.",
+            "sk": "Zaparkujte tu, aby ste prieskumnú prvú skupinu prešli pešo."
           }
         },
         {
@@ -1313,7 +1423,8 @@
             "de": "Ostslowakisches Museum",
             "hu": "Kelet-Szlovákiai Múzeum",
             "ro": "Muzeul Slovaciei de Est",
-            "en": "East Slovak Museum"
+            "en": "East Slovak Museum",
+            "sk": "Východoslovenské múzeum"
           },
           "coords": [
             21.2625,
@@ -1329,7 +1440,8 @@
             "de": "Beginnen Sie hier Ihre Tour, um den Goldenen Schatz zu sehen.",
             "hu": "Kezdje itt a túrát, hogy megnézze az Aranykincset.",
             "ro": "Începeți turul aici pentru a vedea Tezaurul de Aur.",
-            "en": "Start your tour here to see the Golden Treasure."
+            "en": "Start your tour here to see the Golden Treasure.",
+            "sk": "Začnite prehliadku tu, aby ste videli Zlatý poklad."
           }
         },
         {
@@ -1337,7 +1449,8 @@
             "de": "Mikluš-Gefängnis",
             "hu": "Miklós börtön",
             "ro": "Închisoarea Mikluš",
-            "en": "Mikluš Prison"
+            "en": "Mikluš Prison",
+            "sk": "Miklušova väznica"
           },
           "coords": [
             21.26,
@@ -1353,7 +1466,8 @@
             "de": "Ein kurzer Spaziergang vom Museum entfernt, tauchen Sie in die mittelalterliche Justiz ein.",
             "hu": "Egy rövid sétára a múzeumtól, merüljön el a középkori igazságszolgáltatásban.",
             "ro": "La o scurtă plimbare de muzeu, pătrundeți în justiția medievală.",
-            "en": "A short walk from the museum, delve into medieval justice."
+            "en": "A short walk from the museum, delve into medieval justice.",
+            "sk": "Krátka prechádzka od múzea, ponorte sa do stredovekého práva."
           }
         },
         {
@@ -1361,7 +1475,8 @@
             "de": "Parkhaus bei der Hauptstraße",
             "hu": "Parkolóház a Fő utcánál",
             "ro": "Parcare lângă Strada Principală",
-            "en": "Parking near Main Street"
+            "en": "Parking near Main Street",
+            "sk": "Parkovanie pri Hlavnej ulici"
           },
           "coords": [
             21.255,
@@ -1377,7 +1492,8 @@
             "de": "Wechseln Sie das Parkhaus für den zweiten Cluster. Mittagessen in der Nähe.",
             "hu": "Váltson parkolóházat a második látnivaló-csoporthoz. Ebéd a közelben.",
             "ro": "Schimbați parcarea pentru al doilea grup de atracții. Prânz în apropiere.",
-            "en": "Change parking garage for the second cluster. Lunch is nearby."
+            "en": "Change parking garage for the second cluster. Lunch is nearby.",
+            "sk": "Preparkujte do garáže pre druhú skupinu. Obed je v blízkosti."
           }
         },
         {
@@ -1385,7 +1501,8 @@
             "de": "Dom der Heiligen Elisabeth",
             "hu": "Szent Erzsébet-dóm",
             "ro": "Catedrala Sfânta Elisabeta",
-            "en": "St. Elisabeth Cathedral"
+            "en": "St. Elisabeth Cathedral",
+            "sk": "Dóm svätej Alžbety"
           },
           "coords": [
             21.2579,
@@ -1401,7 +1518,8 @@
             "de": "Das Herzstück des zweiten Clusters. Planen Sie Zeit für den Turmaufstieg ein.",
             "hu": "A második látnivaló-csoport központi eleme. Tervezzen időt a toronymászásra.",
             "ro": "Piesa centrală a celui de-al doilea grup. Planificați timp pentru a urca în turn.",
-            "en": "The centerpiece of the second cluster. Plan time to climb the tower."
+            "en": "The centerpiece of the second cluster. Plan time to climb the tower.",
+            "sk": "Centrum druhej skupiny. Naplánujte si čas na výstup na vežu."
           }
         },
         {
@@ -1409,7 +1527,8 @@
             "de": "Staatstheater Košice & Singender Brunnen",
             "hu": "Kassai Állami Színház és Éneklő szökőkút",
             "ro": "Teatrul de Stat Košice și Fântâna Cântătoare",
-            "en": "State Theatre Košice & Singing Fountain"
+            "en": "State Theatre Košice & Singing Fountain",
+            "sk": "Štátne divadlo Košice a Spievajúca fontána"
           },
           "coords": [
             21.2581,
@@ -1425,7 +1544,8 @@
             "de": "Diese beiden Attraktionen liegen direkt nebeneinander, perfekt für einen entspannten Nachmittag.",
             "hu": "Ez a két látnivaló közvetlenül egymás mellett található, tökéletes egy pihentető délutánhoz.",
             "ro": "Aceste două atracții sunt chiar una lângă alta, perfecte pentru o după-amiază relaxantă.",
-            "en": "These two attractions are right next to each other, perfect for a relaxing afternoon."
+            "en": "These two attractions are right next to each other, perfect for a relaxing afternoon.",
+            "sk": "Tieto dve atrakcie sú hneď vedľa seba, ideálne na oddychové popoludnie."
           }
         },
         {
@@ -1433,7 +1553,8 @@
             "de": "Aussichtsturm Hradová",
             "hu": "Hradová kilátótorony",
             "ro": "Turnul de observație Hradová",
-            "en": "Hradová Observation Tower"
+            "en": "Hradová Observation Tower",
+            "sk": "Vyhliadková veža Hradová"
           },
           "coords": [
             21.25,
@@ -1449,7 +1570,8 @@
             "de": "Fahren Sie zum Abschluss des Tages auf den Hügel für den besten Panoramablick auf Košice.",
             "hu": "A nap végén hajtson fel a hegyre Kassa legjobb panorámájáért.",
             "ro": "La sfârșitul zilei, conduceți pe deal pentru cea mai bună vedere panoramică a orașului Košice.",
-            "en": "At the end of the day, drive up the hill for the best panoramic view of Košice."
+            "en": "At the end of the day, drive up the hill for the best panoramic view of Košice.",
+            "sk": "Na konci dňa sa vyvezte na kopec pre najlepšiu panorámu Košíc."
           }
         }
       ],
@@ -1457,7 +1579,8 @@
         "de": "Ihr Autotag in Košice ist in zwei fußläufige Cluster aufgeteilt. Sie beginnen im Osten, parken beim Ostslowakischen Museum und erkunden das Museumsviertel mit dem Mikluš-Gefängnis. Am Mittag fahren Sie ins absolute Zentrum, parken erneut und widmen sich dem Dom, dem Theater und dem Brunnen. Zum Abschluss des Tages fahren Sie zum Hradová-Turm, um einen atemberaubenden Blick auf die Stadt zu genießen, die Sie gerade erkundet haben.",
         "hu": "Autós napja Kassán két gyalogos zónára oszlik. Keleten kezd, a Kelet-Szlovákiai Múzeumnál parkol, és felfedezi a múzeumi negyedet a Miklós börtönnel. Délben a központba hajt, újra parkol, és a dómnak, a színháznak és a szökőkútnak szenteli idejét. A nap végén felhajt a Hradová-toronyhoz, hogy élvezze a lenyűgöző kilátást a városra, amelyet éppen felfedezett.",
         "ro": "Ziua dvs. cu mașina în Košice este împărțită în două grupuri pietonale. Începeți în est, parcați la Muzeul Slovaciei de Est și explorați cartierul muzeelor cu Închisoarea Mikluš. La prânz, conduceți spre centrul absolut, parcați din nou și dedicați-vă Catedralei, teatrului și fântânii. La sfârșitul zilei, conduceți spre Turnul Hradová pentru a vă bucura de o priveliște uluitoare asupra orașului pe care tocmai l-ați explorat.",
-        "en": "Your car day in Košice is divided into two walking clusters. You'll start in the east, parking at the East Slovak Museum and exploring the museum quarter with Mikluš Prison. At noon, you'll drive to the absolute center, park again, and dedicate your time to the Cathedral, the theatre, and the fountain. At the end of the day, you'll drive to the Hradová Tower to enjoy a breathtaking view of the city you've just explored."
+        "en": "Your car day in Košice is divided into two walking clusters. You'll start in the east, parking at the East Slovak Museum and exploring the museum quarter with Mikluš Prison. At noon, you'll drive to the absolute center, park again, and dedicate your time to the Cathedral, the theatre, and the fountain. At the end of the day, you'll drive to the Hradová Tower to enjoy a breathtaking view of the city you've just explored.",
+        "sk": "Váš deň autom v Košiciach je rozdelený do dvoch peších okruhov. Začnete na východe, zaparkujete pri Východoslovenskom múzeu a preskúmate múzejné kvartály s Miklušovou väznicou. V poludnie odveziete do absolútneho centra, opäť zaparkujete a venujete čas Dómu, divadlu a fontáne. Na konci dňa sa vyberiete k veži Hradová, aby ste si vychutnali úchvatný výhľad na mesto, ktoré ste práve preskúmali."
       },
       "gastro_picks": {
         "de": [
@@ -1621,6 +1744,13 @@
           "The cluster strategy saves parking fees and stress.",
           "A trip to the surrounding hills is easy and worthwhile by car.",
           "Pay attention to the parking zones and their restrictions."
+        ],
+        "sk": [
+          "Parkovanie v centre môže byť drahé. Využite garáže na okraji pešej zóny.",
+          "Plánujte trasu vopred, aby ste sa vyhli jednosmerným uliciam.",
+          "Strategia s okruhmi šetrí poplatky za parkovanie a stres.",
+          "Výlet do okolitých kopcov autom je jednoduchý a stojí za to.",
+          "Dávajte pozor na parkovacie zóny a ich obmedzenia."
         ]
       },
       "variants": {
@@ -1629,7 +1759,8 @@
             "de": "Ein regnerischer Tag in Košice lässt sich bequem mit dem Auto gestalten, indem man strategisch zwischen den Parkplätzen und den großen Museen pendelt. Wir starten am Ostslowakischen Museum und besuchen danach das Mikluš-Gefängnis, wobei das Auto als trockene Basis dient. Mittags parken wir nahe der Hlavná, um den Dom zu besichtigen. Den Abschluss bildet die Fahrt zur Hradová-Aussicht, wo der Nebel über den Wäldern eine mystische Kulisse schafft.",
             "hu": "Egy esős kassai nap kényelmesen megoldható autóval, stratégiai pontokon parkolva a múzeumok és látnivalók között. A Kelet-szlovákiai Múzeumnál kezdünk, majd a Mikluš-börtön következik, miközben az autó száraz bázisként szolgál. Délben a Fő utca közelében parkolunk a dómhoz. A napot a Hradová-kilátóhoz való felhajtás zárja, ahol a ködös erdő misztikus látványt nyújt.",
             "ro": "O zi ploioasă în Košice poate fi parcursă confortabil cu mașina, pendulând între parcări și marile muzee. Începem la Muzeul Slovaciei de Est și vizităm apoi închisoarea Mikluš, mașina servind drept bază uscată. La prânz parcăm lângă strada Principală pentru catedrală. Finalul este marcat de drumul spre turnul de observație Hradová, unde ceața peste păduri creează un cadru mistic.",
-            "en": "A rainy day in Košice can be comfortably spent by car, strategically shuttling between parking lots and major museums. We start at the East Slovak Museum and then visit Mikluš Prison, using the car as a dry base. At noon, we park near Main Street to see the cathedral. The day concludes with a drive to the Hradová observation tower, where mist over the forests creates a mystical backdrop."
+            "en": "A rainy day in Košice can be comfortably spent by car, strategically shuttling between parking lots and major museums. We start at the East Slovak Museum and then visit Mikluš Prison, using the car as a dry base. At noon, we park near Main Street to see the cathedral. The day concludes with a drive to the Hradová observation tower, where mist over the forests creates a mystical backdrop.",
+            "sk": "Dáždivý deň v Košiciach sa dá pohodlne stráviť autom, strategicky presúvajúc sa medzi parkoviskami a hlavnými múzeami. Začíname pri Východoslovenskom múzeu a potom navštívime Miklušovu väznicu, pričom auto slúži ako suchá základňa. V poludnie parkujeme pri Hlavnej ulici pri Dóme. Deň končíme jazdou na vyhliadkovú vežu Hradová, kde hmla nad lesmi vytvára mystické pozadie."
           },
           "stops": [
             {
@@ -1638,7 +1769,8 @@
                 "de": "Oft Pfützenbildung auf dem Parkplatz.",
                 "hu": "A parkolóban gyakran alakulnak ki tócsák.",
                 "ro": "Adesea se formează bălți în parcare.",
-                "en": "Puddles often form in the parking lot."
+                "en": "Puddles often form in the parking lot.",
+                "sk": "Na parkovisku sa často tvoria mláky."
               }
             },
             {
@@ -1647,7 +1779,8 @@
                 "de": "Kurzer Weg vom Auto zum Eingang.",
                 "hu": "Rövid séta az autótól a bejáratig.",
                 "ro": "Drum scurt de la mașină la intrare.",
-                "en": "Short walk from the car to the entrance."
+                "en": "Short walk from the car to the entrance.",
+                "sk": "Krátka prechádzka od auta k vchodu."
               }
             },
             {
@@ -1656,7 +1789,8 @@
                 "de": "Parken Sie in der nahen Seitenstraße.",
                 "hu": "Parkoljon a közeli mellékutcában.",
                 "ro": "Parcați pe strada laterală din apropiere.",
-                "en": "Park in the nearby side street."
+                "en": "Park in the nearby side street.",
+                "sk": "Zaparkujte na priľahlej vedľajšej ulici."
               }
             },
             {
@@ -1665,7 +1799,8 @@
                 "de": "Überdachte Parkhäuser in der Nähe bevorzugen.",
                 "hu": "Részesítse előnyben a közeli fedett parkolóházakat.",
                 "ro": "Preferați parcările supraetajate acoperite din zonă.",
-                "en": "Prefer covered parking garages nearby."
+                "en": "Prefer covered parking garages nearby.",
+                "sk": "Uprednostnite kryté parkovacie garáže v blízkosti."
               }
             },
             {
@@ -1674,7 +1809,8 @@
                 "de": "Regenschirm für die kurze Fußgängerzone.",
                 "hu": "Esernyő ajánlott a rövid gyalogos szakaszra.",
                 "ro": "Umbrelă recomandată pentru zona pietonală scurtă.",
-                "en": "Umbrella recommended for the short pedestrian zone."
+                "en": "Umbrella recommended for the short pedestrian zone.",
+                "sk": "Doporučený dáždnik pre krátku pešiu zónu."
               }
             },
             {
@@ -1683,7 +1819,8 @@
                 "de": "Die Fontäne wirkt im Regen besonders dynamisch.",
                 "hu": "A szökőkút esőben kifejezetten dinamikus látvány.",
                 "ro": "Fântâna pare foarte dinamică pe ploaie.",
-                "en": "The fountain looks particularly dynamic in the rain."
+                "en": "The fountain looks particularly dynamic in the rain.",
+                "sk": "Fontána vyzerá v daždi obzvlášť dynamicky."
               }
             },
             {
@@ -1692,7 +1829,8 @@
                 "de": "Vorsicht auf der kurvigen Bergstraße.",
                 "hu": "Vigyázzon a kanyargós hegyi úton az esőben.",
                 "ro": "Atenție pe drumul de munte sinuos pe ploaie.",
-                "en": "Be careful on the winding mountain road in the rain."
+                "en": "Be careful on the winding mountain road in the rain.",
+                "sk": "Buďte opatrní na kľukatej horskej ceste v daždi."
               }
             }
           ],
@@ -1720,6 +1858,12 @@
               "Check visibility conditions before heading to Hradová.",
               "Check wipers before the mountain drive.",
               "Many museums have parking lots right at the door."
+            ],
+            "sk": [
+              "Pre suchý prístup použite garáž Aupark.",
+              "Skontrolujte viditeľnosť pred odjazdom na Hradovú.",
+              "Skontrolujte stierače pred horskou jazdou.",
+              "Mnohé múzeá majú parkoviská priamo pri vchode."
             ]
           }
         },
@@ -1728,7 +1872,8 @@
             "de": "Winterkomfort in Košice bedeutet, die beheizten Vorzüge des Autos zu nutzen, während draußen der Schnee die Stadt verzaubert. Die Tour beginnt an den warmen Ausstellungen des Ostslowakischen Museums und führt weiter zum Mikluš-Gefängnis. Mittags bietet das Parken in Zentrumsnähe einen kurzen Weg zum Elisabeth-Dom. Die Krönung ist die Fahrt zur Hradová, wo man oft einen weiten Blick über die schneebedeckten Dächer von Košice und das Umland hat.",
             "hu": "A téli kényelem Kassán az autó fűtött kényelmét jelenti, miközben kint a hó elvarázsolja a várost. A túra a Kelet-szlovákiai Múzeum meleg kiállításaival indul, majd a Mikluš-börtön következik. Délben a belváros közeli parkolás rövid sétát tesz lehetővé a dómhoz. A nap fénypontja a Hradovára való felhajtás, ahonnan gyakran tiszta kilátás nyílik Kassa havas háztetőire.",
             "ro": "Confortul de iarnă în Košice înseamnă utilizarea mașinii încălzite, în timp ce afară zăpada vrăjește orașul. Turul începe la expozițiile calde ale Muzeului Slovaciei de Est și continuă spre închisoarea Mikluš. La prânz, parcarea aproape de centru permite un drum scurt spre catedrală. Punctul culminant este drumul spre Hradová, de unde aveți adesea o vedere panoramică peste acoperișurile înzăpezite.",
-            "en": "Winter comfort in Košice means using the heated car while snow enchants the city outside. The tour begins at the warm exhibitions of the East Slovak Museum and continues to Mikluš Prison. At noon, parking near the center allows for a short walk to the cathedral. The highlight is the drive to Hradová, where you often have a clear view over the snow-covered rooftops."
+            "en": "Winter comfort in Košice means using the heated car while snow enchants the city outside. The tour begins at the warm exhibitions of the East Slovak Museum and continues to Mikluš Prison. At noon, parking near the center allows for a short walk to the cathedral. The highlight is the drive to Hradová, where you often have a clear view over the snow-covered rooftops.",
+            "sk": "Zimné pohodlie v Košiciach znamená využívať vyhrievané auto, zatiaľ čo vonku mesto očarí sneh. Prehliadka začína pri teplých expozíciách Východoslovenského múzea a pokračuje k Miklušovej väznici. V poludnie parkovanie pri centre umožní krátku prechádzku k Dómu. Vrcholom je jazda na Hradovú, odkiaľ často máte jasný výhľad ponad snehom pokryté strechy."
           },
           "stops": [
             {
@@ -1737,7 +1882,8 @@
                 "de": "Parkplatz wird meist schnell geräumt.",
                 "hu": "A parkolót általában gyorsan letakarítják.",
                 "ro": "Parcarea este de obicei deszăpezită rapid.",
-                "en": "The parking lot is usually cleared quickly."
+                "en": "The parking lot is usually cleared quickly.",
+                "sk": "Parkovisko sa zvyčajne rýchlo upratuje."
               }
             },
             {
@@ -1746,7 +1892,8 @@
                 "de": "Lassen Sie die Mäntel an der Garderobe.",
                 "hu": "Hagyja a kabátokat a ruhatárban.",
                 "ro": "Lăsați hainele la garderobă.",
-                "en": "Leave your coats in the cloakroom."
+                "en": "Leave your coats in the cloakroom.",
+                "sk": "Zanechajte kabáty v šatni."
               }
             },
             {
@@ -1755,7 +1902,8 @@
                 "de": "Kurzer Fußweg durch die historische Gasse.",
                 "hu": "Rövid séta a történelmi közön keresztül.",
                 "ro": "Drum scurt pe jos prin aleea istorică.",
-                "en": "Short walk through the historic alley."
+                "en": "Short walk through the historic alley.",
+                "sk": "Krátka prechádzka cez historický priechod."
               }
             },
             {
@@ -1764,7 +1912,8 @@
                 "de": "Vorsicht beim Einparken in Schneehaufen.",
                 "hu": "Vigyázzon a hóbuckák közötti parkolásnál.",
                 "ro": "Atenție la parcarea printre mormane de zăpadă.",
-                "en": "Be careful when parking between snow banks."
+                "en": "Be careful when parking between snow banks.",
+                "sk": "Buďte opatrní pri parkovaní medzi snehovými múrikmi."
               }
             },
             {
@@ -1773,7 +1922,8 @@
                 "de": "Der Platz davor wird festlich beleuchtet.",
                 "hu": "A dóm előtti tér ünnepi megvilágítást kap.",
                 "ro": "Piața din față este iluminată festiv.",
-                "en": "The square in front is festively illuminated."
+                "en": "The square in front is festively illuminated.",
+                "sk": "Námestie vpredu je slávnostne osvetlené."
               }
             },
             {
@@ -1782,7 +1932,8 @@
                 "de": "Eisformationen an der Fontäne möglich.",
                 "hu": "Jégalakzatok képződhetnek a szökőkútnál.",
                 "ro": "Se pot forma formațiuni de gheață la fântână.",
-                "en": "Ice formations may occur at the fountain."
+                "en": "Ice formations may occur at the fountain.",
+                "sk": "Pri fontáne sa môžu vytvárať ľadové útvary."
               }
             },
             {
@@ -1791,7 +1942,8 @@
                 "de": "Winterreifen und Vorsicht sind Pflicht.",
                 "hu": "Téli gumi és óvatosság kötelező.",
                 "ro": "Anvelopele de iarnă și prudența sunt obligatorii.",
-                "en": "Winter tires and caution are mandatory."
+                "en": "Winter tires and caution are mandatory.",
+                "sk": "Povinné sú zimné pneumatiky a opatrnosť."
               }
             }
           ],
@@ -1819,6 +1971,12 @@
               "Watch out for black ice in side streets.",
               "Hradová is spectacular at sunset.",
               "Keep de-icer ready for the locks."
+            ],
+            "sk": [
+              "Parkovacie garáže sú pre auto teplejšie.",
+              "Dávajte pozor na čierny ľad na vedľajších uliciach.",
+              "Hradová je spektakulárna pri západe slnka.",
+              "Majte pripravený rozmrazovač na zámky."
             ]
           }
         }
@@ -1837,7 +1995,8 @@
             "de": "Haltestelle Námestie osloboditeľov",
             "hu": "Námestie osloboditeľov megálló",
             "ro": "Stația Námestie osloboditeľov",
-            "en": "Námestie osloboditeľov stop"
+            "en": "Námestie osloboditeľov stop",
+            "sk": "Zastávka Námestie osloboditeľov"
           },
           "coords": [
             21.2619,
@@ -1853,7 +2012,8 @@
             "de": "Dies ist ein zentraler Knotenpunkt, von dem aus Sie den südlichen Teil der Altstadt erreichen.",
             "hu": "Ez egy központi csomópont, ahonnan elérheti az óváros déli részét.",
             "ro": "Acesta este un nod central de unde puteți ajunge în partea de sud a orașului vechi.",
-            "en": "This is a central hub from which you can reach the southern part of the old town."
+            "en": "This is a central hub from which you can reach the southern part of the old town.",
+            "sk": "Toto je centrálny uzol, z ktorého sa dostanete do južnej časti starého mesta."
           }
         },
         {
@@ -1861,7 +2021,8 @@
             "de": "Jakab-Palais",
             "hu": "Jakab-palota",
             "ro": "Palatul Jakab",
-            "en": "Jakab's Palace"
+            "en": "Jakab's Palace",
+            "sk": "Jakabov palác"
           },
           "coords": [
             21.2628,
@@ -1877,7 +2038,8 @@
             "de": "Ein kurzer Spaziergang von der Haltestelle zu diesem architektonischen Juwel.",
             "hu": "Rövid séta a megállótól ehhez az építészeti gyöngyszemhez.",
             "ro": "O scurtă plimbare de la stație până la această bijuterie arhitecturală.",
-            "en": "A short walk from the stop to this architectural gem."
+            "en": "A short walk from the stop to this architectural gem.",
+            "sk": "Krátka prechádzka zo zastávky k tomuto architektonickému skvostu."
           }
         },
         {
@@ -1885,7 +2047,8 @@
             "de": "Ostslowakisches Museum",
             "hu": "Kelet-Szlovákiai Múzeum",
             "ro": "Muzeul Slovaciei de Est",
-            "en": "East Slovak Museum"
+            "en": "East Slovak Museum",
+            "sk": "Východoslovenské múzeum"
           },
           "coords": [
             21.2625,
@@ -1901,7 +2064,8 @@
             "de": "Verbringen Sie den Vormittag hier, bevor Sie weiter ins Zentrum gehen.",
             "hu": "Töltse itt a délelőttöt, mielőtt továbbmegy a központba.",
             "ro": "Petreceți dimineața aici înainte de a merge mai departe în centru.",
-            "en": "Spend the morning here before heading further into the center."
+            "en": "Spend the morning here before heading further into the center.",
+            "sk": "Strávte tu dopoludnie predtým, než sa vydáte ďalej do centra."
           }
         },
         {
@@ -1909,7 +2073,8 @@
             "de": "Haltestelle Dom sv. Alžbety",
             "hu": "Dom sv. Alžbety megálló",
             "ro": "Stația Dom sv. Alžbety",
-            "en": "Dom sv. Alžbety stop"
+            "en": "Dom sv. Alžbety stop",
+            "sk": "Zastávka Dóm sv. Alžbety"
           },
           "coords": [
             21.259,
@@ -1925,7 +2090,8 @@
             "de": "Nehmen Sie die Straßenbahn, um zum zweiten, zentralen Cluster zu gelangen.",
             "hu": "Menjen villamossal a második, központi zónába.",
             "ro": "Luați tramvaiul pentru a ajunge la al doilea grup, cel central.",
-            "en": "Take the tram to get to the second, central cluster."
+            "en": "Take the tram to get to the second, central cluster.",
+            "sk": "Sadnite na električku, aby ste sa dostali do druhej, centrálnej skupiny."
           }
         },
         {
@@ -1933,7 +2099,8 @@
             "de": "Dom der Heiligen Elisabeth",
             "hu": "Szent Erzsébet-dóm",
             "ro": "Catedrala Sfânta Elisabeta",
-            "en": "St. Elisabeth Cathedral"
+            "en": "St. Elisabeth Cathedral",
+            "sk": "Dóm svätej Alžbety"
           },
           "coords": [
             21.2579,
@@ -1949,7 +2116,8 @@
             "de": "Steigen Sie aus und stehen Sie direkt vor dem Wahrzeichen der Stadt.",
             "hu": "Szálljon le, és máris a város jelképe előtt áll.",
             "ro": "Coborâți și vă veți afla chiar în fața emblemei orașului.",
-            "en": "Get off and find yourself right in front of the city's landmark."
+            "en": "Get off and find yourself right in front of the city's landmark.",
+            "sk": "Vystúpte a ocitnete sa priamo pred mestskou dominantou."
           }
         },
         {
@@ -1957,7 +2125,8 @@
             "de": "Hauptstraße & Pestsäule",
             "hu": "Fő utca és Pestis-szobor",
             "ro": "Strada Principală și Coloana Ciumei",
-            "en": "Main Street & Plague Column"
+            "en": "Main Street & Plague Column",
+            "sk": "Hlavná ulica a Morový stĺp"
           },
           "coords": [
             21.2577,
@@ -1973,7 +2142,8 @@
             "de": "Nehmen Sie sich Zeit für das Mittagessen und zum Schlendern auf dieser wunderschönen Straße.",
             "hu": "Szánjon időt az ebédre és a sétára ezen a gyönyörű utcán.",
             "ro": "Luați-vă timp pentru prânz și pentru a vă plimba pe această stradă frumoasă.",
-            "en": "Take your time for lunch and to stroll down this beautiful street."
+            "en": "Take your time for lunch and to stroll down this beautiful street.",
+            "sk": "Doprajte si čas na obed a prechádzku po tejto krásnej ulici."
           }
         },
         {
@@ -1981,7 +2151,8 @@
             "de": "Singender Brunnen & Staatstheater",
             "hu": "Éneklő szökőkút és Állami Színház",
             "ro": "Fântâna Cântătoare și Teatrul de Stat",
-            "en": "Singing Fountain & State Theatre"
+            "en": "Singing Fountain & State Theatre",
+            "sk": "Spievajúca fontána a Štátne divadlo"
           },
           "coords": [
             21.2583,
@@ -1997,7 +2168,8 @@
             "de": "Ein entspannter Abschluss des Tages. Die Abendvorstellung des Brunnens ist besonders schön.",
             "hu": "Pihentető befejezése a napnak. A szökőkút esti előadása különösen szép.",
             "ro": "Un final relaxant al zilei. Spectacolul de seară al fântânii este deosebit de frumos.",
-            "en": "A relaxing end to the day. The evening performance of the fountain is particularly beautiful."
+            "en": "A relaxing end to the day. The evening performance of the fountain is particularly beautiful.",
+            "sk": "Uvoľnený záver dňa. Večerné predstavenie fontány je obzvlášť krásne."
           }
         }
       ],
@@ -2005,7 +2177,8 @@
         "de": "Mit öffentlichen Verkehrsmitteln navigieren Sie clever durch Košice. Sie starten am südlichen Ende der Altstadt und erkunden zu Fuß das Viertel um den Jakab-Palast und das Ostslowakische Museum. Eine kurze Straßenbahnfahrt bringt Sie am Mittag ins Herz der Stadt, zum Dom. Von dort aus erkunden Sie den Rest des Tages das zentrale Cluster zu Fuß, schlendern über die Hauptstraße und beenden Ihren Tag bei der magischen Atmosphäre des Singenden Brunnens.",
         "hu": "Tömegközlekedéssel okosan navigálhat Kassán. Az óváros déli végénél kezd, és gyalog fedezi fel a Jakab-palota és a Kelet-Szlovákiai Múzeum környékét. Egy rövid villamosút viszi délben a város szívébe, a dómhoz. Onnan a nap hátralévő részében gyalogosan fedezi fel a központi zónát, sétál a Fő utcán, és a napot az Éneklő szökőkút varázslatos hangulatánál fejezi be.",
         "ro": "Cu transportul public, navigați inteligent prin Košice. Începeți la capătul sudic al orașului vechi și explorați pe jos cartierul din jurul Palatului Jakab și al Muzeului Slovaciei de Est. O scurtă călătorie cu tramvaiul vă duce la prânz în inima orașului, la Catedrală. De acolo, explorați restul zilei grupul central pe jos, plimbându-vă pe Strada Principală și încheind ziua în atmosfera magică a Fântânii Cântătoare.",
-        "en": "Using public transport, you can navigate Košice cleverly. You start at the southern end of the old town and explore the quarter around Jakab's Palace and the East Slovak Museum on foot. A short tram ride takes you to the heart of the city, the Cathedral, at noon. From there, you'll explore the central cluster on foot for the rest of the day, strolling along Main Street and ending your day in the magical atmosphere of the Singing Fountain."
+        "en": "Using public transport, you can navigate Košice cleverly. You start at the southern end of the old town and explore the quarter around Jakab's Palace and the East Slovak Museum on foot. A short tram ride takes you to the heart of the city, the Cathedral, at noon. From there, you'll explore the central cluster on foot for the rest of the day, strolling along Main Street and ending your day in the magical atmosphere of the Singing Fountain.",
+        "sk": "Použitím MHD môžete Košice múdro preskúmať. Začnete na južnom konci starého mesta a pešo prejdete štvrť okolo Jakabovho paláca a Východoslovenského múzea. Krátka jazda električkou vás zavezie do srdca mesta k Dómu v poludňajších hodinách. Odtiaľ preskúmate centrálnu skupinu pešo počas zvyšku dňa, prejdete Hlavnou ulicou a zakončíte deň v čarovnej atmosfére Spievajúcej fontány."
       },
       "gastro_picks": {
         "de": [
@@ -2169,6 +2342,13 @@
           "Check the schedule in advance, especially in the evening.",
           "Most stops in the center are equipped with digital displays.",
           "The `imhd.sk` app is very useful for route planning in Slovakia."
+        ],
+        "sk": [
+          "Kúpte si celodenný lístok na MHD a ušetrite.",
+          "Električky sú najefektívnejší spôsob cestovania po hlavných osiach mesta.",
+          "Skontrolujte cestovný poriadok vopred, najmä večer.",
+          "Väčšina zastávok v centre má digitálne displeje.",
+          "Aplikácia imhd.sk je veľmi užitočná pri plánovaní trás na Slovensku."
         ]
       },
       "variants": {
@@ -2177,7 +2357,8 @@
             "de": "Mit den öffentlichen Verkehrsmitteln lässt sich Košice auch bei Regen wunderbar erkunden. Wir starten am Knotenpunkt Námestie osloboditeľov und fahren direkt zum Ostslowakischen Museum. Die kurzen Wege zwischen den Haltestellen und den Sehenswürdigkeiten minimieren den Kontakt mit dem Regen. Mittags bringt uns die Tram zum Dom, wo wir im Trockenen verweilen können. Der Tag endet bequem mit einer Busfahrt zurück, während man die nassen Straßen aus dem Fenster beobachtet.",
             "hu": "Tömegközlekedéssel Kassa esőben is remekül felfedezhető. A Námestie osloboditeľov csomóponttól indulunk, és közvetlenül a Kelet-szlovákiai Múzeumhoz utazunk. A megállók és a látnivalók közötti rövid távolság minimalizálja az esőben töltött időt. Délben a villamos a dómhoz repít, ahol szárazon maradhatunk. A nap kényelmesen ér véget a buszon, miközben az ablakból figyeljük a vizes utcákat.",
             "ro": "Cu transportul public, Košice poate fi explorat minunat chiar și pe ploaie. Începem de la nodul Námestie osloboditeľov și mergem direct la Muzeul Slovaciei de Est. Distanțele scurte între stații și obiective minimizează contactul cu ploaia. La prânz, tramvaiul ne duce la catedrală, unde putem rămâne la uscat. Ziua se încheie confortabil cu o cursă de autobuz, privind străzile ude de la fereastră.",
-            "en": "With public transport, Košice can be wonderfully explored even in the rain. We start at the Námestie osloboditeľov hub and travel directly to the East Slovak Museum. The short distances between stops and sights minimize contact with the rain. At noon, the tram takes us to the cathedral, where we can stay dry. The day ends comfortably with a bus ride back, watching the wet streets from the window."
+            "en": "With public transport, Košice can be wonderfully explored even in the rain. We start at the Námestie osloboditeľov hub and travel directly to the East Slovak Museum. The short distances between stops and sights minimize contact with the rain. At noon, the tram takes us to the cathedral, where we can stay dry. The day ends comfortably with a bus ride back, watching the wet streets from the window.",
+            "sk": "S MHD sa dá Košice veľmi dobre preskúmať aj v daždi. Začíname na uzle Námestie osloboditeľov a ideme priamo k Východoslovenskému múzeu. Krátke vzdialenosti medzi zastávkami a pamiatkami minimalizujú kontakt s dažďom. V poludnie nás električka zavezie k Dómu, kde môžeme zostať v suchu. Deň končí pohodlnou autobusovou jazdou späť, sledujúc mokré ulice z okna."
           },
           "stops": [
             {
@@ -2186,7 +2367,8 @@
                 "de": "Großer Unterstand am zentralen Knotenpunkt.",
                 "hu": "Nagy fedett várakozó a központi csomópontnál.",
                 "ro": "Adăpost mare la nodul central.",
-                "en": "Large shelter at the central hub."
+                "en": "Large shelter at the central hub.",
+                "sk": "Veľké prístrešie v centrálnom uzle."
               }
             },
             {
@@ -2195,7 +2377,8 @@
                 "de": "Nur 2 Minuten Fußweg von der Haltestelle.",
                 "hu": "Csak 2 perc séta a megállótól.",
                 "ro": "Doar 2 minute de mers pe jos de la stație.",
-                "en": "Only a 2-minute walk from the stop."
+                "en": "Only a 2-minute walk from the stop.",
+                "sk": "Len 2-minútová prechádzka od zastávky."
               }
             },
             {
@@ -2204,7 +2387,8 @@
                 "de": "Die Straßenbahn hält fast vor der Tür.",
                 "hu": "A villamos szinte az ajtó előtt áll meg.",
                 "ro": "Tramvaiul oprește aproape în fața ușii.",
-                "en": "The tram stops almost in front of the door."
+                "en": "The tram stops almost in front of the door.",
+                "sk": "Električka zastavuje takmer pred dverami."
               }
             },
             {
@@ -2213,7 +2397,8 @@
                 "de": "Zentraler Ausstiegspunkt im Trockenen.",
                 "hu": "Központi leszállóhely a dóm közelében.",
                 "ro": "Punct central de coborâre lângă catedrală.",
-                "en": "Central drop-off point near the cathedral."
+                "en": "Central drop-off point near the cathedral.",
+                "sk": "Centrálny výstupný bod pri Dóme."
               }
             },
             {
@@ -2222,7 +2407,8 @@
                 "de": "Verweilen Sie länger in der Schatzkammer.",
                 "hu": "Időzzön többet a kincstárban.",
                 "ro": "Zăboviți mai mult în trezorerie.",
-                "en": "Spend more time in the treasury."
+                "en": "Spend more time in the treasury.",
+                "sk": "Strávte viac času v pokladnici."
               }
             },
             {
@@ -2231,7 +2417,8 @@
                 "de": "Nutzen Sie die Durchgänge zwischen den Häusern.",
                 "hu": "Használja a házak közötti átjárókat.",
                 "ro": "Folosiți pasajele dintre clădiri.",
-                "en": "Use the passages between the buildings."
+                "en": "Use the passages between the buildings.",
+                "sk": "Využite priechody medzi budovami."
               }
             },
             {
@@ -2240,7 +2427,8 @@
                 "de": "Schneller Weg zur nächsten Tramhaltestelle.",
                 "hu": "Gyors út a következő villamosmegállóhoz.",
                 "ro": "Drum rapid către următoarea stație de tramvai.",
-                "en": "Quick path to the next tram stop."
+                "en": "Quick path to the next tram stop.",
+                "sk": "Rýchla trasa k ďalšej zastávke električky."
               }
             }
           ],
@@ -2268,6 +2456,12 @@
               "Tram line 2 connects almost all destinations.",
               "Stops in the center are mostly covered.",
               "Timetables are very reliable in the rain."
+            ],
+            "sk": [
+              "Kúpte si lístky vopred cez aplikáciu.",
+              "Linka električky 2 spája takmer všetky destinácie.",
+              "Zastávky v centre sú prevažne kryté.",
+              "Cestovné poriadky sú v daždi veľmi spoľahlivé."
             ]
           }
         },
@@ -2276,7 +2470,8 @@
             "de": "Das winterliche Košice lässt sich am besten in den warmen Fahrzeugen der Verkehrsbetriebe entdecken. Von Námestie osloboditeľov geht es schnell zum Ostslowakischen Museum, wo die Schätze im Warmen warten. Die kurzen Wege im Zentrum zum Elisabeth-Dom sind auch bei Schnee kein Hindernis. Nachmittags genießen wir die Atmosphäre der beleuchteten Hlavná, bevor wir mit der nächsten Tram direkt zurück ins Warme fahren. Ein gemütlicher Weg, die winterliche Stadt ohne kalte Füße zu sehen.",
             "hu": "A téli Kassa a legjobban a közlekedési vállalat meleg járművein fedezhető fel. A Námestie osloboditeľovtól gyorsan eljutunk a Kelet-szlovákiai Múzeumba, ahol melegben várnak a kincsek. A belvárosi rövid séták a dómhoz hóban sem jelentenek akadályt. Délután az ünnepi fényekben úszó Fő utca hangulatát élvezzük, mielőtt a következő villamossal visszautaznánk a melegbe. Kényelmes módja a téli városnézésnek.",
             "ro": "Košice iarna se descoperă cel mai bine în vehiculele calde ale regiei de transport. De la Námestie osloboditeľov ajungem rapid la Muzeul Slovaciei de Est, unde comorile așteaptă la căldură. Drumurile scurte din centru spre catedrală nu sunt un obstacol nici pe zăpadă. După-amiaza ne bucurăm de atmosfera străzii Principală iluminate, înainte de a ne întoarce cu următorul tramvai la căldură. O cale confortabilă de vizitare.",
-            "en": "Winter Košice is best discovered in the warm vehicles of the public transport service. From Námestie osloboditeľov, it is a quick trip to the East Slovak Museum, where treasures await in the warmth. Short walks in the center to the cathedral are no obstacle even in the snow. In the afternoon, we enjoy the atmosphere of illuminated Main Street before heading back in the warmth of the next tram."
+            "en": "Winter Košice is best discovered in the warm vehicles of the public transport service. From Námestie osloboditeľov, it is a quick trip to the East Slovak Museum, where treasures await in the warmth. Short walks in the center to the cathedral are no obstacle even in the snow. In the afternoon, we enjoy the atmosphere of illuminated Main Street before heading back in the warmth of the next tram.",
+            "sk": "Zimné Košice sa najlepšie objavujú vo vyhrievaných vozidlách MHD. Z Námestia osloboditeľov je to rýchla cesta k Východoslovenskému múzeu, kde v teple na vás čakajú poklady. Krátke prechádzky v centre k Dómu nie sú prekážkou ani v snehu. Poobede si užívame atmosféru osvetlenej Hlavnej ulice, než sa v teple nasúvame do ďalšej električky späť."
           },
           "stops": [
             {
@@ -2285,7 +2480,8 @@
                 "de": "Beheizte Wartebereiche in nahen Einkaufszentren.",
                 "hu": "Fűtött váróhelyek a közeli bevásárlóközpontokban.",
                 "ro": "Zone de așteptare încălzite în mall-urile din apropiere.",
-                "en": "Heated waiting areas in nearby malls."
+                "en": "Heated waiting areas in nearby malls.",
+                "sk": "Vyhrievané čakacie priestory v blízkych nákupných centrách."
               }
             },
             {
@@ -2294,7 +2490,8 @@
                 "de": "Im Schnee wirkt der Palast wie verzaubert.",
                 "hu": "A hóban a palota elvarázsoltnak tűnik.",
                 "ro": "În zăpadă, palatul pare fermecat.",
-                "en": "In the snow, the palace looks enchanted."
+                "en": "In the snow, the palace looks enchanted.",
+                "sk": "V snehu palác vyzerá očarujúco."
               }
             },
             {
@@ -2303,7 +2500,8 @@
                 "de": "Perfekte Aufwärmpause zwischen den Fahrten.",
                 "hu": "Tökéletes melegedő szünet az utak között.",
                 "ro": "Pauză perfectă de încălzire între drumuri.",
-                "en": "Perfect warm-up break between rides."
+                "en": "Perfect warm-up break between rides.",
+                "sk": "Perfektná prestávka na zahriatie medzi jazdami."
               }
             },
             {
@@ -2312,7 +2510,8 @@
                 "de": "Häufige Taktung der Bahnen im Winter.",
                 "hu": "A villamosok télen is sűrűn járnak.",
                 "ro": "Frecvență mare a tramvaielor iarna.",
-                "en": "Frequent tram services in winter."
+                "en": "Frequent tram services in winter.",
+                "sk": "V zime premávajú častejšie električky."
               }
             },
             {
@@ -2321,7 +2520,8 @@
                 "de": "Besuchen Sie die Krypta für Windschutz.",
                 "hu": "Látogassa meg a kriptát a szélvédelemért.",
                 "ro": "Vizitați cripta pentru protecție la vânt.",
-                "en": "Visit the crypt for wind protection."
+                "en": "Visit the crypt for wind protection.",
+                "sk": "Navštívte kryptu ako ochranu pred vetrom."
               }
             },
             {
@@ -2330,7 +2530,8 @@
                 "de": "Der Wintermarkt ist nur Schritte entfernt.",
                 "hu": "A téli vásár csak pár lépésre van.",
                 "ro": "Târgul de iarnă este la doar câțiva pași.",
-                "en": "The winter market is just steps away."
+                "en": "The winter market is just steps away.",
+                "sk": "Vianočný trh je len pár krokov ďalej."
               }
             },
             {
@@ -2339,7 +2540,8 @@
                 "de": "Tramhaltestelle bietet Schutz vor dem Wind.",
                 "hu": "A villamosmegálló védelmet nyújt a szél ellen.",
                 "ro": "Stația de tramvai oferă protecție contra vântului.",
-                "en": "The tram stop provides protection from the wind."
+                "en": "The tram stop provides protection from the wind.",
+                "sk": "Zastávka električky poskytuje úkryt pred vetrom."
               }
             }
           ],
@@ -2367,6 +2569,12 @@
               "Use the app for real-time departures.",
               "Evening tram rides are very atmospheric with the lights.",
               "Watch out for slush at the stops."
+            ],
+            "sk": [
+              "Električky sú v zime zvyčajne dobre vykurované.",
+              "Použite aplikáciu pre odchody v reálnom čase.",
+              "Večerné jazdy električkou sú so svetlami veľmi atmosférické.",
+              "Dávajte pozor na rozmočený sneh pri zastávkach."
             ]
           }
         }

@@ -21,7 +21,8 @@
             "de": "Städtisches Rathaus und Hauptplatz",
             "hu": "Városháza és Fő tér",
             "ro": "Primăria și Piața Principală",
-            "en": "Town Hall and Main Square"
+            "en": "Town Hall and Main Square",
+            "sk": "Radnica a Hlavné námestie"
           },
           "coords": [
             18.1645,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie hier mit einem Kaffee in einem der lokalen Cafés.",
             "hu": "Indítsa a napot egy kávéval a helyi kávézók egyikében.",
             "ro": "Începeți ziua cu o cafea la una dintre cafenelele locale.",
-            "en": "Start your day with a coffee at one of the local cafes here."
+            "en": "Start your day with a coffee at one of the local cafes here.",
+            "sk": "Začnite deň kávou v jednej z miestnych kaviarní."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Dreifaltigkeitssäule",
             "hu": "Szentháromság-szobor",
             "ro": "Statuia Sfintei Treimi",
-            "en": "Holy Trinity Column"
+            "en": "Holy Trinity Column",
+            "sk": "Stĺp Najsvätejšej Trojice"
           },
           "coords": [
             18.1648,
@@ -59,7 +62,8 @@
             "de": "Ein schönes Fotomotiv im Herzen der Stadt.",
             "hu": "Nagyszerű fotótéma a város szívében.",
             "ro": "Un subiect frumos pentru fotografii în inima orașului.",
-            "en": "A beautiful photo opportunity in the heart of the city."
+            "en": "A beautiful photo opportunity in the heart of the city.",
+            "sk": "Krásna príležitosť na fotografiu v srdci mesta."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Kirche der Kreuzerhöhung",
             "hu": "Szent Kereszt Felmagasztalása templom",
             "ro": "Biserica Înălțarea Sfintei Cruci",
-            "en": "Church of the Exaltation of the Holy Cross"
+            "en": "Church of the Exaltation of the Holy Cross",
+            "sk": "Kostol Povýšenia svätého Kríža"
           },
           "coords": [
             18.163,
@@ -82,7 +87,8 @@
             "de": "Achten Sie auf die barocken Details im Inneren.",
             "hu": "Figyeljen a belső barokk részletekre.",
             "ro": "Observați detaliile baroce din interior.",
-            "en": "Pay attention to the baroque details inside."
+            "en": "Pay attention to the baroque details inside.",
+            "sk": "Venujte pozornosť barokovým detailom vo vnútri."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Franziskanerkloster",
             "hu": "Ferences kolostor",
             "ro": "Mănăstirea Franciscană",
-            "en": "Franciscan Monastery"
+            "en": "Franciscan Monastery",
+            "sk": "Františkánsky kláštor"
           },
           "coords": [
             18.1625,
@@ -105,7 +112,8 @@
             "de": "Der angrenzende Garten ist eine Oase der Ruhe.",
             "hu": "A szomszédos kert a nyugalom oázisa.",
             "ro": "Grădina adiacentă este o oază de liniște.",
-            "en": "The adjacent garden is an oasis of calm."
+            "en": "The adjacent garden is an oasis of calm.",
+            "sk": "Priľahlá záhrada je oázou pokoja."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Ernest Zmeták Kunstgalerie",
             "hu": "Zmeták Ernő Művészeti Galéria",
             "ro": "Galeria de Artă Ernest Zmeták",
-            "en": "Ernest Zmeták Art Gallery"
+            "en": "Ernest Zmeták Art Gallery",
+            "sk": "Umelecká galéria Ernesta Zmetáka"
           },
           "coords": [
             18.166,
@@ -128,7 +137,8 @@
             "de": "Konzentriert sich auf slowakische Kunst des 20. Jahrhunderts.",
             "hu": "A 20. századi szlovák művészetre összpontosít.",
             "ro": "Se concentrează pe arta slovacă din secolul al XX-lea.",
-            "en": "Focuses on 20th-century Slovak art."
+            "en": "Focuses on 20th-century Slovak art.",
+            "sk": "Zameriava sa na slovenské umenie 20. storočia."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Anton-Bernolák-Denkmal",
             "hu": "Bernolák Antal emlékmű",
             "ro": "Monumentul Anton Bernolák",
-            "en": "Anton Bernolák Monument"
+            "en": "Anton Bernolák Monument",
+            "sk": "Památník Antona Bernoláka"
           },
           "coords": [
             18.1655,
@@ -151,7 +162,8 @@
             "de": "Gewidmet einem wichtigen slowakischen Sprachreformer.",
             "hu": "Egy fontos szlovák nyelvújítónak szentelve.",
             "ro": "Dedicat unui important reformator al limbii slovace.",
-            "en": "Dedicated to an important Slovak language reformer."
+            "en": "Dedicated to an important Slovak language reformer.",
+            "sk": "Venovaný dôležitému reformátorovi slovenského jazyka."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Sihoť-Park",
             "hu": "Sihoť park",
             "ro": "Parcul Sihoť",
-            "en": "Sihoť Park"
+            "en": "Sihoť Park",
+            "sk": "Park Sihoť"
           },
           "coords": [
             18.171,
@@ -174,7 +187,8 @@
             "de": "Perfekt für einen entspannten Nachmittagsspaziergang.",
             "hu": "Tökéletes egy pihentető délutáni sétához.",
             "ro": "Perfect pentru o plimbare relaxantă de după-amiază.",
-            "en": "Perfect for a relaxing afternoon stroll."
+            "en": "Perfect for a relaxing afternoon stroll.",
+            "sk": "Ideálny na relaxačnú popoludňajšiu prechádzku."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Beginnen Sie Ihren Spaziergang am lebhaften Hauptplatz von Neuhäusel, wo Sie das Rathaus und die Dreifaltigkeitssäule bewundern können. Am Vormittag erkunden Sie das sakrale Erbe der Stadt mit einem Besuch der Heilig-Kreuz-Kirche und des ruhigen Franziskanerklosters. Der Nachmittag ist der Kultur gewidmet, mit einem ausführlichen Besuch der Ernest Zmeták Kunstgalerie, die einen tiefen Einblick in die slowakische Kunst bietet. Schließen Sie den Tag mit einem entspannten Spaziergang durch den grünen Sihoť-Park ab, ein perfekter Ort, um die Eindrücke des Tages Revue passieren zu lassen.",
         "hu": "Kezdje sétáját Érsekújvár nyüzsgő főterén, megcsodálva a Városházát és a Szentháromság-szobrot. A délelőtt folyamán fedezze fel a város szakrális örökségét a Szent Kereszt Felmagasztalása templom és a békés Ferences kolostor meglátogatásával. A délután a kultúráé: egy alapos látogatás a Zmeták Ernő Művészeti Galériában, amely mély betekintést nyújt a szlovák művészetbe. Zárja a napot egy pihentető sétával a zöldellő Sihoť parkban, amely tökéletes hely a napi élmények átgondolására.",
         "ro": "Începeți plimbarea în piața principală plină de viață din Nové Zámky, admirând Primăria și Statuia Sfintei Treimi. În cursul dimineții, explorați moștenirea sacră a orașului vizitând Biserica Înălțarea Sfintei Cruci și liniștita Mănăstire Franciscană. După-amiaza este dedicată culturii, cu o vizită extinsă la Galeria de Artă Ernest Zmeták, care oferă o perspectivă profundă asupra artei slovace. Încheiați ziua cu o plimbare relaxantă prin Parcul Sihoť, un loc perfect pentru a reflecta asupra impresiilor zilei.",
-        "en": "Start your walk in the lively main square of Nové Zámky, admiring the Town Hall and the Holy Trinity Column. In the morning, explore the city's sacred heritage by visiting the Church of the Exaltation of the Holy Cross and the peaceful Franciscan Monastery. The afternoon is dedicated to culture, with an extensive visit to the Ernest Zmeták Art Gallery, offering deep insight into Slovak art. End your day with a relaxing stroll through the verdant Sihoť Park, a perfect place to reflect on the day's impressions."
+        "en": "Start your walk in the lively main square of Nové Zámky, admiring the Town Hall and the Holy Trinity Column. In the morning, explore the city's sacred heritage by visiting the Church of the Exaltation of the Holy Cross and the peaceful Franciscan Monastery. The afternoon is dedicated to culture, with an extensive visit to the Ernest Zmeták Art Gallery, offering deep insight into Slovak art. End your day with a relaxing stroll through the verdant Sihoť Park, a perfect place to reflect on the day's impressions.",
+        "sk": "Začnite prechádzku na živej pešej zóne hlavného námestia, obdivujte radnicu a stĺp Najsvätejšej Trojice. Ráno preskúmajte sakrálne dedičstvo mesta návštevou Kostola Povýšenia svätého Kríža a pokojným Františkánskym kláštorom. Popoludnie venujte kultúre v rozsiahlej návšteve Umeleckej galérie Ernesta Zmetáka, ktorá poskytuje hlboký vhľad do slovenského umenia. Deň zakončite relaxačnou prechádzkou v zelenom parku Sihoť, ideálnom mieste na zamyslenie nad pocity z dňa."
       },
       "gastro_picks": {
         "de": [
@@ -322,6 +337,11 @@
           "Wear comfortable shoes as the city center is easily explored on foot.",
           "Most sights are located close to each other.",
           "Allow plenty of time for the art gallery."
+        ],
+        "sk": [
+          "Obujte si pohodlnú obuv, centrum mesta sa dá dobre preskúmať pešo.",
+          "Väčšina pamiatok sa nachádza blízko seba.",
+          "Vyhraďte si dostatok času na galériu."
         ]
       },
       "variants": {
@@ -330,7 +350,8 @@
             "de": "Beginnen Sie den regnerischen Morgen unter den Arkaden des Hauptplatzes am Rathaus. Mittags bieten die massiven Mauern der Heilig-Kreuz-Kirche und des Franziskanerklosters perfekten Schutz vor den Güssen. Am Nachmittag ist die Kunstgalerie Ernest Zmeták der ideale Ort, um im Trockenen hochkarätige Kunst zu genießen. Den Abend lassen wir im Sihoť-Park ausklingen, wo der Duft der nassen Erde eine besondere Atmosphäre schafft.\n\nDas Wetter beeinträchtigt den historischen Charme nicht. Die kurzen Wege zwischen den Sehenswürdigkeiten im Zentrum minimieren die Zeit im Regen. Die Galerie bietet genügend Raum für eine ausgiebige Besichtigung, während man auf das Ende des Schauers wartet.",
             "hu": "Kezdje az esős reggelt a Fő tér árkádjai alatt, a Városháza közelében. Délben a Szent Kereszt felmagasztalása templom és a ferences kolostor vastag falai nyújtanak biztos menedéket a záporok elől. Délután az Ernest Zmeták Művészeti Galéria termeiben merülhet el a kultúrában, távol az esőtől. Az estét a Sihoť parkban zárjuk, ahol az eső utáni friss levegő és a folyó közelsége nyugodt lezárást kínál.\n\nA városközpont kompakt kialakítása kedvez az esős sétáknak. A legtöbb látnivaló pár perces járásra van egymástól, így kevés időt kell tölteni a szabad ég alatt. A galéria kiváló beltéri program, ahol több órát is kényelmesen eltölthetünk, amíg eláll a csapadék.",
             "ro": "Începeți dimineața ploioasă sub arcadele pieței centrale, lângă primărie. La prânz, zidurile groase ale Bisericii Înălțării Sfintei Cruci și mănăstirea franciscană oferă adăpost sigur împotriva averselor. După-amiaza, Galeria de Artă Ernest Zmeták este locul ideal pentru a savura cultura la adăpost de ploaie. Seara se încheie în parcul Sihoť, unde aerul proaspăt de după ploaie creează o atmosferă relaxantă lângă râu.\n\nCentrul compact al orașului facilitează plimbările chiar și pe vreme nefavorabilă. Distanțele scurte între obiective minimizează expunerea la ploaie. Galeria oferă un spațiu generos pentru o vizită prelungită, permițându-vă să așteptați trecerea norilor printre opere de artă de valoare.",
-            "en": "Start the rainy morning under the eaves of the Main Square near the Town Hall. At noon, the thick walls of the Church of the Exaltation of the Holy Cross and the Franciscan Monastery provide a dry sanctuary. In the afternoon, the Ernest Zmeták Art Gallery is the perfect indoor retreat to enjoy significant artworks. End the evening in Sihoť Park, where the post-rain freshness and the river breeze offer a peaceful conclusion.\n\nThe city center's layout is well-suited for rainy days. Most landmarks are within a few minutes' walk, reducing time spent in the downpour. The gallery serves as an excellent indoor anchor, where you can easily spend two hours waiting for the weather to clear up."
+            "en": "Start the rainy morning under the eaves of the Main Square near the Town Hall. At noon, the thick walls of the Church of the Exaltation of the Holy Cross and the Franciscan Monastery provide a dry sanctuary. In the afternoon, the Ernest Zmeták Art Gallery is the perfect indoor retreat to enjoy significant artworks. End the evening in Sihoť Park, where the post-rain freshness and the river breeze offer a peaceful conclusion.\n\nThe city center's layout is well-suited for rainy days. Most landmarks are within a few minutes' walk, reducing time spent in the downpour. The gallery serves as an excellent indoor anchor, where you can easily spend two hours waiting for the weather to clear up.",
+            "sk": "Začnite daždivé ráno pod striechami Námestia pri radnici. Na poludnie poskytujú hrubé múry kostola a františkánskeho kláštora suché útočisko. Popoludní je Umelecká galéria Ernesta Zmetáka ideálnym vnútorným útočiskom na obdivovanie významných diel. Večer zakončite v parku Sihoť, kde po daždi panuje sviežosť a vôňa rieky, ktorá poskytuje pokojnú bodku za dňom.\n\nPôdorys centra mesta je vhodný na daždivé dni. Väčšina pamiatok je v niekoľkých minútach chôdze, čo skracuje čas strávený v daždi. Galéria slúži ako výborné vnútorné útočisko, kde môžete stráviť aj dve hodiny, kým sa počasie nezlepší."
           },
           "stops": [
             {
@@ -339,7 +360,8 @@
                 "de": "Nutzen Sie die Gebäudevorsprünge am Platz als Regenschutz.",
                 "hu": "Használja a tér körüli épületek kiszögelléseit eső elleni védelemként.",
                 "ro": "Folosiți arcadele clădirilor din piață pentru a vă proteja de ploaie.",
-                "en": "Use the building overhangs around the square for rain protection."
+                "en": "Use the building overhangs around the square for rain protection.",
+                "sk": "Využite presahy budov okolo námestia ako ochranu pred dažďom."
               }
             },
             {
@@ -348,7 +370,8 @@
                 "de": "Ein kurzer Fotostopp, bevor es wieder ins Trockene geht.",
                 "hu": "Gyors fotómegálló, mielőtt visszatérne a fedett helyekre.",
                 "ro": "O oprire rapidă pentru fotografii înainte de a reveni la adăpost.",
-                "en": "A quick photo stop before heading back to indoor shelters."
+                "en": "A quick photo stop before heading back to indoor shelters.",
+                "sk": "Rýchle fotografické zastavenie pred návratom do vnútorných priestorov."
               }
             },
             {
@@ -357,7 +380,8 @@
                 "de": "Ideal, um während eines starken Schauers innezuhalten.",
                 "hu": "Ideális hely a csendes pihenésre egy intenzívebb zápor alatt.",
                 "ro": "Loc ideal pentru o pauză liniștită în timpul unei averse intense.",
-                "en": "Ideal place for quiet reflection during a heavy downpour."
+                "en": "Ideal place for quiet reflection during a heavy downpour.",
+                "sk": "Ideálne miesto na tiché zamyslenie počas silného lejaku."
               }
             },
             {
@@ -366,7 +390,8 @@
                 "de": "Die massiven Mauern dämpfen das Geräusch des Regens.",
                 "hu": "A vastag falak teljesen elnyelik az eső zaját.",
                 "ro": "Zidurile masive izolează perfect sunetul ploii de afară.",
-                "en": "The thick walls completely dampen the sound of the rain outside."
+                "en": "The thick walls completely dampen the sound of the rain outside.",
+                "sk": "Hrubé múry úplne tlmia zvuk dažďa zvonku."
               }
             },
             {
@@ -375,7 +400,8 @@
                 "de": "Die beste Adresse für einen längeren Aufenthalt bei Regen.",
                 "hu": "A legjobb helyszín egy hosszabb esős délutáni programhoz.",
                 "ro": "Cea mai bună locație pentru o după-amiază ploioasă prelungită.",
-                "en": "The best location for an extended rainy afternoon program."
+                "en": "The best location for an extended rainy afternoon program.",
+                "sk": "Najlepšia lokalita na predĺžené popoludnie v daždi."
               }
             },
             {
@@ -384,7 +410,8 @@
                 "de": "Vorsicht vor rutschigem Kopfsteinpflaster rund um das Denkmal.",
                 "hu": "Vigyázat, a szobor körüli macskakő nedvesen csúszhat.",
                 "ro": "Atenție, pavajul din jurul monumentului poate fi alunecos.",
-                "en": "Watch out, the cobblestones around the statue can be slippery when wet."
+                "en": "Watch out, the cobblestones around the statue can be slippery when wet.",
+                "sk": "Pozor, dlažobné kocky okolo sochy môžu byť na mokrom povrchu šmykľavé."
               }
             },
             {
@@ -393,7 +420,8 @@
                 "de": "Asphaltierte Wege nutzen, um Matsch zu vermeiden.",
                 "hu": "Használja az aszfaltozott utakat a sár elkerülése érdekében.",
                 "ro": "Rămâneți pe aleile asfaltate pentru a evita noroiul.",
-                "en": "Stick to the paved paths to avoid muddy sections near the river."
+                "en": "Stick to the paved paths to avoid muddy sections near the river.",
+                "sk": "Držte sa spevnených chodníkov, aby ste sa vyhli blatu pri rieke."
               }
             }
           ],
@@ -421,6 +449,12 @@
               "The art gallery provides a free cloakroom for wet coats and umbrellas.",
               "Most cafes around the square have covered outdoor seating areas.",
               "Rainy weather provides unique, dramatic lighting for statue photography."
+            ],
+            "sk": [
+              "Noste nepremokavú obuv, na Hlavnom námestí sa často tvoria kaluže.",
+              "Umelecká galéria poskytuje zdarma šatňu na mokré kabáty a dáždniky.",
+              "Väčšina kaviarní okolo námestia má kryté vonkajšie sedenie.",
+              "Daždivé počasie vytvára jedinečné, dramatické svetlo na fotografovanie sôch."
             ]
           }
         },
@@ -429,7 +463,8 @@
             "de": "Ein frostiger Morgen beginnt am Rathaus, während der Reif den Hauptplatz überzieht. Mittags wärmen wir uns in der Heilig-Kreuz-Kirche auf, deren Atmosphäre im Winter besonders andächtig ist. Der Nachmittag gehört der Ernest-Zmeták-Galerie, in der die wohlige Wärme zum Verweilen einlädt. Bevor die frühe Dunkelheit einsetzt, spazieren wir durch den Sihoť-Park, der im Winterlicht eine fast mystische Stille ausstrahlt.\n\nNové Zámky zeigt sich im Winter von seiner ruhigen Seite. Die kurzen Wege zwischen den warmen Gebäuden machen die Kälte erträglich. Nutzen Sie die Mittagszeit für eine heiße Suppe in einem der Restaurants am Platz, bevor Sie die kulturellen Schätze erkunden. Die Abenddämmerung im Park an der Nitra ist kurz, aber sehenswert.",
             "hu": "A fagyos reggel a Városházánál indul, miközben a zúzmara belepi a Fő teret. Délben a Szent Kereszt templomban melegedhetünk fel, melynek hangulata télen különösen áhítatos. A délutánt az Ernest Zmeták Galéria fűtött termeiben töltjük, ahol a művészet mellett a nyugalom is vár. Mielőtt a korai sötétség leszállna, teszünk egy sétát a Sihoť parkban, mely a téli fényekben misztikus csendet áraszt.\n\nÉrsekújvár télen a nyugodt arcát mutatja. A látnivalók közötti rövid távolságok miatt a hideg nem akadály. Érdemes a déli órát egy forró levesre szánni a főtéri éttermek egyikében a délutáni múzeumlátogatás előtt. A kora esti szürkület a Nitra-parti parkban rövid, de látványos élmény.",
             "ro": "O dimineață geroasă începe la Primărie, în timp ce chiciura acoperă piața centrală. La prânz, ne încălzim în Biserica Sfânta Cruce, a cărei atmosferă este deosebit de pioasă iarna. După-amiaza aparține Galeriei Ernest Zmeták, unde căldura plăcută vă invită să zăboviți. Înainte de lăsarea întunericului, ne plimbăm prin parcul Sihoť, care emană o liniște aproape mistică în lumina iernii.\n\nNové Zámky își arată fața liniștită iarna. Distanțele scurte între clădirile încălzite fac frigul suportabil. Folosiți ora prânzului pentru o supă fierbinte la restaurantele din piață înainte de vizita la muzeu. Amurgul timpuriu în parcul de pe malul râului Nitra este scurt, dar merită văzut.",
-            "en": "A frosty morning starts at the Town Hall as hoarfrost covers the Main Square. At noon, warm up inside the Holy Cross Church, which feels particularly serene in winter. Spend the afternoon in the heated Ernest Zmeták Gallery, where art and warmth go hand in hand. Before the early darkness falls, take a stroll through Sihoť Park, radiating a mystical silence in the winter light.\n\nNové Zámky reveals its quiet side in winter. The short distances between heated landmarks make the cold manageable. Use the noon hour for a hot soup in one of the square's restaurants before your gallery visit. The early evening twilight in the park by the Nitra river is brief but visually striking."
+            "en": "A frosty morning starts at the Town Hall as hoarfrost covers the Main Square. At noon, warm up inside the Holy Cross Church, which feels particularly serene in winter. Spend the afternoon in the heated Ernest Zmeták Gallery, where art and warmth go hand in hand. Before the early darkness falls, take a stroll through Sihoť Park, radiating a mystical silence in the winter light.\n\nNové Zámky reveals its quiet side in winter. The short distances between heated landmarks make the cold manageable. Use the noon hour for a hot soup in one of the square's restaurants before your gallery visit. The early evening twilight in the park by the Nitra river is brief but visually striking.",
+            "sk": "Mrazivé ráno začína pri radnici, keď námestie pokryje mrznúca námraza. Na poludnie sa zohrejte vnútri Kostola Povýšenia svätého Kríža, ktorý v zime pôsobí obzvlášť príjemne. Popoludnie strávte vo vykurovanej Umeleckej galérii Ernesta Zmetáka, kde sa umenie snúbi s teplom. Pred skorým zotmením sa prejdite po parku Sihoť, ktorý v zimnom svetle vyžaruje mystické ticho.\n\nNové Zámky ukazujú svoju pokojnú stránku v zime. Krátke vzdialenosti medzi vykurovanými pamiatkami robia chlad zvládnuteľným. Využite obedňajšiu prestávku na horúcu polievku v jednej z reštaurácií na námestí pred návštevou galérie. Skorý večerný súmrak v parku pri rieke Nitra je krátky, ale vizuálne pôsobivý."
           },
           "stops": [
             {
@@ -438,7 +473,8 @@
                 "de": "Die Steinbänke sind im Winter sehr kalt; meiden Sie langes Sitzen.",
                 "hu": "A kőpadok télen nagyon hidegek; kerülje a hosszú üldögélést.",
                 "ro": "Băncile de piatră sunt foarte reci iarna; evitați să stați mult timp.",
-                "en": "The stone benches are very cold in winter; avoid sitting for long."
+                "en": "The stone benches are very cold in winter; avoid sitting for long.",
+                "sk": "Kamenné lavičky sú v zime veľmi studené; neodporúča sa na nich dlho sedieť."
               }
             },
             {
@@ -447,7 +483,8 @@
                 "de": "Im Dezember glänzt die Säule oft im Schein der Weihnachtsbeleuchtung.",
                 "hu": "Decemberben az oszlop gyakran az ünnepi fényekben tündököl.",
                 "ro": "În decembrie, coloana strălucește adesea sub luminile de Crăciun.",
-                "en": "In December, the column often shines under the festive Christmas lights."
+                "en": "In December, the column often shines under the festive Christmas lights.",
+                "sk": "V decembri stĺp často žiari pod sviatočnými vianočnými svetlami."
               }
             },
             {
@@ -456,7 +493,8 @@
                 "de": "Die Innentemperatur ist stabil, aber ziehen Sie sich warm an.",
                 "hu": "A belső hőmérséklet állandó, de öltözzön rétegesen.",
                 "ro": "Temperatura interioară este stabilă, dar îmbrăcați-vă gros.",
-                "en": "The indoor temperature is stable, but dress in warm layers."
+                "en": "The indoor temperature is stable, but dress in warm layers.",
+                "sk": "Vnútorná teplota je stabilná, ale oblečte sa do teplých vrstiev."
               }
             },
             {
@@ -465,7 +503,8 @@
                 "de": "Besuchen Sie die Krypta, wenn Sie sich für lokale Geschichte interessieren.",
                 "hu": "Látogassa meg a kriptát, ha érdekli a helyi történelem.",
                 "ro": "Vizitați cripta dacă sunteți interesat de istoria locală.",
-                "en": "Visit the crypt if you are interested in local history."
+                "en": "Visit the crypt if you are interested in local history.",
+                "sk": "Navštívte krypty, ak vás zaujíma miestna história."
               }
             },
             {
@@ -474,7 +513,8 @@
                 "de": "Die Heizung funktioniert hier hervorragend – ein idealer Wärmestopp.",
                 "hu": "A fűtés kiválóan működik – ideális hely a felmelegedésre.",
                 "ro": "Încălzirea funcționează excelent – punct ideal de încălzire.",
-                "en": "The heating works perfectly here – an ideal spot to warm up."
+                "en": "The heating works perfectly here – an ideal spot to warm up.",
+                "sk": "Vykurovanie tu funguje dokonale – ideálne miesto na zahriatie."
               }
             },
             {
@@ -483,7 +523,8 @@
                 "de": "Die Statue sieht bei leichtem Schneefall besonders fotogen aus.",
                 "hu": "A szobor enyhe havazásban különösen fotogén látványt nyújt.",
                 "ro": "Statuia arată deosebit de fotogenă în timpul unei ninsori ușoare.",
-                "en": "The statue looks particularly photogenic during light snowfall."
+                "en": "The statue looks particularly photogenic during light snowfall.",
+                "sk": "Socha je obzvlášť fotogenická počas jemného sneženia."
               }
             },
             {
@@ -492,7 +533,8 @@
                 "de": "Achten Sie auf Glatteis auf den Brücken über den Flussarm.",
                 "hu": "Vigyázzon a jegesedésre a folyó feletti hidakon.",
                 "ro": "Atenție la polei pe podurile de peste brațul râului.",
-                "en": "Watch out for black ice on the bridges over the river branch."
+                "en": "Watch out for black ice on the bridges over the river branch.",
+                "sk": "Dávajte pozor na čierny ľad na mostoch cez ramená rieky."
               }
             }
           ],
@@ -520,6 +562,12 @@
               "Have a hot tea in one of the traditional cafes on the Main Square.",
               "Gloves are essential for viewing the outdoor monuments comfortably.",
               "Park paths are sometimes cleared later after a heavy snowfall."
+            ],
+            "sk": [
+              "Slnko zapadá už okolo 16:00 počas zimných mesiacov.",
+              "Dajte si horúci čaj v jednej z tradičných kaviarní na Hlavnom námestí.",
+              "Rukavice sú nevyhnutné na pohodlné prehliadanie vonkajších pamiatok.",
+              "V parku sa chodníky po silnom snežení niekedy upravujú až neskôr."
             ]
           }
         }
@@ -538,7 +586,8 @@
             "de": "Städtisches Rathaus",
             "hu": "Városháza",
             "ro": "Primăria",
-            "en": "Town Hall"
+            "en": "Town Hall",
+            "sk": "Radnica"
           },
           "coords": [
             18.1645,
@@ -553,7 +602,8 @@
             "de": "Schließen Sie Ihr Fahrrad an und erkunden Sie den Hauptplatz zu Fuß.",
             "hu": "Zárja le a kerékpárját, és fedezze fel gyalog a főteret.",
             "ro": "Legați-vă bicicleta și explorați piața principală pe jos.",
-            "en": "Lock up your bike and explore the main square on foot."
+            "en": "Lock up your bike and explore the main square on foot.",
+            "sk": "Zamkni si bicykel a preskúmaj hlavné námestie pešo."
           }
         },
         {
@@ -561,7 +611,8 @@
             "de": "Kirche und Kloster",
             "hu": "Templom és kolostor",
             "ro": "Biserica și Mănăstirea",
-            "en": "Church and Monastery"
+            "en": "Church and Monastery",
+            "sk": "Kostol a kláštor"
           },
           "coords": [
             18.1627,
@@ -576,7 +627,8 @@
             "de": "Besuchen Sie die Heilig-Kreuz-Kirche und das Franziskanerkloster zusammen.",
             "hu": "Látogassa meg együtt a Szent Kereszt Felmagasztalása templomot és a Ferences kolostort.",
             "ro": "Vizitați Biserica Înălțarea Sfintei Cruci și Mănăstirea Franciscană împreună.",
-            "en": "Visit the Church of the Holy Cross and the Franciscan Monastery together."
+            "en": "Visit the Church of the Holy Cross and the Franciscan Monastery together.",
+            "sk": "Navštív kostol Povýšenia svätého Kríža a františkánsky kláštor spolu."
           }
         },
         {
@@ -584,7 +636,8 @@
             "de": "Ernest Zmeták Kunstgalerie",
             "hu": "Zmeták Ernő Művészeti Galéria",
             "ro": "Galeria de Artă Ernest Zmeták",
-            "en": "Ernest Zmeták Art Gallery"
+            "en": "Ernest Zmeták Art Gallery",
+            "sk": "Galéria umenia Ernesta Zmetáka"
           },
           "coords": [
             18.166,
@@ -599,7 +652,8 @@
             "de": "Ein Muss für Liebhaber moderner slowakischer Kunst.",
             "hu": "A modern szlovák művészet kedvelőinek kötelező.",
             "ro": "O vizită obligatorie pentru iubitorii de artă modernă slovacă.",
-            "en": "A must-see for lovers of modern Slovak art."
+            "en": "A must-see for lovers of modern Slovak art.",
+            "sk": "Povinná zastávka pre milovníkov modernej slovenskej tvorby."
           }
         },
         {
@@ -607,7 +661,8 @@
             "de": "Anton-Bernolák-Denkmal",
             "hu": "Bernolák Antal emlékmű",
             "ro": "Monumentul Anton Bernolák",
-            "en": "Anton Bernolák Monument"
+            "en": "Anton Bernolák Monument",
+            "sk": "Památník Antona Bernoláka"
           },
           "coords": [
             18.1655,
@@ -622,7 +677,8 @@
             "de": "Eine kurze Pause, um mehr über die slowakische Geschichte zu erfahren.",
             "hu": "Rövid pihenő, hogy többet tudjon meg a szlovák történelemről.",
             "ro": "O scurtă pauză pentru a afla mai multe despre istoria slovacă.",
-            "en": "A quick stop to learn about Slovak history."
+            "en": "A quick stop to learn about Slovak history.",
+            "sk": "Krátka zastávka, aby ste sa dozvedeli o slovenskej histórii."
           }
         },
         {
@@ -630,7 +686,8 @@
             "de": "Mittagessen im Zentrum",
             "hu": "Ebéd a központban",
             "ro": "Prânz în centru",
-            "en": "Lunch in the center"
+            "en": "Lunch in the center",
+            "sk": "Obed v centre"
           },
           "coords": [
             18.165,
@@ -645,7 +702,8 @@
             "de": "Zeit für eine Stärkung mit lokalen Spezialitäten.",
             "hu": "Ideje feltöltődni a helyi specialitásokkal.",
             "ro": "Timpul pentru a vă reîncărca cu specialități locale.",
-            "en": "Time to refuel with some local specialties."
+            "en": "Time to refuel with some local specialties.",
+            "sk": "Čas doplniť energiu miestnymi špecialitami."
           }
         },
         {
@@ -653,7 +711,8 @@
             "de": "Sihoť-Park",
             "hu": "Sihoť park",
             "ro": "Parcul Sihoť",
-            "en": "Sihoť Park"
+            "en": "Sihoť Park",
+            "sk": "Sihoť Park"
           },
           "coords": [
             18.171,
@@ -668,7 +727,8 @@
             "de": "Radeln Sie durch den größten Park der Stadt.",
             "hu": "Kerékpározzon át a város legnagyobb parkján.",
             "ro": "Plimbați-vă cu bicicleta prin cel mai mare parc din oraș.",
-            "en": "Cycle through the city's largest park."
+            "en": "Cycle through the city's largest park.",
+            "sk": "Prejdite sa alebo povožkajte sa najväčším mestským parkom."
           }
         },
         {
@@ -676,7 +736,8 @@
             "de": "Kalvarienberg",
             "hu": "Kálvária",
             "ro": "Calvariul",
-            "en": "Calvary Hill"
+            "en": "Calvary Hill",
+            "sk": "Kalvária"
           },
           "coords": [
             18.158,
@@ -691,7 +752,8 @@
             "de": "Der Anstieg lohnt sich für die Aussicht und die ruhige Atmosphäre.",
             "hu": "Megéri felmenni a kilátásért és a csendes légkörért.",
             "ro": "Urcarea merită pentru priveliște și atmosfera liniștită.",
-            "en": "The climb is worth it for the view and the quiet atmosphere."
+            "en": "The climb is worth it for the view and the quiet atmosphere.",
+            "sk": "Vystúpenie stojí za to pre výhľad a pokojnú atmosféru."
           }
         }
       ],
@@ -699,7 +761,8 @@
         "de": "Ihre Radtour durch Neuhäusel beginnt im historischen Zentrum, wo Sie das Rathaus und die nahegelegenen Kirchen entdecken. Am Vormittag tauchen Sie in der Ernest Zmeták Kunstgalerie in die Welt der Kunst ein. Nach einer Mittagspause radeln Sie am Nachmittag entspannt durch den weitläufigen Sihoť-Park. Zum Abschluss der Tour erklimmen Sie den Kalvarienberg, der nicht nur ein spiritueller Ort ist, sondern auch eine schöne Aussicht über die Umgebung bietet und einen perfekten, aktiven Ausklang des Tages darstellt.",
         "hu": "Érsekújvári kerékpártúrája a történelmi központban kezdődik, ahol felfedezheti a Városházát és a közeli templomokat. Délelőtt merüljön el a művészet világában a Zmeták Ernő Művészeti Galériában. Egy ebédszünet után délután pihenjen egyet a tágas Sihoť parkban kerékpározva. A túra befejezéseként másszon fel a Kálváriára, amely nemcsak spirituális hely, hanem gyönyörű kilátást is nyújt a környékre, tökéletes aktív lezárása a napnak.",
         "ro": "Turul cu bicicleta prin Nové Zámky începe în centrul istoric, unde explorați Primăria și bisericile din apropiere. Dimineața, vă scufundați în lumea artei la Galeria Ernest Zmeták. După o pauză de prânz, după-amiaza vă relaxați pedalând prin vastul Parc Sihoť. Pentru a încheia turul, urcați pe Dealul Calvariului, care nu este doar un loc spiritual, ci oferă și o priveliște frumoasă asupra zonei înconjurătoare, fiind o încheiere perfectă și activă a zilei.",
-        "en": "Your bike tour of Nové Zámky starts in the historic center, exploring the Town Hall and nearby churches. In the morning, immerse yourself in the art world at the Ernest Zmeták Gallery. After a lunch break, enjoy a relaxed afternoon ride through the spacious Sihoť Park. To conclude the tour, climb Calvary Hill, which is not only a spiritual place but also offers a beautiful view over the surroundings, providing a perfect, active end to the day."
+        "en": "Your bike tour of Nové Zámky starts in the historic center, exploring the Town Hall and nearby churches. In the morning, immerse yourself in the art world at the Ernest Zmeták Gallery. After a lunch break, enjoy a relaxed afternoon ride through the spacious Sihoť Park. To conclude the tour, climb Calvary Hill, which is not only a spiritual place but also offers a beautiful view over the surroundings, providing a perfect, active end to the day.",
+        "sk": "Tvoja cyklotúra po Nových Zámkoch začína v historickom centre, kde preskúmaš radnicu a okolitý kostoly. Ráno sa ponoríš do sveta umenia v Galérii Ernesta Zmetáka. Po obednej prestávke si užiješ pokojné popoludnie jazdou cez priestranný Sihoť Park. Na záver sa vyberieš na Kalváriu, ktorá nie je len duchovným miestom, ale ponúka aj krásny výhľad do okolia a predstavuje perfektný aktívny záver dňa."
       },
       "gastro_picks": {
         "de": [
@@ -839,6 +902,11 @@
           "Check your bike's condition before setting off.",
           "The city is relatively flat, but the climb to Calvary Hill is steep.",
           "Use bike paths wherever possible."
+        ],
+        "sk": [
+          "Skontroluj stav svojho bicykla pred vyštartovaním.",
+          "Mesto je relatívne rovné, ale stúpanie na Kalváriu je strmé.",
+          "Používaj cyklistické trasy, kde to je možné."
         ]
       },
       "variants": {
@@ -847,7 +915,8 @@
             "de": "Trotz Regen starten wir am Rathaus, wobei die Radwege in Nové Zámky gut befahrbar bleiben. Mittags machen wir längere Pausen im Kloster und in der Galerie, um die intensivsten Schauer abzuwarten. Der Nachmittag erfordert Vorsicht auf dem Weg zum Sihoť-Park, da die Wege rutschig sein können. Den Tag beenden wir am Kalvarienberg, wo die Aussicht auch bei grauem Himmel beeindruckend bleibt.\n\nRegenbekleidung ist für diese Tour obligatorisch. Das flache Gelände der Stadt erleichtert das Vorankommen bei Wind und Nässe. Planen Sie längere Aufenthalte in den Museen ein, um Kleidung und Ausrüstung zu trocknen.",
             "hu": "Az eső ellenére a Városházától indulunk, az érsekújvári kerékpárutak ilyenkor is jól járhatók. Délben hosszabb pihenőt tartunk a kolostorban és a galériában, kivárva a hevesebb záporokat. A délután óvatosságot igényel a Sihoť park felé, mivel az utak csúszósak lehetnek. A napot a Kálvária-dombon zárjuk, ahol a kilátás borús időben is méltóságteljes.\n\nA vízálló ruházat kötelező ehhez a túrához. A város sík terepe megkönnyíti a haladást szélben és esőben is. Tervezzen hosszabb megállókat a múzeumokban, hogy legyen ideje megszáradni.",
             "ro": "În ciuda ploii, pornim de la Primărie, pistele de biciclete din Nové Zámky rămânând practicabile. La prânz facem pauze mai lungi la mănăstire și galerie, așteptând trecerea ploilor torențiale. După-amiaza necesită prudență spre parcul Sihoť, deoarece aleile pot fi alunecoase. Încheiem ziua la Dealul Calvariei, unde vederea rămâne impresionantă chiar și sub cerul gri.\n\nÎmbrăcămintea impermeabilă este obligatorie pentru acest tur. Terenul plat al orașului facilitează deplasarea pe vânt și ploaie. Planificați opriri mai lungi la muzee pentru a permite uscarea echipamentului.",
-            "en": "Despite the rain, we start at the Town Hall, as Nové Zámky's bike paths remain accessible. At noon, we take longer breaks in the monastery and gallery to wait out the heaviest showers. The afternoon requires caution on the way to Sihoť Park, as paths can be slippery. We finish the day at Calvary Hill, where the view remains dignified even under grey skies.\n\nWaterproof gear is mandatory for this tour. The flat terrain of the city makes cycling easier in wind and wet conditions. Plan extended stays at museums to allow time for drying off your equipment."
+            "en": "Despite the rain, we start at the Town Hall, as Nové Zámky's bike paths remain accessible. At noon, we take longer breaks in the monastery and gallery to wait out the heaviest showers. The afternoon requires caution on the way to Sihoť Park, as paths can be slippery. We finish the day at Calvary Hill, where the view remains dignified even under grey skies.\n\nWaterproof gear is mandatory for this tour. The flat terrain of the city makes cycling easier in wind and wet conditions. Plan extended stays at museums to allow time for drying off your equipment.",
+            "sk": "Napriek dažďu začíname pri radnici, pretože cyklotrasy v Nových Zámkoch zostávajú priechodné. V poludňajších hodinách si dávame dlhšie prestávky v kláštore a galérii, aby sme počkali na najsilnejšie prehánky. Popoludnie si vyžaduje opatrnosť na ceste do Sihoť Parku, pretože chodníky môžu byť šmykľavé. Deň zakončíme na Kalvárii, kde je výhľad dôstojný aj pod sivou oblohou.\n\nNepremokavé oblečenie je na túto trasu povinné. Rovinatý terén mesta uľahčuje cyklistiku vo vetre a vlhku. Plánuj predĺžené zastávky v múzeách, aby si mal čas na vysušenie výbavy."
           },
           "stops": [
             {
@@ -856,7 +925,8 @@
                 "de": "Prüfen Sie den Bremsweg auf dem nassen Pflaster des Platzes.",
                 "hu": "Ellenőrizze a fékutat a tér nedves díszburkolatán.",
                 "ro": "Verificați distanța de frânare pe pavajul umed din piață.",
-                "en": "Check your braking distance on the wet pavement of the square."
+                "en": "Check your braking distance on the wet pavement of the square.",
+                "sk": "Skontroluj brzdnú dráhu na mokrom povrchu námestia."
               }
             },
             {
@@ -865,7 +935,8 @@
                 "de": "Fahrradständer befinden sich direkt vor dem Eingang.",
                 "hu": "Kerékpártárolók közvetlenül a bejárat előtt találhatók.",
                 "ro": "Suporturile pentru biciclete se află chiar în fața intrării.",
-                "en": "Bike racks are located directly in front of the entrance."
+                "en": "Bike racks are located directly in front of the entrance.",
+                "sk": "Stojany na bicykle sa nachádzajú priamo pred vchodom."
               }
             },
             {
@@ -874,7 +945,8 @@
                 "de": "Stellen Sie Ihr Rad nach Möglichkeit unter ein Vordach.",
                 "hu": "Lehetőség szerint állítsa a kerékpárt előtető alá.",
                 "ro": "Dacă este posibil, parcați bicicleta sub o copertină.",
-                "en": "If possible, park your bike under an overhang to keep the seat dry."
+                "en": "If possible, park your bike under an overhang to keep the seat dry.",
+                "sk": "Ak je to možné, zaparkuj bicykel pod prístreškom, aby sedlo zostalo suché."
               }
             },
             {
@@ -883,7 +955,8 @@
                 "de": "Vermeiden Sie scharfe Kurven auf den nassen Markierungen.",
                 "hu": "Kerülje az éles kanyarodást a nedves útburkolati jeleken.",
                 "ro": "Evitați virajele strânse pe marcajele rutiere umede.",
-                "en": "Avoid sharp turns on wet road markings and painted lines."
+                "en": "Avoid sharp turns on wet road markings and painted lines.",
+                "sk": "Vyhýbaj sa prudkým zákrutám na mokrých výstrčkoch a maľovaných čiarach."
               }
             },
             {
@@ -892,7 +965,8 @@
                 "de": "Wählen Sie ein Restaurant mit sichtbarem Fahrradparkplatz.",
                 "hu": "Válasszon olyan éttermet, ahol rálát a kerékpárra.",
                 "ro": "Alegeți un restaurant cu parcare vizibilă pentru biciclete.",
-                "en": "Choose a restaurant with a visible bike parking area."
+                "en": "Choose a restaurant with a visible bike parking area.",
+                "sk": "Vyber reštauráciu s viditeľným priestorom na odparkovanie bicyklov."
               }
             },
             {
@@ -901,7 +975,8 @@
                 "de": "Vorsicht bei Pfützen; sie können tiefer sein als gedacht.",
                 "hu": "Vigyázzon a tócsákkal; mélyebbek lehetnek, mint aminek látszanak.",
                 "ro": "Atenție la bălți; pot fi mai adânci decât par.",
-                "en": "Be careful with puddles; they might be deeper than they look."
+                "en": "Be careful with puddles; they might be deeper than they look.",
+                "sk": "Dávaj pozor na mláky; môžu byť hlbšie, než vyzerajú."
               }
             },
             {
@@ -910,7 +985,8 @@
                 "de": "Der Anstieg kann bei Nässe etwas mühsam sein.",
                 "hu": "A dombra vezető emelkedő nedves úton nehezebb lehet.",
                 "ro": "Urcarea spre deal poate fi mai dificilă pe drum umed.",
-                "en": "The climb to the hill can be more taxing on wet surfaces."
+                "en": "The climb to the hill can be more taxing on wet surfaces.",
+                "sk": "Stúpanie na vrch môže byť na mokrom povrchu náročnejšie."
               }
             }
           ],
@@ -938,6 +1014,12 @@
               "Avoid riding over manhole covers in the rain as they get very slick.",
               "Lower your tire pressure slightly for better grip on wet roads.",
               "Remember to clean and oil your chain after the tour."
+            ],
+            "sk": [
+              "Používaj blatníky, aby si sa chránil pred postriekaním z cesty.",
+              "V daždi sa vyhýbaj poklopom kanalizácie, sú veľmi šmykľavé.",
+              "Zníž trochu tlak v plášťoch pre lepšiu priľnavosť na mokrých cestách.",
+              "Nezabudni po túre vyčistiť a naolejovať reťaz."
             ]
           }
         },
@@ -946,7 +1028,8 @@
             "de": "Die frostige Radtour beginnt am Rathaus, wobei die kalte Luft den Geist belebt. Mittags bietet die Heilig-Kreuz-Kirche einen warmen Rückzugsort. Der Nachmittag führt uns durch das winterliche Stadtzentrum zur Galerie, dem perfekten Ort zum Aufwärmen. Vor Einbruch der Dunkelheit radeln wir durch den Sihoť-Park und beenden die Tour am Kalvarienberg, wo der Sonnenuntergang den Schnee in Pastelltöne taucht.\n\nWinterradeln in Nové Zámky erfordert gute Isolierung und Sichtbarkeit. Die flachen Straßen sind meist geräumt, aber Vorsicht vor Raureif. Nutzen Sie die kurzen Wege, um die Kältephasen klein zu halten.",
             "hu": "A jeges kerékpártúra a Városházánál indul, a friss levegő azonnal felébreszti az embert. Délben a Szent Kereszt templom nyújt meleg menedéket. A délután a téli városközponton át a galériába vezet, amely tökéletes hely a felmelegedésre. Sötétedés előtt átkerekezünk a Sihoť parkon, és a túrát a Kálvária-dombon zárjuk, ahol a naplemente pasztell színekbe öltözteti a havat.\n\nA téli biciklizés Érsekújváron jó hőszigetelést és láthatóságot igényel. A sík utcákat általában takarítják, de vigyázzon a zúzmarával. Használja ki a rövid távolságokat, hogy ne hűljön ki túlságosan.",
             "ro": "Turul cu bicicleta pe ger începe la Primărie, aerul rece fiind revigorant. La prânz, Biserica Sfânta Cruce oferă un refugiu cald. După-amiaza ne conduce prin centrul orașului spre galerie, locul perfect pentru încălzire. Înainte de lăsarea serii, pedalăm prin parcul Sihoť și încheiem turul la Dealul Calvariei, unde apusul colorează zăpada în nuanțe pastelate.\n\nCiclismul de iarnă în Nové Zámky necesită izolație bună și vizibilitate. Străzile plate sunt de obicei deszăpezite, dar atenție la chiciură. Profită de distanțele scurte pentru a minimiza expunerea la ger.",
-            "en": "The frosty bike tour starts at the Town Hall, with the crisp air providing a quick wake-up call. At noon, the Holy Cross Church offers a warm sanctuary. The afternoon takes us through the wintery city center to the gallery, the perfect spot to warm up. Before dark, we cycle through Sihoť Park and finish at Calvary Hill, where the sunset paints the snow in pastel hues.\n\nWinter cycling in Nové Zámky requires good insulation and high visibility. The flat streets are mostly cleared, but watch out for frost. Take advantage of the short distances to keep cold exposure to a minimum."
+            "en": "The frosty bike tour starts at the Town Hall, with the crisp air providing a quick wake-up call. At noon, the Holy Cross Church offers a warm sanctuary. The afternoon takes us through the wintery city center to the gallery, the perfect spot to warm up. Before dark, we cycle through Sihoť Park and finish at Calvary Hill, where the sunset paints the snow in pastel hues.\n\nWinter cycling in Nové Zámky requires good insulation and high visibility. The flat streets are mostly cleared, but watch out for frost. Take advantage of the short distances to keep cold exposure to a minimum.",
+            "sk": "Mrazivá cyklotúra začína pri radnici, s čerstvým vzduchom, ktorý rýchlo prebúdza. Na obed poskytuje kostol Povýšenia svätého Kríža teplé útočisko. Popoludnie nás prevedie zimným centrom mesta ku galérii, ideálnemu miestu na zohrievanie. Pred zotmením prejdeme Sihoť Parkom a skončíme na Kalvárii, kde západ slnka maľuje sneh do pastelových odtieňov.\n\nZimná cyklistika v Nových Zámkoch vyžaduje dobrú izoláciu a vysokú viditeľnosť. Ulice sú prevažne odhrnuté, no dávaj pozor na námrazu. Využi krátke vzdialenosti, aby si minimalizoval pobyt v chlade."
           },
           "stops": [
             {
@@ -955,7 +1038,8 @@
                 "de": "Prüfen Sie Ihre Bremsen auf Eisbildung.",
                 "hu": "Ellenőrizze, nem jegesedtek-e el a fékek.",
                 "ro": "Verificați dacă frânele au înghețat.",
-                "en": "Check your brakes for any ice buildup before starting."
+                "en": "Check your brakes for any ice buildup before starting.",
+                "sk": "Skontroluj brzdy na prítomnosť ľadu pred štartom."
               }
             },
             {
@@ -964,7 +1048,8 @@
                 "de": "Stellen Sie das Rad sicher ab; Metall kann sehr spröde sein.",
                 "hu": "Biztonságosan támassza le a gépet; a fém alkatrészek ridegek lehetnek.",
                 "ro": "Parcați bicicleta în siguranță; metalul poate deveni casant.",
-                "en": "Park your bike securely; metal parts can become brittle in extreme cold."
+                "en": "Park your bike securely; metal parts can become brittle in extreme cold.",
+                "sk": "Zaparkuj bicykel pevne; kovové diely môžu pri extrémnom mraze byť krehkejšie."
               }
             },
             {
@@ -973,7 +1058,8 @@
                 "de": "Nehmen Sie abnehmbare Lichter mit hinein, um die Akkus zu schonen.",
                 "hu": "Vigye be a levehető lámpákat, hogy kímélje az akkumulátorokat.",
                 "ro": "Luați luminile detașabile în interior pentru a proteja bateriile.",
-                "en": "Take removable lights inside with you to protect the battery life."
+                "en": "Take removable lights inside with you to protect the battery life.",
+                "sk": "Odnímateľné svetlá si vezmi so sebou dovnútra, aby si chránil batériu."
               }
             },
             {
@@ -982,7 +1068,8 @@
                 "de": "Vorsicht beim Auf- und Absteigen auf gefrorenem Boden.",
                 "hu": "Vigyázzon a le- és felszálláskor a fagyott talajon.",
                 "ro": "Atenție la urcare și coborâre pe solul înghețat.",
-                "en": "Be careful when mounting and dismounting on frozen ground."
+                "en": "Be careful when mounting and dismounting on frozen ground.",
+                "sk": "Buď opatrný pri naskakovaní a zosadnutí na zmrznutom povrchu."
               }
             },
             {
@@ -991,7 +1078,8 @@
                 "de": "Heiße Getränke helfen, die Körperkerntemperatur zu halten.",
                 "hu": "A forró italok segítenek a testhőmérséklet fenntartásában.",
                 "ro": "Băuturile fierbinți ajută la menținerea temperaturii corpului.",
-                "en": "Hot beverages help maintain your core body temperature."
+                "en": "Hot beverages help maintain your core body temperature.",
+                "sk": "Horúce nápoje pomáhajú udržať telesnú teplotu."
               }
             },
             {
@@ -1000,7 +1088,8 @@
                 "de": "Halten Sie Abstand zum Flussufer, da es dort glatter sein kann.",
                 "hu": "Tartson távolságot a folyóparttól, ott jegesebb lehet az út.",
                 "ro": "Păstrați distanța față de malul râului, poate fi mai alunecos.",
-                "en": "Keep a safe distance from the riverbank, as it tends to be icier."
+                "en": "Keep a safe distance from the riverbank, as it tends to be icier.",
+                "sk": "Drž sa v bezpečnej vzdialenosti od brehu rieky, býva tam viac námrazy."
               }
             },
             {
@@ -1009,7 +1098,8 @@
                 "de": "Der Boden kann unter dem Schnee gefroren sein.",
                 "hu": "A hó alatt a talaj teljesen át lehet fagyva.",
                 "ro": "Solul poate fi înghețat sub stratul de zăpadă.",
-                "en": "The ground may be frozen solid underneath the snow cover."
+                "en": "The ground may be frozen solid underneath the snow cover.",
+                "sk": "Pôda môže byť pod snehom zmrznutá na kameň."
               }
             }
           ],
@@ -1037,6 +1127,12 @@
               "Take e-bike batteries inside during longer stops to preserve range.",
               "Avoid sudden steering movements if there is a risk of black ice.",
               "Wear a reflective vest as visibility drops significantly after 4 PM."
+            ],
+            "sk": [
+              "Obliekaj sa vrstvením, aby si efektívne udržal teplo (cibuľový princíp).",
+              "Počas dlhších prestávok daj e-bike batérie dnu, aby si zachoval ich dojazd.",
+              "Vyhýbaj sa prudkým riadeniam, ak hrozí čierny ľad.",
+              "Noste reflexnú vestu, viditeľnosť po 16:00 výrazne klesá."
             ]
           }
         }
@@ -1055,7 +1151,8 @@
             "de": "Parken im Zentrum & Rathaus",
             "hu": "Parkolás a központban és Városháza",
             "ro": "Parcare în centru & Primărie",
-            "en": "Parking in the Center & Town Hall"
+            "en": "Parking in the Center & Town Hall",
+            "sk": "Parkovanie v centre & pri radnici"
           },
           "coords": [
             18.1645,
@@ -1071,7 +1168,8 @@
             "de": "Parken Sie hier, um den ersten Cluster zu Fuß zu erkunden.",
             "hu": "Parkoljon itt, és fedezze fel gyalog az első látnivaló-csoportot.",
             "ro": "Parcați aici pentru a explora primul grup de atracții pe jos.",
-            "en": "Park here to explore the first cluster on foot."
+            "en": "Park here to explore the first cluster on foot.",
+            "sk": "Zaparkuj tu a preskúmaj prvú skupinu pešo."
           }
         },
         {
@@ -1079,7 +1177,8 @@
             "de": "Kirche der Kreuzerhöhung",
             "hu": "Szent Kereszt Felmagasztalása templom",
             "ro": "Biserica Înălțarea Sfintei Cruci",
-            "en": "Church of the Exaltation of the Holy Cross"
+            "en": "Church of the Exaltation of the Holy Cross",
+            "sk": "Kostol Povýšenia svätého Kríža"
           },
           "coords": [
             18.163,
@@ -1095,7 +1194,8 @@
             "de": "Ein kurzer Spaziergang vom Hauptplatz.",
             "hu": "Rövid séta a főtértől.",
             "ro": "O scurtă plimbare de la piața principală.",
-            "en": "A short walk from the main square."
+            "en": "A short walk from the main square.",
+            "sk": "Krátka prechádzka od hlavného námestia."
           }
         },
         {
@@ -1103,7 +1203,8 @@
             "de": "Franziskanerkloster",
             "hu": "Ferences kolostor",
             "ro": "Mănăstirea Franciscană",
-            "en": "Franciscan Monastery"
+            "en": "Franciscan Monastery",
+            "sk": "Františkánsky kláštor"
           },
           "coords": [
             18.1625,
@@ -1119,7 +1220,8 @@
             "de": "Entdecken Sie die spirituelle Ruhe direkt neben der Kirche.",
             "hu": "Fedezze fel a spirituális nyugalmat közvetlenül a templom mellett.",
             "ro": "Descoperiți liniștea spirituală chiar lângă biserică.",
-            "en": "Discover the spiritual tranquility right next to the church."
+            "en": "Discover the spiritual tranquility right next to the church.",
+            "sk": "Objav duchovný pokoj hneď vedľa kostola."
           }
         },
         {
@@ -1127,7 +1229,8 @@
             "de": "Fahrt zur Kunstgalerie & Parken",
             "hu": "Utazás a Művészeti Galériához és parkolás",
             "ro": "Deplasare la Galeria de Artă & Parcare",
-            "en": "Drive to the Art Gallery & Parking"
+            "en": "Drive to the Art Gallery & Parking",
+            "sk": "Jazda k galérii a parkovisko"
           },
           "coords": [
             18.166,
@@ -1143,7 +1246,8 @@
             "de": "Neuer Parkplatz für den zweiten Besichtigungscluster.",
             "hu": "Új parkoló a második látnivaló-csoporthoz.",
             "ro": "O nouă parcare pentru al doilea grup de vizitare.",
-            "en": "New parking spot for the second sightseeing cluster."
+            "en": "New parking spot for the second sightseeing cluster.",
+            "sk": "Nové parkovacie miesto pre druhú skupinu pamiatok."
           }
         },
         {
@@ -1151,7 +1255,8 @@
             "de": "Sihoť-Park",
             "hu": "Sihoť park",
             "ro": "Parcul Sihoť",
-            "en": "Sihoť Park"
+            "en": "Sihoť Park",
+            "sk": "Sihoť Park"
           },
           "coords": [
             18.171,
@@ -1167,7 +1272,8 @@
             "de": "Ein Spaziergang nach dem Museumsbesuch, um frische Luft zu schnappen.",
             "hu": "Séta a múzeumlátogatás után, hogy friss levegőt szívjon.",
             "ro": "O plimbare după vizita la muzeu pentru a lua o gură de aer proaspăt.",
-            "en": "A walk after the museum visit to get some fresh air."
+            "en": "A walk after the museum visit to get some fresh air.",
+            "sk": "Prechádzka po návšteve múzea na čerstvom vzduchu."
           }
         },
         {
@@ -1175,7 +1281,8 @@
             "de": "Fahrt zum Kalvarienberg",
             "hu": "Utazás a Kálváriához",
             "ro": "Deplasare la Calvariu",
-            "en": "Drive to Calvary Hill"
+            "en": "Drive to Calvary Hill",
+            "sk": "Jazda na Kalváriu"
           },
           "coords": [
             18.158,
@@ -1191,7 +1298,8 @@
             "de": "Fahren Sie zum höchsten Punkt für eine tolle Aussicht.",
             "hu": "Vezessen fel a legmagasabb pontra a nagyszerű kilátásért.",
             "ro": "Conduceți până la cel mai înalt punct pentru o priveliște minunată.",
-            "en": "Drive to the highest point for a great view."
+            "en": "Drive to the highest point for a great view.",
+            "sk": "Došli autom na najvyšší bod pre skvelý výhľad."
           }
         }
       ],
@@ -1199,7 +1307,8 @@
         "de": "Mit dem Auto erkunden Sie Neuhäusel in bequemen Clustern. Parken Sie zuerst im Zentrum, um den Hauptplatz und die historischen Kirchen zu Fuß zu entdecken. Am Vormittag fahren Sie dann weiter zur Ernest Zmeták Kunstgalerie, wo Sie in die lokale Kunstszene eintauchen und anschließend im nahegelegenen Sihoť-Park entspannen. Der Nachmittag führt Sie zum Kalvarienberg, einem spirituellen Ort mit Panoramablick, der bequem mit dem Auto erreichbar ist und einen unvergesslichen Abschluss Ihres Besuchs bildet.",
         "hu": "Autóval kényelmesen, látnivaló-csoportonként fedezheti fel Érsekújvárt. Parkoljon le a központban, hogy gyalogosan fedezze fel a főteret és a történelmi templomokat. Délelőtt vezessen tovább a Zmeták Ernő Művészeti Galériához, ahol elmerülhet a helyi művészeti életben, majd pihenhet a közeli Sihoť parkban. A délután a Kálváriára vezet, egy panorámás kilátást nyújtó spirituális helyre, amely autóval könnyen megközelíthető, és felejthetetlen lezárása a látogatásnak.",
         "ro": "Cu mașina, explorați Nové Zámky în grupuri convenabile. Mai întâi, parcați în centru pentru a descoperi piața principală și bisericile istorice pe jos. Dimineața, continuați cu mașina spre Galeria de Artă Ernest Zmeták, unde vă puteți cufunda în scena artistică locală și apoi vă puteți relaxa în Parcul Sihoť din apropiere. După-amiaza vă duce la Dealul Calvariului, un loc spiritual cu vederi panoramice, ușor accesibil cu mașina, oferind o concluzie memorabilă vizitei dumneavoastră.",
-        "en": "By car, explore Nové Zámky in convenient clusters. First, park in the center to discover the main square and historic churches on foot. In the morning, drive on to the Ernest Zmeták Art Gallery to immerse yourself in the local art scene and then relax in the nearby Sihoť Park. The afternoon takes you to Calvary Hill, a spiritual site with panoramic views, easily accessible by car, providing a memorable conclusion to your visit."
+        "en": "By car, explore Nové Zámky in convenient clusters. First, park in the center to discover the main square and historic churches on foot. In the morning, drive on to the Ernest Zmeták Art Gallery to immerse yourself in the local art scene and then relax in the nearby Sihoť Park. The afternoon takes you to Calvary Hill, a spiritual site with panoramic views, easily accessible by car, providing a memorable conclusion to your visit.",
+        "sk": "Autom preskúmaj Nové Zámky v pohodlných skupinách. Najskôr zaparkuj v centre a pešo objav hlavné námestie a historické kostoly. Ráno sa odvezieš k Galérii Ernesta Zmetáka, aby si sa ponoril do miestnej umeleckej scény, a potom si oddýchneš v blízkom Sihoť Parku. Popoludnie ťa zavedie na Kalváriu, duchovné miesto s panoramatickými výhľadmi, ľahko dostupné autom a poskytujúce pôsobivý záver tvojej návštevy."
       },
       "gastro_picks": {
         "de": [
@@ -1339,6 +1448,11 @@
           "Check parking options and fees in advance.",
           "The car is ideal for reaching more distant destinations like Calvary Hill.",
           "Pay attention to one-way streets in the city center."
+        ],
+        "sk": [
+          "Skontroluj vopred možnosti parkovania a poplatky.",
+          "Auto je ideálne na dosiahnutie vzdialenejších miest ako Kalvária.",
+          "Dávaj pozor na jednosmerky v centre mesta."
         ]
       },
       "variants": {
@@ -1347,7 +1461,8 @@
             "de": "Die Tour beginnt entspannt mit der Parkplatzsuche am Rathaus. Mittags fahren wir zur Heilig-Kreuz-Kirche und zum Franziskanerkloster, wobei wir die kurzen Laufwege im Regen schätzen. Der Nachmittag ist der Kunstgalerie gewidmet, die über nahegelegene Parkmöglichkeiten verfügt. Zum Abschluss führt die Fahrt zum Sihoť-Park und weiter zum Kalvarienberg, wobei wir die Aussicht bequem aus dem trockenen Auto genießen können.\n\nDas Auto ist bei Regen in Nové Zámky die komfortabelste Wahl. Die Parkplatzsituation im Zentrum ist moderat, sodass Sie fast direkt vor den Sehenswürdigkeiten halten können. Nutzen Sie die Fahrtzeiten zwischen den Stopps, um sich aufzuwärmen.",
             "hu": "A túra kényelmesen indul a Városháza melletti parkolással. Délben a Szent Kereszt templomhoz és a ferences kolostorhoz autózunk, értékelve a rövid sétákat az esőben. A délutánt a művészeti galériának szenteljük, amely közelében bőséges parkolóhely áll rendelkezésre. Végül a Sihoť parkhoz, majd a Kálvária-dombhoz hajtunk, a kilátást pedig a száraz autóból is élvezhetjük.\n\nAz autó az esős időben a legkényelmesebb választás Érsekújváron. A központban a parkolási helyzet elfogadható, így szinte közvetlenül a látnivalók mellett állhatunk meg. Használja ki az utazási időt a felmelegedésre és száradásra.",
             "ro": "Turul începe relaxat cu găsirea unui loc de parcare lângă Primărie. La prânz conducem spre Biserica Sfânta Cruce și mănăstirea franciscană, apreciind distanțele scurte de mers prin ploaie. După-amiaza este dedicată galeriei de artă, care dispune de locuri de parcare în apropiere. La final, conducem spre parcul Sihoť și Dealul Calvariei, bucurându-ne de priveliște din confortul mașinii.\n\nMașina este cea mai confortabilă alegere în Nové Zámky când plouă. Situația parcărilor în centru este rezonabilă, permițându-vă să opriți aproape de obiective. Folosiți timpul de condus între opriri pentru a vă usca hăinuțele.",
-            "en": "The tour begins comfortably with parking near the Town Hall. At noon, we drive to the Holy Cross Church and the Franciscan Monastery, appreciating the minimal walking required in the rain. The afternoon is dedicated to the art gallery, which has convenient nearby parking. Finally, we drive to Sihoť Park and on to Calvary Hill, enjoying the views from the dry interior of the car.\n\nDriving is the most comfortable way to navigate Nové Zámky on a rainy day. Parking in the center is generally manageable, allowing you to stop very close to each landmark. Use the transit time between stops to warm up and dry off between visits."
+            "en": "The tour begins comfortably with parking near the Town Hall. At noon, we drive to the Holy Cross Church and the Franciscan Monastery, appreciating the minimal walking required in the rain. The afternoon is dedicated to the art gallery, which has convenient nearby parking. Finally, we drive to Sihoť Park and on to Calvary Hill, enjoying the views from the dry interior of the car.\n\nDriving is the most comfortable way to navigate Nové Zámky on a rainy day. Parking in the center is generally manageable, allowing you to stop very close to each landmark. Use the transit time between stops to warm up and dry off between visits.",
+            "sk": "Prehliadka začína pohodlne s parkovaním pri radnici. Na obed ideme autom ku kostolu Povýšenia svätého Kríža a františkánskemu kláštoru, oceníme minimálnu chôdzu v daždi. Popoludnie venujeme galérii, ktorá má pohodlné parkovanie v blízkosti. Nakoniec odvezieme do Sihoť Parku a na Kalváriu, užívajúc si výhľady z tepla interiéru auta.\n\nJazda autom je najpohodlnejší spôsob, ako sa počas daždivého dňa pohybovať po Nových Zámkoch. Parkovanie v centre je zväčša zvládnuteľné a umožní ti zastaviť veľmi blízko každej pamiatky. Využi čas medzi zastávkami na zohrievanie a osušenie."
           },
           "stops": [
             {
@@ -1356,7 +1471,8 @@
                 "de": "Zentraler Parkplatz, oft schnell belegt bei Regen.",
                 "hu": "Központi parkoló, esőben gyakran gyorsan megtelik.",
                 "ro": "Parcare centrală, adesea ocupată rapid când plouă.",
-                "en": "Central parking area, often fills up quickly on rainy days."
+                "en": "Central parking area, often fills up quickly on rainy days.",
+                "sk": "Centrálny parkovací priestor, za daždivých dní sa často rýchlo zaplní."
               }
             },
             {
@@ -1365,7 +1481,8 @@
                 "de": "Kurzer Fußweg vom Parkplatz am Platz.",
                 "hu": "Rövid séta a főtéri parkolótól.",
                 "ro": "Scurtă plimbare de la parcarea din piață.",
-                "en": "Short walk from the main square parking lot."
+                "en": "Short walk from the main square parking lot.",
+                "sk": "Krátka prechádzka od parkoviska pri hlavnom námestí."
               }
             },
             {
@@ -1374,7 +1491,8 @@
                 "de": "Parken Sie in den Seitenstraßen für einen kürzeren Weg.",
                 "hu": "Parkoljon az oldalsó utcákban a rövidebb út érdekében.",
                 "ro": "Parcați pe străzile laterale pentru un drum mai scurt.",
-                "en": "Park in the side streets for a shorter walk to the entrance."
+                "en": "Park in the side streets for a shorter walk to the entrance.",
+                "sk": "Zaparkuj v bočných uliciach pre kratšiu prechádzku k vchodu."
               }
             },
             {
@@ -1383,7 +1501,8 @@
                 "de": "Der Parkplatz ist direkt hinter dem Galeriegebäude.",
                 "hu": "A parkoló közvetlenül a galéria épülete mögött található.",
                 "ro": "Parcarea se află chiar în spatele clădirii galeriei.",
-                "en": "The parking lot is located directly behind the gallery building."
+                "en": "The parking lot is located directly behind the gallery building.",
+                "sk": "Parkovisko sa nachádza priamo za budovou galérie."
               }
             },
             {
@@ -1392,7 +1511,8 @@
                 "de": "Parken Sie am Eingang, um nicht weit laufen zu müssen.",
                 "hu": "Parkoljon a bejáratnál, hogy ne kelljen sokat gyalogolnia.",
                 "ro": "Parcați la intrare pentru a evita mersul pe jos pe distanțe mari.",
-                "en": "Park near the entrance to minimize walking in the rain."
+                "en": "Park near the entrance to minimize walking in the rain.",
+                "sk": "Zaparkuj pri vchode, aby si minimalizoval chôdzu v daždi."
               }
             },
             {
@@ -1401,7 +1521,8 @@
                 "de": "Man kann fast bis zum Fuße des Hügels fahren.",
                 "hu": "Szinte a domb lábáig lehet hajtani autóval.",
                 "ro": "Se poate conduce aproape până la baza dealului.",
-                "en": "You can drive almost to the foot of the hill."
+                "en": "You can drive almost to the foot of the hill.",
+                "sk": "Autom sa dá dojsť takmer až k úpatiu kopca."
               }
             }
           ],
@@ -1429,6 +1550,12 @@
               "Parking fees can often be paid via SMS for convenience.",
               "Avoid deep puddles at the curb when parking your car.",
               "Keep an umbrella in the car for the short walks to the entrances."
+            ],
+            "sk": [
+              "Venovať zvýšenú pozornosť chodcom pri Hlavnom námestí.",
+              "Parkovné sa často dá pohodlne zaplatiť cez SMS.",
+              "Pri parkovaní sa vyhýbaj hlbokým mlákam pri obrubníku.",
+              "Měj v aute vždy dáždnik na krátke presuny k vchodom."
             ]
           }
         },
@@ -1437,7 +1564,8 @@
             "de": "Der frostige Tag beginnt mit einer kurzen Fahrt zum Rathaus. Mittags besuchen wir die Heilig-Kreuz-Kirche, wobei wir die Sitzheizung auf dem Weg dorthin genießen. Den Nachmittag verbringen wir in der warmen Ernest-Zmeták-Galerie. Zum Sonnenuntergang fahren wir zum Sihoť-Park und beenden die Tour am Kalvarienberg, wo wir die winterliche Aussicht sicher und warm vom Fahrzeug aus betrachten können.\n\nIm Winter ist das Auto ideal, um die Kältephasen zwischen den Besichtigungen kurz zu halten. Achten Sie auf die Straßenverhältnisse, besonders in den Nebenstraßen zum Kalvarienberg. Die Parkplatzsuche im Zentrum ist im Winter meist unproblematisch.",
             "hu": "A fagyos nap rövid autózással indul a Városházához. Délben meglátogatjuk a Szent Kereszt templomot, útközben élvezve az autó fűtését. A délutánt a meleg Ernest Zmeták Galériában töltjük. Naplementekor a Sihoť parkhoz hajtunk, és a túrát a Kálvária-dombnál zárjuk, ahonnan a téli kilátást biztonságban és melegben csodálhatjuk meg.\n\nTélen az autó ideális a látnivalók közötti lehűlés minimalizálására. Ügyeljen az útviszonyokra, különösen a Kálvária-domb felé vezető mellékutcákban. A parkolás a központban télen általában nem okoz gondot.",
             "ro": "Ziua geroasă începe cu o scurtă călătorie spre Primărie. La prânz vizităm Biserica Sfânta Cruce, bucurându-ne de încălzirea din mașină pe drum. După-amiaza o petrecem în calda Galerie Ernest Zmeták. La apus conducem spre parcul Sihoť și încheiem turul la Dealul Calvariei, de unde admirăm priveliștea hibernală din căldura vehiculului.\n\nIarna, mașina este ideală pentru a minimiza frigul între vizite. Atenție la starea drumurilor, în special pe străzile secundare spre Dealul Calvariei. Găsirea unui loc de parcare în centru nu este de obicei o problemă iarna.",
-            "en": "The frosty day starts with a short drive to the Town Hall. At noon, we visit the Holy Cross Church, enjoying the car's heater along the way. We spend the afternoon in the warm Ernest Zmeták Gallery. At sunset, we drive to Sihoť Park and finish at Calvary Hill, where we can admire the winter views from the safety and warmth of the vehicle.\n\nIn winter, the car is ideal for minimizing exposure to the cold between sights. Pay attention to road conditions, especially on the side streets leading to Calvary Hill. Finding a parking spot in the center is usually easy during the winter months."
+            "en": "The frosty day starts with a short drive to the Town Hall. At noon, we visit the Holy Cross Church, enjoying the car's heater along the way. We spend the afternoon in the warm Ernest Zmeták Gallery. At sunset, we drive to Sihoť Park and finish at Calvary Hill, where we can admire the winter views from the safety and warmth of the vehicle.\n\nIn winter, the car is ideal for minimizing exposure to the cold between sights. Pay attention to road conditions, especially on the side streets leading to Calvary Hill. Finding a parking spot in the center is usually easy during the winter months.",
+            "sk": "Mrazivý deň začína krátkou jazdou k radnici. Na obed navštívime kostol Povýšenia svätého Kríža a po ceste si vychutnáme kúrenie v aute. Popoludnie strávime v teple Galérie Ernesta Zmetáka. Pri západe slnka odvezieme do Sihoť Parku a skončíme na Kalvárii, kde si z pohodlia a tepla vozidla vychutnáme zimné výhľady.\n\nV zime je auto ideálne na minimalizovanie vystavenia chladu medzi pamiatkami. Dávaj pozor na stav ciest, najmä na bočných uliciach vedúcich na Kalváriu. Nájsť parkovacie miesto v centre býva počas zimy zvyčajne jednoduché."
           },
           "stops": [
             {
@@ -1446,7 +1574,8 @@
                 "de": "Vorsicht beim Aussteigen auf glattem Untergrund.",
                 "hu": "Vigyázzon a kiszálláskor a csúszós útburkolaton.",
                 "ro": "Atenție la coborârea din mașină pe suprafețe alunecoase.",
-                "en": "Be careful when getting out of the car on slippery surfaces."
+                "en": "Be careful when getting out of the car on slippery surfaces.",
+                "sk": "Buď opatrný pri vystupovaní z auta na šmykľavom povrchu."
               }
             },
             {
@@ -1455,7 +1584,8 @@
                 "de": "Die Parkplätze am Platz werden meist gut geräumt.",
                 "hu": "A főtéri parkolókat általában jól takarítják.",
                 "ro": "Parcările din piață sunt de obicei bine deszăpezite.",
-                "en": "The parking lots in the square are usually well-cleared of snow."
+                "en": "The parking lots in the square are usually well-cleared of snow.",
+                "sk": "Parkoviská na námestí sú zvyčajne dobre odhrnuté od snehu."
               }
             },
             {
@@ -1464,7 +1594,8 @@
                 "de": "Achten Sie auf Eiszapfen an den alten Gebäudekanten.",
                 "hu": "Ügyeljen a jégcsapokra a régi épületek peremén.",
                 "ro": "Atenție la țurțurii de pe marginile clădirilor vechi.",
-                "en": "Watch out for icicles hanging from the edges of the old buildings."
+                "en": "Watch out for icicles hanging from the edges of the old buildings.",
+                "sk": "Dávaj pozor na cencúle visiace z okrajov starých budov."
               }
             },
             {
@@ -1473,7 +1604,8 @@
                 "de": "Nutzen Sie die Tiefgaragen, falls verfügbar, um das Auto warm zu halten.",
                 "hu": "Használja a mélygarázst, ha elérhető, hogy az autó meleg maradjon.",
                 "ro": "Folosiți parcările subterane, dacă sunt disponibile, pentru a menține mașina caldă.",
-                "en": "Use underground parking if available to keep the car warmer."
+                "en": "Use underground parking if available to keep the car warmer.",
+                "sk": "Použi podzemné parkovanie, ak je k dispozícii, aby bolo auto teplejšie."
               }
             },
             {
@@ -1482,7 +1614,8 @@
                 "de": "Die Zufahrtswege können bei starkem Schneefall eng sein.",
                 "hu": "Erős havazáskor a bevezető utak leszűkülhetnek.",
                 "ro": "Drumurile de acces pot fi înguste în caz de ninsoare abundentă.",
-                "en": "Access roads can become quite narrow after heavy snowfall."
+                "en": "Access roads can become quite narrow after heavy snowfall.",
+                "sk": "Prístupové cesty sa po hustom snežení môžu značne zužiť."
               }
             },
             {
@@ -1491,7 +1624,8 @@
                 "de": "Vorsicht bei Glätte auf der Steigung zum Hügel.",
                 "hu": "Vigyázzon a csúszós útra a dombra vezető emelkedőn.",
                 "ro": "Atenție la polei pe panta spre deal.",
-                "en": "Be cautious of slippery conditions on the incline leading to the hill."
+                "en": "Be cautious of slippery conditions on the incline leading to the hill.",
+                "sk": "Buď opatrný na šmykľavé podmienky v stúpaní na vrch."
               }
             }
           ],
@@ -1519,6 +1653,12 @@
               "Check your winter tires before attempting the drive to Calvary Hill.",
               "Avoid idling the engine unnecessarily during short stops.",
               "Plan for extra time to find a parking spot in the center."
+            ],
+            "sk": [
+              "V aute maj vždy škrabku na ľad a metličku na sneh.",
+              "Skontroluj zimné pneumatiky pred jazdou na Kalváriu.",
+              "Vyhýbaj sa zbytočnému voľnobehu motora počas krátkych zastávok.",
+              "Plánuj viac času na hľadanie parkovacieho miesta v centre."
             ]
           }
         }
@@ -1537,7 +1677,8 @@
             "de": "Hauptplatz",
             "hu": "Fő tér",
             "ro": "Piața Principală",
-            "en": "Main Square"
+            "en": "Main Square",
+            "sk": "Hlavné námestie"
           },
           "coords": [
             18.1645,
@@ -1553,7 +1694,8 @@
             "de": "Starten Sie an der zentralen Bushaltestelle und erkunden Sie den Platz.",
             "hu": "Induljon a központi buszmegállótól és fedezze fel a teret.",
             "ro": "Începeți de la stația centrală de autobuz și explorați piața.",
-            "en": "Start at the central bus stop and explore the square."
+            "en": "Start at the central bus stop and explore the square.",
+            "sk": "Začni na centrálnom autobusovom nástupišti a preskúmaj námestie."
           }
         },
         {
@@ -1561,7 +1703,8 @@
             "de": "Kirche der Kreuzerhöhung & Kloster",
             "hu": "Szent Kereszt Felmagasztalása templom és Kolostor",
             "ro": "Biserica Înălțarea Sfintei Cruci și Mănăstirea",
-            "en": "Church of the Exaltation of the Holy Cross & Monastery"
+            "en": "Church of the Exaltation of the Holy Cross & Monastery",
+            "sk": "Kostol Povýšenia svätého Kríža & kláštor"
           },
           "coords": [
             18.1627,
@@ -1577,7 +1720,8 @@
             "de": "Diese beiden heiligen Stätten liegen nur wenige Gehminuten voneinander entfernt.",
             "hu": "Ez a két szent hely csak pár perc sétára van egymástól.",
             "ro": "Aceste două situri sacre sunt la doar câteva minute de mers pe jos unul de celălalt.",
-            "en": "These two sacred sites are just a few minutes' walk apart."
+            "en": "These two sacred sites are just a few minutes' walk apart.",
+            "sk": "Tieto dve sakrálne miesta sú len pár minút chôdze od seba."
           }
         },
         {
@@ -1585,7 +1729,8 @@
             "de": "Fahrt zur Kunstgalerie",
             "hu": "Utazás a Művészeti Galériához",
             "ro": "Deplasare la Galeria de Artă",
-            "en": "Trip to the Art Gallery"
+            "en": "Trip to the Art Gallery",
+            "sk": "Výlet do Galérie umenia"
           },
           "coords": [
             18.166,
@@ -1601,7 +1746,8 @@
             "de": "Nehmen Sie einen lokalen Bus, um zum nächsten Kulturcluster zu gelangen.",
             "hu": "Menjen helyi busszal a következő kulturális csoporthoz.",
             "ro": "Luați un autobuz local pentru a ajunge la următorul grup cultural.",
-            "en": "Take a local bus to get to the next cultural cluster."
+            "en": "Take a local bus to get to the next cultural cluster.",
+            "sk": "Choďte miestným autobusom k ďalšiemu kultúrnemu okruhu."
           }
         },
         {
@@ -1609,7 +1755,8 @@
             "de": "Spaziergang im Sihoť-Park",
             "hu": "Séta a Sihoť parkban",
             "ro": "Plimbare în Parcul Sihoť",
-            "en": "Walk in Sihoť Park"
+            "en": "Walk in Sihoť Park",
+            "sk": "Prechádzka v parku Sihoť"
           },
           "coords": [
             18.171,
@@ -1625,7 +1772,8 @@
             "de": "Nach der Kunst ist ein Spaziergang im Park eine willkommene Abwechslung.",
             "hu": "A művészet után egy séta a parkban kellemes felüdülést jelent.",
             "ro": "După artă, o plimbare în parc este o schimbare binevenită.",
-            "en": "After the art, a walk in the park is a welcome change."
+            "en": "After the art, a walk in the park is a welcome change.",
+            "sk": "Po umeleckej expozícii je prechádzka v parku vítanou zmenou."
           }
         },
         {
@@ -1633,7 +1781,8 @@
             "de": "Fahrt zum Kalvarienberg",
             "hu": "Utazás a Kálváriához",
             "ro": "Deplasare la Calvariu",
-            "en": "Trip to Calvary Hill"
+            "en": "Trip to Calvary Hill",
+            "sk": "Výlet na Kalvársky vrch"
           },
           "coords": [
             18.158,
@@ -1649,7 +1798,8 @@
             "de": "Eine Busfahrt bringt Sie in die Nähe des Hügels für den letzten Aufstieg.",
             "hu": "Egy buszút elviszi a hegy közelébe az utolsó emelkedőhöz.",
             "ro": "O călătorie cu autobuzul vă va duce aproape de deal pentru urcarea finală.",
-            "en": "A bus ride will take you near the hill for the final climb."
+            "en": "A bus ride will take you near the hill for the final climb.",
+            "sk": "Cestou autom alebo autobusom sa dostanete blízko kopca na záverečný výstup."
           }
         }
       ],
@@ -1657,7 +1807,8 @@
         "de": "Entdecken Sie Neuhäusel mit öffentlichen Verkehrsmitteln, die Sie effizient zwischen den Sehenswürdigkeiten transportieren. Der Tag beginnt im Herzen der Stadt am Hauptplatz, von wo aus Sie die Kirchen zu Fuß erreichen. Anschließend bringt Sie ein Bus zur Ernest Zmeták Kunstgalerie, dem kulturellen Höhepunkt des Tages. Nach einem Spaziergang im Sihoť-Park fahren Sie zum Kalvarienberg. Diese Tour kombiniert kurze Spaziergänge innerhalb der Cluster mit bequemen Busfahrten und bietet eine umweltfreundliche Möglichkeit, die Stadt zu erkunden.",
         "hu": "Fedezze fel Érsekújvárt tömegközlekedéssel, amely hatékonyan szállítja a látnivalók között. A nap a város szívében, a Fő téren kezdődik, ahonnan gyalogosan elérheti a templomokat. Ezután egy busz elviszi a Zmeták Ernő Művészeti Galériához, a nap kulturális fénypontjához. A Sihoť parkban tett séta után a Kálváriához utazik. Ez a túra a látnivaló-csoportokon belüli rövid sétákat kényelmes buszutakkal ötvözi, környezetbarát módon fedezve fel a várost.",
         "ro": "Descoperiți Nové Zámky cu transportul public, care vă transportă eficient între atracții. Ziua începe în inima orașului, în Piața Principală, de unde puteți ajunge pe jos la biserici. Apoi, un autobuz vă duce la Galeria de Artă Ernest Zmeták, punctul culminant cultural al zilei. După o plimbare în Parcul Sihoť, călătoriți spre Dealul Calvariului. Acest tur combină plimbări scurte în interiorul grupurilor cu călătorii confortabile cu autobuzul, oferind o modalitate ecologică de a explora orașul.",
-        "en": "Discover Nové Zámky using public transport, which efficiently moves you between sights. The day starts in the heart of the city at the Main Square, from where you can walk to the churches. A bus then takes you to the Ernest Zmeták Art Gallery, the day's cultural highlight. After a stroll in Sihoť Park, you'll travel to Calvary Hill. This tour combines short walks within clusters with convenient bus rides, offering an eco-friendly way to explore the city."
+        "en": "Discover Nové Zámky using public transport, which efficiently moves you between sights. The day starts in the heart of the city at the Main Square, from where you can walk to the churches. A bus then takes you to the Ernest Zmeták Art Gallery, the day's cultural highlight. After a stroll in Sihoť Park, you'll travel to Calvary Hill. This tour combines short walks within clusters with convenient bus rides, offering an eco-friendly way to explore the city.",
+        "sk": "Objavte Nové Zámky pomocou verejnej dopravy, ktorá vás efektívne presúva medzi pamiatkami. Deň začína v srdci mesta na Hlavnom námestí, odkiaľ sa dá pešo prejsť ku kostolom. Následne vás autobus zavezie do Galérie Ernesta Zmetáka, ktorá je kultúrnym vrcholom dňa. Po prechádzke v parku Sihoť sa vydáte na Kalvársky vrch. Táto prehliadka kombinuje krátke pešie presuny v okruhoch s pohodlnými autobusovými jazdami, čo ponúka ekologický spôsob objavovania mesta."
       },
       "gastro_picks": {
         "de": [
@@ -1781,6 +1932,11 @@
           "Buy a day pass for public transport.",
           "Check the bus schedule in advance to minimize waiting times.",
           "Keep small change handy for tickets."
+        ],
+        "sk": [
+          "Kúpte si celodenný lístok na verejnú dopravu.",
+          "Skontrolujte pred odchodom cestovný poriadok, aby ste minimalizovali čakanie.",
+          "Majte pri sebe drobné na lístky."
         ]
       },
       "variants": {
@@ -1789,7 +1945,8 @@
             "de": "Wir starten am Hauptplatz, der mit dem Bus gut erreichbar ist. Mittags besuchen wir die Heilig-Kreuz-Kirche und das Franziskanerkloster, wobei wir die überdachten Bushaltestellen nutzen. Der Nachmittag gehört der Ernest-Zmeták-Galerie, die einen perfekten Schutz vor dem Regen bietet. Zum Abschluss führt die Tour zum Sihoť-Park und weiter zum Kalvarienberg, wobei wir die Transitzeiten zur Erholung nutzen.\n\nÖffentliche Verkehrsmittel in Nové Zámky sind bei Regen eine praktische Alternative zum Gehen. Die Haltestellen im Zentrum liegen nah an den Sehenswürdigkeiten. Nutzen Sie die Echtzeit-Apps, um Wartezeiten im Freien zu minimieren.",
             "hu": "A Fő téren kezdünk, amely busszal könnyen megközelíthető. Délben a Szent Kereszt templomot és a ferences kolostort látogatjuk meg, kihasználva a fedett buszmegállókat. A délután az Ernest Zmeták Galériáé, amely tökéletes védelmet nyújt az eső elől. Végül a Sihoť parkhoz, majd a Kálvária-dombhoz utazunk, a várakozási időt pedig pihenésre használjuk.\n\nA tömegközlekedés Érsekújváron esőben praktikus alternatíva a gyalogláshoz képest. A központi megállók közel vannak a látnivalókhoz. Használja a menetrendi alkalmazásokat a várakozási idő minimalizálása érdekében.",
             "ro": "Începem în piața centrală, ușor accesibilă cu autobuzul. La prânz vizităm Biserica Sfânta Cruce și mănăstirea franciscană, folosind stațiile de autobuz acoperite. După-amiaza aparține Galeriei Ernest Zmeták, care oferă protecție perfectă împotriva ploii. La final, călătorim spre parcul Sihoť și Dealul Calvariei, folosind timpii de tranzit pentru odihnă.\n\nTransportul public în Nové Zámky este o alternativă practică la mersul pe jos când plouă. Stațiile centrale sunt aproape de obiective. Folosiți aplicațiile de transport pentru a minimiza timpul de așteptare în aer liber.",
-            "en": "We start at the Main Square, easily accessible by bus. At noon, we visit the Holy Cross Church and the Franciscan Monastery, making use of the covered bus stops. The afternoon is spent at the Ernest Zmeták Gallery, which offers perfect shelter from the rain. Finally, we travel to Sihoť Park and Calvary Hill, using the transit times to rest and recharge.\n\nPublic transit in Nové Zámky is a practical alternative to walking on rainy days. Central stops are located conveniently close to major landmarks. Use real-time transit apps to minimize waiting time outdoors."
+            "en": "We start at the Main Square, easily accessible by bus. At noon, we visit the Holy Cross Church and the Franciscan Monastery, making use of the covered bus stops. The afternoon is spent at the Ernest Zmeták Gallery, which offers perfect shelter from the rain. Finally, we travel to Sihoť Park and Calvary Hill, using the transit times to rest and recharge.\n\nPublic transit in Nové Zámky is a practical alternative to walking on rainy days. Central stops are located conveniently close to major landmarks. Use real-time transit apps to minimize waiting time outdoors.",
+            "sk": "Začíname na Hlavnom námestí, ktoré je ľahko dostupné autobusom. Napoludnie navštívime Kostol Svätého Kríža a Františkánsky kláštor, využívajúc kryté zastávky. Popoludnie strávime v Galérii Ernesta Zmetáka, ktorá poskytuje dokonalé útočisko pred dažďom. Nakoniec sa presunieme do parku Sihoť a na Kalvársky vrch, pričom cestovné časy využijeme na odpočinok a nabitie energie.\n\nVerejná doprava v Nových Zámkoch je praktickou alternatívou k chôdzi v daždivých dňoch. Centrálne zastávky sú pohodlne blízko hlavných pamiatok. Použite aplikácie s aktuálnymi odchodmi, aby ste zminimalizovali čas čakania vonku."
           },
           "stops": [
             {
@@ -1798,7 +1955,8 @@
                 "de": "Zentraler Knotenpunkt mit vielen überdachten Haltestellen.",
                 "hu": "Központi csomópont sok fedett megállóval.",
                 "ro": "Nod central cu multe stații acoperite.",
-                "en": "Central hub with many covered bus stops for shelter."
+                "en": "Central hub with many covered bus stops for shelter.",
+                "sk": "Centrálny uzol s mnohými krytými autobusovými zastávkami na úkryt."
               }
             },
             {
@@ -1807,7 +1965,8 @@
                 "de": "Die Haltestelle ist nur wenige Schritte entfernt.",
                 "hu": "A megálló csak pár lépésnyire található.",
                 "ro": "Stația se află la doar câțiva pași distanță.",
-                "en": "The bus stop is located just a few steps away from the entrance."
+                "en": "The bus stop is located just a few steps away from the entrance.",
+                "sk": "Autobusová zastávka sa nachádza len niekoľko krokov od vchodu."
               }
             },
             {
@@ -1816,7 +1975,8 @@
                 "de": "Nutzen Sie Busse, die direkt an der Galerie halten.",
                 "hu": "Használja a közvetlenül a galériánál megálló buszokat.",
                 "ro": "Folosiți autobuzele care opresc chiar la galerie.",
-                "en": "Use buses that stop directly in front of or near the gallery."
+                "en": "Use buses that stop directly in front of or near the gallery.",
+                "sk": "Použite autobusy, ktoré stávajú priamo pred galériou alebo v jej blízkosti."
               }
             },
             {
@@ -1825,7 +1985,8 @@
                 "de": "Vorsicht beim Aussteigen aus dem Bus bei Pfützen.",
                 "hu": "Vigyázzon a buszról való leszálláskor a tócsákra.",
                 "ro": "Atenție la bălți când coborâți din autobuz.",
-                "en": "Be careful of puddles when disembarking from the bus."
+                "en": "Be careful of puddles when disembarking from the bus.",
+                "sk": "Pri vystupovaní z autobusu dávajte pozor na kaluže."
               }
             },
             {
@@ -1834,7 +1995,8 @@
                 "de": "Prüfen Sie die Taktfrequenz der Busse zum Hügel.",
                 "hu": "Ellenőrizze a domb felé tartó buszok járatsűrűségét.",
                 "ro": "Verificați frecvența autobuzelor spre deal.",
-                "en": "Check the frequency of bus services heading towards the hill."
+                "en": "Check the frequency of bus services heading towards the hill.",
+                "sk": "Skontrolujte frekvenciu spojov smerujúcich na vrch."
               }
             }
           ],
@@ -1862,6 +2024,12 @@
               "Keep small change ready if buying a ticket from the driver.",
               "Buses tend to be more crowded than usual on rainy days.",
               "Use the bus shelters as additional protection from the downpour."
+            ],
+            "sk": [
+              "Zakúpte si lístky vopred v automatoch alebo cez aplikácie.",
+              "Ak kupujete lístok u vodiča, majte pripravené drobné.",
+              "V daždivé dni sú autobusy zvyčajne preplnenejšie než obvykle.",
+              "Využite prístrešky na autobusových zastávkach ako dodatočnú ochranu pred lejakom."
             ]
           }
         },
@@ -1870,7 +2038,8 @@
             "de": "Der winterliche Tag beginnt am Hauptplatz, wobei die beheizten Busse das Vorankommen angenehm machen. Mittags wärmen wir uns in der Heilig-Kreuz-Kirche auf. Der Nachmittag gehört der Ernest-Zmeták-Galerie, in der wir die Zeit bis zur Dämmerung verbringen. Vor Einbruch der Dunkelheit fahren wir zum Sihoť-Park und beenden die Tour am Kalvarienberg, wobei wir die Kälte draußen lassen.\n\nDer Transit in Nové Zámky ist im Winter zuverlässig, aber achten Sie auf mögliche Verspätungen bei Schneefall. Die Wartezeiten an den Haltestellen sollten so kurz wie möglich gehalten werden. Die geheizten Fahrzeuge bieten eine willkommene Erholung zwischen den Besichtigungen.",
             "hu": "A téli nap a Fő téren indul, a fűtött buszok pedig kellemessé teszik az utazást. Délben a Szent Kereszt templomban melegedhetünk fel. A délutánt az Ernest Zmeták Galériában töltjük, megvárva a szürkületet. Sötétedés előtt a Sihoť parkhoz, majd a Kálvária-dombhoz utazunk, a hideget pedig a buszablakon túl hagyjuk.\n\nAz érsekújvári tömegközlekedés télen is megbízható, de havazáskor számoljon esetleges késésekkel. A megállókban töltött időt érdemes minimálisra csökkenteni. A fűtött járművek kellemes pihenést nyújtanak a látnivalók megtekintése között.",
             "ro": "Ziua de iarnă începe în piața centrală, autobuzele încălzite făcând deplasarea plăcută. La prânz ne încălzim în Biserica Sfânta Cruce. După-amiaza o petrecem la Galeria Ernest Zmeták, așteptând înserarea. Înainte de lăsarea întunericului, călătorim spre parcul Sihoť și Dealul Calvariei, lăsând gerul dincolo de geamul autobuzului.\n\nTransportul în Nové Zámky este fiabil iarna, dar fiți atenți la posibile întârzieri în caz de ninsoare. Timpul de așteptare în stații trebuie minimizat. Vehiculele încălzite oferă o relaxare binevenită între vizite.",
-            "en": "The winter day starts at the Main Square, with heated buses making the journey pleasant. At noon, we warm up inside the Holy Cross Church. We spend the afternoon at the Ernest Zmeták Gallery, staying until dusk. Before dark, we travel to Sihoť Park and Calvary Hill, leaving the biting cold outside the bus windows.\n\nTransit in Nové Zámky is reliable in winter, but watch out for potential delays during snowfall. Keep waiting times at stops to a minimum. The heated vehicles provide a welcome respite between sightseeing stops."
+            "en": "The winter day starts at the Main Square, with heated buses making the journey pleasant. At noon, we warm up inside the Holy Cross Church. We spend the afternoon at the Ernest Zmeták Gallery, staying until dusk. Before dark, we travel to Sihoť Park and Calvary Hill, leaving the biting cold outside the bus windows.\n\nTransit in Nové Zámky is reliable in winter, but watch out for potential delays during snowfall. Keep waiting times at stops to a minimum. The heated vehicles provide a welcome respite between sightseeing stops.",
+            "sk": "Zimný deň začína na Hlavnom námestí, pričom vyhrievané autobusy robia cestu príjemnou. Napoludnie sa zahrejeme v Kostole Svätého Kríža. Popoludnie strávime v Galérii Ernesta Zmetáka až do súmraku. Pred zotmením sa presunieme do parku Sihoť a na Kalvársky vrch, nechávajúc mrznúci chlad za oknami autobusu.\n\nMestská doprava v Nových Zámkoch je v zime spoľahlivá, no dávajte pozor na možné meškania pri snežení. Minimalizujte čas čakania na zastávkach. Vyhrievané vozidlá poskytujú vítané zázemie medzi prehliadkami."
           },
           "stops": [
             {
@@ -1879,7 +2048,8 @@
                 "de": "Nutzen Sie die beheizten Warteräume in der Nähe.",
                 "hu": "Használja a közelben lévő fűtött váróhelyiségeket.",
                 "ro": "Folosiți sălile de așteptare încălzite din apropiere.",
-                "en": "Take advantage of any heated waiting areas nearby if available."
+                "en": "Take advantage of any heated waiting areas nearby if available.",
+                "sk": "Využite okolité vyhrievané čakárne, ak sú k dispozícii."
               }
             },
             {
@@ -1888,7 +2058,8 @@
                 "de": "Achten Sie auf gestreute Wege an der Haltestelle.",
                 "hu": "Ügyeljen a felszórt utakra a megálló környékén.",
                 "ro": "Fiți atenți la aleile cu antiderapant din stație.",
-                "en": "Watch for gritted paths near the bus stop to avoid slipping."
+                "en": "Watch for gritted paths near the bus stop to avoid slipping.",
+                "sk": "Dávajte pozor na posypané chodníky pri zastávke, aby ste sa nepošmykli."
               }
             },
             {
@@ -1897,7 +2068,8 @@
                 "de": "Vermeiden Sie langes Warten durch genaue Abfahrtzeiten.",
                 "hu": "Kerülje a hosszú várakozást a pontos indulási időkkel.",
                 "ro": "Evitați așteptarea prelungită verificând orele exacte de plecare.",
-                "en": "Avoid long waits by checking exact departure times on your phone."
+                "en": "Avoid long waits by checking exact departure times on your phone.",
+                "sk": "Vyhnite sa dlhému čakaniu kontrolou presných odchodov v telefóne."
               }
             },
             {
@@ -1906,7 +2078,8 @@
                 "de": "Die Bushaltestelle liegt etwas exponierter zum Wind.",
                 "hu": "A buszmegálló itt jobban ki van téve a szélnek.",
                 "ro": "Stația de autobuz este mai expusă vântului aici.",
-                "en": "The bus stop here is more exposed to the wind from the river."
+                "en": "The bus stop here is more exposed to the wind from the river.",
+                "sk": "Táto zastávka je viac vystavená vetru od rieky."
               }
             },
             {
@@ -1915,7 +2088,8 @@
                 "de": "Im Winter verkehren weniger Busse in den Randzeiten.",
                 "hu": "Télen a peremidőszakokban kevesebb busz járhat.",
                 "ro": "Iarna, mai puține autobuze circulă la orele de vârf secundare.",
-                "en": "Fewer buses may run towards the outskirts during off-peak winter hours."
+                "en": "Fewer buses may run towards the outskirts during off-peak winter hours.",
+                "sk": "Počas zimných mimoriadnych hodín môže premávať menej spojov smerom do okrajových častí."
               }
             }
           ],
@@ -1943,6 +2117,12 @@
               "Bus windows often fog up in the winter due to temperature changes.",
               "Use the 'imhd.sk' app for up-to-date schedule information.",
               "Have your ticket ready to minimize the time the bus doors stay open."
+            ],
+            "sk": [
+              "Noste teplé ponožky, pretože povrch pri zastávkach môže byť mrznúci.",
+              "Okuliare a okná autobusov sa v zime často zahmlievajú kvôli teplotným rozdielom.",
+              "Použite aplikáciu 'imhd.sk' pre aktuálne informácie o spojoch.",
+              "Majte lístok pripravený, aby sa minimalizoval čas otvorenia dverí autobusu."
             ]
           }
         }

@@ -21,7 +21,8 @@
             "de": "Andrej-Bagár-Theater",
             "hu": "Andrej Bagar Színház",
             "ro": "Teatrul Andrej Bagar",
-            "en": "Andrej Bagar Theatre"
+            "en": "Andrej Bagar Theatre",
+            "sk": "Divadlo Andreja Bagara"
           },
           "coords": [
             18.088,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die modernistische Architektur und prüfen Sie das Abendprogramm.",
             "hu": "Csodálja meg a modernista építészetet és nézze meg az esti programot.",
             "ro": "Admirați arhitectura modernistă și verificați programul de seară.",
-            "en": "Admire the modernist architecture and check the evening schedule."
+            "en": "Admire the modernist architecture and check the evening schedule.",
+            "sk": "Obdivujte modernejšiu architektúru a skontrolujte večerný program."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Nitra Synagoge",
             "hu": "Nyitrai Zsinagóga",
             "ro": "Sinagoga din Nitra",
-            "en": "Nitra Synagogue"
+            "en": "Nitra Synagogue",
+            "sk": "Nitranská synagóga"
           },
           "coords": [
             18.0865,
@@ -59,7 +62,8 @@
             "de": "Die maurische Architektur ist innen noch beeindruckender als außen.",
             "hu": "A mór építészet belülről még lenyűgözőbb, mint kívülről.",
             "ro": "Arhitectura maură este chiar mai impresionantă în interior decât la exterior.",
-            "en": "The Moorish architecture is even more impressive on the inside."
+            "en": "The Moorish architecture is even more impressive on the inside.",
+            "sk": "Moorovská architektúra je vnútorné ešte pôsobivejšia."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Burg Nitra",
             "hu": "Nyitrai vár",
             "ro": "Castelul Nitra",
-            "en": "Nitra Castle"
+            "en": "Nitra Castle",
+            "sk": "Nitriansky hrad"
           },
           "coords": [
             18.087,
@@ -82,7 +87,8 @@
             "de": "Der Aufstieg lohnt sich für den Panoramablick über die Stadt.",
             "hu": "Megéri felmenni a városra nyíló panorámáért.",
             "ro": "Urcușul merită pentru vederea panoramică asupra orașului.",
-            "en": "The climb is worth it for the panoramic view over the city."
+            "en": "The climb is worth it for the panoramic view over the city.",
+            "sk": "Výstup sa oplatí kvôli panoramatickému výhľadu na mesto."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Kathedrale des heiligen Emmeram",
             "hu": "Szent Emmerám-székesegyház",
             "ro": "Catedrala Sfântul Emmeram",
-            "en": "St. Emmeram's Cathedral"
+            "en": "St. Emmeram's Cathedral",
+            "sk": "Katedrála sv. Emeráma"
           },
           "coords": [
             18.0875,
@@ -105,7 +112,8 @@
             "de": "Besteht aus drei Kirchen verschiedener Epochen. Einzigartig!",
             "hu": "Három különböző korból származó templomból áll. Egyedülálló!",
             "ro": "Compusă din trei biserici din epoci diferite. Unic!",
-            "en": "Consists of three churches from different eras. Truly unique!"
+            "en": "Consists of three churches from different eras. Truly unique!",
+            "sk": "Skladá sa z troch kostolov z rôznych období. Naozaj jedinečné!"
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Kalvarienberg Nitra",
             "hu": "Nyitrai Kálvária",
             "ro": "Calvarul din Nitra",
-            "en": "Nitra Calvary"
+            "en": "Nitra Calvary",
+            "sk": "Nitrianska kalvária"
           },
           "coords": [
             18.08,
@@ -128,7 +137,8 @@
             "de": "Ein ruhiger Ort für einen Nachmittagsspaziergang mit schöner Aussicht.",
             "hu": "Csendes hely egy délutáni sétához, gyönyörű kilátással.",
             "ro": "Un loc liniștit pentru o plimbare de după-amiază cu o priveliște frumoasă.",
-            "en": "A peaceful spot for an afternoon walk with a beautiful view."
+            "en": "A peaceful spot for an afternoon walk with a beautiful view.",
+            "sk": "Pokojné miesto na popoludňajšiu prechádzku s krásnym výhľadom."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Zobor-Hügel",
             "hu": "Zobor-hegy",
             "ro": "Dealul Zobor",
-            "en": "Zobor Hill"
+            "en": "Zobor Hill",
+            "sk": "Zobor"
           },
           "coords": [
             18.105,
@@ -151,7 +162,8 @@
             "de": "Der beste Ort, um den Sonnenuntergang über Nitra zu beobachten.",
             "hu": "A legjobb hely a naplemente megtekintéséhez Nyitra felett.",
             "ro": "Cel mai bun loc pentru a privi apusul peste Nitra.",
-            "en": "The best place to watch the sunset over Nitra."
+            "en": "The best place to watch the sunset over Nitra.",
+            "sk": "Najlepšie miesto na sledovanie západu slnka nad Nitrou."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Ihr Tag in Nitra beginnt im Herzen der Stadt, wo Kultur auf Geschichte trifft. Am Vormittag erklimmen Sie den Burghügel, das historische Zentrum der Macht und des Glaubens. Spüren Sie die Jahrhunderte unter Ihren Füßen. Nach dem Mittagessen in der Unterstadt führt Sie ein Spaziergang zum Kalvarienberg, einem Ort der Besinnung. Den Abschluss bildet der Aufstieg auf den Zobor-Hügel, wo Sie mit einem unvergesslichen Sonnenuntergang belohnt werden, der die Stadt in goldenes Licht taucht.",
         "hu": "Nyitrai napja a város szívében kezdődik, ahol a kultúra és a történelem találkozik. Délelőtt megmássza a Várhegyet, a hatalom és a hit történelmi központját. Érezze a lábai alatt elterülő évszázadokat. Az alsóvárosban elköltött ebéd után egy séta vezet a Kálváriához, a csendes elmélkedés helyszínére. A napot a Zobor-hegy megmászása zárja, ahol egy felejthetetlen naplemente arany fénybe borítja a várost.",
         "ro": "Ziua dvs. în Nitra începe în inima orașului, unde cultura întâlnește istoria. Dimineața, urcați pe Dealul Castelului, centrul istoric al puterii și credinței. Simțiți secolele sub picioarele voastre. După prânzul în orașul de jos, o plimbare vă duce la Calvar, un loc de reflecție. Ziua se încheie cu urcarea pe Dealul Zobor, unde veți fi răsplătit cu un apus de soare de neuitat, care scaldă orașul într-o lumină aurie.",
-        "en": "Your day in Nitra begins in the heart of the city, where culture meets history. In the morning, you'll climb Castle Hill, the historic center of power and faith. Feel the centuries beneath your feet. After lunch in the lower town, a walk takes you to the Calvary, a place of contemplation. The day concludes with an ascent of Zobor Hill, where you'll be rewarded with an unforgettable sunset, bathing the city in golden light."
+        "en": "Your day in Nitra begins in the heart of the city, where culture meets history. In the morning, you'll climb Castle Hill, the historic center of power and faith. Feel the centuries beneath your feet. After lunch in the lower town, a walk takes you to the Calvary, a place of contemplation. The day concludes with an ascent of Zobor Hill, where you'll be rewarded with an unforgettable sunset, bathing the city in golden light.",
+        "sk": "Váš deň v Nitre začína v centre mesta, kde sa stretáva kultúra a história. Ráno vystúpite na Hradný vrch, historické centrum moci a viery. Pocítite pod nohami stáročia. Po obede v dolnom meste vás prechádzka zavedie na Kalváriu, miesto kontemplácie. Deň zakončíte výstupom na Zobor, odkiaľ budete odmenení nezabudnuteľným západom slnka, ktorý zalieva mesto zlatým svetlom."
       },
       "gastro_picks": {
         "de": [
@@ -335,6 +348,11 @@
           "Wear comfortable shoes as the path to the castle and Zobor Hill is steep.",
           "Bring enough water for the hikes.",
           "Most sights in the city center are easily reachable on foot."
+        ],
+        "sk": [
+          "Obujte si pohodlnú obuv, cesta na hrad a na Zobor je strmá.",
+          "So sebou vezmite dostatok vody na výstupy.",
+          "Väčšinu pamiatok v centre ľahko dosiahnete pešo."
         ]
       },
       "variants": {
@@ -343,7 +361,8 @@
             "de": "Ein regnerischer Morgen in Nitra beginnt am Andrej-Bagar-Theater. Mittags bietet die Synagoge und die Burg Nitra trockenen Unterschlupf. Nachmittags besuchen Sie die Kathedrale, während der Regen gegen die alten Mauern trommelt. Der Aufstieg zum Kalvarienberg und zum Zobor-Hügel ist bei Nässe anspruchsvoll, belohnt aber mit einer nebligen, mystischen Atmosphäre über der Stadt.",
             "hu": "Az esős nyitrai reggel az Andrej Bagar Színháznál indul. Délben a Zsinagóga és a vár nyújt menedéket a csapadék elől. Délután a Szent Emmerám-székesegyház belső tereit fedezzük fel. Bár a Kálvária és a Zobor-hegy megmászása esőben csúszós és sáros lehet, a város feletti ködös panoráma különleges, misztikus élményt nyújt a nap végén.",
             "ro": "O dimineață ploioasă în Nitra începe la Teatrul Andrej Bagar. La prânz, Sinagoga și Castelul oferă adăpost uscat. După-amiaza vizităm Catedrala, în timp ce ploaia bate în geamurile vechi. Urcarea pe Calvar și pe dealul Zobor este provocatoare pe vreme umedă, dar oferă o atmosferă mistică și cețoasă deasupra orașului la finalul zilei.",
-            "en": "A rainy morning in Nitra starts at the Andrej Bagar Theatre. At noon, the Synagogue and Nitra Castle provide dry shelter. In the afternoon, explore the Cathedral's interior. Although the climb to Calvary and Zobor Hill is slippery when wet, the misty views over the city offer a unique, atmospheric experience to end your walking tour."
+            "en": "A rainy morning in Nitra starts at the Andrej Bagar Theatre. At noon, the Synagogue and Nitra Castle provide dry shelter. In the afternoon, explore the Cathedral's interior. Although the climb to Calvary and Zobor Hill is slippery when wet, the misty views over the city offer a unique, atmospheric experience to end your walking tour.",
+            "sk": "Daždivé ráno v Nitre začína v Divadle Andreja Bagara. Na obed poskytujú suché útočisko synagóga a Nitriansky hrad. Popoludní preskúmajte interiér katedrály. Hoci je výstup na Kalváriu a Zobor po daždi šmykľavý, mračné výhľady nad mestom ponúkajú jedinečnú atmosférickú skúsenosť na zakončenie pešej prehliadky."
           },
           "stops": [
             {
@@ -352,7 +371,8 @@
                 "de": "Nutzen Sie das große Vordach des Theaters als Treffpunkt im Trockenen.",
                 "hu": "A színház tágas előcsarnoka kiváló menedék a hirtelen eső elől.",
                 "ro": "Folosiți copertina mare a teatrului ca punct de întâlnire la adăpost.",
-                "en": "Use the large theatre canopy as a dry meeting point to start your day."
+                "en": "Use the large theatre canopy as a dry meeting point to start your day.",
+                "sk": "Veľké prestrešenie pri divadle je skvelým suchým miestom na začiatok dňa."
               }
             },
             {
@@ -361,7 +381,8 @@
                 "de": "Perfekter Ort für eine längere Pause im Trockenen bei Ausstellungen.",
                 "hu": "Ideális helyszín egy hosszabb beltéri pihenőhöz a kiállítások között.",
                 "ro": "Locul perfect pentru o pauză lungă la interior printre expoziții.",
-                "en": "Perfect spot for a long indoor break while enjoying the exhibitions."
+                "en": "Perfect spot for a long indoor break while enjoying the exhibitions.",
+                "sk": "Perfektné miesto na dlhší vnútorný oddych pri výstavách."
               }
             },
             {
@@ -370,7 +391,8 @@
                 "de": "Die Kasematten und das Diözesanmuseum bieten Schutz vor dem Regen.",
                 "hu": "A kazamaták és az egyházmegyei múzeum fedett menedéket nyújtanak.",
                 "ro": "Cazematele și muzeul eparhial oferă protecție împotriva ploii.",
-                "en": "The casemates and diocesan museum offer great shelter from the rain."
+                "en": "The casemates and diocesan museum offer great shelter from the rain.",
+                "sk": "Kasematy a diecézne múzeum ponúkajú vynikajúci úkryt pred dažďom."
               }
             },
             {
@@ -379,7 +401,8 @@
                 "de": "Genießen Sie die Stille im Inneren, während es draußen regnet.",
                 "hu": "Élvezze a belső tér nyugalmát, amíg kint eláll az égi áldás.",
                 "ro": "Bucurați-vă de liniștea interiorului în timp ce afară plouă.",
-                "en": "Enjoy the peaceful interior silence while waiting for the rain to pass."
+                "en": "Enjoy the peaceful interior silence while waiting for the rain to pass.",
+                "sk": "Užite si pokojné ticho vnútorných priestorov, kým dážď prestane."
               }
             },
             {
@@ -388,7 +411,8 @@
                 "de": "Vorsicht, die Felsenpfade können bei Regen sehr rutschig sein.",
                 "hu": "Vigyázat, az esőben a sziklás ösvények rendkívül csúszóssá válnak.",
                 "ro": "Atenție, potecile stâncoase pot fi foarte alunecoase pe ploaie.",
-                "en": "Caution, the rocky paths can become very slippery during rainfall."
+                "en": "Caution, the rocky paths can become very slippery during rainfall.",
+                "sk": "Pozor, skalnaté chodníky môžu byť počas dažďa veľmi šmykľavé."
               }
             },
             {
@@ -397,7 +421,8 @@
                 "de": "Wasserdichte Schuhe sind für den schlammigen Waldpfad unerlässlich.",
                 "hu": "Vízálló túrabakancs kötelező a sárossá váló erdei ösvényeken.",
                 "ro": "Încălțămintea impermeabilă este esențială pentru poteca noroioasă.",
-                "en": "Waterproof footwear is essential for the muddy forest trail uphill."
+                "en": "Waterproof footwear is essential for the muddy forest trail uphill.",
+                "sk": "Nepremokavá obuv je nevyhnutná na blatistý lesný chodník do kopca."
               }
             }
           ],
@@ -425,6 +450,12 @@
               "The castle museums are ideal retreats during heavy rain showers.",
               "Wear hiking boots with good grip for the slippery Zobor climb.",
               "Cafes in the pedestrian zone offer cozy spots for a warm break."
+            ],
+            "sk": [
+              "Dáždnik a nepremokavé oblečenie sú nevyhnutnosti v hornom meste.",
+              "Hradné múzeá sú ideálnym útočiskom počas silných dažďov.",
+              "Obujte si turistické topánky s dobrým záberom na šmykľavý výstup na Zobor.",
+              "Kaviarne v pešej zóne ponúkajú útulné miesta na teplú prestávku."
             ]
           }
         },
@@ -433,7 +464,8 @@
             "de": "Nitra im Winter verzaubert durch eine frostige Ruhe. Der Tag beginnt am Theater, gefolgt von der wärmenden Akustik der Synagoge. Mittags thront die schneebedeckte Burg über der Stadt. Nach der Kathedrale führt der Weg zum Kalvarienberg, wo der Frost die Felsen glitzern lässt. Der Aufstieg zum Zobor endet pünktlich zum frühen Sonnenuntergang gegen 16:30 Uhr mit einem Panoramablick.",
             "hu": "Nyitra télen fagyos nyugalomba burkolózik. A nap a színháznál kezdődik, majd a Zsinagóga fűtött tereiben folytatódik. Délben a hófödte vár látványa uralja a várost. A székesegyház után a Kálvária sziklái csillognak a zúzmarától. A Zobor-hegyre való feljutást érdemes a korai, 16:30 körüli naplementére időzíteni a téli panoráma miatt.",
             "ro": "Nitra în timpul iernii este fermecătoare prin liniștea sa înghețată. Ziua începe la teatru, urmată de acustica caldă a Sinagogii. La prânz, castelul înzăpezit domină orașul. După catedrală, drumul duce spre Calvar, unde gerul face stâncile să strălucească. Urcarea pe Zobor se termină la timp pentru apusul devreme de la 16:30.",
-            "en": "Nitra in winter is enchanted by a frosty silence. The day starts at the theatre, followed by the warming atmosphere of the Synagogue. At noon, the snow-covered castle overlooks the city. After the Cathedral, head to Calvary where frost sparkles on the rocks. The Zobor climb concludes just in time for the early sunset around 16:30."
+            "en": "Nitra in winter is enchanted by a frosty silence. The day starts at the theatre, followed by the warming atmosphere of the Synagogue. At noon, the snow-covered castle overlooks the city. After the Cathedral, head to Calvary where frost sparkles on the rocks. The Zobor climb concludes just in time for the early sunset around 16:30.",
+            "sk": "Nitra v zime očarí mrazivým tichom. Deň začína v divadle, nasleduje hrejivá atmosféra Synagógy. Na poludnie zasnežený hrad dohliada na mesto. Po Katedrále zamierte na Kalváriu, kde mráz trbliece na skalách. Výstup na Zobor končí presne načas na skorý západ slnka okolo 16:30."
           },
           "stops": [
             {
@@ -442,7 +474,8 @@
                 "de": "Wärmen Sie sich im Foyer auf, bevor Sie den Stadtrundgang starten.",
                 "hu": "Melegedjen fel a színház előcsarnokában a városnézés megkezdése előtt.",
                 "ro": "Încălziți-vă în foier înainte de a începe turul orașului.",
-                "en": "Warm up in the foyer before starting your winter city walk."
+                "en": "Warm up in the foyer before starting your winter city walk.",
+                "sk": "Zahrejte sa vo foyer pred začiatkom zimnej prehliadky mesta."
               }
             },
             {
@@ -451,7 +484,8 @@
                 "de": "Genießen Sie die Innenausstellungen fernab der winterlichen Kälte.",
                 "hu": "Élvezze a belső kiállításokat a téli hidegtől távol, fűtött térben.",
                 "ro": "Bucurați-vă de expozițiile interioare departe de frigul iernii.",
-                "en": "Enjoy the indoor exhibitions far away from the biting winter cold."
+                "en": "Enjoy the indoor exhibitions far away from the biting winter cold.",
+                "sk": "Užite si vnútorné expozície ďaleko od prenikavého zimného chladu."
               }
             },
             {
@@ -460,7 +494,8 @@
                 "de": "Vorsicht vor vereisten Pflastersteinen beim Aufstieg zum Burgtor.",
                 "hu": "Vigyázzon a jeges macskakövekre a várkapuhoz vezető emelkedőn.",
                 "ro": "Atenție la pavajul înghețat în timpul urcării spre poarta castelului.",
-                "en": "Watch out for icy cobblestones while climbing to the castle gate."
+                "en": "Watch out for icy cobblestones while climbing to the castle gate.",
+                "sk": "Dávajte pozor na ľadové kočky na dláždených uliciach pri výstupe k hradnej bráne."
               }
             },
             {
@@ -469,7 +504,8 @@
                 "de": "Die dicken Mauern halten die Kälte ab, ideal für eine besinnliche Pause.",
                 "hu": "A vastag falak jól tartják a hőt, ideális egy rövid elcsendesedéshez.",
                 "ro": "Zidurile groase țin frigul la distanță, fiind ideale pentru o pauză.",
-                "en": "The thick walls block the cold, ideal for a quiet, reflective break."
+                "en": "The thick walls block the cold, ideal for a quiet, reflective break.",
+                "sk": "Hrubé múry blokujú chlad, ideálne na tiché, zamyslené prestávky."
               }
             },
             {
@@ -478,7 +514,8 @@
                 "de": "Der felsige Aufstieg kann bei Frost sehr glatt sein. Festes Schuhwerk!",
                 "hu": "A sziklás feljáró fagyban nagyon csúszós. Csak bordázott talpú cipőben!",
                 "ro": "Urcarea stâncoasă poate fi foarte alunecoasă. Purtați ghete solide!",
-                "en": "The rocky climb can be very slick in frost. Wear sturdy boots!"
+                "en": "The rocky climb can be very slick in frost. Wear sturdy boots!",
+                "sk": "Skalnatý výstup môže byť na mraze veľmi šmykľavý. Noste pevné topánky!"
               }
             },
             {
@@ -487,7 +524,8 @@
                 "de": "Planen Sie den Abstieg vor Dunkelheit (Sonnenuntergang ca. 16:30).",
                 "hu": "Tervezze meg a leereszkedést sötétedés előtt (naplemente 16:30 körül).",
                 "ro": "Planificați coborârea înainte de lăsarea întunericului (apus la 16:30).",
-                "en": "Plan your descent before dark, as sunset occurs around 16:30 in winter."
+                "en": "Plan your descent before dark, as sunset occurs around 16:30 in winter.",
+                "sk": "Plánujte zostup pred zotmením, pretože západ slnka v zime nastáva okolo 16:30."
               }
             }
           ],
@@ -515,6 +553,12 @@
               "Sunset is early, around 16:30 – carry a flashlight or headlamp.",
               "The castle complex can be extremely windy and cold; pack a hat.",
               "Public buildings like the Synagogue are great for warming up."
+            ],
+            "sk": [
+              "Plánujte vrstvené oblečenie a vezmite termosku na výstup na Zobor.",
+              "Západ slnka je skoro, okolo 16:30 – noste baterku alebo čelovku.",
+              "Hradný komplex môže byť veľmi veterný a chladný; zabaľte si čiapku.",
+              "Verejné budovy ako Synagóga sú skvelé na zahriatie."
             ]
           }
         }
@@ -533,7 +577,8 @@
             "de": "Burg Nitra & Kathedrale",
             "hu": "Nyitrai vár és Székesegyház",
             "ro": "Castelul Nitra și Catedrala",
-            "en": "Nitra Castle & Cathedral"
+            "en": "Nitra Castle & Cathedral",
+            "sk": "Hrad a katedrála Nitra"
           },
           "coords": [
             18.087,
@@ -548,7 +593,8 @@
             "de": "Schließen Sie Ihr Fahrrad am Fuße des Hügels ab und erkunden Sie den Komplex zu Fuß.",
             "hu": "Zárja le a kerékpárt a hegy lábánál, és fedezze fel a komplexumot gyalog.",
             "ro": "Lăsați bicicleta la poalele dealului și explorați complexul pe jos.",
-            "en": "Lock your bike at the bottom of the hill and explore the complex on foot."
+            "en": "Lock your bike at the bottom of the hill and explore the complex on foot.",
+            "sk": "Zamknite si bicykel na úpätí kopca a komplex preskúmajte pešo."
           }
         },
         {
@@ -556,7 +602,8 @@
             "de": "Nitra Synagoge",
             "hu": "Nyitrai Zsinagóga",
             "ro": "Sinagoga din Nitra",
-            "en": "Nitra Synagogue"
+            "en": "Nitra Synagogue",
+            "sk": "Nitranská synagóga"
           },
           "coords": [
             18.0865,
@@ -571,7 +618,8 @@
             "de": "Ein kurzer Stopp, um die faszinierende Fassade zu bewundern.",
             "hu": "Egy rövid megálló, hogy megcsodálhassa a lenyűgöző homlokzatot.",
             "ro": "O scurtă oprire pentru a admira fațada fascinantă.",
-            "en": "A quick stop to admire the fascinating facade."
+            "en": "A quick stop to admire the fascinating facade.",
+            "sk": "Krátka zastávka na obdivovanie fascinujúcej fasády."
           }
         },
         {
@@ -579,7 +627,8 @@
             "de": "Mittagessen in der Altstadt",
             "hu": "Ebéd az Óvárosban",
             "ro": "Prânz în Orașul Vechi",
-            "en": "Lunch in the Old Town"
+            "en": "Lunch in the Old Town",
+            "sk": "Obed v Starom meste"
           },
           "coords": [
             18.085,
@@ -594,7 +643,8 @@
             "de": "Stärken Sie sich mit lokalen Spezialitäten für die Nachmittagstour.",
             "hu": "Erősítse meg magát helyi specialitásokkal a délutáni túrára.",
             "ro": "Întăriți-vă cu specialități locale pentru turul de după-amiază.",
-            "en": "Refuel with local specialties for the afternoon tour."
+            "en": "Refuel with local specialties for the afternoon tour.",
+            "sk": "Doprajte si miestne špeciality pred popoludňajšou prehliadkou."
           }
         },
         {
@@ -602,7 +652,8 @@
             "de": "Agrokomplex Messegelände",
             "hu": "Agrokomplex Kiállítási Központ",
             "ro": "Centrul Expozițional Agrokomplex",
-            "en": "Agrokomplex Exhibition Grounds"
+            "en": "Agrokomplex Exhibition Grounds",
+            "sk": "Výstavisko Agrokomplex"
           },
           "coords": [
             18.112,
@@ -617,7 +668,8 @@
             "de": "Eine gemütliche Radtour entlang des Flusses führt Sie hierher.",
             "hu": "Egy kellemes kerékpártúra a folyó mentén vezet ide.",
             "ro": "O plimbare relaxantă cu bicicleta de-a lungul râului vă va duce aici.",
-            "en": "A pleasant bike ride along the river will lead you here."
+            "en": "A pleasant bike ride along the river will lead you here.",
+            "sk": "Príjemná cyklistická trasa pozdĺž rieky vás sem dovedie."
           }
         },
         {
@@ -625,7 +677,8 @@
             "de": "Kalvarienberg Nitra",
             "hu": "Nyitrai Kálvária",
             "ro": "Calvarul din Nitra",
-            "en": "Nitra Calvary"
+            "en": "Nitra Calvary",
+            "sk": "Nitrianska Kalvária"
           },
           "coords": [
             18.08,
@@ -640,7 +693,8 @@
             "de": "Stellen Sie sich auf einen kurzen, aber steilen Anstieg ein.",
             "hu": "Készüljön fel egy rövid, de meredek emelkedőre.",
             "ro": "Pregătiți-vă pentru o urcare scurtă, dar abruptă.",
-            "en": "Be prepared for a short but steep climb."
+            "en": "Be prepared for a short but steep climb.",
+            "sk": "Pripravte sa na krátky, ale strmý výstup."
           }
         },
         {
@@ -648,7 +702,8 @@
             "de": "Dražovce Kirche",
             "hu": "Drazsóci templom",
             "ro": "Biserica din Dražovce",
-            "en": "Dražovce Church"
+            "en": "Dražovce Church",
+            "sk": "Dražovský kostol"
           },
           "coords": [
             18.055,
@@ -663,7 +718,8 @@
             "de": "Die Radtour zu diesem Juwel außerhalb der Stadt ist die Anstrengung wert.",
             "hu": "A kerékpártúra ehhez a városon kívüli gyöngyszemhez megéri az erőfeszítést.",
             "ro": "Excursia cu bicicleta la această bijuterie din afara orașului merită efortul.",
-            "en": "The bike ride to this gem outside the city is worth the effort."
+            "en": "The bike ride to this gem outside the city is worth the effort.",
+            "sk": "Bicyklový výlet k tomuto klenotu mimo mesta stojí za námahu."
           }
         }
       ],
@@ -671,7 +727,8 @@
         "de": "Schwingen Sie sich aufs Rad und erleben Sie Nitra aktiv. Der Vormittag gehört dem historischen Kern auf dem Burghügel. Nach einer wohlverdienten Mittagspause in der Altstadt radeln Sie am Nachmittag gemütlich entlang des Flusses zum Agrokomplex. Später stellen Sie sich der Herausforderung des Kalvarienbergs, bevor Sie die Tour mit einem Abstecher zur ikonischen Kirche von Dražovce krönen, die malerisch in der Landschaft thront.",
         "hu": "Pattanjon kerékpárra és fedezze fel Nyitrát aktívan. A délelőtt a Várhegy történelmi magjáé. Egy jól megérdemelt ebédszünet után az óvárosban délután kényelmesen tekerjen a folyó mentén az Agrokomplexhez. Később nézzen szembe a Kálvária kihívásával, mielőtt a túrát a festői tájban trónoló, ikonikus drazsóci templomhoz tett kitérővel koronázza meg.",
         "ro": "Urcați-vă pe bicicletă și experimentați Nitra în mod activ. Dimineața este dedicată centrului istoric de pe Dealul Castelului. După o pauză de prânz binemeritată în Orașul Vechi, pedalați relaxat de-a lungul râului spre Agrokomplex după-amiaza. Mai târziu, înfruntați provocarea Dealului Calvarului, înainte de a încheia turul cu o vizită la biserica emblematică din Dražovce, așezată pitoresc în peisaj.",
-        "en": "Hop on your bike and experience Nitra actively. The morning belongs to the historic core on Castle Hill. After a well-deserved lunch break in the Old Town, you'll leisurely cycle along the river to the Agrokomplex in the afternoon. Later, face the challenge of Calvary Hill before crowning the tour with a trip to the iconic Dražovce Church, picturesquely perched in the landscape."
+        "en": "Hop on your bike and experience Nitra actively. The morning belongs to the historic core on Castle Hill. After a well-deserved lunch break in the Old Town, you'll leisurely cycle along the river to the Agrokomplex in the afternoon. Later, face the challenge of Calvary Hill before crowning the tour with a trip to the iconic Dražovce Church, picturesquely perched in the landscape.",
+        "sk": "Naskočte na bicykel a zažite Nitru aktívne. Ráno patrí historickému jadru na Hradnom vrchu. Po zaslúženom obede v Starom meste pokojne dojazdíte pozdĺž rieky k Agrokomplexu na popoludnie. Neskôr zvládnete výzvu Kalvárie a korunu výletu tvorí návšteva ikonického Dražovského kostolíka, malebne čníaceho v krajine."
       },
       "gastro_picks": {
         "de": [
@@ -811,6 +868,11 @@
           "Check your tire pressure before setting off.",
           "Nitra has some hills, so be prepared for climbs.",
           "Use the bike paths along the river for a safe and scenic ride."
+        ],
+        "sk": [
+          "Skontrolujte tlak v pneumatikách pred odjazdom.",
+          "Nitra má niekoľko kopcov, pripravte sa na výstupy.",
+          "Využite cyklistické trasy pozdĺž rieky pre bezpečnú a malebnú jazdu."
         ]
       },
       "variants": {
@@ -819,7 +881,8 @@
             "de": "Ein regnerischer Radtag in Nitra erfordert gute Ausrüstung. Vormittags besuchen wir die Burg und die Synagoge, die Schutz bieten. Das Mittagessen in der Altstadt dient zum Trocknen der Kleidung. Nachmittags erkunden wir die Messehallen des Agrokomplexes (ideal bei Regen), bevor wir trotz Nässe den Kalvarienberg und die Kirche von Dražovce ansteuern.",
             "hu": "Az esős kerékpáros nap Nyitrán jó felszerelést igényel. Délelőtt a várat és a Zsinagógát látogatjuk meg, melyek menedéket adnak. Az óvárosi ebéd alatt megszáríthatjuk ruháinkat. Délután az Agrokomplex fedett csarnokai ideálisak, majd az eső ellenére érintjük a Kálváriát és a drávoci templomot.",
             "ro": "O zi de ciclism ploioasă în Nitra necesită echipament bun. Dimineața vizităm castelul și sinagoga, care oferă adăpost. Prânzul în orașul vechi ajută la uscarea hainelor. După-amiaza explorăm pavilioanele Agrokomplex (ideale pe ploaie), înainte de a merge spre Calvar și biserica din Dražovce.",
-            "en": "A rainy cycling day in Nitra demands good gear. In the morning, visit the castle and synagogue for shelter. Lunch in the Old Town is the perfect time to dry off. In the afternoon, explore the Agrokomplex halls (perfect for rain), then proceed to Calvary and the Dražovce church despite the damp weather."
+            "en": "A rainy cycling day in Nitra demands good gear. In the morning, visit the castle and synagogue for shelter. Lunch in the Old Town is the perfect time to dry off. In the afternoon, explore the Agrokomplex halls (perfect for rain), then proceed to Calvary and the Dražovce church despite the damp weather.",
+            "sk": "Daždivý deň na bicykli v Nitre vyžaduje dobré vybavenie. Ráno navštívte hrad a synagógu pre úkryt. Obed v Starom meste je ideálny čas na preschnutie. Poobede preskúmajte haly Agrokomplexu (skvelé na daždivé počasie), potom pokračujte na Kalváriu a Dražovce aj napriek vlhku."
           },
           "stops": [
             {
@@ -828,7 +891,8 @@
                 "de": "Nutzen Sie den überdachten Eingangsbereich zum Abstellen der Räder.",
                 "hu": "Használja a fedett bejárati részt a biciklik rövid tárolására.",
                 "ro": "Folosiți zona de intrare acoperită pentru a lăsa bicicletele.",
-                "en": "Use the covered entrance area to briefly park your bikes out of rain."
+                "en": "Use the covered entrance area to briefly park your bikes out of rain.",
+                "sk": "Využite krytú vstupnú plochu na krátke odloženie bicyklov pred dažďom."
               }
             },
             {
@@ -837,7 +901,8 @@
                 "de": "Stellen Sie die Räder nah an die Hauswand unter Vorsprünge.",
                 "hu": "Állítsa a kerékpárokat közel a falhoz az ereszek alá.",
                 "ro": "Parcați bicicletele aproape de perete, sub streșini.",
-                "en": "Park bikes close to the wall under eaves to keep seats dry."
+                "en": "Park bikes close to the wall under eaves to keep seats dry.",
+                "sk": "Parkujte bicykle pri stene pod presahmi striech, aby sedadlá zostali suché."
               }
             },
             {
@@ -846,7 +911,8 @@
                 "de": "Wählen Sie ein Restaurant mit Sicht auf die abgestellten Fahrräder.",
                 "hu": "Válasszon olyan éttermet, ahonnan rálát az esőben hagyott gépekre.",
                 "ro": "Alegeți un restaurant cu vedere la bicicletele parcate.",
-                "en": "Choose a restaurant where you can keep an eye on your bikes."
+                "en": "Choose a restaurant where you can keep an eye on your bikes.",
+                "sk": "Vyberte reštauráciu, kde máte bicykle na dohľad."
               }
             },
             {
@@ -855,7 +921,8 @@
                 "de": "Die großen Hallen sind perfekt, um den stärksten Regen abzuwarten.",
                 "hu": "A hatalmas csarnokok tökéletesek a nagyobb záporok átvészelésére.",
                 "ro": "Halele mari sunt perfecte pentru a aștepta trecerea ploii.",
-                "en": "The vast exhibition halls are perfect for waiting out heavy rain."
+                "en": "The vast exhibition halls are perfect for waiting out heavy rain.",
+                "sk": "Rozsiahle výstavné haly sú ideálne na počkanie počas silného dažďa."
               }
             },
             {
@@ -864,7 +931,8 @@
                 "de": "Vorsicht bei der Abfahrt auf nassen, rutschigen Waldwegen.",
                 "hu": "Vigyázzon a leereszkedésnél a nedves, csúszós erdei utakon.",
                 "ro": "Atenție la coborâre pe potecile de pădure umede și alunecoase.",
-                "en": "Be careful when descending on wet, slippery forest trails."
+                "en": "Be careful when descending on wet, slippery forest trails.",
+                "sk": "Buďte opatrní pri zostupe po mokrých, šmykľavých lesných chodníkoch."
               }
             },
             {
@@ -873,7 +941,8 @@
                 "de": "Der exponierte Hügel ist bei Regen oft sehr windig. Windjacke!",
                 "hu": "A kitett dombtető esőben gyakran szeles. Széldzseki ajánlott!",
                 "ro": "Dealul expus este adesea foarte vântos pe ploaie. Jachetă!",
-                "en": "The exposed hill is often very windy during rain. Bring a windbreaker."
+                "en": "The exposed hill is often very windy during rain. Bring a windbreaker.",
+                "sk": "Odkrytý vrch je počas dažďa často veľmi veterný. Vezmite si vetrovku."
               }
             }
           ],
@@ -901,6 +970,12 @@
               "Be careful on the Old Town cobblestones; they become extremely slick.",
               "The Agrokomplex exhibition halls offer plenty of dry indoor space.",
               "Brake early and gently on wet roads to avoid skidding."
+            ],
+            "sk": [
+              "Plnohodnotné nepriepustné oblečenie a blatníky sú na tento okruh vysoko odporúčané.",
+              "Dávajte pozor na dlažbu v Starom meste; pri vlhku je mimoriadne klzká.",
+              "Výstavné haly Agrokomplexu ponúkajú veľa suchého vnútorného priestoru.",
+              "Brzdite skoro a jemne na mokrých cestách, aby ste sa vyhli šmyku."
             ]
           }
         },
@@ -909,7 +984,8 @@
             "de": "Winterliches Radfahren in Nitra führt durch klare, kalte Luft. Wir starten an der Burg und wärmen uns in der Synagoge auf. Nach einem herzhaften Mittagessen in der Altstadt radeln wir zum Agrokomplex. Trotz Frost besuchen wir den Kalvarienberg und die einsame Kirche von Dražovce, die im Schnee besonders fotogen ist. Achtung: Sonnenuntergang bereits um 16:30 Uhr.",
             "hu": "A téli kerékpározás Nyitrán friss, hideg levegőn vezet. A várnál kezdünk, majd a Zsinagógában melegedünk fel. Egy bőséges óvárosi ebéd után az Agrokomplex felé vesszük az irányt. A fagy ellenére feltekerünk a Kálváriára és a magányos drávoci templomhoz, mely hóban lenyűgöző látvány. A naplemente már 16:30-kor beköszönt.",
             "ro": "Ciclismul de iarnă în Nitra se desfășoară în aer rece și curat. Începem la castel și ne încălzim în sinagogă. După un prânz consistent, pedalăm spre Agrokomplex. În ciuda gerului, vizităm Calvarul și biserica solitară din Dražovce, spectaculoasă în zăpadă. Atenție: apusul este la 16:30.",
-            "en": "Winter cycling in Nitra takes you through crisp, cold air. We start at the castle and warm up inside the Synagogue. After a hearty lunch, cycle to Agrokomplex. Despite the frost, we visit Calvary and the lonely Dražovce church, which is stunning in the snow. Note: sunset is as early as 16:30."
+            "en": "Winter cycling in Nitra takes you through crisp, cold air. We start at the castle and warm up inside the Synagogue. After a hearty lunch, cycle to Agrokomplex. Despite the frost, we visit Calvary and the lonely Dražovce church, which is stunning in the snow. Note: sunset is as early as 16:30.",
+            "sk": "Zimná cyklojazda v Nitre vás prevedie chladným, sviežim vzduchom. Začíname na hrade a zohrievame sa v Synagóge. Po vydatnom obede prejdete na Agrokomplex. Napriek mrazu navštívime Kalváriu a osamelý Dražovský kostolík, ktorý na snehu pôsobí úchvatne. Poznámka: západ slnka je už o 16:30."
           },
           "stops": [
             {
@@ -918,7 +994,8 @@
                 "de": "Vorsicht bei Glatteis auf dem steilen Weg zur Burganlage.",
                 "hu": "Vigyázzon a jegesedésre a várnegyedbe vezető meredek úton.",
                 "ro": "Atenție la porțiunile înghețate de pe drumul spre castel.",
-                "en": "Watch out for black ice on the steep path up to the castle."
+                "en": "Watch out for black ice on the steep path up to the castle.",
+                "sk": "Dávajte pozor na čierny ľad na strmej ceste k hradu."
               }
             },
             {
@@ -927,7 +1004,8 @@
                 "de": "Idealer Stopp, um die durchgefrorenen Hände aufzuwärmen.",
                 "hu": "Tökéletes megálló az átfagyott kezek felmelegítésére.",
                 "ro": "Oprire ideală pentru a vă încălzi mâinile înghețate.",
-                "en": "Ideal stop to warm up frozen hands and take a break from the wind."
+                "en": "Ideal stop to warm up frozen hands and take a break from the wind.",
+                "sk": "Ideálne miesto na zahriatie zamrznutých rúk a prestávku od vetra."
               }
             },
             {
@@ -936,7 +1014,8 @@
                 "de": "Bevorzugen Sie warme Suppen, um die Körpertemperatur zu halten.",
                 "hu": "Válasszon forró leveseket a testhőmérséklet fenntartásához.",
                 "ro": "Preferați supele calde pentru a menține temperatura corpului.",
-                "en": "Prefer hot soups to maintain your core body temperature."
+                "en": "Prefer hot soups to maintain your core body temperature.",
+                "sk": "Uprednostnite horúce polievky na udržanie telesnej teploty."
               }
             },
             {
@@ -945,7 +1024,8 @@
                 "de": "Großes Gelände, aber achten Sie auf vereiste Pfützen zwischen Hallen.",
                 "hu": "Hatalmas terület, de ügyeljen a fagyott tócsákra a csarnokok között.",
                 "ro": "Zonă vastă, dar atenție la bălțile înghețate dintre pavilioane.",
-                "en": "Large area, but watch out for frozen puddles between the halls."
+                "en": "Large area, but watch out for frozen puddles between the halls.",
+                "sk": "Veľká plocha, ale dávajte pozor na zamrznuté mláky medzi halami."
               }
             },
             {
@@ -954,7 +1034,8 @@
                 "de": "Der Boden ist oft gefroren und hart. Erschütterungen einplanen.",
                 "hu": "A talaj gyakran keményre fagyott. Számítson rázkódásra.",
                 "ro": "Solul este adesea înghețat și tare. Atenție la șocuri.",
-                "en": "The ground is often frozen solid and hard. Expect a bumpy ride."
+                "en": "The ground is often frozen solid and hard. Expect a bumpy ride.",
+                "sk": "Povrch je často zamrznutý a tvrdý. Očakávajte nerovnú jazdu."
               }
             },
             {
@@ -963,7 +1044,8 @@
                 "de": "Extremer Windchill auf dem Hügel. Gesichtsschutz wird empfohlen.",
                 "hu": "Erős szélhűtés a dombon. Arcvédő használata javasolt.",
                 "ro": "Vânt tăios pe deal. Se recomandă protecție pentru față.",
-                "en": "Extreme wind chill on the hill. Face protection is recommended."
+                "en": "Extreme wind chill on the hill. Face protection is recommended.",
+                "sk": "Extrémne odsávanie chladu na vrchu. Odporúča sa ochrana tváre."
               }
             }
           ],
@@ -991,6 +1073,12 @@
               "Make sure your bike lights are fully functional for the early dark.",
               "Watch for frozen patches on bridges and in shaded areas.",
               "Carry hot tea in a thermos to stay warm during stops."
+            ],
+            "sk": [
+              "Noste niekoľko tenkých vrstiev a vetruvzdorné rukavice pre izoláciu.",
+              "Uistite sa, že svetlá na bicykli fungujú na plný výkon pre skoré stmievanie.",
+              "Dávajte pozor na zamrznuté miesta na mostíkoch a v tienistých úsekoch.",
+              "Noste v termoske horúci čaj, aby ste zostali teplí počas zastávok."
             ]
           }
         }
@@ -1009,7 +1097,8 @@
             "de": "Parkplatz am Zobor-Hügel",
             "hu": "Parkoló a Zobor-hegynél",
             "ro": "Parcare la Dealul Zobor",
-            "en": "Parking at Zobor Hill"
+            "en": "Parking at Zobor Hill",
+            "sk": "Parkovanie na vrchu Zobor"
           },
           "coords": [
             18.102,
@@ -1025,7 +1114,8 @@
             "de": "Starten Sie den Tag mit einer Wanderung für eine atemberaubende Aussicht.",
             "hu": "Kezdje a napot egy túrával a lélegzetelállító kilátásért.",
             "ro": "Începeți ziua cu o drumeție pentru o priveliște uluitoare.",
-            "en": "Start the day with a hike for a breathtaking view."
+            "en": "Start the day with a hike for a breathtaking view.",
+            "sk": "Začnite deň túrou pre ohromujúci výhľad."
           }
         },
         {
@@ -1033,7 +1123,8 @@
             "de": "Aussichtspunkt Zobor",
             "hu": "Zobor-kilátó",
             "ro": "Punct de belvedere Zobor",
-            "en": "Zobor Viewpoint"
+            "en": "Zobor Viewpoint",
+            "sk": "Vyhliadka Zobor"
           },
           "coords": [
             18.105,
@@ -1049,7 +1140,8 @@
             "de": "Der Weg ist gut markiert. Genießen Sie die frische Luft.",
             "hu": "Az ösvény jól jelzett. Élvezze a friss levegőt.",
             "ro": "Poteca este bine marcată. Bucurați-vă de aerul proaspăt.",
-            "en": "The path is well-marked. Enjoy the fresh air."
+            "en": "The path is well-marked. Enjoy the fresh air.",
+            "sk": "Cesta je dobre značená. Vychutnajte si čerstvý vzduch."
           }
         },
         {
@@ -1057,7 +1149,8 @@
             "de": "Dražovce Kirche",
             "hu": "Drazsóci templom",
             "ro": "Biserica din Dražovce",
-            "en": "Dražovce Church"
+            "en": "Dražovce Church",
+            "sk": "Dražovský kostol"
           },
           "coords": [
             18.055,
@@ -1073,7 +1166,8 @@
             "de": "Ein ikonischer Fotospot. Die kurze Fahrt lohnt sich absolut.",
             "hu": "Ikonikus fotóhelyszín. A rövid út abszolút megéri.",
             "ro": "Un loc iconic pentru fotografii. Drumul scurt merită absolut.",
-            "en": "An iconic photo spot. The short drive is absolutely worth it."
+            "en": "An iconic photo spot. The short drive is absolutely worth it.",
+            "sk": "Ikonické miesto na fotografiu. Krátka jazda stojí za to."
           }
         },
         {
@@ -1081,7 +1175,8 @@
             "de": "Parkplatz Burg Nitra",
             "hu": "Parkoló a Nyitrai várnál",
             "ro": "Parcare la Castelul Nitra",
-            "en": "Nitra Castle Parking"
+            "en": "Nitra Castle Parking",
+            "sk": "Parkovisko pri hrade Nitra"
           },
           "coords": [
             18.085,
@@ -1097,7 +1192,8 @@
             "de": "Parken Sie hier für den Rest des Nachmittags und erkunden Sie zu Fuß.",
             "hu": "Parkoljon itt a délután hátralévő részére és fedezze fel a környéket gyalog.",
             "ro": "Parcați aici pentru restul după-amiezii și explorați pe jos.",
-            "en": "Park here for the rest of the afternoon and explore on foot."
+            "en": "Park here for the rest of the afternoon and explore on foot.",
+            "sk": "Zaparkujte tu na zvyšok popoludnia a preskúmajte pešo."
           }
         },
         {
@@ -1105,7 +1201,8 @@
             "de": "Burg Nitra & Kathedrale",
             "hu": "Nyitrai vár és Székesegyház",
             "ro": "Castelul Nitra și Catedrala",
-            "en": "Nitra Castle & Cathedral"
+            "en": "Nitra Castle & Cathedral",
+            "sk": "Hrad a katedrála Nitra"
           },
           "coords": [
             18.087,
@@ -1121,7 +1218,8 @@
             "de": "Nehmen Sie sich Zeit, den gesamten Komplex zu erkunden.",
             "hu": "Szánjon időt az egész komplexum felfedezésére.",
             "ro": "Luați-vă timp să explorați întregul complex.",
-            "en": "Take your time to explore the entire complex."
+            "en": "Take your time to explore the entire complex.",
+            "sk": "Doprajte si čas na preskúmanie celého komplexu."
           }
         },
         {
@@ -1129,7 +1227,8 @@
             "de": "Nitra Synagoge",
             "hu": "Nyitrai Zsinagóga",
             "ro": "Sinagoga din Nitra",
-            "en": "Nitra Synagogue"
+            "en": "Nitra Synagogue",
+            "sk": "Nitranská synagóga"
           },
           "coords": [
             18.0865,
@@ -1145,7 +1244,8 @@
             "de": "Ein kurzer Spaziergang bergab von der Burg.",
             "hu": "Rövid séta lefelé a vártól.",
             "ro": "O scurtă plimbare la vale de la castel.",
-            "en": "A short walk downhill from the castle."
+            "en": "A short walk downhill from the castle.",
+            "sk": "Krátka prechádzka dole kopcom z hradu."
           }
         },
         {
@@ -1153,7 +1253,8 @@
             "de": "Abendessen in der Unterstadt",
             "hu": "Vacsora az Alsóvárosban",
             "ro": "Cină în Orașul de Jos",
-            "en": "Dinner in the Lower Town"
+            "en": "Dinner in the Lower Town",
+            "sk": "Večera v Dolnom meste"
           },
           "coords": [
             18.086,
@@ -1169,7 +1270,8 @@
             "de": "Beenden Sie den Tag mit einem köstlichen slowakischen Abendessen.",
             "hu": "Zárja a napot egy finom szlovák vacsorával.",
             "ro": "Încheiați ziua cu o cină slovacă delicioasă.",
-            "en": "End the day with a delicious Slovak dinner."
+            "en": "End the day with a delicious Slovak dinner.",
+            "sk": "Ukončite deň chutnou slovenskou večerou."
           }
         }
       ],
@@ -1177,7 +1279,8 @@
         "de": "Mit dem Auto nutzen Sie die Flexibilität, Nitras Umgebung zu erkunden. Der Morgen beginnt aktiv auf dem Zobor-Hügel mit einer Wanderung zum Gipfel. Anschließend fahren Sie zur berühmten Kirche von Dražovce. Gegen Mittag parken Sie im Zentrum und widmen den Nachmittag dem historischen Kern: der imposanten Burg und der Kathedrale, gefolgt von einem Spaziergang zur Synagoge. Der Tag endet kulinarisch in einem der gemütlichen Restaurants der Unterstadt.",
         "hu": "Autóval kihasználhatja a rugalmasságot Nyitra környékének felfedezéséhez. A reggel aktívan kezdődik a Zobor-hegyen egy túrával a csúcsra. Ezután a híres drazsóci templomhoz hajt. Dél körül a központban parkol, és a délutánt a történelmi magnak szenteli: a lenyűgöző várnak és a székesegyháznak, majd egy sétát tesz a zsinagógához. A nap kulináris élményekkel zárul az Alsóváros egyik hangulatos éttermében.",
         "ro": "Cu mașina, profitați de flexibilitatea de a explora împrejurimile Nitrei. Dimineața începe activ pe Dealul Zobor, cu o drumeție spre vârf. Apoi, conduceți la faimoasa biserică din Dražovce. În jurul prânzului, parcați în centru și dedicați după-amiaza centrului istoric: impunătorul castel și catedrala, urmate de o plimbare la sinagogă. Ziua se încheie culinar într-unul dintre restaurantele primitoare din Orașul de Jos.",
-        "en": "By car, you have the flexibility to explore Nitra's surroundings. The morning starts actively on Zobor Hill with a hike to the summit. Afterwards, you'll drive to the famous Dražovce Church. Around noon, park in the center and dedicate the afternoon to the historic core: the imposing castle and cathedral, followed by a walk to the synagogue. The day ends with a culinary experience in one of the cozy restaurants in the Lower Town."
+        "en": "By car, you have the flexibility to explore Nitra's surroundings. The morning starts actively on Zobor Hill with a hike to the summit. Afterwards, you'll drive to the famous Dražovce Church. Around noon, park in the center and dedicate the afternoon to the historic core: the imposing castle and cathedral, followed by a walk to the synagogue. The day ends with a culinary experience in one of the cozy restaurants in the Lower Town.",
+        "sk": "Autom máte flexibilitu preskúmať okolie Nitry. Ráno začnite aktívne na Zobore túrou na vrchol. Potom odcestujete k slávnemu Dražovskému kostolu. Okolo poludnia zaparkujete v centre a popoludnie venujete historickému jadru: impozantnému hradu a katedrále, nasledovaným prechádzkou ku synagóge. Deň zakončíte kulinárskym zážitkom v niektorej z útulných reštaurácií v Dolnom meste."
       },
       "gastro_picks": {
         "de": [
@@ -1317,6 +1420,11 @@
           "Pay attention to parking zones and fees in the city center.",
           "A GPS is useful for finding the more remote spots like Dražovce Church.",
           "Combine driving and walking for the best experience."
+        ],
+        "sk": [
+          "Dávajte pozor na parkovacie zóny a poplatky v centre mesta.",
+          "GPS sa hodí pri hľadaní odľahlejších miest ako Dražovce.",
+          "Kombinujte šoférovanie a chôdzu pre najlepší zážitok."
         ]
       },
       "variants": {
@@ -1325,7 +1433,8 @@
             "de": "Ein regnerischer Tag mit dem Auto beginnt am Zobor-Parkplatz, von wo aus wir trotz Nebel den Ausblick genießen. Die Fahrt geht weiter zur Kirche von Dražovce, bevor wir uns in die Innenstadt zum Burgparkplatz begeben. Den Nachmittag verbringen wir trocken in der Burg und der Synagoge. Der Tag endet gemütlich bei einem Abendessen in der Unterstadt, während der Regen draußen prasselt.",
             "hu": "Az esős autós nap a zobori parkolóban indul, ahonnan a köd ellenére is szép a kilátás. Utunk a drávoci templomhoz vezet, majd a belvárosi várparkolóba érkezünk. A délutánt a vár és a Zsinagóga belső tereiben töltjük szárazon. A napot egy hangulatos vacsora zárja az alsóvárosban, miközben kint kopog az eső.",
             "ro": "O zi ploioasă cu mașina începe la parcarea Zobor, de unde admirăm priveliștea în ciuda ceții. Continuăm spre biserica din Dražovce, apoi spre parcarea castelului. După-amiaza o petrecem la adăpost în castel și sinagogă. Ziua se încheie plăcut cu o cină în orașul de jos, în timp ce afară plouă.",
-            "en": "A rainy day by car starts at the Zobor parking lot, enjoying the view despite the mist. Drive to Dražovce church before heading to the central castle parking. Spend the afternoon dry inside the castle and the Synagogue. The day ends with a cozy dinner in the Lower Town while the rain pours outside."
+            "en": "A rainy day by car starts at the Zobor parking lot, enjoying the view despite the mist. Drive to Dražovce church before heading to the central castle parking. Spend the afternoon dry inside the castle and the Synagogue. The day ends with a cozy dinner in the Lower Town while the rain pours outside.",
+            "sk": "Daždivý deň autom začína na parkovisku Zobor, kde si môžete vychutnať výhľad aj cez hmlu. Potom odvezte k Dražovciam pred presunom na centrálne parkovanie pri hrade. Popoludnie strávte v suchu vnútri hradu a synagógy. Deň zakončíte útulnou večerou v Dolnom meste, zatiaľ čo vonku prší."
           },
           "stops": [
             {
@@ -1334,7 +1443,8 @@
                 "de": "Vorsicht beim Rangieren auf dem unbefestigten, nassen Untergrund.",
                 "hu": "Vigyázzon a manőverezésnél a felázott, sáros talajon.",
                 "ro": "Atenție la manevre pe terenul neasfaltat și ud.",
-                "en": "Be careful when maneuvering on the unpaved, wet ground."
+                "en": "Be careful when maneuvering on the unpaved, wet ground.",
+                "sk": "Buďte opatrní pri manévrovaní po nespevnenom, vlhkom teréne."
               }
             },
             {
@@ -1343,7 +1453,8 @@
                 "de": "Der Nebel kann die Sicht einschränken, bietet aber tolle Fotomotive.",
                 "hu": "A köd korlátozhatja a látást, de különleges fotótémát ad.",
                 "ro": "Ceața poate limita vizibilitatea, dar oferă cadre foto deosebite.",
-                "en": "Mist may limit the distance view but offers unique photo opportunities."
+                "en": "Mist may limit the distance view but offers unique photo opportunities.",
+                "sk": "Hmla môže obmedziť dohľadnosť, no ponúka jedinečné fotografické príležitosti."
               }
             },
             {
@@ -1352,7 +1463,8 @@
                 "de": "Der Weg vom Parkplatz zur Kirche ist kurz, aber oft sehr windig.",
                 "hu": "A parkolótól a templomig tartó út rövid, de gyakran szeles.",
                 "ro": "Drumul de la parcare la biserică este scurt, dar adesea vântos.",
-                "en": "The walk from the car to the church is short but very exposed to wind."
+                "en": "The walk from the car to the church is short but very exposed to wind.",
+                "sk": "Chôdza z auta ku kostolu je krátka, ale veľmi vystavená vetru."
               }
             },
             {
@@ -1361,7 +1473,8 @@
                 "de": "Zentraler Parkplatz, ideal um schnell ins Trockene zu kommen.",
                 "hu": "Központi parkoló, ahonnan gyorsan beérhet a fedett várba.",
                 "ro": "Parcare centrală, ideală pentru a ajunge rapid la adăpost.",
-                "en": "Central parking, ideal for reaching the castle shelter quickly."
+                "en": "Central parking, ideal for reaching the castle shelter quickly.",
+                "sk": "Centrálne parkovisko, ideálne pre rýchly prístup k hradnému úkrytu."
               }
             },
             {
@@ -1370,7 +1483,8 @@
                 "de": "Perfekter Zufluchtsort für eine ausgiebige Innenbesichtigung.",
                 "hu": "Tökéletes menedék egy alapos belső várnézéshez.",
                 "ro": "Refugiu perfect pentru o vizită detaliată a interiorului.",
-                "en": "Perfect sanctuary for an extensive indoor tour of the complex."
+                "en": "Perfect sanctuary for an extensive indoor tour of the complex.",
+                "sk": "Perfektné útočisko pre rozsiahlu vnútornú prehliadku komplexu."
               }
             },
             {
@@ -1379,7 +1493,8 @@
                 "de": "Nutzen Sie Parkplätze in den Nebenstraßen direkt am Gebäude.",
                 "hu": "Használja a közvetlenül az épület melletti utcai parkolókat.",
                 "ro": "Folosiți locurile de parcare din străzile adiacente clădirii.",
-                "en": "Use on-street parking spots in the side streets next to the building."
+                "en": "Use on-street parking spots in the side streets next to the building.",
+                "sk": "Využite parkovanie na ulici v bočných uličkách vedľa budovy."
               }
             },
             {
@@ -1388,7 +1503,8 @@
                 "de": "Reservieren Sie einen Tisch fernab von zugigen Eingangstüren.",
                 "hu": "Foglaljon asztalt távol a huzatos bejárati ajtóktól.",
                 "ro": "Rezervați o masă departe de ușile de intrare unde e curent.",
-                "en": "Book a table away from drafty entrance doors for extra comfort."
+                "en": "Book a table away from drafty entrance doors for extra comfort.",
+                "sk": "Rezervujte si stôl mimo prievanu pri vstupných dverách pre väčšie pohodlie."
               }
             }
           ],
@@ -1416,6 +1532,12 @@
               "Use indoor parking garages in the city center for maximum comfort.",
               "Keep an umbrella handy for the short walks to and from the car.",
               "Visibility at Zobor can fluctuate rapidly during rainfall."
+            ],
+            "sk": [
+              "Dávajte pozor na aquaplaning na cestách smerom k Dražovciam.",
+              "Použite kryté garáže v centre mesta pre maximálne pohodlie.",
+              "Majte po ruke dáždnik na krátke presuny k a od auta.",
+              "Dohľadnosť na Zobore sa počas dažďa môže rýchlo meniť."
             ]
           }
         },
@@ -1424,7 +1546,8 @@
             "de": "Eine winterliche Autofahrt durch Nitra beginnt mit dem Ausblick vom Zobor, gefolgt von der malerischen Kirche von Dražovce im Schnee. Wir parken zentral an der Burg, wo die historische Kulisse frostig glänzt. Die Synagoge bietet eine kulturelle Pause im Warmen. Der Tag klingt bei einem Abendessen in der Unterstadt aus, wobei wir die winterliche Beleuchtung der Stadt genießen.",
             "hu": "A téli autós túra a zobori kilátással indul, majd a havas drávoci templom következik. A várnál parkolunk, ahol a történelmi falak fagyosan csillognak. A Zsinagóga kulturális felfrissülést nyújt a melegben. A nap az alsóvárosi vacsorával zárul, miközben gyönyörködünk a város téli díszkivilágításában.",
             "ro": "O călătorie de iarnă cu mașina prin Nitra începe cu priveliștea de pe Zobor, urmată de biserica pitorească din Dražovce în zăpadă. Parcăm central la castel, unde decorul istoric strălucește înghețat. Sinagoga oferă o pauză culturală la căldură. Ziua se încheie cu o cină în orașul de jos, admirând luminile de iarnă.",
-            "en": "A winter car tour through Nitra starts with the view from Zobor, followed by the picturesque Dražovce church in the snow. Park centrally at the castle, where the historic backdrop glistens in the frost. The Synagogue provides a cultural break in the warmth. The day ends with dinner in the Lower Town, enjoying the city's winter lights."
+            "en": "A winter car tour through Nitra starts with the view from Zobor, followed by the picturesque Dražovce church in the snow. Park centrally at the castle, where the historic backdrop glistens in the frost. The Synagogue provides a cultural break in the warmth. The day ends with dinner in the Lower Town, enjoying the city's winter lights.",
+            "sk": "Zimný automobilový okruh po Nitre začína výhľadom zo Zobora, pokračuje malebným Dražovským kostolom v snehu. Zaparkujte centrálne pri hrade, kde historické kulisy lesknú v mraze. Synagóga poskytuje kultúrnu prestávku v teple. Deň zakončíte večerou v Dolnom meste pri zimných svetlách mesta."
           },
           "stops": [
             {
@@ -1433,7 +1556,8 @@
                 "de": "Achten Sie auf Vereisung auf der steilen Zufahrtsstraße.",
                 "hu": "Ügyeljen a jegesedésre a meredek felvezető úton.",
                 "ro": "Atenție la porțiunile înghețate de pe drumul abrupt de acces.",
-                "en": "Watch out for icy patches on the steep access road uphill."
+                "en": "Watch out for icy patches on the steep access road uphill.",
+                "sk": "Dávajte pozor na ľadové miesta na strmom prístupovom stúpaní hore."
               }
             },
             {
@@ -1442,7 +1566,8 @@
                 "de": "Die klare Winterluft ermöglicht oft eine weite Fernsicht.",
                 "hu": "A tiszta téli levegő gyakran különösen távoli kilátást tesz lehetővé.",
                 "ro": "Aerul curat de iarnă permite adesea o vizibilitate excelentă.",
-                "en": "The crisp winter air often allows for exceptional long-distance views."
+                "en": "The crisp winter air often allows for exceptional long-distance views.",
+                "sk": "Čerstvý zimný vzduch často umožňuje výnimočné diaľkové výhľady."
               }
             },
             {
@@ -1451,7 +1576,8 @@
                 "de": "Parken Sie vorsichtig, der Randstreifen kann unter Schnee weich sein.",
                 "hu": "Parkoljon óvatosan, a padka a hó alatt felázott lehet.",
                 "ro": "Parcați cu grijă, marginea drumului poate fi moale sub zăpadă.",
-                "en": "Park carefully, as the road shoulder may be soft under the snow."
+                "en": "Park carefully, as the road shoulder may be soft under the snow.",
+                "sk": "Parkujte opatrne, krajnica môže byť pod snehom mäkká."
               }
             },
             {
@@ -1460,7 +1586,8 @@
                 "de": "Nutzen Sie den Parkplatz nah am Eingang, um Kälte-Exposition zu minimieren.",
                 "hu": "Parkoljon közel a bejárathoz a hidegnek való kitettség csökkentésére.",
                 "ro": "Parcați aproape de intrare pentru a minimiza expunerea la frig.",
-                "en": "Park close to the entrance to minimize exposure to the winter cold."
+                "en": "Park close to the entrance to minimize exposure to the winter cold.",
+                "sk": "Parkujte blízko vchodu, aby ste minimalizovali vystavenie zimnému chladu."
               }
             },
             {
@@ -1469,7 +1596,8 @@
                 "de": "Bewundern Sie die schneebedeckten Dächer von den Bastionen aus.",
                 "hu": "Csodálja meg a hófödte tetőket a vár bástyáiról.",
                 "ro": "Admirați acoperișurile înzăpezite de pe bastioanele castelului.",
-                "en": "Admire the snow-covered rooftops from the castle bastions."
+                "en": "Admire the snow-covered rooftops from the castle bastions.",
+                "sk": "Obdivujte zasnežené strechy z hradných bašt."
               }
             },
             {
@@ -1478,7 +1606,8 @@
                 "de": "Ein wunderbar beheizter Ort für Kulturliebhaber.",
                 "hu": "Csodálatosan fűtött helyszín a kultúra kedvelőinek.",
                 "ro": "Un loc încălzit minunat pentru iubitorii de cultură.",
-                "en": "A wonderfully heated venue for culture enthusiasts in winter."
+                "en": "A wonderfully heated venue for culture enthusiasts in winter.",
+                "sk": "Výborne vykurované miesto pre milovníkov kultúry v zime."
               }
             },
             {
@@ -1487,7 +1616,8 @@
                 "de": "Genießen Sie lokale Spezialitäten in warmem, rustikalem Ambiente.",
                 "hu": "Élvezze a helyi specialitásokat meleg, rusztikus környezetben.",
                 "ro": "Bucurați-vă de specialități locale într-un ambient cald și rustic.",
-                "en": "Enjoy local specialties in a warm, rustic atmosphere."
+                "en": "Enjoy local specialties in a warm, rustic atmosphere.",
+                "sk": "Vychutnajte si miestne špeciality v teplom, rustikálnom prostredí."
               }
             }
           ],
@@ -1515,6 +1645,12 @@
               "Check the antifreeze level in your windshield washer fluid.",
               "Parking lots at Zobor are often the last to be cleared after snow.",
               "Account for the shorter daylight hours when planning your drive."
+            ],
+            "sk": [
+              "Zimné pneumatiky a škrabka na ľad sú pri šoférovaní absolútnou nevyhnutnosťou.",
+              "Skontrolujte hladinu nemrznúcej kvapaliny v nádobke ostrekovačov.",
+              "Parkoviská na Zobore sú často posledné, ktoré upravia po snežení.",
+              "Pri plánovaní jazdy zohľadnite kratšie denné svetlo."
             ]
           }
         }
@@ -1533,7 +1669,8 @@
             "de": "Zentraler Busbahnhof",
             "hu": "Központi buszpályaudvar",
             "ro": "Autogara Centrală",
-            "en": "Central Bus Station"
+            "en": "Central Bus Station",
+            "sk": "Centrálny autobusový terminál"
           },
           "coords": [
             18.09,
@@ -1549,7 +1686,8 @@
             "de": "Nehmen Sie einen Bus zur Haltestelle 'Divadlo Andreja Bagara'.",
             "hu": "Menjen busszal a 'Divadlo Andreja Bagara' megállóig.",
             "ro": "Luați un autobuz până la stația 'Divadlo Andreja Bagara'.",
-            "en": "Take a bus to the 'Divadlo Andreja Bagara' stop."
+            "en": "Take a bus to the 'Divadlo Andreja Bagara' stop.",
+            "sk": "Nastúpte na autobus na zastávke 'Divadlo Andreja Bagara'."
           }
         },
         {
@@ -1557,7 +1695,8 @@
             "de": "Andrej-Bagár-Theater & Synagoge",
             "hu": "Andrej Bagar Színház és Zsinagóga",
             "ro": "Teatrul Andrej Bagar și Sinagoga",
-            "en": "Andrej Bagar Theatre & Synagogue"
+            "en": "Andrej Bagar Theatre & Synagogue",
+            "sk": "Divadlo Andreja Bagara a synagóga"
           },
           "coords": [
             18.088,
@@ -1573,7 +1712,8 @@
             "de": "Dieser erste Cluster liegt im Herzen der Stadt.",
             "hu": "Ez az első klaszter a város szívében található.",
             "ro": "Acest prim grup este situat în inima orașului.",
-            "en": "This first cluster is located in the heart of the city."
+            "en": "This first cluster is located in the heart of the city.",
+            "sk": "Táto prvá skupina sa nachádza v srdci mesta."
           }
         },
         {
@@ -1581,7 +1721,8 @@
             "de": "Burg Nitra",
             "hu": "Nyitrai vár",
             "ro": "Castelul Nitra",
-            "en": "Nitra Castle"
+            "en": "Nitra Castle",
+            "sk": "Nitriansky hrad"
           },
           "coords": [
             18.087,
@@ -1597,7 +1738,8 @@
             "de": "Ein kurzer, aber steiler Spaziergang vom Theater.",
             "hu": "Rövid, de meredek séta a színháztól.",
             "ro": "O plimbare scurtă, dar abruptă, de la teatru.",
-            "en": "A short but steep walk up from the theatre."
+            "en": "A short but steep walk up from the theatre.",
+            "sk": "Krátka, ale strmá prechádzka od divadla."
           }
         },
         {
@@ -1605,7 +1747,8 @@
             "de": "Kathedrale des heiligen Emmeram",
             "hu": "Szent Emmerám-székesegyház",
             "ro": "Catedrala Sfântul Emmeram",
-            "en": "St. Emmeram's Cathedral"
+            "en": "St. Emmeram's Cathedral",
+            "sk": "Katedrála sv. Emeráma"
           },
           "coords": [
             18.0875,
@@ -1621,7 +1764,8 @@
             "de": "Befindet sich direkt auf dem Burggelände.",
             "hu": "Közvetlenül a vár területén található.",
             "ro": "Situată chiar în incinta castelului.",
-            "en": "Located right within the castle grounds."
+            "en": "Located right within the castle grounds.",
+            "sk": "Nachádza sa priamo v areáli hradu."
           }
         },
         {
@@ -1629,7 +1773,8 @@
             "de": "Agrokomplex",
             "hu": "Agrokomplex",
             "ro": "Agrokomplex",
-            "en": "Agrokomplex"
+            "en": "Agrokomplex",
+            "sk": "Agrokomplex"
           },
           "coords": [
             18.112,
@@ -1645,7 +1790,8 @@
             "de": "Nehmen Sie einen Bus vom Stadtzentrum. Prüfen Sie den Fahrplan im Voraus.",
             "hu": "Menjen busszal a városközpontból. Előre ellenőrizze a menetrendet.",
             "ro": "Luați un autobuz din centrul orașului. Verificați orarul în avans.",
-            "en": "Take a bus from the city center. Check the schedule in advance."
+            "en": "Take a bus from the city center. Check the schedule in advance.",
+            "sk": "Dostaňte sa tam autobusom z centra mesta. Pred odchodom skontrolujte cestovný poriadok."
           }
         },
         {
@@ -1653,7 +1799,8 @@
             "de": "Kalvarienberg Nitra",
             "hu": "Nyitrai Kálvária",
             "ro": "Calvarul din Nitra",
-            "en": "Nitra Calvary"
+            "en": "Nitra Calvary",
+            "sk": "Nitrianska kalvária"
           },
           "coords": [
             18.08,
@@ -1669,7 +1816,8 @@
             "de": "Ein letzter Bus bringt Sie zu diesem friedlichen Ort zum Abschluss des Tages.",
             "hu": "Egy utolsó busz viszi el erre a békés helyre a nap lezárásaként.",
             "ro": "Un ultim autobuz vă va duce la acest loc pașnic pentru a încheia ziua.",
-            "en": "A final bus ride takes you to this peaceful spot to end the day."
+            "en": "A final bus ride takes you to this peaceful spot to end the day.",
+            "sk": "Posledná jazda autobusom vás zavedie na toto pokojné miesto na zakončenie dňa."
           }
         }
       ],
@@ -1677,7 +1825,8 @@
         "de": "Nitras öffentlicher Nahverkehr bringt Sie bequem zu den wichtigsten Orten. Starten Sie im kulturellen Zentrum und erklimmen Sie von dort aus zu Fuß den Burghügel. Dieser Cluster aus Theater, Synagoge, Burg und Kathedrale füllt Ihren Vormittag. Nach dem Mittagessen bringt Sie ein Bus zum weitläufigen Agrokomplex-Gelände. Eine weitere kurze Busfahrt führt Sie am späten Nachmittag zum Kalvarienberg, wo Sie den Tag in ruhiger Atmosphäre ausklingen lassen.",
         "hu": "Nyitra tömegközlekedése kényelmesen eljuttatja a legfontosabb helyekre. Kezdje a kulturális központban, és onnan gyalog mássza meg a Várhegyet. A színházból, zsinagógából, várból és székesegyházból álló klaszter kitölti a délelőttjét. Ebéd után egy busz viszi a tágas Agrokomplex területére. Egy másik rövid buszút vezet a késő délutáni Kálváriához, ahol csendes légkörben zárhatja a napot.",
         "ro": "Transportul public din Nitra vă duce confortabil la cele mai importante locuri. Începeți în centrul cultural și de acolo urcați pe jos pe Dealul Castelului. Acest grup de teatru, sinagogă, castel și catedrală vă va umple dimineața. După prânz, un autobuz vă duce la vastul complex Agrokomplex. O altă călătorie scurtă cu autobuzul vă va duce la Calvar după-amiaza târziu, unde puteți încheia ziua într-o atmosferă liniștită.",
-        "en": "Nitra's public transport conveniently takes you to the most important places. Start in the cultural center and from there, walk up to Castle Hill. This cluster of theatre, synagogue, castle, and cathedral will fill your morning. After lunch, a bus will take you to the expansive Agrokomplex grounds. Another short bus ride will lead you to the Calvary in the late afternoon, where you can end the day in a quiet atmosphere."
+        "en": "Nitra's public transport conveniently takes you to the most important places. Start in the cultural center and from there, walk up to Castle Hill. This cluster of theatre, synagogue, castle, and cathedral will fill your morning. After lunch, a bus will take you to the expansive Agrokomplex grounds. Another short bus ride will lead you to the Calvary in the late afternoon, where you can end the day in a quiet atmosphere.",
+        "sk": "Mestská hromadná doprava v Nitre vás pohodlne zavezie k najdôležitejším miestam. Začnite v kultúrnom centre a odtiaľ sa prejdite na Hradný vrch. Táto skupina divadla, synagógy, hradu a katedrály vám zaplní dopoludnie. Po obede vás autobus odvezie na rozsiahle priestory Agrokomplexu. Ďalšia krátka jazda autobusom vás popoludní dovedie na Kalváriu, kde môžete deň pokojne ukončiť."
       },
       "gastro_picks": {
         "de": [
@@ -1781,6 +1930,11 @@
           "Buy a day pass for the bus to save money.",
           "Download a public transport app to track schedules in real-time.",
           "Be mindful of the last bus connection back to your accommodation."
+        ],
+        "sk": [
+          "Kúpte si celodenný lístok na autobus a ušetrite.",
+          "Stiahnite si aplikáciu mestskej dopravy na sledovanie cestovných poriadkov v reálnom čase.",
+          "Dávajte pozor na posledné autobusové spojenie späť do vášho ubytovania."
         ]
       },
       "variants": {
@@ -1789,7 +1943,8 @@
             "de": "Ein regnerischer Tag mit öffentlichen Verkehrsmitteln startet am Busbahnhof. Wir nutzen die Busse zum Theater und zur Synagoge. Mittags geht es zur Burg, die trockene Museen bietet. Der Nachmittag gehört dem Agrokomplex (ideal bei Regen), bevor wir den Tag am Kalvarienberg ausklingen lassen. Die Busverbindungen ermöglichen es, die nassen Wege im Freien kurz zu halten.",
             "hu": "Az esős tömegközlekedős nap az autóbusz-állomáson indul. Buszokkal jutunk el a színházhoz és a Zsinagógához. Délben a vár múzeumaiban rejtőzünk el az eső elől. A délután az Agrokomplexé (tökéletes esőben), végül a Kálváriánál zárunk. A sűrű buszjáratok segítik, hogy minél kevesebbet kelljen a szabadban ázni.",
             "ro": "O zi ploioasă cu transportul public începe la autogară. Folosim autobuzele spre teatru și sinagogă. La prânz mergem la castel, care oferă muzee uscate. După-amiaza aparține complexului Agrokomplex, iar apoi încheiem la Calvar. Conexiunile de autobuz permit scurtarea traseelor prin ploaie.",
-            "en": "A rainy day using public transit starts at the bus station. Take buses to the Theatre and Synagogue. At noon, head to the castle for its dry museums. The afternoon is dedicated to Agrokomplex (ideal for rain), ending at Calvary. Frequent bus connections help keep outdoor walking in the rain to a minimum."
+            "en": "A rainy day using public transit starts at the bus station. Take buses to the Theatre and Synagogue. At noon, head to the castle for its dry museums. The afternoon is dedicated to Agrokomplex (ideal for rain), ending at Calvary. Frequent bus connections help keep outdoor walking in the rain to a minimum.",
+            "sk": "Dáždivý deň s využitím mestskej dopravy začína na autobusovej stanici. Nástupy na autobusy k divadlu a synagóge. Na poludnie sa presuňte na hrad pre suché múzeá. Popoludnie venujte Agrokomplexu (ideálne pri daždi), zakončite na Kalvárii. Husté autobusové spoje pomáhajú minimalizovať vonkajšie prechádzky v daždi."
           },
           "stops": [
             {
@@ -1798,7 +1953,8 @@
                 "de": "Nutzen Sie die überdachten Wartebereiche am Bahnhof.",
                 "hu": "Használja az állomás fedett várócsarnokait.",
                 "ro": "Folosiți zonele de așteptare acoperite din autogară.",
-                "en": "Utilize the covered waiting areas at the bus station."
+                "en": "Utilize the covered waiting areas at the bus station.",
+                "sk": "Využite kryté čakacie priestory na autobusovej stanici."
               }
             },
             {
@@ -1807,7 +1963,8 @@
                 "de": "Kurze Wege zwischen den Haltestellen und den Gebäuden.",
                 "hu": "Rövid sétatávolságok a megállók és az épületek között.",
                 "ro": "Distanțe scurte de mers pe jos între stații și clădiri.",
-                "en": "Short walking distances between bus stops and the venues."
+                "en": "Short walking distances between bus stops and the venues.",
+                "sk": "Krátke pešie vzdialenosti medzi zastávkami a atrakciami."
               }
             },
             {
@@ -1816,7 +1973,8 @@
                 "de": "Der Fußweg von der Haltestelle bergauf kann rutschig sein.",
                 "hu": "A megállótól a várig vezető emelkedő esőben csúszós lehet.",
                 "ro": "Drumul în pantă de la stație poate fi alunecos pe ploaie.",
-                "en": "The uphill walk from the stop to the castle can be slippery."
+                "en": "The uphill walk from the stop to the castle can be slippery.",
+                "sk": "Stúpajúca cesta zo zastávky na hrad môže byť šmykľavá."
               }
             },
             {
@@ -1825,7 +1983,8 @@
                 "de": "Ideale Zeit für eine Innenbesichtigung während eines Schauers.",
                 "hu": "Ideális időpont a belső látogatáshoz egy zápor alatt.",
                 "ro": "Moment ideal pentru o vizită la interior în timpul unei averse.",
-                "en": "Ideal time for an indoor visit during a heavy rain shower."
+                "en": "Ideal time for an indoor visit during a heavy rain shower.",
+                "sk": "Ideálny čas na návštevu v interiéri pri silnom daždi."
               }
             },
             {
@@ -1834,7 +1993,8 @@
                 "de": "Die Bushaltestelle befindet sich direkt am Haupteingang.",
                 "hu": "A buszmegálló közvetlenül a főbejáratnál található.",
                 "ro": "Stația de autobuz este situată direct la intrarea principală.",
-                "en": "The bus stop is located directly at the main entrance."
+                "en": "The bus stop is located directly at the main entrance.",
+                "sk": "Zastávka autobusu sa nachádza priamo pri hlavnom vchode."
               }
             },
             {
@@ -1843,7 +2003,8 @@
                 "de": "Vorsicht auf dem unbefestigten Pfad zur Kapelle.",
                 "hu": "Vigyázzon a kápolnához vezető kiépítetlen, sáros ösvényen.",
                 "ro": "Atenție pe poteca neamenajată spre capelă.",
-                "en": "Be careful on the unpaved, muddy path to the chapel."
+                "en": "Be careful on the unpaved, muddy path to the chapel.",
+                "sk": "Dávajte pozor na nezpevnenú, blatistú cestu ku kaplnke."
               }
             }
           ],
@@ -1871,6 +2032,12 @@
               "Use the 'imhd.sk' app for real-time transit schedules in the rain.",
               "Wear waterproof shoes for the segments between bus stops.",
               "Buses are usually well-heated during rainy or cold winter days."
+            ],
+            "sk": [
+              "Kúpte si lístky vopred cez mobilnú aplikáciu alebo v automate.",
+              "Použite aplikáciu 'imhd.sk' na sledovanie cestovných poriadkov v reálnom čase počas dažďa.",
+              "Noste nepremokavú obuv na úseky medzi zastávkami.",
+              "Autobusy sú zvyčajne dobre vykurované počas daždivých alebo chladných zimných dní."
             ]
           }
         },
@@ -1879,7 +2046,8 @@
             "de": "Ein winterlicher Transit-Tag beginnt am Busbahnhof. Mit dem Bus erreichen wir das Theater und die warme Synagoge. Die Burg Nitra beeindruckt im Frost, bevor wir uns in die Kathedrale zurückziehen. Der Agrokomplex bietet auch im Winter interessante Einblicke. Den Tag beenden wir am Kalvarienberg, um den Sonnenuntergang über der frostigen Stadt zu beobachten.",
             "hu": "A téli tömegközlekedős nap az autóbusz-állomáson indul. Busszal érjük el a színházat és a fűtött Zsinagógát. A nyitrai vár lenyűgöző látvány fagyban, mielőtt a székesegyházba vonulnánk. Az Agrokomplex télen is érdekes látnivalókat kínál. A napot a Kálváriánál zárjuk a fagyos város feletti naplementével.",
             "ro": "O zi de iarnă cu transportul public începe la autogară. Cu autobuzul ajungem la teatru și la sinagoga încălzită. Castelul Nitra impresionează în ger, înainte de a ne retrage în catedrală. Agrokomplex oferă perspective interesante și iarna. Încheiem ziua la Calvar pentru apusul peste orașul înghețat.",
-            "en": "A winter transit day starts at the bus station. By bus, reach the theatre and the warm Synagogue. Nitra Castle is impressive in the frost before retreating to the Cathedral. Agrokomplex offers interesting insights even in winter. End the day at Calvary to watch the sunset over the frozen city."
+            "en": "A winter transit day starts at the bus station. By bus, reach the theatre and the warm Synagogue. Nitra Castle is impressive in the frost before retreating to the Cathedral. Agrokomplex offers interesting insights even in winter. End the day at Calvary to watch the sunset over the frozen city.",
+            "sk": "Zimný deň v doprave začína na autobusovej stanici. Autobusom sa dostanete k divadlu a teplej synagóge. Nitriansky hrad je pôsobivý v mraze pred návratom do katedrály. Agrokomplex ponúka zaujímavé pohľady aj v zime. Deň zakončite na Kalvárii a pozorujte západ slnka nad zamrznutým mestom."
           },
           "stops": [
             {
@@ -1888,7 +2056,8 @@
                 "de": "Das beheizte Bahnhofsgebäude ist ein guter Startpunkt.",
                 "hu": "A fűtött állomásépület kiváló kiindulópont a hidegben.",
                 "ro": "Clădirea încălzită a gării este un punct de pornire bun.",
-                "en": "The heated station building is a great starting point in winter."
+                "en": "The heated station building is a great starting point in winter.",
+                "sk": "Vykurovaná budova stanice je skvelým východiskovým bodom v zime."
               }
             },
             {
@@ -1897,7 +2066,8 @@
                 "de": "Zentrale Haltestellen minimieren die Zeit in der Kälte.",
                 "hu": "A központi megállók minimalizálják a hidegben töltött időt.",
                 "ro": "Stațiile centrale minimizează timpul petrecut în frig.",
-                "en": "Central stops minimize the time spent outside in the cold wind."
+                "en": "Central stops minimize the time spent outside in the cold wind.",
+                "sk": "Centrálne zastávky minimalizujú čas strávený vonku v chladnom vetre."
               }
             },
             {
@@ -1906,7 +2076,8 @@
                 "de": "Vorsicht vor Eisglätte auf dem Kopfsteinpflaster zur Burg.",
                 "hu": "Vigyázzon a jegesedésre a várba vezető macskaköveken.",
                 "ro": "Atenție la polei pe pavajul care duce spre castel.",
-                "en": "Watch out for black ice on the cobblestones leading to the castle."
+                "en": "Watch out for black ice on the cobblestones leading to the castle.",
+                "sk": "Dávajte pozor na čierny ľad na kockovom dláždení vedúcom k hradu."
               }
             },
             {
@@ -1915,7 +2086,8 @@
                 "de": "Besinnliche Wärme im Inneren der Kathedrale genießen.",
                 "hu": "Élvezze a békés meleget a székesegyház falai között.",
                 "ro": "Bucurați-vă de căldura liniștitoare din interiorul catedralei.",
-                "en": "Enjoy the peaceful warmth inside the cathedral walls."
+                "en": "Enjoy the peaceful warmth inside the cathedral walls.",
+                "sk": "Užite si pokojné teplo vo vnútri katedrálnych múrov."
               }
             },
             {
@@ -1924,7 +2096,8 @@
                 "de": "Nutzen Sie die Wartehäuschen an der Haltestelle.",
                 "hu": "Használja a buszmegállóban lévő várófülkéket.",
                 "ro": "Folosiți adăposturile din stația de autobuz.",
-                "en": "Use the shelters at the bus stop to wait for your connection."
+                "en": "Use the shelters at the bus stop to wait for your connection.",
+                "sk": "Použite prístrešky na zastávkach, aby ste počkali na spoj."
               }
             },
             {
@@ -1933,7 +2106,8 @@
                 "de": "Festes Schuhwerk ist für den gefrorenen Aufstieg wichtig.",
                 "hu": "A fagyott talajon való feljutáshoz fontos a bordázott talpú cipő.",
                 "ro": "Încălțămintea solidă este importantă pentru urcarea pe solul înghețat.",
-                "en": "Sturdy footwear is crucial for the frozen ascent to the top."
+                "en": "Sturdy footwear is crucial for the frozen ascent to the top.",
+                "sk": "Pevná obuv je kľúčová pri zamrznutom výstupe na vrchol."
               }
             }
           ],
@@ -1961,6 +2135,12 @@
               "Use waiting times to grab a quick hot tea nearby.",
               "Sidewalks may be slippery or poorly cleared of snow in winter.",
               "Keep your phone warm so the battery lasts for your digital tickets."
+            ],
+            "sk": [
+              "Skontrolujte zimný cestovný poriadok, niektoré linky môžu premávať menej často.",
+              "Využite čakanie na rýchly horúci čaj v blízkosti.",
+              "Chodníky môžu byť počas zimy šmykľavé alebo zle očistené od snehu.",
+              "Uchovávajte telefón v teple, aby batéria vydržala pre digitálne lístky."
             ]
           }
         }

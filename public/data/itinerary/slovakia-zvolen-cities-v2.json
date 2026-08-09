@@ -21,7 +21,8 @@
             "de": "Námestie SNP",
             "hu": "SNP tér",
             "ro": "Piața SNP",
-            "en": "SNP Square"
+            "en": "SNP Square",
+            "sk": "Námestie SNP"
           },
           "coords": [
             19.1278,
@@ -37,7 +38,8 @@
             "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee und beobachten Sie das Leben in der Stadt.",
             "hu": "Kezdje a napot egy kávéval, és figyelje a város ébredését.",
             "ro": "Începeți ziua aici cu o cafea, privind viața orașului.",
-            "en": "Start your day here with a coffee and watch the city life unfold."
+            "en": "Start your day here with a coffee and watch the city life unfold.",
+            "sk": "Začnite deň tu s kávou a pozorujte mestský život."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Kirche der Heiligen Elisabeth",
             "hu": "Szent Erzsébet-templom",
             "ro": "Biserica Sfânta Elisabeta",
-            "en": "Church of Saint Elizabeth"
+            "en": "Church of Saint Elizabeth",
+            "sk": "Kostol svätej Alžbety"
           },
           "coords": [
             19.1265,
@@ -63,7 +66,8 @@
             "de": "Jozef-Gregor-Tajovský-Theater",
             "hu": "Jozef Gregor Tajovský Színház",
             "ro": "Teatrul Jozef Gregor Tajovský",
-            "en": "Jozef Gregor Tajovský Theatre"
+            "en": "Jozef Gregor Tajovský Theatre",
+            "sk": "Divadlo Jozefa Gregora Tajovského"
           },
           "coords": [
             19.1255,
@@ -81,7 +85,8 @@
             "de": "Evangelische Kirche der Heiligen Dreifaltigkeit",
             "hu": "Szentháromság evangélikus templom",
             "ro": "Biserica Evanghelică Sfânta Treime",
-            "en": "Evangelical Church of the Holy Trinity"
+            "en": "Evangelical Church of the Holy Trinity",
+            "sk": "Evanjelický kostol Svätej Trojice"
           },
           "coords": [
             19.1299,
@@ -99,7 +104,8 @@
             "de": "Schloss Zvolen",
             "hu": "Zólyomi vár",
             "ro": "Castelul Zvolen",
-            "en": "Zvolen Castle"
+            "en": "Zvolen Castle",
+            "sk": "Zvolenský zámok"
           },
           "coords": [
             19.1285,
@@ -117,7 +123,8 @@
             "de": "Panzerzug Hurban",
             "hu": "Hurban páncélvonat",
             "ro": "Trenul blindat Hurban",
-            "en": "Armoured Train Hurban"
+            "en": "Armoured Train Hurban",
+            "sk": "Oklopaný vlak Hurban"
           },
           "coords": [
             19.129,
@@ -135,7 +142,8 @@
             "de": "Museum für Forstwirtschaft und Holz",
             "hu": "Erdészeti és Faipari Múzeum",
             "ro": "Muzeul Silviculturii și Industriei Lemnului",
-            "en": "Museum of Forestry and Wood Technology"
+            "en": "Museum of Forestry and Wood Technology",
+            "sk": "Múzeum lesníctva a drevárstva"
           },
           "coords": [
             19.122,
@@ -153,7 +161,8 @@
         "de": "Ihr Tag in Zvolen beginnt am lebhaften SNP-Platz, dem Herzen der Stadt. Von dort aus schlendern Sie durch die Geschichte und besuchen die gotische Kirche St. Elisabeth und das nahegelegene Theater. Am Mittag erklimmen Sie das majestätische Schloss Zvolen, das eine beeindruckende Kunstsammlung und einen Panoramablick bietet. Nach dem Mittagessen tauchen Sie in die slowakische Geschichte ein mit einem Besuch des gepanzerten Zuges Hurban, einem Symbol des Nationalaufstands. Der Nachmittag ist der reichen Holzwirtschaft der Region im Museum für Forstwirtschaft und Holz gewidmet. Beenden Sie Ihren Tag mit einem entspannten Abendessen und lassen Sie die historischen Eindrücke auf sich wirken.",
         "hu": "Zólyomi napja a város szívében, a nyüzsgő SNP téren kezdődik. Innen a történelembe sétálva fedezi fel a gótikus Szent Erzsébet-templomot és a közeli színházat. Délben a fenséges Zólyomi várat hódítja meg, amely lenyűgöző művészeti gyűjteményt és panorámát kínál. Ebéd után a szlovák történelembe merülhet a Hurban páncélvonatnál, a nemzeti felkelés szimbólumánál. A délután a régió gazdag faiparának van szentelve az Erdészeti és Faipari Múzeumban. Zárja a napot egy kellemes vacsorával, felidézve a történelmi benyomásokat.",
         "ro": "Ziua dvs. în Zvolen începe în vibranta Piață SNP, inima orașului. De acolo, vă plimbați prin istorie, vizitând Biserica gotică Sf. Elisabeta și teatrul din apropiere. La prânz, cuceriți maiestuosul Castel Zvolen, care oferă o colecție de artă impresionantă și vederi panoramice. După prânz, vă adânciți în istoria slovacă la trenul blindat Hurban, un simbol al Revoltei Naționale. După-amiaza este dedicată bogatei industrii forestiere a regiunii la Muzeul Silviculturii și Industriei Lemnului. Încheiați ziua cu o cină relaxantă, reflectând asupra impresiilor istorice.",
-        "en": "Your day in Zvolen begins in the vibrant SNP Square, the heart of the city. From there, you'll stroll through history, visiting the Gothic Church of St. Elizabeth and the nearby theatre. At midday, you'll conquer the majestic Zvolen Castle, offering an impressive art collection and panoramic views. After lunch, delve into Slovak history at the Hurban armoured train, a symbol of the National Uprising. The afternoon is dedicated to the region's rich timber industry at the Museum of Forestry and Wood Technology. End your day with a relaxing dinner, reflecting on the historical impressions."
+        "en": "Your day in Zvolen begins in the vibrant SNP Square, the heart of the city. From there, you'll stroll through history, visiting the Gothic Church of St. Elizabeth and the nearby theatre. At midday, you'll conquer the majestic Zvolen Castle, offering an impressive art collection and panoramic views. After lunch, delve into Slovak history at the Hurban armoured train, a symbol of the National Uprising. The afternoon is dedicated to the region's rich timber industry at the Museum of Forestry and Wood Technology. End your day with a relaxing dinner, reflecting on the historical impressions.",
+        "sk": "Váš deň vo Zvolene začína na živom Námestí SNP, srdci mesta. Odtiaľ budete kráčať cez históriu, navštívite gotický Kostol sv. Alžbety a blízke divadlo. Napoludnie dobyjete majestátny Zvolenský zámok, ktorý ponúka pôsobivú umeleckú zbierku a panoramatické výhľady. Po obede sa ponoríte do slovenskej histórie pri pancierovom vlaku Hurban, symbole Národného povstania. Popoludnie je venované bohatému drevospracujúcemu priemyslu v Múzeu lesníctva a drevárstva. Deň zakončíte relaxačnou večerou a rozjímaním o historických dojmoch."
       },
       "gastro_picks": {
         "de": [
@@ -309,6 +318,11 @@
           "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
           "Most central attractions are easily within walking distance.",
           "Check the opening hours for the castle and museum in advance."
+        ],
+        "sk": [
+          "Noste pohodlnú obuv, pretože kocniaky v starom meste môžu byť nerovné.",
+          "Väčšina centrálnych atrakcií je ľahko dostupná pešo.",
+          "Skontrolujte otváracie hodiny zámku a múzea vopred."
         ]
       },
       "variants": {
@@ -317,7 +331,8 @@
             "de": "Vormittag: Regnerischer Start am SNP-Platz, nutzen Sie die Arkaden. Mittag: Schutz in der St. Elisabeth Kirche und beim JGT Theater. Nachmittag: Ausführlicher Besuch im Schloss Zvolen (Nationalgalerie), ideal bei Regen. Abend: Abschluss im Forstmuseum nahe dem Park, trocken und lehrreich.",
             "hu": "Reggel: Esős kezdés az SNP téren, használja az árkádokat. Délben: Menedék a Szent Erzsébet templomban és a JGT Színháznál. Délután: Hosszabb látogatás a Zólyomi várban (Nemzeti Galéria), ideális esőben. Este: Zárás az Erdészeti Múzeumban a park mellett, száraz és tanulságos helyszín.",
             "ro": "Dimineața: Start ploios în Piața SNP, folosiți arcadele. Prânz: Adăpost în Biserica Sf. Elisabeta și la Teatrul JGT. După-amiaza: Vizită extinsă la Castelul Zvolen (Galeria Națională), ideal pe ploaie. Seara: Final la Muzeul Forestier de lângă parc, un spațiu uscat și educativ.",
-            "en": "Morning: Rainy start at SNP Square, use the arcades for cover. Noon: Shelter in St. Elizabeth Church and near JGT Theatre. Afternoon: Extensive visit to Zvolen Castle (National Gallery), perfect for wet weather. Evening: Finish at the Forestry Museum near the park, staying dry and informed."
+            "en": "Morning: Rainy start at SNP Square, use the arcades for cover. Noon: Shelter in St. Elizabeth Church and near JGT Theatre. Afternoon: Extensive visit to Zvolen Castle (National Gallery), perfect for wet weather. Evening: Finish at the Forestry Museum near the park, staying dry and informed.",
+            "sk": "Ráno: Daždivý štart na Námestí SNP, využite arkády na ochranu. Napoludnie: Útočisko v Kostole sv. Alžbety a pri Divadle JGT. Popoludnie: Rozsiahla návšteva Zvolenského zámku (Národná galéria), ideálna do daždivého počasia. Večer: Skončite v Múzeu lesníctva pri parku, suchí a informovaní."
           },
           "stops": [
             {
@@ -326,7 +341,8 @@
                 "de": "Nutzen Sie die Arkaden der Bürgerhäuser als Regenschutz.",
                 "hu": "Használja a polgárházak árkádjait eső elleni védelemként.",
                 "ro": "Folosiți arcadele caselor de burgeri pentru a vă feri de ploaie.",
-                "en": "Use the arcades of the burgher houses as rain cover."
+                "en": "Use the arcades of the burgher houses as rain cover.",
+                "sk": "Využite arkády meštianskych domov ako ochranu pred dažďom."
               }
             },
             {
@@ -335,7 +351,8 @@
                 "de": "Die gotischen Gewölbe bieten trockene Stille und Besinnung.",
                 "hu": "A gótikus boltozatok száraz csendet és elmélyülést kínálnak.",
                 "ro": "Bolțile gotice oferă liniște uscată și reflecție.",
-                "en": "The Gothic vaults offer dry silence and contemplation."
+                "en": "The Gothic vaults offer dry silence and contemplation.",
+                "sk": "Gotické klenby ponúkajú suché ticho a kontempláciu."
               }
             },
             {
@@ -344,7 +361,8 @@
                 "de": "Das Foyer bietet einen kurzen trockenen Zwischenstopp.",
                 "hu": "Az előcsarnok rövid, száraz pihenőhelyet biztosít.",
                 "ro": "Foaierul oferă un scurt popas uscat.",
-                "en": "The foyer provides a short, dry stopping point."
+                "en": "The foyer provides a short, dry stopping point.",
+                "sk": "Foyer poskytuje krátku suchú zastávku."
               }
             },
             {
@@ -353,7 +371,8 @@
                 "de": "Ein ruhiger Rückzugsort vor dem nächsten Regenschauer.",
                 "hu": "Csendes menedék a következő esőfelhő előtt.",
                 "ro": "Un refugiu liniștit înainte de următoarea aversă.",
-                "en": "A quiet retreat before the next rain shower."
+                "en": "A quiet retreat before the next rain shower.",
+                "sk": "Tiché útočisko pred ďalšou dažďovou prestávkou."
               }
             },
             {
@@ -362,7 +381,8 @@
                 "de": "Besuchen Sie die Kunstsammlungen im trockenen Inneren.",
                 "hu": "Látogassa meg a művészeti gyűjteményeket a száraz belső terekben.",
                 "ro": "Vizitați colecțiile de artă în interiorul uscat.",
-                "en": "Visit the art collections in the dry interior."
+                "en": "Visit the art collections in the dry interior.",
+                "sk": "Navštívte umelecké zbierky v suchom interiéri."
               }
             },
             {
@@ -371,7 +391,8 @@
                 "de": "Kurzer Fotostopp unter dem Regenschirm am historischen Zug.",
                 "hu": "Gyors fotómegálló esernyő alatt a történelmi vonatnál.",
                 "ro": "Scurtă oprire foto sub umbrelă la trenul istoric.",
-                "en": "Quick photo stop under an umbrella at the historic train."
+                "en": "Quick photo stop under an umbrella at the historic train.",
+                "sk": "Rýchla fotozastávka pod dáždnikom pri historickom vlaku."
               }
             },
             {
@@ -380,7 +401,8 @@
                 "de": "Große Ausstellungen, perfekt um den Regen zu vergessen.",
                 "hu": "Nagy kiállítások, tökéletesek az eső elfeledésére.",
                 "ro": "Expoziții mari, perfecte pentru a uita de ploaie.",
-                "en": "Large exhibitions, perfect for forgetting the rain."
+                "en": "Large exhibitions, perfect for forgetting the rain.",
+                "sk": "Veľké expozície, ideálne na zabudnutie na dážď."
               }
             }
           ],
@@ -412,6 +434,13 @@
               "Zvolen Castle is the best destination for bad weather.",
               "Cafes on the square are great for waiting out rain showers.",
               "A pocket umbrella is essential due to valley winds."
+            ],
+            "sk": [
+              "Noste nepremokavú obuv na dlažbe v SNP námestí.",
+              "Arkády v centre poskytujú dobrú ochranu.",
+              "Zvolenský zámok je najlepšia destinácia pri zlých poveternostných podmienkach.",
+              "Kaviarne na námestí sú ideálne na počkanie pri pršiplánoch.",
+              "Vreckový dáždnik je nevyhnutný kvôli údoliovým vetrom."
             ]
           }
         },
@@ -420,7 +449,8 @@
             "de": "Vormittag: Winterliche Stimmung am SNP-Platz, wärmen Sie sich in der St. Elisabeth Kirche auf. Mittag: Kulturelle Pause im JGT Theater oder der evangelischen Kirche. Nachmittag: Das Schloss Zvolen wirkt im Schnee besonders trutzig und bietet warme Galerien. Abend: Abschluss im geheizten Forstmuseum, bevor es früh dunkel wird.",
             "hu": "Reggel: Téli hangulat az SNP téren, melegedjen fel a Szent Erzsébet templomban. Délben: Kulturális szünet a JGT Színházban vagy az evangélikus templomban. Délután: A zólyomi vár a hóban különösen látványos, fűtött galériákkal vár. Este: Zárás a fűtött Erdészeti Múzeumban, mielőtt korán besötétedik.",
             "ro": "Dimineața: Atmosferă de iarnă în Piața SNP, încălziți-vă în Biserica Sf. Elisabeta. Prânz: Pauză culturală la Teatrul JGT sau la biserica evanghelică. După-amiaza: Castelul Zvolen arată spectaculos în zăpadă, oferind galerii încălzite. Seara: Final la Muzeul Forestier încălzit, înainte de lăsarea serii.",
-            "en": "Morning: Winter atmosphere at SNP Square, warm up inside St. Elizabeth Church. Noon: Cultural break at JGT Theatre or the Evangelical Church. Afternoon: Zvolen Castle looks imposing in the snow and offers heated galleries. Evening: Finish at the heated Forestry Museum before the early sunset."
+            "en": "Morning: Winter atmosphere at SNP Square, warm up inside St. Elizabeth Church. Noon: Cultural break at JGT Theatre or the Evangelical Church. Afternoon: Zvolen Castle looks imposing in the snow and offers heated galleries. Evening: Finish at the heated Forestry Museum before the early sunset.",
+            "sk": "Ráno: Zimná atmosféra na SNP námestí, zohriať sa vnútri Kostola sv. Alžbety. Poludnie: Kultúrna prestávka v divadle JGT alebo v evanjelickom kostole. Popoludnie: Zvolenský zámok pôsobí impozantne v snehu a ponúka vykurované galérie. Večer: Ukončite v vykúrenom Múzeu lesníctva pred skorým západom slnka."
           },
           "stops": [
             {
@@ -429,7 +459,8 @@
                 "de": "Genießen Sie die Winterbeleuchtung und suchen Sie warme Cafés.",
                 "hu": "Élvezze a téli kivilágítást és keressen egy meleg kávézót.",
                 "ro": "Bucurați-vă de iluminatul de iarnă și căutați cafenele calde.",
-                "en": "Enjoy the winter lights and find a warm cafe."
+                "en": "Enjoy the winter lights and find a warm cafe.",
+                "sk": "Užite si zimné osvetlenie a nájdite teplé miesto v kaviarni."
               }
             },
             {
@@ -438,7 +469,8 @@
                 "de": "Ein Ort der Ruhe, oft etwas wärmer als die Außenluft.",
                 "hu": "A nyugalom helye, gyakran melegebb, mint a kinti levegő.",
                 "ro": "Un loc al liniștii, adesea ceva mai cald decât aerul de afară.",
-                "en": "A place of peace, often slightly warmer than the outside air."
+                "en": "A place of peace, often slightly warmer than the outside air.",
+                "sk": "Miesto pokoja, často o niečo teplejšie než vonkajší vzduch."
               }
             },
             {
@@ -447,7 +479,8 @@
                 "de": "Kurze Aufwärmpause im Eingangsbereich möglich.",
                 "hu": "Rövid melegedő szünet lehetséges a bejárati részen.",
                 "ro": "Scurtă pauză de încălzire posibilă în zona de intrare.",
-                "en": "Short warm-up break possible in the entrance area."
+                "en": "Short warm-up break possible in the entrance area.",
+                "sk": "Krátku rozcvičku je možné urobiť v priestoroch vchodu."
               }
             },
             {
@@ -456,7 +489,8 @@
                 "de": "Besichtigen Sie die schlichte Architektur im Warmen.",
                 "hu": "Tekintse meg a letisztult építészetet a melegben.",
                 "ro": "Vizitați arhitectura sobră la căldură.",
-                "en": "View the clean architecture in the warmth."
+                "en": "View the clean architecture in the warmth.",
+                "sk": "Pozrite si čistú architektúru v teple."
               }
             },
             {
@@ -465,7 +499,8 @@
                 "de": "Die dicken Mauern schützen vor dem schneidenden Winterwind.",
                 "hu": "A vastag falak védenek a metsző téli széltől.",
                 "ro": "Zidurile groase protejează de vântul tăios de iarnă.",
-                "en": "The thick walls protect from the biting winter wind."
+                "en": "The thick walls protect from the biting winter wind.",
+                "sk": "Hrubé múry chránia pred prenikavým zimným vetrom."
               }
             },
             {
@@ -474,7 +509,8 @@
                 "de": "Vorsicht bei Schnee auf den Metallteilen des Zuges.",
                 "hu": "Vigyázat, a hó csúszóssá teheti a vonat fémrészeit.",
                 "ro": "Atenție, zăpada poate face părțile metalice ale trenului alunecoase.",
-                "en": "Careful, snow can make the train's metal parts slippery."
+                "en": "Careful, snow can make the train's metal parts slippery.",
+                "sk": "Pozor, sneh môže skĺznuť po kovových častiach vlaku."
               }
             },
             {
@@ -483,7 +519,8 @@
                 "de": "Perfekter Ort für die frühen, kalten Abendstunden.",
                 "hu": "Tökéletes hely a korai, hideg esti órákra.",
                 "ro": "Locul perfect pentru orele reci de seară care vin devon.",
-                "en": "Perfect place for the early, cold evening hours."
+                "en": "Perfect place for the early, cold evening hours.",
+                "sk": "Perfektné miesto na skoré, chladné večerné hodiny."
               }
             }
           ],
@@ -515,6 +552,13 @@
               "Watch out for icy patches on the cobblestones.",
               "Combine sightseeing with hot drinks.",
               "The castle museum is well-heated in winter."
+            ],
+            "sk": [
+              "Teplé oblečenie je potrebné kvôli polohe Zvolena v kotlině.",
+              "V zime slnko zapadá už o 16:30.",
+              "Dávajte pozor na ľadové miesta na dláždení.",
+              "Skombinujte prehliadku s horúcimi nápojmi.",
+              "Hradné múzeum je v zime dobre vykurované."
             ]
           }
         }
@@ -533,7 +577,8 @@
             "de": "Námestie SNP",
             "hu": "SNP tér",
             "ro": "Piața SNP",
-            "en": "SNP Square"
+            "en": "SNP Square",
+            "sk": "SNP námestie"
           },
           "coords": [
             19.1278,
@@ -551,7 +596,8 @@
             "de": "Jozef-Gregor-Tajovský-Theater",
             "hu": "Jozef Gregor Tajovský Színház",
             "ro": "Teatrul Jozef Gregor Tajovský",
-            "en": "Jozef Gregor Tajovský Theatre"
+            "en": "Jozef Gregor Tajovský Theatre",
+            "sk": "Divadlo Jozefa Gregora Tajovského"
           },
           "coords": [
             19.1255,
@@ -569,7 +615,8 @@
             "de": "Museum für Forstwirtschaft und Holz",
             "hu": "Erdészeti és Faipari Múzeum",
             "ro": "Muzeul Silviculturii și Industriei Lemnului",
-            "en": "Museum of Forestry and Wood Technology"
+            "en": "Museum of Forestry and Wood Technology",
+            "sk": "Múzeum lesníctva a drevárstva"
           },
           "coords": [
             19.122,
@@ -587,7 +634,8 @@
             "de": "Kirche der Heiligen Elisabeth",
             "hu": "Szent Erzsébet-templom",
             "ro": "Biserica Sfânta Elisabeta",
-            "en": "Church of Saint Elizabeth"
+            "en": "Church of Saint Elizabeth",
+            "sk": "Kostol svätej Alžbety"
           },
           "coords": [
             19.1265,
@@ -605,7 +653,8 @@
             "de": "Schloss Zvolen",
             "hu": "Zólyomi vár",
             "ro": "Castelul Zvolen",
-            "en": "Zvolen Castle"
+            "en": "Zvolen Castle",
+            "sk": "Zvolenský zámok"
           },
           "coords": [
             19.1285,
@@ -623,7 +672,8 @@
             "de": "Panzerzug Hurban",
             "hu": "Hurban páncélvonat",
             "ro": "Trenul blindat Hurban",
-            "en": "Armoured Train Hurban"
+            "en": "Armoured Train Hurban",
+            "sk": "Opevnený vlak Hurban"
           },
           "coords": [
             19.129,
@@ -641,7 +691,8 @@
             "de": "Ausgangspunkt Pustý hrad (Wüste Burg)",
             "hu": "Pusztavár kiindulópont",
             "ro": "Punct de plecare spre Cetatea Pustý",
-            "en": "Pustý Hrad (Desolate Castle) Trailhead"
+            "en": "Pustý Hrad (Desolate Castle) Trailhead",
+            "sk": "Pustý hrad (Desolate Castle) – nástup na trasu"
           },
           "coords": [
             19.1155,
@@ -659,7 +710,8 @@
         "de": "Schwingen Sie sich in Zvolen aufs Rad und starten Sie am SNP-Platz. Eine kurze Fahrt bringt Sie zum Theater und dem faszinierenden Forstmuseum. Zur Mittagszeit radeln Sie zurück ins Zentrum, um das Schloss Zvolen zu erkunden, ein kulturelles Juwel. Nach dem Mittagessen führt Sie Ihre Tour zum Panzerzug Hurban, einem wichtigen historischen Denkmal. Am Nachmittag unternehmen Sie eine längere Radtour zum Ausgangspunkt der Ruinen von Pustý Hrad. Der Aufstieg wird mit einer atemberaubenden Aussicht belohnt. Rollen Sie zurück in die Stadt für ein wohlverdientes Abendessen.",
         "hu": "Pattanjon kerékpárra Zólyomban, és induljon az SNP térről. Egy rövid tekerés elvezeti a színházhoz és a lenyűgöző Erdészeti Múzeumhoz. Délidőben térjen vissza a központba, hogy felfedezze a Zólyomi várat, egy kulturális gyöngyszemet. Ebéd után a túra a Hurban páncélvonathoz, egy fontos történelmi emlékműhöz vezet. Délután egy hosszabb kerékpártúrára indul a Pusztavár romjainak kiindulópontjához. A mászásért lélegzetelállító kilátás a jutalom. Guruljon vissza a városba egy jól megérdemelt vacsorára.",
         "ro": "Urcați-vă pe bicicletă în Zvolen și porniți din Piața SNP. O scurtă plimbare vă duce la teatru și la fascinantul Muzeu Forestier. La prânz, pedalați înapoi în centru pentru a explora Castelul Zvolen, o bijuterie culturală. După prânz, turul vă duce la trenul blindat Hurban, un monument istoric important. După-amiaza, faceți o plimbare mai lungă cu bicicleta până la punctul de plecare spre ruinele Cetății Pustý. Urcușul este răsplătit cu o priveliște uluitoare. Întoarceți-vă în oraș pentru o cină binemeritată.",
-        "en": "Hop on your bike in Zvolen and start from SNP Square. A short ride takes you to the theatre and the fascinating Forestry Museum. At midday, cycle back to the center to explore Zvolen Castle, a cultural gem. After lunch, your tour leads you to the Hurban armoured train, an important historical monument. In the afternoon, take a longer bike ride to the trailhead for the Pustý Hrad ruins. The climb is rewarded with a breathtaking view. Roll back into town for a well-deserved dinner."
+        "en": "Hop on your bike in Zvolen and start from SNP Square. A short ride takes you to the theatre and the fascinating Forestry Museum. At midday, cycle back to the center to explore Zvolen Castle, a cultural gem. After lunch, your tour leads you to the Hurban armoured train, an important historical monument. In the afternoon, take a longer bike ride to the trailhead for the Pustý Hrad ruins. The climb is rewarded with a breathtaking view. Roll back into town for a well-deserved dinner.",
+        "sk": "Sadnite na bicykel vo Zvolene a vyrazte zo SNP námestia. Krátka jazda vás zavedie k divadlu a fascinujúcemu Múzeu lesníctva. Na poludnie sa vráťte do centra preskúmať Zvolenský zámok, kultúrny klenot. Po obede vás trasa zavedie k opevnenému vlaku Hurban, významnému historickému pamiatke. Popoludní si doprajte dlhšiu vychádzku na nástup k ruinám Pustého hradu. Výstup je odmenený ohromujúcim výhľadom. Vráťte sa do mesta na zaslúženú večeru."
       },
       "gastro_picks": {
         "de": [
@@ -799,6 +851,11 @@
           "Lock your bike securely at the main attractions.",
           "Bring plenty of water, especially for the climb to Pustý Hrad.",
           "Some city center streets may not have dedicated bike lanes."
+        ],
+        "sk": [
+          "Uzamknite bicykel pevne pri hlavných atrakciách.",
+          "Prineste dostatok vody, najmä na výstup k Pustému hradu.",
+          "Niektoré ulice v centre nemusia mať vyhradené cyklotrasy."
         ]
       },
       "variants": {
@@ -807,7 +864,8 @@
             "de": "Vormittag: Vorsichtige Fahrt über den SNP-Platz zum Theater. Mittag: Trockene Pause im Forstmuseum. Nachmittag: Besuch der St. Elisabeth Kirche und des Schlosses Zvolen, wo das Rad sicher parkt. Abend: Kurze Fahrt zum Panzerzug und ein regnerischer Blick Richtung Pustý hrad vom Tal aus.",
             "hu": "Reggel: Óvatos tekerés az SNP téren a színház felé. Délben: Száraz pihenő az Erdészeti Múzeumban. Délután: Szent Erzsébet templom és zólyomi vár látogatása, biztonságos bringatárolással. Este: Rövid út a páncélvonathoz, esős kilátás Pusztavár felé a völgyből.",
             "ro": "Dimineața: Deplasare atentă prin Piața SNP spre teatru. Prânz: Pauză uscată la Muzeul Forestier. După-amiaza: Vizită la Biserica Sf. Elisabeta și Castelul Zvolen, cu parcare sigură pentru bicicletă. Seara: Drum scurt la trenul blindat și o vedere ploioasă spre Pustý hrad din vale.",
-            "en": "Morning: Careful ride across SNP Square towards the theatre. Noon: Dry break at the Forestry Museum. Afternoon: Visit St. Elizabeth Church and Zvolen Castle, with safe bike parking. Evening: Short trip to the armored train and a rainy view towards Pustý hrad from the valley."
+            "en": "Morning: Careful ride across SNP Square towards the theatre. Noon: Dry break at the Forestry Museum. Afternoon: Visit St. Elizabeth Church and Zvolen Castle, with safe bike parking. Evening: Short trip to the armored train and a rainy view towards Pustý hrad from the valley.",
+            "sk": "Ráno: Opatrná jazda cez SNP námestie smerom k divadlu. Poludnie: Suchá prestávka v Múzeu lesníctva. Popoludnie: Návšteva Kostola sv. Alžbety a Zvolenského zámku, s bezpečným parkovaním bicyklov. Večer: Krátky výlet k opevnenému vlaku a daždivý výhľad smerom na Pustý hrad z údolia."
           },
           "stops": [
             {
@@ -816,7 +874,8 @@
                 "de": "Das Pflaster ist bei Nässe extrem rutschig.",
                 "hu": "A macskakő nedvesen rendkívül csúszós.",
                 "ro": "Pavajul este extrem de alunecos când este ud.",
-                "en": "The pavement is extremely slippery when wet."
+                "en": "The pavement is extremely slippery when wet.",
+                "sk": "Dlažba je extrémne klzká, keď je mokrá."
               }
             },
             {
@@ -825,7 +884,8 @@
                 "de": "Kurze Pause im Trockenen vor dem Theater möglich.",
                 "hu": "Rövid száraz pihenő a színház előtt lehetséges.",
                 "ro": "Scurtă pauză la uscat în fața teatrului.",
-                "en": "Short dry break possible in front of the theatre."
+                "en": "Short dry break possible in front of the theatre.",
+                "sk": "Krátka suchá prestávka možná pred divadlom."
               }
             },
             {
@@ -834,7 +894,8 @@
                 "de": "Nutzen Sie den Museumsbesuch zum Trocknen der Kleidung.",
                 "hu": "Használja a múzeumlátogatást a ruházat szárítására.",
                 "ro": "Folosiți vizita la muzeu pentru a vă usca hainele.",
-                "en": "Use the museum visit to dry your clothes."
+                "en": "Use the museum visit to dry your clothes.",
+                "sk": "Využite návštevu múzea na vysušenie odevov."
               }
             },
             {
@@ -843,7 +904,8 @@
                 "de": "Fahrradständer in der Nähe sind oft ungeschützt.",
                 "hu": "A közeli kerékpártárolók gyakran fedetlenek.",
                 "ro": "Suporturile de biciclete din apropiere sunt adesea neprotejate.",
-                "en": "Bike racks nearby are often unprotected."
+                "en": "Bike racks nearby are often unprotected.",
+                "sk": "Stojany na bicykle v blízkosti sú často neohradené."
               }
             },
             {
@@ -852,7 +914,8 @@
                 "de": "Fahrrad im Innenhof nach Absprache sicher abstellbar.",
                 "hu": "A bringa az udvaron megbeszélés szerint biztonságba helyezhető.",
                 "ro": "Bicicleta poate fi lăsată în curte după o discuție prealabilă.",
-                "en": "Bike can be parked in the courtyard by arrangement."
+                "en": "Bike can be parked in the courtyard by arrangement.",
+                "sk": "Bicykel je možné zaparkovať na dvore po dohode."
               }
             },
             {
@@ -861,7 +924,8 @@
                 "de": "Der Boden um den Zug kann bei Regen schlammig sein.",
                 "hu": "A vonat körüli talaj esőben sáros lehet.",
                 "ro": "Terenul din jurul trenului poate fi noroios pe ploaie.",
-                "en": "The ground around the train can be muddy in rain."
+                "en": "The ground around the train can be muddy in rain.",
+                "sk": "Povrch okolo vlaku môže byť v daždi blátivý."
               }
             },
             {
@@ -870,7 +934,8 @@
                 "de": "Der Aufstieg ist bei Regen für Räder nicht empfohlen.",
                 "hu": "Az esőben való feljutás kerékpárral nem ajánlott.",
                 "ro": "Urcarea pe ploaie nu este recomandată pentru biciclete.",
-                "en": "Ascending in the rain is not recommended for bikes."
+                "en": "Ascending in the rain is not recommended for bikes.",
+                "sk": "Výstup do kopca v daždi sa pre bicykle neodporúča."
               }
             }
           ],
@@ -902,6 +967,13 @@
               "Brake carefully on wet cobblestones.",
               "Use the shelters at the station for breaks.",
               "Avoid deep puddles in side streets."
+            ],
+            "sk": [
+              "Dobré nepremokavé oblečenie a blatníky sú povinné.",
+              "Vyhnite sa lesným chodníkom k Pustému hradu počas silného dažďa.",
+              "Brzdite opatrne na mokrých kockách.",
+              "Na prestávky využite prístrešky na stanici.",
+              "Vyhnite sa hlbokým kalužiam v bočných uličkách."
             ]
           }
         },
@@ -910,7 +982,8 @@
             "de": "Vormittag: Frische Fahrt über den SNP-Platz. Mittag: Aufwärmstopp im Forstmuseum. Nachmittag: Besuch der Kirchen und des Schlosses Zvolen, das Rad am Schlossberg parken. Abend: Kurze Runde zum Panzerzug. Der Weg zum Pustý hrad ist nur für sehr erfahrene Winterradler geeignet.",
             "hu": "Reggel: Friss tekerés az SNP téren. Délben: Melegedő az Erdészeti Múzeumban. Délután: Templomok és a zólyomi vár látogatása, bringaparkolás a várhegyen. Este: Rövid kör a páncélvonathoz. A Pusztavárhoz vezető út csak tapasztalt téli kerékpárosoknak ajánlott.",
             "ro": "Dimineața: Deplasare revigorantă prin Piața SNP. Prânz: Oprire pentru încălzire la Muzeul Forestier. După-amiaza: Vizită la biserici și la Castelul Zvolen, parcare la dealul castelului. Seara: Tur scurt la trenul blindat. Drumul spre Pustý hrad este doar pentru bicicliști de iarnă experimentați.",
-            "en": "Morning: Brisk ride across SNP Square. Noon: Warm-up stop at the Forestry Museum. Afternoon: Visit the churches and Zvolen Castle, parking the bike at the castle hill. Evening: Short lap to the armored train. The path to Pustý hrad is only for experienced winter cyclists."
+            "en": "Morning: Brisk ride across SNP Square. Noon: Warm-up stop at the Forestry Museum. Afternoon: Visit the churches and Zvolen Castle, parking the bike at the castle hill. Evening: Short lap to the armored train. The path to Pustý hrad is only for experienced winter cyclists.",
+            "sk": "Ráno: Živá jazda cez SNP námestie. Poludnie: Zastávka na rozohriatie v Múzeu lesníctva. Popoludnie: Návšteva kostolov a Zvolenského zámku, s odložením bicykla na hradnom kopci. Večer: Krátke okruhy k opevnenému vlaku. Trasa na Pustý hrad je vhodná len pre skúsených zimných cyklistov."
           },
           "stops": [
             {
@@ -919,7 +992,8 @@
                 "de": "Achten Sie auf überfrierende Nässe im Zentrum.",
                 "hu": "Ügyeljen a lefagyásokra a központban.",
                 "ro": "Atenție la polei în centru.",
-                "en": "Watch out for black ice in the center."
+                "en": "Watch out for black ice in the center.",
+                "sk": "Dávajte pozor na čierny ľad v centre."
               }
             },
             {
@@ -928,7 +1002,8 @@
                 "de": "Stellen Sie das Rad an gut sichtbaren, geräumten Plätzen ab.",
                 "hu": "Helyezze a bringát jól látható, letakarított helyre.",
                 "ro": "Lăsați bicicleta în locuri vizibile și curățate.",
-                "en": "Park the bike in clearly visible, cleared areas."
+                "en": "Park the bike in clearly visible, cleared areas.",
+                "sk": "Parkujte bicykel na dobre viditeľných, uprataných miestach."
               }
             },
             {
@@ -937,7 +1012,8 @@
                 "de": "Nutzen Sie die Heizung im Museum für eine lange Pause.",
                 "hu": "Használja a múzeum fűtését egy hosszú pihenőre.",
                 "ro": "Folosiți încălzirea din muzeu pentru o pauză lungă.",
-                "en": "Use the heating in the museum for a long break."
+                "en": "Use the heating in the museum for a long break.",
+                "sk": "Na dlhšiu prestávku využite vykurovanie v múzeu."
               }
             },
             {
@@ -946,7 +1022,8 @@
                 "de": "Kalte Finger beim Anschließen? Nutzen Sie Handschuhe.",
                 "hu": "Fázik az ujja lakatoláskor? Használjon kesztyűt.",
                 "ro": "Vă îngheață degetele la blocare? Folosiți mănuși.",
-                "en": "Cold fingers while locking? Use gloves."
+                "en": "Cold fingers while locking? Use gloves.",
+                "sk": "Zimné rukavice pri zamykaní? Použite rukavice."
               }
             },
             {
@@ -955,7 +1032,8 @@
                 "de": "Der Anstieg zum Schloss kann bei Schnee rutschig sein.",
                 "hu": "A várba vezető emelkedő hóban csúszós lehet.",
                 "ro": "Urcarea spre castel poate fi alunecoasă pe zăpadă.",
-                "en": "The climb to the castle can be slippery in snow."
+                "en": "The climb to the castle can be slippery in snow.",
+                "sk": "Výstup na zámok môže byť na snehu klzký."
               }
             },
             {
@@ -964,7 +1042,8 @@
                 "de": "Ein schönes Fotomotiv im Schnee, aber Metall ist kalt.",
                 "hu": "Szép fotótéma a hóban, de a fém hideg.",
                 "ro": "Un motiv foto frumos în zăpadă, dar metalul este rece.",
-                "en": "A beautiful photo motif in the snow, but metal is cold."
+                "en": "A beautiful photo motif in the snow, but metal is cold.",
+                "sk": "Krásny fotografický motív v snehu, ale kov je studený."
               }
             },
             {
@@ -973,7 +1052,8 @@
                 "de": "Nur mit Spikereifen oder bei geräumten Wegen befahrbar.",
                 "hu": "Csak szöges gumival vagy letakarított utakon járható.",
                 "ro": "Accesibil doar cu anvelope cu ținte sau pe drumuri curățate.",
-                "en": "Passable only with spiked tires or on cleared paths."
+                "en": "Passable only with spiked tires or on cleared paths.",
+                "sk": "Priechodné iba s hrotovanými pneumatikami alebo po upravených cestách."
               }
             }
           ],
@@ -1005,6 +1085,13 @@
               "Avoid uncleared bike paths in the park.",
               "Take a thermos with hot tea.",
               "Bike lighting must function perfectly."
+            ],
+            "sk": [
+              "Zimné plášte pre bicykel sú vo Zvolene odporúčané.",
+              "Skráťte čas jazdy kvôli skorému stmievanie.",
+              "Vyhnite sa neupraveným cyklotrasám v parku.",
+              "Vezmite termosku s horúcim čajom.",
+              "Osvetlenie bicykla musí fungovať bezchybne."
             ]
           }
         }
@@ -1023,7 +1110,8 @@
             "de": "Parkplatz Zentrum & Námestie SNP",
             "hu": "Parkoló a központban és SNP tér",
             "ro": "Parcare Centru și Piața SNP",
-            "en": "City Center Parking & SNP Square"
+            "en": "City Center Parking & SNP Square",
+            "sk": "Parkovanie v centre mesta & SNP námestie"
           },
           "coords": [
             19.1278,
@@ -1041,7 +1129,8 @@
             "de": "Kirche der Heiligen Elisabeth",
             "hu": "Szent Erzsébet-templom",
             "ro": "Biserica Sfânta Elisabeta",
-            "en": "Church of Saint Elizabeth"
+            "en": "Church of Saint Elizabeth",
+            "sk": "Kostol svätej Alžbety"
           },
           "coords": [
             19.1265,
@@ -1059,7 +1148,8 @@
             "de": "Schloss Zvolen",
             "hu": "Zólyomi vár",
             "ro": "Castelul Zvolen",
-            "en": "Zvolen Castle"
+            "en": "Zvolen Castle",
+            "sk": "Zvolenský zámok"
           },
           "coords": [
             19.1285,
@@ -1077,7 +1167,8 @@
             "de": "Parkplatz Pustý hrad & Wanderung",
             "hu": "Pusztavár parkoló és túra",
             "ro": "Parcare Cetatea Pustý și drumeție",
-            "en": "Pustý Hrad Parking & Hike"
+            "en": "Pustý Hrad Parking & Hike",
+            "sk": "Parkovanie pri Pustom hrade & peší výstup"
           },
           "coords": [
             19.1155,
@@ -1095,7 +1186,8 @@
             "de": "Panzerzug Hurban",
             "hu": "Hurban páncélvonat",
             "ro": "Trenul blindat Hurban",
-            "en": "Armoured Train Hurban"
+            "en": "Armoured Train Hurban",
+            "sk": "Opevnený vlak Hurban"
           },
           "coords": [
             19.129,
@@ -1113,7 +1205,8 @@
             "de": "Museum für Forstwirtschaft und Holz",
             "hu": "Erdészeti és Faipari Múzeum",
             "ro": "Muzeul Silviculturii și Industriei Lemnului",
-            "en": "Museum of Forestry and Wood Technology"
+            "en": "Museum of Forestry and Wood Technology",
+            "sk": "Múzeum lesníctva a drevárstva"
           },
           "coords": [
             19.122,
@@ -1131,7 +1224,8 @@
         "de": "Ihr Autotag in Zvolen beginnt mit dem Parken im Zentrum. Erkunden Sie zu Fuß den SNP-Platz, die St.-Elisabeth-Kirche und das beeindruckende Schloss Zvolen. Nach diesem historischen Spaziergang fahren Sie zu den Ruinen von Pustý Hrad. Die kurze Wanderung belohnt Sie mit einer spektakulären Aussicht und einem perfekten Ort für ein Picknick. Am Nachmittag fahren Sie zurück in die Stadt, um das Denkmal des Panzerzugs Hurban zu besichtigen. Ihr letzter Halt ist das Museum für Forstwirtschaft und Holz, das nur einen kurzen Spaziergang entfernt ist und einen Einblick in die lokale Industrie bietet.",
         "hu": "Autós napja Zólyomban a központi parkolással kezdődik. Fedezze fel gyalog az SNP teret, a Szent Erzsébet-templomot és a lenyűgöző Zólyomi várat. A történelmi séta után vezessen a Pusztavár romjaihoz. A rövid túra látványos kilátással és tökéletes piknikezőhellyel jutalmazza. Délután hajtson vissza a városba, hogy megnézze a Hurban páncélvonat emlékművét. Utolsó megállója a közeli Erdészeti és Faipari Múzeum, amely bepillantást nyújt a helyi iparba.",
         "ro": "Ziua dvs. cu mașina în Zvolen începe parcând în centru. Explorați pe jos Piața SNP, Biserica Sf. Elisabeta și impresionantul Castel Zvolen. După această plimbare istorică, conduceți spre ruinele Cetății Pustý. Scurta drumeție vă recompensează cu vederi spectaculoase și un loc perfect pentru picnic. După-amiaza, conduceți înapoi în oraș pentru a vizita monumentul trenului blindat Hurban. Ultima oprire este Muzeul Silviculturii și Industriei Lemnului, la o scurtă plimbare, oferind o perspectivă asupra industriei locale.",
-        "en": "Your car day in Zvolen starts by parking in the center. Explore SNP Square, St. Elizabeth's Church, and the impressive Zvolen Castle on foot. After this historical cluster, drive to the ruins of Pustý Hrad. The short hike rewards you with spectacular views and a perfect picnic spot. In the afternoon, drive back towards the city to visit the Hurban armoured train monument. Your final stop is the nearby Museum of Forestry and Wood Technology, just a short walk away, offering insight into the local industry."
+        "en": "Your car day in Zvolen starts by parking in the center. Explore SNP Square, St. Elizabeth's Church, and the impressive Zvolen Castle on foot. After this historical cluster, drive to the ruins of Pustý Hrad. The short hike rewards you with spectacular views and a perfect picnic spot. In the afternoon, drive back towards the city to visit the Hurban armoured train monument. Your final stop is the nearby Museum of Forestry and Wood Technology, just a short walk away, offering insight into the local industry.",
+        "sk": "Váš deň autom vo Zvolene začína parkovaním v centre. Preskúmajte SNP námestie, Kostol sv. Alžbety a impozantný Zvolenský zámok pešo. Po tomto historickom okruhu prejdite autom k ruinám Pustého hradu. Krátky výstup vám odmení spektakulárnymi výhľadmi a ideálnym miestom na piknik. Popoludní sa vráťte smerom do mesta a navštívte pamätník opevneného vlaku Hurban. Záverečnou zastávkou je blízke Múzeum lesníctva a drevárstva, len krátka prechádzka poskytujúca náhľad do miestneho priemyslu."
       },
       "gastro_picks": {
         "de": [
@@ -1271,6 +1365,11 @@
           "Parking in the city center may be paid.",
           "Sturdy shoes are essential for Pustý Hrad.",
           "Plan enough time for the hike and to enjoy the view."
+        ],
+        "sk": [
+          "Parkovanie v centre mesta môže byť platené.",
+          "Pevná obuv je nevyhnutná na Pustý hrad.",
+          "Naplánujte si dostatok času na výstup a vychutnanie si výhľadu."
         ]
       },
       "variants": {
@@ -1279,7 +1378,8 @@
             "de": "Vormittag: Bequeme Anfahrt zum SNP-Platz. Mittag: Fahrt zur St. Elisabeth Kirche und zum Schloss Zvolen, Parken in Schlossnähe. Nachmittag: Fahrt zum Pustý hrad Parkplatz, kurzer Blick im Regen. Abend: Besuch des Panzerzugs und Abschluss im Forstmuseum.",
             "hu": "Reggel: Kényelmes érkezés az SNP térre. Délben: Autózás a Szent Erzsébet templomhoz és a zólyomi várhoz, parkolás a vár közelében. Délután: Út a Pusztavár parkolójához, rövid kitekintés az esőben. Este: Páncélvonat megtekintése és zárás az Erdészeti Múzeumban.",
             "ro": "Dimineața: Acces confortabil la Piața SNP. Prânz: Deplasare la Biserica Sf. Elisabeta și la Castelul Zvolen, parcare în apropierea castelului. După-amiaza: Drum spre parcarea Pustý hrad, scurtă privire pe ploaie. Seara: Vizită la trenul blindat și final la Muzeul Forestier.",
-            "en": "Morning: Comfortable arrival at SNP Square. Noon: Drive to St. Elizabeth Church and Zvolen Castle, parking near the castle. Afternoon: Drive to the Pustý hrad parking lot, quick view in the rain. Evening: Visit the armored train and finish at the Forestry Museum."
+            "en": "Morning: Comfortable arrival at SNP Square. Noon: Drive to St. Elizabeth Church and Zvolen Castle, parking near the castle. Afternoon: Drive to the Pustý hrad parking lot, quick view in the rain. Evening: Visit the armored train and finish at the Forestry Museum.",
+            "sk": "Ráno: Pohodlný príchod na SNP námestie. Poludnie: Presuňte sa autom ku Kostolu sv. Alžbety a Zvolenskému zámku, parkovanie pri hrade. Popoludnie: Dojazd na parkovisko pri Pustom hrade, rýchly pohľad v daždi. Večer: Návšteva opevneného vlaku a zakončenie v Múzeu lesníctva."
           },
           "stops": [
             {
@@ -1288,7 +1388,8 @@
                 "de": "Parken Sie im Parkhaus nahe dem Platz, um trocken zu bleiben.",
                 "hu": "Parkoljon a tér közeli parkolóházban, hogy száraz maradjon.",
                 "ro": "Parcați în parcarea acoperită de lângă piață pentru a rămâne uscați.",
-                "en": "Park in the parking garage near the square to stay dry."
+                "en": "Park in the parking garage near the square to stay dry.",
+                "sk": "Parkujte v garáži pri námestí, aby ste zostali v suchu."
               }
             },
             {
@@ -1297,7 +1398,8 @@
                 "de": "Kurzer Fußweg vom Parkplatz zur Kirche einplanen.",
                 "hu": "Tervezzen rövid sétát a parkolótól a templomig.",
                 "ro": "Planificați un scurt drum pe jos de la parcare la biserică.",
-                "en": "Plan a short walk from the parking lot to the church."
+                "en": "Plan a short walk from the parking lot to the church.",
+                "sk": "Naplánujte krátku prechádzku z parkoviska ku kostolu."
               }
             },
             {
@@ -1306,7 +1408,8 @@
                 "de": "Nutzen Sie den Parkplatz direkt unterhalb des Schlosses.",
                 "hu": "Használja a közvetlenül a vár alatti parkolót.",
                 "ro": "Folosiți parcarea aflată direct sub castel.",
-                "en": "Use the parking lot directly below the castle."
+                "en": "Use the parking lot directly below the castle.",
+                "sk": "Využite parkovisko priamo pod zámkom."
               }
             },
             {
@@ -1315,7 +1418,8 @@
                 "de": "Vorsicht auf der schmalen Straße zum oberen Parkplatz.",
                 "hu": "Vigyázat a felső parkolóhoz vezető keskeny úton.",
                 "ro": "Atenție pe drumul îngust spre parcarea de sus.",
-                "en": "Caution on the narrow road to the upper parking lot."
+                "en": "Caution on the narrow road to the upper parking lot.",
+                "sk": "Opatrne na úzkej ceste k hornej parkovacej ploche."
               }
             },
             {
@@ -1324,7 +1428,8 @@
                 "de": "Direktes Halten am Zug ist nicht möglich, Parkplatz am Bahnhof.",
                 "hu": "Közvetlen megállás a vonatnál nem lehetséges, állomási parkoló.",
                 "ro": "Oprirea directă la tren nu este posibilă, parcare la gară.",
-                "en": "Stopping directly at the train is not possible, use station parking."
+                "en": "Stopping directly at the train is not possible, use station parking.",
+                "sk": "Priame státie pri vlaku nie je možné, využite parkovanie pri stanici."
               }
             },
             {
@@ -1333,7 +1438,8 @@
                 "de": "Parkplätze in den Nebenstraßen nutzen.",
                 "hu": "Használja a mellékutcák parkolóhelyeit.",
                 "ro": "Folosiți locurile de parcare de pe străzile secundare.",
-                "en": "Use parking spots in the side streets."
+                "en": "Use parking spots in the side streets.",
+                "sk": "Využite parkovacie miesta v bočných uliciach."
               }
             }
           ],
@@ -1365,6 +1471,13 @@
               "Watch out for pedestrians with umbrellas near the center.",
               "Visibility can be limited in the valley during rain.",
               "Parking fees in the center apply even in the rain."
+            ],
+            "sk": [
+              "Využite centrálnu parkovaciu garáž pre suchý prístup.",
+              "Vybúrte sa vyhnúť jazde k Pustému hradu počas silného dažďa.",
+              "Dávajte pozor na chodcov s dáždnikmi v centre.",
+              "Viditeľnosť môže byť v údolia obmedzená počas dažďa.",
+              "Poplatky za parkovanie v centre platia aj počas dažďa."
             ]
           }
         },
@@ -1373,7 +1486,8 @@
             "de": "Vormittag: Winterliche Fahrt zum SNP-Platz. Mittag: Besuch der St. Elisabeth Kirche und des Schlosses Zvolen, Parken in der Nähe. Nachmittag: Fahrt Richtung Pustý hrad (nur bei geräumten Straßen ratsam). Abend: Blick auf den Panzerzug und Abschluss im warmen Forstmuseum.",
             "hu": "Reggel: Téli autózás az SNP térhez. Délben: Szent Erzsébet templom és zólyomi vár látogatása, parkolás a közelben. Délután: Út Pusztavár felé (csak letakarított utak esetén ajánlott). Este: Páncélvonat megtekintése és zárás a meleg Erdészeti Múzeumban.",
             "ro": "Dimineața: Deplasare de iarnă spre Piața SNP. Prânz: Vizită la Biserica Sf. Elisabeta și la Castelul Zvolen, parcare în apropiere. După-amiaza: Drum spre Pustý hrad (recomandat doar pe drumuri curățate). Seara: Vedere la trenul blindat și final la Muzeul Forestier cald.",
-            "en": "Morning: Winter drive to SNP Square. Noon: Visit St. Elizabeth Church and Zvolen Castle, parking nearby. Afternoon: Drive towards Pustý hrad (advisable only on cleared roads). Evening: View of the armored train and finish at the warm Forestry Museum."
+            "en": "Morning: Winter drive to SNP Square. Noon: Visit St. Elizabeth Church and Zvolen Castle, parking nearby. Afternoon: Drive towards Pustý hrad (advisable only on cleared roads). Evening: View of the armored train and finish at the warm Forestry Museum.",
+            "sk": "Ráno: Zimná jazda na SNP námestie. Poludnie: Návšteva Kostola sv. Alžbety a Zvolenského zámku s parkovaním v blízkosti. Popoludnie: Presun smerom na Pustý hrad (odporúčané len po upravených cestách). Večer: Výhľad na opevnený vlak a zakončenie v teplom Múzeu lesníctva."
           },
           "stops": [
             {
@@ -1382,7 +1496,8 @@
                 "de": "Parkplätze können durch Schneehaufen eingeschränkt sein.",
                 "hu": "A parkolóhelyeket hóbuckák szűkíthetik.",
                 "ro": "Locurile de parcare pot fi limitate de mormane de zăpadă.",
-                "en": "Parking spaces may be limited by snow piles."
+                "en": "Parking spaces may be limited by snow piles.",
+                "sk": "Parkovacie miesta môžu byť obmedzené kopami snehu."
               }
             },
             {
@@ -1391,7 +1506,8 @@
                 "de": "Vorsicht vor Eiszapfen an historischen Gebäuden.",
                 "hu": "Vigyázat a jégcsapokkal a történelmi épületeken.",
                 "ro": "Atenție la țurțuri pe clădirile istorice.",
-                "en": "Watch out for icicles on historic buildings."
+                "en": "Watch out for icicles on historic buildings.",
+                "sk": "Dávajte pozor na rampúše na historických budovách."
               }
             },
             {
@@ -1400,7 +1516,8 @@
                 "de": "Die Zufahrt zum Schlossberg wird prioritär geräumt.",
                 "hu": "A várhegyre vezető utat elsőbbséggel takarítják.",
                 "ro": "Accesul spre dealul castelului este curățat cu prioritate.",
-                "en": "The access road to the castle hill is cleared with priority."
+                "en": "The access road to the castle hill is cleared with priority.",
+                "sk": "Prístupová cesta na hradný kopec má prioritu pri odhrnutí."
               }
             },
             {
@@ -1409,7 +1526,8 @@
                 "de": "Winterreifen und ggf. Schneeketten für den Waldweg nötig.",
                 "hu": "Téli gumi és esetleg hólánc szükséges az erdei úthoz.",
                 "ro": "Anvelope de iarnă și eventual lanțuri necesare pentru drumul forestier.",
-                "en": "Winter tires and possibly snow chains needed for the forest road."
+                "en": "Winter tires and possibly snow chains needed for the forest road.",
+                "sk": "V zimnom období sú potrebné zimné pneumatiky a prípadne reťaze na lesnej ceste."
               }
             },
             {
@@ -1418,7 +1536,8 @@
                 "de": "Der Parkplatz am Bahnhof ist meist gut geräumt.",
                 "hu": "Az állomási parkolót rendszerint jól takarítják.",
                 "ro": "Parcarea de la gară este de obicei bine curățată.",
-                "en": "The station parking lot is usually well-cleared."
+                "en": "The station parking lot is usually well-cleared.",
+                "sk": "Parkovisko pri stanici je zvyčajne dobre odhrnuté."
               }
             },
             {
@@ -1427,7 +1546,8 @@
                 "de": "Perfekt geheizter Innenraum für den Tagesabschluss.",
                 "hu": "Tökéletesen fűtött belső tér a nap zárásához.",
                 "ro": "Spațiu interior perfect încălzit pentru finalul zilei.",
-                "en": "Perfectly heated interior for the end of the day."
+                "en": "Perfectly heated interior for the end of the day.",
+                "sk": "Dokonale vykúrený interiér na ukončenie dňa."
               }
             }
           ],
@@ -1459,6 +1579,13 @@
               "A battery check before departure is advisable in winter.",
               "Do not park under roofs with heavy snow loads.",
               "Don't forget the antifreeze for the windshield washer."
+            ],
+            "sk": [
+              "Vodič opatrne počas sneženia v zvolenskej kotline.",
+              "Dávajte pozor na odhŕňače snehu skoro ráno.",
+              "Pred odjazdom v zime sa odporúča skontrolovať batériu.",
+              "Neparkujte pod strechami s veľkými záťažami snehu.",
+              "Nezabudnite nemrznúcu kvapalinu do ostrekovačov."
             ]
           }
         }
@@ -1477,7 +1604,8 @@
             "de": "Ankunft Námestie SNP",
             "hu": "Érkezés az SNP térre",
             "ro": "Sosire în Piața SNP",
-            "en": "Arrival at SNP Square"
+            "en": "Arrival at SNP Square",
+            "sk": "Príchod na SNP námestie"
           },
           "coords": [
             19.1278,
@@ -1495,7 +1623,8 @@
             "de": "Kirche der Heiligen Elisabeth",
             "hu": "Szent Erzsébet-templom",
             "ro": "Biserica Sfânta Elisabeta",
-            "en": "Church of Saint Elizabeth"
+            "en": "Church of Saint Elizabeth",
+            "sk": "Kostol svätej Alžbety"
           },
           "coords": [
             19.1265,
@@ -1513,7 +1642,8 @@
             "de": "Jozef-Gregor-Tajovský-Theater",
             "hu": "Jozef Gregor Tajovský Színház",
             "ro": "Teatrul Jozef Gregor Tajovský",
-            "en": "Jozef Gregor Tajovský Theatre"
+            "en": "Jozef Gregor Tajovský Theatre",
+            "sk": "Divadlo Jozefa Gregora Tajovského"
           },
           "coords": [
             19.1255,
@@ -1531,7 +1661,8 @@
             "de": "Bus zum Schloss Zvolen",
             "hu": "Busszal a Zólyomi várhoz",
             "ro": "Autobuz spre Castelul Zvolen",
-            "en": "Bus to Zvolen Castle"
+            "en": "Bus to Zvolen Castle",
+            "sk": "Autobus na Zvolenský zámok"
           },
           "coords": [
             19.1285,
@@ -1549,7 +1680,8 @@
             "de": "Panzerzug Hurban",
             "hu": "Hurban páncélvonat",
             "ro": "Trenul blindat Hurban",
-            "en": "Armoured Train Hurban"
+            "en": "Armoured Train Hurban",
+            "sk": "Pancierový vlak Hurban"
           },
           "coords": [
             19.129,
@@ -1567,7 +1699,8 @@
             "de": "Bus zum Museum für Forstwirtschaft",
             "hu": "Busszal az Erdészeti Múzeumhoz",
             "ro": "Autobuz spre Muzeul Silviculturii",
-            "en": "Bus to the Forestry Museum"
+            "en": "Bus to the Forestry Museum",
+            "sk": "Autobus do Lesníckeho múzea"
           },
           "coords": [
             19.122,
@@ -1585,7 +1718,8 @@
         "de": "Nutzen Sie die öffentlichen Verkehrsmittel von Zvolen für einen entspannten Tag. Beginnen Sie im Zentrum, erkunden Sie den SNP-Platz und die nahegelegenen Kirchen zu Fuß. Nehmen Sie dann einen Bus, der Sie näher zum Schloss Zvolen bringt. Verbringen Sie den Vormittag damit, die Ausstellungen und die Aussicht zu genießen. Nach dem Mittagessen ist der Panzerzug Hurban, der sich in der Nähe des Schlosses befindet, nur einen kurzen Spaziergang entfernt. Am Nachmittag bringt Sie eine weitere Busfahrt zum Museum für Forstwirtschaft und Holz, wo Sie den Rest des Tages verbringen und in die lokale Kultur eintauchen.",
         "hu": "Használja Zólyom tömegközlekedését egy nyugodt naphoz. Kezdje a központban, fedezze fel gyalog az SNP teret és a közeli templomokat. Ezután szálljon buszra, amely közelebb viszi a Zólyomi várhoz. Töltse a délelőttöt a kiállítások és a kilátás élvezetével. Ebéd után a vár közelében található Hurban páncélvonat csak egy rövid séta. Délután egy újabb buszozás elviszi az Erdészeti és Faipari Múzeumhoz, ahol a nap hátralévő részét töltheti, elmerülve a helyi kultúrában.",
         "ro": "Folosiți transportul public din Zvolen pentru o zi relaxantă. Începeți în centru, explorând Piața SNP și bisericile din apropiere pe jos. Apoi, luați un autobuz care vă va aduce mai aproape de Castelul Zvolen. Petreceți dimineața bucurându-vă de expoziții și de priveliști. După prânz, trenul blindat Hurban, situat lângă castel, este la o scurtă plimbare. După-amiaza, o altă călătorie cu autobuzul vă duce la Muzeul Silviculturii și Industriei Lemnului, unde vă puteți petrece restul zilei cufundându-vă în cultura locală.",
-        "en": "Use Zvolen's public transit for a relaxed day. Start in the center, exploring SNP Square and the nearby churches on foot. Then, catch a bus to take you closer to Zvolen Castle. Spend the late morning enjoying its exhibits and views. After lunch, the Hurban armoured train, located near the castle, is a short walk away. In the afternoon, another bus ride takes you to the Museum of Forestry and Wood Technology, where you can spend the rest of your day immersed in local culture."
+        "en": "Use Zvolen's public transit for a relaxed day. Start in the center, exploring SNP Square and the nearby churches on foot. Then, catch a bus to take you closer to Zvolen Castle. Spend the late morning enjoying its exhibits and views. After lunch, the Hurban armoured train, located near the castle, is a short walk away. In the afternoon, another bus ride takes you to the Museum of Forestry and Wood Technology, where you can spend the rest of your day immersed in local culture.",
+        "sk": "Využite MHD vo Zvolene pre pokojný deň. Začnite v centre, pešo preskúmajte SNP námestie a blízke kostoly. Potom sadnite na autobus smerujúci bližšie k Zvolenskému zámku. Strávené dopoludnie venujte výstavám a výhľadom. Po obede je pancierový vlak Hurban pri zámku na krátku prechádzku. Popoludní vás ďalší autobus zavezie do Múzea lesníctva a drevárstva, kde môžete stráviť zvyšok dňa oboznamovaním sa s miestnou kultúrou."
       },
       "gastro_picks": {
         "de": [
@@ -1689,6 +1823,11 @@
           "Buy a day pass for public transport to save money.",
           "Check bus schedules in advance, especially on weekends.",
           "Be aware that buses may not stop directly in front of every attraction."
+        ],
+        "sk": [
+          "Kúpte si celodenný lístok na MHD a ušetrite.",
+          "Skontrolujte cestovné poriadky autobusov vopred, hlavne cez víkendy.",
+          "Majte na pamäti, že autobusy nemusia zastavovať priamo pred každou atrakciou."
         ]
       },
       "variants": {
@@ -1697,7 +1836,8 @@
             "de": "Vormittag: Busfahrt zum SNP-Platz, nutzen Sie die Wartehäuschen. Mittag: Kurze Wege zwischen St. Elisabeth Kirche und JGT Theater. Nachmittag: Bus zum Schloss Zvolen, das Innere der Nationalgalerie erkunden. Abend: Fahrt zum Panzerzug am Bahnhof und Besuch des Forstmuseums.",
             "hu": "Reggel: Buszozás az SNP térre, használja a várókat. Délben: Rövid utak a Szent Erzsébet templom és a JGT Színház között. Délután: Busz a zólyomi várhoz, a Nemzeti Galéria belső tereinek felfedezése. Este: Út a páncélvonathoz az állomásnál és az Erdészeti Múzeum felkeresése.",
             "ro": "Dimineața: Deplasare cu autobuzul spre Piața SNP, folosiți stațiile acoperite. Prânz: Distanțe scurte între Biserica Sf. Elisabeta și Teatrul JGT. După-amiaza: Autobuz spre Castelul Zvolen, explorarea interiorului Galeriei Naționale. Seara: Drum la trenul blindat la gară și vizitarea Muzeului Forestier.",
-            "en": "Morning: Bus ride to SNP Square, use the sheltered stops. Noon: Short distances between St. Elizabeth Church and JGT Theatre. Afternoon: Bus to Zvolen Castle, exploring the National Gallery interior. Evening: Trip to the armored train at the station and visiting the Forestry Museum."
+            "en": "Morning: Bus ride to SNP Square, use the sheltered stops. Noon: Short distances between St. Elizabeth Church and JGT Theatre. Afternoon: Bus to Zvolen Castle, exploring the National Gallery interior. Evening: Trip to the armored train at the station and visiting the Forestry Museum.",
+            "sk": "Ráno: jazda autom alebo autobusom na SNP námestie, využite zastrešené zastávky. Poludnie: krátke vzdialenosti medzi Kostolom sv. Alžbety a divadlom JGT. Popoludnie: autobus na Zvolenský zámok, prehliadka interiérov Slovenskej galérie. Večer: výlet k pancierovému vlaku na stanici a návšteva Lesníckeho múzea."
           },
           "stops": [
             {
@@ -1706,7 +1846,8 @@
                 "de": "Die Bushaltestellen am Platz sind teilweise überdacht.",
                 "hu": "A téri buszmegállók részben fedettek.",
                 "ro": "Stațiile de autobuz din piață sunt parțial acoperite.",
-                "en": "The bus stops on the square are partially sheltered."
+                "en": "The bus stops on the square are partially sheltered.",
+                "sk": "Zastávky na námestí sú čiastočne prekryté."
               }
             },
             {
@@ -1715,7 +1856,8 @@
                 "de": "Nur wenige Gehminuten von der Haltestelle im Zentrum.",
                 "hu": "Csak pár perc séta a központi megállótól.",
                 "ro": "Doar câteva minute de mers pe jos de la stația din centru.",
-                "en": "Just a few minutes' walk from the central bus stop."
+                "en": "Just a few minutes' walk from the central bus stop.",
+                "sk": "Len pár minút pešo od centrálnej autobusovej zastávky."
               }
             },
             {
@@ -1724,7 +1866,8 @@
                 "de": "Warten Sie im Foyer des Theaters auf den nächsten Bus.",
                 "hu": "Várjon a színház előcsarnokában a következő buszra.",
                 "ro": "Așteptați în foaierul teatrului următorul autobuz.",
-                "en": "Wait in the theatre foyer for the next bus."
+                "en": "Wait in the theatre foyer for the next bus.",
+                "sk": "Počkajte na ďalší autobus v divadelnom vestibule."
               }
             },
             {
@@ -1733,7 +1876,8 @@
                 "de": "Die Haltestelle befindet sich am Fuß des Schlossbergs.",
                 "hu": "A buszmegálló a várhegy lábánál található.",
                 "ro": "Stația de autobuz se află la baza dealului castelului.",
-                "en": "The bus stop is located at the foot of the castle hill."
+                "en": "The bus stop is located at the foot of the castle hill.",
+                "sk": "Autobusová zastávka sa nachádza pri úpätí zámockého vrchu."
               }
             },
             {
@@ -1742,7 +1886,8 @@
                 "de": "Direkt neben dem Busbahnhof und Bahnhof gelegen.",
                 "hu": "Közvetlenül az autóbusz-állomás és vasútállomás mellett.",
                 "ro": "Situat direct lângă autogară și gară.",
-                "en": "Located directly next to the bus and train stations."
+                "en": "Located directly next to the bus and train stations.",
+                "sk": "Nachádza sa priamo vedľa autobusovej a vlakovej stanice."
               }
             },
             {
@@ -1751,7 +1896,8 @@
                 "de": "Gut erreichbar mit Linien, die zum Park führen.",
                 "hu": "Jól elérhető a parkhoz vezető járatokkal.",
                 "ro": "Ușor accesibil cu liniile care duc spre parc.",
-                "en": "Easily accessible with lines leading to the park."
+                "en": "Easily accessible with lines leading to the park.",
+                "sk": "Ľahko prístupné linkami vedúcimi do parku."
               }
             }
           ],
@@ -1783,6 +1929,13 @@
               "The bus station waiting hall offers good rain protection.",
               "Avoid waiting at unprotected bus stops.",
               "Central lines run regularly even in the rain."
+            ],
+            "sk": [
+              "Lístky si pohodlne kúpte cez SMS alebo u vodiča.",
+              "Použite aplikáciu pre informácie o odchodoch v reálnom čase.",
+              "Čakáreň autobusovej stanice poskytuje dobrú ochranu pred dažďom.",
+              "Vyhnite sa čakaniu na nezastrešených zastávkach.",
+              "Centrálne linky premávajú pravidelne aj v daždi."
             ]
           }
         },
@@ -1791,7 +1944,8 @@
             "de": "Vormittag: Busfahrt zum SNP-Platz, wärmen Sie sich in der Kirche auf. Mittag: Kultureller Stopp beim JGT Theater. Nachmittag: Mit dem Bus zum Schloss Zvolen, genießen Sie die geheizten Ausstellungen. Abend: Kurze Fahrt zum Bahnhof (Panzerzug) und Besuch des Forstmuseums im Warmen.",
             "hu": "Reggel: Buszozás az SNP térre, melegedjen fel a templomban. Délben: Kulturális megálló a JGT Színháznál. Délután: Busszal a zólyomi várhoz, élvezze a fűtött kiállításokat. Este: Rövid út az állomáshoz (páncélvonat) és az Erdészeti Múzeum felkeresése a melegben.",
             "ro": "Dimineața: Deplasare cu autobuzul spre Piața SNP, încălziți-vă în biserică. Prânz: Popas cultural la Teatrul JGT. După-amiaza: Cu autobuzul la Castelul Zvolen, bucurați-vă de expozițiile încălzite. Seara: Drum scurt la gară (trenul blindat) și vizitarea Muzeului Forestier la căldură.",
-            "en": "Morning: Bus ride to SNP Square, warm up in the church. Noon: Cultural stop at JGT Theatre. Afternoon: By bus to Zvolen Castle, enjoy the heated exhibitions. Evening: Short trip to the station (armored train) and visiting the Forestry Museum in the warmth."
+            "en": "Morning: Bus ride to SNP Square, warm up in the church. Noon: Cultural stop at JGT Theatre. Afternoon: By bus to Zvolen Castle, enjoy the heated exhibitions. Evening: Short trip to the station (armored train) and visiting the Forestry Museum in the warmth.",
+            "sk": "Ráno: autobus na SNP námestie, zohrievajte sa v kostole. Poludnie: kultúrna zastávka v divadle JGT. Popoludnie: autobus na Zvolenský zámok, užívajte si vykurované expozície. Večer: krátky presun na stanicu (pancierový vlak) a návšteva Lesníckeho múzea v teple."
           },
           "stops": [
             {
@@ -1800,7 +1954,8 @@
                 "de": "Nutzen Sie beheizte Cafés in der Nähe der Haltestelle.",
                 "hu": "Használja a megálló közeli fűtött kávézókat.",
                 "ro": "Folosiți cafenelele încălzite din apropierea stației.",
-                "en": "Use heated cafes near the bus stop."
+                "en": "Use heated cafes near the bus stop.",
+                "sk": "Využite vykúrené kaviarne pri autobusovej zastávke."
               }
             },
             {
@@ -1809,7 +1964,8 @@
                 "de": "Die dicken Mauern halten die Kälte etwas draußen.",
                 "hu": "A vastag falak némileg kint tartják a hideget.",
                 "ro": "Zidurile groase țin frigul la distanță.",
-                "en": "The thick walls keep the cold out somewhat."
+                "en": "The thick walls keep the cold out somewhat.",
+                "sk": "Hrubé múry čiastočne zabraňujú chladu."
               }
             },
             {
@@ -1818,7 +1974,8 @@
                 "de": "Im Winter ist der Spielplan besonders attraktiv.",
                 "hu": "Télen a színházi műsor különösen vonzó.",
                 "ro": "Iarna, programul teatrului este deosebit de atractiv.",
-                "en": "The theatre schedule is especially attractive in winter."
+                "en": "The theatre schedule is especially attractive in winter.",
+                "sk": "Program divadla je v zime obzvlášť atraktívny."
               }
             },
             {
@@ -1827,7 +1984,8 @@
                 "de": "Der Fußweg von der Bushaltestelle ist oft geräumt.",
                 "hu": "A buszmegállótól vezető sétányt gyakran takarítják.",
                 "ro": "Aleea de la stația de autobuz este adesea curățată.",
-                "en": "The walkway from the bus stop is often cleared."
+                "en": "The walkway from the bus stop is often cleared.",
+                "sk": "Cestička od zastávky je často upravená."
               }
             },
             {
@@ -1836,7 +1994,8 @@
                 "de": "Warten Sie im beheizten Bahnhofsgebäude auf den Anschluss.",
                 "hu": "Várjon a fűtött állomásépületben a csatlakozásra.",
                 "ro": "Așteptați legătura în clădirea gării încălzite.",
-                "en": "Wait for your connection in the heated station building."
+                "en": "Wait for your connection in the heated station building.",
+                "sk": "Počkajte na prestup v vykúrenej budove stanice."
               }
             },
             {
@@ -1845,7 +2004,8 @@
                 "de": "Ein idealer Ort, um die Zeit bis zum Abendbus zu verbringen.",
                 "hu": "Ideális hely az esti buszig tartó idő eltöltésére.",
                 "ro": "Un loc ideal pentru a petrece timpul până la autobuzul de seară.",
-                "en": "An ideal place to spend time until the evening bus."
+                "en": "An ideal place to spend time until the evening bus.",
+                "sk": "Ideálne miesto na strávenie času do večerného autobusu."
               }
             }
           ],
@@ -1877,6 +2037,13 @@
               "Use the main station waiting hall to warm up.",
               "Buses run less frequently in the evening.",
               "Watch out for slippery boarding areas at stops."
+            ],
+            "sk": [
+              "Autobusy vo Zvolene sú v zime zvyčajne dobre vykúrené.",
+              "Počítajte s rezervou pre meškania spôsobené počasím.",
+              "Na zohrievanie využite hlavný čakací priestor stanice.",
+              "Autobusy premávajú večer menej často.",
+              "Dávajte pozor na šmykľavé nástupné plochy na zastávkach."
             ]
           }
         }

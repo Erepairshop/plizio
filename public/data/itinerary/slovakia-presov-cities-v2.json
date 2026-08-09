@@ -21,7 +21,8 @@
             "de": "Neptun-Brunnen",
             "hu": "Neptun-kút",
             "ro": "Fântâna Neptun",
-            "en": "Neptune Fountain"
+            "en": "Neptune Fountain",
+            "sk": "Neptúnova fontána"
           },
           "coords": [
             21.2395,
@@ -36,7 +37,8 @@
             "de": "Der perfekte Treffpunkt, um den Tag im Herzen der Stadt zu beginnen.",
             "hu": "Tökéletes találkozóhely a nap indításához a város szívében.",
             "ro": "Punctul de întâlnire perfect pentru a începe ziua în inima orașului.",
-            "en": "The perfect meeting point to start the day in the heart of the city."
+            "en": "The perfect meeting point to start the day in the heart of the city.",
+            "sk": "Dokonalé stretnutie na začatie dňa v srdci mesta."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Rákóczi-Palast",
             "hu": "Rákóczi-palota",
             "ro": "Palatul Rákóczi",
-            "en": "Rákóczi Palace"
+            "en": "Rákóczi Palace",
+            "sk": "Rákócziho palác"
           },
           "coords": [
             21.2401,
@@ -59,7 +62,8 @@
             "de": "Beherbergt das Heimatmuseum. Achten Sie auf die reich verzierte Fassade.",
             "hu": "A helytörténeti múzeumnak ad otthont. Figyelje meg a gazdagon díszített homlokzatot.",
             "ro": "Găzduiește muzeul regional. Observați fațada bogat decorată.",
-            "en": "Houses the regional museum. Pay attention to the richly decorated facade."
+            "en": "Houses the regional museum. Pay attention to the richly decorated facade.",
+            "sk": "Sídlí tu regionálne múzeum. Venujte pozornosť bohatému zdobeniu fasády."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "St.-Nikolaus-Konkathedrale",
             "hu": "Szent Miklós-társszékesegyház",
             "ro": "Concatedrala Sfântul Nicolae",
-            "en": "Co-Cathedral of St. Nicholas"
+            "en": "Co-Cathedral of St. Nicholas",
+            "sk": "Konkatedrála sv. Mikuláša"
           },
           "coords": [
             21.2388,
@@ -82,7 +87,8 @@
             "de": "Besteigen Sie den Turm für eine großartige Aussicht auf die Stadt.",
             "hu": "Másszon fel a toronyba a városra nyíló nagyszerű kilátásért.",
             "ro": "Urcați în turn pentru o priveliște magnifică asupra orașului.",
-            "en": "Climb the tower for a great view of the city."
+            "en": "Climb the tower for a great view of the city.",
+            "sk": "Vyjdite na vežu pre skvelý výhľad na mesto."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Orthodoxe Kathedrale des Heiligen Alexander Newski",
             "hu": "Szent Alekszandr Nyevszkij Ortodox Székesegyház",
             "ro": "Catedrala Ortodoxă Sfântul Alexandru Nevski",
-            "en": "Orthodox Cathedral of St. Alexander Nevsky"
+            "en": "Orthodox Cathedral of St. Alexander Nevsky",
+            "sk": "Pravoslávna katedrála sv. Alexandra Nevského"
           },
           "coords": [
             21.2465,
@@ -105,7 +112,8 @@
             "de": "Bewundern Sie die beeindruckende Ikonostase und die byzantinische Architektur.",
             "hu": "Csodálja meg a lenyűgöző ikonosztázt és a bizánci stílusú építészetet.",
             "ro": "Admirați iconostasul impresionant și arhitectura în stil bizantin.",
-            "en": "Admire the impressive iconostasis and Byzantine-style architecture."
+            "en": "Admire the impressive iconostasis and Byzantine-style architecture.",
+            "sk": "Obdivujte impozantný ikonostas a byzantsko‑štýlovú architektúru."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Weinmuseum Prešov",
             "hu": "Eperjesi Bormúzeum",
             "ro": "Muzeul Vinului din Prešov",
-            "en": "Prešov Wine Museum"
+            "en": "Prešov Wine Museum",
+            "sk": "Múzeum vína Prešov"
           },
           "coords": [
             21.2393,
@@ -128,7 +137,8 @@
             "de": "Probieren Sie unbedingt die lokalen Tokajer Weine, eine Spezialität der Region.",
             "hu": "Feltétlenül kóstolja meg a helyi tokaji borokat, a régió specialitását.",
             "ro": "Asigurați-vă că degustați vinurile locale Tokaj, o specialitate a regiunii.",
-            "en": "Be sure to sample the local Tokaj wines, a specialty of the region."
+            "en": "Be sure to sample the local Tokaj wines, a specialty of the region.",
+            "sk": "Nezabudnite ochutnať miestne tokajské vína, špecialitu regiónu."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Prešov Kalvarienberg",
             "hu": "Eperjesi kálvária",
             "ro": "Calvarul din Prešov",
-            "en": "Prešov Calvary"
+            "en": "Prešov Calvary",
+            "sk": "Prešovská Kalvária"
           },
           "coords": [
             21.23,
@@ -151,7 +162,8 @@
             "de": "Der Aufstieg ist steil, aber die Panoramaaussicht ist die Mühe wert.",
             "hu": "Az emelkedő meredek, de a panorámás kilátás megéri a fáradságot.",
             "ro": "Urcușul este abrupt, dar vederea panoramică merită efortul.",
-            "en": "The climb is steep, but the panoramic view is worth the effort."
+            "en": "The climb is steep, but the panoramic view is worth the effort.",
+            "sk": "Stúpanie je strmé, no panoramatický výhľad stojí za námahu."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Solivar",
             "hu": "Sóbánya (Solivar)",
             "ro": "Salina Solivar",
-            "en": "Solivar (Salt Mine)"
+            "en": "Solivar (Salt Mine)",
+            "sk": "Solivar (soľná baňa)"
           },
           "coords": [
             21.275,
@@ -174,7 +187,8 @@
             "de": "Ein einzigartiges technisches Denkmal. Planen Sie Zeit für die Führung ein.",
             "hu": "Egyedülálló ipari műemlék. Szánjon időt a vezetett túrára.",
             "ro": "Un monument tehnic unic. Rezervați timp pentru turul ghidat.",
-            "en": "A unique technical monument. Allow time for the guided tour."
+            "en": "A unique technical monument. Allow time for the guided tour.",
+            "sk": "Jedinečná technická pamiatka. Vyhraďte si čas na prehliadku s odborným výkladom."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Ihr Tag in Prešov beginnt im historischen Herzen, wo der Neptun-Brunnen plätschert. Sie schlendern durch die Hauptstraße, bewundern die Fassade des Rákóczi-Palastes und tauchen in die lokale Geschichte ein. Am Vormittag erkunden Sie die sakralen Schätze der Stadt, die imposante St.-Nikolaus-Konkathedrale und die kunstvolle orthodoxe Kathedrale, die Zeugen der reichen multikulturellen Vergangenheit sind.\nDer Mittag ist der Weinkultur gewidmet. Im Weinmuseum entdecken Sie die Geheimnisse des regionalen Weinbaus, insbesondere des berühmten Tokajers, und genießen vielleicht eine kleine Verkostung. Dieser kulturelle Genuss bereitet Sie auf den physischeren Teil des Nachmittags vor.\nAm Nachmittag erwartet Sie ein Aufstieg zum Kalvarienberg. Der Weg führt Sie an barocken Kapellen vorbei und belohnt Sie oben mit einer atemberaubenden Panoramaaussicht über Prešov und die umliegende Landschaft – ein Moment der Ruhe und Besinnung.\nDer Tag klingt im Stadtteil Solivar aus, wo Sie das einzigartige Salzbergwerk besichtigen. Dieses technische Denkmal bietet einen faszinierenden Einblick in die industrielle Geschichte der Region und rundet Ihre Erkundung von Prešov mit einer ganz besonderen Erfahrung ab, bevor Sie zum Abendessen in die Altstadt zurückkehren.",
         "hu": "Az eperjesi nap a történelmi szívben, a Neptun-kút csobogásánál kezdődik. Végigsétál a főutcán, megcsodálja a Rákóczi-palota homlokzatát és elmélyül a helyi történelemben. A délelőtt a város szakrális kincseinek felfedezésével telik: a lenyűgöző Szent Miklós-társszékesegyház és a díszes ortodox katedrális a gazdag multikulturális múlt tanúi.\nA dél a borkultúrának van szentelve. A Bormúzeumban felfedezi a regionális borászat titkait, különösen a híres Tokajiét, és talán egy kis kóstolón is részt vesz. Ez a kulturális élmény felkészíti Önt a délután fizikailag megterhelőbb részére.\nDélután a Kálváriára való feljutás vár Önre. Az út barokk kápolnák mellett vezet el, és a csúcson lélegzetelállító panorámával jutalmazza Eperjesre és a környező tájra – a nyugalom és az elmélkedés pillanata.\nA nap Solivar városrészben ér véget, ahol megtekinti az egyedülálló sóbányát. Ez az ipari műemlék lenyűgöző betekintést nyújt a régió ipari történelmébe, és egy igazán különleges élménnyel zárja eperjesi felfedezőútját, mielőtt visszatérne az óvárosba vacsorázni.",
         "ro": "Ziua dvs. în Prešov începe în inima istorică, unde fântâna lui Neptun susură. Vă plimbați pe strada principală, admirând fațada Palatului Rákóczi și aprofundând istoria locală. Dimineața explorați comorile sacre ale orașului, impunătoarea Concatedrală Sfântul Nicolae și artistica Catedrală Ortodoxă, martore ale unui bogat trecut multicultural.\nAmiaza este dedicată culturii vinului. La Muzeul Vinului descoperiți secretele viticulturii regionale, în special ale renumitului Tokaj, și poate vă bucurați de o mică degustare. Această plăcere culturală vă pregătește pentru partea mai fizică a după-amiezii.\nDupă-amiaza vă așteaptă o urcare la Calvar. Calea vă poartă pe lângă capele baroce și vă recompensează în vârf cu o priveliște panoramică uluitoare asupra orașului Prešov și a peisajului înconjurător – un moment de pace și reflecție.\nZiua se încheie în cartierul Solivar, unde vizitați salina unică. Acest monument tehnic oferă o perspectivă fascinantă asupra istoriei industriale a regiunii și completează explorarea dvs. a orașului Prešov cu o experiență cu totul specială, înainte de a vă întoarce în orașul vechi pentru cină.",
-        "en": "Your day in Prešov begins in the historic heart, where the Neptune Fountain murmurs. You'll stroll down the main street, admiring the facade of the Rákóczi Palace and delving into local history. The morning is for exploring the city's sacred treasures, the imposing Co-Cathedral of St. Nicholas and the ornate Orthodox Cathedral, witnesses to a rich multicultural past.\nNoon is dedicated to wine culture. At the Wine Museum, you'll discover the secrets of regional winemaking, especially the famous Tokaj, and perhaps enjoy a small tasting. This cultural delight prepares you for the more physical part of the afternoon.\nIn the afternoon, an ascent to the Calvary awaits you. The path takes you past baroque chapels and rewards you at the top with a breathtaking panoramic view over Prešov and the surrounding landscape – a moment of peace and reflection.\nThe day concludes in the Solivar district, where you'll visit the unique salt mine. This technical monument offers a fascinating insight into the region's industrial history, rounding off your exploration of Prešov with a very special experience before you return to the old town for dinner."
+        "en": "Your day in Prešov begins in the historic heart, where the Neptune Fountain murmurs. You'll stroll down the main street, admiring the facade of the Rákóczi Palace and delving into local history. The morning is for exploring the city's sacred treasures, the imposing Co-Cathedral of St. Nicholas and the ornate Orthodox Cathedral, witnesses to a rich multicultural past.\nNoon is dedicated to wine culture. At the Wine Museum, you'll discover the secrets of regional winemaking, especially the famous Tokaj, and perhaps enjoy a small tasting. This cultural delight prepares you for the more physical part of the afternoon.\nIn the afternoon, an ascent to the Calvary awaits you. The path takes you past baroque chapels and rewards you at the top with a breathtaking panoramic view over Prešov and the surrounding landscape – a moment of peace and reflection.\nThe day concludes in the Solivar district, where you'll visit the unique salt mine. This technical monument offers a fascinating insight into the region's industrial history, rounding off your exploration of Prešov with a very special experience before you return to the old town for dinner.",
+        "sk": "Váš deň v Prešove začína v historickom centre, kde šepká Neptúnova fontána. Prejdete sa po hlavnej ulici, obdivujúc fasádu Rákócziho paláca a ponoríte sa do miestnej histórie. Ráno je venované prehliadke sakrálnych pokladov mesta: impozantnej konkatedrály sv. Mikuláša a zdobenej pravoslávnej katedrály, svedkov bohatej multikultúrnej minulosti.\nNa poludnie sa venujete vinohradníckej kultúre. V Múzeu vína objavíte tajomstvá regionálneho vinárstva, najmä slávneho Tokaja, a možno si doprajete malú ochutnávku. Tento kultúrny zážitok vás pripraví na náročnejšiu popoludňajšiu časť.\nPopoludní vás čaká výstup na Kalváriu. Trasa vedie okolo barokových kaplniek a na vrchu vás odmení úchvatným panoramatickým výhľadom na Prešov a okolie – chvíľa pokoja a rozjímania.\nDeň uzavriete v štvrti Solivar, kde navštívite jedinečnú soľnú baní. Táto technická pamiatka ponúka fascinujúci pohľad do priemyselnej histórie regiónu a zakončí vašu prehliadku Prešova veľmi špeciálnym zážitkom, než sa vrátite do starého mesta na večeru."
       },
       "gastro_picks": {
         "de": [
@@ -378,6 +393,12 @@
           "Allow enough time for the Wine Museum and Solivar as they both offer guided tours that are very informative.",
           "Most sights in the city center are close to each other.",
           "Check the opening hours of museums and churches in advance."
+        ],
+        "sk": [
+          "Obujte si pohodlnú obuv, budete veľa chodiť, hlavne pri výstupe na Kalváriu.",
+          "Vyhraďte si dosť času na Múzeum vína a Solivar, oba ponúkajú veľmi poučné prehliadky s výkladom.",
+          "Väčšina pamiatok v centre mesta je blízko seba.",
+          "Vopred si skontrolujte otváracie hodiny múzeí a kostolov."
         ]
       },
       "variants": {
@@ -386,7 +407,8 @@
             "de": "Beginnen Sie Ihren Tag am Neptunbrunnen mit einem Schirm unter den Arkaden. Der Rákóczi-Palast bietet trockenen Unterschlupf und faszinierende Geschichte. Mittags finden Sie in der St. Nikolaus-Kathedrale Stille und Schutz vor dem Regen. Der Nachmittag im Weinmuseum und im unterirdischen Solivar ist ideal, um dem Wetter zu trotzen, während die salzige Luft in den historischen Gebäuden besonders erfrischend wirkt.",
             "hu": "Kezdje a napot az esernyők alatt a Neptun-kútnál, majd meneküljön a Rákóczi-palota történelmi falai közé. A Szent Miklós-székesegyház hűvös, de száraz menedéket nyújt a déli záporok elől. Délután a Bormúzeum és a Solivar sós raktárai tökéletes beltéri programot kínálnak, ahol az eső kopogása csak fokozza a történelmi épületek ódon hangulatát.",
             "ro": "Începeți ziua la Fântâna lui Neptun sub protecția umbrelei, apoi retrageți-vă în Palatul Rákóczi pentru a explora istoria la adăpost. Catedrala Sfântul Nicolae oferă un refugiu spiritual și uscat în timpul prânzului. După-amiaza este dedicată Muzeului Vinului și sitului Solivar, unde interioarele masive și galeriile de sare vă feresc complet de vremea capricioasă de afară.",
-            "en": "Start your day by the Neptune Fountain with an umbrella, then seek cover within the historic Rákóczi Palace. The Co-Cathedral of St. Nicholas provides a grand, dry sanctuary during the midday showers. Spend your afternoon exploring the Wine Museum and the fascinating Solivar salt works, both offering excellent indoor environments where the rain won't dampen your discovery of Prešov's heritage."
+            "en": "Start your day by the Neptune Fountain with an umbrella, then seek cover within the historic Rákóczi Palace. The Co-Cathedral of St. Nicholas provides a grand, dry sanctuary during the midday showers. Spend your afternoon exploring the Wine Museum and the fascinating Solivar salt works, both offering excellent indoor environments where the rain won't dampen your discovery of Prešov's heritage.",
+            "sk": "Začnite deň pri Neptúnovej fontáne s dáždnikom a potom sa skryte v historickom Rákócziho paláci. Konkatedrála sv. Mikuláša poskytne veľkolepé, suché útočisko počas popoludňajších dažďov. Popoludnie venujte Múzeu vína a fascinujúcim soľným dielňam Solivaru, ktoré ponúkajú skvelé vnútorné priestory, kde dážď neprekazí objavovanie dedičstva Prešova."
           },
           "stops": [
             {
@@ -395,7 +417,8 @@
                 "de": "Suchen Sie Schutz unter den nahen Arkaden der Hauptstraße.",
                 "hu": "Használja a közeli árkádokat a főutcán, ha felerősödik az eső.",
                 "ro": "Adăpostiți-vă sub arcadele de pe strada principală în caz de aversă.",
-                "en": "Use the nearby arcades on the main street for a dry photo spot."
+                "en": "Use the nearby arcades on the main street for a dry photo spot.",
+                "sk": "Využite blízke arkády na hlavnej ulici ako suché miesto na fotenie."
               }
             },
             {
@@ -404,7 +427,8 @@
                 "de": "Idealer Ort, um die Regenpause für Museumsbesuche zu nutzen.",
                 "hu": "Tökéletes időpont a múzeumi kiállítások alapos felfedezéséhez.",
                 "ro": "Moment ideal pentru a explora expozițiile muzeului la interior.",
-                "en": "An ideal time to explore the museum's exhibits while staying dry."
+                "en": "An ideal time to explore the museum's exhibits while staying dry.",
+                "sk": "Ideálny čas prehliadky expozícií múzea pri zachovaní sucha."
               }
             },
             {
@@ -413,7 +437,8 @@
                 "de": "Die massiven Mauern bieten perfekten Schutz vor Wind und Wetter.",
                 "hu": "A vaskos falak tökéletes védelmet nyújtanak a szél és az eső elől.",
                 "ro": "Zidurile masive oferă protecție excelentă împotriva vântului și ploii.",
-                "en": "The massive walls offer excellent protection from wind and rain."
+                "en": "The massive walls offer excellent protection from wind and rain.",
+                "sk": "Masívne múry poskytujú vynikajúcu ochranu pred vetrom a dažďom."
               }
             },
             {
@@ -422,7 +447,8 @@
                 "de": "Die prächtige Ikonostase lässt trübe Regentage vergessen.",
                 "hu": "A pompás ikonfalszakasz feledteti a borús, esős időt.",
                 "ro": "Iconostasul superb vă va face să uitați de vremea mohorâtă.",
-                "en": "The stunning iconostasis will make you forget the gloomy weather."
+                "en": "The stunning iconostasis will make you forget the gloomy weather.",
+                "sk": "Ohromujúci ikonostas vás nechá zabudnúť na zamračené počasie."
               }
             },
             {
@@ -431,7 +457,8 @@
                 "de": "Die tiefen Kellergewölbe sind absolut regensicher.",
                 "hu": "A mély pincék boltívei alatt garantáltan száraz marad.",
                 "ro": "Bolțile adânci ale cramei sunt complet ferite de ploaie.",
-                "en": "The deep cellar vaults are perfectly safe from the rainfall."
+                "en": "The deep cellar vaults are perfectly safe from the rainfall.",
+                "sk": "Hlboké pivničné klenby sú úplne bezpečné pred dažďom."
               }
             },
             {
@@ -440,7 +467,8 @@
                 "de": "Vorsicht auf den Stufen; bei Nässe können sie rutschig sein.",
                 "hu": "Vigyázzon a lépcsőkön; esőben csúszóssá válhatnak.",
                 "ro": "Atenție pe trepte; pot deveni alunecoase când sunt ude.",
-                "en": "Be careful on the steps; they can become slippery when wet."
+                "en": "Be careful on the steps; they can become slippery when wet.",
+                "sk": "Buďte opatrní na schodoch; pri daždi môžu byť šmykľavé."
               }
             },
             {
@@ -449,7 +477,8 @@
                 "de": "Besuchen Sie das Lagerhaus, ein riesiges, trockenes Holzmonument.",
                 "hu": "Látogasson el a sóraktárba, amely hatalmas, fedett faépítmény.",
                 "ro": "Vizitați depozitul de sare, un monument de lemn masiv și uscat.",
-                "en": "Visit the salt storehouse, a massive and dry timber monument."
+                "en": "Visit the salt storehouse, a massive and dry timber monument.",
+                "sk": "Navštívte sýpku soľných zásob, masívnu a suchú drevenú pamiatku."
               }
             }
           ],
@@ -477,6 +506,12 @@
               "The Wine Museum offers a cozy underground escape during bad weather.",
               "Wear waterproof shoes as the old town's cobblestones can collect puddles.",
               "Solivar is largely indoors or covered, making it a perfect rainy day destination."
+            ],
+            "sk": [
+              "Hlavná ulica v Prešove má mnoho arkád, ktoré slúžia ako prírodné ochrany pred dažďom.",
+              "Múzeum vína ponúka útulný podzemný úkryt počas zlého počasia.",
+              "Obujte nepremokavú obuv, staré mestské kocky môžu zadržiavať kaluže.",
+              "Solivar je do veľkej miery vnútorný alebo prekrytý, takže je ideálny na daždivý deň."
             ]
           }
         },
@@ -485,7 +520,8 @@
             "de": "Erleben Sie das winterliche Prešov, wenn der Neptunbrunnen oft von Eis gekrönt ist. Wärme finden Sie im Rákóczi-Palast und in der beheizten St. Nikolaus-Kathedrale. Da die Sonne früh untergeht, bietet die Kalvarienberg-Kapelle bei Dämmerung einen magischen Blick auf die beleuchtete Stadt. Den Abschluss bildet der Solivar, wo die konstante Temperatur in den historischen Gebäuden eine angenehme Pause von der Winterkälte bietet.",
             "hu": "Fedezze fel a téli Eperjest, ahol a Neptun-kút szobrát gyakran jégcsapok díszítik. Keressen melegséget a Rákóczi-palotában és a Szent Miklós-székesegyház padjai között. Mivel korán sötétedik, a Kálvária-domb a szürkületben varázslatos kilátást nyújt a kivilágított városra. A napot a Solivarban zárja, ahol a történelmi falak állandó hőmérséklete kellemes felüdülést nyújt a fagy után.",
             "ro": "Experimentați Prešovul iarna, când Fântâna lui Neptun este adesea împodobită cu gheață. Găsiți căldură în Palatul Rákóczi și între băncile Catedralei Sfântul Nicolae. Deoarece soarele apune devreme, dealul Calvariei oferă o vedere magică asupra orașului iluminat la amurg. Încheiați ziua la Solivar, unde zidurile istorice mențin o temperatură constantă, oferind un răgaz de la ger.",
-            "en": "Experience wintry Prešov, where the Neptune Fountain is often draped in ice. Find warmth within the Rákóczi Palace and the quiet pews of St. Nicholas Co-Cathedral. With the sun setting early, the Calvary hill offers a magical twilight view of the illuminated city below. Conclude your day at Solivar, where the thick historic walls provide a pleasant break from the biting winter chill."
+            "en": "Experience wintry Prešov, where the Neptune Fountain is often draped in ice. Find warmth within the Rákóczi Palace and the quiet pews of St. Nicholas Co-Cathedral. With the sun setting early, the Calvary hill offers a magical twilight view of the illuminated city below. Conclude your day at Solivar, where the thick historic walls provide a pleasant break from the biting winter chill.",
+            "sk": "Zažite zimný Prešov, kde je Neptúnova fontána často oblečená v ľade. Nájdite teplo v Rákócziho paláci a tichých lavičkách konkatedrály sv. Mikuláša. So skorým západom slnka ponúka Kalvária magický súmrakový výhľad na osvetlené mesto pod vami. Deň zakončite v Solivare, kde hrubé historické múry poskytujú príjemnú pauzu pred ostrým zimným chladu."
           },
           "stops": [
             {
@@ -494,7 +530,8 @@
                 "de": "Bewundern Sie die Eisformationen an der Statue bei Frost.",
                 "hu": "Csodálja meg a szobron kialakuló jégalakzatokat fagyos időben.",
                 "ro": "Admirați formațiunile de gheață de pe statuie în zilele de ger.",
-                "en": "Admire the ice formations on the statue during freezing temperatures."
+                "en": "Admire the ice formations on the statue during freezing temperatures.",
+                "sk": "Obdivujte ľadové formácie na soche pri mrazivom počasí."
               }
             },
             {
@@ -503,7 +540,8 @@
                 "de": "Genießen Sie die beheizten Ausstellungsräume des Museums.",
                 "hu": "Élvezze a múzeum fűtött kiállítótermeit a hideg után.",
                 "ro": "Bucurați-vă de sălile de expoziție încălzite ale muzeului.",
-                "en": "Enjoy the heated exhibition halls of the museum after the cold."
+                "en": "Enjoy the heated exhibition halls of the museum after the cold.",
+                "sk": "Vychutnajte si vyhrievané výstavné sály múzea po chlade."
               }
             },
             {
@@ -512,7 +550,8 @@
                 "de": "Ein Ort der Stille und moderaten Wärme im Stadtzentrum.",
                 "hu": "A csend és a mérsékelt meleg szigete a városközpontban.",
                 "ro": "Un loc de liniște și căldură moderată în centrul orașului.",
-                "en": "A place of silence and moderate warmth in the city center."
+                "en": "A place of silence and moderate warmth in the city center.",
+                "sk": "Miesto ticha a mierneho tepla v centre mesta."
               }
             },
             {
@@ -521,7 +560,8 @@
                 "de": "Kerzenschein sorgt für eine warme, andächtige Atmosphäre.",
                 "hu": "A gyertyafény meleg, áhítatos hangulatot áraszt a téli napon.",
                 "ro": "Lumina lumânărilor creează o atmosferă caldă și pioasă.",
-                "en": "Candlelight creates a warm, devotional atmosphere on winter days."
+                "en": "Candlelight creates a warm, devotional atmosphere on winter days.",
+                "sk": "Sviečkové svetlo vytvára v zime teplú, zbožnú atmosféru."
               }
             },
             {
@@ -530,7 +570,8 @@
                 "de": "Ein Glas lokaler Wein wärmt Sie nach dem Spaziergang auf.",
                 "hu": "Egy pohár helyi bor kellemesen felmelegíti a séta után.",
                 "ro": "Un pahar de vin local vă va încălzi după plimbarea prin frig.",
-                "en": "A glass of local wine will warm you up after your walk."
+                "en": "A glass of local wine will warm you up after your walk.",
+                "sk": "Pohár miestneho vína vás zohrie po prechádzke."
               }
             },
             {
@@ -539,7 +580,8 @@
                 "de": "Achtung bei Schnee; der Aufstieg erfordert gutes Schuhwerk.",
                 "hu": "Vigyázzon a hóban; a feljutáshoz jó túrabakancs szükséges.",
                 "ro": "Atenție în zăpadă; urcarea necesită încălțăminte adecvată.",
-                "en": "Careful in the snow; the ascent requires sturdy winter boots."
+                "en": "Careful in the snow; the ascent requires sturdy winter boots.",
+                "sk": "Opatrne v snehu; výstup vyžaduje pevné zimné topánky."
               }
             },
             {
@@ -548,7 +590,8 @@
                 "de": "Die massiven Steinbauten schützen gut vor dem eisigen Wind.",
                 "hu": "A vaskos kőépületek jól védenek a jeges szél ellen.",
                 "ro": "Clădirile masive de piatră protejează bine de vântul înghețat.",
-                "en": "The thick stone buildings provide good shelter from icy winds."
+                "en": "The thick stone buildings provide good shelter from icy winds.",
+                "sk": "Hrubé kamenné budovy poskytujú dobré útočisko pred ľadovým vetrom."
               }
             }
           ],
@@ -576,6 +619,12 @@
               "Layered clothing is essential as church interiors can remain quite chilly.",
               "Look for cafes along Hlavná ulica for a hot chocolate break between stops.",
               "Sidewalks can be slippery, especially on the path leading up to the Calvary."
+            ],
+            "sk": [
+              "Západ slnka nastáva v zime približne okolo 16:00; naplánujte si návštevu Kalvárie podľa toho.",
+              "Viac vrstiev oblečenia je nevyhnutné, interiér kostolov môže zostať dosť chladný.",
+              "Hľadajte kaviarne pozdĺž Hlavnej ulice na čokoládové prestávky medzi zastávkami.",
+              "Chodníky môžu byť šmykľavé, najmä na ceste vedúcej na Kalváriu."
             ]
           }
         }
@@ -594,7 +643,8 @@
             "de": "Neptun-Brunnen",
             "hu": "Neptun-kút",
             "ro": "Fântâna Neptun",
-            "en": "Neptune Fountain"
+            "en": "Neptune Fountain",
+            "sk": "Neptúnova fontána"
           },
           "coords": [
             21.2395,
@@ -609,7 +659,8 @@
             "de": "Schließen Sie Ihr Fahrrad sicher ab, während Sie den zentralen Platz erkunden.",
             "hu": "Zárja le biztonságosan a kerékpárját, amíg felfedezi a központi teret.",
             "ro": "Asigurați-vă bicicleta în mod corespunzător în timp ce explorați piața centrală.",
-            "en": "Lock your bike securely while you explore the central square."
+            "en": "Lock your bike securely while you explore the central square.",
+            "sk": "Bezpečne zamknite bicykel, kým preskúmate centrálne námestie."
           }
         },
         {
@@ -617,7 +668,8 @@
             "de": "Rákóczi-Palast",
             "hu": "Rákóczi-palota",
             "ro": "Palatul Rákóczi",
-            "en": "Rákóczi Palace"
+            "en": "Rákóczi Palace",
+            "sk": "Rákócziho palác"
           },
           "coords": [
             21.2401,
@@ -632,7 +684,8 @@
             "de": "Das Museum im Inneren ist einen Besuch wert.",
             "hu": "A benne található múzeumot érdemes meglátogatni.",
             "ro": "Muzeul din interior merită vizitat.",
-            "en": "The museum inside is worth a visit."
+            "en": "The museum inside is worth a visit.",
+            "sk": "Múzeum vnútri stojí za návštevu."
           }
         },
         {
@@ -640,7 +693,8 @@
             "de": "St.-Nikolaus-Konkathedrale",
             "hu": "Szent Miklós-társszékesegyház",
             "ro": "Concatedrala Sfântul Nicolae",
-            "en": "Co-Cathedral of St. Nicholas"
+            "en": "Co-Cathedral of St. Nicholas",
+            "sk": "Konkatedrála sv. Mikuláša"
           },
           "coords": [
             21.2388,
@@ -655,7 +709,8 @@
             "de": "Ein Meisterwerk der Gotik.",
             "hu": "A gótikus építészet mesterműve.",
             "ro": "O capodoperă a arhitecturii gotice.",
-            "en": "A masterpiece of Gothic architecture."
+            "en": "A masterpiece of Gothic architecture.",
+            "sk": "Majstrovské dielo gotickej architektúry."
           }
         },
         {
@@ -663,7 +718,8 @@
             "de": "Orthodoxe Kathedrale des Heiligen Alexander Newski",
             "hu": "Szent Alekszandr Nyevszkij Ortodox Székesegyház",
             "ro": "Catedrala Ortodoxă Sfântul Alexandru Nevski",
-            "en": "Orthodox Cathedral of St. Alexander Nevsky"
+            "en": "Orthodox Cathedral of St. Alexander Nevsky",
+            "sk": "Pravoslávna katedrála sv. Alexandra Nevského"
           },
           "coords": [
             21.2465,
@@ -678,7 +734,8 @@
             "de": "Ein schönes Beispiel für russisch-orthodoxe Architektur.",
             "hu": "Az orosz ortodox építészet gyönyörű példája.",
             "ro": "Un exemplu frumos de arhitectură rusă ortodoxă.",
-            "en": "A beautiful example of Russian Orthodox architecture."
+            "en": "A beautiful example of Russian Orthodox architecture.",
+            "sk": "Krásny príklad ruskej pravoslávnej architektúry."
           }
         },
         {
@@ -686,7 +743,8 @@
             "de": "Solivar",
             "hu": "Sóbánya (Solivar)",
             "ro": "Salina Solivar",
-            "en": "Solivar (Salt Mine)"
+            "en": "Solivar (Salt Mine)",
+            "sk": "Solivar (soľná baňa)"
           },
           "coords": [
             21.275,
@@ -701,7 +759,8 @@
             "de": "Die Radtour hierher führt Sie durch verschiedene Teile der Stadt.",
             "hu": "Az ide vezető kerékpártúra a város különböző részein visz keresztül.",
             "ro": "Plimbarea cu bicicleta până aici vă va purta prin diferite părți ale orașului.",
-            "en": "The bike ride here takes you through different parts of the city."
+            "en": "The bike ride here takes you through different parts of the city.",
+            "sk": "Jazda na bicykli sem vás prevedie rôznymi časťami mesta."
           }
         },
         {
@@ -709,7 +768,8 @@
             "de": "Prešov Kalvarienberg",
             "hu": "Eperjesi kálvária",
             "ro": "Calvarul din Prešov",
-            "en": "Prešov Calvary"
+            "en": "Prešov Calvary",
+            "sk": "Prešovská Kalvária"
           },
           "coords": [
             21.23,
@@ -724,7 +784,8 @@
             "de": "Bereiten Sie sich auf einen steilen Anstieg vor. Vielleicht möchten Sie das Fahrrad unten abstellen und zu Fuß gehen.",
             "hu": "Készüljön fel egy meredek emelkedőre. Érdemes lehet lent hagyni a kerékpárt és gyalogolni.",
             "ro": "Pregătiți-vă pentru o urcare abruptă. Poate doriți să lăsați bicicleta jos și să urcați pe jos.",
-            "en": "Be prepared for a steep climb. You might want to leave the bike at the bottom and walk up."
+            "en": "Be prepared for a steep climb. You might want to leave the bike at the bottom and walk up.",
+            "sk": "Pripravte sa na strmý výšlap. Možno budete chcieť nechať bicykel dole a ísť pešo."
           }
         },
         {
@@ -732,7 +793,8 @@
             "de": "Stadttheater Jonáš Záborský",
             "hu": "Jonáš Záborský Színház",
             "ro": "Teatrul Jonáš Záborský",
-            "en": "Jonáš Záborský Theatre"
+            "en": "Jonáš Záborský Theatre",
+            "sk": "Divadlo Jonáša Záborského"
           },
           "coords": [
             21.2415,
@@ -747,7 +809,8 @@
             "de": "Informieren Sie sich über das Abendprogramm, falls Sie an einer Vorstellung interessiert sind.",
             "hu": "Nézze meg az esti programot, ha érdekli egy előadás.",
             "ro": "Verificați programul de seară dacă sunteți interesat de un spectacol.",
-            "en": "Check the evening's schedule if you're interested in a performance."
+            "en": "Check the evening's schedule if you're interested in a performance.",
+            "sk": "Skontrolujte večerný program, ak máte záujem o predstavenie."
           }
         }
       ],
@@ -755,7 +818,8 @@
         "de": "Mit dem Fahrrad beginnt Ihr Tag in Prešov mit Agilität und frischer Luft. Sie starten am Neptun-Brunnen, dem pulsierenden Herzen der Stadt, und radeln gemütlich zum Rákóczi-Palast und zur St.-Nikolaus-Konkathedrale. Die kurzen Wege im Zentrum sind ideal, um die historische Atmosphäre aufzusaugen.\nAm Vormittag führt Sie eine kurze Fahrt zur orthodoxen Kathedrale, bevor Sie sich auf eine längere Etappe nach Solivar begeben. Diese Tour gibt Ihnen einen umfassenderen Eindruck von der Stadt, während Sie sich dem faszinierenden Salzbergwerk nähern, einem Höhepunkt der Industriegeschichte.\nNachdem Sie die unterirdische Welt von Solivar erkundet haben, schwingen Sie sich wieder auf den Sattel für die anspruchsvollste, aber auch lohnendste Fahrt des Tages: hinauf zum Kalvarienberg. Die Anstrengung wird mit einer spektakulären Aussicht belohnt. Es ist der perfekte Ort für eine wohlverdiente Pause.\nZum Abschluss des Tages rollen Sie gemütlich zurück ins Zentrum. Ein letzter Halt am Stadttheater rundet Ihre kulturelle Radtour ab. Sie haben die wichtigsten Sehenswürdigkeiten von Prešov gesehen und dabei sowohl die städtischen als auch die naturnahen Seiten der Stadt auf sportliche Weise erlebt.",
         "hu": "Kerékpárral az eperjesi nap mozgékonysággal és friss levegővel kezdődik. A Neptun-kútnál, a város lüktető szívében indul, és kényelmesen elteker a Rákóczi-palotához és a Szent Miklós-társszékesegyházhoz. A központ rövid távolságai ideálisak a történelmi légkör magába szívásához.\nA délelőtt egy rövid tekeréssel folytatódik az ortodox katedrálishoz, mielőtt egy hosszabb szakaszra indulna Solivar felé. Ez a túra átfogóbb képet ad a városról, miközben a lenyűgöző sóbánya, az ipartörténet egyik csúcspontja felé közeledik.\nMiután felfedezte Solivar földalatti világát, újra nyeregbe pattan a nap legnehezebb, de egyben legkifizetődőbb útjára: fel a Kálváriára. A fáradozást látványos kilátás jutalmazza. Tökéletes hely egy jól megérdemelt pihenőre.\nA nap végén kényelmesen visszagurul a központba. Egy utolsó megálló a Városi Színháznál teszi teljessé a kulturális kerékpártúrát. Megtekintette Eperjes legfontosabb látnivalóit, és közben sportosan élvezte a város városi és természeti oldalait egyaránt.",
         "ro": "Pe bicicletă, ziua dvs. în Prešov începe cu agilitate și aer proaspăt. Porniți de la Fântâna Neptun, inima vibrantă a orașului, și pedalați pe îndelete spre Palatul Rákóczi și Concatedrala Sfântul Nicolae. Distanțele scurte din centru sunt ideale pentru a absorbi atmosfera istorică.\nDimineața, o scurtă plimbare vă duce la catedrala ortodoxă, înainte de a porni într-o etapă mai lungă spre Solivar. Acest tur vă oferă o impresie mai cuprinzătoare a orașului pe măsură ce vă apropiați de fascinanta salină, un punct culminant al istoriei industriale.\nDupă ce ați explorat lumea subterană a Solivarului, vă urcați din nou în șa pentru cea mai solicitantă, dar și cea mai plină de satisfacții, plimbare a zilei: sus la Calvar. Efortul este răsplătit cu o priveliște spectaculoasă. Este locul perfect pentru o pauză binemeritată.\nLa sfârșitul zilei, vă întoarceți relaxat în centru. O ultimă oprire la Teatrul Municipal completează turul dvs. cultural pe bicicletă. Ați văzut cele mai importante atracții din Prešov, experimentând atât latura urbană, cât și cea naturală a orașului într-un mod sportiv.",
-        "en": "On a bike, your day in Prešov starts with agility and fresh air. You'll begin at Neptune Fountain, the city's vibrant heart, and leisurely pedal to the Rákóczi Palace and the Co-Cathedral of St. Nicholas. The short distances in the center are ideal for soaking up the historical atmosphere.\nIn the morning, a short ride takes you to the Orthodox Cathedral before you embark on a longer leg to Solivar. This tour gives you a more comprehensive impression of the city as you approach the fascinating salt mine, a highlight of industrial history.\nAfter exploring the subterranean world of Solivar, you'll get back in the saddle for the most demanding but also most rewarding ride of the day: up to the Calvary. The effort is rewarded with a spectacular view. It's the perfect spot for a well-deserved break.\nAt the end of the day, you'll roll comfortably back to the center. A final stop at the City Theatre completes your cultural bike tour. You've seen the most important sights of Prešov, experiencing both the urban and natural sides of the city in a sporty way."
+        "en": "On a bike, your day in Prešov starts with agility and fresh air. You'll begin at Neptune Fountain, the city's vibrant heart, and leisurely pedal to the Rákóczi Palace and the Co-Cathedral of St. Nicholas. The short distances in the center are ideal for soaking up the historical atmosphere.\nIn the morning, a short ride takes you to the Orthodox Cathedral before you embark on a longer leg to Solivar. This tour gives you a more comprehensive impression of the city as you approach the fascinating salt mine, a highlight of industrial history.\nAfter exploring the subterranean world of Solivar, you'll get back in the saddle for the most demanding but also most rewarding ride of the day: up to the Calvary. The effort is rewarded with a spectacular view. It's the perfect spot for a well-deserved break.\nAt the end of the day, you'll roll comfortably back to the center. A final stop at the City Theatre completes your cultural bike tour. You've seen the most important sights of Prešov, experiencing both the urban and natural sides of the city in a sporty way.",
+        "sk": "Na bicykli začína váš deň v Prešove s pružnosťou a čerstvým vzduchom. Štartujete pri Neptúnovej fontáne, pulzujúcom srdci mesta, a pokojne pedálíte k Rákócziho palácu a konkatedrále sv. Mikuláša. Krátke vzdialenosti v centre sú ideálne na vnímanie historickej atmosféry.\nDopoludnia krátky presun vedie k pravoslávnej katedrále, potom nasleduje dlhší úsek k Solivaru. Táto trasa vám dá komplexnejší dojem mesta pri približovaní sa k fascinujúcej soľnej bani, vrcholu priemyselnej histórie.\nPo preskúmaní podzemného sveta Solivaru sadáte opäť na bicykel smerom na náročnejší, no zároveň najodmeňujúcejší úsek dňa: na Kalváriu. Námaha je odmenená ohromujúcim výhľadom. Je to perfektné miesto na zaslúžený oddych.\nNa konci dňa sa pohodlne vrátite do centra. Zastávka v Mestskom divadle uzavrie vašu kultúrnu cyklotúru. Videli ste najdôležitejšie pamiatky Prešova a zažili mestskú i prírodnú tvár mesta športovým spôsobom."
       },
       "gastro_picks": {
         "de": [
@@ -951,6 +1015,12 @@
           "Bring a bottle of water, especially for the climb to the Calvary.",
           "The city is relatively bike-friendly, but watch out for pedestrians in the center.",
           "A lock is essential to secure your bike safely."
+        ],
+        "sk": [
+          "Skontrolujte bicykel pred odchodom, najmä brzdy a plášte.",
+          "Vezmite si fľašu vody, najmä na výstup na Kalváriu.",
+          "Mesto je relatívne priateľské k cyklistom, ale dávajte pozor na chodcov v centre.",
+          "Zámok je nevyhnutný na bezpečné zabezpečenie bicykla."
         ]
       },
       "variants": {
@@ -959,7 +1029,8 @@
             "de": "Prešov mit dem Rad im Regen erfordert Vorsicht auf den Pflastersteinen der Altstadt. Nach dem Neptunbrunnen bieten der Rákóczi-Palast und die Kathedrale trockene Pausen. Die Fahrt nach Solivar ist auf nassen Straßen anspruchsvoll, aber die historischen Industriegebäude entschädigen für die Mühe. Am späten Nachmittag bietet das Jonáš-Záborský-Theater einen stilvollen, trockenen Ausklang Ihrer Tour durch die Stadt.",
             "hu": "Eperjes kerékpáros felfedezése esőben óvatosságot igényel az óváros macskakövein. A Neptun-kút után a Rákóczi-palota és a székesegyház nyújt száraz pihenőt. A Sóvár (Solivar) felé vezető út vizes aszfalton nehezebb, de a történelmi ipari műemlékek kárpótolják a fáradozásért. Késő délután a Jonáš Záborský Színház modern épülete kínál stílusos és száraz zárást a városi túrának.",
             "ro": "Explorarea orașului Prešov pe bicicletă în ploaie necesită prudență pe pavajul vechi. După Fântâna lui Neptun, Palatul Rákóczi și Catedrala oferă pauze uscate necesare. Drumul spre Solivar pe asfalt ud este mai solicitant, dar monumentele industriale istorice merită efortul. La sfârșitul după-amiezii, Teatrul Jonáš Záborský oferă un final elegant și ferit de ploaie pentru turul dvs.",
-            "en": "Cycling through Prešov in the rain requires extra care on the old town's cobblestones. After the Neptune Fountain, the Rákóczi Palace and the Cathedral offer much-needed dry breaks. The ride to Solivar on wet roads is more demanding, but the historic industrial monuments make it worthwhile. In the late afternoon, the Jonáš Záborský Theatre provides a stylish, indoor conclusion to your city tour."
+            "en": "Cycling through Prešov in the rain requires extra care on the old town's cobblestones. After the Neptune Fountain, the Rákóczi Palace and the Cathedral offer much-needed dry breaks. The ride to Solivar on wet roads is more demanding, but the historic industrial monuments make it worthwhile. In the late afternoon, the Jonáš Záborský Theatre provides a stylish, indoor conclusion to your city tour.",
+            "sk": "Cyklistika v Prešove v daždi vyžaduje zvýšenú opatrnosť na staromestských kockách. Po Neptúnovej fontáne ponúkajú Rákócziho palác a katedrála potrebné suché prestávky. Jazda k Solivaru po mokrých cestách je náročnejšia, no historické priemyselné pamiatky stoja za to. Podvečer Divadlo Jonáša Záborského poskytne štýlové vnútorné zakončenie vašej prehliadky mesta."
           },
           "stops": [
             {
@@ -968,7 +1039,8 @@
                 "de": "Vorsicht vor rutschigen Markierungen auf der Fahrbahn.",
                 "hu": "Vigyázzon az úttesten lévő csúszós felfestésekkel esőben.",
                 "ro": "Atenție la marcajele rutiere alunecoase când plouă.",
-                "en": "Watch out for slippery road markings when it's raining."
+                "en": "Watch out for slippery road markings when it's raining.",
+                "sk": "Dávajte pozor na šmykľavé vodorovné dopravné značenie pri daždi."
               }
             },
             {
@@ -977,7 +1049,8 @@
                 "de": "Parken Sie Ihr Rad nah am Eingang unter dem Dachvorsprung.",
                 "hu": "Parkolja a kerékpárt a bejárat közelében, az eresz alatt.",
                 "ro": "Parcați bicicleta aproape de intrare, sub streașină.",
-                "en": "Park your bike near the entrance under the roof overhang."
+                "en": "Park your bike near the entrance under the roof overhang.",
+                "sk": "Odpárkujte bicykel pri vchode pod strešným presahom."
               }
             },
             {
@@ -986,7 +1059,8 @@
                 "de": "Nutzen Sie die Zeit im Inneren, um Ihre Regenbekleidung zu ordnen.",
                 "hu": "Használja ki a benti időt az esőruházat megigazítására.",
                 "ro": "Folosiți timpul petrecut înăuntru pentru a vă aranja hainele de ploaie.",
-                "en": "Use the time inside to adjust and dry your rain gear."
+                "en": "Use the time inside to adjust and dry your rain gear.",
+                "sk": "Využite čas vo vnútri na úpravu a vysušenie pršiplášťa."
               }
             },
             {
@@ -995,7 +1069,8 @@
                 "de": "Kurzer Stopp; halten Sie Ihr Rad griffbereit im Trockenen.",
                 "hu": "Rövid megálló; tartsa a kerékpárt kéznél, fedett helyen.",
                 "ro": "Oprire scurtă; țineți bicicleta la îndemână într-un loc ferit.",
-                "en": "Short stop; keep your bike handy in a covered spot."
+                "en": "Short stop; keep your bike handy in a covered spot.",
+                "sk": "Krátka zastávka; majte bicykel poruke na krytom mieste."
               }
             },
             {
@@ -1004,7 +1079,8 @@
                 "de": "Die asphaltierte Strecke hierher kann bei Regen spritzen.",
                 "hu": "Az idevezető aszfaltozott szakasz esőben felverheti a vizet.",
                 "ro": "Traseul asfaltat până aici poate stropi mult pe ploaie.",
-                "en": "The paved route here can be quite splashy in the rain."
+                "en": "The paved route here can be quite splashy in the rain.",
+                "sk": "Asfaltová trasa tu môže byť pri daždi dosť postreknutá."
               }
             },
             {
@@ -1013,7 +1089,8 @@
                 "de": "Der steile Anstieg ist bei Nässe eine fahrerische Herausforderung.",
                 "hu": "A meredek emelkedő esőben komoly kerékpáros kihívás.",
                 "ro": "Urcarea abruptă este o provocare pentru bicicliști pe ploaie.",
-                "en": "The steep climb is a real cycling challenge in wet conditions."
+                "en": "The steep climb is a real cycling challenge in wet conditions.",
+                "sk": "Strmý výstup je v mokrých podmienkach skutočnou cyklistickou výzvou."
               }
             },
             {
@@ -1022,7 +1099,8 @@
                 "de": "Ein perfekter Ort, um das Radfahren im Trockenen zu beenden.",
                 "hu": "Tökéletes helyszín a bringázás befejezéséhez szárazon.",
                 "ro": "Locul perfect pentru a încheia tura de ciclism la adăpost.",
-                "en": "The perfect spot to wrap up your cycling tour while staying dry."
+                "en": "The perfect spot to wrap up your cycling tour while staying dry.",
+                "sk": "Ideálne miesto na zakončenie cyklotúry a zároveň úkryt pred dažďom."
               }
             }
           ],
@@ -1050,6 +1128,12 @@
               "Use mudguards to protect yourself from road spray during your ride.",
               "The main street offers many spots to take cover if the rain gets too heavy.",
               "Avoid sharp turns on the wet cobblestones in the city center."
+            ],
+            "sk": [
+              "Skontrolujte brzdy – mokré ráfiky zvyšujú brzdnú dráhu v starom meste.",
+              "Používajte blatníky, aby ste sa chránili pred rozstriekanou vodou na ceste.",
+              "Hlavná ulica ponúka množstvo miest na úkryt, ak sa spustí silný dážď.",
+              "Vyhnite sa ostrým zákrutám na mokrých kockových dlažbách v centre mesta."
             ]
           }
         },
@@ -1058,7 +1142,8 @@
             "de": "Radfahren im winterlichen Prešov erfordert warme Handschuhe und helle Lichter. Der Neptunbrunnen wirkt in der Wintersonne fast wie aus Glas. Nutzen Sie die Aufenthalte im Rákóczi-Palast und in der Kathedrale, um sich aufzuwärmen. Die Fahrt zum Solivar führt durch ruhige, winterliche Straßen. Da es früh dunkel wird, ist der Besuch am Jonáš-Záborský-Theater ideal, wenn die moderne Architektur in der Winternacht hell erleuchtet ist.",
             "hu": "A téli eperjesi bringázáshoz meleg kesztyű és jó világítás szükséges. A Neptun-kút szinte üvegszerűnek tűnik a téli napsütésben. Használja ki a Rákóczi-palotát és a székesegyházat a felmelegedésre. A Sóvár (Solivar) felé vezető út csendes, havas utcákon át visz. Mivel korán sötétedik, a Jonáš Záborský Színház modern épülete éppen akkor a legszebb, amikor a téli éjszakában fényárban úszik.",
             "ro": "Ciclismul în Prešov pe timp de iarnă necesită mănuși groase și lumini bune. Fântâna lui Neptun pare aproape din sticlă în soarele de iarnă. Folosiți Palatul Rákóczi și Catedrala pentru a vă încălzi. Drumul spre Solivar trece prin străzi liniștite de iarnă. Deoarece se întunecă devreme, vizita la Teatrul Jonáš Záborský este ideală când arhitectura modernă este iluminată în noaptea de iarnă.",
-            "en": "Cycling in wintry Prešov requires warm gloves and bright lights. The Neptune Fountain looks almost glass-like in the winter sun. Use your time at the Rákóczi Palace and the Cathedral to warm up your fingers. The ride to Solivar takes you through quiet, frosty streets. With the early sunset, the Jonáš Záborský Theatre is best visited when its modern architecture glows brightly against the winter night."
+            "en": "Cycling in wintry Prešov requires warm gloves and bright lights. The Neptune Fountain looks almost glass-like in the winter sun. Use your time at the Rákóczi Palace and the Cathedral to warm up your fingers. The ride to Solivar takes you through quiet, frosty streets. With the early sunset, the Jonáš Záborský Theatre is best visited when its modern architecture glows brightly against the winter night.",
+            "sk": "Cyklistika v zimnom Prešove vyžaduje teplé rukavice a silné svetlá. Neptúnova fontána v zimnom slnku pôsobí takmer ako sklo. Pri Rákócziho paláci a katedrále si dajte prestávku a zohriať si prsty. Trasa do Solivaru vedie tichými, mrazivými ulicami. Pri skorom západe slnka je divadlo Jonáša Záborského najkrajšie navštíviť, keď jeho moderná architektúra jasne žiari v zimnej noci."
           },
           "stops": [
             {
@@ -1067,7 +1152,8 @@
                 "de": "Vorsicht vor Eisplatten in der Nähe des Brunnens.",
                 "hu": "Vigyázzon a kúthoz közeli jégfoltokkal fagyos reggeleken.",
                 "ro": "Atenție la porțiunile de gheață din jurul fântânii.",
-                "en": "Watch out for patches of ice near the fountain on frosty mornings."
+                "en": "Watch out for patches of ice near the fountain on frosty mornings.",
+                "sk": "Dávajte pozor na ľadové škvrny pri fontáne v mrazivých ránach."
               }
             },
             {
@@ -1076,7 +1162,8 @@
                 "de": "Ein warmer Stopp, um die steifen Glieder wieder zu lockern.",
                 "hu": "Melegítő megálló, hogy átmozgassa az átfagyott végtagjait.",
                 "ro": "O oprire caldă pentru a vă dezmorți membrele înghețate.",
-                "en": "A warm stop to loosen up your stiff limbs after the ride."
+                "en": "A warm stop to loosen up your stiff limbs after the ride.",
+                "sk": "Teplá zastávka na uvoľnenie stuhnutých končatín po jazde."
               }
             },
             {
@@ -1085,7 +1172,8 @@
                 "de": "Im Inneren herrscht oft eine angenehmere Temperatur als draußen.",
                 "hu": "A benti hőmérséklet gyakran kellemesebb, mint a kinti fagy.",
                 "ro": "Temperatura interioară este adesea mai plăcută decât gerul de afară.",
-                "en": "The indoor temperature is often more pleasant than the frost outside."
+                "en": "The indoor temperature is often more pleasant than the frost outside.",
+                "sk": "Vnútorná teplota je často príjemnejšia než mráz vonku."
               }
             },
             {
@@ -1094,7 +1182,8 @@
                 "de": "Stellen Sie Ihr Rad sicher ab; Metallteile können sehr kalt sein.",
                 "hu": "Támassza le biztosan a gépet; a fém alkatrészek nagyon hidegek.",
                 "ro": "Sprijiniți bicicleta bine; părțile metalice pot fi foarte reci.",
-                "en": "Park your bike securely; metal parts can be very cold to touch."
+                "en": "Park your bike securely; metal parts can be very cold to touch.",
+                "sk": "Zaparkujte bicykel pevne; kovové časti môžu byť veľmi studené na dotyk."
               }
             },
             {
@@ -1103,7 +1192,8 @@
                 "de": "Die weitläufige Anlage wirkt im Winter besonders einsam und schön.",
                 "hu": "A tágas épületegyüttes télen különösen békés és szép.",
                 "ro": "Complexul vast pare deosebit de liniștit și frumos iarna.",
-                "en": "The sprawling complex feels especially peaceful and beautiful in winter."
+                "en": "The sprawling complex feels especially peaceful and beautiful in winter.",
+                "sk": "Rozľahlý komplex je v zime obzvlášť pokojný a krásny."
               }
             },
             {
@@ -1112,7 +1202,8 @@
                 "de": "Schieben Sie das Rad bei Glätte lieber das letzte Stück hoch.",
                 "hu": "Csúszós úton inkább tolja a kerékpárt az utolsó szakaszon.",
                 "ro": "Pe drum alunecos, mai bine împingeți bicicleta pe ultima porțiune.",
-                "en": "On slippery roads, it's better to push your bike on the final stretch."
+                "en": "On slippery roads, it's better to push your bike on the final stretch.",
+                "sk": "Na klzkých cestách je lepšie na poslednom úseku bicykel potlačiť."
               }
             },
             {
@@ -1121,7 +1212,8 @@
                 "de": "Die helle Beleuchtung ist ein guter Orientierungspunkt am Abend.",
                 "hu": "Az erős esti kivilágítás jó tájékozódási pont a sötétben.",
                 "ro": "Iluminarea puternică de seară este un punct bun de orientare.",
-                "en": "The bright evening lighting is a great landmark in the dark."
+                "en": "The bright evening lighting is a great landmark in the dark.",
+                "sk": "Jasné večerné osvetlenie je v tme skvelým orientačným bodom."
               }
             }
           ],
@@ -1149,6 +1241,12 @@
               "Ensure your bike lights are fully charged for the early darkness.",
               "Use winter tires or lower the pressure for better grip on the snow.",
               "Avoid braking in turns if the road surface seems icy."
+            ],
+            "sk": [
+              "Oblečte sa vetruvzdorne – vietor pri pohybe zintenzívňuje chlad.",
+              "Uistite sa, že svetlá na bicykli sú plne nabité kvôli skorému stmievaniu.",
+              "Použite zimné pneumatiky alebo znížte tlak pre lepšiu priľnavosť na snehu.",
+              "Vyhnite sa brzdeniu v zákrutách, ak sa povrch zdá namrznutý."
             ]
           }
         }
@@ -1167,7 +1265,8 @@
             "de": "Parkplatz Zentrum & Neptun-Brunnen",
             "hu": "Parkoló a központban és Neptun-kút",
             "ro": "Parcare Centru și Fântâna Neptun",
-            "en": "Parking Downtown & Neptune Fountain"
+            "en": "Parking Downtown & Neptune Fountain",
+            "sk": "Parkovanie v centre & Neptúnova fontána"
           },
           "coords": [
             21.2385,
@@ -1182,7 +1281,8 @@
             "de": "Parken Sie hier, um den ersten Cluster zu Fuß zu erkunden. Der Brunnen ist Ihr Ausgangspunkt.",
             "hu": "Parkoljon le itt az első látnivalócsoport gyalogos felfedezéséhez. A kút a kiindulópont.",
             "ro": "Parcați aici pentru a explora primul grup de atracții pe jos. Fântâna este punctul de plecare.",
-            "en": "Park here to explore the first cluster on foot. The fountain is your starting point."
+            "en": "Park here to explore the first cluster on foot. The fountain is your starting point.",
+            "sk": "Zaparkujte tu a prvú skupinu pamiatok preskúmajte pešo. Fontána je východiskový bod."
           }
         },
         {
@@ -1190,7 +1290,8 @@
             "de": "St.-Nikolaus-Konkathedrale",
             "hu": "Szent Miklós-társszékesegyház",
             "ro": "Concatedrala Sfântul Nicolae",
-            "en": "Co-Cathedral of St. Nicholas"
+            "en": "Co-Cathedral of St. Nicholas",
+            "sk": "Konkatedrála sv. Mikuláša"
           },
           "coords": [
             21.2388,
@@ -1206,7 +1307,8 @@
             "de": "Ein kurzer Spaziergang vom Brunnen entfernt. Nehmen Sie sich Zeit für das Innere.",
             "hu": "Rövid séta a kúttól. Szánjon időt a belső térre.",
             "ro": "La o scurtă plimbare de fântână. Acordați-vă timp pentru a admira interiorul.",
-            "en": "A short walk from the fountain. Take your time for the interior."
+            "en": "A short walk from the fountain. Take your time for the interior.",
+            "sk": "Krátka prechádzka od fontány. Vnútrajšok si pozrite bez zhonu."
           }
         },
         {
@@ -1214,7 +1316,8 @@
             "de": "Rákóczi-Palast",
             "hu": "Rákóczi-palota",
             "ro": "Palatul Rákóczi",
-            "en": "Rákóczi Palace"
+            "en": "Rákóczi Palace",
+            "sk": "Rákócziho palác"
           },
           "coords": [
             21.2401,
@@ -1230,7 +1333,8 @@
             "de": "Der Spaziergang entlang der Hauptstraße führt Sie direkt zu diesem historischen Gebäude.",
             "hu": "A Fő utcán végigsétálva egyenesen ehhez a történelmi épülethez jut.",
             "ro": "Plimbarea de-a lungul străzii principale vă duce direct la această clădire istorică.",
-            "en": "The walk along the main street leads you directly to this historic building."
+            "en": "The walk along the main street leads you directly to this historic building.",
+            "sk": "Prechádzka po hlavnej ulici vás privedie priamo k tejto historickej budove."
           }
         },
         {
@@ -1238,7 +1342,8 @@
             "de": "Fahrt und Erkundung von Solivar",
             "hu": "Utazás és a sóbányai (Solivar) komplexum felfedezése",
             "ro": "Călătorie și explorare la Solivar",
-            "en": "Drive to and explore Solivar"
+            "en": "Drive to and explore Solivar",
+            "sk": "Autom do Solivaru a prehliadka"
           },
           "coords": [
             21.275,
@@ -1254,7 +1359,8 @@
             "de": "Fahren Sie zum zweiten Cluster. Planen Sie Mittagessen in der Nähe oder bringen Sie Snacks mit.",
             "hu": "Vezessen a második látnivalócsoporthoz. Tervezzen ebédet a közelben, vagy vigyen magával harapnivalót.",
             "ro": "Conduceți spre al doilea grup de atracții. Planificați prânzul în apropiere sau aduceți gustări.",
-            "en": "Drive to the second cluster. Plan for lunch nearby or bring snacks."
+            "en": "Drive to the second cluster. Plan for lunch nearby or bring snacks.",
+            "sk": "Nastúpte do auta a odvezte sa k druhej skupine. Naplánujte obed v okolí alebo si vezmite občerstvenie."
           }
         },
         {
@@ -1262,7 +1368,8 @@
             "de": "Fahrt zum Prešov Kalvarienberg",
             "hu": "Utazás az Eperjesi kálváriához",
             "ro": "Călătorie spre Calvarul din Prešov",
-            "en": "Drive to Prešov Calvary"
+            "en": "Drive to Prešov Calvary",
+            "sk": "Autom na Prešovskú Kalváriu"
           },
           "coords": [
             21.2315,
@@ -1278,7 +1385,8 @@
             "de": "Der letzte Cluster des Tages. Parken Sie am Fuße des Hügels und genießen Sie den Aufstieg.",
             "hu": "A nap utolsó látnivalócsoportja. Parkoljon a hegy lábánál, és élvezze a mászást.",
             "ro": "Ultimul grup de atracții al zilei. Parcați la poalele dealului și bucurați-vă de urcare.",
-            "en": "The last cluster of the day. Park at the bottom of the hill and enjoy the climb."
+            "en": "The last cluster of the day. Park at the bottom of the hill and enjoy the climb.",
+            "sk": "Posledná skupina dňa. Zaparkujte pod kopcom a vychutnajte si výstup."
           }
         },
         {
@@ -1286,7 +1394,8 @@
             "de": "Aussichtspunkt am Kalvarienberg",
             "hu": "Kilátópont a Kálvárián",
             "ro": "Punct de belvedere la Calvar",
-            "en": "Viewpoint at the Calvary"
+            "en": "Viewpoint at the Calvary",
+            "sk": "Vyhliadka na Kalvárii"
           },
           "coords": [
             21.23,
@@ -1302,7 +1411,8 @@
             "de": "Der kurze Spaziergang nach oben wird mit der besten Aussicht auf die Stadt belohnt.",
             "hu": "A rövid séta felfelé a város legjobb kilátásával jutalmazza.",
             "ro": "Scurta plimbare până în vârf este răsplătită cu cea mai bună priveliște a orașului.",
-            "en": "The short walk up is rewarded with the best view of the city."
+            "en": "The short walk up is rewarded with the best view of the city.",
+            "sk": "Krátka prechádzka nahor odmení najlepším výhľadom na mesto."
           }
         }
       ],
@@ -1310,7 +1420,8 @@
         "de": "Ihr Autotag in Prešov folgt einer cleveren Cluster-Strategie. Sie beginnen mit dem Parken im Zentrum und erkunden den ersten Cluster zu Fuß: vom Neptun-Brunnen zur prächtigen St.-Nikolaus-Konkathedrale und weiter zum geschichtsträchtigen Rákóczi-Palast. So erleben Sie die historische Atmosphäre der Innenstadt ganz ohne Parkplatzsuche zwischendurch.\nZur Mittagszeit steigen Sie ins Auto und fahren zum zweiten Cluster: dem einzigartigen Salzbergwerk in Solivar. Dieser kurze Ausflug bietet einen faszinierenden Kontrast zum historischen Zentrum und einen tiefen Einblick in das industrielle Erbe der Region. Hier können Sie eine ausgiebige Tour machen und in die Welt unter Tage eintauchen.\nAm Nachmittag bringt Sie eine weitere kurze Fahrt zum dritten und letzten Cluster des Tages, dem Kalvarienberg. Sie parken am Fuße des Hügels und unternehmen einen erfrischenden Spaziergang hinauf zu den Kapellen und dem Gipfelkreuz. Der Aufstieg ist ein Erlebnis für sich.\nDer Tag gipfelt in der atemberaubenden Aussicht vom Kalvarienberg. Von hier oben überblicken Sie die gesamte Stadt und die umliegende Landschaft des Šariš-Hochlandes. Es ist der perfekte, ruhige Abschluss einer abwechslungsreichen Erkundungstour, die historische, industrielle und natürliche Highlights von Prešov geschickt kombiniert.",
         "hu": "Az autós nap Eperjesen egy okos „cluster” stratégiát követ. A központban való parkolással kezd, majd gyalogosan fedezi fel az első látnivalócsoportot: a Neptun-kúttól a csodálatos Szent Miklós-társszékesegyházig, majd tovább a történelmi Rákóczi-palotáig. Így a köztes parkolóhely-keresés nélkül élvezheti a belváros történelmi hangulatát.\nDélidőben autóba ül, és a második látnivalócsoporthoz, az egyedülálló sóbányához (Solivar) hajt. Ez a rövid kirándulás lenyűgöző kontrasztot kínál a történelmi központtal, és mély betekintést nyújt a régió ipari örökségébe. Itt egy alapos túrán vehet részt, és elmerülhet a föld alatti világban.\nDélután egy újabb rövid autóút visz a nap harmadik és egyben utolsó látnivalócsoportjához, a Kálváriához. A hegy lábánál parkol le, és egy frissítő sétát tesz felfelé a kápolnákhoz és a csúcskereszthez. Már maga a séta is egy élmény.\nA nap a Kálváriáról nyíló lélegzetelállító kilátásban csúcsosodik ki. Innen fentről áttekintheti az egész várost és a környező Sárosi-felföld táját. Ez a tökéletes, csendes befejezése egy változatos felfedezőútnak, amely ügyesen ötvözi Eperjes történelmi, ipari és természeti látnivalóit.",
         "ro": "Ziua dvs. cu mașina în Prešov urmează o strategie inteligentă de grupare a obiectivelor. Începeți prin a parca în centru și a explora primul grup pe jos: de la Fântâna Neptun la magnifica Concatedrală Sfântul Nicolae și mai departe la istoricul Palat Rákóczi. Astfel, experimentați atmosfera istorică a centrului orașului fără a căuta locuri de parcare între opriri.\nLa prânz, vă urcați în mașină și conduceți spre al doilea grup: salina unică din Solivar. Această scurtă excursie oferă un contrast fascinant cu centrul istoric și o perspectivă profundă asupra moștenirii industriale a regiunii. Aici puteți face un tur extins și vă puteți cufunda în lumea subterană.\nDupă-amiaza, o altă scurtă călătorie cu mașina vă duce la al treilea și ultimul grup al zilei, Calvarul. Parcați la poalele dealului și faceți o plimbare revigorantă până la capele și crucea din vârf. Urcarea este o experiență în sine.\nZiua culminează cu priveliștea uluitoare de la Calvar. De aici, de sus, puteți admira întregul oraș și peisajul înconjurător al platoului Šariš. Este finalul perfect și liniștit al unui tur diversificat care combină cu iscusință atracțiile istorice, industriale și naturale ale orașului Prešov.",
-        "en": "Your car day in Prešov follows a smart cluster strategy. You start by parking in the center and exploring the first cluster on foot: from Neptune Fountain to the magnificent St. Nicholas Co-Cathedral and on to the historic Rákóczi Palace. This way, you experience the historic atmosphere of the city center without any intermediate search for parking.\nAt lunchtime, you get in the car and drive to the second cluster: the unique salt mine in Solivar. This short trip offers a fascinating contrast to the historic center and a deep insight into the region's industrial heritage. Here you can take an extensive tour and immerse yourself in the world underground.\nIn the afternoon, another short drive takes you to the third and final cluster of the day, the Calvary. You park at the foot of the hill and take a refreshing walk up to the chapels and the summit cross. The climb is an experience in itself.\nThe day culminates in the breathtaking view from the Calvary. From up here, you can overlook the entire city and the surrounding landscape of the Šariš highlands. It is the perfect, quiet end to a varied exploration tour that skillfully combines Prešov's historical, industrial, and natural highlights."
+        "en": "Your car day in Prešov follows a smart cluster strategy. You start by parking in the center and exploring the first cluster on foot: from Neptune Fountain to the magnificent St. Nicholas Co-Cathedral and on to the historic Rákóczi Palace. This way, you experience the historic atmosphere of the city center without any intermediate search for parking.\nAt lunchtime, you get in the car and drive to the second cluster: the unique salt mine in Solivar. This short trip offers a fascinating contrast to the historic center and a deep insight into the region's industrial heritage. Here you can take an extensive tour and immerse yourself in the world underground.\nIn the afternoon, another short drive takes you to the third and final cluster of the day, the Calvary. You park at the foot of the hill and take a refreshing walk up to the chapels and the summit cross. The climb is an experience in itself.\nThe day culminates in the breathtaking view from the Calvary. From up here, you can overlook the entire city and the surrounding landscape of the Šariš highlands. It is the perfect, quiet end to a varied exploration tour that skillfully combines Prešov's historical, industrial, and natural highlights.",
+        "sk": "Váš deň autom v Prešove využíva šikovnú stratégiu skupín. Začínate parkovaním v centre a prvú skupinu preskúmate pešo: od Neptúnovej fontány cez impozantnú konkatedrálu sv. Mikuláša až po historický Rákócziho palác. Takto zažijete historickú atmosféru centra bez zbytočného hľadania parkovania.\nNa obed nasadnete do auta a odveziete sa k druhej skupine: jedinečnému soľnému dielu v Solivare. Táto krátka jazda ponúka zaujímavý kontrast k historickému centru a hlboký rozhľad do priemyselného dedičstva regiónu. Tu si môžete dať rozsiahlu prehliadku a ponoriť sa do podzemného sveta.\nPopoludní vás krátka prehliadka autom zavedie k tretej a poslednej skupine dňa, Kalvárii. Zaparkujete pri úpätí kopca a príjemnou prechádzkou vystúpite ku kaplnkám a krížu na vrchole. Samotný výstup je zážitkom.\nDeň vyvrcholí dychvyrážajúcim výhľadom z Kalvárie. Odtiaľto máte mesto a okolité šarišské pahorky ako na dlani. Je to perfektný, tichý záver pestrej objavnej trasy, ktorá spája historické, priemyselné a prírodné dominanty Prešova."
       },
       "gastro_picks": {
         "de": [
@@ -1506,6 +1617,12 @@
           "The cluster-walking strategy saves time and nerves looking for parking spaces.",
           "Check traffic conditions before driving between clusters.",
           "Combine your visit to Solivar with lunch to save time."
+        ],
+        "sk": [
+          "Použite navigačnú aplikáciu na nájdenie parkovania pri začiatkoch skupín pamiatok.",
+          "Stratégia chôdze v rámci skupín šetrí čas a nervy pri hľadaní parkovacieho miesta.",
+          "Skontrolujte dopravnú situáciu pred presunom medzi skupinami.",
+          "Spojte návštevu Solivaru s obedňajšou prestávkou, aby ste ušetrili čas."
         ]
       },
       "variants": {
@@ -1514,7 +1631,8 @@
             "de": "Regnerische Tage in Prešov lassen sich bequem mit dem Auto bewältigen. Parken Sie direkt im Zentrum für einen schnellen Zugang zum Neptunbrunnen und zur Kathedrale. Die Fahrt nach Solivar ist bei Regen besonders praktisch, da Sie trocken direkt vor den historischen Gebäuden ankommen. Der Kalvarienberg bietet auch bei grauem Himmel eine dramatische Atmosphäre, wobei das Auto Ihnen den nassen Aufstieg zu den Aussichtspunkten erspart.",
             "hu": "Az esős napok Eperjesen kényelmesen felfedezhetők autóval. Parkoljon közvetlenül a központban a Neptun-kút és a székesegyház gyors eléréséhez. A Sóvár (Solivar) felé vezető út esőben kifejezetten praktikus, hiszen szárazon érkezhet a történelmi épületek elé. A Kálvária-domb szürke égbolt alatt is drámai hangulatot áraszt, miközben az autó megkíméli önt a vizes kaptatótól a kilátópontokig.",
             "ro": "Zilele ploioase în Prešov pot fi parcurse confortabil cu mașina. Parcați chiar în centru pentru acces rapid la Fântâna lui Neptun și la Catedrală. Drumul spre Solivar este practic pe ploaie, permițându-vă să ajungeți uscat direct în fața clădirilor istorice. Dealul Calvariei oferă o atmosferă dramatică sub cerul gri, în timp ce mașina vă scutește de urcarea prin ploaie spre punctele de belvedere.",
-            "en": "Rainy days in Prešov are easily managed by car. Park directly in the center for quick access to the Neptune Fountain and the Cathedral. Driving to Solivar is especially practical in wet weather, arriving dry right in front of the historic buildings. The Calvary hill maintains a dramatic atmosphere even under grey skies, while the car spares you the wet climb to the viewpoints."
+            "en": "Rainy days in Prešov are easily managed by car. Park directly in the center for quick access to the Neptune Fountain and the Cathedral. Driving to Solivar is especially practical in wet weather, arriving dry right in front of the historic buildings. The Calvary hill maintains a dramatic atmosphere even under grey skies, while the car spares you the wet climb to the viewpoints.",
+            "sk": "Dáždivé dni v Prešove sa ľahko zvládajú autom. Zaparkujte priamo v centre pre rýchly prístup k Neptúnovej fontáne a katedrále. Cesta do Solivaru je pri mokrom počasí obzvlášť praktická – dorazíte suchí priamo pred historické budovy. Kalvária si udržiava dramatickú atmosféru aj pod sivou oblohou, pričom auto vás ochráni pred mokrým výstupom na vyhliadky."
           },
           "stops": [
             {
@@ -1523,7 +1641,8 @@
                 "de": "Parken Sie nah an der Fußgängerzone für minimale Regenwege.",
                 "hu": "Parkoljon a sétálóövezet közelében a minimális gyaloglásért az esőben.",
                 "ro": "Parcați aproape de zona pietonală pentru a merge cât mai puțin prin ploaie.",
-                "en": "Park near the pedestrian zone to minimize walking in the rain."
+                "en": "Park near the pedestrian zone to minimize walking in the rain.",
+                "sk": "Zaparkujte pri pešej zóne, aby ste minimalizovali chôdzu v daždi."
               }
             },
             {
@@ -1532,7 +1651,8 @@
                 "de": "Kurzer Sprint vom Parkplatz zum trockenen Kirchenportal.",
                 "hu": "Rövid futás a parkolótól a száraz templomkapuig.",
                 "ro": "Un scurt sprint de la parcare până la portalul uscat al bisericii.",
-                "en": "A short sprint from the parking spot to the dry church portal."
+                "en": "A short sprint from the parking spot to the dry church portal.",
+                "sk": "Krátky šprint z parkoviska k suchému portálu kostola."
               }
             },
             {
@@ -1541,7 +1661,8 @@
                 "de": "Ein ausgezeichneter Ort, um einen heftigen Schauer auszusitzen.",
                 "hu": "Kiváló helyszín egy nagyobb zápor átvészelésére.",
                 "ro": "Un loc excelent pentru a aștepta trecerea unei averse puternice.",
-                "en": "An excellent spot to wait out a heavy downpour."
+                "en": "An excellent spot to wait out a heavy downpour.",
+                "sk": "Vynikajúce miesto na prečkanie silného lejakha."
               }
             },
             {
@@ -1550,7 +1671,8 @@
                 "de": "Nutzen Sie die Parkmöglichkeiten direkt am Technikmuseum.",
                 "hu": "Használja a parkolóhelyeket közvetlenül a műszaki múzeumnál.",
                 "ro": "Folosiți locurile de parcare chiar lângă muzeul tehnic.",
-                "en": "Use the parking spaces right by the technical museum."
+                "en": "Use the parking spaces right by the technical museum.",
+                "sk": "Využite parkovacie miesta hneď pri technickom múzeu."
               }
             },
             {
@@ -1559,7 +1681,8 @@
                 "de": "Die Straße nach oben ist schmal; bei Nässe vorsichtig fahren.",
                 "hu": "A felfelé vezető út keskeny; esőben óvatosan vezessen.",
                 "ro": "Drumul spre vârf este îngust; conduceți cu atenție pe ploaie.",
-                "en": "The road up is narrow; drive carefully in wet conditions."
+                "en": "The road up is narrow; drive carefully in wet conditions.",
+                "sk": "Cesta nahor je úzka; v mokrom počasí jazdite opatrne."
               }
             },
             {
@@ -1568,7 +1691,8 @@
                 "de": "Genießen Sie den Blick bei Regen direkt aus dem Auto.",
                 "hu": "Élvezze a kilátást esőben akár közvetlenül az autóból.",
                 "ro": "Bucurați-vă de priveliște pe ploaie chiar din mașină.",
-                "en": "Enjoy the rainy view directly from your car if needed."
+                "en": "Enjoy the rainy view directly from your car if needed.",
+                "sk": "Ak treba, užite si dažďový výhľad priamo z auta."
               }
             }
           ],
@@ -1596,6 +1720,12 @@
               "Watch out for pedestrians who might cross less carefully during rain.",
               "Visibility can be limited on narrow access roads during heavy rainfall.",
               "Keep wet umbrellas in the trunk to prevent the windows from fogging up."
+            ],
+            "sk": [
+              "Viacposchodové garáže v centre poskytujú najlepší úkryt pri nastupovaní a vystupovaní.",
+              "Dávajte pozor na chodcov, ktorí môžu v daždi prechádzať menej opatrne.",
+              "Viditeľnosť na úzkych prístupových cestách môže byť pri silnom daždi obmedzená.",
+              "Majte mokré dáždniky v kufri, aby sa vám nezaparávali okná."
             ]
           }
         },
@@ -1604,7 +1734,8 @@
             "de": "Die Wintertour durch Prešov mit dem Auto ist warm und sicher. Der Neptunbrunnen glänzt oft im Frost, während Sie bequem im geheizten Wagen sitzen. Die St. Nikolaus-Kathedrale und der Rákóczi-Palast sind nur kurze Wege vom Parkplatz entfernt. Die Fahrt nach Solivar führt durch die verschneite Vorstadt. Zum Abschluss bietet die Kalvarienberg-Aussicht bei Dämmerung einen spektakulären, eiskalten Blick auf die funkelnde Stadt, bevor Sie sich im Auto wieder aufwärmen.",
             "hu": "A téli autós túra Eperjesen meleg és biztonságos. A Neptun-kút gyakran csillog a fagyban, miközben ön kényelmesen ül a fűtött kocsiban. A Szent Miklós-székesegyház és a Rákóczi-palota csak pár lépésre van a parkolótól. A Sóvár (Solivar) felé vezető út a havas kertvároson át visz. Végül a Kálvária-kilátó szürkületkor látványos, jéghideg panorámát nyújt a szikrázó városra, mielőtt újra felmelegedne az autóban.",
             "ro": "Turul de iarnă în Prešov cu mașina este cald și sigur. Fântâna lui Neptun strălucește adesea în ger, în timp ce dvs. stați confortabil în mașina încălzită. Catedrala Sfântul Nicolae și Palatul Rákóczi sunt la doar câțiva pași de parcare. Drumul spre Solivar trece prin suburbia înzăpezită. La final, vederea de la Calvarie oferă o panoramă spectaculoasă asupra orașului sclipitor la amurg.",
-            "en": "A winter tour of Prešov by car is both warm and safe. The Neptune Fountain often glistens in the frost while you remain cozy in your heated vehicle. St. Nicholas Co-Cathedral and Rákóczi Palace are just a short walk from parking. The drive to Solivar takes you through the snowy outskirts. Finally, the Calvary viewpoint at dusk offers a spectacular, icy panorama of the sparkling city below."
+            "en": "A winter tour of Prešov by car is both warm and safe. The Neptune Fountain often glistens in the frost while you remain cozy in your heated vehicle. St. Nicholas Co-Cathedral and Rákóczi Palace are just a short walk from parking. The drive to Solivar takes you through the snowy outskirts. Finally, the Calvary viewpoint at dusk offers a spectacular, icy panorama of the sparkling city below.",
+            "sk": "Zimná prehliadka Prešova autom je teplá a bezpečná. Neptúnova fontána často v mraze trbliece, zatiaľ čo vy zostávate v pohodlí vyhriateho vozidla. Konkatedrála sv. Mikuláša a Rákócziho palác sú len krátko pešo od parkovania. Cesta do Solivaru vedie cez zasnežené okraje mesta. Na záver ponúka vyhliadka na Kalvárii pri súmraku spektakulárnu, mrazivú panorámu trblietavého mesta pod vami."
           },
           "stops": [
             {
@@ -1613,7 +1744,8 @@
                 "de": "Nutzen Sie beheizte Parkgaragen, um Eis auf den Scheiben zu vermeiden.",
                 "hu": "Használjon fűtött parkolóházat, hogy elkerülje az ablakok lefagyását.",
                 "ro": "Folosiți parcări subterane pentru a evita înghețarea geamurilor.",
-                "en": "Use heated parking garages to avoid ice buildup on your windows."
+                "en": "Use heated parking garages to avoid ice buildup on your windows.",
+                "sk": "Využívajte vyhrievané garáže, aby sa na sklách netvoril ľad."
               }
             },
             {
@@ -1622,7 +1754,8 @@
                 "de": "Ein kurzer Weg durch die kalte Winterluft zur Kathedrale.",
                 "hu": "Rövid séta a hideg téli levegőn a székesegyházig.",
                 "ro": "O scurtă plimbare prin aerul rece de iarnă până la catedrală.",
-                "en": "A brief walk through the crisp winter air to the cathedral."
+                "en": "A brief walk through the crisp winter air to the cathedral.",
+                "sk": "Krátka prechádzka v čerstvom zimnom vzduchu ku katedrále."
               }
             },
             {
@@ -1631,7 +1764,8 @@
                 "de": "Genießen Sie die historische Wärme der dicken Mauern.",
                 "hu": "Élvezze a vastag falak nyújtotta történelmi melegséget.",
                 "ro": "Bucurați-vă de căldura istorică oferită de zidurile groase.",
-                "en": "Enjoy the historic warmth provided by the thick palace walls."
+                "en": "Enjoy the historic warmth provided by the thick palace walls.",
+                "sk": "Vychutnajte si historické teplo, ktoré poskytujú hrubé múry paláca."
               }
             },
             {
@@ -1640,7 +1774,8 @@
                 "de": "Die Straßen nach Solivar werden meist gut geräumt.",
                 "hu": "A Sóvárra vezető utakat általában jól takarítják télen is.",
                 "ro": "Drumurile spre Solivar sunt de obicei bine deszăpezite.",
-                "en": "The roads to Solivar are usually well-cleared even in winter."
+                "en": "The roads to Solivar are usually well-cleared even in winter.",
+                "sk": "Cesty k Solivaru sú zvyčajne v zime dobre upravené."
               }
             },
             {
@@ -1649,7 +1784,8 @@
                 "de": "Vorsicht bei Glätte auf der steilen Auffahrt zum Hügel.",
                 "hu": "Vigyázzon a jegesedéssel a dombra vezető meredek szakaszon.",
                 "ro": "Atenție la polei pe urcarea abruptă spre dealul Calvariei.",
-                "en": "Watch out for icy patches on the steep drive up the hill."
+                "en": "Watch out for icy patches on the steep drive up the hill.",
+                "sk": "Dávajte pozor na ľadové miesta na strmom stúpaní k hore."
               }
             },
             {
@@ -1658,7 +1794,8 @@
                 "de": "Der Blick auf die beleuchtete Stadt ist im Winter besonders klar.",
                 "hu": "A kivilágított város látképe télen különösen tiszta és éles.",
                 "ro": "Vederea asupra orașului iluminat este foarte clară iarna.",
-                "en": "The view of the illuminated city is exceptionally clear in winter."
+                "en": "The view of the illuminated city is exceptionally clear in winter.",
+                "sk": "Výhľad na rozsvietené mesto je v zime mimoriadne jasný."
               }
             }
           ],
@@ -1686,6 +1823,12 @@
               "Finding street parking in the center can be harder due to snow piles.",
               "Be mindful of the early dusk starting around 16:00 for your drives.",
               "The drive up to the Calvary may be closed or hazardous during heavy snowfall."
+            ],
+            "sk": [
+              "Uistite sa, že auto má zimné pneumatiky a dostatok nemrznúcej kvapaliny.",
+              "Nájsť ulicové parkovanie v centre môže byť ťažšie kvôli kopám snehu.",
+              "Majte na pamäti skorý súmrak približne od 16:00 pri plánovaní jázd.",
+              "Prístupová cesta na Kalváriu môže byť pri silnom snežení uzavretá alebo nebezpečná."
             ]
           }
         }
@@ -1704,7 +1847,8 @@
             "de": "Ankunft Zentrum & Neptun-Brunnen",
             "hu": "Érkezés a központba és Neptun-kút",
             "ro": "Sosire în Centru & Fântâna Neptun",
-            "en": "Arrival Downtown & Neptune Fountain"
+            "en": "Arrival Downtown & Neptune Fountain",
+            "sk": "Príchod do centra & Neptúnova fontána"
           },
           "coords": [
             21.2418,
@@ -1719,7 +1863,8 @@
             "de": "Die meisten Buslinien halten hier. Ein idealer Startpunkt.",
             "hu": "A legtöbb buszjárat megáll itt. Ideális kiindulópont.",
             "ro": "Majoritatea liniilor de autobuz opresc aici. Un punct de plecare ideal.",
-            "en": "Most bus lines stop here. An ideal starting point."
+            "en": "Most bus lines stop here. An ideal starting point.",
+            "sk": "Väčšina autobusových liniek tu zastavuje. Ideálny východiskový bod."
           }
         },
         {
@@ -1727,7 +1872,8 @@
             "de": "St.-Nikolaus-Konkathedrale",
             "hu": "Szent Miklós-társszékesegyház",
             "ro": "Concatedrala Sfântul Nicolae",
-            "en": "Co-Cathedral of St. Nicholas"
+            "en": "Co-Cathedral of St. Nicholas",
+            "sk": "Konkatedrála sv. Mikuláša"
           },
           "coords": [
             21.2388,
@@ -1743,7 +1889,8 @@
             "de": "Vom zentralen Knotenpunkt aus leicht zu Fuß erreichbar.",
             "hu": "A központi csomópontból gyalog könnyen elérhető.",
             "ro": "Ușor accesibil pe jos de la nodul central.",
-            "en": "Easily accessible on foot from the central hub."
+            "en": "Easily accessible on foot from the central hub.",
+            "sk": "Z centra ľahko dostupná pešo."
           }
         },
         {
@@ -1751,7 +1898,8 @@
             "de": "Rákóczi-Palast",
             "hu": "Rákóczi-palota",
             "ro": "Palatul Rákóczi",
-            "en": "Rákóczi Palace"
+            "en": "Rákóczi Palace",
+            "sk": "Rákócziho palác"
           },
           "coords": [
             21.2401,
@@ -1767,7 +1915,8 @@
             "de": "Schlendern Sie die Hauptstraße entlang, um hierher zu gelangen.",
             "hu": "Sétáljon végig a Fő utcán, hogy ideérjen.",
             "ro": "Plimbați-vă pe strada principală pentru a ajunge aici.",
-            "en": "Stroll down the main street to get here."
+            "en": "Stroll down the main street to get here.",
+            "sk": "Prejdite sa po hlavnej ulici a dorazíte sem."
           }
         },
         {
@@ -1775,7 +1924,8 @@
             "de": "Fahrt nach Solivar",
             "hu": "Utazás Solivarba",
             "ro": "Călătorie spre Solivar",
-            "en": "Trip to Solivar"
+            "en": "Trip to Solivar",
+            "sk": "Výleto do Solivaru"
           },
           "coords": [
             21.275,
@@ -1791,7 +1941,8 @@
             "de": "Nehmen Sie einen Bus vom Stadtzentrum. Die Fahrt gibt Ihnen Zeit, die Landschaft zu beobachten.",
             "hu": "Vegyen buszt a városközpontból. Az utazás időt ad a táj megfigyelésére.",
             "ro": "Luați un autobuz din centrul orașului. Călătoria vă oferă timp să observați peisajul.",
-            "en": "Take a bus from the city center. The ride gives you time to watch the scenery."
+            "en": "Take a bus from the city center. The ride gives you time to watch the scenery.",
+            "sk": "Vezmite autobus z centra. Jazda vám dá čas pozorovať okolie."
           }
         },
         {
@@ -1799,7 +1950,8 @@
             "de": "Fahrt zum Kalvarienberg",
             "hu": "Utazás a Kálváriához",
             "ro": "Călătorie spre Calvar",
-            "en": "Trip to the Calvary"
+            "en": "Trip to the Calvary",
+            "sk": "Výleto na Kalváriu"
           },
           "coords": [
             21.2315,
@@ -1815,7 +1967,8 @@
             "de": "Möglicherweise müssen Sie umsteigen, aber die Aussicht ist es wert.",
             "hu": "Lehet, hogy át kell szállnia, de a kilátás megéri.",
             "ro": "S-ar putea să fie nevoie să schimbați autobuzul, dar priveliștea merită.",
-            "en": "You may need to change buses, but the view is worth it."
+            "en": "You may need to change buses, but the view is worth it.",
+            "sk": "Možno bude treba prestúpiť, ale výhľad stojí za to."
           }
         },
         {
@@ -1823,7 +1976,8 @@
             "de": "Spaziergang zur Spitze des Kalvarienbergs",
             "hu": "Séta a Kálvária csúcsára",
             "ro": "Plimbare până în vârful Calvarului",
-            "en": "Walk to the top of the Calvary"
+            "en": "Walk to the top of the Calvary",
+            "sk": "Vystúpajte na vrchol Kalvárie pešo"
           },
           "coords": [
             21.23,
@@ -1839,7 +1993,8 @@
             "de": "Nach der Busfahrt ist der kurze Aufstieg eine willkommene Abwechslung.",
             "hu": "A buszozás után a rövid séta felüdülést jelent.",
             "ro": "După călătoria cu autobuzul, scurta urcare este o schimbare binevenită.",
-            "en": "After the bus ride, the short climb is a welcome change."
+            "en": "After the bus ride, the short climb is a welcome change.",
+            "sk": "Po autobusovej jazde je krátky výstup vítanou zmenou."
           }
         }
       ],
@@ -1847,7 +2002,8 @@
         "de": "Mit den öffentlichen Verkehrsmitteln erkunden Sie Prešov effizient und umweltfreundlich. Ihr Tag beginnt an einer zentralen Haltestelle nahe dem Neptun-Brunnen. Von hier aus erkunden Sie den ersten Cluster – die Altstadt – bequem zu Fuß, besuchen die St.-Nikolaus-Konkathedrale und den Rákóczi-Palast.\nAm späten Vormittag nehmen Sie den Bus für Ihre erste große Fahrt nach Solivar. Diese Etappe ermöglicht es Ihnen, sich zurückzulehnen und die Stadtviertel an sich vorbeiziehen zu sehen, bevor Sie in die faszinierende Welt des historischen Salzbergwerks eintauchen. Es ist ein perfekter Ort für die Mittagszeit.\nNachdem Sie Solivar erkundet haben, bringt Sie der nächste Bus zum Fuße des Kalvarienbergs. Diese Fahrt führt Sie durch einen anderen Teil von Prešov und bereitet Sie auf den spirituellen und landschaftlichen Höhepunkt des Tages vor. Der Spaziergang vom Bus zum Gipfel ist erfrischend.\nDer Tag endet mit der friedlichen Atmosphäre und der herrlichen Aussicht vom Kalvarienberg. Nachdem Sie die Panoramaaussicht genossen haben, können Sie bequem mit dem Bus ins Stadtzentrum zurückkehren, um den Abend ausklingen zu lassen. Diese Tour verbindet städtische Erkundung mit Ausflügen zu den wichtigsten Sehenswürdigkeiten außerhalb des Zentrums auf eine entspannte Weise.",
         "hu": "A tömegközlekedéssel hatékonyan és környezetbarát módon fedezheti fel Eperjest. A nap egy központi megállóban kezdődik a Neptun-kút közelében. Innen kényelmesen, gyalogosan fedezi fel az első látnivalócsoportot – az Óvárost –, meglátogatja a Szent Miklós-társszékesegyházat és a Rákóczi-palotát.\nKéső délelőtt busszal indul az első nagyobb útjára Solivarba. Ez a szakasz lehetővé teszi, hogy hátradőljön és figyelje a városrészeket, mielőtt elmerülne a történelmi sóbánya lenyűgöző világában. Tökéletes hely a déli időtöltéshez.\nMiután felfedezte Solivart, a következő busz a Kálvária lábához viszi. Ez az út Eperjes egy másik részén vezet keresztül, és felkészíti Önt a nap spirituális és tájképi csúcspontjára. A buszmegállótól a csúcsig tartó séta frissítő.\nA nap a Kálvária békés hangulatával és csodálatos kilátásával zárul. Miután élvezte a panorámát, kényelmesen visszatérhet busszal a városközpontba, hogy lezárja az estét. Ez a túra laza módon ötvözi a városi felfedezést a központon kívüli legfontosabb látnivalókhoz tett kirándulásokkal.",
         "ro": "Folosind transportul public, explorați Prešov eficient și ecologic. Ziua dvs. începe la o stație centrală, lângă Fântâna Neptun. De aici, explorați primul grup de obiective – centrul vechi – confortabil pe jos, vizitând Concatedrala Sfântul Nicolae și Palatul Rákóczi.\nSpre sfârșitul dimineții, luați autobuzul pentru prima dvs. călătorie importantă spre Solivar. Această etapă vă permite să vă relaxați și să priviți cartierele orașului trecând pe lângă dvs., înainte de a vă cufunda în lumea fascinantă a salinei istorice. Este un loc perfect pentru pauza de prânz.\nDupă ce ați explorat Solivar, următorul autobuz vă duce la poalele Calvarului. Această călătorie vă poartă printr-o altă parte a orașului Prešov și vă pregătește pentru punctul culminant spiritual și peisagistic al zilei. Plimbarea de la stația de autobuz până în vârf este revigorantă.\nZiua se încheie cu atmosfera pașnică și priveliștea magnifică de la Calvar. După ce v-ați bucurat de panorama, puteți reveni confortabil cu autobuzul în centrul orașului pentru a încheia seara. Acest tur combină explorarea urbană cu excursii la cele mai importante atracții din afara centrului într-un mod relaxat.",
-        "en": "Using public transport, you can explore Prešov efficiently and in an environmentally friendly way. Your day starts at a central stop near Neptune Fountain. From here, you can comfortably explore the first cluster – the Old Town – on foot, visiting the St. Nicholas Co-Cathedral and the Rákóczi Palace.\nIn the late morning, you take the bus for your first major trip to Solivar. This leg allows you to sit back and watch the city districts pass by before immersing yourself in the fascinating world of the historic salt mine. It is a perfect place for lunchtime.\nAfter exploring Solivar, the next bus takes you to the foot of the Calvary. This journey takes you through another part of Prešov and prepares you for the spiritual and scenic highlight of the day. The walk from the bus stop to the summit is refreshing.\nThe day ends with the peaceful atmosphere and magnificent view from the Calvary. After enjoying the panorama, you can comfortably return to the city center by bus to round off the evening. This tour combines urban exploration with trips to the most important sights outside the center in a relaxed way."
+        "en": "Using public transport, you can explore Prešov efficiently and in an environmentally friendly way. Your day starts at a central stop near Neptune Fountain. From here, you can comfortably explore the first cluster – the Old Town – on foot, visiting the St. Nicholas Co-Cathedral and the Rákóczi Palace.\nIn the late morning, you take the bus for your first major trip to Solivar. This leg allows you to sit back and watch the city districts pass by before immersing yourself in the fascinating world of the historic salt mine. It is a perfect place for lunchtime.\nAfter exploring Solivar, the next bus takes you to the foot of the Calvary. This journey takes you through another part of Prešov and prepares you for the spiritual and scenic highlight of the day. The walk from the bus stop to the summit is refreshing.\nThe day ends with the peaceful atmosphere and magnificent view from the Calvary. After enjoying the panorama, you can comfortably return to the city center by bus to round off the evening. This tour combines urban exploration with trips to the most important sights outside the center in a relaxed way.",
+        "sk": "Použitím verejnej dopravy môžete Prešov efektívne a ekologicky preskúmať. Deň začínate na centrálnom zastávke pri Neptúnovej fontáne. Odtiaľ pohodlne preskúmate prvú skupinu pamiatok pešo – Staré Mesto, konkatedrálu sv. Mikuláša a Rákócziho palác.\nV neskorom dopoludní nastúpite na autobus na prvú väčšiu trasu do Solivaru. Tento úsek vám umožní pohodlne sledovať mestské časti, kým sa neponoríte do fascinujúceho sveta historickej soľnej prevádzky. Je to ideálne miesto na obed.\nPo preskúmaní Solivaru vás ďalší autobus zavezie k úpätiu Kalvárie. Táto cesta vás prevedie ďalšou časťou Prešova a pripraví na duchovný a scenický vrchol dňa. Prechádzka zo zastávky na vrchol je osviežujúca.\nDeň končí pokojnou atmosférou a nádherným výhľadom z Kalvárie. Po vychutnaní panorámy sa pohodlne vrátite autobusom do centra a zakončíte tak večer. Táto trasa kombinuje mestské objavovanie s výletmi k najdôležitejším pamiatkam mimo centra v uvoľnenom tempe."
       },
       "gastro_picks": {
         "de": [
@@ -2043,6 +2199,12 @@
           "Use a public transport app to check routes and timetables in real time.",
           "Plan some buffer time for possible delays.",
           "Pay attention to the last bus connection back to the center, especially from the Calvary."
+        ],
+        "sk": [
+          "Kúpte si celodenný lístok na MHD a ušetrite.",
+          "Použite aplikáciu verejnej dopravy na kontrolu trás a odchodov v reálnom čase.",
+          "Naplánujte si rezervu na možné meškania.",
+          "Dávajte pozor na posledné spojenie späť do centra, najmä zo Kalvárie."
         ]
       },
       "variants": {
@@ -2051,7 +2213,8 @@
             "de": "Die Nutzung öffentlicher Verkehrsmittel in Prešov ist an Regentagen ideal. Kurze Wege von den Haltestellen bringen Sie zum Neptunbrunnen und zur Kathedrale. Die Busfahrt nach Solivar ist eine trockene und entspannte Art, das Industrieerbe zu erreichen. Der Rákóczi-Palast bietet eine hervorragende Pause zwischen den Fahrten. Beenden Sie Ihren Tag am Kalvarienberg, wo der Blick über die regnerische Stadt eine ganz eigene, ruhige Schönheit besitzt.",
             "hu": "A tömegközlekedés használata Eperjesen ideális az esős napokon. A megállóktól csak pár lépés a Neptun-kút és a székesegyház. A buszozás Sóvárra (Solivar) kényelmes és száraz módja az ipari örökség elérésének. A Rákóczi-palota kiváló pihenőhely két járat között. Zárja a napot a Kálvária-dombon, ahol az esős város látképe sajátos, nyugodt szépséget áraszt.",
             "ro": "Utilizarea transportului public în Prešov este ideală în zilele ploioase. Stațiile sunt aproape de Fântâna lui Neptun și de Catedrală. Călătoria cu autobuzul spre Solivar este o modalitate relaxată de a ajunge la situl industrial. Palatul Rákóczi oferă o pauză excelentă între călătorii. Încheiați ziua la Calvarie, unde vederea asupra orașului sub ploaie are o frumusețe aparte.",
-            "en": "Using public transit in Prešov is ideal for rainy days. Short walks from the bus stops lead you to the Neptune Fountain and the Cathedral. The bus ride to Solivar is a dry and relaxed way to reach the industrial heritage site. Rákóczi Palace serves as an excellent indoor break between transits. Conclude your day at Calvary hill, where the view of the rainy city holds a unique, quiet beauty."
+            "en": "Using public transit in Prešov is ideal for rainy days. Short walks from the bus stops lead you to the Neptune Fountain and the Cathedral. The bus ride to Solivar is a dry and relaxed way to reach the industrial heritage site. Rákóczi Palace serves as an excellent indoor break between transits. Conclude your day at Calvary hill, where the view of the rainy city holds a unique, quiet beauty.",
+            "sk": "Verejná doprava v Prešove je ideálna na daždivé dni. Krátke prechádzky zo zastávok vás dovedú k Neptúnovej fontáne a katedrále. Autobus do Solivaru je suchý a pohodlný spôsob, ako sa dostať k priemyselnému areálu. Rákócziho palác je výborným vnútorným útočiskom medzi presunmi. Deň zakončite na Kalvárii, kde má daždivé mesto svoje tiché a jedinečné kúzlo."
           },
           "stops": [
             {
@@ -2060,7 +2223,8 @@
                 "de": "Warten Sie in den überdachten Wartehäuschen auf den nächsten Bus.",
                 "hu": "Várjon a fedett buszvárókban a következő járatra.",
                 "ro": "Așteptați în stațiile acoperite pentru următorul autobuz.",
-                "en": "Wait in the covered bus shelters for your next connection."
+                "en": "Wait in the covered bus shelters for your next connection.",
+                "sk": "Počkáte v zastrešených prístreškoch na ďalšie spojenie."
               }
             },
             {
@@ -2069,7 +2233,8 @@
                 "de": "Die Haltestelle Na Hlavnej ist nur zwei Minuten entfernt.",
                 "hu": "A Na Hlavnej megálló mindössze két percre található.",
                 "ro": "Stația Na Hlavnej se află la doar două minute distanță.",
-                "en": "The Na Hlavnej stop is just a two-minute walk away."
+                "en": "The Na Hlavnej stop is just a two-minute walk away.",
+                "sk": "Zastávka Na Hlavnej je len dve minúty pešo."
               }
             },
             {
@@ -2078,7 +2243,8 @@
                 "de": "Ein guter Ort, um die Fahrpläne im Trockenen zu prüfen.",
                 "hu": "Jó helyszín a menetrendek ellenőrzésére száraz környezetben.",
                 "ro": "Un loc bun pentru a verifica orarul în timp ce stați la uscat.",
-                "en": "A good place to check transit schedules while staying dry."
+                "en": "A good place to check transit schedules while staying dry.",
+                "sk": "Dobré miesto na kontrolu cestovných poriadkov a zároveň zostať v suchu."
               }
             },
             {
@@ -2087,7 +2253,8 @@
                 "de": "Nehmen Sie die Linie 1 oder 4 für eine direkte Verbindung.",
                 "hu": "Használja az 1-es vagy 4-es vonalat a közvetlen eljutáshoz.",
                 "ro": "Luați linia 1 sau 4 pentru o legătură directă.",
-                "en": "Take line 1 or 4 for a direct connection to the salt works."
+                "en": "Take line 1 or 4 for a direct connection to the salt works.",
+                "sk": "Vezmite linku 1 alebo 4 pre priame spojenie k soľnému dielu."
               }
             },
             {
@@ -2096,7 +2263,8 @@
                 "de": "Die Busse bringen Sie nah an den Fuß des Hügels.",
                 "hu": "A buszok egészen a domb lábához repítik önt.",
                 "ro": "Autobuzele vă duc până aproape de poalele dealului.",
-                "en": "Buses will drop you off close to the base of the hill."
+                "en": "Buses will drop you off close to the base of the hill.",
+                "sk": "Autobusy vás vysadia blízko pri úpätí kopca."
               }
             },
             {
@@ -2105,7 +2273,8 @@
                 "de": "Der Fußweg von der Haltestelle kann bei Regen etwas matschig sein.",
                 "hu": "A megállótól vezető gyalogút esőben kissé sáros lehet.",
                 "ro": "Drumul de la stație poate fi puțin noroios când plouă.",
-                "en": "The path from the stop can be a bit muddy in the rain."
+                "en": "The path from the stop can be a bit muddy in the rain.",
+                "sk": "Cesta zo zastávky môže byť v daždi trochu blátivá."
               }
             }
           ],
@@ -2133,6 +2302,12 @@
               "Buses run frequently in the center, minimizing wait times in the rain.",
               "Use the Prešov transit company app for real-time information.",
               "Wear clothing that dries quickly while you are on the bus."
+            ],
+            "sk": [
+              "Kúpte si lístky vopred cez SMS alebo v predajných automatoch na staniciach.",
+              "V centre autobusy premávajú často, takže čakanie v daždi je minimálne.",
+              "Použite aplikáciu Dopravného podniku Prešov pre informácie v reálnom čase.",
+              "Noste rýchloschnúce oblečenie počas jazdy autobusom."
             ]
           }
         },
@@ -2141,7 +2316,8 @@
             "de": "Öffentliche Verkehrsmittel bieten im winterlichen Prešov eine warme Zuflucht zwischen den Sehenswürdigkeiten. Der Neptunbrunnen wirkt im Frost bezaubernd, bevor Sie in den beheizten Bus steigen. Die St. Nikolaus-Kathedrale und der Rákóczi-Palast sind vom Zentrum aus leicht erreichbar. Die Fahrt nach Solivar durch die verschneite Landschaft ist besonders malerisch. Zum Abschluss bietet der Kalvarienberg einen klaren Winterblick auf die Stadtlichter, gut erreichbar mit dem Bus.",
             "hu": "A tömegközlekedés meleg menedéket nyújt a látnivalók között a téli Eperjesen. A Neptun-kút varázslatos a fagyban, mielőtt felszállna a fűtött buszra. A Szent Miklós-székesegyház és a Rákóczi-palota könnyen elérhető a központból. A Sóvárra (Solivar) vezető út a havas tájon át különösen festői. Végül a Kálvária-domb tiszta téli kilátást nyújt a városi fényekre, kényelmesen megközelítve busszal.",
             "ro": "Transportul public oferă un refugiu cald între obiectivele turistice din Prešovul de iarnă. Fântâna lui Neptun pare fermecătoare în ger înainte de a urca în autobuzul încălzit. Catedrala Sfântul Nicolae și Palatul Rákóczi sunt ușor accesibile din centru. Drumul spre Solivar prin peisajul înzăpezit este pitoresc. La final, dealul Calvariei oferă o vedere clară de iarnă asupra orașului, fiind ușor accesibil cu autobuzul.",
-            "en": "Public transit provides a warm refuge between the sights in wintry Prešov. The Neptune Fountain looks enchanting in the frost before you hop onto a heated bus. St. Nicholas Co-Cathedral and Rákóczi Palace are easily accessible from the center. The trip to Solivar through the snowy landscape is particularly picturesque. Finally, Calvary hill offers a crisp winter view of the city lights, conveniently reached by bus."
+            "en": "Public transit provides a warm refuge between the sights in wintry Prešov. The Neptune Fountain looks enchanting in the frost before you hop onto a heated bus. St. Nicholas Co-Cathedral and Rákóczi Palace are easily accessible from the center. The trip to Solivar through the snowy landscape is particularly picturesque. Finally, Calvary hill offers a crisp winter view of the city lights, conveniently reached by bus.",
+            "sk": "Verejná doprava poskytuje teplý prístrešok medzi pamiatkami v zimnom Prešove. Neptúnova fontána v mraze vyzerá očarujúco, než nastúpite do vyhrievaného autobusu. Konkatedrála sv. Mikuláša a Rákócziho palác sú ľahko dostupné z centra. Jazda do Solivaru cez zasneženú krajinu je obzvlášť malebná. Nakoniec Kalvária ponúka čistý zimný výhľad na mestské svetlá, pohodlne dosiahnuteľný autobusom."
           },
           "stops": [
             {
@@ -2150,7 +2326,8 @@
                 "de": "Die Busse sind im Winter meist gut beheizt.",
                 "hu": "A buszok télen általában jól fűtöttek és kényelmesek.",
                 "ro": "Autobuzele sunt de obicei bine încălzite în timpul iernii.",
-                "en": "The buses are usually well-heated and comfortable in winter."
+                "en": "The buses are usually well-heated and comfortable in winter.",
+                "sk": "Autobusy sú v zime zvyčajne dobre vykurované a pohodlné."
               }
             },
             {
@@ -2159,7 +2336,8 @@
                 "de": "Kurzer Fußweg; halten Sie sich auf den geräumten Wegen.",
                 "hu": "Rövid séta; maradjon a letakarított járdákon a székesegyház felé.",
                 "ro": "Plimbare scurtă; rămâneți pe drumurile deszăpezite.",
-                "en": "Short walk; stay on the cleared paths towards the cathedral."
+                "en": "Short walk; stay on the cleared paths towards the cathedral.",
+                "sk": "Krátka prechádzka; zostaňte na upravených chodníkoch smerom ku katedrále."
               }
             },
             {
@@ -2168,7 +2346,8 @@
                 "de": "Ein idealer Ort, um sich zwischen zwei Busfahrten aufzuwärmen.",
                 "hu": "Ideális helyszín a felmelegedésre két buszjárat között.",
                 "ro": "Un loc ideal pentru a vă încălzi între două călătorii cu autobuzul.",
-                "en": "An ideal spot to warm up between two bus connections."
+                "en": "An ideal spot to warm up between two bus connections.",
+                "sk": "Ideálne miesto na zahriatie medzi dvoma prestupmi autobusov."
               }
             },
             {
@@ -2177,7 +2356,8 @@
                 "de": "Genießen Sie die Aussicht auf die verschneite Stadt aus dem Bus.",
                 "hu": "Élvezze a havas város látványát a busz ablakából.",
                 "ro": "Bucurați-vă de vederea orașului înzăpezit de la fereastra autobuzului.",
-                "en": "Enjoy the view of the snowy city from the bus window."
+                "en": "Enjoy the view of the snowy city from the bus window.",
+                "sk": "Užite si výhľad na zasnežené mesto z okna autobusu."
               }
             },
             {
@@ -2186,7 +2366,8 @@
                 "de": "Prüfen Sie die Rückfahrzeiten; abends fahren die Busse seltener.",
                 "hu": "Ellenőrizze a visszautat; este ritkábban járnak a buszok.",
                 "ro": "Verificați orarul de întoarcere; seara autobuzele circulă mai rar.",
-                "en": "Check the return times; buses run less frequently in the evening."
+                "en": "Check the return times; buses run less frequently in the evening.",
+                "sk": "Skontrolujte časy návratu; večer premávajú autobusy menej často."
               }
             },
             {
@@ -2195,7 +2376,8 @@
                 "de": "Der Aufstieg kann bei Schnee anstrengend, aber sehr lohnend sein.",
                 "hu": "A feljutás a hóban fárasztó lehet, de a látvány kárpótolja.",
                 "ro": "Urcarea prin zăpadă poate fi obositoare, dar merită efortul.",
-                "en": "The climb through snow can be tiring but very rewarding."
+                "en": "The climb through snow can be tiring but very rewarding.",
+                "sk": "Výstup cez sneh môže byť únavný, ale veľmi odmeňujúci."
               }
             }
           ],
@@ -2223,6 +2405,12 @@
               "Watch out for icy surfaces when getting on or off the bus at stops.",
               "Allow extra time as snow can slightly delay city traffic.",
               "Transit schedules may vary during the winter holiday season."
+            ],
+            "sk": [
+              "Využite vykurované čakárne na železničnej stanici, ak tam máte prestupy.",
+              "Dávajte pozor na ľadové plochy pri nastupovaní a vystupovaní z autobusu na zastávkach.",
+              "Dovoľte si viac času, pretože sneh môže mierne spomaliť mestskú dopravu.",
+              "Cestovné poriadky sa počas zimných sviatkov môžu líšiť."
             ]
           }
         }

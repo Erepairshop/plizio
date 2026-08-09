@@ -21,7 +21,8 @@
             "de": "Freiheitsplatz (Námestie slobody)",
             "hu": "Szabadság tér (Námestie slobody)",
             "ro": "Piața Libertății (Námestie slobody)",
-            "en": "Freedom Square (Námestie slobody)"
+            "en": "Freedom Square (Námestie slobody)",
+            "sk": "Námestie slobody (Námestie slobody)"
           },
           "coords": [
             21.9079,
@@ -37,7 +38,8 @@
             "de": "Starten Sie den Tag mit einem Kaffee in einem der örtlichen Cafés am Platz.",
             "hu": "Kezdje a napot egy kávéval a tér egyik helyi kávézójában.",
             "ro": "Începeți ziua cu o cafea la una dintre cafenelele locale din piață.",
-            "en": "Start your day with a coffee at one of the local cafes on the square."
+            "en": "Start your day with a coffee at one of the local cafes on the square.",
+            "sk": "Začnite deň kávou v jednej z miestnych kaviarní na námestí."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Statue des braven Soldaten Schwejk",
             "hu": "Švejk, a derék katona szobra",
             "ro": "Statuia bunului soldat Švejk",
-            "en": "Statue of the Good Soldier Švejk"
+            "en": "Statue of the Good Soldier Švejk",
+            "sk": "Socha dobrého vojaka Švejka"
           },
           "coords": [
             21.9085,
@@ -61,7 +64,8 @@
             "de": "Ein beliebtes Fotomotiv und eine Hommage an die berühmte literarische Figur.",
             "hu": "Népszerű fotóhelyszín és tisztelgés a híres irodalmi alak előtt.",
             "ro": "Un loc popular pentru fotografii și un omagiu adus celebrului personaj literar.",
-            "en": "A popular photo spot and a tribute to the famous literary character."
+            "en": "A popular photo spot and a tribute to the famous literary character.",
+            "sk": "Obľúbené miesto na fotku a pocta slávnej literárnej postave."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Brunnen der Liebe",
             "hu": "A Szerelem kútja",
             "ro": "Fântâna Iubirii",
-            "en": "Fountain of Love"
+            "en": "Fountain of Love",
+            "sk": "Fontána lásky"
           },
           "coords": [
             21.9092,
@@ -85,7 +90,8 @@
             "de": "Ein romantischer Ort, ideal für ein kurzes Innehalten.",
             "hu": "Romantikus hely, ideális egy rövid megállóhoz.",
             "ro": "Un loc romantic, ideal pentru o scurtă pauză.",
-            "en": "A romantic spot, ideal for a short pause."
+            "en": "A romantic spot, ideal for a short pause.",
+            "sk": "Romantické miesto, ideálne na krátku prestávku."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Allerheiligenkirche",
             "hu": "Mindenszentek-templom",
             "ro": "Biserica Tuturor Sfinților",
-            "en": "All Saints' Church"
+            "en": "All Saints' Church",
+            "sk": "Kostol Všetkých svätých"
           },
           "coords": [
             21.9133,
@@ -109,7 +116,8 @@
             "de": "Beachten Sie die gotischen Ursprünge und die späteren barocken Umbauten.",
             "hu": "Figyelje meg a gótikus eredetet és a későbbi barokk átalakításokat.",
             "ro": "Observați originile gotice și modificările baroce ulterioare.",
-            "en": "Note the Gothic origins and the later Baroque modifications."
+            "en": "Note the Gothic origins and the later Baroque modifications.",
+            "sk": "Všímajte si gotické pôvody a neskoršie barokové úpravy."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Schloss Humenné",
             "hu": "Homonnai kastély",
             "ro": "Castelul Humenné",
-            "en": "Humenné Castle"
+            "en": "Humenné Castle",
+            "sk": "Humenský zámok"
           },
           "coords": [
             21.9165,
@@ -133,7 +142,8 @@
             "de": "Das Schloss beherbergt heute das Vihorlat-Museum. Planen Sie genug Zeit für die Ausstellungen ein.",
             "hu": "A kastély ad otthont a Vihorlat Múzeumnak. Tervezzen elég időt a kiállításokra.",
             "ro": "Castelul găzduiește astăzi Muzeul Vihorlat. Planificați suficient timp pentru expoziții.",
-            "en": "The castle now houses the Vihorlat Museum. Plan enough time for the exhibitions."
+            "en": "The castle now houses the Vihorlat Museum. Plan enough time for the exhibitions.",
+            "sk": "Zámok dnes hostí Vihorlatské múzeum. Naplánujte si dostatok času na expozície."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Freilichtmuseum (Skanzen)",
             "hu": "Skanzen (Szabadtéri Néprajzi Múzeum)",
             "ro": "Muzeul în aer liber (Skanzen)",
-            "en": "Open-Air Museum (Skanzen)"
+            "en": "Open-Air Museum (Skanzen)",
+            "sk": "Skanzen (Múzeum v prírode)"
           },
           "coords": [
             21.9178,
@@ -157,7 +168,8 @@
             "de": "Direkt neben dem Schloss. Ein faszinierender Einblick in das ländliche Leben der Region.",
             "hu": "Közvetlenül a kastély mellett. Lenyűgöző bepillantás a régió vidéki életébe.",
             "ro": "Chiar lângă castel. O perspectivă fascinantă asupra vieții rurale din regiune.",
-            "en": "Right next to the castle. A fascinating insight into the rural life of the region."
+            "en": "Right next to the castle. A fascinating insight into the rural life of the region.",
+            "sk": "Priamo vedľa zámku. Fascinujúci pohľad do vidieckeho života regiónu."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Schlosspark",
             "hu": "Kastélypark",
             "ro": "Parcul castelului",
-            "en": "Castle Park"
+            "en": "Castle Park",
+            "sk": "Zámocký park"
           },
           "coords": [
             21.9155,
@@ -181,7 +194,8 @@
             "de": "Ein perfekter Ort für einen entspannten Spaziergang nach dem Museumsbesuch.",
             "hu": "Tökéletes hely egy pihentető sétára a múzeumlátogatás után.",
             "ro": "Un loc perfect pentru o plimbare relaxantă după vizitarea muzeului.",
-            "en": "A perfect place for a relaxing walk after the museum visit."
+            "en": "A perfect place for a relaxing walk after the museum visit.",
+            "sk": "Perfektné miesto na relaxačnú prechádzku po návšteve múzea."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Ihr Tag in Humenné beginnt am belebten Freiheitsplatz, dem Herzen der Stadt. Nach einem kurzen Spaziergang zu den charmanten Statuen der Stadt tauchen Sie in der Allerheiligenkirche in die sakrale Geschichte ein. Am Nachmittag erkunden Sie das prächtige Schloss Humenné und das angrenzende Freilichtmuseum, die beide einen tiefen Einblick in die regionale Kultur und Geschichte bieten. Der Tag endet mit einem entspannten Spaziergang durch den Schlosspark, wo Sie die gesammelten Eindrücke Revue passieren lassen können.",
         "hu": "A homonnai nap a város szívében, a nyüzsgő Szabadság téren kezdődik. Miután tett egy rövid sétát a város bájos szobraihoz, elmerülhet a Mindenszentek-templom szakrális történelmében. Délután felfedezi a csodálatos Homonnai kastélyt és a szomszédos skanzent, amelyek mély betekintést nyújtanak a regionális kultúrába és történelembe. A nap egy pihentető sétával zárul a kastélyparkban, ahol átgondolhatja a gyűjtött benyomásokat.",
         "ro": "Ziua dumneavoastră în Humenné începe în Piața Libertății, inima orașului. După o scurtă plimbare la statuile fermecătoare ale orașului, vă veți cufunda în istoria sacră la Biserica Tuturor Sfinților. După-amiaza, explorați magnificul Castel Humenné și muzeul în aer liber adiacent, ambele oferind o perspectivă profundă asupra culturii și istoriei regionale. Ziua se încheie cu o plimbare relaxantă prin Parcul Castelului, unde puteți reflecta asupra impresiilor adunate.",
-        "en": "Your day in Humenné begins at the lively Freedom Square, the heart of the city. After a short walk to the city's charming statues, you'll delve into sacred history at the All Saints' Church. In the afternoon, you explore the magnificent Humenné Castle and the adjacent open-air museum, both offering a deep insight into regional culture and history. The day concludes with a relaxing stroll through the Castle Park, where you can reflect on your experiences."
+        "en": "Your day in Humenné begins at the lively Freedom Square, the heart of the city. After a short walk to the city's charming statues, you'll delve into sacred history at the All Saints' Church. In the afternoon, you explore the magnificent Humenné Castle and the adjacent open-air museum, both offering a deep insight into regional culture and history. The day concludes with a relaxing stroll through the Castle Park, where you can reflect on your experiences.",
+        "sk": "Váš deň v Humennom začína na živom Námestí slobody, srdci mesta. Po krátkej prechádzke k malebným sochám mesta sa ponoríte do sakrálnej histórie v kostole Všetkých svätých. Poobede preskúmate majestátny humenský zámok a priľahlý skanzen, ktoré oba ponúkajú hlboký vhľad do regionálnej kultúry a histórie. Deň zakončíte relaxačnou prechádzkou zámockým parkom, kde si môžete premyslieť svoje zážitky."
       },
       "gastro_picks": {
         "de": [
@@ -309,6 +324,10 @@
         "en": [
           "Wear comfortable shoes as you will be on your feet all day.",
           "Check the opening hours of the museums in advance, especially outside the main season."
+        ],
+        "sk": [
+          "Oblečte si pohodlnú obuv, pretože budete celý deň stáť a chodiť.",
+          "Pred návštevou si overte otváracie hodiny múzeí, najmä mimo hlavnej sezóny."
         ]
       },
       "variants": {
@@ -317,7 +336,8 @@
             "de": "Ein verregneter Morgen in Humenné beginnt am geschäftigen Friedensplatz, wo die Cafés Zuflucht bieten. Mittags erkunden Sie die prächtigen Innenräume des Schlosses, perfekt um dem Wetter zu entfliehen. Der Nachmittag im Freilichtmuseum erfordert einen guten Schirm zwischen den historischen Holzhäusern. Den Abend lassen Sie gemütlich in einer der zentralen Gaststätten ausklingen.",
             "hu": "A borús, esős reggel a Fő téren kezdődik, ahol a közeli üzletek árkádjai nyújtanak menedéket. Délben a kastély belső terei tökéletes búvóhelyet jelentenek a zápor elől. Délután a skanzen házai között gyors léptekkel haladunk, élvezve a nedves fa illatát. Az estét egy hangulatos helyi étterem melegében zárjuk, távol a kinti sártól.",
             "ro": "O dimineață ploioasă în Humenné începe în Piața Libertății, unde cafenelele devin refugii primitoare. La prânz, interiorul castelului oferă protecție și o incursiune fascinantă în istorie. După-amiaza la muzeul în aer liber necesită o umbrelă solidă pentru a vizita casele tradiționale. Seara se încheie confortabil într-un restaurant local, ascultând ploaia de la căldură.",
-            "en": "A rainy morning in Humenné starts at Freedom Square, where local cafes provide a dry sanctuary. At noon, the castle's interior is the perfect escape from the drizzle. The afternoon at the Open-Air Museum requires a sturdy umbrella while hopping between historic wooden structures. The evening concludes cozily in a central eatery, away from the damp streets."
+            "en": "A rainy morning in Humenné starts at Freedom Square, where local cafes provide a dry sanctuary. At noon, the castle's interior is the perfect escape from the drizzle. The afternoon at the Open-Air Museum requires a sturdy umbrella while hopping between historic wooden structures. The evening concludes cozily in a central eatery, away from the damp streets.",
+            "sk": "Daždivé ráno v Humennom začína na Námestí slobody, kde miestne kaviarne poskytnú suché útočisko. Na poludnie je interiér zámku ideálny únik pred mrholením. Popoludnie v skanzene vyžaduje pevný dáždnik pri preskakovaní medzi historickými drevenými domami. Večer zakončite útulne v centrálnej reštaurácii, mimo vlhkých ulíc."
           },
           "stops": [
             {
@@ -326,7 +346,8 @@
                 "de": "Nutzen Sie die Passagen und Cafés am Platzrand als Regenschutz.",
                 "hu": "Használja a tér szélén lévő üzletsorokat és kávézókat esővédőként.",
                 "ro": "Folosiți pasajele și cafenelele de la marginea pieței pentru adăpost.",
-                "en": "Use the passages and cafes around the square as shelter from the rain."
+                "en": "Use the passages and cafes around the square as shelter from the rain.",
+                "sk": "Použite pasáže a kaviarne okolo námestia ako úkryt pred dažďom."
               }
             },
             {
@@ -335,7 +356,8 @@
                 "de": "Ein schnelles Foto mit Švejk, bevor die Kamera nass wird.",
                 "hu": "Csak egy gyors fotó Švejknél, mielőtt elázna a fényképezőgép.",
                 "ro": "O fotografie rapidă cu Švejk înainte ca aparatul să se ude.",
-                "en": "A quick photo with Švejk before your camera gets too wet."
+                "en": "A quick photo with Švejk before your camera gets too wet.",
+                "sk": "Rýchla fotka so Švejkom skôr, než sa fotoaparát príliš zmokrie."
               }
             },
             {
@@ -344,7 +366,8 @@
                 "de": "Bei Regen wirkt der Brunnen weniger romantisch, gehen Sie zügig weiter.",
                 "hu": "Esőben a szökőkút kevésbé látványos, haladjon tovább a templom felé.",
                 "ro": "În ploaie, fântâna pare mai puțin romantică, mergeți rapid mai departe.",
-                "en": "The fountain is less romantic in the rain, move quickly towards the church."
+                "en": "The fountain is less romantic in the rain, move quickly towards the church.",
+                "sk": "Fontána je v daždi menej romantická, rýchlo sa presuňte ku kostolu."
               }
             },
             {
@@ -353,7 +376,8 @@
                 "de": "Ein idealer, trockener Ort für Besinnung und sakrale Kunst.",
                 "hu": "Ideális száraz helyszín az elmélyüléshez és a művészet élvezetéhez.",
                 "ro": "Un loc uscat ideal pentru reflecție și admirarea artei sacre.",
-                "en": "An ideal dry spot for reflection and admiring sacred art."
+                "en": "An ideal dry spot for reflection and admiring sacred art.",
+                "sk": "Ideálne suché miesto na rozjímanie a obdivovanie sakrálneho umenia."
               }
             },
             {
@@ -362,7 +386,8 @@
                 "de": "Verlängern Sie den Aufenthalt drinnen, um den Schauer abzuwarten.",
                 "hu": "Hosszabbítsa meg a bentlétet, amíg elvonul a nagyobb zápor.",
                 "ro": "Prelungiți vizita în interior pentru a aștepta trecerea ploii.",
-                "en": "Extend your stay inside to wait out the heaviest rain showers."
+                "en": "Extend your stay inside to wait out the heaviest rain showers.",
+                "sk": "Predlžte pobyt v interiéri, aby ste počkali na najsilnejší lejak."
               }
             },
             {
@@ -371,7 +396,8 @@
                 "de": "Vorsicht auf den rutschigen Holzwegen zwischen den Häusern.",
                 "hu": "Vigyázat, a faházak közötti ösvények sárgásak és csúszósak lehetnek.",
                 "ro": "Atenție la potecile de lemn alunecoase dintre casele muzeului.",
-                "en": "Be careful on the slippery wooden paths between the museum houses."
+                "en": "Be careful on the slippery wooden paths between the museum houses.",
+                "sk": "Dávajte pozor na šmykľavé drevené chodníky medzi domami v múzeu v prírode."
               }
             },
             {
@@ -380,7 +406,8 @@
                 "de": "Wählen Sie die asphaltierten Wege, um Matsch zu vermeiden.",
                 "hu": "Válassza az aszfaltozott utakat a sár elkerülése érdekében.",
                 "ro": "Alegeți aleile asfaltate pentru a evita noroiul din parc.",
-                "en": "Stick to the paved paths to avoid the mud in the park area."
+                "en": "Stick to the paved paths to avoid the mud in the park area.",
+                "sk": "Držte sa spevnených ciest, aby ste sa vyhli blatu v parku."
               }
             }
           ],
@@ -408,6 +435,12 @@
               "The castle is your best bet during periods of sustained rain.",
               "Cafes at Freedom Square offer quick shelter from passing showers.",
               "A raincoat might be more practical than an umbrella if it gets windy."
+            ],
+            "sk": [
+              "Noste nepremokavú obuv, pretože chodníky k skanzenu môžu byť blatisté.",
+              "Počas dlhšieho dažďa je zámok vaša najlepšia voľba.",
+              "Kaviarne na Námestí slobody ponúkajú rýchly úkryt pred prechodnými prehánkami.",
+              "Plášť proti dažďu môže byť praktickejší než dáždnik pri vetre."
             ]
           }
         },
@@ -416,7 +449,8 @@
             "de": "Ein frostiger Morgen beginnt am festlich beleuchteten Friedensplatz. Mittags wärmen Sie sich im barocken Schloss auf, während draußen der Schnee den Schlosspark verzaubert. Am frühen Nachmittag besuchen Sie den Skanzen, der unter einer Schneedecke besonders authentisch wirkt. Da es gegen 16:30 Uhr dunkel wird, endet der Tag bei heißem Tee im Stadtzentrum.",
             "hu": "A fagyos reggel a díszesen kivilágított Fő téren indul. Délben a barokk kastély falai között melegedhetünk fel, miközben az ablakból a hófödte parkot csodáljuk. A korai sötétedés miatt a skanzent még világosban látogatjuk meg, ahol a hó különleges hangulatot áraszt. 16:30 után már a belváros fényeit és egy forró teát élvezünk.",
             "ro": "O dimineață geroasă începe în Piața Libertății, decorată festiv. La prânz, vă încălziți în castelul baroc, în timp ce zăpada transformă parcul într-un peisaj de basm. După-amiaza devreme vizitați skanzenul, care arată autentic sub stratul de omăt. Deoarece se întunecă în jur de 16:30, ziua se încheie cu un ceai fierbinte în centru.",
-            "en": "A frosty morning begins at the festively lit Freedom Square. At noon, warm up inside the baroque castle while snow transforms the park outside. In the early afternoon, visit the Skanzen, which looks exceptionally authentic under a white blanket. Since it gets dark around 4:30 PM, end your day with hot tea in the city center."
+            "en": "A frosty morning begins at the festively lit Freedom Square. At noon, warm up inside the baroque castle while snow transforms the park outside. In the early afternoon, visit the Skanzen, which looks exceptionally authentic under a white blanket. Since it gets dark around 4:30 PM, end your day with hot tea in the city center.",
+            "sk": "Mrazivé ráno začína na slávnostne osvetlenom Námestí slobody. Na poludnie sa zohrievajte vo vnútri barokového zámku, zatiaľ čo sneh prekrýva park vonku. V skorom popoludní navštívte skanzen, ktorý pod bielou prikrývkou pôsobí mimoriadne autenticky. Keďže okolo 16:30 už zapadá, ukončite deň horúcim čajom v centre mesta."
           },
           "stops": [
             {
@@ -425,7 +459,8 @@
                 "de": "Vorsicht vor glatten Stellen auf dem Pflaster bei Frost.",
                 "hu": "Vigyázzon a tér kövezetén a fagyos, csúszós foltokra.",
                 "ro": "Atenție la porțiunile înghețate de pe pavajul pieței.",
-                "en": "Watch out for icy patches on the square's pavement."
+                "en": "Watch out for icy patches on the square's pavement.",
+                "sk": "Dávajte pozor na ľadové miesta na dlažbe námestia."
               }
             },
             {
@@ -434,7 +469,8 @@
                 "de": "Švejk mit einer Schneemütze ist ein tolles Wintermotiv.",
                 "hu": "Švejk egy hósapkával a fején remek téli fotótéma.",
                 "ro": "Švejk cu o căciulă de zăpadă este un motiv fotografic excelent.",
-                "en": "Švejk with a snow cap makes for a great winter photo."
+                "en": "Švejk with a snow cap makes for a great winter photo.",
+                "sk": "Švejk so snehovou čiapkou je skvelý zimný záber."
               }
             },
             {
@@ -443,7 +479,8 @@
                 "de": "Der Brunnen ist im Winter meist abgestellt und leer.",
                 "hu": "A szökőkút télen általában nem üzemel és le van ürítve.",
                 "ro": "Fântâna este de obicei oprită și golită pe timp de iarnă.",
-                "en": "The fountain is usually turned off and drained during winter."
+                "en": "The fountain is usually turned off and drained during winter.",
+                "sk": "Fontána je zvyčajne v zime vypustená a odstavená."
               }
             },
             {
@@ -452,7 +489,8 @@
                 "de": "Nutzen Sie die Stille drinnen, um sich kurz aufzuwärmen.",
                 "hu": "Használja ki a benti csendet egy rövid felmelegedéshez.",
                 "ro": "Profitați de liniștea din interior pentru a vă încălzi puțin.",
-                "en": "Take advantage of the quiet interior for a quick warm-up."
+                "en": "Take advantage of the quiet interior for a quick warm-up.",
+                "sk": "Využite tiché interiéry na rýchle zohrievanie."
               }
             },
             {
@@ -461,7 +499,8 @@
                 "de": "Die beheizten Ausstellungsräume sind der Höhepunkt an kalten Tagen.",
                 "hu": "A fűtött kiállítótermek a hideg napok fénypontjai.",
                 "ro": "Sălile de expoziție încălzite sunt punctul culminant în zilele reci.",
-                "en": "The heated exhibition rooms are the highlight on cold days."
+                "en": "The heated exhibition rooms are the highlight on cold days.",
+                "sk": "Vykurované výstavné miestnosti sú v chladných dňoch hlavným lákadlom."
               }
             },
             {
@@ -470,7 +509,8 @@
                 "de": "Besuchen Sie den Skanzen vor 15 Uhr, bevor es dämmert.",
                 "hu": "Látogassa meg a skanzent 15 óra előtt, még szürkület előtt.",
                 "ro": "Vizitați skanzenul înainte de ora 15:00, până nu se înserează.",
-                "en": "Visit the Skanzen before 3 PM, before the twilight sets in."
+                "en": "Visit the Skanzen before 3 PM, before the twilight sets in.",
+                "sk": "Navštívte skanzen pred 15:00, skôr než sa zotmie."
               }
             },
             {
@@ -479,7 +519,8 @@
                 "de": "Ein kurzer Spaziergang im Schnee bietet herrliche Ausblicke auf das Schloss.",
                 "hu": "Egy rövid séta a hóban csodás kilátást nyújt a kastélyra.",
                 "ro": "O scurtă plimbare prin zăpadă oferă vederi superbe asupra castelului.",
-                "en": "A short walk in the snow offers beautiful views of the castle."
+                "en": "A short walk in the snow offers beautiful views of the castle.",
+                "sk": "Krátka prechádzka v snehu ponúkne krásne výhľady na zámok."
               }
             }
           ],
@@ -507,6 +548,12 @@
               "Warm gloves are essential for the walk to the Skanzen.",
               "Sunset occurs around 4:15-4:30 PM in mid-winter.",
               "Museums and churches generally offer a warmer environment than the street."
+            ],
+            "sk": [
+              "Plánujte vonkajšie aktivity na poludnie, aby ste maximalizovali denné svetlo.",
+              "Teplé rukavice sú nevyhnutné pri ceste do skanzenu.",
+              "Západ slnka nastáva okolo 16:15–16:30 v hlbokej zime.",
+              "Múzeá a kostoly poskytujú spravidla teplejšie prostredie ako ulica."
             ]
           }
         }
@@ -525,7 +572,8 @@
             "de": "Freiheitsplatz & Statuen",
             "hu": "Szabadság tér és a szobrok",
             "ro": "Piața Libertății și statuile",
-            "en": "Freedom Square & Statues"
+            "en": "Freedom Square & Statues",
+            "sk": "Námestie slobody a sochy"
           },
           "coords": [
             21.9079,
@@ -541,7 +589,8 @@
             "de": "Schließen Sie Ihr Rad an und erkunden Sie den Platz und die nahen Statuen zu Fuß.",
             "hu": "Zárja le a biciklit, és fedezze fel a teret és a közeli szobrokat gyalog.",
             "ro": "Legați-vă bicicleta și explorați piața și statuile din apropiere pe jos.",
-            "en": "Lock your bike and explore the square and nearby statues on foot."
+            "en": "Lock your bike and explore the square and nearby statues on foot.",
+            "sk": "Zamknite si bicykel a preskúmajte námestie a okolitú sochársku výzdobu pešo."
           }
         },
         {
@@ -549,7 +598,8 @@
             "de": "Allerheiligenkirche",
             "hu": "Mindenszentek-templom",
             "ro": "Biserica Tuturor Sfinților",
-            "en": "All Saints' Church"
+            "en": "All Saints' Church",
+            "sk": "Kostol Všetkých svätých"
           },
           "coords": [
             21.9133,
@@ -565,7 +615,8 @@
             "de": "Eine kurze Fahrt vom Hauptplatz entfernt. Einer der ältesten Bauten der Stadt.",
             "hu": "Rövid biciklizésre a főtértől. A város egyik legrégebbi épülete.",
             "ro": "La o scurtă plimbare cu bicicleta de piața principală. Una dintre cele mai vechi clădiri din oraș.",
-            "en": "A short bike ride from the main square. One of the oldest buildings in the city."
+            "en": "A short bike ride from the main square. One of the oldest buildings in the city.",
+            "sk": "Krátka cyklistická jazda z hlavného námestia. Jeden z najstarších objektov v meste."
           }
         },
         {
@@ -573,7 +624,8 @@
             "de": "Schloss Humenné",
             "hu": "Homonnai kastély",
             "ro": "Castelul Humenné",
-            "en": "Humenné Castle"
+            "en": "Humenné Castle",
+            "sk": "Humenský zámok"
           },
           "coords": [
             21.9165,
@@ -589,7 +641,8 @@
             "de": "Der Radweg führt Sie direkt zum Schlosskomplex. Viel zu sehen!",
             "hu": "A kerékpárút egyenesen a kastélykomplexumhoz vezet. Sok a látnivaló!",
             "ro": "Pista de biciclete vă duce direct la complexul castelului. Multe de văzut!",
-            "en": "The bike path takes you directly to the castle complex. Lots to see!"
+            "en": "The bike path takes you directly to the castle complex. Lots to see!",
+            "sk": "Cyklotrasa vás priamo dovedie k zámockému areálu. Veľa je tu na vidieť!"
           }
         },
         {
@@ -597,7 +650,8 @@
             "de": "Freilichtmuseum (Skanzen)",
             "hu": "Skanzen (Szabadtéri Néprajzi Múzeum)",
             "ro": "Muzeul în aer liber (Skanzen)",
-            "en": "Open-Air Museum (Skanzen)"
+            "en": "Open-Air Museum (Skanzen)",
+            "sk": "Skanzen (Múzeum v prírode)"
           },
           "coords": [
             21.9178,
@@ -613,7 +667,8 @@
             "de": "Stellen Sie Ihr Fahrrad am Eingang ab und tauchen Sie in die Vergangenheit ein.",
             "hu": "Hagyja a kerékpárt a bejáratnál, és merüljön el a múltban.",
             "ro": "Lăsați-vă bicicleta la intrare și scufundați-vă în trecut.",
-            "en": "Leave your bike at the entrance and dive into the past."
+            "en": "Leave your bike at the entrance and dive into the past.",
+            "sk": "Zanechajte bicykel pri vstupe a ponorte sa do minulosti."
           }
         },
         {
@@ -621,7 +676,8 @@
             "de": "Schlosspark",
             "hu": "Kastélypark",
             "ro": "Parcul castelului",
-            "en": "Castle Park"
+            "en": "Castle Park",
+            "sk": "Zámocký park"
           },
           "coords": [
             21.9155,
@@ -637,7 +693,8 @@
             "de": "Fahren Sie eine gemütliche Runde durch den Park oder machen Sie ein Picknick.",
             "hu": "Tegyen egy kényelmes kört a parkban, vagy piknikezzen egyet.",
             "ro": "Faceți o plimbare lejeră prin parc sau un picnic.",
-            "en": "Take a leisurely ride through the park or have a picnic."
+            "en": "Take a leisurely ride through the park or have a picnic.",
+            "sk": "Urobte si pohodovú jazdu parkom alebo si urobte piknik."
           }
         },
         {
@@ -645,7 +702,8 @@
             "de": "Vihorlat-Sternwarte",
             "hu": "Vihorlat Csillagvizsgáló",
             "ro": "Observatorul Vihorlat",
-            "en": "Vihorlat Observatory"
+            "en": "Vihorlat Observatory",
+            "sk": "Vihorlatské observatórium"
           },
           "coords": [
             21.925,
@@ -661,7 +719,8 @@
             "de": "Die Fahrt bergauf lohnt sich für die Aussicht und die wissenschaftlichen Einblicke.",
             "hu": "Megéri feltekerni a hegyre a kilátásért és a tudományos betekintésért.",
             "ro": "Urcarea merită pentru priveliște și perspectivele științifice.",
-            "en": "The uphill ride is worth it for the view and the scientific insights."
+            "en": "The uphill ride is worth it for the view and the scientific insights.",
+            "sk": "Stúpanie stojí za to pre výhľad aj vedecké poznatky."
           }
         },
         {
@@ -669,7 +728,8 @@
             "de": "Zurück zum Zentrum",
             "hu": "Vissza a központba",
             "ro": "Înapoi în centru",
-            "en": "Back to the City Center"
+            "en": "Back to the City Center",
+            "sk": "Naspäť do centra mesta"
           },
           "coords": [
             21.9079,
@@ -685,7 +745,8 @@
             "de": "Beenden Sie Ihre Tour bei einem kühlen Getränk in einem der Cafés am Platz.",
             "hu": "Fejezze be a túrát egy hűsítő itallal a tér egyik kávézójában.",
             "ro": "Încheiați-vă turul cu o băutură rece la una dintre cafenelele din piață.",
-            "en": "End your tour with a cool drink at one of the cafes in the square."
+            "en": "End your tour with a cool drink at one of the cafes in the square.",
+            "sk": "Ukončite svoju prehliadku osviežujúcim nápojom v jednej z kaviarní na námestí."
           }
         }
       ],
@@ -693,7 +754,8 @@
         "de": "Schwingen Sie sich auf Ihr Rad und starten Sie am Freiheitsplatz, bevor Sie zur historischen Allerheiligenkirche radeln. Die Hauptattraktion des Tages ist der Schlosskomplex, wo Sie das Schloss und das Freilichtmuseum besuchen. Nach einer entspannten Pause im Schlosspark wartet eine kleine Herausforderung: die Fahrt zur Vihorlat-Sternwarte, die mit einer tollen Aussicht belohnt wird. Die Tour endet gemütlich im Stadtzentrum.",
         "hu": "Pattanjon biciklire, és induljon a Szabadság térről, mielőtt a történelmi Mindenszentek-templomhoz teker. A nap fő attrakciója a kastélykomplexum, ahol a kastélyt és a skanzent látogatja meg. A kastélyparkban tartott pihentető szünet után egy kis kihívás vár: a Vihorlat Csillagvizsgálóhoz vezető út, amelyet nagyszerű kilátás jutalmaz. A túra kényelmesen a városközpontban ér véget.",
         "ro": "Urcați-vă pe bicicletă și porniți din Piața Libertății înainte de a pedala spre istorica Biserică a Tuturor Sfinților. Atracția principală a zilei este complexul castelului, unde veți vizita castelul și muzeul în aer liber. După o pauză relaxantă în parcul castelului, vă așteaptă o mică provocare: drumul spre Observatorul Vihorlat, care este răsplătit cu o priveliște minunată. Turul se încheie lejer în centrul orașului.",
-        "en": "Hop on your bike and start at Freedom Square before cycling to the historic All Saints' Church. The main attraction of the day is the castle complex, where you'll visit the castle and the open-air museum. After a relaxing break in the castle park, a small challenge awaits: the ride to the Vihorlat Observatory, which is rewarded with a great view. The tour ends leisurely in the city center."
+        "en": "Hop on your bike and start at Freedom Square before cycling to the historic All Saints' Church. The main attraction of the day is the castle complex, where you'll visit the castle and the open-air museum. After a relaxing break in the castle park, a small challenge awaits: the ride to the Vihorlat Observatory, which is rewarded with a great view. The tour ends leisurely in the city center.",
+        "sk": "Naskočte na bicykel a začnite na Námestí slobody, odkiaľ potom prejdete k historickému Kostolu Všetkých svätých. Hlavnou atrakciou dňa je hradný komplex, kde navštívite hrad a skanzen. Po oddychu v hradnom parku vás čaká menšia výzva: výjazd k Vihorlatskej hviezdárni, ktorý odmení krásnym výhľadom. Prehliadka končí pokojne v centre mesta."
       },
       "gastro_picks": {
         "de": [
@@ -813,6 +875,10 @@
         "en": [
           "Bring a good bike lock.",
           "Some climbs can be challenging, good gears are an advantage."
+        ],
+        "sk": [
+          "Prineste si dobrý zámok na bicykel.",
+          "Niektoré stúpania môžu byť náročné, dobré prevody sú výhodou."
         ]
       },
       "variants": {
@@ -821,7 +887,8 @@
             "de": "Trotz Regen ist Humenné mit dem Rad erkundbar. Der Vormittag führt über nasse Straßen zum Schloss, wo das Rad sicher untergestellt werden kann. Mittags bietet das Museum Schutz, während die Räder im Freien warten. Der Nachmittag im Park erfordert Vorsicht auf rutschigem Laub. Der Tag endet zügig mit der Rückfahrt ins Zentrum.",
             "hu": "Esőben is felfedezhető Humenné két keréken. Délelőtt a vizes utakon tekerünk a kastélyig, ahol fedett helyen hagyhatjuk a bicikliket. Délben a múzeum nyújt menedéket a záporok elől. Délután a parki utakon óvatosan haladunk a csúszós levelek miatt. A napot egy gyors belvárosi tekeréssel zárjuk.",
             "ro": "În ciuda ploii, Humenné poate fi explorat cu bicicleta. Dimineața parcurgeți străzile ude spre castel, unde bicicleta poate fi parcată la adăpost. La prânz, muzeul oferă protecție în timp ce bicicletele așteaptă afară. După-amiaza în parc necesită prudență pe frunzele umede. Ziua se încheie rapid cu întoarcerea în centru.",
-            "en": "Despite the rain, Humenné is bikeable with the right gear. The morning takes you over wet streets to the castle, where bikes can be parked undercover. At noon, the museum provides shelter while bikes stay outside. Afternoon in the park requires caution on slippery leaves. The day ends with a quick ride back to the center."
+            "en": "Despite the rain, Humenné is bikeable with the right gear. The morning takes you over wet streets to the castle, where bikes can be parked undercover. At noon, the museum provides shelter while bikes stay outside. Afternoon in the park requires caution on slippery leaves. The day ends with a quick ride back to the center.",
+            "sk": "Napriek dažďu je v Humennom možné bicyklovať s vhodným vybavením. Ráno vedú vlhké ulice k hradu, kde je možné parkovať pod strechou. Na obed poskytuje múzeum úkryt, bicykle zostanú vonku. Poobedie v parku vyžaduje opatrnosť na klzké lístie. Deň končí rýchlou jazdou späť do centra."
           },
           "stops": [
             {
@@ -830,7 +897,8 @@
                 "de": "Vorsicht beim Bremsen auf nassem Kopfsteinpflaster.",
                 "hu": "Óvatosan fékezzen a vizes macskakövön a téren.",
                 "ro": "Atenție la frânare pe pavajul umed din piață.",
-                "en": "Exercise caution when braking on wet cobblestones."
+                "en": "Exercise caution when braking on wet cobblestones.",
+                "sk": "Buďte opatrní pri brzdení na mokrých kostkách."
               }
             },
             {
@@ -839,7 +907,8 @@
                 "de": "Parken Sie das Rad nah am Eingang für kurzen Weg im Regen.",
                 "hu": "Parkoljon közel a bejárathoz, hogy keveset kelljen áznia.",
                 "ro": "Parcați bicicleta aproape de intrare pentru a evita ploaia.",
-                "en": "Park your bike close to the entrance to minimize time in the rain."
+                "en": "Park your bike close to the entrance to minimize time in the rain.",
+                "sk": "Zaparkujte bicykel blízko vstupu, aby ste minimalizovali čas v daždi."
               }
             },
             {
@@ -848,7 +917,8 @@
                 "de": "Nutzen Sie den Schlossinnenhof als trockenen Abstellort.",
                 "hu": "Használja a kastély belső udvarát száraz tárolóhelyként.",
                 "ro": "Folosiți curtea interioară a castelului ca loc uscat de parcare.",
-                "en": "Use the castle's inner courtyard as a dry parking spot."
+                "en": "Use the castle's inner courtyard as a dry parking spot.",
+                "sk": "Využite hradné nádvorie ako suché parkovisko."
               }
             },
             {
@@ -857,7 +927,8 @@
                 "de": "Räder am Eingang lassen; Wege im Skanzen sind ungeeignet bei Schlamm.",
                 "hu": "Hagyja a bringákat a bejáratnál; a benti utak sárosak.",
                 "ro": "Lăsați bicicletele la intrare; aleile sunt noroioase în interior.",
-                "en": "Leave bikes at the entrance; internal paths are unsuitable when muddy."
+                "en": "Leave bikes at the entrance; internal paths are unsuitable when muddy.",
+                "sk": "Nechávajte bicykle vo vstupe; vnútorné cesty sú nevhodné, keď sú blátivé."
               }
             },
             {
@@ -866,7 +937,8 @@
                 "de": "Gefahr durch rutschige Äste und nasses Laub auf den Wegen.",
                 "hu": "A vizes levelek és gallyak csúszásveszélyt jelentenek az utakon.",
                 "ro": "Pericol de alunecare pe crengi și frunze umede pe alei.",
-                "en": "Risk of slipping on wet branches and sodden leaves on the paths."
+                "en": "Risk of slipping on wet branches and sodden leaves on the paths.",
+                "sk": "Riziko šmyku na mokrých konároch a nasiaknutom lístí na cestičkách."
               }
             },
             {
@@ -875,7 +947,8 @@
                 "de": "Der Anstieg kann bei Regen anstrengend und rutschig sein.",
                 "hu": "Az emelkedő esőben fárasztó és csúszós lehet.",
                 "ro": "Urcarea poate fi obositoare și alunecoasă pe timp de ploaie.",
-                "en": "The uphill climb can be tiring and slippery in the rain."
+                "en": "The uphill climb can be tiring and slippery in the rain.",
+                "sk": "Stúpanie môže byť únavné a na daždi šmykľavé."
               }
             },
             {
@@ -884,7 +957,8 @@
                 "de": "Zügige Rückfahrt, um trockenere Kleidung zu erreichen.",
                 "hu": "Gyors tekerés vissza a száraz ruhák és a meleg felé.",
                 "ro": "Întoarcere rapidă pentru a ajunge la haine uscate.",
-                "en": "Quick ride back to get to dry clothes and warmth."
+                "en": "Quick ride back to get to dry clothes and warmth.",
+                "sk": "Rýchla jazda späť, aby ste sa dostali do suchého oblečenia a tepla."
               }
             }
           ],
@@ -912,6 +986,12 @@
               "Avoid sharp turns on wet asphalt surfaces.",
               "Wear a bright raincoat for better visibility to drivers.",
               "Clean and oil your chain after the ride to prevent rust."
+            ],
+            "sk": [
+              "Blatníky na bicykli sú v tomto počasí nevyhnutné.",
+              "Vyhnite sa prudkým zákrutám na mokrom asfalte.",
+              "Noste výraznú pršiplášť, aby vás vodiči lepšie videli.",
+              "Po jazde vyčistite a naolejujte reťaz, aby neprihrdzavela."
             ]
           }
         },
@@ -920,7 +1000,8 @@
             "de": "Winterliches Radeln in Humenné erfordert gute Vorbereitung. Der Morgen am kahlen Friedensplatz ist erfrischend kalt. Mittags bietet das Schloss eine lange Aufwärmpause. Der Skanzen im Schnee ist malerisch, aber mit dem Rad nur schwer zugänglich. Wegen der frühen Dunkelheit und sinkenden Temperaturen endet die Tour bereits am Nachmittag.",
             "hu": "A téli kerékpározás Humennében komoly felkészülést igényel. A reggel a kopár Fő téren frissítően hideg. Délben a kastély hosszú felmelegedési szünetet biztosít. A hófödte skanzen festői, de bringával nehezen megközelíthető. A korai sötétedés és a zuhanó hőmérséklet miatt a túra már délután véget ér.",
             "ro": "Ciclismul de iarnă în Humenné necesită o pregătire bună. Dimineața în Piața Libertății este revigorant de rece. La prânz, castelul oferă o pauză lungă de încălzire. Skanzenul în zăpadă este pitoresc, dar greu accesibil cu bicicleta. Din cauza întunericului timpuriu, turul se încheie deja după-amiaza.",
-            "en": "Winter cycling in Humenné requires solid preparation. The morning at the bare Freedom Square is refreshingly cold. At noon, the castle provides a long warm-up break. The Skanzen in the snow is picturesque but difficult to access by bike. Due to early darkness and dropping temperatures, the tour ends by mid-afternoon."
+            "en": "Winter cycling in Humenné requires solid preparation. The morning at the bare Freedom Square is refreshingly cold. At noon, the castle provides a long warm-up break. The Skanzen in the snow is picturesque but difficult to access by bike. Due to early darkness and dropping temperatures, the tour ends by mid-afternoon.",
+            "sk": "Zimné bicyklovanie v Humennom vyžaduje dôkladnú prípravu. Ráno na holom Námestí slobody je svieža zima. Na obed poskytuje hrad dlhší rozcvičkový oddych v teple. Skanzen v snehu je malebný, ale ťažko prístupný na bicykli. Kvôli skoro padajúcemu súmraku a klesajúcim teplotám sa prehliadka končí v polovici popoludnia."
           },
           "stops": [
             {
@@ -929,7 +1010,8 @@
                 "de": "Achten Sie auf gefrorenes Schmelzwasser in den Fugen.",
                 "hu": "Ügyeljen a kövek közötti összefagyott hólére.",
                 "ro": "Atenție la apa înghețată dintre rosturile pavajului.",
-                "en": "Watch out for frozen meltwater between the paving stones."
+                "en": "Watch out for frozen meltwater between the paving stones.",
+                "sk": "Dávajte pozor na zamrznuté roztopené vody medzi dlažobnými kockami."
               }
             },
             {
@@ -938,7 +1020,8 @@
                 "de": "Kurzer Stopp, um die steifen Finger kurz zu bewegen.",
                 "hu": "Rövid megálló, hogy átmozgassa elgémberedett ujjait.",
                 "ro": "Oprire scurtă pentru a vă dezmorți degetele înghețate.",
-                "en": "Short stop to get your stiff fingers moving again."
+                "en": "Short stop to get your stiff fingers moving again.",
+                "sk": "Krátka prestávka, aby sa rozhýbali stuhnuté prsty."
               }
             },
             {
@@ -947,7 +1030,8 @@
                 "de": "Ein langer Aufenthalt im Warmen regeneriert die Kräfte.",
                 "hu": "A melegben töltött hosszabb idő segít visszanyerni az erőt.",
                 "ro": "O ședere lungă la căldură vă va regenera forțele.",
-                "en": "A long stay in the warmth will help regenerate your energy."
+                "en": "A long stay in the warmth will help regenerate your energy.",
+                "sk": "Dlhší pobyt v teple pomôže doplniť energiu."
               }
             },
             {
@@ -956,7 +1040,8 @@
                 "de": "Bei Tiefschnee ist die Zufahrt für Räder gesperrt.",
                 "hu": "Mély hó esetén a bringás behajtás korlátozott lehet.",
                 "ro": "În caz de zăpadă mare, accesul bicicletelor poate fi restricționat.",
-                "en": "In deep snow, bike access to the grounds may be restricted."
+                "en": "In deep snow, bike access to the grounds may be restricted.",
+                "sk": "V hlbokom snehu môže byť prístup bicyklom na areál obmedzený."
               }
             },
             {
@@ -965,7 +1050,8 @@
                 "de": "Nur geräumte Wege nutzen; Sturzgefahr auf vereisten Pfaden.",
                 "hu": "Csak a letakarított utakat használja; jegesedés várható.",
                 "ro": "Folosiți doar aleile curățate; risc de cădere pe poteci înghețate.",
-                "en": "Stick to cleared paths; high risk of falling on icy trails."
+                "en": "Stick to cleared paths; high risk of falling on icy trails.",
+                "sk": "Držte sa upravených chodníkov; vysoké riziko pádu na zamrznutých trasách."
               }
             },
             {
@@ -974,7 +1060,8 @@
                 "de": "Der Weg zum Observatorium kann im Winter spiegelglatt sein.",
                 "hu": "A csillagvizsgálóhoz vezető út télen tükörsima lehet.",
                 "ro": "Drumul spre observator poate fi extrem de lunecos iarna.",
-                "en": "The road to the observatory can be mirror-smooth with ice in winter."
+                "en": "The road to the observatory can be mirror-smooth with ice in winter.",
+                "sk": "Cesta k hviezdárni môže byť v zime ľadovo hladká."
               }
             },
             {
@@ -983,7 +1070,8 @@
                 "de": "Licht einschalten! Die Sicht verschlechtert sich ab 15:30 Uhr.",
                 "hu": "Kapcsolja be a világítást! 15:30 után már rosszak a látási viszonyok.",
                 "ro": "Aprindeți luminile! Vizibilitatea scade considerabil după ora 15:30.",
-                "en": "Turn on your lights! Visibility drops significantly after 3:30 PM."
+                "en": "Turn on your lights! Visibility drops significantly after 3:30 PM.",
+                "sk": "Zapnite svetlá! Viditeľnosť výrazne klesá po 15:30."
               }
             }
           ],
@@ -1011,6 +1099,12 @@
               "Check tire pressure; slightly lower pressure gives better grip on snow.",
               "E-bike batteries drain much faster in cold temperatures.",
               "Carry warm drinks in a thermos to stay hydrated and warm."
+            ],
+            "sk": [
+              "Oblečte si viaceré vrstvy a vetruvzdorné vrchné oblečenie.",
+              "Skontrolujte tlak v pneumatikách; mierne nižší tlak zlepší priľnavosť na snehu.",
+              "Batérie v elektrobicykloch sa na chladnom výrazne rýchlejšie vybíjajú.",
+              "Noste teplý nápoj v termoske, aby ste zostali teplí a hydratovaní."
             ]
           }
         }
@@ -1029,7 +1123,8 @@
             "de": "Cluster 1: Stadtzentrum",
             "hu": "1. klaszter: Városközpont",
             "ro": "Cluster 1: Centrul orașului",
-            "en": "Cluster 1: City Center"
+            "en": "Cluster 1: City Center",
+            "sk": "Klastra 1: Centrum mesta"
           },
           "coords": [
             21.9079,
@@ -1045,7 +1140,8 @@
             "de": "Parken Sie in der Nähe des Freiheitsplatzes. Von hier aus erkunden Sie das Zentrum zu Fuß.",
             "hu": "Parkoljon a Szabadság tér közelében. Innen gyalog fedezze fel a központot.",
             "ro": "Parcați lângă Piața Libertății. De aici explorați centrul pe jos.",
-            "en": "Park near Freedom Square. From here, explore the center on foot."
+            "en": "Park near Freedom Square. From here, explore the center on foot.",
+            "sk": "Zaparkujte pri Námestí slobody. Odtiaľ preskúmajte centrum pešo."
           }
         },
         {
@@ -1053,7 +1149,8 @@
             "de": "Statue des braven Soldaten Schwejk & Brunnen",
             "hu": "Švejk szobra és a kút",
             "ro": "Statuia lui Švejk și Fântâna",
-            "en": "Švejk Statue & Fountain"
+            "en": "Švejk Statue & Fountain",
+            "sk": "Socha Švejka a fontána"
           },
           "coords": [
             21.9085,
@@ -1069,7 +1166,8 @@
             "de": "Ein kurzer Spaziergang vom Hauptplatz zu diesen ikonischen Sehenswürdigkeiten.",
             "hu": "Rövid séta a főtérről ezekhez az ikonikus látnivalókhoz.",
             "ro": "O scurtă plimbare de la piața principală la aceste obiective iconice.",
-            "en": "A short walk from the main square to these iconic sights."
+            "en": "A short walk from the main square to these iconic sights.",
+            "sk": "Krátka prechádzka z hlavného námestia k týmto ikonickým miestam."
           }
         },
         {
@@ -1077,7 +1175,8 @@
             "de": "Allerheiligenkirche",
             "hu": "Mindenszentek-templom",
             "ro": "Biserica Tuturor Sfinților",
-            "en": "All Saints' Church"
+            "en": "All Saints' Church",
+            "sk": "Kostol Všetkých svätých"
           },
           "coords": [
             21.9133,
@@ -1093,7 +1192,8 @@
             "de": "Die gotische Kirche ist nur wenige Gehminuten vom Platz entfernt.",
             "hu": "A gótikus templom csak néhány perc sétára van a tértől.",
             "ro": "Biserica gotică se află la doar câteva minute de mers pe jos de piață.",
-            "en": "The Gothic church is just a few minutes' walk from the square."
+            "en": "The Gothic church is just a few minutes' walk from the square.",
+            "sk": "Gotický kostol je len pár minút pešo od námestia."
           }
         },
         {
@@ -1101,7 +1201,8 @@
             "de": "Cluster 2: Schlosskomplex",
             "hu": "2. klaszter: Kastélykomplexum",
             "ro": "Cluster 2: Complexul Castelului",
-            "en": "Cluster 2: Castle Complex"
+            "en": "Cluster 2: Castle Complex",
+            "sk": "Klastra 2: Hradný komplex"
           },
           "coords": [
             21.9165,
@@ -1117,7 +1218,8 @@
             "de": "Fahren Sie zum Schloss und parken Sie dort. Das Museum ist im Schloss untergebracht.",
             "hu": "Vezessen a kastélyhoz és parkoljon ott. A múzeum a kastélyban található.",
             "ro": "Conduceți la castel și parcați acolo. Muzeul este găzduit în castel.",
-            "en": "Drive to the castle and park there. The museum is housed in the castle."
+            "en": "Drive to the castle and park there. The museum is housed in the castle.",
+            "sk": "Príďte autom k hradu a zaparkujte tam. Múzeum je umiestnené v hrade."
           }
         },
         {
@@ -1125,7 +1227,8 @@
             "de": "Freilichtmuseum (Skanzen)",
             "hu": "Skanzen (Szabadtéri Néprajzi Múzeum)",
             "ro": "Muzeul în aer liber (Skanzen)",
-            "en": "Open-Air Museum (Skanzen)"
+            "en": "Open-Air Museum (Skanzen)",
+            "sk": "Skanzen (Múzeum v prírode)"
           },
           "coords": [
             21.9178,
@@ -1141,7 +1244,8 @@
             "de": "Direkt neben dem Schloss gelegen, ein Muss für Geschichtsliebhaber.",
             "hu": "Közvetlenül a kastély mellett található, kötelező a történelem szerelmeseinek.",
             "ro": "Situat chiar lângă castel, este o vizită obligatorie pentru iubitorii de istorie.",
-            "en": "Located right next to the castle, a must-see for history lovers."
+            "en": "Located right next to the castle, a must-see for history lovers.",
+            "sk": "Nachádza sa hneď vedľa hradu, povinná zastávka pre milovníkov histórie."
           }
         },
         {
@@ -1149,7 +1253,8 @@
             "de": "Cluster 3: Vihorlat-Sternwarte",
             "hu": "3. klaszter: Vihorlat Csillagvizsgáló",
             "ro": "Clusterul 3: Observatorul Vihorlat",
-            "en": "Cluster 3: Vihorlat Observatory"
+            "en": "Cluster 3: Vihorlat Observatory",
+            "sk": "Klastra 3: Vihorlatská hviezdareň"
           },
           "coords": [
             21.925,
@@ -1165,7 +1270,8 @@
             "de": "Fahren Sie zum Abschluss des Tages zur Sternwarte für einen Panoramablick.",
             "hu": "A nap végén vezessen el a csillagvizsgálóhoz egy panorámás kilátásért.",
             "ro": "La sfârșitul zilei, conduceți la observator pentru o vedere panoramică.",
-            "en": "At the end of the day, drive to the observatory for a panoramic view."
+            "en": "At the end of the day, drive to the observatory for a panoramic view.",
+            "sk": "Na konci dňa sa vyvezte k hviezdárni za panoramatickým výhľadom."
           }
         }
       ],
@@ -1173,7 +1279,8 @@
         "de": "Ihr Autotag beginnt im Herzen von Humenné. Parken Sie im Zentrum und erkunden Sie den Freiheitsplatz und die nahegelegene Kirche zu Fuß. Am Vormittag fahren Sie zum prächtigen Schlosskomplex. Dort parken Sie erneut und besuchen das Schloss und das faszinierende Freilichtmuseum. Den Nachmittag verbringen Sie etwas außerhalb bei der Vihorlat-Sternwarte, die nicht nur wissenschaftliche Einblicke, sondern auch eine fantastische Aussicht über die Region bietet, bevor Sie ins Zentrum zurückkehren.",
         "hu": "Az autós nap Homonna szívében kezdődik. Parkoljon a központban, és fedezze fel gyalog a Szabadság teret és a közeli templomot. Délelőtt a csodálatos kastélykomplexumhoz hajt. Ott újra leparkol, és meglátogatja a kastélyt és a lenyűgöző skanzent. A délutánt kicsit kijjebb, a Vihorlat Csillagvizsgálónál tölti, amely nemcsak tudományos betekintést, hanem fantasztikus kilátást is nyújt a régióra, mielőtt visszatérne a központba.",
         "ro": "Ziua cu mașina începe în inima orașului Humenné. Parcați în centru și explorați Piața Libertății și biserica din apropiere pe jos. Dimineața, conduceți la magnificul complex al castelului. Acolo parcați din nou și vizitați castelul și fascinantul muzeu în aer liber. După-amiaza o petreceți puțin în afara orașului, la Observatorul Vihorlat, care oferă nu numai perspective științifice, ci și o priveliște fantastică asupra regiunii, înainte de a vă întoarce în centru.",
-        "en": "Your car day begins in the heart of Humenné. Park in the center and explore Freedom Square and the nearby church on foot. In the morning, you drive to the magnificent castle complex. There you park again and visit the castle and the fascinating open-air museum. You spend the afternoon a little outside at the Vihorlat Observatory, which offers not only scientific insights but also a fantastic view over the region, before returning to the center."
+        "en": "Your car day begins in the heart of Humenné. Park in the center and explore Freedom Square and the nearby church on foot. In the morning, you drive to the magnificent castle complex. There you park again and visit the castle and the fascinating open-air museum. You spend the afternoon a little outside at the Vihorlat Observatory, which offers not only scientific insights but also a fantastic view over the region, before returning to the center.",
+        "sk": "Váš deň autom začína v srdci Humenného. Zaparkujte v centre a na pešo preskúmajte Námestie slobody a blízky kostol. Ráno odcestujete ku krásnemu hradnému komplexu, kde opäť zaparkujete a navštívite hrad a zaujímavý skanzen. Popoludní strávite trochu času mimo mesta pri Vihorlatskej hviezdárni, ktorá ponúka nielen vedecké zaujímavosti, ale aj fantastický výhľad na región, pred návratom do centra."
       },
       "gastro_picks": {
         "de": [
@@ -1293,6 +1400,10 @@
         "en": [
           "Find out about parking options and fees in the city center.",
           "Refuel before leaving the city if you plan further trips into the rural surroundings."
+        ],
+        "sk": [
+          "Zistite možnosti parkovania a výšku poplatkov v centre mesta.",
+          "Natankujte pred odchodom z mesta, ak plánujete ďalšie výlety do okolia."
         ]
       },
       "variants": {
@@ -1301,7 +1412,8 @@
             "de": "Das Auto ist der ideale Begleiter für einen verregneten Tag in Humenné. Morgens parken Sie bequem im Zentrum. Mittags verbringen Sie viel Zeit im trockenen Schlosskomplex. Der Nachmittag im Skanzen ist trotz Regen machbar, da das Auto als Basis dient. Der Tag endet entspannt mit einer kurzen Fahrt zum Abendessen.",
             "hu": "Az autó a legjobb választás egy esős napra Humennében. Reggel kényelmesen parkolhat a központban. Délben rengeteg időt tölthet a száraz kastélyban. A délutáni skanzenlátogatás az eső ellenére is kivitelezhető, ha az autó a bázis. A nap egy rövid autózással zárul a vacsorahelyszínig.",
             "ro": "Mașina este partenerul ideal pentru o zi ploioasă în Humenné. Dimineața parcați confortabil în centru. La prânz, petreceți mult timp în complexul castelului ferit de ploaie. Vizita la skanzen este posibilă chiar și pe ploaie cu mașina aproape. Ziua se încheie relaxat cu o scurtă cursă spre cină.",
-            "en": "The car is the ideal companion for a rainy day in Humenné. In the morning, park conveniently in the center. At noon, spend plenty of time in the dry castle complex. An afternoon at the Skanzen is doable despite the rain with your car nearby. The day ends relaxed with a short drive to dinner."
+            "en": "The car is the ideal companion for a rainy day in Humenné. In the morning, park conveniently in the center. At noon, spend plenty of time in the dry castle complex. An afternoon at the Skanzen is doable despite the rain with your car nearby. The day ends relaxed with a short drive to dinner.",
+            "sk": "Auto je ideálnym spoločníkom na daždivý deň v Humennom. Ráno zaparkujete pohodlne v centre. Na obed strávite veľa času v suchom hradnom komplexe. Popoludnie v skanzene je s autom po ruke zvládnuteľné aj v daždi. Deň končí pokojnou krátkou jazdou na večeru."
           },
           "stops": [
             {
@@ -1310,7 +1422,8 @@
                 "de": "Parken Sie im Parkhaus oder nah an den Arkaden.",
                 "hu": "Parkoljon parkolóházban vagy az árkádok közelében.",
                 "ro": "Parcați într-o parcare acoperită sau aproape de arcade.",
-                "en": "Park in a garage or very close to the covered walkways."
+                "en": "Park in a garage or very close to the covered walkways.",
+                "sk": "Parkujte v garáži alebo veľmi blízko krytých prechodov."
               }
             },
             {
@@ -1319,7 +1432,8 @@
                 "de": "Kurzer Ausstieg für Fotos zwischen den Regenschauern.",
                 "hu": "Csak rövid kiszállás a fotókhoz a záporok között.",
                 "ro": "Coborâre scurtă pentru poze între reprizele de ploaie.",
-                "en": "Quick hop out for photos between rain showers."
+                "en": "Quick hop out for photos between rain showers.",
+                "sk": "Rýchlo vyskočte na fotky medzi dažďovými prestávkami."
               }
             },
             {
@@ -1328,7 +1442,8 @@
                 "de": "Nutzen Sie den kircheneigenen Parkplatz für kurze Wege.",
                 "hu": "Használja a templom saját parkolóját a rövid sétához.",
                 "ro": "Folosiți parcarea bisericii pentru a merge cât mai puțin prin ploaie.",
-                "en": "Use the church's own parking lot to minimize walking in the rain."
+                "en": "Use the church's own parking lot to minimize walking in the rain.",
+                "sk": "Využite vlastné parkovisko kostola, aby ste minimalizovali chôdzu v daždi."
               }
             },
             {
@@ -1337,7 +1452,8 @@
                 "de": "Fahren Sie direkt zum Schlossparkplatz vor.",
                 "hu": "Hajtson közvetlenül a kastély melletti parkolóig.",
                 "ro": "Conduceți direct până la parcarea castelului.",
-                "en": "Drive directly to the parking lot right next to the castle."
+                "en": "Drive directly to the parking lot right next to the castle.",
+                "sk": "Jazdite priamo na parkovisko hneď pri hrade."
               }
             },
             {
@@ -1346,7 +1462,8 @@
                 "de": "Lassen Sie nasse Schirme im Kofferraum trocknen.",
                 "hu": "Hagyja a vizes esernyőket a csomagtartóban száradni.",
                 "ro": "Lăsați umbrelele ude să se usuce în portbagaj.",
-                "en": "Let wet umbrellas dry in the trunk between stops."
+                "en": "Let wet umbrellas dry in the trunk between stops.",
+                "sk": "Nechajte mokré dáždniky vyschnúť v batožinovom priestore medzi zastávkami."
               }
             },
             {
@@ -1355,7 +1472,8 @@
                 "de": "Beste Sicht bei Regen oft eingeschränkt, aber Anfahrt bequem.",
                 "hu": "Esőben a kilátás korlátozott, de az autóút kényelmes.",
                 "ro": "Vizibilitatea poate fi redusă, dar accesul auto este facil.",
-                "en": "Visibility might be limited in the rain, but the drive up is easy."
+                "en": "Visibility might be limited in the rain, but the drive up is easy.",
+                "sk": "Viditeľnosť môže byť v daždi obmedzená, ale výjazd nahor je jednoduchý."
               }
             }
           ],
@@ -1383,6 +1501,12 @@
               "Central parking spots fill up quickly when it's raining.",
               "Heated mirrors will help with visibility and fogging.",
               "Use the time in the car to warm up between outdoor visits."
+            ],
+            "sk": [
+              "Dávajte pozor na aquaplaning na cestách okolo Humenného.",
+              "Centrálne parkoviská sa pri daždi rýchlo plnia.",
+              "Vyhrievané zrkadlá pomôžu pri viditeľnosti a zahmlievaniu.",
+              "Využite čas v aute na prehrievanie medzi vonkajšími návštevami."
             ]
           }
         },
@@ -1391,7 +1515,8 @@
             "de": "Im Winter bietet das Auto in Humenné Komfort und Wärme. Der Morgen am frostigen Friedensplatz beginnt mit kurzem Parken. Mittags genießen Sie die Wärme im Schloss, während das Auto draußen wartet. Der Skanzen im Schnee ist mit dem Wagen gut erreichbar. Die Tour zum Observatorium am späten Nachmittag erfordert wintertaugliche Ausrüstung.",
             "hu": "Télen az autó kényelmet és meleget nyújt Humennében. A reggel a fagyos Fő téren rövid parkolással indul. Délben a kastély melegében időzhetünk, amíg az autó kint várakozik. A hófödte skanzen kocsival is jól megközelíthető. A késő délutáni csillagvizsgáló-túra téli felszerelést igényel.",
             "ro": "Iarna, mașina oferă confort și căldură în Humenné. Dimineața în Piața Libertății începe cu o parcare scurtă. La prânz, vă bucurați de căldura din castel în timp ce mașina așteaptă afară. Skanzenul înzăpezit este ușor accesibil. Turul la observator necesită echipare de iarnă corespunzătoare.",
-            "en": "In winter, the car provides much-needed comfort and warmth in Humenné. The morning at frosty Freedom Square starts with convenient parking. At noon, enjoy the warmth of the castle while the car waits outside. The snowy Skanzen is easily accessible by car. The late afternoon trip to the observatory requires winter-ready equipment."
+            "en": "In winter, the car provides much-needed comfort and warmth in Humenné. The morning at frosty Freedom Square starts with convenient parking. At noon, enjoy the warmth of the castle while the car waits outside. The snowy Skanzen is easily accessible by car. The late afternoon trip to the observatory requires winter-ready equipment.",
+            "sk": "V zime auto poskytuje v Humennom potrebný komfort a teplo. Ráno pri mrazivom Námestí slobody začnete s pohodlným parkovaním. Na obed si užijete teplo hradu, zatiaľ čo auto čaká vonku. Snehom pokrytý skanzen je ľahko prístupný autom. Neskoropopoludňajší výjazd k hviezdárni vyžaduje zimne pripravené vybavenie."
           },
           "stops": [
             {
@@ -1400,7 +1525,8 @@
                 "de": "Achten Sie auf vereiste Parkflächen im Schatten.",
                 "hu": "Ügyeljen az árnyékos helyeken lévő jeges parkolókra.",
                 "ro": "Atenție la locurile de parcare înghețate de la umbră.",
-                "en": "Watch out for icy parking spots in shaded areas."
+                "en": "Watch out for icy parking spots in shaded areas.",
+                "sk": "Dávajte pozor na namrznuté parkovacie miesta v tienistých oblastiach."
               }
             },
             {
@@ -1409,7 +1535,8 @@
                 "de": "Kurzer Stopp; der Motor kühlt bei Frost schnell aus.",
                 "hu": "Rövid megálló; a motor hamar lehűl a nagy fagyban.",
                 "ro": "Oprire scurtă; motorul se răcește repede la temperaturi negative.",
-                "en": "Short stop; engines cool down quickly in deep frost."
+                "en": "Short stop; engines cool down quickly in deep frost.",
+                "sk": "Krátka prestávka; motory sa pri veľkom mraze rýchlo ochladzujú."
               }
             },
             {
@@ -1418,7 +1545,8 @@
                 "de": "Nutzen Sie die Sitzheizung nach dem Kirchenbesuch.",
                 "hu": "Használja az ülésfűtést a templomlátogatás után.",
                 "ro": "Folosiți încălzirea în scaune după vizita la biserică.",
-                "en": "Turn on the seat heaters after visiting the cold church."
+                "en": "Turn on the seat heaters after visiting the cold church.",
+                "sk": "Po návšteve chladného kostola zapnite vyhrievanie sedadiel."
               }
             },
             {
@@ -1427,7 +1555,8 @@
                 "de": "Vermeiden Sie Parken unter schneebeladenen Bäumen.",
                 "hu": "Ne parkoljon hóval terhelt fák alá a kastélynál.",
                 "ro": "Evitați parcarea sub copaci încărcați cu zăpadă.",
-                "en": "Avoid parking under trees heavily laden with snow."
+                "en": "Avoid parking under trees heavily laden with snow.",
+                "sk": "Vyhnite sa parkovaniu pod stromami preťaženými snehom."
               }
             },
             {
@@ -1436,7 +1565,8 @@
                 "de": "Halten Sie Enteiser für die Türschlösser bereit.",
                 "hu": "Legyen kéznél jégoldó az ajtózárakhoz.",
                 "ro": "Aveți la îndemână spray pentru dezghețarea încuietorilor.",
-                "en": "Keep a lock de-icer handy for the car doors."
+                "en": "Keep a lock de-icer handy for the car doors.",
+                "sk": "Majte po ruke odmrazovač zámkov na dvere auta."
               }
             },
             {
@@ -1445,7 +1575,8 @@
                 "de": "Winterreifen und Schneeketten für den Anstieg empfohlen.",
                 "hu": "Téli gumi és hólánc ajánlott az emelkedőhöz.",
                 "ro": "Anvelopele de iarnă și lanțurile sunt recomandate pentru urcare.",
-                "en": "Winter tires and snow chains are recommended for the climb."
+                "en": "Winter tires and snow chains are recommended for the climb.",
+                "sk": "Na výjazd sa odporúčajú zimné pneumatiky a snehové reťaze."
               }
             }
           ],
@@ -1473,6 +1604,12 @@
               "Drive defensively and anticipate icy patches.",
               "Roads to the observatory are often cleared late in the day.",
               "An ice scraper is an absolute necessity for this trip."
+            ],
+            "sk": [
+              "Skontrolujte hladinu nemrznúcej kvapaliny v ostrekovačoch.",
+              "Jazdite defenzívne a očakávajte ľadové miesta.",
+              "Cesty k hviezdárni sú často upravované neskoro popoludní.",
+              "Škrabka na ľad je pri tejto ceste absolútnou nevyhnutnosťou."
             ]
           }
         }
@@ -1491,7 +1628,8 @@
             "de": "Cluster 1: Ankunft am Freiheitsplatz",
             "hu": "1. klaszter: Érkezés a Szabadság térre",
             "ro": "Cluster 1: Sosire în Piața Libertății",
-            "en": "Cluster 1: Arrival at Freedom Square"
+            "en": "Cluster 1: Arrival at Freedom Square",
+            "sk": "Klastra 1: Príchod na Námestie slobody"
           },
           "coords": [
             21.9079,
@@ -1507,7 +1645,8 @@
             "de": "Nehmen Sie einen Bus zum Hauptplatz (Námestie slobody), dem idealen Ausgangspunkt.",
             "hu": "Menjen busszal a főtérre (Námestie slobody), amely ideális kiindulópont.",
             "ro": "Luați un autobuz până în piața principală (Námestie slobody), punctul de plecare ideal.",
-            "en": "Take a bus to the main square (Námestie slobody), the ideal starting point."
+            "en": "Take a bus to the main square (Námestie slobody), the ideal starting point.",
+            "sk": "Priďite autobusom na hlavné námestie (Námestie slobody), ideálny východiskový bod."
           }
         },
         {
@@ -1515,7 +1654,8 @@
             "de": "Spaziergang: Statuen & Allerheiligenkirche",
             "hu": "Séta: Szobrok és Mindenszentek-templom",
             "ro": "Plimbare: Statui și Biserica Tuturor Sfinților",
-            "en": "Walk: Statues & All Saints' Church"
+            "en": "Walk: Statues & All Saints' Church",
+            "sk": "Pešo: Sochy & Kostol Všetkých svätých"
           },
           "coords": [
             21.9133,
@@ -1531,7 +1671,8 @@
             "de": "Vom Platz aus sind die Statuen und die Kirche leicht zu Fuß erreichbar.",
             "hu": "A térről a szobrok és a templom könnyen megközelíthetőek gyalog.",
             "ro": "Din piață, statuile și biserica sunt ușor accesibile pe jos.",
-            "en": "From the square, the statues and the church are easily accessible on foot."
+            "en": "From the square, the statues and the church are easily accessible on foot.",
+            "sk": "Zo námestia sú sochy a kostol ľahko dostupné pešo."
           }
         },
         {
@@ -1539,7 +1680,8 @@
             "de": "Cluster 2: Bus zum Schlosskomplex",
             "hu": "2. klaszter: Busszal a kastélykomplexumhoz",
             "ro": "Cluster 2: Autobuz spre Complexul Castelului",
-            "en": "Cluster 2: Bus to the Castle Complex"
+            "en": "Cluster 2: Bus to the Castle Complex",
+            "sk": "Klastra 2: Autobus ku hradnému komplexu"
           },
           "coords": [
             21.9165,
@@ -1555,7 +1697,8 @@
             "de": "Eine kurze Busfahrt bringt Sie zum Schloss. Die Haltestelle ist in der Nähe.",
             "hu": "Egy rövid buszút visz a kastélyhoz. A megálló a közelben van.",
             "ro": "O scurtă călătorie cu autobuzul vă duce la castel. Stația este în apropiere.",
-            "en": "A short bus ride takes you to the castle. The stop is nearby."
+            "en": "A short bus ride takes you to the castle. The stop is nearby.",
+            "sk": "Krátka autobusová jazda vás privedie ku hradu. Zastávka je blízko."
           }
         },
         {
@@ -1563,7 +1706,8 @@
             "de": "Freilichtmuseum (Skanzen)",
             "hu": "Skanzen (Szabadtéri Néprajzi Múzeum)",
             "ro": "Muzeul în aer liber (Skanzen)",
-            "en": "Open-Air Museum (Skanzen)"
+            "en": "Open-Air Museum (Skanzen)",
+            "sk": "Skanzen (Múzeum v prírode)"
           },
           "coords": [
             21.9178,
@@ -1579,7 +1723,8 @@
             "de": "Erkunden Sie die traditionellen Häuser direkt neben dem Schloss.",
             "hu": "Fedezze fel a hagyományos házakat közvetlenül a kastély mellett.",
             "ro": "Explorați casele tradiționale chiar lângă castel.",
-            "en": "Explore the traditional houses right next to the castle."
+            "en": "Explore the traditional houses right next to the castle.",
+            "sk": "Preskúmajte tradičné domy hneď vedľa hradu."
           }
         },
         {
@@ -1587,7 +1732,8 @@
             "de": "Spaziergang im Schlosspark",
             "hu": "Séta a Kastélyparkban",
             "ro": "Plimbare în Parcul Castelului",
-            "en": "Stroll in the Castle Park"
+            "en": "Stroll in the Castle Park",
+            "sk": "Prechádzka v hradnom parku"
           },
           "coords": [
             21.9155,
@@ -1603,7 +1749,8 @@
             "de": "Lassen Sie den Tag im weitläufigen Park ausklingen, bevor Sie einen Bus zurück nehmen.",
             "hu": "Zárja a napot a tágas parkban, mielőtt visszabuszozna.",
             "ro": "Încheiați ziua în parcul întins înainte de a lua un autobuz înapoi.",
-            "en": "End the day in the spacious park before taking a bus back."
+            "en": "End the day in the spacious park before taking a bus back.",
+            "sk": "Ukončite deň v rozľahlom parku pred návratom autobusom."
           }
         }
       ],
@@ -1611,7 +1758,8 @@
         "de": "Mit den öffentlichen Verkehrsmitteln starten Sie bequem am Freiheitsplatz. Ein kurzer Spaziergang führt Sie zu den wichtigsten Sehenswürdigkeiten des Zentrums. Anschließend bringt Sie ein Bus zum Schlosskomplex, wo Sie das Schloss und das Freilichtmuseum in Ihrem eigenen Tempo erkunden können. Der Nachmittag gehört der Entspannung im angrenzenden Schlosspark, einem grünen Juwel, von wo aus Sie leicht eine Verbindung für Ihre Rückfahrt finden.",
         "hu": "Tömegközlekedéssel kényelmesen a Szabadság téren indulhat. Egy rövid séta elvezeti a központ legfontosabb látnivalóihoz. Ezután egy busz elviszi a kastélykomplexumhoz, ahol saját tempójában fedezheti fel a kastélyt és a skanzent. A délután a pihenésé a szomszédos kastélyparkban, egy zöld ékkőben, ahonnan könnyen talál csatlakozást a visszaúthoz.",
         "ro": "Cu transportul public, începeți convenabil din Piața Libertății. O scurtă plimbare vă duce la principalele atracții din centru. Apoi, un autobuz vă duce la complexul castelului, unde puteți explora castelul și muzeul în aer liber în ritmul propriu. După-amiaza este dedicată relaxării în parcul adiacent al castelului, o bijuterie verde, de unde puteți găsi cu ușurință o legătură pentru călătoria de întoarcere.",
-        "en": "Using public transport, you can conveniently start at Freedom Square. A short walk takes you to the main sights of the center. Afterwards, a bus takes you to the castle complex, where you can explore the castle and the open-air museum at your own pace. The afternoon is dedicated to relaxing in the adjacent castle park, a green jewel, from where you can easily find a connection for your return journey."
+        "en": "Using public transport, you can conveniently start at Freedom Square. A short walk takes you to the main sights of the center. Afterwards, a bus takes you to the castle complex, where you can explore the castle and the open-air museum at your own pace. The afternoon is dedicated to relaxing in the adjacent castle park, a green jewel, from where you can easily find a connection for your return journey.",
+        "sk": "Použitím verejnej dopravy môžete pohodlne začať na Námestí slobody. Krátka prechádzka vás zavedie ku hlavným pamiatkam centra. Následne vás autobus odvezie k hradu, kde môžete vo vlastnom tempe preskúmať hrad a skanzen. Popoludnie venujte oddychu v priľahlom hradnom parku, zelenom klenote, odkiaľ ľahko nájdete spoj na návrat."
       },
       "gastro_picks": {
         "de": [
@@ -1731,6 +1879,10 @@
         "en": [
           "Buy a day ticket for public transport, it is often cheaper.",
           "Download the timetable or use an app to check connections."
+        ],
+        "sk": [
+          "Kúpte si celodenný lístok na mestskú dopravu, často je lacnejší.",
+          "Stiahnite si cestovný poriadok alebo použite aplikáciu na kontrolu spojov."
         ]
       },
       "variants": {
@@ -1739,7 +1891,8 @@
             "de": "Mit Bus und Bahn durch das regnerische Humenné. Morgens erreichen Sie den Námestie slobody bequem per Bus. Mittags schützt der Schlossbesuch vor dem Wetter, gefolgt von einer kurzen Fahrt zum Skanzen. Der Nachmittag im Park wird durch die Nähe zu den Haltestellen erleichtert. Den Abend verbringen Sie in Bahnhofsnähe.",
             "hu": "Busszal és vonattal az esős Humennén keresztül. Reggel kényelmesen eléri a Fő teret autóbusszal. Délben a kastélylátogatás védelmet nyújt az időjárás elől, majd egy rövid utazás következik a skanzenig. A délutáni parki séta a megállók közelsége miatt könnyebb. Az estét a vasútállomás környékén töltjük.",
             "ro": "Cu autobuzul și trenul prin Humenné pe timp de ploaie. Dimineața ajungeți confortabil în Piața Libertății. La prânz, vizita la castel vă protejează de intemperii, urmată de o scurtă cursă spre skanzen. După-amiaza în parc este facilitată de proximitatea stațiilor. Seara se încheie lângă gară.",
-            "en": "Navigate rainy Humenné by bus and train. In the morning, reach Freedom Square easily by bus. At noon, the castle visit protects you from the weather, followed by a short transit ride to the Skanzen. Afternoon in the park is made easier by the nearby bus stops. Spend your evening near the train station."
+            "en": "Navigate rainy Humenné by bus and train. In the morning, reach Freedom Square easily by bus. At noon, the castle visit protects you from the weather, followed by a short transit ride to the Skanzen. Afternoon in the park is made easier by the nearby bus stops. Spend your evening near the train station.",
+            "sk": "Navigujte daždivé Humenné autobusmi a vlakmi. Ráno sa autobusom pohodlne dostanete na Námestie slobody. Na obed vás návšteva hradu ochráni pred počasím, po ktorej nasleduje krátky presun k skanzenu. Poobedie v parku uľahčujú blízke autobusové zastávky. Večer strávte pri vlakovej stanici."
           },
           "stops": [
             {
@@ -1748,7 +1901,8 @@
                 "de": "Warten Sie unter dem Haltestellendach, bis der Regen nachlässt.",
                 "hu": "Várjon a megálló fedele alatt, amíg alábbhagy az eső.",
                 "ro": "Așteptați sub copertina stației până se mai potolește ploaia.",
-                "en": "Wait under the bus stop shelter until the rain lets up."
+                "en": "Wait under the bus stop shelter until the rain lets up.",
+                "sk": "Počkajte pod prístreškom na autobusovej zastávke, kým prestane pršať."
               }
             },
             {
@@ -1757,7 +1911,8 @@
                 "de": "Zügiger Fußweg zwischen den Gebäuden einplanen.",
                 "hu": "Tervezzen gyorsabb gyaloglást az épületek között.",
                 "ro": "Planificați un mers rapid între clădiri pentru a nu vă uda.",
-                "en": "Plan for a brisk walk between the indoor highlights."
+                "en": "Plan for a brisk walk between the indoor highlights.",
+                "sk": "Plánujte svižnú chôdzu medzi vnútornými atrakciami."
               }
             },
             {
@@ -1766,7 +1921,8 @@
                 "de": "Nutzen Sie den Bus, um die Distanz im Regen zu überbrücken.",
                 "hu": "Használja a buszt, hogy áthidalja a távolságot az esőben.",
                 "ro": "Folosiți autobuzul pentru a parcurge distanța prin ploaie.",
-                "en": "Use the bus to cover the distance and stay dry."
+                "en": "Use the bus to cover the distance and stay dry.",
+                "sk": "Použite autobus na prekonanie vzdialenosti a zostaňte v suchu."
               }
             },
             {
@@ -1775,7 +1931,8 @@
                 "de": "Haltestelle direkt am Eingang des Schlossparks nutzen.",
                 "hu": "Használja a kastélypark bejáratánál lévő megállót.",
                 "ro": "Folosiți stația direct de la intrarea în parcul castelului.",
-                "en": "Use the bus stop right at the entrance of the castle park."
+                "en": "Use the bus stop right at the entrance of the castle park.",
+                "sk": "Využite autobusovú zastávku priamo pri vstupe do hradného parku."
               }
             },
             {
@@ -1784,7 +1941,8 @@
                 "de": "Bei starkem Regen den Aufenthalt im Park verkürzen.",
                 "hu": "Heves esőzés esetén rövidítse le a parki tartózkodást.",
                 "ro": "În caz de ploaie torențială, scurtați plimbarea în parc.",
-                "en": "Shorten your park visit if the rain becomes too heavy."
+                "en": "Shorten your park visit if the rain becomes too heavy.",
+                "sk": "Skráťte návštevu parku, ak dážď zosilnie."
               }
             }
           ],
@@ -1812,6 +1970,12 @@
               "Have small change or a card ready for ticket purchases.",
               "Buses may experience slight delays during heavy rainfall.",
               "Keep your umbrella ready even for the short walk to the stop."
+            ],
+            "sk": [
+              "Skontrolujte online cestovný poriadok, aby ste nečakali vonku v daždi.",
+              "Majte pripravenú drobnú hotovosť alebo kartu na nákup lístkov.",
+              "Autobusy môžu počas silného dažďa meškať.",
+              "Majte pripravený dáždnik aj na krátku prechádzku k zastávke."
             ]
           }
         },
@@ -1820,7 +1984,8 @@
             "de": "Ein winterlicher Tag in Humenné mit öffentlichen Verkehrsmitteln. Morgens bringt Sie der Bus zum beleuchteten Zentrum. Mittags verbringen Sie viel Zeit im warmen Schloss, bevor es per Transit weitergeht. Der schneebedeckte Skanzen ist ein Highlight am frühen Nachmittag. Da es früh dunkel wird, nutzen Sie die Abendstunden in den belebten Straßen.",
             "hu": "Téli nap Humennében tömegközlekedéssel. Reggel a busz a kivilágított központba viszi. Délben sok időt töltünk a meleg kastélyban, mielőtt továbbutaznánk. A hófödte skanzen a kora délután fénypontja. Mivel korán sötétedik, az esti órákat a forgalmasabb utcákon töltjük.",
             "ro": "O zi de iarnă în Humenné folosind transportul public. Dimineața, autobuzul vă duce în centrul luminat. La prânz, petreceți mult timp în castelul încălzit înainte de a continua drumul. Skanzenul înzăpezit este punctul culminant al după-amiezii. Seara se petrece pe străzile animate.",
-            "en": "Spend a winter day in Humenné using public transport. In the morning, a bus takes you to the lit center. At noon, spend plenty of time in the warm castle before moving on. The snow-covered Skanzen is an early afternoon highlight. Since it gets dark early, enjoy the evening hours in the busy streets."
+            "en": "Spend a winter day in Humenné using public transport. In the morning, a bus takes you to the lit center. At noon, spend plenty of time in the warm castle before moving on. The snow-covered Skanzen is an early afternoon highlight. Since it gets dark early, enjoy the evening hours in the busy streets.",
+            "sk": "Strávte zimný deň v Humennom verejnou dopravou. Ráno vás autobus zavezie do osvetleného centra. Na obed si doprajte dostatok času v teplom kaštieli pred ďalším presunom. Snehom pokrytý skanzen je skvelým popoludňajším zážitkom. Keďže sa stmieva skoro, vychutnajte si večerné hodiny v rušných uliciach."
           },
           "stops": [
             {
@@ -1829,7 +1994,8 @@
                 "de": "Die Busse sind im Winter meist gut beheizt.",
                 "hu": "A buszok télen általában jól fűtöttek.",
                 "ro": "Autobuzele sunt de obicei bine încălzite iarna.",
-                "en": "Buses are generally well-heated during the winter months."
+                "en": "Buses are generally well-heated during the winter months.",
+                "sk": "Autobusy sú počas zimy zvyčajne dobre vykurované."
               }
             },
             {
@@ -1838,7 +2004,8 @@
                 "de": "Vorsicht beim Ein- und Aussteigen auf vereisten Bordsteinen.",
                 "hu": "Vigyázzon a fel- és leszállásnál a jeges padkákon.",
                 "ro": "Atenție la urcare și coborâre pe bordurile înghețate.",
-                "en": "Be careful when boarding and exiting on icy curbsides."
+                "en": "Be careful when boarding and exiting on icy curbsides.",
+                "sk": "Pri nastupovaní a vystupovaní buďte opatrní na zľadovatené obrubníky."
               }
             },
             {
@@ -1847,7 +2014,8 @@
                 "de": "Warten Sie im Inneren des Bahnhofs, wenn möglich.",
                 "hu": "Várjon az állomásépületben, ha lehetséges.",
                 "ro": "Așteptați în interiorul gării, dacă este posibil.",
-                "en": "Wait inside the station building if time allows."
+                "en": "Wait inside the station building if time allows.",
+                "sk": "Ak máte čas, počkajte vo vnútri budovy stanice."
               }
             },
             {
@@ -1856,7 +2024,8 @@
                 "de": "Achten Sie auf die veränderten Winterfahrpläne.",
                 "hu": "Ügyeljen a megváltozott téli menetrendre.",
                 "ro": "Atenție la programele de iarnă modificate.",
-                "en": "Pay attention to potentially modified winter schedules."
+                "en": "Pay attention to potentially modified winter schedules.",
+                "sk": "Dávajte pozor na prípadne upravené zimné cestovné poriadky."
               }
             },
             {
@@ -1865,7 +2034,8 @@
                 "de": "Planen Sie den Rückweg zur Haltestelle vor Einbruch der Dunkelheit.",
                 "hu": "Tervezze meg a visszautat a megállóhoz még sötétedés előtt.",
                 "ro": "Planificați drumul înapoi spre stație înainte de lăsarea serii.",
-                "en": "Plan your walk back to the stop before total darkness."
+                "en": "Plan your walk back to the stop before total darkness.",
+                "sk": "Naplánujte si návrat k zastávke pred úplnou tmou."
               }
             }
           ],
@@ -1893,6 +2063,12 @@
               "Twilight starts as early as 3:45 PM.",
               "Dress warmly for the time spent waiting at bus stops.",
               "Humenné train station provides a heated waiting area."
+            ],
+            "sk": [
+              "Cestovné poriadky sa môžu počas silného sneženia meniť.",
+              "Súmrak môže začať už o 15:45.",
+              "Oblečte sa teplo na čas strávený pri autobusových zastávkach.",
+              "Železničná stanica Humenné poskytuje vykurovanú čakáreň."
             ]
           }
         }

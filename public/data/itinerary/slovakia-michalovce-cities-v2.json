@@ -21,7 +21,8 @@
             "de": "Platz der Befreier (Námestie osloboditeľov)",
             "hu": "Felszabadítók tere (Námestie osloboditeľov)",
             "ro": "Piața Eliberatorilor (Námestie osloboditeľov)",
-            "en": "Liberators' Square (Námestie osloboditeľov)"
+            "en": "Liberators' Square (Námestie osloboditeľov)",
+            "sk": "Námestie osloboditeľov (Námestie osloboditeľov)"
           },
           "coords": [
             21.918,
@@ -37,7 +38,8 @@
             "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee in einem der örtlichen Cafés, um die Atmosphäre aufzusaugen.",
             "hu": "Indítsa a napot egy kávéval az egyik helyi kávézóban, hogy magába szívja a tér hangulatát.",
             "ro": "Începeți ziua aici cu o cafea la una dintre cafenelele locale pentru a absorbi atmosfera.",
-            "en": "Start your day here with a coffee at one of the local cafes to soak in the atmosphere."
+            "en": "Start your day here with a coffee at one of the local cafes to soak in the atmosphere.",
+            "sk": "Začnite deň tu kávou v jednej z miestnych kaviarní a nasajte atmosféru."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Kirche Mariä Geburt",
             "hu": "Szűz Mária Születése templom",
             "ro": "Biserica Nașterea Maicii Domnului",
-            "en": "Church of the Nativity of the Virgin Mary"
+            "en": "Church of the Nativity of the Virgin Mary",
+            "sk": "Kostol Narodenia Panny Márie"
           },
           "coords": [
             21.9195,
@@ -61,7 +64,8 @@
             "de": "Achten Sie auf die beeindruckenden Fresken im Inneren und die byzantinische Architektur.",
             "hu": "Figyelje meg a lenyűgöző belső freskókat és a bizánci stílusú építészetet.",
             "ro": "Observați frescele impresionante din interior și arhitectura de inspirație bizantină.",
-            "en": "Pay attention to the impressive frescoes inside and the Byzantine-style architecture."
+            "en": "Pay attention to the impressive frescoes inside and the Byzantine-style architecture.",
+            "sk": "Venujte pozornosť impozantným freskám vnútri a byzantskej architektúre."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Römisch-katholische Pfarrkirche",
             "hu": "Római katolikus plébániatemplom",
             "ro": "Biserica parohială romano-catolică",
-            "en": "Roman Catholic Parish Church"
+            "en": "Roman Catholic Parish Church",
+            "sk": "Rímskokatolícky farský kostol"
           },
           "coords": [
             21.921,
@@ -85,7 +90,8 @@
             "de": "Bewundern Sie den gotischen Baustil, ein Kontrast zur nahegelegenen byzantinischen Kirche.",
             "hu": "Csodálja meg a gótikus építészeti stílust, amely kontrasztban áll a közeli bizánci templommal.",
             "ro": "Admirați stilul arhitectural gotic, un contrast față de biserica bizantină din apropiere.",
-            "en": "Admire the Gothic architectural style, a contrast to the nearby Byzantine church."
+            "en": "Admire the Gothic architectural style, a contrast to the nearby Byzantine church.",
+            "sk": "Obdivujte gotický architektonický štýl, kontrast k blízkemu byzantskému kostolu."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Sztáray-Herrenhaus",
             "hu": "Sztáray-kastély",
             "ro": "Conacul Sztáray",
-            "en": "Sztáray Manor House"
+            "en": "Sztáray Manor House",
+            "sk": "Kaštieľ Sztáray"
           },
           "coords": [
             21.912,
@@ -109,7 +116,8 @@
             "de": "Das Herrenhaus beherbergt heute das Zemplín-Museum. Planen Sie also einen kombinierten Besuch.",
             "hu": "A kastély ad otthont a Zempléni Múzeumnak, így tervezzen egy összevont látogatást.",
             "ro": "Conacul găzduiește astăzi Muzeul Zemplín, așa că planificați o vizită combinată.",
-            "en": "The manor house now hosts the Zemplín Museum, so plan for a combined visit."
+            "en": "The manor house now hosts the Zemplín Museum, so plan for a combined visit.",
+            "sk": "Kaštieľ dnes hostí Zemplínske múzeum, takže plánujte kombinovanú návštevu."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Zemplín-Museum",
             "hu": "Zempléni Múzeum",
             "ro": "Muzeul Zemplín",
-            "en": "Zemplín Museum"
+            "en": "Zemplín Museum",
+            "sk": "Zemplínske múzeum"
           },
           "coords": [
             21.9122,
@@ -133,7 +142,8 @@
             "de": "Die archäologischen und naturhistorischen Sammlungen sind besonders faszinierend.",
             "hu": "Az régészeti és természettudományi gyűjtemények különösen lenyűgözőek.",
             "ro": "Colecțiile arheologice și de istorie naturală sunt deosebit de fascinante.",
-            "en": "The archaeological and natural history collections are particularly fascinating."
+            "en": "The archaeological and natural history collections are particularly fascinating.",
+            "sk": "Archeologické a prírodovedné zbierky sú obzvlášť fascinujúce."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Sternwarte Michalovce",
             "hu": "Nagymihályi csillagvizsgáló",
             "ro": "Observatorul Astronomic Michalovce",
-            "en": "Michalovce Observatory"
+            "en": "Michalovce Observatory",
+            "sk": "Michalovská hvězdáreň"
           },
           "coords": [
             21.935,
@@ -157,7 +168,8 @@
             "de": "Überprüfen Sie die Öffnungszeiten für öffentliche Beobachtungen, besonders für Abendveranstaltungen.",
             "hu": "Ellenőrizze a nyitvatartási időt a nyilvános megfigyelésekhez, különösen az esti programokhoz.",
             "ro": "Verificați programul pentru observații publice, în special pentru evenimentele de seară.",
-            "en": "Check the schedule for public observation sessions, especially for evening events."
+            "en": "Check the schedule for public observation sessions, especially for evening events.",
+            "sk": "Skontrolujte rozvrh verejných pozorovaní, najmä večerných podujatí."
           }
         }
       ],
@@ -165,7 +177,8 @@
         "de": "Ihr Spaziergang durch Michalovce beginnt am lebhaften Platz der Befreier, dem Herzen der Stadt. Am Vormittag erkunden Sie die sakralen Schätze der Stadt und bewundern die byzantinischen und gotischen Stile der nahegelegenen Kirchen. Nach einem kurzen Spaziergang erreichen Sie zur Mittagszeit das prächtige Sztáray-Herrenhaus, das das aufschlussreiche Zemplín-Museum beherbergt. Hier tauchen Sie tief in die lokale Geschichte und Natur ein. Der Nachmittag ist für einen erfrischenden Spaziergang zur Sternwarte reserviert, wo Sie einen Panoramablick genießen und etwas über den Kosmos lernen können. Beenden Sie den Tag in einem traditionellen Restaurant und genießen Sie die Aromen der Zemplín-Region.",
         "hu": "Sétája Nagymihályon a nyüzsgő Felszabadítók terén, a város szívében kezdődik. Délelőtt a város szakrális kincseit fedezi fel, megcsodálva a közeli templomok bizánci és gótikus stílusát. Délidőben egy rövid sétával eléri a csodálatos Sztáray-kastélyt, amely az informatív Zempléni Múzeumnak ad otthont. Itt mélyen elmerülhet a helyi történelemben és természetben. A délutánt egy frissítő sétára szánjuk a csillagvizsgálóhoz, ahonnan panorámás kilátás nyílik, és a kozmoszról is tanulhat. A napot egy hagyományos étteremben zárja, élvezve a zempléni régió ízeit.",
         "ro": "Plimbarea dvs. prin Michalovce începe în vibranta Piață a Eliberatorilor, inima orașului. Dimineața este dedicată explorării comorilor sacre ale orașului, admirând stilurile bizantin și gotic ale bisericilor din apropiere. La prânz, o scurtă plimbare vă duce la magnificul Conac Sztáray, care găzduiește perspicacele Muzeu Zemplín. Aici, vă veți cufunda în istoria și natura locală. După-amiaza este rezervată unei plimbări revigorante către Observatorul Astronomic pentru vederi panoramice și o lecție despre cosmos. Încheiați ziua la un restaurant tradițional, savurând aromele regiunii Zemplín.",
-        "en": "Your walking tour of Michalovce begins in the vibrant Liberators' Square, the city's heart. The morning is for exploring the city's sacred treasures, admiring the Byzantine and Gothic styles of the nearby churches. By midday, a short walk takes you to the magnificent Sztáray Manor House, which hosts the insightful Zemplín Museum. Here, you'll take a deep dive into local history and nature. The afternoon is reserved for a refreshing walk to the Observatory for panoramic views and a lesson on the cosmos. Conclude your day at a traditional restaurant, savoring the flavors of the Zemplín region."
+        "en": "Your walking tour of Michalovce begins in the vibrant Liberators' Square, the city's heart. The morning is for exploring the city's sacred treasures, admiring the Byzantine and Gothic styles of the nearby churches. By midday, a short walk takes you to the magnificent Sztáray Manor House, which hosts the insightful Zemplín Museum. Here, you'll take a deep dive into local history and nature. The afternoon is reserved for a refreshing walk to the Observatory for panoramic views and a lesson on the cosmos. Conclude your day at a traditional restaurant, savoring the flavors of the Zemplín region.",
+        "sk": "Vaša pešia prehliadka Michaloviec začína na živom Námestí osloboditeľov, srdci mesta. Ráno venujte prieskumu sakrálnych pokladov, obdivujte byzantský a gotický štýl miestnych kostolov. Na poludnie vás krátka prechádzka zavedie k nádhernému kaštieľu Sztáray, kde sídli podnetné Zemplínske múzeum. Tu sa hlboko ponoríte do miestnej histórie a prírody. Popoludnie je rezervované pre osviežujúcu prechádzku k hvězdárni pre panoramatické výhľady a lekciu o kozme. Deň zakončite v tradičnej reštaurácii a vychutnajte si chute Zemplína."
       },
       "gastro_picks": {
         "de": [
@@ -293,6 +306,12 @@
           "Most central sights are easily within walking distance.",
           "Carry a reusable water bottle.",
           "Start early to avoid the crowds."
+        ],
+        "sk": [
+          "Noste pohodlnú obuv, pretože prejdete niekoľko kilometrov.",
+          "Väčšina centrálnych pamiatok je ľahko dostupná pešo.",
+          "Vezmite si opakovane použiteľnú fľašu na vodu.",
+          "Začnite skoro, aby ste sa vyhli davom."
         ]
       },
       "variants": {
@@ -301,7 +320,8 @@
             "de": "Beginnen Sie Ihren regnerischen Spaziergang am Námestie osloboditeľov, wo die Architektur unter grauem Himmel glänzt. Die Kirchen bieten trockene Zuflucht für Besinnung. Mittags ziehen Sie sich in das Zemplín-Museum im Sztáray-Herrenhaus zurück, um tief in die Geschichte einzutauchen. Der Tag endet mit einem Blick von der Sternwarte, während die Regentropfen gegen die Kuppel trommeln.",
             "hu": "Kezdje esős sétáját a Felszabadítók terén, ahol a vizes aszfalton tükröződnek a fények. A templomok tökéletes menedéket nyújtanak a zápor elől. Délután a Sztáray-kastély falai között, a Zempléni Múzeumban kalandozhat szárazon. A napot a csillagvizsgálóban zárja, ahol a borús idő ellenére is érdekes tudományos előadások várják a látogatókat.",
             "ro": "Începeți plimbarea ploioasă în Piața Eliberatorilor, admirând reflexiile pe pavaj. Bisericile oferă un adăpost liniștit și uscat pentru momente de introspecție. La prânz, vizitați Muzeul Zemplín din Conacul Sztáray pentru o experiență culturală ferită de intemperii. Încheiați ziua la Observator, ascultând ropotul ploii pe cupolă în timp ce învățați despre univers.",
-            "en": "Start your rainy walk at Liberators' Square, where the wet pavement reflects the historic surroundings. The churches provide perfect dry havens for exploration. Midday is best spent inside the Zemplín Museum at Sztáray Manor, safely away from the rain. End your day at the Observatory, where the indoor exhibits offer a great alternative to outdoor sightseeing."
+            "en": "Start your rainy walk at Liberators' Square, where the wet pavement reflects the historic surroundings. The churches provide perfect dry havens for exploration. Midday is best spent inside the Zemplín Museum at Sztáray Manor, safely away from the rain. End your day at the Observatory, where the indoor exhibits offer a great alternative to outdoor sightseeing.",
+            "sk": "Začnite svoju prechádzku v daždi na Námestí osloboditeľov, kde mokrý chodník odráža historické okolie. Kostoly poskytujú ideálne suché útočisko na objavovanie. Poludnie je najlepšie stráviť v Zemplínskom múzeu v kaštieli Sztáray, bezpečne mimo dažďa. Deň ukončite v Hvezdárni, kde vnútorné expozície ponúkajú skvelú alternatívu k prehliadke vonku."
           },
           "stops": [
             {
@@ -310,7 +330,8 @@
                 "de": "Nutzen Sie die Arkaden der umliegenden Geschäfte, um trocken zu bleiben.",
                 "hu": "Használja a környező üzletek árkádjait, hogy ne ázzon el.",
                 "ro": "Folosiți arcadele magazinelor din jur pentru a rămâne uscat.",
-                "en": "Use the arcades of the surrounding shops to stay dry."
+                "en": "Use the arcades of the surrounding shops to stay dry.",
+                "sk": "Schovajte sa do arkád obchody okolo námestia, aby ste zostali v suchu."
               }
             },
             {
@@ -319,7 +340,8 @@
                 "de": "Ideal, um einen heftigen Regenschauer im prachtvollen Innenraum abzuwarten.",
                 "hu": "Ideális hely egy heves zápor kivárására a pompás belső térben.",
                 "ro": "Loc ideal pentru a aștepta trecerea unei averse în interiorul superb.",
-                "en": "Ideal place to wait out a heavy downpour inside the magnificent interior."
+                "en": "Ideal place to wait out a heavy downpour inside the magnificent interior.",
+                "sk": "Ideálne miesto na prečkanie silného lejaku vo vnútri veľkolepého interiéru."
               }
             },
             {
@@ -328,7 +350,8 @@
                 "de": "Bewundern Sie die Details, während draußen der Regen fällt.",
                 "hu": "Csodálja meg a részleteket, miközben kint dobol az eső.",
                 "ro": "Admirați detaliile în timp ce ploaia bate în geamuri afară.",
-                "en": "Admire the details while the rain drums on the windows outside."
+                "en": "Admire the details while the rain drums on the windows outside.",
+                "sk": "Obdivujte detaily, zatiaľ čo dažďové kvapky bubnujú na oknách vonku."
               }
             },
             {
@@ -337,7 +360,8 @@
                 "de": "Ein langer Aufenthalt im Inneren ist perfekt für regnerische Vormittage.",
                 "hu": "A hosszú benti tartózkodás tökéletes az esős délelőttökhöz.",
                 "ro": "O ședere lungă în interior este perfectă pentru diminețile ploioase.",
-                "en": "A long indoor stay is perfect for rainy mornings."
+                "en": "A long indoor stay is perfect for rainy mornings.",
+                "sk": "Dlhší pobyt vo vnútri je ideálny na daždivé rána."
               }
             },
             {
@@ -346,7 +370,8 @@
                 "de": "Geben Sie Ihren nassen Schirm am Eingang ab und genießen Sie die Ausstellungen.",
                 "hu": "Adja le nedves esernyőjét a bejáratnál, és élvezze a kiállításokat.",
                 "ro": "Lăsați umbrela udă la intrare și bucurați-vă de expoziții.",
-                "en": "Leave your wet umbrella at the entrance and enjoy the exhibitions."
+                "en": "Leave your wet umbrella at the entrance and enjoy the exhibitions.",
+                "sk": "Nechajte mokrý dáždnik pri vchode a užite si expozície."
               }
             },
             {
@@ -355,7 +380,8 @@
                 "de": "Die Innenräume bieten Schutz und Wissen bei jedem Wetter.",
                 "hu": "A belső terek védelmet és tudást kínálnak bármilyen időben.",
                 "ro": "Spațiile interioare oferă protecție și cunoștințe pe orice vreme.",
-                "en": "The indoor spaces offer protection and knowledge in any weather."
+                "en": "The indoor spaces offer protection and knowledge in any weather.",
+                "sk": "Vnútorné priestory ponúkajú ochranu a vedomosti za každého počasia."
               }
             }
           ],
@@ -383,6 +409,12 @@
               "Museums and churches are excellent places to escape the showers.",
               "A foldable umbrella is more practical for the city walk.",
               "Plan more time for indoor sightseeing."
+            ],
+            "sk": [
+              "Obujte nepremokavú obuv, na námestí sa môžu tvoriť kaluže.",
+              "Múzeá a kostoly sú vynikajúcim útočiskom pred dažďom.",
+              "Skladací dáždnik je praktickejší na mestskú prechádzku.",
+              "Plánujte viac času na vnútorné prehliadky."
             ]
           }
         },
@@ -391,7 +423,8 @@
             "de": "Ein winterlicher Spaziergang durch Michalovce beginnt erfrischend am Marktplatz. Die beheizten Kirchen bieten eine warme Pause zwischen den historischen Stopps. Mittags wärmt die reiche Geschichte im Zemplín-Museum Geist und Körper auf. Da es früh dunkel wird, bietet die Sternwarte am späten Nachmittag die perfekte Atmosphäre für winterliche Himmelsbeobachtungen.",
             "hu": "A téli séta Michalovcében frissítően indul a főtéren. A fűtött templomok kellemes pihenőt nyújtanak a történelmi megállók között. Délben a Zempléni Múzeum gazdag tárlata melengeti meg a lelket és a testet. Mivel korán sötétedik, a csillagvizsgáló késő délután már tökéletes hangulatot áraszt a téli égbolt megfigyeléséhez.",
             "ro": "O plimbare de iarnă prin Michalovce începe revigorant în piața centrală. Bisericile încălzite oferă un popas plăcut între obiectivele istorice. La prânz, istoria bogată de la Muzeul Zemplín vă va încălzi spiritul. Deoarece se întunecă devreme, Observatorul oferă atmosfera perfectă pentru observații stelare de iarnă încă de după-amiază.",
-            "en": "A winter stroll through Michalovce starts refreshingly at the main square. Heated churches offer a warm respite between historic stops. Midday is the time to warm up inside the Zemplín Museum while exploring local history. Since it gets dark early, the Observatory provides the perfect late-afternoon atmosphere for winter stargazing."
+            "en": "A winter stroll through Michalovce starts refreshingly at the main square. Heated churches offer a warm respite between historic stops. Midday is the time to warm up inside the Zemplín Museum while exploring local history. Since it gets dark early, the Observatory provides the perfect late-afternoon atmosphere for winter stargazing.",
+            "sk": "Zimná prechádzka Michalovcami začína osviežujúco na hlavnom námestí. Vyhrievané kostoly ponúkajú teplý oddych medzi historickými zastávkami. Poludnie je čas zahriať sa v Zemplínskom múzeu pri spoznávaní miestnej histórie. Keďže sa skoro stmieva, Hvezdáreň poskytuje dokonalú atmosféru na popoludňajšie pozorovanie hviezd."
           },
           "stops": [
             {
@@ -400,7 +433,8 @@
                 "de": "Genießen Sie die Winterbeleuchtung und suchen Sie ein warmes Café.",
                 "hu": "Élvezze a téli kivilágítást, és keressen egy meleg kávézót.",
                 "ro": "Bucurați-vă de iluminatul de iarnă și căutați o cafenea caldă.",
-                "en": "Enjoy the winter lights and look for a warm café."
+                "en": "Enjoy the winter lights and look for a warm café.",
+                "sk": "Užite si zimné svetlá a hľadajte teplú kaviareň."
               }
             },
             {
@@ -409,7 +443,8 @@
                 "de": "Die dicken Mauern schützen vor dem kalten Wind.",
                 "hu": "A vastag falak megvédenek a hideg széltől.",
                 "ro": "Zidurile groase vă protejează de vântul rece.",
-                "en": "The thick walls protect you from the cold wind."
+                "en": "The thick walls protect you from the cold wind.",
+                "sk": "Hrubé múry vás chránia pred studeným vetrom."
               }
             },
             {
@@ -418,7 +453,8 @@
                 "de": "Ein Ort der Stille und moderaten Wärme im Winter.",
                 "hu": "A csend és a mérsékelt meleg helyszíne télen.",
                 "ro": "Un loc de liniște și căldură moderată pe timp de iarnă.",
-                "en": "A place of silence and moderate warmth in winter."
+                "en": "A place of silence and moderate warmth in winter.",
+                "sk": "Miesto ticha a mierneho tepla v zime."
               }
             },
             {
@@ -427,7 +463,8 @@
                 "de": "Wärmen Sie sich in den prachtvollen Räumen des Herrenhauses auf.",
                 "hu": "Melegedjen fel a kastély impozáns termeiben.",
                 "ro": "Încălziți-vă în sălile impunătoare ale conacului.",
-                "en": "Warm up in the impressive rooms of the manor house."
+                "en": "Warm up in the impressive rooms of the manor house.",
+                "sk": "Zahrejte sa v impozantných izbách kaštieľa."
               }
             },
             {
@@ -436,7 +473,8 @@
                 "de": "Nutzen Sie die Garderobe für Ihre schwere Winterkleidung.",
                 "hu": "Használja a ruhatárat a nehéz téli kabátokhoz.",
                 "ro": "Folosiți garderoba pentru hainele grele de iarnă.",
-                "en": "Use the cloakroom for your heavy winter coats."
+                "en": "Use the cloakroom for your heavy winter coats.",
+                "sk": "Využite šatňu na objemné zimné kabáty."
               }
             },
             {
@@ -445,7 +483,8 @@
                 "de": "Frühe Dunkelheit bedeutet frühere Beobachtungsmöglichkeiten.",
                 "hu": "A korai sötétedés korábbi megfigyelési lehetőséget jelent.",
                 "ro": "Întunericul timpuriu înseamnă oportunități de observare mai devreme.",
-                "en": "Early darkness means earlier observation opportunities."
+                "en": "Early darkness means earlier observation opportunities.",
+                "sk": "Skoré stmavnutie znamená skoršie možnosti pozorovania."
               }
             }
           ],
@@ -473,6 +512,12 @@
               "Watch out for slippery spots on the pavement.",
               "The sun sets around 4:00 PM in winter.",
               "Churches can be cooler than museums, keep your jacket on."
+            ],
+            "sk": [
+              "Obliecť sa vrstvami, lebo vo vnútri múzeí je teplo.",
+              "Dávajte pozor na šmykľavé miesta na chodníku.",
+              "Slnko zapadá v zime okolo 16:00.",
+              "Kostoly môžu byť chladnejšie než múzeá, majte bundu na sebe."
             ]
           }
         }
@@ -491,7 +536,8 @@
             "de": "Platz der Befreier (Námestie osloboditeľov)",
             "hu": "Felszabadítók tere (Námestie osloboditeľov)",
             "ro": "Piața Eliberatorilor (Námestie osloboditeľov)",
-            "en": "Liberators' Square (Námestie osloboditeľov)"
+            "en": "Liberators' Square (Námestie osloboditeľov)",
+            "sk": "Námestie osloboditeľov (Námestie osloboditeľov)"
           },
           "coords": [
             21.918,
@@ -507,7 +553,8 @@
             "de": "Schließen Sie Ihr Fahrrad sicher ab und machen Sie einen Spaziergang über den Hauptplatz.",
             "hu": "Zárja le biztonságosan a kerékpárját, és sétáljon egyet a főtéren.",
             "ro": "Asigurați-vă bicicleta și faceți o plimbare prin piața principală.",
-            "en": "Lock your bike securely and take a stroll around the main square."
+            "en": "Lock your bike securely and take a stroll around the main square.",
+            "sk": "Zamknete si bicykel bezpečne a prejdite sa po hlavnom námestí."
           }
         },
         {
@@ -515,7 +562,8 @@
             "de": "Römisch-katholische Pfarrkirche",
             "hu": "Római katolikus plébániatemplom",
             "ro": "Biserica parohială romano-catolică",
-            "en": "Roman Catholic Parish Church"
+            "en": "Roman Catholic Parish Church",
+            "sk": "Rímskokatolícka farnosť"
           },
           "coords": [
             21.921,
@@ -531,7 +579,8 @@
             "de": "Eine kurze Radtour vom Hauptplatz entfernt, ist diese Kirche leicht erreichbar.",
             "hu": "A főtértől egy rövid biciklizésre található ez a templom, könnyen megközelíthető.",
             "ro": "O scurtă plimbare cu bicicleta din piața principală, această biserică este ușor accesibilă.",
-            "en": "A short bike ride from the main square, this church is easily accessible."
+            "en": "A short bike ride from the main square, this church is easily accessible.",
+            "sk": "Krátka jazda na bicykli z hlavného námestia, tento kostol je ľahko dostupný."
           }
         },
         {
@@ -539,7 +588,8 @@
             "de": "Kirche Mariä Geburt",
             "hu": "Szűz Mária Születése templom",
             "ro": "Biserica Nașterea Maicii Domnului",
-            "en": "Church of the Nativity of the Virgin Mary"
+            "en": "Church of the Nativity of the Virgin Mary",
+            "sk": "Kostol Narodenia Panny Márie"
           },
           "coords": [
             21.9195,
@@ -555,7 +605,8 @@
             "de": "Radeln Sie zurück ins Zentrum, um diese beeindruckende byzantinische Struktur zu sehen.",
             "hu": "Tekerjen vissza a központba, hogy megnézze ezt a lenyűgöző bizánci épületet.",
             "ro": "Pedalați înapoi spre centru pentru a vedea această structură bizantină impresionantă.",
-            "en": "Cycle back towards the center to see this impressive Byzantine structure."
+            "en": "Cycle back towards the center to see this impressive Byzantine structure.",
+            "sk": "Zatri cyklistiku späť smerom do centra, aby ste videli tento impozantný byzantský objekt."
           }
         },
         {
@@ -563,7 +614,8 @@
             "de": "Sztáray-Herrenhaus & Zemplín-Museum",
             "hu": "Sztáray-kastély & Zempléni Múzeum",
             "ro": "Conacul Sztáray & Muzeul Zemplín",
-            "en": "Sztáray Manor House & Zemplín Museum"
+            "en": "Sztáray Manor House & Zemplín Museum",
+            "sk": "Kaštieľ Sztáray a Zemplínske múzeum"
           },
           "coords": [
             21.912,
@@ -579,7 +631,8 @@
             "de": "Parken Sie Ihr Fahrrad und verbringen Sie eine lange Zeit damit, das Herrenhaus und das Museum zu erkunden.",
             "hu": "Parkolja le a kerékpárt, és töltsön el hosszabb időt a kastély és a múzeum felfedezésével.",
             "ro": "Parcați bicicleta și petreceți un timp îndelungat explorând conacul și muzeul.",
-            "en": "Park your bike and spend a good amount of time exploring both the manor and the museum."
+            "en": "Park your bike and spend a good amount of time exploring both the manor and the museum.",
+            "sk": "Zaparkujte bicykel a venujte dostatok času prehliadke kaštieľa aj múzea."
           }
         },
         {
@@ -587,7 +640,8 @@
             "de": "Sternwarte Michalovce",
             "hu": "Nagymihályi csillagvizsgáló",
             "ro": "Observatorul Astronomic Michalovce",
-            "en": "Michalovce Observatory"
+            "en": "Michalovce Observatory",
+            "sk": "Michalovská hvezdáreň"
           },
           "coords": [
             21.935,
@@ -603,7 +657,8 @@
             "de": "Die Fahrt bergauf kann eine Herausforderung sein, aber die Aussicht ist es wert.",
             "hu": "Az emelkedő kihívást jelenthet, de a kilátás megéri.",
             "ro": "Urcușul poate fi o provocare, dar priveliștea merită efortul.",
-            "en": "The ride uphill can be challenging, but the views are worth it."
+            "en": "The ride uphill can be challenging, but the views are worth it.",
+            "sk": "Stúpanie hore môže byť náročné, ale výhľady stoja za to."
           }
         },
         {
@@ -611,7 +666,8 @@
             "de": "Antonius-von-Padua-Kapelle",
             "hu": "Páduai Szent Antal kápolna",
             "ro": "Capela Sfântul Anton de Padova",
-            "en": "Chapel of Saint Anthony of Padua"
+            "en": "Chapel of Saint Anthony of Padua",
+            "sk": "Kaplnka svätého Antona Paduánskeho"
           },
           "coords": [
             21.905,
@@ -627,7 +683,8 @@
             "de": "Ein friedlicher Halt auf dem Rückweg ins Stadtzentrum.",
             "hu": "Egy békés megálló a városközpont felé vezető úton.",
             "ro": "O oprire liniștită pe drumul de întoarcere spre centrul orașului.",
-            "en": "A peaceful stop on your way back towards the city center."
+            "en": "A peaceful stop on your way back towards the city center.",
+            "sk": "Pokojné zastavenie na ceste späť do centra mesta."
           }
         }
       ],
@@ -635,7 +692,8 @@
         "de": "Entdecken Sie Michalovce auf zwei Rädern. Beginnen Sie am Platz der Befreier und radeln Sie dann zu den wichtigsten Kirchen der Stadt. Die flachen Straßen im Zentrum sind ideal für eine gemütliche Fahrt. Zur Mittagszeit radeln Sie zum Zemplín-Museumskomplex für eine kulturelle Pause. Der Nachmittag bringt eine kleine Herausforderung mit der Fahrt zur Sternwarte, die Sie mit einer fantastischen Aussicht belohnt. Auf dem Rückweg halten Sie an der ruhigen Antonius-von-Padua-Kapelle, bevor Sie den Tag mit einem herzhaften slowakischen Abendessen ausklingen lassen.",
         "hu": "Fedezze fel Nagymihályt két keréken. Induljon a Felszabadítók teréről, majd tekerjen el a város fő templomaihoz. A központ sík utcái ideálisak egy kényelmes biciklizéshez. Délidőben a Zempléni Múzeum komplexumához kerekezik egy kulturális szünetre. A délután egy kis kihívást tartogat a csillagvizsgálóhoz vezető úttal, amely fantasztikus kilátással jutalmazza. Visszafelé megáll a békés Páduai Szent Antal kápolnánál, mielőtt egy kiadós szlovák vacsorával zárná a napot.",
         "ro": "Explorați Michalovce pe două roți. Începeți din Piața Eliberatorilor, apoi pedalați către bisericile cheie ale orașului. Străzile plate din centru sunt perfecte pentru o plimbare relaxantă. La prânz, mergeți cu bicicleta la complexul Muzeului Zemplín pentru o pauză culturală. După-amiaza aduce o mică provocare cu drumul către Observator, care vă răsplătește cu vederi fantastice. Pe drumul de întoarcere, opriți-vă la liniștita Capelă a Sfântului Anton de Padova înainte de a încheia ziua cu o cină slovacă copioasă.",
-        "en": "Explore Michalovce on two wheels. Start at Liberators' Square, then pedal to the city's key churches. The flat central streets are perfect for a leisurely ride. For midday, cycle to the Zemplín Museum complex for a cultural break. The afternoon brings a bit of a challenge with the ride up to the Observatory, rewarding you with fantastic views. On your way back, stop at the peaceful Chapel of Saint Anthony of Padua before ending your day with a hearty Slovak dinner."
+        "en": "Explore Michalovce on two wheels. Start at Liberators' Square, then pedal to the city's key churches. The flat central streets are perfect for a leisurely ride. For midday, cycle to the Zemplín Museum complex for a cultural break. The afternoon brings a bit of a challenge with the ride up to the Observatory, rewarding you with fantastic views. On your way back, stop at the peaceful Chapel of Saint Anthony of Padua before ending your day with a hearty Slovak dinner.",
+        "sk": "Preskúmajte Michalovce na dvoch kolesách. Začnite na Námestí osloboditeľov, potom pedálmi k hlavným kostolom mesta. Rovné centrálne ulice sú ideálne na pohodovú jazdu. Na poludnie zamierte do komplexu Zemplínskeho múzea na kultúrnu prestávku. Popoludní príde výzva s výjazdom k Hvezdárni, ktorá vás odmení fantastickými výhľadmi. Cestou späť sa zastavte pri pokojnej Kaplnke sv. Antona Paduánskeho a deň zakončite vydatnou slovenskou večerou."
       },
       "gastro_picks": {
         "de": [
@@ -743,6 +801,12 @@
           "Michalovce is relatively flat, but the ride to the observatory requires some effort.",
           "Wear a helmet and use lights if riding in the evening.",
           "Some streets may not have dedicated bike lanes, so be cautious."
+        ],
+        "sk": [
+          "Skontrolujte bicykel pred odjazdom.",
+          "Michalovce sú relatívne rovné, ale cesta k hvezdárni vyžaduje námahu.",
+          "Noste prilbu a používajte svetlá, ak jazdíte večer.",
+          "Niektoré ulice nemusia mať vyhradené cyklotrasy, buďte opatrní."
         ]
       },
       "variants": {
@@ -751,7 +815,8 @@
             "de": "Trotzen Sie dem Regen auf zwei Rädern durch Michalovce. Der kurze Weg zwischen den Kirchen hält die Belastung gering. Das Sztáray-Herrenhaus bietet eine ausgiebige trockene Pause für Radfahrer. Am Nachmittag führt die Fahrt zur Sternwarte, wo Sie Ihr Rad abstellen und im Trockenen forschen können. Ein Tag für wetterfeste Abenteurer.",
             "hu": "Dacoljon az esővel két keréken Michalovcében. A templomok közötti rövid távolság minimalizálja az ázást. A Sztáray-kastély bőséges száraz pihenőt kínál a bringásoknak. Délután a csillagvizsgáló felé vezet az út, ahol leparkolhat, és fedett helyen kutathat. Egy nap az időjárásálló kalandoroknak.",
             "ro": "Înfruntați ploaia pe două roți prin Michalovce. Distanța scurtă dintre biserici reduce expunerea la intemperii. Conacul Sztáray oferă o pauză lungă și uscată pentru bicicliști. După-amiaza, drumul duce spre Observator, unde puteți lăsa bicicleta și explora la adăpost. O zi pentru aventurieri rezistenți.",
-            "en": "Brave the rain on two wheels through Michalovce. The short distance between churches minimizes your time in the rain. Sztáray Manor offers a generous dry break for cyclists. In the afternoon, head to the Observatory where you can park and explore indoors. A day for weather-proof adventurers."
+            "en": "Brave the rain on two wheels through Michalovce. The short distance between churches minimizes your time in the rain. Sztáray Manor offers a generous dry break for cyclists. In the afternoon, head to the Observatory where you can park and explore indoors. A day for weather-proof adventurers.",
+            "sk": "Odvážte sa do dažďa na dvoch kolesách cez Michalovce. Krátke vzdialenosti medzi kostolmi minimalizujú čas strávený v daždi. Kaštieľ Sztáray ponúka štedrú suchú prestávku pre cyklistov. Popoludní zamierte k Hvezdárni, kde môžete zaparkovať a preskúmať vnútorné priestory. Deň pre odolných voči počasiu."
           },
           "stops": [
             {
@@ -760,7 +825,8 @@
                 "de": "Vorsicht beim Bremsen auf nassem Kopfsteinpflaster.",
                 "hu": "Vigyázzon a fékezéssel a nedves macskakövön.",
                 "ro": "Atenție la frânare pe pavajul umed.",
-                "en": "Be careful when braking on wet cobblestones."
+                "en": "Be careful when braking on wet cobblestones.",
+                "sk": "Buďte opatrní pri brzdení na mokrých kockách dlažby."
               }
             },
             {
@@ -769,7 +835,8 @@
                 "de": "Suchen Sie einen geschützten Abstellplatz für Ihr Fahrrad.",
                 "hu": "Keressen védett helyet a kerékpár leparkolásához.",
                 "ro": "Căutați un loc protejat pentru a lăsa bicicleta.",
-                "en": "Look for a sheltered spot to park your bike."
+                "en": "Look for a sheltered spot to park your bike.",
+                "sk": "Hľadajte kryté miesto na zaparkovanie bicykla."
               }
             },
             {
@@ -778,7 +845,8 @@
                 "de": "Kurzer Stopp, um die Ausrüstung zu richten.",
                 "hu": "Rövid megálló a felszerelés igazítására.",
                 "ro": "Scurt popas pentru a vă ajusta echipamentul.",
-                "en": "Short stop to adjust your gear."
+                "en": "Short stop to adjust your gear.",
+                "sk": "Krátka zastávka na doladenie výbavy."
               }
             },
             {
@@ -787,7 +855,8 @@
                 "de": "Perfekter Ort, um die Regenkleidung kurz zu lüften.",
                 "hu": "Tökéletes hely az esőruházat rövid szellőztetésére.",
                 "ro": "Loc perfect pentru a vă aerisi puțin hainele de ploaie.",
-                "en": "Perfect place to air out your rain gear briefly."
+                "en": "Perfect place to air out your rain gear briefly.",
+                "sk": "Perfektné miesto na krátke vysušenie pršiplášťa."
               }
             },
             {
@@ -796,7 +865,8 @@
                 "de": "Der Anstieg kann bei Regen rutschig sein, fahren Sie vorsichtig.",
                 "hu": "Az emelkedő esőben csúszós lehet, hajtson óvatosan.",
                 "ro": "Urcarea poate fi alunecoasă pe ploaie, pedalați cu atenție.",
-                "en": "The climb can be slippery in the rain, ride carefully."
+                "en": "The climb can be slippery in the rain, ride carefully.",
+                "sk": "Stúpanie môže byť v daždi šmykľavé, jazdite opatrne."
               }
             },
             {
@@ -805,7 +875,8 @@
                 "de": "Ein ruhiger Endpunkt unter schützenden Bäumen.",
                 "hu": "Csendes végállomás védelmező fák alatt.",
                 "ro": "Un punct final liniștit sub copaci protectori.",
-                "en": "A quiet end point under protective trees."
+                "en": "A quiet end point under protective trees.",
+                "sk": "Pokojný cieľ pod ochrannými stromami."
               }
             }
           ],
@@ -833,6 +904,12 @@
               "Check your brakes before starting in the rain.",
               "Wear a bright raincoat for better visibility.",
               "Mudguards are essential in this weather."
+            ],
+            "sk": [
+              "Vyhnite sa kalužiam, môžu skrývať priehlbiny.",
+              "Skontrolujte brzdy pred štartom v daždi.",
+              "Noste jasný nepremokavý plášť pre lepšiu viditeľnosť.",
+              "Blatníky sú v takomto počasí nevyhnutné."
             ]
           }
         },
@@ -841,7 +918,8 @@
             "de": "Erkunden Sie das winterliche Michalovce auf dem Rad. Die klare Luft belebt die Fahrt zwischen den architektonischen Highlights. In den Museen finden Sie die nötige Wärme, um die Tour fortzusetzen. Die Sternwarte ist das Highlight am Nachmittag, bevor die Winterkälte zu stark wird. Ein sportlicher Tag mit vielen kulturellen Aufwärmpausen.",
             "hu": "Fedezze fel a téli Michalovcét kerékpáron. A tiszta levegő élénkíti az utat az építészeti remekművek között. A múzeumokban megtalálja a szükséges meleget a túra folytatásához. A csillagvizsgáló a délután fénypontja, mielőtt a téli hideg túl erőssé válna. Sportos nap kulturális melegedőkkel tarkítva.",
             "ro": "Explorați Michalovce în straie de iarnă pe bicicletă. Aerul curat revigorează traseul printre bijuteriile arhitecturale. În muzee veți găsi căldura necesară pentru a continua turul. Observatorul este punctul culminant al după-amiezii. O zi sportivă presărată cu pauze culturale de încălzire.",
-            "en": "Explore winter Michalovce on a bike. The crisp air invigorates the ride between architectural highlights. You'll find the necessary warmth in museums to continue your tour. The Observatory is the afternoon highlight before the winter cold sets in. A sporty day balanced with cultural warm-up breaks."
+            "en": "Explore winter Michalovce on a bike. The crisp air invigorates the ride between architectural highlights. You'll find the necessary warmth in museums to continue your tour. The Observatory is the afternoon highlight before the winter cold sets in. A sporty day balanced with cultural warm-up breaks.",
+            "sk": "Preskúmajte zimné Michalovce na bicykli. Ostrý vzduch povzbudí jazdu medzi architektonickými skvostmi. Potrebné teplo nájdete v múzeách, aby ste mohli pokračovať v prehliadke. Hvezdáreň je popoludňajším vrcholom pred príchodom zimného chladu. Športový deň vyvážený kultúrnymi oázami na zahriatie."
           },
           "stops": [
             {
@@ -850,7 +928,8 @@
                 "de": "Vorsicht vor vereisten Stellen auf dem Platz.",
                 "hu": "Vigyázzon a jeges foltokra a téren.",
                 "ro": "Atenție la porțiunile înghețate din piață.",
-                "en": "Watch out for icy patches on the square."
+                "en": "Watch out for icy patches on the square.",
+                "sk": "Dávajte pozor na zamrznuté miesta na námestí."
               }
             },
             {
@@ -859,7 +938,8 @@
                 "de": "Kurze Pause, um die kalten Finger aufzuwärmen.",
                 "hu": "Rövid szünet a hideg ujjak felmelegítésére.",
                 "ro": "Scurtă pauză pentru a vă încălzi degetele amorțite.",
-                "en": "Short break to warm up cold fingers."
+                "en": "Short break to warm up cold fingers.",
+                "sk": "Krátka prestávka na zahrievanie studených prstov."
               }
             },
             {
@@ -868,7 +948,8 @@
                 "de": "Nutzen Sie das Lichtspiel im Inneren.",
                 "hu": "Élvezze a benti fényjátékot.",
                 "ro": "Bucurați-vă de jocul de lumini din interior.",
-                "en": "Enjoy the play of light inside."
+                "en": "Enjoy the play of light inside.",
+                "sk": "Užite si hru svetla vo vnútri."
               }
             },
             {
@@ -877,7 +958,8 @@
                 "de": "Längere Pause einplanen, um den Körper aufzutauen.",
                 "hu": "Tervezzen hosszabb pihenőt a test felmelegítésére.",
                 "ro": "Alocați o pauză mai lungă pentru a vă dezmorți.",
-                "en": "Plan a longer break to thaw out your body."
+                "en": "Plan a longer break to thaw out your body.",
+                "sk": "Plánujte dlhšiu prestávku na rozhriatie tela."
               }
             },
             {
@@ -886,7 +968,8 @@
                 "de": "Warme Kleidung ist für den Aufenthalt hier wichtig.",
                 "hu": "A meleg ruházat fontos az itt-tartózkodáshoz.",
                 "ro": "Îmbrăcămintea groasă este esențială pentru vizită.",
-                "en": "Warm clothing is essential for your stay here."
+                "en": "Warm clothing is essential for your stay here.",
+                "sk": "Teplé oblečenie je pri pobyte tu nevyhnutné."
               }
             },
             {
@@ -895,7 +978,8 @@
                 "de": "Die Winterstille hier ist besonders friedlich.",
                 "hu": "A téli csend itt különösen békés.",
                 "ro": "Liniștea iernii este deosebit de pașnică aici.",
-                "en": "The winter silence here is especially peaceful."
+                "en": "The winter silence here is especially peaceful.",
+                "sk": "Zimné ticho je tu obzvlášť pokojné."
               }
             }
           ],
@@ -923,6 +1007,12 @@
               "Watch out for road salt as it can corrode your chain.",
               "Use bright lights as visibility is often limited.",
               "Keep the cycling stretches short between stops."
+            ],
+            "sk": [
+              "Noste vetruodolné rukavice a čiapku pod prilbou.",
+              "Dávajte pozor na soľ na cestách, môže korodovať reťaz.",
+              "Používajte jasné svetlá, pretože viditeľnosť býva obmedzená.",
+              "Udržiavajte cyklistické úseky krátke medzi zastávkami."
             ]
           }
         }
@@ -941,7 +1031,8 @@
             "de": "Cluster A: Historisches Zentrum",
             "hu": "A klaszter: Történelmi központ",
             "ro": "Cluster A: Centrul Istoric",
-            "en": "Cluster A: Historic Center"
+            "en": "Cluster A: Historic Center",
+            "sk": "Klaster A: Historické centrum"
           },
           "coords": [
             21.918,
@@ -957,7 +1048,8 @@
             "de": "Parken Sie in der Nähe des Platzes der Befreier. Dies ist Ihr Ausgangspunkt für den Vormittag.",
             "hu": "Parkoljon a Felszabadítók tere közelében. Ez lesz a kiindulópontja a délelőttre.",
             "ro": "Parcați lângă Piața Eliberatorilor. Acesta este punctul dvs. de plecare pentru dimineață.",
-            "en": "Park near Liberators' Square. This will be your base for the morning."
+            "en": "Park near Liberators' Square. This will be your base for the morning.",
+            "sk": "Zaparkujte pri Námestí osloboditeľov. Toto bude vaša základňa na ráno."
           }
         },
         {
@@ -965,7 +1057,8 @@
             "de": "Kirche Mariä Geburt",
             "hu": "Szűz Mária Születése templom",
             "ro": "Biserica Nașterea Maicii Domnului",
-            "en": "Church of the Nativity of the Virgin Mary"
+            "en": "Church of the Nativity of the Virgin Mary",
+            "sk": "Kostol Narodenia Panny Márie"
           },
           "coords": [
             21.9195,
@@ -981,7 +1074,8 @@
             "de": "Ein kurzer Spaziergang vom Hauptplatz, lassen Sie das Auto geparkt.",
             "hu": "Egy rövid séta a főtértől, hagyja az autót leparkolva.",
             "ro": "O scurtă plimbare din piața principală, lăsați mașina parcată.",
-            "en": "A short walk from the main square, leave the car parked."
+            "en": "A short walk from the main square, leave the car parked.",
+            "sk": "Krátka prechádzka z hlavného námestia, nechajte auto zaparkované."
           }
         },
         {
@@ -989,7 +1083,8 @@
             "de": "Altes Gerichtsgebäude",
             "hu": "Régi bírósági épület",
             "ro": "Vechea clădire a tribunalului",
-            "en": "Old Courthouse Building"
+            "en": "Old Courthouse Building",
+            "sk": "Budova starého súdu"
           },
           "coords": [
             21.9175,
@@ -1005,7 +1100,8 @@
             "de": "Auf dem Rückweg zum Platz können Sie dieses historische Gebäude von außen bewundern.",
             "hu": "Visszafelé a tér felé csodálja meg kívülről ezt a történelmi épületet.",
             "ro": "Admirați această clădire istorică din exterior în drum spre piață.",
-            "en": "Admire this historic building from the outside on your way back to the square."
+            "en": "Admire this historic building from the outside on your way back to the square.",
+            "sk": "Obdivujte túto historickú budovu z vonka na ceste späť na námestie."
           }
         },
         {
@@ -1013,7 +1109,8 @@
             "de": "Cluster B: Museumsviertel",
             "hu": "B klaszter: Múzeumi negyed",
             "ro": "Cluster B: Cartierul Muzeelor",
-            "en": "Cluster B: Museum Quarter"
+            "en": "Cluster B: Museum Quarter",
+            "sk": "Klaster B: Múzejné štvrť"
           },
           "coords": [
             21.912,
@@ -1029,7 +1126,8 @@
             "de": "Fahren Sie zum Sztáray-Herrenhaus und parken Sie dort. Hier verbringen Sie die Mittagszeit.",
             "hu": "Vezessen a Sztáray-kastélyhoz és parkoljon le. Itt fogja tölteni a déli időszakot.",
             "ro": "Conduceți la Conacul Sztáray și parcați. Veți petrece aici perioada prânzului.",
-            "en": "Drive to the Sztáray Manor House and park. You'll spend the midday period here."
+            "en": "Drive to the Sztáray Manor House and park. You'll spend the midday period here.",
+            "sk": "Priveďte auto ku Kaštieľu Sztáray a zaparkujte. Poludňajšie hodiny tu strávite."
           }
         },
         {
@@ -1037,7 +1135,8 @@
             "de": "Zemplín-Museum",
             "hu": "Zempléni Múzeum",
             "ro": "Muzeul Zemplín",
-            "en": "Zemplín Museum"
+            "en": "Zemplín Museum",
+            "sk": "Zemplínske múzeum"
           },
           "coords": [
             21.9122,
@@ -1053,7 +1152,8 @@
             "de": "Das Museum befindet sich im selben Komplex wie das Herrenhaus, ein einfacher Spaziergang.",
             "hu": "A múzeum ugyanabban a komplexumban található, mint a kastély, egy könnyű séta.",
             "ro": "Muzeul este în același complex cu conacul, o plimbare ușoară.",
-            "en": "The museum is in the same complex as the manor house, an easy walk."
+            "en": "The museum is in the same complex as the manor house, an easy walk.",
+            "sk": "Múzeum je v tom istom komplexe ako kaštieľ, na prechádzku ľahko dostupné."
           }
         },
         {
@@ -1061,7 +1161,8 @@
             "de": "Cluster C: Panoramablick",
             "hu": "C klaszter: Panorámás kilátás",
             "ro": "Cluster C: Vedere Panoramică",
-            "en": "Cluster C: Panoramic View"
+            "en": "Cluster C: Panoramic View",
+            "sk": "Klaster C: Panoramatický výhľad"
           },
           "coords": [
             21.935,
@@ -1077,7 +1178,8 @@
             "de": "Fahren Sie zur Sternwarte für den besten Blick über die Stadt und die Umgebung.",
             "hu": "Vezessen a csillagvizsgálóhoz a városra és környékére nyíló legjobb kilátásért.",
             "ro": "Conduceți la Observator pentru cea mai bună priveliște asupra orașului și a împrejurimilor.",
-            "en": "Drive up to the Observatory for the best view over the city and surrounding area."
+            "en": "Drive up to the Observatory for the best view over the city and surrounding area.",
+            "sk": "Priveďte auto k Hvezdárni pre najlepší výhľad na mesto a okolie."
           }
         },
         {
@@ -1085,7 +1187,8 @@
             "de": "Spätes Mittagessen/Frühes Abendessen",
             "hu": "Késői ebéd/korai vacsora",
             "ro": "Prânz târziu/Cină devreme",
-            "en": "Late Lunch/Early Dinner"
+            "en": "Late Lunch/Early Dinner",
+            "sk": "Neskorý obed/Skorá večera"
           },
           "coords": [
             21.915,
@@ -1101,7 +1204,8 @@
             "de": "Kehren Sie ins Stadtzentrum zurück und genießen Sie eine wohlverdiente Mahlzeit.",
             "hu": "Térjen vissza a városközpontba, és fogyasszon el egy jól megérdemelt ételt.",
             "ro": "Întoarceți-vă în centrul orașului pentru a vă bucura de o masă binemeritată.",
-            "en": "Head back towards the city center to enjoy a well-deserved meal."
+            "en": "Head back towards the city center to enjoy a well-deserved meal.",
+            "sk": "Vráťte sa smerom do centra, aby ste si dopriali zaslúžené jedlo."
           }
         }
       ],
@@ -1109,7 +1213,8 @@
         "de": "Mit dem Auto erkunden Sie Michalovce effizient in Clustern. Parken Sie am Vormittag im historischen Zentrum und erkunden Sie den Hauptplatz und die Kirchen zu Fuß. Zur Mittagszeit fahren Sie zum Museumsviertel, parken erneut und tauchen in die Geschichte im Sztáray-Herrenhaus und Zemplín-Museum ein. Der Nachmittag ist für eine Fahrt zur Sternwarte reserviert, die einen atemberaubenden Panoramablick bietet. Diese Methode kombiniert den Komfort des Autofahrens mit entspannten Spaziergängen und ermöglicht es Ihnen, sowohl zentrale als auch weiter entfernte Sehenswürdigkeiten stressfrei zu erleben.",
         "hu": "Autóval hatékonyan, klaszterekben fedezheti fel Nagymihályt. Délelőtt parkoljon a történelmi központban, és fedezze fel gyalog a főteret és a templomokat. Délidőben vezessen a múzeumi negyedbe, parkoljon le újra, és merüljön el a történelemben a Sztáray-kastélyban és a Zempléni Múzeumban. A délután a csillagvizsgálóhoz való autózásra van fenntartva, ahonnan lélegzetelállító panoráma nyílik. Ez a módszer ötvözi az autóvezetés kényelmét a pihentető sétákkal, lehetővé téve a központi és a távolabbi látnivalók stresszmentes megtekintését.",
         "ro": "Cu mașina, explorați Michalovce eficient în clustere. Dimineața, parcați în centrul istoric și explorați piața principală și bisericile pe jos. La prânz, conduceți către cartierul muzeelor, parcați din nou și scufundați-vă în istorie la Conacul Sztáray și Muzeul Zemplín. După-amiaza este rezervată unei călătorii cu mașina la Observator pentru priveliști panoramice uluitoare. Această metodă combină confortul mașinii cu plimbări relaxante, permițându-vă să experimentați atât atracțiile centrale, cât și cele mai îndepărtate fără stres.",
-        "en": "With a car, you explore Michalovce efficiently in clusters. In the morning, park in the historic center and explore the main square and churches on foot. For midday, drive to the museum quarter, park again, and immerse yourself in history at the Sztáray Manor House and Zemplín Museum. The afternoon is reserved for a drive up to the Observatory for breathtaking panoramic views. This method combines the convenience of driving with relaxed walks, allowing you to experience both central and more distant sights stress-free."
+        "en": "With a car, you explore Michalovce efficiently in clusters. In the morning, park in the historic center and explore the main square and churches on foot. For midday, drive to the museum quarter, park again, and immerse yourself in history at the Sztáray Manor House and Zemplín Museum. The afternoon is reserved for a drive up to the Observatory for breathtaking panoramic views. This method combines the convenience of driving with relaxed walks, allowing you to experience both central and more distant sights stress-free.",
+        "sk": "S autom preskúmate Michalovce efektívne po klastroch. Ráno zaparkujte v historickom centre a prejdite sa pešo po hlavnom námestí a kostoloch. Na poludnie odvezte auto do múzejnej štvrte, opäť zaparkujte a ponorte sa do histórie v Kaštieli Sztáray a Zemplínskom múzeu. Popoludnie je vyhradené pre jazdu k Hvezdárni za dychberúcimi panorámami. Táto metóda kombinuje pohodlie jazdy s oddychovými prechádzkami, takže bez stresu zažijete centrálne aj ďalej položené pamiatky."
       },
       "gastro_picks": {
         "de": [
@@ -1217,6 +1322,12 @@
           "Plan extra time for finding a parking spot.",
           "The cluster-walking method is ideal for minimizing parking hassles.",
           "A GPS is helpful for navigating between the clusters."
+        ],
+        "sk": [
+          "Skontrolujte pravidlá a poplatky za parkovanie v centre mesta.",
+          "Plánujte viac času na hľadanie parkovacieho miesta.",
+          "Metóda chôdze po klastroch je ideálna na minimalizovanie problémov s parkovaním.",
+          "GPS je užitočná na navigáciu medzi klastrami."
         ]
       },
       "variants": {
@@ -1225,7 +1336,8 @@
             "de": "Genießen Sie Michalovce komfortabel vom Auto aus. Der Regen kann Ihnen nichts anhaben, während Sie von den historischen Kirchen zum Museumsviertel fahren. Das Zemplín-Museum bietet ein stundenlanges Programm im Trockenen. Den Tag beschließen Sie mit einem Blick von der Sternwarte und einem gemütlichen Abendessen in der Innenstadt, alles leicht erreichbar trotz Schmuddelwetter.",
             "hu": "Élvezze Michalovcét kényelmesen az autóból. Az eső nem akadály, miközben a történelmi templomoktól a múzeumi negyedig autózik. A Zempléni Múzeum többórás benti programot kínál. A napot a csillagvizsgáló látványával és egy belvárosi vacsorával zárhatja, melyek a zord idő ellenére is könnyen elérhetőek.",
             "ro": "Bucurați-vă de Michalovce confortabil din mașină. Ploaia nu este un obstacol în timp ce conduceți de la bisericile istorice la cartierul muzeelor. Muzeul Zemplín oferă un program de câteva ore la adăpost. Încheiați ziua cu o vizită la Observator și o cină în centru, toate ușor accesibile în ciuda vremii urâte.",
-            "en": "Enjoy Michalovce comfortably from your car. The rain won't stop you as you drive from historic churches to the museum quarter. The Zemplín Museum offers hours of indoor activities. End your day with a visit to the Observatory and a cozy dinner downtown, all easily accessible despite the gloomy weather."
+            "en": "Enjoy Michalovce comfortably from your car. The rain won't stop you as you drive from historic churches to the museum quarter. The Zemplín Museum offers hours of indoor activities. End your day with a visit to the Observatory and a cozy dinner downtown, all easily accessible despite the gloomy weather.",
+            "sk": "Užite si Michalovce pohodlne z auta. Dažďu vás nezastaví pri jazde od historických kostolov po múzejskú štvrť. Zemplínske múzeum ponúka hodiny vnútorných aktivít. Deň zakončite návštevou Hvezdárne a útulnou večerou v centre, všetko ľahko dostupné aj pri pochmúrnom počasí."
           },
           "stops": [
             {
@@ -1234,7 +1346,8 @@
                 "de": "Parken Sie nah am Platz, um den Fußweg im Regen zu minimieren.",
                 "hu": "Parkoljon közel a térhez, hogy minimális legyen a gyaloglás az esőben.",
                 "ro": "Parcați aproape de piață pentru a minimiza mersul prin ploaie.",
-                "en": "Park close to the square to minimize walking in the rain."
+                "en": "Park close to the square to minimize walking in the rain.",
+                "sk": "Zaparkujte blízko námestia, aby ste minimalizovali chôdzu v daždi."
               }
             },
             {
@@ -1243,7 +1356,8 @@
                 "de": "Kurzer Sprint vom Auto zum Kircheneingang.",
                 "hu": "Gyors sprint az autótól a templombejáratig.",
                 "ro": "Un sprint scurt de la mașină până la intrarea în biserică.",
-                "en": "Short sprint from the car to the church entrance."
+                "en": "Short sprint from the car to the church entrance.",
+                "sk": "Krátky šprint z auta k vchodu do kostola."
               }
             },
             {
@@ -1252,7 +1366,8 @@
                 "de": "Betrachten Sie die Fassade direkt aus dem trockenen Wagen.",
                 "hu": "Csodálja meg a homlokzatot közvetlenül a száraz autóból.",
                 "ro": "Admirați fațada direct din mașina uscată.",
-                "en": "Admire the facade directly from the dry car."
+                "en": "Admire the facade directly from the dry car.",
+                "sk": "Obdivujte fasádu priamo z suchého auta."
               }
             },
             {
@@ -1261,7 +1376,8 @@
                 "de": "Nutzen Sie den museumseigenen Parkplatz.",
                 "hu": "Használja a múzeum saját parkolóját.",
                 "ro": "Folosiți parcarea proprie a muzeului.",
-                "en": "Use the museum's own parking lot."
+                "en": "Use the museum's own parking lot.",
+                "sk": "Využite vlastné parkovisko múzea."
               }
             },
             {
@@ -1270,7 +1386,8 @@
                 "de": "Ideal für einen langen Aufenthalt, während es draußen regnet.",
                 "hu": "Ideális hosszú tartózkodásra, amíg kint esik.",
                 "ro": "Ideal pentru o vizită lungă în timp ce afară plouă.",
-                "en": "Ideal for a long stay while it's raining outside."
+                "en": "Ideal for a long stay while it's raining outside.",
+                "sk": "Ideálne na dlhší pobyt, keď vonku prší."
               }
             },
             {
@@ -1279,7 +1396,8 @@
                 "de": "Genießen Sie das Panorama durch die Windschutzscheibe.",
                 "hu": "Élvezze a panorámát a szélvédőn keresztül.",
                 "ro": "Bucurați-vă de panoramă prin parbriz.",
-                "en": "Enjoy the panorama through the windshield."
+                "en": "Enjoy the panorama through the windshield.",
+                "sk": "Užite si panorámu cez čelné sklo."
               }
             },
             {
@@ -1288,7 +1406,8 @@
                 "de": "Wählen Sie ein Restaurant mit nahem Parkplatz.",
                 "hu": "Válasszon éttermet közeli parkolóval.",
                 "ro": "Alegeți un restaurant cu parcare în apropiere.",
-                "en": "Choose a restaurant with nearby parking."
+                "en": "Choose a restaurant with nearby parking.",
+                "sk": "Vyberte reštauráciu s parkovaním v blízkosti."
               }
             }
           ],
@@ -1316,6 +1435,12 @@
               "Keep an umbrella in the car for the walk to the entrance.",
               "Finding parking downtown might take longer in the rain.",
               "Check the condition of your windshield wipers."
+            ],
+            "sk": [
+              "Dávajte pozor na aquaplaning na hlavných cestách.",
+              "Majte v aute dáždnik na prechod k vchodu.",
+              "Nájdenie parkovania v centre môže v daždi trvať dlhšie.",
+              "Skontrolujte stav stieračov na čelnom skle."
             ]
           }
         },
@@ -1324,7 +1449,8 @@
             "de": "Ein winterlicher Ausflug per Auto durch Michalovce bietet Wärme und Flexibilität. Besuchen Sie die historischen Zentren, ohne lange der Kälte ausgesetzt zu sein. Das Zemplín-Museum ist der perfekte Ort für den Mittag, gefolgt von der Sternwarte, die im Winter früh ihre Pforten für Sternengucker öffnet. Ein gemütliches Abendessen rundet den Tag ab, bevor Sie sicher im beheizten Wagen heimfahren.",
             "hu": "A téli autós kirándulás Michalovcében meleget és rugalmasságot kínál. Látogassa meg a történelmi központot anélkül, hogy sokáig ki lenne téve a hidegnek. A Zempléni Múzeum tökéletes helyszín délben, majd következhet a csillagvizsgáló, amely télen korábban várja az érdeklődőket. Egy hangulatos vacsora zárja a napot, mielőtt a fűtött autóval hazaindulna.",
             "ro": "O excursie de iarnă cu mașina prin Michalovce oferă căldură și flexibilitate. Vizitați centrele istorice fără a fi expuși mult timp la frig. Muzeul Zemplín este locul perfect pentru prânz, urmat de Observator, care iarna își deschide porțile mai devreme. O cină plăcută încheie ziua, înainte de a pleca spre casă în mașina încălzită.",
-            "en": "A winter car trip through Michalovce offers warmth and flexibility. Visit the historic centers without long exposure to the cold. Zemplín Museum is the perfect midday spot, followed by the Observatory, which opens earlier for stargazing in winter. A cozy dinner rounds off the day before heading home in your heated vehicle."
+            "en": "A winter car trip through Michalovce offers warmth and flexibility. Visit the historic centers without long exposure to the cold. Zemplín Museum is the perfect midday spot, followed by the Observatory, which opens earlier for stargazing in winter. A cozy dinner rounds off the day before heading home in your heated vehicle.",
+            "sk": "Zimný automobilový výlet cez Michalovce ponúka teplo a flexibilitu. Navštívte historické centrum bez dlhého pobytu v chlade. Zemplínske múzeum je ideálne na obed, po ňom hvezdáreň, ktorá v zime otvára skôr na pozorovanie hviezd. Pestrý večer zakončite útulnou večerou pred odchodom domov v vyhriatom vozidle."
           },
           "stops": [
             {
@@ -1333,7 +1459,8 @@
                 "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
                 "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
                 "ro": "Nu lăsați motorul să meargă inutil în staționare.",
-                "en": "Do not leave the engine idling unnecessarily."
+                "en": "Do not leave the engine idling unnecessarily.",
+                "sk": "Nenechávajte motor zbytočne bežať na voľnobeh."
               }
             },
             {
@@ -1342,7 +1469,8 @@
                 "de": "Achten Sie auf Glatteis auf den Parkplätzen.",
                 "hu": "Ügyeljen a jegesedésre a parkolókban.",
                 "ro": "Atenție la polei în zonele de parcare.",
-                "en": "Watch out for black ice in parking areas."
+                "en": "Watch out for black ice in parking areas.",
+                "sk": "Dávajte pozor na čierny ľad na parkoviskách."
               }
             },
             {
@@ -1351,7 +1479,8 @@
                 "de": "Ein schneller Fotostopp ist auch bei Kälte möglich.",
                 "hu": "Egy gyors fotómegálló hidegben is belefér.",
                 "ro": "O oprire rapidă pentru poze este posibilă și pe ger.",
-                "en": "A quick photo stop is possible even in the cold."
+                "en": "A quick photo stop is possible even in the cold.",
+                "sk": "Krátka fotopauza je možná aj v chlade."
               }
             },
             {
@@ -1360,7 +1489,8 @@
                 "de": "Die Heizung im Museum ist sehr angenehm.",
                 "hu": "A múzeum fűtése nagyon kellemes.",
                 "ro": "Căldura din muzeu este foarte plăcută.",
-                "en": "The heating in the museum is very pleasant."
+                "en": "The heating in the museum is very pleasant.",
+                "sk": "Kúrenie v múzeu je veľmi príjemné."
               }
             },
             {
@@ -1369,7 +1499,8 @@
                 "de": "Nehmen Sie sich Zeit, es ist der wärmste Ort der Tour.",
                 "hu": "Szánjon rá időt, ez a túra legmelegebb pontja.",
                 "ro": "Nu vă grăbiți, este cel mai călduros punct al turului.",
-                "en": "Take your time, it's the warmest point of the tour."
+                "en": "Take your time, it's the warmest point of the tour.",
+                "sk": "Neváhajte, je to najteplejšie miesto na trase."
               }
             },
             {
@@ -1378,7 +1509,8 @@
                 "de": "Die Winterfern sicht kann hier oben spektakulär sein.",
                 "hu": "A téli kilátás innen fentről látványos lehet.",
                 "ro": "Vizibilitatea de iarnă poate fi spectaculoasă de aici.",
-                "en": "The winter view from up here can be spectacular."
+                "en": "The winter view from up here can be spectacular.",
+                "sk": "Zimný výhľad odtiaľto môže byť úchvatný."
               }
             },
             {
@@ -1387,7 +1519,8 @@
                 "de": "Genießen Sie die winterliche Atmosphäre bei einer heißen Suppe.",
                 "hu": "Élvezze a téli hangulatot egy forró leves mellett.",
                 "ro": "Bucurați-vă de atmosfera de iarnă cu o supă fierbinte.",
-                "en": "Enjoy the winter atmosphere with a hot soup."
+                "en": "Enjoy the winter atmosphere with a hot soup.",
+                "sk": "Vychutnajte si zimnú atmosféru s horúcou polievkou."
               }
             }
           ],
@@ -1415,6 +1548,12 @@
               "An ice scraper and anti-freeze are essential.",
               "Plan more time for driving on snowy roads.",
               "Parking garages are often ice-free and more comfortable in winter."
+            ],
+            "sk": [
+              "Uistite sa, že máte namontované zimné pneumatiky.",
+              "Škrabka na ľad a nemrznúca kvapalina sú nevyhnutné.",
+              "Na zasnežených cestách si naplánujte viac času na jazdu.",
+              "Parkovacie domy sú v zime často bez ľadu a pohodlnejšie."
             ]
           }
         }
@@ -1433,7 +1572,8 @@
             "de": "Cluster A: Ankunft im Zentrum",
             "hu": "A klaszter: Érkezés a központba",
             "ro": "Cluster A: Sosire în Centru",
-            "en": "Cluster A: Arrival in the Center"
+            "en": "Cluster A: Arrival in the Center",
+            "sk": "Klastra A: Príchod do centra"
           },
           "coords": [
             21.918,
@@ -1449,7 +1589,8 @@
             "de": "Nehmen Sie einen Bus zum Platz der Befreier, dem idealen Ausgangspunkt.",
             "hu": "Menjen busszal a Felszabadítók terére, az ideális kiindulópontra.",
             "ro": "Luați un autobuz până în Piața Eliberatorilor, punctul de plecare ideal.",
-            "en": "Take a bus to Liberators' Square, the ideal starting point."
+            "en": "Take a bus to Liberators' Square, the ideal starting point.",
+            "sk": "Sadnite na autobus na Námestie osloboditeľov, ideálny východiskový bod."
           }
         },
         {
@@ -1457,7 +1598,8 @@
             "de": "Kirche Mariä Geburt",
             "hu": "Szűz Mária Születése templom",
             "ro": "Biserica Nașterea Maicii Domnului",
-            "en": "Church of the Nativity of the Virgin Mary"
+            "en": "Church of the Nativity of the Virgin Mary",
+            "sk": "Kostol Narodenia Panny Márie"
           },
           "coords": [
             21.9195,
@@ -1473,7 +1615,8 @@
             "de": "Vom Platz aus ist es ein kurzer und angenehmer Spaziergang zu dieser Kirche.",
             "hu": "A térről egy rövid és kellemes séta vezet ehhez a templomhoz.",
             "ro": "Din piață, este o plimbare scurtă și plăcută până la această biserică.",
-            "en": "From the square, it's a short and pleasant walk to this church."
+            "en": "From the square, it's a short and pleasant walk to this church.",
+            "sk": "Zo námestia je to krátka a príjemná prechádzka k tomuto kostolu."
           }
         },
         {
@@ -1481,7 +1624,8 @@
             "de": "Römisch-katholische Pfarrkirche",
             "hu": "Római katolikus plébániatemplom",
             "ro": "Biserica parohială romano-catolică",
-            "en": "Roman Catholic Parish Church"
+            "en": "Roman Catholic Parish Church",
+            "sk": "Rímskokatolícky farský kostol"
           },
           "coords": [
             21.921,
@@ -1497,7 +1641,8 @@
             "de": "Erkunden Sie das historische Zentrum weiter zu Fuß.",
             "hu": "Fedezze fel tovább gyalog a történelmi központot.",
             "ro": "Continuați să explorați centrul istoric pe jos.",
-            "en": "Continue exploring the historic center on foot."
+            "en": "Continue exploring the historic center on foot.",
+            "sk": "Pokračujte v objavovaní historického centra pešo."
           }
         },
         {
@@ -1505,7 +1650,8 @@
             "de": "Cluster B: Fahrt zum Museum",
             "hu": "B klaszter: Utazás a múzeumhoz",
             "ro": "Cluster B: Călătorie la Muzeu",
-            "en": "Cluster B: Trip to the Museum"
+            "en": "Cluster B: Trip to the Museum",
+            "sk": "Klastra B: Výlet do múzea"
           },
           "coords": [
             21.912,
@@ -1521,7 +1667,8 @@
             "de": "Nehmen Sie einen Bus vom Zentrum zum Zemplín-Museum. Dies ist ein kombinierter Besuch mit dem Herrenhaus.",
             "hu": "Menjen busszal a központból a Zempléni Múzeumhoz. Ez egy összevont látogatás a kastéllyal.",
             "ro": "Luați un autobuz din centru către Muzeul Zemplín. Aceasta este o vizită combinată cu conacul.",
-            "en": "Take a bus from the center to the Zemplín Museum. This is a combined visit with the manor house."
+            "en": "Take a bus from the center to the Zemplín Museum. This is a combined visit with the manor house.",
+            "sk": "Z centra vezmite autobus do Zemplínskeho múzea. Ide o spoločnú návštevu so kaštieľom."
           }
         },
         {
@@ -1529,7 +1676,8 @@
             "de": "Cluster C: Bus zur Sternwarte",
             "hu": "C klaszter: Busz a csillagvizsgálóhoz",
             "ro": "Cluster C: Autobuz către Observator",
-            "en": "Cluster C: Bus to the Observatory"
+            "en": "Cluster C: Bus to the Observatory",
+            "sk": "Klastra C: Autobus na hvezdáreň"
           },
           "coords": [
             21.935,
@@ -1545,7 +1693,8 @@
             "de": "Eine weitere Busfahrt bringt Sie auf den Hügel zur Sternwarte für einen tollen Nachmittagsausblick.",
             "hu": "Egy másik buszjárat visz fel a hegyre a csillagvizsgálóhoz egy nagyszerű délutáni kilátásért.",
             "ro": "O altă călătorie cu autobuzul vă va duce pe deal la Observator pentru o priveliște minunată de după-amiază.",
-            "en": "Another bus ride will take you up the hill to the Observatory for a great afternoon view."
+            "en": "Another bus ride will take you up the hill to the Observatory for a great afternoon view.",
+            "sk": "Ďalšia jazda autobusom vás vyvezie na kopec k hvezdárni na skvelý popoludňajší výhľad."
           }
         },
         {
@@ -1553,7 +1702,8 @@
             "de": "Abendessen im Zentrum",
             "hu": "Vacsora a központban",
             "ro": "Cină în Centru",
-            "en": "Dinner in the Center"
+            "en": "Dinner in the Center",
+            "sk": "Večera v centre"
           },
           "coords": [
             21.916,
@@ -1569,7 +1719,8 @@
             "de": "Kehren Sie mit dem Bus ins Zentrum zurück und finden Sie ein gemütliches Restaurant für das Abendessen.",
             "hu": "Térjen vissza busszal a központba, és keressen egy hangulatos éttermet a vacsorához.",
             "ro": "Întoarceți-vă în centru cu autobuzul și găsiți un restaurant primitor pentru cină.",
-            "en": "Return to the center by bus and find a cozy restaurant for dinner."
+            "en": "Return to the center by bus and find a cozy restaurant for dinner.",
+            "sk": "Vráťte sa do centra autobusom a nájdite útulnú reštauráciu na večeru."
           }
         }
       ],
@@ -1577,7 +1728,8 @@
         "de": "Mit öffentlichen Verkehrsmitteln können Sie Michalovce entspannt erleben. Beginnen Sie im Zentrum und erkunden Sie die Sehenswürdigkeiten zu Fuß. Ein Bus bringt Sie bequem zum Museumskomplex, wo Sie die Mittagszeit verbringen. Am Nachmittag bringt Sie ein weiterer Bus zur Sternwarte, um die Aussicht ohne anstrengenden Aufstieg zu genießen. Diese Methode ist kostengünstig und umweltfreundlich und ermöglicht es Ihnen, sich unter die Einheimischen zu mischen und die Stadt in einem gemächlicheren Tempo zu sehen.",
         "hu": "A tömegközlekedéssel kényelmesen felfedezheti Nagymihályt. Kezdje a központban, és fedezze fel a látnivalókat gyalog. Egy busz kényelmesen elviszi a múzeumi komplexumhoz, ahol a déli időt tölti. Délután egy másik busz felviszi a csillagvizsgálóhoz, hogy élvezhesse a kilátást a megerőltető emelkedő nélkül. Ez a módszer költséghatékony és környezetbarát, lehetővé téve, hogy elvegyüljön a helyiek között, és lassabb tempóban lássa a várost.",
         "ro": "Folosind transportul public, puteți experimenta Michalovce într-un mod relaxat. Începeți în centru, explorând atracțiile pe jos. Un autobuz vă va duce convenabil la complexul muzeal pentru a petrece perioada prânzului. După-amiaza, un alt autobuz vă duce la Observator pentru a vă bucura de priveliște fără o urcare obositoare. Această metodă este economică și ecologică, permițându-vă să vă amestecați cu localnicii și să vedeți orașul într-un ritm mai lent.",
-        "en": "Using public transit allows for a relaxed experience of Michalovce. Start in the center, exploring the sights on foot. A bus will conveniently take you to the museum complex to spend the midday. In the afternoon, another bus takes you to the Observatory to enjoy the views without a strenuous climb. This method is budget-friendly and eco-conscious, allowing you to mingle with locals and see the city at a more leisurely pace."
+        "en": "Using public transit allows for a relaxed experience of Michalovce. Start in the center, exploring the sights on foot. A bus will conveniently take you to the museum complex to spend the midday. In the afternoon, another bus takes you to the Observatory to enjoy the views without a strenuous climb. This method is budget-friendly and eco-conscious, allowing you to mingle with locals and see the city at a more leisurely pace.",
+        "sk": "Použitie MHD umožňuje nerušené spoznávanie Michaloviec. Začnite v centre a prehliadnite si pamiatky pešo. Autobus vás pohodlne zavezie do múzejného komplexu na obed. Popoludní vás ďalší autobus zavezie k hvezdárni bez namáhavého výstupu. Táto možnosť je šetrná k rozpočtu aj k životnému prostrediu a umožní vám zmiešať sa s domácimi a vidieť mesto pokojnejším tempom."
       },
       "gastro_picks": {
         "de": [
@@ -1685,6 +1837,12 @@
           "Check bus schedules in advance, especially for the last return trip.",
           "Have some small change ready for tickets.",
           "Most bus drivers may not speak English, so have your destination ready."
+        ],
+        "sk": [
+          "Kúpte si celodenný lístok na autobus, ušetríte peniaze.",
+          "Vopred skontrolujte spoje, najmä posledný návratový spoj.",
+          "Majte pripravenú drobnú hotovosť na lístky.",
+          "Väčšina vodičov autobusov nemusí hovoriť po anglicky, majte pripravené cieľové miesto."
         ]
       },
       "variants": {
@@ -1693,7 +1851,8 @@
             "de": "Nutzen Sie das Busnetz von Michalovce für einen regensicheren Tag. Starten Sie im Zentrum und nutzen Sie die kurzen Wege zwischen den Kirchen. Der Bus bringt Sie bequem zum Zemplín-Museum, wo Sie die Mittagsstunden verbringen. Am Nachmittag führt die Fahrt zur Sternwarte, bevor Sie den Tag bei einem Abendessen in der Innenstadt ausklingen lassen, während draußen der Regen fällt.",
             "hu": "Használja Michalovce buszhálózatát egy esőbiztos naphoz. Kezdjen a központban, használja ki a templomok közötti rövid távokat. A busz kényelmesen elviszi a Zempléni Múzeumba, ahol a déli órákat töltheti. Délután az út a csillagvizsgálóhoz vezet, majd a napot egy belvárosi vacsorával zárhatja, miközben kint esik az eső.",
             "ro": "Folosiți rețeaua de autobuze din Michalovce pentru o zi ferită de ploaie. Începeți în centru, profitând de distanțele scurte dintre biserici. Autobuzul vă duce confortabil la Muzeul Zemplín pentru prânz. După-amiaza, traseul continuă spre Observator, încheind ziua cu o cină în centru în timp ce afară plouă.",
-            "en": "Use Michalovce's bus network for a rain-proof day. Start in the center, taking advantage of the short distances between churches. The bus takes you comfortably to the Zemplín Museum for the midday hours. In the afternoon, head to the Observatory before ending your day with a downtown dinner while the rain falls outside."
+            "en": "Use Michalovce's bus network for a rain-proof day. Start in the center, taking advantage of the short distances between churches. The bus takes you comfortably to the Zemplín Museum for the midday hours. In the afternoon, head to the Observatory before ending your day with a downtown dinner while the rain falls outside.",
+            "sk": "Využite miestnu MHD na deň odolný voči dažďu. Začnite v centre a využite krátke vzdialenosti medzi kostolmi. Autobus vás pohodlne zavezie do Zemplínskeho múzea na popoludnie. Poobede sa vyberte k hvezdárni a deň zakončite večerou v centre, zatiaľ čo vonku prší."
           },
           "stops": [
             {
@@ -1702,7 +1861,8 @@
                 "de": "Warten Sie in den Bushäuschen auf den nächsten Anschluss.",
                 "hu": "Várjon a buszmegállók fedett váróiban a következő járatra.",
                 "ro": "Așteptați în refugiile acoperite din stații.",
-                "en": "Wait in the sheltered bus stops for your next connection."
+                "en": "Wait in the sheltered bus stops for your next connection.",
+                "sk": "Počkajte v prístreškoch na zastávkach na ďalšie spojenie."
               }
             },
             {
@@ -1711,7 +1871,8 @@
                 "de": "Die Bushaltestellen sind oft nur wenige Schritte entfernt.",
                 "hu": "A buszmegállók gyakran csak pár lépésre vannak.",
                 "ro": "Stațiile de autobuz sunt adesea la doar câțiva pași distanță.",
-                "en": "Bus stops are often just a few steps away."
+                "en": "Bus stops are often just a few steps away.",
+                "sk": "Zastávky sú často len pár krokov od seba."
               }
             },
             {
@@ -1720,7 +1881,8 @@
                 "de": "Prüfen Sie die Fahrpläne online, um Wartezeiten im Regen zu vermeiden.",
                 "hu": "Ellenőrizze a menetrendet online, hogy elkerülje az esőben várakozást.",
                 "ro": "Verificați orarul online pentru a evita așteptarea în ploaie.",
-                "en": "Check schedules online to avoid waiting in the rain."
+                "en": "Check schedules online to avoid waiting in the rain.",
+                "sk": "Skontrolujte cestovné poriadky online, aby ste sa vyhli čakaniu v daždi."
               }
             },
             {
@@ -1729,7 +1891,8 @@
                 "de": "Der Bus hält fast direkt vor dem Museumsgelände.",
                 "hu": "A busz szinte közvetlenül a múzeum előtt áll meg.",
                 "ro": "Autobuzul oprește aproape direct în fața muzeului.",
-                "en": "The bus stops almost directly in front of the museum."
+                "en": "The bus stops almost directly in front of the museum.",
+                "sk": "Autobus zastavuje takmer priamo pred múzeom."
               }
             },
             {
@@ -1738,7 +1901,8 @@
                 "de": "Genießen Sie die Fahrt durch die regnerische Stadt.",
                 "hu": "Élvezze az utazást az esős városon keresztül.",
                 "ro": "Bucurați-vă de drumul prin orașul ploios.",
-                "en": "Enjoy the ride through the rainy city."
+                "en": "Enjoy the ride through the rainy city.",
+                "sk": "Užite si jazdu dažďom premočeným mestom."
               }
             },
             {
@@ -1747,7 +1911,8 @@
                 "de": "Viele Restaurants liegen nah an den zentralen Busknotenpunkten.",
                 "hu": "Sok étterem közel van a központi buszcsomópontokhoz.",
                 "ro": "Multe restaurante sunt aproape de nodurile centrale de transport.",
-                "en": "Many restaurants are close to the central transit hubs."
+                "en": "Many restaurants are close to the central transit hubs.",
+                "sk": "Mnoho reštaurácií je blízko centrálnych dopravných uzlov."
               }
             }
           ],
@@ -1775,6 +1940,12 @@
               "Watch out for slippery steps when boarding or exiting.",
               "Use a transit app for real-time schedules.",
               "Expect minor traffic delays due to the rain."
+            ],
+            "sk": [
+              "Majte pripravený lístok alebo drobné.",
+              "Dávajte pozor na šmykľavé schody pri nastupovaní a vystupovaní.",
+              "Používajte dopravnú aplikáciu pre aktuálne cestovné poriadky.",
+              "Očakávajte menšie dopravné meškania kvôli dažďu."
             ]
           }
         },
@@ -1783,7 +1954,8 @@
             "de": "Erleben Sie das winterliche Michalovce stressfrei mit den öffentlichen Verkehrsmitteln. Die beheizten Busse bieten eine warme Überbrückung zwischen den historischen Zielen im Zentrum. Verbringen Sie einen ausgiebigen Mittag im Zemplín-Museum und fahren Sie dann gemütlich zur Sternwarte, um den Winterhimmel zu bestaunen. Der Tag endet perfekt mit einem Abendessen im Herzen der Stadt.",
             "hu": "Ismerje meg a téli Michalovcét stresszmentesen, tömegközlekedéssel. A fűtött buszok meleg összeköttetést biztosítanak a központi történelmi célpontok között. Töltsön el egy hosszú délutánt a Zempléni Múzeumban, majd utazzon kényelmesen a csillagvizsgálóba a téli égbolt megcsodálására. A nap a város szívében egy vacsorával zárul.",
             "ro": "Experimentați Michalovce în straie de iarnă fără stres, folosind transportul public. Autobuzele încălzite oferă o legătură călduroasă între obiectivele istorice. Petreceți prânzul la Muzeul Zemplín, apoi mergeți confortabil la Observator pentru a admira cerul de iarnă. Ziua se încheie perfect cu o cină în inima orașului.",
-            "en": "Experience winter Michalovce stress-free with public transit. Heated buses provide a warm link between historic sites in the center. Spend your midday at the Zemplín Museum, then travel comfortably to the Observatory to gaze at the winter sky. The day ends perfectly with a dinner in the heart of the city."
+            "en": "Experience winter Michalovce stress-free with public transit. Heated buses provide a warm link between historic sites in the center. Spend your midday at the Zemplín Museum, then travel comfortably to the Observatory to gaze at the winter sky. The day ends perfectly with a dinner in the heart of the city.",
+            "sk": "Zažite zimné Michalovce bez stresu s MHD. Vyhrievané autobusy poskytujú teplé spojenie medzi historickými miestami v centre. Strávte popoludnie v Zemplínskom múzeu, potom sa pohodlne prepravte k hvezdárni a obdivujte zimné nebo. Deň dokončíte večerou v srdci mesta."
           },
           "stops": [
             {
@@ -1792,7 +1964,8 @@
                 "de": "Nutzen Sie die Wärme im Bus so lange wie möglich.",
                 "hu": "Használja ki a busz melegét, ameddig csak lehet.",
                 "ro": "Profitați de căldura din autobuz cât mai mult posibil.",
-                "en": "Enjoy the warmth of the bus for as long as possible."
+                "en": "Enjoy the warmth of the bus for as long as possible.",
+                "sk": "Využívajte teplo autobusu čo najdlhšie."
               }
             },
             {
@@ -1801,7 +1974,8 @@
                 "de": "Kurze Fußwege halten die Kälte fern.",
                 "hu": "A rövid gyalogutak távol tartják a hideget.",
                 "ro": "Drumurile scurte pe jos vă feresc de frig.",
-                "en": "Short walks on foot keep the cold away."
+                "en": "Short walks on foot keep the cold away.",
+                "sk": "Krátke prechádzky pešo pomáhajú udržať teplo."
               }
             },
             {
@@ -1810,7 +1984,8 @@
                 "de": "Planen Sie Ihre Fahrten so, dass Sie kaum draußen warten.",
                 "hu": "Tervezze úgy az utat, hogy minimálisat kelljen kint várni.",
                 "ro": "Planificați călătoriile astfel încât să așteptați cât mai puțin afară.",
-                "en": "Plan your trips to minimize waiting outside."
+                "en": "Plan your trips to minimize waiting outside.",
+                "sk": "Plánujte presuny tak, aby ste minimalizovali čakanie vonku."
               }
             },
             {
@@ -1819,7 +1994,8 @@
                 "de": "Die Busse fahren regelmäßig in diese Richtung.",
                 "hu": "A buszok rendszeresen járnak ebbe az irányba.",
                 "ro": "Autobuzele circulă regulat în această direcție.",
-                "en": "Buses run regularly in this direction."
+                "en": "Buses run regularly in this direction.",
+                "sk": "Autobusy premávajú pravidelne týmto smerom."
               }
             },
             {
@@ -1828,7 +2004,8 @@
                 "de": "Achten Sie auf die früheren Winter-Fahrpläne.",
                 "hu": "Ügyeljen az esetleges téli menetrendi változásokra.",
                 "ro": "Atenție la eventualele modificări ale orarului de iarnă.",
-                "en": "Watch out for any winter schedule changes."
+                "en": "Watch out for any winter schedule changes.",
+                "sk": "Dávajte pozor na sezónne zmeny cestovného poriadku v zime."
               }
             },
             {
@@ -1837,7 +2014,8 @@
                 "de": "Nach dem Essen ist die Bushaltestelle schnell erreicht.",
                 "hu": "Vacsora után a buszmegálló gyorsan elérhető.",
                 "ro": "După cină, stația de autobuz este rapid accesibilă.",
-                "en": "After dinner, the bus stop is quickly accessible."
+                "en": "After dinner, the bus stop is quickly accessible.",
+                "sk": "Po večeri je zastávka rýchlo dostupná."
               }
             }
           ],
@@ -1865,6 +2043,12 @@
               "Wear warm shoes as bus floors can be cold.",
               "Buses are a welcome place to warm up in winter.",
               "Check the last connection if you have a late dinner."
+            ],
+            "sk": [
+              "Zastávky môžu byť v zime šmykľavé, pri vystupovaní buďte opatrní.",
+              "Obujte si teplú obuv, podlahy v autobuse môžu byť studené.",
+              "Autobusy sú v zime vítaným miestom na zahriatie.",
+              "Skontrolujte posledný spoj, ak máte neskorú večeru."
             ]
           }
         }

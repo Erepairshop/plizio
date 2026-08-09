@@ -21,7 +21,8 @@
             "de": "Mariä-Heimsuchung-Kirche",
             "hu": "Sarlós Boldogasszony-templom",
             "ro": "Biserica Vizita Fecioarei Maria",
-            "en": "Church of the Visitation of the Virgin Mary"
+            "en": "Church of the Visitation of the Virgin Mary",
+            "sk": "Kostol Navštívenia Panny Márie"
           },
           "coords": [
             18.4448,
@@ -37,7 +38,8 @@
             "de": "Beachten Sie die barocke Innenausstattung und die beeindruckende Orgel.",
             "hu": "Figyelje meg a barokk belső teret és a lenyűgöző orgonát.",
             "ro": "Observați interiorul baroc și orga impresionantă.",
-            "en": "Note the Baroque interior and the impressive organ."
+            "en": "Note the Baroque interior and the impressive organ.",
+            "sk": "Venujte pozornosť barokovému interiéru a impozantným organom."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Stadtpark",
             "hu": "Városi Park",
             "ro": "Parcul Orașului",
-            "en": "City Park"
+            "en": "City Park",
+            "sk": "Mestský park"
           },
           "coords": [
             18.448,
@@ -61,7 +64,8 @@
             "de": "Ein idealer Ort für eine kurze Pause im Grünen, direkt im Stadtzentrum.",
             "hu": "Ideális hely egy rövid pihenőre a zöldben, közvetlenül a városközpontban.",
             "ro": "Un loc ideal pentru o scurtă pauză în natură, chiar în centrul orașului.",
-            "en": "An ideal spot for a short break in the green, right in the city center."
+            "en": "An ideal spot for a short break in the green, right in the city center.",
+            "sk": "Ideálne miesto na krátky oddych v zeleni priamo v centre mesta."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Galerie Považie",
             "hu": "Považie Galéria",
             "ro": "Galeria Považie",
-            "en": "Považie Gallery"
+            "en": "Považie Gallery",
+            "sk": "Považská galéria"
           },
           "coords": [
             18.4435,
@@ -85,7 +90,8 @@
             "de": "Konzentriert sich auf slowakische Kunst des 20. und 21. Jahrhunderts. Überprüfen Sie die aktuellen Ausstellungen.",
             "hu": "A 20. és 21. századi szlovák művészetre összpontosít. Ellenőrizze az aktuális kiállításokat.",
             "ro": "Se concentrează pe arta slovacă din secolele XX și XXI. Verificați expozițiile curente.",
-            "en": "Focuses on Slovak art of the 20th and 21st centuries. Check the current exhibitions."
+            "en": "Focuses on Slovak art of the 20th and 21st centuries. Check the current exhibitions.",
+            "sk": "Zameriava sa na slovenské umenie 20. a 21. storočia. Overte si aktuálne výstavy."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Brunnen am Kino Mier",
             "hu": "Szökőkút a Mier mozinál",
             "ro": "Fântâna de la Cinematograful Mier",
-            "en": "Fountain at the Mier Cinema"
+            "en": "Fountain at the Mier Cinema",
+            "sk": "Fontána pri kine Mier"
           },
           "coords": [
             18.442,
@@ -109,7 +116,8 @@
             "de": "Ein beliebter Treffpunkt und ein schönes Fotomotiv, besonders am Abend.",
             "hu": "Népszerű találkozóhely és szép fotótéma, különösen este.",
             "ro": "Un punct de întâlnire popular și un subiect frumos pentru fotografii, mai ales seara.",
-            "en": "A popular meeting point and a nice photo subject, especially in the evening."
+            "en": "A popular meeting point and a nice photo subject, especially in the evening.",
+            "sk": "Obľúbené miesto stretnutí a pekný objekt na fotografiu, najmä večer."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Herrenhaus Orlové",
             "hu": "Orlové kastély",
             "ro": "Conacul Orlové",
-            "en": "Orlové Manor House"
+            "en": "Orlové Manor House",
+            "sk": "Kaštieľ Orlové"
           },
           "coords": [
             18.468,
@@ -133,7 +142,8 @@
             "de": "Heute ein Hotel, aber der Park und das Äußere sind einen Spaziergang wert. Bewundern Sie die Renaissance-Architektur.",
             "hu": "Ma szálloda, de a park és a külső megér egy sétát. Csodálja meg a reneszánsz építészetet.",
             "ro": "Astăzi este un hotel, dar parcul și exteriorul merită o plimbare. Admirați arhitectura renascentistă.",
-            "en": "Now a hotel, but the park and exterior are worth a walk. Admire the Renaissance architecture."
+            "en": "Now a hotel, but the park and exterior are worth a walk. Admire the Renaissance architecture.",
+            "sk": "Dnes hotel, ale park a exteriér stoja za prechádzku. Obdivujte renesančnú architektúru."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Kalvarienberg",
             "hu": "Kálvária-hegy",
             "ro": "Calvarul",
-            "en": "Calvary Hill"
+            "en": "Calvary Hill",
+            "sk": "Kalvársky vrch"
           },
           "coords": [
             18.437,
@@ -157,7 +168,8 @@
             "de": "Ein kurzer, steiler Aufstieg, der mit einer fantastischen Aussicht über die Stadt belohnt wird.",
             "hu": "Egy rövid, meredek emelkedő, amely fantasztikus kilátással jutalmaz a városra.",
             "ro": "O urcare scurtă și abruptă, recompensată cu o priveliște fantastică asupra orașului.",
-            "en": "A short, steep climb rewarded with a fantastic view over the city."
+            "en": "A short, steep climb rewarded with a fantastic view over the city.",
+            "sk": "Krátky, strmý výstup, ktorý odmení fantastickým výhľadom na mesto."
           }
         }
       ],
@@ -165,7 +177,8 @@
         "de": "Beginnen Sie Ihren Tag im Herzen von Považská Bystrica mit einem Besuch der Mariä-Heimsuchung-Kirche. Schlendern Sie anschließend durch den Stadtpark. Am Mittag tauchen Sie in der Galerie Považie in die slowakische Kunst ein, gefolgt von einer kurzen Rast am Brunnen. Am Nachmittag unternehmen Sie einen längeren Spaziergang zum Herrenhaus Orlové. Beenden Sie den Tag mit dem Aufstieg zum Kalvarienberg, um den Sonnenuntergang über der Stadt zu genießen.",
         "hu": "Kezdje a napot Vágbeszterce szívében a Sarlós Boldogasszony-templom meglátogatásával. Ezután sétáljon át a Városi Parkon. Délben merüljön el a szlovák művészetben a Považie Galériában, majd pihenjen egyet a szökőkútnál. Délután tegyen egy hosszabb sétát az Orlové kastélyhoz. A napot a Kálvária-hegy megmászásával zárja, ahonnan megcsodálhatja a naplementét a város felett.",
         "ro": "Începeți ziua în inima orașului Považská Bystrica cu o vizită la Biserica Vizita Fecioarei Maria. Apoi, plimbați-vă prin Parcul Orașului. La prânz, scufundați-vă în arta slovacă la Galeria Považie, urmată de o scurtă pauză la fântână. După-amiaza, faceți o plimbare mai lungă până la Conacul Orlové. Încheiați ziua urcând pe Dealul Calvarului pentru a vă bucura de apusul peste oraș.",
-        "en": "Start your day in the heart of Považská Bystrica with a visit to the Church of the Visitation. Then, stroll through the City Park. At noon, immerse yourself in Slovak art at the Považie Gallery, followed by a short break at the fountain. In the afternoon, take a longer walk to the Orlové Manor House. End the day by climbing Calvary Hill to enjoy the sunset over the city."
+        "en": "Start your day in the heart of Považská Bystrica with a visit to the Church of the Visitation. Then, stroll through the City Park. At noon, immerse yourself in Slovak art at the Považie Gallery, followed by a short break at the fountain. In the afternoon, take a longer walk to the Orlové Manor House. End the day by climbing Calvary Hill to enjoy the sunset over the city.",
+        "sk": "Začnite deň v srdci Považskej Bystrice návštevou Kostola Navštívenia. Potom sa prejdite Mestským parkom. Napoludnie sa ponorte do slovenského umenia v Považskej galérii, po ktorej nasleduje krátka prestávka pri fontáne. Popoludnie venujte dlhšej prechádzke k kaštieľu Orlové. Deň zakončite výstupom na Kalvársky vrch a vychutnajte si západ slnka nad mestom."
       },
       "gastro_picks": {
         "de": [
@@ -361,6 +374,12 @@
           "Bring a water bottle, especially for the longer afternoon walk.",
           "Check the opening hours of the Považie Gallery in advance.",
           "Most places in the city center are easily accessible on foot."
+        ],
+        "sk": [
+          "Noste pohodlnú obuv, keďže budete veľa chodiť, najmä pri výstupe na Kalvársky vrch.",
+          "Vezmite si fľašu s vodou, najmä na dlhšiu popoludňajšiu prechádzku.",
+          "Vopred si skontrolujte otváracie hodiny Považskej galérie.",
+          "Väčšina miest v centre je ľahko dostupná pešo."
         ]
       },
       "variants": {
@@ -369,7 +388,8 @@
             "de": "Beginnen Sie den Tag unter dem Schutz der Mariä-Heimsuchung-Kirche, während der Regen gegen die Fenster trommelt. Ein Spaziergang durch den Stadtpark erfordert heute einen festen Schirm, führt Sie aber schnell zur Považie-Galerie, einem idealen Rückzugsort für Kunstliebhaber. Der Nachmittag im Schloss Orlové bietet historischen Glanz im Trockenen, bevor der Tag mit einer mystischen Aussicht vom Kalvarienberg im Nebel endet.",
             "hu": "Kezdje a napot a Szűz Mária látogatása templom oltalmában, miközben az eső kopog az üvegablakokon. A városi park ma masszív esernyőt igényel, de az út hamar a Vágmenti Galériába vezet, amely tökéletes menedék a művészetkedvelőknek. Délután az Orlové-kastély belső terei nyújtanak száraz eleganciát, végül a Kálvária-domb ködös, misztikus panorámájával zárul a nap a Vág völgye felett.",
             "ro": "Începeți ziua sub protecția Bisericii Vizitarea Fecioarei Maria, în timp ce ploaia bate în ferestre. O plimbare prin parcul orașului necesită astăzi o umbrelă solidă, dar vă conduce rapid la Galeria Považie, un refugiu ideal pentru iubitorii de artă. După-amiaza la Conacul Orlové oferă splendoare istorică la adăpost, înainte ca ziua să se încheie cu o priveliște mistică de pe dealul Calvarului în ceață.",
-            "en": "Start the day under the protection of the Church of the Visitation of the Virgin Mary while rain drums against the windows. A walk through the City Park requires a sturdy umbrella today, but leads you quickly to the Považie Gallery, an ideal refuge for art lovers. The afternoon at Orlové Manor offers historical splendor in the dry, before the day ends with a mystical view from Calvary Hill in the mist."
+            "en": "Start the day under the protection of the Church of the Visitation of the Virgin Mary while rain drums against the windows. A walk through the City Park requires a sturdy umbrella today, but leads you quickly to the Považie Gallery, an ideal refuge for art lovers. The afternoon at Orlové Manor offers historical splendor in the dry, before the day ends with a mystical view from Calvary Hill in the mist.",
+            "sk": "Deň začnite v útočišti Kostola Navštívenia Panny Márie, kým dážď bubnuje o okná. Prechádzka Mestským parkom si dnes vyžaduje pevný dáždnik, ale rýchlo vás zavedie k Považskej galérii, ktorá je ideálnym miestom pre milovníkov umenia. Popoludnie v kaštieli Orlové ponúkne historický lesk v suchu, predtým než deň skončí mystickým výhľadom z Kalvárskeho vrchu v hmle."
           },
           "stops": [
             {
@@ -378,7 +398,8 @@
                 "de": "Ein ruhiger, trockener Ort, um die neugotischen Details zu bewundern.",
                 "hu": "Csendes, száraz helyszín a neogótikus részletek megcsodálásához.",
                 "ro": "Un loc liniștit și uscat pentru a admira detaliile neogotice.",
-                "en": "A quiet, dry spot to admire the neo-Gothic details."
+                "en": "A quiet, dry spot to admire the neo-Gothic details.",
+                "sk": "Tiché suché miesto na obdivovanie neogotických detailov."
               }
             },
             {
@@ -387,7 +408,8 @@
                 "de": "Die asphaltierten Wege vermeiden Matsch, aber Vorsicht vor Pfützen.",
                 "hu": "Az aszfaltozott utak segítenek elkerülni a sarat, de vigyázzon a tócsákra.",
                 "ro": "Potecile asfaltate evită noroiul, dar atenție la bălți.",
-                "en": "Asphalt paths avoid mud, but watch out for puddles."
+                "en": "Asphalt paths avoid mud, but watch out for puddles.",
+                "sk": "Asfaltové cesty zabraňujú blatu, no dávajte pozor na kaluže."
               }
             },
             {
@@ -396,7 +418,8 @@
                 "de": "Perfekter Ort für eine lange Pause, wenn der Regen am stärksten ist.",
                 "hu": "Tökéletes hely egy hosszú szünetre, amikor az eső a legerősebben esik.",
                 "ro": "Locul perfect pentru o pauză lungă când ploaia este mai puternică.",
-                "en": "Perfect place for a long break when the rain is heaviest."
+                "en": "Perfect place for a long break when the rain is heaviest.",
+                "sk": "Perfektné miesto na dlhší oddych, keď je dážď najintenzívnejší."
               }
             },
             {
@@ -405,7 +428,8 @@
                 "de": "Nur ein kurzer Stopp; das Kinofoyer bietet kurzzeitig Schutz.",
                 "hu": "Csak egy rövid megálló; a mozi előtere rövid ideig menedéket nyújt.",
                 "ro": "Doar o scurtă oprire; foierul cinematografului oferă adăpost temporar.",
-                "en": "Just a quick stop; the cinema foyer offers brief shelter."
+                "en": "Just a quick stop; the cinema foyer offers brief shelter.",
+                "sk": "Len rýchla zastávka; foyer kina ponúka krátky úkryt."
               }
             },
             {
@@ -414,7 +438,8 @@
                 "de": "Genießen Sie einen Kaffee im Schlosshof unter den Arkaden.",
                 "hu": "Élvezze a kávét a kastély udvarán az árkádok alatt.",
                 "ro": "Savurați o cafea în curtea conacului sub arcade.",
-                "en": "Enjoy a coffee in the manor courtyard under the arcades."
+                "en": "Enjoy a coffee in the manor courtyard under the arcades.",
+                "sk": "Vychutnajte si kávu na nádvorí kaštieľa pod arkádami."
               }
             },
             {
@@ -423,7 +448,8 @@
                 "de": "Die Stufen können rutschig sein; festes Schuhwerk ist heute Pflicht.",
                 "hu": "A lépcsők csúszósak lehetnek; a túrabakancs ma kötelező.",
                 "ro": "Treptele pot fi alunecoase; încălțămintea solidă este obligatorie astăzi.",
-                "en": "The steps can be slippery; sturdy footwear is a must today."
+                "en": "The steps can be slippery; sturdy footwear is a must today.",
+                "sk": "Schody môžu byť šmykľavé; dnes je pevná obuv nevyhnutná."
               }
             }
           ],
@@ -455,6 +481,13 @@
               "Use the shopping passages in the center as a dry shortcut.",
               "A rain poncho is more practical than an umbrella on the windy hills.",
               "Check the manor's opening hours for indoor tours."
+            ],
+            "sk": [
+              "Noste nepremokavú obuv, lebo cesty ku Kalvárii sa v daždi menia na blato.",
+              "Galéria je zatvorená v pondelok, naplánujte si návštevu podľa toho.",
+              "Využite nákupné pasáže v centre ako suchú skratku.",
+              "Na veterných kopcoch je pršiplášť praktickejší než dáždnik.",
+              "Skontrolujte otváracie hodiny kaštieľa pre vnútorné prehliadky."
             ]
           }
         },
@@ -463,7 +496,8 @@
             "de": "Ein frostiger Morgen beginnt in der warmen Kirche, bevor Sie die winterliche Stille des Stadtparks erleben. Die Považie-Galerie bietet die nötige Aufwärmpause bei Kunst und Kultur. Zum Mittagessen lockt das Schloss Orlové mit festlicher Atmosphäre. Krönen Sie den kurzen Wintertag mit einem Aufstieg zum Kalvarienberg, um die Lichter der Stadt in der frühen Dämmerung unter einer Schneedecke zu bewundern.",
             "hu": "A fagyos reggel a meleg templomban indul, majd a városi park téli csendjét élvezheti. A Vágmenti Galéria biztosítja a szükséges melegedőt a művészetek között. Ebédre az Orlové-kastély ünnepi hangulata hívogat. A rövid téli napot a Kálvária-dombra való feljutással koronázza meg, hogy megcsodálja a város fényeit a korai szürkületben, hófödte táj mellett.",
             "ro": "O dimineață geroasă începe în biserica caldă, înainte de a experimenta liniștea iernatică a parcului orașului. Galeria Považie oferă pauza necesară de încălzire cu artă și cultură. Pentru prânz, Conacul Orlové atrage cu o atmosferă festivă. Încheiați ziua scurtă de iarnă cu o urcare la Calvar pentru a admira luminile orașului în amurgul timpuriu sub zăpadă.",
-            "en": "A frosty morning starts in the warm church before experiencing the wintry silence of the City Park. The Považie Gallery provides the necessary warming break with art and culture. For lunch, Orlové Manor beckons with a festive atmosphere. Crown the short winter day with a climb to Calvary Hill to admire the city lights in the early dusk under a blanket of snow."
+            "en": "A frosty morning starts in the warm church before experiencing the wintry silence of the City Park. The Považie Gallery provides the necessary warming break with art and culture. For lunch, Orlové Manor beckons with a festive atmosphere. Crown the short winter day with a climb to Calvary Hill to admire the city lights in the early dusk under a blanket of snow.",
+            "sk": "Mrazivé ráno začína v teplom kostole predtým, než zažijete zimné ticho Mestského parku. Považská galéria poskytne vítanú otepleňujúcu prestávku s umením a kultúrou. Na obed kaštieľ Orlové láka slávnostnou atmosférou. Krátky zimný deň korunujte výstupom na Kalvársky vrch a obdivujte svetlá mesta v skorom súmraku pod prikrývkou snehu."
           },
           "stops": [
             {
@@ -472,7 +506,8 @@
                 "de": "Morgendliche Messen sorgen für eine angenehme Wärme im Innenraum.",
                 "hu": "A reggeli misék kellemes meleget biztosítanak a belső térben.",
                 "ro": "Slujbele de dimineață asigură o căldură plăcută în interior.",
-                "en": "Morning masses provide a pleasant warmth in the interior."
+                "en": "Morning masses provide a pleasant warmth in the interior.",
+                "sk": "Ranné omše poskytujú príjemné zahriatie v interiéri."
               }
             },
             {
@@ -481,7 +516,8 @@
                 "de": "Die verschneiten Bäume bieten ein wunderschönes Fotomotiv.",
                 "hu": "A hófödte fák gyönyörű fotótémát kínálnak.",
                 "ro": "Copacii înzăpeziți oferă un decor minunat pentru fotografii.",
-                "en": "The snow-covered trees offer a beautiful photo opportunity."
+                "en": "The snow-covered trees offer a beautiful photo opportunity.",
+                "sk": "Snehom pokryté stromy sú peknou fotografickou príležitosťou."
               }
             },
             {
@@ -490,7 +526,8 @@
                 "de": "Nutzen Sie die Garderobe, um schwere Wintermäntel abzulegen.",
                 "hu": "Használja a ruhatárat a nehéz télikabátok lepakolásához.",
                 "ro": "Folosiți garderoba pentru a lăsa hainele grele de iarnă.",
-                "en": "Use the cloakroom to leave heavy winter coats."
+                "en": "Use the cloakroom to leave heavy winter coats.",
+                "sk": "Využite šatňu na odloženie ťažkých zimných kabátov."
               }
             },
             {
@@ -499,7 +536,8 @@
                 "de": "Der Brunnen ist meist außer Betrieb, wirkt aber mit Frost oft skulptural.",
                 "hu": "A szökőkút általában nem üzemel, de a dérrel gyakran szoborszerű.",
                 "ro": "Fântâna este de obicei oprită, dar cu îngheț pare o sculptură.",
-                "en": "The fountain is usually off, but often looks sculptural with frost."
+                "en": "The fountain is usually off, but often looks sculptural with frost.",
+                "sk": "Fontána je zvyčajne vypnutá, no pri mraze pôsobí sochársky."
               }
             },
             {
@@ -508,7 +546,8 @@
                 "de": "Besonders stimmungsvoll bei Sonnenuntergang gegen 16:00 Uhr.",
                 "hu": "Különösen hangulatos naplementekor, 16:00 óra körül.",
                 "ro": "Deosebit de atmosferic la apus, în jurul orei 16:00.",
-                "en": "Particularly atmospheric at sunset around 4:00 PM."
+                "en": "Particularly atmospheric at sunset around 4:00 PM.",
+                "sk": "Mimoriadne atmosférické pri západe slnka okolo 16:00."
               }
             },
             {
@@ -517,7 +556,8 @@
                 "de": "Achtung vor vereisten Stufen; nutzen Sie die Handläufe.",
                 "hu": "Vigyázat a jeges lépcsőkkel; használja a korlátokat.",
                 "ro": "Atenție la treptele înghețate; folosiți balustradele.",
-                "en": "Beware of icy steps; make use of the handrails."
+                "en": "Beware of icy steps; make use of the handrails.",
+                "sk": "Dávajte pozor na namrznuté schody; používajte zábradlia."
               }
             }
           ],
@@ -549,6 +589,13 @@
               "Many cafes in the center offer hot chocolate with local spirits.",
               "The City Park is illuminated early, creating a magical atmosphere.",
               "Check if the manor offers special Advent events."
+            ],
+            "sk": [
+              "Západ slnka v zime je už okolo 16:15.",
+              "Noste termo vložky do topánok pri výstupe na Kalvársky vrch.",
+              "Mnohé kaviarne v centre ponúkajú horúcu čokoládu s lokálnym likérom.",
+              "Mestský park je skoro osvetlený, čo vytvára kúzelnú atmosféru.",
+              "Skontrolujte, či kaštieľ neponúka špeciálne adventné podujatia."
             ]
           }
         }
@@ -567,7 +614,8 @@
             "de": "Herrenhaus Orlové",
             "hu": "Orlové kastély",
             "ro": "Conacul Orlové",
-            "en": "Orlové Manor House"
+            "en": "Orlové Manor House",
+            "sk": "Kaštieľ Orlové"
           },
           "coords": [
             18.468,
@@ -583,7 +631,8 @@
             "de": "Ein guter Startpunkt, um sich aufzuwärmen. Der Park ist ideal für eine erste Erkundung.",
             "hu": "Jó kiindulópont a bemelegítéshez. A park ideális az első felfedezéshez.",
             "ro": "Un bun punct de plecare pentru a vă încălzi. Parcul este ideal pentru o primă explorare.",
-            "en": "A good starting point to warm up. The park is ideal for a first exploration."
+            "en": "A good starting point to warm up. The park is ideal for a first exploration.",
+            "sk": "Dobrý východiskový bod na zahriatie. Park je ideálny na prvé preskúmanie."
           }
         },
         {
@@ -591,7 +640,8 @@
             "de": "Mariä-Heimsuchung-Kirche",
             "hu": "Sarlós Boldogasszony-templom",
             "ro": "Biserica Vizita Fecioarei Maria",
-            "en": "Church of the Visitation of the Virgin Mary"
+            "en": "Church of the Visitation of the Virgin Mary",
+            "sk": "Kostol Navštívenia Panny Márie"
           },
           "coords": [
             18.4448,
@@ -607,7 +657,8 @@
             "de": "Stellen Sie Ihr Fahrrad sicher ab und nehmen Sie sich Zeit für das Innere der Kirche.",
             "hu": "Zárja le biztonságosan a kerékpárját, és szánjon időt a templom belsejére.",
             "ro": "Asigurați-vă bicicleta și acordați-vă timp pentru a explora interiorul bisericii.",
-            "en": "Secure your bike and take time to explore the church's interior."
+            "en": "Secure your bike and take time to explore the church's interior.",
+            "sk": "Zabezpečte si bicykel a venujte čas preskúmaniu interiéru kostola."
           }
         },
         {
@@ -615,7 +666,8 @@
             "de": "Mittagessen im Stadtzentrum",
             "hu": "Ebéd a városközpontban",
             "ro": "Prânz în centrul orașului",
-            "en": "Lunch in the City Center"
+            "en": "Lunch in the City Center",
+            "sk": "Obed v centre mesta"
           },
           "coords": [
             18.445,
@@ -631,7 +683,8 @@
             "de": "Probieren Sie eine lokale Spezialität in einem der Restaurants rund um den Hauptplatz.",
             "hu": "Kóstoljon meg egy helyi specialitást a főtér körüli éttermek egyikében.",
             "ro": "Încercați o specialitate locală la unul dintre restaurantele din jurul pieței principale.",
-            "en": "Try a local specialty at one of the restaurants around the main square."
+            "en": "Try a local specialty at one of the restaurants around the main square.",
+            "sk": "Vyskúšajte miestnu špecialitu v jednej z reštaurácií okolo hlavného námestia."
           }
         },
         {
@@ -639,7 +692,8 @@
             "de": "Manínska-Schlucht",
             "hu": "Manin-szurdok",
             "ro": "Cheile Manínska",
-            "en": "Manínska Gorge"
+            "en": "Manínska Gorge",
+            "sk": "Manínska tiesňava"
           },
           "coords": [
             18.528,
@@ -655,7 +709,8 @@
             "de": "Die Radtour zur Schlucht ist anspruchsvoll, aber die Landschaft ist die Mühe wert. Schieben Sie das Rad durch die engsten Stellen.",
             "hu": "A kerékpártúra a szurdokhoz kihívást jelent, de a táj megéri a fáradozást. Tolja a kerékpárt a legszűkebb részeken.",
             "ro": "Plimbarea cu bicicleta până la chei este solicitantă, dar peisajul merită efortul. Împingeți bicicleta prin cele mai înguste locuri.",
-            "en": "The bike ride to the gorge is challenging, but the scenery is worth the effort. Push the bike through the narrowest parts."
+            "en": "The bike ride to the gorge is challenging, but the scenery is worth the effort. Push the bike through the narrowest parts.",
+            "sk": "Cyklistická trasa k tiesňave je náročná, ale scenéria stojí za námahu. Najúzkejšie úseky prejdite s bicyklom v ruke."
           }
         },
         {
@@ -663,7 +718,8 @@
             "de": "Burg Považie (Ruinen)",
             "hu": "Vágbeszterce vára (romok)",
             "ro": "Cetatea Považie (ruine)",
-            "en": "Považie Castle (ruins)"
+            "en": "Považie Castle (ruins)",
+            "sk": "Považský hrad (rúny)"
           },
           "coords": [
             18.43,
@@ -679,7 +735,8 @@
             "de": "Lassen Sie Ihr Rad am Fuße des Hügels und steigen Sie für eine atemberaubende Aussicht auf.",
             "hu": "Hagyja a kerékpárt a hegy lábánál, és másszon fel a lélegzetelállító kilátásért.",
             "ro": "Lăsați bicicleta la poalele dealului și urcați pentru o priveliște uluitoare.",
-            "en": "Leave your bike at the foot of the hill and climb up for a breathtaking view."
+            "en": "Leave your bike at the foot of the hill and climb up for a breathtaking view.",
+            "sk": "Nechajte bicykel pri podnoží kopca a vyjdite pešo na dychberúci výhľad."
           }
         }
       ],
@@ -687,7 +744,8 @@
         "de": "Starten Sie Ihre Radtour mit einer Fahrt zum eleganten Herrenhaus Orlové. Von dort geht es zurück ins Stadtzentrum zur historischen Mariä-Heimsuchung-Kirche und zum Mittagessen. Der Nachmittag ist ein Abenteuer: eine anspruchsvolle, aber lohnende Fahrt zur spektakulären Manínska-Schlucht. Auf dem Rückweg halten Sie an den Ruinen der Burg Považie, um den Tag mit einem Panoramablick über das Waagtal ausklingen zu lassen.",
         "hu": "Kezdje a kerékpártúrát egy tekeréssel az elegáns Orlové kastélyhoz. Onnan vissza a városközpontba a történelmi Sarlós Boldogasszony-templomhoz és egy ebédre. A délután egy kaland: egy kihívást jelentő, de annál inkább megérő út a látványos Manin-szurdokhoz. Visszafelé álljon meg Vágbeszterce várának romjainál, hogy a Vág-völgyre nyíló panorámával zárja a napot.",
         "ro": "Începeți turul cu bicicleta cu o plimbare până la elegantul Conac Orlové. De acolo, întoarceți-vă în centrul orașului la istorica Biserică a Vizitării Fecioarei Maria și pentru prânz. După-amiaza este o aventură: o plimbare provocatoare, dar plină de satisfacții, către spectaculoasele Chei Manínska. La întoarcere, opriți-vă la ruinele Cetății Považie pentru a încheia ziua cu o vedere panoramică asupra văii râului Váh.",
-        "en": "Start your bike tour with a ride to the elegant Orlové Manor House. From there, head back to the city center to the historic Church of the Visitation and for lunch. The afternoon is an adventure: a challenging but rewarding ride to the spectacular Manínska Gorge. On the way back, stop at the ruins of Považie Castle to end the day with a panoramic view over the Váh valley."
+        "en": "Start your bike tour with a ride to the elegant Orlové Manor House. From there, head back to the city center to the historic Church of the Visitation and for lunch. The afternoon is an adventure: a challenging but rewarding ride to the spectacular Manínska Gorge. On the way back, stop at the ruins of Považie Castle to end the day with a panoramic view over the Váh valley.",
+        "sk": "Začnite cyklotúru jazdou k elegantnému kaštieľu Orlové. Odtiaľ sa vráťte do centra mesta ku historickému Kostolu Navštívenia a na obed. Popoludnie bude dobrodružstvom: náročná, no odmeňujúca jazda k impozantnej Manínskej tiesňave. Na ceste späť sa zastavte pri ruinách Považského hradu a ukončite deň panoramatickým výhľadom na údolie Váhu."
       },
       "gastro_picks": {
         "de": [
@@ -883,6 +941,12 @@
           "A helmet is highly recommended, especially on the roads outside the city.",
           "The route to the Manínska Gorge has some climbs. Be prepared.",
           "Bring a good lock to secure your bike while you're sightseeing."
+        ],
+        "sk": [
+          "Skontrolujte bicykel pred odjazdom, najmä brzdy a pneumatiky.",
+          "Prilba je veľmi odporúčaná, najmä na cestách mimo mesta.",
+          "Trasa k Manínskej tiesňave obsahuje niekoľko stúpaní. Buďte pripravení.",
+          "Vezmite si kvalitný zámok na zabezpečenie bicykla počas prehliadky."
         ]
       },
       "variants": {
@@ -891,7 +955,8 @@
             "de": "Trotzen Sie dem Regen auf zwei Rädern mit einem Besuch im Schloss Orlové. Die Fahrt zur Mariä-Heimsuchung-Kirche ist kurz, gefolgt von einer Stärkung im Zentrum. Die Manínska-Schlucht ist bei Regen besonders dramatisch, wenn das Wasser die Felsen hinabstürzt. Beenden Sie die Tour an der Burgruine Považie, wo der nasse Stein eine düstere, historische Aura versprüht.",
             "hu": "Dacoljon az esővel két keréken, kezdve az Orlové-kastélynál. A Szűz Mária templomhoz vezető út rövid, utána jöhet egy erősítő ebéd a központban. A Manini-szakadék esőben különösen drámai, ahogy a víz lezúdul a sziklákon. Zárja a túrát a Vágbesztercei várromnál, ahol a nedves kövek sötét, történelmi aurát árasztanak.",
             "ro": "Înfruntați ploaia pe două roți cu o vizită la Conacul Orlové. Drumul spre Biserica Vizitarea Fecioarei Maria este scurt, urmat de un prânz în centru. Cheile Manínska sunt deosebit de dramatice în ploaie, când apa se scurge pe stânci. Încheiați turul la ruinele Castelului Považie, unde piatra umedă emană o aură istorică sumbră.",
-            "en": "Brave the rain on two wheels with a visit to Orlové Manor. The ride to the Church of the Visitation is short, followed by a lunch in the center. Manínska Gorge is particularly dramatic in the rain as water cascades down the rocks. End the tour at the Považie Castle ruins, where the wet stone exudes a dark, historical aura."
+            "en": "Brave the rain on two wheels with a visit to Orlové Manor. The ride to the Church of the Visitation is short, followed by a lunch in the center. Manínska Gorge is particularly dramatic in the rain as water cascades down the rocks. End the tour at the Považie Castle ruins, where the wet stone exudes a dark, historical aura.",
+            "sk": "Odvážte sa do dažďa na dvoch kolesách s návštevou kaštieľa Orlové. Jazda ku Kostolu Navštívenia Panny Márie je krátka, po ktorej nasleduje obed v centre. Manínska tiesňava je v daždi obzvlášť dramatická, keď voda steká po skalách. Ukončite výlet pri zrúcaninách Považského hradu, kde mokré kamene vydávajú tmavú, historickú atmosféru."
           },
           "stops": [
             {
@@ -900,7 +965,8 @@
                 "de": "Unter den Arkaden gibt es trockene Abstellmöglichkeiten für Fahrräder.",
                 "hu": "Az árkádok alatt száraz kerékpártárolási lehetőség van.",
                 "ro": "Sub arcade există locuri uscate pentru parcarea bicicletelor.",
-                "en": "There are dry bicycle parking options under the arcades."
+                "en": "There are dry bicycle parking options under the arcades.",
+                "sk": "Sú tu suché možnosti parkovania bicyklov pod arkádami."
               }
             },
             {
@@ -909,7 +975,8 @@
                 "de": "Kurzer Stopp, um die Kleidung im Eingangsbereich kurz zu richten.",
                 "hu": "Rövid megálló, a bejáratnál megigazíthatja az esőruházatát.",
                 "ro": "Oprire scurtă pentru a ajusta hainele în zona de intrare.",
-                "en": "Quick stop to adjust your rain gear in the entrance area."
+                "en": "Quick stop to adjust your rain gear in the entrance area.",
+                "sk": "Krátka prestávka na upravenie pršiplášťa v priestoroch vchodu."
               }
             },
             {
@@ -918,7 +985,8 @@
                 "de": "Suchen Sie ein Lokal mit Sicht auf Ihr Rad im Außenbereich.",
                 "hu": "Keressen olyan helyet, ahol rálát a kerékpárjára.",
                 "ro": "Căutați un local cu vedere la bicicletă în exterior.",
-                "en": "Find a place with a view of your bike outside."
+                "en": "Find a place with a view of your bike outside.",
+                "sk": "Nájdite miesto s výhľadom na váš bicykel zvonka."
               }
             },
             {
@@ -927,7 +995,8 @@
                 "de": "Vorsicht bei herabfallenden Steinchen und rutschigem Asphalt.",
                 "hu": "Vigyázzon a lehulló kövekre és a csúszós aszfaltra.",
                 "ro": "Atenție la pietricelele care cad și la asfaltul alunecos.",
-                "en": "Watch out for falling pebbles and slippery asphalt."
+                "en": "Watch out for falling pebbles and slippery asphalt.",
+                "sk": "Dávajte pozor na padajúce kamienky a šmykľavý asfalt."
               }
             },
             {
@@ -936,7 +1005,8 @@
                 "de": "Der Aufstiegspfad kann sehr matschig sein; schieben ist sicherer.",
                 "hu": "A felfelé vezető ösvény nagyon sáros lehet; a tolás biztonságosabb.",
                 "ro": "Poteca de urcare poate fi foarte noroioasă; împingerea este mai sigură.",
-                "en": "The climb path can be very muddy; pushing the bike is safer."
+                "en": "The climb path can be very muddy; pushing the bike is safer.",
+                "sk": "Stúpacia cesta môže byť veľmi blátivá; tlačenie bicykla je bezpečnejšie."
               }
             }
           ],
@@ -968,6 +1038,13 @@
               "Strong gusty winds often blow in the gorge during rain.",
               "Wear neon rain gear for better visibility in the mist.",
               "The road to the castle is narrow; watch out for oncoming traffic."
+            ],
+            "sk": [
+              "Blatníky sú na tejto trase cez údolie nevyhnutné.",
+              "Vyhnite sa brzdeniu na mokrých cestných značeniach v centre mesta.",
+              "Silné nárazové vetry často vdúvajú v tiesňave počas dažďa.",
+              "Noste neónový pršiplášť pre lepšiu viditeľnosť v hmle.",
+              "Cesta k hradu je úzka; dávajte pozor na protiidúcu premávku."
             ]
           }
         },
@@ -976,7 +1053,8 @@
             "de": "Eine winterliche Radtour führt Sie zuerst zum prachtvollen Schloss Orlové. Nach einem kurzen Halt an der Kirche wärmen Sie sich bei einem heißen Mittagessen auf. Die Fahrt durch die Manínska-Schlucht ist atemberaubend, wenn Eisformationen an den Felswänden hängen. Den Abschluss bildet der frostige Aufstieg zur Burg Považie, von wo aus Sie einen weiten Blick über das schneebedeckte Waag-Tal haben.",
             "hu": "A téli kerékpártúra először a pompás Orlové-kastélyhoz vezet. Rövid templomi megálló után melegedjen fel egy forró ebéddel. A Manini-szakadékon átvezető út lélegzetelállító, amikor jégcsapok függnek a sziklafalakon. A zárás a fagyos felkapaszkodás a Vágbesztercei várhoz, ahonnan pazar kilátás nyílik a hófödte Vág-völgyre.",
             "ro": "O tură de iarnă cu bicicleta vă duce mai întâi la magnificul Conac Orlové. După o scurtă oprire la biserică, încălziți-vă cu un prânz fierbinte. Drumul prin Cheile Manínska este uluitor când formațiunile de gheață atârnă pe stânci. Finalul este urcarea geroasă la Castelul Považie, de unde aveți o vedere largă asupra văii înghețate a râului Váh.",
-            "en": "A winter bike tour leads you first to the magnificent Orlové Manor. After a short stop at the church, warm up with a hot lunch. The ride through Manínska Gorge is breathtaking when ice formations hang from the rock walls. The finale is the frosty climb to Považie Castle, offering a wide view over the snow-covered Váh valley."
+            "en": "A winter bike tour leads you first to the magnificent Orlové Manor. After a short stop at the church, warm up with a hot lunch. The ride through Manínska Gorge is breathtaking when ice formations hang from the rock walls. The finale is the frosty climb to Považie Castle, offering a wide view over the snow-covered Váh valley.",
+            "sk": "Zimný cyklovýlet vás najprv zavedie k nádhernému kaštieľu Orlové. Po krátkej zastávke pri kostole sa zohrejte pri horúcom obede. Jazda cez Manínsku tiesňavu je dychberúca, keď z oceľových stien visia ľadové útvary. Finále tvorí mrazivý výstup na Považský hrad, ktorý ponúka široký výhľad na zasnežené vážske údolie."
           },
           "stops": [
             {
@@ -985,7 +1063,8 @@
                 "de": "Die Außenanlagen sind geräumt, aber Vorsicht vor Glatteis auf dem Kopfsteinpflaster.",
                 "hu": "A külső tereket letakarítják, de vigyázzon a jégre a macskakövön.",
                 "ro": "Zonele exterioare sunt curățate, dar atenție la polei pe piatra cubică.",
-                "en": "Outdoor areas are cleared, but watch out for black ice on cobblestones."
+                "en": "Outdoor areas are cleared, but watch out for black ice on cobblestones.",
+                "sk": "Vonku sú priestory upratané, ale dávajte pozor na čierny ľad na kockovitých dlažbách."
               }
             },
             {
@@ -994,7 +1073,8 @@
                 "de": "Ein Ort der Stille und Wärme vor der Weiterfahrt in die Natur.",
                 "hu": "A csend és a meleg helyszíne, mielőtt továbbindul a természetbe.",
                 "ro": "Un loc de liniște și căldură înainte de a continua spre natură.",
-                "en": "A place of silence and warmth before continuing into nature."
+                "en": "A place of silence and warmth before continuing into nature.",
+                "sk": "Miesto ticha a tepla pred ďalším vstupom do prírody."
               }
             },
             {
@@ -1003,7 +1083,8 @@
                 "de": "Bestellen Sie eine kräftige 'Kapustnica'-Suppe zur inneren Erwärmung.",
                 "hu": "Rendeljen egy tartalmas korhelylevest a belső felmelegedéshez.",
                 "ro": "Comandați o ciorbă de varză 'Kapustnica' pentru a vă încălzi.",
-                "en": "Order a hearty 'Kapustnica' soup for inner warmth."
+                "en": "Order a hearty 'Kapustnica' soup for inner warmth.",
+                "sk": "Objednajte si vydatnú kapustnicu pre vnútorné zohriatie."
               }
             },
             {
@@ -1012,7 +1093,8 @@
                 "de": "Die Temperatur in der Schlucht ist oft mehrere Grad kühler als in der Stadt.",
                 "hu": "A szakadékban a hőmérséklet gyakran több fokkal hűvösebb, mint a városban.",
                 "ro": "Temperatura în chei este adesea cu câteva grade mai scăzută decât în oraș.",
-                "en": "The temperature in the gorge is often several degrees cooler than in the city."
+                "en": "The temperature in the gorge is often several degrees cooler than in the city.",
+                "sk": "Teplota v tiesňave je často o niekoľko stupňov nižšia než v meste."
               }
             },
             {
@@ -1021,7 +1103,8 @@
                 "de": "Lassen Sie das Rad unten am Waldrand stehen; der Pfad ist oft vereist.",
                 "hu": "Hagyja a kerékpárt lent az erdőszélen; az ösvény gyakran jeges.",
                 "ro": "Lăsați bicicleta jos la marginea pădurii; poteca este adesea înghețată.",
-                "en": "Leave the bike down at the edge of the forest; the path is often icy."
+                "en": "Leave the bike down at the edge of the forest; the path is often icy.",
+                "sk": "Nechajte bicykel pri okraji lesa; cesta je často zľadovatená."
               }
             }
           ],
@@ -1053,6 +1136,13 @@
               "Your e-bike battery discharges significantly faster in the cold.",
               "Watch out for road salt, which can corrode your bike chain.",
               "Plan your return before darkness falls at 4:00 PM."
+            ],
+            "sk": [
+              "Použite pneumatiky s dobrým dezénom alebo s hrotmi pre oblasť tiesňavy.",
+              "Zimné rukavice sú nevyhnutné kvôli ochladzujúcemu vetru v údolí.",
+              "Batéria vášho elektrobicykla sa v chlade vybíja podstatne rýchlejšie.",
+              "Dávajte pozor na cestnú soľ, ktorá môže korodovať reťaz bicykla.",
+              "Naplánujte si návrat pred zotmením o 16:00."
             ]
           }
         }
@@ -1071,7 +1161,8 @@
             "de": "Manínska-Schlucht",
             "hu": "Manin-szurdok",
             "ro": "Cheile Manínska",
-            "en": "Manínska Gorge"
+            "en": "Manínska Gorge",
+            "sk": "Manínska tiesňava"
           },
           "coords": [
             18.528,
@@ -1087,7 +1178,8 @@
             "de": "Fahren Sie früh los, um die Menschenmassen zu vermeiden. Parken Sie am Eingang und erkunden Sie die engste Schlucht der Slowakei zu Fuß.",
             "hu": "Induljon korán, hogy elkerülje a tömeget. Parkoljon a bejáratnál, és fedezze fel gyalog Szlovákia legszűkebb szurdokát.",
             "ro": "Plecați devreme pentru a evita aglomerația. Parcați la intrare și explorați cele mai înguste chei din Slovacia pe jos.",
-            "en": "Leave early to avoid the crowds. Park at the entrance and explore Slovakia's narrowest gorge on foot."
+            "en": "Leave early to avoid the crowds. Park at the entrance and explore Slovakia's narrowest gorge on foot.",
+            "sk": "Vyrazte skoro, aby ste sa vyhli davom. Zaparkujte pri vchode a preskúmajte najužšiu tiesňavu Slovenska pešo."
           }
         },
         {
@@ -1095,7 +1187,8 @@
             "de": "Burg Považie (Ruinen)",
             "hu": "Vágbeszterce vára (romok)",
             "ro": "Cetatea Považie (ruine)",
-            "en": "Považie Castle (ruins)"
+            "en": "Považie Castle (ruins)",
+            "sk": "Považský hrad (zrúcanina)"
           },
           "coords": [
             18.43,
@@ -1111,7 +1204,8 @@
             "de": "Ein kurzer, steiler Aufstieg vom Parkplatz, der mit einer fantastischen Aussicht belohnt wird.",
             "hu": "Rövid, meredek séta a parkolóból, melyet fantasztikus kilátás jutalmaz.",
             "ro": "O scurtă urcare abruptă de la parcare, recompensată cu o priveliște fantastică.",
-            "en": "A short, steep walk up from the parking lot, rewarded with a fantastic view."
+            "en": "A short, steep walk up from the parking lot, rewarded with a fantastic view.",
+            "sk": "Krátka, strmá prechádzka z parkoviska, ktorá je odmenená fantastickým výhľadom."
           }
         },
         {
@@ -1119,7 +1213,8 @@
             "de": "Mittagessen im Herrenhaus Orlové",
             "hu": "Ebéd az Orlové kastélyban",
             "ro": "Prânz la Conacul Orlové",
-            "en": "Lunch at Orlové Manor House"
+            "en": "Lunch at Orlové Manor House",
+            "sk": "Obed v kaštieli Orlové"
           },
           "coords": [
             18.468,
@@ -1135,7 +1230,8 @@
             "de": "Parken Sie hier für den Rest des Tages. Genießen Sie ein Mittagessen im historischen Ambiente.",
             "hu": "Parkoljon le itt a nap hátralévő részére. Élvezze az ebédet a történelmi környezetben.",
             "ro": "Parcați aici pentru restul zilei. Bucurați-vă de un prânz în ambianța istorică.",
-            "en": "Park here for the rest of the day. Enjoy lunch in the historic ambiance."
+            "en": "Park here for the rest of the day. Enjoy lunch in the historic ambiance.",
+            "sk": "Zaparkujte tu na zvyšok dňa. Vychutnajte si obed v historickej atmosfére."
           }
         },
         {
@@ -1143,7 +1239,8 @@
             "de": "Mariä-Heimsuchung-Kirche",
             "hu": "Sarlós Boldogasszony-templom",
             "ro": "Biserica Vizita Fecioarei Maria",
-            "en": "Church of the Visitation of the Virgin Mary"
+            "en": "Church of the Visitation of the Virgin Mary",
+            "sk": "Kostol Navštívenia Panny Márie"
           },
           "coords": [
             18.4448,
@@ -1159,7 +1256,8 @@
             "de": "Ein angenehmer Spaziergang vom Herrenhaus ins Stadtzentrum.",
             "hu": "Kellemes séta a kastélytól a városközpontba.",
             "ro": "O plimbare plăcută de la conac până în centrul orașului.",
-            "en": "A pleasant walk from the manor house to the city center."
+            "en": "A pleasant walk from the manor house to the city center.",
+            "sk": "Príjemná prechádzka z kaštieľa do centra mesta."
           }
         },
         {
@@ -1167,7 +1265,8 @@
             "de": "Galerie Považie",
             "hu": "Považie Galéria",
             "ro": "Galeria Považie",
-            "en": "Považie Gallery"
+            "en": "Považie Gallery",
+            "sk": "Považská galéria"
           },
           "coords": [
             18.4435,
@@ -1183,7 +1282,8 @@
             "de": "Ein kurzer Spaziergang von der Kirche. Perfekt, um den Nachmittag im Trockenen zu verbringen.",
             "hu": "Rövid séta a templomtól. Tökéletes a délután beltéri eltöltéséhez.",
             "ro": "O scurtă plimbare de la biserică. Perfect pentru a petrece după-amiaza în interior.",
-            "en": "A short walk from the church. Perfect for spending the afternoon indoors."
+            "en": "A short walk from the church. Perfect for spending the afternoon indoors.",
+            "sk": "Krátka prechádzka od kostola. Ideálne na strávenie popoludnia v interiéri."
           }
         },
         {
@@ -1191,7 +1291,8 @@
             "de": "Spaziergang im Stadtpark",
             "hu": "Séta a Városi Parkban",
             "ro": "Plimbare în Parcul Orașului",
-            "en": "Walk in the City Park"
+            "en": "Walk in the City Park",
+            "sk": "Prechádzka Mestským parkom"
           },
           "coords": [
             18.448,
@@ -1207,7 +1308,8 @@
             "de": "Ein entspannter Ausklang des Tages, bevor Sie zurück zum Auto gehen.",
             "hu": "Pihentető befejezése a napnak, mielőtt visszamenne az autóhoz.",
             "ro": "O încheiere relaxantă a zilei înainte de a vă întoarce la mașină.",
-            "en": "A relaxing end to the day before heading back to the car."
+            "en": "A relaxing end to the day before heading back to the car.",
+            "sk": "Relaxačné ukončenie dňa pred návratom k autu."
           }
         }
       ],
@@ -1215,7 +1317,8 @@
         "de": "Beginnen Sie den Tag mit einem Ausflug in die Natur zur atemberaubenden Manínska-Schlucht. Fahren Sie dann weiter zu den historischen Ruinen der Burg Považie für einen Panoramablick. Zum Mittag parken Sie am Herrenhaus Orlové, wo Sie speisen und den Rest des Tages das Stadtzentrum zu Fuß erkunden. Besuchen Sie die Kirche und die Kunstgalerie, bevor Sie den Tag mit einem ruhigen Spaziergang im Stadtpark ausklingen lassen.",
         "hu": "Kezdje a napot egy természeti kirándulással a lélegzetelállító Manin-szurdokhoz. Ezután hajtson tovább a történelmi Vágbesztercei vár romjaihoz egy panorámás kilátásért. Ebédre parkoljon le az Orlové kastélynál, ahol étkezhet, majd a nap hátralévő részében gyalog fedezheti fel a városközpontot. Látogassa meg a templomot és a művészeti galériát, mielőtt egy csendes sétával zárja a napot a Városi Parkban.",
         "ro": "Începeți ziua cu o excursie în natură la uimitoarele Chei Manínska. Apoi, conduceți mai departe spre ruinele istorice ale Cetății Považie pentru o vedere panoramică. La prânz, parcați la Conacul Orlové, unde puteți lua masa și explora centrul orașului pe jos pentru restul zilei. Vizitați biserica și galeria de artă înainte de a încheia ziua cu o plimbare liniștită în Parcul Orașului.",
-        "en": "Start the day with a trip into nature to the stunning Manínska Gorge. Then drive on to the historic ruins of Považie Castle for a panoramic view. For lunch, park at the Orlové Manor House, where you can dine and explore the city center on foot for the rest of the day. Visit the church and the art gallery before ending the day with a quiet walk in the City Park."
+        "en": "Start the day with a trip into nature to the stunning Manínska Gorge. Then drive on to the historic ruins of Považie Castle for a panoramic view. For lunch, park at the Orlové Manor House, where you can dine and explore the city center on foot for the rest of the day. Visit the church and the art gallery before ending the day with a quiet walk in the City Park.",
+        "sk": "Začnite deň výletom do prírody k úchvatnej Manínskej tiesňave. Potom pokračujte k historickým zrúcaninám Považského hradu pre panoramatický výhľad. Na obed zaparkujte pri kaštieli Orlové, kde si môžete najesť a pešo preskúmať centrum mesta po zvyšok dňa. Navštívte kostol a galériu a deň zakončite tichou prechádzkou v Mestskom parku."
       },
       "gastro_picks": {
         "de": [
@@ -1411,6 +1514,12 @@
           "Parking can be difficult in the city center. Use the parking lot at the Orlové Manor House as a base.",
           "Good footwear is essential for exploring the castle ruins and the gorge.",
           "Have some cash with you, as not all small shops or parking lots accept cards."
+        ],
+        "sk": [
+          "Natankujte pred odchodom z mesta, obzvlášť ak smerujete do vidieckych oblastí.",
+          "Parkovanie môže byť v centre náročné. Použite parkovisko pri kaštieli Orlové ako východiskový bod.",
+          "Dobrá obuv je nevyhnutná na preskúmanie zrúcanín hradu a tiesňavy.",
+          "Majte pri sebe hotovosť, pretože nie všetky malé obchody alebo parkoviská akceptujú karty."
         ]
       },
       "variants": {
@@ -1419,7 +1528,8 @@
             "de": "Genießen Sie die dramatische Manínska-Schlucht bequem vom Auto aus, bevor Sie die nebelverhangene Burgruine Považie besuchen. Ein exzellentes Mittagessen erwartet Sie im Schloss Orlové, gefolgt von einem kulturellen Stopp in der Kirche und der Galerie. Der Tag endet mit einer kurzen Fahrt zum Stadtpark, wo der Regen auf das Autodach trommelt, während Sie die ruhige Atmosphäre genießen.",
             "hu": "Élvezze a drámai Manini-szakadékot kényelmesen az autóból, mielőtt meglátogatná a ködbe burkolózó Vágbesztercei várromot. Kiváló ebéd várja az Orlové-kastélyban, majd kulturális megálló a templomnál és a galériánál. A nap egy rövid autózással zárul a városi parkhoz, ahol az autó tetőjén kopogó eső mellett élvezheti a nyugodt hangulatot.",
             "ro": "Bucurați-vă de Cheile Manínska dramatice din confortul mașinii, înainte de a vizita ruinele Castelului Považie învăluite în ceață. Un prânz excelent vă așteaptă la Conacul Orlové, urmat de o oprire culturală la biserică și galerie. Ziua se încheie cu o scurtă plimbare cu mașina până la parcul orașului, unde ploaia bate pe plafonul mașinii.",
-            "en": "Enjoy the dramatic Manínska Gorge comfortably from the car before visiting the mist-shrouded Považie Castle ruins. An excellent lunch awaits you at Orlové Manor, followed by a cultural stop at the church and gallery. The day ends with a short drive to the City Park, where you can enjoy the peaceful atmosphere while rain drums on the car roof."
+            "en": "Enjoy the dramatic Manínska Gorge comfortably from the car before visiting the mist-shrouded Považie Castle ruins. An excellent lunch awaits you at Orlové Manor, followed by a cultural stop at the church and gallery. The day ends with a short drive to the City Park, where you can enjoy the peaceful atmosphere while rain drums on the car roof.",
+            "sk": "Užite si dramatickú Manínsku tiesňavu pohodlne z auta pred návštevou hmle obklopených zrúcanín Považského hradu. Vynikajúci obed vás čaká v kaštieli Orlové, po ktorom nasleduje kultúrna zastávka v kostole a galérii. Deň zakončíte krátkou jazdou do Mestského parku, kde si môžete vychutnať pokojnú atmosféru, zatiaľ čo dážď bubnuje na strechu auta."
           },
           "stops": [
             {
@@ -1428,7 +1538,8 @@
                 "de": "Es gibt kleine Parkbuchten direkt in der engsten Stelle der Schlucht.",
                 "hu": "Közvetlenül a szakadék legszűkebb pontjánál vannak kis parkolóöblök.",
                 "ro": "Există mici locuri de parcare chiar în cea mai îngustă parte a cheilor.",
-                "en": "There are small parking bays right in the narrowest part of the gorge."
+                "en": "There are small parking bays right in the narrowest part of the gorge.",
+                "sk": "Sú tu malé odstavenia priamo v najužšej časti tiesňavy."
               }
             },
             {
@@ -1437,7 +1548,8 @@
                 "de": "Parken Sie an der Kirche in Považské Podhradie für den kürzesten Weg.",
                 "hu": "Parkoljon a Vágbeszterce-váraljai templomnál a legrövidebb úthoz.",
                 "ro": "Parcați la biserica din Považské Podhradie pentru cel mai scurt drum.",
-                "en": "Park at the church in Považské Podhradie for the shortest walk up."
+                "en": "Park at the church in Považské Podhradie for the shortest walk up.",
+                "sk": "Zaparkujte pri kostole v Považskom Podhradí pre najkratšiu prechádzku hore."
               }
             },
             {
@@ -1446,7 +1558,8 @@
                 "de": "Der Parkplatz ist befestigt und nur wenige Schritte vom Eingang entfernt.",
                 "hu": "A parkoló szilárd burkolatú és csak pár lépésre van a bejárattól.",
                 "ro": "Parcarea este pavată și la doar câțiva pași de intrare.",
-                "en": "The parking lot is paved and just a few steps from the entrance."
+                "en": "The parking lot is paved and just a few steps from the entrance.",
+                "sk": "Parkovisko je spevnené a len pár krokov od vchodu."
               }
             },
             {
@@ -1455,7 +1568,8 @@
                 "de": "Nutzen Sie das Parkhaus 'Mier' in der Nähe für trockenes Aussteigen.",
                 "hu": "Használja a közeli 'Mier' parkolóházat a száraz kiszálláshoz.",
                 "ro": "Folosiți parcarea etajată 'Mier' din apropiere pentru a coborî la uscat.",
-                "en": "Use the 'Mier' parking garage nearby for a dry exit from the car."
+                "en": "Use the 'Mier' parking garage nearby for a dry exit from the car.",
+                "sk": "Použite garážové parkovisko 'Mier' v blízkosti pre suchý výstup z auta."
               }
             },
             {
@@ -1464,7 +1578,8 @@
                 "de": "Parkplätze finden Sie direkt vor dem Gebäude an der Straße.",
                 "hu": "Parkolóhelyeket közvetlenül az épület előtt, az utcán talál.",
                 "ro": "Găsiți locuri de parcare chiar în fața clădirii, pe stradă.",
-                "en": "You can find parking spaces directly in front of the building on the street."
+                "en": "You can find parking spaces directly in front of the building on the street.",
+                "sk": "Parkovacie miesta nájdete priamo pred budovou na ulici."
               }
             },
             {
@@ -1473,7 +1588,8 @@
                 "de": "Bleiben Sie im Auto, wenn der Regen zu stark ist; die Sicht ist schön.",
                 "hu": "Maradjon az autóban, ha túl erősen esik; a kilátás így is szép.",
                 "ro": "Rămâneți în mașină dacă plouă prea tare; vederea este frumoasă.",
-                "en": "Stay in the car if it rains too hard; the view is still nice."
+                "en": "Stay in the car if it rains too hard; the view is still nice.",
+                "sk": "Zostaňte v aute, ak prší príliš silno; výhľad je stále pekný."
               }
             }
           ],
@@ -1505,6 +1621,13 @@
               "Watch out for rockfall warnings in the mountainous surroundings.",
               "Use the windshield heater as humidity in the valley is high.",
               "The drive towards the castle is steep; check your brakes."
+            ],
+            "sk": [
+              "Cesta cez tiesňavu môže byť pri silnom daždi mierne zaplavená.",
+              "Centrálny parkovací dom poskytuje ochranu pred krupobitím alebo lejakmi.",
+              "Dávajte pozor na výstrahy pred padajúcimi skalami v horskom prostredí.",
+              "Použite ohrievač čelného skla, pretože vlhkosť v údolí je vysoká.",
+              "Jazda k hradu je strmá; skontrolujte brzdy."
             ]
           }
         },
@@ -1513,7 +1636,8 @@
             "de": "Starten Sie Ihre Wintertour mit der Fahrt durch die tief verschneite Manínska-Schlucht. Nach einem Blick auf die Burgruine wärmen Sie sich bei einem eleganten Mittagessen im Schloss Orlové auf. Besuchen Sie die Kirche und die Galerie im beheizten Stadtzentrum, bevor Sie den Tag mit einer gemütlichen Fahrt am frostigen Stadtpark ausklingen lassen, während draußen die Schneeflocken tanzen.",
             "hu": "Kezdje téli túráját a mélyen hófödte Manini-szakadékon át autózva. A várrom megtekintése után melegedjen fel egy elegáns ebéddel az Orlové-kastélyban. Látogasson el a templomba és a galériába a fűtött belvárosban, majd zárja a napot egy kellemes autózással a fagyos városi park mellett, miközben odakint táncolnak a hópelyhek.",
             "ro": "Începeți turul de iarnă cu o călătorie prin Cheile Manínska înzăpezite. După o privire spre castel, încălziți-vă cu un prânz elegant la Conacul Orlové. Vizitați biserica și galeria în centrul încălzit, înainte de a încheia ziua cu o plimbare relaxantă pe lângă parcul înghețat, în timp ce fulgii de zăpadă dansează afară.",
-            "en": "Start your winter tour with a drive through the deeply snow-covered Manínska Gorge. After a look at the castle ruins, warm up with an elegant lunch at Orlové Manor. Visit the church and gallery in the heated city center before ending the day with a cozy drive past the frosty City Park while snowflakes dance outside."
+            "en": "Start your winter tour with a drive through the deeply snow-covered Manínska Gorge. After a look at the castle ruins, warm up with an elegant lunch at Orlové Manor. Visit the church and gallery in the heated city center before ending the day with a cozy drive past the frosty City Park while snowflakes dance outside.",
+            "sk": "Začnite zimný výlet jazdou cez hlbokou snehom pokrytú Manínsku tiesňavu. Po pohľade na zrúcaniny hradu sa zohrejte pri elegantnom obede v kaštieli Orlové. Navštívte kostol a galériu v vykúrenom centre mesta a deň zakončite útulnou jazdou okolo mrazivého Mestského parku, zatiaľ čo vonku poletujú snehové vločky."
           },
           "stops": [
             {
@@ -1522,7 +1646,8 @@
                 "de": "Vorsicht vor Eiszapfen, die von den Felsüberhängen fallen könnten.",
                 "hu": "Vigyázzon a sziklakiszöggelésekről lehulló jégcsapokra.",
                 "ro": "Atenție la țurțurii care ar putea cădea de pe stânci.",
-                "en": "Watch out for icicles that could fall from the rock overhangs."
+                "en": "Watch out for icicles that could fall from the rock overhangs.",
+                "sk": "Dávajte pozor na cencúle, ktoré môžu padať z skalných previsov."
               }
             },
             {
@@ -1531,7 +1656,8 @@
                 "de": "Der Parkplatz kann glatt sein; Winterreifen sind absolut notwendig.",
                 "hu": "A parkoló síkos lehet; a téli gumi elengedhetetlen.",
                 "ro": "Parcarea poate fi alunecoasă; anvelopele de iarnă sunt obligatorii.",
-                "en": "The parking lot can be slippery; winter tires are absolutely necessary."
+                "en": "The parking lot can be slippery; winter tires are absolutely necessary.",
+                "sk": "Parkovisko môže byť šmykľavé; zimné pneumatiky sú absolútne nevyhnutné."
               }
             },
             {
@@ -1540,7 +1666,8 @@
                 "de": "Das Schloss ist im Winter wunderschön beleuchtet.",
                 "hu": "A kastély télen gyönyörűen ki van világítva.",
                 "ro": "Conacul este luminat superb în timpul iernii.",
-                "en": "The manor is beautifully illuminated in winter."
+                "en": "The manor is beautifully illuminated in winter.",
+                "sk": "Kaštieľ je v zime nádherne osvetlený."
               }
             },
             {
@@ -1549,7 +1676,8 @@
                 "de": "Kurze Parkdauer in der Nähe der Kirche ist im Winter oft kostenlos.",
                 "hu": "A templom közeli rövid idejű parkolás télen gyakran ingyenes.",
                 "ro": "Parcarea pe termen scurt lângă biserică este adesea gratuită iarna.",
-                "en": "Short-term parking near the church is often free in winter."
+                "en": "Short-term parking near the church is often free in winter.",
+                "sk": "Krátkodobé parkovanie pri kostole je v zime často bezplatné."
               }
             },
             {
@@ -1558,7 +1686,8 @@
                 "de": "Ideal, um die kälteste Zeit des Nachmittags im Warmen zu verbringen.",
                 "hu": "Ideális a délután leghidegebb óráit a melegben tölteni.",
                 "ro": "Ideal pentru a petrece cea mai rece parte a după-amiezii la căldură.",
-                "en": "Ideal for spending the coldest time of the afternoon in the warmth."
+                "en": "Ideal for spending the coldest time of the afternoon in the warmth.",
+                "sk": "Ideálne na strávenie najchladnejšej časti popoludnia v teple."
               }
             },
             {
@@ -1567,7 +1696,8 @@
                 "de": "Vom Parkplatz am Rand hat man einen tollen Blick auf die Winterlandschaft.",
                 "hu": "A széli parkolóból nagyszerű kilátás nyílik a téli tájra.",
                 "ro": "De la parcarea de la margine aveți o vedere excelentă spre peisajul de iarnă.",
-                "en": "The parking lot at the edge offers a great view of the winter landscape."
+                "en": "The parking lot at the edge offers a great view of the winter landscape.",
+                "sk": "Parkovisko na okraji ponúka skvelý výhľad na zimnú krajinu."
               }
             }
           ],
@@ -1599,6 +1729,13 @@
               "Check the antifreeze in your windshield washer fluid.",
               "Light conditions in the gorge are very dim in winter.",
               "Expect wildlife on the road to the castle ruins."
+            ],
+            "sk": [
+              "Vezmite so sebou snehové reťaze, ak plánujete jazdu do vyšších nadmorských výšok.",
+              "Centrálny parkovací priestor je uprataný, ale bočné ulice sú často zľadovatené.",
+              "Skontrolujte nemrznúcu prísadu v nádrži ostrekovačov čelného skla.",
+              "Svetelné podmienky v tiesňave sú v zime veľmi tlmené.",
+              "Očakávajte divú zver na ceste k zrúcaninám hradu."
             ]
           }
         }
@@ -1617,7 +1754,8 @@
             "de": "Herrenhaus Orlové",
             "hu": "Orlové kastély",
             "ro": "Conacul Orlové",
-            "en": "Orlové Manor House"
+            "en": "Orlové Manor House",
+            "sk": "Kaštieľ Orlové"
           },
           "coords": [
             18.468,
@@ -1633,7 +1771,8 @@
             "de": "Nehmen Sie einen Bus vom Zentrum nach Orlové. Es ist der erste Cluster Ihres Tages.",
             "hu": "Menjen busszal a központból Orlovéba. Ez a nap első klasztere.",
             "ro": "Luați un autobuz din centru spre Orlové. Este primul grup de obiective al zilei.",
-            "en": "Take a bus from the center to Orlové. It's the first cluster of your day."
+            "en": "Take a bus from the center to Orlové. It's the first cluster of your day.",
+            "sk": "Vezmite autobus z centra do Orlového. Je to prvé zoskupenie vášho dňa."
           }
         },
         {
@@ -1641,7 +1780,8 @@
             "de": "Kalvarienberg",
             "hu": "Kálvária-hegy",
             "ro": "Calvarul",
-            "en": "Calvary Hill"
+            "en": "Calvary Hill",
+            "sk": "Kalvária"
           },
           "coords": [
             18.437,
@@ -1657,7 +1797,8 @@
             "de": "Ein kurzer Spaziergang vom Herrenhaus, bevor Sie den Bus zurück ins Zentrum nehmen.",
             "hu": "Rövid séta a kastélytól, mielőtt visszamenne busszal a központba.",
             "ro": "O scurtă plimbare de la conac înainte de a lua autobuzul înapoi spre centru.",
-            "en": "A short walk from the manor house before taking the bus back to the center."
+            "en": "A short walk from the manor house before taking the bus back to the center.",
+            "sk": "Krátka prechádzka od kaštieľa pred návratom autobusom do centra."
           }
         },
         {
@@ -1665,7 +1806,8 @@
             "de": "Mariä-Heimsuchung-Kirche",
             "hu": "Sarlós Boldogasszony-templom",
             "ro": "Biserica Vizita Fecioarei Maria",
-            "en": "Church of the Visitation of the Virgin Mary"
+            "en": "Church of the Visitation of the Virgin Mary",
+            "sk": "Kostol Navštívenia Panny Márie"
           },
           "coords": [
             18.4448,
@@ -1681,7 +1823,8 @@
             "de": "Fahren Sie mit dem Bus zurück ins Stadtzentrum. Die Kirche ist der erste Halt in diesem Cluster.",
             "hu": "Menjen busszal vissza a városközpontba. A templom az első megálló ebben a klaszterben.",
             "ro": "Luați autobuzul înapoi în centrul orașului. Biserica este prima oprire în acest grup de obiective.",
-            "en": "Take the bus back to the city center. The church is the first stop in this cluster."
+            "en": "Take the bus back to the city center. The church is the first stop in this cluster.",
+            "sk": "Vráťte sa autobusom do centra mesta. Kostol je prvá zastávka v tomto zoskupení."
           }
         },
         {
@@ -1689,7 +1832,8 @@
             "de": "Galerie Považie & Mittagessen",
             "hu": "Považie Galéria és Ebéd",
             "ro": "Galeria Považie & Prânz",
-            "en": "Považie Gallery & Lunch"
+            "en": "Považie Gallery & Lunch",
+            "sk": "Považská galéria a obed"
           },
           "coords": [
             18.4435,
@@ -1705,7 +1849,8 @@
             "de": "Verbinden Sie Kunstgenuss mit einem Mittagessen in einem der nahegelegenen Restaurants.",
             "hu": "Kösse össze a művészeti élményt egy ebéddel a közeli éttermek egyikében.",
             "ro": "Combinați plăcerea artei cu un prânz la unul dintre restaurantele din apropiere.",
-            "en": "Combine art appreciation with lunch at one of the nearby restaurants."
+            "en": "Combine art appreciation with lunch at one of the nearby restaurants.",
+            "sk": "Spojte obdivovanie umenia s obedom v jednej z blízkych reštaurácií."
           }
         },
         {
@@ -1713,7 +1858,8 @@
             "de": "Stadtpark",
             "hu": "Városi Park",
             "ro": "Parcul Orașului",
-            "en": "City Park"
+            "en": "City Park",
+            "sk": "Mestský park"
           },
           "coords": [
             18.448,
@@ -1729,7 +1875,8 @@
             "de": "Der letzte Halt des Tages für einen entspannten Spaziergang. Von hier aus können Sie leicht Ihren Bus für die Abreise erreichen.",
             "hu": "A nap utolsó állomása egy pihentető sétára. Innen könnyen elérheti az induló buszát.",
             "ro": "Ultima oprire a zilei pentru o plimbare relaxantă. De aici puteți ajunge cu ușurință la autobuzul de plecare.",
-            "en": "The last stop of the day for a relaxing walk. From here you can easily reach your bus for departure."
+            "en": "The last stop of the day for a relaxing walk. From here you can easily reach your bus for departure.",
+            "sk": "Posledná zastávka dňa na relaxačnú prechádzku. Odtiaľ sa ľahko dostanete k autobusu na odchod."
           }
         }
       ],
@@ -1737,7 +1884,8 @@
         "de": "Nutzen Sie die öffentlichen Verkehrsmittel, um den Tag am Herrenhaus Orlové und dem nahegelegenen Kalvarienberg zu beginnen. Fahren Sie dann mit dem Bus zurück ins Herz der Stadt. Dort erkunden Sie zu Fuß die Kirche und die Kunstgalerie, wo Sie auch zu Mittag essen. Beenden Sie Ihren Ausflug mit einem ausgedehnten, entspannten Spaziergang durch den Stadtpark, bevor Sie Ihre Heimreise antreten.",
         "hu": "Használja a tömegközlekedést, hogy a napot az Orlové kastélynál és a közeli Kálvária-hegynél kezdje. Ezután utazzon vissza busszal a város szívébe. Ott gyalog fedezze fel a templomot és a művészeti galériát, ahol ebédelni is fog. Fejezze be a kirándulást egy hosszas, pihentető sétával a Városi Parkban, mielőtt hazaindulna.",
         "ro": "Folosiți transportul public pentru a începe ziua la Conacul Orlové și la Dealul Calvarului din apropiere. Apoi, luați autobuzul înapoi în inima orașului. Acolo, explorați pe jos biserica și galeria de artă, unde veți lua și prânzul. Încheiați excursia cu o plimbare lungă și relaxantă prin Parcul Orașului înainte de a vă întoarce acasă.",
-        "en": "Use public transport to start the day at the Orlové Manor House and the nearby Calvary Hill. Then take the bus back to the heart of the city. There, explore the church and art gallery on foot, where you will also have lunch. End your trip with a long, relaxing walk through the City Park before heading home."
+        "en": "Use public transport to start the day at the Orlové Manor House and the nearby Calvary Hill. Then take the bus back to the heart of the city. There, explore the church and art gallery on foot, where you will also have lunch. End your trip with a long, relaxing walk through the City Park before heading home.",
+        "sk": "Použite MHD na začatie dňa pri kaštieli Orlové a blízkej Kalvárii. Potom sa autobusom vráťte do centra mesta. Tam preskúmajte kostol a galériu pešo, kde si aj pochutnáte na obede. Ukončite výlet dlhou relaxačnou prechádzkou Mestským parkom pred odchodom domov."
       },
       "gastro_picks": {
         "de": [
@@ -1933,6 +2081,12 @@
           "Check the bus schedule in advance, especially for the last return trip.",
           "Have small change ready for the tickets if you buy them directly from the driver.",
           "Most buses are modern, but be prepared for crowds during peak hours."
+        ],
+        "sk": [
+          "Kúpte si denný lístok na autobus, väčšinou je to najlacnejšie.",
+          "Skontrolujte cestovný poriadok autobusu vopred, obzvlášť na posledný návratový spoj.",
+          "Majte pripravenú drobnú hotovosť na lístky, ak ich kupujete priamo u vodiča.",
+          "Väčšina autobusov je moderná, ale počas špičky počítajte s davom ľudí."
         ]
       },
       "variants": {
@@ -1941,7 +2095,8 @@
             "de": "Nutzen Sie das dichte Busnetz, um trocken zum Schloss Orlové zu gelangen. Nach einem kulturellen Ausflug zum Kalvarienberg bietet die Kirche im Stadtzentrum Schutz vor den Schauern. Ein ausgiebiges Mittagessen und ein Besuch in der Galerie lassen Sie das schlechte Wetter vergessen. Beenden Sie den Tag mit einem Blick auf den regenverhangenen Stadtpark, bevor Sie bequem mit dem Bus zurückfahren.",
             "hu": "Használja a sűrű buszhálózatot, hogy szárazon eljusson az Orlové-kastélyhoz. A Kálvária-dombi kulturális kirándulás után a belvárosi templom nyújt menedéket a záporok elől. Egy kiadós ebéd és a galéria látogatása elfeledteti a rossz időt. Zárja a napot az esős városi park látványával, mielőtt kényelmesen visszautazna busszal.",
             "ro": "Folosiți rețeaua densă de autobuze pentru a ajunge uscat la Conacul Orlové. După o excursie culturală la Calvar, biserica din centru oferă adăpost împotriva averselor. Un prânz copios și o vizită la galerie vă vor face să uitați de vremea rea. Încheiați ziua cu o privire spre parcul orașului în ploaie, înainte de a vă întoarce confortabil cu autobuzul.",
-            "en": "Use the dense bus network to reach Orlové Manor in the dry. After a cultural excursion to Calvary Hill, the city center church offers shelter from the showers. A hearty lunch and a visit to the gallery will make you forget the bad weather. End the day with a view of the rainy City Park before taking a comfortable bus ride back."
+            "en": "Use the dense bus network to reach Orlové Manor in the dry. After a cultural excursion to Calvary Hill, the city center church offers shelter from the showers. A hearty lunch and a visit to the gallery will make you forget the bad weather. End the day with a view of the rainy City Park before taking a comfortable bus ride back.",
+            "sk": "Využite hustú sieť autobusov, aby ste sa dostali suchou nohou k kaštieľu Orlové. Po kultúrnom výlete na Kalváriu vám kostol v centre poskytne úkryt pred prehánkami. Vydatný obed a návšteva galérie vám pomôžu zabudnúť na zlú náladu počasia. Deň zakončite výhľadom na daždivý Mestský park pred pohodlnou cestou autobusom späť."
           },
           "stops": [
             {
@@ -1950,7 +2105,8 @@
                 "de": "Die Bushaltestelle 'Orlové, kaštieľ' befindet sich direkt vor dem Eingang.",
                 "hu": "Az 'Orlové, kaštieľ' buszmegálló közvetlenül a bejárat előtt található.",
                 "ro": "Stația de autobuz 'Orlové, kaštieľ' se află chiar în fața intrării.",
-                "en": "The 'Orlové, kaštieľ' bus stop is located directly in front of the entrance."
+                "en": "The 'Orlové, kaštieľ' bus stop is located directly in front of the entrance.",
+                "sk": "Autobusová zastávka 'Orlové, kaštieľ' sa nachádza priamo pred vchodom."
               }
             },
             {
@@ -1959,7 +2115,8 @@
                 "de": "Einige Buslinien halten am Fuß des Hügels; sparen Sie sich den langen Fußmarsch.",
                 "hu": "Néhány buszjárat megáll a domb lábánál; spórolja meg a hosszú gyaloglást.",
                 "ro": "Unele linii de autobuz opresc la baza dealului; evitați mersul lung pe jos.",
-                "en": "Some bus lines stop at the foot of the hill; save yourself the long walk."
+                "en": "Some bus lines stop at the foot of the hill; save yourself the long walk.",
+                "sk": "Niektoré linky zastavujú pri úpätí kopca; ušetríte si tak dlhú prechádzku."
               }
             },
             {
@@ -1968,7 +2125,8 @@
                 "de": "Der zentrale Busbahnhof ist nur 5 Gehminuten entfernt.",
                 "hu": "A központi autóbusz-állomás mindössze 5 perc sétára van.",
                 "ro": "Autogara centrală este la doar 5 minute de mers pe jos.",
-                "en": "The central bus station is only a 5-minute walk away."
+                "en": "The central bus station is only a 5-minute walk away.",
+                "sk": "Centrálny autobusový terminál je len 5-minút chôdze ďaleko."
               }
             },
             {
@@ -1977,7 +2135,8 @@
                 "de": "Ideal gelegen im Zentrum, wo viele Buslinien zusammenlaufen.",
                 "hu": "Ideális elhelyezkedés a központban, ahol sok buszjárat találkozik.",
                 "ro": "Amplasată ideal în centru, unde converg multe linii de autobuz.",
-                "en": "Ideally located in the center where many bus lines converge."
+                "en": "Ideally located in the center where many bus lines converge.",
+                "sk": "Ideálne situovaný v centre, kde sa stretáva mnoho liniek."
               }
             },
             {
@@ -1986,7 +2145,8 @@
                 "de": "Die Haltestelle am Parkrand bietet ein Wartehäuschen mit Regenschutz.",
                 "hu": "A park szélén lévő megálló fedett váróval rendelkezik az eső ellen.",
                 "ro": "Stația de la marginea parcului are un adăpost pentru protecție împotriva ploii.",
-                "en": "The stop at the park's edge has a shelter for protection from the rain."
+                "en": "The stop at the park's edge has a shelter for protection from the rain.",
+                "sk": "Zastávka na okraji parku má prístrešok na ochranu pred dažďom."
               }
             }
           ],
@@ -2018,6 +2178,13 @@
               "Tickets can be bought directly from the driver with small change.",
               "Bus shelters in the center are mostly covered and wind-protected.",
               "Some lines run less frequently on weekends; plan ahead."
+            ],
+            "sk": [
+              "Stiahnite si aplikáciu 'UBIAN' pre aktuálne autobusové odchody.",
+              "Autobusy často meškajú mierne počas daždivého počasia.",
+              "Lístky sa dajú kúpiť priamo u vodiča za drobné.",
+              "Autobusové zastávky v centre sú väčšinou zastrešené a chránené pred vetrom.",
+              "Niektoré linky jazdia cez víkendy menej často; naplánujte si to vopred."
             ]
           }
         },
@@ -2026,7 +2193,8 @@
             "de": "Ein beheizter Bus bringt Sie bequem zum winterlichen Schloss Orlové. Trotz Kälte lohnt sich der kurze Aufstieg zum Kalvarienberg für das Panorama, bevor Sie sich in der Kirche aufwärmen. Das Mittagessen im Zentrum und die Galerie bieten perfekte Zufluchtsorte an einem frostigen Tag. Lassen Sie die Tour im verschneiten Stadtpark ausklingen, bevor der Bus Sie sicher zurückbringt.",
             "hu": "Fűtött busz viszi kényelmesen a téli Orlové-kastélyhoz. A hideg ellenére a Kálvária-dombi rövid séta megéri a panorámáért, mielőtt a templomban felmelegedne. A belvárosi ebéd és a galéria tökéletes menedéket nyújt a fagyos napon. Zárja a túrát a hófödte városi parkban, mielőtt a busz biztonságban hazaszállítja.",
             "ro": "Un autobuz încălzit vă duce confortabil la Conacul Orlové iarna. În ciuda frigului, urcarea scurtă la Calvar merită pentru panoramă, înainte de a vă încălzi în biserică. Prânzul în centru și galeria oferă refugii perfecte într-o zi geroasă. Încheiați turul în parcul înzăpezit, înainte ca autobuzul să vă aducă înapoi în siguranță.",
-            "en": "A heated bus takes you comfortably to the wintry Orlové Manor. Despite the cold, the short climb to Calvary Hill is worth it for the panorama before warming up in the church. Lunch in the center and the gallery provide perfect refuges on a frosty day. End the tour in the snow-covered City Park before the bus brings you back safely."
+            "en": "A heated bus takes you comfortably to the wintry Orlové Manor. Despite the cold, the short climb to Calvary Hill is worth it for the panorama before warming up in the church. Lunch in the center and the gallery provide perfect refuges on a frosty day. End the tour in the snow-covered City Park before the bus brings you back safely.",
+            "sk": "Vyhriaty autobus vás pohodlne odvezie na zimný kaštieľ Orlové. Napriek chladu stojí za to krátky výstup na Kalváriu pre panorámu, než sa v kostole zohrievate. Na obed si oddýchnite v centre a v galérii, ktoré sú ideálnym útočiskom v mrazivý deň. Ukončite prehliadku v zasneženom Mestskom parku, odkiaľ vás autobus bezpečne privedie naspäť."
           },
           "stops": [
             {
@@ -2035,7 +2203,8 @@
                 "de": "Die Busse sind gut beheizt; ideal nach einem Spaziergang im Schlossgarten.",
                 "hu": "A buszok jól fűtöttek; ideális a kastélykertben tett séta után.",
                 "ro": "Autobuzele sunt bine încălzite; ideal după o plimbare în grădina conacului.",
-                "en": "Buses are well-heated; ideal after a walk in the manor gardens."
+                "en": "Buses are well-heated; ideal after a walk in the manor gardens.",
+                "sk": "Autobusy sú dobre vykurované; ideálne po prechádzke v záhradách kaštieľa."
               }
             },
             {
@@ -2044,7 +2213,8 @@
                 "de": "Achten Sie beim Aussteigen auf glatte Bordsteinkanten an der Haltestelle.",
                 "hu": "Leszálláskor ügyeljen a csúszós járdaszegélyekre a megállóban.",
                 "ro": "Atenție la marginile alunecoase ale trotuarului când coborâți din autobuz.",
-                "en": "Watch out for slippery curbs at the bus stop when getting off."
+                "en": "Watch out for slippery curbs at the bus stop when getting off.",
+                "sk": "Dávajte pozor na šmykľavé obrubníky na zastávke pri vystupovaní."
               }
             },
             {
@@ -2053,7 +2223,8 @@
                 "de": "Die Haltestellen im Zentrum sind im Winter oft schneefrei geräumt.",
                 "hu": "A központi megállókat télen gyakran letakarítják a hótól.",
                 "ro": "Stațiile din centru sunt adesea curățate de zăpadă iarna.",
-                "en": "Bus stops in the center are often cleared of snow in winter."
+                "en": "Bus stops in the center are often cleared of snow in winter.",
+                "sk": "Autobusové zastávky v centre sú v zime často upravované od snehu."
               }
             },
             {
@@ -2062,7 +2233,8 @@
                 "de": "Viele Cafés in der Nähe der Haltestelle bieten Aufwärmmöglichkeiten.",
                 "hu": "A megálló közeli kávézók kiváló melegedési lehetőséget kínálnak.",
                 "ro": "Multe cafenele de lângă stație oferă posibilități de încălzire.",
-                "en": "Many cafes near the stop offer opportunities to warm up."
+                "en": "Many cafes near the stop offer opportunities to warm up.",
+                "sk": "Mnoho kaviarní pri zastávke ponúka možnosť zohriať sa."
               }
             },
             {
@@ -2071,7 +2243,8 @@
                 "de": "Der letzte Bus zurück ins Zentrum fährt meist bis spät am Abend.",
                 "hu": "Az utolsó busz vissza a központba általában késő estig közlekedik.",
                 "ro": "Ultimul autobuz spre centru circulă de obicei până târziu în noapte.",
-                "en": "The last bus back to the center usually runs until late in the evening."
+                "en": "The last bus back to the center usually runs until late in the evening.",
+                "sk": "Posledný autobus späť do centra premáva zvyčajne do neskorého večera."
               }
             }
           ],
@@ -2103,6 +2276,13 @@
               "Buy a multi-trip ticket to save time waiting in the cold.",
               "Waiting times may increase during heavy snowfall.",
               "The bus station offers a heated waiting room."
+            ],
+            "sk": [
+              "Okna autobusu sú v chlade často zahmlené; venujte pozornosť hláseniam.",
+              "Počas adventu sú autobusy často vyzdobené na Vianoce.",
+              "Kúpte si viaccestný lístok, aby ste ušetrili čakanie v zime.",
+              "Časy čakania sa môžu pri silnom snežení predĺžiť.",
+              "Autobusová stanica ponúka vyhrievanú čakáreň."
             ]
           }
         }
