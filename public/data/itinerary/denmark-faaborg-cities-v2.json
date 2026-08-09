@@ -21,7 +21,8 @@
             "de": "Vesterport (Westtor)",
             "hu": "Vesterport (Nyugati kapu)",
             "ro": "Vesterport (Poarta de Vest)",
-            "en": "Vesterport (Western Gate)"
+            "en": "Vesterport (Western Gate)",
+            "da": "Vesterport (Vestporten)"
           },
           "coords": [
             10.2385,
@@ -37,7 +38,8 @@
             "de": "Das einzige erhaltene von drei Stadttoren Faaborgs aus dem 15. Jahrhundert.",
             "hu": "Faaborg három 15. századi városkapuja közül az egyetlen, amely megmaradt.",
             "ro": "Singura poartă a orașului din secolul al XV-lea care a supraviețuit din cele trei ale Faaborgului.",
-            "en": "The only surviving of Faaborg's three 15th-century town gates."
+            "en": "The only surviving of Faaborg's three 15th-century town gates.",
+            "da": "Den eneste bevarede af Faaborgs tre byporte fra 1400-tallet."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Helligåndskirken (Heiliggeistkirche)",
             "hu": "Helligåndskirken (Szentlélek-templom)",
             "ro": "Helligåndskirken (Biserica Sfântul Duh)",
-            "en": "Helligåndskirken (Church of the Holy Ghost)"
+            "en": "Helligåndskirken (Church of the Holy Ghost)",
+            "da": "Helligåndskirken (Den Hellige Ånds Kirke)"
           },
           "coords": [
             10.242,
@@ -61,7 +64,8 @@
             "de": "Beachten Sie das große Votivschiff, das von der Decke hängt.",
             "hu": "Figyelje meg a mennyezetről lógó nagy fogadalmi hajót.",
             "ro": "Observați nava votivă mare care atârnă de tavan.",
-            "en": "Note the large votive ship hanging from the ceiling."
+            "en": "Note the large votive ship hanging from the ceiling.",
+            "da": "Læg mærke til det store votivskib, der hænger fra loftet."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Faaborg Glockenturm",
             "hu": "Faaborgi Harangtorony",
             "ro": "Turnul cu clopote din Faaborg",
-            "en": "Faaborg Clock Tower"
+            "en": "Faaborg Clock Tower",
+            "da": "Faaborg Rådhustårn"
           },
           "coords": [
             10.243,
@@ -85,7 +90,8 @@
             "de": "Steigen Sie für die beste Aussicht auf die Stadt und den Fjord nach oben.",
             "hu": "Másszon fel a tetejére a legjobb kilátásért a városra és a fjordra.",
             "ro": "Urcați în vârf pentru cea mai bună priveliște asupra orașului și fiordului.",
-            "en": "Climb to the top for the best view of the town and fjord."
+            "en": "Climb to the top for the best view of the town and fjord.",
+            "da": "Gå til tops for den bedste udsigt over byen og fjorden."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Den Gamle Gård (Der alte Hof)",
             "hu": "Den Gamle Gård (A Régi Udvar)",
             "ro": "Den Gamle Gård (Curtea Veche)",
-            "en": "Den Gamle Gård (The Old Courtyard)"
+            "en": "Den Gamle Gård (The Old Courtyard)",
+            "da": "Den Gamle Gård (Det Gamle Gårdkompleks)"
           },
           "coords": [
             10.245,
@@ -109,7 +116,8 @@
             "de": "Ein schönes Stadtmuseum, das das Leben in Faaborg im 19. Jahrhundert zeigt.",
             "hu": "Egy kedves városi múzeum, amely a 19. századi faaborgi életet mutatja be.",
             "ro": "Un muzeu orășenesc încântător care prezintă viața în Faaborg în secolul al XIX-lea.",
-            "en": "A lovely town museum showcasing life in Faaborg during the 19th century."
+            "en": "A lovely town museum showcasing life in Faaborg during the 19th century.",
+            "da": "Et dejligt bymuseum, der viser livet i Faaborg i 1800-tallet."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Faaborg Museum",
             "hu": "Faaborg Múzeum",
             "ro": "Muzeul Faaborg",
-            "en": "Faaborg Museum"
+            "en": "Faaborg Museum",
+            "da": "Faaborg Museum"
           },
           "coords": [
             10.247,
@@ -133,7 +142,8 @@
             "de": "Meisterwerk der dänischen neoklassizistischen Architektur, das fünische Maler zeigt.",
             "hu": "A dán neoklasszikus építészet remekműve, amely fyni festőket mutat be.",
             "ro": "O capodoperă a arhitecturii neoclasice daneze, care expune pictori din Funen.",
-            "en": "A masterpiece of Danish neoclassical architecture, showcasing Funen painters."
+            "en": "A masterpiece of Danish neoclassical architecture, showcasing Funen painters.",
+            "da": "Et mesterværk af dansk nyklassicistisk arkitektur med fokus på fynske malere."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Faaborg Havnebad",
             "hu": "Faaborg Havnebad (Tengeri fürdő)",
             "ro": "Faaborg Havnebad (Baia portuară)",
-            "en": "Faaborg Harbour Bath"
+            "en": "Faaborg Harbour Bath",
+            "da": "Faaborg Havnebad"
           },
           "coords": [
             10.252,
@@ -157,7 +168,8 @@
             "de": "Perfekt für ein erfrischendes Bad oder einfach nur zum Entspannen am Wasser.",
             "hu": "Tökéletes egy frissítő úszáshoz vagy csak a vízparti pihenéshez.",
             "ro": "Perfect pentru o baie revigorantă sau pur și simplu pentru relaxare la malul apei.",
-            "en": "Perfect for a refreshing swim or just relaxing by the water."
+            "en": "Perfect for a refreshing swim or just relaxing by the water.",
+            "da": "Perfekt til en forfriskende dukkert eller bare afslapning ved vandet."
           }
         }
       ],
@@ -165,7 +177,8 @@
         "de": "Ihr Tag in Faaborg beginnt mit einem Spaziergang durch die Geschichte am Vesterport und in der stillen Helligåndskirken. Am Vormittag steigen Sie auf den Glockenturm, um einen Panoramablick zu genießen, der Sie auf die bevorstehenden Entdeckungen einstimmt. Der Mittag ist der Kultur gewidmet, mit einem tiefen Einblick in das lokale Leben im Den Gamle Gård und den künstlerischen Schätzen des Faaborg Museums. Der Nachmittag ist für pure Entspannung am preisgekrönten Havnebad reserviert, wo das Meer auf modernes Design trifft. Der Abend lockt mit dem Duft lokaler Küche, ein perfekter Abschluss für einen Tag voller fünischer Eindrücke.",
         "hu": "Faaborgi napja egy történelmi sétával kezdődik a Vesterportnál és a csendes Helligåndskirkenben. A délelőtt folyamán másszon fel a Harangtoronyba a panorámáért, amely megalapozza a további felfedezéseket. Az ebédidő a kultúráé, mélyreható betekintést nyerve a helyi életbe a Den Gamle Gårdban és a Faaborg Múzeum művészeti kincseibe. A délután a tiszta kikapcsolódásé a díjnyertes Havnebadnál, ahol a tenger és a modern dizájn találkozik. Az este a helyi konyha illataival csábít, tökéletes lezárásaként egy fyni benyomásokkal teli napnak.",
         "ro": "Ziua dvs. în Faaborg începe cu o plimbare prin istorie la Vesterport și la liniștita Helligåndskirken. Dimineața, urcați în Turnul cu Clopote pentru o priveliște panoramică ce pregătește terenul pentru descoperirile ce vor urma. Prânzul este dedicat culturii, cu o incursiune profundă în viața locală la Den Gamle Gård și în comorile artistice de la Muzeul Faaborg. După-amiaza este rezervată relaxării pure la premiata baie portuară Havnebad, unde marea întâlnește designul modern. Seara vă ademenește cu aromele bucătăriei locale, o încheiere perfectă pentru o zi plină de impresii din Funen.",
-        "en": "Your day in Faaborg begins with a walk through history at Vesterport and the quiet Helligåndskirken. The morning sees you climbing the Clock Tower for a panoramic view that sets the stage for the discoveries ahead. Midday is for culture, with a deep dive into local life at Den Gamle Gård and the artistic treasures of Faaborg Museum. The afternoon is reserved for pure relaxation at the award-winning Havnebad harbour bath, where the sea meets modern design. The evening beckons with the aroma of local cuisine, a perfect end to a day of Funen impressions."
+        "en": "Your day in Faaborg begins with a walk through history at Vesterport and the quiet Helligåndskirken. The morning sees you climbing the Clock Tower for a panoramic view that sets the stage for the discoveries ahead. Midday is for culture, with a deep dive into local life at Den Gamle Gård and the artistic treasures of Faaborg Museum. The afternoon is reserved for pure relaxation at the award-winning Havnebad harbour bath, where the sea meets modern design. The evening beckons with the aroma of local cuisine, a perfect end to a day of Funen impressions.",
+        "da": "Din dag i Faaborg begynder med en historisk gåtur ved Vesterport og den rolige Helligåndskirke. Om morgenen bestiger du Rådhustårnet for en panoramaudsigt, der lægger tonen for dagens opdagelser. Midt på dagen er det tid til kultur med et dyk ned i det lokale liv på Den Gamle Gård og de kunstneriske skatte på Faaborg Museum. Eftermiddagen er for ren afslapning ved det prisbelønnede Havnebad, hvor hav møder moderne design. Aftenen indbyder med duften af lokale retter — en perfekt afslutning på en dag med fynske indtryk."
       },
       "gastro_picks": {
         "de": [
@@ -361,6 +374,12 @@
           "Many small shops close early, plan your shopping for the morning or early afternoon.",
           "A sunset walk by the harbour is a must-do.",
           "Check museum opening times as they can vary seasonally."
+        ],
+        "da": [
+          "Brug behagelige sko, da gamlebyens gader er brostensbelagte.",
+          "Mange små butikker lukker tidligt; planlæg indkøb om morgenen eller tidlig eftermiddag.",
+          "En solnedgangstur ved havnen er et must.",
+          "Tjek museernes åbningstider, da de kan variere efter sæson."
         ]
       },
       "variants": {
@@ -369,7 +388,8 @@
             "de": "Morgens bieten die Vesterport und die Helligåndskirken perfekten Schutz vor den Schauern. Mittags verbringen Sie die Zeit in den gemütlichen Innenräumen von Den Gamle Gård und dem Faaborg Museum. Am Nachmittag ist das Hafenbad ein Erlebnis für Hartgesottene, während das Regenwetter eine mystische Stimmung über die See legt. Abends leuchten die Lichter der Stadt in den Pfützen der Kopfsteinpflastergassen.",
             "hu": "Reggel a Vesterport boltíve és a Helligåndskirken vastag falai adnak menedéket az eső elől. Délben a Den Gamle Gård és a Faaborg Múzeum belső terei tökéletesek a hosszabb látogatáshoz. Délután a kikötői fürdőnél az esőcseppek játéka a tengeren különleges látvány, különösen a szaunából figyelve. Este a város macskakövein megcsillanó fények teszik hangulatossá a sétát.",
             "ro": "Dimineața, Vesterport și Helligåndskirken oferă adăpost excelent împotriva ploii. La prânz, interiorul muzeelor Den Gamle Gård și Faaborg Museum este locul ideal pentru a rămâne la adăpost. După-amiaza, ploaia deasupra portului creează o atmosferă mistică, vizibilă cel mai bine din zonele acoperite ale băii publice. Seara, reflexiile luminilor orașului în pavajul umed încheie ziua într-un mod pitoresc.",
-            "en": "In the morning, Vesterport and Helligåndskirken provide excellent shelter from the showers. At noon, spend your time in the cozy interiors of Den Gamle Gård and Faaborg Museum. In the afternoon, the rain over the harbour creates a mystical atmosphere, best enjoyed from the sheltered parts of the harbor bath. In the evening, the city lights reflecting in the wet cobblestones provide a scenic end to the walk."
+            "en": "In the morning, Vesterport and Helligåndskirken provide excellent shelter from the showers. At noon, spend your time in the cozy interiors of Den Gamle Gård and Faaborg Museum. In the afternoon, the rain over the harbour creates a mystical atmosphere, best enjoyed from the sheltered parts of the harbor bath. In the evening, the city lights reflecting in the wet cobblestones provide a scenic end to the walk.",
+            "da": "Om morgenen giver Vesterport og Helligåndskirken godt læ mod byger. Ved frokosttid kan du søge ly i de hyggelige rum på Den Gamle Gård og Faaborg Museum. Om eftermiddagen skaber regnen over havnen en mystisk stemning, bedst nydt fra de overdækkede dele af havnebadet. Om aftenen reflekterer byens lys i de våde brosten og giver en stemningsfuld afslutning på gåturen."
           },
           "stops": [
             {
@@ -378,7 +398,8 @@
                 "de": "Nutzen Sie den Torbogen als kurzen Unterstand bei plötzlichem Regen.",
                 "hu": "Használja a kapualjat rövid menedékként, ha hirtelen elered az eső.",
                 "ro": "Folosiți arcada porții ca adăpost temporar în caz de ploaie bruscă.",
-                "en": "Use the gate's archway as a brief shelter during sudden showers."
+                "en": "Use the gate's archway as a brief shelter during sudden showers.",
+                "da": "Brug portens hvælving som kortvarigt læ under pludselige byger."
               }
             },
             {
@@ -387,7 +408,8 @@
                 "de": "Ein idealer Ort, um die Regenpause mit Kunstbetrachtung zu füllen.",
                 "hu": "Ideális hely a művészet élvezetére, amíg kint elvonul az eső.",
                 "ro": "Un loc ideal pentru a admira arta în timp ce așteptați să treacă ploaia.",
-                "en": "A perfect spot to admire art while waiting for the rain to pass."
+                "en": "A perfect spot to admire art while waiting for the rain to pass.",
+                "da": "Et perfekt sted at beundre kunst, mens du venter på at regnen stilner af."
               }
             },
             {
@@ -396,7 +418,8 @@
                 "de": "Der Aufstieg lohnt sich auch bei Regen für die dramatische Aussicht.",
                 "hu": "A kilátás drámai esőben is, megéri felmenni a fedett lépcsőkön.",
                 "ro": "Urcarea merită chiar și pe ploaie pentru vederea dramatică asupra orașului.",
-                "en": "The climb is worth it even in the rain for the dramatic views over the mist."
+                "en": "The climb is worth it even in the rain for the dramatic views over the mist.",
+                "da": "Bestigningen er det værd selv i regnvejr for de dramatiske udsigter over tågen."
               }
             },
             {
@@ -405,7 +428,8 @@
                 "de": "Viel Zeit im Inneren einplanen, um die Geschichte im Trockenen zu erleben.",
                 "hu": "Töltsön több időt bent, élvezze a történelmet a száraz belső terekben.",
                 "ro": "Alocați mai mult timp interiorului pentru a explora istoria la adăpost.",
-                "en": "Plan to spend more time inside exploring history in the dry rooms."
+                "en": "Plan to spend more time inside exploring history in the dry rooms.",
+                "da": "Planlæg at tilbringe mere tid indendørs og udforske historien i de tørre rum."
               }
             },
             {
@@ -414,7 +438,8 @@
                 "de": "Die weitläufigen Galerien sind das beste Versteck vor Dauerregen.",
                 "hu": "A tágas galériák a legjobb menedéket nyújtják tartós eső esetén.",
                 "ro": "Galeriile spațioase sunt cel mai bun refugiu în caz de ploaie persistentă.",
-                "en": "The spacious galleries offer the best refuge during persistent rainfall."
+                "en": "The spacious galleries offer the best refuge during persistent rainfall.",
+                "da": "De rummelige gallerier er det bedste tilflugtssted under vedvarende regn."
               }
             },
             {
@@ -423,7 +448,8 @@
                 "de": "Die Sauna im Hafenbad ist der perfekte Ort bei regnerischem Wetter.",
                 "hu": "A kikötői fürdő szaunája a legtökéletesebb hely esős időben.",
                 "ro": "Sauna băii publice din port este locul ideal pe vreme ploioasă.",
-                "en": "The sauna at the harbour bath is the perfect spot in rainy weather."
+                "en": "The sauna at the harbour bath is the perfect spot in rainy weather.",
+                "da": "Saunaen ved havnebadet er ideel i regnvejr."
               }
             }
           ],
@@ -451,6 +477,12 @@
               "Caution: the old cobblestone streets can be slippery when wet.",
               "The museum cafes in Faaborg are great for longer rain breaks.",
               "Wear waterproof shoes for exploring the harbour area."
+            ],
+            "da": [
+              "En stor paraply eller regnjakke er mere praktisk på grund af havbrisen.",
+              "Forsigtighed: de gamle brosten kan være glatte, når de er våde.",
+              "Museets caféer i Faaborg er gode til længere regnpauser.",
+              "Brug vandtætte sko til at udforske havneområdet."
             ]
           }
         },
@@ -459,7 +491,8 @@
             "de": "Der Wintermorgen in Faaborg ist erfrischend kalt, die Vesterport wirkt im Frost noch imposanter. Mittags wärmen die historischen Museen Herz und Seele mit ihrer gemütlichen Atmosphäre. Am Nachmittag taucht die frühe Dämmerung den Hafen in ein sanftes, blaues Licht, ideal für einen kurzen Deichspaziergang. Der Abend lädt zu einem heißen Getränk in der Altstadt ein, während die Fenster warm erleuchtet sind.",
             "hu": "A téli reggel frissítően hideg Faaborgban, a Vesterport még impozánsabb a fagyos fényben. Napközben a történelmi múzeumok meleg belső terei nyújtanak menedéket és kulturális élményt. Délután a korai sötétedés kék órája különleges hangulatot áraszt a kikötőben, mielőtt a város fényei kigyúlnak. Az este az óvárosi ablakok meleg fénye és egy forró ital mellett telik a legkellemesebben.",
             "ro": "Dimineața de iarnă în Faaborg este revigorant de rece, Vesterport arătând impunător sub promoroacă. În timpul zilei, muzeele istorice oferă căldură și o atmosferă primitoare. După-amiaza, amurgul timpuriu scaldă portul într-o lumină albastră, ideală pentru o plimbare scurtă. Seara vă invită la o băutură caldă în orașul vechi, printre ferestrele luminate cald.",
-            "en": "The winter morning in Faaborg is refreshingly cold, with Vesterport looking imposing in the frost. During the day, the historical museums offer warmth and a cozy atmosphere. In the afternoon, the early twilight bathes the harbour in a soft blue light, perfect for a short walk. The evening invites you for a hot drink in the old town as the windows glow with warm light."
+            "en": "The winter morning in Faaborg is refreshingly cold, with Vesterport looking imposing in the frost. During the day, the historical museums offer warmth and a cozy atmosphere. In the afternoon, the early twilight bathes the harbour in a soft blue light, perfect for a short walk. The evening invites you for a hot drink in the old town as the windows glow with warm light.",
+            "da": "Vinterens morgener i Faaborg er forfriskende kolde, og Vesterport fremstår imponerende i frosten. I løbet af dagen byder de historiske museer på varme og en hyggelig atmosfære. Om eftermiddagen bader den tidlige skumring havnen i et blødt blåt lys — perfekt til en kort gåtur. Om aftenen kan du nyde en varm drik i den gamle by, mens vinduerne gløder af lys."
           },
           "stops": [
             {
@@ -468,7 +501,8 @@
                 "de": "Achten Sie auf Glatteis auf dem historischen Kopfsteinpflaster.",
                 "hu": "Vigyázzon a jegesedésre a történelmi macskaköveken.",
                 "ro": "Atenție la gheața de pe pavajul istoric din jurul porții.",
-                "en": "Watch out for icy patches on the historical cobblestones."
+                "en": "Watch out for icy patches on the historical cobblestones.",
+                "da": "Hold øje med isglatte steder på de historiske brosten."
               }
             },
             {
@@ -477,7 +511,8 @@
                 "de": "Genießen Sie die Stille und die relative Wärme des massiven Kirchenbaus.",
                 "hu": "Élvezze a csendet és a templom masszív falai közötti viszonylagos meleget.",
                 "ro": "Bucurați-vă de liniștea și căldura relativă din interiorul bisericii.",
-                "en": "Enjoy the silence and relative warmth inside the massive church walls."
+                "en": "Enjoy the silence and relative warmth inside the massive church walls.",
+                "da": "Nyd stilheden og den relative varme inde i kirkens massive mure."
               }
             },
             {
@@ -486,7 +521,8 @@
                 "de": "Die klare Winterluft bietet oft die beste Fernsicht auf die dänische Südsee.",
                 "hu": "A tiszta téli levegőben gyakran a legszebb a kilátás a dán szigetvilágra.",
                 "ro": "Aerul curat de iarnă oferă adesea cea mai bună vizibilitate spre mare.",
-                "en": "The clear winter air often provides the best views over the archipelago."
+                "en": "The clear winter air often provides the best views over the archipelago.",
+                "da": "Den klare vinterluft giver ofte de bedste udsigter over øhavet."
               }
             },
             {
@@ -495,7 +531,8 @@
                 "de": "Die alten Stuben wirken im Winter besonders gemütlich und authentisch.",
                 "hu": "A régi szobák télen különösen barátságosnak és hitelesnek tűnnek.",
                 "ro": "Camerele vechi par deosebit de primitoare și autentice în timpul iernii.",
-                "en": "The old rooms feel especially cozy and authentic during the winter."
+                "en": "The old rooms feel especially cozy and authentic during the winter.",
+                "da": "De gamle rum føles særligt hyggelige og autentiske om vinteren."
               }
             },
             {
@@ -504,7 +541,8 @@
                 "de": "Ein perfekter Ort, um der Kälte für zwei Stunden komplett zu entfliehen.",
                 "hu": "Tökéletes hely, hogy két órára teljesen elmeneküljön a kinti hideg elől.",
                 "ro": "Locul perfect pentru a scăpa complet de frig timp de două ore.",
-                "en": "A perfect place to escape the cold completely for a couple of hours."
+                "en": "A perfect place to escape the cold completely for a couple of hours.",
+                "da": "Et perfekt sted at slippe fuldstændig væk fra kulden i et par timer."
               }
             },
             {
@@ -513,7 +551,8 @@
                 "de": "Nur für Winterbader – oder für den Blick auf das winterliche Meer.",
                 "hu": "Csak téli úszóknak ajánlott – vagy a téli tenger látványáért.",
                 "ro": "Doar pentru înotătorii de iarnă – sau pentru vederea mării înghețate.",
-                "en": "Only for winter swimmers – or for the view of the wintry sea."
+                "en": "Only for winter swimmers – or for the view of the wintry sea.",
+                "da": "Kun for vinterbadere — eller for udsigten over det vinterlige hav."
               }
             }
           ],
@@ -541,6 +580,12 @@
               "Note that in December, the sun sets as early as 4 PM.",
               "Many small shops may close earlier in winter than during high season.",
               "Wool socks and sturdy boots are essential for the cobblestone streets."
+            ],
+            "da": [
+              "Kend dig i lag, da det kan være meget blæsende og koldt ved havnen.",
+              "Bemærk, at solen i december går ned allerede omkring kl. 16.",
+              "Mange små butikker kan lukke tidligere om vinteren end i højsæsonen.",
+              "Uldsokker og robuste støvler er vigtige til brostensbelagte gader."
             ]
           }
         }
@@ -559,7 +604,8 @@
             "de": "Vesterport (Westtor)",
             "hu": "Vesterport (Nyugati kapu)",
             "ro": "Vesterport (Poarta de Vest)",
-            "en": "Vesterport (Western Gate)"
+            "en": "Vesterport (Western Gate)",
+            "da": "Vesterport (Vestporten)"
           },
           "coords": [
             10.2385,
@@ -575,7 +621,8 @@
             "de": "Ein schneller Fotostopp am historischen Eingang der Stadt.",
             "hu": "Egy gyors fotómegálló a város történelmi bejáratánál.",
             "ro": "O oprire rapidă pentru fotografii la intrarea istorică a orașului.",
-            "en": "A quick photo stop at the historic entrance to the city."
+            "en": "A quick photo stop at the historic entrance to the city.",
+            "da": "Et hurtigt fotostop ved den historiske byindgang."
           }
         },
         {
@@ -583,7 +630,8 @@
             "de": "Helligåndskirken & Glockenturm",
             "hu": "Helligåndskirken és Harangtorony",
             "ro": "Helligåndskirken și Turnul cu clopote",
-            "en": "Helligåndskirken & Clock Tower"
+            "en": "Helligåndskirken & Clock Tower",
+            "da": "Helligåndskirken & Rådhustårnet"
           },
           "coords": [
             10.243,
@@ -599,7 +647,8 @@
             "de": "Kombinieren Sie den Besuch der Kirche mit dem Aufstieg auf den Turm für eine tolle Aussicht.",
             "hu": "Kombinálja a templomlátogatást a torony megmászásával a nagyszerű kilátásért.",
             "ro": "Combinați vizita la biserică cu urcarea în turn pentru o priveliște minunată.",
-            "en": "Combine the church visit with the tower climb for a great view."
+            "en": "Combine the church visit with the tower climb for a great view.",
+            "da": "Kombinér kirkebesøget med tårnklatring for en flot udsigt."
           }
         },
         {
@@ -607,7 +656,8 @@
             "de": "Den Gamle Gård & Faaborg Museum",
             "hu": "Den Gamle Gård és Faaborg Múzeum",
             "ro": "Den Gamle Gård și Muzeul Faaborg",
-            "en": "Den Gamle Gård & Faaborg Museum"
+            "en": "Den Gamle Gård & Faaborg Museum",
+            "da": "Den Gamle Gård & Faaborg Museum"
           },
           "coords": [
             10.246,
@@ -623,7 +673,8 @@
             "de": "Parken Sie Ihr Fahrrad und tauchen Sie für ein paar Stunden in Kunst und Geschichte ein.",
             "hu": "Parkolja le a kerékpárját, és merüljön el a művészetben és a történelemben néhány órára.",
             "ro": "Parcați bicicleta și scufundați-vă în artă și istorie pentru câteva ore.",
-            "en": "Park your bike and immerse yourself in art and history for a couple of hours."
+            "en": "Park your bike and immerse yourself in art and history for a couple of hours.",
+            "da": "Lås din cykel og fordyb dig i kunst og historie i et par timer."
           }
         },
         {
@@ -631,7 +682,8 @@
             "de": "Faaborg Havnebad",
             "hu": "Faaborg Havnebad (Tengeri fürdő)",
             "ro": "Faaborg Havnebad (Baia portuară)",
-            "en": "Faaborg Harbour Bath"
+            "en": "Faaborg Harbour Bath",
+            "da": "Faaborg Havnebad"
           },
           "coords": [
             10.252,
@@ -647,7 +699,8 @@
             "de": "Schließen Sie Ihr Fahrrad an und genießen Sie ein Mittagessen mit Meerblick oder ein schnelles Bad.",
             "hu": "Zárja le a kerékpárt, és élvezzen egy ebédet tengeri kilátással vagy egy gyors úszást.",
             "ro": "Legați-vă bicicleta și bucurați-vă de un prânz cu vedere la mare sau de o baie rapidă.",
-            "en": "Lock up your bike and enjoy a seaside lunch or a quick swim."
+            "en": "Lock up your bike and enjoy a seaside lunch or a quick swim.",
+            "da": "Lås din cykel og nyd en frokost ved vandet eller en hurtig svømmetur."
           }
         },
         {
@@ -655,7 +708,8 @@
             "de": "Radtour nach Svanninge Bakker",
             "hu": "Kerékpártúra Svanninge Bakker felé",
             "ro": "Tură cu bicicleta spre Svanninge Bakker",
-            "en": "Bike Ride towards Svanninge Bakker"
+            "en": "Bike Ride towards Svanninge Bakker",
+            "da": "Cykeltur mod Svanninge Bakker"
           },
           "coords": [
             10.22,
@@ -671,7 +725,8 @@
             "de": "Genießen Sie die malerische Fahrt durch die Landschaft zu den 'Fünischen Alpen'.",
             "hu": "Élvezze a festői utat a tájon keresztül a 'Fyni-Alpok' felé.",
             "ro": "Bucurați-vă de plimbarea pitorească prin peisajul rural spre 'Alpii Funenului'.",
-            "en": "Enjoy the scenic ride through the countryside towards the 'Alps of Funen'."
+            "en": "Enjoy the scenic ride through the countryside towards the 'Alps of Funen'.",
+            "da": "Nyd den naturskønne tur gennem landskabet mod 'Fyns Alper'."
           }
         },
         {
@@ -679,7 +734,8 @@
             "de": "Rückkehr ins Stadtzentrum",
             "hu": "Visszatérés a városközpontba",
             "ro": "Întoarcere în centrul orașului",
-            "en": "Return to Town Centre"
+            "en": "Return to Town Centre",
+            "da": "Tilbage til bymidten"
           },
           "coords": [
             10.24,
@@ -695,7 +751,8 @@
             "de": "Beenden Sie Ihre Tour in einem Café am Hauptplatz.",
             "hu": "Fejezze be a túrát egy kávézóban a főtéren.",
             "ro": "Încheiați turul la o cafenea din piața principală.",
-            "en": "End your tour at a cafe in the main square."
+            "en": "End your tour at a cafe in the main square.",
+            "da": "Afslut din tur på en café på hovedtorvet."
           }
         }
       ],
@@ -703,7 +760,8 @@
         "de": "Ihr Radtag beginnt schnell am Vesterport, bevor Sie die spirituelle Ruhe der Helligåndskirken und die Aussicht vom Glockenturm genießen. Am Vormittag tauchen Sie in die reiche Kultur der Zwillingsmuseen von Faaborg ein, ein perfekter langer Stopp, um die Beine zu vertreten. Der Mittag findet Sie am lebhaften Havnebad, wo Sie sich mit einem Mittagessen am Meer stärken. Der Höhepunkt des Nachmittags ist eine belebende Radtour in Richtung der sanften Hügel von Svanninge Bakker, die Ihnen einen Eindruck von der wunderschönen Landschaft Fünens vermittelt. Sie kehren bei Sonnenuntergang ins Stadtzentrum zurück, erfüllt von einem Tag voller Aktivität und Entdeckungen.",
         "hu": "Kerékpáros napja gyorsan indul a Vesterportnál, mielőtt élvezné a Helligåndskirken spirituális nyugalmát és a Harangtoronyból nyíló kilátást. A délelőtt folyamán elmerül Faaborg ikermúzeumainak gazdag kultúrájában, ami egy tökéletes hosszú megálló a lábak kinyújtóztatására. Az ebédidő a nyüzsgő Havnebadnál találja, ahol egy tengerparti ebéddel töltődhet fel. A délután csúcspontja egy élénkítő kerékpártúra a Svanninge Bakker lankás dombjai felé, amely ízelítőt ad Fyn gyönyörű vidékéből. Napnyugtakor tér vissza a városközpontba, feltöltődve egy aktív és felfedezésekkel teli nappal.",
         "ro": "Ziua dvs. pe bicicletă începe în viteză la Vesterport, înainte de a absorbi liniștea spirituală de la Helligåndskirken și priveliștile din Turnul cu Clopote. Dimineața vă scufundați în cultura bogată a muzeelor gemene din Faaborg, o oprire lungă perfectă pentru a vă dezmorți picioarele. La prânz vă aflați la vibrantul Havnebad, realimentându-vă cu un prânz la malul mării. Punctul culminant al după-amiezii este o plimbare revigorantă cu bicicleta spre dealurile domoale din Svanninge Bakker, oferindu-vă un gust din peisajul rural frumos al Funenului. Vă întoarceți în centrul orașului la apus, împliniți de o zi de activitate și descoperire.",
-        "en": "Your bike day starts swiftly at Vesterport before absorbing the spiritual calm of Helligåndskirken and the views from the Clock Tower. The mid-morning has you diving into the rich culture of Faaborg's twin museums, a perfect long stop to stretch your legs. Midday finds you at the vibrant Havnebad, refueling with a seaside lunch. The afternoon's highlight is an invigorating ride towards the rolling hills of Svanninge Bakker, giving you a taste of the beautiful Funen countryside. You return to the town centre as the sun sets, fulfilled by a day of activity and discovery."
+        "en": "Your bike day starts swiftly at Vesterport before absorbing the spiritual calm of Helligåndskirken and the views from the Clock Tower. The mid-morning has you diving into the rich culture of Faaborg's twin museums, a perfect long stop to stretch your legs. Midday finds you at the vibrant Havnebad, refueling with a seaside lunch. The afternoon's highlight is an invigorating ride towards the rolling hills of Svanninge Bakker, giving you a taste of the beautiful Funen countryside. You return to the town centre as the sun sets, fulfilled by a day of activity and discovery.",
+        "da": "Din cykeldag starter hurtigt ved Vesterport, før du mærker den åndelige ro i Helligåndskirken og udsigterne fra Rådhustårnet. Midt på formiddagen dykker du ned i Faaborgs rige museumsudbud, et perfekt langt stop til at få strakt benene. Ved middagstid finder du dig ved det levende Havnebad til en frokost ved vandet. Eftermiddagens højdepunkt er en opkvikkende tur mod de bølgende bakker i Svanninge Bakker, der giver et indblik i det smukke fynske landskab. Du vender tilbage til byens centrum ved solnedgang, tilfreds efter en dag fyldt med aktivitet og oplevelser."
       },
       "gastro_picks": {
         "de": [
@@ -863,6 +921,12 @@
           "The routes around Svanninge Bakker can be hilly, make sure your bike has gears.",
           "Bring plenty of water, especially for the ride into the countryside.",
           "Always lock your bike, even for short stops."
+        ],
+        "da": [
+          "Lej en cykel i en af de lokale butikker, hvis du ikke har din egen.",
+          "Ruterne omkring Svanninge Bakker kan være kuperede — sørg for, at din cykel har gear.",
+          "Medbring rigeligt med vand, især til turen ud på landet.",
+          "Lås altid din cykel, også ved korte stop."
         ]
       },
       "variants": {
@@ -871,7 +935,8 @@
             "de": "Ein regnerischer Tag auf dem Rad in Faaborg erfordert gute Ausrüstung, belohnt aber mit leeren Wegen. Vormittags erkunden Sie die Altstadt mit kurzen Stopps unter Dächern. Mittags bieten die Museen die nötige Trockenpause. Nachmittags radeln Sie am Hafen entlang, wo der Regen auf die Ostsee peitscht. Den Tag schließen Sie entspannt im Stadtzentrum ab, während das Rad sicher verstaut ist.",
             "hu": "Egy esős kerékpáros nap Faaborgban jó felszerelést igényel, de üres utakkal jutalmaz. Délelőtt az óvárost fedett megállókkal fedezheti fel. Délben a múzeumok kínálnak száraz pihenőt. Délután a kikötő mentén tekerve nézheti a tengerre hulló esőt. A napot a városközpontban zárhatja, miután a kerékpárt biztonságos helyre tette.",
             "ro": "O zi ploioasă pe bicicletă în Faaborg necesită echipament bun, dar oferă drumuri libere. Dimineața, explorați orașul vechi cu scurte opriri sub acoperiș. La prânz, muzeele oferă pauza necesară pentru uscare. După-amiaza, pedalați de-a lungul portului sub ploaia care cade peste mare. Încheiați ziua relaxat în centrul orașului.",
-            "en": "A rainy cycling day in Faaborg requires good gear but rewards you with empty paths. In the morning, explore the old town with short stops under cover. At noon, museums offer a dry break. In the afternoon, cycle along the harbour watching the rain hit the Baltic Sea. End the day relaxed in the town centre after securing your bike."
+            "en": "A rainy cycling day in Faaborg requires good gear but rewards you with empty paths. In the morning, explore the old town with short stops under cover. At noon, museums offer a dry break. In the afternoon, cycle along the harbour watching the rain hit the Baltic Sea. End the day relaxed in the town centre after securing your bike.",
+            "da": "En regnfuld cykeldag i Faaborg kræver godt udstyr, men belønner dig med tomme stier. Om morgenen udforsk den gamle by med korte pauser under tag. Ved middagstid giver museerne et tørt pusterum. Om eftermiddagen kan du cykle langs havnen og se regnen slå mod Østersøen. Afslut dagen afslappet i bymidten efter at have sikret din cykel."
           },
           "stops": [
             {
@@ -880,7 +945,8 @@
                 "de": "Vorsicht beim Bremsen auf nassem Kopfsteinpflaster unter dem Tor.",
                 "hu": "Vigyázzon a fékezéssel a vizes macskakövön a kapu alatt.",
                 "ro": "Atenție la frânare pe pavajul ud de sub poartă.",
-                "en": "Be careful when braking on the wet cobblestones under the gate."
+                "en": "Be careful when braking on the wet cobblestones under the gate.",
+                "da": "Vær forsigtig med at bremse på de våde brosten under porten."
               }
             },
             {
@@ -889,7 +955,8 @@
                 "de": "Fahrradständer sind vorhanden; nutzen Sie die Zeit für eine Trockenpause.",
                 "hu": "Vannak kerékpártárolók; használja ki az időt egy száraz pihenőre.",
                 "ro": "Există rastele pentru biciclete; folosiți timpul pentru o pauză uscată.",
-                "en": "Bike racks are available; use the visit as a dry break from the rain."
+                "en": "Bike racks are available; use the visit as a dry break from the rain.",
+                "da": "Cykelstativer er tilgængelige; brug besøget som en tør pause fra regnen."
               }
             },
             {
@@ -898,7 +965,8 @@
                 "de": "Idealer Ort, um die nassen Regensachen während der Besichtigung abzulegen.",
                 "hu": "Ideális hely, hogy a vizes esőruhát levegye a látogatás idejére.",
                 "ro": "Locul ideal pentru a lăsa pelerina udă pe durata vizitei.",
-                "en": "Ideal place to take off wet rain gear during the museum visit."
+                "en": "Ideal place to take off wet rain gear during the museum visit.",
+                "da": "Ideelt sted at tage vådt regntøj af under museumsbesøget."
               }
             },
             {
@@ -907,7 +975,8 @@
                 "de": "Die Holzstege können bei Regen rutschig sein; schieben Sie das Rad.",
                 "hu": "A fapallók esőben csúszósak lehetnek; tolja a kerékpárt.",
                 "ro": "Pasarelele de lemn pot fi alunecoase; mergeți pe lângă bicicletă.",
-                "en": "The wooden walkways can be slippery in the rain; push your bike."
+                "en": "The wooden walkways can be slippery in the rain; push your bike.",
+                "da": "De træbelagte gangbroer kan være glatte i regnvejr; skub cyklen."
               }
             },
             {
@@ -916,7 +985,8 @@
                 "de": "Schutzbleche sind bei den Feldwegen nach dem Regen unerlässlich.",
                 "hu": "A sárvédő elengedhetetlen a felázott dűlőutakon az eső után.",
                 "ro": "Aripile la bicicletă sunt esențiale pe drumurile de pământ după ploaie.",
-                "en": "Mudguards are essential for the dirt paths after the rainfall."
+                "en": "Mudguards are essential for the dirt paths after the rainfall.",
+                "da": "Skærme er nødvendige på jordstier efter regnvejr."
               }
             },
             {
@@ -925,7 +995,8 @@
                 "de": "Trocknen Sie die Kette nach der Fahrt ab, um Rost zu vermeiden.",
                 "hu": "Tekerés után törölje szárazra a láncot a rozsda megelőzésére.",
                 "ro": "Ștergeți lanțul după plimbare pentru a preveni rugina.",
-                "en": "Dry the chain after the ride to prevent rust from the rain."
+                "en": "Dry the chain after the ride to prevent rust from the rain.",
+                "da": "Tør kæden efter turen for at forhindre rust fra regnen."
               }
             }
           ],
@@ -953,6 +1024,12 @@
               "Avoid sharp turns on wet cobblestones in the old town.",
               "Check your brakes before starting, as wetness reduces braking power.",
               "A saddle cover will keep your seat dry during the stops."
+            ],
+            "da": [
+              "Fuld regnbeklædning inklusive skoovertræk anbefales stærkt.",
+              "Undgå skarpe sving på våde brosten i den gamle by.",
+              "Tjek dine bremser inden start — vådt vejr nedsætter bremseevnen.",
+              "Et sadelovertræk holder sadlen tør under stop."
             ]
           }
         },
@@ -961,7 +1038,8 @@
             "de": "Radfahren im Winter in Faaborg bietet klare Luft und weite Sichten. Morgens geht es durch die frostige Altstadt zum Vesterport. Mittags sind die Museen die wichtigsten Aufwärmstationen Ihrer Tour. Nachmittags genießen Sie die Ruhe am Hafenbad und erklimmen die Svanninge Bakker für einen Blick über die Winterlandschaft. Vor Einbruch der Dunkelheit kehren Sie ins beleuchtete Zentrum zurück.",
             "hu": "A téli kerékpározás Faaborgban friss levegőt és tiszta kilátást kínál. Reggel a fagyos óvároson át tekerhet a Vesterportig. Napközben a múzeumok a túra legfontosabb melegedőpontjai. Délután élvezze a csendet a kikötőnél, vagy tekerjen ki a Svanninge Bakker dombjaihoz a téli tájért. A sötétedés beállta előtt térjen vissza a kivilágított központba.",
             "ro": "Ciclismul de iarnă în Faaborg oferă aer curat și priveliști largi. Dimineața, pedalați prin orașul vechi înghețat spre Vesterport. În timpul zilei, muzeele sunt principalele puncte de încălzire. După-amiaza, bucurați-vă de liniștea portului și urcați spre Svanninge Bakker pentru peisajul de iarnă. Reveniți în centru înainte de lăsarea întunericului.",
-            "en": "Winter cycling in Faaborg offers crisp air and vast views. In the morning, ride through the frosty old town to Vesterport. During the day, museums are the most important warm-up stations of your tour. In the afternoon, enjoy the peace at the harbour and climb Svanninge Bakker for winter landscapes. Return to the lit center before darkness falls."
+            "en": "Winter cycling in Faaborg offers crisp air and vast views. In the morning, ride through the frosty old town to Vesterport. During the day, museums are the most important warm-up stations of your tour. In the afternoon, enjoy the peace at the harbour and climb Svanninge Bakker for winter landscapes. Return to the lit center before darkness falls.",
+            "da": "Vintercykling i Faaborg byder på frisk luft og vidt udsyn. Om morgenen cykler du gennem den frostklare gamle by til Vesterport. I løbet af dagen er museerne de vigtigste varmesteder på din tur. Om eftermiddagen kan du nyde roen ved havnen og bestige Svanninge Bakker for vinterlandskaber. Vend tilbage til det oplyste centrum, inden mørket falder på."
           },
           "stops": [
             {
@@ -970,7 +1048,8 @@
                 "de": "Vorsicht vor gefrorenem Tauwasser im Schatten des Torgebäudes.",
                 "hu": "Vigyázzon a megfagyott párára a kapuépület árnyékos részén.",
                 "ro": "Atenție la condensul înghețat la umbra porții.",
-                "en": "Watch out for frozen dew in the shadows of the gate building."
+                "en": "Watch out for frozen dew in the shadows of the gate building.",
+                "da": "Pas på frossen dugg i skyggerne ved portbygningen."
               }
             },
             {
@@ -979,7 +1058,8 @@
                 "de": "Schließen Sie Ihr Rad ab und nutzen Sie den Turm zum Aufwärmen durch Bewegung.",
                 "hu": "Zárja le a biciklit, a toronyba lépcsőzés pedig jól felmelegíti.",
                 "ro": "Încuiați bicicleta; urcarea în turn vă va încălzi rapid.",
-                "en": "Lock your bike; climbing the tower will warm you up quickly."
+                "en": "Lock your bike; climbing the tower will warm you up quickly.",
+                "da": "Lås din cykel; tårnklatringen varmer dig hurtigt op."
               }
             },
             {
@@ -988,7 +1068,8 @@
                 "de": "Verlängern Sie den Aufenthalt hier, wenn die Finger beim Radeln kalt wurden.",
                 "hu": "Hosszabbítsa meg itt a tartózkodást, ha a kezei átfagytak a tekerésben.",
                 "ro": "Prelungiți vizita aici dacă v-au înghețat degetele pe bicicletă.",
-                "en": "Extend your stay here if your fingers got cold while cycling."
+                "en": "Extend your stay here if your fingers got cold while cycling.",
+                "da": "Forlæng dit ophold her, hvis dine fingre er blevet kolde under cykelturen."
               }
             },
             {
@@ -997,7 +1078,8 @@
                 "de": "Der Wind am Hafen ist im Winter beißend; halten Sie den Stopp kurz.",
                 "hu": "A kikötői szél télen metsző; tartsa rövidre ezt a megállót.",
                 "ro": "Vântul din port este tăios iarna; faceți o oprire scurtă.",
-                "en": "The wind at the harbour is biting in winter; keep this stop brief."
+                "en": "The wind at the harbour is biting in winter; keep this stop brief.",
+                "da": "Vinden ved havnen er bidende om vinteren; hold dette stop kort."
               }
             },
             {
@@ -1006,7 +1088,8 @@
                 "de": "Der Anstieg hält warm, aber ziehen Sie sich für die Abfahrt warm an.",
                 "hu": "Az emelkedő melegen tart, de a lejtőre öltözzön fel jól.",
                 "ro": "Urcarea vă ține de cald, dar îmbrăcați-vă bine pentru coborâre.",
-                "en": "The climb keeps you warm, but dress up for the downhill ride."
+                "en": "The climb keeps you warm, but dress up for the downhill ride.",
+                "da": "Bestigningen holder dig varm, men klæd dig på til nedkørslen."
               }
             },
             {
@@ -1015,7 +1098,8 @@
                 "de": "Schalten Sie das Licht frühzeitig ein; die Sicht wird ab 15:30 schlechter.",
                 "hu": "Kapcsolja be korán a lámpát; a látási viszonyok fél 4-től romlanak.",
                 "ro": "Aprindeți luminile devreme; vizibilitatea scade după ora 15:30.",
-                "en": "Turn on your lights early; visibility decreases from 3:30 PM."
+                "en": "Turn on your lights early; visibility decreases from 3:30 PM.",
+                "da": "Tænd dine lys tidligt; sigtbarheden falder fra kl. 15:30."
               }
             }
           ],
@@ -1043,6 +1127,12 @@
               "Watch out for frost on bridges and in shaded curves.",
               "Keep your body temperature up by pedaling constantly.",
               "Check tyre pressure; slightly lower pressure offers better grip in winter."
+            ],
+            "da": [
+              "Brug vindtætte handsker og en tynd hue under hjelmen.",
+              "Pas på frost på broer og i skyggefulde sving.",
+              "Hold kropstemperaturen oppe ved hele tiden at træde i pedalerne.",
+              "Tjek dæktrykket; en lidt lavere tryk giver bedre greb om vinteren."
             ]
           }
         }
@@ -1061,7 +1151,8 @@
             "de": "Fahrt zum Schloss Holstenshuus",
             "hu": "Utazás a Holstenshuus kastélyhoz",
             "ro": "Călătorie spre Castelul Holstenshuus",
-            "en": "Drive to Holstenshuus Castle"
+            "en": "Drive to Holstenshuus Castle",
+            "da": "Kør til Holstenshuus Slot"
           },
           "coords": [
             10.3,
@@ -1077,7 +1168,8 @@
             "de": "Beginnen Sie Ihren Tag mit einer kurzen Fahrt zu diesem eleganten Barockschloss. Der Park ist wunderschön.",
             "hu": "Kezdje a napot egy rövid autóúttal ehhez az elegáns barokk kastélyhoz. A park gyönyörű.",
             "ro": "Începeți ziua cu o scurtă călătorie cu mașina spre acest castel baroc elegant. Parcul este superb.",
-            "en": "Start your day with a short drive to this elegant baroque castle. The park is beautiful."
+            "en": "Start your day with a short drive to this elegant baroque castle. The park is beautiful.",
+            "da": "Start dagen med en kort køretur til dette elegante barokslot. Parken er smuk."
           }
         },
         {
@@ -1085,7 +1177,8 @@
             "de": "Spaziergang im Schlosspark",
             "hu": "Séta a kastélyparkban",
             "ro": "Plimbare în parcul castelului",
-            "en": "Walk in the Castle Park"
+            "en": "Walk in the Castle Park",
+            "da": "Gå en tur i slotsparken"
           },
           "coords": [
             10.302,
@@ -1101,7 +1194,8 @@
             "de": "Genießen Sie die Ruhe und die gepflegten Gärten, die das Schloss umgeben.",
             "hu": "Élvezze a kastélyt körülvevő nyugalmat és a gondozott kerteket.",
             "ro": "Bucurați-vă de liniștea și grădinile îngrijite care înconjoară castelul.",
-            "en": "Enjoy the tranquility and the manicured gardens surrounding the castle."
+            "en": "Enjoy the tranquility and the manicured gardens surrounding the castle.",
+            "da": "Nyd roen og de velplejede haver omkring slottet."
           }
         },
         {
@@ -1109,7 +1203,8 @@
             "de": "Fahrt nach Svanninge Bakker",
             "hu": "Utazás Svanninge Bakkerbe",
             "ro": "Călătorie spre Svanninge Bakker",
-            "en": "Drive to Svanninge Bakker"
+            "en": "Drive to Svanninge Bakker",
+            "da": "Kør til Svanninge Bakker"
           },
           "coords": [
             10.22,
@@ -1125,7 +1220,8 @@
             "de": "Fahren Sie zu den 'Fünischen Alpen' für atemberaubende Ausblicke und ein Picknick-Mittagessen.",
             "hu": "Autózzon el a 'Fyni-Alpokba' a lélegzetelállító kilátásért és egy piknikebédért.",
             "ro": "Conduceți spre 'Alpii Funenului' pentru priveliști uimitoare și un prânz la picnic.",
-            "en": "Drive to the 'Alps of Funen' for stunning views and a picnic lunch."
+            "en": "Drive to the 'Alps of Funen' for stunning views and a picnic lunch.",
+            "da": "Kør til 'Fyns Alper' for storslåede udsigter og en picnicfrokost."
           }
         },
         {
@@ -1133,7 +1229,8 @@
             "de": "Fahrt ins Stadtzentrum von Faaborg",
             "hu": "Utazás Faaborg városközpontjába",
             "ro": "Călătorie spre centrul orașului Faaborg",
-            "en": "Drive to Faaborg Town Centre"
+            "en": "Drive to Faaborg Town Centre",
+            "da": "Kør til Faaborgs bymidte"
           },
           "coords": [
             10.24,
@@ -1149,7 +1246,8 @@
             "de": "Parken Sie Ihr Auto auf einem der ausgewiesenen Parkplätze am Rande der Altstadt.",
             "hu": "Parkolja le autóját az óváros szélén található kijelölt parkolók egyikében.",
             "ro": "Parcați mașina într-una dintre parcările desemnate de la marginea orașului vechi.",
-            "en": "Park your car in one of the designated car parks on the edge of the old town."
+            "en": "Park your car in one of the designated car parks on the edge of the old town.",
+            "da": "Parkér din bil i et af de anviste parkeringsområder på kanten af den gamle by."
           }
         },
         {
@@ -1157,7 +1255,8 @@
             "de": "Spaziergang: Vesterport & Altstadt",
             "hu": "Séta: Vesterport és Óváros",
             "ro": "Plimbare: Vesterport și Orașul Vechi",
-            "en": "Walk: Vesterport & Old Town"
+            "en": "Walk: Vesterport & Old Town",
+            "da": "Gåtur: Vesterport & Den gamle by"
           },
           "coords": [
             10.2385,
@@ -1173,7 +1272,8 @@
             "de": "Erkunden Sie die charmanten Straßen, beginnend am historischen Tor.",
             "hu": "Fedezze fel a bájos utcákat a történelmi kaputól indulva.",
             "ro": "Explorați străzile fermecătoare, începând de la poarta istorică.",
-            "en": "Explore the charming streets, starting from the historic gate."
+            "en": "Explore the charming streets, starting from the historic gate.",
+            "da": "Udforsk de charmerende gader, startende fra den historiske port."
           }
         },
         {
@@ -1181,7 +1281,8 @@
             "de": "Spaziergang: Helligåndskirken & Glockenturm",
             "hu": "Séta: Helligåndskirken és Harangtorony",
             "ro": "Plimbare: Helligåndskirken & Turnul cu Clopote",
-            "en": "Walk: Helligåndskirken & Clock Tower"
+            "en": "Walk: Helligåndskirken & Clock Tower",
+            "da": "Gåtur: Helligåndskirken & Klokketårnet"
           },
           "coords": [
             10.243,
@@ -1197,7 +1298,8 @@
             "de": "Ein kurzer Spaziergang bringt Sie zu den Wahrzeichen der Stadt.",
             "hu": "Egy rövid séta elvezeti a város nevezetességeihez.",
             "ro": "O scurtă plimbare vă duce la reperele orașului.",
-            "en": "A short walk brings you to the town's iconic landmarks."
+            "en": "A short walk brings you to the town's iconic landmarks.",
+            "da": "En kort gåtur fører dig til byens ikoniske vartegn."
           }
         },
         {
@@ -1205,7 +1307,8 @@
             "de": "Spaziergang zum Hafenbad",
             "hu": "Séta a Tengeri fürdőhöz",
             "ro": "Plimbare la Baia Portuară",
-            "en": "Walk to the Harbour Bath"
+            "en": "Walk to the Harbour Bath",
+            "da": "Gå til havnebadet"
           },
           "coords": [
             10.252,
@@ -1221,7 +1324,8 @@
             "de": "Beenden Sie Ihren Tag mit einem entspannten Spaziergang zum Wasser, um die Abendsonne zu genießen.",
             "hu": "Fejezze be a napot egy pihentető sétával a vízparthoz, hogy élvezze az esti napsütést.",
             "ro": "Încheiați ziua cu o plimbare relaxantă la malul apei pentru a vă bucura de soarele de seară.",
-            "en": "End your day with a relaxing walk to the water to enjoy the evening sun."
+            "en": "End your day with a relaxing walk to the water to enjoy the evening sun.",
+            "da": "Afslut dagen med en afslappet gåtur ned til vandet og nyd aftensolen."
           }
         }
       ],
@@ -1229,7 +1333,8 @@
         "de": "Ihr Autotag beginnt mit der eleganten Landschaft des Schlosses Holstenshuus, einem ruhigen Start in den Tag. Am Vormittag fahren Sie zu den dramatischen Höhen von Svanninge Bakker, dem perfekten Ort für ein Mittagessen mit Aussicht. Nach dem Mittagessen fahren Sie ins Herz von Faaborg. Sie parken das Auto und verwandeln sich in einen Fußgänger, der die historischen Cluster der Stadt erkundet. Der Nachmittag ist ein Spaziergang durch die Zeit, von Vesterport zur Helligåndskirken. Der Tag endet am modernen Hafenbad, wo Sie sich entspannen und auf einen Tag zurückblicken können, der das Beste aus Fünens Natur und Stadterbe vereint.",
         "hu": "Autós napja a Holstenshuus kastély elegáns tájával kezdődik, egy békés napindító. A délelőtt folyamán a drámai magasságú Svanninge Bakkerbe hajt, amely tökéletes hely egy kilátással egybekötött ebédhez. Ebéd után Faaborg szívébe utazik. Leteszi az autót, és gyalogossá válva fedezi fel a város történelmi negyedeit. A délután egy séta az időben, a Vesterporttól a Helligåndskirkenig. A nap a modern tengeri fürdőnél ér véget, ahol pihenhet és visszatekinthet egy olyan napra, amely Fyn természetének és városi örökségének legjavát ötvözte.",
         "ro": "Ziua dvs. cu mașina începe cu peisajul elegant al Castelului Holstenshuus, un început de zi liniștit. Dimineața vă îndreptați spre înălțimile dramatice din Svanninge Bakker, locul perfect pentru un prânz cu priveliște. După prânz, călătoriți în inima orașului Faaborg. Parcați mașina și vă transformați într-un pieton, explorând grupurile istorice ale orașului. După-amiaza este o plimbare prin timp, de la Vesterport la Helligåndskirken. Ziua se încheie la moderna baie portuară, unde vă puteți relaxa și reflecta la o zi care a combinat ce e mai bun din natura și patrimoniul urban al Funenului.",
-        "en": "Your car day begins with the elegant scenery of Holstenshuus Castle, a serene start to the day. The morning drive takes you to the dramatic heights of Svanninge Bakker, the perfect spot for lunch with a view. After lunch, you journey into the heart of Faaborg. You'll park the car and transform into a pedestrian, exploring the town's historic clusters. The afternoon is a walk through time, from Vesterport to Helligåndskirken. The day concludes at the modern harbour bath, where you can unwind and reflect on a day that combined the best of Funen's nature and town heritage."
+        "en": "Your car day begins with the elegant scenery of Holstenshuus Castle, a serene start to the day. The morning drive takes you to the dramatic heights of Svanninge Bakker, the perfect spot for lunch with a view. After lunch, you journey into the heart of Faaborg. You'll park the car and transform into a pedestrian, exploring the town's historic clusters. The afternoon is a walk through time, from Vesterport to Helligåndskirken. The day concludes at the modern harbour bath, where you can unwind and reflect on a day that combined the best of Funen's nature and town heritage.",
+        "da": "Din biltur begynder med det elegante sceneri ved Holstenshuus Slot, en rolig start på dagen. Morgenturen fører dig til de dramatiske højder i Svanninge Bakker, et perfekt sted til frokost med udsigt. Efter frokost kører du ind i Faaborgs hjerte. Du parkerer bilen og bliver fodgænger og udforsker byens historiske klynger. Eftermiddagen er en gåtur gennem tiden, fra Vesterport til Helligåndskirken. Dagen afsluttes ved det moderne havnebad, hvor du kan slappe af og reflektere over en dag, der kombinerede det bedste af Fyns natur og byarv."
       },
       "gastro_picks": {
         "de": [
@@ -1373,6 +1478,12 @@
           "Parking in Faaborg town centre is paid.",
           "Roads in Svanninge Bakker can be narrow, drive with care.",
           "Fill up on gas before leaving town as stations are sparse in the countryside."
+        ],
+        "da": [
+          "Tjek åbningstider for Holstenshuus Slot, da adgang kan være sæsonbestemt.",
+          "Parkering i Faaborgs bymidte er betalingsparkering.",
+          "Vejene i Svanninge Bakker kan være smalle, kør forsigtigt.",
+          "Fyld benzintanken op, før du forlader byen, da tankstationer er sparsomme på landet."
         ]
       },
       "variants": {
@@ -1381,7 +1492,8 @@
             "de": "Regenwetter ist ideal für eine Autotour rund um Faaborg. Morgens fahren Sie zum Schloss Holstenshuus und genießen den Anblick aus dem trockenen Wagen. Mittags sind die Hügel von Svanninge Bakker bei Nebel besonders atmosphärisch. Nachmittags parken Sie im Zentrum und besuchen die Museen und Kirchen. Den Tag beenden Sie am Hafen, wo Sie den Regen auf das Autodach prasseln hören.",
             "hu": "Az esős idő ideális egy faaborgi autós túrához. Reggel a Holstenshuus kastélyhoz hajtva a száraz autóból élvezheti a látványt. Napközben a Svanninge Bakker dombjai ködben különleges hangulatot árasztanak. Délután a központban parkolva múzeumokat és templomokat látogathat. A napot a kikötőben zárhatja, hallgatva az eső kopogását az autó tetőjén.",
             "ro": "Vremea ploioasă este ideală pentru un tur cu mașina în jurul Faaborg. Dimineața mergeți la Castelul Holstenshuus, admirându-l din confortul mașinii. La prânz, dealurile Svanninge Bakker au o atmosferă aparte în ceață. După-amiaza, parcați în centru pentru muzee și biserici. Încheiați ziua în port, ascultând ploaia pe plafonul mașinii.",
-            "en": "Rainy weather is ideal for a car tour around Faaborg. In the morning, drive to Holstenshuus Castle and enjoy the view from your dry car. At noon, the hills of Svanninge Bakker are particularly atmospheric in the mist. In the afternoon, park in the center to visit museums and churches. End the day at the harbour, listening to the rain on the car roof."
+            "en": "Rainy weather is ideal for a car tour around Faaborg. In the morning, drive to Holstenshuus Castle and enjoy the view from your dry car. At noon, the hills of Svanninge Bakker are particularly atmospheric in the mist. In the afternoon, park in the center to visit museums and churches. End the day at the harbour, listening to the rain on the car roof.",
+            "da": "Regnvejr er ideelt til en biltur rundt i Faaborg. Om morgenen kør til Holstenshuus Slot og nyd udsigten fra den tørre bil. Ved middagstid er bakkerne i Svanninge særligt stemningsfulde i tågen. Om eftermiddagen parkerer du i centrum for at besøge museer og kirker. Afslut dagen ved havnen og lyt til regnen på bilens tag."
           },
           "stops": [
             {
@@ -1390,7 +1502,8 @@
                 "de": "Das Schloss lässt sich bei starkem Regen gut von der Zufahrt aus bewundern.",
                 "hu": "A kastély erős esőben is jól megcsodálható az autóbejárótól.",
                 "ro": "Castelul poate fi admirat bine chiar și pe ploaie din aleea de acces.",
-                "en": "The castle can be admired from the driveway even during heavy rain."
+                "en": "The castle can be admired from the driveway even during heavy rain.",
+                "da": "Slottet kan nydes fra indkørslen selv under kraftig regn."
               }
             },
             {
@@ -1399,7 +1512,8 @@
                 "de": "Kurzer Spaziergang nur mit Regenschirm; die Wege können aufweichen.",
                 "hu": "Rövid séta csak esernyővel; az utak felázhatnak.",
                 "ro": "Scurtă plimbare doar cu umbrelă; aleile pot deveni noroioase.",
-                "en": "Short walk only with an umbrella; the paths can get muddy."
+                "en": "Short walk only with an umbrella; the paths can get muddy.",
+                "da": "Kun en kort gåtur med paraply; stierne kan blive mudrede."
               }
             },
             {
@@ -1408,7 +1522,8 @@
                 "de": "Genießen Sie die Aussicht vom Parkplatz aus, falls es zu stark regnet.",
                 "hu": "Élvezze a kilátást a parkolóból, ha túl erősen esne az eső.",
                 "ro": "Bucurați-vă de priveliște din parcare dacă plouă prea tare.",
-                "en": "Enjoy the view from the parking lot if it rains too hard to hike."
+                "en": "Enjoy the view from the parking lot if it rains too hard to hike.",
+                "da": "Nyd udsigten fra parkeringspladsen, hvis det regner for kraftigt til at vandre."
               }
             },
             {
@@ -1417,7 +1532,8 @@
                 "de": "Zentraler Parkplatz ermöglicht kurze Wege zu den Sehenswürdigkeiten.",
                 "hu": "A központi parkoló rövid sétát tesz lehetővé a látnivalókig.",
                 "ro": "Parcarea centrală permite accesul rapid la principalele atracții.",
-                "en": "Central parking allows for short walks to the main attractions."
+                "en": "Central parking allows for short walks to the main attractions.",
+                "da": "Centralt placeret parkering giver korte gåture til hovedattraktionerne."
               }
             },
             {
@@ -1426,7 +1542,8 @@
                 "de": "Nutzen Sie die engen Gassen als Windschutz bei Regen.",
                 "hu": "Használja a szűk utcákat szél elleni védelemként esőben.",
                 "ro": "Folosiți străzile înguste ca protecție împotriva vântului și ploii.",
-                "en": "Use the narrow streets as wind protection during the rain."
+                "en": "Use the narrow streets as wind protection during the rain.",
+                "da": "Brug de smalle gader som læ for vinden under regnen."
               }
             },
             {
@@ -1435,7 +1552,8 @@
                 "de": "Ideale Indoor-Ziele, um das Auto für eine Weile zu verlassen.",
                 "hu": "Ideális fedett célpontok, ahol hosszabb időre is otthagyhatja az autót.",
                 "ro": "Destinații interioare ideale pentru a lăsa mașina o perioadă.",
-                "en": "Ideal indoor destinations to leave the car for a while."
+                "en": "Ideal indoor destinations to leave the car for a while.",
+                "da": "Ideelle indendørs destinationer til at lade bilen stå et stykke tid."
               }
             },
             {
@@ -1444,7 +1562,8 @@
                 "de": "Parken Sie nah am Hafenbecken für einen schnellen Zugang zum Bad.",
                 "hu": "Parkoljon közel a kikötőhöz a fürdő gyors eléréséhez.",
                 "ro": "Parcați aproape de bazinul portului pentru acces rapid la baie.",
-                "en": "Park close to the harbour basin for quick access to the bath."
+                "en": "Park close to the harbour basin for quick access to the bath.",
+                "da": "Parkér tæt på havnebassinet for hurtig adgang til badet."
               }
             }
           ],
@@ -1472,6 +1591,12 @@
               "The country roads around Svanninge Bakker can be slippery when wet.",
               "Don't leave wet clothes in the car to avoid foggy windows.",
               "Check your windshield wipers before touring the hills."
+            ],
+            "da": [
+              "Brug parkeringspladserne direkte ved havnen for at minimere våd gang.",
+              "Landvejene omkring Svanninge Bakker kan blive glatte, når de er våde.",
+              "Lad ikke våde klæder blive i bilen for at undgå duggen i ruderne.",
+              "Tjek dine viskere, før du kører i bakkerne."
             ]
           }
         },
@@ -1480,7 +1605,8 @@
             "de": "Eine winterliche Autofahrt zeigt Faaborgs frostige Schönheit. Morgens führt der Weg zum Schloss Holstenshuus, dessen Park im Reif glänzt. Mittags bieten die Svanninge Bakker weite Ausblicke über die verschneite Landschaft. Nachmittags erkunden Sie das historische Zentrum und wärmen sich in den Museen auf. Den Abend verbringen Sie am Hafen, bevor Sie mit der Sitzheizung zurück zur Unterkunft fahren.",
             "hu": "A téli autózás Faaborg fagyos szépségét mutatja be. Reggel a Holstenshuus kastélyhoz vezet az út, melynek parkja zúzmarásan ragyog. Napközben a Svanninge Bakker tiszta kilátást nyújt a havas tájra. Délután az óvárosban múzeumlátogatással melegedhet fel. Az estét a kikötőben zárhatja, mielőtt az ülésfűtést bekapcsolva visszatérne a szállására.",
             "ro": "O plimbare cu mașina iarna dezvăluie frumusețea înghețată a Faaborg-ului. Dimineața vizitați Castelul Holstenshuus, cu parcul strălucind sub brumă. La prânz, Svanninge Bakker oferă vederi largi peste peisajul de iarnă. După-amiaza, explorați centrul istoric și încălziți-vă în muzee. Încheiați seara în port înainte de a reveni la cazare.",
-            "en": "A winter car trip showcases Faaborg's frosty beauty. In the morning, visit Holstenshuus Castle, whose park glimmers in the frost. At noon, Svanninge Bakker offers wide views over the snowy landscape. In the afternoon, explore the historical center and warm up in the museums. End the evening at the harbour before heading back with the seat heating on."
+            "en": "A winter car trip showcases Faaborg's frosty beauty. In the morning, visit Holstenshuus Castle, whose park glimmers in the frost. At noon, Svanninge Bakker offers wide views over the snowy landscape. In the afternoon, explore the historical center and warm up in the museums. End the evening at the harbour before heading back with the seat heating on.",
+            "da": "En vinterbiltur viser Faaborgs frostklare skønhed. Om morgenen besøg Holstenshuus Slot, hvis park glitrer i frosten. Ved middagstid byder Svanninge Bakker på vidt udsyn over det snedækkede landskab. Om eftermiddagen udforsker du byens historiske centrum og varmer dig på museerne. Afslut aftenen ved havnen, før du kører hjem med sædevarmen tændt."
           },
           "stops": [
             {
@@ -1489,7 +1615,8 @@
                 "de": "Vorsicht bei überfrierender Nässe auf den Alleen zum Schloss.",
                 "hu": "Vigyázzon a lefagyásokra a kastélyhoz vezető fasorok alatt.",
                 "ro": "Atenție la porțiunile de gheață pe aleile spre castel.",
-                "en": "Watch out for black ice on the avenues leading to the castle."
+                "en": "Watch out for black ice on the avenues leading to the castle.",
+                "da": "Pas på sort is på alléerne, der fører til slottet."
               }
             },
             {
@@ -1498,7 +1625,8 @@
                 "de": "Tragen Sie feste Schuhe; die Wege können gefroren und uneben sein.",
                 "hu": "Viseljen stabil cipőt; az utak fagyottak és egyenetlenek lehetnek.",
                 "ro": "Purtați încălțăminte solidă; aleile pot fi înghețate și denivelate.",
-                "en": "Wear sturdy shoes; the paths can be frozen and uneven."
+                "en": "Wear sturdy shoes; the paths can be frozen and uneven.",
+                "da": "Brug robuste sko; stierne kan være frosne og ujævne."
               }
             },
             {
@@ -1507,7 +1635,8 @@
                 "de": "Die Straßen in den Hügeln werden bei Schnee oft zuletzt geräumt.",
                 "hu": "A dombok közötti utakat havazáskor gyakran utoljára takarítják.",
                 "ro": "Drumurile de deal sunt adesea curățate ultimele în caz de zăpadă.",
-                "en": "The roads in the hills are often cleared last during snowfall."
+                "en": "The roads in the hills are often cleared last during snowfall.",
+                "da": "Vejene i bakkerne ryddes ofte sidst ved snefald."
               }
             },
             {
@@ -1516,7 +1645,8 @@
                 "de": "Parkhäuser oder Tiefgaragen gibt es nicht; Parken ist im Freien.",
                 "hu": "Nincsenek parkolóházak; a parkolás szabadtéren történik.",
                 "ro": "Nu există parcări etajate; parcarea se face în aer liber.",
-                "en": "There are no parking garages; all parking is outdoors."
+                "en": "There are no parking garages; all parking is outdoors.",
+                "da": "Der er ingen parkeringshuse; al parkering foregår udendørs."
               }
             },
             {
@@ -1525,7 +1655,8 @@
                 "de": "Parken Sie am Hafen, um den glatten Gassen der Altstadt auszuweichen.",
                 "hu": "Parkoljon a kikötőben, hogy elkerülje az óváros csúszós utcáit.",
                 "ro": "Parcați în port pentru a evita străzile alunecoase din centrul vechi.",
-                "en": "Park at the harbour to avoid the most slippery streets of the old town."
+                "en": "Park at the harbour to avoid the most slippery streets of the old town.",
+                "da": "Parkér ved havnen for at undgå de mest glatte gader i den gamle by."
               }
             },
             {
@@ -1534,7 +1665,8 @@
                 "de": "Nutzen Sie die Kirche als Aufwärmstation zwischen Ihren Besichtigungen.",
                 "hu": "Használja a templomot melegedőhelyként a városnézés közben.",
                 "ro": "Folosiți biserica ca punct de încălzire între vizite.",
-                "en": "Use the church as a warming station between your sightseeing stops."
+                "en": "Use the church as a warming station between your sightseeing stops.",
+                "da": "Brug kirken som varmestue mellem dine sightseeingture."
               }
             },
             {
@@ -1543,7 +1675,8 @@
                 "de": "Heizen Sie das Auto vor, während Sie die Aussicht am Hafen genießen.",
                 "hu": "Fűtse fel előre az autót, amíg a kikötői kilátásban gyönyörködik.",
                 "ro": "Preîncălziți mașina în timp ce admirați priveliștea din port.",
-                "en": "Preheat the car while you enjoy the wintry view at the harbour."
+                "en": "Preheat the car while you enjoy the wintry view at the harbour.",
+                "da": "Forvarm bilen mens du nyder den vinterlige udsigt ved havnen."
               }
             }
           ],
@@ -1571,6 +1704,12 @@
               "Refill frost-resistant screen wash before driving into the hills.",
               "Keep the short daylight hours in mind for your schedule.",
               "Drive extra carefully in Svanninge Bakker if it's icy."
+            ],
+            "da": [
+              "Vinterdæk og isskraber er absolut nødvendigt.",
+              "Efterfyld frostbestandig sprinklervæske før du kører ud i bakkerne.",
+              "Hav de korte dagslys timer i mente, når du planlægger din tidsplan.",
+              "Kør ekstra forsigtigt i Svanninge Bakker, hvis der er isglat."
             ]
           }
         }
@@ -1589,7 +1728,8 @@
             "de": "Bus nach Svanninge Bakker",
             "hu": "Buszozás Svanninge Bakkerbe",
             "ro": "Autobuz spre Svanninge Bakker",
-            "en": "Bus to Svanninge Bakker"
+            "en": "Bus to Svanninge Bakker",
+            "da": "Bus til Svanninge Bakker"
           },
           "coords": [
             10.22,
@@ -1605,7 +1745,8 @@
             "de": "Nehmen Sie einen Regionalbus vom Busbahnhof Faaborg. Genießen Sie die Aussicht auf dem Weg.",
             "hu": "Szálljon fel egy regionális buszra a faaborgi buszpályaudvaron. Élvezze a kilátást útközben.",
             "ro": "Luați un autobuz regional de la autogara din Faaborg. Bucurați-vă de priveliști pe drum.",
-            "en": "Take a regional bus from Faaborg bus station. Enjoy the views on the way."
+            "en": "Take a regional bus from Faaborg bus station. Enjoy the views on the way.",
+            "da": "Tag regionalbus fra Faaborg busterminal. Nyd udsigterne på vejen."
           }
         },
         {
@@ -1613,7 +1754,8 @@
             "de": "Wanderung in den Hügeln",
             "hu": "Túra a dombokon",
             "ro": "Drumeție pe dealuri",
-            "en": "Hike in the Hills"
+            "en": "Hike in the Hills",
+            "da": "Vandring i bakkerne"
           },
           "coords": [
             10.222,
@@ -1629,7 +1771,8 @@
             "de": "Folgen Sie einem der markierten Wege zu einem Aussichtspunkt.",
             "hu": "Kövesse az egyik jelzett ösvényt egy kilátóponthoz.",
             "ro": "Urmați una dintre potecile marcate până la un punct de belvedere.",
-            "en": "Follow one of the marked trails to a viewpoint."
+            "en": "Follow one of the marked trails to a viewpoint.",
+            "da": "Følg en af de afmærkede ruter til en udsigtsskrænt."
           }
         },
         {
@@ -1637,7 +1780,8 @@
             "de": "Bus zurück nach Faaborg Zentrum",
             "hu": "Busz vissza Faaborg központjába",
             "ro": "Autobuz înapoi în centrul Faaborg",
-            "en": "Bus back to Faaborg Centre"
+            "en": "Bus back to Faaborg Centre",
+            "da": "Bus tilbage til Faaborg Centrum"
           },
           "coords": [
             10.24,
@@ -1653,7 +1797,8 @@
             "de": "Steigen Sie in der Nähe des Hafens aus, um Ihr Stadtabenteuer zu beginnen.",
             "hu": "Szálljon le a kikötő közelében, hogy megkezdje városi kalandját.",
             "ro": "Coborâți lângă port pentru a începe aventura urbană.",
-            "en": "Get off near the harbour to start your town adventure."
+            "en": "Get off near the harbour to start your town adventure.",
+            "da": "Stå af ved havnen for at begynde din byoplevelse."
           }
         },
         {
@@ -1661,7 +1806,8 @@
             "de": "Spaziergang: Altstadt & Glockenturm",
             "hu": "Séta: Óváros és Harangtorony",
             "ro": "Plimbare: Orașul Vechi și Turnul cu Clopote",
-            "en": "Walk: Old Town & Clock Tower"
+            "en": "Walk: Old Town & Clock Tower",
+            "da": "Gåtur: Den gamle by & Klokketårnet"
           },
           "coords": [
             10.243,
@@ -1677,7 +1823,8 @@
             "de": "Erkunden Sie die Gegend um den Glockenturm und essen Sie in einem lokalen Café zu Mittag.",
             "hu": "Fedezze fel a Harangtorony környékét, és ebédeljen egy helyi kávézóban.",
             "ro": "Explorați zona din jurul Turnului cu Clopote și luați prânzul la o cafenea locală.",
-            "en": "Explore the area around the Clock Tower and have lunch at a local cafe."
+            "en": "Explore the area around the Clock Tower and have lunch at a local cafe.",
+            "da": "Udforsk området omkring Klokketårnet og spis frokost på en lokal café."
           }
         },
         {
@@ -1685,7 +1832,8 @@
             "de": "Spaziergang zum Faaborg Museum",
             "hu": "Séta a Faaborg Múzeumhoz",
             "ro": "Plimbare la Muzeul Faaborg",
-            "en": "Walk to Faaborg Museum"
+            "en": "Walk to Faaborg Museum",
+            "da": "Gå til Faaborg Museum"
           },
           "coords": [
             10.247,
@@ -1701,7 +1849,8 @@
             "de": "Ein kultureller Leckerbissen am Nachmittag, um die Kunst der Region zu bewundern.",
             "hu": "Délutáni kulturális csemege a régió művészetének megcsodálására.",
             "ro": "Un deliciu cultural de după-amiază pentru a admira arta regiunii.",
-            "en": "An afternoon cultural treat to admire the region's art."
+            "en": "An afternoon cultural treat to admire the region's art.",
+            "da": "En kulturel eftermiddagsoplevelse for at beundre områdets kunst."
           }
         },
         {
@@ -1709,7 +1858,8 @@
             "de": "Spaziergang zum Faaborg Havnebad",
             "hu": "Séta a Faaborg Tengeri Fürdőhöz",
             "ro": "Plimbare la Baia Portuară Faaborg",
-            "en": "Walk to Faaborg Harbour Bath"
+            "en": "Walk to Faaborg Harbour Bath",
+            "da": "Gå til Faaborg Havnebad"
           },
           "coords": [
             10.252,
@@ -1725,7 +1875,8 @@
             "de": "Beenden Sie den Tag entspannt am Wasser.",
             "hu": "Zárja a napot pihenéssel a vízparton.",
             "ro": "Încheiați ziua relaxându-vă la malul apei.",
-            "en": "End the day relaxing by the water."
+            "en": "End the day relaxing by the water.",
+            "da": "Afslut dagen med afslapning ved vandet."
           }
         }
       ],
@@ -1733,7 +1884,8 @@
         "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt mit einem Abenteuer, einer Busfahrt zu den sanften Hügeln von Svanninge Bakker für einen Hauch von Natur und einen Panoramablick. Der Vormittag ist dem Wandern und der Landschaft gewidmet. Zur Mittagszeit kehren Sie mit dem Bus ins Herz von Faaborg zurück. Den ganzen Nachmittag verbringen Sie damit, die kompakte, begehbare Innenstadt zu erkunden, vom historischen Glockenturm bis zu den künstlerischen Hallen des Faaborg Museums. Der Tag klingt sanft am preisgekrönten Hafenbad aus, ein Beweis dafür, wie einfach es ist, Natur und Kultur in Faaborg mit öffentlichen Verkehrsmitteln zu verbinden.",
         "hu": "Tömegközlekedési napja egy kalanddal kezdődik: buszozással a Svanninge Bakker lankás dombjaihoz egy kis természetért és panorámáért. A délelőtt a túrázásé és a táj élvezetéé. Ebédidőre busszal tér vissza Faaborg szívébe. Az egész délutánt a kompakt, sétálható belváros felfedezésével tölti, a történelmi Harangtoronytól a Faaborg Múzeum művészeti csarnokaiig. A nap gyengéden zárul a díjnyertes tengeri fürdőnél, bizonyítva, milyen könnyű összekapcsolni a természetet és a kultúrát Faaborgban tömegközlekedéssel.",
         "ro": "Ziua dvs. cu transportul public începe cu o aventură, o călătorie cu autobuzul spre dealurile domoale din Svanninge Bakker pentru o gură de natură și priveliști panoramice. Dimineața este dedicată drumețiilor și peisajului. La prânz, vă întoarceți cu autobuzul în inima orașului Faaborg. Întreaga după-amiază este petrecută explorând centrul compact și pietonal, de la istoricul Turn cu Clopote la sălile artistice ale Muzeului Faaborg. Ziua se încheie lin la premiata baie portuară, o dovadă a cât de ușor este să combini natura și cultura în Faaborg folosind transportul public.",
-        "en": "Your public transport day starts with an adventure, a bus ride to the rolling hills of Svanninge Bakker for a dose of nature and panoramic views. The morning is for hiking and scenery. By midday, you're back in the heart of Faaborg by bus. The entire afternoon is spent exploring the compact, walkable town centre, from the historic Clock Tower to the artistic halls of Faaborg Museum. The day gently concludes at the award-winning harbour bath, a testament to how easily you can blend nature and culture in Faaborg using public transit."
+        "en": "Your public transport day starts with an adventure, a bus ride to the rolling hills of Svanninge Bakker for a dose of nature and panoramic views. The morning is for hiking and scenery. By midday, you're back in the heart of Faaborg by bus. The entire afternoon is spent exploring the compact, walkable town centre, from the historic Clock Tower to the artistic halls of Faaborg Museum. The day gently concludes at the award-winning harbour bath, a testament to how easily you can blend nature and culture in Faaborg using public transit.",
+        "da": "Din dag med offentlig transport starter med et eventyr: en bustur til de bølgende bakker i Svanninge Bakker for et skud natur og panoramisk udsigt. Morgenstunden er til vandring og landskab. Ved middagstid er du tilbage i Faaborgs centrum med bussen. Hele eftermiddagen bruges på at udforske den kompakte, gåvenlige bymidte, fra det historiske Klokketårn til de kunstneriske sale i Faaborg Museum. Dagen afsluttes roligt ved det prisvindende havnebad, et eksempel på, hvor let du kan kombinere natur og kultur i Faaborg med kollektiv transport."
       },
       "gastro_picks": {
         "de": [
@@ -1877,6 +2029,12 @@
           "Buy a day pass if you plan on taking multiple bus trips.",
           "Download schedules for offline access as reception can be patchy.",
           "Be at the bus stop on time, especially for the return trip from rural areas."
+        ],
+        "da": [
+          "Tjek busplanen i forvejen, da landbusser kan køre sjældent.",
+          "Køb en dagsbillet, hvis du planlægger flere busture.",
+          "Download køreplaner til offline brug, da dækningen kan være svingende.",
+          "Vær ved busstoppestedet til tiden, især for returbusser fra landområder."
         ]
       },
       "variants": {
@@ -1885,7 +2043,8 @@
             "de": "Mit dem Bus erkunden Sie Faaborg und Umgebung bequem im Trockenen. Morgens fahren Sie nach Svanninge Bakker, wo Sie die Aussicht bei Regen genießen. Mittags bringt Sie der Bus zurück ins Zentrum zu den Museen. Den Nachmittag verbringen Sie im Faaborg Museum oder der Kirche, geschützt vor den Schauern. Abends schlendern Sie kurz am Hafen entlang, bevor der Bus Sie zurückbringt.",
             "hu": "Busszal kényelmesen, szárazon fedezheti fel Faaborgot és környékét. Reggel utazzon ki Svanninge Bakkerbe, és élvezze az esős táj látványát. Délben a busz visszaviszi a központba, egyenesen a múzeumokhoz. A délutánt a Faaborg Múzeumban vagy a templomban töltheti az eső elől védve. Este tegyen egy rövid sétát a kikötőben a visszaindulás előtt.",
             "ro": "Cu autobuzul, explorați Faaborg și împrejurimile stând la adăpost. Dimineața mergeți la Svanninge Bakker pentru a vedea peisajul prin ploaie. La prânz, autobuzul vă readuce în centru, aproape de muzee. Petreceți după-amiaza la Faaborg Museum sau la biserică, ferit de averse. Seara, o scurtă plimbare în port completează ziua.",
-            "en": "By bus, you can explore Faaborg and its surroundings comfortably in the dry. In the morning, take the bus to Svanninge Bakker to enjoy the rainy landscape. At noon, the bus brings you back to the center, right to the museums. Spend the afternoon in Faaborg Museum or the church, protected from showers. End the day with a short harbour walk."
+            "en": "By bus, you can explore Faaborg and its surroundings comfortably in the dry. In the morning, take the bus to Svanninge Bakker to enjoy the rainy landscape. At noon, the bus brings you back to the center, right to the museums. Spend the afternoon in Faaborg Museum or the church, protected from showers. End the day with a short harbour walk.",
+            "da": "Med bus kan du udforske Faaborg og omegn komfortabelt i tørvejr. Om morgenen tag bussen til Svanninge Bakker for at nyde det regnvåde landskab. Ved middagstid bringer bussen dig tilbage til centrum, direkte til museerne. Tilbring eftermiddagen på Faaborg Museum eller i kirken, beskyttet mod byger. Afslut dagen med en kort havnegåtur."
           },
           "stops": [
             {
@@ -1894,7 +2053,8 @@
                 "de": "Nutzen Sie die Wartehäuschen an den Haltestellen als Regenschutz.",
                 "hu": "Használja a megállók váróit eső elleni védelemként.",
                 "ro": "Folosiți adăposturile din stații ca protecție împotriva ploii.",
-                "en": "Use the bus stop shelters as protection against the rain."
+                "en": "Use the bus stop shelters as protection against the rain.",
+                "da": "Brug busstoppestedernes ly for at søge læ for regnen."
               }
             },
             {
@@ -1903,7 +2063,8 @@
                 "de": "Nur bei leichtem Regen empfehlenswert; die Pfade können matschig sein.",
                 "hu": "Csak gyenge esőben ajánlott; az ösvények sárosak lehetnek.",
                 "ro": "Recomandat doar pe ploaie ușoară; potecile pot deveni noroioase.",
-                "en": "Recommended only in light rain; the paths can get very muddy."
+                "en": "Recommended only in light rain; the paths can get very muddy.",
+                "da": "Anbefales kun i let regn; stierne kan blive meget mudrede."
               }
             },
             {
@@ -1912,7 +2073,8 @@
                 "de": "Prüfen Sie den Fahrplan per App, um langes Warten im Regen zu vermeiden.",
                 "hu": "Ellenőrizze a menetrendet applikáción, hogy ne kelljen sokat várnia az esőben.",
                 "ro": "Verificați orarul pe aplicație pentru a nu aștepta mult în ploaie.",
-                "en": "Check the schedule via app to avoid waiting too long in the rain."
+                "en": "Check the schedule via app to avoid waiting too long in the rain.",
+                "da": "Tjek køreplanen via app for at undgå for lang ventetid i regnen."
               }
             },
             {
@@ -1921,7 +2083,8 @@
                 "de": "Die Wege zwischen den Stopps sind kurz und gut zu Fuß machbar.",
                 "hu": "A megállók közötti utak rövidek és gyalog is könnyen teljesíthetők.",
                 "ro": "Distanțele dintre puncte sunt mici și ușor de parcurs pe jos.",
-                "en": "The distances between stops are short and easy to manage on foot."
+                "en": "The distances between stops are short and easy to manage on foot.",
+                "da": "Afstandene mellem stoppesteder er korte og lette at gå."
               }
             },
             {
@@ -1930,7 +2093,8 @@
                 "de": "Ein Muss bei Regen; der Eintritt lohnt sich für stundenlangen Schutz.",
                 "hu": "Esőben kötelező; a belépő megéri a többórás fedett programot.",
                 "ro": "Obligatoriu pe ploaie; biletul merită pentru orele petrecute la adăpost.",
-                "en": "A must in the rain; the entry is worth it for hours of indoor culture."
+                "en": "A must in the rain; the entry is worth it for hours of indoor culture.",
+                "da": "Et must i regnvejr; entréen er det værd for timers indendørs kultur."
               }
             },
             {
@@ -1939,7 +2103,8 @@
                 "de": "Der Hafenbus hält oft direkt in der Nähe der Badeanstalt.",
                 "hu": "A kikötői busz gyakran közvetlenül a fürdő közelében áll meg.",
                 "ro": "Autobuzul spre port oprește adesea chiar lângă baia publică.",
-                "en": "The harbour bus often stops directly near the bath facilities."
+                "en": "The harbour bus often stops directly near the bath facilities.",
+                "da": "Havnebussen stopper ofte direkte ved badets faciliteter."
               }
             }
           ],
@@ -1967,6 +2132,12 @@
               "Have small change or a payment card ready for the bus fare.",
               "Buses are well-heated and provide a dry break from the weather.",
               "Note the reduced bus frequency on rainy weekends."
+            ],
+            "da": [
+              "Download 'Rejseplanen'-appen for opdateret businformation i realtid.",
+              "Hav småpenge eller betalingskort klar til busbilletten.",
+              "Busserne er godt opvarmede og giver et tørt pusterum fra vejret.",
+              "Bemærk den reducerede busfrekvens på regnfulde weekender."
             ]
           }
         },
@@ -1975,7 +2146,8 @@
             "de": "Der Bus ist die wärmste Art, Faaborg im Winter zu erleben. Morgens geht es bequem nach Svanninge Bakker für einen Blick auf die frostige Landschaft. Mittags bringt Sie der Bus zurück ins gemütliche Stadtzentrum. Nachmittags verbringen Sie viel Zeit im Faaborg Museum, dem perfekten Ort zum Aufwärmen. Den Tag schließen Sie mit einem kurzen Spaziergang am Hafen ab, bevor Sie den Bus zurück nehmen.",
             "hu": "A busz a legmelegebb módja Faaborg téli felfedezésének. Reggel kényelmesen utazhat Svanninge Bakkerbe a fagyos táj látványáért. Napközben a busz visszaviszi a barátságos városközpontba. Délután töltsön több időt a Faaborg Múzeumban, amely tökéletes hely a felmelegedésre. A napot egy rövid kikötői sétával zárhatja a visszaindulás előtt.",
             "ro": "Autobuzul este cea mai călduroasă modalitate de a vedea Faaborg iarna. Dimineața mergeți confortabil la Svanninge Bakker pentru peisajul înghețat. În timpul zilei, autobuzul vă aduce înapoi în centrul primitor. După-amiaza, vizitați Faaborg Museum, locul perfect pentru încălzire. Încheiați ziua cu o scurtă plimbare în port înainte de plecare.",
-            "en": "The bus is the warmest way to experience Faaborg in winter. In the morning, ride comfortably to Svanninge Bakker for views of the frosty landscape. During the day, the bus takes you back to the cozy town center. Spend the afternoon in Faaborg Museum, the perfect place to warm up. End the day with a short walk at the harbour before heading back."
+            "en": "The bus is the warmest way to experience Faaborg in winter. In the morning, ride comfortably to Svanninge Bakker for views of the frosty landscape. During the day, the bus takes you back to the cozy town center. Spend the afternoon in Faaborg Museum, the perfect place to warm up. End the day with a short walk at the harbour before heading back.",
+            "da": "Bussen er den varmeste måde at opleve Faaborg på om vinteren. Om morgenen kør komfortabelt til Svanninge Bakker for udsigt over frostlandskabet. I løbet af dagen bringer bussen dig tilbage til den hyggelige bymidte. Tilbring eftermiddagen på Faaborg Museum, det perfekte sted at varme sig. Afslut dagen med en kort gåtur ved havnen, før du tager hjem."
           },
           "stops": [
             {
@@ -1984,7 +2156,8 @@
                 "de": "Die Busse sind im Winter zuverlässig und sehr gut beheizt.",
                 "hu": "A buszok télen megbízhatóak és nagyon jól fűtöttek.",
                 "ro": "Autobuzele sunt de încredere iarna și foarte bine încălzite.",
-                "en": "The buses are reliable in winter and very well heated."
+                "en": "The buses are reliable in winter and very well heated.",
+                "da": "Busserne er pålidelige om vinteren og meget velopvarmede."
               }
             },
             {
@@ -1993,7 +2166,8 @@
                 "de": "Verkürzen Sie die Wanderung bei extremer Kälte und nutzen Sie das Buscafé.",
                 "hu": "Extrém hidegben rövidítse le a túrát, és látogassa meg a buszváró közeli büfét.",
                 "ro": "Scurtați drumeția dacă e foarte frig și folosiți cafeneaua de lângă stație.",
-                "en": "Shorten the hike in extreme cold and use the nearby cafes to stay warm."
+                "en": "Shorten the hike in extreme cold and use the nearby cafes to stay warm.",
+                "da": "Forkort vandreturen i ekstrem kulde og brug de nærliggende caféer til at holde varmen."
               }
             },
             {
@@ -2002,7 +2176,8 @@
                 "de": "Warten Sie im Gebäude der Tourist-Info auf den Anschlussbus.",
                 "hu": "Várjon a Tourinform iroda épületében a csatlakozó buszra.",
                 "ro": "Așteptați autobuzul în interiorul centrului de informare turistică.",
-                "en": "Wait inside the tourist information building for your connecting bus."
+                "en": "Wait inside the tourist information building for your connecting bus.",
+                "da": "Vent inde i turistinformationen på din forbindelse."
               }
             },
             {
@@ -2011,7 +2186,8 @@
                 "de": "Gehen Sie zügig, um den Körper zwischen den warmen Bussen warm zu halten.",
                 "hu": "Sétáljon tempósan, hogy testhőmérsékletét megőrizze a buszok között.",
                 "ro": "Mergeți vioi pentru a vă menține căldura între călătoriile cu autobuzul.",
-                "en": "Walk briskly to keep your body temperature up between bus rides."
+                "en": "Walk briskly to keep your body temperature up between bus rides.",
+                "da": "Gå hurtigt for at holde kropstemperaturen mellem busturene."
               }
             },
             {
@@ -2020,7 +2196,8 @@
                 "de": "Die Garderobe hier ist ideal, um schwere Wintermäntel kurzzeitig abzulegen.",
                 "hu": "Az itteni ruhatár ideális a nehéz télikabátok rövid letételére.",
                 "ro": "Garderoba de aici este ideală pentru a lăsa haina grea de iarnă.",
-                "en": "The cloakroom here is ideal for leaving heavy winter coats for a while."
+                "en": "The cloakroom here is ideal for leaving heavy winter coats for a while.",
+                "da": "Garderoben her er ideel til at efterlade tunge vinterfrakker et stykke tid."
               }
             },
             {
@@ -2029,7 +2206,8 @@
                 "de": "Nutzen Sie den Bus, um die zugige Hafenmole schnell zu verlassen.",
                 "hu": "Használja a buszt, hogy gyorsan elhagyja a huzatos kikötői gátat.",
                 "ro": "Folosiți autobuzul pentru a părăsi rapid zona vântoasă a portului.",
-                "en": "Use the bus to quickly leave the draughty harbour pier."
+                "en": "Use the bus to quickly leave the draughty harbour pier.",
+                "da": "Brug bussen til hurtigt at komme væk fra den trækfulde havnebro."
               }
             }
           ],
@@ -2057,6 +2235,12 @@
               "Use the waiting time at stops to grab a hot drink to go.",
               "Buses are a great option to minimize walking on icy cobblestones.",
               "Keep the Rejseplanen app ready for any winter-related delays."
+            ],
+            "da": [
+              "Busskemaer kan være begrænsede i vinterens helligdage.",
+              "Brug ventetiden ved stoppestederne til at hente en varm drik to go.",
+              "Busser er et godt valg for at minimere gang på isede brosten.",
+              "Hav Rejseplanen-appen klar til eventuelle vinterrelaterede forsinkelser."
             ]
           }
         }

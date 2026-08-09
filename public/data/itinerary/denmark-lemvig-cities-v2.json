@@ -21,7 +21,8 @@
             "de": "Kirche von Lemvig",
             "hu": "Lemvigi templom",
             "ro": "Biserica din Lemvig",
-            "en": "Lemvig Church"
+            "en": "Lemvig Church",
+            "da": "Lemvig Kirke"
           },
           "coords": [
             8.309,
@@ -36,7 +37,8 @@
             "de": "Achten Sie auf das detailreiche Votivschiff, das von der Decke hängt.",
             "hu": "Figyeld meg a mennyezetről lógó, részletesen kidolgozott fogadalmi hajómodellt.",
             "ro": "Observați nava votivă detaliată care atârnă de tavan.",
-            "en": "Look for the detailed votive ship hanging from the ceiling."
+            "en": "Look for the detailed votive ship hanging from the ceiling.",
+            "da": "Se efter den detaljerede votivskib, der hænger fra loftet."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Lemvig Museum",
             "hu": "Lemvig Múzeum",
             "ro": "Muzeul Lemvig",
-            "en": "Lemvig Museum"
+            "en": "Lemvig Museum",
+            "da": "Lemvig Museum"
           },
           "coords": [
             8.311,
@@ -59,7 +62,8 @@
             "de": "Die Ausstellung über den Dichter Thøger Larsen ist besonders aufschlussreich.",
             "hu": "A Thøger Larsen költőről szóló kiállítás különösen informatív.",
             "ro": "Expoziția despre poetul Thøger Larsen este deosebit de edificatoare.",
-            "en": "The exhibition on the poet Thøger Larsen is particularly insightful."
+            "en": "The exhibition on the poet Thøger Larsen is particularly insightful.",
+            "da": "Udstillingen om digteren Thøger Larsen er særligt indsigtsfuld."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Skulpturstien",
             "hu": "Szoborösvény",
             "ro": "Potecă cu sculpturi",
-            "en": "The Sculpture Path"
+            "en": "The Sculpture Path",
+            "da": "Skulpturstien"
           },
           "coords": [
             8.312,
@@ -82,7 +87,8 @@
             "de": "Ein entspannter Spaziergang, der Kunst und die Natur des Fjords verbindet.",
             "hu": "Egy pihentető séta, amely összeköti a művészetet a fjord természetével.",
             "ro": "O plimbare relaxantă care combină arta cu natura fiordului.",
-            "en": "A relaxing walk combining art with the nature of the fjord."
+            "en": "A relaxing walk combining art with the nature of the fjord.",
+            "da": "En afslappende gåtur, der kombinerer kunst med fjordens natur."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Mittagessen am Hafen",
             "hu": "Ebédszünet a kikötőben",
             "ro": "Pauză de prânz în port",
-            "en": "Lunch Break at the Harbour"
+            "en": "Lunch Break at the Harbour",
+            "da": "Frokostpause ved havnen"
           },
           "coords": [
             8.314,
@@ -105,7 +112,8 @@
             "de": "Probieren Sie frischen Fisch in einem der Restaurants mit Blick auf die Boote.",
             "hu": "Kóstolj friss halat az egyik étteremben, kilátással a hajókra.",
             "ro": "Încercați pește proaspăt la unul dintre restaurantele cu vedere la bărci.",
-            "en": "Try some fresh fish at one of the restaurants overlooking the boats."
+            "en": "Try some fresh fish at one of the restaurants overlooking the boats.",
+            "da": "Prøv frisk fisk på en af restauranterne med udsigt til bådene."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Museet for Religiøs Kunst",
             "hu": "Egyházművészeti Múzeum",
             "ro": "Muzeul de Artă Religioasă",
-            "en": "Museum of Religious Art"
+            "en": "Museum of Religious Art",
+            "da": "Museum for Religiøs Kunst"
           },
           "coords": [
             8.315,
@@ -128,7 +137,8 @@
             "de": "Die moderne Architektur des Museums ist genauso beeindruckend wie die Kunst darin.",
             "hu": "A múzeum modern építészete ugyanolyan lenyűgöző, mint a benne lévő műalkotások.",
             "ro": "Arhitectura modernă a muzeului este la fel de impresionantă ca și arta din interior.",
-            "en": "The museum's modern architecture is as impressive as the art inside."
+            "en": "The museum's modern architecture is as impressive as the art inside.",
+            "da": "Museets moderne arkitektur er lige så imponerende som kunsten indeni."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Planetstien (Start)",
             "hu": "Bolygóösvény (Kezdete)",
             "ro": "Poteca Planetelor (Început)",
-            "en": "The Planet Path (Start)"
+            "en": "The Planet Path (Start)",
+            "da": "Planetstien (Start)"
           },
           "coords": [
             8.286,
@@ -151,7 +162,8 @@
             "de": "Gehen Sie bis zum Merkur und genießen Sie die Aussicht zurück auf die Stadt.",
             "hu": "Sétálj el a Merkúrig, és élvezd a városra nyíló kilátást.",
             "ro": "Mergeți până la planeta Mercur și bucurați-vă de priveliștea spre oraș.",
-            "en": "Walk as far as Mercury and enjoy the view back towards the town."
+            "en": "Walk as far as Mercury and enjoy the view back towards the town.",
+            "da": "Gå så langt som Merkur og nyd udsigten tilbage mod byen."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie Ihren Tag im historischen Herzen von Lemvig mit einem Besuch der alten Kirche und des Stadtmuseums. Spüren Sie die Geschichte, während Sie durch die charmanten Straßen schlendern. Der Mittag bringt Sie zum lebhaften Hafen, wo frische Meeresfrüchte und der Blick auf den Fjord auf Sie warten. Es ist der perfekte Ort, um neue Energie zu tanken. Am Nachmittag tauchen Sie in die Kunst ein, sowohl in der modernen Galerie für religiöse Kunst als auch unter freiem Himmel auf dem Skulpturen- und Planetenpfad. Der Abend dämmert mit einem ruhigen Spaziergang am Wasser, bei dem Sie die friedliche dänische Küstenatmosphäre in sich aufnehmen und über die Entdeckungen des Tages nachdenken können.",
         "hu": "Kezdje a napot Lemvig történelmi szívében, látogasson el a régi templomba és a városi múzeumba. Érezze a történelem lüktetését a bájos utcákon sétálva. A dél a nyüzsgő kikötőbe vezeti, ahol friss tengeri ételek és a fjordra nyíló kilátás várja. Tökéletes hely a feltöltődésre. Délután merüljön el a művészetben az Egyházművészeti Múzeum modern galériájában és a szabadban, a Szobor- és Bolygóösvényen. Az este egy csendes vízparti sétával köszönt be, ahol magába szívhatja a békés dán tengerparti hangulatot, és elmerenghet a nap felfedezésein.",
         "ro": "Începeți ziua în inima istorică a orașului Lemvig cu o vizită la biserica veche și la muzeul orașului. Simțiți istoria în timp ce vă plimbați pe străzile fermecătoare. Amiaza vă aduce în portul plin de viață, unde vă așteaptă fructe de mare proaspete și priveliștea fiordului. Este locul perfect pentru a vă reîncărca bateriile. După-amiaza, scufundați-vă în artă, atât la galeria modernă de artă religioasă, cât și în aer liber, pe Poteca Sculpturilor și Poteca Planetelor. Seara se lasă cu o plimbare liniștită pe malul apei, absorbind atmosfera pașnică a coastei daneze și reflectând asupra descoperirilor zilei.",
-        "en": "Start your day in the historic heart of Lemvig with a visit to the old church and the town museum. Feel the history as you wander the charming streets. Midday brings you to the lively harbour, where fresh seafood and fjord views await. It's the perfect spot to recharge. In the afternoon, immerse yourself in art, both at the modern Museum of Religious Art and outdoors on the Sculpture and Planet Paths. The evening descends with a quiet walk along the waterfront, soaking in the peaceful Danish coastal atmosphere and reflecting on the day's discoveries."
+        "en": "Start your day in the historic heart of Lemvig with a visit to the old church and the town museum. Feel the history as you wander the charming streets. Midday brings you to the lively harbour, where fresh seafood and fjord views await. It's the perfect spot to recharge. In the afternoon, immerse yourself in art, both at the modern Museum of Religious Art and outdoors on the Sculpture and Planet Paths. The evening descends with a quiet walk along the waterfront, soaking in the peaceful Danish coastal atmosphere and reflecting on the day's discoveries.",
+        "da": "Start din dag i Lemvigs historiske hjerte med et besøg i den gamle kirke og bymuseet. Føl historien, mens du vandrer de charmerende gader. Midt på dagen fører det til den livlige havn, hvor frisk fisk og fjordudsigter venter — det perfekte sted at lade op. Om eftermiddagen fordyber du dig i kunst, både på det moderne Museum for Religiøs Kunst og udendørs på Skulptur- og Planetstierne. Aftenen falder på med en rolig gåtur langs vandet, hvor du suger den fredelige danske kyststemning til dig og reflekterer over dagens opdagelser."
       },
       "gastro_picks": {
         "de": [
@@ -355,6 +368,12 @@
           "The weather can change quickly, a windproof jacket is always a good idea.",
           "Most shops close early, so plan any shopping for the afternoon.",
           "Check museum opening hours as they can vary seasonally."
+        ],
+        "da": [
+          "Brug behagelige sko, da bymidten er kuperet.",
+          "Vejret kan skifte hurtigt; en vindtæt jakke er altid en god idé.",
+          "De fleste butikker lukker tidligt, så planlæg indkøb til eftermiddagen.",
+          "Tjek museernes åbningstider, da de kan variere sæsonmæssigt."
         ]
       },
       "variants": {
@@ -363,7 +382,8 @@
             "de": "Morgens besuchen wir die Kirche von Lemvig, die bei Regen eine besonders andächtige Atmosphäre bietet. Danach verbringen wir die Mittagszeit im Stadtmuseum, wo wir trocken die Lokalgeschichte erkunden können. Am Nachmittag schlendern wir unter dem Schutz der Hafengebäude zum Kunstmuseum. Der Abend klingt gemütlich in einem Restaurant am Hafen aus, während der Regen gegen die Scheiben prasselt.",
             "hu": "Reggel a Lemvig-templom belső terében kezdünk, ami tökéletes menedék az eső elől. Délben a városi múzeumban merülünk el a történelemben, teljesen szárazon. Délután a kikötő mentén, esernyővel sétálunk a Vallásművészeti Múzeumba, élvezve a borongós tengerparti hangulatot. Az estét egy meleg kikötői étteremben zárjuk, nézve a vízen táncoló esőcseppeket.",
             "ro": "Dimineața vizităm Biserica Lemvig, oferind un refugiu liniștit împotriva ploii. La prânz, explorăm istoria locală la muzeul orașului, rămânând la adăpost. După-amiaza, ne plimbăm cu umbrela spre Muzeul de Artă Religioasă, admirând portul în culori pastelate de ploaie. Seara se încheie confortabil într-un restaurant din port, ascultând sunetul ploii pe acoperiș.",
-            "en": "Morning starts at Lemvig Church, providing a peaceful indoor sanctuary from the rain. At noon, we explore local history at the museum, staying completely dry. Afternoon involves an umbrella walk along the harbor to the Museum of Religious Art. The evening concludes cozily in a harbor restaurant, watching the raindrops dance on the Limfjord water."
+            "en": "Morning starts at Lemvig Church, providing a peaceful indoor sanctuary from the rain. At noon, we explore local history at the museum, staying completely dry. Afternoon involves an umbrella walk along the harbor to the Museum of Religious Art. The evening concludes cozily in a harbor restaurant, watching the raindrops dance on the Limfjord water.",
+            "da": "Morgenen starter ved Lemvig Kirke, som giver et fredeligt, tørt tilflugtssted fra regnen. Ved middagstid udforsker vi lokalhistorien på museet og holder os helt tørre. Om eftermiddagen går vi med paraply langs havnen til Museet for Religiøs Kunst. Aftenen afsluttes hyggeligt på en havnerestaurant, mens vi ser regndråberne danse på Limfjordens vand."
           },
           "stops": [
             {
@@ -372,7 +392,8 @@
                 "de": "Bewundern Sie die Rokoko-Kanzel, während es draußen regnet.",
                 "hu": "Csodálja meg a rokokó szószéket, amíg kint esik az eső.",
                 "ro": "Admirați amvonul rococo în timp ce afară plouă.",
-                "en": "Admire the rococo pulpit while seeking shelter from the rain."
+                "en": "Admire the rococo pulpit while seeking shelter from the rain.",
+                "da": "Beundr det rokoko-prædikestol, mens du søger ly for regnen."
               }
             },
             {
@@ -381,7 +402,8 @@
                 "de": "Ideal für regnerische Stunden mit vielen Indoor-Exponaten.",
                 "hu": "Ideális esős órákra a sok beltéri kiállítási tárggyal.",
                 "ro": "Ideal pentru orele ploioase, cu multe exponate interioare.",
-                "en": "Perfect for rainy hours with plenty of indoor exhibits."
+                "en": "Perfect for rainy hours with plenty of indoor exhibits.",
+                "da": "Perfekt til regnfulde timer med masser af indendørs udstillinger."
               }
             },
             {
@@ -390,7 +412,8 @@
                 "de": "Gute Schuhe sind wichtig, da die Wege rutschig sein können.",
                 "hu": "A jó cipő fontos, mivel az utak csúszósak lehetnek.",
                 "ro": "Încălțămintea bună este esențială, deoarece potecile pot fi alunecoase.",
-                "en": "Good shoes are essential as paths can be slippery when wet."
+                "en": "Good shoes are essential as paths can be slippery when wet.",
+                "da": "Gode sko er essentielle, da stier kan være glatte, når de er våde."
               }
             },
             {
@@ -399,7 +422,8 @@
                 "de": "Wählen Sie einen Platz am Fenster für den Blick auf den Fjord.",
                 "hu": "Válasszon ablak melletti asztalt a fjordra nyíló kilátáshoz.",
                 "ro": "Alegeți o masă la fereastră pentru vederea spre fjord.",
-                "en": "Pick a window seat for a great view of the rainy fjord."
+                "en": "Pick a window seat for a great view of the rainy fjord.",
+                "da": "Vælg et vinduesplads for en flot udsigt over den regnfulde fjord."
               }
             },
             {
@@ -408,7 +432,8 @@
                 "de": "Nutzen Sie die Garderobe für Ihre nassen Regenjacken.",
                 "hu": "Használja a ruhatárat a nedves esőkabátok számára.",
                 "ro": "Folosiți garderoba pentru jachetele de ploaie ude.",
-                "en": "Use the cloakroom to dry off your wet raincoats."
+                "en": "Use the cloakroom to dry off your wet raincoats.",
+                "da": "Brug garderoben til at tørre dine våde regnjakker af."
               }
             },
             {
@@ -417,7 +442,8 @@
                 "de": "Ein kurzer Spaziergang reicht bei starkem Regen völlig aus.",
                 "hu": "Erős esőben egy rövid séta is bőven elegendő itt.",
                 "ro": "O plimbare scurtă este suficientă dacă plouă torențial.",
-                "en": "A short walk is enough if the rain is heavy."
+                "en": "A short walk is enough if the rain is heavy.",
+                "da": "En kort gåtur er nok, hvis regnen er kraftig."
               }
             }
           ],
@@ -445,6 +471,12 @@
               "Pedestrian zone shops provide good shelter from bursts.",
               "The museums are your best bet during heavy downpours.",
               "A sturdy umbrella is recommended due to coastal winds."
+            ],
+            "da": [
+              "Bær vandtætte vandrestøvler til havnepromenaden.",
+              "Gågadesbutikker giver godt læ mod regnbyger.",
+              "Museerne er dit bedste valg under kraftige byger.",
+              "En solid paraply anbefales på grund af kystvinden."
             ]
           }
         },
@@ -453,7 +485,8 @@
             "de": "Der Wintermorgen in Lemvig beginnt in der beheizten Kirche. Mittags wärmen wir uns im Lemvig Museum bei den Geschichten über die Westküste auf. Da es früh dunkel wird, besuchen wir das Kunstmuseum am frühen Nachmittag, um das Tageslicht zu nutzen. Den Abend verbringen wir bei dänischer 'Hygge' und warmen Getränken in einem Café am Hafen.",
             "hu": "A téli reggel Lemvigben a fűtött templomban kezdődik. Délben a városi múzeumban melegszünk fel a nyugati part történeteit hallgatva. Mivel korán sötétedik, a Vallásművészeti Múzeumot kora délután látogatjuk meg, hogy kihasználjuk a fényt. Az estét dán 'hygge' hangulatban és meleg italokkal zárjuk egy kikötői kávézóban.",
             "ro": "Dimineața de iarnă în Lemvig începe în biserica încălzită. La prânz, ne încălzim la Muzeul Lemvig cu povești despre coasta de vest. Deoarece se întunecă devreme, vizităm muzeul de artă la începutul după-amiezii. Seara se încheie în stil 'hygge' danez, cu băuturi calde într-o cafenea din port.",
-            "en": "Winter morning in Lemvig begins in the heated church. At noon, we warm up at Lemvig Museum while learning about West Coast history. Since it gets dark early, we visit the Art Museum in the early afternoon to catch the light. The evening is spent enjoying Danish 'hygge' with warm drinks in a cozy harbor cafe."
+            "en": "Winter morning in Lemvig begins in the heated church. At noon, we warm up at Lemvig Museum while learning about West Coast history. Since it gets dark early, we visit the Art Museum in the early afternoon to catch the light. The evening is spent enjoying Danish 'hygge' with warm drinks in a cozy harbor cafe.",
+            "da": "Vintermorgen i Lemvig begynder i den opvarmede kirke. Ved middagstid varmer vi os på Lemvig Museum og lærer om Vestkystens historie. Da det bliver mørkt tidligt, besøger vi Kunstmuseet tidligt på eftermiddagen for at fange lyset. Aftenen bruges på dansk 'hygge' med varme drikke i en hyggelig havnecafé."
           },
           "stops": [
             {
@@ -462,7 +495,8 @@
                 "de": "Genießen Sie die Wärme im Inneren des historischen Baus.",
                 "hu": "Élvezze a történelmi épület belső melegét.",
                 "ro": "Bucurați-vă de căldura din interiorul clădirii istorice.",
-                "en": "Enjoy the warmth inside this historic building."
+                "en": "Enjoy the warmth inside this historic building.",
+                "da": "Nyd varmen indenfor i denne historiske bygning."
               }
             },
             {
@@ -471,7 +505,8 @@
                 "de": "Ein gemütlicher Ort, um der Winterkälte zu entfliehen.",
                 "hu": "Hangulatos hely a téli hideg elől való meneküléshez.",
                 "ro": "Un loc primitor pentru a scăpa de frigul iernii.",
-                "en": "A cozy place to escape the biting winter cold."
+                "en": "A cozy place to escape the biting winter cold.",
+                "da": "Et hyggeligt sted at slippe for den bidende vinterkulde."
               }
             },
             {
@@ -480,7 +515,8 @@
                 "de": "Achten Sie auf vereiste Stellen auf den Kunstwegen.",
                 "hu": "Ügyeljen a jeges szakaszokra a művészeti útvonalon.",
                 "ro": "Atenție la porțiunile înghețate de pe traseul artistic.",
-                "en": "Watch out for icy patches along the art path."
+                "en": "Watch out for icy patches along the art path.",
+                "da": "Pas på glatte pletter langs kunststien."
               }
             },
             {
@@ -489,7 +525,8 @@
                 "de": "Probieren Sie eine warme Suppe oder dänischen Kakao.",
                 "hu": "Kóstoljon meg egy forró levest vagy dán kakaót.",
                 "ro": "Încercați o supă caldă sau cacao daneză.",
-                "en": "Try a hot soup or traditional Danish cocoa."
+                "en": "Try a hot soup or traditional Danish cocoa.",
+                "da": "Prøv en varm suppe eller traditionel dansk kakao."
               }
             },
             {
@@ -498,7 +535,8 @@
                 "de": "Das Museumscafé bietet einen tollen Blick auf den Winterfjord.",
                 "hu": "A múzeumi kávézó remek kilátást nyújt a téli fjordra.",
                 "ro": "Cafeneaua muzeului oferă o vedere superbă spre fjordul înghețat.",
-                "en": "The museum cafe offers great views of the winter fjord."
+                "en": "The museum cafe offers great views of the winter fjord.",
+                "da": "Museets café byder på en flot udsigt over vinterfjorden."
               }
             },
             {
@@ -507,7 +545,8 @@
                 "de": "Die Sonne geht gegen 16:00 Uhr unter, ideal für Fotos.",
                 "hu": "A nap 16:00 körül nyugszik, ideális fotózáshoz.",
                 "ro": "Soarele apune în jur de ora 16:00, ideal pentru fotografii.",
-                "en": "Sunset is around 16:00, perfect for golden hour photos."
+                "en": "Sunset is around 16:00, perfect for golden hour photos.",
+                "da": "Solnedgang er omkring kl. 16:00, perfekt til gyldne fotos."
               }
             }
           ],
@@ -535,6 +574,12 @@
               "The sun sets before 4 PM in December; plan accordingly.",
               "Museums often have shorter winter hours or Monday closures.",
               "Hot drinks at the harbor are a must for the winter vibe."
+            ],
+            "da": [
+              "Klæd dig i lag for at bekæmpe kystvind og kulde.",
+              "Solen går ned før kl. 16 i december; planlæg derefter.",
+              "Museer har ofte kortere vinteråbningstider eller lukket om mandagen.",
+              "Varme drikke ved havnen er et must for vinterstemningen."
             ]
           }
         }
@@ -553,7 +598,8 @@
             "de": "Start am Hafen",
             "hu": "Indulás a kikötőből",
             "ro": "Pornire din port",
-            "en": "Start at the Harbour"
+            "en": "Start at the Harbour",
+            "da": "Start ved havnen"
           },
           "coords": [
             8.314,
@@ -568,7 +614,8 @@
             "de": "Mieten Sie ein Fahrrad und genießen Sie die Morgenbrise am Fjord.",
             "hu": "Bérelj biciklit, és élvezd a reggeli szellőt a fjord partján.",
             "ro": "Închiriați o bicicletă și bucurați-vă de briza dimineții lângă fiord.",
-            "en": "Rent a bike and enjoy the morning breeze by the fjord."
+            "en": "Rent a bike and enjoy the morning breeze by the fjord.",
+            "da": "Lej en cykel og nyd morgensbrisen ved fjorden."
           }
         },
         {
@@ -576,7 +623,8 @@
             "de": "Museet for Religiøs Kunst",
             "hu": "Egyházművészeti Múzeum",
             "ro": "Muzeul de Artă Religioasă",
-            "en": "Museum of Religious Art"
+            "en": "Museum of Religious Art",
+            "da": "Museet for Religiøs Kunst"
           },
           "coords": [
             8.315,
@@ -591,7 +639,8 @@
             "de": "Ein Muss für Kunst- und Architekturliebhaber, direkt am Wasser gelegen.",
             "hu": "Kötelező darab a művészet és építészet szerelmeseinek, közvetlenül a vízparton.",
             "ro": "O vizită obligatorie pentru iubitorii de artă și arhitectură, situat chiar pe malul apei.",
-            "en": "A must-see for art and architecture lovers, located right on the waterfront."
+            "en": "A must-see for art and architecture lovers, located right on the waterfront.",
+            "da": "Et must for kunst- og arkitekturinteresserede, beliggende lige ud til vandet."
           }
         },
         {
@@ -599,7 +648,8 @@
             "de": "Gjellerodde Strand",
             "hu": "Gjellerodde strand",
             "ro": "Plaja Gjellerodde",
-            "en": "Gjellerodde Beach"
+            "en": "Gjellerodde Beach",
+            "da": "Gjellerodde Strand"
           },
           "coords": [
             8.3,
@@ -614,7 +664,8 @@
             "de": "Ein schöner flacher Strand, ideal für ein Picknick-Mittagessen und einen Spaziergang.",
             "hu": "Szép, lassan mélyülő strand, ideális egy piknik ebédhez és egy sétához.",
             "ro": "O plajă frumoasă, cu apă mică, perfectă pentru un prânz la picnic și o plimbare.",
-            "en": "A lovely shallow beach, perfect for a picnic lunch and a walk."
+            "en": "A lovely shallow beach, perfect for a picnic lunch and a walk.",
+            "da": "En dejlig lavvandet strand, perfekt til en picnicfrokost og en gåtur."
           }
         },
         {
@@ -622,7 +673,8 @@
             "de": "Planetstien (entlang der Küste)",
             "hu": "Bolygóösvény (a part mentén)",
             "ro": "Poteca Planetelor (de-a lungul coastei)",
-            "en": "The Planet Path (along the coast)"
+            "en": "The Planet Path (along the coast)",
+            "da": "Planetstien (langs kysten)"
           },
           "coords": [
             8.286,
@@ -637,7 +689,8 @@
             "de": "Folgen Sie dem Pfad zurück in Richtung Stadt. Wie viele Planeten können Sie entdecken?",
             "hu": "Kövesd az ösvényt vissza a város felé. Hány bolygót találsz meg?",
             "ro": "Urmați poteca înapoi spre oraș. Câte planete puteți observa?",
-            "en": "Follow the path back towards the town. How many planets can you spot?"
+            "en": "Follow the path back towards the town. How many planets can you spot?",
+            "da": "Følg stien tilbage mod byen. Hvor mange planeter kan du spotte?"
           }
         },
         {
@@ -645,7 +698,8 @@
             "de": "Kirche von Lemvig",
             "hu": "Lemvigi templom",
             "ro": "Biserica din Lemvig",
-            "en": "Lemvig Church"
+            "en": "Lemvig Church",
+            "da": "Lemvig Kirke"
           },
           "coords": [
             8.309,
@@ -660,7 +714,8 @@
             "de": "Besuchen Sie das historische Zentrum der Stadt, um Ihre Radtour abzuschließen.",
             "hu": "Látogass el a város történelmi központjába, hogy lezárd a biciklitúrát.",
             "ro": "Vizitați centrul istoric al orașului pentru a încheia turul cu bicicleta.",
-            "en": "Visit the town's historic center to conclude your bike tour."
+            "en": "Visit the town's historic center to conclude your bike tour.",
+            "da": "Besøg byens historiske centrum for at slutte din cykeltur af."
           }
         },
         {
@@ -668,7 +723,8 @@
             "de": "Kaffee und Kuchen",
             "hu": "Kávé és sütemény",
             "ro": "Cafea și prăjitură",
-            "en": "Coffee and Cake"
+            "en": "Coffee and Cake",
+            "da": "Kaffe og kage"
           },
           "coords": [
             8.31,
@@ -683,7 +739,8 @@
             "de": "Belohnen Sie sich in einer der örtlichen Bäckereien mit einem wohlverdienten Leckerbissen.",
             "hu": "Jutalmazd meg magad egy jól megérdemelt finomsággal az egyik helyi pékségben.",
             "ro": "Recompensați-vă cu un deliciu binemeritat la una dintre brutăriile locale.",
-            "en": "Reward yourself with a well-deserved treat at one of the local bakeries."
+            "en": "Reward yourself with a well-deserved treat at one of the local bakeries.",
+            "da": "Forkæl dig selv med en velfortjent godbid på et af de lokale bagerier."
           }
         }
       ],
@@ -691,7 +748,8 @@
         "de": "Schwingen Sie sich am Hafen von Lemvig aufs Rad und beginnen Sie den Tag mit einer frischen Fjordbrise. Die erste Etappe führt Sie zum eleganten Museum für Religiöse Kunst, ein Highlight direkt am Wasser. Danach geht es nach Norden zum weiten Gjellerodde Strand. Hier haben Sie Zeit für ein ausgiebiges Mittagessen am Strand und können die entspannte Küstenatmosphäre genießen. Am Nachmittag radeln Sie auf dem einzigartigen Planetenpfad zurück in Richtung Stadt und entdecken dabei das Sonnensystem im Kleinformat. Beenden Sie Ihre Tour im historischen Zentrum, wo die alte Kirche und eine wohlverdiente Kaffeepause auf Sie warten.",
         "hu": "Pattanj biciklire Lemvig kikötőjében, és kezdd a napot a fjord friss szellőjével. Az első szakasz az elegáns Egyházművészeti Múzeumhoz vezet, amely egy vízparti fénypont. Ezután észak felé veszed az irányt a tágas Gjellerodde strandra. Itt bőven lesz időd egy kiadós tengerparti ebédre és a pihentető tengerparti hangulat élvezetére. Délután az egyedülálló Bolygóösvényen tekersz vissza a város felé, felfedezve a Naprendszert kicsiben. Fejezd be a túrát a történelmi központban, ahol a régi templom és egy jól megérdemelt kávészünet vár.",
         "ro": "Urcați-vă pe bicicletă în portul Lemvig și începeți ziua cu o briză proaspătă de fiord. Prima etapă vă duce la elegantul Muzeu de Artă Religioasă, un punct de atracție chiar pe malul apei. Apoi, vă îndreptați spre nord, către întinsa plajă Gjellerodde. Aici aveți timp pentru un prânz relaxat pe plajă și pentru a vă bucura de atmosfera relaxantă de coastă. După-amiaza, pedalați înapoi spre oraș pe unica Potecă a Planetelor, descoperind sistemul solar în miniatură. Încheiați turul în centrul istoric, unde vă așteaptă biserica veche și o pauză de cafea binemeritată.",
-        "en": "Hop on your bike at Lemvig harbour and start the day with a fresh fjord breeze. The first leg takes you to the elegant Museum of Religious Art, a waterside highlight. Afterwards, you'll head north to the expansive Gjellerodde Beach. Here you'll have time for a leisurely beachside lunch and to enjoy the relaxed coastal atmosphere. In the afternoon, you'll cycle back towards town along the unique Planet Path, discovering the solar system in miniature. Finish your tour in the historic centre, where the old church and a well-deserved coffee break await."
+        "en": "Hop on your bike at Lemvig harbour and start the day with a fresh fjord breeze. The first leg takes you to the elegant Museum of Religious Art, a waterside highlight. Afterwards, you'll head north to the expansive Gjellerodde Beach. Here you'll have time for a leisurely beachside lunch and to enjoy the relaxed coastal atmosphere. In the afternoon, you'll cycle back towards town along the unique Planet Path, discovering the solar system in miniature. Finish your tour in the historic centre, where the old church and a well-deserved coffee break await.",
+        "da": "Hop på din cykel ved Lemvig havn og start dagen med en frisk fjordbrise. Første etape fører dig til det elegante Museum for Religiøs Kunst, et vandkantsmæssigt højdepunkt. Derefter går turen nordpå til den åbne Gjellerodde Strand. Her får du tid til en afslappet frokost ved stranden og til at nyde den rolige kyststemning. Om eftermiddagen cykler du tilbage mod byen langs den unikke Planetsti og opdager solsystemet i miniature. Afslut din tur i den historiske bymidte, hvor den gamle kirke og en velfortjent kaffepause venter."
       },
       "gastro_picks": {
         "de": [
@@ -887,6 +945,12 @@
           "Bring water and snacks, especially for the ride to the beach.",
           "A helmet is recommended but not legally required for adults in Denmark.",
           "Always lock your bike, even for short stops."
+        ],
+        "da": [
+          "Tjek vinden, inden du kører afsted; modvind langs fjorden kan være hård.",
+          "Medbring vand og snacks, især til turen ud til stranden.",
+          "Hjelm anbefales, men er ikke lovpligtig for voksne i Danmark.",
+          "Lås altid din cykel, også ved korte stop."
         ]
       },
       "variants": {
@@ -895,7 +959,8 @@
             "de": "Trotz Regen starten wir die Radtour am Hafen und nutzen die kurzen Wege. Vormittags bietet das Museum für religiöse Kunst Schutz und Kultur. Die Fahrt zum Gjellerodde Strand ist nass, aber die frische Brise belebt. Nachmittags kehren wir ins Zentrum zurück, besuchen die Kirche und belohnen uns mit Kaffee und Kuchen in einem warmen Café.",
             "hu": "Az eső ellenére a kikötőben kezdjük a bringázást, rövid távokat tervezve. Délelőtt a Vallásművészeti Múzeum nyújt menedéket. A Gjellerodde strandhoz vezető út vizes lesz, de a friss szellő élénkítő. Délután visszatérünk a központba, megnézzük a templomot, majd kávéval és süteménnyel jutalmazzuk magunkat egy meleg helyen.",
             "ro": "În ciuda ploii, începem turul cu bicicleta în port, folosind trasee scurte. Dimineața, Muzeul de Artă Religioasă oferă adăpost și cultură. Drumul spre plaja Gjellerodde va fi ud, dar briza este revigorantă. După-amiaza revenim în centru, vizităm biserica și ne răsplătim cu cafea și prăjituri.",
-            "en": "Despite the rain, we start our bike tour at the harbor, focusing on short stretches. Morning is spent at the Museum of Religious Art to stay dry. The ride to Gjellerodde Beach is wet but invigorating with the sea breeze. Afternoon sees us back in the center for the church and a well-deserved coffee and cake in a cozy cafe."
+            "en": "Despite the rain, we start our bike tour at the harbor, focusing on short stretches. Morning is spent at the Museum of Religious Art to stay dry. The ride to Gjellerodde Beach is wet but invigorating with the sea breeze. Afternoon sees us back in the center for the church and a well-deserved coffee and cake in a cozy cafe.",
+            "da": "På trods af regnen starter vi cykelturen ved havnen og fokuserer på korte stræk. Morgenen tilbringes på Museet for Religiøs Kunst for at holde os tørre. Turen til Gjellerodde Strand er våd men opkvikkende med havbrisen. Om eftermiddagen er vi tilbage i centrum ved kirken og en velfortjent kaffe og kage i en hyggelig café."
           },
           "stops": [
             {
@@ -904,7 +969,8 @@
                 "de": "Prüfen Sie Ihre Bremsen, nasse Felgen brauchen längeren Bremsweg.",
                 "hu": "Ellenőrizze a fékeket, a vizes felnik hosszabb fékutat igényelnek.",
                 "ro": "Verificați frânele, jantele ude necesită o distanță de frânare mai mare.",
-                "en": "Check your brakes; wet rims need a longer braking distance."
+                "en": "Check your brakes; wet rims need a longer braking distance.",
+                "da": "Tjek dine bremser; våde fælge kræver længere bremselængde."
               }
             },
             {
@@ -913,7 +979,8 @@
                 "de": "Überdachte Fahrradständer befinden sich in der Nähe.",
                 "hu": "Fedett kerékpártárolók találhatók a közelben.",
                 "ro": "Suporturi de biciclete acoperite se află în apropiere.",
-                "en": "Covered bike racks are available nearby."
+                "en": "Covered bike racks are available nearby.",
+                "da": "Der er overdækkede cykelstativer i nærheden."
               }
             },
             {
@@ -922,7 +989,8 @@
                 "de": "Der Radweg kann Pfützen haben, Schutzbleche sind ratsam.",
                 "hu": "A kerékpárúton tócsák lehetnek, a sárvédő ajánlott.",
                 "ro": "Pista de biciclete poate avea bălți, aripile sunt recomandate.",
-                "en": "The bike path may have puddles; fenders are highly recommended."
+                "en": "The bike path may have puddles; fenders are highly recommended.",
+                "da": "Cykelstien kan have vandpytter; skærme anbefales kraftigt."
               }
             },
             {
@@ -931,7 +999,8 @@
                 "de": "Bei starkem Wind ist die Küstenstrecke anstrengend.",
                 "hu": "Erős szélben a part menti szakasz megerőltető.",
                 "ro": "Pe vânt puternic, porțiunea de coastă este obositoare.",
-                "en": "The coastal stretch is challenging during strong winds."
+                "en": "The coastal stretch is challenging during strong winds.",
+                "da": "Kyststrækningen er udfordrende under stærk vind."
               }
             },
             {
@@ -940,7 +1009,8 @@
                 "de": "Ein kurzer Stopp zum Aufwärmen und Trocknen.",
                 "hu": "Egy rövid megálló a felmelegedéshez és száradáshoz.",
                 "ro": "O oprire scurtă pentru încălzire și uscare.",
-                "en": "A short stop to warm up and dry off."
+                "en": "A short stop to warm up and dry off.",
+                "da": "Et kort stop for at varme op og tørre af."
               }
             },
             {
@@ -949,7 +1019,8 @@
                 "de": "Ein Muss nach einer nassen Tour durch Lemvig.",
                 "hu": "Kötelező egy vizes Lemvig-túra után.",
                 "ro": "O necesitate după un tur ud prin Lemvig.",
-                "en": "A must-have after a wet tour through Lemvig."
+                "en": "A must-have after a wet tour through Lemvig.",
+                "da": "Et must efter en våd tur gennem Lemvig."
               }
             }
           ],
@@ -977,6 +1048,12 @@
               "Avoid riding on road markings as they become very slippery.",
               "Use waterproof panniers to keep your belongings dry.",
               "Coastal paths are often quiet and peaceful during rain."
+            ],
+            "da": [
+              "Fuld regntøj inklusive regnbukser er absolut nødvendigt.",
+              "Undgå at cykle på vejstreger, da de bliver meget glatte.",
+              "Brug vandtætte cykeltasker for at holde dine ting tørre.",
+              "Kyststier er ofte stille og fredelige under regn."
             ]
           }
         },
@@ -985,7 +1062,8 @@
             "de": "Die winterliche Radtour führt uns durch die klare Luft von Lemvig. Vormittags wärmen wir uns im Kunstmuseum auf, bevor wir zum Gjellerodde Strand radeln, wo der Fjord oft im Nebel liegt. Die Rückfahrt auf dem Planetenweg bietet kühle Panoramen. Den Nachmittag verbringen wir in der Kirche und schließlich bei heißem Kaffee im Zentrum.",
             "hu": "A téli kerékpártúra Lemvig tiszta levegőjén vezet keresztül. Délelőtt a művészeti múzeumban melegszünk fel, majd a Gjellerodde strandhoz tekerünk, ahol a fjord gyakran ködös. A visszaút a Planetáris úton hűvös panorámákat kínál. A délutánt a templomban, majd forró kávé mellett töltjük a központban.",
             "ro": "Turul cu bicicleta de iarnă ne poartă prin aerul curat din Lemvig. Dimineața ne încălzim la muzeu înainte de a pedala spre plaja Gjellerodde. Drumul de întoarcere pe Calea Planetelor oferă panorame reci. După-amiaza o petrecem la biserică și, în final, la o cafea fierbinte.",
-            "en": "The winter bike tour takes us through Lemvig's crisp, clear air. Morning starts with warmth at the Art Museum before cycling to Gjellerodde Beach, where the fjord is often misty. Returning via the Planet Path offers chilly but beautiful panoramas. Afternoon is spent at the church and finally with hot coffee downtown."
+            "en": "The winter bike tour takes us through Lemvig's crisp, clear air. Morning starts with warmth at the Art Museum before cycling to Gjellerodde Beach, where the fjord is often misty. Returning via the Planet Path offers chilly but beautiful panoramas. Afternoon is spent at the church and finally with hot coffee downtown.",
+            "da": "Vintercykelturen fører os gennem Lemvigs klare, kølige luft. Morgenen starter med varme på Kunstmuseet, før vi cykler til Gjellerodde Strand, hvor fjorden ofte er diset. Tilbagevejen via Planetstien byder på klare, men kølige panoramer. Om eftermiddagen besøges kirken og afsluttes med varm kaffe i byen."
           },
           "stops": [
             {
@@ -994,7 +1072,8 @@
                 "de": "Achten Sie auf Glatteis am frühen Morgen.",
                 "hu": "Ügyeljen a hajnali jegesedésre.",
                 "ro": "Atenție la polei la primele ore ale dimineții.",
-                "en": "Watch out for black ice in the early morning."
+                "en": "Watch out for black ice in the early morning.",
+                "da": "Pas på sort is tidligt om morgenen."
               }
             },
             {
@@ -1003,7 +1082,8 @@
                 "de": "Besuchen Sie die Ausstellung, während die Sonne tief steht.",
                 "hu": "Nézze meg a kiállítást, amíg alacsonyan jár a nap.",
                 "ro": "Vizitați expoziția în timp ce soarele este jos pe cer.",
-                "en": "Visit the exhibit while the winter sun is low."
+                "en": "Visit the exhibit while the winter sun is low.",
+                "da": "Besøg udstillingen mens vintersolen står lavt."
               }
             },
             {
@@ -1012,7 +1092,8 @@
                 "de": "Ein heißer Tee aus der Thermoskanne wirkt hier Wunder.",
                 "hu": "Egy forró tea a termoszból csodákra képes itt.",
                 "ro": "Un ceai fierbinte din termos face minuni aici.",
-                "en": "A hot tea from a thermos works wonders here."
+                "en": "A hot tea from a thermos works wonders here.",
+                "da": "En varm te fra en termokande gør underværker her."
               }
             },
             {
@@ -1021,7 +1102,8 @@
                 "de": "Die gefrorene Landschaft bietet tolle Fotomotive.",
                 "hu": "A fagyott táj remek fotótémákat kínál.",
                 "ro": "Peisajul înghețat oferă motive fotografice deosebite.",
-                "en": "The frozen landscape offers great photo opportunities."
+                "en": "The frozen landscape offers great photo opportunities.",
+                "da": "Det frosne landskab giver gode foto-muligheder."
               }
             },
             {
@@ -1030,7 +1112,8 @@
                 "de": "Lassen Sie das Rad sicher draußen, die Kirche ist beheizt.",
                 "hu": "Hagyja kint biztonságban a bringát, a templom fűtött.",
                 "ro": "Lăsați bicicleta afară în siguranță, biserica este încălzită.",
-                "en": "Park your bike securely outside; the church is heated."
+                "en": "Park your bike securely outside; the church is heated.",
+                "da": "Parkér din cykel forsvarligt udenfor; kirken er opvarmet."
               }
             },
             {
@@ -1039,7 +1122,8 @@
                 "de": "Wärmen Sie Ihre Hände an einer heißen Tasse auf.",
                 "hu": "Melegítse fel a kezeit egy forró csészén.",
                 "ro": "Încălziți-vă mâinile cu o ceașcă fierbinte.",
-                "en": "Warm your hands on a hot mug of coffee."
+                "en": "Warm your hands on a hot mug of coffee.",
+                "da": "Varm hænderne på en varm kop kaffe."
               }
             }
           ],
@@ -1067,6 +1151,12 @@
               "Watch out for road salt which can damage your bike chain.",
               "Shaded paths may remain frozen throughout the day.",
               "Plan to be back before it gets dark (around 4 PM)."
+            ],
+            "da": [
+              "Varme handsker og vindtætte jakker er essentielle.",
+              "Pas på vejens salt, som kan skade din cykelkæde.",
+              "Skyggede stier kan forblive frosne hele dagen.",
+              "Planlæg at være tilbage før det bliver mørkt (omkring kl. 16)."
             ]
           }
         }
@@ -1085,7 +1175,8 @@
             "de": "Bovbjerg Fyr",
             "hu": "Bovbjerg világítótorony",
             "ro": "Farul Bovbjerg",
-            "en": "Bovbjerg Lighthouse"
+            "en": "Bovbjerg Lighthouse",
+            "da": "Bovbjerg Fyr"
           },
           "coords": [
             8.12,
@@ -1100,7 +1191,8 @@
             "de": "Steigen Sie auf den roten Leuchtturm und genießen Sie die atemberaubende Aussicht auf die Nordsee.",
             "hu": "Mássz fel a piros világítótoronyba, és élvezd a lélegzetelállító kilátást az Északi-tengerre.",
             "ro": "Urcați în farul roșu pentru priveliști uimitoare ale Mării Nordului.",
-            "en": "Climb the red lighthouse for stunning views of the North Sea."
+            "en": "Climb the red lighthouse for stunning views of the North Sea.",
+            "da": "Bestig det røde fyr for en storslået udsigt over Nordsøen."
           }
         },
         {
@@ -1108,7 +1200,8 @@
             "de": "Spaziergang Klippenrand bei Tørringhuse",
             "hu": "Sziklaszéli séta Tørringhuse-nál",
             "ro": "Plimbare pe faleza de lângă Tørringhuse",
-            "en": "Cliff Edge Walk near Tørringhuse"
+            "en": "Cliff Edge Walk near Tørringhuse",
+            "da": "Klippekantsvandring nær Tørringhuse"
           },
           "coords": [
             8.15,
@@ -1123,7 +1216,8 @@
             "de": "Ein kurzer Spaziergang vom Leuchtturm entfernt. Sehen Sie die Überreste der alten Befestigungsanlagen.",
             "hu": "Egy rövid séta a világítótoronytól. Nézd meg a régi erődítmények maradványait.",
             "ro": "O scurtă plimbare de la far. Vedeți rămășițele vechilor fortificații.",
-            "en": "A short walk from the lighthouse. See the remains of old fortifications."
+            "en": "A short walk from the lighthouse. See the remains of old fortifications.",
+            "da": "En kort gåtur fra fyret. Se resterne af gamle befæstninger."
           }
         },
         {
@@ -1131,7 +1225,8 @@
             "de": "Gjellerodde Strand",
             "hu": "Gjellerodde strand",
             "ro": "Plaja Gjellerodde",
-            "en": "Gjellerodde Beach"
+            "en": "Gjellerodde Beach",
+            "da": "Gjellerodde Strand"
           },
           "coords": [
             8.3,
@@ -1146,7 +1241,8 @@
             "de": "Zeit für ein Mittagessen am Fjord. Das Restaurant Gjellerodde hat eine tolle Aussicht.",
             "hu": "Itt az ebédidő a fjord partján. A Gjellerodde étteremből remek a kilátás.",
             "ro": "Timpul pentru prânz pe malul fiordului. Restaurantul Gjellerodde are o priveliște minunată.",
-            "en": "Time for lunch by the fjord. The restaurant at Gjellerodde has great views."
+            "en": "Time for lunch by the fjord. The restaurant at Gjellerodde has great views.",
+            "da": "Tid til frokost ved fjorden. Restauranten på Gjellerodde har en fantastisk udsigt."
           }
         },
         {
@@ -1154,7 +1250,8 @@
             "de": "Ankunft in Lemvig Zentrum",
             "hu": "Érkezés Lemvig központjába",
             "ro": "Sosire în centrul Lemvig",
-            "en": "Arrive in Lemvig Center"
+            "en": "Arrive in Lemvig Center",
+            "da": "Ankomst til Lemvig Centrum"
           },
           "coords": [
             8.308,
@@ -1169,7 +1266,8 @@
             "de": "Parken Sie Ihr Auto in der Nähe der Kirche und erkunden Sie den Rest der Stadt zu Fuß.",
             "hu": "Parkolj le a templom közelében, és fedezd fel a város többi részét gyalog.",
             "ro": "Parcați mașina lângă biserică și explorați restul orașului pe jos.",
-            "en": "Park your car near the church and explore the rest of town on foot."
+            "en": "Park your car near the church and explore the rest of town on foot.",
+            "da": "Parkér din bil nær kirken og udforsk resten af byen til fods."
           }
         },
         {
@@ -1177,7 +1275,8 @@
             "de": "Kirche von Lemvig",
             "hu": "Lemvigi templom",
             "ro": "Biserica din Lemvig",
-            "en": "Lemvig Church"
+            "en": "Lemvig Church",
+            "da": "Lemvig Kirke"
           },
           "coords": [
             8.309,
@@ -1192,7 +1291,8 @@
             "de": "Das Herz der Stadt, ein schönes Beispiel dänischer Kirchenarchitektur.",
             "hu": "A város szíve, a dán egyházi építészet szép példája.",
             "ro": "Inima orașului, un exemplu frumos de arhitectură bisericească daneză.",
-            "en": "The heart of the town, a fine example of Danish church architecture."
+            "en": "The heart of the town, a fine example of Danish church architecture.",
+            "da": "Byens hjerte, et fint eksempel på dansk kirkearkitektur."
           }
         },
         {
@@ -1200,7 +1300,8 @@
             "de": "Lemvig Museum",
             "hu": "Lemvig Múzeum",
             "ro": "Muzeul Lemvig",
-            "en": "Lemvig Museum"
+            "en": "Lemvig Museum",
+            "da": "Lemvig Museum"
           },
           "coords": [
             8.311,
@@ -1215,7 +1316,8 @@
             "de": "Erfahren Sie mehr über die lokale Geschichte, die eng mit dem Meer verbunden ist.",
             "hu": "Tudj meg többet a helyi történelemről, amely szorosan kötődik a tengerhez.",
             "ro": "Aflați mai multe despre istoria locală, strâns legată de mare.",
-            "en": "Learn about the local history, which is deeply connected to the sea."
+            "en": "Learn about the local history, which is deeply connected to the sea.",
+            "da": "Lær om lokalhistorien, som er dybt forbundet med havet."
           }
         },
         {
@@ -1223,7 +1325,8 @@
             "de": "Abendessen am Hafen",
             "hu": "Vacsora a kikötőben",
             "ro": "Cină în port",
-            "en": "Dinner at the Harbour"
+            "en": "Dinner at the Harbour",
+            "da": "Middag ved Havnen"
           },
           "coords": [
             8.314,
@@ -1238,7 +1341,8 @@
             "de": "Beenden Sie den Tag mit einem köstlichen Essen und Blick auf den Fjord.",
             "hu": "Zárd a napot egy finom vacsorával, kilátással a fjordra.",
             "ro": "Încheiați ziua cu o masă delicioasă cu vedere la fiord.",
-            "en": "End the day with a delicious meal overlooking the fjord."
+            "en": "End the day with a delicious meal overlooking the fjord.",
+            "da": "Afslut dagen med et lækkert måltid med udsigt over fjorden."
           }
         }
       ],
@@ -1246,7 +1350,8 @@
         "de": "Ihr Autotag beginnt dramatisch an der Nordseeküste beim leuchtend roten Bovbjerg Fyr. Nach dem Aufstieg und einem Spaziergang entlang der Klippen fahren Sie landeinwärts. Zur Mittagszeit erreichen Sie den ruhigeren Limfjord am Gjellerodde Strand. Genießen Sie ein Mittagessen mit Aussicht, bevor Sie die kurze Strecke ins Zentrum von Lemvig fahren. Am Nachmittag erkunden Sie zu Fuß das historische Herz der Stadt. Sie parken Ihr Auto und entdecken die alte Kirche und das Stadtmuseum, die nur wenige Schritte voneinander entfernt sind. Der Tag endet dort, wo das Land auf den Fjord trifft – mit einem entspannten Abendessen in einem der Hafenrestaurants, während Sie die Erlebnisse zwischen der rauen Nordsee und dem sanften Fjord Revue passieren lassen.",
         "hu": "Autós napja drámaian kezdődik az Északi-tenger partján, a ragyogó piros Bovbjerg Fyr-nél. A csúcs megmászása és egy sziklaszirten tett séta után a szárazföld belseje felé veszi az irányt. Ebédidőben éri el a nyugodtabb Limfjordot a Gjellerodde strandnál. Élvezzen egy ebédet a kilátással, mielőtt a rövid úton Lemvig központjába hajt. Délután gyalogosan fedezi fel a város történelmi szívét. Leállítja az autót, és felfedezi a régi templomot és a városi múzeumot, amelyek csak néhány lépésre vannak egymástól. A nap ott ér véget, ahol a szárazföld és a fjord találkozik – egy pihentető vacsorával az egyik kikötői étteremben, miközben felidézi az élményeket a zord Északi-tenger és a szelíd fjord között.",
         "ro": "Ziua dumneavoastră cu mașina începe dramatic pe coasta Mării Nordului, la farul roșu aprins Bovbjerg Fyr. După urcare și o plimbare pe faleză, vă îndreptați spre interior. La prânz, ajungeți la mai liniștitul Limfjord, la plaja Gjellerodde. Savurați un prânz cu priveliște înainte de a parcurge scurta distanță până în centrul orașului Lemvig. După-amiaza, explorați pe jos inima istorică a orașului. Parcați mașina și descoperiți biserica veche și muzeul orașului, la doar câțiva pași unul de celălalt. Ziua se încheie acolo unde uscatul întâlnește fiordul - cu o cină relaxantă la unul dintre restaurantele din port, rememorând experiențele dintre aspra Mare a Nordului și blândul fiord.",
-        "en": "Your car day begins dramatically on the North Sea coast at the bright red Bovbjerg Lighthouse. After climbing the tower and taking a walk along the cliffs, you drive inland. At midday, you reach the calmer Limfjord at Gjellerodde Beach. Enjoy lunch with a view before making the short drive to the center of Lemvig. In the afternoon, you explore the historic heart of the town on foot. Park your car and discover the old church and the town museum, just a few steps apart. The day concludes where the land meets the fjord—with a relaxing dinner at one of the harbour restaurants, reflecting on the experiences between the rugged North Sea and the gentle fjord."
+        "en": "Your car day begins dramatically on the North Sea coast at the bright red Bovbjerg Lighthouse. After climbing the tower and taking a walk along the cliffs, you drive inland. At midday, you reach the calmer Limfjord at Gjellerodde Beach. Enjoy lunch with a view before making the short drive to the center of Lemvig. In the afternoon, you explore the historic heart of the town on foot. Park your car and discover the old church and the town museum, just a few steps apart. The day concludes where the land meets the fjord—with a relaxing dinner at one of the harbour restaurants, reflecting on the experiences between the rugged North Sea and the gentle fjord.",
+        "da": "Din biltur begynder dramatisk på Nordsøkysten ved det klart røde Bovbjerg Fyr. Efter at have bestiget tårnet og gået langs klipperne kører du ind mod landet. Ved middagstid når du den roligere Limfjord ved Gjellerodde Strand. Nyd frokosten med udsigt, før du tager den korte køretur til Lemvig centrum. Om eftermiddagen udforsker du byens historiske hjerte til fods. Parkér bilen og opdag den gamle kirke og bymuseet, kun få skridt fra hinanden. Dagen afsluttes, hvor land møder fjord—med en afslappet middag på en af havnerestauranterne og refleksion over oplevelserne mellem den barske Nordsø og den blide fjord."
       },
       "gastro_picks": {
         "de": [
@@ -1442,6 +1547,12 @@
           "Parking fees may apply at tourist spots like the lighthouse.",
           "Allow extra time for unplanned stops at scenic viewpoints.",
           "Be mindful of cyclists on the country roads."
+        ],
+        "da": [
+          "Få tanket, før du udforsker kysten; tankstationer er sjældne derude.",
+          "Der kan være parkeringsafgifter ved seværdigheder som fyret.",
+          "Afse ekstra tid til uplanlagte stop ved udsigtspunkter.",
+          "Vær opmærksom på cyklister på landevejene."
         ]
       },
       "variants": {
@@ -1450,7 +1561,8 @@
             "de": "Die Autotour führt uns zum Leuchtturm Bovbjerg, wo wir das raue Wetter von drinnen beobachten. Mittags besuchen wir Gjellerodde, bleiben aber bei Schauern im Wagen. Nachmittags erkunden wir das Zentrum von Lemvig mit der Kirche und dem Museum, wobei das Auto als trockene Basis dient. Den Abend genießen wir bei einem Abendessen am Hafen.",
             "hu": "Az autós túra a Bovbjerg világítótoronyhoz vezet, ahol bentről figyeljük a zord időt. Délben Gjellerodde felé vesszük az irányt, de záporok esetén a kocsiban maradunk. Délután Lemvig központját fedezzük fel, az autó pedig száraz bázisként szolgál a templom és a múzeum meglátogatásához. Az estét a kikötőben vacsorázva töltjük.",
             "ro": "Turul cu mașina ne duce la farul Bovbjerg, unde observăm vremea aspră de la adăpost. La prânz vizităm Gjellerodde, dar stăm în mașină în timpul averselor. După-amiaza explorăm centrul Lemvig, mașina servind drept bază uscată pentru vizitarea bisericii și a muzeului. Seara ne bucurăm de o cină în port.",
-            "en": "The car tour takes us to Bovbjerg Lighthouse, where we watch the wild weather from inside. At noon, we visit Gjellerodde, staying in the car during heavy showers. Afternoon is for exploring Lemvig center, using the car as a dry base while visiting the church and museum. The evening is spent dining at the harbor."
+            "en": "The car tour takes us to Bovbjerg Lighthouse, where we watch the wild weather from inside. At noon, we visit Gjellerodde, staying in the car during heavy showers. Afternoon is for exploring Lemvig center, using the car as a dry base while visiting the church and museum. The evening is spent dining at the harbor.",
+            "da": "Bilturen tager os til Bovbjerg Fyr, hvor vi ser det vilde vejr indefra. Ved middagstid besøger vi Gjellerodde og bliver i bilen under kraftige byger. Om eftermiddagen udforsker vi Lemvig centrum og bruger bilen som tør base, mens vi besøger kirken og museet. Aftenen tilbringes med middag ved havnen."
           },
           "stops": [
             {
@@ -1459,7 +1571,8 @@
                 "de": "Das Café im Leuchtturm ist perfekt für Regentage.",
                 "hu": "A világítótorony kávézója tökéletes az esős napokra.",
                 "ro": "Cafeneaua farului este perfectă pentru zilele ploioase.",
-                "en": "The lighthouse cafe is perfect for rainy days."
+                "en": "The lighthouse cafe is perfect for rainy days.",
+                "da": "Lysgasscaféen er perfekt til regnfulde dage."
               }
             },
             {
@@ -1468,7 +1581,8 @@
                 "de": "Bleiben Sie bei starkem Wind sicherheitshalber im Auto.",
                 "hu": "Erős szélben a biztonság kedvéért maradjon az autóban.",
                 "ro": "Rămâneți în mașină pentru siguranță în caz de vânt puternic.",
-                "en": "Stay in the car for safety if the winds are too strong."
+                "en": "Stay in the car for safety if the winds are too strong.",
+                "da": "Bliv i bilen af sikkerhedshensyn, hvis vindene er for stærke."
               }
             },
             {
@@ -1477,7 +1591,8 @@
                 "de": "Genießen Sie die Aussicht auf den Fjord durch die Windschutzscheibe.",
                 "hu": "Élvezze a fjord látványát a szélvédőn keresztül.",
                 "ro": "Bucurați-vă de vederea spre fjord prin parbriz.",
-                "en": "Enjoy the fjord views through your windshield."
+                "en": "Enjoy the fjord views through your windshield.",
+                "da": "Nyd fjordudsigten gennem forruden."
               }
             },
             {
@@ -1486,7 +1601,8 @@
                 "de": "Nutzen Sie Parkhäuser oder zentrumsnahe Parkplätze.",
                 "hu": "Használja a parkolóházakat vagy központi parkolókat.",
                 "ro": "Folosiți parcările etajate sau locurile de parcare centrale.",
-                "en": "Use parking garages or spots close to the center."
+                "en": "Use parking garages or spots close to the center.",
+                "da": "Brug parkeringshuse eller pladser tæt på centrum."
               }
             },
             {
@@ -1495,7 +1611,8 @@
                 "de": "Nur ein kurzer Sprint vom Parkplatz zur Kirche.",
                 "hu": "Csak egy rövid sprint a parkolótól a templomig.",
                 "ro": "Doar un sprint scurt de la parcare până la biserică.",
-                "en": "Just a quick sprint from the car park to the church."
+                "en": "Just a quick sprint from the car park to the church.",
+                "da": "Bare et kort sprint fra parkeringspladsen til kirken."
               }
             },
             {
@@ -1504,7 +1621,8 @@
                 "de": "Parken Sie direkt davor, um trocken zu bleiben.",
                 "hu": "Parkoljon közvetlenül előtte, hogy száraz maradjon.",
                 "ro": "Parcați direct în față pentru a rămâne uscat.",
-                "en": "Park directly in front to stay dry."
+                "en": "Park directly in front to stay dry.",
+                "da": "Parkér lige foran for at holde dig tør."
               }
             },
             {
@@ -1513,7 +1631,8 @@
                 "de": "Der Hafenparkplatz ist bei Regen meist weniger belegt.",
                 "hu": "A kikötői parkoló esőben általában kevésbé zsúfolt.",
                 "ro": "Parcarea din port este de obicei mai goală pe ploaie.",
-                "en": "The harbor car park is usually less crowded during rain."
+                "en": "The harbor car park is usually less crowded during rain.",
+                "da": "Havneparkeringspladsen er som regel mindre fyldt under regn."
               }
             }
           ],
@@ -1541,6 +1660,12 @@
               "Coastal winds can make opening car doors difficult.",
               "Keep towels in the car to dry off after stops.",
               "Coastal roads can be slippery during heavy rainfall."
+            ],
+            "da": [
+              "Tjek tilstande på vinduesviskerne inden afgang.",
+              "Kystvind kan gøre det svært at åbne bildøre.",
+              "Hav håndklæder i bilen til at tørre jer efter stop.",
+              "Kystveje kan være glatte under kraftig regn."
             ]
           }
         },
@@ -1549,7 +1674,8 @@
             "de": "Die Winterfahrt führt uns durch die frostige dänische Landschaft zum Leuchtturm Bovbjerg. Wir genießen den Blick auf die Nordsee und besuchen mittags den Strand von Gjellerodde, der winterlich still ist. Nachmittags erkunden wir Lemvig, besuchen die warme Kirche und das Museum. Der Tag endet gemütlich bei einem Abendessen am winterlichen Hafen.",
             "hu": "A téli autózás a fagyos dán tájon át vezet a Bovbjerg világítótoronyhoz. Élvezzük az Északi-tenger látványát, majd délben meglátogatjuk a téli csendbe burkolózott Gjellerodde strandot. Délután felfedezzük Lemviget, meglátogatjuk a meleg templomot és a múzeumot. A napot vacsorával zárjuk a téli kikötőben.",
             "ro": "Drumul de iarnă ne poartă prin peisajul danez înghețat spre farul Bovbjerg. Admirăm Marea Nordului, iar la prânz vizităm plaja Gjellerodde, liniștită iarna. După-amiaza explorăm Lemvig, vizităm biserica caldă și muzeul. Ziua se încheie cu o cină în portul hibernal.",
-            "en": "The winter drive takes us through frosty Danish landscapes to Bovbjerg Lighthouse. We enjoy North Sea views and visit Gjellerodde Beach, which is peacefully quiet in winter. Afternoon is for exploring Lemvig, the warm church, and the museum. The day ends cozily with dinner at the winter harbor."
+            "en": "The winter drive takes us through frosty Danish landscapes to Bovbjerg Lighthouse. We enjoy North Sea views and visit Gjellerodde Beach, which is peacefully quiet in winter. Afternoon is for exploring Lemvig, the warm church, and the museum. The day ends cozily with dinner at the winter harbor.",
+            "da": "Vinterturen fører os gennem frostklædte danske landskaber til Bovbjerg Fyr. Vi nyder Vesterhavets udsigt og besøger Gjellerodde Strand, som er fredeligt stille om vinteren. Eftermiddagen bruges på at udforske Lemvig, den varme kirke og museet. Dagen slutter hyggeligt med middag ved vinterhavnen."
           },
           "stops": [
             {
@@ -1558,7 +1684,8 @@
                 "de": "Der Wind am Leuchtturm ist im Winter extrem schneidend.",
                 "hu": "A szél a világítótoronynál télen rendkívül metsző.",
                 "ro": "Vântul la far este extrem de tăios pe timpul iernii.",
-                "en": "The wind at the lighthouse is extremely biting in winter."
+                "en": "The wind at the lighthouse is extremely biting in winter.",
+                "da": "Vinden ved fyret bider ekstremt om vinteren."
               }
             },
             {
@@ -1567,7 +1694,8 @@
                 "de": "Die Wege an den Klippen können vereist sein.",
                 "hu": "A sziklák menti utak jegesek lehetnek.",
                 "ro": "Potecile de pe marginea faleză pot fi înghețate.",
-                "en": "Cliffside paths can be very icy and dangerous."
+                "en": "Cliffside paths can be very icy and dangerous.",
+                "da": "Stier langs klipperne kan være meget isede og farlige."
               }
             },
             {
@@ -1576,7 +1704,8 @@
                 "de": "Genießen Sie die Einsamkeit des winterlichen Fjords.",
                 "hu": "Élvezze a téli fjord magányos nyugalmát.",
                 "ro": "Bucurați-vă de singurătatea fjordului hibernal.",
-                "en": "Enjoy the peaceful solitude of the winter fjord."
+                "en": "Enjoy the peaceful solitude of the winter fjord.",
+                "da": "Nyd vinterfjordens fredfyldte ensomhed."
               }
             },
             {
@@ -1585,7 +1714,8 @@
                 "de": "Die Standheizung ist nach den Fotostopps ein Segen.",
                 "hu": "Az állófűtés áldás a fotómegállók után.",
                 "ro": "Încălzirea auxiliară este o binecuvântare după opriri.",
-                "en": "Parking heaters are a blessing after outdoor photo stops."
+                "en": "Parking heaters are a blessing after outdoor photo stops.",
+                "da": "Parkeringsvarmere er en velsignelse efter udendørs fotostop."
               }
             },
             {
@@ -1594,7 +1724,8 @@
                 "de": "Besuchen Sie den Innenraum für einen Moment der Stille.",
                 "hu": "Látogasson el a belső térbe egy pillanatnyi csendért.",
                 "ro": "Vizitați interiorul pentru un moment de liniște.",
-                "en": "Step inside for a warm moment of silence."
+                "en": "Step inside for a warm moment of silence.",
+                "da": "Træd ind for et varmt øjebliks stilhed."
               }
             },
             {
@@ -1603,7 +1734,8 @@
                 "de": "Die Ausstellungen sind gut beheizt und informativ.",
                 "hu": "A kiállítások jól fűtöttek és informatívak.",
                 "ro": "Expozițiile sunt bine încălzite și informative.",
-                "en": "The exhibits are well-heated and very informative."
+                "en": "The exhibits are well-heated and very informative.",
+                "da": "Udstillingerne er velopvarmede og meget informative."
               }
             },
             {
@@ -1612,7 +1744,8 @@
                 "de": "Ein warmer Platz am Fenster bietet 'Hygge' pur.",
                 "hu": "Egy meleg hely az ablaknál tiszta 'hygge' élmény.",
                 "ro": "Un loc cald la fereastră oferă pur 'hygge'.",
-                "en": "A warm window seat offers pure Danish 'hygge'."
+                "en": "A warm window seat offers pure Danish 'hygge'.",
+                "da": "En varm vinduesplads giver ren dansk hygge."
               }
             }
           ],
@@ -1640,6 +1773,12 @@
               "Keep an ice scraper and anti-freeze in the car.",
               "Roads can freeze over quickly after the sun sets.",
               "Coastal fog can severely limit visibility in the afternoon."
+            ],
+            "da": [
+              "Vinterdæk er obligatoriske i Danmark på isglatte veje.",
+              "Hav en isskraber og frostvæske i bilen.",
+              "Veje kan fryse til hurtigt efter solnedgang.",
+              "Kysttåge kan stærkt begrænse sigtbarheden om eftermiddagen."
             ]
           }
         }
@@ -1658,7 +1797,8 @@
             "de": "Ankunft am Bahnhof Lemvig",
             "hu": "Érkezés a Lemvig vasútállomásra",
             "ro": "Sosire la Gara Lemvig",
-            "en": "Arrival at Lemvig Station"
+            "en": "Arrival at Lemvig Station",
+            "da": "Ankomst til Lemvig Station"
           },
           "coords": [
             8.306,
@@ -1673,7 +1813,8 @@
             "de": "Orientieren Sie sich und besorgen Sie sich einen Fahrplan für die lokalen Busse.",
             "hu": "Tájékozódj és szerezz be egy helyi buszmenetrendet.",
             "ro": "Orientați-vă și obțineți un orar pentru autobuzele locale.",
-            "en": "Get your bearings and grab a timetable for the local buses."
+            "en": "Get your bearings and grab a timetable for the local buses.",
+            "da": "Orientér dig og hent en køreplan for de lokale busser."
           }
         },
         {
@@ -1681,7 +1822,8 @@
             "de": "Busfahrt zum Hafen",
             "hu": "Buszozás a kikötőbe",
             "ro": "Călătorie cu autobuzul spre port",
-            "en": "Bus ride to the Harbour"
+            "en": "Bus ride to the Harbour",
+            "da": "Bustur til havnen"
           },
           "coords": [
             8.314,
@@ -1696,7 +1838,8 @@
             "de": "Die erste Fahrt des Tages bringt Sie direkt ans Wasser.",
             "hu": "A nap első útja közvetlenül a vízpartra visz.",
             "ro": "Prima călătorie a zilei vă duce direct la malul apei.",
-            "en": "The first ride of the day takes you right to the waterfront."
+            "en": "The first ride of the day takes you right to the waterfront.",
+            "da": "Dagens første tur tager dig direkte til vandkanten."
           }
         },
         {
@@ -1704,7 +1847,8 @@
             "de": "Museet for Religiøs Kunst",
             "hu": "Egyházművészeti Múzeum",
             "ro": "Muzeul de Artă Religioasă",
-            "en": "Museum of Religious Art"
+            "en": "Museum of Religious Art",
+            "da": "Museum for Religionskunst"
           },
           "coords": [
             8.315,
@@ -1719,7 +1863,8 @@
             "de": "Beginnen Sie Ihre Erkundung mit diesem architektonischen Juwel.",
             "hu": "Kezdje a felfedezést ezzel az építészeti gyöngyszemmel.",
             "ro": "Începeți explorarea cu această bijuterie arhitecturală.",
-            "en": "Start your exploration with this architectural gem."
+            "en": "Start your exploration with this architectural gem.",
+            "da": "Start din udforskning med denne arkitektoniske perle."
           }
         },
         {
@@ -1727,7 +1872,8 @@
             "de": "Mittagessen und Spaziergang am Hafen",
             "hu": "Ebéd és séta a kikötőben",
             "ro": "Prânz și plimbare în port",
-            "en": "Lunch and Walk at the Harbour"
+            "en": "Lunch and Walk at the Harbour",
+            "da": "Frokost og gåtur ved havnen"
           },
           "coords": [
             8.313,
@@ -1742,7 +1888,8 @@
             "de": "Genießen Sie die Atmosphäre und ein gutes Essen, bevor Sie ins Stadtzentrum gehen.",
             "hu": "Élvezd a hangulatot és egy jó ebédet, mielőtt a központba mennél.",
             "ro": "Bucurați-vă de atmosferă și de o masă bună înainte de a merge în centrul orașului.",
-            "en": "Enjoy the atmosphere and a good meal before walking to the town center."
+            "en": "Enjoy the atmosphere and a good meal before walking to the town center.",
+            "da": "Nyd stemningen og et godt måltid inden gåturen til bymidten."
           }
         },
         {
@@ -1750,7 +1897,8 @@
             "de": "Kirche von Lemvig & Lemvig Museum",
             "hu": "Lemvigi templom és Lemvig Múzeum",
             "ro": "Biserica Lemvig și Muzeul Lemvig",
-            "en": "Lemvig Church & Lemvig Museum"
+            "en": "Lemvig Church & Lemvig Museum",
+            "da": "Lemvig Kirke & Lemvig Museum"
           },
           "coords": [
             8.309,
@@ -1765,7 +1913,8 @@
             "de": "Erkunden Sie die beiden Hauptsehenswürdigkeiten des Zentrums in Ihrem eigenen Tempo.",
             "hu": "Fedezd fel a központ két fő látnivalóját a saját tempódban.",
             "ro": "Explorați cele două atracții principale din centru în ritmul dumneavoastră.",
-            "en": "Explore the two main sights of the center at your own pace."
+            "en": "Explore the two main sights of the center at your own pace.",
+            "da": "Udforsk de to hovedseværdigheder i centrum i dit eget tempo."
           }
         },
         {
@@ -1773,7 +1922,8 @@
             "de": "Busfahrt zurück zum Bahnhof",
             "hu": "Buszozás vissza az állomásra",
             "ro": "Călătorie cu autobuzul înapoi la gară",
-            "en": "Bus ride back to the station"
+            "en": "Bus ride back to the station",
+            "da": "Bustur tilbage til stationen"
           },
           "coords": [
             8.306,
@@ -1788,7 +1938,8 @@
             "de": "Nehmen Sie den Bus von einer Haltestelle in der Nähe des Zentrums für Ihre Rückfahrt.",
             "hu": "A visszautazáshoz szállj fel a buszra a központhoz közeli megállóban.",
             "ro": "Luați autobuzul de la o stație din apropierea centrului pentru călătoria de întoarcere.",
-            "en": "Catch the bus from a stop near the center for your return journey."
+            "en": "Catch the bus from a stop near the center for your return journey.",
+            "da": "Tag bussen fra et stoppested nær centrum på din tilbagerejse."
           }
         }
       ],
@@ -1796,7 +1947,8 @@
         "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt entspannt am Bahnhof von Lemvig. Ein kurzer Bus-Hop bringt Sie direkt zum Hafen, dem perfekten Ausgangspunkt. Von dort aus ist es nur ein kurzer Spaziergang zum beeindruckenden Museum für Religiöse Kunst. Der Vormittag gehört der modernen Kunst und Architektur. Zur Mittagszeit kehren Sie zum Hafen zurück, um die maritime Atmosphäre und ein leckeres Essen zu genießen. Nach dem Mittagessen schlendern Sie zu Fuß ins historische Zentrum. Hier widmen Sie den Nachmittag der Erkundung der alten Kirche und des benachbarten Lemvig Museums. Am späten Nachmittag bringt Sie ein Bus bequem zurück zum Bahnhof, voller Eindrücke von einem Tag, der Kunst, Geschichte und Fjord-Flair mühelos miteinander verbunden hat.",
         "hu": "Tömegközlekedéssel töltött napja nyugodtan kezdődik a Lemvig vasútállomáson. Egy rövid buszozás egyenesen a kikötőbe visz, ami tökéletes kiindulópont. Innen csak egy rövid séta a lenyűgöző Egyházművészeti Múzeum. A délelőtt a modern művészeté és építészeté. Ebédidőben visszatér a kikötőbe, hogy élvezze a tengeri hangulatot és egy finom ebédet. Ebéd után besétál a történelmi központba. Itt a délutánt a régi templom és a szomszédos Lemvig Múzeum felfedezésének szenteli. Késő délután egy busz kényelmesen visszavisz az állomásra, tele élményekkel egy olyan nap után, amely könnyedén ötvözte a művészetet, a történelmet és a fjord hangulatát.",
         "ro": "Ziua dumneavoastră cu transportul public începe relaxat la gara din Lemvig. O scurtă călătorie cu autobuzul vă duce direct în port, punctul de plecare perfect. De acolo, este doar o scurtă plimbare până la impresionantul Muzeu de Artă Religioasă. Dimineața este dedicată artei și arhitecturii moderne. La prânz, vă întoarceți în port pentru a vă bucura de atmosfera maritimă și de o masă gustoasă. După prânz, vă plimbați pe jos până în centrul istoric. Aici vă dedicați după-amiaza explorării bisericii vechi și a Muzeului Lemvig adiacent. Spre seară, un autobuz vă duce confortabil înapoi la gară, plin de impresiile unei zile care a combinat fără efort arta, istoria și farmecul fiordului.",
-        "en": "Your day on public transport begins relaxed at Lemvig station. A short bus hop takes you straight to the harbour, the perfect starting point. From there, it's a brief walk to the impressive Museum of Religious Art. The morning is dedicated to modern art and architecture. At lunchtime, you return to the harbour to enjoy the maritime atmosphere and a tasty meal. After lunch, you stroll into the historic centre on foot. Here, you dedicate the afternoon to exploring the old church and the neighbouring Lemvig Museum. In the late afternoon, a bus comfortably takes you back to the station, full of impressions from a day that effortlessly combined art, history, and fjord flair."
+        "en": "Your day on public transport begins relaxed at Lemvig station. A short bus hop takes you straight to the harbour, the perfect starting point. From there, it's a brief walk to the impressive Museum of Religious Art. The morning is dedicated to modern art and architecture. At lunchtime, you return to the harbour to enjoy the maritime atmosphere and a tasty meal. After lunch, you stroll into the historic centre on foot. Here, you dedicate the afternoon to exploring the old church and the neighbouring Lemvig Museum. In the late afternoon, a bus comfortably takes you back to the station, full of impressions from a day that effortlessly combined art, history, and fjord flair.",
+        "da": "Din dag med offentlig transport begynder afslappet på Lemvig station. En kort bustur tager dig direkte til havnen, det perfekte udgangspunkt. Derfra er det en kort gåtur til det imponerende Museum for Religionskunst. Formiddagen er dedikeret til moderne kunst og arkitektur. Ved frokosttid vender du tilbage til havnen for at nyde den maritime stemning og et velsmagende måltid. Efter frokost går du ind i den historiske bymidte til fods. Her bruger du eftermiddagen på at udforske den gamle kirke og det nærliggende Lemvig Museum. Sent på eftermiddagen tager en bus dig komfortabelt tilbage til stationen, fuld af indtryk fra en dag, der ubesværet kombinerede kunst, historie og fjordcharme."
       },
       "gastro_picks": {
         "de": [
@@ -1992,6 +2144,12 @@
           "Buses in the countryside may not be very frequent, so plan ahead.",
           "Download a local public transport app for real-time schedules.",
           "Wave at the bus driver to let them know you want to board."
+        ],
+        "da": [
+          "Køb en dagsbillet, hvis du planlægger flere busture.",
+          "Busser i landområderne kører ikke altid så ofte, så planlæg i forvejen.",
+          "Download en lokal kollektivtrafikapp for køreplaner i realtid.",
+          "Vink til buschaufføren for at signalere, at du vil med."
         ]
       },
       "variants": {
@@ -2000,7 +2158,8 @@
             "de": "Wir kommen am Bahnhof Lemvig an und nutzen den Bus zum Hafen, um trocken zu bleiben. Vormittags besuchen wir das Kunstmuseum. Mittags genießen wir die Gastronomie am Hafen, während wir auf die nächste Verbindung warten. Nachmittags besichtigen wir die Kirche und das Museum im Zentrum, bevor uns der Bus zurück zum Bahnhof bringt.",
             "hu": "A Lemvig vasútállomásra érkezünk, és busszal megyünk a kikötőbe, hogy szárazak maradjunk. Délelőtt a Vallásművészeti Múzeumot látogatjuk meg. Délben a kikötői gasztronómiát élvezzük, miközben a következő járatra várunk. Délután a templomot és a múzeumot nézzük meg, mielőtt a busz visszavisz az állomásra.",
             "ro": "Sosim la gara Lemvig și luăm autobuzul spre port pentru a rămâne uscați. Dimineața vizităm muzeul de artă. La prânz ne bucurăm de gastronomia din port în timp ce așteptăm legătura. După-amiaza vizităm biserica și muzeul central înainte de a lua autobuzul înapoi.",
-            "en": "We arrive at Lemvig Station and take the bus to the harbor to stay dry. Morning is spent at the Museum of Religious Art. At noon, we enjoy harbor dining while waiting for connections. Afternoon includes the church and museum in the center before the bus takes us back to the station."
+            "en": "We arrive at Lemvig Station and take the bus to the harbor to stay dry. Morning is spent at the Museum of Religious Art. At noon, we enjoy harbor dining while waiting for connections. Afternoon includes the church and museum in the center before the bus takes us back to the station.",
+            "da": "Vi ankommer til Lemvig Station og tager bussen til havnen for at holde os tørre. Formiddagen tilbringes på Museum for Religionskunst. Ved middagstid nyder vi havnemad, mens vi venter på forbindelser. Eftermiddagen inkluderer kirken og museet i centrum, før bussen tager os tilbage til stationen."
           },
           "stops": [
             {
@@ -2009,7 +2168,8 @@
                 "de": "Der Wartesaal bietet Schutz vor dem ersten Regenschauer.",
                 "hu": "A váróterem védelmet nyújt az első záporok elől.",
                 "ro": "Sala de așteptare oferă protecție împotriva ploii.",
-                "en": "The waiting room provides shelter from the first rain showers."
+                "en": "The waiting room provides shelter from the first rain showers.",
+                "da": "Venteværelset giver læ for de første regnbyger."
               }
             },
             {
@@ -2018,7 +2178,8 @@
                 "de": "Die Busse sind pünktlich und bringen Sie trocken ans Ziel.",
                 "hu": "A buszok pontosak és szárazon viszik a célhoz.",
                 "ro": "Autobuzele sunt punctuale și vă duc la destinație uscați.",
-                "en": "Buses are punctual and will get you there dry."
+                "en": "Buses are punctual and will get you there dry.",
+                "da": "Busserne er punktlige og får dig frem uden at blive våd."
               }
             },
             {
@@ -2027,7 +2188,8 @@
                 "de": "Nur ein kurzer Fußweg von der Bushaltestelle.",
                 "hu": "Csak rövid gyalogút a buszmegállótól.",
                 "ro": "Doar o scurtă plimbare de la stația de autobuz.",
-                "en": "Just a short walk from the bus stop."
+                "en": "Just a short walk from the bus stop.",
+                "da": "Bare en kort gåtur fra busstoppestedet."
               }
             },
             {
@@ -2036,7 +2198,8 @@
                 "de": "Die Restaurants sind in Busnähe für eine schnelle Flucht vor Regen.",
                 "hu": "Az éttermek buszközelben vannak az eső elöli gyors meneküléshez.",
                 "ro": "Restaurantele sunt aproape de bus pentru a scăpa rapid de ploaie.",
-                "en": "Restaurants are close to bus stops for a quick escape from rain."
+                "en": "Restaurants are close to bus stops for a quick escape from rain.",
+                "da": "Restauranter ligger tæt på busstoppesteder for en hurtig flugt fra regnen."
               }
             },
             {
@@ -2045,7 +2208,8 @@
                 "de": "Beide Ziele liegen nah beieinander, ideal für kurze Regenpausen.",
                 "hu": "Mindkét célpont közel van egymáshoz, ideális esőszünetekhez.",
                 "ro": "Ambele obiective sunt aproape, ideale pentru pauzele de ploaie.",
-                "en": "Both sites are close together, ideal for short rain breaks."
+                "en": "Both sites are close together, ideal for short rain breaks.",
+                "da": "Begge steder ligger tæt på hinanden, ideelt til korte regnpauser."
               }
             },
             {
@@ -2054,7 +2218,8 @@
                 "de": "Prüfen Sie die Abfahrtszeiten per App, um Wartezeit im Regen zu meiden.",
                 "hu": "Ellenőrizze az indulást appon, hogy ne várjon az esőben.",
                 "ro": "Verificați orele în aplicație pentru a nu aștepta în ploaie.",
-                "en": "Check times via app to avoid waiting in the rain."
+                "en": "Check times via app to avoid waiting in the rain.",
+                "da": "Tjek tider via app for at undgå ventetid i regnen."
               }
             }
           ],
@@ -2082,6 +2247,12 @@
               "Buy digital tickets in advance to avoid any rush.",
               "Most bus stations have covered waiting areas.",
               "A small travel umbrella fits perfectly in your carry-on."
+            ],
+            "da": [
+              "Brug 'Rejseplanen'-appen for realtidsinformation om tog og busser.",
+              "Køb digitale billetter på forhånd for at undgå stress.",
+              "De fleste bustationer har overdækkede venteområder.",
+              "En lille rejseparaply passer perfekt i din håndbagage."
             ]
           }
         },
@@ -2090,7 +2261,8 @@
             "de": "Vom Bahnhof Lemvig bringt uns der Bus ins winterliche Zentrum. Vormittags besuchen wir das Kunstmuseum und genießen den Blick auf den frostigen Fjord. Mittags wärmen wir uns in den Restaurants am Hafen auf. Nachmittags nutzen wir die Zeit für Kirche und Museum, bevor wir bei Einbruch der Dunkelheit den Bus zurück zum Bahnhof nehmen.",
             "hu": "A Lemvig vasútállomástól busz visz be a téli központba. Délelőtt a művészeti múzeumban gyönyörködünk a fagyos fjordban. Délben a kikötői éttermekben melegszünk fel. Délután a templomot és a múzeumot látogatjuk meg, majd sötétedéskor busszal megyünk vissza az állomásra.",
             "ro": "De la gara Lemvig luăm autobuzul spre centrul hibernal. Dimineața vizităm muzeul de artă și admirăm fjordul înghețat. La prânz ne încălzim în restaurantele din port. După-amiaza vizităm biserica și muzeul, iar la lăsarea serii luăm autobuzul înapoi.",
-            "en": "From Lemvig Station, the bus takes us to the wintery center. Morning is spent at the Art Museum enjoying frosty fjord views. At noon, we warm up in harbor restaurants. Afternoon is for the church and museum before taking the bus back to the station as darkness falls."
+            "en": "From Lemvig Station, the bus takes us to the wintery center. Morning is spent at the Art Museum enjoying frosty fjord views. At noon, we warm up in harbor restaurants. Afternoon is for the church and museum before taking the bus back to the station as darkness falls.",
+            "da": "Fra Lemvig Station tager bussen os til det vinterklædte centrum. Formiddagen bruges på Kunstmuseet med udsigt over frostige fjorde. Ved middagstid varmer vi os i havnerestauranterne. Eftermiddagen er til kirken og museet, før vi tager bussen tilbage til stationen, mens mørket sænker sig."
           },
           "stops": [
             {
@@ -2099,7 +2271,8 @@
                 "de": "Der Bahnhof ist beheizt und bietet Schutz vor Kälte.",
                 "hu": "Az állomás fűtött és védelmet nyújt a hideg ellen.",
                 "ro": "Gara este încălzită și oferă protecție împotriva frigului.",
-                "en": "The station is heated and provides shelter from the cold."
+                "en": "The station is heated and provides shelter from the cold.",
+                "da": "Stationen er opvarmet og giver læ for kulden."
               }
             },
             {
@@ -2108,7 +2281,8 @@
                 "de": "Genießen Sie die warme Fahrt durch die Stadt.",
                 "hu": "Élvezze a meleg utazást a városon keresztül.",
                 "ro": "Bucurați-vă de călătoria călduroasă prin oraș.",
-                "en": "Enjoy the warm ride through the town."
+                "en": "Enjoy the warm ride through the town.",
+                "da": "Nyd den varme tur gennem byen."
               }
             },
             {
@@ -2117,7 +2291,8 @@
                 "de": "Die Garderobe ist ideal für schwere Wintermäntel.",
                 "hu": "A ruhatár ideális a nehéz télikabátoknak.",
                 "ro": "Garderoba este ideală pentru hainele groase de iarnă.",
-                "en": "The cloakroom is perfect for heavy winter coats."
+                "en": "The cloakroom is perfect for heavy winter coats.",
+                "da": "Garderoben er perfekt til tunge vinterfrakker."
               }
             },
             {
@@ -2126,7 +2301,8 @@
                 "de": "Wählen Sie ein Restaurant mit gemütlicher 'Hygge'-Einrichtung.",
                 "hu": "Válasszon hangulatos, 'hygge' berendezésű éttermet.",
                 "ro": "Alegeți un restaurant cu decor 'hygge' primitor.",
-                "en": "Pick a restaurant with a cozy 'hygge' interior."
+                "en": "Pick a restaurant with a cozy 'hygge' interior.",
+                "da": "Vælg en restaurant med hyggeligt interiør."
               }
             },
             {
@@ -2135,7 +2311,8 @@
                 "de": "Wärmen Sie sich zwischen den Besichtigungen auf.",
                 "hu": "Melegedjen fel a két látnivaló között.",
                 "ro": "Încălziți-vă între cele două vizite.",
-                "en": "Warm up between the two sightseeing stops."
+                "en": "Warm up between the two sightseeing stops.",
+                "da": "Varm op mellem de to seværdigheder."
               }
             },
             {
@@ -2144,7 +2321,8 @@
                 "de": "Abends sind die Busse oft gut geheizt.",
                 "hu": "Este a buszok gyakran jól fűtöttek.",
                 "ro": "Seara, autobuzele sunt de obicei bine încălzite.",
-                "en": "Buses are usually well-heated in the evening."
+                "en": "Buses are usually well-heated in the evening.",
+                "da": "Busser er som regel velopvarmede om aftenen."
               }
             }
           ],
@@ -2172,6 +2350,12 @@
               "Stations are the best places to wait for your connections.",
               "Wear warm boots for the walks between transit stops.",
               "Digital tickets save time and hassle when your hands are cold."
+            ],
+            "da": [
+              "Tjek vinterkøreplanen; nogle linjer kan køre sjældnere.",
+              "Stationer er de bedste steder at vente på dine forbindelser.",
+              "Brug varme støvler til gåturene mellem stoppestederne.",
+              "Digitale billetter sparer tid og besvær, når hænderne er kolde."
             ]
           }
         }

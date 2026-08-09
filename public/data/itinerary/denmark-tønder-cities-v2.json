@@ -21,7 +21,8 @@
             "de": "Das Alte Rathaus und der Stadtplatz",
             "hu": "Régi Városháza és a Főtér",
             "ro": "Vechea Primărie și Piața Centrală",
-            "en": "The Old Town Hall and Town Square"
+            "en": "The Old Town Hall and Town Square",
+            "da": "Det Gamle Rådhus og Rådhuspladsen"
           },
           "coords": [
             8.8511,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die Renaissance-Architektur und die lebhafte Atmosphäre.",
             "hu": "Csodálja meg a reneszánsz építészetet és a nyüzsgő hangulatot.",
             "ro": "Admirați arhitectura renascentistă și atmosfera vibrantă.",
-            "en": "Admire the Renaissance architecture and the bustling atmosphere."
+            "en": "Admire the Renaissance architecture and the bustling atmosphere.",
+            "da": "Beundr renæssancearkitekturen og den livlige stemning."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Uldgade",
             "hu": "Uldgade utca",
             "ro": "Strada Uldgade",
-            "en": "Uldgade Street"
+            "en": "Uldgade Street",
+            "da": "Uldgade"
           },
           "coords": [
             8.8502,
@@ -59,7 +62,8 @@
             "de": "Eine der malerischsten Straßen Dänemarks mit wunderschön erhaltenen Häusern.",
             "hu": "Dánia egyik legfestőibb utcája, gyönyörűen megőrzött házakkal.",
             "ro": "Una dintre cele mai pitorești străzi din Danemarca, cu case frumos conservate.",
-            "en": "One of Denmark's most picturesque streets with beautifully preserved houses."
+            "en": "One of Denmark's most picturesque streets with beautifully preserved houses.",
+            "da": "En af Danmarks mest maleriske gader med smukt bevarede huse."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Drøhses Hus",
             "hu": "Drøhse-ház",
             "ro": "Casa Drøhse",
-            "en": "Drøhse's House"
+            "en": "Drøhse's House",
+            "da": "Drøhses Hus"
           },
           "coords": [
             8.8498,
@@ -82,7 +87,8 @@
             "de": "Einblicke in die Spitzenklöppel-Tradition von Tønder in einem barocken Stadthaus.",
             "hu": "Betekintés Tønder csipkeverő hagyományaiba egy barokk városi házban.",
             "ro": "Descoperiți tradiția dantelei din Tønder într-o casă barocă.",
-            "en": "Get insights into Tønder's lace-making tradition in a baroque town house."
+            "en": "Get insights into Tønder's lace-making tradition in a baroque town house.",
+            "da": "Få indblik i Tønders kniplingstradition i et barok byhus."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Kristkirken",
             "hu": "Krisztus-templom",
             "ro": "Biserica Kristkirken",
-            "en": "Christ Church (Kristkirken)"
+            "en": "Christ Church (Kristkirken)",
+            "da": "Kristkirken (Christ Church)"
           },
           "coords": [
             8.8545,
@@ -105,7 +112,8 @@
             "de": "Achten Sie auf das reich verzierte Interieur und die beeindruckende Kanzel.",
             "hu": "Figyelje meg a gazdagon díszített belső teret és a lenyűgöző szószéket.",
             "ro": "Observați interiorul bogat ornamentat și amvonul impresionant.",
-            "en": "Look for the richly decorated interior and the impressive pulpit."
+            "en": "Look for the richly decorated interior and the impressive pulpit.",
+            "da": "Læg mærke til det rigt udsmykkede interiør og den imponerende prædikestol."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Mittagessen im Stadtzentrum",
             "hu": "Ebéd a városközpontban",
             "ro": "Prânz în centrul orașului",
-            "en": "Lunch in the city center"
+            "en": "Lunch in the city center",
+            "da": "Frokost i bymidten"
           },
           "coords": [
             8.852,
@@ -128,7 +137,8 @@
             "de": "Probieren Sie lokale Spezialitäten in einem der gemütlichen Restaurants.",
             "hu": "Kóstoljon helyi specialitásokat az egyik hangulatos étteremben.",
             "ro": "Încercați specialități locale la unul dintre restaurantele primitoare.",
-            "en": "Try local specialties in one of the cozy restaurants."
+            "en": "Try local specialties in one of the cozy restaurants.",
+            "da": "Prøv lokale specialiteter på en af de hyggelige restauranter."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Kunstmuseet i Tønder",
             "hu": "Tønderi Művészeti Múzeum",
             "ro": "Muzeul de Artă din Tønder",
-            "en": "Art Museum in Tønder"
+            "en": "Art Museum in Tønder",
+            "da": "Kunstmuseum i Tønder"
           },
           "coords": [
             8.8605,
@@ -151,7 +162,8 @@
             "de": "Fokus auf dänische Kunst des 20. Jahrhunderts und nordische Kunst.",
             "hu": "A 20. századi dán és északi művészetre összpontosít.",
             "ro": "Se concentrează pe arta daneză din secolul XX și arta nordică.",
-            "en": "Focuses on 20th-century Danish art and Nordic art."
+            "en": "Focuses on 20th-century Danish art and Nordic art.",
+            "da": "Fokuserer på dansk kunst fra 1900‑tallet og nordisk kunst."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Kulturhistorie Tønder",
             "hu": "Tønderi Kultúrtörténeti Múzeum",
             "ro": "Muzeul de Istorie Culturală Tønder",
-            "en": "Museum of Cultural History Tønder"
+            "en": "Museum of Cultural History Tønder",
+            "da": "Tønder Museet for Kulturhistorie"
           },
           "coords": [
             8.8615,
@@ -174,7 +187,8 @@
             "de": "Direkt neben dem Kunstmuseum, erforschen Sie die Geschichte der Region.",
             "hu": "Közvetlenül a Művészeti Múzeum mellett található, fedezze fel a régió történelmét.",
             "ro": "Chiar lângă muzeul de artă, explorați istoria regiunii.",
-            "en": "Right next to the art museum, explore the history of the region."
+            "en": "Right next to the art museum, explore the history of the region.",
+            "da": "Lige ved kunstmuseet, udforsk regionens historie."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Beginnen Sie Ihren Tag im Herzen von Tønder am alten Rathaus. Schlendern Sie durch die malerische Uldgade, bewundern Sie das Drøhses Hus und die majestätische Kristkirken. Nach einem stärkenden Mittagessen tauchen Sie in die Welt der Kunst und Kultur in den beiden benachbarten Museen ein. Der Nachmittag ist der Erkundung der reichen Geschichte und Kunst der Region gewidmet. Der Abend klingt gemütlich in einem der charmanten Cafés der Stadt aus.",
         "hu": "Kezdje a napot Tønder szívében, a Régi Városházánál. Sétáljon végig a festői Uldgade-n, csodálja meg a Drøhse-házat és a fenséges Kristkirken-t. Egy kiadós ebéd után merüljön el a művészet és a kultúra világában a két szomszédos múzeumban. A délután a régió gazdag történelmének és művészetének felfedezésével telik. Az estét a város egyik hangulatos kávézójában zárhatja.",
         "ro": "Începeți ziua în inima orașului Tønder, la vechea primărie. Plimbați-vă pe pitoreasca Uldgade, admirați Casa Drøhse și maiestuoasa Biserică Kristkirken. După un prânz copios, scufundați-vă în lumea artei și culturii la cele două muzee învecinate. După-amiaza este dedicată explorării istoriei și artei bogate a regiunii. Seara se încheie într-o atmosferă relaxantă la una dintre cafenelele fermecătoare ale orașului.",
-        "en": "Start your day in the heart of Tønder at the old town hall. Stroll through the picturesque Uldgade, admire Drøhse's House and the majestic Kristkirken. After a hearty lunch, immerse yourself in the world of art and culture at the two adjacent museums. The afternoon is dedicated to exploring the region's rich history and art. The evening ends cozily in one of the city's charming cafés."
+        "en": "Start your day in the heart of Tønder at the old town hall. Stroll through the picturesque Uldgade, admire Drøhse's House and the majestic Kristkirken. After a hearty lunch, immerse yourself in the world of art and culture at the two adjacent museums. The afternoon is dedicated to exploring the region's rich history and art. The evening ends cozily in one of the city's charming cafés.",
+        "da": "Start din dag i hjertet af Tønder ved det gamle rådhus. Gå en tur gennem den maleriske Uldgade, beundr Drøhses Hus og den majestætiske Kristkirken. Efter en solid frokost fordyb dig i kunstens og kulturens verden på de to nabomuseer. Eftermiddagen er afsat til at udforske regionens rige historie og kunst. Aftenen slutter hyggeligt på en af byens charmerende caféer."
       },
       "gastro_picks": {
         "de": [
@@ -338,6 +353,11 @@
           "Wear comfortable shoes as the cobblestones in the old streets can be uneven.",
           "Most sights in the city center are within easy walking distance.",
           "Allow plenty of time for the museums; they are quite extensive."
+        ],
+        "da": [
+          "Brug komfortable sko, da brostenene i de gamle gader kan være ujævne.",
+          "De fleste seværdigheder i bymidten ligger i behagelig gåafstand.",
+          "Afsæt god tid til museerne; de er ret omfattende."
         ]
       },
       "variants": {
@@ -346,7 +366,8 @@
             "de": "Tønder bei Regen beginnt am Marktplatz, wo die nassen Pflastersteine den historischen Charme reflektieren. In der Uldgade bieten die alten Fassaden etwas Schutz, bevor das Drøhse-Haus einen trockenen Einblick in die Spitzenklöppelei gewährt. Der Mittag wird in einem gemütlichen Café im Zentrum verbracht. Der Nachmittag gehört den Museen, die Schutz vor dem Küstenwind bieten.",
             "hu": "Az esős Tønder a főtéren kezdődik, ahol a nedves macskakövek tükrözik a történelmi házakat. Az Uldgade szűk utcái némi védelmet nyújtanak, mielőtt a Drøhse-házban megismernénk a csipkeverés művészetét. Az ebédet egy barátságos belvárosi helyen költjük el. A délutánt a múzeumi negyedben töltjük, fedett helyen bújva el a szél és az eső elől.",
             "ro": "Tønder pe ploaie începe în piața centrală, unde pavajul umed reflectă farmecul clădirilor istorice. Străduțele din Uldgade oferă puțin adăpost înainte de a vizita Casa Drøhse pentru a descoperi arta dantelei. Prânzul este savurat într-o cafenea primitoare din centru. După-amiaza este dedicată muzeelor, oferind un refugiu perfect împotriva vântului de coastă.",
-            "en": "A rainy Tønder starts at the town square, where wet cobblestones reflect the historic facades. Uldgade's narrow streets offer some cover before heading into Drøhse's House for a dry look at lace-making history. Lunch is spent in a cozy city center spot. The afternoon is dedicated to the museum quarter, providing a perfect indoor escape from the coastal drizzle."
+            "en": "A rainy Tønder starts at the town square, where wet cobblestones reflect the historic facades. Uldgade's narrow streets offer some cover before heading into Drøhse's House for a dry look at lace-making history. Lunch is spent in a cozy city center spot. The afternoon is dedicated to the museum quarter, providing a perfect indoor escape from the coastal drizzle.",
+            "da": "En regnfuld Tønder starter på torvet, hvor våde brosten spejler de historiske facader. Uldgades smalle gader giver lidt læ, før I træder ind i Drøhses Hus for et tørt kig på kniplingshistorien. Frokosten nydes på et hyggeligt bycentersted. Eftermiddagen er helliget museumsområdet, som giver en perfekt indendørs flugt fra kystens døsige regn."
           },
           "stops": [
             {
@@ -355,7 +376,8 @@
                 "de": "Suchen Sie Schutz unter den Arkaden der umliegenden Cafés.",
                 "hu": "Keressen menedéket a környező kávézók árkádjai alatt.",
                 "ro": "Căutați adăpost sub arcadele cafenelelor din jur.",
-                "en": "Seek shelter under the arcades of the surrounding cafes."
+                "en": "Seek shelter under the arcades of the surrounding cafes.",
+                "da": "Søg læ under karnapperne ved de omkringliggende caféer."
               }
             },
             {
@@ -364,7 +386,8 @@
                 "de": "Die schmalen Gassen bieten etwas Schutz vor dem Wind.",
                 "hu": "A szűk utcák némi védelmet nyújtanak a szél ellen.",
                 "ro": "Străzile înguste oferă puțină protecție împotriva vântului.",
-                "en": "The narrow alleys provide some protection from the wind."
+                "en": "The narrow alleys provide some protection from the wind.",
+                "da": "De smalle gyder giver visse beskyttelse mod vinden."
               }
             },
             {
@@ -373,7 +396,8 @@
                 "de": "Perfekter Ort, um die Regenkleidung kurz zu trocknen.",
                 "hu": "Tökéletes hely az esőkabátok rövid szárítására.",
                 "ro": "Locul perfect pentru a usca scurt hainele de ploaie.",
-                "en": "Perfect place to dry off your rain gear for a while."
+                "en": "Perfect place to dry off your rain gear for a while.",
+                "da": "Perfekt sted til at tørre dit regntøj lidt."
               }
             },
             {
@@ -382,7 +406,8 @@
                 "de": "Genießen Sie die Stille und Trockenheit im Inneren.",
                 "hu": "Élvezze a belső tér csendjét és szárazságát.",
                 "ro": "Bucurați-vă de liniștea și uscăciunea din interior.",
-                "en": "Enjoy the silence and dryness of the interior."
+                "en": "Enjoy the silence and dryness of the interior.",
+                "da": "Nyd stilheden og tørrerummet indenfor."
               }
             },
             {
@@ -391,7 +416,8 @@
                 "de": "Wählen Sie ein Restaurant mit Garderobe für nasse Mäntel.",
                 "hu": "Válasszon olyan éttermet, ahol van hely a vizes kabátoknak.",
                 "ro": "Alegeți un restaurant cu garderobă pentru haine ude.",
-                "en": "Choose a restaurant with a cloakroom for wet coats."
+                "en": "Choose a restaurant with a cloakroom for wet coats.",
+                "da": "Vælg en restaurant med garderobe til våde frakker."
               }
             },
             {
@@ -400,7 +426,8 @@
                 "de": "Der Wasserturm bietet eine tolle Aussicht auf den Regen.",
                 "hu": "A víztoronyból remek kilátás nyílik az esős tájra.",
                 "ro": "Turnul de apă oferă o priveliște excelentă asupra ploii.",
-                "en": "The water tower offers a great view of the rainy landscape."
+                "en": "The water tower offers a great view of the rainy landscape.",
+                "da": "Vandtårnet giver en flot udsigt over det regnvåde landskab."
               }
             },
             {
@@ -409,7 +436,8 @@
                 "de": "Verweilen Sie länger in den Ausstellungen bis der Schauer abzieht.",
                 "hu": "Maradjon tovább a kiállításokon, amíg eláll a zápor.",
                 "ro": "Rămâneți mai mult la expoziții până trece aversa.",
-                "en": "Stay longer at the exhibitions until the shower passes."
+                "en": "Stay longer at the exhibitions until the shower passes.",
+                "da": "Bliv længere ved udstillingerne, indtil bygen passerer."
               }
             }
           ],
@@ -437,6 +465,12 @@
               "Use the many museums as dry waypoints during your walk.",
               "A sturdy umbrella is often better than a compact one due to North Sea winds.",
               "Many cafes offer 'Hygge' with candlelight during grey weather."
+            ],
+            "da": [
+              "Brug vandtætte sko, da brostenene bliver glatte.",
+              "Benyt de mange museer som tørre holdepladser under gåturen.",
+              "En robust paraply er ofte bedre end en sammenklappelig pga. Vesterhavsvinden.",
+              "Mange caféer byder på hygge med stearinlys under gråvejr."
             ]
           }
         },
@@ -445,7 +479,8 @@
             "de": "Im Winter verwandelt sich Tønder in Dänemarks Weihnachtsstadt. Der Rundgang beginnt am festlich beleuchteten Marktplatz. Durch die Uldgade geht es zum Drøhse-Haus, wo man sich aufwärmen kann. Nach einem wärmenden Mittagessen erkunden wir die Museen. Da es früh dunkel wird, leuchten die Lichter der Stadt am späten Nachmittag besonders stimmungsvoll.",
             "hu": "Télen Tønder Dánia karácsonyi városává válik. A séta az ünnepi fényekben úszó főtéren kezdődik. Az Uldgade utcán át jutunk a Drøhse-házhoz, ahol felmelegedhetünk. Egy forró ebéd után a múzeumokat fedezzük fel. Mivel korán sötétedik, a város fényei már késő délután hangulatosan világítanak.",
             "ro": "Iarna, Tønder devine orașul Crăciunului din Danemarca. Turul începe în piața centrală luminată festiv. Prin Uldgade ajungem la Casa Drøhse, unde ne putem încălzi. După un prânz cald, explorăm muzeele. Deoarece se întunecă devreme, luminile orașului strălucesc pline de atmosferă după-amiaza târziu.",
-            "en": "In winter, Tønder transforms into Denmark's Christmas town. The walk begins at the festively lit market square. Through Uldgade, we head to Drøhse's House to warm up. After a warming lunch, we explore the museums. As it gets dark early, the city lights shine atmospherically by the late afternoon."
+            "en": "In winter, Tønder transforms into Denmark's Christmas town. The walk begins at the festively lit market square. Through Uldgade, we head to Drøhse's House to warm up. After a warming lunch, we explore the museums. As it gets dark early, the city lights shine atmospherically by the late afternoon.",
+            "da": "Om vinteren forvandles Tønder til Danmarks Juleby. Gåturen begynder på det festligt oplyste torv. Via Uldgade går turen til Drøhses Hus for at varme sig. Efter en varmende frokost udforsker vi museerne. Da det bliver mørkt tidligt, fremhæver byens lys stemningen i sen eftermiddag."
           },
           "stops": [
             {
@@ -454,7 +489,8 @@
                 "de": "Besuchen Sie die Weihnachtshütte für einen Glögg.",
                 "hu": "Látogasson el a karácsonyi bódéhoz egy forralt borra.",
                 "ro": "Vizitați căsuța de Crăciun pentru un Glögg.",
-                "en": "Visit the Christmas hut for a warm Glögg."
+                "en": "Visit the Christmas hut for a warm Glögg.",
+                "da": "Besøg juleboden for en varm gløgg."
               }
             },
             {
@@ -463,7 +499,8 @@
                 "de": "Achten Sie auf Glatteis auf dem alten Pflaster.",
                 "hu": "Vigyázzon a jegesedésre a régi kövezeteken.",
                 "ro": "Atenție la polei pe pavajul vechi.",
-                "en": "Watch out for icy patches on the old pavement."
+                "en": "Watch out for icy patches on the old pavement.",
+                "da": "Pas på isglatte pletter på den gamle belægning."
               }
             },
             {
@@ -472,7 +509,8 @@
                 "de": "Ein gemütlicher Ort zum Aufwärmen zwischen den Stopps.",
                 "hu": "Hangulatos hely a felmelegedéshez a megállók között.",
                 "ro": "Un loc primitor pentru încălzire între opriri.",
-                "en": "A cozy place to warm up between stops."
+                "en": "A cozy place to warm up between stops.",
+                "da": "Et hyggeligt sted at få varmen mellem stop."
               }
             },
             {
@@ -481,7 +519,8 @@
                 "de": "Häufig finden hier im Winter Abendkonzerte statt.",
                 "hu": "Télen gyakran tartanak itt esti koncerteket.",
                 "ro": "Aici au loc frecvent concerte de seară în timpul iernii.",
-                "en": "Evening concerts are frequently held here in winter."
+                "en": "Evening concerts are frequently held here in winter.",
+                "da": "Der afholdes ofte aftenkoncerter her om vinteren."
               }
             },
             {
@@ -490,7 +529,8 @@
                 "de": "Probieren Sie dänische Winterspezialitäten wie Æbleskiver.",
                 "hu": "Kóstolja meg a dán téli különlegességeket, mint az Æbleskiver.",
                 "ro": "Încercați specialități daneze de iarnă, cum ar fi Æbleskiver.",
-                "en": "Try Danish winter specialties like Æbleskiver."
+                "en": "Try Danish winter specialties like Æbleskiver.",
+                "da": "Prøv danske vinterspecialiteter som æbleskiver."
               }
             },
             {
@@ -499,7 +539,8 @@
                 "de": "Die Aussicht vom Turm ist in der Dämmerung magisch.",
                 "hu": "A kilátás a toronyból varázslatos a szürkületben.",
                 "ro": "Priveliștea din turn este magică la crepuscul.",
-                "en": "The view from the tower is magical at twilight."
+                "en": "The view from the tower is magical at twilight.",
+                "da": "Udsigten fra tårnet er magisk ved tusmørke."
               }
             },
             {
@@ -508,7 +549,8 @@
                 "de": "Besuchen Sie den Museumsshop für traditionelle Geschenke.",
                 "hu": "Látogasson el a múzeumi boltba hagyományos ajándékokért.",
                 "ro": "Vizitați magazinul muzeului pentru cadouri tradiționale.",
-                "en": "Visit the museum shop for traditional gifts."
+                "en": "Visit the museum shop for traditional gifts.",
+                "da": "Besøg museumsbutikken for traditionelle gaver."
               }
             }
           ],
@@ -536,6 +578,12 @@
               "The sun sets around 4:00 PM, plan outdoor photos before that.",
               "Tønder is famous for its Christmas decorations starting in November.",
               "Take advantage of the short distances in the center to avoid getting too cold."
+            ],
+            "da": [
+              "Varme klæder og handsker er nødvendige på grund af havbrisen.",
+              "Solen går ned omkring kl. 16:00, planlæg udendørsfotos før da.",
+              "Tønder er kendt for sine juledekorationer fra november.",
+              "Udnyt de korte afstande i centrum for ikke at fryse for meget."
             ]
           }
         }
@@ -554,7 +602,8 @@
             "de": "Stadtzentrum Tønder",
             "hu": "Tønder Városközpont",
             "ro": "Centrul orașului Tønder",
-            "en": "Tønder City Center"
+            "en": "Tønder City Center",
+            "da": "Tønder bymidte"
           },
           "coords": [
             8.8511,
@@ -569,7 +618,8 @@
             "de": "Starten Sie Ihre Radtour nach einem Kaffee am Marktplatz.",
             "hu": "Indítsa a kerékpártúrát egy kávéval a főtéren.",
             "ro": "Începeți turul cu bicicleta după o cafea în piața centrală.",
-            "en": "Start your bike tour after a coffee in the market square."
+            "en": "Start your bike tour after a coffee in the market square.",
+            "da": "Start din cykeltur efter en kop kaffe på torvet."
           }
         },
         {
@@ -577,7 +627,8 @@
             "de": "Uldgade & Drøhses Hus",
             "hu": "Uldgade és Drøhse-ház",
             "ro": "Uldgade și Casa Drøhse",
-            "en": "Uldgade & Drøhse's House"
+            "en": "Uldgade & Drøhse's House",
+            "da": "Uldgade & Drøhses Hus"
           },
           "coords": [
             8.8502,
@@ -592,7 +643,8 @@
             "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie diese historische Ecke zu Fuß.",
             "hu": "Parkolja le a biciklit, és fedezze fel gyalog ezt a történelmi sarkot.",
             "ro": "Parcați bicicleta și explorați acest colț istoric pe jos.",
-            "en": "Park your bike and explore this historic corner on foot."
+            "en": "Park your bike and explore this historic corner on foot.",
+            "da": "Parkér cyklen og udforsk dette historiske hjørne til fods."
           }
         },
         {
@@ -600,7 +652,8 @@
             "de": "Kristkirken",
             "hu": "Krisztus-templom",
             "ro": "Biserica Kristkirken",
-            "en": "Christ Church (Kristkirken)"
+            "en": "Christ Church (Kristkirken)",
+            "da": "Kristkirken (Christ Church)"
           },
           "coords": [
             8.8545,
@@ -615,7 +668,8 @@
             "de": "Eine kurze Fahrt vom Zentrum zu diesem beeindruckenden gotischen Bauwerk.",
             "hu": "Rövid út a központtól ehhez a lenyűgöző gótikus épülethez.",
             "ro": "O scurtă plimbare cu bicicleta de la centru la această clădire gotică impresionantă.",
-            "en": "A short ride from the center to this impressive Gothic building."
+            "en": "A short ride from the center to this impressive Gothic building.",
+            "da": "En kort cykeltur fra centrum til denne imponerende gotiske bygning."
           }
         },
         {
@@ -623,7 +677,8 @@
             "de": "Fahrt durch die Tønder Marsch",
             "hu": "Kerékpározás a Tønder Marsch-on át",
             "ro": "Plimbare cu bicicleta prin Mlaștina Tønder",
-            "en": "Ride through the Tønder Marsh"
+            "en": "Ride through the Tønder Marsh",
+            "da": "Cykel gennem Tønder Marsken"
           },
           "coords": [
             8.82,
@@ -638,7 +693,8 @@
             "de": "Genießen Sie die weite Landschaft und die frische Luft auf den flachen Wegen.",
             "hu": "Élvezze a tágas tájat és a friss levegőt a sík utakon.",
             "ro": "Bucurați-vă de peisajul vast și de aerul curat pe potecile plate.",
-            "en": "Enjoy the wide landscape and fresh air on the flat paths."
+            "en": "Enjoy the wide landscape and fresh air on the flat paths.",
+            "da": "Nyd det vide landskab og den friske luft på de flade stier."
           }
         },
         {
@@ -646,7 +702,8 @@
             "de": "Mittagessen in Møgeltønder",
             "hu": "Ebéd Møgeltønderben",
             "ro": "Prânz în Møgeltønder",
-            "en": "Lunch in Møgeltønder"
+            "en": "Lunch in Møgeltønder",
+            "da": "Frokost i Møgeltønder"
           },
           "coords": [
             8.801,
@@ -661,7 +718,8 @@
             "de": "Machen Sie eine Pause im charmanten Dorf Møgeltønder, nahe Schloss Schackenborg.",
             "hu": "Tartson szünetet a bájos Møgeltønder faluban, a Schackenborg kastély közelében.",
             "ro": "Faceți o pauză în satul fermecător Møgeltønder, lângă Castelul Schackenborg.",
-            "en": "Take a break in the charming village of Møgeltønder, near Schackenborg Castle."
+            "en": "Take a break in the charming village of Møgeltønder, near Schackenborg Castle.",
+            "da": "Hold pause i den charmerende landsby Møgeltønder, nær Schackenborg Slot."
           }
         },
         {
@@ -669,7 +727,8 @@
             "de": "Schloss Schackenborg",
             "hu": "Schackenborg kastély",
             "ro": "Castelul Schackenborg",
-            "en": "Schackenborg Castle"
+            "en": "Schackenborg Castle",
+            "da": "Schackenborg Slot"
           },
           "coords": [
             8.803,
@@ -684,7 +743,8 @@
             "de": "Erkunden Sie die Gärten. Der Zugang zum Schloss selbst ist oft eingeschränkt.",
             "hu": "Fedezze fel a kerteket. Magába a kastélyba a belépés gyakran korlátozott.",
             "ro": "Explorați grădinile. Accesul în castel este adesea restricționat.",
-            "en": "Explore the gardens. Access to the castle itself is often restricted."
+            "en": "Explore the gardens. Access to the castle itself is often restricted.",
+            "da": "Udforsk haverne. Adgang til selve slottet er ofte begrænset."
           }
         },
         {
@@ -692,7 +752,8 @@
             "de": "Kunstmuseet i Tønder",
             "hu": "Tønderi Művészeti Múzeum",
             "ro": "Muzeul de Artă din Tønder",
-            "en": "Art Museum in Tønder"
+            "en": "Art Museum in Tønder",
+            "da": "Kunstmuseum i Tønder"
           },
           "coords": [
             8.8605,
@@ -707,7 +768,8 @@
             "de": "Beenden Sie den Tag mit einem kulturellen Höhepunkt zurück in Tønder.",
             "hu": "Zárja a napot egy kulturális fényponttal Tønderben.",
             "ro": "Încheiați ziua cu un punct culminant cultural înapoi în Tønder.",
-            "en": "End the day with a cultural highlight back in Tønder."
+            "en": "End the day with a cultural highlight back in Tønder.",
+            "da": "Afslut dagen med et kulturelt højdepunkt tilbage i Tønder."
           }
         }
       ],
@@ -715,7 +777,8 @@
         "de": "Ihre Radtour beginnt im Zentrum von Tønder. Nach der Erkundung der Altstadt führt Sie eine malerische Route in die Weiten der Tønder Marsch. Genießen Sie die Natur, bevor Sie zum Mittagessen in das historische Dorf Møgeltønder radeln. Am Nachmittag besichtigen Sie das königliche Schloss Schackenborg. Die Tour endet mit einem Besuch des Kunstmuseums zurück in Tønder, wo Sie den Tag kulturell ausklingen lassen.",
         "hu": "A kerékpártúra Tønder központjából indul. Az óváros felfedezése után egy festői útvonal vezet a Tønder Marsch síkságára. Élvezze a természetet, mielőtt ebédre a történelmi Møgeltønder faluba teker. Délután megtekinti a királyi Schackenborg kastélyt. A túra Tønderben, a Művészeti Múzeumban ér véget, ahol kulturális élménnyel zárhatja a napot.",
         "ro": "Turul cu bicicleta începe în centrul orașului Tønder. După explorarea orașului vechi, un traseu pitoresc vă duce în întinderile Mlaștinei Tønder. Bucurați-vă de natură înainte de a pedala spre satul istoric Møgeltønder pentru prânz. După-amiaza, vizitați castelul regal Schackenborg. Turul se încheie înapoi în Tønder cu o vizită la Muzeul de Artă, unde puteți încheia ziua cu o notă culturală.",
-        "en": "Your bike tour starts in the center of Tønder. After exploring the old town, a scenic route takes you into the vastness of the Tønder Marsh. Enjoy nature before cycling to the historic village of Møgeltønder for lunch. In the afternoon, you will visit the royal Schackenborg Castle. The tour ends back in Tønder with a visit to the Art Museum, where you can end the day on a cultural note."
+        "en": "Your bike tour starts in the center of Tønder. After exploring the old town, a scenic route takes you into the vastness of the Tønder Marsh. Enjoy nature before cycling to the historic village of Møgeltønder for lunch. In the afternoon, you will visit the royal Schackenborg Castle. The tour ends back in Tønder with a visit to the Art Museum, where you can end the day on a cultural note.",
+        "da": "Din cykeltur starter i Tønders centrum. Efter at have udforsket den gamle by fører en naturskøn rute dig ud i Tønder Marskens vidder. Nyd naturen, inden du cykler til den historiske landsby Møgeltønder for frokost. Om eftermiddagen besøger du det kongelige Schackenborg Slot. Turen ender tilbage i Tønder med et besøg på Kunstmuseet, hvor du kan sætte punktum med et kulturelt indslag."
       },
       "gastro_picks": {
         "de": [
@@ -871,6 +934,11 @@
           "The terrain is flat and ideal for cyclists of all levels.",
           "Be aware of the wind in the open marsh landscape.",
           "Bring water and snacks, as there are few supply options outside the towns."
+        ],
+        "da": [
+          "Terrænet er fladt og ideelt for cyklister på alle niveauer.",
+          "Vær opmærksom på vinden i det åbne marskområde.",
+          "Medbring vand og snacks, da der er få forsyningsmuligheder uden for byerne."
         ]
       },
       "variants": {
@@ -879,7 +947,8 @@
             "de": "Eine Radtour im Regen durch Tønder erfordert gute Ausrüstung. Wir starten im Zentrum und fahren zur Uldgade. Der Höhepunkt ist die Fahrt durch das Tønder Marschland, wo der Regen die Landschaft dramatisch wirken lässt. Zum Aufwärmen gibt es Mittagessen in Møgeltønder und eine Schlossbesichtigung, bevor wir zum Kunstmuseum zurückkehren.",
             "hu": "Az esős kerékpártúra Tønderben jó felszerelést igényel. A központból indulunk az Uldgade felé. A csúcspont a Tønder-mocsárvidéken át vezető út, ahol az eső drámaivá teszi a tájat. Felmelegedésként Møgeltønderben ebédelünk, megtekintjük a kastélyt, majd visszatérünk a művészeti múzeumba.",
             "ro": "O tură cu bicicleta pe ploaie prin Tønder necesită echipament bun. Începem în centru și pedalăm spre Uldgade. Punctul culminant este drumul prin mlaștinile Tønder, unde ploaia face peisajul dramatic. Pentru încălzire, luăm prânzul în Møgeltønder și vizităm castelul, apoi revenim la muzeul de artă.",
-            "en": "A rainy bike tour through Tønder requires proper gear. We start in the center and ride to Uldgade. The highlight is cycling through the Tønder Marsh, where the rain adds a dramatic feel to the landscape. To warm up, we have lunch in Møgeltønder and visit the castle before returning to the art museum."
+            "en": "A rainy bike tour through Tønder requires proper gear. We start in the center and ride to Uldgade. The highlight is cycling through the Tønder Marsh, where the rain adds a dramatic feel to the landscape. To warm up, we have lunch in Møgeltønder and visit the castle before returning to the art museum.",
+            "da": "En regnfuld cykeltur gennem Tønder kræver ordentligt udstyr. Vi starter i centrum og cykler til Uldgade. Højdepunkter er turen gennem Tønder Marsken, hvor regnen giver landskabet et dramatisk præg. For at blive varmet op spiser vi frokost i Møgeltønder og besøger slottet, før vi vender tilbage til kunstmuseet."
           },
           "stops": [
             {
@@ -888,7 +957,8 @@
                 "de": "Prüfen Sie Ihre Bremsen, nasses Kopfsteinpflaster ist rutschig.",
                 "hu": "Ellenőrizze a fékeket, a vizes macskakő csúszik.",
                 "ro": "Verificați frânele, pavajul umed este alunecos.",
-                "en": "Check your brakes; wet cobblestones are slippery."
+                "en": "Check your brakes; wet cobblestones are slippery.",
+                "da": "Tjek dine bremser; våde brosten er glatte."
               }
             },
             {
@@ -897,7 +967,8 @@
                 "de": "Parken Sie das Rad im Windschatten der Häuser.",
                 "hu": "Parkolja a kerékpárt a házak szélárnyékos oldalán.",
                 "ro": "Parcați bicicleta la adăpostul vântului lângă case.",
-                "en": "Park your bike in the lee of the buildings."
+                "en": "Park your bike in the lee of the buildings.",
+                "da": "Parkér cyklen i læ for bygningerne."
               }
             },
             {
@@ -906,7 +977,8 @@
                 "de": "Nutzen Sie den Stopp für eine kurze Regenpause.",
                 "hu": "Használja ki a megállót egy rövid esőszünetre.",
                 "ro": "Folosiți oprirea pentru o scurtă pauză de ploaie.",
-                "en": "Use this stop for a short break from the rain."
+                "en": "Use this stop for a short break from the rain.",
+                "da": "Brug dette stop til en kort pause fra regnen."
               }
             },
             {
@@ -915,7 +987,8 @@
                 "de": "Achtung bei starkem Seitenwind auf den offenen Wegen.",
                 "hu": "Vigyázat az erős oldalszéllel a nyílt utakon.",
                 "ro": "Atenție la vântul lateral puternic pe drumurile deschise.",
-                "en": "Watch out for strong crosswinds on open paths."
+                "en": "Watch out for strong crosswinds on open paths.",
+                "da": "Pas på stærke sidevinde på åbne stier."
               }
             },
             {
@@ -924,7 +997,8 @@
                 "de": "Ideal, um die Regenhose kurz abzutrocknen.",
                 "hu": "Ideális alkalom az esőnadrág megszárítására.",
                 "ro": "Ideal pentru a usca puțin pantalonii de ploaie.",
-                "en": "Ideal time to dry off your rain trousers."
+                "en": "Ideal time to dry off your rain trousers.",
+                "da": "Ideelt tidspunkt til at få tørret regnbukserne."
               }
             },
             {
@@ -933,7 +1007,8 @@
                 "de": "Besichtigen Sie das Innere, während es draußen regnet.",
                 "hu": "Nézze meg a belső teret, amíg kint esik.",
                 "ro": "Vizitați interiorul în timp ce afară plouă.",
-                "en": "Visit the interior while it's raining outside."
+                "en": "Visit the interior while it's raining outside.",
+                "da": "Besøg interiøret, mens det regner udenfor."
               }
             },
             {
@@ -942,7 +1017,8 @@
                 "de": "Sicherer Fahrradständer vorhanden, Kleidung abgeben.",
                 "hu": "Biztonságos kerékpártároló van, a vizes ruhát le lehet adni.",
                 "ro": "Rastel sigur pentru biciclete disponibil, lăsați hainele ude.",
-                "en": "Secure bike racks available; leave your wet gear at the cloakroom."
+                "en": "Secure bike racks available; leave your wet gear at the cloakroom.",
+                "da": "Sikrede cykelstativer findes; læg dit våde udstyr i garderoben."
               }
             }
           ],
@@ -970,6 +1046,12 @@
               "Avoid puddles as they can hide deep potholes.",
               "Marsh paths can be muddy when wet.",
               "Turn on your bike lights as visibility drops significantly in the rain."
+            ],
+            "da": [
+              "Planlæg fuldt regntøj (bukser, jakke, skoovertræk).",
+              "Undgå vandpytter, da de kan skjule dybe huller.",
+              "Marskstier kan blive mudrede, når det er vådt.",
+              "Tænd dine cykellygter, da sigtbarheden falder markant i regnvejr."
             ]
           }
         },
@@ -978,7 +1060,8 @@
             "de": "Radfahren im winterlichen Tønder ist erfrischend. Wir starten im geschmückten Zentrum und fahren zur Christuskirche. Die Tour durch das Marschland bietet weite Blicke über die frostige Ebene. In Møgeltønder stärken wir uns bei einem warmen Essen und besuchen das Schloss Schackenborg, bevor wir im Museumsquartier den Tag beenden.",
             "hu": "A téli kerékpározás Tønderben felfrissítő élmény. A díszes központból indulunk a Krisztus-templomhoz. A mocsárvidéki túra tágas kilátást nyújt a fagyos síkságra. Møgeltønderben forró étellel erősítünk és meglátogatjuk a Schackenborg-kastélyt, majd a múzeumi negyedben zárjuk a napot.",
             "ro": "Mersul cu bicicleta în Tønder iarna este revigorant. Începem în centrul decorat și pedalăm spre Biserica lui Hristos. Turul prin mlaștină oferă priveliști largi peste câmpia înghețată. În Møgeltønder ne refacem cu o masă caldă și vizităm castelul Schackenborg, terminând ziua în cartierul muzeelor.",
-            "en": "Cycling in winter Tønder is refreshing. We start in the decorated center and ride to Christ Church. The tour through the marshland offers wide views over the frosty plains. In Møgeltønder, we refuel with a warm meal and visit Schackenborg Castle before ending the day in the museum quarter."
+            "en": "Cycling in winter Tønder is refreshing. We start in the decorated center and ride to Christ Church. The tour through the marshland offers wide views over the frosty plains. In Møgeltønder, we refuel with a warm meal and visit Schackenborg Castle before ending the day in the museum quarter.",
+            "da": "At cykle i vinterens Tønder er forfriskende. Vi starter i det pyntede centrum og kører til Kristkirken. Turen gennem marsken byder på vide udsigter over de frostklare sletter. I Møgeltønder fylder vi depoterne med et varmt måltid og besøger Schackenborg Slot, før dagen afsluttes i museumsområdet."
           },
           "stops": [
             {
@@ -987,7 +1070,8 @@
                 "de": "Vorsicht vor überfrorener Nässe in den Morgenstunden.",
                 "hu": "Vigyázzon a lefagyott nedvességre a reggeli órákban.",
                 "ro": "Atenție la polei în orele dimineții.",
-                "en": "Be careful of black ice in the early morning hours."
+                "en": "Be careful of black ice in the early morning hours.",
+                "da": "Vær forsigtig med sort is i de tidlige morgentimer."
               }
             },
             {
@@ -996,7 +1080,8 @@
                 "de": "Handschuhe beim Abschließen des Rads nicht ausziehen.",
                 "hu": "Ne vegye le a kesztyűt a kerékpár lezárásakor.",
                 "ro": "Nu vă scoateți mănușile când încuiați bicicleta.",
-                "en": "Don't take off your gloves while locking the bike."
+                "en": "Don't take off your gloves while locking the bike.",
+                "da": "Tag ikke handskerne af, mens du låser cyklen."
               }
             },
             {
@@ -1005,7 +1090,8 @@
                 "de": "Kurze Aufwärmpause im Inneren einlegen.",
                 "hu": "Tartson egy rövid melegedő szünetet odabent.",
                 "ro": "Faceți o scurtă pauză de încălzire în interior.",
-                "en": "Take a short warming break inside."
+                "en": "Take a short warming break inside.",
+                "da": "Hold en kort opvarmningspause indendørs."
               }
             },
             {
@@ -1014,7 +1100,8 @@
                 "de": "Die frostige Luft kann auf dem Rad sehr beißend sein.",
                 "hu": "A fagyos levegő a kerékpáron nagyon csípős lehet.",
                 "ro": "Aerul înghețat poate fi foarte tăios pe bicicletă.",
-                "en": "The frosty air can be very biting while cycling."
+                "en": "The frosty air can be very biting while cycling.",
+                "da": "Den frostklare luft kan være bidende under cykelturen."
               }
             },
             {
@@ -1023,7 +1110,8 @@
                 "de": "Warme Getränke auffüllen für den Rückweg.",
                 "hu": "Töltse fel a meleg italos készletét a visszaútra.",
                 "ro": "Reumpleți băuturile calde pentru drumul de întoarcere.",
-                "en": "Refill your warm drinks for the ride back."
+                "en": "Refill your warm drinks for the ride back.",
+                "da": "Fyld dine varme drikke op til turen tilbage."
               }
             },
             {
@@ -1032,7 +1120,8 @@
                 "de": "Die Parkanlagen sind im Frost besonders fotogen.",
                 "hu": "A parkok a zúzmarában különösen fotogének.",
                 "ro": "Parcurile sunt deosebit de fotogenice pe timp de îngheț.",
-                "en": "The park grounds are especially photogenic in the frost."
+                "en": "The park grounds are especially photogenic in the frost.",
+                "da": "Parkanlæggene er særligt fotogene i rimfrost."
               }
             },
             {
@@ -1041,7 +1130,8 @@
                 "de": "Das Museum ist bis zum frühen Abend beheizt.",
                 "hu": "A múzeum kora estig fűtött és látogatható.",
                 "ro": "Muzeul este încălzit până seara devreme.",
-                "en": "The museum is heated and open until early evening."
+                "en": "The museum is heated and open until early evening.",
+                "da": "Museet er opvarmet og åbent til tidlig aften."
               }
             }
           ],
@@ -1069,6 +1159,12 @@
               "Mind the shorter daylight hours for your return journey.",
               "Road salt can damage the bike frame; wipe it down after.",
               "Bring a thermos with tea for the ride through the marsh."
+            ],
+            "da": [
+              "Brug lag-på-lag og vindafvisende tøj.",
+              "Husk de kortere dagslys timer til hjemturen.",
+              "Vejrsalt kan skade cyklen; tør den af bagefter.",
+              "Medbring en termokande med te til turen gennem marsken."
             ]
           }
         }
@@ -1087,7 +1183,8 @@
             "de": "Parkplatz Zentrum & Altes Rathaus",
             "hu": "Parkoló a központban és Régi Városháza",
             "ro": "Parcare centrală și Vechea Primărie",
-            "en": "Central Parking & Old Town Hall"
+            "en": "Central Parking & Old Town Hall",
+            "da": "Central parkering & gamle rådhus"
           },
           "coords": [
             8.8525,
@@ -1103,7 +1200,8 @@
             "de": "Parken Sie zentral und beginnen Sie Ihren Rundgang am Hauptplatz.",
             "hu": "Parkoljon a központban, és kezdje a sétát a főtéren.",
             "ro": "Parcați central și începeți turul pietonal din piața principală.",
-            "en": "Park centrally and start your walking tour at the main square."
+            "en": "Park centrally and start your walking tour at the main square.",
+            "da": "Parkér centralt og start din gåtur fra hovedtorvet."
           }
         },
         {
@@ -1111,7 +1209,8 @@
             "de": "Uldgade & Drøhses Hus",
             "hu": "Uldgade és Drøhse-ház",
             "ro": "Uldgade și Casa Drøhse",
-            "en": "Uldgade & Drøhse's House"
+            "en": "Uldgade & Drøhse's House",
+            "da": "Uldgade & Drøhses Hus"
           },
           "coords": [
             8.8502,
@@ -1127,7 +1226,8 @@
             "de": "Ein kurzer Spaziergang vom Parkplatz zu den historischen Gassen.",
             "hu": "Rövid séta a parkolótól a történelmi sikátorokig.",
             "ro": "O scurtă plimbare de la parcare la aleile istorice.",
-            "en": "A short walk from the parking lot to the historic alleys."
+            "en": "A short walk from the parking lot to the historic alleys.",
+            "da": "En kort gåtur fra parkeringspladsen til de historiske gyder."
           }
         },
         {
@@ -1135,7 +1235,8 @@
             "de": "Kristkirken",
             "hu": "Krisztus-templom",
             "ro": "Biserica Kristkirken",
-            "en": "Christ Church (Kristkirken)"
+            "en": "Christ Church (Kristkirken)",
+            "da": "Christ Church (Kristkirken)"
           },
           "coords": [
             8.8545,
@@ -1151,7 +1252,8 @@
             "de": "Alles im Zentrum ist bequem zu Fuß erreichbar.",
             "hu": "A központban minden kényelmesen elérhető gyalog.",
             "ro": "Totul în centru este ușor accesibil pe jos.",
-            "en": "Everything in the center is easily accessible on foot."
+            "en": "Everything in the center is easily accessible on foot.",
+            "da": "Alt i centrum er let tilgængeligt til fods."
           }
         },
         {
@@ -1159,7 +1261,8 @@
             "de": "Schloss Schackenborg",
             "hu": "Schackenborg kastély",
             "ro": "Castelul Schackenborg",
-            "en": "Schackenborg Castle"
+            "en": "Schackenborg Castle",
+            "da": "Schackenborg Slot"
           },
           "coords": [
             8.803,
@@ -1175,7 +1278,8 @@
             "de": "Fahren Sie nach Møgeltønder und parken Sie in der Nähe des Schlosses. Mittagessen hier.",
             "hu": "Vezessen Møgeltønderbe, és parkoljon a kastély közelében. Itt ebédelhet.",
             "ro": "Conduceți la Møgeltønder și parcați lângă castel. Luați prânzul aici.",
-            "en": "Drive to Møgeltønder and park near the castle. Have lunch here."
+            "en": "Drive to Møgeltønder and park near the castle. Have lunch here.",
+            "da": "Kør til Møgeltønder og parkér nær slottet. Spis frokost her."
           }
         },
         {
@@ -1183,7 +1287,8 @@
             "de": "Slotsgaden, Møgeltønder",
             "hu": "Slotsgaden, Møgeltønder",
             "ro": "Slotsgaden, Møgeltønder",
-            "en": "Slotsgaden, Møgeltønder"
+            "en": "Slotsgaden, Møgeltønder",
+            "da": "Slotsgaden, Møgeltønder"
           },
           "coords": [
             8.8015,
@@ -1199,7 +1304,8 @@
             "de": "Spazieren Sie die 'schönste Dorfstraße Dänemarks' entlang.",
             "hu": "Sétáljon végig 'Dánia legszebb falusi utcáján'.",
             "ro": "Plimbați-vă pe 'cea mai frumoasă stradă de sat din Danemarca'.",
-            "en": "Stroll down 'Denmark's most beautiful village street'."
+            "en": "Stroll down 'Denmark's most beautiful village street'.",
+            "da": "Gå en tur ned ad 'Danmarks smukkeste landsbygade'."
           }
         },
         {
@@ -1207,7 +1313,8 @@
             "de": "Aussichtspunkt Tønder Marsch",
             "hu": "Kilátópont a Tønder Marsch-nál",
             "ro": "Punct de belvedere Mlaștina Tønder",
-            "en": "Tønder Marsh Viewpoint"
+            "en": "Tønder Marsh Viewpoint",
+            "da": "Udsigtspunkt over Tøndermarsken"
           },
           "coords": [
             8.82,
@@ -1223,7 +1330,8 @@
             "de": "Ein kurzer Halt, um die endlose Weite des Marschlandes zu überblicken.",
             "hu": "Rövid megálló, hogy áttekintse a lápvidék végtelen kiterjedését.",
             "ro": "O scurtă oprire pentru a admira întinderea nesfârșită a mlaștinii.",
-            "en": "A short stop to overlook the endless expanse of the marshland."
+            "en": "A short stop to overlook the endless expanse of the marshland.",
+            "da": "Et kort stop for at skue ud over marskens uendelige vidder."
           }
         },
         {
@@ -1231,7 +1339,8 @@
             "de": "Museumsviertel Tønder",
             "hu": "Tønderi Múzeumnegyed",
             "ro": "Cartierul Muzeelor din Tønder",
-            "en": "Tønder Museum Quarter"
+            "en": "Tønder Museum Quarter",
+            "da": "Tønder Museumsområde"
           },
           "coords": [
             8.8605,
@@ -1247,7 +1356,8 @@
             "de": "Parken Sie erneut und besuchen Sie das Kunst- und Kulturhistorische Museum.",
             "hu": "Parkoljon le újra, és látogassa meg a Művészeti és Kultúrtörténeti Múzeumot.",
             "ro": "Parcați din nou și vizitați Muzeul de Artă și Istorie Culturală.",
-            "en": "Park again and visit the Art and Cultural History Museum."
+            "en": "Park again and visit the Art and Cultural History Museum.",
+            "da": "Parkér igen og besøg Kunst- og Kulturhistorisk Museum."
           }
         }
       ],
@@ -1255,7 +1365,8 @@
         "de": "Beginnen Sie Ihren Tag mit einem Spaziergang durch das historische Zentrum von Tønder. Nach der Erkundung der charmanten Gassen fahren Sie zum prächtigen Schloss Schackenborg in Møgeltønder, wo Sie auch zu Mittag essen. Am Nachmittag erleben Sie die einzigartige Landschaft der Tønder Marsch, bevor Sie für einen tiefen Einblick in die Kunst und Geschichte der Region in das Museumsviertel von Tønder zurückkehren.",
         "hu": "Kezdje a napot egy sétával Tønder történelmi központjában. A bájos sikátorok felfedezése után hajtson el a csodálatos Schackenborg kastélyhoz Møgeltønderben, ahol ebédelni is fog. Délután megtapasztalhatja a Tønder Marsch egyedülálló táját, mielőtt visszatérne Tønder múzeumi negyedébe, hogy mély betekintést nyerjen a régió művészetébe és történelmébe.",
         "ro": "Începeți ziua cu o plimbare prin centrul istoric al orașului Tønder. După ce explorați aleile fermecătoare, conduceți la magnificul Castel Schackenborg din Møgeltønder, unde veți lua și prânzul. După-amiaza, experimentați peisajul unic al Mlaștinei Tønder înainte de a vă întoarce în cartierul muzeelor din Tønder pentru o incursiune profundă în arta și istoria regiunii.",
-        "en": "Start your day with a walk through the historic center of Tønder. After exploring the charming alleys, drive to the magnificent Schackenborg Castle in Møgeltønder, where you will also have lunch. In the afternoon, experience the unique landscape of the Tønder Marsh before returning to Tønder's museum quarter for a deep dive into the region's art and history."
+        "en": "Start your day with a walk through the historic center of Tønder. After exploring the charming alleys, drive to the magnificent Schackenborg Castle in Møgeltønder, where you will also have lunch. In the afternoon, experience the unique landscape of the Tønder Marsh before returning to Tønder's museum quarter for a deep dive into the region's art and history.",
+        "da": "Start dagen med en gåtur gennem Tønders historiske centrum. Efter at have udforsket de charmerende gyder kører du til det storslåede Schackenborg Slot i Møgeltønder, hvor du også spiser frokost. Om eftermiddagen oplever du det unikke landskab i Tøndermarsken, før du vender tilbage til Tønders museumsområde for at dykke ned i områdets kunst og historie."
       },
       "gastro_picks": {
         "de": [
@@ -1411,6 +1522,11 @@
           "Check the opening hours of Schackenborg Castle in advance.",
           "Parking is generally easy in Tønder, but pay attention to parking time restrictions.",
           "A car allows you to explore the more remote parts of the marsh."
+        ],
+        "da": [
+          "Tjek Schackenborg Slots åbningstider på forhånd.",
+          "Parkering er generelt nem i Tønder, men vær opmærksom på tidsbegrænsninger.",
+          "En bil giver dig mulighed for at udforske de mere afsides dele af marsken."
         ]
       },
       "variants": {
@@ -1419,7 +1535,8 @@
             "de": "Mit dem Auto ist Tønder bei Regen bequem zu erkunden. Wir parken zentral und besuchen das Rathaus und das Drøhse-Haus. Danach fahren wir zum prachtvollen Schloss Schackenborg in Møgeltønder, wo wir im Trockenen parken können. Den Nachmittag verbringen wir ausgiebig im Museumsquartier, während der Regen gegen die Scheiben trommelt.",
             "hu": "Autóval Tønder esőben is kényelmesen felfedezhető. Központilag parkolunk, meglátogatjuk a városházát és a Drøhse-házat. Ezután a pompás Schackenborg-kastélyhoz hajtunk Møgeltønderbe, ahol fedett helyen parkolhatunk. A délutánt a múzeumi negyedben töltjük, miközben az eső kopog az ablakokon.",
             "ro": "Cu mașina, Tønder este ușor de explorat pe ploaie. Parcăm central și vizităm primăria și Casa Drøhse. Apoi conducem spre splendidul castel Schackenborg din Møgeltønder, unde putem parca la adăpost. După-amiaza o petrecem în cartierul muzeelor, în timp ce ploaia bate în geamuri.",
-            "en": "By car, Tønder is easy to explore even in the rain. We park centrally and visit the town hall and Drøhse's House. Then we drive to the magnificent Schackenborg Castle in Møgeltønder, where sheltered parking is available. The afternoon is spent extensively in the museum quarter while the rain drums on the windows."
+            "en": "By car, Tønder is easy to explore even in the rain. We park centrally and visit the town hall and Drøhse's House. Then we drive to the magnificent Schackenborg Castle in Møgeltønder, where sheltered parking is available. The afternoon is spent extensively in the museum quarter while the rain drums on the windows.",
+            "da": "Med bil er Tønder let at udforske selv i regnvejr. Vi parkerer centralt og besøger rådhuset og Drøhses Hus. Derefter kører vi til det storslåede Schackenborg Slot i Møgeltønder, hvor der er overdækket parkering. Eftermiddagen tilbringes i museumsområdet, mens regnen trommer mod vinduerne."
           },
           "stops": [
             {
@@ -1428,7 +1545,8 @@
                 "de": "Nutzen Sie Parkplätze nahe am Eingang, um nicht nass zu werden.",
                 "hu": "Használja a bejárathoz közeli parkolókat, hogy ne ázzon meg.",
                 "ro": "Folosiți parcările apropiate de intrare pentru a nu vă uda.",
-                "en": "Use parking spaces close to the entrance to avoid getting wet."
+                "en": "Use parking spaces close to the entrance to avoid getting wet.",
+                "da": "Brug parkeringspladser tæt på indgangen for at undgå at blive våd."
               }
             },
             {
@@ -1437,7 +1555,8 @@
                 "de": "In der Nähe gibt es Parkplätze mit kurzem Fußweg.",
                 "hu": "A közelben rövid sétával elérhető parkolók vannak.",
                 "ro": "Există parcări în apropiere cu acces pietonal scurt.",
-                "en": "There are parking spots nearby with a short walk."
+                "en": "There are parking spots nearby with a short walk.",
+                "da": "Der er parkeringspladser i nærheden med kort gåafstand."
               }
             },
             {
@@ -1446,7 +1565,8 @@
                 "de": "Parken Sie direkt an der Kirche für schnellen Zugang.",
                 "hu": "Parkoljon közvetlenül a templomnál a gyors bejutáshoz.",
                 "ro": "Parcați direct lângă biserică pentru acces rapid.",
-                "en": "Park right by the church for quick access."
+                "en": "Park right by the church for quick access.",
+                "da": "Parkér lige ved kirken for hurtig adgang."
               }
             },
             {
@@ -1455,7 +1575,8 @@
                 "de": "Der Parkplatz ist gut befestigt, keine Matschgefahr.",
                 "hu": "A parkoló jól burkolt, nincs sárveszély.",
                 "ro": "Parcarea este bine amenajată, nu există risc de noroi.",
-                "en": "The parking lot is well-paved, no risk of mud."
+                "en": "The parking lot is well-paved, no risk of mud.",
+                "da": "Parkeringspladsen er velbelagt, ingen risiko for mudder."
               }
             },
             {
@@ -1464,7 +1585,8 @@
                 "de": "Vom Auto aus hat man einen guten Blick auf die Häuserzeilen.",
                 "hu": "Az autóból is jó kilátás nyílik a házsorokra.",
                 "ro": "Din mașină aveți o vedere bună asupra șirului de case.",
-                "en": "You have a good view of the house rows from the car."
+                "en": "You have a good view of the house rows from the car.",
+                "da": "Du har et godt udsyn til husrækkernes facader fra bilen."
               }
             },
             {
@@ -1473,7 +1595,8 @@
                 "de": "Bleiben Sie bei starkem Regen für den Ausblick im Wagen.",
                 "hu": "Erős esőben maradjon az autóban a kilátáshoz.",
                 "ro": "Rămâneți în mașină pentru priveliște dacă plouă tare.",
-                "en": "Stay in the car for the view if the rain is heavy."
+                "en": "Stay in the car for the view if the rain is heavy.",
+                "da": "Bliv i bilen for udsigten, hvis regnen er kraftig."
               }
             },
             {
@@ -1482,7 +1605,8 @@
                 "de": "Großer Parkplatz direkt vor dem Museumseingang.",
                 "hu": "Nagy parkoló közvetlenül a múzeum bejárata előtt.",
                 "ro": "Parcare mare direct în fața intrării muzeului.",
-                "en": "Large parking lot directly in front of the museum entrance."
+                "en": "Large parking lot directly in front of the museum entrance.",
+                "da": "Stor parkeringsplads direkte foran museets indgang."
               }
             }
           ],
@@ -1510,6 +1634,12 @@
               "Watch out for aquaplaning on marsh roads.",
               "Parking fees can often be paid via app to avoid machines in the rain.",
               "Window heating helps against fogging with wet clothing."
+            ],
+            "da": [
+              "Hav paraplyer lige ved hånden i bilen.",
+              "Pas på aquaplaning på marskvejene.",
+              "Parkeringsafgifter kan ofte betales via app for at undgå automater i regnen.",
+              "Varmedækning af ruder hjælper mod dug ved våde klæder."
             ]
           }
         },
@@ -1518,7 +1648,8 @@
             "de": "Die Autotour durch das winterliche Tønder ist stimmungsvoll und warm. Nach dem Start im Weihnachts-Zentrum fahren wir zur Christuskirche. Die Weiterfahrt nach Møgeltønder zeigt die weite, frostige Marschlandschaft. Ein Besuch im Schloss Schackenborg und ein ausgiebiger Nachmittag in den geheizten Museen runden den Tag ab.",
             "hu": "Az autós túra a téli Tønderben hangulatos és meleg. A karácsonyi központból indulva a Krisztus-templomhoz hajtunk. A Møgeltønder felé vezető út a tágas, fagyos mocsárvidéket mutatja be. A Schackenborg-kastély meglátogatása és egy hosszú délután a fűtött múzeumokban teszi teljessé a napot.",
             "ro": "Turul cu mașina prin Tønder iarna este plin de atmosferă și călduros. După startul în centrul de Crăciun, conducem spre Biserica lui Hristos. Drumul spre Møgeltønder arată peisajul vast și înghețat al mlaștinii. O vizită la castelul Schackenborg și o după-amiază lungă în muzeele încălzite completează ziua.",
-            "en": "A car tour through winter Tønder is atmospheric and warm. After starting in the Christmas-themed center, we drive to Christ Church. The drive to Møgeltønder reveals the vast, frosty marsh landscape. A visit to Schackenborg Castle and a long afternoon in the heated museums round off the day."
+            "en": "A car tour through winter Tønder is atmospheric and warm. After starting in the Christmas-themed center, we drive to Christ Church. The drive to Møgeltønder reveals the vast, frosty marsh landscape. A visit to Schackenborg Castle and a long afternoon in the heated museums round off the day.",
+            "da": "En biltur gennem vinterens Tønder er stemningsfuld og varm. Efter at være startet i det julede centrum kører vi til Kristkirken. Turen til Møgeltønder afslører det store, rimdækkede marskområde. Et besøg på Schackenborg Slot og en lang eftermiddag i de opvarmede museer runder dagen af."
           },
           "stops": [
             {
@@ -1527,7 +1658,8 @@
                 "de": "Parkplätze im Winter oft schnell belegt wegen des Marktes.",
                 "hu": "Télen a parkolók gyorsan megtelnek a vásár miatt.",
                 "ro": "Parcările se ocupă repede iarna din cauza târgului.",
-                "en": "Parking spots fill up quickly in winter due to the market."
+                "en": "Parking spots fill up quickly in winter due to the market.",
+                "da": "Parkeringspladser fyldes hurtigt om vinteren på grund af markedet."
               }
             },
             {
@@ -1536,7 +1668,8 @@
                 "de": "Gehen Sie vorsichtig auf den evtl. glatten Gehwegen.",
                 "hu": "Óvatosan járjon az esetlegesen csúszós járdákon.",
                 "ro": "Mergeți cu atenție pe trotuarele care pot fi alunecoase.",
-                "en": "Walk carefully on potentially slippery sidewalks."
+                "en": "Walk carefully on potentially slippery sidewalks.",
+                "da": "Gå forsigtigt på potentielt glatte fortove."
               }
             },
             {
@@ -1545,7 +1678,8 @@
                 "de": "Kurzer Fußweg vom Parkplatz, mütze aufsetzen.",
                 "hu": "Rövid séta a parkolótól, vegyen fel sapkát.",
                 "ro": "Drum scurt de la parcare, puneți-vă căciula.",
-                "en": "Short walk from the parking lot; put on your hat."
+                "en": "Short walk from the parking lot; put on your hat.",
+                "da": "Kort gåtur fra parkeringspladsen; tag din hue på."
               }
             },
             {
@@ -1554,7 +1688,8 @@
                 "de": "Achten Sie auf Winterdienst-Fahrzeuge in der Schlosszufahrt.",
                 "hu": "Ügyeljen a hókotrókra a kastély bejáratánál.",
                 "ro": "Atenție la utilajele de deszăpezire la intrarea castelului.",
-                "en": "Watch out for snow removal vehicles at the castle entrance."
+                "en": "Watch out for snow removal vehicles at the castle entrance.",
+                "da": "Hold øje med snerydningskøretøjer ved slotsindgangen."
               }
             },
             {
@@ -1563,7 +1698,8 @@
                 "de": "Die beleuchteten Fenster der Reetdachhäuser sind wunderschön.",
                 "hu": "A nádtetős házak kivilágított ablakai gyönyörűek.",
                 "ro": "Ferestrele luminate ale caselor cu stuf sunt superbe.",
-                "en": "The lit windows of the thatched-roof houses are beautiful."
+                "en": "The lit windows of the thatched-roof houses are beautiful.",
+                "da": "De oplyste vinduer i de stråtækte huse er smukke."
               }
             },
             {
@@ -1572,7 +1708,8 @@
                 "de": "Bei Eiswind ist der Blick aus dem warmen Auto am besten.",
                 "hu": "Jeges szélben a meleg autóból a legjobb a kilátás.",
                 "ro": "Pe vânt înghețat, vederea din mașina caldă e cea mai bună.",
-                "en": "In icy winds, the view from the warm car is best."
+                "en": "In icy winds, the view from the warm car is best.",
+                "da": "I iskolde vinde er udsigten bedst fra den varme bil."
               }
             },
             {
@@ -1581,7 +1718,8 @@
                 "de": "Gönnen Sie sich eine Kaffeepause im warmen Museumscafé.",
                 "hu": "Igyon egy kávét a meleg múzeumi kávézóban.",
                 "ro": "Savurați o cafea în cafeneaua caldă a muzeului.",
-                "en": "Treat yourself to a coffee in the warm museum cafe."
+                "en": "Treat yourself to a coffee in the warm museum cafe.",
+                "da": "Forkæl dig selv med en cafékaffe i det varme museumscafé."
               }
             }
           ],
@@ -1609,6 +1747,12 @@
               "Keep de-icer and an ice scraper handy.",
               "Country roads in the marsh can quickly drift with snow.",
               "Use seat heating after spending longer periods outside."
+            ],
+            "da": [
+              "Vinterdæk anbefales kraftigt i Danmark ved frost.",
+              "Hav aviservæske og isskraber ved hånden.",
+              "Landveje i marsken kan hurtigt blive drivdækkede af sne.",
+              "Brug sædevarme efter længere ophold udendørs."
             ]
           }
         }
@@ -1627,7 +1771,8 @@
             "de": "Ankunft am Busbahnhof Tønder",
             "hu": "Érkezés a tønderi buszpályaudvarra",
             "ro": "Sosire la autogara din Tønder",
-            "en": "Arrival at Tønder Bus Station"
+            "en": "Arrival at Tønder Bus Station",
+            "da": "Ankomst ved Tønder Busterminal"
           },
           "coords": [
             8.863,
@@ -1643,7 +1788,8 @@
             "de": "Starten Sie Ihren Tag hier und orientieren Sie sich an den lokalen Buslinien.",
             "hu": "Kezdje itt a napot, és tájékozódjon a helyi buszjáratokról.",
             "ro": "Începeți ziua aici și orientați-vă cu ajutorul liniilor de autobuz locale.",
-            "en": "Start your day here and get your bearings with the local bus lines."
+            "en": "Start your day here and get your bearings with the local bus lines.",
+            "da": "Start din dag her og få orientering med de lokale buslinjer."
           }
         },
         {
@@ -1651,7 +1797,8 @@
             "de": "Kunstmuseet & Kulturhistorie Tønder",
             "hu": "Művészeti és Kultúrtörténeti Múzeum",
             "ro": "Muzeul de Artă și Istorie Culturală",
-            "en": "Art Museum & Museum of Cultural History"
+            "en": "Art Museum & Museum of Cultural History",
+            "da": "Kunstmuseum & Kulturhistorisk Museum"
           },
           "coords": [
             8.861,
@@ -1667,7 +1814,8 @@
             "de": "Dieses Cluster liegt in Gehweite des Busbahnhofs.",
             "hu": "Ez a látnivaló-csoport sétatávolságra van a buszpályaudvartól.",
             "ro": "Acest grup de atracții este la câțiva pași de autogară.",
-            "en": "This cluster is within walking distance of the bus station."
+            "en": "This cluster is within walking distance of the bus station.",
+            "da": "Denne klynge ligger inden for gåafstand af busterminalen."
           }
         },
         {
@@ -1675,7 +1823,8 @@
             "de": "Fahrt ins Stadtzentrum",
             "hu": "Utazás a városközpontba",
             "ro": "Călătorie spre centrul orașului",
-            "en": "Trip to the City Center"
+            "en": "Trip to the City Center",
+            "da": "Turen til bymidten"
           },
           "coords": [
             8.8511,
@@ -1691,7 +1840,8 @@
             "de": "Nehmen Sie einen lokalen Bus zum Hauptplatz (Torvet).",
             "hu": "Menjen helyi busszal a főtérre (Torvet).",
             "ro": "Luați un autobuz local spre piața principală (Torvet).",
-            "en": "Take a local bus to the main square (Torvet)."
+            "en": "Take a local bus to the main square (Torvet).",
+            "da": "Tag en lokalbus til hovedpladsen (Torvet)."
           }
         },
         {
@@ -1699,7 +1849,8 @@
             "de": "Altes Rathaus & Mittagessen",
             "hu": "Régi Városháza és ebéd",
             "ro": "Vechea Primărie și prânz",
-            "en": "Old Town Hall & Lunch"
+            "en": "Old Town Hall & Lunch",
+            "da": "Det gamle rådhus & Frokost"
           },
           "coords": [
             8.8515,
@@ -1715,7 +1866,8 @@
             "de": "Erkunden Sie den Platz und suchen Sie sich ein schönes Restaurant.",
             "hu": "Fedezze fel a teret, és keressen egy szép éttermet.",
             "ro": "Explorați piața și găsiți un restaurant drăguț.",
-            "en": "Explore the square and find a nice restaurant."
+            "en": "Explore the square and find a nice restaurant.",
+            "da": "Udforsk torvet og find en hyggelig restaurant."
           }
         },
         {
@@ -1723,7 +1875,8 @@
             "de": "Uldgade & Drøhses Hus",
             "hu": "Uldgade és Drøhse-ház",
             "ro": "Uldgade și Casa Drøhse",
-            "en": "Uldgade & Drøhse's House"
+            "en": "Uldgade & Drøhse's House",
+            "da": "Uldgade & Drøhses Hus"
           },
           "coords": [
             8.8502,
@@ -1739,7 +1892,8 @@
             "de": "Tauchen Sie ein in die Atmosphäre der am besten erhaltenen Straßen.",
             "hu": "Merüljön el a legjobban megőrzött utcák hangulatában.",
             "ro": "Lăsați-vă captivat de atmosfera celor mai bine conservate străzi.",
-            "en": "Immerse yourself in the atmosphere of the best-preserved streets."
+            "en": "Immerse yourself in the atmosphere of the best-preserved streets.",
+            "da": "Fordyb dig i stemningen på de bedst bevarede gader."
           }
         },
         {
@@ -1747,7 +1901,8 @@
             "de": "Kristkirken",
             "hu": "Krisztus-templom",
             "ro": "Biserica Kristkirken",
-            "en": "Christ Church (Kristkirken)"
+            "en": "Christ Church (Kristkirken)",
+            "da": "Christ Church (Kristkirken)"
           },
           "coords": [
             8.8545,
@@ -1763,7 +1918,8 @@
             "de": "Ein kurzer Spaziergang durch die Altstadt führt Sie zu dieser Kirche.",
             "hu": "Rövid séta az óvároson keresztül vezet ehhez a templomhoz.",
             "ro": "O scurtă plimbare prin orașul vechi vă duce la această biserică.",
-            "en": "A short walk through the old town leads you to this church."
+            "en": "A short walk through the old town leads you to this church.",
+            "da": "En kort gåtur gennem den gamle by fører dig til denne kirke."
           }
         }
       ],
@@ -1771,7 +1927,8 @@
         "de": "Ihre Tour beginnt am Busbahnhof, von wo aus Sie bequem zu Fuß das Museumsviertel erreichen. Verbringen Sie den Morgen mit Kunst und Geschichte, bevor Sie mit dem Bus ins Herz der Altstadt fahren. Nach dem Mittagessen erkunden Sie zu Fuß die historischen Gassen und die Kristkirken. Der Nachmittag bietet reichlich Zeit, das charmante Zentrum zu entdecken, bevor Sie den Bus zurück nehmen.",
         "hu": "A túra a buszpályaudvarról indul, ahonnan kényelmesen, gyalogosan elérhető a múzeumi negyed. Töltse a délelőttöt művészettel és történelemmel, mielőtt busszal az óváros szívébe utazik. Ebéd után gyalogosan fedezze fel a történelmi sikátorokat és a Kristkirken-t. A délután bőséges időt kínál a bájos központ felfedezésére, mielőtt visszautazna a busszal.",
         "ro": "Turul începe de la autogară, de unde puteți ajunge cu ușurință pe jos în cartierul muzeelor. Petreceți dimineața cu artă și istorie înainte de a lua autobuzul spre inima orașului vechi. După prânz, explorați pe jos aleile istorice și Biserica Kristkirken. După-amiaza oferă suficient timp pentru a descoperi centrul fermecător înainte de a lua autobuzul înapoi.",
-        "en": "Your tour begins at the bus station, from where you can easily walk to the museum quarter. Spend the morning with art and history before taking a bus to the heart of the old town. After lunch, explore the historic alleys and Kristkirken on foot. The afternoon offers ample time to discover the charming center before taking the bus back."
+        "en": "Your tour begins at the bus station, from where you can easily walk to the museum quarter. Spend the morning with art and history before taking a bus to the heart of the old town. After lunch, explore the historic alleys and Kristkirken on foot. The afternoon offers ample time to discover the charming center before taking the bus back.",
+        "da": "Din rundtur begynder ved busterminalen, hvorfra du nemt kan gå til museumsområdet. Tilbring formiddagen med kunst og historie, før du tager en bus til hjertet af den gamle by. Efter frokost udforsker du de historiske gyder og Kristkirken til fods. Eftermiddagen byder på god tid til at opdage det charmerende centrum, inden du tager bussen tilbage."
       },
       "gastro_picks": {
         "de": [
@@ -1931,6 +2088,12 @@
           "Bus schedules are available at the bus station and online.",
           "Tønder is small enough to explore a lot on foot without a bus, but the bus conveniently connects the outer sights.",
           "Most buses are wheelchair accessible."
+        ],
+        "da": [
+          "Køb en dagsbillet til bussen, hvis du planlægger flere ture.",
+          "Busplaner fås på busterminalen og online.",
+          "Tønder er lille nok til at udforske meget til fods uden bus, men bussen forbinder praktisk de ydre seværdigheder.",
+          "De fleste busser er kørestolsvenlige."
         ]
       },
       "variants": {
@@ -1939,7 +2102,8 @@
             "de": "Tønder mit Bus und Bahn ist bei Regen eine gute Wahl. Von der Station aus geht es direkt ins Museumsquartier. Der Weg ins Zentrum ist kurz, dort laden das Rathaus und das Drøhse-Haus zum Besuch ein. Ein warmes Mittagessen und die Christuskirche lassen den Regen vergessen, bevor man trocken die Heimreise antritt.",
             "hu": "A busszal és vonattal történő közlekedés Tønderben jó választás esőben. Az állomástól közvetlenül a múzeumi negyedbe megyünk. A központba vezető út rövid, ott a városháza és a Drøhse-ház várja a látogatókat. Egy meleg ebéd és a Krisztus-templom elfeledteti az esőt a hazautazás előtt.",
             "ro": "Transportul cu autobuzul și trenul în Tønder este o alegere bună pe ploaie. De la stație mergem direct în cartierul muzeelor. Drumul spre centru este scurt, unde primăria și Casa Drøhse își așteaptă vizitatorii. Un prânz cald și Biserica lui Hristos ne fac să uităm de ploaie înainte de plecare.",
-            "en": "Taking the bus and train in Tønder is a good choice in the rain. From the station, we head straight to the museum quarter. The walk to the center is short, where the town hall and Drøhse's House welcome visitors. A warm lunch and Christ Church help you forget the rain before your dry journey home."
+            "en": "Taking the bus and train in Tønder is a good choice in the rain. From the station, we head straight to the museum quarter. The walk to the center is short, where the town hall and Drøhse's House welcome visitors. A warm lunch and Christ Church help you forget the rain before your dry journey home.",
+            "da": "At tage bus og tog i Tønder er et godt valg i regnvejr. Fra stationen går vi direkte til museumsområdet. Gåturen til centrum er kort, hvor rådhuset og Drøhses Hus byder velkommen. En varm frokost og Kristkirken får dig til at glemme regnen, før du tager hjem på en tør rejse."
           },
           "stops": [
             {
@@ -1948,7 +2112,8 @@
                 "de": "Warten Sie im überdachten Bereich auf den Anschluss.",
                 "hu": "Várjon a fedett részen a csatlakozásra.",
                 "ro": "Așteptați în zona acoperită pentru legătură.",
-                "en": "Wait in the sheltered area for your connection."
+                "en": "Wait in the sheltered area for your connection.",
+                "da": "Vent i det overdækkede område på din forbindelse."
               }
             },
             {
@@ -1957,7 +2122,8 @@
                 "de": "Nur 5 Min. Fußweg von der Haltestelle, kaum Regenrisiko.",
                 "hu": "Csak 5 perc séta a megállótól, minimális eső-kockázat.",
                 "ro": "Doar 5 minute de mers de la stație, risc minim de ploaie.",
-                "en": "Only a 5-minute walk from the stop, minimal rain risk."
+                "en": "Only a 5-minute walk from the stop, minimal rain risk.",
+                "da": "Kun 5 minutter til fods fra stoppestedet, minimal risiko for regn."
               }
             },
             {
@@ -1966,7 +2132,8 @@
                 "de": "Nutzen Sie den Bus, um trocken ins Zentrum zu kommen.",
                 "hu": "Használja a buszt, hogy szárazon jusson a központba.",
                 "ro": "Folosiți autobuzul pentru a ajunge uscat în centru.",
-                "en": "Use the bus to get to the center dry."
+                "en": "Use the bus to get to the center dry.",
+                "da": "Brug bussen for at komme tørt til centrum."
               }
             },
             {
@@ -1975,7 +2142,8 @@
                 "de": "Zentrale Restaurants sind in unmittelbarer Nähe.",
                 "hu": "A központi éttermek közvetlen közelben vannak.",
                 "ro": "Restaurantele centrale sunt în imediata apropiere.",
-                "en": "Central restaurants are in the immediate vicinity."
+                "en": "Central restaurants are in the immediate vicinity.",
+                "da": "Centrale restauranter ligger i umiddelbar nærhed."
               }
             },
             {
@@ -1984,7 +2152,8 @@
                 "de": "Kurze Gassen halten den Wind etwas ab.",
                 "hu": "A rövid utcák valamelyest felfogják a szelet.",
                 "ro": "Străzile scurte blochează puțin vântul.",
-                "en": "Short alleys block the wind somewhat."
+                "en": "Short alleys block the wind somewhat.",
+                "da": "Korte gyder blokerer vinden en smule."
               }
             },
             {
@@ -1993,7 +2162,8 @@
                 "de": "Prüfen Sie die Abfahrtszeiten per App im Inneren.",
                 "hu": "Ellenőrizze az indulási időket appon belülről.",
                 "ro": "Verificați orele de plecare pe aplicație din interior.",
-                "en": "Check departure times via app while inside."
+                "en": "Check departure times via app while inside.",
+                "da": "Tjek afgangstider via app, mens du er indenfor."
               }
             }
           ],
@@ -2021,6 +2191,12 @@
               "Stations have waiting rooms; use them during rain showers.",
               "Buses in the center stop quite close to the sights.",
               "A day ticket is often worth it for short hops between stops."
+            ],
+            "da": [
+              "Brug appen 'Rejseplanen' til realtidsinformation.",
+              "Stationer har venteværelser; brug dem ved regnbyger.",
+              "Busser i centrum standser tæt på seværdighederne.",
+              "En dagsbillet er ofte umagen værd til korte hop mellem stoppesteder."
             ]
           }
         },
@@ -2029,7 +2205,8 @@
             "de": "Der Transit-Trip ins winterliche Tønder ist komfortabel. Von der warmen Bahnstation erreichen wir schnell die Museen. Der Weg ins beleuchtete Zentrum führt an festlichen Schaufenstern vorbei zum Rathaus. Ein heißer Tee im Café und ein Besuch der Christuskirche wärmen auf, bevor es mit dem Bus oder Zug zurück geht.",
             "hu": "A tömegközlekedés a téli Tønderbe kényelmes megoldás. A meleg vasútállomástól gyorsan elérjük a múzeumokat. Az út a kivilágított központba ünnepi kirakatok mellett vezet a városházáig. Egy forró tea a kávézóban és a Krisztus-templom felmelegít a hazaút előtt.",
             "ro": "Călătoria cu transportul public în Tønder iarna este confortabilă. De la gara călduroasă ajungem rapid la muzee. Drumul spre centrul luminat trece pe lângă vitrine festive până la primărie. Un ceai fierbinte la cafenea și o vizită la Biserica lui Hristos ne încălzesc înainte de plecare.",
-            "en": "A transit trip to winter Tønder is comfortable. From the warm train station, we quickly reach the museums. The walk to the lit center passes festive shop windows on the way to the town hall. A hot tea in a cafe and a visit to Christ Church warm you up before heading back by bus or train."
+            "en": "A transit trip to winter Tønder is comfortable. From the warm train station, we quickly reach the museums. The walk to the lit center passes festive shop windows on the way to the town hall. A hot tea in a cafe and a visit to Christ Church warm you up before heading back by bus or train.",
+            "da": "En kollektiv rejse til vinterens Tønder er komfortabel. Fra den varme stationsbygning når vi hurtigt museerne. Gåturen til det oplyste centrum passerer festlige butiksvinduer på vej til rådhuset. En varm te på en café og et besøg i Kristkirken varmer, før du tager tilbage med bus eller tog."
           },
           "stops": [
             {
@@ -2038,7 +2215,8 @@
                 "de": "Der Warteraum ist im Winter beheizt.",
                 "hu": "A váróterem télen fűtött.",
                 "ro": "Sala de așteptare este încălzită iarna.",
-                "en": "The waiting room is heated in winter."
+                "en": "The waiting room is heated in winter.",
+                "da": "Venteværelset er opvarmet om vinteren."
               }
             },
             {
@@ -2047,7 +2225,8 @@
                 "de": "Geben Sie schwere Wintermäntel an der Garderobe ab.",
                 "hu": "Adja le a nehéz téli kabátokat a ruhatárban.",
                 "ro": "Lăsați hainele groase de iarnă la garderobă.",
-                "en": "Leave heavy winter coats at the cloakroom."
+                "en": "Leave heavy winter coats at the cloakroom.",
+                "da": "Læg tunge vinterfrakker i garderoben."
               }
             },
             {
@@ -2056,7 +2235,8 @@
                 "de": "Busse sind im Winter zuverlässig geheizt.",
                 "hu": "A buszok télen megbízhatóan fűtöttek.",
                 "ro": "Autobuzele sunt încălzite corespunzător iarna.",
-                "en": "Buses are reliably heated in winter."
+                "en": "Buses are reliably heated in winter.",
+                "da": "Busser er pålideligt opvarmede om vinteren."
               }
             },
             {
@@ -2065,7 +2245,8 @@
                 "de": "Der Marktplatz ist beleuchtet und sehr sicher.",
                 "hu": "A főtér ki van világítva és nagyon biztonságos.",
                 "ro": "Piața centrală este iluminată și foarte sigură.",
-                "en": "The market square is well-lit and very safe."
+                "en": "The market square is well-lit and very safe.",
+                "da": "Markedspladsen er veloplyst og meget sikker."
               }
             },
             {
@@ -2074,7 +2255,8 @@
                 "de": "Ein kurzer Spaziergang, der bei Frost gut machbar ist.",
                 "hu": "Rövid séta, ami fagyban is jól bírható.",
                 "ro": "O plimbare scurtă, ușor de făcut pe ger.",
-                "en": "A short walk that is manageable even in the frost."
+                "en": "A short walk that is manageable even in the frost.",
+                "da": "En kort gåtur, der er overkommelig selv i frostvejr."
               }
             },
             {
@@ -2083,7 +2265,8 @@
                 "de": "In der Nähe hält der Bus für den Rückweg zum Bahnhof.",
                 "hu": "A közelben áll meg a busz a pályaudvar felé.",
                 "ro": "Autobuzul spre gară oprește în apropiere.",
-                "en": "The bus back to the station stops nearby."
+                "en": "The bus back to the station stops nearby.",
+                "da": "Bussen tilbage til stationen stopper i nærheden."
               }
             }
           ],
@@ -2111,6 +2294,12 @@
               "Trains often offer Wi-Fi for planning your next steps.",
               "Wait inside the station building instead of out on the platform.",
               "Darkness sets in early; all stations are well-lit."
+            ],
+            "da": [
+              "Planlæg ekstra tid i tilfælde af, at sne forsinker køreplanerne.",
+              "Tog tilbyder ofte Wi-Fi til planlægning af næste skridt.",
+              "Vent indenfor stationsbygningen i stedet for ude på perronen.",
+              "Mørket falder tidligt på; alle stationer er veloplyste."
             ]
           }
         }

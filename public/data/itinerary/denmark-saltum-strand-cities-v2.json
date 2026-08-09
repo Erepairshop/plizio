@@ -21,7 +21,8 @@
             "de": "Saltum Kirke",
             "hu": "Saltum Kirke",
             "ro": "Saltum Kirke",
-            "en": "Saltum Kirke"
+            "en": "Saltum Kirke",
+            "da": "Saltum Kirke"
           },
           "coords": [
             9.695455,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die schlichte, aber würdevolle Architektur dieser alten Kirche, während Sie die ruhige Atmosphäre genießen und den historischen Friedhof erkunden.",
             "hu": "Csodálja meg a régi templom letisztult, méltóságteljes építészetét, miközben elmerül a békés hangulatban és felfedezi a történelmi temetőt.",
             "ro": "Admirați arhitectura simplă, dar demnă a acestei vechi biserici, în timp ce vă bucurați de atmosfera pașnică și explorați cimitirul istoric.",
-            "en": "Admire the simple but dignified architecture of this old church while enjoying the peaceful atmosphere and exploring the historic cemetery."
+            "en": "Admire the simple but dignified architecture of this old church while enjoying the peaceful atmosphere and exploring the historic cemetery.",
+            "da": "Beundr den enkle men værdige arkitektur i denne gamle kirke, nyd den fredelige atmosfære og udforsk den historiske kirkegård."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Tinghøj",
             "hu": "Tinghøj",
             "ro": "Tinghøj",
-            "en": "Tinghøj"
+            "en": "Tinghøj",
+            "da": "Tinghøj"
           },
           "coords": [
             9.693366,
@@ -59,7 +62,8 @@
             "de": "Besteigen Sie diesen bemerkenswerten historischen Grabhügel, um mehr über die Vorgeschichte der Region zu erfahren und die herrliche Aussicht auf die umliegende Landschaft zu genießen.",
             "hu": "Mássza meg ezt a figyelemre méltó történelmi sírhalmot, hogy többet tudjon meg a régió őstörténetéről, és élvezze a környező tájra nyíló csodálatos kilátást.",
             "ro": "Urcați pe acest remarcabil tumul funerar istoric pentru a afla mai multe despre preistoria regiunii și pentru a vă bucura de priveliștile minunate ale peisajului înconjurător.",
-            "en": "Climb this remarkable historic burial mound to learn more about the region's prehistory and enjoy the magnificent views of the surrounding landscape."
+            "en": "Climb this remarkable historic burial mound to learn more about the region's prehistory and enjoy the magnificent views of the surrounding landscape.",
+            "da": "Bestig denne bemærkelsesværdige gravhøj for at lære mere om områdets forhistorie og nyd den storslåede udsigt over landskabet."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Danmarks mindste museum der aldrig har åben",
             "hu": "Danmarks mindste museum der aldrig har åben",
             "ro": "Danmarks mindste museum der aldrig har åben",
-            "en": "Danmarks mindste museum der aldrig har åben"
+            "en": "Danmarks mindste museum der aldrig har åben",
+            "da": "Danmarks mindste museum der aldrig har åben"
           },
           "coords": [
             9.699192,
@@ -82,7 +87,8 @@
             "de": "Schmunzeln Sie über das Konzept von Dänemarks kleinstem Museum, das nie geöffnet hat, und machen Sie ein Erinnerungsfoto von dieser kuriosen und charmanten lokalen Sehenswürdigkeit.",
             "hu": "Mosolyogjon Dánia legkisebb, sosem nyitva tartó múzeumának koncepcióján, és készítsen egy emlékezetes fotót erről a furcsa és bájos helyi látványosságról.",
             "ro": "Zâmbiți la conceptul celui mai mic muzeu din Danemarca, care nu este niciodată deschis, și faceți o fotografie suvenir a acestei atracții locale curioase și fermecătoare.",
-            "en": "Chuckle at the concept of Denmark's smallest museum that is never open, and snap a souvenir photo of this quirky and charming local attraction."
+            "en": "Chuckle at the concept of Denmark's smallest museum that is never open, and snap a souvenir photo of this quirky and charming local attraction.",
+            "da": "Smil over konceptet med Danmarks mindste museum, der aldrig har åbent, og tag et suveræn-souvenirfoto af denne finurlige og charmerende lokale attraktion."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Galleri Omegalfa",
             "hu": "Galleri Omegalfa",
             "ro": "Galleri Omegalfa",
-            "en": "Galleri Omegalfa"
+            "en": "Galleri Omegalfa",
+            "da": "Galleri Omegalfa"
           },
           "coords": [
             9.698345,
@@ -105,7 +112,8 @@
             "de": "Entdecken Sie in dieser einzigartigen Galerie faszinierende zeitgenössische Kunstwerke und nehmen Sie sich Zeit, um die kreativen Details in einem ruhigen Umfeld zu betrachten.",
             "hu": "Fedezze fel a lenyűgöző kortárs műalkotásokat ebben az egyedülálló galériában, és szánjon időt arra, hogy nyugodt környezetben megvizsgálja a kreatív részleteket.",
             "ro": "Descoperiți opere de artă contemporană fascinante în această galerie unică și luați-vă timp pentru a privi detaliile creative într-un mediu liniștit.",
-            "en": "Discover fascinating contemporary artworks in this unique gallery, taking your time to view the creative details in a tranquil environment."
+            "en": "Discover fascinating contemporary artworks in this unique gallery, taking your time to view the creative details in a tranquil environment.",
+            "da": "Opdag fascinerende samtidskunst i dette unikke galleri, tag dig god tid til at se de kreative detaljer i en rolig atmosfære."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Galleri",
             "hu": "Galleri",
             "ro": "Galleri",
-            "en": "Galleri"
+            "en": "Galleri",
+            "da": "Galleri"
           },
           "coords": [
             9.697537,
@@ -128,7 +137,8 @@
             "de": "Lassen Sie sich von den wechselnden Ausstellungen lokaler Künstler inspirieren und stöbern Sie nach einem handgemachten Souvenir als Erinnerung an Ihren Besuch.",
             "hu": "Merítsen ihletet a helyi művészek változó kiállításaiból, és keressen egy kézzel készített szuvenírt látogatásának emlékére.",
             "ro": "Lăsați-vă inspirați de expozițiile în schimbare ale artiștilor locali și căutați un suvenir realizat manual pentru a vă aminti de vizita dumneavoastră.",
-            "en": "Be inspired by the changing exhibitions of local artists and browse for a handmade souvenir to remember your visit."
+            "en": "Be inspired by the changing exhibitions of local artists and browse for a handmade souvenir to remember your visit.",
+            "da": "Bliv inspireret af skiftende udstillinger af lokale kunstnere og kig efter et håndlavet souvenir til at mindes dit besøg."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Egnssamlingen",
             "hu": "Egnssamlingen",
             "ro": "Egnssamlingen",
-            "en": "Egnssamlingen"
+            "en": "Egnssamlingen",
+            "da": "Egnssamlingen"
           },
           "coords": [
             9.696425,
@@ -151,7 +162,8 @@
             "de": "Tauchen Sie in diesem heimatgeschichtlichen Museum in das ländliche Leben vergangener Jahrhunderte ein und beachten Sie besonders die gut erhaltenen landwirtschaftlichen Werkzeuge.",
             "hu": "Merüljön el az elmúlt évszázadok vidéki életében ebben a helytörténeti múzeumban, és különösen figyeljen a jól megőrzött mezőgazdasági eszközökre.",
             "ro": "Cufundați-vă în viața rurală din secolele trecute în acest muzeu de istorie locală și acordați o atenție deosebită instrumentelor agricole bine conservate.",
-            "en": "Immerse yourself in the rural life of past centuries at this local history museum, paying particular attention to the well-preserved agricultural tools."
+            "en": "Immerse yourself in the rural life of past centuries at this local history museum, paying particular attention to the well-preserved agricultural tools.",
+            "da": "Fordyb dig i det landlige liv fra tidligere århundreder på dette lokalhistoriske museum, og læg særligt mærke til de velbevarede landbrugsredskaber."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Der Spaziergang beginnt an der schlichten Saltum Kirke, die eine friedliche Atmosphäre am Morgen bietet. Danach geht es weiter zum Tinghøj, einem spannenden Zeugnis der frühen jütländischen Geschichte mit einem weiten Ausblick. Mittags führt die Route zum kuriosen \"kleinsten Museum, das nie geöffnet hat\", was für ein Schmunzeln sorgt. Am Nachmittag erkunden Sie dann die kreativen Galerien Omegalfa und Galleri im Ort. Den Abschluss bildet die Egnssamlingen, wo Sie tief in die Landkultur eintauchen können.",
         "hu": "A séta az egyszerű Saltum Kirke-nél kezdődik, amely békés kora reggeli hangulatot áraszt. Ezután a Tinghøj felé vesszük az irányt, amely a korai jütlandi történelem izgalmas emléke nagyszerű kilátással. Délben az útvonal a furcsa \"legkisebb múzeumhoz, amely soha nincs nyitva\" vezet, amely mosolyt csal az arcra. Délután felfedezheti az Omegalfa és a Galleri kreatív művészeti galériákat a városban. A napot az Egnssamlingenben zárjuk, ahol elmerülhetünk a helyi mezőgazdasági kultúrában.",
         "ro": "Plimbarea începe la simpla Biserică Saltum, care oferă o atmosferă liniștită de dimineață. Apoi ne îndreptăm către Tinghøj, o dovadă incitantă a istoriei timpurii a Iutlandei cu vederi minunate. La prânz, traseul duce la curiosul „cel mai mic muzeu care nu este niciodată deschis”, aducând un zâmbet pe față. După-amiaza, veți explora galeriile de artă creative Omegalfa și Galleri din oraș. Turul se încheie la Egnssamlingen, unde vă puteți scufunda adânc în cultura agricolă locală.",
-        "en": "The walk begins at the simple Saltum Kirke, which offers a peaceful early morning atmosphere. Afterwards, head to Tinghøj, an exciting testament to early Jutlandic history with great views. At noon, the route leads to the quirky \"smallest museum that is never open\", guaranteed to bring a smile to your face. In the afternoon, you will explore the creative art spaces Omegalfa and Galleri in town. The tour concludes at the Egnssamlingen, where you can immerse yourself deeply in local agricultural culture."
+        "en": "The walk begins at the simple Saltum Kirke, which offers a peaceful early morning atmosphere. Afterwards, head to Tinghøj, an exciting testament to early Jutlandic history with great views. At noon, the route leads to the quirky \"smallest museum that is never open\", guaranteed to bring a smile to your face. In the afternoon, you will explore the creative art spaces Omegalfa and Galleri in town. The tour concludes at the Egnssamlingen, where you can immerse yourself deeply in local agricultural culture.",
+        "da": "Vandreturen begynder ved den simple Saltum Kirke, som byder på en fredelig morgentid. Herefter går du til Tinghøj, et spændende vidnesbyrd om tidlig jysk historie med flotte udsigter. Ved middagstid fører ruten til det finurlige \"mindste museum der aldrig har åben\", som med garanti vil få dig til at smile. Om eftermiddagen udforsker du de kreative kunststeder Omegalfa og Galleri i byen. Turen afsluttes ved Egnssamlingen, hvor du kan fordybe dig i den lokale landbrugskultur."
       },
       "variants": {
         "rainy": {
@@ -167,7 +180,8 @@
             "de": "Ein regnerischer Morgen beginnt trocken in der Kirche, gefolgt von einem windigen Spaziergang zum Tinghøj. Mittags bieten die Galerien Schutz vor dem Guss, während Sie dänische Kunst bewundern. Am Nachmittag vertiefen Sie sich im Regionalmuseum in die Geschichte. Der Abend endet ruhig im Schutze der dörflichen Atmosphäre; wasserfeste Kleidung ist heute Pflicht, da die Wege aufweichen.",
             "hu": "A reggel a templom védelmében indul, majd szeles séta következik Tinghøj dombjára. Délben a galériák nyújtanak menedéket a zápor elől, délután pedig a helytörténeti gyűjtemény fedett kiállításai várnak. Az este a falu nyugalmában ér véget, miközben az eső kopog a tetőkön; ma mindenképp vízálló cipőben induljon útnak, mert a füves ösvények a dombok körül rendkívül csúszósak lehetnek.",
             "ro": "O dimineață ploioasă începe la adăpostul bisericii, urmată de o plimbare spre Tinghøj. La prânz, galeriile oferă refugiu împotriva stropilor, iar după-amiaza este dedicată istoriei locale la Egnssamlingen. Seara se încheie liniștit în sat, în timp ce ploaia bate în geamuri; purtați neapărat încălțăminte impermeabilă, deoarece potecile cu iarbă pot deveni foarte alunecoase astăzi.",
-            "en": "A rainy morning starts dry inside the church, followed by a breezy walk to Tinghøj hill. By noon, the local galleries provide a perfect shelter from the downpour. Afternoon is spent exploring history indoors at the regional collection. The evening ends quietly in the village atmosphere; be sure to wear waterproof gear today as the grassy paths around the mounds become quite slippery."
+            "en": "A rainy morning starts dry inside the church, followed by a breezy walk to Tinghøj hill. By noon, the local galleries provide a perfect shelter from the downpour. Afternoon is spent exploring history indoors at the regional collection. The evening ends quietly in the village atmosphere; be sure to wear waterproof gear today as the grassy paths around the mounds become quite slippery.",
+            "da": "En regnfuld morgen starter tørt inde i kirken, efterfulgt af en blæsende gåtur til Tinghøj. Ved middagstid giver de lokale gallerier perfekt ly for bygerne. Eftermiddagen bruges på at udforske historiens rum indendørs i egnssamlingen. Aftenen ender stille i landsbyens atmosfære; sørg for at have vandtæt udstyr på i dag, da de græsklædte stier omkring gravhøjene kan blive ret glatte."
           },
           "stops": [
             {
@@ -175,13 +189,15 @@
                 "de": "Saltum Kirke",
                 "hu": "Saltum Kirke",
                 "ro": "Saltum Kirke",
-                "en": "Saltum Kirke"
+                "en": "Saltum Kirke",
+                "da": "Saltum Kirke"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die prächtigen mittelalterlichen Fresken, während es draußen regnet, und genießen Sie den trockenen Schutz der dicken historischen Steinmauern dieser Kirche.",
                 "hu": "Csodálja meg a lenyűgöző középkori freskókat, miközben kint esik az eső, és élvezze a templom vastag történelmi kőfalai által nyújtott csendes, száraz menedéket.",
                 "ro": "Admirați frescele medievale uimitoare în timp ce afară plouă și bucurați-vă de adăpostul liniștit și uscat oferit de zidurile groase de piatră ale acestei biserici vechi.",
-                "en": "Admire the stunning medieval frescoes while it rains outside, and enjoy the quiet, dry shelter provided by the thick historic stone walls of this beautiful church."
+                "en": "Admire the stunning medieval frescoes while it rains outside, and enjoy the quiet, dry shelter provided by the thick historic stone walls of this beautiful church.",
+                "da": "Beundr de imponerende middelalderfresker mens det regner udenfor, og nyd det rolige, tørre ly som de tykke historiske stenvægge giver."
               }
             },
             {
@@ -189,13 +205,15 @@
                 "de": "Tinghøj",
                 "hu": "Tinghøj",
                 "ro": "Tinghøj",
-                "en": "Tinghøj"
+                "en": "Tinghøj",
+                "da": "Tinghøj"
               },
               "tip_5lang": {
                 "de": "Die Aussicht ist auch im Regen beeindruckend, aber das Gras ist sehr rutschig; bleiben Sie auf den Pfaden und tragen Sie wasserfeste Stiefel mit gutem Profil.",
                 "hu": "A kilátás esőben is lenyűgöző a dombtetőről, de a fű rendkívül csúszós ilyenkor, ezért maradjon a kijelölt ösvényen és viseljen recés talpú, vízálló túrabakancsot.",
                 "ro": "Priveliștea este impresionantă chiar și pe ploaie, dar iarba este foarte alunecoasă; rămâneți pe poteci și purtați bocanci impermeabili cu talpă aderentă.",
-                "en": "The view is impressive even in the rain, but the grass is extremely slippery; stay on the marked paths and wear waterproof boots with good grip for safety."
+                "en": "The view is impressive even in the rain, but the grass is extremely slippery; stay on the marked paths and wear waterproof boots with good grip for safety.",
+                "da": "Udsigten er imponerende selv i regnen, men græsset er ekstremt glat; hold dig på de markerede stier og bær vandtætte støvler med godt greb for sikkerheden."
               }
             },
             {
@@ -203,13 +221,15 @@
                 "de": "Danmarks mindste museum der aldrig har åben",
                 "hu": "Danmarks mindste museum der aldrig har åben",
                 "ro": "Danmarks mindste museum der aldrig har åben",
-                "en": "Danmarks mindste museum der aldrig har åben"
+                "en": "Danmarks mindste museum der aldrig har åben",
+                "da": "Danmarks mindste museum der aldrig har åben"
               },
               "tip_5lang": {
                 "de": "Da dieses winzige Museum oft geschlossen ist, bietet das Vordach einen kurzen Schutz vor dem Regen, während Sie neugierig durch die kleinen Fenster spähen.",
                 "hu": "Mivel ez a parányi múzeum gyakran zárva van, az eresze alatt keressen rövid menedéket az eső elől, miközben kíváncsian betekint az apró ablakokon keresztül.",
                 "ro": "Deoarece acest muzeu minuscul este adesea închis, streașina oferă un scurt adăpost împotriva ploii în timp ce priviți curioși prin ferestrele sale mici.",
-                "en": "Since this tiny museum is often closed, its eaves offer a brief shelter from the rain while you peer curiously through the small windows at the exhibits."
+                "en": "Since this tiny museum is often closed, its eaves offer a brief shelter from the rain while you peer curiously through the small windows at the exhibits.",
+                "da": "Da dette lille museum ofte er lukket, giver tagudhænget et kortvarigt ly mod regnen mens du nysgerrigt kigger gennem de små vinduer på udstillingerne."
               }
             },
             {
@@ -217,13 +237,15 @@
                 "de": "Galleri Omegalfa",
                 "hu": "Galleri Omegalfa",
                 "ro": "Galleri Omegalfa",
-                "en": "Galleri Omegalfa"
+                "en": "Galleri Omegalfa",
+                "da": "Galleri Omegalfa"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Galerie als perfekten Rückzugsort vor dem nassen Wetter und lassen Sie sich von der lokalen Kunst inspirieren, während Sie im Warmen verweilen.",
                 "hu": "Használja a galériát tökéletes búvóhelyként a nedves időjárás elől, és hagyja, hogy a helyi művészet inspirálja, miközben a száraz belső térben várakozik.",
                 "ro": "Folosiți galeria ca un refugiu perfect împotriva vremii umede și lăsați-vă inspirat de arta locală în timp ce zăboviți în interiorul cald și uscat.",
-                "en": "Use the gallery as a perfect retreat from the wet weather and let the local art inspire you while you linger in the warmth of the dry indoor exhibition space."
+                "en": "Use the gallery as a perfect retreat from the wet weather and let the local art inspire you while you linger in the warmth of the dry indoor exhibition space.",
+                "da": "Brug galleriet som et perfekt tilflugtssted mod det våde vejr og lad den lokale kunst inspirere dig, mens du dvæler i det tørre, indendørs udstillingsrum."
               }
             },
             {
@@ -231,13 +253,15 @@
                 "de": "Galleri",
                 "hu": "Galleri",
                 "ro": "Galleri",
-                "en": "Galleri"
+                "en": "Galleri",
+                "da": "Galleri"
               },
               "tip_5lang": {
                 "de": "Ein weiterer kultureller Stopp, der ideal ist, um den stärksten Schauern auszuweichen; genießen Sie die Farben der Exponate als Kontrast zum grauen Regenwetter.",
                 "hu": "Egy újabb kulturális megálló, amely ideális a legerősebb záporok elkerülésére; élvezze a kiállított tárgyak színeit a kinti szürke esős idő ellentéteként.",
                 "ro": "O altă oprire culturală ideală pentru a evita cele mai puternice averse; bucurați-vă de culorile exponatelor ca contrast cu vremea gri și ploioasă de afară.",
-                "en": "Another cultural stop ideal for avoiding the heaviest showers; enjoy the colors of the exhibits as a contrast to the grey rainy weather outside the building."
+                "en": "Another cultural stop ideal for avoiding the heaviest showers; enjoy the colors of the exhibits as a contrast to the grey rainy weather outside the building.",
+                "da": "Endnu et kulturelt stop ideelt til at undgå de tungeste byger; nyd farverne i udstillingerne som kontrast til det grå regnvejr udenfor."
               }
             },
             {
@@ -245,13 +269,15 @@
                 "de": "Egnssamlingen",
                 "hu": "Egnssamlingen",
                 "ro": "Egnssamlingen",
-                "en": "Egnssamlingen"
+                "en": "Egnssamlingen",
+                "da": "Egnssamlingen"
               },
               "tip_5lang": {
                 "de": "Beenden Sie den Tag in diesem weitläufigen Museum, wo Sie gemütlich von Raum zu Raum gehen können, ohne nass zu werden, und die Regionalgeschichte erleben.",
                 "hu": "Zárja a napot ebben a tágas múzeumban, ahol kényelmesen járhat teremről teremre anélkül, hogy megázna, miközben felfedezi a régió izgalmas történelmét.",
                 "ro": "Încheiați ziua în acest muzeu spațios, unde puteți merge relaxat din cameră în cameră fără să vă udați, explorând istoria fascinantă a regiunii locale.",
-                "en": "End your day in this spacious museum where you can walk comfortably from room to room without getting wet, while discovering the region's fascinating history."
+                "en": "End your day in this spacious museum where you can walk comfortably from room to room without getting wet, while discovering the region's fascinating history.",
+                "da": "Afslut dagen i dette rummelige museum hvor du kan gå komfortabelt fra sal til sal uden at blive våd, mens du opdager områdets fascinerende historie."
               }
             }
           ]
@@ -261,7 +287,8 @@
             "de": "Die frostige Nordseeluft weht am Morgen durch Saltum, wenn Sie die Kirche besuchen. Mittags bieten die Museen willkommene Wärme gegen den beißenden Wind. Da die Sonne bereits gegen 17:00 Uhr untergeht, sollten Sie die Außenstopps frühzeitig planen. Der Abend bricht schnell herein; genießen Sie die hyggelige Atmosphäre des beleuchteten Dorfes und tragen Sie viele warme Schichten.",
             "hu": "A fagyos északi-tengeri levegő átjárja Saltum utcáit a reggeli templomlátogatáskor. Délben a múzeumok nyújtanak menedéket a metsző szél elől. Mivel a nap már 17:00 körül lemegy, a szabadtéri megállókat érdemes korábbra időzíteni. Az este hamar leszáll; élvezze a kivilágított falu meghitt hangulatát, de öltözzön nagyon rétegesen és melegen.",
             "ro": "Aerul înghețat al Mării Nordului străbate străzile din Saltum la vizita de dimineață. La prânz, muzeele oferă căldură binevenită împotriva vântului tăios. Deoarece soarele apune deja în jur de ora 17:00, planificați opririle exterioare devreme. Seara se lasă rapid; bucurați-vă de atmosfera primitoare a satului luminat și purtați haine groase.",
-            "en": "Frosty North Sea air blows through Saltum as you start your morning at the church. By noon, the museums offer welcome warmth against the biting winter wind. Since the sun sets around 17:00, plan your outdoor stops early. Evening falls quickly; enjoy the cozy atmosphere of the lit village, but be sure to dress in multiple warm layers today."
+            "en": "Frosty North Sea air blows through Saltum as you start your morning at the church. By noon, the museums offer welcome warmth against the biting winter wind. Since the sun sets around 17:00, plan your outdoor stops early. Evening falls quickly; enjoy the cozy atmosphere of the lit village, but be sure to dress in multiple warm layers today.",
+            "da": "Frostig Nordsøluft blæser gennem Saltum når du starter morgenen ved kirken. Ved middagstid tilbyder museerne kærkommen varme mod den bidende vintervind. Da solen går ned omkring 17:00, planlæg udendørsstop tidligt. Aftenen falder hurtigt på; nyd den hyggelige stemning i den oplyste landsby, men sørg for at klæde dig i flere varme lag i dag."
           },
           "stops": [
             {
@@ -269,13 +296,15 @@
                 "de": "Saltum Kirke",
                 "hu": "Saltum Kirke",
                 "ro": "Saltum Kirke",
-                "en": "Saltum Kirke"
+                "en": "Saltum Kirke",
+                "da": "Saltum Kirke"
               },
               "tip_5lang": {
                 "de": "Die dicken Steinmauern halten die Kälte, lassen Sie also Ihren Mantel während der kurzen Besichtigung an, um die stille, winterliche Atmosphäre zu genießen.",
                 "hu": "A vastag kőfalak tartják a hideget, ezért a rövid látogatás alatt is tartsa magán a kabátját, miközben élvezi a templom csendes, téli áhítatát.",
                 "ro": "Zidurile groase de piatră păstrează frigul, așa că păstrați-vă haina pe parcursul vizitei scurte în timp ce vă bucurați de atmosfera liniștită de iarnă.",
-                "en": "The thick stone walls hold the cold, so keep your coat on during the short visit while enjoying the quiet, wintery atmosphere of the church interior."
+                "en": "The thick stone walls hold the cold, so keep your coat on during the short visit while enjoying the quiet, wintery atmosphere of the church interior.",
+                "da": "De tykke stenvægge afholder kulden, så behold frakken på under det korte besøg mens du nyder kirkens rolige, vinterlige indre."
               }
             },
             {
@@ -283,13 +312,15 @@
                 "de": "Tinghøj",
                 "hu": "Tinghøj",
                 "ro": "Tinghøj",
-                "en": "Tinghøj"
+                "en": "Tinghøj",
+                "da": "Tinghøj"
               },
               "tip_5lang": {
                 "de": "Der Hügel bietet eine klare Aussicht auf die frostige Landschaft, aber der Wind ist hier oben extrem schneidend; tragen Sie unbedingt eine warme Mütze und Schal.",
                 "hu": "A dombtetőről tiszta kilátás nyílik a deres tájra, de a szél itt fent rendkívül metsző; mindenképpen viseljen meleg sapkát és sálat a nézelődéshez.",
                 "ro": "Dealul oferă o vedere clară asupra peisajului înghețat, dar vântul este extrem de tăios aici sus; purtați neapărat o căciulă caldă și un fular gros.",
-                "en": "The hilltop offers clear views of the frosty landscape, but the wind is extremely piercing up here; be sure to wear a warm hat and scarf for the visit."
+                "en": "The hilltop offers clear views of the frosty landscape, but the wind is extremely piercing up here; be sure to wear a warm hat and scarf for the visit.",
+                "da": "Højens top giver klare udsigter over det frostklare landskab, men vinden er ekstremt gennemtrængende heroppe; husk varm hue og halstørklæde til besøget."
               }
             },
             {
@@ -297,13 +328,15 @@
                 "de": "Danmarks mindste museum der aldrig har åben",
                 "hu": "Danmarks mindste museum der aldrig har åben",
                 "ro": "Danmarks mindste museum der aldrig har åben",
-                "en": "Danmarks mindste museum der aldrig har åben"
+                "en": "Danmarks mindste museum der aldrig har åben",
+                "da": "Danmarks mindste museum der aldrig har åben"
               },
               "tip_5lang": {
                 "de": "Dieses winzige Gebäude wirkt im Schnee wie aus einem Märchen; machen Sie schnell ein Foto, bevor die Finger in der Kälte steif werden.",
                 "hu": "Ez az apró épület a hóban olyan, mintha egy meséből lépett volna elő; készítsen gyorsan egy fotót, mielőtt az ujjai teljesen elgémberednek a hidegben.",
                 "ro": "Această clădire minusculă arată ca într-un basm în zăpadă; faceți rapid o fotografie înainte ca degetele să vă amorțească de frigul pătrunzător.",
-                "en": "This tiny building looks like something out of a fairy tale in the snow; take a photo quickly before your fingers get too stiff from the biting cold."
+                "en": "This tiny building looks like something out of a fairy tale in the snow; take a photo quickly before your fingers get too stiff from the biting cold.",
+                "da": "Denne lille bygning ligner noget fra et eventyr i sneen; tag hurtigt et foto før dine fingre bliver for stive af den bidende kulde."
               }
             },
             {
@@ -311,13 +344,15 @@
                 "de": "Galleri Omegalfa",
                 "hu": "Galleri Omegalfa",
                 "ro": "Galleri Omegalfa",
-                "en": "Galleri Omegalfa"
+                "en": "Galleri Omegalfa",
+                "da": "Galleri Omegalfa"
               },
               "tip_5lang": {
                 "de": "Die beheizte Galerie ist ein idealer Ort, um die Kälte für eine Weile zu vergessen und sich aufzuwärmen, während man die lebhaften Kunstwerke betrachtet.",
                 "hu": "A fűtött galéria ideális hely arra, hogy egy időre elfelejtse a kinti hideget és felmelegedjen, miközben az élénk színekben pompázó műalkotásokat nézi.",
                 "ro": "Galeria încălzită este un loc ideal pentru a uita de frigul de afară pentru o vreme și a vă încălzi în timp ce priviți operele de artă pline de viață.",
-                "en": "The heated gallery is an ideal place to forget the cold for a while and warm up while admiring the vibrant artworks on display in the exhibition."
+                "en": "The heated gallery is an ideal place to forget the cold for a while and warm up while admiring the vibrant artworks on display in the exhibition.",
+                "da": "Den opvarmede udstillingshal er et ideelt sted til at glemme kulden et øjeblik og varme sig, mens du beundrer de livlige kunstværker i udstillingen."
               }
             },
             {
@@ -325,13 +360,15 @@
                 "de": "Galleri",
                 "hu": "Galleri",
                 "ro": "Galleri",
-                "en": "Galleri"
+                "en": "Galleri",
+                "da": "Galleri"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie diesen Innenstopp, um neue Energie zu tanken; die hellen Galerieräume sind ein wunderbarer Zufluchtsort an kurzen, dunklen Wintertagen.",
                 "hu": "Használja ki ezt a benti megállót az újratöltődésre; a világos galériaterek csodálatos menedéket nyújtanak a rövid és sötét téli nappalokon.",
                 "ro": "ProfitExecutionați de această oprire interioară pentru a vă reîncărca; spațiile luminoase ale galeriei sunt un refugiu minunat în zilele scurte de iarnă.",
-                "en": "Take advantage of this indoor stop to recharge; the bright gallery spaces are a wonderful sanctuary during the short and dark Scandinavian winter days."
+                "en": "Take advantage of this indoor stop to recharge; the bright gallery spaces are a wonderful sanctuary during the short and dark Scandinavian winter days.",
+                "da": "Udnyt dette indendørs stop til at lade op; de lyse gallerirum er et vidunderligt fristed i de korte og mørke skandinaviske vinterdage."
               }
             },
             {
@@ -339,13 +376,15 @@
                 "de": "Egnssamlingen",
                 "hu": "Egnssamlingen",
                 "ro": "Egnssamlingen",
-                "en": "Egnssamlingen"
+                "en": "Egnssamlingen",
+                "da": "Egnssamlingen"
               },
               "tip_5lang": {
                 "de": "Da es hier bereits gegen 17 Uhr dunkel wird, bietet das Museum einen gemütlichen, beleuchteten Abschluss für Ihre winterliche Entdeckungstour.",
                 "hu": "Mivel itt már délután öt körül sötétedik, a múzeum belső terei hangulatos, kivilágított lezárást nyújtanak a téli felfedezőúthoz.",
                 "ro": "Deoarece se întunecă deja în jur de ora 17, spațiile interioare ale muzeului oferă o încheiere primitoare și luminată pentru turul de iarnă.",
-                "en": "Since it gets dark around 17:00 here, the indoor museum spaces provide a cozy, well-lit conclusion to your winter exploration tour of Saltum."
+                "en": "Since it gets dark around 17:00 here, the indoor museum spaces provide a cozy, well-lit conclusion to your winter exploration tour of Saltum.",
+                "da": "Da det bliver mørkt omkring kl. 17:00 her, giver de indendørs museumsrum en hyggelig, veloplyst afslutning på din vinterudforskningstur i Saltum."
               }
             }
           ]
@@ -365,7 +404,8 @@
             "de": "Saltum Kirke",
             "hu": "Saltum Kirke",
             "ro": "Saltum Kirke",
-            "en": "Saltum Kirke"
+            "en": "Saltum Kirke",
+            "da": "Saltum Kirke"
           },
           "coords": [
             9.695455,
@@ -380,7 +420,8 @@
             "de": "Bewundern Sie die schlichte, aber würdevolle Architektur dieser alten Kirche, während Sie die ruhige Atmosphäre genießen und den historischen Friedhof erkunden.",
             "hu": "Csodálja meg a régi templom letisztult, méltóságteljes építészetét, miközben elmerül a békés hangulatban és felfedezi a történelmi temetőt.",
             "ro": "Admirați arhitectura simplă, dar demnă a acestei vechi biserici, în timp ce vă bucurați de atmosfera pașnică și explorați cimitirul istoric.",
-            "en": "Admire the simple but dignified architecture of this old church while enjoying the peaceful atmosphere and exploring the historic cemetery."
+            "en": "Admire the simple but dignified architecture of this old church while enjoying the peaceful atmosphere and exploring the historic cemetery.",
+            "da": "Beundr den enkle men værdige arkitektur i denne gamle kirke, nyd den fredelige stemning og udforsk den historiske kirkegård."
           }
         },
         {
@@ -388,7 +429,8 @@
             "de": "Tinghøj",
             "hu": "Tinghøj",
             "ro": "Tinghøj",
-            "en": "Tinghøj"
+            "en": "Tinghøj",
+            "da": "Tinghøj"
           },
           "coords": [
             9.693366,
@@ -403,7 +445,8 @@
             "de": "Besteigen Sie diesen bemerkenswerten historischen Grabhügel, um mehr über die Vorgeschichte der Region zu erfahren und die herrliche Aussicht auf die umliegende Landschaft zu genießen.",
             "hu": "Mássza meg ezt a figyelemre méltó történelmi sírhalmot, hogy többet tudjon meg a régió őstörténetéről, és élvezze a környező tájra nyíló csodálatos kilátást.",
             "ro": "Urcați pe acest remarcabil tumul funerar istoric pentru a afla mai multe despre preistoria regiunii și pentru a vă bucura de priveliștile minunate ale peisajului înconjurător.",
-            "en": "Climb this remarkable historic burial mound to learn more about the region's prehistory and enjoy the magnificent views of the surrounding landscape."
+            "en": "Climb this remarkable historic burial mound to learn more about the region's prehistory and enjoy the magnificent views of the surrounding landscape.",
+            "da": "Bestig denne bemærkelsesværdige historiske gravhøj for at lære mere om områdets forhistorie og nyde de storslåede udsigter over det omkringliggende landskab."
           }
         },
         {
@@ -411,7 +454,8 @@
             "de": "Bette Tølhøj",
             "hu": "Bette Tølhøj",
             "ro": "Bette Tølhøj",
-            "en": "Bette Tølhøj"
+            "en": "Bette Tølhøj",
+            "da": "Bette Tølhøj"
           },
           "coords": [
             9.662811,
@@ -426,7 +470,8 @@
             "de": "Spüren Sie die mystische Atmosphäre an diesem uralten Hügelgrab, das tief in die dänische Bronzezeit zurückreicht und einen perfekten Ort für eine kurze Rast bietet.",
             "hu": "Érezze a misztikus atmoszférát ennél az ősi sírhalomnál, amely mélyen a dán bronzkorba nyúlik vissza, és tökéletes helyszínt biztosít egy rövid pihenőhöz.",
             "ro": "Simțiți atmosfera mistică la acest mormânt antic, care datează din epoca bronzului danez și oferă un loc perfect pentru o scurtă odihnă.",
-            "en": "Feel the mystical atmosphere at this ancient burial mound, which dates deep into the Danish Bronze Age and provides a perfect spot for a short rest."
+            "en": "Feel the mystical atmosphere at this ancient burial mound, which dates deep into the Danish Bronze Age and provides a perfect spot for a short rest.",
+            "da": "Mærk den mystiske stemning på denne gamle gravhøj, der går tilbage til den danske bronzealder, og som er et perfekt sted til en kort pause."
           }
         },
         {
@@ -434,7 +479,8 @@
             "de": "Bondagerhøj",
             "hu": "Bondagerhøj",
             "ro": "Bondagerhøj",
-            "en": "Bondagerhøj"
+            "en": "Bondagerhøj",
+            "da": "Bondagerhøj"
           },
           "coords": [
             9.660191,
@@ -449,7 +495,8 @@
             "de": "Erkunden Sie die faszinierenden Formationen dieses historischen Denkmals und bringen Sie gutes Schuhwerk mit, um die unebenen Pfade rund um den Hügel sicher zu bewältigen.",
             "hu": "Fedezze fel e történelmi emlékmű lenyűgöző formációit, és hozzon magával megfelelő lábbelit, hogy biztonságosan navigáljon a domb körüli egyenetlen ösvényeken.",
             "ro": "Explorați formațiunile fascinante ale acestui monument istoric și aduceți încălțăminte bună pentru a naviga în siguranță pe potecile inegale din jurul dealului.",
-            "en": "Explore the fascinating formations of this historical monument and bring good footwear to safely navigate the uneven paths around the hill."
+            "en": "Explore the fascinating formations of this historical monument and bring good footwear to safely navigate the uneven paths around the hill.",
+            "da": "Udforsk de fascinerende formationer på dette historiske monument og sørg for godt fodtøj for sikkert at kunne færdes på de ujævne stier omkring højen."
           }
         },
         {
@@ -457,7 +504,8 @@
             "de": "Guldager Høje",
             "hu": "Guldager Høje",
             "ro": "Guldager Høje",
-            "en": "Guldager Høje"
+            "en": "Guldager Høje",
+            "da": "Guldager Høje"
           },
           "coords": [
             9.660714,
@@ -472,7 +520,8 @@
             "de": "Bewundern Sie diese eindrucksvolle Ansammlung prähistorischer Grabhügel und versuchen Sie, die Anordnung der Gräber im Kontext der frühen Siedlungsgeschichte zu verstehen.",
             "hu": "Csodálja meg az őskori sírhalmok lenyűgöző gyűjteményét, és próbálja megérteni a sírok elrendezését a korai településtörténet kontextusában.",
             "ro": "Admirați această colecție impresionantă de tumuli preistorici și încercați să înțelegeți aspectul mormintelor în contextul istoriei așezărilor timpurii.",
-            "en": "Admire this impressive collection of prehistoric burial mounds and try to understand the layout of the graves in the context of early settlement history."
+            "en": "Admire this impressive collection of prehistoric burial mounds and try to understand the layout of the graves in the context of early settlement history.",
+            "da": "Beundr denne imponerende samling af forhistoriske gravhøje og forsøg at forstå gravernes placering i lyset af tidlig bosættelseshistorie."
           }
         },
         {
@@ -480,7 +529,8 @@
             "de": "Guldgraveriet",
             "hu": "Guldgraveriet",
             "ro": "Guldgraveriet",
-            "en": "Guldgraveriet"
+            "en": "Guldgraveriet",
+            "da": "Guldgraveriet"
           },
           "coords": [
             9.658015,
@@ -495,7 +545,8 @@
             "de": "Verbringen Sie eine vergnügliche Zeit an diesem Wahrzeichen der lokalen Freizeitkultur und probieren Sie selbst, ob Sie das verborgene \"Gold\" im Sand finden können.",
             "hu": "Töltsön el egy vidám időt a helyi szabadidős kultúra ezen nevezetességénél, és próbálja ki maga is, hogy megtalálja-e az elrejtett \"aranyat\" a homokban.",
             "ro": "Petreceți un timp distractiv la acest punct de reper al culturii de agrement locale și încercați singur dacă puteți găsi „aurul” ascuns în nisip.",
-            "en": "Spend a fun time at this landmark of local leisure culture and try for yourself whether you can find the hidden \"gold\" in the sand."
+            "en": "Spend a fun time at this landmark of local leisure culture and try for yourself whether you can find the hidden \"gold\" in the sand.",
+            "da": "Tilbring en sjov stund ved dette vartegn i lokal fritidskultur og prøv selv, om du kan finde det skjulte \"guld\" i sandet."
           }
         }
       ],
@@ -503,7 +554,8 @@
         "de": "Am Morgen starten Sie mit dem Fahrrad an der Saltum Kirke, bevor Sie den nahegelegenen Tinghøj für eine erste historische Perspektive erklimmen. Gegen Mittag radeln Sie entspannt in Richtung Westen zum faszinierenden Bette Tølhøj, der Sie in die Bronzezeit zurückversetzt. Der Nachmittag steht im Zeichen weiterer eindrucksvoller Grabhügel wie dem Bondagerhøj und den massiven Guldager Høje. Die Radtour endet mit etwas Spaß beim Guldgraveriet, bevor es am späten Nachmittag zurück geht.",
         "hu": "Reggel a Saltum Kirke-nél indítjuk a kerékpártúrát, mielőtt megmásznánk a közeli Tinghøj-t az első történelmi élményért. Dél körül nyugodtan nyugat felé tekerünk a lenyűgöző Bette Tølhøj-hez, amely visszarepít a bronzkorba. A délutánt további lenyűgöző sírhalmoknak, például a Bondagerhøj-nek és a masszív Guldager Høje-nek szenteljük. A kerékpártúra egy kis szórakozással zárul a Guldgraverietnél a késő délutáni visszatérés előtt.",
         "ro": "Dimineața începeți turul cu bicicleta la Biserica Saltum înainte de a urca pe Tinghøj-ul din apropiere pentru o primă perspectivă istorică. Pe la prânz veți pedala liniștit spre vest până la fascinantul Bette Tølhøj, care vă duce înapoi în epoca bronzului. După-amiaza este dedicată altor tumuli impresionante, cum ar fi Bondagerhøj și masivul Guldager Høje. Turul cu bicicleta se încheie cu puțină distracție la Guldgraveriet înainte de a vă întoarce târziu după-amiaza.",
-        "en": "Start your morning bike ride at Saltum Kirke before climbing the nearby Tinghøj for a first historical perspective. Around noon, casually cycle west to the fascinating Bette Tølhøj, which transports you back to the Bronze Age. The afternoon is dedicated to other impressive burial mounds such as Bondagerhøj and the massive Guldager Høje. The bike tour ends with some fun at Guldgraveriet before you head back in the late afternoon."
+        "en": "Start your morning bike ride at Saltum Kirke before climbing the nearby Tinghøj for a first historical perspective. Around noon, casually cycle west to the fascinating Bette Tølhøj, which transports you back to the Bronze Age. The afternoon is dedicated to other impressive burial mounds such as Bondagerhøj and the massive Guldager Høje. The bike tour ends with some fun at Guldgraveriet before you head back in the late afternoon.",
+        "da": "Start din morgencykeltur ved Saltum Kirke, før du bestiger den nærliggende Tinghøj for et første historisk perspektiv. Omkring middag cykler du afslappet mod vest til den fascinerende Bette Tølhøj, som tager dig tilbage til bronzealderen. Eftermiddagen er afsat til andre imponerende gravhøje som Bondagerhøj og de massive Guldager Høje. Cykelturen afsluttes med sjov ved Guldgraveriet, inden du vender tilbage i sen eftermiddag."
       },
       "variants": {
         "rainy": {
@@ -511,7 +563,8 @@
             "de": "Ein nasser Tag auf dem Rad erfordert gute Schutzbleche und Regenbekleidung für die Dünenwege. Am Vormittag besuchen Sie die Kirche, bevor Sie die rutschigen Pfade zu den Hügeln erklimmen. Mittags bietet sich eine Pause im Dorf an. Der Nachmittag führt Sie zu den historischen Grabhügeln; fahren Sie in den Kurven vorsichtig, da der nasse Asphalt und Sand tückisch sein können.",
             "hu": "A sárvédő és a jó esőkabát elengedhetetlen a mai túrához a vizes dűnék között. A reggeli templomlátogatás után a dombokra vezető utak csúszósak lehetnek, így óvatosan ereszkedjen le a lejtőkön. Délben keressen fedett pihenőt a múzeumoknál. Az eső áztatta táj drámai látványt nyújt, de a látótávolság korlátozott; használjon villogót a biztonság kedvéért.",
             "ro": "Apărătorile și o pelerină de ploaie bună sunt esențiale pentru tura de astăzi prin dunele ude. După vizita de dimineață la biserică, drumurile spre dealuri pot fi alunecoase, deci coborâți cu prudență. La prânz căutați un loc ferit. Peisajul plouat oferă o vedere dramatică, dar vizibilitatea este limitată; folosiți lumini intermitente pentru siguranță.",
-            "en": "Mudguards and a good raincoat are essential for today’s ride through the wet dunes. After the morning church visit, the paths to the hills can be slippery, so descend carefully. At noon, seek sheltered rest spots. The rain-soaked landscape offers dramatic views, but visibility is limited; use flashing lights for safety while cycling on the coastal roads."
+            "en": "Mudguards and a good raincoat are essential for today’s ride through the wet dunes. After the morning church visit, the paths to the hills can be slippery, so descend carefully. At noon, seek sheltered rest spots. The rain-soaked landscape offers dramatic views, but visibility is limited; use flashing lights for safety while cycling on the coastal roads.",
+            "da": "Skærme og en god regnjakke er essentielle til dagens tur gennem de våde klitter. Efter morgens besøg i kirken kan stierne til højene være glatte, så gå forsigtigt nedad. Ved middagstid søg læ for at hvile. Det regnvåde landskab byder på dramatiske udsigter, men sigtbarheden er begrænset; brug blinklys for sikkerhed, når du cykler på kystvejene."
           },
           "stops": [
             {
@@ -519,13 +572,15 @@
                 "de": "Saltum Kirke",
                 "hu": "Saltum Kirke",
                 "ro": "Saltum Kirke",
-                "en": "Saltum Kirke"
+                "en": "Saltum Kirke",
+                "da": "Saltum Kirke"
               },
               "tip_5lang": {
                 "de": "Stellen Sie Ihr Rad an einer geschützten Stelle an der Kirchenmauer ab; das Innere bietet eine perfekte Pause zum kurzen Trocknen vor der Weiterfahrt.",
                 "hu": "A kerékpárt a templom falánál hagyhatja fedett helyen, a belső tér pedig tökéletes megálló egy rövid száradáshoz a további út megkezdése előtt.",
                 "ro": "Lăsați bicicleta într-un loc ferit lângă zidul bisericii; interiorul oferă un popas perfect pentru a vă usca puțin înainte de a continua drumul.",
-                "en": "You can leave your bike in a sheltered spot by the church wall; the interior is a perfect stop to dry off briefly before continuing your ride."
+                "en": "You can leave your bike in a sheltered spot by the church wall; the interior is a perfect stop to dry off briefly before continuing your ride.",
+                "da": "Du kan stille din cykel i et læsted ved kirkemuren; kirkens indre er et perfekt stop for at tørre kortvarigt af, før du fortsætter din tur."
               }
             },
             {
@@ -533,13 +588,15 @@
                 "de": "Tinghøj",
                 "hu": "Tinghøj",
                 "ro": "Tinghøj",
-                "en": "Tinghøj"
+                "en": "Tinghøj",
+                "da": "Tinghøj"
               },
               "tip_5lang": {
                 "de": "Der Anstieg ist auf nassem Gras rutschig; lassen Sie das Rad unten und gehen Sie das letzte Stück zu Fuß, um die neblige Aussicht sicher zu genießen.",
                 "hu": "A kapaszkodó vizes fűvön csúszós; hagyja a kerékpárt a domb alján, és az utolsó szakaszt tegye meg gyalog, hogy biztonságosan élvezhesse a ködös kilátást.",
                 "ro": "Urcarea este alunecoasă pe iarba udă; lăsați bicicleta la baza dealului și parcurgeți ultima porțiune pe jos pentru a admira în siguranță vederea cețoasă.",
-                "en": "The climb is slippery on wet grass; leave your bike at the bottom of the hill and walk the last bit to safely enjoy the moody, misty views from the top."
+                "en": "The climb is slippery on wet grass; leave your bike at the bottom of the hill and walk the last bit to safely enjoy the moody, misty views from the top.",
+                "da": "Bestigningen er glat på vådt græs; lad cyklen blive nede ved fodenden og gå den sidste strækning for sikkert at nyde de stemningsfulde, tågede udsigter fra toppen."
               }
             },
             {
@@ -547,13 +604,15 @@
                 "de": "Bette Tølhøj",
                 "hu": "Bette Tølhøj",
                 "ro": "Bette Tølhøj",
-                "en": "Bette Tølhøj"
+                "en": "Bette Tølhøj",
+                "da": "Bette Tølhøj"
               },
               "tip_5lang": {
                 "de": "Die Pfade um die Hügel können bei Regen matschig sein; fahren Sie langsam und achten Sie auf weichen Untergrund, der Ihr Rad abbremsen könnte.",
                 "hu": "A dombok körüli ösvények sárgaek lehetnek az esőben; haladjon lassan, és figyeljen a puha talajra, amely váratlanul lefékezheti a kerékpárját.",
                 "ro": "Potecile din jurul dealurilor pot fi noroioase; pedalați încet și fiți atenți la porțiunile moi care ar putea să vă frâneze neașteptat bicicleta.",
-                "en": "The paths around the mounds can get muddy in the rain; cycle slowly and watch out for soft ground that could unexpectedly slow your bike down."
+                "en": "The paths around the mounds can get muddy in the rain; cycle slowly and watch out for soft ground that could unexpectedly slow your bike down.",
+                "da": "Stierne omkring højene kan blive mudrede i regn; cykl langsomt og hold øje med blødt underlag, der uventet kan bremse din cykel."
               }
             },
             {
@@ -561,13 +620,15 @@
                 "de": "Bondagerhøj",
                 "hu": "Bondagerhøj",
                 "ro": "Bondagerhøj",
-                "en": "Bondagerhøj"
+                "en": "Bondagerhøj",
+                "da": "Bondagerhøj"
               },
               "tip_5lang": {
                 "de": "Suchen Sie bei starkem Regen Schutz unter den Bäumen in der Nähe, bevor Sie die Aussicht bewundern; wasserfeste Handschuhe helfen, den Lenker fest im Griff zu halten.",
                 "hu": "Heves esőben keressen menedéket a közeli fák alatt, mielőtt megcsodálná a kilátást; a vízálló kesztyű segít, hogy stabilan tartsa a kormányt a vizes úton.",
                 "ro": "În caz de ploaie torențială, căutați adăpost sub copacii din apropiere; mănușile impermeabile vă vor ajuta să țineți ghidonul ferm pe drumul ud.",
-                "en": "In case of heavy rain, seek shelter under nearby trees before admiring the view; waterproof gloves will help you keep a firm grip on the handlebars."
+                "en": "In case of heavy rain, seek shelter under nearby trees before admiring the view; waterproof gloves will help you keep a firm grip on the handlebars.",
+                "da": "Ved kraftig regn søg læ under nærliggende træer, før du beundrer udsigten; vandtætte handsker hjælper dig med at bevare et fast greb om styret."
               }
             },
             {
@@ -575,13 +636,15 @@
                 "de": "Guldager Høje",
                 "hu": "Guldager Høje",
                 "ro": "Guldager Høje",
-                "en": "Guldager Høje"
+                "en": "Guldager Høje",
+                "da": "Guldager Høje"
               },
               "tip_5lang": {
                 "de": "Die Dünenlandschaft wirkt im Regen dramatisch, aber der Sand wird klebrig; reinigen Sie nach der Tour Ihre Kette, um Schäden durch Nässe und Sand zu vermeiden.",
                 "hu": "A dűnék világa drámai az esőben, de a homok ragadóssá válik; a túra után tisztítsa meg a láncot, hogy elkerülje a nedvesség és homok okozta károkat.",
                 "ro": "Peisajul dunelor este dramatic pe ploaie, dar nisipul devine lipicios; curățați lanțul după tură pentru a evita daunele cauzate de umezeală și nisip.",
-                "en": "The dune landscape looks dramatic in the rain, but the sand becomes sticky; clean your chain after the tour to avoid damage from moisture and grit."
+                "en": "The dune landscape looks dramatic in the rain, but the sand becomes sticky; clean your chain after the tour to avoid damage from moisture and grit.",
+                "da": "Klittelandskabet ser dramatisk ud i regnen, men sandet bliver klistret; rengør din kæde efter turen for at undgå skader fra fugt og slibemateriale."
               }
             },
             {
@@ -589,13 +652,15 @@
                 "de": "Guldgraveriet",
                 "hu": "Guldgraveriet",
                 "ro": "Guldgraveriet",
-                "en": "Guldgraveriet"
+                "en": "Guldgraveriet",
+                "da": "Guldgraveriet"
               },
               "tip_5lang": {
                 "de": "Das Ende der Tour kann windig und nass sein; trocknen Sie sich schnell ab und genießen Sie das Gefühl, den Elementen auf dem Rad getrotzt zu haben.",
                 "hu": "A túra vége szeles és nedves lehet; gyorsan törölközzön meg a célban, és élvezze az elégedettséget, hogy kerékpárral is dacolt az elemekkel.",
                 "ro": "Finalul turei poate fi vântos și ud; uscați-vă rapid la destinație și bucurați-vă de satisfacția de a fi înfruntat elementele pe bicicletă.",
-                "en": "The end of the tour can be windy and wet; dry off quickly at the finish and enjoy the satisfaction of having braved the elements on your bike."
+                "en": "The end of the tour can be windy and wet; dry off quickly at the finish and enjoy the satisfaction of having braved the elements on your bike.",
+                "da": "Turens afslutning kan være blæsende og våd; tør hurtigt af ved målstregen og nyd tilfredsstillelsen over at have trodset elementerne på din cykel."
               }
             }
           ]
@@ -605,7 +670,8 @@
             "de": "Tiefwinterliches Radfahren bei Saltum erfordert winddichte Kleidung und gute Handschuhe gegen den Frost. Am Vormittag ist die Luft oft klar und die Aussicht von den Hügeln weit. Da es ab 16:30 Uhr dämmert, ist eine funktionierende Beleuchtung lebenswichtig. Vermeiden Sie plötzliches Bremsen auf möglicherweise vereisten Abschnitten und planen Sie kurze Aufwärmstopps ein.",
             "hu": "A téli kerékpározás Saltum környékén embert próbáló a fagyos szélben. Öltözzön szélálló ruhába és viseljen kesztyűt a kormányzáshoz. A reggeli órákban a legtisztább az idő, délutánra viszont a sötétség hamar beköszönt. Figyeljen a kerékpár világítására, mert ötkor már teljes a sötétség a dombok között; a jeges szakaszokon pedig kerülje a hirtelen fékezést.",
             "ro": "Ciclismul de iarnă lângă Saltum necesită haine rezistente la vânt și mănuși bune. Dimineața aerul este adesea clar, oferind vederi largi de pe dealuri. Deoarece se înserează de la 16:30, luminile funcționale sunt vitale. Evitați frânările bruște pe porțiunile care pot fi înghețate și planificați scurte pauze de încălzire.",
-            "en": "Winter cycling around Saltum is challenging due to the freezing wind. Wear windproof clothing and gloves for steering. The air is often clearest in the morning, but darkness arrives very early in the afternoon. Ensure your bike lights are working, as it will be pitch black by 17:00 among the hills; avoid sudden braking on icy spots."
+            "en": "Winter cycling around Saltum is challenging due to the freezing wind. Wear windproof clothing and gloves for steering. The air is often clearest in the morning, but darkness arrives very early in the afternoon. Ensure your bike lights are working, as it will be pitch black by 17:00 among the hills; avoid sudden braking on icy spots.",
+            "da": "Vintercykling rundt om Saltum er udfordrende på grund af den isnende vind. Brug vindtæt tøj og handsker for styring. Luften er ofte klarest om morgenen, men mørket falder tidligt om eftermiddagen. Sikr dig, at dine cykellygter virker, da det bliver helt mørkt omkring kl. 17:00 mellem højene; undgå pludselig opbremsning på isglatte steder."
           },
           "stops": [
             {
@@ -613,13 +679,15 @@
                 "de": "Saltum Kirke",
                 "hu": "Saltum Kirke",
                 "ro": "Saltum Kirke",
-                "en": "Saltum Kirke"
+                "en": "Saltum Kirke",
+                "da": "Saltum Kirke"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den kurzen Stopp in der Kirche, um die Finger aufzuwärmen; die Ruhe im Inneren ist ein schöner Kontrast zum pfeifenden Winterwind draußen.",
                 "hu": "Használja ki a rövid templomi megállót, hogy felmelegítse az ujjait; a benti csend szép kontrasztot alkot a kinti fütyülő téli széllel.",
                 "ro": "Folosiți scurtul popas la biserică pentru a vă încălzi degetele; liniștea din interior este un contrast frumos față de vântul șuierător de iarnă de afară.",
-                "en": "Use the short stop inside the church to warm up your fingers; the silence inside is a lovely contrast to the whistling winter wind outside."
+                "en": "Use the short stop inside the church to warm up your fingers; the silence inside is a lovely contrast to the whistling winter wind outside.",
+                "da": "Brug det korte stop inde i kirken til at varme fingrene; stilheden indeni står i smuk kontrast til den hvæsende vintervind udenfor."
               }
             },
             {
@@ -627,13 +695,15 @@
                 "de": "Tinghøj",
                 "hu": "Tinghøj",
                 "ro": "Tinghøj",
-                "en": "Tinghøj"
+                "en": "Tinghøj",
+                "da": "Tinghøj"
               },
               "tip_5lang": {
                 "de": "Der Boden kann gefroren und rutschig sein; steigen Sie vorsichtig vom Rad und genießen Sie die klare, weite Sicht über die winterliche Dünenlandschaft.",
                 "hu": "A talaj fagyott és csúszós lehet; óvatosan szálljon le a kerékpárról, és élvezze a tiszta, messzire nyúló kilátást a téli dűnék felett.",
                 "ro": "Solul poate fi înghețat și alunecos; coborâți cu grijă de pe bicicletă și bucurați-vă de vederea clară și vastă peste dunele de iarnă.",
-                "en": "The ground can be frozen and slippery; dismount carefully and enjoy the clear, expansive views over the wintery dune landscape from the top."
+                "en": "The ground can be frozen and slippery; dismount carefully and enjoy the clear, expansive views over the wintery dune landscape from the top.",
+                "da": "Jorden kan være frossen og glat; hop af cyklen forsigtigt og nyd de klare, vidtrækkende udsigter over det vinterlige klitlandskab fra toppen."
               }
             },
             {
@@ -641,13 +711,15 @@
                 "de": "Bette Tølhøj",
                 "hu": "Bette Tølhøj",
                 "ro": "Bette Tølhøj",
-                "en": "Bette Tølhøj"
+                "en": "Bette Tølhøj",
+                "da": "Bette Tølhøj"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf Reifglätte auf den schmalen Pfaden; die tiefstehende Wintersonne wirft lange Schatten über die Hügel, was das Fahren stimmungsvoll macht.",
                 "hu": "Figyeljen a zúzmarás, csúszós szakaszokra a keskeny ösvényeken; az alacsonyan járó téli nap hosszú árnyékokat vet a dombokra, ami hangulatossá teszi az utat.",
                 "ro": "Atenție la porțiunile cu chiciură de pe potecile înguste; soarele jos de iarnă aruncă umbre lungi peste dealuri, făcând drumul foarte pitoresc.",
-                "en": "Watch out for frosty, slippery patches on the narrow paths; the low winter sun casts long shadows over the mounds, making for an atmospheric ride."
+                "en": "Watch out for frosty, slippery patches on the narrow paths; the low winter sun casts long shadows over the mounds, making for an atmospheric ride.",
+                "da": "Pas på frostglatte steder på de smalle stier; den lave vintersol kaster lange skygger over højene og skaber en stemningsfuld tur."
               }
             },
             {
@@ -655,13 +727,15 @@
                 "de": "Bondagerhøj",
                 "hu": "Bondagerhøj",
                 "ro": "Bondagerhøj",
-                "en": "Bondagerhøj"
+                "en": "Bondagerhøj",
+                "da": "Bondagerhøj"
               },
               "tip_5lang": {
                 "de": "In der Kälte entladen sich Akkus schneller; stellen Sie sicher, dass Ihr Handy und die Fahrradlampen voll aufgeladen sind, bevor Sie in die Hügel aufbrechen.",
                 "hu": "A hidegben az akkumulátorok gyorsabban merülnek; győződjön meg róla, hogy a telefonja és a lámpái teljesen fel vannak töltve, mielőtt a dombok közé indul.",
                 "ro": "În frig, bateriile se descarcă mai repede; asigurați-vă că telefonul și luminile bicicletei sunt complet încărcate înainte de a porni spre dealuri.",
-                "en": "Batteries drain faster in the cold; make sure your phone and bike lights are fully charged before heading out into the exposed hills for the afternoon."
+                "en": "Batteries drain faster in the cold; make sure your phone and bike lights are fully charged before heading out into the exposed hills for the afternoon.",
+                "da": "Batterier aflades hurtigere i kulden; sørg for, at din telefon og cykellygter er fuldt opladet, før du begiver dig ud i de udsatte høje om eftermiddagen."
               }
             },
             {
@@ -669,13 +743,15 @@
                 "de": "Guldager Høje",
                 "hu": "Guldager Høje",
                 "ro": "Guldager Høje",
-                "en": "Guldager Høje"
+                "en": "Guldager Høje",
+                "da": "Guldager Høje"
               },
               "tip_5lang": {
                 "de": "Da die Dämmerung früh einsetzt, sollten Sie diesen Stopp zügig abschließen, um nicht im völligen Dunkeln durch das unebene Gelände zurückfahren zu müssen.",
                 "hu": "Mivel a szürkület korán beköszönt, érdemes ezt a megállót hamar befejezni, hogy ne a teljes sötétben kelljen visszatekernie az egyenetlen terepen.",
                 "ro": "Deoarece amurgul vine devreme, ar trebui să terminați rapid această oprire pentru a nu fi nevoit să pedalați înapoi pe întuneric prin terenul accidentat.",
-                "en": "As twilight sets in early, finish this stop promptly to avoid cycling back through the uneven terrain in complete darkness during the late afternoon."
+                "en": "As twilight sets in early, finish this stop promptly to avoid cycling back through the uneven terrain in complete darkness during the late afternoon.",
+                "da": "Da skumringen kommer tidligt, afslut dette stop hurtigt for at undgå at cykle tilbage gennem det ujævne terræn i totalt mørke senere på eftermiddagen."
               }
             },
             {
@@ -683,13 +759,15 @@
                 "de": "Guldgraveriet",
                 "hu": "Guldgraveriet",
                 "ro": "Guldgraveriet",
-                "en": "Guldgraveriet"
+                "en": "Guldgraveriet",
+                "da": "Guldgraveriet"
               },
               "tip_5lang": {
                 "de": "Der Wind an der Küste ist im Winter extrem schneidend; halten Sie nur kurz inne, um das raue Meer zu bewundern, und treten Sie dann schnell den Rückweg an.",
                 "hu": "A parti szél télen rendkívül metsző; csak rövid ideig álljon meg megcsodálni a zord tengert, majd induljon is vissza a védettebb belső területek felé.",
                 "ro": "Vântul de coastă este extrem de tăios iarna; opriți-vă doar scurt pentru a admira marea agitată, apoi porniți rapid înapoi spre zonele adăpostite.",
-                "en": "The coastal wind is extremely piercing in winter; pause only briefly to admire the rough sea, then quickly head back towards the sheltered inland areas."
+                "en": "The coastal wind is extremely piercing in winter; pause only briefly to admire the rough sea, then quickly head back towards the sheltered inland areas.",
+                "da": "Kystvinden er ekstremt bidende om vinteren; hold kun korte pauser for at beundre det barske hav og vend så hurtigt tilbage mod de mere læede indlandsområder."
               }
             }
           ]
@@ -709,7 +787,8 @@
             "de": "Guldgraveriet",
             "hu": "Guldgraveriet",
             "ro": "Guldgraveriet",
-            "en": "Guldgraveriet"
+            "en": "Guldgraveriet",
+            "da": "Guldgraveriet"
           },
           "coords": [
             9.658015,
@@ -724,7 +803,8 @@
             "de": "Verbringen Sie eine vergnügliche Zeit an diesem Wahrzeichen der lokalen Freizeitkultur und probieren Sie selbst, ob Sie das verborgene \"Gold\" im Sand finden können.",
             "hu": "Töltsön el egy vidám időt a helyi szabadidős kultúra ezen nevezetességénél, és próbálja ki maga is, hogy megtalálja-e az elrejtett \"aranyat\" a homokban.",
             "ro": "Petreceți un timp distractiv la acest punct de reper al culturii de agrement locale și încercați singur dacă puteți găsi „aurul” ascuns în nisip.",
-            "en": "Spend a fun time at this landmark of local leisure culture and try for yourself whether you can find the hidden \"gold\" in the sand."
+            "en": "Spend a fun time at this landmark of local leisure culture and try for yourself whether you can find the hidden \"gold\" in the sand.",
+            "da": "Tilbring en sjov stund ved dette vartegn i lokal fritidskultur og prøv selv, om du kan finde det skjulte \"guld\" i sandet."
           }
         },
         {
@@ -732,7 +812,8 @@
             "de": "Guldager Høje",
             "hu": "Guldager Høje",
             "ro": "Guldager Høje",
-            "en": "Guldager Høje"
+            "en": "Guldager Høje",
+            "da": "Guldager Høje"
           },
           "coords": [
             9.660714,
@@ -747,7 +828,8 @@
             "de": "Bewundern Sie diese eindrucksvolle Ansammlung prähistorischer Grabhügel und versuchen Sie, die Anordnung der Gräber im Kontext der frühen Siedlungsgeschichte zu verstehen.",
             "hu": "Csodálja meg az őskori sírhalmok lenyűgöző gyűjteményét, és próbálja megérteni a sírok elrendezését a korai településtörténet kontextusában.",
             "ro": "Admirați această colecție impresionantă de tumuli preistorici și încercați să înțelegeți aspectul mormintelor în contextul istoriei așezărilor timpurii.",
-            "en": "Admire this impressive collection of prehistoric burial mounds and try to understand the layout of the graves in the context of early settlement history."
+            "en": "Admire this impressive collection of prehistoric burial mounds and try to understand the layout of the graves in the context of early settlement history.",
+            "da": "Beundr denne imponerende samling af forhistoriske gravhøje og forsøg at forstå gravernes placering i lyset af tidlig bosættelseshistorie."
           }
         },
         {
@@ -755,7 +837,8 @@
             "de": "Egnssamlingen",
             "hu": "Egnssamlingen",
             "ro": "Egnssamlingen",
-            "en": "Egnssamlingen"
+            "en": "Egnssamlingen",
+            "da": "Egnssamlingen"
           },
           "coords": [
             9.696425,
@@ -770,7 +853,8 @@
             "de": "Tauchen Sie in diesem heimatgeschichtlichen Museum in das ländliche Leben vergangener Jahrhunderte ein und beachten Sie besonders die gut erhaltenen landwirtschaftlichen Werkzeuge.",
             "hu": "Merüljön el az elmúlt évszázadok vidéki életében ebben a helytörténeti múzeumban, és különösen figyeljen a jól megőrzött mezőgazdasági eszközökre.",
             "ro": "Cufundați-vă în viața rurală din secolele trecute în acest muzeu de istorie locală și acordați o atenție deosebită instrumentelor agricole bine conservate.",
-            "en": "Immerse yourself in the rural life of past centuries at this local history museum, paying particular attention to the well-preserved agricultural tools."
+            "en": "Immerse yourself in the rural life of past centuries at this local history museum, paying particular attention to the well-preserved agricultural tools.",
+            "da": "Dyk ned i det landlige liv fra tidligere århundreder på dette lokalhistoriske museum og læg særlig mærke til de velbevarede landbrugsredskaber."
           }
         },
         {
@@ -778,7 +862,8 @@
             "de": "Saltum Kirke",
             "hu": "Saltum Kirke",
             "ro": "Saltum Kirke",
-            "en": "Saltum Kirke"
+            "en": "Saltum Kirke",
+            "da": "Saltum Kirke"
           },
           "coords": [
             9.695455,
@@ -793,7 +878,8 @@
             "de": "Bewundern Sie die schlichte, aber würdevolle Architektur dieser alten Kirche, während Sie die ruhige Atmosphäre genießen und den historischen Friedhof erkunden.",
             "hu": "Csodálja meg a régi templom letisztult, méltóságteljes építészetét, miközben elmerül a békés hangulatban és felfedezi a történelmi temetőt.",
             "ro": "Admirați arhitectura simplă, dar demnă a acestei vechi biserici, în timp ce vă bucurați de atmosfera pașnică și explorați cimitirul istoric.",
-            "en": "Admire the simple but dignified architecture of this old church while enjoying the peaceful atmosphere and exploring the historic cemetery."
+            "en": "Admire the simple but dignified architecture of this old church while enjoying the peaceful atmosphere and exploring the historic cemetery.",
+            "da": "Beundr den enkle men værdige arkitektur i denne gamle kirke, nyd den fredelige stemning og udforsk den historiske kirkegård."
           }
         },
         {
@@ -801,7 +887,8 @@
             "de": "Tykhøj",
             "hu": "Tykhøj",
             "ro": "Tykhøj",
-            "en": "Tykhøj"
+            "en": "Tykhøj",
+            "da": "Tykhøj"
           },
           "coords": [
             9.729261,
@@ -816,7 +903,8 @@
             "de": "Wandern Sie zu diesem etwas abgelegeneren Hügelgrab im Osten der Gemeinde und genießen Sie die ungestörte Ruhe abseits der typischen Touristenpfade.",
             "hu": "Túrázzon el ehhez a kissé távolabbi sírhalomhoz a település keleti részén, és élvezze a zavartalan békét a tipikus turistaútvonalaktól távol.",
             "ro": "Faceți o drumeție către acest mormânt ceva mai îndepărtat din estul municipiului și bucurați-vă de liniștea netulburată, departe de rutele turistice tipice.",
-            "en": "Hike to this somewhat more remote burial mound in the east of the municipality and enjoy the undisturbed peace away from typical tourist routes."
+            "en": "Hike to this somewhat more remote burial mound in the east of the municipality and enjoy the undisturbed peace away from typical tourist routes.",
+            "da": "Vandre til denne noget mere fjerntliggende gravhøj i kommunens østlige del og nyd den uforstyrrede ro væk fra de typiske turiststrøg."
           }
         },
         {
@@ -824,7 +912,8 @@
             "de": "Blæshøj",
             "hu": "Blæshøj",
             "ro": "Blæshøj",
-            "en": "Blæshøj"
+            "en": "Blæshøj",
+            "da": "Blæshøj"
           },
           "coords": [
             9.710716,
@@ -839,7 +928,8 @@
             "de": "Schließen Sie Ihre Erkundungstour an diesem windumtosten Hügel ab und lassen Sie bei einem Panoramablick über Nordjütland die historischen Eindrücke des Tages Revue passieren.",
             "hu": "Fejezze be felfedező körútját ezen a szélfútta dombon, és tekintse át a nap történelmi benyomásait, miközben az észak-jütlandi panorámában gyönyörködik.",
             "ro": "Încheiați-vă turul de explorare pe acest deal bătut de vânt și revizuiți impresiile istorice ale zilei în timp ce vă bucurați de o priveliște panoramică asupra Iutlandei de Nord.",
-            "en": "Conclude your exploration tour at this windswept hill and review the day's historical impressions while enjoying a panoramic view over North Jutland."
+            "en": "Conclude your exploration tour at this windswept hill and review the day's historical impressions while enjoying a panoramic view over North Jutland.",
+            "da": "Afslut din udforskningstur ved denne vindblæste høj og gennemgå dagens historiske indtryk, mens du nyder en panoramaudsigt over Nordjylland."
           }
         }
       ],
@@ -847,7 +937,8 @@
         "de": "Die Fahrt beginnt aktiv am Guldgraveriet, gefolgt von einem Besuch der majestätischen Guldager Høje am Vormittag. Mittags führt die Tour ins Zentrum von Saltum, wo die Egnssamlingen einen umfassenden Einblick in das ländliche Erbe der Region gewährt. Am Nachmittag besichtigen Sie die spirituelle Ruhe der Saltum Kirke und fahren dann gemütlich weiter zum östlich gelegenen Tykhøj. Der Tag endet spektakulär am windigen Blæshøj, von wo aus Sie einen unvergesslichen Panoramablick genießen.",
         "hu": "Az autós túra aktívan indul a Guldgraverietnél, majd délelőtt meglátogatjuk a fenséges Guldager Høje-t. Délben a túra Saltum központjába vezet, ahol az Egnssamlingen átfogó betekintést nyújt a régió vidéki örökségébe. Délután meglátogatja a Saltum Kirke spirituális nyugalmát, majd kényelmesen továbbutazik a keletre fekvő Tykhøj-hez. A nap látványosan ér véget a szeles Blæshøj-n, ahonnan felejthetetlen panorámában gyönyörködhet.",
         "ro": "Plimbarea începe activ la Guldgraveriet, urmată de o vizită la maiestuosul Guldager Høje dimineața. La prânz, turul duce în centrul orașului Saltum, unde Egnssamlingen oferă o perspectivă cuprinzătoare asupra moștenirii rurale a regiunii. După-amiaza, vizitați liniștea spirituală a Bisericii Saltum și apoi conduceți confortabil până la Tykhøj, în est. Ziua se termină spectaculos pe vântul Blæshøj, de unde vă puteți bucura de o vedere panoramică de neuitat.",
-        "en": "The drive begins actively at Guldgraveriet, followed by a morning visit to the majestic Guldager Høje. At noon, the tour heads into the center of Saltum, where the Egnssamlingen provides a comprehensive insight into the region's rural heritage. In the afternoon, visit the spiritual tranquility of Saltum Kirke and then drive comfortably to Tykhøj in the east. The day ends spectacularly on the windy Blæshøj, from where you can enjoy an unforgettable panoramic view."
+        "en": "The drive begins actively at Guldgraveriet, followed by a morning visit to the majestic Guldager Høje. At noon, the tour heads into the center of Saltum, where the Egnssamlingen provides a comprehensive insight into the region's rural heritage. In the afternoon, visit the spiritual tranquility of Saltum Kirke and then drive comfortably to Tykhøj in the east. The day ends spectacularly on the windy Blæshøj, from where you can enjoy an unforgettable panoramic view.",
+        "da": "Kørslen begynder aktivt ved Guldgraveriet, efterfulgt af et formiddagsbesøg ved de storslåede Guldager Høje. Ved middagstid går turen ind mod Saltums centrum, hvor Egnssamlingen giver et omfattende indblik i områdets landbrugserhverv. Om eftermiddagen besøger du Saltum Kirkes åndelige ro og kører derefter bekvemt østpå til Tykhøj. Dagen slutter spektakulært på den vindblæste Blæshøj, hvor du kan nyde en uforglemmelig panoramaudsigt."
       },
       "variants": {
         "rainy": {
@@ -855,7 +946,8 @@
             "de": "Bei Regen ist das Auto die beste Wahl, um trocken durch die Dünenlandschaft zu gelangen. Sie können die Distanzen zwischen den Museen und der Kirche bequem im Trockenen überbrücken. Rechnen Sie bei den Außenstopps mit Matsch und halten Sie Wechselkleidung bereit. Die Sicht kann durch Nebel eingeschränkt sein; fahren Sie auf den kurvigen Küstenstraßen besonders vorsichtig.",
             "hu": "Esős időben az autó a legjobb választás a dűnék közötti közlekedéshez. A látnivalók közötti távokat szárazon teheti meg, a múzeumok és a templom pedig kiváló fedett programot nyújtanak. A délutáni megállóknál számítson sárra, ezért legyen kéznél váltócipő. Az esti órákban a látótávolság csökkenhet a köd miatt, a parti utak pedig csúszósak lehetnek; lassítson a kanyarokban.",
             "ro": "Pe ploaie, mașina este cea mai bună alegere pentru a călători prin dune. Puteți parcurge distanțele dintre muzee și biserică la adăpost, uscat. La opririle exterioare așteptați-vă la noroi, deci aveți pregătite haine de schimb. Vizibilitatea poate fi redusă din cauza ceții, iar drumurile de coastă pot fi alunecoase; încetiniți în curbe.",
-            "en": "In rainy weather, the car is the best choice for traveling between the dunes. You can cover the distances between museums and the church in dry comfort. Expect mud at outdoor stops, so keep spare shoes handy. Visibility may decrease due to fog in the evening, and coastal roads can be slippery; slow down on the bends."
+            "en": "In rainy weather, the car is the best choice for traveling between the dunes. You can cover the distances between museums and the church in dry comfort. Expect mud at outdoor stops, so keep spare shoes handy. Visibility may decrease due to fog in the evening, and coastal roads can be slippery; slow down on the bends.",
+            "da": "I regnvejr er bilen det bedste valg til at rejse mellem klitterne. Du kan tilbagelægge afstandene mellem museerne og kirken i tørt og behageligt tempo. Forvent mudder ved udendørs stop, så hav et par ekstra sko ved hånden. Sigthæmning kan forekomme på grund af tåge om aftenen, og kystveje kan være glatte; kør langsomt i svingene."
           },
           "stops": [
             {
@@ -863,13 +955,15 @@
                 "de": "Guldgraveriet",
                 "hu": "Guldgraveriet",
                 "ro": "Guldgraveriet",
-                "en": "Guldgraveriet"
+                "en": "Guldgraveriet",
+                "da": "Guldgraveriet"
               },
               "tip_5lang": {
                 "de": "Parken Sie so nah wie möglich am Aussichtspunkt, damit Sie nur kurz durch den Regen laufen müssen, um die stürmische Nordsee zu bewundern.",
                 "hu": "Parkoljon a lehető legközelebb a kilátóponthoz, hogy csak rövid ideig kelljen az esőben gyalogolnia a viharos Északi-tenger megcsodálásához.",
                 "ro": "Parcați cât mai aproape de punctul de observație pentru a merge doar scurt prin ploaie ca să admirați Marea Nordului învolburată.",
-                "en": "Park as close to the viewpoint as possible so you only have to walk briefly through the rain to admire the stormy North Sea landscape."
+                "en": "Park as close to the viewpoint as possible so you only have to walk briefly through the rain to admire the stormy North Sea landscape.",
+                "da": "Parkér så tæt på udsigtspunktet som muligt, så du kun skal gå kort gennem regnen for at beundre det stormfulde Vesterhav."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Guldager Høje",
                 "hu": "Guldager Høje",
                 "ro": "Guldager Høje",
-                "en": "Guldager Høje"
+                "en": "Guldager Høje",
+                "da": "Guldager Høje"
               },
               "tip_5lang": {
                 "de": "Der Weg zu den Hügeln kann rutschig sein; nutzen Sie das Auto als Basis, um sich nach einem kurzen, nassen Spaziergang schnell wieder aufzuwärmen.",
                 "hu": "A dombokhoz vezető út csúszós lehet; használja az autót bázisként, hogy egy rövid, vizes séta után gyorsan felmelegedhessen a fűtött utastérben.",
                 "ro": "Drumul spre dealuri poate fi alunecos; folosiți mașina ca bază pentru a vă încălzi rapid după o scurtă plimbare prin ploaie și vânt.",
-                "en": "The path to the mounds can be slippery; use the car as a base to warm up quickly after a short, wet walk through the grass and sand."
+                "en": "The path to the mounds can be slippery; use the car as a base to warm up quickly after a short, wet walk through the grass and sand.",
+                "da": "Stien til højene kan være glat; brug bilen som base for hurtigt at komme i læ efter en kort, våd gåtur gennem græs og sand."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Egnssamlingen",
                 "hu": "Egnssamlingen",
                 "ro": "Egnssamlingen",
-                "en": "Egnssamlingen"
+                "en": "Egnssamlingen",
+                "da": "Egnssamlingen"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den großen Parkplatz und verbringen Sie viel Zeit im Inneren, um dem stärksten Regen auszuweichen und die lokale Kultur trocken zu erleben.",
                 "hu": "Használja ki a tágas parkolót, és töltsön több időt bent, elkerülve a legerősebb esőt, miközben szárazon ismeri meg a helyi kultúrát.",
                 "ro": "ProfitExecutionați de parcarea spațioasă și petreceți mai mult timp în interior, evitând ploaia torențială în timp ce descoperiți cultura locală la uscat.",
-                "en": "Take advantage of the spacious parking and spend plenty of time indoors to avoid the heaviest rain while experiencing local culture in comfort."
+                "en": "Take advantage of the spacious parking and spend plenty of time indoors to avoid the heaviest rain while experiencing local culture in comfort.",
+                "da": "Udnyt den rummelige parkering og brug god tid indendørs for at undgå den værste regn, mens du oplever lokal kultur i komfort."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Saltum Kirke",
                 "hu": "Saltum Kirke",
                 "ro": "Saltum Kirke",
-                "en": "Saltum Kirke"
+                "en": "Saltum Kirke",
+                "da": "Saltum Kirke"
               },
               "tip_5lang": {
                 "de": "Die Kirche bietet einen wunderbaren, ruhigen Zufluchtsort; lassen Sie Ihre nassen Regenschirme am Eingang, um die historische Pracht im Trockenen zu genießen.",
                 "hu": "A templom csodálatos, csendes menedéket nyújt az eső elől; hagyja a vizes esernyőket a bejáratnál, hogy szárazon élvezhesse a történelmi pompát.",
                 "ro": "Biserica oferă un refugiu minunat și liniștit; lăsați umbrelele ude la intrare pentru a vă bucura de splendoarea istorică în interiorul uscat.",
-                "en": "The church offers a wonderful, quiet sanctuary from the rain; leave your wet umbrellas at the entrance to enjoy the historic splendor in dry comfort."
+                "en": "The church offers a wonderful, quiet sanctuary from the rain; leave your wet umbrellas at the entrance to enjoy the historic splendor in dry comfort.",
+                "da": "Kirken tilbyder et vidunderligt, roligt fristed fra regnen; efterlad våde paraplyer ved indgangen for at nyde den historiske pragt i tør komfort."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Tykhøj",
                 "hu": "Tykhøj",
                 "ro": "Tykhøj",
-                "en": "Tykhøj"
+                "en": "Tykhøj",
+                "da": "Tykhøj"
               },
               "tip_5lang": {
                 "de": "Der Parkplatz ist oft etwas schlammig; achten Sie beim Aussteigen auf Pfützen und genießen Sie die Aussicht am besten direkt vom Autofenster aus.",
                 "hu": "A parkoló gyakran sáros ilyenkor; figyeljen a tócsákra kiszálláskor, vagy élvezze a kilátást közvetlenül az autó ablakából, ha túl heves az eső.",
                 "ro": "Parcarea este adesea noroioasă; atenție la bălți la coborâre, sau admirați priveliștea direct de la fereastra mașinii dacă plouă prea tare.",
-                "en": "The parking area can be muddy; watch out for puddles when getting out, or enjoy the view directly from the car window if the rain is too heavy."
+                "en": "The parking area can be muddy; watch out for puddles when getting out, or enjoy the view directly from the car window if the rain is too heavy.",
+                "da": "Parkeringsområdet kan være mudret; pas på pytter, når du stiger ud, eller nyd udsigten direkte fra bilruden, hvis regnen er for kraftig."
               }
             },
             {
@@ -933,13 +1035,15 @@
                 "de": "Blæshøj",
                 "hu": "Blæshøj",
                 "ro": "Blæshøj",
-                "en": "Blæshøj"
+                "en": "Blæshøj",
+                "da": "Blæshøj"
               },
               "tip_5lang": {
                 "de": "An diesem windigen Punkt peitscht der Regen oft waagerecht; ein kurzer Halt genügt, bevor Sie es sich für die Rückfahrt wieder im Auto gemütlich machen.",
                 "hu": "Ezen a szeles ponton az eső gyakran vízszintesen esik; egy rövid megálló is elég, mielőtt újra elhelyezkedne a fűtött autó kényelmében a hazaúthoz.",
                 "ro": "În acest punct vântos ploaia cade adesea orizontal; o scurtă oprire este suficientă înainte de a vă întoarce la confortul mașinii pentru drumul spre casă.",
-                "en": "At this windy spot, rain often falls horizontally; a short stop is enough before settling back into the comfort of your car for the return journey."
+                "en": "At this windy spot, rain often falls horizontally; a short stop is enough before settling back into the comfort of your car for the return journey.",
+                "da": "På dette vindblæste sted falder regnen ofte vandret; et kort stop er nok, før du vender tilbage til bilens komfort på hjemturen."
               }
             }
           ]
@@ -949,7 +1053,8 @@
             "de": "Genießen Sie die winterliche dänische Landschaft aus dem Komfort Ihres beheizten Autos. Der Morgen beginnt an den windigen Küstendünen, bevor Sie mittags die wohlige Wärme der Museen suchen. Wegen des frühen Sonnenuntergangs gegen 17:00 Uhr sollten Sie die Aussichtspunkte am Nachmittag priorisieren. Fahren Sie vorsichtig, da die Straßen bei Frost schnell glatt werden können.",
             "hu": "A fűtött autó kényelméből csodálhatja meg a deres dán tájat. A reggel a tengerparti dűnéknél indul, délben pedig a múzeum melegében bújhat el a fagy elől. A korai sötétedés miatt a délutáni dombokat már a lemenő nap fényében láthatja. Az este hamar leszáll, így a Tykhøj utáni megállókat már lámpafénynél közelítse meg; a jeges utakon vezessen óvatosan a sötétben.",
             "ro": "Admirați peisajul înghețat al Danemarcei din confortul mașinii încălzite. Dimineața începe la dunele de coastă, iar la prânz vă puteți adăposti de ger în muzee. Din cauza apusului devreme, pe la ora 17:00, prioritizați punctele de observație după-amiaza. Conduceți cu prudență, deoarece drumurile pot deveni rapid alunecoase pe timp de îngheț.",
-            "en": "Enjoy the wintery Danish landscape from the comfort of your heated car. The morning starts at the windy coastal dunes, followed by the cozy warmth of museums at noon. Due to the early sunset around 17:00, prioritize viewpoints in the afternoon. Drive carefully as the roads can quickly become icy in freezing conditions."
+            "en": "Enjoy the wintery Danish landscape from the comfort of your heated car. The morning starts at the windy coastal dunes, followed by the cozy warmth of museums at noon. Due to the early sunset around 17:00, prioritize viewpoints in the afternoon. Drive carefully as the roads can quickly become icy in freezing conditions.",
+            "da": "Nyd det vinterlige danske landskab fra komforten i din opvarmede bil. Morgenen begynder ved de blæsende kystklitter, efterfulgt af museernes hyggelige varme ved middagstid. På grund af den tidlige solnedgang omkring kl. 17:00 prioriter udsigtspunkter om eftermiddagen. Kør forsigtigt, da vejene hurtigt kan blive isglatte i frostvejr."
           },
           "stops": [
             {
@@ -957,13 +1062,15 @@
                 "de": "Guldgraveriet",
                 "hu": "Guldgraveriet",
                 "ro": "Guldgraveriet",
-                "en": "Guldgraveriet"
+                "en": "Guldgraveriet",
+                "da": "Guldgraveriet"
               },
               "tip_5lang": {
                 "de": "Der Küstenwind ist im Winter extrem stechend; steigen Sie nur kurz aus dem beheizten Auto aus, um die beeindruckende Frostlandschaft zu bewundern.",
                 "hu": "A tengerparti szél télen rendkívül metsző; csak rövid időre szálljon ki a fűtött autóból a látvány megcsodálásához, majd meneküljön vissza a melegbe.",
                 "ro": "Vântul de coastă este extrem de tăios iarna; coborâți doar scurt din mașina încălzită pentru a admira peisajul înghețat impresionant.",
-                "en": "The coastal wind is extremely piercing in winter; only step out of your heated car briefly to admire the impressive frosty landscape and rough sea."
+                "en": "The coastal wind is extremely piercing in winter; only step out of your heated car briefly to admire the impressive frosty landscape and rough sea.",
+                "da": "Kystvinden er ekstremt bidende om vinteren; træd kun kort varigt ud af din opvarmede bil for at beundre det imponerende frostklædte landskab og det voldsomme hav."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Guldager Høje",
                 "hu": "Guldager Høje",
                 "ro": "Guldager Høje",
-                "en": "Guldager Høje"
+                "en": "Guldager Høje",
+                "da": "Guldager Høje"
               },
               "tip_5lang": {
                 "de": "Die tiefstehende Wintersonne bietet ein tolles Licht für Fotos der Hügel; halten Sie die Heizung im Auto an, während Sie kurz für ein Bild anhalten.",
                 "hu": "Az alacsonyan járó téli nap remek fényeket ad a dombok fotózásához; hagyja járni a fűtést az autóban, amíg kiszáll egy gyors fénykép erejéig.",
                 "ro": "Soarele jos de iarnă oferă o lumină excelentă pentru fotografii; lăsați căldura pornită în mașină cât timp coborâți pentru o poză rapidă cu dealurile.",
-                "en": "The low winter sun provides great light for photos of the mounds; keep the car heater running while you step out briefly for a quick picture of the landscape."
+                "en": "The low winter sun provides great light for photos of the mounds; keep the car heater running while you step out briefly for a quick picture of the landscape.",
+                "da": "Den lave vintersol giver godt lys til fotografier af højene; lad bilvarmen køre, mens du går kortvarigt ud for at tage et hurtigt billede af landskabet."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Egnssamlingen",
                 "hu": "Egnssamlingen",
                 "ro": "Egnssamlingen",
-                "en": "Egnssamlingen"
+                "en": "Egnssamlingen",
+                "da": "Egnssamlingen"
               },
               "tip_5lang": {
                 "de": "Dieses beheizte Museum ist der ideale Zufluchtsort am Mittag; genießen Sie die Ausstellung in aller Ruhe, während draußen der eisige Wind weht.",
                 "hu": "Ez a fűtött múzeum ideális búvóhely délidőben; élvezze a kiállítást teljes nyugalomban, miközben kint az északi jeges szél fütyül a dűnék között.",
                 "ro": "Acest muzeu încălzit este refugiul ideal la prânz; bucurați-vă de expoziție în liniște deplină, în timp ce afară vântul înghețat suflă printre dune.",
-                "en": "This heated museum is the ideal sanctuary at noon; enjoy the exhibition in peace while the icy North Sea wind whistles outside among the coastal dunes."
+                "en": "This heated museum is the ideal sanctuary at noon; enjoy the exhibition in peace while the icy North Sea wind whistles outside among the coastal dunes.",
+                "da": "Dette opvarmede museum er det ideelle fristed ved middagstid; nyd udstillingen i ro, mens den iskolde vestenvind hviner udenfor blandt klitterne."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Saltum Kirke",
                 "hu": "Saltum Kirke",
                 "ro": "Saltum Kirke",
-                "en": "Saltum Kirke"
+                "en": "Saltum Kirke",
+                "da": "Saltum Kirke"
               },
               "tip_5lang": {
                 "de": "Parken Sie direkt vor dem Tor, um den Weg durch die Kälte zu verkürzen; die Kirche bietet eine andächtige, friedliche Wärme an dunklen Wintertagen.",
                 "hu": "Parkoljon közvetlenül a kapu előtt, hogy lerövidítse a hidegben töltött utat; a templom békés és áhítatos meleget nyújt a sötét téli napokon.",
                 "ro": "Parcați chiar în fața porții pentru a scurta drumul prin frig; biserica oferă o căldură pașnică și plină de evlavie în zilele întunecate de iarnă.",
-                "en": "Park right in front of the gate to shorten your walk through the cold; the church provides a peaceful and prayerful warmth on dark winter days."
+                "en": "Park right in front of the gate to shorten your walk through the cold; the church provides a peaceful and prayerful warmth on dark winter days.",
+                "da": "Parkér lige foran lågen for at forkorte din gang gennem kulden; kirken giver en fredfyldt og bedende varme på mørke vinterdage."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Tykhøj",
                 "hu": "Tykhøj",
                 "ro": "Tykhøj",
-                "en": "Tykhøj"
+                "en": "Tykhøj",
+                "da": "Tykhøj"
               },
               "tip_5lang": {
                 "de": "Da es nun bereits dämmert, bietet der Hügel einen stimmungsvollen Blick auf die Lichter der Umgebung; fahren Sie vorsichtig auf den glatten Wegen zum Parkplatz.",
                 "hu": "Mivel már szürkület van, a dombról hangulatos kilátás nyílik a környék fényeire; vezessen óvatosan a parkolóhoz vezető esetlegesen jeges utakon.",
                 "ro": "Deoarece se înserează deja, dealul oferă o vedere pitorească asupra luminilor din jur; conduceți cu grijă spre parcare pe drumurile ce pot fi înghețate.",
-                "en": "As twilight has already set in, the hill offers an atmospheric view of the local lights; drive carefully to the parking area on potentially icy winter roads."
+                "en": "As twilight has already set in, the hill offers an atmospheric view of the local lights; drive carefully to the parking area on potentially icy winter roads.",
+                "da": "Da skumringen allerede har sænket sig, giver højen en stemningsfuld udsigt over de lokale lys; kør forsigtigt til parkeringsområdet på potentielt isglatte vinterveje."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Blæshøj",
                 "hu": "Blæshøj",
                 "ro": "Blæshøj",
-                "en": "Blæshøj"
+                "en": "Blæshøj",
+                "da": "Blæshøj"
               },
               "tip_5lang": {
                 "de": "Der Name ist Programm – hier oben bläst es im Winter heftig; genießen Sie das Panorama kurz und kehren Sie dann in Ihr warmes Auto zurück.",
                 "hu": "A név kötelez – itt fent télen rendkívül erősen fúj a szél; csak rövid ideig gyönyörködjön a panorámában, majd térjen vissza a fűtött autójába.",
                 "ro": "Numele spune totul – aici sus vântul suflă extrem de tare iarna; admirați panorama doar pentru scurt timp, apoi întoarceți-vă în mașina încălzită.",
-                "en": "The name says it all – it blows fiercely up here in winter; enjoy the panorama only briefly before returning to the cozy warmth of your heated car."
+                "en": "The name says it all – it blows fiercely up here in winter; enjoy the panorama only briefly before returning to the cozy warmth of your heated car.",
+                "da": "Navnet taler for sig selv – her blæser det kraftigt om vinteren; nyd panoramaet kun kortvarigt, før du vender tilbage til den hyggelige varme i din opvarmede bil."
               }
             }
           ]

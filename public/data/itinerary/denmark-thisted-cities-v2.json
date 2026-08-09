@@ -21,7 +21,8 @@
             "de": "Det Gamle Rådhus und Stadtzentrum",
             "hu": "A Régi Városháza és a városközpont",
             "ro": "Vechea Primărie și Centrul Orașului",
-            "en": "The Old Town Hall and Town Square"
+            "en": "The Old Town Hall and Town Square",
+            "da": "Det Gamle Rådhus og Rådhuspladsen"
           },
           "coords": [
             8.6885,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die Architektur und die Atmosphäre des Hauptplatzes.",
             "hu": "Csodálja meg az építészetet és élvezze a főtér hangulatát.",
             "ro": "Admirați arhitectura și simțiți atmosfera din piața principală.",
-            "en": "Admire the architecture and soak in the atmosphere of the main square."
+            "en": "Admire the architecture and soak in the atmosphere of the main square.",
+            "da": "Beundr arkitekturen og nyd stemningen på hovedpladsen."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Fjordstræde",
             "hu": "Fjordstræde utca",
             "ro": "Strada Fjordstræde",
-            "en": "Fjordstræde Street"
+            "en": "Fjordstræde Street",
+            "da": "Fjordstræde"
           },
           "coords": [
             8.6901,
@@ -59,7 +62,8 @@
             "de": "Die charmanteste Straße der Stadt mit kleinen, alten Fischerhäusern.",
             "hu": "A város legbájosabb utcája, tele apró, régi halászházakkal.",
             "ro": "Cea mai fermecătoare stradă din oraș, cu case vechi de pescari.",
-            "en": "The most charming street in town, with small, old fishermen's houses."
+            "en": "The most charming street in town, with small, old fishermen's houses.",
+            "da": "Byens mest charmerende gade med små, gamle fiskerhuse."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Thisted Kirke",
             "hu": "Thisted Templom",
             "ro": "Biserica Thisted",
-            "en": "Thisted Church"
+            "en": "Thisted Church",
+            "da": "Thisted Kirke"
           },
           "coords": [
             8.6865,
@@ -82,7 +87,8 @@
             "de": "Eine beeindruckende gotische Kirche. Suchen Sie nach den detaillierten Kalkmalereien.",
             "hu": "Lenyűgöző gótikus templom. Keresse a részletgazdag mészfestményeket!",
             "ro": "O biserică gotică impresionantă. Căutați picturile detaliate în calcar.",
-            "en": "An impressive Gothic church. Look for the detailed limestone paintings."
+            "en": "An impressive Gothic church. Look for the detailed limestone paintings.",
+            "da": "En imponerende gotisk kirke. Kig efter de detaljerede kalkmalerier."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Thisted Museum",
             "hu": "Thisted Múzeum",
             "ro": "Muzeul Thisted",
-            "en": "Thisted Museum"
+            "en": "Thisted Museum",
+            "da": "Thisted Museum"
           },
           "coords": [
             8.6841,
@@ -105,7 +112,8 @@
             "de": "Erfahren Sie mehr über die lokale Geschichte, von der Steinzeit bis heute.",
             "hu": "Ismerje meg a helyi történelmet a kőkorszaktól napjainkig.",
             "ro": "Aflați despre istoria locală, din epoca de piatră până în prezent.",
-            "en": "Learn about the local history, from the Stone Age to the present day."
+            "en": "Learn about the local history, from the Stone Age to the present day.",
+            "da": "Lær om lokal historie fra stenalder til nutid."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Christiansgave Park",
             "hu": "Christiansgave park",
             "ro": "Parcul Christiansgave",
-            "en": "Christiansgave Park"
+            "en": "Christiansgave Park",
+            "da": "Christiansgave Park"
           },
           "coords": [
             8.6788,
@@ -128,7 +137,8 @@
             "de": "Ein perfekter Ort für eine Mittagspause. Genießen Sie die Ruhe am See.",
             "hu": "Tökéletes hely egy ebédszünetre. Élvezze a tó melletti nyugalmat.",
             "ro": "Un loc perfect pentru o pauză de prânz. Bucurați-vă de liniștea de lângă lac.",
-            "en": "A perfect spot for a lunch break. Enjoy the tranquility by the lake."
+            "en": "A perfect spot for a lunch break. Enjoy the tranquility by the lake.",
+            "da": "Et perfekt sted til frokostpause. Nyd roen ved søen."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Thisted Bryghus",
             "hu": "Thisted Sörfőzde",
             "ro": "Berăria Thisted",
-            "en": "Thisted Brewery"
+            "en": "Thisted Brewery",
+            "da": "Thisted Bryghus"
           },
           "coords": [
             8.6933,
@@ -151,7 +162,8 @@
             "de": "Nehmen Sie an einer Führung teil und probieren Sie die berühmten Bio-Biere.",
             "hu": "Vegyen részt egy vezetett túrán és kóstolja meg a híres bio-söröket.",
             "ro": "Participați la un tur ghidat și degustați renumitele beri organice.",
-            "en": "Take a guided tour and sample the famous organic beers."
+            "en": "Take a guided tour and sample the famous organic beers.",
+            "da": "Tag en guidet rundvisning og smag de berømte økologiske øl."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Ihr Tag in Thisted beginnt im historischen Herzen der Stadt, rund um das Alte Rathaus. Am Vormittag erkunden Sie die gotische Kirche und das lokale Museum, das die Geschichte der Region Thy lebendig werden lässt. Nach einer entspannten Mittagspause im grünen Christiansgave Park führt Sie der Nachmittag zur berühmten Thisted Brauerei, einem Symbol für lokales Handwerk. Der Abend klingt bei einem herzhaften dänischen Essen aus.",
         "hu": "Thisted-i napja a város történelmi szívében, a Régi Városháza körül kezdődik. A délelőtt folyamán felfedezi a gótikus templomot és a helyi múzeumot, amely Thy régiójának történetét mutatja be. Egy pihentető ebédszünet után a zöldellő Christiansgave parkban, a délután a híres Thisted Sörfőzdéhez vezet, a helyi kézművesség szimbólumához. Az estét egy kiadós dán vacsorával zárhatja.",
         "ro": "Ziua dvs. în Thisted începe în inima istorică a orașului, în jurul Vechii Primării. Dimineața explorați biserica gotică și muzeul local, care aduce la viață istoria regiunii Thy. După o pauză de prânz relaxantă în parcul verde Christiansgave, după-amiaza vă duce la renumita berărie Thisted, un simbol al meșteșugului local. Seara se încheie cu o cină daneză copioasă.",
-        "en": "Your day in Thisted begins in the historic heart of the city, around the Old Town Hall. In the morning, you'll explore the Gothic church and the local museum, which brings the history of the Thy region to life. After a relaxing lunch break in the green Christiansgave park, the afternoon takes you to the famous Thisted Brewery, a symbol of local craftsmanship. The evening concludes with a hearty Danish dinner."
+        "en": "Your day in Thisted begins in the historic heart of the city, around the Old Town Hall. In the morning, you'll explore the Gothic church and the local museum, which brings the history of the Thy region to life. After a relaxing lunch break in the green Christiansgave park, the afternoon takes you to the famous Thisted Brewery, a symbol of local craftsmanship. The evening concludes with a hearty Danish dinner.",
+        "da": "Din dag i Thisted begynder i byens historiske hjerte omkring det Gamle Rådhus. Om formiddagen udforsker du den gotiske kirke og det lokale museum, som gør Thys historie levende. Efter en afslappende frokostpause i Christiansgave Park fører eftermiddagen dig til det berømte Thisted Bryghus, et symbol på lokalt håndværk. Aftenen afsluttes med en solid dansk middag."
       },
       "gastro_picks": {
         "de": [
@@ -351,6 +364,11 @@
           "Wear comfortable shoes as the city center is compact and very walkable.",
           "Check the opening hours for Thisted Museum and the brewery in advance.",
           "A walk along the harbor at sunset is highly recommended."
+        ],
+        "da": [
+          "Brug komfortable sko, da bymidten er kompakt og meget gåvenlig.",
+          "Tjek åbningstider for Thisted Museum og bryghuset på forhånd.",
+          "En gåtur langs havnen ved solnedgang er stærkt anbefalet."
         ]
       },
       "variants": {
@@ -359,7 +377,8 @@
             "de": "Vormittag: Start am Alten Rathaus, Schutz unter den Arkaden suchen. Die historische Fjordstræde wirkt auch bei Regen charmant. Mittag: Die Thisted-Kirche und das Museum bieten ideale, trockene Rückzugsorte mit viel Kultur. Nachmittag: Ein kurzer Spaziergang durch Christiansgave; die Bäume bieten etwas Schutz vor dem Wind. Abend: Gemütlicher Abschluss in der Brauerei bei lokaler Bierverkostung.",
             "hu": "Reggel: Kezdés a régi városházánál, az árkádok védenek az esőtől. A Fjordstræde színes házai borús időben is szépek. Délben: A templom és a múzeum kiváló belső helyszínek a záporok elől. Délután: Rövid séta a Christiansgave parkban, ahol a lombok némi védelmet nyújtanak. Este: A napot a Thisted sörfőzde barátságos kóstolótermében zárjuk, szárazon és vidáman.",
             "ro": "Dimineața: Începeți la Vechea Primărie, folosind arcadele pentru a rămâne uscați. Strada Fjordstræde este fermecătoare chiar și pe ploaie. Prânz: Biserica și Muzeul Thisted sunt refugii culturale ideale împotriva vremii umede. După-amiaza: O plimbare rapidă prin parcul Christiansgave, unde copacii oferă adăpost. Seara: Încheiere relaxantă la berăria locală, savurând arome artizanale într-un mediu cald.",
-            "en": "Morning: Start at the Old Town Hall, using its arches to stay dry. Fjordstræde Street remains picturesque even under grey skies. Noon: Thisted Church and the Museum are perfect indoor retreats from the Danish rain. Afternoon: A brief loop through Christiansgave Park; the old trees provide a natural canopy. Evening: Warm up at Thisted Brewery with a guided tasting in their cozy taproom."
+            "en": "Morning: Start at the Old Town Hall, using its arches to stay dry. Fjordstræde Street remains picturesque even under grey skies. Noon: Thisted Church and the Museum are perfect indoor retreats from the Danish rain. Afternoon: A brief loop through Christiansgave Park; the old trees provide a natural canopy. Evening: Warm up at Thisted Brewery with a guided tasting in their cozy taproom.",
+            "da": "Morgen: Start ved det Gamle Rådhus og brug dets hvælvinger som læ for regn. Fjordstræde er stadig malerisk under grå himmel. Middag: Thisted Kirke og Museet er perfekte indendørs tilflugtssteder fra dansk regn. Eftermiddag: En kort runde gennem Christiansgave Park; de gamle træer danner en naturlig baldakin. Aften: Få varmen på Thisted Bryghus med en guidet smagning i deres hyggelige taproom."
           },
           "stops": [
             {
@@ -368,7 +387,8 @@
                 "de": "Nutzen Sie den Dachüberhang des Rathauses als Treffpunkt bei Schauern.",
                 "hu": "Használja a városháza árkádjait találkozási pontként eső esetén.",
                 "ro": "Folosiți arcadele primăriei ca punct de întâlnire în caz de aversă.",
-                "en": "Use the town hall's overhangs as a meeting point during showers."
+                "en": "Use the town hall's overhangs as a meeting point during showers.",
+                "da": "Brug rådhusets udhæng som mødested under byger."
               }
             },
             {
@@ -377,7 +397,8 @@
                 "de": "Die Kopfsteinpflaster können bei Nässe rutschig sein; vorsichtig gehen.",
                 "hu": "A macskakő nedvesen csúszós lehet; közlekedjen óvatosan.",
                 "ro": "Pavelele pot fi alunecoase când sunt ude; mergeți cu atenție.",
-                "en": "Cobblestones can be slippery when wet; walk with care."
+                "en": "Cobblestones can be slippery when wet; walk with care.",
+                "da": "Brosten kan være glatte, når de er våde; gå forsigtigt."
               }
             },
             {
@@ -386,7 +407,8 @@
                 "de": "Ein ruhiger Ort, um den Regen abzuwarten und die Fresken zu bewundern.",
                 "hu": "Csendes hely az eső kivárására és a freskók megcsodálására.",
                 "ro": "Un loc liniștit pentru a aștepta oprirea ploii și a admira frescele.",
-                "en": "A quiet place to wait out the rain and admire the frescos."
+                "en": "A quiet place to wait out the rain and admire the frescos.",
+                "da": "Et roligt sted at vente regnen ud og beundre freskerne."
               }
             },
             {
@@ -395,7 +417,8 @@
                 "de": "Planen Sie hier mehr Zeit ein, um dem Regen komplett zu entfliehen.",
                 "hu": "Töltsön itt több időt, hogy teljesen elkerülje a kinti esőt.",
                 "ro": "Planificați mai mult timp aici pentru a evita complet ploaia.",
-                "en": "Plan extra time here to fully escape the rain outside."
+                "en": "Plan extra time here to fully escape the rain outside.",
+                "da": "Planlæg ekstra tid her for fuldt ud at undslippe regnen udenfor."
               }
             },
             {
@@ -404,7 +427,8 @@
                 "de": "Bleiben Sie auf den befestigten Wegen, um Matsch zu vermeiden.",
                 "hu": "Maradjon a burkolt utakon, hogy elkerülje a sarat.",
                 "ro": "Rămâneți pe aleile pavate pentru a evita noroiul.",
-                "en": "Stick to the paved paths to avoid muddy sections."
+                "en": "Stick to the paved paths to avoid muddy sections.",
+                "da": "Hold dig til de brolagte stier for at undgå mudrede partier."
               }
             },
             {
@@ -413,7 +437,8 @@
                 "de": "Der perfekte Ort, um nasse Kleidung bei einem warmen Getränk zu trocknen.",
                 "hu": "Tökéletes hely a vizes ruhák megszárítására egy ital mellett.",
                 "ro": "Locul perfect pentru a vă usca hainele la un pahar de bere.",
-                "en": "The perfect place to dry off your gear over a local brew."
+                "en": "The perfect place to dry off your gear over a local brew.",
+                "da": "Det perfekte sted at få tørret udstyret over en lokal øl."
               }
             }
           ],
@@ -441,6 +466,12 @@
               "The museum has a cloakroom available for wet coats.",
               "Utilize the overhangs along the pedestrian street for cover.",
               "A windproof umbrella is essential due to strong gusts from the water."
+            ],
+            "da": [
+              "Brug vandtætte sko, da fjordvindene kan drive regnen sidelæns.",
+              "Museet har en garderobe til våde frakker.",
+              "Udnyt udhængene langs gågaden som dækning.",
+              "Et vindstærkt paraply er essentielt på grund af kraftige vindstød fra vandet."
             ]
           }
         },
@@ -449,7 +480,8 @@
             "de": "Vormittag: Die Altstadt wirkt im Winterfrost besonders klar und ruhig. Bewundern Sie die Architektur am Rathaus. Mittag: Die beheizte Kirche und das Museum bieten willkommene Wärme und tiefen Einblick in die Geschichte von Thy. Nachmittag: Christiansgave Park bei frühem Sonnenuntergang erleben; die kahlen Bäume wirken fast skulptural. Abend: In der Brauerei einkehren und ein saisonales Winterbier am warmen Tresen genießen.",
             "hu": "Reggel: Az óváros téli fagyban különösen tiszta és nyugodt. Csodálja meg a városháza környékét. Délben: A fűtött templom és múzeum hívogató meleget és érdekes történelmi látnivalókat kínál. Délután: Christiansgave park a korai naplementében; a kopár ágak közt átszűrődő fény varázslatos. Este: Irány a sörfőzde, ahol a szezonális téli sörök és a meleg belső tér várja a látogatót.",
             "ro": "Dimineața: Centrul vechi este clar și liniștit sub gerul iernii. Admirați arhitectura primăriei. Prânz: Biserica încălzită și muzeul oferă o căldură binevenită și o privire asupra istoriei locale. După-amiaza: Parcul Christiansgave la apusul timpuriu; arborii desfrunziți creează un peisaj dramatic. Seara: Opriți-vă la berărie pentru a savura o bere de iarnă sezonieră într-o atmosferă primitoare.",
-            "en": "Morning: The old town is crisp and quiet in the winter frost. Admire the historic facades near the Town Hall. Noon: Step into the warm museum and church to learn about local heritage while escaping the cold. Afternoon: Experience Christiansgave Park during the early sunset; the bare branches frame the fjord beautifully. Evening: Finish at the brewery, where seasonal winter ales provide comfort after a cold day."
+            "en": "Morning: The old town is crisp and quiet in the winter frost. Admire the historic facades near the Town Hall. Noon: Step into the warm museum and church to learn about local heritage while escaping the cold. Afternoon: Experience Christiansgave Park during the early sunset; the bare branches frame the fjord beautifully. Evening: Finish at the brewery, where seasonal winter ales provide comfort after a cold day.",
+            "da": "Morgen: Den gamle by er klar og stille i vinterfrosten. Beundr de historiske facader ved Rådhuset. Middag: Træd ind i det varme museum og kirken for at lære om lokal arv og slippe for kulden. Eftermiddag: Oplev Christiansgave Park i det tidlige skumring; de nøgne grene indrammer fjorden smukt. Aften: Afslut på bryghuset, hvor sæsonens vinterøl giver trøst efter en kold dag."
           },
           "stops": [
             {
@@ -458,7 +490,8 @@
                 "de": "Achten Sie auf Glatteis auf dem Marktplatz am frühen Morgen.",
                 "hu": "Vigyázzon a reggeli jegesedésre a főtéren.",
                 "ro": "Atenție la polei în piața centrală la orele dimineții.",
-                "en": "Watch out for black ice on the square in the early morning."
+                "en": "Watch out for black ice on the square in the early morning.",
+                "da": "Pas på sort is på pladsen tidligt om morgenen."
               }
             },
             {
@@ -467,7 +500,8 @@
                 "de": "Die bunten Häuser bilden einen tollen Kontrast zum Winterhimmel.",
                 "hu": "A színes házak remek kontrasztot alkotnak a téli égbolttal.",
                 "ro": "Casele colorate oferă un contrast superb cu cerul de iarnă.",
-                "en": "The colorful houses offer a great contrast against the winter sky."
+                "en": "The colorful houses offer a great contrast against the winter sky.",
+                "da": "De farverige huse skaber en flot kontrast mod vinterhimlen."
               }
             },
             {
@@ -476,7 +510,8 @@
                 "de": "Suchen Sie hier kurz Wärme und bewundern Sie das Votivschiff.",
                 "hu": "Melegedjen fel bent, és nézze meg a fogadalmi hajómodellt.",
                 "ro": "Încălziți-vă în interior și admirați corabia votivă.",
-                "en": "Warm up inside and check out the historic votive ship."
+                "en": "Warm up inside and check out the historic votive ship.",
+                "da": "Få varmen indendørs og se den historiske votivskib."
               }
             },
             {
@@ -485,7 +520,8 @@
                 "de": "Ein großartiger Ort für eine ausgiebige Pause im Warmen.",
                 "hu": "Nagyszerű hely egy hosszabb, meleg pihenőre.",
                 "ro": "Un loc excelent pentru o pauză prelungită la căldură.",
-                "en": "A great spot for an extended break in a heated environment."
+                "en": "A great spot for an extended break in a heated environment.",
+                "da": "Et godt sted til en længere pause i et opvarmet miljø."
               }
             },
             {
@@ -494,7 +530,8 @@
                 "de": "Besuchen Sie den Park vor 16 Uhr, bevor es dunkel wird.",
                 "hu": "Látogasson el ide 16 óra előtt, mielőtt besötétedik.",
                 "ro": "Vizitați parcul înainte de ora 16:00, când se lasă întunericul.",
-                "en": "Visit the park before 4 PM to catch the last daylight."
+                "en": "Visit the park before 4 PM to catch the last daylight.",
+                "da": "Besøg parken før kl. 16 for at fange det sidste dagslys."
               }
             },
             {
@@ -503,7 +540,8 @@
                 "de": "Probieren Sie das berühmte 'Julebryg', wenn Sie im Dezember hier sind.",
                 "hu": "Kóstolja meg a híres karácsonyi sört, ha decemberben jár itt.",
                 "ro": "Gustați faimoasa bere de Crăciun dacă vizitați în decembrie.",
-                "en": "Try the famous 'Julebryg' if visiting during the festive season."
+                "en": "Try the famous 'Julebryg' if visiting during the festive season.",
+                "da": "Prøv den berømte 'Julebryg', hvis du besøger i juletiden."
               }
             }
           ],
@@ -531,6 +569,12 @@
               "Sunset occurs as early as 4 PM; plan outdoor time accordingly.",
               "Cobblestones can be treacherous when icy; walk slowly.",
               "Look for local cafes serving warm Glögg to heat up."
+            ],
+            "da": [
+              "Kle dig i lag for at bekæmpe den bidende vind fra Limfjorden.",
+              "Solnedgang kan være allerede kl. 16; planlæg udendørstid derefter.",
+              "Brosten kan være farlige, når de er isglatte; gå langsomt.",
+              "Søg efter lokale caféer, der serverer varm gløgg for at få varmen."
             ]
           }
         }
@@ -549,7 +593,8 @@
             "de": "Stadtzentrum & Det Gamle Rådhus",
             "hu": "Városközpont és a Régi Városháza",
             "ro": "Centrul Orașului & Vechea Primărie",
-            "en": "City Center & The Old Town Hall"
+            "en": "City Center & The Old Town Hall",
+            "da": "Bymidte & Det Gamle Rådhus"
           },
           "coords": [
             8.6885,
@@ -564,7 +609,8 @@
             "de": "Starten Sie Ihre Radtour hier, nachdem Sie den Platz erkundet haben.",
             "hu": "Innen induljon a kerékpártúra, miután felfedezte a teret.",
             "ro": "Începeți turul cu bicicleta de aici după ce ați explorat piața.",
-            "en": "Start your bike tour here after exploring the square."
+            "en": "Start your bike tour here after exploring the square.",
+            "da": "Start din cykeltur her efter at have udforsket pladsen."
           }
         },
         {
@@ -572,7 +618,8 @@
             "de": "Thisted Kirke",
             "hu": "Thisted Templom",
             "ro": "Biserica Thisted",
-            "en": "Thisted Church"
+            "en": "Thisted Church",
+            "da": "Thisted Kirke"
           },
           "coords": [
             8.6865,
@@ -587,7 +634,8 @@
             "de": "Stellen Sie Ihr Fahrrad ab und bewundern Sie die gotische Architektur.",
             "hu": "Zárja le a biciklit és csodálja meg a gótikus építészetet.",
             "ro": "Parcați bicicleta și admirați arhitectura gotică.",
-            "en": "Lock up your bike and admire the Gothic architecture."
+            "en": "Lock up your bike and admire the Gothic architecture.",
+            "da": "Lås din cykel og nyd den gotiske arkitektur."
           }
         },
         {
@@ -595,7 +643,8 @@
             "de": "Thisted Museum",
             "hu": "Thisted Múzeum",
             "ro": "Muzeul Thisted",
-            "en": "Thisted Museum"
+            "en": "Thisted Museum",
+            "da": "Thisted Museum"
           },
           "coords": [
             8.6841,
@@ -610,7 +659,8 @@
             "de": "Ein guter Ort, um mehr über die Gegend zu erfahren, bevor Sie weiter radeln.",
             "hu": "Jó hely, hogy többet tudjon meg a környékről, mielőtt továbbteker.",
             "ro": "Un loc bun pentru a învăța despre zonă înainte de a continua pedalatul.",
-            "en": "A good place to learn about the area before you cycle further."
+            "en": "A good place to learn about the area before you cycle further.",
+            "da": "Et godt sted at lære om området, før du cykler videre."
           }
         },
         {
@@ -618,7 +668,8 @@
             "de": "Mittagessen am Hafen",
             "hu": "Ebéd a kikötőben",
             "ro": "Prânz în port",
-            "en": "Lunch at the Harbour"
+            "en": "Lunch at the Harbour",
+            "da": "Frokost ved Havnen"
           },
           "coords": [
             8.692,
@@ -633,7 +684,8 @@
             "de": "Stärken Sie sich mit frischem Fisch für die nächste Etappe.",
             "hu": "Erősítsen friss hallal a következő szakasz előtt.",
             "ro": "Întăriți-vă cu pește proaspăt pentru următoarea etapă.",
-            "en": "Refuel with some fresh fish for the next leg of the journey."
+            "en": "Refuel with some fresh fish for the next leg of the journey.",
+            "da": "Fyld depoterne med frisk fisk til næste etape."
           }
         },
         {
@@ -641,7 +693,8 @@
             "de": "Sjørring Volde",
             "hu": "Sjørring Volde (földvár)",
             "ro": "Fortificațiile Sjørring Volde",
-            "en": "Sjørring Volde (Earthworks)"
+            "en": "Sjørring Volde (Earthworks)",
+            "da": "Sjørring Volde (Volde)"
           },
           "coords": [
             8.751,
@@ -656,7 +709,8 @@
             "de": "Eine angenehme Radtour zu den Überresten der größten mittelalterlichen Burg Dänemarks.",
             "hu": "Kellemes kerékpártúra Dánia legnagyobb középkori várának maradványaihoz.",
             "ro": "O plimbare plăcută cu bicicleta la rămășițele celui mai mare castel medieval din Danemarca.",
-            "en": "A pleasant bike ride to the remains of Denmark's largest medieval castle."
+            "en": "A pleasant bike ride to the remains of Denmark's largest medieval castle.",
+            "da": "En behagelig cykeltur til resterne af Danmarks største middelalderborg."
           }
         },
         {
@@ -664,7 +718,8 @@
             "de": "Thisted Bryghus",
             "hu": "Thisted Sörfőzde",
             "ro": "Berăria Thisted",
-            "en": "Thisted Brewery"
+            "en": "Thisted Brewery",
+            "da": "Thisted Bryghus"
           },
           "coords": [
             8.6933,
@@ -679,7 +734,8 @@
             "de": "Beenden Sie Ihre Radtour mit einer wohlverdienten Bierprobe.",
             "hu": "Zárja a kerékpártúrát egy jól megérdemelt sörkóstolóval.",
             "ro": "Încheiați turul cu bicicleta cu o degustare de bere bine meritată.",
-            "en": "End your bike tour with a well-deserved beer tasting."
+            "en": "End your bike tour with a well-deserved beer tasting.",
+            "da": "Afslut din cykeltur med en velfortjent ølsmagning."
           }
         }
       ],
@@ -687,7 +743,8 @@
         "de": "Schwingen Sie sich aufs Rad für eine Entdeckungstour durch Thisted und Umgebung. Der Morgen führt Sie zu den wichtigsten Sehenswürdigkeiten im Stadtzentrum. Nach einem stärkenden Mittagessen am Hafen radeln Sie am Nachmittag hinaus in die Geschichte zu den beeindruckenden Wallanlagen von Sjørring Volde. Die Tour endet perfekt mit einem erfrischenden Bio-Bier in der berühmten Thisted Brauerei.",
         "hu": "Pattanjon kerékpárra, és fedezze fel Thistedet és környékét! A reggel a belváros legfontosabb látnivalóihoz vezet. A kikötőben elköltött ebéd után délután a történelembe tekerhet, Sjørring Volde lenyűgöző földsáncaihoz. A túra tökéletes lezárása egy frissítő bio-sör a híres Thisted Sörfőzdében.",
         "ro": "Urcați-vă pe bicicletă pentru un tur de descoperire prin Thisted și împrejurimi. Dimineața vă duce la cele mai importante atracții din centrul orașului. După un prânz revigorant în port, după-amiaza pedalați în istorie la impresionantul sit arheologic Sjørring Volde. Turul se încheie perfect cu o bere organică răcoritoare la renumita berărie Thisted.",
-        "en": "Get on your bike for a discovery tour of Thisted and its surroundings. The morning takes you to the main sights in the city center. After a fortifying lunch at the harbor, you'll cycle out into history in the afternoon to the impressive earthworks of Sjørring Volde. The tour ends perfectly with a refreshing organic beer at the famous Thisted Brewery."
+        "en": "Get on your bike for a discovery tour of Thisted and its surroundings. The morning takes you to the main sights in the city center. After a fortifying lunch at the harbor, you'll cycle out into history in the afternoon to the impressive earthworks of Sjørring Volde. The tour ends perfectly with a refreshing organic beer at the famous Thisted Brewery.",
+        "da": "Sæt dig på cyklen for en opdagelsestur i Thisted og omegn. Formiddagen fører dig til byens hovedseværdigheder. Efter en styrkende frokost ved havnen cykler du ud i historien om eftermiddagen til de imponerende volde ved Sjørring. Turen slutter perfekt med en forfriskende økologisk øl på det berømte Thisted Bryghus."
       },
       "gastro_picks": {
         "de": [
@@ -879,6 +936,11 @@
           "Rent a bike in advance, especially during high season.",
           "The route to Sjørring Volde is relatively flat, but check the weather forecast.",
           "Bring water and snacks for the longer bike ride."
+        ],
+        "da": [
+          "Lej en cykel i forvejen, især i højsæsonen.",
+          "Ruten til Sjørring Volde er forholdsvis flad, men tjek vejrudsigten.",
+          "Medbring vand og snacks til den længere cykeltur."
         ]
       },
       "variants": {
@@ -887,7 +949,8 @@
             "de": "Vormittag: Kurze Fahrt durch das Zentrum zur Kirche; auf rutschige Fliesen achten. Mittag: Das Museum bietet eine lange Pause zum Trocknen der Kleidung. Nachmittag: Fahrt zum Hafen für einen Lunch mit Blick auf den regnerischen Fjord, dann mutig weiter nach Sjørring. Abend: Rückkehr zur Brauerei, wo die Räder sicher abgestellt werden können und das Team mit Kaltgetränken wartet.",
             "hu": "Reggel: Rövid tekerés a központon át a templomig; vigyázzon a csúszós burkolatra. Délben: A múzeumban tölthetünk több időt, amíg a ruháink száradnak. Délután: Ebéd a kikötőben kilátással a borús fjorda, majd egy kör Sjørring felé. Este: Visszatérés a sörfőzdéhez, ahol biztonságos kerékpártárolók és frissítő sörök várják a kitartó bringásokat.",
             "ro": "Dimineața: O scurtă plimbare prin centru spre biserică; atenție la gresia alunecoasă. Prânz: Muzeul oferă o pauză lungă pentru a vă usca echipamentul. După-amiaza: Prânz în port cu vedere la fjordul ploios, apoi o tură spre Sjørring. Seara: Revenire la berărie, unde puteți lăsa bicicleta în siguranță și vă puteți bucura de o băutură binemeritată.",
-            "en": "Morning: A quick ride through the center to the church; watch for slick surfaces. Noon: The museum provides a long indoor break to let your gear dry. Afternoon: Lunch at the harbour with rainy fjord views, then a ride out to Sjørring Volde. Evening: Return to the brewery, where covered bike racks are available nearby and local crafts await the resilient cyclists."
+            "en": "Morning: A quick ride through the center to the church; watch for slick surfaces. Noon: The museum provides a long indoor break to let your gear dry. Afternoon: Lunch at the harbour with rainy fjord views, then a ride out to Sjørring Volde. Evening: Return to the brewery, where covered bike racks are available nearby and local crafts await the resilient cyclists.",
+            "da": "Morgen: En kort tur gennem centrum til kirken; vær opmærksom på glatte overflader. Middag: Museet giver en lang indendørs pause, så dit udstyr kan tørre. Eftermiddag: Frokost ved havnen med regnfulde fjordudsigter, derefter en tur ud til Sjørring Volde. Aften: Tilbage til bryghuset, hvor overdækkede cykelstativer er tilgængelige i nærheden, og lokalt håndværk venter de seje cyklister."
           },
           "stops": [
             {
@@ -896,7 +959,8 @@
                 "de": "Vermeiden Sie scharfe Kurven auf dem nassen Marktplatz.",
                 "hu": "Kerülje az éles kanyarodást a nedves főtéren.",
                 "ro": "Evitați virajele strânse pe pavajul umed din piață.",
-                "en": "Avoid sharp turns on the wet town square pavement."
+                "en": "Avoid sharp turns on the wet town square pavement.",
+                "da": "Undgå skarpe sving på det våde torvbelægning."
               }
             },
             {
@@ -905,7 +969,8 @@
                 "de": "Nutzen Sie den überdachten Kircheneingang zum Abstellen der Räder.",
                 "hu": "Használja a templom fedett bejáratát a bringák leállításához.",
                 "ro": "Folosiți intrarea acoperită a bisericii pentru a lăsa bicicletele.",
-                "en": "Use the church's covered entrance porch to park briefly."
+                "en": "Use the church's covered entrance porch to park briefly.",
+                "da": "Brug kirkens overdækkede indgangsportal til kortvarig parkering."
               }
             },
             {
@@ -914,7 +979,8 @@
                 "de": "Gute Gelegenheit, nasse Handschuhe an der Heizung zu wärmen.",
                 "hu": "Jó alkalom a vizes kesztyűk megszárítására a fűtőtestnél.",
                 "ro": "O ocazie bună pentru a vă usca mănușile lângă calorifer.",
-                "en": "A good opportunity to dry wet gloves near the heaters."
+                "en": "A good opportunity to dry wet gloves near the heaters.",
+                "da": "En god mulighed for at tørre våde handsker ved varmeskilderne."
               }
             },
             {
@@ -923,7 +989,8 @@
                 "de": "Suchen Sie ein Restaurant mit Fahrradständern direkt vor der Tür.",
                 "hu": "Keressen olyan éttermet, ahol közvetlenül az ajtó előtt van tároló.",
                 "ro": "Căutați un restaurant cu suporturi de biciclete chiar la intrare.",
-                "en": "Look for a restaurant with bike racks right by the entrance."
+                "en": "Look for a restaurant with bike racks right by the entrance.",
+                "da": "Søg efter en restaurant med cykelstativer lige ved indgangen."
               }
             },
             {
@@ -932,7 +999,8 @@
                 "de": "Die Graspfade sind bei Regen sehr schlammig; auf Schotter bleiben.",
                 "hu": "A füves utak sárga alakulhatnak; maradjon a kavicsos részen.",
                 "ro": "Cărările de iarbă devin noroioase; rămâneți pe pietriș.",
-                "en": "Grass paths get muddy in the rain; stick to the gravel tracks."
+                "en": "Grass paths get muddy in the rain; stick to the gravel tracks.",
+                "da": "Grusstier bliver mudrede i regn; hold dig til grusvejene."
               }
             },
             {
@@ -941,7 +1009,8 @@
                 "de": "Belohnung für die Fahrt durch den Regen; warme Atmosphäre.",
                 "hu": "Jutalom az esős tekerésért; meleg és barátságos környezet.",
                 "ro": "Recompensa pentru tura prin ploaie; atmosferă primitoare.",
-                "en": "Reward for the rainy ride; warm indoor atmosphere."
+                "en": "Reward for the rainy ride; warm indoor atmosphere.",
+                "da": "Belønning for den våde tur; varm indendørs atmosfære."
               }
             }
           ],
@@ -969,6 +1038,12 @@
               "Avoid riding on road markings; they become incredibly slick.",
               "Wear a full rain suit including waterproof trousers.",
               "Check your brake pads before descending toward the harbour."
+            ],
+            "da": [
+              "Skærme (mudguards) er essentielle til turen ud til Sjørring Volde.",
+              "Undgå at køre på vejmarkeringer; de bliver utrolig glatte.",
+              "Bær en komplet regndragt inklusive vandtætte bukser.",
+              "Tjek dine bremseklodser inden nedkørslen mod havnen."
             ]
           }
         },
@@ -977,7 +1052,8 @@
             "de": "Vormittag: Eine erfrischende Fahrt durch das frostige Thisted. Die Luft am Fjord ist klar und belebend. Mittag: Lange Aufenthalte in der Kirche und im Museum sind notwendig, um die Glieder wieder aufzuwärmen. Nachmittag: Fahrt am Hafen vorbei nach Sjørring; die historische Anlage wirkt unter Reif majestätisch. Abend: Die letzte Etappe führt zur Brauerei, wo ein kräftiges Bier die Lebensgeister nach der kalten Tour weckt.",
             "hu": "Reggel: Frissítő tekerés a fagyos Thistedben. A fjord felőli levegő tiszta és élénkítő. Délben: A templom és a múzeum fűtött tereiben melegíthetjük fel átfagyott végtagjainkat. Délután: Teperés a kikötő mentén Sjørring felé; a történelmi földművek zúzmarásan fenségesek. Este: Az utolsó szakasz a sörfőzdéhez vezet, ahol egy erős sör visszaadja az életkedvet a hideg túra után.",
             "ro": "Dimineața: O plimbare revigorantă prin Thistedul înghețat. Aerul de pe fjord este clar și proaspăt. Prânz: Oprește-te mai mult la biserică și muzeu pentru a-ți încălzi extremitățile. După-amiaza: Tură pe lângă port spre Sjørring; fortificațiile istorice arată maiestuos sub chiciură. Seara: Ultima etapă te duce la berărie, unde o bere tare îți va reda energia după tura prin frig.",
-            "en": "Morning: A refreshing ride through frosty Thisted. The air by the fjord is crisp and invigorating. Noon: Extended stops at the church and museum are necessary to thaw out your fingers. Afternoon: Ride past the harbour to Sjørring Volde; the earthworks look majestic under a layer of rime. Evening: The final stretch leads to the brewery, where a strong ale revives your spirits after the cold trek."
+            "en": "Morning: A refreshing ride through frosty Thisted. The air by the fjord is crisp and invigorating. Noon: Extended stops at the church and museum are necessary to thaw out your fingers. Afternoon: Ride past the harbour to Sjørring Volde; the earthworks look majestic under a layer of rime. Evening: The final stretch leads to the brewery, where a strong ale revives your spirits after the cold trek.",
+            "da": "Morgen: En forfriskende tur gennem frostklar Thisted. Luften ved fjorden er skarp og opkvikkende. Middag: Lange stop i kirken og museet er nødvendige for at få varme i fingrene. Eftermiddag: Kør forbi havnen til Sjørring Volde; voldene ser majestætiske ud under et lag rim. Aften: Den sidste strækning fører til bryghuset, hvor en stærk ale genopliver humøret efter den kolde tur."
           },
           "stops": [
             {
@@ -986,7 +1062,8 @@
                 "de": "Fahren Sie defensiv; Schattenbereiche können vereist sein.",
                 "hu": "Vezessen óvatosan; az árnyékos részek jegesek lehetnek.",
                 "ro": "Conduceți defensiv; zonele umbrite pot fi înghețate.",
-                "en": "Ride defensively; shaded areas may harbor hidden ice."
+                "en": "Ride defensively; shaded areas may harbor hidden ice.",
+                "da": "Kør defensivt; skyggefulde områder kan gemme skjult is."
               }
             },
             {
@@ -995,7 +1072,8 @@
                 "de": "Stellen Sie Ihr Rad an einem windgeschützten Ort ab.",
                 "hu": "A kerékpárt szélvédett helyen állítsa le.",
                 "ro": "Lăsați bicicleta într-un loc ferit de vânt.",
-                "en": "Park your bike in a spot sheltered from the wind."
+                "en": "Park your bike in a spot sheltered from the wind.",
+                "da": "Parkér din cykel et sted i læ for vinden."
               }
             },
             {
@@ -1004,7 +1082,8 @@
                 "de": "Nutzen Sie den Museumsbesuch als Aufwärmpause für den Körper.",
                 "hu": "Használja a múzeumlátogatást a test felmelegítésére.",
                 "ro": "Folosiți vizita la muzeu ca pauză de încălzire pentru corp.",
-                "en": "Use the museum visit as a critical warm-up break for your body."
+                "en": "Use the museum visit as a critical warm-up break for your body.",
+                "da": "Brug museumsbesøget som en vigtig opvarmningspause for kroppen."
               }
             },
             {
@@ -1013,7 +1092,8 @@
                 "de": "Setzen Sie sich in die Nähe einer Heizung oder eines Kamins.",
                 "hu": "Üljön fűtőtest vagy kandalló közelébe az étteremben.",
                 "ro": "Așezați-vă lângă un calorifer sau un șemineu.",
-                "en": "Sit near a heater or fireplace if the restaurant has one."
+                "en": "Sit near a heater or fireplace if the restaurant has one.",
+                "da": "Sid ved en varmeovn eller pejs, hvis restauranten har en."
               }
             },
             {
@@ -1022,7 +1102,8 @@
                 "de": "Vorsicht bei steilen Passagen auf den Erdwällen; Rutschgefahr.",
                 "hu": "Vigyázzon a meredek szakaszokon a földműveknél; csúszásveszély.",
                 "ro": "Atenție la porțiunile abrupte de pe terasamente; risc de alunecare.",
-                "en": "Careful on steep sections of the earthworks; risk of slipping."
+                "en": "Careful on steep sections of the earthworks; risk of slipping.",
+                "da": "Vær forsigtig på stejle partier af voldene; der er risiko for at glide."
               }
             },
             {
@@ -1031,7 +1112,8 @@
                 "de": "Genießen Sie die gemütliche Atmosphäre nach der Frosttour.",
                 "hu": "Élvezze a barátságos légkört a fagyos túra után.",
                 "ro": "Bucurați-vă de atmosfera caldă după tura prin ger.",
-                "en": "Enjoy the 'hygge' atmosphere after your frosty tour."
+                "en": "Enjoy the 'hygge' atmosphere after your frosty tour.",
+                "da": "Nyd den 'hygge' stemning efter din frostklare rundtur."
               }
             }
           ],
@@ -1059,6 +1141,12 @@
               "Be vigilant for 'black ice' on the cycle paths.",
               "E-bike batteries drain significantly faster in sub-zero temps.",
               "Keep a hot drink in a thermos to maintain core temperature."
+            ],
+            "da": [
+              "Sokker og vindtætte handsker er obligatoriske.",
+              "Vær opmærksom på 'sort is' på cykelstierne.",
+              "Elcykelbatterier aflades markant hurtigere i minusgrader.",
+              "Hav en varm drik i en termokande for at bevare kropstemperaturen."
             ]
           }
         }
@@ -1077,7 +1165,8 @@
             "de": "Cluster Thisted Zentrum: Parken",
             "hu": "Thisted Központ Klaszter: Parkolás",
             "ro": "Cluster Centru Thisted: Parcare",
-            "en": "Thisted Center Cluster: Parking"
+            "en": "Thisted Center Cluster: Parking",
+            "da": "Thisted Center Cluster: Parkering"
           },
           "coords": [
             8.687,
@@ -1092,7 +1181,8 @@
             "de": "Parken Sie zentral und erkunden Sie den ersten Cluster zu Fuß.",
             "hu": "Parkoljon le központilag, és fedezze fel az első klasztert gyalog.",
             "ro": "Parcați central și explorați primul cluster pe jos.",
-            "en": "Park centrally and explore the first cluster on foot."
+            "en": "Park centrally and explore the first cluster on foot.",
+            "da": "Parkér centralt og udforsk den første klynge til fods."
           }
         },
         {
@@ -1100,7 +1190,8 @@
             "de": "Det Gamle Rådhus & Thisted Kirke",
             "hu": "A Régi Városháza és a Thisted Templom",
             "ro": "Vechea Primărie & Biserica Thisted",
-            "en": "The Old Town Hall & Thisted Church"
+            "en": "The Old Town Hall & Thisted Church",
+            "da": "Det Gamle Rådhus & Thisted Kirke"
           },
           "coords": [
             8.688,
@@ -1116,7 +1207,8 @@
             "de": "Ein kurzer Spaziergang verbindet diese beiden wichtigen Wahrzeichen.",
             "hu": "Rövid séta köti össze ezt a két fontos látnivalót.",
             "ro": "O scurtă plimbare leagă aceste două repere importante.",
-            "en": "A short walk connects these two important landmarks."
+            "en": "A short walk connects these two important landmarks.",
+            "da": "En kort gåtur forbinder disse to vigtige vartegn."
           }
         },
         {
@@ -1124,7 +1216,8 @@
             "de": "Thisted Museum",
             "hu": "Thisted Múzeum",
             "ro": "Muzeul Thisted",
-            "en": "Thisted Museum"
+            "en": "Thisted Museum",
+            "da": "Thisted Museum"
           },
           "coords": [
             8.6841,
@@ -1140,7 +1233,8 @@
             "de": "Alles über die Region Thy, bevor Sie hinausfahren.",
             "hu": "Minden, amit Thy régiójáról tudni kell, mielőtt kocsiba ülne.",
             "ro": "Totul despre regiunea Thy înainte de a porni la drum.",
-            "en": "Everything about the Thy region before you drive out."
+            "en": "Everything about the Thy region before you drive out.",
+            "da": "Alt om Thy-regionen inden du kører videre."
           }
         },
         {
@@ -1148,7 +1242,8 @@
             "de": "Sjørring Volde",
             "hu": "Sjørring Volde (földvár)",
             "ro": "Fortificațiile Sjørring Volde",
-            "en": "Sjørring Volde (Earthworks)"
+            "en": "Sjørring Volde (Earthworks)",
+            "da": "Sjørring Volde (Volde)"
           },
           "coords": [
             8.751,
@@ -1164,7 +1259,8 @@
             "de": "Fahren Sie zu diesem historischen Ort und stellen Sie sich die Größe der ehemaligen Burg vor.",
             "hu": "Vezessen el ehhez a történelmi helyszínhez, és képzelje el az egykori vár nagyságát.",
             "ro": "Conduceți la acest sit istoric și imaginați-vă măreția fostului castel.",
-            "en": "Drive to this historic site and imagine the grandeur of the former castle."
+            "en": "Drive to this historic site and imagine the grandeur of the former castle.",
+            "da": "Kør til dette historiske sted og forestil dig det tidligere slots storslåethed."
           }
         },
         {
@@ -1172,7 +1268,8 @@
             "de": "Cluster Klitmøller: Mittagessen",
             "hu": "Klitmøller Klaszter: Ebéd",
             "ro": "Cluster Klitmøller: Prânz",
-            "en": "Klitmøller Cluster: Lunch"
+            "en": "Klitmøller Cluster: Lunch",
+            "da": "Klitmøller Klynge: Frokost"
           },
           "coords": [
             8.495,
@@ -1188,7 +1285,8 @@
             "de": "Fahren Sie nach 'Cold Hawaii' und genießen Sie die Surfer-Atmosphäre bei einem Mittagessen.",
             "hu": "Vezessen el a 'Hideg Hawaii'-ra és élvezze a szörfös hangulatot egy ebéd mellett.",
             "ro": "Conduceți spre 'Cold Hawaii' și bucurați-vă de atmosfera de surf la prânz.",
-            "en": "Drive to 'Cold Hawaii' and enjoy the surfer vibe over lunch."
+            "en": "Drive to 'Cold Hawaii' and enjoy the surfer vibe over lunch.",
+            "da": "Kør til 'Cold Hawaii' og nyd surferstemningen over frokosten."
           }
         },
         {
@@ -1196,7 +1294,8 @@
             "de": "Klitmøller Strand & Dünen",
             "hu": "Klitmøller strand és dűnék",
             "ro": "Plaja și dunele din Klitmøller",
-            "en": "Klitmøller Beach & Dunes"
+            "en": "Klitmøller Beach & Dunes",
+            "da": "Klitmøller Strand & Klitter"
           },
           "coords": [
             8.492,
@@ -1212,7 +1311,8 @@
             "de": "Machen Sie einen langen Spaziergang am berühmten Surfstrand.",
             "hu": "Tegyen egy hosszú sétát a híres szörfös strandon.",
             "ro": "Faceți o plimbare lungă pe faimoasa plajă de surf.",
-            "en": "Take a long walk on the famous surf beach."
+            "en": "Take a long walk on the famous surf beach.",
+            "da": "Tag en lang gåtur på den berømte surfstrand."
           }
         },
         {
@@ -1220,7 +1320,8 @@
             "de": "Thisted Bryghus",
             "hu": "Thisted Sörfőzde",
             "ro": "Berăria Thisted",
-            "en": "Thisted Brewery"
+            "en": "Thisted Brewery",
+            "da": "Thisted Bryghus"
           },
           "coords": [
             8.6933,
@@ -1236,7 +1337,8 @@
             "de": "Kehren Sie nach Thisted zurück, um den Tag mit einer Bierprobe abzuschließen.",
             "hu": "Térjen vissza Thistedbe, hogy egy sörkóstolóval zárja a napot.",
             "ro": "Întoarceți-vă la Thisted pentru a încheia ziua cu o degustare de bere.",
-            "en": "Return to Thisted to end the day with a beer tasting."
+            "en": "Return to Thisted to end the day with a beer tasting.",
+            "da": "Vend tilbage til Thisted og slut dagen af med en ølsmagning."
           }
         }
       ],
@@ -1244,7 +1346,8 @@
         "de": "Mit dem Auto können Sie die Vielfalt von Thy entdecken. Der Morgen ist dem Stadtzentrum von Thisted gewidmet. Nach dem Eintauchen in die lokale Geschichte fahren Sie zu den alten Wallanlagen von Sjørring Volde. Der Nachmittag gehört ganz der rauen Nordseeküste in Klitmøller, auch bekannt als 'Cold Hawaii', wo Sie spazieren gehen und die Surfer beobachten können. Der Tag endet, wo er begonnen hat: in Thisted, mit einem wohlverdienten Bier aus der lokalen Brauerei.",
         "hu": "Autóval felfedezheti Thy régió sokszínűségét. A délelőtt Thisted városközpontjáé. Miután elmerült a helyi történelemben, vezessen el Sjørring Volde ősi sáncaihoz. A délután a zord Északi-tenger partvidékéé Klitmøllerben, a 'Hideg Hawaii'-ként is ismert helyen, ahol sétálhat és figyelheti a szörfösöket. A nap ott ér véget, ahol elkezdődött: Thistedben, egy jól megérdemelt sörrel a helyi sörfőzdéből.",
         "ro": "Cu mașina puteți descoperi diversitatea regiunii Thy. Dimineața este dedicată centrului orașului Thisted. După o incursiune în istoria locală, conduceți la situl antic Sjørring Volde. După-amiaza este dedicată coastei aspre a Mării Nordului la Klitmøller, cunoscută și sub numele de 'Cold Hawaii', unde vă puteți plimba și privi surferii. Ziua se încheie acolo unde a început: în Thisted, cu o bere binemeritată de la berăria locală.",
-        "en": "By car, you can discover the diversity of Thy. The morning is dedicated to Thisted's city center. After delving into local history, you drive to the ancient earthworks of Sjørring Volde. The afternoon belongs to the rugged North Sea coast at Klitmøller, also known as 'Cold Hawaii', where you can walk and watch the surfers. The day ends where it began: in Thisted, with a well-deserved beer from the local brewery."
+        "en": "By car, you can discover the diversity of Thy. The morning is dedicated to Thisted's city center. After delving into local history, you drive to the ancient earthworks of Sjørring Volde. The afternoon belongs to the rugged North Sea coast at Klitmøller, also known as 'Cold Hawaii', where you can walk and watch the surfers. The day ends where it began: in Thisted, with a well-deserved beer from the local brewery.",
+        "da": "Med bil kan du opdage Thy's mangfoldighed. Morgenen er tilegnet Thisteds bymidte. Efter at have fordybet dig i lokal historie kører du til de gamle volde ved Sjørring. Eftermiddagen tilhører den barske Vesterhavskyst ved Klitmøller, også kaldet 'Cold Hawaii', hvor du kan gå ture og se surfere. Dagen ender, hvor den begyndte: i Thisted, med en velfortjent øl fra det lokale bryghus."
       },
       "gastro_picks": {
         "de": [
@@ -1436,6 +1539,11 @@
           "Be aware of parking fees in Thisted and Klitmøller.",
           "The weather on the coast can change quickly, so bring a windproof jacket.",
           "Fill up your car before driving into the national park, gas stations are rare there."
+        ],
+        "da": [
+          "Vær opmærksom på parkeringsafgifter i Thisted og Klitmøller.",
+          "Vejret på kysten kan ændre sig hurtigt, så medbring en vindtæt jakke.",
+          "Tank bilen op inden du kører ind i nationalparken; tankstationer er sjældne der."
         ]
       },
       "variants": {
@@ -1444,7 +1552,8 @@
             "de": "Vormittag: Parken im Zentrum und kurzer Laufweg zum Rathaus unter dem Schirm. Danach weiter zum Museum. Mittag: Fahrt nach Sjørring; die Erdwälle wirken im Regen mystisch. Nachmittag: Fahrt zur Küste nach Klitmøller. Der Blick aus dem Auto auf die stürmische Nordsee ist spektakulär. Abend: Zurück nach Thisted zur Brauerei; das Auto kann direkt in der Nähe geparkt werden.",
             "hu": "Reggel: Parkolás a központban, majd rövid séta esernyővel a városházáig. Ezután irány a múzeum. Délben: Autózás Sjørring felé; a földművek az esőben misztikus hangulatot árasztanak. Délután: Klitmøller tengerpartja; az autóból nézve a viharos Északi-tenger látványa lenyűgöző. Este: Visszatérés Thistedbe a sörfőzdéhez, ahol a közelben kényelmesen leállíthatjuk az autót.",
             "ro": "Dimineața: Parcare în centru și o scurtă fugă cu umbrela spre primărie. Apoi vizitați muzeul. Prânz: Drum spre Sjørring; fortificațiile par mistice în lumina ploioasă. După-amiaza: Conducere spre coasta la Klitmøller. Vederea din mașină asupra Mării Nordului înfuriate este spectaculoasă. Seara: Revenire în Thisted la berărie; există locuri de parcare chiar în apropiere.",
-            "en": "Morning: Park in the center and take a short umbrella walk to the Town Hall, then drive to the Museum. Noon: Head to Sjørring Volde; the ancient mounds have a mystic feel in the mist and rain. Afternoon: Drive to the coast at Klitmøller. Watching the stormy North Sea from the comfort of your car is spectacular. Evening: Return to Thisted for the brewery; convenient parking is available nearby."
+            "en": "Morning: Park in the center and take a short umbrella walk to the Town Hall, then drive to the Museum. Noon: Head to Sjørring Volde; the ancient mounds have a mystic feel in the mist and rain. Afternoon: Drive to the coast at Klitmøller. Watching the stormy North Sea from the comfort of your car is spectacular. Evening: Return to Thisted for the brewery; convenient parking is available nearby.",
+            "da": "Morgen: Parkér i centrum og tag en kort tur med paraply til rådhuset, kør derefter til museet. Middag: Tag til Sjørring Volde; de gamle høje har en mystisk atmosfære i tåge og regn. Eftermiddag: Kør til kysten ved Klitmøller. At se det stormfulde Vesterhav fra bilen er spektakulært. Aften: Vend tilbage til Thisted for bryghuset; der er bekvem parkering i nærheden."
           },
           "stops": [
             {
@@ -1453,7 +1562,8 @@
                 "de": "Halten Sie den Schirm griffbereit direkt beim Aussteigen.",
                 "hu": "Tartsa készenlétben az esernyőt rögtön a kiszálláskor.",
                 "ro": "Aveți umbrela la îndemână imediat ce coborâți din mașină.",
-                "en": "Have your umbrella ready as soon as you step out of the car."
+                "en": "Have your umbrella ready as soon as you step out of the car.",
+                "da": "Hav din paraply klar, så snart du træder ud af bilen."
               }
             },
             {
@@ -1462,7 +1572,8 @@
                 "de": "Nur 2 Minuten Fußweg vom Parkplatz; nutzen Sie die Kirchentür als Unterstand.",
                 "hu": "Csak 2 perc séta a parkolótól; használja a templomajtót menedékként.",
                 "ro": "Doar 2 minute de mers; folosiți ușa bisericii ca adăpost.",
-                "en": "Only a 2-minute walk; use the church entrance for cover."
+                "en": "Only a 2-minute walk; use the church entrance for cover.",
+                "da": "Kun 2 minutters gang; brug kirkens indgang for læ."
               }
             },
             {
@@ -1471,7 +1582,8 @@
                 "de": "Kostenlose Parkplätze direkt am Museum verfügbar.",
                 "hu": "Ingyenes parkolási lehetőség közvetlenül a múzeumnál.",
                 "ro": "Parcare gratuită disponibilă direct la muzeu.",
-                "en": "Free parking is available directly at the museum site."
+                "en": "Free parking is available directly at the museum site.",
+                "da": "Gratis parkering findes direkte ved museumsområdet."
               }
             },
             {
@@ -1480,7 +1592,8 @@
                 "de": "Sie können die Anlage vom Parkplatz aus gut sehen, falls es zu stark regnet.",
                 "hu": "A parkolóból is jól látható a terület, ha túl erősen esne.",
                 "ro": "Puteți vedea situl din parcare dacă plouă prea tare.",
-                "en": "You can view the site from the car park if the rain is too heavy."
+                "en": "You can view the site from the car park if the rain is too heavy.",
+                "da": "Du kan se stedet fra parkeringspladsen, hvis regnen er for kraftig."
               }
             },
             {
@@ -1489,7 +1602,8 @@
                 "de": "Viele Restaurants haben Parkplätze direkt vor der Tür.",
                 "hu": "Sok étterem rendelkezik saját parkolóval az ajtó előtt.",
                 "ro": "Multe restaurante au parcare chiar în fața intrării.",
-                "en": "Many restaurants offer parking spaces right at the doorstep."
+                "en": "Many restaurants offer parking spaces right at the doorstep.",
+                "da": "Mange restauranter tilbyder parkeringspladser lige ved døren."
               }
             },
             {
@@ -1498,7 +1612,8 @@
                 "de": "Genießen Sie den Blick auf die Surfer vom warmen Auto aus.",
                 "hu": "Élvezze a szörfösök látványát a meleg autóból.",
                 "ro": "Admirați surferii din confortul mașinii încălzite.",
-                "en": "Enjoy the view of the surfers from the warmth of your car."
+                "en": "Enjoy the view of the surfers from the warmth of your car.",
+                "da": "Nyd udsigten over surferne fra bilens varme komfort."
               }
             },
             {
@@ -1507,7 +1622,8 @@
                 "de": "Bestimmen Sie einen Fahrer, der auf das Bier verzichtet.",
                 "hu": "Jelöljenek ki egy sofőrt, aki nem fogyaszt alkoholt.",
                 "ro": "Desemnați un șofer care să nu consume alcool.",
-                "en": "Designate a driver who will skip the beer tasting."
+                "en": "Designate a driver who will skip the beer tasting.",
+                "da": "Udpeg en chauffør, som springer ølsmagningen over."
               }
             }
           ],
@@ -1535,6 +1651,12 @@
               "Keep a tray in the boot for wet umbrellas and boots.",
               "Klitmøller parking areas can get very sandy during storms.",
               "Check your wipers and tire tread before heading out in heavy rain."
+            ],
+            "da": [
+              "Kør ekstra forsigtigt, hvis kysttåge nedsætter sigtbarheden.",
+              "Hold en bakke i bagagerummet til våde paraplyer og støvler.",
+              "Klitmøllers parkeringsområder kan blive meget sandede under storme.",
+              "Tjek dine viskere og dækmønster før du kører ud i kraftig regn."
             ]
           }
         },
@@ -1543,7 +1665,8 @@
             "de": "Vormittag: Bequeme Fahrt durch das verschneite Thisted. Parken direkt am Zentrum. Mittag: Besuch des Museums und der Kirche; das Auto dient als warme Basis zwischen den Stopps. Fahrt nach Sjørring durch die Winterlandschaft. Nachmittag: Ausflug nach Klitmøller. Die einsamen, gefrorenen Dünen bieten ein einmaliges Fotomotiv. Abend: Rückkehr zur Brauerei; parken Sie nah am Eingang, um die Kältebrücke kurz zu halten.",
             "hu": "Reggel: Kényelmes autózás a havas Thistedben. Parkolás közvetlenül a központban. Délben: Múzeum és templomlátogatás; az autó meleg bázisként szolgál a megállók között. Autózás Sjørringbe a téli tájon át. Délután: Kirándulás Klitmøllerbe; az elhagyatott, fagyos dűnék egyedülálló fotótémát kínálnak. Este: Visszatérés a sörfőzdéhez; parkoljon közel a bejárathoz a hideg ellen.",
             "ro": "Dimineața: Călătorie confortabilă prin Thistedul înzăpezit. Parcare direct în centru. Prânz: Vizitați muzeul și biserica; mașina servește ca bază caldă între opriri. Drum spre Sjørring prin peisajul de iarnă. După-amiaza: Excursie la Klitmøller; dunele înghețate și pustii sunt ideale pentru fotografii. Seara: Revenire la berărie; parcați aproape de intrare pentru a evita frigul.",
-            "en": "Morning: A comfortable drive through snowy Thisted with parking right in the center. Noon: Visit the museum and church; use your car as a warm sanctuary between stops. Drive to Sjørring through the winter landscape. Afternoon: Trip to Klitmøller; the desolate, frozen dunes offer unique photo opportunities. Evening: Return to the brewery; park close to the entrance to minimize time in the cold."
+            "en": "Morning: A comfortable drive through snowy Thisted with parking right in the center. Noon: Visit the museum and church; use your car as a warm sanctuary between stops. Drive to Sjørring through the winter landscape. Afternoon: Trip to Klitmøller; the desolate, frozen dunes offer unique photo opportunities. Evening: Return to the brewery; park close to the entrance to minimize time in the cold.",
+            "da": "Morgen: En behagelig køretur gennem sneklædte Thisted med parkering centralt. Middag: Besøg museet og kirken; brug bilen som varm tilflugtssted mellem stop. Kør til Sjørring gennem vinterlandskabet. Eftermiddag: Tur til Klitmøller; de øde, frosne klitter giver unikke fotooplevelser. Aften: Vend tilbage til bryghuset; parkér tæt på indgangen for at minimere tiden i kulden."
           },
           "stops": [
             {
@@ -1552,7 +1675,8 @@
                 "de": "Stellen Sie sicher, dass Ihr Eiskratzer griffbereit ist.",
                 "hu": "Győződjön meg róla, hogy a jégkaparó kéznél van.",
                 "ro": "Asigurați-vă că aveți racleta pentru gheață la îndemână.",
-                "en": "Make sure your ice scraper is easily accessible."
+                "en": "Make sure your ice scraper is easily accessible.",
+                "da": "Sørg for, at din isskraber er let tilgængelig."
               }
             },
             {
@@ -1561,7 +1685,8 @@
                 "de": "Die Heizung im Auto auf der kurzen Fahrt voll aufdrehen.",
                 "hu": "A rövid út alatt is kapcsolja be a fűtést az autóban.",
                 "ro": "Porniți căldura la maximum chiar și pentru drumuri scurte.",
-                "en": "Keep the car heater on high even for short transits."
+                "en": "Keep the car heater on high even for short transits.",
+                "da": "Hold bilvarmen høj selv ved korte overfarter."
               }
             },
             {
@@ -1570,7 +1695,8 @@
                 "de": "Nutzen Sie den Parkplatz direkt vor dem Eingang.",
                 "hu": "Használja a közvetlenül a bejárat előtti parkolót.",
                 "ro": "Folosiți parcarea situată chiar în fața intrării.",
-                "en": "Utilize the parking spots closest to the main entrance."
+                "en": "Utilize the parking spots closest to the main entrance.",
+                "da": "Benyt parkeringspladserne tættest på hovedindgangen."
               }
             },
             {
@@ -1579,7 +1705,8 @@
                 "de": "Vorsicht auf dem ungeräumten Parkplatz bei Schneefall.",
                 "hu": "Vigyázzon a hóval borított, tisztítatlan parkolóban.",
                 "ro": "Atenție în parcarea necurățată în caz de ninsoare.",
-                "en": "Be careful in the unplowed parking area during snowfall."
+                "en": "Be careful in the unplowed parking area during snowfall.",
+                "da": "Vær forsigtig i det ikke-brøjtede parkeringsområde under snefald."
               }
             },
             {
@@ -1588,7 +1715,8 @@
                 "de": "Genießen Sie den Blick auf das Meer bei einem heißen Kaffee.",
                 "hu": "Élvezze a tenger látványát egy forró kávé mellett.",
                 "ro": "Admirați marea în timp ce savurați o cafea fierbinte.",
-                "en": "Enjoy the ocean view while sipping a hot coffee indoors."
+                "en": "Enjoy the ocean view while sipping a hot coffee indoors.",
+                "da": "Nyd havudsigten mens du sipper en varm kaffe indendørs."
               }
             },
             {
@@ -1597,7 +1725,8 @@
                 "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
                 "hu": "Ne járassa feleslegesen a motort várakozás közben.",
                 "ro": "Nu lăsați motorul pornit inutil în timp ce staționați.",
-                "en": "Don't leave the engine idling unnecessarily while viewing."
+                "en": "Don't leave the engine idling unnecessarily while viewing.",
+                "da": "Efterlad ikke motoren unødigt kørende mens du kigger rundt."
               }
             },
             {
@@ -1606,7 +1735,8 @@
                 "de": "Ein toller Ort, um den Tag gemütlich Revue passieren zu lassen.",
                 "hu": "Remek hely a nap eseményeinek kényelmes felidézéséhez.",
                 "ro": "Un loc minunat pentru a trece în revistă ziua la căldură.",
-                "en": "A fantastic spot to recap the day in a cozy setting."
+                "en": "A fantastic spot to recap the day in a cozy setting.",
+                "da": "Et fantastisk sted at opsummere dagen i en hyggelig atmosfære."
               }
             }
           ],
@@ -1634,6 +1764,12 @@
               "Ensure your screenwash has sufficient antifreeze rating.",
               "Roads to Klitmøller can be prone to snow drifts.",
               "Keep a warm emergency blanket in the vehicle at all times."
+            ],
+            "da": [
+              "Vinterdæk er absolut nødvendige i denne kystregion.",
+              "Sørg for at spylervæsken har tilstrækkelig frostbeskyttelse.",
+              "Veje til Klitmøller kan være udsatte for snedrev.",
+              "Hav altid et varmt nødtæppe i bilen."
             ]
           }
         }
@@ -1652,7 +1788,8 @@
             "de": "Ankunft am Bahnhof/Busbahnhof Thisted",
             "hu": "Érkezés a Thisted-i vasút/buszállomásra",
             "ro": "Sosire la gara/autogara din Thisted",
-            "en": "Arrival at Thisted Train/Bus Station"
+            "en": "Arrival at Thisted Train/Bus Station",
+            "da": "Ankomst til Thisted Tog-/Bustation"
           },
           "coords": [
             8.694,
@@ -1667,7 +1804,8 @@
             "de": "Nehmen Sie einen Stadtbus zum ersten Cluster im Zentrum.",
             "hu": "Menjen egy városi busszal az első klaszterhez a központban.",
             "ro": "Luați un autobuz urban spre primul cluster din centru.",
-            "en": "Take a city bus to the first cluster in the center."
+            "en": "Take a city bus to the first cluster in the center.",
+            "da": "Tag en bybus til den første klynge i centrum."
           }
         },
         {
@@ -1675,7 +1813,8 @@
             "de": "Cluster Zentrum: Thisted Kirke",
             "hu": "Központ Klaszter: Thisted Templom",
             "ro": "Cluster Centru: Biserica Thisted",
-            "en": "Center Cluster: Thisted Church"
+            "en": "Center Cluster: Thisted Church",
+            "da": "Centrumklynge: Thisted Kirke"
           },
           "coords": [
             8.6865,
@@ -1691,7 +1830,8 @@
             "de": "Beginnen Sie Ihre Erkundung bei der zentralen Kirche der Stadt.",
             "hu": "Kezdje a felfedezést a város központi templománál.",
             "ro": "Începeți explorarea la biserica centrală a orașului.",
-            "en": "Start your exploration at the city's central church."
+            "en": "Start your exploration at the city's central church.",
+            "da": "Start din udforskning ved byens centrale kirke."
           }
         },
         {
@@ -1699,7 +1839,8 @@
             "de": "Det Gamle Rådhus & Fjordstræde",
             "hu": "A Régi Városháza és a Fjordstræde",
             "ro": "Vechea Primărie & Strada Fjordstræde",
-            "en": "The Old Town Hall & Fjordstræde"
+            "en": "The Old Town Hall & Fjordstræde",
+            "da": "Det Gamle Rådhus & Fjordstræde"
           },
           "coords": [
             8.689,
@@ -1715,7 +1856,8 @@
             "de": "Diese beiden Orte liegen nur einen kurzen Spaziergang voneinander entfernt.",
             "hu": "Ez a két hely csak egy rövid sétatávolságra van egymástól.",
             "ro": "Aceste două locuri sunt la o scurtă plimbare una de cealaltă.",
-            "en": "These two spots are just a short walk from each other."
+            "en": "These two spots are just a short walk from each other.",
+            "da": "Disse to steder er kun en kort gåtur fra hinanden."
           }
         },
         {
@@ -1723,7 +1865,8 @@
             "de": "Cluster Museum: Thisted Museum & Christiansgave",
             "hu": "Múzeum Klaszter: Thisted Múzeum & Christiansgave",
             "ro": "Cluster Muzeu: Muzeul Thisted & Christiansgave",
-            "en": "Museum Cluster: Thisted Museum & Christiansgave"
+            "en": "Museum Cluster: Thisted Museum & Christiansgave",
+            "da": "Museumsklynge: Thisted Museum & Christiansgave"
           },
           "coords": [
             8.681,
@@ -1739,7 +1882,8 @@
             "de": "Nehmen Sie einen Bus zu diesem Cluster und genießen Sie Kultur und Natur.",
             "hu": "Buszozzon el ehhez a klaszterhez, és élvezze a kultúrát és a természetet.",
             "ro": "Luați un autobuz spre acest cluster și bucurați-vă de cultură și natură.",
-            "en": "Take a bus to this cluster and enjoy both culture and nature."
+            "en": "Take a bus to this cluster and enjoy both culture and nature.",
+            "da": "Tag en bus til denne klynge og nyd både kultur og natur."
           }
         },
         {
@@ -1747,7 +1891,8 @@
             "de": "Thisted Bryghus",
             "hu": "Thisted Sörfőzde",
             "ro": "Berăria Thisted",
-            "en": "Thisted Brewery"
+            "en": "Thisted Brewery",
+            "da": "Thisted Bryghus"
           },
           "coords": [
             8.6933,
@@ -1763,7 +1908,8 @@
             "de": "Ein kurzer Spaziergang oder eine Busfahrt bringt Sie zum letzten Halt des Tages.",
             "hu": "Rövid séta vagy buszozás a nap utolsó állomásához.",
             "ro": "O scurtă plimbare pe jos sau cu autobuzul vă duce la ultima oprire a zilei.",
-            "en": "A short walk or bus ride will take you to the last stop of the day."
+            "en": "A short walk or bus ride will take you to the last stop of the day.",
+            "da": "En kort gåtur eller bustur tager dig til dagens sidste stop."
           }
         }
       ],
@@ -1771,7 +1917,8 @@
         "de": "Thisted lässt sich gut mit öffentlichen Verkehrsmitteln erkunden. Starten Sie am Busbahnhof und fahren Sie ins Zentrum, um die Kirche und die Altstadt zu Fuß zu entdecken. Ein weiterer Bus bringt Sie zum Museumsviertel für eine Dosis Kultur und eine Pause im Park. Der Tag findet seinen krönenden Abschluss in der Thisted Brauerei, die ebenfalls leicht mit dem Bus oder zu Fuß erreichbar ist, bevor Sie Ihre Rückreise antreten.",
         "hu": "Thisted könnyen felfedezhető tömegközlekedéssel. Induljon a buszpályaudvarról, és utazzon a központba, hogy gyalog fedezze fel a templomot és az óvárost. Egy másik busz elvisz a múzeumi negyedbe egy adag kultúráért és egy parkbeli pihenőért. A nap a Thisted Sörfőzdében csúcsosodik ki, amely szintén könnyen megközelíthető busszal vagy gyalog, mielőtt visszaindulna.",
         "ro": "Thisted este ușor de explorat cu transportul public. Începeți de la autogară și călătoriți spre centru pentru a descoperi pe jos biserica și orașul vechi. Un alt autobuz vă va duce în cartierul muzeelor pentru o doză de cultură și o pauză în parc. Ziua culminează la Berăria Thisted, de asemenea ușor accesibilă cu autobuzul sau pe jos, înainte de a vă întoarce.",
-        "en": "Thisted is easy to explore using public transport. Start from the bus station and travel to the center to discover the church and the old town on foot. Another bus will take you to the museum district for a dose of culture and a break in the park. The day culminates at the Thisted Brewery, also easily accessible by bus or on foot, before you head back."
+        "en": "Thisted is easy to explore using public transport. Start from the bus station and travel to the center to discover the church and the old town on foot. Another bus will take you to the museum district for a dose of culture and a break in the park. The day culminates at the Thisted Brewery, also easily accessible by bus or on foot, before you head back.",
+        "da": "Thisted er nem at udforske med offentlig transport. Start ved busstationen og tag ind til centrum for at opleve kirken og den gamle by til fods. En anden bus tager dig til museumsområdet for en kulturindsprøjtning og en pause i parken. Dagen kulminerer på Thisted Bryghus, også nemt tilgængeligt med bus eller til fods, inden du vender tilbage."
       },
       "gastro_picks": {
         "de": [
@@ -1963,6 +2110,11 @@
           "Buy a day ticket for the bus if you plan on making several trips.",
           "Download the local timetable app to track bus times in real-time.",
           "Be aware that buses might run less frequently in the evenings and on weekends."
+        ],
+        "da": [
+          "Køb en dagsbillet til bussen, hvis du planlægger flere ture.",
+          "Download den lokale køreplansapp for at følge busserne i realtid.",
+          "Vær opmærksom på, at busser kan køre sjældnere om aftenen og i weekenden."
         ]
       },
       "variants": {
@@ -1971,7 +2123,8 @@
             "de": "Vormittag: Ankunft am Bahnhof Thisted; nutzen Sie die Überdachungen beim Umsteigen. Kurzer Weg zur Kirche. Mittag: Das Museum ist ein perfekter Rückzugsort. Der Weg dorthin führt durch Christiansgave, wo Bäume Schutz bieten. Nachmittag: Fahrt zur Brauerei; die Haltestellen sind gut gelegen, um Regenpausen zu nutzen. Abend: Rückweg zum Bahnhof für die Heimreise nach einem entspannten Tag im Trockenen.",
             "hu": "Reggel: Érkezés a Thisted állomásra; használja a fedett peronokat. Rövid séta a templomig. Délben: A múzeum tökéletes menedék; az út Christiansgave-en át vezet, ahol a fák védenek. Délután: Irány a sörfőzde; a megállók közel vannak, így minimalizálható az esőben töltött idő. Este: Visszatérés az állomásra a hazaúthoz egy kellemes, fedett helyszíneken töltött nap után.",
             "ro": "Dimineața: Sosire la gara Thisted; folosiți copertinele la schimbarea mijloacelor de transport. Drum scurt spre biserică. Prânz: Muzeul este un refugiu perfect; traseul trece prin Christiansgave, unde copacii oferă protecție. După-amiaza: Tur spre berărie; stațiile sunt bine amplasate pentru a evita ploaia. Seara: Revenire la gară pentru plecare după o zi relaxantă petrecută la adăpost.",
-            "en": "Morning: Arrive at Thisted Station; utilize the platform canopies while checking your connections. Short walk to the church. Noon: The museum is a perfect rainy-day refuge; the path through Christiansgave offers some tree cover. Afternoon: Head to the brewery; bus stops are conveniently located to minimize exposure. Evening: Return to the station for your departure after a well-sheltered day."
+            "en": "Morning: Arrive at Thisted Station; utilize the platform canopies while checking your connections. Short walk to the church. Noon: The museum is a perfect rainy-day refuge; the path through Christiansgave offers some tree cover. Afternoon: Head to the brewery; bus stops are conveniently located to minimize exposure. Evening: Return to the station for your departure after a well-sheltered day.",
+            "da": "Morgen: Ankom til Thisted Station; benyt perronens overdækning mens du tjekker forbindelser. Kort gåtur til kirken. Middag: Museet er et perfekt tilflugtssted på regnvejrsdage; stien gennem Christiansgave giver noget trædække. Eftermiddag: Tag til bryghuset; stoppesteder er praktisk placeret for at minimere eksponering. Aften: Vend tilbage til stationen for afgang efter en godt afskærmet dag."
           },
           "stops": [
             {
@@ -1980,7 +2133,8 @@
                 "de": "Warten Sie im beheizten Warteraum auf Ihren Anschluss.",
                 "hu": "Várjon a fűtött váróteremben a csatlakozásra.",
                 "ro": "Așteptați în sala de așteptare încălzită până vine autobuzul.",
-                "en": "Wait inside the heated waiting room for your connection."
+                "en": "Wait inside the heated waiting room for your connection.",
+                "da": "Vent inde i det opvarmede venteværelse på din forbindelse."
               }
             },
             {
@@ -1989,7 +2143,8 @@
                 "de": "Nur ein kurzer Spaziergang vom Bahnhof; Schirm bereithalten.",
                 "hu": "Csak rövid séta az állomástól; tartsa készenlétben az esernyőt.",
                 "ro": "O scurtă plimbare de la gară; pregătiți umbrela.",
-                "en": "A very short walk from the station; keep your umbrella handy."
+                "en": "A very short walk from the station; keep your umbrella handy.",
+                "da": "Meget kort gåtur fra stationen; hav din paraply klar."
               }
             },
             {
@@ -1998,7 +2153,8 @@
                 "de": "Nutzen Sie die Arkaden der Geschäfte als Regenschutz.",
                 "hu": "Használja az üzletek árkádjait eső elleni védelemként.",
                 "ro": "Folosiți arcadele magazinelor ca protecție împotriva ploii.",
-                "en": "Utilize the shop overhangs for protection against the rain."
+                "en": "Utilize the shop overhangs for protection against the rain.",
+                "da": "Benyt butikkernes skygger for beskyttelse mod regnen."
               }
             },
             {
@@ -2007,7 +2163,8 @@
                 "de": "Die Buslinie hält fast direkt vor dem Museum.",
                 "hu": "A buszjárat szinte közvetlenül a múzeum előtt áll meg.",
                 "ro": "Linia de autobuz oprește aproape direct în fața muzeului.",
-                "en": "The local bus line stops almost directly at the museum."
+                "en": "The local bus line stops almost directly at the museum.",
+                "da": "Den lokale buslinje standser næsten direkte ved museet."
               }
             },
             {
@@ -2016,7 +2173,8 @@
                 "de": "Gute Busanbindung zurück zum Bahnhof direkt in der Nähe.",
                 "hu": "Jó buszkapcsolat vissza az állomáshoz a közelben.",
                 "ro": "Conexiune bună de autobuz înapoi spre gară în apropiere.",
-                "en": "Excellent bus connections back to the station are nearby."
+                "en": "Excellent bus connections back to the station are nearby.",
+                "da": "Fremragende busforbindelser tilbage til stationen ligger i nærheden."
               }
             }
           ],
@@ -2044,6 +2202,12 @@
               "The station and museum offer the best indoor waiting areas.",
               "Local buses are highly reliable even in poor weather conditions.",
               "A day pass is cost-effective for short hops between clusters."
+            ],
+            "da": [
+              "Brug transitappen for realtidsopdateringer under kraftig regn.",
+              "Stationen og museet tilbyder de bedste indendørs venteområder.",
+              "Lokale busser er meget pålidelige selv i dårligt vejr.",
+              "En dagsbillet er omkostningseffektiv til korte ture mellem klynger."
             ]
           }
         },
@@ -2052,7 +2216,8 @@
             "de": "Vormittag: Ankunft im frostigen Thisted. Der Bahnhof bietet einen warmen Startpunkt. Mittag: Kurzer Transit zur Kirche und zum Museum. Die fütterten Innenräume sind ein Muss bei winterlichen Temperaturen. Nachmittag: Spaziergang durch den zueisenden Christiansgave Park vor dem frühen Dunkelwerden. Abend: Besuch der Brauerei, bevor der Bus Sie zurück zum hell erleuchteten Bahnhof bringt.",
             "hu": "Reggel: Érkezés a fagyos Thistedbe. Az állomás meleg kiindulópontot kínál. Délben: Rövid utazás a templomhoz és a múzeumhoz. A fűtött belső terek kötelezőek a téli hidegben. Délután: Séta a jeges Christiansgave parkban, mielőtt korán besötétedik. Este: Látogatás a sörfőzdében, majd a busz visszaviszi Önt a kivilágított állomásra.",
             "ro": "Dimineața: Sosire în Thistedul înghețat. Gara oferă un punct de plecare călduros. Prânz: Tranzit scurt spre biserică și muzeu. Interioarele încălzite sunt obligatorii la temperaturi de iarnă. După-amiaza: Plimbare prin parcul Christiansgave înainte de lăsarea serii. Seara: Vizită la berărie înainte ca autobuzul să vă ducă înapoi la gara luminată.",
-            "en": "Morning: Arrive in frosty Thisted; the station provides a warm starting point. Noon: Short transit to the church and museum; heated interiors are essential in winter temperatures. Afternoon: Stroll through a crisp Christiansgave Park before the early darkness sets in. Evening: Visit the brewery before catching a bus back to the brightly lit station for your return."
+            "en": "Morning: Arrive in frosty Thisted; the station provides a warm starting point. Noon: Short transit to the church and museum; heated interiors are essential in winter temperatures. Afternoon: Stroll through a crisp Christiansgave Park before the early darkness sets in. Evening: Visit the brewery before catching a bus back to the brightly lit station for your return.",
+            "da": "Morgen: Ankom til frostklart Thisted; stationen giver et varmt udgangspunkt. Middag: Kort transport til kirken og museet; opvarmede indendørsarealer er vigtige i vintertemperaturer. Eftermiddag: Spadser en tur gennem en frisk Christiansgave Park inden den tidlige mørke falder på. Aften: Besøg bryghuset før du tager bussen tilbage til den oplyste station for din hjemrejse."
           },
           "stops": [
             {
@@ -2061,7 +2226,8 @@
                 "de": "Prüfen Sie die Abfahrtszeiten auf den digitalen Anzeigen.",
                 "hu": "Ellenőrizze az indulási időket a digitális kijelzőkön.",
                 "ro": "Verificați timpii de plecare pe afișajele digitale.",
-                "en": "Check the departure times on the digital displays inside."
+                "en": "Check the departure times on the digital displays inside.",
+                "da": "Tjek afgangstiderne på de digitale displays indendørs."
               }
             },
             {
@@ -2070,7 +2236,8 @@
                 "de": "Die Kirche ist im Winter oft ein ruhiger, warmer Rückzugsort.",
                 "hu": "A templom télen gyakran csendes, meleg menedékhely.",
                 "ro": "Biserica este adesea un refugiu liniștit și cald în timpul iernii.",
-                "en": "The church is often a quiet, warm sanctuary during winter."
+                "en": "The church is often a quiet, warm sanctuary during winter.",
+                "da": "Kirken er ofte et stille, varmt fristed om vinteren."
               }
             },
             {
@@ -2079,7 +2246,8 @@
                 "de": "Genießen Sie die weihnachtliche Beleuchtung in den Gassen.",
                 "hu": "Élvezze a karácsonyi kivilágítást a szűk utcákban.",
                 "ro": "Bucurați-vă de iluminatul festiv de pe străduțe.",
-                "en": "Enjoy the festive winter lights along the narrow streets."
+                "en": "Enjoy the festive winter lights along the narrow streets.",
+                "da": "Nyd de festlige vinterlys langs de smalle gader."
               }
             },
             {
@@ -2088,7 +2256,8 @@
                 "de": "Der Parkweg zum Museum kann bei Frost glatt sein.",
                 "hu": "A múzeumhoz vezető parki út fagyban csúszós lehet.",
                 "ro": "Aleea prin parc spre muzeu poate fi alunecoasă în caz de ger.",
-                "en": "The park path to the museum can be slippery when frozen."
+                "en": "The park path to the museum can be slippery when frozen.",
+                "da": "Parkstien til museet kan være glat, når den er frossen."
               }
             },
             {
@@ -2097,7 +2266,8 @@
                 "de": "Ein schöner Abschluss, bevor es mit dem Bus zurückgeht.",
                 "hu": "Szép lezárása a napnak, mielőtt busszal visszaindulna.",
                 "ro": "O încheiere frumoasă a zilei înainte de plecarea cu autobuzul.",
-                "en": "A lovely way to end the day before your bus ride back."
+                "en": "A lovely way to end the day before your bus ride back.",
+                "da": "En dejlig måde at afslutte dagen på inden din bustur tilbage."
               }
             }
           ],
@@ -2125,6 +2295,12 @@
               "Train stations are well-heated and comfortable in winter.",
               "Check for reduced holiday schedules if visiting in December.",
               "Wear thermal socks to stay warm while waiting at bus stops."
+            ],
+            "da": [
+              "Beregn ekstra tid til skift, hvis sne sænker trafikhastigheden.",
+              "Togstationer er velopvarmede og komfortable om vinteren.",
+              "Tjek for nedsat køreplan i december, hvis du besøger i højtiden.",
+              "Brug termostrømper for at holde varmen mens du venter ved stoppesteder."
             ]
           }
         }

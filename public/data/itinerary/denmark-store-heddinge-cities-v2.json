@@ -21,7 +21,8 @@
             "de": "Sankt Katharina Kirke",
             "hu": "Szent Katalin-templom",
             "ro": "Biserica Sfânta Ecaterina",
-            "en": "Saint Katharina Church"
+            "en": "Saint Katharina Church",
+            "da": "Sankt Katharina Kirke"
           },
           "coords": [
             12.3888,
@@ -36,7 +37,8 @@
             "de": "Achten Sie auf die achteckige Form der Kirche, eine Seltenheit in Dänemark.",
             "hu": "Figyelje meg a templom nyolcszögletű formáját, ami ritkaságnak számít Dániában.",
             "ro": "Observați forma octogonală a bisericii, o raritate în Danemarca.",
-            "en": "Notice the church's octagonal shape, a rarity in Denmark."
+            "en": "Notice the church's octagonal shape, a rarity in Denmark.",
+            "da": "Bemærk kirkens ottekantede form, en sjældenhed i Danmark."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Stevns Museum",
             "hu": "Stevns Múzeum",
             "ro": "Muzeul Stevns",
-            "en": "Stevns Museum"
+            "en": "Stevns Museum",
+            "da": "Stevns Museum"
           },
           "coords": [
             12.3895,
@@ -59,7 +62,8 @@
             "de": "Das Museum befindet sich in einem alten Lebensmittelgeschäft. Perfekt, um die lokale Geschichte zu erleben.",
             "hu": "A múzeum egy régi vegyeskereskedésben található. Tökéletes hely a helyi történelem megismerésére.",
             "ro": "Muzeul este găzduit într-o veche băcănie. Perfect pentru a explora istoria locală.",
-            "en": "The museum is housed in an old grocery store. Perfect for diving into local history."
+            "en": "The museum is housed in an old grocery store. Perfect for diving into local history.",
+            "da": "Museet er indrettet i en gammel købmandsgård. Perfekt til at dykke ned i lokal historie."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Store Heddinge Vandtårn",
             "hu": "Store Heddinge-i víztorony",
             "ro": "Turnul de apă din Store Heddinge",
-            "en": "Store Heddinge Water Tower"
+            "en": "Store Heddinge Water Tower",
+            "da": "Store Heddinge Vandtårn"
           },
           "coords": [
             12.3941,
@@ -82,7 +87,8 @@
             "de": "Steigen Sie hinauf und genießen Sie den Panoramablick über die Stadt und die umliegende Landschaft.",
             "hu": "Menjen fel a tetejére a panorámás kilátásért a városra és a környező vidékre.",
             "ro": "Urcați pentru o vedere panoramică asupra orașului și a peisajului înconjurător.",
-            "en": "Climb to the top for a panoramic view over the town and surrounding countryside."
+            "en": "Climb to the top for a panoramic view over the town and surrounding countryside.",
+            "da": "Klatr op til toppen for en panoramaudsigt over byen og det omliggende landskab."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Mittagessen im Stadtzentrum",
             "hu": "Ebéd a városközpontban",
             "ro": "Prânz în centrul orașului",
-            "en": "Lunch in the town center"
+            "en": "Lunch in the town center",
+            "da": "Frokost i byens centrum"
           },
           "coords": [
             12.3901,
@@ -105,7 +112,8 @@
             "de": "Probieren Sie ein klassisches dänisches Smørrebrød in einem der lokalen Cafés.",
             "hu": "Kóstoljon meg egy klasszikus dán Smørrebrødet az egyik helyi kávézóban.",
             "ro": "Încercați un smørrebrød danez clasic la una dintre cafenelele locale.",
-            "en": "Try a classic Danish smørrebrød at one of the local cafes."
+            "en": "Try a classic Danish smørrebrød at one of the local cafes.",
+            "da": "Prøv et klassisk dansk smørrebrød på en af de lokale caféer."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Spaziergang durch die Algade",
             "hu": "Séta az Algade utcán",
             "ro": "Plimbare pe strada Algade",
-            "en": "Stroll down Algade street"
+            "en": "Stroll down Algade street",
+            "da": "Spadser ned ad Algade"
           },
           "coords": [
             12.3876,
@@ -128,7 +137,8 @@
             "de": "Die Hauptstraße mit charmanten Geschäften und Gebäuden, ideal für einen entspannten Nachmittag.",
             "hu": "A bájos üzletekkel és épületekkel teli főutca ideális egy laza délutáni sétához.",
             "ro": "Strada principală cu magazine și clădiri fermecătoare, ideală pentru o după-amiază relaxantă.",
-            "en": "The main street with charming shops and buildings, perfect for a relaxed afternoon."
+            "en": "The main street with charming shops and buildings, perfect for a relaxed afternoon.",
+            "da": "Hovedgaden med charmerende butikker og bygninger, perfekt til en afslappet eftermiddag."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Tag im Herzen von Store Heddinge mit einem Besuch der einzigartigen achteckigen Kirche. Tauchen Sie mittags in die lokale Geschichte im Stevns Museum ein und genießen Sie den Panoramablick vom Wasserturm. Nach einem traditionellen dänischen Mittagessen können Sie den Nachmittag mit einem gemütlichen Spaziergang entlang der Hauptstraße Algade ausklingen lassen, die voller lokaler Geschäfte ist. Dieser Rundgang bietet eine perfekte Mischung aus Kultur, Geschichte und entspanntem Kleinstadtleben.",
         "hu": "Kezdje a napot Store Heddinge szívében az egyedülálló nyolcszögletű templom meglátogatásával. Délben merüljön el a helyi történelemben a Stevns Múzeumban, majd élvezze a panorámát a víztoronyból. Egy hagyományos dán ebéd után zárja a délutánt egy kellemes sétával az Algade főutcán, amely tele van helyi üzletekkel. Ez a gyalogtúra a kultúra, a történelem és a nyugodt kisvárosi élet tökéletes keverékét kínálja.",
         "ro": "Începeți ziua în inima orașului Store Heddinge vizitând biserica sa unică, octogonală. La prânz, aprofundați istoria locală la Muzeul Stevns și bucurați-vă de priveliștea panoramică din turnul de apă. După un prânz tradițional danez, încheiați după-amiaza cu o plimbare relaxantă pe strada principală, Algade, plină de magazine locale. Acest tur pietonal oferă un amestec perfect de cultură, istorie și viață relaxată de orășel.",
-        "en": "Start your day in the heart of Store Heddinge by visiting its unique octagonal church. At midday, dive into local history at the Stevns Museum and enjoy the panoramic view from the water tower. After a traditional Danish lunch, finish the afternoon with a leisurely stroll down the main street, Algade, filled with local shops. This walking tour offers a perfect blend of culture, history, and relaxed small-town life."
+        "en": "Start your day in the heart of Store Heddinge by visiting its unique octagonal church. At midday, dive into local history at the Stevns Museum and enjoy the panoramic view from the water tower. After a traditional Danish lunch, finish the afternoon with a leisurely stroll down the main street, Algade, filled with local shops. This walking tour offers a perfect blend of culture, history, and relaxed small-town life.",
+        "da": "Start din dag i hjertet af Store Heddinge med at besøge den unikke ottekantede kirke. Ved middagstid dykker du ned i lokalhistorien på Stevns Museum og nyder panoramaudsigten fra vandtårnet. Efter en traditionel dansk frokost sluttes eftermiddagen af med en rolig spadseretur ned ad Algade, fyldt med lokale butikker. Denne vandretur tilbyder en perfekt blanding af kultur, historie og afslappet småbyliv."
       },
       "gastro_picks": {
         "de": [
@@ -256,6 +267,11 @@
           "Wear comfortable shoes, as the town center is compact and easily explored on foot.",
           "Most shops close in the early afternoon, so plan your shopping accordingly.",
           "Bring a reusable water bottle; there are public fountains available."
+        ],
+        "da": [
+          "Brug behagelige sko, da bymidten er kompakt og let at udforske til fods.",
+          "De fleste butikker lukker tidligt om eftermiddagen, så planlæg din shopping derefter.",
+          "Medbring en genanvendelig vandflaske; der er offentlige drikkehaner."
         ]
       },
       "variants": {
@@ -264,7 +280,8 @@
             "de": "Beginnen Sie Ihren Tag in der geschützten achteckigen St. Katharina Kirche, wo die dicken Mauern den Regen draußen halten. Mittags bietet das Stevns Museum eine trockene und faszinierende Flucht in die Erdgeschichte. Am Nachmittag spazieren Sie mit dem Regenschirm zum Wasserturm und genießen danach ein gemütliches Mittagessen im Stadtzentrum. Den Tag lassen Sie beim Schaufensterbummel in der Algade ausklingen, während die Pfützen das Licht der Stadt reflektieren.",
             "hu": "Kezdje a napot a Szent Katalin-templom vastag falai között, amely tökéletes menedék az eső elől. Délben a Stevns Múzeum kínál száraz és izgalmas kikapcsolódást a földtörténet világában. Délután egy esernyős séta vár a víztoronyhoz, majd egy hosszabb ebéd a városközpontban. A napot az Algade utca boltjai alatt zárhatja, ahol az esőáztatta aszfalton megcsillannak az esti fények.",
             "ro": "Începeți ziua între zidurile groase ale Bisericii Sfânta Ecaterina, un adăpost perfect împotriva ploii. La prânz, Muzeul Stevns oferă o evadare uscată și fascinantă în istoria pământului. După-amiaza, o plimbare cu umbrela spre turnul de apă, urmată de un prânz prelungit în centrul orașului. Încheiați ziua pe strada Algade, unde vitrinele magazinelor oferă protecție și lumini calde reflectate în bălți.",
-            "en": "Start your day inside the thick walls of Saint Katharina Church, a perfect shelter from the rain. At noon, the Stevns Museum provides a dry and fascinating escape into geological history. In the afternoon, take an umbrella stroll to the water tower, followed by a long, cozy lunch in the town center. End the day browsing the shops on Algade street, where the wet pavement reflects the city lights."
+            "en": "Start your day inside the thick walls of Saint Katharina Church, a perfect shelter from the rain. At noon, the Stevns Museum provides a dry and fascinating escape into geological history. In the afternoon, take an umbrella stroll to the water tower, followed by a long, cozy lunch in the town center. End the day browsing the shops on Algade street, where the wet pavement reflects the city lights.",
+            "da": "Start din dag inde i de tykke mure i Sankt Katharina Kirke, et perfekt skjul fra regnen. Ved middagstid giver Stevns Museum en tør og fascinerende flugt ind i geologisk historie. Om eftermiddagen tager du en paraplytur til vandtårnet, efterfulgt af en lang, hyggelig frokost i bymidten. Afslut dagen med at kigge i butikkerne på Algade, hvor det våde fortov spejler byens lys."
           },
           "stops": [
             {
@@ -273,7 +290,8 @@
                 "de": "Nutzen Sie den überdachten Eingangsbereich, um Ihren Regenschirm auszuschütteln.",
                 "hu": "Használja a fedett bejáratot az esernyő lerázásához a belépés előtt.",
                 "ro": "Folosiți intrarea acoperită pentru a scutura umbrela înainte de a intra.",
-                "en": "Use the covered entrance area to shake off your umbrella before entering."
+                "en": "Use the covered entrance area to shake off your umbrella before entering.",
+                "da": "Brug det overdækkede indgangsområde til at ryste din paraply, før du går ind."
               }
             },
             {
@@ -282,7 +300,8 @@
                 "de": "Idealer Ort, um nasse Kleidung an der Garderobe zu trocknen.",
                 "hu": "Ideális hely a vizes ruhák megszárítására a ruhatárnál.",
                 "ro": "Loc ideal pentru a vă usca hainele ude la garderobă.",
-                "en": "Ideal place to dry off wet clothes at the cloakroom."
+                "en": "Ideal place to dry off wet clothes at the cloakroom.",
+                "da": "Ideelt sted til at få tørret våde klæder i garderoben."
               }
             },
             {
@@ -291,7 +310,8 @@
                 "de": "Der Boden kann bei Nässe rutschig sein, halten Sie sich am Geländer fest.",
                 "hu": "A talaj nedvesen csúszós lehet, kapaszkodjon a korlátba.",
                 "ro": "Podeaua poate fi alunecoasă când este udă, țineți-vă de balustradă.",
-                "en": "The ground can be slippery when wet, hold onto the railings."
+                "en": "The ground can be slippery when wet, hold onto the railings.",
+                "da": "Jorden kan være glat, når den er våd; hold fast i gelænderet."
               }
             },
             {
@@ -300,7 +320,8 @@
                 "de": "Wählen Sie ein Restaurant mit Fensterplatz, um dem Regen zuzusehen.",
                 "hu": "Válasszon ablak melletti asztalt, és élvezze az eső látványát a melegből.",
                 "ro": "Alegeți un restaurant cu loc la fereastră pentru a privi ploaia.",
-                "en": "Choose a restaurant with a window seat to watch the rain fall."
+                "en": "Choose a restaurant with a window seat to watch the rain fall.",
+                "da": "Vælg en restaurant med vinduesplads for at se regnen falde."
               }
             },
             {
@@ -309,7 +330,8 @@
                 "de": "Die Markisen der Geschäfte bieten guten Schutz beim Gehen.",
                 "hu": "Az üzletek előtetői jó védelmet nyújtanak séta közben.",
                 "ro": "Copertinele magazinelor oferă o protecție bună în timp ce mergeți.",
-                "en": "The shop awnings provide good shelter while walking."
+                "en": "The shop awnings provide good shelter while walking.",
+                "da": "Butikkernes markiser giver god læ under gåturen."
               }
             }
           ],
@@ -337,6 +359,12 @@
               "A sturdy umbrella is better than a cheap one due to coastal winds.",
               "Museums and churches are your best friends for dry breaks.",
               "Use the rainy weather as an excuse for a long Danish 'Hygge' lunch."
+            ],
+            "da": [
+              "Brug vandtætte sko, da der kan dannes vandpytter i den gamle bydel.",
+              "En solid paraply er bedre end en billig på grund af kystens vind.",
+              "Museer og kirker er dine bedste steder for tørre pauser.",
+              "Brug regnvejret som en undskyldning for en lang dansk 'hygge' frokost."
             ]
           }
         },
@@ -345,7 +373,8 @@
             "de": "Erleben Sie die Stille des dänischen Winters in der St. Katharina Kirche am Morgen. Mittags wärmen Sie sich im Stevns Museum auf, während Sie die Klippengeschichte studieren. Der Nachmittag führt Sie zum frostigen Wasserturm, gefolgt von einer heißen Schokolade im Stadtzentrum. Wenn die Sonne früh untergeht, erstrahlt die Algade in festlichem Licht und lädt zu einem winterlichen Spaziergang ein.",
             "hu": "Élje át a dán tél csendjét a Szent Katalin-templomban a reggeli órákban. Délben melegedjen fel a Stevns Múzeumban, miközben a sziklák történetét tanulmányozza. A délután a fagyos víztoronyhoz vezet, majd egy forró csokoládé vár a városközpontban. Mivel a nap korán nyugszik, az Algade utca ünnepi fényben úszik, tökéletes helyszínt biztosítva az esti sétához.",
             "ro": "Experimentați liniștea iernii daneze în Biserica Sfânta Ecaterina dimineața. La prânz, încălziți-vă în Muzeul Stevns în timp ce studiați istoria falezei. După-amiaza vă duce la turnul de apă înghețat, urmat de o ciocolată caldă în centru. Deoarece soarele apune devreme, strada Algade strălucește în lumini festive, invitându-vă la o plimbare de iarnă.",
-            "en": "Experience the silence of the Danish winter at Saint Katharina Church in the morning. At noon, warm up in the Stevns Museum while studying the cliff's history. The afternoon leads you to the frosty water tower, followed by a hot chocolate in the town center. As the sun sets early, Algade street glows with festive lights, inviting you for a winter stroll."
+            "en": "Experience the silence of the Danish winter at Saint Katharina Church in the morning. At noon, warm up in the Stevns Museum while studying the cliff's history. The afternoon leads you to the frosty water tower, followed by a hot chocolate in the town center. As the sun sets early, Algade street glows with festive lights, inviting you for a winter stroll.",
+            "da": "Oplev stilheden i den danske vinter i Sankt Katharina Kirke om morgenen. Ved middagstid varmer du op på Stevns Museum, mens du studerer klintens historie. Om eftermiddagen fører turen dig til det frostklare vandtårn, efterfulgt af en varm kakao i bymidten. Når solen går tidligt ned, lyser Algade op med stemningsfuldt lys og inviterer til en vintergåtur."
           },
           "stops": [
             {
@@ -354,7 +383,8 @@
                 "de": "Die Steinkirche ist kalt, behalten Sie Ihren Mantel an.",
                 "hu": "A kőtemplom hideg lehet, tartsa magán a kabátját.",
                 "ro": "Biserica de piatră este rece, păstrați-vă haina pe dvs.",
-                "en": "The stone church is cold inside, keep your coat on."
+                "en": "The stone church is cold inside, keep your coat on.",
+                "da": "Stenkirken er kold indeni; behold frakken på."
               }
             },
             {
@@ -363,7 +393,8 @@
                 "de": "Genießen Sie die Heizung und nehmen Sie sich Zeit für die Ausstellungen.",
                 "hu": "Élvezze a fűtést és szánjon időt a kiállításokra.",
                 "ro": "Bucurați-vă de căldură și acordați-vă timp pentru expoziții.",
-                "en": "Enjoy the heating and take your time with the exhibits."
+                "en": "Enjoy the heating and take your time with the exhibits.",
+                "da": "Nyd varmen og tag god tid med udstillingerne."
               }
             },
             {
@@ -372,7 +403,8 @@
                 "de": "Der Wind oben kann eisig sein, Mütze und Handschuhe sind Pflicht.",
                 "hu": "A szél a magasban jeges lehet, a sapka és kesztyű kötelező.",
                 "ro": "Vântul la înălțime poate fi tăios, căciula și mănușile sunt obligatorii.",
-                "en": "The wind at the top can be icy, hat and gloves are a must."
+                "en": "The wind at the top can be icy, hat and gloves are a must.",
+                "da": "Vinden på toppen kan være isende; hue og handsker er et must."
               }
             },
             {
@@ -381,7 +413,8 @@
                 "de": "Bestellen Sie eine warme Suppe, um die Kälte zu vertreiben.",
                 "hu": "Rendeljen egy forró levest, hogy elűzze a hideget.",
                 "ro": "Comandați o supă caldă pentru a alunga frigul.",
-                "en": "Order a warm soup to chase away the winter chill."
+                "en": "Order a warm soup to chase away the winter chill.",
+                "da": "Bestil en varm suppe for at jage vinterkulden væk."
               }
             },
             {
@@ -390,7 +423,8 @@
                 "de": "Achten Sie auf Glatteis auf dem Bürgersteig.",
                 "hu": "Ügyeljen a jeges foltokra a járdán.",
                 "ro": "Aveți grijă la porțiunile înghețate de pe trotuar.",
-                "en": "Watch out for icy patches on the pavement."
+                "en": "Watch out for icy patches on the pavement.",
+                "da": "Pas på isglatte pletter på fortovet."
               }
             }
           ],
@@ -418,6 +452,12 @@
               "Layered clothing is the best protection against the cold coastal wind.",
               "Many cafes offer blankets for a short coffee break outside.",
               "Note the shorter winter opening hours for some local shops."
+            ],
+            "da": [
+              "Solen går ned omkring kl. 16:00, så planlæg udendørsaktiviteter tidligt.",
+              "Lag-på-lag tøj er den bedste beskyttelse mod den kolde kystvind.",
+              "Mange caféer tilbyder tæpper til en kort kaffepause udenfor.",
+              "Bemærk de kortere vinteråbningstider for nogle lokale butikker."
             ]
           }
         }
@@ -436,7 +476,8 @@
             "de": "Sankt Katharina Kirke",
             "hu": "Szent Katalin-templom",
             "ro": "Biserica Sfânta Ecaterina",
-            "en": "Saint Katharina Church"
+            "en": "Saint Katharina Church",
+            "da": "Sankt Katharina Kirke"
           },
           "coords": [
             12.3888,
@@ -451,7 +492,8 @@
             "de": "Parken Sie Ihr Fahrrad draußen und nehmen Sie sich einen Moment Zeit, um die einzigartige Architektur zu bewundern.",
             "hu": "Parkolja le a biciklit, és szánjon egy percet az egyedi építészet megcsodálására.",
             "ro": "Parcați bicicleta afară și admirați arhitectura unică.",
-            "en": "Park your bike outside and take a moment to admire the unique architecture."
+            "en": "Park your bike outside and take a moment to admire the unique architecture.",
+            "da": "Parkér din cykel udenfor og tag et øjeblik til at beundre den unikke arkitektur."
           }
         },
         {
@@ -459,7 +501,8 @@
             "de": "Fahrt nach Højerup",
             "hu": "Utazás Højerup felé",
             "ro": "Plimbare spre Højerup",
-            "en": "Ride towards Højerup"
+            "en": "Ride towards Højerup",
+            "da": "Cykel mod Højerup"
           },
           "coords": [
             12.428,
@@ -474,7 +517,8 @@
             "de": "Genießen Sie die malerische Radtour durch die dänische Landschaft in Richtung der Klippen.",
             "hu": "Élvezze a festői kerékpártúrát a dán vidéken a sziklák felé.",
             "ro": "Bucurați-vă de plimbarea pitorească cu bicicleta prin peisajul rural danez spre stânci.",
-            "en": "Enjoy the scenic bike ride through the Danish countryside towards the cliffs."
+            "en": "Enjoy the scenic bike ride through the Danish countryside towards the cliffs.",
+            "da": "Nyd den naturskønne cykeltur gennem det danske landskab mod klinterne."
           }
         },
         {
@@ -482,7 +526,8 @@
             "de": "Højerup Gamle Kirke & Stevns Klint",
             "hu": "Højerup régi temploma és Stevns Klint",
             "ro": "Biserica Veche din Højerup și Stevns Klint",
-            "en": "Højerup Old Church & Stevns Klint"
+            "en": "Højerup Old Church & Stevns Klint",
+            "da": "Højerup Gamle Kirke & Stevns Klint"
           },
           "coords": [
             12.4573,
@@ -497,7 +542,8 @@
             "de": "Schließen Sie Ihr Fahrrad an und spazieren Sie am Rand der Klippe entlang. Die Aussicht ist atemberaubend.",
             "hu": "Zárja le a kerékpárt, és sétáljon a szikla peremén. A kilátás lélegzetelállító.",
             "ro": "Legați-vă bicicleta și plimbați-vă de-a lungul marginii stâncii. Priveliștea este uluitoare.",
-            "en": "Lock up your bike and walk along the cliff edge. The views are breathtaking."
+            "en": "Lock up your bike and walk along the cliff edge. The views are breathtaking.",
+            "da": "Lås din cykel og gå langs klippekanten. Udsigten er betagende."
           }
         },
         {
@@ -505,7 +551,8 @@
             "de": "Koldkrigsmuseum Stevnsfort",
             "hu": "Stevnsfort Hidegháborús Múzeum",
             "ro": "Muzeul Războiului Rece Stevnsfort",
-            "en": "Cold War Museum Stevnsfort"
+            "en": "Cold War Museum Stevnsfort",
+            "da": "Koldkrigsmuseet Stevnsfort"
           },
           "coords": [
             12.4502,
@@ -520,7 +567,8 @@
             "de": "Planen Sie genügend Zeit für die unterirdischen Führungen ein, sie sind das Highlight.",
             "hu": "Szánjon elég időt a földalatti tárlatvezetésekre, ezek a múzeum fénypontjai.",
             "ro": "Alocați suficient timp pentru tururile subterane; acestea sunt punctul culminant.",
-            "en": "Allocate plenty of time for the underground tours; they are the highlight."
+            "en": "Allocate plenty of time for the underground tours; they are the highlight.",
+            "da": "Afsæt god tid til de underjordiske rundvisninger; de er højdepunkterne."
           }
         },
         {
@@ -528,7 +576,8 @@
             "de": "Fahrt nach Rødvig Havn",
             "hu": "Utazás Rødvig kikötőjébe",
             "ro": "Plimbare spre Portul Rødvig",
-            "en": "Ride to Rødvig Harbour"
+            "en": "Ride to Rødvig Harbour",
+            "da": "Cykel til Rødvig Havn"
           },
           "coords": [
             12.357,
@@ -543,7 +592,8 @@
             "de": "Ein charmanter Fischerhafen, perfekt für eine späte Mittagspause mit frischem Fisch.",
             "hu": "Bájos halászkikötő, tökéletes egy késői ebédre friss hallal.",
             "ro": "Un port pescăresc fermecător, perfect pentru o pauză de prânz târziu cu pește proaspăt.",
-            "en": "A charming fishing harbor, perfect for a late lunch break with fresh fish."
+            "en": "A charming fishing harbor, perfect for a late lunch break with fresh fish.",
+            "da": "En charmerende fiskerihavn, perfekt til en sen frokostpause med frisk fisk."
           }
         },
         {
@@ -551,7 +601,8 @@
             "de": "Rückfahrt nach Store Heddinge",
             "hu": "Visszaút Store Heddingébe",
             "ro": "Întoarcere la Store Heddinge",
-            "en": "Ride back to Store Heddinge"
+            "en": "Ride back to Store Heddinge",
+            "da": "Cykel tilbage til Store Heddinge"
           },
           "coords": [
             12.39,
@@ -566,7 +617,8 @@
             "de": "Die letzte Etappe zurück ins Stadtzentrum, um den Tag ausklingen zu lassen.",
             "hu": "Az utolsó szakasz vissza a városközpontba a nap lezárásaként.",
             "ro": "Ultima etapă înapoi în centrul orașului pentru a încheia ziua.",
-            "en": "The final leg back to the town center to wrap up the day."
+            "en": "The final leg back to the town center to wrap up the day.",
+            "da": "Den sidste etape tilbage til bymidten for at afslutte dagen."
           }
         }
       ],
@@ -574,7 +626,8 @@
         "de": "Ein Radtag, der Stadt und Küste verbindet. Starten Sie in der Stadt, bevor Sie nach Süden radeln, um die dramatischen Stevns Klint zu erreichen. Erkunden Sie die Klippen und die alte Kirche, bevor Sie tief in die Geschichte des Kalten Krieges im Stevnsfort eintauchen. Am Nachmittag radeln Sie zum malerischen Hafen von Rødvig für eine wohlverdiente Pause, bevor Sie nach Store Heddinge zurückkehren. Diese Route ist ideal für aktive Entdecker.",
         "hu": "Egy kerékpáros nap, amely összeköti a várost és a partvidéket. Induljon a városból, mielőtt dél felé veszi az irányt a drámai Stevns Klint sziklákhoz. Fedezze fel a sziklákat és a régi templomot, mielőtt elmélyül a hidegháborús történelemben a Stevnsfortban. Délután tekerjen el a festői Rødvig kikötőjébe egy jól megérdemelt pihenőre, mielőtt visszatérne Store Heddingébe. Ez az útvonal ideális az aktív felfedezőknek.",
         "ro": "O zi pe bicicletă care combină orașul și coasta. Porniți din oraș înainte de a pedala spre sud pentru a ajunge la spectaculoasa stâncă Stevns Klint. Explorați stâncile și biserica veche înainte de a vă adânci în istoria Războiului Rece la Stevnsfort. După-amiaza, pedalați spre portul pitoresc Rødvig pentru o pauză binemeritată înainte de a vă întoarce la Store Heddinge. Acest traseu este ideal pentru exploratorii activi.",
-        "en": "A cycling day combining town and coast. Start in the town before pedaling south to reach the dramatic Stevns Klint. Explore the cliffs and the old church before delving into Cold War history at Stevnsfort. In the afternoon, cycle to the picturesque Rødvig harbor for a well-deserved break before returning to Store Heddinge. This route is ideal for active explorers."
+        "en": "A cycling day combining town and coast. Start in the town before pedaling south to reach the dramatic Stevns Klint. Explore the cliffs and the old church before delving into Cold War history at Stevnsfort. In the afternoon, cycle to the picturesque Rødvig harbor for a well-deserved break before returning to Store Heddinge. This route is ideal for active explorers.",
+        "da": "En cykeldag, der kombinerer by og kyst. Start i byen, før du triller sydpå for at nå den dramatiske Stevns Klint. Udforsk klipperne og den gamle kirke, før du dykker ned i koldkrigshistorie på Stevnsfort. Om eftermiddagen cykler du til det idylliske Rødvig Havn for en velfortjent pause, inden du vender tilbage til Store Heddinge. Ruten er ideel for aktive opdagelsesrejsende."
       },
       "gastro_picks": {
         "de": [
@@ -718,6 +771,12 @@
           "A bike with gears is recommended for the rolling landscape.",
           "Bring plenty of water and snacks for the ride.",
           "Most attractions have bike racks available."
+        ],
+        "da": [
+          "Tjek vejrudsigten; vinden ved kysten kan være stærk.",
+          "En cykel med gear anbefales til det bakkede landskab.",
+          "Medbring rigeligt med vand og snacks til turen.",
+          "De fleste seværdigheder har cykelstativer."
         ]
       },
       "variants": {
@@ -726,7 +785,8 @@
             "de": "Trotzen Sie dem Regen auf dem Weg zur St. Katharina Kirche, bevor Sie die Küste ansteuern. Die Fahrt nach Højerup ist bei Nässe eine Herausforderung, aber die Stevns Klint Klippen wirken im Regen dramatisch und mystisch. Suchen Sie Schutz im Stevnsfort Museum, einem perfekten Ort für eine lange, trockene Pause. Die Rückfahrt führt Sie über Rødvig Harbour, wo der Geruch von Meer und Regen in der Luft liegt.",
             "hu": "Dacoljon az esővel a Szent Katalin-templom felé, mielőtt a part felé venné az irányt. A Højerupba vezető út nedvesen kihívás, de a Stevns Klint sziklái drámai és misztikus látványt nyújtanak esőben. Keressen menedéket a Stevnsfort Múzeumban, amely tökéletes hely egy hosszú, száraz pihenőhöz. A visszaút Rødvig kikötőjén keresztül vezet, ahol a tenger és az eső illata keveredik a levegőben.",
             "ro": "Înfruntați ploaia spre Biserica Sfânta Ecaterina înainte de a porni spre coastă. Drumul spre Højerup este o provocare pe carosabil umed, dar faleza Stevns Klint arată dramatic și mistic în ploaie. Căutați adăpost în Muzeul Stevnsfort, locul perfect pentru o pauză lungă și uscată. Drumul de întoarcere trece prin portul Rødvig, unde mirosul de mare și ploaie plutește în aer.",
-            "en": "Brave the rain on your way to Saint Katharina Church before heading to the coast. The ride to Højerup is challenging when wet, but the Stevns Klint cliffs look dramatic and mystical in the rain. Seek shelter at the Stevnsfort Museum, a perfect place for a long, dry break. The return trip takes you through Rødvig Harbour, where the scent of sea and rain fills the air."
+            "en": "Brave the rain on your way to Saint Katharina Church before heading to the coast. The ride to Højerup is challenging when wet, but the Stevns Klint cliffs look dramatic and mystical in the rain. Seek shelter at the Stevnsfort Museum, a perfect place for a long, dry break. The return trip takes you through Rødvig Harbour, where the scent of sea and rain fills the air.",
+            "da": "Tro på regnen på vej til Sankt Katharina Kirke før du tager til kysten. Turen til Højerup er udfordrende, når det er vådt, men Stevns Klint tager sig dramatisk og mystisk ud i regnvejr. Søg ly på Stevnsfort Museum, et perfekt sted til en lang, tør pause. Hjemturen fører dig gennem Rødvig Havn, hvor duften af hav og regn fylder luften."
           },
           "stops": [
             {
@@ -735,7 +795,8 @@
                 "de": "Stellen Sie Ihr Fahrrad unter den Bäumen ab, um den Sattel trocken zu halten.",
                 "hu": "Parkoljon a fák alatt, hogy a nyereg száraz maradjon.",
                 "ro": "Parcați bicicleta sub copaci pentru a menține șaua uscată.",
-                "en": "Park your bike under the trees to keep the saddle dry."
+                "en": "Park your bike under the trees to keep the saddle dry.",
+                "da": "Parkér din cykel under træerne for at holde sadlen tør."
               }
             },
             {
@@ -744,7 +805,8 @@
                 "de": "Vorsicht vor Aquaplaning auf den Landstraßen.",
                 "hu": "Vigyázat, a vízen felúszás veszélyes lehet az országúton.",
                 "ro": "Atenție la acvaplanare pe drumurile de țară.",
-                "en": "Watch out for aquaplaning on the country roads."
+                "en": "Watch out for aquaplaning on the country roads.",
+                "da": "Pas på aquaplaning på landevejene."
               }
             },
             {
@@ -753,7 +815,8 @@
                 "de": "Die Klippenpfade können sehr schlammig und rutschig sein.",
                 "hu": "A sziklaparti ösvények nagyon sárosak és csúszósak lehetnek.",
                 "ro": "Cărările de pe faleză pot fi foarte noroioase și alunecoase.",
-                "en": "The cliff paths can be very muddy and slippery."
+                "en": "The cliff paths can be very muddy and slippery.",
+                "da": "Stiklestierne ved klipperne kan være meget mudrede og glatte."
               }
             },
             {
@@ -762,7 +825,8 @@
                 "de": "Ein großartiger Ort, um der Witterung für zwei Stunden zu entkommen.",
                 "hu": "Nagyszerű hely, hogy két órára elmeneküljön az időjárás elől.",
                 "ro": "Un loc excelent pentru a scăpa de intemperii timp de două ore.",
-                "en": "A great place to escape the elements for two hours."
+                "en": "A great place to escape the elements for two hours.",
+                "da": "Et fremragende sted at undslippe elementerne i to timer."
               }
             },
             {
@@ -771,7 +835,8 @@
                 "de": "Die Hafenanlagen sind bei Regen oft sehr leer und ruhig.",
                 "hu": "A kikötő környéke esőben gyakran nagyon üres és csendes.",
                 "ro": "Zona portului este adesea goală și liniștită când plouă.",
-                "en": "The harbour area is often very empty and quiet when it rains."
+                "en": "The harbour area is often very empty and quiet when it rains.",
+                "da": "Havneområdet er ofte meget tomt og stille, når det regner."
               }
             },
             {
@@ -780,7 +845,8 @@
                 "de": "Beleuchtung einschalten, um die Sichtbarkeit im Regen zu erhöhen.",
                 "hu": "Kapcsolja be a lámpákat a jobb láthatóság érdekében az esőben.",
                 "ro": "Aprindeți luminile pentru a crește vizibilitatea în ploaie.",
-                "en": "Turn on your lights to increase visibility in the rain."
+                "en": "Turn on your lights to increase visibility in the rain.",
+                "da": "Tænd dine lygter for at øge synligheden i regnen."
               }
             }
           ],
@@ -808,6 +874,12 @@
               "Be careful in corners, the road surface can be slippery.",
               "A saddle cover will keep your seat dry during stops.",
               "The Stevns Klint coast is particularly windy during rain."
+            ],
+            "da": [
+              "Fuld regntøj (bukser og jakke) er essentielt.",
+              "Vær forsigtig i sving; vejbanen kan være glat.",
+              "Et sadelovertræk holder sædet tørt under stop.",
+              "Stevns Klint-kysten er særlig vindblæst under regnvejr."
             ]
           }
         },
@@ -816,7 +888,8 @@
             "de": "Eine winterliche Radtour erfordert Mut und warme Schichten, beginnend an der St. Katharina Kirche. Die Fahrt nach Højerup bietet weite Blicke über gefrorene Felder unter grauem Himmel. An den Stevns Klint Klippen peitscht der kalte Ostseewind, was den Besuch im Stevnsfort Museum umso lohnender macht. In Rødvig Harbour können Sie den Eisschollen im Wasser zusehen, bevor Sie sich auf den Rückweg machen.",
             "hu": "A téli kerékpározás bátorságot és réteges öltözködést igényel, a Szent Katalin-templomtól indulva. A Højerup felé vezető út tágas kilátást nyújt a fagyott mezőkre a szürke ég alatt. A Stevns Klint szikláinál metsző keleti szél fúj, ami még értékesebbé teszi a Stevnsfort Múzeum melegét. Rødvig kikötőjében nézheti a vízben úszó jégtáblákat, mielőtt visszaindulna.",
             "ro": "O tură cu bicicleta iarna necesită curaj și straturi calde, pornind de la Biserica Sfânta Ecaterina. Drumul spre Højerup oferă vederi largi peste câmpurile înghețate sub un cer gri. La faleza Stevns Klint, vântul rece al Balticii bate cu putere, făcând vizita la Muzeul Stevnsfort cu atât mai utilă. În portul Rødvig puteți vedea sloiurile de gheață înainte de întoarcere.",
-            "en": "A winter bike ride requires courage and warm layers, starting from Saint Katharina Church. The ride to Højerup offers wide views over frozen fields under grey skies. At the Stevns Klint cliffs, the cold Baltic wind whips hard, making the visit to Stevnsfort Museum all the more rewarding. At Rødvig Harbour, you can watch the ice floes before making your way back."
+            "en": "A winter bike ride requires courage and warm layers, starting from Saint Katharina Church. The ride to Højerup offers wide views over frozen fields under grey skies. At the Stevns Klint cliffs, the cold Baltic wind whips hard, making the visit to Stevnsfort Museum all the more rewarding. At Rødvig Harbour, you can watch the ice floes before making your way back.",
+            "da": "En vintercykeltur kræver mod og varme lag, med start ved Sankt Katharina Kirke. Turen til Højerup byder på brede udsigter over frosne marker under grå himmel. Ved Stevns Klint pisker den kolde Østersøvind hårdt, hvilket gør besøget på Stevnsfort Museum endnu mere belønnende. Ved Rødvig Havn kan du se isflagerne, før du tager tilbage."
           },
           "stops": [
             {
@@ -825,7 +898,8 @@
                 "de": "Bewegen Sie Ihre Zehen, um die Durchblutung in der Kälte zu fördern.",
                 "hu": "Mozgassa a lábujjait, hogy serkentse a vérkeringést a hidegben.",
                 "ro": "Mișcați-vă degetele de la picioare pentru a stimula circulația în frig.",
-                "en": "Wiggle your toes to keep the circulation going in the cold."
+                "en": "Wiggle your toes to keep the circulation going in the cold.",
+                "da": "Vrik med tæerne for at holde blodcirkulationen i gang i kulden."
               }
             },
             {
@@ -834,7 +908,8 @@
                 "de": "Vorsicht vor überfrierender Nässe in schattigen Bereichen.",
                 "hu": "Vigyázzon a lefagyott nedvességre az árnyékos szakaszokon.",
                 "ro": "Atenție la porțiunile înghețate în zonele umbrite.",
-                "en": "Watch out for black ice in shaded areas."
+                "en": "Watch out for black ice in shaded areas.",
+                "da": "Pas på sort is i skyggefulde områder."
               }
             },
             {
@@ -843,7 +918,8 @@
                 "de": "Der Windchill-Effekt ist an der Klippe extrem hoch.",
                 "hu": "A szél hűtő hatása a sziklaparton rendkívül erős.",
                 "ro": "Efectul de răcire al vântului este extrem de puternic pe faleză.",
-                "en": "The wind chill factor is extremely high at the cliff edge."
+                "en": "The wind chill factor is extremely high at the cliff edge.",
+                "da": "Kuldefølelsen er ekstremt høj ved klippekanten."
               }
             },
             {
@@ -852,7 +928,8 @@
                 "de": "Die unterirdischen Gänge haben das ganze Jahr über konstante 10 Grad.",
                 "hu": "A föld alatti folyosókon egész évben állandó 10 fok van.",
                 "ro": "Tunelurile subterane au o temperatură constantă de 10 grade tot anul.",
-                "en": "The underground tunnels have a constant 10 degrees year-round."
+                "en": "The underground tunnels have a constant 10 degrees year-round.",
+                "da": "Underjordiske tunneler har en konstant temperatur på 10 grader året rundt."
               }
             },
             {
@@ -861,7 +938,8 @@
                 "de": "Suchen Sie ein beheiztes Café für eine warme Pause.",
                 "hu": "Keressen egy fűtött kávézót egy melegítő szünethez.",
                 "ro": "Căutați o cafenea încălzită pentru o pauză caldă.",
-                "en": "Look for a heated cafe for a warming break."
+                "en": "Look for a heated cafe for a warming break.",
+                "da": "Find en opvarmet café til en varmende pause."
               }
             },
             {
@@ -870,7 +948,8 @@
                 "de": "Treten Sie kräftig in die Pedale, um die Körperwärme zu halten.",
                 "hu": "Tekerjen ütemesen, hogy fenntartsa a testhőmérsékletét.",
                 "ro": "Pedalați susținut pentru a menține căldura corporală.",
-                "en": "Pedal vigorously to maintain your body heat."
+                "en": "Pedal vigorously to maintain your body heat.",
+                "da": "Træd i pedalerne kraftigt for at holde kroppens varme."
               }
             }
           ],
@@ -898,6 +977,12 @@
               "Check tyre pressure; slightly lower pressure offers better grip on ice.",
               "Bring a thermos with a hot drink to stay warm.",
               "Keep outdoor stops short to avoid getting too cold."
+            ],
+            "da": [
+              "Vinterhandsker og skoovertræk er et must på denne tur.",
+              "Tjek dæktrykket; en smule lavere tryk giver bedre greb på is.",
+              "Medbring en termokande med en varm drik for at holde varmen.",
+              "Hold udendørs stop korte for at undgå at blive for kold."
             ]
           }
         }
@@ -916,7 +1001,8 @@
             "de": "Cluster-Start: Parken im Stadtzentrum von Store Heddinge",
             "hu": "Klaszter kezdete: Parkolás Store Heddinge központjában",
             "ro": "Început cluster: Parcarea în centrul orașului Store Heddinge",
-            "en": "Cluster Start: Parking in Store Heddinge Town Center"
+            "en": "Cluster Start: Parking in Store Heddinge Town Center",
+            "da": "Cluster Start: Parkering i Store Heddinge Bymidte"
           },
           "coords": [
             12.389,
@@ -931,7 +1017,8 @@
             "de": "Finden Sie einen zentralen Parkplatz, um die Stadt zu Fuß zu erkunden.",
             "hu": "Keressen egy központi parkolót, hogy gyalog fedezhesse fel a várost.",
             "ro": "Găsiți o parcare centrală pentru a explora orașul pe jos.",
-            "en": "Find a central parking spot to explore the town on foot."
+            "en": "Find a central parking spot to explore the town on foot.",
+            "da": "Find en central parkeringsplads for at udforske byen til fods."
           }
         },
         {
@@ -939,7 +1026,8 @@
             "de": "Sankt Katharina Kirke",
             "hu": "Szent Katalin-templom",
             "ro": "Biserica Sfânta Ecaterina",
-            "en": "Saint Katharina Church"
+            "en": "Saint Katharina Church",
+            "da": "Sankt Katharina Kirke"
           },
           "coords": [
             12.3888,
@@ -955,7 +1043,8 @@
             "de": "Ein kurzer Spaziergang vom Parkplatz aus.",
             "hu": "Rövid séta a parkolótól.",
             "ro": "O scurtă plimbare de la parcare.",
-            "en": "A short walk from your parking spot."
+            "en": "A short walk from your parking spot.",
+            "da": "En kort gåtur fra din parkeringsplads."
           }
         },
         {
@@ -963,7 +1052,8 @@
             "de": "Stevns Museum",
             "hu": "Stevns Múzeum",
             "ro": "Muzeul Stevns",
-            "en": "Stevns Museum"
+            "en": "Stevns Museum",
+            "da": "Stevns Museum"
           },
           "coords": [
             12.3895,
@@ -979,7 +1069,8 @@
             "de": "Gleich um die Ecke der Kirche, ideal für einen kombinierten Besuch.",
             "hu": "A templom sarkánál, ideális egy közös látogatáshoz.",
             "ro": "Chiar după colț de biserică, ideal pentru o vizită combinată.",
-            "en": "Just around the corner from the church, perfect for a combined visit."
+            "en": "Just around the corner from the church, perfect for a combined visit.",
+            "da": "Lige rundt om hjørnet fra kirken, perfekt til et kombineret besøg."
           }
         },
         {
@@ -987,7 +1078,8 @@
             "de": "Cluster-Start: Stevns Klint & Museum",
             "hu": "Klaszter kezdete: Stevns Klint és Múzeum",
             "ro": "Început cluster: Stevns Klint și Muzeul",
-            "en": "Cluster Start: Stevns Klint & Museum"
+            "en": "Cluster Start: Stevns Klint & Museum",
+            "da": "Cluster Start: Stevns Klint & Museum"
           },
           "coords": [
             12.4502,
@@ -1003,7 +1095,8 @@
             "de": "Fahren Sie zum Koldkrigsmuseum Stevnsfort und parken Sie dort. Von hier aus können Sie die gesamte Gegend erkunden.",
             "hu": "Vezessen a Stevnsfort Hidegháborús Múzeumhoz és parkoljon le. Innen az egész területet felfedezheti.",
             "ro": "Conduceți la Muzeul Războiului Rece Stevnsfort și parcați. Puteți explora întreaga zonă de aici.",
-            "en": "Drive to the Cold War Museum Stevnsfort and park. You can explore the whole area from here."
+            "en": "Drive to the Cold War Museum Stevnsfort and park. You can explore the whole area from here.",
+            "da": "Kør til Koldkrigsmuseum Stevnsfort og parkér. Du kan udforske hele området herfra."
           }
         },
         {
@@ -1011,7 +1104,8 @@
             "de": "Højerup Gamle Kirke",
             "hu": "Højerup régi temploma",
             "ro": "Biserica Veche din Højerup",
-            "en": "Højerup Old Church"
+            "en": "Højerup Old Church",
+            "da": "Højerup Gamle Kirke"
           },
           "coords": [
             12.4573,
@@ -1027,7 +1121,8 @@
             "de": "Ein malerischer Spaziergang vom Museum entlang der Klippen zu dieser berühmten Kirche.",
             "hu": "Festői séta a múzeumtól a sziklák mentén ehhez a híres templomhoz.",
             "ro": "O plimbare pitorească de la muzeu de-a lungul stâncilor până la această biserică faimoasă.",
-            "en": "A scenic walk from the museum along the cliffs to this famous church."
+            "en": "A scenic walk from the museum along the cliffs to this famous church.",
+            "da": "En naturskøn gåtur fra museet langs klipperne til denne berømte kirke."
           }
         },
         {
@@ -1035,7 +1130,8 @@
             "de": "Boesdal Kalkbrud",
             "hu": "Boesdal mészkőbánya",
             "ro": "Cariera de calcar Boesdal",
-            "en": "Boesdal Limestone Quarry"
+            "en": "Boesdal Limestone Quarry",
+            "da": "Boesdal Mergelgrave"
           },
           "coords": [
             12.4281,
@@ -1051,7 +1147,8 @@
             "de": "Eine kurze Fahrt vom Klint entfernt, ein beeindruckender Ort für Fotos.",
             "hu": "Rövid autóútra a szikláktól, lenyűgöző helyszín fotózáshoz.",
             "ro": "La o scurtă distanță cu mașina de stâncă, un loc impresionant pentru fotografii.",
-            "en": "A short drive from the Klint, this is an impressive spot for photos."
+            "en": "A short drive from the Klint, this is an impressive spot for photos.",
+            "da": "En kort køretur fra Klinten; et imponerende sted til fotos."
           }
         },
         {
@@ -1059,7 +1156,8 @@
             "de": "Rødvig Havn",
             "hu": "Rødvig kikötője",
             "ro": "Portul Rødvig",
-            "en": "Rødvig Harbour"
+            "en": "Rødvig Harbour",
+            "da": "Rødvig Havn"
           },
           "coords": [
             12.357,
@@ -1075,7 +1173,8 @@
             "de": "Beenden Sie den Tag in diesem lebhaften Hafen. Ideal für ein Abendessen mit Blick aufs Meer.",
             "hu": "Zárja a napot ebben az élénk kikötőben. Ideális egy tengerre néző vacsorához.",
             "ro": "Încheiați ziua în acest port plin de viață. Ideal pentru cină cu vedere la mare.",
-            "en": "End your day at this lively harbor. Ideal for dinner with a sea view."
+            "en": "End your day at this lively harbor. Ideal for dinner with a sea view.",
+            "da": "Afslut din dag ved denne levende havn. Ideelt til middag med havudsigt."
           }
         }
       ],
@@ -1083,7 +1182,8 @@
         "de": "Maximale Flexibilität mit dem Auto. Beginnen Sie Ihren Morgen mit der Erkundung des historischen Zentrums von Store Heddinge zu Fuß. Fahren Sie mittags zur UNESCO-Welterbestätte Stevns Klint. Parken Sie Ihr Auto und erkunden Sie das faszinierende Koldkrigsmuseum und die dramatisch gelegene alte Kirche von Højerup zu Fuß. Am Nachmittag machen Sie eine kurze Fahrt zum beeindruckenden Boesdal-Kalksteinbruch, bevor Sie den Tag im charmanten Hafen von Rødvig ausklingen lassen.",
         "hu": "Maximális rugalmasság autóval. Kezdje a reggelt Store Heddinge történelmi központjának gyalogos felfedezésével. Délben vezessen el a Stevns Klint UNESCO világörökségi helyszínhez. Parkolja le az autót, és fedezze fel gyalog a lenyűgöző Hidegháborús Múzeumot és a drámai fekvésű Højerup régi templomot. Délután tegyen egy rövid kitérőt a lenyűgöző Boesdal mészkőbányához, mielőtt a bájos Rødvig kikötőjében zárja a napot.",
         "ro": "Flexibilitate maximă cu mașina. Începeți dimineața explorând centrul istoric al orașului Store Heddinge pe jos. La prânz, conduceți spre situl UNESCO Stevns Klint. Parcați mașina și explorați pe jos fascinantul Muzeu al Războiului Rece și dramatica Biserică Veche din Højerup. După-amiaza, faceți o scurtă călătorie cu mașina până la impresionanta carieră de calcar Boesdal înainte de a încheia ziua în fermecătorul port Rødvig.",
-        "en": "Maximum flexibility by car. Start your morning exploring the historic center of Store Heddinge on foot. At midday, drive to the UNESCO World Heritage site of Stevns Klint. Park your car and explore the fascinating Cold War Museum and the dramatically perched Højerup Old Church on foot. In the afternoon, take a short drive to the impressive Boesdal Limestone Quarry before ending your day at the charming Rødvig harbor."
+        "en": "Maximum flexibility by car. Start your morning exploring the historic center of Store Heddinge on foot. At midday, drive to the UNESCO World Heritage site of Stevns Klint. Park your car and explore the fascinating Cold War Museum and the dramatically perched Højerup Old Church on foot. In the afternoon, take a short drive to the impressive Boesdal Limestone Quarry before ending your day at the charming Rødvig harbor.",
+        "da": "Maksimal fleksibilitet i bil. Start morgenen med at udforske Store Heddinges historiske centrum til fods. Midt på dagen kør til UNESCOs verdensarvsted Stevns Klint. Parkér bilen og udforsk det fascinerende Koldkrigsmuseum og den dramatisk placerede Højerup Gamle Kirke til fods. Om eftermiddagen tager du en kort køretur til den imponerende Boesdal Mergelgrav, før du slutter dagen ved den charmerende Rødvig Havn."
       },
       "gastro_picks": {
         "de": [
@@ -1227,6 +1327,12 @@
           "Book tickets for the Cold War Museum in advance to avoid queues.",
           "Keep some cash on hand for small purchases at farm shops.",
           "The country roads are narrow, so drive with care."
+        ],
+        "da": [
+          "Parkering er gratis de fleste steder, men vær opmærksom på tidsbegrænsninger.",
+          "Bestil billetter til Koldkrigsmuseet i forvejen for at undgå kø.",
+          "Hav kontanter til småkøb i gårdbutikker.",
+          "Landevejene er smalle, så kør forsigtigt."
         ]
       },
       "variants": {
@@ -1235,7 +1341,8 @@
             "de": "Genießen Sie den Komfort Ihres Autos während der Fahrt durch das verregnete Seeland. Nach dem Besuch der St. Katharina Kirche fahren Sie zum Stevns Museum, um trocken in die Geschichte einzutauchen. Die Fahrt zu den Stevns Klint Klippen bietet spektakuläre Ausblicke direkt vom Parkplatz aus. In Rødvig Harbour können Sie das maritime Treiben beobachten, während die Tropfen gegen die Autoscheiben trommeln.",
             "hu": "Élvezze autója kényelmét, miközben az esős Sjælland vidékén autózik. A Szent Katalin-templom után látogasson el a Stevns Múzeumba, hogy szárazon merüljön el a múltban. A Stevns Klint szikláihoz vezető út látványos kilátást kínál közvetlenül a parkolóból is. Rødvig kikötőjében figyelheti a tengeri nyüzsgést, miközben az esőcseppek az autó ablakán kopognak.",
             "ro": "Bucurați-vă de confortul mașinii în timp ce conduceți prin Zealand-ul ploios. După vizitarea Bisericii Sfânta Ecaterina, mergeți la Muzeul Stevns pentru a explora istoria la adăpost. Drumul spre faleza Stevns Klint oferă vederi spectaculoase chiar din parcare. În portul Rødvig puteți observa activitatea maritimă în timp ce picăturile de ploaie bat în geamurile mașinii.",
-            "en": "Enjoy the comfort of your car while driving through rainy Zealand. After visiting Saint Katharina Church, head to Stevns Museum to dive into history while staying dry. The drive to Stevns Klint offers spectacular views right from the parking lot. At Rødvig Harbour, you can watch the maritime activity while raindrops drum against the car windows."
+            "en": "Enjoy the comfort of your car while driving through rainy Zealand. After visiting Saint Katharina Church, head to Stevns Museum to dive into history while staying dry. The drive to Stevns Klint offers spectacular views right from the parking lot. At Rødvig Harbour, you can watch the maritime activity while raindrops drum against the car windows.",
+            "da": "Nyd bilens komfort, mens du kører gennem regnfulde Sjælland. Efter besøget på Sankt Katharina Kirke, kør til Stevns Museum for at dykke ned i historien, mens du holder dig tør. Køreturen til Stevns Klint byder på spektakulære udsigter lige fra parkeringspladsen. Ved Rødvig Havn kan du se det maritime liv, mens regndråber trommer mod bilens ruder."
           },
           "stops": [
             {
@@ -1244,7 +1351,8 @@
                 "de": "Suchen Sie einen Parkplatz in der Nähe des Eingangs, um Laufwege im Regen zu minimieren.",
                 "hu": "Keressen parkolót a bejárathoz közel, hogy minimalizálja az esőben való gyaloglást.",
                 "ro": "Căutați un loc de parcare lângă intrare pentru a minimiza mersul prin ploaie.",
-                "en": "Look for a parking spot near the entrance to minimize walking in the rain."
+                "en": "Look for a parking spot near the entrance to minimize walking in the rain.",
+                "da": "Find en parkeringsplads nær indgangen for at minimere gåturen i regnen."
               }
             },
             {
@@ -1253,7 +1361,8 @@
                 "de": "Lassen Sie nasse Regenschirme im Kofferraum.",
                 "hu": "Hagyja a vizes esernyőket a csomagtartóban.",
                 "ro": "Lăsați umbrelele ude în portbagaj.",
-                "en": "Leave wet umbrellas in the trunk."
+                "en": "Leave wet umbrellas in the trunk.",
+                "da": "Læg våde paraplyer i bagagerummet."
               }
             },
             {
@@ -1262,7 +1371,8 @@
                 "de": "Der Parkplatz ist nur wenige Schritte vom Museum entfernt.",
                 "hu": "A parkoló csak néhány lépésre van a múzeumtól.",
                 "ro": "Parcarea este la doar câțiva pași de muzeu.",
-                "en": "The parking lot is just a few steps from the museum."
+                "en": "The parking lot is just a few steps from the museum.",
+                "da": "P-pladsen ligger kun få skridt fra museet."
               }
             },
             {
@@ -1271,7 +1381,8 @@
                 "de": "Bei starkem Regen ist das Museum die sicherste Option.",
                 "hu": "Heves esőzés esetén a múzeum a legbiztonságosabb választás.",
                 "ro": "În caz de ploaie torențială, muzeul este cea mai sigură opțiune.",
-                "en": "In heavy rain, the museum is the safest and driest option."
+                "en": "In heavy rain, the museum is the safest and driest option.",
+                "da": "Ved kraftig regn er museet det sikreste og tørreste valg."
               }
             },
             {
@@ -1280,7 +1391,8 @@
                 "de": "Kurzer, aber potenziell rutschiger Weg vom Parkplatz zur Kirche.",
                 "hu": "Rövid, de potenciálisan csúszós út a parkolótól a templomig.",
                 "ro": "Drum scurt, dar potențial alunecos de la parcare la biserică.",
-                "en": "Short but potentially slippery walk from the parking lot to the church."
+                "en": "Short but potentially slippery walk from the parking lot to the church.",
+                "da": "Kort, men potentielt glat gåtur fra parkeringspladsen til kirken."
               }
             },
             {
@@ -1289,7 +1401,8 @@
                 "de": "Bleiben Sie bei starkem Regen im Auto und genießen Sie die Aussicht.",
                 "hu": "Heves esőben maradjon az autóban és onnan nézze a kilátást.",
                 "ro": "Rămâneți în mașină în caz de ploaie puternică și admirați vederea.",
-                "en": "Stay in the car and enjoy the view if the rain is too heavy."
+                "en": "Stay in the car and enjoy the view if the rain is too heavy.",
+                "da": "Bliv i bilen og nyd udsigten, hvis regnen er for kraftig."
               }
             },
             {
@@ -1298,7 +1411,8 @@
                 "de": "Parken Sie direkt am Kai, um die Schiffe zu sehen.",
                 "hu": "Parkoljon közvetlenül a rakparton, hogy lássa a hajókat.",
                 "ro": "Parcați chiar pe chei pentru a vedea navele.",
-                "en": "Park directly on the quay to see the boats."
+                "en": "Park directly on the quay to see the boats.",
+                "da": "Parkér direkte på kajen for at se bådene."
               }
             }
           ],
@@ -1326,6 +1440,12 @@
               "Keep a towel in the car to dry off.",
               "Check the condition of your windshield wipers before departing.",
               "Parking lots near the cliffs can be muddy in the rain."
+            ],
+            "da": [
+              "Pas på aquaplaning på kystvejene.",
+              "Hold et håndklæde i bilen til at tørre af med.",
+              "Tjek vinduesviskerne, før du kører.",
+              "Parkeringspladser nær klipperne kan blive mudrede i regnvejr."
             ]
           }
         },
@@ -1334,7 +1454,8 @@
             "de": "Eine winterliche Fahrt durch Store Heddinge beginnt gemütlich in Ihrem beheizten Fahrzeug. Besuchen Sie die historische St. Katharina Kirche und das Stevns Museum, bevor Sie zu den dramatisch verschneiten Stevns Klint Klippen aufbrechen. Die Kälte draußen macht den Anblick der gefrorenen Ostsee umso beeindruckender. Beenden Sie Ihre Tour in Rødvig Harbour, wo die Wintersonne früh hinter dem Horizont verschwindet.",
             "hu": "A téli autózás Store Heddinge környékén kényelmesen indul fűtött járművében. Látogasson el a Szent Katalin-templomba és a Stevns Múzeumba, mielőtt a hófödte Stevns Klint sziklák felé indulna. A kinti hideg még lenyűgözőbbé teszi a fagyott Balti-tenger látványát. Zárja a túrát Rødvig kikötőjében, ahol a téli nap korán eltűnik a horizont mögött.",
             "ro": "O călătorie de iarnă prin Store Heddinge începe confortabil în vehiculul dvs. încălzit. Vizitați Biserica Sfânta Ecaterina și Muzeul Stevns înainte de a porni spre faleza înzăpezită Stevns Klint. Frigul de afară face vederea Balticii înghețate și mai impresionantă. Încheiați turul în portul Rødvig, unde soarele de iarnă dispare devreme sub orizont.",
-            "en": "A winter drive through Store Heddinge starts comfortably in your heated vehicle. Visit the historic Saint Katharina Church and Stevns Museum before heading to the dramatically snowy Stevns Klint cliffs. The cold outside makes the sight of the frozen Baltic Sea all the more impressive. End your tour at Rødvig Harbour, where the winter sun disappears early behind the horizon."
+            "en": "A winter drive through Store Heddinge starts comfortably in your heated vehicle. Visit the historic Saint Katharina Church and Stevns Museum before heading to the dramatically snowy Stevns Klint cliffs. The cold outside makes the sight of the frozen Baltic Sea all the more impressive. End your tour at Rødvig Harbour, where the winter sun disappears early behind the horizon.",
+            "da": "En vinterkøretur gennem Store Heddinge starter behageligt i din opvarmede bil. Besøg den historiske Sankt Katharina Kirke og Stevns Museum, før du kører til de dramatisk snedækkede Stevns Klint-klipper. Kulden udenfor gør synet af det frosne Østersø endnu mere imponerende. Afslut din tur ved Rødvig Havn, hvor vintersolen forsvinder tidligt bag horisonten."
           },
           "stops": [
             {
@@ -1343,7 +1464,8 @@
                 "de": "Vorsicht vor vereisten Parkplätzen am Morgen.",
                 "hu": "Vigyázzon a jeges parkolókra a reggeli órákban.",
                 "ro": "Atenție la parcările înghețate dimineața.",
-                "en": "Watch out for icy parking spots in the morning."
+                "en": "Watch out for icy parking spots in the morning.",
+                "da": "Pas på isede parkeringspladser om morgenen."
               }
             },
             {
@@ -1352,7 +1474,8 @@
                 "de": "Kurzer Weg, aber achten Sie auf rutschige Steine.",
                 "hu": "Rövid út, de ügyeljen a csúszós kövekre.",
                 "ro": "Drum scurt, dar atenție la pietrele alunecoase.",
-                "en": "Short walk, but watch out for slippery stones."
+                "en": "Short walk, but watch out for slippery stones.",
+                "da": "Kort gåtur, men pas på glatte sten."
               }
             },
             {
@@ -1361,7 +1484,8 @@
                 "de": "Ideale Aufwärmpause zwischen den Fahrten.",
                 "hu": "Ideális melegedő szünet két autózás között.",
                 "ro": "Pauză ideală de încălzire între drumuri.",
-                "en": "Ideal warming break between drives."
+                "en": "Ideal warming break between drives.",
+                "da": "Ideelt opvarmningsstop mellem køreturene."
               }
             },
             {
@@ -1370,7 +1494,8 @@
                 "de": "Nutzen Sie das Museumscafé für ein heißes Getränk.",
                 "hu": "Használja a múzeum kávézóját egy forró italhoz.",
                 "ro": "Folosiți cafeneaua muzeului pentru o băutură caldă.",
-                "en": "Use the museum cafe for a hot drink."
+                "en": "Use the museum cafe for a hot drink.",
+                "da": "Brug museums-caféen til en varm drik."
               }
             },
             {
@@ -1379,7 +1504,8 @@
                 "de": "Extremer Windchill auf dem Weg zur Kirche.",
                 "hu": "Rendkívül erős szél a templomhoz vezető úton.",
                 "ro": "Vânt foarte tăios în drum spre biserică.",
-                "en": "Extreme wind chill on the path to the church."
+                "en": "Extreme wind chill on the path to the church.",
+                "da": "Ekstrem kuldefølelse på stien til kirken."
               }
             },
             {
@@ -1388,7 +1514,8 @@
                 "de": "Die Zufahrt kann bei Schnee schwierig sein.",
                 "hu": "A behajtás nehézkes lehet nagy hóban.",
                 "ro": "Accesul poate fi dificil în caz de zăpadă.",
-                "en": "Access might be difficult in heavy snow."
+                "en": "Access might be difficult in heavy snow.",
+                "da": "Adgang kan være vanskelig ved kraftig sne."
               }
             },
             {
@@ -1397,7 +1524,8 @@
                 "de": "Genießen Sie den Blick auf das Eis im Hafen vom warmen Auto aus.",
                 "hu": "Élvezze a kikötői jég látványát a meleg autóból.",
                 "ro": "Bucurați-vă de vederea gheții din port din mașina caldă.",
-                "en": "Enjoy the view of the ice in the harbour from your warm car."
+                "en": "Enjoy the view of the ice in the harbour from your warm car.",
+                "da": "Nyd udsigten over isen i havnen fra din varme bil."
               }
             }
           ],
@@ -1425,6 +1553,12 @@
               "Carry an ice scraper and anti-freeze with you.",
               "Coastal roads can drift over quickly, drive carefully.",
               "The sun sets early, so finish your tour before 16:00."
+            ],
+            "da": [
+              "Vinterdæk er obligatoriske i Danmark under disse forhold.",
+              "Medbring isskraber og frostvæske.",
+              "Kystvejene kan hurtigt blive tilsnedækkede, kør forsigtigt.",
+              "Solen går tidligt ned, så afslut din tur før 16:00."
             ]
           }
         }
@@ -1443,7 +1577,8 @@
             "de": "Cluster-Start: Bahnhof Store Heddinge",
             "hu": "Klaszter kezdete: Store Heddinge vasútállomás",
             "ro": "Început cluster: Gara Store Heddinge",
-            "en": "Cluster Start: Store Heddinge Station"
+            "en": "Cluster Start: Store Heddinge Station",
+            "da": "Cluster Start: Store Heddinge Station"
           },
           "coords": [
             12.385,
@@ -1458,7 +1593,8 @@
             "de": "Beginnen Sie Ihren Tag am Verkehrsknotenpunkt der Stadt.",
             "hu": "Kezdje a napot a város közlekedési csomópontjánál.",
             "ro": "Începeți ziua la nodul de transport al orașului.",
-            "en": "Start your day at the town's transport hub."
+            "en": "Start your day at the town's transport hub.",
+            "da": "Start din dag ved byens transportknudepunkt."
           }
         },
         {
@@ -1466,7 +1602,8 @@
             "de": "Sankt Katharina Kirke",
             "hu": "Szent Katalin-templom",
             "ro": "Biserica Sfânta Ecaterina",
-            "en": "Saint Katharina Church"
+            "en": "Saint Katharina Church",
+            "da": "Sankt Katharina Kirke"
           },
           "coords": [
             12.3888,
@@ -1482,7 +1619,8 @@
             "de": "Ein einfacher Spaziergang vom Bahnhof ins Stadtzentrum.",
             "hu": "Könnyű séta az állomástól a városközpontba.",
             "ro": "O plimbare ușoară de la gară spre centrul orașului.",
-            "en": "An easy walk from the station into the town center."
+            "en": "An easy walk from the station into the town center.",
+            "da": "En nem gåtur fra stationen ind til bymidten."
           }
         },
         {
@@ -1490,7 +1628,8 @@
             "de": "Fahrt zum Stevns Klint",
             "hu": "Utazás a Stevns Klinthez",
             "ro": "Călătorie spre Stevns Klint",
-            "en": "Trip to Stevns Klint"
+            "en": "Trip to Stevns Klint",
+            "da": "Togt til Stevns Klint"
           },
           "coords": [
             12.457,
@@ -1506,7 +1645,8 @@
             "de": "Nehmen Sie den Bus 252 in Richtung Rødvig. Die Fahrt bietet eine schöne Aussicht.",
             "hu": "Vegye a 252-es buszt Rødvig felé. Az út szép kilátást kínál.",
             "ro": "Luați autobuzul 252 spre Rødvig. Călătoria oferă priveliști frumoase.",
-            "en": "Take bus 252 towards Rødvig. The journey offers nice views."
+            "en": "Take bus 252 towards Rødvig. The journey offers nice views.",
+            "da": "Tag bus 252 mod Rødvig. Turen byder på fine udsigter."
           }
         },
         {
@@ -1514,7 +1654,8 @@
             "de": "Højerup Gamle Kirke & Stevns Klint",
             "hu": "Højerup régi temploma és Stevns Klint",
             "ro": "Biserica Veche din Højerup și Stevns Klint",
-            "en": "Højerup Old Church & Stevns Klint"
+            "en": "Højerup Old Church & Stevns Klint",
+            "da": "Højerup Gamle Kirke & Stevns Klint"
           },
           "coords": [
             12.4573,
@@ -1530,7 +1671,8 @@
             "de": "Steigen Sie an der Haltestelle 'Højerup' aus und erkunden Sie die Klippen und die Kirche zu Fuß.",
             "hu": "Szálljon le a 'Højerup' megállónál, és fedezze fel gyalog a sziklákat és a templomot.",
             "ro": "Coborâți la stația 'Højerup' și explorați stâncile și biserica pe jos.",
-            "en": "Get off at the 'Højerup' stop and explore the cliffs and church on foot."
+            "en": "Get off at the 'Højerup' stop and explore the cliffs and church on foot.",
+            "da": "Stig af ved 'Højerup'-holdepladsen og udforsk klipperne og kirken til fods."
           }
         },
         {
@@ -1538,7 +1680,8 @@
             "de": "Fahrt nach Rødvig",
             "hu": "Utazás Rødvigbe",
             "ro": "Călătorie spre Rødvig",
-            "en": "Trip to Rødvig"
+            "en": "Trip to Rødvig",
+            "da": "Togt til Rødvig"
           },
           "coords": [
             12.357,
@@ -1554,7 +1697,8 @@
             "de": "Nehmen Sie denselben Bus (252) weiter nach Rødvig Havn für ein Mittagessen am Meer.",
             "hu": "Folytassa az utat ugyanazzal a busszal (252) Rødvig kikötőjébe egy tengerparti ebédért.",
             "ro": "Continuați cu același autobuz (252) până la Rødvig Havn pentru prânz pe malul mării.",
-            "en": "Continue on the same bus (252) to Rødvig Havn for lunch by the sea."
+            "en": "Continue on the same bus (252) to Rødvig Havn for lunch by the sea.",
+            "da": "Fortsæt med samme bus (252) til Rødvig Havn for frokost ved havet."
           }
         },
         {
@@ -1562,7 +1706,8 @@
             "de": "Rückfahrt nach Store Heddinge",
             "hu": "Visszaút Store Heddingébe",
             "ro": "Întoarcere la Store Heddinge",
-            "en": "Return to Store Heddinge"
+            "en": "Return to Store Heddinge",
+            "da": "Retur til Store Heddinge"
           },
           "coords": [
             12.385,
@@ -1578,7 +1723,8 @@
             "de": "Nehmen Sie den Zug vom Bahnhof Rødvig zurück nach Store Heddinge. Es ist eine kurze und malerische Fahrt.",
             "hu": "Vegye a vonatot Rødvig állomásról vissza Store Heddingébe. Rövid és festői út.",
             "ro": "Luați trenul de la gara Rødvig înapoi la Store Heddinge. Este o călătorie scurtă și pitorească.",
-            "en": "Take the train from Rødvig station back to Store Heddinge. It's a short and scenic ride."
+            "en": "Take the train from Rødvig station back to Store Heddinge. It's a short and scenic ride.",
+            "da": "Tag toget fra Rødvig station tilbage til Store Heddinge. Det er en kort og naturskøn tur."
           }
         }
       ],
@@ -1586,7 +1732,8 @@
         "de": "Entdecken Sie die Region mit öffentlichen Verkehrsmitteln. Beginnen Sie im Zentrum von Store Heddinge und nehmen Sie dann einen Bus zur Küste. Verbringen Sie den späten Vormittag und Mittag damit, die majestätischen Stevns Klint zu Fuß zu erkunden. Am Nachmittag bringt Sie derselbe Bus in den Fischerhafen von Rødvig, wo Sie ein Mittagessen am Meer genießen können. Eine kurze Zugfahrt bringt Sie am Ende des Tages zurück nach Store Heddinge. Diese Tour ist perfekt, um sich zu entspannen und die Landschaft zu genießen.",
         "hu": "Fedezze fel a régiót tömegközlekedéssel. Kezdje Store Heddinge központjában, majd buszozzon a partra. Töltse a késő délelőttöt és a délt a fenséges Stevns Klint gyalogos felfedezésével. Délután ugyanaz a busz elviszi Rødvig halászkikötőjébe egy tengerparti ebédre. A nap végén egy rövid vonatút viszi vissza Store Heddingébe. Ez a túra tökéletes a pihenésre és a táj élvezetére.",
         "ro": "Explorați regiunea cu transportul public. Începeți în centrul orașului Store Heddinge, apoi luați un autobuz spre coastă. Petreceți sfârșitul dimineții și prânzul explorând pe jos majestuoasa stâncă Stevns Klint. După-amiaza, același autobuz vă va duce la portul pescăresc Rødvig pentru un prânz pe malul mării. O scurtă călătorie cu trenul vă va aduce înapoi la Store Heddinge la sfârșitul zilei. Acest tur este perfect pentru a vă relaxa și a vă bucura de peisaj.",
-        "en": "Explore the region using public transport. Start in Store Heddinge's center, then take a bus to the coast. Spend the late morning and midday exploring the majestic Stevns Klint on foot. In the afternoon, the same bus will take you to the fishing harbor of Rødvig for a seaside lunch. A short train ride brings you back to Store Heddinge at the end of the day. This tour is perfect for relaxing and enjoying the scenery."
+        "en": "Explore the region using public transport. Start in Store Heddinge's center, then take a bus to the coast. Spend the late morning and midday exploring the majestic Stevns Klint on foot. In the afternoon, the same bus will take you to the fishing harbor of Rødvig for a seaside lunch. A short train ride brings you back to Store Heddinge at the end of the day. This tour is perfect for relaxing and enjoying the scenery.",
+        "da": "Udforsk regionen med offentlig transport. Start i Store Heddinges centrum, tag derefter en bus til kysten. Brug formiddag og middag på at udforske den majestætiske Stevns Klint til fods. Om eftermiddagen tager samme bus dig til fiskerihavnen i Rødvig til en frokost ved vandet. En kort togstrækning bringer dig tilbage til Store Heddinge ved dagens afslutning. Denne tur er perfekt til afslapning og nydelse af landskabet."
       },
       "gastro_picks": {
         "de": [
@@ -1730,6 +1877,12 @@
           "Check bus and train schedules online using the 'Rejseplanen' app.",
           "Rural buses may not be frequent, so plan your return journey.",
           "Wave to the bus driver to signal them to stop at your stop."
+        ],
+        "da": [
+          "Køb en dagsbillet til ubegrænset rejse inden for regionen.",
+          "Tjek bus- og togplaner online via appen 'Rejseplanen'.",
+          "Landsbybusser kører måske ikke hyppigt, så planlæg din hjemrejse.",
+          "Vink til buschaufføren for at signalere, at han skal stoppe ved dit stoppested."
         ]
       },
       "variants": {
@@ -1738,7 +1891,8 @@
             "de": "Beginnen Sie Ihre Reise am Bahnhof Store Heddinge, der Schutz vor dem Regen bietet. Nach der St. Katharina Kirche bringt Sie der Bus zu den Stevns Klint Klippen, wo das Wetter die dramatische Atmosphäre unterstreicht. Das Stevnsfort Museum ist ein idealer Rückzugsort bei anhaltendem Regen. Den Tag schließen Sie in Rødvig ab, bevor Sie mit dem Zug zurück nach Store Heddinge fahren.",
             "hu": "Kezdje utazását a Store Heddinge vasútállomáson, amely védelmet nyújt az eső elől. A Szent Katalin-templom után busszal utazzon a Stevns Klint sziklákhoz, ahol az időjárás csak fokozza a drámai hangulatot. A Stevnsfort Múzeum ideális menedék tartós eső esetén. A napot Rødvigben zárhatja, mielőtt vonattal visszatérne Store Heddingébe.",
             "ro": "Începeți călătoria la gara Store Heddinge, care oferă protecție împotriva ploii. După Biserica Sfânta Ecaterina, autobuzul vă duce la faleza Stevns Klint, unde vremea subliniază atmosfera dramatică. Muzeul Stevnsfort este un refugiu ideal în caz de ploaie persistentă. Încheiați ziua în Rødvig înainte de a reveni cu trenul în Store Heddinge.",
-            "en": "Start your journey at Store Heddinge station, which offers shelter from the rain. After Saint Katharina Church, take the bus to Stevns Klint, where the weather enhances the dramatic atmosphere. Stevnsfort Museum is an ideal retreat during persistent rain. End your day in Rødvig before taking the train back to Store Heddinge."
+            "en": "Start your journey at Store Heddinge station, which offers shelter from the rain. After Saint Katharina Church, take the bus to Stevns Klint, where the weather enhances the dramatic atmosphere. Stevnsfort Museum is an ideal retreat during persistent rain. End your day in Rødvig before taking the train back to Store Heddinge.",
+            "da": "Start din rejse på Store Heddinge station, som tilbyder læ for regnen. Efter Sankt Katharina Kirke tager du bussen til Stevns Klint, hvor vejret forstærker den dramatiske stemning. Stevnsfort Museum er et ideelt tilflugtssted under vedvarende regn. Afslut dagen i Rødvig, inden du tager toget tilbage til Store Heddinge."
           },
           "stops": [
             {
@@ -1747,7 +1901,8 @@
                 "de": "Warten Sie in der Bahnhofshalle auf Ihren Zug.",
                 "hu": "Várjon a vonatára az állomás épületében.",
                 "ro": "Așteptați trenul în interiorul gării.",
-                "en": "Wait for your train inside the station building."
+                "en": "Wait for your train inside the station building.",
+                "da": "Vent på dit tog inde i stationsbygningen."
               }
             },
             {
@@ -1756,7 +1911,8 @@
                 "de": "Nutzen Sie den Weg durch bebaute Gebiete für mehr Schutz.",
                 "hu": "Használja a beépített területeken vezető utat a több védelemért.",
                 "ro": "Folosiți drumul prin zonele construite pentru mai multă protecție.",
-                "en": "Use paths through built-up areas for more protection."
+                "en": "Use paths through built-up areas for more protection.",
+                "da": "Brug stier gennem bebyggede områder for mere beskyttelse."
               }
             },
             {
@@ -1765,7 +1921,8 @@
                 "de": "Prüfen Sie die Busverbindungen online, um Wartezeiten im Regen zu vermeiden.",
                 "hu": "Ellenőrizze a buszmenetrendet online, hogy elkerülje az esőben való várakozást.",
                 "ro": "Verificați mersul autobuzelor online pentru a evita așteptarea în ploaie.",
-                "en": "Check bus schedules online to avoid waiting in the rain."
+                "en": "Check bus schedules online to avoid waiting in the rain.",
+                "da": "Tjek bustider online for at undgå at vente i regnen."
               }
             },
             {
@@ -1774,7 +1931,8 @@
                 "de": "Suchen Sie bei Schauern Schutz in der alten Kirche.",
                 "hu": "Zápor esetén keressen menedéket a régi templomban.",
                 "ro": "Căutați adăpost în biserica veche în caz de aversă.",
-                "en": "Seek shelter in the old church during showers."
+                "en": "Seek shelter in the old church during showers.",
+                "da": "Søg læ i den gamle kirke under regnbyger."
               }
             },
             {
@@ -1783,7 +1941,8 @@
                 "de": "Genießen Sie die trockene Fahrt im Bus.",
                 "hu": "Élvezze a száraz utazást a buszon.",
                 "ro": "Bucurați-vă de călătoria uscată cu autobuzul.",
-                "en": "Enjoy the dry ride on the bus."
+                "en": "Enjoy the dry ride on the bus.",
+                "da": "Nyd den tørre køretur med bussen."
               }
             },
             {
@@ -1792,7 +1951,8 @@
                 "de": "Die Züge fahren regelmäßig und pünktlich.",
                 "hu": "A vonatok rendszeresen és pontosan közlekednek.",
                 "ro": "Trenurile circulă regulat și punctual.",
-                "en": "Trains run regularly and punctually."
+                "en": "Trains run regularly and punctually.",
+                "da": "Togene kører regelmæssigt og punktligt."
               }
             }
           ],
@@ -1820,6 +1980,12 @@
               "Train stations usually offer good sheltered waiting areas.",
               "Have small change or a travel card ready for the bus.",
               "Buses in this region are clean and usually heated."
+            ],
+            "da": [
+              "Brug appen 'Rejseplanen' for live-opdateringer ved vejrforsinkelser.",
+              "Togstationer har som regel gode overdækkede venteområder.",
+              "Hav småpenge eller et rejsekort klar til bussen.",
+              "Busserne i denne region er rene og som regel varme."
             ]
           }
         },
@@ -1828,7 +1994,8 @@
             "de": "Starten Sie Ihre Wintertour am Bahnhof Store Heddinge, wo die Wärme der Wartehalle willkommen ist. Die St. Katharina Kirche wirkt im Winterlicht besonders andächtig. Mit dem Bus erreichen Sie die gefrorenen Stevns Klint Klippen, ein beeindruckendes Naturschauspiel. Nach einem Besuch im Stevnsfort Museum kehren Sie nach Rødvig zurück und genießen die Heimfahrt im warmen Zug nach Store Heddinge.",
             "hu": "Kezdje téli túráját a Store Heddinge vasútállomáson, ahol a váróterem melege fogadja. A Szent Katalin-templom különösen áhítatos a téli fényekben. Busszal érheti el a fagyott Stevns Klint sziklákat, amely lenyűgöző természeti látvány. A Stevnsfort Múzeum után térjen vissza Rødvigbe, majd élvezze a hazautat a meleg vonaton Store Heddingébe.",
             "ro": "Începeți turul de iarnă la gara Store Heddinge, unde căldura sălii de așteptare este binevenită. Biserica Sfânta Ecaterina pare deosebit de solemnă în lumina iernii. Cu autobuzul ajungeți la faleza înghețată Stevns Klint, un spectacol natural impresionant. După o vizită la Muzeul Stevnsfort, reveniți în Rødvig și bucurați-vă de drumul spre casă în trenul cald.",
-            "en": "Start your winter tour at Store Heddinge station, where the warmth of the waiting room is welcome. Saint Katharina Church looks especially solemn in the winter light. By bus, you reach the frozen Stevns Klint cliffs, an impressive natural spectacle. After a visit to Stevnsfort Museum, return to Rødvig and enjoy the ride home in a warm train."
+            "en": "Start your winter tour at Store Heddinge station, where the warmth of the waiting room is welcome. Saint Katharina Church looks especially solemn in the winter light. By bus, you reach the frozen Stevns Klint cliffs, an impressive natural spectacle. After a visit to Stevnsfort Museum, return to Rødvig and enjoy the ride home in a warm train.",
+            "da": "Start din vintertur på Store Heddinge station, hvor varmen i ventesalen er velkommen. Sankt Katharina Kirke fremstår særligt højtidelig i vinterskæret. Med bussen når du de frosne Stevns Klint-klipper, et imponerende naturfænomen. Efter et besøg på Stevnsfort Museum vender du tilbage til Rødvig og nyder turen hjem i et varmt tog."
           },
           "stops": [
             {
@@ -1837,7 +2004,8 @@
                 "de": "Nutzen Sie die Wartehalle, um nicht in der Kälte zu stehen.",
                 "hu": "Használja a várótermet, hogy ne a hidegben várakozzon.",
                 "ro": "Folosiți sala de așteptare pentru a nu sta în frig.",
-                "en": "Use the waiting room to avoid standing in the cold."
+                "en": "Use the waiting room to avoid standing in the cold.",
+                "da": "Brug ventesalen for at undgå at stå i kulden."
               }
             },
             {
@@ -1846,7 +2014,8 @@
                 "de": "Achten Sie auf gestreute Wege um die Kirche herum.",
                 "hu": "Ügyeljen a felszórt utakra a templom körül.",
                 "ro": "Atenție la căile curățate din jurul bisericii.",
-                "en": "Watch out for gritted paths around the church."
+                "en": "Watch out for gritted paths around the church.",
+                "da": "Hold øje med saltede og grusede stier omkring kirken."
               }
             },
             {
@@ -1855,7 +2024,8 @@
                 "de": "Im Winter können die Busse aufgrund von Schnee leicht verspätet sein.",
                 "hu": "Télen a buszok a hó miatt némi késéssel közlekedhetnek.",
                 "ro": "Iarna, autobuzele pot avea întârzieri ușoare din cauza zăpezii.",
-                "en": "In winter, buses may have slight delays due to snow."
+                "en": "In winter, buses may have slight delays due to snow.",
+                "da": "Om vinteren kan busser være let forsinkede på grund af sne."
               }
             },
             {
@@ -1864,7 +2034,8 @@
                 "de": "Bewegen Sie sich viel, um warm zu bleiben.",
                 "hu": "Mozogjon sokat, hogy melegen tartsa magát.",
                 "ro": "Mișcați-vă mult pentru a vă menține căldura corporală.",
-                "en": "Keep moving to stay warm."
+                "en": "Keep moving to stay warm.",
+                "da": "Bliv ved med at bevæge dig for at holde varmen."
               }
             },
             {
@@ -1873,7 +2044,8 @@
                 "de": "Die Busfahrt bietet eine gute Gelegenheit zum Aufwärmen.",
                 "hu": "A buszos utazás jó alkalom a felmelegedésre.",
                 "ro": "Călătoria cu autobuzul oferă o ocazie bună de încălzire.",
-                "en": "The bus ride is a good opportunity to warm up."
+                "en": "The bus ride is a good opportunity to warm up.",
+                "da": "Busturen er en god mulighed for at varme sig op."
               }
             },
             {
@@ -1882,7 +2054,8 @@
                 "de": "Der Zug ist meist die zuverlässigste Verbindung bei Schnee.",
                 "hu": "A vonat általában a legmegbízhatóbb közlekedési eszköz hóban.",
                 "ro": "Trenul este de obicei cea mai sigură legătură în caz de zăpadă.",
-                "en": "The train is usually the most reliable connection in snowy weather."
+                "en": "The train is usually the most reliable connection in snowy weather.",
+                "da": "Toget er normalt den mest pålidelige forbindelse i snevejr."
               }
             }
           ],
@@ -1910,6 +2083,12 @@
               "Wear warm winter boots for the walks to the stops.",
               "Trains are well-heated, ideal for thawing out.",
               "Check the last departure time; it might be earlier in winter."
+            ],
+            "da": [
+              "Beregn ekstra tid til forbindelser, hvis det sner.",
+              "Brug varme vinterstøvler til gåturen til stoppestederne.",
+              "Togene er godt opvarmede, ideelle til at få varmen igen.",
+              "Tjek sidste afgangstid; den kan være tidligere om vinteren."
             ]
           }
         }

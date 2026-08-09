@@ -21,7 +21,8 @@
             "de": "Vægterpladsen",
             "hu": "Vægterpladsen (Az Éjjeliőrök tere)",
             "ro": "Vægterpladsen (Piața Gărzii de Noapte)",
-            "en": "Vægterpladsen (The Night Watchman's Square)"
+            "en": "Vægterpladsen (The Night Watchman's Square)",
+            "da": "Vægterpladsen (The Night Watchman's Square)"
           },
           "coords": [
             9.4175,
@@ -36,7 +37,8 @@
             "de": "Der perfekte Ausgangspunkt, um die Atmosphäre der Altstadt aufzusaugen.",
             "hu": "Tökéletes kiindulópont a régi város hangulatának magába szívásához.",
             "ro": "Punctul de plecare perfect pentru a absorbi atmosfera orașului vechi.",
-            "en": "The perfect starting point to soak up the old town atmosphere."
+            "en": "The perfect starting point to soak up the old town atmosphere.",
+            "da": "Det perfekte udgangspunkt for at indånde den gamle bys atmosfære."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Postmestergården",
             "hu": "Postmestergården (A Postamester Háza)",
             "ro": "Postmestergården (Curtea Poștașului)",
-            "en": "Postmestergården (The Postmaster's Courtyard)"
+            "en": "Postmestergården (The Postmaster's Courtyard)",
+            "da": "Postmestergården (The Postmaster's Courtyard)"
           },
           "coords": [
             9.4188,
@@ -59,7 +62,8 @@
             "de": "Achten Sie auf die kunstvollen Holzschnitzereien an der Fassade.",
             "hu": "Figyelje meg a homlokzaton található díszes fafaragásokat!",
             "ro": "Fiți atenți la sculpturile elaborate în lemn de pe fațadă.",
-            "en": "Pay attention to the elaborate wood carvings on the facade."
+            "en": "Pay attention to the elaborate wood carvings on the facade.",
+            "da": "Vær opmærksom på de udsmykkede træudskæringer på facaden."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Sct. Nicolai Kirke",
             "hu": "Szent Miklós templom",
             "ro": "Biserica Sf. Nicolae",
-            "en": "St. Nicolai Church"
+            "en": "St. Nicolai Church",
+            "da": "Sct. Nicolai Kirke"
           },
           "coords": [
             9.4165,
@@ -82,7 +87,8 @@
             "de": "Besuchen Sie das Innere, um das beeindruckende Votivschiff zu sehen.",
             "hu": "Nézzen be a belsejébe, hogy megnézze a lenyűgöző fogadalmi hajót.",
             "ro": "Intrați înăuntru pentru a vedea impresionanta navă votivă.",
-            "en": "Go inside to see the impressive votive ship."
+            "en": "Go inside to see the impressive votive ship.",
+            "da": "Gå ind for at se det imponerende stemmeskib."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Brundlund Slot",
             "hu": "Brundlund kastély",
             "ro": "Castelul Brundlund",
-            "en": "Brundlund Castle"
+            "en": "Brundlund Castle",
+            "da": "Brundlund Slot"
           },
           "coords": [
             9.412,
@@ -105,7 +112,8 @@
             "de": "Das Schloss beherbergt ein Kunstmuseum. Prüfen Sie die aktuellen Ausstellungen.",
             "hu": "A kastély egy művészeti múzeumnak ad otthont. Ellenőrizze az aktuális kiállításokat!",
             "ro": "Castelul găzduiește un muzeu de artă. Verificați expozițiile curente.",
-            "en": "The castle houses an art museum. Check the current exhibitions."
+            "en": "The castle houses an art museum. Check the current exhibitions.",
+            "da": "Slottet rummer et kunstmuseum. Tjek de aktuelle udstillinger."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Aabenraa Havn",
             "hu": "Aabenraa kikötő",
             "ro": "Portul Aabenraa",
-            "en": "Aabenraa Harbour"
+            "en": "Aabenraa Harbour",
+            "da": "Aabenraa Havn"
           },
           "coords": [
             9.432,
@@ -128,7 +137,8 @@
             "de": "Ideal für ein Mittagessen mit Blick auf die Segelboote.",
             "hu": "Ideális egy ebédhez, kilátással a vitorlásokra.",
             "ro": "Ideal pentru un prânz cu vedere la ambarcațiunile cu pânze.",
-            "en": "Ideal for a lunch with a view of the sailing boats."
+            "en": "Ideal for a lunch with a view of the sailing boats.",
+            "da": "Ideelt til en frokost med udsigt til sejlbådene."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Sønderstrand",
             "hu": "Sønderstrand (Déli part)",
             "ro": "Sønderstrand (Plaja de Sud)",
-            "en": "Sønderstrand (South Beach)"
+            "en": "Sønderstrand (South Beach)",
+            "da": "Sønderstrand"
           },
           "coords": [
             9.439,
@@ -151,7 +162,8 @@
             "de": "Ein schöner Ort für einen langen Spaziergang oder um im Sommer die Füße ins Wasser zu halten.",
             "hu": "Remek hely egy hosszú sétára, vagy nyáron a lábát a vízbe lógatni.",
             "ro": "Un loc minunat pentru o plimbare lungă sau pentru a vă băga picioarele în apă vara.",
-            "en": "A lovely spot for a long walk or to dip your feet in the water in summer."
+            "en": "A lovely spot for a long walk or to dip your feet in the water in summer.",
+            "da": "Et dejligt sted til en lang gåtur eller til at dyppe fødderne i vandet om sommeren."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie Ihren Tag im Herzen von Aabenraa am Vægterpladsen, bevor Sie die historischen Gassen erkunden. Der Vormittag ist der Kultur gewidmet, mit Besuchen der Sct. Nicolai Kirke und dem imposanten Brundlund Slot. Nach einem Mittagessen am belebten Hafen verbringen Sie den Nachmittag entspannt am Sønderstrand, genießen die Meeresbrise und den weiten Blick über die Förde. Zum Abschluss kehren Sie für ein traditionelles dänisches Abendessen ins Stadtzentrum zurück.",
         "hu": "Kezdje a napot Aabenraa szívében, a Vægterpladsen téren, mielőtt felfedezné a történelmi sikátorokat. A délelőtt a kultúráé, a Sct. Nicolai Kirke és a lenyűgöző Brundlund kastély meglátogatásával. Egy forgalmas kikötőben elköltött ebéd után töltse a délutánt pihenéssel a Sønderstrandon, élvezve a tengeri szellőt és a fjordra nyíló széles kilátást. Végül térjen vissza a városközpontba egy hagyományos dán vacsorára.",
         "ro": "Începeți ziua în inima orașului Aabenraa, la Vægterpladsen, înainte de a explora străduțele istorice. Dimineața este dedicată culturii, cu vizite la Biserica Sct. Nicolai și impunătorul Castel Brundlund. După un prânz în portul animat, petreceți după-amiaza relaxându-vă la Sønderstrand, bucurându-vă de briza mării și de priveliștea largă asupra fiordului. La final, reveniți în centrul orașului pentru o cină tradițională daneză.",
-        "en": "Start your day in the heart of Aabenraa at Vægterpladsen before exploring the historic alleys. The morning is dedicated to culture, with visits to Sct. Nicolai Kirke and the imposing Brundlund Castle. After lunch at the bustling harbour, spend the afternoon relaxing at Sønderstrand, enjoying the sea breeze and the wide view over the fjord. To finish, return to the city center for a traditional Danish dinner."
+        "en": "Start your day in the heart of Aabenraa at Vægterpladsen before exploring the historic alleys. The morning is dedicated to culture, with visits to Sct. Nicolai Kirke and the imposing Brundlund Castle. After lunch at the bustling harbour, spend the afternoon relaxing at Sønderstrand, enjoying the sea breeze and the wide view over the fjord. To finish, return to the city center for a traditional Danish dinner.",
+        "da": "Start din dag midt i Aabenraa ved Vægterpladsen, før du udforsker de historiske gyder. Morgenstunden er afsat til kultur med besøg i Sct. Nicolai Kirke og det imponerende Brundlund Slot. Efter frokost i den travle havn tilbring eftermiddagen med at slappe af på Sønderstrand, nyd havbrisen og den brede udsigt over fjorden. Afslut med at vende tilbage til byens centrum for en traditionel dansk middag."
       },
       "gastro_picks": {
         "de": [
@@ -355,6 +368,12 @@
           "Most attractions in the city center are within easy walking distance.",
           "A walk along the harbour to the beach is a must-do.",
           "Many cafes offer cozy outdoor seating, perfect for a break."
+        ],
+        "da": [
+          "Brug behagelige sko, da brostenene i den gamle by kan være ujævne.",
+          "De fleste seværdigheder i byens centrum er inden for nem gåafstand.",
+          "En gåtur langs havnen til stranden er et must.",
+          "Mange caféer tilbyder hyggelig udendørsservering, perfekt til en pause."
         ]
       },
       "variants": {
@@ -363,7 +382,8 @@
             "de": "Aabenraa zeigt sich bei Regen von seiner atmosphärischen Seite. Der Morgen beginnt am Vægterpladsen, wo die nassen Pflastersteine den historischen Charme verstärken. Mittags bieten die St. Nicolai Kirche und der Postmestergården perfekten Schutz vor den Schauern. Der Nachmittag gehört der Kunst im Schloss Brundlund, bevor der Tag mit einer windigen Brise am Hafen ausklingt.",
             "hu": "Aabenraa esőben is bájos, a vizes macskakövek különleges csillogást adnak az óvárosnak. Reggel a Vægterpladsen környékén sétálunk, majd délben a Szent Miklós-templom nyújt menedéket a záporok elől. Délután a Brundlund-kastély művészeti gyűjteményét fedezzük fel fedett helyen, végül a kikötő morajló vizét nézzük meg az esernyők alól.",
             "ro": "Aabenraa oferă o atmosferă melancolică sub ploaie. Dimineața începe în Vægterpladsen, unde culorile caselor vechi devin mai intense. La prânz, biserica Sf. Nicolai oferă un refugiu liniștit. După-amiaza este dedicată muzeului de artă din Castelul Brundlund, ferit de umezeală, iar seara se încheie cu o plimbare revigorantă pe malul fiordului.",
-            "en": "Aabenraa reveals an atmospheric side in the rain. The morning starts at Vægterpladsen, where wet cobblestones enhance the historic charm. At noon, St. Nicolai Church and Postmestergården provide perfect shelter. The afternoon is dedicated to art inside Brundlund Castle, while the day ends with a moody, wind-swept walk along the harbour."
+            "en": "Aabenraa reveals an atmospheric side in the rain. The morning starts at Vægterpladsen, where wet cobblestones enhance the historic charm. At noon, St. Nicolai Church and Postmestergården provide perfect shelter. The afternoon is dedicated to art inside Brundlund Castle, while the day ends with a moody, wind-swept walk along the harbour.",
+            "da": "Aabenraa viser en stemningsfuld side i regnvejr. Morgenen starter på Vægterpladsen, hvor våde brosten forstærker den historiske charme. Ved middagstid giver Sct. Nicolai Kirke og Postmestergården perfekt læ. Eftermiddagen er helliget kunst inde i Brundlund Slot, mens dagen afsluttes med en mørk og vindblæst gåtur langs havnen."
           },
           "stops": [
             {
@@ -372,7 +392,8 @@
                 "de": "Die bunten Fassaden spiegeln sich wunderschön in den Pfützen.",
                 "hu": "A színes homlokzatok gyönyörűen tükröződnek a tócsákban.",
                 "ro": "Fațadele colorate se reflectă superb în bălțile de pe trotuar.",
-                "en": "The colorful facades reflect beautifully in the puddles."
+                "en": "The colorful facades reflect beautifully in the puddles.",
+                "da": "De farverige facader spejler sig smukt i vandpytterne."
               }
             },
             {
@@ -381,7 +402,8 @@
                 "de": "Ein geschützter Ort, um den Regen kurz abzuwarten.",
                 "hu": "Védett udvar, ideális egy rövid kényszerpihenőre az esőben.",
                 "ro": "O curte protejată, ideală pentru a aștepta trecerea ploii.",
-                "en": "A sheltered spot to wait out a passing shower."
+                "en": "A sheltered spot to wait out a passing shower.",
+                "da": "Et læfyldt sted til at vente på en kort byge."
               }
             },
             {
@@ -390,7 +412,8 @@
                 "de": "Trockener und warmer Rückzugsort mit beeindruckender Akustik.",
                 "hu": "Száraz és meleg menedék, lenyűgöző akusztikával.",
                 "ro": "Un refugiu cald și uscat, cu o acustică impresionantă.",
-                "en": "A dry and warm retreat with impressive acoustics."
+                "en": "A dry and warm retreat with impressive acoustics.",
+                "da": "Et tørt og varmt fristed med imponerende akustik."
               }
             },
             {
@@ -399,7 +422,8 @@
                 "de": "Nutzen Sie die Zeit für das Kunstmuseum im Inneren des Schlosses.",
                 "hu": "Használja ki az időt a kastély belső művészeti múzeumára.",
                 "ro": "Vizitați muzeul de artă din interiorul castelului pentru a sta la uscat.",
-                "en": "Spend time in the art museum inside the castle to stay dry."
+                "en": "Spend time in the art museum inside the castle to stay dry.",
+                "da": "Tilbring tid i kunstmuseet inde i slottet for at holde dig tør."
               }
             },
             {
@@ -408,7 +432,8 @@
                 "de": "Vorsicht vor Windböen vom Fjord; festes Schuhwerk empfohlen.",
                 "hu": "Vigyázat a fjord felőli széllökésekkel; vízálló cipő javasolt.",
                 "ro": "Atenție la rafalele de vânt dinspre fiord; încălțăminte impermeabilă.",
-                "en": "Watch out for wind gusts from the fjord; waterproof shoes recommended."
+                "en": "Watch out for wind gusts from the fjord; waterproof shoes recommended.",
+                "da": "Pas på vindstød fra fjorden; vandtætte sko anbefales."
               }
             },
             {
@@ -417,7 +442,8 @@
                 "de": "Ein kurzer, stürmischer Blick auf das Meer lohnt sich trotzdem.",
                 "hu": "Egy rövid, viharos pillantás a tengerre így is megéri.",
                 "ro": "O privire rapidă spre mare merită chiar și pe vreme furtunoasă.",
-                "en": "A short, stormy look at the sea is still worth the effort."
+                "en": "A short, stormy look at the sea is still worth the effort.",
+                "da": "Et kort, stormfuldt blik på havet er stadig umagen værd."
               }
             }
           ],
@@ -445,6 +471,12 @@
               "The old town has many cozy cafes to dry off and warm up.",
               "Cobblestones can be slippery when wet, watch your step.",
               "Brundlund Castle provides a great indoor alternative during heavy rain."
+            ],
+            "da": [
+              "Medbring en robust paraply, da vindstød fra fjorden er almindelige.",
+              "Den gamle by har mange hyggelige caféer til at tørre og varme sig i.",
+              "Brosten kan være glatte, når de er våde — pas på fødderne.",
+              "Brundlund Slot er et godt indendørs alternativ ved kraftig regn."
             ]
           }
         },
@@ -453,7 +485,8 @@
             "de": "Aabenraa im Winter ist dänische 'Hygge' pur. Morgens liegt oft Reif auf dem Vægterpladsen. Mittags wärmt die St. Nicolai Kirche Körper und Seele. Da es ab 16 Uhr dunkel wird, bietet das beleuchtete Schloss Brundlund eine märchenhafte Kulisse. Der Tag endet mit einem erfrischenden Spaziergang am Hafen, bevor man sich in ein gemütliches Gasthaus zurückzieht.",
             "hu": "Aabenraa télen az igazi dán 'Hygge' élmény. Reggelente zúzmara fedi a Vægterpladsen házait. Délben a Szent Miklós-templom nyújt lelki és fizikai melegséget. Mivel 16 óra után sötétedik, a kivilágított Brundlund-kastély mesebeli látványt nyújt. A napot a kikötői friss levegő zárja, mielőtt egy meleg vendéglőbe térnénk.",
             "ro": "Aabenraa iarna este definiția conceptului danez 'Hygge'. Dimineața, promoroaca acoperă piața Vægterpladsen. La prânz, biserica Sf. Nicolai oferă un refugiu călduros. Deoarece se întunecă după ora 16, castelul Brundlund iluminat pare desprins din basme. Seara se încheie cu o plimbare la port, urmată de un popas într-un han local.",
-            "en": "Aabenraa in winter is pure Danish 'Hygge'. Mornings often see frost on Vægterpladsen. At noon, St. Nicolai Church warms both body and soul. Since it gets dark after 4 PM, the illuminated Brundlund Castle creates a fairytale backdrop. The day ends with a crisp walk at the harbour before retreating to a cozy local inn."
+            "en": "Aabenraa in winter is pure Danish 'Hygge'. Mornings often see frost on Vægterpladsen. At noon, St. Nicolai Church warms both body and soul. Since it gets dark after 4 PM, the illuminated Brundlund Castle creates a fairytale backdrop. The day ends with a crisp walk at the harbour before retreating to a cozy local inn.",
+            "da": "Aabenraa om vinteren er ren dansk hygge. Morgenerne viser ofte rim på Vægterpladsen. Ved middagstid varmer Sct. Nicolai Kirke både krop og sjæl. Da det bliver mørkt efter kl. 16, skaber det oplyste Brundlund Slot en eventyrlig kulisse. Dagen afsluttes med en frisk gåtur ved havnen, før man trækker sig tilbage til en hyggelig lokal kro."
           },
           "stops": [
             {
@@ -462,7 +495,8 @@
                 "de": "Vorsicht bei Glätte auf dem historischen Pflaster.",
                 "hu": "Vigyázat, a történelmi macskakő jeges és csúszós lehet.",
                 "ro": "Atenție la gheața de pe pavajul istoric.",
-                "en": "Watch out for ice on the historic cobblestones."
+                "en": "Watch out for ice on the historic cobblestones.",
+                "da": "Pas på is på de historiske brosten."
               }
             },
             {
@@ -471,7 +505,8 @@
                 "de": "Schauen Sie sich die winterliche Dekoration in den Fenstern an.",
                 "hu": "Csodálja meg az ablakok jellegzetes téli díszítését.",
                 "ro": "Admirați decorațiunile de iarnă din ferestrele caselor.",
-                "en": "Admire the traditional winter decorations in the windows."
+                "en": "Admire the traditional winter decorations in the windows.",
+                "da": "Beundr de traditionelle vinterdekorationer i vinduerne."
               }
             },
             {
@@ -480,7 +515,8 @@
                 "de": "Ein Ort der Stille und Wärme in der kalten Jahreszeit.",
                 "hu": "A csend és a meleg szigete a hideg évszakban.",
                 "ro": "Un loc de liniște și căldură în sezonul rece.",
-                "en": "A place of silence and warmth during the cold season."
+                "en": "A place of silence and warmth during the cold season.",
+                "da": "Et sted med stilhed og varme i løbet af den kolde sæson."
               }
             },
             {
@@ -489,7 +525,8 @@
                 "de": "Der Schlossgarten ist bei Schnee besonders fotogen.",
                 "hu": "A kastélykert hóban különösen szép fotótéma.",
                 "ro": "Grădina castelului este extrem de fotogenică sub zăpadă.",
-                "en": "The castle garden is especially photogenic under snow."
+                "en": "The castle garden is especially photogenic under snow.",
+                "da": "Slotsparken er særligt fotogen under sneen."
               }
             },
             {
@@ -498,7 +535,8 @@
                 "de": "Warme Kleidung ist wegen des eisigen Winds unerlässlich.",
                 "hu": "Meleg ruházat kötelező a jeges fjord menti szél miatt.",
                 "ro": "Îmbrăcămintea groasă este esențială din cauza vântului înghețat.",
-                "en": "Warm clothing is essential due to the icy wind from the fjord."
+                "en": "Warm clothing is essential due to the icy wind from the fjord.",
+                "da": "Varme klær er nødvendige på grund af den isende vind fra fjorden."
               }
             },
             {
@@ -507,7 +545,8 @@
                 "de": "Genießen Sie das klare Winterlicht über dem Wasser.",
                 "hu": "Élvezze a tiszta téli fényeket a víz felett.",
                 "ro": "Bucurați-vă de lumina clară de iarnă deasupra apei.",
-                "en": "Enjoy the crisp winter light over the water."
+                "en": "Enjoy the crisp winter light over the water.",
+                "da": "Nyd det klare vinterlys over vandet."
               }
             }
           ],
@@ -535,6 +574,12 @@
               "Warm gloves and hats are a must when visiting the harbour area.",
               "Try traditional Danish winter treats in the local bakeries.",
               "Museums are well-heated and offer a cozy escape from the freezing air."
+            ],
+            "da": [
+              "Solnedgang er omkring kl. 16, så planlæg udendørsaktiviteter tidligere på dagen.",
+              "Varme handsker og huer er et must ved et besøg i havneområdet.",
+              "Prøv traditionelle danske vintergodter i de lokale bagerier.",
+              "Museerne er godt opvarmede og byder på en hyggelig flugt fra den isnende luft."
             ]
           }
         }
@@ -553,7 +598,8 @@
             "de": "Vægterpladsen",
             "hu": "Vægterpladsen",
             "ro": "Vægterpladsen",
-            "en": "Vægterpladsen"
+            "en": "Vægterpladsen",
+            "da": "Vægterpladsen"
           },
           "coords": [
             9.4175,
@@ -568,7 +614,8 @@
             "de": "Schließen Sie Ihr Fahrrad an und machen Sie einen kurzen Spaziergang durch die umliegenden Straßen.",
             "hu": "Zárja le a biciklit, és tegyen egy rövid sétát a környező utcákban.",
             "ro": "Încuiați-vă bicicleta și faceți o scurtă plimbare pe străzile din jur.",
-            "en": "Lock up your bike and take a short stroll through the surrounding streets."
+            "en": "Lock up your bike and take a short stroll through the surrounding streets.",
+            "da": "Lås din cykel og tag en kort spadseretur gennem de omkringliggende gader."
           }
         },
         {
@@ -576,7 +623,8 @@
             "de": "Sct. Nicolai Kirke",
             "hu": "Szent Miklós templom",
             "ro": "Biserica Sf. Nicolae",
-            "en": "St. Nicolai Church"
+            "en": "St. Nicolai Church",
+            "da": "Sankt Nikolai Kirke"
           },
           "coords": [
             9.4165,
@@ -591,7 +639,8 @@
             "de": "Genießen Sie die Ruhe im Inneren, eine willkommene Abwechslung vom Radfahren.",
             "hu": "Élvezze a benti csendet, ami kellemes kikapcsolódás a biciklizés után.",
             "ro": "Bucurați-vă de liniștea din interior, o pauză binevenită de la ciclism.",
-            "en": "Enjoy the tranquility inside, a welcome break from cycling."
+            "en": "Enjoy the tranquility inside, a welcome break from cycling.",
+            "da": "Nyd roen indenfor, en kærkommen pause fra cykling."
           }
         },
         {
@@ -599,7 +648,8 @@
             "de": "Brundlund Slot",
             "hu": "Brundlund kastély",
             "ro": "Castelul Brundlund",
-            "en": "Brundlund Castle"
+            "en": "Brundlund Castle",
+            "da": "Brundlund Slot"
           },
           "coords": [
             9.412,
@@ -614,7 +664,8 @@
             "de": "Der Schlosspark ist ideal für eine kleine Pause, bevor Sie das Museum besuchen.",
             "hu": "A kastélypark ideális egy rövid pihenőre a múzeum látogatása előtt.",
             "ro": "Parcul castelului este ideal pentru o scurtă pauză înainte de a vizita muzeul.",
-            "en": "The castle park is ideal for a short break before visiting the museum."
+            "en": "The castle park is ideal for a short break before visiting the museum.",
+            "da": "Slotsparken er ideel til en kort pause inden museumsbesøget."
           }
         },
         {
@@ -622,7 +673,8 @@
             "de": "Aabenraa Havn",
             "hu": "Aabenraa kikötő",
             "ro": "Portul Aabenraa",
-            "en": "Aabenraa Harbour"
+            "en": "Aabenraa Harbour",
+            "da": "Aabenraa Havn"
           },
           "coords": [
             9.432,
@@ -637,7 +689,8 @@
             "de": "Fahren Sie die Promenade entlang und beobachten Sie die Boote.",
             "hu": "Tekerjen végig a sétányon, és nézze a hajókat.",
             "ro": "Plimbați-vă cu bicicleta de-a lungul promenadei și priviți bărcile.",
-            "en": "Cycle along the promenade and watch the boats."
+            "en": "Cycle along the promenade and watch the boats.",
+            "da": "Cykel langs promenaden og se på bådene."
           }
         },
         {
@@ -645,7 +698,8 @@
             "de": "Sønderstrand",
             "hu": "Sønderstrand",
             "ro": "Sønderstrand",
-            "en": "Sønderstrand"
+            "en": "Sønderstrand",
+            "da": "Sønderstrand"
           },
           "coords": [
             9.439,
@@ -660,7 +714,8 @@
             "de": "Perfekt für eine Mittagspause. Viele Radwege führen entlang der Küste.",
             "hu": "Tökéletes egy ebédszünetre. Sok kerékpárút vezet a part mentén.",
             "ro": "Perfect pentru o pauză de prânz. Multe piste de biciclete duc de-a lungul coastei.",
-            "en": "Perfect for a lunch break. Many cycle paths lead along the coast."
+            "en": "Perfect for a lunch break. Many cycle paths lead along the coast.",
+            "da": "Perfekt til en frokostpause. Mange cykelstier fører langs kysten."
           }
         },
         {
@@ -668,7 +723,8 @@
             "de": "Hjelm Skov",
             "hu": "Hjelm Skov erdő",
             "ro": "Pădurea Hjelm Skov",
-            "en": "Hjelm Skov Forest"
+            "en": "Hjelm Skov Forest",
+            "da": "Hjelm Skov"
           },
           "coords": [
             9.38,
@@ -683,7 +739,8 @@
             "de": "Eine erfrischende Fahrt durch den Wald. Achten Sie auf die markierten Radwege.",
             "hu": "Egy frissítő tekerés az erdőn keresztül. Figyeljen a kijelölt kerékpárutakra!",
             "ro": "O plimbare revigorantă prin pădure. Fiți atenți la pistele de biciclete marcate.",
-            "en": "A refreshing ride through the forest. Look out for the marked cycle paths."
+            "en": "A refreshing ride through the forest. Look out for the marked cycle paths.",
+            "da": "En forfriskende tur gennem skoven. Hold øje med de afmærkede cykelstier."
           }
         },
         {
@@ -691,7 +748,8 @@
             "de": "Oldemorstoft (Museum)",
             "hu": "Oldemorstoft (Múzeum)",
             "ro": "Oldemorstoft (Muzeu)",
-            "en": "Oldemorstoft (Museum)"
+            "en": "Oldemorstoft (Museum)",
+            "da": "Oldemorstoft (Museum)"
           },
           "coords": [
             9.405,
@@ -706,7 +764,8 @@
             "de": "Erfahren Sie mehr über die lokale Geschichte, bevor Sie den Tag ausklingen lassen.",
             "hu": "Tudjon meg többet a helyi történelemről, mielőtt lezárná a napot.",
             "ro": "Aflați mai multe despre istoria locală înainte de a încheia ziua.",
-            "en": "Learn about the local history before you wind down your day."
+            "en": "Learn about the local history before you wind down your day.",
+            "da": "Lær om lokalhistorien, inden du slutter dagen af."
           }
         }
       ],
@@ -714,7 +773,8 @@
         "de": "Schwingen Sie sich auf Ihr Rad und starten Sie am Vægterpladsen. Am Vormittag radeln Sie durch das historische Zentrum zum Brundlund Slot. Mittags genießen Sie die maritime Atmosphäre am Hafen und am Strand von Sønderstrand. Der Nachmittag führt Sie auf eine längere Tour durch den grünen Hjelm Skov, eine willkommene Abkühlung. Beenden Sie Ihre Radtour mit einem kulturellen Einblick im Oldemorstoft Museum.",
         "hu": "Pattanjon biciklire és induljon a Vægterpladsen-ről. Délelőtt tekerjen át a történelmi központon a Brundlund kastélyhoz. Délben élvezze a tengeri hangulatot a kikötőben és a Sønderstrand strandon. A délután egy hosszabb túrára visz a zöld Hjelm Skov erdőn keresztül, ami kellemes felüdülést nyújt. Zárja a kerékpártúrát egy kulturális betekintéssel az Oldemorstoft Múzeumban.",
         "ro": "Urcați-vă pe bicicletă și porniți de la Vægterpladsen. Dimineața pedalați prin centrul istoric până la Castelul Brundlund. La prânz, bucurați-vă de atmosfera maritimă din port și de pe plaja Sønderstrand. După-amiaza vă poartă într-un tur mai lung prin pădurea verde Hjelm Skov, o răcorire binevenită. Încheiați turul cu bicicleta cu o incursiune culturală la Muzeul Oldemorstoft.",
-        "en": "Hop on your bike and start at Vægterpladsen. In the morning, cycle through the historic center to Brundlund Castle. At noon, enjoy the maritime atmosphere at the harbour and Sønderstrand beach. The afternoon takes you on a longer tour through the green Hjelm Skov forest, a welcome cool-down. End your bike tour with a cultural insight at the Oldemorstoft Museum."
+        "en": "Hop on your bike and start at Vægterpladsen. In the morning, cycle through the historic center to Brundlund Castle. At noon, enjoy the maritime atmosphere at the harbour and Sønderstrand beach. The afternoon takes you on a longer tour through the green Hjelm Skov forest, a welcome cool-down. End your bike tour with a cultural insight at the Oldemorstoft Museum.",
+        "da": "Hop på din cykel og start ved Vægterpladsen. Om morgenen cykles gennem den historiske bykerne til Brundlund Slot. Ved middagstid nydes den maritime stemning ved havnen og Sønderstrand. Om eftermiddagen går turen på en længere runde gennem den grønne Hjelm Skov, en velkommen afkøling. Afslut cykelturen med et kulturelt indblik på Oldemorstoft Museum."
       },
       "gastro_picks": {
         "de": [
@@ -910,6 +970,12 @@
           "Denmark is very bike-friendly, but always be aware of traffic.",
           "Bring a water bottle and snacks for the longer afternoon tour.",
           "A helmet is highly recommended."
+        ],
+        "da": [
+          "Tjek din cykels tilstand inden afgang.",
+          "Danmark er meget cykelvenligt, men vær altid opmærksom på trafikken.",
+          "Medbring en vandflaske og snacks til den længere eftermiddagstur.",
+          "En hjelm anbefales kraftigt."
         ]
       },
       "variants": {
@@ -918,7 +984,8 @@
             "de": "Trotz Regen bleibt Aabenraa fahrradfreundlich. Morgens geht es durch die Altstadt zur Kirche. Mittags bietet das Schloss Brundlund eine lange Pause im Trockenen. Nachmittags führt die Tour zum Hafen und durch den Hjelm Skov, wo die Bäume natürlichen Schutz bieten. Der Tag endet beim Oldemorstoft Museum, wo dänische Geschichte auf Sie wartet.",
             "hu": "Az eső ellenére Aabenraa kiválóan felfedezhető kerékpárral. Reggel az óvároson át a templomhoz tekerünk. Délben a Brundlund-kastély kínál hosszú pihenőt szárazon. Délután a kikötő és a Hjelm-erdő következik, ahol a fák természetes védelmet adnak. A napot az Oldemorstoft Múzeumnál zárjuk, ahol megelevenedik a történelem.",
             "ro": "În ciuda ploii, Aabenraa rămâne accesibilă pe bicicletă. Dimineața pedalăm prin orașul vechi spre biserică. La prânz, Castelul Brundlund oferă o pauză lungă la adăpost. După-amiaza turul continuă spre port și prin pădurea Hjelm, unde copacii oferă protecție naturală. Ziua se încheie la Muzeul Oldemorstoft.",
-            "en": "Despite the rain, Aabenraa remains bike-friendly. The morning takes you through the old town to the church. At noon, Brundlund Castle offers a long dry break. In the afternoon, the tour heads to the harbour and through Hjelm Skov forest, where trees provide natural cover. The day ends at Oldemorstoft Museum, where history awaits."
+            "en": "Despite the rain, Aabenraa remains bike-friendly. The morning takes you through the old town to the church. At noon, Brundlund Castle offers a long dry break. In the afternoon, the tour heads to the harbour and through Hjelm Skov forest, where trees provide natural cover. The day ends at Oldemorstoft Museum, where history awaits.",
+            "da": "Trods regn forbliver Aabenraa cykelvenlig. Om morgenen går turen gennem den gamle by til kirken. Ved middagstid giver Brundlund Slot en lang tør pause. Om eftermiddagen går turen til havnen og gennem Hjelm Skov, hvor træerne giver naturligt tagdækning. Dagen afsluttes på Oldemorstoft Museum, hvor historien venter."
           },
           "stops": [
             {
@@ -927,7 +994,8 @@
                 "de": "Gefahr durch rutschiges Kopfsteinpflaster beim Bremsen.",
                 "hu": "Vigyázat, fékezéskor a vizes macskakő nagyon csúszik.",
                 "ro": "Pericol de derapare pe pavajul ud la frânare.",
-                "en": "Danger of slipping on wet cobblestones when braking."
+                "en": "Danger of slipping on wet cobblestones when braking.",
+                "da": "Fare for at glide på våde brosten ved opbremsning."
               }
             },
             {
@@ -936,7 +1004,8 @@
                 "de": "Fahrradständer befinden sich direkt am Kircheneingang.",
                 "hu": "Kerékpártárolók közvetlenül a templom bejáratánál.",
                 "ro": "Suporturile pentru biciclete sunt chiar la intrarea în biserică.",
-                "en": "Bike racks are located right by the church entrance."
+                "en": "Bike racks are located right by the church entrance.",
+                "da": "Cykelstativer ligger lige ved kirkens indgang."
               }
             },
             {
@@ -945,7 +1014,8 @@
                 "de": "Nutzen Sie den langen Aufenthalt für das Kunstmuseum.",
                 "hu": "Használja ki a hosszú megállót a művészeti múzeum megtekintésére.",
                 "ro": "Folosiți oprirea lungă pentru a vizita muzeul de artă.",
-                "en": "Take advantage of the long stop to visit the art museum."
+                "en": "Take advantage of the long stop to visit the art museum.",
+                "da": "Udnyt det lange stop til at besøge kunstmuseet."
               }
             },
             {
@@ -954,7 +1024,8 @@
                 "de": "Starker Seitenwind auf den Radwegen am Wasser möglich.",
                 "hu": "Erős oldalszélre kell számítani a vízparti kerékpárutakon.",
                 "ro": "Posibil vânt lateral puternic pe pistele de lângă apă.",
-                "en": "Strong side winds possible on the cycling paths by the water."
+                "en": "Strong side winds possible on the cycling paths by the water.",
+                "da": "Stærk sidevind mulig på cykelstierne ved vandet."
               }
             },
             {
@@ -963,7 +1034,8 @@
                 "de": "Die Wege können teilweise aufgeweicht sein.",
                 "hu": "Az utak helyenként felázottak és sárosak lehetnek.",
                 "ro": "Drumurile pot fi parțial noroioase.",
-                "en": "Paths might be partially muddy and soft."
+                "en": "Paths might be partially muddy and soft.",
+                "da": "Stierne kan være delvist mudrede og bløde."
               }
             },
             {
@@ -972,7 +1044,8 @@
                 "de": "Die Bäume fangen den meisten Regen ab.",
                 "hu": "A fák lombkoronája felfogja az eső nagy részét.",
                 "ro": "Copacii opresc cea mai mare parte a ploii.",
-                "en": "The tree canopy intercepts most of the rain."
+                "en": "The tree canopy intercepts most of the rain.",
+                "da": "Trætæppet opsamler det meste af regnen."
               }
             },
             {
@@ -981,7 +1054,8 @@
                 "de": "Ein schöner Abschluss im Trockenen mit viel Geschichte.",
                 "hu": "Száraz és tartalmas befejezés dán történelmi környezetben.",
                 "ro": "Un final plăcut la adăpost, cu multă istorie.",
-                "en": "A nice indoor conclusion with plenty of history."
+                "en": "A nice indoor conclusion with plenty of history.",
+                "da": "En fin indendørs afslutning med masser af historie."
               }
             }
           ],
@@ -1009,6 +1083,12 @@
               "Avoid sharp braking on wet metal tracks or cobblestones.",
               "Clean your bike chain after the ride to remove sand and mud.",
               "The forest paths in Hjelm Skov are paved but can get muddy in the rain."
+            ],
+            "da": [
+              "Fuld vandtæt påklædning er essentiel for cyklister i Danmark.",
+              "Undgå kraftig opbremsning på våde skinner eller brosten.",
+              "Rens din cykelkæde efter turen for at fjerne sand og mudder.",
+              "Skovstierne i Hjelm Skov er belagte men kan blive mudrede i regnvejr."
             ]
           }
         },
@@ -1017,7 +1097,8 @@
             "de": "Eine Wintertour mit dem Rad erfordert Vorbereitung, bietet aber klare Luft und Ruhe. Morgens führt der Weg durch die verschneite Altstadt. Mittags wärmen wir uns im Schloss Brundlund auf. Die Fahrt zum Hafen ist erfrischend kalt, gefolgt vom winterlichen Hjelm Skov. Der Tag endet im historischen Oldemorstoft, wo die Zeit stillzustehen scheint.",
             "hu": "A téli kerékpáros túra felkészülést igényel, de friss levegőt és nyugalmat ad. Reggel a havas óvároson át tekerünk. Délben a Brundlund-kastélyban melegszünk fel. A kikötői szakasz frissítően hideg, majd a téli Hjelm-erdő következik. A napot a történelmi Oldemorstoftnál zárjuk, ahol megállt az idő.",
             "ro": "Un tur de iarnă pe bicicletă necesită pregătire, dar oferă aer curat și liniște. Dimineața drumul trece prin centrul vechi înzăpezit. La prânz ne încălzim în Castelul Brundlund. Drumul spre port este revigorant de rece, urmat de pădurea Hjelm. Ziua se încheie la istoricul Oldemorstoft.",
-            "en": "A winter bike tour requires preparation but offers crisp air and tranquility. The morning route goes through the snowy old town. At noon, we warm up in Brundlund Castle. The ride to the harbour is refreshingly cold, followed by the wintry Hjelm Skov. The day ends at the historical Oldemorstoft, where time seems to stand still."
+            "en": "A winter bike tour requires preparation but offers crisp air and tranquility. The morning route goes through the snowy old town. At noon, we warm up in Brundlund Castle. The ride to the harbour is refreshingly cold, followed by the wintry Hjelm Skov. The day ends at the historical Oldemorstoft, where time seems to stand still.",
+            "da": "En vintercykeltur kræver forberedelse, men byder på krystalklar luft og ro. Morgenruten går gennem den snedækkede gamle by. Ved middagstid varmer vi os på Brundlund Slot. Turen til havnen er forfriskende kold, efterfulgt af den vintrige Hjelm Skov. Dagen afsluttes på historiske Oldemorstoft, hvor tiden synes at stå stille."
           },
           "stops": [
             {
@@ -1026,7 +1107,8 @@
                 "de": "Achten Sie auf überfrierende Nässe in den Schattenseiten.",
                 "hu": "Ügyeljen a lefagyásokra az árnyékos utcákban.",
                 "ro": "Atenție la porțiunile înghețate din zonele umbrite.",
-                "en": "Watch out for black ice in shaded areas."
+                "en": "Watch out for black ice in shaded areas.",
+                "da": "Pas på sort is i skyggefulde områder."
               }
             },
             {
@@ -1035,7 +1117,8 @@
                 "de": "Kurzer Stopp zum Aufwärmen im Vorraum möglich.",
                 "hu": "Rövid pihenő a meleg előtérben lehetséges.",
                 "ro": "Scurt popas pentru încălzire posibil în vestibul.",
-                "en": "Short stop for warming up possible in the vestibule."
+                "en": "Short stop for warming up possible in the vestibule.",
+                "da": "Kort stop for opvarmning muligt i forhallen."
               }
             },
             {
@@ -1044,7 +1127,8 @@
                 "de": "Stellen Sie Ihr Rad sicher ab; Wege können glatt sein.",
                 "hu": "Parkoljon biztonságosan; az utak síkosak lehetnek.",
                 "ro": "Parcați bicicleta în siguranță; aleile pot fi alunecoase.",
-                "en": "Park your bike safely; the paths can be slippery."
+                "en": "Park your bike safely; the paths can be slippery.",
+                "da": "Parkér din cykel sikkert; stierne kan være glatte."
               }
             },
             {
@@ -1053,7 +1137,8 @@
                 "de": "Der Wind Chill Faktor ist hier besonders hoch.",
                 "hu": "A szél miatt a hőérzet itt sokkal alacsonyabb.",
                 "ro": "Senzația de frig este accentuată aici de vânt.",
-                "en": "The wind chill factor is especially high here."
+                "en": "The wind chill factor is especially high here.",
+                "da": "Kuldefaktoren fra vind er særligt høj her."
               }
             },
             {
@@ -1062,7 +1147,8 @@
                 "de": "Wunderschöne Aussicht auf den winterlichen Fjord.",
                 "hu": "Gyönyörű kilátás a téli fjordra.",
                 "ro": "Vedere superbă asupra fiordului înghețat.",
-                "en": "Beautiful views over the wintry fjord."
+                "en": "Beautiful views over the wintry fjord.",
+                "da": "Smukke udsigter over den vinterklædte fjord."
               }
             },
             {
@@ -1071,7 +1157,8 @@
                 "de": "Magische Winterlandschaft; Vorsicht vor Astbruch bei Schnee.",
                 "hu": "Varázslatos téli táj; hó esetén vigyázat a faágakkal.",
                 "ro": "Peisaj magic de iarnă; atenție la crengile încărcate cu zăpadă.",
-                "en": "Magical winter landscape; watch out for falling branches if snowy."
+                "en": "Magical winter landscape; watch out for falling branches if snowy.",
+                "da": "Magisk vinterlandskab; pas på faldende grene ved snefald."
               }
             },
             {
@@ -1080,7 +1167,8 @@
                 "de": "Besuchen Sie das Café für ein warmes Getränk.",
                 "hu": "Látogassa meg a kávézót egy meleg italra.",
                 "ro": "Vizitați cafeneaua pentru o băutură caldă.",
-                "en": "Visit the cafe for a well-deserved warm drink."
+                "en": "Visit the cafe for a well-deserved warm drink.",
+                "da": "Besøg caféen for en velfortjent varm drik."
               }
             }
           ],
@@ -1108,6 +1196,12 @@
               "Battery-powered lights drain much faster in the cold.",
               "Dress in multiple layers (onion principle).",
               "Darkness falls by 4 PM; working lights are mandatory."
+            ],
+            "da": [
+              "Tjek dæktrykket; lidt lavere tryk giver bedre greb i sneen.",
+              "Batteridrevne lygter aflades meget hurtigere i kulden.",
+              "Kle dig i flere lag (løgprincip).",
+              "Mørket sænker sig ved kl. 16; funktionelle lys er påkrævet."
             ]
           }
         }
@@ -1126,7 +1220,8 @@
             "de": "Cluster Altstadt: Parken & Vægterpladsen",
             "hu": "Óváros Klaszter: Parkolás és Vægterpladsen",
             "ro": "Cluster Centrul Vechi: Parcare și Vægterpladsen",
-            "en": "Old Town Cluster: Parking & Vægterpladsen"
+            "en": "Old Town Cluster: Parking & Vægterpladsen",
+            "da": "Gamle By Klynge: Parkering & Vægterpladsen"
           },
           "coords": [
             9.418,
@@ -1142,7 +1237,8 @@
             "de": "Parken Sie in der Nähe des Zentrums. Der erste Spaziergang beginnt hier.",
             "hu": "Parkoljon a központ közelében. Az első séta itt kezdődik.",
             "ro": "Parcați lângă centru. Prima plimbare începe aici.",
-            "en": "Park near the center. The first walk starts here."
+            "en": "Park near the center. The first walk starts here.",
+            "da": "Parkér nær centrum. Den første gåtur starter her."
           }
         },
         {
@@ -1150,7 +1246,8 @@
             "de": "Sct. Nicolai Kirke",
             "hu": "Szent Miklós templom",
             "ro": "Biserica Sf. Nicolae",
-            "en": "St. Nicolai Church"
+            "en": "St. Nicolai Church",
+            "da": "Sankt Nikolai Kirke"
           },
           "coords": [
             9.4165,
@@ -1166,7 +1263,8 @@
             "de": "Nur ein kurzer Spaziergang vom Hauptplatz entfernt.",
             "hu": "Csak egy rövid séta a főtértől.",
             "ro": "La doar o scurtă plimbare de piața principală.",
-            "en": "Just a short walk from the main square."
+            "en": "Just a short walk from the main square.",
+            "da": "Kun en kort gåtur fra hovedpladsen."
           }
         },
         {
@@ -1174,7 +1272,8 @@
             "de": "Postmestergården",
             "hu": "Postmestergården",
             "ro": "Postmestergården",
-            "en": "Postmestergården"
+            "en": "Postmestergården",
+            "da": "Postmestergården"
           },
           "coords": [
             9.4188,
@@ -1190,7 +1289,8 @@
             "de": "Auf dem Rückweg zum Auto einen Blick auf dieses historische Gebäude werfen.",
             "hu": "Vessen egy pillantást erre a történelmi épületre a kocsihoz menet.",
             "ro": "Aruncați o privire la această clădire istorică în drum spre mașină.",
-            "en": "Take a look at this historic building on your way back to the car."
+            "en": "Take a look at this historic building on your way back to the car.",
+            "da": "Tag et kig på denne historiske bygning på vej tilbage til bilen."
           }
         },
         {
@@ -1198,7 +1298,8 @@
             "de": "Cluster Schloss & Museum: Brundlund Slot",
             "hu": "Kastély és Múzeum Klaszter: Brundlund kastély",
             "ro": "Cluster Castel și Muzeu: Castelul Brundlund",
-            "en": "Castle & Museum Cluster: Brundlund Castle"
+            "en": "Castle & Museum Cluster: Brundlund Castle",
+            "da": "Slot & Museum Klynge: Brundlund Slot"
           },
           "coords": [
             9.412,
@@ -1214,7 +1315,8 @@
             "de": "Fahren Sie zum Schloss und parken Sie dort. Planen Sie Zeit für das Kunstmuseum ein.",
             "hu": "Vezessen a kastélyhoz és parkoljon le. Tervezzen időt a művészeti múzeumra is.",
             "ro": "Conduceți la castel și parcați acolo. Alocați timp pentru muzeul de artă.",
-            "en": "Drive to the castle and park there. Plan time for the art museum."
+            "en": "Drive to the castle and park there. Plan time for the art museum.",
+            "da": "Kør til slottet og parkér der. Planlæg tid til kunstmuseet."
           }
         },
         {
@@ -1222,7 +1324,8 @@
             "de": "Oldemorstoft (Museum)",
             "hu": "Oldemorstoft (Múzeum)",
             "ro": "Oldemorstoft (Muzeu)",
-            "en": "Oldemorstoft (Museum)"
+            "en": "Oldemorstoft (Museum)",
+            "da": "Oldemorstoft (Museum)"
           },
           "coords": [
             9.405,
@@ -1238,7 +1341,8 @@
             "de": "Eine kurze Fahrt zu diesem Museum, das die Agrargeschichte der Region beleuchtet.",
             "hu": "Egy rövid autóút ehhez a múzeumhoz, amely a régió agrártörténetét mutatja be.",
             "ro": "O scurtă călătorie cu mașina până la acest muzeu care prezintă istoria agrară a regiunii.",
-            "en": "A short drive to this museum showcasing the region's agricultural history."
+            "en": "A short drive to this museum showcasing the region's agricultural history.",
+            "da": "En kort køretur til dette museum, der viser regionens landbrugshistorie."
           }
         },
         {
@@ -1246,7 +1350,8 @@
             "de": "Cluster Küste & Wald: Aabenraa Havn",
             "hu": "Part és Erdő Klaszter: Aabenraa kikötő",
             "ro": "Cluster Coasta și Pădurea: Portul Aabenraa",
-            "en": "Coast & Forest Cluster: Aabenraa Harbour"
+            "en": "Coast & Forest Cluster: Aabenraa Harbour",
+            "da": "Kyst & Skov Klynge: Aabenraa Havn"
           },
           "coords": [
             9.432,
@@ -1262,7 +1367,8 @@
             "de": "Parken Sie am Hafen für einen Spaziergang entlang des Wassers.",
             "hu": "Parkoljon a kikötőnél egy vízparti sétához.",
             "ro": "Parcați în port pentru o plimbare de-a lungul apei.",
-            "en": "Park at the harbour for a walk along the water."
+            "en": "Park at the harbour for a walk along the water.",
+            "da": "Parkér ved havnen for en gåtur langs vandet."
           }
         },
         {
@@ -1270,7 +1376,8 @@
             "de": "Hjelm Skov",
             "hu": "Hjelm Skov erdő",
             "ro": "Pădurea Hjelm Skov",
-            "en": "Hjelm Skov Forest"
+            "en": "Hjelm Skov Forest",
+            "da": "Hjelm Skov"
           },
           "coords": [
             9.38,
@@ -1286,7 +1393,8 @@
             "de": "Beenden Sie den Tag mit einer Fahrt in den Wald für einen friedlichen Spaziergang.",
             "hu": "Zárja a napot egy autózással az erdőbe egy békés sétáért.",
             "ro": "Încheiați ziua cu o plimbare cu mașina în pădure pentru o promenadă liniștită.",
-            "en": "End the day with a drive to the forest for a peaceful walk."
+            "en": "End the day with a drive to the forest for a peaceful walk.",
+            "da": "Afslut dagen med en køretur til skoven for en fredelig gåtur."
           }
         }
       ],
@@ -1294,7 +1402,8 @@
         "de": "Mit dem Auto erkunden Sie Aabenraa in Clustern. Beginnen Sie mit einem Spaziergang durch die Altstadt. Dann fahren Sie zum Brundlund Slot für eine Dosis Kunst und Geschichte. Am Nachmittag fahren Sie weiter zum Oldemorstoft Museum, um mehr über die ländliche Vergangenheit zu erfahren. Schließlich bringt Sie Ihr Auto zum Hafen und in den ruhigen Hjelm Skov, um den Tag in der Natur ausklingen zu lassen.",
         "hu": "Autóval klaszterekben fedezheti fel Aabenraa-t. Kezdje egy sétával az óvárosban. Ezután vezessen a Brundlund kastélyhoz egy adag művészetért és történelemért. Délután folytassa útját az Oldemorstoft Múzeumba, hogy többet tudjon meg a vidéki múltról. Végül autója elviszi a kikötőbe és a csendes Hjelm Skov erdőbe, hogy a természetben fejezze be a napot.",
         "ro": "Cu mașina, explorați Aabenraa în clustere. Începeți cu o plimbare prin orașul vechi. Apoi, conduceți la Castelul Brundlund pentru o doză de artă și istorie. După-amiaza, continuați la Muzeul Oldemorstoft pentru a afla despre trecutul rural. În cele din urmă, mașina vă va duce în port și în liniștita Pădure Hjelm Skov pentru a încheia ziua în natură.",
-        "en": "By car, you'll explore Aabenraa in clusters. Start with a walk through the old town. Then, drive to Brundlund Castle for a dose of art and history. In the afternoon, continue to Oldemorstoft Museum to learn about the rural past. Finally, your car takes you to the harbour and the peaceful Hjelm Skov forest to end the day in nature."
+        "en": "By car, you'll explore Aabenraa in clusters. Start with a walk through the old town. Then, drive to Brundlund Castle for a dose of art and history. In the afternoon, continue to Oldemorstoft Museum to learn about the rural past. Finally, your car takes you to the harbour and the peaceful Hjelm Skov forest to end the day in nature.",
+        "da": "I bil udforsker du Aabenraa i klynger. Start med en gåtur gennem den gamle by. Kør derefter til Brundlund Slot for en dosis kunst og historie. Om eftermiddagen fortsættes til Oldemorstoft Museum for at lære om landlivet. Til sidst kører du til havnen og den fredfyldte Hjelm Skov for at slutte dagen i naturen."
       },
       "gastro_picks": {
         "de": [
@@ -1490,6 +1599,12 @@
           "A GPS is useful for navigating between the clusters.",
           "The cluster philosophy helps minimize parking issues and experience more.",
           "Plan for extra time for traffic, especially on weekends."
+        ],
+        "da": [
+          "Tjek parkeringsmuligheder og takster på forhånd.",
+          "En GPS er nyttig til navigation mellem klynger.",
+          "Klynge-princippet hjælper med at minimere parkeringsproblemer og få mere oplevet.",
+          "Planlæg ekstra tid til trafik, især i weekenden."
         ]
       },
       "variants": {
@@ -1498,7 +1613,8 @@
             "de": "Mit dem Auto ist Aabenraa bei Regen am bequemsten zu erkunden. Der Vormittag startet entspannt im Stadtzentrum. Danach geht es zum Oldemorstoft Museum, das weitläufige Indoor-Ausstellungen bietet. Der Nachmittag führt zum Hafen und zum Schloss Brundlund, wo Sie direkt parken können. Trotz Regen erreichen Sie alle Sehenswürdigkeiten trocken und flexibel.",
             "hu": "Autóval az eső sem akadály Aabenraa felfedezésében. A délelőttöt az óvárosban kezdjük, majd az Oldemorstoft Múzeumba látogatunk, ahol tágas fedett kiállítások várnak. Délután a kikötő és a Brundlund-kastély következik, ahol közvetlenül a bejáratnál parkolhatunk. Rugalmasan és szárazon érhetjük el az összes látnivalót.",
             "ro": "Cu mașina, explorarea orașului Aabenraa pe ploaie este extrem de confortabilă. Dimineața începe în centru, urmată de o vizită la Muzeul Oldemorstoft, care oferă expoziții interioare vaste. După-amiaza include portul și Castelul Brundlund, unde puteți parca direct. Veți ajunge la toate atracțiile rapid și fără a vă uda.",
-            "en": "By car, exploring Aabenraa in the rain is most comfortable. The morning starts in the town center, followed by a visit to Oldemorstoft Museum with its extensive indoor exhibits. The afternoon features the harbour and Brundlund Castle, where you can park directly. You'll reach all sights flexibly and stay dry throughout the day."
+            "en": "By car, exploring Aabenraa in the rain is most comfortable. The morning starts in the town center, followed by a visit to Oldemorstoft Museum with its extensive indoor exhibits. The afternoon features the harbour and Brundlund Castle, where you can park directly. You'll reach all sights flexibly and stay dry throughout the day.",
+            "da": "Med bil er det mest behageligt at udforske Aabenraa i regnvejr. Morgen starter i bymidten, efterfulgt af et besøg på Oldemorstoft Museum med omfattende indendørs udstillinger. Om eftermiddagen byder havnen og Brundlund Slot på heldækkende parkering. Du når alle seværdigheder fleksibelt og holder dig tør hele dagen."
           },
           "stops": [
             {
@@ -1507,7 +1623,8 @@
                 "de": "Parkhaus 'City' bietet trockenen Zugang zur Innenstadt.",
                 "hu": "A 'City' parkolóház száraz utat biztosít a belvároshoz.",
                 "ro": "Parcarea 'City' oferă acces uscat către centrul orașului.",
-                "en": "The 'City' parking garage offers dry access to the town center."
+                "en": "The 'City' parking garage offers dry access to the town center.",
+                "da": "'City' parkeringshus tilbyder tør adgang til bymidten."
               }
             },
             {
@@ -1516,7 +1633,8 @@
                 "de": "Parken Sie kurz am Rand für einen schnellen Besuch.",
                 "hu": "Rövid megállás lehetséges a templom közelében.",
                 "ro": "Parcare scurtă posibilă lângă biserică pentru o vizită rapidă.",
-                "en": "Short parking possible nearby for a quick visit."
+                "en": "Short parking possible nearby for a quick visit.",
+                "da": "Kort parkering mulig i nærheden til et hurtigt besøg."
               }
             },
             {
@@ -1525,7 +1643,8 @@
                 "de": "Wenige Gehminuten vom zentralen Parkplatz entfernt.",
                 "hu": "Csak pár perc séta a központi parkolótól.",
                 "ro": "La câteva minute de mers pe jos de parcarea centrală.",
-                "en": "A few minutes' walk from the central parking lot."
+                "en": "A few minutes' walk from the central parking lot.",
+                "da": "Nogle få minutters gang fra det centrale parkeringsområde."
               }
             },
             {
@@ -1534,7 +1653,8 @@
                 "de": "Großer Parkplatz direkt am Schloss vorhanden.",
                 "hu": "Tágas parkoló található közvetlenül a kastélynál.",
                 "ro": "Parcare mare disponibilă chiar lângă castel.",
-                "en": "Large parking lot available directly at the castle."
+                "en": "Large parking lot available directly at the castle.",
+                "da": "Stor parkeringsplads tilgængelig lige ved slottet."
               }
             },
             {
@@ -1543,7 +1663,8 @@
                 "de": "Perfekt für Regentage durch viele Gebäude und Hallen.",
                 "hu": "Esőben is kiváló a sok épület és kiállítóterem miatt.",
                 "ro": "Perfect pentru zile ploioase datorită multor clădiri și hale.",
-                "en": "Perfect for rainy days with many buildings and exhibition halls."
+                "en": "Perfect for rainy days with many buildings and exhibition halls.",
+                "da": "Perfekt til regnvejr med mange bygninger og udstillingssale."
               }
             },
             {
@@ -1552,7 +1673,8 @@
                 "de": "Genießen Sie den Blick auf den Fjord aus dem warmen Auto.",
                 "hu": "Élvezze a fjord látványát a meleg autóból.",
                 "ro": "Bucurați-vă de vederea fiordului din mașina călduroasă.",
-                "en": "Enjoy the fjord views from the warmth of your car."
+                "en": "Enjoy the fjord views from the warmth of your car.",
+                "da": "Nyd fjordudsigten fra varmen i din bil."
               }
             },
             {
@@ -1561,7 +1683,8 @@
                 "de": "Parkplatz direkt am Waldrand für kurze Regenpausen.",
                 "hu": "Parkoló az erdő szélén, ideális az esőszünetekhez.",
                 "ro": "Parcare chiar la marginea pădurii pentru pauzele de ploaie.",
-                "en": "Parking right at the forest edge for short rain breaks."
+                "en": "Parking right at the forest edge for short rain breaks.",
+                "da": "Parkering lige ved skovkanten til korte regnpauser."
               }
             }
           ],
@@ -1589,6 +1712,12 @@
               "Visibility can be limited along the fjord during heavy downpours.",
               "Oldemorstoft Museum has a large, paved parking area.",
               "Plan your stops to minimize getting out of the car during heavy rain."
+            ],
+            "da": [
+              "Brug parkeringshuse i centrum for at holde dig tør under shopping.",
+              "Sigten kan være begrænset langs fjorden ved kraftig regn.",
+              "Oldemorstoft Museum har en stor, befæstet parkeringsplads.",
+              "Planlæg dine stop for at minimere udstigning af bilen i kraftig regn."
             ]
           }
         },
@@ -1597,7 +1726,8 @@
             "de": "Aabenraa im Winter mit dem Auto ist komfortabel und warm. Der Tag beginnt in der festlich beleuchteten Altstadt. Danach fahren wir zum historischen Oldemorstoft, wo die verschneiten Bauernhäuser bezaubern. Nachmittags genießen wir die Aussicht am Hafen und im Hjelm Skov, bevor wir den Tag im beheizten Schloss Brundlund bei Kunst und Kultur ausklingen lassen.",
             "hu": "Aabenraa télen autóval kényelmes és meleg választás. A nap az ünnepi fényekbe öltözött óvárosban indul. Ezután a történelmi Oldemorstoftba hajtunk, ahol a havas parasztházak látványa elragadó. Délután a kikötő és a Hjelm-erdő következik, végül a fűtött Brundlund-kastélyban élvezzük a művészetet.",
             "ro": "Aabenraa iarna cu mașina este o alegere confortabilă. Ziua începe în centrul vechi iluminat festiv. Apoi conducem spre istoricul Oldemorstoft, unde casele țărănești înzăpezite sunt fermecătoare. După-amiaza ne bucurăm de priveliștile de la port și pădurea Hjelm, încheind ziua la Castelul Brundlund.",
-            "en": "Exploring Aabenraa in winter by car is comfortable and warm. The day starts in the festively lit old town. Next, we drive to historical Oldemorstoft, where the snowy farmhouses are enchanting. In the afternoon, we enjoy views of the harbour and Hjelm Skov before ending the day at the heated Brundlund Castle."
+            "en": "Exploring Aabenraa in winter by car is comfortable and warm. The day starts in the festively lit old town. Next, we drive to historical Oldemorstoft, where the snowy farmhouses are enchanting. In the afternoon, we enjoy views of the harbour and Hjelm Skov before ending the day at the heated Brundlund Castle.",
+            "da": "At udforske Aabenraa om vinteren i bil er behageligt og varmt. Dagen starter i den festligt oplyste gamle by. Dernæst kører vi til historiske Oldemorstoft, hvor de snedækkede gårdhuse er betagende. Om eftermiddagen nyder vi udsigten over havnen og Hjelm Skov, før dagen afsluttes på det opvarmede Brundlund Slot."
           },
           "stops": [
             {
@@ -1606,7 +1736,8 @@
                 "de": "Parkhäuser sind im Winter eisfrei und sicher.",
                 "hu": "A parkolóházak télen jégmentesek és biztonságosak.",
                 "ro": "Parcările acoperite sunt sigure și fără gheață iarna.",
-                "en": "Multi-story car parks are ice-free and safe in winter."
+                "en": "Multi-story car parks are ice-free and safe in winter.",
+                "da": "Fleretagers parkeringshuse er isfri og sikre om vinteren."
               }
             },
             {
@@ -1615,7 +1746,8 @@
                 "de": "Achten Sie auf Fußgänger auf den oft glatten Wegen.",
                 "hu": "Ügyeljen a gyalogosokra a gyakran csúszós utakon.",
                 "ro": "Atenție la pietoni pe aleile adesea alunecoase.",
-                "en": "Watch out for pedestrians on the often slippery paths."
+                "en": "Watch out for pedestrians on the often slippery paths.",
+                "da": "Pas på fodgængere på de ofte glatte stier."
               }
             },
             {
@@ -1624,7 +1756,8 @@
                 "de": "Die nächtliche Beleuchtung hier ist besonders 'hyggelig'.",
                 "hu": "Az esti kivilágítás itt különösen hangulatos.",
                 "ro": "Iluminatul nocturn de aici este deosebit de 'hyggelig'.",
-                "en": "The evening lighting here is especially 'hyggelig'."
+                "en": "The evening lighting here is especially 'hyggelig'.",
+                "da": "Aftenbelysningen her er særligt hyggelig."
               }
             },
             {
@@ -1633,7 +1766,8 @@
                 "de": "Der Parkplatz wird zuverlässig geräumt.",
                 "hu": "A parkolót megbízhatóan takarítják hóeséskor is.",
                 "ro": "Parcarea este curățată constant de zăpadă.",
-                "en": "The parking lot is reliably cleared of snow."
+                "en": "The parking lot is reliably cleared of snow.",
+                "da": "Parkeringspladsen ryddes pålideligt for sne."
               }
             },
             {
@@ -1642,7 +1776,8 @@
                 "de": "Vorsicht auf den Zufahrtswegen bei Neuschnee.",
                 "hu": "Vigyázat a bekötőutakon friss hó esetén.",
                 "ro": "Atenție pe drumurile de acces în caz de zăpadă proaspătă.",
-                "en": "Be careful on the access roads in case of fresh snow."
+                "en": "Be careful on the access roads in case of fresh snow.",
+                "da": "Vær forsigtig på adgangsvejene ved nysne."
               }
             },
             {
@@ -1651,7 +1786,8 @@
                 "de": "Genießen Sie den Sonnenuntergang bequem vom Fahrersitz.",
                 "hu": "Élvezze a naplementét kényelmesen a vezetőülésből.",
                 "ro": "Bucurați-vă de apus confortabil din scaunul șoferului.",
-                "en": "Enjoy the early sunset comfortably from the driver's seat."
+                "en": "Enjoy the early sunset comfortably from the driver's seat.",
+                "da": "Nyd den tidlige solnedgang komfortabelt fra førersædet."
               }
             },
             {
@@ -1660,7 +1796,8 @@
                 "de": "Die Straßen durch den Wald können glatt sein.",
                 "hu": "Az erdőn átvezető utak síkosak lehetnek.",
                 "ro": "Drumurile prin pădure pot fi alunecoase.",
-                "en": "The roads through the forest can be slippery."
+                "en": "The roads through the forest can be slippery.",
+                "da": "Vejene gennem skoven kan være glatte."
               }
             }
           ],
@@ -1688,6 +1825,12 @@
               "Ensure you have anti-freeze in your windshield washer fluid.",
               "Allow extra time for parking near Christmas markets.",
               "Utilize your seat heaters after long walks along the fjord."
+            ],
+            "da": [
+              "Vinterdæk er uundværlige under danske forhold.",
+              "Sørg for, at der er frostvæske i sprinklervæsken.",
+              "Beregn ekstra tid til parkering ved julemarkeder.",
+              "Brug sædevarmen efter lange gåture langs fjorden."
             ]
           }
         }
@@ -1706,7 +1849,8 @@
             "de": "Cluster Zentrum: Ankunft am Vægterpladsen",
             "hu": "Központ Klaszter: Érkezés a Vægterpladsen-re",
             "ro": "Cluster Centru: Sosire la Vægterpladsen",
-            "en": "Center Cluster: Arrival at Vægterpladsen"
+            "en": "Center Cluster: Arrival at Vægterpladsen",
+            "da": "Center Cluster: Ankomst til Vægterpladsen"
           },
           "coords": [
             9.4175,
@@ -1722,7 +1866,8 @@
             "de": "Nehmen Sie einen Bus ins Zentrum und beginnen Sie Ihren Rundgang hier.",
             "hu": "Menjen busszal a központba, és itt kezdje a sétát.",
             "ro": "Luați un autobuz spre centru și începeți turul pietonal de aici.",
-            "en": "Take a bus to the center and start your walking tour here."
+            "en": "Take a bus to the center and start your walking tour here.",
+            "da": "Tag en bus til centrum og start din gåtur her."
           }
         },
         {
@@ -1730,7 +1875,8 @@
             "de": "Sct. Nicolai Kirke",
             "hu": "Szent Miklós templom",
             "ro": "Biserica Sf. Nicolae",
-            "en": "St. Nicolai Church"
+            "en": "St. Nicolai Church",
+            "da": "Skt. Nikolai Kirke"
           },
           "coords": [
             9.4165,
@@ -1746,7 +1892,8 @@
             "de": "Vom Platz aus leicht zu Fuß erreichbar.",
             "hu": "A térről könnyen elérhető gyalog.",
             "ro": "Ușor accesibil pe jos din piață.",
-            "en": "Easily walkable from the square."
+            "en": "Easily walkable from the square.",
+            "da": "Let at gå til fra pladsen."
           }
         },
         {
@@ -1754,7 +1901,8 @@
             "de": "Postmestergården",
             "hu": "Postmestergården",
             "ro": "Postmestergården",
-            "en": "Postmestergården"
+            "en": "Postmestergården",
+            "da": "Postmestergården"
           },
           "coords": [
             9.4188,
@@ -1770,7 +1918,8 @@
             "de": "Ein weiteres historisches Juwel in diesem zu Fuß erreichbaren Cluster.",
             "hu": "Egy újabb történelmi gyöngyszem ebben a gyalogosan bejárható klaszterben.",
             "ro": "O altă bijuterie istorică în acest cluster pietonal.",
-            "en": "Another historical gem in this walkable cluster."
+            "en": "Another historical gem in this walkable cluster.",
+            "da": "Endnu en historisk perle i denne gåbare klynge."
           }
         },
         {
@@ -1778,7 +1927,8 @@
             "de": "Cluster Schloss: Brundlund Slot",
             "hu": "Kastély Klaszter: Brundlund kastély",
             "ro": "Cluster Castel: Castelul Brundlund",
-            "en": "Castle Cluster: Brundlund Castle"
+            "en": "Castle Cluster: Brundlund Castle",
+            "da": "Slottsklynge: Brundlund Slot"
           },
           "coords": [
             9.412,
@@ -1794,7 +1944,8 @@
             "de": "Nehmen Sie einen Bus, der in der Nähe des Schlosses hält. Genießen Sie das Museum und den Park.",
             "hu": "Menjen busszal, amely a kastély közelében áll meg. Élvezze a múzeumot és a parkot.",
             "ro": "Luați un autobuz care oprește lângă castel. Bucurați-vă de muzeu și de parc.",
-            "en": "Take a bus that stops near the castle. Enjoy the museum and the park."
+            "en": "Take a bus that stops near the castle. Enjoy the museum and the park.",
+            "da": "Tag en bus, der stopper tæt ved slottet. Nyd museet og parken."
           }
         },
         {
@@ -1802,7 +1953,8 @@
             "de": "Cluster Hafen: Aabenraa Havn",
             "hu": "Kikötő Klaszter: Aabenraa kikötő",
             "ro": "Cluster Port: Portul Aabenraa",
-            "en": "Harbour Cluster: Aabenraa Harbour"
+            "en": "Harbour Cluster: Aabenraa Harbour",
+            "da": "Havneklynge: Aabenraa Havn"
           },
           "coords": [
             9.432,
@@ -1818,7 +1970,8 @@
             "de": "Nach dem Schloss bringt Sie ein Bus zum Hafen, perfekt für eine späte Mittagspause.",
             "hu": "A kastély után egy busz visz a kikötőbe, tökéletes egy késői ebédszünetre.",
             "ro": "După castel, un autobuz vă duce în port, perfect pentru o pauză de prânz târzie.",
-            "en": "After the castle, a bus takes you to the harbour, perfect for a late lunch break."
+            "en": "After the castle, a bus takes you to the harbour, perfect for a late lunch break.",
+            "da": "Efter slottet kører en bus dig til havnen, perfekt til en sen frokostpause."
           }
         },
         {
@@ -1826,7 +1979,8 @@
             "de": "Sønderstrand",
             "hu": "Sønderstrand",
             "ro": "Sønderstrand",
-            "en": "Sønderstrand"
+            "en": "Sønderstrand",
+            "da": "Sønderstrand"
           },
           "coords": [
             9.439,
@@ -1842,7 +1996,8 @@
             "de": "Ein kurzer Bus-Hop oder ein schöner Spaziergang vom Hafen zum Strand.",
             "hu": "Egy rövid buszozás vagy egy kellemes séta a kikötőtől a strandig.",
             "ro": "O scurtă călătorie cu autobuzul sau o plimbare frumoasă din port până la plajă.",
-            "en": "A short bus hop or a nice walk from the harbour to the beach."
+            "en": "A short bus hop or a nice walk from the harbour to the beach.",
+            "da": "Et kort busstopp eller en dejlig gåtur fra havnen til stranden."
           }
         }
       ],
@@ -1850,7 +2005,8 @@
         "de": "Entdecken Sie Aabenraa bequem mit öffentlichen Verkehrsmitteln. Der Tag beginnt mit einem Spaziergang durch das historische Zentrum. Ein Bus bringt Sie dann zum Brundlund Slot, wo Sie den Vormittag verbringen. Nach dem Mittagessen fahren Sie mit dem Bus zum Hafen und weiter zum Sønderstrand, um die frische Meeresluft zu genießen und den Nachmittag entspannt ausklingen zu lassen.",
         "hu": "Fedezze fel Aabenraa-t kényelmesen a tömegközlekedéssel. A nap egy sétával kezdődik a történelmi központban. Ezután egy busz elviszi a Brundlund kastélyhoz, ahol a délelőttöt tölti. Ebéd után busszal utazik a kikötőbe, majd tovább a Sønderstrandra, hogy élvezze a friss tengeri levegőt és pihenéssel zárja a délutánt.",
         "ro": "Descoperiți Aabenraa confortabil cu transportul public. Ziua începe cu o plimbare prin centrul istoric. Un autobuz vă va duce apoi la Castelul Brundlund, unde vă veți petrece dimineața. După prânz, luați autobuzul spre port și apoi spre Sønderstrand pentru a vă bucura de aerul proaspăt al mării și pentru a încheia după-amiaza într-un mod relaxat.",
-        "en": "Discover Aabenraa comfortably by public transport. The day begins with a walk through the historic center. A bus will then take you to Brundlund Castle, where you'll spend the morning. After lunch, you'll take a bus to the harbour and then on to Sønderstrand to enjoy the fresh sea air and end the afternoon in a relaxed way."
+        "en": "Discover Aabenraa comfortably by public transport. The day begins with a walk through the historic center. A bus will then take you to Brundlund Castle, where you'll spend the morning. After lunch, you'll take a bus to the harbour and then on to Sønderstrand to enjoy the fresh sea air and end the afternoon in a relaxed way.",
+        "da": "Oplev Aabenraa komfortabelt med offentlig transport. Dagen begynder med en gåtur gennem den historiske bymidte. En bus kører dig så til Brundlund Slot, hvor du tilbringer formiddagen. Efter frokost tager du bussen til havnen og videre til Sønderstrand for at nyde den friske havluft og afslutte eftermiddagen roligt."
       },
       "gastro_picks": {
         "de": [
@@ -2046,6 +2202,12 @@
           "Check the bus schedule in advance, especially for later journeys.",
           "Most buses are wheelchair accessible.",
           "Be at the stop on time, as buses in Denmark are often punctual."
+        ],
+        "da": [
+          "Køb en dagsbillet til bussen, hvis du planlægger flere ture.",
+          "Tjek busplanen på forhånd, især for sene afgange.",
+          "De fleste busser er handicapvenlige.",
+          "Vær ved stoppet til tiden, da busser i Danmark ofte er punktlige."
         ]
       },
       "variants": {
@@ -2054,7 +2216,8 @@
             "de": "Aabenraas Busse bieten einen trockenen Transport zwischen den Clustern. Der Vormittag beginnt im historischen Zentrum. Mittags fahren wir bequem zum Schloss Brundlund. Nachmittags erkunden wir den Hafen, wobei die Haltestellen meist überdacht sind. Der Tag endet am Sønderstrand, wo Sie den Regen über dem Meer von einer Strandhütte oder einem Café aus beobachten können.",
             "hu": "Aabenraa buszai száraz utat biztosítanak a látnivalók között. A délelőttöt az óvárosban kezdjük, majd délben kényelmesen a Brundlund-kastélyhoz utazunk. Délután a kikötő következik, a megállók többsége fedett. A napot a Sønderstrandnél zárjuk, ahol egy kávézó ablakából figyelhetjük a tengeri vihart.",
             "ro": "Autobuzele din Aabenraa oferă transport uscat între punctele de interes. Dimineața începe în centrul istoric. La prânz, mergem confortabil la Castelul Brundlund. După-amiaza explorăm portul, majoritatea stațiilor fiind acoperite. Ziua se încheie la Sønderstrand, unde puteți urmări ploaia de la geamul unei cafenele.",
-            "en": "Aabenraa's buses provide dry transport between the main clusters. The morning starts in the historic center. At noon, we head comfortably to Brundlund Castle. In the afternoon, we explore the harbour, where most bus stops are sheltered. The day ends at Sønderstrand, where you can watch the rain over the sea from a local cafe."
+            "en": "Aabenraa's buses provide dry transport between the main clusters. The morning starts in the historic center. At noon, we head comfortably to Brundlund Castle. In the afternoon, we explore the harbour, where most bus stops are sheltered. The day ends at Sønderstrand, where you can watch the rain over the sea from a local cafe.",
+            "da": "Aabenraas busser giver tør transport mellem hovedklynger. Morgenen starter i det historiske centrum. Ved middagstid kører vi bekvemt til Brundlund Slot. Om eftermiddagen udforsker vi havnen, hvor de fleste stoppesteder er overdækkede. Dagen slutter ved Sønderstrand, hvor du kan se regnen over havet fra en lokal café."
           },
           "stops": [
             {
@@ -2063,7 +2226,8 @@
                 "de": "Die zentrale Haltestelle liegt direkt am historischen Kern.",
                 "hu": "A központi buszmegálló közvetlenül az óváros szélén van.",
                 "ro": "Stația centrală este chiar lângă nucleul istoric.",
-                "en": "The central bus stop is located right by the historic core."
+                "en": "The central bus stop is located right by the historic core.",
+                "da": "Det centrale busstoppested ligger lige ved den historiske kerne."
               }
             },
             {
@@ -2072,7 +2236,8 @@
                 "de": "Kurzer Fußweg von der Haltestelle 'H.P. Hanssens Gade'.",
                 "hu": "Rövid séta a 'H.P. Hanssens Gade' megállótól.",
                 "ro": "Scurtă plimbare de la stația 'H.P. Hanssens Gade'.",
-                "en": "Short walk from the 'H.P. Hanssens Gade' bus stop."
+                "en": "Short walk from the 'H.P. Hanssens Gade' bus stop.",
+                "da": "Kort gåtur fra busstoppet 'H.P. Hanssens Gade'."
               }
             },
             {
@@ -2081,7 +2246,8 @@
                 "de": "Zentral gelegen und gut mit dem Stadtbus erreichbar.",
                 "hu": "Központi fekvésű, helyi járatokkal könnyen elérhető.",
                 "ro": "Locație centrală, ușor accesibilă cu autobuzul urban.",
-                "en": "Centrally located and easily accessible by city bus."
+                "en": "Centrally located and easily accessible by city bus.",
+                "da": "Centralt placeret og let tilgængeligt med bybus."
               }
             },
             {
@@ -2090,7 +2256,8 @@
                 "de": "Die Haltestelle am Schloss bietet Schutz vor Regen.",
                 "hu": "A kastélynál lévő megálló fedett, véd az esőtől.",
                 "ro": "Stația de la castel este acoperită și oferă protecție.",
-                "en": "The bus stop at the castle is sheltered from the rain."
+                "en": "The bus stop at the castle is sheltered from the rain.",
+                "da": "Busstoppet ved slottet er overdækket mod regn."
               }
             },
             {
@@ -2099,7 +2266,8 @@
                 "de": "Busse verkehren regelmäßig zum Hafenbereich.",
                 "hu": "A buszok rendszeresen járnak a kikötői negyedbe.",
                 "ro": "Autobuzele circulă regulat către zona portului.",
-                "en": "Buses run regularly to the harbour area."
+                "en": "Buses run regularly to the harbour area.",
+                "da": "Busser kører regelmæssigt til havneområdet."
               }
             },
             {
@@ -2108,7 +2276,8 @@
                 "de": "Die Endstation liegt nah am Strand; Regenschirm bereithalten.",
                 "hu": "A végállomás közel van a parthoz; készítse az esernyőt.",
                 "ro": "Capătul de linie este aproape de plajă; pregătiți umbrela.",
-                "en": "The terminus is close to the beach; have your umbrella ready."
+                "en": "The terminus is close to the beach; have your umbrella ready.",
+                "da": "Endestation ligger tæt på stranden; hav din paraply klar."
               }
             }
           ],
@@ -2136,6 +2305,12 @@
               "Most bus stops in the center are sheltered from rain and wind.",
               "A day pass is worth it for short hops between city clusters.",
               "Buses are well-heated and comfortable during rainy days."
+            ],
+            "da": [
+              "Brug 'Rejseplanen' appen til opdateringer i realtid under dårligt vejr.",
+              "De fleste busstoppesteder i centrum er overdækkede mod regn og vind.",
+              "En dagsbillet er værd at købe til korte hop mellem byklynger.",
+              "Busserne er velopvarmede og komfortable på regnfulde dage."
             ]
           }
         },
@@ -2144,7 +2319,8 @@
             "de": "Öffentliche Verkehrsmittel sind im Winter die stressfreieste Art, Aabenraa zu erleben. Wir starten morgens im beleuchteten Stadtzentrum. Mittags bringt uns der Bus direkt zum Schloss Brundlund, wo das warme Museum wartet. Nachmittags geht es zum Hafen, um die klare Winterluft zu genießen, bevor der Bus uns zurück in die gemütliche Innenstadt bringt.",
             "hu": "Télen a tömegközlekedés a legnyugodtabb módja Aabenraa felfedezésének. Reggel a kivilágított belvárosban kezdünk. Délben a busz közvetlenül a Brundlund-kastélyhoz visz, ahol meleg múzeum vár. Délután a kikötőben élvezzük a friss téli levegőt, majd busszal térünk vissza a hangulatos központba.",
             "ro": "Transportul public este cea mai relaxantă modalitate de a vedea Aabenraa iarna. Începem dimineața în centrul iluminat. La prânz, autobuzul ne duce la Castelul Brundlund. După-amiaza mergem la port pentru aerul curat de iarnă, apoi revenim cu autobuzul în centrul primitor.",
-            "en": "Public transit is the stress-free way to experience Aabenraa in winter. We start the morning in the lit-up town center. At noon, the bus takes us directly to Brundlund Castle and its warm museum. In the afternoon, we head to the harbour to enjoy the crisp air before taking the bus back to the cozy city center."
+            "en": "Public transit is the stress-free way to experience Aabenraa in winter. We start the morning in the lit-up town center. At noon, the bus takes us directly to Brundlund Castle and its warm museum. In the afternoon, we head to the harbour to enjoy the crisp air before taking the bus back to the cozy city center.",
+            "da": "Offentlig transport er den stressfrie måde at opleve Aabenraa om vinteren. Vi starter morgenen i den oplyste bykerne. Ved middag kører bussen os direkte til Brundlund Slot og dets varme museum. Om eftermiddagen tager vi til havnen for at nyde den krispe luft, inden vi tager bussen tilbage til den hyggelige bymidte."
           },
           "stops": [
             {
@@ -2153,7 +2329,8 @@
                 "de": "Haltestellen sind im Winter oft gestreut; trotzdem Vorsicht.",
                 "hu": "A megállókat télen takarítják, de így is vigyázzon a jégre.",
                 "ro": "Stațiile sunt curățate de zăpadă, dar atenție la gheață.",
-                "en": "Bus stops are usually cleared of snow, but still watch for ice."
+                "en": "Bus stops are usually cleared of snow, but still watch for ice.",
+                "da": "Busstoppesteder ryddes som regel for sne, men pas stadig på is."
               }
             },
             {
@@ -2162,7 +2339,8 @@
                 "de": "Die Busse sind pünktlich, ideal um Kälte zu vermeiden.",
                 "hu": "A buszok pontosak, így minimális időt kell a hidegben tölteni.",
                 "ro": "Autobuzele sunt punctuale, ideal pentru a evita frigul.",
-                "en": "Buses are punctual, ideal for minimizing time spent in the cold."
+                "en": "Buses are punctual, ideal for minimizing time spent in the cold.",
+                "da": "Busser er punktlige, ideelt for at minimere tiden i kulden."
               }
             },
             {
@@ -2171,7 +2349,8 @@
                 "de": "Warme Wartebereiche im nahen Einkaufszentrum nutzen.",
                 "hu": "Használja a közeli üzletközpont meleg váróit.",
                 "ro": "Folosiți zonele de așteptare calde din centrele comerciale apropiate.",
-                "en": "Use warm waiting areas in the nearby shopping center."
+                "en": "Use warm waiting areas in the nearby shopping center.",
+                "da": "Brug varme venteområder i det nærliggende indkøbscenter."
               }
             },
             {
@@ -2180,7 +2359,8 @@
                 "de": "Der Bus hält fast direkt vor dem Schlosstor.",
                 "hu": "A busz szinte közvetlenül a kastélykapunál áll meg.",
                 "ro": "Autobuzul oprește aproape direct în fața porții castelului.",
-                "en": "The bus stops almost directly in front of the castle gate."
+                "en": "The bus stops almost directly in front of the castle gate.",
+                "da": "Bussen holder næsten direkte foran slotsporten."
               }
             },
             {
@@ -2189,7 +2369,8 @@
                 "de": "Gute Frequenz auch in der Nebensaison.",
                 "hu": "A buszok a főszezonon kívül is gyakran járnak.",
                 "ro": "Frecvență bună a autobuzelor chiar și în afara sezonului.",
-                "en": "Good bus frequency even during the off-season."
+                "en": "Good bus frequency even during the off-season.",
+                "da": "God busfrekvens selv i lavsæsonen."
               }
             },
             {
@@ -2198,7 +2379,8 @@
                 "de": "Achten Sie auf den frühen Sonnenuntergang gegen 16:00 Uhr.",
                 "hu": "Ügyeljen a korai, délután 4 órai naplementére.",
                 "ro": "Atenție la apusul devreme în jur de ora 16:00.",
-                "en": "Keep an eye on the early sunset around 4 PM."
+                "en": "Keep an eye on the early sunset around 4 PM.",
+                "da": "Hold øje med den tidlige solnedgang omkring kl. 16."
               }
             }
           ],
@@ -2226,6 +2408,12 @@
               "Buses are perfect for warming up between different sights.",
               "Wear reflectors as it gets dark very early in the Danish winter.",
               "Buses run until late evening for your return trip."
+            ],
+            "da": [
+              "Brug 'Rejseplanen' for at minimere ventetid i den iskolde kulde.",
+              "Busser er perfekte til at varme op mellem seværdigheder.",
+              "Bær reflekser, da det bliver meget mørkt tidligt i den danske vinter.",
+              "Busser kører til sent på aftenen for din hjemrejse."
             ]
           }
         }

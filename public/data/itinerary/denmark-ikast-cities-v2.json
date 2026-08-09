@@ -21,7 +21,8 @@
             "de": "Strøgcentret (Fußgängerzone)",
             "hu": "Strøgcentret (sétálóutca)",
             "ro": "Strøgcentret (zonă pietonală)",
-            "en": "Strøgcentret (pedestrian street)"
+            "en": "Strøgcentret (pedestrian street)",
+            "da": "Strøgcentret (gågade)"
           },
           "coords": [
             9.151,
@@ -37,7 +38,8 @@
             "de": "Beginnen Sie den Tag mit einem Kaffee in einem der örtlichen Cafés, um die Atmosphäre aufzusaugen.",
             "hu": "Kezdje a napot egy kávéval a helyi kávézók egyikében, hogy magába szívja a hangulatot.",
             "ro": "Începeți ziua cu o cafea la una dintre cafenelele locale pentru a absorbi atmosfera.",
-            "en": "Start your day with a coffee at one of the local cafes to soak up the atmosphere."
+            "en": "Start your day with a coffee at one of the local cafes to soak up the atmosphere.",
+            "da": "Start din dag med en kaffe på en af de lokale caféer for at suge atmosfæren til dig."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Ikast Kirche",
             "hu": "Ikasti templom",
             "ro": "Biserica Ikast",
-            "en": "Ikast Church"
+            "en": "Ikast Church",
+            "da": "Ikast Kirke"
           },
           "coords": [
             9.154,
@@ -61,7 +64,8 @@
             "de": "Achten Sie auf die moderne Architektur und die einzigartigen Glasfenster der Kirche.",
             "hu": "Figyelje meg a templom modern építészetét és egyedi üvegablakait.",
             "ro": "Observați arhitectura modernă a bisericii și vitraliile sale unice.",
-            "en": "Pay attention to the church's modern architecture and unique glass windows."
+            "en": "Pay attention to the church's modern architecture and unique glass windows.",
+            "da": "Bemærk kirkens moderne arkitektur og de unikke glasvinduer."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Kunstpakhuset (Kunstgalerie)",
             "hu": "Kunstpakhuset (Művészeti Galéria)",
             "ro": "Kunstpakhuset (Galeria de Artă)",
-            "en": "Kunstpakhuset (Art Gallery)"
+            "en": "Kunstpakhuset (Art Gallery)",
+            "da": "Kunstpakhuset (Kunsthal)"
           },
           "coords": [
             9.156,
@@ -85,7 +90,8 @@
             "de": "Prüfen Sie den aktuellen Ausstellungskalender, da hier oft wechselnde Ausstellungen stattfinden.",
             "hu": "Nézze meg az aktuális kiállítási naptárat, mivel gyakran vannak időszakos tárlatok.",
             "ro": "Verificați calendarul expozițiilor curente, deoarece găzduiește adesea expoziții temporare.",
-            "en": "Check the current exhibition calendar, as it often hosts temporary exhibitions."
+            "en": "Check the current exhibition calendar, as it often hosts temporary exhibitions.",
+            "da": "Tjek den aktuelle udstillingskalender, da der ofte er skiftende udstillinger."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Ikast Wasserturm",
             "hu": "Ikasti víztorony",
             "ro": "Turnul de apă din Ikast",
-            "en": "Ikast Water Tower"
+            "en": "Ikast Water Tower",
+            "da": "Ikast Vandtårn"
           },
           "coords": [
             9.148,
@@ -109,7 +116,8 @@
             "de": "Ein Wahrzeichen der Stadt. Obwohl man nicht hinaufsteigen kann, ist es ein tolles Fotomotiv.",
             "hu": "A város egyik jelképe. Bár nem lehet felmenni, remek fotótéma.",
             "ro": "Un punct de reper al orașului. Deși nu se poate urca, este un subiect excelent pentru fotografii.",
-            "en": "A landmark of the town. Although you can't go up, it's a great photo opportunity."
+            "en": "A landmark of the town. Although you can't go up, it's a great photo opportunity.",
+            "da": "Et vartegn i byen. Selvom du ikke kan komme op, er det et godt fotomotiv."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Frisenborg Parken",
             "hu": "Frisenborg Park",
             "ro": "Parcul Frisenborg",
-            "en": "Frisenborg Park"
+            "en": "Frisenborg Park",
+            "da": "Frisenborg Park"
           },
           "coords": [
             9.16,
@@ -133,7 +142,8 @@
             "de": "Perfekt für ein Mittagspicknick. Es gibt viel Grünfläche zum Entspannen.",
             "hu": "Tökéletes hely egy ebédpiknikhez. Bőven van zöldterület a pihenéshez.",
             "ro": "Perfect pentru un picnic la prânz. Există o mulțime de spațiu verde pentru relaxare.",
-            "en": "Perfect for a lunch picnic. There's plenty of green space to relax."
+            "en": "Perfect for a lunch picnic. There's plenty of green space to relax.",
+            "da": "Perfekt til en frokostpicnic. Der er masser af grønne områder at slappe af i."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Ikast Svømmecenter (Schwimmzentrum)",
             "hu": "Ikast Svømmecenter (uszoda)",
             "ro": "Centrul de înot Ikast",
-            "en": "Ikast Swimming Center"
+            "en": "Ikast Swimming Center",
+            "da": "Ikast Svømmehal"
           },
           "coords": [
             9.165,
@@ -157,7 +168,8 @@
             "de": "Nicht nur zum Schwimmen. Es hat auch Wellnessbereiche zum Entspannen nach einem langen Spaziergang.",
             "hu": "Nem csak úszásra. Wellness-részlegei is vannak, ahol egy hosszú séta után pihenhet.",
             "ro": "Nu doar pentru înot. Are și zone de wellness pentru a vă relaxa după o plimbare lungă.",
-            "en": "Not just for swimming. It also has wellness areas to relax after a long walk."
+            "en": "Not just for swimming. It also has wellness areas to relax after a long walk.",
+            "da": "Ikke kun til svømning. Den har også wellness-områder til at slappe af efter en lang gåtur."
           }
         }
       ],
@@ -165,7 +177,8 @@
         "de": "Beginnen Sie Ihren Tag im Herzen von Ikast, dem Strøgcentret. Nach einem Kaffee erkunden Sie die moderne Ikast Kirche und tauchen in die lokale Kunstszene im Kunstpakhuset ein. Der Vormittag bietet eine Mischung aus städtischem Leben und Kultur. Am Nachmittag geht es weiter zum ikonischen Wasserturm, bevor Sie im Frisenborg Parken entspannen. Hier können Sie die Natur genießen und ein Picknick machen. Der Tag endet aktiv im Ikast Svømmecenter, wo Sie schwimmen oder im Wellnessbereich entspannen können, eine perfekte Belohnung nach einem Tag voller Entdeckungen zu Fuß.",
         "hu": "Kezdje a napot Ikast szívében, a Strøgcentret-ben. Egy kávé után fedezze fel a modern Ikasti templomot és merüljön el a helyi művészeti életben a Kunstpakhuset-ben. A délelőtt a városi élet és a kultúra keverékét kínálja. Délután folytassa útját az ikonikus víztoronyhoz, mielőtt a Frisenborg Parkban pihenne. Itt élvezheti a természetet és piknikezhet egyet. A nap aktívan zárul az Ikast Svømmecenterben, ahol úszhat vagy relaxálhat a wellness-részlegben, ami tökéletes jutalom egy gyalogos felfedezéssel töltött nap után.",
         "ro": "Începeți-vă ziua în inima orașului Ikast, la Strøgcentret. După o cafea, explorați moderna Biserică Ikast și scufundați-vă în scena artistică locală la Kunstpakhuset. Dimineața oferă un amestec de viață urbană și cultură. După-amiaza, continuați spre iconicul Turn de Apă înainte de a vă relaxa în Parcul Frisenborg. Aici vă puteți bucura de natură și puteți face un picnic. Ziua se încheie activ la Centrul de Înot Ikast, unde puteți înota sau vă puteți relaxa în zona de wellness, o recompensă perfectă după o zi de explorare pe jos.",
-        "en": "Start your day in the heart of Ikast at Strøgcentret. After a coffee, explore the modern Ikast Church and dive into the local art scene at Kunstpakhuset. The morning offers a mix of urban life and culture. In the afternoon, continue to the iconic Water Tower before relaxing in Frisenborg Park. Here you can enjoy nature and have a picnic. The day ends actively at Ikast Swimming Center, where you can swim or relax in the wellness area, a perfect reward after a day of exploring on foot."
+        "en": "Start your day in the heart of Ikast at Strøgcentret. After a coffee, explore the modern Ikast Church and dive into the local art scene at Kunstpakhuset. The morning offers a mix of urban life and culture. In the afternoon, continue to the iconic Water Tower before relaxing in Frisenborg Park. Here you can enjoy nature and have a picnic. The day ends actively at Ikast Swimming Center, where you can swim or relax in the wellness area, a perfect reward after a day of exploring on foot.",
+        "da": "Start din dag i hjertet af Ikast ved Strøgcentret. Efter en kop kaffe kan du udforske den moderne Ikast Kirke og dykke ned i det lokale kunstliv på Kunstpakhuset. Formiddagen byder på en blanding af byliv og kultur. Om eftermiddagen fortsætter du til det ikoniske Vandtårn før du slapper af i Frisenborg Park. Her kan du nyde naturen og tage en picnic. Dagen slutter aktivt i Ikast Svømmehal, hvor du kan svømme eller slappe af i wellnessområdet — en perfekt belønning efter en dag med gåture."
       },
       "gastro_picks": {
         "de": [
@@ -341,6 +354,12 @@
           "A reusable water bottle is handy.",
           "Check the opening hours of Kunstpakhuset in advance.",
           "A light raincoat is always a good idea in Denmark."
+        ],
+        "da": [
+          "Brug komfortable sko, da du vil være på benene hele dagen.",
+          "En genanvendelig vandflaske er praktisk.",
+          "Tjek Kunstpakhusets åbningstider på forhånd.",
+          "En let regnjakke er altid en god idé i Danmark."
         ]
       },
       "variants": {
@@ -349,7 +368,8 @@
             "de": "Ikast ist bei Regen ideal, da das Strøgcentret die einzige überdachte Fußgängerzone Dänemarks ist. Vormittags erkunden Sie die Kirche und das Kunstpakhuset im Trockenen. Der Nachmittag am Wasserturm erfordert einen Schirm, doch das Schwimmzentrum bietet danach wohlige Wärme. Abends laden die Cafés im geschützten Zentrum zum Verweilen ein.",
             "hu": "Ikast esőben is kiváló úti cél, köszönhetően Dánia egyetlen fedett sétálóutcájának, a Strøgcentretnek. Délelőtt a templom és a Kunstpakhuset galéria nyújt menedéket. Délután a víztorony után a városi uszoda meleg vize feledteti a kinti szürkeséget. Az este a belváros barátságos, esővédett paszázsaiban ér véget.",
             "ro": "Ikast este ideal pe ploaie datorită Strøgcentret, singura stradă pietonală acoperită din Danemarca. Dimineața vizităm biserica și galeria de artă Kunstpakhuset, rămânând la adăpost. După o scurtă oprire la turnul de apă, după-amiaza se încheie perfect la centrul de înot. Seara, cafenelele din zona protejată sunt destinația finală.",
-            "en": "Ikast is perfect for a rainy day as Strøgcentret is Denmark's only covered pedestrian street. Spend your morning exploring the church and Kunstpakhuset art gallery indoors. After a brief rainy walk to the water tower, warm up at the swimming center. Finish your evening in the sheltered comfort of the city center's cafes."
+            "en": "Ikast is perfect for a rainy day as Strøgcentret is Denmark's only covered pedestrian street. Spend your morning exploring the church and Kunstpakhuset art gallery indoors. After a brief rainy walk to the water tower, warm up at the swimming center. Finish your evening in the sheltered comfort of the city center's cafes.",
+            "da": "Ikast er perfekt til en regnvejrsdag, da Strøgcentret er Danmarks eneste overdækkede gågade. Tilbring morgenen med at udforske kirken og Kunstpakhuset indendørs. Efter en kort regnvåd gåtur til vandtårnet kan du varme dig i svømmehallen. Afslut din aften i de læskårne caféers hygge i bymidten."
           },
           "stops": [
             {
@@ -358,7 +378,8 @@
                 "de": "Dänemarks einzige überdachte Fußgängerzone – perfekt, um dem Regen zu entfliehen.",
                 "hu": "Dánia egyetlen fedett sétálóutcája, tökéletes menedék a dán eső elől.",
                 "ro": "Singura stradă pietonală acoperită din Danemarca – refugiul ideal împotriva ploii.",
-                "en": "Denmark's only covered pedestrian street – the perfect shelter from the drizzle."
+                "en": "Denmark's only covered pedestrian street – the perfect shelter from the drizzle.",
+                "da": "Danmarks eneste overdækkede gågade – det perfekte ly for småregn."
               }
             },
             {
@@ -367,7 +388,8 @@
                 "de": "Nutzen Sie den Innenraum für eine besinnliche Pause abseits der nassen Straßen.",
                 "hu": "Élvezze a belső tér nyugalmát és a száraz menedéket a vizes utcák után.",
                 "ro": "Folosiți interiorul pentru o pauză liniștită departe de străzile umede.",
-                "en": "Use the peaceful interior for a quiet break away from the wet streets."
+                "en": "Use the peaceful interior for a quiet break away from the wet streets.",
+                "da": "Brug det fredelige indre til en rolig pause væk fra de våde gader."
               }
             },
             {
@@ -376,7 +398,8 @@
                 "de": "Ein großartiger Ort für Kultur im Trockenen mit wechselnden Ausstellungen.",
                 "hu": "Nagyszerű beltéri kulturális helyszín időszaki kiállításokkal, távol az esőtől.",
                 "ro": "Un loc cultural interior excelent, cu expoziții temporare, ferit de ploaie.",
-                "en": "A great indoor cultural venue with changing exhibitions, safe from the rain."
+                "en": "A great indoor cultural venue with changing exhibitions, safe from the rain.",
+                "da": "Et godt indendørs kultursted med skiftende udstillinger, beskyttet mod regnen."
               }
             },
             {
@@ -385,7 +408,8 @@
                 "de": "Kurzer Stopp; halten Sie den Schirm bereit für den Blick von außen.",
                 "hu": "Rövid megálló; tartsa készenlétben az esernyőt a külső megtekintéshez.",
                 "ro": "Oprire scurtă; țineți umbrela pregătită pentru vizionarea din exterior.",
-                "en": "Short stop; keep your umbrella ready for viewing the exterior."
+                "en": "Short stop; keep your umbrella ready for viewing the exterior.",
+                "da": "Kort stop; hold paraplyen klar til at se ydersiden."
               }
             },
             {
@@ -394,7 +418,8 @@
                 "de": "Die befestigten Wege sind auch bei Regen gut begehbar; achten Sie auf Pfützen.",
                 "hu": "A kiépített utak esőben is járhatóak; ügyeljen a tó körüli tócsákra.",
                 "ro": "Aleile pavate sunt accesibile și pe ploaie; atenție la bălțile din jurul lacului.",
-                "en": "Paved paths are accessible even in rain; watch out for puddles near the lake."
+                "en": "Paved paths are accessible even in rain; watch out for puddles near the lake.",
+                "da": "Belagte stier er tilgængelige selv i regn; pas på vandpytter ved søen."
               }
             },
             {
@@ -403,7 +428,8 @@
                 "de": "Der beste Ort, um sich nach einem regnerischen Spaziergang aufzuwärmen.",
                 "hu": "A legjobb hely a felmelegedésre egy esős városnéző séta után.",
                 "ro": "Cel mai bun loc pentru a vă încălzi după o plimbare ploioasă prin oraș.",
-                "en": "The ultimate spot to warm up after a rainy walking tour of the town."
+                "en": "The ultimate spot to warm up after a rainy walking tour of the town.",
+                "da": "Det ultimative sted at varme sig op efter en regnfuld byrundtur."
               }
             }
           ],
@@ -431,6 +457,12 @@
               "Wear waterproof shoes as paths between attractions can get very wet.",
               "The swimming center is a favorite local sanctuary during bad weather.",
               "Danish rain is often windy; a sturdy umbrella or rain jacket is essential."
+            ],
+            "da": [
+              "Strøgcentret giver 300 meter komplet regnbeskyttelse under shopping.",
+              "Brug vandtætte sko, da stier mellem seværdigheder kan blive meget våde.",
+              "Svømmehallen er et lokalt yndlingssted i dårligt vejr.",
+              "Dansk regn er ofte vindstærk; en solid paraply eller regnjakke er essentiel."
             ]
           }
         },
@@ -439,7 +471,8 @@
             "de": "Im Winter leuchtet Ikast in festlicher Stimmung, besonders im windgeschützten Strøgcentret. Vormittags wärmen die Kirchenbänke und die Kunstgalerie Geist und Körper. Da es bereits um 16:00 Uhr dunkel wird, nutzen wir das Tageslicht im Frisenborg Park frühzeitig. Der Tag endet gemütlich in der Sauna des Schwimmzentrums.",
             "hu": "Télen Ikast ünnepi fényekbe öltözik, a Strøgcentret pedig védelmet nyújt a metsző szél ellen. Délelőtt a templom és a galéria belső terei melegítik fel a látogatót. Mivel 16:00-kor már sötétedik, a Frisenborg Parkot korábban keressük fel. A napot a városi uszoda szaunájában zárjuk a dán téli hideg után.",
             "ro": "Iarna, Ikast strălucește în lumini festive, iar Strøgcentret oferă adăpost împotriva vântului tăios. Dimineața, biserica și galeria de artă încălzesc spiritul și corpul. Deoarece se întunecă la ora 16:00, vizităm parcul Frisenborg cât mai devreme. Ziua se încheie confortabil în sauna centrului de înot.",
-            "en": "In winter, Ikast glows with festive lights, and Strøgcentret offers a wind-shielded escape. Morning visits to the church and art gallery keep you warm indoors. As darkness falls by 16:00, we explore Frisenborg Park early to catch the daylight. End your day relaxing in the swimming center's sauna."
+            "en": "In winter, Ikast glows with festive lights, and Strøgcentret offers a wind-shielded escape. Morning visits to the church and art gallery keep you warm indoors. As darkness falls by 16:00, we explore Frisenborg Park early to catch the daylight. End your day relaxing in the swimming center's sauna.",
+            "da": "Om vinteren stråler Ikast med festlige lys, og Strøgcentret tilbyder en vindskærmet flugt. Morgenture til kirken og kunsthallen holder dig varm indendørs. Når mørket falder på omkring kl. 16:00, udforsker vi Frisenborg Park tidligt for at nå dagslyset. Afslut dagen i svømmehallens sauna."
           },
           "stops": [
             {
@@ -448,7 +481,8 @@
                 "de": "Windgeschützt und weihnachtlich beleuchtet – ein warmer Ort zum Bummeln.",
                 "hu": "Szélvédett és ünnepi fényekkel díszített – meleg hely a nézelődéshez.",
                 "ro": "Protejat de vânt și luminat festiv – un loc cald pentru plimbare.",
-                "en": "Wind-shielded and festively lit – a warm place for a winter stroll."
+                "en": "Wind-shielded and festively lit – a warm place for a winter stroll.",
+                "da": "Vindskærmet og festligt oplyst – et varmt sted til en vinterlig gåtur."
               }
             },
             {
@@ -457,7 +491,8 @@
                 "de": "Ein Ort der Stille und Wärme während der kalten Wintermorgen.",
                 "hu": "A csend és a meleg szigete a hideg téli délelőttök során.",
                 "ro": "Un loc de liniște și căldură în timpul dimineților reci de iarnă.",
-                "en": "A place of peace and warmth during the cold winter mornings."
+                "en": "A place of peace and warmth during the cold winter mornings.",
+                "da": "Et sted med ro og varme på kolde vintermorgener."
               }
             },
             {
@@ -466,7 +501,8 @@
                 "de": "Genießen Sie moderne Kunst in beheizten Räumen abseits des Winterfrosts.",
                 "hu": "Élvezze a modern művészetet fűtött termekben, távol a téli fagyoktól.",
                 "ro": "Bucurați-vă de arta modernă în spații încălzite, departe de gerul iernii.",
-                "en": "Enjoy modern art in heated rooms, away from the winter frost."
+                "en": "Enjoy modern art in heated rooms, away from the winter frost.",
+                "da": "Nyd moderne kunst i opvarmede rum, væk fra vinterfrosten."
               }
             },
             {
@@ -475,7 +511,8 @@
                 "de": "Der Turm wirkt im Winterfrost besonders markant; ideal für ein schnelles Foto.",
                 "hu": "A torony a téli fagyban különösen látványos; ideális egy gyors fotóhoz.",
                 "ro": "Turnul arată spectaculos în gerul iernii; ideal pentru o fotografie rapidă.",
-                "en": "The tower looks striking in the winter frost; ideal for a quick photo."
+                "en": "The tower looks striking in the winter frost; ideal for a quick photo.",
+                "da": "Tårnet tager sig flot ud i vinterfrost; ideelt til et hurtigt foto."
               }
             },
             {
@@ -484,7 +521,8 @@
                 "de": "Bei Schnee verwandelt sich der Park in eine weiße Wunderwelt; Vorsicht bei Glätte.",
                 "hu": "Hó esetén a park fehér varázsvilággá alakul; vigyázzon a csúszós utakra.",
                 "ro": "Dacă ninge, parcul devine un tărâm de basm; atenție la gheață pe alei.",
-                "en": "If it snows, the park turns into a white wonderland; watch out for ice on paths."
+                "en": "If it snows, the park turns into a white wonderland; watch out for ice on paths.",
+                "da": "Hvis det sner, forvandler parken sig til et hvidt eventyr; pas på is på stierne."
               }
             },
             {
@@ -493,7 +531,8 @@
                 "de": "Nutzen Sie die Sauna und das Warmwasserbecken als perfekten Winterabschluss.",
                 "hu": "Használja a szaunát és a melegvizes medencét a tökéletes téli záráshoz.",
                 "ro": "Folosiți sauna și piscina cu apă caldă pentru un final de zi perfect.",
-                "en": "Use the sauna and warm pools for the perfect winter day finale."
+                "en": "Use the sauna and warm pools for the perfect winter day finale.",
+                "da": "Brug saunaen og de varme bassiner som den perfekte afslutning på en vinterdag."
               }
             }
           ],
@@ -521,6 +560,12 @@
               "Dress in layers due to the constant change between frost and heated shops.",
               "Strøgcentret often hosts cozy winter events and local markets.",
               "Sidewalks are usually cleared quickly, but watch out for black ice."
+            ],
+            "da": [
+              "Solen går ned omkring kl. 15:45 i december; planlæg udendørsaktiviteter om morgenen.",
+              "Kleed dig i lag på grund af konstant skifte mellem frost og opvarmede butikker.",
+              "Strøgcentret afholder ofte hyggelige vinterarrangementer og lokale markeder.",
+              "Fortove ryddes normalt hurtigt, men pas på sort is."
             ]
           }
         }
@@ -539,7 +584,8 @@
             "de": "Strøgcentret",
             "hu": "Strøgcentret",
             "ro": "Strøgcentret",
-            "en": "Strøgcentret"
+            "en": "Strøgcentret",
+            "da": "Strøgcentret"
           },
           "coords": [
             9.151,
@@ -555,7 +601,8 @@
             "de": "Stellen Sie Ihr Fahrrad sicher ab und erkunden Sie die Geschäfte zu Fuß.",
             "hu": "Zárja le biztonságosan a kerékpárját, és fedezze fel gyalog az üzleteket.",
             "ro": "Parcați-vă bicicleta în siguranță și explorați magazinele pe jos.",
-            "en": "Park your bike securely and explore the shops on foot."
+            "en": "Park your bike securely and explore the shops on foot.",
+            "da": "Parker din cykel forsvarligt og udforsk butikkerne til fods."
           }
         },
         {
@@ -563,7 +610,8 @@
             "de": "Ikast Kirche",
             "hu": "Ikasti templom",
             "ro": "Biserica Ikast",
-            "en": "Ikast Church"
+            "en": "Ikast Church",
+            "da": "Ikast Kirke"
           },
           "coords": [
             9.154,
@@ -579,7 +627,8 @@
             "de": "Eine kurze Radtour vom Zentrum entfernt. Genießen Sie die friedliche Atmosphäre.",
             "hu": "Rövid bicikliút a központtól. Élvezze a békés hangulatot.",
             "ro": "O scurtă plimbare cu bicicleta din centru. Bucurați-vă de atmosfera pașnică.",
-            "en": "A short bike ride from the center. Enjoy the peaceful atmosphere."
+            "en": "A short bike ride from the center. Enjoy the peaceful atmosphere.",
+            "da": "En kort cykeltur fra centrum. Nyd den fredelige atmosfære."
           }
         },
         {
@@ -587,7 +636,8 @@
             "de": "Kunstpakhuset",
             "hu": "Kunstpakhuset",
             "ro": "Kunstpakhuset",
-            "en": "Kunstpakhuset"
+            "en": "Kunstpakhuset",
+            "da": "Kunstpakhuset"
           },
           "coords": [
             9.156,
@@ -603,7 +653,8 @@
             "de": "Ein kultureller Stopp, um die Beine nach dem Radfahren auszuruhen.",
             "hu": "Kulturális megálló, hogy a biciklizés után megpihentesse a lábait.",
             "ro": "O oprire culturală pentru a vă odihni picioarele după mersul pe bicicletă.",
-            "en": "A cultural stop to rest your legs after cycling."
+            "en": "A cultural stop to rest your legs after cycling.",
+            "da": "Et kulturelt stop for at hvile benene efter cykelturen."
           }
         },
         {
@@ -611,7 +662,8 @@
             "de": "Isenvad Kirche",
             "hu": "Isenvadi templom",
             "ro": "Biserica Isenvad",
-            "en": "Isenvad Church"
+            "en": "Isenvad Church",
+            "da": "Isenvad Kirke"
           },
           "coords": [
             9.23,
@@ -627,7 +679,8 @@
             "de": "Eine malerische Radtour durch die Landschaft zu dieser charmanten Dorfkirche.",
             "hu": "Festői kerékpártúra a vidéken ehhez a bájos falusi templomhoz.",
             "ro": "O plimbare pitorească cu bicicleta prin peisajul rural până la această biserică de sat fermecătoare.",
-            "en": "A scenic bike ride through the countryside to this charming village church."
+            "en": "A scenic bike ride through the countryside to this charming village church.",
+            "da": "En naturskøn cykeltur gennem landskabet til denne charmerende landsbykirke."
           }
         },
         {
@@ -635,7 +688,8 @@
             "de": "Frisenborg Parken",
             "hu": "Frisenborg Park",
             "ro": "Parcul Frisenborg",
-            "en": "Frisenborg Park"
+            "en": "Frisenborg Park",
+            "da": "Frisenborg Park"
           },
           "coords": [
             9.16,
@@ -651,7 +705,8 @@
             "de": "Der perfekte Ort für ein spätes Mittagessen und eine lange Pause nach der Radtour.",
             "hu": "Tökéletes hely egy késői ebédhez és egy hosszú szünethez a kerékpártúra után.",
             "ro": "Locul perfect pentru un prânz târziu și o pauză lungă după plimbarea cu bicicleta.",
-            "en": "The perfect spot for a late lunch and a long break after the bike ride."
+            "en": "The perfect spot for a late lunch and a long break after the bike ride.",
+            "da": "Det perfekte sted til en sen frokost og en lang pause efter cykelturen."
           }
         }
       ],
@@ -659,7 +714,8 @@
         "de": "Starten Sie Ihre Radtour im Zentrum von Ikast am Strøgcentret. Von dort aus sind es nur kurze Fahrten zur Ikast Kirche und zum Kunstpakhuset, wo Sie Kultur tanken können. Der Vormittag ist eine Erkundung des städtischen Kerns. Am Nachmittag führt Sie eine längere, malerische Radtour zur charmanten Isenvad Kirche. Der Weg führt durch die friedliche dänische Landschaft. Zum Abschluss radeln Sie zurück zum Frisenborg Parken, dem idealen Ort, um sich nach der Tour bei einem Picknick zu erholen und den Rest des Nachmittags zu genießen.",
         "hu": "Kezdje a kerékpártúrát Ikast központjában, a Strøgcentret-nél. Innen rövid utat tesz meg az Ikasti templomig és a Kunstpakhuset-ig, ahol kultúrát szívhat magába. A délelőtt a város magjának felfedezéséről szól. Délután egy hosszabb, festői kerékpártúra vezet a bájos Isenvadi templomhoz. Az út a békés dán vidéken vezet keresztül. Végül tekerjen vissza a Frisenborg Parkba, amely ideális hely a túra utáni pihenésre egy piknik mellett, és az egész délután élvezetére.",
         "ro": "Începeți turul cu bicicleta în centrul orașului Ikast, la Strøgcentret. De acolo, sunt doar plimbări scurte până la Biserica Ikast și Kunstpakhuset, unde vă puteți bucura de cultură. Dimineața este o explorare a nucleului urban. După-amiaza, o plimbare mai lungă și pitorească cu bicicleta vă duce la fermecătoarea Biserică Isenvad. Traseul trece prin peisajul rural danez pașnic. În cele din urmă, pedalați înapoi la Parcul Frisenborg, locul ideal pentru a vă relaxa cu un picnic după tur și a vă bucura de restul după-amiezii.",
-        "en": "Start your bike tour in the center of Ikast at Strøgcentret. From there, it's short rides to Ikast Church and Kunstpakhuset, where you can soak up some culture. The morning is an exploration of the urban core. In the afternoon, a longer, scenic bike ride takes you to the charming Isenvad Church. The route passes through the peaceful Danish countryside. Finally, cycle back to Frisenborg Park, the ideal place to relax with a picnic after the tour and enjoy the rest of the afternoon."
+        "en": "Start your bike tour in the center of Ikast at Strøgcentret. From there, it's short rides to Ikast Church and Kunstpakhuset, where you can soak up some culture. The morning is an exploration of the urban core. In the afternoon, a longer, scenic bike ride takes you to the charming Isenvad Church. The route passes through the peaceful Danish countryside. Finally, cycle back to Frisenborg Park, the ideal place to relax with a picnic after the tour and enjoy the rest of the afternoon.",
+        "da": "Start din cykeltur i Ikast centrum ved Strøgcentret. Derfra er det korte ture til Ikast Kirke og Kunstpakhuset, hvor du kan nyde lidt kultur. Formiddagen er en udforskning af byens centrum. Om eftermiddagen tager en længere, naturskøn cykeltur dig til den charmerende Isenvad Kirke. Ruten går gennem det fredelige danske landskab. Til sidst cykler du tilbage til Frisenborg Park, det ideelle sted at slappe af med en picnic efter turen og nyde resten af eftermiddagen."
       },
       "gastro_picks": {
         "de": [
@@ -835,6 +891,12 @@
           "A helmet is highly recommended.",
           "Take water and snacks for the longer tour.",
           "Check the weather forecast before you leave."
+        ],
+        "da": [
+          "Lej en cykel med gode gear til landskabet.",
+          "Hjelm anbefales kraftigt.",
+          "Tag vand og snacks med til den længere tur.",
+          "Tjek vejrudsigten inden du tager afsted."
         ]
       },
       "variants": {
@@ -843,7 +905,8 @@
             "de": "Eine Radtour durch Ikast bei Regen erfordert gute Ausrüstung, belohnt aber mit einsamen Wegen. Das Strøgcentret bietet eine trockene Pause zum Parken und Bummeln. Über die Kirche geht es zur Galerie, bevor wir die längere Fahrt nach Isenvad wagen. Der Rückweg führt durch den Frisenborg Park, wo die Natur im Regen besonders frisch duftet.",
             "hu": "Egy esős bringázás Ikast környékén jó felszerelést igényel, de csendes utakkal jutalmaz. A Strøgcentret száraz pihenőt kínál a nézelődéshez. A templom és a galéria után vágunk neki az isenvadi útnak. A visszaút a Frisenborg Parkon át vezet, ahol az esőben minden friss és zöld.",
             "ro": "O tură cu bicicleta prin Ikast pe ploaie necesită echipament bun, dar oferă drumuri libere. Strøgcentret oferă o pauză uscată pentru plimbare. După biserică și galerie, pornim spre Isenvad. Drumul de întoarcere prin parcul Frisenborg oferă un aer proaspăt după ploaie.",
-            "en": "A rainy bike tour around Ikast requires good gear but rewards you with quiet paths. Strøgcentret offers a dry break for window shopping. Visit the church and gallery before braving the ride to Isenvad. The return through Frisenborg Park features nature at its freshest scent."
+            "en": "A rainy bike tour around Ikast requires good gear but rewards you with quiet paths. Strøgcentret offers a dry break for window shopping. Visit the church and gallery before braving the ride to Isenvad. The return through Frisenborg Park features nature at its freshest scent.",
+            "da": "En regnfuld cykeltur rundt i Ikast kræver godt udstyr, men belønner dig med stille stier. Strøgcentret giver et tørt ophold til vindueskiggeri. Besøg kirken og galleriet, før du begiver dig mod Isenvad. Tilbagevejen gennem Frisenborg Park byder på natur i sin friskeste duft."
           },
           "stops": [
             {
@@ -852,7 +915,8 @@
                 "de": "Parken Sie Ihr Rad draußen und genießen Sie eine trockene Pause im Inneren.",
                 "hu": "Parkoljon le kint, és élvezze a száraz pihenőt a fedett sétányon.",
                 "ro": "Parcați bicicleta afară și bucurați-vă de o pauză uscată în interior.",
-                "en": "Park your bike outside and enjoy a dry break inside the covered mall."
+                "en": "Park your bike outside and enjoy a dry break inside the covered mall.",
+                "da": "Parkér din cykel udenfor og nyd en tør pause inde i det overdækkede center."
               }
             },
             {
@@ -861,7 +925,8 @@
                 "de": "Ein kurzer, trockener Stopp zur Besichtigung während eines Regenschauers.",
                 "hu": "Rövid, száraz megálló a nézelődéshez egy esőfelhő elvonulásáig.",
                 "ro": "O scurtă oprire uscată pentru vizitare în timpul unei averse.",
-                "en": "A short, dry stop for sightseeing while waiting for a shower to pass."
+                "en": "A short, dry stop for sightseeing while waiting for a shower to pass.",
+                "da": "Et kort, tørt stop til sightseeing mens du venter på, at bygen passerer."
               }
             },
             {
@@ -870,7 +935,8 @@
                 "de": "Lassen Sie Ihre Regenkleidung abtropfen und genießen Sie die Kunst.",
                 "hu": "Hagyja lecsepegni az esőkabátot, és merüljön el a művészetben.",
                 "ro": "Lăsați pelerina de ploaie la scurs și bucurați-vă de artă.",
-                "en": "Let your rain gear dry off while you immerse yourself in art."
+                "en": "Let your rain gear dry off while you immerse yourself in art.",
+                "da": "Lad regntøjet tørre, mens du fordyber dig i kunst."
               }
             },
             {
@@ -879,7 +945,8 @@
                 "de": "Achtung bei der Fahrt auf nasser Landstraße; die Kirche bietet guten Windschutz.",
                 "hu": "Vigyázzon a vizes országúton; a templomkert jó szélvédelmet nyújt.",
                 "ro": "Atenție la drumul ud; curtea bisericii oferă o bună protecție contra vântului.",
-                "en": "Be careful on the wet rural roads; the church yard offers good wind shelter."
+                "en": "Be careful on the wet rural roads; the church yard offers good wind shelter.",
+                "da": "Vær forsigtig på de våde landeveje; kirkegården giver godt læ for vinden."
               }
             },
             {
@@ -888,7 +955,8 @@
                 "de": "Vorsicht auf dem Radweg bei Laub und Nässe; der Park wirkt mystisch im Regen.",
                 "hu": "Vigyázzon a csúszós levelekre; a park misztikus hangulatú az esőben.",
                 "ro": "Atenție la frunzele ude pe pistă; parcul are o atmosferă mistică pe ploaie.",
-                "en": "Watch out for slippery leaves on the path; the park feels mystical in the rain."
+                "en": "Watch out for slippery leaves on the path; the park feels mystical in the rain.",
+                "da": "Pas på glatte blade på stien; parken føles mystisk i regnvejr."
               }
             }
           ],
@@ -916,6 +984,12 @@
               "The route to Isenvad is exposed; expect headwind during rain.",
               "Waterproof panniers are essential for protecting your valuables.",
               "Watch out for road markings, which can be extremely slippery when wet."
+            ],
+            "da": [
+              "Brug skærme for at beskytte dig mod vandsprøjt fra vejen.",
+              "Ruten til Isenvad er udsat; forvent modvind i regnvejr.",
+              "Vandtætte cykeltasker er essentielle for at beskytte dine værdigenstande.",
+              "Pas på vejmarkeringer, der kan være ekstremt glatte, når de er våde."
             ]
           }
         },
@@ -924,7 +998,8 @@
             "de": "Radfahren im winterlichen Ikast ist erfrischend und hält warm. Wir starten am Strøgcentret, wo die warme Luft aus den Shops nach draußen dringt. Nach den Stopps in der Kirche und im Kunstpakhuset führt die Tour durch die frostige Landschaft nach Isenvad. Der Tag endet im Frisenborg Park, wo die Wintersonne die kahlen Bäume in goldenes Licht taucht.",
             "hu": "A bringázás a téli Ikastban frissítő élmény és jól átmelegít. A Strøgcentretnél kezdünk, ahol az üzletekből kiáramló meleg levegő fogad. A templom és a galéria után a fagyos tájon át tekerünk Isenvad felé. A nap a Frisenborg Parkban zárul, ahol a téli naplemente aranyfénybe vonja a kopár fákat.",
             "ro": "Ciclismul în Ikast pe timp de iarnă este revigorant și te menține cald. Începem la Strøgcentret, unde aerul cald din magazine ajunge afară. După biserică și galerie, pedalăm prin peisajul înghețat spre Isenvad. Ziua se încheie în parcul Frisenborg, sub lumina aurie a apusului de iarnă.",
-            "en": "Cycling in winter Ikast is refreshing and keeps you warm. We start at Strøgcentret, where warm air spills out from the shops. After the church and gallery stops, ride through the frosty landscape to Isenvad. The day ends at Frisenborg Park, with the low winter sun casting golden light on the bare trees."
+            "en": "Cycling in winter Ikast is refreshing and keeps you warm. We start at Strøgcentret, where warm air spills out from the shops. After the church and gallery stops, ride through the frosty landscape to Isenvad. The day ends at Frisenborg Park, with the low winter sun casting golden light on the bare trees.",
+            "da": "At cykle i vinterens Ikast er oplivende og holder dig varm. Vi starter ved Strøgcentret, hvor varm luft strømmer ud fra butikkerne. Efter stop ved kirken og galleriet, kør gennem det frostklare landskab til Isenvad. Dagen slutter i Frisenborg Park, hvor den lave vintersol kaster gyldent lys over de nøgne træer."
           },
           "stops": [
             {
@@ -933,7 +1008,8 @@
                 "de": "Ein idealer Ort für eine Aufwärmpause, bevor es auf die Landstraße geht.",
                 "hu": "Ideális hely egy melegedő szünetre, mielőtt kimennénk az országútra.",
                 "ro": "Un loc ideal pentru o pauză de încălzire înainte de a ieși pe drumul principal.",
-                "en": "An ideal spot for a warming break before heading out on the rural roads."
+                "en": "An ideal spot for a warming break before heading out on the rural roads.",
+                "da": "Et ideelt sted til en opvarmende pause, inden du begiver dig ud på landevejene."
               }
             },
             {
@@ -942,7 +1018,8 @@
                 "de": "Die Kirche bietet im Winter eine willkommene kurze Rast in Windstille.",
                 "hu": "A templom télen szívesen látott rövid pihenőt kínál a szélcsendben.",
                 "ro": "Biserica oferă o scurtă odihnă binevenită la adăpost de vânt.",
-                "en": "The church offers a welcome short rest in a windless environment."
+                "en": "The church offers a welcome short rest in a windless environment.",
+                "da": "Kirken tilbyder et velkomment kort hvil i et vindstille miljø."
               }
             },
             {
@@ -951,7 +1028,8 @@
                 "de": "Perfekt, um die steif gefrorenen Finger bei zeitgenössischer Kunst zu wärmen.",
                 "hu": "Tökéletes hely a megfagyott ujjak felmelegítésére a kortárs művek közt.",
                 "ro": "Perfect pentru a vă încălzi degetele înghețate admirând arta contemporană.",
-                "en": "Perfect for warming up frozen fingers while admiring contemporary art."
+                "en": "Perfect for warming up frozen fingers while admiring contemporary art.",
+                "da": "Perfekt til at varme frosne fingre, mens du beundrer samtidskunst."
               }
             },
             {
@@ -960,7 +1038,8 @@
                 "de": "Achten Sie auf Eisplatten auf dem Radweg außerhalb der Stadt.",
                 "hu": "Vigyázzon a lefagyásokra a városon kívüli kerékpárúton.",
                 "ro": "Atenție la porțiunile cu gheață pe pista de biciclete din afara orașului.",
-                "en": "Watch out for patches of ice on the bike path outside the town."
+                "en": "Watch out for patches of ice on the bike path outside the town.",
+                "da": "Pas på isglatte pletter på cykelstien uden for byen."
               }
             },
             {
@@ -969,7 +1048,8 @@
                 "de": "Genießen Sie die Winterluft, aber radeln Sie vorsichtig bei Frost.",
                 "hu": "Élvezze a téli levegőt, de tekerjen óvatosan a fagyos utakon.",
                 "ro": "Bucurați-vă de aerul de iarnă, dar pedalați cu atenție pe ger.",
-                "en": "Enjoy the crisp winter air, but cycle carefully on frosty paths."
+                "en": "Enjoy the crisp winter air, but cycle carefully on frosty paths.",
+                "da": "Nyd den klare vinterluft, men cykl forsigtigt på frostklædte stier."
               }
             }
           ],
@@ -997,6 +1077,12 @@
               "Be aware of road salt which can damage your bike; clean it after the ride.",
               "Daylight is brief; check your bike lights thoroughly before starting.",
               "Darkness sets in early – always wear high-visibility reflective clothing."
+            ],
+            "da": [
+              "Gode handsker og en hue under hjelmen er et must i den danske vinter.",
+              "Vær opmærksom på vejens salt, som kan skade din cykel; rengør den efter turen.",
+              "Dagslyset er kort; tjek dine cykellygter grundigt inden afgang.",
+              "Mørket falder tidligt på – brug altid synligt reflekterende tøj."
             ]
           }
         }
@@ -1015,7 +1101,8 @@
             "de": "Harrild Hede (Naturreservat)",
             "hu": "Harrild Hede (természetvédelmi terület)",
             "ro": "Harrild Hede (rezervație naturală)",
-            "en": "Harrild Hede (nature reserve)"
+            "en": "Harrild Hede (nature reserve)",
+            "da": "Harrild Hede (naturreservat)"
           },
           "coords": [
             9.28,
@@ -1031,7 +1118,8 @@
             "de": "Starten Sie den Tag in der Natur. Die Wanderwege hier sind perfekt für einen Morgenspaziergang.",
             "hu": "Kezdje a napot a természetben. Az itteni túraútvonalak tökéletesek egy reggeli sétához.",
             "ro": "Începeți ziua în natură. Traseele de drumeții de aici sunt perfecte pentru o plimbare de dimineață.",
-            "en": "Start the day in nature. The hiking trails here are perfect for a morning walk."
+            "en": "Start the day in nature. The hiking trails here are perfect for a morning walk.",
+            "da": "Start dagen i naturen. Stierne her er perfekte til en morgentur."
           }
         },
         {
@@ -1039,7 +1127,8 @@
             "de": "Isenvad Kirche",
             "hu": "Isenvadi templom",
             "ro": "Biserica Isenvad",
-            "en": "Isenvad Church"
+            "en": "Isenvad Church",
+            "da": "Isenvad Kirke"
           },
           "coords": [
             9.23,
@@ -1055,7 +1144,8 @@
             "de": "Eine kurze Fahrt von der Heide entfernt. Eine kleine, aber feine Dorfkirche.",
             "hu": "Rövid autóútra a fenyértől. Kicsi, de szép falusi templom.",
             "ro": "La o scurtă distanță cu mașina de erica. O biserică de sat mică, dar frumoasă.",
-            "en": "A short drive from the heath. A small but fine village church."
+            "en": "A short drive from the heath. A small but fine village church.",
+            "da": "En kort køretur fra heden. En lille men fin landsbykirke."
           }
         },
         {
@@ -1063,7 +1153,8 @@
             "de": "Parkplatz Strøgcentret",
             "hu": "Parkoló a Strøgcentret-nél",
             "ro": "Parcare Strøgcentret",
-            "en": "Parking at Strøgcentret"
+            "en": "Parking at Strøgcentret",
+            "da": "Parkering ved Strøgcentret"
           },
           "coords": [
             9.149,
@@ -1079,7 +1170,8 @@
             "de": "Parken Sie hier, um den Stadtkern zu Fuß zu erkunden. Dies ist Ihr erster Cluster-Stopp.",
             "hu": "Parkoljon le itt, hogy gyalog fedezze fel a városközpontot. Ez az első klaszter-megállója.",
             "ro": "Parcați aici pentru a explora centrul orașului pe jos. Acesta este primul dvs. popas în cluster.",
-            "en": "Park here to explore the city core on foot. This is your first cluster stop."
+            "en": "Park here to explore the city core on foot. This is your first cluster stop.",
+            "da": "Parkér her for at udforske byens kerne til fods. Dette er dit første klynge-stop."
           }
         },
         {
@@ -1087,7 +1179,8 @@
             "de": "Mittagessen im Zentrum",
             "hu": "Ebéd a központban",
             "ro": "Prânz în centru",
-            "en": "Lunch in the center"
+            "en": "Lunch in the center",
+            "da": "Frokost i centrum"
           },
           "coords": [
             9.151,
@@ -1103,7 +1196,8 @@
             "de": "Wählen Sie eines der vielen Restaurants rund um die Fußgängerzone.",
             "hu": "Válasszon a sétálóutca körüli számos étterem közül.",
             "ro": "Alegeți unul dintre numeroasele restaurante din jurul zonei pietonale.",
-            "en": "Choose one of the many restaurants around the pedestrian area."
+            "en": "Choose one of the many restaurants around the pedestrian area.",
+            "da": "Vælg en af de mange restauranter omkring gågaden."
           }
         },
         {
@@ -1111,7 +1205,8 @@
             "de": "Ikast Kirche",
             "hu": "Ikasti templom",
             "ro": "Biserica Ikast",
-            "en": "Ikast Church"
+            "en": "Ikast Church",
+            "da": "Ikast Kirke"
           },
           "coords": [
             9.154,
@@ -1127,7 +1222,8 @@
             "de": "Ein kurzer Spaziergang vom Mittagessen entfernt, um die moderne Architektur zu bewundern.",
             "hu": "Rövid séta az ebédtől, hogy megcsodálja a modern építészetet.",
             "ro": "La o scurtă plimbare de la prânz pentru a admira arhitectura modernă.",
-            "en": "A short walk from lunch to admire the modern architecture."
+            "en": "A short walk from lunch to admire the modern architecture.",
+            "da": "En kort gåtur fra frokosten for at beundre den moderne arkitektur."
           }
         },
         {
@@ -1135,7 +1231,8 @@
             "de": "Kunstpakhuset",
             "hu": "Kunstpakhuset",
             "ro": "Kunstpakhuset",
-            "en": "Kunstpakhuset"
+            "en": "Kunstpakhuset",
+            "da": "Kunstpakhuset"
           },
           "coords": [
             9.156,
@@ -1151,7 +1248,8 @@
             "de": "Beenden Sie Ihren Spaziergang durch das Zentrum mit einem Besuch der Kunstgalerie.",
             "hu": "Zárja a központi sétát a művészeti galéria meglátogatásával.",
             "ro": "Încheiați-vă plimbarea prin centru cu o vizită la galeria de artă.",
-            "en": "End your walk through the center with a visit to the art gallery."
+            "en": "End your walk through the center with a visit to the art gallery.",
+            "da": "Afslut din gåtur gennem centrum med et besøg på kunstgalleriet."
           }
         },
         {
@@ -1159,7 +1257,8 @@
             "de": "Frisenborg Parken",
             "hu": "Frisenborg Park",
             "ro": "Parcul Frisenborg",
-            "en": "Frisenborg Park"
+            "en": "Frisenborg Park",
+            "da": "Frisenborg Park"
           },
           "coords": [
             9.16,
@@ -1175,7 +1274,8 @@
             "de": "Fahren Sie zum Park für einen entspannten Ausklang des Tages.",
             "hu": "Vezessen a parkba egy pihentető napzárásra.",
             "ro": "Conduceți spre parc pentru o încheiere relaxantă a zilei.",
-            "en": "Drive to the park for a relaxing end to the day."
+            "en": "Drive to the park for a relaxing end to the day.",
+            "da": "Kør til parken for en afslappende afslutning på dagen."
           }
         }
       ],
@@ -1183,7 +1283,8 @@
         "de": "Ihr Tag mit dem Auto beginnt mit einem Ausflug in die Natur. Fahren Sie zur Harrild Hede für eine morgendliche Wanderung, gefolgt von einem Besuch der ruhigen Isenvad Kirche. Dies bildet Ihren ersten Outdoor-Cluster. Anschließend fahren Sie ins Zentrum von Ikast, parken Ihr Auto und erkunden den zweiten Cluster zu Fuß: Mittagessen, die moderne Ikast Kirche und das Kunstpakhuset. Der Nachmittag steht im Zeichen von Kultur und Stadtleben. Zum Abschluss des Tages fahren Sie zum Frisenborg Parken, um sich im Grünen zu entspannen und die Eindrücke des Tages Revue passieren zu lassen.",
         "hu": "Az autós napja egy természeti kirándulással kezdődik. Vezessen a Harrild Hede-hez egy reggeli túrára, majd látogasson el a csendes Isenvadi templomhoz. Ez alkotja az első szabadtéri klasztert. Ezután vezessen Ikast központjába, parkolja le az autót, és fedezze fel gyalog a második klasztert: ebéd, a modern Ikasti templom és a Kunstpakhuset. A délután a kultúra és a városi élet jegyében telik. A nap lezárásaként vezessen a Frisenborg Parkba, hogy a zöldben pihenjen és átgondolja a nap élményeit.",
         "ro": "Ziua dvs. cu mașina începe cu o excursie în natură. Conduceți spre Harrild Hede pentru o drumeție de dimineață, urmată de o vizită la liniștita Biserică Isenvad. Acesta formează primul dvs. cluster în aer liber. Apoi, conduceți spre centrul orașului Ikast, parcați mașina și explorați al doilea cluster pe jos: prânz, moderna Biserică Ikast și Kunstpakhuset. După-amiaza este dedicată culturii și vieții urbane. Pentru a încheia ziua, conduceți spre Parcul Frisenborg pentru a vă relaxa în verdeață și a reflecta asupra impresiilor zilei.",
-        "en": "Your day by car begins with a trip into nature. Drive to Harrild Hede for a morning hike, followed by a visit to the quiet Isenvad Church. This forms your first outdoor cluster. Then drive into the center of Ikast, park your car, and explore the second cluster on foot: lunch, the modern Ikast Church, and Kunstpakhuset. The afternoon is all about culture and city life. To end the day, drive to Frisenborg Park to relax in the greenery and reflect on the day's impressions."
+        "en": "Your day by car begins with a trip into nature. Drive to Harrild Hede for a morning hike, followed by a visit to the quiet Isenvad Church. This forms your first outdoor cluster. Then drive into the center of Ikast, park your car, and explore the second cluster on foot: lunch, the modern Ikast Church, and Kunstpakhuset. The afternoon is all about culture and city life. To end the day, drive to Frisenborg Park to relax in the greenery and reflect on the day's impressions.",
+        "da": "Din dag i bil begynder med en tur ud i naturen. Kør til Harrild Hede for en morgenvandring, efterfulgt af et besøg ved den rolige Isenvad Kirke. Dette danner dit første udendørsklynge. Kør derefter ind til Ikast centrum, parker bilen, og udforsk den anden klynge til fods: frokost, den moderne Ikast Kirke og Kunstpakhuset. Eftermiddagen handler om kultur og byliv. Afslut dagen ved at køre til Frisenborg Park for at slappe af i grønne omgivelser og reflektere over dagens indtryk."
       },
       "gastro_picks": {
         "de": [
@@ -1359,6 +1460,12 @@
           "Parking in the center can be paid, have coins or a parking app ready.",
           "Allow enough time for traffic, especially in the afternoon.",
           "A car gives you the flexibility to make spontaneous stops."
+        ],
+        "da": [
+          "Brug en navigation app for at finde de bedste ruter mellem destinationerne.",
+          "Parkering i centrum kan være betalingsparkering, hav mønter eller en parkeringsapp klar.",
+          "Afsæt nok tid til trafikken, især om eftermiddagen.",
+          "En bil giver dig fleksibilitet til at lave spontane stop."
         ]
       },
       "variants": {
@@ -1367,7 +1474,8 @@
             "de": "Mit dem Auto erkunden wir Ikast und Umgebung bequem im Trockenen. Wir starten in der nebligen Harrild Hede, bevor wir zur Isenvad Kirche fahren. Das Parkhaus am Strøgcentret ermöglicht einen regenfreien Zugang zum Zentrum. Nach dem Mittagessen und der Ikast Kirche besuchen wir das Kunstpakhuset, während es draußen stürmt. Der Tag endet ruhig am Frisenborg Park.",
             "hu": "Autóval kényelmesen és szárazon fedezhetjük fel Ikast környékét. A ködös Harrild Hedénél kezdünk, majd Isenvad felé vesszük az irányt. A Strøgcentret melletti parkolóból esőmentesen jutunk a központba. Ebéd és a templom után a Kunstpakhuset tárlatait nézzük meg, miközben kint viharos az idő. A nap a Frisenborg Parknál zárul.",
             "ro": "Cu mașina, explorăm Ikast și împrejurimile confortabil și uscat. Începem în zona Harrild Hede, adesea cețoasă, apoi mergem la Isenvad. Parcarea de la Strøgcentret oferă acces facil la centru. După prânz și vizitarea bisericii, ne adăpostim la Kunstpakhuset. Ziua se termină liniștit lângă parcul Frisenborg.",
-            "en": "By car, we explore Ikast and its surroundings comfortably and dry. Start at the misty Harrild Hede before driving to Isenvad. Parking at Strøgcentret allows rain-free access to the pedestrian heart. After lunch and the church visit, enjoy Kunstpakhuset while it storms outside. The day ends peacefully by Frisenborg Park."
+            "en": "By car, we explore Ikast and its surroundings comfortably and dry. Start at the misty Harrild Hede before driving to Isenvad. Parking at Strøgcentret allows rain-free access to the pedestrian heart. After lunch and the church visit, enjoy Kunstpakhuset while it storms outside. The day ends peacefully by Frisenborg Park.",
+            "da": "Med bil udforsker vi Ikast og omegn bekvemt og tørt. Start ved den tågede Harrild Hede, før du kører til Isenvad. Parkering ved Strøgcentret giver regnfri adgang til gågadehjertet. Efter frokost og kirkebesøg, nyd Kunstpakhuset mens det stormer udenfor. Dagen slutter fredeligt ved Frisenborg Park."
           },
           "stops": [
             {
@@ -1376,7 +1484,8 @@
                 "de": "Genießen Sie die Heide vom Autofenster aus oder bei einem kurzen Lauf im Regen.",
                 "hu": "Csodálja a pusztát az autó ablakából, vagy tegyen egy villámgyors kört az esőben.",
                 "ro": "Admirați câmpia din fereastra mașinii sau faceți o scurtă plimbare prin ploaie.",
-                "en": "Admire the heath from your car window or take a very quick dash through the rain."
+                "en": "Admire the heath from your car window or take a very quick dash through the rain.",
+                "da": "Beundr heden fra bilvinduet eller tag en meget kort sprint gennem regnen."
               }
             },
             {
@@ -1385,7 +1494,8 @@
                 "de": "Parken Sie direkt vor der Tür für einen schnellen, trockenen Besuch.",
                 "hu": "Parkoljon közvetlenül a bejáratnál a gyors és száraz látogatáshoz.",
                 "ro": "Parcați chiar în fața ușii pentru o vizită rapidă și uscată.",
-                "en": "Park right by the entrance for a quick and dry visit to the church."
+                "en": "Park right by the entrance for a quick and dry visit to the church.",
+                "da": "Parkér lige ved indgangen for et hurtigt og tørt besøg i kirken."
               }
             },
             {
@@ -1394,7 +1504,8 @@
                 "de": "Nutzen Sie den überdachten Zugang zum Shopping-Center.",
                 "hu": "Használja a fedett bejáratot a sétálóutca felé.",
                 "ro": "Folosiți accesul acoperit către centrul comercial.",
-                "en": "Use the sheltered access points leading into the shopping center."
+                "en": "Use the sheltered access points leading into the shopping center.",
+                "da": "Benyt de overdækkede adgangsveje, der fører ind i shoppingcentret."
               }
             },
             {
@@ -1403,7 +1514,8 @@
                 "de": "Ein gemütlicher Platz im Trockenen, während der Regen gegen die Scheiben trommelt.",
                 "hu": "Barátságos hely a szárazon, miközben az eső kopog az ablakon.",
                 "ro": "Un loc primitor și uscat, în timp ce ploaia bate în geamuri.",
-                "en": "A cozy spot in the dry while the rain drums against the windows."
+                "en": "A cozy spot in the dry while the rain drums against the windows.",
+                "da": "Et hyggeligt sted i tørvejr, mens regnen trommer på vinduerne."
               }
             },
             {
@@ -1412,7 +1524,8 @@
                 "de": "Kurze Wege vom Parkplatz zur Kirche minimieren den Kontakt mit dem Regen.",
                 "hu": "A parkolótól a templomig tartó rövid út minimalizálja az esővel való érintkezést.",
                 "ro": "Distanța scurtă de la parcare la biserică minimizează contactul cu ploaia.",
-                "en": "The short walk from the parking lot to the church minimizes rain exposure."
+                "en": "The short walk from the parking lot to the church minimizes rain exposure.",
+                "da": "Den korte gåtur fra parkeringspladsen til kirken minimerer regneksponering."
               }
             },
             {
@@ -1421,7 +1534,8 @@
                 "de": "Das ideale Ziel bei starkem Regen; bleiben Sie so lange Sie möchten im Warmen.",
                 "hu": "Ideális célpont heves esőben; maradjon a melegben, ameddig csak szeretne.",
                 "ro": "Destinația ideală pe ploaie torențială; rămâneți la căldură cât doriți.",
-                "en": "The ideal destination during heavy rain; stay in the warm as long as you like."
+                "en": "The ideal destination during heavy rain; stay in the warm as long as you like.",
+                "da": "Den ideelle destination under kraftig regn; bliv i varmen så længe du har lyst."
               }
             },
             {
@@ -1430,7 +1544,8 @@
                 "de": "Ein Blick auf den See vom Parkplatz aus ist auch bei Regen entspannend.",
                 "hu": "A tó látványa a parkolóból is pihentető, még esős időben is.",
                 "ro": "Vederea spre lac din parcare este relaxantă chiar și pe ploaie.",
-                "en": "A view of the lake from the parking area is relaxing even in rainy weather."
+                "en": "A view of the lake from the parking area is relaxing even in rainy weather.",
+                "da": "Udsigt over søen fra parkeringsområdet er afslappende, selv i regnvejr."
               }
             }
           ],
@@ -1458,6 +1573,12 @@
               "Parking at Strøgcentret is often free for a limited time (use a parking disc).",
               "Harrild Hede can be very misty during heavy rain; drive with lights on.",
               "Keep an umbrella in the car for the short walks from parking lots to entrances."
+            ],
+            "da": [
+              "Pas på vandplaning på landevejene omkring Ikast.",
+              "Parkering ved Strøgcentret er ofte gratis i en begrænset tid (brug parkeringsskive).",
+              "Harrild Hede kan være meget tåget under kraftig regn; kør med lysene tændt.",
+              "Hav en paraply i bilen til de korte gåture fra parkeringspladserne til indgange."
             ]
           }
         },
@@ -1466,7 +1587,8 @@
             "de": "Eine winterliche Autofahrt zeigt die raue Schönheit Jütlands. Wir starten in der frostigen Harrild Hede, wo der Raureif die Heide bedeckt. Über Isenvad geht es ins warme Ikast. Das Strøgcentret ist winterlich dekoriert und lädt zum Bummeln ein. Nach Kultur in Kirche und Kunstpakhuset genießen wir die klare Winterluft im Frisenborg Park, bevor wir die Heizung im Auto wieder aufdrehen.",
             "hu": "A téli autós túra Jylland zord szépségét mutatja be. A zúzmarás Harrild Hedénél kezdünk, ahol a dér mindent beborít. Isenvadon át érkezünk a meleg Ikastba. A Strøgcentret ünnepi díszben várja a látogatókat. A templom és galéria után a tiszta téli levegőt élvezzük a Frisenborg Parkban, majd visszaülünk a fűtött autóba.",
             "ro": "O călătorie cu mașina iarna arată frumusețea aspră a Iutlandei. Începem la Harrild Hede, unde chiciura acoperă câmpia. Mergem spre Ikastul primitor prin Isenvad. Strøgcentret este decorat festiv pentru plimbare. După biserică și galerie, savurăm aerul curat în parcul Frisenborg înainte de a porni căldura în mașină.",
-            "en": "A winter car tour showcases the rugged beauty of Jutland. Start at the frosty Harrild Hede, where rime frost covers the heath. Drive through Isenvad to cozy Ikast. Strøgcentret is festively decorated for a winter stroll. After the church and gallery, enjoy the crisp air at Frisenborg Park before retreating to your heated car."
+            "en": "A winter car tour showcases the rugged beauty of Jutland. Start at the frosty Harrild Hede, where rime frost covers the heath. Drive through Isenvad to cozy Ikast. Strøgcentret is festively decorated for a winter stroll. After the church and gallery, enjoy the crisp air at Frisenborg Park before retreating to your heated car.",
+            "da": "En vinterbiltur viser Jyllands robuste skønhed. Start ved frostklare Harrild Hede, hvor rimfrost dækker heden. Kør gennem Isenvad til hyggelige Ikast. Strøgcentret er festligt pyntet til en vintervandring. Efter kirke og galleri, nyd den klare luft i Frisenborg Park inden du trækker dig tilbage til din opvarmede bil."
           },
           "stops": [
             {
@@ -1475,7 +1597,8 @@
                 "de": "Die gefrorene Heide ist fotogen; bleiben Sie auf den festen Wegen.",
                 "hu": "A fagyott puszta rendkívül fotogén; maradjon a kijelölt utakon.",
                 "ro": "Câmpia înghețată este foarte fotogenică; rămâneți pe drumurile principale.",
-                "en": "The frozen heath is very photogenic; stick to the solid paths."
+                "en": "The frozen heath is very photogenic; stick to the solid paths.",
+                "da": "Den frostklædte hede er meget fotogen; hold dig til de faste stier."
               }
             },
             {
@@ -1484,7 +1607,8 @@
                 "de": "Die kleine Kirche wirkt im Winterschnee besonders idyllisch.",
                 "hu": "A kis templom a téli hóban különösen idilli látványt nyújt.",
                 "ro": "Mica biserică arată deosebit de idilic sub zăpada de iarnă.",
-                "en": "The small church looks particularly idyllic in the winter snow."
+                "en": "The small church looks particularly idyllic in the winter snow.",
+                "da": "Den lille kirke ser særligt idyllisk ud i vintersneen."
               }
             },
             {
@@ -1493,7 +1617,8 @@
                 "de": "Vorsicht vor Glätte auf dem Parkplatz beim Aussteigen.",
                 "hu": "Vigyázzon a csúszós felületekre a parkolóban kiszálláskor.",
                 "ro": "Atenție la polei în parcare atunci când coborâți din mașină.",
-                "en": "Watch out for slippery patches in the parking lot when getting out."
+                "en": "Watch out for slippery patches in the parking lot when getting out.",
+                "da": "Pas på glatte pletter på parkeringspladsen, når du stiger ud."
               }
             },
             {
@@ -1502,7 +1627,8 @@
                 "de": "Genießen Sie typisch dänische Wintergerichte zur Stärkung.",
                 "hu": "Kóstoljon meg tipikus dán téli ételeket az erőgyűjtéshez.",
                 "ro": "Savurați mâncăruri tipice daneze de iarnă pentru a vă revigora.",
-                "en": "Enjoy some typical Danish winter dishes to recharge your energy."
+                "en": "Enjoy some typical Danish winter dishes to recharge your energy.",
+                "da": "Nyd nogle typiske danske vinterretter for at genoplade din energi."
               }
             },
             {
@@ -1511,7 +1637,8 @@
                 "de": "Wärmen Sie sich kurz auf und bewundern Sie die Winterdekoration.",
                 "hu": "Melegedjen fel egy kicsit, és csodálja meg a téli díszítést.",
                 "ro": "Încălziți-vă puțin și admirați decorațiunile de iarnă.",
-                "en": "Warm up for a moment and admire the seasonal winter decorations."
+                "en": "Warm up for a moment and admire the seasonal winter decorations.",
+                "da": "Varm dig et øjeblik og beundr de sæsonbestemte vinterdekorationer."
               }
             },
             {
@@ -1520,7 +1647,8 @@
                 "de": "Ein warmer Kulturstopp, bevor es wieder in die Kälte geht.",
                 "hu": "Meleg kulturális megálló, mielőtt visszatérne a hidegbe.",
                 "ro": "O oprire culturală călduroasă înainte de a ieși din nou în frig.",
-                "en": "A warm cultural stop before heading back out into the cold."
+                "en": "A warm cultural stop before heading back out into the cold.",
+                "da": "Et varmt kulturelt stop, inden du tager tilbage ud i kulden."
               }
             },
             {
@@ -1529,7 +1657,8 @@
                 "de": "Ein kurzer Winterspaziergang am See belebt die Geister.",
                 "hu": "Egy rövid téli séta a tónál frissítően hat a lélekre.",
                 "ro": "O scurtă plimbare de iarnă pe lângă lac este revigorantă.",
-                "en": "A short winter walk by the lake is very refreshing for the soul."
+                "en": "A short winter walk by the lake is very refreshing for the soul.",
+                "da": "En kort vintergåtur ved søen er meget opløftende for sjælen."
               }
             }
           ],
@@ -1557,6 +1686,12 @@
               "The roads to Harrild Hede can be treacherous during sudden snowfall.",
               "Use the seat heating to warm up quickly between sightseeing stops.",
               "Keep an ice scraper and possibly a blanket in the car at all times."
+            ],
+            "da": [
+              "Sørg for, at din bil er vinterklar (frostvæske, vinterdæk).",
+              "Vejene til Harrild Hede kan være farlige ved pludselig snefald.",
+              "Brug sædevarme for hurtigt at varme op mellem seværdighederne.",
+              "Hav en isskraber og eventuelt et tæppe i bilen til enhver tid."
             ]
           }
         }
@@ -1575,7 +1710,8 @@
             "de": "Ankunft am Bahnhof Ikast",
             "hu": "Érkezés az Ikast vasútállomásra",
             "ro": "Sosire la gara Ikast",
-            "en": "Arrival at Ikast station"
+            "en": "Arrival at Ikast station",
+            "da": "Ankomst til Ikast station"
           },
           "coords": [
             9.158,
@@ -1591,7 +1727,8 @@
             "de": "Kaufen Sie eine Tageskarte für den Bus, um sich flexibel bewegen zu können.",
             "hu": "Vásároljon napijegyet a buszra a rugalmas közlekedés érdekében.",
             "ro": "Cumpărați un bilet de o zi pentru autobuz pentru a vă deplasa flexibil.",
-            "en": "Buy a day pass for the bus to move around flexibly."
+            "en": "Buy a day pass for the bus to move around flexibly.",
+            "da": "Køb en dagsbillet til bussen for at bevæge dig fleksibelt rundt."
           }
         },
         {
@@ -1599,7 +1736,8 @@
             "de": "Strøgcentret",
             "hu": "Strøgcentret",
             "ro": "Strøgcentret",
-            "en": "Strøgcentret"
+            "en": "Strøgcentret",
+            "da": "Strøgcentret"
           },
           "coords": [
             9.151,
@@ -1615,7 +1753,8 @@
             "de": "Ein kurzer Spaziergang vom Bahnhof. Erkunden Sie die Hauptstraße und frühstücken Sie.",
             "hu": "Rövid séta az állomástól. Fedezze fel a főutcát és reggelizzen.",
             "ro": "La o scurtă plimbare de gară. Explorați strada principală și luați micul dejun.",
-            "en": "A short walk from the station. Explore the main street and have breakfast."
+            "en": "A short walk from the station. Explore the main street and have breakfast.",
+            "da": "En kort gåtur fra stationen. Udforsk hovedgaden og spis morgenmad."
           }
         },
         {
@@ -1623,7 +1762,8 @@
             "de": "Kunstpakhuset",
             "hu": "Kunstpakhuset",
             "ro": "Kunstpakhuset",
-            "en": "Kunstpakhuset"
+            "en": "Kunstpakhuset",
+            "da": "Kunstpakhuset"
           },
           "coords": [
             9.156,
@@ -1639,7 +1779,8 @@
             "de": "Im selben Fußgänger-Cluster wie das Zentrum, leicht zu Fuß erreichbar.",
             "hu": "Ugyanabban a gyalogos klaszterben, mint a központ, könnyen megközelíthető gyalog.",
             "ro": "În același cluster pietonal ca și centrul, ușor accesibil pe jos.",
-            "en": "In the same pedestrian cluster as the center, easily reachable on foot."
+            "en": "In the same pedestrian cluster as the center, easily reachable on foot.",
+            "da": "I samme gågadeklynge som centrum, nemt tilgængeligt til fods."
           }
         },
         {
@@ -1647,7 +1788,8 @@
             "de": "Ikast Svømmecenter",
             "hu": "Ikast Svømmecenter",
             "ro": "Centrul de înot Ikast",
-            "en": "Ikast Swimming Center"
+            "en": "Ikast Swimming Center",
+            "da": "Ikast Svømmecenter"
           },
           "coords": [
             9.165,
@@ -1663,7 +1805,8 @@
             "de": "Nehmen Sie einen Bus zu diesem zweiten Cluster. Perfekt für eine Nachmittagsaktivität.",
             "hu": "Menjen busszal ehhez a második klaszterhez. Tökéletes délutáni tevékenység.",
             "ro": "Luați un autobuz spre acest al doilea cluster. Perfect pentru o activitate de după-amiază.",
-            "en": "Take a bus to this second cluster. Perfect for an afternoon activity."
+            "en": "Take a bus to this second cluster. Perfect for an afternoon activity.",
+            "da": "Tag en bus til denne anden klynge. Perfekt til en eftermiddagsaktivitet."
           }
         },
         {
@@ -1671,7 +1814,8 @@
             "de": "Frisenborg Parken",
             "hu": "Frisenborg Park",
             "ro": "Parcul Frisenborg",
-            "en": "Frisenborg Park"
+            "en": "Frisenborg Park",
+            "da": "Frisenborg Park"
           },
           "coords": [
             9.16,
@@ -1687,7 +1831,8 @@
             "de": "Ein kurzer Spaziergang vom Schwimmzentrum, um den Tag entspannt ausklingen zu lassen.",
             "hu": "Rövid séta az uszodától, hogy pihentetően zárja a napot.",
             "ro": "La o scurtă plimbare de centrul de înot pentru a încheia ziua într-un mod relaxant.",
-            "en": "A short walk from the swimming center to end the day in a relaxed way."
+            "en": "A short walk from the swimming center to end the day in a relaxed way.",
+            "da": "En kort gåtur fra svømmecenteret for at afslutte dagen afslappet."
           }
         }
       ],
@@ -1695,7 +1840,8 @@
         "de": "Ihre Tour mit öffentlichen Verkehrsmitteln beginnt am Bahnhof von Ikast. Der erste Cluster ist das Stadtzentrum, das Sie zu Fuß erkunden: Strøgcentret und das nahegelegene Kunstpakhuset. Hier können Sie den Puls der Stadt spüren. Am Nachmittag nehmen Sie einen Bus zum zweiten Cluster, dem Freizeitbereich. Besuchen Sie das Ikast Svømmecenter für etwas Aktivität oder Entspannung. Anschließend spazieren Sie zum benachbarten Frisenborg Parken, um den Tag im Grünen ausklingen zu lassen, bevor Sie den Bus zurück zum Bahnhof nehmen.",
         "hu": "A tömegközlekedési túrája az ikasti vasútállomáson kezdődik. Az első klaszter a városközpont, amelyet gyalog fedez fel: a Strøgcentret és a közeli Kunstpakhuset. Itt érezheti a város lüktetését. Délután busszal utazik a második klaszterhez, a szabadidős területhez. Látogasson el az Ikast Svømmecenterbe egy kis mozgásért vagy pihenésért. Ezután sétáljon át a szomszédos Frisenborg Parkba, hogy a zöldben fejezze be a napot, mielőtt visszabuszozna az állomásra.",
         "ro": "Turul dvs. cu transportul public începe la gara din Ikast. Primul cluster este centrul orașului, pe care îl explorați pe jos: Strøgcentret și Kunstpakhuset din apropiere. Aici puteți simți pulsul orașului. După-amiaza, luați un autobuz spre al doilea cluster, zona de agrement. Vizitați Centrul de Înot Ikast pentru puțină activitate sau relaxare. Apoi, plimbați-vă până la Parcul Frisenborg adiacent pentru a încheia ziua în verdeață înainte de a lua autobuzul înapoi la gară.",
-        "en": "Your tour by public transport starts at Ikast train station. The first cluster is the city center, which you explore on foot: Strøgcentret and the nearby Kunstpakhuset. Here you can feel the pulse of the city. In the afternoon, you take a bus to the second cluster, the leisure area. Visit Ikast Swimming Center for some activity or relaxation. Afterwards, stroll over to the adjacent Frisenborg Park to end the day in the green before taking the bus back to the station."
+        "en": "Your tour by public transport starts at Ikast train station. The first cluster is the city center, which you explore on foot: Strøgcentret and the nearby Kunstpakhuset. Here you can feel the pulse of the city. In the afternoon, you take a bus to the second cluster, the leisure area. Visit Ikast Swimming Center for some activity or relaxation. Afterwards, stroll over to the adjacent Frisenborg Park to end the day in the green before taking the bus back to the station.",
+        "da": "Din tur med offentlig transport starter på Ikast station. Den første klynge er byens centrum, som du udforsker til fods: Strøgcentret og nærliggende Kunstpakhuset. Her kan du mærke byens puls. Om eftermiddagen tager du bussen til den anden klynge, fritidsområdet. Besøg Ikast Svømmecenter for aktivitet eller afslapning. Gå derefter over til tilstødende Frisenborg Park for at slutte dagen i det grønne, inden du tager bussen tilbage til stationen."
       },
       "gastro_picks": {
         "de": [
@@ -1871,6 +2017,12 @@
           "Pay attention to the departure time of the last bus back to the station.",
           "A power bank for your smartphone is useful for navigation and schedules.",
           "Validate your ticket every time you board."
+        ],
+        "da": [
+          "Download busplanen eller brug en app som Rejseplanen.",
+          "Vær opmærksom på afgangstiden for sidste bus tilbage til stationen.",
+          "En powerbank til din smartphone er nyttig til navigation og køreplaner.",
+          "Stempl din billet hver gang du går om bord."
         ]
       },
       "variants": {
@@ -1879,7 +2031,8 @@
             "de": "Mit dem Zug erreichen wir Ikast bequem bei jedem Wetter. Vom Bahnhof führt ein kurzer Weg ins trockene Strøgcentret. Den Mittag verbringen wir im Kunstpakhuset, bevor wir den Bus zum Schwimmzentrum nehmen, um dem Regen ganz zu entkommen. Ein kurzer Abstecher zum Frisenborg Park ist dank guter Busverbindungen auch bei Schauern möglich, bevor es zurück zum Bahnhof geht.",
             "hu": "Vonattal bármilyen időben kényelmesen elérhetjük Ikastot. A vasútállomástól rövid út vezet a száraz Strøgcentretbe. A delet a Kunstpakhusetben töltjük, majd busszal megyünk az uszodába, hogy teljesen elkerüljük az esőt. A Frisenborg Park is elérhető busszal, így a záporok között is tehetünk egy sétát a visszaindulás előtt.",
             "ro": "Cu trenul ajungem confortabil în Ikast pe orice vreme. De la gară e un drum scurt până la Strøgcentretul uscat. Prânzul îl petrecem la Kunstpakhuset, apoi luăm autobuzul spre centrul de înot. O scurtă vizită la parcul Frisenborg este posibilă datorită conexiunilor bune, înainte de a reveni la gară.",
-            "en": "Arrive in Ikast by train comfortably regardless of the weather. A short walk from the station leads to the dry Strøgcentret. Spend midday at Kunstpakhuset, then take a bus to the swimming center to escape the rain completely. Frisenborg Park is accessible by bus for a quick stroll between showers before heading back to the station."
+            "en": "Arrive in Ikast by train comfortably regardless of the weather. A short walk from the station leads to the dry Strøgcentret. Spend midday at Kunstpakhuset, then take a bus to the swimming center to escape the rain completely. Frisenborg Park is accessible by bus for a quick stroll between showers before heading back to the station.",
+            "da": "Ankom til Ikast med tog komfortabelt uanset vejret. En kort gåtur fra stationen fører til det tørre Strøgcentret. Tilbring middag på Kunstpakhuset, og tag derefter en bus til svømmecenteret for helt at undslippe regnen. Frisenborg Park er tilgængelig med bus for en hurtig gåtur mellem byger, før du vender tilbage til stationen."
           },
           "stops": [
             {
@@ -1888,7 +2041,8 @@
                 "de": "Der Bahnhof bietet einen kleinen Wartebereich im Trockenen.",
                 "hu": "A vasútállomás egy kis fedett várakozóhelyet kínál.",
                 "ro": "Gara oferă o mică zonă de așteptare la adăpost.",
-                "en": "The station offers a small sheltered waiting area to stay dry."
+                "en": "The station offers a small sheltered waiting area to stay dry.",
+                "da": "Stationen tilbyder et lille overdækket venteområde til at holde sig tør."
               }
             },
             {
@@ -1897,7 +2051,8 @@
                 "de": "Nur wenige Gehminuten vom Bahnhof entfernt beginnt die überdachte Zone.",
                 "hu": "Csak pár perc séta a vasútállomástól, és már a fedett részen vagyunk.",
                 "ro": "Zona acoperită începe la doar câteva minute de mers pe jos de la gară.",
-                "en": "The covered zone begins just a few minutes' walk from the station."
+                "en": "The covered zone begins just a few minutes' walk from the station.",
+                "da": "Den overdækkede zone begynder kun få minutters gang fra stationen."
               }
             },
             {
@@ -1906,7 +2061,8 @@
                 "de": "In der Nähe des Bahnhofs gelegen, ideal für einen regenfreien Kulturstopp.",
                 "hu": "A vasútállomás közelében található, ideális esőmentes kulturális pont.",
                 "ro": "Situat lângă gară, ideal pentru o oprire culturală fără ploaie.",
-                "en": "Located near the station, ideal for a rain-free cultural stop."
+                "en": "Located near the station, ideal for a rain-free cultural stop.",
+                "da": "Beliggende tæt på stationen, ideelt til et kulturbesøg uden at blive våd af regn."
               }
             },
             {
@@ -1915,7 +2071,8 @@
                 "de": "Nehmen Sie den lokalen Bus, um direkt vor dem Eingang auszusteigen.",
                 "hu": "Szálljon fel a helyi buszra, hogy közvetlenül a bejáratnál szállhasson le.",
                 "ro": "Luați autobuzul local pentru a coborî chiar în fața intrării.",
-                "en": "Take the local bus to jump out right in front of the entrance."
+                "en": "Take the local bus to jump out right in front of the entrance.",
+                "da": "Tag den lokale bus og stå af lige foran indgangen."
               }
             },
             {
@@ -1924,7 +2081,8 @@
                 "de": "Die Bushaltestelle ist nah am Park; so bleiben die Wege im Regen kurz.",
                 "hu": "A buszmegálló közel van a parkhoz, így rövid a gyalogút az esőben.",
                 "ro": "Stația de autobuz este aproape de parc, scurtând drumul prin ploaie.",
-                "en": "The bus stop is close to the park, keeping your walk in the rain short."
+                "en": "The bus stop is close to the park, keeping your walk in the rain short.",
+                "da": "Busstoppet ligger tæt på parken, så din gåtur i regnen bliver kort."
               }
             }
           ],
@@ -1952,6 +2110,12 @@
               "Buses in Ikast are clean and offer great protection from the wind and rain.",
               "The station is central, many destinations are reachable with short walks.",
               "Some bus stops are sheltered, making waiting much more comfortable."
+            ],
+            "da": [
+              "Brug Rejseplanen-appen til realtidsinfo om vejrafhængige forsinkelser.",
+              "Busserne i Ikast er rene og giver godt læ for vind og regn.",
+              "Stationen er central, mange destinationer nås med korte gåture.",
+              "Nogle stoppesteder har ly, hvilket gør ventetiden meget mere behagelig."
             ]
           }
         },
@@ -1960,7 +2124,8 @@
             "de": "Mit öffentlichen Verkehrsmitteln erkunden wir das winterliche Ikast ohne Parkplatzsorgen. Nach der Ankunft wärmen wir uns im Strøgcentret auf. Das Kunstpakhuset bietet eine kulturelle Pause in beheizten Räumen. Am Nachmittag bringt uns der Bus zum Schwimmzentrum, wo die Sauna lockt. Der Tag endet mit einem kurzen Blick in den Frisenborg Park, bevor der Zug uns wieder nach Hause bringt.",
             "hu": "Tömegközlekedéssel kényelmesen, parkolási gondok nélkül fedezhetjük fel a téli Ikastot. Érkezés után a Strøgcentretben melegszünk fel. A Kunstpakhuset fűtött termei kulturális kikapcsolódást nyújtanak. Délután buszra szállunk az uszoda felé, ahol a szauna vár. A napot egy rövid parki séta zárja a vonat visszaindulása előtt.",
             "ro": "Cu transportul public explorăm Ikastul de iarnă fără grija parcării. După sosire, ne încălzim în Strøgcentret. Kunstpakhuset oferă o pauză culturală în spații încălzite. După-amiaza, autobuzul ne duce la centrul de înot pentru o saună relaxantă. Ziua se încheie cu o scurtă vizită în parcul Frisenborg înainte de tren.",
-            "en": "Explore winter Ikast via public transit without worrying about parking or ice. After arrival, warm up in the covered Strøgcentret. Kunstpakhuset provides a cultural break in heated rooms. In the afternoon, take a bus to the swimming center for a sauna session. End the day with a quick stroll in Frisenborg Park before catching your train."
+            "en": "Explore winter Ikast via public transit without worrying about parking or ice. After arrival, warm up in the covered Strøgcentret. Kunstpakhuset provides a cultural break in heated rooms. In the afternoon, take a bus to the swimming center for a sauna session. End the day with a quick stroll in Frisenborg Park before catching your train.",
+            "da": "Udforsk vinterens Ikast med offentlig transport uden at bekymre dig om parkering eller is. Efter ankomst kan du varme dig i det overdækkede Strøgcentret. Kunstpakhuset giver et kulturelt afbræk i opvarmede rum. Om eftermiddagen tager du en bus til svømmecentret for en sauna. Afslut dagen med en kort gåtur i Frisenborg Park, før du tager toget."
           },
           "stops": [
             {
@@ -1969,7 +2134,8 @@
                 "de": "Prüfen Sie die Abfahrtszeiten im beheizten Wartebereich des Bahnhofs.",
                 "hu": "Ellenőrizze az indulási időket az állomás fűtött várótermében.",
                 "ro": "Verificați orele de plecare în zona de așteptare încălzită a gării.",
-                "en": "Check your departure times in the station's heated waiting area."
+                "en": "Check your departure times in the station's heated waiting area.",
+                "da": "Tjek dine afgangstider i stationens opvarmede ventesal."
               }
             },
             {
@@ -1978,7 +2144,8 @@
                 "de": "Dank der zentralen Lage ist dies der perfekte Ort zum Aufwärmen nach der Ankunft.",
                 "hu": "Központi elhelyezkedése miatt tökéletes hely a melegedésre érkezés után.",
                 "ro": "Datorită locației centrale, este locul perfect pentru încălzire după sosire.",
-                "en": "Thanks to its central location, it's the perfect spot to warm up after arrival."
+                "en": "Thanks to its central location, it's the perfect spot to warm up after arrival.",
+                "da": "Takket være den centrale beliggenhed er det det perfekte sted at varme sig efter ankomst."
               }
             },
             {
@@ -1987,7 +2154,8 @@
                 "de": "Genießen Sie die Ausstellungen in angenehm temperierter Umgebung.",
                 "hu": "Élvezze a kiállításokat kellemesen temperált környezetben.",
                 "ro": "Bucurați-vă de expoziții într-un mediu cu temperatură plăcută.",
-                "en": "Enjoy the exhibitions in a pleasantly temperature-controlled environment."
+                "en": "Enjoy the exhibitions in a pleasantly temperature-controlled environment.",
+                "da": "Nyd udstillingerne i et behageligt temperaturreguleret miljø."
               }
             },
             {
@@ -1996,7 +2164,8 @@
                 "de": "Busse fahren regelmäßig; ideal, um nicht lange in der Kälte zu warten.",
                 "hu": "A buszok rendszeresen járnak, így nem kell sokat várni a hidegben.",
                 "ro": "Autobuzele circulă regulat; ideal pentru a nu aștepta mult în frig.",
-                "en": "Buses run regularly, ensuring you don't have to wait long in the cold."
+                "en": "Buses run regularly, ensuring you don't have to wait long in the cold.",
+                "da": "Busserne kører regelmæssigt, så du behøver ikke vente længe i kulden."
               }
             },
             {
@@ -2005,7 +2174,8 @@
                 "de": "Planen Sie den Besuch vor Einbruch der Dunkelheit ein; Busse halten nahbei.",
                 "hu": "Tervezze a látogatást sötétedés elé; a buszok a közelben állnak meg.",
                 "ro": "Planificați vizita înainte de lăsarea întunericului; autobuzele opresc aproape.",
-                "en": "Plan your visit before darkness falls; buses stop very close to the park."
+                "en": "Plan your visit before darkness falls; buses stop very close to the park.",
+                "da": "Planlæg dit besøg før det bliver mørkt; busserne stopper meget tæt på parken."
               }
             }
           ],
@@ -2033,6 +2203,12 @@
               "Rely on digital displays at stops for the most up-to-date travel info.",
               "Paths between the station and the center are usually prioritized for snow removal.",
               "Buy your ticket online in advance to avoid standing at machines in the cold."
+            ],
+            "da": [
+              "Danske tog og busser er meget velopvarmede i vintermånederne.",
+              "Stol på digitale tavler ved stoppesteder for de mest opdaterede rejseoplysninger.",
+              "Stierne mellem stationen og centrum prioriteres ofte ved snerydning.",
+              "Køb din billet online på forhånd for at undgå at stå ved automater i kulden."
             ]
           }
         }

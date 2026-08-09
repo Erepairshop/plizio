@@ -21,7 +21,8 @@
             "de": "Bahnhof Bramming",
             "hu": "Brammingi pályaudvar",
             "ro": "Gara Bramming",
-            "en": "Bramming Station"
+            "en": "Bramming Station",
+            "da": "Bramming Station"
           },
           "coords": [
             8.6998,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die klassische dänische Bahnhofsarchitektur aus dem Jahr 1874.",
             "hu": "Csodálja meg az 1874-ből származó klasszikus dán vasútállomás-építészetet.",
             "ro": "Admirați arhitectura clasică a gării daneze, datând din 1874.",
-            "en": "Admire the classic Danish station architecture from 1874."
+            "en": "Admire the classic Danish station architecture from 1874.",
+            "da": "Beundr den klassiske danske stationsarkitektur fra 1874."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Sct. Ansgar Kirke",
             "hu": "Szent Ansgar-templom",
             "ro": "Biserica Sf. Ansgar",
-            "en": "Sct. Ansgar Church"
+            "en": "Sct. Ansgar Church",
+            "da": "Sct. Ansgar Kirke"
           },
           "coords": [
             8.7035,
@@ -59,7 +62,8 @@
             "de": "Beachten Sie die modernen, hellen Innenräume, die einen Kontrast zur traditionellen Außenseite bilden.",
             "hu": "Figyelje meg a modern, világos belső tereket, amelyek kontrasztot alkotnak a hagyományos külsővel.",
             "ro": "Observați interiorul modern și luminos, în contrast cu exteriorul tradițional.",
-            "en": "Note the modern, bright interiors, which contrast with the traditional exterior."
+            "en": "Note the modern, bright interiors, which contrast with the traditional exterior.",
+            "da": "Læg mærke til de moderne, lyse interiører, som står i kontrast til det traditionelle ydre."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Bramming Kirke",
             "hu": "Brammingi templom",
             "ro": "Biserica Bramming",
-            "en": "Bramming Church"
+            "en": "Bramming Church",
+            "da": "Bramming Kirke"
           },
           "coords": [
             8.7051,
@@ -82,7 +87,8 @@
             "de": "Suchen Sie nach dem markanten romanischen Taufbecken, einem der ältesten Stücke der Kirche.",
             "hu": "Keresse a jellegzetes román stílusú keresztelőkutat, a templom egyik legrégebbi darabját.",
             "ro": "Căutați cristelnița romanică distinctivă, una dintre cele mai vechi piese ale bisericii.",
-            "en": "Look for the distinctive Romanesque font, one of the oldest pieces in the church."
+            "en": "Look for the distinctive Romanesque font, one of the oldest pieces in the church.",
+            "da": "Hold øje med det karakteristiske romanske dåbsfad, et af kirkens ældste genstande."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Bramming Egnsmuseum",
             "hu": "Brammingi Helytörténeti Múzeum",
             "ro": "Muzeul Regional Bramming",
-            "en": "Bramming Regional Museum"
+            "en": "Bramming Regional Museum",
+            "da": "Bramming Egnsmuseum"
           },
           "coords": [
             8.7077,
@@ -105,7 +112,8 @@
             "de": "Verpassen Sie nicht die Ausstellung über die Entwicklung der Landwirtschaft in der Region.",
             "hu": "Ne hagyja ki a régió mezőgazdaságának fejlődéséről szóló kiállítást.",
             "ro": "Nu ratați expoziția despre dezvoltarea agriculturii în regiune.",
-            "en": "Don't miss the exhibition on the development of agriculture in the region."
+            "en": "Don't miss the exhibition on the development of agriculture in the region.",
+            "da": "Gå ikke glip af udstillingen om landbrugets udvikling i regionen."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Mittagessen in der Innenstadt",
             "hu": "Ebéd a városközpontban",
             "ro": "Prânz în centrul orașului",
-            "en": "Lunch in the Town Center"
+            "en": "Lunch in the Town Center",
+            "da": "Frokost i Byens Centrum"
           },
           "coords": [
             8.7045,
@@ -128,7 +137,8 @@
             "de": "Probieren Sie ein klassisches Smørrebrød in einem der örtlichen Cafés.",
             "hu": "Kóstoljon meg egy klasszikus Smørrebrødet a helyi kávézók egyikében.",
             "ro": "Încercați un Smørrebrød clasic la una dintre cafenelele locale.",
-            "en": "Try a classic Smørrebrød at one of the local cafes."
+            "en": "Try a classic Smørrebrød at one of the local cafes.",
+            "da": "Prøv et klassisk smørrebrød på en af de lokale caféer."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Bramming Lystanlæg",
             "hu": "Brammingi Díszpark",
             "ro": "Parcul Bramming Lystanlæg",
-            "en": "Bramming Pleasure Garden"
+            "en": "Bramming Pleasure Garden",
+            "da": "Bramming Lystanlæg"
           },
           "coords": [
             8.6855,
@@ -151,7 +162,8 @@
             "de": "Ein perfekter Ort für einen ruhigen Spaziergang am Nachmittag. Suchen Sie nach dem kleinen See.",
             "hu": "Tökéletes hely egy csendes délutáni sétához. Keresse meg a kis tavat.",
             "ro": "Un loc perfect pentru o plimbare liniștită de după-amiază. Căutați micul lac.",
-            "en": "A perfect spot for a quiet afternoon walk. Look for the small lake."
+            "en": "A perfect spot for a quiet afternoon walk. Look for the small lake.",
+            "da": "Et perfekt sted til en rolig eftermiddagspromenade. Hold øje med den lille sø."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Ihr Wandertag in Bramming beginnt am historischen Bahnhof, einem Zeugnis der Eisenbahngeschichte der Stadt. Am Vormittag erkunden Sie das spirituelle Herz der Stadt, indem Sie die moderne Sct. Ansgar Kirke und die ältere Bramming Kirke besuchen, die jeweils einen einzigartigen architektonischen Charme bieten. Der Mittag ist der Kultur gewidmet, mit einem tiefen Einblick in die lokale Geschichte im Bramming Egnsmuseum, gefolgt von einem herzhaften dänischen Mittagessen im Stadtzentrum. Der Nachmittag ist für Entspannung im Grünen reserviert. Ein langer Spaziergang zum und durch den Bramming Lystanlæg Park bietet eine friedliche Flucht und Zeit, die ruhige Atmosphäre der Stadt zu genießen, bevor Ihr Tag zu Ende geht.",
         "hu": "A brammingi séta a történelmi vasútállomáson kezdődik, amely a város vasúti örökségének tanúja. A délelőttöt a város spirituális szívének felfedezésével tölti, meglátogatva a modern Szent Ansgar-templomot és a régebbi Bramming-templomot, amelyek egyedi építészeti bájjal rendelkeznek. A dél a kultúráé, mélyreható betekintést nyerhet a helyi történelembe a Brammingi Helytörténeti Múzeumban, majd egy kiadós dán ebédet fogyaszthat a városközpontban. A délután a zöldben való pihenésé. Egy hosszú séta a Bramming Lystanlæg parkhoz és azon keresztül békés menedéket és időt kínál a város csendes hangulatának élvezetére, mielőtt a nap véget ér.",
         "ro": "Ziua dvs. de plimbare în Bramming începe la gara istorică, o mărturie a moștenirii feroviare a orașului. Dimineața explorați inima spirituală a orașului vizitând moderna Biserică Sf. Ansgar și mai vechea Biserică Bramming, fiecare oferind un farmec arhitectural unic. Amiaza este dedicată culturii, cu o incursiune profundă în istoria locală la Muzeul Regional Bramming, urmată de un prânz danez consistent în centrul orașului. După-amiaza este rezervată relaxării în natură. O plimbare lungă până la și prin parcul Bramming Lystanlæg oferă o evadare pașnică și timp pentru a absorbi atmosfera liniștită a orașului înainte de a încheia ziua.",
-        "en": "Your walking day in Bramming begins at the historic station, a testament to the town's railway heritage. The morning is for exploring the town's spiritual heart by visiting the modern Sct. Ansgar Church and the older Bramming Church, each offering unique architectural charm. Midday is dedicated to culture with a deep dive into local history at the Bramming Regional Museum, followed by a hearty Danish lunch in the town center. The afternoon is reserved for green relaxation. A long walk to and through the Bramming Lystanlæg park provides a peaceful escape and time to absorb the town's quiet atmosphere before your day concludes."
+        "en": "Your walking day in Bramming begins at the historic station, a testament to the town's railway heritage. The morning is for exploring the town's spiritual heart by visiting the modern Sct. Ansgar Church and the older Bramming Church, each offering unique architectural charm. Midday is dedicated to culture with a deep dive into local history at the Bramming Regional Museum, followed by a hearty Danish lunch in the town center. The afternoon is reserved for green relaxation. A long walk to and through the Bramming Lystanlæg park provides a peaceful escape and time to absorb the town's quiet atmosphere before your day concludes.",
+        "da": "Din gådag i Bramming starter ved den historiske station, et vidnesbyrd om byens jernbanehistorie. Morgenen er til at udforske byens åndelige hjerte med besøg i den moderne Sct. Ansgar Kirke og den ældre Bramming Kirke, som hver især byder på unik arkitektonisk charme. Middagen dedikeres til kultur med et dybt dyk i lokalhistorien på Bramming Egnsmuseum, efterfulgt af en solid dansk frokost i byens centrum. Eftermiddagen er reserveret til grøn afslapning. En lang gåtur til og gennem Bramming Lystanlæg giver en fredfyldt pause og tid til at absorbere byens rolige atmosfære, inden din dag afsluttes."
       },
       "gastro_picks": {
         "de": [
@@ -355,6 +368,12 @@
           "Check the opening hours for the Egnsmuseum in advance, as they can be seasonal.",
           "Most shops and cafes are in the town center, so plan your lunch accordingly.",
           "Bramming is quite flat, making for easy walking."
+        ],
+        "da": [
+          "Brug behagelige sko, da du kommer til at gå næsten 4 km.",
+          "Tjek åbningstiderne for Egnsmuseet på forhånd, da de kan være sæsonbestemte.",
+          "De fleste butikker og caféer ligger i byens centrum, så planlæg din frokost derefter.",
+          "Bramming er ret fladt, hvilket gør gåturen let."
         ]
       },
       "variants": {
@@ -363,7 +382,8 @@
             "de": "Der Tag beginnt am Bahnhof von Bramming, wo die überdachten Bahnsteige Schutz vor dem dänischen Regen bieten. Mittags führt ein kurzer Spaziergang durch das Stadtzentrum zu gemütlichen Cafés. Am Nachmittag ist das Regionalmuseum der perfekte Ort, um trocken zu bleiben und in die lokale Geschichte einzutauchen. Der Abend klingt ruhig aus, während der Regen gegen die Fenster der gemütlichen Restaurants im Zentrum prasselt.",
             "hu": "A nap a Bramming állomáson kezdődik, ahol a fedett peronok menedéket nyújtanak a dán eső elől. Délben egy rövid séta vezet a városközpontba a barátságos kávézókhoz. Délután a Regionális Múzeum a tökéletes helyszín, hogy szárazon maradjunk és elmerüljünk a helyi történelemben. Az este nyugodtan zárul, miközben az eső kopog a belvárosi éttermek ablakain.",
             "ro": "Ziua începe la gara Bramming, unde peronul acoperit oferă adăpost împotriva ploii daneze. La prânz, o scurtă plimbare prin centrul orașului vă duce la cafenele primitoare. După-amiaza, Muzeul Regional este locul perfect pentru a rămâne uscat și a explora istoria locală. Seara se încheie liniștit, în timp ce ploaia bate în geamurile restaurantelor primitoare din centru.",
-            "en": "The day begins at Bramming Station, where the covered platforms provide shelter from the Danish rain. At noon, a short walk leads through the town center to cozy cafes. In the afternoon, the Regional Museum is the perfect place to stay dry and dive into local history. The evening ends quietly as the rain patters against the windows of the cozy restaurants in the center."
+            "en": "The day begins at Bramming Station, where the covered platforms provide shelter from the Danish rain. At noon, a short walk leads through the town center to cozy cafes. In the afternoon, the Regional Museum is the perfect place to stay dry and dive into local history. The evening ends quietly as the rain patters against the windows of the cozy restaurants in the center.",
+            "da": "Dagen begynder ved Bramming Station, hvor de overdækkede perroner giver læ for den danske regn. Ved middagstid fører en kort gåtur gennem bymidten til hyggelige caféer. Om eftermiddagen er Egnsmuseet det perfekte sted at holde sig tør og fordybe sig i lokalhistorien. Aftenen ender roligt, mens regnen trommer mod vinduerne i byens hyggelige restauranter."
           },
           "stops": [
             {
@@ -372,7 +392,8 @@
                 "de": "Nutzen Sie die Wartehalle, um den Regenradar zu prüfen.",
                 "hu": "Használja a várótermet az esőradar ellenőrzésére.",
                 "ro": "Folosiți sala de așteptare pentru a verifica radarul de ploaie.",
-                "en": "Use the waiting hall to check the rain radar."
+                "en": "Use the waiting hall to check the rain radar.",
+                "da": "Brug ventehallen til at tjekke regnradaren."
               }
             },
             {
@@ -381,7 +402,8 @@
                 "de": "Ein kurzer Sprint zum Eingang lohnt sich für die moderne Architektur.",
                 "hu": "Egy rövid sprint a bejáratig megéri a modern építészetért.",
                 "ro": "Un scurt sprint spre intrare merită pentru arhitectura modernă.",
-                "en": "A short sprint to the entrance is worth it for the modern architecture."
+                "en": "A short sprint to the entrance is worth it for the modern architecture.",
+                "da": "Et kort spurt til indgangen er det værd for den moderne arkitektur."
               }
             },
             {
@@ -390,7 +412,8 @@
                 "de": "Die dicken Mauern bieten eine trockene und stille Zuflucht.",
                 "hu": "A vastag falak száraz és csendes menedéket nyújtanak.",
                 "ro": "Zidurile groase oferă un refugiu uscat și liniștit.",
-                "en": "The thick walls provide a dry and quiet refuge."
+                "en": "The thick walls provide a dry and quiet refuge.",
+                "da": "De tykke mure giver en tør og stille tilflugt."
               }
             },
             {
@@ -399,7 +422,8 @@
                 "de": "Hervorragendes Schlechtwetterprogramm mit viel Innenausstellung.",
                 "hu": "Kiváló rosszidős program sok benti kiállítással.",
                 "ro": "Program excelent pentru vreme rea, cu multe expoziții interioare.",
-                "en": "Excellent bad-weather program with many indoor exhibits."
+                "en": "Excellent bad-weather program with many indoor exhibits.",
+                "da": "Fremragende dårligt-vejrprogram med mange indendørs udstillinger."
               }
             },
             {
@@ -408,7 +432,8 @@
                 "de": "Wählen Sie ein Restaurant mit Garderobe für nasse Mäntel.",
                 "hu": "Válasszon ruhatárral rendelkező éttermet a vizes kabátoknak.",
                 "ro": "Alegeți un restaurant cu garderobă pentru hainele ude.",
-                "en": "Choose a restaurant with a cloakroom for wet coats."
+                "en": "Choose a restaurant with a cloakroom for wet coats.",
+                "da": "Vælg en restaurant med garderobe til våde frakker."
               }
             },
             {
@@ -417,7 +442,8 @@
                 "de": "Vorsicht auf den unbefestigten Wegen, sie können matschig sein.",
                 "hu": "Vigyázat a burkolatlan utakon, sárosak lehetnek.",
                 "ro": "Atenție pe potecile neasfaltate, pot fi noroioase.",
-                "en": "Watch out on unpaved paths, they can be muddy."
+                "en": "Watch out on unpaved paths, they can be muddy.",
+                "da": "Pas på ujævne stier, de kan være mudrede."
               }
             }
           ],
@@ -445,6 +471,12 @@
               "The museum is the best place during heavy downpours.",
               "Most cafes offer umbrella stands at the entrance.",
               "Utilize short breaks in the rain for transit between churches."
+            ],
+            "da": [
+              "Brug vandtætte sko, da brostenene bliver glatte.",
+              "Museet er det bedste sted under kraftige byger.",
+              "De fleste caféer tilbyder paraplystativer ved indgangen.",
+              "Udnyt korte pauser i regnen til at skifte mellem kirkerne."
             ]
           }
         },
@@ -453,7 +485,8 @@
             "de": "Bramming im Winter versprüht einen kühlen Charme, wenn der Raureif die Felder bedeckt. Morgens ist die warme Station ein willkommener Startpunkt. Mittags wärmt ein kräftiges dänisches Essen im Zentrum Körper und Geist. Da die Sonne bereits gegen 16 Uhr untergeht, ist der Nachmittagsbesuch im Museum ideal, um die blaue Stunde drinnen zu verbringen. Abends leuchten die Fenster der Stadt besonders einladend im kalten Wind.",
             "hu": "Bramming télen hűvös bájt áraszt, amikor a zúzmara borítja a mezőket. Reggel a meleg állomás üdvözlendő kiindulópont. Délben egy kiadós dán ebéd a központban felmelegíti a testet és a lelket. Mivel a nap már délután 4 körül lemegy, a délutáni múzeumlátogatás ideális a kék óra bent töltésére. Este a város ablakai különösen hívogatóan világítanak a hideg szélben.",
             "ro": "Bramming iarna emană un farmec răcoros, când chiciura acoperă câmpurile. Dimineața, gara caldă este un punct de plecare binevenit. La prânz, o masă daneză consistentă în centru încălzește corpul și spiritul. Deoarece soarele apune deja în jurul orei 16, vizita de după-amiază la muzeu este ideală pentru a petrece ora albastră în interior. Seara, ferestrele orașului luminează primitor în vântul rece.",
-            "en": "Bramming in winter radiates a cool charm when frost covers the fields. In the morning, the warm station is a welcome starting point. At noon, a hearty Danish meal in the center warms body and soul. Since the sun sets around 4 PM, an afternoon museum visit is ideal for spending the blue hour indoors. In the evening, the city's windows glow invitingly in the cold wind."
+            "en": "Bramming in winter radiates a cool charm when frost covers the fields. In the morning, the warm station is a welcome starting point. At noon, a hearty Danish meal in the center warms body and soul. Since the sun sets around 4 PM, an afternoon museum visit is ideal for spending the blue hour indoors. In the evening, the city's windows glow invitingly in the cold wind.",
+            "da": "Bramming i vinteren udstråler en kølig charme, når rimfrost dækker markerne. Om morgenen er den varme station et velkomment udgangspunkt. Ved middagstid varmer et solidt dansk måltid i centrum krop og sjæl. Da solen går ned omkring kl. 16, er et museumsbesøg om eftermiddagen ideelt for at tilbringe den blå time indendørs. Om aftenen glimter byens vinduer indbydende i den kolde vind."
           },
           "stops": [
             {
@@ -462,7 +495,8 @@
                 "de": "Der beheizte Wartesaal ist der beste Ort zum Aufwärmen.",
                 "hu": "A fűtött váróterem a legjobb hely a bemelegítésre.",
                 "ro": "Sala de așteptare încălzită este cel mai bun loc pentru încălzire.",
-                "en": "The heated waiting room is the best place to warm up."
+                "en": "The heated waiting room is the best place to warm up.",
+                "da": "Den opvarmede ventesal er det bedste sted at få varmen."
               }
             },
             {
@@ -471,7 +505,8 @@
                 "de": "Genießen Sie die Ruhe in der angenehm temperierten Kirche.",
                 "hu": "Élvezze a nyugalmat a kellemes hőmérsékletű templomban.",
                 "ro": "Bucurați-vă de liniște în biserica cu temperatură plăcută.",
-                "en": "Enjoy the tranquility in the pleasantly tempered church."
+                "en": "Enjoy the tranquility in the pleasantly tempered church.",
+                "da": "Nyd roen i de behageligt tempererede kirker."
               }
             },
             {
@@ -480,7 +515,8 @@
                 "de": "Achten Sie auf Glatteis auf dem Friedhofsgelände.",
                 "hu": "Ügyeljen a jegesedésre a templomkert területén.",
                 "ro": "Atenție la polei pe terenul cimitirului.",
-                "en": "Watch out for black ice on the cemetery grounds."
+                "en": "Watch out for black ice on the cemetery grounds.",
+                "da": "Pas på sort is på kirkegårdens arealer."
               }
             },
             {
@@ -489,7 +525,8 @@
                 "de": "Perfekt für den späten Nachmittag, wenn es draußen dunkel wird.",
                 "hu": "Tökéletes késő délutánra, amikor kint sötétedik.",
                 "ro": "Perfect pentru după-amiaza târziu, când se întunecă afară.",
-                "en": "Perfect for late afternoon when it gets dark outside."
+                "en": "Perfect for late afternoon when it gets dark outside.",
+                "da": "Perfekt til sene eftermiddagsture, når det bliver mørkt udenfor."
               }
             },
             {
@@ -498,7 +535,8 @@
                 "de": "Fragen Sie nach 'Gløgg', einem typischen Wintergetränk.",
                 "hu": "Kérjen 'Gløgg'-öt, egy tipikus téli italt.",
                 "ro": "Cereți 'Gløgg', o băutură tipică de iarnă.",
-                "en": "Ask for 'Gløgg', a typical winter drink."
+                "en": "Ask for 'Gløgg', a typical winter drink.",
+                "da": "Spørg efter 'Gløgg', en typisk vinterdrik."
               }
             },
             {
@@ -507,7 +545,8 @@
                 "de": "Zügiger Spaziergang empfohlen, um warm zu bleiben.",
                 "hu": "Gyors séta ajánlott, hogy melegen tartsa magát.",
                 "ro": "Se recomandă o plimbare rapidă pentru a vă menține cald.",
-                "en": "Brisk walk recommended to stay warm."
+                "en": "Brisk walk recommended to stay warm.",
+                "da": "En frisk gåtur anbefales for at holde varmen."
               }
             }
           ],
@@ -535,6 +574,12 @@
               "Windproof clothing is a must in this flat area.",
               "Paths can be very slippery during frost.",
               "Cafes often close a bit earlier in winter than in summer."
+            ],
+            "da": [
+              "Solnedgang er tidlig; planlæg udendørsaktiviteter før kl. 15.",
+              "Vind- og vandtæt beklædning er et must i dette flade område.",
+              "Stier kan være meget glatte ved frost.",
+              "Caféer lukker ofte lidt tidligere om vinteren end om sommeren."
             ]
           }
         }
@@ -553,7 +598,8 @@
             "de": "Bahnhof Bramming",
             "hu": "Brammingi pályaudvar",
             "ro": "Gara Bramming",
-            "en": "Bramming Station"
+            "en": "Bramming Station",
+            "da": "Bramming Station"
           },
           "coords": [
             8.6998,
@@ -568,7 +614,8 @@
             "de": "Startpunkt Ihrer Radtour, perfekt, um die Atmosphäre der Stadt aufzunehmen.",
             "hu": "A kerékpártúra kiindulópontja, tökéletes a város hangulatának befogadására.",
             "ro": "Punctul de plecare al turului dvs. cu bicicleta, perfect pentru a absorbi atmosfera orașului.",
-            "en": "Starting point of your bike tour, perfect for absorbing the town's atmosphere."
+            "en": "Starting point of your bike tour, perfect for absorbing the town's atmosphere.",
+            "da": "Udgangspunkt for din cykeltur, perfekt til at suge byens atmosfære til dig."
           }
         },
         {
@@ -576,7 +623,8 @@
             "de": "Bramming Kirke & Sct. Ansgar Kirke",
             "hu": "Brammingi templom és Szent Ansgar-templom",
             "ro": "Biserica Bramming & Biserica Sf. Ansgar",
-            "en": "Bramming Church & Sct. Ansgar Church"
+            "en": "Bramming Church & Sct. Ansgar Church",
+            "da": "Bramming Kirke & Sct. Ansgar Kirke"
           },
           "coords": [
             8.7043,
@@ -591,7 +639,8 @@
             "de": "Besuchen Sie beide Hauptkirchen, die nur eine kurze Radfahrt voneinander entfernt sind.",
             "hu": "Látogassa meg mindkét fő templomot, amelyek csak egy rövid bicikliútra vannak egymástól.",
             "ro": "Vizitați ambele biserici principale, aflate la o scurtă plimbare cu bicicleta una de cealaltă.",
-            "en": "Visit both main churches, located just a short bike ride apart."
+            "en": "Visit both main churches, located just a short bike ride apart.",
+            "da": "Besøg begge hovedkirker, som ligger kun en kort cykeltur fra hinanden."
           }
         },
         {
@@ -599,7 +648,8 @@
             "de": "Bramming Egnsmuseum",
             "hu": "Brammingi Helytörténeti Múzeum",
             "ro": "Muzeul Regional Bramming",
-            "en": "Bramming Regional Museum"
+            "en": "Bramming Regional Museum",
+            "da": "Bramming Egnsmuseum"
           },
           "coords": [
             8.7077,
@@ -614,7 +664,8 @@
             "de": "Stellen Sie Ihr Fahrrad ab und tauchen Sie für eine Weile in die lokale Geschichte ein.",
             "hu": "Parkolja le a kerékpárt, és merüljön el egy időre a helyi történelemben.",
             "ro": "Parcați bicicleta și scufundați-vă în istoria locală pentru o vreme.",
-            "en": "Park your bike and dive into local history for a while."
+            "en": "Park your bike and dive into local history for a while.",
+            "da": "Parkér din cykel og dyk ned i lokalhistorien et stykke tid."
           }
         },
         {
@@ -622,7 +673,8 @@
             "de": "Mittagessen",
             "hu": "Ebéd",
             "ro": "Prânz",
-            "en": "Lunch"
+            "en": "Lunch",
+            "da": "Frokost"
           },
           "coords": [
             8.705,
@@ -637,7 +689,8 @@
             "de": "Tanken Sie Energie in einem Restaurant im Zentrum, bevor Sie die längere Nachmittagsfahrt antreten.",
             "hu": "Töltődjön fel egy központi étteremben a hosszabb délutáni tekerés előtt.",
             "ro": "Realimentați-vă la un restaurant din centru înainte de plimbarea mai lungă de după-amiază.",
-            "en": "Fuel up at a central restaurant before the longer afternoon ride."
+            "en": "Fuel up at a central restaurant before the longer afternoon ride.",
+            "da": "Fyld op på energi på en central restaurant inden den længere eftermiddagstur."
           }
         },
         {
@@ -645,7 +698,8 @@
             "de": "Terp Spejdercenter",
             "hu": "Terp Cserkészközpont",
             "ro": "Centrul de Cercetași Terp",
-            "en": "Terp Spejdercenter"
+            "en": "Terp Spejdercenter",
+            "da": "Terp Spejdercenter"
           },
           "coords": [
             8.6581,
@@ -660,7 +714,8 @@
             "de": "Genießen Sie die offene Natur und die ruhige Umgebung, ein schöner Kontrast zur Stadt.",
             "hu": "Élvezze a nyílt természetet és a csendes környezetet, ami szép kontrasztot alkot a várossal.",
             "ro": "Bucurați-vă de natura deschisă și de împrejurimile liniștite, un contrast plăcut cu orașul.",
-            "en": "Enjoy the open nature and quiet surroundings, a nice contrast to the town."
+            "en": "Enjoy the open nature and quiet surroundings, a nice contrast to the town.",
+            "da": "Nyd den åbne natur og det rolige miljø, en fin kontrast til byen."
           }
         },
         {
@@ -668,7 +723,8 @@
             "de": "Bramming Lystanlæg",
             "hu": "Brammingi Díszpark",
             "ro": "Parcul Bramming Lystanlæg",
-            "en": "Bramming Pleasure Garden"
+            "en": "Bramming Pleasure Garden",
+            "da": "Bramming Lystanlæg"
           },
           "coords": [
             8.6855,
@@ -683,7 +739,8 @@
             "de": "Machen Sie eine Pause im Park und genießen Sie die Landschaft auf dem Rückweg ins Zentrum.",
             "hu": "Pihenjen a parkban, és élvezze a tájat a központ felé vezető úton.",
             "ro": "Faceți o pauză în parc, bucurându-vă de peisaj în drum spre centru.",
-            "en": "Take a break in the park, enjoying the scenery on your way back to the center."
+            "en": "Take a break in the park, enjoying the scenery on your way back to the center.",
+            "da": "Hold en pause i parken og nyd udsigten på vej tilbage mod centrum."
           }
         },
         {
@@ -691,7 +748,8 @@
             "de": "Kaj Lykke Golfklub",
             "hu": "Kaj Lykke Golfklub",
             "ro": "Clubul de Golf Kaj Lykke",
-            "en": "Kaj Lykke Golf Club"
+            "en": "Kaj Lykke Golf Club",
+            "da": "Kaj Lykke Golf Club"
           },
           "coords": [
             8.7383,
@@ -706,7 +764,8 @@
             "de": "Auch wenn Sie nicht spielen, ist die Landschaft wunderschön für eine letzte Radtour des Tages.",
             "hu": "Még ha nem is játszik, a táj gyönyörű a nap utolsó kerékpártúrájához.",
             "ro": "Chiar dacă nu jucați, peisajul este frumos pentru o ultimă plimbare cu bicicleta a zilei.",
-            "en": "Even if you don't play, the scenery is beautiful for a final ride of the day."
+            "en": "Even if you don't play, the scenery is beautiful for a final ride of the day.",
+            "da": "Selv hvis du ikke spiller, er landskabet smukt til en sidste tur for dagen."
           }
         }
       ],
@@ -714,7 +773,8 @@
         "de": "Ihre Radtour durch Bramming beginnt am Bahnhof und führt Sie schnell zu den beiden Hauptkirchen der Stadt. Der Vormittag verbindet Spiritualität mit Geschichte, während Sie vom Gotteshaus zum Egnsmuseum radeln, um mehr über das Erbe der Region zu erfahren. Nach einem stärkenden Mittagessen im Zentrum unternehmen Sie eine längere Fahrt aufs Land zum Terp Spejdercenter, wo Sie die dänische Natur genießen können. Auf dem Rückweg radeln Sie durch den ruhigen Lystanlæg-Park für einen Moment der Ruhe. Der Tag endet mit einer malerischen Schleife um den Kaj Lykke Golfklub, die einen letzten Blick auf die grüne Landschaft Westjütlands bietet, bevor Sie Ihre Erkundung beenden.",
         "hu": "A brammingi kerékpártúra a vasútállomástól indul, és gyorsan elvezeti a város két fő templomához. A délelőtt a spiritualitást a történelemmel ötvözi, miközben a templomoktól az Egnsmuseumhoz teker, hogy megismerje a régió örökségét. Egy feltöltődést nyújtó ebéd után a központban egy hosszabb útra indul a vidékre, a Terp Cserkészközponthoz, ahol élvezheti a dán természetet. Visszafelé a csendes Lystanlæg parkon keresztül teker, egy pillanatnyi nyugalomért. A nap egy festői körrel zárul a Kaj Lykke Golfklub körül, amely egy utolsó pillantást vet Nyugat-Jütland zöld tájaira, mielőtt befejezné a felfedezést.",
         "ro": "Turul dvs. cu bicicleta prin Bramming începe de la gară, ducându-vă rapid la cele două biserici principale ale orașului. Dimineața combină spiritualitatea cu istoria în timp ce pedalați de la lăcașurile de cult la Muzeul Egnsmuseum pentru a învăța despre moștenirea zonei. După un prânz revigorant în centru, vă aventurați într-o plimbare mai lungă la țară, la Centrul de Cercetași Terp, pentru o doză de natură daneză. Pe drumul de întoarcere, treceți prin liniștitul parc Lystanlæg pentru un moment de pace. Ziua se încheie cu o buclă pitorească în jurul Clubului de Golf Kaj Lykke, oferind o ultimă priveliște a peisajului verde din Iutlanda de Vest înainte de a încheia explorarea.",
-        "en": "Your bike tour of Bramming starts from the station, quickly taking you to the town's two main churches. The morning blends spirituality with history as you pedal from the places of worship to the Egnsmuseum to learn about the area's heritage. After a refueling lunch in the center, you'll venture on a longer ride into the countryside to Terp Spejdercenter for a dose of Danish nature. On your way back, you'll cycle through the tranquil Lystanlæg park for a moment of peace. The day concludes with a scenic loop around Kaj Lykke Golf Club, offering a final view of the green West Jutland landscape before finishing your exploration."
+        "en": "Your bike tour of Bramming starts from the station, quickly taking you to the town's two main churches. The morning blends spirituality with history as you pedal from the places of worship to the Egnsmuseum to learn about the area's heritage. After a refueling lunch in the center, you'll venture on a longer ride into the countryside to Terp Spejdercenter for a dose of Danish nature. On your way back, you'll cycle through the tranquil Lystanlæg park for a moment of peace. The day concludes with a scenic loop around Kaj Lykke Golf Club, offering a final view of the green West Jutland landscape before finishing your exploration.",
+        "da": "Din cykeltur i Bramming starter fra stationen og fører dig hurtigt til byens to hovedkirker. Morgenen blander åndelighed med historie, når du triller fra gudshjemmene til Egnsmuseet for at lære om områdets kulturarv. Efter en genopladende frokost i centrum tager du på en længere tur ud på landet til Terp Spejdercenter for at få et indtryk af den danske natur. På hjemvejen cykler du gennem det rolige Lystanlæg for et øjebliks fred. Dagen afsluttes med en naturskøn runde omkring Kaj Lykke Golf Club, som giver et sidste blik over det grønne vestjyske landskab, inden din udforskning slutter."
       },
       "gastro_picks": {
         "de": [
@@ -910,6 +970,12 @@
           "Denmark is bike-friendly, but always wear a helmet for safety.",
           "Bring water and snacks for the longer rides outside the town.",
           "Pay attention to the cycle path signage, which is excellent in Denmark."
+        ],
+        "da": [
+          "Lej en cykel på forhånd, hvis du ikke medbringer din egen.",
+          "Danmark er cykelvenligt, men brug altid hjelm af sikkerhedshensyn.",
+          "Medbring vand og snacks til de længere ture uden for byen.",
+          "Bemærk cykelrute-skiltene, som er fremragende i Danmark."
         ]
       },
       "variants": {
@@ -918,7 +984,8 @@
             "de": "Eine Radtour im Regen durch Bramming erfordert gute Ausrüstung, bietet aber leere Wege. Der Morgen beginnt mit einer Fahrt zur Station, gefolgt von einem Besuch der Kirchen. Mittags bietet das Museum eine lange, trockene Pause. Nach dem Mittagessen führt die Route zu den Außenbezirken, wo die dänische Landschaft auch im Grau ihre eigene Ästhetik hat. Der Tag endet sportlich und erfrischt.",
             "hu": "Egy esős kerékpártúra Brammingban jó felszerelést igényel, de üres utakat kínál. A reggel az állomáshoz való tekeréssel kezdődik, majd a templomok meglátogatásával folytatódik. Délben a múzeum hosszú, száraz szünetet biztosít. Ebéd után az útvonal a külső kerületekbe vezet, ahol a dán tájnak szürkében is megvan a saját esztétikája. A nap sportosan és felfrissülve zárul.",
             "ro": "O tură cu bicicleta prin ploaie în Bramming necesită echipament bun, dar oferă drumuri libere. Dimineața începe cu o plimbare spre gară, urmată de vizitarea bisericilor. La prânz, muzeul oferă o pauză lungă și uscată. După prânz, traseul duce spre periferie, unde peisajul danez are propria estetică chiar și în gri. Ziua se încheie sportiv și revigorat.",
-            "en": "A bike tour in the rain through Bramming requires good equipment but offers empty paths. The morning begins with a ride to the station, followed by visiting the churches. At noon, the museum provides a long, dry break. After lunch, the route leads to the outskirts, where the Danish landscape has its own aesthetic even in gray. The day ends sportily and refreshed."
+            "en": "A bike tour in the rain through Bramming requires good equipment but offers empty paths. The morning begins with a ride to the station, followed by visiting the churches. At noon, the museum provides a long, dry break. After lunch, the route leads to the outskirts, where the Danish landscape has its own aesthetic even in gray. The day ends sportily and refreshed.",
+            "da": "En cykeltur i regnvejr gennem Bramming kræver godt udstyr, men giver tomme stier. Morgenen begynder med en tur til stationen efterfulgt af besøg ved kirkerne. Ved middagstid giver museet et langt, tørt hvil. Efter frokost fører ruten ud til udkanten, hvor det danske landskab har sin egen æstetik selv i gråvejr. Dagen ender sporty og forfrisket."
           },
           "stops": [
             {
@@ -927,7 +994,8 @@
                 "de": "Nutzen Sie die überdachten Fahrradständer.",
                 "hu": "Használja a fedett kerékpártárolókat.",
                 "ro": "Folosiți suporturile de biciclete acoperite.",
-                "en": "Use the covered bike racks."
+                "en": "Use the covered bike racks.",
+                "da": "Brug de overdækkede cykelstativer."
               }
             },
             {
@@ -936,7 +1004,8 @@
                 "de": "Vorsicht vor rutschigen Markierungen auf der Straße.",
                 "hu": "Vigyázat az úton lévő csúszós útburkolati jelekkel.",
                 "ro": "Atenție la marcajele alunecoase de pe șosea.",
-                "en": "Beware of slippery road markings."
+                "en": "Beware of slippery road markings.",
+                "da": "Pas på glatte vejafmærkninger."
               }
             },
             {
@@ -945,7 +1014,8 @@
                 "de": "Parken Sie nah am Eingang, um schnell ins Trockene zu kommen.",
                 "hu": "Parkoljon közel a bejárathoz, hogy gyorsan beérjen a szárazra.",
                 "ro": "Parcați aproape de intrare pentru a ajunge rapid la adăpost.",
-                "en": "Park close to the entrance to get inside quickly."
+                "en": "Park close to the entrance to get inside quickly.",
+                "da": "Parkér tæt på indgangen for hurtigt at komme indenfor."
               }
             },
             {
@@ -954,7 +1024,8 @@
                 "de": "Wählen Sie einen Platz, von dem aus Sie Ihr Rad im Blick haben.",
                 "hu": "Válasszon olyan helyet, ahonnan rálát a biciklijére.",
                 "ro": "Alegeți un loc de unde vă puteți vedea bicicleta.",
-                "en": "Choose a spot where you can keep an eye on your bike."
+                "en": "Choose a spot where you can keep an eye on your bike.",
+                "da": "Vælg et sted, hvor du kan holde øje med din cykel."
               }
             },
             {
@@ -963,7 +1034,8 @@
                 "de": "Die Feldwege können bei Regen sehr weich sein.",
                 "hu": "A földutak esőben nagyon felpuhulhatnak.",
                 "ro": "Drumurile de țară pot fi foarte moi în caz de ploaie.",
-                "en": "The dirt paths can be very soft in the rain."
+                "en": "The dirt paths can be very soft in the rain.",
+                "da": "Grusstier kan blive meget bløde i regnvejr."
               }
             },
             {
@@ -972,7 +1044,8 @@
                 "de": "Kurzer Stopp unter dichten Bäumen bietet Schutz.",
                 "hu": "Rövid megálló a sűrű fák alatt védelmet nyújt.",
                 "ro": "O scurtă oprire sub copaci deși oferă adăpost.",
-                "en": "A short stop under dense trees provides shelter."
+                "en": "A short stop under dense trees provides shelter.",
+                "da": "Et kort stop under tætte træer giver ly."
               }
             },
             {
@@ -981,7 +1054,8 @@
                 "de": "Das Clubhaus ist ein idealer Ort für einen warmen Tee.",
                 "hu": "A klubház ideális hely egy meleg teára.",
                 "ro": "Clubul este un loc ideal pentru un ceai cald.",
-                "en": "The clubhouse is an ideal place for a warm tea."
+                "en": "The clubhouse is an ideal place for a warm tea.",
+                "da": "Klubhuset er et ideelt sted til en varm kop te."
               }
             }
           ],
@@ -1009,6 +1083,12 @@
               "Avoid abrupt braking on wet asphalt.",
               "Waterproof panniers will keep your belongings dry.",
               "A rain cape protects better against wind and water than an umbrella."
+            ],
+            "da": [
+              "Skærme er uundværlige i dette vejr.",
+              "Undgå hård opbremsning på våd asfalt.",
+              "Vandtætte cykeltasker holder dine ejendele tørre.",
+              "En regnponcho beskytter bedre mod vind og vand end en paraply."
             ]
           }
         },
@@ -1017,7 +1097,8 @@
             "de": "Radfahren in Bramming im Winter ist erfrischend, erfordert aber Sichtbarkeit. Morgens sind die Straßen oft noch gefroren, was Vorsicht verlangt. Die Route verbindet die kulturellen Highlights mit der weiten Winterlandschaft. Am Nachmittag, wenn das Licht schwindet, sorgen die Lichter der Stadt für eine sichere Rückkehr. Ein aktiver Tag, der mit einer wohlverdienten warmen Mahlzeit endet.",
             "hu": "A téli kerékpározás Brammingban felfrissítő, de láthatóságot igényel. Reggel az utak gyakran még fagyottak, ami óvatosságot igényel. Az útvonal összeköti a kulturális látnivalókat a tágas téli tájjal. Délután, amikor fogy a fény, a város fényei segítik a biztonságos visszatérést. Egy aktív nap, amely egy megérdemelt meleg étellel zárul.",
             "ro": "Mersul cu bicicleta în Bramming iarna este revigorant, dar necesită vizibilitate. Dimineața, drumurile sunt adesea încă înghețate, ceea ce necesită prudență. Traseul combină atracțiile culturale cu peisajul vast de iarnă. După-amiaza, când lumina scade, luminile orașului asigură o întoarcere sigură. O zi activă care se încheie cu o masă caldă binemeritată.",
-            "en": "Cycling in Bramming in winter is refreshing but requires visibility. In the morning, roads are often still frozen, requiring caution. The route connects cultural highlights with the vast winter landscape. In the afternoon, as light fades, the city lights ensure a safe return. An active day ending with a well-deserved warm meal."
+            "en": "Cycling in Bramming in winter is refreshing but requires visibility. In the morning, roads are often still frozen, requiring caution. The route connects cultural highlights with the vast winter landscape. In the afternoon, as light fades, the city lights ensure a safe return. An active day ending with a well-deserved warm meal.",
+            "da": "At cykle i Bramming om vinteren er forfriskende, men kræver synlighed. Om morgenen er vejene ofte stadig frosne og kræver forsigtighed. Ruten forbinder kulturelle højdepunkter med det vidtstrakte vinterlandskab. Om eftermiddagen, når lyset svinder, sørger byens lys for en sikker tilbagevenden. En aktiv dag, der ender med et velfortjent varmt måltid."
           },
           "stops": [
             {
@@ -1026,7 +1107,8 @@
                 "de": "Prüfen Sie Ihre Beleuchtung vor der Abfahrt.",
                 "hu": "Indulás előtt ellenőrizze a világítást.",
                 "ro": "Verificați luminile înainte de plecare.",
-                "en": "Check your lights before departure."
+                "en": "Check your lights before departure.",
+                "da": "Tjek dine lygter inden afgang."
               }
             },
             {
@@ -1035,7 +1117,8 @@
                 "de": "Achten Sie auf gefrorene Pfützen in Schattenbereichen.",
                 "hu": "Ügyeljen a fagyott tócsákra az árnyékos részeken.",
                 "ro": "Atenție la bălțile înghețate în zonele umbrite.",
-                "en": "Watch out for frozen puddles in shaded areas."
+                "en": "Watch out for frozen puddles in shaded areas.",
+                "da": "Pas på frosne pytter i skyggefulde områder."
               }
             },
             {
@@ -1044,7 +1127,8 @@
                 "de": "Ein langer Stopp hilft, die Durchblutung anzuregen.",
                 "hu": "Egy hosszú megálló segít a vérkeringés serkentésében.",
                 "ro": "O oprire lungă ajută la stimularea circulației.",
-                "en": "A long stop helps stimulate circulation."
+                "en": "A long stop helps stimulate circulation.",
+                "da": "Et langt stop hjælper med at stimulere blodcirkulationen."
               }
             },
             {
@@ -1053,7 +1137,8 @@
                 "de": "Kohlenhydrate tanken für die kalte Weiterfahrt.",
                 "hu": "Tankoljon szénhidrátot a hideg folytatáshoz.",
                 "ro": "Alimentați-vă cu carbohidrați pentru continuarea drumului în frig.",
-                "en": "Refuel with carbohydrates for the cold ride ahead."
+                "en": "Refuel with carbohydrates for the cold ride ahead.",
+                "da": "Få kulhydratpåfyldning til den kolde tur fremover."
               }
             },
             {
@@ -1062,7 +1147,8 @@
                 "de": "Der Wind weht hier draußen deutlich stärker.",
                 "hu": "Kint a szél lényegesen erősebben fúj.",
                 "ro": "Vântul bate mult mai tare aici, în câmp deschis.",
-                "en": "The wind blows significantly stronger out here."
+                "en": "The wind blows significantly stronger out here.",
+                "da": "Vinden blæser markant stærkere herude."
               }
             },
             {
@@ -1071,7 +1157,8 @@
                 "de": "Kurze Pause, um die Winterstimmung am See zu genießen.",
                 "hu": "Rövid szünet a tóparti téli hangulat élvezetéhez.",
                 "ro": "Scurtă pauză pentru a savura atmosfera de iarnă de lângă lac.",
-                "en": "Short break to enjoy the winter atmosphere by the lake."
+                "en": "Short break to enjoy the winter atmosphere by the lake.",
+                "da": "Kort pause for at nyde vinterstemningen ved søen."
               }
             },
             {
@@ -1080,7 +1167,8 @@
                 "de": "Nutzen Sie den hellen Nachmittag für diesen entfernteren Stopp.",
                 "hu": "Használja ki a világos délutánt erre a távolabbi megállóra.",
                 "ro": "Profită de după-amiaza luminoasă pentru această oprire mai îndepărtată.",
-                "en": "Take advantage of the bright afternoon for this more distant stop."
+                "en": "Take advantage of the bright afternoon for this more distant stop.",
+                "da": "Udnyt den lyse eftermiddag til dette lidt fjernere stop."
               }
             }
           ],
@@ -1108,6 +1196,12 @@
               "Gloves and a cap under the helmet are mandatory.",
               "Slightly reduce tire pressure for better grip.",
               "Keep the chain well-oiled against road salt."
+            ],
+            "da": [
+              "Brug lag-på-lag (løgprincippet) mod køleeffekten fra vinden.",
+              "Handsker og en hue under hjelmen er et must.",
+              "Sænk dæktrykket en smule for bedre greb.",
+              "Hold kæden velolieret mod vejens salt."
             ]
           }
         }
@@ -1126,7 +1220,8 @@
             "de": "Cluster Bramming Zentrum: Parken",
             "hu": "Bramming központ klaszter: Parkolás",
             "ro": "Cluster Centru Bramming: Parcare",
-            "en": "Bramming Center Cluster: Parking"
+            "en": "Bramming Center Cluster: Parking",
+            "da": "Bramming Center Cluster: Parkering"
           },
           "coords": [
             8.7015,
@@ -1141,7 +1236,8 @@
             "de": "Finden Sie einen zentralen Parkplatz, um das Stadtzentrum zu Fuß zu erkunden.",
             "hu": "Keressen egy központi parkolót, ahonnan gyalog felfedezheti a városközpontot.",
             "ro": "Găsiți o parcare centrală pentru a explora centrul orașului pe jos.",
-            "en": "Find a central parking spot to explore the town center on foot."
+            "en": "Find a central parking spot to explore the town center on foot.",
+            "da": "Find en central parkeringsplads for at udforske bymidten til fods."
           }
         },
         {
@@ -1149,7 +1245,8 @@
             "de": "Bramming Kirke",
             "hu": "Brammingi templom",
             "ro": "Biserica Bramming",
-            "en": "Bramming Church"
+            "en": "Bramming Church",
+            "da": "Bramming Kirke"
           },
           "coords": [
             8.7051,
@@ -1165,7 +1262,8 @@
             "de": "Ein kurzer Spaziergang vom Parkplatz zur ältesten Kirche der Stadt.",
             "hu": "Egy rövid séta a parkolótól a város legrégebbi templomáig.",
             "ro": "O scurtă plimbare de la parcare până la cea mai veche biserică din oraș.",
-            "en": "A short walk from your parking spot to the town's oldest church."
+            "en": "A short walk from your parking spot to the town's oldest church.",
+            "da": "En kort gåtur fra din parkeringsplads til byens ældste kirke."
           }
         },
         {
@@ -1173,7 +1271,8 @@
             "de": "Bramming Egnsmuseum",
             "hu": "Brammingi Helytörténeti Múzeum",
             "ro": "Muzeul Regional Bramming",
-            "en": "Bramming Regional Museum"
+            "en": "Bramming Regional Museum",
+            "da": "Bramming Egnsmuseum"
           },
           "coords": [
             8.7077,
@@ -1189,7 +1288,8 @@
             "de": "Setzen Sie Ihren Spaziergang zum Museum fort, um mehr über die lokale Geschichte zu erfahren.",
             "hu": "Folytassa sétáját a múzeum felé, hogy megismerje a helyi történelmet.",
             "ro": "Continuați plimbarea până la muzeu pentru a afla despre istoria locală.",
-            "en": "Continue your walk to the museum to learn about local history."
+            "en": "Continue your walk to the museum to learn about local history.",
+            "da": "Fortsæt din gåtur til museet for at lære om lokalhistorien."
           }
         },
         {
@@ -1197,7 +1297,8 @@
             "de": "Fahrt & Besuch der Gørding Kirke",
             "hu": "Utazás és a Gørdingi templom meglátogatása",
             "ro": "Condus & Vizită la Biserica Gørding",
-            "en": "Drive & Visit Gørding Church"
+            "en": "Drive & Visit Gørding Church",
+            "da": "Kør & Besøg Gørding Kirke"
           },
           "coords": [
             8.8711,
@@ -1213,7 +1314,8 @@
             "de": "Eine kurze Fahrt zu einer charmanten Dorfkirche in der Nähe.",
             "hu": "Egy rövid autóút egy közeli, bájos falusi templomhoz.",
             "ro": "O scurtă călătorie cu mașina până la o biserică de sat fermecătoare din apropiere.",
-            "en": "A short drive to a charming nearby village church."
+            "en": "A short drive to a charming nearby village church.",
+            "da": "En kort køretur til en charmerende nærliggende landsbykirke."
           }
         },
         {
@@ -1221,7 +1323,8 @@
             "de": "Mittagessen in Gørding oder Bramming",
             "hu": "Ebéd Gørdingben vagy Brammingban",
             "ro": "Prânz în Gørding sau Bramming",
-            "en": "Lunch in Gørding or Bramming"
+            "en": "Lunch in Gørding or Bramming",
+            "da": "Frokost i Gørding eller Bramming"
           },
           "coords": [
             8.87,
@@ -1237,7 +1340,8 @@
             "de": "Finden Sie einen lokalen 'Kro' (Gasthof) für ein authentisches dänisches Mittagessen.",
             "hu": "Keressen egy helyi 'Kro'-t (fogadót) egy autentikus dán ebédhez.",
             "ro": "Găsiți un 'Kro' (han) local pentru un prânz danez autentic.",
-            "en": "Find a local 'Kro' (inn) for an authentic Danish lunch."
+            "en": "Find a local 'Kro' (inn) for an authentic Danish lunch.",
+            "da": "Find en lokal kro for en autentisk dansk frokost."
           }
         },
         {
@@ -1245,7 +1349,8 @@
             "de": "Fahrt & Entspannung im Kaj Lykke Golfklub",
             "hu": "Utazás és pihenés a Kaj Lykke Golfklubban",
             "ro": "Condus & Relaxare la Clubul de Golf Kaj Lykke",
-            "en": "Drive & Relax at Kaj Lykke Golf Club"
+            "en": "Drive & Relax at Kaj Lykke Golf Club",
+            "da": "Kør & Slap af ved Kaj Lykke Golf Club"
           },
           "coords": [
             8.7383,
@@ -1261,7 +1366,8 @@
             "de": "Genießen Sie die schöne Landschaft und vielleicht einen Kaffee im Clubhaus.",
             "hu": "Élvezze a gyönyörű tájat és esetleg egy kávét a klubházban.",
             "ro": "Bucurați-vă de peisajul frumos și poate de o cafea la club.",
-            "en": "Enjoy the beautiful scenery and perhaps a coffee at the clubhouse."
+            "en": "Enjoy the beautiful scenery and perhaps a coffee at the clubhouse.",
+            "da": "Nyd den smukke natur og måske en kop kaffe i klubhuset."
           }
         }
       ],
@@ -1269,7 +1375,8 @@
         "de": "Ihr Autotag in Bramming konzentriert sich auf eine „Cluster-Walking“-Strategie. Sie beginnen damit, Ihr Auto im Zentrum von Bramming zu parken und machen dann einen gemütlichen Spaziergang zu den historischen Sehenswürdigkeiten, einschließlich der Bramming Kirke und dem Egnsmuseum. Am Vormittag tauchen Sie in das Erbe der Stadt ein. Gegen Mittag fahren Sie in das nahegelegene Dorf Gørding, um dessen charmante Kirche zu sehen und ein authentisches Mittagessen in einem lokalen Gasthof zu genießen. Dies bildet Ihren zweiten Cluster. Der Nachmittag ist für landschaftliche Entspannung reserviert, mit einer Fahrt zum Kaj Lykke Golfklub. Hier können Sie die grünen Weiten Westjütlands genießen und Ihren Tag in einer ruhigen Umgebung ausklingen lassen, bevor Sie zurückfahren.",
         "hu": "Az autós napja Brammingban a „klaszteres séta” stratégiára összpontosít. A központban parkolva kezdi, majd egy kellemes sétát tesz a történelmi helyszínekhez, beleértve a Brammingi templomot és az Egnsmuseumot. A délelőtt a város örökségébe való elmerülésről szól. Dél körül átautózik a közeli Gørding faluba, hogy megnézze annak bájos templomát, és egy autentikus ebédet fogyasszon egy helyi fogadóban. Ez alkotja a második klasztert. A délután a festői pihenésé, egy autózással a Kaj Lykke Golfklubhoz. Itt élvezheti Nyugat-Jütland zöld tájait, és egy nyugodt környezetben zárhatja a napot, mielőtt visszaindulna.",
         "ro": "Ziua dvs. cu mașina în Bramming se concentrează pe o strategie de „mers pe jos în cluster”. Începeți prin a parca mașina în centrul orașului Bramming, apoi faceți o plimbare relaxantă către siturile sale de patrimoniu, inclusiv Biserica Bramming și Muzeul Egnsmuseum. Dimineața este o imersiune în moștenirea orașului. Spre prânz, conduceți spre satul din apropiere, Gørding, pentru a vedea biserica sa fermecătoare și a savura un prânz autentic la un han local. Acesta formează al doilea cluster. După-amiaza este rezervată relaxării pitorești, cu o călătorie cu mașina la Clubul de Golf Kaj Lykke. Aici vă puteți bucura de întinderile verzi din Iutlanda de Vest, încheind ziua într-un cadru liniștit înainte de a vă întoarce.",
-        "en": "Your car day in Bramming focuses on a 'cluster-walking' strategy. You'll start by parking in the center of Bramming, then take a leisurely walk to its heritage sites, including Bramming Church and the Egnsmuseum. The morning is an immersion in the town's heritage. Around midday, you'll drive to the nearby village of Gørding to see its charming church and enjoy an authentic lunch at a local inn. This forms your second cluster. The afternoon is reserved for scenic relaxation with a drive to Kaj Lykke Golf Club. Here you can enjoy the green expanses of West Jutland, ending your day in a tranquil setting before heading back."
+        "en": "Your car day in Bramming focuses on a 'cluster-walking' strategy. You'll start by parking in the center of Bramming, then take a leisurely walk to its heritage sites, including Bramming Church and the Egnsmuseum. The morning is an immersion in the town's heritage. Around midday, you'll drive to the nearby village of Gørding to see its charming church and enjoy an authentic lunch at a local inn. This forms your second cluster. The afternoon is reserved for scenic relaxation with a drive to Kaj Lykke Golf Club. Here you can enjoy the green expanses of West Jutland, ending your day in a tranquil setting before heading back.",
+        "da": "Din køredag i Bramming fokuserer på en ’cluster-walking’-strategi. Du starter med at parkere i Brammings centrum og går derefter en rolig tur til byens kultursteder, herunder Bramming Kirke og Egnsmuseet. Morgenen er en fordybelse i byens arv. Omkring middag kører du til den nærliggende landsby Gørding for at se dens charmerende kirke og nyde en autentisk frokost på en lokal kro. Det udgør din anden cluster. Eftermiddagen er reserveret til naturskøn afslapning med en køretur til Kaj Lykke Golf Club, hvor du kan nyde Vestjyllands grønne vidder og afslutte dagen i rolige omgivelser, inden du kører tilbage."
       },
       "gastro_picks": {
         "de": [
@@ -1465,6 +1572,12 @@
           "Countryside roads are narrow; drive with care.",
           "A GPS is helpful for finding the rural churches and sites.",
           "Fill up on gas before leaving town, as stations can be sparse in the countryside."
+        ],
+        "da": [
+          "Parkering er generelt let i Brammings centrum, men vær opmærksom på tidsbegrænsninger.",
+          "Landveje er smalle; kør med omhu.",
+          "En GPS er nyttig til at finde de rurale kirker og seværdigheder.",
+          "Tank op, før du forlader byen, da tankstationer kan være sparsomme på landet."
         ]
       },
       "variants": {
@@ -1473,7 +1586,8 @@
             "de": "Im Auto ist Bramming bei Regen ein komfortables Erlebnis. Man kann direkt vor den Sehenswürdigkeiten parken und bleibt zwischen den Stationen trocken. Der Vormittag gehört den Kirchen und dem Museum, während die Fahrt nach Gørding am Mittag die dänische Küstennähe zeigt. Der Nachmittag am Golfclub lässt sich entspannt im Clubhaus verbringen, während man dem Regen draußen zusieht.",
             "hu": "Autóval Bramming esőben is kényelmes élmény. Közvetlenül a látnivalók előtt lehet parkolni, így a megállók között száraz marad. A délelőtt a templomoké és a múzeumé, míg a déli gördingi út a dán tengerpart közelségét mutatja meg. A délután a golfklubban nyugodtan tölthető a klubházban, miközben az esőt nézzük kintről.",
             "ro": "Cu mașina, Bramming pe ploaie este o experiență confortabilă. Puteți parca direct în fața obiectivelor turistice și rămâneți uscat între stații. Dimineața aparține bisericilor și muzeului, în timp ce drumul spre Gørding la prânz arată apropierea de coasta daneză. După-amiaza la clubul de golf poate fi petrecută relaxat în club, privind ploaia de afară.",
-            "en": "By car, Bramming in the rain is a comfortable experience. You can park directly in front of the sights and stay dry between stops. The morning belongs to the churches and the museum, while the drive to Gørding at noon shows the Danish coastal proximity. The afternoon at the golf club can be spent relaxing in the clubhouse while watching the rain outside."
+            "en": "By car, Bramming in the rain is a comfortable experience. You can park directly in front of the sights and stay dry between stops. The morning belongs to the churches and the museum, while the drive to Gørding at noon shows the Danish coastal proximity. The afternoon at the golf club can be spent relaxing in the clubhouse while watching the rain outside.",
+            "da": "I bil er Bramming i regnvejr en behagelig oplevelse. Du kan parkere lige foran seværdighederne og holde dig tør mellem stop. Morgenen tilhører kirkerne og museet, mens køreturen til Gørding ved middagstid viser den danske nærhed til kysten. Eftermiddagen på golfklubben kan bruges på at slappe af i klubhuset, mens du ser regnen udenfor."
           },
           "stops": [
             {
@@ -1482,7 +1596,8 @@
                 "de": "Zentraler Parkplatz, idealer Ausgangspunkt für kurze Sprints.",
                 "hu": "Központi parkoló, ideális kiindulópont rövid sprinteléshez.",
                 "ro": "Parcare centrală, punct de plecare ideal pentru scurte sprinturi.",
-                "en": "Central parking lot, ideal starting point for short sprints."
+                "en": "Central parking lot, ideal starting point for short sprints.",
+                "da": "Central parkeringsplads, ideel start for korte udflugter."
               }
             },
             {
@@ -1491,7 +1606,8 @@
                 "de": "Parken Sie direkt am Tor für minimalen Regen-Kontakt.",
                 "hu": "Parkoljon közvetlenül a kapunál a minimális eső-érintkezésért.",
                 "ro": "Parcați chiar la poartă pentru contact minim cu ploaia.",
-                "en": "Park right by the gate for minimal rain exposure."
+                "en": "Park right by the gate for minimal rain exposure.",
+                "da": "Parkér lige ved porten for minimal udsættelse for regn."
               }
             },
             {
@@ -1500,7 +1616,8 @@
                 "de": "Gute Parkmöglichkeiten direkt vor dem Gebäude.",
                 "hu": "Jó parkolási lehetőség közvetlenül az épület előtt.",
                 "ro": "Posibilități bune de parcare chiar în fața clădirii.",
-                "en": "Good parking options right in front of the building."
+                "en": "Good parking options right in front of the building.",
+                "da": "Gode parkeringsmuligheder lige foran bygningen."
               }
             },
             {
@@ -1509,7 +1626,8 @@
                 "de": "Die Fahrt bietet weite Ausblicke auf verregnete Felder.",
                 "hu": "Az út tágas kilátást nyújt az eső áztatta mezőkre.",
                 "ro": "Drumul oferă vederi largi asupra câmpurilor plouate.",
-                "en": "The drive offers wide views of rainy fields."
+                "en": "The drive offers wide views of rainy fields.",
+                "da": "Køreturen byder på vide udsigter over regnfulde marker."
               }
             },
             {
@@ -1518,7 +1636,8 @@
                 "de": "Suchen Sie Restaurants mit nahen Parkplätzen.",
                 "hu": "Keressen közeli parkolóval rendelkező éttermeket.",
                 "ro": "Căutați restaurante cu locuri de parcare în apropiere.",
-                "en": "Look for restaurants with nearby parking."
+                "en": "Look for restaurants with nearby parking.",
+                "da": "Søg efter restauranter med nærliggende parkering."
               }
             },
             {
@@ -1527,7 +1646,8 @@
                 "de": "Der Parkplatz ist befestigt und sauber.",
                 "hu": "A parkoló burkolt és tiszta.",
                 "ro": "Parcarea este pavată și curată.",
-                "en": "The parking lot is paved and clean."
+                "en": "The parking lot is paved and clean.",
+                "da": "Parkeringspladsen er belagt og ren."
               }
             }
           ],
@@ -1555,6 +1675,12 @@
               "Watch out for aquaplaning on country roads.",
               "An umbrella in the car is essential for the walk from the parking lot.",
               "Ventilate the car well to avoid fogged windows."
+            ],
+            "da": [
+              "Tjek viskerbladenes tilstand ved kraftig regn.",
+              "Pas på aquaplaning på landvejene.",
+              "En paraply i bilen er vigtig til gåturen fra parkeringspladsen.",
+              "Luf godt ud i bilen for at undgå dug på ruderne."
             ]
           }
         },
@@ -1563,7 +1689,8 @@
             "de": "Winterfahrten durch Bramming zeigen die raue Schönheit Jütlands. Morgens glitzert der Frost auf den Feldern, während man im warmen Auto die Kirchen ansteuert. Mittags führt die Fahrt durch kleine Dörfer nach Gørding. Der frühe Sonnenuntergang verwandelt die Fahrt zum Golfclub am Nachmittag in eine stimmungsvolle Dämmerungstour. Ein entspannter Tag, der die winterliche Weite Dänemarks sicher erlebbar macht.",
             "hu": "A téli autózás Brammingban megmutatja Jütland zord szépségét. Reggel a zúzmara csillog a mezőkön, miközben a meleg autóban a templomok felé tartunk. Délben az út kis falvakon keresztül vezet Gördingbe. A korai naplemente hangulatos alkonyati túrává változtatja a délutáni golfklubhoz vezető utat. Egy pihentető nap, amely biztonságosan mutatja be Dánia téli tágasságát.",
             "ro": "Drumurile de iarnă prin Bramming arată frumusețea aspră a Iutlandei. Dimineața, chiciura sclipeste pe câmpuri în timp ce vă îndreptați spre biserici în mașina caldă. La prânz, drumul trece prin sate mici spre Gørding. Apusul timpuriu transformă drumul spre clubul de golf într-o tură atmosferică la amurg. O zi relaxată care face ca vastitatea iernii daneze să fie experimentată în siguranță.",
-            "en": "Winter drives through Bramming show the rugged beauty of Jutland. In the morning, frost sparkles on the fields while you head to the churches in a warm car. At noon, the drive passes through small villages to Gørding. The early sunset turns the afternoon drive to the golf club into an atmospheric twilight tour. A relaxed day that makes Denmark's winter expanse safely accessible."
+            "en": "Winter drives through Bramming show the rugged beauty of Jutland. In the morning, frost sparkles on the fields while you head to the churches in a warm car. At noon, the drive passes through small villages to Gørding. The early sunset turns the afternoon drive to the golf club into an atmospheric twilight tour. A relaxed day that makes Denmark's winter expanse safely accessible.",
+            "da": "Vinterkørsler gennem Bramming viser Jyllands rå skønhed. Om morgenen glitrer frosten på markerne, mens du kører til kirkerne i en varm bil. Ved middagstid passerer turen små landsbyer på vej til Gørding. Den tidlige solnedgang gør eftermiddagsturen til golfklubben til en stemningsfuld skumringstur. En afslappet dag, der gør Danmarks vintervidder sikkert tilgængelige."
           },
           "stops": [
             {
@@ -1572,7 +1699,8 @@
                 "de": "Rechnen Sie Zeit für das Eiskratzen ein.",
                 "hu": "Számoljon időt a jégkaparásra.",
                 "ro": "Rezervați-vă timp pentru curățarea gheții.",
-                "en": "Allow time for ice scraping."
+                "en": "Allow time for ice scraping.",
+                "da": "Afsæt tid til isskrabning."
               }
             },
             {
@@ -1581,7 +1709,8 @@
                 "de": "Auffahrten können morgens glatt sein.",
                 "hu": "A feljárók reggel csúszósak lehetnek.",
                 "ro": "Căile de acces pot fi alunecoase dimineața.",
-                "en": "Driveways can be slippery in the morning."
+                "en": "Driveways can be slippery in the morning.",
+                "da": "Indkørsler kan være glatte om morgenen."
               }
             },
             {
@@ -1590,7 +1719,8 @@
                 "de": "Das Auto kühlt während des Besuchs schnell aus.",
                 "hu": "Az autó gyorsan lehűl a látogatás alatt.",
                 "ro": "Mașina se răcește repede în timpul vizitei.",
-                "en": "The car cools down quickly during the visit."
+                "en": "The car cools down quickly during the visit.",
+                "da": "Bilen køler hurtigt ned under besøget."
               }
             },
             {
@@ -1599,7 +1729,8 @@
                 "de": "Landstraßen werden oft später geräumt als Hauptwege.",
                 "hu": "Az országutakat gyakran később takarítják, mint a főutakat.",
                 "ro": "Drumurile secundare sunt adesea deszăpezite mai târziu decât cele principale.",
-                "en": "Country roads are often cleared later than main routes."
+                "en": "Country roads are often cleared later than main routes.",
+                "da": "Landveje ryddes ofte senere end hovedveje."
               }
             },
             {
@@ -1608,7 +1739,8 @@
                 "de": "Warme Parkplätze sind in Dänemark selten, nutzen Sie die Heizung.",
                 "hu": "A fűtött parkolók ritkák Dániában, használja a fűtést.",
                 "ro": "Parcările calde sunt rare în Danemarca, folosiți încălzirea.",
-                "en": "Heated parking is rare in Denmark; use your heater."
+                "en": "Heated parking is rare in Denmark; use your heater.",
+                "da": "Opvarmede parkeringspladser er sjældne i Danmark; brug varmen i bilen."
               }
             },
             {
@@ -1617,7 +1749,8 @@
                 "de": "Die Abenddämmerung macht Wildwechsel wahrscheinlicher.",
                 "hu": "Az esti szürkületben valószínűbb a vadak megjelenése.",
                 "ro": "Amurgul crește probabilitatea apariției animalelor sălbatice pe drum.",
-                "en": "Twilight makes deer crossings more likely."
+                "en": "Twilight makes deer crossings more likely.",
+                "da": "Skumring øger sandsynligheden for krydsende rådyr."
               }
             }
           ],
@@ -1645,6 +1778,12 @@
               "Keep the fuel tank full for unforeseen stops.",
               "Turn on lights even during the day in low visibility.",
               "An ice scraper and a brush should be in the car."
+            ],
+            "da": [
+              "Vinterdæk er et absolut krav.",
+              "Hold brændstoftanken fuld til uforudsete stop.",
+              "Tænd for lygterne også om dagen ved nedsat sigtbarhed.",
+              "En isskraber og en børste bør være i bilen."
             ]
           }
         }
@@ -1663,7 +1802,8 @@
             "de": "Ankunft am Bahnhof Bramming",
             "hu": "Érkezés a Brammingi pályaudvarra",
             "ro": "Sosire la Gara Bramming",
-            "en": "Arrival at Bramming Station"
+            "en": "Arrival at Bramming Station",
+            "da": "Ankomst til Bramming Station"
           },
           "coords": [
             8.6998,
@@ -1678,7 +1818,8 @@
             "de": "Der Bahnhof ist Ihr zentraler Knotenpunkt für den Tag.",
             "hu": "A vasútállomás a napi központi csomópontja.",
             "ro": "Gara este nodul dvs. central pentru această zi.",
-            "en": "The station is your central hub for the day."
+            "en": "The station is your central hub for the day.",
+            "da": "Stationen er dit centrale knudepunkt for dagen."
           }
         },
         {
@@ -1686,7 +1827,8 @@
             "de": "Cluster Zentrum: Sct. Ansgar & Bramming Kirke",
             "hu": "Központ klaszter: Szent Ansgar és Brammingi templom",
             "ro": "Cluster Centru: Biserica Sf. Ansgar & Bramming",
-            "en": "Center Cluster: Sct. Ansgar & Bramming Church"
+            "en": "Center Cluster: Sct. Ansgar & Bramming Church",
+            "da": "Center Cluster: Sct. Ansgar & Bramming Kirke"
           },
           "coords": [
             8.7043,
@@ -1702,7 +1844,8 @@
             "de": "Ein kurzer Spaziergang vom Bahnhof, um die beiden Hauptkirchen zu erkunden.",
             "hu": "Egy rövid séta a pályaudvartól a két fő templom felfedezéséhez.",
             "ro": "O scurtă plimbare de la gară pentru a explora cele două biserici principale.",
-            "en": "A short walk from the station to explore the two main churches."
+            "en": "A short walk from the station to explore the two main churches.",
+            "da": "En kort gåtur fra stationen for at udforske de to hovedkirker."
           }
         },
         {
@@ -1710,7 +1853,8 @@
             "de": "Bramming Egnsmuseum",
             "hu": "Brammingi Helytörténeti Múzeum",
             "ro": "Muzeul Regional Bramming",
-            "en": "Bramming Regional Museum"
+            "en": "Bramming Regional Museum",
+            "da": "Bramming Egnsmuseum"
           },
           "coords": [
             8.7077,
@@ -1726,7 +1870,8 @@
             "de": "Gehen Sie weiter zum Museum, das sich ebenfalls im zentralen Cluster befindet.",
             "hu": "Sétáljon tovább a múzeumhoz, amely szintén a központi klaszterben található.",
             "ro": "Continuați pe jos până la muzeu, aflat tot în clusterul central.",
-            "en": "Continue walking to the museum, also within the central cluster."
+            "en": "Continue walking to the museum, also within the central cluster.",
+            "da": "Fortsæt gåturen til museet, også inden for det centrale cluster."
           }
         },
         {
@@ -1734,7 +1879,8 @@
             "de": "Busfahrt & Spaziergang zum Bramming Lystanlæg",
             "hu": "Buszozás és séta a Bramming Lystanlæg parkhoz",
             "ro": "Călătorie cu autobuzul și plimbare la Bramming Lystanlæg",
-            "en": "Bus Ride & Walk to Bramming Lystanlæg"
+            "en": "Bus Ride & Walk to Bramming Lystanlæg",
+            "da": "Bustur & Gåtur til Bramming Lystanlæg"
           },
           "coords": [
             8.6855,
@@ -1750,7 +1896,8 @@
             "de": "Nehmen Sie einen lokalen Bus Richtung Westen für ein paar Haltestellen, um näher an den Park zu gelangen.",
             "hu": "Menjen néhány megállót egy helyi busszal nyugat felé, hogy közelebb kerüljön a parkhoz.",
             "ro": "Luați un autobuz local spre vest pentru câteva stații pentru a vă apropia de parc.",
-            "en": "Take a local bus west for a few stops to get closer to the park."
+            "en": "Take a local bus west for a few stops to get closer to the park.",
+            "da": "Tag en lokal bus mod vest et par stop for at komme tættere på parken."
           }
         },
         {
@@ -1758,7 +1905,8 @@
             "de": "Busfahrt & Spaziergang zum Terp Spejdercenter",
             "hu": "Buszozás és séta a Terp Cserkészközponthoz",
             "ro": "Călătorie cu autobuzul și plimbare la Centrul Terp",
-            "en": "Bus Ride & Walk to Terp Spejdercenter"
+            "en": "Bus Ride & Walk to Terp Spejdercenter",
+            "da": "Bustur & Gåtur til Terp Spejdercenter"
           },
           "coords": [
             8.6581,
@@ -1774,7 +1922,8 @@
             "de": "Nehmen Sie einen Bus nach Norden, um die offene Landschaft um das Pfadfinderzentrum zu erkunden.",
             "hu": "Menjen busszal észak felé, hogy felfedezze a cserkészközpont körüli nyílt tájat.",
             "ro": "Luați un autobuz spre nord pentru a explora peisajul deschis din jurul centrului de cercetași.",
-            "en": "Take a bus north to explore the open landscape around the scout center."
+            "en": "Take a bus north to explore the open landscape around the scout center.",
+            "da": "Tag en bus mod nord for at udforske det åbne landskab omkring spejdercentret."
           }
         }
       ],
@@ -1782,7 +1931,8 @@
         "de": "Ihr Tag mit öffentlichen Verkehrsmitteln in Bramming nutzt den Bahnhof als Ausgangspunkt. Der Vormittag besteht aus einem einfachen „Walk-Cluster“ im Stadtzentrum, bei dem Sie die Kirchen und das Museum besuchen, die alle leicht zu Fuß vom Bahnhof aus erreichbar sind. Nach dem Mittagessen nutzen Sie das lokale Busnetz, um zu Ihrem zweiten Cluster zu gelangen: dem Bramming Lystanlæg Park. Eine kurze Busfahrt bringt Sie in die Nähe, und ein kurzer Spaziergang führt Sie in diese grüne Oase. Am Nachmittag bringt Sie eine weitere Busfahrt zum Terp Spejdercenter, Ihrem dritten Cluster, wo Sie eine andere Seite von Brammings Naturlandschaft erleben können, bevor Sie für Ihre Abreise zum Bahnhof zurückkehren.",
         "hu": "A tömegközlekedéssel töltött napja Brammingban a vasútállomást használja kiindulópontként. A délelőtt egy egyszerű „sétaklaszterből” áll a városközpontban, ahol meglátogatja a templomokat és a múzeumot, mindezt könnyen elérhetően a vasútállomástól. Ebéd után a helyi buszhálózatot használja, hogy eljusson a második klaszterhez: a Bramming Lystanlæg parkhoz. Egy rövid buszút közel viszi, és egy rövid séta elvezeti ebbe a zöld oázisba. Délután egy másik buszút viszi a Terp Cserkészközponthoz, a harmadik klaszterhez, ahol megtapasztalhatja Bramming természeti tájának egy másik oldalát, mielőtt visszatérne a vasútállomásra az induláshoz.",
         "ro": "Ziua dvs. cu transportul public în Bramming folosește gara ca bază. Dimineața constă într-un „cluster de mers pe jos” simplu în centrul orașului, vizitând bisericile și muzeul, toate la distanță de mers pe jos de gară. După prânz, folosiți rețeaua locală de autobuze pentru a ajunge la al doilea cluster: parcul Bramming Lystanlæg. O scurtă călătorie cu autobuzul vă aduce în apropiere, iar o plimbare scurtă vă duce în această oază de verdeață. După-amiaza, o altă călătorie cu autobuzul vă duce la Centrul de Cercetași Terp, al treilea cluster, unde puteți experimenta o altă latură a peisajului natural din Bramming înainte de a vă întoarce la gară pentru plecare.",
-        "en": "Your public transit day in Bramming uses the train station as its base. The morning consists of a simple 'walk cluster' in the town center, visiting the churches and museum, all within easy walking distance of the station. After lunch, you'll use the local bus network to get to your second cluster: the Bramming Lystanlæg park. A short bus ride gets you close, and a brief walk takes you into this green oasis. In the afternoon, another bus journey takes you to the Terp Spejdercenter, your third cluster, where you can experience a different side of Bramming's natural landscape before returning to the station for your departure."
+        "en": "Your public transit day in Bramming uses the train station as its base. The morning consists of a simple 'walk cluster' in the town center, visiting the churches and museum, all within easy walking distance of the station. After lunch, you'll use the local bus network to get to your second cluster: the Bramming Lystanlæg park. A short bus ride gets you close, and a brief walk takes you into this green oasis. In the afternoon, another bus journey takes you to the Terp Spejdercenter, your third cluster, where you can experience a different side of Bramming's natural landscape before returning to the station for your departure.",
+        "da": "Din offentlige transport-dag i Bramming bruger stationen som base. Morgenen består af en enkel ’gå-cluster’ i bymidten, hvor du besøger kirkerne og museet, alle inden for behagelig gåafstand fra stationen. Efter frokost bruger du det lokale busnet til at komme til din anden cluster: Bramming Lystanlæg. En kort bustur bringer dig tæt på, og en kort gåtur fører dig ind i denne grønne oase. Om eftermiddagen tager endnu en bus dig til Terp Spejdercenter, din tredje cluster, hvor du kan opleve en anden side af Brammings natur, inden du vender tilbage til stationen for afrejse."
       },
       "gastro_picks": {
         "de": [
@@ -1978,6 +2128,12 @@
           "Check bus schedules in advance, as services can be less frequent in rural areas.",
           "Have small change for the bus in case card payment is not an option.",
           "Download offline maps, as mobile coverage can be patchy in some areas."
+        ],
+        "da": [
+          "Køb en dagsbillet til bussen, hvis den findes, for at spare penge.",
+          "Tjek busplanerne på forhånd, da afgange kan være sjældnere i landdistrikterne.",
+          "Hav småpenge klar til bussen, hvis kortbetaling ikke er en mulighed.",
+          "Download offline-kort, da mobildækningen kan være ujævn i nogle områder."
         ]
       },
       "variants": {
@@ -1986,7 +2142,8 @@
             "de": "Mit Bus und Bahn durch das verregnete Bramming zu reisen, bietet die nötigen Ruhephasen im Trockenen. Der Tag startet am Bahnhof, dem Knotenpunkt der Region. Mittags verbinden kurze Busfahrten die Kirchen mit dem Museum. Am Nachmittag führt der Weg zu den Parks, wobei die Busse oft direkt in der Nähe halten. Ein entspannter Tag, der die logistische Effizienz Dänemarks zeigt.",
             "hu": "Busszal és vonattal utazni az esős Brammingban biztosítja a szükséges száraz pihenőket. A nap az állomáson indul, amely a régió csomópontja. Délben rövid buszutak kötik össze a templomokat a múzeummal. Délután az út a parkokhoz vezet, ahol a buszok gyakran közvetlenül a közelben állnak meg. Egy pihentető nap, amely Dánia logisztikai hatékonyságát mutatja.",
             "ro": "Călătoria cu autobuzul și trenul prin Bramming-ul ploios oferă fazele de odihnă necesare la adăpost. Ziua începe la gară, nodul central al regiunii. La prânz, scurte călătorii cu autobuzul leagă bisericile de muzeu. După-amiaza, drumul duce spre parcuri, autobuzele oprind adesea chiar în apropiere. O zi relaxată care arată eficiența logistică a Danemarcei.",
-            "en": "Traveling by bus and train through rainy Bramming provides the necessary rest periods in the dry. The day starts at the station, the hub of the region. At noon, short bus rides connect the churches with the museum. In the afternoon, the path leads to the parks, with buses often stopping directly nearby. A relaxed day showing Denmark's logistical efficiency."
+            "en": "Traveling by bus and train through rainy Bramming provides the necessary rest periods in the dry. The day starts at the station, the hub of the region. At noon, short bus rides connect the churches with the museum. In the afternoon, the path leads to the parks, with buses often stopping directly nearby. A relaxed day showing Denmark's logistical efficiency.",
+            "da": "At rejse med bus og tog gennem regnfulde Bramming giver de nødvendige pauser i tørvejr. Dagen starter på stationen, regionens knudepunkt. Middagstid forbinder korte busture kirkerne med museet. Om eftermiddagen fører ruten til parkerne, hvor busser ofte standser lige i nærheden. En afslappet dag, der viser Danmarks logistiske effektivitet."
           },
           "stops": [
             {
@@ -1995,7 +2152,8 @@
                 "de": "Zentraler Umsteigepunkt mit digitalem Fahrplan.",
                 "hu": "Központi átszállóhely digitális menetrenddel.",
                 "ro": "Punct central de transfer cu orar digital.",
-                "en": "Central transfer point with digital timetable."
+                "en": "Central transfer point with digital timetable.",
+                "da": "Centralt omstegepunk med digital køreplan."
               }
             },
             {
@@ -2004,7 +2162,8 @@
                 "de": "Bushaltestellen bieten meist kleine Unterstände.",
                 "hu": "A buszmegállók többnyire kis beállókkal rendelkeznek.",
                 "ro": "Stațiile de autobuz oferă de obicei mici adăposturi.",
-                "en": "Bus stops mostly offer small shelters."
+                "en": "Bus stops mostly offer small shelters.",
+                "da": "Busstoppesteder har for det meste små læskure."
               }
             },
             {
@@ -2013,7 +2172,8 @@
                 "de": "Prüfen Sie die Abfahrtszeiten vor dem Verlassen des Museums.",
                 "hu": "Ellenőrizze az indulási időket a múzeum elhagyása előtt.",
                 "ro": "Verificați orele de plecare înainte de a părăsi muzeul.",
-                "en": "Check departure times before leaving the museum."
+                "en": "Check departure times before leaving the museum.",
+                "da": "Tjek afgangstider inden du forlader museet."
               }
             },
             {
@@ -2022,7 +2182,8 @@
                 "de": "Kurzer Fußweg von der Haltestelle zum Park.",
                 "hu": "Rövid séta a megállótól a parkig.",
                 "ro": "Scurtă plimbare de la stație până la parc.",
-                "en": "Short walk from the bus stop to the park."
+                "en": "Short walk from the bus stop to the park.",
+                "da": "Kort gåtur fra busstoppestedet til parken."
               }
             },
             {
@@ -2031,7 +2192,8 @@
                 "de": "Achten Sie auf die letzte Rückfahrt am Abend.",
                 "hu": "Ügyeljen az utolsó esti visszajáratra.",
                 "ro": "Atenție la ultima cursă de întoarcere de seară.",
-                "en": "Watch out for the last return trip in the evening."
+                "en": "Watch out for the last return trip in the evening.",
+                "da": "Pas på sidste returafgang om aftenen."
               }
             }
           ],
@@ -2059,6 +2221,12 @@
               "Bus shelters are usually clean and dry.",
               "A small snack for the waiting time at the station is advisable.",
               "Buy tickets digitally in advance."
+            ],
+            "da": [
+              "Brug appen 'Rejseplanen' til live-data.",
+              "Buslyskure er som regel rene og tørre.",
+              "En lille snack til ventetiden på stationen er anbefalelsesværdig.",
+              "Køb billetter digitalt på forhånd."
             ]
           }
         },
@@ -2067,7 +2235,8 @@
             "de": "Öffentlicher Verkehr in Bramming im Winter ist die wärmste Art, die Stadt zu erkunden. Der Morgen beginnt am belebten Bahnhof, wo Pendler und Reisende zusammenkommen. Mittags bieten die Busse eine Pause vom kalten Wind. Der Nachmittag wird durch die kurzen Tage bestimmt, wobei die gut beleuchteten Haltestellen Sicherheit vermitteln. Ein strukturierter Tag, der auch bei Kälte den vollen Aktionsradius ermöglicht.",
             "hu": "A tömegközlekedés Brammingban télen a legmelegebb módja a város felfedezésének. A reggel a forgalmas állomáson kezdődik, ahol ingázók és utazók találkoznak. Délben a buszok pihenőt nyújtanak a hideg szél elől. A délutánt a rövid nappalok határozzák meg, ahol a jól megvilágított megállók biztonságot nyújtanak. Egy strukturált nap, amely hidegben is teljes mozgásteret biztosít.",
             "ro": "Transportul public în Bramming iarna este cel mai călduros mod de a explora orașul. Dimineața începe la gara animată, unde se întâlnesc navetiștii și călătorii. La prânz, autobuzele oferă o pauză de la vântul rece. După-amiaza este determinată de zilele scurte, stațiile bine iluminate oferind siguranță. O zi structurată care permite o rază completă de acțiune chiar și în condiții de frig.",
-            "en": "Public transit in Bramming in winter is the warmest way to explore the city. The morning starts at the busy station where commuters and travelers meet. At noon, the buses offer a break from the cold wind. The afternoon is defined by the short days, with well-lit stops providing security. A structured day that allows full mobility even in the cold."
+            "en": "Public transit in Bramming in winter is the warmest way to explore the city. The morning starts at the busy station where commuters and travelers meet. At noon, the buses offer a break from the cold wind. The afternoon is defined by the short days, with well-lit stops providing security. A structured day that allows full mobility even in the cold.",
+            "da": "Offentlig transport i Bramming om vinteren er den varmeste måde at udforske byen på. Morgenen starter på den travle station, hvor pendlere og rejsende mødes. Middag tilbyder busserne et pusterum fra den kolde vind. Eftermiddagen præges af de korte dage, hvor veloplyste stoppesteder giver tryghed. En struktureret dag, der giver fuld mobilitet selv i kulden."
           },
           "stops": [
             {
@@ -2076,7 +2245,8 @@
                 "de": "Der Kiosk im Bahnhof bietet heißen Kaffee.",
                 "hu": "Az állomási kioszkban forró kávé kapható.",
                 "ro": "Chioșcul din gară oferă cafea fierbinte.",
-                "en": "The station kiosk offers hot coffee."
+                "en": "The station kiosk offers hot coffee.",
+                "da": "Stationskiosken tilbyder varm kaffe."
               }
             },
             {
@@ -2085,7 +2255,8 @@
                 "de": "Haltestellen können bei Frost rutschig sein.",
                 "hu": "A megállók fagy esetén csúszósak lehetnek.",
                 "ro": "Stațiile pot fi alunecoase în caz de îngheț.",
-                "en": "Bus stops can be slippery during frost."
+                "en": "Bus stops can be slippery during frost.",
+                "da": "Busstoppesteder kan være glatte under frost."
               }
             },
             {
@@ -2094,7 +2265,8 @@
                 "de": "Nutzen Sie den Museumsbesuch als Aufwärmphase.",
                 "hu": "Használja a múzeumlátogatást bemelegítő fázisként.",
                 "ro": "Folosiți vizita la muzeu ca fază de încălzire.",
-                "en": "Use the museum visit as a warm-up phase."
+                "en": "Use the museum visit as a warm-up phase.",
+                "da": "Brug museumsbesøget som en opvarmningsfase."
               }
             },
             {
@@ -2103,7 +2275,8 @@
                 "de": "Kurze Wege im Freien einplanen.",
                 "hu": "Tervezzen rövid kinti szakaszokat.",
                 "ro": "Planificați trasee scurte în aer liber.",
-                "en": "Plan for short segments outdoors."
+                "en": "Plan for short segments outdoors.",
+                "da": "Planlæg korte udendørs etaper."
               }
             },
             {
@@ -2112,7 +2285,8 @@
                 "de": "Rückfahrt bei Dunkelheit einplanen, Beleuchtung am Handy nutzen.",
                 "hu": "Tervezze a visszautat sötétben, használja a telefon világítását.",
                 "ro": "Planificați întoarcerea pe întuneric, folosiți lanterna telefonului.",
-                "en": "Plan for the return trip in the dark; use your phone's flashlight."
+                "en": "Plan for the return trip in the dark; use your phone's flashlight.",
+                "da": "Planlæg returen i mørke; brug telefonens lommelygte."
               }
             }
           ],
@@ -2140,6 +2314,12 @@
               "Minimize waiting time outdoors by studying the schedule closely.",
               "Trains often have power outlets for your phone.",
               "Wear warm socks for the walks between stops."
+            ],
+            "da": [
+              "Busser i Danmark er meget punktlige; mød op til tiden.",
+              "Minimer ventetid udendørs ved nøje at studere køreplanen.",
+              "Tog har ofte stikkontakter til din telefon.",
+              "Tag varme sokker på til gåture mellem stoppestederne."
             ]
           }
         }

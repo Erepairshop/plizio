@@ -21,7 +21,8 @@
             "de": "Svendborg Hafen",
             "hu": "Svendborgi kikötő",
             "ro": "Portul Svendborg",
-            "en": "Svendborg Harbour"
+            "en": "Svendborg Harbour",
+            "da": "Svendborg Havn"
           },
           "coords": [
             10.605,
@@ -37,7 +38,8 @@
             "de": "Beobachten Sie die alten Holzschiffe und die Fähren nach Ærø.",
             "hu": "Figyeld meg a régi fa hajókat és az Ærø szigetére tartó kompokat.",
             "ro": "Priviți navele vechi din lemn și feriboturile către insula Ærø.",
-            "en": "Watch the old wooden ships and the ferries leaving for Ærø island."
+            "en": "Watch the old wooden ships and the ferries leaving for Ærø island.",
+            "da": "Se de gamle træskibe og færgerne, der sejler til Ærø."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Anne Hvides Gård",
             "hu": "Anne Hvide háza",
             "ro": "Casa Anne Hvide",
-            "en": "Anne Hvide's House"
+            "en": "Anne Hvide's House",
+            "da": "Anne Hvides Gård"
           },
           "coords": [
             10.61,
@@ -61,7 +64,8 @@
             "de": "Svendborgs ältestes weltliches Haus aus dem Jahr 1560, ein wahres Juwel.",
             "hu": "Svendborg legrégebbi világi épülete 1560-ból, egy igazi ékszerdoboz.",
             "ro": "Cea mai veche casă laică din Svendborg, datând din 1560, o adevărată bijuterie.",
-            "en": "Svendborg's oldest secular house from 1560, a true gem."
+            "en": "Svendborg's oldest secular house from 1560, a true gem.",
+            "da": "Svendborgs ældste borgerhus fra 1560, en sand perle."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Sct. Nicolai Kirke",
             "hu": "Szent Miklós-templom",
             "ro": "Biserica Sf. Nicolae",
-            "en": "St. Nicolai Church"
+            "en": "St. Nicolai Church",
+            "da": "Sankt Nicolai Kirke"
           },
           "coords": [
             10.608,
@@ -85,7 +90,8 @@
             "de": "Achten Sie auf das Modell eines Schiffes, das von der Decke hängt.",
             "hu": "Keresd a mennyezetről lógó hajómodellt, egy helyi hagyományt.",
             "ro": "Căutați modelul de navă suspendat de tavan, o tradiție locală.",
-            "en": "Look for the model ship hanging from the ceiling, a local tradition."
+            "en": "Look for the model ship hanging from the ceiling, a local tradition.",
+            "da": "Læg mærke til modelskibet, der hænger fra loftet, en lokal tradition."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Naturama",
             "hu": "Naturama",
             "ro": "Naturama",
-            "en": "Naturama"
+            "en": "Naturama",
+            "da": "Naturama"
           },
           "coords": [
             11.598,
@@ -109,7 +116,8 @@
             "de": "Ein modernes Naturkundemuseum. Ideal für Familien.",
             "hu": "Modern természettudományi múzeum. Családoknak is ideális.",
             "ro": "Un muzeu modern de istorie naturală. Ideal pentru familii.",
-            "en": "A modern natural history museum. Great for families."
+            "en": "A modern natural history museum. Great for families.",
+            "da": "Et moderne naturhistorisk museum. Fantastisk for familier."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Danmarks Forsorgsmuseum",
             "hu": "Dán Jóléti Múzeum",
             "ro": "Muzeul Asistenței Sociale din Danemarca",
-            "en": "Denmark's Welfare Museum"
+            "en": "Denmark's Welfare Museum",
+            "da": "Danmarks Velfærdsmuseum"
           },
           "coords": [
             10.625,
@@ -133,7 +142,8 @@
             "de": "Ein einzigartiges Museum über die Geschichte des dänischen Wohlfahrtsstaates.",
             "hu": "Egyedülálló múzeum a dán jóléti állam történetéről.",
             "ro": "Un muzeu unic despre istoria statului social danez.",
-            "en": "A unique museum about the history of the Danish welfare state."
+            "en": "A unique museum about the history of the Danish welfare state.",
+            "da": "Et unikt museum om den danske velfærdsstats historie."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Christiansminde Strand",
             "hu": "Christiansminde strand",
             "ro": "Plaja Christiansminde",
-            "en": "Christiansminde Beach"
+            "en": "Christiansminde Beach",
+            "da": "Christiansminde Strand"
           },
           "coords": [
             10.64,
@@ -157,7 +168,8 @@
             "de": "Ein entspannender Spaziergang am Ende des Tages mit Blick auf den Sund.",
             "hu": "Egy pihentető séta a nap végén, kilátással a szorosra.",
             "ro": "O plimbare relaxantă la sfârșitul zilei, cu vedere la strâmtoare.",
-            "en": "A relaxing walk at the end of the day with a view over the sound."
+            "en": "A relaxing walk at the end of the day with a view over the sound.",
+            "da": "En afslappende gåtur sidst på dagen med udsigt over sundet."
           }
         }
       ],
@@ -165,7 +177,8 @@
         "de": "Beginnen Sie Ihren Tag am lebhaften Hafen von Svendborg, dem Herzen der Seefahrtsgeschichte von Fünen. Am Vormittag erkunden Sie das historische Zentrum, besuchen das älteste Haus der Stadt, Anne Hvides Gård, und die Sct. Nicolai Kirke. Am Nachmittag tauchen Sie im Naturama in die Tierwelt Dänemarks ein, bevor Sie im einzigartigen Wohlfahrtsmuseum über die dänische Gesellschaft lernen. Schließen Sie den Tag mit einem ruhigen Spaziergang am Christiansminde Strand ab und genießen Sie die Aussicht auf den Svendborgsund.",
         "hu": "Kezdje a napot Svendborg nyüzsgő kikötőjében, Fyn tengerészeti történelmének szívében. A délelőtt folyamán fedezze fel a történelmi központot, látogasson el a város legrégebbi házához, az Anne Hvides Gård-hoz és a Szent Miklós-templomhoz. Délután merüljön el Dánia vadvilágában a Naturama múzeumban, majd ismerje meg a dán társadalmat az egyedülálló Jóléti Múzeumban. Zárja a napot egy békés sétával a Christiansminde strandon, gyönyörködve a Svendborg-szorosra nyíló kilátásban.",
         "ro": "Începeți ziua în portul plin de viață din Svendborg, inima istoriei maritime a insulei Funen. Dimineața, explorați centrul istoric, vizitând cea mai veche casă din oraș, Anne Hvides Gård, și Biserica Sf. Nicolae. După-amiaza, pătrundeți în fauna sălbatică a Danemarcei la Naturama, înainte de a învăța despre societatea daneză la Muzeul unic al Asistenței Sociale. Încheiați ziua cu o plimbare liniștită pe plaja Christiansminde, admirând priveliștea asupra strâmtorii Svendborg.",
-        "en": "Start your day at the bustling Svendborg Harbour, the heart of Funen's maritime history. In the morning, explore the historic center, visiting the city's oldest house, Anne Hvides Gård, and St. Nicolai Church. In the afternoon, delve into Denmark's wildlife at Naturama before learning about Danish society at the unique Welfare Museum. End your day with a peaceful walk at Christiansminde Beach, enjoying the view over the Svendborg Sound."
+        "en": "Start your day at the bustling Svendborg Harbour, the heart of Funen's maritime history. In the morning, explore the historic center, visiting the city's oldest house, Anne Hvides Gård, and St. Nicolai Church. In the afternoon, delve into Denmark's wildlife at Naturama before learning about Danish society at the unique Welfare Museum. End your day with a peaceful walk at Christiansminde Beach, enjoying the view over the Svendborg Sound.",
+        "da": "Start din dag ved den livlige Svendborg Havn, hjertet af Fyns søfartshistorie. Om morgenen udforsker du den historiske bymidte, besøger byens ældste hus, Anne Hvides Gård, og Sankt Nicolai Kirke. Om eftermiddagen dykker du ned i Danmarks dyreliv på Naturama, før du lærer om dansk samfund på det unikke Velfærdsmuseum. Afslut dagen med en fredelig gåtur på Christiansminde Strand og nyd udsigten over Svendborg Sund."
       },
       "gastro_picks": {
         "de": [
@@ -361,6 +374,12 @@
           "Most museums are closed on Mondays, so plan accordingly.",
           "A walk along the harbour is beautiful at any time of day, but especially at sunset.",
           "Look out for the many small galleries and workshops in the side streets."
+        ],
+        "da": [
+          "Brug komfortable sko, da brostenene i den gamle by kan være ujævne.",
+          "De fleste museer har lukket om mandagen, så planlæg efter det.",
+          "En gåtur langs havnen er smuk på alle tidspunkter, men især ved solnedgang.",
+          "Hold øje med de mange små gallerier og værksteder i sidegaderne."
         ]
       },
       "variants": {
@@ -369,7 +388,8 @@
             "de": "Der Tag beginnt am nebligen Hafen von Svendborg. Wir suchen Schutz im historischen Haus von Anne Hvide und in der St. Nicolai Kirche. Den Mittag verbringen wir im trockenen Naturama unter Wal-Skeletten. Nachmittags erkunden wir das Sozialmuseum Fattiggården, bevor wir den Tag trotz Regen mit einem kurzen Blick auf den Strand von Christiansminde abschließen.",
             "hu": "A reggel a ködös kikötőben indul esernyőkkel. Menedéket keresünk Anne Hvide favázas házában és a Szent Miklós-templom vastag falai között. A delet a Naturama modern, fedett kiállítótereiben töltjük. Délután a Szociális Múzeum belső tereit járjuk be, majd egy frissítő, esős tengerparti séta után a belváros melegében vacsorázunk.",
             "ro": "Dimineața începe în portul Svendborg sub cerul cenușiu. Căutăm adăpost în casa istorică a lui Anne Hvide și în Biserica Sf. Nicolai. Prânzul îl petrecem în interiorul muzeului Naturama, explorând fauna. După-amiaza continuă la Muzeul Bunăstării, terminând ziua cu o scurtă plimbare pe plaja Christiansminde, admirând marea sub ploaie.",
-            "en": "The day starts at the misty Svendborg Harbour. We seek refuge in the historic Anne Hvide's House and the medieval St. Nicolai Church. Lunchtime is spent exploring Naturama's vast indoor natural history exhibits. The afternoon continues at the Welfare Museum before a damp but atmospheric walk to the beach to see the Svendborg Sound."
+            "en": "The day starts at the misty Svendborg Harbour. We seek refuge in the historic Anne Hvide's House and the medieval St. Nicolai Church. Lunchtime is spent exploring Naturama's vast indoor natural history exhibits. The afternoon continues at the Welfare Museum before a damp but atmospheric walk to the beach to see the Svendborg Sound.",
+            "da": "Dagen starter ved den tågede Svendborg Havn. Vi søger læ i det historiske Anne Hvides Gård og den middelalderlige Sankt Nicolai Kirke. Frokosten tilbringes med at udforske Naturamas omfattende indendørs naturhistoriske udstillinger. Eftermiddagen fortsætter på Velfærdsmuseet, før en fugtig men stemningsfuld gåtur fører til stranden for at se Svendborg Sund."
           },
           "stops": [
             {
@@ -378,7 +398,8 @@
                 "de": "Der überdachte Holzsteg bietet Schutz vor leichtem Nieselregen.",
                 "hu": "A fedett sétányok jó menedéket nyújtanak a szemerkélő eső elől.",
                 "ro": "Zonele acoperite de pe dig oferă protecție împotriva burniței.",
-                "en": "Covered wooden piers offer some shelter from light drizzle."
+                "en": "Covered wooden piers offer some shelter from light drizzle.",
+                "da": "Overdækkede træbroer giver lidt læ for let duggeregn."
               }
             },
             {
@@ -387,7 +408,8 @@
                 "de": "Ein perfekter Ort, um der Nässe in historischem Ambiente zu entfliehen.",
                 "hu": "Tökéletes hely, hogy elmeneküljünk a nedvesség elől a történelmi falak közé.",
                 "ro": "Locul perfect pentru a scăpa de ploaie într-un cadru istoric.",
-                "en": "A perfect spot to escape the wet weather in a historic setting."
+                "en": "A perfect spot to escape the wet weather in a historic setting.",
+                "da": "Et perfekt sted at undslippe det våde vejr i en historisk ramme."
               }
             },
             {
@@ -396,7 +418,8 @@
                 "de": "Stille und Trockenheit in der ältesten Kirche der Stadt.",
                 "hu": "Csend és szárazság a város legrégebbi templomában.",
                 "ro": "Liniște și adăpost în cea mai veche biserică din oraș.",
-                "en": "Silence and dryness within the city's oldest church."
+                "en": "Silence and dryness within the city's oldest church.",
+                "da": "Stilhed og tørhed indenfor byens ældste kirke."
               }
             },
             {
@@ -405,7 +428,8 @@
                 "de": "Ideal für Regentage mit spektakulären Indoor-Ausstellungen.",
                 "hu": "Ideális esős napokra a látványos beltéri kiállítások miatt.",
                 "ro": "Ideal pentru zilele ploioase datorită expozițiilor interioare spectaculoase.",
-                "en": "Ideal for rainy days with spectacular indoor exhibitions."
+                "en": "Ideal for rainy days with spectacular indoor exhibitions.",
+                "da": "Ideelt til regnfulde dage med spektakulære indendørsudstillinger."
               }
             },
             {
@@ -414,7 +438,8 @@
                 "de": "Viel Zeit für die Innenräume der ehemaligen Armenanstalt einplanen.",
                 "hu": "Szánjunk sok időt az egykori szegényház belső tereinek felfedezésére.",
                 "ro": "Rezervați mult timp pentru interioarele fostului azil de săraci.",
-                "en": "Plan plenty of time for the interiors of the former poorhouse."
+                "en": "Plan plenty of time for the interiors of the former poorhouse.",
+                "da": "Planlæg god tid til interiørerne i det tidligere fattighus."
               }
             },
             {
@@ -423,7 +448,8 @@
                 "de": "Das Strandcafé ist ein gemütlicher Rückzugsort bei Regen.",
                 "hu": "A tengerparti kávézó hangulatos menedék esőben.",
                 "ro": "Cafeneaua de pe plajă este un refugiu primitor pe timp de ploaie.",
-                "en": "The beach cafe is a cozy retreat if the rain picks up."
+                "en": "The beach cafe is a cozy retreat if the rain picks up.",
+                "da": "Strandcaféen er et hyggeligt tilflugtssted, hvis regnen tager til."
               }
             }
           ],
@@ -451,6 +477,12 @@
               "Svendborg's museums are closely clustered, ideal for short wet walks.",
               "Take advantage of cozy cafes in the pedestrian zone to dry off.",
               "A sturdy storm umbrella is better than a light one near the harbor."
+            ],
+            "da": [
+              "Brug vindtæt regntøj, da vinden fra sundet kan være bidende.",
+              "Svendborgs museer ligger tæt, ideelt til korte våde gåture.",
+              "Benyt dig af hyggelige caféer i gågaden til at tørre dig.",
+              "En solid stormparaply er bedre end en let en ved havnen."
             ]
           }
         },
@@ -459,7 +491,8 @@
             "de": "Ein frostiger Morgen am Hafen weckt die Lebensgeister. Wir wärmen uns in der gemütlichen Atmosphäre von Anne Hvides Haus und der St. Nicolai Kirche auf. Mittags bietet das Naturama moderne Architektur und Wärme. Da die Sonne früh untergeht, genießen wir die blaue Stunde am Strand von Christiansminde, bevor wir uns in die hell erleuchtete Altstadt zurückziehen.",
             "hu": "A fagyos reggel a kikötőben frissítően indul. Anne Hvide házának és a Szent Miklós-templomnak a meghitt hangulata melengető. Délben a Naturama kínál modern menedéket a hideg elől. Mivel korán sötétedik, a kék órát már a Christiansminde tengerparton töltjük, majd visszatérünk a fényárban úszó óvárosba.",
             "ro": "O dimineață geroasă în port ne trezește simțurile. Ne încălzim în atmosfera primitoare a casei lui Anne Hvide și în Biserica Sf. Nicolai. La prânz, Naturama oferă arhitectură modernă și căldură. Deoarece soarele apune devreme, ne bucurăm de ora albastră pe plaja Christiansminde înainte de a ne retrage în centrul vechi luminat festiv.",
-            "en": "A frosty morning at the harbor awakens the spirits. We warm up in the cozy atmosphere of Anne Hvide's House and St. Nicolai Church. At noon, Naturama offers modern architecture and warmth. Since the sun sets early, we enjoy the blue hour at Christiansminde Beach before retreating to the brightly lit old town."
+            "en": "A frosty morning at the harbor awakens the spirits. We warm up in the cozy atmosphere of Anne Hvide's House and St. Nicolai Church. At noon, Naturama offers modern architecture and warmth. Since the sun sets early, we enjoy the blue hour at Christiansminde Beach before retreating to the brightly lit old town.",
+            "da": "En frostklar morgen i havnen vækker sindet. Vi varmer os i den hyggelige atmosfære i Anne Hvides Gård og Sankt Nicolai Kirke. Ved middagstid byder Naturama på moderne arkitektur og varme. Da solen går tidligt ned, nyder vi den blå time ved Christiansminde Strand, inden vi trækker os tilbage til den lysende gamle by."
           },
           "stops": [
             {
@@ -468,7 +501,8 @@
                 "de": "Warme Handschuhe sind für den eisigen Wind am Kai unverzichtbar.",
                 "hu": "A jeges szél miatt a kikötőben elengedhetetlen a meleg kesztyű.",
                 "ro": "Mănușile groase sunt indispensabile pentru vântul înghețat de pe chei.",
-                "en": "Warm gloves are essential for the icy wind at the quayside."
+                "en": "Warm gloves are essential for the icy wind at the quayside.",
+                "da": "Varme handsker er uundværlige mod den isende vind ved kajen."
               }
             },
             {
@@ -477,7 +511,8 @@
                 "de": "Die dicken Mauern halten die Winterkälte draußen.",
                 "hu": "A vastag falak jól kint tartják a téli hideget.",
                 "ro": "Zidurile groase țin frigul iernii la distanță.",
-                "en": "The thick walls keep the winter chill at bay."
+                "en": "The thick walls keep the winter chill at bay.",
+                "da": "De tykke vægge holder vinterkulden ude."
               }
             },
             {
@@ -486,7 +521,8 @@
                 "de": "Oft brennen im Winter Kerzen, die eine warme Atmosphäre schaffen.",
                 "hu": "Télen gyakran égnek gyertyák, meghitt hangulatot árasztva.",
                 "ro": "Iarna ard adesea lumânări, creând o atmosferă caldă.",
-                "en": "Candles are often lit in winter, creating a warm atmosphere."
+                "en": "Candles are often lit in winter, creating a warm atmosphere.",
+                "da": "Stearinlys tændes ofte om vinteren og skaber en varm stemning."
               }
             },
             {
@@ -495,7 +531,8 @@
                 "de": "Perfekt temperierte Hallen für eine lange Pause vom Frost.",
                 "hu": "Kellemesen fűtött csarnokok egy hosszú pihenőhöz a fagy elől.",
                 "ro": "Săli cu temperatură perfectă pentru o pauză lungă de la ger.",
-                "en": "Perfectly heated halls for a long break from the frost."
+                "en": "Perfectly heated halls for a long break from the frost.",
+                "da": "Perfekt opvarmede sale til en lang pause fra frosten."
               }
             },
             {
@@ -504,7 +541,8 @@
                 "de": "Einige Bereiche können kühl sein, behalten Sie den Mantel an.",
                 "hu": "Néhány rész hűvösebb lehet, érdemes kabátban maradni.",
                 "ro": "Unele zone pot fi răcoroase, păstrați haina pe dvs.",
-                "en": "Some areas can be cool; you might want to keep your coat on."
+                "en": "Some areas can be cool; you might want to keep your coat on.",
+                "da": "Nogle områder kan være kølige; du vil måske beholde frakken på."
               }
             },
             {
@@ -513,7 +551,8 @@
                 "de": "Genießen Sie den Sonnenuntergang gegen 16:00 Uhr über dem Sund.",
                 "hu": "Élvezze a naplementét a szoros felett délután 4 óra körül.",
                 "ro": "Bucurați-vă de apusul soarelui peste strâmtoare în jurul orei 16:00.",
-                "en": "Enjoy the sunset over the sound around 4:00 PM."
+                "en": "Enjoy the sunset over the sound around 4:00 PM.",
+                "da": "Nyd solnedgangen over sundet omkring kl. 16:00."
               }
             }
           ],
@@ -541,6 +580,12 @@
               "The sun sets before 4:00 PM in December; plan outdoor stops accordingly.",
               "Watch out for slippery spots on the old town's cobblestone streets.",
               "Look for cafes with a 'Hygge' vibe for your breaks."
+            ],
+            "da": [
+              "Klæd dig i lag til overgangen mellem kold udendørs luft og opvarmede museer.",
+              "Solen går før kl. 16:00 i december; planlæg udendørs stop derefter.",
+              "Pas på glatte steder på brostensgaderne i den gamle by.",
+              "Leder efter caféer med en 'hygge'-stemning til dine pauser."
             ]
           }
         }
@@ -559,7 +604,8 @@
             "de": "Fahrradverleih am Hafen",
             "hu": "Kerékpárkölcsönző a kikötőben",
             "ro": "Închiriere de biciclete în port",
-            "en": "Bike Rental at the Harbour"
+            "en": "Bike Rental at the Harbour",
+            "da": "Cykeludlejning ved havnen"
           },
           "coords": [
             10.603,
@@ -575,7 +621,8 @@
             "de": "Mieten Sie ein Fahrrad für den Tag, um die Stadt und die Küste zu erkunden.",
             "hu": "Bérelj egy biciklit a napra, hogy felfedezd a várost és a partot.",
             "ro": "Închiriați o bicicletă pentru o zi pentru a explora orașul și coasta.",
-            "en": "Rent a bike for the day to explore the city and the coast."
+            "en": "Rent a bike for the day to explore the city and the coast.",
+            "da": "Lej en cykel for dagen for at udforske byen og kysten."
           }
         },
         {
@@ -583,7 +630,8 @@
             "de": "Naturama",
             "hu": "Naturama",
             "ro": "Naturama",
-            "en": "Naturama"
+            "en": "Naturama",
+            "da": "Naturama"
           },
           "coords": [
             10.598,
@@ -599,7 +647,8 @@
             "de": "Beginnen Sie mit dem modernen Naturkundemuseum, es ist faszinierend.",
             "hu": "Kezdd a modern természettudományi múzeummal, lenyűgöző.",
             "ro": "Începeți cu muzeul modern de istorie naturală, este fascinant.",
-            "en": "Start with the modern natural history museum, it's fascinating."
+            "en": "Start with the modern natural history museum, it's fascinating.",
+            "da": "Start ved det moderne naturhistoriske museum, det er fascinerende."
           }
         },
         {
@@ -607,7 +656,8 @@
             "de": "Sct. Nicolai Kirke & Altstadt",
             "hu": "Szent Miklós-templom és Óváros",
             "ro": "Biserica Sf. Nicolae și Centrul Vechi",
-            "en": "St. Nicolai Church & Old Town"
+            "en": "St. Nicolai Church & Old Town",
+            "da": "Sankt Nicolai Kirke & Den Gamle By"
           },
           "coords": [
             10.608,
@@ -623,7 +673,8 @@
             "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie die Kirche und die Altstadtgassen zu Fuß.",
             "hu": "Tedd le a biciklit, és fedezd fel gyalog a templomot és az óváros sikátorait.",
             "ro": "Parcați bicicleta și explorați biserica și străduțele orașului vechi pe jos.",
-            "en": "Park your bike and explore the church and the old town alleys on foot."
+            "en": "Park your bike and explore the church and the old town alleys on foot.",
+            "da": "Parkér din cykel og udforsk kirken og de gamle bystræder til fods."
           }
         },
         {
@@ -631,7 +682,8 @@
             "de": "Christiansminde Strand",
             "hu": "Christiansminde strand",
             "ro": "Plaja Christiansminde",
-            "en": "Christiansminde Beach"
+            "en": "Christiansminde Beach",
+            "da": "Christiansminde Strand"
           },
           "coords": [
             10.64,
@@ -647,7 +699,8 @@
             "de": "Eine schöne Radtour entlang der Küste. Zeit für ein Mittagessen und vielleicht ein Bad.",
             "hu": "Szép bicikliút a part mentén. Itt az idő ebédelni és talán fürdeni egyet.",
             "ro": "O plimbare frumoasă cu bicicleta de-a lungul coastei. Timp pentru prânz și poate o baie.",
-            "en": "A beautiful bike ride along the coast. Time for lunch and maybe a swim."
+            "en": "A beautiful bike ride along the coast. Time for lunch and maybe a swim.",
+            "da": "En smuk cykeltur langs kysten. Tid til frokost og måske en dukkert."
           }
         },
         {
@@ -655,7 +708,8 @@
             "de": "Danmarks Forsorgsmuseum",
             "hu": "Dán Jóléti Múzeum",
             "ro": "Muzeul Asistenței Sociale din Danemarca",
-            "en": "Denmark's Welfare Museum"
+            "en": "Denmark's Welfare Museum",
+            "da": "Danmarks Velfærdsmuseum"
           },
           "coords": [
             10.625,
@@ -671,7 +725,8 @@
             "de": "Auf dem Rückweg ins Zentrum gelegen, ein nachdenklich stimmender Besuch.",
             "hu": "A központ felé vezető úton található, elgondolkodtató látogatás.",
             "ro": "Situat în drum spre centru, o vizită care te pune pe gânduri.",
-            "en": "Located on the way back to the center, a thought-provoking visit."
+            "en": "Located on the way back to the center, a thought-provoking visit.",
+            "da": "Beliggende på vej tilbage mod centrum, et tankevækkende besøg."
           }
         },
         {
@@ -679,7 +734,8 @@
             "de": "Svendborg Hafen",
             "hu": "Svendborgi kikötő",
             "ro": "Portul Svendborg",
-            "en": "Svendborg Harbour"
+            "en": "Svendborg Harbour",
+            "da": "Svendborg Havn"
           },
           "coords": [
             10.605,
@@ -695,7 +751,8 @@
             "de": "Geben Sie Ihr Fahrrad zurück und genießen Sie den Abend am Wasser.",
             "hu": "Add vissza a biciklit, és élvezd az estét a vízparton.",
             "ro": "Returnați bicicleta și bucurați-vă de seara la malul apei.",
-            "en": "Return your bike and enjoy the evening by the water."
+            "en": "Return your bike and enjoy the evening by the water.",
+            "da": "Aflever din cykel og nyd aftenen ved vandet."
           }
         }
       ],
@@ -703,7 +760,8 @@
         "de": "Schwingen Sie sich in Svendborg aufs Rad für eine Tour, die Stadt und Natur verbindet. Starten Sie nach der Fahrradmiete mit dem Naturama Museum. Mittags erkunden Sie die Altstadt um die Sct. Nicolai Kirke. Am Nachmittag führt Sie eine malerische Küstenroute zum Christiansminde Strand – perfekt für eine lange Pause. Auf dem Rückweg halten Sie am Danmarks Forsorgsmuseum, bevor Sie den Tag am Hafen ausklingen lassen, wo Ihre Reise begann.",
         "hu": "Pattanj biciklire Svendborgban egy olyan túrára, amely összeköti a várost és a természetet. A kerékpárbérlés után kezdd a Naturama Múzeummal. Délben fedezd fel az óvárost a Szent Miklós-templom körül. Délután egy festői tengerparti útvonal vezet a Christiansminde strandhoz – tökéletes egy hosszabb pihenőre. Visszafelé állj meg a Dán Jóléti Múzeumnál, mielőtt a napot a kikötőben fejezed be, ahol az utazásod kezdődött.",
         "ro": "Urcați-vă pe bicicletă în Svendborg pentru un tur care combină orașul și natura. După închirierea bicicletei, începeți cu Muzeul Naturama. La prânz, explorați orașul vechi din jurul Bisericii Sf. Nicolae. După-amiaza, un traseu pitoresc de coastă vă duce la plaja Christiansminde - perfect pentru o pauză lungă. Pe drumul de întoarcere, opriți-vă la Muzeul Asistenței Sociale din Danemarca înainte de a încheia ziua în port, de unde a început călătoria.",
-        "en": "Get on your bike in Svendborg for a tour that combines city and nature. After renting your bike, start with the Naturama Museum. At noon, explore the old town around St. Nicolai Church. In the afternoon, a scenic coastal route takes you to Christiansminde Beach - perfect for a long break. On the way back, stop at Denmark's Welfare Museum before ending the day at the harbour where your journey began."
+        "en": "Get on your bike in Svendborg for a tour that combines city and nature. After renting your bike, start with the Naturama Museum. At noon, explore the old town around St. Nicolai Church. In the afternoon, a scenic coastal route takes you to Christiansminde Beach - perfect for a long break. On the way back, stop at Denmark's Welfare Museum before ending the day at the harbour where your journey began.",
+        "da": "Sæt dig på cyklen i Svendborg for en tur, der kombinerer by og natur. Efter udlejning starter du ved Naturama. Ved middagstid udforsker du den gamle by omkring Sankt Nicolai Kirke. Om eftermiddagen fører en naturskøn kystvej dig til Christiansminde Strand - perfekt til en lang pause. På vej tilbage stopper du ved Danmarks Velfærdsmuseum, før dagen afsluttes ved havnen, hvor din tur begyndte."
       },
       "gastro_picks": {
         "de": [
@@ -899,6 +957,12 @@
           "Denmark is very bike-friendly, make use of the excellent cycle paths.",
           "Take a water bottle and snacks, especially for the trip to the beach.",
           "A lock for your bike is essential, even if the area is safe."
+        ],
+        "da": [
+          "Tjek vinden, før du tager afsted; den kan være kraftig på kysten.",
+          "Danmark er meget cykelvenligt, benyt de fremragende cykelstier.",
+          "Tag en vandflaske og snacks med, især til turen til stranden.",
+          "Et lås til din cykel er essentielt, selvom området er sikkert."
         ]
       },
       "variants": {
@@ -907,7 +971,8 @@
             "de": "Trotz Regen schwingen wir uns aufs Rad. Nach dem Ausleih am Hafen fahren wir direkt zum Naturama. Die Altstadt erkunden wir in Regenpausen, bevor wir zum Christiansminde Strand radeln. Ein Besuch im Welfare Museum rundet den Tag ab, bevor wir die Räder windgepeitscht aber zufrieden am Hafen zurückgeben.",
             "hu": "Az eső ellenére nyeregbe pattanunk. A kikötői kölcsönző után egyenesen a Naturamába tekerünk. Az óvárost az esőszünetekben fedezzük fel, majd a Christiansminde tengerpart felé vesszük az irányt. A jóléti múzeum látogatása után, a széltől megtépázva, de elégedetten adjuk le a bringákat a kikötőben.",
             "ro": "În ciuda ploii, ne urcăm pe bicicletă. După închirierea din port, mergem direct la Naturama. Explorăm centrul vechi în pauzele dintre reprizele de ploaie, apoi pedalăm spre plaja Christiansminde. O vizită la Muzeul Bunăstării încheie ziua înainte de a returna bicicletele în port.",
-            "en": "Despite the rain, we hop on our bikes. After renting at the harbor, we cycle straight to Naturama. We explore the old town during gaps in the rain before heading to Christiansminde Beach. A visit to the Welfare Museum rounds off the day before returning the bikes, windswept but satisfied, to the harbor."
+            "en": "Despite the rain, we hop on our bikes. After renting at the harbor, we cycle straight to Naturama. We explore the old town during gaps in the rain before heading to Christiansminde Beach. A visit to the Welfare Museum rounds off the day before returning the bikes, windswept but satisfied, to the harbor.",
+            "da": "Trods regnen hopper vi på cyklerne. Efter leje ved havnen cykler vi direkte til Naturama. Vi udforsker den gamle by i pauser mellem bygerne, før vi kører til Christiansminde Strand. Et besøg på Velfærdsmuseet runder dagen af, inden cyklerne afleveres, vindblæste men tilfredse, ved havnen."
           },
           "stops": [
             {
@@ -916,7 +981,8 @@
                 "de": "Fragen Sie nach einer Sattelabdeckung, um den Sitz trocken zu halten.",
                 "hu": "Kérjen nyeregvédőt, hogy szárazon tartsa az ülést.",
                 "ro": "Cereți o protecție pentru șa pentru a o menține uscată.",
-                "en": "Ask for a saddle cover to keep your seat dry."
+                "en": "Ask for a saddle cover to keep your seat dry.",
+                "da": "Bed om et sadelovertræk for at holde sædet tørt."
               }
             },
             {
@@ -925,7 +991,8 @@
                 "de": "Fahrradständer befinden sich direkt vor dem Eingang.",
                 "hu": "A kerékpártárolók közvetlenül a bejárat előtt találhatók.",
                 "ro": "Suporturile pentru biciclete sunt chiar în fața intrării.",
-                "en": "Bike racks are located directly in front of the entrance."
+                "en": "Bike racks are located directly in front of the entrance.",
+                "da": "Cykelstativer findes direkte foran indgangen."
               }
             },
             {
@@ -934,7 +1001,8 @@
                 "de": "Vorsicht auf dem nassen Kopfsteinpflaster in der Altstadt.",
                 "hu": "Vigyázzon a vizes macskaköveken az óvárosban.",
                 "ro": "Atenție pe pavajul umed din centrul vechi.",
-                "en": "Be careful on the wet cobblestones in the old town."
+                "en": "Be careful on the wet cobblestones in the old town.",
+                "da": "Vær forsigtig på de våde brosten i den gamle bydel."
               }
             },
             {
@@ -943,7 +1011,8 @@
                 "de": "Der Radweg entlang der Küste kann bei Regen windig sein.",
                 "hu": "A tengerparti kerékpárút esőben szeles lehet.",
                 "ro": "Pista de biciclete de-a lungul coastei poate fi vântoasă pe ploaie.",
-                "en": "The coastal bike path can be very windy during rain."
+                "en": "The coastal bike path can be very windy during rain.",
+                "da": "Den kystnære cykelsti kan være meget blæsende under regnvejr."
               }
             },
             {
@@ -952,7 +1021,8 @@
                 "de": "Geben Sie nasse Regenkleidung an der Garderobe ab.",
                 "hu": "A vizes esőruházatot hagyja a ruhatárban.",
                 "ro": "Lăsați hainele de ploaie ude la garderobă.",
-                "en": "Leave wet rain gear at the cloakroom."
+                "en": "Leave wet rain gear at the cloakroom.",
+                "da": "Efterlad vådt regntøj i garderoben."
               }
             },
             {
@@ -961,7 +1031,8 @@
                 "de": "Unterstellmöglichkeiten in der Nähe der Fischhalle nutzen.",
                 "hu": "Használja a halcsarnok közeli fedett részeit várakozáshoz.",
                 "ro": "Folosiți adăposturile de lângă hala de pește.",
-                "en": "Use the shelters near the fish hall while waiting."
+                "en": "Use the shelters near the fish hall while waiting.",
+                "da": "Brug læskurene ved fisketorvet, mens I venter."
               }
             }
           ],
@@ -989,6 +1060,12 @@
               "Check your brakes, as they take longer to grip on wet roads.",
               "Avoid puddles as they might be deeper than they look.",
               "Svendborg's paths are well-paved and manageable even in the rain."
+            ],
+            "da": [
+              "Fuld regnbeklædning (bukser og jakke) er et must til cykling.",
+              "Tjek dine bremser, da de tager længere om at få fat på våde veje.",
+              "Undgå vandpytter, da de kan være dybere, end de ser ud.",
+              "Svendborgs stier er velbelagte og håndterbare selv i regnvejr."
             ]
           }
         },
@@ -997,7 +1074,8 @@
             "de": "Winterradeln in Svendborg erfordert Mut und warme Socken. Wir starten am Hafen und radeln zum wärmenden Naturama. In der Altstadt bewundern wir die Winterdeko. Die Fahrt zum Christiansminde Strand bietet klare Luft und Eiskristalle auf dem Sund. Den Nachmittag verbringen wir im Welfare Museum, bevor wir uns am Hafen bei einem Heißgetränk aufwärmen.",
             "hu": "A téli bringázáshoz Svendborgban bátorság és meleg zokni kell. A kikötőből indulunk a melengető Naturama felé. Az óvárosban a téli díszeket csodáljuk. A Christiansminde felé vezető út tiszta levegőt és jégkristályos kilátást ígér. A délutánt a jóléti múzeumban töltjük, majd forró itallal melegszünk a kikötőben.",
             "ro": "Mersul pe bicicletă iarna în Svendborg necesită curaj și șosete groase. Pornim din port spre căldura de la Naturama. În centrul vechi admirăm decorațiunile de iarnă. Drumul spre Christiansminde oferă aer curat și cristale de gheață pe strâmtoare. Petrecem după-amiaza la Muzeul Bunăstării, apoi ne încălzim cu o băutură caldă.",
-            "en": "Winter cycling in Svendborg requires courage and warm socks. We start at the harbor and head to the warm Naturama. In the old town, we admire the winter decorations. The ride to Christiansminde Beach offers crisp air and ice crystals on the sound. We spend the afternoon at the Welfare Museum before warming up with a hot drink at the harbor."
+            "en": "Winter cycling in Svendborg requires courage and warm socks. We start at the harbor and head to the warm Naturama. In the old town, we admire the winter decorations. The ride to Christiansminde Beach offers crisp air and ice crystals on the sound. We spend the afternoon at the Welfare Museum before warming up with a hot drink at the harbor.",
+            "da": "Vintercykling i Svendborg kræver mod og varme sokker. Vi starter ved havnen og tager til det varme Naturama. I den gamle by beundrer vi vinterdekorationerne. Turen til Christiansminde Strand byder på klar luft og iskrystaller over sundet. Vi tilbringer eftermiddagen på Velfærdsmuseet, før vi varmer os med en varm drik på havnen."
           },
           "stops": [
             {
@@ -1006,7 +1084,8 @@
                 "de": "Prüfen Sie, ob das Rad Winterreifen oder ein gutes Profil hat.",
                 "hu": "Ellenőrizze, hogy a kerékpárnak jó-e a gumiprofilja a téli utakra.",
                 "ro": "Verificați dacă bicicleta are anvelope de iarnă sau un profil bun.",
-                "en": "Check if the bike has tires with good grip for winter conditions."
+                "en": "Check if the bike has tires with good grip for winter conditions.",
+                "da": "Tjek om cyklen har dæk med godt greb til vinterforhold."
               }
             },
             {
@@ -1015,7 +1094,8 @@
                 "de": "Parken Sie das Rad sicher, da der Wind im Winter zunehmen kann.",
                 "hu": "Parkoljon stabilan, mert télen felerősödhet a szél.",
                 "ro": "Parcați bicicleta în siguranță, vântul poate fi puternic iarna.",
-                "en": "Park your bike securely as winter winds can be strong."
+                "en": "Park your bike securely as winter winds can be strong.",
+                "da": "Parkér din cykel sikkert, da vintervindene kan være stærke."
               }
             },
             {
@@ -1024,7 +1104,8 @@
                 "de": "Achten Sie auf vereiste Stellen im Schatten der Gebäude.",
                 "hu": "Vigyázzon a jeges foltokra az épületek árnyékos oldalán.",
                 "ro": "Atenție la porțiunile înghețate de la umbra clădirilor.",
-                "en": "Watch out for icy patches in the shadows of buildings."
+                "en": "Watch out for icy patches in the shadows of buildings.",
+                "da": "Pas på isglatte pletter i skyggerne af bygninger."
               }
             },
             {
@@ -1033,7 +1114,8 @@
                 "de": "Die kühlende Brise am Wasser macht warme Kleidung nötig.",
                 "hu": "A vízi szél miatt elengedhetetlen a réteges, meleg öltözet.",
                 "ro": "Briza rece de pe apă face necesară îmbrăcămintea groasă.",
-                "en": "The cooling breeze by the water makes warm clothing vital."
+                "en": "The cooling breeze by the water makes warm clothing vital.",
+                "da": "Den kølige brise ved vandet gør varmt tøj uundværligt."
               }
             },
             {
@@ -1042,7 +1124,8 @@
                 "de": "Schließen Sie das Rad gut ab, während Sie drinnen sind.",
                 "hu": "Zárja le alaposan a bringát, amíg bent tartózkodik.",
                 "ro": "Încuiați bine bicicleta cât timp sunteți în interior.",
-                "en": "Lock your bike securely while you are inside."
+                "en": "Lock your bike securely while you are inside.",
+                "da": "Lås din cykel forsvarligt, mens du er indenfor."
               }
             },
             {
@@ -1051,7 +1134,8 @@
                 "de": "Rückgabe vor Einbruch der Dunkelheit wird empfohlen.",
                 "hu": "Javasoljuk a leadást még sötétedés előtt.",
                 "ro": "Se recomandă returnarea înainte de lăsarea întunericului.",
-                "en": "Returning the bike before dark is recommended."
+                "en": "Returning the bike before dark is recommended.",
+                "da": "Det anbefales at returnere cyklen før mørkets frembrud."
               }
             }
           ],
@@ -1079,6 +1163,12 @@
               "Paths may be gritted in winter, which can make pedaling harder.",
               "Bike lights are mandatory due to early darkness.",
               "Shorten your routes if the cold becomes too much."
+            ],
+            "da": [
+              "Brug en tynd hue under hjelmen for at blokere den kolde vind.",
+              "Stier kan være gruset om vinteren, hvilket kan gøre det sværere at træde i pedalerne.",
+              "Cykellygter er obligatoriske på grund af tidlig mørke.",
+              "Forkort dine ruter, hvis kulden bliver for meget."
             ]
           }
         }
@@ -1097,7 +1187,8 @@
             "de": "Parkplatz Zentrum/Hafen",
             "hu": "Parkoló a központban/kikötőben",
             "ro": "Parcare Centru/Port",
-            "en": "Parking City Center/Harbour"
+            "en": "Parking City Center/Harbour",
+            "da": "Parkering City Center/Havnen"
           },
           "coords": [
             10.602,
@@ -1113,7 +1204,8 @@
             "de": "Parken Sie hier, um den ersten Teil der Stadt zu Fuß zu erkunden.",
             "hu": "Parkolj le itt, hogy gyalog fedezd fel a város első részét.",
             "ro": "Parcați aici pentru a explora prima parte a orașului pe jos.",
-            "en": "Park here to explore the first part of the city on foot."
+            "en": "Park here to explore the first part of the city on foot.",
+            "da": "Parkér her for at udforske den første del af byen til fods."
           }
         },
         {
@@ -1121,7 +1213,8 @@
             "de": "Sct. Nicolai Kirke",
             "hu": "Szent Miklós-templom",
             "ro": "Biserica Sf. Nicolae",
-            "en": "St. Nicolai Church"
+            "en": "St. Nicolai Church",
+            "da": "Sankt Nicolai Kirke"
           },
           "coords": [
             10.608,
@@ -1137,7 +1230,8 @@
             "de": "Ein kurzer Spaziergang vom Parkplatz zur Hauptkirche der Stadt.",
             "hu": "Rövid séta a parkolótól a város főtemplomáig.",
             "ro": "O scurtă plimbare de la parcare la biserica principală a orașului.",
-            "en": "A short walk from the parking lot to the city's main church."
+            "en": "A short walk from the parking lot to the city's main church.",
+            "da": "En kort gåtur fra parkeringspladsen til byens hovedkirke."
           }
         },
         {
@@ -1145,7 +1239,8 @@
             "de": "Anne Hvides Gård",
             "hu": "Anne Hvide háza",
             "ro": "Casa Anne Hvide",
-            "en": "Anne Hvide's House"
+            "en": "Anne Hvide's House",
+            "da": "Anne Hvides Hus"
           },
           "coords": [
             10.61,
@@ -1161,7 +1256,8 @@
             "de": "Gleich um die Ecke der Kirche befindet sich dieses historische Haus.",
             "hu": "A templom sarkánál található ez a történelmi ház.",
             "ro": "Chiar la colțul bisericii se află această casă istorică.",
-            "en": "Just around the corner from the church is this historic house."
+            "en": "Just around the corner from the church is this historic house.",
+            "da": "Lige om hjørnet fra kirken ligger dette historiske hus."
           }
         },
         {
@@ -1169,7 +1265,8 @@
             "de": "Naturama",
             "hu": "Naturama",
             "ro": "Naturama",
-            "en": "Naturama"
+            "en": "Naturama",
+            "da": "Naturama"
           },
           "coords": [
             10.598,
@@ -1185,7 +1282,8 @@
             "de": "Der Spaziergang durch die Stadt zum Museum ist sehr angenehm.",
             "hu": "A séta a városon keresztül a múzeumig nagyon kellemes.",
             "ro": "Plimbarea prin oraș până la muzeu este foarte plăcută.",
-            "en": "The walk through the city to the museum is very pleasant."
+            "en": "The walk through the city to the museum is very pleasant.",
+            "da": "Gåturen gennem byen til museet er meget behagelig."
           }
         },
         {
@@ -1193,7 +1291,8 @@
             "de": "Schloss Valdemar",
             "hu": "Valdemar-kastély",
             "ro": "Castelul Valdemar",
-            "en": "Valdemar's Castle"
+            "en": "Valdemar's Castle",
+            "da": "Valdemars Slot"
           },
           "coords": [
             10.655,
@@ -1209,7 +1308,8 @@
             "de": "Fahren Sie über die Brücke nach Tåsinge zu diesem prächtigen Schloss. Planen Sie Zeit für die Museen im Inneren ein.",
             "hu": "Vezess át a hídon Tåsinge szigetére ehhez a csodálatos kastélyhoz. Szánj időt a benne lévő múzeumokra is.",
             "ro": "Conduceți peste pod spre Tåsinge la acest castel magnific. Planificați timp pentru muzeele din interior.",
-            "en": "Drive across the bridge to Tåsinge to this magnificent castle. Plan time for the museums inside."
+            "en": "Drive across the bridge to Tåsinge to this magnificent castle. Plan time for the museums inside.",
+            "da": "Kør over broen til Tåsinge til dette pragtfulde slot. Planlæg tid til museerne indeni."
           }
         },
         {
@@ -1217,7 +1317,8 @@
             "de": "Christiansminde Strand",
             "hu": "Christiansminde strand",
             "ro": "Plaja Christiansminde",
-            "en": "Christiansminde Beach"
+            "en": "Christiansminde Beach",
+            "da": "Christiansminde Strand"
           },
           "coords": [
             10.64,
@@ -1233,7 +1334,8 @@
             "de": "Fahren Sie zurück Richtung Svendborg für einen entspannten Nachmittag am Strand.",
             "hu": "Vezess vissza Svendborg felé egy pihentető délutánra a strandon.",
             "ro": "Conduceți înapoi spre Svendborg pentru o după-amiază relaxantă la plajă.",
-            "en": "Drive back towards Svendborg for a relaxing afternoon at the beach."
+            "en": "Drive back towards Svendborg for a relaxing afternoon at the beach.",
+            "da": "Kør tilbage mod Svendborg for en afslappende eftermiddag på stranden."
           }
         },
         {
@@ -1241,7 +1343,8 @@
             "de": "Abendessen am Hafen",
             "hu": "Vacsora a kikötőben",
             "ro": "Cină în port",
-            "en": "Dinner at the Harbour"
+            "en": "Dinner at the Harbour",
+            "da": "Middag ved Havnen"
           },
           "coords": [
             10.605,
@@ -1257,7 +1360,8 @@
             "de": "Beenden Sie den Tag mit einem Abendessen in einem der vielen Restaurants am Wasser.",
             "hu": "Zárd a napot egy vacsorával a számos vízparti étterem egyikében.",
             "ro": "Încheiați ziua cu o cină la unul dintre multele restaurante de pe malul apei.",
-            "en": "End the day with dinner at one of the many waterfront restaurants."
+            "en": "End the day with dinner at one of the many waterfront restaurants.",
+            "da": "Afslut dagen med middag på en af de mange restauranter ved vandet."
           }
         }
       ],
@@ -1265,7 +1369,8 @@
         "de": "Ihr Autotag beginnt im Zentrum von Svendborg. Nachdem Sie geparkt haben, erkunden Sie den historischen Kern zu Fuß. Am Vormittag besuchen Sie die Kirche und Museen der Innenstadt. Mittags überqueren Sie die Brücke nach Tåsinge für den Höhepunkt des Tages: das prächtige Schloss Valdemar. Verbringen Sie dort einen großen Teil des Nachmittags. Später fahren Sie zum Christiansminde Strand für einen entspannten Spaziergang, bevor Sie zum Abendessen an den lebhaften Hafen von Svendborg zurückkehren.",
         "hu": "Autós napod Svendborg központjában kezdődik. Miután leparkoltál, gyalog fedezd fel a történelmi magot. A délelőtt folyamán látogass el a belvárosi templomhoz és múzeumokhoz. Délben kelj át a hídon Tåsinge szigetére a nap fénypontjáért: a csodálatos Valdemar-kastélyért. Töltsd ott a délután nagy részét. Később vezess el a Christiansminde strandhoz egy pihentető sétára, mielőtt visszatérsz vacsorázni Svendborg nyüzsgő kikötőjébe.",
         "ro": "Ziua dumneavoastră cu mașina începe în centrul orașului Svendborg. După ce parcați, explorați centrul istoric pe jos. Dimineața, vizitați biserica și muzeele din centrul orașului. La prânz, traversați podul spre Tåsinge pentru punctul culminant al zilei: magnificul Castel Valdemar. Petreceți o mare parte din după-amiază acolo. Mai târziu, mergeți la plaja Christiansminde pentru o plimbare relaxantă înainte de a vă întoarce în portul plin de viață din Svendborg pentru cină.",
-        "en": "Your car day begins in the center of Svendborg. After parking, explore the historic core on foot. In the morning, visit the church and museums of the city center. At noon, cross the bridge to Tåsinge for the highlight of the day: the magnificent Valdemar's Castle. Spend a large part of the afternoon there. Later, drive to Christiansminde Beach for a relaxing walk before returning to the lively Svendborg Harbour for dinner."
+        "en": "Your car day begins in the center of Svendborg. After parking, explore the historic core on foot. In the morning, visit the church and museums of the city center. At noon, cross the bridge to Tåsinge for the highlight of the day: the magnificent Valdemar's Castle. Spend a large part of the afternoon there. Later, drive to Christiansminde Beach for a relaxing walk before returning to the lively Svendborg Harbour for dinner.",
+        "da": "Din billedelige biltur begynder i centrum af Svendborg. Efter parkering kan du udforske den historiske kerne til fods. Om morgenen besøges byens kirke og museer. Ved middagstid krydser du broen til Tåsinge for dagens højdepunkt: det storslåede Valdemars Slot. Tilbring en stor del af eftermiddagen dér. Senere kører du til Christiansminde Strand for en afslappende gåtur, før du vender tilbage til det livlige Svendborg Havn til middag."
       },
       "gastro_picks": {
         "de": [
@@ -1461,6 +1566,12 @@
           "Parking in the center of Svendborg may be subject to a fee.",
           "The bridge to Tåsinge is toll-free.",
           "Allow plenty of time for Valdemar's Castle, there is a lot to see (several museums)."
+        ],
+        "da": [
+          "Tjek Valdemars Slots åbningstider, da de er sæsonbestemte.",
+          "Parkering i centrum af Svendborg kan være mod gebyr.",
+          "Broen til Tåsinge er betalingsfri.",
+          "Afsæt rigelig tid til Valdemars Slot, der er meget at se (flere museer)."
         ]
       },
       "variants": {
@@ -1469,7 +1580,8 @@
             "de": "Mit dem Auto erkunden wir Svendborg komfortabel bei Regen. Wir parken zentral und besuchen die Kirchen und Museen. Ein Highlight ist die Fahrt über die Brücke zum Schloss Valdemar auf Tåsinge, wo wir die historischen Räume im Trockenen bewundern. Der Tag endet mit einem gemütlichen Abendessen direkt am Hafen, während der Regen gegen die Scheiben peitscht.",
             "hu": "Autóval kényelmesen fedezzük fel Svendborgot esőben is. Központilag parkolunk, meglátogatjuk a templomokat és múzeumokat. Kiemelt program az átkelés a hídon a Tåsinge-szigeti Valdemar-kastélyhoz, ahol szárazon csodálhatjuk a termeket. A napot hangulatos vacsorával zárjuk a kikötőben, miközben az eső veri az ablakokat.",
             "ro": "Cu mașina explorăm Svendborg confortabil pe timp de ploaie. Parcăm central și vizităm bisericile și muzeele. Un punct culminant este drumul peste pod spre Castelul Valdemar de pe insula Tåsinge. Ziua se încheie cu o cină plăcută chiar în port, în timp ce ploaia bate în geamuri.",
-            "en": "By car, we explore Svendborg comfortably even in the rain. We park centrally to visit the churches and museums. A highlight is the drive across the bridge to Valdemar's Castle on Tåsinge island, where we admire the historic rooms while staying dry. The day ends with a cozy dinner at the harbor as rain lashes the windows."
+            "en": "By car, we explore Svendborg comfortably even in the rain. We park centrally to visit the churches and museums. A highlight is the drive across the bridge to Valdemar's Castle on Tåsinge island, where we admire the historic rooms while staying dry. The day ends with a cozy dinner at the harbor as rain lashes the windows.",
+            "da": "Med bil udforsker vi Svendborg komfortabelt selv i regnvejr. Vi parkerer centralt for at besøge kirker og museer. Et højdepunkt er køreturen over broen til Valdemars Slot på Tåsinge, hvor vi beundrer de historiske sale og holder os tørre. Dagen sluttes med en hyggelig middag på havnen, mens regnen trommer på ruderne."
           },
           "stops": [
             {
@@ -1478,7 +1590,8 @@
                 "de": "Parkhäuser bieten Schutz beim Aussteigen.",
                 "hu": "A parkolóházak védelmet nyújtanak kiszálláskor.",
                 "ro": "Parcările acoperite oferă protecție la coborâre.",
-                "en": "Multi-storey car parks offer protection when getting out."
+                "en": "Multi-storey car parks offer protection when getting out.",
+                "da": "P-huse giver beskyttelse, når man stiger ud."
               }
             },
             {
@@ -1487,7 +1600,8 @@
                 "de": "Kurzer Fußweg vom Parkplatz zur Kirche.",
                 "hu": "Rövid séta a parkolótól a templomig.",
                 "ro": "Drum scurt pe jos de la parcare la biserică.",
-                "en": "A short walk from the parking area to the church."
+                "en": "A short walk from the parking area to the church.",
+                "da": "En kort gåtur fra parkeringsområdet til kirken."
               }
             },
             {
@@ -1496,7 +1610,8 @@
                 "de": "In den engen Gassen vorsichtig fahren.",
                 "hu": "Vezessen óvatosan a szűk utcákban.",
                 "ro": "Conduceți cu atenție pe străzile înguste.",
-                "en": "Drive carefully through the narrow streets."
+                "en": "Drive carefully through the narrow streets.",
+                "da": "Kør forsigtigt gennem de smalle gader."
               }
             },
             {
@@ -1505,7 +1620,8 @@
                 "de": "Eigener Parkplatz direkt am Museum vorhanden.",
                 "hu": "A múzeumnak saját parkolója van.",
                 "ro": "Muzeul are parcare proprie chiar lângă intrare.",
-                "en": "Private parking is available right at the museum."
+                "en": "Private parking is available right at the museum.",
+                "da": "Privat parkering fås lige ved museet."
               }
             },
             {
@@ -1514,7 +1630,8 @@
                 "de": "Genießen Sie die regnerische Aussicht auf den Sund bei der Überfahrt.",
                 "hu": "Élvezze az esős kilátást a szorosra az átkelés közben.",
                 "ro": "Bucurați-vă de priveliștea spre strâmtoare în timpul traversării.",
-                "en": "Enjoy the rainy views of the sound during the crossing."
+                "en": "Enjoy the rainy views of the sound during the crossing.",
+                "da": "Nyd de regnfulde udsigter over sundet under overfarten."
               }
             },
             {
@@ -1523,7 +1640,8 @@
                 "de": "Vom Auto aus hat man einen guten Blick auf das Wasser.",
                 "hu": "Az autóból is jó kilátás nyílik a vízre.",
                 "ro": "Din mașină aveți o vedere bună asupra apei.",
-                "en": "You can get a good view of the water from your car."
+                "en": "You can get a good view of the water from your car.",
+                "da": "Du kan få et godt kig over vandet fra din bil."
               }
             },
             {
@@ -1532,7 +1650,8 @@
                 "de": "Viele Restaurants haben Parkplätze in unmittelbarer Nähe.",
                 "hu": "Sok étterem közelében van közvetlen parkoló.",
                 "ro": "Multe restaurante au parcări în imediata apropiere.",
-                "en": "Many restaurants have parking spaces in the immediate vicinity."
+                "en": "Many restaurants have parking spaces in the immediate vicinity.",
+                "da": "Mange restauranter har parkeringspladser i umiddelbar nærhed."
               }
             }
           ],
@@ -1560,6 +1679,12 @@
               "Visibility on the bridge to Tåsinge can be reduced during heavy rain.",
               "Allow extra time for finding parking near the museums.",
               "Do not leave valuables visible in the car."
+            ],
+            "da": [
+              "Brug parkeringsapps (fx EasyPark) til at betale fra bilen og holde dig tør.",
+              "Sigten på broen til Tåsinge kan være nedsat ved kraftig regn.",
+              "Afsæt ekstra tid til at finde parkering nær museerne.",
+              "Efterlad ikke værdigenstande synlige i bilen."
             ]
           }
         },
@@ -1568,7 +1693,8 @@
             "de": "Eine Wintertour mit dem Auto zeigt Svendborg von seiner magischen Seite. Nach dem Besuch der Altstadt fahren wir über die Brücke zum winterlich-stillen Schloss Valdemar. Die frostige Landschaft von Tåsinge ist beeindruckend. Den Sonnenuntergang erleben wir am Christiansminde Strand, bevor wir uns in die gemütliche Wärme eines Hafenrestaurants begeben.",
             "hu": "A téli autós túra Svendborg varázslatos oldalát mutatja meg. Az óváros után a hídon át a téli nyugalomba burkolózott Valdemar-kastélyhoz megyünk. Tåsinge fagyos tájai lenyűgözőek. A naplementét a Christiansminde tengerparton nézzük meg, majd egy kikötői étterem melegében pihenünk meg.",
             "ro": "Un tur de iarnă cu mașina arată partea magică a orașului Svendborg. După vizitarea centrului vechi, trecem podul spre Castelul Valdemar, liniștit în haina sa de iarnă. Apusul îl vedem pe plaja Christiansminde, înainte de a ne bucura de căldura unui restaurant din port.",
-            "en": "A winter tour by car shows Svendborg's magical side. After visiting the old town, we drive across the bridge to the winter-quiet Valdemar's Castle. The frosty landscape of Tåsinge is impressive. We catch the sunset at Christiansminde Beach before heading into the cozy warmth of a harbor restaurant."
+            "en": "A winter tour by car shows Svendborg's magical side. After visiting the old town, we drive across the bridge to the winter-quiet Valdemar's Castle. The frosty landscape of Tåsinge is impressive. We catch the sunset at Christiansminde Beach before heading into the cozy warmth of a harbor restaurant.",
+            "da": "En vintertur i bil viser Svendborgs magiske side. Efter at have besøgt den gamle by kører vi over broen til det vinterstille Valdemars Slot. Det frostklædte landskab på Tåsinge er imponerende. Vi fanger solnedgangen på Christiansminde Strand, før vi går ind i hyggen på en havnerestaurant."
           },
           "stops": [
             {
@@ -1577,7 +1703,8 @@
                 "de": "Achten Sie auf vereiste Auffahrten in Parkhäusern.",
                 "hu": "Vigyázzon a jeges felhajtókra a parkolóházakban.",
                 "ro": "Atenție la rampele înghețate din parcările etajate.",
-                "en": "Watch out for icy ramps in multi-storey car parks."
+                "en": "Watch out for icy ramps in multi-storey car parks.",
+                "da": "Pas på isede ramper i p-huse."
               }
             },
             {
@@ -1586,7 +1713,8 @@
                 "de": "Die Parkplätze können nach Schneefall eng sein.",
                 "hu": "Hóesés után a parkolóhelyek szűkebbek lehetnek.",
                 "ro": "Locurile de parcare pot fi înguste după ninsoare.",
-                "en": "Parking spaces may be narrow after snowfall."
+                "en": "Parking spaces may be narrow after snowfall.",
+                "da": "Parkeringspladser kan være smalle efter snefald."
               }
             },
             {
@@ -1595,7 +1723,8 @@
                 "de": "In den schmalen Gassen kann es glatt sein.",
                 "hu": "A szűk utcákban csúszós lehet az út.",
                 "ro": "Poate fi alunecos pe străzile înguste.",
-                "en": "It can be slippery in the narrow side streets."
+                "en": "It can be slippery in the narrow side streets.",
+                "da": "Det kan være glat i de smalle sidegader."
               }
             },
             {
@@ -1604,7 +1733,8 @@
                 "de": "Nutzen Sie den Parkplatz direkt vor der Tür, um Kälte zu meiden.",
                 "hu": "Használja a közvetlen parkolót a hideg elkerülése érdekében.",
                 "ro": "Folosiți parcarea de lângă ușă pentru a evita frigul.",
-                "en": "Use the parking lot right at the door to avoid the cold."
+                "en": "Use the parking lot right at the door to avoid the cold.",
+                "da": "Brug parkeringspladsen lige ved døren for at undgå kulden."
               }
             },
             {
@@ -1613,7 +1743,8 @@
                 "de": "Die Brückenauffahrt kann bei Wind und Frost tückisch sein.",
                 "hu": "A híd feljárója szélben és fagyban csalóka lehet.",
                 "ro": "Urcarea pe pod poate fi periculoasă pe vânt și ger.",
-                "en": "The bridge approach can be tricky during wind and frost."
+                "en": "The bridge approach can be tricky during wind and frost.",
+                "da": "Brotilkørslen kan være vanskelig under vind og frost."
               }
             },
             {
@@ -1622,7 +1753,8 @@
                 "de": "Kurzer Stopp für Fotos, dann zurück ins warme Auto.",
                 "hu": "Rövid megálló fotózáshoz, majd vissza a meleg autóba.",
                 "ro": "Oprire scurtă pentru poze, apoi înapoi în mașina caldă.",
-                "en": "Quick stop for photos, then back into the warm car."
+                "en": "Quick stop for photos, then back into the warm car.",
+                "da": "Hurtigt stop for fotos, så tilbage i den varme bil."
               }
             },
             {
@@ -1631,7 +1763,8 @@
                 "de": "Reservieren Sie einen Tisch in der Nähe der Heizung.",
                 "hu": "Foglaljon asztalt a fűtőtest közelében.",
                 "ro": "Rezervați o masă lângă calorifer.",
-                "en": "Reserve a table near the heater for extra comfort."
+                "en": "Reserve a table near the heater for extra comfort.",
+                "da": "Reserver et bord tæt ved varmeren for ekstra komfort."
               }
             }
           ],
@@ -1659,6 +1792,12 @@
               "Keep an ice scraper and anti-freeze in the car.",
               "Bridges are often colder and windier than the mainland.",
               "Check winter opening hours for Valdemar's Castle (often restricted)."
+            ],
+            "da": [
+              "Vinterdæk er essentielle til danske vejforhold.",
+              "Hav en isskraber og sprinklervæske i bilen.",
+              "Broer er ofte koldere og mere blæsende end fastlandet.",
+              "Tjek vinteråbningstiderne for Valdemars Slot (ofte begrænsede)."
             ]
           }
         }
@@ -1677,7 +1816,8 @@
             "de": "Svendborg Bahnhof",
             "hu": "Svendborg vasútállomás",
             "ro": "Gara Svendborg",
-            "en": "Svendborg Station"
+            "en": "Svendborg Station",
+            "da": "Svendborg Station"
           },
           "coords": [
             10.601,
@@ -1693,7 +1833,8 @@
             "de": "Der perfekte Ausgangspunkt, um die Stadt zu Fuß zu erkunden, bevor Sie den Bus nehmen.",
             "hu": "Tökéletes kiindulópont a város gyalogos felfedezéséhez, mielőtt buszra szállnál.",
             "ro": "Punctul de plecare perfect pentru a explora orașul pe jos înainte de a lua autobuzul.",
-            "en": "The perfect starting point to explore the city on foot before taking the bus."
+            "en": "The perfect starting point to explore the city on foot before taking the bus.",
+            "da": "Det perfekte udgangspunkt for at udforske byen til fods, inden du tager bussen."
           }
         },
         {
@@ -1701,7 +1842,8 @@
             "de": "Naturama",
             "hu": "Naturama",
             "ro": "Naturama",
-            "en": "Naturama"
+            "en": "Naturama",
+            "da": "Naturama"
           },
           "coords": [
             10.598,
@@ -1717,7 +1859,8 @@
             "de": "Nur ein kurzer Spaziergang vom Bahnhof entfernt, um den Tag zu beginnen.",
             "hu": "Csak egy rövid sétára a vasútállomástól a nap kezdéséhez.",
             "ro": "La doar o scurtă plimbare de gară pentru a începe ziua.",
-            "en": "Just a short walk from the station to start the day."
+            "en": "Just a short walk from the station to start the day.",
+            "da": "Kun en kort gåtur fra stationen for at starte dagen."
           }
         },
         {
@@ -1725,7 +1868,8 @@
             "de": "Altstadt & Sct. Nicolai Kirke",
             "hu": "Óváros és Szent Miklós-templom",
             "ro": "Centrul Vechi și Biserica Sf. Nicolae",
-            "en": "Old Town & St. Nicolai Church"
+            "en": "Old Town & St. Nicolai Church",
+            "da": "Den gamle bydel & Sankt Nicolai Kirke"
           },
           "coords": [
             10.608,
@@ -1741,7 +1885,8 @@
             "de": "Schlendern Sie durch die historischen Gassen zur Kirche.",
             "hu": "Sétálj végig a történelmi sikátorokon a templomig.",
             "ro": "Plimbați-vă pe străduțele istorice până la biserică.",
-            "en": "Stroll through the historic alleys to the church."
+            "en": "Stroll through the historic alleys to the church.",
+            "da": "Spadser gennem de historiske gyder til kirken."
           }
         },
         {
@@ -1749,7 +1894,8 @@
             "de": "Schloss Valdemar",
             "hu": "Valdemar-kastély",
             "ro": "Castelul Valdemar",
-            "en": "Valdemar's Castle"
+            "en": "Valdemar's Castle",
+            "da": "Valdemars Slot"
           },
           "coords": [
             10.655,
@@ -1765,7 +1911,8 @@
             "de": "Nehmen Sie den Bus 931 von Svendborg Trafikterminal. Planen Sie die Busfahrt sorgfältig.",
             "hu": "Szállj fel a 931-es buszra a Svendborg Trafikterminal-on. Tervezd meg gondosan a buszutat.",
             "ro": "Luați autobuzul 931 de la Svendborg Trafikterminal. Planificați cu atenție călătoria cu autobuzul.",
-            "en": "Take bus 931 from Svendborg Trafikterminal. Plan the bus trip carefully."
+            "en": "Take bus 931 from Svendborg Trafikterminal. Plan the bus trip carefully.",
+            "da": "Tag bus 931 fra Svendborg Trafikterminal. Planlæg busturen omhyggeligt."
           }
         },
         {
@@ -1773,7 +1920,8 @@
             "de": "Christiansminde Strand",
             "hu": "Christiansminde strand",
             "ro": "Plaja Christiansminde",
-            "en": "Christiansminde Beach"
+            "en": "Christiansminde Beach",
+            "da": "Christiansminde Strand"
           },
           "coords": [
             10.64,
@@ -1789,7 +1937,8 @@
             "de": "Nehmen Sie den Bus zurück ins Zentrum und dann einen anderen Bus (oder gehen Sie 20-25 Min.) zum Strand.",
             "hu": "Menj busszal vissza a központba, majd egy másik busszal (vagy sétálj 20-25 percet) a strandig.",
             "ro": "Luați autobuzul înapoi în centru și apoi alt autobuz (sau mergeți pe jos 20-25 min) până la plajă.",
-            "en": "Take the bus back to the center and then another bus (or walk 20-25 min) to the beach."
+            "en": "Take the bus back to the center and then another bus (or walk 20-25 min) to the beach.",
+            "da": "Tag bussen tilbage til centrum og derefter en anden bus (eller gå 20–25 min) til stranden."
           }
         },
         {
@@ -1797,7 +1946,8 @@
             "de": "Abendessen im Zentrum",
             "hu": "Vacsora a központban",
             "ro": "Cină în centru",
-            "en": "Dinner in the City Center"
+            "en": "Dinner in the City Center",
+            "da": "Middag i Byens Centrum"
           },
           "coords": [
             10.61,
@@ -1813,7 +1963,8 @@
             "de": "Gehen Sie vom Strand zurück in die Stadt für ein wohlverdientes Abendessen.",
             "hu": "Sétálj vissza a strandról a városba egy jól megérdemelt vacsorára.",
             "ro": "Mergeți pe jos de la plajă înapoi în oraș pentru o cină binemeritată.",
-            "en": "Walk back from the beach into town for a well-deserved dinner."
+            "en": "Walk back from the beach into town for a well-deserved dinner.",
+            "da": "Gå tilbage fra stranden til byen for en velfortjent middag."
           }
         }
       ],
@@ -1821,7 +1972,8 @@
         "de": "Mit öffentlichen Verkehrsmitteln erkunden Sie Svendborg und seine Umgebung. Beginnen Sie zu Fuß im Stadtzentrum, vom Bahnhof zum Naturama und durch die Altstadt. Am Mittag nehmen Sie den Bus über die Brücke zum Schloss Valdemar, dem Juwel von Tåsinge. Nach einem ausgiebigen Besuch dort fahren Sie mit dem Bus zurück und weiter zum Christiansminde Strand, um die Meeresbrise zu genießen. Der Abend klingt mit einem gemütlichen Abendessen in der Innenstadt von Svendborg aus.",
         "hu": "Tömegközlekedéssel fedezd fel Svendborgot és környékét. Kezdd gyalog a városközpontban, a vasútállomástól a Naturamáig és az óvároson keresztül. Délben szállj buszra a hídon át a Valdemar-kastélyhoz, Tåsinge ékkövéhez. Egy alapos látogatás után buszozz vissza, majd tovább a Christiansminde strandhoz, hogy élvezd a tengeri szellőt. Az estét egy kellemes vacsorával zárd Svendborg belvárosában.",
         "ro": "Explorați Svendborg și împrejurimile sale cu transportul public. Începeți pe jos în centrul orașului, de la gară la Naturama și prin orașul vechi. La prânz, luați autobuzul peste pod spre Castelul Valdemar, bijuteria din Tåsinge. După o vizită extinsă acolo, luați autobuzul înapoi și continuați spre plaja Christiansminde pentru a vă bucura de briza mării. Seara se încheie cu o cină relaxantă în centrul orașului Svendborg.",
-        "en": "Explore Svendborg and its surroundings by public transport. Start on foot in the city center, from the station to Naturama and through the old town. At noon, take the bus across the bridge to Valdemar's Castle, the jewel of Tåsinge. After an extensive visit there, take the bus back and on to Christiansminde Beach to enjoy the sea breeze. The evening ends with a leisurely dinner in downtown Svendborg."
+        "en": "Explore Svendborg and its surroundings by public transport. Start on foot in the city center, from the station to Naturama and through the old town. At noon, take the bus across the bridge to Valdemar's Castle, the jewel of Tåsinge. After an extensive visit there, take the bus back and on to Christiansminde Beach to enjoy the sea breeze. The evening ends with a leisurely dinner in downtown Svendborg.",
+        "da": "Udforsk Svendborg og omegn med kollektiv trafik. Start til fods i bymidten, fra stationen til Naturama og gennem den gamle by. Ved middagstid tager du bussen over sundet til Valdemars Slot, Tåsinge-øens juvel. Efter et omfattende besøg tager du bussen tilbage og videre til Christiansminde Strand for at nyde havbrisen. Aftenen afsluttes med en rolig middag i Svendborgs centrum."
       },
       "gastro_picks": {
         "de": [
@@ -2017,6 +2169,12 @@
           "Download the 'Rejseplanen' app to track bus times in real time.",
           "Pay attention to the schedule for the bus to Tåsinge, it doesn't run very often.",
           "Some buses only accept card payment or the app, no cash."
+        ],
+        "da": [
+          "Køb en dagsbillet til bussen, hvis du planlægger flere ture.",
+          "Download 'Rejseplanen'-appen for at følge bustider i realtid.",
+          "Vær opmærksom på køreplanen for bussen til Tåsinge; den kører ikke særlig ofte.",
+          "Nogle busser accepterer kun kortbetaling eller app, ikke kontanter."
         ]
       },
       "variants": {
@@ -2025,7 +2183,8 @@
             "de": "Mit Bus und Bahn bleiben wir in Svendborg weitgehend trocken. Vom Bahnhof geht es zum Naturama und weiter in die Altstadt. Der Bus bringt uns über den Sund zum Schloss Valdemar, wo wir die Regenfront von drinnen beobachten. Zum Abschluss genießen wir den Blick auf das graue Meer am Christiansminde Strand, bevor der Bus uns zurück in die Stadt bringt.",
             "hu": "Tömegközlekedéssel Svendborgban nagyjából szárazon maradhatunk. A vasútállomástól a Naturamába, majd az óvárosba megyünk. Busz visz át a szoroson a Valdemar-kastélyhoz, ahol belülről figyeljük az esőt. Végül a Christiansminde tengerpartnál csodáljuk a szürke tengert, mielőtt a busz visszavisz a városba.",
             "ro": "Cu autobuzul și trenul rămânem în mare parte uscați în Svendborg. De la gară mergem la Naturama și în centrul vechi. Autobuzul ne duce peste strâmtoare la Castelul Valdemar. La final, admirăm marea cenușie la plaja Christiansminde, înainte ca autobuzul să ne aducă înapoi.",
-            "en": "Using public transport, we stay mostly dry in Svendborg. From the station, we head to Naturama and then to the old town. A bus takes us across the sound to Valdemar's Castle, where we watch the rain from inside. Finally, we admire the gray sea at Christiansminde Beach before the bus brings us back to town."
+            "en": "Using public transport, we stay mostly dry in Svendborg. From the station, we head to Naturama and then to the old town. A bus takes us across the sound to Valdemar's Castle, where we watch the rain from inside. Finally, we admire the gray sea at Christiansminde Beach before the bus brings us back to town.",
+            "da": "Med offentlig transport holder vi os mest tørre i Svendborg. Fra stationen går vi til Naturama og videre til den gamle by. En bus tager os over sundet til Valdemars Slot, hvor vi ser regnen indefra. Til sidst betragter vi det grå hav på Christiansminde Strand, før bussen tager os tilbage til byen."
           },
           "stops": [
             {
@@ -2034,7 +2193,8 @@
                 "de": "Wartesaal im Bahnhof nutzen, um trocken zu bleiben.",
                 "hu": "Használja a vasútállomás várótermét, hogy szárazon maradjon.",
                 "ro": "Folosiți sala de așteptare din gară pentru a rămâne uscat.",
-                "en": "Use the station's waiting room to stay dry."
+                "en": "Use the station's waiting room to stay dry.",
+                "da": "Brug stationens venteværelse for at holde dig tør."
               }
             },
             {
@@ -2043,7 +2203,8 @@
                 "de": "Kurzer Fußweg vom Bahnhof, Schirm bereitstellen.",
                 "hu": "Rövid séta az állomástól, tartsa készenlétben az esernyőt.",
                 "ro": "Drum scurt pe jos de la gară, pregătiți umbrela.",
-                "en": "Short walk from the station; keep your umbrella ready."
+                "en": "Short walk from the station; keep your umbrella ready.",
+                "da": "Kort gåtur fra stationen; hav din paraply parat."
               }
             },
             {
@@ -2052,7 +2213,8 @@
                 "de": "Zentrale Bushaltestellen liegen in der Nähe.",
                 "hu": "A központi buszmegállók a közelben vannak.",
                 "ro": "Stațiile de autobuz centrale sunt în apropiere.",
-                "en": "Central bus stops are located nearby."
+                "en": "Central bus stops are located nearby.",
+                "da": "Centrale busholdepladser ligger i nærheden."
               }
             },
             {
@@ -2061,7 +2223,8 @@
                 "de": "Achten Sie auf die Busfrequenz nach Tåsinge bei Regen.",
                 "hu": "Ellenőrizze a Tåsinge felé közlekedő buszok sűrűségét esőben.",
                 "ro": "Verificați frecvența autobuzelor spre Tåsinge pe ploaie.",
-                "en": "Check bus frequency to Tåsinge during rainy weather."
+                "en": "Check bus frequency to Tåsinge during rainy weather.",
+                "da": "Tjek busfrekvensen til Tåsinge under regnvejr."
               }
             },
             {
@@ -2070,7 +2233,8 @@
                 "de": "Die Bushaltestelle liegt fast direkt am Strand.",
                 "hu": "A buszmegálló szinte közvetlenül a parton van.",
                 "ro": "Stația de autobuz este aproape direct pe plajă.",
-                "en": "The bus stop is almost directly on the beach."
+                "en": "The bus stop is almost directly on the beach.",
+                "da": "Busstoppestedet ligger næsten direkte på stranden."
               }
             },
             {
@@ -2079,7 +2243,8 @@
                 "de": "Zentraler Ausstieg minimiert den Weg im Regen.",
                 "hu": "A központi leszállás minimálisra csökkenti az esőben megtett utat.",
                 "ro": "Coborârea în centru minimizează drumul prin ploaie.",
-                "en": "Getting off centrally minimizes the walk in the rain."
+                "en": "Getting off centrally minimizes the walk in the rain.",
+                "da": "At stå af centralt minimerer gåturen i regnen."
               }
             }
           ],
@@ -2107,6 +2272,12 @@
               "Danish buses are clean and heated, perfect for warming up.",
               "Buy a day ticket (City Pass) for flexible transfers.",
               "Stations often offer lockers for wet luggage."
+            ],
+            "da": [
+              "Brug appen 'Rejseplanen' for opdateringer i realtid ved forsinkelser.",
+              "Danske busser er rene og opvarmede, perfekte til at få varmen.",
+              "Køb en dagsbillet (City Pass) for fleksible skift.",
+              "Stationer tilbyder ofte bagagebokse til vådt bagage."
             ]
           }
         },
@@ -2115,7 +2286,8 @@
             "de": "Winterkomfort in Svendborg mit öffentlichen Verkehrsmitteln. Wir starten am Bahnhof und besuchen die warmen Hallen des Naturama. Die Altstadt glänzt im Winterlicht. Eine Busfahrt bringt uns zur winterlichen Ruhe von Schloss Valdemar. Bevor es dunkel wird, besuchen wir den Christiansminde Strand und kehren dann mit dem Bus zum Abendessen in die Stadt zurück.",
             "hu": "Téli kényelem Svendborgban tömegközlekedéssel. Az állomásról indulunk a Naturama meleg csarnokaiba. Az óváros tündököl a téli fényben. Buszozás visz a Valdemar-kastély téli nyugalmába. Mielőtt besötétedik, meglátogatjuk a Christiansminde tengerpartot, majd busszal térünk vissza a városi vacsorához.",
             "ro": "Confort de iarnă în Svendborg cu transportul public. Pornim de la gară spre sălile calde de la Naturama. Centrul vechi strălucește în lumina iernii. Înainte de lăsarea întunericului vizităm plaja Christiansminde, apoi revenim în oraș.",
-            "en": "Winter comfort in Svendborg with public transport. We start at the station and visit the warm halls of Naturama. The old town shines in the winter light. A bus ride takes us to the winter tranquility of Valdemar's Castle. Before dark, we visit Christiansminde Beach and return by bus for dinner."
+            "en": "Winter comfort in Svendborg with public transport. We start at the station and visit the warm halls of Naturama. The old town shines in the winter light. A bus ride takes us to the winter tranquility of Valdemar's Castle. Before dark, we visit Christiansminde Beach and return by bus for dinner.",
+            "da": "Vinterkomfort i Svendborg med kollektiv trafik. Vi starter på stationen og besøger de varme sale på Naturama. Den gamle by stråler i vinterlyset. En bustur fører os til Valdemars Slots vinterro. Før det bliver mørkt besøger vi Christiansminde Strand og vender tilbage med bussen til aftensmad."
           },
           "stops": [
             {
@@ -2124,7 +2296,8 @@
                 "de": "Züge sind im Winter oft die verlässlichste Wahl.",
                 "hu": "Télen gyakran a vonat a legmegbízhatóbb választás.",
                 "ro": "Trenurile sunt adesea cea mai sigură alegere iarna.",
-                "en": "Trains are often the most reliable choice in winter."
+                "en": "Trains are often the most reliable choice in winter.",
+                "da": "Tog er ofte det mest pålidelige valg om vinteren."
               }
             },
             {
@@ -2133,7 +2306,8 @@
                 "de": "Große Garderobe für dicke Wintermäntel vorhanden.",
                 "hu": "Tágas ruhatár áll rendelkezésre a vastag télikabátoknak.",
                 "ro": "Garderobă spațioasă disponibilă pentru hainele groase.",
-                "en": "A large cloakroom is available for heavy winter coats."
+                "en": "A large cloakroom is available for heavy winter coats.",
+                "da": "Et stort garderoberum er tilgængeligt til tunge vinterfrakker."
               }
             },
             {
@@ -2142,7 +2316,8 @@
                 "de": "Hübsche Winterbeleuchtung in den Straßen genießen.",
                 "hu": "Élvezze a szép téli kivilágítást az utcákon.",
                 "ro": "Bucurați-vă de iluminatul frumos de iarnă de pe străzi.",
-                "en": "Enjoy the pretty winter lighting in the streets."
+                "en": "Enjoy the pretty winter lighting in the streets.",
+                "da": "Nyd den fine vinterbelysning i gaderne."
               }
             },
             {
@@ -2151,7 +2326,8 @@
                 "de": "Prüfen Sie den Winterfahrplan der Buslinie 930.",
                 "hu": "Ellenőrizze a 930-as busz téli menetrendjét.",
                 "ro": "Verificați mersul autobuzelor liniei 930 iarna.",
-                "en": "Check the winter schedule for bus line 930."
+                "en": "Check the winter schedule for bus line 930.",
+                "da": "Tjek vinterkøreplanen for buslinje 930."
               }
             },
             {
@@ -2160,7 +2336,8 @@
                 "de": "Der Bus hält nah am Wasser, wenig Fußweg im Frost.",
                 "hu": "A busz a víz közelében áll meg, kevés séta a fagyban.",
                 "ro": "Autobuzul oprește aproape de apă, drum scurt prin ger.",
-                "en": "The bus stops near the water, minimizing walking in the frost."
+                "en": "The bus stops near the water, minimizing walking in the frost.",
+                "da": "Bussen stopper tæt ved vandet, så gåturen i frosten bliver kortest mulig."
               }
             },
             {
@@ -2169,7 +2346,8 @@
                 "de": "Suchen Sie Restaurants in Bahnhofsnähe für die Rückreise.",
                 "hu": "Keressen éttermet az állomás közelében a hazaúthoz.",
                 "ro": "Căutați restaurante lângă gară pentru drumul de întoarcere.",
-                "en": "Look for restaurants near the station for an easy return trip."
+                "en": "Look for restaurants near the station for an easy return trip.",
+                "da": "Søg efter restauranter nær stationen for en nem hjemtur."
               }
             }
           ],
@@ -2197,6 +2375,12 @@
               "Bus stops are often unsheltered; dress warmly for the wait.",
               "Pay contactlessly with a card or app on the bus.",
               "Trains between Odense and Svendborg run regularly."
+            ],
+            "da": [
+              "Køreplaner kan ændre sig med kort varsel ved ekstremt snefald.",
+              "Busstoppesteder er ofte uden læ; klæd dig varmt til ventetiden.",
+              "Betal kontaktløst med kort eller app i bussen.",
+              "Togene mellem Odense og Svendborg kører regelmæssigt."
             ]
           }
         }

@@ -21,7 +21,8 @@
             "de": "Axeltorv",
             "hu": "Axeltorv tér",
             "ro": "Piața Axeltorv",
-            "en": "Axeltorv Square"
+            "en": "Axeltorv Square",
+            "da": "Axeltorv Plads"
           },
           "coords": [
             11.7595,
@@ -37,7 +38,8 @@
             "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee und beobachten Sie das morgendliche Treiben.",
             "hu": "Kezdje a napot egy kávéval, és figyelje a reggeli nyüzsgést.",
             "ro": "Începeți ziua aici cu o cafea, observând agitația de dimineață.",
-            "en": "Start your day here with a coffee, watching the morning bustle."
+            "en": "Start your day here with a coffee, watching the morning bustle.",
+            "da": "Start din dag her med en kaffe og se morgenlivet."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Sct. Peders Kirke",
             "hu": "Szent Péter-templom",
             "ro": "Biserica Sf. Petru",
-            "en": "St. Peter's Church"
+            "en": "St. Peter's Church",
+            "da": "Sankt Peders Kirke"
           },
           "coords": [
             11.757,
@@ -61,7 +64,8 @@
             "de": "Achten Sie auf die beeindruckenden Fresken im Inneren – sie erzählen faszinierende Geschichten.",
             "hu": "Keresse a lenyűgöző freskókat odabent – lenyűgöző történeteket mesélnek.",
             "ro": "Căutați frescele impresionante din interior - ele spun povești fascinante.",
-            "en": "Look for the impressive frescoes inside – they tell fascinating stories."
+            "en": "Look for the impressive frescoes inside – they tell fascinating stories.",
+            "da": "Hold øje med de imponerende fresker indeni – de fortæller fascinerende historier."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Sct. Mortens Kirke",
             "hu": "Szent Márton-templom",
             "ro": "Biserica Sf. Martin",
-            "en": "St. Martin's Church"
+            "en": "St. Martin's Church",
+            "da": "Sankt Martins Kirke"
           },
           "coords": [
             11.761,
@@ -85,7 +90,8 @@
             "de": "Vergleichen Sie den Baustil mit der Sct. Peders Kirke; beide sind einzigartig für ihre Zeit.",
             "hu": "Hasonlítsa össze az építészeti stílusát a Szent Péter-temploméval; mindkettő egyedi a maga korában.",
             "ro": "Comparați stilul arhitectural cu cel al Bisericii Sf. Petru; ambele sunt unice pentru vremea lor.",
-            "en": "Compare its architectural style to St. Peter's; both are unique for their time."
+            "en": "Compare its architectural style to St. Peter's; both are unique for their time.",
+            "da": "Sammenlign dens arkitektur med Sankt Peders; begge er unikke for deres tid."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Helligåndshuset",
             "hu": "Helligåndshuset (Szentlélek Háza)",
             "ro": "Casa Duhului Sfânt (Helligåndshuset)",
-            "en": "The House of the Holy Ghost"
+            "en": "The House of the Holy Ghost",
+            "da": "Helligåndshuset"
           },
           "coords": [
             11.7585,
@@ -109,7 +116,8 @@
             "de": "Eines der am besten erhaltenen mittelalterlichen Armenhospitäler Dänemarks. Planen Sie genügend Zeit ein.",
             "hu": "Dánia egyik legjobb állapotban fennmaradt középkori ispotálya. Szánjon rá elég időt.",
             "ro": "Unul dintre cele mai bine conservate spitale medievale pentru săraci din Danemarca. Planificați suficient timp.",
-            "en": "One of Denmark's best-preserved medieval almshouses. Plan enough time."
+            "en": "One of Denmark's best-preserved medieval almshouses. Plan enough time.",
+            "da": "Et af Danmarks bedst bevarede middelalderlige fattighuse. Planlæg nok tid."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Mittagessen im Stadtzentrum",
             "hu": "Ebéd a városközpontban",
             "ro": "Prânz în centrul orașului",
-            "en": "Lunch in the City Center"
+            "en": "Lunch in the City Center",
+            "da": "Frokost i bymidten"
           },
           "coords": [
             11.76,
@@ -133,7 +142,8 @@
             "de": "Probieren Sie ein klassisches dänisches Smørrebrød in einem der Cafés am Axeltorv.",
             "hu": "Kóstoljon meg egy klasszikus dán smørrebrød-öt az Axeltorv egyik kávézójában.",
             "ro": "Încercați un Smørrebrød danez clasic la una dintre cafenelele din Axeltorv.",
-            "en": "Try a classic Danish Smørrebrød at one of the cafés in Axeltorv."
+            "en": "Try a classic Danish Smørrebrød at one of the cafés in Axeltorv.",
+            "da": "Prøv et klassisk dansk smørrebrød på en af caféerne på Axeltorv."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Herlufsholm Skole",
             "hu": "Herlufsholm Iskola",
             "ro": "Școala Herlufsholm",
-            "en": "Herlufsholm School"
+            "en": "Herlufsholm School",
+            "da": "Herlufsholm Skole"
           },
           "coords": [
             11.75,
@@ -157,7 +168,8 @@
             "de": "Der Spaziergang entlang des Flusses Suså zur Schule ist fast so schön wie das historische Gelände selbst.",
             "hu": "A Suså folyó menti séta az iskolához majdnem olyan szép, mint maga a történelmi birtok.",
             "ro": "Plimbarea de-a lungul râului Suså până la școală este aproape la fel de frumoasă ca și terenul istoric în sine.",
-            "en": "The walk along the Suså river to the school is almost as beautiful as the historic grounds themselves."
+            "en": "The walk along the Suså river to the school is almost as beautiful as the historic grounds themselves.",
+            "da": "Gåturen langs Susåen til skolen er næsten lige så smuk som de historiske arealer."
           }
         }
       ],
@@ -165,7 +177,8 @@
         "de": "Beginnen Sie Ihren Tag auf dem lebhaften Axeltorv, dem Herzen von Næstved. Von dort aus erkunden Sie zu Fuß die mittelalterliche Geschichte der Stadt und besuchen die beeindruckenden Kirchen St. Peter und St. Martin. Nach einer tiefen Eintauchen in die Vergangenheit im Helligåndshuset, genießen Sie ein traditionelles dänisches Mittagessen. Der Nachmittag führt Sie auf einem malerischen Spaziergang entlang des Flusses zur prestigeträchtigen Herlufsholm-Schule, wo Sie den Tag inmitten von Geschichte und Natur ausklingen lassen.",
         "hu": "Kezdje a napot Næstved szívében, a nyüzsgő Axeltorv téren. Innen fedezze fel gyalog a város középkori történelmét, látogasson el a lenyűgöző Szent Péter és Szent Márton templomokba. Miután elmélyült a múltban a Helligåndshusetben, élvezzen egy hagyományos dán ebédet. A délután egy festői folyóparti sétára invitálja a tekintélyes Herlufsholm Iskolához, ahol a napot a történelem és a természet ölelésében zárhatja.",
         "ro": "Începeți ziua în inima orașului Næstved, în vibranta Piață Axeltorv. De acolo, explorați la pas istoria medievală a orașului, vizitând impresionantele biserici Sf. Petru și Sf. Martin. După o incursiune profundă în trecut la Helligåndshuset, savurați un prânz tradițional danez. După-amiaza vă poartă într-o plimbare pitorească de-a lungul râului spre prestigioasa Școală Herlufsholm, încheind ziua înconjurat de istorie și natură.",
-        "en": "Start your day in the heart of Næstved at the vibrant Axeltorv Square. From there, explore the city's medieval history on foot, visiting the impressive St. Peter's and St. Martin's churches. After a deep dive into the past at the Helligåndshuset, enjoy a traditional Danish lunch. The afternoon takes you on a scenic riverside walk to the prestigious Herlufsholm School, ending the day surrounded by history and nature."
+        "en": "Start your day in the heart of Næstved at the vibrant Axeltorv Square. From there, explore the city's medieval history on foot, visiting the impressive St. Peter's and St. Martin's churches. After a deep dive into the past at the Helligåndshuset, enjoy a traditional Danish lunch. The afternoon takes you on a scenic riverside walk to the prestigious Herlufsholm School, ending the day surrounded by history and nature.",
+        "da": "Start din dag i hjertet af Næstved på det pulserende Axeltorv. Derfra udforsker du byens middelalderlige historie til fods ved at besøge de imponerende Sankt Peders og Sankt Martins kirker. Efter et dybt dyk i fortiden på Helligåndshuset nyder du en traditionel dansk frokost. Om eftermiddagen går turen langs Susåen til den prestigefyldte Herlufsholm Skole, og dagen ender omgivet af historie og natur."
       },
       "gastro_picks": {
         "de": [
@@ -361,6 +374,12 @@
           "Most central sights are easily reachable on foot.",
           "A walk along the Suså river is highly recommended.",
           "Check the opening hours for the churches, as they can vary."
+        ],
+        "da": [
+          "Brug behagelige sko, da brostenene i den gamle by kan være ujævne.",
+          "De fleste centrale seværdigheder er let tilgængelige til fods.",
+          "En gåtur langs Susåen anbefales varmt.",
+          "Tjek åbningstiderne for kirkerne, da de kan variere."
         ]
       },
       "variants": {
@@ -369,7 +388,8 @@
             "de": "Morgens finden Sie unter den Markisen am Axeltorv Schutz, während der Regen auf das Kopfsteinpflaster prasselt. Die massiven Backsteinkirchen St. Peter und St. Martin bieten mittags eine trockene, andächtige Zuflucht.\n\nAm Nachmittag vertiefen Sie sich im Museum 'Haus des Heiligen Geistes' in die lokale Geschichte. Den Tag schließen Sie mit einem stimmungsvollen Spaziergang im Regenmantel entlang der Suså zur Herlufsholm-Schule ab.",
             "hu": "Reggel az Axeltorv árkádjai alatt keressen menedéket a szemerkélő eső elől. Délben a Szent Péter és Szent Márton templomok vaskos téglafalai között élvezheti a csendet és a szárazságot.\n\nDélután a Szentlélek-ház múzeuma nyújt tartalmas fedett programot. Az estét egy frissítő esőerdei hangulatú sétával zárja a Suså folyó partján, egészen a ködbe burkolózó Herlufsholm iskoláig.",
             "ro": "Dimineața, găsiți adăpost sub copertinele din Axeltorv în timp ce ploaia bate în pavaj. La prânz, bisericile masive Sf. Petru și Sf. Martin oferă un refugiu uscat și solemn.\n\nDupă-amiaza este dedicată istoriei locale în interiorul muzeului Casa Sfântului Duh. Încheiați ziua cu o plimbare atmosferică prin ploaie de-a lungul râului Suså, până la prestigioasa școală Herlufsholm.",
-            "en": "In the morning, find shelter under the awnings of Axeltorv as rain dances on the cobblestones. By noon, the massive brick walls of St. Peter's and St. Martin's provide a dry, serene sanctuary.\n\nSpend the afternoon exploring local history inside the House of the Holy Ghost museum. End your day with an atmospheric walk along the Suså river to Herlufsholm, where the mist adds to the scholarly charm."
+            "en": "In the morning, find shelter under the awnings of Axeltorv as rain dances on the cobblestones. By noon, the massive brick walls of St. Peter's and St. Martin's provide a dry, serene sanctuary.\n\nSpend the afternoon exploring local history inside the House of the Holy Ghost museum. End your day with an atmospheric walk along the Suså river to Herlufsholm, where the mist adds to the scholarly charm.",
+            "da": "Om morgenen finder du læ under markiserne på Axeltorv, mens regnen danser på brostenene. Ved middagstid giver de massive teglstensmure i Sankt Peder og Sankt Martin dig en tør, fredfyldt tilflugt.\n\nTilbring eftermiddagen med at udforske lokalhistorien inde i Helligåndshuset museum. Afslut dagen med en stemningsfuld gåtur langs Susåen til Herlufsholm, hvor morgendisen bidrager til den akademiske charme."
           },
           "stops": [
             {
@@ -378,7 +398,8 @@
                 "de": "Cafés mit Markisen am Platz nutzen.",
                 "hu": "Használja a tér körüli árkádos kávézókat.",
                 "ro": "Folosiți cafenelele cu copertine din piață.",
-                "en": "Use the cafes with awnings around the square."
+                "en": "Use the cafes with awnings around the square.",
+                "da": "Brug caféerne med markiser omkring torvet."
               }
             },
             {
@@ -387,7 +408,8 @@
                 "de": "Großartige Akustik bei Regen genießen.",
                 "hu": "Élvezze a templom akusztikáját esőben.",
                 "ro": "Bucurați-vă de acustica bisericii pe ploaie.",
-                "en": "Enjoy the church acoustics during the rain."
+                "en": "Enjoy the church acoustics during the rain.",
+                "da": "Nyd kirkens akustik under regnen."
               }
             },
             {
@@ -396,7 +418,8 @@
                 "de": "Bewundern Sie die Kalkmalereien im Trockenen.",
                 "hu": "Csodálja meg a freskókat a szárazban.",
                 "ro": "Admirați frescele la adăpost de ploaie.",
-                "en": "Admire the frescoes while staying dry."
+                "en": "Admire the frescoes while staying dry.",
+                "da": "Beundr freskerne mens du holder dig tør."
               }
             },
             {
@@ -405,7 +428,8 @@
                 "de": "Idealer Ort für eine lange Regenpause.",
                 "hu": "Ideális hely egy hosszú esőszünethez.",
                 "ro": "Loc ideal pentru o pauză lungă de ploaie.",
-                "en": "Ideal place for a long rainy break."
+                "en": "Ideal place for a long rainy break.",
+                "da": "Ideelt sted til en lang regnpause."
               }
             },
             {
@@ -414,7 +438,8 @@
                 "de": "Ein Platz am Fenster suchen und den Regen beobachten.",
                 "hu": "Keressen ablak melletti asztalt.",
                 "ro": "Căutați o masă lângă fereastră.",
-                "en": "Find a table by the window to watch the rain."
+                "en": "Find a table by the window to watch the rain.",
+                "da": "Find et bord ved vinduet for at se regnen."
               }
             },
             {
@@ -423,7 +448,8 @@
                 "de": "Der Park wirkt im Nebel besonders mystisch.",
                 "hu": "A park ködben különösen misztikus.",
                 "ro": "Parcul pare mistic prin ceață.",
-                "en": "The park looks especially mystical in the mist."
+                "en": "The park looks especially mystical in the mist.",
+                "da": "Parken ser særligt mystisk ud i tågen."
               }
             }
           ],
@@ -451,6 +477,12 @@
               "The city center has many small passages for shelter.",
               "Utilize the churches for longer indoor breaks.",
               "Rain boots are advisable for the path to Herlufsholm."
+            ],
+            "da": [
+              "En robust paraply er et must på grund af vinden.",
+              "Bymidten har mange små passager til læ.",
+              "Brug kirkerne til længere indendørs pauser.",
+              "Gummistøvler anbefales til stien mod Herlufsholm."
             ]
           }
         },
@@ -459,7 +491,8 @@
             "de": "Am klaren Wintermorgen glitzert der Frost auf dem Axeltorv. Die Kirchen bieten mittags einen windgeschützten Ort, um die mittelalterliche Architektur zu bewundern.\n\nNachmittags wärmen Sie sich im Museum auf, bevor Sie die gemütliche dänische 'Hygge' beim Mittagessen genießen. Der Tag endet früh bei Sonnenuntergang an der Herlufsholm-Schule, deren rote Backsteine im schwindenden Licht leuchten.",
             "hu": "A tiszta téli reggelen zúzmara csillog az Axeltorv kövein. Délben a templomok szélvédett belső terei nyújtanak nyugalmat a középkori építészet kedvelőinek.\n\nDélután a múzeum fűtött termeiben melegedhet fel, mielőtt átadná magát a dán 'hygge' életérzésnek egy ebéd mellett. A nap korán, a Herlufsholm iskolánál ér véget, ahol a vörös téglák izzanak a téli alkonyatban.",
             "ro": "În dimineața geroasă de iarnă, bruma strălucește pe Axeltorv. La prânz, bisericile oferă un loc ferit de vânt pentru a admira arhitectura medievală.\n\nDupă-amiaza, încălziți-vă în muzeu înainte de a savura atmosfera 'hygge' la prânz. Ziua se încheie devreme, la apus, la școala Herlufsholm, ale cărei cărămizi roșii strălucesc în lumina slabă.",
-            "en": "Frost sparkles on Axeltorv on a crisp winter morning. By noon, the churches offer a wind-sheltered space to admire the medieval brickwork.\n\nWarm up in the museum during the afternoon before enjoying some Danish 'hygge' over lunch. Your day concludes early as the sun sets over Herlufsholm, its red bricks glowing in the fading winter light."
+            "en": "Frost sparkles on Axeltorv on a crisp winter morning. By noon, the churches offer a wind-sheltered space to admire the medieval brickwork.\n\nWarm up in the museum during the afternoon before enjoying some Danish 'hygge' over lunch. Your day concludes early as the sun sets over Herlufsholm, its red bricks glowing in the fading winter light.",
+            "da": "Frost glitrer på Axeltorv på en kølig vintermorgen. Ved middagstid giver kirkernes læ et sted at beundre det middelalderlige teglværk.\n\nVarm dig i museet om eftermiddagen, før du nyder lidt dansk hygge over frokosten. Din dag slutter tidligt, når solen går ned over Herlufsholm, og de røde tegl gløder i det svindende vinterlys."
           },
           "stops": [
             {
@@ -468,7 +501,8 @@
                 "de": "Warme Handschuhe für den Fotostopp einplanen.",
                 "hu": "Készítse elő a kesztyűt a fotózáshoz.",
                 "ro": "Pregătiți mănușile pentru oprirea foto.",
-                "en": "Have gloves ready for your photo stop."
+                "en": "Have gloves ready for your photo stop.",
+                "da": "Hav handsker klar til dit fotostop."
               }
             },
             {
@@ -477,7 +511,8 @@
                 "de": "Achtung, die Steinstufen können glatt sein.",
                 "hu": "Vigyázat, a kőlépcsők csúszósak lehetnek.",
                 "ro": "Atenție, treptele de piatră pot fi alunecoase.",
-                "en": "Caution, the stone steps can be slippery."
+                "en": "Caution, the stone steps can be slippery.",
+                "da": "Forsigtighed, stentrinene kan være glatte."
               }
             },
             {
@@ -486,7 +521,8 @@
                 "de": "Windgeschützter Eingangsbereich.",
                 "hu": "Szélvédett bejárati rész.",
                 "ro": "Zonă de intrare ferită de vânt.",
-                "en": "Wind-sheltered entrance area."
+                "en": "Wind-sheltered entrance area.",
+                "da": "Vindbeskyttet indgangsområde."
               }
             },
             {
@@ -495,7 +531,8 @@
                 "de": "Genießen Sie die Heizung und die Exponate.",
                 "hu": "Élvezze a fűtést és a kiállításokat.",
                 "ro": "Bucurați-vă de căldură și de exponate.",
-                "en": "Enjoy the heating and the exhibits."
+                "en": "Enjoy the heating and the exhibits.",
+                "da": "Nyd varmen og udstillingerne."
               }
             },
             {
@@ -504,7 +541,8 @@
                 "de": "Probieren Sie heiße dänische Spezialitäten.",
                 "hu": "Kóstoljon forró dán különlegességeket.",
                 "ro": "Încercați specialități daneze calde.",
-                "en": "Try some hot Danish winter specialties."
+                "en": "Try some hot Danish winter specialties.",
+                "da": "Prøv nogle varme danske vinterspecialiteter."
               }
             },
             {
@@ -513,7 +551,8 @@
                 "de": "Ankunft vor 16 Uhr wegen der Dunkelheit.",
                 "hu": "Érkezzen 16 óra előtt a sötétedés miatt.",
                 "ro": "Sosiți înainte de ora 16 din cauza întunericului.",
-                "en": "Arrive before 4 PM due to early darkness."
+                "en": "Arrive before 4 PM due to early darkness.",
+                "da": "Ankom før kl. 16 på grund af tidlig mørke."
               }
             }
           ],
@@ -541,6 +580,12 @@
               "The sun sets as early as 4 PM in winter.",
               "Watch out for black ice on the cobblestones.",
               "Churches are cooler than museums; keep your coat on."
+            ],
+            "da": [
+              "Kend lag-på-lag-princippet (løgprincip).",
+              "Solen går så tidligt ned som kl. 16 om vinteren.",
+              "Pas på sort is på brostenene.",
+              "Kirker er køligere end museer; behold frakken på."
             ]
           }
         }
@@ -559,7 +604,8 @@
             "de": "Axeltorv",
             "hu": "Axeltorv tér",
             "ro": "Piața Axeltorv",
-            "en": "Axeltorv Square"
+            "en": "Axeltorv Square",
+            "da": "Axeltorv"
           },
           "coords": [
             11.7595,
@@ -575,7 +621,8 @@
             "de": "Perfekter Ausgangspunkt. Schließen Sie Ihr Fahrrad an und erkunden Sie den Platz zu Fuß.",
             "hu": "Tökéletes kiindulópont. Zárja le a kerékpárt, és fedezze fel a teret gyalog.",
             "ro": "Punct de plecare perfect. Asigurați-vă bicicleta și explorați piața pe jos.",
-            "en": "Perfect starting point. Lock up your bike and explore the square on foot."
+            "en": "Perfect starting point. Lock up your bike and explore the square on foot.",
+            "da": "Perfekt startpunkt. Lås din cykel og udforsk torvet til fods."
           }
         },
         {
@@ -583,7 +630,8 @@
             "de": "Helligåndshuset",
             "hu": "Helligåndshuset",
             "ro": "Helligåndshuset",
-            "en": "The House of the Holy Ghost"
+            "en": "The House of the Holy Ghost",
+            "da": "Helligåndshuset"
           },
           "coords": [
             11.7585,
@@ -599,7 +647,8 @@
             "de": "Stellen Sie Ihr Fahrrad in der Nähe ab, da Sie hier einige Zeit verbringen werden.",
             "hu": "Parkolja le a kerékpárt a közelben, mert itt több időt fog eltölteni.",
             "ro": "Parcați-vă bicicleta în apropiere, deoarece veți petrece ceva timp aici.",
-            "en": "Park your bike nearby as you'll be spending some time here."
+            "en": "Park your bike nearby as you'll be spending some time here.",
+            "da": "Parkér din cykel i nærheden, for du kommer til at tilbringe noget tid her."
           }
         },
         {
@@ -607,7 +656,8 @@
             "de": "Sct. Peders & Sct. Mortens Kirke",
             "hu": "Szt. Péter és Szt. Márton templomok",
             "ro": "Bisericile Sf. Petru și Sf. Martin",
-            "en": "St. Peter's & St. Martin's Churches"
+            "en": "St. Peter's & St. Martin's Churches",
+            "da": "Sankt Peders & Sankt Martins Kirker"
           },
           "coords": [
             11.758,
@@ -623,7 +673,8 @@
             "de": "Besuchen Sie beide nahegelegenen Kirchen, um ihre unterschiedlichen Atmosphären zu erleben.",
             "hu": "Látogasson el mindkét közeli templomba, hogy megtapasztalja különböző hangulatukat.",
             "ro": "Vizitați ambele biserici din apropiere pentru a experimenta atmosferele lor diferite.",
-            "en": "Visit both nearby churches to experience their different atmospheres."
+            "en": "Visit both nearby churches to experience their different atmospheres.",
+            "da": "Besøg begge nærliggende kirker for at opleve deres forskellige atmosfærer."
           }
         },
         {
@@ -631,7 +682,8 @@
             "de": "Mittagessen",
             "hu": "Ebéd",
             "ro": "Prânz",
-            "en": "Lunch"
+            "en": "Lunch",
+            "da": "Frokost"
           },
           "coords": [
             11.76,
@@ -647,7 +699,8 @@
             "de": "Stärken Sie sich für die Radtour am Nachmittag.",
             "hu": "Töltődjön fel a délutáni kerékpártúrára.",
             "ro": "Realimentați-vă pentru plimbarea cu bicicleta de după-amiază.",
-            "en": "Refuel for the afternoon's bike ride."
+            "en": "Refuel for the afternoon's bike ride.",
+            "da": "Tank op til eftermiddagens cykeltur."
           }
         },
         {
@@ -655,7 +708,8 @@
             "de": "Rønnebæksholm",
             "hu": "Rønnebæksholm",
             "ro": "Rønnebæksholm",
-            "en": "Rønnebæksholm"
+            "en": "Rønnebæksholm",
+            "da": "Rønnebæksholm"
           },
           "coords": [
             11.82,
@@ -671,7 +725,8 @@
             "de": "Die Radtour hierher führt durch eine schöne Landschaft. Genießen Sie die Kunstausstellungen und den Park.",
             "hu": "Az ide vezető kerékpárút gyönyörű tájon visz keresztül. Élvezze a művészeti kiállításokat és a parkot.",
             "ro": "Plimbarea cu bicicleta până aici este printr-un peisaj frumos. Bucurați-vă de expozițiile de artă și de parc.",
-            "en": "The bike ride out here is through lovely countryside. Enjoy the art exhibitions and the park."
+            "en": "The bike ride out here is through lovely countryside. Enjoy the art exhibitions and the park.",
+            "da": "Cykelturen hertil går gennem skønt landskab. Nyd kunstudstillingerne og parken."
           }
         },
         {
@@ -679,7 +734,8 @@
             "de": "Rückfahrt ins Zentrum",
             "hu": "Vissza a központba",
             "ro": "Întoarcere în centru",
-            "en": "Ride back to the center"
+            "en": "Ride back to the center",
+            "da": "Cykel tilbage til centrum"
           },
           "coords": [
             11.76,
@@ -695,7 +751,8 @@
             "de": "Beenden Sie den Tag mit einem Eis oder einem kalten Getränk am Axeltorv.",
             "hu": "Zárja a napot egy fagyival vagy egy hideg itallal az Axeltorv téren.",
             "ro": "Încheiați ziua cu o înghețată sau o băutură rece în Axeltorv.",
-            "en": "End the day with an ice cream or a cold drink back at Axeltorv."
+            "en": "End the day with an ice cream or a cold drink back at Axeltorv.",
+            "da": "Afslut dagen med en is eller en kold drik tilbage på Axeltorv."
           }
         }
       ],
@@ -703,7 +760,8 @@
         "de": "Schwingen Sie sich aufs Rad für eine Erkundungstour durch Næstved. Beginnen Sie am Axeltorv, bevor Sie die historischen Schätze wie das Helligåndshuset und die beiden Hauptkirchen der Stadt entdecken. Nach dem Mittagessen führt Sie eine malerische Radtour aufs Land zum Kunst- und Kulturzentrum Rønnebæksholm. Genießen Sie dort die Ruhe und die kreative Atmosphäre, bevor Sie für einen entspannten Abend ins Stadtzentrum zurückkehren.",
         "hu": "Pattanjon kerékpárra, és fedezze fel Næstvedet. Kezdje az Axeltorv téren, majd fedezze fel a történelmi kincseket, mint a Helligåndshuset és a város két fő temploma. Ebéd után egy festői kerékpárút vezet a Rønnebæksholm művészeti és kulturális központba. Élvezze a nyugalmat és a kreatív légkört, mielőtt visszatérne a városközpontba egy pihentető estére.",
         "ro": "Urcați-vă pe bicicletă pentru un tur de explorare a orașului Næstved. Începeți din Piața Axeltorv înainte de a descoperi comorile istorice precum Helligåndshuset și cele două biserici principale ale orașului. După prânz, o plimbare pitorească cu bicicleta vă duce la centrul de artă și cultură Rønnebæksholm. Bucurați-vă de liniște și de atmosfera creativă de acolo înainte de a vă întoarce în centrul orașului pentru o seară relaxantă.",
-        "en": "Get on your bike for an exploratory tour of Næstved. Start at Axeltorv Square before discovering historical treasures like Helligåndshuset and the city's two main churches. After lunch, a scenic bike ride takes you to the countryside art and culture center, Rønnebæksholm. Enjoy the tranquility and creative atmosphere there before returning to the city center for a relaxing evening."
+        "en": "Get on your bike for an exploratory tour of Næstved. Start at Axeltorv Square before discovering historical treasures like Helligåndshuset and the city's two main churches. After lunch, a scenic bike ride takes you to the countryside art and culture center, Rønnebæksholm. Enjoy the tranquility and creative atmosphere there before returning to the city center for a relaxing evening.",
+        "da": "Tag din cykel på en opdagelsestur i Næstved. Start på Axeltorv, før du opdager historiske skatte som Helligåndshuset og byens to hovedkirker. Efter frokost fører en naturskøn cykeltur dig til landskabets kunst- og kulturcenter Rønnebæksholm. Nyd roen og den kreative atmosfære der, før du vender tilbage til bymidten for en afslappende aften."
       },
       "gastro_picks": {
         "de": [
@@ -857,6 +915,12 @@
           "The bike paths are well-maintained, but be mindful of city traffic.",
           "Bring a water bottle and snacks for the ride to Rønnebæksholm.",
           "A lock is essential when leaving your bike to sightsee."
+        ],
+        "da": [
+          "Lej en cykel i bymidten, hvis du ikke har din egen.",
+          "Cykelstierne er velvedligeholdte, men vær opmærksom på bytrafik.",
+          "Medbring en drikkeflaske og snacks til turen til Rønnebæksholm.",
+          "En lås er uundværlig, når du lader cyklen stå og ser på seværdigheder."
         ]
       },
       "variants": {
@@ -865,7 +929,8 @@
             "de": "Starten Sie vorsichtig am Axeltorv, wo das nasse Pflaster rutschig sein kann. Mittags bieten das Museum und die Kirchen willkommene Pausen vom Regen.\n\nNachmittags radeln Sie durch die feuchte Landschaft nach Rønnebæksholm, wo Sie im Kunstzentrum trocken bleiben. Der Rückweg führt Sie durch die erfrischende, regnerische dänische Natur zurück ins Zentrum.",
             "hu": "Induljon óvatosan az Axeltorvról, ahol a vizes kövezet csúszós lehet. Délben a múzeum és a templomok kínálnak menedéket a csapadék elől.\n\nDélután tekerjen át a párás tájon Rønnebæksholmba, ahol a művészeti központban szárazon maradhat. A visszaút frissítő, esős dán természetközeli élményt nyújt a központ felé.",
             "ro": "Porniți cu atenție din Axeltorv, unde pavajul ud poate fi alunecos. La prânz, muzeul și bisericile oferă pauze binevenite de la ploaie.\n\nDupă-amiaza, pedalați prin peisajul umed către Rønnebæksholm, unde centrul de artă vă ține la uscat. Drumul de întoarcere vă poartă prin natura daneză revigorată de ploaie.",
-            "en": "Start cautiously at Axeltorv, where wet cobblestones can be slick. By noon, the museum and churches provide much-needed dry spells from the downpour.\n\nIn the afternoon, cycle through the misty countryside to Rønnebæksholm, staying dry inside the art center. The ride back offers a refreshing, rain-scented journey through the Danish landscape."
+            "en": "Start cautiously at Axeltorv, where wet cobblestones can be slick. By noon, the museum and churches provide much-needed dry spells from the downpour.\n\nIn the afternoon, cycle through the misty countryside to Rønnebæksholm, staying dry inside the art center. The ride back offers a refreshing, rain-scented journey through the Danish landscape.",
+            "da": "Start forsigtigt på Axeltorv, hvor våde brosten kan være glatte. Ved middagstid giver museet og kirkerne tiltrængt ly for regnvejret.\n\nOm eftermiddagen cykler du gennem det tågede landskab til Rønnebæksholm og kan holde dig tør indenfor i kunstcentret. Turen tilbage byder på en forfriskende, regnparfumeret rejse gennem det danske landskab."
           },
           "stops": [
             {
@@ -874,7 +939,8 @@
                 "de": "Vorsicht in den Kurven auf nassem Kopfsteinpflaster.",
                 "hu": "Vigyázzon a kanyarokban a vizes kövön.",
                 "ro": "Atenție în curbe pe pavajul ud.",
-                "en": "Be careful in turns on wet cobblestones."
+                "en": "Be careful in turns on wet cobblestones.",
+                "da": "Vær forsigtig i sving på våde brosten."
               }
             },
             {
@@ -883,7 +949,8 @@
                 "de": "Fahrradständer direkt vor dem Eingang.",
                 "hu": "Kerékpártárolók közvetlenül a bejáratnál.",
                 "ro": "Suporturi de biciclete direct la intrare.",
-                "en": "Bike racks located directly at the entrance."
+                "en": "Bike racks located directly at the entrance.",
+                "da": "Cykelstativer placeret direkte ved indgangen."
               }
             },
             {
@@ -892,7 +959,8 @@
                 "de": "Kurze Wege zwischen den Kirchen nutzen.",
                 "hu": "Használja ki a templomok közelségét.",
                 "ro": "Folosiți distanța mică dintre biserici.",
-                "en": "Take advantage of the short distance between churches."
+                "en": "Take advantage of the short distance between churches.",
+                "da": "Udnyt den korte afstand mellem kirkerne."
               }
             },
             {
@@ -901,7 +969,8 @@
                 "de": "Sicherer Abstellplatz für nasse Ausrüstung suchen.",
                 "hu": "Keressen helyet a vizes felszerelésnek.",
                 "ro": "Căutați un loc pentru echipamentul ud.",
-                "en": "Find a spot for your wet cycling gear."
+                "en": "Find a spot for your wet cycling gear.",
+                "da": "Find et sted til dit våde cykeltøj."
               }
             },
             {
@@ -910,7 +979,8 @@
                 "de": "Der Weg kann stellenweise matschig sein.",
                 "hu": "Az út helyenként saras lehet.",
                 "ro": "Drumul poate fi noroios pe alocuri.",
-                "en": "The path can be muddy in some sections."
+                "en": "The path can be muddy in some sections.",
+                "da": "Stien kan være mudret på nogle strækninger."
               }
             },
             {
@@ -919,7 +989,8 @@
                 "de": "Gute Beleuchtung bei Regen einschalten.",
                 "hu": "Kapcsolja be a világítást az esőben.",
                 "ro": "Aprindeți luminile pe timp de ploaie.",
-                "en": "Turn on your lights during the rain."
+                "en": "Turn on your lights during the rain.",
+                "da": "Tænd for dine lygter under regnen."
               }
             }
           ],
@@ -947,6 +1018,12 @@
               "Check your brakes; they need more distance in the wet.",
               "Avoid road markings, as they become extremely slippery.",
               "A saddle cover will keep your seat dry."
+            ],
+            "da": [
+              "Fuld vandtæt beklædning er essentiel.",
+              "Tjek dine bremser; de kræver længere bremselængde i vådt føre.",
+              "Undgå vejmarkeringer, da de bliver ekstremt glatte.",
+              "Et sadelovertræk holder sadlen tør."
             ]
           }
         },
@@ -955,7 +1032,8 @@
             "de": "Ein frostiger Start am Axeltorv erfordert warme Kleidung. Mittags wärmen Sie sich in den historischen Gebäuden des Zentrums auf.\n\nNachmittags führt die Tour durch die winterliche Stille nach Rønnebæksholm. Genießen Sie die klare Luft und die weite Sicht über die gefrorenen Felder, bevor Sie vor Einbruch der frühen Dunkelheit sicher ins Stadtzentrum zurückkehren.",
             "hu": "A fagyos indítás az Axeltorvról meleg ruházatot igényel. Délben a központ történelmi épületeiben melegedhet fel.\n\nDélután a túra a téli csendben vezet Rønnebæksholm felé. Élvezze a friss levegőt és a kilátást a fagyott mezőkre, mielőtt a korai sötétedés előtt biztonságban visszatérne a városközpontba.",
             "ro": "Un start înghețat din Axeltorv necesită haine groase. La prânz, încălziți-vă în clădirile istorice din centru.\n\nDupă-amiaza, turul vă duce prin liniștea iernii spre Rønnebæksholm. Bucurați-vă de aerul curat și de vederea peste câmpurile înghețate înainte de a reveni în siguranță în centru înainte de lăsarea serii.",
-            "en": "A frosty start at Axeltorv requires warm layers. By noon, warm up inside the historic buildings of the city center.\n\nIn the afternoon, your ride takes you through the winter silence toward Rønnebæksholm. Enjoy the crisp air and wide views over frozen fields before returning safely to the center before the early winter darkness sets in."
+            "en": "A frosty start at Axeltorv requires warm layers. By noon, warm up inside the historic buildings of the city center.\n\nIn the afternoon, your ride takes you through the winter silence toward Rønnebæksholm. Enjoy the crisp air and wide views over frozen fields before returning safely to the center before the early winter darkness sets in.",
+            "da": "En frostklar start på Axeltorv kræver varme lag. Ved middagstid kan du varme dig indendørs i byens historiske bygninger.\n\nOm eftermiddagen tager din tur dig gennem vintersceneriet mod Rønnebæksholm. Nyd den klare luft og vid udsigt over frosne marker, før du trygt vender tilbage til centrum inden den tidlige vintermørke sænker sig."
           },
           "stops": [
             {
@@ -964,7 +1042,8 @@
                 "de": "Achtung bei überfrierender Nässe auf dem Platz.",
                 "hu": "Vigyázzon a lefagyásokra a téren.",
                 "ro": "Atenție la poleiul din piață.",
-                "en": "Watch out for black ice on the square."
+                "en": "Watch out for black ice on the square.",
+                "da": "Pas på sort is på torvet."
               }
             },
             {
@@ -973,7 +1052,8 @@
                 "de": "Nutzen Sie die Garderobe für schwere Winterjacken.",
                 "hu": "Használja a ruhatárat a nehéz kabátoknak.",
                 "ro": "Folosiți garderoba pentru hainele grele.",
-                "en": "Use the cloakroom for heavy winter coats."
+                "en": "Use the cloakroom for heavy winter coats.",
+                "da": "Brug garderoben til tunge vinterfrakker."
               }
             },
             {
@@ -982,7 +1062,8 @@
                 "de": "Kurzer Stopp zum Aufwärmen im Vorraum.",
                 "hu": "Rövid megálló melegedni az előtérben.",
                 "ro": "Scurtă oprire pentru încălzire în vestibul.",
-                "en": "Short stop to warm up in the vestibule."
+                "en": "Short stop to warm up in the vestibule.",
+                "da": "Kort stop for at varme op i forhallen."
               }
             },
             {
@@ -991,7 +1072,8 @@
                 "de": "Heiße Getränke füllen die Energiespeicher auf.",
                 "hu": "Forró italok segítenek az energiapótlásban.",
                 "ro": "Băuturile calde vă refac energia.",
-                "en": "Hot drinks will replenish your energy."
+                "en": "Hot drinks will replenish your energy.",
+                "da": "Varme drikke giver ny energi."
               }
             },
             {
@@ -1000,7 +1082,8 @@
                 "de": "Die Cafeteria bietet oft Winter-Spezialitäten.",
                 "hu": "A büfében gyakran van téli ajánlat.",
                 "ro": "Cafeneaua oferă adesea specialități de iarnă.",
-                "en": "The cafe often serves winter specialties."
+                "en": "The cafe often serves winter specialties.",
+                "da": "Kafeen serverer ofte vinterspecialiteter."
               }
             },
             {
@@ -1009,7 +1092,8 @@
                 "de": "Reflektoren sind bei Dämmerung lebenswichtig.",
                 "hu": "A prizmák és fényvisszaverők létfontosságúak.",
                 "ro": "Reflectorizantele sunt vitale la amurg.",
-                "en": "Reflectors are vital during dusk."
+                "en": "Reflectors are vital during dusk.",
+                "da": "Reflekser er vigtige i skumringen."
               }
             }
           ],
@@ -1037,6 +1121,12 @@
               "Windproof gloves protect against the cold windchill.",
               "Plan your return journey by 3:30 PM at the latest.",
               "Check tire pressure; it drops in cold weather."
+            ],
+            "da": [
+              "Pas på vejsalt; det kan ætse din kæde.",
+              "Vindtætte handsker beskytter mod kold vindafkøling.",
+              "Planlæg din hjemrejse senest kl. 15:30.",
+              "Tjek dæktrykket; det falder i koldt vejr."
             ]
           }
         }
@@ -1055,7 +1145,8 @@
             "de": "Cluster 1: Næstved Zentrum",
             "hu": "1. Klaszter: Næstved központ",
             "ro": "Cluster 1: Centrul Næstved",
-            "en": "Cluster 1: Næstved Center"
+            "en": "Cluster 1: Næstved Center",
+            "da": "Klynge 1: Næstved Centrum"
           },
           "coords": [
             11.759,
@@ -1071,7 +1162,8 @@
             "de": "Parken Sie Ihr Auto in einem der zentralen Parkhäuser für den Vormittag.",
             "hu": "Parkolja le autóját a délelőttre egy központi parkolóházban.",
             "ro": "Parcați-vă mașina într-una dintre parcările centrale pentru dimineață.",
-            "en": "Park your car in a central parking garage for the morning."
+            "en": "Park your car in a central parking garage for the morning.",
+            "da": "Parkér din bil i et centralt parkeringshus til formiddagen."
           }
         },
         {
@@ -1079,7 +1171,8 @@
             "de": "Axeltorv & Sct. Mortens Kirke",
             "hu": "Axeltorv és Szent Márton-templom",
             "ro": "Axeltorv și Biserica Sf. Martin",
-            "en": "Axeltorv & St. Martin's Church"
+            "en": "Axeltorv & St. Martin's Church",
+            "da": "Axeltorv & Sankt Martins Kirke"
           },
           "coords": [
             11.76,
@@ -1095,7 +1188,8 @@
             "de": "Erkunden Sie den Hauptplatz und die angrenzende Kirche zu Fuß.",
             "hu": "Fedezze fel gyalog a főteret és a szomszédos templomot.",
             "ro": "Explorați piața principală și biserica adiacentă pe jos.",
-            "en": "Explore the main square and the adjacent church on foot."
+            "en": "Explore the main square and the adjacent church on foot.",
+            "da": "Udforsk hovedtorvet og den tilstødende kirke til fods."
           }
         },
         {
@@ -1103,7 +1197,8 @@
             "de": "Helligåndshuset",
             "hu": "Helligåndshuset",
             "ro": "Helligåndshuset",
-            "en": "House of the Holy Ghost"
+            "en": "House of the Holy Ghost",
+            "da": "Helligåndshuset"
           },
           "coords": [
             11.7585,
@@ -1119,7 +1214,8 @@
             "de": "Ein kurzer Spaziergang vom Platz entfernt, tauchen Sie ein in die mittelalterliche Geschichte.",
             "hu": "Egy rövid séta a tértől, merüljön el a középkori történelemben.",
             "ro": "La o scurtă plimbare de piață, scufundați-vă în istoria medievală.",
-            "en": "A short walk from the square, dive into medieval history."
+            "en": "A short walk from the square, dive into medieval history.",
+            "da": "Et kort stykke fra torvet; dyk ned i middelalderhistorien."
           }
         },
         {
@@ -1127,7 +1223,8 @@
             "de": "Cluster 2: Gavnø Slot",
             "hu": "2. Klaszter: Gavnø kastély",
             "ro": "Cluster 2: Castelul Gavnø",
-            "en": "Cluster 2: Gavnø Castle"
+            "en": "Cluster 2: Gavnø Castle",
+            "da": "Klynge 2: Gavnø Slot"
           },
           "coords": [
             11.721,
@@ -1143,7 +1240,8 @@
             "de": "Fahren Sie zum Schloss. Planen Sie Zeit für das Schloss, die Gärten und die Tulpenausstellung (im Frühling) ein.",
             "hu": "Vezessen a kastélyhoz. Tervezzen időt a kastélyra, a kertekre és a tulipánkiállításra (tavasszal).",
             "ro": "Conduceți la castel. Planificați timp pentru castel, grădini și expoziția de lalele (primăvara).",
-            "en": "Drive to the castle. Plan time for the castle, gardens, and the tulip exhibition (in spring)."
+            "en": "Drive to the castle. Plan time for the castle, gardens, and the tulip exhibition (in spring).",
+            "da": "Kør til slottet. Afsæt tid til slottet, haverne og tulipanudstillingen (om foråret)."
           }
         },
         {
@@ -1151,7 +1249,8 @@
             "de": "Mittagessen in der Nähe von Gavnø",
             "hu": "Ebéd Gavnø közelében",
             "ro": "Prânz lângă Gavnø",
-            "en": "Lunch near Gavnø"
+            "en": "Lunch near Gavnø",
+            "da": "Frokost nær Gavnø"
           },
           "coords": [
             11.725,
@@ -1167,7 +1266,8 @@
             "de": "Das Schlosscafé bietet eine gute Gelegenheit für eine Stärkung.",
             "hu": "A kastély kávézója jó lehetőséget kínál egy frissítőre.",
             "ro": "Cafeneaua castelului oferă o oportunitate bună pentru o masă.",
-            "en": "The castle café offers a good opportunity for refreshments."
+            "en": "The castle café offers a good opportunity for refreshments.",
+            "da": "Slotscaféen er et godt sted for forfriskninger."
           }
         },
         {
@@ -1175,7 +1275,8 @@
             "de": "Cluster 3: Karrebæksminde",
             "hu": "3. Klaszter: Karrebæksminde",
             "ro": "Cluster 3: Karrebæksminde",
-            "en": "Cluster 3: Karrebæksminde"
+            "en": "Cluster 3: Karrebæksminde",
+            "da": "Klynge 3: Karrebæksminde"
           },
           "coords": [
             11.65,
@@ -1191,7 +1292,8 @@
             "de": "Beenden Sie den Tag am Meer. Machen Sie einen Strandspaziergang, essen Sie Fisch und genießen Sie die maritime Atmosphäre.",
             "hu": "Zárja a napot a tengernél. Sétáljon a parton, egyen halat és élvezze a tengeri hangulatot.",
             "ro": "Încheiați ziua la mare. Faceți o plimbare pe plajă, mâncați pește și bucurați-vă de atmosfera maritimă.",
-            "en": "End the day by the sea. Take a beach walk, eat fish, and enjoy the maritime atmosphere."
+            "en": "End the day by the sea. Take a beach walk, eat fish, and enjoy the maritime atmosphere.",
+            "da": "Afslut dagen ved havet. Gå en tur på stranden, spis fisk og nyd den maritime stemning."
           }
         }
       ],
@@ -1199,7 +1301,8 @@
         "de": "Dieser Autotagesausflug kombiniert Stadtkultur mit Naturerlebnissen. Parken Sie im Zentrum von Næstved und erkunden Sie die historischen Gassen zu Fuß. Am Vormittag besuchen Sie den Marktplatz und das mittelalterliche Helligåndshuset. Danach fahren Sie zum prächtigen Gavnø Slot, wo Sie im Schloss und seinen Gärten den Mittag verbringen. Der Tag endet mit einer Fahrt zum Küstenort Karrebæksminde, wo Sie am Strand entspannen, frischen Fisch genießen und den Sonnenuntergang über dem Meer beobachten.",
         "hu": "Ez az autós napos kirándulás ötvözi a városi kultúrát a természeti élményekkel. Parkoljon Næstved központjában, és fedezze fel gyalog a történelmi sikátorokat. Délelőtt látogasson el a piactérre és a középkori Helligåndshusetbe. Ezután vezessen a csodálatos Gavnø kastélyhoz, ahol a kastélyban és a kertjében töltheti a délt. A nap a tengerparti Karrebæksminde városába tett utazással zárul, ahol pihenhet a strandon, friss halat ehet, és figyelheti a naplementét a tenger felett.",
         "ro": "Această excursie de o zi cu mașina combină cultura orașului cu experiențe în natură. Parcați în centrul orașului Næstved și explorați aleile istorice pe jos. Dimineața, vizitați piața și medievalul Helligåndshuset. Apoi, conduceți la magnificul Castel Gavnø, unde petreceți amiaza în castel și grădinile sale. Ziua se încheie cu o excursie în orașul de coastă Karrebæksminde, unde vă puteți relaxa pe plajă, puteți mânca pește proaspăt și puteți privi apusul peste mare.",
-        "en": "This car day trip combines city culture with natural experiences. Park in the center of Næstved and explore the historic alleys on foot. In the morning, visit the market square and the medieval Helligåndshuset. Then, drive to the magnificent Gavnø Castle, where you'll spend midday in the castle and its gardens. The day concludes with a drive to the coastal town of Karrebæksminde, where you can relax on the beach, eat fresh fish, and watch the sunset over the sea."
+        "en": "This car day trip combines city culture with natural experiences. Park in the center of Næstved and explore the historic alleys on foot. In the morning, visit the market square and the medieval Helligåndshuset. Then, drive to the magnificent Gavnø Castle, where you'll spend midday in the castle and its gardens. The day concludes with a drive to the coastal town of Karrebæksminde, where you can relax on the beach, eat fresh fish, and watch the sunset over the sea.",
+        "da": "Denne biltur kombinerer bykultur med naturoplevelser. Parkér i Næstveds centrum og udforsk de historiske gyder til fods. Om formiddagen besøger du torvet og det middelalderlige Helligåndshus. Derefter kører du til det storslåede Gavnø Slot, hvor du tilbringer middagstimerne i slottet og dets haver. Dagen afsluttes med en køretur til kystbyen Karrebæksminde, hvor du kan slappe af på stranden, spise frisk fisk og se solen gå ned over havet."
       },
       "gastro_picks": {
         "de": [
@@ -1353,6 +1456,12 @@
           "Book tickets for Gavnø Castle online to avoid queues.",
           "Karrebæksminde can get crowded in summer, be prepared to look for parking.",
           "The roads between the sights are well-maintained and scenic."
+        ],
+        "da": [
+          "Tjek parkeringsafgifter og tider i bymidten.",
+          "Bestil billetter til Gavnø Slot online for at undgå køer.",
+          "Karrebæksminde kan blive fyldt om sommeren; vær forberedt på at lede efter parkering.",
+          "Vejene mellem seværdighederne er velholdte og naturskønne."
         ]
       },
       "variants": {
@@ -1361,7 +1470,8 @@
             "de": "Starten Sie gemütlich im trockenen Auto im Zentrum von Næstved. Mittags führt die Fahrt durch die verregnete Landschaft zum Schloss Gavnø, wo die prächtigen Innenräume ein ideales Ziel für schlechtes Wetter bieten.\n\nNach dem Mittagessen in der Nähe genießen Sie die dramatische Aussicht auf den Öresund bei Karrebæksminde bequem vom Auto aus oder in einem der gemütlichen Fischrestaurants am Kanal.",
             "hu": "Induljon kényelmesen, száraz autóval Næstved központjából. Délben az út az esős tájon át a Gavnø-kastélyhoz vezet, ahol a pompás belső terek ideális célpontot jelentenek rossz időben.\n\nAz ebéd után élvezze a drámai kilátást a tengerre Karrebæksmindénél, akár az autóból, akár a csatorna menti hangulatos haléttermek egyikéből szemlélve a hullámokat.",
             "ro": "Porniți confortabil cu mașina din centrul orașului Næstved. La prânz, drumul prin peisajul ploios vă duce la Castelul Gavnø, unde interioarele somptuoase sunt o destinație ideală pentru vreme rea.\n\nDupă prânz, bucurați-vă de vederea dramatică spre mare la Karrebæksminde, fie din mașină, fie dintr-unul din restaurantele primitoare de pe malul canalului.",
-            "en": "Start comfortably in your dry car in central Næstved. By noon, drive through the rainy countryside to Gavnø Castle, where the magnificent interiors offer a perfect escape from the weather.\n\nAfter lunch, enjoy the dramatic coastal views at Karrebæksminde from the comfort of your vehicle or inside one of the cozy fish restaurants along the canal."
+            "en": "Start comfortably in your dry car in central Næstved. By noon, drive through the rainy countryside to Gavnø Castle, where the magnificent interiors offer a perfect escape from the weather.\n\nAfter lunch, enjoy the dramatic coastal views at Karrebæksminde from the comfort of your vehicle or inside one of the cozy fish restaurants along the canal.",
+            "da": "Start komfortabelt i din tørre bil i centrale Næstved. Ved middagstid kører du gennem det regnfulde landskab til Gavnø Slot, hvor de storslåede interiører giver en perfekt pause fra vejret.\n\nEfter frokosten kan du nyde de dramatiske kystudsigter ved Karrebæksminde fra bilen eller inde i en af de hyggelige fiskerestauranter langs kanalen."
           },
           "stops": [
             {
@@ -1370,7 +1480,8 @@
                 "de": "Parkhaus bevorzugen, um trocken zu bleiben.",
                 "hu": "Válasszon fedett parkolót a száraz induláshoz.",
                 "ro": "Preferați o parcare acoperită.",
-                "en": "Prefer a parking garage to stay dry."
+                "en": "Prefer a parking garage to stay dry.",
+                "da": "Foretræk et parkeringshus for at holde dig tør."
               }
             },
             {
@@ -1379,7 +1490,8 @@
                 "de": "Kurzer Sprint vom Parkplatz zum Eingang.",
                 "hu": "Rövid sprint a parkolótól a bejáratig.",
                 "ro": "Sprint scurt de la parcare la intrare.",
-                "en": "Short dash from the parking lot to the entrance."
+                "en": "Short dash from the parking lot to the entrance.",
+                "da": "Kort sprint fra parkeringspladsen til indgangen."
               }
             },
             {
@@ -1388,7 +1500,8 @@
                 "de": "Parkplätze in unmittelbarer Nähe vorhanden.",
                 "hu": "Parkolók a közvetlen közelben.",
                 "ro": "Parcare disponibilă în imediata apropiere.",
-                "en": "Parking available in the immediate vicinity."
+                "en": "Parking available in the immediate vicinity.",
+                "da": "Parkering tilgængelig i umiddelbar nærhed."
               }
             },
             {
@@ -1397,7 +1510,8 @@
                 "de": "Die Schlosskapelle ist komplett überdacht.",
                 "hu": "A várkápolna teljesen fedett.",
                 "ro": "Capela castelului este complet acoperită.",
-                "en": "The castle chapel is completely covered."
+                "en": "The castle chapel is completely covered.",
+                "da": "Slottskapellet er fuldstændig overdækket."
               }
             },
             {
@@ -1406,7 +1520,8 @@
                 "de": "Reservieren Sie einen Tisch im Warmen.",
                 "hu": "Foglaljon asztalt a meleg beltérben.",
                 "ro": "Rezervați o masă la căldură.",
-                "en": "Reserve a table in the warm interior."
+                "en": "Reserve a table in the warm interior.",
+                "da": "Reservér et bord i den varme indre afdeling."
               }
             },
             {
@@ -1415,7 +1530,8 @@
                 "de": "Parken mit Blick auf das stürmische Meer.",
                 "hu": "Parkoljon kilátással a viharos tengerre.",
                 "ro": "Parcați cu vedere la marea învolburată.",
-                "en": "Park with a view of the stormy sea."
+                "en": "Park with a view of the stormy sea.",
+                "da": "Parkér med udsigt til det stormfulde hav."
               }
             }
           ],
@@ -1443,6 +1559,12 @@
               "Gavnø offers good shelter options in the courtyard.",
               "Karrebæksminde has many options viewable from the car.",
               "Keep an umbrella handy in the door pocket."
+            ],
+            "da": [
+              "Pas på aquaplaning på landevejene.",
+              "Gavnø tilbyder gode læmuligheder i gården.",
+              "Karrebæksminde har mange seværdigheder, der kan nydes fra bilen.",
+              "Hav en paraply i dørlommen."
             ]
           }
         },
@@ -1451,7 +1573,8 @@
             "de": "Beginnen Sie Ihren Wintertag flexibel mit dem Auto im Stadtkern. Mittags führt die Fahrt durch die frostige Seeland-Landschaft zum Schloss Gavnø, das im Winterlicht besonders edel wirkt.\n\nNachmittags genießen Sie die klare Winterluft in Karrebæksminde. Der zugefrorene Fjord und die menschenleeren Strände bieten eine friedliche Atmosphäre, bevor Sie sich auf der Rückfahrt mit der Autoheizung wieder aufwärmen.",
             "hu": "Kezdje a téli napot rugalmasan autóval a városközpontban. Délben az út a fagyos Sjælland-i tájon át a Gavnø-kastélyhoz vezet, amely a téli fényekben különösen előkelő.\n\nDélután élvezze a friss téli levegőt Karrebæksmindénél. A befagyott fjord és az üres strandok békés hangulatot árasztanak, mielőtt a visszaúton az autó fűtése mellett újra felmelegedne.",
             "ro": "Începeți ziua de iarnă flexibil cu mașina în centru. La prânz, drumul prin peisajul înghețat din Sjælland vă duce la Castelul Gavnø, care arată nobil în lumina iernii.\n\nDupă-amiaza, bucurați-vă de aerul curat la Karrebæksminde. Fiordul înghețat și plajele pustii oferă o atmosferă liniștită înainte de a vă reîncălzi în mașină pe drumul de întoarcere.",
-            "en": "Start your winter day with the flexibility of a car in the city center. By noon, drive through the frosty Zealand landscape to Gavnø Castle, which looks particularly noble in the winter light.\n\nIn the afternoon, enjoy the crisp air at Karrebæksminde. The frozen fjord and empty beaches offer a peaceful atmosphere before you warm up again with the car heater on the drive back."
+            "en": "Start your winter day with the flexibility of a car in the city center. By noon, drive through the frosty Zealand landscape to Gavnø Castle, which looks particularly noble in the winter light.\n\nIn the afternoon, enjoy the crisp air at Karrebæksminde. The frozen fjord and empty beaches offer a peaceful atmosphere before you warm up again with the car heater on the drive back.",
+            "da": "Start din vinterdag med fleksibiliteten i en bil i bymidten. Ved middagstid kører du gennem det frostklare sjællandske landskab til Gavnø Slot, som ser særligt nobelt ud i vinterlyset.\n\nOm eftermiddagen kan du nyde den kølige luft ved Karrebæksminde. Den frosne fjord og de tomme strande skaber en fredfyldt stemning, før du varmer op igen med bilens varme på køreturen tilbage."
           },
           "stops": [
             {
@@ -1460,7 +1583,8 @@
                 "de": "Scheiben rechtzeitig enteisen.",
                 "hu": "Időben jégtelenítse a szélvédőt.",
                 "ro": "Dezghețați parbrizul la timp.",
-                "en": "Defrost your windshield in advance."
+                "en": "Defrost your windshield in advance.",
+                "da": "Afis din forrude på forhånd."
               }
             },
             {
@@ -1469,7 +1593,8 @@
                 "de": "Zentrale Parkplätze sparen Gehzeit in der Kälte.",
                 "hu": "A központi parkolás spórol a hidegben.",
                 "ro": "Parcarea centrală economisește timp în frig.",
-                "en": "Central parking saves walking time in the cold."
+                "en": "Central parking saves walking time in the cold.",
+                "da": "Central parkering sparer gangtid i kulden."
               }
             },
             {
@@ -1478,7 +1603,8 @@
                 "de": "Hintereingang oft windgeschützter.",
                 "hu": "A hátsó bejárat gyakran szélvédettebb.",
                 "ro": "Intrarea din spate este adesea mai ferită.",
-                "en": "The back entrance is often more sheltered."
+                "en": "The back entrance is often more sheltered.",
+                "da": "Bagindgangen er ofte mere læ og beskyttet."
               }
             },
             {
@@ -1487,7 +1613,8 @@
                 "de": "Prüfen Sie die Winteröffnungszeiten vorab.",
                 "hu": "Ellenőrizze előre a téli nyitvatartást.",
                 "ro": "Verificați programul de iarnă în avans.",
-                "en": "Check winter opening hours beforehand."
+                "en": "Check winter opening hours beforehand.",
+                "da": "Tjek vinteråbningstider på forhånd."
               }
             },
             {
@@ -1496,7 +1623,8 @@
                 "de": "Warmer Kakao ist hier ein Muss.",
                 "hu": "A forró kakaó itt kötelező.",
                 "ro": "Cacaoa caldă este obligatorie aici.",
-                "en": "Hot cocoa is a must-try here."
+                "en": "Hot cocoa is a must-try here.",
+                "da": "Varm kakao er et must at prøve her."
               }
             },
             {
@@ -1505,7 +1633,8 @@
                 "de": "Die Brücke 'Grashüpfer' ist im Winter beleuchtet.",
                 "hu": "A 'Szöcske' híd télen ki van világítva.",
                 "ro": "Podul 'Lăcusta' este iluminat iarna.",
-                "en": "The 'Grasshopper' bridge is lit up in winter."
+                "en": "The 'Grasshopper' bridge is lit up in winter.",
+                "da": "'Græshoppe'-broen er oplyst om vinteren."
               }
             }
           ],
@@ -1533,6 +1662,12 @@
               "Watch out for deer crossing during dusk.",
               "Some coastal cafes may have winter breaks.",
               "Use seat heaters for maximum coziness."
+            ],
+            "da": [
+              "Vinterdæk og frostvæske er påkrævet.",
+              "Pas på hjorte, der krydser vejen ved skumring.",
+              "Nogle kystcaféer kan holde vinterlukket.",
+              "Brug sædevarme for maksimal hygge."
             ]
           }
         }
@@ -1551,7 +1686,8 @@
             "de": "Ankunft am Bahnhof Næstved",
             "hu": "Érkezés a Næstved vasútállomásra",
             "ro": "Sosire la gara Næstved",
-            "en": "Arrival at Næstved Station"
+            "en": "Arrival at Næstved Station",
+            "da": "Ankomst til Næstved Station"
           },
           "coords": [
             11.765,
@@ -1567,7 +1703,8 @@
             "de": "Kaufen Sie eine Tageskarte für den Bus, um sich flexibel zu bewegen.",
             "hu": "Vásároljon egy napijegyet a buszra a rugalmas közlekedés érdekében.",
             "ro": "Cumpărați un bilet de o zi pentru autobuz pentru a vă deplasa flexibil.",
-            "en": "Buy a day pass for the bus for flexible travel."
+            "en": "Buy a day pass for the bus for flexible travel.",
+            "da": "Køb et dagskort til bussen for fleksibel transport."
           }
         },
         {
@@ -1575,7 +1712,8 @@
             "de": "Cluster 1: Stadtzentrum zu Fuß",
             "hu": "1. Klaszter: Városközpont gyalog",
             "ro": "Cluster 1: Centrul orașului pe jos",
-            "en": "Cluster 1: City Center on foot"
+            "en": "Cluster 1: City Center on foot",
+            "da": "Klynge 1: Byens centrum til fods"
           },
           "coords": [
             11.7595,
@@ -1591,7 +1729,8 @@
             "de": "Erkunden Sie Axeltorv, Sct. Peders Kirke und das Helligåndshuset.",
             "hu": "Fedezze fel az Axeltorv teret, a Szent Péter-templomot és a Helligåndshusetet.",
             "ro": "Explorați Piața Axeltorv, Biserica Sf. Petru și Helligåndshuset.",
-            "en": "Explore Axeltorv, St. Peter's Church, and the Helligåndshuset."
+            "en": "Explore Axeltorv, St. Peter's Church, and the Helligåndshuset.",
+            "da": "Udforsk Axeltorv, Skt. Peters Kirke og Helligåndshuset."
           }
         },
         {
@@ -1599,7 +1738,8 @@
             "de": "Mittagessen im Zentrum",
             "hu": "Ebéd a központban",
             "ro": "Prânz în centru",
-            "en": "Lunch in the center"
+            "en": "Lunch in the center",
+            "da": "Frokost i centrum"
           },
           "coords": [
             11.76,
@@ -1615,7 +1755,8 @@
             "de": "Genießen Sie ein Mittagessen, bevor Sie den Bus zum nächsten Ziel nehmen.",
             "hu": "Élvezze az ebédet, mielőtt buszra szállna a következő úticél felé.",
             "ro": "Savurați prânzul înainte de a lua autobuzul spre următoarea destinație.",
-            "en": "Enjoy lunch before taking the bus to the next destination."
+            "en": "Enjoy lunch before taking the bus to the next destination.",
+            "da": "Nyd frokost inden du tager bussen til næste destination."
           }
         },
         {
@@ -1623,7 +1764,8 @@
             "de": "Cluster 2: Rønnebæksholm",
             "hu": "2. Klaszter: Rønnebæksholm",
             "ro": "Cluster 2: Rønnebæksholm",
-            "en": "Cluster 2: Rønnebæksholm"
+            "en": "Cluster 2: Rønnebæksholm",
+            "da": "Klynge 2: Rønnebæksholm"
           },
           "coords": [
             11.82,
@@ -1639,7 +1781,8 @@
             "de": "Nehmen Sie den Bus nach Rønnebæksholm. Prüfen Sie den Fahrplan für die Rückfahrt.",
             "hu": "Szálljon buszra Rønnebæksholm felé. Ellenőrizze a menetrendet a visszaútra.",
             "ro": "Luați autobuzul spre Rønnebæksholm. Verificați orarul pentru întoarcere.",
-            "en": "Take the bus to Rønnebæksholm. Check the schedule for the return trip."
+            "en": "Take the bus to Rønnebæksholm. Check the schedule for the return trip.",
+            "da": "Tag bussen til Rønnebæksholm. Tjek køreplanen for returrejsen."
           }
         },
         {
@@ -1647,7 +1790,8 @@
             "de": "Cluster 3: Karrebæksminde",
             "hu": "3. Klaszter: Karrebæksminde",
             "ro": "Cluster 3: Karrebæksminde",
-            "en": "Cluster 3: Karrebæksminde"
+            "en": "Cluster 3: Karrebæksminde",
+            "da": "Klynge 3: Karrebæksminde"
           },
           "coords": [
             11.65,
@@ -1663,7 +1807,8 @@
             "de": "Ein weiterer Bus bringt Sie direkt an die Küste. Genießen Sie den Abend am Meer.",
             "hu": "Egy másik busz egyenesen a partra visz. Élvezze az estét a tengernél.",
             "ro": "Un alt autobuz vă duce direct la coastă. Bucurați-vă de seara la mare.",
-            "en": "Another bus takes you directly to the coast. Enjoy the evening by the sea."
+            "en": "Another bus takes you directly to the coast. Enjoy the evening by the sea.",
+            "da": "En anden bus kører dig direkte til kysten. Nyd aftenen ved havet."
           }
         }
       ],
@@ -1671,7 +1816,8 @@
         "de": "Erkunden Sie Næstved und seine Umgebung bequem mit öffentlichen Verkehrsmitteln. Nach der Ankunft am Bahnhof tauchen Sie zu Fuß in die Atmosphäre des Stadtzentrums ein. Nach dem Mittagessen bringt Sie ein Bus zum Kulturzentrum Rønnebæksholm. Der Höhepunkt des Tages ist eine weitere Busfahrt zum charmanten Küstenort Karrebæksminde, wo Sie den Tag mit Meeresbrise und einem entspannten Abendessen ausklingen lassen, bevor Sie mit dem Bus ins Zentrum zurückkehren.",
         "hu": "Fedezze fel Næstvedet és környékét kényelmesen a tömegközlekedéssel. Az állomásra érkezés után gyalog merüljön el a városközpont hangulatában. Ebéd után egy busz visz a Rønnebæksholm kulturális központba. A nap fénypontja egy újabb buszút a bájos tengerparti városba, Karrebæksmindébe, ahol a napot tengeri szellővel és egy pihentető vacsorával zárhatja, mielőtt busszal visszatérne a központba.",
         "ro": "Explorați Næstved și împrejurimile sale confortabil cu transportul public. După sosirea la gară, scufundați-vă în atmosfera centrului orașului pe jos. După prânz, un autobuz vă duce la centrul cultural Rønnebæksholm. Punctul culminant al zilei este o altă călătorie cu autobuzul spre fermecătorul oraș de coastă Karrebæksminde, unde puteți încheia ziua cu o briză de mare și o cină relaxantă înainte de a vă întoarce în centru cu autobuzul.",
-        "en": "Explore Næstved and its surroundings comfortably by public transport. After arriving at the station, immerse yourself in the city center's atmosphere on foot. After lunch, a bus takes you to the Rønnebæksholm cultural center. The day's highlight is another bus ride to the charming coastal town of Karrebæksminde, where you can end the day with a sea breeze and a relaxing dinner before returning to the center by bus."
+        "en": "Explore Næstved and its surroundings comfortably by public transport. After arriving at the station, immerse yourself in the city center's atmosphere on foot. After lunch, a bus takes you to the Rønnebæksholm cultural center. The day's highlight is another bus ride to the charming coastal town of Karrebæksminde, where you can end the day with a sea breeze and a relaxing dinner before returning to the center by bus.",
+        "da": "Udforsk Næstved og omegn komfortabelt med offentlig transport. Efter ankomst til stationen kan du lytte til byens atmosfære til fods i centrum. Efter frokost tager en bus dig til kulturcentret Rønnebæksholm. Dagens højdepunkt er endnu en bustur til den charmerende kystby Karrebæksminde, hvor du kan slutte dagen med havbrise og en afslappende middag, inden du vender tilbage til centrum med bussen."
       },
       "gastro_picks": {
         "de": [
@@ -1825,6 +1971,12 @@
           "Buses run regularly, but it's good to know the schedule for the last return trip.",
           "A day pass is often cheaper than multiple single tickets.",
           "The bus stops for the main attractions are usually well-marked."
+        ],
+        "da": [
+          "Download en lokal app til offentlig transport for realtidskøreplaner.",
+          "Busser kører regelmæssigt, men det er godt at kende køreplanen for sidste returbus.",
+          "Et dagskort er ofte billigere end flere enkeltbilletter.",
+          "Bustoppene ved hovedattraktionerne er som regel godt afmærkede."
         ]
       },
       "variants": {
@@ -1833,7 +1985,8 @@
             "de": "Kommen Sie trocken am Bahnhof Næstved an und nutzen Sie die kurzen Busverbindungen ins Zentrum. Mittags erkunden Sie die Sehenswürdigkeiten und kehren für ein warmes Mittagessen ein.\n\nNachmittags bringt Sie der Bus bequem nach Rønnebæksholm und später weiter nach Karrebæksminde, wo Sie das stürmische Meer von einem geschützten Platz aus beobachten können, bevor der Bus Sie zurück zum Bahnhof bringt.",
             "hu": "Érkezzen szárazon a Næstved állomásra, és használja a rövid buszjáratokat a központba. Délben fedezze fel a látnivalókat, majd térjen be egy meleg ebédre.\n\nDélután a busz kényelmesen elviszi Rønnebæksholmba, majd később Karrebæksmindébe, ahol egy védett helyről figyelheti a viharos tengert, mielőtt a busz visszaviszi az állomásra.",
             "ro": "Sosiți la gara Næstved și folosiți legăturile scurte de autobuz spre centru. La prânz, explorați atracțiile și opriți-vă pentru un prânz cald.\n\nDupă-amiaza, autobuzul vă duce confortabil la Rønnebæksholm și apoi la Karrebæksminde, unde puteți observa marea învolburată dintr-un loc protejat, înainte ca autobuzul să vă aducă înapoi la gară.",
-            "en": "Arrive dry at Næstved Station and take advantage of quick bus connections to the center. Spend your midday exploring and stop for a warm lunch.\n\nIn the afternoon, the bus takes you comfortably to Rønnebæksholm and later to Karrebæksminde, where you can watch the stormy sea from a sheltered spot before heading back to the station."
+            "en": "Arrive dry at Næstved Station and take advantage of quick bus connections to the center. Spend your midday exploring and stop for a warm lunch.\n\nIn the afternoon, the bus takes you comfortably to Rønnebæksholm and later to Karrebæksminde, where you can watch the stormy sea from a sheltered spot before heading back to the station.",
+            "da": "Ankom tør til Næstved Station og udnyt de hurtige busforbindelser til centrum. Brug formiddagen på at udforske og find et varmt sted til frokost.\n\nOm eftermiddagen kører bussen dig komfortabelt til Rønnebæksholm og senere til Karrebæksminde, hvor du kan iagttage det stormfulde hav fra et læsted, inden du tager tilbage til stationen."
           },
           "stops": [
             {
@@ -1842,7 +1995,8 @@
                 "de": "Warten Sie in der beheizten Bahnhofshalle.",
                 "hu": "Várjon a fűtött váróteremben.",
                 "ro": "Așteptați în holul gării încălzit.",
-                "en": "Wait in the heated station hall."
+                "en": "Wait in the heated station hall.",
+                "da": "Vent i den opvarmede stationshal."
               }
             },
             {
@@ -1851,7 +2005,8 @@
                 "de": "Bus 601 hält direkt am Axeltorv.",
                 "hu": "A 601-es busz közvetlenül az Axeltorvnál áll meg.",
                 "ro": "Autobuzul 601 oprește direct la Axeltorv.",
-                "en": "Bus 601 stops right at Axeltorv."
+                "en": "Bus 601 stops right at Axeltorv.",
+                "da": "Bus 601 stopper lige ved Axeltorv."
               }
             },
             {
@@ -1860,7 +2015,8 @@
                 "de": "Restaurants in Bahnhofsnähe bevorzugen.",
                 "hu": "Válasszon éttermet az állomás közelében.",
                 "ro": "Preferați restaurantele de lângă gară.",
-                "en": "Prefer restaurants near the station area."
+                "en": "Prefer restaurants near the station area.",
+                "da": "Foretræk restauranter nær stationen."
               }
             },
             {
@@ -1869,7 +2025,8 @@
                 "de": "Bushaltestelle ist nur 2 Minuten entfernt.",
                 "hu": "A buszmegálló mindössze 2 percre van.",
                 "ro": "Stația de autobuz este la doar 2 minute.",
-                "en": "The bus stop is only 2 minutes away."
+                "en": "The bus stop is only 2 minutes away.",
+                "da": "Busstoppet er kun 2 minutters gang væk."
               }
             },
             {
@@ -1878,7 +2035,8 @@
                 "de": "Warme Wartehäuschen an der Endstation.",
                 "hu": "Fűtött/védett váró a végállomáson.",
                 "ro": "Adăposturi de așteptare la capăt de linie.",
-                "en": "Sheltered waiting areas at the terminus."
+                "en": "Sheltered waiting areas at the terminus.",
+                "da": "Læfyldte venteområder ved endestationen."
               }
             }
           ],
@@ -1906,6 +2064,12 @@
               "Buses are well-climatized and dry.",
               "Heavy rain may cause minor delays in bus schedules.",
               "Buy a day ticket (Sydsjælland) to save money."
+            ],
+            "da": [
+              "Brug appen 'Rejseplanen' til realtidsopdateringer.",
+              "Busserne er godt klimatiserede og tørre.",
+              "Kraftig regn kan give mindre forsinkelser i bustrafikken.",
+              "Køb et dagskort (Sydsjælland) for at spare penge."
             ]
           }
         },
@@ -1914,7 +2078,8 @@
             "de": "Starten Sie Ihren Winterausflug am gemütlichen Bahnhof Næstved. Die Busse bringen Sie schnell zu den wichtigsten Clustern im Zentrum, wo Sie die winterliche Atmosphäre genießen können.\n\nNachmittags führt die Reise per Transit nach Rønnebæksholm und weiter an die Küste. Das winterliche Karrebæksminde wirkt wie aus der Zeit gefallen. Achten Sie auf den Fahrplan für die Rückreise im Dunkeln, um den Abend entspannt im Zug ausklingen zu lassen.",
             "hu": "Kezdje a téli kirándulást a barátságos Næstved állomáson. A buszok gyorsan elviszik a központ legfontosabb pontjaihoz, ahol élvezheti a téli hangulatot.\n\nDélután a tranzitút Rønnebæksholmba, majd a partra vezet. A téli Karrebæksminde olyan, mintha megállt volna az idő. Ügyeljen a menetrendre a sötétben való visszautazáshoz, hogy az estét nyugodtan zárhassa a vonaton.",
             "ro": "Începeți excursia de iarnă la gara primitoare Næstved. Autobuzele vă duc rapid la punctele cheie din centru, unde puteți savura atmosfera de iarnă.\n\nDupă-amiaza, călătoria continuă spre Rønnebæksholm și apoi spre coastă. Karrebæksminde iarna pare desprins din alt timp. Atenție la orar pentru întoarcerea pe întuneric, pentru a încheia seara relaxat în tren.",
-            "en": "Start your winter excursion at the cozy Næstved Station. Buses quickly whisk you to the main clusters in the center, where you can soak in the winter vibe.\n\nIn the afternoon, transit takes you to Rønnebæksholm and on to the coast. Winter in Karrebæksminde feels like a step back in time. Keep an eye on the schedule for your return journey in the dark to ensure a relaxing train ride home."
+            "en": "Start your winter excursion at the cozy Næstved Station. Buses quickly whisk you to the main clusters in the center, where you can soak in the winter vibe.\n\nIn the afternoon, transit takes you to Rønnebæksholm and on to the coast. Winter in Karrebæksminde feels like a step back in time. Keep an eye on the schedule for your return journey in the dark to ensure a relaxing train ride home.",
+            "da": "Start din vinterudflugt på den hyggelige Næstved Station. Busser tager dig hurtigt til hovedklynger i centrum, hvor du kan suge vinterstemningen til dig.\n\nOm eftermiddagen går turen med offentlig transport til Rønnebæksholm og videre til kysten. Vinter i Karrebæksminde føles som et skridt tilbage i tiden. Hold øje med køreplanen for din returrejse i mørket, så du er sikker på en afslappet tur hjem med tog."
           },
           "stops": [
             {
@@ -1923,7 +2088,8 @@
                 "de": "Heißgetränke-Automat in der Halle.",
                 "hu": "Forróital-automata az állomáson.",
                 "ro": "Automat de băuturi calde în hol.",
-                "en": "Hot drink vending machine in the hall."
+                "en": "Hot drink vending machine in the hall.",
+                "da": "Automat med varme drikke i hallen."
               }
             },
             {
@@ -1932,7 +2098,8 @@
                 "de": "Kurze Gehwege zwischen den Haltestellen.",
                 "hu": "Rövid gyalogutak a megállók között.",
                 "ro": "Distanțe scurte între stații.",
-                "en": "Short walking distances between stops."
+                "en": "Short walking distances between stops.",
+                "da": "Korte gangafstande mellem stoppesteder."
               }
             },
             {
@@ -1941,7 +2108,8 @@
                 "de": "Zentrumsnahe Cafés sind oft gemütlicher beleuchtet.",
                 "hu": "A belvárosi kávézók hangulatosan ki vannak világítva.",
                 "ro": "Cafenelele centrale sunt iluminate plăcut.",
-                "en": "Central cafes often have cozy winter lighting."
+                "en": "Central cafes often have cozy winter lighting.",
+                "da": "Centrums caféer har ofte hyggelig vinterbelysning."
               }
             },
             {
@@ -1950,7 +2118,8 @@
                 "de": "Heller beleuchtete Wege zum Schloss.",
                 "hu": "Kivilágított utak a kastélyhoz.",
                 "ro": "Căi luminate spre castel.",
-                "en": "Well-lit paths leading to the manor."
+                "en": "Well-lit paths leading to the manor.",
+                "da": "Veloplyste stier, der fører til herregården."
               }
             },
             {
@@ -1959,7 +2128,8 @@
                 "de": "Rückfahrt rechtzeitig vor dem letzten Bus planen.",
                 "hu": "Tervezze meg a visszautat az utolsó busz előtt.",
                 "ro": "Planificați întoarcerea înainte de ultimul autobuz.",
-                "en": "Plan your return before the last bus departs."
+                "en": "Plan your return before the last bus departs.",
+                "da": "Planlæg din hjemrejse før sidste bus afgår."
               }
             }
           ],
@@ -1987,6 +2157,12 @@
               "Most city center bus stops are sheltered.",
               "Take advantage of the warmth inside public transit.",
               "Wear reflectors when walking to the bus stops."
+            ],
+            "da": [
+              "Busser er ofte mere punktlige end tog om vinteren.",
+              "De fleste stoppesteder i centrum er overdækkede.",
+              "Udnyt varmen inde i den offentlige transport.",
+              "Bær reflekser, når du går til stoppestederne."
             ]
           }
         }

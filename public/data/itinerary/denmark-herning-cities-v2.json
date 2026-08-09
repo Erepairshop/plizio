@@ -21,7 +21,8 @@
             "de": "Herning Kirche",
             "hu": "Herningi templom",
             "ro": "Biserica din Herning",
-            "en": "Herning Church"
+            "en": "Herning Church",
+            "da": "Herning Kirke"
           },
           "coords": [
             8.978,
@@ -36,7 +37,8 @@
             "de": "Achten Sie auf die moderne Orgel und die klaren Linien der dänischen Kirchenarchitektur.",
             "hu": "Figyeld meg a modern orgonát és a dán egyházi építészet letisztult vonalait.",
             "ro": "Observați orga modernă și liniile curate ale arhitecturii bisericești daneze.",
-            "en": "Note the modern organ and the clean lines of Danish church architecture."
+            "en": "Note the modern organ and the clean lines of Danish church architecture.",
+            "da": "Bemærk det moderne orgel og de rene linjer i dansk kirkearkitektur."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Textilmuseum",
             "hu": "Textilmúzeum",
             "ro": "Muzeul Textilelor",
-            "en": "The Textile Museum"
+            "en": "The Textile Museum",
+            "da": "TekstilMuseet"
           },
           "coords": [
             8.973,
@@ -59,7 +62,8 @@
             "de": "Probieren Sie die alten Webstühle aus und erleben Sie Hernings industrielle Wurzeln.",
             "hu": "Próbáld ki a régi szövőszékeket, és ismerd meg Herning ipari gyökereit.",
             "ro": "Încercați războaiele de țesut vechi pentru a experimenta rădăcinile industriale ale Herningului.",
-            "en": "Try out the old looms and experience Herning's industrial roots firsthand."
+            "en": "Try out the old looms and experience Herning's industrial roots firsthand.",
+            "da": "Prøv de gamle væve og oplev Hernings industrielle rødder på nært hold."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Mittagessen im Stadtzentrum",
             "hu": "Ebédszünet a központban",
             "ro": "Pauză de prânz în centru",
-            "en": "Lunch break in the city center"
+            "en": "Lunch break in the city center",
+            "da": "Frokostpause i bymidten"
           },
           "coords": [
             8.975,
@@ -82,7 +87,8 @@
             "de": "Probieren Sie ein klassisches Smørrebrød in einem der Cafés am Platz.",
             "hu": "Kóstolj meg egy klasszikus Smørrebrødot a tér egyik kávézójában.",
             "ro": "Încercați un Smørrebrød clasic la una dintre cafenelele din piață.",
-            "en": "Try a classic Smørrebrød at one of the cafés in the square."
+            "en": "Try a classic Smørrebrød at one of the cafés in the square.",
+            "da": "Prøv et klassisk Smørrebrød på en af caféerne på torvet."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "HEART - Museum für Zeitgenössische Kunst",
             "hu": "HEART - Kortárs Művészeti Múzeum",
             "ro": "HEART - Muzeul de Artă Contemporană",
-            "en": "HEART - Museum of Contemporary Art"
+            "en": "HEART - Museum of Contemporary Art",
+            "da": "HEART - Museum for Moderne Kunst"
           },
           "coords": [
             8.945,
@@ -105,7 +112,8 @@
             "de": "Das Gebäude selbst ist ein architektonisches Meisterwerk von Steven Holl.",
             "hu": "Maga az épület Steven Holl építészeti mesterműve.",
             "ro": "Clădirea în sine este o capodoperă arhitecturală de Steven Holl.",
-            "en": "The building itself is an architectural masterpiece by Steven Holl."
+            "en": "The building itself is an architectural masterpiece by Steven Holl.",
+            "da": "Bygningen er i sig selv et arkitektonisk mesterværk af Steven Holl."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Carl-Henning Pedersen & Else Alfelts Museum",
             "hu": "Carl-Henning Pedersen & Else Alfelts Múzeum",
             "ro": "Muzeul Carl-Henning Pedersen & Else Alfelts",
-            "en": "Carl-Henning Pedersen & Else Alfelts Museum"
+            "en": "Carl-Henning Pedersen & Else Alfelts Museum",
+            "da": "Carl-Henning Pedersen & Else Alfelts Museum"
           },
           "coords": [
             8.943,
@@ -128,7 +137,8 @@
             "de": "Konzentrieren Sie sich auf die farbenfrohen Werke, die von der CoBrA-Bewegung inspiriert sind.",
             "hu": "Koncentrálj a CoBrA mozgalom által ihletett színes művekre.",
             "ro": "Concentrează-te pe lucrările colorate inspirate de mișcarea CoBrA.",
-            "en": "Focus on the colorful works inspired by the CoBrA movement."
+            "en": "Focus on the colorful works inspired by the CoBrA movement.",
+            "da": "Fokusér på de farverige værker inspireret af CoBrA-bevægelsen."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Ihr Tag beginnt im Herzen von Herning mit einem Besuch der schlichten Eleganz der Herning Kirke. Am Vormittag tauchen Sie im Textilmuseum in die industrielle Vergangenheit der Stadt ein. Nach einem stärkenden dänischen Mittagessen widmen Sie den Nachmittag der Kunst. Sie spazieren zum Museumsviertel, wo Sie zuerst die kühne zeitgenössische Kunst im HEART und anschließend die farbenfrohen Werke im Carl-Henning Pedersen & Else Alfelts Museum erkunden. Ein Tag voller Kultur und Geschichte zu Fuß.",
         "hu": "A nap Herning szívében kezdődik a Herning Kirke letisztult eleganciájának felfedezésével. Délelőtt a Textilmúzeumban merül el a város ipari múltjában. Egy kiadós dán ebéd után a délutánt a művészetnek szenteli. Átsétál a múzeumi negyedbe, ahol először a HEART merész kortárs művészetét, majd a Carl-Henning Pedersen & Else Alfelts Múzeum színes alkotásait fedezi fel. Egy nap tele kultúrával és történelemmel, mindezt gyalogosan.",
         "ro": "Ziua dvs. începe în inima orașului Herning cu o vizită la eleganța sobră a Bisericii Herning. Dimineața, vă veți scufunda în trecutul industrial al orașului la Muzeul Textilelor. După un prânz danez consistent, după-amiaza este dedicată artei. Vă veți plimba spre cartierul muzeelor pentru a explora mai întâi arta contemporană îndrăzneață de la HEART, urmată de lucrările colorate de la Muzeul Carl-Henning Pedersen & Else Alfelts. O zi plină de cultură și istorie, totul pe jos.",
-        "en": "Your day begins in the heart of Herning with a visit to the simple elegance of Herning Church. In the morning, you'll dive into the city's industrial past at The Textile Museum. After a hearty Danish lunch, the afternoon is dedicated to art. You'll stroll over to the museum district to first explore the bold contemporary art at HEART, followed by the colorful works at the Carl-Henning Pedersen & Else Alfelts Museum. A day filled with culture and history, all on foot."
+        "en": "Your day begins in the heart of Herning with a visit to the simple elegance of Herning Church. In the morning, you'll dive into the city's industrial past at The Textile Museum. After a hearty Danish lunch, the afternoon is dedicated to art. You'll stroll over to the museum district to first explore the bold contemporary art at HEART, followed by the colorful works at the Carl-Henning Pedersen & Else Alfelts Museum. A day filled with culture and history, all on foot.",
+        "da": "Din dag begynder i hjertet af Herning med et besøg i den enkle elegance i Herning Kirke. Om morgenen dykker du ned i byens industrielle fortid på TekstilMuseet. Efter en solid dansk frokost dedikeres eftermiddagen til kunst. Du går over til museumsområdet for først at udforske den dristige moderne kunst på HEART, efterfulgt af de farverige værker på Carl-Henning Pedersen & Else Alfelts Museum. En dag fyldt med kultur og historie, alt sammen til fods."
       },
       "gastro_picks": {
         "de": [
@@ -274,6 +285,11 @@
           "Wear comfortable shoes as you'll be doing a lot of walking.",
           "Check museum opening hours in advance as they can vary.",
           "An umbrella is always a good idea in Denmark, even in summer."
+        ],
+        "da": [
+          "Brug komfortable sko, da du kommer til at gå meget.",
+          "Tjek museernes åbningstider på forhånd, da de kan variere.",
+          "En paraply er altid en god idé i Danmark, også om sommeren."
         ]
       },
       "variants": {
@@ -282,7 +298,8 @@
             "de": "Der Morgen beginnt trocken in der Herning-Kirche, einem Rückzugsort im Stadtzentrum. Danach führt der Weg zum Textilmuseum, wo Sie die industrielle Geschichte Jütlands im Trockenen erleben. Das Mittagessen im Zentrum bietet eine Pause vom dänischen Regen. Am Nachmittag erkunden Sie das HEART und das Carl-Henning Pedersen Museum, die durch ihre Architektur idealen Schutz bieten. Der Tag endet mit einem gemütlichen Spaziergang zurück zum warmen Hotel.",
             "hu": "A napot a Herning templom fedett belső terében kezdjük, távol az esőtől. Ezután a Textilmúzeum következik, ahol a jütlandi ipar története beltéren is felfedezhető. Az ebédidő a belváros meleg éttermeiben telik. Délután a Birk negyed művészeti központjai, a HEART és a Carl-Henning múzeumok kínálnak színvonalas menedéket. Az este a városközpont barátságos, esőmentes vendéglátóhelyein zárul.",
             "ro": "Dimineața începe la Biserica Herning, un refugiu liniștit în centrul orașului. Urmează Muzeul Textil, unde istoria industrială a Iutlandei poate fi explorată la adăpost. Prânzul în centru oferă o pauză binemeritată de ploaia daneză. După-amiaza vizităm HEART și Muzeul Carl-Henning Pedersen, ale căror spații moderne sunt ideale pe vreme umedă. Seara se încheie într-o atmosferă caldă în centrul orașului.",
-            "en": "The morning begins inside Herning Church, a quiet sanctuary in the city center. Next, head to the Textile Museum, where Jutland's industrial history is explored indoors. Lunch in the center provides a warm break from the Danish rain. In the afternoon, the HEART and Carl-Henning Pedersen museums offer world-class art in a dry, architectural setting. The day ends with a cozy walk back to the city center's warm interiors."
+            "en": "The morning begins inside Herning Church, a quiet sanctuary in the city center. Next, head to the Textile Museum, where Jutland's industrial history is explored indoors. Lunch in the center provides a warm break from the Danish rain. In the afternoon, the HEART and Carl-Henning Pedersen museums offer world-class art in a dry, architectural setting. The day ends with a cozy walk back to the city center's warm interiors.",
+            "da": "Morgenen begynder inde i Herning Kirke, et stille fristed i bymidten. Dernæst gå til TekstilMuseet, hvor Jyllands industrielle historie udforskes indendørs. Frokost i centrum giver en varm pause fra dansk regn. Om eftermiddagen byder HEART og Carl-Henning Pedersen-museet på kunst i verdensklasse i en tør, arkitektonisk ramme. Dagen afsluttes med en hyggelig gåtur tilbage til bymidtens varme indendørsrum."
           },
           "stops": [
             {
@@ -291,7 +308,8 @@
                 "de": "Schütteln Sie Ihren Regenschirm am Eingang ab; die Kirchenbänke sind trocken.",
                 "hu": "Rázza le az esernyőt a bejáratnál; a padsorok között száraz menedéket talál.",
                 "ro": "Scuturați umbrela la intrare; băncile din interior oferă un refugiu uscat.",
-                "en": "Shake off your umbrella at the entrance; the pews inside offer a dry refuge."
+                "en": "Shake off your umbrella at the entrance; the pews inside offer a dry refuge.",
+                "da": "Ryst din paraply ved indgangen; kirkebænkene inde tilbyder et tørt tilflugtssted."
               }
             },
             {
@@ -300,7 +318,8 @@
                 "de": "Ein weitläufiges Indoor-Areal, perfekt um zwei Stunden dem Regen zu entgehen.",
                 "hu": "Tágas beltéri helyszín, tökéletes kétórányi rejtőzködéshez az eső elől.",
                 "ro": "O zonă interioară vastă, perfectă pentru a evita ploaia timp de două ore.",
-                "en": "A vast indoor area, perfect for escaping the rain for a full two hours."
+                "en": "A vast indoor area, perfect for escaping the rain for a full two hours.",
+                "da": "Et stort indendørs område, perfekt til at undslippe regnen i op til to timer."
               }
             },
             {
@@ -309,7 +328,8 @@
                 "de": "Wählen Sie ein Café mit Garderobe für Ihre nassen Jacken.",
                 "hu": "Válasszon olyan kávézót, ahol van ruhatár a vizes kabátoknak.",
                 "ro": "Alegeți o cafenea cu garderobă pentru hainele umede.",
-                "en": "Choose a cafe with a cloakroom for your wet jackets."
+                "en": "Choose a cafe with a cloakroom for your wet jackets.",
+                "da": "Vælg en café med garderobe til dine våde jakker."
               }
             },
             {
@@ -318,7 +338,8 @@
                 "de": "Das moderne Dach bietet Schutz, während Sie die Kunst genießen.",
                 "hu": "A modern tetőszerkezet védelmet nyújt, miközben a művészetet élvezi.",
                 "ro": "Acoperișul modern oferă protecție în timp ce savurați arta contemporană.",
-                "en": "The modern roof structure provides shelter while you enjoy contemporary art."
+                "en": "The modern roof structure provides shelter while you enjoy contemporary art.",
+                "da": "Den moderne tagkonstruktion giver læ, mens du nyder moderne kunst."
               }
             },
             {
@@ -327,7 +348,8 @@
                 "de": "Nutzen Sie den überdachten Gang zum benachbarten HEART Museum.",
                 "hu": "Használja a fedett folyosót a szomszédos HEART múzeum felé.",
                 "ro": "Folosiți culoarul acoperit către muzeul HEART din apropiere.",
-                "en": "Use the sheltered walkway towards the neighboring HEART museum."
+                "en": "Use the sheltered walkway towards the neighboring HEART museum.",
+                "da": "Brug den overdækkede gangsti mod nabo-museet HEART."
               }
             }
           ],
@@ -359,6 +381,13 @@
               "Herning has several covered passages in the center to keep you dry while walking.",
               "A compact umbrella is often more practical than a large one in the Danish wind.",
               "Warm up at lunch with a hot soup in the pedestrian zone."
+            ],
+            "da": [
+              "Brug vandtætte sko, da der kan danne sig vandpytter på stierne mellem museerne.",
+              "Museerne i Birk Centerpark ligger tæt sammen, ideelt til korte spurter i regnen.",
+              "Herning har flere overdækkede passager i centrum for at holde dig tør under gåture.",
+              "En kompakt paraply er ofte mere praktisk end en stor i dansk vind.",
+              "Varm dig ved frokosten med en varm suppe i gågaden."
             ]
           }
         },
@@ -367,7 +396,8 @@
             "de": "Der Wintermorgen in Herning beginnt mit der stillen Atmosphäre der Kirche. Im Textilmuseum wärmt die industrielle Geschichte und die gemütliche Einrichtung. Ein heißes Getränk im Stadtzentrum ist mittags ein Muss, bevor es in die Kunstmuseen geht. Da es bereits gegen 16:00 Uhr dunkel wird, bietet die beleuchtete Architektur des HEART einen besonderen Anblick. Der Abend endet bei Kerzenschein in einem dänischen Restaurant im Stadtkern.",
             "hu": "A téli reggel Herningben a templom csendes hangulatával indul. A Textilmúzeumban a gépek és anyagok között gyorsan felmelegszik a látogató. Délben kötelező egy forró ital a belvárosban, mielőtt a Birk negyed felé vennénk az irányt. Mivel 16:00 körül sötétedik, a HEART kivilágított épülete különleges látványt nyújt. Az este gyertyafényes vacsorával zárul egy hangulatos dán étteremben.",
             "ro": "Dimineața de iarnă în Herning începe cu atmosfera liniștită a bisericii. La Muzeul Textil, vă veți încălzi rapid printre exponate. O băutură caldă în centru este obligatorie la prânz înainte de a merge spre cartierul Birk. Deoarece se întunecă în jurul orei 16:00, arhitectura iluminată a HEART oferă o priveliște specială. Seara se încheie la lumina lumânărilor într-un restaurant danez din centru.",
-            "en": "The winter morning in Herning starts with the quiet atmosphere of the church. At the Textile Museum, the industrial history and indoor heating provide a warm retreat. A hot drink in the city center is a must at lunch before heading to the art museums. Since it gets dark around 4 PM, the illuminated architecture of HEART offers a unique sight. The evening concludes with a candlelit dinner in a cozy Danish restaurant."
+            "en": "The winter morning in Herning starts with the quiet atmosphere of the church. At the Textile Museum, the industrial history and indoor heating provide a warm retreat. A hot drink in the city center is a must at lunch before heading to the art museums. Since it gets dark around 4 PM, the illuminated architecture of HEART offers a unique sight. The evening concludes with a candlelit dinner in a cozy Danish restaurant.",
+            "da": "Vintermorgenen i Herning starter med kirkens stille atmosfære. På TekstilMuseet giver den industrielle historie og indendørs opvarmning et varmt tilflugtssted. En varm drik i bymidten er et must ved frokost inden turen til kunstmuseerne. Da det bliver mørkt omkring kl. 16, giver den oplyste arkitektur på HEART et særligt syn. Aftenen afsluttes med en stearinlyssmad i en hyggelig dansk restaurant."
           },
           "stops": [
             {
@@ -376,7 +406,8 @@
                 "de": "Genießen Sie die Ruhe; die Kirche ist im Winter angenehm beheizt.",
                 "hu": "Élvezze a csendet; a templom télen is kellemesen fűtött.",
                 "ro": "Bucurați-vă de liniște; biserica este încălzită corespunzător iarna.",
-                "en": "Enjoy the silence; the church is comfortably heated during winter."
+                "en": "Enjoy the silence; the church is comfortably heated during winter.",
+                "da": "Nyd stilheden; kirken er behageligt opvarmet om vinteren."
               }
             },
             {
@@ -385,7 +416,8 @@
                 "de": "Besuchen Sie das Café im Museum für einen warmen dänischen Snack.",
                 "hu": "Látogasson el a múzeum kávézójába egy meleg dán süteményre.",
                 "ro": "Vizitați cafeneaua muzeului pentru o gustare caldă daneză.",
-                "en": "Visit the museum's cafe for a warm Danish snack."
+                "en": "Visit the museum's cafe for a warm Danish snack.",
+                "da": "Besøg museets café for en varm dansk snack."
               }
             },
             {
@@ -394,7 +426,8 @@
                 "de": "Suchen Sie Plätze mit 'Hygge'-Ambiente und warmen Lichtern.",
                 "hu": "Keressen 'Hygge' hangulatú helyeket meleg fényekkel.",
                 "ro": "Căutați locuri cu ambianță 'Hygge' și lumini calde.",
-                "en": "Look for places with a 'Hygge' ambiance and warm lights."
+                "en": "Look for places with a 'Hygge' ambiance and warm lights.",
+                "da": "Søg efter steder med 'hygge'-stemning og varmt lys."
               }
             },
             {
@@ -403,7 +436,8 @@
                 "de": "Die weißen Wände wirken bei winterlichem Licht besonders hell.",
                 "hu": "A fehér falak a téli fényben különösen világosnak hatnak.",
                 "ro": "Pereții albi par deosebit de luminoși în lumina de iarnă.",
-                "en": "The white walls appear especially bright in the winter light."
+                "en": "The white walls appear especially bright in the winter light.",
+                "da": "De hvide vægge virker særligt lyse i vinterlyset."
               }
             },
             {
@@ -412,7 +446,8 @@
                 "de": "Die farbenfrohen Mosaike bilden einen tollen Kontrast zum grauen Himmel.",
                 "hu": "A színes mozaikok remek kontrasztot alkotnak a szürke téli égbolttal.",
                 "ro": "Mozaicurile colorate oferă un contrast superb cu cerul gri de iarnă.",
-                "en": "The colorful mosaics provide a great contrast to the grey winter sky."
+                "en": "The colorful mosaics provide a great contrast to the grey winter sky.",
+                "da": "De farverige mosaikker giver en flot kontrast til den grå vinterhimmel."
               }
             }
           ],
@@ -444,6 +479,13 @@
               "Many cafes offer blankets to guests if you want to sit outside briefly.",
               "Watch out for icy patches on the walkways between the art museums.",
               "Take advantage of short distances in the center to avoid long exposure to cold."
+            ],
+            "da": [
+              "Solen går ned før kl. 16 i december; planlæg museumsture tidligt.",
+              "Bær termiske lag, da vinden i Herning kan være meget bidende.",
+              "Mange caféer tilbyder tæpper til gæster, hvis du vil sidde kortvarigt udenfor.",
+              "Pas på isglatte pletter på gangene mellem kunstmuseerne.",
+              "Udnyt de korte afstande i centrum for at undgå lang eksponering for kulde."
             ]
           }
         }
@@ -462,7 +504,8 @@
             "de": "Elia Skulptur",
             "hu": "Elia szobor",
             "ro": "Sculptura Elia",
-            "en": "Elia Sculpture"
+            "en": "Elia Sculpture",
+            "da": "Elia Skulptur"
           },
           "coords": [
             9.001,
@@ -477,7 +520,8 @@
             "de": "Steigen Sie auf die Skulptur, um einen Panoramablick auf die Umgebung zu erhalten.",
             "hu": "Mássz fel a szoborra, hogy panorámás kilátásban legyen részed a környékre.",
             "ro": "Urcați pe sculptură pentru o vedere panoramică a zonei înconjurătoare.",
-            "en": "Climb the sculpture for a panoramic view of the surrounding area."
+            "en": "Climb the sculpture for a panoramic view of the surrounding area.",
+            "da": "Bestig skulpturen for en panoramaudsigt over oplandet."
           }
         },
         {
@@ -485,7 +529,8 @@
             "de": "HEART & Carl-Henning Pedersen Museum",
             "hu": "HEART & Carl-Henning Pedersen Múzeum",
             "ro": "HEART & Muzeul Carl-Henning Pedersen",
-            "en": "HEART & Carl-Henning Pedersen Museum"
+            "en": "HEART & Carl-Henning Pedersen Museum",
+            "da": "HEART & Carl-Henning Pedersen Museum"
           },
           "coords": [
             8.945,
@@ -500,7 +545,8 @@
             "de": "Kaufen Sie ein Kombiticket, um beide Museen zu einem ermäßigten Preis zu sehen.",
             "hu": "Vegyél kombinált jegyet, hogy mindkét múzeumot kedvezményesen lásd.",
             "ro": "Cumpărați un bilet combinat pentru a vedea ambele muzee la un preț redus.",
-            "en": "Purchase a combination ticket to see both museums at a reduced price."
+            "en": "Purchase a combination ticket to see both museums at a reduced price.",
+            "da": "Køb en kombibillet for at se begge museer til nedsat pris."
           }
         },
         {
@@ -508,7 +554,8 @@
             "de": "Mittagessen in der Nähe der Museen",
             "hu": "Ebéd a múzeumok közelében",
             "ro": "Prânz lângă muzee",
-            "en": "Lunch near the museums"
+            "en": "Lunch near the museums",
+            "da": "Frokost nær museerne"
           },
           "coords": [
             8.947,
@@ -523,7 +570,8 @@
             "de": "Das Museumscafé im HEART bietet eine stilvolle Kulisse für eine Mahlzeit.",
             "hu": "A HEART múzeumi kávézója stílusos környezetet kínál az étkezéshez.",
             "ro": "Cafeneaua muzeului de la HEART oferă un cadru elegant pentru o masă.",
-            "en": "The museum café at HEART offers a stylish setting for a meal."
+            "en": "The museum café at HEART offers a stylish setting for a meal.",
+            "da": "Museets café på HEART tilbyder en stilfuld ramme til et måltid."
           }
         },
         {
@@ -531,7 +579,8 @@
             "de": "Textilmuseum",
             "hu": "Textilmúzeum",
             "ro": "Muzeul Textilelor",
-            "en": "The Textile Museum"
+            "en": "The Textile Museum",
+            "da": "TekstilMuseet"
           },
           "coords": [
             8.973,
@@ -546,7 +595,8 @@
             "de": "Verbinden Sie den Besuch mit der Herning Kirke, die nur einen kurzen Radweg entfernt ist.",
             "hu": "Kösd össze a látogatást a Herning Kirke megtekintésével, ami csak egy rövid bicikliútra van.",
             "ro": "Combinați vizita cu Biserica Herning, aflată la o scurtă plimbare cu bicicleta.",
-            "en": "Combine the visit with Herning Church, just a short bike ride away."
+            "en": "Combine the visit with Herning Church, just a short bike ride away.",
+            "da": "Kombiner besøget med Herning Kirke, kun en kort cykeltur væk."
           }
         },
         {
@@ -554,7 +604,8 @@
             "de": "Herning Kirke",
             "hu": "Herningi templom",
             "ro": "Biserica din Herning",
-            "en": "Herning Church"
+            "en": "Herning Church",
+            "da": "Herning Kirke"
           },
           "coords": [
             8.978,
@@ -569,7 +620,8 @@
             "de": "Genießen Sie die Ruhe im Inneren als Kontrast zur Radtour.",
             "hu": "Élvezd a belső csendet a biciklizés után.",
             "ro": "Bucurați-vă de liniștea din interior ca un contrast cu plimbarea cu bicicleta.",
-            "en": "Enjoy the tranquility inside as a contrast to the bike ride."
+            "en": "Enjoy the tranquility inside as a contrast to the bike ride.",
+            "da": "Nyd stilheden indeni som kontrast til cykelturen."
           }
         },
         {
@@ -577,7 +629,8 @@
             "de": "Gødstrup Sø",
             "hu": "Gødstrup-tó",
             "ro": "Lacul Gødstrup",
-            "en": "Gødstrup Sø"
+            "en": "Gødstrup Sø",
+            "da": "Gødstrup Sø"
           },
           "coords": [
             8.91,
@@ -592,7 +645,8 @@
             "de": "Ein perfekter Ort, um den Tag mit einer entspannten Radtour um den See ausklingen zu lassen.",
             "hu": "Tökéletes hely a nap befejezéséhez egy pihentető tókerülő biciklitúrával.",
             "ro": "Un loc perfect pentru a încheia ziua cu o plimbare relaxantă cu bicicleta în jurul lacului.",
-            "en": "A perfect spot to end the day with a relaxing bike ride around the lake."
+            "en": "A perfect spot to end the day with a relaxing bike ride around the lake.",
+            "da": "Et perfekt sted at slutte dagen med en afslappende cykeltur rundt om søen."
           }
         }
       ],
@@ -600,7 +654,8 @@
         "de": "Schwingen Sie sich auf den Sattel und beginnen Sie den Tag mit einem Ausflug zur beeindruckenden Elia-Skulptur. Am Vormittag radeln Sie zum Kunstviertel, um die Sammlungen des HEART und des Carl-Henning Pedersen Museums zu erkunden. Nach dem Mittagessen führt Sie Ihre Tour ins Zentrum zum Textilmuseum und der Kirche. Der Nachmittag endet mit einer längeren, aber lohnenden Fahrt zum malerischen Gødstrup Sø, wo Sie die Natur genießen können, bevor Sie den Tag beenden. Eine aktive Entdeckungsreise durch Kunst, Geschichte und Natur.",
         "hu": "Pattanj nyeregbe, és kezdd a napot egy kirándulással a lenyűgöző Elia-szoborhoz. Délelőtt tekerj el a művészeti negyedbe, hogy felfedezd a HEART és a Carl-Henning Pedersen Múzeum gyűjteményeit. Ebéd után a túra a központba vezet a Textilmúzeumhoz és a templomhoz. A délután egy hosszabb, de megérő úttal zárul a festői Gødstrup Sø-hoz, ahol élvezheted a természetet, mielőtt befejeznéd a napot. Aktív felfedezőút a művészet, a történelem és a természet világában.",
         "ro": "Urcați-vă în șa și începeți ziua cu o excursie la impresionanta sculptură Elia. Dimineața, pedalați spre cartierul de artă pentru a explora colecțiile de la HEART și Muzeul Carl-Henning Pedersen. După prânz, turul vă duce în centru, la Muzeul Textilelor și la biserică. După-amiaza se încheie cu o plimbare mai lungă, dar plină de satisfacții, spre pitorescul lac Gødstrup Sø, unde vă puteți bucura de natură înainte de a încheia ziua. O călătorie activă de descoperire prin artă, istorie și natură.",
-        "en": "Get on your bike and start the day with a trip to the impressive Elia sculpture. In the morning, you'll cycle to the art district to explore the collections at HEART and the Carl-Henning Pedersen Museum. After lunch, your tour takes you downtown to The Textile Museum and the church. The afternoon concludes with a longer but rewarding ride to the picturesque Gødstrup Sø, where you can enjoy nature before ending the day. An active journey of discovery through art, history, and nature."
+        "en": "Get on your bike and start the day with a trip to the impressive Elia sculpture. In the morning, you'll cycle to the art district to explore the collections at HEART and the Carl-Henning Pedersen Museum. After lunch, your tour takes you downtown to The Textile Museum and the church. The afternoon concludes with a longer but rewarding ride to the picturesque Gødstrup Sø, where you can enjoy nature before ending the day. An active journey of discovery through art, history, and nature.",
+        "da": "Hop på cyklen og start dagen med en tur til den imponerende skulptur Elia. Om morgenen cykler du til kunstområdet for at udforske samlingerne på HEART og Carl-Henning Pedersen Museum. Efter frokost tager turen dig ind mod byen til Tekstilindustrimuseet og kirken. Eftermiddagen afsluttes med en længere, men belønnende tur til den pittoreske Gødstrup Sø, hvor du kan nyde naturen, inden dagen slutter. En aktiv opdagelsesrejse gennem kunst, historie og natur."
       },
       "gastro_picks": {
         "de": [
@@ -738,6 +793,11 @@
           "Rent a bike with gears, as there can be some slight inclines.",
           "Use bike paths wherever possible; Denmark is very bike-friendly.",
           "Always lock your bike, even for short stops."
+        ],
+        "da": [
+          "Lej en cykel med gear, da der kan være nogle mindre stigninger.",
+          "Brug cykelstier hvor det er muligt; Danmark er meget cykelvenligt.",
+          "Lås altid din cykel, selv ved korte stop."
         ]
       },
       "variants": {
@@ -746,7 +806,8 @@
             "de": "Die Radtour startet an der Elia-Skulptur, wo der Regen auf das Metall trommelt. Schnell geht es weiter zum HEART Museum, einem perfekten Unterschlupf für Kunstliebhaber. Nach einem Mittagessen in der Nähe führt die Fahrt durch den Birk Centerpark zum Textilmuseum. Die Herning-Kirche bietet eine trockene Pause vor dem letzten Abschnitt. Der Tag endet am Gødstrup See, wo die nasse Natur eine mystische Stimmung erzeugt, bevor es zurückgeht.",
             "hu": "A kerékpáros túra az Elia szobornál indul, ahol az eső dobol a fémfelületen. Gyorsan továbbtekerünk a HEART múzeumhoz, amely tökéletes menedék. A közeli ebéd után a Birk Centerparkon keresztül a Textilmúzeumba hajtunk. A Herning templom száraz pihenőt kínál az utolsó szakasz előtt. A nap a Gødstrup-tónál zárul, ahol a vizes táj misztikus hangulatot áraszt a visszaút előtt.",
             "ro": "Turul cu bicicleta începe la sculptura Elia, unde ploaia răsună pe metal. Pedalăm rapid către muzeul HEART, un adăpost perfect. După un prânz în apropiere, mergem prin Birk Centerpark către Muzeul Textil. Biserica Herning oferă o pauză uscată înainte de ultima etapă. Ziua se încheie la lacul Gødstrup, unde natura umedă emană o atmosferă mistică înainte de întoarcere.",
-            "en": "The bike tour starts at the Elia sculpture, where rain drums on the massive metal surface. We quickly cycle to the HEART museum, a perfect shelter. After lunch nearby, we ride through Birk Centerpark to the Textile Museum. Herning Church offers a dry rest before the final leg. The day ends at Gødstrup Lake, where the wet landscape creates a mystical atmosphere before heading back."
+            "en": "The bike tour starts at the Elia sculpture, where rain drums on the massive metal surface. We quickly cycle to the HEART museum, a perfect shelter. After lunch nearby, we ride through Birk Centerpark to the Textile Museum. Herning Church offers a dry rest before the final leg. The day ends at Gødstrup Lake, where the wet landscape creates a mystical atmosphere before heading back.",
+            "da": "Cykelturen starter ved skulpturen Elia, hvor regnen trommer på den massive metaloverflade. Vi cykler hurtigt til HEART-museet, et perfekt ly for vejret. Efter frokost i nærheden kører vi gennem Birk Centerpark til Tekstilindustrimuseet. Herning Kirke giver et tørt hvil inden sidste etape. Dagen slutter ved Gødstrup Sø, hvor det våde landskab skaber en mystisk stemning, inden vi vender tilbage."
           },
           "stops": [
             {
@@ -755,7 +816,8 @@
                 "de": "Vorsicht, die Metallstufen können bei Regen extrem rutschig sein.",
                 "hu": "Vigyázat, a fém lépcsőfokok esőben rendkívül csúszósak lehetnek.",
                 "ro": "Atenție, treptele metalice pot fi extrem de alunecoase pe ploaie.",
-                "en": "Caution, the metal steps can be extremely slippery in the rain."
+                "en": "Caution, the metal steps can be extremely slippery in the rain.",
+                "da": "Pas på, metaltrinene kan være ekstremt glatte i regnvejr."
               }
             },
             {
@@ -764,7 +826,8 @@
                 "de": "Nutzen Sie die Fahrradständer direkt am Museumseingang.",
                 "hu": "Használja a közvetlenül a múzeumi bejáratnál lévő biciklitárolókat.",
                 "ro": "Folosiți suporturile de biciclete direct de la intrarea în muzeu.",
-                "en": "Use the bike racks located directly at the museum entrance."
+                "en": "Use the bike racks located directly at the museum entrance.",
+                "da": "Brug cykelstativerne, der ligger direkte ved museumsindgangen."
               }
             },
             {
@@ -773,7 +836,8 @@
                 "de": "Wählen Sie einen Platz, an dem Sie Ihr Rad im Blick haben.",
                 "hu": "Válasszon olyan helyet, ahol rálát a kerékpárjára.",
                 "ro": "Alegeți un loc de unde vă puteți supraveghea bicicleta.",
-                "en": "Choose a spot where you can keep an eye on your bike."
+                "en": "Choose a spot where you can keep an eye on your bike.",
+                "da": "Vælg et sted, hvor du kan holde øje med din cykel."
               }
             },
             {
@@ -782,7 +846,8 @@
                 "de": "Stellen Sie Ihr Rad unter den Vorsprung am Eingangsbereich.",
                 "hu": "Állítsa a kerékpárt a bejárati rész előtetője alá.",
                 "ro": "Parcați bicicleta sub streașina de la intrare.",
-                "en": "Park your bike under the overhang at the entrance area."
+                "en": "Park your bike under the overhang at the entrance area.",
+                "da": "Parker din cykel under overhænget i indgangsområdet."
               }
             },
             {
@@ -791,7 +856,8 @@
                 "de": "Eine gute Gelegenheit, nasse Handschuhe kurz abzulegen.",
                 "hu": "Jó alkalom a vizes kesztyűk rövid levételére.",
                 "ro": "O ocazie bună pentru a vă scoate scurt timp mănușile ude.",
-                "en": "A good opportunity to briefly take off wet gloves."
+                "en": "A good opportunity to briefly take off wet gloves.",
+                "da": "En god mulighed for kort at tage våde handsker af."
               }
             },
             {
@@ -800,7 +866,8 @@
                 "de": "Der Radweg um den See kann bei starkem Regen matschig sein.",
                 "hu": "A tó körüli kerékpárút heves esőzéskor sáros lehet.",
                 "ro": "Pista de biciclete din jurul lacului poate fi noroioasă la ploi torențiale.",
-                "en": "The bike path around the lake can be muddy during heavy rain."
+                "en": "The bike path around the lake can be muddy during heavy rain.",
+                "da": "Cykelstien rundt om søen kan være mudret under kraftig regn."
               }
             }
           ],
@@ -832,6 +899,13 @@
               "The route to Gødstrup Lake is across open terrain; expect strong winds.",
               "Check your brakes before starting, as wetness delays braking response.",
               "A saddle cover will keep your seat dry while you are inside the museums."
+            ],
+            "da": [
+              "Fuld regnudsætning inklusive skoovertræk anbefales i dansk vejr.",
+              "Undgå at køre på hvide vejmarkeringer, når de er våde, da de bliver glatte.",
+              "Ruten til Gødstrup Sø går over åbent terræn; forvent kraftig vind.",
+              "Tjek dine bremser før start, da våde forhold forsinker bremseeffekten.",
+              "Et sadelovertræk holder dit sæde tørt, mens du er inde på museerne."
             ]
           }
         },
@@ -840,7 +914,8 @@
             "de": "Die winterliche Radtour führt zuerst zur imposanten Elia-Skulptur unter grauem Himmel. Das HEART Museum bietet danach die nötige Wärme und beeindruckende Kunst. Nach dem Mittagessen geht es zügig zum Textilmuseum, um der Kälte zu entkommen. Ein kurzer Stopp an der Herning-Kirche führt uns zurück in den Stadtkern. Den Abschluss bildet die Fahrt zum Gødstrup See, wo wir die Winterlandschaft vor Sonnenuntergang genießen, bevor wir im Dunkeln zurückradeln.",
             "hu": "A téli kerékpáros túra az Elia szobornál indul a szürke égbolt alatt. A HEART múzeum ezután biztosítja a szükséges meleget és a művészeti élményt. Ebéd után gyorsan a Textilmúzeumba tekerünk a hideg elől. Egy rövid megálló a Herning templomnál visszavezet a városba. A zárást a Gødstrup-tó jelenti, ahol a naplemente előtt még élvezhetjük a téli tájat.",
             "ro": "Turul de iarnă cu bicicleta începe la sculptura Elia sub un cer gri. Muzeul HEART oferă apoi căldura necesară și experiența artistică. După prânz, pedalăm rapid spre Muzeul Textil pentru a scăpa de frig. O oprire scurtă la Biserica Herning ne readuce în oraș. Finalul este la lacul Gødstrup, unde admirăm peisajul de iarnă înainte de apus.",
-            "en": "The winter bike tour starts at the impressive Elia sculpture under a grey sky. The HEART museum then provides much-needed warmth and impressive art. After lunch, we cycle quickly to the Textile Museum to escape the cold. A short stop at Herning Church leads us back to the city center. The tour ends at Gødstrup Lake, where we enjoy the winter landscape before sunset."
+            "en": "The winter bike tour starts at the impressive Elia sculpture under a grey sky. The HEART museum then provides much-needed warmth and impressive art. After lunch, we cycle quickly to the Textile Museum to escape the cold. A short stop at Herning Church leads us back to the city center. The tour ends at Gødstrup Lake, where we enjoy the winter landscape before sunset.",
+            "da": "Vintercykelturen starter ved den imponerende skulptur Elia under en grå himmel. HEART-museet giver derefter tiltrængt varme og imponerende kunst. Efter frokost cykler vi hurtigt til Tekstilindustrimuseet for at slippe for kulden. Et kort stop ved Herning Kirke fører os tilbage til centrum. Turen ender ved Gødstrup Sø, hvor vi nyder vinterlandskabet inden solnedgang."
           },
           "stops": [
             {
@@ -849,7 +924,8 @@
                 "de": "Oben auf der Skulptur zieht der Wind im Winter besonders stark.",
                 "hu": "A szobor tetején télen különösen erősen fújhat a szél.",
                 "ro": "În vârful sculpturii, vântul bate deosebit de tare iarna.",
-                "en": "At the top of the sculpture, the wind blows particularly hard in winter."
+                "en": "At the top of the sculpture, the wind blows particularly hard in winter.",
+                "da": "På toppen af skulpturen blæser vinden særlig kraftigt om vinteren."
               }
             },
             {
@@ -858,7 +934,8 @@
                 "de": "Wärmen Sie sich in der Museumslounge auf, bevor Sie weiterfahren.",
                 "hu": "Melegedjen fel a múzeumi társalgóban, mielőtt tovább indulna.",
                 "ro": "Încălziți-vă în holul muzeului înainte de a pleca mai departe.",
-                "en": "Warm up in the museum lounge before continuing your ride."
+                "en": "Warm up in the museum lounge before continuing your ride.",
+                "da": "Varm op i museumsloungen, før du fortsætter din tur."
               }
             },
             {
@@ -867,7 +944,8 @@
                 "de": "Heiße Getränke sind wichtig, um die Körpertemperatur zu halten.",
                 "hu": "A forró italok fontosak a testhőmérséklet fenntartásához.",
                 "ro": "Băuturile fierbinți sunt importante pentru menținerea temperaturii corpului.",
-                "en": "Hot drinks are essential to maintain your body temperature."
+                "en": "Hot drinks are essential to maintain your body temperature.",
+                "da": "Varme drikke er nødvendige for at opretholde kropstemperaturen."
               }
             },
             {
@@ -876,7 +954,8 @@
                 "de": "Die Ausstellungen sind gut geheizt und bieten Erholung vom Wind.",
                 "hu": "A kiállítások jól fűtöttek, pihenést nyújtanak a szél után.",
                 "ro": "Expozițiile sunt bine încălzite și oferă un răgaz de la vânt.",
-                "en": "The exhibitions are well-heated and offer a respite from the wind."
+                "en": "The exhibitions are well-heated and offer a respite from the wind.",
+                "da": "Udstillingerne er godt opvarmede og giver et pusterum fra vinden."
               }
             },
             {
@@ -885,7 +964,8 @@
                 "de": "Schließen Sie Ihr Rad gut ab; die Finger sind bei Kälte oft steif.",
                 "hu": "Zárja le gondosan a biciklit; a kezek hidegben gyakran elgémberednek.",
                 "ro": "Încuiați bine bicicleta; degetele sunt adesea rigide la frig.",
-                "en": "Lock your bike carefully; fingers are often stiff in the cold."
+                "en": "Lock your bike carefully; fingers are often stiff in the cold.",
+                "da": "Lås din cykel omhyggeligt; fingre er ofte stive i kulden."
               }
             },
             {
@@ -894,7 +974,8 @@
                 "de": "Achten Sie auf die Zeit; im Winter wird es hier sehr früh dunkel.",
                 "hu": "Ügyeljen az időre; télen itt nagyon korán sötétedik.",
                 "ro": "Fiți atenți la timp; iarna se întunecă foarte devreme aici.",
-                "en": "Watch the time; it gets dark very early here in winter."
+                "en": "Watch the time; it gets dark very early here in winter.",
+                "da": "Hold øje med tiden; det bliver meget tidligt mørkt her om vinteren."
               }
             }
           ],
@@ -926,6 +1007,13 @@
               "The open areas near Birk and Gødstrup are very susceptible to wind in winter.",
               "Road salt can corrode your bike; give it a quick rinse after the tour.",
               "Ride cautiously, as cycle paths in shaded areas may be icy."
+            ],
+            "da": [
+              "Sørg for, at dine cykellygter virker; tusmørket kommer tidligt.",
+              "Vindstabile handsker og en hue under hjelmen er uundværlige.",
+              "Åbne områder nær Birk og Gødstrup er meget udsatte for vind om vinteren.",
+              "Vejssalt kan ætse din cykel; skyl den hurtigt efter turen.",
+              "Kør forsigtigt, da cykelstier i skyggefulde områder kan være isglatte."
             ]
           }
         }
@@ -944,7 +1032,8 @@
             "de": "Baboon City",
             "hu": "Baboon City",
             "ro": "Baboon City",
-            "en": "Baboon City"
+            "en": "Baboon City",
+            "da": "Baboon City"
           },
           "coords": [
             8.965,
@@ -960,7 +1049,8 @@
             "de": "Perfekt für Familien. Planen Sie mindestens zwei Stunden für Dänemarks größten Indoor-Vergnügungspark ein.",
             "hu": "Tökéletes családoknak. Szánj legalább két órát Dánia legnagyobb fedett vidámparkjára.",
             "ro": "Perfect pentru familii. Planificați cel puțin două ore pentru cel mai mare parc de distracții interior din Danemarca.",
-            "en": "Perfect for families. Plan at least two hours for Denmark's largest indoor amusement park."
+            "en": "Perfect for families. Plan at least two hours for Denmark's largest indoor amusement park.",
+            "da": "Perfekt for familier. Beregn mindst to timer i Danmarks største indendørs forlystelsescenter."
           }
         },
         {
@@ -968,7 +1058,8 @@
             "de": "MCH Messecenter Herning",
             "hu": "MCH Messecenter Herning",
             "ro": "MCH Messecenter Herning",
-            "en": "MCH Messecenter Herning"
+            "en": "MCH Messecenter Herning",
+            "da": "MCH Messecenter Herning"
           },
           "coords": [
             8.96,
@@ -984,7 +1075,8 @@
             "de": "Schauen Sie sich das beeindruckende Gebäude an, auch wenn keine Veranstaltung stattfindet.",
             "hu": "Nézd meg a lenyűgöző épületet, még ha nincs is rendezvény.",
             "ro": "Aruncați o privire la clădirea impresionantă, chiar dacă nu are loc niciun eveniment.",
-            "en": "Check out the impressive building, even if there isn't an event on."
+            "en": "Check out the impressive building, even if there isn't an event on.",
+            "da": "Kig på den imponerende bygning, selv hvis der ikke er noget arrangement."
           }
         },
         {
@@ -992,7 +1084,8 @@
             "de": "Elia Skulptur",
             "hu": "Elia szobor",
             "ro": "Sculptura Elia",
-            "en": "Elia Sculpture"
+            "en": "Elia Sculpture",
+            "da": "Elia-skulpturen"
           },
           "coords": [
             9.001,
@@ -1008,7 +1101,8 @@
             "de": "Ein großartiger Ort für ein Picknick-Mittagessen mit Aussicht.",
             "hu": "Nagyszerű hely egy piknikebédhez, kilátással.",
             "ro": "Un loc minunat pentru un prânz la picnic cu vedere.",
-            "en": "A great spot for a picnic lunch with a view."
+            "en": "A great spot for a picnic lunch with a view.",
+            "da": "Et fantastisk sted til en picnicfrokost med udsigt."
           }
         },
         {
@@ -1016,7 +1110,8 @@
             "de": "HEART Museum & Skulpturenpark",
             "hu": "HEART Múzeum & Szoborpark",
             "ro": "Muzeul HEART & Parcul de Sculpturi",
-            "en": "HEART Museum & Sculpture Park"
+            "en": "HEART Museum & Sculpture Park",
+            "da": "HEART Museum & Skulpturpark"
           },
           "coords": [
             8.945,
@@ -1032,7 +1127,8 @@
             "de": "Parken Sie hier und erkunden Sie sowohl das Museum als auch das benachbarte.",
             "hu": "Parkolj itt, és fedezd fel mindkét múzeumot és a szomszédosat is.",
             "ro": "Parcați aici și explorați atât muzeul, cât și cel vecin.",
-            "en": "Park here and explore both this museum and the one next door."
+            "en": "Park here and explore both this museum and the one next door.",
+            "da": "Parkér her og udforsk både dette museum og nabomuseet."
           }
         },
         {
@@ -1040,7 +1136,8 @@
             "de": "Carl-Henning Pedersen & Else Alfelts Museum",
             "hu": "Carl-Henning Pedersen & Else Alfelts Múzeum",
             "ro": "Muzeul Carl-Henning Pedersen & Else Alfelts",
-            "en": "Carl-Henning Pedersen & Else Alfelts Museum"
+            "en": "Carl-Henning Pedersen & Else Alfelts Museum",
+            "da": "Carl-Henning Pedersen & Else Alfelts Museum"
           },
           "coords": [
             8.943,
@@ -1056,7 +1153,8 @@
             "de": "Die kreisförmige Architektur ist so faszinierend wie die Kunst im Inneren.",
             "hu": "A kör alakú építészet ugyanolyan lenyűgöző, mint a benne lévő művészet.",
             "ro": "Arhitectura circulară este la fel de fascinantă ca și arta din interior.",
-            "en": "The circular architecture is as fascinating as the art inside."
+            "en": "The circular architecture is as fascinating as the art inside.",
+            "da": "Den cirkulære arkitektur er lige så fascinerende som kunsten indeni."
           }
         },
         {
@@ -1064,7 +1162,8 @@
             "de": "Gødstrup Sø",
             "hu": "Gødstrup-tó",
             "ro": "Lacul Gødstrup",
-            "en": "Gødstrup Sø"
+            "en": "Gødstrup Sø",
+            "da": "Gødstrup Sø"
           },
           "coords": [
             8.91,
@@ -1080,7 +1179,8 @@
             "de": "Machen Sie einen Spaziergang um einen Teil des Sees, um sich nach der Fahrt die Beine zu vertreten.",
             "hu": "Sétálj egyet a tó egy része körül, hogy kinyújtóztasd a lábad a vezetés után.",
             "ro": "Faceți o plimbare în jurul unei părți a lacului pentru a vă dezmorți picioarele după condus.",
-            "en": "Take a walk around part of the lake to stretch your legs after the drive."
+            "en": "Take a walk around part of the lake to stretch your legs after the drive.",
+            "da": "Gå en tur rundt om en del af søen for at strække benene efter køreturen."
           }
         },
         {
@@ -1088,7 +1188,8 @@
             "de": "Abendessen im Zentrum von Herning",
             "hu": "Vacsora Herning központjában",
             "ro": "Cină în centrul orașului Herning",
-            "en": "Dinner in Herning Centre"
+            "en": "Dinner in Herning Centre",
+            "da": "Middag i Herning Centrum"
           },
           "coords": [
             8.975,
@@ -1104,7 +1205,8 @@
             "de": "Parken Sie Ihr Auto und genießen Sie einen entspannten Abend in einem der vielen Restaurants.",
             "hu": "Parkold le az autót, és élvezz egy pihentető estét a sok étterem egyikében.",
             "ro": "Parcați mașina și bucurați-vă de o seară relaxantă la unul dintre numeroasele restaurante.",
-            "en": "Park your car and enjoy a relaxed evening at one of the many restaurants."
+            "en": "Park your car and enjoy a relaxed evening at one of the many restaurants.",
+            "da": "Parkér din bil og nyd en afslappet aften på en af de mange restauranter."
           }
         }
       ],
@@ -1112,7 +1214,8 @@
         "de": "Mit dem Auto können Sie die weit verstreuten Attraktionen von Herning erkunden. Beginnen Sie im Süden mit Familienspaß im Baboon City, gefolgt von einem Blick auf das MCH Messecenter. Ein kurzer Sprung bringt Sie zur monumentalen Elia-Skulptur. Am Nachmittag fahren Sie zum Kunstcluster, parken und erkunden zu Fuß das HEART und das Carl-Henning Pedersen Museum. Ihre Reise endet mit einer Fahrt zum ruhigen Gødstrup Sø für einen Naturspaziergang, bevor Sie zum Abendessen ins Stadtzentrum zurückkehren.",
         "hu": "Autóval felfedezheted Herning távolabbi látnivalóit is. Kezdj délen a Baboon City családi mókájával, majd vess egy pillantást az MCH Messecenterre. Egy rövid ugrás után a monumentális Elia-szobornál találod magad. Délután irány a művészeti klaszter: parkolj le, és sétálva fedezd fel a HEART és a Carl-Henning Pedersen Múzeumot. Az utazás egy nyugodt Gødstrup Sø-tóhoz tett kirándulással zárul, mielőtt visszatérnél vacsorázni a városközpontba.",
         "ro": "Cu mașina, puteți explora atracțiile dispersate ale orașului Herning. Începeți în sud cu distracția în familie la Baboon City, urmată de o privire la MCH Messecenter. O scurtă deplasare vă aduce la sculptura monumentală Elia. După-amiaza, conduceți spre clusterul de artă, parcați și explorați pe jos muzeele HEART și Carl-Henning Pedersen. Călătoria se încheie cu o plimbare spre liniștitul lac Gødstrup Sø pentru o plimbare în natură, înainte de a vă întoarce în centru pentru cină.",
-        "en": "By car, you can explore Herning's spread-out attractions. Start in the south with family fun at Baboon City, followed by a look at the MCH Messecenter. A short hop brings you to the monumental Elia sculpture. In the afternoon, drive to the art cluster, park, and explore the HEART and Carl-Henning Pedersen museums on foot. Your journey concludes with a drive to the tranquil Gødstrup Sø for a nature walk before returning to the city center for dinner."
+        "en": "By car, you can explore Herning's spread-out attractions. Start in the south with family fun at Baboon City, followed by a look at the MCH Messecenter. A short hop brings you to the monumental Elia sculpture. In the afternoon, drive to the art cluster, park, and explore the HEART and Carl-Henning Pedersen museums on foot. Your journey concludes with a drive to the tranquil Gødstrup Sø for a nature walk before returning to the city center for dinner.",
+        "da": "Med bil kan du udforske Hernings udstrakte attraktioner. Start i syd med familieunderholdning i Baboon City, efterfulgt af et kig på MCH Messecenter. En kort tur fører dig til den monumentale Elia-skulptur. Om eftermiddagen kører du til kunstklyngen, parkerer og udforsker HEART og Carl-Henning Pedersen-museerne til fods. Din rejse afsluttes med en køretur til den rolige Gødstrup Sø for en naturvandring, inden du vender tilbage til centrum til middag."
       },
       "gastro_picks": {
         "de": [
@@ -1214,6 +1317,11 @@
           "Use park-and-ride facilities when visiting the city center.",
           "Be aware of parking fees; some areas require a parking disc.",
           "Plan your route in advance, as some attractions are far apart."
+        ],
+        "da": [
+          "Brug park-and-ride faciliteter ved besøg i centrum.",
+          "Vær opmærksom på betalingsparkering; nogle områder kræver parkeringsskive.",
+          "Planlæg din rute på forhånd, da nogle seværdigheder ligger langt fra hinanden."
         ]
       },
       "variants": {
@@ -1222,7 +1330,8 @@
             "de": "Der Regentag beginnt im Baboon City, dem größten Indoor-Freizeitcenter Dänemarks – perfekt für jedes Wetter. Nach einem kurzen Blick auf das MCH Messecenter fahren wir zur Elia-Skulptur, wo wir den Regen vom Auto aus beobachten. Der Nachmittag gehört den Kunstmuseen HEART und Carl-Henning, die über gute Parkplätze verfügen. Ein Abstecher zum Gødstrup See bietet Natur pur trotz Regen. Den Abschluss bildet ein entspanntes Abendessen im Zentrum von Herning.",
             "hu": "Az esős nap a Baboon Cityben indul, Dánia legnagyobb beltéri szabadidőközpontjában – ideális rossz időben. Az MCH központ érintése után az Elia szoborhoz hajtunk, amelyet az autóból is megcsodálhatunk. A délutánt a HEART és a Carl-Henning múzeumoknak szenteljük, ahol jó a parkolási lehetőség. A Gødstrup-tóhoz tett kitérő esőben is szép látvány. A napot nyugodt vacsora zárja Herning központjában.",
             "ro": "Ziua ploioasă începe la Baboon City, cel mai mare centru de agrement interior din Danemarca – perfect pe orice vreme. După o scurtă vizită la centrul MCH, mergem la sculptura Elia, pe care o putem admira din mașină. După-amiaza aparține muzeelor HEART și Carl-Henning, care au parcări bune. O excursie la lacul Gødstrup oferă natură pură în ciuda ploii. Seara se încheie cu o cină relaxantă în centrul orașului Herning.",
-            "en": "The rainy day begins at Baboon City, Denmark's largest indoor leisure center – perfect for any weather. After a quick look at MCH Messecenter, we drive to the Elia sculpture, which can be observed from the car. The afternoon is dedicated to HEART and Carl-Henning museums, both with convenient parking. A trip to Gødstrup Lake offers pure nature despite the rain. The day ends with a relaxed dinner in Herning center."
+            "en": "The rainy day begins at Baboon City, Denmark's largest indoor leisure center – perfect for any weather. After a quick look at MCH Messecenter, we drive to the Elia sculpture, which can be observed from the car. The afternoon is dedicated to HEART and Carl-Henning museums, both with convenient parking. A trip to Gødstrup Lake offers pure nature despite the rain. The day ends with a relaxed dinner in Herning center.",
+            "da": "Den regnfulde dag begynder i Baboon City, Danmarks største indendørs fritidscenter – perfekt i al slags vejr. Efter et hurtigt kig på MCH Messecenter kører vi til Elia-skulpturen, som kan opleves fra bilen. Eftermiddagen er afsat til HEART og Carl-Henning-museerne, begge med praktisk parkering. Et besøg ved Gødstrup Sø giver ren natur trods regnen. Dagen ender med en afslappet middag i Herning centrum."
           },
           "stops": [
             {
@@ -1231,7 +1340,8 @@
                 "de": "Das ultimative Indoor-Ziel; hier bleiben Sie garantiert trocken.",
                 "hu": "A végső beltéri célpont; itt garantáltan száraz marad.",
                 "ro": "Destinația supremă de interior; aici rămâneți garantat uscat.",
-                "en": "The ultimate indoor destination; you are guaranteed to stay dry here."
+                "en": "The ultimate indoor destination; you are guaranteed to stay dry here.",
+                "da": "Den ultimative indendørs destination; her holder du dig garanteret tør."
               }
             },
             {
@@ -1240,7 +1350,8 @@
                 "de": "Parken Sie kurz am Haupteingang für ein schnelles Foto.",
                 "hu": "Parkoljon le rövid időre a főbejáratnál egy gyors fotó erejéig.",
                 "ro": "Parcați scurt la intrarea principală pentru o fotografie rapidă.",
-                "en": "Park briefly at the main entrance for a quick photo."
+                "en": "Park briefly at the main entrance for a quick photo.",
+                "da": "Hold kortvarigt ved hovedindgangen for et hurtigt foto."
               }
             },
             {
@@ -1249,7 +1360,8 @@
                 "de": "Man kann direkt daneben parken und die Skulptur vom Wagen aus sehen.",
                 "hu": "Közvetlenül mellette leparkolhat, és az autóból is láthatja a szobrot.",
                 "ro": "Puteți parca chiar lângă ea și puteți vedea sculptura din mașină.",
-                "en": "You can park right next to it and see the sculpture from your car."
+                "en": "You can park right next to it and see the sculpture from your car.",
+                "da": "Du kan parkere lige ved siden af og se skulpturen fra bilen."
               }
             },
             {
@@ -1258,7 +1370,8 @@
                 "de": "Nutzen Sie den großen Parkplatz direkt vor dem Museum.",
                 "hu": "Használja a közvetlenül a múzeum előtt található nagy parkolót.",
                 "ro": "Folosiți parcarea mare chiar din fața muzeului.",
-                "en": "Use the large parking lot directly in front of the museum."
+                "en": "Use the large parking lot directly in front of the museum.",
+                "da": "Brug den store parkeringsplads direkte foran museet."
               }
             },
             {
@@ -1267,7 +1380,8 @@
                 "de": "Der Fußweg vom Parkplatz zum Eingang ist sehr kurz.",
                 "hu": "A parkolótól a bejáratig vezető gyalogút nagyon rövid.",
                 "ro": "Drumul de la parcare la intrare este foarte scurt.",
-                "en": "The walk from the parking lot to the entrance is very short."
+                "en": "The walk from the parking lot to the entrance is very short.",
+                "da": "Gåafstanden fra parkeringspladsen til indgangen er meget kort."
               }
             },
             {
@@ -1276,7 +1390,8 @@
                 "de": "Es gibt Parkplätze mit direktem Blick auf das Wasser.",
                 "hu": "Vannak parkolóhelyek, ahonnan közvetlen kilátás nyílik a vízre.",
                 "ro": "Există locuri de parcare cu vedere directă la apă.",
-                "en": "There are parking spaces with a direct view of the water."
+                "en": "There are parking spaces with a direct view of the water.",
+                "da": "Der er parkeringspladser med direkte udsigt over vandet."
               }
             },
             {
@@ -1285,7 +1400,8 @@
                 "de": "Nutzen Sie das Parkhaus am Marktplatz für einen trockenen Weg.",
                 "hu": "Használja a főtér melletti parkolóházat a szárazabb útvonalért.",
                 "ro": "Folosiți parcarea etajată de lângă piață pentru un drum uscat.",
-                "en": "Use the multi-story car park near the square for a dry route."
+                "en": "Use the multi-story car park near the square for a dry route.",
+                "da": "Brug det parkeringshus ved torvet for en tør rute."
               }
             }
           ],
@@ -1317,6 +1433,13 @@
               "Avoid parking on unpaved areas along Gødstrup Lake when it's raining.",
               "Use the 'EasyPark' app for convenient payment from inside your dry car.",
               "The main roads in Herning are well-maintained and easy to drive in rain."
+            ],
+            "da": [
+              "Tjek dine vinduesviskere; kraftige byger er almindelige i Jylland.",
+              "Museerne i Birk har rummelige parkeringsarealer, ideelle i regnvejr.",
+              "Undgå at parkere på ujævne/grusbelagte områder langs Gødstrup Sø, når det regner.",
+              "Brug 'EasyPark'-appen til nem betaling fra din tørre bil.",
+              "Hovedvejene i Herning er velholdte og lette at køre i ved regn."
             ]
           }
         },
@@ -1325,7 +1448,8 @@
             "de": "Der Wintermorgen beginnt actionreich im beheizten Baboon City. Danach führt die Fahrt zum beeindruckenden MCH und zur Elia-Skulptur, die in der Winterlandschaft besonders markant wirkt. Den Nachmittag verbringen wir in den warmen Hallen des HEART und Carl-Henning Museums. Ein kurzer Abstecher zum Gødstrup See zeigt die winterliche Ruhe des Wassers, bevor wir zum Abendessen nach Herning zurückkehren. Die Fahrt ist dank Sitzheizung auch bei Minusgraden angenehm.",
             "hu": "A téli reggel mozgalmasan indul a fűtött Baboon Cityben. Ezután az MCH központhoz és az Elia szoborhoz hajtunk, amely a téli tájban különösen hangsúlyos. A délutánt a HEART és a Carl-Henning múzeumok meleg termeiben töltjük. Rövid kitérő a Gødstrup-tóhoz, ahol megcsodálhatjuk a víz téli nyugalmát, mielőtt vacsorázni indulnánk Herningbe. Az út a fűtött autóban fagyban is kényelmes.",
             "ro": "Dimineața de iarnă începe cu acțiune în Baboon City încălzit. Apoi, drumul duce la impresionantul MCH și la sculptura Elia, care pare deosebit de marcantă în peisajul de iarnă. După-amiaza o petrecem în sălile calde ale muzeelor HEART și Carl-Henning. O scurtă vizită la lacul Gødstrup arată liniștea de iarnă a apei. Călătoria este confortabilă chiar și la temperaturi negative datorită încălzirii din mașină.",
-            "en": "The winter morning starts with action at the heated Baboon City. Then, drive to the impressive MCH and Elia sculpture, which looks particularly striking in the winter landscape. Spend the afternoon in the warm galleries of the HEART and Carl-Henning museums. A short trip to Gødstrup Lake reveals the winter stillness of the water before returning to Herning for dinner. The drive remains comfortable even in freezing temperatures."
+            "en": "The winter morning starts with action at the heated Baboon City. Then, drive to the impressive MCH and Elia sculpture, which looks particularly striking in the winter landscape. Spend the afternoon in the warm galleries of the HEART and Carl-Henning museums. A short trip to Gødstrup Lake reveals the winter stillness of the water before returning to Herning for dinner. The drive remains comfortable even in freezing temperatures.",
+            "da": "Vintermorgenen starter med aktivitet i det opvarmede Baboon City. Derefter kører du til den imponerende MCH og Elia-skulpturen, som fremstår særligt markant i vintersceneriet. Brug eftermiddagen i de varme sale på HEART og Carl-Henning-museerne. En kort tur til Gødstrup Sø afslører vinterens stille vande, inden du vender tilbage til Herning til middag. Køreturen forbliver behagelig selv ved frostgrader."
           },
           "stops": [
             {
@@ -1334,7 +1458,8 @@
                 "de": "Ein großartiger Ort, um sich an einem kalten Wintertag aufzuwärmen.",
                 "hu": "Nagyszerű hely a bemelegítésre egy hideg téli napon.",
                 "ro": "Un loc minunat pentru a vă încălzi într-o zi rece de iarnă.",
-                "en": "A great place to warm up on a cold winter day."
+                "en": "A great place to warm up on a cold winter day.",
+                "da": "Et godt sted at varme sig på en kold vinterdag."
               }
             },
             {
@@ -1343,7 +1468,8 @@
                 "de": "Bei Veranstaltungen sind die Parkplätze oft geräumt und gestreut.",
                 "hu": "Rendezvények idején a parkolókat gyakran takarítják és sózzák.",
                 "ro": "În timpul evenimentelor, parcările sunt adesea curățate și deszăpezite.",
-                "en": "During events, parking lots are often cleared and salted."
+                "en": "During events, parking lots are often cleared and salted.",
+                "da": "Under arrangementer bliver parkeringspladser ofte ryddet og saltet."
               }
             },
             {
@@ -1352,7 +1478,8 @@
                 "de": "Vorsicht beim Aussteigen; die Metallstufen können vereist sein.",
                 "hu": "Vigyázzon a kiszálláskor; a fém lépcsőfokok jegesek lehetnek.",
                 "ro": "Atenție la coborâre; treptele metalice pot fi înghețate.",
-                "en": "Be careful when getting out; the metal steps can be icy."
+                "en": "Be careful when getting out; the metal steps can be icy.",
+                "da": "Vær forsigtig ved udstigning; metaltrinene kan være isglatte."
               }
             },
             {
@@ -1361,7 +1488,8 @@
                 "de": "Genießen Sie den Blick auf die winterliche Architektur aus dem Auto.",
                 "hu": "Élvezze a téli építészet látványát az autóból.",
                 "ro": "Bucurați-vă de vederea arhitecturii de iarnă din mașină.",
-                "en": "Enjoy the view of the winter architecture from your car."
+                "en": "Enjoy the view of the winter architecture from your car.",
+                "da": "Nyd udsigten over vinterarkitekturen fra bilen."
               }
             },
             {
@@ -1370,7 +1498,8 @@
                 "de": "Direkter Zugang vom Parkplatz minimiert den Aufenthalt in der Kälte.",
                 "hu": "A parkolóból való közvetlen bejutás minimálisra csökkenti a kinti tartózkodást.",
                 "ro": "Accesul direct din parcare minimizează timpul petrecut în frig.",
-                "en": "Direct access from the parking lot minimizes time spent in the cold."
+                "en": "Direct access from the parking lot minimizes time spent in the cold.",
+                "da": "Direkte adgang fra parkeringspladsen minimerer tid i kulden."
               }
             },
             {
@@ -1379,7 +1508,8 @@
                 "de": "Bleiben Sie auf den befestigten Parkplätzen, um nicht stecken zu bleiben.",
                 "hu": "Maradjon a burkolt parkolóhelyeken, hogy ne ragadjon el a hóban.",
                 "ro": "Rămâneți pe locurile de parcare amenajate pentru a nu rămâne blocat.",
-                "en": "Stay on the paved parking spots to avoid getting stuck."
+                "en": "Stay on the paved parking spots to avoid getting stuck.",
+                "da": "Bliv på de asfalterede parkeringsfelter for at undgå at sidde fast."
               }
             },
             {
@@ -1388,7 +1518,8 @@
                 "de": "Viele Parkplätze im Zentrum sind im Winter gut beleuchtet.",
                 "hu": "A központban sok parkolóhely jól megvilágított télen.",
                 "ro": "Multe locuri de parcare din centru sunt bine iluminate iarna.",
-                "en": "Many parking spots in the center are well-lit during winter."
+                "en": "Many parking spots in the center are well-lit during winter.",
+                "da": "Mange parkeringspladser i centrum er godt oplyst om vinteren."
               }
             }
           ],
@@ -1420,6 +1551,13 @@
               "Parking areas at Birk Centerpark are usually well-cleared of snow.",
               "Check the antifreeze levels in your windshield washer fluid.",
               "Visibility at Gødstrup Lake can be severely limited during snowfall."
+            ],
+            "da": [
+              "Pas på frost på landevejene rundt om Herning.",
+              "Hav en isskraber og eventuelt en lille skovl i bilen.",
+              "Parkeringsområderne ved Birk Centerpark er som regel godt ryddede for sne.",
+              "Tjek frostvæskeniveauet i din sprinklervæske.",
+              "Sigten ved Gødstrup Sø kan være kraftigt begrænset under snefald."
             ]
           }
         }
@@ -1438,7 +1576,8 @@
             "de": "Ankunft am Bahnhof Herning",
             "hu": "Érkezés a herningi pályaudvarra",
             "ro": "Sosire la Gara Herning",
-            "en": "Arrival at Herning Station"
+            "en": "Arrival at Herning Station",
+            "da": "Ankomst til Herning Station"
           },
           "coords": [
             8.979,
@@ -1454,7 +1593,8 @@
             "de": "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten im Stadtgebiet.",
             "hu": "Vegyél napijegyet a korlátlan utazáshoz a város területén.",
             "ro": "Cumpărați un bilet de o zi pentru călătorii nelimitate în zona orașului.",
-            "en": "Purchase a day ticket for unlimited travel within the city area."
+            "en": "Purchase a day ticket for unlimited travel within the city area.",
+            "da": "Køb en dagbillet for ubegrænset rejse inden for byområdet."
           }
         },
         {
@@ -1462,7 +1602,8 @@
             "de": "Herning Kirke & Textilmuseum",
             "hu": "Herningi templom és Textilmúzeum",
             "ro": "Biserica Herning & Muzeul Textilelor",
-            "en": "Herning Church & Textile Museum"
+            "en": "Herning Church & Textile Museum",
+            "da": "Herning Kirke & Tekstilindustrimuseet"
           },
           "coords": [
             8.978,
@@ -1478,7 +1619,8 @@
             "de": "Diese beiden zentralen Sehenswürdigkeiten lassen sich leicht zu Fuß erkunden.",
             "hu": "Ez a két központi látnivaló könnyen felfedezhető gyalog.",
             "ro": "Aceste două atracții centrale sunt ușor de explorat pe jos.",
-            "en": "These two central attractions are easily explored on foot."
+            "en": "These two central attractions are easily explored on foot.",
+            "da": "Disse to centrale attraktioner er lette at opleve til fods."
           }
         },
         {
@@ -1486,7 +1628,8 @@
             "de": "Bus zum Kunstcluster",
             "hu": "Busz a művészeti negyedbe",
             "ro": "Autobuz spre clusterul de artă",
-            "en": "Bus to the Art Cluster"
+            "en": "Bus to the Art Cluster",
+            "da": "Bus til Kunstklyngen"
           },
           "coords": [
             8.97,
@@ -1502,7 +1645,8 @@
             "de": "Nehmen Sie einen Bus in Richtung Westen. Genießen Sie ein Mittagessen bei der Ankunft.",
             "hu": "Menj egy nyugati irányú busszal. Érkezéskor ebédelj egy jót.",
             "ro": "Luați un autobuz spre vest. Bucurați-vă de prânz la sosire.",
-            "en": "Take a westbound bus. Enjoy lunch upon arrival."
+            "en": "Take a westbound bus. Enjoy lunch upon arrival.",
+            "da": "Tag en vestgående bus. Nyd en frokost ved ankomst."
           }
         },
         {
@@ -1510,7 +1654,8 @@
             "de": "HEART & Carl-Henning Pedersen Museum",
             "hu": "HEART & Carl-Henning Pedersen Múzeum",
             "ro": "HEART & Muzeul Carl-Henning Pedersen",
-            "en": "HEART & Carl-Henning Pedersen Museum"
+            "en": "HEART & Carl-Henning Pedersen Museum",
+            "da": "HEART & Carl-Henning Pedersen Museum"
           },
           "coords": [
             8.945,
@@ -1526,7 +1671,8 @@
             "de": "Verbringen Sie den ganzen Nachmittag damit, diese beiden erstklassigen Museen zu erkunden.",
             "hu": "Töltsd az egész délutánt e két világszínvonalú múzeum felfedezésével.",
             "ro": "Petreceți întreaga după-amiază explorând aceste două muzee de talie mondială.",
-            "en": "Spend the whole afternoon exploring these two world-class museums."
+            "en": "Spend the whole afternoon exploring these two world-class museums.",
+            "da": "Brug hele eftermiddagen på at udforske disse to museer i verdensklasse."
           }
         },
         {
@@ -1534,7 +1680,8 @@
             "de": "Bus zurück zum Zentrum",
             "hu": "Busz vissza a központba",
             "ro": "Autobuz înapoi în centru",
-            "en": "Bus back to the Centre"
+            "en": "Bus back to the Centre",
+            "da": "Bus tilbage til Centrum"
           },
           "coords": [
             8.979,
@@ -1550,7 +1697,8 @@
             "de": "Beenden Sie den Tag mit einem Kaffee oder einem frühen Abendessen in der Nähe des Bahnhofs.",
             "hu": "Zárd a napot egy kávéval vagy egy korai vacsorával a pályaudvar közelében.",
             "ro": "Încheiați ziua cu o cafea sau o cină timpurie lângă gară.",
-            "en": "End the day with a coffee or an early dinner near the station."
+            "en": "End the day with a coffee or an early dinner near the station.",
+            "da": "Afslut dagen med en kaffe eller en tidlig middag nær stationen."
           }
         }
       ],
@@ -1558,7 +1706,8 @@
         "de": "Nutzen Sie Hernings effizientes Bussystem für einen stressfreien Tag. Vom Bahnhof aus spazieren Sie zu den zentralen Sehenswürdigkeiten, der Kirche und dem Textilmuseum. Am späten Vormittag bringt Sie ein Bus zum Kunstcluster im Westen. Nach dem Mittagessen tauchen Sie in die Welt der modernen und zeitgenössischen Kunst ein und erkunden die beiden benachbarten Museen zu Fuß. Am späten Nachmittag fahren Sie mit dem Bus zurück ins Zentrum und beenden Ihren Kulturtag.",
         "hu": "Használd Herning hatékony buszrendszerét egy stresszmentes naphoz. A pályaudvarról sétálj el a központi látnivalókhoz, a templomhoz és a Textilmúzeumhoz. Késő délelőtt egy busz elvisz a nyugati művészeti negyedbe. Ebéd után merülj el a modern és kortárs művészet világában, és fedezd fel a két szomszédos múzeumot gyalog. Késő délután busszal térj vissza a központba, és zárd a kulturális napot.",
         "ro": "Folosiți sistemul eficient de autobuze din Herning pentru o zi fără stres. De la gară, mergeți pe jos la atracțiile centrale, biserică și Muzeul Textilelor. Spre sfârșitul dimineții, un autobuz vă va duce la clusterul de artă din vest. După prânz, scufundați-vă în lumea artei moderne și contemporane, explorând pe jos cele două muzee adiacente. La sfârșitul după-amiezii, luați autobuzul înapoi în centru pentru a încheia ziua culturală.",
-        "en": "Use Herning's efficient bus system for a stress-free day. From the station, walk to the central attractions, the church, and The Textile Museum. In the late morning, a bus will take you to the art cluster in the west. After lunch, immerse yourself in the world of modern and contemporary art, exploring the two adjacent museums on foot. In the late afternoon, take the bus back to the center to conclude your cultural day."
+        "en": "Use Herning's efficient bus system for a stress-free day. From the station, walk to the central attractions, the church, and The Textile Museum. In the late morning, a bus will take you to the art cluster in the west. After lunch, immerse yourself in the world of modern and contemporary art, exploring the two adjacent museums on foot. In the late afternoon, take the bus back to the center to conclude your cultural day.",
+        "da": "Brug Hernings effektive bustrafik for en stressfri dag. Fra stationen går du til de centrale seværdigheder, kirken og Tekstilindustrimuseet. Senere på formiddagen tager en bus dig til kunstklyngen i vest. Efter frokost fordyber du dig i moderne og samtidskunst ved de to nabomuseer til fods. Sen eftermiddag tager du bussen tilbage til centrum for at afslutte din kulturoplevelse."
       },
       "gastro_picks": {
         "de": [
@@ -1661,6 +1810,11 @@
           "Download the 'Rejseplanen' app for real-time bus schedules.",
           "Wave at the bus driver to let them know you want to board.",
           "Most buses are cashless, so have a credit card or travel card ready."
+        ],
+        "da": [
+          "Download 'Rejseplanen'-appen for realtidsbusplaner.",
+          "Vink til buschaufføren for at gøre opmærksom på, at du vil stige på.",
+          "De fleste busser er kontantløse, så hav et kreditkort eller et rejsekort klar."
         ]
       },
       "variants": {
@@ -1669,7 +1823,8 @@
             "de": "Ankunft am Bahnhof Herning bei Regen, ein idealer Ausgangspunkt mit Unterstand. Wir besuchen die nahegelegene Kirche und das Textilmuseum, beide in Gehweite des Bahnhofs. Der Bus bringt uns bequem zum Kunst-Cluster in Birk, sodass wir kaum nass werden. Im HEART und Carl-Henning Museum verbringen wir den Nachmittag im Trockenen. Mit dem Bus geht es zurück ins Zentrum für einen entspannten Ausklang des Tages.",
             "hu": "Érkezés a herningi vasútállomásra esőben, ami ideális kiindulópont a fedett peronok miatt. Meglátogatjuk a közeli templomot és a Textilmúzeumot, mindkettő sétatávolságra van. A busz kényelmesen elvisz a birki művészeti negyedbe, így alig ér minket az eső. A HEART és a Carl-Henning múzeumban szárazon telik a délután. Busszal térünk vissza a központba a nap végén.",
             "ro": "Sosire la gara Herning pe ploaie, un punct de plecare ideal datorită peronului acoperit. Vizităm biserica din apropiere și Muzeul Textil, ambele la mică distanță. Autobuzul ne duce confortabil la complexul de artă din Birk, astfel încât abia dacă ne udăm. La HEART și Muzeul Carl-Henning petrecem după-amiaza la uscat. Ne întoarcem cu autobuzul în centru pentru finalul zilei.",
-            "en": "Arrival at Herning Station in the rain, a good starting point with sheltered platforms. We visit the nearby church and Textile Museum, both within easy walking distance. The bus takes us comfortably to the Art Cluster in Birk, minimizing exposure to rain. At HEART and Carl-Henning museums, we spend the afternoon indoors. The bus returns us to the center for a relaxed end to the day."
+            "en": "Arrival at Herning Station in the rain, a good starting point with sheltered platforms. We visit the nearby church and Textile Museum, both within easy walking distance. The bus takes us comfortably to the Art Cluster in Birk, minimizing exposure to rain. At HEART and Carl-Henning museums, we spend the afternoon indoors. The bus returns us to the center for a relaxed end to the day.",
+            "da": "Ankomst til Herning Station i regnvejr, et godt udgangspunkt med overdækkede perroner. Vi besøger den nærliggende kirke og Tekstilmuseet, begge inden for gåafstand. Bussen tager os komfortabelt til kunstklyngen i Birk og minimerer eksponering for regnen. På HEART og Carl-Henning bruger vi eftermiddagen indendørs. Bussen bringer os tilbage til centrum til en afslappet afslutning på dagen."
           },
           "stops": [
             {
@@ -1678,7 +1833,8 @@
                 "de": "Warten Sie in der Bahnhofshalle, bis Ihr Bus bereitsteht.",
                 "hu": "Várjon az állomás várótermében, amíg a busza be nem áll.",
                 "ro": "Așteptați în sala de așteptare până când autobuzul este pregătit.",
-                "en": "Wait in the station hall until your bus is ready to depart."
+                "en": "Wait in the station hall until your bus is ready to depart.",
+                "da": "Vent i stationshallen, indtil din bus er klar til afgang."
               }
             },
             {
@@ -1687,7 +1843,8 @@
                 "de": "Diese Ziele liegen nah am Bahnhof, ideal für kurze Fußwege.",
                 "hu": "Ezek a célpontok közel vannak az állomáshoz, ideálisak rövid sétához.",
                 "ro": "Aceste destinații sunt aproape de gară, ideale pentru distanțe scurte.",
-                "en": "These destinations are near the station, ideal for short walks."
+                "en": "These destinations are near the station, ideal for short walks.",
+                "da": "Disse destinationer ligger tæt på stationen og er ideelle til korte gåture."
               }
             },
             {
@@ -1696,7 +1853,8 @@
                 "de": "Die Bushaltestelle in Birk ist nur wenige Meter von den Museen entfernt.",
                 "hu": "A birki buszmegálló mindössze pár méterre van a múzeumoktól.",
                 "ro": "Stația de autobuz din Birk este la doar câțiva metri de muzee.",
-                "en": "The bus stop in Birk is just a few meters away from the museums."
+                "en": "The bus stop in Birk is just a few meters away from the museums.",
+                "da": "Busstoppet i Birk ligger kun få meter fra museerne."
               }
             },
             {
@@ -1705,7 +1863,8 @@
                 "de": "Ein geschlossener Komplex, perfekt für verregnete Nachmittage.",
                 "hu": "Zárt épületegyüttes, tökéletes esős délutánokra.",
                 "ro": "Un complex închis, perfect pentru după-amiezi ploioase.",
-                "en": "An enclosed complex, perfect for rainy afternoons."
+                "en": "An enclosed complex, perfect for rainy afternoons.",
+                "da": "Et indendørs kompleks, perfekt til regnfulde eftermiddage."
               }
             },
             {
@@ -1714,7 +1873,8 @@
                 "de": "Nutzen Sie die Echtzeit-Anzeige in der App, um nicht im Regen zu warten.",
                 "hu": "Használja az applikáció valós idejű kijelzését, hogy ne várjon az esőben.",
                 "ro": "Folosiți aplicația pentru timpii în timp real ca să nu așteptați în ploaie.",
-                "en": "Use the real-time app info to avoid waiting in the rain."
+                "en": "Use the real-time app info to avoid waiting in the rain.",
+                "da": "Brug realtime-info i appen for at undgå at vente i regnen."
               }
             }
           ],
@@ -1746,6 +1906,13 @@
               "The 'Birk Centerpark' stop serves both art museums directly.",
               "Herning Station offers lockers for wet luggage.",
               "Check the departure times; buses run less frequently on Sundays."
+            ],
+            "da": [
+              "Køb en dagsbillet i Midttrafik-appen til ubegrænset rejse.",
+              "Busserne i Herning er punktlige og giver læ for vinden.",
+              "Birk Centerpark-stoppet betjener begge kunstmuseer direkte.",
+              "Herning Station har skabe til våde kufferter.",
+              "Tjek afgange; busser kører sjældnere om søndagen."
             ]
           }
         },
@@ -1754,7 +1921,8 @@
             "de": "Ankunft am Bahnhof Herning in der Winterkälte. Kurze Wege führen uns zur Kirche und zum Textilmuseum, wo wir uns aufwärmen können. Mit dem gut beheizten Bus fahren wir nach Birk. Die Museen HEART und Carl-Henning bieten am Nachmittag eine lichtdurchflutete Zuflucht. Da die Dämmerung früh einsetzt, nutzen wir den Bus für eine warme Rückfahrt ins Stadtzentrum, wo der Abend in einem gemütlichen Lokal endet.",
             "hu": "Érkezés a herningi állomásra a téli hidegben. Rövid séta után a templomban és a Textilmúzeumban melegedhetünk fel. Jól fűtött busszal utazunk Birkbe. A HEART és a Carl-Henning múzeum délután fényárban úszó menedéket nyújt. Mivel korán sötétedik, busszal térünk vissza a városközpontba, ahol egy barátságos helyen zárjuk a napot.",
             "ro": "Sosire la gara Herning în frigul iernii. După o scurtă plimbare, ne putem încălzi în biserică și la Muzeul Textil. Călătorim spre Birk cu un autobuz bine încălzit. Muzeele HEART și Carl-Henning oferă după-amiaza un refugiu plin de lumină. Deoarece se întunecă devreme, folosim autobuzul pentru o întoarcere călduroasă în centru.",
-            "en": "Arrival at Herning Station in the winter cold. Short walks lead us to the church and Textile Museum, where we can warm up. We travel to Birk by well-heated bus. The HEART and Carl-Henning museums provide a light-filled refuge in the afternoon. As darkness falls early, we take the bus back to the city center, ending the day in a cozy local venue."
+            "en": "Arrival at Herning Station in the winter cold. Short walks lead us to the church and Textile Museum, where we can warm up. We travel to Birk by well-heated bus. The HEART and Carl-Henning museums provide a light-filled refuge in the afternoon. As darkness falls early, we take the bus back to the city center, ending the day in a cozy local venue.",
+            "da": "Ankomst til Herning Station i vinterkulden. Korte gåture fører os til kirken og Tekstilmuseet, hvor vi kan varme os. Vi tager en velopvarmet bus til Birk. HEART og Carl-Henning-museerne tilbyder et lysfyldt tilflugtssted om eftermiddagen. Når det bliver mørkt tidligt, tager vi bussen tilbage til byens centrum og slutter dagen på et hyggeligt lokalt sted."
           },
           "stops": [
             {
@@ -1763,7 +1931,8 @@
                 "de": "Im Bahnhof gibt es einen beheizten Kiosk für warme Getränke.",
                 "hu": "Az állomáson van fűtött kioszk meleg italokhoz.",
                 "ro": "În gară există un chioșc încălzit pentru băuturi calde.",
-                "en": "There is a heated kiosk in the station for hot drinks."
+                "en": "There is a heated kiosk in the station for hot drinks.",
+                "da": "Der er en opvarmet kiosk på stationen til varme drikke."
               }
             },
             {
@@ -1772,7 +1941,8 @@
                 "de": "Die Wege sind meist gut von Schnee und Eis geräumt.",
                 "hu": "Az utakat általában jól takarítják a hótól és jégtől.",
                 "ro": "Drumurile sunt de obicei bine curățate de zăpadă și gheață.",
-                "en": "Paths are usually well-cleared of snow and ice."
+                "en": "Paths are usually well-cleared of snow and ice.",
+                "da": "Gangstier er som regel godt ryddede for sne og is."
               }
             },
             {
@@ -1781,7 +1951,8 @@
                 "de": "Genießen Sie die warme Fahrt durch die winterliche Landschaft.",
                 "hu": "Élvezze a meleg utazást a téli tájon keresztül.",
                 "ro": "Bucurați-vă de călătoria călduroasă prin peisajul de iarnă.",
-                "en": "Enjoy the warm ride through the winter landscape."
+                "en": "Enjoy the warm ride through the winter landscape.",
+                "da": "Nyd den varme tur gennem vinterlandskabet."
               }
             },
             {
@@ -1790,7 +1961,8 @@
                 "de": "Geben Sie Ihre schweren Wintermäntel kostenlos an der Garderobe ab.",
                 "hu": "Adja le nehéz télikabátját ingyenesen a ruhatárban.",
                 "ro": "Lăsați haina grea de iarnă gratuit la garderobă.",
-                "en": "Leave your heavy winter coats for free at the cloakroom."
+                "en": "Leave your heavy winter coats for free at the cloakroom.",
+                "da": "Efterlad dine tunge vinterfrakker gratis i garderoben."
               }
             },
             {
@@ -1799,7 +1971,8 @@
                 "de": "Die Busse fahren im Winter zuverlässig nach Fahrplan.",
                 "hu": "A buszok télen is megbízhatóan közlekednek a menetrend szerint.",
                 "ro": "Autobuzele circulă fiabil iarna conform orarului.",
-                "en": "Buses run reliably according to the schedule in winter."
+                "en": "Buses run reliably according to the schedule in winter.",
+                "da": "Busserne kører pålideligt efter køreplanen om vinteren."
               }
             }
           ],
@@ -1831,6 +2004,13 @@
               "Use the Rejseplanen app for real-time updates during snowy weather.",
               "In Birk, the bus stop is located very close to the museum entrances.",
               "A hot coffee at the station is the perfect start to your day."
+            ],
+            "da": [
+              "Vent indenfor på stationen indtil kort før din bus eller tog afgår.",
+              "Busserne er godt opvarmede om vinteren; ideelle til at få varmen mellem stop.",
+              "Brug Rejseplanen-appen til realtime-opdateringer under snevejr.",
+              "I Birk ligger busstoppet meget tæt på museernes indgange.",
+              "En varm kaffe på stationen er den perfekte start på dagen."
             ]
           }
         }

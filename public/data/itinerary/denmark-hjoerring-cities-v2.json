@@ -21,7 +21,8 @@
             "de": "P. Nørkjærs Plads",
             "hu": "P. Nørkjærs Plads tér",
             "ro": "Piața P. Nørkjærs",
-            "en": "P. Nørkjærs Plads"
+            "en": "P. Nørkjærs Plads",
+            "da": "P. Nørkjærs Plads"
           },
           "coords": [
             9.981,
@@ -37,7 +38,8 @@
             "de": "Starten Sie den Tag mit einem Kaffee in einem der Cafés am Platz.",
             "hu": "Indítsa a napot egy kávéval a tér egyik kávézójában!",
             "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
-            "en": "Start your day with a coffee at one of the cafés on the square."
+            "en": "Start your day with a coffee at one of the cafés on the square.",
+            "da": "Start din dag med en kaffe på en af caféerne på pladsen."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Springvandet Brunnen",
             "hu": "Springvandet szökőkút",
             "ro": "Fântâna Springvandet",
-            "en": "The Springvandet Fountain"
+            "en": "The Springvandet Fountain",
+            "da": "Springvandet"
           },
           "coords": [
             9.9815,
@@ -61,7 +64,8 @@
             "de": "Ein schöner Fotopunkt im Herzen der Stadt.",
             "hu": "Remek fotóhely a város szívében.",
             "ro": "Un loc frumos pentru fotografii în inima orașului.",
-            "en": "A great photo spot in the heart of the city."
+            "en": "A great photo spot in the heart of the city.",
+            "da": "Et godt fotosted i byens hjerte."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Sankt Catharinæ Kirche",
             "hu": "Szent Katalin-templom",
             "ro": "Biserica Sf. Ecaterina",
-            "en": "St. Catharinæ Church"
+            "en": "St. Catharinæ Church",
+            "da": "Skt. Catharinæ Kirke"
           },
           "coords": [
             9.983,
@@ -85,7 +90,8 @@
             "de": "Achten Sie auf das beeindruckende Altarbild und die ruhige Atmosphäre.",
             "hu": "Figyelje meg a lenyűgöző oltárképet és a békés légkört.",
             "ro": "Observați altarul impresionant și atmosfera liniștită.",
-            "en": "Pay attention to the impressive altarpiece and the quiet atmosphere."
+            "en": "Pay attention to the impressive altarpiece and the quiet atmosphere.",
+            "da": "Læg mærke til det imponerende alterstykke og den rolige atmosfære."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Vendsyssel Historisches Museum",
             "hu": "Vendsyssel Történeti Múzeum",
             "ro": "Muzeul de Istorie Vendsyssel",
-            "en": "Vendsyssel Historical Museum"
+            "en": "Vendsyssel Historical Museum",
+            "da": "Vendsyssel Historiske Museum"
           },
           "coords": [
             9.977,
@@ -109,7 +116,8 @@
             "de": "Tauchen Sie in die reiche Geschichte Nordjütlands ein.",
             "hu": "Merüljön el Észak-Jütland gazdag történelmében!",
             "ro": "Cufundați-vă în istoria bogată a Iutlandei de Nord.",
-            "en": "Immerse yourself in the rich history of North Jutland."
+            "en": "Immerse yourself in the rich history of North Jutland.",
+            "da": "Fordyb dig i Nordjyllands rige historie."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Vendsyssel Kunstmuseum",
             "hu": "Vendsyssel Művészeti Múzeum",
             "ro": "Muzeul de Artă Vendsyssel",
-            "en": "Vendsyssel Museum of Art"
+            "en": "Vendsyssel Museum of Art",
+            "da": "Vendsyssel Kunstmuseum"
           },
           "coords": [
             9.978,
@@ -133,7 +142,8 @@
             "de": "Moderne dänische Kunst in einem architektonisch beeindruckenden Gebäude.",
             "hu": "Modern dán művészet egy építészetileg lenyűgöző épületben.",
             "ro": "Artă daneză modernă într-o clădire impresionantă din punct de vedere arhitectural.",
-            "en": "Modern Danish art in an architecturally impressive building."
+            "en": "Modern Danish art in an architecturally impressive building.",
+            "da": "Moderne dansk kunst i en arkitektonisk imponerende bygning."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Sankt Olai Kirche",
             "hu": "Szent Olaf-templom",
             "ro": "Biserica Sf. Olai",
-            "en": "St. Olai's Church"
+            "en": "St. Olai's Church",
+            "da": "Skt. Olai Kirke"
           },
           "coords": [
             9.985,
@@ -157,7 +168,8 @@
             "de": "Eine der ältesten Kirchen der Stadt, suchen Sie nach den mittelalterlichen Fresken.",
             "hu": "A város egyik legrégebbi temploma, keresse a középkori freskókat!",
             "ro": "Una dintre cele mai vechi biserici din oraș, căutați frescele medievale.",
-            "en": "One of the oldest churches in the city, look for the medieval frescoes."
+            "en": "One of the oldest churches in the city, look for the medieval frescoes.",
+            "da": "En af byens ældste kirker — kig efter de middelalderlige kalkmalerier."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Christiansgave Park",
             "hu": "Christiansgave park",
             "ro": "Parcul Christiansgave",
-            "en": "Christiansgave Park"
+            "en": "Christiansgave Park",
+            "da": "Christiansgave Park"
           },
           "coords": [
             9.975,
@@ -181,7 +194,8 @@
             "de": "Entspannen Sie sich in der grünen Oase der Stadt oder machen Sie ein Picknick.",
             "hu": "Pihenjen a város zöld oázisában vagy piknikezzen egyet!",
             "ro": "Relaxați-vă în oaza de verdeață a orașului sau faceți un picnic.",
-            "en": "Relax in the city's green oasis or have a picnic."
+            "en": "Relax in the city's green oasis or have a picnic.",
+            "da": "Slap af i byens grønne oase eller hold picnic."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Beginnen Sie Ihren Rundgang am belebten P. Nørkjærs Plads, dem Herzen von Hjørring. Am Vormittag erkunden Sie die historischen Kirchen der Stadt, wie die Sankt Catharinæ. Der Mittag ist der Kultur gewidmet, mit Besuchen im Geschichts- und Kunstmuseum, die beide die Seele von Vendsyssel zeigen. Am Nachmittag spazieren Sie zur alten Sankt Olai Kirche, bevor Sie den Tag im ruhigen Christiansgave Park ausklingen lassen, einer perfekten grünen Oase zum Entspannen.",
         "hu": "Kezdje a gyalogtúrát Hjørring szívében, a nyüzsgő P. Nørkjærs Plads téren. A délelőttöt a város történelmi templomainak, például a Szent Katalin-templomnak a felfedezésével töltse. Az ebédidő a kultúráé, látogasson el a Történeti és a Művészeti Múzeumba, amelyek bemutatják Vendsyssel lelkét. Délután sétáljon el a régi Szent Olaf-templomhoz, majd zárja a napot a békés Christiansgave parkban, egy tökéletes zöld oázisban a pihenéshez.",
         "ro": "Începeți turul pe jos în inima orașului Hjørring, în vibranta piață P. Nørkjærs Plads. Dimineața este dedicată explorării bisericilor istorice ale orașului, cum ar fi Biserica Sf. Ecaterina. Prânzul este pentru cultură, cu vizite la muzeele de istorie și artă, ambele prezentând sufletul regiunii Vendsyssel. După-amiaza, plimbați-vă până la vechea Biserică Sf. Olai înainte de a încheia ziua în liniștitul Parc Christiansgave, o oază verde perfectă pentru relaxare.",
-        "en": "Start your walking tour in the heart of Hjørring at the bustling P. Nørkjærs Plads. The morning is for exploring the city's historic churches, like St. Catharinæ. Midday is for culture, with visits to the historical and art museums, both showcasing the soul of Vendsyssel. In the afternoon, stroll to the old St. Olai's Church before ending your day in the peaceful Christiansgave Park, a perfect green oasis for relaxation."
+        "en": "Start your walking tour in the heart of Hjørring at the bustling P. Nørkjærs Plads. The morning is for exploring the city's historic churches, like St. Catharinæ. Midday is for culture, with visits to the historical and art museums, both showcasing the soul of Vendsyssel. In the afternoon, stroll to the old St. Olai's Church before ending your day in the peaceful Christiansgave Park, a perfect green oasis for relaxation.",
+        "da": "Start din gåtur i hjertet af Hjørring ved den livlige P. Nørkjærs Plads. Morgenen bruges på at udforske byens historiske kirker som Skt. Catharinæ. Midt på dagen er der kultur på programmet med besøg på det historiske og det kunsthistoriske museum, som begge viser Vendsyssels sjæl. Om eftermiddagen går turen til den gamle Skt. Olai Kirke, før dagen sluttes i den fredelige Christiansgave Park, en perfekt grøn oase til afslapning."
       },
       "gastro_picks": {
         "de": [
@@ -385,6 +400,12 @@
           "Most museums are closed on Mondays, so plan accordingly.",
           "A light raincoat is always a good idea, even in summer.",
           "Look out for the many small sculptures and pieces of art dotted around the city."
+        ],
+        "da": [
+          "Brug behagelige sko, da brostenene i den gamle by kan være ujævne.",
+          "De fleste museer er lukkede om mandagen, så planlæg derefter.",
+          "En let regnjakke er altid en god idé, selv om sommeren.",
+          "Hold øje med de mange små skulpturer og kunstværker rundt omkring i byen."
         ]
       },
       "variants": {
@@ -393,7 +414,8 @@
             "de": "Beginnen Sie den Tag auf dem P. Nørkjærs Plads, wo die moderne Architektur auch bei grauem Himmel glänzt. Mittags bieten das Historische Museum und das Kunstmuseum perfekten Schutz vor dem Regen. Der Nachmittag gehört den atmosphärischen Kirchen St. Catharinæ und St. Olai. Den Abschluss bildet ein kurzer, erfrischender Spaziergang durch den Christiansgave Park unter dem Schutz der dichten Baumkronen.",
             "hu": "A napot a P. Nørkjærs Plads modern terén kezdjük, ahol az eső fényessé teszi a burkolatot. A déli órákat a Vendsyssel múzeumok fedett kiállítótereiben töltjük, távol a sárfúvástól. Délután a történelmi templomok békéje nyújt menedéket. Estefelé a Christiansgave Park lombkoronái alatt teszünk egy rövid sétát, kihasználva a dán eső utáni friss levegőt.",
             "ro": "Începeți ziua în piața P. Nørkjærs, unde designul modern capătă reflexii interesante pe ploaie. La prânz, refugiati-vă în complexul muzeal Vendsyssel pentru o incursiune culturală la adăpost. După-amiaza este dedicată bisericilor istorice, spații calde și primitoare. Seara se încheie cu o plimbare scurtă în parcul Christiansgave, unde arborii bătrâni oferă o protecție naturală împotriva stropilor.",
-            "en": "Start your day at P. Nørkjærs Plads, where modern design stands out even under grey skies. Spend your midday indoors exploring the local history and art museums. In the afternoon, the thick walls of St. Catharinæ and St. Olai churches provide a dry sanctuary. End the day with a brisk walk through Christiansgave Park, letting the mature trees act as a natural umbrella during your stroll."
+            "en": "Start your day at P. Nørkjærs Plads, where modern design stands out even under grey skies. Spend your midday indoors exploring the local history and art museums. In the afternoon, the thick walls of St. Catharinæ and St. Olai churches provide a dry sanctuary. End the day with a brisk walk through Christiansgave Park, letting the mature trees act as a natural umbrella during your stroll.",
+            "da": "Start din dag på P. Nørkjærs Plads, hvor moderne design træder frem selv under grå himmel. Brug middagstimerne indenfor til at udforske lokal historie og kunstmuseer. Om eftermiddagen giver de tykke vægge i Skt. Catharinæ og Skt. Olai en tør tilflugt. Slut dagen med en frisk gåtur gennem Christiansgave Park, hvor de modne træer fungerer som et naturligt tag under din spadseretur."
           },
           "stops": [
             {
@@ -402,7 +424,8 @@
                 "de": "Die glatten Steinflächen können bei Nässe rutschig sein; vorsichtig gehen.",
                 "hu": "A kövezett felület esőben csúszós lehet, érdemes óvatosan lépkedni.",
                 "ro": "Suprafețele pietruite pot fi alunecoase când sunt ude; mergeți cu atenție.",
-                "en": "The paved surfaces can be slippery when wet; watch your step while exploring."
+                "en": "The paved surfaces can be slippery when wet; watch your step while exploring.",
+                "da": "De belagte flader kan være glatte, når de er våde; pas på dine skridt under udforskningen."
               }
             },
             {
@@ -411,7 +434,8 @@
                 "de": "Bei Regen wirkt die Fontäne besonders atmosphärisch, fast eins mit dem Himmel.",
                 "hu": "Esőben a szökőkút látványa különleges, szinte eggyé válik az elemekkel.",
                 "ro": "Fântâna are o atmosferă melancolică sub ploaie, integrându-se în peisaj.",
-                "en": "The fountain looks especially atmospheric in the rain, blending with the mist."
+                "en": "The fountain looks especially atmospheric in the rain, blending with the mist.",
+                "da": "Fontænen er særligt stemningsfuld i regnvejr, hvor den blander sig med disen."
               }
             },
             {
@@ -420,7 +444,8 @@
                 "de": "Ein idealer Ort, um die Kleidung zu trocknen und die Stille zu genießen.",
                 "hu": "Tökéletes hely a ruhák megszárítására és a belső csend élvezetére.",
                 "ro": "Un loc ideal pentru a vă usca hainele și a vă bucura de liniștea interioară.",
-                "en": "An ideal spot to dry off your gear and enjoy the peaceful interior silence."
+                "en": "An ideal spot to dry off your gear and enjoy the peaceful interior silence.",
+                "da": "Et ideelt sted til at få tørret dit udstyr og nyde den fredelige indre stilhed."
               }
             },
             {
@@ -429,7 +454,8 @@
                 "de": "Nutzen Sie die Garderobe für nasse Mäntel vor dem Rundgang.",
                 "hu": "Használja a ruhatárat a vizes kabátoknak a kiállítás megtekintése előtt.",
                 "ro": "Folosiți garderoba pentru hainele ude înainte de a începe vizitarea.",
-                "en": "Make use of the cloakroom for wet coats before starting your museum tour."
+                "en": "Make use of the cloakroom for wet coats before starting your museum tour.",
+                "da": "Benyt garderoben til våde frakker før dit museumstur."
               }
             },
             {
@@ -438,7 +464,8 @@
                 "de": "Das Oberlicht bietet auch bei Regen ein faszinierendes, diffuses Licht.",
                 "hu": "A felülvilágítók esős időben is különleges, szórt fényt biztosítanak.",
                 "ro": "Luminatoarele oferă o lumină difuză fascinantă chiar și în zilele ploioase.",
-                "en": "The skylights provide fascinating diffuse light even during heavy rainfall."
+                "en": "The skylights provide fascinating diffuse light even during heavy rainfall.",
+                "da": "Loftsvinduerne giver fascinerende diffust lys selv under kraftig regn."
               }
             },
             {
@@ -447,7 +474,8 @@
                 "de": "Die älteste Kirche der Stadt ist ein warmer Rückzugsort am Nachmittag.",
                 "hu": "A város legrégebbi temploma meleg menedéket nyújt a délutáni záporban.",
                 "ro": "Cea mai veche biserică din oraș este un refugiu cald în timpul ploii.",
-                "en": "The city's oldest church is a warm sanctuary during afternoon showers."
+                "en": "The city's oldest church is a warm sanctuary during afternoon showers.",
+                "da": "Byens ældste kirke er et varmt tilflugtssted under eftermiddagsskybrud."
               }
             },
             {
@@ -456,7 +484,8 @@
                 "de": "Suchen Sie Schutz unter den großen Buchen, wenn der Regen zunimmt.",
                 "hu": "Keressen menedéket a hatalmas bükkfák alatt, ha elered az eső.",
                 "ro": "Căutați adăpost sub fagii mari dacă ploaia devine mai intensă.",
-                "en": "Find shelter under the large beech trees if the rain intensifies."
+                "en": "Find shelter under the large beech trees if the rain intensifies.",
+                "da": "Find læ under de store bøgetræer, hvis regnen tilspidses."
               }
             }
           ],
@@ -484,6 +513,12 @@
               "The museum quarter buildings are close together, minimizing rain exposure.",
               "Wear waterproof footwear for the cobblestone streets in the old town.",
               "Many cafes near the church offer cozy spots to warm up and dry off."
+            ],
+            "da": [
+              "En solid paraply er essentiel på grund af Nordjyllands vind.",
+              "Museumsområdet har bygninger tæt på hinanden, hvilket minimerer eksponering for regn.",
+              "Brug vandtæt fodtøj til brostensbelagte gader i den gamle by.",
+              "Mange caféer nær kirken tilbyder hyggelige steder til at varme sig og få tøjet tørt."
             ]
           }
         },
@@ -492,7 +527,8 @@
             "de": "Ein winterlicher Morgen in Hjørring beginnt erfrischend auf den historischen Plätzen. Die Kirchenbesuche bieten mittags nicht nur Kultur, sondern auch willkommene Wärme. Da es bereits gegen 16 Uhr dunkel wird, nutzen wir die hellen Stunden für die Museen im Museumsviertel. Der Tag endet mit einem stimmungsvollen Spaziergang durch den Christiansgave Park, der oft in festliches Licht getaucht ist.",
             "hu": "A téli reggel Hjørringben frissítő sétával indul a történelmi tereken. A déli templomlátogatások nemcsak kulturális élményt, hanem kellemes meleget is adnak. Mivel délután 4 körül sötétedik, a világos órákat a múzeumi negyedben töltjük. A napot a Christiansgave Park ünnepi fényei között zárjuk, ahol a zúzmarás fák varázslatos látványt nyújtanak.",
             "ro": "O dimineață de iarnă în Hjørring începe cu o plimbare revigorantă prin piețele istorice. Vizitarea bisericilor la prânz oferă, pe lângă cultură, și o căldură binevenită. Deoarece se întunecă în jurul orei 16:00, folosim orele de lumină pentru cartierul muzeelor. Ziua se încheie cu o plimbare atmosferică prin parcul Christiansgave, adesea decorat cu lumini festive.",
-            "en": "A winter morning in Hjørring starts with a crisp walk through the historic squares. Midday church visits provide both culture and a welcome respite from the cold. As it gets dark by 4 PM, we prioritize the museum visits during the daylight hours. The day concludes with an atmospheric stroll through Christiansgave Park, which is often beautifully lit during the winter months."
+            "en": "A winter morning in Hjørring starts with a crisp walk through the historic squares. Midday church visits provide both culture and a welcome respite from the cold. As it gets dark by 4 PM, we prioritize the museum visits during the daylight hours. The day concludes with an atmospheric stroll through Christiansgave Park, which is often beautifully lit during the winter months.",
+            "da": "En vintermorgen i Hjørring starter med en frisk gåtur gennem de historiske pladser. Midt på dagen giver kirkebesøg både kultur og en kærkommen pause fra kulden. Da det bliver mørkt omkring kl. 16, prioriterer vi museumsbesøgene i dagslys. Dagen afsluttes med en stemningsfuld gåtur gennem Christiansgave Park, som ofte er smukt oplyst i vintermånederne."
           },
           "stops": [
             {
@@ -501,7 +537,8 @@
                 "de": "Achten Sie auf Glatteis auf den modernen Bodenplatten.",
                 "hu": "Vigyázzon a jegesedésre a modern burkolólapokon.",
                 "ro": "Atenție la porțiunile de gheață de pe plăcile moderne de pavaj.",
-                "en": "Be careful of icy patches on the modern paving stones."
+                "en": "Be careful of icy patches on the modern paving stones.",
+                "da": "Vær forsigtig med isglatte pletter på de moderne belægninger."
               }
             },
             {
@@ -510,7 +547,8 @@
                 "de": "Im Winter oft abgeschaltet, wirkt die Skulptur bei Frost wie erstarrt.",
                 "hu": "Télen gyakran leállítják, a szobor ilyenkor fagyos mozdulatlanságban áll.",
                 "ro": "Iarna fântâna este adesea oprită, sculptura având un aspect înghețat.",
-                "en": "Often turned off in winter, the sculpture takes on a frozen, statuesque look."
+                "en": "Often turned off in winter, the sculpture takes on a frozen, statuesque look.",
+                "da": "Skulpturen er ofte slukket om vinteren og får et frossent, statuesk præg."
               }
             },
             {
@@ -519,7 +557,8 @@
                 "de": "Genießen Sie die Ruhe und die milde Wärme in den Kirchenschiffen.",
                 "hu": "Élvezze a nyugalmat és az enyhe meleget a templomhajókban.",
                 "ro": "Bucurați-vă de liniște și de căldura blândă din interiorul bisericii.",
-                "en": "Enjoy the tranquility and the mild warmth inside the church nave."
+                "en": "Enjoy the tranquility and the mild warmth inside the church nave.",
+                "da": "Nyd roen og den milde varme inde i kirkeskibet."
               }
             },
             {
@@ -528,7 +567,8 @@
                 "de": "Die historischen Innenräume wirken im Winterlicht besonders gemütlich.",
                 "hu": "A történelmi belső terek a téli fényben különösen otthonosak.",
                 "ro": "Interioarele istorice par deosebit de primitoare în lumina iernii.",
-                "en": "The historic interiors feel especially cozy in the soft winter light."
+                "en": "The historic interiors feel especially cozy in the soft winter light.",
+                "da": "De historiske interiører føles særligt hyggelige i det bløde vinterlys."
               }
             },
             {
@@ -537,7 +577,8 @@
                 "de": "Planen Sie den Besuch vor 15:30 Uhr ein, um Tageslicht zu nutzen.",
                 "hu": "Tervezze a látogatást 15:30 előttre a természetes fény miatt.",
                 "ro": "Planificați vizita înainte de 15:30 pentru a profita de lumina zilei.",
-                "en": "Plan your visit before 3:30 PM to make the most of the natural daylight."
+                "en": "Plan your visit before 3:30 PM to make the most of the natural daylight.",
+                "da": "Planlæg dit besøg før kl. 15:30 for at få mest muligt ud af dagslyset."
               }
             },
             {
@@ -546,7 +587,8 @@
                 "de": "Ein stimmungsvoller Ort, wenn am frühen Nachmittag die Lichter brennen.",
                 "hu": "Hangulatos hely, amikor kora délután már kigyúlnak a benti fények.",
                 "ro": "Un loc plin de atmosferă când luminile sunt aprinse după-amiaza devreme.",
-                "en": "An atmospheric spot when the indoor lights are lit in the early afternoon."
+                "en": "An atmospheric spot when the indoor lights are lit in the early afternoon.",
+                "da": "Et stemningsfuldt sted når indendørslysene tændes tidligt på eftermiddagen."
               }
             },
             {
@@ -555,7 +597,8 @@
                 "de": "Warme Kleidung ist für den winterlichen Parkrundgang unerlässlich.",
                 "hu": "A téli parki sétához elengedhetetlen a réteges, meleg öltözet.",
                 "ro": "Îmbrăcămintea groasă este esențială pentru plimbarea prin parc iarna.",
-                "en": "Warm layers are essential for a winter stroll through the park."
+                "en": "Warm layers are essential for a winter stroll through the park.",
+                "da": "Varme lag er nødvendige til en vintergåtur i parken."
               }
             }
           ],
@@ -583,6 +626,12 @@
               "Use the midday hours for outdoor photos during the best lighting.",
               "Churches and museums are the best spots to warm up between stops.",
               "Warm drinks in a thermos are perfect for the winter park visit."
+            ],
+            "da": [
+              "Solen går ned før kl. 16:00 i december.",
+              "Brug middagstimerne til udendørsfotos i det bedste lys.",
+              "Kirker og museer er de bedste steder at få varmen mellem stop.",
+              "Varme drikke i en termoflaske er perfekte til vinterbesøget i parken."
             ]
           }
         }
@@ -601,7 +650,8 @@
             "de": "P. Nørkjærs Plads",
             "hu": "P. Nørkjærs Plads tér",
             "ro": "Piața P. Nørkjærs",
-            "en": "P. Nørkjærs Plads"
+            "en": "P. Nørkjærs Plads",
+            "da": "P. Nørkjærs Plads"
           },
           "coords": [
             9.981,
@@ -617,7 +667,8 @@
             "de": "Schließen Sie Ihr Fahrrad an und genießen Sie die Atmosphäre des Platzes.",
             "hu": "Zárja le a kerékpárját, és élvezze a tér hangulatát.",
             "ro": "Legați-vă bicicleta și bucurați-vă de atmosfera pieței.",
-            "en": "Lock up your bike and enjoy the atmosphere of the square."
+            "en": "Lock up your bike and enjoy the atmosphere of the square.",
+            "da": "Lås din cykel og nyd pladsens atmosfære."
           }
         },
         {
@@ -625,7 +676,8 @@
             "de": "Sankt Catharinæ Kirche",
             "hu": "Szent Katalin-templom",
             "ro": "Biserica Sf. Ecaterina",
-            "en": "St. Catharinæ Church"
+            "en": "St. Catharinæ Church",
+            "da": "Skt. Catharinæ Kirke"
           },
           "coords": [
             9.983,
@@ -641,7 +693,8 @@
             "de": "Die größte Kirche der Stadt ist ein kurzer Radausflug vom Zentrum entfernt.",
             "hu": "A város legnagyobb temploma csak egy rövid bicikliútra van a központtól.",
             "ro": "Cea mai mare biserică din oraș se află la o scurtă plimbare cu bicicleta de centru.",
-            "en": "The largest church in the city is a short bike ride from the center."
+            "en": "The largest church in the city is a short bike ride from the center.",
+            "da": "Byens største kirke ligger en kort cykeltur fra centrum."
           }
         },
         {
@@ -649,7 +702,8 @@
             "de": "Sankt Olai Kirche",
             "hu": "Szent Olaf-templom",
             "ro": "Biserica Sf. Olai",
-            "en": "St. Olai's Church"
+            "en": "St. Olai's Church",
+            "da": "Skt. Olai Kirke"
           },
           "coords": [
             9.985,
@@ -665,7 +719,8 @@
             "de": "Radeln Sie zur ältesten Kirche und bewundern Sie ihre schlichte Schönheit.",
             "hu": "Tekerjen el a legrégebbi templomhoz, és csodálja meg egyszerű szépségét.",
             "ro": "Pedalați până la cea mai veche biserică și admirați-i frumusețea simplă.",
-            "en": "Cycle to the oldest church and admire its simple beauty."
+            "en": "Cycle to the oldest church and admire its simple beauty.",
+            "da": "Cykel til den ældste kirke og nyd dens enkle skønhed."
           }
         },
         {
@@ -673,7 +728,8 @@
             "de": "Christiansgave Park",
             "hu": "Christiansgave park",
             "ro": "Parcul Christiansgave",
-            "en": "Christiansgave Park"
+            "en": "Christiansgave Park",
+            "da": "Christiansgave Park"
           },
           "coords": [
             9.975,
@@ -689,7 +745,8 @@
             "de": "Perfekt für eine Mittagspause. Es gibt viel Platz, um das Fahrrad abzustellen.",
             "hu": "Tökéletes egy ebédszünethez. Bőven van hely a kerékpár leállítására.",
             "ro": "Perfect pentru o pauză de prânz. Există mult spațiu pentru a parca bicicleta.",
-            "en": "Perfect for a lunch break. There's plenty of space to park your bike."
+            "en": "Perfect for a lunch break. There's plenty of space to park your bike.",
+            "da": "Perfekt til en frokostpause. Der er masser af plads til at parkere din cykel."
           }
         },
         {
@@ -697,7 +754,8 @@
             "de": "Vendsyssel Historisches Museum",
             "hu": "Vendsyssel Történeti Múzeum",
             "ro": "Muzeul de Istorie Vendsyssel",
-            "en": "Vendsyssel Historical Museum"
+            "en": "Vendsyssel Historical Museum",
+            "da": "Vendsyssel Historiske Museum"
           },
           "coords": [
             9.977,
@@ -713,7 +771,8 @@
             "de": "Lernen Sie die Gegend kennen, durch die Sie gerade radeln.",
             "hu": "Ismerje meg a környéket, ahol éppen kerékpározik.",
             "ro": "Aflați despre zona prin care pedalați.",
-            "en": "Learn about the area you're cycling through."
+            "en": "Learn about the area you're cycling through.",
+            "da": "Lær om området, du cykler igennem."
           }
         },
         {
@@ -721,7 +780,8 @@
             "de": "Vendsyssel Kunstmuseum",
             "hu": "Vendsyssel Művészeti Múzeum",
             "ro": "Muzeul de Artă Vendsyssel",
-            "en": "Vendsyssel Museum of Art"
+            "en": "Vendsyssel Museum of Art",
+            "da": "Vendsyssel Kunstmuseum"
           },
           "coords": [
             9.978,
@@ -737,7 +797,8 @@
             "de": "Ein kultureller Kontrapunkt zu Ihrer sportlichen Aktivität.",
             "hu": "Kulturális ellenpont a sportos tevékenységhez.",
             "ro": "Un contrapunct cultural la activitatea dumneavoastră sportivă.",
-            "en": "A cultural counterpoint to your sporty activity."
+            "en": "A cultural counterpoint to your sporty activity.",
+            "da": "Et kulturelt modspil til din aktive tur."
           }
         },
         {
@@ -745,7 +806,8 @@
             "de": "Metropol ShoppingCenter",
             "hu": "Metropol Bevásárlóközpont",
             "ro": "Centrul Comercial Metropol",
-            "en": "Metropol ShoppingCenter"
+            "en": "Metropol ShoppingCenter",
+            "da": "Metropol ShoppingCenter"
           },
           "coords": [
             9.988,
@@ -761,7 +823,8 @@
             "de": "Beenden Sie den Tag mit einem Einkaufsbummel oder einem Snack.",
             "hu": "Zárja a napot egy kis vásárlással vagy egy harapnivalóval.",
             "ro": "Încheiați ziua cu o sesiune de cumpărături sau o gustare.",
-            "en": "End the day with some shopping or a snack."
+            "en": "End the day with some shopping or a snack.",
+            "da": "Afslut dagen med shopping eller en snack."
           }
         }
       ],
@@ -769,7 +832,8 @@
         "de": "Schwingen Sie sich auf den Sattel für eine Erkundungstour durch Hjørring. Beginnen Sie am P. Nørkjærs Plads und radeln Sie am Vormittag zu den beiden bedeutenden Kirchen, Sankt Catharinæ und Sankt Olai. Gönnen Sie sich gegen Mittag eine ausgedehnte Pause im Christiansgave Park. Der Nachmittag steht im Zeichen der Kultur: Besuchen Sie die beiden Vendsyssel-Museen, bevor Sie Ihre Tour mit einem entspannten Einkaufsbummel im Metropol-Center abschließen.",
         "hu": "Pattanjon nyeregbe, és fedezze fel Hjørringet! Kezdjen a P. Nørkjærs Plads téren, majd délelőtt tekerjen el a két jelentős templomhoz, a Szent Katalinhoz és a Szent Olafhoz. Dél körül tartson egy hosszabb szünetet a Christiansgave parkban. A délután a kultúráé: látogasson el a két Vendsyssel Múzeumba, mielőtt a túrát egy laza vásárlással zárja a Metropol központban.",
         "ro": "Urcați-vă pe bicicletă pentru un tur de explorare a orașului Hjørring. Începeți din Piața P. Nørkjærs și pedalați dimineața către cele două biserici importante, Sf. Ecaterina și Sf. Olai. La prânz, acordați-vă o pauză extinsă în Parcul Christiansgave. După-amiaza este dedicată culturii: vizitați cele două muzee Vendsyssel înainte de a încheia turul cu o sesiune relaxantă de cumpărături la centrul Metropol.",
-        "en": "Hop on your bike for an exploratory tour of Hjørring. Start at P. Nørkjærs Plads and cycle in the morning to the two significant churches, St. Catharinæ and St. Olai. Around noon, treat yourself to an extended break in Christiansgave Park. The afternoon is dedicated to culture: visit the two Vendsyssel museums before concluding your tour with some relaxed shopping at the Metropol center."
+        "en": "Hop on your bike for an exploratory tour of Hjørring. Start at P. Nørkjærs Plads and cycle in the morning to the two significant churches, St. Catharinæ and St. Olai. Around noon, treat yourself to an extended break in Christiansgave Park. The afternoon is dedicated to culture: visit the two Vendsyssel museums before concluding your tour with some relaxed shopping at the Metropol center.",
+        "da": "Hop på din cykel til en opdagelsestur i Hjørring. Start ved P. Nørkjærs Plads og cykel om morgenen til de to betydningsfulde kirker, Skt. Catharinæ og Skt. Olai. Tag en lang pause i Christiansgave Park ved middagstid. Eftermiddagen er til kultur: besøg de to Vendsyssel-museer, før du afslutter turen med afslappet shopping i Metropol-centret."
       },
       "gastro_picks": {
         "de": [
@@ -965,6 +1029,12 @@
           "Use the bike racks available at many of the sights.",
           "A bike map is useful, but the city is small enough to navigate easily.",
           "Check your tire pressure before setting off."
+        ],
+        "da": [
+          "Hjørring er cykelvenlig, men pas på fodgængere i de smalle gyder i den gamle by.",
+          "Brug cykelstativerne, som findes ved mange af seværdighederne.",
+          "Et cykelkort er nyttigt, men byen er lille nok til at finde rundt uden problemer.",
+          "Tjek dit dæktryk inden afgang."
         ]
       },
       "variants": {
@@ -973,7 +1043,8 @@
             "de": "Trotz Regen ist Hjørring auf dem Rad gut befahrbar. Wir starten im Zentrum und nutzen die kurzen Wege zwischen den Kirchen. Den nassesten Teil des Mittags verbringen wir in den weitläufigen Museen. Ein schneller Abstecher zum Metropol ShoppingCenter am Nachmittag bietet nicht nur Einkaufsmöglichkeiten, sondern auch einen komplett trockenen Rückzugsort vor der Rückfahrt.",
             "hu": "Az eső ellenére Hjørring kerékpárral is jól felfedezhető. A központból indulunk, kihasználva a templomok közötti rövid távokat. A legesősebb déli órákat a múzeumok falai között töltjük. Egy délutáni kitérő a Metropol bevásárlóközpontba nemcsak vásárlást, hanem teljesen száraz pihenőt is kínál a visszaút előtt.",
             "ro": "În ciuda ploii, Hjørring este ușor de parcurs cu bicicleta. Începem în centru și profităm de distanțele scurte dintre biserici. Petrecem cea mai ploioasă parte a zilei în muzeele spațioase. O oprire la centrul comercial Metropol după-amiaza oferă nu doar cumpărături, ci și un refugiu complet uscat înainte de drumul de întoarcere.",
-            "en": "Despite the rain, Hjørring is very bikeable. We start in the center, utilizing the short distances between the churches. Spend the wettest midday hours inside the spacious museums. An afternoon detour to Metropol ShoppingCenter offers both retail therapy and a completely dry refuge before your ride back."
+            "en": "Despite the rain, Hjørring is very bikeable. We start in the center, utilizing the short distances between the churches. Spend the wettest midday hours inside the spacious museums. An afternoon detour to Metropol ShoppingCenter offers both retail therapy and a completely dry refuge before your ride back.",
+            "da": "På trods af regnen er Hjørring meget cykelvenlig. Vi starter i centrum og udnytter de korte afstande mellem kirkerne. Brug de vådeste middags­timer inde i de rummelige museer. En eftermiddagstur til Metropol ShoppingCenter giver både shopping og et helt tørt fristed inden hjemturen."
           },
           "stops": [
             {
@@ -982,7 +1053,8 @@
                 "de": "Vorsicht beim Abbiegen auf nassen Pflastersteinen.",
                 "hu": "Óvatosan kanyarodjon a nedves díszburkolaton.",
                 "ro": "Atenție la viraje pe pavajul umed.",
-                "en": "Be careful when turning on wet paving stones."
+                "en": "Be careful when turning on wet paving stones.",
+                "da": "Vær forsigtig, når du drejer på våde brosten."
               }
             },
             {
@@ -991,7 +1063,8 @@
                 "de": "Überdachte Fahrradständer befinden sich oft in der Nähe.",
                 "hu": "Fedett kerékpártárolók gyakran találhatók a közelben.",
                 "ro": "Suporturi de biciclete acoperite se află adesea în apropiere.",
-                "en": "Covered bike racks are often located nearby."
+                "en": "Covered bike racks are often located nearby.",
+                "da": "Overdækkede cykelstativer findes ofte i nærheden."
               }
             },
             {
@@ -1000,7 +1073,8 @@
                 "de": "Kurzer Stopp, um die Regenkleidung zu richten.",
                 "hu": "Rövid megálló az esőruházat igazítására.",
                 "ro": "Oprire scurtă pentru a ajusta echipamentul de ploaie.",
-                "en": "Short stop to adjust your rain gear."
+                "en": "Short stop to adjust your rain gear.",
+                "da": "Kort stop for at justere dit regntøj."
               }
             },
             {
@@ -1009,7 +1083,8 @@
                 "de": "Die asphaltierten Wege im Park sind bei Regen gut befahrbar.",
                 "hu": "A park aszfaltozott útjai esőben is jól tekerhetők.",
                 "ro": "Aleile asfaltate din parc sunt bune pentru ciclism și pe ploaie.",
-                "en": "The paved paths in the park remain easy to cycle on in the rain."
+                "en": "The paved paths in the park remain easy to cycle on in the rain.",
+                "da": "De belagte stier i parken er stadig lette at cykle på i regnvejr."
               }
             },
             {
@@ -1018,7 +1093,8 @@
                 "de": "Sicheres Abstellen der Räder am Museumseingang.",
                 "hu": "Biztonságos kerékpárparkoló a múzeum bejáratánál.",
                 "ro": "Parcare sigură pentru biciclete la intrarea în muzeu.",
-                "en": "Secure bike parking available at the museum entrance."
+                "en": "Secure bike parking available at the museum entrance.",
+                "da": "Sikret cykelparkering ved museumets indgang."
               }
             },
             {
@@ -1027,7 +1103,8 @@
                 "de": "Ideal, um das Rad für eine längere Zeit trocken zu lassen.",
                 "hu": "Ideális hely a bicikli hosszabb ideig tartó leállítására.",
                 "ro": "Loc ideal pentru a lăsa bicicleta pentru o perioadă mai lungă.",
-                "en": "Ideal spot to leave your bike for a longer indoor visit."
+                "en": "Ideal spot to leave your bike for a longer indoor visit.",
+                "da": "Ideelt sted at lade cyklen, hvis du skal indendørs længe."
               }
             },
             {
@@ -1036,7 +1113,8 @@
                 "de": "Nutzen Sie das Parkhaus für einen komplett trockenen Stopp.",
                 "hu": "Használja a parkolóházat a teljesen száraz megállóhoz.",
                 "ro": "Folosiți parcarea acoperită pentru o oprire complet uscată.",
-                "en": "Use the covered parking for a completely dry stop."
+                "en": "Use the covered parking for a completely dry stop.",
+                "da": "Brug den overdækkede parkering for et helt tørt ophold."
               }
             }
           ],
@@ -1064,6 +1142,12 @@
               "Check your brakes, as stopping distances are longer on wet roads.",
               "Avoid riding directly over wet road markings or metal grates.",
               "Utilize the Metropol mall for a warm and dry coffee break."
+            ],
+            "da": [
+              "Bær vandtætte regnbukser over dit almindelige tøj.",
+              "Tjek dine bremser, da bremselængden er længere på våde veje.",
+              "Undgå at køre direkte over våde vejstriber eller metalrist.",
+              "Brug Metropol-centret til en varm og tør kaffepause."
             ]
           }
         },
@@ -1072,7 +1156,8 @@
             "de": "Radfahren im Winter erfordert in Hjørring Vorsicht, bietet aber klare Luft und ruhige Wege. Der Vormittag führt durch das frostige Zentrum zu den Kirchen. Mittags pausieren wir im Museumsviertel, wo die Räder sicher geparkt sind. Vor dem frühen Einbruch der Dunkelheit radeln wir durch den Park und beenden die Tour im warmen Metropol ShoppingCenter.",
             "hu": "A téli kerékpározás Hjørringben óvatosságot igényel, de friss levegőt és csendes utakat kínál. A délelőtt a fagyos központon és a templomokon át vezet. Délben a múzeumi negyedben pihenünk, ahol biztonságos a parkolás. A korai sötétedés előtt áttekerünk a parkon, majd a túrát a meleg Metropol központban zárjuk.",
             "ro": "Ciclismul de iarnă în Hjørring necesită prudență, dar oferă aer curat și drumuri libere. Dimineața trece prin centrul înghețat spre biserici. La prânz luăm o pauză în cartierul muzeelor. Înainte de lăsarea serii, pedalăm prin parc și încheiem turul în centrul comercial Metropol.",
-            "en": "Winter cycling in Hjørring requires caution but rewards you with crisp air and quiet paths. The morning route takes you through the frosty center to the churches. Take a midday break in the museum quarter. Before the early sunset, cycle through the park and finish your tour at the warm Metropol ShoppingCenter."
+            "en": "Winter cycling in Hjørring requires caution but rewards you with crisp air and quiet paths. The morning route takes you through the frosty center to the churches. Take a midday break in the museum quarter. Before the early sunset, cycle through the park and finish your tour at the warm Metropol ShoppingCenter.",
+            "da": "Vintercykling i Hjørring kræver forsigtighed, men belønner dig med frisk luft og stille stier. Morgenruten fører gennem det frostklare centrum til kirkerne. Tag en middagspause i museumskvarteret. Før den tidlige solnedgang, cykl gennem parken og afslut turen ved det varme Metropol ShoppingCenter."
           },
           "stops": [
             {
@@ -1081,7 +1166,8 @@
                 "de": "Vorsicht bei Kurvenfahrten auf eventuell vereisten Stellen.",
                 "hu": "Óvatosan kanyarodjon az esetlegesen jeges részeken.",
                 "ro": "Atenție la viraje pe porțiunile care pot fi înghețate.",
-                "en": "Be cautious when turning on potentially icy spots."
+                "en": "Be cautious when turning on potentially icy spots.",
+                "da": "Vær forsigtig, når du drejer på mulige ispletter."
               }
             },
             {
@@ -1090,7 +1176,8 @@
                 "de": "Kurze Aufwärmpause im Inneren ist sehr zu empfehlen.",
                 "hu": "Nagyon ajánlott egy rövid benti felmelegedő szünet.",
                 "ro": "O scurtă pauză de încălzire în interior este recomandată.",
-                "en": "A quick warm-up break inside is highly recommended."
+                "en": "A quick warm-up break inside is highly recommended.",
+                "da": "Et hurtigt opvarmningsstop indendørs anbefales kraftigt."
               }
             },
             {
@@ -1099,7 +1186,8 @@
                 "de": "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert.",
                 "hu": "Győződjön meg róla, hogy a kerékpáros világítás működik.",
                 "ro": "Asigurați-vă că luminile bicicletei funcționează corect.",
-                "en": "Ensure your bike lights are functioning properly."
+                "en": "Ensure your bike lights are functioning properly.",
+                "da": "Sørg for, at dine cykellygter virker korrekt."
               }
             },
             {
@@ -1108,7 +1196,8 @@
                 "de": "Halten Sie Ausschau nach Streusalz oder Splitt auf den Wegen.",
                 "hu": "Figyelje az utakon lévő szóró sót vagy zúzalékot.",
                 "ro": "Fiți atenți la sarea sau nisipul de pe alei.",
-                "en": "Watch out for road salt or grit on the park paths."
+                "en": "Watch out for road salt or grit on the park paths.",
+                "da": "Pas på vej­salt eller grus på parkstierne."
               }
             },
             {
@@ -1117,7 +1206,8 @@
                 "de": "Die dicken Mauern halten die Kälte draußen.",
                 "hu": "A vastag falak jól kint tartják a téli hideget.",
                 "ro": "Zidurile groase țin frigul afară în mod eficient.",
-                "en": "The thick walls keep the winter cold out effectively."
+                "en": "The thick walls keep the winter cold out effectively.",
+                "da": "De tykke mure holder vinterkulden effektivt ude."
               }
             },
             {
@@ -1126,7 +1216,8 @@
                 "de": "Ein großzügiger Ort zum Aufwärmen vor der letzten Etappe.",
                 "hu": "Tágas hely a felmelegedésre az utolsó szakasz előtt.",
                 "ro": "Un loc spațios pentru încălzire înainte de ultima etapă.",
-                "en": "A spacious place to warm up before the final leg of the trip."
+                "en": "A spacious place to warm up before the final leg of the trip.",
+                "da": "Et rummeligt sted at varme sig op inden sidste etape af turen."
               }
             },
             {
@@ -1135,7 +1226,8 @@
                 "de": "Der ideale Ort, um die Tour im Warmen ausklingen zu lassen.",
                 "hu": "Ideális hely a túra melegben való befejezéséhez.",
                 "ro": "Locul ideal pentru a încheia turul la căldură.",
-                "en": "The ideal place to wrap up your tour in the warmth."
+                "en": "The ideal place to wrap up your tour in the warmth.",
+                "da": "Det ideelle sted at afslutte din tur i varme omgivelser."
               }
             }
           ],
@@ -1163,6 +1255,12 @@
               "Watch out for black ice, especially on bridges and shaded areas.",
               "Cycle paths in Denmark are usually cleared of snow quickly.",
               "Allow extra time for travel to avoid rushing on slippery surfaces."
+            ],
+            "da": [
+              "Varme handsker og en vind­bestandig jakke er påkrævet.",
+              "Pas på sort is, især på broer og i skyggefulde områder.",
+              "Cykelstier i Danmark ryddes som regel hurtigt for sne.",
+              "Afsæt ekstra tid for ikke at skynde dig på glatte flader."
             ]
           }
         }
@@ -1181,7 +1279,8 @@
             "de": "Parkplatz Zentrum",
             "hu": "Központi parkoló",
             "ro": "Parcare centrală",
-            "en": "City Center Parking"
+            "en": "City Center Parking",
+            "da": "City Center Parking"
           },
           "coords": [
             9.982,
@@ -1197,7 +1296,8 @@
             "de": "Parken Sie hier für den ersten Teil des Tages.",
             "hu": "Parkoljon itt a nap első részére.",
             "ro": "Parcați aici pentru prima parte a zilei.",
-            "en": "Park here for the first part of the day."
+            "en": "Park here for the first part of the day.",
+            "da": "Parkér her til den første del af dagen."
           }
         },
         {
@@ -1205,7 +1305,8 @@
             "de": "P. Nørkjærs Plads & Springvandet",
             "hu": "P. Nørkjærs Plads és a Springvandet",
             "ro": "Piața P. Nørkjærs & Fântâna",
-            "en": "P. Nørkjærs Plads & Springvandet"
+            "en": "P. Nørkjærs Plads & Springvandet",
+            "da": "P. Nørkjærs Plads & Springvandet"
           },
           "coords": [
             9.981,
@@ -1221,7 +1322,8 @@
             "de": "Erkunden Sie den Hauptplatz und seine Umgebung zu Fuß.",
             "hu": "Fedezze fel gyalog a főteret és környékét.",
             "ro": "Explorați piața principală și împrejurimile sale pe jos.",
-            "en": "Explore the main square and its surroundings on foot."
+            "en": "Explore the main square and its surroundings on foot.",
+            "da": "Udforsk hovedpladsen og dens omgivelser til fods."
           }
         },
         {
@@ -1229,7 +1331,8 @@
             "de": "Sankt Catharinæ Kirche",
             "hu": "Szent Katalin-templom",
             "ro": "Biserica Sf. Ecaterina",
-            "en": "St. Catharinæ Church"
+            "en": "St. Catharinæ Church",
+            "da": "St. Catharinæ Church"
           },
           "coords": [
             9.983,
@@ -1245,7 +1348,8 @@
             "de": "Nur ein kurzer Spaziergang vom Platz entfernt.",
             "hu": "Csak egy rövid séta a tértől.",
             "ro": "La doar o scurtă plimbare de piață.",
-            "en": "Just a short walk from the square."
+            "en": "Just a short walk from the square.",
+            "da": "Kun en kort gåtur fra pladsen."
           }
         },
         {
@@ -1253,7 +1357,8 @@
             "de": "Parkplatz Museumsviertel",
             "hu": "Múzeumi negyed parkolója",
             "ro": "Parcare Cartierul Muzeelor",
-            "en": "Museum Quarter Parking"
+            "en": "Museum Quarter Parking",
+            "da": "Museum Quarter Parking"
           },
           "coords": [
             9.976,
@@ -1269,7 +1374,8 @@
             "de": "Fahren Sie zum nächsten Cluster und parken Sie erneut.",
             "hu": "Hajtson a következő csoporthoz, és parkoljon le újra.",
             "ro": "Conduceți la următorul cluster și parcați din nou.",
-            "en": "Drive to the next cluster and park again."
+            "en": "Drive to the next cluster and park again.",
+            "da": "Kør til næste klynge og parkér igen."
           }
         },
         {
@@ -1277,7 +1383,8 @@
             "de": "Vendsyssel Kunst- & Geschichtsmuseum",
             "hu": "Vendsyssel Művészeti és Történeti Múzeum",
             "ro": "Muzeul de Artă și Istorie Vendsyssel",
-            "en": "Vendsyssel Art & History Museum"
+            "en": "Vendsyssel Art & History Museum",
+            "da": "Vendsyssel Art & History Museum"
           },
           "coords": [
             9.9775,
@@ -1293,7 +1400,8 @@
             "de": "Die beiden Museen liegen nebeneinander, planen Sie genügend Zeit ein.",
             "hu": "A két múzeum egymás mellett található, tervezzen elegendő időt a látogatásra.",
             "ro": "Cele două muzee sunt unul lângă altul, planificați-vă suficient timp.",
-            "en": "The two museums are next to each other, so plan enough time."
+            "en": "The two museums are next to each other, so plan enough time.",
+            "da": "De to museer ligger ved siden af hinanden, så planlæg god tid."
           }
         },
         {
@@ -1301,7 +1409,8 @@
             "de": "Christiansgave Park",
             "hu": "Christiansgave park",
             "ro": "Parcul Christiansgave",
-            "en": "Christiansgave Park"
+            "en": "Christiansgave Park",
+            "da": "Christiansgave Park"
           },
           "coords": [
             9.975,
@@ -1317,7 +1426,8 @@
             "de": "Ein entspannender Spaziergang nach dem Museumsbesuch.",
             "hu": "Egy pihentető séta a múzeumlátogatás után.",
             "ro": "O plimbare relaxantă după vizita la muzeu.",
-            "en": "A relaxing walk after the museum visit."
+            "en": "A relaxing walk after the museum visit.",
+            "da": "En afslappende gåtur efter museumsbesøget."
           }
         }
       ],
@@ -1325,7 +1435,8 @@
         "de": "Dieser auto-optimierte Tag teilt Hjørring in zwei begehbare Cluster. Parken Sie am Morgen im Zentrum, um den P. Nørkjærs Plads und die Sankt Catharinæ Kirche zu Fuß zu erkunden. Gegen Mittag fahren Sie zum Museumsviertel. Dort parken Sie erneut und widmen den Nachmittag den beiden Vendsyssel-Museen und einem ausgedehnten, entspannenden Spaziergang im angrenzenden Christiansgave Park. Diese Methode kombiniert den Komfort des Autos mit dem Vergnügen des Entdeckens zu Fuß.",
         "hu": "Ez az autóra optimalizált nap két gyalogosan bejárható részre osztja Hjørringet. Reggel parkoljon le a központban, hogy gyalog fedezze fel a P. Nørkjærs Plads teret és a Szent Katalin-templomot. Dél körül hajtson át a múzeumi negyedbe. Itt parkoljon le újra, és szentelje a délutánt a két Vendsyssel Múzeumnak és egy hosszú, pihentető sétának a szomszédos Christiansgave parkban. Ez a módszer ötvözi az autó kényelmét a gyalogos felfedezés örömével.",
         "ro": "Această zi optimizată pentru mașină împarte Hjørring în două clustere pietonale. Dimineața, parcați în centru pentru a explora pe jos Piața P. Nørkjærs și Biserica Sf. Ecaterina. La prânz, conduceți către cartierul muzeelor. Parcați din nou acolo și dedicați după-amiaza celor două muzee Vendsyssel și unei plimbări lungi și relaxante în Parcul Christiansgave adiacent. Această metodă combină confortul mașinii cu plăcerea explorării pe jos.",
-        "en": "This car-optimized day divides Hjørring into two walkable clusters. In the morning, park in the center to explore P. Nørkjærs Plads and St. Catharinæ Church on foot. Around noon, drive to the museum quarter. Park there again and dedicate the afternoon to the two Vendsyssel museums and a long, relaxing walk in the adjacent Christiansgave Park. This method combines the convenience of a car with the pleasure of discovery on foot."
+        "en": "This car-optimized day divides Hjørring into two walkable clusters. In the morning, park in the center to explore P. Nørkjærs Plads and St. Catharinæ Church on foot. Around noon, drive to the museum quarter. Park there again and dedicate the afternoon to the two Vendsyssel museums and a long, relaxing walk in the adjacent Christiansgave Park. This method combines the convenience of a car with the pleasure of discovery on foot.",
+        "da": "Denne bilvenlige dag deler Hjørring i to gåvenlige klynger. Om morgenen parkerer du i centrum for at udforske P. Nørkjærs Plads og St. Catharinæ Church til fods. Omkring middag kører du til museumskvarteret. Parkér igen og tilbring eftermiddagen på de to Vendsyssel-museer og en lang, afslappende gåtur i tilstødende Christiansgave Park. Denne metode kombinerer bilens bekvemmelighed med glæden ved at opdage til fods."
       },
       "gastro_picks": {
         "de": [
@@ -1521,6 +1632,12 @@
           "Do not leave valuables in the car, especially in public parking lots.",
           "The cluster method works best in good weather.",
           "Plan some buffer time for finding a parking spot."
+        ],
+        "da": [
+          "Vær opmærksom på parkeringsafgifter i centrum; der er ofte tidsbegrænsning.",
+          "Læg ikke værdigenstande i bilen, især ikke på offentlige parkeringspladser.",
+          "Klynge-metoden fungerer bedst i godt vejr.",
+          "Planlæg lidt buffer­tid til at finde en parkeringsplads."
         ]
       },
       "variants": {
@@ -1529,7 +1646,8 @@
             "de": "Mit dem Auto ist Hjørring bei Regen besonders komfortabel. Wir parken zentral und erkunden die Plätze unter dem Schirm. Den Mittag verbringen wir im Museumsviertel, wo Kunst und Geschichte direkt nebeneinander liegen. Der Nachmittag bietet Flexibilität für den Parkbesuch, wobei das Auto stets ein trockenes Basislager bleibt.",
             "hu": "Autóval Hjørring esőben is kényelmesen bejárható. Központilag parkolunk, és esernyővel fedezzük fel a tereket. A déli órákat a múzeumi negyedben töltjük, ahol a művészet és történelem egymás mellett vár. A délután rugalmas parklátogatást tesz lehetővé, az autó pedig száraz bázisként szolgál.",
             "ro": "Cu mașina, Hjørring este foarte confortabil pe ploaie. Parcăm central și explorăm piețele cu umbrela. Petrecem amiaza în cartierul muzeelor, unde arta și istoria sunt vecine. După-amiaza oferă flexibilitate pentru vizitarea parcului, mașina fiind un punct de sprijin uscat.",
-            "en": "By car, Hjørring is very comfortable even in the rain. Park centrally and explore the squares under an umbrella. Spend midday in the museum quarter where art and history are conveniently adjacent. The afternoon offers flexibility for a park visit, with the car serving as your dry base."
+            "en": "By car, Hjørring is very comfortable even in the rain. Park centrally and explore the squares under an umbrella. Spend midday in the museum quarter where art and history are conveniently adjacent. The afternoon offers flexibility for a park visit, with the car serving as your dry base.",
+            "da": "I bil er Hjørring meget behagelig selv i regnvejr. Parkér centralt og udforsk pladserne under en paraply. Brug middagstimerne i museumskvarteret, hvor kunst og historie ligger praktisk tæt. Eftermiddagen giver fleksibilitet til et parkbesøg, med bilen som dit tørre udgangspunkt."
           },
           "stops": [
             {
@@ -1538,7 +1656,8 @@
                 "de": "Zentraler Startpunkt mit kurzen Wegen zu den Geschäften.",
                 "hu": "Központi indulópont rövid sétára az üzletektől.",
                 "ro": "Punct central de pornire, aproape de magazine.",
-                "en": "Central starting point within short walking distance to shops."
+                "en": "Central starting point within short walking distance to shops.",
+                "da": "Centralt udgangspunkt inden for kort gåafstand til butikker."
               }
             },
             {
@@ -1547,7 +1666,8 @@
                 "de": "Kurzer Fußweg vom Parkplatz, Schirm bereit halten.",
                 "hu": "Rövid séta a parkolótól, tartsa készenlétben az esernyőt.",
                 "ro": "Scurtă plimbare de la parcare; țineți umbrela la îndemână.",
-                "en": "Short walk from the parking lot; keep your umbrella ready."
+                "en": "Short walk from the parking lot; keep your umbrella ready.",
+                "da": "Kort gåtur fra parkeringspladsen; hav din paraply klar."
               }
             },
             {
@@ -1556,7 +1676,8 @@
                 "de": "Parkplätze sind oft direkt an der Kirche verfügbar.",
                 "hu": "Parkolóhelyek gyakran közvetlenül a templomnál is találhatók.",
                 "ro": "Locuri de parcare sunt adesea disponibile chiar lângă biserică.",
-                "en": "Parking spaces are often available directly by the church."
+                "en": "Parking spaces are often available directly by the church.",
+                "da": "Parkeringspladser findes ofte direkte ved kirken."
               }
             },
             {
@@ -1565,7 +1686,8 @@
                 "de": "Idealer Stellplatz für den gesamten Nachmittag.",
                 "hu": "Ideális parkolóhely az egész délutánra.",
                 "ro": "Loc de parcare ideal pentru întreaga după-amiază.",
-                "en": "Ideal parking spot for the entire afternoon visit."
+                "en": "Ideal parking spot for the entire afternoon visit.",
+                "da": "Ideel parkeringsplads til hele eftermiddagsbesøget."
               }
             },
             {
@@ -1574,7 +1696,8 @@
                 "de": "Beide Museen sind nur wenige Schritte voneinander entfernt.",
                 "hu": "A két múzeum csak pár lépésre van egymástól.",
                 "ro": "Ambele muzee sunt la doar câțiva pași distanță.",
-                "en": "Both museums are just a few steps away from each other."
+                "en": "Both museums are just a few steps away from each other.",
+                "da": "Begge museer ligger kun få skridt fra hinanden."
               }
             },
             {
@@ -1583,7 +1706,8 @@
                 "de": "Parken Sie am Rand für einen schnellen Zugang zum Grün.",
                 "hu": "Parkoljon a szélen a gyors kijutáshoz a zöldbe.",
                 "ro": "Parcați la margine pentru acces rapid la zona verde.",
-                "en": "Park near the edge for quick access to the greenery."
+                "en": "Park near the edge for quick access to the greenery.",
+                "da": "Parkér nær kanten for hurtig adgang til grønne områder."
               }
             }
           ],
@@ -1611,6 +1735,12 @@
               "Keep wet umbrellas in the trunk to keep the seats dry.",
               "Visibility can be limited during heavy rain; drive carefully.",
               "Distances are short, but parking areas are well-signposted."
+            ],
+            "da": [
+              "Brug parkeringsapps for at undgå betaling ved automater i regnvejr.",
+              "Hold våde paraplyer i bagagerummet for at holde sæderne tørre.",
+              "Sigten kan være begrænset under kraftig regn; kør forsigtigt.",
+              "Afstandene er korte, men parkeringsområderne er godt skiltede."
             ]
           }
         },
@@ -1619,7 +1749,8 @@
             "de": "Wintertouren mit dem Auto bieten in Hjørring maximale Wärme zwischen den Stopps. Wir beginnen am zentralen Parkplatz und besuchen die festlich beleuchteten Plätze. Mittags genießen wir die Ausstellungen im Museumsviertel, bevor wir den Tag mit einer Fahrt am Christiansgave Park und einem gemütlichen Abendessen ausklingen lassen.",
             "hu": "A téli autós túrák Hjørringben maximális meleget kínálnak a megállók között. A központi parkolóból indulunk, és megnézzük az ünnepi díszben úszó tereket. Délben a múzeumi negyed kiállításait élvezzük, majd a napot a park melletti kocsikázással és vacsorával zárjuk.",
             "ro": "Tururile de iarnă cu mașina oferă în Hjørring căldură maximă între opriri. Începem de la parcarea centrală și vizităm piețele iluminate festiv. La prânz ne bucurăm de expozițiile din cartierul muzeelor, apoi încheiem ziua cu o trecere pe lângă parcul Christiansgave.",
-            "en": "Winter car tours in Hjørring provide maximum warmth between stops. Start at the central parking lot and visit the festively lit squares. Enjoy the museum quarter exhibitions at midday, then conclude the day with a drive by Christiansgave Park and a cozy dinner."
+            "en": "Winter car tours in Hjørring provide maximum warmth between stops. Start at the central parking lot and visit the festively lit squares. Enjoy the museum quarter exhibitions at midday, then conclude the day with a drive by Christiansgave Park and a cozy dinner.",
+            "da": "Vinterbilture i Hjørring giver maksimal varme mellem stop. Start ved den centrale parkeringsplads og besøg de festligt oplyste pladser. Nyd museumskvarterets udstillinger ved middagstid, og afslut dagen med en tur forbi Christiansgave Park og en hyggelig middag."
           },
           "stops": [
             {
@@ -1628,7 +1759,8 @@
                 "de": "Oft gut geräumt und gestreut, direkter Zugang zur Fußgängerzone.",
                 "hu": "Gyakran jól takarított és sózott, közvetlen út a sétálóutcához.",
                 "ro": "Adesea bine curățată, acces direct la zona pietonală.",
-                "en": "Usually well-cleared and gritted, with direct access to the pedestrian zone."
+                "en": "Usually well-cleared and gritted, with direct access to the pedestrian zone.",
+                "da": "Normalt godt ryddet og gruset med direkte adgang til gågaden."
               }
             },
             {
@@ -1637,7 +1769,8 @@
                 "de": "Die Beleuchtung wirkt im Winter besonders einladend.",
                 "hu": "A világítás télen különösen hívogató látványt nyújt.",
                 "ro": "Iluminatul pare deosebit de primitor în timpul iernii.",
-                "en": "The lighting looks especially inviting during the winter months."
+                "en": "The lighting looks especially inviting during the winter months.",
+                "da": "Belysningen virker særligt indbydende i vintermånederne."
               }
             },
             {
@@ -1646,7 +1779,8 @@
                 "de": "Ein warmer Ort für eine besinnliche Pause.",
                 "hu": "Meleg hely egy meghitt téli szünethez.",
                 "ro": "Un loc cald pentru o pauză liniștită.",
-                "en": "A warm spot for a contemplative winter break."
+                "en": "A warm spot for a contemplative winter break.",
+                "da": "Et varmt sted til en eftertænksom vinterpause."
               }
             },
             {
@@ -1655,7 +1789,8 @@
                 "de": "Kurze Wege minimieren die Zeit in der Kälte.",
                 "hu": "A rövid távok minimalizálják a hidegben töltött időt.",
                 "ro": "Distanțele scurte minimizează timpul petrecut în frig.",
-                "en": "Short distances minimize the time spent out in the cold."
+                "en": "Short distances minimize the time spent out in the cold.",
+                "da": "Korte afstande minimerer tiden ude i kulden."
               }
             },
             {
@@ -1664,7 +1799,8 @@
                 "de": "Großartige Indoor-Aktivität für kalte Nachmittage.",
                 "hu": "Nagyszerű beltéri program hideg délutánokra.",
                 "ro": "O activitate excelentă în interior pentru după-amiezi reci.",
-                "en": "A great indoor activity for cold winter afternoons."
+                "en": "A great indoor activity for cold winter afternoons.",
+                "da": "En fremragende indendørs aktivitet på kolde vintereftermiddage."
               }
             },
             {
@@ -1673,7 +1809,8 @@
                 "de": "Die Parkalleen sind bei Schnee ein beliebtes Fotomotiv.",
                 "hu": "A park sétányai hóban népszerű fotótémák.",
                 "ro": "Aleile parcului sunt un subiect foto popular când este zăpadă.",
-                "en": "The park avenues are a popular photo subject in the snow."
+                "en": "The park avenues are a popular photo subject in the snow.",
+                "da": "Parkens allé er et populært fotomotiv i sneen."
               }
             }
           ],
@@ -1701,6 +1838,12 @@
               "Watch out for potential parking restrictions during snow removal.",
               "Avoid sudden maneuvers in parking lots that might be icy.",
               "Utilize seat heaters for extra comfort between destinations."
+            ],
+            "da": [
+              "Sørg for, at din bil er korrekt udrustet til vinterforhold.",
+              "Pas på potentielle parkeringsrestriktioner under snerydning.",
+              "Undgå pludselige manøvrer på parkeringspladser, der kan være isede.",
+              "Brug sædevarme for ekstra komfort mellem destinationerne."
             ]
           }
         }
@@ -1719,7 +1862,8 @@
             "de": "Ankunft am Busbahnhof",
             "hu": "Érkezés a buszpályaudvarra",
             "ro": "Sosire la autogară",
-            "en": "Arrival at the bus station"
+            "en": "Arrival at the bus station",
+            "da": "Ankomst til bustationen"
           },
           "coords": [
             9.989,
@@ -1735,7 +1879,8 @@
             "de": "Kaufen Sie eine Tageskarte für uneingeschränkte Fahrten.",
             "hu": "Vásároljon napijegyet a korlátlan utazáshoz.",
             "ro": "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
-            "en": "Buy a day ticket for unlimited travel."
+            "en": "Buy a day ticket for unlimited travel.",
+            "da": "Køb et dagkort til ubegrænset rejse."
           }
         },
         {
@@ -1743,7 +1888,8 @@
             "de": "P. Nørkjærs Plads",
             "hu": "P. Nørkjærs Plads tér",
             "ro": "Piața P. Nørkjærs",
-            "en": "P. Nørkjærs Plads"
+            "en": "P. Nørkjærs Plads",
+            "da": "P. Nørkjærs Plads"
           },
           "coords": [
             9.981,
@@ -1759,7 +1905,8 @@
             "de": "Der Platz ist das pulsierende Herz der Stadt.",
             "hu": "A tér a város lüktető szíve.",
             "ro": "Piața este inima vibrantă a orașului.",
-            "en": "The square is the vibrant heart of the city."
+            "en": "The square is the vibrant heart of the city.",
+            "da": "Pladsen er byens pulserende hjerte."
           }
         },
         {
@@ -1767,7 +1914,8 @@
             "de": "Sankt Catharinæ & Sankt Olai Kirchen",
             "hu": "Szent Katalin és Szent Olaf templomok",
             "ro": "Bisericile Sf. Ecaterina și Sf. Olai",
-            "en": "St. Catharinæ & St. Olai Churches"
+            "en": "St. Catharinæ & St. Olai Churches",
+            "da": "St. Catharinæ & St. Olai Churches"
           },
           "coords": [
             9.984,
@@ -1783,7 +1931,8 @@
             "de": "Erkunden Sie die beiden Hauptkirchen, die nur einen kurzen Spaziergang voneinander entfernt sind.",
             "hu": "Fedezze fel a két fő templomot, amelyek csak egy rövid sétára vannak egymástól.",
             "ro": "Explorați cele două biserici principale, la o scurtă plimbare una de cealaltă.",
-            "en": "Explore the two main churches, which are a short walk from each other."
+            "en": "Explore the two main churches, which are a short walk from each other.",
+            "da": "Udforsk de to hovedkirker, som ligger en kort gåtur fra hinanden."
           }
         },
         {
@@ -1791,7 +1940,8 @@
             "de": "Fahrt zum Museumsviertel",
             "hu": "Utazás a múzeumi negyedbe",
             "ro": "Călătorie spre Cartierul Muzeelor",
-            "en": "Trip to the Museum Quarter"
+            "en": "Trip to the Museum Quarter",
+            "da": "Turen til museumskvarteret"
           },
           "coords": [
             9.976,
@@ -1807,7 +1957,8 @@
             "de": "Nehmen Sie einen lokalen Bus für die kurze Fahrt.",
             "hu": "Vegyen egy helyi buszt a rövid útra.",
             "ro": "Luați un autobuz local pentru călătoria scurtă.",
-            "en": "Take a local bus for the short ride."
+            "en": "Take a local bus for the short ride.",
+            "da": "Tag en lokalbus på den korte tur."
           }
         },
         {
@@ -1815,7 +1966,8 @@
             "de": "Vendsyssel Kunst- & Geschichtsmuseum",
             "hu": "Vendsyssel Művészeti és Történeti Múzeum",
             "ro": "Muzeul de Artă și Istorie Vendsyssel",
-            "en": "Vendsyssel Art & History Museum"
+            "en": "Vendsyssel Art & History Museum",
+            "da": "Vendsyssel Art & History Museum"
           },
           "coords": [
             9.9775,
@@ -1831,7 +1983,8 @@
             "de": "Genießen Sie einen langen Nachmittag inmitten von Kunst und Geschichte.",
             "hu": "Élvezze a hosszú délutánt a művészet és a történelem közepette.",
             "ro": "Bucurați-vă de o după-amiază lungă în mijlocul artei și istoriei.",
-            "en": "Enjoy a long afternoon amidst art and history."
+            "en": "Enjoy a long afternoon amidst art and history.",
+            "da": "Nyd en lang eftermiddag blandt kunst og historie."
           }
         },
         {
@@ -1839,7 +1992,8 @@
             "de": "Christiansgave Park",
             "hu": "Christiansgave park",
             "ro": "Parcul Christiansgave",
-            "en": "Christiansgave Park"
+            "en": "Christiansgave Park",
+            "da": "Christiansgave Park"
           },
           "coords": [
             9.975,
@@ -1855,7 +2009,8 @@
             "de": "Der perfekte Ort, um den Tag ausklingen zu lassen, bevor Sie den Bus zurück nehmen.",
             "hu": "Tökéletes hely a nap befejezéséhez, mielőtt visszamenne a busszal.",
             "ro": "Locul perfect pentru a încheia ziua înainte de a lua autobuzul înapoi.",
-            "en": "The perfect place to end the day before taking the bus back."
+            "en": "The perfect place to end the day before taking the bus back.",
+            "da": "Det perfekte sted at slutte dagen, inden du tager bussen tilbage."
           }
         }
       ],
@@ -1863,7 +2018,8 @@
         "de": "Entdecken Sie Hjørring bequem mit öffentlichen Verkehrsmitteln. Beginnen Sie am zentralen Busbahnhof und spazieren Sie am Vormittag zum P. Nørkjærs Plads und den nahegelegenen Kirchen. Nach der Erkundung des Stadtzentrums zu Fuß nehmen Sie einen Bus zum zweiten Cluster: dem Museumsviertel. Verbringen Sie den Nachmittag damit, in die Kunst und Geschichte einzutauchen, und entspannen Sie sich anschließend im Christiansgave Park, bevor Sie Ihre Rückfahrt antreten.",
         "hu": "Fedezze fel Hjørringet kényelmesen a tömegközlekedéssel. Kezdje a központi buszpályaudvaron, és sétáljon délelőtt a P. Nørkjærs Plads térhez és a közeli templomokhoz. Miután gyalog felfedezte a városközpontot, szálljon buszra a második csoporthoz: a múzeumi negyedhez. Töltse a délutánt a művészetben és a történelemben való elmerüléssel, majd pihenjen a Christiansgave parkban, mielőtt visszaindulna.",
         "ro": "Descoperiți Hjørring confortabil cu transportul public. Începeți de la autogara centrală și plimbați-vă dimineața spre Piața P. Nørkjærs și bisericile din apropiere. După explorarea centrului orașului pe jos, luați un autobuz către al doilea cluster: cartierul muzeelor. Petreceți după-amiaza cufundându-vă în artă și istorie, apoi relaxați-vă în Parcul Christiansgave înainte de a vă întoarce.",
-        "en": "Discover Hjørring comfortably using public transport. Start at the central bus station and walk in the morning to P. Nørkjærs Plads and the nearby churches. After exploring the city center on foot, take a bus to the second cluster: the museum quarter. Spend the afternoon immersing yourself in art and history, then relax in Christiansgave Park before heading back."
+        "en": "Discover Hjørring comfortably using public transport. Start at the central bus station and walk in the morning to P. Nørkjærs Plads and the nearby churches. After exploring the city center on foot, take a bus to the second cluster: the museum quarter. Spend the afternoon immersing yourself in art and history, then relax in Christiansgave Park before heading back.",
+        "da": "Oplev Hjørring komfortabelt med offentlig transport. Start ved den centrale bustation og gå om morgenen til P. Nørkjærs Plads og de nærliggende kirker. Efter at have udforsket centrum til fods, tag en bus til den anden klynge: museumskvarteret. Tilbring eftermiddagen i kunst og historie, og slap så af i Christiansgave Park inden hjemrejsen."
       },
       "gastro_picks": {
         "de": [
@@ -2059,6 +2215,12 @@
           "Download the local public transport app for real-time schedules.",
           "Buses are punctual, so be at the stop on time.",
           "Check the operating hours, especially if you're traveling back in the evening."
+        ],
+        "da": [
+          "Et dagkort er ofte billigere end enkeltture.",
+          "Hent den lokale kollektiv­tursapp til køreplaner i realtid.",
+          "Busserne er Punktlige, så vær ved stoppet til tiden.",
+          "Tjek driftstiderne, især hvis du rejser tilbage om aftenen."
         ]
       },
       "variants": {
@@ -2067,7 +2229,8 @@
             "de": "Öffentliche Verkehrsmittel bieten bei Regen in Hjørring einen trockenen Transport. Wir starten am Bahnhof und nutzen Busse, um schnell ins Zentrum zu kommen. Mittags ist das Museumsviertel unser Ziel, wo wir viel Zeit im Trockenen verbringen können. Der Nachmittag lässt sich flexibel zwischen Kirchen und Park gestalten, bevor es mit dem Bus zurück zum Bahnhof geht.",
             "hu": "A tömegközlekedés száraz utazást biztosít esős időben Hjørringben. A vasútállomástól indulunk, és busszal gyorsan a központba érünk. Délben a múzeumi negyed a célunk, ahol sok időt tölthetünk fedett helyen. A délután rugalmasan osztható meg a templomok és a park között, mielőtt visszabuszzoznánk.",
             "ro": "Transportul public oferă o deplasare uscată în Hjørring pe ploaie. Începem de la gară și folosim autobuzul pentru a ajunge rapid în centru. La prânz, ținta este cartierul muzeelor, unde putem sta mult timp la adăpost. După-amiaza este flexibilă, înainte de a lua autobuzul înapoi spre gară.",
-            "en": "Public transit provides dry travel in Hjørring during rainy weather. Start at the station and use local buses to reach the center quickly. Midday is best spent in the museum quarter's indoor exhibits. The afternoon can be split between churches and the park before taking the bus back to the station."
+            "en": "Public transit provides dry travel in Hjørring during rainy weather. Start at the station and use local buses to reach the center quickly. Midday is best spent in the museum quarter's indoor exhibits. The afternoon can be split between churches and the park before taking the bus back to the station.",
+            "da": "Offentlig transport giver tør rejse i Hjørring under regnvejr. Start ved stationen og brug lokale busser til hurtigt at nå centrum. Middagen er bedst tilbragt i museumskvarterets indendørs udstillinger. Eftermiddagen kan deles mellem kirker og parken, inden du tager bussen tilbage til stationen."
           },
           "stops": [
             {
@@ -2076,7 +2239,8 @@
                 "de": "Überdachte Wartebereiche schützen vor dem ersten Regen.",
                 "hu": "A fedett várótermek védenek az eleredő esőtől.",
                 "ro": "Zonele de așteptare acoperite protejează de ploaie.",
-                "en": "Covered waiting areas provide shelter from the rain upon arrival."
+                "en": "Covered waiting areas provide shelter from the rain upon arrival.",
+                "da": "Overdækkede venteområder giver ly for regnen ved ankomst."
               }
             },
             {
@@ -2085,7 +2249,8 @@
                 "de": "Bushaltestellen befinden sich in unmittelbarer Nähe zum Platz.",
                 "hu": "A buszmegállók a tér közvetlen közelében találhatók.",
                 "ro": "Stațiile de autobuz sunt în imediata apropiere a pieței.",
-                "en": "Bus stops are located in the immediate vicinity of the square."
+                "en": "Bus stops are located in the immediate vicinity of the square.",
+                "da": "Busstoppesteder ligger i umiddelbar nærhed af pladsen."
               }
             },
             {
@@ -2094,7 +2259,8 @@
                 "de": "Die Kirchen sind gut zu Fuß von den Haltestellen erreichbar.",
                 "hu": "A templomok gyalog is könnyen elérhetők a megállóktól.",
                 "ro": "Bisericile sunt ușor accesibile pe jos de la stații.",
-                "en": "The churches are easily accessible on foot from the bus stops."
+                "en": "The churches are easily accessible on foot from the bus stops.",
+                "da": "Kirkerne er nemt tilgængelige til fods fra busstoppestederne."
               }
             },
             {
@@ -2103,7 +2269,8 @@
                 "de": "Nutzen Sie die kurzen Busintervalle für den Transfer.",
                 "hu": "Használja ki a gyakori buszjáratokat az átszálláshoz.",
                 "ro": "Folosiți intervalele scurte ale autobuzelor pentru transfer.",
-                "en": "Take advantage of the frequent bus intervals for your transfer."
+                "en": "Take advantage of the frequent bus intervals for your transfer.",
+                "da": "Udnyt de hyppige businterval for din transfer."
               }
             },
             {
@@ -2112,7 +2279,8 @@
                 "de": "Ein idealer Ort, um die Regenzeit sinnvoll zu nutzen.",
                 "hu": "Ideális hely az esős idő hasznos eltöltésére.",
                 "ro": "Un loc ideal pentru a petrece timpul pe ploaie.",
-                "en": "An ideal place to spend time productively during the rain."
+                "en": "An ideal place to spend time productively during the rain.",
+                "da": "Et ideelt sted til at bruge tiden produktivt i regnvejr."
               }
             },
             {
@@ -2121,7 +2289,8 @@
                 "de": "Haltestellen direkt am Parkeingang vorhanden.",
                 "hu": "A buszmegállók közvetlenül a park bejáratánál vannak.",
                 "ro": "Stații de autobuz disponibile chiar la intrarea în parc.",
-                "en": "Bus stops are available right at the entrance to the park."
+                "en": "Bus stops are available right at the entrance to the park.",
+                "da": "Busstoppesteder findes lige ved indgangen til parken."
               }
             }
           ],
@@ -2149,6 +2318,12 @@
               "Keep your ticket ready to avoid searching for it in the rain.",
               "Buses are climate-controlled and usually very punctual.",
               "Prioritize transfer points that offer covered waiting shelters."
+            ],
+            "da": [
+              "Hent rejseappen for opdateringer af køreplanen i realtid.",
+              "Hav din billet klar for at undgå at lede efter den i regnen.",
+              "Busserne er klimastyrede og som regel meget punktlige.",
+              "Prioritér transferpunkter med overdækkede venteområder."
             ]
           }
         },
@@ -2157,7 +2332,8 @@
             "de": "Im Winter ist der Transit in Hjørring eine warme Alternative zum Laufen. Wir starten am Bahnhof und erreichen schnell die historischen Kirchen. Der Mittag gehört dem Museumsviertel, das gut an das Liniennetz angebunden ist. Nach einem kurzen Winterspaziergang im Park bringt uns der Bus sicher zurück zum Ausgangspunkt.",
             "hu": "Télen a tömegközlekedés meleg alternatíva a gyalogláshoz képest Hjørringben. A vasútállomástól indulva gyorsan elérjük a történelmi templomokat. A délutánt a jól megközelíthető múzeumi negyedben töltjük. Egy rövid téli parki séta után a busz biztonságosan visszavisz a kiindulópontra.",
             "ro": "Iarna, transportul public este o alternativă caldă la mersul pe jos în Hjørring. Plecăm de la gară și ajungem rapid la bisericile istorice. Amiaza aparține cartierului muzeelor, bine conectat la rețeaua de transport. După o scurtă plimbare de iarnă, autobuzul ne duce înapoi.",
-            "en": "In winter, transit in Hjørring is a warm alternative to walking. Start at the station and quickly reach the historic churches. Spend midday in the well-connected museum quarter. After a short winter walk in the park, the bus will take you safely back to your starting point."
+            "en": "In winter, transit in Hjørring is a warm alternative to walking. Start at the station and quickly reach the historic churches. Spend midday in the well-connected museum quarter. After a short winter walk in the park, the bus will take you safely back to your starting point.",
+            "da": "Om vinteren er kollektiv trafik i Hjørring et varmt alternativ til at gå. Start på stationen og nå hurtigt de historiske kirker. Tilbring middagen i det velforbundne museums-kvarter. Efter en kort vintertur i parken tager bussen dig sikkert tilbage til udgangspunktet."
           },
           "stops": [
             {
@@ -2166,7 +2342,8 @@
                 "de": "Das Bahnhofsgebäude bietet einen geheizten Wartesaal.",
                 "hu": "A vasútállomás épülete fűtött várótermet kínál.",
                 "ro": "Clădirea gării oferă o sală de așteptare încălzită.",
-                "en": "The station building offers a heated waiting room for passengers."
+                "en": "The station building offers a heated waiting room for passengers.",
+                "da": "Stationsbygningen tilbyder en opvarmet ventehal for passagerer."
               }
             },
             {
@@ -2175,7 +2352,8 @@
                 "de": "Kurze Wege von der Haltestelle minimieren die Kälteexposition.",
                 "hu": "A megállótól való rövid séta minimalizálja a hidegben töltött időt.",
                 "ro": "Distanța scurtă de la stație reduce expunerea la frig.",
-                "en": "Short distances from the stop minimize exposure to the cold."
+                "en": "Short distances from the stop minimize exposure to the cold.",
+                "da": "Korte afstande fra stoppestedet minimerer eksponering for kulden."
               }
             },
             {
@@ -2184,7 +2362,8 @@
                 "de": "Die Kirchen sind wichtige Orientierungspunkte im Liniennetz.",
                 "hu": "A templomok fontos tájékozódási pontok a hálózaton.",
                 "ro": "Bisericile sunt puncte de reper importante în rețeaua de transport.",
-                "en": "The churches are important landmarks on the transit network."
+                "en": "The churches are important landmarks on the transit network.",
+                "da": "Kirkerne er vigtige pejlemærker på trafiknettet."
               }
             },
             {
@@ -2193,7 +2372,8 @@
                 "de": "Busse fahren regelmäßig und sind gut beheizt.",
                 "hu": "A buszok rendszeresen járnak és jól fűtöttek.",
                 "ro": "Autobuzele circulă regulat și sunt bine încălzite.",
-                "en": "Buses run regularly and are well-heated for comfort."
+                "en": "Buses run regularly and are well-heated for comfort.",
+                "da": "Busserne kører regelmæssigt og er godt opvarmede for komfortens skyld."
               }
             },
             {
@@ -2202,7 +2382,8 @@
                 "de": "Ein kulturelles Highlight, das man im Warmen genießen kann.",
                 "hu": "Kulturális fénypont, amit melegben élvezhetünk.",
                 "ro": "Un punct cultural important care poate fi savurat la căldură.",
-                "en": "A cultural highlight that can be enjoyed in the warmth."
+                "en": "A cultural highlight that can be enjoyed in the warmth.",
+                "da": "Et kulturelt højdepunkt, som kan nydes i varmen."
               }
             },
             {
@@ -2211,7 +2392,8 @@
                 "de": "Nutzen Sie den Bus für die Rückfahrt, wenn es dunkel wird.",
                 "hu": "Sötétedéskor használja a buszt a visszaúthoz.",
                 "ro": "Folosiți autobuzul pentru întoarcere când se întunecă.",
-                "en": "Use the bus for the return trip once it gets dark."
+                "en": "Use the bus for the return trip once it gets dark.",
+                "da": "Brug bussen til hjemturen, når det bliver mørkt."
               }
             }
           ],
@@ -2239,6 +2421,12 @@
               "Buses are an ideal place to warm up your hands between stops.",
               "Be careful of slippery steps when boarding or alighting.",
               "Plan your return trip to avoid the peak evening rush hour."
+            ],
+            "da": [
+              "Tjek vinterkøreplanen for eventuelle mindre sæsonjusteringer.",
+              "Busser er et ideelt sted til at varme hænderne mellem stoppestederne.",
+              "Vær forsigtig med glatte trin ved på- og afstigning.",
+              "Planlæg din hjemrejse for at undgå myldretiden om aftenen."
             ]
           }
         }

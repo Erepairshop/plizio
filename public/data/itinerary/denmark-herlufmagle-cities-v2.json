@@ -21,7 +21,8 @@
             "de": "Herlufmagle Kirke",
             "hu": "Herlufmagle-templom",
             "ro": "Biserica Herlufmagle",
-            "en": "Herlufmagle Church"
+            "en": "Herlufmagle Church",
+            "da": "Herlufmagle Kirke"
           },
           "coords": [
             11.7215,
@@ -37,7 +38,8 @@
             "de": "Beachten Sie die mittelalterlichen Fresken im Inneren.",
             "hu": "Figyelje meg a középkori freskókat a templom belsejében.",
             "ro": "Observați frescele medievale din interior.",
-            "en": "Note the medieval frescoes inside."
+            "en": "Note the medieval frescoes inside.",
+            "da": "Bemærk de middelalderlige kalkmalerier indeni."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Spaziergang entlang der Susåen",
             "hu": "Séta a Susåen folyó mentén",
             "ro": "Plimbare de-a lungul râului Susåen",
-            "en": "Walk along the Susåen River"
+            "en": "Walk along the Susåen River",
+            "da": "Gå langs Susåen"
           },
           "coords": [
             11.73,
@@ -61,7 +64,8 @@
             "de": "Ein idealer Ort für ein ruhiges Picknick.",
             "hu": "Ideális hely egy csendes piknikhez.",
             "ro": "Un loc ideal pentru un picnic liniștit.",
-            "en": "An ideal spot for a quiet picnic."
+            "en": "An ideal spot for a quiet picnic.",
+            "da": "Et ideelt sted til en rolig picnic."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Tybjerg Kirke",
             "hu": "Tybjerg-templom",
             "ro": "Biserica Tybjerg",
-            "en": "Tybjerg Church"
+            "en": "Tybjerg Church",
+            "da": "Tybjerg Kirke"
           },
           "coords": [
             11.765,
@@ -85,7 +90,8 @@
             "de": "Suchen Sie nach dem markanten Stufengiebel.",
             "hu": "Keresse a jellegzetes lépcsős oromzatot.",
             "ro": "Căutați frontonul în trepte distinctiv.",
-            "en": "Look for the distinctive stepped gable."
+            "en": "Look for the distinctive stepped gable.",
+            "da": "Hold øje med den karakteristiske trappede gavl."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Lokales Café",
             "hu": "Helyi kávézó",
             "ro": "Cafenea locală",
-            "en": "Local Café"
+            "en": "Local Café",
+            "da": "Lokalt Café"
           },
           "coords": [
             11.722,
@@ -109,7 +116,8 @@
             "de": "Probieren Sie ein klassisches dänisches Smørrebrød.",
             "hu": "Kóstoljon meg egy klasszikus dán smørrebrødet.",
             "ro": "Încercați un smørrebrød danez clasic.",
-            "en": "Try a classic Danish smørrebrød."
+            "en": "Try a classic Danish smørrebrød.",
+            "da": "Prøv et klassisk dansk smørrebrød."
           }
         }
       ],
@@ -117,7 +125,8 @@
         "de": "Beginnen Sie Ihren Tag mit einem Besuch der historischen Herlufmagle Kirke, um die Ruhe und die alten Fresken auf sich wirken zu lassen. Ein anschließender Spaziergang entlang des Flusses Susåen bietet eine erfrischende Pause in der Natur und die Möglichkeit, die lokale Landschaft zu genießen. Der Nachmittag führt Sie zur charmanten Tybjerg Kirke, einem weiteren Juwel ländlicher dänischer Architektur. Schließen Sie Ihren entspannten Rundgang mit einem Kaffee und einem Stück Kuchen in einem gemütlichen örtlichen Café ab, um die Eindrücke des Tages Revue passieren zu lassen.",
         "hu": "Kezdje a napot a történelmi Herlufmagle-templom meglátogatásával, hogy magába szívja a nyugalmat és megcsodálja a régi freskókat. Egy ezt követő séta a Susåen folyó mentén frissítő kikapcsolódást nyújt a természetben, és lehetőséget ad a helyi táj élvezetére. A délután a bájos Tybjerg-templomhoz vezet, a dán vidéki építészet egy másik gyöngyszeméhez. Zárja a pihentető sétát egy kávéval és süteménnyel egy hangulatos helyi kávézóban, felidézve a nap élményeit.",
         "ro": "Începeți ziua cu o vizită la istorica Biserică Herlufmagle pentru a absorbi liniștea și a admira frescele vechi. O plimbare ulterioară de-a lungul râului Susåen oferă o pauză revigorantă în natură și șansa de a vă bucura de peisajul local. După-amiaza vă duce la fermecătoarea Biserică Tybjerg, o altă bijuterie a arhitecturii rurale daneze. Încheiați turul relaxat cu o cafea și o prăjitură la o cafenea locală confortabilă pentru a reflecta asupra impresiilor zilei.",
-        "en": "Start your day with a visit to the historic Herlufmagle Church to soak in the tranquility and admire the ancient frescoes. A subsequent walk along the Susåen River offers a refreshing break in nature and a chance to enjoy the local scenery. The afternoon takes you to the charming Tybjerg Church, another gem of rural Danish architecture. Conclude your relaxed walking tour with a coffee and cake at a cozy local café to reflect on the day's impressions."
+        "en": "Start your day with a visit to the historic Herlufmagle Church to soak in the tranquility and admire the ancient frescoes. A subsequent walk along the Susåen River offers a refreshing break in nature and a chance to enjoy the local scenery. The afternoon takes you to the charming Tybjerg Church, another gem of rural Danish architecture. Conclude your relaxed walking tour with a coffee and cake at a cozy local café to reflect on the day's impressions.",
+        "da": "Start din dag med et besøg i historiske Herlufmagle Kirke for at indånde roen og beundre de gamle kalkmalerier. En efterfølgende gåtur langs Susåen byder på et forfriskende afbræk i naturen og mulighed for at nyde det lokale landskab. Om eftermiddagen går turen til charmerende Tybjerg Kirke, endnu en perle i den danske landdistriktsarkitektur. Afslut din afslappede vandretur med kaffe og kage på en hyggelig lokal café for at fordøje dagens indtryk."
       },
       "gastro_picks": {
         "de": [
@@ -232,6 +241,11 @@
           "Wear comfortable shoes as paths can be uneven.",
           "Bring water and snacks as there are few shops.",
           "Check the opening hours of the churches in advance."
+        ],
+        "da": [
+          "Brug behagelige sko, da stierne kan være ujævne.",
+          "Medbring vand og snacks, da der er få butikker.",
+          "Tjek kirkernes åbningstider på forhånd."
         ]
       },
       "variants": {
@@ -240,7 +254,8 @@
             "de": "Morgens bietet die Kirche von Herlufmagle Schutz vor dem dänischen Regen. Mittags führt ein kurzer, erfrischender Spaziergang entlang der Susåen unter dem Regenschirm. Nachmittags besichtigen wir die historische Kirche von Tybjerg, bevor wir den Tag gemütlich in einem lokalen Café bei einem heißen Getränk ausklingen lassen. Der Regen verstärkt die grüne Atmosphäre der ländlichen Umgebung.",
             "hu": "Reggel a Herlufmagle templom belső tere nyújt menedéket a dán eső elől. Délben egy rövid, esernyős séta következik a Susåen-folyó partján, ahol a víz felszíne különleges látványt nyújt. Délután a tybjergi templom csendjét élvezzük, majd egy helyi kávézó melegében zárjuk a napot. Az eső még intenzívebbé teszi a környező vidék zöld színeit.",
             "ro": "Dimineața, biserica din Herlufmagle oferă adăpost împotriva ploii daneze. La prânz, urmează o scurtă plimbare cu umbrela de-a lungul râului Susåen, admirând reflexiile picăturilor pe apă. După-amiaza vizităm biserica istorică din Tybjerg, iar seara ne retragem într-o cafenea locală pentru o băutură caldă. Ploaia accentuează prospețimea peisajului rural din jur.",
-            "en": "Morning starts with the shelter of Herlufmagle Church during the Danish rain. At noon, a brisk umbrella walk along the Susåen River offers misty views. Afternoon is spent exploring the historic Tybjerg Church before warming up in a local café for the evening. The rain brings out a vibrant green hue in the surrounding countryside, creating a moody, peaceful atmosphere."
+            "en": "Morning starts with the shelter of Herlufmagle Church during the Danish rain. At noon, a brisk umbrella walk along the Susåen River offers misty views. Afternoon is spent exploring the historic Tybjerg Church before warming up in a local café for the evening. The rain brings out a vibrant green hue in the surrounding countryside, creating a moody, peaceful atmosphere.",
+            "da": "Morgenen starter i ly i Herlufmagle Kirke under dansk regn. Midt på dagen giver en frisk paraplytur langs Susåen tågede udsigter. Eftermiddagen bruges på at udforske historiske Tybjerg Kirke, før man varmer sig i en lokal café om aftenen. Regnen fremhæver en levende grøn farve i det omkringliggende landskab og skaber en stemningsfuld, fredfyldt atmosfære."
           },
           "stops": [
             {
@@ -249,7 +264,8 @@
                 "de": "Nutzen Sie die Regenpause zur Innenbesichtigung der mittelalterlichen Fresken.",
                 "hu": "Használja ki az esőmentes perceket a középkori freskók megtekintésére.",
                 "ro": "Profitați de pauza de ploaie pentru a vedea frescele medievale din interior.",
-                "en": "Use the rain break to admire the medieval frescoes inside the church."
+                "en": "Use the rain break to admire the medieval frescoes inside the church.",
+                "da": "Brug regnpausen til at beundre de middelalderlige kalkmalerier inde i kirken."
               }
             },
             {
@@ -258,7 +274,8 @@
                 "de": "Wasserdichte Schuhe sind für die unbefestigten Wege am Flussufer ratsam.",
                 "hu": "A folyóparti fövenyes utakhoz vízálló cipő viselése ajánlott.",
                 "ro": "Se recomandă încălțăminte impermeabilă pentru potecile de pe malul râului.",
-                "en": "Waterproof shoes are recommended for the unpaved paths along the riverbank."
+                "en": "Waterproof shoes are recommended for the unpaved paths along the riverbank.",
+                "da": "Vandafvisende sko anbefales til de ikke-asfalterede stier langs åbredden."
               }
             },
             {
@@ -267,7 +284,8 @@
                 "de": "Die massive Steinstruktur bietet einen trockenen Rückzugsort während Schauern.",
                 "hu": "A masszív kőépület száraz menedéket nyújt a záporok idején.",
                 "ro": "Structura masivă de piatră oferă un refugiu uscat în timpul averselor.",
-                "en": "The massive stone structure provides a dry refuge during heavy showers."
+                "en": "The massive stone structure provides a dry refuge during heavy showers.",
+                "da": "Den massive stenkonstruktion giver tørt tilflugtssted under stærke byger."
               }
             },
             {
@@ -276,7 +294,8 @@
                 "de": "Bestellen Sie ein lokales Gebäck zum Aufwärmen nach dem Spaziergang.",
                 "hu": "Rendeljen egy helyi süteményt, hogy felmelegedjen a séta után.",
                 "ro": "Comandați o patiserie locală pentru a vă încălzi după plimbare.",
-                "en": "Order a local pastry to warm up properly after your wet walk."
+                "en": "Order a local pastry to warm up properly after your wet walk.",
+                "da": "Bestil et lokalt wienerbrød for at få varmen efter din våde gåtur."
               }
             }
           ],
@@ -304,6 +323,12 @@
               "River paths along the Susåen can become muddy and slippery when wet.",
               "Check church opening hours, as they provide perfect indoor shelter.",
               "A backpack with a rain cover will keep your belongings dry and safe."
+            ],
+            "da": [
+              "Bær en kvalitets regnjakke, da kraftig vind kan gøre paraplyer ubrugelige.",
+              "Åstierne langs Susåen kan blive mudrede og glatte, når de er våde.",
+              "Tjek kirkernes åbningstider, da de udgør perfekte indendørs tilflugtssteder.",
+              "En rygsæk med regnslag holder dine ejendele tørre og sikre."
             ]
           }
         },
@@ -312,7 +337,8 @@
             "de": "Der Wintermorgen beginnt in der kühlen Stille der Kirche von Herlufmagle. Mittags wandern wir durch die frostige Landschaft entlang der Susåen, wo das Eis am Ufer glitzert. Nachmittags besuchen wir die Kirche von Tybjerg, bevor wir vor dem frühen Sonnenuntergang gegen 16:00 Uhr die Wärme eines gemütlichen Cafés aufsuchen. Die kahlen Bäume geben weite Ausblicke auf die flache dänische Landschaft frei.",
             "hu": "A téli reggel a Herlufmagle templom hűvös csendjében indul. Délben a zúzmarás Susåen-parton sétálunk, ahol a jég csillog a nádasban. Délután a tybjergi templomot érintjük, majd a korai, 16 órai naplemente előtt egy kávézó melegébe húzódunk. A kopár fák között ilyenkor messzebbre ellátni a dán vidéken.",
             "ro": "Dimineața de iarnă începe în liniștea răcoroasă a bisericii din Herlufmagle. La prânz, ne plimbăm pe malul înghețat al râului Susåen, unde gheața sclipește printre trestii. După-amiaza vizităm biserica din Tybjerg, apoi ne retragem la căldura unei cafenele înainte de apusul devreme de la ora 16:00. Copacii desfrunziți permit vederi largi asupra câmpiei daneze.",
-            "en": "Winter morning starts in the cool silence of Herlufmagle Church. At noon, we hike along the frosty banks of the Susåen, where ice glitters in the reeds. Afternoon includes a visit to Tybjerg Church before retreating to the warmth of a café before the early 4:00 PM sunset. The leafless trees offer wide, clear views across the flat Danish landscape."
+            "en": "Winter morning starts in the cool silence of Herlufmagle Church. At noon, we hike along the frosty banks of the Susåen, where ice glitters in the reeds. Afternoon includes a visit to Tybjerg Church before retreating to the warmth of a café before the early 4:00 PM sunset. The leafless trees offer wide, clear views across the flat Danish landscape.",
+            "da": "En vintermorgen begynder i den kølige stilhed ved Herlufmagle Kirke. Ved middagstid vandrer vi langs de frostklare bredder af Susåen, hvor is glitrer i sivene. Om eftermiddagen besøger vi Tybjerg Kirke, før vi søger varmen på en café inden den tidlige solnedgang kl. 16:00. De løvfældende træer giver brede, klare udsigter over det flade danske landskab."
           },
           "stops": [
             {
@@ -321,7 +347,8 @@
                 "de": "Beachten Sie, dass historische Kirchen im Winter oft sehr kühl sind.",
                 "hu": "Vegye figyelembe, hogy a történelmi templomok télen nagyon hűvösek.",
                 "ro": "Rețineți că bisericile istorice sunt adesea foarte răcoroase iarna.",
-                "en": "Be aware that historic churches can be quite chilly during winter months."
+                "en": "Be aware that historic churches can be quite chilly during winter months.",
+                "da": "Vær opmærksom på, at historiske kirker kan være ret kolde i vintermånederne."
               }
             },
             {
@@ -330,7 +357,8 @@
                 "de": "Vorsicht vor gefrorenen Stellen auf den Brücken und am Wasser.",
                 "hu": "Vigyázzon a lefagyott szakaszokra a hidakon és a vízpart mentén.",
                 "ro": "Atenție la porțiunile înghețate de pe poduri și de lângă apă.",
-                "en": "Watch out for icy patches on bridges and near the water's edge."
+                "en": "Watch out for icy patches on bridges and near the water's edge.",
+                "da": "Pas på isglatte pletter på broer og ved vandkanten."
               }
             },
             {
@@ -339,7 +367,8 @@
                 "de": "Genießen Sie die klare Winterluft auf dem erhöht gelegenen Friedhof.",
                 "hu": "Élvezze a tiszta téli levegőt a magasabban fekvő temetőkertben.",
                 "ro": "Bucurați-vă de aerul curat de iarnă în cimitirul situat la înălțime.",
-                "en": "Enjoy the crisp winter air from the elevated graveyard viewpoint."
+                "en": "Enjoy the crisp winter air from the elevated graveyard viewpoint.",
+                "da": "Nyd den krystalklare vinterluft fra udsigtspunktet i kirkegården."
               }
             },
             {
@@ -348,7 +377,8 @@
                 "de": "Suchen Sie sich einen Platz am Fenster, um das blaue Winterlicht zu beobachten.",
                 "hu": "Keressen ablak melletti helyet a téli alkonyati fények megtekintéséhez.",
                 "ro": "Căutați un loc la fereastră pentru a observa lumina albastră a iernii.",
-                "en": "Find a seat near the window to enjoy the blue winter twilight."
+                "en": "Find a seat near the window to enjoy the blue winter twilight.",
+                "da": "Find en plads ved vinduet for at nyde den blå vintertwilight."
               }
             }
           ],
@@ -376,6 +406,12 @@
               "The sun sets as early as 4:00 PM in Denmark during winter.",
               "Bring a thermos of hot tea for your break by the river.",
               "Sturdy boots with good grip are necessary for frosty ground."
+            ],
+            "da": [
+              "Klej dig i lag med varmt uld eller termoundertøj.",
+              "Solen går allerede ned kl. 16:00 i Danmark om vinteren.",
+              "Medbring en termoflaske med varm te til din pause ved floden.",
+              "Robuste støvler med godt greb er nødvendige på frosthvidt underlag."
             ]
           }
         }
@@ -394,7 +430,8 @@
             "de": "Herlufmagle Kirke",
             "hu": "Herlufmagle-templom",
             "ro": "Biserica Herlufmagle",
-            "en": "Herlufmagle Church"
+            "en": "Herlufmagle Church",
+            "da": "Herlufmagle Kirke"
           },
           "coords": [
             11.7215,
@@ -410,7 +447,8 @@
             "de": "Ein guter Ausgangspunkt mit Parkmöglichkeiten für Fahrräder.",
             "hu": "Jó kiindulópont kerékpárparkolóval.",
             "ro": "Un bun punct de plecare cu parcare pentru biciclete.",
-            "en": "A good starting point with bicycle parking."
+            "en": "A good starting point with bicycle parking.",
+            "da": "Et godt udgangspunkt med cykelparkering."
           }
         },
         {
@@ -418,7 +456,8 @@
             "de": "Holmegaard Værk",
             "hu": "Holmegaard Værk",
             "ro": "Holmegaard Værk",
-            "en": "Holmegaard Værk"
+            "en": "Holmegaard Værk",
+            "da": "Holmegaard Værk"
           },
           "coords": [
             11.77,
@@ -434,7 +473,8 @@
             "de": "Planen Sie genug Zeit für die Glasbläservorführungen ein.",
             "hu": "Szánjon elég időt az üvegfúvó bemutatókra.",
             "ro": "Planificați suficient timp pentru demonstrațiile de suflare a sticlei.",
-            "en": "Plan enough time for the glass-blowing demonstrations."
+            "en": "Plan enough time for the glass-blowing demonstrations.",
+            "da": "Planlæg nok tid til glaspuster‑demonstrationerne."
           }
         },
         {
@@ -442,7 +482,8 @@
             "de": "Mittagessen in der Nähe von Holmegaard",
             "hu": "Ebéd Holmegaard közelében",
             "ro": "Prânz lângă Holmegaard",
-            "en": "Lunch near Holmegaard"
+            "en": "Lunch near Holmegaard",
+            "da": "Frokost nær Holmegaard"
           },
           "coords": [
             11.772,
@@ -458,7 +499,8 @@
             "de": "Das Museumscafé bietet ausgezeichnete lokale Gerichte.",
             "hu": "A múzeumi kávézó kiváló helyi ételeket kínál.",
             "ro": "Cafeneaua muzeului oferă preparate locale excelente.",
-            "en": "The museum café offers excellent local dishes."
+            "en": "The museum café offers excellent local dishes.",
+            "da": "Museets café tilbyder fremragende lokale retter."
           }
         },
         {
@@ -466,7 +508,8 @@
             "de": "Fahrt entlang der Susåen",
             "hu": "Biciklizés a Susåen mentén",
             "ro": "Plimbare cu bicicleta de-a lungul râului Susåen",
-            "en": "Ride along the Susåen River"
+            "en": "Ride along the Susåen River",
+            "da": "Cykeltur langs Susåen"
           },
           "coords": [
             11.83,
@@ -482,7 +525,8 @@
             "de": "Halten Sie Ausschau nach Vögeln und der ruhigen Flusslandschaft.",
             "hu": "Figyelje a madarakat és a csendes folyóparti tájat.",
             "ro": "Fiți atenți la păsări și la peisajul liniștit al râului.",
-            "en": "Look out for birdlife and the serene river scenery."
+            "en": "Look out for birdlife and the serene river scenery.",
+            "da": "Hold øje med fuglelivet og den rolige flodnatur."
           }
         },
         {
@@ -490,7 +534,8 @@
             "de": "Herlufsholm Skole",
             "hu": "Herlufsholm Iskola",
             "ro": "Școala Herlufsholm",
-            "en": "Herlufsholm School"
+            "en": "Herlufsholm School",
+            "da": "Herlufsholm Skole"
           },
           "coords": [
             11.71,
@@ -506,7 +551,8 @@
             "de": "Respektieren Sie die Privatsphäre, da es eine aktive Schule ist. Die Außenanlagen sind oft zugänglich.",
             "hu": "Tartsa tiszteletben a magánéletet, mivel ez egy működő iskola. A külső területek gyakran látogathatók.",
             "ro": "Respectați confidențialitatea, deoarece este o școală activă. Terenurile exterioare sunt adesea accesibile.",
-            "en": "Respect the privacy as it's an active school. The grounds are often accessible."
+            "en": "Respect the privacy as it's an active school. The grounds are often accessible.",
+            "da": "Vis respekt for privatlivet, da det er en aktiv skole. Arealerne er ofte tilgængelige."
           }
         }
       ],
@@ -514,7 +560,8 @@
         "de": "Schwingen Sie sich auf Ihr Fahrrad für eine Tour durch die dänische Landschaft. Nach dem Start an der Herlufmagle Kirke radeln Sie zum Holmegaard Værk, einem Zentrum für Glaskunst, wo Sie faszinierende Handwerkskunst erleben. Nach einem Mittagessen in der Nähe geht es weiter entlang des malerischen Flusses Susåen, der perfekte Ort für eine entspannte Fahrt. Den Abschluss bildet ein Besuch der historischen Herlufsholm Skole, eines der ältesten Internate Dänemarks, dessen beeindruckende Architektur und Anlagen Sie vom Fahrrad aus bewundern können.",
         "hu": "Pattanjon kerékpárra egy dán vidéki túrához. A Herlufmagle-templomtól indulva tekerjen el a Holmegaard Værk üvegművészeti központba, ahol lenyűgöző kézműves munkákat láthat. Egy közeli ebéd után folytassa útját a festői Susåen folyó mentén, amely tökéletes hely egy pihentető kerékpározáshoz. A napot a történelmi Herlufsholm Iskola meglátogatásával zárja, amely Dánia egyik legrégebbi bentlakásos iskolája, és amelynek lenyűgöző építészetét és területét a kerékpárról is megcsodálhatja.",
         "ro": "Urcați-vă pe bicicletă pentru un tur al peisajului rural danez. După ce porniți de la Biserica Herlufmagle, pedalați spre Holmegaard Værk, un centru de artă a sticlei unde veți experimenta meșteșuguri fascinante. După prânz în apropiere, continuați de-a lungul pitorescului râu Susåen, locul perfect pentru o plimbare relaxantă. Turul se încheie cu o vizită la istorica Școală Herlufsholm, unul dintre cele mai vechi internate din Danemarca, a cărei arhitectură și terenuri impresionante le puteți admira de pe bicicletă.",
-        "en": "Hop on your bike for a tour of the Danish countryside. After starting at Herlufmagle Church, you'll cycle to Holmegaard Værk, a center for glass art where you'll experience fascinating craftsmanship. After lunch nearby, continue along the picturesque Susåen River, the perfect spot for a relaxing ride. The day concludes with a visit to the historic Herlufsholm School, one of Denmark's oldest boarding schools, whose impressive architecture and grounds you can admire from your bike."
+        "en": "Hop on your bike for a tour of the Danish countryside. After starting at Herlufmagle Church, you'll cycle to Holmegaard Værk, a center for glass art where you'll experience fascinating craftsmanship. After lunch nearby, continue along the picturesque Susåen River, the perfect spot for a relaxing ride. The day concludes with a visit to the historic Herlufsholm School, one of Denmark's oldest boarding schools, whose impressive architecture and grounds you can admire from your bike.",
+        "da": "Hop på din cykel til en tur gennem det danske landskab. Efter start ved Herlufmagle Kirke cykler du til Holmegaard Værk, et center for glaskunst, hvor du oplever fascinerende håndværk. Efter frokost i nærheden fortsætter du langs den maleriske Susåen, det perfekte sted til en afslappende tur. Dagen afsluttes med et besøg ved historiske Herlufsholm Skole, en af Danmarks ældste kostskoler, hvis imponerende arkitektur og anlæg du kan beundre fra din cykel."
       },
       "gastro_picks": {
         "de": [
@@ -660,6 +707,12 @@
           "A bike lock is essential for the longer stops.",
           "Bring a reusable water bottle.",
           "Check the weather and dress in layers."
+        ],
+        "da": [
+          "Bær hjelm og vær forberedt på landeveje.",
+          "Et cykellås er essentielt til de længere stop.",
+          "Medbring en genanvendelig vandflaske.",
+          "Tjek vejret og klæd dig i lag."
         ]
       },
       "variants": {
@@ -668,7 +721,8 @@
             "de": "Ein verregneter Vormittag beginnt an der Kirche von Herlufmagle, gefolgt von einer Fahrt durch die nasse Landschaft zum Holmegaard Værk. Mittags bietet das Museum mit seinen Glasausstellungen perfekten Schutz. Nachmittags radeln wir trotz Regen entlang der Susåen und besuchen die Herlufsholm Schule. Die dänische Natur wirkt in der Nässe besonders mystisch und ruhig.",
             "hu": "Esős délelőtt indul a Herlufmagle templomnál, majd a vizes tájon át a Holmegaard Værk felé tekerünk. Délben a múzeum üvegkiállításai tökéletes menedéket adnak. Délután az eső ellenére a Susåen mentén folytatjuk utunkat a Herlufsholm iskoláig. A dán természet ilyenkor különösen misztikus és csendes.",
             "ro": "O dimineață ploioasă începe la biserica Herlufmagle, urmată de o cursă prin peisajul umed spre Holmegaard Værk. La prânz, expozițiile de sticlă ale muzeului oferă adăpostul perfect. După-amiaza continuăm pe lângă Susåen până la școala Herlufsholm, în ciuda ploii. Natura daneză pare deosebit de mistică și liniștită.",
-            "en": "A rainy morning starts at Herlufmagle Church, followed by a ride through the wet landscape to Holmegaard Værk. At noon, the museum's glass exhibitions provide perfect shelter. In the afternoon, we cycle along the Susåen despite the rain to reach Herlufsholm School. The Danish nature feels particularly mystical and quiet in the damp weather."
+            "en": "A rainy morning starts at Herlufmagle Church, followed by a ride through the wet landscape to Holmegaard Værk. At noon, the museum's glass exhibitions provide perfect shelter. In the afternoon, we cycle along the Susåen despite the rain to reach Herlufsholm School. The Danish nature feels particularly mystical and quiet in the damp weather.",
+            "da": "En regnfuld morgen starter ved Herlufmagle Kirke efterfulgt af en tur gennem det våde landskab til Holmegaard Værk. Ved middagstid giver museets glasudstillinger perfekt læ. Om eftermiddagen cykler vi langs Susåen trods regnen for at nå Herlufsholm Skole. Den danske natur føles særligt mystisk og stille i det fugtige vejr."
           },
           "stops": [
             {
@@ -677,7 +731,8 @@
                 "de": "Nutzen Sie den überdachten Eingangsbereich zum Anlegen der Regenkleidung.",
                 "hu": "Használja a fedett bejáratot az esőruházat kényelmes felvételéhez.",
                 "ro": "Folosiți zona de intrare acoperită pentru a vă pune echipamentul de ploaie.",
-                "en": "Use the covered entrance area to put on your rain gear comfortably."
+                "en": "Use the covered entrance area to put on your rain gear comfortably.",
+                "da": "Brug det overdækkede indgangsområde til komfortabelt at tage regntøjet på."
               }
             },
             {
@@ -686,7 +741,8 @@
                 "de": "Es gibt ausreichend Platz zum Trocknen nasser Mäntel im Eingangsbereich.",
                 "hu": "A bejáratnál bőséges hely áll rendelkezésre a vizes kabátok szárításához.",
                 "ro": "Există suficient spațiu pentru uscarea hainelor ude la intrare.",
-                "en": "There is plenty of space to dry wet coats near the entrance area."
+                "en": "There is plenty of space to dry wet coats near the entrance area.",
+                "da": "Der er god plads til at tørre våde jakker nær indgangsområdet."
               }
             },
             {
@@ -695,7 +751,8 @@
                 "de": "Wählen Sie ein Restaurant mit Fahrradständern direkt vor der Tür.",
                 "hu": "Válasszon olyan éttermet, ahol közvetlenül az ajtó előtt van kerékpártároló.",
                 "ro": "Alegeți un restaurant cu suporturi de biciclete chiar în fața ușii.",
-                "en": "Choose a restaurant with bike racks located right in front of the entrance."
+                "en": "Choose a restaurant with bike racks located right in front of the entrance.",
+                "da": "Vælg en restaurant med cykelstativer lige foran indgangen."
               }
             },
             {
@@ -704,7 +761,8 @@
                 "de": "Fahren Sie vorsichtig, da die Wege am Fluss aufweichen können.",
                 "hu": "Hajtson óvatosan, mert a folyóparti utak felázhatnak.",
                 "ro": "Conduceți cu atenție, deoarece potecile de pe râu se pot înmuia.",
-                "en": "Ride carefully as the river trails can become soft and muddy."
+                "en": "Ride carefully as the river trails can become soft and muddy.",
+                "da": "Kør forsigtigt, da flodstierne kan blive bløde og mudrede."
               }
             },
             {
@@ -713,7 +771,8 @@
                 "de": "Die alten Gebäude wirken im Regen besonders atmosphärisch.",
                 "hu": "A régi épületek esőben különösen hangulatos látványt nyújtanak.",
                 "ro": "Clădirile vechi par deosebit de atmosferice în ploaie.",
-                "en": "The old school buildings look exceptionally atmospheric in the rain."
+                "en": "The old school buildings look exceptionally atmospheric in the rain.",
+                "da": "De gamle skolebygninger virker særligt stemningsfulde i regnvejr."
               }
             }
           ],
@@ -741,6 +800,12 @@
               "Be careful with wet leaves in forested areas, as they can be slippery.",
               "Pack spare socks and gloves in a waterproof bag.",
               "Check your brakes, as stopping distances are longer on wet roads."
+            ],
+            "da": [
+              "Brug skærme for at beskytte dig mod sprøjtende vand og mudder.",
+              "Vær forsigtig med våde blade i skovområder, da de kan være glatte.",
+              "Pakk ekstra sokker og handsker i en vandtæt pose.",
+              "Tjek dine bremser, da stopafstande er længere på våde veje."
             ]
           }
         },
@@ -749,7 +814,8 @@
             "de": "Morgens radeln wir bei klarer, kalter Luft von der Herlufmagle Kirche zum Holmegaard Værk. Mittags genießen wir die Wärme des Museums und die faszinierende Glaskunst. Nachmittags geht die Fahrt durch die winterliche Landschaft entlang der Susåen weiter, wobei das Licht am Nachmittag oft magisch ist. Die Tour endet bei Einbruch der Dunkelheit an der beeindruckenden Herlufsholm Schule.",
             "hu": "Reggel a tiszta, hideg levegőben tekerünk a Herlufmagle templomtól a Holmegaard Værkig. Délben a múzeum melegét és a lenyűgöző üvegművészetet élvezzük. Délután a Susåen menti téli tájban folytatjuk utunkat, ahol a délutáni fények gyakran varázslatosak. A túra a sötétedés beálltával az impozáns Herlufsholm iskolánál ér véget.",
             "ro": "Dimineața pedalăm în aerul rece și curat de la biserica Herlufmagle la Holmegaard Værk. La prânz ne bucurăm de căldura muzeului și de arta fascinantă a sticlei. După-amiaza, călătoria continuă prin peisajul de iarnă de-a lungul râului Susåen, unde lumina este adesea magică. Turul se încheie la lăsarea întunericului la impresionanta școală Herlufsholm.",
-            "en": "In the morning, we cycle through the crisp, cold air from Herlufmagle Church to Holmegaard Værk. At noon, we enjoy the warmth of the museum and its fascinating glass art. In the afternoon, the ride continues through the winter landscape along the Susåen, where the light is often magical. The tour ends as darkness falls at the impressive Herlufsholm School."
+            "en": "In the morning, we cycle through the crisp, cold air from Herlufmagle Church to Holmegaard Værk. At noon, we enjoy the warmth of the museum and its fascinating glass art. In the afternoon, the ride continues through the winter landscape along the Susåen, where the light is often magical. The tour ends as darkness falls at the impressive Herlufsholm School.",
+            "da": "Om morgenen cykler vi gennem den klare, kolde luft fra Herlufmagle Kirke til Holmegaard Værk. Ved middagstid nyder vi varmen i museet og dets fascinerende glaskunst. Om eftermiddagen fortsætter turen gennem vinterlandskabet langs Susåen, hvor lyset ofte er magisk. Turen slutter, når mørket falder over den imponerende Herlufsholm Skole."
           },
           "stops": [
             {
@@ -758,7 +824,8 @@
                 "de": "Ein kurzer Stopp zum Aufwärmen im Vorraum ist möglich.",
                 "hu": "Egy rövid melegedő pihenő a templom előterében lehetséges.",
                 "ro": "O scurtă oprire pentru încălzire în vestibul este posibilă.",
-                "en": "A short warm-up break in the church vestibule is possible."
+                "en": "A short warm-up break in the church vestibule is possible.",
+                "da": "En kort opvarmningspause i kirkens våbenhus er mulig."
               }
             },
             {
@@ -767,7 +834,8 @@
                 "de": "Die Glasöfen strahlen auch im Winter eine angenehme Wärme aus.",
                 "hu": "Az üvegfúvó kemencék télen is kellemes meleget árasztanak.",
                 "ro": "Cuptoarele de sticlă emană o căldură plăcută chiar și iarna.",
-                "en": "The glass furnaces radiate a pleasant warmth even during winter."
+                "en": "The glass furnaces radiate a pleasant warmth even during winter.",
+                "da": "Glasovnene udstråler en behagelig varme, også om vinteren."
               }
             },
             {
@@ -776,7 +844,8 @@
                 "de": "Eine heiße Suppe ist die ideale Stärkung für die Weiterfahrt.",
                 "hu": "Egy forró leves ideális energiapótlás a továbbhaladáshoz.",
                 "ro": "O supă fierbinte este energizarea ideală pentru continuarea drumului.",
-                "en": "A hot soup is the ideal fuel for the rest of your winter ride."
+                "en": "A hot soup is the ideal fuel for the rest of your winter ride.",
+                "da": "En varm suppe er det ideelle brændstof til resten af din vintertur."
               }
             },
             {
@@ -785,7 +854,8 @@
                 "de": "Vorsicht vor Windböen, die auf den freien Flächen kälter wirken.",
                 "hu": "Vigyázzon a széllökésekre, amelyek a nyílt terepen hidegebbnek hatnak.",
                 "ro": "Atenție la rafalele de vânt, care par mai reci în zonele deschise.",
-                "en": "Watch out for wind gusts, which feel much colder in open areas."
+                "en": "Watch out for wind gusts, which feel much colder in open areas.",
+                "da": "Pas på vindstød, som føles meget koldere i åbne områder."
               }
             },
             {
@@ -794,7 +864,8 @@
                 "de": "Sorgen Sie für gute Beleuchtung, da es früh dunkel wird.",
                 "hu": "Gondoskodjon a jó világításról, mert korán sötétedik.",
                 "ro": "Asigurați o iluminare bună, deoarece se întunecă devreme.",
-                "en": "Ensure you have good bike lights as it gets dark very early."
+                "en": "Ensure you have good bike lights as it gets dark very early.",
+                "da": "Sørg for at have gode cykellygter, da det bliver meget tidligt mørkt."
               }
             }
           ],
@@ -822,6 +893,12 @@
               "Avoid excessive sweating to prevent getting chilled later.",
               "Cycle paths can be slippery in patches during winter.",
               "A neck gaiter or buff protects your face from icy winds."
+            ],
+            "da": [
+              "Bær varme, vindtætte handsker og skoovertræk til cykelsko.",
+              "Undgå overdreven svedtendens for at forhindre at blive afkølet senere.",
+              "Cykelstier kan være glatte enkelte steder om vinteren.",
+              "En halsedisse eller buff beskytter dit ansigt mod isnende vinde."
             ]
           }
         }
@@ -840,7 +917,8 @@
             "de": "Gavnø Slot",
             "hu": "Gavnø kastély",
             "ro": "Castelul Gavnø",
-            "en": "Gavnø Castle"
+            "en": "Gavnø Castle",
+            "da": "Gavnø Slot"
           },
           "coords": [
             11.719,
@@ -856,7 +934,8 @@
             "de": "Der Schlosspark ist berühmt für seine riesige Tulpenausstellung im Frühling.",
             "hu": "A kastélypark tavasszal a hatalmas tulipánkiállításáról híres.",
             "ro": "Parcul castelului este renumit pentru expoziția sa uriașă de lalele primăvara.",
-            "en": "The castle park is famous for its huge tulip exhibition in spring."
+            "en": "The castle park is famous for its huge tulip exhibition in spring.",
+            "da": "Slotsparken er berømt for sin store tulipanudstilling om foråret."
           }
         },
         {
@@ -864,7 +943,8 @@
             "de": "Spaziergang im Schlosspark",
             "hu": "Séta a kastélyparkban",
             "ro": "Plimbare în parcul castelului",
-            "en": "Walk in the Castle Park"
+            "en": "Walk in the Castle Park",
+            "da": "Gå en tur i Slotsparken"
           },
           "coords": [
             11.721,
@@ -880,7 +960,8 @@
             "de": "Entdecken Sie das Baumhaus und den Abenteuerspielplatz.",
             "hu": "Fedezze fel a lombházat és a kalandjátszóteret.",
             "ro": "Descoperiți casa din copac și locul de joacă de aventură.",
-            "en": "Discover the treehouse and the adventure playground."
+            "en": "Discover the treehouse and the adventure playground.",
+            "da": "Opdag træhuset og legepladsen med aktiviteter."
           }
         },
         {
@@ -888,7 +969,8 @@
             "de": "Holmegaard Værk",
             "hu": "Holmegaard Værk",
             "ro": "Holmegaard Værk",
-            "en": "Holmegaard Værk"
+            "en": "Holmegaard Værk",
+            "da": "Holmegaard Værk"
           },
           "coords": [
             11.77,
@@ -904,7 +986,8 @@
             "de": "Buchen Sie einen Glasbläser-Workshop für ein interaktives Erlebnis.",
             "hu": "Foglaljon üvegfúvó workshopot egy interaktív élményért.",
             "ro": "Rezervați un atelier de suflare a sticlei pentru o experiență interactivă.",
-            "en": "Book a glass-blowing workshop for an interactive experience."
+            "en": "Book a glass-blowing workshop for an interactive experience.",
+            "da": "Book en glaspusterworkshop for en interaktiv oplevelse."
           }
         },
         {
@@ -912,7 +995,8 @@
             "de": "Mittagessen im Museumscafé",
             "hu": "Ebéd a Múzeumi Kávézóban",
             "ro": "Prânz la Cafeneaua Muzeului",
-            "en": "Lunch at the Museum Café"
+            "en": "Lunch at the Museum Café",
+            "da": "Frokost i Museumscaféen"
           },
           "coords": [
             11.771,
@@ -928,7 +1012,8 @@
             "de": "Moderne nordische Küche in kreativem Ambiente.",
             "hu": "Modern északi konyha kreatív környezetben.",
             "ro": "Bucătărie nordică modernă într-un cadru creativ.",
-            "en": "Modern Nordic cuisine in a creative setting."
+            "en": "Modern Nordic cuisine in a creative setting.",
+            "da": "Moderne nordisk køkken i en kreativ indramning."
           }
         },
         {
@@ -936,7 +1021,8 @@
             "de": "Gisselfeld Kloster",
             "hu": "Gisselfeld kolostor",
             "ro": "Mănăstirea Gisselfeld",
-            "en": "Gisselfeld Abbey"
+            "en": "Gisselfeld Abbey",
+            "da": "Gisselfeld Kloster"
           },
           "coords": [
             11.97,
@@ -952,7 +1038,8 @@
             "de": "Der Park ist ein Paradebeispiel englischer Landschaftsgärtnerei.",
             "hu": "A park az angol tájépítészet mintapéldája.",
             "ro": "Parcul este un exemplu excelent de grădinărit peisagistic englezesc.",
-            "en": "The park is a prime example of English landscape gardening."
+            "en": "The park is a prime example of English landscape gardening.",
+            "da": "Parken er et fornemt eksempel på engelsk landskabsarkitektur."
           }
         },
         {
@@ -960,7 +1047,8 @@
             "de": "Aussicht vom Paradehuset",
             "hu": "Kilátás a Paradehusetből",
             "ro": "Vedere de la Paradehuset",
-            "en": "View from the Paradehuset"
+            "en": "View from the Paradehuset",
+            "da": "Udsigt fra Paradehuset"
           },
           "coords": [
             11.972,
@@ -976,7 +1064,8 @@
             "de": "Ein wunderschöner Ort, um das Licht des späten Nachmittags einzufangen.",
             "hu": "Csodálatos hely a késő délutáni fények megörökítésére.",
             "ro": "Un loc frumos pentru a surprinde lumina de după-amiază târzie.",
-            "en": "A beautiful spot to catch the late afternoon light."
+            "en": "A beautiful spot to catch the late afternoon light.",
+            "da": "Et smukt sted til at fange det sene eftermiddagslys."
           }
         },
         {
@@ -984,7 +1073,8 @@
             "de": "Villa Galina",
             "hu": "Villa Galina",
             "ro": "Villa Galina",
-            "en": "Villa Galina"
+            "en": "Villa Galina",
+            "da": "Villa Galina"
           },
           "coords": [
             11.96,
@@ -1000,7 +1090,8 @@
             "de": "Genießen Sie einen Kaffee mit Blick über den Wald.",
             "hu": "Igyon egy kávét az erdőre néző kilátással.",
             "ro": "Savurați o cafea cu vedere la pădure.",
-            "en": "Enjoy a coffee with a view over the forest."
+            "en": "Enjoy a coffee with a view over the forest.",
+            "da": "Nyd en kaffe med udsigt over skoven."
           }
         }
       ],
@@ -1008,7 +1099,8 @@
         "de": "Ihre Autotour beginnt am prächtigen Gavnø Slot, wo Sie den Vormittag damit verbringen, das Schloss und seine berühmten Gärten zu erkunden. Nach einem kurzen Spaziergang im Park fahren Sie weiter zum Holmegaard Værk. Dort tauchen Sie in die Welt der Glaskunst ein und genießen ein Mittagessen im Museumscafé. Am Nachmittag bringt Sie eine malerische Fahrt zum Gisselfeld Kloster, einem Anwesen mit einem atemberaubenden Landschaftspark. Ein kurzer Spaziergang zum Paradehuset bietet eine schöne Aussicht, bevor Sie den Tag in der Villa Galina bei einem Kaffee ausklingen lassen.",
         "hu": "Autós túrája a csodálatos Gavnø kastélynál kezdődik, ahol a délelőttöt a kastély és híres kertjeinek felfedezésével tölti. Egy rövid séta után a parkban továbbutazik a Holmegaard Værk-be. Ott elmerülhet az üvegművészet világában, és ebédelhet a múzeumi kávézóban. Délután egy festői út vezet a Gisselfeld kolostorhoz, egy lenyűgöző tájképi parkkal rendelkező birtokhoz. Egy rövid séta a Paradehuset-hez gyönyörű kilátást nyújt, mielőtt a napot a Villa Galinában egy kávéval zárja.",
         "ro": "Turul cu mașina începe la magnificul Castel Gavnø, unde veți petrece dimineața explorând castelul și faimoasele sale grădini. După o scurtă plimbare în parc, continuați spre Holmegaard Værk. Acolo, vă veți cufunda în lumea artei sticlei și veți savura prânzul la cafeneaua muzeului. După-amiaza, o plimbare pitorească cu mașina vă duce la Mănăstirea Gisselfeld, o proprietate cu un parc peisagistic uluitor. O scurtă plimbare până la Paradehuset oferă priveliști frumoase înainte de a încheia ziua cu o cafea la Villa Galina.",
-        "en": "Your car tour begins at the magnificent Gavnø Castle, where you'll spend the morning exploring the castle and its famous gardens. After a short walk in the park, you'll continue to Holmegaard Værk. There, you will immerse yourself in the world of glass art and enjoy lunch at the museum café. In the afternoon, a scenic drive takes you to Gisselfeld Abbey, an estate with a stunning landscape park. A short walk to the Paradehuset offers beautiful views before you end the day with a coffee at Villa Galina."
+        "en": "Your car tour begins at the magnificent Gavnø Castle, where you'll spend the morning exploring the castle and its famous gardens. After a short walk in the park, you'll continue to Holmegaard Værk. There, you will immerse yourself in the world of glass art and enjoy lunch at the museum café. In the afternoon, a scenic drive takes you to Gisselfeld Abbey, an estate with a stunning landscape park. A short walk to the Paradehuset offers beautiful views before you end the day with a coffee at Villa Galina.",
+        "da": "Din biltur begynder ved storslåede Gavnø Slot, hvor du tilbringer morgenen med at udforske slottet og dets berømte haver. Efter en kort gåtur i parken fortsætter du til Holmegaard Værk. Der dykker du ned i glaskunstens verden og nyder frokost i museumscaféen. Om eftermiddagen tager en naturskøn køretur dig til Gisselfeld Kloster, en herregård med en fantastisk landskabspark. En kort gåtur til Paradehuset giver smukke udsigter, inden du afslutter dagen med en kop kaffe på Villa Galina."
       },
       "gastro_picks": {
         "de": [
@@ -1170,6 +1262,12 @@
           "Parking fees may apply.",
           "Plan for extra time for traffic on country roads.",
           "The car gives you the flexibility to also discover smaller, remote places."
+        ],
+        "da": [
+          "Tjek åbningstider og billetpriser for slotte online.",
+          "Der kan være parkeringsafgifter.",
+          "Planlæg ekstra tid til trafik på landeveje.",
+          "Bilen giver dig fleksibilitet til også at finde mindre, afsides steder."
         ]
       },
       "variants": {
@@ -1178,7 +1276,8 @@
             "de": "Ein Regentag ist ideal für eine Schlössertour per Auto. Morgens erkunden wir die prunkvollen Innenräume von Schloss Gavnø. Mittags besuchen wir das Holmegaard Værk Museum, gefolgt von einem Lunch im Trockenen. Nachmittags steht das beeindruckende Gisselfeld Kloster auf dem Programm, wo wir die Architektur ohne nass zu werden bewundern können. Die Fahrt durch die grüne, dänische Landschaft ist auch bei Regen entspannend.",
             "hu": "Az esős idő ideális egy autós kastélytúrához. Reggel a Gavnø-kastély díszes termeit fedezzük fel. Délben a Holmegaard Værk múzeumba látogatunk, majd száraz helyen ebédelünk. Délután a lenyűgöző Gisselfeld kolostor következik, ahol az építészetet anélkül csodálhatjuk meg, hogy eláznánk. Az utazás a zöld dán tájon át esőben is pihentető.",
             "ro": "O zi ploioasă este ideală pentru un tur al castelelor cu mașina. Dimineața explorăm sălile fastuoase ale Castelului Gavnø. La prânz vizităm muzeul Holmegaard Værk, urmat de un prânz la adăpost. După-amiaza este programată impresionanta mănăstire Gisselfeld, unde putem admira arhitectura fără a ne uda. Drumul prin peisajul verde danez este relaxant chiar și pe ploaie.",
-            "en": "A rainy day is perfect for a castle tour by car. In the morning, we explore the opulent interiors of Gavnø Castle. At noon, we visit the Holmegaard Værk museum, followed by a dry lunch. In the afternoon, the impressive Gisselfeld Abbey is on the program, where we can admire the architecture without getting wet. Driving through the green Danish countryside is relaxing even in the rain."
+            "en": "A rainy day is perfect for a castle tour by car. In the morning, we explore the opulent interiors of Gavnø Castle. At noon, we visit the Holmegaard Værk museum, followed by a dry lunch. In the afternoon, the impressive Gisselfeld Abbey is on the program, where we can admire the architecture without getting wet. Driving through the green Danish countryside is relaxing even in the rain.",
+            "da": "En regnvejrsdag er perfekt til en slotsrundtur i bil. Om morgenen udforsker vi Gavnø Slots overdådige interiører. Ved middagstid besøger vi Holmegaard Værk, efterfulgt af en tør frokost. Om eftermiddagen er det imponerende Gisselfeld Kloster på programmet, hvor vi kan beundre arkitekturen uden at blive våde. At køre gennem det grønne danske landskab er afslappende selv i regnvejr."
           },
           "stops": [
             {
@@ -1187,7 +1286,8 @@
                 "de": "Parken Sie nah am Eingang, um den Weg im Regen kurzzuhalten.",
                 "hu": "Parkoljon közel a bejárathoz, hogy lerövidítse az utat az esőben.",
                 "ro": "Parcați aproape de intrare pentru a scurta drumul prin ploaie.",
-                "en": "Park close to the entrance to minimize walking in the rain."
+                "en": "Park close to the entrance to minimize walking in the rain.",
+                "da": "Parkér tæt ved indgangen for at minimere gang i regnen."
               }
             },
             {
@@ -1196,7 +1296,8 @@
                 "de": "Ein Schirm ist für die kurzen Wege zwischen den Gebäuden nötig.",
                 "hu": "Az épületek közötti rövid utakhoz esernyő szükséges.",
                 "ro": "O umbrelă este necesară pentru distanțele scurte dintre clădiri.",
-                "en": "An umbrella is necessary for the short distances between buildings."
+                "en": "An umbrella is necessary for the short distances between buildings.",
+                "da": "En paraply er nødvendig til de korte distancer mellem bygningerne."
               }
             },
             {
@@ -1205,7 +1306,8 @@
                 "de": "Perfektes Ziel bei Dauerregen mit großen Innenflächen.",
                 "hu": "Tökéletes célpont tartós esőben a nagy belső terek miatt.",
                 "ro": "Destinație perfectă în caz de ploaie continuă datorită spațiilor mari.",
-                "en": "A perfect destination during continuous rain with large indoor areas."
+                "en": "A perfect destination during continuous rain with large indoor areas.",
+                "da": "Et perfekt mål under vedvarende regn med store indendørsområder."
               }
             },
             {
@@ -1214,7 +1316,8 @@
                 "de": "Genießen Sie den Blick auf die verregnete Natur aus dem Warmen.",
                 "hu": "Élvezze a kilátást az esős természetre a meleg belső térből.",
                 "ro": "Bucurați-vă de vederea naturii ploiase din interiorul călduros.",
-                "en": "Enjoy the view of the rainy nature from the warm indoor café."
+                "en": "Enjoy the view of the rainy nature from the warm indoor café.",
+                "da": "Nyd udsigten over det regnfulde landskab fra den varme café indendørs."
               }
             },
             {
@@ -1223,7 +1326,8 @@
                 "de": "Die Innenausstattung ist ein Highlight an grauen Tagen.",
                 "hu": "A belső berendezés igazi fénypont a szürke napokon.",
                 "ro": "Amenajările interioare sunt un punct forte în zilele gri.",
-                "en": "The interior furnishings are a true highlight on grey days."
+                "en": "The interior furnishings are a true highlight on grey days.",
+                "da": "Interiøret er et ægte højdepunkt på grå dage."
               }
             },
             {
@@ -1232,7 +1336,8 @@
                 "de": "Das Gewächshaus bietet exotische Pflanzen und Schutz vor Regen.",
                 "hu": "Az üvegház egzotikus növényeket és védelmet nyújt az eső elől.",
                 "ro": "Sera oferă plante exotice și protecție împotriva ploii.",
-                "en": "The greenhouse offers exotic plants and protection from the rain."
+                "en": "The greenhouse offers exotic plants and protection from the rain.",
+                "da": "Drivhuset byder på eksotiske planter og skjul mod regnen."
               }
             },
             {
@@ -1241,7 +1346,8 @@
                 "de": "Ein gemütlicher Ort für einen Kaffee am späten Nachmittag.",
                 "hu": "Hangulatos hely egy délutáni kávéhoz esős időben.",
                 "ro": "Un loc primitor pentru o cafea după-amiaza târziu.",
-                "en": "A cozy spot for an afternoon coffee during rainy weather."
+                "en": "A cozy spot for an afternoon coffee during rainy weather.",
+                "da": "Et hyggeligt sted til en eftermiddagskaffe i regnvejr."
               }
             }
           ],
@@ -1269,6 +1375,12 @@
               "Keep wet umbrellas in the trunk to prevent windows from fogging up.",
               "Be aware of aquaplaning risks on rural roads during heavy rain.",
               "Castles often have cloakrooms where you can leave wet clothing."
+            ],
+            "da": [
+              "Benyt parkeringspladserne, der ligger direkte ved attraktionerne.",
+              "Opbevar våde paraplyer i bagagerummet for at undgå dug på ruderne.",
+              "Vær opmærksom på akvaplaningsrisiko på landeveje ved kraftig regn.",
+              "Slotte har ofte garderober, hvor du kan aflevere våde klæder."
             ]
           }
         },
@@ -1277,7 +1389,8 @@
             "de": "Eine winterliche Autofahrt führt uns morgens zum Schloss Gavnø, das in der klaren Kälte majestätisch wirkt. Mittags besuchen wir das Holmegaard Værk, wo die Glasherstellung eine warme Atmosphäre schafft. Nachmittags geht es zum Gisselfeld Kloster und zum Paradehuset, einem warmen Refugium mit grünen Pflanzen. Der Tag endet bei einsetzender Dunkelheit an der Villa Galina, während wir die beleuchtete Winterlandschaft genießen.",
             "hu": "A téli autós utazás reggel a Gavnø-kastélyhoz vezet, amely méltóságteljes a hidegben. Délben a Holmegaard Værkbe látogatunk, ahol az üveggyártás meleg hangulatot áraszt. Délután a Gisselfeld kolostor és a Paradehuset üvegháza következik, amely zöld menedék a télben. A nap a Villa Galinánál zárul, miközben a kivilágított téli tájat csodáljuk.",
             "ro": "O călătorie de iarnă cu mașina ne duce dimineața la Castelul Gavnø, care arată maiestuos în frigul clar. La prânz vizităm Holmegaard Værk, unde fabricarea sticlei creează o atmosferă caldă. După-amiaza mergem la mănăstirea Gisselfeld și la Paradehuset, un refugiu cald cu plante verzi. Ziua se încheie la Villa Galina, admirând peisajul luminat de iarnă.",
-            "en": "A winter drive takes us to Gavnø Castle in the morning, which looks majestic in the crisp cold. At noon, we visit Holmegaard Værk, where the glassmaking creates a warm atmosphere. In the afternoon, we head to Gisselfeld Abbey and the Paradehuset, a warm refuge with green plants. The day ends at Villa Galina as we enjoy the illuminated winter scenery."
+            "en": "A winter drive takes us to Gavnø Castle in the morning, which looks majestic in the crisp cold. At noon, we visit Holmegaard Værk, where the glassmaking creates a warm atmosphere. In the afternoon, we head to Gisselfeld Abbey and the Paradehuset, a warm refuge with green plants. The day ends at Villa Galina as we enjoy the illuminated winter scenery.",
+            "da": "En vinterkøretur fører os om morgenen til Gavnø Slot, som ser majestætisk ud i den klare kulde. Ved middagstid besøger vi Holmegaard Værk, hvor glasproduktion skaber en varm atmosfære. Om eftermiddagen kører vi til Gisselfeld Kloster og Paradehuset, et varmt tilflugtssted med grønne planter. Dagen ender på Villa Galina, mens vi nyder det oplyste vinterlandskab."
           },
           "stops": [
             {
@@ -1286,7 +1399,8 @@
                 "de": "Die Innenräume sind im Winter oft stimmungsvoll beleuchtet.",
                 "hu": "A belső tereket télen gyakran hangulatosan világítják meg.",
                 "ro": "Interioarele sunt adesea iluminate atmosferic iarna.",
-                "en": "The interiors are often atmospheric and beautifully lit in winter."
+                "en": "The interiors are often atmospheric and beautifully lit in winter.",
+                "da": "Interiørerne er ofte stemningsfulde og smukt oplyste om vinteren."
               }
             },
             {
@@ -1295,7 +1409,8 @@
                 "de": "Genießen Sie den Blick auf die frostigen Gärten vom Schlosstor aus.",
                 "hu": "Élvezze a zúzmarás kertek látványát a kastélykapuból.",
                 "ro": "Bucurați-vă de vederea grădinilor înghețate de la poarta castelului.",
-                "en": "Enjoy the view of the frosty gardens from the castle gate."
+                "en": "Enjoy the view of the frosty gardens from the castle gate.",
+                "da": "Nyd udsigten over de frostklare haver fra slotsporten."
               }
             },
             {
@@ -1304,7 +1419,8 @@
                 "de": "Ein idealer Ort, um der Kälte für einige Stunden zu entfliehen.",
                 "hu": "Ideális hely, hogy néhány órára elmeneküljön a hideg elől.",
                 "ro": "Un loc ideal pentru a scăpa de frig timp de câteva ore.",
-                "en": "An ideal place to escape the biting cold for a few hours."
+                "en": "An ideal place to escape the biting cold for a few hours.",
+                "da": "Et ideelt sted at slippe væk fra bidende kulde i nogle timer."
               }
             },
             {
@@ -1313,7 +1429,8 @@
                 "de": "Probieren Sie typisch dänische Winterspezialitäten.",
                 "hu": "Kóstolja meg a tipikus dán téli különlegességeket.",
                 "ro": "Gustați specialități tipice daneze de iarnă.",
-                "en": "Try some typical Danish winter specialties for lunch."
+                "en": "Try some typical Danish winter specialties for lunch.",
+                "da": "Prøv nogle typiske danske vinterretter til frokost."
               }
             },
             {
@@ -1322,7 +1439,8 @@
                 "de": "Das Kloster wirkt in der kargen Winterlandschaft sehr imposant.",
                 "hu": "A kolostor nagyon impozáns a kopár téli tájban.",
                 "ro": "Mănăstirea arată foarte impunător în peisajul arid de iarnă.",
-                "en": "The abbey looks very imposing in the barren winter landscape."
+                "en": "The abbey looks very imposing in the barren winter landscape.",
+                "da": "Klosteret virker meget imponerende i det nøgne vinterlandskab."
               }
             },
             {
@@ -1331,7 +1449,8 @@
                 "de": "Im Winter ist dies der wärmste und grünste Ort der Tour.",
                 "hu": "Télen ez a túra legmelegebb és legzöldebb pontja.",
                 "ro": "Iarna, acesta este cel mai cald și mai verde loc al turului.",
-                "en": "In winter, this is the warmest and greenest spot on the tour."
+                "en": "In winter, this is the warmest and greenest spot on the tour.",
+                "da": "Om vinteren er dette det varmeste og grønneste sted på turen."
               }
             },
             {
@@ -1340,7 +1459,8 @@
                 "de": "Die Lichter am Gebäude sorgen für eine gemütliche Abendstimmung.",
                 "hu": "Az épület fényei meghitt esti hangulatot árasztanak.",
                 "ro": "Luminile clădirii creează o atmosferă primitoare de seară.",
-                "en": "The building's lights create a cozy evening atmosphere."
+                "en": "The building's lights create a cozy evening atmosphere.",
+                "da": "Bygningens lys skaber en hyggelig aftensstemning."
               }
             }
           ],
@@ -1368,6 +1488,12 @@
               "Rural roads can be very slippery during frosty weather.",
               "Use the seat heating for extra comfort between stops.",
               "Be aware of shortened winter opening hours for some castles."
+            ],
+            "da": [
+              "Sørg for, at din bil har vinterdæk og en isskraber.",
+              "Landveje kan være meget glatte i frostvejr.",
+              "Brug sædevarmen for ekstra komfort mellem stoppen.",
+              "Vær opmærksom på kortere vinteråbningstider for nogle slotte."
             ]
           }
         }
@@ -1386,7 +1512,8 @@
             "de": "Herlufmagle Kirke",
             "hu": "Herlufmagle-templom",
             "ro": "Biserica Herlufmagle",
-            "en": "Herlufmagle Church"
+            "en": "Herlufmagle Church",
+            "da": "Herlufmagle Kirke"
           },
           "coords": [
             11.7215,
@@ -1402,7 +1529,8 @@
             "de": "Beginnen Sie hier, in der Nähe der zentralen Bushaltestelle.",
             "hu": "Kezdje itt, a központi buszmegálló közelében.",
             "ro": "Începeți de aici, aproape de stația centrală de autobuz.",
-            "en": "Start here, near the central bus stop."
+            "en": "Start here, near the central bus stop.",
+            "da": "Start her, nær det centrale busstoppested."
           }
         },
         {
@@ -1410,7 +1538,8 @@
             "de": "Holmegaard Værk",
             "hu": "Holmegaard Værk",
             "ro": "Holmegaard Værk",
-            "en": "Holmegaard Værk"
+            "en": "Holmegaard Værk",
+            "da": "Holmegaard Værk"
           },
           "coords": [
             11.77,
@@ -1426,7 +1555,8 @@
             "de": "Die Bushaltestelle befindet sich direkt vor dem Eingang.",
             "hu": "A buszmegálló közvetlenül a bejárat előtt található.",
             "ro": "Stația de autobuz este chiar în fața intrării.",
-            "en": "The bus stop is right outside the entrance."
+            "en": "The bus stop is right outside the entrance.",
+            "da": "Busstoppet ligger lige udenfor indgangen."
           }
         },
         {
@@ -1434,7 +1564,8 @@
             "de": "Mittagessen in der Nähe",
             "hu": "Ebéd a közelben",
             "ro": "Prânz în apropiere",
-            "en": "Lunch nearby"
+            "en": "Lunch nearby",
+            "da": "Frokost i nærheden"
           },
           "coords": [
             11.771,
@@ -1450,7 +1581,8 @@
             "de": "Genießen Sie ein Mittagessen, bevor Sie den nächsten Bus nehmen.",
             "hu": "Ebédeljen egyet, mielőtt felszáll a következő buszra.",
             "ro": "Luați prânzul înainte de a lua următorul autobuz.",
-            "en": "Have lunch before catching the next bus."
+            "en": "Have lunch before catching the next bus.",
+            "da": "Spis frokost inden du tager næste bus."
           }
         },
         {
@@ -1458,7 +1590,8 @@
             "de": "Herlufsholm Skole",
             "hu": "Herlufsholm Iskola",
             "ro": "Școala Herlufsholm",
-            "en": "Herlufsholm School"
+            "en": "Herlufsholm School",
+            "da": "Herlufsholm Skole"
           },
           "coords": [
             11.71,
@@ -1474,7 +1607,8 @@
             "de": "Von der Haltestelle ist es ein kurzer Spaziergang durch eine Allee.",
             "hu": "A megállótól egy rövid séta vezet egy fasoron keresztül.",
             "ro": "De la stație este o scurtă plimbare printr-o alee cu copaci.",
-            "en": "It's a short walk from the bus stop through an avenue of trees."
+            "en": "It's a short walk from the bus stop through an avenue of trees.",
+            "da": "Det er en kort gåtur fra busstoppet gennem en allé af træer."
           }
         },
         {
@@ -1482,7 +1616,8 @@
             "de": "Spaziergang am Susåen in Næstved",
             "hu": "Séta a Susåen mentén Næstvedben",
             "ro": "Plimbare de-a lungul Susåen în Næstved",
-            "en": "Walk along Susåen in Næstved"
+            "en": "Walk along Susåen in Næstved",
+            "da": "Gå langs Susåen i Næstved"
           },
           "coords": [
             11.75,
@@ -1498,7 +1633,8 @@
             "de": "Ein entspannender Abschluss des Tages am Wasser.",
             "hu": "Pihentető befejezése a napnak a vízparton.",
             "ro": "O încheiere relaxantă a zilei pe malul apei.",
-            "en": "A relaxing end to the day by the water."
+            "en": "A relaxing end to the day by the water.",
+            "da": "En afslappende afslutning på dagen ved vandet."
           }
         }
       ],
@@ -1506,7 +1642,8 @@
         "de": "Nutzen Sie die lokalen Busse, um die Region zu erkunden. Nach dem Start an der Kirche in Herlufmagle bringt Sie ein Bus direkt zum Holmegaard Værk. Verbringen Sie den Vormittag mit der Erkundung des Glasmuseums und genießen Sie ein Mittagessen, bevor Sie weiterfahren. Die nächste Fahrt führt Sie zur prestigeträchtigen Herlufsholm Skole. Ein kurzer Spaziergang führt Sie über das Gelände. Schließlich bringt Sie ein Bus in die Nähe des Flusses Susåen in der größeren Stadt Næstved, wo Sie den Tag mit einem friedlichen Spaziergang am Wasser ausklingen lassen können.",
         "hu": "Használja a helyi buszokat a régió felfedezéséhez. A herlufmagle-i templomtól indulva egy busz közvetlenül a Holmegaard Værk-hez visz. Töltse a délelőttöt az üvegmúzeum felfedezésével és ebédeljen, mielőtt továbbindul. A következő út a tekintélyes Herlufsholm Iskolához vezet. Egy rövid séta vezet a területen keresztül. Végül egy busz a Susåen folyó közelébe visz Næstved nagyobb városában, ahol a napot egy békés vízparti sétával zárhatja.",
         "ro": "Folosiți autobuzele locale pentru a explora regiunea. După ce porniți de la biserica din Herlufmagle, un autobuz vă duce direct la Holmegaard Værk. Petreceți dimineața explorând muzeul sticlei și savurați prânzul înainte de a merge mai departe. Următoarea călătorie vă duce la prestigioasa Școală Herlufsholm. O scurtă plimbare vă va purta prin incintă. În cele din urmă, un autobuz vă va duce în apropierea râului Susåen în orașul mai mare Næstved, unde puteți încheia ziua cu o plimbare liniștită pe malul apei.",
-        "en": "Use the local buses to explore the region. After starting at the church in Herlufmagle, a bus will take you directly to Holmegaard Værk. Spend the morning exploring the glass museum and enjoy lunch before moving on. The next ride takes you to the prestigious Herlufsholm School. A short walk will take you across the grounds. Finally, a bus will take you near the Susåen river in the larger town of Næstved, where you can end the day with a peaceful walk by the water."
+        "en": "Use the local buses to explore the region. After starting at the church in Herlufmagle, a bus will take you directly to Holmegaard Værk. Spend the morning exploring the glass museum and enjoy lunch before moving on. The next ride takes you to the prestigious Herlufsholm School. A short walk will take you across the grounds. Finally, a bus will take you near the Susåen river in the larger town of Næstved, where you can end the day with a peaceful walk by the water.",
+        "da": "Brug de lokale busser til at udforske regionen. Efter at være startet ved kirken i Herlufmagle tager en bus dig direkte til Holmegaard Værk. Brug formiddagen på at udforske glasmuseet og nyd frokost inden I går videre. Næste tur fører jer til den prestigefyldte Herlufsholm Skole. En kort gåtur fører jer over området. Endelig tager en bus jer tæt på Susåen i den større by Næstved, hvor I kan slutte dagen med en fredelig gåtur ved vandet."
       },
       "gastro_picks": {
         "de": [
@@ -1609,6 +1746,12 @@
           "Plan for waiting times between buses, especially on weekends.",
           "A day pass is often cheaper than single tickets.",
           "Be mindful of the last bus connection back to Herlufmagle."
+        ],
+        "da": [
+          "Download den lokale rejseapp til køreplaner og billetter.",
+          "Planlæg ventetider mellem busser, især i weekenden.",
+          "En dagsbillet er ofte billigere end enkeltbilletter.",
+          "Hav styr på sidste busforbindelse tilbage til Herlufmagle."
         ]
       },
       "variants": {
@@ -1617,7 +1760,8 @@
             "de": "Morgens nehmen wir den Bus zur Herlufmagle Kirche, die Schutz vor dem Regen bietet. Mittags geht es mit dem ÖPNV zum Holmegaard Værk, wo die Ausstellungen im Trockenen erkundet werden können. Nach einem Lunch fahren wir zur Herlufsholm Schule. Ein kurzer Spaziergang entlang der Susåen in Næstved schließt den Tag ab, wobei die Busverbindungen das Warten im Regen minimieren.",
             "hu": "Reggel busszal utazunk a Herlufmagle templomhoz, amely védelmet nyújt az eső elől. Délben tömegközlekedéssel megyünk a Holmegaard Værkhez, ahol szárazon nézhetjük meg a kiállításokat. Ebéd után a Herlufsholm iskolához utazunk. A napot egy rövid Susåen menti séta zárja Næstvedben, a buszjáratok pedig minimalizálják az esőben való várakozást.",
             "ro": "Dimineața luăm autobuzul spre biserica Herlufmagle, care oferă protecție împotriva ploii. La prânz mergem cu transportul public la Holmegaard Værk, unde expozițiile pot fi explorate la uscat. După prânz, mergem la școala Herlufsholm. Ziua se încheie cu o scurtă plimbare pe lângă Susåen în Næstved, conexiunile de autobuz minimizând așteptarea în ploaie.",
-            "en": "In the morning, we take the bus to Herlufmagle Church, which offers shelter from the rain. At noon, we travel by public transport to Holmegaard Værk to explore the exhibitions while staying dry. After lunch, we take the bus to Herlufsholm School. The day concludes with a short walk along the Susåen in Næstved, with bus schedules timed to minimize waiting in the rain."
+            "en": "In the morning, we take the bus to Herlufmagle Church, which offers shelter from the rain. At noon, we travel by public transport to Holmegaard Værk to explore the exhibitions while staying dry. After lunch, we take the bus to Herlufsholm School. The day concludes with a short walk along the Susåen in Næstved, with bus schedules timed to minimize waiting in the rain.",
+            "da": "Om morgenen tager vi bussen til Herlufmagle Kirke, som giver husly for regnen. Ved middagstid rejser vi med offentlig transport til Holmegaard Værk for at se udstillingerne og holde os tørre. Efter frokost tager vi bussen til Herlufsholm Skole. Dagen afsluttes med en kort gåtur langs Susåen i Næstved, hvor køreplanerne er tilrettelagt for at minimere ventetid i regnen."
           },
           "stops": [
             {
@@ -1626,7 +1770,8 @@
                 "de": "Die Bushaltestelle liegt nur wenige Gehminuten entfernt.",
                 "hu": "A buszmegálló mindössze néhány perc sétára található.",
                 "ro": "Stația de autobuz este la doar câteva minute de mers pe jos.",
-                "en": "The bus stop is located just a few minutes' walk away."
+                "en": "The bus stop is located just a few minutes' walk away.",
+                "da": "Busstoppet ligger kun få minutters gang væk."
               }
             },
             {
@@ -1635,7 +1780,8 @@
                 "de": "Planen Sie den Besuch passend zu den Busabfahrtszeiten.",
                 "hu": "Tervezze a látogatást a busz indulási idejéhez igazítva.",
                 "ro": "Planificați vizita în funcție de orele de plecare ale autobuzului.",
-                "en": "Plan your visit to coincide with the bus departure times."
+                "en": "Plan your visit to coincide with the bus departure times.",
+                "da": "Planlæg dit besøg, så det passer med busafgangene."
               }
             },
             {
@@ -1644,7 +1790,8 @@
                 "de": "Wählen Sie ein Lokal in der Nähe der Haltestelle.",
                 "hu": "Válasszon egy helyet a buszmegálló közelében.",
                 "ro": "Alegeți un local situat aproape de stația de autobuz.",
-                "en": "Choose a dining spot located close to the bus stop."
+                "en": "Choose a dining spot located close to the bus stop.",
+                "da": "Vælg et spisested tæt på busstoppet."
               }
             },
             {
@@ -1653,7 +1800,8 @@
                 "de": "Der Weg vom Bus zur Schule führt durch eine schöne Allee.",
                 "hu": "A busztól az iskoláig vezető út egy szép fasoron visz keresztül.",
                 "ro": "Drumul de la autobuz la școală trece printr-o alee frumoasă.",
-                "en": "The path from the bus to the school leads through a lovely alley."
+                "en": "The path from the bus to the school leads through a lovely alley.",
+                "da": "Stien fra bussen til skolen fører gennem en dejlig allé."
               }
             },
             {
@@ -1662,7 +1810,8 @@
                 "de": "Beenden Sie die Tour am Bahnhof für eine trockene Heimreise.",
                 "hu": "Zárja a túrát a vasútállomáson a száraz hazatérés érdekében.",
                 "ro": "Încheiați turul la gară pentru o călătorie spre casă uscată.",
-                "en": "End the tour at the train station for a dry journey home."
+                "en": "End the tour at the train station for a dry journey home.",
+                "da": "Afslut turen ved togstationen for en tør rejse hjem."
               }
             }
           ],
@@ -1690,6 +1839,12 @@
               "Look for covered bus shelters while waiting for your connection.",
               "An umbrella is needed for the walk between the stop and attractions.",
               "Be aware of potential transit delays during heavy rainstorms."
+            ],
+            "da": [
+              "Brug 'Rejseplanen' appen til realtidsoplysninger om kollektiv trafik i regnvejr.",
+              "Søg efter overdækkede buslæskure mens du venter på din forbindelse.",
+              "En paraply er nødvendig til gåturen mellem stoppet og seværdighederne.",
+              "Vær opmærksom på mulige forsinkelser i trafikken under kraftige regnskyl."
             ]
           }
         },
@@ -1698,7 +1853,8 @@
             "de": "Am Wintermorgen bringt uns der Bus zur Herlufmagle Kirche, wo wir die Stille genießen. Mittags fahren wir zum Holmegaard Værk, einem warmen Ort voller Geschichte. Nachmittags geht es weiter zur Herlufsholm Schule, deren Gebäude im Winterlicht beeindrucken. Der Tag endet mit einem kurzen Gang an der Susåen in Næstved, bevor wir uns in den beheizten Zug oder Bus für die Rückreise begeben.",
             "hu": "Téli reggelen busz visz a Herlufmagle templomhoz, ahol élvezzük a csendet. Délben a Holmegaard Værkbe utazunk, amely meleg és történelemmel teli hely. Délután a Herlufsholm iskola következik, melynek épületei lenyűgözőek a téli fényben. A nap Næstvedben a Susåen-parti sétával zárul, mielőtt felszállnánk a fűtött vonatra vagy buszra.",
             "ro": "În dimineața de iarnă, autobuzul ne duce la biserica Herlufmagle, unde ne bucurăm de liniște. La prânz mergem la Holmegaard Værk, un loc cald și plin de istorie. După-amiaza urmează școala Herlufsholm, ale cărei clădiri sunt impresionante în lumina iernii. Ziua se încheie cu o plimbare pe lângă Susåen în Næstved, înainte de a urca în trenul sau autobuzul încălzit.",
-            "en": "On a winter morning, the bus takes us to Herlufmagle Church where we enjoy the peace. At noon, we travel to Holmegaard Værk, a warm place full of history. In the afternoon, we visit Herlufsholm School, its buildings looking impressive in the winter light. The day ends with a short walk along the Susåen in Næstved before boarding the heated train or bus for the return trip."
+            "en": "On a winter morning, the bus takes us to Herlufmagle Church where we enjoy the peace. At noon, we travel to Holmegaard Værk, a warm place full of history. In the afternoon, we visit Herlufsholm School, its buildings looking impressive in the winter light. The day ends with a short walk along the Susåen in Næstved before boarding the heated train or bus for the return trip.",
+            "da": "På en vintermorgen tager bussen os til Herlufmagle Kirke, hvor vi nyder roen. Ved middagstid rejser vi til Holmegaard Værk, et varmt sted fuld af historie. Om eftermiddagen besøger vi Herlufsholm Skole, hvis bygninger ser imponerende ud i vinterlyset. Dagen ender med en kort gåtur langs Susåen i Næstved, før vi stiger på det opvarmede tog eller bus til hjemturen."
           },
           "stops": [
             {
@@ -1707,7 +1863,8 @@
                 "de": "Im Bus ist es angenehm warm im Vergleich zur Außenluft.",
                 "hu": "A buszon kellemes meleg van a kinti levegőhöz képest.",
                 "ro": "În autobuz este plăcut și cald comparativ cu aerul de afară.",
-                "en": "The bus is comfortably warm compared to the cold outside air."
+                "en": "The bus is comfortably warm compared to the cold outside air.",
+                "da": "Bussen er behageligt varm sammenlignet med den kolde udeluft."
               }
             },
             {
@@ -1716,7 +1873,8 @@
                 "de": "Nutzen Sie den Museumsbesuch zum vollständigen Aufwärmen.",
                 "hu": "Használja ki a múzeumlátogatást a teljes felmelegedéshez.",
                 "ro": "Folosiți vizita la muzeu pentru a vă încălzi complet.",
-                "en": "Use the museum visit to fully warm up from the cold."
+                "en": "Use the museum visit to fully warm up from the cold.",
+                "da": "Brug museumsbesøget til at blive helt varm igen efter kulden."
               }
             },
             {
@@ -1725,7 +1883,8 @@
                 "de": "Ein warmes Getränk verkürzt die Wartezeit auf den nächsten Bus.",
                 "hu": "Egy meleg ital lerövidíti a várakozási időt a következő buszig.",
                 "ro": "O băutură caldă scurtează timpul de așteptare pentru următorul autobuz.",
-                "en": "A warm drink makes the wait for the next bus feel shorter."
+                "en": "A warm drink makes the wait for the next bus feel shorter.",
+                "da": "En varm drik får ventetiden på næste bus til at føles kortere."
               }
             },
             {
@@ -1734,7 +1893,8 @@
                 "de": "Die Anlage ist im Winter oft weniger besucht und sehr ruhig.",
                 "hu": "A terület télen gyakran kevésbé látogatott és nagyon csendes.",
                 "ro": "Zona este adesea mai puțin vizitată și foarte liniștită iarna.",
-                "en": "The site is often less crowded and very peaceful in winter."
+                "en": "The site is often less crowded and very peaceful in winter.",
+                "da": "Stedet er ofte mindre overfyldt og meget fredeligt om vinteren."
               }
             },
             {
@@ -1743,7 +1903,8 @@
                 "de": "Achten Sie auf den Fahrplan, um nicht im Dunkeln zu warten.",
                 "hu": "Ügyeljen a menetrendre, hogy ne kelljen a sötétben várnia.",
                 "ro": "Verificați mersul autobuzelor pentru a nu aștepta în întuneric.",
-                "en": "Check the schedule to avoid waiting in the dark for your ride."
+                "en": "Check the schedule to avoid waiting in the dark for your ride.",
+                "da": "Tjek køreplanen for at undgå at vente i mørke på din afgang."
               }
             }
           ],
@@ -1771,6 +1932,12 @@
               "Buses in Denmark are generally well-heated during winter.",
               "Check the winter schedule for any seasonal changes or deviations.",
               "Carry reflectors so bus drivers can see you at dark stops."
+            ],
+            "da": [
+              "Bær meget varme sko, da ventetid ved stoppesteder kan give kolde fødder.",
+              "Busser i Danmark er generelt godt opvarmede om vinteren.",
+              "Tjek vinterkøreplanen for eventuelle sæsonændringer eller afvigelser.",
+              "Medbring reflekser, så buschauffører kan se dig ved mørke stoppesteder."
             ]
           }
         }

@@ -21,7 +21,8 @@
             "de": "Højbyen (Die Altstadt)",
             "hu": "Højbyen (Óváros)",
             "ro": "Højbyen (Orașul vechi)",
-            "en": "Højbyen (The Old Town)"
+            "en": "Højbyen (The Old Town)",
+            "da": "Højbyen (Den Gamle By)"
           },
           "coords": [
             11.078,
@@ -37,7 +38,8 @@
             "de": "Beginnen Sie hier mit einem Kaffee in einem der charmanten Cafés.",
             "hu": "Kezdje a napot egy kávéval az egyik hangulatos kávézóban.",
             "ro": "Începeți ziua cu o cafea la una dintre cafenelele fermecătoare.",
-            "en": "Start your day here with a coffee from one of the charming cafes."
+            "en": "Start your day here with a coffee from one of the charming cafes.",
+            "da": "Start dagen her med en kaffe fra et af de charmerende caféer."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Vor Frue Kirke (Liebfrauenkirche)",
             "hu": "Vor Frue Kirke (Miasszonyunk-templom)",
             "ro": "Biserica Vor Frue (Biserica Maicii Domnului)",
-            "en": "Vor Frue Kirke (Church of Our Lady)"
+            "en": "Vor Frue Kirke (Church of Our Lady)",
+            "da": "Vor Frue Kirke (Church of Our Lady)"
           },
           "coords": [
             11.079,
@@ -61,7 +64,8 @@
             "de": "Achten Sie auf die einzigartige fünftürmige Architektur, die an eine Burg erinnert.",
             "hu": "Figyelje meg az egyedülálló, várra emlékeztető öttornyú építészetet.",
             "ro": "Observați arhitectura unică cu cinci turnuri, care amintește de un castel.",
-            "en": "Notice the unique five-towered architecture, reminiscent of a castle."
+            "en": "Notice the unique five-towered architecture, reminiscent of a castle.",
+            "da": "Bemærk den unikke femtårnede arkitektur, som minder om et slot."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Bispegården",
             "hu": "Bispegården (Püspöki Palota)",
             "ro": "Bispegården (Palatul Episcopal)",
-            "en": "Bispegården (The Bishop's Palace)"
+            "en": "Bispegården (The Bishop's Palace)",
+            "da": "Bispegården (The Bishop's Palace)"
           },
           "coords": [
             11.077,
@@ -85,7 +90,8 @@
             "de": "Eines der am besten erhaltenen mittelalterlichen Steinhäuser Dänemarks.",
             "hu": "Dánia egyik legjobb állapotban megmaradt középkori kőháza.",
             "ro": "Una dintre cele mai bine conservate case medievale din piatră din Danemarca.",
-            "en": "One of Denmark's best-preserved medieval stone houses."
+            "en": "One of Denmark's best-preserved medieval stone houses.",
+            "da": "Et af Danmarks bedst bevarede middelalderlige stenhuse."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Kalundborg Museum",
             "hu": "Kalundborg Múzeum",
             "ro": "Muzeul Kalundborg",
-            "en": "Kalundborg Museum"
+            "en": "Kalundborg Museum",
+            "da": "Kalundborg Museum"
           },
           "coords": [
             11.081,
@@ -109,7 +116,8 @@
             "de": "Vertiefen Sie sich in die lokale Geschichte, von der Wikingerzeit bis zur industriellen Entwicklung.",
             "hu": "Merüljön el a helyi történelemben, a viking kortól az ipari fejlődésig.",
             "ro": "Aprofundați istoria locală, de la epoca vikingilor la dezvoltarea industrială.",
-            "en": "Dive into local history, from the Viking era to industrial development."
+            "en": "Dive into local history, from the Viking era to industrial development.",
+            "da": "Dyk ned i lokalhistorien, fra vikingetiden til industriudvikling."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Kalundborg Hafen",
             "hu": "Kalundborg kikötő",
             "ro": "Portul Kalundborg",
-            "en": "Kalundborg Harbour"
+            "en": "Kalundborg Harbour",
+            "da": "Kalundborg Havn"
           },
           "coords": [
             11.075,
@@ -133,7 +142,8 @@
             "de": "Ein idealer Ort für ein Mittagessen mit frischem Fisch und Blick auf die Fähren.",
             "hu": "Ideális hely egy friss halból készült ebédhez, kilátással a kompokra.",
             "ro": "Un loc ideal pentru un prânz cu pește proaspăt, cu vedere la feriboturi.",
-            "en": "An ideal spot for lunch with fresh fish while watching the ferries."
+            "en": "An ideal spot for lunch with fresh fish while watching the ferries.",
+            "da": "Et ideelt sted til frokost med frisk fisk, mens du ser færgerne."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Møllebakken",
             "hu": "Møllebakken (Malom-domb)",
             "ro": "Møllebakken (Dealul Morii)",
-            "en": "Møllebakken (Mill Hill)"
+            "en": "Møllebakken (Mill Hill)",
+            "da": "Møllebakken (Mill Hill)"
           },
           "coords": [
             11.085,
@@ -157,7 +168,8 @@
             "de": "Genießen Sie den Panoramablick auf die Stadt und die Bucht von der Spitze des Hügels.",
             "hu": "Élvezze a panorámát a városra és az öbölre a domb tetejéről.",
             "ro": "Bucurați-vă de vederea panoramică asupra orașului și a golfului de pe vârful dealului.",
-            "en": "Enjoy the panoramic view of the town and bay from the top of the hill."
+            "en": "Enjoy the panoramic view of the town and bay from the top of the hill.",
+            "da": "Nyd den panoramiske udsigt over byen og bugten fra bakkeens top."
           }
         }
       ],
@@ -165,7 +177,8 @@
         "de": "Ihr Tag beginnt im Herzen von Kalundborg, der historischen Altstadt Højbyen. Am Vormittag erkunden Sie die beeindruckende fünftürmige Kirche und die mittelalterlichen Gebäude. Nach dem Mittagessen im lebhaften Hafenviertel, wo Sie frische Meeresfrüchte genießen, schlendern Sie am Nachmittag zum Møllebakken. Der Abend klingt mit einem entspannten Spaziergang und dem Genuss lokaler Spezialitäten aus, während Sie die ruhige dänische Atmosphäre auf sich wirken lassen.",
         "hu": "A nap Kalundborg szívében, a történelmi Højbyen óvárosban kezdődik. Délelőtt felfedezi a lenyűgöző öttornyú templomot és a középkori épületeket. Ebéd után a nyüzsgő kikötőnegyedben, ahol friss tengeri herkentyűket fogyaszthat, délután a Møllebakken felé veszi az irányt. Az estét egy pihentető sétával és helyi specialitások kóstolásával zárja, miközben magába szívja a nyugodt dán hangulatot.",
         "ro": "Ziua dvs. începe în inima orașului Kalundborg, centrul vechi istoric Højbyen. În cursul dimineții, explorați impresionanta biserică cu cinci turnuri și clădirile medievale. După prânzul în cartierul portuar plin de viață, unde savurați fructe de mare proaspete, vă plimbați spre Møllebakken după-amiaza. Seara se încheie cu o plimbare relaxantă și degustarea specialităților locale, în timp ce absorbiți atmosfera liniștită daneză.",
-        "en": "Your day begins in the heart of Kalundborg, the historic old town of Højbyen. In the morning, you'll explore the impressive five-towered church and medieval buildings. After lunch in the bustling harbour district, enjoying fresh seafood, you'll stroll towards Møllebakken in the afternoon. The evening concludes with a relaxing walk and tasting local specialties while soaking in the calm Danish atmosphere."
+        "en": "Your day begins in the heart of Kalundborg, the historic old town of Højbyen. In the morning, you'll explore the impressive five-towered church and medieval buildings. After lunch in the bustling harbour district, enjoying fresh seafood, you'll stroll towards Møllebakken in the afternoon. The evening concludes with a relaxing walk and tasting local specialties while soaking in the calm Danish atmosphere.",
+        "da": "Din dag begynder i hjertet af Kalundborg, den historiske Højbyen. Om morgenen udforsker du den imponerende femtårnede kirke og middelalderlige bygninger. Efter frokost i den livlige havnedistrikt, hvor du nyder frisk fisk, går du om eftermiddagen mod Møllebakken. Aftenen afsluttes med en afslappende gåtur og smagsprøver på lokale specialiteter, mens du nyder den rolige danske stemning."
       },
       "gastro_picks": {
         "de": [
@@ -317,6 +330,10 @@
         "en": [
           "Wear comfortable shoes as the cobblestones in Højbyen can be uneven.",
           "Check museum opening hours in advance, especially outside the main season."
+        ],
+        "da": [
+          "Tag behagelige sko på, da brostenene i Højbyen kan være ujævne.",
+          "Tjek museernes åbningstider på forhånd, især uden for højsæsonen."
         ]
       },
       "variants": {
@@ -325,7 +342,8 @@
             "de": "Der Morgen in Højbyen versprüht trotz Regen mittelalterlichen Charme, die engen Gassen bieten etwas Schutz vor dem Wind. Mittags dienen die Kirche und die Museen als ideale Zufluchtsorte, um trocken in die Geschichte Kalundborgs einzutauchen. Nachmittags wird der Spaziergang am Hafen durch die frische, feuchte Meeresbrise belebt. Der Abend klingt in der gemütlichen Wärme eines lokalen Lokals aus.",
             "hu": "A reggeli Højbyen az esőben is középkori hangulatot áraszt, a szűk utcák némi szélvédettséget nyújtanak. Délben a templom és a múzeumok ideális menedékként szolgálnak, ahol szárazon merülhetünk el Kalundborg történelmében. Délután a kikötői séta a friss, párás tengeri szellővel frissít fel. Az este egy helyi vendéglő barátságos melegében ér véget, miközben kint kopog az eső.",
             "ro": "Dimineața în Højbyen emană un farmec medieval chiar și pe ploaie, străzile înguste oferind o oarecare protecție împotriva vântului. La prânz, biserica și muzeele servesc drept refugii ideale pentru a explora istoria orașului Kalundborg la adăpost. După-amiaza, plimbarea în port este revigorată de briza marină proaspătă și umedă. Seara se încheie în căldura primitoare a unui local local.",
-            "en": "Morning in Højbyen exudes medieval charm even in the rain, with narrow streets providing some shelter from the wind. At noon, the church and museums serve as ideal refuges to dive into Kalundborg's history while staying dry. In the afternoon, the harbor walk is refreshed by the cool, damp sea breeze. The evening concludes in the cozy warmth of a local eatery as the rain taps on the windows."
+            "en": "Morning in Højbyen exudes medieval charm even in the rain, with narrow streets providing some shelter from the wind. At noon, the church and museums serve as ideal refuges to dive into Kalundborg's history while staying dry. In the afternoon, the harbor walk is refreshed by the cool, damp sea breeze. The evening concludes in the cozy warmth of a local eatery as the rain taps on the windows.",
+            "da": "Morgenen i Højbyen udstråler middelalderlig charme selv i regnvejr, med smalle gader der giver lidt læ for vinden. Ved middagstid er kirken og museerne ideelle tilflugtssteder for at dykke ned i Kalundborgs historie og holde sig tør. Om eftermiddagen friskes havnespadsen op af den kølige, fugtige havbrise. Aftenen afsluttes i den hyggelige varme på en lokal kro, mens regnen trommer på vinduerne."
           },
           "stops": [
             {
@@ -334,7 +352,8 @@
                 "de": "Vorsicht auf dem Kopfsteinpflaster, es kann bei Nässe sehr rutschig sein.",
                 "hu": "Vigyázat a macskaköveken, esőben nagyon csúszósak lehetnek.",
                 "ro": "Atenție pe pavajul de piatră, poate fi foarte alunecos când este ud.",
-                "en": "Be careful on the cobblestones; they can be very slippery when wet."
+                "en": "Be careful on the cobblestones; they can be very slippery when wet.",
+                "da": "Vær forsigtig på brostenene; de kan være meget glatte, når de er våde."
               }
             },
             {
@@ -343,7 +362,8 @@
                 "de": "Nutzen Sie den Innenraum für eine trockene Pause und bewundern Sie die fünf Türme.",
                 "hu": "Használja a belső teret egy száraz pihenőre, és csodálja meg az öt tornyot.",
                 "ro": "Folosiți interiorul pentru o pauză uscată și admirați cele cinci turnuri.",
-                "en": "Use the interior for a dry break and admire the unique five towers."
+                "en": "Use the interior for a dry break and admire the unique five towers.",
+                "da": "Brug kirkens indre som et tørt hvilested og beundr de unikke fem tårne."
               }
             },
             {
@@ -352,7 +372,8 @@
                 "de": "Die Ausstellungen im Inneren sind perfekt, um dem Regen zu entfliehen.",
                 "hu": "A belső kiállítások tökéletesek az eső elől való menekülésre.",
                 "ro": "Expozițiile din interior sunt perfecte pentru a scăpa de ploaie.",
-                "en": "The indoor exhibitions are perfect for escaping the rain."
+                "en": "The indoor exhibitions are perfect for escaping the rain.",
+                "da": "De indendørs udstillinger er perfekte til at undslippe regnen."
               }
             },
             {
@@ -361,7 +382,8 @@
                 "de": "Ein weitläufiges Museum, ideal für einen längeren Aufenthalt bei schlechtem Wetter.",
                 "hu": "Tágas múzeum, ideális hosszabb tartózkodásra rossz idő esetén.",
                 "ro": "Un muzeu spațios, ideal pentru o ședere prelungită pe vreme rea.",
-                "en": "A spacious museum, ideal for an extended stay during bad weather."
+                "en": "A spacious museum, ideal for an extended stay during bad weather.",
+                "da": "Et rummeligt museum, ideelt til et længere ophold i dårligt vejr."
               }
             },
             {
@@ -370,7 +392,8 @@
                 "de": "Gute Regenkleidung ist hier wegen des starken Küstenwindes unerlässlich.",
                 "hu": "A szélálló esőkabát itt elengedhetetlen az erős parti szél miatt.",
                 "ro": "O pelerină de ploaie rezistentă la vânt este esențială aici din cauza vântului de coastă.",
-                "en": "Windproof rain gear is essential here due to the strong coastal wind."
+                "en": "Windproof rain gear is essential here due to the strong coastal wind.",
+                "da": "Vind- og regntæt overtøj er essentielt her på grund af den kraftige kystvind."
               }
             },
             {
@@ -379,7 +402,8 @@
                 "de": "Die Wege können matschig sein; festes, wasserdichtes Schuhwerk tragen.",
                 "hu": "Az utak sarasak lehetnek; viseljen erős, vízálló lábbelit.",
                 "ro": "Potecile pot fi noroioase; purtați încălțăminte robustă și impermeabilă.",
-                "en": "Paths can be muddy; wear sturdy, waterproof footwear."
+                "en": "Paths can be muddy; wear sturdy, waterproof footwear.",
+                "da": "Stier kan være mudrede; brug solide, vandtætte sko."
               }
             }
           ],
@@ -407,6 +431,12 @@
               "A storm-proof umbrella is better than a light one due to coastal winds.",
               "Plan longer museum visits during heavier rain showers.",
               "Utilize the passages in Højbyen as short-term shelter."
+            ],
+            "da": [
+              "Brug vandtætte vandresko til brostensgaderne.",
+              "En stormfast paraply er bedre end en let en på grund af kystvinden.",
+              "Planlæg længere museumsbesøg under kraftigere regnbyger.",
+              "Benyt passagerne i Højbyen som kortvarigt læ."
             ]
           }
         },
@@ -415,7 +445,8 @@
             "de": "Der frostige Morgen in der Altstadt wird durch das warme Licht der Fenster belebt. Die Kirche bietet eine stille, andächtige Zuflucht vor der Kälte. Mittags wärmen die Museen nicht nur den Körper, sondern fesseln auch mit nordischer Geschichte. Nachmittags sinkt die Sonne früh über dem Hafen und taucht alles in blaues Licht. Der Abend beginnt früh mit nordischer 'Hygge' in einer gemütlichen Stube.",
             "hu": "A fagyos reggelt az óváros ablakiból áradó meleg fények teszik barátságossá. A templom csendes, áhítatos menedéket nyújt a hideg elől. Délben a múzeumok nemcsak a testet melegítik fel, hanem északi történetekkel is lekötik a figyelmet. Délután a nap korán bukik a kikötő alá, mindent kék fénybe vonva. Az este korán kezdődik az északi 'Hygge' hangulattal egy meleg szobában.",
             "ro": "Dimineața geroasă din orașul vechi este animată de luminile calde de la ferestre. Biserica oferă un refugiu liniștit și pios împotriva frigului. La prânz, muzeele nu doar încălzesc corpul, ci și captivează cu istoria nordică. După-amiaza, soarele apune devreme peste port, scăldând totul într-o lumină albastră. Seara începe devreme cu atmosfera nordică „Hygge” într-o odaie primitoare.",
-            "en": "The frosty morning in the old town is brightened by warm lights from the windows. The church offers a quiet, prayerful refuge from the cold. At noon, the museums not only warm the body but also captivate with Nordic history. In the afternoon, the sun sets early over the harbor, bathing everything in blue light. The evening starts early with Nordic 'Hygge' in a cozy room."
+            "en": "The frosty morning in the old town is brightened by warm lights from the windows. The church offers a quiet, prayerful refuge from the cold. At noon, the museums not only warm the body but also captivate with Nordic history. In the afternoon, the sun sets early over the harbor, bathing everything in blue light. The evening starts early with Nordic 'Hygge' in a cozy room.",
+            "da": "Den frostklare morgen i den gamle by lysnes af varme lys fra vinduerne. Kirken tilbyder et stille, bedende tilflugtssted fra kulden. Ved middagstid varmer museerne ikke kun kroppen, men fascinerer også med nordisk historie. Om eftermiddagen går solen tidligt ned over havnen og bader alt i blåt lys. Aftenen starter tidligt med nordisk hygge i et hyggeligt rum."
           },
           "stops": [
             {
@@ -424,7 +455,8 @@
                 "de": "Achten Sie auf Glatteis auf den historischen Steinen.",
                 "hu": "Ügyeljen a jegesedésre a történelmi köveken.",
                 "ro": "Atenție la polei pe pietrele istorice.",
-                "en": "Watch out for black ice on the historical stones."
+                "en": "Watch out for black ice on the historical stones.",
+                "da": "Pas på sort is på de historiske stenkonstruktioner."
               }
             },
             {
@@ -433,7 +465,8 @@
                 "de": "In der Kirche ist es oft kühler als gedacht, behalten Sie die Jacke an.",
                 "hu": "A templomban gyakran hidegebb van a vártnál, tartsa magán a kabátot.",
                 "ro": "În biserică este adesea mai rece decât credeți, păstrați haina pe dvs.",
-                "en": "It is often colder inside the church than expected; keep your coat on."
+                "en": "It is often colder inside the church than expected; keep your coat on.",
+                "da": "Det er ofte koldere inde i kirken end forventet; behold frakken på."
               }
             },
             {
@@ -442,7 +475,8 @@
                 "de": "Genießen Sie die gemütliche Atmosphäre in den beheizten Ausstellungsräumen.",
                 "hu": "Élvezze a meghitt hangulatot a fűtött kiállítótermekben.",
                 "ro": "Bucurați-vă de atmosfera primitoare din sălile de expoziție încălzite.",
-                "en": "Enjoy the cozy atmosphere in the heated exhibition rooms."
+                "en": "Enjoy the cozy atmosphere in the heated exhibition rooms.",
+                "da": "Nyd den hyggelige atmosfære i de opvarmede udstillingsrum."
               }
             },
             {
@@ -451,7 +485,8 @@
                 "de": "Perfekter Ort zum Aufwärmen zwischen den Stadtspaziergängen.",
                 "hu": "Tökéletes hely a felmelegedésre a városi séták között.",
                 "ro": "Locul perfect pentru a vă încălzi între plimbările prin oraș.",
-                "en": "The perfect place to warm up between city walks."
+                "en": "The perfect place to warm up between city walks.",
+                "da": "Det perfekte sted at varme sig mellem byvandringer."
               }
             },
             {
@@ -460,7 +495,8 @@
                 "de": "Extrem windig im Winter; Schal und Handschuhe sind Pflicht.",
                 "hu": "Télen rendkívül szeles; a sál és a kesztyű kötelező.",
                 "ro": "Extrem de vântos iarna; fularul și mănușile sunt obligatorii.",
-                "en": "Extremely windy in winter; a scarf and gloves are mandatory."
+                "en": "Extremely windy in winter; a scarf and gloves are mandatory.",
+                "da": "Ekstremt blæsende om vinteren; halstørklæde og handsker er nødvendigt."
               }
             },
             {
@@ -469,7 +505,8 @@
                 "de": "Der Aufstieg bietet einen tollen Blick, kann aber bei Frost rutschig sein.",
                 "hu": "A felmenet remek kilátást nyújt, de fagyban csúszós lehet.",
                 "ro": "Urcarea oferă o priveliște excelentă, dar poate fi alunecoasă pe îngheț.",
-                "en": "The climb offers a great view but can be slippery during frost."
+                "en": "The climb offers a great view but can be slippery during frost.",
+                "da": "Opstigningen giver en flot udsigt, men kan være glat ved frost."
               }
             }
           ],
@@ -497,6 +534,12 @@
               "The sun sets as early as 15:45 in December.",
               "Carry a thermos with a hot beverage for your walks.",
               "Museums are the best spots to escape the biting winter wind."
+            ],
+            "da": [
+              "Kend dig i lag påklædning for overgangen mellem udendørskulde og indendørs museumsvarme.",
+              "Solen går så tidligt ned som kl. 15:45 i december.",
+              "Medbring en termokande med en varm drik til dine gåture.",
+              "Museerne er de bedste steder at undslippe den bidende vinterkulde."
             ]
           }
         }
@@ -515,7 +558,8 @@
             "de": "Højbyen (Die Altstadt)",
             "hu": "Højbyen (Óváros)",
             "ro": "Højbyen (Orașul vechi)",
-            "en": "Højbyen (The Old Town)"
+            "en": "Højbyen (The Old Town)",
+            "da": "Højbyen (Den Gamle By)"
           },
           "coords": [
             11.078,
@@ -531,7 +575,8 @@
             "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie die engen Gassen zu Fuß.",
             "hu": "Parkolja le a kerékpárt, és fedezze fel gyalog a szűk sikátorokat.",
             "ro": "Parcați bicicleta și explorați aleile înguste pe jos.",
-            "en": "Park your bike and explore the narrow alleys on foot."
+            "en": "Park your bike and explore the narrow alleys on foot.",
+            "da": "Parker din cykel og udforsk de smalle gyder til fods."
           }
         },
         {
@@ -539,7 +584,8 @@
             "de": "Vor Frue Kirke",
             "hu": "Vor Frue Kirke",
             "ro": "Biserica Vor Frue",
-            "en": "Vor Frue Kirke"
+            "en": "Vor Frue Kirke",
+            "da": "Vor Frue Kirke"
           },
           "coords": [
             11.079,
@@ -555,7 +601,8 @@
             "de": "Die Kirche ist ein Wahrzeichen und von fast überall in der Stadt aus sichtbar.",
             "hu": "A templom a város jelképe, és szinte mindenhonnan látható.",
             "ro": "Biserica este un punct de reper, vizibil din aproape orice parte a orașului.",
-            "en": "The church is a landmark, visible from almost everywhere in the city."
+            "en": "The church is a landmark, visible from almost everywhere in the city.",
+            "da": "Kirken er et vartegn, synlig fra næsten hele byen."
           }
         },
         {
@@ -563,7 +610,8 @@
             "de": "Kalundborg Hafen",
             "hu": "Kalundborg kikötő",
             "ro": "Portul Kalundborg",
-            "en": "Kalundborg Harbour"
+            "en": "Kalundborg Harbour",
+            "da": "Kalundborg Havn"
           },
           "coords": [
             11.075,
@@ -579,7 +627,8 @@
             "de": "Beobachten Sie das Kommen und Gehen der Fähren nach Samsø.",
             "hu": "Nézze a Samsø felé tartó kompok jövés-menését.",
             "ro": "Urmăriți feriboturile care vin și pleacă spre Samsø.",
-            "en": "Watch the ferries coming and going to the island of Samsø."
+            "en": "Watch the ferries coming and going to the island of Samsø.",
+            "da": "Se færgerne sejle til og fra øen Samsø."
           }
         },
         {
@@ -587,7 +636,8 @@
             "de": "Schloss Lerchenborg",
             "hu": "Lerchenborg kastély",
             "ro": "Castelul Lerchenborg",
-            "en": "Lerchenborg Castle"
+            "en": "Lerchenborg Castle",
+            "da": "Lerchenborg Slot"
           },
           "coords": [
             11.15,
@@ -603,7 +653,8 @@
             "de": "Planen Sie Zeit für einen Spaziergang durch die wunderschönen Barockgärten ein.",
             "hu": "Szánjon időt egy sétára a gyönyörű barokk kertekben.",
             "ro": "Planificați timp pentru o plimbare prin frumoasele grădini baroce.",
-            "en": "Plan for time to walk through the beautiful baroque gardens."
+            "en": "Plan for time to walk through the beautiful baroque gardens.",
+            "da": "Planlæg tid til at gå gennem de smukke barokhaver."
           }
         },
         {
@@ -611,7 +662,8 @@
             "de": "Møllebakken",
             "hu": "Møllebakken",
             "ro": "Møllebakken",
-            "en": "Møllebakken"
+            "en": "Møllebakken",
+            "da": "Møllebakken"
           },
           "coords": [
             11.085,
@@ -627,7 +679,8 @@
             "de": "Der perfekte Ort, um sich nach der Radtour zu entspannen und die Aussicht zu genießen.",
             "hu": "Tökéletes hely a pihenésre a kerékpártúra után, és a kilátás élvezetére.",
             "ro": "Locul perfect pentru a vă relaxa după turul cu bicicleta și a vă bucura de priveliște.",
-            "en": "The perfect place to relax after your bike ride and enjoy the view."
+            "en": "The perfect place to relax after your bike ride and enjoy the view.",
+            "da": "Det perfekte sted at slappe af efter din cykeltur og nyde udsigten."
           }
         }
       ],
@@ -635,7 +688,8 @@
         "de": "Auf zwei Rädern entdecken Sie Kalundborg und seine Umgebung. Der Vormittag ist dem historischen Zentrum gewidmet, bevor Sie zum Hafen radeln. Das Highlight ist die Tour zum prächtigen Schloss Lerchenborg, wo Sie ein ausgedehntes Mittagessen und einen Spaziergang durch die Gärten genießen. Am Nachmittag kehren Sie in die Stadt zurück und beenden den Tag entspannt auf dem Møllebakken mit einem weiten Blick über die Landschaft.",
         "hu": "Két keréken fedezi fel Kalundborgot és környékét. A délelőtt a történelmi központé, mielőtt a kikötőbe tekeregne. A nap fénypontja a csodálatos Lerchenborg kastélyhoz vezető túra, ahol egy kiadós ebédet és egy kerti sétát élvezhet. Délután visszatér a városba, és a napot a Møllebakkenen pihenve, a tájra nyíló széles kilátással zárja.",
         "ro": "Descoperiți Kalundborg și împrejurimile sale pe două roți. Dimineața este dedicată centrului istoric înainte de a pedala spre port. Punctul culminant este turul la magnificul Castel Lerchenborg, unde vă bucurați de un prânz prelungit și o plimbare prin grădini. După-amiaza vă întoarceți în oraș și încheiați ziua relaxându-vă pe Møllebakken, cu o priveliște vastă asupra peisajului.",
-        "en": "Discover Kalundborg and its surroundings on two wheels. The morning is dedicated to the historic center before you cycle to the harbour. The highlight is the tour to the magnificent Lerchenborg Castle, where you can enjoy an extended lunch and a walk through the gardens. In the afternoon, you'll return to the city and end the day relaxing on Møllebakken with a wide view over the landscape."
+        "en": "Discover Kalundborg and its surroundings on two wheels. The morning is dedicated to the historic center before you cycle to the harbour. The highlight is the tour to the magnificent Lerchenborg Castle, where you can enjoy an extended lunch and a walk through the gardens. In the afternoon, you'll return to the city and end the day relaxing on Møllebakken with a wide view over the landscape.",
+        "da": "Oplev Kalundborg og omegn på to hjul. Morgenen er afsat til det historiske centrum, før du cykler til havnen. Højdepunkterne er turen til det storslåede Lerchenborg Slot, hvor du kan nyde en lang frokost og en gåtur gennem haverne. Om eftermiddagen vender du tilbage til byen og afslutter dagen med afslapning på Møllebakken med vid udsigt over landskabet."
       },
       "gastro_picks": {
         "de": [
@@ -787,6 +841,10 @@
         "en": [
           "Rent a bike with good gears for the hilly landscape.",
           "Take enough water and snacks for the tour to the castle."
+        ],
+        "da": [
+          "Lej en cykel med gode gear til det kuperede terræn.",
+          "Tag rigeligt med vand og snacks med til turen til slottet."
         ]
       },
       "variants": {
@@ -795,7 +853,8 @@
             "de": "Die Radtour beginnt erfrischend im Højbyen, wo die Regentropfen auf dem Helm trommeln. Der Weg zum Hafen führt durch die nasse Küstenlandschaft, die nun besonders herb und nordisch wirkt. Lerchenborg Castle erscheint mystisch im grauen Dunst des Regens. Den Abschluss bildet der Møllebakken, wo der Ausblick über den Fjord auch bei Wolken beeindruckt.",
             "hu": "A kerékpártúra frissítően indul Højbyenben, ahol az esőcseppek dobolnak a sisakon. A kikötő felé vezető út a nedves parti tájon át vezet, amely most különösen zord és északi jellegű. A Lerchenborg kastély misztikusnak tűnik az eső szürke párájában. A napot a Møllebakken zárja, ahonnan a fjord feletti kilátás felhős időben is lenyűgöző.",
             "ro": "Turul cu bicicleta începe revigorant în Højbyen, unde picăturile de ploaie bat în cască. Drumul spre port duce prin peisajul de coastă umed, care acum pare deosebit de aspru și nordic. Castelul Lerchenborg apare mistic în ceața cenușie a ploii. Finalul este la Møllebakken, unde priveliștea peste fjord impresionează chiar și cu nori.",
-            "en": "The bike tour starts refreshingly in Højbyen, with raindrops drumming on your helmet. The route to the harbor leads through the wet coastal landscape, now looking particularly rugged and Nordic. Lerchenborg Castle appears mystical in the gray haze of the rain. The day ends at Møllebakken, where the view over the fjord remains impressive even under cloudy skies."
+            "en": "The bike tour starts refreshingly in Højbyen, with raindrops drumming on your helmet. The route to the harbor leads through the wet coastal landscape, now looking particularly rugged and Nordic. Lerchenborg Castle appears mystical in the gray haze of the rain. The day ends at Møllebakken, where the view over the fjord remains impressive even under cloudy skies.",
+            "da": "Cykelturen starter forfriskende i Højbyen med regndråber, der trommer på hjelmen. Ruten til havnen fører gennem det våde kystlandskab, der nu fremstår særligt barskt og nordisk. Lerchenborg Slot fremstår mystisk i regnens grå slør. Dagen slutter på Møllebakken, hvor udsigten over fjorden er imponerende selv under overskyet himmel."
           },
           "stops": [
             {
@@ -804,7 +863,8 @@
                 "de": "Reduzieren Sie die Geschwindigkeit auf den nassen Pflastersteinen.",
                 "hu": "Csökkentse a sebességet a nedves térköveken.",
                 "ro": "Reduceți viteza pe pavelele umede.",
-                "en": "Reduce your speed on the wet paving stones."
+                "en": "Reduce your speed on the wet paving stones.",
+                "da": "Sænk farten på de våde brosten."
               }
             },
             {
@@ -813,7 +873,8 @@
                 "de": "Stellen Sie Ihr Rad unter und nutzen Sie die Kirchenbesichtigung als Regenpause.",
                 "hu": "Támassza le a kerékpárt fedett helyre, és használja a templomlátogatást esőszünetként.",
                 "ro": "Parcați bicicleta la adăpost și folosiți vizita la biserică ca pauză de ploaie.",
-                "en": "Park your bike under cover and use the church visit as a rain break."
+                "en": "Park your bike under cover and use the church visit as a rain break.",
+                "da": "Parkér din cykel under tag og brug kirkebesøget som et regnstop."
               }
             },
             {
@@ -822,7 +883,8 @@
                 "de": "Achten Sie auf Pfützen auf den Uferwegen.",
                 "hu": "Ügyeljen a tócsákra a parti utakon.",
                 "ro": "Atenție la bălți pe potecile de pe mal.",
-                "en": "Watch out for puddles on the waterfront paths."
+                "en": "Watch out for puddles on the waterfront paths.",
+                "da": "Pas på vandpytter på havnepromenaderne."
               }
             },
             {
@@ -831,7 +893,8 @@
                 "de": "Die Parkwege können nach Regen weich sein, bleiben Sie auf befestigten Wegen.",
                 "hu": "A parki utak eső után felázhatnak, maradjon a szilárd burkolaton.",
                 "ro": "Potecile din parc pot fi moi după ploaie, rămâneți pe drumurile pavate.",
-                "en": "Park paths can be soft after rain; stick to paved routes."
+                "en": "Park paths can be soft after rain; stick to paved routes.",
+                "da": "Parkstier kan være bløde efter regn; hold dig på de befæstede ruter."
               }
             },
             {
@@ -840,7 +903,8 @@
                 "de": "Die Abfahrt bei Nässe vorsichtig angehen.",
                 "hu": "A lejtőn nedves időben óvatosan ereszkedjen le.",
                 "ro": "Abordați coborârea cu prudență pe timp umed.",
-                "en": "Approach the descent carefully in wet conditions."
+                "en": "Approach the descent carefully in wet conditions.",
+                "da": "Tilgang ned ad bakke skal ske forsigtigt i våde forhold."
               }
             }
           ],
@@ -868,6 +932,12 @@
               "Check your brakes; wet rims increase braking distance.",
               "Mudguards on your bike are a must for this tour.",
               "Utilize the waiting areas at the harbor for dry breaks."
+            ],
+            "da": [
+              "Fuld regnbeklædning inklusive skoovertræk anbefales stærkt.",
+              "Tjek dine bremser; våde fælge øger bremselængden.",
+              "Skærme på cyklen er et must til denne tur.",
+              "Benyt ventearealerne i havnen til tørre pauser."
             ]
           }
         },
@@ -876,7 +946,8 @@
             "de": "Ein kalter, aber klarer Wintertag lädt zur Entdeckungstour ein. Der Højbyen wirkt im Frost wie erstarrt. Die Fahrt zum Schloss Lerchenborg führt durch eine stille, winterliche Landschaft, in der der Wind schneidig weht. Zum Sonnenuntergang am Møllebakken glitzert der Fjord im fahlen Licht. Ein sportlicher Tag, der viel Bewegung erfordert, um warm zu bleiben.",
             "hu": "Egy hideg, de tiszta téli nap hív felfedezőútra. Højbyen a fagyban mintha megdermedt volna. A Lerchenborg kastélyhoz vezető út csendes, téli tájon át visz, ahol metsző szél fúj. Naplementekor a Møllebakkenről a fjord csillog a halvány fényben. Sportos nap, amely sok mozgást igényel a melegen maradáshoz.",
             "ro": "O zi de iarnă rece, dar senină, vă invită la explorare. Højbyen pare încremenit în îngheț. Drumul spre Castelul Lerchenborg trece printr-un peisaj de iarnă liniștit, unde vântul bate tăios. La apus, de pe Møllebakken, fiordul sclipeste în lumina palidă. O zi sportivă care necesită multă mișcare pentru a rămâne cald.",
-            "en": "A cold but clear winter day invites you on a discovery tour. Højbyen seems frozen in the frost. The ride to Lerchenborg Castle leads through a quiet winter landscape where the wind blows sharply. At sunset on Møllebakken, the fjord glitters in the pale light. A sporty day that requires plenty of movement to stay warm."
+            "en": "A cold but clear winter day invites you on a discovery tour. Højbyen seems frozen in the frost. The ride to Lerchenborg Castle leads through a quiet winter landscape where the wind blows sharply. At sunset on Møllebakken, the fjord glitters in the pale light. A sporty day that requires plenty of movement to stay warm.",
+            "da": "En kold men klar vinterdag indbyder til opdagelsestur. Højbyen virker frosset i morgenduggen. Turen til Lerchenborg Slot går gennem et stille vinterlandskab med skarp vind. Ved solnedgang på Møllebakken glitrer fjorden i det blege lys. En aktiv dag, der kræver rigelig bevægelse for at holde varmen."
           },
           "stops": [
             {
@@ -885,7 +956,8 @@
                 "de": "Vorsicht bei gefrorenem Kopfsteinpflaster, Sturzgefahr.",
                 "hu": "Vigyázat a fagyott macskaköveken, elesésveszély.",
                 "ro": "Atenție pe pavajul înghețat, pericol de cădere.",
-                "en": "Be careful on frozen cobblestones; risk of falling."
+                "en": "Be careful on frozen cobblestones; risk of falling.",
+                "da": "Vær forsigtig på frosne brosten; risiko for fald."
               }
             },
             {
@@ -894,7 +966,8 @@
                 "de": "Kurze Aufwärmpause im Vorraum möglich.",
                 "hu": "Rövid felmelegedési lehetőség az előtérben.",
                 "ro": "Scurtă pauză de încălzire posibilă în vestibul.",
-                "en": "Short warm-up break possible in the vestibule."
+                "en": "Short warm-up break possible in the vestibule.",
+                "da": "Kort opvarmningspause mulig i forhallen."
               }
             },
             {
@@ -903,7 +976,8 @@
                 "de": "Der Wind vom Meer ist hier besonders eisig.",
                 "hu": "A tenger felőli szél itt különösen jeges.",
                 "ro": "Vântul de pe mare este deosebit de înghețat aici.",
-                "en": "The sea wind is particularly icy here."
+                "en": "The sea wind is particularly icy here.",
+                "da": "Havvinden er særligt isnende her."
               }
             },
             {
@@ -912,7 +986,8 @@
                 "de": "Tragen Sie winddichte Kleidung für die freie Strecke zum Schloss.",
                 "hu": "Viseljen szélálló ruházatot a kastélyhoz vezető nyílt szakaszon.",
                 "ro": "Purtați îmbrăcăminte rezistentă la vânt pentru porțiunea deschisă spre castel.",
-                "en": "Wear windproof clothing for the open stretch to the castle."
+                "en": "Wear windproof clothing for the open stretch to the castle.",
+                "da": "Bær vindtæt tøj på det åbne stykke mod slottet."
               }
             },
             {
@@ -921,7 +996,8 @@
                 "de": "Frühzeitig aufbrechen, um das Tageslicht für die Abfahrt zu nutzen.",
                 "hu": "Induljon el időben, hogy használhassa a nappali fényt a leereszkedéshez.",
                 "ro": "Plecați devreme pentru a profita de lumina zilei la coborâre.",
-                "en": "Leave early to utilize daylight for the descent."
+                "en": "Leave early to utilize daylight for the descent.",
+                "da": "Tag afsted tidligt for at bruge dagslyset til nedkørslen."
               }
             }
           ],
@@ -949,6 +1025,12 @@
               "Watch out for ice, especially in the shadows of buildings.",
               "Shorten the tour if the cold becomes too intense.",
               "Front and rear lights are mandatory due to early darkness."
+            ],
+            "da": [
+              "Brug varme handsker og en hue under hjelmen.",
+              "Pas på is, især i bygningers skygger.",
+              "Forkort turen, hvis kulden bliver for intens.",
+              "For- og baglygte er påkrævet på grund af tidlig mørke."
             ]
           }
         }
@@ -967,7 +1049,8 @@
             "de": "Parkplatz Højbyen",
             "hu": "Parkoló Højbyen",
             "ro": "Parcare Højbyen",
-            "en": "Højbyen Parking"
+            "en": "Højbyen Parking",
+            "da": "Højbyen Parkering"
           },
           "coords": [
             11.078,
@@ -983,7 +1066,8 @@
             "de": "Parken Sie hier, um das historische Zentrum zu erkunden.",
             "hu": "Parkoljon itt a történelmi központ felfedezéséhez.",
             "ro": "Parcați aici pentru a explora centrul istoric.",
-            "en": "Park here to explore the historic center."
+            "en": "Park here to explore the historic center.",
+            "da": "Parkér her for at udforske den historiske bykerne."
           }
         },
         {
@@ -991,7 +1075,8 @@
             "de": "Vor Frue Kirke & Altstadt",
             "hu": "Vor Frue Kirke és Óváros",
             "ro": "Biserica Vor Frue & Centrul Vechi",
-            "en": "Vor Frue Kirke & Old Town"
+            "en": "Vor Frue Kirke & Old Town",
+            "da": "Vor Frue Kirke & Den gamle by"
           },
           "coords": [
             11.079,
@@ -1007,7 +1092,8 @@
             "de": "Schlendern Sie von der Kirche durch die alten Gassen zum Museum.",
             "hu": "Sétáljon a templomtól a régi sikátorokon át a múzeumig.",
             "ro": "Plimbați-vă de la biserică pe străduțele vechi până la muzeu.",
-            "en": "Stroll from the church through the old alleys to the museum."
+            "en": "Stroll from the church through the old alleys to the museum.",
+            "da": "Spadser fra kirken gennem de gamle gyder til museet."
           }
         },
         {
@@ -1015,7 +1101,8 @@
             "de": "Kalundborg Museum",
             "hu": "Kalundborg Múzeum",
             "ro": "Muzeul Kalundborg",
-            "en": "Kalundborg Museum"
+            "en": "Kalundborg Museum",
+            "da": "Kalundborg Museum"
           },
           "coords": [
             11.081,
@@ -1031,7 +1118,8 @@
             "de": "Ein kurzer Spaziergang vom Hauptplatz entfernt.",
             "hu": "Rövid séta a főtértől.",
             "ro": "La o scurtă plimbare de piața principală.",
-            "en": "A short walk from the main square."
+            "en": "A short walk from the main square.",
+            "da": "En kort gåtur fra hovedpladsen."
           }
         },
         {
@@ -1039,7 +1127,8 @@
             "de": "Schloss Lerchenborg",
             "hu": "Lerchenborg kastély",
             "ro": "Castelul Lerchenborg",
-            "en": "Lerchenborg Castle"
+            "en": "Lerchenborg Castle",
+            "da": "Lerchenborg Slot"
           },
           "coords": [
             11.15,
@@ -1055,7 +1144,8 @@
             "de": "Ein Juwel der Barockarchitektur. Nehmen Sie sich Zeit für die Gärten.",
             "hu": "A barokk építészet gyöngyszeme. Szánjon időt a kertekre.",
             "ro": "O bijuterie a arhitecturii baroce. Luați-vă timp pentru grădini.",
-            "en": "A jewel of baroque architecture. Take time for the gardens."
+            "en": "A jewel of baroque architecture. Take time for the gardens.",
+            "da": "Et juvel af barokarkitektur. Tag dig tid til haverne."
           }
         },
         {
@@ -1063,7 +1153,8 @@
             "de": "Røsnæs Fyr",
             "hu": "Røsnæs világítótorony",
             "ro": "Farul Røsnæs",
-            "en": "Røsnæs Lighthouse"
+            "en": "Røsnæs Lighthouse",
+            "da": "Røsnæs Fyr"
           },
           "coords": [
             10.92,
@@ -1079,7 +1170,8 @@
             "de": "Die Fahrt zur Spitze der Halbinsel wird mit atemberaubenden Aussichten belohnt.",
             "hu": "A félsziget csúcsára vezető út lélegzetelállító kilátással jutalmaz.",
             "ro": "Drumul spre vârful peninsulei este răsplătit cu priveliști uluitoare.",
-            "en": "The drive to the tip of the peninsula is rewarded with breathtaking views."
+            "en": "The drive to the tip of the peninsula is rewarded with breathtaking views.",
+            "da": "Køreturen til halvøens spids belønnes med betagende udsigter."
           }
         },
         {
@@ -1087,7 +1179,8 @@
             "de": "Abendessen im Hafen von Kalundborg",
             "hu": "Vacsora a kalundborgi kikötőben",
             "ro": "Cină în portul Kalundborg",
-            "en": "Dinner at Kalundborg Harbour"
+            "en": "Dinner at Kalundborg Harbour",
+            "da": "Middag ved Kalundborg Havn"
           },
           "coords": [
             11.075,
@@ -1103,7 +1196,8 @@
             "de": "Kehren Sie für ein entspanntes Abendessen mit Blick aufs Wasser in die Stadt zurück.",
             "hu": "Térjen vissza a városba egy pihentető, vízparti vacsorára.",
             "ro": "Întoarceți-vă în oraș pentru o cină relaxantă cu vedere la apă.",
-            "en": "Return to the city for a relaxing dinner with a view of the water."
+            "en": "Return to the city for a relaxing dinner with a view of the water.",
+            "da": "Vend tilbage til byen for en afslappet middag med udsigt over vandet."
           }
         }
       ],
@@ -1111,7 +1205,8 @@
         "de": "Mit dem Auto haben Sie die Freiheit, Kalundborgs Juwelen zu entdecken. Sie beginnen im historischen Zentrum, bevor Sie zum eleganten Schloss Lerchenborg fahren. Der Höhepunkt des Tages ist die Fahrt zum Leuchtturm von Røsnæs, dem westlichsten Punkt Seelands, wo Sie eine spektakuläre Aussicht genießen. Der Tag endet mit einem köstlichen Abendessen am Hafen von Kalundborg, während Sie die maritimen Eindrücke des Tages Revue passieren lassen.",
         "hu": "Az autó szabadságot ad Kalundborg kincseinek felfedezéséhez. A történelmi központban kezd, majd az elegáns Lerchenborg kastélyhoz hajt. A nap fénypontja az út a Røsnæs világítótoronyhoz, Sjælland legnyugatibb pontjához, ahol látványos kilátásban gyönyörködhet. A napot egy finom vacsorával zárja a kalundborgi kikötőben, miközben felidézi a nap tengeri élményeit.",
         "ro": "Cu mașina, aveți libertatea de a descoperi bijuteriile din Kalundborg. Începeți în centrul istoric înainte de a conduce la elegantul Castel Lerchenborg. Punctul culminant al zilei este drumul spre Farul Røsnæs, cel mai vestic punct al Zeelandei, unde vă bucurați de o priveliște spectaculoasă. Ziua se încheie cu o cină delicioasă în portul Kalundborg, rememorând impresiile maritime ale zilei.",
-        "en": "With a car, you have the freedom to discover Kalundborg's gems. You'll start in the historic center before driving to the elegant Lerchenborg Castle. The highlight of the day is the drive to Røsnæs Lighthouse, Zealand's westernmost point, where you'll enjoy spectacular views. The day concludes with a delicious dinner at Kalundborg Harbour, reflecting on the day's maritime impressions."
+        "en": "With a car, you have the freedom to discover Kalundborg's gems. You'll start in the historic center before driving to the elegant Lerchenborg Castle. The highlight of the day is the drive to Røsnæs Lighthouse, Zealand's westernmost point, where you'll enjoy spectacular views. The day concludes with a delicious dinner at Kalundborg Harbour, reflecting on the day's maritime impressions.",
+        "da": "Med bil har du friheden til at opdage Kalundborgs perler. Du starter i den historiske bymidte, før du kører til det elegante Lerchenborg Slot. Dagens højdepunkt er køreturen til Røsnæs Fyr, Sjællands vestligste punkt, hvor du får spektakulære udsigter. Dagen afsluttes med en lækker middag ved Kalundborg Havn, hvor du reflekterer over dagens maritime indtryk."
       },
       "gastro_picks": {
         "de": [
@@ -1263,6 +1358,10 @@
         "en": [
           "Check the lighthouse opening hours as climbing it can be seasonal.",
           "Parking in the old town is limited; use the designated parking areas."
+        ],
+        "da": [
+          "Tjek fyrrets åbningstider, da bestigning kan være sæsonbestemt.",
+          "Parkering i den gamle by er begrænset; brug de anviste parkeringsområder."
         ]
       },
       "variants": {
@@ -1271,7 +1370,8 @@
             "de": "Im Auto lässt sich Kalundborg auch bei Dauerregen komfortabel erkunden. Der Vormittag gehört der Altstadt und der Kirche, wobei das Auto als trockene Basis dient. Mittags führt die Fahrt zum prächtigen Lerchenborg Castle, dessen Fassade im Regen glänzt. Der Nachmittag bringt uns zum windgepeitschten Røsnæs Lighthouse, wo man die Naturgewalten geschützt aus dem Wagen beobachten kann. Der Tag endet gemütlich am Hafen.",
             "hu": "Autóval Kalundborg tartós esőben is kényelmesen felfedezhető. A délelőtt az óvárosé és a templomé, miközben az autó száraz bázisként szolgál. Délben az út a pompás Lerchenborg kastélyhoz vezet, melynek homlokzata csillog az esőben. A délután a szélfútta Røsnæs világítótoronyhoz visz, ahol a természet erejét az autóból, védetten figyelhetjük. A nap a kikötőben zárul.",
             "ro": "Cu mașina, Kalundborg poate fi explorat confortabil chiar și pe ploaie continuă. Dimineața aparține orașului vechi și bisericii, mașina servind drept bază uscată. La prânz, drumul duce la splendidul Castel Lerchenborg, a cărui fațadă strălucește în ploaie. După-amiaza ne duce la farul Røsnæs bătut de vânt, unde forțele naturii pot fi observate protejat din mașină. Ziua se încheie confortabil în port.",
-            "en": "By car, Kalundborg can be comfortably explored even in persistent rain. The morning belongs to the old town and the church, with the car serving as a dry base. At noon, the drive leads to the magnificent Lerchenborg Castle, its facade glistening in the rain. The afternoon takes us to the windswept Røsnæs Lighthouse, where nature's forces can be observed from the safety of the car. The day ends cozily at the harbor."
+            "en": "By car, Kalundborg can be comfortably explored even in persistent rain. The morning belongs to the old town and the church, with the car serving as a dry base. At noon, the drive leads to the magnificent Lerchenborg Castle, its facade glistening in the rain. The afternoon takes us to the windswept Røsnæs Lighthouse, where nature's forces can be observed from the safety of the car. The day ends cozily at the harbor.",
+            "da": "Med tog og bus? Nej — By car, Kalundborg can be comfortably explored even in persistent rain. The morning belongs to the old town and the church, with the car serving as a dry base. At noon, the drive leads to the magnificent Lerchenborg Castle, its facade glitrende i regnen. The afternoon takes us to the windswept Røsnæs Lighthouse, where nature's forces can be observed from the safety of the car. The day ends cozily at the harbor."
           },
           "stops": [
             {
@@ -1280,7 +1380,8 @@
                 "de": "Parken Sie so nah wie möglich am Eingang zur Altstadt.",
                 "hu": "Parkoljon a lehető legközelebb az óváros bejáratához.",
                 "ro": "Parcați cât mai aproape de intrarea în orașul vechi.",
-                "en": "Park as close as possible to the entrance of the old town."
+                "en": "Park as close as possible to the entrance of the old town.",
+                "da": "Parkér så tæt som muligt på indgangen til den gamle by."
               }
             },
             {
@@ -1289,7 +1390,8 @@
                 "de": "Kurze Wege zwischen den Sehenswürdigkeiten minimieren den Regenkontakt.",
                 "hu": "A látnivalók közötti rövid távolságok minimalizálják az esővel való érintkezést.",
                 "ro": "Distanțele scurte între obiective minimizează contactul cu ploaia.",
-                "en": "Short distances between sights minimize rain exposure."
+                "en": "Short distances between sights minimize rain exposure.",
+                "da": "Korte afstande mellem seværdigheder minimerer eksponering for regn."
               }
             },
             {
@@ -1298,7 +1400,8 @@
                 "de": "Nutzen Sie den museumseigenen Parkplatz für einen trockenen Zugang.",
                 "hu": "Használja a múzeum saját parkolóját a száraz bejutáshoz.",
                 "ro": "Folosiți parcarea muzeului pentru un acces uscat.",
-                "en": "Use the museum's own parking lot for dry access."
+                "en": "Use the museum's own parking lot for dry access.",
+                "da": "Brug museets egen parkeringsplads for tør adgang."
               }
             },
             {
@@ -1307,7 +1410,8 @@
                 "de": "Die Auffahrt zum Schloss ist auch bei Regen sehr fotogen.",
                 "hu": "A kastélyhoz vezető feljáró esőben is nagyon fotogén.",
                 "ro": "Aleea spre castel este foarte fotogenică chiar și pe ploaie.",
-                "en": "The driveway to the castle is very photogenic even in the rain."
+                "en": "The driveway to the castle is very photogenic even in the rain.",
+                "da": "Indkørslen til slottet er meget fotogen selv i regnvejr."
               }
             },
             {
@@ -1316,7 +1420,8 @@
                 "de": "Bleiben Sie bei starkem Regen im Auto und genießen Sie den Blick auf die raue See.",
                 "hu": "Erős esőben maradjon az autóban, és élvezze a kilátást a zord tengerre.",
                 "ro": "Rămâneți în mașină pe ploaie torențială și bucurați-vă de priveliștea mării agitate.",
-                "en": "Stay in the car during heavy rain and enjoy the view of the rough sea."
+                "en": "Stay in the car during heavy rain and enjoy the view of the rough sea.",
+                "da": "Bliv i bilen under kraftig regn og nyd udsigten over det oprørte hav."
               }
             },
             {
@@ -1325,7 +1430,8 @@
                 "de": "Reservieren Sie einen Tisch in Fensternähe, um dem Regen zuzusehen.",
                 "hu": "Foglaljon asztalt az ablak mellett, hogy nézhesse az esőt.",
                 "ro": "Rezervați o masă lângă fereastră pentru a privi ploaia.",
-                "en": "Book a window table to watch the rain while dining."
+                "en": "Book a window table to watch the rain while dining.",
+                "da": "Bestil et bord ved vinduet for at se regnen, mens I spiser."
               }
             }
           ],
@@ -1353,6 +1459,12 @@
               "Keep an umbrella handy in the door pocket.",
               "The coastal road can throw sea spray onto the windshield in heavy rain.",
               "Use parking garages or covered spots where available."
+            ],
+            "da": [
+              "Tjek vinduesviskerne før køreturen til Røsnæs-halvøen.",
+              "Hav en paraply i dørlommen klar.",
+              "Kystvejen kan sprøjte saltvand på forruden i kraftig regn.",
+              "Brug parkeringskældre eller overdækkede pladser, hvor de findes."
             ]
           }
         },
@@ -1361,7 +1473,8 @@
             "de": "Winterzauber an Dänemarks Küste: Mit der Sitzheizung lässt sich die frostige Landschaft um Kalundborg bestens genießen. Vormittags erkunden wir die Altstadt, mittags das barocke Lerchenborg in seinem winterlichen Schlaf. Das Highlight ist die Fahrt zum Røsnæs Lighthouse am Nachmittag, wenn der eisige Wind die Wellen peitscht und die Sonne früh im Meer versinkt. Ein Tag voller Kontraste zwischen wohliger Autowärme und nordischer Kälte.",
             "hu": "Téli varázs Dánia partjainál: az ülésfűtéssel a Kalundborg környéki fagyos táj a legjobb oldalát mutatja. Délelőtt az óvárost járjuk be, délben a barokk Lerchenborgot látogatjuk meg téli álmában. A nap fénypontja a délutáni út a Røsnæs világítótoronyhoz, amikor a jeges szél korbácsolja a hullámokat, és a nap korán a tengerbe vész. Kontrasztos nap az autó melege és az északi hideg között.",
             "ro": "Magie de iarnă pe coasta Danemarcei: cu încălzirea în scaune, peisajul înghețat din jurul Kalundborg poate fi savurat din plin. Dimineața explorăm orașul vechi, la prânz barocul Lerchenborg în somnul său de iarnă. Punctul culminant este drumul spre farul Røsnæs după-amiaza, când vântul înghețat biciuiește valurile și soarele apune devreme în mare. O zi plină de contraste între căldura mașinii și frigul nordic.",
-            "en": "Winter magic on Denmark's coast: with seat heating, the frosty landscape around Kalundborg is best enjoyed. In the morning, we explore the old town, and at noon, the baroque Lerchenborg in its winter slumber. The highlight is the afternoon drive to Røsnæs Lighthouse, as the icy wind whips the waves and the sun sets early into the sea. A day of contrasts between cozy car warmth and Nordic cold."
+            "en": "Winter magic on Denmark's coast: with seat heating, the frosty landscape around Kalundborg is best enjoyed. In the morning, we explore the old town, and at noon, the baroque Lerchenborg in its winter slumber. The highlight is the afternoon drive to Røsnæs Lighthouse, as the icy wind whips the waves and the sun sets early into the sea. A day of contrasts between cozy car warmth and Nordic cold.",
+            "da": "Vintermagi ved Danmarks kyst: med sædevarme nydes det frostklare landskab omkring Kalundborg bedst. Om morgenen udforsker vi den gamle by, og ved middagstid ligger det barokke Lerchenborg i sin vintersøvn. Højdepunkter er eftermiddagskørslen til Røsnæs Fyr, hvor den isnende vind pisker bølgerne, og solen går tidligt ned i havet. En dag med kontraster mellem hyggelig bilvarme og nordisk kulde."
           },
           "stops": [
             {
@@ -1370,7 +1483,8 @@
                 "de": "Parkplätze können bei Frost glatt sein, Vorsicht beim Aussteigen.",
                 "hu": "A parkolók fagyban csúszósak lehetnek, óvatosan szálljon ki.",
                 "ro": "Locurile de parcare pot fi alunecoase pe îngheț, atenție la coborâre.",
-                "en": "Parking lots can be slippery during frost; be careful when stepping out."
+                "en": "Parking lots can be slippery during frost; be careful when stepping out.",
+                "da": "Parkeringspladser kan være glatte ved frost; vær forsigtig, når du stiger ud."
               }
             },
             {
@@ -1379,7 +1493,8 @@
                 "de": "Die fünf Türme wirken im klaren Winterlicht besonders scharf.",
                 "hu": "Az öt torony a tiszta téli fényben különösen élesen rajzolódik ki.",
                 "ro": "Cele cinci turnuri par deosebit de clare în lumina rece de iarnă.",
-                "en": "The five towers look particularly sharp in the clear winter light."
+                "en": "The five towers look particularly sharp in the clear winter light.",
+                "da": "De fem tårne står særligt skarpt i det klare vinterlys."
               }
             },
             {
@@ -1388,7 +1503,8 @@
                 "de": "Genießen Sie die Wärme der historischen Räume.",
                 "hu": "Élvezze a történelmi szobák melegét.",
                 "ro": "Bucurați-vă de căldura încăperilor istorice.",
-                "en": "Enjoy the warmth of the historical rooms."
+                "en": "Enjoy the warmth of the historical rooms.",
+                "da": "Nyd varmen i de historiske rum."
               }
             },
             {
@@ -1397,7 +1513,8 @@
                 "de": "Der Barockgarten ist im Winter oft schneebedeckt und sehr still.",
                 "hu": "A barokk kert télen gyakran hófödte és nagyon csendes.",
                 "ro": "Grădina barocă este adesea acoperită de zăpadă iarna și foarte liniștită.",
-                "en": "The baroque garden is often snow-covered and very quiet in winter."
+                "en": "The baroque garden is often snow-covered and very quiet in winter.",
+                "da": "Den barokke have er ofte snedækket og meget stille om vinteren."
               }
             },
             {
@@ -1406,7 +1523,8 @@
                 "de": "Vorsicht auf der schmalen Straße zur Halbinsel bei Glätte.",
                 "hu": "Óvatosan a félszigetre vezető keskeny úton, ha jeges.",
                 "ro": "Atenție pe drumul îngust spre peninsulă în caz de polei.",
-                "en": "Be careful on the narrow road to the peninsula if it's icy."
+                "en": "Be careful on the narrow road to the peninsula if it's icy.",
+                "da": "Vær forsigtig på den smalle vej til halvøen, hvis den er isglat."
               }
             },
             {
@@ -1415,7 +1533,8 @@
                 "de": "Parken Sie nah am Restaurant, um den kalten Wind zu vermeiden.",
                 "hu": "Parkoljon közel az étteremhez, hogy elkerülje a hideg szelet.",
                 "ro": "Parcați aproape de restaurant pentru a evita vântul rece.",
-                "en": "Park close to the restaurant to avoid the biting cold wind."
+                "en": "Park close to the restaurant to avoid the biting cold wind.",
+                "da": "Parkér tæt på restauranten for at undgå den bidske kolde vind."
               }
             }
           ],
@@ -1443,6 +1562,12 @@
               "Add antifreeze to your windshield washer fluid.",
               "Start the drive to Røsnæs before 15:00 to catch the remaining daylight.",
               "Keep a warm blanket in the car for emergencies."
+            ],
+            "da": [
+              "Vinterdæk er nødvendige i denne region under frost.",
+              "Tilsæt frostvæske til din sprinklervæske.",
+              "Start køreturen til Røsnæs før kl. 15:00 for at nå det tilbageværende dagslys.",
+              "Hold et varmt tæppe i bilen til nødstilfælde."
             ]
           }
         }
@@ -1461,7 +1586,8 @@
             "de": "Ankunft am Bahnhof Kalundborg",
             "hu": "Érkezés a kalundborgi állomásra",
             "ro": "Sosire la Gara Kalundborg",
-            "en": "Arrival at Kalundborg Station"
+            "en": "Arrival at Kalundborg Station",
+            "da": "Ankomst til Kalundborg Station"
           },
           "coords": [
             11.083,
@@ -1477,7 +1603,8 @@
             "de": "Kaufen Sie eine Tageskarte für die lokalen Busse.",
             "hu": "Vásároljon napijegyet a helyi buszokra.",
             "ro": "Cumpărați un bilet de o zi pentru autobuzele locale.",
-            "en": "Buy a day ticket for the local buses."
+            "en": "Buy a day ticket for the local buses.",
+            "da": "Køb en dagsbillet til de lokale busser."
           }
         },
         {
@@ -1485,7 +1612,8 @@
             "de": "Højbyen & Vor Frue Kirke",
             "hu": "Højbyen és Vor Frue Kirke",
             "ro": "Højbyen & Biserica Vor Frue",
-            "en": "Højbyen & Vor Frue Kirke"
+            "en": "Højbyen & Vor Frue Kirke",
+            "da": "Højbyen & Vor Frue Kirke"
           },
           "coords": [
             11.078,
@@ -1501,7 +1629,8 @@
             "de": "Erkunden Sie das historische Zentrum zu Fuß, alles ist nah beieinander.",
             "hu": "Fedezze fel gyalog a történelmi központot, minden közel van.",
             "ro": "Explorați centrul istoric pe jos, totul este aproape.",
-            "en": "Explore the historic center on foot, everything is close together."
+            "en": "Explore the historic center on foot, everything is close together.",
+            "da": "Udforsk den historiske bykerne til fods, alt ligger tæt sammen."
           }
         },
         {
@@ -1509,7 +1638,8 @@
             "de": "Kalundborg Museum",
             "hu": "Kalundborg Múzeum",
             "ro": "Muzeul Kalundborg",
-            "en": "Kalundborg Museum"
+            "en": "Kalundborg Museum",
+            "da": "Kalundborg Museum"
           },
           "coords": [
             11.081,
@@ -1525,7 +1655,8 @@
             "de": "Vom Hauptplatz aus leicht zu Fuß erreichbar.",
             "hu": "Könnyen megközelíthető gyalog a főtérről.",
             "ro": "Ușor de ajuns pe jos din piața principală.",
-            "en": "Easily walkable from the main square."
+            "en": "Easily walkable from the main square.",
+            "da": "Let tilgængeligt til fods fra hovedpladsen."
           }
         },
         {
@@ -1533,7 +1664,8 @@
             "de": "Kalundborg Hafen",
             "hu": "Kalundborg kikötő",
             "ro": "Portul Kalundborg",
-            "en": "Kalundborg Harbour"
+            "en": "Kalundborg Harbour",
+            "da": "Kalundborg Havn"
           },
           "coords": [
             11.075,
@@ -1549,7 +1681,8 @@
             "de": "Nehmen Sie einen Bus vom Zentrum zum Hafen für ein Mittagessen am Wasser.",
             "hu": "Menjen busszal a központból a kikötőbe egy vízparti ebédre.",
             "ro": "Luați un autobuz din centru spre port pentru un prânz pe malul apei.",
-            "en": "Take a bus from the center to the harbour for a waterside lunch."
+            "en": "Take a bus from the center to the harbour for a waterside lunch.",
+            "da": "Tag en bus fra centrum til havnen for en frokost ved vandet."
           }
         },
         {
@@ -1557,7 +1690,8 @@
             "de": "Møllebakken",
             "hu": "Møllebakken",
             "ro": "Møllebakken",
-            "en": "Møllebakken"
+            "en": "Møllebakken",
+            "da": "Møllebakken"
           },
           "coords": [
             11.085,
@@ -1573,7 +1707,8 @@
             "de": "Ein kurzer Spaziergang vom Hafen entfernt, um den Tag ausklingen zu lassen.",
             "hu": "Rövid séta a kikötőtől a nap lezárásaként.",
             "ro": "O scurtă plimbare de la port pentru a încheia ziua.",
-            "en": "A short walk up from the harbour to end your day."
+            "en": "A short walk up from the harbour to end your day.",
+            "da": "En kort gåtur op fra havnen for at afslutte din dag."
           }
         }
       ],
@@ -1581,7 +1716,8 @@
         "de": "Mit den öffentlichen Verkehrsmitteln erkunden Sie Kalundborg entspannt. Sie starten am Bahnhof und fahren ins historische Herz der Stadt. Nach der Erkundung von Højbyen zu Fuß bringt Sie ein Bus zum Hafen, wo Sie zu Mittag essen. Der Nachmittag ist einem Spaziergang zum Møllebakken gewidmet, von wo aus Sie eine wunderbare Aussicht haben. Am Abend fahren Sie zurück zum Bahnhof und blicken auf einen Tag voller Eindrücke zurück.",
         "hu": "Tömegközlekedéssel kényelmesen felfedezheti Kalundborgot. A pályaudvarról indulva a város történelmi szívébe utazik. Miután gyalog felfedezte Højbyent, busz viszi a kikötőbe, ahol megebédel. A délutánt a Møllebakkenre tett séta tölti ki, ahonnan csodálatos a kilátás. Este visszautazik a pályaudvarra, egy élményekkel teli nap után.",
         "ro": "Explorați Kalundborg într-un mod relaxat folosind transportul public. Porniți de la gară și călătoriți în inima istorică a orașului. După ce explorați Højbyen pe jos, un autobuz vă duce în port pentru prânz. După-amiaza este dedicată unei plimbări spre Møllebakken, de unde aveți o priveliște minunată. Seara vă întoarceți la gară, reflectând la o zi plină de impresii.",
-        "en": "Explore Kalundborg in a relaxed way using public transport. You'll start at the train station and travel to the historic heart of the city. After exploring Højbyen on foot, a bus takes you to the harbour for lunch. The afternoon is dedicated to a walk up to Møllebakken, where you have a wonderful view. In the evening, you'll travel back to the station, reflecting on a day full of impressions."
+        "en": "Explore Kalundborg in a relaxed way using public transport. You'll start at the train station and travel to the historic heart of the city. After exploring Højbyen on foot, a bus takes you to the harbour for lunch. The afternoon is dedicated to a walk up to Møllebakken, where you have a wonderful view. In the evening, you'll travel back to the station, reflecting on a day full of impressions.",
+        "da": "Udforsk Kalundborg afslappet med offentlig transport. Du starter på stationen og rejser til byens historiske hjerte. Efter at have udforsket Højbyen til fods tager en bus dig til havnen til frokost. Eftermiddagen er afsat til en gåtur op til Møllebakken, hvor du har en vidunderlig udsigt. Om aftenen rejser du tilbage til stationen og reflekterer over en dag fuld indtryk."
       },
       "gastro_picks": {
         "de": [
@@ -1733,6 +1869,10 @@
         "en": [
           "Download the 'Rejseplanen' app for real-time bus and train schedules.",
           "Be aware that buses in the countryside may be infrequent, so plan ahead."
+        ],
+        "da": [
+          "Download 'Rejseplanen'-appen for realtidsinformation om busser og tog.",
+          "Vær opmærksom på, at busser på landet kan være sjældne, så planlæg i forvejen."
         ]
       },
       "variants": {
@@ -1741,7 +1881,8 @@
             "de": "Mit dem Zug und Bus lässt sich Kalundborg auch bei Regen stressfrei erreichen. Der Vormittag in Højbyen bietet kurze Wege zwischen den historischen Gebäuden. Mittags laden die Museen zum Verweilen ein, während draußen der Küstenregen fällt. Der Nachmittag am Hafen lässt sich gut mit einem Besuch in den Cafés kombinieren. Die Rückreise erfolgt bequem vom trockenen Bahnhof aus.",
             "hu": "Vonattal és busszal Kalundborg esőben is stresszmentesen elérhető. A délelőtt Højbyenben rövid sétákat kínál a történelmi épületek között. Délben a múzeumok hívogatnak maradásra, miközben kint esik a parti eső. A kikötői délután jól kombinálható egy kávéházi látogatással. A hazautazás kényelmesen, a száraz állomásról indul.",
             "ro": "Cu trenul și autobuzul, Kalundborg este ușor de accesat chiar și pe ploaie. Dimineața în Højbyen oferă distanțe scurte între clădirile istorice. La prânz, muzeele vă invită să zăboviți în timp ce afară cade ploaia de coastă. După-amiaza în port poate fi combinată cu o vizită la cafenele. Călătoria de întoarcere se face confortabil din gara uscată.",
-            "en": "By train and bus, Kalundborg can be reached stress-free even in the rain. A morning in Højbyen offers short walks between historical buildings. At noon, museums invite you to linger while the coastal rain falls outside. An afternoon at the harbor can be easily combined with a cafe visit. The return journey starts comfortably from the dry station."
+            "en": "By train and bus, Kalundborg can be reached stress-free even in the rain. A morning in Højbyen offers short walks between historical buildings. At noon, museums invite you to linger while the coastal rain falls outside. An afternoon at the harbor can be easily combined with a cafe visit. The return journey starts comfortably from the dry station.",
+            "da": "Med tog og bus kan Kalundborg nås stressfrit selv i regnvejr. En morgen i Højbyen byder på korte gåture mellem historiske bygninger. Ved middagstid inviterer museerne til ophold, mens kystregnen falder udenfor. En eftermiddag ved havnen kan nemt kombineres med et cafebesøg. Hjemrejsen starter komfortabelt fra den tørre station."
           },
           "stops": [
             {
@@ -1750,7 +1891,8 @@
                 "de": "Warten Sie im Bahnhofsgebäude, bis der nächste Bus kommt.",
                 "hu": "Várjon az állomás épületében a következő buszig.",
                 "ro": "Așteptați în clădirea gării până vine următorul autobuz.",
-                "en": "Wait inside the station building until your bus arrives."
+                "en": "Wait inside the station building until your bus arrives.",
+                "da": "Vent indenfor stationsbygningen, indtil din bus ankommer."
               }
             },
             {
@@ -1759,7 +1901,8 @@
                 "de": "Die Bushaltestellen liegen meist nah an den Kircheneingängen.",
                 "hu": "A buszmegállók többnyire közel vannak a templombejáratokhoz.",
                 "ro": "Stațiile de autobuz sunt de cele mai multe ori aproape de intrările în biserică.",
-                "en": "Bus stops are mostly located near the church entrances."
+                "en": "Bus stops are mostly located near the church entrances.",
+                "da": "Busholdepladser ligger for det meste nær kirkens indgange."
               }
             },
             {
@@ -1768,7 +1911,8 @@
                 "de": "Der Fußweg von der Haltestelle zum Museum ist kurz und gut befestigt.",
                 "hu": "A megállótól a múzeumig tartó gyalogút rövid és jól kiépített.",
                 "ro": "Drumul pe jos de la stație la muzeu este scurt și bine pavat.",
-                "en": "The walk from the stop to the museum is short and well-paved."
+                "en": "The walk from the stop to the museum is short and well-paved.",
+                "da": "Gåturen fra stoppet til museet er kort og velbelagt."
               }
             },
             {
@@ -1777,7 +1921,8 @@
                 "de": "Nutzen Sie die überdachten Wartebereiche am Fährterminal.",
                 "hu": "Használja a kompkikötő fedett váróhelyiségeit.",
                 "ro": "Folosiți zonele de așteptare acoperite de la terminalul de feribot.",
-                "en": "Use the covered waiting areas at the ferry terminal."
+                "en": "Use the covered waiting areas at the ferry terminal.",
+                "da": "Brug de overdækkede venteområder ved terminalen."
               }
             },
             {
@@ -1786,7 +1931,8 @@
                 "de": "Bei starkem Regen ist die Sicht vom Hügel eingeschränkt; Museen bevorzugen.",
                 "hu": "Erős esőben a kilátás korlátozott a dombról; válassza inkább a múzeumokat.",
                 "ro": "Pe ploaie torențială, vizibilitatea de pe deal este limitată; preferați muzeele.",
-                "en": "In heavy rain, visibility from the hill is limited; prefer the museums."
+                "en": "In heavy rain, visibility from the hill is limited; prefer the museums.",
+                "da": "I kraftig regn er udsigten fra bakken begrænset; foretræk museerne."
               }
             }
           ],
@@ -1814,6 +1960,12 @@
               "Stations and terminals provide good shelter from wind and rain.",
               "A small, sturdy umbrella fits well in your bag.",
               "Allow extra time for transfers during stormy weather."
+            ],
+            "da": [
+              "Brug 'Rejseplanen'-appen til realtidsinfo ved vejrrelaterede forsinkelser.",
+              "Stationer og terminaler giver god læ for vind og regn.",
+              "En lille, robust paraply passer godt i din taske.",
+              "Afslå ekstra tid til skift under stormfuldt vejr."
             ]
           }
         },
@@ -1822,7 +1974,8 @@
             "de": "Winterreise mit Weitblick: Der Zug bringt Sie direkt in das winterliche Herz von Kalundborg. Der Højbyen erstrahlt im klaren Frost, und die Museen bieten wohlige Wärme während des Vormittags. Mittags laden die gemütlichen Lokale nahe der Station zum Aufwärmen ein. Der Nachmittag am Hafen ist kurz, da die Dämmerung früh einsetzt und die Lichter der Stadt den Bahnhof in ein schönes Licht tauchen.",
             "hu": "Téli utazás kilátásokkal: a vonat közvetlenül Kalundborg téli szívébe repít. Højbyen ragyog a tiszta fagyban, a múzeumok pedig kellemes meleget adnak délelőtt. Délben az állomás közeli hangulatos helyek csábítanak felmelegedésre. A kikötői délután rövid, mivel korán alkonyodik, és a város fényei szép megvilágításba helyezik a vasútállomást.",
             "ro": "Călătorie de iarnă cu perspective: trenul vă duce direct în inima de iarnă a orașului Kalundborg. Højbyen strălucește în înghețul clar, iar muzeele oferă o căldură plăcută în timpul dimineții. La prânz, localurile primitoare de lângă gară vă invită la încălzire. După-amiaza în port este scurtă, deoarece amurgul se lasă devreme, iar luminile orașului scaldă gara într-o lumină frumoasă.",
-            "en": "A winter journey with a view: the train takes you straight into the winter heart of Kalundborg. Højbyen shines in the clear frost, and museums offer cozy warmth during the morning. At noon, charming spots near the station invite you to warm up. The afternoon at the harbor is short as twilight sets in early, and the city lights bathe the station in a beautiful glow."
+            "en": "A winter journey with a view: the train takes you straight into the winter heart of Kalundborg. Højbyen shines in the clear frost, and museums offer cozy warmth during the morning. At noon, charming spots near the station invite you to warm up. The afternoon at the harbor is short as twilight sets in early, and the city lights bathe the station in a beautiful glow.",
+            "da": "En vinterrejse med udsigt: toget fører dig direkte ind i Kalundborgs vinterhjerte. Højbyen funkler i klar frost, og museerne tilbyder hyggelig varme om morgenen. Ved middagstid indbyder charmerende steder nær stationen til at varme sig. Eftermiddagen ved havnen er kort, da tusmørket sætter ind tidligt, og byens lys badet stationen i et smukt skær."
           },
           "stops": [
             {
@@ -1831,7 +1984,8 @@
                 "de": "Das beheizte Bahnhofsgebäude ist ein guter Treffpunkt.",
                 "hu": "A fűtött állomásépület jó találkozási pont.",
                 "ro": "Clădirea gării încălzită este un punct de întâlnire bun.",
-                "en": "The heated station building is a good meeting point."
+                "en": "The heated station building is a good meeting point.",
+                "da": "Den opvarmede stationsbygning er et godt mødested."
               }
             },
             {
@@ -1840,7 +1994,8 @@
                 "de": "Die Wege zwischen den Kirchengebäuden sind im Winter oft gestreut.",
                 "hu": "A templomépületek közötti utakat télen gyakran felszórják.",
                 "ro": "Potecile dintre clădirile bisericii sunt adesea presărate cu nisip iarna.",
-                "en": "Paths between the church buildings are often gritted in winter."
+                "en": "Paths between the church buildings are often gritted in winter.",
+                "da": "Stierne mellem kirkehusene er ofte saltet om vinteren."
               }
             },
             {
@@ -1849,7 +2004,8 @@
                 "de": "Idealer Ort, um die Wartezeit auf den nächsten Bus im Warmen zu verbringen.",
                 "hu": "Ideális hely a következő buszra való várakozásra a melegben.",
                 "ro": "Locul ideal pentru a petrece timpul de așteptare pentru următorul autobuz la căldură.",
-                "en": "Ideal place to wait for the next bus in the warmth."
+                "en": "Ideal place to wait for the next bus in the warmth.",
+                "da": "Ideelt sted at vente på næste bus i varmen."
               }
             },
             {
@@ -1858,7 +2014,8 @@
                 "de": "Die Cafés am Hafen sind im Winter besonders gemütlich.",
                 "hu": "A kikötői kávézók télen különösen meghittek.",
                 "ro": "Cafenelele din port sunt deosebit de primitoare iarna.",
-                "en": "The harbor cafes are especially cozy in winter."
+                "en": "The harbor cafes are especially cozy in winter.",
+                "da": "Havnecaféer er særligt hyggelige om vinteren."
               }
             },
             {
@@ -1867,7 +2024,8 @@
                 "de": "Achten Sie auf die letzte Busverbindung vor Einbruch der Dunkelheit.",
                 "hu": "Ügyeljen az utolsó buszcsatlakozásra sötétedés előtt.",
                 "ro": "Atenție la ultima legătură de autobuz înainte de lăsarea întunericului.",
-                "en": "Check the last bus connection before darkness falls."
+                "en": "Check the last bus connection before darkness falls.",
+                "da": "Tjek den sidste busforbindelse, før mørket falder på."
               }
             }
           ],
@@ -1895,6 +2053,12 @@
               "Wear warm winter shoes with treaded soles.",
               "Trains are well-heated; ideal for resting between stops.",
               "Include the 16:00 twilight in your time planning."
+            ],
+            "da": [
+              "Tjek vinterkøreplanen, da nogle busser kan køre mere sjældent.",
+              "Bær varme vinterstøvler med mønstrede såler.",
+              "Togene er godt opvarmede; ideelle til at hvile mellem stop.",
+              "Indregn kl. 16:00-tusmørket i din tidsplan."
             ]
           }
         }

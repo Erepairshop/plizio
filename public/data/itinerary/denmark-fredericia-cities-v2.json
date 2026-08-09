@@ -21,7 +21,8 @@
             "de": "Der Landsoldat",
             "hu": "A közlegény szobra",
             "ro": "Statuia Soldatului",
-            "en": "The Valiant Soldier Statue"
+            "en": "The Valiant Soldier Statue",
+            "da": "The Valiant Soldier Statue"
           },
           "coords": [
             9.7548,
@@ -36,7 +37,8 @@
             "de": "Eines der berühmtesten Denkmäler Dänemarks, idealer Ausgangspunkt.",
             "hu": "Dánia egyik leghíresebb emlékműve, ideális kiindulópont.",
             "ro": "Unul dintre cele mai faimoase monumente din Danemarca, un punct de plecare ideal.",
-            "en": "One of Denmark's most famous monuments, an ideal starting point."
+            "en": "One of Denmark's most famous monuments, an ideal starting point.",
+            "da": "Et af Danmarks mest berømte monumenter, et ideelt udgangspunkt."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Fredericia-Wall",
             "hu": "Fredericia sáncai",
             "ro": "Valurile din Fredericia",
-            "en": "Fredericia Ramparts"
+            "en": "Fredericia Ramparts",
+            "da": "Fredericia Ramparts"
           },
           "coords": [
             9.749,
@@ -59,7 +62,8 @@
             "de": "Machen Sie einen langen Spaziergang auf einer der am besten erhaltenen Wallanlagen Nordeuropas.",
             "hu": "Tegyen egy hosszú sétát Észak-Európa egyik legjobb állapotban megmaradt sáncerődjén.",
             "ro": "Faceți o plimbare lungă pe una dintre cele mai bine conservate fortificații din nordul Europei.",
-            "en": "Take a long walk on one of Northern Europe's best-preserved ramparts."
+            "en": "Take a long walk on one of Northern Europe's best-preserved ramparts.",
+            "da": "Tag en lang gåtur på en af Nordeuropas bedst bevarede voldanlæg."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Trinitatis-Kirche",
             "hu": "Trinitatis-templom",
             "ro": "Biserica Trinitatis",
-            "en": "Trinitatis Church"
+            "en": "Trinitatis Church",
+            "da": "Trinitatis Church"
           },
           "coords": [
             9.756,
@@ -82,7 +87,8 @@
             "de": "Beachten Sie die barocke Architektur und die ruhige Atmosphäre im Inneren.",
             "hu": "Figyelje meg a barokk építészetet és a belső tér békés hangulatát.",
             "ro": "Observați arhitectura barocă și atmosfera liniștită din interior.",
-            "en": "Notice the baroque architecture and the quiet atmosphere inside."
+            "en": "Notice the baroque architecture and the quiet atmosphere inside.",
+            "da": "Læg mærke til den barokke arkitektur og den rolige stemning indendørs."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Das Kastell",
             "hu": "A Citadella (Kastellet)",
             "ro": "Citadela (Kastellet)",
-            "en": "The Citadel (Kastellet)"
+            "en": "The Citadel (Kastellet)",
+            "da": "The Citadel (Kastellet)"
           },
           "coords": [
             9.761,
@@ -105,7 +112,8 @@
             "de": "Erkunden Sie die Überreste der ursprünglichen Zitadelle und genießen Sie die Aussicht.",
             "hu": "Fedezze fel az eredeti citadella maradványait, és élvezze a kilátást.",
             "ro": "Explorați rămășițele citadelei originale și bucurați-vă de priveliște.",
-            "en": "Explore the remains of the original citadel and enjoy the view."
+            "en": "Explore the remains of the original citadel and enjoy the view.",
+            "da": "Udforsk resterne af den oprindelige citadel og nyd udsigten."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Die historische Ministadt",
             "hu": "A történelmi Miniváros",
             "ro": "Miniorășelul Istoric",
-            "en": "The Historical Mini-Town"
+            "en": "The Historical Mini-Town",
+            "da": "The Historical Mini-Town"
           },
           "coords": [
             9.735,
@@ -128,7 +137,8 @@
             "de": "Ein faszinierendes Modell von Fredericia um 1849, perfekt für Geschichtsliebhaber.",
             "hu": "Fredericia lenyűgöző modellje 1849-ből, tökéletes a történelem kedvelőinek.",
             "ro": "Un model fascinant al Fredericiei din jurul anului 1849, perfect pentru pasionații de istorie.",
-            "en": "A fascinating model of Fredericia as it was around 1849, perfect for history buffs."
+            "en": "A fascinating model of Fredericia as it was around 1849, perfect for history buffs.",
+            "da": "En fascinerende model af Fredericia, som den var omkring 1849, perfekt for historieinteresserede."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Der weiße Wasserturm",
             "hu": "A Fehér Víztorony",
             "ro": "Turnul Alb de Apă",
-            "en": "The White Water Tower"
+            "en": "The White Water Tower",
+            "da": "The White Water Tower"
           },
           "coords": [
             9.763,
@@ -151,7 +162,8 @@
             "de": "Steigen Sie hinauf für einen Panoramablick über die Stadt und die Wälle.",
             "hu": "Menjen fel a panorámás kilátásért a városra és a sáncokra.",
             "ro": "Urcați pentru o vedere panoramică asupra orașului și a valurilor.",
-            "en": "Climb up for a panoramic view of the city and the ramparts."
+            "en": "Climb up for a panoramic view of the city and the ramparts.",
+            "da": "Bestig tårnet for en panoramisk udsigt over byen og voldene."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Østerstrand",
             "hu": "Østerstrand strand",
             "ro": "Plaja Østerstrand",
-            "en": "Østerstrand Beach"
+            "en": "Østerstrand Beach",
+            "da": "Østerstrand Beach"
           },
           "coords": [
             9.775,
@@ -174,7 +187,8 @@
             "de": "Entspannen Sie am Strand oder schwimmen Sie im Kleinen Belt. Ein perfekter Abschluss für den Tag.",
             "hu": "Pihenjen a tengerparton, vagy ússzon egyet a Kis-Beltben. Tökéletes lezárása a napnak.",
             "ro": "Relaxați-vă pe plajă sau înotați în Mica Centură. Un final perfect pentru o zi.",
-            "en": "Relax on the beach or take a swim in the Little Belt. A perfect end to the day."
+            "en": "Relax on the beach or take a swim in the Little Belt. A perfect end to the day.",
+            "da": "Slap af på stranden eller tag en dukkert i Lillebælt. En perfekt afslutning på dagen."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Beginnen Sie Ihren Tag im Herzen der Geschichte Fredericias mit einem Spaziergang entlang der beeindruckenden Wallanlagen, die zu den am besten erhaltenen in Europa gehören. Besuchen Sie das ikonische Denkmal des Landsoldaten und die elegante Trinitatis-Kirche, die von der reichen Vergangenheit der Festungsstadt zeugen. Die kompakte Innenstadt lässt sich leicht zu Fuß erkunden und enthüllt an jeder Ecke historische Schätze.\nAm Mittag können Sie die faszinierende historische Ministadt erkunden, die Fredericia um 1849 darstellt. Es ist wie eine Zeitreise, bei der die strategische Bedeutung der Stadt lebendig wird. Nach diesem Einblick in die Geschichte ist es Zeit für eine Mittagspause in einem der gemütlichen Cafés im Stadtzentrum. Genießen Sie ein traditionelles dänisches Smørrebrød, um neue Energie zu tanken.\nAm Nachmittag führt Sie Ihr Weg zum Weißen Wasserturm, von dem aus Sie einen herrlichen Panoramablick über die Stadt, ihre Festungsanlagen und das Meer haben. Es ist ein großartiger Ort für Fotos und um die einzigartige sternförmige Anlage der Stadt zu verstehen. Der Abstieg führt Sie dann in Richtung Küste.\nBeenden Sie Ihren Tag am Østerstrand, dem Stadtstrand von Fredericia. Hier können Sie sich entspannen, die frische Meeresbrise genießen oder ein erfrischendes Bad im Kleinen Belt nehmen. Es ist der perfekte Ort, um die Eindrücke des Tages Revue passieren zu lassen und den Abend in ruhiger Atmosphäre ausklingen zu lassen, während die Sonne über dem Wasser untergeht.",
         "hu": "Kezdje a napot Fredericia történelmének szívében egy sétával a lenyűgöző sáncokon, amelyek Európa legjobb állapotban fennmaradt erődművei közé tartoznak. Látogassa meg az ikonikus Közlegény szobrát és az elegáns Trinitatis-templomot, mindkettő az erődváros gazdag múltjáról tanúskodik. A kompakt belváros könnyen bejárható gyalog, és minden sarkon történelmi kincseket rejt.\nDélben fedezze fel a lenyűgöző történelmi Minivárost, amely Fredericia 1849-es állapotát mutatja be. Olyan, mint egy időutazás, amely életre kelti a város stratégiai fontosságát. A történelmi kitekintés után ideje egy ebédszünetet tartani a belváros egyik hangulatos kávézójában. Kóstoljon meg egy hagyományos dán smørrebrødot, hogy feltöltődjön energiával.\nA délután folyamán másszon fel a Fehér Víztoronyba, ahonnan csodálatos panoráma nyílik a városra, az erődítményekre és a tengerre. Ez egy remek fotóhelyszín, és segít megérteni a város egyedülálló, csillag alakú elrendezését. Lefelé menet az útja a tengerpart felé vezet.\nZárja a napot az Østerstrandon, Fredericia városi strandján. Itt pihenhet, élvezheti a friss tengeri szellőt, vagy úszhat egyet a Kis-Beltben. Tökéletes hely a nap eseményeinek átgondolására és az este békés lezárására, miközben a nap a víz felett nyugszik.",
         "ro": "Începeți ziua în inima istoriei Fredericiei cu o plimbare de-a lungul impresionantelor valuri, printre cele mai bine conservate din Europa. Vizitați monumentul iconic al Soldatului și eleganta Biserică Trinitatis, ambele mărturii ale trecutului bogat al orașului-cetate. Centrul compact este ușor de explorat pe jos, dezvăluind comori istorice la fiecare colț.\nLa amiază, explorați fascinantul Mini-oraș Istoric, care prezintă Fredericia așa cum era în 1849. Este ca o călătorie în timp, aducând la viață importanța strategică a orașului. După această incursiune în istorie, este timpul pentru o pauză de prânz la una dintre cafenelele primitoare din centrul orașului. Savurați un smørrebrød tradițional danez pentru a vă reîncărca bateriile.\nDupă-amiaza, urcați în Turnul Alb de Apă pentru o priveliște panoramică splendidă asupra orașului, fortificațiilor și mării. Este un loc excelent pentru fotografii și pentru a înțelege structura unică a orașului, în formă de stea. Coborârea vă va purta apoi spre coastă.\nÎncheiați ziua la Østerstrand, plaja orașului Fredericia. Aici vă puteți relaxa, bucura de briza proaspătă a mării sau puteți face o baie răcoritoare în Mica Centură. Este locul perfect pentru a reflecta la evenimentele zilei și a încheia seara într-o atmosferă liniștită, în timp ce soarele apune peste apă.",
-        "en": "Start your day in the heart of Fredericia's history with a walk along the impressive ramparts, among the best-preserved in Europe. Visit the iconic Valiant Soldier statue and the elegant Trinitatis Church, both testaments to the fortress town's rich past. The compact city center is easy to explore on foot, revealing historical treasures at every corner.\nAt noon, explore the fascinating Historical Mini-Town, which depicts Fredericia as it was in 1849. It's like a journey back in time, bringing the city's strategic importance to life. After this historical insight, it's time for a lunch break at one of the cozy cafes in the city center. Enjoy a traditional Danish smørrebrød to recharge your energy.\nIn the afternoon, make your way up the White Water Tower for a splendid panoramic view over the city, its fortifications, and the sea. It's a great spot for photos and for understanding the city's unique star-shaped layout. The descent will then lead you towards the coast.\nEnd your day at Østerstrand, Fredericia's city beach. Here you can relax, enjoy the fresh sea breeze, or take a refreshing swim in the Little Belt. It's the perfect place to reflect on the day's events and end the evening in a peaceful atmosphere as the sun sets over the water."
+        "en": "Start your day in the heart of Fredericia's history with a walk along the impressive ramparts, among the best-preserved in Europe. Visit the iconic Valiant Soldier statue and the elegant Trinitatis Church, both testaments to the fortress town's rich past. The compact city center is easy to explore on foot, revealing historical treasures at every corner.\nAt noon, explore the fascinating Historical Mini-Town, which depicts Fredericia as it was in 1849. It's like a journey back in time, bringing the city's strategic importance to life. After this historical insight, it's time for a lunch break at one of the cozy cafes in the city center. Enjoy a traditional Danish smørrebrød to recharge your energy.\nIn the afternoon, make your way up the White Water Tower for a splendid panoramic view over the city, its fortifications, and the sea. It's a great spot for photos and for understanding the city's unique star-shaped layout. The descent will then lead you towards the coast.\nEnd your day at Østerstrand, Fredericia's city beach. Here you can relax, enjoy the fresh sea breeze, or take a refreshing swim in the Little Belt. It's the perfect place to reflect on the day's events and end the evening in a peaceful atmosphere as the sun sets over the water.",
+        "da": "Start din dag i Fredericias historiske hjerte med en gåtur langs de imponerende volde, blandt de bedst bevarede i Europa. Besøg den ikoniske Soldier-statue og den elegante Trinitatis Kirke, begge vidnesbyrd om fæstningsbyens rige fortid. Den kompakte bymidte er let at udforske til fods og afslører historiske skatte på hvert hjørne.\nVed middagstid udforsk den fascinerende Historiske Mini-By, som viser Fredericia, som den var i 1849. Det er som en rejse tilbage i tiden, der gør byens strategiske betydning levende. Efter denne historiske indsigt er det tid til frokost på en af de hyggelige caféer i centrum. Nyd et traditionelt dansk smørrebrød for at få ny energi.\nOm eftermiddagen tager du trappen op i det Hvide Vandtårn for en pragtfuld panoramaudsigt over byen, dens befæstninger og havet. Det er et godt sted til fotos og for at forstå byens karakteristiske stjernelayout. Nedstigningen fører dig derefter mod kysten.\nAfslut dagen ved Østerstrand, Fredericias bystrand. Her kan du slappe af, nyde den friske havbrise eller tage en forfriskende svømmetur i Lillebælt. Det er det perfekte sted at reflektere over dagens oplevelser og afslutte aftenen i en fredelig atmosfære, mens solen går ned over vandet."
       },
       "gastro_picks": {
         "de": [
@@ -378,6 +393,12 @@
           "Check the opening hours for the Water Tower as they can be seasonal.",
           "The city center is very compact; everything is within a 10-15 minute walk.",
           "Bring a reusable water bottle; there are public fountains."
+        ],
+        "da": [
+          "Brug komfortable sko. At udforske voldene indebærer meget gang på ujævnt underlag.",
+          "Tjek åbningstiderne for Vandtårnet, da de kan være sæsonbestemte.",
+          "Byens centrum er meget kompakt; alting ligger inden for 10-15 minutters gang.",
+          "Medbring en genanvendelig vandflaske; der er offentlige drikkefontæner."
         ]
       },
       "variants": {
@@ -386,7 +407,8 @@
             "de": "Der Tag beginnt am Denkmal des tapferen Soldaten im Nieselregen. Mittags bieten die hohen Wälle der Festung etwas Schutz vor dem Wind, während man unter dem Regenschirm spaziert. Am Nachmittag ist die Trinitatis-Kirche ein idealer Ort, um im Trockenen die Geschichte zu erkunden. Der Tag endet mit einem grauen, aber atmosphärischen Blick auf den Kleinen Belt am Strand.",
             "hu": "A nap az esőben ázó Vitéz Katona szobránál indul. Délben az erődítmény sáncai között sétálunk, ahol a fák némi védelmet nyújtanak a szél ellen. Délután a Trinitatis templom csendje és fedett tere nyújt menedéket a csapadék elől. Az estét a tengerparti szürkület zárja, ahol a vizes homok különleges tükröződést ad a dán partvidéknek.",
             "ro": "Ziua începe la Statuia Soldatului Viteaz sub o ploaie măruntă. La prânz, explorăm meterezele cetății sub umbrelă, profitând de potecile parțial adăpostite. După-amiaza, Biserica Trinitatis oferă un refugiu perfect și uscat pentru a admira arhitectura. Seara se încheie pe plajă, unde cerul plumburiu deasupra Micului Belt creează o atmosferă dramatică și melancolică.",
-            "en": "The day starts at the Valiant Soldier statue in the drizzle. At noon, the ramparts provide a wind-shielded walk under your umbrella. In the afternoon, Trinitatis Church is the perfect dry haven to explore local history. The evening ends with a grey but atmospheric view of the Little Belt at the beach, where the wet sand reflects the fading light."
+            "en": "The day starts at the Valiant Soldier statue in the drizzle. At noon, the ramparts provide a wind-shielded walk under your umbrella. In the afternoon, Trinitatis Church is the perfect dry haven to explore local history. The evening ends with a grey but atmospheric view of the Little Belt at the beach, where the wet sand reflects the fading light.",
+            "da": "Dagen starter ved Soldier-statue i duggregn. Ved middagstid giver voldene et læ for vinden under din paraply. Om eftermiddagen er Trinitatis Kirke det perfekte tørre fristed til at udforske lokalhistorien. Aftenen ender med en grå men stemningsfuld udsigt over Lillebælt på stranden, hvor den våde sand spejler det aftagende lys."
           },
           "stops": [
             {
@@ -395,7 +417,8 @@
                 "de": "Suchen Sie unter den nahen Bäumen Schutz für ein Foto des Denkmals.",
                 "hu": "A közeli fák alatt keress védelmet a szobor fotózásához.",
                 "ro": "Căutați adăpost sub copacii din apropiere pentru o fotografie a monumentului.",
-                "en": "Find shelter under the nearby trees for a quick photo of the monument."
+                "en": "Find shelter under the nearby trees for a quick photo of the monument.",
+                "da": "Find læ under de nærliggende træer for et hurtigt foto af monumentet."
               }
             },
             {
@@ -404,7 +427,8 @@
                 "de": "Bleiben Sie auf den befestigten Wegen, da die Grasflächen bei Regen rutschig sind.",
                 "hu": "Maradj a kövezett utakon, mert a füves rézsűk esőben nagyon csúsznak.",
                 "ro": "Rămâneți pe potecile pavate, deoarece zonele cu iarbă devin alunecoase pe ploaie.",
-                "en": "Stay on the paved paths, as the grassy slopes become very slippery in the rain."
+                "en": "Stay on the paved paths, as the grassy slopes become very slippery in the rain.",
+                "da": "Bliv på de belagte stier, da de græsklædte skråninger bliver meget glatte i regnvejr."
               }
             },
             {
@@ -413,7 +437,8 @@
                 "de": "Nutzen Sie den Vorraum, um Ihren Regenschirm auszuschütteln und sich aufzuwärmen.",
                 "hu": "Használd az előteret az esernyő lerázására és egy kis melegedésre.",
                 "ro": "Folosiți vestibulul pentru a scutura umbrela și pentru a vă încălzi puțin.",
-                "en": "Use the vestibule to shake off your umbrella and dry your gear for a moment."
+                "en": "Use the vestibule to shake off your umbrella and dry your gear for a moment.",
+                "da": "Brug forhallen til at ryste din paraply og tørre dit udstyr et øjeblik."
               }
             },
             {
@@ -422,7 +447,8 @@
                 "de": "Die Aussicht auf das Meer ist auch bei Regen durch die alten Mauern beeindruckend.",
                 "hu": "A tengeri kilátás az öreg falak mellől esőben is lenyűgöző.",
                 "ro": "Vederea spre mare este impresionantă de lângă zidurile vechi chiar și pe ploaie.",
-                "en": "The sea view from the old walls remains impressive even in rainy weather."
+                "en": "The sea view from the old walls remains impressive even in rainy weather.",
+                "da": "Havudsigten fra de gamle volde er stadig imponerende selv i regnvejr."
               }
             },
             {
@@ -431,7 +457,8 @@
                 "de": "Einige Miniaturgebäude bieten kleine Vordächer zum kurzen Unterstellen.",
                 "hu": "Néhány miniatűr épület apró előtetővel rendelkezik, ami alá be lehet húzódni.",
                 "ro": "Unele clădiri în miniatură au mici streșini sub care vă puteți adăposti scurt.",
-                "en": "Some miniature buildings have tiny overhangs where you can take brief cover."
+                "en": "Some miniature buildings have tiny overhangs where you can take brief cover.",
+                "da": "Nogle miniaturebygninger har små udhæng, hvor du kan tage kortvarig dækning."
               }
             },
             {
@@ -440,7 +467,8 @@
                 "de": "Der Aufstieg lohnt sich nur, wenn die Wolken nicht zu tief hängen.",
                 "hu": "A felmenetel csak akkor éri meg, ha a felhők nem ülnek rá a városra.",
                 "ro": "Urcarea merită doar dacă norii nu sunt prea joși deasupra orașului.",
-                "en": "Climbing up is only worth it if the clouds aren't hanging too low over the city."
+                "en": "Climbing up is only worth it if the clouds aren't hanging too low over the city.",
+                "da": "Det er kun værd at bestige, hvis skyerne ikke hænger for lavt over byen."
               }
             },
             {
@@ -449,7 +477,8 @@
                 "de": "Der überdachte Pavillon am Strand bietet Schutz für den Blick aufs Meer.",
                 "hu": "A tengerparti fedett pavilon menedéket nyújt a kilátáshoz.",
                 "ro": "Pavilionul acoperit de pe plajă oferă adăpost pentru a privi marea.",
-                "en": "The covered pavilion on the beach offers a dry spot to watch the waves."
+                "en": "The covered pavilion on the beach offers a dry spot to watch the waves.",
+                "da": "Den overdækkede pavillon på stranden tilbyder et tørt sted at se på bølgerne."
               }
             }
           ],
@@ -477,6 +506,12 @@
               "Trinitatis Church is the best spot to wait out heavy downpours.",
               "Take a drying break in one of the cafes on Vesterbrogade street.",
               "A sturdy umbrella is essential due to the winds coming off the sea."
+            ],
+            "da": [
+              "Brug vandtætte vandresko til stierne på voldene.",
+              "Trinitatis Kirke er det bedste sted at vente ud kraftige byger.",
+              "Tag en tørrepause på en af caféerne på Vesterbrogade.",
+              "En solid paraply er afgørende på grund af vindene fra havet."
             ]
           }
         },
@@ -485,7 +520,8 @@
             "de": "Ein frostiger Morgen beginnt am Soldaten-Denkmal, wo der Reif auf dem Metall glänzt. Mittags führt der Weg über die windgepeitschten Wälle, die eine klare Sicht auf das winterliche Fredericia bieten. Am Nachmittag wärmt man sich in der Stille der Kirche auf, bevor das frühe Licht die historische Altstadt in blaue Schatten taucht. Der Tag endet am einsamen Strand bei klirrender Kälte.",
             "hu": "Fagyos reggel indul a katonaszobornál, ahol a zúzmara megül a fémfelületeken. Délben a szeles sáncokon sétálunk, ahonnan tiszta kilátás nyílik a téli városra. Délután a templom békéjében melegszünk fel, mielőtt a korai sötétedés kék árnyékba borítaná az óvárost. A nap a néptelen tengerparton zárul, ahol a jeges szél hozza a sós tengeri illatot.",
             "ro": "O dimineață geroasă începe la statuia soldatului, unde promoroaca strălucește pe metal. La prânz, drumul duce peste meterezele bătute de vânt, oferind o vedere clară asupra orașului hibernal. După-amiaza, ne încălzim în liniștea bisericii, înainte ca lumina timpurie să scufunde centrul istoric în umbre albastre. Ziua se încheie pe plaja pustie, în frigul tăios al serii.",
-            "en": "A frosty morning begins at the Soldier monument, with rime glistening on the metal. At noon, the path leads over the windswept ramparts, offering clear views of wintery Fredericia. In the afternoon, warm up in the silence of the church before early dusk casts blue shadows over the old town. The day ends at the deserted beach in the biting cold of the winter evening."
+            "en": "A frosty morning begins at the Soldier monument, with rime glistening on the metal. At noon, the path leads over the windswept ramparts, offering clear views of wintery Fredericia. In the afternoon, warm up in the silence of the church before early dusk casts blue shadows over the old town. The day ends at the deserted beach in the biting cold of the winter evening.",
+            "da": "En frostklar morgen begynder ved Soldier-monumentet med rim, der glitrer på metallet. Ved middagstid fører stien over de vindblæste volde og giver klare udsigter over vinterlige Fredericia. Om eftermiddagen kan du varme dig i kirkens stilhed, før den tidlige skumring kaster blå skygger over den gamle by. Dagen ender på den øde strand i den bidende kulde af vinternatten."
           },
           "stops": [
             {
@@ -494,7 +530,8 @@
                 "de": "Vorsicht, die Pflastersteine um das Denkmal können bei Frost glatt sein.",
                 "hu": "Vigyázat, a szobor körüli macskakövek fagyban csúszósak lehetnek.",
                 "ro": "Atenție, pavajul din jurul monumentului poate fi alunecos pe timp de îngheț.",
-                "en": "Watch out, the cobblestones around the monument can be slippery when frozen."
+                "en": "Watch out, the cobblestones around the monument can be slippery when frozen.",
+                "da": "Pas på, brostenene omkring monumentet kan være glatte, når de er frosne."
               }
             },
             {
@@ -503,7 +540,8 @@
                 "de": "Der Wind auf den Wällen ist im Winter scharf; kleiden Sie sich winddicht.",
                 "hu": "A sáncokon a szél télen metsző, öltözz szélálló rétegekbe.",
                 "ro": "Vântul pe metereze este tăios iarna; îmbrăcați-vă cu haine rezistente la vânt.",
-                "en": "The wind on the ramparts is sharp in winter; wear windproof layers."
+                "en": "The wind on the ramparts is sharp in winter; wear windproof layers.",
+                "da": "Vinden på voldene er skarp om vinteren; tag vindtætte lag på."
               }
             },
             {
@@ -512,7 +550,8 @@
                 "de": "Ein friedlicher, beheizter Ort für eine Pause während der Stadttour.",
                 "hu": "Békés, fűtött helyszín egy rövid pihenőre a városnézés közben.",
                 "ro": "Un loc liniștit și încălzit pentru o pauză în timpul turului orașului.",
-                "en": "A peaceful, heated location for a short rest during your city tour."
+                "en": "A peaceful, heated location for a short rest during your city tour.",
+                "da": "Et fredeligt, opvarmet sted til en kort pause under byrundturen."
               }
             },
             {
@@ -521,7 +560,8 @@
                 "de": "Die offene Lage macht es zum kältesten Punkt des Spaziergangs.",
                 "hu": "A nyitott fekvése miatt ez a séta leghidegebb pontja.",
                 "ro": "Locația deschisă îl face cel mai rece punct al plimbării.",
-                "en": "Its open location makes this the coldest point of the walk."
+                "en": "Its open location makes this the coldest point of the walk.",
+                "da": "Dets åbne beliggenhed gør dette til det koldeste punkt på gåturen."
               }
             },
             {
@@ -530,7 +570,8 @@
                 "de": "Die schneebedeckten Miniaturhäuser wirken wie in einer Weihnachtsgeschichte.",
                 "hu": "A hóval borított miniatűr házak olyanok, mint egy karácsonyi mesében.",
                 "ro": "Casele în miniatură acoperite de zăpadă arată ca într-o poveste de Crăciun.",
-                "en": "The snow-covered miniature houses look like something out of a Christmas tale."
+                "en": "The snow-covered miniature houses look like something out of a Christmas tale.",
+                "da": "De sneklædte miniaturehuse ligner noget fra en julefortælling."
               }
             },
             {
@@ -539,7 +580,8 @@
                 "de": "Prüfen Sie die Öffnungszeiten, diese sind im Winter oft stark verkürzt.",
                 "hu": "Ellenőrizd a nyitvatartást, télen gyakran rövidebb ideig látogatható.",
                 "ro": "Verificați programul de funcționare, iarna este adesea mult scurtat.",
-                "en": "Check the opening hours as they are often significantly reduced in winter."
+                "en": "Check the opening hours as they are often significantly reduced in winter.",
+                "da": "Tjek åbningstiderne, da de ofte er betydeligt reducerede om vinteren."
               }
             },
             {
@@ -548,7 +590,8 @@
                 "de": "Genießen Sie die klare Winterluft, bevor es gegen 16:30 Uhr dunkel wird.",
                 "hu": "Élvezd a tiszta téli levegőt, mielőtt 16:30 körül teljesen besötétedik.",
                 "ro": "Bucurați-vă de aerul curat de iarnă înainte de a se întuneca în jur de ora 16:30.",
-                "en": "Enjoy the crisp winter air before it gets dark around 16:30."
+                "en": "Enjoy the crisp winter air before it gets dark around 16:30.",
+                "da": "Nyd den klare vinterluft, før det bliver mørkt omkring kl. 16:30."
               }
             }
           ],
@@ -576,6 +619,12 @@
               "Sunset occurs as early as 16:00 during the month of December.",
               "Watch out for icy patches on unpaved paths in the parks.",
               "A thermal flask with hot tea is the perfect companion on the walls."
+            ],
+            "da": [
+              "Brug termotøj til vandringen langs fæstningsvoldene.",
+              "Solnedgang kan indtræffe så tidligt som kl. 16:00 i december måned.",
+              "Pas på isglatte pletter på ikke-belagte stier i parkerne.",
+              "En termoflaske med varm te er den perfekte følgesvend på voldene."
             ]
           }
         }
@@ -594,7 +643,8 @@
             "de": "Madsby Legepark",
             "hu": "Madsby Játszópark",
             "ro": "Parcul Madsby Legepark",
-            "en": "Madsby Legepark (Play Park)"
+            "en": "Madsby Legepark (Play Park)",
+            "da": "Madsby Legepark (Legepark)"
           },
           "coords": [
             9.708,
@@ -609,7 +659,8 @@
             "de": "Beginnen Sie mit einem aktiven Morgen in diesem riesigen Park mit Tieren und Spielplätzen.",
             "hu": "Kezdje a napot aktívan ebben a hatalmas parkban, ahol állatok és játszóterek is vannak.",
             "ro": "Începeți cu o dimineață activă în acest parc imens, cu animale și locuri de joacă.",
-            "en": "Start with an active morning in this huge park, complete with animals and playgrounds."
+            "en": "Start with an active morning in this huge park, complete with animals and playgrounds.",
+            "da": "Start med en aktiv morgen i denne store park, komplet med dyr og legepladser."
           }
         },
         {
@@ -617,7 +668,8 @@
             "de": "Die historische Ministadt",
             "hu": "A történelmi Miniváros",
             "ro": "Miniorășelul Istoric",
-            "en": "The Historical Mini-Town"
+            "en": "The Historical Mini-Town",
+            "da": "The Historical Mini-Town"
           },
           "coords": [
             9.735,
@@ -632,7 +684,8 @@
             "de": "Fahren Sie von der Natur zur Geschichte. Das Modell der Stadt ist nur eine kurze Radtour entfernt.",
             "hu": "Kerékpározzon a természetből a történelembe. A város modellje csak egy rövid bicikliútra van.",
             "ro": "Pedalați de la natură la istorie. Modelul orașului este la o scurtă plimbare cu bicicleta.",
-            "en": "Cycle from nature to history. The model town is just a short bike ride away."
+            "en": "Cycle from nature to history. The model town is just a short bike ride away.",
+            "da": "Cykel fra natur til historie. Modelbyen ligger kun en kort cykeltur væk."
           }
         },
         {
@@ -640,7 +693,8 @@
             "de": "Fredericia-Wall",
             "hu": "Fredericia sáncai",
             "ro": "Valurile din Fredericia",
-            "en": "Fredericia Ramparts"
+            "en": "Fredericia Ramparts",
+            "da": "Fredericia Ramparts"
           },
           "coords": [
             9.749,
@@ -655,7 +709,8 @@
             "de": "Radfahren auf den Wällen ist ein einzigartiges Erlebnis. Finden Sie einen schönen Platz für ein Picknick-Mittagessen.",
             "hu": "Kerékpározni a sáncokon egyedülálló élmény. Keressen egy szép helyet egy piknik ebédhez.",
             "ro": "Mersul cu bicicleta pe valuri este o experiență unică. Găsiți un loc frumos pentru un prânz la picnic.",
-            "en": "Biking on top of the ramparts is a unique experience. Find a nice spot for a picnic lunch."
+            "en": "Biking on top of the ramparts is a unique experience. Find a nice spot for a picnic lunch.",
+            "da": "At cykle på voldene er en unik oplevelse. Find et godt sted til en picnicfrokost."
           }
         },
         {
@@ -663,7 +718,8 @@
             "de": "Der Landsoldat",
             "hu": "A közlegény szobra",
             "ro": "Statuia Soldatului",
-            "en": "The Valiant Soldier Statue"
+            "en": "The Valiant Soldier Statue",
+            "da": "The Valiant Soldier Statue"
           },
           "coords": [
             9.7548,
@@ -678,7 +734,8 @@
             "de": "Machen Sie eine kurze Pause am Fuße der Wälle, um dieses berühmte Denkmal zu bewundern.",
             "hu": "Tartson egy rövid szünetet a sáncok lábánál, hogy megcsodálja ezt a híres emlékművet.",
             "ro": "Faceți o scurtă oprire la baza valurilor pentru a admira acest faimos monument.",
-            "en": "Take a short break at the foot of the ramparts to admire this famous monument."
+            "en": "Take a short break at the foot of the ramparts to admire this famous monument.",
+            "da": "Tag en kort pause ved foden af voldene for at beundre dette berømte monument."
           }
         },
         {
@@ -686,7 +743,8 @@
             "de": "Das Kastell",
             "hu": "A Citadella (Kastellet)",
             "ro": "Citadela (Kastellet)",
-            "en": "The Citadel (Kastellet)"
+            "en": "The Citadel (Kastellet)",
+            "da": "The Citadel (Kastellet)"
           },
           "coords": [
             9.761,
@@ -701,7 +759,8 @@
             "de": "Fahren Sie zum nordöstlichen Punkt der Festung für einen Blick auf das Meer.",
             "hu": "Kerékpározzon az erőd északkeleti pontjához, ahonnan kilátás nyílik a tengerre.",
             "ro": "Pedalați spre punctul de nord-est al cetății pentru o priveliște spre mare.",
-            "en": "Bike to the northeastern point of the fortress for a view of the sea."
+            "en": "Bike to the northeastern point of the fortress for a view of the sea.",
+            "da": "Cykel til fæstningens nordøstlige punkt for en udsigt over havet."
           }
         },
         {
@@ -709,7 +768,8 @@
             "de": "Der weiße Wasserturm",
             "hu": "A Fehér Víztorony",
             "ro": "Turnul Alb de Apă",
-            "en": "The White Water Tower"
+            "en": "The White Water Tower",
+            "da": "The White Water Tower"
           },
           "coords": [
             9.763,
@@ -724,7 +784,8 @@
             "de": "Stellen Sie Ihr Fahrrad ab und steigen Sie für die beste Aussicht der Stadt hinauf.",
             "hu": "Zárja le a kerékpárját, és másszon fel a város legjobb kilátásáért.",
             "ro": "Parcați bicicleta și urcați pentru cea mai bună priveliște din oraș.",
-            "en": "Park your bike and climb up for the best view in town."
+            "en": "Park your bike and climb up for the best view in town.",
+            "da": "Parkér din cykel og bestig tårnet for den bedste udsigt i byen."
           }
         },
         {
@@ -732,7 +793,8 @@
             "de": "Østerstrand",
             "hu": "Østerstrand strand",
             "ro": "Plaja Østerstrand",
-            "en": "Østerstrand Beach"
+            "en": "Østerstrand Beach",
+            "da": "Østerstrand Beach"
           },
           "coords": [
             9.775,
@@ -747,7 +809,8 @@
             "de": "Beenden Sie Ihre Radtour mit einer entspannenden Zeit am Strand. Es gibt einen tollen Radweg entlang der Küste.",
             "hu": "Fejezze be a kerékpártúrát egy pihentető időtöltéssel a tengerparton. A part mentén remek kerékpárút vezet.",
             "ro": "Încheiați turul cu bicicleta cu un moment de relaxare pe plajă. Există o pistă de biciclete excelentă de-a lungul coastei.",
-            "en": "Finish your bike tour with a relaxing time at the beach. There's a great bike path along the coast."
+            "en": "Finish your bike tour with a relaxing time at the beach. There's a great bike path along the coast.",
+            "da": "Afslut din cykeltur med afslapning på stranden. Der er en fremragende cykelsti langs kysten."
           }
         }
       ],
@@ -755,7 +818,8 @@
         "de": "Ein Fahrradtag in Fredericia beginnt am besten im Grünen. Fahren Sie zum weitläufigen Madsby Legepark, wo Sie einen aktiven Morgen inmitten von Natur, Tieren und Spielbereichen verbringen können. Es ist der perfekte Start, um in Bewegung zu kommen, bevor Sie in die Geschichte der Stadt eintauchen. Die Radwege sind gut ausgebaut und führen Sie sicher aus dem Zentrum heraus.\nZu Mittag radeln Sie zurück in Richtung Zentrum und machen Halt bei der Historischen Ministadt. Hier können Sie eine Pause einlegen und das faszinierende Modell von Fredericia aus dem 19. Jahrhundert bewundern. Anschließend führt Sie Ihr Weg auf die berühmten Wallanlagen, die Sie wunderbar mit dem Fahrrad erkunden können. Suchen Sie sich einen schönen Platz für ein mitgebrachtes Mittagessen und genießen Sie die Aussicht.\nDer Nachmittag ist der Erkundung des historischen Kerns gewidmet. Fahren Sie entlang der Wälle zum Kastell, zum Denkmal des Landsoldaten und schließlich zum Weißen Wasserturm. Von dort oben haben Sie den besten Überblick über Ihre bereits zurückgelegte Strecke und die sternförmige Anlage der Stadt. Jeder Halt ist nur eine kurze, angenehme Radfahrt vom nächsten entfernt.\nIhre Tour endet am Østerstrand. Nach einem Tag im Sattel gibt es nichts Besseres, als sich am Strand zu entspannen, die Füße ins Wasser zu halten und die Meeresbrise zu genießen. Der Radweg entlang der Küste bietet eine letzte schöne Fahrt, bevor Sie den Tag bei einem Abendessen in einem der nahegelegenen Restaurants ausklingen lassen.",
         "hu": "A fredericiai kerékpáros napot a legjobb a zöldben kezdeni. Tekerjen el a tágas Madsby Játszóparkba, ahol aktív délelőttöt tölthet a természet, állatok és játszóterek közepette. Ez a tökéletes kezdés, hogy mozgásba jöjjön, mielőtt elmerülne a város történelmében. A kerékpárutak jól kiépítettek és biztonságosan kivezetik Önt a központból.\nDélben tekerjen vissza a központ felé, és álljon meg a Történelmi Minivárosnál. Itt tarthat egy szünetet, és megcsodálhatja Fredericia 19. századi lenyűgöző modelljét. Ezután útja a híres sáncokra vezet, amelyeket csodálatosan felfedezhet kerékpárral. Keressen egy szép helyet egy hozott ebédhez, és élvezze a kilátást.\nA délután a történelmi mag felfedezésének szentelt. Tekerjen végig a sáncokon a Citadellához, a Közlegény szobrához és végül a Fehér Víztoronyhoz. Onnan fentről nyílik a legjobb kilátás a már megtett útvonalra és a város csillag alakú elrendezésére. Minden megálló csak egy rövid, kellemes kerékpárútra van a következőtől.\nA túra az Østerstrandon ér véget. Egy nyeregben töltött nap után nincs is jobb, mint pihenni a tengerparton, lógatni a lábát a vízben, és élvezni a tengeri szellőt. A part menti kerékpárút egy utolsó szép tekerést kínál, mielőtt a napot egy vacsorával zárná a közeli éttermek egyikében.",
         "ro": "O zi cu bicicleta în Fredericia începe cel mai bine în natură. Pedalați spre vastul parc Madsby Legepark, unde puteți petrece o dimineață activă înconjurat de natură, animale și zone de joacă. Este startul perfect pentru a vă pune în mișcare înainte de a vă cufunda în istoria orașului. Piste de biciclete sunt bine dezvoltate și vă conduc în siguranță în afara centrului.\nLa prânz, pedalați înapoi spre centru și opriți-vă la Mini-orașul Istoric. Aici puteți lua o pauză și admira fascinantul model al Fredericiei din secolul al XIX-lea. Apoi, drumul vă duce pe faimoasele valuri, pe care le puteți explora minunat cu bicicleta. Găsiți un loc frumos pentru un prânz la pachet și bucurați-vă de priveliște.\nDupă-amiaza este dedicată explorării nucleului istoric. Pedalați de-a lungul valurilor până la Citadelă, la monumentul Soldatului și, în final, la Turnul Alb de Apă. De acolo, de sus, aveți cea mai bună perspectivă asupra traseului parcurs și a structurii în formă de stea a orașului. Fiecare oprire este la o scurtă și plăcută plimbare cu bicicleta de următoarea.\nTurul dumneavoastră se încheie la Østerstrand. După o zi în șa, nu există nimic mai bun decât să vă relaxați pe plajă, să vă băgați picioarele în apă și să vă bucurați de briza mării. Pista de biciclete de-a lungul coastei oferă o ultimă plimbare frumoasă înainte de a încheia ziua cu o cină la unul dintre restaurantele din apropiere.",
-        "en": "A bike day in Fredericia is best started in the green. Cycle to the expansive Madsby Legepark, where you can spend an active morning surrounded by nature, animals, and play areas. It's the perfect start to get moving before delving into the city's history. The bike paths are well-developed and lead you safely out of the center.\nAt noon, cycle back towards the center and stop at the Historical Mini-Town. Here you can take a break and admire the fascinating 19th-century model of Fredericia. Afterwards, your path leads you onto the famous ramparts, which are wonderful to explore by bike. Find a nice spot for a packed lunch and enjoy the view.\nThe afternoon is dedicated to exploring the historical core. Cycle along the ramparts to the Citadel, the Valiant Soldier monument, and finally to the White Water Tower. From up there, you have the best overview of your route and the city's star-shaped layout. Each stop is just a short, pleasant bike ride from the next.\nYour tour ends at Østerstrand. After a day in the saddle, there's nothing better than relaxing on the beach, dipping your feet in the water, and enjoying the sea breeze. The coastal bike path offers one last beautiful ride before you end the day with dinner at one of the nearby restaurants."
+        "en": "A bike day in Fredericia is best started in the green. Cycle to the expansive Madsby Legepark, where you can spend an active morning surrounded by nature, animals, and play areas. It's the perfect start to get moving before delving into the city's history. The bike paths are well-developed and lead you safely out of the center.\nAt noon, cycle back towards the center and stop at the Historical Mini-Town. Here you can take a break and admire the fascinating 19th-century model of Fredericia. Afterwards, your path leads you onto the famous ramparts, which are wonderful to explore by bike. Find a nice spot for a packed lunch and enjoy the view.\nThe afternoon is dedicated to exploring the historical core. Cycle along the ramparts to the Citadel, the Valiant Soldier monument, and finally to the White Water Tower. From up there, you have the best overview of your route and the city's star-shaped layout. Each stop is just a short, pleasant bike ride from the next.\nYour tour ends at Østerstrand. After a day in the saddle, there's nothing better than relaxing on the beach, dipping your feet in the water, and enjoying the sea breeze. The coastal bike path offers one last beautiful ride before you end the day with dinner at one of the nearby restaurants.",
+        "da": "En cykeldag i Fredericia er bedst startet i det grønne. Cykel til den store Madsby Legepark, hvor du kan tilbringe en aktiv morgen omgivet af natur, dyr og legepladser. Det er det perfekte udgangspunkt, før du dykker ned i byens historie. Cykelstierne er veludviklede og fører dig sikkert ud af centrum.\nVed middagstid cykler du tilbage mod centrum og stopper ved den Historiske Mini-By. Her kan du holde en pause og beundre den fascinerende 1800-tals model af Fredericia. Derefter fører din rute dig ud på de berømte volde, som er vidunderlige at udforske på cykel. Find et hyggeligt sted til en madpakke og nyd udsigten.\nEftermiddagen er afsat til at udforske den historiske kerne. Cykel langs voldene til Kastellet, Soldier-monumentet og endelig det Hvide Vandtårn. Deroppe har du det bedste overblik over din rute og byens stjernelayout. Hvert stop ligger kun en kort, behagelig cykeltur fra det næste.\nDin tur ender ved Østerstrand. Efter en dag i sadlen er der ikke noget bedre end at slappe af på stranden, dyppe fødderne i vandet og nyde havbrisen. Den kystnære cykelsti byder på en sidste smuk etape, før du afrunder dagen med middag på en af de nærliggende restauranter."
       },
       "tips": {
         "de": [
@@ -781,6 +845,12 @@
           "The paths on the ramparts are shared with pedestrians, so ride considerately.",
           "Some streets in the center are one-way for cars, pay attention to signs.",
           "Always lock your bike, even for short stops."
+        ],
+        "da": [
+          "Lej en cykel nær togstationen, hvis du ikke har en.",
+          "Stierne på voldene deles med fodgængere, så kør hensynsfuldt.",
+          "Nogle gader i centrum er ensrettede for biler, vær opmærksom på skiltene.",
+          "Lås altid din cykel, selv ved korte stop."
         ]
       },
       "variants": {
@@ -789,7 +859,8 @@
             "de": "Die Radtour startet im Madsby Legepark, wo die Wege bei Regen etwas matschig sein können. In der historischen Ministadt lassen wir die Räder kurz stehen, um die Details im Regen zu bewundern. Die Fahrt über die Wälle erfordert Vorsicht auf nassem Laub, bietet aber eine schnelle Verbindung zum Zentrum. Der Tag endet mit einer windigen Fahrt zum Strand, wo die Ostsee unruhig ans Ufer schlägt.",
             "hu": "A kerékpártúra a Madsby Legeparkban indul, ahol az utak esőben kissé sárosak lehetnek. A történelmi minivárosnál rövid pihenőt tartunk, megcsodálva az esőáztatta maketteket. A sáncokon való tekerés figyelmet igényel a vizes levelek miatt, de gyors összeköttetést ad a belvároshoz. A nap a szeles tengerparti tekeréssel zárul, ahol a nyugtalan Keleti-tenger hullámai csapkodnak.",
             "ro": "Turul cu bicicleta începe în Madsby Legepark, unde drumurile pot fi noroioase pe ploaie. La orașul istoric în miniatură lăsăm bicicletele pentru a admira detaliile prin ploaie. Drumul peste metereze necesită atenție la frunzele ude, dar oferă o conexiune rapidă cu centrul. Ziua se încheie cu o cursă vântoasă spre plajă, unde Marea Baltică lovește neliniștită țărmul.",
-            "en": "The bike tour starts at Madsby Legepark, where paths can get a bit muddy in the rain. At the Historical Mini-Town, we leave the bikes briefly to admire the details through the raindrops. Cycling over the ramparts requires care due to wet leaves but provides a quick link to the center. The day ends with a windy ride to the beach, where the restless Baltic Sea crashes against the shore."
+            "en": "The bike tour starts at Madsby Legepark, where paths can get a bit muddy in the rain. At the Historical Mini-Town, we leave the bikes briefly to admire the details through the raindrops. Cycling over the ramparts requires care due to wet leaves but provides a quick link to the center. The day ends with a windy ride to the beach, where the restless Baltic Sea crashes against the shore.",
+            "da": "Cykelturen starter ved Madsby Legepark, hvor stierne kan blive lidt mudrede i regnvejr. Ved den Historiske Mini-By forlader vi cyklerne kort for at beundre detaljerne gennem regndråberne. Cykling over voldene kræver forsigtighed på grund af våde blade, men giver en hurtig forbindelse til centrum. Dagen slutter med en blæsende tur til stranden, hvor det oprørte hav slår mod kysten."
           },
           "stops": [
             {
@@ -798,7 +869,8 @@
                 "de": "Achten Sie auf Pfützen in den Kurven der Parkwege.",
                 "hu": "Ügyelj a tócsákra a parki utak kanyarjaiban.",
                 "ro": "Atenție la bălțile din curbele drumurilor din parc.",
-                "en": "Watch out for puddles in the bends of the park paths."
+                "en": "Watch out for puddles in the bends of the park paths.",
+                "da": "Pas på vandpytter i svingene på parkstierne."
               }
             },
             {
@@ -807,7 +879,8 @@
                 "de": "Nutzen Sie die Fahrradständer nahe dem Eingangsbereich.",
                 "hu": "Használd a bejárat közeli kerékpártámaszokat.",
                 "ro": "Folosiți rastelele de biciclete de lângă zona de intrare.",
-                "en": "Use the bike racks located near the entrance area."
+                "en": "Use the bike racks located near the entrance area.",
+                "da": "Brug cykelstativerne ved indgangsområdet."
               }
             },
             {
@@ -816,7 +889,8 @@
                 "de": "Vorsicht beim Bremsen auf nassem Untergrund und Laub.",
                 "hu": "Vigyázz a fékezéssel a vizes talajon és a leveleken.",
                 "ro": "Atenție la frânare pe solul ud și pe frunze.",
-                "en": "Be careful when braking on wet ground and fallen leaves."
+                "en": "Be careful when braking on wet ground and fallen leaves.",
+                "da": "Vær forsigtig med at bremse på våd vej og faldne blade."
               }
             },
             {
@@ -825,7 +899,8 @@
                 "de": "Kurzer Stopp; halten Sie Abstand zu den nassen Ketten der Umzäunung.",
                 "hu": "Rövid megálló; tarts távolságot a kerítés vizes láncaitól.",
                 "ro": "Oprire scurtă; păstrați distanța față de lanțurile ude ale gardului.",
-                "en": "Short stop; keep a distance from the wet chains of the fence."
+                "en": "Short stop; keep a distance from the wet chains of the fence.",
+                "da": "Kort stop; hold afstand til de våde kæder på hegnet."
               }
             },
             {
@@ -834,7 +909,8 @@
                 "de": "Stellen Sie Ihr Rad windgeschützt hinter einer Mauer ab.",
                 "hu": "Támaszd le a bringát a szélvédett falak mögé.",
                 "ro": "Parcați bicicleta la adăpost de vânt în spatele unui zid.",
-                "en": "Park your bike behind a wall to shield it from the wind."
+                "en": "Park your bike behind a wall to shield it from the wind.",
+                "da": "Parker din cykel bag en væg for at beskytte den mod vinden."
               }
             },
             {
@@ -843,7 +919,8 @@
                 "de": "Sichern Sie Ihr Rad gut, der Wind kann es umwerfen.",
                 "hu": "Zárd le jól a gépet, az erős szél felboríthatja.",
                 "ro": "Asigurați bine bicicleta, vântul o poate răsturna.",
-                "en": "Secure your bike well, as the wind can blow it over."
+                "en": "Secure your bike well, as the wind can blow it over.",
+                "da": "Sørg for at låse din cykel godt, da vinden kan vælte den."
               }
             },
             {
@@ -852,7 +929,8 @@
                 "de": "Waschen Sie Sand und Salz nach der Tour vom Fahrrad ab.",
                 "hu": "A túra után mosd le a homokot és a sót a bicikliről.",
                 "ro": "Spălați nisipul și sarea de pe bicicletă după tur.",
-                "en": "Wash off the sand and salt from your bike after the tour."
+                "en": "Wash off the sand and salt from your bike after the tour.",
+                "da": "Vask sand og salt af din cykel efter turen."
               }
             }
           ],
@@ -880,6 +958,12 @@
               "Check your brakes, as they are less effective on wet rims.",
               "Avoid riding through deep mud in the Madsby park area.",
               "Mudguards on your bike are essential in this weather."
+            ],
+            "da": [
+              "En regnponcho beskytter bedre end en paraply, mens du cykler.",
+              "Tjek dine bremser, da de er mindre effektive på våde fælge.",
+              "Undgå at køre gennem dynd i Madsby-området.",
+              "Skærme på cyklen er essentielle i dette vejr."
             ]
           }
         },
@@ -888,7 +972,8 @@
             "de": "Mit dem Rad durch das winterliche Fredericia: Der Morgen beginnt frostig im Madsby Park. Die Fahrt zur Ministadt führt durch eine stille, kalte Landschaft. Auf den Wällen weht ein eisiger Wind, der die Fahrt zum Soldaten-Denkmal zu einer echten Herausforderung macht. Nach einem kurzen Halt am Kastellet endet die Tour am winterlichen Østerstrand, wo der Wind vom Kleinen Belt her eiskalt bläst.",
             "hu": "Kerékpárral a téli Fredericián át: a reggel fagyosan indul a Madsby Parkban. A minivároshoz vezető út csendes, hideg tájon visz keresztül. A sáncokon jeges szél fúj, ami igazi kihívássá teszi a tekerést a katonaszoborig. A Kastelletnél tett rövid megálló után a túra a téli Østerstrandon zárul, ahol a tenger felől metsző hideg árad.",
             "ro": "Cu bicicleta prin Fredericia hibernală: dimineața începe geroasă în Parcul Madsby. Drumul spre orașul în miniatură trece printr-un peisaj tăcut și rece. Pe metereze bate un vânt înghețat, făcând drumul spre monumentul soldatului o adevărată provocare. După o scurtă oprire la Kastellet, turul se încheie pe plaja Østerstrand, unde vântul de pe mare este de gheață.",
-            "en": "Cycling through wintery Fredericia: the morning starts frosty at Madsby Park. The ride to the Mini-Town takes you through a silent, cold landscape. On the ramparts, an icy wind blows, making the ride to the Soldier monument a real challenge. After a brief stop at the Kastellet, the tour ends at the wintery Østerstrand, where the wind from the Little Belt is freezing."
+            "en": "Cycling through wintery Fredericia: the morning starts frosty at Madsby Park. The ride to the Mini-Town takes you through a silent, cold landscape. On the ramparts, an icy wind blows, making the ride to the Soldier monument a real challenge. After a brief stop at the Kastellet, the tour ends at the wintery Østerstrand, where the wind from the Little Belt is freezing.",
+            "da": "Cykeltur gennem vinterlige Fredericia: morgenen starter frostklar i Madsby Park. Turen til Mini-Byen fører dig gennem et stille, koldt landskab. På voldene blæser en isnende vind, som gør turen til Soldaterminderne til en rigtig udfordring. Efter et kort stop ved Kastellet ender turen ved vinterlige Østerstrand, hvor vinden fra Lillebælt er bidende kold."
           },
           "stops": [
             {
@@ -897,7 +982,8 @@
                 "de": "Tragen Sie warme Handschuhe, um die Lenkerkontrolle zu behalten.",
                 "hu": "Viselj meleg kesztyűt, hogy ne gémberedjen el a kezed a kormányon.",
                 "ro": "Purtați mănuși groase pentru a menține controlul asupra ghidonului.",
-                "en": "Wear warm gloves to maintain good control of your handlebars."
+                "en": "Wear warm gloves to maintain good control of your handlebars.",
+                "da": "Brug varme handsker for at bevare godt greb om styret."
               }
             },
             {
@@ -906,7 +992,8 @@
                 "de": "Vorsicht vor überfrorener Nässe auf dem Parkplatz.",
                 "hu": "Vigyázz a felfagyásokkal a parkoló területén.",
                 "ro": "Atenție la gheața formată pe suprafețele din parcare.",
-                "en": "Watch out for black ice on the parking lot surfaces."
+                "en": "Watch out for black ice on the parking lot surfaces.",
+                "da": "Pas på sort is på parkeringspladsens overflader."
               }
             },
             {
@@ -915,7 +1002,8 @@
                 "de": "Fahren Sie defensiv, da die Kurven vereist sein können.",
                 "hu": "Tekerj óvatosan, mert a kanyarok jegesek lehetnek.",
                 "ro": "Mergeți prudent, deoarece curbele pot fi înghețate.",
-                "en": "Ride defensively as the corners can be icy."
+                "en": "Ride defensively as the corners can be icy.",
+                "da": "Kør defensivt, da svingene kan være isglatte."
               }
             },
             {
@@ -924,7 +1012,8 @@
                 "de": "Das Metall des Denkmals ist bei Berührung extrem kalt.",
                 "hu": "A szobor féme érintésre rendkívül hideg, vigyázz vele.",
                 "ro": "Metalul monumentului este extrem de rece la atingere.",
-                "en": "The metal of the monument is extremely cold to the touch."
+                "en": "The metal of the monument is extremely cold to the touch.",
+                "da": "Monumentets metal er ekstremt koldt at røre ved."
               }
             },
             {
@@ -933,7 +1022,8 @@
                 "de": "Der Boden kann hier besonders glatt und uneben sein.",
                 "hu": "A talaj itt különösen csúszós és egyenetlen lehet.",
                 "ro": "Solul poate fi aici deosebit de alunecos și denivelat.",
-                "en": "The ground here can be particularly slippery and uneven."
+                "en": "The ground here can be particularly slippery and uneven.",
+                "da": "Underlaget her kan være særligt glat og ujævnt."
               }
             },
             {
@@ -942,7 +1032,8 @@
                 "de": "Nutzen Sie das Licht Ihres Rades schon ab 15:30 Uhr.",
                 "hu": "Használd a bicikli lámpáját már 15:30-tól.",
                 "ro": "Folosiți lumina bicicletei deja de la ora 15:30.",
-                "en": "Use your bike lights starting from as early as 15:30."
+                "en": "Use your bike lights starting from as early as 15:30.",
+                "da": "Brug dine cykellygter allerede fra kl. 15:30."
               }
             },
             {
@@ -951,7 +1042,8 @@
                 "de": "Verkürzen Sie den Aufenthalt wegen der extremen Kälte am Wasser.",
                 "hu": "A vízparti extrém hideg miatt rövidítsd le az itt tartózkodást.",
                 "ro": "Scurtați șederea din cauza frigului extrem de lângă apă.",
-                "en": "Shorten your stay due to the extreme cold by the water."
+                "en": "Shorten your stay due to the extreme cold by the water.",
+                "da": "Forkort dit ophold på grund af den ekstreme kulde ved vandet."
               }
             }
           ],
@@ -979,6 +1071,12 @@
               "Wear several layers of clothing (the onion principle).",
               "Avoid riding on the steeper ramparts if there is black ice.",
               "Lower tire pressure provides better grip on wintery paths."
+            ],
+            "da": [
+              "Sørg for, at din cykelbelysning fungerer perfekt.",
+              "Bær flere lag tøj (løgprincipget).",
+              "Undgå at køre på de stejlere volde, hvis der er sort is.",
+              "Lavere dæktryk giver bedre greb på vinterstierne."
             ]
           }
         }
@@ -997,7 +1095,8 @@
             "de": "Madsby Legepark",
             "hu": "Madsby Játszópark",
             "ro": "Parcul Madsby Legepark",
-            "en": "Madsby Legepark (Play Park)"
+            "en": "Madsby Legepark (Play Park)",
+            "da": "Madsby Legepark (Legepark)"
           },
           "coords": [
             9.708,
@@ -1013,7 +1112,8 @@
             "de": "Starten Sie hier, es gibt reichlich Parkplätze. Ein toller Ort für Familien.",
             "hu": "Kezdje itt a napot, rengeteg a parkolóhely. Remek hely családok számára.",
             "ro": "Începeți aici, există parcare amplă. Un loc minunat pentru familii.",
-            "en": "Start your day here; there's ample parking. A great place for families."
+            "en": "Start your day here; there's ample parking. A great place for families.",
+            "da": "Start din dag her; der er rigelig parkering. Et godt sted for familier."
           }
         },
         {
@@ -1021,7 +1121,8 @@
             "de": "Die historische Ministadt",
             "hu": "A történelmi Miniváros",
             "ro": "Miniorășelul Istoric",
-            "en": "The Historical Mini-Town"
+            "en": "The Historical Mini-Town",
+            "da": "Historiske Mini-Byen"
           },
           "coords": [
             9.735,
@@ -1037,7 +1138,8 @@
             "de": "Fahren Sie zum nächsten Parkplatz und tauchen Sie in die Geschichte von 1849 ein.",
             "hu": "Vezessen a következő parkolóhoz, és merüljön el 1849 történelmében.",
             "ro": "Conduceți până la următoarea parcare și scufundați-vă în istoria anului 1849.",
-            "en": "Drive to the next parking lot and dive into the history of 1849."
+            "en": "Drive to the next parking lot and dive into the history of 1849.",
+            "da": "Kør til næste parkeringsplads og dyk ned i historien fra 1849."
           }
         },
         {
@@ -1045,7 +1147,8 @@
             "de": "Parkplatz am Stadtzentrum",
             "hu": "Parkoló a központban",
             "ro": "Parcare Centrul Orașului",
-            "en": "City Center Parking"
+            "en": "City Center Parking",
+            "da": "Parkering i bymidten"
           },
           "coords": [
             9.752,
@@ -1061,7 +1164,8 @@
             "de": "Parken Sie hier für den Rest des Nachmittags und erkunden Sie das Zentrum zu Fuß.",
             "hu": "Parkoljon itt a délután hátralévő részére, és fedezze fel a központot gyalog.",
             "ro": "Parcați aici pentru restul după-amiezii și explorați centrul pe jos.",
-            "en": "Park here for the rest of the afternoon and explore the center on foot."
+            "en": "Park here for the rest of the afternoon and explore the center on foot.",
+            "da": "Parker her resten af eftermiddagen og udforsk centrum til fods."
           }
         },
         {
@@ -1069,7 +1173,8 @@
             "de": "Trinitatis-Kirche",
             "hu": "Trinitatis-templom",
             "ro": "Biserica Trinitatis",
-            "en": "Trinitatis Church"
+            "en": "Trinitatis Church",
+            "da": "Trinitatis Kirke"
           },
           "coords": [
             9.756,
@@ -1085,7 +1190,8 @@
             "de": "Ein kurzer Spaziergang vom Parkplatz. Ein ruhiger Ort vor dem Mittagessen.",
             "hu": "Egy rövid séta a parkolótól. Csendes hely ebéd előtt.",
             "ro": "O scurtă plimbare de la parcare. Un loc liniștit înainte de prânz.",
-            "en": "A short walk from the parking area. A peaceful spot before lunch."
+            "en": "A short walk from the parking area. A peaceful spot before lunch.",
+            "da": "En kort gåtur fra parkeringsområdet. Et fredeligt sted før frokost."
           }
         },
         {
@@ -1093,7 +1199,8 @@
             "de": "Der Landsoldat & Wallanlagen",
             "hu": "A közlegény szobra és a sáncok",
             "ro": "Soldatul și Valurile",
-            "en": "The Soldier & Ramparts"
+            "en": "The Soldier & Ramparts",
+            "da": "Soldaten & Voldene"
           },
           "coords": [
             9.7548,
@@ -1109,7 +1216,8 @@
             "de": "Bewundern Sie die Statue und gehen Sie dann ein Stück auf den nahe gelegenen Wällen spazieren.",
             "hu": "Csodálja meg a szobrot, majd sétáljon egyet a közeli sáncokon.",
             "ro": "Admirați statuia și apoi faceți o plimbare pe valurile din apropiere.",
-            "en": "Admire the statue and then take a walk on the nearby ramparts."
+            "en": "Admire the statue and then take a walk on the nearby ramparts.",
+            "da": "Beundr statuen og gå en tur på de nærliggende volde."
           }
         },
         {
@@ -1117,7 +1225,8 @@
             "de": "Fahrt zum Strand",
             "hu": "Autózás a partra",
             "ro": "Drumul spre plajă",
-            "en": "Drive to the Beach"
+            "en": "Drive to the Beach",
+            "da": "Kør til stranden"
           },
           "coords": [
             9.77,
@@ -1133,7 +1242,8 @@
             "de": "Holen Sie das Auto und fahren Sie zum Østerstrand für einen entspannten Nachmittag.",
             "hu": "Menjen vissza a kocsihoz, és vezessen az Østerstrandhoz egy pihentető délutánra.",
             "ro": "Întoarceți-vă la mașină și conduceți spre Østerstrand pentru o după-amiază relaxantă.",
-            "en": "Get back in the car and drive to Østerstrand for a relaxing afternoon."
+            "en": "Get back in the car and drive to Østerstrand for a relaxing afternoon.",
+            "da": "Sæt dig ind i bilen igen og kør til Østerstrand for en afslappende eftermiddag."
           }
         },
         {
@@ -1141,7 +1251,8 @@
             "de": "Østerstrand",
             "hu": "Østerstrand strand",
             "ro": "Plaja Østerstrand",
-            "en": "Østerstrand Beach"
+            "en": "Østerstrand Beach",
+            "da": "Østerstrand Strand"
           },
           "coords": [
             9.775,
@@ -1157,7 +1268,8 @@
             "de": "Parken Sie in der Nähe und genießen Sie den Rest des Tages am Meer.",
             "hu": "Parkoljon a közelben, és élvezze a nap hátralévő részét a tengernél.",
             "ro": "Parcați în apropiere și bucurați-vă de restul zilei la malul mării.",
-            "en": "Park nearby and enjoy the rest of your day by the sea."
+            "en": "Park nearby and enjoy the rest of your day by the sea.",
+            "da": "Parker i nærheden og nyd resten af dagen ved havet."
           }
         }
       ],
@@ -1165,7 +1277,8 @@
         "de": "Mit dem Auto haben Sie die Flexibilität, Ihren Tag im weitläufigen Madsby Legepark zu beginnen, der etwas außerhalb des Zentrums liegt. Hier können Sie den Vormittag in der Natur verbringen, bevor Sie zur Historischen Ministadt fahren, die ebenfalls über gute Parkmöglichkeiten verfügt. Diese ersten Stopps bieten einen sanften Einstieg in den Tag, besonders für Familien.\nAm Mittag fahren Sie ins Zentrum und stellen Ihr Auto auf einem der zentralen Parkplätze ab. Von hier aus erkunden Sie den historischen Kern zu Fuß – das ist die Cluster-Walking-Philosophie. Besuchen Sie die Trinitatis-Kirche und das Denkmal des Landsoldaten und machen Sie einen Spaziergang auf den berühmten Wällen. Ein Mittagessen in der Innenstadt verbindet die historischen Erkundungen.\nNachdem Sie das Zentrum erkundet haben, kehren Sie zu Ihrem Auto zurück für den letzten Cluster-Wechsel des Tages. Eine kurze Fahrt bringt Sie zum Østerstrand, dem Stadtstrand. Hier können Sie einen langen, entspannten Nachmittag verbringen. Der Kontrast zwischen der militärischen Geschichte am Vormittag und der entspannten Strandatmosphäre am Nachmittag macht den Tag besonders abwechslungsreich.\nBeenden Sie Ihren Tag mit Blick auf das Meer. Der Østerstrand ist der perfekte Ort, um den Sonnenuntergang zu beobachten oder einfach die frische Luft zu genießen, bevor Sie zu Ihrem Auto zurückkehren. Die Flexibilität des Autos ermöglicht es Ihnen, den Tag in Ihrem eigenen Tempo zu gestalten und sowohl die Attraktionen außerhalb als auch das historische Herz von Fredericia bequem zu erleben.",
         "hu": "Autóval rugalmasan kezdheti a napot a központtól kissé távolabb eső, tágas Madsby Játszóparkban. Itt töltheti a délelőttöt a természetben, mielőtt a szintén jó parkolási lehetőségekkel rendelkező Történelmi Minivároshoz hajt. Ezek az első megállók kellemes bevezetést nyújtanak a napba, különösen családok számára.\nDélben hajtson be a központba, és tegye le autóját az egyik központi parkolóban. Innen gyalogosan fedezze fel a történelmi magot – ez a klaszter-séta filozófia. Látogassa meg a Trinitatis-templomot és a Közlegény szobrát, és tegyen egy sétát a híres sáncokon. Egy belvárosi ebéd összeköti a történelmi felfedezéseket.\nMiután felfedezte a központot, térjen vissza autójához a nap utolsó klaszterváltásához. Egy rövid autóút elviszi az Østerstrandhoz, a városi strandhoz. Itt egy hosszú, pihentető délutánt tölthet. A délelőtti katonai történelem és a délutáni laza tengerparti hangulat kontrasztja teszi a napot különösen változatossá.\nZárja a napot a tengerre néző kilátással. Az Østerstrand tökéletes hely a naplemente megfigyelésére vagy egyszerűen a friss levegő élvezetére, mielőtt visszatérne az autójához. Az autó rugalmassága lehetővé teszi, hogy a napot saját tempójában alakítsa, és kényelmesen megtapasztalja mind a külső látnivalókat, mind Fredericia történelmi szívét.",
         "ro": "Cu mașina, aveți flexibilitatea de a începe ziua în vastul parc Madsby Legepark, situat puțin în afara centrului. Aici puteți petrece dimineața în natură înainte de a conduce la Mini-orașul Istoric, care are și el parcare bună. Aceste prime opriri oferă o introducere blândă în zi, în special pentru familii.\nLa prânz, conduceți în centru și parcați mașina într-una dintre parcările centrale. De aici, explorați nucleul istoric pe jos – aceasta este filozofia plimbării în cluster. Vizitați Biserica Trinitatis și monumentul Soldatului și faceți o plimbare pe faimoasele valuri. Un prânz în centrul orașului leagă explorările istorice.\nDupă ce ați explorat centrul, reveniți la mașină pentru ultima schimbare de cluster a zilei. O scurtă călătorie cu mașina vă duce la Østerstrand, plaja orașului. Aici puteți petrece o după-amiază lungă și relaxantă. Contrastul dintre istoria militară de dimineață și atmosfera relaxată de pe plajă de după-amiază face ziua deosebit de variată.\nÎncheiați ziua cu o priveliște la mare. Østerstrand este locul perfect pentru a privi apusul sau pur și simplu pentru a vă bucura de aerul proaspăt înainte de a vă întoarce la mașină. Flexibilitatea mașinii vă permite să vă creați ziua în propriul ritm și să experimentați confortabil atât atracțiile exterioare, cât și inima istorică a Fredericiei.",
-        "en": "With a car, you have the flexibility to start your day at the expansive Madsby Legepark, located slightly outside the center. You can spend the morning in nature here before driving to the Historical Mini-Town, which also has good parking. These initial stops provide a gentle start to the day, especially for families.\nAt noon, drive into the center and leave your car in one of the central parking lots. From here, explore the historic core on foot – this is the cluster-walking philosophy. Visit Trinitatis Church and the Valiant Soldier monument, and take a walk on the famous ramparts. A downtown lunch connects the historical explorations.\nAfter exploring the center, return to your car for the day's final cluster change. A short drive takes you to Østerstrand, the city beach. Here you can spend a long, relaxing afternoon. The contrast between the morning's military history and the afternoon's relaxed beach atmosphere makes the day particularly varied.\nEnd your day with a view of the sea. Østerstrand is the perfect place to watch the sunset or simply enjoy the fresh air before returning to your car. The car's flexibility allows you to shape the day at your own pace, comfortably experiencing both the outlying attractions and Fredericia's historic heart."
+        "en": "With a car, you have the flexibility to start your day at the expansive Madsby Legepark, located slightly outside the center. You can spend the morning in nature here before driving to the Historical Mini-Town, which also has good parking. These initial stops provide a gentle start to the day, especially for families.\nAt noon, drive into the center and leave your car in one of the central parking lots. From here, explore the historic core on foot – this is the cluster-walking philosophy. Visit Trinitatis Church and the Valiant Soldier monument, and take a walk on the famous ramparts. A downtown lunch connects the historical explorations.\nAfter exploring the center, return to your car for the day's final cluster change. A short drive takes you to Østerstrand, the city beach. Here you can spend a long, relaxing afternoon. The contrast between the morning's military history and the afternoon's relaxed beach atmosphere makes the day particularly varied.\nEnd your day with a view of the sea. Østerstrand is the perfect place to watch the sunset or simply enjoy the fresh air before returning to your car. The car's flexibility allows you to shape the day at your own pace, comfortably experiencing both the outlying attractions and Fredericia's historic heart.",
+        "da": "Med bil har du fleksibiliteten til at starte dagen ved den store Madsby Legepark, som ligger lidt uden for centrum. Du kan tilbringe formiddagen i naturen her, inden du kører til Historiske Mini-Byen, som også har gode parkeringsmuligheder. Disse første stop giver en rolig start på dagen, især for familier.\nVed middagstid kører du ind til centrum og efterlader bilen i et af de centrale parkeringsområder. Herfra udforsker du den historiske kerne til fods – det er cluster-gangfilosofien. Besøg Trinitatis Kirke og Soldatermonumentet, og gå en tur på de berømte volde. En frokost i centrum binder de historiske oplevelser sammen.\nEfter at have udforsket centrum vender du tilbage til bilen for dagens sidste cluster-ombytning. En kort køretur fører dig til Østerstrand, byens strand. Her kan du tilbringe en lang, afslappet eftermiddag. Kontrasten mellem morgenens militærhistorie og eftermiddagens afslappede strandstemning gør dagen særligt varieret.\nAfslut dagen med udsigt til havet. Østerstrand er det perfekte sted at se solnedgangen eller blot nyde den friske luft, før du vender tilbage til bilen. Bilens fleksibilitet giver dig mulighed for at forme dagen i dit eget tempo og komfortabelt opleve både udkantsattraktionerne og Fredericias historiske hjerte."
       },
       "tips": {
         "de": [
@@ -1191,6 +1304,12 @@
           "Most parking is paid. Have a credit card or coins ready.",
           "Traffic in the city center can be tight; parking on the edge and walking is often faster.",
           "Fill up on gas outside the city center for better prices."
+        ],
+        "da": [
+          "Vær opmærksom på parkeringszoner (P-zoner) og maksimale parkeringstider i bymidten.",
+          "De fleste parkeringspladser kræver betaling. Hav betalingskort eller mønter klar.",
+          "Trafikken i bymidten kan være tæt; parkering i udkanten og gå er ofte hurtigere.",
+          "Tank op uden for bymidten for bedre priser."
         ]
       },
       "variants": {
@@ -1199,7 +1318,8 @@
             "de": "Bequem mit dem Auto durch das verregnete Fredericia: Wir starten im Madsby Legepark, wo man nah am Eingang parken kann. Zur historischen Ministadt ist es nur eine kurze Fahrt durch den Regen. Im Stadtzentrum parken wir im Trockenen und besuchen die Kirche. Den Tag lassen wir entspannt im Auto am Østerstrand ausklingen, mit Blick auf die graue Ostsee durch die nassen Scheiben.",
             "hu": "Kényelmesen, autóval az esős Fredericián át: a Madsby Legeparknál kezdünk, ahol közel lehet parkolni a bejárathoz. A minivároshoz csak rövid út vezet az esőben. A belvárosban fedett helyen parkolunk, majd meglátogatjuk a templomot. A napot a tengerparton zárjuk, az autó melegéből figyelve a szürke tengert a vizes ablaküvegeken keresztül.",
             "ro": "Confortabil cu mașina prin Fredericia ploioasă: începem la Madsby Legepark, unde se poate parca aproape de intrare. Spre orașul în miniatură este doar o scurtă cursă prin ploaie. În centrul orașului parcăm la adăpost și vizităm biserica. Încheiem ziua relaxat în mașină la Østerstrand, privind marea cenușie prin geamurile ude.",
-            "en": "Comfortably by car through rainy Fredericia: we start at Madsby Legepark, where you can park close to the entrance. It's just a short drive through the rain to the Historical Mini-Town. In the city center, we park in a dry spot and visit the church. We end the day relaxing in the car at Østerstrand, watching the grey Baltic Sea through the wet windows."
+            "en": "Comfortably by car through rainy Fredericia: we start at Madsby Legepark, where you can park close to the entrance. It's just a short drive through the rain to the Historical Mini-Town. In the city center, we park in a dry spot and visit the church. We end the day relaxing in the car at Østerstrand, watching the grey Baltic Sea through the wet windows.",
+            "da": "Komfortabelt i bil gennem regnfulde Fredericia: vi starter ved Madsby Legepark, hvor du kan parkere tæt på indgangen. Det er kun en kort køretur gennem regnen til Historiske Mini-Byen. I bymidten parkerer vi et tørt sted og besøger kirken. Vi afslutter dagen afslappet i bilen ved Østerstrand og ser ud over det grå Østersø gennem de våde ruder."
           },
           "stops": [
             {
@@ -1208,7 +1328,8 @@
                 "de": "Nutzen Sie den befestigten Parkplatz, um Schlamm am Auto zu vermeiden.",
                 "hu": "Használd a kövezett parkolót, hogy elkerüld a sarat.",
                 "ro": "Folosiți parcarea pavată pentru a evita noroiul pe mașină.",
-                "en": "Use the paved parking lot to avoid getting mud on your car."
+                "en": "Use the paved parking lot to avoid getting mud on your car.",
+                "da": "Brug den asfalterede parkeringsplads for at undgå mudder på bilen."
               }
             },
             {
@@ -1217,7 +1338,8 @@
                 "de": "Der Weg vom Parkplatz zum Eingang ist kurz und schnell zu gehen.",
                 "hu": "A parkolótól a bejáratig tartó út rövid és gyorsan megtehető.",
                 "ro": "Drumul de la parcare la intrare este scurt și rapid de parcurs.",
-                "en": "The walk from the parking lot to the entrance is short and quick."
+                "en": "The walk from the parking lot to the entrance is short and quick.",
+                "da": "Gåtur fra parkeringspladsen til indgangen er kort og hurtig."
               }
             },
             {
@@ -1226,7 +1348,8 @@
                 "de": "Zentrales Parken ermöglicht kurze Wege zu den Sehenswürdigkeiten.",
                 "hu": "A központi parkolás rövid sétákat tesz lehetővé a látnivalókhoz.",
                 "ro": "Parcarea centrală permite plimbări scurte către obiective.",
-                "en": "Central parking allows for short walks to the main sights."
+                "en": "Central parking allows for short walks to the main sights.",
+                "da": "Central parkering giver korte gåafstande til hovedattraktionerne."
               }
             },
             {
@@ -1235,7 +1358,8 @@
                 "de": "Ideal für einen längeren Aufenthalt, während es draußen regnet.",
                 "hu": "Ideális egy hosszabb látogatásra, amíg odakint esik az eső.",
                 "ro": "Ideal pentru o ședere mai lungă în timp ce afară plouă.",
-                "en": "Ideal for a longer stay while it is raining outside."
+                "en": "Ideal for a longer stay while it is raining outside.",
+                "da": "Ideelt til et længere ophold, mens det regner udenfor."
               }
             },
             {
@@ -1244,7 +1368,8 @@
                 "de": "Ein schneller Ausstieg für ein Foto am Soldaten ist auch bei Regen möglich.",
                 "hu": "Egy gyors kiszállás a szoborhoz esőben is belefér.",
                 "ro": "O ieșire rapidă pentru o poză la soldat este posibilă și pe ploaie.",
-                "en": "A quick hop out for a photo at the soldier is possible even in rain."
+                "en": "A quick hop out for a photo at the soldier is possible even in rain.",
+                "da": "Et hurtigt stop for et foto ved soldaten er muligt selv i regnvejr."
               }
             },
             {
@@ -1253,7 +1378,8 @@
                 "de": "Genießen Sie die Fahrt entlang der Küste bei eingeschaltetem Scheibenwischer.",
                 "hu": "Élvezd a parti autózást bekapcsolt ablaktörlők mellett.",
                 "ro": "Bucurați-vă de drumul de-a lungul coastei cu ștergătoarele pornite.",
-                "en": "Enjoy the drive along the coast with your wipers on."
+                "en": "Enjoy the drive along the coast with your wipers on.",
+                "da": "Nyd køreturen langs kysten med vinduesviskerne tændt."
               }
             },
             {
@@ -1262,7 +1388,8 @@
                 "de": "Parken Sie mit Blick aufs Meer, um im Trockenen zu bleiben.",
                 "hu": "Parkolj a tenger felé fordulva, hogy az autóban maradhass.",
                 "ro": "Parcați cu fața spre mare pentru a rămâne la adăpost.",
-                "en": "Park facing the sea to stay dry while enjoying the view."
+                "en": "Park facing the sea to stay dry while enjoying the view.",
+                "da": "Parkér med front mod havet for at holde dig tør, mens du nyder udsigten."
               }
             }
           ],
@@ -1290,6 +1417,12 @@
               "Keep an umbrella in the car for the short walks to sights.",
               "Central parking spots can be in high demand when it rains.",
               "Use the rear window heater to maintain clear visibility."
+            ],
+            "da": [
+              "Pas på aquaplaning på vejene nær kysten.",
+              "Hav en paraply i bilen til de korte gåture til seværdighederne.",
+              "Centrale parkeringspladser kan være eftertragtede, når det regner.",
+              "Brug varmetråden til bagruden for at holde sigtbarheden klar."
             ]
           }
         },
@@ -1298,7 +1431,8 @@
             "de": "Wintertour mit dem Auto: Wir starten im Madsby Park, während die Heizung das Auto aufwärmt. Zur Ministadt geht es über geräumte Straßen durch das winterliche Fredericia. Im Zentrum parken wir nah an der Kirche, um die Kälte draußen zu lassen. Der Tag endet am Østerstrand, wo wir den Sonnenuntergang im Warmen genießen, während draußen der frostige Wind über den Strand fegt.",
             "hu": "Téli autós túra: a Madsby Parknál kezdünk, miközben a fűtés bemelegíti az utasteret. A minivároshoz takarított utakon haladunk át a téli városon. A belvárosban a templom közelében parkolunk, hogy elkerüljük a kinti hideget. A nap a tengerparton zárul, ahol a meleg autóból nézzük a naplementét, miközben odakint jeges szél söpör végig a homokon.",
             "ro": "Tur de iarnă cu mașina: începem în Parcul Madsby, în timp ce încălzirea face interiorul plăcut. Spre orașul în miniatură mergem pe drumuri deszăpezite prin Fredericia hibernală. În centru parcăm aproape de biserică pentru a evita frigul de afară. Ziua se încheie la Østerstrand, unde admirăm apusul la căldură, în timp ce vântul înghețat mătură plaja.",
-            "en": "Winter tour by car: we start in Madsby Park while the heater warms up the cabin. We drive to the Mini-Town on cleared roads through wintery Fredericia. In the center, we park close to the church to escape the outside cold. The day ends at Østerstrand, where we watch the sunset from the warmth of the car as the frosty wind sweeps across the beach."
+            "en": "Winter tour by car: we start in Madsby Park while the heater warms up the cabin. We drive to the Mini-Town on cleared roads through wintery Fredericia. In the center, we park close to the church to escape the outside cold. The day ends at Østerstrand, where we watch the sunset from the warmth of the car as the frosty wind sweeps across the beach.",
+            "da": "Vintertur i bil: vi starter i Madsby Park, mens varmeapparatet varmer kabinen op. Vi kører til Mini-Byen på ryddede veje gennem vinterlige Fredericia. I centrum parkerer vi tæt på kirken for at undslippe den udenfor kulde. Dagen slutter ved Østerstrand, hvor vi ser solnedgangen fra bilens varme, mens den frostklare vind fejer hen over stranden."
           },
           "stops": [
             {
@@ -1307,7 +1441,8 @@
                 "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
                 "hu": "Ne járasd feleslegesen a motort álló helyzetben.",
                 "ro": "Nu lăsați motorul să meargă inutil în staționare.",
-                "en": "Avoid idling the engine unnecessarily while stationary."
+                "en": "Avoid idling the engine unnecessarily while stationary.",
+                "da": "Undgå at lade motoren gå unødvendigt, mens du holder stille."
               }
             },
             {
@@ -1316,7 +1451,8 @@
                 "de": "Der Parkplatz kann bei Frost stellenweise glatt sein.",
                 "hu": "A parkoló fagyban helyenként csúszós lehet.",
                 "ro": "Parcarea poate fi alunecoasă pe alocuri în caz de îngheț.",
-                "en": "The parking lot can be slippery in places when frozen."
+                "en": "The parking lot can be slippery in places when frozen.",
+                "da": "Parkeringspladsen kan være glat visse steder, når det er frosset."
               }
             },
             {
@@ -1325,7 +1461,8 @@
                 "de": "In der Kälte ist ein kurzer Weg zum Ziel besonders angenehm.",
                 "hu": "A hidegben a rövid séta a célpontig különösen kellemes.",
                 "ro": "În frig, un drum scurt până la destinație este foarte plăcut.",
-                "en": "In the cold, a short walk to your destination is very welcome."
+                "en": "In the cold, a short walk to your destination is very welcome.",
+                "da": "I kulden er en kort gåtur til din destination meget velkommen."
               }
             },
             {
@@ -1334,7 +1471,8 @@
                 "de": "Nutzen Sie den Besuch, um sich vor der Weiterfahrt aufzuwärmen.",
                 "hu": "Használd ki a látogatást egy kis melegedésre a továbbutazás előtt.",
                 "ro": "Profități de vizită pentru a vă încălzi înainte de a pleca mai departe.",
-                "en": "Use the visit to warm up before continuing your drive."
+                "en": "Use the visit to warm up before continuing your drive.",
+                "da": "Brug besøget til at varme op, før du fortsætter din kørsel."
               }
             },
             {
@@ -1343,7 +1481,8 @@
                 "de": "Parken Sie so, dass Sie das Denkmal auch vom Auto aus sehen können.",
                 "hu": "Parkolj úgy, hogy a szobrot az autóból is láthasd.",
                 "ro": "Parcați astfel încât să puteți vedea monumentul și din mașină.",
-                "en": "Park so that you can view the monument from inside the car."
+                "en": "Park so that you can view the monument from inside the car.",
+                "da": "Parker, så du kan se monumentet fra bilen."
               }
             },
             {
@@ -1352,7 +1491,8 @@
                 "de": "Achten Sie auf tiefstehende Sonne, die im Winter stark blenden kann.",
                 "hu": "Ügyelj az alacsony napállásra, ami télen erősen vakíthat.",
                 "ro": "Atenție la soarele jos, care poate fi orbitor pe timp de iarnă.",
-                "en": "Watch out for the low sun, which can be very blinding in winter."
+                "en": "Watch out for the low sun, which can be very blinding in winter.",
+                "da": "Pas på den lave vintersol, som kan være meget blændende."
               }
             },
             {
@@ -1361,7 +1501,8 @@
                 "de": "Bleiben Sie im warmen Auto, um den Blick auf das Eis zu genießen.",
                 "hu": "Maradj a meleg autóban és élvezd a kilátást a jeges partra.",
                 "ro": "Rămâneți în mașina caldă pentru a savura vederea spre țărmul înghețat.",
-                "en": "Stay in the warm car to enjoy the view of the icy shore."
+                "en": "Stay in the warm car to enjoy the view of the icy shore.",
+                "da": "Bliv i den varme bil for at nyde udsigten til den isklædte kyst."
               }
             }
           ],
@@ -1389,6 +1530,12 @@
               "Check the antifreeze level in your windshield washer fluid.",
               "Car batteries can lose power faster in extreme cold.",
               "Keep an ice scraper and a snow brush ready in your car."
+            ],
+            "da": [
+              "Vinterdæk er obligatoriske på danske veje i denne sæson.",
+              "Tjek frostvæskeniveauet i din sprinklervæske.",
+              "Bilbatterier kan miste kapacitet hurtigere i ekstrem kulde.",
+              "Hold en isskraber og en sneskovl klar i bilen."
             ]
           }
         }
@@ -1407,7 +1554,8 @@
             "de": "Bahnhof Fredericia & Bus zum Zentrum",
             "hu": "Fredericia pályaudvar és busz a központba",
             "ro": "Gara Fredericia și autobuz spre centru",
-            "en": "Fredericia Station & Bus to Center"
+            "en": "Fredericia Station & Bus to Center",
+            "da": "Fredericia Station & Bus til centrum"
           },
           "coords": [
             9.742,
@@ -1422,7 +1570,8 @@
             "de": "Nehmen Sie einen der häufigen Busse vom Bahnhof ins historische Zentrum.",
             "hu": "Vegyen igénybe egy gyakori buszt a pályaudvarról a történelmi központba.",
             "ro": "Luați unul dintre autobuzele frecvente de la gară spre centrul istoric.",
-            "en": "Take one of the frequent buses from the train station to the historic center."
+            "en": "Take one of the frequent buses from the train station to the historic center.",
+            "da": "Tag en af de hyppige busser fra banegården til den historiske bymidte."
           }
         },
         {
@@ -1430,7 +1579,8 @@
             "de": "Landsoldaten & Wallanlagen",
             "hu": "A közlegény szobra és a sáncok",
             "ro": "Soldatul și Valurile",
-            "en": "The Soldier & Ramparts"
+            "en": "The Soldier & Ramparts",
+            "da": "Soldaten & Voldene"
           },
           "coords": [
             9.754,
@@ -1446,7 +1596,8 @@
             "de": "Steigen Sie in der Nähe aus und beginnen Sie Ihre Erkundung des ersten Clusters zu Fuß.",
             "hu": "Szálljon le a közelben, és kezdje meg az első klaszter gyalogos felfedezését.",
             "ro": "Coborâți în apropiere și începeți explorarea pe jos a primului cluster.",
-            "en": "Get off nearby and begin your walking exploration of the first cluster."
+            "en": "Get off nearby and begin your walking exploration of the first cluster.",
+            "da": "Stig af i nærheden og begynd din gåtur i det første cluster."
           }
         },
         {
@@ -1454,7 +1605,8 @@
             "de": "Trinitatis-Kirche",
             "hu": "Trinitatis-templom",
             "ro": "Biserica Trinitatis",
-            "en": "Trinitatis Church"
+            "en": "Trinitatis Church",
+            "da": "Trinitatis Kirke"
           },
           "coords": [
             9.756,
@@ -1470,7 +1622,8 @@
             "de": "Ein kurzer Spaziergang durch die malerischen Straßen des Zentrums.",
             "hu": "Egy rövid séta a központ festői utcáin.",
             "ro": "O scurtă plimbare pe străzile pitorești din centru.",
-            "en": "A short walk through the center's picturesque streets."
+            "en": "A short walk through the center's picturesque streets.",
+            "da": "En kort gåtur gennem centrum's maleriske gader."
           }
         },
         {
@@ -1478,7 +1631,8 @@
             "de": "Bus zum Madsby Legepark",
             "hu": "Busz a Madsby Játszóparkhoz",
             "ro": "Autobuz spre Madsby Legepark",
-            "en": "Bus to Madsby Legepark"
+            "en": "Bus to Madsby Legepark",
+            "da": "Bus til Madsby Legepark"
           },
           "coords": [
             9.71,
@@ -1494,7 +1648,8 @@
             "de": "Nehmen Sie den Bus für den zweiten Cluster. Die Fahrt bietet einen Blick auf die Vororte.",
             "hu": "Vegye igénybe a buszt a második klaszterhez. Az út bepillantást enged a külvárosba.",
             "ro": "Luați autobuzul pentru al doilea cluster. Călătoria oferă o priveliște a suburbiilor.",
-            "en": "Take the bus for the second cluster. The ride offers a glimpse of the suburbs."
+            "en": "Take the bus for the second cluster. The ride offers a glimpse of the suburbs.",
+            "da": "Tag bussen til det andet cluster. Turen giver et glimt af forstæderne."
           }
         },
         {
@@ -1502,7 +1657,8 @@
             "de": "Madsby Legepark",
             "hu": "Madsby Játszópark",
             "ro": "Parcul Madsby Legepark",
-            "en": "Madsby Legepark"
+            "en": "Madsby Legepark",
+            "da": "Madsby Legepark"
           },
           "coords": [
             9.708,
@@ -1518,7 +1674,8 @@
             "de": "Genießen Sie den Park und planen Sie hier Ihre Mittagspause.",
             "hu": "Élvezze a parkot, és tervezze ide az ebédszünetet.",
             "ro": "Bucurați-vă de parc și planificați-vă pauza de prânz aici.",
-            "en": "Enjoy the park and plan your lunch break here."
+            "en": "Enjoy the park and plan your lunch break here.",
+            "da": "Nyd parken og planlæg din frokostpause her."
           }
         },
         {
@@ -1526,7 +1683,8 @@
             "de": "Bus zum Østerstrand",
             "hu": "Busz az Østerstrandhoz",
             "ro": "Autobuz spre Østerstrand",
-            "en": "Bus to Østerstrand"
+            "en": "Bus to Østerstrand",
+            "da": "Bus til Østerstrand"
           },
           "coords": [
             9.775,
@@ -1542,7 +1700,8 @@
             "de": "Fahren Sie mit dem Bus zurück durch die Stadt zum letzten Ziel, dem Strand.",
             "hu": "Utazzon busszal vissza a városon keresztül az utolsó célponthoz, a strandhoz.",
             "ro": "Luați autobuzul înapoi prin oraș spre destinația finală, plaja.",
-            "en": "Take the bus back through town to the final destination, the beach."
+            "en": "Take the bus back through town to the final destination, the beach.",
+            "da": "Tag bussen tilbage gennem byen til sidste destination, stranden."
           }
         }
       ],
@@ -1550,7 +1709,8 @@
         "de": "Ihre Tour mit öffentlichen Verkehrsmitteln beginnt am Bahnhof von Fredericia, einem wichtigen Verkehrsknotenpunkt. Von hier aus bringt Sie ein kurzer Bus-Hop in den ersten Cluster: das historische Zentrum. Steigen Sie in der Nähe des Denkmals des Landsoldaten aus und erkunden Sie die beeindruckenden Wallanlagen und die Trinitatis-Kirche zu Fuß. Dieser Bereich ist kompakt und ideal für einen Spaziergang am Vormittag.\nNachdem Sie die Geschichte aufgesogen haben, ist es Zeit für den nächsten Cluster-Wechsel. Eine weitere Busfahrt bringt Sie zum weitläufigen Madsby Legepark. Hier können Sie einen Kontrast zur städtischen Umgebung erleben, die Natur genießen und in einem der Parkcafés zu Mittag essen. Der Bus verbindet bequem die historische Innenstadt mit diesem grünen Erholungsgebiet.\nAm Nachmittag steigen Sie erneut in einen Bus, der Sie quer durch die Stadt zum dritten und letzten Cluster des Tages bringt: dem Østerstrand. Dieser letzte Hop mit dem Bus zeigt Ihnen verschiedene Facetten der Stadt. Am Strand angekommen, können Sie den Rest des Nachmittags damit verbringen, sich zu entspannen, zu schwimmen oder einfach die Aussicht zu genießen.\nDer Tag endet entspannt am Meer. Wenn es Zeit ist zu gehen, bringt Sie ein Bus vom Strandbereich bequem zurück zum Bahnhof oder zu Ihrem Ausgangspunkt. Die Nutzung des Busnetzes ermöglicht es Ihnen, verschiedene Teile von Fredericia ohne den Stress des Parkens zu erleben und bietet eine nachhaltige Möglichkeit, die Stadt zu erkunden.",
         "hu": "A tömegközlekedési túra Fredericia pályaudvarán, egy fontos közlekedési csomóponton kezdődik. Innen egy rövid buszozás elviszi az első klaszterbe: a történelmi központba. Szálljon le a Közlegény szobrának közelében, és fedezze fel gyalog a lenyűgöző sáncokat és a Trinitatis-templomot. Ez a terület kompakt és ideális egy délelőtti sétához.\nMiután magába szívta a történelmet, itt az ideje a következő klaszterváltásnak. Egy újabb buszút elviszi a tágas Madsby Játszóparkba. Itt megtapasztalhatja a városi környezet kontrasztját, élvezheti a természetet és megebédelhet a park egyik kávézójában. A busz kényelmesen összeköti a történelmi belvárost ezzel a zöld rekreációs területtel.\nDélután ismét buszra száll, amely átszeli a várost a nap harmadik és egyben utolsó klaszteréhez: az Østerstrandhoz. Ez az utolsó buszozás a város különböző arcait mutatja meg. A strandra érve a délután hátralévő részét pihenéssel, úszással vagy egyszerűen a kilátás élvezetével töltheti.\nA nap pihentetően ér véget a tengernél. Amikor eljön az indulás ideje, egy busz kényelmesen visszaviszi Önt a strandról a pályaudvarra vagy a kiindulási pontjához. A buszhálózat használata lehetővé teszi, hogy Fredericia különböző részeit a parkolási stressz nélkül tapasztalja meg, és fenntartható módon fedezze fel a várost.",
         "ro": "Turul dumneavoastră cu transportul public începe la gara din Fredericia, un nod important de transport. De aici, o scurtă călătorie cu autobuzul vă duce la primul cluster: centrul istoric. Coborâți lângă monumentul Soldatului și explorați pe jos impresionantele valuri și Biserica Trinitatis. Această zonă este compactă și ideală pentru o plimbare de dimineață.\nDupă ce ați absorbit istoria, este timpul pentru următoarea schimbare de cluster. O altă călătorie cu autobuzul vă duce la vastul parc Madsby Legepark. Aici puteți experimenta un contrast cu mediul urban, vă puteți bucura de natură și puteți lua prânzul la una dintre cafenelele din parc. Autobuzul leagă convenabil centrul istoric de această zonă verde de recreere.\nDupă-amiaza, urcați din nou într-un autobuz care vă duce prin oraș la al treilea și ultimul cluster al zilei: Østerstrand. Această ultimă călătorie cu autobuzul vă arată diferite fațete ale orașului. Odată ajunși la plajă, puteți petrece restul după-amiezii relaxându-vă, înotând sau pur și simplu bucurându-vă de priveliște.\nZiua se încheie relaxant la malul mării. Când este timpul să plecați, un autobuz vă va duce confortabil de la zona de plajă înapoi la gară sau la punctul de plecare. Utilizarea rețelei de autobuze vă permite să experimentați diferite părți ale Fredericiei fără stresul parcării și oferă o modalitate durabilă de a explora orașul.",
-        "en": "Your public transit tour begins at Fredericia station, a major transport hub. From here, a short bus hop takes you to the first cluster: the historic center. Get off near the Valiant Soldier monument and explore the impressive ramparts and Trinitatis Church on foot. This area is compact and ideal for a morning stroll.\nAfter soaking up the history, it's time for the next cluster change. Another bus ride takes you to the expansive Madsby Legepark. Here you can experience a contrast to the urban environment, enjoy nature, and have lunch at one of the park's cafes. The bus conveniently connects the historic downtown with this green recreational area.\nIn the afternoon, you'll board another bus that takes you across town to the third and final cluster of the day: Østerstrand. This last hop by bus shows you different facets of the city. Once at the beach, you can spend the rest of the afternoon relaxing, swimming, or simply enjoying the view.\nThe day ends relaxing by the sea. When it's time to leave, a bus will comfortably take you from the beach area back to the train station or your starting point. Using the bus network allows you to experience different parts of Fredericia without the stress of parking and offers a sustainable way to explore the city."
+        "en": "Your public transit tour begins at Fredericia station, a major transport hub. From here, a short bus hop takes you to the first cluster: the historic center. Get off near the Valiant Soldier monument and explore the impressive ramparts and Trinitatis Church on foot. This area is compact and ideal for a morning stroll.\nAfter soaking up the history, it's time for the next cluster change. Another bus ride takes you to the expansive Madsby Legepark. Here you can experience a contrast to the urban environment, enjoy nature, and have lunch at one of the park's cafes. The bus conveniently connects the historic downtown with this green recreational area.\nIn the afternoon, you'll board another bus that takes you across town to the third and final cluster of the day: Østerstrand. This last hop by bus shows you different facets of the city. Once at the beach, you can spend the rest of the afternoon relaxing, swimming, or simply enjoying the view.\nThe day ends relaxing by the sea. When it's time to leave, a bus will comfortably take you from the beach area back to the train station or your starting point. Using the bus network allows you to experience different parts of Fredericia without the stress of parking and offers a sustainable way to explore the city.",
+        "da": "Din tur med offentlig transport begynder ved Fredericia station, et vigtigt trafikknudepunkt. Herfra tager du en kort bustur til det første cluster: den historiske bykerne. Stig af nær Soldatermonumentet og udforsk de imponerende volde og Trinitatis Kirke til fods. Dette område er kompakt og ideelt til en formiddagsgåtur.\nEfter at have suget historien til dig er det tid til næste cluster-ombytning. Endnu en bustur fører dig til den store Madsby Legepark. Her oplever du en kontrast til det urbane miljø, nyder naturen og kan holde frokostpause på en af parkens cafeer. Bussen forbinder bekvemt den historiske midtby med dette grønne rekreative område.\nOm eftermiddagen tager du endnu en bus, som kører dig på tværs af byen til dagens tredje og sidste cluster: Østerstrand. Denne sidste bustur viser dig byens forskellige facetter. Når du er ved stranden, kan du tilbringe resten af eftermiddagen med at slappe af, svømme eller blot nyde udsigten.\nDagen afsluttes med afslapning ved havet. Når det er tid til at tage afsted, kører en bus komfortabelt dig fra strandområdet tilbage til stationen eller dit udgangspunkt. At bruge busnettet giver dig mulighed for at opleve forskellige dele af Fredericia uden parkeringsstress og er en bæredygtig måde at udforske byen på."
       },
       "tips": {
         "de": [
@@ -1576,6 +1736,12 @@
           "Use a journey planner app like 'Rejseplanen' to check bus routes and times.",
           "Buses may not stop automatically at every stop. Press the 'Stop' button.",
           "Bus frequency might be lower on weekends."
+        ],
+        "da": [
+          "Køb en dagsbillet for ubegrænset rejse.",
+          "Brug en rejseplan-app som 'Rejseplanen' til at tjekke busruter og tidspunkter.",
+          "Busser stopper måske ikke automatisk ved alle stoppesteder. Tryk på 'Stop'-knappen.",
+          "Busfrekvensen kan være lavere i weekenden."
         ]
       },
       "variants": {
@@ -1584,7 +1750,8 @@
             "de": "Ankunft am Bahnhof Fredericia im Regen. Mit dem Bus geht es schnell ins Zentrum zum Soldaten-Denkmal. Während der Regenschauer bietet die Trinitatis-Kirche einen trockenen Aufenthaltsort. Ein weiterer Bus bringt uns zum Madsby Park, wo wir zwischen den Schauern die Natur genießen. Den Tag beenden wir mit einer kurzen Busfahrt zum Østerstrand, bevor es zurück zum Bahnhof geht.",
             "hu": "Érkezés a fredericiai vasútállomásra esőben. Busszal gyorsan a belvárosba érünk a katonaszoborhoz. A záporok alatt a Trinitatis templom nyújt száraz menedéket. Egy másik busz visz ki a Madsby parkba, ahol két eső között élvezzük a természetet. A napot rövid buszozással zárjuk a tengerpartra, mielőtt visszatérnénk az állomásra.",
             "ro": "Sosire la gara din Fredericia pe ploaie. Luăm autobuzul rapid spre centru până la monumentul soldatului. În timpul averselor, Biserica Trinitatis oferă un loc uscat de popas. Un alt autobuz ne duce la parcul Madsby, unde ne bucurăm de natură între reprizele de ploaie. Încheiem ziua cu o scurtă cursă spre Østerstrand înainte de a reveni la gară.",
-            "en": "Arrival at Fredericia station in the rain. A bus takes us quickly to the center to the Soldier monument. During showers, Trinitatis Church offers a dry sanctuary. Another bus brings us to Madsby Park, where we enjoy nature between rain spells. We end the day with a short bus ride to Østerstrand before returning to the station."
+            "en": "Arrival at Fredericia station in the rain. A bus takes us quickly to the center to the Soldier monument. During showers, Trinitatis Church offers a dry sanctuary. Another bus brings us to Madsby Park, where we enjoy nature between rain spells. We end the day with a short bus ride to Østerstrand before returning to the station.",
+            "da": "Ankomst til Fredericia station i regn. En bus tager os hurtigt til centrum og Soldatermonumentet. Under regnbyger giver Trinitatis Kirke et tørt tilflugtssted. En anden bus bringer os til Madsby Park, hvor vi nyder naturen mellem regnbygerne. Vi afslutter dagen med en kort bustur til Østerstrand, før vi vender tilbage til stationen."
           },
           "stops": [
             {
@@ -1593,7 +1760,8 @@
                 "de": "Warten Sie im Bahnhofsgebäude, bis Ihr Bus angezeigt wird.",
                 "hu": "Várj az állomás épületében, amíg meg nem érkezik a buszod.",
                 "ro": "Așteptați în clădirea gării până când este afișat autobuzul.",
-                "en": "Wait inside the station building until your bus is shown."
+                "en": "Wait inside the station building until your bus is shown.",
+                "da": "Vent indenfor stationsbygningen, indtil din bus vises."
               }
             },
             {
@@ -1602,7 +1770,8 @@
                 "de": "Die Bushaltestelle liegt nahe am Denkmal für minimale Wege im Regen.",
                 "hu": "A buszmegálló közel van a szoborhoz, így nem kell sokat ázni.",
                 "ro": "Stația de autobuz este aproape de monument pentru un drum minim prin ploaie.",
-                "en": "The bus stop is close to the monument for minimal walking in the rain."
+                "en": "The bus stop is close to the monument for minimal walking in the rain.",
+                "da": "Busstoppet ligger tæt på monumentet, så du går mindst muligt i regnen."
               }
             },
             {
@@ -1611,7 +1780,8 @@
                 "de": "Ein guter Ort, um die Zeit bis zum nächsten Bus trocken zu überbrücken.",
                 "hu": "Jó hely az idő eltöltésére a következő busz érkezéséig.",
                 "ro": "Un loc bun pentru a aștepta următorul autobuz la adăpost.",
-                "en": "A good place to spend time until the next bus arrives."
+                "en": "A good place to spend time until the next bus arrives.",
+                "da": "Et godt sted at tilbringe tiden, indtil næste bus kommer."
               }
             },
             {
@@ -1620,7 +1790,8 @@
                 "de": "Nutzen Sie das Wartehäuschen an der Haltestelle zum Unterstellen.",
                 "hu": "Használd a megálló váróhelyiségét az eső elleni védekezésre.",
                 "ro": "Folosiți adăpostul din stație pentru a vă feri de ploaie.",
-                "en": "Use the shelter at the bus stop to stay out of the rain."
+                "en": "Use the shelter at the bus stop to stay out of the rain.",
+                "da": "Brug buslyet for at holde dig tørskoet i regnen."
               }
             },
             {
@@ -1629,7 +1800,8 @@
                 "de": "In der Nähe gibt es überdachte Plätze für eine Pause.",
                 "hu": "A közelben fedett helyek is vannak egy rövid pihenőre.",
                 "ro": "Există locuri acoperite în apropiere pentru o pauză.",
-                "en": "There are covered areas nearby for a brief rest."
+                "en": "There are covered areas nearby for a brief rest.",
+                "da": "Der er overdækkede områder i nærheden til en kort pause."
               }
             },
             {
@@ -1638,7 +1810,8 @@
                 "de": "Die Busse sind klimatisiert und bieten Schutz vor der Feuchtigkeit.",
                 "hu": "A buszok klimatizáltak és védenek a párás időtől.",
                 "ro": "Autobuzele sunt climatizate și oferă protecție împotriva umidității.",
-                "en": "The buses are climate-controlled and protect you from the damp."
+                "en": "The buses are climate-controlled and protect you from the damp.",
+                "da": "Busserne er klimastyrede og beskytter dig mod fugt og regn."
               }
             }
           ],
@@ -1666,6 +1839,12 @@
               "Most bus stops in the city center have a roof.",
               "Buy tickets digitally to avoid waiting in the rain at machines.",
               "Buses run regularly and are your best protection against the wet."
+            ],
+            "da": [
+              "Brug Rejseplanen-appen for information i realtid ved vejrforsinkelser.",
+              "De fleste stoppesteder i centrum har tag.",
+              "Køb billetter digitalt for at undgå at stå i regnen ved automaterne.",
+              "Busser kører regelmæssigt og er din bedste beskyttelse mod regnen."
             ]
           }
         },
@@ -1674,7 +1853,8 @@
             "de": "Winterlicher Start am Bahnhof Fredericia. Der geheizte Bus bringt uns ins frostige Stadtzentrum. Nach einem Besuch des Soldaten-Denkmals und der Kirche wärmen wir uns im Bus zum Madsby Park wieder auf. Die winterliche Stille des Parks ist beeindruckend, bevor wir mit dem nächsten Bus zum Østerstrand fahren. Wir genießen die klare Seeluft kurz und kehren dann mit dem ÖPNV zurück zum warmen Bahnhof.",
             "hu": "Téli kezdés a fredericiai állomáson. A fűtött busz visz be a fagyos belvárosba. A katonaszobor és a templom meglátogatása után a Madsby parkba tartó buszon melegszünk fel újra. A park téli csendje lenyűgöző, mielőtt a következő busszal a tengerpartra indulnánk. Rövid ideig élvezzük a friss tengeri levegőt, majd visszatérünk a meleg állomásra.",
             "ro": "Început de iarnă la gara Fredericia. Autobuzul încălzit ne duce în centrul înghețat al orașului. După o vizită la monument și la biserică, ne încălzim din nou în autobuzul spre Parcul Madsby. Liniștea hibernală a parcului este impresionantă, înainte de a pleca spre plajă. Ne bucurăm scurt de aerul sărat, apoi revenim cu transportul public în gara călduroasă.",
-            "en": "Winter start at Fredericia station. The heated bus takes us into the frosty city center. After visiting the Soldier monument and the church, we warm up again on the bus to Madsby Park. The winter silence of the park is impressive before we take the next bus to Østerstrand. We briefly enjoy the crisp sea air, then return to the warm station via public transport."
+            "en": "Winter start at Fredericia station. The heated bus takes us into the frosty city center. After visiting the Soldier monument and the church, we warm up again on the bus to Madsby Park. The winter silence of the park is impressive before we take the next bus to Østerstrand. We briefly enjoy the crisp sea air, then return to the warm station via public transport.",
+            "da": "Vinteren begynder ved Fredericia station. Den opvarmede bus tager os ind i den frostklare bymidte. Efter at have besøgt Soldatemonumentet og kirken varmer vi op igen på bussen til Madsby Park. Parkens vinterstilhed er imponerende, før vi tager næste bus til Østerstrand. Vi nyder kort den krispe havluft, og vender så tilbage til den varme station med offentlig transport."
           },
           "stops": [
             {
@@ -1683,7 +1863,8 @@
                 "de": "Der Bahnhof bietet beheizte Wartesäle für Reisende.",
                 "hu": "Az állomáson fűtött várótermek állnak rendelkezésre.",
                 "ro": "Gara oferă săli de așteptare încălzite pentru călători.",
-                "en": "The station offers heated waiting rooms for travelers."
+                "en": "The station offers heated waiting rooms for travelers.",
+                "da": "Stationen har opvarmede ventesale til rejsende."
               }
             },
             {
@@ -1692,7 +1873,8 @@
                 "de": "Planen Sie kurze Wege ein, um nicht zu lange in der Kälte zu stehen.",
                 "hu": "Tervezz rövid sétákat, hogy ne tölts túl sok időt a hidegben.",
                 "ro": "Planificați drumuri scurte pentru a nu sta prea mult în frig.",
-                "en": "Plan for short walks to avoid standing in the cold for too long."
+                "en": "Plan for short walks to avoid standing in the cold for too long.",
+                "da": "Planlæg korte gåture for at undgå at stå for længe i kulden."
               }
             },
             {
@@ -1701,7 +1883,8 @@
                 "de": "Eine ideale Aufwärmstation zwischen zwei Busfahrten.",
                 "hu": "Ideális melegedőpont két buszjárat között.",
                 "ro": "O stație ideală pentru încălzire între două curse de autobuz.",
-                "en": "An ideal warm-up station between two bus rides."
+                "en": "An ideal warm-up station between two bus rides.",
+                "da": "Et ideelt opvarmningssted mellem to busture."
               }
             },
             {
@@ -1710,7 +1893,8 @@
                 "de": "Die Busse sind im Winter meist sehr angenehm beheizt.",
                 "hu": "A buszok télen általában kellemesen fűtöttek.",
                 "ro": "Autobuzele sunt de obicei încălzite foarte plăcut iarna.",
-                "en": "Buses are usually very comfortably heated in winter."
+                "en": "Buses are usually very comfortably heated in winter.",
+                "da": "Busser er normalt meget behageligt opvarmede om vinteren."
               }
             },
             {
@@ -1719,7 +1903,8 @@
                 "de": "Halten Sie sich in Bewegung, um die Körperwärme zu speichern.",
                 "hu": "Maradj mozgásban, hogy megőrizd a testhőmérsékleted.",
                 "ro": "Rămâneți în mișcare pentru a menține căldura corporală.",
-                "en": "Keep moving to help maintain your body heat."
+                "en": "Keep moving to help maintain your body heat.",
+                "da": "Hold dig i bevægelse for at bevare kropsvarmen."
               }
             },
             {
@@ -1728,7 +1913,8 @@
                 "de": "Beachten Sie, dass Busse im Winter bei Glätte etwas langsamer fahren.",
                 "hu": "Számolj vele, hogy jeges utakon a buszok lassabban haladhatnak.",
                 "ro": "Rețineți că autobuzele merg mai încet iarna în caz de polei.",
-                "en": "Keep in mind that buses may travel slower on icy winter roads."
+                "en": "Keep in mind that buses may travel slower on icy winter roads.",
+                "da": "Husk at busser kan køre langsommere på isglatte vinterveje."
               }
             }
           ],
@@ -1756,6 +1942,12 @@
               "Timetables may slightly deviate from the norm during winter.",
               "Wear warm clothes for the waiting times at bus stops.",
               "Taking the bus is the warmest way to get around in winter."
+            ],
+            "da": [
+              "Når det er koldt, vent helst indenfor i butikker eller caféer nær stoppestedet.",
+              "Køreplaner kan afvige lidt fra normalen i vinterperioden.",
+              "Tag varmt tøj på til ventetider ved stoppestederne.",
+              "At tage bussen er den varmeste måde at komme rundt på om vinteren."
             ]
           }
         }
