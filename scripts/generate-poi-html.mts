@@ -3202,19 +3202,18 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   const title = buildPoiTitle(name, poi, lang, titleFeats);
   const metaDesc = buildMetaDesc(name, poi, lang, descText, _regName, titleFeats);
 
-  // Landing pages (home / country / state) exist ONLY for the 4 supported langs.
-  // On extra-lang pages (fr/tr/hr) those landing URLs 404 → link them to `en`
-  // (which exists) instead. The POI page itself stays in `lang`. (2026-06-12:
-  // ~40k broken internal links came from extra-lang breadcrumb/home/footer.)
-  const hasNativeLanding = (lang === "it" && countryId === "italy") || (lang === "es" && countryId === "spain") || (lang === "pt" && countryId === "portugal") || (lang === "nl" && countryId === "netherlands");
-  const navLang: Lang = SUPPORTED_LANGS.includes(lang) || hasNativeLanding ? lang : ("en" as Lang);
+  // Native languages have country/state map pages but no /<lang>/ global home.
+  // Keep country navigation native while routing Home/Plizio links to an existing landing.
+  const hasNativeCountryMap = (slugs.extraLangsFor(poi as any) as Lang[]).includes(lang);
+  const navLang: Lang = SUPPORTED_LANGS.includes(lang) || hasNativeCountryMap ? lang : ("en" as Lang);
+  const homeLang: Lang = SUPPORTED_LANGS.includes(lang) ? lang : ("en" as Lang);
   // Beach-hub CTA (reciprocal internal link) for countries that have a beach hub.
   // Beach hubs are built for the 4 core langs only (it/es/pt landing pages keep
   // navLang), so skip the CTA when that lang has no hub instead of linking a 404.
   const beachHubLinkHtml = BEACH_HUB_KEYS.has(countryId) && BEACH_HUB_BSLUG[navLang]
     ? `<a class="plz-cta plz-cta-hub" href="/${navLang}/${countryId}/${BEACH_HUB_BSLUG[navLang]}/">${BEACH_HUB_LABEL[lang] || BEACH_HUB_LABEL.en} →</a>`
     : "";
-  const breadcrumbHome = `<a href="/${navLang}/">${I("home", lang)}</a>`;
+  const breadcrumbHome = `<a href="/${homeLang}/">${I("home", lang)}</a>`;
   const breadcrumbCountry = `<a href="${buildCountryPath(navLang, countryId)}">${countryName}</a>`;
   // State-crumb CSAK ha valoban letezik state-index oldal (regions-ben van a parent).
   // Kulonben 404-re linkelne (pl. /hu/finnorszag/fi/). Szoveg = lokalizalt regio-nev.
@@ -3923,7 +3922,7 @@ ${heroImg ? `<meta property="og:image" content="${SITE_URL}${escapeHtml(heroImg)
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&display=swap" rel="stylesheet"/>
 <link rel="stylesheet" href="/poi-static/poi.css?v=20260801hero1"/>
 ${structuredData(poi, lang, url, metaDesc, countryId, countryName, faqItems, [
-  { name: I("home", lang), url: `/${navLang}/` },
+  { name: I("home", lang), url: `/${homeLang}/` },
   { name: countryName, url: buildCountryPath(navLang, countryId) },
   ...((poi.parent !== countryId && stateRegion) ? [{ name: slugs.localizedStateName(poi.parent, lang), url: buildStatePath(navLang, poi.parent) }] : []),
   { name, url: buildPoiPath(lang, poi) },
@@ -3971,9 +3970,9 @@ document.querySelectorAll('.plz-faq-item summary,.plz-yh-collapse summary').forE
 ready();})();</script>
 <header class="plz-header">
   <div class="plz-header-inner">
-    <a href="/${navLang}/" class="plz-logo">Plizio</a>
+    <a href="/${homeLang}/" class="plz-logo">Plizio</a>
     <nav class="plz-nav">
-      <a href="/${navLang}/">${I("home", lang)}</a>
+      <a href="/${homeLang}/">${I("home", lang)}</a>
       <a href="/europe-map/">Europa</a>
     </nav>
     <div class="plz-langs">${langSwitcher}</div>
