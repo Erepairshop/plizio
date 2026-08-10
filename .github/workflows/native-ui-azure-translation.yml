@@ -18,8 +18,8 @@ permissions:
   contents: write
 
 concurrency:
-  group: native-ui-${{ inputs.language_code }}
-  cancel-in-progress: false
+  group: native-ui-translation
+  cancel-in-progress: true
 
 jobs:
   translate:
@@ -28,12 +28,28 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Validate inputs and build queue
+      - name: Normalize and validate inputs
+        id: normalize_inputs
         env:
-          LANG_CODE: ${{ inputs.language_code }}
+          LANG_CODE_RAW: ${{ inputs.language_code }}
         run: |
           set -euo pipefail
-          [[ "$LANG_CODE" =~ ^[a-z]{2}(-[a-z]{2})?$ ]] || { echo "Invalid language code" >&2; exit 1; }
+          LANG_CODE="${LANG_CODE_RAW%%[[:space:]]*}"
+          if [[ -z "$LANG_CODE" ]]; then
+            echo "language_code is empty" >&2
+            exit 1
+          fi
+          [[ "$LANG_CODE" =~ ^[a-z]{2}(-[a-z]{2})?$ ]] || {
+            echo "Invalid language code: ${LANG_CODE_RAW}" >&2
+            exit 1
+          }
+          echo "language_code=$LANG_CODE" >> "$GITHUB_OUTPUT"
+
+      - name: Validate inputs and build queue
+        env:
+          LANG_CODE: ${{ steps.normalize_inputs.outputs.language_code }}
+        run: |
+          set -euo pipefail
           WORK="/home/erik/plizio-translations/ui-$LANG_CODE"
           rm -rf "$WORK"
           python3 scripts/native-rollout/build-ui-translation-queue.py \
@@ -41,7 +57,7 @@ jobs:
 
       - name: Translate through Azure OpenAI
         env:
-          LANG_CODE: ${{ inputs.language_code }}
+          LANG_CODE: ${{ steps.normalize_inputs.outputs.language_code }}
           LANG_NAME: ${{ inputs.language_name }}
           BATCH_LIMIT: ${{ inputs.limit }}
         run: |
@@ -57,7 +73,7 @@ jobs:
       - name: Apply complete translation and rebuild module
         if: ${{ inputs.limit == '0' }}
         env:
-          LANG_CODE: ${{ inputs.language_code }}
+          LANG_CODE: ${{ steps.normalize_inputs.outputs.language_code }}
           LANG_NAME: ${{ inputs.language_name }}
         run: |
           set -euo pipefail
@@ -76,8 +92,9 @@ jobs:
       - name: Commit translated catalog
         if: ${{ inputs.limit == '0' }}
         env:
-          LANG_CODE: ${{ inputs.language_code }}
+          LANG_CODE: ${{ steps.normalize_inputs.outputs.language_code }}
           LANG_NAME: ${{ inputs.language_name }}
+          HUSKY: 0
         run: |
           set -euo pipefail
           git config user.name "plizio-translation-bot"
@@ -88,13 +105,15 @@ jobs:
             exit 0
           fi
           git commit -m "feat(i18n): add $LANG_NAME POI interface copy"
-          git push
+          # --ff-only keeps the history linear and avoids rebase conflicts.
+          git pull --ff-only origin ${GITHUB_REF_NAME}
+          git push origin HEAD:${GITHUB_REF_NAME}
 
       - uses: actions/upload-artifact@v4
         if: always()
         with:
-          name: native-ui-${{ inputs.language_code }}-translation
+          name: native-ui-${{ steps.normalize_inputs.outputs.language_code }}-translation
           path: |
-            /home/erik/plizio-translations/ui-${{ inputs.language_code }}/manifest.json
-            /home/erik/plizio-translations/ui-${{ inputs.language_code }}/results.jsonl
+            /home/erik/plizio-translations/ui-${{ steps.normalize_inputs.outputs.language_code }}/manifest.json
+            /home/erik/plizio-translations/ui-${{ steps.normalize_inputs.outputs.language_code }}/results.jsonl
           if-no-files-found: warn
