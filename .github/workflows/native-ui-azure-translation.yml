@@ -28,9 +28,25 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Normalize inputs
+        id: normalize_inputs
+        env:
+          LANG_CODE_INPUT: ${{ inputs.language_code }}
+        run: |
+          set -euo pipefail
+          LANG_CODE_RAW="${LANG_CODE_INPUT}"
+          LANG_CODE="${LANG_CODE_RAW%%[[:space:]]*}"
+          LANG_CODE="${LANG_CODE,,}"
+          [[ -n "$LANG_CODE" ]] || { echo "language_code is empty" >&2; exit 1; }
+          [[ "$LANG_CODE" =~ ^[a-z]{2}(-[a-z]{2})?$ ]] || {
+            echo "Invalid language code: '$LANG_CODE_RAW'" >&2
+            exit 1
+          }
+          echo "language_code=$LANG_CODE" >> "$GITHUB_OUTPUT"
+
       - name: Validate inputs and build queue
         env:
-          LANG_CODE: ${{ inputs.language_code }}
+          LANG_CODE: ${{ steps.normalize_inputs.outputs.language_code }}
         run: |
           set -euo pipefail
           [[ "$LANG_CODE" =~ ^[a-z]{2}(-[a-z]{2})?$ ]] || { echo "Invalid language code" >&2; exit 1; }
@@ -41,7 +57,7 @@ jobs:
 
       - name: Translate through Azure OpenAI
         env:
-          LANG_CODE: ${{ inputs.language_code }}
+          LANG_CODE: ${{ steps.normalize_inputs.outputs.language_code }}
           LANG_NAME: ${{ inputs.language_name }}
           BATCH_LIMIT: ${{ inputs.limit }}
         run: |
@@ -57,7 +73,7 @@ jobs:
       - name: Apply complete translation and rebuild module
         if: ${{ inputs.limit == '0' }}
         env:
-          LANG_CODE: ${{ inputs.language_code }}
+          LANG_CODE: ${{ steps.normalize_inputs.outputs.language_code }}
           LANG_NAME: ${{ inputs.language_name }}
         run: |
           set -euo pipefail
@@ -76,7 +92,7 @@ jobs:
       - name: Commit translated catalog
         if: ${{ inputs.limit == '0' }}
         env:
-          LANG_CODE: ${{ inputs.language_code }}
+          LANG_CODE: ${{ steps.normalize_inputs.outputs.language_code }}
           LANG_NAME: ${{ inputs.language_name }}
           HUSKY: 0
         run: |
@@ -97,7 +113,7 @@ jobs:
         if: ${{ inputs.limit == '0' }}
         id: quiz
         env:
-          LANG_CODE: ${{ inputs.language_code }}
+          LANG_CODE: ${{ steps.normalize_inputs.outputs.language_code }}
         run: |
           set -euo pipefail
           case "$LANG_CODE" in
@@ -120,7 +136,7 @@ jobs:
       - name: Translate and apply static map quiz
         if: ${{ inputs.limit == '0' && steps.quiz.outputs.enabled == 'true' }}
         env:
-          LANG_CODE: ${{ inputs.language_code }}
+          LANG_CODE: ${{ steps.normalize_inputs.outputs.language_code }}
           LANG_NAME: ${{ inputs.language_name }}
         run: |
           set -euo pipefail
@@ -138,7 +154,7 @@ jobs:
       - name: Commit static map quiz translation
         if: ${{ inputs.limit == '0' && steps.quiz.outputs.enabled == 'true' }}
         env:
-          LANG_CODE: ${{ inputs.language_code }}
+          LANG_CODE: ${{ steps.normalize_inputs.outputs.language_code }}
           HUSKY: 0
         run: |
           set -euo pipefail
@@ -156,8 +172,8 @@ jobs:
       - uses: actions/upload-artifact@v4
         if: always()
         with:
-          name: native-ui-${{ inputs.language_code }}-translation
+          name: native-ui-${{ steps.normalize_inputs.outputs.language_code }}-translation
           path: |
-            /home/erik/plizio-translations/ui-${{ inputs.language_code }}/manifest.json
-            /home/erik/plizio-translations/ui-${{ inputs.language_code }}/results.jsonl
+            /home/erik/plizio-translations/ui-${{ steps.normalize_inputs.outputs.language_code }}/manifest.json
+            /home/erik/plizio-translations/ui-${{ steps.normalize_inputs.outputs.language_code }}/results.jsonl
           if-no-files-found: warn
