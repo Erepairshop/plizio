@@ -509,6 +509,19 @@ Nem váltja ki a `CLAUDE.md`-t, hanem gyors képbehozásra szolgál.
   taskot: ez `Zugriff verweigert` hibara futhat. Repairnel a meglevo
   `Plizio Italy Spark` taskot inditsa `Start-ScheduledTask` paranccsal.
 
+## POI Fakten nyelvi prioritas - 2026-08-10
+
+- A `scripts/generate-poi-html.mts` korabban a lokalizalt `factsAdvanced` mezot
+  fallbackkel olvasta. Ha az adott nyelv hianyzott belole, a nemet lista mar
+  talalatnak szamitott, ezert a mar leforditott nativ `facts` sidecarig el sem jutott.
+- A renderer most csak egzakt nyelvi `factsAdvanced`, majd egzakt nyelvi `facts`
+  listat fogad el. Ha egyik sincs, a Fakten blokk kimarad; idegen nyelvu tartalom
+  nem jelenhet meg. Ugyanez ervenyes a sight aloldalak Fakten blokkjara is.
+- Ellenorzesi referencia: a holland Heiloo sidecarja helyes holland Fakten listat
+  tartalmazott, mikozben a live HTML a korabbi prioritasi hiba miatt nemetet mutatott.
+- A `/postcard/` mobil layoutja kulon `min-w-0` es `max-w-full` korlatot kapott;
+  mobilon kisebb cim, padding, keret es arnyek hasznalatos, a desktop meret valtozatlan.
+
 ## Teutoburger Wald POI-kep - 2026-08-04
 
 - POI: `germany-teutoburger-wald-ridge-relief-v2` (`Teutoburger Wald Kamm`).
