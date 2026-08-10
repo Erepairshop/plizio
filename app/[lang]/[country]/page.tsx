@@ -68,7 +68,7 @@ export async function generateMetadata({
   
   // Reverse lookup: orszag-slug az aktualis nyelven -> countryId
   const countryId = Object.keys(COUNTRY_SLUGS).find(
-    (cid) => COUNTRY_SLUGS[cid][lang] === country
+    (cid) => countrySlugFor(lang as Lang, cid) === country
   );
   if (!countryId) return {};
 
@@ -87,7 +87,7 @@ export default async function CountryPage({
   if (!isLang(lang)) notFound();
 
   const countryId = Object.keys(COUNTRY_SLUGS).find(
-    (cid) => COUNTRY_SLUGS[cid][lang] === country
+    (cid) => countrySlugFor(lang as Lang, cid) === country
   );
   if (!countryId) notFound();
 
