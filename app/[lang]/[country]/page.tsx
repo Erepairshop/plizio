@@ -41,9 +41,12 @@ export function generateStaticParams() {
   return SUPPORTED_LANGS.flatMap((lang) =>
     countryIds.map((countryId) => ({ lang, country: countrySlugFor(lang, countryId) }))
   ).concat([
+    { lang: "fr", country: countrySlugFor("fr", "france") },
+    { lang: "hr", country: countrySlugFor("hr", "croatia") },
     { lang: "it", country: countrySlugFor("it", "italy") },
     { lang: "es", country: countrySlugFor("es", "spain") },
     { lang: "pt", country: countrySlugFor("pt", "portugal") },
+    { lang: "pl", country: countrySlugFor("pl", "poland") },
     { lang: "nl", country: countrySlugFor("nl", "netherlands") },
     { lang: "cs", country: countrySlugFor("cs", "czech-republic") },
     { lang: "sk", country: countrySlugFor("sk", "slovakia") },
@@ -70,7 +73,7 @@ export async function generateMetadata({
   if (!countryId) return {};
 
   const metadata = countryMetadata(lang, countryId);
-  return (["it", "nl", "cs", "sk", "da", "sv", "fi", "el", "bg"] as string[]).includes(lang)
+  return (["fr", "hr", "it", "es", "pt", "pl", "nl", "cs", "sk", "da", "sv", "fi", "el", "bg"] as string[]).includes(lang)
     ? { ...metadata, other: { ...(metadata.other || {}), google: "notranslate" } }
     : metadata;
 }
@@ -113,13 +116,17 @@ export default async function CountryPage({
   const hubSlug = sightsHubSlug(countryId, lang);
   const beachHref = beachHubHref(lang as Lang, countryId);
   const citiesHref = citiesHubHref(lang as Lang, countryId);
-  // Static country maps exist only for the 4 core langs plus it/italy and es/spain
-  // (scripts/build-static-maps.mts langsForCountry). Any other lang → /en/ so the
+  // Static country maps exist for the 4 core languages and each country's native language
+  // (scripts/build-static-maps.mts langsForCountry). Any other language uses /en/ so the
   // CTA never points at a directory that was not generated.
   const mapLang: Lang =
     (["de", "hu", "ro", "en"] as Lang[]).includes(lang as Lang)
+    || (lang === "fr" && countryId === "france")
+    || (lang === "hr" && countryId === "croatia")
     || (lang === "it" && countryId === "italy")
     || (lang === "es" && countryId === "spain")
+    || (lang === "pt" && countryId === "portugal")
+    || (lang === "pl" && countryId === "poland")
     || ({ nl: "netherlands", cs: "czech-republic", sk: "slovakia", da: "denmark", sv: "sweden", fi: "finland", el: "greece", bg: "bulgaria" } as Record<string, string>)[lang] === countryId
       ? (lang as Lang)
       : ("en" as Lang);
@@ -129,9 +136,12 @@ export default async function CountryPage({
     hu: { kicker: "Interaktív térkép", cta: `${countryCopy.name} felfedezése`, sub: "Látnivalók, városok, térkép és kereső", world: "Világtérkép", open: "Térkép megnyitása" },
     ro: { kicker: "Hartă interactivă", cta: `Explorează ${countryCopy.name}`, sub: "Obiective, orașe, hartă și căutare", world: "Harta lumii", open: "Deschide harta" },
     en: { kicker: "Interactive map", cta: `Explore ${countryCopy.name}`, sub: "Sights, cities, map & search", world: "World map", open: "Open map" },
+    fr: { kicker: "Carte interactive", cta: `Explorer ${countryCopy.name}`, sub: "Sites, villes, carte et recherche", world: "Voir la carte du monde", open: "Ouvrir la carte" },
+    hr: { kicker: "Interaktivna karta", cta: `Istražite ${countryCopy.name}`, sub: "Znamenitosti, gradovi, karta i pretraživanje", world: "Pogledaj kartu svijeta", open: "Otvori kartu" },
     it: { kicker: "Mappa interattiva", cta: `Esplora ${countryCopy.name}`, sub: "Luoghi, città, mappa e ricerca", world: "Mappa del mondo", open: "Apri la mappa" },
     es: { kicker: "Mapa interactivo", cta: `Explora ${countryCopy.name}`, sub: "Lugares, ciudades, mapa y búsqueda", world: "Mapa del mundo", open: "Abrir mapa" },
     pt: { kicker: "Mapa interativo", cta: `Explorar ${countryCopy.name}`, sub: "Locais, cidades, mapa e pesquisa", world: "Mapa do mundo", open: "Abrir mapa" },
+    pl: { kicker: "Interaktywna mapa", cta: `Odkryj ${countryCopy.name}`, sub: "Atrakcje, miasta, mapa i wyszukiwanie", world: "Zobacz mapę świata", open: "Otwórz mapę" },
     nl: { kicker: "Interactieve kaart", cta: `${countryCopy.name} ontdekken`, sub: "Bezienswaardigheden, steden, kaart en zoeken", world: "Wereldkaart bekijken", open: "Kaart openen" },
     cs: { kicker: "Interaktivní mapa", cta: `Objevte ${countryCopy.name}`, sub: "Památky, města, mapa a vyhledávání", world: "Prozkoumat mapu světa", open: "Otevřít mapu" },
     sk: { kicker: "Interaktívna mapa", cta: `Objavte ${countryCopy.name}`, sub: "Pamiatky, mestá, mapa a vyhľadávanie", world: "Pozrieť mapu sveta", open: "Otvoriť mapu" },
@@ -146,7 +156,7 @@ export default async function CountryPage({
   const ML = ML_BY_LANG[lang as keyof typeof ML_BY_LANG] ?? ML_BY_LANG.en;
 
   return (
-    <main translate={(["it", "nl", "cs", "sk", "da", "sv", "fi", "el", "bg"] as string[]).includes(lang) ? "no" : undefined} className="min-h-screen bg-[#020408] text-white">
+    <main translate={(["fr", "hr", "it", "es", "pt", "pl", "nl", "cs", "sk", "da", "sv", "fi", "el", "bg"] as string[]).includes(lang) ? "no" : undefined} className="min-h-screen bg-[#020408] text-white">
       <section className="mx-auto max-w-6xl px-4 py-8 sm:px-6 lg:px-8">
         <Breadcrumb
           items={[

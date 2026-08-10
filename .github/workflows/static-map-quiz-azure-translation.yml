@@ -1,0 +1,169 @@
+name: Static Map Quiz Azure Translation
+
+on:
+  workflow_dispatch:
+    inputs:
+      language:
+        description: "Target language key"
+        type: choice
+        required: true
+        options: [fr, hr, it, es, pt, pl, nl, cs, sk, da, sv, fi, el, bg]
+      limit:
+        description: "Pending batches to translate; 0 means all"
+        required: true
+        default: "0"
+
+concurrency:
+  group: static-map-quiz-azure-translation-global
+  cancel-in-progress: false
+
+jobs:
+  translate:
+    runs-on: [self-hosted, vps-plizio]
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+          fetch-depth: 0
+
+      - name: Resolve language settings
+        id: lang
+        shell: bash
+        run: |
+          set -euo pipefail
+          case "${{ inputs.language }}" in
+            fr) COUNTRY_ISO=fr; NAME="French" ;;
+            hr) COUNTRY_ISO=hr; NAME="Croatian" ;;
+            it) COUNTRY_ISO=it; NAME="Italian" ;;
+            es) COUNTRY_ISO=es; NAME="Spanish" ;;
+            pt) COUNTRY_ISO=pt; NAME="Portuguese" ;;
+            pl) COUNTRY_ISO=pl; NAME="Polish" ;;
+            nl) COUNTRY_ISO=nl; NAME="Dutch" ;;
+            cs) COUNTRY_ISO=cz; NAME="Czech" ;;
+            sk) COUNTRY_ISO=sk; NAME="Slovak" ;;
+            da) COUNTRY_ISO=dk; NAME="Danish" ;;
+            sv) COUNTRY_ISO=se; NAME="Swedish" ;;
+            fi) COUNTRY_ISO=fi; NAME="Finnish" ;;
+            el) COUNTRY_ISO=gr; NAME="Greek" ;;
+            bg) COUNTRY_ISO=bg; NAME="Bulgarian" ;;
+            *) echo "::error::No mapping for language ${{ inputs.language }}"; exit 1 ;;
+          esac
+          echo "country_iso=$COUNTRY_ISO" >> "$GITHUB_OUTPUT"
+          echo "language_name=$NAME" >> "$GITHUB_OUTPUT"
+          echo "work_dir=/home/erik/plizio-translations/static-map-quiz/${{ inputs.language }}" >> "$GITHUB_OUTPUT"
+
+      - name: Prepare persistent work directory
+        shell: bash
+        run: |
+          set -euo pipefail
+          WORK="${{ steps.lang.outputs.work_dir }}"
+          mkdir -p "$WORK"
+          rm -f \
+            "$WORK/queue.json" \
+            "$WORK/manifest.json" \
+            "$WORK/summary.json" \
+            "$WORK/source-preview.json" \
+            "$WORK/results.jsonl" \
+            "$WORK/written-files.txt" \
+            "$WORK/run-summary.json"
+
+      - name: Build deterministic queue
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 scripts/native-rollout/static-map-quiz-build-queue.py \
+            --repo "$GITHUB_WORKSPACE" \
+            --output-dir "${{ steps.lang.outputs.work_dir }}" \
+            --language "${{ inputs.language }}" \
+            --country-iso "${{ steps.lang.outputs.country_iso }}"
+          cat "${{ steps.lang.outputs.work_dir }}/summary.json"
+
+      - name: Translate through Azure OpenAI
+        shell: bash
+        run: |
+          set -euo pipefail
+          set -a
+          source /home/erik/plizio-audits/poi-only-technical-20260731/.azure-openai.env
+          set +a
+          python3 scripts/native-rollout/run-azure-translation.py \
+            --queue "${{ steps.lang.outputs.work_dir }}/queue.json" \
+            --output "${{ steps.lang.outputs.work_dir }}/results.jsonl" \
+            --limit "${{ inputs.limit }}" \
+            --workers 4 \
+            --rpm 9 \
+            --language-name "${{ steps.lang.outputs.language_name }}"
+
+      - name: Apply translations
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 scripts/native-rollout/static-map-quiz-apply-translations.py \
+            --repo "$GITHUB_WORKSPACE" \
+            --work-dir "${{ steps.lang.outputs.work_dir }}" \
+            --language "${{ inputs.language }}" \
+            --write
+
+      - name: Persist run summary
+        if: always()
+        shell: bash
+        run: |
+          set -euo pipefail
+          WORK="${{ steps.lang.outputs.work_dir }}"
+          if [ ! -s "$WORK/queue.json" ]; then
+            echo "no queue built"
+            exit 0
+          fi
+          python3 - "$WORK" <<'PY'
+          import json, sys
+          from pathlib import Path
+          root = Path(sys.argv[1])
+          queue = json.loads((root / "queue.json").read_text())
+          rows = []
+          if (root / "results.jsonl").exists():
+            for line in (root / "results.jsonl").read_text(encoding="utf-8").splitlines():
+              try:
+                rows.append(json.loads(line))
+              except json.JSONDecodeError:
+                pass
+          latest = {row.get("id"): row for row in rows if row.get("id")}
+          valid = [row for row in latest.values() if row.get("status") == "completed"]
+          usage = {
+            key: sum(int((row.get("usage") or {}).get(key, 0) or 0) for row in valid)
+            for key in ("input_tokens", "output_tokens", "total_tokens")
+          }
+          summary = {
+            "batches": len(queue),
+            "completed": len(valid),
+            "errors": sum(row.get("status") == "error" for row in latest.values()),
+            "usage": usage,
+          }
+          (root / "run-summary.json").write_text(json.dumps(summary, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+          print(json.dumps(summary, ensure_ascii=False))
+          PY
+
+      - name: Commit and push translations
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "data/map-quiz-translations/${{ inputs.language }}.json"
+          if git diff --cached --quiet; then
+            echo "No translation changes to commit"
+            exit 0
+          fi
+          git commit -m "Add static map quiz translations for ${{ inputs.language }}"
+          git pull --rebase origin "${{ github.ref_name }}"
+          git push origin "HEAD:${{ github.ref_name }}"
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: static-map-quiz-${{ inputs.language }}-status
+          path: |
+            /home/erik/plizio-translations/static-map-quiz/${{ inputs.language }}/summary.json
+            /home/erik/plizio-translations/static-map-quiz/${{ inputs.language }}/run-summary.json
+            /home/erik/plizio-translations/static-map-quiz/${{ inputs.language }}/source-preview.json
+            /home/erik/plizio-translations/static-map-quiz/${{ inputs.language }}/written-files.txt
+          if-no-files-found: warn
