@@ -76,7 +76,7 @@ jobs:
               rm -rf "$full" || true
             done
           fi
-          df -h / | tail -1
+          df -h "$REL" | tail -1
 
       - name: Refresh image manifest from shared/poi-images (avoid stale → hidden images)
         run: |
@@ -216,15 +216,12 @@ jobs:
           set -euo pipefail
           TS=$(date -u +%Y%m%d-%H%M%S)
           REL_DIR="${{ env.RELEASE_BASE }}/releases/${TS}"
-          mkdir -p "$REL_DIR"
-          PREV=$(readlink -f "${{ env.RELEASE_BASE }}/current" 2>/dev/null || echo "")
-          if [ -n "$PREV" ] && [ -d "$PREV" ]; then
-            rsync -a --delete --link-dest="$PREV/" out/ "$REL_DIR/"
-          else
-            cp -a out/. "$REL_DIR"/
-          fi
+          test -f out/index.html && test -d out/_next
+          test ! -e "$REL_DIR"
+          mv out "$REL_DIR"
           test -f "$REL_DIR/index.html" && test -d "$REL_DIR/_next"
           chmod 755 "$REL_DIR"
+          ln -sfn "$REL_DIR" out
           find "$REL_DIR" -type d ! -perm 755 -exec chmod 755 {} + || true
           find "$REL_DIR" -type f ! -perm 644 -exec chmod 644 {} + || true
           if [ -d "${{ env.RELEASE_BASE }}/shared/sight-images" ]; then
@@ -260,6 +257,12 @@ jobs:
           fi
           sudo systemctl reload nginx
           echo "DEPLOYED: $REL_DIR"
+
+      - name: Release staging cleanup
+        if: always()
+        run: |
+          set +e
+          rm -rf out/.git 2>/dev/null || true
 
       - name: Smoke test
         run: |
