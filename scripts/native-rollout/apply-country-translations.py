@@ -133,6 +133,8 @@ def main() -> int:
                 sidecar[field] = value
             elif field == "facts":
                 index = int(target["index"])
+                if target.get("replace") and index == 0:
+                    sidecar["facts"] = []
                 sidecar["facts"] = ensure_list(sidecar.get("facts"), index + 1)
                 sidecar["facts"][index] = value
             elif field == "faq":

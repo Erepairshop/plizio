@@ -84,6 +84,12 @@ jobs:
             -f language="$LANGUAGE" -f mode=full -f limit="$BATCH_LIMIT"
           wait_for_dispatch "Native Country Apply Translations" \
             -f language="$LANGUAGE" -f mode=full -f write=true
+          # The full queue uses the thin POI export. Repair rich lead text and
+          # facts from the rendered English pages before the final deploy.
+          wait_for_dispatch "Native Country Azure Translation" \
+            -f language="$LANGUAGE" -f mode=missing-descadv -f limit=0
+          wait_for_dispatch "Native Country Apply Translations" \
+            -f language="$LANGUAGE" -f mode=missing-descadv -f write=true
           wait_for_dispatch "Native Sights Azure Translation" \
             -f language="$LANGUAGE" -f limit=0
           wait_for_dispatch "Native UI Azure Translation" \

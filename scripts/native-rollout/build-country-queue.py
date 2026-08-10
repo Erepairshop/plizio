@@ -111,13 +111,18 @@ def collect_core(data: Path, pois_file: str, ids: set[str], records: list, targe
                     {"kind": "core", "poi": poi_id, "field": "faq", "index": index, "part": "a"})
 
 
-def collect_missing_descadv(repo: Path, data: Path, ids: set[str], records: list, targets: dict) -> int:
+def html_text(fragment: str) -> str:
+    text = html.unescape(re.sub(r"<[^>]+>", " ", fragment))
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def collect_missing_descadv(repo: Path, data: Path, ids: set[str], records: list, targets: dict) -> dict:
     url_index = load_json(data / "_poi-url-index.json", {})
     missing_source = []
+    descadv_count = 0
+    facts_count = 0
     for poi_id in sorted(ids):
         sidecar = load_json(data / f"i18n/{LANGUAGE}/{poi_id}.json", {})
-        if sidecar.get("descAdv") or sidecar.get("descriptionAdvanced"):
-            continue
         url = str((url_index.get(poi_id) or {}).get("en") or "")
         relative = url.removeprefix("https://plizio.com").strip("/")
         page = repo / relative / "index.html"
@@ -125,20 +130,33 @@ def collect_missing_descadv(repo: Path, data: Path, ids: set[str], records: list
             missing_source.append(poi_id)
             continue
         source_html = page.read_text(encoding="utf-8")
-        match = re.search(r'<p class="poi-lead-paragraph">(.*?)</p>', source_html, re.DOTALL)
-        if not match:
+        lead_match = re.search(r'<p class="poi-lead-paragraph">(.*?)</p>', source_html, re.DOTALL)
+        if not lead_match:
             missing_source.append(poi_id)
             continue
-        text = html.unescape(re.sub(r"<[^>]+>", " ", match.group(1)))
-        text = re.sub(r"\s+", " ", text).strip()
-        add(records, targets, f"core::{poi_id}::descAdv", text,
-            {"kind": "core", "poi": poi_id, "field": "descAdv"})
+        if not (sidecar.get("descAdv") or sidecar.get("descriptionAdvanced")):
+            add(records, targets, f"core::{poi_id}::descAdv", html_text(lead_match.group(1)),
+                {"kind": "core", "poi": poi_id, "field": "descAdv"})
+            descadv_count += 1
+
+        # The thin POI export contains only short generic facts. The rendered
+        # English page still has the richer factsAdvanced list, so use it as
+        # the deterministic source for native-language pages as well.
+        facts_match = re.search(r'<ul class="plz-facts">(.*?)</ul>', source_html, re.DOTALL)
+        if facts_match:
+            facts = [html_text(item) for item in re.findall(r"<li[^>]*>(.*?)</li>", facts_match.group(1), re.DOTALL)]
+            facts = [fact for fact in facts if fact]
+            for index, fact in enumerate(facts):
+                add(records, targets, f"core::{poi_id}::facts-rich::{index}", fact,
+                    {"kind": "core", "poi": poi_id, "field": "facts", "index": index,
+                     "replace": True})
+                facts_count += 1
     if missing_source:
         raise SystemExit(
             f"Missing English lead paragraph for {len(missing_source)} POIs: "
             + ", ".join(missing_source[:10])
         )
-    return len(records)
+    return {"descAdv": descadv_count, "factsAdvanced": facts_count}
 
 
 def layer_key(layer: str, poi_id: str, relative: str, path: list, index=None) -> str:
@@ -364,8 +382,7 @@ def main() -> int:
             )
     records, targets = [], {}
     if args.mode == "missing-descadv":
-        collect_missing_descadv(repo, data, ids, records, targets)
-        file_counts = {"descAdv": len(records)}
+        file_counts = collect_missing_descadv(repo, data, ids, records, targets)
         batch_prefix = f"{LANGUAGE}descadv-v1"
     elif args.mode == "missing-citytips-structured":
         file_counts = collect_missing_citytips_structured(data, ids, records, targets)

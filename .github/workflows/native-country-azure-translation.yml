@@ -13,7 +13,7 @@ on:
         required: true
         options: [fr, tr, hr, pl, nl, cs, sk, da, sv, fi, el, bg]
       mode:
-        description: "Translation queue"
+        description: "Translation queue (missing-descadv also repairs rich facts)"
         type: choice
         required: true
         default: "full"
