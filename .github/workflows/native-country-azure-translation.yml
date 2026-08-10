@@ -11,7 +11,7 @@ on:
         description: "Native language key"
         type: choice
         required: true
-        options: [fr, tr, hr, pl, nl, cs, sk, da, sv, fi, el, bg]
+        options: [it, fr, tr, hr, pl, nl, cs, sk, da, sv, fi, el, bg]
       mode:
         description: "Translation queue (missing-descadv also repairs rich facts)"
         type: choice
@@ -41,6 +41,7 @@ jobs:
           # Every supported language MUST be listed: an unmapped code previously
           # fell through to Italian and mistranslated a whole run.
           case "${{ inputs.language }}" in
+            it) SLUG=italy; POIS=IT.json; NAME="Italian" ;;
             fr) SLUG=france;   POIS=FR.json; NAME="French" ;;
             tr) SLUG=germany;  POIS=DE.json; NAME="Turkish" ;;
             hr) SLUG=croatia;  POIS=HR.json; NAME="Croatian" ;;
