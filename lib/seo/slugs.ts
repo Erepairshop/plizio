@@ -19,7 +19,7 @@ export type Lang = "de" | "hu" | "ro" | "en" | "fr" | "tr" | "hr" | "it" | "es" 
 // NOT in SUPPORTED_LANGS to avoid sitemap bloat for non-applicable pages.
 // Use `extraLangsFor(poi)` to detect per-POI extras.
 export const SUPPORTED_LANGS: Lang[] = ["de", "hu", "ro", "en"];
-export const ALL_LANGS: Lang[] = ["de", "hu", "ro", "en", "fr", "tr", "hr", "it", "es", "pt", "nl", "cs", "sk", "da", "sv", "fi", "el", "bg"];
+export const ALL_LANGS: Lang[] = ["de", "hu", "ro", "en", "fr", "tr", "hr", "it", "es", "pt", "pl", "nl", "cs", "sk", "da", "sv", "fi", "el", "bg"];
 
 // Emit the extra lang URL in the sitemap when EITHER:
 //   - the POI lives in the lang's target country (FR-parent for fr, DE-parent for tr)

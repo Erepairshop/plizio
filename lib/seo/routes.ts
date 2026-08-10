@@ -326,7 +326,8 @@ export function absoluteUrl(path: string) {
 
 export function getCountryAlternates(countryId: string = "germany") {
   const native: Partial<Record<string, Lang>> = {
-    italy: "it", spain: "es", portugal: "pt", netherlands: "nl", "czech-republic": "cs",
+    france: "fr", croatia: "hr", italy: "it", spain: "es", portugal: "pt", poland: "pl",
+    netherlands: "nl", "czech-republic": "cs",
     slovakia: "sk", denmark: "da", sweden: "sv", finland: "fi", greece: "el", bulgaria: "bg",
   };
   const langs: Lang[] = native[countryId]
@@ -338,7 +339,8 @@ export function getCountryAlternates(countryId: string = "germany") {
 export function getStateAlternates(stateId: string) {
   const countryId = getCountryId(stateId);
   const native: Partial<Record<string, Lang>> = {
-    italy: "it", spain: "es", portugal: "pt", netherlands: "nl", "czech-republic": "cs",
+    france: "fr", croatia: "hr", italy: "it", spain: "es", portugal: "pt", poland: "pl",
+    netherlands: "nl", "czech-republic": "cs",
     slovakia: "sk", denmark: "da", sweden: "sv", finland: "fi", greece: "el", bulgaria: "bg",
   };
   const langs: Lang[] = native[countryId]
