@@ -19,7 +19,7 @@ permissions:
 
 concurrency:
   group: native-ui-translation
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   translate:
@@ -92,6 +92,66 @@ jobs:
           # --ff-only keeps the history linear and avoids rebase conflicts.
           git pull --ff-only origin ${GITHUB_REF_NAME}
           git push origin HEAD:${GITHUB_REF_NAME}
+
+      - name: Build static map quiz queue
+        if: ${{ inputs.limit == '0' }}
+        id: quiz
+        env:
+          LANG_CODE: ${{ inputs.language_code }}
+        run: |
+          set -euo pipefail
+          case "$LANG_CODE" in
+            fr|hr|it|es|pt|pl|nl|sk|fi|bg) COUNTRY_ISO="$LANG_CODE" ;;
+            cs) COUNTRY_ISO=cz ;;
+            da) COUNTRY_ISO=dk ;;
+            sv) COUNTRY_ISO=se ;;
+            el) COUNTRY_ISO=gr ;;
+            *) echo "Static map quiz is not configured for $LANG_CODE"; exit 0 ;;
+          esac
+          WORK="/home/erik/plizio-translations/static-map-quiz/$LANG_CODE"
+          mkdir -p "$WORK"
+          rm -f "$WORK/queue.json" "$WORK/manifest.json" "$WORK/summary.json" \
+            "$WORK/source-preview.json" "$WORK/results.jsonl" "$WORK/written-files.txt"
+          python3 scripts/native-rollout/static-map-quiz-build-queue.py \
+            --repo "$GITHUB_WORKSPACE" --output-dir "$WORK" \
+            --language "$LANG_CODE" --country-iso "$COUNTRY_ISO"
+          echo "enabled=true" >> "$GITHUB_OUTPUT"
+
+      - name: Translate and apply static map quiz
+        if: ${{ inputs.limit == '0' && steps.quiz.outputs.enabled == 'true' }}
+        env:
+          LANG_CODE: ${{ inputs.language_code }}
+          LANG_NAME: ${{ inputs.language_name }}
+        run: |
+          set -euo pipefail
+          WORK="/home/erik/plizio-translations/static-map-quiz/$LANG_CODE"
+          set -a
+          source /home/erik/plizio-audits/poi-only-technical-20260731/.azure-openai.env
+          set +a
+          python3 scripts/native-rollout/run-azure-translation.py \
+            --queue "$WORK/queue.json" --output "$WORK/results.jsonl" \
+            --limit 0 --workers 4 --rpm 9 --language-name "$LANG_NAME"
+          python3 scripts/native-rollout/static-map-quiz-apply-translations.py \
+            --repo "$GITHUB_WORKSPACE" --work-dir "$WORK" \
+            --language "$LANG_CODE" --write
+
+      - name: Commit static map quiz translation
+        if: ${{ inputs.limit == '0' && steps.quiz.outputs.enabled == 'true' }}
+        env:
+          LANG_CODE: ${{ inputs.language_code }}
+          HUSKY: 0
+        run: |
+          set -euo pipefail
+          git config user.name "plizio-translation-bot"
+          git config user.email "borota25@gmail.com"
+          git add "data/map-quiz-translations/$LANG_CODE.json"
+          if git diff --cached --quiet; then
+            echo "Static map quiz catalog already current"
+            exit 0
+          fi
+          git commit -m "feat(i18n): add $LANG_CODE static map quiz copy"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
 
       - uses: actions/upload-artifact@v4
         if: always()
