@@ -91,11 +91,13 @@ export function extraLangsFor(poi: { parent?: string; frLong?: boolean; trLong?:
   };
   const countryId = Object.keys(nativeByCountry).find((id) => {
     const prefix = nativePrefixes[id];
-    return poi.parent === id || parentRegion?.parent === id || Boolean(prefix && poi.parent?.startsWith(`${prefix}-`));
+    return poi.parent === id
+      || parentRegion?.parent === id
+      || Boolean(prefix && (poi.parent === prefix || poi.parent?.startsWith(`${prefix}-`)));
   });
   const nativeLang = countryId ? nativeByCountry[countryId] : undefined;
   if (nativeLang) extras.push(nativeLang);
-  return extras;
+  return [...new Set(extras)];
 }
 
 function isDefinedPoi(poi: POI | null | undefined): poi is POI {
