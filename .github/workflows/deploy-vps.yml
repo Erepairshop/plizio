@@ -209,11 +209,11 @@ jobs:
             echo "BEFORE SHA unreachable → FULL"; echo "mode=full" >> "$GITHUB_OUTPUT"; exit 0
           fi
           CHANGED=$(git diff --name-only "$BEFORE" "$AFTER" || true)
-          echo "Changed files ($BEFORE..$AFTER):"; echo "$CHANGED" | head -60 || true
+          echo "Changed files ($BEFORE..$AFTER):"; sed -n '1,60p' <<< "$CHANGED"
           if [ -z "$CHANGED" ]; then
             echo "No changes → none (reuse)"; echo "mode=none" >> "$GITHUB_OUTPUT"; exit 0
           fi
-          if ! echo "$CHANGED" | grep -qE "$POI_AFFECTING"; then
+          if ! grep -qE "$POI_AFFECTING" <<< "$CHANGED"; then
             echo "UI-only commit → none (reuse from current release)"; echo "mode=none" >> "$GITHUB_OUTPUT"; exit 0
           fi
           echo "POI-affecting → delta (compute step decides delta-vs-full)"
