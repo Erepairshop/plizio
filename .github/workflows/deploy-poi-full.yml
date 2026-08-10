@@ -203,13 +203,12 @@ jobs:
           set -euo pipefail
           TS=$(date -u +%Y%m%d-%H%M%S)
           REL_DIR="${{ env.RELEASE_BASE }}/releases/${TS}"
-          mkdir -p "$REL_DIR"
-          PREV=$(readlink -f "${{ env.RELEASE_BASE }}/current" 2>/dev/null || echo "")
-          if [ -n "$PREV" ] && [ -d "$PREV" ]; then
-            rsync -a --delete --link-dest="$PREV/" out/ "$REL_DIR/"
-          else
-            cp -a out/. "$REL_DIR"/
-          fi
+          test -f out/index.html && test -d out/_next
+          # out/ is already a complete release seeded from current and overlaid
+          # with freshly generated POI content. Rename it atomically on the same
+          # filesystem instead of creating a third ~30 GB copy.
+          test ! -e "$REL_DIR"
+          mv out "$REL_DIR"
           test -f "$REL_DIR/index.html" && test -d "$REL_DIR/_next"
           chmod 755 "$REL_DIR"
           find "$REL_DIR" -type d ! -perm 755 -exec chmod 755 {} + || true
