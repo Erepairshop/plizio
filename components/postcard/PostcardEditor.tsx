@@ -129,6 +129,9 @@ export default function PostcardEditor() {
   const [lang, setLang] = useState<PostcardLanguage>("en");
   const [place, setPlace] = useState(COPY.en.placeDefault);
   const [country, setCountry] = useState(COPY.en.countryDefault);
+  const [latitude, setLatitude] = useState<number | undefined>();
+  const [longitude, setLongitude] = useState<number | undefined>();
+  const [placeKind, setPlaceKind] = useState("");
   const [message, setMessage] = useState(COPY.en.messageDefault);
   const [sender, setSender] = useState("");
   const [theme, setTheme] = useState<PostcardTheme>("vintage");
@@ -154,6 +157,13 @@ export default function PostcardEditor() {
     const initialCountry = params.get(`country_${preferredLanguage}`) || params.get("country");
     setPlace(initialPlace ? initialPlace.slice(0, 80) : preferredCopy.placeDefault);
     setCountry(initialCountry ? initialCountry.slice(0, 60) : preferredCopy.countryDefault);
+    const latitudeParam = params.get("lat");
+    const longitudeParam = params.get("lng");
+    const parsedLatitude = latitudeParam === null ? NaN : Number(latitudeParam);
+    const parsedLongitude = longitudeParam === null ? NaN : Number(longitudeParam);
+    setLatitude(Number.isFinite(parsedLatitude) && Math.abs(parsedLatitude) <= 90 ? parsedLatitude : undefined);
+    setLongitude(Number.isFinite(parsedLongitude) && Math.abs(parsedLongitude) <= 180 ? parsedLongitude : undefined);
+    setPlaceKind((params.get("kind") || "").slice(0, 40));
     setMessage(preferredCopy.messageDefault);
 
     async function loadPlaceImage() {
@@ -184,8 +194,8 @@ export default function PostcardEditor() {
 
   useEffect(() => {
     if (!canvasRef.current) return;
-    renderPostcard(canvasRef.current, imageRef.current, { place, country, message, sender, theme, date, lang });
-  }, [place, country, message, sender, theme, date, lang, photoName, imageRevision]);
+    renderPostcard(canvasRef.current, imageRef.current, { place, country, latitude, longitude, placeKind, message, sender, theme, date, lang });
+  }, [place, country, latitude, longitude, placeKind, message, sender, theme, date, lang, photoName, imageRevision]);
 
   useEffect(() => () => {
     if (objectUrlRef.current) URL.revokeObjectURL(objectUrlRef.current);

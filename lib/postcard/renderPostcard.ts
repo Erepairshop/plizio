@@ -6,6 +6,9 @@ export type PostcardLanguage = "hu" | "de" | "en" | "ro" | "it";
 export type PostcardContent = {
   place: string;
   country: string;
+  latitude?: number;
+  longitude?: number;
+  placeKind?: string;
   message: string;
   sender: string;
   date: string;

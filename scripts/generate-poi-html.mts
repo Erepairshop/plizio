@@ -1548,6 +1548,11 @@ function renderPostcardCta(poi: POI, lang: Lang, countryId: string): string {
   const t = poiHtmlUiSection(lang, "postcard", fallback);
   t.title = poiHtmlUiText(lang, "postcard.title", fallback.title, { place: placeName });
   const params = new URLSearchParams({ place: String(placeName), country: countryName, lang });
+  if (poi.coords && Number.isFinite(poi.coords[0]) && Number.isFinite(poi.coords[1])) {
+    params.set("lat", Number(poi.coords[1]).toFixed(5));
+    params.set("lng", Number(poi.coords[0]).toFixed(5));
+  }
+  if (poi.type) params.set("kind", String(poi.type));
   for (const postcardLang of SUPPORTED_LANGS) {
     params.set(`place_${postcardLang}`, String(getLocalized(poi.name, postcardLang) ?? placeName));
     params.set(`country_${postcardLang}`, slugs.localizedCountryName(countryId, postcardLang));
