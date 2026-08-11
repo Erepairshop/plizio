@@ -131,33 +131,138 @@ function drawTape(ctx: CanvasRenderingContext2D, x: number, y: number, w: number
   ctx.restore();
 }
 
+function stampSeed(value: string) {
+  let hash = 2166136261;
+  for (let i = 0; i < value.length; i++) {
+    hash ^= value.charCodeAt(i);
+    hash = Math.imul(hash, 16777619);
+  }
+  return hash >>> 0;
+}
+
+function drawStampMotif(ctx: CanvasRenderingContext2D, kind: string, seed: number) {
+  const normalized = kind.toLowerCase();
+  ctx.save();
+  ctx.translate(0, 5);
+  ctx.lineWidth = 4;
+  ctx.lineCap = "round";
+  ctx.lineJoin = "round";
+
+  if (/beach|coast|sea|lake|river|water|island/.test(normalized)) {
+    for (let row = 0; row < 3; row++) {
+      ctx.beginPath();
+      const y = -10 + row * 10;
+      ctx.moveTo(-36, y);
+      ctx.bezierCurveTo(-24, y - 8, -12, y + 8, 0, y);
+      ctx.bezierCurveTo(12, y - 8, 24, y + 8, 36, y);
+      ctx.stroke();
+    }
+  } else if (/mount|nature|park|forest|valley|volcan|landscape/.test(normalized)) {
+    const peak = 25 + (seed % 10);
+    ctx.beginPath();
+    ctx.moveTo(-42, 22);
+    ctx.lineTo(-13, -peak);
+    ctx.lineTo(2, -8);
+    ctx.lineTo(17, -27 + (seed % 7));
+    ctx.lineTo(43, 22);
+    ctx.stroke();
+    ctx.beginPath();
+    ctx.moveTo(-24, 5);
+    ctx.lineTo(-13, -peak);
+    ctx.lineTo(-4, -14);
+    ctx.stroke();
+  } else if (/castle|historic|monument|church|temple|palace|tower|museum/.test(normalized)) {
+    ctx.strokeRect(-29, -13, 58, 36);
+    ctx.beginPath();
+    ctx.moveTo(-35, -13);
+    ctx.lineTo(-35, -29);
+    ctx.lineTo(-24, -29);
+    ctx.lineTo(-24, -13);
+    ctx.moveTo(24, -13);
+    ctx.lineTo(24, -29);
+    ctx.lineTo(35, -29);
+    ctx.lineTo(35, -13);
+    ctx.moveTo(-6, 23);
+    ctx.lineTo(-6, 5);
+    ctx.arc(0, 5, 6, Math.PI, 0);
+    ctx.lineTo(6, 23);
+    ctx.stroke();
+  } else {
+    const leftHeight = 18 + (seed % 15);
+    const rightHeight = 22 + ((seed >>> 4) % 15);
+    ctx.beginPath();
+    ctx.moveTo(-43, 24);
+    ctx.lineTo(-43, 2);
+    ctx.lineTo(-29, 2);
+    ctx.lineTo(-29, -leftHeight);
+    ctx.lineTo(-12, -leftHeight);
+    ctx.lineTo(-12, 7);
+    ctx.lineTo(4, 7);
+    ctx.lineTo(4, -rightHeight);
+    ctx.lineTo(19, -rightHeight);
+    ctx.lineTo(19, -4);
+    ctx.lineTo(37, -4);
+    ctx.lineTo(37, 24);
+    ctx.stroke();
+    ctx.beginPath();
+    ctx.moveTo(-49, 24);
+    ctx.lineTo(45, 24);
+    ctx.stroke();
+  }
+  ctx.restore();
+}
+
 function drawStamp(ctx: CanvasRenderingContext2D, content: PostcardContent, x: number, y: number) {
   const palette = PALETTES[content.theme];
   const locale = UPPERCASE_LOCALE[content.lang];
+  const seed = stampSeed(`${content.place}|${content.country}`);
   ctx.save();
   ctx.translate(x, y);
-  ctx.rotate(-0.09);
+  ctx.rotate(-0.065 - (seed % 35) / 1000);
   ctx.strokeStyle = palette.accent;
   ctx.fillStyle = palette.accent;
-  ctx.lineWidth = 7;
-  ctx.setLineDash([5, 8]);
-  ctx.beginPath();
-  ctx.arc(0, 0, 122, 0, Math.PI * 2);
-  ctx.stroke();
+  ctx.globalAlpha = 0.88;
+  ctx.lineWidth = 6;
+  ctx.setLineDash([4 + (seed % 4), 7]);
+  for (let segment = 0; segment < 4; segment++) {
+    ctx.globalAlpha = 0.55 + ((seed >>> (segment * 3)) % 28) / 100;
+    ctx.beginPath();
+    const start = segment * Math.PI / 2 + 0.05;
+    ctx.arc(0, 0, 122, start, start + 1.34 + ((seed >>> segment) % 9) / 100);
+    ctx.stroke();
+  }
   ctx.setLineDash([]);
   ctx.lineWidth = 3;
+  ctx.globalAlpha = 0.72;
   ctx.beginPath();
   ctx.arc(0, 0, 101, 0, Math.PI * 2);
   ctx.stroke();
+  ctx.globalAlpha = 0.82;
+  for (let i = 0; i < 34; i++) {
+    const angle = ((seed % 360) + i * 137.5) * Math.PI / 180;
+    const radius = 88 + ((seed >>> (i % 20)) % 32);
+    const size = 1 + ((seed + i * 17) % 3);
+    ctx.fillRect(Math.cos(angle) * radius, Math.sin(angle) * radius, size, size);
+  }
   ctx.textAlign = "center";
   const place = (content.place || "PLIZIO").toLocaleUpperCase(locale);
   const country = (content.country || "POSTCARD").toLocaleUpperCase(locale);
-  fitFont(ctx, place, 174, 27, 12, "700 {size}px Georgia, serif");
-  ctx.fillText(place, 0, -36);
-  fitFont(ctx, country, 166, 21, 11, "700 {size}px Georgia, serif");
-  ctx.fillText(country, 0, 50);
-  ctx.font = "48px Georgia, serif";
-  ctx.fillText("*", 0, 17);
+  ctx.globalAlpha = 0.9;
+  fitFont(ctx, place, 176, 25, 12, "700 {size}px Georgia, serif");
+  ctx.fillText(place, 0, -62);
+  drawStampMotif(ctx, content.placeKind || "", seed);
+  ctx.font = "700 14px Arial, sans-serif";
+  ctx.fillText(content.date.toLocaleUpperCase(locale), 0, 48);
+  if (content.latitude != null && content.longitude != null) {
+    const coordinates = `${Math.abs(content.latitude).toFixed(3)}\u00b0${content.latitude >= 0 ? "N" : "S"}  ${Math.abs(content.longitude).toFixed(3)}\u00b0${content.longitude >= 0 ? "E" : "W"}`;
+    ctx.font = "700 12px Arial, sans-serif";
+    ctx.fillText(coordinates, 0, 66);
+    fitFont(ctx, country, 160, 14, 10, "700 {size}px Georgia, serif");
+    ctx.fillText(country, 0, 84);
+  } else {
+    fitFont(ctx, country, 166, 17, 10, "700 {size}px Georgia, serif");
+    ctx.fillText(country, 0, 75);
+  }
   ctx.restore();
 }
 

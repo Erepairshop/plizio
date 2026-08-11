@@ -520,3 +520,17 @@ Nem váltja ki a `CLAUDE.md`-t, hanem gyors képbehozásra szolgál.
 - Tartós felülírás: `lib/seo/poiImageOverrides.ts`. Erre azért van szükség, mert
   az ignorált aggregált POI-chunk gazdagabb duplikátuma felülírhatja a közvetlen
   TS-forrás képmezőjét; az override-ot a SEO-index és a full POI-loader is alkalmazza.
+
+## Egyedi helypecsét a képeslapon - 2026-08-11
+
+- A képeslap pecsétje a hely nevéből stabil tintakopást és enyhe elfordulást képez,
+  ezért helyenként egyedi, de szerkesztés közben nem változik véletlenszerűen.
+- A pecsét közepe a POI `type` alapján városi sziluettet, táj/hegy, vízpart vagy
+  történelmi épület motívumot rajzol. Ismeretlen típusnál stabil városi emblémára esik vissza.
+- A statikus POI HTML generator és a régi dinamikus POI route `lat`, `lng` és `kind`
+  paramétert ad a `/postcard/` linkhez. A pecsét dátumot és valódi POI-koordinátát mutat.
+- Kézzel megadott helynél vagy hiányzó/érvénytelen paraméternél nincs koordináta a
+  pecséten; a rendszer nem talál ki helyadatot.
+- Érintett fájlok: `scripts/generate-poi-html.mts`, `components/postcard/PostcardEditor.tsx`,
+  `lib/postcard/renderPostcard.ts`, `lib/postcard/renderStyledPostcard.ts` és a régi
+  `app/[lang]/[country]/[state]/[poi]/page.tsx`.
