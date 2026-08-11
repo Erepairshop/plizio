@@ -1,4 +1,4 @@
-import type { PostcardContent, PostcardLanguage, PostcardTheme } from "./renderPostcard";
+import type { PostcardContent, PostcardFont, PostcardLanguage, PostcardPhotoEdit, PostcardTextAlign, PostcardTheme } from "./renderPostcard";
 
 type Palette = { ink: string; accent: string; paper: string };
 
@@ -20,11 +20,31 @@ const COPY: Record<PostcardLanguage, { journey: string; keepsake: string; messag
 
 const UPPERCASE_LOCALE: Record<PostcardLanguage, string> = { de: "de-DE", hu: "hu-HU", en: "en-US", ro: "ro-RO", it: "it-IT" };
 
-function coverImage(ctx: CanvasRenderingContext2D, image: HTMLImageElement, x: number, y: number, w: number, h: number) {
-  const scale = Math.max(w / image.naturalWidth, h / image.naturalHeight);
-  const sw = w / scale;
-  const sh = h / scale;
-  ctx.drawImage(image, (image.naturalWidth - sw) / 2, (image.naturalHeight - sh) / 2, sw, sh, x, y, w, h);
+const FONT_FAMILIES: Record<PostcardFont, string> = {
+  classic: "Georgia, serif",
+  handwritten: '"Segoe Print", "Bradley Hand", cursive',
+  editorial: '"Palatino Linotype", Palatino, Georgia, serif',
+  modern: '"Trebuchet MS", Arial, sans-serif',
+  typewriter: '"Courier New", monospace',
+};
+
+function clamp(value: number, minimum: number, maximum: number) {
+  return Math.min(maximum, Math.max(minimum, value));
+}
+
+function coverImage(ctx: CanvasRenderingContext2D, image: HTMLImageElement, x: number, y: number, w: number, h: number, edit: PostcardPhotoEdit) {
+  const angle = clamp(edit.rotation, -15, 15) * Math.PI / 180;
+  const rotationSafety = 1 + Math.abs(Math.sin(angle)) * 0.3;
+  const offsetSafety = 1 + Math.max(Math.abs(edit.offsetX), Math.abs(edit.offsetY)) / 100 * 0.7;
+  const scale = Math.max(w / image.naturalWidth, h / image.naturalHeight) * clamp(edit.zoom, 1, 2) * rotationSafety * offsetSafety;
+  const centerX = x + w / 2 + clamp(edit.offsetX, -100, 100) / 100 * w * 0.34;
+  const centerY = y + h / 2 + clamp(edit.offsetY, -100, 100) / 100 * h * 0.34;
+  ctx.save();
+  ctx.filter = `brightness(${clamp(edit.brightness, 50, 150)}%) contrast(${clamp(edit.contrast, 50, 150)}%) saturate(${clamp(edit.saturation, 0, 180)}%)`;
+  ctx.translate(centerX, centerY);
+  ctx.rotate(angle);
+  ctx.drawImage(image, -image.naturalWidth * scale / 2, -image.naturalHeight * scale / 2, image.naturalWidth * scale, image.naturalHeight * scale);
+  ctx.restore();
 }
 
 function wrappedLines(ctx: CanvasRenderingContext2D, text: string, maxWidth: number) {
@@ -47,8 +67,12 @@ function wrappedLines(ctx: CanvasRenderingContext2D, text: string, maxWidth: num
   return lines.length ? lines : [""];
 }
 
-function drawLines(ctx: CanvasRenderingContext2D, lines: string[], x: number, y: number, lineHeight: number) {
-  lines.forEach((line, index) => ctx.fillText(line, x, y + index * lineHeight));
+function drawLines(ctx: CanvasRenderingContext2D, lines: string[], x: number, y: number, lineHeight: number, align: PostcardTextAlign = "left", width = 0) {
+  ctx.save();
+  ctx.textAlign = align;
+  const anchor = align === "center" ? x + width / 2 : align === "right" ? x + width : x;
+  lines.forEach((line, index) => ctx.fillText(line, anchor, y + index * lineHeight));
+  ctx.restore();
 }
 
 function fitFont(ctx: CanvasRenderingContext2D, text: string, maxWidth: number, start: number, minimum: number, pattern: string) {
@@ -95,12 +119,12 @@ function drawFallbackPhoto(ctx: CanvasRenderingContext2D, x: number, y: number, 
   ctx.fill();
 }
 
-function drawPhoto(ctx: CanvasRenderingContext2D, image: HTMLImageElement | null, x: number, y: number, w: number, h: number, palette: Palette, radius = 0) {
+function drawPhoto(ctx: CanvasRenderingContext2D, image: HTMLImageElement | null, x: number, y: number, w: number, h: number, palette: Palette, edit: PostcardPhotoEdit, radius = 0) {
   ctx.save();
   if (radius) roundedRect(ctx, x, y, w, h, radius);
   else { ctx.beginPath(); ctx.rect(x, y, w, h); }
   ctx.clip();
-  if (image) coverImage(ctx, image, x, y, w, h);
+  if (image) coverImage(ctx, image, x, y, w, h, edit);
   else drawFallbackPhoto(ctx, x, y, w, h, palette);
   ctx.restore();
 }
@@ -212,7 +236,7 @@ function drawStampMotif(ctx: CanvasRenderingContext2D, kind: string, seed: numbe
   ctx.restore();
 }
 
-function drawStamp(ctx: CanvasRenderingContext2D, content: PostcardContent, x: number, y: number) {
+function drawLocalStamp(ctx: CanvasRenderingContext2D, content: PostcardContent, x: number, y: number) {
   const palette = PALETTES[content.theme];
   const locale = UPPERCASE_LOCALE[content.lang];
   const seed = stampSeed(`${content.place}|${content.country}`);
@@ -266,6 +290,122 @@ function drawStamp(ctx: CanvasRenderingContext2D, content: PostcardContent, x: n
   ctx.restore();
 }
 
+function stampPlace(content: PostcardContent) {
+  return (content.place || "PLIZIO").toLocaleUpperCase(UPPERCASE_LOCALE[content.lang]);
+}
+
+function drawPassportStamp(ctx: CanvasRenderingContext2D, content: PostcardContent, x: number, y: number) {
+  const palette = PALETTES[content.theme];
+  ctx.save();
+  ctx.translate(x, y);
+  ctx.rotate(-0.075);
+  ctx.strokeStyle = palette.accent;
+  ctx.fillStyle = palette.accent;
+  ctx.globalAlpha = 0.84;
+  ctx.lineWidth = 5;
+  roundedRect(ctx, -126, -92, 252, 184, 18);
+  ctx.stroke();
+  ctx.lineWidth = 2;
+  roundedRect(ctx, -114, -80, 228, 160, 12);
+  ctx.stroke();
+  ctx.textAlign = "center";
+  fitFont(ctx, stampPlace(content), 198, 24, 12, "800 {size}px Georgia, serif");
+  ctx.fillText(stampPlace(content), 0, -47);
+  drawStampMotif(ctx, content.placeKind || "", stampSeed(content.place));
+  ctx.font = "800 14px Arial, sans-serif";
+  ctx.fillText(`PASSPORT  /  ${content.date}`, 0, 62);
+  ctx.restore();
+}
+
+function drawAirmailStamp(ctx: CanvasRenderingContext2D, content: PostcardContent, x: number, y: number) {
+  const palette = PALETTES[content.theme];
+  ctx.save();
+  ctx.translate(x, y);
+  ctx.rotate(-0.04);
+  ctx.strokeStyle = palette.accent;
+  ctx.fillStyle = palette.accent;
+  ctx.globalAlpha = 0.84;
+  ctx.lineWidth = 5;
+  ctx.beginPath();
+  ctx.ellipse(0, 0, 138, 88, 0, 0, Math.PI * 2);
+  ctx.stroke();
+  ctx.lineWidth = 2;
+  ctx.beginPath();
+  ctx.ellipse(0, 0, 123, 74, 0, 0, Math.PI * 2);
+  ctx.stroke();
+  ctx.textAlign = "center";
+  fitFont(ctx, stampPlace(content), 205, 23, 12, "800 {size}px Arial, sans-serif");
+  ctx.fillText(stampPlace(content), 0, -42);
+  ctx.lineWidth = 4;
+  ctx.beginPath();
+  ctx.moveTo(-62, 12); ctx.lineTo(60, -10); ctx.lineTo(17, 24); ctx.lineTo(2, 21); ctx.lineTo(31, -2); ctx.lineTo(-24, 8); ctx.lineTo(-43, 27); ctx.lineTo(-55, 27); ctx.lineTo(-42, 15); ctx.closePath();
+  ctx.stroke();
+  ctx.font = "800 14px Arial, sans-serif";
+  ctx.fillText(content.date, 0, 58);
+  ctx.restore();
+}
+
+function drawRailStamp(ctx: CanvasRenderingContext2D, content: PostcardContent, x: number, y: number) {
+  const palette = PALETTES[content.theme];
+  ctx.save();
+  ctx.translate(x, y);
+  ctx.rotate(-0.025);
+  ctx.strokeStyle = palette.accent;
+  ctx.fillStyle = palette.accent;
+  ctx.globalAlpha = 0.84;
+  ctx.lineWidth = 4;
+  ctx.strokeRect(-134, -88, 268, 176);
+  ctx.setLineDash([8, 7]);
+  ctx.strokeRect(-121, -75, 242, 150);
+  ctx.setLineDash([]);
+  ctx.textAlign = "center";
+  fitFont(ctx, stampPlace(content), 210, 23, 12, "800 {size}px Georgia, serif");
+  ctx.fillText(stampPlace(content), 0, -42);
+  ctx.lineWidth = 3;
+  for (let line = -1; line <= 1; line += 2) {
+    ctx.beginPath(); ctx.moveTo(-72, line * 11); ctx.lineTo(72, line * 11); ctx.stroke();
+  }
+  for (let sleeper = -60; sleeper <= 60; sleeper += 20) {
+    ctx.beginPath(); ctx.moveTo(sleeper, -18); ctx.lineTo(sleeper, 18); ctx.stroke();
+  }
+  ctx.font = "800 14px Arial, sans-serif";
+  ctx.fillText(`RAIL JOURNEY  ${content.date}`, 0, 55);
+  ctx.restore();
+}
+
+function drawModernStamp(ctx: CanvasRenderingContext2D, content: PostcardContent, x: number, y: number) {
+  const palette = PALETTES[content.theme];
+  ctx.save();
+  ctx.translate(x, y);
+  ctx.strokeStyle = palette.accent;
+  ctx.fillStyle = palette.accent;
+  ctx.globalAlpha = 0.88;
+  ctx.lineWidth = 5;
+  ctx.strokeRect(-105, -105, 210, 210);
+  ctx.lineWidth = 2;
+  ctx.strokeRect(-92, -92, 184, 184);
+  ctx.beginPath();
+  ctx.arc(0, -5, 34, 0, Math.PI * 2);
+  ctx.moveTo(-52, -5); ctx.lineTo(52, -5); ctx.moveTo(0, -57); ctx.lineTo(0, 47);
+  ctx.stroke();
+  ctx.textAlign = "center";
+  fitFont(ctx, stampPlace(content), 168, 20, 11, "800 {size}px Arial, sans-serif");
+  ctx.fillText(stampPlace(content), 0, -68);
+  ctx.font = "800 13px Arial, sans-serif";
+  const coords = content.latitude != null && content.longitude != null ? `${content.latitude.toFixed(2)} / ${content.longitude.toFixed(2)}` : "PLIZIO / TRAVEL";
+  ctx.fillText(coords, 0, 66);
+  ctx.fillText(content.date, 0, 84);
+  ctx.restore();
+}
+
+function drawStamp(ctx: CanvasRenderingContext2D, content: PostcardContent, x: number, y: number) {
+  if (content.stamp === "passport") drawPassportStamp(ctx, content, x, y);
+  else if (content.stamp === "airmail") drawAirmailStamp(ctx, content, x, y);
+  else if (content.stamp === "rail") drawRailStamp(ctx, content, x, y);
+  else if (content.stamp === "modern") drawModernStamp(ctx, content, x, y);
+  else drawLocalStamp(ctx, content, x, y);
+}
+
 function drawFooter(ctx: CanvasRenderingContext2D, content: PostcardContent, canvasHeight: number, ink: string, x = 1080) {
   ctx.save();
   ctx.fillStyle = ink;
@@ -283,11 +423,11 @@ export function renderStyledPostcard(canvas: HTMLCanvasElement, image: HTMLImage
   const copy = COPY[content.lang];
   const place = content.place || copy.journey;
   const country = content.country || copy.keepsake;
-  const messageFont = content.theme === "minimal" ? "38px Georgia, serif" : "italic 42px Georgia, serif";
+  const messageFont = `${content.font === "classic" && content.theme !== "minimal" ? "italic " : ""}${clamp(content.fontSize, 30, 54)}px ${FONT_FAMILIES[content.font]}`;
   const messageWidth = content.theme === "vintage" ? 650 : content.theme === "minimal" ? 1000 : 900;
   ctx.font = messageFont;
   const messageLines = wrappedLines(ctx, content.message || copy.message, messageWidth);
-  const lineHeight = content.theme === "minimal" ? 56 : 60;
+  const lineHeight = Math.round(clamp(content.fontSize, 30, 54) * 1.42);
   const canvasHeight = Math.max(1500, 1190 + messageLines.length * lineHeight + 170);
   canvas.width = 1200;
   canvas.height = canvasHeight;
@@ -313,7 +453,7 @@ function drawVintage(ctx: CanvasRenderingContext2D, image: HTMLImageElement | nu
   ctx.strokeRect(70, 70, 1060, height - 140);
   ctx.lineWidth = 1;
   ctx.strokeRect(82, 82, 1036, height - 164);
-  drawPhoto(ctx, image, 100, 100, 1000, 790, palette);
+  drawPhoto(ctx, image, 100, 100, 1000, 790, palette, content.photoEdit);
   ctx.fillStyle = "rgba(91,58,31,.16)";
   ctx.fillRect(100, 100, 1000, 790);
   const shade = ctx.createLinearGradient(0, 590, 0, 890);
@@ -328,7 +468,7 @@ function drawVintage(ctx: CanvasRenderingContext2D, image: HTMLImageElement | nu
   ctx.fillText(country.toUpperCase(), 145, 842);
   ctx.fillStyle = palette.ink;
   ctx.font = font;
-  drawLines(ctx, lines, 125, 1015, lineHeight);
+  drawLines(ctx, lines, 125, 1015, lineHeight, content.textAlign, 650);
   ctx.font = "600 29px Georgia, serif";
   ctx.fillText(sender, 125, height - 150);
   drawStamp(ctx, content, 935, height - 325);
@@ -349,7 +489,7 @@ function drawPolaroid(ctx: CanvasRenderingContext2D, image: HTMLImageElement | n
   ctx.fillStyle = "#fbfaf5";
   ctx.fillRect(82, 62, 1036, height - 124);
   ctx.restore();
-  drawPhoto(ctx, image, 130, 112, 940, 720, palette, 3);
+  drawPhoto(ctx, image, 130, 112, 940, 720, palette, content.photoEdit, 3);
   ctx.fillStyle = palette.ink;
   fitFont(ctx, place, 900, 73, 34, "italic 600 {size}px Georgia, serif");
   ctx.fillText(place, 140, 930);
@@ -363,11 +503,12 @@ function drawPolaroid(ctx: CanvasRenderingContext2D, image: HTMLImageElement | n
   ctx.stroke();
   ctx.fillStyle = palette.ink;
   ctx.font = font;
-  drawLines(ctx, lines, 140, 1100, lineHeight);
+  drawLines(ctx, lines, 140, 1100, lineHeight, content.textAlign, 900);
   ctx.font = "italic 31px Georgia, serif";
   ctx.fillText(sender, 140, height - 145);
   drawTape(ctx, 205, 94, 170, -0.08);
   drawTape(ctx, 995, 98, 150, 0.07);
+  drawStamp(ctx, content, 930, height - 330);
   drawFooter(ctx, content, height, palette.ink, 1050);
 }
 
@@ -386,7 +527,7 @@ function drawAirmail(ctx: CanvasRenderingContext2D, image: HTMLImageElement | nu
   }
   ctx.fillStyle = "#fffaf0";
   ctx.fillRect(48, 48, 1104, height - 96);
-  drawPhoto(ctx, image, 95, 95, 1010, 650, palette, 10);
+  drawPhoto(ctx, image, 95, 95, 1010, 650, palette, content.photoEdit, 10);
   ctx.fillStyle = palette.ink;
   fitFont(ctx, place, 950, 70, 34, "800 {size}px Arial, sans-serif");
   ctx.fillText(place.toUpperCase(), 105, 845);
@@ -402,7 +543,7 @@ function drawAirmail(ctx: CanvasRenderingContext2D, image: HTMLImageElement | nu
   }
   ctx.fillStyle = palette.ink;
   ctx.font = font;
-  drawLines(ctx, lines, 120, 1000, lineHeight);
+  drawLines(ctx, lines, 120, 1000, lineHeight, content.textAlign, 900);
   ctx.font = "600 29px Arial, sans-serif";
   ctx.fillText(sender, 120, height - 145);
   drawStamp(ctx, content, 940, height - 325);
@@ -433,7 +574,7 @@ function drawScrapbook(ctx: CanvasRenderingContext2D, image: HTMLImageElement | 
   ctx.fillStyle = "#fffaf0";
   ctx.fillRect(-485, -370, 970, 750);
   ctx.shadowColor = "transparent";
-  drawPhoto(ctx, image, -450, -335, 900, 650, palette);
+  drawPhoto(ctx, image, -450, -335, 900, 650, palette, content.photoEdit);
   ctx.restore();
   drawTape(ctx, 215, 108, 190, -0.12);
   drawTape(ctx, 984, 125, 175, 0.11);
@@ -454,20 +595,21 @@ function drawScrapbook(ctx: CanvasRenderingContext2D, image: HTMLImageElement | 
   }
   ctx.fillStyle = palette.ink;
   ctx.font = font;
-  drawLines(ctx, lines, 130, 1040, lineHeight);
+  drawLines(ctx, lines, 130, 1040, lineHeight, content.textAlign, 820);
   ctx.font = "600 30px Georgia, serif";
   ctx.fillText(sender, 130, height - 150);
   ctx.fillStyle = "#d39b37";
   ctx.font = "60px Georgia, serif";
   ctx.fillText("*", 1010, 900);
   ctx.fillText("+", 1048, 965);
+  drawStamp(ctx, content, 945, height - 330);
   drawFooter(ctx, content, height, palette.ink);
 }
 
 function drawMinimal(ctx: CanvasRenderingContext2D, image: HTMLImageElement | null, content: PostcardContent, palette: Palette, place: string, country: string, lines: string[], font: string, lineHeight: number, height: number, sender: string) {
   ctx.fillStyle = palette.paper;
   ctx.fillRect(0, 0, 1200, height);
-  drawPhoto(ctx, image, 65, 65, 710, 805, palette, 4);
+  drawPhoto(ctx, image, 65, 65, 710, 805, palette, content.photoEdit, 4);
   ctx.fillStyle = palette.accent;
   ctx.fillRect(825, 130, 68, 8);
   ctx.fillStyle = palette.ink;
@@ -487,11 +629,12 @@ function drawMinimal(ctx: CanvasRenderingContext2D, image: HTMLImageElement | nu
   ctx.fillText(content.date, 825, 585);
   ctx.globalAlpha = 1;
   ctx.font = font;
-  drawLines(ctx, lines, 90, 1010, lineHeight);
+  drawLines(ctx, lines, 90, 1010, lineHeight, content.textAlign, 760);
   ctx.fillStyle = palette.accent;
   ctx.fillRect(90, 935, 1000, 3);
   ctx.fillStyle = palette.ink;
   ctx.font = "600 28px Arial, sans-serif";
   ctx.fillText(sender, 90, height - 145);
+  drawStamp(ctx, content, 965, 755);
   drawFooter(ctx, content, height, palette.ink);
 }

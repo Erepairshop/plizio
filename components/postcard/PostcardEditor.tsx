@@ -1,11 +1,21 @@
 "use client";
 
 import { ChangeEvent, useEffect, useRef, useState } from "react";
-import { Camera, Check, Copy, Download, Globe2, ImagePlus, Link2, LoaderCircle, MapPin, Send, ShieldCheck, Sparkles } from "lucide-react";
-import { canvasToBlob, renderPostcard, type PostcardLanguage, type PostcardTheme } from "@/lib/postcard/renderPostcard";
+import { AlignCenter, AlignLeft, AlignRight, Camera, Check, Copy, Download, Globe2, ImagePlus, Link2, LoaderCircle, MapPin, RotateCcw, Send, ShieldCheck, SlidersHorizontal, Sparkles, Stamp, Type } from "lucide-react";
+import { canvasToBlob, renderPostcard, type PostcardFont, type PostcardLanguage, type PostcardPhotoEdit, type PostcardStamp, type PostcardTextAlign, type PostcardTheme } from "@/lib/postcard/renderPostcard";
 import { getLanguage } from "@/lib/language";
 
 const themes: PostcardTheme[] = ["vintage", "polaroid", "airmail", "scrapbook", "minimal"];
+const fonts: PostcardFont[] = ["classic", "handwritten", "editorial", "modern", "typewriter"];
+const stamps: PostcardStamp[] = ["local", "passport", "airmail", "rail", "modern"];
+const DEFAULT_PHOTO_EDIT: PostcardPhotoEdit = { zoom: 1, offsetX: 0, offsetY: 0, rotation: 0, brightness: 100, contrast: 100, saturation: 100 };
+const FONT_PREVIEWS: Record<PostcardFont, string> = {
+  classic: "Georgia, serif",
+  handwritten: '"Segoe Print", "Bradley Hand", cursive',
+  editorial: '"Palatino Linotype", Palatino, Georgia, serif',
+  modern: '"Trebuchet MS", Arial, sans-serif',
+  typewriter: '"Courier New", monospace',
+};
 type ShareExpiry = "7" | "30" | "forever";
 
 const COPY = {
@@ -15,6 +25,9 @@ const COPY = {
     intro: "Gestalte eine echte, persönliche Postkarte aus deinem eigenen Foto. Ohne Anmeldung; dein Bild bleibt auf dem Gerät, bis du bewusst einen teilbaren Link erstellst.",
     place: "Ort", country: "Land", choosePhoto: "Eigenes Foto auswählen", photoHint: "JPG, PNG oder Smartphone-Foto", message: "Nachricht",
     sender: "Unterschrift", senderPlaceholder: "Dein Name (optional)", style: "Stil", themes: { vintage: "Vintage", polaroid: "Polaroid", airmail: "Luftpost", scrapbook: "Reisetagebuch", minimal: "Minimal" },
+    photoEdit: "Foto bearbeiten", zoom: "Zoom", horizontal: "Horizontal", vertical: "Vertikal", rotation: "Drehung", brightness: "Helligkeit", contrast: "Kontrast", saturation: "Sättigung", reset: "Zurücksetzen",
+    textDesign: "Text gestalten", font: "Schrift", fontSize: "Größe", alignment: "Ausrichtung", fonts: { classic: "Klassisch", handwritten: "Handschrift", editorial: "Editorial", modern: "Modern", typewriter: "Schreibmaschine" },
+    stampStyle: "Stempel wählen", stamps: { local: "Ortsstempel", passport: "Reisepass", airmail: "Luftpost", rail: "Bahnreise", modern: "Koordinaten" },
     share: "Teilen", download: "Herunterladen", privacy: "Standardmäßig bleibt dein Foto auf dem Gerät. Es wird nur hochgeladen, wenn du ausdrücklich einen teilbaren Link erstellst.",
     preview: "Die Vorschau wird automatisch aktualisiert", previewLabel: "Postkartenvorschau", invalidImage: "Bitte wähle eine Bilddatei aus.",
     imageError: "Das Bild konnte nicht geöffnet werden.", ready: "Die Postkarte ist fertig.", shareTitle: (place: string) => `Grüße aus ${place}`,
@@ -31,6 +44,9 @@ const COPY = {
     intro: "Készíts valódi, személyes képeslapot saját fotódból. Nincs regisztráció; a képed addig marad az eszközödön, amíg külön megosztható linket nem készítesz.",
     place: "Hely", country: "Ország", choosePhoto: "Saját fotó kiválasztása", photoHint: "JPG, PNG vagy telefonos fotó", message: "Üzenet",
     sender: "Aláírás", senderPlaceholder: "A neved (nem kötelező)", style: "Stílus", themes: { vintage: "Vintage", polaroid: "Polaroid", airmail: "Légiposta", scrapbook: "Utazási napló", minimal: "Minimal" },
+    photoEdit: "Fotó szerkesztése", zoom: "Nagyítás", horizontal: "Vízszintes", vertical: "Függőleges", rotation: "Forgatás", brightness: "Fényerő", contrast: "Kontraszt", saturation: "Színtelítettség", reset: "Alaphelyzet",
+    textDesign: "Szöveg formázása", font: "Betűtípus", fontSize: "Méret", alignment: "Igazítás", fonts: { classic: "Klasszikus", handwritten: "Kézírás", editorial: "Elegáns", modern: "Modern", typewriter: "Írógép" },
+    stampStyle: "Bélyegző kiválasztása", stamps: { local: "Helyi pecsét", passport: "Útlevél", airmail: "Légiposta", rail: "Vasúti", modern: "Koordináta" },
     share: "Megosztás", download: "Letöltés", privacy: "Alapértelmezésben a fotó az eszközödön marad. Csak akkor töltjük fel, ha külön megosztható linket készítesz.",
     preview: "Az előnézet automatikusan frissül", previewLabel: "A képeslap előnézete", invalidImage: "Kérlek, képfájlt válassz.",
     imageError: "A képet nem sikerült megnyitni.", ready: "A képeslap elkészült.", shareTitle: (place: string) => `Üdvözlet ${place} városából`,
@@ -47,6 +63,9 @@ const COPY = {
     intro: "Create a real, personal postcard from your own photo. No sign-up; your image stays on your device until you deliberately create a shareable link.",
     place: "Place", country: "Country", choosePhoto: "Choose your own photo", photoHint: "JPG, PNG or smartphone photo", message: "Message",
     sender: "Signature", senderPlaceholder: "Your name (optional)", style: "Style", themes: { vintage: "Vintage", polaroid: "Polaroid", airmail: "Air mail", scrapbook: "Scrapbook", minimal: "Minimal" },
+    photoEdit: "Edit photo", zoom: "Zoom", horizontal: "Horizontal", vertical: "Vertical", rotation: "Rotation", brightness: "Brightness", contrast: "Contrast", saturation: "Saturation", reset: "Reset",
+    textDesign: "Style text", font: "Font", fontSize: "Size", alignment: "Alignment", fonts: { classic: "Classic", handwritten: "Handwritten", editorial: "Editorial", modern: "Modern", typewriter: "Typewriter" },
+    stampStyle: "Choose stamp", stamps: { local: "Local mark", passport: "Passport", airmail: "Air mail", rail: "Rail journey", modern: "Coordinates" },
     share: "Share", download: "Download", privacy: "By default, your photo stays on your device. It is uploaded only when you explicitly create a shareable link.",
     preview: "The preview updates automatically", previewLabel: "Postcard preview", invalidImage: "Please choose an image file.",
     imageError: "The image could not be opened.", ready: "Your postcard is ready.", shareTitle: (place: string) => `Greetings from ${place}`,
@@ -63,6 +82,9 @@ const COPY = {
     intro: "Creează o carte poștală personală din fotografia ta. Fără înregistrare; imaginea rămâne pe dispozitiv până când creezi în mod intenționat un link de distribuire.",
     place: "Loc", country: "Țară", choosePhoto: "Alege fotografia ta", photoHint: "JPG, PNG sau fotografie de telefon", message: "Mesaj",
     sender: "Semnătură", senderPlaceholder: "Numele tău (opțional)", style: "Stil", themes: { vintage: "Vintage", polaroid: "Polaroid", airmail: "Poștă aeriană", scrapbook: "Jurnal de călătorie", minimal: "Minimal" },
+    photoEdit: "Editează fotografia", zoom: "Zoom", horizontal: "Orizontal", vertical: "Vertical", rotation: "Rotire", brightness: "Luminozitate", contrast: "Contrast", saturation: "Saturație", reset: "Resetează",
+    textDesign: "Stilizează textul", font: "Font", fontSize: "Mărime", alignment: "Aliniere", fonts: { classic: "Clasic", handwritten: "Scris de mână", editorial: "Editorial", modern: "Modern", typewriter: "Mașină de scris" },
+    stampStyle: "Alege ștampila", stamps: { local: "Ștampilă locală", passport: "Pașaport", airmail: "Poștă aeriană", rail: "Călătorie feroviară", modern: "Coordonate" },
     share: "Distribuie", download: "Descarcă", privacy: "În mod implicit, fotografia rămâne pe dispozitiv. Este încărcată doar dacă creezi în mod explicit un link de distribuire.",
     preview: "Previzualizarea se actualizează automat", previewLabel: "Previzualizarea cărții poștale", invalidImage: "Alege un fișier imagine.",
     imageError: "Imaginea nu a putut fi deschisă.", ready: "Cartea poștală este gata.", shareTitle: (place: string) => `Salutări din ${place}`,
@@ -79,6 +101,9 @@ const COPY = {
     intro: "Crea una cartolina personale con la tua foto. Non serve registrarsi; l'immagine resta sul dispositivo finché non scegli di creare un link condivisibile.",
     place: "Luogo", country: "Paese", choosePhoto: "Scegli una foto", photoHint: "JPG, PNG o foto dello smartphone", message: "Messaggio",
     sender: "Firma", senderPlaceholder: "Il tuo nome (opzionale)", style: "Stile", themes: { vintage: "Vintage", polaroid: "Polaroid", airmail: "Posta aerea", scrapbook: "Diario di viaggio", minimal: "Minimal" },
+    photoEdit: "Modifica foto", zoom: "Zoom", horizontal: "Orizzontale", vertical: "Verticale", rotation: "Rotazione", brightness: "Luminosità", contrast: "Contrasto", saturation: "Saturazione", reset: "Ripristina",
+    textDesign: "Stile del testo", font: "Carattere", fontSize: "Dimensione", alignment: "Allineamento", fonts: { classic: "Classico", handwritten: "Corsivo", editorial: "Editoriale", modern: "Moderno", typewriter: "Macchina da scrivere" },
+    stampStyle: "Scegli timbro", stamps: { local: "Timbro locale", passport: "Passaporto", airmail: "Posta aerea", rail: "Viaggio in treno", modern: "Coordinate" },
     share: "Condividi", download: "Scarica", privacy: "La foto resta sul dispositivo per impostazione predefinita. Viene caricata solo quando crei esplicitamente un link condivisibile.",
     preview: "L'anteprima si aggiorna automaticamente", previewLabel: "Anteprima della cartolina", invalidImage: "Scegli un file immagine.",
     imageError: "Impossibile aprire l'immagine.", ready: "La cartolina è pronta.", shareTitle: (place: string) => `Saluti da ${place}`,
@@ -122,6 +147,19 @@ function ThemePreview({ theme }: { theme: PostcardTheme }) {
   return <span className="relative block h-16 overflow-hidden rounded-lg border border-[#d8d4ca] bg-[#fbfaf6]"><span className="absolute bottom-2 left-2 top-2 w-[58%] bg-gradient-to-br from-[#b9c9c3] to-[#7f9c98]" /><span className="absolute right-2 top-3 h-px w-7 bg-[#252a28]" /><span className="absolute right-2 top-6 h-1.5 w-8 bg-[#252a28]" /><span className="absolute right-2 top-9 h-px w-6 bg-[#8a8d87]" /></span>;
 }
 
+function StampPreview({ stamp }: { stamp: PostcardStamp }) {
+  const common = "grid h-14 place-items-center text-[#a54231] opacity-80";
+  if (stamp === "local") return <span className={common}><span className="grid h-11 w-11 rotate-[-7deg] place-items-center rounded-full border-2 border-dashed border-current text-[8px] font-black">PLIZIO</span></span>;
+  if (stamp === "passport") return <span className={common}><span className="grid h-10 w-14 rotate-[-4deg] place-items-center rounded-md border-[3px] border-double border-current text-[8px] font-black">PASSPORT</span></span>;
+  if (stamp === "airmail") return <span className={common}><span className="grid h-9 w-16 rotate-[-3deg] place-items-center rounded-[50%] border-[3px] border-double border-current text-base">✈</span></span>;
+  if (stamp === "rail") return <span className={common}><span className="grid h-10 w-16 place-items-center border-2 border-dashed border-current text-[8px] font-black">RAIL</span></span>;
+  return <span className={common}><span className="relative grid h-12 w-12 place-items-center border-2 border-current text-[8px] font-black before:absolute before:h-px before:w-8 before:bg-current after:absolute after:h-8 after:w-px after:bg-current">GPS</span></span>;
+}
+
+function RangeControl({ label, value, min, max, step = 1, unit = "", onChange }: { label: string; value: number; min: number; max: number; step?: number; unit?: string; onChange: (value: number) => void }) {
+  return <label className="block"><span className="mb-1.5 flex items-center justify-between gap-3 text-xs font-semibold text-[#625446]"><span>{label}</span><span className="tabular-nums text-[#9b4632]">{value}{unit}</span></span><input type="range" min={min} max={max} step={step} value={value} onChange={(event) => onChange(Number(event.target.value))} className="h-2 w-full cursor-pointer accent-[#b7462f]" /></label>;
+}
+
 export default function PostcardEditor() {
   const canvasRef = useRef<HTMLCanvasElement>(null);
   const imageRef = useRef<HTMLImageElement | null>(null);
@@ -135,6 +173,11 @@ export default function PostcardEditor() {
   const [message, setMessage] = useState(COPY.en.messageDefault);
   const [sender, setSender] = useState("");
   const [theme, setTheme] = useState<PostcardTheme>("vintage");
+  const [font, setFont] = useState<PostcardFont>("classic");
+  const [fontSize, setFontSize] = useState(42);
+  const [textAlign, setTextAlign] = useState<PostcardTextAlign>("left");
+  const [stamp, setStamp] = useState<PostcardStamp>("local");
+  const [photoEdit, setPhotoEdit] = useState<PostcardPhotoEdit>({ ...DEFAULT_PHOTO_EDIT });
   const [photoName, setPhotoName] = useState("");
   const [imageRevision, setImageRevision] = useState(0);
   const [notice, setNotice] = useState("");
@@ -194,8 +237,8 @@ export default function PostcardEditor() {
 
   useEffect(() => {
     if (!canvasRef.current) return;
-    renderPostcard(canvasRef.current, imageRef.current, { place, country, latitude, longitude, placeKind, message, sender, theme, date, lang });
-  }, [place, country, latitude, longitude, placeKind, message, sender, theme, date, lang, photoName, imageRevision]);
+    renderPostcard(canvasRef.current, imageRef.current, { place, country, latitude, longitude, placeKind, message, sender, theme, date, lang, font, fontSize, textAlign, stamp, photoEdit });
+  }, [place, country, latitude, longitude, placeKind, message, sender, theme, date, lang, font, fontSize, textAlign, stamp, photoEdit, photoName, imageRevision]);
 
   useEffect(() => () => {
     if (objectUrlRef.current) URL.revokeObjectURL(objectUrlRef.current);
@@ -204,7 +247,11 @@ export default function PostcardEditor() {
   useEffect(() => {
     setPublicUrl("");
     setLinkCopied(false);
-  }, [place, country, message, sender, theme, photoName, imageRevision]);
+  }, [place, country, message, sender, theme, font, fontSize, textAlign, stamp, photoEdit, photoName, imageRevision]);
+
+  function updatePhotoEdit(key: keyof PostcardPhotoEdit, value: number) {
+    setPhotoEdit((current) => ({ ...current, [key]: value }));
+  }
 
   function loadPhoto(event: ChangeEvent<HTMLInputElement>) {
     const file = event.target.files?.[0];
@@ -220,6 +267,7 @@ export default function PostcardEditor() {
     image.onload = () => {
       imageRef.current = image;
       setPhotoName(file.name);
+      setPhotoEdit({ ...DEFAULT_PHOTO_EDIT });
       setNotice("");
       trackPostcard("postcard_photo_added", { theme });
     };
@@ -360,10 +408,36 @@ export default function PostcardEditor() {
               <span className="mt-1 block text-xs text-[#6b5c4e]">{t.photoHint}</span>
             </label>
 
+            <details className="mt-3 overflow-hidden rounded-2xl border border-[#6d5037]/15 bg-white/35">
+              <summary className="flex cursor-pointer list-none items-center justify-between gap-3 px-4 py-3.5 font-bold marker:content-none"><span className="flex items-center gap-2"><SlidersHorizontal size={18} className="text-[#b7462f]" />{t.photoEdit}</span><span className="text-xs text-[#8b7662]">+</span></summary>
+              <div className="grid gap-4 border-t border-[#6d5037]/10 px-4 pb-4 pt-4 sm:grid-cols-2 lg:grid-cols-1 xl:grid-cols-2">
+                <RangeControl label={t.zoom} value={photoEdit.zoom} min={1} max={2} step={0.05} unit="×" onChange={(value) => updatePhotoEdit("zoom", value)} />
+                <RangeControl label={t.rotation} value={photoEdit.rotation} min={-15} max={15} unit="°" onChange={(value) => updatePhotoEdit("rotation", value)} />
+                <RangeControl label={t.horizontal} value={photoEdit.offsetX} min={-100} max={100} unit="%" onChange={(value) => updatePhotoEdit("offsetX", value)} />
+                <RangeControl label={t.vertical} value={photoEdit.offsetY} min={-100} max={100} unit="%" onChange={(value) => updatePhotoEdit("offsetY", value)} />
+                <RangeControl label={t.brightness} value={photoEdit.brightness} min={50} max={150} unit="%" onChange={(value) => updatePhotoEdit("brightness", value)} />
+                <RangeControl label={t.contrast} value={photoEdit.contrast} min={50} max={150} unit="%" onChange={(value) => updatePhotoEdit("contrast", value)} />
+                <RangeControl label={t.saturation} value={photoEdit.saturation} min={0} max={180} unit="%" onChange={(value) => updatePhotoEdit("saturation", value)} />
+                <button type="button" onClick={() => setPhotoEdit({ ...DEFAULT_PHOTO_EDIT })} className="flex items-center justify-center gap-2 self-end rounded-full border border-[#6d5037]/20 bg-white/70 px-4 py-2 text-sm font-bold"><RotateCcw size={15} />{t.reset}</button>
+              </div>
+            </details>
+
             <label className="mt-5 block"><span className="mb-2 block text-xs font-bold uppercase tracking-widest">{t.message}</span><textarea value={message} maxLength={500} rows={5} onChange={(e) => setMessage(e.target.value)} className="w-full resize-y rounded-xl border border-[#6d5037]/20 bg-white/70 px-4 py-3 outline-none focus:border-[#b7462f]" /><span className="mt-1 block text-right text-xs text-[#76685b]">{message.length}/500</span></label>
             <label className="mt-3 block"><span className="mb-2 block text-xs font-bold uppercase tracking-widest">{t.sender}</span><input value={sender} maxLength={30} placeholder={t.senderPlaceholder} onChange={(e) => setSender(e.target.value)} className="w-full rounded-xl border border-[#6d5037]/20 bg-white/70 px-4 py-3 outline-none focus:border-[#b7462f]" /></label>
 
+            <details className="mt-3 overflow-hidden rounded-2xl border border-[#6d5037]/15 bg-white/35">
+              <summary className="flex cursor-pointer list-none items-center justify-between gap-3 px-4 py-3.5 font-bold marker:content-none"><span className="flex items-center gap-2"><Type size={18} className="text-[#b7462f]" />{t.textDesign}</span><span className="text-xs text-[#8b7662]">+</span></summary>
+              <div className="border-t border-[#6d5037]/10 px-4 pb-4 pt-4">
+                <span className="text-xs font-bold uppercase tracking-widest">{t.font}</span>
+                <div className="mt-2 grid grid-cols-2 gap-2 sm:grid-cols-3 lg:grid-cols-2 xl:grid-cols-3">{fonts.map((item) => <button type="button" key={item} aria-pressed={font === item} onClick={() => setFont(item)} style={{ fontFamily: FONT_PREVIEWS[item] }} className={`min-h-11 rounded-xl border px-2 py-2 text-sm transition ${font === item ? "border-[#b7462f] bg-[#f8dec0]/70 shadow-sm" : "border-[#6d5037]/15 bg-white/65"}`}>{t.fonts[item]}</button>)}</div>
+                <div className="mt-4"><RangeControl label={t.fontSize} value={fontSize} min={30} max={54} unit=" px" onChange={setFontSize} /></div>
+                <div className="mt-4 flex items-center justify-between gap-3"><span className="text-xs font-bold uppercase tracking-widest">{t.alignment}</span><div className="flex rounded-xl border border-[#6d5037]/15 bg-white/65 p-1">{(["left", "center", "right"] as PostcardTextAlign[]).map((item) => { const Icon = item === "left" ? AlignLeft : item === "center" ? AlignCenter : AlignRight; return <button type="button" key={item} aria-label={`${t.alignment}: ${item}`} aria-pressed={textAlign === item} onClick={() => setTextAlign(item)} className={`grid h-9 w-10 place-items-center rounded-lg ${textAlign === item ? "bg-[#b7462f] text-white" : "text-[#65584c]"}`}><Icon size={17} /></button>; })}</div></div>
+              </div>
+            </details>
+
             <fieldset className="mt-6 min-w-0"><legend className="text-xs font-bold uppercase tracking-widest">{t.style}</legend><div className="-mx-1 mt-3 overflow-x-auto px-1 pb-2 [scrollbar-width:thin]"><div className="grid auto-cols-[128px] grid-flow-col gap-3 sm:auto-cols-[142px]">{themes.map((item) => <button type="button" key={item} aria-pressed={theme === item} onClick={() => setTheme(item)} className={`snap-start rounded-2xl border p-2 text-left text-xs font-bold transition ${theme === item ? "border-[#28231e] bg-white shadow-md ring-2 ring-[#b7462f]/20" : "border-[#6d5037]/15 bg-white/35 hover:border-[#6d5037]/35 hover:bg-white/60"}`}><ThemePreview theme={item} /><span className="mt-2 block truncate px-1">{t.themes[item]}</span></button>)}</div></div></fieldset>
+
+            <fieldset className="mt-5 min-w-0"><legend className="flex items-center gap-2 text-xs font-bold uppercase tracking-widest"><Stamp size={15} />{t.stampStyle}</legend><div className="-mx-1 mt-3 overflow-x-auto px-1 pb-2 [scrollbar-width:thin]"><div className="grid auto-cols-[116px] grid-flow-col gap-2">{stamps.map((item) => <button type="button" key={item} aria-pressed={stamp === item} onClick={() => setStamp(item)} className={`rounded-2xl border p-2 text-center text-xs font-bold transition ${stamp === item ? "border-[#b7462f] bg-white shadow-md ring-2 ring-[#b7462f]/15" : "border-[#6d5037]/15 bg-white/35 hover:bg-white/60"}`}><StampPreview stamp={item} /><span className="mt-1 block truncate">{t.stamps[item]}</span></button>)}</div></div></fieldset>
 
             <div className="mt-7 grid gap-3 sm:grid-cols-2 lg:grid-cols-1 xl:grid-cols-2">
               <button type="button" onClick={share} className="flex items-center justify-center gap-2 rounded-full bg-[#b7462f] px-5 py-3.5 font-bold text-white shadow-[0_10px_24px_rgba(183,70,47,.28)] transition hover:-translate-y-0.5"><Send size={18} /> {t.share}</button>
