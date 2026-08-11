@@ -2,6 +2,19 @@ import { renderStyledPostcard } from "./renderStyledPostcard";
 
 export type PostcardTheme = "vintage" | "polaroid" | "airmail" | "scrapbook" | "minimal";
 export type PostcardLanguage = "hu" | "de" | "en" | "ro" | "it";
+export type PostcardFont = "classic" | "handwritten" | "editorial" | "modern" | "typewriter";
+export type PostcardTextAlign = "left" | "center" | "right";
+export type PostcardStamp = "local" | "passport" | "airmail" | "rail" | "modern";
+
+export type PostcardPhotoEdit = {
+  zoom: number;
+  offsetX: number;
+  offsetY: number;
+  rotation: number;
+  brightness: number;
+  contrast: number;
+  saturation: number;
+};
 
 export type PostcardContent = {
   place: string;
@@ -14,6 +27,11 @@ export type PostcardContent = {
   date: string;
   theme: PostcardTheme;
   lang: PostcardLanguage;
+  font: PostcardFont;
+  fontSize: number;
+  textAlign: PostcardTextAlign;
+  stamp: PostcardStamp;
+  photoEdit: PostcardPhotoEdit;
 };
 
 export function renderPostcard(canvas: HTMLCanvasElement, image: HTMLImageElement | null, content: PostcardContent) {
