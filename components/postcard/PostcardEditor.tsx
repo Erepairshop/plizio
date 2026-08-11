@@ -382,23 +382,23 @@ export default function PostcardEditor() {
   return (
     <main className="min-h-screen overflow-hidden bg-[#f4ead8] text-[#28231e]">
       <div className="pointer-events-none fixed inset-0 opacity-35 [background-image:radial-gradient(#875f3b_0.7px,transparent_0.7px)] [background-size:12px_12px]" />
-      <header className="relative mx-auto flex max-w-7xl items-center justify-between px-5 py-6 sm:px-8">
+      <header className="relative mx-auto flex max-w-7xl items-center justify-between gap-3 px-4 py-5 sm:px-8 sm:py-6">
         <a href="/" className="font-serif text-xl font-black tracking-[0.18em]">PLIZIO</a>
-        <span className="rounded-full border border-[#28231e]/15 bg-white/40 px-4 py-2 text-xs font-bold uppercase tracking-[0.16em]">{t.studio}</span>
+        <span className="hidden rounded-full border border-[#28231e]/15 bg-white/40 px-4 py-2 text-xs font-bold uppercase tracking-[0.16em] sm:block">{t.studio}</span>
       </header>
 
-      <section className="relative mx-auto max-w-7xl px-5 pb-16 pt-5 sm:px-8 lg:pt-10">
+      <section className="relative mx-auto box-border w-full max-w-7xl px-4 pb-12 pt-3 sm:px-8 sm:pb-16 sm:pt-5 lg:pt-10">
         <div className="max-w-3xl">
           <p className="flex items-center gap-2 text-sm font-bold uppercase tracking-[0.22em] text-[#b7462f]"><Sparkles size={16} /> {t.eyebrow}</p>
-          <h1 className="mt-4 font-serif text-5xl font-black leading-[0.95] tracking-[-0.04em] sm:text-7xl">{t.titleA}<br />{t.titleB}</h1>
+          <h1 className="mt-4 font-serif text-[2.5rem] font-black leading-[0.96] tracking-[-0.04em] sm:text-7xl">{t.titleA}<br />{t.titleB}</h1>
           <p className="mt-5 max-w-xl text-lg leading-8 text-[#54493e]">{t.intro}</p>
         </div>
 
-        <div className="mt-10 grid items-start gap-8 lg:grid-cols-[0.82fr_1.18fr]">
-          <div className="rounded-[28px] border border-[#6d5037]/20 bg-[#fffaf0]/85 p-5 shadow-[0_24px_70px_rgba(63,42,22,.12)] backdrop-blur sm:p-7">
+        <div className="mt-8 grid min-w-0 items-start gap-7 sm:mt-10 sm:gap-8 lg:grid-cols-[0.82fr_1.18fr]">
+          <div className="min-w-0 rounded-[22px] border border-[#6d5037]/20 bg-[#fffaf0]/85 p-4 shadow-[0_24px_70px_rgba(63,42,22,.12)] backdrop-blur sm:rounded-[28px] sm:p-7">
             <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-1 xl:grid-cols-2">
-              <label className="block"><span className="mb-2 flex items-center gap-2 text-xs font-bold uppercase tracking-widest"><MapPin size={15} /> {t.place}</span><input value={place} maxLength={80} onChange={(e) => setPlace(e.target.value)} className="w-full rounded-xl border border-[#6d5037]/20 bg-white/70 px-4 py-3 outline-none focus:border-[#b7462f]" /></label>
-              <label className="block"><span className="mb-2 block text-xs font-bold uppercase tracking-widest">{t.country}</span><input value={country} maxLength={60} onChange={(e) => setCountry(e.target.value)} className="w-full rounded-xl border border-[#6d5037]/20 bg-white/70 px-4 py-3 outline-none focus:border-[#b7462f]" /></label>
+              <label className="min-w-0 block"><span className="mb-2 flex items-center gap-2 text-xs font-bold uppercase tracking-widest"><MapPin size={15} /> {t.place}</span><input value={place} maxLength={80} onChange={(e) => setPlace(e.target.value)} className="box-border min-w-0 w-full rounded-xl border border-[#6d5037]/20 bg-white/70 px-4 py-3 outline-none focus:border-[#b7462f]" /></label>
+              <label className="min-w-0 block"><span className="mb-2 block text-xs font-bold uppercase tracking-widest">{t.country}</span><input value={country} maxLength={60} onChange={(e) => setCountry(e.target.value)} className="box-border min-w-0 w-full rounded-xl border border-[#6d5037]/20 bg-white/70 px-4 py-3 outline-none focus:border-[#b7462f]" /></label>
             </div>
 
             <label className="mt-5 block cursor-pointer rounded-2xl border-2 border-dashed border-[#b7462f]/35 bg-[#f8dec0]/35 p-5 text-center transition hover:bg-[#f8dec0]/65">
@@ -422,8 +422,8 @@ export default function PostcardEditor() {
               </div>
             </details>
 
-            <label className="mt-5 block"><span className="mb-2 block text-xs font-bold uppercase tracking-widest">{t.message}</span><textarea value={message} maxLength={500} rows={5} onChange={(e) => setMessage(e.target.value)} className="w-full resize-y rounded-xl border border-[#6d5037]/20 bg-white/70 px-4 py-3 outline-none focus:border-[#b7462f]" /><span className="mt-1 block text-right text-xs text-[#76685b]">{message.length}/500</span></label>
-            <label className="mt-3 block"><span className="mb-2 block text-xs font-bold uppercase tracking-widest">{t.sender}</span><input value={sender} maxLength={30} placeholder={t.senderPlaceholder} onChange={(e) => setSender(e.target.value)} className="w-full rounded-xl border border-[#6d5037]/20 bg-white/70 px-4 py-3 outline-none focus:border-[#b7462f]" /></label>
+            <label className="mt-5 min-w-0 block"><span className="mb-2 block text-xs font-bold uppercase tracking-widest">{t.message}</span><textarea value={message} maxLength={500} rows={5} onChange={(e) => setMessage(e.target.value)} className="box-border min-w-0 w-full resize-y rounded-xl border border-[#6d5037]/20 bg-white/70 px-4 py-3 outline-none focus:border-[#b7462f]" /><span className="mt-1 block text-right text-xs text-[#76685b]">{message.length}/500</span></label>
+            <label className="mt-3 min-w-0 block"><span className="mb-2 block text-xs font-bold uppercase tracking-widest">{t.sender}</span><input value={sender} maxLength={30} placeholder={t.senderPlaceholder} onChange={(e) => setSender(e.target.value)} className="box-border min-w-0 w-full rounded-xl border border-[#6d5037]/20 bg-white/70 px-4 py-3 outline-none focus:border-[#b7462f]" /></label>
 
             <details className="mt-3 overflow-hidden rounded-2xl border border-[#6d5037]/15 bg-white/35">
               <summary className="flex cursor-pointer list-none items-center justify-between gap-3 px-4 py-3.5 font-bold marker:content-none"><span className="flex items-center gap-2"><Type size={18} className="text-[#b7462f]" />{t.textDesign}</span><span className="text-xs text-[#8b7662]">+</span></summary>
@@ -452,7 +452,7 @@ export default function PostcardEditor() {
               {showPublicShare ? <div className="border-t border-[#47745f]/20 px-4 pb-4 pt-3">
                 <p className="text-sm leading-6 text-[#526158]">{t.publicIntro}</p>
                 <label className="mt-3 block text-xs font-bold uppercase tracking-widest text-[#445248]">{t.expiry}
-                  <select value={shareExpiry} onChange={(event) => setShareExpiry(event.target.value as ShareExpiry)} className="mt-2 w-full rounded-xl border border-[#47745f]/25 bg-white/80 px-3 py-2.5 text-sm font-semibold normal-case tracking-normal outline-none focus:border-[#47745f]">
+                  <select value={shareExpiry} onChange={(event) => setShareExpiry(event.target.value as ShareExpiry)} className="mt-2 box-border min-w-0 w-full rounded-xl border border-[#47745f]/25 bg-white/80 px-3 py-2.5 text-sm font-semibold normal-case tracking-normal outline-none focus:border-[#47745f]">
                     {(["7", "30", "forever"] as ShareExpiry[]).map((value) => <option key={value} value={value}>{t.expiryOptions[value]}</option>)}
                   </select>
                 </label>
@@ -464,7 +464,7 @@ export default function PostcardEditor() {
                   {creatingLink ? <LoaderCircle size={18} className="animate-spin" /> : <Link2 size={18} />}{creatingLink ? t.creating : t.createLink}
                 </button> : <div className="mt-4 space-y-3">
                   <div className="flex items-center gap-2 rounded-xl border border-[#47745f]/25 bg-white/75 p-2 pl-3">
-                    <input readOnly value={publicUrl} aria-label={t.publicReady} className="min-w-0 flex-1 bg-transparent text-xs text-[#3d4c43] outline-none" />
+                    <input readOnly value={publicUrl} aria-label={t.publicReady} className="box-border min-w-0 flex-1 bg-transparent text-xs text-[#3d4c43] outline-none" />
                     <button type="button" onClick={copyPublicLink} className="grid h-9 w-9 shrink-0 place-items-center rounded-lg bg-[#e0e8dc] text-[#345847]" aria-label={t.copyLink}>{linkCopied ? <Check size={17} /> : <Copy size={17} />}</button>
                   </div>
                   <div className="grid grid-cols-2 gap-2">
@@ -478,10 +478,10 @@ export default function PostcardEditor() {
             <p className="mt-5 flex items-start gap-2 text-xs leading-5 text-[#65584c]"><ShieldCheck size={17} className="mt-0.5 shrink-0 text-[#47745f]" />{t.privacy}</p>
           </div>
 
-          <div className="relative lg:sticky lg:top-6">
-            <div className="absolute -inset-5 -rotate-2 rounded-[36px] bg-[#dfc5a0]/70" />
-            <div className="relative rotate-[1deg] rounded-[22px] bg-white p-3 shadow-[0_32px_80px_rgba(56,36,16,.25)] transition duration-500 hover:rotate-0 sm:p-5">
-              <canvas ref={canvasRef} className="block h-auto w-full rounded-[10px] bg-[#e7cda7]" aria-label={t.previewLabel} />
+          <div className="relative mx-auto min-w-0 w-full max-w-[880px] lg:sticky lg:top-6">
+            <div className="absolute -inset-2 -rotate-1 rounded-[24px] bg-[#dfc5a0]/70 sm:-inset-5 sm:-rotate-2 sm:rounded-[36px]" />
+            <div className="relative min-w-0 rounded-[16px] bg-white p-2 shadow-[0_24px_55px_rgba(56,36,16,.22)] transition duration-500 sm:rotate-[1deg] sm:rounded-[22px] sm:p-5 sm:shadow-[0_32px_80px_rgba(56,36,16,.25)] sm:hover:rotate-0">
+              <canvas ref={canvasRef} className="box-border block h-auto max-w-full w-full rounded-[8px] bg-[#e7cda7] sm:rounded-[10px]" aria-label={t.previewLabel} />
             </div>
             <p className="mt-7 flex items-center justify-center gap-2 text-sm font-semibold text-[#65584c]"><Camera size={17} /> {t.preview}</p>
           </div>
