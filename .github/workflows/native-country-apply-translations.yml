@@ -1,0 +1,94 @@
+name: Native Country Apply Translations
+
+# Applies a completed native-country-azure-translation queue into
+# public/data/i18n/<language>/. Kept separate from the translation run so a
+# queue can be inspected before anything is written.
+
+on:
+  workflow_dispatch:
+    inputs:
+      language:
+        description: "Native language key"
+        type: choice
+        required: true
+        options: [fr, tr, hr, pl, nl]
+      mode:
+        description: "Which completed queue to apply"
+        type: choice
+        required: true
+        default: "full"
+        options: [full, missing-descadv, missing-citytips-structured]
+      write:
+        description: "Write files (false = dry-run)"
+        type: choice
+        required: true
+        default: "false"
+        options: ["false", "true"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: native-country-apply-${{ inputs.language }}
+  cancel-in-progress: false
+
+jobs:
+  apply:
+    runs-on: [self-hosted, vps-plizio]
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Apply translations
+        run: |
+          set -euo pipefail
+          # Same work-dir layout the translation workflow writes.
+          WORK="/home/erik/plizio-translations/${{ inputs.language }}-${{ inputs.mode }}-20260807"
+          if [ ! -s "$WORK/manifest.json" ] || [ ! -s "$WORK/results.jsonl" ]; then
+            echo "::error::No completed queue at $WORK — run the translation workflow first."
+            exit 1
+          fi
+          FLAGS=""
+          [ "${{ inputs.write }}" = "true" ] && FLAGS="--write"
+          python3 scripts/native-rollout/apply-country-translations.py \
+            --repo . --work-dir "$WORK" --language "${{ inputs.language }}" $FLAGS
+
+      - name: Validate written JSON
+        if: inputs.write == 'true'
+        run: |
+          set -euo pipefail
+          WORK="/home/erik/plizio-translations/${{ inputs.language }}-${{ inputs.mode }}-20260807"
+          LIST="$WORK/written-files.txt"
+          echo "written files: $(wc -l < "$LIST")"
+          # Validate every file the apply touched, not just the i18n sidecars:
+          # most of the translation lands in itinerary/, city-tips/ and friends.
+          tr '\n' '\0' < "$LIST" \
+            | xargs -0 -n1 -P4 python3 -c 'import json,sys; json.load(open(sys.argv[1],encoding="utf-8"))'
+          # No `| head` here: git dies on SIGPIPE and the step fails under `set -e`.
+          CHANGED=$(git status --porcelain | wc -l)
+          git status --porcelain > /tmp/native-apply-changed.txt
+          sed -n '1,20p' /tmp/native-apply-changed.txt
+          echo "changed files: $CHANGED"
+
+      - name: Commit sidecars
+        if: inputs.write == 'true'
+        run: |
+          set -euo pipefail
+          git config user.name "plizio-azure-bot"
+          git config user.email "borota25@gmail.com"
+          WORK="/home/erik/plizio-translations/${{ inputs.language }}-${{ inputs.mode }}-20260807"
+          # Stage exactly what the apply wrote. Staging only i18n/<lang> would
+          # drop the layer files, which carry the majority of the translations.
+          git add --pathspec-from-file="$WORK/written-files.txt"
+          if git diff --cached --quiet; then
+            echo "No translation changes"
+            exit 0
+          fi
+          git commit -m "content(i18n): apply ${{ inputs.language }} native translations (${{ inputs.mode }})"
+          # --autostash: the runner keeps a persistent checkout and its post-job
+          # hook deletes the tracked out/ tree, so every job starts with ~241k
+          # unstaged deletions and a plain rebase refuses to run.
+          git pull --rebase --autostash origin ${GITHUB_REF_NAME}
+          git push origin HEAD:${GITHUB_REF_NAME}

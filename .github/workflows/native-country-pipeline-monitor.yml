@@ -1,0 +1,89 @@
+name: Native Country Pipeline Monitor
+
+on:
+  workflow_dispatch:
+    inputs:
+      language:
+        description: "Native language code"
+        required: true
+        default: "nl"
+      country_slug:
+        description: "English country slug"
+        required: true
+        default: "netherlands"
+      pois_file:
+        description: "Country data file"
+        required: true
+        default: "NL.json"
+      batch_limit:
+        description: "Translation batches; 0 means all"
+        required: true
+        default: "0"
+
+permissions:
+  actions: write
+  contents: read
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 1440
+    env:
+      GH_TOKEN: ${{ github.token }}
+      BRANCH: ${{ github.ref_name }}
+      LANGUAGE: ${{ inputs.language }}
+      COUNTRY_SLUG: ${{ inputs.country_slug }}
+      POIS_FILE: ${{ inputs.pois_file }}
+      BATCH_LIMIT: ${{ inputs.batch_limit }}
+    steps:
+      - name: Run and wait for each pipeline stage
+        shell: bash
+        run: |
+          set -euo pipefail
+          REPO="${GITHUB_REPOSITORY}"
+
+          wait_for_dispatch() {
+            local workflow="$1"
+            shift
+            local started
+            started=$(date -u +%s)
+            echo "Dispatching $workflow"
+            gh workflow run "$workflow" --repo "$REPO" --ref "$BRANCH" "$@"
+
+            local run_id=""
+            for _ in $(seq 1 60); do
+              run_id=$(gh run list --repo "$REPO" --workflow "$workflow" --branch "$BRANCH" \
+                --limit 20 --json databaseId,createdAt \
+                --jq ".[] | select((.createdAt | fromdateiso8601) >= $started) | .databaseId" | head -n 1 || true)
+              [ -n "$run_id" ] && break
+              sleep 5
+            done
+            [ -n "$run_id" ] || { echo "Could not find dispatched run for $workflow"; return 1; }
+            echo "Monitoring $workflow run $run_id"
+
+            while true; do
+              state=$(gh run view "$run_id" --repo "$REPO" --json status,conclusion --jq '.status + " " + (.conclusion // "")')
+              echo "[$(date -u +%H:%M:%S)] $workflow #$run_id: $state"
+              case "$state" in
+                "completed success") return 0 ;;
+                completed\ *)
+                  gh run view "$run_id" --repo "$REPO" --log-failed || true
+                  return 1
+                  ;;
+              esac
+              sleep 30
+            done
+          }
+
+          wait_for_dispatch "Native Country Azure Translation" \
+            -f language="$LANGUAGE" -f mode=full -f limit="$BATCH_LIMIT"
+          wait_for_dispatch "Native Country Apply Translations" \
+            -f language="$LANGUAGE" -f mode=full -f write=true
+          wait_for_dispatch "Native Sights Azure Translation" \
+            -f language="$LANGUAGE" -f limit=0
+          wait_for_dispatch "Native UI Azure Translation" \
+            -f language_code="$LANGUAGE" -f language_name="Dutch" -f limit=0
+          wait_for_dispatch "Deploy VPS (Leaseweb)" \
+            -f poi_mode=full -f poi_scope_language="$LANGUAGE"
+
+          echo "Native $LANGUAGE pipeline completed successfully."
