@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import argparse
+import copy
 import json
 from pathlib import Path
 from typing import Any
@@ -61,6 +62,28 @@ def ensure_list(value: Any, size: int) -> list:
     return result
 
 
+def merge_shape(source: Any, translated: Any) -> Any:
+    if isinstance(source, dict):
+        current = translated if isinstance(translated, dict) else {}
+        return {key: merge_shape(value, current.get(key)) for key, value in source.items()}
+    if isinstance(source, list):
+        current = translated if isinstance(translated, list) else []
+        return [
+            merge_shape(value, current[index] if index < len(current) else None)
+            for index, value in enumerate(source)
+        ]
+    if isinstance(source, str) and isinstance(translated, str) and translated.strip():
+        return translated
+    return copy.deepcopy(source)
+
+
+def set_nested(root: Any, path: list[Any], value: str) -> None:
+    current = root
+    for part in path[:-1]:
+        current = current[part]
+    current[path[-1]] = value
+
+
 def serialize_like(path: Path, value: Any) -> str:
     original = path.read_text(encoding="utf-8-sig") if path.exists() else ""
     if "\n" in original.strip():
@@ -92,7 +115,7 @@ def main() -> int:
 
     language = args.language
     documents: dict[Path, Any] = {}
-    applied = {"core": 0, "layer-string": 0, "layer-list": 0}
+    applied = {"core": 0, "layer-string": 0, "layer-list": 0, "layer-structured": 0}
 
     def document(path: Path, default: Any = None) -> Any:
         if path not in documents:
@@ -106,10 +129,12 @@ def main() -> int:
             path = data_root / "i18n" / language / f"{target['poi']}.json"
             sidecar = document(path, {})
             field = target["field"]
-            if field in {"name", "description"}:
+            if field in {"name", "description", "descAdv", "descriptionAdvanced"}:
                 sidecar[field] = value
             elif field == "facts":
                 index = int(target["index"])
+                if target.get("replace") and index == 0:
+                    sidecar["facts"] = []
                 sidecar["facts"] = ensure_list(sidecar.get("facts"), index + 1)
                 sidecar["facts"][index] = value
             elif field == "faq":
@@ -118,9 +143,16 @@ def main() -> int:
                 if not isinstance(sidecar["faq"][index], dict):
                     sidecar["faq"][index] = {}
                 sidecar["faq"][index][target["part"]] = value
+            elif field == "sights":
+                index = int(target["index"])
+                sidecar["sights"] = ensure_list(sidecar.get("sights"), index + 1)
+                if not isinstance(sidecar["sights"][index], dict):
+                    sidecar["sights"][index] = {}
+                sidecar["sights"][index]["sourceName"] = target.get("sourceName", "")
+                sidecar["sights"][index][target["part"]] = value
             else:
                 raise SystemExit(f"Unsupported core field: {field}")
-        elif kind in {"layer-string", "layer-list"}:
+        elif kind in {"layer-string", "layer-list", "layer-structured"}:
             path = repo / target["file"]
             if not path.exists() and str(target["file"]).startswith("public/data/"):
                 path = data_root / str(target["file"])[len("public/data/"):]
@@ -132,13 +164,22 @@ def main() -> int:
                 raise SystemExit(f"Localized target is not an object: {key}")
             if kind == "layer-string":
                 node[language] = value
-            else:
+            elif kind == "layer-list":
                 source = node.get("en")
                 if not isinstance(source, list):
                     raise SystemExit(f"English source list is missing: {key}")
                 index = int(target["index"])
                 node[language] = ensure_list(node.get(language), len(source))
                 node[language][index] = value
+            else:
+                source = node.get("en")
+                if not isinstance(source, (dict, list)):
+                    raise SystemExit(f"Structured English source is missing: {key}")
+                source_path = target.get("sourcePath") or []
+                if not source_path:
+                    raise SystemExit(f"Structured source path is missing: {key}")
+                node[language] = merge_shape(source, node.get(language))
+                set_nested(node[language], source_path, value)
         else:
             raise SystemExit(f"Unsupported target kind: {kind}")
         applied[kind] += 1
@@ -149,6 +190,16 @@ def main() -> int:
             temporary = path.with_suffix(path.suffix + ".tmp")
             temporary.write_text(serialize_like(path, value), encoding="utf-8")
             temporary.replace(path)
+
+    # Only a minority of the targets land in i18n/<language>/; the layer kinds
+    # write into itinerary/, city-tips/, poi-practical/ and poi-yearly-highlights.
+    # The caller stages exactly this list, so a newly added layer cannot silently
+    # stay out of the commit.
+    listing = work / "written-files.txt"
+    listing.write_text(
+        "".join(f"{path.relative_to(repo).as_posix()}\n" for path in sorted(documents)),
+        encoding="utf-8",
+    )
 
     summary = {
         "language": language,

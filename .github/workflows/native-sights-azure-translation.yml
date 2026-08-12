@@ -7,7 +7,7 @@ on:
         description: "Native country language"
         type: choice
         required: true
-        options: [it, es, pt, fr, tr, hr, nl]
+        options: [it, es, pt, fr, tr, hr, nl, cs, sk, da, sv, fi, el, bg]
       limit:
         description: "Pending batches to translate; 0 means all"
         required: true
@@ -58,6 +58,13 @@ jobs:
             fr) LANGUAGE_NAME="French" ;;
             tr) LANGUAGE_NAME="Turkish" ;;
             nl) LANGUAGE_NAME="Dutch" ;;
+            cs) LANGUAGE_NAME="Czech" ;;
+            sk) LANGUAGE_NAME="Slovak" ;;
+            da) LANGUAGE_NAME="Danish" ;;
+            sv) LANGUAGE_NAME="Swedish" ;;
+            fi) LANGUAGE_NAME="Finnish" ;;
+            el) LANGUAGE_NAME="Greek" ;;
+            bg) LANGUAGE_NAME="Bulgarian" ;;
             *) echo "::error::No language name mapped for $NATIVE_LANG"; exit 1 ;;
           esac
           set -a

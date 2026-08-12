@@ -11,9 +11,9 @@ on:
         description: "Native language key"
         type: choice
         required: true
-        options: [fr, tr, hr, pl, nl]
+        options: [it, fr, tr, hr, pl, nl, cs, sk, da, sv, fi, el, bg]
       mode:
-        description: "Which completed queue to apply"
+        description: "Which completed queue to apply (missing-descadv also repairs rich facts)"
         type: choice
         required: true
         default: "full"

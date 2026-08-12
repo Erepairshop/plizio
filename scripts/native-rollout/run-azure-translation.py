@@ -19,7 +19,20 @@ Return only one JSON object with this schema: {{"translations":{{"input_key":"tr
 Every input key must occur exactly once; no extra key is allowed. Do not add facts, commentary or markdown.
 Preserve URLs, dates, numbers, units and proper nouns in their established target-language or local form. Keep concise
 source strings concise. Preserve every placeholder such as {{place}}, {{country}} or {{name}} exactly, including
-its braces and spelling. Use correct punctuation and UTF-8 characters for the target language."""
+its braces and spelling. Never invent a placeholder the source does not contain: a caption like "Greetings from"
+is followed by the place name in the layout, not by a substitution, so if the target language cannot leave that
+slot open (Turkish needs a case suffix on the noun, for example) write a natural standalone phrase such as a bare
+"Greetings" instead of introducing {{place}}. Use correct punctuation and UTF-8 characters for the target language."""
+
+SIGHT_DESCRIPTION_INSTRUCTIONS = """Create one concise travel-guide sentence for every supplied sight.
+Each input value is JSON with place, sight, optional category and targetLanguage. Use ONLY facts literally present
+in those fields; do not use background knowledge or infer history, architecture, purpose, importance, dates,
+measurements, opening hours or rankings. A category may be stated in natural language, and the sight may be located
+in the supplied place context. If sourceDescription is present, translate it faithfully into targetLanguage without
+adding or removing facts. If those fields are insufficient for a useful grounded sentence, return exactly
+__SKIP__ for that key. Otherwise write 18-35 words in exactly the target language. Return only one JSON object with this schema:
+{{"translations":{{"input_key":"description"}}}}. Every key must occur exactly once; add no keys, commentary or
+markdown. Preserve proper nouns and use correct UTF-8 punctuation."""
 
 
 class RateLimiter:
@@ -49,7 +62,11 @@ def parse_translations(text: str, expected: set[str]) -> dict:
     value = text.strip()
     if value.startswith("```"):
         value = value.split("\n", 1)[-1].rsplit("```", 1)[0].strip()
-    parsed = json.loads(value)
+    try:
+        parsed = json.loads(value)
+    except json.JSONDecodeError:
+        # Models occasionally append prose or a duplicate object after the JSON.
+        parsed, _ = json.JSONDecoder().raw_decode(value)
     translated = parsed.get("translations") if isinstance(parsed, dict) else None
     if not isinstance(translated, dict):
         raise ValueError("Missing translations object")
@@ -60,7 +77,7 @@ def parse_translations(text: str, expected: set[str]) -> dict:
     return {key: item.strip() for key, item in translated.items()}
 
 
-def request_batch(endpoint: str, key: str, deployment: str, language_name: str, task: dict, limiter: RateLimiter, retries: int) -> dict:
+def request_batch(endpoint: str, key: str, deployment: str, instructions: str, task: dict, limiter: RateLimiter, retries: int) -> dict:
     # Models occasionally normalize long semantic keys. Stable aliases keep the
     # response schema small while preserving the original keys in stored output.
     original_by_alias = {
@@ -73,7 +90,7 @@ def request_batch(endpoint: str, key: str, deployment: str, language_name: str, 
     }
     payload = {
         "model": deployment,
-        "instructions": INSTRUCTIONS.format(language_name=language_name),
+        "instructions": instructions,
         "input": json.dumps(aliased_items, ensure_ascii=False, separators=(",", ":")),
         "reasoning": {"effort": "minimal"},
         "max_output_tokens": 12000,
@@ -136,6 +153,7 @@ def main() -> int:
     parser.add_argument("--rpm", type=float, default=9)
     parser.add_argument("--retries", type=int, default=4)
     parser.add_argument("--language-name", default="European Spanish")
+    parser.add_argument("--task", choices=("translate", "sight-description"), default="translate")
     args = parser.parse_args()
 
     endpoint = os.environ.get("AZURE_OPENAI_ENDPOINT", "")
@@ -153,12 +171,17 @@ def main() -> int:
         return 0
 
     limiter = RateLimiter(args.rpm)
+    instructions = (
+        SIGHT_DESCRIPTION_INSTRUCTIONS
+        if args.task == "sight-description"
+        else INSTRUCTIONS.format(language_name=args.language_name)
+    )
     args.output.parent.mkdir(parents=True, exist_ok=True)
     write_lock = threading.Lock()
     rows = []
     with ThreadPoolExecutor(max_workers=args.workers) as executor:
         futures = {
-            executor.submit(request_batch, endpoint, key, deployment, args.language_name, task, limiter, args.retries): task["id"]
+            executor.submit(request_batch, endpoint, key, deployment, instructions, task, limiter, args.retries): task["id"]
             for task in selected
         }
         for future in as_completed(futures):

@@ -11,9 +11,9 @@ on:
         description: "Native language key"
         type: choice
         required: true
-        options: [fr, tr, hr, pl, nl]
+        options: [it, fr, tr, hr, pl, nl, cs, sk, da, sv, fi, el, bg]
       mode:
-        description: "Translation queue"
+        description: "Translation queue (missing-descadv also repairs rich facts)"
         type: choice
         required: true
         default: "full"
@@ -41,11 +41,19 @@ jobs:
           # Every supported language MUST be listed: an unmapped code previously
           # fell through to Italian and mistranslated a whole run.
           case "${{ inputs.language }}" in
+            it) SLUG=italy; POIS=IT.json; NAME="Italian" ;;
             fr) SLUG=france;   POIS=FR.json; NAME="French" ;;
             tr) SLUG=germany;  POIS=DE.json; NAME="Turkish" ;;
             hr) SLUG=croatia;  POIS=HR.json; NAME="Croatian" ;;
             pl) SLUG=poland;   POIS=PL.json; NAME="Polish" ;;
             nl) SLUG=netherlands; POIS=NL.json; NAME="Dutch" ;;
+            cs) SLUG=czech-republic; POIS=CZ.json; NAME="Czech" ;;
+            sk) SLUG=slovakia; POIS=SK.json; NAME="Slovak" ;;
+            da) SLUG=denmark; POIS=DK.json; NAME="Danish" ;;
+            sv) SLUG=sweden; POIS=SE.json; NAME="Swedish" ;;
+            fi) SLUG=finland; POIS=FI.json; NAME="Finnish" ;;
+            el) SLUG=greece; POIS=GR.json; NAME="Greek" ;;
+            bg) SLUG=bulgaria; POIS=BG.json; NAME="Bulgarian" ;;
             *) echo "::error::No mapping for language ${{ inputs.language }}"; exit 1 ;;
           esac
           echo "slug=$SLUG" >> "$GITHUB_OUTPUT"
@@ -63,6 +71,9 @@ jobs:
             echo "::error::Generated Plizio data is missing from $SOURCE_REPO"
             exit 1
           fi
+          # A retry must not reuse results from an earlier queue with the same
+          # language/date directory; stale keys otherwise fail apply validation.
+          rm -rf "$WORK"
           mkdir -p "$WORK"
           # --only-rendered: fr renders only for FR-* parents, tr for DE-*, hr for
           # hr-native POIs. Without it we would pay for strings whose page is
