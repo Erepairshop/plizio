@@ -1464,9 +1464,24 @@ const TRUST_T: Record<string, { team: string; updated: string }> = {
   it: { team: "Redazione Plizio", updated: "Aggiornato" },
 };
 // Theme-agnostic (opacity + color:inherit) so it adapts to the page's text color.
-function renderPostcardCta(poi: POI, lang: Lang, countryId: string): string {
+function buildPostcardHref(poi: POI, lang: Lang, countryId: string): string {
   const placeName = getLocalized(poi.name, lang) ?? poi.id;
   const countryName = slugs.localizedCountryName(countryId, lang);
+  const params = new URLSearchParams({ place: String(placeName), country: countryName, lang });
+  if (poi.coords && Number.isFinite(poi.coords[0]) && Number.isFinite(poi.coords[1])) {
+    params.set("lat", Number(poi.coords[1]).toFixed(5));
+    params.set("lng", Number(poi.coords[0]).toFixed(5));
+  }
+  if (poi.type) params.set("kind", String(poi.type));
+  for (const postcardLang of SUPPORTED_LANGS) {
+    params.set(`place_${postcardLang}`, String(getLocalized(poi.name, postcardLang) ?? placeName));
+    params.set(`country_${postcardLang}`, slugs.localizedCountryName(countryId, postcardLang));
+  }
+  return `/postcard/?${params.toString()}`;
+}
+
+function renderPostcardCta(poi: POI, lang: Lang, countryId: string): string {
+  const placeName = getLocalized(poi.name, lang) ?? poi.id;
   const COPY: Partial<Record<Lang, { eyebrow: string; title: string; body: string; button: string; stamp: string }>> = {
     de: { eyebrow: "Deine Reise, deine Erinnerung", title: `Eine Postkarte aus ${placeName}`, body: "Gestalte aus deinem eigenen Foto eine persönliche Postkarte mit Ortsstempel. Kostenlos und ohne Anmeldung.", button: "Postkarte gestalten", stamp: "Grüße aus" },
     hu: { eyebrow: "A te utazásod, a te emléked", title: `Képeslap innen: ${placeName}`, body: "Készíts saját fotódból személyes képeslapot helybélyegzővel. Ingyenes, és regisztráció sem kell hozzá.", button: "Képeslap készítése", stamp: "Üdvözlet innen" },
@@ -1480,17 +1495,7 @@ function renderPostcardCta(poi: POI, lang: Lang, countryId: string): string {
   const fallback = COPY[lang] || COPY.en!;
   const t = poiHtmlUiSection(lang, "postcard", fallback);
   t.title = poiHtmlUiText(lang, "postcard.title", fallback.title, { place: placeName });
-  const params = new URLSearchParams({ place: String(placeName), country: countryName, lang });
-  if (poi.coords && Number.isFinite(poi.coords[0]) && Number.isFinite(poi.coords[1])) {
-    params.set("lat", Number(poi.coords[1]).toFixed(5));
-    params.set("lng", Number(poi.coords[0]).toFixed(5));
-  }
-  if (poi.type) params.set("kind", String(poi.type));
-  for (const postcardLang of SUPPORTED_LANGS) {
-    params.set(`place_${postcardLang}`, String(getLocalized(poi.name, postcardLang) ?? placeName));
-    params.set(`country_${postcardLang}`, slugs.localizedCountryName(countryId, postcardLang));
-  }
-  const href = `/postcard/?${params.toString()}`;
+  const href = buildPostcardHref(poi, lang, countryId);
   return `<section class="plz-postcard-cta" aria-labelledby="plz-postcard-title">
   <div class="plz-postcard-copy">
     <p class="plz-postcard-eyebrow">${escapeHtml(t.eyebrow)}</p>
@@ -3057,6 +3062,8 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   const countryId = getCountryId(poi.parent);
   // Lokalizalt, helyesen irt orszagnev (nem nyers slug) — SEO title/h1/breadcrumb/alt
   const countryName = slugs.localizedCountryName(countryId, lang);
+  const postcardHeaderHref = buildPostcardHref(poi, lang, countryId);
+  const postcardHeaderLabel = poiHtmlUiText(lang, "postcard.button", "Create a postcard");
   // Belso link a "Top 50 Sehenswuerdigkeiten" hubra (reciprok: a hub linkel a POI-kra,
   // a POI vissza a hubra -> topikus-szulo link + a hub authority-jat erositi).
   const _hubSlug = sightsHubSlug(countryId, lang);
@@ -3823,7 +3830,7 @@ ${heroImg ? `<meta property="og:image" content="${SITE_URL}${escapeHtml(heroImg)
 <link rel="preconnect" href="https://fonts.googleapis.com"/>
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&display=swap" rel="stylesheet"/>
-<link rel="stylesheet" href="/poi-static/poi.css?v=20260801hero1"/>
+<link rel="stylesheet" href="/poi-static/poi.css?v=20260812pcnav1"/>
 ${structuredData(poi, lang, url, metaDesc, countryId, countryName, faqItems, [
   { name: I("home", lang), url: `/${navLang}/` },
   { name: countryName, url: buildCountryPath(navLang, countryId) },
@@ -3877,6 +3884,7 @@ ready();})();</script>
     <nav class="plz-nav">
       <a href="/${navLang}/">${I("home", lang)}</a>
       <a href="/europe-map/">Europa</a>
+      <a class="plz-postcard-nav" href="${escapeHtml(postcardHeaderHref)}" aria-label="${escapeHtml(postcardHeaderLabel)}"><span aria-hidden="true">&#9993;</span><span>${escapeHtml(postcardHeaderLabel)}</span></a>
     </nav>
     <div class="plz-langs">${langSwitcher}</div>
   </div>
@@ -4339,6 +4347,8 @@ function renderSightHtml(host: POI, data: any, lang: Lang): string {
   const hostName = (host.name as any)?.[lang] || (host.name as any)?.de || host.id;
   const hostUrl = buildPoiPath(lang, host);
   const countryId = getCountryId(host.parent!);
+  const postcardHeaderHref = buildPostcardHref(host, lang, countryId);
+  const postcardHeaderLabel = poiHtmlUiText(lang, "postcard.button", "Create a postcard");
   const sightRelUrl = hostUrl.replace(/\/$/, "") + "/sight/" + data.slug + "/";
   const sightUrl = `${SITE_URL}${sightRelUrl}`;
   // Per-lang sight URL alternates (use buildPoiPath for each lang)
@@ -4468,7 +4478,7 @@ ${hreflangLinks}
 <link rel="preconnect" href="https://fonts.googleapis.com"/>
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&display=swap" rel="stylesheet"/>
-<link rel="stylesheet" href="/poi-static/poi.css?v=20260712pc1"/>
+<link rel="stylesheet" href="/poi-static/poi.css?v=20260812pcnav1"/>
 <style>
 .plz-sp-back{display:inline-flex;align-items:center;gap:.4rem;color:var(--accent);text-decoration:none;font-size:.85rem;margin-bottom:.5rem}
 .plz-sp-back:hover{color:var(--accent-deep)}
@@ -4535,6 +4545,7 @@ ready();})();</script>
     <nav class="plz-nav">
       <a href="/${lang}/">${I("home", lang)}</a>
       <a href="/europe-map/">Europa</a>
+      <a class="plz-postcard-nav" href="${escapeHtml(postcardHeaderHref)}" aria-label="${escapeHtml(postcardHeaderLabel)}"><span aria-hidden="true">&#9993;</span><span>${escapeHtml(postcardHeaderLabel)}</span></a>
     </nav>
     <div class="plz-langs">${langSwitcher}</div>
   </div>
